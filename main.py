@@ -81,14 +81,29 @@ def generate_soup(content):
 def request_content(url):
     return requests.get(url).content.decode('utf-8')
 
+def regenerate_hrefs(soup):
+    prefix = 'https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/'
+    lis = soup.find_all('li')
+
+    github_urls = set()
+    for li in lis:
+        a = li.find_all('a')
+        if has_valid_github_url(a):
+            full_name = urlparse(a[0]['href']).path
+            a[0]['href'] = prefix + full_name.split('/')[-1]
+
+    f = open('new.html', 'w')
+    f.write(soup.prettify())
+    del f
+
 def main():
     awesome_url = 'https://raw.githubusercontent.com/sindresorhus/awesome/master/readme.md'
     content = request_content(awesome_url)
 
     soup = generate_soup(content)
-    awesome_urls = generate_all_github_urls(soup)
-    examine_each_awesome(awesome_urls)
-
+    # awesome_urls = generate_all_github_urls(soup)
+    # examine_each_awesome(awesome_urls)
+    regenerate_hrefs(soup)
 
 if __name__ == '__main__':
     main()
