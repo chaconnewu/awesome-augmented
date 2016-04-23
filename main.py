@@ -92,7 +92,7 @@ def regenerate_hrefs(soup):
             full_name = urlparse(a[0]['href']).path
             a[0]['href'] = prefix + full_name.split('/')[-1] + '.md'
 
-    f = open('new.html', 'w')
+    f = open('new.md', 'w')
     f.write(soup.prettify())
     del f
 
