@@ -90,7 +90,7 @@ def regenerate_hrefs(soup):
         a = li.find_all('a')
         if has_valid_github_url(a):
             full_name = urlparse(a[0]['href']).path
-            a[0]['href'] = prefix + full_name.split('/')[-1]
+            a[0]['href'] = prefix + full_name.split('/')[-1] + '.md'
 
     f = open('new.html', 'w')
     f.write(soup.prettify())
