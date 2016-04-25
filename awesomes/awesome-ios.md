@@ -219,6 +219,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [YYCache](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
  * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache. :large_orange_diamond:
  * [MGCacheManager](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Managing Class.
+ * [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify
 
 ### Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
@@ -317,6 +318,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
  * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift. :large_orange_diamond:
  * [then🎬](https://github.com/s4cha/then) - Elegant Async code in Swift. :large_orange_diamond:
+ * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier. :large_orange_diamond:
 
 ### Gesture
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents :large_orange_diamond:
@@ -406,6 +408,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux :large_orange_diamond:
 * [ReactiveKit](https://github.com/ReactiveKit/ReactiveKit) - ReactiveKit is a collection of Swift frameworks for reactive and functional reactive programming. :large_orange_diamond:
 * [RxPermission](https://github.com/sunshinejr/RxPermission) - RxSwift bindings for Permissions API in iOS. :large_orange_diamond:
+* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) - RxSwift wrapper around the elegant HTTP networking in Swift Alamofire :large_orange_diamond:
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
@@ -582,6 +585,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [YYImage](https://github.com/ibireme/YYImage) - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
  * [JWAnimatedImage](https://github.com/wangjwchn/JWAnimatedImage) - A animated GIF engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.:large_orange_diamond:
  * [NSGIF2](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
+ * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine :large_orange_diamond:
 
 ##### Video
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
@@ -891,6 +895,7 @@ Most of these are paid services, some have free tiers.
  * [EVFaceTracker](https://github.com/evermeer/EVFaceTracker) - Calculate the distance and angle of your device with regards to your face :large_orange_diamond:
  * [Fashion](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way. :large_orange_diamond:
  * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch. :large_orange_diamond:
+ * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts :large_orange_diamond:
 
 ##### Activity Indicator
 
@@ -1179,6 +1184,7 @@ Most of these are paid services, some have free tiers.
  * [Trackable](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects. :large_orange_diamond:
  * [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
  * [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
+ * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
 
 ### Payments
  * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS. :large_orange_diamond:
@@ -1238,6 +1244,7 @@ Most of these are paid services, some have free tiers.
   * [SwiftSafe](https://github.com/czechboy0/SwiftSafe) - Thread synchronization made easy :large_orange_diamond:
   * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
   * [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
+  * [GrandSugarDispatch](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -1370,7 +1377,7 @@ Most of these are paid services, some have free tiers.
  * [watchbuild](https://github.com/fastlane/fastlane/tree/master/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
- * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
+ * [HockeyApp](https://www.hockeyapp.net) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
  * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
 

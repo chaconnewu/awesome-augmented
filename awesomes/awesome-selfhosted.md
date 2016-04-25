@@ -244,6 +244,7 @@ _Mailing lists servers._
 _Mass mailing software - one message to many recipients_
 
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPL-V3.0` `Node.js`
+  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
 
 
@@ -499,6 +500,7 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau/wikis/home) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use.
   * [linx](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
+  * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
   * [lutim](https://github.com/ldidry/lutim) - Let's Upload That Image !
   * [Mediacrush](https://mediacru.sh/) - A website you can upload images, audio, and video to, and receive a link to share it with your friends. ([Source Code](https://github.com/MediaCrush/MediaCrush))
   * [Nimbus](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X - `MIT` `Python`
@@ -885,6 +887,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Realms](https://github.com/scragg0x/realms-wiki) - A git-backed wiki inspired by Gollum. `Python`
   * [Redaxscript](http://redaxscript.com/) - Ultra lightweight website engine. `GPL` `PHP`
   * [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD` `Javascript/Nodejs`
+  * [Tiki](https://tiki.org) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPLv2.1` `PHP`
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. `PHP`
   * [Wikitten](https://github.com/victorstanciu/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. `PHP`
 
@@ -959,24 +962,28 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 The list of contributors can be found below
 
-    219	nodiscc <nodiscc@gmail.com>
-    188	Edward D <ed.kickball@hotmail.com>
-    26	Andrew <AndyR207@users.noreply.github.com>
+    245	nodiscc <nodiscc@gmail.com>
+    222	Edward D <ed.kickball@hotmail.com>
+    42	Andrew <AndyR207@users.noreply.github.com>
+    31	Kovah <mail@kovah.de>
     22	Kickball <ed.kickball@hotmail.com>
-    14	Kovah <mail@kovah.de>
     13	jungle-boogie <sean@jungleboogie.me>
+    10	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
+    10	cave beat <cave@cavebeat.org>
     9	Joubert RedRat <eu+github@redrat.com.br>
     7	Andrew Peng <pengc99@gmail.com>
+    7	Hammy Havoc <hammy@splitanatom.com>
     7	Thomas Dalichow <info@thomasdalichow.de>
     7	n1trux <n1trux@users.noreply.github.com>
     7	phre4k <me@phre4k.at>
     7	édouard u. <mail@edouard.us>
     6	Per Guth <mail@perguth.de>
-    6	Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
     5	Jean Champémont <jchampemont@users.noreply.github.com>
     5	Moti Korets <moti.kor@gmail.com>
-    5	cave beat <cave@cavebeat.org>
+    5	cave <cavebeat@users.noreply.github.com>
     4	Andrew <andrew@rylatt.me>
+    4	Andrew Rylatt <AndyR207@users.noreply.github.com>
+    4	AndrewCz <smacz42@users.noreply.github.com>
     4	Cory Gibbons <hello@corygibbons.com>
     4	Dominik Pfaffenbauer <dominik@lineofcode.at>
     4	Dr. Azrael Tod <github.com@g33ky.de>
@@ -984,9 +991,13 @@ The list of contributors can be found below
     4	Jean Elchinger <jinformatique@riseup.net>
     4	Joshua Westerheide <dev@jdoubleu.de>
     4	Marius Voila <marius.voila@gmail.com>
+    4	Valmik <mail@valmik.in>
     4	dattaz <taz@dattaz.fr>
+    4	paddo <mail@patrickrichter.net>
     3	Akhyar Amarullah <akhyrul@gmail.com>
+    3	Chris McCormick <chris@mccormick.cx>
     3	Conor O'Callaghan <brioscaibriste@users.noreply.github.com>
+    3	Cédric Krier <cedk@users.noreply.github.com>
     3	Ethan Lowman <ethanal@users.noreply.github.com>
     3	FoxMaSk <foxmask@users.noreply.github.com>
     3	George C. Privon <privong@users.noreply.github.com>
@@ -997,12 +1008,13 @@ The list of contributors can be found below
     3	Marc Picaud <picaud.marc@gmail.com>
     3	Mariusz Kozakowski <11mariom+wordpress@gmail.com>
     3	Martin Gontovnikas <martin@gon.to>
+    3	Mathieu Leplatre <mathieu@leplat.re>
     3	Pavan Yara <yarapavan@gmail.com>
     3	Tobi Schäfer <interface@p3k.org>
     3	Ye Lin Aung <me@yelinaung.com>
-    3	cave <cavebeat@users.noreply.github.com>
     3	jungle-boogie <sean@rastasean.net>
     3	rett gerst <rettgerst@users.noreply.github.com>
+    2	Adminrezo (Nico Dewaele) <nico@adminrezo.fr>
     2	Albert Cervera i Areny <albert@nan-tic.com>
     2	Alexander Ryzhov <gtihub@ryzhov-al.ru>
     2	Alexis Metaireau <alexis@notmyidea.org>
@@ -1016,7 +1028,6 @@ The list of contributors can be found below
     2	David Wayne Baxter <dbxt@users.noreply.github.com>
     2	Deryck <dhenson02@users.noreply.github.com>
     2	Greg V <greg@unrelenting.technology>
-    2	Hammy Havoc <hammy@splitanatom.com>
     2	Henry Ruhs <info@redaxmedia.com>
     2	Jason Robinson <mail@jasonrobinson.me>
     2	Joseph Dykstra <josephdykstra@gmail.com>
@@ -1025,19 +1036,29 @@ The list of contributors can be found below
     2	Marien Fressinaud <dev@marienfressinaud.fr>
     2	Massimo Santini <massimo.santini@gmail.com>
     2	Matthieu Aubry <matt@piwik.org>
+    2	Michael Tunnell <MichaelTunnell@users.noreply.github.com>
     2	Mikael Peigney <Mika56@users.noreply.github.com>
     2	Nicolas Carlier <n.carlier@nunux.org>
     2	Patrik Ragnarsson <patrik@starkast.net>
+    2	Peter Ivanov <peter@microweber.com>
     2	Peter Thaleikis <spekulatius@users.noreply.github.com>
     2	Poorchop <Poorchop@users.noreply.github.com>
     2	ReadmeCritic <frankensteinbot@gmail.com>
     2	Ricardo Torres <ricardo@rictorres.com.br>
     2	Roland Geider <roland@geider.net>
+    2	Sam Tuke <mail@samtuke.com>
+    2	Sameer Al-Sakran <salsakran@users.noreply.github.com>
     2	Simon Vieille <simon@deblan.fr>
+    2	Stefane Fermigier <sf@fermigier.com>
     2	Stefano <sabas88@gmail.com>
     2	Thomas Citharel <tcit@tcit.fr>
+    2	Vadim Rutkovsky <vrutkovs@redhat.com>
+    2	cornerot <cornerot@gmail.com>
     2	cron410 <cron410@gmail.com>
     2	jimykk <JimyKK@users.noreply.github.com>
+    2	rafael-santiago <voidbrainvoid@gmail.com>
+    2	thomasfrivold <thomas.frivold@gmail.com>
+    2	tillarnold <throwable42@gmail.com>
     2	tomc3 <wordoftheday003@gmail.com>
     2	yuche <i@yuche.me>
     1	Alys <alice.harris@oldgods.net>
@@ -1057,8 +1078,11 @@ The list of contributors can be found below
     1	Doğan Çelik <dogancelik@users.noreply.github.com>
     1	Dražen Lučanin <kermit666@gmail.com>
     1	Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
+    1	Florian Kaiser <florian.kaiser@fnkr.net>
     1	Florian Wilhelm <f.wilhelm@tarent.de>
+    1	Gabriel Cossette <gabriel.cossette@gmail.com>
     1	Igor Antun <IgorAntun@users.noreply.github.com>
+    1	Izac Lorimer <izaclorimer@users.noreply.github.com>
     1	Jan <jayphizzle@users.noreply.github.com>
     1	Jean Menezes da Rocha <jean@menezesdarocha.info>
     1	Jeremiah Marks <jeremiah@jlmarks.org>
@@ -1073,18 +1097,24 @@ The list of contributors can be found below
     1	Keyhaku <jones@bious.fr>
     1	Kyle Stetz <kylestetz@gmail.com>
     1	Liran Tal <liran.tal@gmail.com>
+    1	Madhu GB <github@madhugb.com>
+    1	Madhu GB <me@madhugb.com>
     1	Marcin Karpezo <m.karpezo@nencki.gov.pl>
     1	Marcus Ramberg <marcus@nordaaker.com>
+    1	Mark Ide <mark@cranstonide.com>
     1	MatFluor <MatFluor@users.noreply.github.com>
     1	Matt Hazinski <matt@matthazinski.com>
     1	Michael Burns <michael@mirwin.net>
     1	Mike Steele <mike@steel.fm>
     1	Morris Jobke <hey@morrisjobke.de>
     1	Murdoc Bates <trockenasche@gmail.com>
+    1	NicolasCARPi <nicolas.carpi@curie.fr>
     1	Norman Xu <im@norm.im>
     1	Oliver Kopp <kopp.dev@gmail.com>
+    1	Paul <paul@rosanbo.com>
     1	Pavel Lobashov <ShockwaveNN@gmail.com>
     1	Pavel Lobashov <shockwavenn@gmail.com>
+    1	Peter van den Hurk <runical1991@gmail.com>
     1	Phill <phill@formbet.co.uk>
     1	Remy Adriaanse <remy@adriaanse.it>
     1	Remy Honig <remyhonig@users.noreply.github.com>
@@ -1093,12 +1123,15 @@ The list of contributors can be found below
     1	Ryan Halliday <ry167@ry167.com>
     1	Stefan Bohacek <stefan.bohacek@gmail.com>
     1	Stefan Bohacek <stefan@fourtonfish.com>
+    1	Stefan Weil <sw@weilnetz.de>
+    1	Sylvain Boily <sylvainboilydroid@gmail.com>
     1	Tobias Zeising <tobias.zeising@aditu.de>
     1	benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
     1	bricej13 <bricej13@gmail.com>
     1	cbdev <cb@cbcdn.com>
     1	dimqua <dimqua@lavabit.com>
     1	florianl <florianl@users.noreply.github.com>
+    1	hebbet <pascal.herbert@gmail.com>
     1	lachlan-00 <lachlan.00@gmail.com>
     1	littleguga <littleguga@users.noreply.github.com>
     1	memorex258 <phillip.a.brown@live.com>
@@ -1109,5 +1142,5 @@ The list of contributors can be found below
     1	stevesbrain <stevesbrain@users.noreply.github.com>
     1	ttoups <ich@timotoups.de>
     1	wxcafé <wxcafe@wxcafe.net>
-    1	Sam Tuke <mail@samtuke.com>
+
 

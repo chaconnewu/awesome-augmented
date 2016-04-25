@@ -14,19 +14,38 @@ def examine_each_awesome(awesome_urls):
     prefix = 'https://raw.githubusercontent.com'
     postfix = '/master/'
 
-    for url in awesome_urls:
-        full_name = urlparse(url).path
-        filename = './awesomes/' + full_name.split('/')[-1] + '.md'
-        readme_url = prefix + full_name + postfix
+    def worker(thread_id, urls):
+        for url in urls:
+            full_name = urlparse(url).path
+            filename = './awesomes/' + full_name.split('/')[-1] + '.md'
+            readme_url = prefix + full_name + postfix
 
-        print('Requesting: ' + readme_url)
-        contents = request_content(readme_url + 'README.md')
-        if contents == 'Not Found':
-            contents = request_content(readme_url + 'readme.md')
+            print('Thread ' + str(thread_id) + ' Requesting: ' + readme_url)
+            contents = request_content(readme_url + 'README.md')
+            if contents == 'Not Found':
+                contents = request_content(readme_url + 'readme.md')
 
-        f = open(filename, 'w')
-        f.write(contents)
-        del f
+            f = open(filename, 'w')
+            f.write(contents)
+            del f
+
+    unit_size = int(len(awesome_urls) / 10)
+    start = 0
+    procs = []
+    for i in range(10):
+        if start+unit_size < len(awesome_urls):
+            items = awesome_urls[start:start+unit_size]
+        else:
+            items = awesome_urls[start:]
+
+        start += unit_size
+
+        p = Process(target=worker, args=(i, items))
+        procs.append(p)
+        p.start()
+
+    for p in procs:
+        p.join()
 
     # def worker(thread_id, urls, out_q):
     #     for url in urls:
@@ -101,8 +120,8 @@ def main():
     content = request_content(awesome_url)
 
     soup = generate_soup(content)
-    # awesome_urls = generate_all_github_urls(soup)
-    # examine_each_awesome(awesome_urls)
+    awesome_urls = generate_all_github_urls(soup)
+    examine_each_awesome(awesome_urls)
     regenerate_hrefs(soup)
 
 if __name__ == '__main__':

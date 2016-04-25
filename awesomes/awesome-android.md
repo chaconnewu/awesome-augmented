@@ -135,7 +135,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Crash monitoring
 
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
-- [HockeyApp](http://hockeyapp.net) - Distribution, Crash Reports, Feedback and Analytics
+- [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
 - [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
 
@@ -150,6 +150,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
 - [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
+- [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.

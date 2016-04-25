@@ -19,6 +19,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Java VM](#java-vm)
   - [Node.js](#nodejs)
   - [Perl](#perl)
+  - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
 - [Capabilities](#capabilities)
@@ -52,6 +53,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Security](#security-1)
   - [Service Discovery](#service-discovery)
   - [Data Formats](#data-formats)
+  - [Vocabularies](#vocabularies)
   - [Unicode](#unicode)
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
@@ -209,6 +211,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
 
+### PHP
+
+- [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
+- [Silex](http://silex.sensiolabs.org/) - Micro-framework based on the Symfony components.
+
 ### Python
 
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
@@ -227,8 +235,10 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateways / Edge Services
 
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
+- [Neutrino](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
@@ -369,7 +379,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+- [Parallec](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 - [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
+- [REST Commander](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 - [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
@@ -495,6 +507,7 @@ of the testing and deployment process.
 ### Service Discovery
 
 - [HAL-DRAFT](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
+- [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
 
@@ -503,9 +516,15 @@ of the testing and deployment process.
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 - [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
 - [BSON](http://bsonspec.org/) - Bin­ary JSON (BSON).
+- [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 - [SMILE](http://wiki.fasterxml.com/SmileFormatSpec) - JSON-compatible binary data format.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+
+### Vocabularies
+
+- [LOV](http://lov.okfn.org/) - Linked open vocabularies.
+- [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ### Unicode
 

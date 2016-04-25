@@ -81,7 +81,7 @@ If you see a playground here that does not work anymore with the current release
 ## Apple's Playgrounds
 *Playgrounds from Apple, usually presented at some WWDC*
 
-* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
+* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot-Swift-Playground) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
 * [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
 * [Interactive Playgrounds](https://developer.apple.com/swift/blog/?id=35) - Playground that presents the interactive playgrounds feature with a UIKit dynamics Newton's cradle. 🌟
 
@@ -198,4 +198,4 @@ If you see a playground here that does not work anymore with the current release
 * [StarWars Seals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
 * [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟
-
+* [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC 🌟
