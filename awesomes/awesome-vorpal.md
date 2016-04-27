@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Toolbox
 - [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support.
 - [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support.
+- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
 
 ## Contribute
 

@@ -24,7 +24,6 @@
 ### Companies
 
 #### \# companies
-* 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
 
 #### A companies
@@ -77,7 +76,7 @@
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
-* Code School http://blog.codeschool.io/category/development/
+* Code School https://www.codeschool.com/blog/categories/development/
 * Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
@@ -179,7 +178,7 @@
 #### L companies
 * Laterooms http://engineering.laterooms.com/
 * LINE http://developers.linecorp.com/blog/
-* Linkedcare https://medium.com/the-engineering-team
+* Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp http://liveramp.com/engineering/
@@ -240,7 +239,6 @@
 
 #### R companies
 * Raizlabs http://www.raizlabs.com/dev/
-* Rdio https://algorithms.rdio.com/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
@@ -276,7 +274,7 @@
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
 * Strava http://labs.strava.com/blog/
-* Stride NYC http://www.stridenyc.com/blog/
+* Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 
 #### T companies
@@ -291,6 +289,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
+* Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
 * Trivago http://tech.trivago.com/
@@ -417,6 +416,7 @@
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
+* Evan Dempsey http://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Miller http://www.evanmiller.org/
 * Evan Tahler http://blog.evantahler.com/
@@ -558,7 +558,6 @@
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
-* Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 
 #### T individuals
@@ -600,12 +599,15 @@
 * Go https://blog.golang.org/
 
 #### L technologies
-* Laravel http://blog.laravel.com/
+* Laravel https://laravel-news.com/blog/
 
 #### R technologies
 * React https://facebook.github.io/react/blog/
 * RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
+
+#### S technologies
+* Swift https://developer.apple.com/swift/blog/
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog

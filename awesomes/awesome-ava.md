@@ -34,6 +34,7 @@
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods for AVA that simplifies upgrading to newer versions.
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
+- [spectron](https://github.com/kevinsawicki/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
 
 
 ## Tutorials & Workshops

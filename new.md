@@ -1808,6 +1808,20 @@
    Network Analysis
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-LaTeX.md">
+   LaTeX
+  </a>
+  <em>
+   (Typesetting language)
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-economics.md">
+   Economics
+  </a>
+  - An economist's starter kit
+ </li>
 </ul>
 <h2>
  License
