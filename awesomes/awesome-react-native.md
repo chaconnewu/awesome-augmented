@@ -101,6 +101,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-blurryoverlay ★27](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
 - [react-native-android-circles ★6](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
 - [react-native-android-iconify ★26](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
+- [react-native-android-kit ★15](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★65](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
 - [react-native-awesome-button ★56](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-autolink ★16](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
@@ -581,7 +582,7 @@ Libraries / SDK type additions for React Native development.
 ## Examples
 
 Fully working app examples and open source apps.
-
+- [Reddit made with React Native and Redux ★83](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS ★1827](https://github.com/iSimar/HackerNews-React-Native)
@@ -628,6 +629,7 @@ Fully working app examples and open source apps.
 
 Walkthroughs and tutorials that help you learn React Native.
 
+- [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)

@@ -110,6 +110,7 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 * [Blog](http://crosbymichael.com/) of [@crosbymichael][crosbymichael]
 * [Blog](http://gliderlabs.com/blog/) of [@gliderlabs][gliderlabs]
 * [Blog](http://sebgoa.blogspot.be/) of [@sebgoa][sebgoa]
+* [Blog](https://blog.codeship.com/) of [@codeship](https://github.com/codeship)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
 * [Container42](http://container42.com/)
 * [Container solutions](http://container-solutions.com/blog/)
@@ -149,6 +150,7 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 * [How to monitor Docker](https://www.datadoghq.com/blog/the-docker-monitoring-problem/) (4-part series)
 * [Using Ansible with Docker Machine to Bootstrap Host Nodes](http://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) by [@nathanleclaire](https://github.com/nathanleclaire)
 * [Swarm v. Fleet v. Kubernetes v. Mesos](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos) Comparing different orchestration tools. (written OCT 2015)
+* [The Shortlist of Docker Hosting](https://blog.codeship.com/the-shortlist-of-docker-hosting) There are so many specialized and optimized Docker hosting services available, it’s high time for a review to see what’s on offer (by Chris Ward).
 
 
 ## Deep Dive
@@ -289,7 +291,8 @@ by [@prologic][prologic]
 * [sen](https://github.com/TomasTomecek/sen) Terminal user interface for docker engine, by [@TomasTomecek](https://github.com/TomasTomecek)
 * [wharfee](https://github.com/j-bennet/wharfee) Autocompletion and syntax highlighting for Docker commands.) by [@j-bennet](https://github.com/j-bennet)
 * [ctop](https://github.com/yadutaf/ctop) A command line / text based Linux Containers monitoring tool that works just like you expect by [@yadutaf](https://github.com/yadutaf)
-* [dry](https://github.com/moncho/dry) An interactive CLI for Docker containers
+* [dry](https://github.com/moncho/dry) An interactive CLI for Docker containers by [@moncho](https://github.com/moncho)
+* [dockercraft](https://github.com/docker/dockercraft) Docker + Minecraft = Dockercraft by [@docker][docker]
 
 ## Dev Tools
 
@@ -344,7 +347,9 @@ by [@prologic][prologic]
 * [docker-ls](https://github.com/mayflower/docker-ls) CLI tools for browsing and manipulating docker registries by [@mayflower](https://github.com/mayflower)
 * [habitus](https://github.com/cloud66/habitus) A Build Flow Tool for Docker http://www.habitus.io by [@cloud66](https://github.com/cloud66)
 * [Compose Registry](https://www.composeregistry.com) - A very handy search engine for Compose Files
-* [Docker Clean](https://github.com/zzrotdesign/docker-clean) - A scrupt that cleans Docker containers, images and volumes
+* [Docker Clean](https://github.com/zzrotdesign/docker-clean) - A script that cleans Docker containers, images and volumes by [@zzrotdesign](https://github.com/zzrotdesign)
+* [Powerline-Docker](https://github.com/adrianmo/powerline-docker) - A Powerline segment for showing the status of Docker containers by [@adrianmo](https://github.com/adrianmo)
+* [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
 
 ## Continuous Integration / Continuous Delivery
 
@@ -404,7 +409,7 @@ Securely store your Docker images.
 ## Web Interface
 
 * [Docker Registry Web](https://github.com/atc-/docker-registry-ui) (A web UI for easy private/local Docker Registry integration) by [@atc-](https://github.com/atc-)
-* [DockerUI](https://github.com/kevana/not-dockers-ui) (DockerUI is a web interface to interact with the Remote API.) by [@crosbymichael][crosbymichael]
+* [DockerUI](https://github.com/kevana/ui-for-docker) (DockerUI is a web interface to interact with the Remote API.) by [@crosbymichael][crosbymichael]
 * [Portus](https://github.com/SUSE/Portus) (Authorization service and frontend for Docker registry (v2)) by [@SUSE](https://github.com/SUSE)
 * [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) Simple Web-Interface for Docker with a lot of features by [@Electrofenster](https://github.com/Electrofenster/)
 * [Rapid Dashboard](https://github.com/ozlerhakan/rapid) (A simple query dashboard to use Docker Remote API) by [@ozlerhakan](https://github.com/ozlerhakan/)
@@ -566,6 +571,7 @@ desktop!
 
 * [Docker Slideshare Account](http://www.slideshare.net/Docker)
 * [Docker Security](http://www.slideshare.net/jpetazzo) with [@jpetazzo][jpetazzo]
+* [Hide your DEV ENV in a container](http://www.slideshare.net/JohanJanssen4/hide-your-development-environment-and-application-in-a-container) by [@johanjanssen42](https://twitter.com/johanjanssen42)
 
 # Videos
 

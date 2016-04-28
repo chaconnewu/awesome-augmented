@@ -37,6 +37,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 * [riemann-bundle](https://github.com/phaneesh/riemann-bundle) - Simplifies dropwizard metrics integration into Riemann
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard.
+* [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 
 ## Tutorials
 
