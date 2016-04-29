@@ -103,6 +103,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-iconify ★26](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
 - [react-native-android-kit ★15](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★65](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
+- [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★56](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-autolink ★16](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
@@ -133,6 +134,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★35](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 - [react-native-timepicker ★6](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
+- [react-native-datepicker ★9](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
 - [react-native-device-display ★58](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-dialogs ★137](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★1](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
@@ -316,6 +318,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ab ★66](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native
 - [react-native-google-analytics ★121](https://github.com/lwansbrough/react-native-google-analytics) - Google Analytics for React Native!
 - [react-native-mixpanel ★45](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
+- [react-native-segment-io-analytics ★16](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 
 ### Utils & Infra
 

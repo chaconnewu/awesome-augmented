@@ -272,6 +272,7 @@
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [start](https://github.com/start-runner/start) - Simple tasks runner powered by composable functions and promise chaining.
 - [ygor](https://github.com/shannonmoeller/ygor) - A promising task runner for when `npm run` isn't enough and everything else is too much.
+- [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
 
 
 ### Hardware
@@ -340,6 +341,7 @@
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+- [sander](https://github.com/rich-harris/sander) - Promise-based replacement for the `fs` module.
 
 
 ### Control flow
@@ -756,6 +758,7 @@
 - [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module.
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
+- [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 
 
 ## Resources

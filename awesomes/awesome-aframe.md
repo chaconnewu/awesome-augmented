@@ -100,6 +100,8 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
+- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Helper to add customizable grids to your scene, useful for editors
+- [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 
 ### Shaders
 
@@ -120,6 +122,7 @@ Integration with existing tools, frameworks, and libraries.
 - [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
+- [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
 
 #### [React](https://github.com/facebook/react)
 
@@ -181,6 +184,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [SkyIslands VR](http://www.skyislandsvr.com/pages/overwater.html) - Floating islands over water
 - [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
 - [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
+- [Lava Cave Game](http://drawvr.com/lava-cave) (by [@drawvr]) - Don't touch the lava
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 

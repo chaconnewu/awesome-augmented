@@ -162,6 +162,7 @@ Projects with over 500 stargazers are in bold.
 * [scalajack ★ 73 ⧗ 5](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
 * [sonofjson ★ 19 ⧗ 110](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native.
 * [spray-json ★ 494 ⧗ 0](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
+* [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 
 ## YAML
 
@@ -265,6 +266,7 @@ Projects with over 500 stargazers are in bold.
 * [CurioDB ★ 408 ⧗ 1](https://github.com/stephenmcd/curiodb) - Distributed & Persistent Redis Clone built with Scala & Akka.
 * [Finagle](https://twitter.github.io/finagle/) - An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
 * [Glokka ★ 44 ⧗ 25](https://github.com/xitrum-framework/glokka) - Library to register and lookup actors by names in an Akka cluster.
+* [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 
 ## Extensions
 
@@ -409,6 +411,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Abide ★ 209 ⧗ 7](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
+* [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 5478 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scalariform ★ 122 ⧗ 22](https://github.com/daniel-trinh/scalariform) - Scala source code formatter

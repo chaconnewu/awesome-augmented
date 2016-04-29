@@ -12,6 +12,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Marketing](#marketing)
 - [Misc.](#misc)
 - [List of Publishers](#list-of-publishers)
+- [Writing Workflows and Tooling](#writing-workflows-and-tooling)
 
 ## Must Reads
 
@@ -72,3 +73,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Manning Publications](https://www.manning.com/write-for-us)
 - [Wrox](http://www.wrox.com/WileyCDA/Section/id-105073.html)
 - [No Starch Press](https://www.nostarch.com/writeforus.htm)
+
+## Writing Workflows and Tooling
+
+- [Living the Future of Technical Writing](https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272#.8x6g1wxjb) - Scott Chacon shares his workflow and tools for writing "Pro Git" in Asciidoc.

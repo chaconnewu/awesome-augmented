@@ -64,7 +64,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Maps](#maps)
   - [Math](#math)
   - [Network](#network)
-    - [Html](#html)
+    - [HTML](#html)
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
@@ -348,6 +348,7 @@ Check out apps on these projects:
 * [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
 
 #### Key Value Store
+* [Palau](https://github.com/symentis/Palau) - Swift based typesafe NSUserDefaults with custom rules.
 * [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 * [Storez](https://github.com/SwiftKitz/Storez) -  Safe, statically-typed, store-agnostic key-value storage.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB.
@@ -626,7 +627,7 @@ Check out apps on these projects:
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
-#### Html
+#### HTML
 *Need to manipulate contents from html easily?*
 
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.

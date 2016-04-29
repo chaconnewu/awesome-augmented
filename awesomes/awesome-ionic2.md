@@ -64,6 +64,7 @@ An "awesome" list of the Ionic 2 resources
 * [Add Barcode Scanning Functionality To Your Ionic 2 App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)
 * [Use Google Analytics In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/)
 * [Share Things On Social Media Via An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/)
+* [How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 
 #### Backend as a Service
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)

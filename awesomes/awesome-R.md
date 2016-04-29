@@ -140,6 +140,7 @@ For better navigation, see https://aws-r.com
 ## Web Technologies and Services
 *Packages to surf the web.*
 
+* [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 * [shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
@@ -380,6 +381,7 @@ Angle Regression
 ## R Development
 *Packages for packages.*
 
+* [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
@@ -487,12 +489,14 @@ Where to discover new R-esources.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+* [Open Data](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
 * [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
+* [Package Development](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
-
+* [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 # Other Awesome Lists
 

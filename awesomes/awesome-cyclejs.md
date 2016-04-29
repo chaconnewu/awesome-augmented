@@ -31,6 +31,11 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 * [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
 * [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
+* [Cycle.js was built to solve problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E) - by Andre Staltz at [Frontend.fi](http://frontend.fi/)
+* [Brains as Building Blocks](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - by Andre Staltz at [CycleConf 2016](http://cycleconf.com/)
+* [Back to the Future, Hot reloading with Cycle.js](https://www.youtube.com/watch?v=rbrnyC5fXMM) - by Nick Johnstone at [CycleConf 2016](http://cycleconf.com/)
+* [From MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - by Gleb Bahmutov at [CycleConf 2016](http://cycleconf.com/)
+* [Cycle.js on the bash side](https://www.youtube.com/watch?v=Rx5N99TQ52g) - by Hadrien de Cuzey at [CycleConf 2016](http://cycleconf.com/)
 
 ### Slides
 
@@ -83,6 +88,8 @@ http://oleg.fi/graafi/
 * [edge/cycle-blessed ★26](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
 * [10clouds/cyclejs-cookie ★0](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js 
 * [whitecolor/cycle-async-driver ★7](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers
+* [raquelxmoss/cycle-keys ★9](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events
+* [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
 
 
 ### Utilities

@@ -32,6 +32,7 @@
 * [map-array](https://github.com/parro-it/map-array) - Map object keys and values into an array.
 * [in-array](https://github.com/jonschlinkert/in-array) - Return true if any of passed values exists in array - faster than using indexOf.
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+* [array-swap](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
 
 
 ### String
@@ -45,10 +46,10 @@
 * [to-no-case](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
 * [to-pascal-case](https://github.com/ianstormtaylor/to-pascal-case) - Convert a string to a pascal case.
 * [to-sentence-case](https://github.com/ianstormtaylor/to-sentence-case) - Convert a string to a sentence case.
-* [to-slug-case](https://github.com/ianstormtaylor/to-slug-case) - Convert a string to a slug case.
 * [to-snake-case](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
 * [to-space-case](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
+* [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 
 ### Date & Time
 
