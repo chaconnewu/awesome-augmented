@@ -14,20 +14,28 @@ def examine_each_awesome(awesome_urls):
     prefix = 'https://raw.githubusercontent.com'
     postfix = '/master/'
 
-    def worker(thread_id, urls):
+    def worker(process_id, urls):
         for url in urls:
             full_name = urlparse(url).path
             filename = './awesomes/' + full_name.split('/')[-1] + '.md'
             readme_url = prefix + full_name + postfix
 
-            print('Thread ' + str(thread_id) + ' Requesting: ' + readme_url)
-            contents = request_content(readme_url + 'README.md')
-            if contents == 'Not Found':
-                contents = request_content(readme_url + 'readme.md')
+            # print('Process ' + str(process_id) + ' Requesting: ' + readme_url)
+            try:
+                contents = request_content(readme_url + 'README.md')
+                if contents == 'Not Found':
+                    contents = request_content(readme_url + 'readme.md')
 
-            f = open(filename, 'w')
-            f.write(contents)
-            del f
+                soup = generate_soup(contents)
+                all_github_urls = generate_all_github_urls(soup)
+                for url in all_github_urls:
+                    print(url)
+
+                f = open(filename, 'w')
+                f.write(contents)
+                del f
+            except:
+                pass
 
     unit_size = int(len(awesome_urls) / 10)
     start = 0
@@ -44,6 +52,7 @@ def examine_each_awesome(awesome_urls):
         procs.append(p)
         p.start()
 
+    # Finish all the processes
     for p in procs:
         p.join()
 
