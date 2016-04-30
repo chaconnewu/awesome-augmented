@@ -105,7 +105,6 @@ Table of contents:
 * [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
 * [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
 * [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
-* [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
@@ -115,6 +114,8 @@ Table of contents:
 
 * [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
+* [WellCommerce](https://github.com/WellCommerce/WellCommerce) - An E-commerce platform for PHP 7.x
+* [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
 ## Forms
 

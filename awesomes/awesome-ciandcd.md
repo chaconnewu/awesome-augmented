@@ -64,6 +64,7 @@ and developer-friendly build server out of the box
 * [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems  
 * [quickbuild](http://www.pmease.com/)  GitHub integration. Perforce shelve support. Coverity report rendering. Subversion external change retrieval. Resource access info. Display reasons for waiting steps. Custom build and request columns. Favorite dash board list. Inheritable environment variables.And much more...  
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
+* [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 
 ## Online Build System
 Online build release system  
@@ -170,7 +171,8 @@ Software testing framework and tools
 * [softwareqatest](http://www.softwareqatest.com) FAQ page  
 * [qaforums](http://www.qaforums.com)  SQA Forums  
 * [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions   
-* [selenium](http://www.seleniumhq.org)  Selenium automates browsers  
+* [selenium](http://www.seleniumhq.org)  Selenium automates browsers
+* [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 
 ## Package
 The tools for software package and installation  

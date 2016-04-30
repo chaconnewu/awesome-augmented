@@ -13,6 +13,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Misc.](#misc)
 - [List of Publishers](#list-of-publishers)
 - [Writing Workflows and Tooling](#writing-workflows-and-tooling)
+- [Personal Experiences, Post Mortems and Campfire Stories](#personal-experiences-post-mortems-and-campfire-stories)
 
 ## Must Reads
 
@@ -77,3 +78,8 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Writing Workflows and Tooling
 
 - [Living the Future of Technical Writing](https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272#.8x6g1wxjb) - Scott Chacon shares his workflow and tools for writing "Pro Git" in Asciidoc.
+
+## Personal Experiences, Post Mortems and Campfire Stories
+
+- [Writing a Programming Book: FAQs after Writing Learning React Native](https://medium.com/@brindelle/writing-a-programming-book-faqs-after-writing-learning-react-native-8a5ea8ce04e#.e85mhxolh)
+- [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.

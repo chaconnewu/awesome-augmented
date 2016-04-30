@@ -5,6 +5,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Actors](#actors)
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
+    - [Artificial Intelligence](#artificial-intelligence)
     - [Audio and Sounds](#audio-and-sounds)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -172,6 +173,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
+## Artificial Intelligence
+*When your code becomes smarter than you.*
+
+* [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir.
+* [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex.git) - An Elixir implementation of the NEAT algorithm.
+
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
 
@@ -213,7 +220,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Definitions how something should behave, like Interfaces from OOP-World*
 
 * [connection](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
-* [stockastic](https://hex.pm/packages/stockastic) - Simple Elixir wrapper for the Stockfighter API.
+* [stockastic](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
 ## Bittorrent
 *Sharing is caring with Elixir*
@@ -307,6 +314,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [figaro_elixir](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
+* [sweetconfig](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 
 ## Cryptography
 *Encrypting and decrypting data*
@@ -426,7 +434,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
-* [ex_iss](https://hex.pm/packages/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
+* [ex_iss](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 * [harakiri](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 * [kaisuu](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
@@ -701,6 +709,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
+* [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
@@ -1169,9 +1178,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Validations
 *Libraries and implementations for validation of data.*
 
-* [avex](https://hex.pm/packages/avex) - Awesome validations for Elixir.
+* [avex](https://github.com/jonhkr/avex) - Awesome validations for Elixir.
 * [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
-* [shape](https://hex.pm/packages/shape) - A data validation library for Elixir based on Prismatic Scheme.
+* [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
@@ -1289,6 +1298,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, and community of Elixir developers, [written using Phoenix](https://github.com/rizafahmi/elixirjobs).
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
+* [Elixir Playground](http://play.elixirbyexample.com/) - Try Elixir code in your browser.
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar) - The "official" Elixir newsletter, published weekly via email by Plataformatec.
 * [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
 * [Elixre](http://www.elixre.uk/) - An Elixir regular expression editor & tester.
