@@ -262,7 +262,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
-  1. [Surevine](https://www.surevine.com/join-us/)
+  1. [Surevine](https://www.surevine.com/jobs)
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](https://sysdig.com/jobs/)
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
@@ -271,17 +271,19 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Toggl](http://jobs.toggl.com/)
   1. [Toptal](http://www.toptal.com)
   1. [Trello](https://trello.com/jobs)
-  1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
+  1. [Twin Technologies](https://www.twintechs.com/about-twin/careers)
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Q&A
+- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+- Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 - StackExchange
   - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
   - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
   - Programmers: [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
-- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+
 
 ## Communities
 - [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - subreddit
