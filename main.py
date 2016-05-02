@@ -10,6 +10,8 @@ from multiprocessing import Process# Going parallel!
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
+number_of_processes = 3
+
 def examine_each_awesome(awesome_urls):
     prefix = 'https://raw.githubusercontent.com'
     postfix = '/master/'
@@ -37,10 +39,10 @@ def examine_each_awesome(awesome_urls):
             except:
                 pass
 
-    unit_size = int(len(awesome_urls) / 10)
+    unit_size = int(len(awesome_urls) / number_of_processes)
     start = 0
     procs = []
-    for i in range(10):
+    for i in range(number_of_processes):
         if start+unit_size < len(awesome_urls):
             items = awesome_urls[start:start+unit_size]
         else:

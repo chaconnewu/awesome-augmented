@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b#.sdp7iqxc3)
+(Maximiliano Firtman - Apr 11, 2016)
+
 [Progressive Web Apps: Eating your Cake](https://medium.com/@torgo/progressive-web-apps-eating-your-cake-c0a79797220f#.jp6qup8xg)
 (Daniel Appelquist - Apr 27, 2016)
 
@@ -57,6 +60,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [The New Builders Ep. 1: Craft Beer and Progressive Web Apps](https://developer.ibm.com/tv/untappd-web-apps/)
 (Douglas Flora - Apr 14, 2016)
+
+[The web on my phone](https://adactio.com/journal/10410)
+(Jeremy Keith - Mar 23, 2016)
+
+[Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
+(Henrik Joreteg - Mar 22, 2016)
 
 [Service Worker notes](https://adactio.com/journal/10186)
 (Jeremy Keith - Feb 4, 2016)
