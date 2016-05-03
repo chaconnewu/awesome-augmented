@@ -1,89 +1,419 @@
-# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based projects and extensions.
-
-[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal)
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
-## Table of Contents
-
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Projects](#projects)
-- [Extensions](#extensions)
-- [Contribute](#contribute)
-- [License](#license)
-
-## Community
-
-- [Chat](https://gitter.im/dthree/vorpal)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
-- [Wiki](https://github.com/dthree/vorpal/wiki)
-
-## Tutorials
-
-- [By Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
-
-  An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch.
-
-- [By Ramon Gebben](http://daily-javascript.com/articles/vorpal/)
-
-  A brief introduction to Vorpal by the author of [daily-javascript.com](daily-javascript.com).
-
-## Projects
-
-*Awesome projects and applications built using Vorpal.*
-
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
-- [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
-- [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
-- [phunt](https://github.com/Kristories/phunt) - Acess [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
-- [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
-- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
-- [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
-- [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
-- [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
-- [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes.
-- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
-- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
-
-## Extensions
-
-*Extensions add to the functionality of Vorpal - programmatically or live.*
-
-#### POSIX implementations
-
-- [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
-- [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
-
-#### Development tools
-
-- [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
-- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
-- [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
-- [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
-- [set-or-print](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
-
-#### Realtime
-
-- [use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running.
-
-#### Fun
-
-- [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
-
-#### Toolbox
-- [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support.
-- [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support.
-- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [David Caccavella](https://github.com/dthree) has waived all copyright and related or neighboring rights to this work.
+<h1>
+ Awesome Vorpal
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ A curated list of delightful
+ <a href="https://github.com/dthree/vorpal">
+  Vorpal
+ </a>
+ -based projects and extensions.
+</p>
+<p>
+ <a href="https://github.com/dthree/vorpal">
+  Vorpal is Node's first framework for building immersive CLI applications.
+ </a>
+</p>
+<p>
+ Inspired by the
+ <a href="https://github.com/sindresorhus/awesome">
+  awesome
+ </a>
+ list thing.
+</p>
+<h2>
+ Table of Contents
+</h2>
+<ul>
+ <li>
+  <a href="#community">
+   Community
+  </a>
+ </li>
+ <li>
+  <a href="#tutorials">
+   Tutorials
+  </a>
+ </li>
+ <li>
+  <a href="#projects">
+   Projects
+  </a>
+ </li>
+ <li>
+  <a href="#extensions">
+   Extensions
+  </a>
+ </li>
+ <li>
+  <a href="#contribute">
+   Contribute
+  </a>
+ </li>
+ <li>
+  <a href="#license">
+   License
+  </a>
+ </li>
+</ul>
+<h2>
+ Community
+</h2>
+<ul>
+ <li>
+  <a href="https://gitter.im/dthree/vorpal">
+   Chat
+  </a>
+ </li>
+ <li>
+  <a href="http://stackoverflow.com/questions/tagged/vorpal.js">
+   Stack Overflow
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/dthree/vorpal/wiki">
+   Wiki
+  </a>
+ </li>
+</ul>
+<h2>
+ Tutorials
+</h2>
+<ul>
+ <li>
+  <p>
+   <a href="http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/">
+    By Brian Rinaldi
+   </a>
+  </p>
+  <p>
+   An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch.
+  </p>
+ </li>
+ <li>
+  <p>
+   <a href="http://daily-javascript.com/articles/vorpal/">
+    By Ramon Gebben
+   </a>
+  </p>
+  <p>
+   A brief introduction to Vorpal by the author of
+   <a href="daily-javascript.com">
+    daily-javascript.com
+   </a>
+   .
+  </p>
+ </li>
+</ul>
+<h2>
+ Projects
+</h2>
+<p>
+ <em>
+  Awesome projects and applications built using Vorpal.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/dthree/cash">
+   Cash
+  </a>
+  <span>
+   &#9733 6717, pushed 1 days ago
+  </span>
+  - Cross-platform Linux commands without the suck.
+ </li>
+ <li>
+  <a href="https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor">
+   Raptor
+  </a>
+  - Performance testing CLI for Firefox developers.
+ </li>
+ <li>
+  <a href="https://github.com/mischah/itunes-remote/">
+   iTunes-remote
+  </a>
+  - Control iTunes on the CLI.
+ </li>
+ <li>
+  <a href="https://github.com/Kristories/phunt">
+   phunt
+  </a>
+  <span>
+   &#9733 68, pushed 106 days ago
+  </span>
+  - Acess
+  <a href="https://www.producthunt.com/">
+   Product Hunt
+  </a>
+  on the CLI.
+  <em>
+   Trended on (you guessed it) Product Hunt.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/websitesfortrello/trelew">
+   trelew
+  </a>
+  <span>
+   &#9733 32, pushed 49 days ago
+  </span>
+  - Access
+  <a href="https://trello.com/">
+   Trello
+  </a>
+  on the CLI.
+ </li>
+ <li>
+  <a href="https://github.com/dthree/wat">
+   wat
+  </a>
+  <span>
+   &#9733 266, pushed 32 days ago
+  </span>
+  - Community-built docs for every language, platform and library.
+ </li>
+ <li>
+  <a href="https://github.com/AljoschaMeyer/metronome-cli">
+   metronome
+  </a>
+  <span>
+   &#9733 4, pushed 200 days ago
+  </span>
+  - A live metronome on the CLI.
+ </li>
+ <li>
+  <a href="https://github.com/fastack/cli">
+   fastack
+  </a>
+  <span>
+   &#9733 25, pushed 96 days ago
+  </span>
+  - A zero-config tool that makes developing client-side apps easy.
+ </li>
+ <li>
+  <a href="https://www.npmjs.com/package/cbcluster">
+   cbcluster
+  </a>
+  - CLI for Couchbase Server Clusters.
+ </li>
+ <li>
+  <a href="https://github.com/andrerpena/quotr">
+   quotr
+  </a>
+  <span>
+   &#9733 40, pushed 5 days ago
+  </span>
+  - View stock exchange quotes.
+ </li>
+ <li>
+  <a href="https://github.com/dthree/vantage">
+   Vantage
+  </a>
+  <span>
+   &#9733 3124, pushed 21 days ago
+  </span>
+  -
+  <code>
+   CLI
+  </code>
+  +
+  <code>
+   SSH
+  </code>
+  +
+  <code>
+   REPL
+  </code>
+  for your live Node app.
+ </li>
+ <li>
+  <a href="https://github.com/vanita5/birdknife">
+   birdknife
+  </a>
+  <span>
+   &#9733 12, pushed 6 days ago
+  </span>
+  - A full featured
+  <a href="https://twitter.com/">
+   Twitter
+  </a>
+  CLI.
+ </li>
+</ul>
+<h2>
+ Extensions
+</h2>
+<p>
+ <em>
+  Extensions add to the functionality of Vorpal - programmatically or live.
+ </em>
+</p>
+<h4>
+ POSIX implementations
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-less">
+   less
+  </a>
+  <span>
+   &#9733 8, pushed 88 days ago
+  </span>
+  - Implementation of the
+  <code>
+   less
+  </code>
+  command.
+ </li>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-grep">
+   grep
+  </a>
+  <span>
+   &#9733 4, pushed 21 days ago
+  </span>
+  - Implementation of the
+  <code>
+   grep
+  </code>
+  command.
+ </li>
+</ul>
+<h4>
+ Development tools
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-repl">
+   repl
+  </a>
+  <span>
+   &#9733 8, pushed 252 days ago
+  </span>
+  - Drops your CLI into a REPL within your app's context.
+ </li>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-tour">
+   tour
+  </a>
+  <span>
+   &#9733 4, pushed 205 days ago
+  </span>
+  - Build an interactive tour for your Vorpal app.
+ </li>
+ <li>
+  <a href="https://github.com/vantagejs/vantage-watch">
+   watch
+  </a>
+  <span>
+   &#9733 2, pushed 274 days ago
+  </span>
+  - Updates your live Vorpal extensions in realtime.
+ </li>
+ <li>
+  <a href="https://github.com/AljoschaMeyer/vorpal-log">
+   log
+  </a>
+  <span>
+   &#9733 1, pushed 116 days ago
+  </span>
+  - Advanced logging utility.
+ </li>
+ <li>
+  <a href="https://github.com/AljoschaMeyer/vorpal-setorprint">
+   set-or-print
+  </a>
+  <span>
+   &#9733 1, pushed 182 days ago
+  </span>
+  - Easily set / get arguments with commands.
+ </li>
+</ul>
+<h4>
+ Realtime
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-use">
+   use
+  </a>
+  <span>
+   &#9733 5, pushed 253 days ago
+  </span>
+  - Import Vorpal extensions live: while your app is running.
+ </li>
+</ul>
+<h4>
+ Fun
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/vorpaljs/vorpal-hacker-news">
+   hacker-news
+  </a>
+  <span>
+   &#9733 5, pushed 253 days ago
+  </span>
+  - Pulls the top trending items from Hacker News.
+ </li>
+</ul>
+<h4>
+ Toolbox
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/subk/vorpal-rc">
+   rc
+  </a>
+  <span>
+   &#9733 5, pushed 12 days ago
+  </span>
+  - Simple .rc file support.
+ </li>
+ <li>
+  <a href="https://github.com/subk/vorpal-comment">
+   comment
+  </a>
+  <span>
+   &#9733 3, pushed 11 days ago
+  </span>
+  - Bash-like comment support.
+ </li>
+ <li>
+  <a href="https://github.com/ialpert/vorpal-as-default">
+   as-default
+  </a>
+  <span>
+   &#9733 1, pushed 6 days ago
+  </span>
+  - Triggers Vorpal task in case it runs without any specificly defined task.
+ </li>
+</ul>
+<h2>
+ Contribute
+</h2>
+<p>
+ Contributions welcome! Read the
+ <a href="contributing.md">
+  contribution guidelines
+ </a>
+ first.
+</p>
+<h2>
+ License
+</h2>
+<p>
+ <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img alt="CC0" src="http://i.creativecommons.org/p/zero/1.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ To the extent possible under law,
+ <a href="https://github.com/dthree">
+  David Caccavella
+ </a>
+ has waived all copyright and related or neighboring rights to this work.
+</p>

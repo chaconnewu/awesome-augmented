@@ -19,7 +19,7 @@ def examine_each_awesome(awesome_urls):
     def worker(process_id, urls):
         for url in urls:
             full_name = urlparse(url).path
-            filename = './awesomes/' + full_name.split('/')[-1] + '.md'
+            filename = './original_awesomes/' + full_name.split('/')[-1] + '.md'
             readme_url = prefix + full_name + postfix
 
             # print('Process ' + str(process_id) + ' Requesting: ' + readme_url)

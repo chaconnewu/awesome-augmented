@@ -1,98 +1,385 @@
-# FOSS-for-Dev [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=107) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of Free and open-source software for developers
-
- 
-Feel free to send a PR :)
-# Brothers
-[free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
-
-[awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-
-# Contents
-   * [Source Code Repos](#source-code-repos)
-   * [IDE](#ide)
-   * [Collaboration Tools](#collaboration-tools)
-   * [Code Quality](#code-quality)
-   * [CI / CD](#ci--cd)
-   * [Security and PKI](#security-and-pki)
-   * [Bug trackers](#bug-trackers)
-   * [Project management](#project-management)
-   * [PaaS](#paas)
-   * [ADN(Application Delivery Networking)](#adn)
-
-
-## Source Code Repos 
-
- * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=14)
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=91)
- * [Package Drone](https://github.com/ctron/package-drone) - A package manager repository for OSGi, Java and more
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=113)
-
-## IDE 
-
- * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=103)
-
-## Collaboration Tools
-
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
- [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=94)
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=75)
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=92)
- * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
-
-## Code Quality
-
- * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=96)
- * [gerrit](https://gerrit.googlesource.com/) - Code Review
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=97)
- * [Codecov](https://codecov.io/) - Continuous Code Coverage
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=137)
-
-## CI / CD
-
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=101) 
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=102)
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=93)
-
-
-## Security and PKI
-
- * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=98)
- * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=99)
-
-
-## Bug trackers
-
-* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=104)
-* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=106)
-
-
-## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=105)
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=109)
-* [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=110)
-
-## PaaS
-
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=100)
-
-## ADN 
-  
- 
+<h1>
+ FOSS-for-Dev
+ <a href="https://github.party/item?id=107">
+  <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+ </a>
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ A list of Free and open-source software for developers
+</p>
+<p>
+ Feel free to send a PR :)
+</p>
+<h1>
+ Brothers
+</h1>
+<p>
+ <a href="https://github.com/ripienaar/free-for-dev">
+  free for dev
+ </a>
+ - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+</p>
+<p>
+ <a href="https://github.com/qinghuaiorg/free-for-dev-zh">
+  free-for-dev-zh
+ </a>
+ - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
+</p>
+<p>
+ <a href="https://github.com/sindresorhus/awesome">
+  awesome
+ </a>
+ - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+</p>
+<h1>
+ Contents
+</h1>
+<ul>
+ <li>
+  <a href="#source-code-repos">
+   Source Code Repos
+  </a>
+ </li>
+ <li>
+  <a href="#ide">
+   IDE
+  </a>
+ </li>
+ <li>
+  <a href="#collaboration-tools">
+   Collaboration Tools
+  </a>
+ </li>
+ <li>
+  <a href="#code-quality">
+   Code Quality
+  </a>
+ </li>
+ <li>
+  <a href="#ci--cd">
+   CI / CD
+  </a>
+ </li>
+ <li>
+  <a href="#security-and-pki">
+   Security and PKI
+  </a>
+ </li>
+ <li>
+  <a href="#bug-trackers">
+   Bug trackers
+  </a>
+ </li>
+ <li>
+  <a href="#project-management">
+   Project management
+  </a>
+ </li>
+ <li>
+  <a href="#paas">
+   PaaS
+  </a>
+ </li>
+ <li>
+  <a href="#adn">
+   ADN(Application Delivery Networking)
+  </a>
+ </li>
+</ul>
+<h2>
+ Source Code Repos
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/gogits/gogs">
+   Gogs
+  </a>
+  <span>
+   &#9733 13592, pushed 1 days ago
+  </span>
+  - A painless self-hosted Git Service
+  <a href="https://github.party/item?id=14">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/gitlabhq/gitlabhq">
+   GitLab
+  </a>
+  <span>
+   &#9733 17745, pushed 5 days ago
+  </span>
+  - Version control for your server
+  <a href="https://github.party/item?id=91">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/ctron/package-drone">
+   Package Drone
+  </a>
+  <span>
+   &#9733 35, pushed 48 days ago
+  </span>
+  - A package manager repository for OSGi, Java and more
+  <a href="https://github.party/item?id=113">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ IDE
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/CodeboxIDE/codebox">
+   CodeBox
+  </a>
+  <span>
+   &#9733 3384, pushed 292 days ago
+  </span>
+  - Open source cloud & desktop IDE
+  <a href="https://github.party/item?id=103">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ Collaboration Tools
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/hbons/SparkleShare">
+   SparkleShare
+  </a>
+  <span>
+   &#9733 3606, pushed 5 days ago
+  </span>
+  - An Open Source collaboration and sharing tool
+  <a href="https://github.party/item?id=94">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/shazow/ssh-chat">
+   ssh chat
+  </a>
+  <span>
+   &#9733 1920, pushed 79 days ago
+  </span>
+  - Chat over SSH
+  <a href="https://github.party/item?id=75">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/sdelements/lets-chat">
+   lets chat
+  </a>
+  <span>
+   &#9733 7962, pushed 22 days ago
+  </span>
+  - Self-hosted chat app for small teams
+  <a href="https://github.party/item?id=92">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://owncloud.org">
+   ownCloud
+  </a>
+  - Open Source file sync & share, with calendar, contacts and more apps
+ </li>
+</ul>
+<h2>
+ Code Quality
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/SonarSource/sonarqube">
+   sonarqube
+  </a>
+  <span>
+   &#9733 1063, pushed 3 days ago
+  </span>
+  - Put your technical debt under control
+  <a href="https://github.party/item?id=96">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://gerrit.googlesource.com/">
+   gerrit
+  </a>
+  - Code Review
+  <a href="https://github.party/item?id=97">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://codecov.io/">
+   Codecov
+  </a>
+  - Continuous Code Coverage
+  <a href="https://github.party/item?id=137">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ CI / CD
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/jenkinsci/jenkins">
+   Jenkins
+  </a>
+  <span>
+   &#9733 5715, pushed 1 days ago
+  </span>
+  - open-source continuous integration server
+  <a href="https://github.party/item?id=101">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/travis-ci/travis-ci">
+   Travis CI
+  </a>
+  <span>
+   &#9733 4513, pushed 163 days ago
+  </span>
+  - Free continuous integration platform for GitHub projects
+  <a href="https://github.party/item?id=102">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/cucumber/cucumber">
+   cucumber
+  </a>
+  <span>
+   &#9733 351, pushed 18 days ago
+  </span>
+  - Simple, human collaboration
+  <a href="https://github.party/item?id=93">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ Security and PKI
+</h2>
+<ul>
+ <li>
+  <a href="http://sourceforge.net/projects/ralasafe/">
+   Ralasafe
+  </a>
+  - Access Control Middleware
+  <a href="https://github.party/item?id=98">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/openxpki/openxpki">
+   OpenXPKI
+  </a>
+  <span>
+   &#9733 49, pushed 1 days ago
+  </span>
+  - an enterprise-grade PKI/Trustcenter software
+  <a href="https://github.party/item?id=99">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ Bug trackers
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/bugzilla/bugzilla">
+   Bugzilla
+  </a>
+  <span>
+   &#9733 54, pushed 4 days ago
+  </span>
+  - web-based bug-tracking software
+  <a href="https://github.party/item?id=104">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mantisbt/mantisbt">
+   Mantis
+  </a>
+  <span>
+   &#9733 586, pushed 1 days ago
+  </span>
+  - issue tracker that provides a delicate balance between simplicity and power
+  <a href="https://github.party/item?id=106">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ Project management
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/redmine/redmine">
+   Redmine
+  </a>
+  <span>
+   &#9733 1865, pushed 8 days ago
+  </span>
+  - a flexible project management web application written using Ruby on Rails
+  <a href="https://github.party/item?id=105">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/phacility/phabricator">
+   Phabricator
+  </a>
+  <span>
+   &#9733 6872, pushed 1 days ago
+  </span>
+  - an open source collection of web applications which help software companies build better software
+  <a href="https://github.party/item?id=109">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/taigaio">
+   Taiga.io
+  </a>
+  - Your Agile, Free and Open Source Project Management Tool
+  <a href="https://github.party/item?id=110">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ PaaS
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/openshift/origin">
+   OpenShift
+  </a>
+  <span>
+   &#9733 1265, pushed 1 days ago
+  </span>
+  - build, deploy, and manage your applications with Docker and Kubernetes
+  <a href="https://github.party/item?id=100">
+   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
+  </a>
+ </li>
+</ul>
+<h2>
+ ADN
+</h2>

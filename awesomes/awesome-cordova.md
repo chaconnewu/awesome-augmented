@@ -1,45 +1,177 @@
-# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of amazingly awesome Cordova libraries, resources and shiny things.
-
-## FAQ
-- [What is Cordova, what is PhoneGap, what is the difference?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
-
-## Official
-- [Documentation](https://cordova.apache.org/docs/en/edge/index.html)
-- [News Feed RSS](https://cordova.apache.org/rss.xml)
-
-## Plugins
-- [Apache](http://cordova.apache.org/plugins/)
-- [PlugReg](http://plugreg.com/)
-- [Telerik Verified](http://plugins.telerik.com/)
-
-## UI Frameworks
-
-_Compare these and more at [PropertyCross](http://propertycross.com/)_
-
-- [Ionic Framework](http://ionicframework.com/)
-- [Onsen UI](http://onsenui.io/)
-- [ChocolateChip-UI](http://chocolatechip-ui.com/)
-- [Ratchet](http://goratchet.com/)
-- [jQuery Mobile](http://jquerymobile.com/)
-- [Topcoat](http://topcoat.io/)
-- [Kendo UI Core](http://www.telerik.com/kendo-ui/open-source-core)
-- [Kendo UI](http://www.telerik.com/kendo-ui)
-- [Sencha Touch](http://www.sencha.com/products/touch/)
-- [Mobile Angular UI](http://mobileangularui.com/)
-- [Framework7] (http://www.idangero.us/framework7/)
-
-## Icons
-- [Icons8](http://icons8.com/)
-- [Ionicons](http://ionicons.com/)
-- Generators
-	- [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) (splash screens too)
-	- [cordova-gen-icon](https://www.npmjs.org/package/cordova-gen-icon)
-	- [cordova-icon](https://www.npmjs.org/package/cordova-icon)
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
-# Contributing
-Your contributions are always welcome!
+<h1>
+ Awesome Cordova
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ A curated list of amazingly awesome Cordova libraries, resources and shiny things.
+</p>
+<h2>
+ FAQ
+</h2>
+<ul>
+ <li>
+  <a href="http://ionicframework.com/blog/what-is-cordova-phonegap/">
+   What is Cordova, what is PhoneGap, what is the difference?
+  </a>
+ </li>
+</ul>
+<h2>
+ Official
+</h2>
+<ul>
+ <li>
+  <a href="https://cordova.apache.org/docs/en/edge/index.html">
+   Documentation
+  </a>
+ </li>
+ <li>
+  <a href="https://cordova.apache.org/rss.xml">
+   News Feed RSS
+  </a>
+ </li>
+</ul>
+<h2>
+ Plugins
+</h2>
+<ul>
+ <li>
+  <a href="http://cordova.apache.org/plugins/">
+   Apache
+  </a>
+ </li>
+ <li>
+  <a href="http://plugreg.com/">
+   PlugReg
+  </a>
+ </li>
+ <li>
+  <a href="http://plugins.telerik.com/">
+   Telerik Verified
+  </a>
+ </li>
+</ul>
+<h2>
+ UI Frameworks
+</h2>
+<p>
+ <em>
+  Compare these and more at
+  <a href="http://propertycross.com/">
+   PropertyCross
+  </a>
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://ionicframework.com/">
+   Ionic Framework
+  </a>
+ </li>
+ <li>
+  <a href="http://onsenui.io/">
+   Onsen UI
+  </a>
+ </li>
+ <li>
+  <a href="http://chocolatechip-ui.com/">
+   ChocolateChip-UI
+  </a>
+ </li>
+ <li>
+  <a href="http://goratchet.com/">
+   Ratchet
+  </a>
+ </li>
+ <li>
+  <a href="http://jquerymobile.com/">
+   jQuery Mobile
+  </a>
+ </li>
+ <li>
+  <a href="http://topcoat.io/">
+   Topcoat
+  </a>
+ </li>
+ <li>
+  <a href="http://www.telerik.com/kendo-ui/open-source-core">
+   Kendo UI Core
+  </a>
+ </li>
+ <li>
+  <a href="http://www.telerik.com/kendo-ui">
+   Kendo UI
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sencha.com/products/touch/">
+   Sencha Touch
+  </a>
+ </li>
+ <li>
+  <a href="http://mobileangularui.com/">
+   Mobile Angular UI
+  </a>
+ </li>
+ <li>
+  <a href="http://www.idangero.us/framework7/">
+   Framework7
+  </a>
+ </li>
+</ul>
+<h2>
+ Icons
+</h2>
+<ul>
+ <li>
+  <a href="http://icons8.com/">
+   Icons8
+  </a>
+ </li>
+ <li>
+  <a href="http://ionicons.com/">
+   Ionicons
+  </a>
+ </li>
+ <li>
+  Generators
+  <ul>
+   <li>
+    <a href="https://github.com/busterc/cordova-resource-generators">
+     cordova-resource-generators
+    </a>
+    <span>
+     &#9733 34, pushed 138 days ago
+    </span>
+    (splash screens too)
+   </li>
+   <li>
+    <a href="https://www.npmjs.org/package/cordova-gen-icon">
+     cordova-gen-icon
+    </a>
+   </li>
+   <li>
+    <a href="https://www.npmjs.org/package/cordova-icon">
+     cordova-icon
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h1>
+ Other Awesome Lists
+</h1>
+<p>
+ Other amazingly awesome lists can be found in the
+ <a href="https://github.com/bayandin/awesome-awesomeness">
+  awesome-awesomeness
+ </a>
+ list.
+</p>
+<h1>
+ Contributing
+</h1>
+<p>
+ Your contributions are always welcome!
+</p>

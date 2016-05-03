@@ -1,215 +1,1099 @@
-# Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
-
-* [Design](#design)
-* [Standards](#standards)
-* [Clients](#clients)
-  * [PHP](#php-clients)
-  * [Client-side JavaScript](#javascript-clients)
-  * [Node.js](#nodejs-clients)
-  * [Ruby](#ruby-clients)
-  * [Go](#go-clients)
-* [Servers](#servers)
-  * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
-  * [Node.js](#nodejs)
-  * [PHP](#php)
-  * [Symfony2](#symfony2)
-  * [Python](#python)
-  * [Ruby](#ruby)
-  * [Go](#go)
-  * [Java](#java)
-  * [Haskell](#haskell)
-* [Testing](#testing)
-  * [Querying](#querying)
-  * [Mocking](#mocking)
-  * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
-* [Documentation](#documentation)
-* [SaaS Tools](#saas-tools)
-* [Miscellaneous](#miscellaneous)
-
-
-
-## Design
-
-* [Architectural Styles and
-the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
-* [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
-* [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) by the famous Martin Fowler
-* [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - Clear explanation on what HATEOAS is, and why you should use it.
-* [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
-
-## Standards
-
-* [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
-* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
-* [JSend](http://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
-* [HAL](http://stateless.co/hal_specification.html) - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
-* [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
-* [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
-* [Schema.org](http://schema.org) - Collection of schemas describing common data models.
-* [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
-
-## Clients
-
-### PHP Clients
-
-* [Guzzle](http://guzzle.readthedocs.org/en/latest/) - HTTP client and framework for consuming RESTful web services.
-* [Buzz](https://github.com/kriswallsmith/buzz) - Another lightweight HTTP client.
-* [unirest for PHP](https://github.com/Mashape/unirest-php) - Simplified, lightweight HTTP client library.
-
-### JavaScript Clients
-
-* [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily.
-* [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
-* [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
-* [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
-
-### Node.js Clients
-
- * [restler](https://github.com/danwrong/restler) - REST client library for node.js.
- * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
-
-### Ruby Clients
-
-* [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-* [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
-* [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
-
-### Go Clients
-
-* [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
-
-## Servers
-
-### Directly On Top Of A RMDB
-
-* [postgrest](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
-* [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
-
-### Node.js
-
-* [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
-* [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
-* [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
-* [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-* [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
-* [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
-* [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
-
-### PHP
-
-* [Microrest](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
-* [Negotiation](https://github.com/willdurand/Negotiation) - Content negotiation library.
-* [Drest](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
-* [Restler](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
-* [HAL](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
-* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-* [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
-* [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
-
-#### Symfony2
-
-* [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
-* [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
-* [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
-* [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
-* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
-* [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
-* [API Platform](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
-
-### Python
-
-* [Django REST framework](http://www.django-rest-framework.org/) - Powerful and flexible toolkit that makes it easy to build Web APIs.
-* [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
-* [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
-* [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
-* [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
-* [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
-* [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
-* [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
-* [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
-
-### Ruby
-
-* [Grape](http://intridea.github.io/grape/) - Opinionated micro-framework for creating REST-like APIs in Ruby.
-
-### Go
-
-* [gocrud](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
-* [go-json-rest](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
-* [sleepy](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
-* [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
-* [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
-* [go-rest](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
-* [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
-* [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
-* [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
-* [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
-
-### Java
-
-* [RestExpress](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
-
-### Haskell
-* [Rest for Haskell](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
-
-## Testing
-
-### Querying
-
-* [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
-* [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
-* [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
-* [Http-console](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
-
-### Mocking
-
-* [RequestBin](http://requestb.in/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
-* [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
-* [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
-* [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
-* [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
-* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
-
-### Public REST APIs To Use In Tests
-* [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
-* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
-* [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
-* [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
-
-## Documentation 
-
-* [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
-* [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
-* [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
-
-## SaaS tools
-
-* [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
-* [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
-* [import.io Magic](https://magic.import.io/) - Create a REST API from any website in one click.
-* [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-* [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
-* [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
-
-
-## Miscellaneous
-
-* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
-* [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI speification (formerly known as the Swagger Specification).
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<h1>
+ Awesome REST
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
+</p>
+<ul>
+ <li>
+  <a href="#design">
+   Design
+  </a>
+ </li>
+ <li>
+  <a href="#standards">
+   Standards
+  </a>
+ </li>
+ <li>
+  <a href="#clients">
+   Clients
+  </a>
+  <ul>
+   <li>
+    <a href="#php-clients">
+     PHP
+    </a>
+   </li>
+   <li>
+    <a href="#javascript-clients">
+     Client-side JavaScript
+    </a>
+   </li>
+   <li>
+    <a href="#nodejs-clients">
+     Node.js
+    </a>
+   </li>
+   <li>
+    <a href="#ruby-clients">
+     Ruby
+    </a>
+   </li>
+   <li>
+    <a href="#go-clients">
+     Go
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#servers">
+   Servers
+  </a>
+  <ul>
+   <li>
+    <a href="#directly-on-top-of-a-rmdb">
+     Directly On Top Of A RMDB
+    </a>
+   </li>
+   <li>
+    <a href="#nodejs">
+     Node.js
+    </a>
+   </li>
+   <li>
+    <a href="#php">
+     PHP
+    </a>
+   </li>
+   <li>
+    <a href="#symfony2">
+     Symfony2
+    </a>
+   </li>
+   <li>
+    <a href="#python">
+     Python
+    </a>
+   </li>
+   <li>
+    <a href="#ruby">
+     Ruby
+    </a>
+   </li>
+   <li>
+    <a href="#go">
+     Go
+    </a>
+   </li>
+   <li>
+    <a href="#java">
+     Java
+    </a>
+   </li>
+   <li>
+    <a href="#haskell">
+     Haskell
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#testing">
+   Testing
+  </a>
+  <ul>
+   <li>
+    <a href="#querying">
+     Querying
+    </a>
+   </li>
+   <li>
+    <a href="#mocking">
+     Mocking
+    </a>
+   </li>
+   <li>
+    <a href="#public-rest-apis-to-use-in-tests">
+     Public REST APIs To Use In Tests
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#documentation">
+   Documentation
+  </a>
+ </li>
+ <li>
+  <a href="#saas-tools">
+   SaaS Tools
+  </a>
+ </li>
+ <li>
+  <a href="#miscellaneous">
+   Miscellaneous
+  </a>
+ </li>
+</ul>
+<h2>
+ Design
+</h2>
+<ul>
+ <li>
+  <a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">
+   Architectural Styles and
+the Design of Network-based Software Architectures
+  </a>
+  - Roy Fielding's dissertation defining REST
+ </li>
+ <li>
+  <a href="https://github.com/interagent/http-api-design">
+   HTTP API design guide extracted from work on the Heroku Platform API
+  </a>
+  <span>
+   &#9733 11388, pushed 6 days ago
+  </span>
+ </li>
+ <li>
+  <a href="http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">
+   Best Practices for Designing a Pragmatic RESTful API
+  </a>
+ </li>
+ <li>
+  <a href="http://blog.octo.com/en/design-a-rest-api/">
+   How to design a REST API?
+  </a>
+  - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+ </li>
+ <li>
+  <a href="http://martinfowler.com/articles/enterpriseREST.html">
+   Enterprise Integration Using REST
+  </a>
+  by the famous Martin Fowler
+ </li>
+ <li>
+  <a href="http://timelessrepo.com/haters-gonna-hateoas">
+   HATEOAS
+  </a>
+  - Clear explanation on what HATEOAS is, and why you should use it.
+ </li>
+ <li>
+  <a href="http://www.infoq.com/articles/webber-rest-workflow/">
+   How to GET a cup of coffee
+  </a>
+ </li>
+</ul>
+<h2>
+ Standards
+</h2>
+<ul>
+ <li>
+  <a href="http://jsonapi.org/">
+   JSON API
+  </a>
+  - Standard for building APIs in JSON.
+ </li>
+ <li>
+  <a href="http://raml.org/">
+   RAML
+  </a>
+  - Simple and succinct way to describe RESTful API.
+ </li>
+ <li>
+  <a href="http://labs.omniti.com/labs/jsend">
+   JSend
+  </a>
+  - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+ </li>
+ <li>
+  <a href="http://www.odata.org/">
+   OData
+  </a>
+  - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+ </li>
+ <li>
+  <a href="http://stateless.co/hal_specification.html">
+   HAL
+  </a>
+  - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see:
+  <a href="#hateoas">
+   HATEOAS
+  </a>
+  ).
+ </li>
+ <li>
+  <a href="http://json-ld.org/">
+   JSON-LD
+  </a>
+  - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+ </li>
+ <li>
+  <a href="http://www.hydra-cg.com/">
+   Hydra
+  </a>
+  - Vocabulary for Hypermedia-Driven Web APIs (W3C).
+ </li>
+ <li>
+  <a href="http://schema.org">
+   Schema.org
+  </a>
+  - Collection of schemas describing common data models.
+ </li>
+ <li>
+  <a href="https://openapis.org/">
+   OpenAPI
+  </a>
+  - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
+ </li>
+</ul>
+<h2>
+ Clients
+</h2>
+<h3>
+ PHP Clients
+</h3>
+<ul>
+ <li>
+  <a href="http://guzzle.readthedocs.org/en/latest/">
+   Guzzle
+  </a>
+  - HTTP client and framework for consuming RESTful web services.
+ </li>
+ <li>
+  <a href="https://github.com/kriswallsmith/buzz">
+   Buzz
+  </a>
+  <span>
+   &#9733 1233, pushed 26 days ago
+  </span>
+  - Another lightweight HTTP client.
+ </li>
+ <li>
+  <a href="https://github.com/Mashape/unirest-php">
+   unirest for PHP
+  </a>
+  <span>
+   &#9733 786, pushed 3 days ago
+  </span>
+  - Simplified, lightweight HTTP client library.
+ </li>
+</ul>
+<h3>
+ JavaScript Clients
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/mgonto/restangular">
+   restangular
+  </a>
+  <span>
+   &#9733 7448, pushed 23 days ago
+  </span>
+  - AngularJS service to handle REST API properly and easily.
+ </li>
+ <li>
+  <a href="https://github.com/marmelab/restful.js">
+   restful.js
+  </a>
+  <span>
+   &#9733 520, pushed 65 days ago
+  </span>
+  - JS client for interacting with server-side RESTful resources.
+ </li>
+ <li>
+  <a href="https://github.com/basti1302/traverson">
+   traverson
+  </a>
+  <span>
+   &#9733 166, pushed 5 days ago
+  </span>
+  - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+ </li>
+ <li>
+  <a href="https://github.com/mulesoft/raml-client-generator">
+   raml-client-generator
+  </a>
+  <span>
+   &#9733 88, pushed 21 days ago
+  </span>
+  - Generates static client libs for js.
+ </li>
+</ul>
+<h3>
+ Node.js Clients
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/danwrong/restler">
+   restler
+  </a>
+  <span>
+   &#9733 1783, pushed 35 days ago
+  </span>
+  - REST client library for node.js.
+ </li>
+ <li>
+  <a href="https://github.com/Mashape/unirest-nodejs">
+   unirest for Node.js
+  </a>
+  <span>
+   &#9733 515, pushed 56 days ago
+  </span>
+  - Simplified, lightweight HTTP client library.
+ </li>
+</ul>
+<h3>
+ Ruby Clients
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/rest-client/rest-client">
+   RESTClient
+  </a>
+  <span>
+   &#9733 3324, pushed 1 days ago
+  </span>
+  - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+ </li>
+ <li>
+  <a href="https://github.com/balvig/spyke">
+   Spyke
+  </a>
+  <span>
+   &#9733 439, pushed 112 days ago
+  </span>
+  - Interact with REST services in an ActiveRecord-like manner.
+ </li>
+ <li>
+  <a href="https://github.com/excon/excon">
+   excon
+  </a>
+  <span>
+   &#9733 723, pushed 35 days ago
+  </span>
+  - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+ </li>
+</ul>
+<h3>
+ Go Clients
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/bndr/gopencils">
+   gopencils
+  </a>
+  <span>
+   &#9733 342, pushed 103 days ago
+  </span>
+  - Small and simple package to easily consume REST APIs.
+ </li>
+</ul>
+<h2>
+ Servers
+</h2>
+<h3>
+ Directly On Top Of A RMDB
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/begriffs/postgrest">
+   postgrest
+  </a>
+  <span>
+   &#9733 6716, pushed 1 days ago
+  </span>
+  - Serve a fully RESTful API directly from an existing PostgreSQL database.
+ </li>
+ <li>
+  <a href="http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/">
+   MySQL HTTP plugin
+  </a>
+  - Simple REST-like / CRUD server for any MySQL database.
+ </li>
+</ul>
+<h3>
+ Node.js
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/restify/node-restify">
+   node-restify
+  </a>
+  <span>
+   &#9733 4970, pushed 3 days ago
+  </span>
+  - Framework specifically meant for REST API.
+ </li>
+ <li>
+  <a href="http://sailsjs.org/">
+   Sails.js
+  </a>
+  - Node.js Web framework embedding a command to generate automatically a REST API.
+ </li>
+ <li>
+  <a href="https://github.com/jspears/mers">
+   mers
+  </a>
+  <span>
+   &#9733 335, pushed 316 days ago
+  </span>
+  - Express service exposing Mongoose finders as RESTful API.
+ </li>
+ <li>
+  <a href="https://github.com/wprl/baucis">
+   Baucis
+  </a>
+  <span>
+   &#9733 563, pushed 56 days ago
+  </span>
+  - Build scalable REST API based on your Mongoose entities.
+ </li>
+ <li>
+  <a href="https://github.com/flatiron/resourceful">
+   flatiron/resourceful
+  </a>
+  <span>
+   &#9733 348, pushed 476 days ago
+  </span>
+  - Isomorphic Resource engine for JavaScript.
+ </li>
+ <li>
+  <a href="http://loopback.io/">
+   loopback
+  </a>
+  - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+ </li>
+ <li>
+  <a href="http://feathersjs.com/">
+   Feathers
+  </a>
+  - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+ </li>
+</ul>
+<h3>
+ PHP
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/marmelab/microrest.php">
+   Microrest
+  </a>
+  <span>
+   &#9733 164, pushed 215 days ago
+  </span>
+  - Micro-web application providing a REST API on top of any relational database.
+ </li>
+ <li>
+  <a href="https://github.com/willdurand/Negotiation">
+   Negotiation
+  </a>
+  <span>
+   &#9733 319, pushed 55 days ago
+  </span>
+  - Content negotiation library.
+ </li>
+ <li>
+  <a href="https://github.com/leedavis81/drest">
+   Drest
+  </a>
+  <span>
+   &#9733 71, pushed 56 days ago
+  </span>
+  - Library for exposing Doctrine entities as REST resource endpoints.
+ </li>
+ <li>
+  <a href="https://github.com/Luracast/Restler">
+   Restler
+  </a>
+  <span>
+   &#9733 1074, pushed 4 days ago
+  </span>
+  - Lightweight framework to expose PHP methods as RESTful web API.
+ </li>
+ <li>
+  <a href="https://github.com/blongden/hal">
+   HAL
+  </a>
+  <span>
+   &#9733 164, pushed 35 days ago
+  </span>
+  - Hypertext Application Language (HAL) builder library.
+ </li>
+ <li>
+  <a href="https://github.com/zfcampus/zf-apigility-skeleton">
+   Apigility
+  </a>
+  <span>
+   &#9733 431, pushed 34 days ago
+  </span>
+  - API builder built with Zend Framework 2.
+ </li>
+ <li>
+  <a href="https://github.com/phprest/phprest">
+   phprest
+  </a>
+  <span>
+   &#9733 281, pushed 163 days ago
+  </span>
+  - Specialized REST microframework for PHP.
+ </li>
+ <li>
+  <a href="https://github.com/willdurand/Hateoas">
+   Hateoas
+  </a>
+  <span>
+   &#9733 628, pushed 35 days ago
+  </span>
+  - PHP library to support implementing representations for HATEOAS REST web services.
+ </li>
+</ul>
+<h4>
+ Symfony2
+</h4>
+<ul>
+ <li>
+  <a href="http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/">
+   REST APIs with Symfony2: the Right Way
+  </a>
+  - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
+ </li>
+ <li>
+  <a href="https://github.com/FriendsOfSymfony/FOSRestBundle">
+   FOSRestBundle
+  </a>
+  <span>
+   &#9733 1337, pushed 1 days ago
+  </span>
+  - Bundle handling view, routing, error handling, etc. for your REST API.
+ </li>
+ <li>
+  <a href="https://github.com/stanlemon/rest-bundle">
+   stanlemon/rest-bundle
+  </a>
+  <span>
+   &#9733 122, pushed 9 days ago
+  </span>
+  - Build a REST API based on Doctrine entities using conventions over configuration.
+ </li>
+ <li>
+  <a href="http://lakion.com/lionframe">
+   lakion/Lionframe
+  </a>
+  - Glu between several community libraries to ease API development.
+ </li>
+ <li>
+  <a href="https://github.com/willdurand/BazingaHateoasBundle">
+   BazingaHateoasBundle
+  </a>
+  <span>
+   &#9733 164, pushed 61 days ago
+  </span>
+  - Integrate the
+  <a href="https://github.com/willdurand/Hateoas">
+   Hateoas
+  </a>
+  library into a Symfony2 application.
+ </li>
+ <li>
+  <a href="https://github.com/gimler/symfony-rest-edition">
+   Symfony REST Edition
+  </a>
+  <span>
+   &#9733 471, pushed 32 days ago
+  </span>
+  - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+ </li>
+ <li>
+  <a href="https://github.com/marmelab/NgAdminGeneratorBundle">
+   NgAdminGeneratorBundle
+  </a>
+  <span>
+   &#9733 66, pushed 364 days ago
+  </span>
+  - Boostrap ng-admin configuration based on
+  <code>
+   stanlemon/rest-bundle
+  </code>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/dunglas/DunglasApiBundle">
+   DunglasApiBundle
+  </a>
+  - Build a REST API which follow Hydra/JSON-LD specification.
+ </li>
+ <li>
+  <a href="https://github.com/api-platform/api-platform">
+   API Platform
+  </a>
+  <span>
+   &#9733 653, pushed 10 days ago
+  </span>
+  - Specialize Symfony edition for the creation of hypermedia REST APIs.
+ </li>
+</ul>
+<h3>
+ Python
+</h3>
+<ul>
+ <li>
+  <a href="http://www.django-rest-framework.org/">
+   Django REST framework
+  </a>
+  - Powerful and flexible toolkit that makes it easy to build Web APIs.
+ </li>
+ <li>
+  <a href="http://tastypieapi.org/">
+   django-tastypie
+  </a>
+  - Creating delicious APIs for Django apps.
+ </li>
+ <li>
+  <a href="http://flask-restful.readthedocs.org/">
+   flask-restful
+  </a>
+  - Extension for Flask that adds support for quickly building REST APIs.
+ </li>
+ <li>
+  <a href="https://flask-restless.readthedocs.org/en/latest/">
+   flask-restless
+  </a>
+  - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
+ </li>
+ <li>
+  <a href="https://github.com/jeffknupp/sandman">
+   sandman
+  </a>
+  <span>
+   &#9733 2219, pushed 63 days ago
+  </span>
+  - Automated REST APIs for existing database-driven systems.
+ </li>
+ <li>
+  <a href="http://restless.readthedocs.org/en/latest/">
+   restless
+  </a>
+  - Framework agnostic REST framework based on lessons learned from TastyPie.
+ </li>
+ <li>
+  <a href="https://github.com/RueLaLa/savory-pie/">
+   savory-pie
+  </a>
+  - REST API building library (django, and others).
+ </li>
+ <li>
+  <a href="http://python-eve.org/">
+   Python Eve
+  </a>
+  - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+ </li>
+ <li>
+  <a href="https://ramses.readthedocs.org/en/stable/">
+   Ramses
+  </a>
+  - Makes RAML files executable by generating production-ready APIs from them at runtime.
+ </li>
+</ul>
+<h3>
+ Ruby
+</h3>
+<ul>
+ <li>
+  <a href="http://intridea.github.io/grape/">
+   Grape
+  </a>
+  - Opinionated micro-framework for creating REST-like APIs in Ruby.
+ </li>
+</ul>
+<h3>
+ Go
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/manishrjain/gocrud">
+   gocrud
+  </a>
+  <span>
+   &#9733 249, pushed 158 days ago
+  </span>
+  : Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+ </li>
+ <li>
+  <a href="https://github.com/ant0ine/go-json-rest">
+   go-json-rest
+  </a>
+  <span>
+   &#9733 2302, pushed 2 days ago
+  </span>
+  - Thin layer on top of
+  <code>
+   net/http
+  </code>
+  that helps building RESTful APIs easily.
+ </li>
+ <li>
+  <a href="https://github.com/dougblack/sleepy">
+   sleepy
+  </a>
+  <span>
+   &#9733 597, pushed 739 days ago
+  </span>
+  - RESTful micro-framework written in Go.
+ </li>
+ <li>
+  <a href="https://github.com/yookoala/restit">
+   restit
+  </a>
+  - Go micro framework to help writing RESTful API integration test.
+ </li>
+ <li>
+  <a href="https://github.com/codehack/go-relax">
+   go-relax
+  </a>
+  <span>
+   &#9733 121, pushed 38 days ago
+  </span>
+  - Framework of pluggable components to build RESTful API's.
+ </li>
+ <li>
+  <a href="https://github.com/ungerik/go-rest">
+   go-rest
+  </a>
+  <span>
+   &#9733 88, pushed 221 days ago
+  </span>
+  - Small and evil REST framework for Go.
+ </li>
+ <li>
+  <a href="https://github.com/emicklei/go-restful">
+   go-restful
+  </a>
+  <span>
+   &#9733 1586, pushed 3 days ago
+  </span>
+  - A declarative highly readable framework for building restful API's.
+ </li>
+ <li>
+  <a href="https://github.com/bahlo/goat">
+   Goat
+  </a>
+  <span>
+   &#9733 84, pushed 26 days ago
+  </span>
+  - Minimalistic REST API server in Go.
+ </li>
+ <li>
+  <a href="https://github.com/resoursea/api">
+   Resoursea
+  </a>
+  <span>
+   &#9733 24, pushed 456 days ago
+  </span>
+  - REST framework for quickly writing resource based services.
+ </li>
+ <li>
+  <a href="https://github.com/cosiner/zerver">
+   Zerver
+  </a>
+  <span>
+   &#9733 127, pushed 18 days ago
+  </span>
+  - Zerver is a expressive, modular, feature completed RESTful framework.
+ </li>
+</ul>
+<h3>
+ Java
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/RestExpress/RestExpress">
+   RestExpress
+  </a>
+  <span>
+   &#9733 597, pushed 3 days ago
+  </span>
+  - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+ </li>
+</ul>
+<h3>
+ Haskell
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/silkapp/rest">
+   Rest for Haskell
+  </a>
+  <span>
+   &#9733 336, pushed 6 days ago
+  </span>
+  - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+ </li>
+</ul>
+<h2>
+ Testing
+</h2>
+<h3>
+ Querying
+</h3>
+<ul>
+ <li>
+  <a href="https://www.hurl.it/">
+   Hurl.it
+  </a>
+  - Make HTTP requests with a simple web-based HTTP client -- like
+  <code>
+   curl
+  </code>
+  in the cloud.
+ </li>
+ <li>
+  <a href="https://github.com/jkbrzt/httpie">
+   httpie
+  </a>
+  <span>
+   &#9733 22333, pushed 5 days ago
+  </span>
+  - Command line HTTP client, far more dev-friendly than
+  <code>
+   curl
+  </code>
+  .
+ </li>
+ <li>
+  <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">
+   Postman REST Client
+  </a>
+  - Chrome extension essential to test manually REST API.
+ </li>
+ <li>
+  <a href="https://github.com/micha/resty">
+   resty
+  </a>
+  <span>
+   &#9733 1885, pushed 22 days ago
+  </span>
+  - Little command line REST client that you can use in pipelines (bash or zsh).
+ </li>
+ <li>
+  <a href="https://github.com/stedolan/jq">
+   jq
+  </a>
+  <span>
+   &#9733 6555, pushed 18 days ago
+  </span>
+  - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+ </li>
+ <li>
+  <a href="http://www.httpmaster.net">
+   HttpMaster
+  </a>
+  - GUI tool for testing REST APIs and services. Windows OS only.
+ </li>
+ <li>
+  <a href="https://github.com/cloudhead/http-console">
+   Http-console
+  </a>
+  <span>
+   &#9733 1216, pushed 367 days ago
+  </span>
+  - Command line interface for HTTP that let you
+  <em>
+   speak HTTP like a local
+  </em>
+ </li>
+</ul>
+<h3>
+ Mocking
+</h3>
+<ul>
+ <li>
+  <a href="http://requestb.in/">
+   RequestBin
+  </a>
+  - Inspect and debug webhook requests sent by your clients or third-party APIs.
+ </li>
+ <li>
+  <a href="http://httpbin.org">
+   httpbin
+  </a>
+  - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+ </li>
+ <li>
+  <a href="https://github.com/marmelab/FakeRest">
+   FakeRest
+  </a>
+  <span>
+   &#9733 128, pushed 70 days ago
+  </span>
+  - Patch XMLHttpRequest to fake a REST API client-side.
+ </li>
+ <li>
+  <a href="https://github.com/typicode/json-server">
+   json-server
+  </a>
+  <span>
+   &#9733 11821, pushed 7 days ago
+  </span>
+  - Serve a REST API from fixture files using quick prototyping.
+ </li>
+ <li>
+  <a href="http://www.mocky.io/">
+   Mocky.io
+  </a>
+  - Free online service to create fake HTTP responses.
+ </li>
+ <li>
+  <a href="https://github.com/bulkismaslom/swagger-api-mock">
+   Swagger API Mock
+  </a>
+  <span>
+   &#9733 10, pushed 286 days ago
+  </span>
+  - Mock RESTful API based on swagger schema
+ </li>
+</ul>
+<h3>
+ Public REST APIs To Use In Tests
+</h3>
+<ul>
+ <li>
+  <a href="http://deckofcardsapi.com">
+   Deck of Cards API
+  </a>
+  - Open API for simulating a deck of cards.
+ </li>
+ <li>
+  <a href="http://www.programmableweb.com/apis/directory">
+   ProgrammableWeb
+  </a>
+  - The world's largest API repository.
+ </li>
+ <li>
+  <a href="https://www.publicapis.com/">
+   Public APIS
+  </a>
+  - Explore The Largest API Directory In The Galaxy.
+ </li>
+ <li>
+  <a href="http://developer.marvel.com/">
+   Marvel Comics API
+  </a>
+  - Query characters, stories, events about Marvel superheroes.
+ </li>
+ <li>
+  <a href="http://jsonplaceholder.typicode.com/">
+   JSON Placeholder
+  </a>
+  - Free online REST service that you can use whenever you need some fake data.
+ </li>
+</ul>
+<h2>
+ Documentation
+</h2>
+<ul>
+ <li>
+  <a href="http://swagger.io/">
+   Swagger
+  </a>
+  - Documentation/querying web interface for REST APIs.
+ </li>
+ <li>
+  <a href="http://apidocjs.com/">
+   API doc
+  </a>
+  - Inline Documentation for RESTful web APIs.
+ </li>
+ <li>
+  <a href="https://github.com/raml2html/raml2html">
+   raml2html
+  </a>
+  <span>
+   &#9733 535, pushed 3 days ago
+  </span>
+  - Generates HTML documentation from a RAML file.
+ </li>
+</ul>
+<h2>
+ SaaS tools
+</h2>
+<ul>
+ <li>
+  <a href="https://www.runscope.com/">
+   Runscope
+  </a>
+  - Automated API Monitoring & Testing.
+ </li>
+ <li>
+  <a href="https://ping-api.com/">
+   Ping-API
+  </a>
+  - Automated API Monitoring & Testing.
+ </li>
+ <li>
+  <a href="https://magic.import.io/">
+   import.io Magic
+  </a>
+  - Create a REST API from any website in one click.
+ </li>
+ <li>
+  <a href="https://apiary.io/">
+   Apiary
+  </a>
+  - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+ </li>
+ <li>
+  <a href="https://aws.amazon.com/api-gateway/">
+   Amazon API Gateway
+  </a>
+  - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+ </li>
+ <li>
+  <a href="https://apigee.com">
+   Apigee
+  </a>
+  - Apigee is the leading provider of API technology and services for enterprises and developers.
+ </li>
+</ul>
+<h2>
+ Miscellaneous
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/marmelab/ng-admin">
+   ng-admin
+  </a>
+  <span>
+   &#9733 2751, pushed 12 days ago
+  </span>
+  - Add an AngularJS admin GUI to any RESTful API.
+ </li>
+ <li>
+  <a href="https://github.com/swagger-api/swagger-codegen">
+   swagger-codegen
+  </a>
+  <span>
+   &#9733 2026, pushed 0 days ago
+  </span>
+  - Auto generation of client libraries or server stubs given an OpenAPI speification (formerly known as the Swagger Specification).
+ </li>
+</ul>
+<h2>
+ License
+</h2>
+<p>
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/4.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ This work is licensed under a
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  Creative Commons Attribution 4.0 International License
+ </a>
+ .
+</p>

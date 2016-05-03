@@ -1,153 +1,743 @@
-# Awesome Algorithms
-
-A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
-
-If you want to contribute, please read the [contribution guidelines] (https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
-
-- [Awesome Algorithms](#awesome-algorithms)
-    - [Websites](#websites)
-    - [Online Courses](#online-courses)
-    - [Books](#books)
-    - [Github Libraries](#github-libraries)
-    - [Online Judges](#online-judges)
-    - [Tools](#tools)
-
-## Websites
-
-*Websites you should use to learn classic algorithms*
-
-* [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
-* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
-    Lots and lots of well explained and implemented algorithms.
-* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
-* [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-* [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
-* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
-* [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
-* [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers. 
-* [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
-
-## Online Courses
-
-*Free and High Quality Courses Online*
-
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
-    An easy and well explained introduction to algorithms.
-* [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
-    Well explained algorithms.
-* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
-    Similar to the previous one, but with different algorithms.
-* [YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
-* [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
-* [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
-* [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom. 
-
-## Books
-
-*The most highly regarded books to learn algorithms*
-
-* [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
-* [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Easy to read and full of real world examples.
-* [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
-* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
-* [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-* [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
-* [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
-* [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
-
-## Github Libraries
-
-*Implementations of the most classic algorithms in a wide variety of programming languages*
-
-* [C](https://github.com/fragglet/c-algorithms)
-* [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
-* C#
-    * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
-    * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
-* [C++](https://github.com/xtaci/algorithms)
-* [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* [Go](https://github.com/arnauddri/algorithms)
-* Java
-    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
-    * [by @asmolich](https://github.com/asmolich/algorithms)
-    * [by @psjava](https://github.com/psjava/psjava)
-    * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
-    * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
-* JavaScript
-    * [by @felipernb](https://github.com/felipernb/algorithms.js)
-    * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
-    * [by @duereg](https://github.com/duereg/js-algorithms)
-    * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
-* Objective-C
-    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
-* Python
-    * [by @nryoung](https://github.com/nryoung/algorithms)
-    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
-    * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
-* Ruby
-    * [by @kanwei] (https://github.com/kanwei/algorithms)
-    * [by @sagivo] (https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi] (https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-* [Scala](https://github.com/vkostyukov/scalacaster)
-* Swift
-    * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
-    * [by @waynewbishop] (https://github.com/waynewbishop/SwiftStructures)
-    * [by @hollance](https://github.com/hollance/swift-algorithm-club)
-* Language agnostic
-    * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
-    * [by @indy256](https://github.com/indy256/codelibrary)
-    * [by @sagivo](https://github.com/sagivo/algorithms)
-    * [by @patmorin](https://github.com/patmorin/ods)
-
-## Online Judges
-
-*Online Judges to practice what you learned above*
-
-* [UVA](https://uva.onlinejudge.org/) -
-    Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
-* [SPOJ](http://www.spoj.com/) - More problems.
-* [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) -
-    Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
-* [URI](https://www.urionlinejudge.com.br/judge/login) -
-    Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
-* [CodeChef](https://www.codechef.com/) -
-    More problems and monthly online contests.
-* [CodeMarshal](https://algo.codemarshal.org/) -
-    Real world contests online!
-* [ProjectEuler](https://projecteuler.net/) -
-    Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
-* [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
-* [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
-* [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
-* [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
-* [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
-* [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
-* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
-* [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
-* [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
-* [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
-* [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
-* [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby. 
-* [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
-
-## Tools
-
-*Some tools that can help you in the learning of algorithms*
-
-* [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
-    A tool that allows you to create flowcharts that can simulate real algorithms.
-* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
-
-## License
-
-And for the sake of copyleft, here's our license:
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<h1>
+ Awesome Algorithms
+</h1>
+<p>
+ A curated list of awesome places to learn and/or practice algorithms.
+Inspired by
+ <a href="https://github.com/bayandin/awesome-awesomeness">
+  awesome-awesomeness
+ </a>
+ and all the other awesome Awesome libraries.
+</p>
+<p>
+ If you want to contribute, please read the
+ <a href="https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md">
+  contribution guidelines
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  <a href="#awesome-algorithms">
+   Awesome Algorithms
+  </a>
+  <ul>
+   <li>
+    <a href="#websites">
+     Websites
+    </a>
+   </li>
+   <li>
+    <a href="#online-courses">
+     Online Courses
+    </a>
+   </li>
+   <li>
+    <a href="#books">
+     Books
+    </a>
+   </li>
+   <li>
+    <a href="#github-libraries">
+     Github Libraries
+    </a>
+   </li>
+   <li>
+    <a href="#online-judges">
+     Online Judges
+    </a>
+   </li>
+   <li>
+    <a href="#tools">
+     Tools
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
+ Websites
+</h2>
+<p>
+ <em>
+  Websites you should use to learn classic algorithms
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://en.wikipedia.org/wiki/List_of_algorithms">
+   Wikipedia - Algorithms
+  </a>
+  - Of course!!
+ </li>
+ <li>
+  <a href="https://en.wikipedia.org/wiki/List_of_data_structures">
+   Wikipedia - Data Structures
+  </a>
+  - and why not ?!!
+ </li>
+ <li>
+  <a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/">
+   Geeks for Geeks
+  </a>
+  -
+Lots and lots of well explained and implemented algorithms.
+ </li>
+ <li>
+  <a href="http://www.cs.usfca.edu/~galles/visualization/Algorithms.html">
+   Data Structure Visualizations
+  </a>
+  - Visualize the behavior of Data Structures and play with its operations.
+ </li>
+ <li>
+  <a href="http://bost.ocks.org/mike/algorithms/">
+   Algorithms Visualization
+  </a>
+  - A dense article on Algorithms Visualization.
+ </li>
+ <li>
+  <a href="http://bigocheatsheet.com/">
+   Big-O Cheat Sheet
+  </a>
+  - Big-O complexities of common algorithms used in Computer Science.
+ </li>
+ <li>
+  <a href="http://www.stoimen.com/blog/">
+   stoimen's web log
+  </a>
+  - Some algorithms nicely explained.
+ </li>
+ <li>
+  <a href="http://www.comp.nus.edu.sg/~stevenha/visualization/index.html">
+   VisuAlgo
+  </a>
+  - Visualising data structures and algorithms through animation.
+ </li>
+ <li>
+  <a href="http://www.algomation.com/">
+   Algomation
+  </a>
+  - A didactic, animated, exposition of algorithms.
+ </li>
+ <li>
+  <a href="http://www.algorithmist.com/index.php/Main_Page">
+   Algorithmist
+  </a>
+  - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+ </li>
+ <li>
+  <a href="http://www.learnalgorithms.in/">
+   Learn Algorithms
+  </a>
+  - A website that explains some algorithms very well and simply, even for the most novice of programmers.
+ </li>
+ <li>
+  <a href="http://www.sorting-algorithms.com/">
+   Sorting Algorithms
+  </a>
+  - Nice and simple animations of sorting algorithms. With short codes and discussions.
+ </li>
+</ul>
+<h2>
+ Online Courses
+</h2>
+<p>
+ <em>
+  Free and High Quality Courses Online
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm">
+   MIT - 6-00sc
+  </a>
+  -
+An easy and well explained introduction to algorithms.
+ </li>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/">
+   MIT - 6-006
+  </a>
+  -
+Well explained algorithms.
+ </li>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/">
+   MIT - 6-046j
+  </a>
+  -
+Similar to the previous one, but with different algorithms.
+ </li>
+ <li>
+  <a href="https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g">
+   YogiBearian YouTube Channel
+  </a>
+  - Lots of well explained vidoes on various computer science subjects.
+ </li>
+ <li>
+  <a href="https://www.coursera.org/course/algo">
+   Algorithms: Design and Analysis, Part 1
+  </a>
+  - Course mainly based on the book "Introduction to Algorithm".
+ </li>
+ <li>
+  <a href="https://www.coursera.org/course/algo2">
+   Algorithms: Design and Analysis, Part 2
+  </a>
+  - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
+ </li>
+ <li>
+  <a href="https://www.udacity.com/course/intro-to-algorithms--cs215">
+   Udacity Intro to Algorithms
+  </a>
+  - Python-based Algorithms course.
+ </li>
+ <li>
+  <a href="https://www.khanacademy.org/computing/computer-science/algorithms">
+   Khan Academy Algorithms
+  </a>
+  - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
+ </li>
+</ul>
+<h2>
+ Books
+</h2>
+<p>
+ <em>
+  The most highly regarded books to learn algorithms
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://mitpress.mit.edu/books/introduction-algorithms">
+   Introduction to Algorithms
+  </a>
+  - Essential!
+ </li>
+ <li>
+  <a href="https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM">
+   The Algorithm Design Manual
+  </a>
+  - Easy to read and full of real world examples.
+ </li>
+ <li>
+  <a href="http://www.aw-bc.com/info/kleinberg/">
+   Algorithm Design
+  </a>
+  - Pretty straight-forward.
+ </li>
+ <li>
+  <a href="http://www-cs-faculty.stanford.edu/~uno/taocp.html">
+   The Art of Computer Programming
+  </a>
+  - The Book.
+ </li>
+ <li>
+  <a href="https://github.com/liuxinyu95/AlgoXY">
+   Elementary Algorithms
+  </a>
+  <span>
+   &#9733 1894, pushed 8 days ago
+  </span>
+  - An awesome book about algorithms and data structures.
+ </li>
+ <li>
+  <a href="http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467">
+   Data Structures Using C
+  </a>
+  - The basic concepts and usages of data structures.
+ </li>
+ <li>
+  <a href="http://algs4.cs.princeton.edu/home/">
+   Algorithms
+  </a>
+  - Problems explained with Java, OO good practices, visualizations, and free online resources.
+ </li>
+ <li>
+  <a href="http://shop.waynewbishop.com/">
+   Swift Algorithms & Data Structures
+  </a>
+  - A practical guide to concepts, theory and code.
+ </li>
+ <li>
+  <a href="http://www.manning.com/bhargava">
+   Grokking Algorithms
+  </a>
+  - An illustrated book on algorithms with practical examples.
+ </li>
+</ul>
+<h2>
+ Github Libraries
+</h2>
+<p>
+ <em>
+  Implementations of the most classic algorithms in a wide variety of programming languages
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/fragglet/c-algorithms">
+   C
+  </a>
+  <span>
+   &#9733 508, pushed 17 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/BrunoRB/algorithms.coffee">
+   CoffeeScript
+  </a>
+  <span>
+   &#9733 31, pushed 642 days ago
+  </span>
+ </li>
+ <li>
+  C#
+  <ul>
+   <li>
+    <a href="https://github.com/shkolovy/classic-algorithms">
+     by @shkolovy
+    </a>
+    <span>
+     &#9733 5, pushed 827 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/aalhour/C-Sharp-Algorithms">
+     by @aalhour
+    </a>
+    <span>
+     &#9733 604, pushed 2 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://github.com/xtaci/algorithms">
+   C++
+  </a>
+  <span>
+   &#9733 926, pushed 7 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/aggelgian/erlang-algorithms">
+   Erlang
+  </a>
+  <span>
+   &#9733 51, pushed 45 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/arnauddri/algorithms">
+   Go
+  </a>
+  <span>
+   &#9733 879, pushed 455 days ago
+  </span>
+ </li>
+ <li>
+  Java
+  <ul>
+   <li>
+    <a href="https://github.com/phishman3579/java-algorithms-implementation">
+     by @phishman3579
+    </a>
+    <span>
+     &#9733 726, pushed 109 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/asmolich/algorithms">
+     by @asmolich
+    </a>
+    <span>
+     &#9733 3, pushed 660 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/psjava/psjava">
+     by @psjava
+    </a>
+    <span>
+     &#9733 25, pushed 377 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/jeandersonbc/algorithms-and-ds">
+     by @jeandersonbc
+    </a>
+    <span>
+     &#9733 5, pushed 550 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/pedrovgs/Algorithms">
+     by @pedrovgs
+    </a>
+    <span>
+     &#9733 1505, pushed 66 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  JavaScript
+  <ul>
+   <li>
+    <a href="https://github.com/felipernb/algorithms.js">
+     by @felipernb
+    </a>
+    <span>
+     &#9733 2099, pushed 2 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/nzakas/computer-science-in-javascript">
+     by @nzakas
+    </a>
+    <span>
+     &#9733 3713, pushed 21 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/duereg/js-algorithms">
+     by @duereg
+    </a>
+    <span>
+     &#9733 272, pushed 107 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/mgechev/javascript-algorithms">
+     by @mgechev
+    </a>
+    <span>
+     &#9733 1783, pushed 24 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Objective-C
+  <ul>
+   <li>
+    <a href="https://github.com/EvgenyKarkan/EKAlgorithms">
+     by @ EvgenyKarkan
+    </a>
+    <span>
+     &#9733 1970, pushed 28 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Python
+  <ul>
+   <li>
+    <a href="https://github.com/nryoung/algorithms">
+     by @nryoung
+    </a>
+    <span>
+     &#9733 1424, pushed 3 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/prakhar1989/Algorithms">
+     by @prakhar1989
+    </a>
+    <span>
+     &#9733 1363, pushed 26 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/laurentluce/python-algorithms">
+     by @laurentluce
+    </a>
+    <span>
+     &#9733 157, pushed 155 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Ruby
+  <ul>
+   <li>
+    <a href="https://github.com/kanwei/algorithms">
+     by @kanwei
+    </a>
+    <span>
+     &#9733 1865, pushed 42 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/sagivo/algorithms">
+     by @sagivo
+    </a>
+    <span>
+     &#9733 2411, pushed 4 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby">
+     by @kumar91gopi
+    </a>
+    <span>
+     &#9733 1, pushed 6 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://github.com/vkostyukov/scalacaster">
+   Scala
+  </a>
+  <span>
+   &#9733 602, pushed 38 days ago
+  </span>
+ </li>
+ <li>
+  Swift
+  <ul>
+   <li>
+    <a href="https://github.com/kingreza/Swift-Algorithms-Strings-">
+     by @kingreza
+    </a>
+    <span>
+     &#9733 15, pushed 316 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/waynewbishop/SwiftStructures">
+     by @waynewbishop
+    </a>
+    <span>
+     &#9733 1322, pushed 4 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/hollance/swift-algorithm-club">
+     by @hollance
+    </a>
+    <span>
+     &#9733 5152, pushed 3 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Language agnostic
+  <ul>
+   <li>
+    <a href="https://github.com/kennyledet/Algorithm-Implementations">
+     by @kennyledet
+    </a>
+    <span>
+     &#9733 1698, pushed 5 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/indy256/codelibrary">
+     by @indy256
+    </a>
+    <span>
+     &#9733 291, pushed 40 days ago
+    </span>
+   </li>
+   <li>
+    <a href="https://github.com/sagivo/algorithms">
+     by @sagivo
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/patmorin/ods">
+     by @patmorin
+    </a>
+    <span>
+     &#9733 365, pushed 12 days ago
+    </span>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
+ Online Judges
+</h2>
+<p>
+ <em>
+  Online Judges to practice what you learned above
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://uva.onlinejudge.org/">
+   UVA
+  </a>
+  -
+Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+ </li>
+ <li>
+  <a href="http://www.spoj.com/">
+   SPOJ
+  </a>
+  - More problems.
+ </li>
+ <li>
+  <a href="https://icpcarchive.ecs.baylor.edu/">
+   ACM-ICPC Live Archive
+  </a>
+  -
+Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
+ </li>
+ <li>
+  <a href="https://www.urionlinejudge.com.br/judge/login">
+   URI
+  </a>
+  -
+Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
+ </li>
+ <li>
+  <a href="https://www.codechef.com/">
+   CodeChef
+  </a>
+  -
+More problems and monthly online contests.
+ </li>
+ <li>
+  <a href="https://algo.codemarshal.org/">
+   CodeMarshal
+  </a>
+  -
+Real world contests online!
+ </li>
+ <li>
+  <a href="https://projecteuler.net/">
+   ProjectEuler
+  </a>
+  -
+Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
+ </li>
+ <li>
+  <a href="https://www.topcoder.com/">
+   TopCoder
+  </a>
+  - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+ </li>
+ <li>
+  <a href="https://www.learneroo.com/subjects/8">
+   Learneroo Algorithms Tutorials
+  </a>
+  - Learn and practice algorithms by solving challenges online.
+ </li>
+ <li>
+  <a href="http://www.infoarena.ro/">
+   Infoarena
+  </a>
+  - Romanian Online Judge. 1500+ algorithmic problems
+ </li>
+ <li>
+  <a href="http://judge.u-aizu.ac.jp/onlinejudge/">
+   AIZU ONLINE JUDGE
+  </a>
+  - Japanese Online Judge.
+ </li>
+ <li>
+  <a href="http://poj.org/">
+   PKU JudgeOnline
+  </a>
+  - Chinese Online Judge.
+ </li>
+ <li>
+  <a href="http://rosalind.info/problems/locations/">
+   Rosalind
+  </a>
+  - A platform for learning bioinformatics and programming through problem solving.
+ </li>
+ <li>
+  <a href="http://judge.lavida.us">
+   LavidaOnlineJudge
+  </a>
+  - Korean Online Judge(Half English). 1300+ problems.
+ </li>
+ <li>
+  <a href="https://leetcode.com/">
+   LeetCode
+  </a>
+  - Learn algorithms and prepare for interviews.
+ </li>
+ <li>
+  <a href="https://www.hackerrank.com/">
+   HackerRank
+  </a>
+  - Featured algorithm and functional programming online judges
+ </li>
+ <li>
+  <a href="https://www.hackerearth.com/">
+   HackerEarth
+  </a>
+  - Practice alogrithmic problems & challenges and participate in hiring challenges.
+ </li>
+ <li>
+  <a href="http://codeforces.com/">
+   Codeforces
+  </a>
+  - The only programming contests Web 2.0 platform
+ </li>
+ <li>
+  <a href="http://www.coderbyte.com/">
+   CoderByte
+  </a>
+  - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
+ </li>
+ <li>
+  <a href="https://sharecode.io/">
+   ShareCode.io
+  </a>
+  - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
+ </li>
+</ul>
+<h2>
+ Tools
+</h2>
+<p>
+ <em>
+  Some tools that can help you in the learning of algorithms
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://brunorb.github.io/flow-chart.js/dist/index.html">
+   flow-chart.js
+  </a>
+  -
+A tool that allows you to create flowcharts that can simulate real algorithms.
+ </li>
+ <li>
+  <a href="https://github.com/donnemartin/interactive-coding-challenges">
+   interactive-coding-challenges
+  </a>
+  <span>
+   &#9733 2410, pushed 10 days ago
+  </span>
+  - Interactive, test-driven coding challenges (algorithms and data structures).
+ </li>
+</ul>
+<h2>
+ License
+</h2>
+<p>
+ And for the sake of copyleft, here's our license:
+</p>
+<p>
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/4.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ This work is licensed under a
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  Creative Commons Attribution 4.0 International License
+ </a>
+ .
+</p>

@@ -1,188 +1,929 @@
-# Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
-
-This tiny project follows [GitHub community trend](https://github.com/bayandin/awesome-awesomeness) to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
-
-This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
-
-**[Fork and edit](https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/sublime-bookmarks/issues/new) to add).
-
-## Things to Start From
-
-- [Sublime Text home page](http://www.sublimetext.com/)
-- [Package Control](https://packagecontrol.io/) — the first thing to do after the ST installation is to setup the package manager.
-- [Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.org) — is a first link inside the [official documentation TOC](http://www.sublimetext.com/docs/3/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
-- [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
-- [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
-
-## Books
-
-- [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl.
-- [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
-- [Mastering Sublime Text](http://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (PACKT).
-
-## News and Tips
-
-- [Sublime Blog](http://www.sublimetext.com/blog/) — official news.
-- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text ([twitter](https://twitter.com/SublimeTxtTips)).
-- [@SublimePackages](https://twitter.com/SublimePackages) — Latest published packages for SublimeText 2&3, news, tutorials, tips & tricks from the users community. Gently curated by [@n1k0](https://twitter.com/n1k0).
-
-## Community
-
-- [Official Forum](http://www.sublimetext.com/forum/) — general discussion, technical support, ideas and feature requests.
-- [Sublime Reddit](https://www.reddit.com/r/SublimeText) — user-generated news links and discussions.
-- SuperUser: [version 2](http://superuser.com/questions/tagged/sublime-text-2), [version 3](http://superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](http://superuser.com/questions/tagged/sublime-text) questions.
-
-## Screencasts
-
-- [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
-- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
-- [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
-- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
-
-## Extensions
-
-Alive projects only, with Sublime Text version 3 support.
-
-### General Purpose
-
-- [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
-- [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
-- [GitGutter](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
-- [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime) — .editorconfig support.
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
-- [Sublime Worksheet](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
-- [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
-- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
-- [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
-- [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
-- [FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
-- [Glue](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
-- [File Navigator](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
-- [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
-- [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
-- [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-- [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
-
-### Ruby Profile
-
-Helpful notes:
-
-- [Sublime Text setup](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-- [Setting up Sublime Text for Ruby development](http://zhuravel.biz/setting-up-sublime-text-for-ruby-development)
-- [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
-
-Plugins:
-
-- [RSpec plugin](https://github.com/SublimeText/RSpec)
-- [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
-- [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
-
-### Python Profile
-
-Notes:
-
-- [Setting up Sublime Text for Python development](https://dbader.org/blog/setting-up-sublime-text-for-python-development)
-- [Sublime Text 3 for Python development](http://piotr.banaszkiewicz.org/blog/2013/08/24/sublime-text-3-for-python-development/)
-- [Sublime Text 3 for Python, JavaScript and web developers](http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/)
-
-Plugins:
-
-- [MagicPython](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
-- [Rope](https://github.com/python-rope/rope) — a Python refactoring library.
-- [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
-- [Djaneiro](https://github.com/squ1b3r/Djaneiro) — Django support.
-- [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
-- [Anaconda](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-- [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
-
-### JavaScript Profile
-
-- [JsFormat](https://github.com/jdc0589/JsFormat) — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
-- [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
-- [TernJS](https://github.com/emmetio/sublime-tern) — a JavaScript type inference engine integration.
-
-### Client Side Profile
-
-- [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
-- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify)
-- [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
-- [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
-
-### Markdown Editing Profile
-
-- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
-- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) — preview and build your markdown files quickly in your web browser from Sublime Text.
-
-### Documentation and Help Systems
-
-- [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
-- [DashDoc](https://github.com/farcaller/DashDoc) — [Dash](https://kapeli.com/dash) integration for Sublime Text.
-- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool](https://github.com/gleitz/howdoi).
-
-## Integration
-
-- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
-- [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
-- [Alfred Workflow](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
-- [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) — a web browser page reloading plugin.
-
-## Fun stuff
-
-### Themes
-
-- [Soda](http://buymeasoda.github.io/soda-theme/) — dark and light custom UI themes.
-- [Spacegray](http://kkga.github.io/spacegray/) — a Hyperminimal UI theme.
-- [Cobalt2](https://github.com/wesbos/cobalt2) — a full featured Sublime Text blue theme
-- [Flatland](https://github.com/thinkpixellab/flatland) — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
-- [Material Theme](http://equinusocio.github.io/material-theme/) — Epic theme for Sublime Text 3
-
-### Color Schemes
-
-There is a huge collection of color schemes for Sublime Text at [colorsublime.com](http://colorsublime.com), nevertheless here are some most noticeable ones:
-
-- [Tomorrow](https://github.com/chriskempson/tomorrow-theme) — the precursor to Base16 Theme.
-- [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
-- [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
-
-### Alternative Icons
-
-There is a LOT of unofficial icon alternatives for Sublime Text. Here are a little collection of the most noticeable ones:
-
-- [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
-- [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Mathias Vagni](https://dribbble.com/shots/707233-Alternative-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon)
-- [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
-- [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon)
-- [By Tomas Sykora](https://github.com/syky27/Sublime-Text-Icon)
-- [By Matheus Falcão](https://www.behance.net/gallery/22168387/Sublime-Text-Icon)
-
-### Monospace Fonts
-
-- [PT Mono](http://www.paratype.com/public/)
-- [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-- [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
-- [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
-- [Deja Vu Sans Mono](http://dejavu-fonts.org)
-- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-- [Monaco](https://en.wikipedia.org/wiki/Monaco_%28typeface%29)
-- [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
-- [Input](http://input.fontbureau.com) from Font Bureau
-- [Hack](http://sourcefoundry.org/hack/)
-
-See also:
-
-- [Recommended Fonts for Programming?](http://stackoverflow.com/questions/4689/recommended-fonts-for-programming) at StackOverflow.
-- [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
-- [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
-
-## Other Bookmark Lists
-
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/bayandin/awesome-awesomeness
-
-## License
-
-Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<h1>
+ Sublime Text Bookmarks
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<blockquote>
+ <p>
+  <a href="http://www.sublimetext.com/">
+   Sublime Text
+  </a>
+  is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. —
+  <a href="https://en.wikipedia.org/wiki/Sublime_Text">
+   Wikipedia
+  </a>
+ </p>
+</blockquote>
+<p>
+ This tiny project follows
+ <a href="https://github.com/bayandin/awesome-awesomeness">
+  GitHub community trend
+ </a>
+ to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+</p>
+<p>
+ This list not supposed to include absolutely all Sublime Text plugins, due we already have
+ <a href="https://packagecontrol.io/">
+  Package Control
+ </a>
+ for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
+</p>
+<p>
+ <strong>
+  <a href="https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md">
+   Fork and edit
+  </a>
+ </strong>
+ (or
+ <a href="https://github.com/dreikanter/sublime-bookmarks/issues/new">
+  propose something
+ </a>
+ to add).
+</p>
+<h2>
+ Things to Start From
+</h2>
+<ul>
+ <li>
+  <a href="http://www.sublimetext.com/">
+   Sublime Text home page
+  </a>
+ </li>
+ <li>
+  <a href="https://packagecontrol.io/">
+   Package Control
+  </a>
+  — the first thing to do after the ST installation is to setup the package manager.
+ </li>
+ <li>
+  <a href="https://sublime-text-unofficial-documentation.readthedocs.org">
+   Unofficial Documentation
+  </a>
+  — is a first link inside the
+  <a href="http://www.sublimetext.com/docs/3/">
+   official documentation TOC
+  </a>
+  . It's a good starting point for noobs, as well as a detailed reference for proficient users.
+ </li>
+ <li>
+  <a href="http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/">
+   Shortcut Cheat Sheet
+  </a>
+  for Linux, Mac OSX, and Windows versions of Sublime Text 3.
+ </li>
+ <li>
+  <a href="https://www.shortcutfoo.com/app/tutorial/sublimetext">
+   ShortcutFoo
+  </a>
+  — shortcut usage training.
+ </li>
+</ul>
+<h2>
+ Books
+</h2>
+<ul>
+ <li>
+  <a href="https://leanpub.com/sublime-productivity">
+   Sublime Productivity
+  </a>
+  by Josh Earl.
+ </li>
+ <li>
+  <a href="https://leanpub.com/writing-sublime-plugins">
+   Writing Sublime Plugins
+  </a>
+  by Josh Earl.
+ </li>
+ <li>
+  <a href="http://www.packtpub.com/application-development/mastering-sublime-text">
+   Mastering Sublime Text
+  </a>
+  by Dan Peleg (PACKT).
+ </li>
+</ul>
+<h2>
+ News and Tips
+</h2>
+<ul>
+ <li>
+  <a href="http://www.sublimetext.com/blog/">
+   Sublime Blog
+  </a>
+  — official news.
+ </li>
+ <li>
+  <a href="http://sublimetexttips.com">
+   Sublime Text Tips
+  </a>
+  — tips and tricks for mastering Sublime Text (
+  <a href="https://twitter.com/SublimeTxtTips">
+   twitter
+  </a>
+  ).
+ </li>
+ <li>
+  <a href="https://twitter.com/SublimePackages">
+   @SublimePackages
+  </a>
+  — Latest published packages for SublimeText 2&3, news, tutorials, tips & tricks from the users community. Gently curated by
+  <a href="https://twitter.com/n1k0">
+   @n1k0
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ Community
+</h2>
+<ul>
+ <li>
+  <a href="http://www.sublimetext.com/forum/">
+   Official Forum
+  </a>
+  — general discussion, technical support, ideas and feature requests.
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/SublimeText">
+   Sublime Reddit
+  </a>
+  — user-generated news links and discussions.
+ </li>
+ <li>
+  SuperUser:
+  <a href="http://superuser.com/questions/tagged/sublime-text-2">
+   version 2
+  </a>
+  ,
+  <a href="http://superuser.com/questions/tagged/sublime-text-3">
+   version 3
+  </a>
+  , and
+  <a href="http://superuser.com/questions/tagged/sublime-text">
+   version-agnostic
+  </a>
+  questions.
+ </li>
+</ul>
+<h2>
+ Screencasts
+</h2>
+<ul>
+ <li>
+  <a href="https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts">
+   The Complete Visual Guide to Sublime Text 3
+  </a>
+  : Getting Started and Keyboard Shortcuts (free course).
+ </li>
+ <li>
+  <a href="http://www.pluralsight.com/courses/sublime-text-3-from-scratch">
+   Sublime Text 3 From Scratch
+  </a>
+  by  Jesse Liberty (Pluralsight).
+ </li>
+ <li>
+  <a href="https://pragprog.com/screencasts/v-mrst2/sublime-text-2">
+   Sublime Text 2
+  </a>
+  by Mike Riley (Pragmatic Studio).
+ </li>
+ <li>
+  <a href="http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2">
+   Perfect Workflow in Sublime Text 2
+  </a>
+  — 34 video free lessons at Nettuts+.
+ </li>
+</ul>
+<h2>
+ Extensions
+</h2>
+<p>
+ Alive projects only, with Sublime Text version 3 support.
+</p>
+<h3>
+ General Purpose
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/titoBouzout/SideBarEnhancements">
+   Sidebar Enhancements
+  </a>
+  <span>
+   &#9733 1572, pushed 46 days ago
+  </span>
+  — provides enhancements to the operations on Sidebar of Files and Folders.
+ </li>
+ <li>
+  <a href="https://github.com/SublimeText/TrailingSpaces">
+   Trailing Spaces
+  </a>
+  <span>
+   &#9733 693, pushed 113 days ago
+  </span>
+  — highlight trailing spaces and delete them in a flash.
+ </li>
+ <li>
+  <a href="https://github.com/jisaacks/GitGutter">
+   GitGutter
+  </a>
+  <span>
+   &#9733 3098, pushed 0 days ago
+  </span>
+  — a plugin to see git diff in gutter.
+ </li>
+ <li>
+  <a href="https://github.com/sindresorhus/editorconfig-sublime">
+   EditorConfig
+  </a>
+  <span>
+   &#9733 1230, pushed 82 days ago
+  </span>
+  — .editorconfig support.
+ </li>
+ <li>
+  <a href="https://github.com/SublimeLinter/SublimeLinter3">
+   SublimeLinter
+  </a>
+  <span>
+   &#9733 1042, pushed 2 days ago
+  </span>
+  — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
+ </li>
+ <li>
+  <a href="https://github.com/jcartledge/sublime-worksheet">
+   Sublime Worksheet
+  </a>
+  <span>
+   &#9733 335, pushed 984 days ago
+  </span>
+  — an inline REPL for JavaScript, PHP, Ruby and more.
+ </li>
+ <li>
+  <a href="https://github.com/wbond/sublime_alignment">
+   Sublime Alignment
+  </a>
+  <span>
+   &#9733 412, pushed 6 days ago
+  </span>
+  — a simple key-binding for aligning multi-line and multiple selections.
+ </li>
+ <li>
+  <a href="https://github.com/facelessuser/ApplySyntax">
+   ApplySyntax
+  </a>
+  <span>
+   &#9733 255, pushed 15 days ago
+  </span>
+  — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
+ </li>
+ <li>
+  <a href="https://github.com/alienhard/SublimeAllAutocomplete">
+   All Autocomplete
+  </a>
+  <span>
+   &#9733 612, pushed 336 days ago
+  </span>
+  — extends the default autocomplete to find matches in all open files.
+ </li>
+ <li>
+  <a href="https://github.com/wuub/SublimeREPL">
+   SublimeREPL
+  </a>
+  <span>
+   &#9733 1628, pushed 107 days ago
+  </span>
+  — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
+ </li>
+ <li>
+  <a href="https://github.com/skuroda/FindKeyConflicts">
+   FindKeyConflicts
+  </a>
+  <span>
+   &#9733 109, pushed 23 days ago
+  </span>
+  — identify conflicting key mappings.
+ </li>
+ <li>
+  <a href="https://github.com/chrissimpkins/glue">
+   Glue
+  </a>
+  <span>
+   &#9733 223, pushed 733 days ago
+  </span>
+  — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
+ </li>
+ <li>
+  <a href="https://github.com/csch0/SublimeText-File-Navigator">
+   File Navigator
+  </a>
+  <span>
+   &#9733 43, pushed 968 days ago
+  </span>
+  — keyboard-friendly file navigator and manager.
+ </li>
+ <li>
+  <a href="https://github.com/dariusf/synesthesia">
+   Synesthesia
+  </a>
+  <span>
+   &#9733 10, pushed 326 days ago
+  </span>
+  — a plugin for highlighting text with pretty colours.
+ </li>
+ <li>
+  <a href="https://github.com/vcharnahrebel/style-token">
+   StyleToken
+  </a>
+  <span>
+   &#9733 20, pushed 546 days ago
+  </span>
+  — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
+ </li>
+ <li>
+  <a href="https://github.com/SublimeText/Origami">
+   Origami
+  </a>
+  <span>
+   &#9733 796, pushed 138 days ago
+  </span>
+  — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
+ </li>
+ <li>
+  <a href="https://github.com/benweier/Schemr">
+   Schemr
+  </a>
+  <span>
+   &#9733 117, pushed 3 days ago
+  </span>
+  — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+ </li>
+</ul>
+<h3>
+ Ruby Profile
+</h3>
+<p>
+ Helpful notes:
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/mhartl/rails_tutorial_sublime_text">
+   Sublime Text setup
+  </a>
+  <span>
+   &#9733 753, pushed 66 days ago
+  </span>
+  used in the
+  <a href="https://www.railstutorial.org/">
+   Ruby on Rails Tutorial
+  </a>
+ </li>
+ <li>
+  <a href="http://zhuravel.biz/setting-up-sublime-text-for-ruby-development">
+   Setting up Sublime Text for Ruby development
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/colinta/SublimeChangeQuotes">
+   ChangeQuotes
+  </a>
+  <span>
+   &#9733 102, pushed 14 days ago
+  </span>
+  — converts single to double or double to single quotes.
+ </li>
+</ul>
+<p>
+ Plugins:
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/SublimeText/RSpec">
+   RSpec plugin
+  </a>
+  <span>
+   &#9733 109, pushed 94 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/CraigWilliams/BeautifyRuby">
+   BeautifyRuby
+  </a>
+  <span>
+   &#9733 204, pushed 174 days ago
+  </span>
+  — beautifies Ruby code.
+ </li>
+ <li>
+  <a href="https://github.com/shuky19/sublime_debugger">
+   Sublime Ruby Debugger
+  </a>
+  <span>
+   &#9733 399, pushed 63 days ago
+  </span>
+  — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
+ </li>
+</ul>
+<h3>
+ Python Profile
+</h3>
+<p>
+ Notes:
+</p>
+<ul>
+ <li>
+  <a href="https://dbader.org/blog/setting-up-sublime-text-for-python-development">
+   Setting up Sublime Text for Python development
+  </a>
+ </li>
+ <li>
+  <a href="http://piotr.banaszkiewicz.org/blog/2013/08/24/sublime-text-3-for-python-development/">
+   Sublime Text 3 for Python development
+  </a>
+ </li>
+ <li>
+  <a href="http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/">
+   Sublime Text 3 for Python, JavaScript and web developers
+  </a>
+ </li>
+</ul>
+<p>
+ Plugins:
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/MagicStack/MagicPython">
+   MagicPython
+  </a>
+  <span>
+   &#9733 655, pushed 7 days ago
+  </span>
+  — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+ </li>
+ <li>
+  <a href="https://github.com/python-rope/rope">
+   Rope
+  </a>
+  <span>
+   &#9733 244, pushed 3 days ago
+  </span>
+  — a Python refactoring library.
+ </li>
+ <li>
+  <a href="https://github.com/SublimeLinter/SublimeLinter-pep257">
+   SublimeLinter PEP 257
+  </a>
+  <span>
+   &#9733 9, pushed 164 days ago
+  </span>
+  — an interface to
+  <a href="https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker">
+   PEP 257
+  </a>
+  (docstring style checker).
+ </li>
+ <li>
+  <a href="https://github.com/squ1b3r/Djaneiro">
+   Djaneiro
+  </a>
+  <span>
+   &#9733 706, pushed 117 days ago
+  </span>
+  — Django support.
+ </li>
+ <li>
+  <a href="https://github.com/witsch/SublimePythonTidy">
+   SublimePythonTidy
+  </a>
+  <span>
+   &#9733 39, pushed 1148 days ago
+  </span>
+  —
+  <a href="https://pypi.python.org/pypi/PythonTidy/">
+   PythonTidy
+  </a>
+  integration.
+ </li>
+ <li>
+  <a href="https://github.com/DamnWidget/anaconda">
+   Anaconda
+  </a>
+  <span>
+   &#9733 1041, pushed 4 days ago
+  </span>
+  — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
+ </li>
+ <li>
+  <a href="https://github.com/srusskih/SublimeJEDI">
+   SublimeJEDI
+  </a>
+  <span>
+   &#9733 622, pushed 132 days ago
+  </span>
+  — Python autocompletion.
+ </li>
+</ul>
+<h3>
+ JavaScript Profile
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/jdc0589/JsFormat">
+   JsFormat
+  </a>
+  <span>
+   &#9733 1119, pushed 15 days ago
+  </span>
+  — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
+ </li>
+ <li>
+  <a href="https://github.com/Xavura/CoffeeScript-Sublime-Plugin">
+   CoffeeScript
+  </a>
+  <span>
+   &#9733 295, pushed 1251 days ago
+  </span>
+  — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
+ </li>
+ <li>
+  <a href="https://github.com/emmetio/sublime-tern">
+   TernJS
+  </a>
+  <span>
+   &#9733 223, pushed 229 days ago
+  </span>
+  — a JavaScript type inference engine integration.
+ </li>
+</ul>
+<h3>
+ Client Side Profile
+</h3>
+<ul>
+ <li>
+  <a href="http://emmet.io">
+   Emmet
+  </a>
+  — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
+ </li>
+ <li>
+  <a href="https://github.com/victorporof/Sublime-HTMLPrettify">
+   HTMLPrettify
+  </a>
+  <span>
+   &#9733 1190, pushed 12 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/ggordan/GutterColor">
+   GutterColor
+  </a>
+  <span>
+   &#9733 494, pushed 83 days ago
+  </span>
+  — displays color sample in the gutter for each line in CSS containing color code.
+ </li>
+ <li>
+  <a href="http://hayakubundle.com">
+   Hayaku
+  </a>
+  — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
+ </li>
+</ul>
+<h3>
+ Markdown Editing Profile
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/SublimeText-Markdown/MarkdownEditing">
+   MarkdownEditing
+  </a>
+  <span>
+   &#9733 1477, pushed 4 days ago
+  </span>
+  — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+ </li>
+ <li>
+  <a href="https://github.com/revolunet/sublimetext-markdown-preview">
+   Markdown Preview
+  </a>
+  <span>
+   &#9733 1760, pushed 107 days ago
+  </span>
+  — preview and build your markdown files quickly in your web browser from Sublime Text.
+ </li>
+</ul>
+<h3>
+ Documentation and Help Systems
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/kemayo/sublime-text-2-goto-documentation">
+   GotoDocumentation
+  </a>
+  <span>
+   &#9733 120, pushed 326 days ago
+  </span>
+  — a plugin to jump to documentation for the current word.
+ </li>
+ <li>
+  <a href="https://github.com/farcaller/DashDoc">
+   DashDoc
+  </a>
+  <span>
+   &#9733 950, pushed 4 days ago
+  </span>
+  —
+  <a href="https://kapeli.com/dash">
+   Dash
+  </a>
+  integration for Sublime Text.
+ </li>
+ <li>
+  <a href="https://github.com/azac/sublime-howdoi-direct-paste">
+   HowDoI
+  </a>
+  <span>
+   &#9733 220, pushed 855 days ago
+  </span>
+  — integration for instant
+  <a href="https://github.com/gleitz/howdoi">
+   coding answers search tool
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ Integration
+</h2>
+<ul>
+ <li>
+  <a href="https://help.github.com/articles/associating-text-editors-with-git/">
+   Associating text editors with Git
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sublimetext.com/docs/2/osx_command_line.html">
+   Command line usage
+  </a>
+  (for OS X).
+ </li>
+ <li>
+  <a href="https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text">
+   Alfred Workflow
+  </a>
+  to open files and folders in Sublime Text.
+ </li>
+ <li>
+  <a href="https://github.com/dz0ny/LiveReload-sublimetext2">
+   LiveReload
+  </a>
+  — a web browser page reloading plugin.
+ </li>
+</ul>
+<h2>
+ Fun stuff
+</h2>
+<h3>
+ Themes
+</h3>
+<ul>
+ <li>
+  <a href="http://buymeasoda.github.io/soda-theme/">
+   Soda
+  </a>
+  — dark and light custom UI themes.
+ </li>
+ <li>
+  <a href="http://kkga.github.io/spacegray/">
+   Spacegray
+  </a>
+  — a Hyperminimal UI theme.
+ </li>
+ <li>
+  <a href="https://github.com/wesbos/cobalt2">
+   Cobalt2
+  </a>
+  <span>
+   &#9733 1011, pushed 6 days ago
+  </span>
+  — a full featured Sublime Text blue theme
+ </li>
+ <li>
+  <a href="https://github.com/thinkpixellab/flatland">
+   Flatland
+  </a>
+  <span>
+   &#9733 2742, pushed 184 days ago
+  </span>
+  — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
+ </li>
+ <li>
+  <a href="http://equinusocio.github.io/material-theme/">
+   Material Theme
+  </a>
+  — Epic theme for Sublime Text 3
+ </li>
+</ul>
+<h3>
+ Color Schemes
+</h3>
+<p>
+ There is a huge collection of color schemes for Sublime Text at
+ <a href="http://colorsublime.com">
+  colorsublime.com
+ </a>
+ , nevertheless here are some most noticeable ones:
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/chriskempson/tomorrow-theme">
+   Tomorrow
+  </a>
+  <span>
+   &#9733 9399, pushed 13 days ago
+  </span>
+  — the precursor to Base16 Theme.
+ </li>
+ <li>
+  <a href="https://github.com/chriskempson/base16">
+   Base 16
+  </a>
+  <span>
+   &#9733 3933, pushed 101 days ago
+  </span>
+  — carefully chosen syntax highlighting and a default set of sixteen colors.
+ </li>
+ <li>
+  <a href="http://ethanschoonover.com/solarized">
+   Solarized
+  </a>
+  — balanced dark and light themes.
+ </li>
+</ul>
+<h3>
+ Alternative Icons
+</h3>
+<p>
+ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a little collection of the most noticeable ones:
+</p>
+<ul>
+ <li>
+  <a href="https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon">
+   By Jon-Paul Lunney
+  </a>
+ </li>
+ <li>
+  <a href="https://dribbble.com/shots/382409-Sublime-Text-2-Icon">
+   By Chris Lee
+  </a>
+ </li>
+ <li>
+  <a href="https://dribbble.com/shots/707233-Alternative-Sublime-Text-2-Icon">
+   By Mathias Vagni
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/dbmzzo/Sublime-Text-2-Icon">
+   By Daniel Matarazzo
+  </a>
+  <span>
+   &#9733 557, pushed 1013 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme">
+   By Ernest Ojeh
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/shiyanhui/Sublime-Text-Icon">
+   By Shi Yan Hui
+  </a>
+  <span>
+   &#9733 5, pushed 863 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://github.com/syky27/Sublime-Text-Icon">
+   By Tomas Sykora
+  </a>
+  <span>
+   &#9733 13, pushed 734 days ago
+  </span>
+ </li>
+ <li>
+  <a href="https://www.behance.net/gallery/22168387/Sublime-Text-Icon">
+   By Matheus Falcão
+  </a>
+ </li>
+</ul>
+<h3>
+ Monospace Fonts
+</h3>
+<ul>
+ <li>
+  <a href="http://www.paratype.com/public/">
+   PT Mono
+  </a>
+ </li>
+ <li>
+  <a href="http://www.marksimonson.com/fonts/view/anonymous-pro">
+   Anonymous Pro
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/adobe-fonts/source-code-pro">
+   Adobe Source Code Pro
+  </a>
+  <span>
+   &#9733 8370, pushed 1 days ago
+  </span>
+ </li>
+ <li>
+  <a href="http://www.fonts.com/font/microsoft-corporation/consolas">
+   Consolas
+  </a>
+  (goes with Microsoft Office)
+ </li>
+ <li>
+  <a href="http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender">
+   Droid Sans Mono
+  </a>
+ </li>
+ <li>
+  <a href="http://dejavu-fonts.org">
+   Deja Vu Sans Mono
+  </a>
+ </li>
+ <li>
+  <a href="http://levien.com/type/myfonts/inconsolata.html">
+   Inconsolata
+  </a>
+ </li>
+ <li>
+  <a href="https://en.wikipedia.org/wiki/Monaco_%28typeface%29">
+   Monaco
+  </a>
+ </li>
+ <li>
+  <a href="http://www.dafont.com/bitstream-vera-mono.font">
+   Bitstream Vera Sans Mono
+  </a>
+ </li>
+ <li>
+  <a href="http://input.fontbureau.com">
+   Input
+  </a>
+  from Font Bureau
+ </li>
+ <li>
+  <a href="http://sourcefoundry.org/hack/">
+   Hack
+  </a>
+ </li>
+</ul>
+<p>
+ See also:
+</p>
+<ul>
+ <li>
+  <a href="http://stackoverflow.com/questions/4689/recommended-fonts-for-programming">
+   Recommended Fonts for Programming?
+  </a>
+  at StackOverflow.
+ </li>
+ <li>
+  <a href="http://www.slant.co/topics/67/~programming-fonts">
+   What are the best programming fonts?
+  </a>
+ </li>
+ <li>
+  <a href="http://blog.codinghorror.com/progamming-fonts/">
+   Progamming Fonts
+  </a>
+  and
+  <a href="http://blog.codinghorror.com/revisiting-programming-fonts/">
+   Revisiting Programming Fonts
+  </a>
+  at
+  <a href="http://blog.codinghorror.com">
+   CodingHorror
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ Other Bookmark Lists
+</h2>
+<p>
+ There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/bayandin/awesome-awesomeness
+</p>
+<h2>
+ License
+</h2>
+<p>
+ Licensed under a
+ <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+ </a>
+ .
+</p>
