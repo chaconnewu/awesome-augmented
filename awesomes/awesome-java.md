@@ -266,6 +266,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Hazelcast](http://hazelcast.org/) - Highly scalable in-memory datagrid.
 * [Hystrix](https://github.com/Netflix/Hystrix) - Provides latency and fault tolerance.
 * [JGroups](http://www.jgroups.org/) - Toolkit for reliable messaging and creating clusters.
+* [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 * [Orbit](http://orbit.bioware.com/) - Virtual Actors, adding another level of abstraction to traditional actors.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
@@ -514,6 +515,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Nifty](https://github.com/facebook/nifty) - Implementation of Thrift clients and servers on Netty.
 * [OkHttp](http://square.github.io/okhttp/) - HTTP+SPDY client.
 * [Undertow](http://undertow.io/) - Web server providing both blocking and non-blocking API’s based on NIO. Used as a network layer in WildFly.
+* [urnlib](https://github.com/slub/urnlib) - Java library for representing, parsing and encoding URNs as in RFC 2141.
 
 ## ORM
 
@@ -565,6 +567,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Dropwizard](https://dropwizard.github.io/dropwizard/) - Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
 * [Feign](https://github.com/Netflix/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 * [Jersey](https://jersey.java.net/) - JAX-RS reference implementation.
+* [Microserver](https://github.com/aol/micro-server) — A convenient extensible Microservices plugin system for Spring & Spring Boot, with over 30 plugins and growing, that supports both micro-monolith and pure microservices styles.
 * [RAML](http://raml.org/) - Modeling language to generate REST APIs with contract first.
 * [Rapidoid](http://www.rapidoid.org/) - A simple, secure and extremely fast framework consisting of embedded HTTP server, GUI components and dependency injection.
 * [rest.li](https://github.com/linkedin/rest.li) - Framework for building robust, scalable RESTful architectures using type-safe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform interface design and consistent data modeling.
@@ -648,6 +651,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JGiven](http://jgiven.org) - Developer-friendly BDD testing framework compatible with JUnit and TestNG.
 * [JMockit](http://jmockit.org/) - Mocks static, final methods and more.
 * [JUnit](http://junit.org/) - Common testing framework.
+* [junit-dataprovider](https://github.com/TNG/junit-dataprovider) - A TestNG like dataprovider runner for JUnit.
 * [JUnitParams](https://pragmatists.github.io/JUnitParams/) - Creation of readable and maintainable parametrised tests.
 * [Mockito](https://github.com/mockito/mockito) - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
 * [Moco](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks, Duke's Choice Award 2013.

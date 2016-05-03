@@ -28,16 +28,26 @@ def db_cursor():
 
     return conn.cursor()
 
+def already_in_db():
+    query = "select repo_url from awesome_augmented";
+    cur = db_cursor()
+    cur.execute(query)
+    rows = cur.fetchall()
+    return set([x[0] for x in rows])
+
 def insert_into_db(url_list):
     cur = db_cursor()
     repo_table_name = 'awesome_augmented'
     missed = []
+    urls_already_in_db = already_in_db()
+    count = 0
     for idx, item_url in enumerate(url_list):
-        if idx < 4700:
+        if item_url in urls_already_in_db:
             continue
-        if idx > 9500:
+        if count == 4800:
             break
         repo_url = 'https://api.github.com/repos' + urlparse(item_url).path
+        count += 1
         try:
             r = requests.get(repo_url, auth=(config['github_credential']['username'], config['github_credential']['password']))
             content = r.json()

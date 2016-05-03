@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
+  - [OCR](#ocr)
   - [Quality](#quality)
   - [Security](#security)
     - [Cryptography](#cryptography)
@@ -86,6 +87,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Menu](#menu)
     - [Payment](#payment)
     - [Permissions](#permissions)
+    - [StackView](#stackview)
     - [Transition](#transition)
     - [UITableView](#uitableview)
   - [Utility](#utility)
@@ -673,6 +675,9 @@ Check out apps on these projects:
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
 
+### OCR
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - OCR lib written in swift.
+
 ### Quality
 
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
@@ -740,6 +745,7 @@ Check out apps on these projects:
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) 🐧 - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
+* [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) 🐧 - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 * [Roman](https://github.com/nvzqz/Roman) 🐧 - Seamless Roman numeral conversion in Swift.
@@ -860,7 +866,6 @@ Check out apps on these projects:
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
-* [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [URLEmbeddedView](https://github.com/szk-atmosphere/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [WWElasticTextField](https://github.com/shuuchen/WWElasticTextField) - UITextField with elastic bounce effect on touch.
 
@@ -926,6 +931,12 @@ Check out apps on these projects:
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
+
+#### StackView
+
+* [StackViewController](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+* [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
+
 
 #### Transition
 
@@ -1031,3 +1042,4 @@ Check out apps on these projects:
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [Player](https://github.com/piemonte/Player) - iOS video player in Swift, simple drop in component for playing and streaming media.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+s

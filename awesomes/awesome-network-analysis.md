@@ -274,6 +274,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
   -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
   -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
+-   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - Russian group based at the National Research University in Moscow.
+  -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://www.uclouvain.be/en-352442.html)).
 -   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
@@ -436,6 +438,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
   -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
 -   [Palladio](http://palladio.designhumanities.org/) - Web-based spatial network visualization tool by the [Humanities + Design research lab at Stanford University](http://hdlab.stanford.edu/projects/palladio/).
+-   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](http://partnertool.net/) - Excel-based tool for building networks from surveys.
 -   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](http://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of (one-mode and multilevel) exponential random graph models (ERGMs), written in Java for Windows.
 -   [PUCK - Program for the Use and Computation of Kinship data](http://www.kintip.net/content/view/55/21/) - Cross-platform Java program for genealogical network analysis.
@@ -772,6 +775,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl and [James Fairbanks](http://www.jpfairbanks.net/) – have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/) and [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
