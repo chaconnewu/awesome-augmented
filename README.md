@@ -165,7 +165,7 @@
    Node.js
   </a>
   <sup>
-   &#9733 11353, pushed 1 days ago
+   &#9733 11353, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -189,7 +189,7 @@
    Android
   </a>
   <sup>
-   &#9733 2328, pushed 9 days ago
+   &#9733 2328, pushed 10 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +205,7 @@
    Electron
   </a>
   <sup>
-   &#9733 5761, pushed 2 days ago
+   &#9733 5761, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -229,31 +229,34 @@
    Xamarin
   </a>
   <sup>
-   &#9733 100, pushed 9 days ago
+   &#9733 100, pushed 10 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linux.md">
    Linux
   </a>
+  <sup>
+   &#9733 331, pushed 2 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linux-containers.md">
      Containers
     </a>
     <sup>
-     &#9733 85, pushed 46 days ago
+     &#9733 85, pushed 47 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 331, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx.md">
    OS X
   </a>
+  <sup>
+   &#9733 3920, pushed 2 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx-command-line.md">
@@ -268,20 +271,17 @@
      Screensavers
     </a>
     <sup>
-     &#9733 192, pushed 24 days ago
+     &#9733 192, pushed 25 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 3920, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-watchos.md">
    watchOS
   </a>
   <sup>
-   &#9733 162, pushed 76 days ago
+   &#9733 162, pushed 77 days ago
   </sup>
  </li>
  <li>
@@ -297,7 +297,7 @@
    Salesforce
   </a>
   <sup>
-   &#9733 55, pushed 14 days ago
+   &#9733 55, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -305,7 +305,7 @@
    Amazon Web Services
   </a>
   <sup>
-   &#9733 1859, pushed 4 days ago
+   &#9733 1859, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +329,7 @@
    Fuse
   </a>
   <sup>
-   &#9733 112, pushed 19 days ago
+   &#9733 112, pushed 20 days ago
   </sup>
  </li>
  <li>
@@ -337,7 +337,7 @@
    Heroku
   </a>
   <sup>
-   &#9733 13, pushed 28 days ago
+   &#9733 13, pushed 29 days ago
   </sup>
  </li>
 </ul>
@@ -349,6 +349,9 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-javascript.md">
    JavaScript
   </a>
+  <sup>
+   &#9733 5882, pushed 4 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-promises.md">
@@ -371,7 +374,7 @@
      Must Watch Talks
     </a>
     <sup>
-     &#9733 10625, pushed 3 days ago
+     &#9733 10625, pushed 4 days ago
     </sup>
    </li>
    <li>
@@ -379,7 +382,7 @@
      Tips
     </a>
     <sup>
-     &#9733 9516, pushed 6 days ago
+     &#9733 9516, pushed 7 days ago
     </sup>
    </li>
    <li>
@@ -395,7 +398,7 @@
      Micro npm Packages
     </a>
     <sup>
-     &#9733 234, pushed 5 days ago
+     &#9733 234, pushed 6 days ago
     </sup>
    </li>
    <li>
@@ -410,45 +413,45 @@
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/maintenance-modules.md">
      Maintenance Modules
     </a>
-    - For npm packages
     <sup>
      &#9733 230, pushed 104 days ago
     </sup>
+    - For npm packages
    </li>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-npm.md">
      npm
     </a>
     <sup>
-     &#9733 1710, pushed 11 days ago
+     &#9733 1710, pushed 12 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ava.md">
      AVA
     </a>
-    - Test runner
     <sup>
-     &#9733 99, pushed 1 days ago
+     &#9733 99, pushed 2 days ago
     </sup>
+    - Test runner
    </li>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-eslint.md">
      ESLint
     </a>
     <sup>
-     &#9733 213, pushed 4 days ago
+     &#9733 213, pushed 5 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 5882, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-swift.md">
    Swift
   </a>
+  <sup>
+   &#9733 7959, pushed 4 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome-Swift-Education.md">
@@ -463,20 +466,17 @@
      Playgrounds
     </a>
     <sup>
-     &#9733 406, pushed 10 days ago
+     &#9733 406, pushed 11 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 7959, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-python.md">
    Python
   </a>
   <sup>
-   &#9733 20412, pushed 3 days ago
+   &#9733 20412, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -492,7 +492,7 @@
    Haskell
   </a>
   <sup>
-   &#9733 732, pushed 24 days ago
+   &#9733 732, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -500,26 +500,32 @@
    PureScript
   </a>
   <sup>
-   &#9733 62, pushed 71 days ago
+   &#9733 62, pushed 72 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/avelino/awesome-go">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-go.md">
    Go
   </a>
+  <sup>
+   &#9733 12513, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-scala.md">
    Scala
   </a>
   <sup>
-   &#9733 3388, pushed 5 days ago
+   &#9733 3388, pushed 6 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ruby.md">
    Ruby
   </a>
+  <sup>
+   &#9733 5648, pushed 5 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-events.md">
@@ -530,16 +536,13 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 5648, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-clojure.md">
    Clojure
   </a>
   <sup>
-   &#9733 683, pushed 12 days ago
+   &#9733 683, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +550,7 @@
    ClojureScript
   </a>
   <sup>
-   &#9733 250, pushed 42 days ago
+   &#9733 250, pushed 43 days ago
   </sup>
  </li>
  <li>
@@ -555,7 +558,7 @@
    Elixir
   </a>
   <sup>
-   &#9733 3654, pushed 2 days ago
+   &#9733 3654, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -563,7 +566,7 @@
    Elm
   </a>
   <sup>
-   &#9733 595, pushed 5 days ago
+   &#9733 595, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -579,7 +582,7 @@
    Julia
   </a>
   <sup>
-   &#9733 327, pushed 2 days ago
+   &#9733 327, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -587,7 +590,7 @@
    Lua
   </a>
   <sup>
-   &#9733 821, pushed 65 days ago
+   &#9733 821, pushed 66 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +622,7 @@
    D
   </a>
   <sup>
-   &#9733 123, pushed 21 days ago
+   &#9733 123, pushed 22 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +638,7 @@
    Perl
   </a>
   <sup>
-   &#9733 268, pushed 88 days ago
+   &#9733 268, pushed 89 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +646,7 @@
    Groovy
   </a>
   <sup>
-   &#9733 261, pushed 8 days ago
+   &#9733 261, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -651,26 +654,26 @@
    Dart
   </a>
   <sup>
-   &#9733 136, pushed 126 days ago
+   &#9733 136, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-java.md">
    Java
   </a>
+  <sup>
+   &#9733 6775, pushed 5 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rxjava.md">
      RxJava
     </a>
     <sup>
-     &#9733 27, pushed 8 days ago
+     &#9733 27, pushed 9 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 6775, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/JavaBy/awesome-kotlin">
@@ -682,7 +685,7 @@
    OCaml
   </a>
   <sup>
-   &#9733 601, pushed 7 days ago
+   &#9733 601, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -698,7 +701,7 @@
    Fortran
   </a>
   <sup>
-   &#9733 65, pushed 110 days ago
+   &#9733 65, pushed 111 days ago
   </sup>
  </li>
  <li>
@@ -714,7 +717,7 @@
    PHP
   </a>
   <sup>
-   &#9733 11659, pushed 1 days ago
+   &#9733 11659, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -722,7 +725,7 @@
    Delphi
   </a>
   <sup>
-   &#9733 128, pushed 7 days ago
+   &#9733 128, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +738,7 @@
    AutoHotkey
   </a>
   <sup>
-   &#9733 234, pushed 12 days ago
+   &#9733 234, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -743,7 +746,7 @@
    AutoIt
   </a>
   <sup>
-   &#9733 34, pushed 61 days ago
+   &#9733 34, pushed 62 days ago
   </sup>
  </li>
  <li>
@@ -751,7 +754,7 @@
    Crystal
   </a>
   <sup>
-   &#9733 301, pushed 10 days ago
+   &#9733 301, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -759,7 +762,7 @@
    TypeScript
   </a>
   <sup>
-   &#9733 105, pushed 2 days ago
+   &#9733 105, pushed 3 days ago
   </sup>
  </li>
 </ul>
@@ -780,7 +783,7 @@
    Web Performance Optimization
   </a>
   <sup>
-   &#9733 5366, pushed 14 days ago
+   &#9733 5366, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -788,13 +791,16 @@
    Web Tools
   </a>
   <sup>
-   &#9733 188, pushed 64 days ago
+   &#9733 188, pushed 65 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-css.md">
    CSS
   </a>
+  <sup>
+   &#9733 411, pushed 9 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/critical-path-css-tools.md">
@@ -809,7 +815,7 @@
      Scalability
     </a>
     <sup>
-     &#9733 1023, pushed 12 days ago
+     &#9733 1023, pushed 13 days ago
     </sup>
    </li>
    <li>
@@ -817,7 +823,7 @@
      Must-Watch Talks
     </a>
     <sup>
-     &#9733 1997, pushed 63 days ago
+     &#9733 1997, pushed 64 days ago
     </sup>
    </li>
    <li>
@@ -829,14 +835,14 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 411, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-react.md">
    React
   </a>
+  <sup>
+   &#9733 13197, pushed 2 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-relay.md">
@@ -847,16 +853,13 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 13197, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/webcomponents-the-right-way.md">
    Web Components
   </a>
   <sup>
-   &#9733 797, pushed 171 days ago
+   &#9733 797, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -872,7 +875,7 @@
    Angular 2
   </a>
   <sup>
-   &#9733 1444, pushed 4 days ago
+   &#9733 1444, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +883,7 @@
    Angular
   </a>
   <sup>
-   &#9733 1490, pushed 7 days ago
+   &#9733 1490, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -888,7 +891,7 @@
    Backbone
   </a>
   <sup>
-   &#9733 319, pushed 37 days ago
+   &#9733 319, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -904,7 +907,7 @@
    SVG
   </a>
   <sup>
-   &#9733 2861, pushed 6 days ago
+   &#9733 2861, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +923,7 @@
    KnockoutJS
   </a>
   <sup>
-   &#9733 36, pushed 1 days ago
+   &#9733 36, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -944,7 +947,7 @@
    Ember
   </a>
   <sup>
-   &#9733 125, pushed 17 days ago
+   &#9733 125, pushed 18 days ago
   </sup>
  </li>
  <li>
@@ -952,7 +955,7 @@
    Android UI
   </a>
   <sup>
-   &#9733 13918, pushed 5 days ago
+   &#9733 13918, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -960,7 +963,7 @@
    iOS UI
   </a>
   <sup>
-   &#9733 7875, pushed 5 days ago
+   &#9733 7875, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +979,7 @@
    BEM
   </a>
   <sup>
-   &#9733 147, pushed 31 days ago
+   &#9733 147, pushed 32 days ago
   </sup>
  </li>
  <li>
@@ -984,7 +987,7 @@
    Flexbox
   </a>
   <sup>
-   &#9733 340, pushed 19 days ago
+   &#9733 340, pushed 20 days ago
   </sup>
  </li>
  <li>
@@ -992,7 +995,7 @@
    Web Typography
   </a>
   <sup>
-   &#9733 144, pushed 13 days ago
+   &#9733 144, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1000,7 +1003,7 @@
    Web Accessibility
   </a>
   <sup>
-   &#9733 126, pushed 22 days ago
+   &#9733 126, pushed 23 days ago
   </sup>
  </li>
  <li>
@@ -1008,7 +1011,7 @@
    Material Design
   </a>
   <sup>
-   &#9733 337, pushed 103 days ago
+   &#9733 337, pushed 104 days ago
   </sup>
  </li>
  <li>
@@ -1031,6 +1034,9 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-jquery.md">
    jQuery
   </a>
+  <sup>
+   &#9733 188, pushed 8 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/jquery-tips-everyone-should-know.md">
@@ -1041,16 +1047,13 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 188, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-webaudio.md">
    Web Audio
   </a>
   <sup>
-   &#9733 149, pushed 23 days ago
+   &#9733 149, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -1073,17 +1076,17 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-aframe.md">
    A-Frame VR
   </a>
-  - Virtual reality
   <sup>
    &#9733 228, pushed 4 days ago
   </sup>
+  - Virtual reality
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cyclejs.md">
    Cycle.js
   </a>
   <sup>
-   &#9733 315, pushed 5 days ago
+   &#9733 315, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -1091,7 +1094,7 @@
    Text Editing
   </a>
   <sup>
-   &#9733 8, pushed 55 days ago
+   &#9733 8, pushed 56 days ago
   </sup>
  </li>
  <li>
@@ -1099,7 +1102,7 @@
    Motion UI Design
   </a>
   <sup>
-   &#9733 244, pushed 33 days ago
+   &#9733 244, pushed 34 days ago
   </sup>
  </li>
  <li>
@@ -1107,7 +1110,7 @@
    Vue.js
   </a>
   <sup>
-   &#9733 2411, pushed 3 days ago
+   &#9733 2411, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1115,7 +1118,7 @@
    Marionette.js
   </a>
   <sup>
-   &#9733 104, pushed 25 days ago
+   &#9733 104, pushed 26 days ago
   </sup>
  </li>
  <li>
@@ -1123,7 +1126,7 @@
    Aurelia
   </a>
   <sup>
-   &#9733 20, pushed 5 days ago
+   &#9733 20, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -1139,7 +1142,7 @@
    Ionic Framework 2
   </a>
   <sup>
-   &#9733 50, pushed 3 days ago
+   &#9733 50, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1147,7 +1150,7 @@
    Chrome DevTools
   </a>
   <sup>
-   &#9733 1354, pushed 14 days ago
+   &#9733 1354, pushed 15 days ago
   </sup>
  </li>
 </ul>
@@ -1160,7 +1163,7 @@
    Django
   </a>
   <sup>
-   &#9733 3650, pushed 25 days ago
+   &#9733 3650, pushed 26 days ago
   </sup>
  </li>
  <li>
@@ -1184,7 +1187,7 @@
    Vagrant
   </a>
   <sup>
-   &#9733 177, pushed 68 days ago
+   &#9733 177, pushed 69 days ago
   </sup>
  </li>
  <li>
@@ -1200,7 +1203,7 @@
    Play1 Framework
   </a>
   <sup>
-   &#9733 23, pushed 113 days ago
+   &#9733 23, pushed 114 days ago
   </sup>
  </li>
  <li>
@@ -1208,13 +1211,16 @@
    CakePHP
   </a>
   <sup>
-   &#9733 393, pushed 5 days ago
+   &#9733 393, pushed 6 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-symfony.md">
    Symfony
   </a>
+  <sup>
+   &#9733 697, pushed 3 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-symfony-education.md">
@@ -1225,14 +1231,14 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 697, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-laravel.md">
    Laravel
   </a>
+  <sup>
+   &#9733 2725, pushed 5 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md">
@@ -1240,14 +1246,14 @@
     </a>
    </li>
   </ul>
-  <sup>
-   &#9733 2725, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rails.md">
    Rails
   </a>
+  <sup>
+   &#9733 829, pushed 48 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rails-gem.md">
@@ -1258,16 +1264,13 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 829, pushed 48 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-phalcon.md">
    Phalcon
   </a>
   <sup>
-   &#9733 181, pushed 13 days ago
+   &#9733 181, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1279,7 +1282,7 @@
    Snippets
   </a>
   <sup>
-   &#9733 9219, pushed 27 days ago
+   &#9733 9219, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -1303,7 +1306,7 @@
    Kubernetes
   </a>
   <sup>
-   &#9733 149, pushed 26 days ago
+   &#9733 149, pushed 27 days ago
   </sup>
  </li>
  <li>
@@ -1311,7 +1314,7 @@
    Lumen
   </a>
   <sup>
-   &#9733 62, pushed 37 days ago
+   &#9733 62, pushed 38 days ago
   </sup>
  </li>
 </ul>
@@ -1339,24 +1342,27 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-machine-learning.md">
    Machine Learning
   </a>
+  <sup>
+   &#9733 12665, pushed 4 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Machine-Learning-Tutorials.md">
      Tutorials
     </a>
     <sup>
-     &#9733 2204, pushed 79 days ago
+     &#9733 2204, pushed 80 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 12665, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/speech-language-processing.md">
    Speech and Natural Language Processing
   </a>
+  <sup>
+   &#9733 1193, pushed 106 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-spanish-nlp.md">
@@ -1367,9 +1373,6 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 1193, pushed 106 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linguistics.md">
@@ -1392,13 +1395,16 @@
    Computer Vision
   </a>
   <sup>
-   &#9733 1254, pushed 46 days ago
+   &#9733 1254, pushed 47 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-deep-learning.md">
    Deep Learning
   </a>
+  <sup>
+   &#9733 1922, pushed 8 days ago
+  </sup>
   - Neural networks
   <ul>
    <li>
@@ -1410,16 +1416,13 @@
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 1922, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-deep-vision.md">
    Deep Vision
   </a>
   <sup>
-   &#9733 1273, pushed 8 days ago
+   &#9733 1273, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -1443,7 +1446,7 @@
    Static Analysis & Code Quality
   </a>
   <sup>
-   &#9733 76, pushed 5 days ago
+   &#9733 76, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -1464,7 +1467,7 @@
    Big Data
   </a>
   <sup>
-   &#9733 3106, pushed 12 days ago
+   &#9733 3106, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -1472,7 +1475,7 @@
    Public Datasets
   </a>
   <sup>
-   &#9733 13887, pushed 6 days ago
+   &#9733 13887, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -1480,7 +1483,7 @@
    Hadoop
   </a>
   <sup>
-   &#9733 325, pushed 3 days ago
+   &#9733 325, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1533,7 +1536,7 @@
    Algorithm Visualizations
   </a>
   <sup>
-   &#9733 500, pushed 93 days ago
+   &#9733 500, pushed 94 days ago
   </sup>
  </li>
  <li>
@@ -1549,7 +1552,7 @@
    Search Engine Optimization
   </a>
   <sup>
-   &#9733 222, pushed 65 days ago
+   &#9733 222, pushed 66 days ago
   </sup>
  </li>
  <li>
@@ -1557,7 +1560,7 @@
    Competitive Programming
   </a>
   <sup>
-   &#9733 139, pushed 27 days ago
+   &#9733 139, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -1565,7 +1568,7 @@
    Math
   </a>
   <sup>
-   &#9733 151, pushed 7 days ago
+   &#9733 151, pushed 8 days ago
   </sup>
  </li>
 </ul>
@@ -1578,7 +1581,7 @@
    Free Programming Books
   </a>
   <sup>
-   &#9733 54405, pushed 3 days ago
+   &#9733 54405, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1591,7 +1594,7 @@
    Go Books
   </a>
   <sup>
-   &#9733 2107, pushed 39 days ago
+   &#9733 2107, pushed 40 days ago
   </sup>
  </li>
  <li>
@@ -1652,7 +1655,7 @@
    Atom
   </a>
   <sup>
-   &#9733 326, pushed 4 days ago
+   &#9733 326, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1660,7 +1663,7 @@
    Visual Studio Code
   </a>
   <sup>
-   &#9733 114, pushed 10 days ago
+   &#9733 114, pushed 11 days ago
   </sup>
  </li>
 </ul>
@@ -1681,41 +1684,41 @@
    Game Talks
   </a>
   <sup>
-   &#9733 274, pushed 34 days ago
+   &#9733 274, pushed 35 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-godot.md">
    Godot
   </a>
-  - Game engine
   <sup>
-   &#9733 131, pushed 22 days ago
+   &#9733 131, pushed 23 days ago
   </sup>
+  - Game engine
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/games.md">
    Open Source Games
   </a>
   <sup>
-   &#9733 2592, pushed 18 days ago
+   &#9733 2592, pushed 19 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-unity.md">
    Unity
   </a>
-  - Game engine
   <sup>
    &#9733 536, pushed 5 days ago
   </sup>
+  - Game engine
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-chess.md">
    Chess
   </a>
   <sup>
-   &#9733 19, pushed 11 days ago
+   &#9733 19, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -1728,10 +1731,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-PICO-8.md">
    PICO-8
   </a>
-  - Fantasy console
   <sup>
    &#9733 88, pushed 33 days ago
   </sup>
+  - Fantasy console
  </li>
 </ul>
 <h2>
@@ -1742,10 +1745,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/quick-look-plugins.md">
    Quick Look Plugins
   </a>
-  - OS X
   <sup>
    &#9733 5950, pushed 4 days ago
   </sup>
+  - OS X
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-devenv.md">
@@ -1768,7 +1771,7 @@
    Shell
   </a>
   <sup>
-   &#9733 6673, pushed 17 days ago
+   &#9733 6673, pushed 18 days ago
   </sup>
  </li>
  <li>
@@ -1791,13 +1794,16 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-github.md">
    GitHub
   </a>
+  <sup>
+   &#9733 187, pushed 44 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-browser-extensions-for-github.md">
      Browser Extensions
     </a>
     <sup>
-     &#9733 450, pushed 3 days ago
+     &#9733 450, pushed 4 days ago
     </sup>
    </li>
    <li>
@@ -1805,13 +1811,10 @@
      Cheat Sheet
     </a>
     <sup>
-     &#9733 18492, pushed 27 days ago
+     &#9733 18492, pushed 28 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 187, pushed 44 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/git-cheat-sheet.md">
@@ -1826,7 +1829,7 @@
    Git Tips
   </a>
   <sup>
-   &#9733 515, pushed 4 days ago
+   &#9733 515, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1842,7 +1845,7 @@
    SSH
   </a>
   <sup>
-   &#9733 315, pushed 46 days ago
+   &#9733 315, pushed 47 days ago
   </sup>
  </li>
  <li>
@@ -1850,7 +1853,7 @@
    FOSS for Developers
   </a>
   <sup>
-   &#9733 115, pushed 54 days ago
+   &#9733 115, pushed 55 days ago
   </sup>
  </li>
 </ul>
@@ -1862,10 +1865,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-scifi.md">
    Science Fiction
   </a>
-  - Scifi
   <sup>
    &#9733 997, pushed 14 days ago
   </sup>
+  - Scifi
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fantasy.md">
@@ -1880,7 +1883,7 @@
    Podcasts
   </a>
   <sup>
-   &#9733 602, pushed 15 days ago
+   &#9733 602, pushed 16 days ago
   </sup>
  </li>
  <li>
@@ -1888,7 +1891,7 @@
    Email Newsletters
   </a>
   <sup>
-   &#9733 293, pushed 20 days ago
+   &#9733 293, pushed 21 days ago
   </sup>
  </li>
 </ul>
@@ -1901,7 +1904,7 @@
    Database
   </a>
   <sup>
-   &#9733 209, pushed 30 days ago
+   &#9733 209, pushed 31 days ago
   </sup>
  </li>
  <li>
@@ -1914,7 +1917,7 @@
    SQLAlchemy
   </a>
   <sup>
-   &#9733 1106, pushed 30 days ago
+   &#9733 1106, pushed 31 days ago
   </sup>
  </li>
  <li>
@@ -1922,7 +1925,7 @@
    InfluxDB
   </a>
   <sup>
-   &#9733 98, pushed 24 days ago
+   &#9733 98, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -1937,17 +1940,17 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-doctrine.md">
    Doctrine
   </a>
-  - PHP ORM
   <sup>
    &#9733 91, pushed 22 days ago
   </sup>
+  - PHP ORM
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mongodb.md">
    MongoDB
   </a>
   <sup>
-   &#9733 200, pushed 6 days ago
+   &#9733 200, pushed 7 days ago
   </sup>
  </li>
 </ul>
@@ -1960,7 +1963,7 @@
    Creative Commons Media
   </a>
   <sup>
-   &#9733 109, pushed 102 days ago
+   &#9733 109, pushed 103 days ago
   </sup>
  </li>
  <li>
@@ -1968,17 +1971,17 @@
    Fonts
   </a>
   <sup>
-   &#9733 115, pushed 47 days ago
+   &#9733 115, pushed 48 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/codeface.md">
    Codeface
   </a>
-  - Text editor fonts
   <sup>
-   &#9733 3139, pushed 28 days ago
+   &#9733 3139, pushed 29 days ago
   </sup>
+  - Text editor fonts
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-stock-resources.md">
@@ -1993,7 +1996,7 @@
    GIF
   </a>
   <sup>
-   &#9733 90, pushed 83 days ago
+   &#9733 90, pushed 84 days ago
   </sup>
  </li>
  <li>
@@ -2001,7 +2004,7 @@
    Music
   </a>
   <sup>
-   &#9733 84, pushed 38 days ago
+   &#9733 84, pushed 39 days ago
   </sup>
  </li>
  <li>
@@ -2014,7 +2017,7 @@
    Audio Visualization
   </a>
   <sup>
-   &#9733 258, pushed 3 days ago
+   &#9733 258, pushed 4 days ago
   </sup>
  </li>
 </ul>
@@ -2026,17 +2029,17 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-workshopper.md">
    CLI Workshoppers
   </a>
-  - Interactive tutorials
   <sup>
    &#9733 128, pushed 88 days ago
   </sup>
+  - Interactive tutorials
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/learn-to-program.md">
    Learn to Program
   </a>
   <sup>
-   &#9733 174, pushed 6 days ago
+   &#9733 174, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -2044,7 +2047,7 @@
    Speaking
   </a>
   <sup>
-   &#9733 360, pushed 112 days ago
+   &#9733 360, pushed 113 days ago
   </sup>
  </li>
  <li>
@@ -2060,7 +2063,7 @@
    Dive into Machine Learning
   </a>
   <sup>
-   &#9733 5160, pushed 5 days ago
+   &#9733 5160, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2096,10 +2099,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ctf.md">
    CTF
   </a>
-  - Capture The Flag
   <sup>
-   &#9733 421, pushed 34 days ago
+   &#9733 421, pushed 35 days ago
   </sup>
+  - Capture The Flag
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-malware-analysis.md">
@@ -2114,7 +2117,7 @@
    Android Security
   </a>
   <sup>
-   &#9733 1007, pushed 5 days ago
+   &#9733 1007, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2138,7 +2141,7 @@
    Incident Response
   </a>
   <sup>
-   &#9733 471, pushed 11 days ago
+   &#9733 471, pushed 12 days ago
   </sup>
  </li>
 </ul>
@@ -2151,7 +2154,7 @@
    Umbraco
   </a>
   <sup>
-   &#9733 52, pushed 67 days ago
+   &#9733 52, pushed 68 days ago
   </sup>
  </li>
  <li>
@@ -2159,7 +2162,7 @@
    Refinery CMS
   </a>
   <sup>
-   &#9733 10, pushed 26 days ago
+   &#9733 10, pushed 27 days ago
   </sup>
  </li>
 </ul>
@@ -2184,26 +2187,26 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-slack.md">
    Slack
   </a>
+  <sup>
+   &#9733 218, pushed 104 days ago
+  </sup>
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-slack.md">
      Communities
     </a>
     <sup>
-     &#9733 133, pushed 48 days ago
+     &#9733 133, pushed 49 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 218, pushed 104 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-conferences.md">
    Conferences
   </a>
   <sup>
-   &#9733 407, pushed 34 days ago
+   &#9733 407, pushed 35 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2222,7 @@
    Sysadmin
   </a>
   <sup>
-   &#9733 3496, pushed 4 days ago
+   &#9733 3496, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2243,7 +2246,7 @@
    Analytics
   </a>
   <sup>
-   &#9733 334, pushed 14 days ago
+   &#9733 334, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -2259,7 +2262,7 @@
    REST
   </a>
   <sup>
-   &#9733 636, pushed 13 days ago
+   &#9733 636, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -2267,7 +2270,7 @@
    Selenium
   </a>
   <sup>
-   &#9733 99, pushed 28 days ago
+   &#9733 99, pushed 29 days ago
   </sup>
  </li>
  <li>
@@ -2283,7 +2286,7 @@
    Continuous Delivery
   </a>
   <sup>
-   &#9733 167, pushed 4 days ago
+   &#9733 167, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2299,7 +2302,7 @@
    Free for Developers
   </a>
   <sup>
-   &#9733 13074, pushed 5 days ago
+   &#9733 13074, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2320,10 +2323,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sketch.md">
    Sketch
   </a>
-  - OS X design app
   <sup>
-   &#9733 413, pushed 12 days ago
+   &#9733 413, pushed 13 days ago
   </sup>
+  - OS X design app
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/PlacesToPostYourStartup.md">
@@ -2338,7 +2341,7 @@
    PCAPTools
   </a>
   <sup>
-   &#9733 378, pushed 4 days ago
+   &#9733 378, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2354,7 +2357,7 @@
    Boilerplate Projects
   </a>
   <sup>
-   &#9733 199, pushed 70 days ago
+   &#9733 199, pushed 71 days ago
   </sup>
  </li>
  <li>
@@ -2362,7 +2365,7 @@
    Readme
   </a>
   <sup>
-   &#9733 360, pushed 41 days ago
+   &#9733 360, pushed 42 days ago
   </sup>
  </li>
  <li>
@@ -2378,7 +2381,7 @@
    Styleguides
   </a>
   <sup>
-   &#9733 291, pushed 21 days ago
+   &#9733 291, pushed 22 days ago
   </sup>
  </li>
  <li>
@@ -2386,13 +2389,16 @@
    Design and Development Guides
   </a>
   <sup>
-   &#9733 1097, pushed 36 days ago
+   &#9733 1097, pushed 37 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kilimchoi/engineering-blogs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/engineering-blogs.md">
    Software Engineering Blogs
   </a>
+  <sup>
+   &#9733 7780, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-selfhosted.md">
@@ -2407,7 +2413,7 @@
    FOSS Production Apps
   </a>
   <sup>
-   &#9733 82, pushed 157 days ago
+   &#9733 82, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -2415,13 +2421,16 @@
    Gulp
   </a>
   <sup>
-   &#9733 142, pushed 3 days ago
+   &#9733 142, pushed 4 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/amas.md">
    AMA
   </a>
+  <sup>
+   &#9733 527, pushed 7 days ago
+  </sup>
   - Ask Me Anything
   <ul>
    <li>
@@ -2429,20 +2438,17 @@
      Answers
     </a>
     <sup>
-     &#9733 86, pushed 224 days ago
+     &#9733 86, pushed 225 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 527, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-OpenSourcePhotography.md">
    Open Source Photography
   </a>
   <sup>
-   &#9733 44, pushed 55 days ago
+   &#9733 44, pushed 56 days ago
   </sup>
  </li>
  <li>
@@ -2466,7 +2472,7 @@
    GraphQL
   </a>
   <sup>
-   &#9733 1179, pushed 4 days ago
+   &#9733 1179, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2474,7 +2480,7 @@
    Transit
   </a>
   <sup>
-   &#9733 91, pushed 14 days ago
+   &#9733 91, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -2490,7 +2496,7 @@
    Niche Job Boards
   </a>
   <sup>
-   &#9733 30, pushed 34 days ago
+   &#9733 30, pushed 35 days ago
   </sup>
  </li>
  <li>
@@ -2543,7 +2549,7 @@
    Beginner-Friendly Projects
   </a>
   <sup>
-   &#9733 304, pushed 25 days ago
+   &#9733 304, pushed 26 days ago
   </sup>
  </li>
  <li>
@@ -2551,7 +2557,7 @@
    Bluetooth Beacons
   </a>
   <sup>
-   &#9733 131, pushed 56 days ago
+   &#9733 131, pushed 57 days ago
   </sup>
  </li>
  <li>
@@ -2563,17 +2569,17 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ripple.md">
    Ripple
   </a>
-  - Open source distributed settlement network
   <sup>
    &#9733 32, pushed 103 days ago
   </sup>
+  - Open source distributed settlement network
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-katas.md">
    Katas
   </a>
   <sup>
-   &#9733 32, pushed 74 days ago
+   &#9733 32, pushed 75 days ago
   </sup>
  </li>
  <li>
@@ -2588,10 +2594,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tap.md">
    TAP
   </a>
-  - Test Anything Protocol
   <sup>
-   &#9733 197, pushed 46 days ago
+   &#9733 197, pushed 47 days ago
   </sup>
+  - Test Anything Protocol
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-robotics.md">
@@ -2605,10 +2611,10 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mqtt.md">
    MQTT
   </a>
-  - "Internet of Things" connectivity protocol
   <sup>
    &#9733 41, pushed 31 days ago
   </sup>
+  - "Internet of Things" connectivity protocol
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hacking-spots.md">
@@ -2630,53 +2636,53 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vorpal.md">
    Vorpal
   </a>
-  - Node.js CLI framework
   <sup>
    &#9733 54, pushed 8 days ago
   </sup>
+  - Node.js CLI framework
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-okr.md">
    OKR Methodology
   </a>
-  - Goal setting & communication best practices
   <sup>
    &#9733 33, pushed 88 days ago
   </sup>
+  - Goal setting & communication best practices
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vulkan.md">
    Vulkan
   </a>
   <sup>
-   &#9733 186, pushed 6 days ago
+   &#9733 186, pushed 7 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-LaTeX.md">
    LaTeX
   </a>
-  - Typesetting language
   <sup>
-   &#9733 19, pushed 28 days ago
+   &#9733 19, pushed 29 days ago
   </sup>
+  - Typesetting language
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-network-analysis.md">
    Network Analysis
   </a>
   <sup>
-   &#9733 179, pushed 1 days ago
+   &#9733 179, pushed 2 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-economics.md">
    Economics
   </a>
-  - An economist's starter kit
   <sup>
-   &#9733 33, pushed 7 days ago
+   &#9733 33, pushed 8 days ago
   </sup>
+  - An economist's starter kit
  </li>
 </ul>
 <h2>
