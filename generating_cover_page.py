@@ -66,6 +66,14 @@ def generate_awsome_project_info(url):
         return (stars_count, updated_days_ago)
     return (None, None)
 
+
+def regenerate_hrefs(url):
+    prefix = 'https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/'
+    full_name = urlparse(url).path
+    new_url = prefix + full_name.split('/')[-1] + '.md'
+
+    return new_url
+
 def main():
     # awesome_url = 'https://raw.githubusercontent.com/sindresorhus/awesome/master/readme.md'
     # content = request_content(awesome_url)
@@ -82,17 +90,19 @@ def main():
 
         if len(a) > 0 and re.search('^https://github.com/[^/]+/[^/]+/?$', a[0]['href']):
             url = a[0]['href']
+            print(url)
             github_count, all_count = count_github_urls(url, input_dir)
             stars_count, updated_days_ago = generate_awsome_project_info(url)
             if not stars_count or not updated_days_ago:
                 continue
 
             tag = soup.new_tag('sup')
-            tag.string = '%d GitHub repository, %d links Total, &#9733 %d, pushed %d days ago ' % (github_count, all_count, stars_count, updated_days_ago)
+            tag.string = '%d GitHub Repo / %d Total, &#9733 %d, pushed %d days ago ' % (github_count, all_count, stars_count, updated_days_ago)
             if a[0] in visited:
                 continue
             else:
                 visited.add(a[0])
+                a[0]['href'] = regenerate_hrefs(url)
                 li.insert(len(li.contents), tag)
 
 

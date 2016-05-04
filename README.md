@@ -161,183 +161,183 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-nodejs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-nodejs.md">
    Node.js
   </a>
   <sup>
-   426 GitHub repository, 614 links Total, &#9733 11353, pushed 1 days ago
+   426 GitHub Repo / 614 Total, &#9733 11353, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dypsilon/frontend-dev-bookmarks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/frontend-dev-bookmarks.md">
    Frontend Development
   </a>
   <sup>
-   144 GitHub repository, 987 links Total, &#9733 18696, pushed 1 days ago
+   144 GitHub Repo / 987 Total, &#9733 18696, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vsouza/awesome-ios">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ios.md">
    iOS
   </a>
   <sup>
-   1127 GitHub repository, 1412 links Total, &#9733 11176, pushed 4 days ago
+   1127 GitHub Repo / 1412 Total, &#9733 11176, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/JStumpp/awesome-android">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-android.md">
    Android
   </a>
   <sup>
-   109 GitHub repository, 201 links Total, &#9733 2328, pushed 9 days ago
+   109 GitHub Repo / 201 Total, &#9733 2328, pushed 9 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/weblancaster/awesome-IoT-hybrid">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-IoT-hybrid.md">
    IoT & Hybrid Apps
   </a>
   <sup>
-   4 GitHub repository, 56 links Total, &#9733 186, pushed 89 days ago
+   4 GitHub Repo / 56 Total, &#9733 186, pushed 89 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-electron">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-electron.md">
    Electron
   </a>
   <sup>
-   144 GitHub repository, 207 links Total, &#9733 5761, pushed 2 days ago
+   144 GitHub Repo / 207 Total, &#9733 5761, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/busterc/awesome-cordova">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cordova.md">
    Cordova
   </a>
   <sup>
-   1 GitHub repository, 23 links Total, &#9733 103, pushed 116 days ago
+   1 GitHub Repo / 23 Total, &#9733 103, pushed 116 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jondot/awesome-react-native">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-react-native.md">
    React Native
   </a>
   <sup>
-   439 GitHub repository, 531 links Total, &#9733 4339, pushed 2 days ago
+   439 GitHub Repo / 531 Total, &#9733 4339, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/benoitjadinon/awesome-xamarin">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-xamarin.md">
    Xamarin
   </a>
   <sup>
-   88 GitHub repository, 136 links Total, &#9733 100, pushed 9 days ago
+   88 GitHub Repo / 136 Total, &#9733 100, pushed 9 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aleksandar-todorovic/awesome-linux">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linux.md">
    Linux
   </a>
   <ul>
    <li>
-    <a href="https://github.com/Friz-zy/awesome-linux-containers">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linux-containers.md">
      Containers
     </a>
     <sup>
-     19 GitHub repository, 88 links Total, &#9733 85, pushed 46 days ago
+     19 GitHub Repo / 88 Total, &#9733 85, pushed 46 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   10 GitHub repository, 97 links Total, &#9733 331, pushed 2 days ago
+   10 GitHub Repo / 97 Total, &#9733 331, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/iCHAIT/awesome-osx">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx.md">
    OS X
   </a>
   <ul>
    <li>
-    <a href="https://github.com/herrbischoff/awesome-osx-command-line">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx-command-line.md">
      Command-Line
     </a>
     <sup>
-     7 GitHub repository, 110 links Total, &#9733 7528, pushed 1 days ago
+     7 GitHub Repo / 110 Total, &#9733 7528, pushed 1 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/aharris88/awesome-osx-screensavers">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx-screensavers.md">
      Screensavers
     </a>
     <sup>
-     0 GitHub repository, 9 links Total, &#9733 192, pushed 24 days ago
+     0 GitHub Repo / 9 Total, &#9733 192, pushed 24 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   33 GitHub repository, 270 links Total, &#9733 3920, pushed 2 days ago
+   33 GitHub Repo / 270 Total, &#9733 3920, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/yenchenlin1994/awesome-watchos">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-watchos.md">
    watchOS
   </a>
   <sup>
-   19 GitHub repository, 54 links Total, &#9733 162, pushed 76 days ago
+   19 GitHub Repo / 54 Total, &#9733 162, pushed 76 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/deephacks/awesome-jvm">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-jvm.md">
    JVM
   </a>
   <sup>
-   69 GitHub repository, 132 links Total, &#9733 122, pushed 4 days ago
+   69 GitHub Repo / 132 Total, &#9733 122, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mailtoharshit/awesome-salesforce">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-salesforce.md">
    Salesforce
   </a>
   <sup>
-   29 GitHub repository, 101 links Total, &#9733 55, pushed 14 days ago
+   29 GitHub Repo / 101 Total, &#9733 55, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/donnemartin/awesome-aws">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-aws.md">
    Amazon Web Services
   </a>
   <sup>
-   299 GitHub repository, 715 links Total, &#9733 1859, pushed 4 days ago
+   299 GitHub Repo / 715 Total, &#9733 1859, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RiseLedger/awesome-windows">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-windows.md">
    Windows
   </a>
   <sup>
-   4 GitHub repository, 70 links Total, &#9733 63, pushed 54 days ago
+   4 GitHub Repo / 70 Total, &#9733 63, pushed 54 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ipfs/awesome-ipfs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ipfs.md">
    IPFS
   </a>
   <sup>
-   23 GitHub repository, 46 links Total, &#9733 177, pushed 11 days ago
+   23 GitHub Repo / 46 Total, &#9733 177, pushed 11 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vinkla/awesome-fuse">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fuse.md">
    Fuse
   </a>
   <sup>
-   31 GitHub repository, 102 links Total, &#9733 112, pushed 19 days ago
+   31 GitHub Repo / 102 Total, &#9733 112, pushed 19 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ianstormtaylor/awesome-heroku">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-heroku.md">
    Heroku
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 13, pushed 28 days ago
+   0 GitHub Repo / 0 Total, &#9733 13, pushed 28 days ago
   </sup>
  </li>
 </ul>
@@ -346,161 +346,161 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/sorrycc/awesome-javascript">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-javascript.md">
    JavaScript
   </a>
   <ul>
    <li>
-    <a href="https://github.com/wbinnssmith/awesome-promises">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-promises.md">
      Promises
     </a>
     <sup>
-     35 GitHub repository, 60 links Total, &#9733 573, pushed 10 days ago
+     35 GitHub Repo / 60 Total, &#9733 573, pushed 10 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/feross/awesome-standard">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-standard.md">
      Standard Style
     </a>
     <sup>
-     1 GitHub repository, 33 links Total, &#9733 119, pushed 19 days ago
+     1 GitHub Repo / 33 Total, &#9733 119, pushed 19 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/bolshchikov/js-must-watch">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/js-must-watch.md">
      Must Watch Talks
     </a>
     <sup>
-     0 GitHub repository, 65 links Total, &#9733 10625, pushed 3 days ago
+     0 GitHub Repo / 65 Total, &#9733 10625, pushed 3 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/loverajoel/jstips">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/jstips.md">
      Tips
     </a>
     <sup>
-     0 GitHub repository, 29 links Total, &#9733 9516, pushed 6 days ago
+     0 GitHub Repo / 29 Total, &#9733 9516, pushed 6 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/Kikobeats/awesome-network-js">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-network-js.md">
      Network Layer
     </a>
     <sup>
-     52 GitHub repository, 52 links Total, &#9733 218, pushed 45 days ago
+     52 GitHub Repo / 52 Total, &#9733 218, pushed 45 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/parro-it/awesome-micro-npm-packages">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-micro-npm-packages.md">
      Micro npm Packages
     </a>
     <sup>
-     90 GitHub repository, 98 links Total, &#9733 234, pushed 5 days ago
+     90 GitHub Repo / 98 Total, &#9733 234, pushed 5 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/feross/awesome-mad-science">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mad-science.md">
      Mad Science npm Packages
     </a>
     <sup>
-     6 GitHub repository, 53 links Total, &#9733 452, pushed 69 days ago
+     6 GitHub Repo / 53 Total, &#9733 452, pushed 69 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/maxogden/maintenance-modules">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/maintenance-modules.md">
      Maintenance Modules
     </a>
     - For npm packages
     <sup>
-     0 GitHub repository, 0 links Total, &#9733 230, pushed 104 days ago
+     0 GitHub Repo / 0 Total, &#9733 230, pushed 104 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/sindresorhus/awesome-npm">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-npm.md">
      npm
     </a>
     <sup>
-     41 GitHub repository, 106 links Total, &#9733 1710, pushed 11 days ago
+     41 GitHub Repo / 106 Total, &#9733 1710, pushed 11 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/sindresorhus/awesome-ava">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ava.md">
      AVA
     </a>
     - Test runner
     <sup>
-     15 GitHub repository, 26 links Total, &#9733 99, pushed 1 days ago
+     15 GitHub Repo / 26 Total, &#9733 99, pushed 1 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/dustinspecker/awesome-eslint">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-eslint.md">
      ESLint
     </a>
     <sup>
-     38 GitHub repository, 55 links Total, &#9733 213, pushed 4 days ago
+     38 GitHub Repo / 55 Total, &#9733 213, pushed 4 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   486 GitHub repository, 596 links Total, &#9733 5882, pushed 4 days ago
+   486 GitHub Repo / 596 Total, &#9733 5882, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/matteocrippa/awesome-swift">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-swift.md">
    Swift
   </a>
   <ul>
    <li>
-    <a href="https://github.com/hsavit1/Awesome-Swift-Education">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome-Swift-Education.md">
      Education
     </a>
     <sup>
-     209 GitHub repository, 1653 links Total, &#9733 4475, pushed 23 days ago
+     209 GitHub Repo / 1653 Total, &#9733 4475, pushed 23 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome-Swift-Playgrounds.md">
      Playgrounds
     </a>
     <sup>
-     90 GitHub repository, 112 links Total, &#9733 406, pushed 10 days ago
+     90 GitHub Repo / 112 Total, &#9733 406, pushed 10 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   606 GitHub repository, 704 links Total, &#9733 7959, pushed 3 days ago
+   606 GitHub Repo / 704 Total, &#9733 7959, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vinta/awesome-python">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-python.md">
    Python
   </a>
   <sup>
-   347 GitHub repository, 782 links Total, &#9733 20412, pushed 3 days ago
+   347 GitHub Repo / 782 Total, &#9733 20412, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kud1ing/awesome-rust">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rust.md">
    Rust
   </a>
   <sup>
-   243 GitHub repository, 408 links Total, &#9733 2097, pushed 6 days ago
+   243 GitHub Repo / 408 Total, &#9733 2097, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/krispo/awesome-haskell">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-haskell.md">
    Haskell
   </a>
   <sup>
-   11 GitHub repository, 259 links Total, &#9733 732, pushed 24 days ago
+   11 GitHub Repo / 259 Total, &#9733 732, pushed 24 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/passy/awesome-purescript">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-purescript.md">
    PureScript
   </a>
   <sup>
-   19 GitHub repository, 28 links Total, &#9733 62, pushed 71 days ago
+   19 GitHub Repo / 28 Total, &#9733 62, pushed 71 days ago
   </sup>
  </li>
  <li>
@@ -509,167 +509,167 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/lauris/awesome-scala">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-scala.md">
    Scala
   </a>
   <sup>
-   183 GitHub repository, 265 links Total, &#9733 3388, pushed 5 days ago
+   183 GitHub Repo / 265 Total, &#9733 3388, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/markets/awesome-ruby">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ruby.md">
    Ruby
   </a>
   <ul>
    <li>
-    <a href="https://github.com/planetruby/awesome-events">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-events.md">
      Events
     </a>
     <sup>
-     0 GitHub repository, 385 links Total, &#9733 167, pushed 19 days ago
+     0 GitHub Repo / 385 Total, &#9733 167, pushed 19 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   636 GitHub repository, 862 links Total, &#9733 5648, pushed 4 days ago
+   636 GitHub Repo / 862 Total, &#9733 5648, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/razum2um/awesome-clojure">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-clojure.md">
    Clojure
   </a>
   <sup>
-   99 GitHub repository, 177 links Total, &#9733 683, pushed 12 days ago
+   99 GitHub Repo / 177 Total, &#9733 683, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/emrehan/awesome-clojurescript">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-clojurescript.md">
    ClojureScript
   </a>
   <sup>
-   69 GitHub repository, 104 links Total, &#9733 250, pushed 42 days ago
+   69 GitHub Repo / 104 Total, &#9733 250, pushed 42 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/h4cc/awesome-elixir">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-elixir.md">
    Elixir
   </a>
   <sup>
-   840 GitHub repository, 967 links Total, &#9733 3654, pushed 2 days ago
+   840 GitHub Repo / 967 Total, &#9733 3654, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/isRuslan/awesome-elm">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-elm.md">
    Elm
   </a>
   <sup>
-   39 GitHub repository, 110 links Total, &#9733 595, pushed 5 days ago
+   39 GitHub Repo / 110 Total, &#9733 595, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/drobakowski/awesome-erlang">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-erlang.md">
    Erlang
   </a>
   <sup>
-   70 GitHub repository, 114 links Total, &#9733 422, pushed 23 days ago
+   70 GitHub Repo / 114 Total, &#9733 422, pushed 23 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/svaksha/Julia.jl">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Julia.jl.md">
    Julia
   </a>
   <sup>
-   0 GitHub repository, 44 links Total, &#9733 327, pushed 2 days ago
+   0 GitHub Repo / 44 Total, &#9733 327, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/LewisJEllis/awesome-lua">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-lua.md">
    Lua
   </a>
   <sup>
-   92 GitHub repository, 215 links Total, &#9733 821, pushed 65 days ago
+   92 GitHub Repo / 215 Total, &#9733 821, pushed 65 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aleksandar-todorovic/awesome-c">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-c.md">
    C
   </a>
   <sup>
-   90 GitHub repository, 357 links Total, &#9733 214, pushed 2 days ago
+   90 GitHub Repo / 357 Total, &#9733 214, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fffaraz/awesome-cpp">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cpp.md">
    C/C++
   </a>
   <sup>
-   226 GitHub repository, 569 links Total, &#9733 4935, pushed 2 days ago
+   226 GitHub Repo / 569 Total, &#9733 4935, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/qinwf/awesome-R">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-R.md">
    R
   </a>
   <sup>
-   92 GitHub repository, 362 links Total, &#9733 1317, pushed 5 days ago
+   92 GitHub Repo / 362 Total, &#9733 1317, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/zhaopuming/awesome-d">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-d.md">
    D
   </a>
   <sup>
-   59 GitHub repository, 171 links Total, &#9733 123, pushed 21 days ago
+   59 GitHub Repo / 171 Total, &#9733 123, pushed 21 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/CodyReichert/awesome-cl">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cl.md">
    Common Lisp
   </a>
   <sup>
-   105 GitHub repository, 185 links Total, &#9733 276, pushed 4 days ago
+   105 GitHub Repo / 185 Total, &#9733 276, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hachiojipm/awesome-perl">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-perl.md">
    Perl
   </a>
   <sup>
-   6 GitHub repository, 237 links Total, &#9733 268, pushed 88 days ago
+   6 GitHub Repo / 237 Total, &#9733 268, pushed 88 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kdabir/awesome-groovy">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-groovy.md">
    Groovy
   </a>
   <sup>
-   36 GitHub repository, 85 links Total, &#9733 261, pushed 8 days ago
+   36 GitHub Repo / 85 Total, &#9733 261, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/yissachar/awesome-dart">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dart.md">
    Dart
   </a>
   <sup>
-   33 GitHub repository, 79 links Total, &#9733 136, pushed 126 days ago
+   33 GitHub Repo / 79 Total, &#9733 136, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/akullpp/awesome-java">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-java.md">
    Java
   </a>
   <ul>
    <li>
-    <a href="https://github.com/eleventigers/awesome-rxjava">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rxjava.md">
      RxJava
     </a>
     <sup>
-     31 GitHub repository, 42 links Total, &#9733 27, pushed 8 days ago
+     31 GitHub Repo / 42 Total, &#9733 27, pushed 8 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   109 GitHub repository, 473 links Total, &#9733 6775, pushed 4 days ago
+   109 GitHub Repo / 473 Total, &#9733 6775, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -678,51 +678,51 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/rizo/awesome-ocaml">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ocaml.md">
    OCaml
   </a>
   <sup>
-   98 GitHub repository, 277 links Total, &#9733 601, pushed 7 days ago
+   98 GitHub Repo / 277 Total, &#9733 601, pushed 7 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/seancoyne/awesome-coldfusion">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-coldfusion.md">
    Coldfusion
   </a>
   <sup>
-   34 GitHub repository, 80 links Total, &#9733 29, pushed 106 days ago
+   34 GitHub Repo / 80 Total, &#9733 29, pushed 106 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/rabbiabram/awesome-fortran">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fortran.md">
    Fortran
   </a>
   <sup>
-   14 GitHub repository, 56 links Total, &#9733 65, pushed 110 days ago
+   14 GitHub Repo / 56 Total, &#9733 65, pushed 110 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/quozd/awesome-dotnet">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dotnet.md">
    .NET
   </a>
   <sup>
-   275 GitHub repository, 455 links Total, &#9733 1717, pushed 3 days ago
+   275 GitHub Repo / 455 Total, &#9733 1717, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ziadoz/awesome-php">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-php.md">
    PHP
   </a>
   <sup>
-   390 GitHub repository, 640 links Total, &#9733 11659, pushed 1 days ago
+   390 GitHub Repo / 640 Total, &#9733 11659, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Fr0sT-Brutal/awesome-delphi">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-delphi.md">
    Delphi
   </a>
   <sup>
-   55 GitHub repository, 181 links Total, &#9733 128, pushed 7 days ago
+   55 GitHub Repo / 181 Total, &#9733 128, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -731,35 +731,35 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/ahkscript/awesome-AutoHotkey">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-AutoHotkey.md">
    AutoHotkey
   </a>
   <sup>
-   31 GitHub repository, 108 links Total, &#9733 234, pushed 12 days ago
+   31 GitHub Repo / 108 Total, &#9733 234, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/J2TeaM/awesome-AutoIt">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-AutoIt.md">
    AutoIt
   </a>
   <sup>
-   13 GitHub repository, 323 links Total, &#9733 34, pushed 61 days ago
+   13 GitHub Repo / 323 Total, &#9733 34, pushed 61 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/veelenga/awesome-crystal">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-crystal.md">
    Crystal
   </a>
   <sup>
-   114 GitHub repository, 162 links Total, &#9733 301, pushed 10 days ago
+   114 GitHub Repo / 162 Total, &#9733 301, pushed 10 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dzharii/awesome-typescript">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-typescript.md">
    TypeScript
   </a>
   <sup>
-   15 GitHub repository, 51 links Total, &#9733 105, pushed 2 days ago
+   15 GitHub Repo / 51 Total, &#9733 105, pushed 2 days ago
   </sup>
  </li>
 </ul>
@@ -768,386 +768,386 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/addyosmani/es6-tools">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/es6-tools.md">
    ES6 Tools
   </a>
   <sup>
-   110 GitHub repository, 125 links Total, &#9733 3009, pushed 67 days ago
+   110 GitHub Repo / 125 Total, &#9733 3009, pushed 67 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/davidsonfellipe/awesome-wpo">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-wpo.md">
    Web Performance Optimization
   </a>
   <sup>
-   111 GitHub repository, 227 links Total, &#9733 5366, pushed 14 days ago
+   111 GitHub Repo / 227 Total, &#9733 5366, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/lvwzhen/tools">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/tools.md">
    Web Tools
   </a>
   <sup>
-   2 GitHub repository, 88 links Total, &#9733 188, pushed 64 days ago
+   2 GitHub Repo / 88 Total, &#9733 188, pushed 64 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sotayamashita/awesome-css">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-css.md">
    CSS
   </a>
   <ul>
    <li>
-    <a href="https://github.com/addyosmani/critical-path-css-tools">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/critical-path-css-tools.md">
      Critical-Path Tools
     </a>
     <sup>
-     0 GitHub repository, 1 links Total, &#9733 572, pushed 67 days ago
+     0 GitHub Repo / 1 Total, &#9733 572, pushed 67 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/davidtheclark/scalable-css-reading-list">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/scalable-css-reading-list.md">
      Scalability
     </a>
     <sup>
-     1 GitHub repository, 44 links Total, &#9733 1023, pushed 12 days ago
+     1 GitHub Repo / 44 Total, &#9733 1023, pushed 12 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/AllThingsSmitty/must-watch-css">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/must-watch-css.md">
      Must-Watch Talks
     </a>
     <sup>
-     0 GitHub repository, 45 links Total, &#9733 1997, pushed 63 days ago
+     0 GitHub Repo / 45 Total, &#9733 1997, pushed 63 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/AllThingsSmitty/css-protips">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/css-protips.md">
      Protips
     </a>
     <sup>
-     0 GitHub repository, 27 links Total, &#9733 6715, pushed 2 days ago
+     0 GitHub Repo / 27 Total, &#9733 6715, pushed 2 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   18 GitHub repository, 181 links Total, &#9733 411, pushed 8 days ago
+   18 GitHub Repo / 181 Total, &#9733 411, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/enaqx/awesome-react">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-react.md">
    React
   </a>
   <ul>
    <li>
-    <a href="https://github.com/expede/awesome-relay">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-relay.md">
      Relay
     </a>
     <sup>
-     27 GitHub repository, 80 links Total, &#9733 60, pushed 49 days ago
+     27 GitHub Repo / 80 Total, &#9733 60, pushed 49 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   404 GitHub repository, 734 links Total, &#9733 13197, pushed 2 days ago
+   404 GitHub Repo / 734 Total, &#9733 13197, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mateusortiz/webcomponents-the-right-way">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/webcomponents-the-right-way.md">
    Web Components
   </a>
   <sup>
-   16 GitHub repository, 86 links Total, &#9733 797, pushed 171 days ago
+   16 GitHub Repo / 86 Total, &#9733 797, pushed 171 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Granze/awesome-polymer">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-polymer.md">
    Polymer
   </a>
   <sup>
-   19 GitHub repository, 91 links Total, &#9733 207, pushed 13 days ago
+   19 GitHub Repo / 91 Total, &#9733 207, pushed 13 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/AngularClass/awesome-angular2">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-angular2.md">
    Angular 2
   </a>
   <sup>
-   25 GitHub repository, 103 links Total, &#9733 1444, pushed 4 days ago
+   25 GitHub Repo / 103 Total, &#9733 1444, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/gianarb/awesome-angularjs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-angularjs.md">
    Angular
   </a>
   <sup>
-   144 GitHub repository, 153 links Total, &#9733 1490, pushed 7 days ago
+   144 GitHub Repo / 153 Total, &#9733 1490, pushed 7 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sadcitizen/awesome-backbone">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-backbone.md">
    Backbone
   </a>
   <sup>
-   22 GitHub repository, 111 links Total, &#9733 319, pushed 37 days ago
+   22 GitHub Repo / 111 Total, &#9733 319, pushed 37 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/diegocard/awesome-html5">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-html5.md">
    HTML5
   </a>
   <sup>
-   10 GitHub repository, 205 links Total, &#9733 472, pushed 76 days ago
+   10 GitHub Repo / 205 Total, &#9733 472, pushed 76 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/willianjusten/awesome-svg">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-svg.md">
    SVG
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 2861, pushed 6 days ago
+   0 GitHub Repo / 0 Total, &#9733 2861, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/raphamorim/awesome-canvas">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-canvas.md">
    Canvas
   </a>
   <sup>
-   6 GitHub repository, 90 links Total, &#9733 97, pushed 74 days ago
+   6 GitHub Repo / 90 Total, &#9733 97, pushed 75 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dnbard/awesome-knockout">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-knockout.md">
    KnockoutJS
   </a>
   <sup>
-   31 GitHub repository, 31 links Total, &#9733 36, pushed 1 days ago
+   31 GitHub Repo / 31 Total, &#9733 36, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/peterkokot/awesome-dojo">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dojo.md">
    Dojo Toolkit
   </a>
   <sup>
-   46 GitHub repository, 102 links Total, &#9733 46, pushed 138 days ago
+   46 GitHub Repo / 102 Total, &#9733 46, pushed 138 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/NoahBuscher/Inspire">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Inspire.md">
    Inspiration
   </a>
   <sup>
-   1 GitHub repository, 67 links Total, &#9733 372, pushed 146 days ago
+   1 GitHub Repo / 67 Total, &#9733 372, pushed 146 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/nmec/awesome-ember">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ember.md">
    Ember
   </a>
   <sup>
-   5 GitHub repository, 56 links Total, &#9733 125, pushed 17 days ago
+   5 GitHub Repo / 56 Total, &#9733 125, pushed 17 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/wasabeef/awesome-android-ui">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-android-ui.md">
    Android UI
   </a>
   <sup>
-   2 GitHub repository, 20 links Total, &#9733 13918, pushed 5 days ago
+   2 GitHub Repo / 20 Total, &#9733 13918, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/cjwirth/awesome-ios-ui">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ios-ui.md">
    iOS UI
   </a>
   <sup>
-   0 GitHub repository, 14 links Total, &#9733 7875, pushed 5 days ago
+   0 GitHub Repo / 14 Total, &#9733 7875, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Urigo/awesome-meteor">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-meteor.md">
    Meteor
   </a>
   <sup>
-   74 GitHub repository, 163 links Total, &#9733 547, pushed 30 days ago
+   74 GitHub Repo / 163 Total, &#9733 547, pushed 30 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sturobson/BEM-resources">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/BEM-resources.md">
    BEM
   </a>
   <sup>
-   5 GitHub repository, 54 links Total, &#9733 147, pushed 31 days ago
+   5 GitHub Repo / 54 Total, &#9733 147, pushed 31 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/afonsopacifer/awesome-flexbox">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-flexbox.md">
    Flexbox
   </a>
   <sup>
-   5 GitHub repository, 62 links Total, &#9733 340, pushed 19 days ago
+   5 GitHub Repo / 62 Total, &#9733 340, pushed 19 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/deanhume/typography">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/typography.md">
    Web Typography
   </a>
   <sup>
-   3 GitHub repository, 53 links Total, &#9733 144, pushed 13 days ago
+   3 GitHub Repo / 53 Total, &#9733 144, pushed 13 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/brunopulis/awesome-a11y">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-a11y.md">
    Web Accessibility
   </a>
   <sup>
-   2 GitHub repository, 117 links Total, &#9733 126, pushed 22 days ago
+   2 GitHub Repo / 117 Total, &#9733 126, pushed 22 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sachin1092/awesome-material">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-material.md">
    Material Design
   </a>
   <sup>
-   37 GitHub repository, 43 links Total, &#9733 337, pushed 103 days ago
+   37 GitHub Repo / 43 Total, &#9733 337, pushed 103 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/wbkd/awesome-d3">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-d3.md">
    D3
   </a>
   <sup>
-   59 GitHub repository, 107 links Total, &#9733 2786, pushed 8 days ago
+   59 GitHub Repo / 107 Total, &#9733 2786, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jonathandion/awesome-emails">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md">
    Emails
   </a>
   <sup>
-   10 GitHub repository, 56 links Total, &#9733 78, pushed 12 days ago
+   10 GitHub Repo / 56 Total, &#9733 78, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/peterkokot/awesome-jquery">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-jquery.md">
    jQuery
   </a>
   <ul>
    <li>
-    <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/jquery-tips-everyone-should-know.md">
      Tips
     </a>
     <sup>
-     0 GitHub repository, 26 links Total, &#9733 3683, pushed 1 days ago
+     0 GitHub Repo / 26 Total, &#9733 3683, pushed 1 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   99 GitHub repository, 152 links Total, &#9733 188, pushed 8 days ago
+   99 GitHub Repo / 152 Total, &#9733 188, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/notthetup/awesome-webaudio">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-webaudio.md">
    Web Audio
   </a>
   <sup>
-   28 GitHub repository, 35 links Total, &#9733 149, pushed 23 days ago
+   28 GitHub Repo / 35 Total, &#9733 149, pushed 23 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/pazguille/offline-first">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/offline-first.md">
    Offline-First
   </a>
   <sup>
-   0 GitHub repository, 17 links Total, &#9733 1410, pushed 1 days ago
+   0 GitHub Repo / 17 Total, &#9733 1410, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aharris88/awesome-static-website-services">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-static-website-services.md">
    Static Website Services
   </a>
   <sup>
-   12 GitHub repository, 139 links Total, &#9733 178, pushed 8 days ago
+   12 GitHub Repo / 139 Total, &#9733 178, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aframevr/awesome-aframe">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-aframe.md">
    A-Frame VR
   </a>
   - Virtual reality
   <sup>
-   40 GitHub repository, 136 links Total, &#9733 228, pushed 4 days ago
+   40 GitHub Repo / 136 Total, &#9733 228, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vic/awesome-cyclejs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cyclejs.md">
    Cycle.js
   </a>
   <sup>
-   59 GitHub repository, 85 links Total, &#9733 315, pushed 5 days ago
+   59 GitHub Repo / 85 Total, &#9733 315, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dok/awesome-text-editing">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-text-editing.md">
    Text Editing
   </a>
   <sup>
-   8 GitHub repository, 35 links Total, &#9733 8, pushed 55 days ago
+   8 GitHub Repo / 35 Total, &#9733 8, pushed 55 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fliptheweb/motion-ui-design">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/motion-ui-design.md">
    Motion UI Design
   </a>
   <sup>
-   5 GitHub repository, 147 links Total, &#9733 244, pushed 33 days ago
+   5 GitHub Repo / 147 Total, &#9733 244, pushed 33 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vuejs/awesome-vue">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vue.md">
    Vue.js
   </a>
   <sup>
-   144 GitHub repository, 304 links Total, &#9733 2411, pushed 3 days ago
+   144 GitHub Repo / 304 Total, &#9733 2411, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sadcitizen/awesome-marionette">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-marionette.md">
    Marionette.js
   </a>
   <sup>
-   15 GitHub repository, 67 links Total, &#9733 104, pushed 25 days ago
+   15 GitHub Repo / 67 Total, &#9733 104, pushed 25 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/behzad888/awesome-aurelia">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-aurelia.md">
    Aurelia
   </a>
   <sup>
-   33 GitHub repository, 107 links Total, &#9733 20, pushed 5 days ago
+   33 GitHub Repo / 107 Total, &#9733 20, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/zingchart/awesome-charting">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-charting.md">
    Charting
   </a>
   <sup>
-   14 GitHub repository, 47 links Total, &#9733 560, pushed 9 days ago
+   14 GitHub Repo / 47 Total, &#9733 560, pushed 9 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/candelibas/awesome-ionic2">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ionic2.md">
    Ionic Framework 2
   </a>
   <sup>
-   3 GitHub repository, 57 links Total, &#9733 50, pushed 3 days ago
+   3 GitHub Repo / 57 Total, &#9733 50, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-chrome-devtools.md">
    Chrome DevTools
   </a>
   <sup>
-   24 GitHub repository, 48 links Total, &#9733 1354, pushed 14 days ago
+   24 GitHub Repo / 48 Total, &#9733 1354, pushed 14 days ago
   </sup>
  </li>
 </ul>
@@ -1156,81 +1156,81 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/rosarior/awesome-django">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-django.md">
    Django
   </a>
   <sup>
-   251 GitHub repository, 352 links Total, &#9733 3650, pushed 25 days ago
+   251 GitHub Repo / 352 Total, &#9733 3650, pushed 25 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/humiaozuzu/awesome-flask">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-flask.md">
    Flask
   </a>
   <sup>
-   140 GitHub repository, 196 links Total, &#9733 2367, pushed 13 days ago
+   140 GitHub Repo / 196 Total, &#9733 2367, pushed 13 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/veggiemonk/awesome-docker">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-docker.md">
    Docker
   </a>
   <sup>
-   159 GitHub repository, 455 links Total, &#9733 3116, pushed 2 days ago
+   159 GitHub Repo / 455 Total, &#9733 3116, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/iJackUA/awesome-vagrant">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vagrant.md">
    Vagrant
   </a>
   <sup>
-   14 GitHub repository, 46 links Total, &#9733 177, pushed 68 days ago
+   14 GitHub Repo / 46 Total, &#9733 177, pushed 68 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/uralbash/awesome-pyramid">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-pyramid.md">
    Pyramid
   </a>
   <sup>
-   89 GitHub repository, 138 links Total, &#9733 248, pushed 1 days ago
+   89 GitHub Repo / 138 Total, &#9733 248, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/PerfectCarl/awesome-play1">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-play1.md">
    Play1 Framework
   </a>
   <sup>
-   5 GitHub repository, 139 links Total, &#9733 23, pushed 113 days ago
+   5 GitHub Repo / 139 Total, &#9733 23, pushed 113 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/friendsofcake/awesome-cakephp">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cakephp.md">
    CakePHP
   </a>
   <sup>
-   143 GitHub repository, 237 links Total, &#9733 393, pushed 5 days ago
+   143 GitHub Repo / 237 Total, &#9733 393, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sitepoint/awesome-symfony">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-symfony.md">
    Symfony
   </a>
   <ul>
    <li>
-    <a href="https://github.com/Symfonisti/awesome-symfony-education">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-symfony-education.md">
      Education
     </a>
     <sup>
-     0 GitHub repository, 44 links Total, &#9733 131, pushed 51 days ago
+     0 GitHub Repo / 44 Total, &#9733 131, pushed 51 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   228 GitHub repository, 283 links Total, &#9733 697, pushed 3 days ago
+   228 GitHub Repo / 283 Total, &#9733 697, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/chiraggude/awesome-laravel">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-laravel.md">
    Laravel
   </a>
   <ul>
@@ -1241,37 +1241,37 @@
    </li>
   </ul>
   <sup>
-   132 GitHub repository, 366 links Total, &#9733 2725, pushed 4 days ago
+   132 GitHub Repo / 366 Total, &#9733 2725, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ekremkaraca/awesome-rails">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rails.md">
    Rails
   </a>
   <ul>
    <li>
-    <a href="https://github.com/hothero/awesome-rails-gem">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rails-gem.md">
      Gems
     </a>
     <sup>
-     134 GitHub repository, 168 links Total, &#9733 1621, pushed 33 days ago
+     134 GitHub Repo / 168 Total, &#9733 1621, pushed 33 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   1 GitHub repository, 21 links Total, &#9733 829, pushed 48 days ago
+   1 GitHub Repo / 21 Total, &#9733 829, pushed 48 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sergeyklay/awesome-phalcon">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-phalcon.md">
    Phalcon
   </a>
   <sup>
-   108 GitHub repository, 161 links Total, &#9733 181, pushed 13 days ago
+   108 GitHub Repo / 161 Total, &#9733 181, pushed 13 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/phanan/htaccess">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/htaccess.md">
    Useful
    <code>
     .htaccess
@@ -1279,39 +1279,39 @@
    Snippets
   </a>
   <sup>
-   0 GitHub repository, 42 links Total, &#9733 9219, pushed 27 days ago
+   0 GitHub Repo / 42 Total, &#9733 9219, pushed 27 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fcambus/nginx-resources">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/nginx-resources.md">
    nginx
   </a>
   <sup>
-   7 GitHub repository, 88 links Total, &#9733 1628, pushed 66 days ago
+   7 GitHub Repo / 88 Total, &#9733 1628, pushed 66 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/stve/awesome-dropwizard">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dropwizard.md">
    Dropwizard
   </a>
   <sup>
-   17 GitHub repository, 37 links Total, &#9733 12, pushed 7 days ago
+   17 GitHub Repo / 37 Total, &#9733 12, pushed 7 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ramitsurana/awesome-kubernetes">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-kubernetes.md">
    Kubernetes
   </a>
   <sup>
-   4 GitHub repository, 136 links Total, &#9733 149, pushed 26 days ago
+   4 GitHub Repo / 136 Total, &#9733 149, pushed 26 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/unicodeveloper/awesome-lumen">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-lumen.md">
    Lumen
   </a>
   <sup>
-   21 GitHub repository, 56 links Total, &#9733 62, pushed 37 days ago
+   21 GitHub Repo / 56 Total, &#9733 62, pushed 37 days ago
   </sup>
  </li>
 </ul>
@@ -1320,138 +1320,138 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/prakhar1989/awesome-courses">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-courses.md">
    University Courses
   </a>
   <sup>
-   6 GitHub repository, 795 links Total, &#9733 14954, pushed 14 days ago
+   6 GitHub Repo / 795 Total, &#9733 14954, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/okulbilisim/awesome-datascience">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-datascience.md">
    Data Science
   </a>
   <sup>
-   15 GitHub repository, 361 links Total, &#9733 2359, pushed 8 days ago
+   15 GitHub Repo / 361 Total, &#9733 2359, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/josephmisiti/awesome-machine-learning">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-machine-learning.md">
    Machine Learning
   </a>
   <ul>
    <li>
-    <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Machine-Learning-Tutorials.md">
      Tutorials
     </a>
     <sup>
-     19 GitHub repository, 352 links Total, &#9733 2204, pushed 79 days ago
+     19 GitHub Repo / 352 Total, &#9733 2204, pushed 79 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   377 GitHub repository, 753 links Total, &#9733 12665, pushed 4 days ago
+   377 GitHub Repo / 753 Total, &#9733 12665, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/edobashira/speech-language-processing">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/speech-language-processing.md">
    Speech and Natural Language Processing
   </a>
   <ul>
    <li>
-    <a href="https://github.com/dav009/awesome-spanish-nlp">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-spanish-nlp.md">
      Spanish
     </a>
     <sup>
-     5 GitHub repository, 50 links Total, &#9733 46, pushed 145 days ago
+     5 GitHub Repo / 50 Total, &#9733 46, pushed 145 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 1193, pushed 106 days ago
+   0 GitHub Repo / 0 Total, &#9733 1193, pushed 106 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/theimpossibleastronaut/awesome-linguistics">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-linguistics.md">
    Linguistics
   </a>
   <sup>
-   2 GitHub repository, 33 links Total, &#9733 40, pushed 270 days ago
+   2 GitHub Repo / 33 Total, &#9733 40, pushed 270 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/MaciejCzyzewski/retter">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/retter.md">
    Cryptography
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 1544, pushed 191 days ago
+   0 GitHub Repo / 0 Total, &#9733 1544, pushed 191 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jbhuang0604/awesome-computer-vision">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-computer-vision.md">
    Computer Vision
   </a>
   <sup>
-   24 GitHub repository, 438 links Total, &#9733 1254, pushed 46 days ago
+   24 GitHub Repo / 438 Total, &#9733 1254, pushed 46 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-deep-learning.md">
    Deep Learning
   </a>
   - Neural networks
   <ul>
    <li>
-    <a href="https://github.com/jtoy/awesome-tensorflow">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tensorflow.md">
      TensorFlow
     </a>
     <sup>
-     13 GitHub repository, 36 links Total, &#9733 27, pushed 8 days ago
+     13 GitHub Repo / 36 Total, &#9733 27, pushed 8 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   41 GitHub repository, 397 links Total, &#9733 1922, pushed 8 days ago
+   41 GitHub Repo / 397 Total, &#9733 1922, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kjw0612/awesome-deep-vision">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-deep-vision.md">
    Deep Vision
   </a>
   <sup>
-   7 GitHub repository, 249 links Total, &#9733 1273, pushed 8 days ago
+   7 GitHub Repo / 249 Total, &#9733 1273, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/open-source-society/computer-science">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/computer-science.md">
    Open Source Society University
   </a>
   <sup>
-   3 GitHub repository, 64 links Total, &#9733 13722, pushed 9 days ago
+   3 GitHub Repo / 64 Total, &#9733 13722, pushed 9 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/lucasviola/awesome-functional-programming">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-functional-programming.md">
    Functional Programming
   </a>
   <sup>
-   5 GitHub repository, 58 links Total, &#9733 115, pushed 64 days ago
+   5 GitHub Repo / 58 Total, &#9733 115, pushed 64 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mre/awesome-static-analysis">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-static-analysis.md">
    Static Analysis & Code Quality
   </a>
   <sup>
-   83 GitHub repository, 136 links Total, &#9733 76, pushed 5 days ago
+   83 GitHub Repo / 136 Total, &#9733 76, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sdnds-tw/awesome-sdn">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sdn.md">
    Software-Defined Networking
   </a>
   <sup>
-   16 GitHub repository, 66 links Total, &#9733 20, pushed 48 days ago
+   16 GitHub Repo / 66 Total, &#9733 20, pushed 48 days ago
   </sup>
  </li>
 </ul>
@@ -1460,43 +1460,43 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/onurakpolat/awesome-bigdata">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-bigdata.md">
    Big Data
   </a>
   <sup>
-   96 GitHub repository, 480 links Total, &#9733 3106, pushed 12 days ago
+   96 GitHub Repo / 480 Total, &#9733 3106, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/caesar0301/awesome-public-datasets">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-public-datasets.md">
    Public Datasets
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 13887, pushed 6 days ago
+   0 GitHub Repo / 0 Total, &#9733 13887, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/youngwookim/awesome-hadoop">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hadoop.md">
    Hadoop
   </a>
   <sup>
-   51 GitHub repository, 236 links Total, &#9733 325, pushed 3 days ago
+   51 GitHub Repo / 236 Total, &#9733 325, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/igorbarinov/awesome-data-engineering">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-data-engineering.md">
    Data Engineering
   </a>
   <sup>
-   62 GitHub repository, 172 links Total, &#9733 467, pushed 24 days ago
+   62 GitHub Repo / 172 Total, &#9733 467, pushed 24 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/manuzhang/awesome-streaming">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-streaming.md">
    Streaming
   </a>
   <sup>
-   33 GitHub repository, 63 links Total, &#9733 45, pushed 9 days ago
+   33 GitHub Repo / 63 Total, &#9733 45, pushed 9 days ago
   </sup>
  </li>
 </ul>
@@ -1505,67 +1505,67 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/papers-we-love/papers-we-love">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/papers-we-love.md">
    Papers We Love
   </a>
   <sup>
-   1 GitHub repository, 58 links Total, &#9733 16161, pushed 12 days ago
+   1 GitHub Repo / 58 Total, &#9733 16161, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/JanVanRyswyck/awesome-talks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-talks.md">
    Talks
   </a>
   <sup>
-   0 GitHub repository, 87 links Total, &#9733 1167, pushed 23 days ago
+   0 GitHub Repo / 87 Total, &#9733 1167, pushed 23 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/tayllan/awesome-algorithms">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-algorithms.md">
    Algorithms
   </a>
   <sup>
-   32 GitHub repository, 97 links Total, &#9733 1434, pushed 14 days ago
+   32 GitHub Repo / 97 Total, &#9733 1434, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/enjalot/algovis">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/algovis.md">
    Algorithm Visualizations
   </a>
   <sup>
-   0 GitHub repository, 41 links Total, &#9733 500, pushed 93 days ago
+   0 GitHub Repo / 41 Total, &#9733 500, pushed 93 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/owainlewis/awesome-artificial-intelligence">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-artificial-intelligence.md">
    Artificial Intelligence
   </a>
   <sup>
-   1 GitHub repository, 112 links Total, &#9733 1518, pushed 27 days ago
+   1 GitHub Repo / 112 Total, &#9733 1518, pushed 27 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/marcobiedermann/search-engine-optimization">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/search-engine-optimization.md">
    Search Engine Optimization
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 222, pushed 65 days ago
+   0 GitHub Repo / 0 Total, &#9733 222, pushed 65 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/lnishan/awesome-competitive-programming">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-competitive-programming.md">
    Competitive Programming
   </a>
   <sup>
-   10 GitHub repository, 155 links Total, &#9733 139, pushed 27 days ago
+   10 GitHub Repo / 155 Total, &#9733 139, pushed 27 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/rossant/awesome-math">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-math.md">
    Math
   </a>
   <sup>
-   0 GitHub repository, 199 links Total, &#9733 151, pushed 7 days ago
+   0 GitHub Repo / 199 Total, &#9733 151, pushed 7 days ago
   </sup>
  </li>
 </ul>
@@ -1574,11 +1574,11 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/vhf/free-programming-books">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/free-programming-books.md">
    Free Programming Books
   </a>
   <sup>
-   0 GitHub repository, 36 links Total, &#9733 54405, pushed 3 days ago
+   0 GitHub Repo / 36 Total, &#9733 54405, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1587,35 +1587,35 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/dariubs/GoBooks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/GoBooks.md">
    Go Books
   </a>
   <sup>
-   0 GitHub repository, 5 links Total, &#9733 2107, pushed 39 days ago
+   0 GitHub Repo / 5 Total, &#9733 2107, pushed 39 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RomanTsegelskyi/rbooks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/rbooks.md">
    R Books
   </a>
   <sup>
-   0 GitHub repository, 9 links Total, &#9733 29, pushed 5 days ago
+   0 GitHub Repo / 9 Total, &#9733 29, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hackerkid/Mind-Expanding-Books">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Mind-Expanding-Books.md">
    Mind Expanding Books
   </a>
   <sup>
-   0 GitHub repository, 256 links Total, &#9733 344, pushed 18 days ago
+   0 GitHub Repo / 256 Total, &#9733 344, pushed 18 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/TalAter/awesome-book-authoring">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-book-authoring.md">
    Book Authoring
   </a>
   <sup>
-   0 GitHub repository, 51 links Total, &#9733 2, pushed 2 days ago
+   0 GitHub Repo / 51 Total, &#9733 2, pushed 2 days ago
   </sup>
  </li>
 </ul>
@@ -1624,43 +1624,43 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/dreikanter/sublime-bookmarks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/sublime-bookmarks.md">
    Sublime Text
   </a>
   <sup>
-   48 GitHub repository, 97 links Total, &#9733 380, pushed 81 days ago
+   48 GitHub Repo / 97 Total, &#9733 380, pushed 81 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mhinz/vim-galore">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/vim-galore.md">
    Vim
   </a>
   <sup>
-   20 GitHub repository, 154 links Total, &#9733 4633, pushed 10 days ago
+   20 GitHub Repo / 154 Total, &#9733 4633, pushed 10 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/emacs-tw/awesome-emacs">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emacs.md">
    Emacs
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 1774, pushed 2 days ago
+   0 GitHub Repo / 0 Total, &#9733 1774, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mehcode/awesome-atom">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-atom.md">
    Atom
   </a>
   <sup>
-   0 GitHub repository, 40 links Total, &#9733 326, pushed 4 days ago
+   0 GitHub Repo / 40 Total, &#9733 326, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/viatsko/awesome-vscode">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vscode.md">
    Visual Studio Code
   </a>
   <sup>
-   2 GitHub repository, 76 links Total, &#9733 114, pushed 10 days ago
+   2 GitHub Repo / 76 Total, &#9733 114, pushed 10 days ago
   </sup>
  </li>
 </ul>
@@ -1669,53 +1669,53 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/ellisonleao/magictools">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/magictools.md">
    Game Development
   </a>
   <sup>
-   22 GitHub repository, 303 links Total, &#9733 2890, pushed 39 days ago
+   22 GitHub Repo / 303 Total, &#9733 2890, pushed 39 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hzoo/awesome-gametalks">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-gametalks.md">
    Game Talks
   </a>
   <sup>
-   0 GitHub repository, 128 links Total, &#9733 274, pushed 34 days ago
+   0 GitHub Repo / 128 Total, &#9733 274, pushed 34 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Calinou/awesome-godot">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-godot.md">
    Godot
   </a>
   - Game engine
   <sup>
-   47 GitHub repository, 64 links Total, &#9733 131, pushed 22 days ago
+   47 GitHub Repo / 64 Total, &#9733 131, pushed 22 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/leereilly/games">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/games.md">
    Open Source Games
   </a>
   <sup>
-   328 GitHub repository, 366 links Total, &#9733 2592, pushed 18 days ago
+   328 GitHub Repo / 366 Total, &#9733 2592, pushed 18 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RyanNielson/awesome-unity">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-unity.md">
    Unity
   </a>
   - Game engine
   <sup>
-   8 GitHub repository, 69 links Total, &#9733 536, pushed 5 days ago
+   8 GitHub Repo / 69 Total, &#9733 536, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hkirat/awesome-chess">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-chess.md">
    Chess
   </a>
   <sup>
-   11 GitHub repository, 50 links Total, &#9733 19, pushed 11 days ago
+   11 GitHub Repo / 50 Total, &#9733 19, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -1725,12 +1725,12 @@
   - Game engine
  </li>
  <li>
-  <a href="https://github.com/felipebueno/awesome-PICO-8">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-PICO-8.md">
    PICO-8
   </a>
   - Fantasy console
   <sup>
-   6 GitHub repository, 35 links Total, &#9733 88, pushed 33 days ago
+   6 GitHub Repo / 35 Total, &#9733 88, pushed 33 days ago
   </sup>
  </li>
 </ul>
@@ -1739,118 +1739,118 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/sindresorhus/quick-look-plugins">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/quick-look-plugins.md">
    Quick Look Plugins
   </a>
   - OS X
   <sup>
-   0 GitHub repository, 4 links Total, &#9733 5950, pushed 4 days ago
+   0 GitHub Repo / 4 Total, &#9733 5950, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jondot/awesome-devenv">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-devenv.md">
    Dev Env
   </a>
   <sup>
-   59 GitHub repository, 96 links Total, &#9733 388, pushed 14 days ago
+   59 GitHub Repo / 96 Total, &#9733 388, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/webpro/awesome-dotfiles">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dotfiles.md">
    Dotfiles
   </a>
   <sup>
-   18 GitHub repository, 47 links Total, &#9733 1061, pushed 8 days ago
+   18 GitHub Repo / 47 Total, &#9733 1061, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/alebcay/awesome-shell">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-shell.md">
    Shell
   </a>
   <sup>
-   138 GitHub repository, 160 links Total, &#9733 6673, pushed 17 days ago
+   138 GitHub Repo / 160 Total, &#9733 6673, pushed 17 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aharris88/awesome-cli-apps">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cli-apps.md">
    Command-Line Apps
   </a>
   <sup>
-   134 GitHub repository, 174 links Total, &#9733 398, pushed 7 days ago
+   134 GitHub Repo / 174 Total, &#9733 398, pushed 7 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/unixorn/awesome-zsh-plugins">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-zsh-plugins.md">
    ZSH Plugins
   </a>
   <sup>
-   276 GitHub repository, 359 links Total, &#9733 1464, pushed 3 days ago
+   276 GitHub Repo / 359 Total, &#9733 1464, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/phillipadsmith/awesome-github">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-github.md">
    GitHub
   </a>
   <ul>
    <li>
-    <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-browser-extensions-for-github.md">
      Browser Extensions
     </a>
     <sup>
-     0 GitHub repository, 31 links Total, &#9733 450, pushed 3 days ago
+     0 GitHub Repo / 31 Total, &#9733 450, pushed 3 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/tiimgreen/github-cheat-sheet">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/github-cheat-sheet.md">
      Cheat Sheet
     </a>
     <sup>
-     0 GitHub repository, 96 links Total, &#9733 18492, pushed 27 days ago
+     0 GitHub Repo / 96 Total, &#9733 18492, pushed 27 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   29 GitHub repository, 61 links Total, &#9733 187, pushed 44 days ago
+   29 GitHub Repo / 61 Total, &#9733 187, pushed 44 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/arslanbilal/git-cheat-sheet">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/git-cheat-sheet.md">
    Git Cheat Sheet & Git Flow
   </a>
   <sup>
-   0 GitHub repository, 22 links Total, &#9733 1138, pushed 50 days ago
+   0 GitHub Repo / 22 Total, &#9733 1138, pushed 50 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/git-tips/tips">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/tips.md">
    Git Tips
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 515, pushed 4 days ago
+   0 GitHub Repo / 0 Total, &#9733 515, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/stevemao/awesome-git-addons">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-git-addons.md">
    Git Add-ons
   </a>
   <sup>
-   0 GitHub repository, 38 links Total, &#9733 227, pushed 10 days ago
+   0 GitHub Repo / 38 Total, &#9733 227, pushed 10 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/moul/awesome-ssh">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ssh.md">
    SSH
   </a>
   <sup>
-   45 GitHub repository, 100 links Total, &#9733 315, pushed 46 days ago
+   45 GitHub Repo / 100 Total, &#9733 315, pushed 46 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/FOSS-for-Dev.md">
    FOSS for Developers
   </a>
   <sup>
-   17 GitHub repository, 32 links Total, &#9733 115, pushed 54 days ago
+   17 GitHub Repo / 32 Total, &#9733 115, pushed 54 days ago
   </sup>
  </li>
 </ul>
@@ -1859,36 +1859,36 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-scifi">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-scifi.md">
    Science Fiction
   </a>
   - Scifi
   <sup>
-   0 GitHub repository, 23 links Total, &#9733 997, pushed 14 days ago
+   0 GitHub Repo / 23 Total, &#9733 997, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RichardLitt/awesome-fantasy">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fantasy.md">
    Fantasy
   </a>
   <sup>
-   0 GitHub repository, 19 links Total, &#9733 167, pushed 75 days ago
+   0 GitHub Repo / 19 Total, &#9733 167, pushed 75 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/guipdutra/awesome-geek-podcasts">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-geek-podcasts.md">
    Podcasts
   </a>
   <sup>
-   1 GitHub repository, 136 links Total, &#9733 602, pushed 15 days ago
+   1 GitHub Repo / 136 Total, &#9733 602, pushed 15 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vredniy/awesome-newsletters">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-newsletters.md">
    Email Newsletters
   </a>
   <sup>
-   0 GitHub repository, 122 links Total, &#9733 293, pushed 20 days ago
+   0 GitHub Repo / 122 Total, &#9733 293, pushed 20 days ago
   </sup>
  </li>
 </ul>
@@ -1897,11 +1897,11 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/numetriclabz/awesome-db">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-db.md">
    Database
   </a>
   <sup>
-   41 GitHub repository, 48 links Total, &#9733 209, pushed 30 days ago
+   41 GitHub Repo / 48 Total, &#9733 209, pushed 30 days ago
   </sup>
  </li>
  <li>
@@ -1910,44 +1910,44 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/dahlia/awesome-sqlalchemy">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sqlalchemy.md">
    SQLAlchemy
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 1106, pushed 30 days ago
+   0 GitHub Repo / 0 Total, &#9733 1106, pushed 30 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mark-rushakoff/awesome-influxdb">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-influxdb.md">
    InfluxDB
   </a>
   <sup>
-   89 GitHub repository, 94 links Total, &#9733 98, pushed 24 days ago
+   89 GitHub Repo / 94 Total, &#9733 98, pushed 24 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Neueda4j/awesome-neo4j">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-neo4j.md">
    Neo4j
   </a>
   <sup>
-   64 GitHub repository, 118 links Total, &#9733 73, pushed 11 days ago
+   64 GitHub Repo / 118 Total, &#9733 73, pushed 11 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/TomasVotruba/awesome-doctrine">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-doctrine.md">
    Doctrine
   </a>
   - PHP ORM
   <sup>
-   11 GitHub repository, 36 links Total, &#9733 91, pushed 22 days ago
+   11 GitHub Repo / 36 Total, &#9733 91, pushed 22 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ramnes/awesome-mongodb">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mongodb.md">
    MongoDB
   </a>
   <sup>
-   82 GitHub repository, 134 links Total, &#9733 200, pushed 6 days ago
+   82 GitHub Repo / 134 Total, &#9733 200, pushed 6 days ago
   </sup>
  </li>
 </ul>
@@ -1956,52 +1956,52 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/shime/creative-commons-media">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/creative-commons-media.md">
    Creative Commons Media
   </a>
   <sup>
-   1 GitHub repository, 53 links Total, &#9733 109, pushed 102 days ago
+   1 GitHub Repo / 53 Total, &#9733 109, pushed 102 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/brabadu/awesome-fonts">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fonts.md">
    Fonts
   </a>
   <sup>
-   40 GitHub repository, 75 links Total, &#9733 115, pushed 47 days ago
+   40 GitHub Repo / 75 Total, &#9733 115, pushed 47 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/chrissimpkins/codeface">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/codeface.md">
    Codeface
   </a>
   - Text editor fonts
   <sup>
-   0 GitHub repository, 8 links Total, &#9733 3139, pushed 28 days ago
+   0 GitHub Repo / 8 Total, &#9733 3139, pushed 28 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/neutraltone/awesome-stock-resources">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-stock-resources.md">
    Stock Resources
   </a>
   <sup>
-   4 GitHub repository, 191 links Total, &#9733 5175, pushed 14 days ago
+   4 GitHub Repo / 191 Total, &#9733 5175, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ibaaj/awesome-gif">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-gif.md">
    GIF
   </a>
   <sup>
-   71 GitHub repository, 122 links Total, &#9733 90, pushed 83 days ago
+   71 GitHub Repo / 122 Total, &#9733 90, pushed 83 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ciconia/awesome-music">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-music.md">
    Music
   </a>
   <sup>
-   32 GitHub repository, 81 links Total, &#9733 84, pushed 38 days ago
+   32 GitHub Repo / 81 Total, &#9733 84, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -2010,11 +2010,11 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/willianjusten/awesome-audio-visualization">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-audio-visualization.md">
    Audio Visualization
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 258, pushed 3 days ago
+   0 GitHub Repo / 0 Total, &#9733 258, pushed 3 days ago
   </sup>
  </li>
 </ul>
@@ -2023,52 +2023,52 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/therebelrobot/awesome-workshopper">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-workshopper.md">
    CLI Workshoppers
   </a>
   - Interactive tutorials
   <sup>
-   0 GitHub repository, 9 links Total, &#9733 128, pushed 88 days ago
+   0 GitHub Repo / 9 Total, &#9733 128, pushed 88 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/karlhorky/learn-to-program">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/learn-to-program.md">
    Learn to Program
   </a>
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 174, pushed 6 days ago
+   0 GitHub Repo / 0 Total, &#9733 174, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/matteofigus/awesome-speaking">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-speaking.md">
    Speaking
   </a>
   <sup>
-   3 GitHub repository, 21 links Total, &#9733 360, pushed 112 days ago
+   3 GitHub Repo / 21 Total, &#9733 360, pushed 112 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/lucasviola/awesome-tech-videos">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tech-videos.md">
    Tech Videos
   </a>
   <sup>
-   0 GitHub repository, 98 links Total, &#9733 116, pushed 115 days ago
+   0 GitHub Repo / 98 Total, &#9733 116, pushed 115 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hangtwenty/dive-into-machine-learning">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/dive-into-machine-learning.md">
    Dive into Machine Learning
   </a>
   <sup>
-   5 GitHub repository, 90 links Total, &#9733 5160, pushed 5 days ago
+   5 GitHub Repo / 90 Total, &#9733 5160, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/watson/awesome-computer-history">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-computer-history.md">
    Computer History
   </a>
   <sup>
-   0 GitHub repository, 70 links Total, &#9733 588, pushed 21 days ago
+   0 GitHub Repo / 70 Total, &#9733 588, pushed 21 days ago
   </sup>
  </li>
 </ul>
@@ -2077,68 +2077,68 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/paragonie/awesome-appsec">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-appsec.md">
    Application Security
   </a>
   <sup>
-   0 GitHub repository, 105 links Total, &#9733 1668, pushed 24 days ago
+   0 GitHub Repo / 105 Total, &#9733 1668, pushed 24 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sbilly/awesome-security">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-security.md">
    Security
   </a>
   <sup>
-   36 GitHub repository, 110 links Total, &#9733 523, pushed 50 days ago
+   36 GitHub Repo / 110 Total, &#9733 523, pushed 50 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/apsdehal/awesome-ctf">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ctf.md">
    CTF
   </a>
   - Capture The Flag
   <sup>
-   29 GitHub repository, 110 links Total, &#9733 421, pushed 34 days ago
+   29 GitHub Repo / 110 Total, &#9733 421, pushed 34 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/rshipp/awesome-malware-analysis">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-malware-analysis.md">
    Malware Analysis
   </a>
   <sup>
-   104 GitHub repository, 295 links Total, &#9733 968, pushed 6 days ago
+   104 GitHub Repo / 295 Total, &#9733 968, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ashishb/android-security-awesome">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/android-security-awesome.md">
    Android Security
   </a>
   <sup>
-   55 GitHub repository, 129 links Total, &#9733 1007, pushed 5 days ago
+   55 GitHub Repo / 129 Total, &#9733 1007, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/carpedm20/awesome-hacking">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hacking.md">
    Hacking
   </a>
   <sup>
-   9 GitHub repository, 99 links Total, &#9733 510, pushed 12 days ago
+   9 GitHub Repo / 99 Total, &#9733 510, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/paralax/awesome-honeypots">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-honeypots.md">
    Honeypots
   </a>
   <sup>
-   100 GitHub repository, 332 links Total, &#9733 604, pushed 47 days ago
+   100 GitHub Repo / 332 Total, &#9733 604, pushed 47 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/meirwah/awesome-incident-response">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-incident-response.md">
    Incident Response
   </a>
   <sup>
-   35 GitHub repository, 103 links Total, &#9733 471, pushed 11 days ago
+   35 GitHub Repo / 103 Total, &#9733 471, pushed 11 days ago
   </sup>
  </li>
 </ul>
@@ -2147,19 +2147,19 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/leekelleher/awesome-umbraco">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-umbraco.md">
    Umbraco
   </a>
   <sup>
-   1 GitHub repository, 37 links Total, &#9733 52, pushed 67 days ago
+   1 GitHub Repo / 37 Total, &#9733 52, pushed 67 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-refinerycms.md">
    Refinery CMS
   </a>
   <sup>
-   27 GitHub repository, 31 links Total, &#9733 10, pushed 26 days ago
+   27 GitHub Repo / 31 Total, &#9733 10, pushed 26 days ago
   </sup>
  </li>
 </ul>
@@ -2168,11 +2168,11 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/burningtree/awesome-json">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-json.md">
    JSON
   </a>
   <sup>
-   52 GitHub repository, 169 links Total, &#9733 306, pushed 25 days ago
+   52 GitHub Repo / 169 Total, &#9733 306, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -2181,133 +2181,133 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/matiassingers/awesome-slack">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-slack.md">
    Slack
   </a>
   <ul>
    <li>
-    <a href="https://github.com/filipelinhares/awesome-slack">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-slack.md">
      Communities
     </a>
     <sup>
-     2 GitHub repository, 46 links Total, &#9733 133, pushed 48 days ago
+     2 GitHub Repo / 46 Total, &#9733 133, pushed 48 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   2 GitHub repository, 46 links Total, &#9733 218, pushed 104 days ago
+   2 GitHub Repo / 46 Total, &#9733 218, pushed 104 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RichardLitt/awesome-conferences">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-conferences.md">
    Conferences
   </a>
   <sup>
-   6 GitHub repository, 172 links Total, &#9733 407, pushed 34 days ago
+   6 GitHub Repo / 172 Total, &#9733 407, pushed 34 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/tmcw/awesome-geojson">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-geojson.md">
    GeoJSON
   </a>
   <sup>
-   45 GitHub repository, 59 links Total, &#9733 270, pushed 66 days ago
+   45 GitHub Repo / 59 Total, &#9733 270, pushed 66 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/n1trux/awesome-sysadmin">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sysadmin.md">
    Sysadmin
   </a>
   <sup>
-   46 GitHub repository, 448 links Total, &#9733 3496, pushed 4 days ago
+   46 GitHub Repo / 448 Total, &#9733 3496, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kyleterry/awesome-radio">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-radio.md">
    Radio
   </a>
   <sup>
-   0 GitHub repository, 33 links Total, &#9733 73, pushed 270 days ago
+   0 GitHub Repo / 33 Total, &#9733 73, pushed 270 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sindresorhus/awesome">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome.md">
    Awesome
   </a>
   <sup>
-   298 GitHub repository, 323 links Total, &#9733 34522, pushed 2 days ago
+   298 GitHub Repo / 323 Total, &#9733 34522, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/onurakpolat/awesome-analytics">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-analytics.md">
    Analytics
   </a>
   <sup>
-   6 GitHub repository, 93 links Total, &#9733 334, pushed 14 days ago
+   6 GitHub Repo / 93 Total, &#9733 334, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/opencompany/awesome-open-company">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-open-company.md">
    Open Companies
   </a>
   <sup>
-   0 GitHub repository, 24 links Total, &#9733 93, pushed 119 days ago
+   0 GitHub Repo / 24 Total, &#9733 93, pushed 119 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/marmelab/awesome-rest">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rest.md">
    REST
   </a>
   <sup>
-   57 GitHub repository, 131 links Total, &#9733 636, pushed 13 days ago
+   57 GitHub Repo / 131 Total, &#9733 636, pushed 13 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/christian-bromann/awesome-selenium">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-selenium.md">
    Selenium
   </a>
   <sup>
-   12 GitHub repository, 51 links Total, &#9733 99, pushed 28 days ago
+   12 GitHub Repo / 51 Total, &#9733 99, pushed 28 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RichardLitt/endangered-languages">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/endangered-languages.md">
    Endangered Languages
   </a>
   <sup>
-   251 GitHub repository, 386 links Total, &#9733 81, pushed 38 days ago
+   251 GitHub Repo / 386 Total, &#9733 81, pushed 38 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ciandcd/awesome-ciandcd">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ciandcd.md">
    Continuous Delivery
   </a>
   <sup>
-   1 GitHub repository, 29 links Total, &#9733 167, pushed 4 days ago
+   1 GitHub Repo / 29 Total, &#9733 167, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mmcgrana/services-engineering">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/services-engineering.md">
    Services Engineering
   </a>
   <sup>
-   0 GitHub repository, 71 links Total, &#9733 2107, pushed 270 days ago
+   0 GitHub Repo / 71 Total, &#9733 2107, pushed 270 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ripienaar/free-for-dev">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/free-for-dev.md">
    Free for Developers
   </a>
   <sup>
-   3 GitHub repository, 452 links Total, &#9733 13074, pushed 5 days ago
+   3 GitHub Repo / 452 Total, &#9733 13074, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/igorbarinov/awesome-bitcoin">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-bitcoin.md">
    Bitcoin
   </a>
   <sup>
-   31 GitHub repository, 74 links Total, &#9733 83, pushed 24 days ago
+   31 GitHub Repo / 74 Total, &#9733 83, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -2317,76 +2317,76 @@
   - Stack Overflow, Quora, etc
  </li>
  <li>
-  <a href="https://github.com/diessica/awesome-sketch">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sketch.md">
    Sketch
   </a>
   - OS X design app
   <sup>
-   13 GitHub repository, 65 links Total, &#9733 413, pushed 12 days ago
+   13 GitHub Repo / 65 Total, &#9733 413, pushed 12 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mmccaff/PlacesToPostYourStartup">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/PlacesToPostYourStartup.md">
    Places to Post Your Startup
   </a>
   <sup>
-   0 GitHub repository, 97 links Total, &#9733 851, pushed 99 days ago
+   0 GitHub Repo / 97 Total, &#9733 851, pushed 99 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/caesar0301/awesome-pcaptools">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-pcaptools.md">
    PCAPTools
   </a>
   <sup>
-   14 GitHub repository, 105 links Total, &#9733 378, pushed 4 days ago
+   14 GitHub Repo / 105 Total, &#9733 378, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/lukasz-madon/awesome-remote-job">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-remote-job.md">
    Remote Jobs
   </a>
   <sup>
-   4 GitHub repository, 281 links Total, &#9733 5439, pushed 1 days ago
+   4 GitHub Repo / 281 Total, &#9733 5439, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/melvin0008/awesome-projects-boilerplates">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-projects-boilerplates.md">
    Boilerplate Projects
   </a>
   <sup>
-   45 GitHub repository, 73 links Total, &#9733 199, pushed 70 days ago
+   45 GitHub Repo / 73 Total, &#9733 199, pushed 70 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/matiassingers/awesome-readme">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-readme.md">
    Readme
   </a>
   <sup>
-   10 GitHub repository, 14 links Total, &#9733 360, pushed 41 days ago
+   10 GitHub Repo / 14 Total, &#9733 360, pushed 41 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/cjbarber/ToolsOfTheTrade">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/ToolsOfTheTrade.md">
    Tools
   </a>
   <sup>
-   0 GitHub repository, 514 links Total, &#9733 6277, pushed 2 days ago
+   0 GitHub Repo / 514 Total, &#9733 6277, pushed 2 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RichardLitt/awesome-styleguides">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-styleguides.md">
    Styleguides
   </a>
   <sup>
-   41 GitHub repository, 80 links Total, &#9733 291, pushed 21 days ago
+   41 GitHub Repo / 80 Total, &#9733 291, pushed 21 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/NARKOZ/guides">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/guides.md">
    Design and Development Guides
   </a>
   <sup>
-   19 GitHub repository, 98 links Total, &#9733 1097, pushed 36 days ago
+   19 GitHub Repo / 98 Total, &#9733 1097, pushed 36 days ago
   </sup>
  </li>
  <li>
@@ -2395,110 +2395,110 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/Kickball/awesome-selfhosted">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-selfhosted.md">
    Self Hosted
   </a>
   <sup>
-   95 GitHub repository, 615 links Total, &#9733 6801, pushed 4 days ago
+   95 GitHub Repo / 615 Total, &#9733 6801, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jwaterfaucett/awesome-foss-apps">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-foss-apps.md">
    FOSS Production Apps
   </a>
   <sup>
-   0 GitHub repository, 31 links Total, &#9733 82, pushed 157 days ago
+   0 GitHub Repo / 31 Total, &#9733 82, pushed 157 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/alferov/awesome-gulp">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-gulp.md">
    Gulp
   </a>
   <sup>
-   118 GitHub repository, 189 links Total, &#9733 142, pushed 3 days ago
+   118 GitHub Repo / 189 Total, &#9733 142, pushed 3 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sindresorhus/amas">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/amas.md">
    AMA
   </a>
   - Ask Me Anything
   <ul>
    <li>
-    <a href="https://github.com/stoeffel/awesome-ama-answers">
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ama-answers.md">
      Answers
     </a>
     <sup>
-     0 GitHub repository, 0 links Total, &#9733 86, pushed 224 days ago
+     0 GitHub Repo / 0 Total, &#9733 86, pushed 224 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   113 GitHub repository, 113 links Total, &#9733 527, pushed 7 days ago
+   113 GitHub Repo / 113 Total, &#9733 527, pushed 7 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-OpenSourcePhotography.md">
    Open Source Photography
   </a>
   <sup>
-   18 GitHub repository, 79 links Total, &#9733 44, pushed 55 days ago
+   18 GitHub Repo / 79 Total, &#9733 44, pushed 55 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/eug/awesome-opengl">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-opengl.md">
    OpenGL
   </a>
   <sup>
-   8 GitHub repository, 74 links Total, &#9733 267, pushed 24 days ago
+   8 GitHub Repo / 74 Total, &#9733 267, pushed 24 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jyguyomarch/awesome-productivity">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-productivity.md">
    Productivity
   </a>
   <sup>
-   1 GitHub repository, 40 links Total, &#9733 67, pushed 112 days ago
+   1 GitHub Repo / 40 Total, &#9733 67, pushed 112 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/chentsulin/awesome-graphql">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-graphql.md">
    GraphQL
   </a>
   <sup>
-   110 GitHub repository, 188 links Total, &#9733 1179, pushed 4 days ago
+   110 GitHub Repo / 188 Total, &#9733 1179, pushed 4 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/luqmaan/awesome-transit">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-transit.md">
    Transit
   </a>
   <sup>
-   38 GitHub repository, 109 links Total, &#9733 91, pushed 14 days ago
+   38 GitHub Repo / 109 Total, &#9733 91, pushed 14 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/emptymalei/awesome-research">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-research.md">
    Research Tools
   </a>
   <sup>
-   37 GitHub repository, 265 links Total, &#9733 95, pushed 33 days ago
+   37 GitHub Repo / 265 Total, &#9733 95, pushed 33 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/wfhio/awesome-job-boards">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-job-boards.md">
    Niche Job Boards
   </a>
   <sup>
-   0 GitHub repository, 40 links Total, &#9733 30, pushed 34 days ago
+   0 GitHub Repo / 40 Total, &#9733 30, pushed 34 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fasouto/awesome-dataviz">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dataviz.md">
    Data Visualization
   </a>
   <sup>
-   32 GitHub repository, 110 links Total, &#9733 431, pushed 11 days ago
+   32 GitHub Repo / 110 Total, &#9733 431, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -2507,51 +2507,51 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/jdorfman/awesome-json-datasets">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-json-datasets.md">
    JSON Datasets
   </a>
   <sup>
-   7 GitHub repository, 355 links Total, &#9733 88, pushed 141 days ago
+   7 GitHub Repo / 355 Total, &#9733 88, pushed 141 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mfornos/awesome-microservices">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-microservices.md">
    Microservices
   </a>
   <sup>
-   108 GitHub repository, 406 links Total, &#9733 883, pushed 5 days ago
+   108 GitHub Repo / 406 Total, &#9733 883, pushed 5 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Codepoints/awesome-codepoints">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-codepoints.md">
    Unicode Code Points
   </a>
   <sup>
-   0 GitHub repository, 49 links Total, &#9733 80, pushed 78 days ago
+   0 GitHub Repo / 49 Total, &#9733 80, pushed 78 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/HQarroum/awesome-iot">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-iot.md">
    Internet of Things
   </a>
   <sup>
-   1 GitHub repository, 83 links Total, &#9733 212, pushed 74 days ago
+   1 GitHub Repo / 83 Total, &#9733 212, pushed 74 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/MunGell/awesome-for-beginners">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-for-beginners.md">
    Beginner-Friendly Projects
   </a>
   <sup>
-   0 GitHub repository, 38 links Total, &#9733 304, pushed 25 days ago
+   0 GitHub Repo / 38 Total, &#9733 304, pushed 25 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/beaconinside/awesome-beacon">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-beacon.md">
    Bluetooth Beacons
   </a>
   <sup>
-   24 GitHub repository, 109 links Total, &#9733 131, pushed 56 days ago
+   24 GitHub Repo / 109 Total, &#9733 131, pushed 56 days ago
   </sup>
  </li>
  <li>
@@ -2560,122 +2560,122 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/vhpoet/awesome-ripple">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ripple.md">
    Ripple
   </a>
   - Open source distributed settlement network
   <sup>
-   28 GitHub repository, 92 links Total, &#9733 32, pushed 103 days ago
+   28 GitHub Repo / 92 Total, &#9733 32, pushed 103 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/gmontalvoriv/awesome-katas">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-katas.md">
    Katas
   </a>
   <sup>
-   17 GitHub repository, 66 links Total, &#9733 32, pushed 74 days ago
+   17 GitHub Repo / 66 Total, &#9733 32, pushed 74 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/drewrwilson/toolsforactivism">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/toolsforactivism.md">
    Tools for Activism
   </a>
   <sup>
-   9 GitHub repository, 23 links Total, &#9733 152, pushed 84 days ago
+   9 GitHub Repo / 23 Total, &#9733 152, pushed 84 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-tap">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tap.md">
    TAP
   </a>
   - Test Anything Protocol
   <sup>
-   32 GitHub repository, 40 links Total, &#9733 197, pushed 46 days ago
+   32 GitHub Repo / 40 Total, &#9733 197, pushed 46 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Kiloreux/awesome-robotics">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-robotics.md">
    Robotics
   </a>
   <sup>
-   4 GitHub repository, 55 links Total, &#9733 162, pushed 28 days ago
+   4 GitHub Repo / 55 Total, &#9733 162, pushed 28 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hobbyquaker/awesome-mqtt">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mqtt.md">
    MQTT
   </a>
   - "Internet of Things" connectivity protocol
   <sup>
-   56 GitHub repository, 106 links Total, &#9733 41, pushed 31 days ago
+   56 GitHub Repo / 106 Total, &#9733 41, pushed 31 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/diasdavid/awesome-hacking-spots">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hacking-spots.md">
    Hacking Spots
   </a>
   <sup>
-   0 GitHub repository, 33 links Total, &#9733 245, pushed 16 days ago
+   0 GitHub Repo / 33 Total, &#9733 245, pushed 16 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/cristianoliveira/awesome4girls">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome4girls.md">
    For Girls
   </a>
   <sup>
-   0 GitHub repository, 61 links Total, &#9733 95, pushed 8 days ago
+   0 GitHub Repo / 61 Total, &#9733 95, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vorpaljs/awesome-vorpal">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vorpal.md">
    Vorpal
   </a>
   - Node.js CLI framework
   <sup>
-   22 GitHub repository, 35 links Total, &#9733 54, pushed 8 days ago
+   22 GitHub Repo / 35 Total, &#9733 54, pushed 8 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/domenicosolazzo/awesome-okr">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-okr.md">
    OKR Methodology
   </a>
   - Goal setting & communication best practices
   <sup>
-   0 GitHub repository, 75 links Total, &#9733 33, pushed 88 days ago
+   0 GitHub Repo / 75 Total, &#9733 33, pushed 88 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vinjn/awesome-vulkan">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vulkan.md">
    Vulkan
   </a>
   <sup>
-   30 GitHub repository, 104 links Total, &#9733 186, pushed 6 days ago
+   30 GitHub Repo / 104 Total, &#9733 186, pushed 6 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/egeerardyn/awesome-LaTeX">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-LaTeX.md">
    LaTeX
   </a>
   - Typesetting language
   <sup>
-   4 GitHub repository, 110 links Total, &#9733 19, pushed 28 days ago
+   4 GitHub Repo / 110 Total, &#9733 19, pushed 28 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/briatte/awesome-network-analysis">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-network-analysis.md">
    Network Analysis
   </a>
   <sup>
-   23 GitHub repository, 579 links Total, &#9733 179, pushed 1 days ago
+   23 GitHub Repo / 579 Total, &#9733 179, pushed 1 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/antontarasenko/awesome-economics">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-economics.md">
    Economics
   </a>
   - An economist's starter kit
   <sup>
-   0 GitHub repository, 0 links Total, &#9733 33, pushed 7 days ago
+   0 GitHub Repo / 0 Total, &#9733 33, pushed 7 days ago
   </sup>
  </li>
 </ul>
