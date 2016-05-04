@@ -100,7 +100,7 @@
    Android Bootstrap
   </a>
   <span>
-   &#9733 4103, pushed 152 days ago
+   &#9733 4103, pushed 153 days ago
   </span>
   A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
  </li>
@@ -127,7 +127,7 @@
    material-design-icons-adt-template
   </a>
   <span>
-   &#9733 330, pushed 472 days ago
+   &#9733 330, pushed 473 days ago
   </span>
   Android Studio / Eclipse ADT template for material-design-icons resources.
  </li>
@@ -154,7 +154,7 @@
    Android Cookbook Examples
   </a>
   <span>
-   &#9733 536, pushed 1 days ago
+   &#9733 536, pushed 2 days ago
   </span>
   Collected code examples from the O'Reilly Android Cookbook.
  </li>
@@ -181,7 +181,7 @@
    Android Quickstart
   </a>
   <span>
-   &#9733 125, pushed 16 days ago
+   &#9733 125, pushed 17 days ago
   </span>
   Quickstart application showing the Google Drive API for Android.
  </li>
@@ -215,7 +215,7 @@
    Amaro
   </a>
   <span>
-   &#9733 323, pushed 59 days ago
+   &#9733 323, pushed 60 days ago
   </span>
   Featureful iOS Boilerplate.
  </li>
@@ -263,7 +263,7 @@
      Node Module boilerplate
     </a>
     <span>
-     &#9733 231, pushed 49 days ago
+     &#9733 231, pushed 50 days ago
     </span>
     Boilerplate to kickstart creating a node module
    </li>
@@ -351,7 +351,7 @@
      Library Boilerplate
     </a>
     <span>
-     &#9733 336, pushed 64 days ago
+     &#9733 336, pushed 65 days ago
     </span>
     An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
    </li>
@@ -360,7 +360,7 @@
      React Isomorphic Starterkit
     </a>
     <span>
-     &#9733 1843, pushed 13 days ago
+     &#9733 1843, pushed 14 days ago
     </span>
     Isomorphic starterkit with server-side React rendering having many features
    </li>
@@ -378,7 +378,7 @@
      Flask React Boilerplate
     </a>
     <span>
-     &#9733 100, pushed 18 days ago
+     &#9733 100, pushed 19 days ago
     </span>
     Flask and react Boilerplate
    </li>
@@ -402,7 +402,7 @@
      React Redux Universal Hot Example
     </a>
     <span>
-     &#9733 5387, pushed 2 days ago
+     &#9733 5387, pushed 3 days ago
     </span>
     A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
    </li>
@@ -418,7 +418,7 @@
      Backbone Boilerplates
     </a>
     <span>
-     &#9733 494, pushed 1126 days ago
+     &#9733 494, pushed 1127 days ago
     </span>
     Backbone Boilerplates by Addy Osmani.
    </li>
@@ -443,7 +443,7 @@
      Generator Jquery Boilerplate
     </a>
     <span>
-     &#9733 141, pushed 247 days ago
+     &#9733 141, pushed 248 days ago
     </span>
     Yeoman Generator for jQuery Boilerplate.
    </li>
@@ -459,7 +459,7 @@
      Polymer Starter Kit
     </a>
     <span>
-     &#9733 2069, pushed 3 days ago
+     &#9733 2069, pushed 4 days ago
     </span>
     A starting point for Polymer 1.0 apps.
    </li>
@@ -468,7 +468,7 @@
      Polymer Seed Element
     </a>
     <span>
-     &#9733 276, pushed 19 days ago
+     &#9733 276, pushed 20 days ago
     </span>
     An element providing a starting point for your own reusable Polymer elements.
    </li>
@@ -680,7 +680,7 @@
    Generator ChromeApp
   </a>
   <span>
-   &#9733 291, pushed 97 days ago
+   &#9733 291, pushed 98 days ago
   </span>
   Yeoman generator for chrome app
  </li>

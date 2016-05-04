@@ -285,7 +285,7 @@
    Stack
   </a>
   <span>
-   &#9733 1604, pushed 0 days ago
+   &#9733 1604, pushed 1 days ago
   </span>
   - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
  </li>
@@ -294,7 +294,7 @@
    Stackage
   </a>
   <span>
-   &#9733 232, pushed 1 days ago
+   &#9733 232, pushed 2 days ago
   </span>
   - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
  </li>
@@ -656,7 +656,7 @@
    Haxl
   </a>
   <span>
-   &#9733 2212, pushed 46 days ago
+   &#9733 2212, pushed 47 days ago
   </span>
   - a library for efficient, concurrent, concise data access.
  </li>
@@ -1210,7 +1210,7 @@
    HTTP
   </a>
   <span>
-   &#9733 98, pushed 82 days ago
+   &#9733 98, pushed 83 days ago
   </span>
   - Haskell HTTP package. Supports client-side web programming in Haskell.
  </li>
@@ -1351,7 +1351,7 @@
    Idris
   </a>
   <span>
-   &#9733 1198, pushed 1 days ago
+   &#9733 1198, pushed 2 days ago
   </span>
   - A Dependently Typed Functional Programming Language
  </li>
@@ -1563,7 +1563,7 @@
    Pipes
   </a>
   <span>
-   &#9733 272, pushed 11 days ago
+   &#9733 272, pushed 12 days ago
   </span>
   - is a clean and powerful stream processing library that lets you build and connect reusable streaming components.
   <a href="http://hackage.haskell.org/packages/#cat:Pipes">

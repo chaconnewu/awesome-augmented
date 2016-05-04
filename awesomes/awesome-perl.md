@@ -1741,7 +1741,7 @@
    emijrp/awesome-awesome
   </a>
   <span>
-   &#9733 537, pushed 117 days ago
+   &#9733 537, pushed 118 days ago
   </span>
  </li>
  <li>
@@ -1749,7 +1749,7 @@
    fleveque/awesome-awesomes
   </a>
   <span>
-   &#9733 384, pushed 12 days ago
+   &#9733 384, pushed 13 days ago
   </span>
  </li>
  <li>

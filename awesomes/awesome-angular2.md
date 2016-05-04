@@ -610,7 +610,7 @@
    ng2-bootstrap: Native Angular2 bootstrap components
   </a>
   <span>
-   &#9733 685, pushed 1 days ago
+   &#9733 685, pushed 2 days ago
   </span>
  </li>
 </ul>
@@ -653,7 +653,7 @@
      kasperpeulen/stagehand
     </a>
     <span>
-     &#9733 1, pushed 94 days ago
+     &#9733 1, pushed 95 days ago
     </span>
    </li>
   </ul>
@@ -731,7 +731,7 @@
    TypeScript Repository (GitHub)
   </a>
   <span>
-   &#9733 11210, pushed 1 days ago
+   &#9733 11210, pushed 2 days ago
   </span>
   Official Github Repo for TypeScript
  </li>
@@ -784,7 +784,7 @@
    Angular 2 Samples
   </a>
   <span>
-   &#9733 520, pushed 1 days ago
+   &#9733 520, pushed 2 days ago
   </span>
   Angular 2.0 sample components
  </li>
@@ -850,7 +850,7 @@
    Angular 2 Dart Quickstart
   </a>
   <span>
-   &#9733 3, pushed 133 days ago
+   &#9733 3, pushed 134 days ago
   </span>
   A minimal quick start project.
  </li>
@@ -888,7 +888,7 @@
    Router Demo
   </a>
   <span>
-   &#9733 0, pushed 133 days ago
+   &#9733 0, pushed 134 days ago
   </span>
   A basic example of Angular 2 router.
  </li>
@@ -922,7 +922,7 @@
    Babel Repository (GitHub)
   </a>
   <span>
-   &#9733 15314, pushed 1 days ago
+   &#9733 15314, pushed 2 days ago
   </span>
   Official Github Repo for Babel
  </li>
@@ -1015,7 +1015,7 @@
    Repository (GitHub)
   </a>
   <span>
-   &#9733 442, pushed 105 days ago
+   &#9733 442, pushed 106 days ago
   </span>
  </li>
 </ul>

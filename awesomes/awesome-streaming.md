@@ -81,7 +81,7 @@
    Apache Apex
   </a>
   <span>
-   &#9733 112, pushed 1 days ago
+   &#9733 112, pushed 2 days ago
   </span>
   [Java] - unified platform for big data stream and batch processing.
  </li>
@@ -123,7 +123,7 @@
    mupd8(muppet)
   </a>
   <span>
-   &#9733 127, pushed 293 days ago
+   &#9733 127, pushed 294 days ago
   </span>
   [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
  </li>
@@ -241,7 +241,7 @@
    coast
   </a>
   <span>
-   &#9733 46, pushed 78 days ago
+   &#9733 46, pushed 79 days ago
   </span>
   [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
  </li>
@@ -288,7 +288,7 @@
    camus
   </a>
   <span>
-   &#9733 642, pushed 146 days ago
+   &#9733 642, pushed 147 days ago
   </span>
   [Java] - Linkedin's Kafka -> HDFS pipeline.
  </li>
@@ -306,7 +306,7 @@
    flume
   </a>
   <span>
-   &#9733 619, pushed 7 days ago
+   &#9733 619, pushed 8 days ago
   </span>
   [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
  </li>
@@ -315,7 +315,7 @@
    suro
   </a>
   <span>
-   &#9733 503, pushed 143 days ago
+   &#9733 503, pushed 144 days ago
   </span>
   [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
  </li>
@@ -324,7 +324,7 @@
    StreamSets Data Collector
   </a>
   <span>
-   &#9733 98, pushed 0 days ago
+   &#9733 98, pushed 1 days ago
   </span>
   [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
  </li>
@@ -470,7 +470,7 @@
    aeron
   </a>
   <span>
-   &#9733 1743, pushed 7 days ago
+   &#9733 1743, pushed 8 days ago
   </span>
   [Java/C++] - efficient reliable unicast and multicast message transport.
  </li>
@@ -479,7 +479,7 @@
    StreamFlow
   </a>
   <span>
-   &#9733 182, pushed 131 days ago
+   &#9733 182, pushed 132 days ago
   </span>
   [Java] - stream processing tool designed to help build and monitor processing workflows.
  </li>
@@ -488,7 +488,7 @@
    samza-luwak
   </a>
   <span>
-   &#9733 67, pushed 539 days ago
+   &#9733 67, pushed 540 days ago
   </span>
   [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
  </li>

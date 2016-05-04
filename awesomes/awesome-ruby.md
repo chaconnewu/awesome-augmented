@@ -529,7 +529,7 @@
    Decent Exposure
   </a>
   <span>
-   &#9733 1369, pushed 6 days ago
+   &#9733 1369, pushed 7 days ago
   </span>
   - A helper for creating declarative interfaces in controllers.
  </li>
@@ -592,7 +592,7 @@
    wisper
   </a>
   <span>
-   &#9733 1617, pushed 4 days ago
+   &#9733 1617, pushed 5 days ago
   </span>
   - A micro library providing Ruby objects with Publish-Subscribe capabilities.
  </li>
@@ -706,7 +706,7 @@
    Analytical
   </a>
   <span>
-   &#9733 379, pushed 558 days ago
+   &#9733 379, pushed 559 days ago
   </span>
   - Gem for managing multiple analytics services in your rails app.
  </li>
@@ -724,7 +724,7 @@
    Impressionist
   </a>
   <span>
-   &#9733 860, pushed 90 days ago
+   &#9733 860, pushed 91 days ago
   </span>
   - Rails Plugin that tracks impressions and page views.
  </li>
@@ -742,7 +742,7 @@
    Rack::Tracker
   </a>
   <span>
-   &#9733 316, pushed 45 days ago
+   &#9733 316, pushed 46 days ago
   </span>
   - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
  </li>
@@ -798,7 +798,7 @@
    Her
   </a>
   <span>
-   &#9733 1341, pushed 18 days ago
+   &#9733 1341, pushed 19 days ago
   </span>
   - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
  </li>
@@ -852,7 +852,7 @@
    Rails::API
   </a>
   <span>
-   &#9733 4944, pushed 322 days ago
+   &#9733 4944, pushed 323 days ago
   </span>
   - Rails for API only applications.
  </li>
@@ -861,7 +861,7 @@
    Roar
   </a>
   <span>
-   &#9733 1581, pushed 14 days ago
+   &#9733 1581, pushed 15 days ago
   </span>
   - Resource-Oriented Architectures in Ruby.
  </li>
@@ -947,7 +947,7 @@
      Autoprefixer
     </a>
     <span>
-     &#9733 793, pushed 30 days ago
+     &#9733 793, pushed 31 days ago
     </span>
     - Parse CSS and add vendor prefixes to rules by Can I Use.
    </li>
@@ -980,7 +980,7 @@
      Torba
     </a>
     <span>
-     &#9733 151, pushed 23 days ago
+     &#9733 151, pushed 24 days ago
     </span>
     - Bower-less bundler for Sprockets.
    </li>
@@ -994,7 +994,7 @@
      Quiet Assets
     </a>
     <span>
-     &#9733 1428, pushed 108 days ago
+     &#9733 1428, pushed 109 days ago
     </span>
     - Mute assets pipeline log messages.
    </li>
@@ -1010,7 +1010,7 @@
    Authlogic
   </a>
   <span>
-   &#9733 3851, pushed 0 days ago
+   &#9733 3851, pushed 1 days ago
   </span>
   - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
  </li>
@@ -1019,7 +1019,7 @@
    Clearance
   </a>
   <span>
-   &#9733 2314, pushed 3 days ago
+   &#9733 2314, pushed 4 days ago
   </span>
   - Small and simple email & password based authenticaton for Rails.
  </li>
@@ -1055,7 +1055,7 @@
    OmniAuth
   </a>
   <span>
-   &#9733 5732, pushed 33 days ago
+   &#9733 5732, pushed 34 days ago
   </span>
   - A library that standardizes multi-provider authentication utilizing Rack middleware.
  </li>
@@ -1082,7 +1082,7 @@
    warden
   </a>
   <span>
-   &#9733 1702, pushed 88 days ago
+   &#9733 1702, pushed 89 days ago
   </span>
   - General Rack Authentication Framework.
  </li>
@@ -1119,7 +1119,7 @@
    acl9
   </a>
   <span>
-   &#9733 812, pushed 56 days ago
+   &#9733 812, pushed 57 days ago
   </span>
   - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
  </li>
@@ -1137,7 +1137,7 @@
    Authority
   </a>
   <span>
-   &#9733 1218, pushed 155 days ago
+   &#9733 1218, pushed 156 days ago
   </span>
   - ORM-neutral way to authorize actions in your Rails app.
  </li>
@@ -1164,7 +1164,7 @@
    Pundit
   </a>
   <span>
-   &#9733 4240, pushed 2 days ago
+   &#9733 4240, pushed 3 days ago
   </span>
   - Minimal authorization through OO design and pure Ruby classes.
  </li>
@@ -1216,7 +1216,7 @@
    Kashmir
   </a>
   <span>
-   &#9733 224, pushed 61 days ago
+   &#9733 224, pushed 62 days ago
   </span>
   - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
  </li>
@@ -1266,7 +1266,7 @@
    Cocaine
   </a>
   <span>
-   &#9733 689, pushed 54 days ago
+   &#9733 689, pushed 55 days ago
   </span>
   - A small library for doing (command) lines.
  </li>
@@ -1275,7 +1275,7 @@
    Commander
   </a>
   <span>
-   &#9733 245, pushed 73 days ago
+   &#9733 245, pushed 74 days ago
   </span>
   - The complete solution for Ruby command-line executables.
  </li>
@@ -1344,7 +1344,7 @@
    Trollop
   </a>
   <span>
-   &#9733 50, pushed 271 days ago
+   &#9733 50, pushed 272 days ago
   </span>
   - A commandline option parser for Ruby that just gets out of your way.
  </li>
@@ -1379,7 +1379,7 @@
    Ruby/Progressbar
   </a>
   <span>
-   &#9733 919, pushed 8 days ago
+   &#9733 919, pushed 9 days ago
   </span>
   - The most flexible text progress bar library for Ruby.
  </li>
@@ -1393,7 +1393,7 @@
    AWS SDK for Ruby
   </a>
   <span>
-   &#9733 2007, pushed 0 days ago
+   &#9733 2007, pushed 1 days ago
   </span>
   - The official AWS SDK for Ruby.
  </li>
@@ -1402,7 +1402,7 @@
    browse-everything
   </a>
   <span>
-   &#9733 40, pushed 14 days ago
+   &#9733 40, pushed 15 days ago
   </span>
   - Multi-provider Rails engine providing access to files in cloud storage.
  </li>
@@ -1502,7 +1502,7 @@
    Brakeman
   </a>
   <span>
-   &#9733 3322, pushed 1 days ago
+   &#9733 3322, pushed 2 days ago
   </span>
   - A static analysis security vulnerability scanner for Ruby on Rails applications.
  </li>
@@ -1520,7 +1520,7 @@
    Coverband
   </a>
   <span>
-   &#9733 759, pushed 8 days ago
+   &#9733 759, pushed 9 days ago
   </span>
   - Rack middleware to help measure production code coverage.
  </li>
@@ -1529,7 +1529,7 @@
    Fasterer
   </a>
   <span>
-   &#9733 565, pushed 69 days ago
+   &#9733 565, pushed 70 days ago
   </span>
   - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
  </li>
@@ -1547,7 +1547,7 @@
    Flog
   </a>
   <span>
-   &#9733 451, pushed 144 days ago
+   &#9733 451, pushed 145 days ago
   </span>
   - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
  </li>
@@ -1611,7 +1611,7 @@
    Rubocop
   </a>
   <span>
-   &#9733 6230, pushed 1 days ago
+   &#9733 6230, pushed 2 days ago
   </span>
   - A static code analyzer, based on the community Ruby style guide.
  </li>
@@ -1620,7 +1620,7 @@
    Rubycritic
   </a>
   <span>
-   &#9733 1326, pushed 13 days ago
+   &#9733 1326, pushed 14 days ago
   </span>
   - A Ruby code quality reporter.
  </li>
@@ -1629,7 +1629,7 @@
    Scientist
   </a>
   <span>
-   &#9733 3453, pushed 2 days ago
+   &#9733 3453, pushed 3 days ago
   </span>
   - A Ruby library for carefully refactoring critical paths.
  </li>
@@ -1661,7 +1661,7 @@
    Best-Ruby
   </a>
   <span>
-   &#9733 1781, pushed 41 days ago
+   &#9733 1781, pushed 42 days ago
   </span>
   - Ruby Tricks, Idiomatic Ruby, Refactoring & Best Practices.
  </li>
@@ -1723,7 +1723,7 @@
    EventMachine
   </a>
   <span>
-   &#9733 3307, pushed 7 days ago
+   &#9733 3307, pushed 8 days ago
   </span>
   - An event-driven I/O and lightweight concurrency library for Ruby.
  </li>
@@ -1737,7 +1737,7 @@
    Configatron
   </a>
   <span>
-   &#9733 542, pushed 147 days ago
+   &#9733 542, pushed 148 days ago
   </span>
   - Simple and feature rich configuration system for Ruby apps.
  </li>
@@ -1786,7 +1786,7 @@
    Figaro
   </a>
   <span>
-   &#9733 2640, pushed 6 days ago
+   &#9733 2640, pushed 7 days ago
   </span>
   - Simple, Heroku-friendly Rails app configuration using
   <code>
@@ -1808,7 +1808,7 @@
    RailsConfig
   </a>
   <span>
-   &#9733 1018, pushed 1 days ago
+   &#9733 1018, pushed 2 days ago
   </span>
   - Multi-environment yaml settings for Rails3.
  </li>
@@ -1837,7 +1837,7 @@
    Finishing Moves
   </a>
   <span>
-   &#9733 121, pushed 3 days ago
+   &#9733 121, pushed 4 days ago
   </span>
   - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful
   <code>
@@ -1850,7 +1850,7 @@
    Hamster
   </a>
   <span>
-   &#9733 1417, pushed 43 days ago
+   &#9733 1417, pushed 44 days ago
   </span>
   - Efficient, immutable, and thread-safe collection classes for Ruby.
  </li>
@@ -1880,7 +1880,7 @@
      ActiveAttr
     </a>
     <span>
-     &#9733 909, pushed 34 days ago
+     &#9733 909, pushed 35 days ago
     </span>
     - What ActiveModel left out.
    </li>
@@ -1889,7 +1889,7 @@
      FastAttributes
     </a>
     <span>
-     &#9733 247, pushed 397 days ago
+     &#9733 247, pushed 398 days ago
     </span>
     - FastAttributes adds attributes with their types to the class.
    </li>
@@ -1937,7 +1937,7 @@
    Countries
   </a>
   <span>
-   &#9733 825, pushed 15 days ago
+   &#9733 825, pushed 16 days ago
   </span>
   - All sorts of useful information about every country packaged as pretty little country objects.
  </li>
@@ -2047,7 +2047,7 @@
    RailRoady
   </a>
   <span>
-   &#9733 1315, pushed 14 days ago
+   &#9733 1315, pushed 15 days ago
   </span>
   - Ruby on Rails 3/4 model and controller UML class diagram generator.
  </li>
@@ -2056,7 +2056,7 @@
    Rails Erd
   </a>
   <span>
-   &#9733 1553, pushed 4 days ago
+   &#9733 1553, pushed 5 days ago
   </span>
   - Generate Entity-Relationship Diagrams for Rails applications.
  </li>
@@ -2121,7 +2121,7 @@
    Neography
   </a>
   <span>
-   &#9733 589, pushed 41 days ago
+   &#9733 589, pushed 42 days ago
   </span>
   - A thin Ruby wrapper to the Neo4j Rest API.
  </li>
@@ -2139,7 +2139,7 @@
    redis-rb
   </a>
   <span>
-   &#9733 2557, pushed 6 days ago
+   &#9733 2557, pushed 7 days ago
   </span>
   - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
  </li>
@@ -2204,7 +2204,7 @@
    Large Hadron Migrator
   </a>
   <span>
-   &#9733 1166, pushed 11 days ago
+   &#9733 1166, pushed 12 days ago
   </span>
   - Online MySQL schema migrations without locking the table.
  </li>
@@ -2249,7 +2249,7 @@
    SchemaPlus
   </a>
   <span>
-   &#9733 619, pushed 39 days ago
+   &#9733 619, pushed 40 days ago
   </span>
   - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
  </li>
@@ -2294,7 +2294,7 @@
    SecondBase
   </a>
   <span>
-   &#9733 54, pushed 7 days ago
+   &#9733 54, pushed 8 days ago
   </span>
   - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
  </li>
@@ -2326,7 +2326,7 @@
    ByStar
   </a>
   <span>
-   &#9733 707, pushed 120 days ago
+   &#9733 707, pushed 121 days ago
   </span>
   - Find ActiveRecord objects by year, month, fortnight, week and more!
  </li>
@@ -2335,7 +2335,7 @@
    Chronic
   </a>
   <span>
-   &#9733 2463, pushed 75 days ago
+   &#9733 2463, pushed 76 days ago
   </span>
   - A natural language date/time parser written in pure Ruby.
  </li>
@@ -2362,7 +2362,7 @@
    local_time
   </a>
   <span>
-   &#9733 1055, pushed 46 days ago
+   &#9733 1055, pushed 47 days ago
   </span>
   - Rails Engine for cache-friendly, client-side local time.
  </li>
@@ -2389,7 +2389,7 @@
    TZinfo
   </a>
   <span>
-   &#9733 155, pushed 14 days ago
+   &#9733 155, pushed 15 days ago
   </span>
   - Provides daylight savings aware transformations between times in different timezones.
  </li>
@@ -2434,7 +2434,7 @@
    mean
   </a>
   <span>
-   &#9733 1491, pushed 5 days ago
+   &#9733 1491, pushed 6 days ago
   </span>
   - Adds class, method & attributute suggestions to error messages.
  </li>
@@ -2461,7 +2461,7 @@
    Xray
   </a>
   <span>
-   &#9733 949, pushed 6 days ago
+   &#9733 949, pushed 7 days ago
   </span>
   - A development tool that reveals your UI's bones.
  </li>
@@ -2507,7 +2507,7 @@
    Blender
   </a>
   <span>
-   &#9733 166, pushed 55 days ago
+   &#9733 166, pushed 56 days ago
   </span>
   - A modular system orchestration framework with pluggable driver and host discovery.
  </li>
@@ -2558,7 +2558,7 @@
    Einhorn
   </a>
   <span>
-   &#9733 1182, pushed 21 days ago
+   &#9733 1182, pushed 22 days ago
   </span>
   - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
  </li>
@@ -2582,7 +2582,7 @@
    Logstash
   </a>
   <span>
-   &#9733 5791, pushed 2 days ago
+   &#9733 5791, pushed 3 days ago
   </span>
   - Logs/event transport, processing, management, search.
  </li>
@@ -2627,7 +2627,7 @@
    SSHKey
   </a>
   <span>
-   &#9733 163, pushed 5 days ago
+   &#9733 163, pushed 6 days ago
   </span>
   - SSH private and public key generator in pure Ruby (RSA & DSA).
  </li>
@@ -2636,7 +2636,7 @@
    Ruby-LXC
   </a>
   <span>
-   &#9733 88, pushed 104 days ago
+   &#9733 88, pushed 105 days ago
   </span>
   - Native ruby binding for Linux containers.
  </li>
@@ -2656,7 +2656,7 @@
    Annotate
   </a>
   <span>
-   &#9733 2110, pushed 2 days ago
+   &#9733 2110, pushed 3 days ago
   </span>
   - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
  </li>
@@ -2665,7 +2665,7 @@
    Apipie
   </a>
   <span>
-   &#9733 1269, pushed 7 days ago
+   &#9733 1269, pushed 8 days ago
   </span>
   - Rails API documentation and display tool using Ruby syntax.
  </li>
@@ -2680,7 +2680,7 @@
    Documentation
   </a>
   <span>
-   &#9733 167, pushed 74 days ago
+   &#9733 167, pushed 75 days ago
   </span>
   - A Rails engine to provider the ability to add documentation to a Rails application.
  </li>
@@ -2716,7 +2716,7 @@
    Inch
   </a>
   <span>
-   &#9733 370, pushed 55 days ago
+   &#9733 370, pushed 56 days ago
   </span>
   - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
  </li>
@@ -2758,7 +2758,7 @@
    Active Merchant
   </a>
   <span>
-   &#9733 3313, pushed 3 days ago
+   &#9733 3313, pushed 4 days ago
   </span>
   - A simple payment abstraction library extracted from Shopify.
  </li>
@@ -2780,7 +2780,7 @@
    Koudoku
   </a>
   <span>
-   &#9733 866, pushed 43 days ago
+   &#9733 866, pushed 44 days ago
   </span>
   - Robust subscription support for Ruby on Rails apps using Stripe, including out-of-the-box pricing pages, payment pages, and subscription management.
  </li>
@@ -2789,7 +2789,7 @@
    Payola
   </a>
   <span>
-   &#9733 651, pushed 2 days ago
+   &#9733 651, pushed 3 days ago
   </span>
   - Drop-in Rails engine for accepting payments with Stripe.
  </li>
@@ -2831,7 +2831,7 @@
    Solidus
   </a>
   <span>
-   &#9733 906, pushed 3 days ago
+   &#9733 906, pushed 4 days ago
   </span>
   - An open source, eCommerce application for high volume retailers.
  </li>
@@ -2863,7 +2863,7 @@
    Bookshop
   </a>
   <span>
-   &#9733 209, pushed 1183 days ago
+   &#9733 209, pushed 1184 days ago
   </span>
   - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
  </li>
@@ -2922,7 +2922,7 @@
    Griddler
   </a>
   <span>
-   &#9733 1008, pushed 5 days ago
+   &#9733 1008, pushed 6 days ago
   </span>
   - Simplify receiving email in Rails
  </li>
@@ -2973,7 +2973,7 @@
    Mailman
   </a>
   <span>
-   &#9733 889, pushed 163 days ago
+   &#9733 889, pushed 164 days ago
   </span>
   - An incoming mail processing microframework in Ruby.
  </li>
@@ -2991,7 +2991,7 @@
    Pony
   </a>
   <span>
-   &#9733 1016, pushed 114 days ago
+   &#9733 1016, pushed 115 days ago
   </span>
   - The express way to send mail from Ruby.
  </li>
@@ -3043,7 +3043,7 @@
    chruby
   </a>
   <span>
-   &#9733 1768, pushed 24 days ago
+   &#9733 1768, pushed 25 days ago
   </span>
   - Change your current Ruby. No shims, no crazy options or features, ~90 LOC.
  </li>
@@ -3087,7 +3087,7 @@ HOME.
   ruby-install
  </a>
  <span>
-  &#9733 975, pushed 22 days ago
+  &#9733 975, pushed 23 days ago
  </span>
  - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
 </li>
@@ -3121,7 +3121,7 @@ HOME.
    Better Errors
   </a>
   <span>
-   &#9733 5735, pushed 17 days ago
+   &#9733 5735, pushed 18 days ago
   </span>
   - Better error page for Rack apps.
  </li>
@@ -3145,7 +3145,7 @@ HOME.
    Exception Notification
   </a>
   <span>
-   &#9733 1613, pushed 7 days ago
+   &#9733 1613, pushed 8 days ago
   </span>
   - A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
  </li>
@@ -3169,7 +3169,7 @@ HOME.
    Raven Ruby
   </a>
   <span>
-   &#9733 288, pushed 6 days ago
+   &#9733 288, pushed 7 days ago
   </span>
   - Raven is a Ruby client for Sentry.
  </li>
@@ -3192,7 +3192,7 @@ HOME.
    DragonFly
   </a>
   <span>
-   &#9733 1889, pushed 4 days ago
+   &#9733 1889, pushed 5 days ago
   </span>
   - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!.
  </li>
@@ -3201,7 +3201,7 @@ HOME.
    PaperClip
   </a>
   <span>
-   &#9733 7828, pushed 2 days ago
+   &#9733 7828, pushed 3 days ago
   </span>
   - Easy file attachment management for ActiveRecord.
  </li>
@@ -3219,7 +3219,7 @@ HOME.
    Refile
   </a>
   <span>
-   &#9733 2154, pushed 13 days ago
+   &#9733 2154, pushed 14 days ago
   </span>
   - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
  </li>
@@ -3269,7 +3269,7 @@ HOME.
    Simple Form
   </a>
   <span>
-   &#9733 6002, pushed 3 days ago
+   &#9733 6002, pushed 4 days ago
   </span>
   - Rails forms made easy.
  </li>
@@ -3281,7 +3281,7 @@ HOME.
      ActiveForm
     </a>
     <span>
-     &#9733 299, pushed 178 days ago
+     &#9733 299, pushed 179 days ago
     </span>
     - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
    </li>
@@ -3290,7 +3290,7 @@ HOME.
      Cocoon
     </a>
     <span>
-     &#9733 1959, pushed 42 days ago
+     &#9733 1959, pushed 43 days ago
     </span>
     - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
    </li>
@@ -3335,7 +3335,7 @@ HOME.
    Geocoder
   </a>
   <span>
-   &#9733 3905, pushed 0 days ago
+   &#9733 3905, pushed 1 days ago
   </span>
   - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
  </li>
@@ -3353,7 +3353,7 @@ HOME.
    Geokit
   </a>
   <span>
-   &#9733 1345, pushed 0 days ago
+   &#9733 1345, pushed 1 days ago
   </span>
   - Geokit gem provides geocoding and distance/heading calculations.
  </li>
@@ -3371,7 +3371,7 @@ HOME.
    rgeo
   </a>
   <span>
-   &#9733 600, pushed 52 days ago
+   &#9733 600, pushed 53 days ago
   </span>
   - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
  </li>
@@ -3394,7 +3394,7 @@ HOME.
    git-auto-bisect
   </a>
   <span>
-   &#9733 70, pushed 300 days ago
+   &#9733 70, pushed 301 days ago
   </span>
   - Find the commit that broke master.
  </li>
@@ -3403,7 +3403,7 @@ HOME.
    git_reflow
   </a>
   <span>
-   &#9733 314, pushed 3 days ago
+   &#9733 314, pushed 4 days ago
   </span>
   - An automated quality control workflow for Agile teams.
  </li>
@@ -3412,7 +3412,7 @@ HOME.
    git-spelunk
   </a>
   <span>
-   &#9733 25, pushed 21 days ago
+   &#9733 25, pushed 22 days ago
   </span>
   - Dig through git blame history.
  </li>
@@ -3462,7 +3462,7 @@ HOME.
    qtbindings
   </a>
   <span>
-   &#9733 234, pushed 110 days ago
+   &#9733 234, pushed 111 days ago
   </span>
   - Allows the QT Gui toolkit to be used from Ruby.
  </li>
@@ -3544,7 +3544,7 @@ HOME.
    excon
   </a>
   <span>
-   &#9733 723, pushed 35 days ago
+   &#9733 723, pushed 36 days ago
   </span>
   - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
  </li>
@@ -3607,7 +3607,7 @@ HOME.
    RESTClient
   </a>
   <span>
-   &#9733 3324, pushed 1 days ago
+   &#9733 3324, pushed 2 days ago
   </span>
   - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
  </li>
@@ -3625,7 +3625,7 @@ HOME.
    Sawyer
   </a>
   <span>
-   &#9733 179, pushed 85 days ago
+   &#9733 179, pushed 86 days ago
   </span>
   - Secret user agent of HTTP, built on top of Faraday.
  </li>
@@ -3634,7 +3634,7 @@ HOME.
    Spyke
   </a>
   <span>
-   &#9733 439, pushed 112 days ago
+   &#9733 439, pushed 113 days ago
   </span>
   - Interact with REST services in an ActiveRecord-like manner.
  </li>
@@ -3766,7 +3766,7 @@ HOME.
    i18n-tasks
   </a>
   <span>
-   &#9733 1026, pushed 43 days ago
+   &#9733 1026, pushed 44 days ago
   </span>
   - Manage missing and unused translations with the awesome power of static analysis.
  </li>
@@ -3784,7 +3784,7 @@ HOME.
    r18n
   </a>
   <span>
-   &#9733 480, pushed 82 days ago
+   &#9733 480, pushed 83 days ago
   </span>
   - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
  </li>
@@ -3793,7 +3793,7 @@ HOME.
    twitter-cldr-rb
   </a>
   <span>
-   &#9733 481, pushed 34 days ago
+   &#9733 481, pushed 35 days ago
   </span>
   - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
  </li>
@@ -3825,7 +3825,7 @@ HOME.
    Pry
   </a>
   <span>
-   &#9733 4150, pushed 6 days ago
+   &#9733 4150, pushed 7 days ago
   </span>
   - A powerful alternative to the standard IRB shell for Ruby.
  </li>
@@ -3839,7 +3839,7 @@ HOME.
    Cabin
   </a>
   <span>
-   &#9733 132, pushed 55 days ago
+   &#9733 132, pushed 56 days ago
   </span>
   - Structured+contextual logging experiments in Ruby.
  </li>
@@ -3875,7 +3875,7 @@ HOME.
    Logging
   </a>
   <span>
-   &#9733 387, pushed 50 days ago
+   &#9733 387, pushed 51 days ago
   </span>
   - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
  </li>
@@ -3884,7 +3884,7 @@ HOME.
    Lograge
   </a>
   <span>
-   &#9733 1612, pushed 1 days ago
+   &#9733 1612, pushed 2 days ago
   </span>
   - An attempt to tame Rails' default policy to log everything.
  </li>
@@ -3893,7 +3893,7 @@ HOME.
    MongoDB Logger
   </a>
   <span>
-   &#9733 138, pushed 85 days ago
+   &#9733 138, pushed 86 days ago
   </span>
   - MongoDB logger for Rails.
  </li>
@@ -3902,7 +3902,7 @@ HOME.
    Scrolls
   </a>
   <span>
-   &#9733 149, pushed 409 days ago
+   &#9733 149, pushed 410 days ago
   </span>
   - Simple logging.
  </li>
@@ -3931,7 +3931,7 @@ HOME.
    PredictionIO Ruby SDK
   </a>
   <span>
-   &#9733 161, pushed 62 days ago
+   &#9733 161, pushed 63 days ago
   </span>
   - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
  </li>
@@ -3949,7 +3949,7 @@ HOME.
    Ruby Datumbox Wrapper
   </a>
   <span>
-   &#9733 11, pushed 854 days ago
+   &#9733 11, pushed 855 days ago
   </span>
   - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
  </li>
@@ -3958,7 +3958,7 @@ HOME.
    weka
   </a>
   <span>
-   &#9733 14, pushed 82 days ago
+   &#9733 14, pushed 83 days ago
   </span>
   - Machine learning and data mining algorithms for JRuby.
  </li>
@@ -3972,7 +3972,7 @@ HOME.
    kramdown
   </a>
   <span>
-   &#9733 883, pushed 1 days ago
+   &#9733 883, pushed 2 days ago
   </span>
   - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
  </li>
@@ -3981,7 +3981,7 @@ HOME.
    Maruku
   </a>
   <span>
-   &#9733 453, pushed 443 days ago
+   &#9733 453, pushed 444 days ago
   </span>
   - A pure-Ruby Markdown-superset interpreter.
  </li>
@@ -3990,7 +3990,7 @@ HOME.
    Redcarpet
   </a>
   <span>
-   &#9733 3430, pushed 20 days ago
+   &#9733 3430, pushed 21 days ago
   </span>
   - A fast, safe and extensible Markdown to (X)HTML parser.
  </li>
@@ -3999,7 +3999,7 @@ HOME.
    word-to-markdown
   </a>
   <span>
-   &#9733 590, pushed 79 days ago
+   &#9733 590, pushed 80 days ago
   </span>
   - Gem to convert Microsoft Word documents to Markdown.
  </li>
@@ -4031,7 +4031,7 @@ HOME.
    Bh
   </a>
   <span>
-   &#9733 749, pushed 4 days ago
+   &#9733 749, pushed 5 days ago
   </span>
   - Bootstrap Helpers for Ruby.
  </li>
@@ -4058,7 +4058,7 @@ HOME.
    Diffy
   </a>
   <span>
-   &#9733 747, pushed 121 days ago
+   &#9733 747, pushed 122 days ago
   </span>
   - Easy Diffing With Ruby.
  </li>
@@ -4103,7 +4103,7 @@ HOME.
    JsonCompare
   </a>
   <span>
-   &#9733 39, pushed 40 days ago
+   &#9733 39, pushed 41 days ago
   </span>
   - Returns the difference between two JSON files.
  </li>
@@ -4157,7 +4157,7 @@ HOME.
    RubyDNS
   </a>
   <span>
-   &#9733 411, pushed 49 days ago
+   &#9733 411, pushed 50 days ago
   </span>
   - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
  </li>
@@ -4186,7 +4186,7 @@ HOME.
    fastlane
   </a>
   <span>
-   &#9733 7444, pushed 1 days ago
+   &#9733 7444, pushed 2 days ago
   </span>
   - Connect all iOS deployment tools into one streamlined workflow.
  </li>
@@ -4243,7 +4243,7 @@ HOME.
    Monetize
   </a>
   <span>
-   &#9733 130, pushed 24 days ago
+   &#9733 130, pushed 25 days ago
   </span>
   - A library for converting various objects into Money objects.
  </li>
@@ -4266,7 +4266,7 @@ HOME.
    Sonic Pi
   </a>
   <span>
-   &#9733 1417, pushed 1 days ago
+   &#9733 1417, pushed 2 days ago
   </span>
   - A live coding synth for everyone originally designed to support computing and music lessons.
  </li>
@@ -4286,7 +4286,7 @@ HOME.
    pocketsphinx-ruby
   </a>
   <span>
-   &#9733 176, pushed 108 days ago
+   &#9733 176, pushed 109 days ago
   </span>
   - Ruby speech recognition with Pocketsphinx.
  </li>
@@ -4331,7 +4331,7 @@ HOME.
    Words Counted
   </a>
   <span>
-   &#9733 63, pushed 188 days ago
+   &#9733 63, pushed 189 days ago
   </span>
   - A highly customisable Ruby text analyser and word counter.
  </li>
@@ -4349,7 +4349,7 @@ HOME.
    to
   </a>
   <span>
-   &#9733 483, pushed 68 days ago
+   &#9733 483, pushed 69 days ago
   </span>
   - View helper to manage "active" state of a link.
  </li>
@@ -4382,7 +4382,7 @@ HOME.
    Simple Navigation
   </a>
   <span>
-   &#9733 809, pushed 107 days ago
+   &#9733 809, pushed 108 days ago
   </span>
   - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
  </li>
@@ -4495,7 +4495,7 @@ HOME.
    ROM
   </a>
   <span>
-   &#9733 1132, pushed 2 days ago
+   &#9733 1132, pushed 3 days ago
   </span>
   - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
  </li>
@@ -4548,7 +4548,7 @@ HOME.
      Espinita
     </a>
     <span>
-     &#9733 207, pushed 197 days ago
+     &#9733 207, pushed 198 days ago
     </span>
     - Audit activerecord models like a boss.
    </li>
@@ -4635,7 +4635,7 @@ HOME.
      ferry
     </a>
     <span>
-     &#9733 254, pushed 86 days ago
+     &#9733 254, pushed 87 days ago
     </span>
     - A ruby gem for easy data transfer.
    </li>
@@ -4676,7 +4676,7 @@ HOME.
      Goldiloader
     </a>
     <span>
-     &#9733 482, pushed 58 days ago
+     &#9733 482, pushed 59 days ago
     </span>
     - Automatic ActiveRecord eager loading.
    </li>
@@ -4685,7 +4685,7 @@ HOME.
      mini_record
     </a>
     <span>
-     &#9733 265, pushed 20 days ago
+     &#9733 265, pushed 21 days ago
     </span>
     - ActiveRecord meets DataMapper, with MiniRecord you are be able to write schema inside your models.
    </li>
@@ -4699,7 +4699,7 @@ HOME.
      Acts As Tennant
     </a>
     <span>
-     &#9733 548, pushed 13 days ago
+     &#9733 548, pushed 14 days ago
     </span>
     - Add multi-tenancy to a Rails app through a shared database strategy.
    </li>
@@ -4708,7 +4708,7 @@ HOME.
      Apartment
     </a>
     <span>
-     &#9733 1247, pushed 14 days ago
+     &#9733 1247, pushed 15 days ago
     </span>
     - Multi-tenancy for Rails and ActiveRecord.
    </li>
@@ -4722,7 +4722,7 @@ HOME.
      Acts As Commentable
     </a>
     <span>
-     &#9733 776, pushed 369 days ago
+     &#9733 776, pushed 370 days ago
     </span>
     - Provides a single Comment model that can be attached to any model(s) within your app.
    </li>
@@ -4761,7 +4761,7 @@ HOME.
      ActiveRecord Reputation System
     </a>
     <span>
-     &#9733 1294, pushed 109 days ago
+     &#9733 1294, pushed 110 days ago
     </span>
     - An Active Record Reputation System for Rails.
    </li>
@@ -4770,7 +4770,7 @@ HOME.
      ActsAsTaggableOn
     </a>
     <span>
-     &#9733 3650, pushed 11 days ago
+     &#9733 3650, pushed 12 days ago
     </span>
     - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
    </li>
@@ -4788,7 +4788,7 @@ HOME.
      Merit
     </a>
     <span>
-     &#9733 953, pushed 4 days ago
+     &#9733 953, pushed 5 days ago
     </span>
     - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
    </li>
@@ -4820,7 +4820,7 @@ HOME.
      ActsAsList
     </a>
     <span>
-     &#9733 952, pushed 1 days ago
+     &#9733 952, pushed 2 days ago
     </span>
     - Provides the capabilities for sorting and reordering a number of objects in a list.
    </li>
@@ -4870,7 +4870,7 @@ HOME.
      Closure Tree
     </a>
     <span>
-     &#9733 832, pushed 7 days ago
+     &#9733 832, pushed 8 days ago
     </span>
     - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
    </li>
@@ -4924,7 +4924,7 @@ HOME.
      Berkshelf
     </a>
     <span>
-     &#9733 1023, pushed 5 days ago
+     &#9733 1023, pushed 6 days ago
     </span>
     - A Chef Cookbook manager.
    </li>
@@ -5011,7 +5011,7 @@ HOME.
    CombinePDF
   </a>
   <span>
-   &#9733 144, pushed 3 days ago
+   &#9733 144, pushed 4 days ago
   </span>
   - A Pure ruby library to merge or stump PDF files, number pages and more.
  </li>
@@ -5029,7 +5029,7 @@ HOME.
    Kitabu
   </a>
   <span>
-   &#9733 494, pushed 38 days ago
+   &#9733 494, pushed 39 days ago
   </span>
   - A framework for creating e-books from Markdown/Textile text markup using Ruby.
  </li>
@@ -5047,7 +5047,7 @@ HOME.
    Prawn
   </a>
   <span>
-   &#9733 3088, pushed 39 days ago
+   &#9733 3088, pushed 40 days ago
   </span>
   - Fast, Nimble PDF Writer for Ruby.
  </li>
@@ -5065,7 +5065,7 @@ HOME.
    Shrimp
   </a>
   <span>
-   &#9733 274, pushed 144 days ago
+   &#9733 274, pushed 145 days ago
   </span>
   - A phantomjs based pdf renderer.
  </li>
@@ -5074,7 +5074,7 @@ HOME.
    Squid
   </a>
   <span>
-   &#9733 153, pushed 17 days ago
+   &#9733 153, pushed 18 days ago
   </span>
   - Squid · A Ruby library to plot charts in PDF files
  </li>
@@ -5162,7 +5162,7 @@ HOME.
    Bluepill
   </a>
   <span>
-   &#9733 336, pushed 133 days ago
+   &#9733 336, pushed 134 days ago
   </span>
   - Simple process monitoring tool.
  </li>
@@ -5263,7 +5263,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Peek
   </a>
   <span>
-   &#9733 2374, pushed 25 days ago
+   &#9733 2374, pushed 26 days ago
   </span>
   - Visual status bar showing Rails performance.
  </li>
@@ -5272,7 +5272,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    perftools.rb
   </a>
   <span>
-   &#9733 1004, pushed 280 days ago
+   &#9733 1004, pushed 281 days ago
   </span>
   - gperftools (formerly known as google-perftools) for Ruby code.
  </li>
@@ -5290,7 +5290,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Rbkit
   </a>
   <span>
-   &#9733 359, pushed 149 days ago
+   &#9733 359, pushed 150 days ago
   </span>
   - profiler for Ruby. With a GUI.
  </li>
@@ -5313,7 +5313,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Backburner
   </a>
   <span>
-   &#9733 353, pushed 6 days ago
+   &#9733 353, pushed 7 days ago
   </span>
   - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
  </li>
@@ -5322,7 +5322,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Bunny
   </a>
   <span>
-   &#9733 624, pushed 5 days ago
+   &#9733 624, pushed 6 days ago
   </span>
   - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
  </li>
@@ -5465,7 +5465,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Suspenders
   </a>
   <span>
-   &#9733 2490, pushed 4 days ago
+   &#9733 2490, pushed 5 days ago
   </span>
   - Suspenders is the base Rails application used at thoughtbot.
  </li>
@@ -5576,7 +5576,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Whenever
   </a>
   <span>
-   &#9733 6324, pushed 4 days ago
+   &#9733 6324, pushed 5 days ago
   </span>
   - A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
  </li>
@@ -5593,7 +5593,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      AI4R
     </a>
     <span>
-     &#9733 614, pushed 90 days ago
+     &#9733 614, pushed 91 days ago
     </span>
     - Algorithms covering several Artificial intelligence fields.
    </li>
@@ -5602,7 +5602,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      ruby-fann
     </a>
     <span>
-     &#9733 230, pushed 139 days ago
+     &#9733 230, pushed 140 days ago
     </span>
     - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
    </li>
@@ -5616,7 +5616,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      ruby-opencv
     </a>
     <span>
-     &#9733 546, pushed 1 days ago
+     &#9733 546, pushed 2 days ago
     </span>
     - An OpenCV wrapper for Ruby.
    </li>
@@ -5630,7 +5630,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      classifier-reborn
     </a>
     <span>
-     &#9733 194, pushed 98 days ago
+     &#9733 194, pushed 99 days ago
     </span>
     - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
    </li>
@@ -5653,7 +5653,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      daru
     </a>
     <span>
-     &#9733 97, pushed 1 days ago
+     &#9733 97, pushed 2 days ago
     </span>
     - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
    </li>
@@ -5759,7 +5759,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      minimization
     </a>
     <span>
-     &#9733 16, pushed 282 days ago
+     &#9733 16, pushed 283 days ago
     </span>
     - Minimization algorithms on pure Ruby.
    </li>
@@ -5768,7 +5768,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      publisci
     </a>
     <span>
-     &#9733 6, pushed 919 days ago
+     &#9733 6, pushed 920 days ago
     </span>
     - A toolkit for publishing scientific results to the semantic web.
    </li>
@@ -5902,7 +5902,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    pg_search
   </a>
   <span>
-   &#9733 1488, pushed 14 days ago
+   &#9733 1488, pushed 15 days ago
   </span>
   - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search.
  </li>
@@ -5994,7 +5994,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Gitrob
   </a>
   <span>
-   &#9733 1256, pushed 12 days ago
+   &#9733 1256, pushed 13 days ago
   </span>
   - Reconnaissance tool for GitHub organizations.
  </li>
@@ -6003,7 +6003,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Metasploit
   </a>
   <span>
-   &#9733 5688, pushed 2 days ago
+   &#9733 5688, pushed 3 days ago
   </span>
   - World's most used penetration testing software.
  </li>
@@ -6039,7 +6039,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    SecureHeaders
   </a>
   <span>
-   &#9733 1666, pushed 3 days ago
+   &#9733 1666, pushed 4 days ago
   </span>
   - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
  </li>
@@ -6053,7 +6053,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    FriendlyId
   </a>
   <span>
-   &#9733 4045, pushed 5 days ago
+   &#9733 4045, pushed 6 days ago
   </span>
   - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record.
  </li>
@@ -6221,7 +6221,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    transitions
   </a>
   <span>
-   &#9733 474, pushed 0 days ago
+   &#9733 474, pushed 1 days ago
   </span>
   - A ruby state machine implementation.
  </li>
@@ -6230,7 +6230,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Workflow
   </a>
   <span>
-   &#9733 1281, pushed 13 days ago
+   &#9733 1281, pushed 14 days ago
   </span>
   - A finite-state-machine-inspired API for modeling and interacting with what we tend to refer to as 'workflow'.
  </li>
@@ -6282,7 +6282,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Octopress
   </a>
   <span>
-   &#9733 1363, pushed 84 days ago
+   &#9733 1363, pushed 85 days ago
   </span>
   - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs.
  </li>
@@ -6403,7 +6403,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
        Nyan Cat
       </a>
       <span>
-       &#9733 566, pushed 392 days ago
+       &#9733 566, pushed 393 days ago
       </span>
       - Nyan Cat inspired RSpec formatter!
      </li>
@@ -6492,7 +6492,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      shoulda-matchers
     </a>
     <span>
-     &#9733 1642, pushed 12 days ago
+     &#9733 1642, pushed 13 days ago
     </span>
     - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
    </li>
@@ -6554,7 +6554,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      faker
     </a>
     <span>
-     &#9733 3751, pushed 1 days ago
+     &#9733 3751, pushed 2 days ago
     </span>
     - A library for generating fake data such as names, addresses, and phone numbers.
    </li>
@@ -6581,7 +6581,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      Machinist
     </a>
     <span>
-     &#9733 1133, pushed 1002 days ago
+     &#9733 1133, pushed 1003 days ago
     </span>
     - Fixtures aren't fun. Machinist is.
    </li>
@@ -6613,7 +6613,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      TestXml
     </a>
     <span>
-     &#9733 25, pushed 408 days ago
+     &#9733 25, pushed 409 days ago
     </span>
     - TestXml is a small extension for testing XML/HTML.
    </li>
@@ -6622,7 +6622,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      WebMock
     </a>
     <span>
-     &#9733 2148, pushed 0 days ago
+     &#9733 2148, pushed 1 days ago
     </span>
     - Library for stubbing and setting expectations on HTTP requests.
    </li>
@@ -6651,7 +6651,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      Poltergeist
     </a>
     <span>
-     &#9733 2097, pushed 13 days ago
+     &#9733 2097, pushed 14 days ago
     </span>
     - A PhantomJS driver for Capybara.
    </li>
@@ -6698,7 +6698,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      Ruby-JMeter
     </a>
     <span>
-     &#9733 425, pushed 129 days ago
+     &#9733 425, pushed 130 days ago
     </span>
     - A Ruby based DSL for building JMeter test plans.
    </li>
@@ -6716,7 +6716,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
      timecop
     </a>
     <span>
-     &#9733 2055, pushed 24 days ago
+     &#9733 2055, pushed 25 days ago
     </span>
     - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
    </li>
@@ -6768,7 +6768,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Dropbox
   </a>
   <span>
-   &#9733 347, pushed 154 days ago
+   &#9733 347, pushed 155 days ago
   </span>
   - Dropbox API Ruby Client.
  </li>
@@ -6804,7 +6804,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    gitlab
   </a>
   <span>
-   &#9733 283, pushed 6 days ago
+   &#9733 283, pushed 7 days ago
   </span>
   - Ruby wrapper and CLI for the GitLab API.
  </li>
@@ -6813,7 +6813,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    gmail
   </a>
   <span>
-   &#9733 174, pushed 21 days ago
+   &#9733 174, pushed 22 days ago
   </span>
   - A Rubyesque interface to Gmail, with all the tools you'll need.
  </li>
@@ -6822,7 +6822,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    hipchat-rb
   </a>
   <span>
-   &#9733 321, pushed 49 days ago
+   &#9733 321, pushed 50 days ago
   </span>
   - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
  </li>
@@ -6874,7 +6874,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    ruby-gmail
   </a>
   <span>
-   &#9733 739, pushed 287 days ago
+   &#9733 739, pushed 288 days ago
   </span>
   - A Rubyesque interface to Gmail.
  </li>
@@ -6883,7 +6883,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    ruby-trello
   </a>
   <span>
-   &#9733 526, pushed 4 days ago
+   &#9733 526, pushed 5 days ago
   </span>
   - Implementation of the Trello API for Ruby.
  </li>
@@ -6910,7 +6910,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Slack ruby gem
   </a>
   <span>
-   &#9733 146, pushed 63 days ago
+   &#9733 146, pushed 64 days ago
   </span>
   - A Ruby wrapper for the Slack API.
  </li>
@@ -6919,7 +6919,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    soundcloud-ruby
   </a>
   <span>
-   &#9733 290, pushed 213 days ago
+   &#9733 290, pushed 214 days ago
   </span>
   - Official SoundCloud API Wrapper for Ruby.
  </li>
@@ -6928,7 +6928,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    t
   </a>
   <span>
-   &#9733 3729, pushed 11 days ago
+   &#9733 3729, pushed 12 days ago
   </span>
   - A command-line power tool for Twitter.
  </li>
@@ -6973,7 +6973,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Yt
   </a>
   <span>
-   &#9733 409, pushed 5 days ago
+   &#9733 409, pushed 6 days ago
   </span>
   - An object-oriented Ruby client for YouTube API V3.
  </li>
@@ -7001,7 +7001,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    anemone
   </a>
   <span>
-   &#9733 1487, pushed 105 days ago
+   &#9733 1487, pushed 106 days ago
   </span>
   - Ruby library and CLI for crawling websites.
  </li>
@@ -7010,7 +7010,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    LinkThumbnailer
   </a>
   <span>
-   &#9733 297, pushed 14 days ago
+   &#9733 297, pushed 15 days ago
   </span>
   - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
  </li>
@@ -7019,7 +7019,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Mechanize
   </a>
   <span>
-   &#9733 2963, pushed 15 days ago
+   &#9733 2963, pushed 16 days ago
   </span>
   - Mechanize is a ruby library that makes automated web interaction easy.
  </li>
@@ -7028,7 +7028,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    MetaInspector
   </a>
   <span>
-   &#9733 620, pushed 2 days ago
+   &#9733 620, pushed 3 days ago
   </span>
   - Ruby gem for web scraping purposes.
  </li>
@@ -7072,7 +7072,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
    Hobbit
   </a>
   <span>
-   &#9733 246, pushed 72 days ago
+   &#9733 246, pushed 73 days ago
   </span>
   - A minimalistic microframework built on top of Rack.
  </li>

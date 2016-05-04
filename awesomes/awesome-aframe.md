@@ -311,7 +311,7 @@
    Component Boilerplate
   </a>
   <span>
-   &#9733 14, pushed 4 days ago
+   &#9733 14, pushed 5 days ago
   </span>
   - Boilerplate for creating and sharing A-Frame VR components
  </li>
@@ -326,7 +326,7 @@
    Extrude and Lathe
   </a>
   <span>
-   &#9733 5, pushed 133 days ago
+   &#9733 5, pushed 134 days ago
   </span>
   - Extrude and lathe geometries
  </li>
@@ -353,7 +353,7 @@
    Layout
   </a>
   <span>
-   &#9733 10, pushed 10 days ago
+   &#9733 10, pushed 11 days ago
   </span>
   - 3D layout of child entities
  </li>
@@ -419,7 +419,7 @@
    Draw
   </a>
   <span>
-   &#9733 17, pushed 42 days ago
+   &#9733 17, pushed 43 days ago
   </span>
   - HTML5
   <code>
@@ -432,7 +432,7 @@
    Text Wrap
   </a>
   <span>
-   &#9733 10, pushed 40 days ago
+   &#9733 10, pushed 41 days ago
   </span>
   - Wrapping text dynamically rendered onto the
   <code>
@@ -445,7 +445,7 @@
    Template
   </a>
   <span>
-   &#9733 4, pushed 4 days ago
+   &#9733 4, pushed 5 days ago
   </span>
   - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
  </li>
@@ -478,7 +478,7 @@
    HTML Texture
   </a>
   <span>
-   &#9733 15, pushed 47 days ago
+   &#9733 15, pushed 48 days ago
   </span>
   - Using HTML as a texture, powered by html2canvas
  </li>
@@ -539,7 +539,7 @@
    Mouse Cursor
   </a>
   <span>
-   &#9733 9, pushed 18 days ago
+   &#9733 9, pushed 19 days ago
   </span>
   - Use mouse as a direct pointer
  </li>
@@ -613,7 +613,7 @@
    GIF
   </a>
   <span>
-   &#9733 0, pushed 15 days ago
+   &#9733 0, pushed 16 days ago
   </span>
   - Render animated GIFs
  </li>
@@ -663,7 +663,7 @@
    aframe-templating-examples
   </a>
   <span>
-   &#9733 0, pushed 35 days ago
+   &#9733 0, pushed 36 days ago
   </span>
   - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
  </li>
@@ -694,7 +694,7 @@
    Altspace
   </a>
   <span>
-   &#9733 8, pushed 5 days ago
+   &#9733 8, pushed 6 days ago
   </span>
   - Integration with AltspaceVR
  </li>
@@ -722,7 +722,7 @@
    aframe-react
   </a>
   <span>
-   &#9733 114, pushed 18 days ago
+   &#9733 114, pushed 19 days ago
   </span>
  </li>
  <li>
@@ -738,7 +738,7 @@
    aframe-react-starter
   </a>
   <span>
-   &#9733 12, pushed 132 days ago
+   &#9733 12, pushed 133 days ago
   </span>
  </li>
  <li>

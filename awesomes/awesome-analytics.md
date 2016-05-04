@@ -572,7 +572,7 @@
    Freeboard
   </a>
   <span>
-   &#9733 3054, pushed 6 days ago
+   &#9733 3054, pushed 7 days ago
   </span>
   - open source real-time dashboard builder for IOT and other web mashups.
  </li>
@@ -619,7 +619,7 @@
    list
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
   .
  </li>

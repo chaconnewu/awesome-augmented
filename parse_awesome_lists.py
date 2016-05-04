@@ -22,7 +22,6 @@ def examine_each_awesome(awesome_urls):
             filename = './original_awesomes/' + full_name.split('/')[-1] + '.md'
             readme_url = prefix + full_name + postfix
 
-            # print('Process ' + str(process_id) + ' Requesting: ' + readme_url)
             try:
                 contents = request_content(readme_url + 'README.md')
                 if contents == 'Not Found':
@@ -134,6 +133,8 @@ def main():
     awesome_urls = generate_all_github_urls(soup)
     examine_each_awesome(awesome_urls)
     regenerate_hrefs(soup)
+    for url in awesome_urls:
+        print(url)
 
 if __name__ == '__main__':
     main()

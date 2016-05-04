@@ -638,7 +638,7 @@ Recognition
    Keras and Lasagne Deep Learning Tutorials
   </a>
   <span>
-   &#9733 43, pushed 16 days ago
+   &#9733 43, pushed 17 days ago
   </span>
  </li>
 </ol>
@@ -1933,7 +1933,7 @@ Recognition
    convetjs
   </a>
   <span>
-   &#9733 4672, pushed 50 days ago
+   &#9733 4672, pushed 51 days ago
   </span>
  </li>
  <li>
@@ -1956,7 +1956,7 @@ Recognition
    Brain
   </a>
   <span>
-   &#9733 6952, pushed 185 days ago
+   &#9733 6952, pushed 186 days ago
   </span>
  </li>
  <li>
@@ -2004,7 +2004,7 @@ Recognition
    Mocha.jl
   </a>
   <span>
-   &#9733 675, pushed 19 days ago
+   &#9733 675, pushed 20 days ago
   </span>
  </li>
  <li>
@@ -2035,7 +2035,7 @@ Recognition
    Nvidia DIGITS - a web app based on Caffe
   </a>
   <span>
-   &#9733 1076, pushed 0 days ago
+   &#9733 1076, pushed 1 days ago
   </span>
  </li>
  <li>
@@ -2043,7 +2043,7 @@ Recognition
    Neon - Python based Deep Learning Framework
   </a>
   <span>
-   &#9733 1808, pushed 3 days ago
+   &#9733 1808, pushed 4 days ago
   </span>
  </li>
  <li>
@@ -2071,7 +2071,7 @@ Recognition
    char-rnn
   </a>
   <span>
-   &#9733 3119, pushed 2 days ago
+   &#9733 3119, pushed 3 days ago
   </span>
  </li>
  <li>
@@ -2137,7 +2137,7 @@ Recognition
    Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework
   </a>
   <span>
-   &#9733 231, pushed 6 days ago
+   &#9733 231, pushed 7 days ago
   </span>
  </li>
  <li>
@@ -2258,7 +2258,7 @@ Recognition
    Google deepdream - Neural Network art
   </a>
   <span>
-   &#9733 8673, pushed 205 days ago
+   &#9733 8673, pushed 206 days ago
   </span>
  </li>
  <li>
@@ -2279,7 +2279,7 @@ Recognition
    Memory Networks Implementations - Facebook
   </a>
   <span>
-   &#9733 598, pushed 113 days ago
+   &#9733 598, pushed 114 days ago
   </span>
  </li>
  <li>
@@ -2287,7 +2287,7 @@ Recognition
    Face recognition with Google's FaceNet deep neural network.
   </a>
   <span>
-   &#9733 4352, pushed 5 days ago
+   &#9733 4352, pushed 6 days ago
   </span>
  </li>
  <li>

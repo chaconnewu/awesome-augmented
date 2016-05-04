@@ -103,7 +103,7 @@
    Min
   </a>
   <span>
-   &#9733 603, pushed 1 days ago
+   &#9733 603, pushed 2 days ago
   </span>
   - Minimal web browser.
  </li>
@@ -121,7 +121,7 @@
    SpaceRadar
   </a>
   <span>
-   &#9733 273, pushed 54 days ago
+   &#9733 273, pushed 55 days ago
   </span>
   - Interactive disk space and memory visualization.
  </li>
@@ -139,7 +139,7 @@
    Mojibar
   </a>
   <span>
-   &#9733 1123, pushed 6 days ago
+   &#9733 1123, pushed 7 days ago
   </span>
   - Emoji searcher in your menubar.
  </li>
@@ -166,7 +166,7 @@
    Atom
   </a>
   <span>
-   &#9733 27188, pushed 1 days ago
+   &#9733 27188, pushed 2 days ago
   </span>
   - Code editor.
  </li>
@@ -175,7 +175,7 @@
    Visual Studio Code
   </a>
   <span>
-   &#9733 13794, pushed 1 days ago
+   &#9733 13794, pushed 2 days ago
   </span>
   - Cross-platform IDE.
  </li>
@@ -184,7 +184,7 @@
    N1
   </a>
   <span>
-   &#9733 17348, pushed 3 days ago
+   &#9733 17348, pushed 4 days ago
   </span>
   - Extensible email client.
  </li>
@@ -216,7 +216,7 @@
    Caprine
   </a>
   <span>
-   &#9733 891, pushed 2 days ago
+   &#9733 891, pushed 3 days ago
   </span>
   - Unofficial Facebook Messenger app.
  </li>
@@ -225,7 +225,7 @@
    Simplenote
   </a>
   <span>
-   &#9733 227, pushed 3 days ago
+   &#9733 227, pushed 4 days ago
   </span>
   - Note keeper.
  </li>
@@ -294,7 +294,7 @@
    Soundcast
   </a>
   <span>
-   &#9733 419, pushed 99 days ago
+   &#9733 419, pushed 100 days ago
   </span>
   - Cast OS X audio to Chromecast from your menubar.
  </li>
@@ -312,7 +312,7 @@
    Friends
   </a>
   <span>
-   &#9733 2431, pushed 38 days ago
+   &#9733 2431, pushed 39 days ago
   </span>
   - P2P chat.
  </li>
@@ -429,7 +429,7 @@
    Imagemin
   </a>
   <span>
-   &#9733 522, pushed 271 days ago
+   &#9733 522, pushed 272 days ago
   </span>
   - Minify images.
  </li>
@@ -447,7 +447,7 @@
    Piglet
   </a>
   <span>
-   &#9733 55, pushed 321 days ago
+   &#9733 55, pushed 322 days ago
   </span>
   - Run Grunt tasks from your menubar.
  </li>
@@ -480,7 +480,7 @@
    Toby
   </a>
   <span>
-   &#9733 57, pushed 0 days ago
+   &#9733 57, pushed 1 days ago
   </span>
   - YouTube player.
  </li>
@@ -558,7 +558,7 @@
    DevDogs
   </a>
   <span>
-   &#9733 115, pushed 50 days ago
+   &#9733 115, pushed 51 days ago
   </span>
   - DevDocs.io API documentation.
  </li>
@@ -573,7 +573,7 @@
    google-music-electron
   </a>
   <span>
-   &#9733 163, pushed 5 days ago
+   &#9733 163, pushed 6 days ago
   </span>
   - Unofficial Google music app.
  </li>
@@ -603,7 +603,7 @@
    Mongotron
   </a>
   <span>
-   &#9733 1437, pushed 11 days ago
+   &#9733 1437, pushed 12 days ago
   </span>
   - MongoDB management tool.
  </li>
@@ -639,7 +639,7 @@
    Sqlectron
   </a>
   <span>
-   &#9733 316, pushed 1 days ago
+   &#9733 316, pushed 2 days ago
   </span>
   - SQL client.
  </li>
@@ -657,7 +657,7 @@
    Light Table
   </a>
   <span>
-   &#9733 8867, pushed 1 days ago
+   &#9733 8867, pushed 2 days ago
   </span>
   - Code editor with instant feedback.
  </li>
@@ -672,7 +672,7 @@
    Google Play Music Desktop Player
   </a>
   <span>
-   &#9733 2489, pushed 1 days ago
+   &#9733 2489, pushed 2 days ago
   </span>
   - Unofficial Google Play Music app.
  </li>
@@ -690,7 +690,7 @@
    Yeobara
   </a>
   <span>
-   &#9733 4, pushed 148 days ago
+   &#9733 4, pushed 149 days ago
   </span>
   - Meetup check-in with beacon.
  </li>
@@ -699,7 +699,7 @@
    Proton
   </a>
   <span>
-   &#9733 35, pushed 50 days ago
+   &#9733 35, pushed 51 days ago
   </span>
   - Markdown editor with live preview.
  </li>
@@ -747,7 +747,7 @@
    Snippet Bar
   </a>
   <span>
-   &#9733 20, pushed 66 days ago
+   &#9733 20, pushed 67 days ago
   </span>
   - Copy-paste & re-use text snippets in your menubar.
  </li>
@@ -774,7 +774,7 @@
    FromScratch
   </a>
   <span>
-   &#9733 190, pushed 21 days ago
+   &#9733 190, pushed 22 days ago
   </span>
   - Autosaving scratchpad.
  </li>
@@ -801,7 +801,7 @@
    Shake
   </a>
   <span>
-   &#9733 12, pushed 12 days ago
+   &#9733 12, pushed 13 days ago
   </span>
   - Japanese Earthquake Early Warning Notifier.
  </li>
@@ -828,7 +828,7 @@
    Boostnote
   </a>
   <span>
-   &#9733 195, pushed 2 days ago
+   &#9733 195, pushed 3 days ago
   </span>
   - Markdown note app for developers.
  </li>
@@ -873,7 +873,7 @@
    Minira
   </a>
   <span>
-   &#9733 12, pushed 9 days ago
+   &#9733 12, pushed 10 days ago
   </span>
   - JIRA issues in your menubar.
  </li>
@@ -900,7 +900,7 @@
    Sample apps
   </a>
   <span>
-   &#9733 566, pushed 19 days ago
+   &#9733 566, pushed 20 days ago
   </span>
   - Sample apps to illustrate the usage of Electron APIs.
  </li>
@@ -918,7 +918,7 @@
    Backer Timetracker
   </a>
   <span>
-   &#9733 8, pushed 1 days ago
+   &#9733 8, pushed 2 days ago
   </span>
   - Tracks your time.
  </li>
@@ -927,7 +927,7 @@
    Ghost
   </a>
   <span>
-   &#9733 284, pushed 2 days ago
+   &#9733 284, pushed 3 days ago
   </span>
   - A professional publishing platform.
  </li>
@@ -1158,7 +1158,7 @@
    electron-packager
   </a>
   <span>
-   &#9733 1849, pushed 1 days ago
+   &#9733 1849, pushed 2 days ago
   </span>
   - Package and distribute your app.
  </li>
@@ -1194,7 +1194,7 @@
    electron-localshortcut
   </a>
   <span>
-   &#9733 71, pushed 165 days ago
+   &#9733 71, pushed 166 days ago
   </span>
   - Add keyboard shortcuts locally to a window.
  </li>
@@ -1221,7 +1221,7 @@
    electron-updater
   </a>
   <span>
-   &#9733 149, pushed 6 days ago
+   &#9733 149, pushed 7 days ago
   </span>
   - Auto-updater leveraging npm to deploy updates.
  </li>
@@ -1230,7 +1230,7 @@
    fix-path
   </a>
   <span>
-   &#9733 42, pushed 10 days ago
+   &#9733 42, pushed 11 days ago
   </span>
   - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
  </li>
@@ -1314,7 +1314,7 @@
    debug-menu
   </a>
   <span>
-   &#9733 49, pushed 7 days ago
+   &#9733 49, pushed 8 days ago
   </span>
   - Chrome-like "inspect element" context-menu.
  </li>
@@ -1341,7 +1341,7 @@
    electron-installer-windows
   </a>
   <span>
-   &#9733 27, pushed 3 days ago
+   &#9733 27, pushed 4 days ago
   </span>
   - Create a Windows package.
  </li>
@@ -1377,7 +1377,7 @@
    ipc-stream
   </a>
   <span>
-   &#9733 31, pushed 44 days ago
+   &#9733 31, pushed 45 days ago
   </span>
   - Duplex stream over IPC.
  </li>
@@ -1412,7 +1412,7 @@
    electron-detach
   </a>
   <span>
-   &#9733 39, pushed 165 days ago
+   &#9733 39, pushed 166 days ago
   </span>
   - Restart an Electron app as a detached process.
  </li>
@@ -1427,7 +1427,7 @@
    ember-electron
   </a>
   <span>
-   &#9733 347, pushed 6 days ago
+   &#9733 347, pushed 7 days ago
   </span>
   - Build, test, and package Ember apps.
  </li>
@@ -1456,7 +1456,7 @@
    devtool
   </a>
   <span>
-   &#9733 2666, pushed 32 days ago
+   &#9733 2666, pushed 33 days ago
   </span>
   - Debug Node.js with Chrome DevTools.
  </li>
@@ -1465,7 +1465,7 @@
    nativefier
   </a>
   <span>
-   &#9733 5417, pushed 7 days ago
+   &#9733 5417, pushed 8 days ago
   </span>
   - Create an app of any website.
  </li>
@@ -1489,7 +1489,7 @@
    electron-pdf
   </a>
   <span>
-   &#9733 286, pushed 0 days ago
+   &#9733 286, pushed 1 days ago
   </span>
   - Generate PDF from URL, HTML, or Markdown files on the command-line.
  </li>
@@ -1498,7 +1498,7 @@
    Geojsonapp
   </a>
   <span>
-   &#9733 270, pushed 168 days ago
+   &#9733 270, pushed 169 days ago
   </span>
   - Preview GeoJSON locally.
  </li>
@@ -1507,7 +1507,7 @@
    electron-mocha
   </a>
   <span>
-   &#9733 113, pushed 12 days ago
+   &#9733 113, pushed 13 days ago
   </span>
   - Run your Mocha tests in Electron.
  </li>
@@ -1567,7 +1567,7 @@
    window
   </a>
   <span>
-   &#9733 78, pushed 1 days ago
+   &#9733 78, pushed 2 days ago
   </span>
   - Easily create and manage windows.
  </li>
@@ -1594,7 +1594,7 @@
    chrome-tabs
   </a>
   <span>
-   &#9733 334, pushed 159 days ago
+   &#9733 334, pushed 160 days ago
   </span>
   - Chrome like tabs.
  </li>

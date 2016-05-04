@@ -180,7 +180,7 @@
     NKWatchChart
    </a>
    <span>
-    &#9733 218, pushed 80 days ago
+    &#9733 218, pushed 81 days ago
    </span>
    - A chart library for Apple Watch based on PNChart and ios-charts.
   </p>
@@ -407,7 +407,7 @@
     HighstreetWatchApp
    </a>
    <span>
-    &#9733 341, pushed 342 days ago
+    &#9733 341, pushed 343 days ago
    </span>
    - The watchKit app built on the
    <a href="http://highstreetapp.com">
@@ -429,7 +429,7 @@
     OnTime
    </a>
    <span>
-    &#9733 37, pushed 212 days ago
+    &#9733 37, pushed 213 days ago
    </span>
    - An apple watch app to access the SBB timetable.
   </p>
@@ -447,7 +447,7 @@
     WatchNotes
    </a>
    <span>
-    &#9733 74, pushed 186 days ago
+    &#9733 74, pushed 187 days ago
    </span>
    - An apple watch app to display notes on your wrist.
   </p>

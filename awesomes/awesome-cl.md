@@ -225,7 +225,7 @@ sellers who aren't evil for physical resources.
    asdf-linguist
   </a>
   <span>
-   &#9733 14, pushed 278 days ago
+   &#9733 14, pushed 279 days ago
   </span>
   - Extensions for ASDF.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -266,7 +266,7 @@ sellers who aren't evil for physical resources.
    trivial-ssh
   </a>
   <span>
-   &#9733 11, pushed 450 days ago
+   &#9733 11, pushed 451 days ago
   </span>
   - An SSH client library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -284,7 +284,7 @@ sellers who aren't evil for physical resources.
    cl-dbi
   </a>
   <span>
-   &#9733 68, pushed 46 days ago
+   &#9733 68, pushed 47 days ago
   </span>
   - A database-independent interface for Common Lisp.
   <a href="http://opensource.franz.com/preamble.html">
@@ -381,7 +381,7 @@ sellers who aren't evil for physical resources.
    clache
   </a>
   <span>
-   &#9733 0, pushed 779 days ago
+   &#9733 0, pushed 780 days ago
   </span>
   - General caching facility. No license specified.
  </li>
@@ -426,7 +426,7 @@ sellers who aren't evil for physical resources.
    mito
   </a>
   <span>
-   &#9733 21, pushed 6 days ago
+   &#9733 21, pushed 7 days ago
   </span>
   - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
   <a href="http://opensource.franz.com/preamble.html">
@@ -483,7 +483,7 @@ sellers who aren't evil for physical resources.
    cl-autowrap
   </a>
   <span>
-   &#9733 69, pushed 3 days ago
+   &#9733 69, pushed 4 days ago
   </span>
   - Automatically parses header files into CFFI definitions.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
@@ -594,7 +594,7 @@ sellers who aren't evil for physical resources.
    cl-opengl
   </a>
   <span>
-   &#9733 144, pushed 3 days ago
+   &#9733 144, pushed 4 days ago
   </span>
   - CFFI bindings to OpenGL, GLU and GLUT APIs.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -656,7 +656,7 @@ sellers who aren't evil for physical resources.
    lispbuilder-sdl
   </a>
   <span>
-   &#9733 38, pushed 142 days ago
+   &#9733 38, pushed 143 days ago
   </span>
   - A set of bindings for SDL.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -682,7 +682,7 @@ sellers who aren't evil for physical resources.
    Varjo
   </a>
   <span>
-   &#9733 55, pushed 40 days ago
+   &#9733 55, pushed 41 days ago
   </span>
   - Lisp to GLSL translator. Not available on Quicklisp.
   <a href="http://opensource.franz.com/preamble.html">
@@ -756,7 +756,7 @@ sellers who aren't evil for physical resources.
    CommonQt
   </a>
   <span>
-   &#9733 55, pushed 41 days ago
+   &#9733 55, pushed 42 days ago
   </span>
   - A Common Lisp binding for Qt4 via QtSmoke.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
@@ -902,7 +902,7 @@ sellers who aren't evil for physical resources.
    jsown
   </a>
   <span>
-   &#9733 38, pushed 132 days ago
+   &#9733 38, pushed 133 days ago
   </span>
   - A reader and writer for the JSON format.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1103,7 +1103,7 @@ sellers who aren't evil for physical resources.
    qlot
   </a>
   <span>
-   &#9733 72, pushed 72 days ago
+   &#9733 72, pushed 73 days ago
   </span>
   - A project-local library installer, similar to Bundler or Carton.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1126,7 +1126,7 @@ sellers who aren't evil for physical resources.
    Quickutil
   </a>
   <span>
-   &#9733 55, pushed 18 days ago
+   &#9733 55, pushed 19 days ago
   </span>
   - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -1185,7 +1185,7 @@ sellers who aren't evil for physical resources.
    avatar-api
   </a>
   <span>
-   &#9733 7, pushed 342 days ago
+   &#9733 7, pushed 343 days ago
   </span>
   - Get avatars from Google+, Gravatar and others.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1198,7 +1198,7 @@ sellers who aren't evil for physical resources.
    Caveman
   </a>
   <span>
-   &#9733 357, pushed 46 days ago
+   &#9733 357, pushed 47 days ago
   </span>
   - A powerful web framework.
   <a href="http://opensource.franz.com/preamble.html">
@@ -1224,7 +1224,7 @@ sellers who aren't evil for physical resources.
    cl-closure-template
   </a>
   <span>
-   &#9733 60, pushed 281 days ago
+   &#9733 60, pushed 282 days ago
   </span>
   - Implementation of Google's Closure templates.
   <a href="http://opensource.franz.com/preamble.html">
@@ -1316,7 +1316,7 @@ sellers who aren't evil for physical resources.
    clack-errors
   </a>
   <span>
-   &#9733 17, pushed 29 days ago
+   &#9733 17, pushed 30 days ago
   </span>
   - Error page middleware for Clack.
   <a href="http://opensource.franz.com/preamble.html">
@@ -1375,7 +1375,7 @@ sellers who aren't evil for physical resources.
    eco
   </a>
   <span>
-   &#9733 10, pushed 342 days ago
+   &#9733 10, pushed 343 days ago
   </span>
   - Fast, flexible, designer-friendly template engine.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1388,7 +1388,7 @@ sellers who aren't evil for physical resources.
    hermetic
   </a>
   <span>
-   &#9733 14, pushed 337 days ago
+   &#9733 14, pushed 338 days ago
   </span>
   - Security for Clack-based web applications.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1450,7 +1450,7 @@ sellers who aren't evil for physical resources.
    lquery
   </a>
   <span>
-   &#9733 17, pushed 102 days ago
+   &#9733 17, pushed 103 days ago
   </span>
   - A jQuery-like HTML/DOM manipulation library.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
@@ -1476,7 +1476,7 @@ sellers who aren't evil for physical resources.
    Postmaster
   </a>
   <span>
-   &#9733 1, pushed 515 days ago
+   &#9733 1, pushed 516 days ago
   </span>
   - A simple, easy-to-use SMTP/IMAP library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1515,7 +1515,7 @@ sellers who aren't evil for physical resources.
    sytes
   </a>
   <span>
-   &#9733 25, pushed 490 days ago
+   &#9733 25, pushed 491 days ago
   </span>
   - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
  </li>
@@ -1564,7 +1564,7 @@ sellers who aren't evil for physical resources.
    cl-spark
   </a>
   <span>
-   &#9733 45, pushed 327 days ago
+   &#9733 45, pushed 328 days ago
   </span>
   - Generates sparkline strings for lists of numbers.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1652,7 +1652,7 @@ sellers who aren't evil for physical resources.
    cl-async
   </a>
   <span>
-   &#9733 128, pushed 21 days ago
+   &#9733 128, pushed 22 days ago
   </span>
   - A library for general-purpose, non-blocking programming.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1744,7 +1744,7 @@ sellers who aren't evil for physical resources.
    SLIMV
   </a>
   <span>
-   &#9733 174, pushed 22 days ago
+   &#9733 174, pushed 23 days ago
   </span>
   - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
  </li>
@@ -1793,7 +1793,7 @@ sellers who aren't evil for physical resources.
    FiveAM
   </a>
   <span>
-   &#9733 66, pushed 10 days ago
+   &#9733 66, pushed 11 days ago
   </span>
   - Simple regression testing framework.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
@@ -1884,7 +1884,7 @@ sellers who aren't evil for physical resources.
    chipz
   </a>
   <span>
-   &#9733 9, pushed 78 days ago
+   &#9733 9, pushed 79 days ago
   </span>
   - A decompression library.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -1978,7 +1978,7 @@ sellers who aren't evil for physical resources.
    cl-locale
   </a>
   <span>
-   &#9733 13, pushed 250 days ago
+   &#9733 13, pushed 251 days ago
   </span>
   - A simple i18n library.
   <a href="http://opensource.franz.com/preamble.html">
@@ -2053,7 +2053,7 @@ sellers who aren't evil for physical resources.
    esrap
   </a>
   <span>
-   &#9733 65, pushed 27 days ago
+   &#9733 65, pushed 28 days ago
   </span>
   - Packrat parser.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -2066,7 +2066,7 @@ sellers who aren't evil for physical resources.
    fast-io
   </a>
   <span>
-   &#9733 72, pushed 45 days ago
+   &#9733 72, pushed 46 days ago
   </span>
   - Fast octet-vector/stream I/O.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -2109,7 +2109,7 @@ sellers who aren't evil for physical resources.
    iolib
   </a>
   <span>
-   &#9733 86, pushed 58 days ago
+   &#9733 86, pushed 59 days ago
   </span>
   - I/O library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -2193,7 +2193,7 @@ sellers who aren't evil for physical resources.
    Parenscript
   </a>
   <span>
-   &#9733 135, pushed 46 days ago
+   &#9733 135, pushed 47 days ago
   </span>
   - A translator from Common Lisp to Javascript.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -2330,7 +2330,7 @@ sellers who aren't evil for physical resources.
    trivial-garbage
   </a>
   <span>
-   &#9733 18, pushed 499 days ago
+   &#9733 18, pushed 500 days ago
   </span>
   - A portable finalizer, weak hash-table and weak pointer API. Public domain.
  </li>
@@ -2386,7 +2386,7 @@ sellers who aren't evil for physical resources.
    Plump
   </a>
   <span>
-   &#9733 19, pushed 46 days ago
+   &#9733 19, pushed 47 days ago
   </span>
   - A lenient XML parser.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">

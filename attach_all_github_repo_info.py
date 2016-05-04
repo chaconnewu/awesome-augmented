@@ -32,9 +32,9 @@ conn = pymysql.connect(
 
 cur = conn.cursor()
 
-def attach_github_info(filename):
+def attach_github_info(filename, input_directory='./', output_directory='./'):
     print('processing ' + filename)
-    file_path = input_dir + filename
+    file_path = input_directory + filename
     content = open(file_path, 'r').read()
     content = content.replace('] (http', '](http')
     markdown = markdown2.Markdown()
@@ -55,15 +55,16 @@ def attach_github_info(filename):
                 updated_at_datetime = parse(updated_at)
 
                 updated_days_ago = (datetime.now(pytz.utc)- updated_at_datetime).days
-                tag = soup.new_tag('span')
+                tag = soup.new_tag('sup')
                 tag.string = ' &#9733 %d, pushed %d days ago ' % (stars_count, updated_days_ago)
                 if a[0] in visited:
                     continue
                 else:
                     visited.add(a[0])
-                    a[0].insert_after(tag)
+                    # a[0].insert_after(tag)
+                    li.insert(len(li.contents), tag)
 
-    output_filename = output_dir + filename
+    output_filename = output_directory + filename
     f = open(output_filename, 'w')
 
     f.write(soup.prettify(formatter=None))
@@ -80,7 +81,7 @@ def main():
     for filename in file_names:
         if filename[-2:] != 'md':
             continue
-        attach_github_info(filename)
+        attach_github_info(filename, input_dir, output_dir)
 
 if __name__ == '__main__':
     main()

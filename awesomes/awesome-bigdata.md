@@ -258,7 +258,7 @@
    AddThis Hydra
   </a>
   <span>
-   &#9733 333, pushed 3 days ago
+   &#9733 333, pushed 4 days ago
   </span>
   - distributed data processing and storage system originally developed at AddThis.
  </li>
@@ -525,7 +525,7 @@
    Twitter Scalding
   </a>
   <span>
-   &#9733 2496, pushed 4 days ago
+   &#9733 2496, pushed 5 days ago
   </span>
   - Scala library for Map Reduce jobs, built on Cascading.
  </li>
@@ -831,7 +831,7 @@
    ElephantDB
   </a>
   <span>
-   &#9733 491, pushed 675 days ago
+   &#9733 491, pushed 676 days ago
   </span>
   - Distributed database specialized in exporting data from Hadoop.
  </li>
@@ -879,7 +879,7 @@
    Riak
   </a>
   <span>
-   &#9733 2467, pushed 3 days ago
+   &#9733 2467, pushed 4 days ago
   </span>
   - a decentralized datastore.
  </li>
@@ -888,7 +888,7 @@
    Storehaus
   </a>
   <span>
-   &#9733 369, pushed 13 days ago
+   &#9733 369, pushed 14 days ago
   </span>
   - library to work with asynchronous key value stores, by Twitter.
  </li>
@@ -897,7 +897,7 @@
    Tarantool
   </a>
   <span>
-   &#9733 939, pushed 1 days ago
+   &#9733 939, pushed 2 days ago
   </span>
   - an efficient NoSQL database and a Lua application server.
  </li>
@@ -1007,7 +1007,7 @@
    Infovore
   </a>
   <span>
-   &#9733 130, pushed 503 days ago
+   &#9733 130, pushed 504 days ago
   </span>
   - RDF-centric Map/Reduce framework.
  </li>
@@ -1504,7 +1504,7 @@
    Facebook Scribe
   </a>
   <span>
-   &#9733 3236, pushed 706 days ago
+   &#9733 3236, pushed 707 days ago
   </span>
   - streamed log data aggregator.
  </li>
@@ -1555,7 +1555,7 @@
    LinkedIn Kamikaze
   </a>
   <span>
-   &#9733 19, pushed 787 days ago
+   &#9733 19, pushed 788 days ago
   </span>
   - utility package for compressing sorted integer arrays.
  </li>
@@ -1564,7 +1564,7 @@
    LinkedIn White Elephant
   </a>
   <span>
-   &#9733 171, pushed 916 days ago
+   &#9733 171, pushed 917 days ago
   </span>
   - log aggregator and dashboard.
  </li>
@@ -1579,7 +1579,7 @@
    Netflix Suro
   </a>
   <span>
-   &#9733 503, pushed 143 days ago
+   &#9733 503, pushed 144 days ago
   </span>
   - log agregattor like Storm and Samza based on Chukwa.
  </li>
@@ -1606,7 +1606,7 @@
    Skizze
   </a>
   <span>
-   &#9733 689, pushed 0 days ago
+   &#9733 689, pushed 1 days ago
   </span>
   - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
  </li>
@@ -1615,7 +1615,7 @@
    StreamSets Data Collector
   </a>
   <span>
-   &#9733 98, pushed 0 days ago
+   &#9733 98, pushed 1 days ago
   </span>
   - continuous big data ingest infrastructure with a simple to use IDE.
  </li>
@@ -1689,7 +1689,7 @@
    Spotify Luigi
   </a>
   <span>
-   &#9733 4510, pushed 0 days ago
+   &#9733 4510, pushed 1 days ago
   </span>
   - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
  </li>
@@ -1707,7 +1707,7 @@
    Twitter Elephant Bird
   </a>
   <span>
-   &#9733 962, pushed 28 days ago
+   &#9733 962, pushed 29 days ago
   </span>
   - libraries for working with LZOP-compressed data.
  </li>
@@ -1757,7 +1757,7 @@
    Schedoscope
   </a>
   <span>
-   &#9733 36, pushed 3 days ago
+   &#9733 36, pushed 4 days ago
   </span>
   - Scala DSL for agile scheduling of Hadoop jobs.
  </li>
@@ -1766,7 +1766,7 @@
    Sparrow
   </a>
   <span>
-   &#9733 197, pushed 906 days ago
+   &#9733 197, pushed 907 days ago
   </span>
   - scheduling platform.
  </li>
@@ -1775,7 +1775,7 @@
    Airflow
   </a>
   <span>
-   &#9733 2594, pushed 1 days ago
+   &#9733 2594, pushed 2 days ago
   </span>
   -  a platform to programmatically author, schedule and monitor workflows.
  </li>
@@ -1795,7 +1795,7 @@
    brain
   </a>
   <span>
-   &#9733 6952, pushed 185 days ago
+   &#9733 6952, pushed 186 days ago
   </span>
   - Neural networks in JavaScript.
  </li>
@@ -1819,7 +1819,7 @@
    convnetjs
   </a>
   <span>
-   &#9733 4672, pushed 50 days ago
+   &#9733 4672, pushed 51 days ago
   </span>
   - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
  </li>
@@ -1828,7 +1828,7 @@
    Decider
   </a>
   <span>
-   &#9733 322, pushed 2437 days ago
+   &#9733 322, pushed 2438 days ago
   </span>
   - Flexible and Extensible Machine Learning in Ruby.
  </li>
@@ -1897,7 +1897,7 @@
    nupic
   </a>
   <span>
-   &#9733 4079, pushed 4 days ago
+   &#9733 4079, pushed 5 days ago
   </span>
   - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
  </li>
@@ -2038,7 +2038,7 @@
    Apache Slider
   </a>
   <span>
-   &#9733 40, pushed 3 days ago
+   &#9733 40, pushed 4 days ago
   </span>
   - is a YARN application to deploy existing distributed applications on YARN.
  </li>
@@ -2148,7 +2148,7 @@
    Argus
   </a>
   <span>
-   &#9733 144, pushed 6 days ago
+   &#9733 144, pushed 7 days ago
   </span>
   - Time series monitoring and alerting platform.
  </li>
@@ -2184,7 +2184,7 @@
    Hermes
   </a>
   <span>
-   &#9733 175, pushed 2 days ago
+   &#9733 175, pushed 3 days ago
   </span>
   - asynchronous message broker built on top of Kafka.
  </li>
@@ -2244,7 +2244,7 @@
    SnappyData
   </a>
   <span>
-   &#9733 264, pushed 1 days ago
+   &#9733 264, pushed 2 days ago
   </span>
   - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
  </li>
@@ -2253,7 +2253,7 @@
    Snowplow
   </a>
   <span>
-   &#9733 2650, pushed 1 days ago
+   &#9733 2650, pushed 2 days ago
   </span>
   - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
  </li>
@@ -2522,7 +2522,7 @@
    Twitter Fatcache
   </a>
   <span>
-   &#9733 1090, pushed 204 days ago
+   &#9733 1090, pushed 205 days ago
   </span>
   - key/value cache for flash storage.
  </li>
@@ -2681,7 +2681,7 @@
    Airpal
   </a>
   <span>
-   &#9733 1638, pushed 0 days ago
+   &#9733 1638, pushed 1 days ago
   </span>
   - Web UI for PrestoDB.
  </li>
@@ -2756,7 +2756,7 @@
    Cubism
   </a>
   <span>
-   &#9733 4275, pushed 52 days ago
+   &#9733 4275, pushed 53 days ago
   </span>
   - JavaScript library for time series visualization.
  </li>
@@ -2822,7 +2822,7 @@
    Freeboard
   </a>
   <span>
-   &#9733 3054, pushed 6 days ago
+   &#9733 3054, pushed 7 days ago
   </span>
   - pen source real-time dashboard builder for IOT and other web mashups.
  </li>
@@ -2831,7 +2831,7 @@
    Gephi
   </a>
   <span>
-   &#9733 1434, pushed 28 days ago
+   &#9733 1434, pushed 29 days ago
   </span>
   - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
  </li>
@@ -2930,7 +2930,7 @@
    Redash
   </a>
   <span>
-   &#9733 1629, pushed 1 days ago
+   &#9733 1629, pushed 2 days ago
   </span>
   - open-source platform to query and visualize data.
  </li>
@@ -2954,7 +2954,7 @@
    Vega
   </a>
   <span>
-   &#9733 12, pushed 172 days ago
+   &#9733 12, pushed 173 days ago
   </span>
   - a visualization grammar.
  </li>
@@ -3526,7 +3526,7 @@ for Data Analytics at Twitter.
    list
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
   .
  </li>

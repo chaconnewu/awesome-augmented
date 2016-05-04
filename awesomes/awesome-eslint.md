@@ -169,7 +169,7 @@
    Babel
   </a>
   <span>
-   &#9733 864, pushed 2 days ago
+   &#9733 864, pushed 3 days ago
   </span>
   - Use Babel's parser for linting all Babel features
  </li>
@@ -198,7 +198,7 @@
    AVA
   </a>
   <span>
-   &#9733 52, pushed 1 days ago
+   &#9733 52, pushed 2 days ago
   </span>
   - Linting rules for AVA
  </li>
@@ -207,7 +207,7 @@
    Backbone
   </a>
   <span>
-   &#9733 75, pushed 34 days ago
+   &#9733 75, pushed 35 days ago
   </span>
   - Linting rules for Backbone
  </li>
@@ -297,7 +297,7 @@
    React Native
   </a>
   <span>
-   &#9733 55, pushed 36 days ago
+   &#9733 55, pushed 37 days ago
   </span>
   - React Native specific linting rules
  </li>
@@ -311,16 +311,22 @@
    Babel
   </a>
   <span>
-   &#9733 93, pushed 25 days ago
+   &#9733 93, pushed 26 days ago
   </span>
   - Adds replacements for built-in rules to include Babel features
+ </li>
+ <li>
+  <a href="https://github.com/mradionov/eslint-plugin-disable">
+   disable
+  </a>
+  - Disable specified plugins using file path patterns and inline comments
  </li>
  <li>
   <a href="https://github.com/gajus/eslint-plugin-flowtype">
    Flow
   </a>
   <span>
-   &#9733 14, pushed 11 days ago
+   &#9733 14, pushed 12 days ago
   </span>
   - Flow type linting rules
  </li>
@@ -347,7 +353,7 @@
    Markdown
   </a>
   <span>
-   &#9733 39, pushed 8 days ago
+   &#9733 39, pushed 9 days ago
   </span>
   - Linting JavaScript in Markdown
  </li>
@@ -379,7 +385,7 @@
    new-with-error
   </a>
   <span>
-   &#9733 7, pushed 174 days ago
+   &#9733 7, pushed 175 days ago
   </span>
   - Require errors to be thrown using
   <code>
@@ -400,7 +406,7 @@
    no-use-extend-native
   </a>
   <span>
-   &#9733 20, pushed 1 days ago
+   &#9733 20, pushed 2 days ago
   </span>
   - Prevent using extended native objects
  </li>

@@ -633,7 +633,7 @@
    CSGOTimer
   </a>
   <span>
-   &#9733 0, pushed 57 days ago
+   &#9733 0, pushed 58 days ago
   </span>
   - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
  </li>
@@ -642,7 +642,7 @@
    FormulaFuse
   </a>
   <span>
-   &#9733 0, pushed 21 days ago
+   &#9733 0, pushed 22 days ago
   </span>
   - Formula 1 Fuse application.
  </li>
@@ -711,7 +711,7 @@
    Haxe
   </a>
   <span>
-   &#9733 24, pushed 196 days ago
+   &#9733 24, pushed 197 days ago
   </span>
   - Haxe compiler for Fuse tools.
  </li>
@@ -851,7 +851,7 @@
    YouTube
   </a>
   <span>
-   &#9733 0, pushed 15 days ago
+   &#9733 0, pushed 16 days ago
   </span>
   - A YouTube component package.
  </li>
@@ -892,7 +892,7 @@
    Emacs
   </a>
   <span>
-   &#9733 2, pushed 64 days ago
+   &#9733 2, pushed 65 days ago
   </span>
   - Emacs plugin for Fuse.
  </li>

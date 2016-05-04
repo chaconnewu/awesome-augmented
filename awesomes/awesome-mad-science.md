@@ -285,7 +285,7 @@
    vantage.js
   </a>
   <span>
-   &#9733 3124, pushed 21 days ago
+   &#9733 3124, pushed 22 days ago
   </span>
   - CLI + SSH + REPL for Node
  </li>
@@ -308,7 +308,7 @@
    jsemu
   </a>
   <span>
-   &#9733 629, pushed 21 days ago
+   &#9733 629, pushed 22 days ago
   </span>
   - A list of emulators written in the JavaScript
  </li>

@@ -92,7 +92,7 @@
      Elastic honey
     </a>
     <span>
-     &#9733 67, pushed 293 days ago
+     &#9733 67, pushed 294 days ago
     </span>
     - A Simple Elasticsearch Honeypot
    </li>
@@ -101,7 +101,7 @@
      mysql
     </a>
     <span>
-     &#9733 7, pushed 1296 days ago
+     &#9733 7, pushed 1297 days ago
     </span>
     - A mysql honeypot, still very very early stage
    </li>
@@ -210,7 +210,7 @@
      HonnyPotter
     </a>
     <span>
-     &#9733 16, pushed 142 days ago
+     &#9733 16, pushed 143 days ago
     </span>
     - A WordPress login honeypot for collection and analysis of failed login attempts.
    </li>
@@ -246,7 +246,7 @@
      Laravel Application Honeypot
     </a>
     <span>
-     &#9733 227, pushed 92 days ago
+     &#9733 227, pushed 93 days ago
     </span>
     - Honeypot - Simple spam prevention package for Laravel applications
    </li>
@@ -282,7 +282,7 @@
      django-admin-honeypot
     </a>
     <span>
-     &#9733 274, pushed 80 days ago
+     &#9733 274, pushed 81 days ago
     </span>
     - A fake Django admin login screen to notify admins of attempted unauthorized access.
    </li>
@@ -298,7 +298,7 @@
      Kippo
     </a>
     <span>
-     &#9733 628, pushed 194 days ago
+     &#9733 628, pushed 195 days ago
     </span>
     - Medium interaction SSH honeypot
     <ul>
@@ -360,7 +360,7 @@
      Ensnare
     </a>
     <span>
-     &#9733 63, pushed 585 days ago
+     &#9733 63, pushed 586 days ago
     </span>
     - Easy to deploy Ruby honeypot
    </li>
@@ -369,7 +369,7 @@
      RDPy
     </a>
     <span>
-     &#9733 442, pushed 169 days ago
+     &#9733 442, pushed 170 days ago
     </span>
     - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
    </li>
@@ -509,7 +509,7 @@
      NOVA
     </a>
     <span>
-     &#9733 24, pushed 448 days ago
+     &#9733 24, pushed 449 days ago
     </span>
     uses honeypots as detectors, looks like a complete system.
    </li>
@@ -533,7 +533,7 @@
      OFPot
     </a>
     <span>
-     &#9733 2, pushed 1213 days ago
+     &#9733 2, pushed 1214 days ago
     </span>
     - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
    </li>
@@ -542,7 +542,7 @@
      OpenCanary
     </a>
     <span>
-     &#9733 109, pushed 49 days ago
+     &#9733 109, pushed 50 days ago
     </span>
     - Modular and decentralised honeypot
    </li>
@@ -793,7 +793,7 @@
      Honeypot-32764
     </a>
     <span>
-     &#9733 4, pushed 816 days ago
+     &#9733 4, pushed 817 days ago
     </span>
     - Honeypot for router backdoor (TCP 32764)
    </li>
@@ -899,7 +899,7 @@
      pnaf
     </a>
     <span>
-     &#9733 7, pushed 271 days ago
+     &#9733 7, pushed 272 days ago
     </span>
     - Passive Network Audit Framework
    </li>
@@ -1056,7 +1056,7 @@ High-Interaction Honeypots
      DNS Honeypot
     </a>
     <span>
-     &#9733 12, pushed 776 days ago
+     &#9733 12, pushed 777 days ago
     </span>
     - Simple UDP honeypot scripts
    </li>
@@ -1248,7 +1248,7 @@ High-Interaction Honeypots
      Afterglow Cloud
     </a>
     <span>
-     &#9733 14, pushed 1094 days ago
+     &#9733 14, pushed 1095 days ago
     </span>
    </li>
    <li>
@@ -1292,7 +1292,7 @@ High-Interaction Honeypots
      VMCloak
     </a>
     <span>
-     &#9733 104, pushed 6 days ago
+     &#9733 104, pushed 7 days ago
     </span>
    </li>
   </ul>
@@ -1468,7 +1468,7 @@ High-Interaction Honeypots
      Jsunpack-n
     </a>
     <span>
-     &#9733 38, pushed 397 days ago
+     &#9733 38, pushed 398 days ago
     </span>
    </li>
    <li>
@@ -1570,7 +1570,7 @@ High-Interaction Honeypots
      peepdf
     </a>
     <span>
-     &#9733 121, pushed 1 days ago
+     &#9733 121, pushed 2 days ago
     </span>
    </li>
   </ul>
@@ -1680,7 +1680,7 @@ High-Interaction Honeypots
      DShield docker
     </a>
     <span>
-     &#9733 2, pushed 49 days ago
+     &#9733 2, pushed 50 days ago
     </span>
     - Docker container running cowrie with DShield output enabled.
    </li>
@@ -1990,7 +1990,7 @@ High-Interaction Honeypots
      Docker honeynet
     </a>
     <span>
-     &#9733 6, pushed 498 days ago
+     &#9733 6, pushed 499 days ago
     </span>
     Several Honeynet tools set up for Docker containers
    </li>
@@ -2054,7 +2054,7 @@ High-Interaction Honeypots
      mysqlpot
     </a>
     <span>
-     &#9733 7, pushed 1296 days ago
+     &#9733 7, pushed 1297 days ago
     </span>
    </li>
   </ul>
@@ -2310,7 +2310,7 @@ the honeyd daemon and generate configuration files
      honeyalarmg2
     </a>
     <span>
-     &#9733 2, pushed 55 days ago
+     &#9733 2, pushed 56 days ago
     </span>
     - Simplified UI for showing honeypot alarms
    </li>
@@ -2326,7 +2326,7 @@ the honeyd daemon and generate configuration files
      HoneyMap
     </a>
     <span>
-     &#9733 137, pushed 29 days ago
+     &#9733 137, pushed 30 days ago
     </span>
     - Real-time websocket stream of GPS events on a fancy SVG world map
    </li>
@@ -2335,7 +2335,7 @@ the honeyd daemon and generate configuration files
      HoneyMalt
     </a>
     <span>
-     &#9733 9, pushed 504 days ago
+     &#9733 9, pushed 505 days ago
     </span>
     - Maltego tranforms for mapping Honeypot systems
    </li>

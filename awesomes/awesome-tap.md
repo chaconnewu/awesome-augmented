@@ -88,7 +88,7 @@
    tap-simple
   </a>
   <span>
-   &#9733 6, pushed 368 days ago
+   &#9733 6, pushed 369 days ago
   </span>
   - Simple output.
  </li>
@@ -97,7 +97,7 @@
    faucet
   </a>
   <span>
-   &#9733 363, pushed 805 days ago
+   &#9733 363, pushed 806 days ago
   </span>
   - Human-readable summarizer.
  </li>
@@ -134,7 +134,7 @@
    tap-prettify
   </a>
   <span>
-   &#9733 24, pushed 960 days ago
+   &#9733 24, pushed 961 days ago
   </span>
   - Nice readable output with diffing.
  </li>
@@ -179,7 +179,7 @@
    tap-xunit
   </a>
   <span>
-   &#9733 8, pushed 6 days ago
+   &#9733 8, pushed 7 days ago
   </span>
   - xUnit output.
  </li>
@@ -271,7 +271,7 @@
    karma-tap-reporter
   </a>
   <span>
-   &#9733 7, pushed 150 days ago
+   &#9733 7, pushed 151 days ago
   </span>
   - TAP output for Karma.
  </li>
@@ -285,7 +285,7 @@
    Fishtape
   </a>
   <span>
-   &#9733 193, pushed 11 days ago
+   &#9733 193, pushed 12 days ago
   </span>
   - TAP producer and test harness for fish.
  </li>
@@ -394,7 +394,7 @@
    test-anything
   </a>
   <span>
-   &#9733 78, pushed 17 days ago
+   &#9733 78, pushed 18 days ago
   </span>
   - Learn to test anything with TAP through an interactive workshop.
  </li>

@@ -955,7 +955,7 @@
    fuck
   </a>
   <span>
-   &#9733 20095, pushed 2 days ago
+   &#9733 20095, pushed 3 days ago
   </span>
   - A magnificent command line tool which corrects your previously mistyped command (see
   <a href="https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif">
@@ -1004,7 +1004,7 @@
    wavemon
   </a>
   <span>
-   &#9733 60, pushed 120 days ago
+   &#9733 60, pushed 121 days ago
   </span>
   - ncurses-based monitoring application for wireless network devices
  </li>
@@ -1171,7 +1171,7 @@
    Aura
   </a>
   <span>
-   &#9733 502, pushed 6 days ago
+   &#9733 502, pushed 7 days ago
   </span>
   (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
  </li>

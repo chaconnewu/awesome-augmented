@@ -1,172 +1,829 @@
-#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
-
-
-- [General](#general)
-- [Camera Firmware Mods](#camera-firmware-mods)
-- [Libraries](#libraries)
-	- [Canon](#canon)
-	- [GoPro](#gopro)
-	- [Sony](#sony)
-- [Utilities](#utilities)
-- [RAW image developers](#raw-image-developers)
-- [HDR Specific Software](#hdr-specific-software)
-- [Panorama Stitching](#panorama-stitching)
-- [Photo Organizers](#photo-organizers)
-- [EXIF Editors](#exif-editors)
-- [Photo Downloaders](#photo-downloaders)
-- [Camera Tetherers](#camera-tetherers)
-- [Monitor Color Correction](#monitor-color-correction)
-- [Alternative Image Viewers](#alternative-image-viewers)
-- [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#community)
-- [Video](#video)
-	- [General tools](#general-tools)
-	- [Compositing software](#compositing-software)
-	- [Video Libraries](#video-libraries)
-- [Scripts](#scripts)
-	- [Video to Panorama](#video-to-panorama)
-
-## General
-
-- [GIMP](http://www.gimp.org/) - *A swiss knife for image manipulation.*
-- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.*
-- [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
-- [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick.*
-
-## Camera Firmware Mods 
-
-- [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
-- [Magic Lantern](http://magiclantern.fm/) - *a software enhancement that offers increased functionality to Canon DSLR cameras.*
-- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.*
-- [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
-- [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
-
-## Libraries
-
-### Canon
-
-- [OfxCanon](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.*
-- [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.*
-
-### GoPro
-- [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.*
-- [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.*
-- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.*
-- [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.*
-
-### Sony
-
-- [SonyPy](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.*
-
-## Utilities
-
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
-- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
-- [Koken](http://koken.me) - *Content management and web site publishing for photographers*
-
-
-## RAW image developers
-
-- [Darktable](http://www.darktable.org/) - *An open source photography workflow application and RAW developer.*
-- [RawTherapee](http://rawtherapee.com/) - *A cross-platform raw image processing program.*
-- [Photivo](http://photivo.org/photivo/start?redirect=1) - *A multi platform photo processor for RAW and bitmap images with 16 bit precision.*
-- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.*
-- [UFRaw](http://ufraw.sourceforge.net/) - *A utility to read and manipulate raw images from digital cameras.*
-- [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - *Decoding raw digital photos in Linux.*
-- [Lightzone](http://lightzoneproject.org/) - *Open-source digital darkroom software for Windows/Mac/Linux.*
-- [Fotoxx](http://www.kornelix.com/fotoxx.html) - *A Linux program for editing photos and other images.*
-
-## HDR Specific Software
-- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging*
-- [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - *HDR Tone Mapping GUI for Linux.*
-- [PFS Tools](http://pfstools.sourceforge.net/) - *A set of command line programs for reading, writing and manipulating HDR images and video frames.*
-
-## Panorama Stitching
-
-- [Hugin](http://hugin.sourceforge.net/) - *An easy to use cross-platform panoramic imaging toolchain.*
-- [Panorama Tools](http://www.panoramatools.com/) - *A framework for re-projecting and blending multiple source images into immersive panoramics of many types.*
-
-## Photo Organizers
-
-- [Shotwell](http://yorba.org/shotwell/) - *A photo manager for GNOME 3*
-- [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
-- [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
-
-## EXIF Editors
-
-- [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - *A program for reading, writing, and manipulating image, audio, and video metadata.*
-
-## Photo Downloaders
-
-- [Rapid Photo Downloader](http://www.damonlynch.net/rapid/index.html) - *A photo and video downloader for the Linux Desktop.*
-
-## Camera Tetherers
-
-- [Entangle](http://entangle-photo.org/) - *Entangle provides a GUI for taking photographs with a digital camera completely controlled from the computer.*
-
-## Monitor Color Correction
-
-- [Hughski](http://www.hughski.com/index.html)
-- [DisplayCal](http://displaycal.net/) - *Open source display calibration and characterization.*
-
-## Alternative Image Viewers
-
-- [Geeqie](http://geeqie.sourceforge.net/) - *An image viewer and image organiser program for Unix-like operating systems*
-- [FEH](http://feh.finalrewind.org/) - *An X11 image viewer.*
-
-## Useful GIMP Mods or Scripts
-
-- [GIMP Plugin Registry](http://registry.gimp.org/)
-- [Cinepaint](http://sourceforge.net/projects/cinepaint/files/CinePaint/) - *A program for painting and retouching bitmap frames of films based on GIMP.*
-
-## Communities
-- [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
-- [/r/FOSSPhotography](http://reddit.com/r/fossphotography) - *Community about Free open source software for Photography on reddit.*
-
-
-## Video 
-
-### General tools
-
-- [FFmpeg](https://www.ffmpeg.org/) - *A complete, cross-platform solution to 
-record, convert and stream audio and video.*
-- [Virtualdub](http://www.virtualdub.org/) - *A free video tool for basic editing and encoding.*
-
-### Compositing software
-
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.*
-- [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.* 
-- [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.*
-
-### Video Libraries
-
-- [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
-- [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.*
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*.
-
-## Scripts
-
-### Video to Panorama 
-
-Using [FFmpeg](https://www.ffmpeg.org/) and [Hugin](http://hugin.sourceforge.net/).
-
-```bash
-#!/bin/bash
-mkdir -p /tmp/images
+<h1>
+ Awesome-OpenSourcePhotography
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out
+ <a href="https://github.com/sindresorhus/awesome">
+  awesome
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  <a href="#general">
+   General
+  </a>
+ </li>
+ <li>
+  <a href="#camera-firmware-mods">
+   Camera Firmware Mods
+  </a>
+ </li>
+ <li>
+  <a href="#libraries">
+   Libraries
+  </a>
+  <ul>
+   <li>
+    <a href="#canon">
+     Canon
+    </a>
+   </li>
+   <li>
+    <a href="#gopro">
+     GoPro
+    </a>
+   </li>
+   <li>
+    <a href="#sony">
+     Sony
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#utilities">
+   Utilities
+  </a>
+ </li>
+ <li>
+  <a href="#raw-image-developers">
+   RAW image developers
+  </a>
+ </li>
+ <li>
+  <a href="#hdr-specific-software">
+   HDR Specific Software
+  </a>
+ </li>
+ <li>
+  <a href="#panorama-stitching">
+   Panorama Stitching
+  </a>
+ </li>
+ <li>
+  <a href="#photo-organizers">
+   Photo Organizers
+  </a>
+ </li>
+ <li>
+  <a href="#exif-editors">
+   EXIF Editors
+  </a>
+ </li>
+ <li>
+  <a href="#photo-downloaders">
+   Photo Downloaders
+  </a>
+ </li>
+ <li>
+  <a href="#camera-tetherers">
+   Camera Tetherers
+  </a>
+ </li>
+ <li>
+  <a href="#monitor-color-correction">
+   Monitor Color Correction
+  </a>
+ </li>
+ <li>
+  <a href="#alternative-image-viewers">
+   Alternative Image Viewers
+  </a>
+ </li>
+ <li>
+  <a href="#useful-gimp-mods-or-scripts">
+   Useful GIMP Mods or Scripts
+  </a>
+ </li>
+ <li>
+  <a href="#community">
+   Communities
+  </a>
+ </li>
+ <li>
+  <a href="#video">
+   Video
+  </a>
+  <ul>
+   <li>
+    <a href="#general-tools">
+     General tools
+    </a>
+   </li>
+   <li>
+    <a href="#compositing-software">
+     Compositing software
+    </a>
+   </li>
+   <li>
+    <a href="#video-libraries">
+     Video Libraries
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#scripts">
+   Scripts
+  </a>
+  <ul>
+   <li>
+    <a href="#video-to-panorama">
+     Video to Panorama
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
+ General
+</h2>
+<ul>
+ <li>
+  <a href="http://www.gimp.org/">
+   GIMP
+  </a>
+  -
+  <em>
+   A swiss knife for image manipulation.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/aferrero2707/PhotoFlow">
+   PhotoFlow
+  </a>
+  -
+  <em>
+   A non-destructive photo retouching program including RAW image development.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 72, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.imagemagick.org/">
+   ImageMagick
+  </a>
+  -
+  <em>
+   A suite of command-line utilities for modifying and working with images.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.graphicsmagick.org/">
+   GraphicsMagick
+  </a>
+  -
+  <em>
+   GraphicsMagick is usually faster than ImageMagick.
+  </em>
+ </li>
+</ul>
+<h2>
+ Camera Firmware Mods
+</h2>
+<ul>
+ <li>
+  <a href="http://chdk.wikia.com/wiki/CHDK">
+   CHDK
+  </a>
+  -
+  <em>
+   Canon Hack Development Kit, for Canon cameras.
+  </em>
+ </li>
+ <li>
+  <a href="http://magiclantern.fm/">
+   Magic Lantern
+  </a>
+  -
+  <em>
+   a software enhancement that offers increased functionality to Canon DSLR cameras.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/KonradIT/autoexechack">
+   Autoexec Hack
+  </a>
+  -
+  <em>
+   Compilation of hacks for GoPro Cameras.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 288, pushed 90 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.gh1-hack.info/">
+   PTool Firmware Manipulation Tool
+  </a>
+  -
+  <em>
+   change the video recording parameters of Panasonic's cameras.
+  </em>
+ </li>
+ <li>
+  <a href="https://nikonhacker.com/wiki/Main_Page">
+   Nikon Hacker
+  </a>
+  -
+  <em>
+   Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.
+  </em>
+ </li>
+</ul>
+<h2>
+ Libraries
+</h2>
+<h3>
+ Canon
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/roxlu/ofxCanon">
+   OfxCanon
+  </a>
+  -
+  <em>
+   OpenFrameworks addon for the Canon EDSK.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 36, pushed 1642 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kritzikratzi/edsdk4j">
+   Edsdk4j
+  </a>
+  -
+  <em>
+   Canon SDK for Java.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 39, pushed 326 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ GoPro
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/kschzt/gopro">
+   GoPro
+  </a>
+  -
+  <em>
+   API for controlling GoPro Hero 3 Camera from Node.js.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 114, pushed 1078 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/DenisCarriere/gopro">
+   GoPro
+  </a>
+  -
+  <em>
+   GoPro Hero 4 - Python API.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 41, pushed 382 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joshvillbrandt/goprohero">
+   GoPro
+  </a>
+  -
+  <em>
+   a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 170, pushed 475 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/r1pper/GoPro.Hero">
+   GoPro.Hero
+  </a>
+  -
+  <em>
+   a lightweight c# library to access and control GoPro HERO.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 37, pushed 782 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Sony
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/storborg/sonypy">
+   SonyPy
+  </a>
+  -
+  <em>
+   Python module for Sony Camera Remote API.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 6, pushed 862 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Utilities
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/ThibaudM/timelapse-sony">
+   Timelapse-sony
+  </a>
+  -
+  <em>
+   Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 38, pushed 35 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/crazymaik/remoteyourcam-usb">
+   Remoteyourcam-usb
+  </a>
+  -
+  <em>
+   Control your Canon or Nikon DSLR camera from your Android device through USB.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 44, pushed 1045 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://koken.me">
+   Koken
+  </a>
+  -
+  <em>
+   Content management and web site publishing for photographers
+  </em>
+ </li>
+</ul>
+<h2>
+ RAW image developers
+</h2>
+<ul>
+ <li>
+  <a href="http://www.darktable.org/">
+   Darktable
+  </a>
+  -
+  <em>
+   An open source photography workflow application and RAW developer.
+  </em>
+ </li>
+ <li>
+  <a href="http://rawtherapee.com/">
+   RawTherapee
+  </a>
+  -
+  <em>
+   A cross-platform raw image processing program.
+  </em>
+ </li>
+ <li>
+  <a href="http://photivo.org/photivo/start?redirect=1">
+   Photivo
+  </a>
+  -
+  <em>
+   A multi platform photo processor for RAW and bitmap images with 16 bit precision.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/rawstudio/rawstudio">
+   Raw Studio
+  </a>
+  -
+  <em>
+   Read and manipulate RAW images from digital cameras.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 23, pushed 66 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://ufraw.sourceforge.net/">
+   UFRaw
+  </a>
+  -
+  <em>
+   A utility to read and manipulate raw images from digital cameras.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.cybercom.net/~dcoffin/dcraw/">
+   DCRaw
+  </a>
+  -
+  <em>
+   Decoding raw digital photos in Linux.
+  </em>
+ </li>
+ <li>
+  <a href="http://lightzoneproject.org/">
+   Lightzone
+  </a>
+  -
+  <em>
+   Open-source digital darkroom software for Windows/Mac/Linux.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.kornelix.com/fotoxx.html">
+   Fotoxx
+  </a>
+  -
+  <em>
+   A Linux program for editing photos and other images.
+  </em>
+ </li>
+</ul>
+<h2>
+ HDR Specific Software
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/LuminanceHDR/LuminanceHDR">
+   Luminance
+  </a>
+  -
+  <em>
+   A complete workflow for HDR imaging
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 133, pushed 42 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html">
+   QPSFTMO
+  </a>
+  -
+  <em>
+   HDR Tone Mapping GUI for Linux.
+  </em>
+ </li>
+ <li>
+  <a href="http://pfstools.sourceforge.net/">
+   PFS Tools
+  </a>
+  -
+  <em>
+   A set of command line programs for reading, writing and manipulating HDR images and video frames.
+  </em>
+ </li>
+</ul>
+<h2>
+ Panorama Stitching
+</h2>
+<ul>
+ <li>
+  <a href="http://hugin.sourceforge.net/">
+   Hugin
+  </a>
+  -
+  <em>
+   An easy to use cross-platform panoramic imaging toolchain.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.panoramatools.com/">
+   Panorama Tools
+  </a>
+  -
+  <em>
+   A framework for re-projecting and blending multiple source images into immersive panoramics of many types.
+  </em>
+ </li>
+</ul>
+<h2>
+ Photo Organizers
+</h2>
+<ul>
+ <li>
+  <a href="http://yorba.org/shotwell/">
+   Shotwell
+  </a>
+  -
+  <em>
+   A photo manager for GNOME 3
+  </em>
+ </li>
+ <li>
+  <a href="http://www.digikam.org/drupal/about?q=about/overview">
+   DigiKam/ShowFoto
+  </a>
+  -
+  <em>
+   Open Source Photo manager for KDE/Gnome desktop.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.gphoto.org/">
+   GPhoto
+  </a>
+  -
+  <em>
+   A program and library framework that lets users download pictures from their digital cameras.
+  </em>
+ </li>
+</ul>
+<h2>
+ EXIF Editors
+</h2>
+<ul>
+ <li>
+  <a href="http://owl.phy.queensu.ca/~phil/exiftool/">
+   ExifTool
+  </a>
+  -
+  <em>
+   A program for reading, writing, and manipulating image, audio, and video metadata.
+  </em>
+ </li>
+</ul>
+<h2>
+ Photo Downloaders
+</h2>
+<ul>
+ <li>
+  <a href="http://www.damonlynch.net/rapid/index.html">
+   Rapid Photo Downloader
+  </a>
+  -
+  <em>
+   A photo and video downloader for the Linux Desktop.
+  </em>
+ </li>
+</ul>
+<h2>
+ Camera Tetherers
+</h2>
+<ul>
+ <li>
+  <a href="http://entangle-photo.org/">
+   Entangle
+  </a>
+  -
+  <em>
+   Entangle provides a GUI for taking photographs with a digital camera completely controlled from the computer.
+  </em>
+ </li>
+</ul>
+<h2>
+ Monitor Color Correction
+</h2>
+<ul>
+ <li>
+  <a href="http://www.hughski.com/index.html">
+   Hughski
+  </a>
+ </li>
+ <li>
+  <a href="http://displaycal.net/">
+   DisplayCal
+  </a>
+  -
+  <em>
+   Open source display calibration and characterization.
+  </em>
+ </li>
+</ul>
+<h2>
+ Alternative Image Viewers
+</h2>
+<ul>
+ <li>
+  <a href="http://geeqie.sourceforge.net/">
+   Geeqie
+  </a>
+  -
+  <em>
+   An image viewer and image organiser program for Unix-like operating systems
+  </em>
+ </li>
+ <li>
+  <a href="http://feh.finalrewind.org/">
+   FEH
+  </a>
+  -
+  <em>
+   An X11 image viewer.
+  </em>
+ </li>
+</ul>
+<h2>
+ Useful GIMP Mods or Scripts
+</h2>
+<ul>
+ <li>
+  <a href="http://registry.gimp.org/">
+   GIMP Plugin Registry
+  </a>
+ </li>
+ <li>
+  <a href="http://sourceforge.net/projects/cinepaint/files/CinePaint/">
+   Cinepaint
+  </a>
+  -
+  <em>
+   A program for painting and retouching bitmap frames of films based on GIMP.
+  </em>
+ </li>
+</ul>
+<h2>
+ Communities
+</h2>
+<ul>
+ <li>
+  <a href="https://www.flickr.com/groups/83823859@N00/">
+   Flickr Open Source Photography Group
+  </a>
+ </li>
+ <li>
+  <a href="http://reddit.com/r/fossphotography">
+   /r/FOSSPhotography
+  </a>
+  -
+  <em>
+   Community about Free open source software for Photography on reddit.
+  </em>
+ </li>
+</ul>
+<h2>
+ Video
+</h2>
+<h3>
+ General tools
+</h3>
+<ul>
+ <li>
+  <a href="https://www.ffmpeg.org/">
+   FFmpeg
+  </a>
+  -
+  <em>
+   A complete, cross-platform solution to 
+record, convert and stream audio and video.
+  </em>
+ </li>
+ <li>
+  <a href="http://www.virtualdub.org/">
+   Virtualdub
+  </a>
+  -
+  <em>
+   A free video tool for basic editing and encoding.
+  </em>
+ </li>
+</ul>
+<h3>
+ Compositing software
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/MrKepzie/Natron">
+   Natron
+  </a>
+  -
+  <em>
+   A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 570, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/buttleofx/ButtleOFX">
+   ButtleOFX
+  </a>
+  -
+  <em>
+   A simple, user-friendly and open source compositing software.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 57, pushed 94 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://www.blender.org/">
+   Blender
+  </a>
+  -
+  <em>
+   This open source 3D graphics has tools for video editing.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/mltframework/shotcut">
+   Shotcut
+  </a>
+  -
+  <em>
+   A free, open source, cross-platform video editor.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 825, pushed 1 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Video Libraries
+</h3>
+<ul>
+ <li>
+  <a href="http://openfx.sourceforge.net/">
+   OpenFX
+  </a>
+  -
+  <em>
+   An Open Plug-in API for 2D Visual Effects.
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/tuttleofx/TuttleOFX">
+   TuttleOFX
+  </a>
+  -
+  <em>
+   An image processing framework based on OpenFX plugin format.
+  </em>
+  <sup>
+   18 GitHub links in total 79 links, &#9733 94, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/georgmartius/vid.stab">
+   Vid.stab
+  </a>
+  -
+  <em>
+   A video stabilization library which can be plugged-in with Ffmpeg and Transcode
+  </em>
+  .
+  <sup>
+   18 GitHub links in total 79 links, &#9733 131, pushed 125 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Scripts
+</h2>
+<h3>
+ Video to Panorama
+</h3>
+<p>
+ Using
+ <a href="https://www.ffmpeg.org/">
+  FFmpeg
+ </a>
+ and
+ <a href="http://hugin.sourceforge.net/">
+  Hugin
+ </a>
+ .
+</p>
+<p>
+ ```bash
+</p>
+<h1>
+ !/bin/bash
+</h1>
+<p>
+ mkdir -p /tmp/images
 ffmpeg -i video.avi -r 5 -qscale 3  tmp/images/image-%3d.jpg
-pto_gen -o tmp/hugin.pto tmp/images/*.jpg
+pto
+ <em>
+  gen -o tmp/hugin.pto tmp/images/*.jpg
 cpfind --multirow -o tmp/hugin.pto tmp/hugin.pto
 cpclean -o tmp/hugin.pto tmp/hugin.pto
 linefind -o tmp/hugin.pto tmp/hugin.pto
 autooptimiser -a -l -s -m -o tmp/hugin.pto tmp/hugin.pto
-pano_modify -o tmp/hugin.pto --center --fov=AUTO --canvas=70% tmp/hugin.pto
+pano
+ </em>
+ modify -o tmp/hugin.pto --center --fov=AUTO --canvas=70% tmp/hugin.pto
 pto2mk -o tmp/hugin.mk -p tmp/output tmp/hugin.pto
 make -f tmp/hugin.mk all
 ```
-
-![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
-
-
+</p>
+<p>
+ <img alt="license" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"/>
+</p>

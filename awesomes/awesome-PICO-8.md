@@ -244,7 +244,7 @@
    picotool
   </a>
   <span>
-   &#9733 26, pushed 171 days ago
+   &#9733 26, pushed 172 days ago
   </span>
   -  Tools and Python libraries for manipulating Pico-8 game files.
  </li>

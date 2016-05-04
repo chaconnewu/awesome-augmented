@@ -655,7 +655,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
    Framer.js
   </a>
   <span>
-   &#9733 3875, pushed 1 days ago
+   &#9733 3875, pushed 2 days ago
   </span>
   – prototyping tool for designing UI, interaction and animation;
  </li>
@@ -694,7 +694,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
    Gravitas.js
   </a>
   <span>
-   &#9733 105, pushed 338 days ago
+   &#9733 105, pushed 339 days ago
   </span>
   - Super fast physics simulations for JavaScript.
  </li>

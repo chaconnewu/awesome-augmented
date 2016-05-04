@@ -1543,6 +1543,9 @@
   Federico Tomassetti http://tomassetti.me/
  </li>
  <li>
+  Filippo Valsorda https://blog.filippo.io/
+ </li>
+ <li>
   Freek Van der Herten https://murze.be/
  </li>
 </ul>

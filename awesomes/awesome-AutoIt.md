@@ -2174,7 +2174,7 @@ Printer.au3 - Printing RichEdit in the background.
    awesome-awesome
   </a>
   <span>
-   &#9733 537, pushed 117 days ago
+   &#9733 537, pushed 118 days ago
   </span>
   by @emijrp
  </li>
@@ -2210,7 +2210,7 @@ Printer.au3 - Printing RichEdit in the background.
    awesome-awesomes
   </a>
   <span>
-   &#9733 384, pushed 12 days ago
+   &#9733 384, pushed 13 days ago
   </span>
   by @fleveque
  </li>
@@ -2228,7 +2228,7 @@ Printer.au3 - Printing RichEdit in the background.
    lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
   by @jnv
  </li>

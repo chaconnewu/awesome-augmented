@@ -219,7 +219,7 @@
    Widdershin/tricycle ★19
   </a>
   <span>
-   &#9733 19, pushed 0 days ago
+   &#9733 19, pushed 1 days ago
   </span>
   - Scratchpad for trying out Cycle.js, relies on Ace Editor with Cycle
  </li>
@@ -237,7 +237,7 @@
    erykpiast/cyclejs-examples ★7
   </a>
   <span>
-   &#9733 8, pushed 327 days ago
+   &#9733 8, pushed 328 days ago
   </span>
   - Example web applications built with Cycle.js.
  </li>
@@ -264,7 +264,7 @@
    ivan-kleshnin/tetris-cyclejs ★7
   </a>
   <span>
-   &#9733 8, pushed 144 days ago
+   &#9733 8, pushed 145 days ago
   </span>
   - Tetris game implemented in CycleJS, ES6
  </li>
@@ -285,7 +285,7 @@ http://oleg.fi/graafi/
    </strong>
   </a>
   <span>
-   &#9733 1052, pushed 33 days ago
+   &#9733 1052, pushed 34 days ago
   </span>
   - Interactive diagrams of Rx Observables http://rxmarbles.com/
  </li>
@@ -294,7 +294,7 @@ http://oleg.fi/graafi/
    MarcCloud/magic-cart ★6
   </a>
   <span>
-   &#9733 6, pushed 198 days ago
+   &#9733 6, pushed 199 days ago
   </span>
   - Simple shopping cart of a magic creatures store.
  </li>
@@ -303,7 +303,7 @@ http://oleg.fi/graafi/
    foxdonut/cycle-todolist ★9
   </a>
   <span>
-   &#9733 9, pushed 185 days ago
+   &#9733 9, pushed 186 days ago
   </span>
   - demonstrates a simple Cycle.js TODO list app with CRUD.
  </li>
@@ -345,7 +345,7 @@ http://oleg.fi/graafi/
    kibin/cycle-example-who-to-follow ★16
   </a>
   <span>
-   &#9733 16, pushed 133 days ago
+   &#9733 16, pushed 134 days ago
   </span>
   - Small example partly implements twitter’s who to follow box using github api.
  </li>
@@ -363,7 +363,7 @@ http://oleg.fi/graafi/
    bahmutov/draw-cycle ★81
   </a>
   <span>
-   &#9733 86, pushed 97 days ago
+   &#9733 86, pushed 98 days ago
   </span>
   - Interactive visualization of counter application showing the data flow inside a MVI component
   <a href="https://glebbahmutov.com/draw-cycle/">
@@ -410,7 +410,7 @@ http://oleg.fi/graafi/
    cyclejs/cycle-notification-driver ★15
   </a>
   <span>
-   &#9733 16, pushed 32 days ago
+   &#9733 16, pushed 33 days ago
   </span>
   - A Cycle.js Driver for showing and responding to HTML5 Notifications.
  </li>
@@ -470,7 +470,7 @@ http://oleg.fi/graafi/
    cyclejs/cycle-history ★58
   </a>
   <span>
-   &#9733 60, pushed 2 days ago
+   &#9733 60, pushed 3 days ago
   </span>
   - The standard Cycle driver for dealing with the
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/History_API">
@@ -575,7 +575,7 @@ http://oleg.fi/graafi/
    whitecolor/cycle-async-driver ★7
   </a>
   <span>
-   &#9733 7, pushed 3 days ago
+   &#9733 7, pushed 4 days ago
   </span>
   - Factory for creating async request/response cycle.js drivers
  </li>
@@ -654,7 +654,7 @@ http://oleg.fi/graafi/
    </strong>
   </a>
   <span>
-   &#9733 241, pushed 3 days ago
+   &#9733 241, pushed 4 days ago
   </span>
   - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
  </li>
@@ -674,7 +674,7 @@ http://oleg.fi/graafi/
    madcapjake/earlhyperscript ★2
   </a>
   <span>
-   &#9733 2, pushed 279 days ago
+   &#9733 2, pushed 280 days ago
   </span>
   - A helper function and macro for using Earl Grey's
   <a href="https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax">
@@ -692,7 +692,7 @@ http://oleg.fi/graafi/
    andreloureiro/cyclejs-starter ★27
   </a>
   <span>
-   &#9733 27, pushed 26 days ago
+   &#9733 27, pushed 27 days ago
   </span>
   - Cycle.js starter template with ES6 and Livereload.
  </li>
@@ -701,7 +701,7 @@ http://oleg.fi/graafi/
    Frikki/generator-cyclejs ★1
   </a>
   <span>
-   &#9733 1, pushed 232 days ago
+   &#9733 1, pushed 233 days ago
   </span>
   - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
  </li>
@@ -728,7 +728,7 @@ http://oleg.fi/graafi/
    cmdv/cycle-webpack-boilerplate ★63
   </a>
   <span>
-   &#9733 65, pushed 10 days ago
+   &#9733 65, pushed 11 days ago
   </span>
   - Cycle app with routing, state handling and tests.
  </li>
@@ -737,7 +737,7 @@ http://oleg.fi/graafi/
    Widdershin/cycle-hot-reloading-example ★25
   </a>
   <span>
-   &#9733 25, pushed 44 days ago
+   &#9733 25, pushed 45 days ago
   </span>
   - A Cycle.js starter project with hot reloading using browserify-hmr
  </li>
@@ -751,7 +751,7 @@ http://oleg.fi/graafi/
    erykpiast/cyclejs-mock ★16
   </a>
   <span>
-   &#9733 16, pushed 349 days ago
+   &#9733 16, pushed 350 days ago
   </span>
   - Utility for testing applications based on CycleJS framework.
  </li>
@@ -785,7 +785,7 @@ http://oleg.fi/graafi/
    erykpiast/autocompleted-select ★9
   </a>
   <span>
-   &#9733 9, pushed 357 days ago
+   &#9733 9, pushed 358 days ago
   </span>
   - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
  </li>

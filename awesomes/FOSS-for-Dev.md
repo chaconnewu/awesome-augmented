@@ -110,7 +110,7 @@
    GitLab
   </a>
   <span>
-   &#9733 17745, pushed 5 days ago
+   &#9733 17745, pushed 6 days ago
   </span>
   - Version control for your server
   <a href="https://github.party/item?id=91">
@@ -139,7 +139,7 @@
    CodeBox
   </a>
   <span>
-   &#9733 3384, pushed 292 days ago
+   &#9733 3384, pushed 293 days ago
   </span>
   - Open source cloud & desktop IDE
   <a href="https://github.party/item?id=103">
@@ -168,7 +168,7 @@
    ssh chat
   </a>
   <span>
-   &#9733 1920, pushed 79 days ago
+   &#9733 1920, pushed 80 days ago
   </span>
   - Chat over SSH
   <a href="https://github.party/item?id=75">
@@ -238,7 +238,7 @@
    Jenkins
   </a>
   <span>
-   &#9733 5715, pushed 1 days ago
+   &#9733 5715, pushed 2 days ago
   </span>
   - open-source continuous integration server
   <a href="https://github.party/item?id=101">
@@ -305,7 +305,7 @@
    Bugzilla
   </a>
   <span>
-   &#9733 54, pushed 4 days ago
+   &#9733 54, pushed 5 days ago
   </span>
   - web-based bug-tracking software
   <a href="https://github.party/item?id=104">
@@ -317,7 +317,7 @@
    Mantis
   </a>
   <span>
-   &#9733 586, pushed 1 days ago
+   &#9733 586, pushed 2 days ago
   </span>
   - issue tracker that provides a delicate balance between simplicity and power
   <a href="https://github.party/item?id=106">
@@ -334,7 +334,7 @@
    Redmine
   </a>
   <span>
-   &#9733 1865, pushed 8 days ago
+   &#9733 1865, pushed 9 days ago
   </span>
   - a flexible project management web application written using Ruby on Rails
   <a href="https://github.party/item?id=105">
@@ -346,7 +346,7 @@
    Phabricator
   </a>
   <span>
-   &#9733 6872, pushed 1 days ago
+   &#9733 6872, pushed 2 days ago
   </span>
   - an open source collection of web applications which help software companies build better software
   <a href="https://github.party/item?id=109">
@@ -372,7 +372,7 @@
    OpenShift
   </a>
   <span>
-   &#9733 1265, pushed 1 days ago
+   &#9733 1265, pushed 2 days ago
   </span>
   - build, deploy, and manage your applications with Docker and Kubernetes
   <a href="https://github.party/item?id=100">

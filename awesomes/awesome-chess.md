@@ -127,7 +127,7 @@
    fen by ucarion
   </a>
   <span>
-   &#9733 0, pushed 271 days ago
+   &#9733 0, pushed 272 days ago
   </span>
   - A Rust Forsyth-Edwards notation parser with proper error handling.
  </li>
@@ -164,7 +164,7 @@
    Chessbot
   </a>
   <span>
-   &#9733 0, pushed 1124 days ago
+   &#9733 0, pushed 1125 days ago
   </span>
   - Bot written in Java.
  </li>
@@ -290,7 +290,7 @@
    Chessboard-js
   </a>
   <span>
-   &#9733 6, pushed 739 days ago
+   &#9733 6, pushed 740 days ago
   </span>
   - A responsive mobile-first javascript chessboard library.
  </li>

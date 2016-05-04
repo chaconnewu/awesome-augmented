@@ -104,7 +104,7 @@
    Meteor
   </a>
   <span>
-   &#9733 70, pushed 1033 days ago
+   &#9733 70, pushed 1034 days ago
   </span>
   - A Knockout-to-Meteor bridge
  </li>
@@ -136,7 +136,7 @@
    Sortable
   </a>
   <span>
-   &#9733 464, pushed 7 days ago
+   &#9733 464, pushed 8 days ago
   </span>
   - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
  </li>
@@ -145,7 +145,7 @@
    Grid
   </a>
   <span>
-   &#9733 282, pushed 318 days ago
+   &#9733 282, pushed 319 days ago
   </span>
   - A data grid plugin for Knockout
  </li>
@@ -217,7 +217,7 @@
    Model
   </a>
   <span>
-   &#9733 61, pushed 1348 days ago
+   &#9733 61, pushed 1349 days ago
   </span>
   - A base model for Knockout.js entities
  </li>
@@ -226,7 +226,7 @@
    Namespaces
   </a>
   <span>
-   &#9733 61, pushed 1806 days ago
+   &#9733 61, pushed 1807 days ago
   </span>
   - Namespaces for Knockout.js
  </li>
@@ -258,7 +258,7 @@
    Punches
   </a>
   <span>
-   &#9733 225, pushed 110 days ago
+   &#9733 225, pushed 111 days ago
   </span>
   - Collection of enhanced binding syntaxes
  </li>
@@ -276,7 +276,7 @@
    Repeat
   </a>
   <span>
-   &#9733 120, pushed 355 days ago
+   &#9733 120, pushed 356 days ago
   </span>
   - The repeat binding can replace foreach in many instances and is faster and simpler
  </li>
@@ -299,7 +299,7 @@
    Cart
   </a>
   <span>
-   &#9733 87, pushed 1132 days ago
+   &#9733 87, pushed 1133 days ago
   </span>
   - Simple browser-based shopping cart that uses local storage
  </li>
@@ -313,7 +313,7 @@
    WebSockets
   </a>
   <span>
-   &#9733 79, pushed 2021 days ago
+   &#9733 79, pushed 2022 days ago
   </span>
   - Example of real time collaborative web app using WebSockets and Knockout
  </li>

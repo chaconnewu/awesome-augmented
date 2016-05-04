@@ -152,12 +152,6 @@
   :: Software for cross-platform hardware, Robotics, and other API libraries.
  </li>
  <li>
-  <a href="https://github.com/svaksha/Julia.jl/blob/master/HPC.md">
-   HPC.md
-  </a>
-  :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
- </li>
- <li>
   <a href="https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md">
    i18n-L10n.md
   </a>
@@ -226,6 +220,12 @@
    Statistics.md
   </a>
   :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
+ </li>
+ <li>
+  <a href="https://github.com/svaksha/Julia.jl/blob/master/Super-Computing.md">
+   Super-Computing.md
+  </a>
+  :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
  </li>
  <li>
   <a href="https://github.com/svaksha/Julia.jl/blob/master/Utilities.md">

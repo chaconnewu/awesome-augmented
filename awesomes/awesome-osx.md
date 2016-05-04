@@ -295,7 +295,7 @@
    ChitChat
   </a>
   <span>
-   &#9733 1852, pushed 40 days ago
+   &#9733 1852, pushed 41 days ago
   </span>
   - A native Mac app wrapper for WhatsApp Web.
   <a href="https://github.com/stonesam92/ChitChat">
@@ -629,7 +629,7 @@
    WWDC
   </a>
   <span>
-   &#9733 3127, pushed 29 days ago
+   &#9733 3127, pushed 30 days ago
   </span>
   - The WWDC app.
   <a href="https://github.com/insidegui/WWDC">
@@ -814,7 +814,7 @@
    Quicklook-Plugins
   </a>
   <span>
-   &#9733 5950, pushed 3 days ago
+   &#9733 5950, pushed 4 days ago
   </span>
   - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
  </li>
@@ -1122,7 +1122,7 @@
    mac2imgur
   </a>
   <span>
-   &#9733 400, pushed 151 days ago
+   &#9733 400, pushed 152 days ago
   </span>
   - Upload images and screenshots to Imgur.
   <a href="https://github.com/mileswd/mac2imgur">
@@ -1441,7 +1441,7 @@
    Mackup
   </a>
   <span>
-   &#9733 4628, pushed 4 days ago
+   &#9733 4628, pushed 5 days ago
   </span>
   - Keep your application settings in sync.
   <a href="https://github.com/lra/mackup">
@@ -1471,7 +1471,7 @@
    Menubar Colors
   </a>
   <span>
-   &#9733 28, pushed 233 days ago
+   &#9733 28, pushed 234 days ago
   </span>
   - Convenient access to the system color panel.
   <a href="https://github.com/nvzqz/Menubar-Colors">
@@ -1762,7 +1762,7 @@
    Aerial
   </a>
   <span>
-   &#9733 5651, pushed 19 days ago
+   &#9733 5651, pushed 20 days ago
   </span>
   - Apple TV Aerial Screensaver for Mac.
   <a href="https://github.com/JohnCoates/Aerial">
@@ -1911,7 +1911,7 @@
    Glances
   </a>
   <span>
-   &#9733 4968, pushed 1 days ago
+   &#9733 4968, pushed 2 days ago
   </span>
   - System monitoring tool that runs in terminal.
   <a href="https://github.com/nicolargo/glances">
@@ -2017,7 +2017,7 @@
    OSXAuditor
   </a>
   <span>
-   &#9733 2578, pushed 32 days ago
+   &#9733 2578, pushed 33 days ago
   </span>
   - A free computer forensics tool.
   <a href="https://github.com/jipegit/OSXAuditor">
@@ -2029,7 +2029,7 @@
    santa
   </a>
   <span>
-   &#9733 547, pushed 21 days ago
+   &#9733 547, pushed 22 days ago
   </span>
   - A binary whitelisting/blacklisting system.
   <a href="https://github.com/google/santa">

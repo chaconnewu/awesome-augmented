@@ -876,7 +876,7 @@
     Hibernate statistics
    </a>
    <span>
-    &#9733 0, pushed 1232 days ago
+    &#9733 0, pushed 1233 days ago
    </span>
   </strong>
   <a href="https://github.com/francisdb/play-hibernate-statistics">
@@ -1582,7 +1582,7 @@
     Basic bootstrap scaffolding
    </a>
    <span>
-    &#9733 12, pushed 990 days ago
+    &#9733 12, pushed 991 days ago
    </span>
   </strong>
   <a href="https://github.com/phaus/play-bootstrap">

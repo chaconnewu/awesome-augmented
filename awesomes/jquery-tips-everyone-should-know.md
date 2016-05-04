@@ -797,6 +797,11 @@ lis = $('li', ul).get();
   </a>
  </li>
  <li>
+  <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU">
+   русский
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN">
    简体中文
   </a>

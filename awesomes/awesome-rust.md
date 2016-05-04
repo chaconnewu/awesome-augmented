@@ -275,7 +275,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    azerupi/mdBook
   </a>
   <span>
-   &#9733 168, pushed 5 days ago
+   &#9733 168, pushed 6 days ago
   </span>
   — a command line utility to create books from markdown files
   <a href="https://travis-ci.org/azerupi/mdBook">
@@ -287,7 +287,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    bluejekyll/trust-dns
   </a>
   <span>
-   &#9733 95, pushed 2 days ago
+   &#9733 95, pushed 3 days ago
   </span>
   — a DNS-server
   <a href="https://travis-ci.org/bluejekyll/trust-dns">
@@ -299,7 +299,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    BurntSushi/xsv
   </a>
   <span>
-   &#9733 622, pushed 4 days ago
+   &#9733 622, pushed 5 days ago
   </span>
   — a fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
   <a href="https://travis-ci.org/BurntSushi/xsv">
@@ -314,7 +314,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      simias/rustation
     </a>
     <span>
-     &#9733 233, pushed 3 days ago
+     &#9733 233, pushed 4 days ago
     </span>
     — a Playstation emulator
     <a href="https://travis-ci.org/simias/rustation">
@@ -376,7 +376,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    imjacobclark/Herd
   </a>
   <span>
-   &#9733 52, pushed 199 days ago
+   &#9733 52, pushed 200 days ago
   </span>
   — an experimental HTTP load testing application
  </li>
@@ -394,7 +394,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    kbknapp/docli
   </a>
   <span>
-   &#9733 22, pushed 53 days ago
+   &#9733 22, pushed 54 days ago
   </span>
   — a command line utility for managing DigitalOcean infrastructure
   <a href="https://travis-ci.org/kbknapp/docli-rs">
@@ -448,7 +448,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      tailhook/vagga
     </a>
     <span>
-     &#9733 785, pushed 1 days ago
+     &#9733 785, pushed 2 days ago
     </span>
     — a containerization tool without daemons
     <a href="https://travis-ci.org/tailhook/vagga">
@@ -510,7 +510,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    swatteau/sokoban-rs
   </a>
   <span>
-   &#9733 56, pushed 15 days ago
+   &#9733 56, pushed 16 days ago
   </span>
   — a Sokoban implementation
  </li>
@@ -603,7 +603,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    ogham/exa
   </a>
   <span>
-   &#9733 694, pushed 0 days ago
+   &#9733 694, pushed 1 days ago
   </span>
   — a replacement for 'ls' written in Rust
   <a href="https://travis-ci.org/ogham/exa">
@@ -681,7 +681,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    frewsxcv/crate-deps
   </a>
   <span>
-   &#9733 12, pushed 183 days ago
+   &#9733 12, pushed 184 days ago
   </span>
   — generates images of dependency graphs for crates hosted on crates.io
  </li>
@@ -791,7 +791,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      Ogeon/rust-on-raspberry-pi
     </a>
     <span>
-     &#9733 155, pushed 17 days ago
+     &#9733 155, pushed 18 days ago
     </span>
     — instructions for how to cross compile Rust projects for the Raspberry Pi .
    </li>
@@ -918,7 +918,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      SSheldon/rust-objc
     </a>
     <span>
-     &#9733 67, pushed 2 days ago
+     &#9733 67, pushed 3 days ago
     </span>
     — Objective-C Runtime bindings and wrapper for Rust
    </li>
@@ -932,7 +932,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      dgrunwald/rust-cpython
     </a>
     <span>
-     &#9733 174, pushed 2 days ago
+     &#9733 174, pushed 3 days ago
     </span>
     — Python bindings
     <a href="https://travis-ci.org/dgrunwald/rust-cpython">
@@ -1031,7 +1031,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    RustDT
   </a>
   <span>
-   &#9733 247, pushed 2 days ago
+   &#9733 247, pushed 3 days ago
   </span>
   — an
   <a href="https://eclipse.org/">
@@ -1235,7 +1235,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    jpernst/openal-rs
   </a>
   <span>
-   &#9733 13, pushed 92 days ago
+   &#9733 13, pushed 93 days ago
   </span>
   —
   <a href="http://www.openal.org/">
@@ -1331,7 +1331,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      kbknapp/cargo-count
     </a>
     <span>
-     &#9733 42, pushed 32 days ago
+     &#9733 42, pushed 33 days ago
     </span>
     — lists source code counts and details about cargo projects, including unsafe statistics
     <a href="https://travis-ci.org/kbknapp/cargo-count">
@@ -1352,7 +1352,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      maxsnew/cargo-dot
     </a>
     <span>
-     &#9733 34, pushed 165 days ago
+     &#9733 34, pushed 166 days ago
     </span>
     — generate graphs of a Cargo project's dependencies
     <a href="https://travis-ci.org/maxsnew/cargo-dot">
@@ -1376,7 +1376,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      kbknapp/cargo-graph
     </a>
     <span>
-     &#9733 23, pushed 40 days ago
+     &#9733 23, pushed 41 days ago
     </span>
     — updated fork of
     <code>
@@ -1482,7 +1482,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    aturon/crossbeam
   </a>
   <span>
-   &#9733 390, pushed 1 days ago
+   &#9733 390, pushed 2 days ago
   </span>
   – Support for parallelism and low-level concurrency in Rust
   <a href="https://travis-ci.org/aturon/crossbeam">
@@ -1620,7 +1620,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    alexcrichton/bzip2-rs
   </a>
   <span>
-   &#9733 6, pushed 1 days ago
+   &#9733 6, pushed 2 days ago
   </span>
   —
   <a href="http://www.bzip.org">
@@ -1652,7 +1652,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    alexcrichton/tar-rs
   </a>
   <span>
-   &#9733 33, pushed 1 days ago
+   &#9733 33, pushed 2 days ago
   </span>
   — tar archive reading/writing in Rust
   <a href="https://travis-ci.org/alexcrichton/tar-rs">
@@ -1717,7 +1717,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mikkyang/rust-blas
     </a>
     <span>
-     &#9733 42, pushed 57 days ago
+     &#9733 42, pushed 58 days ago
     </span>
     —
     <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
@@ -1928,7 +1928,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    libOctavo/octavo
   </a>
   <span>
-   &#9733 97, pushed 12 days ago
+   &#9733 97, pushed 13 days ago
   </span>
   — Modular hash and crypto library in Rust
   <a href="https://travis-ci.org/libOctavo/octavo">
@@ -1940,7 +1940,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    seb-m/common.rs
   </a>
   <span>
-   &#9733 1, pushed 494 days ago
+   &#9733 1, pushed 495 days ago
   </span>
   — Common Rust crypto utilities
   <a href="https://travis-ci.org/seb-m/common.rs">
@@ -2061,7 +2061,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      benashford/rs-es
     </a>
     <span>
-     &#9733 68, pushed 21 days ago
+     &#9733 68, pushed 22 days ago
     </span>
     [
     <a href="https://crates.io/crates/rs-es/">
@@ -2084,7 +2084,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      jimmycuadra/rust-etcd
     </a>
     <span>
-     &#9733 42, pushed 18 days ago
+     &#9733 42, pushed 19 days ago
     </span>
     [
     <a href="https://crates.io/crates/etcd/">
@@ -2153,7 +2153,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mongodb-labs/mongo-rust-driver-prototype
     </a>
     <span>
-     &#9733 100, pushed 4 days ago
+     &#9733 100, pushed 5 days ago
     </span>
     [
     <a href="https://crates.io/crates/mongodb/">
@@ -2191,7 +2191,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mitsuhiko/redis-rs
     </a>
     <span>
-     &#9733 420, pushed 0 days ago
+     &#9733 420, pushed 1 days ago
     </span>
     —
     <a href="http://redis.io">
@@ -2258,7 +2258,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      ivanceras/rustorm
     </a>
     <span>
-     &#9733 123, pushed 16 days ago
+     &#9733 123, pushed 17 days ago
     </span>
     — an ORM for Rust
     <a href="https://travis-ci.org/ivanceras/rustorm">
@@ -2381,7 +2381,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    bluss/rust-itertools
   </a>
   <span>
-   &#9733 138, pushed 1 days ago
+   &#9733 138, pushed 2 days ago
   </span>
   —
   <a href="https://travis-ci.org/bluss/rust-itertools">
@@ -2417,7 +2417,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    reem/rust-typemap
   </a>
   <span>
-   &#9733 45, pushed 74 days ago
+   &#9733 45, pushed 75 days ago
   </span>
   —
   <a href="https://travis-ci.org/reem/rust-typemap">
@@ -2449,7 +2449,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    lifthrasiir/rust-chrono
   </a>
   <span>
-   &#9733 164, pushed 11 days ago
+   &#9733 164, pushed 12 days ago
   </span>
   —
   <a href="https://travis-ci.org/lifthrasiir/rust-chrono">
@@ -2461,7 +2461,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    rust-lang-deprecated/time
   </a>
   <span>
-   &#9733 65, pushed 1 days ago
+   &#9733 65, pushed 2 days ago
   </span>
   —
   <a href="https://travis-ci.org/rust-lang-deprecated/time">
@@ -2593,7 +2593,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      arjantop/rust-bencode
     </a>
     <span>
-     &#9733 19, pushed 178 days ago
+     &#9733 19, pushed 179 days ago
     </span>
     —
     <a href="https://en.wikipedia.org/wiki/Bencode">
@@ -2660,7 +2660,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      dwrensha/capnproto-rust
     </a>
     <span>
-     &#9733 297, pushed 8 days ago
+     &#9733 297, pushed 9 days ago
     </span>
     —
     <a href="https://travis-ci.org/dwrensha/capnproto-rust">
@@ -2711,7 +2711,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mrhooray/crc-rs
     </a>
     <span>
-     &#9733 10, pushed 258 days ago
+     &#9733 10, pushed 259 days ago
     </span>
     —
     <a href="https://travis-ci.org/mrhooray/crc-rs">
@@ -2745,7 +2745,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      servo/html5ever
     </a>
     <span>
-     &#9733 296, pushed 6 days ago
+     &#9733 296, pushed 7 days ago
     </span>
     — High-performance browser-grade HTML5 parser
     <a href="https://travis-ci.org/servo/html5ever">
@@ -2804,7 +2804,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mneumann/rust-msgpack
     </a>
     <span>
-     &#9733 96, pushed 17 days ago
+     &#9733 96, pushed 18 days ago
     </span>
     —
     <a href="https://travis-ci.org/mneumann/rust-msgpack">
@@ -2925,7 +2925,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      shepmaster/sxd-xpath
     </a>
     <span>
-     &#9733 19, pushed 1 days ago
+     &#9733 19, pushed 2 days ago
     </span>
     — An XPath library in Rust
     <a href="https://travis-ci.org/shepmaster/sxd-xpath">
@@ -2937,7 +2937,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      netvl/xml-rs
     </a>
     <span>
-     &#9733 98, pushed 3 days ago
+     &#9733 98, pushed 4 days ago
     </span>
     — a streaming XML library
     <a href="https://travis-ci.org/netvl/xml-rs">
@@ -3050,7 +3050,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      lucidscape/corange-rs
     </a>
     <span>
-     &#9733 18, pushed 134 days ago
+     &#9733 18, pushed 135 days ago
     </span>
     —
     <a href="https://github.com/orangeduck/Corange">
@@ -3123,7 +3123,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      jeremyletang/rust-sfml
     </a>
     <span>
-     &#9733 192, pushed 2 days ago
+     &#9733 192, pushed 3 days ago
     </span>
     —
     <a href="http://www.sfml-dev.org/">
@@ -3205,7 +3205,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      servo/rust-cocoa
     </a>
     <span>
-     &#9733 182, pushed 4 days ago
+     &#9733 182, pushed 5 days ago
     </span>
    </li>
   </ul>
@@ -3234,7 +3234,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      Kiss-ui
     </a>
     <span>
-     &#9733 247, pushed 149 days ago
+     &#9733 247, pushed 150 days ago
     </span>
     — a simple UI framework built on IUP
     <a href="https://travis-ci.org/cybergeek94/kiss-ui">
@@ -3341,7 +3341,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      tomaka/glutin
     </a>
     <span>
-     &#9733 428, pushed 0 days ago
+     &#9733 428, pushed 1 days ago
     </span>
     — Rust alternative to
     <a href="http://www.glfw.org/">
@@ -3404,7 +3404,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    chyh1990/imageproc
   </a>
   <span>
-   &#9733 33, pushed 102 days ago
+   &#9733 33, pushed 103 days ago
   </span>
   — An advanced image processing library for Rust.
   <a href="https://travis-ci.org/chyh1990/imageproc">
@@ -3442,7 +3442,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    autumnai/leaf
   </a>
   <span>
-   &#9733 4007, pushed 2 days ago
+   &#9733 4007, pushed 3 days ago
   </span>
   — Open Machine Intelligence framework.
   <a href="https://travis-ci.org/autumnai/leaf">
@@ -3642,7 +3642,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mattnenterprise/rust-pop3
     </a>
     <span>
-     &#9733 3, pushed 1 days ago
+     &#9733 3, pushed 2 days ago
     </span>
     — a
     <a href="https://en.wikipedia.org/wiki/Post_Office_Protocol">
@@ -3761,7 +3761,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    ivanceras/inquerest
   </a>
   <span>
-   &#9733 14, pushed 23 days ago
+   &#9733 14, pushed 24 days ago
   </span>
   — an URL parameter parser for rest filter inquiry
   <a href="https://travis-ci.org/ivanceras/inquerest">
@@ -3782,7 +3782,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    m4rw3r/chomp
   </a>
   <span>
-   &#9733 98, pushed 32 days ago
+   &#9733 98, pushed 33 days ago
   </span>
   – A fast monadic-style parser combinator
   <a href="https://travis-ci.org/m4rw3r/chomp">
@@ -3964,7 +3964,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      rustache/rustache
     </a>
     <span>
-     &#9733 129, pushed 204 days ago
+     &#9733 129, pushed 205 days ago
     </span>
     —
     <a href="https://travis-ci.org/rustache/rustache">
@@ -3978,7 +3978,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    tailhook/marafet
   </a>
   <span>
-   &#9733 3, pushed 238 days ago
+   &#9733 3, pushed 239 days ago
   </span>
   — Compiler for Jade-like template language to cito.js-based virtual dom
  </li>
@@ -4016,7 +4016,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    pwoolcoc/ngrams
   </a>
   <span>
-   &#9733 2, pushed 66 days ago
+   &#9733 2, pushed 67 days ago
   </span>
   — Construct
   <a href="https://en.wikipedia.org/wiki/N-gram">
@@ -4032,7 +4032,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    rust-lang-nursery/regex
   </a>
   <span>
-   &#9733 178, pushed 1 days ago
+   &#9733 178, pushed 2 days ago
   </span>
   — Regular expressions (RE2 style)
   <a href="https://travis-ci.org/rust-lang-nursery/regex">
@@ -4089,7 +4089,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      hyperium/hyper
     </a>
     <span>
-     &#9733 1626, pushed 3 days ago
+     &#9733 1626, pushed 4 days ago
     </span>
     — an HTTP implementation
     <a href="https://travis-ci.org/hyperium/hyper">
@@ -4143,7 +4143,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      Iron
     </a>
     <span>
-     &#9733 2838, pushed 6 days ago
+     &#9733 2838, pushed 7 days ago
     </span>
     — a middleware-based server framework
     <a href="https://travis-ci.org/iron/iron">
@@ -4183,7 +4183,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      Ogeon/rustful
     </a>
     <span>
-     &#9733 737, pushed 19 days ago
+     &#9733 737, pushed 20 days ago
     </span>
     — a RESTful web framework for Rust
     <a href="https://travis-ci.org/Ogeon/rustful">
@@ -4267,7 +4267,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      TeXitoi/benchmarksgame-rs
     </a>
     <span>
-     &#9733 14, pushed 5 days ago
+     &#9733 14, pushed 6 days ago
     </span>
     — Rust implementations for the
     <a href="http://benchmarksgame.alioth.debian.org/">
@@ -4311,7 +4311,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    Rust Design Patterns
   </a>
   <span>
-   &#9733 386, pushed 118 days ago
+   &#9733 386, pushed 119 days ago
   </span>
  </li>
  <li>
@@ -4324,7 +4324,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    rust-learning
   </a>
   <span>
-   &#9733 611, pushed 14 days ago
+   &#9733 611, pushed 15 days ago
   </span>
   — a collection of useful resources to learn Rust
  </li>
@@ -4333,7 +4333,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    Rustlings
   </a>
   <span>
-   &#9733 1151, pushed 13 days ago
+   &#9733 1151, pushed 14 days ago
   </span>
   — small exercises to get you used to reading and writing Rust code
  </li>

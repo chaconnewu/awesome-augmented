@@ -496,7 +496,7 @@
    pyenv
   </a>
   <span>
-   &#9733 4411, pushed 1 days ago
+   &#9733 4411, pushed 2 days ago
   </span>
   - Simple Python version management.
  </li>
@@ -611,7 +611,7 @@
    localshop
   </a>
   <span>
-   &#9733 269, pushed 236 days ago
+   &#9733 269, pushed 237 days ago
   </span>
   - Local PyPI server (custom packages and auto-mirroring of pypi).
  </li>
@@ -691,7 +691,7 @@
    PlatformIO
   </a>
   <span>
-   &#9733 996, pushed 1 days ago
+   &#9733 996, pushed 2 days ago
   </span>
   - A console tool to build code with different development platforms.
  </li>
@@ -731,7 +731,7 @@
    bpython
   </a>
   <span>
-   &#9733 508, pushed 13 days ago
+   &#9733 508, pushed 14 days ago
   </span>
   – A fancy interface to the Python interpreter.
  </li>
@@ -740,7 +740,7 @@
    ptpython
   </a>
   <span>
-   &#9733 1251, pushed 0 days ago
+   &#9733 1251, pushed 1 days ago
   </span>
   - Advanced Python REPL built on top of the
   <a href="https://github.com/jonathanslenders/python-prompt-toolkit">
@@ -803,7 +803,7 @@
    Unipath
   </a>
   <span>
-   &#9733 353, pushed 443 days ago
+   &#9733 353, pushed 444 days ago
   </span>
   - An object-oriented approach to file/directory operations.
  </li>
@@ -831,7 +831,7 @@
    arrow
   </a>
   <span>
-   &#9733 2987, pushed 1 days ago
+   &#9733 2987, pushed 2 days ago
   </span>
   - Better dates & times for Python.
  </li>
@@ -900,7 +900,7 @@
    when.py
   </a>
   <span>
-   &#9733 146, pushed 65 days ago
+   &#9733 146, pushed 66 days ago
   </span>
   - Providing user-friendly functions to help perform common date and time actions.
  </li>
@@ -937,7 +937,7 @@
      ftfy
     </a>
     <span>
-     &#9733 1161, pushed 10 days ago
+     &#9733 1161, pushed 11 days ago
     </span>
     - Makes Unicode text less broken and more consistent automagically.
    </li>
@@ -970,7 +970,7 @@
      pyfiglet
     </a>
     <span>
-     &#9733 145, pushed 20 days ago
+     &#9733 145, pushed 21 days ago
     </span>
     - An implementation of figlet written in Python.
    </li>
@@ -979,7 +979,7 @@
      shortuuid
     </a>
     <span>
-     &#9733 574, pushed 110 days ago
+     &#9733 574, pushed 111 days ago
     </span>
     - A generator library for concise, unambiguous and URL-safe UUIDs.
    </li>
@@ -1017,7 +1017,7 @@
      awesome-slugify
     </a>
     <span>
-     &#9733 270, pushed 217 days ago
+     &#9733 270, pushed 218 days ago
     </span>
     - A Python slugify library that can preserve unicode.
    </li>
@@ -1076,7 +1076,7 @@
      python-nameparser
     </a>
     <span>
-     &#9733 145, pushed 39 days ago
+     &#9733 145, pushed 40 days ago
     </span>
     - Parsing human names into their individual components.
    </li>
@@ -1085,7 +1085,7 @@
      python-user-agents
     </a>
     <span>
-     &#9733 332, pushed 24 days ago
+     &#9733 332, pushed 25 days ago
     </span>
     - Browser user agent parser.
    </li>
@@ -1115,7 +1115,7 @@
      tablib
     </a>
     <span>
-     &#9733 1910, pushed 22 days ago
+     &#9733 1910, pushed 23 days ago
     </span>
     - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
    </li>
@@ -1129,7 +1129,7 @@
      Marmir
     </a>
     <span>
-     &#9733 118, pushed 69 days ago
+     &#9733 118, pushed 70 days ago
     </span>
     - Takes Python data structures and turns them into spreadsheets.
    </li>
@@ -1150,7 +1150,7 @@
      python-docx
     </a>
     <span>
-     &#9733 522, pushed 3 days ago
+     &#9733 522, pushed 4 days ago
     </span>
     - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
    </li>
@@ -1165,7 +1165,7 @@
      unoconv
     </a>
     <span>
-     &#9733 699, pushed 41 days ago
+     &#9733 699, pushed 42 days ago
     </span>
     - Convert between any document format supported by LibreOffice/OpenOffice.
    </li>
@@ -1242,7 +1242,7 @@
      Python-Markdown
     </a>
     <span>
-     &#9733 871, pushed 21 days ago
+     &#9733 871, pushed 22 days ago
     </span>
     - A Python implementation of John Gruber’s Markdown.
    </li>
@@ -1267,7 +1267,7 @@
      csvkit
     </a>
     <span>
-     &#9733 2047, pushed 8 days ago
+     &#9733 2047, pushed 9 days ago
     </span>
     - Utilities for converting to and working with CSV.
    </li>
@@ -1353,7 +1353,7 @@
    langid.py
   </a>
   <span>
-   &#9733 559, pushed 27 days ago
+   &#9733 559, pushed 28 days ago
   </span>
   - Stand-alone language identification system.
  </li>
@@ -1472,7 +1472,7 @@
      asciimatics
     </a>
     <span>
-     &#9733 264, pushed 2 days ago
+     &#9733 264, pushed 3 days ago
     </span>
     - Cross-platform, full-screen terminal package (i.e.  mouse/keyboard input and coloured, positioned text output) complete with high-level API for complex animations and special effects.
    </li>
@@ -1499,7 +1499,7 @@
      clint
     </a>
     <span>
-     &#9733 1982, pushed 46 days ago
+     &#9733 1982, pushed 47 days ago
     </span>
     - Python Command-line Application Tools.
    </li>
@@ -1520,7 +1520,7 @@
      Gooey
     </a>
     <span>
-     &#9733 3993, pushed 12 days ago
+     &#9733 3993, pushed 13 days ago
     </span>
     - Turn command line programs into a full GUI application with one line
    </li>
@@ -1529,7 +1529,7 @@
      python-prompt-toolkit
     </a>
     <span>
-     &#9733 2318, pushed 1 days ago
+     &#9733 2318, pushed 2 days ago
     </span>
     - A Library for building powerful interactive command lines.
    </li>
@@ -1543,7 +1543,7 @@
      aws-cli
     </a>
     <span>
-     &#9733 3799, pushed 3 days ago
+     &#9733 3799, pushed 4 days ago
     </span>
     - A universal command-line interface for Amazon Web Services.
    </li>
@@ -1552,7 +1552,7 @@
      bashplotlib
     </a>
     <span>
-     &#9733 395, pushed 86 days ago
+     &#9733 395, pushed 87 days ago
     </span>
     - Making basic plots in the terminal.
    </li>
@@ -1561,7 +1561,7 @@
      caniusepython3
     </a>
     <span>
-     &#9733 238, pushed 43 days ago
+     &#9733 238, pushed 44 days ago
     </span>
     - Determine what projects are blocking you from porting to Python 3.
    </li>
@@ -1579,7 +1579,7 @@
      doitlive
     </a>
     <span>
-     &#9733 695, pushed 197 days ago
+     &#9733 695, pushed 198 days ago
     </span>
     - A tool for live presentations in the terminal.
    </li>
@@ -1633,7 +1633,7 @@
      thefuck
     </a>
     <span>
-     &#9733 20095, pushed 2 days ago
+     &#9733 20095, pushed 3 days ago
     </span>
     - Correcting your previous console command.
    </li>
@@ -1770,7 +1770,7 @@
    python-qrcode
   </a>
   <span>
-   &#9733 850, pushed 48 days ago
+   &#9733 850, pushed 49 days ago
   </span>
   - A pure Python QR Code generator.
  </li>
@@ -1867,7 +1867,7 @@
    audioread
   </a>
   <span>
-   &#9733 93, pushed 7 days ago
+   &#9733 93, pushed 8 days ago
   </span>
   - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
  </li>
@@ -1920,7 +1920,7 @@
    m3u8
   </a>
   <span>
-   &#9733 165, pushed 64 days ago
+   &#9733 165, pushed 65 days ago
   </span>
   - A module for parsing m3u8 file.
  </li>
@@ -2064,7 +2064,7 @@
    django-countries
   </a>
   <span>
-   &#9733 244, pushed 18 days ago
+   &#9733 244, pushed 19 days ago
   </span>
   - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models.
  </li>
@@ -2089,7 +2089,7 @@
    grequests
   </a>
   <span>
-   &#9733 1375, pushed 40 days ago
+   &#9733 1375, pushed 41 days ago
   </span>
   - requests + gevent for asynchronous HTTP requests.
  </li>
@@ -2199,7 +2199,7 @@
      PyMySQL
     </a>
     <span>
-     &#9733 1654, pushed 14 days ago
+     &#9733 1654, pushed 15 days ago
     </span>
     - Pure Python MySQL driver compatible to mysql-python.
    </li>
@@ -2219,7 +2219,7 @@
      queries
     </a>
     <span>
-     &#9733 139, pushed 32 days ago
+     &#9733 139, pushed 33 days ago
     </span>
     - A wrapper of the psycopg2 library for interacting with PostgreSQL.
    </li>
@@ -2245,7 +2245,7 @@
      dataset
     </a>
     <span>
-     &#9733 2223, pushed 5 days ago
+     &#9733 2223, pushed 6 days ago
     </span>
     - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
    </li>
@@ -2265,7 +2265,7 @@
      cassandra-python-driver
     </a>
     <span>
-     &#9733 490, pushed 0 days ago
+     &#9733 490, pushed 1 days ago
     </span>
     - Python driver for Cassandra.
    </li>
@@ -2292,7 +2292,7 @@
      pycassa
     </a>
     <span>
-     &#9733 495, pushed 481 days ago
+     &#9733 495, pushed 482 days ago
     </span>
     - Python Thrift driver for Cassandra.
    </li>
@@ -2316,7 +2316,7 @@
      telephus
     </a>
     <span>
-     &#9733 93, pushed 628 days ago
+     &#9733 93, pushed 629 days ago
     </span>
     - Twisted based client for Cassandra.
    </li>
@@ -2434,7 +2434,7 @@
      hot-redis
     </a>
     <span>
-     &#9733 180, pushed 19 days ago
+     &#9733 180, pushed 20 days ago
     </span>
     - Rich Python data types for Redis.
    </li>
@@ -2500,7 +2500,7 @@
      awesome-flask
     </a>
     <span>
-     &#9733 2367, pushed 12 days ago
+     &#9733 2367, pushed 13 days ago
     </span>
    </li>
   </ul>
@@ -2682,7 +2682,7 @@
    django-shop
   </a>
   <span>
-   &#9733 1035, pushed 0 days ago
+   &#9733 1035, pushed 1 days ago
   </span>
   - A Django based shop system.
  </li>
@@ -2733,7 +2733,7 @@
    python-currencies
   </a>
   <span>
-   &#9733 20, pushed 64 days ago
+   &#9733 20, pushed 65 days ago
   </span>
   - Display money format and its filthy currencies.
  </li>
@@ -2909,7 +2909,7 @@
      django-allauth
     </a>
     <span>
-     &#9733 2323, pushed 3 days ago
+     &#9733 2323, pushed 4 days ago
     </span>
     - Authentication app for Django that "just works."
    </li>
@@ -3013,7 +3013,7 @@
      python-jws
     </a>
     <span>
-     &#9733 40, pushed 168 days ago
+     &#9733 40, pushed 169 days ago
     </span>
     - Implementation of JSON Web Signatures draft 02.
    </li>
@@ -3086,7 +3086,7 @@
    huey
   </a>
   <span>
-   &#9733 875, pushed 7 days ago
+   &#9733 875, pushed 8 days ago
   </span>
   - Little multi-threaded task queue.
  </li>
@@ -3148,7 +3148,7 @@
    elasticsearch-dsl-py
   </a>
   <span>
-   &#9733 807, pushed 0 days ago
+   &#9733 807, pushed 1 days ago
   </span>
   - The official high-level Python client for Elasticsearch.
  </li>
@@ -3326,7 +3326,7 @@
    johnny-cache
   </a>
   <span>
-   &#9733 255, pushed 187 days ago
+   &#9733 255, pushed 188 days ago
   </span>
   - A caching framework for django applications.
  </li>
@@ -3370,7 +3370,7 @@
    flanker
   </a>
   <span>
-   &#9733 912, pushed 7 days ago
+   &#9733 912, pushed 8 days ago
   </span>
   - A email address and Mime parsing library.
  </li>
@@ -3406,7 +3406,7 @@
    Marrow Mailer
   </a>
   <span>
-   &#9733 99, pushed 6 days ago
+   &#9733 99, pushed 7 days ago
   </span>
   - High-performance extensible mail delivery framework.
  </li>
@@ -3478,7 +3478,7 @@
    furl
   </a>
   <span>
-   &#9733 898, pushed 11 days ago
+   &#9733 898, pushed 12 days ago
   </span>
   - A small Python library that makes manipulating URLs simple.
  </li>
@@ -3496,7 +3496,7 @@
    pyshorteners
   </a>
   <span>
-   &#9733 110, pushed 21 days ago
+   &#9733 110, pushed 22 days ago
   </span>
   - A pure Python URL shortening lib.
  </li>
@@ -3584,7 +3584,7 @@
    untangle
   </a>
   <span>
-   &#9733 157, pushed 111 days ago
+   &#9733 157, pushed 112 days ago
   </span>
   - Converts XML documents to Python objects for easy access.
  </li>
@@ -3593,7 +3593,7 @@
    xhtml2pdf
   </a>
   <span>
-   &#9733 1126, pushed 0 days ago
+   &#9733 1126, pushed 1 days ago
   </span>
   - HTML/CSS to PDF converter.
  </li>
@@ -3636,7 +3636,7 @@
    Demiurge
   </a>
   <span>
-   &#9733 32, pushed 176 days ago
+   &#9733 32, pushed 177 days ago
   </span>
   - PyQuery-based scraping micro-framework.
  </li>
@@ -3675,7 +3675,7 @@
    pyspider
   </a>
   <span>
-   &#9733 6485, pushed 4 days ago
+   &#9733 6485, pushed 5 days ago
   </span>
   - A powerful spider system.
  </li>
@@ -3712,7 +3712,7 @@
    html2text
   </a>
   <span>
-   &#9733 236, pushed 31 days ago
+   &#9733 236, pushed 32 days ago
   </span>
   - Convert HTML to Markdown-formatted text.
  </li>
@@ -3775,7 +3775,7 @@
    sanitize
   </a>
   <span>
-   &#9733 16, pushed 573 days ago
+   &#9733 16, pushed 574 days ago
   </span>
   - Bringing sanity to world of messed-up data.
  </li>
@@ -4030,7 +4030,7 @@
    Wooey
   </a>
   <span>
-   &#9733 634, pushed 19 days ago
+   &#9733 634, pushed 20 days ago
   </span>
   - A Django app which creates automatic web UIs for Python scripts.
  </li>
@@ -4161,7 +4161,7 @@
    Tomorrow
   </a>
   <span>
-   &#9733 1123, pushed 5 days ago
+   &#9733 1123, pushed 6 days ago
   </span>
   - Magic decorator syntax for asynchronous code.
  </li>
@@ -4312,7 +4312,7 @@
    netius
   </a>
   <span>
-   &#9733 36, pushed 15 days ago
+   &#9733 36, pushed 16 days ago
   </span>
   - Asynchronous, very fast.
  </li>
@@ -4502,7 +4502,7 @@
    Toga
   </a>
   <span>
-   &#9733 756, pushed 40 days ago
+   &#9733 756, pushed 41 days ago
   </span>
   - A Python native, OS native GUI toolkit.
  </li>
@@ -4529,7 +4529,7 @@
    Flexx
   </a>
   <span>
-   &#9733 904, pushed 8 days ago
+   &#9733 904, pushed 9 days ago
   </span>
   - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
  </li>
@@ -4770,7 +4770,7 @@
      freezegun
     </a>
     <span>
-     &#9733 731, pushed 9 days ago
+     &#9733 731, pushed 10 days ago
     </span>
     - Travel through time by mocking the datetime module.
    </li>
@@ -4923,7 +4923,7 @@ mommy
      pycallgraph
     </a>
     <span>
-     &#9733 605, pushed 20 days ago
+     &#9733 605, pushed 21 days ago
     </span>
     - A library that visualises the flow (call graph) of your Python application.
    </li>
@@ -5038,7 +5038,7 @@ mommy
      django-devserver
     </a>
     <span>
-     &#9733 1139, pushed 3 days ago
+     &#9733 1139, pushed 4 days ago
     </span>
     - A drop-in replacement for Django's runserver.
    </li>
@@ -5064,7 +5064,7 @@ mommy
      </em>
     </a>
     <span>
-     &#9733 788, pushed 7 days ago
+     &#9733 788, pushed 8 days ago
     </span>
     - Line-by-line profiling.
    </li>
@@ -5137,7 +5137,7 @@ profiler
    bcbio-nextgen
   </a>
   <span>
-   &#9733 297, pushed 1 days ago
+   &#9733 297, pushed 2 days ago
   </span>
   - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis.
  </li>
@@ -5266,7 +5266,7 @@ profiler
    SymPy
   </a>
   <span>
-   &#9733 2825, pushed 1 days ago
+   &#9733 2825, pushed 2 days ago
   </span>
   - A Python library for symbolic mathematics.
  </li>
@@ -5275,7 +5275,7 @@ profiler
    zipline
   </a>
   <span>
-   &#9733 3154, pushed 3 days ago
+   &#9733 3154, pushed 4 days ago
   </span>
   - A Pythonic algorithmic trading library.
  </li>
@@ -5434,7 +5434,7 @@ profiler
    NuPIC
   </a>
   <span>
-   &#9733 4079, pushed 4 days ago
+   &#9733 4079, pushed 5 days ago
   </span>
   - Numenta Platform for Intelligent Computing.
  </li>
@@ -5443,7 +5443,7 @@ profiler
    pattern
   </a>
   <span>
-   &#9733 4390, pushed 4 days ago
+   &#9733 4390, pushed 5 days ago
   </span>
   - Web mining module for Python.
  </li>
@@ -5461,7 +5461,7 @@ profiler
    Pylearn2
   </a>
   <span>
-   &#9733 2065, pushed 29 days ago
+   &#9733 2065, pushed 30 days ago
   </span>
   - A Machine Learning library based on
   <a href="https://github.com/Theano/Theano">
@@ -5474,7 +5474,7 @@ profiler
    python-recsys
   </a>
   <span>
-   &#9733 561, pushed 138 days ago
+   &#9733 561, pushed 139 days ago
   </span>
   - A Python library for implementing a Recommender System.
  </li>
@@ -5552,7 +5552,7 @@ profiler
    luigi
   </a>
   <span>
-   &#9733 4510, pushed 0 days ago
+   &#9733 4510, pushed 1 days ago
   </span>
   - A module that helps you build complex pipelines of batch jobs.
  </li>
@@ -5685,7 +5685,7 @@ profiler
    gmail
   </a>
   <span>
-   &#9733 1253, pushed 10 days ago
+   &#9733 1253, pushed 11 days ago
   </span>
   - A Pythonic interface for Gmail.
  </li>
@@ -5694,7 +5694,7 @@ profiler
    google-api-python-client
   </a>
   <span>
-   &#9733 904, pushed 4 days ago
+   &#9733 904, pushed 5 days ago
   </span>
   - Google APIs Client Library for Python.
  </li>
@@ -5851,7 +5851,7 @@ profiler
    django-schedule
   </a>
   <span>
-   &#9733 622, pushed 16 days ago
+   &#9733 622, pushed 17 days ago
   </span>
   - A calendaring app for Django.
  </li>
@@ -5899,7 +5899,7 @@ profiler
    Spiff
   </a>
   <span>
-   &#9733 322, pushed 126 days ago
+   &#9733 322, pushed 127 days ago
   </span>
   - A powerful workflow engine implemented in pure Python.
  </li>
@@ -6016,7 +6016,7 @@ profiler
    PythonNet
   </a>
   <span>
-   &#9733 175, pushed 12 days ago
+   &#9733 175, pushed 13 days ago
   </span>
   - Python Integration with the .NET Common Language Runtime (CLR).
  </li>
@@ -6053,7 +6053,7 @@ profiler
    POX
   </a>
   <span>
-   &#9733 302, pushed 28 days ago
+   &#9733 302, pushed 29 days ago
   </span>
   - An open source development platform for Python-based Software Defined Networking (SDN) control applications, such as OpenFlow SDN controllers.
  </li>
@@ -6149,7 +6149,7 @@ profiler
    Python-Modernize
   </a>
   <span>
-   &#9733 401, pushed 197 days ago
+   &#9733 401, pushed 198 days ago
   </span>
   - Modernizes Python code for eventual Python 3 migration.
  </li>
@@ -6286,7 +6286,7 @@ profiler
      Anaconda
     </a>
     <span>
-     &#9733 1041, pushed 4 days ago
+     &#9733 1041, pushed 5 days ago
     </span>
     - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
    </li>
@@ -6322,7 +6322,7 @@ profiler
      Python-mode
     </a>
     <span>
-     &#9733 2963, pushed 71 days ago
+     &#9733 2963, pushed 72 days ago
     </span>
     - An all in one plugin for turning Vim into a Python IDE.
    </li>
@@ -6336,7 +6336,7 @@ profiler
      PTVS
     </a>
     <span>
-     &#9733 1023, pushed 4 days ago
+     &#9733 1023, pushed 5 days ago
     </span>
     - Python Tools for Visual Studio.
    </li>
@@ -6580,7 +6580,7 @@ profiler
      python-github-projects
     </a>
     <span>
-     &#9733 205, pushed 61 days ago
+     &#9733 205, pushed 62 days ago
     </span>
    </li>
    <li>
@@ -6588,7 +6588,7 @@ profiler
      python_reference
     </a>
     <span>
-     &#9733 1519, pushed 22 days ago
+     &#9733 1519, pushed 23 days ago
     </span>
    </li>
    <li>
@@ -6617,7 +6617,7 @@ profiler
      lists
     </a>
     <span>
-     &#9733 3765, pushed 1 days ago
+     &#9733 3765, pushed 2 days ago
     </span>
    </li>
   </ul>

@@ -239,7 +239,7 @@ about docker! (Tips: checkout her
    Learn Docker
   </a>
   <span>
-   &#9733 29, pushed 258 days ago
+   &#9733 29, pushed 259 days ago
   </span>
   Full environment set up, screenshots, step-by-step tutorial and more resources (video, articles, cheat sheets) by
   <a href="https://github.com/dwyl">
@@ -1255,7 +1255,7 @@ about docker! (Tips: checkout her
    DockerSlim
   </a>
   <span>
-   &#9733 499, pushed 15 days ago
+   &#9733 499, pushed 16 days ago
   </span>
   shrinks fat Docker images creating the smallest possible images.
  </li>
@@ -1316,7 +1316,7 @@ about docker! (Tips: checkout her
    Docker Secure Deployment Guidelines
   </a>
   <span>
-   &#9733 309, pushed 452 days ago
+   &#9733 309, pushed 453 days ago
   </span>
  </li>
  <li>
@@ -1652,7 +1652,7 @@ about docker! (Tips: checkout her
    Docker Registry
   </a>
   <span>
-   &#9733 2017, pushed 3 days ago
+   &#9733 2017, pushed 4 days ago
   </span>
   (The Docker toolset to pack, ship, store, and deliver content)
  </li>
@@ -1661,7 +1661,7 @@ about docker! (Tips: checkout her
    Docker Swarm
   </a>
   <span>
-   &#9733 3658, pushed 1 days ago
+   &#9733 3658, pushed 2 days ago
   </span>
   (Swarm: a Docker-native clustering system)
  </li>
@@ -1687,7 +1687,7 @@ about docker! (Tips: checkout her
    wharfee
   </a>
   <span>
-   &#9733 377, pushed 74 days ago
+   &#9733 377, pushed 75 days ago
   </span>
   - Autocompletion and syntax highlighting for Docker commands.) by
   <a href="https://github.com/j-bennet">
@@ -1723,7 +1723,7 @@ about docker! (Tips: checkout her
    dockercraft
   </a>
   <span>
-   &#9733 3640, pushed 6 days ago
+   &#9733 3640, pushed 7 days ago
   </span>
   - Docker + Minecraft = Dockercraft by
   <a href="https://github.com/docker">
@@ -1740,7 +1740,7 @@ about docker! (Tips: checkout her
    draw-compose
   </a>
   <span>
-   &#9733 12, pushed 16 days ago
+   &#9733 12, pushed 17 days ago
   </span>
   - Utility to draw a schema of a docker compose by
   <a href="https://github.com/Alexis-benoist">
@@ -1764,7 +1764,7 @@ about docker! (Tips: checkout her
    Chaperone
   </a>
   <span>
-   &#9733 43, pushed 55 days ago
+   &#9733 43, pushed 56 days ago
   </span>
   - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by
   <a href="https://github.com/garywiz">
@@ -1788,7 +1788,7 @@ about docker! (Tips: checkout her
    Squid-in-a-can
   </a>
   <span>
-   &#9733 169, pushed 46 days ago
+   &#9733 169, pushed 47 days ago
   </span>
   (in case of proxy problem) by
   <a href="https://github.com/jpetazzo">
@@ -1836,7 +1836,7 @@ about docker! (Tips: checkout her
    Dockly
   </a>
   <span>
-   &#9733 175, pushed 3 days ago
+   &#9733 175, pushed 4 days ago
   </span>
   (Dockly is a gem made to ease the pain of packaging an application in Docker.) by
   <a href="https://github.com/swipely/">
@@ -1848,7 +1848,7 @@ about docker! (Tips: checkout her
    docker-volumes
   </a>
   <span>
-   &#9733 360, pushed 264 days ago
+   &#9733 360, pushed 265 days ago
   </span>
   (Docker Volume Manager) by
   <a href="https://github.com/cpuguy83">
@@ -1860,7 +1860,7 @@ about docker! (Tips: checkout her
    dockerfile_lint
   </a>
   <span>
-   &#9733 100, pushed 15 days ago
+   &#9733 100, pushed 16 days ago
   </span>
   (A rule-based 'linter' for Dockerfiles) by
   <a href="https://github.com/redhataccess">
@@ -1884,7 +1884,7 @@ about docker! (Tips: checkout her
    Vagga
   </a>
   <span>
-   &#9733 785, pushed 1 days ago
+   &#9733 785, pushed 2 days ago
   </span>
   (Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.) by
   <a href="https://github.com/tailhook/">
@@ -1896,7 +1896,7 @@ about docker! (Tips: checkout her
    dockerode
   </a>
   <span>
-   &#9733 758, pushed 7 days ago
+   &#9733 758, pushed 8 days ago
   </span>
   (Not just another Docker Remote API node.js module) by
   <a href="https://github.com/apocas">
@@ -1962,7 +1962,7 @@ about docker! (Tips: checkout her
    sherdock
   </a>
   <span>
-   &#9733 106, pushed 218 days ago
+   &#9733 106, pushed 219 days ago
   </span>
   - Automatic GC of images based on regexp by
   <a href="https://github.com/rancher">
@@ -1998,7 +1998,7 @@ about docker! (Tips: checkout her
    docker-gc
   </a>
   <span>
-   &#9733 1320, pushed 17 days ago
+   &#9733 1320, pushed 18 days ago
   </span>
   - A cron job that will delete old stopped containers and unused images by
   <a href="https://github.com/spotify">
@@ -2034,7 +2034,7 @@ about docker! (Tips: checkout her
    dockramp
   </a>
   <span>
-   &#9733 214, pushed 4 days ago
+   &#9733 214, pushed 5 days ago
   </span>
   - Proof of Concept: A Client Driven Docker Image Builder by
   <a href="https://github.com/jlhawn">
@@ -2058,7 +2058,7 @@ about docker! (Tips: checkout her
    Gradle Docker plugin
   </a>
   <span>
-   &#9733 42, pushed 18 days ago
+   &#9733 42, pushed 19 days ago
   </span>
   - A Docker remote api plugin for Gradle by
   <a href="https://github.com/gesellix">
@@ -2159,7 +2159,7 @@ about docker! (Tips: checkout her
    dexec
   </a>
   <span>
-   &#9733 239, pushed 8 days ago
+   &#9733 239, pushed 9 days ago
   </span>
   - Command line interface for running code with Docker Exec images. https://docker-exec.github.io/ written in Go.
  </li>
@@ -2192,7 +2192,7 @@ about docker! (Tips: checkout her
    docker-garby
   </a>
   <span>
-   &#9733 4, pushed 57 days ago
+   &#9733 4, pushed 58 days ago
   </span>
   - Docker garbage collection script by
   <a href="https://github.com/konstruktoid">
@@ -2205,7 +2205,7 @@ about docker! (Tips: checkout her
    DevLab
   </a>
   <span>
-   &#9733 391, pushed 127 days ago
+   &#9733 391, pushed 128 days ago
   </span>
   - Utility for running containerized development environments
  </li>
@@ -2214,7 +2214,7 @@ about docker! (Tips: checkout her
    is-docker
   </a>
   <span>
-   &#9733 14, pushed 123 days ago
+   &#9733 14, pushed 124 days ago
   </span>
   - Check if the process is running inside a Docker container by
   <a href="https://github.com/sindresorhus/awesome">
@@ -2277,7 +2277,7 @@ about docker! (Tips: checkout her
    Docker Clean
   </a>
   <span>
-   &#9733 202, pushed 3 days ago
+   &#9733 202, pushed 4 days ago
   </span>
   - A script that cleans Docker containers, images and volumes by
   <a href="https://github.com/zzrotdesign">
@@ -2289,7 +2289,7 @@ about docker! (Tips: checkout her
    Powerline-Docker
   </a>
   <span>
-   &#9733 9, pushed 6 days ago
+   &#9733 9, pushed 7 days ago
   </span>
   - A Powerline segment for showing the status of Docker containers by
   <a href="https://github.com/adrianmo">
@@ -2301,7 +2301,7 @@ about docker! (Tips: checkout her
    Docker-PowerShell
   </a>
   <span>
-   &#9733 73, pushed 0 days ago
+   &#9733 73, pushed 1 days ago
   </span>
   - PowerShell Module for Docker
  </li>
@@ -2458,7 +2458,7 @@ about docker! (Tips: checkout her
    Conduit
   </a>
   <span>
-   &#9733 75, pushed 25 days ago
+   &#9733 75, pushed 26 days ago
   </span>
   - Experimental deployment system for Docker by
   <a href="https://github.com/ehazlett">
@@ -2482,7 +2482,7 @@ about docker! (Tips: checkout her
    dockit
   </a>
   <span>
-   &#9733 98, pushed 545 days ago
+   &#9733 98, pushed 546 days ago
   </span>
   - Do docker actions and Deploy gluster containers!
  </li>
@@ -2620,7 +2620,7 @@ about docker! (Tips: checkout her
    nginx-proxy
   </a>
   <span>
-   &#9733 2504, pushed 1 days ago
+   &#9733 2504, pushed 2 days ago
   </span>
   - Automated nginx proxy for Docker containers using docker-gen by
   <a href="https://github.com/jwilder">
@@ -2686,7 +2686,7 @@ about docker! (Tips: checkout her
    Docker Registry Web
   </a>
   <span>
-   &#9733 548, pushed 23 days ago
+   &#9733 548, pushed 24 days ago
   </span>
   (A web UI for easy private/local Docker Registry integration) by
   <a href="https://github.com/atc-">
@@ -2722,7 +2722,7 @@ about docker! (Tips: checkout her
    dockering-on-rails
   </a>
   <span>
-   &#9733 5, pushed 141 days ago
+   &#9733 5, pushed 142 days ago
   </span>
   Simple Web-Interface for Docker with a lot of features by
   <a href="https://github.com/Electrofenster/">
@@ -2781,7 +2781,7 @@ about docker! (Tips: checkout her
    docker-vm
   </a>
   <span>
-   &#9733 30, pushed 280 days ago
+   &#9733 30, pushed 281 days ago
   </span>
   (A simple and transparent alternative to boot2docker (backed by Vagrant)) by
   <a href="https://github.com/shyiko">
@@ -2793,7 +2793,7 @@ about docker! (Tips: checkout her
    Vessel
   </a>
   <span>
-   &#9733 212, pushed 290 days ago
+   &#9733 212, pushed 291 days ago
   </span>
   (Vessel automates the setup & use of dockerized development environments) by
   <a href="https://github.com/awvessel">
@@ -2820,7 +2820,7 @@ about docker! (Tips: checkout her
    Dokku
   </a>
   <span>
-   &#9733 11549, pushed 3 days ago
+   &#9733 11549, pushed 4 days ago
   </span>
   (Docker powered mini-Heroku in around 100 lines of Bash) by
   <a href="https://github.com/progrium">
@@ -2877,7 +2877,7 @@ about docker! (Tips: checkout her
    Beluga
   </a>
   <span>
-   &#9733 164, pushed 215 days ago
+   &#9733 164, pushed 216 days ago
   </span>
   Beluga a CLI to deploy docker containers on a single server or low amount of servers. By
   <a href="https://github.com/cortexmedia">
@@ -2919,7 +2919,7 @@ about docker! (Tips: checkout her
    Blockbridge
   </a>
   <span>
-   &#9733 24, pushed 4 days ago
+   &#9733 24, pushed 5 days ago
   </span>
   - The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By
   <a href="https://github.com/blockbridge">
@@ -2943,7 +2943,7 @@ about docker! (Tips: checkout her
    Azure Files Volume Driver
   </a>
   <span>
-   &#9733 2, pushed 52 days ago
+   &#9733 2, pushed 53 days ago
   </span>
   - A Docker volume driver that allows you to mount persistent volumes backed by Microsoft Azure File Service. By
   <a href="https://github.com/ahmetalpbalkan">
@@ -3015,7 +3015,7 @@ about docker! (Tips: checkout her
    Official Images from Docker Hub
   </a>
   <span>
-   &#9733 1250, pushed 1 days ago
+   &#9733 1250, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -3023,7 +3023,7 @@ about docker! (Tips: checkout her
    Base Image
   </a>
   <span>
-   &#9733 4140, pushed 1 days ago
+   &#9733 4140, pushed 2 days ago
   </span>
   by
   <a href="https://github.com/phusion/">
@@ -3035,7 +3035,7 @@ about docker! (Tips: checkout her
    Busybox
   </a>
   <span>
-   &#9733 84, pushed 370 days ago
+   &#9733 84, pushed 371 days ago
   </span>
   (with either
   <code>
@@ -3097,7 +3097,7 @@ about docker! (Tips: checkout her
    docker-fluentd
   </a>
   <span>
-   &#9733 22, pushed 517 days ago
+   &#9733 22, pushed 518 days ago
   </span>
   (the Container to Log Other Containers' Logs) by
   <a href="https://github.com/kiyoto">
@@ -3174,7 +3174,7 @@ about docker! (Tips: checkout her
    Dockerfile @jfrazelle
   </a>
   <span>
-   &#9733 2026, pushed 1 days ago
+   &#9733 2026, pushed 2 days ago
   </span>
   by
   <a href="https://github.com/jfrazelle">
@@ -3196,7 +3196,7 @@ desktop!
    Docker Registry v2
   </a>
   <span>
-   &#9733 2017, pushed 3 days ago
+   &#9733 2017, pushed 4 days ago
   </span>
   (The Docker toolset to pack, ship, store, and deliver content)
  </li>
@@ -3234,7 +3234,7 @@ desktop!
    cAdvisor
   </a>
   <span>
-   &#9733 3861, pushed 1 days ago
+   &#9733 3861, pushed 2 days ago
   </span>
   (Analyzes resource usage and performance characteristics of running containers. created by
   <a href="https://github.com/google">
@@ -3401,7 +3401,7 @@ desktop!
    Weave
   </a>
   <span>
-   &#9733 4182, pushed 3 days ago
+   &#9733 4182, pushed 4 days ago
   </span>
   (The Docker network) -- Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
  </li>
@@ -3415,7 +3415,7 @@ desktop!
    Docker-Fluentd
   </a>
   <span>
-   &#9733 22, pushed 517 days ago
+   &#9733 22, pushed 518 days ago
   </span>
   : (Docker container to Log Other Containers' Logs. One can aggregate the logs of Docker containers running on the same host using Fluentd.) by
   <a href="https://github.com/kiyoto">
@@ -3427,7 +3427,7 @@ desktop!
    LogJam
   </a>
   <span>
-   &#9733 110, pushed 208 days ago
+   &#9733 110, pushed 209 days ago
   </span>
   (Logjam is a log forwarder designed to listen on a local port, receive log entries over UDP, and forward these messages on to a log collection server (such as logstash).) by
   <a href="https://github.com/gocardless">
@@ -3592,7 +3592,7 @@ desktop!
    Tsuru
   </a>
   <span>
-   &#9733 1864, pushed 0 days ago
+   &#9733 1864, pushed 1 days ago
   </span>
   (Tsuru is an extensible and open source Platform as a Service software) -- https://tsuru.io/
  </li>
@@ -3780,7 +3780,7 @@ desktop!
    Serf
   </a>
   <span>
-   &#9733 3510, pushed 0 days ago
+   &#9733 3510, pushed 1 days ago
   </span>
   (Service orchestration and management tool) by
   <a href="https://github.com/hashicorp">
@@ -3813,9 +3813,21 @@ desktop!
    ElasticKube
   </a>
   <span>
-   &#9733 79, pushed 3 days ago
+   &#9733 79, pushed 4 days ago
   </span>
   open source management platform for Kubernetes.
+ </li>
+ <li>
+  <a href="https://github.com/ciscocloud/mantl">
+   Mantl
+  </a>
+  <span>
+   &#9733 2237, pushed 4 days ago
+  </span>
+  Mantl is a modern platform for rapidly deploying globally distributed services
+  <a href="http://mantl.io">
+   @ciscocloud
+  </a>
  </li>
 </ul>
 <h2>
@@ -3827,7 +3839,7 @@ desktop!
    docker-bench-security
   </a>
   <span>
-   &#9733 1313, pushed 2 days ago
+   &#9733 1313, pushed 3 days ago
   </span>
   script that checks for dozens of common best-practices around deploying Docker containers in production. By
   <a href="https://github.com/docker">
@@ -3839,7 +3851,7 @@ desktop!
    notary
   </a>
   <span>
-   &#9733 617, pushed 3 days ago
+   &#9733 617, pushed 4 days ago
   </span>
   a server and a client for running and interacting with trusted collections. By
   <a href="https://github.com/docker">
@@ -3857,7 +3869,7 @@ desktop!
    Clair
   </a>
   <span>
-   &#9733 1105, pushed 4 days ago
+   &#9733 1105, pushed 5 days ago
   </span>
   Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By
   <a href="https://github.com/coreos">
@@ -3886,7 +3898,7 @@ desktop!
    etcd
   </a>
   <span>
-   &#9733 9440, pushed 1 days ago
+   &#9733 9440, pushed 2 days ago
   </span>
   : A highly-available key value store for shared configuration and service discovery by
   <a href="https://github.com/coreos">
@@ -3914,7 +3926,7 @@ desktop!
    proxy
   </a>
   <span>
-   &#9733 42, pushed 372 days ago
+   &#9733 42, pushed 373 days ago
   </span>
   : lightweight nginx based load balancer self using service discovery provided by registrator. by
   <a href="https://github.com/factorish">

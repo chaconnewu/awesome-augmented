@@ -389,7 +389,7 @@
    lowdb
   </a>
   <span>
-   &#9733 3046, pushed 6 days ago
+   &#9733 3046, pushed 7 days ago
   </span>
   - Flat file database built on lodash API. (Javascript)
  </li>
@@ -404,7 +404,7 @@
    JSON ODM
   </a>
   <span>
-   &#9733 30, pushed 278 days ago
+   &#9733 30, pushed 279 days ago
   </span>
   - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
  </li>
@@ -422,7 +422,7 @@
    Kinto
   </a>
   <span>
-   &#9733 2734, pushed 0 days ago
+   &#9733 2734, pushed 1 days ago
   </span>
   - A lightweight JSON storage service with synchronisation and sharing abilities.
  </li>
@@ -436,7 +436,7 @@
    countries
   </a>
   <span>
-   &#9733 2417, pushed 6 days ago
+   &#9733 2417, pushed 7 days ago
   </span>
   - World countries.
  </li>
@@ -485,7 +485,7 @@
    jsonymize
   </a>
   <span>
-   &#9733 7, pushed 316 days ago
+   &#9733 7, pushed 317 days ago
   </span>
   - Reads data from standard input, anonymizes, then writes to standard output.
  </li>
@@ -532,7 +532,7 @@
    json-patch-php
   </a>
   <span>
-   &#9733 50, pushed 410 days ago
+   &#9733 50, pushed 411 days ago
   </span>
   - implementation of JSON-patch (IETF RFC 6902) (PHP)
  </li>
@@ -917,7 +917,7 @@
    jsonlint
   </a>
   <span>
-   &#9733 853, pushed 127 days ago
+   &#9733 853, pushed 128 days ago
   </span>
   - Parser and validator with a CLI. (Javascript)
  </li>
@@ -935,6 +935,12 @@
  Online tools
 </h2>
 <ul>
+ <li>
+  <a href="http://www.jsondata.ninja">
+   JSON Data Ninja
+  </a>
+  - The most productive way to visualize and explore tabular JSON data.
+ </li>
  <li>
   <a href="http://pro.jsonlint.com/">
    JSONLint Pro
@@ -1102,7 +1108,7 @@
    HanSON
   </a>
   <span>
-   &#9733 80, pushed 397 days ago
+   &#9733 80, pushed 398 days ago
   </span>
   - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
  </li>
@@ -1177,7 +1183,7 @@
    CSON
   </a>
   <span>
-   &#9733 910, pushed 109 days ago
+   &#9733 910, pushed 110 days ago
   </span>
   - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
  </li>
@@ -1284,7 +1290,7 @@
    json2json
   </a>
   <span>
-   &#9733 121, pushed 42 days ago
+   &#9733 121, pushed 43 days ago
   </span>
   - Transform (reformat) structures from one to another. (Javascript)
  </li>
@@ -1474,7 +1480,7 @@
    JSON Schema View
   </a>
   <span>
-   &#9733 21, pushed 27 days ago
+   &#9733 21, pushed 28 days ago
   </span>
   - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
  </li>
@@ -1483,7 +1489,7 @@
    Angular JSON Schema Form
   </a>
   <span>
-   &#9733 10, pushed 27 days ago
+   &#9733 10, pushed 28 days ago
   </span>
   - Angular directive for making forms out of JSON Schema. (AngularJS)
  </li>
@@ -1512,7 +1518,7 @@
    generate-schema
   </a>
   <span>
-   &#9733 213, pushed 245 days ago
+   &#9733 213, pushed 246 days ago
   </span>
   - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
  </li>
@@ -1536,7 +1542,7 @@
    jsonschema2pojo
   </a>
   <span>
-   &#9733 1739, pushed 1 days ago
+   &#9733 1739, pushed 2 days ago
   </span>
   - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
  </li>
@@ -1554,7 +1560,7 @@
    JSON Schema + Faker
   </a>
   <span>
-   &#9733 280, pushed 3 days ago
+   &#9733 280, pushed 4 days ago
   </span>
   - Fake your schemas.
  </li>
@@ -1563,7 +1569,7 @@
    DLL.js
   </a>
   <span>
-   &#9733 44, pushed 376 days ago
+   &#9733 44, pushed 377 days ago
   </span>
   - Gets you a JSON Schema from PostgreSQL or SQLite3.
  </li>

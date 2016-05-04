@@ -435,7 +435,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/sillsdev/wesay.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 151 days ago
+   &#9733 0, pushed 152 days ago
   </span>
   Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
  </li>
@@ -540,7 +540,7 @@
    ArtOfReading
   </a>
   <span>
-   &#9733 0, pushed 249 days ago
+   &#9733 0, pushed 250 days ago
   </span>
   Index and processing scripts related to the Art Of Reading illustration collection
  </li>
@@ -569,7 +569,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/BloomBooks/BloomDesktop.svg"/>
   </a>
   <span>
-   &#9733 11, pushed 3 days ago
+   &#9733 11, pushed 4 days ago
   </span>
   Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
  </li>
@@ -666,7 +666,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg"/>
   </a>
   <span>
-   &#9733 9, pushed 1 days ago
+   &#9733 9, pushed 2 days ago
   </span>
   Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
  </li>
@@ -692,7 +692,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/DataTags.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 538 days ago
+   &#9733 0, pushed 539 days ago
   </span>
   A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (
   <em>
@@ -706,7 +706,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/IQSS/dataverse.svg"/>
   </a>
   <span>
-   &#9733 96, pushed 3 days ago
+   &#9733 96, pushed 4 days ago
   </span>
   A data repository framework to share and publish research data.
  </li>
@@ -716,7 +716,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jrwdunham/dative.svg"/>
   </a>
   <span>
-   &#9733 3, pushed 12 days ago
+   &#9733 3, pushed 13 days ago
   </span>
   A single-page application that interacts with multiple linguistic fieldwork web service databases.
  </li>
@@ -736,7 +736,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jcgood/desmeme.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 122 days ago
+   &#9733 1, pushed 123 days ago
   </span>
   Database and tools for exploring linguistic templates
  </li>
@@ -756,7 +756,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/arne-cl/discoursegraphs.svg"/>
   </a>
   <span>
-   &#9733 11, pushed 2 days ago
+   &#9733 11, pushed 3 days ago
   </span>
   Python-based tool to convert and merge multilayer annotated linguistic data
  </li>
@@ -801,7 +801,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/eopas/eopas.svg"/>
   </a>
   <span>
-   &#9733 5, pushed 287 days ago
+   &#9733 5, pushed 288 days ago
   </span>
   ETHNOER Online Presentation and Annotation System
  </li>
@@ -811,7 +811,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/clab/fast_align.svg"/>
   </a>
   <span>
-   &#9733 37, pushed 113 days ago
+   &#9733 37, pushed 114 days ago
   </span>
   Simple, fast unsupervised word aligner.
  </li>
@@ -821,7 +821,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/sillsdev/FieldWorks.svg"/>
   </a>
   <span>
-   &#9733 13, pushed 0 days ago
+   &#9733 13, pushed 1 days ago
   </span>
   FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
  </li>
@@ -858,7 +858,7 @@
    FwDocumentation
   </a>
   <span>
-   &#9733 2, pushed 137 days ago
+   &#9733 2, pushed 138 days ago
   </span>
   Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
  </li>
@@ -867,7 +867,7 @@
    FwLocalizations
   </a>
   <span>
-   &#9733 0, pushed 4 days ago
+   &#9733 0, pushed 5 days ago
   </span>
   Localizations for FieldWorks
  </li>
@@ -876,7 +876,7 @@
    FwSupportTools
   </a>
   <span>
-   &#9733 0, pushed 5 days ago
+   &#9733 0, pushed 6 days ago
   </span>
   Additional tools for FieldWorks development
  </li>
@@ -886,7 +886,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/mozilla-b2g/gaia.svg"/>
   </a>
   <span>
-   &#9733 2041, pushed 3 days ago
+   &#9733 2041, pushed 4 days ago
   </span>
   Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see
   <a href="https://wiki.mozilla.org/B2G">
@@ -964,7 +964,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/hunspell/hunspell.svg"/>
   </a>
   <span>
-   &#9733 59, pushed 0 days ago
+   &#9733 59, pushed 1 days ago
   </span>
   Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
  </li>
@@ -982,7 +982,7 @@
    icu4c
   </a>
   <span>
-   &#9733 2, pushed 2 days ago
+   &#9733 2, pushed 3 days ago
   </span>
   Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
  </li>
@@ -1011,7 +1011,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/itweets-geodata.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 104 days ago
+   &#9733 0, pushed 105 days ago
   </span>
   Geodata from Indigenous Tweets
  </li>
@@ -1031,7 +1031,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/reokatoa/koreksyon.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 254 days ago
+   &#9733 2, pushed 255 days ago
   </span>
   Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
  </li>
@@ -1071,7 +1071,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/leebock/languages.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 1054 days ago
+   &#9733 2, pushed 1055 days ago
   </span>
   Application files for the Smithsonian endangered languages story map.
  </li>
@@ -1231,7 +1231,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 892 days ago
+   &#9733 0, pushed 893 days ago
   </span>
   Creates a pseudo-locale to evaluate string prioritization for l10n
  </li>
@@ -1272,7 +1272,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/longnow/node-panlex.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 559 days ago
+   &#9733 2, pushed 560 days ago
   </span>
   node.js client for PanLex
  </li>
@@ -1320,7 +1320,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jrwdunham/old-webapp.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 490 days ago
+   &#9733 1, pushed 491 days ago
   </span>
   Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
  </li>
@@ -1345,7 +1345,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/longnow/panlex-tools.svg"/>
   </a>
   <span>
-   &#9733 3, pushed 7 days ago
+   &#9733 3, pushed 8 days ago
   </span>
   This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org
  </li>
@@ -1354,7 +1354,7 @@
    paradigm
   </a>
   <span>
-   &#9733 0, pushed 849 days ago
+   &#9733 0, pushed 850 days ago
   </span>
   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
  </li>
@@ -1382,7 +1382,7 @@
    phonology-assistant
   </a>
   <span>
-   &#9733 0, pushed 21 days ago
+   &#9733 0, pushed 22 days ago
   </span>
   Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
  </li>
@@ -1470,7 +1470,7 @@
    salm
   </a>
   <span>
-   &#9733 2, pushed 33 days ago
+   &#9733 2, pushed 34 days ago
   </span>
   SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
  </li>
@@ -1490,7 +1490,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/secwepemc-facebook.svg"/>
   </a>
   <span>
-   &#9733 12, pushed 418 days ago
+   &#9733 12, pushed 419 days ago
   </span>
   Translate Facebook into unsupported languages
  </li>
@@ -1500,7 +1500,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/alvations/SeedLing.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 91 days ago
+   &#9733 1, pushed 92 days ago
   </span>
   Building and Using A Seed Corpus for the Human Language Project
  </li>
@@ -1519,7 +1519,7 @@
    solid
   </a>
   <span>
-   &#9733 0, pushed 384 days ago
+   &#9733 0, pushed 385 days ago
   </span>
   Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
  </li>
@@ -1554,7 +1554,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/dasmith/stanford-corenlp-python.svg"/>
   </a>
   <span>
-   &#9733 338, pushed 288 days ago
+   &#9733 338, pushed 289 days ago
   </span>
   Python wrapper for Stanford CoreNLP tools
  </li>
@@ -1564,7 +1564,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/stanfordnlp/stanza.svg"/>
   </a>
   <span>
-   &#9733 16, pushed 11 days ago
+   &#9733 16, pushed 12 days ago
   </span>
   Stanford NLP group's shared Python tools.
  </li>
@@ -1594,7 +1594,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/longnow/TeraDict.svg"/>
   </a>
   <span>
-   &#9733 4, pushed 18 days ago
+   &#9733 4, pushed 19 days ago
   </span>
   Translate English words into hundreds of languages!
  </li>
@@ -1604,7 +1604,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/utcompling/texnlp.svg"/>
   </a>
   <span>
-   &#9733 11, pushed 1570 days ago
+   &#9733 11, pushed 1571 days ago
   </span>
   TexNLP: Texas Natural Language Processing tools
  </li>
@@ -1630,7 +1630,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/RichardLitt/toolbox-scripts.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 480 days ago
+   &#9733 0, pushed 481 days ago
   </span>
   Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
  </li>
@@ -1650,7 +1650,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/gausby/translitit-engine.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 744 days ago
+   &#9733 1, pushed 745 days ago
   </span>
   A transliteration engine written in JavaScript
  </li>
@@ -1836,7 +1836,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/AudioWebService.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 259 days ago
+   &#9733 2, pushed 260 days ago
   </span>
   a simple nodejs server which accepts upload of audio and runs it through praat
  </li>
@@ -1846,7 +1846,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AndrewRosenberg/AuToBI.svg"/>
   </a>
   <span>
-   &#9733 15, pushed 454 days ago
+   &#9733 15, pushed 455 days ago
   </span>
   Automatic prosodic annotation tool written in Java.
  </li>
@@ -1870,7 +1870,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/westonruter/esv-text-audio-aligner.svg"/>
   </a>
   <span>
-   &#9733 52, pushed 1130 days ago
+   &#9733 52, pushed 1131 days ago
   </span>
   ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
  </li>
@@ -1969,7 +1969,7 @@
    pocketsphinx-ios-demo
   </a>
   <span>
-   &#9733 24, pushed 339 days ago
+   &#9733 24, pushed 340 days ago
   </span>
   Simple demo for iOS
  </li>
@@ -1978,7 +1978,7 @@
    pocketsphinx-python
   </a>
   <span>
-   &#9733 73, pushed 80 days ago
+   &#9733 73, pushed 81 days ago
   </span>
   Python module installed with setup.py
  </li>
@@ -1987,7 +1987,7 @@
    pocketsphinx-ruby
   </a>
   <span>
-   &#9733 8, pushed 354 days ago
+   &#9733 8, pushed 355 days ago
   </span>
   Ruby speech recognition with Pocketsphinx
  </li>
@@ -2070,7 +2070,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg"/>
   </a>
   <span>
-   &#9733 6, pushed 369 days ago
+   &#9733 6, pushed 370 days ago
   </span>
  </li>
  <li>
@@ -2088,7 +2088,7 @@
    sphinx4
   </a>
   <span>
-   &#9733 449, pushed 16 days ago
+   &#9733 449, pushed 17 days ago
   </span>
   Pure Java speech recognition library
  </li>
@@ -2097,7 +2097,7 @@
    sphinxbase
   </a>
   <span>
-   &#9733 133, pushed 27 days ago
+   &#9733 133, pushed 28 days ago
   </span>
  </li>
  <li>
@@ -2105,7 +2105,7 @@
    sphinxtrain
   </a>
   <span>
-   &#9733 48, pushed 21 days ago
+   &#9733 48, pushed 22 days ago
   </span>
  </li>
  <li>
@@ -2113,7 +2113,7 @@
    TLSphinx
   </a>
   <span>
-   &#9733 4, pushed 98 days ago
+   &#9733 4, pushed 99 days ago
   </span>
   Swift wrapper around Pocketsphinx
  </li>
@@ -2138,7 +2138,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/pyramation/LaTeX2HTML5.svg"/>
   </a>
   <span>
-   &#9733 588, pushed 606 days ago
+   &#9733 588, pushed 607 days ago
   </span>
   LaTeX web components
  </li>
@@ -2148,7 +2148,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/MultilingualCorporaExtractor.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 1053 days ago
+   &#9733 0, pushed 1054 days ago
   </span>
   Node io Spider for extracting multilingual corpora (
   <em>
@@ -2191,7 +2191,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/GamifyPsycholinguisticsExperiments.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 1453 days ago
+   &#9733 0, pushed 1454 days ago
   </span>
   A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (
   <em>
@@ -2259,7 +2259,7 @@
    flashfork
   </a>
   <span>
-   &#9733 1, pushed 87 days ago
+   &#9733 1, pushed 88 days ago
   </span>
   An Anki addon for copying decks of flashcards, with or without also copying their note types.
  </li>
@@ -2268,7 +2268,7 @@
    flashgrab
   </a>
   <span>
-   &#9733 2, pushed 87 days ago
+   &#9733 2, pushed 88 days ago
   </span>
   An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]
  </li>
@@ -2277,7 +2277,7 @@
    flashgrid ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashgrid.svg
   </a>
   <span>
-   &#9733 1, pushed 87 days ago
+   &#9733 1, pushed 88 days ago
   </span>
   An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
  </li>
@@ -2301,7 +2301,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/hailo.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 1688 days ago
+   &#9733 0, pushed 1689 days ago
   </span>
   A conversation bot using Markov chains
  </li>
@@ -2331,7 +2331,7 @@
    <img alt="GitHub starts" src="https://img.shields.io/github/stars/simplenlg/simplenlg.svg"/>
   </a>
   <span>
-   &#9733 158, pushed 22 days ago
+   &#9733 158, pushed 23 days ago
   </span>
   SimpleNLG is a simple Java API designed to facilitate the generation of Natural Language. It was originally developed at the University of Aberdeen's Department of Computing Science. English at this moment but there exist forks in French and German.
  </li>
@@ -2422,7 +2422,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 944 days ago
+   &#9733 0, pushed 945 days ago
   </span>
   Android App to run perception experiments
  </li>
@@ -2442,7 +2442,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg"/>
   </a>
   <span>
-   &#9733 4, pushed 616 days ago
+   &#9733 4, pushed 617 days ago
   </span>
   A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/
  </li>
@@ -2451,7 +2451,7 @@
    pocketsphinx-android-demo
   </a>
   <span>
-   &#9733 115, pushed 4 days ago
+   &#9733 115, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -2459,7 +2459,7 @@
    pocketsphinx-android
   </a>
   <span>
-   &#9733 72, pushed 97 days ago
+   &#9733 72, pushed 98 days ago
   </span>
   pocketsphinx build for Android
  </li>
@@ -2539,7 +2539,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 580 days ago
+   &#9733 0, pushed 581 days ago
   </span>
   Sikuli tests for AndroidLanguageLearningClientForFieldDB
  </li>
@@ -2641,7 +2641,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/LanguageClassDashboard.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 602 days ago
+   &#9733 0, pushed 603 days ago
   </span>
   App which provides a view of FieldDB corpora for language teachers
   <a href="http://app.phophlo.ca/">
@@ -2664,7 +2664,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/LexiconWebServiceSample.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 1440 days ago
+   &#9733 1, pushed 1441 days ago
   </span>
   A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project.
  </li>
@@ -2689,7 +2689,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/krismyu/ldc-kiy.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 1035 days ago
+   &#9733 0, pushed 1036 days ago
   </span>
   Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation,
   <em>
@@ -2768,7 +2768,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jcgood/complexity.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 476 days ago
+   &#9733 0, pushed 477 days ago
   </span>
   Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
  </li>
@@ -3091,7 +3091,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/chichewa.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 216 days ago
+   &#9733 2, pushed 217 days ago
   </span>
   NLP resources for Chichewa
  </li>
@@ -3119,7 +3119,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    Inimesed
   </a>
   <span>
-   &#9733 56, pushed 395 days ago
+   &#9733 56, pushed 396 days ago
   </span>
   An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
  </li>
@@ -3128,7 +3128,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    Kõnele
   </a>
   <span>
-   &#9733 34, pushed 1 days ago
+   &#9733 34, pushed 2 days ago
   </span>
   Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
  </li>
@@ -3156,7 +3156,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    Gadatsqvetilebebi
   </a>
   <span>
-   &#9733 0, pushed 697 days ago
+   &#9733 0, pushed 698 days ago
   </span>
   გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
  </li>
@@ -3187,7 +3187,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    KartuliChromeExtension
   </a>
   <span>
-   &#9733 1, pushed 744 days ago
+   &#9733 1, pushed 745 days ago
   </span>
   Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
  </li>
@@ -3196,7 +3196,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    QartuliDaBunebismetkveleba
   </a>
   <span>
-   &#9733 1, pushed 869 days ago
+   &#9733 1, pushed 870 days ago
   </span>
   მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
  </li>
@@ -3223,7 +3223,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    translitit-latin-to-mkhedruli-georgian
   </a>
   <span>
-   &#9733 0, pushed 739 days ago
+   &#9733 0, pushed 740 days ago
   </span>
   A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
  </li>
@@ -3232,7 +3232,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    translitit-mkhedruli-georgian-to-ipa
   </a>
   <span>
-   &#9733 0, pushed 649 days ago
+   &#9733 0, pushed 650 days ago
   </span>
   A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
  </li>
@@ -3296,7 +3296,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/hindi-morph.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 1098 days ago
+   &#9733 0, pushed 1099 days ago
   </span>
   An open source morphological analyzer for Hindi
  </li>
@@ -3335,7 +3335,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    InuktitutAlignerData
   </a>
   <span>
-   &#9733 2, pushed 1421 days ago
+   &#9733 2, pushed 1422 days ago
   </span>
   Scripts for alignment of laboratory speech production data
  </li>
@@ -3364,7 +3364,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/aimsigh.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 1699 days ago
+   &#9733 1, pushed 1700 days ago
   </span>
   Source for the now-defunct aimsigh.com Irish search engine
  </li>
@@ -3410,7 +3410,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/tesseract-gle-uncial.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 371 days ago
+   &#9733 0, pushed 372 days ago
   </span>
   OCR for old Irish fonts
  </li>
@@ -3470,7 +3470,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ldmt-muri/kin-morph-fst.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 980 days ago
+   &#9733 2, pushed 981 days ago
   </span>
   Kinyarwanda morphological analyzer
  </li>
@@ -3584,7 +3584,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cidles/fredericajordarzambarino.svg"/>
   </a>
   <span>
-   &#9733 0, pushed 606 days ago
+   &#9733 0, pushed 607 days ago
   </span>
   A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
  </li>
@@ -3603,7 +3603,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    Ojibway-iphone-app
   </a>
   <span>
-   &#9733 0, pushed 275 days ago
+   &#9733 0, pushed 276 days ago
   </span>
   An iPhone app with audio and images for learning the Ojibway language.
  </li>
@@ -3612,7 +3612,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
    OjibwayMap
   </a>
   <span>
-   &#9733 0, pushed 275 days ago
+   &#9733 0, pushed 276 days ago
   </span>
   An iPhone app with audio and images for learning Ojibway language and culture.
  </li>
@@ -3752,7 +3752,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/hunspell-gd.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 586 days ago
+   &#9733 2, pushed 587 days ago
   </span>
   Files for building Scottish Gaelic spell checkers
  </li>
@@ -3772,7 +3772,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/neskie/secwepemctsnem.svg"/>
   </a>
   <span>
-   &#9733 2, pushed 2013 days ago
+   &#9733 2, pushed 2014 days ago
   </span>
   A project to help people learn Secwepemctsín.
  </li>
@@ -3792,7 +3792,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/rtxanson/somorph.svg"/>
   </a>
   <span>
-   &#9733 1, pushed 1256 days ago
+   &#9733 1, pushed 1257 days ago
   </span>
   Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in
   <a href="http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html">

@@ -272,6 +272,11 @@
    How To Use PouchDB + SQLite For Local Storage In Ionic 2
   </a>
  </li>
+ <li>
+  <a href="http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/">
+   Adding Background Geolocation to an Ionic 2 Application
+  </a>
+ </li>
 </ul>
 <h4>
  Backend as a Service
@@ -357,7 +362,7 @@
    Ionic Conference App
   </a>
   <span>
-   &#9733 432, pushed 0 days ago
+   &#9733 432, pushed 1 days ago
   </span>
  </li>
  <li>
@@ -365,7 +370,7 @@
    IonicRealty
   </a>
   <span>
-   &#9733 90, pushed 27 days ago
+   &#9733 90, pushed 28 days ago
   </span>
  </li>
 </ul>

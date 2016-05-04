@@ -108,7 +108,7 @@
    Pretty Tensor
   </a>
   <span>
-   &#9733 516, pushed 18 days ago
+   &#9733 516, pushed 19 days ago
   </span>
   - Pretty Tensor provides a high level builder API
  </li>
@@ -158,7 +158,7 @@
    Neural Turing Machine in TensorFlow
   </a>
   <span>
-   &#9733 269, pushed 88 days ago
+   &#9733 269, pushed 89 days ago
   </span>
   - implementation of Neural Turing Machine
  </li>
@@ -339,8 +339,13 @@
   </a>
  </li>
  <li>
-  <a href="https://www.reddit.com/r/MachineLearning/search?q=tensorflow">
+  <a href="https://www.reddit.com/r/tensorflow">
    Reddit
+  </a>
+ </li>
+ <li>
+  <a href="https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss">
+   Mailing List
   </a>
  </li>
 </ul>

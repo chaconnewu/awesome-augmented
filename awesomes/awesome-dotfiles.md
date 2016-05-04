@@ -290,7 +290,7 @@
    Ellipsis
   </a>
   <span>
-   &#9733 51, pushed 22 days ago
+   &#9733 51, pushed 23 days ago
   </span>
   - A package manager for dotfiles.
  </li>
@@ -311,7 +311,7 @@
    homeshick
   </a>
   <span>
-   &#9733 874, pushed 190 days ago
+   &#9733 874, pushed 191 days ago
   </span>
   - Git dotfile synchronizer written in Bash.
  </li>
@@ -333,7 +333,7 @@
    mackup
   </a>
   <span>
-   &#9733 4628, pushed 4 days ago
+   &#9733 4628, pushed 5 days ago
   </span>
   - Keep your application settings in sync (OS X/Linux).
  </li>
@@ -342,7 +342,7 @@
    rcm
   </a>
   <span>
-   &#9733 1158, pushed 10 days ago
+   &#9733 1158, pushed 11 days ago
   </span>
   - rc file (dotfile) management
  </li>
@@ -370,7 +370,7 @@
    vcsh
   </a>
   <span>
-   &#9733 1092, pushed 37 days ago
+   &#9733 1092, pushed 38 days ago
   </span>
   - Version Control System for $HOME, multiple Git repositories in $HOME.
  </li>
@@ -379,7 +379,7 @@
    yadm
   </a>
   <span>
-   &#9733 81, pushed 3 days ago
+   &#9733 81, pushed 4 days ago
   </span>
   - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
  </li>
@@ -411,7 +411,7 @@
    kody
   </a>
   <span>
-   &#9733 24, pushed 53 days ago
+   &#9733 24, pushed 54 days ago
   </span>
   - Dotfiles runner/manager written in node
  </li>
@@ -443,7 +443,7 @@
    OS X Defaults
   </a>
   <span>
-   &#9733 239, pushed 209 days ago
+   &#9733 239, pushed 210 days ago
   </span>
   - Centralized place for the awesome work started by
   <a href="https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults">
@@ -470,7 +470,7 @@
    Awesome Zsh Plugins
   </a>
   <span>
-   &#9733 1464, pushed 2 days ago
+   &#9733 1464, pushed 3 days ago
   </span>
   - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
  </li>

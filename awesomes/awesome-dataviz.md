@@ -183,7 +183,7 @@
    Epoch
   </a>
   <span>
-   &#9733 4510, pushed 43 days ago
+   &#9733 4510, pushed 44 days ago
   </span>
   - Perfect to create real-time charts.
  </li>
@@ -303,7 +303,7 @@
    Cesium
   </a>
   <span>
-   &#9733 1254, pushed 1 days ago
+   &#9733 1254, pushed 2 days ago
   </span>
   - WebGL virtual globe and map engine.
  </li>
@@ -327,7 +327,7 @@
    Mapael
   </a>
   <span>
-   &#9733 693, pushed 14 days ago
+   &#9733 693, pushed 15 days ago
   </span>
   - jQuery plugin based on the.js to display vector maps.
  </li>
@@ -354,7 +354,7 @@
    Awesome D3
   </a>
   <span>
-   &#9733 2786, pushed 7 days ago
+   &#9733 2786, pushed 8 days ago
   </span>
   .
  </li>
@@ -456,7 +456,7 @@
    HelloCharts
   </a>
   <span>
-   &#9733 2475, pushed 19 days ago
+   &#9733 2475, pushed 20 days ago
   </span>
   - Charting library for Android compatible with API 8+.
  </li>
@@ -465,7 +465,7 @@
    MPAndroidChart
   </a>
   <span>
-   &#9733 8771, pushed 1 days ago
+   &#9733 8771, pushed 2 days ago
   </span>
   - A powerful & easy to use chart library.
  </li>
@@ -557,7 +557,7 @@
    glumpy
   </a>
   <span>
-   &#9733 141, pushed 45 days ago
+   &#9733 141, pushed 46 days ago
   </span>
   - OpenGL scientific visualizations library.
  </li>
@@ -692,7 +692,7 @@
    Gephi
   </a>
   <span>
-   &#9733 1434, pushed 28 days ago
+   &#9733 1434, pushed 29 days ago
   </span>
   - An open-source platform for visualizing and manipulating large graphs
  </li>
@@ -713,7 +713,7 @@
    Spark
   </a>
   <span>
-   &#9733 4382, pushed 2 days ago
+   &#9733 4382, pushed 3 days ago
   </span>
   - Sparklines for the shell. It have several
   <a href="https://github.com/holman/spark/wiki/Alternative-Implementations">

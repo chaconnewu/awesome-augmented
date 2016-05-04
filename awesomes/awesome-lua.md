@@ -308,7 +308,7 @@
    lupa
   </a>
   <span>
-   &#9733 293, pushed 20 days ago
+   &#9733 293, pushed 21 days ago
   </span>
   - Python bindings to LuaJIT2.
  </li>
@@ -463,7 +463,7 @@
    lua-stdlib
   </a>
   <span>
-   &#9733 127, pushed 87 days ago
+   &#9733 127, pushed 88 days ago
   </span>
   - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.
  </li>
@@ -547,7 +547,7 @@
      lurker
     </a>
     <span>
-     &#9733 66, pushed 425 days ago
+     &#9733 66, pushed 426 days ago
     </span>
     - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.
    </li>
@@ -575,7 +575,7 @@
    Jumper
   </a>
   <span>
-   &#9733 312, pushed 34 days ago
+   &#9733 312, pushed 35 days ago
   </span>
   - Fast, lightweight, and easy-to-use pathfinding library for grid-based games.
  </li>
@@ -590,7 +590,7 @@
    NoobHub
   </a>
   <span>
-   &#9733 122, pushed 203 days ago
+   &#9733 122, pushed 204 days ago
   </span>
   - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.
  </li>
@@ -631,7 +631,7 @@
      tween.lua
     </a>
     <span>
-     &#9733 195, pushed 40 days ago
+     &#9733 195, pushed 41 days ago
     </span>
     - Small library for tweening, with several easing functions.
    </li>
@@ -654,7 +654,7 @@
      PacPac
     </a>
     <span>
-     &#9733 305, pushed 319 days ago
+     &#9733 305, pushed 320 days ago
     </span>
     - A Pac-man clone, made with LÖVE.
    </li>
@@ -810,7 +810,7 @@
      Kong
     </a>
     <span>
-     &#9733 5107, pushed 1 days ago
+     &#9733 5107, pushed 2 days ago
     </span>
     - Microservice & API Management Layer
    </li>
@@ -882,7 +882,7 @@
      ConcurrentLua
     </a>
     <span>
-     &#9733 132, pushed 527 days ago
+     &#9733 132, pushed 528 days ago
     </span>
     - Implements an Erlang-style message-passing concurrency model.
    </li>
@@ -905,7 +905,7 @@
      lanes
     </a>
     <span>
-     &#9733 171, pushed 12 days ago
+     &#9733 171, pushed 13 days ago
     </span>
     - Library implementing a message passing model with one OS thread per Lua thread.
    </li>
@@ -914,7 +914,7 @@
      luaproc
     </a>
     <span>
-     &#9733 60, pushed 31 days ago
+     &#9733 60, pushed 32 days ago
     </span>
     - Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also
     <a href="http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf">
@@ -998,7 +998,7 @@
    docroc
   </a>
   <span>
-   &#9733 3, pushed 129 days ago
+   &#9733 3, pushed 130 days ago
   </span>
   - Parse comments into a Lua table to generate documentation.
  </li>
@@ -1012,7 +1012,7 @@
    30log
   </a>
   <span>
-   &#9733 174, pushed 57 days ago
+   &#9733 174, pushed 58 days ago
   </span>
   - Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.
  </li>
@@ -1055,7 +1055,7 @@
    LuaDate
   </a>
   <span>
-   &#9733 66, pushed 172 days ago
+   &#9733 66, pushed 173 days ago
   </span>
   - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.
  </li>
@@ -1189,7 +1189,7 @@
    lyaml
   </a>
   <span>
-   &#9733 33, pushed 118 days ago
+   &#9733 33, pushed 119 days ago
   </span>
   - YAML encoding/decoding via binding to LibYAML.
  </li>
@@ -1218,7 +1218,7 @@
    i18n.lua
   </a>
   <span>
-   &#9733 47, pushed 29 days ago
+   &#9733 47, pushed 30 days ago
   </span>
   - Internationalization library with locales, formatting, and pluralization.
  </li>
@@ -1227,7 +1227,7 @@
    inspect.lua
   </a>
   <span>
-   &#9733 290, pushed 22 days ago
+   &#9733 290, pushed 23 days ago
   </span>
   - Human-readable representation of Lua tables.
  </li>
@@ -1399,7 +1399,7 @@
    luassert
   </a>
   <span>
-   &#9733 35, pushed 3 days ago
+   &#9733 35, pushed 4 days ago
   </span>
   - Assertion library extending Lua's built-in assertions.
  </li>
@@ -1408,7 +1408,7 @@
    lust
   </a>
   <span>
-   &#9733 5, pushed 106 days ago
+   &#9733 5, pushed 107 days ago
   </span>
   - Minimal test framework.
  </li>
@@ -1428,7 +1428,7 @@
    luaffi
   </a>
   <span>
-   &#9733 233, pushed 906 days ago
+   &#9733 233, pushed 907 days ago
   </span>
   - Standalone FFI library, compatible with the LuaJIT FFI interface.
  </li>
@@ -1442,7 +1442,7 @@
    luadec51
   </a>
   <span>
-   &#9733 137, pushed 245 days ago
+   &#9733 137, pushed 246 days ago
   </span>
   - Lua Decompiler for Lua version 5.1.
  </li>
@@ -1493,7 +1493,7 @@
    Typed Lua
   </a>
   <span>
-   &#9733 247, pushed 3 days ago
+   &#9733 247, pushed 4 days ago
   </span>
   - A typed superset of Lua that compiles to plain Lua.
  </li>
@@ -1507,7 +1507,7 @@
    punchdrunk.js
   </a>
   <span>
-   &#9733 75, pushed 85 days ago
+   &#9733 75, pushed 86 days ago
   </span>
   - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.
  </li>

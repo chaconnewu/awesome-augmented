@@ -1035,7 +1035,7 @@
    Open source Python module for computer vision
   </a>
   <span>
-   &#9733 845, pushed 653 days ago
+   &#9733 845, pushed 654 days ago
   </span>
  </li>
  <li>
@@ -1209,7 +1209,7 @@
    Local Binary Patterns
   </a>
   <span>
-   &#9733 37, pushed 531 days ago
+   &#9733 37, pushed 532 days ago
   </span>
  </li>
 </ul>
@@ -1736,7 +1736,7 @@
    SEEDS Revised
   </a>
   <span>
-   &#9733 19, pushed 41 days ago
+   &#9733 19, pushed 42 days ago
   </span>
  </li>
  <li>
@@ -2083,7 +2083,7 @@
    ReInspect
   </a>
   <span>
-   &#9733 123, pushed 3 days ago
+   &#9733 123, pushed 4 days ago
   </span>
  </li>
 </ul>
@@ -2134,7 +2134,7 @@
    PMBP: PatchMatch Belief Propagation
   </a>
   <span>
-   &#9733 2, pushed 592 days ago
+   &#9733 2, pushed 593 days ago
   </span>
  </li>
  <li>
@@ -3039,7 +3039,7 @@
    awesome-deep-learning
   </a>
   <span>
-   &#9733 1922, pushed 7 days ago
+   &#9733 1922, pushed 8 days ago
   </span>
  </li>
  <li>

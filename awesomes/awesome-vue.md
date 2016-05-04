@@ -186,7 +186,7 @@
    </strong>
   </a>
   <span>
-   &#9733 17872, pushed 2 days ago
+   &#9733 17872, pushed 3 days ago
   </span>
  </li>
  <li>
@@ -230,7 +230,7 @@
    vue-requests ★25
   </a>
   <span>
-   &#9733 25, pushed 142 days ago
+   &#9733 25, pushed 143 days ago
   </span>
   - Request a Vue.js module you wish existed or get ideas for modules
  </li>
@@ -284,7 +284,7 @@
      CoffeeScript Version ★3
     </a>
     <span>
-     &#9733 3, pushed 63 days ago
+     &#9733 3, pushed 64 days ago
     </span>
    </li>
   </ul>
@@ -551,7 +551,7 @@
    </strong>
   </a>
   <span>
-   &#9733 625, pushed 21 days ago
+   &#9733 625, pushed 22 days ago
   </span>
   - Chrome devtools extension for debugging Vue applications.
  </li>
@@ -573,7 +573,7 @@
    vue-compiler ★2
   </a>
   <span>
-   &#9733 2, pushed 18 days ago
+   &#9733 2, pushed 19 days ago
   </span>
   - A simple CLI wrapper around vueify
  </li>
@@ -614,7 +614,7 @@
    brunch-vue ★2
   </a>
   <span>
-   &#9733 2, pushed 55 days ago
+   &#9733 2, pushed 56 days ago
   </span>
   - Adds support to Brunch for pre-compiling single file Vue components.
  </li>
@@ -623,7 +623,7 @@
    vueify-extract-css ★18
   </a>
   <span>
-   &#9733 19, pushed 40 days ago
+   &#9733 19, pushed 41 days ago
   </span>
   - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
  </li>
@@ -831,7 +831,7 @@
      vue-materialize ★25
     </a>
     <span>
-     &#9733 29, pushed 4 days ago
+     &#9733 29, pushed 5 days ago
     </span>
     : materializeCss styles and animations for
     <code>
@@ -852,7 +852,7 @@
      vue-side-nav
     </a>
     <span>
-     &#9733 1, pushed 19 days ago
+     &#9733 1, pushed 20 days ago
     </span>
     : responsive, touch enabled side nav
    </li>
@@ -883,7 +883,7 @@
      vue-icons
     </a>
     <span>
-     &#9733 1, pushed 1 days ago
+     &#9733 1, pushed 2 days ago
     </span>
     : webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
    </li>
@@ -915,7 +915,7 @@
      </strong>
     </a>
     <span>
-     &#9733 1143, pushed 2 days ago
+     &#9733 1143, pushed 3 days ago
     </span>
     - Official router for building SPAs.
     <sup>
@@ -927,7 +927,7 @@
      Vue page ★15
     </a>
     <span>
-     &#9733 15, pushed 258 days ago
+     &#9733 15, pushed 259 days ago
     </span>
     , a routing system based on pagejs by @AlexToudic
    </li>
@@ -936,7 +936,7 @@
      Vue Lanes ★19
     </a>
     <span>
-     &#9733 19, pushed 767 days ago
+     &#9733 19, pushed 768 days ago
     </span>
     , an event-based routing system for Vue by @bpierre
    </li>
@@ -945,7 +945,7 @@
      Vue route ★70
     </a>
     <span>
-     &#9733 70, pushed 269 days ago
+     &#9733 70, pushed 270 days ago
     </span>
     , ng-view inspired routes for Vue by @ayamflow
    </li>
@@ -956,7 +956,7 @@
      </strong>
     </a>
     <span>
-     &#9733 116, pushed 10 days ago
+     &#9733 116, pushed 11 days ago
     </span>
     — simple router / layout manager inspired by FSMs and ui-router by
     <a href="https://github.com/inca">
@@ -1105,7 +1105,7 @@
      Vue validator ★34
     </a>
     <span>
-     &#9733 35, pushed 206 days ago
+     &#9733 35, pushed 207 days ago
     </span>
     by @xrado
    </li>
@@ -1116,7 +1116,7 @@
      </strong>
     </a>
     <span>
-     &#9733 110, pushed 13 days ago
+     &#9733 110, pushed 14 days ago
     </span>
     by @fergaldoyle
     <sup>
@@ -1179,7 +1179,7 @@
      vue-select ★45
     </a>
     <span>
-     &#9733 48, pushed 54 days ago
+     &#9733 48, pushed 55 days ago
     </span>
     : A Vue.js component implementing the select control with the
     <a href="https://github.com/select2/select2">
@@ -1205,7 +1205,7 @@
      vue-datetime-picker ★54
     </a>
     <span>
-     &#9733 55, pushed 28 days ago
+     &#9733 55, pushed 29 days ago
     </span>
     : A Vue.js component implementing the datetime picker control using the
     <a href="https://github.com/Eonasdan/bootstrap-datetimepicker">
@@ -1281,7 +1281,7 @@
      Vue YouTube Embed ★16
     </a>
     <span>
-     &#9733 16, pushed 40 days ago
+     &#9733 16, pushed 41 days ago
     </span>
     : a directive for Vue.js and YouTube by @kaorun343
    </li>
@@ -1489,7 +1489,7 @@
      fire-select
     </a>
     <span>
-     &#9733 32, pushed 10 days ago
+     &#9733 32, pushed 11 days ago
     </span>
     : Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
    </li>
@@ -1576,7 +1576,7 @@
      Vue Samples ★18
     </a>
     <span>
-     &#9733 19, pushed 186 days ago
+     &#9733 19, pushed 187 days ago
     </span>
     by @superlloyd
    </li>
@@ -1596,7 +1596,7 @@
      </strong>
     </a>
     <span>
-     &#9733 161, pushed 12 days ago
+     &#9733 161, pushed 13 days ago
     </span>
     by @bradstewart
    </li>
@@ -1605,7 +1605,7 @@
      Single page application example (Vue + Voie)
     </a>
     <span>
-     &#9733 31, pushed 119 days ago
+     &#9733 31, pushed 120 days ago
     </span>
     by
     <a href="https://github.com/inca">
@@ -1641,7 +1641,7 @@
      Vue SoundCloud ★12
     </a>
     <span>
-     &#9733 13, pushed 11 days ago
+     &#9733 13, pushed 12 days ago
     </span>
     by
     <a href="https://github.com/mul14">
@@ -1653,7 +1653,7 @@
      Feature Requests (Laravel + Vue Combo)
     </a>
     <span>
-     &#9733 1, pushed 9 days ago
+     &#9733 1, pushed 10 days ago
     </span>
     by
     <a href="https://github.com/haydenbbickerton">
@@ -1783,7 +1783,7 @@
      Vue for Meteor ★74
     </a>
     <span>
-     &#9733 74, pushed 125 days ago
+     &#9733 74, pushed 126 days ago
     </span>
     by @zhouzhuojie
    </li>
@@ -1792,7 +1792,7 @@
      ScalaJS bindings for Vue.js ★22
     </a>
     <span>
-     &#9733 22, pushed 188 days ago
+     &#9733 22, pushed 189 days ago
     </span>
     by @fancellu
    </li>
@@ -1838,7 +1838,7 @@
      vue-element ★73
     </a>
     <span>
-     &#9733 74, pushed 337 days ago
+     &#9733 74, pushed 338 days ago
     </span>
     : Register real custom elements with Vue.
    </li>
@@ -1849,7 +1849,7 @@
      </strong>
     </a>
     <span>
-     &#9733 235, pushed 26 days ago
+     &#9733 235, pushed 27 days ago
     </span>
     : Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
    </li>
@@ -1898,7 +1898,7 @@
      Vue Modified Directive ★10
     </a>
     <span>
-     &#9733 10, pushed 445 days ago
+     &#9733 10, pushed 446 days ago
     </span>
     by @KyleRoss
    </li>
@@ -1907,7 +1907,7 @@
      Maintain scroll position on page changes ★16
     </a>
     <span>
-     &#9733 16, pushed 41 days ago
+     &#9733 16, pushed 42 days ago
     </span>
     by @mark-hahn
    </li>
@@ -1935,7 +1935,7 @@ application.  By @Haixing-Hu
      vue-clickaway ★33
     </a>
     <span>
-     &#9733 37, pushed 129 days ago
+     &#9733 37, pushed 130 days ago
     </span>
     : Assign a method to be called whenever user clicks away from the element. By @simplesmiler
    </li>
@@ -1944,7 +1944,7 @@ application.  By @Haixing-Hu
      vue-focus ★31
     </a>
     <span>
-     &#9733 32, pushed 129 days ago
+     &#9733 32, pushed 130 days ago
     </span>
     : Manage input focus in the MVVM-friendly way. By @simplesmiler
    </li>
@@ -1971,7 +1971,7 @@ application.  By @Haixing-Hu
      v-touch ★5
     </a>
     <span>
-     &#9733 5, pushed 85 days ago
+     &#9733 5, pushed 86 days ago
     </span>
     : The easiest way to use Hammer.js with Vue.js and use touch gestures. by
     <a href="https://github.com/didierfranc">
@@ -1986,7 +1986,7 @@ application.  By @Haixing-Hu
      vue-mixins ★9
     </a>
     <span>
-     &#9733 9, pushed 19 days ago
+     &#9733 9, pushed 20 days ago
     </span>
     A collection of mixins aimed to replace some jQuery functionality
    </li>
@@ -1995,7 +1995,7 @@ application.  By @Haixing-Hu
      vue-filters ★2
     </a>
     <span>
-     &#9733 2, pushed 58 days ago
+     &#9733 2, pushed 59 days ago
     </span>
     A collection of filters
    </li>
@@ -2004,7 +2004,7 @@ application.  By @Haixing-Hu
      vue-round-filter ★0
     </a>
     <span>
-     &#9733 0, pushed 76 days ago
+     &#9733 0, pushed 77 days ago
     </span>
     filter for rounding with whichever decimal accuracy
    </li>
@@ -2237,7 +2237,7 @@ application.  By @Haixing-Hu
      </strong>
     </a>
     <span>
-     &#9733 135, pushed 90 days ago
+     &#9733 135, pushed 91 days ago
     </span>
     : CSS blend modes and filters playground by @ilyashubin
    </li>
@@ -2276,7 +2276,7 @@ application.  By @Haixing-Hu
      </strong>
     </a>
     <span>
-     &#9733 144, pushed 44 days ago
+     &#9733 144, pushed 45 days ago
     </span>
     Simple RSS Reader made using atom electron and vue.js.
    </li>

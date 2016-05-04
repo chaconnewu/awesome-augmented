@@ -197,7 +197,7 @@
    Plottable
   </a>
   <span>
-   &#9733 983, pushed 3 days ago
+   &#9733 983, pushed 4 days ago
   </span>
   - Library with OOP style syntax to build charts.
  </li>
@@ -221,7 +221,7 @@
    Smoothie Charts
   </a>
   <span>
-   &#9733 1460, pushed 68 days ago
+   &#9733 1460, pushed 69 days ago
   </span>
   - JavaScript charts for realtime streaming data.
  </li>
@@ -320,7 +320,7 @@
    Formiddable
   </a>
   <span>
-   &#9733 1038, pushed 6 days ago
+   &#9733 1038, pushed 7 days ago
   </span>
   - A collection of composable React components for building interactive data visualizations
  </li>

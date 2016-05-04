@@ -212,7 +212,7 @@
    Bloom Filter
   </a>
   <span>
-   &#9733 9, pushed 83 days ago
+   &#9733 9, pushed 84 days ago
   </span>
   - Implementation of Bloom filter
  </li>
@@ -298,7 +298,7 @@
    faker
   </a>
   <span>
-   &#9733 33, pushed 35 days ago
+   &#9733 33, pushed 36 days ago
   </span>
   - A library for generating fake data
  </li>
@@ -318,7 +318,7 @@
    crystal-mysql
   </a>
   <span>
-   &#9733 31, pushed 30 days ago
+   &#9733 31, pushed 31 days ago
   </span>
   - Basic MySQL bindings
  </li>
@@ -354,7 +354,7 @@
    influxdb.cr
   </a>
   <span>
-   &#9733 7, pushed 40 days ago
+   &#9733 7, pushed 41 days ago
   </span>
   - InfluxDB driver
  </li>
@@ -388,7 +388,7 @@
    beryl
   </a>
   <span>
-   &#9733 15, pushed 105 days ago
+   &#9733 15, pushed 106 days ago
   </span>
   - Action-focused HTTP routing library
  </li>
@@ -397,7 +397,7 @@
    crul
   </a>
   <span>
-   &#9733 65, pushed 83 days ago
+   &#9733 65, pushed 84 days ago
   </span>
   - Command line HTTP client
  </li>
@@ -406,7 +406,7 @@
    cryload
   </a>
   <span>
-   &#9733 76, pushed 22 days ago
+   &#9733 76, pushed 23 days ago
   </span>
   - HTTP benchmarking tool
  </li>
@@ -424,7 +424,7 @@
    helmet
   </a>
   <span>
-   &#9733 2, pushed 22 days ago
+   &#9733 2, pushed 23 days ago
   </span>
   - Set security-related HTTP headers
  </li>
@@ -503,7 +503,7 @@
    chalk-box
   </a>
   <span>
-   &#9733 2, pushed 13 days ago
+   &#9733 2, pushed 14 days ago
   </span>
   - Terminal color toolbox, check support and colorized (without String monkey patch)
  </li>
@@ -512,7 +512,7 @@
    crdoc
   </a>
   <span>
-   &#9733 2, pushed 100 days ago
+   &#9733 2, pushed 101 days ago
   </span>
   - CLI tool to search and open documentation
  </li>
@@ -588,7 +588,7 @@
    emoji.cr
   </a>
   <span>
-   &#9733 7, pushed 34 days ago
+   &#9733 7, pushed 35 days ago
   </span>
   - Emoji library
  </li>
@@ -696,7 +696,7 @@
    termbox-crystal
   </a>
   <span>
-   &#9733 3, pushed 22 days ago
+   &#9733 3, pushed 23 days ago
   </span>
   - Bindings and extension library for
   <a href="https://github.com/nsf/termbox">
@@ -777,7 +777,7 @@
    ssh2.cr
   </a>
   <span>
-   &#9733 14, pushed 4 days ago
+   &#9733 14, pushed 5 days ago
   </span>
   - Library that provides binding for libssh2 library
  </li>
@@ -791,7 +791,7 @@
    active_record.cr
   </a>
   <span>
-   &#9733 79, pushed 30 days ago
+   &#9733 79, pushed 31 days ago
   </span>
   - Active Record pattern implementation
  </li>
@@ -825,7 +825,7 @@
    generate
   </a>
   <span>
-   &#9733 16, pushed 387 days ago
+   &#9733 16, pushed 388 days ago
   </span>
   - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
  </li>
@@ -853,7 +853,7 @@
    openssl.cr
   </a>
   <span>
-   &#9733 11, pushed 76 days ago
+   &#9733 11, pushed 77 days ago
   </span>
   - Bindings for OpenSSL library
  </li>
@@ -867,7 +867,7 @@
    crake
   </a>
   <span>
-   &#9733 23, pushed 29 days ago
+   &#9733 23, pushed 30 days ago
   </span>
   - Rake-like build utility library. It is just a library, so it does not provide CLI
  </li>
@@ -921,7 +921,7 @@
    Slang
   </a>
   <span>
-   &#9733 29, pushed 26 days ago
+   &#9733 29, pushed 27 days ago
   </span>
   - Lightweight, terse, templating language inspired by Ruby's Slim.
  </li>
@@ -962,7 +962,7 @@
    minitest.cr
   </a>
   <span>
-   &#9733 22, pushed 10 days ago
+   &#9733 22, pushed 11 days ago
   </span>
   - Library for unit tests and assertions
  </li>
@@ -998,7 +998,7 @@
    spec2.cr
   </a>
   <span>
-   &#9733 32, pushed 10 days ago
+   &#9733 32, pushed 11 days ago
   </span>
   - Enhanced testing library
  </li>
@@ -1007,7 +1007,7 @@
    timecop.cr
   </a>
   <span>
-   &#9733 7, pushed 306 days ago
+   &#9733 7, pushed 307 days ago
   </span>
   - Library for mocking with
   <code>
@@ -1080,7 +1080,7 @@
    docker.cr
   </a>
   <span>
-   &#9733 6, pushed 43 days ago
+   &#9733 6, pushed 44 days ago
   </span>
   - Docker API client
  </li>
@@ -1126,7 +1126,7 @@
    spotify.cr
   </a>
   <span>
-   &#9733 18, pushed 35 days ago
+   &#9733 18, pushed 36 days ago
   </span>
   - A library to access the Spotify API
  </li>
@@ -1217,7 +1217,7 @@
    kemal
   </a>
   <span>
-   &#9733 624, pushed 14 days ago
+   &#9733 624, pushed 15 days ago
   </span>
   - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  </li>
@@ -1249,7 +1249,7 @@
    kamber
   </a>
   <span>
-   &#9733 110, pushed 19 days ago
+   &#9733 110, pushed 20 days ago
   </span>
   - Blog server based on Kemal
  </li>
@@ -1258,7 +1258,7 @@
    prax.cr
   </a>
   <span>
-   &#9733 38, pushed 8 days ago
+   &#9733 38, pushed 9 days ago
   </span>
   - Rack proxy server for development
  </li>
@@ -1324,7 +1324,7 @@
    Crank
   </a>
   <span>
-   &#9733 13, pushed 49 days ago
+   &#9733 13, pushed 50 days ago
   </span>
   - A Procfile-based application manager (like Foreman)
  </li>
@@ -1372,7 +1372,7 @@
    nes
   </a>
   <span>
-   &#9733 15, pushed 129 days ago
+   &#9733 15, pushed 130 days ago
   </span>
   - A NES emulator
  </li>
@@ -1460,7 +1460,7 @@
      vim-crystal
     </a>
     <span>
-     &#9733 98, pushed 70 days ago
+     &#9733 98, pushed 71 days ago
     </span>
     - Vim filetype support for Crystal
    </li>
@@ -1469,7 +1469,7 @@
      vim-slang
     </a>
     <span>
-     &#9733 0, pushed 15 days ago
+     &#9733 0, pushed 16 days ago
     </span>
     - Vim filetype support for Slang Templating Engine
    </li>

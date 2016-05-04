@@ -371,7 +371,7 @@
      LaTeXTools
     </a>
     <span>
-     &#9733 1172, pushed 1 days ago
+     &#9733 1172, pushed 2 days ago
     </span>
     - Free LaTeX plugin for Sublime Text.
     <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
@@ -420,7 +420,7 @@
      LaTeX Live Preview
     </a>
     <span>
-     &#9733 127, pushed 47 days ago
+     &#9733 127, pushed 48 days ago
     </span>
     - Instantly previews your LaTeX document.
     <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>

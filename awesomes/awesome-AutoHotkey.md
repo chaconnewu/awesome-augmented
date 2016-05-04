@@ -713,7 +713,7 @@
    TF
   </a>
   <span>
-   &#9733 29, pushed 155 days ago
+   &#9733 29, pushed 156 days ago
   </span>
   - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=576">
@@ -765,7 +765,7 @@
    pAHKlight
   </a>
   <span>
-   &#9733 8, pushed 195 days ago
+   &#9733 8, pushed 196 days ago
   </span>
   - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
  </li>
@@ -817,7 +817,7 @@
    Belvedere
   </a>
   <span>
-   &#9733 103, pushed 883 days ago
+   &#9733 103, pushed 884 days ago
   </span>
   - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info
   <a href="http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc">
@@ -1031,7 +1031,7 @@
    WindowSaver
   </a>
   <span>
-   &#9733 6, pushed 144 days ago
+   &#9733 6, pushed 145 days ago
   </span>
   - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups.
   <em>
@@ -1097,7 +1097,7 @@
    IronAHK
   </a>
   <span>
-   &#9733 248, pushed 1625 days ago
+   &#9733 248, pushed 1626 days ago
   </span>
   - Cross platform .NET rewrite -
   <em>
@@ -1131,7 +1131,7 @@
    Yunit
   </a>
   <span>
-   &#9733 11, pushed 11 days ago
+   &#9733 11, pushed 12 days ago
   </span>
   - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
  </li>
@@ -1333,7 +1333,7 @@
    Exo-Javascript
   </a>
   <span>
-   &#9733 25, pushed 357 days ago
+   &#9733 25, pushed 358 days ago
   </span>
   - Write AHK with JavaScript - Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=5714">

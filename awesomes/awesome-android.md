@@ -228,7 +228,7 @@
    AChartEngine
   </a>
   <span>
-   &#9733 129, pushed 27 days ago
+   &#9733 129, pushed 28 days ago
   </span>
   - Charting Engine.
  </li>
@@ -255,7 +255,7 @@
    HelloCharts
   </a>
   <span>
-   &#9733 2475, pushed 19 days ago
+   &#9733 2475, pushed 20 days ago
   </span>
   - Chart and graph library with support for scaling, scrolling and animations.
  </li>
@@ -264,7 +264,7 @@
    MPAndroidChart
   </a>
   <span>
-   &#9733 8771, pushed 1 days ago
+   &#9733 8771, pushed 2 days ago
   </span>
   - An Android chart and graph library supporting scaling and dragging by gesture.
  </li>
@@ -287,7 +287,7 @@
    RoboBinding
   </a>
   <span>
-   &#9733 1155, pushed 21 days ago
+   &#9733 1155, pushed 22 days ago
   </span>
   - A data-binding Presentation Model (MVVM) framework for the Android platform.
  </li>
@@ -307,7 +307,7 @@
    RoboGuice
   </a>
   <span>
-   &#9733 3723, pushed 55 days ago
+   &#9733 3723, pushed 56 days ago
   </span>
   - Dependency injection framework for Android.
  </li>
@@ -325,7 +325,7 @@
    Dagger 2
   </a>
   <span>
-   &#9733 3472, pushed 6 days ago
+   &#9733 3472, pushed 7 days ago
   </span>
   - A fast dependency injector for Android and Java.
  </li>
@@ -428,7 +428,7 @@
    Flow
   </a>
   <span>
-   &#9733 1630, pushed 20 days ago
+   &#9733 1630, pushed 21 days ago
   </span>
   - Library that helps with describing an app as a collection of moderately independent screens.
  </li>
@@ -488,7 +488,7 @@
    SwipeableCard
   </a>
   <span>
-   &#9733 374, pushed 44 days ago
+   &#9733 374, pushed 45 days ago
   </span>
   - Implementation of swipe card like StreetView!!
  </li>
@@ -582,7 +582,7 @@
    MaterialDrawer
   </a>
   <span>
-   &#9733 4925, pushed 6 days ago
+   &#9733 4925, pushed 7 days ago
   </span>
   - Simple take on a material design navigation drawer.
  </li>
@@ -646,7 +646,7 @@
    android-crop
   </a>
   <span>
-   &#9733 2518, pushed 4 days ago
+   &#9733 2518, pushed 5 days ago
   </span>
   - Library project for cropping images.
  </li>
@@ -722,7 +722,7 @@
    Universal Image Loader
   </a>
   <span>
-   &#9733 12698, pushed 56 days ago
+   &#9733 12698, pushed 57 days ago
   </span>
   - Asynchronous, out of the box loading and caching of images.
  </li>
@@ -731,7 +731,7 @@
    Glide
   </a>
   <span>
-   &#9733 8099, pushed 4 days ago
+   &#9733 8099, pushed 5 days ago
   </span>
   - An image loading and caching library for Android focused on smooth scrolling,Recommended by google.
  </li>
@@ -806,7 +806,7 @@
    Ion
   </a>
   <span>
-   &#9733 4397, pushed 21 days ago
+   &#9733 4397, pushed 22 days ago
   </span>
   - Good networking library for android.
  </li>
@@ -898,7 +898,7 @@
    android-remote-notifications
   </a>
   <span>
-   &#9733 43, pushed 300 days ago
+   &#9733 43, pushed 301 days ago
   </span>
   - Pulls notifications from a remote JSON file and shows them in your app.
  </li>
@@ -936,7 +936,7 @@
    Realm
   </a>
   <span>
-   &#9733 4443, pushed 0 days ago
+   &#9733 4443, pushed 1 days ago
   </span>
   - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
  </li>
@@ -1044,7 +1044,7 @@
    Robotium
   </a>
   <span>
-   &#9733 1548, pushed 30 days ago
+   &#9733 1548, pushed 31 days ago
   </span>
   - Test automation framework for black-box UI tests.
  </li>
@@ -1120,7 +1120,7 @@
    Clusterkraf
   </a>
   <span>
-   &#9733 261, pushed 535 days ago
+   &#9733 261, pushed 536 days ago
   </span>
   - Clustering library for the Google Maps Android API v2
  </li>
@@ -1202,7 +1202,7 @@
    Linx
   </a>
   <span>
-   &#9733 420, pushed 139 days ago
+   &#9733 420, pushed 140 days ago
   </span>
   - Show logcat inside the device for debug builds
  </li>
@@ -1211,7 +1211,7 @@
    Scalpel
   </a>
   <span>
-   &#9733 1686, pushed 278 days ago
+   &#9733 1686, pushed 279 days ago
   </span>
   - View the entire hierarchy in 3d in the phone.
  </li>
@@ -1220,7 +1220,7 @@
    Stetho
   </a>
   <span>
-   &#9733 4793, pushed 34 days ago
+   &#9733 4793, pushed 35 days ago
   </span>
   - Debug hierarchy and network from chrome.
  </li>
@@ -1287,7 +1287,7 @@
    Android Priority Job Queue
   </a>
   <span>
-   &#9733 2148, pushed 176 days ago
+   &#9733 2148, pushed 177 days ago
   </span>
   - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
  </li>
@@ -1332,7 +1332,7 @@
    RxJava
   </a>
   <span>
-   &#9733 13390, pushed 0 days ago
+   &#9733 13390, pushed 1 days ago
   </span>
   - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
  </li>
@@ -1377,7 +1377,7 @@
    Typography
   </a>
   <span>
-   &#9733 23, pushed 67 days ago
+   &#9733 23, pushed 68 days ago
   </span>
   - An Android library that makes it easy to use custom fonts in views.
  </li>
@@ -1644,7 +1644,7 @@
    Groovy Language Support for Android
   </a>
   <span>
-   &#9733 556, pushed 25 days ago
+   &#9733 556, pushed 26 days ago
   </span>
   - Gradle Plugin for Compiling Groovy for Android.
  </li>

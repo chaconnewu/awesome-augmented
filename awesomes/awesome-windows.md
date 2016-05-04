@@ -342,7 +342,7 @@
    Scoop
   </a>
   <span>
-   &#9733 1351, pushed 4 days ago
+   &#9733 1351, pushed 5 days ago
   </span>
   - A command-line installer for Windows.
  </li>
@@ -377,7 +377,7 @@
    ConEmu
   </a>
   <span>
-   &#9733 2217, pushed 4 days ago
+   &#9733 2217, pushed 5 days ago
   </span>
   - Customizable terminal with tabs, splits, quake-style and more.
  </li>

@@ -1,605 +1,4351 @@
-# Awesome Rust
-
-A curated list of Rust code and resources, inspired by other awesome lists.
+<h1>
+ Awesome Rust
+</h1>
+<p>
+ A curated list of Rust code and resources, inspired by other awesome lists.
 The goal is to have only projects that are mostly stable and useful to users.
-
-If you want to contribute, please read [this](CONTRIBUTING.md).
-
-- [Awesome Rust](#awesome-rust)
-  - [Applications written in Rust](#applications-written-in-rust)
-    - [Games](#games)
-    - [Operating systems](#operating-systems)
-    - [System tools](#system-tools)
-  - [Development Tools](#development-tools)
-    - [Debugging](#debugging)
-    - [Embedded](#embedded)
-    - [FFI](#ffi)
-    - [IDEs](#ides)
-    - [Profiling](#profiling)
-    - [Testing](#testing)
-  - [Libraries](#libraries)
-    - [Astronomy](#astronomy)
-    - [Asynchronous](#asynchronous)
-    - [Audio](#audio)
-    - [Authentication](#authentication)
-    - [Bioinformatics](#bioinformatics)
-    - [Build system](#build-system)
-    - [Caching](#caching)
-    - [Cloud](#cloud)
-    - [Command-line argument parsing](#command-line-argument-parsing)
-    - [Command-line interface](#command-line-interface)
-    - [Compression](#compression)
-    - [Computation](#computation)
-    - [Concurrency](#concurrency)
-    - [Cryptography](#cryptography)
-    - [Database](#database)
-    - [Data structures](#data-structures)
-    - [Date and time](#date-and-time)
-    - [Distributed Systems](#distributed-systems)
-    - [Email](#email)
-    - [Encoding](#encoding)
-    - [Game development](#game-development)
-    - [Games](#games)
-    - [Geospatial](#geospatial)
-    - [GUI](#gui)
-    - [Image processing](#image-processing)
-    - [Machine learning](#machine-learning)
-    - [Markup language](#markup-language)
-    - [Mobile](#mobile)
-    - [Network programming](#network-programming)
-    - [Parser](#parser)
-    - [Platform specific](#platform-specific)
-    - [Template engine](#template-engine)
-    - [Text processing](#text-processing)
-    - [Virtualization](#virtualization)
-    - [Web programming](#web-programming)
-  - [Resources](#resources)
-  - [License](#license)
-
-## Applications written in Rust
-
-* [azerupi/mdBook](https://github.com/azerupi/mdBook) — a command line utility to create books from markdown files [<img src="https://travis-ci.org/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
-* [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns) — a DNS-server [<img src="https://travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
-* [BurntSushi/xsv](https://github.com/BurntSushi/xsv) — a fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.) [<img src="https://travis-ci.org/BurntSushi/xsv.svg?branch=master">](https://travis-ci.org/BurntSushi/xsv)
-* Emulators
-  * [simias/rustation](https://github.com/simias/rustation) — a Playstation emulator [<img src="https://travis-ci.org/simias/rustation.svg?branch=master">](https://travis-ci.org/simias/rustation)
-* [gchp/iota](https://github.com/gchp/iota) — a simple text editor [<img src="https://travis-ci.org/gchp/iota.svg?branch=master">](https://travis-ci.org/gchp/iota)
-* [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
-* [Factotum](https://github.com/snowplow/factotum) - [A system to programmatically run data pipelines](http://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
-* [Fractalide](https://github.com/fractalide/fractalide) — Flow-based Programming environment.
-* [imjacobclark/Herd](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
-* [jedisct1/flowgger](https://github.com/jedisct1/flowgger) — a fast, simple and lightweight data collector
-* [kbknapp/docli](https://github.com/kbknapp/docli-rs) — a command line utility for managing DigitalOcean infrastructure [<img src="https://travis-ci.org/kbknapp/docli-rs.svg?branch=master">](https://travis-ci.org/kbknapp/docli-rs)
-* [MaidSafe](http://maidsafe.net/) — a decentralized platform.
-* [qmx/limonite](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
-* [seppo0010/rsedis](https://github.com/seppo0010/rsedis) — a Redis reimplementation [<img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master">](https://travis-ci.org/seppo0010/rsedis)
-* [Servo](https://github.com/servo/servo) — a prototype web browser engine
-* Virtualization
-  * [tailhook/vagga](https://github.com/tailhook/vagga) — a containerization tool without daemons [<img src="https://travis-ci.org/tailhook/vagga.svg?branch=master">](https://travis-ci.org/tailhook/vagga)
-* [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — a configurable watcher inspired in [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
-* [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust.
-
-### Games
-
-See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
-
-* [lifthrasiir/angolmois-rust](https://github.com/lifthrasiir/angolmois-rust) — a minimalistic music video game which supports the BMS format [<img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master">](https://travis-ci.org/lifthrasiir/angolmois-rust)
-* [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) — a Sokoban implementation
-* [Zone of Control](https://github.com/ozkriff/zoc) — a turn-based hexagonal strategy game [<img src="https://travis-ci.org/ozkriff/zoc.svg?branch=master">](https://travis-ci.org/ozkriff/zoc)
-* [rhex](https://github.com/dpc/rhex) — hexagonal ascii roguelike
-
-### Operating systems
-
-[A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
-
-* [redox-os/redox](https://github.com/redox-os/redox) — [<img src="https://travis-ci.org/redox-os/redox.svg?branch=master">](https://travis-ci.org/redox-os/redox)
-* [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) — [<img src="https://travis-ci.org/thepowersgang/rust_os.svg?branch=master">](https://travis-ci.org/thepowersgang/rust_os)
-
-### System tools
-
-* [Aaronepower/tokei](https://github.com/Aaronepower/tokei) — counts the lines of code [<img src="https://img.shields.io/travis/Aaronepower/tokei.svg">](https://travis-ci.org/Aaronepower/tokei)
-* [buster/rrun](https://github.com/buster/rrun) — a command launcher for Linux, similar to gmrun  [<img src="https://travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
-* [ogham/exa](https://github.com/ogham/exa) — a replacement for 'ls' written in Rust [<img src="https://travis-ci.org/ogham/exa.svg?branch=master">](https://travis-ci.org/ogham/exa)
-* [mmstick/systemd-manager](https://github.com/mmstick/systemd-manager) -- a systemd service manager written in Rust using GTK-rs.
-* [uutils/coreutils](https://github.com/uutils/coreutils) — a cross-platform Rust rewrite of the GNU coreutils [<img src="https://travis-ci.org/uutils/coreutils.svg?branch=master">](https://travis-ci.org/uutils/coreutils)
-
-
-## Development tools
-
-* [Clippy](https://github.com/Manishearth/rust-clippy) — Rust lints [<img src="https://travis-ci.org/Manishearth/rust-clippy.svg?branch=master">](https://travis-ci.org/Manishearth/rust-clippy)
-* [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](http://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html)) [<img src="https://travis-ci.org/clog-tool/clog-cli.svg?branch=master">](https://travis-ci.org/clog-tool/clog-cli)
-* [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [<img src="https://travis-ci.org/dan-t/rusty-tags.svg?branch=master">](https://travis-ci.org/dan-t/rusty-tags)
-* [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) — generates images of dependency graphs for crates hosted on crates.io
-* Multirust — manage multiple Rust installations
-  * [brson/multirust](https://github.com/brson/multirust) — the original multirust as shell scripts [<img src="https://travis-ci.org/brson/multirust.svg?branch=master">](https://travis-ci.org/brson/multirust)
-  * [Diggsey/multirust-rs](https://github.com/Diggsey/multirust-rs) — multirust reimplementation in Rust [<img src="https://travis-ci.org/Diggsey/multirust-rs.svg?branch=master">](https://travis-ci.org/Diggsey/multirust-rs)
-* [Racer](https://github.com/phildawes/racer) — code completion for Rust [<img src="https://travis-ci.org/phildawes/racer.svg?branch=master">](https://travis-ci.org/phildawes/racer)
-* [rustfmt](https://github.com/rust-lang-nursery/rustfmt) — a Rust code formatter [<img src="https://travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustfmt)
-
-### Debugging
-
-* GDB
-  * [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)
-* LLDB
-  * [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) — allows to use LLDB in a way similar to GDB's batch mode.
-
-
-### Embedded
-
-* Cross compiling
-  * [japaric/rust-cross](https://github.com/japaric/rust-cross) — everything you need to know about cross compiling Rust programs [<img src="https://travis-ci.org/japaric/rust-cross.svg?branch=master">](https://travis-ci.org/japaric/rust-cross)
-* Raspberry Pi
-  * [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi) — instructions for how to cross compile Rust projects for the Raspberry Pi .
-
-
-### FFI
-
-See also [Foreign Function Interface](https://doc.rust-lang.org/book/ffi.html) and [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages).
-
-* C
-  * [crabtw/rust-bindgen](https://github.com/crabtw/rust-bindgen) — a Rust bindings generator [<img src="https://travis-ci.org/crabtw/rust-bindgen.svg?branch=master">](https://travis-ci.org/crabtw/rust-bindgen)
-  * [Sean1708/rusty-cheddar](https://github.com/Sean1708/rusty-cheddar) — generates C header files from Rust source files [<img src="https://travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master">](https://travis-ci.org/Sean1708/rusty-cheddar)
-* Erlang
-  * [hansihe/Rustler](https://github.com/hansihe/Rustler) - Safe Rust bridge for creating Erlang NIF functions [<img src="https://travis-ci.org/hansihe/Rustler.svg?branch=master">](https://travis-ci.org/hansihe/Rustler)
-* Java
-  * [drrb/java-rust-example](https://github.com/drrb/java-rust-example) — use Rust from Java [<img src="https://travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
-* mruby
-  * [anima-engine/mrusty](https://github.com/anima-engine/mrusty) - mruby safe bindings for Rust [<img src="https://travis-ci.org/anima-engine/mrusty.svg?branch=master">](https://travis-ci.org/anima-engine/mrusty)
-* Node.js
-  * [rustbridge/neon](https://github.com/rustbridge/neon) — use Rust from Node.js [<img src="https://travis-ci.org/rustbridge/neon.svg?branch=master">](https://travis-ci.org/rustbridge/neon)
-* Objective-C
-  * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
-* Python
-  * [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
-  * [lukemetz/rustpy](https://github.com/lukemetz/rustpy) — Python bindings [<img src="https://travis-ci.org/lukemetz/rustpy.svg?branch=master">](https://travis-ci.org/lukemetz/rustpy)
-* R
-  * [rustr/rustr](https://github.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
-
-### IDEs
-
-See also [http://areweideyet.com/](http://areweideyet.com/) and [Rust and IDEs](https://www.rust-lang.org/ides.html).
-
-  * [intellij-rust](https://github.com/intellij-rust/intellij-rust) — an [IntelliJ](https://www.jetbrains.com/idea/)-based IDE for Rust [<img src="https://travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
-  * [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) — a Visual Studio extension for Rust [<img src="https://travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master">](https://travis-ci.org/PistonDevelopers/VisualRust)
-  * [Ride](https://github.com/madeso/ride) — [<img src="https://travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
-  * [RustDT](https://github.com/RustDT/RustDT) — an [Eclipse](https://eclipse.org/)-based IDE for Rust [<img src="https://travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
-  * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim)
-  * [Visual Studio Code](https://code.visualstudio.com/)
-
-### Profiling
-
-* [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) — a stopwatch library [<img src="https://travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master">](https://travis-ci.org/ellisonch/rust-stopwatch)
-* [mrhooray/torch](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
-
-### Testing
-
-* [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) — a Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) [<img src="https://travis-ci.org/BurntSushi/quickcheck.svg?branch=master">](https://travis-ci.org/BurntSushi/quickcheck)
-* [farcaller/shiny](https://github.com/farcaller/shiny) — a fancy syntax similar to Ruby's Rspec or Objective-C' kiwi [<img src="https://travis-ci.org/farcaller/shiny.svg?branch=master">](https://travis-ci.org/farcaller/shiny)
-* [frewsxcv/afl.rs](https://github.com/frewsxcv/afl.rs) — a Rust fuzzer, using [AFL](http://lcamtuf.coredump.cx/afl/) [<img src="https://api.travis-ci.org/frewsxcv/afl.rs.svg?branch=master">](https://travis-ci.org/frewsxcv/afl.rs)
-
-## Libraries
-
-### Astronomy
-* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — astronomy for Rust [<img src="https://travis-ci.org/saurvs/astro-rust.svg?branch=master">](https://travis-ci.org/saurvs/astro-rust)
-
-### Asynchronous
-
-* [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) — a coroutine I/O library with a working-stealing scheduler [<img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/coio-rs)
-* [thehydroimpulse/tangle](https://github.com/thehydroimpulse/tangle) — a scala-inspired futures library [<img src="https://travis-ci.org/thehydroimpulse/tangle.svg?branch=master">](https://travis-ci.org/thehydroimpulse/tangle)
-
-### Audio
-
-* [GuillaumeGomez/rust-fmod](https://github.com/GuillaumeGomez/rust-fmod) — [FMOD](http://www.fmod.org/) bindings [![Build Status](https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master)](https://travis-ci.org/GuillaumeGomez/rust-fmod)
-* [RustAudio/rust-portaudio](https://github.com/RustAudio/rust-portaudio) — [PortAudio](http://www.portaudio.com/) bindings [<img src="https://travis-ci.org/RustAudio/rust-portaudio.svg?branch=master">](https://travis-ci.org/RustAudio/rust-portaudio)
-* [jhasse/ears](https://github.com/jhasse/ears) — a simple library to play Sounds and Musics, on top of OpenAL and libsndfile [<img src="https://travis-ci.org/jhasse/ears.svg?branch=master">](https://travis-ci.org/jhasse/ears)
-* [jpernst/openal-rs](https://github.com/jpernst/openal-rs) — [OpenAL 1.1](http://www.openal.org/) bindings [<img src="https://travis-ci.org/jpernst/openal-rs.svg?branch=master">](https://travis-ci.org/jpernst/openal-rs)
-* [RustAudio](https://github.com/RustAudio)
-* [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [<img src="https://travis-ci.org/musitdev/portmidi-rs.svg?branch=master">](https://travis-ci.org/musitdev/portmidi-rs)
-
-### Authentication
-
-* [keats/rust-jwt](https://github.com/keats/rust-jwt) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust  [![Build Status](https://api.travis-ci.org/Keats/rust-jwt.svg?branch=master)](https://travis-ci.org/Keats/rust-jwt)
-
-
-### Bioinformatics
-
-* [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries in Rust.
-
-
-### Build system
-
-* [Cargo](https://crates.io/) — the Rust package manager
-  * [rsolomo/cargo-check](https://github.com/rsolomo/cargo-check) — a wrapper around `cargo rustc -- -Zno-trans` which can be helpful for running a faster compile if you only need correctness checks [<img src="https://travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
-  * [kbknapp/cargo-count](https://github.com/kbknapp/cargo-count) — lists source code counts and details about cargo projects, including unsafe statistics [<img src="https://travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
-  * [pwoolcoc/cargo-do](https://github.com/pwoolcoc/cargo-do) — run multiple cargo commands in a row
-  * [maxsnew/cargo-dot](https://github.com/maxsnew/cargo-dot) — generate graphs of a Cargo project's dependencies [<img src="https://travis-ci.org/maxsnew/cargo-dot.svg?branch=master">](https://travis-ci.org/maxsnew/cargo-dot)
-  * [killercup/cargo-edit](https://github.com/killercup/cargo-edit) — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line [<img src="https://travis-ci.org/killercup/cargo-edit.svg?branch=master">](https://travis-ci.org/killercup/cargo-edit)
-  * [kbknapp/cargo-graph](https://github.com/kbknapp/cargo-graph) — updated fork of `cargo-dot` with additional features [<img src="https://travis-ci.org/kbknapp/cargo-graph.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-graph)
-  * [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) — displays when newer versions of Rust dependencies are available, or out of date [<img src="https://travis-ci.org/kbknapp/cargo-outdated.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-outdated)
-  * [imp/cargo-multi](https://github.com/imp/cargo-multi) [[cargo-multi](https://crates.io/crates/cargo-multi/)] — runs specified cargo command on multiple crates [<img src="https://travis-ci.org/imp/cargo-multi.svg?branch=master">](https://travis-ci.org/imp/cargo-multi)
-  * [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
-  * [passcod/cargo-watch](https://github.com/passcod/cargo-watch) — utility for cargo to compile projects when sources change [<img src="https://travis-ci.org/passcod/cargo-watch.svg?branch=master">](https://travis-ci.org/passcod/cargo-watch)
-* CMake
-  * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — an example project showing usage of CMake with Rust [<img src="https://travis-ci.org/SiegeLord/RustCMake.svg?branch=master">](https://travis-ci.org/SiegeLord/RustCMake)
-
-### Caching
-
-* [jaysonsantos/bmemcached-rs](https://github.com/jaysonsantos/bmemcached-rs) - Memcached library written in pure rust [<img src="https://travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master">](https://travis-ci.org/jaysonsantos/bmemcached-rs)
-
-### Concurrency
-
-* [aturon/crossbeam](https://github.com/aturon/crossbeam) – Support for parallelism and low-level concurrency in Rust [<img src="https://travis-ci.org/aturon/crossbeam.svg?branch=master">](https://travis-ci.org/aturon/crossbeam)
-* [nikomatsakis/rayon](https://github.com/nikomatsakis/rayon) – A data parallelism library for Rust [<img src="https://travis-ci.org/nikomatsakis/rayon.svg?branch=master">](https://travis-ci.org/nikomatsakis/rayon)
-
-### Cloud
-
-* AWS
-  * [rusoto/rusoto](https://github.com/rusoto/rusoto) — [<img src="https://travis-ci.org/rusoto/rusoto.svg?branch=master">](https://travis-ci.org/rusoto/rusoto)
-  * [thommay/aws-rs](https://github.com/thommay/aws-rs) — [<img src="https://travis-ci.org/thommay/aws-rs.svg?branch=master">](https://travis-ci.org/thommay/aws-rs)
-* DigitalOcean
-  * [kbknapp/doapi](https://github.com/kbknapp/doapi-rs) — DigitalOcean v2 API bindings [<img src="https://travis-ci.org/kbknapp/doapi-rs.svg?branch=master">](https://travis-ci.org/kbknapp/doapi-rs)
-
-### Command-line argument parsing
-
-* [docopt/docopt.rs](https://github.com/docopt/docopt.rs) — a Rust implementation of [DocOpt](http://docopt.org) [<img src="https://travis-ci.org/docopt/docopt.rs.svg?branch=master">](https://travis-ci.org/docopt/docopt.rs)
-* [kbknapp/clap-rs](https://github.com/kbknapp/clap-rs) — a simple to use, full featured command-line argument parser [<img src="https://travis-ci.org/kbknapp/clap-rs.svg?branch=master">](https://travis-ci.org/kbknapp/clap-rs)
-
-### Command-line interface
-
-* [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust [![Build Status](https://travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
-* [srijs/rust-copperline](https://github.com/srijs/rust-copperline) - Pure-Rust Command Line Editing Library
-
-### Compression
-
-* [alexcrichton/bzip2-rs](https://github.com/alexcrichton/bzip2-rs) — [libbz2](http://www.bzip.org) bindings [<img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/bzip2-rs)
-* [alexcrichton/flate2-rs](https://github.com/alexcrichton/flate2-rs) — [miniz](https://code.google.com/p/miniz/) bindings [<img src="https://travis-ci.org/alexcrichton/flate2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/flate2-rs)
-* [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) — tar archive reading/writing in Rust [<img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/tar-rs)
-* [ende76/brotli-rs](https://github.com/ende76/brotli-rs) — implementation of [Brotli](http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html) compression
-* [JeffBelgum/rust-snappy](https://github.com/JeffBelgum/rust-snappy) — [snappy](https://github.com/google/snappy) bindings [<img src="https://travis-ci.org/JeffBelgum/rust-snappy.svg?branch=master">](https://travis-ci.org/JeffBelgum/rust-snappy)
-* [slackito/zip](https://github.com/slackito/zip) — read and write ZIP archives [<img src="https://travis-ci.org/slackito/zip.svg?branch=master">](https://travis-ci.org/slackito/zip)
-
-### Computation
-
-* BLAS [[blas](https://crates.io/keywords/blas)]
-  * [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) — [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) bindings
-  * [stainless-steel/blas](https://github.com/stainless-steel/blas) — [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) bindings [<img src="https://travis-ci.org/stainless-steel/blas.svg?branch=master">](https://travis-ci.org/stainless-steel/blas)
-* GMP
-  * [thestinger/rust-gmp](https://github.com/thestinger/rust-gmp) — [libgmp](https://gmplib.org/) bindings [<img src="https://travis-ci.org/thestinger/rust-gmp.svg?branch=master">](https://travis-ci.org/thestinger/rust-gmp)
-* GSL
-  * [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez) — [GSL](http://www.gnu.org/software/gsl/) bindings [<img src="https://travis-ci.org/GuillaumeGomez/rust-GSL.svg?branch=master">](https://travis-ci.org/GuillaumeGomez/rust-GSL)
-* LAPACK
-  * [stainless-steel/lapack](https://github.com/stainless-steel/lapack) — [LAPACK](https://en.wikipedia.org/wiki/LAPACK) bindings [<img src="https://travis-ci.org/stainless-steel/lapack.svg?branch=master">](https://travis-ci.org/stainless-steel/lapack)
-* OpenCL
-  * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](http://arrayfire.com) bindings
-  * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings [<img src="https://travis-ci.org/luqmana/rust-opencl.svg?branch=master">](https://travis-ci.org/luqmana/rust-opencl)
-* Scirust
-  * [indigits/scirust](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)   
-
-
-### Cryptography
-
-[[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
-
-* [briansmith/ring](https://github.com/briansmith/ring) — Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives. [<img src="https://travis-ci.org/briansmith/ring.svg?branch=master">](https://travis-ci.org/briansmith/ring)
-* [briansmith/webpki](https://github.com/briansmith/webpki) — Web PKI TLS X.509 certificate validation in Rust. [<img src="https://travis-ci.org/briansmith/webpki.svg?branch=master">](https://travis-ci.org/briansmith/webpki)
-* [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) — cryptographic algorithms in Rust [<img src="https://travis-ci.org/DaGenix/rust-crypto.svg?branch=master">](https://travis-ci.org/DaGenix/rust-crypto)
-* [dnaq/sodiumoxide](https://github.com/dnaq/sodiumoxide) — [libsodium](https://github.com/jedisct1/libsodium) bindings [<img src="https://travis-ci.org/dnaq/sodiumoxide.svg?branch=master">](https://travis-ci.org/dnaq/sodiumoxide)
-* [klutzy/suruga](https://github.com/klutzy/suruga) — a Rust implementation of [TLS 1.2](http://tools.ietf.org/html/rfc5246)
-* [libOctavo/octavo](https://github.com/libOctavo/octavo) — Modular hash and crypto library in Rust [<img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master">](https://travis-ci.org/libOctavo/octavo)
-* [seb-m/common.rs](https://github.com/seb-m/common.rs) — Common Rust crypto utilities [<img src="https://travis-ci.org/seb-m/common.rs.svg?branch=master">](https://travis-ci.org/seb-m/common.rs)
-* [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) — [OpenSSL](https://www.openssl.org/) bindings [<img src="https://travis-ci.org/sfackler/rust-openssl.svg?branch=master">](https://travis-ci.org/sfackler/rust-openssl)
-
-
-### Database
-
-[[database](https://crates.io/keywords/database)]
-
-* [pingcap/tikv](https://github.com/pingcap/tikv) — TiKV is a distributed KV database powered by Rust [<img src="https://travis-ci.org/pingcap/tikv.svg?branch=master">](https://travis-ci.org/pingcap/tikv)
-* [sfackler/r2d2](https://github.com/sfackler/r2d2) — generic connection pool [<img src="https://travis-ci.org/sfackler/r2d2.svg?branch=master">](https://travis-ci.org/sfackler/r2d2)
-* NoSQL [[nosql](https://crates.io/keywords/nosql)]
-  * Cassandra [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-    * [tupshin/cassandra-rust](https://github.com/tupshin/cassandra-rs) — [Cassandra](http://cassandra.apache.org) bindings
-  * CouchDB [[couchdb](https://crates.io/keywords/couchdb)]
-    * [couchdb-rs/couchdb](https://github.com/couchdb-rs/couchdb) [[couchdb](https://crates.io/crates/couchdb/)] — a Rust client for the CouchDB REST API [<img src="https://travis-ci.org/couchdb-rs/couchdb.svg?branch=master">](https://travis-ci.org/couchdb-rs/couchdb)
-  * Elasticsearch [[elasticsearch](https://crates.io/keywords/elasticsearch)]
-    * [benashford/rs-es](https://github.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es/)] — a Rust client for the [Elastic](https://www.elastic.co/) REST API [<img src="https://travis-ci.org/benashford/rs-es.svg?branch=master">](https://travis-ci.org/benashford/rs-es)
-  * etcd
-    * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd/)] — A client library for CoreOS's etcd. [<img src="https://travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master">](https://travis-ci.org/jimmycuadra/rust-etcd)
-  * ForestDB
-    * [vhbit/sherwood](https://github.com/vhbit/sherwood) — [ForestDB](https://github.com/couchbase/forestdb) bindings [<img src="https://travis-ci.org/vhbit/sherwood.svg?branch=master">](https://travis-ci.org/vhbit/sherwood)
-  * LMDB [[lmdb](https://crates.io/keywords/lmdb)]
-    * [vhbit/lmdb-rs](https://github.com/vhbit/lmdb-rs) [[lmdb-rs](https://crates.io/crates/lmdb-rs/)] — [LMDB](http://symas.com/mdb/) bindings [<img src="https://travis-ci.org/vhbit/lmdb-rs.svg?branch=master">](https://travis-ci.org/vhbit/lmdb-rs)
-  * MongoDB [[mongodb](https://crates.io/keywords/mongodb)]
-    * [mongodb-labs/mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) [[mongodb](https://crates.io/crates/mongodb/)] — [MongoDB](https://www.mongodb.org/) bindings [<img src="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg">](https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype)
-  * Neo4j [[cypher](https://crates.io/keywords/cypher), [neo4j](https://crates.io/keywords/neo4j)]
-  * Redis [[redis](https://crates.io/keywords/redis)]
-    * [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) — [Redis](http://redis.io) library in Rust [<img src="https://travis-ci.org/mitsuhiko/redis-rs.svg?branch=master">](https://travis-ci.org/mitsuhiko/redis-rs)
-* SQL [[sql](https://crates.io/keywords/sql)]
-  * MySql [[mysql](https://crates.io/keywords/mysql)]
-    * [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) [[mysql](https://crates.io/crates/mysql)] — a native MySql client [<img src="https://travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master">](https://travis-ci.org/blackbeam/rust-mysql-simple)
- * ORM [[orm](https://crates.io/keywords/orm)]
-    * [deuterium-orm/deuterium-orm](https://github.com/deuterium-orm/deuterium) — an SQL query builder for Rust  [![Build Status](https://travis-ci.org/deuterium-orm/deuterium.svg?branch=master)](https://travis-ci.org/deuterium-orm/deuterium)
-    * [ivanceras/rustorm](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
-    * [phonkee/treasure](https://github.com/phonkee/treasure) — an ORM for Rust
-    * [sgrif/diesel](https://github.com/sgrif/diesel) — an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/sgrif/diesel.svg)](https://travis-ci.org/sgrif/diesel)
-  * PostgreSql [[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
-    * [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) [[postgres](https://crates.io/crates/postgres/)] — a native [PostgreSQL](http://www.postgresql.org) client [<img src="https://travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
-  * Sqlite [[sqlite](https://crates.io/keywords/sqlite)]
-    * [dckc/rust-sqlite3](https://github.com/dckc/rust-sqlite3) — [Sqlite3](http://www.sqlite.org/) bindings [<img src="https://travis-ci.org/dckc/rust-sqlite3.svg?branch=master">](https://travis-ci.org/dckc/rust-sqlite3)
-    * [jgallagher/rusqlite](https://github.com/jgallagher/rusqlite) — [Sqlite3](http://www.sqlite.org/) bindings [<img src="https://travis-ci.org/jgallagher/rusqlite.svg?branch=master">](https://travis-ci.org/jgallagher/rusqlite)
-    * [linuxfood/rustsqlite](https://github.com/linuxfood/rustsqlite) — [Sqlite3](http://www.sqlite.org/) bindings [<img src="https://travis-ci.org/linuxfood/rustsqlite.svg?branch=master">](https://travis-ci.org/linuxfood/rustsqlite)
-
-
-### Data structures
-
-* [bluss/rust-itertools](https://github.com/bluss/rust-itertools) — [<img src="https://travis-ci.org/bluss/rust-itertools.svg?branch=master">](https://travis-ci.org/bluss/rust-itertools)
-* [fizyk20/generic-array](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums [<img src="https://travis-ci.org/fizyk20/generic-array.svg?branch=master">](https://travis-ci.org/fizyk20/generic-array)
-* [Nemo157/roaring-rs](https://github.com/Nemo157/roaring-rs) – Roaring Bitmaps in Rust [<img src="https://travis-ci.org/Nemo157/roaring-rs.svg?branch=master">](https://travis-ci.org/Nemo157/roaring-rs)
-* [reem/rust-typemap](https://github.com/reem/rust-typemap) — [<img src="https://travis-ci.org/reem/rust-typemap.svg?branch=master">](https://travis-ci.org/reem/rust-typemap)
-* [serde-rs/serde](https://github.com/serde-rs/serde) — a framework to generically serialize Rust data structures [<img src="https://api.travis-ci.org/serde-rs/serde.svg?branch=master">](https://travis-ci.org/serde-rs/serde)
-
-
-### Date and time
-
-[[date](https://crates.io/keywords/date), [time](https://crates.io/keywords/time)]
-
-* [lifthrasiir/rust-chrono](https://github.com/lifthrasiir/rust-chrono) — [<img src="https://travis-ci.org/lifthrasiir/rust-chrono.svg?branch=master">](https://travis-ci.org/lifthrasiir/rust-chrono)
-* [rust-lang-deprecated/time](https://github.com/rust-lang-deprecated/time) — [<img src="https://travis-ci.org/rust-lang-deprecated/time.svg?branch=master">](https://travis-ci.org/rust-lang-deprecated/time)
-
-
-### Distributed Systems
-
-* Apache Kafka
-  * [spicavigo/kafka-rust](https://github.com/spicavigo/kafka-rust) — [<img src="https://travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
-* Beanstalkd
-  * [schickling/rust-beanstalkd](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd](https://github.com/kr/beanstalkd) bindings [<img src="https://travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
-* HDFS
-  * [hyunsik/hdfs-rs](https://github.com/hyunsik/hdfs-rs) — libhdfs bindings [<img src="https://travis-ci.org/hyunsik/hdfs-rs.svg?branch=master">](https://travis-ci.org/hyunsik/hdfs-rs)
-
-
-### Email
-
-[[email](https://crates.io/keywords/email)]
-
-* [gsquire/sendgrid-rs](https://github.com/gsquire/sendgrid-rs) — unofficial Rust library for SendGrid API [<img src="https://travis-ci.org/gsquire/sendgrid-rs.svg?branch=master">](https://travis-ci.org/gsquire/sendgrid-rs)
-* [lettre/lettre](https://github.com/lettre/lettre) — an SMTP-library for Rust [<img src="https://travis-ci.org/lettre/lettre.svg?branch=master">](https://travis-ci.org/lettre/lettre)
-
-
-### Encoding
-
-[[encoding](https://crates.io/keywords/encoding)]
-
-* ASN.1
-  * [alex/rust-asn1](https://github.com/alex/rust-asn1) — a Rust ASN.1 (DER) serializer [<img src="https://travis-ci.org/alex/rust-asn1.svg?branch=master">](https://travis-ci.org/alex/rust-asn1)
-* Bencode
-  * [arjantop/rust-bencode](https://github.com/arjantop/rust-bencode) — [Bencode](https://en.wikipedia.org/wiki/Bencode) implementation in Rust [<img src="https://travis-ci.org/arjantop/rust-bencode.svg?branch=master">](https://travis-ci.org/arjantop/rust-bencode)
-* Binary
-  * [arcnmx/nue](https://github.com/arcnmx/nue) — I/O and binary data encoding for Rust [<img src="https://travis-ci.org/arcnmx/nue.svg?branch=master">](https://travis-ci.org/arcnmx/nue)
-  * [TyOverby/bincode](https://github.com/TyOverby/bincode) — a binary encoder/decoder in Rust [<img src="https://travis-ci.org/TyOverby/bincode.svg?branch=master">](https://travis-ci.org/TyOverby/bincode)
-* Byte swapping
-  * [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) — Supports big-endian, little-endian and native byte orders [<img src="https://travis-ci.org/BurntSushi/byteorder.svg?branch=master">](https://travis-ci.org/BurntSushi/byteorder)
-* Cap'n Proto
-  * [dwrensha/capnproto-rust](https://github.com/dwrensha/capnproto-rust) — [<img src="https://travis-ci.org/dwrensha/capnproto-rust.svg?branch=master">](https://travis-ci.org/dwrensha/capnproto-rust)
-* CBOR
-  * [BurntSushi/rust-cbor](https://github.com/BurntSushi/rust-cbor) — Supports JSON conversion and type-based encoding/decoding [<img src="https://travis-ci.org/BurntSushi/rust-cbor.svg?branch=master">](https://travis-ci.org/BurntSushi/rust-cbor)
-* Character Encoding
-  * [lifthrasiir/rust-encoding](https://github.com/lifthrasiir/rust-encoding) — [<img src="https://travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master">](https://travis-ci.org/lifthrasiir/rust-encoding)
-* CRC
-  * [mrhooray/crc-rs](https://github.com/mrhooray/crc-rs) — [<img src="https://travis-ci.org/mrhooray/crc-rs.svg?branch=master">](https://travis-ci.org/mrhooray/crc-rs)
-* CSV
-  * [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) — [<img src="https://travis-ci.org/BurntSushi/rust-csv.svg?branch=master">](https://travis-ci.org/BurntSushi/rust-csv)
-* HTML
-  * [servo/html5ever](https://github.com/servo/html5ever) — High-performance browser-grade HTML5 parser [<img src="https://travis-ci.org/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
-* JSON
-  * [serde-rs/json](https://github.com/serde-rs/json) [[serde\_json](https://crates.io/crates/serde_json/)] — JSON support for [Serde](https://github.com/serde-rs/serde) framework [<img src="https://travis-ci.org/serde-rs/json.svg?branch=master">](https://travis-ci.org/serde-rs/json)
-* Jsonnet
-  * [Qihoo360/rust-jsonnet](https://github.com/Qihoo360/rust-jsonnet) —  [<img src="https://travis-ci.org/Qihoo360/rust-jsonnet.svg?branch=master">](https://travis-ci.org/Qihoo360/rust-jsonnet)
-* MsgPack
-  * [mneumann/rust-msgpack](https://github.com/mneumann/rust-msgpack) — [<img src="https://travis-ci.org/mneumann/rust-msgpack.svg?branch=master">](https://travis-ci.org/mneumann/rust-msgpack)
-  * [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) — a pure Rust low/high level MessagePack implementation [<img src="https://travis-ci.org/3Hren/msgpack-rust.svg?branch=master">](https://travis-ci.org/3Hren/msgpack-rust)
-* ProtocolBuffers
-  * [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) — [<img src="https://travis-ci.org/stepancheg/rust-protobuf.svg?branch=master">](https://travis-ci.org/stepancheg/rust-protobuf)
-* RON (Rusty Object Notation)
-  * [kvark/ron](https://github.com/kvark/ron) — [<img src="https://travis-ci.org/kvark/ron.svg?branch=master">](https://travis-ci.org/kvark/ron)
-* Tnetstring
-  * [erickt/rust-tnetstring](https://github.com/erickt/rust-tnetstring) — [<img src="https://travis-ci.org/erickt/rust-tnetstring.svg?branch=master">](https://travis-ci.org/erickt/rust-tnetstring)
-* TOML
-  * [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) — [<img src="https://travis-ci.org/alexcrichton/toml-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/toml-rs)
-* XML
-  * [Florob/RustyXML](https://github.com/Florob/RustyXML) — an XML parser written in Rust [<img src="https://travis-ci.org/Florob/RustyXML.svg?branch=master">](https://travis-ci.org/Florob/RustyXML)
-  * [shepmaster/sxd-document](https://github.com/shepmaster/sxd-document) — An XML library in Rust [<img src="https://travis-ci.org/shepmaster/sxd-document.svg?branch=master">](https://travis-ci.org/shepmaster/sxd-document)
-  * [shepmaster/sxd-xpath](https://github.com/shepmaster/sxd-xpath) — An XPath library in Rust [<img src="https://travis-ci.org/shepmaster/sxd-xpath.svg?branch=master">](https://travis-ci.org/shepmaster/sxd-xpath)
-  * [netvl/xml-rs](https://github.com/netvl/xml-rs) — a streaming XML library [<img src="https://travis-ci.org/netvl/xml-rs.svg?branch=master">](https://travis-ci.org/netvl/xml-rs)
-* YAML
-  * [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation for Rust. [<img src="https://travis-ci.org/chyh1990/yaml-rust.svg?branch=master">](https://travis-ci.org/chyh1990/yaml-rust)
-  * [dtolnay/serde-yaml](https://github.com/dtolnay/serde-yaml) [[serde\_yaml](https://crates.io/crates/serde_yaml/)] — YAML support for [Serde](https://github.com/serde-rs/serde) framework [<img src="https://travis-ci.org/dtolnay/serde-yaml.svg?branch=master">](https://travis-ci.org/dtolnay/serde-yaml)
-  * [kimhyunkang/libyaml-rust](https://github.com/kimhyunkang/libyaml-rust) — [libyaml](http://pyyaml.org/wiki/LibYAML) bindings [<img src="https://travis-ci.org/kimhyunkang/libyaml-rust.svg?branch=master">](https://travis-ci.org/kimhyunkang/libyaml-rust)
-
-### Game development
-
-* Allegro
-  * [SiegeLord/RustAllegro](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](http://liballeg.org/) bindings [<img src="https://travis-ci.org/SiegeLord/RustAllegro.svg?branch=master">](https://travis-ci.org/SiegeLord/RustAllegro)
-* Amethyst
-  * [ebkalderon/amethyst](https://github.com/ebkalderon/amethyst) — data-oriented game engine [<img src="https://travis-ci.org/ebkalderon/amethyst.svg?branch=master">](https://travis-ci.org/ebkalderon/amethyst)
-* Corange
-  * [lucidscape/corange-rs](https://github.com/lucidscape/corange-rs) — [Corange](https://github.com/orangeduck/Corange) bindings
-* Piston
-  * [Piston](http://www.piston.rs) — [<img src="https://travis-ci.org/PistonDevelopers/piston.svg?branch=master">](https://travis-ci.org/PistonDevelopers/piston)
-* SDL [[sdl](https://crates.io/keywords/sdl)]
-  * [AngryLawyer/rust-sdl2](https://github.com/AngryLawyer/rust-sdl2) — [SDL2](http://www.libsdl.org/) bindings [<img src="https://travis-ci.org/AngryLawyer/rust-sdl2.svg?branch=master">](https://travis-ci.org/AngryLawyer/rust-sdl2)
-  * [brson/rust-sdl](https://github.com/brson/rust-sdl) — [SDL1](http://www.libsdl.org/) bindings [<img src="https://travis-ci.org/brson/rust-sdl.svg?branch=master">](https://travis-ci.org/brson/rust-sdl)
-* SFML
-  * [jeremyletang/rust-sfml](https://github.com/jeremyletang/rust-sfml) — [SFML](http://www.sfml-dev.org/) bindings [<img src="https://travis-ci.org/jeremyletang/rust-sfml.svg?branch=master">](https://travis-ci.org/jeremyletang/rust-sfml)
-* Voxlap
-  * [bbodi/rust-voxlap](https://github.com/bbodi/rust-voxlap) — [Voxlap](http://advsys.net/ken/voxlap.htm) bindings
-
-### Geospatial
-
-[[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
-
-* [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
-
-
-### GUI
-
-[[gui](https://crates.io/keywords/gui)]
-
-* [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust [<img src="https://travis-ci.org/PistonDevelopers/conrod.svg?branch=master">](https://travis-ci.org/PistonDevelopers/conrod)
-* [pravic/rust-sciter](https://github.com/pravic/rust-sciter) — Rust bindings for the Sciter, embeddable HTML/CSS/script engine (cross-platform desktop GUI toolkit). [<img src="https://ci.appveyor.com/api/projects/status/github/pravic/rust-sciter?svg=true">](https://ci.appveyor.com/project/pravic/rust-sciter)
-* Cocoa
-  * [servo/rust-cocoa](https://github.com/servo/cocoa-rs)
-* IUP
-  * [dcampbell24/iup-rust](https://github.com/dcampbell24/iup-rust) — [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) bindings [<img src="https://travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
-  * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — a simple UI framework built on IUP [![Build Status](https://travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
-* GTK+ [[gtk](https://crates.io/keywords/gtk)]
-  * [gtk-rs/gtk](https://github.com/gtk-rs/gtk) — [GTK+](http://www.gtk.org) bindings [<img src="https://travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
-* ncurses [[ncurses](https://crates.io/keywords/ncurses)]
-  * [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) — [ncurses](http://www.gnu.org/software/ncurses/) bindings [<img src="https://travis-ci.org/jeaye/ncurses-rs.svg?branch=master">](https://travis-ci.org/jeaye/ncurses-rs)
-* OpenGL [[opengl](https://crates.io/keywords/opengl)]
-  * [bjz/gl-rs](https://github.com/bjz/gl-rs) — [<img src="https://travis-ci.org/bjz/gl-rs.svg?branch=master">](https://travis-ci.org/bjz/gl-rs)
-  * [bjz/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) — [<img src="https://travis-ci.org/bjz/glfw-rs.svg?branch=master">](https://travis-ci.org/bjz/glfw-rs)
-  * [tomaka/glium](https://github.com/tomaka/glium) — safe OpenGL wrapper for the Rust language. [<img src="https://travis-ci.org/tomaka/glium.svg?branch=master">](https://travis-ci.org/tomaka/glium)
-  * [tomaka/glutin](https://github.com/tomaka/glutin) — Rust alternative to [GLFW](http://www.glfw.org/) [<img src="https://travis-ci.org/tomaka/glutin.svg?branch=master">](https://travis-ci.org/tomaka/glutin)
-* Qt
-  * [cyndis/qmlrs](https://github.com/cyndis/qmlrs) — [QtQuick](http://doc.qt.io) bindings [<img src="https://travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
-* Termbox
-  * [gchp/rustbox](https://github.com/gchp/rustbox) — a Rust implementation of [termbox](https://github.com/nsf/termbox) [<img src="https://travis-ci.org/gchp/rustbox.svg?branch=master">](https://travis-ci.org/gchp/rustbox)
-
-
-### Image processing
-
-* [chyh1990/imageproc](https://github.com/chyh1990/imageproc) — An advanced image processing library for Rust. [![Build Status](https://travis-ci.org/chyh1990/imageproc.svg?branch=master)](https://travis-ci.org/chyh1990/imageproc)
-* [cybergeek94/img-hash](https://github.com/cybergeek94/img_hash) — Perceptual image hashing and comparison for equality and similarity.
-* [PistonDevelopers/image](https://github.com/PistonDevelopers/image) — Basic imaging processing functions and methods for converting to and from image formats [<img src="https://travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
-
-
-### Machine learning
-
-* [autumnai/leaf](https://github.com/autumnai/leaf) — Open Machine Intelligence framework. [![Build Status](https://travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf)
-* [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
-
-
-### Markup language
-
-* CommonMark
-  * [google/pulldown-cmark](https://github.com/google/pulldown-cmark) — [CommonMark](http://commonmark.org/) parser in Rust
-
-
-### Mobile
-
-* Android
-  * [tomaka/android-rs-glue](https://github.com/tomaka/android-rs-glue) — glue between Rust and Android [<img src="https://travis-ci.org/tomaka/android-rs-glue.svg?branch=master">](https://travis-ci.org/tomaka/android-rs-glue)
-* iOS
-  * [TimNN/cargo-lipo](https://github.com/TimNN/cargo-lipo) — a cargo lipo subcommand which automatically creates a universal library for use with your iOS application. [<img src="https://travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
-  * [vhbit/ObjCrust](https://github.com/vhbit/ObjCrust) — using Rust to create an iOS static library [<img src="https://travis-ci.org/vhbit/ObjCrust.svg?branch=master">](https://travis-ci.org/vhbit/ObjCrust)
-* Pebble
-  * [andars/pebble.rs](https://github.com/andars/pebble.rs) — a crate that allows Rust to be used to develop Pebble applications.
-
-
-### Network programming
-
-* FTP
-  * [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) — an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client for Rust [<img src="https://travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-ftp)
-* Low level
-  * [libpnet/libpnet](https://github.com/libpnet/libpnet) — a cross-platform, low level networking [<img src="https://travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
-* NanoMsg
-  * [thehydroimpulse/nanomsg.rs](https://github.com/thehydroimpulse/nanomsg.rs) — [nanomsg](http://nanomsg.org/) bindings [<img src="https://travis-ci.org/thehydroimpulse/nanomsg.rs.svg?branch=master">](https://travis-ci.org/thehydroimpulse/nanomsg.rs)
-* NNTP
-  * [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client for Rust [<img src="https://travis-ci.org/mattnenterprise/rust-nntp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-nntp)
-* POP3
-  * [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) — a [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust [<img src="https://travis-ci.org/mattnenterprise/rust-pop3.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-pop3)
-* SSH
-  * [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) — [libssh2](http://www.libssh2.org/) bindings [<img src="https://travis-ci.org/alexcrichton/ssh2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/ssh2-rs)
-* Stomp
-  * [zslayton/stomp-rs](https://github.com/zslayton/stomp-rs) — a [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) client implementation in Rust [<img src="https://travis-ci.org/zslayton/stomp-rs.svg?branch=master">](https://travis-ci.org/zslayton/stomp-rs)
-* uTP
-  * [meqif/rust-utp](https://github.com/meqif/rust-utp) — a [uTP](http://www.bittorrent.org/beps/bep_0029.html) (Micro Transport Protocol) library for Rust. [<img src="https://travis-ci.org/meqif/rust-utp.svg?branch=master">](https://travis-ci.org/meqif/rust-utp)
-* ZeroMQ
-  * [erickt/rust-zmq](https://github.com/erickt/rust-zmq) — [ZeroMQ](http://zeromq.org/) bindings [<img src="https://travis-ci.org/erickt/rust-zmq.svg?branch=master">](https://travis-ci.org/erickt/rust-zmq)
-
-
-### Parser
-
-  * [Geal/nom](https://github.com/Geal/nom) — parser combinator library [<img src="https://travis-ci.org/Geal/nom.svg?branch=master">](https://travis-ci.org/Geal/nom)
-  * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) — an URL parameter parser for rest filter inquiry [![Build Status](https://travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
-  * [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
-  * [m4rw3r/chomp](https://github.com/m4rw3r/chomp) – A fast monadic-style parser combinator [<img src="https://travis-ci.org/m4rw3r/chomp.svg?branch=master">](https://travis-ci.org/m4rw3r/chomp)
-  * [Marwes/combine](https://github.com/Marwes/combine) — parser combinator library [<img src="https://travis-ci.org/Marwes/combine.svg?branch=master">](https://travis-ci.org/Marwes/combine)
-  * [nikomatsakis/lalrpop](https://github.com/nikomatsakis/lalrpop) - LR(1) parser generator for Rust [![Build status](https://travis-ci.org/nikomatsakis/lalrpop.svg?branch=master)](https://travis-ci.org/nikomatsakis/lalrpop)
-  * [ptal/oak](https://github.com/ptal/oak) — a typed PEG parser generator (compiler plugin)
-  * [rustless/queryst](https://github.com/rustless/queryst) — a query string parsing library for Rust inspired by https://github.com/ljharb/qs [![Build Status](https://travis-ci.org/rustless/queryst.svg?branch=master)](https://travis-ci.org/rustless/queryst)
-
-
-### Platform specific
-
-* Linux
-  * [hannobraun/inotify-rs](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://travis-ci.org/hannobraun/inotify-rs.svg?branch=master">](https://travis-ci.org/hannobraun/inotify-rs)
-* Unix-like
-  * [carllerche/nix-rust](https://github.com/carllerche/nix-rust) — Unix-like API bindings [<img src="https://travis-ci.org/carllerche/nix-rust.svg?branch=master">](https://travis-ci.org/carllerche/nix-rust)
-  * [zargony/rust-fuse](https://github.com/zargony/rust-fuse) — [FUSE](https://github.com/libfuse/libfuse) bindings <img src="https://travis-ci.org/zargony/rust-fuse.svg?branch=master">
-* Windows
-  * [retep998/winapi-rs](https://github.com/retep998/winapi-rs) — Windows API bindings [<img src="https://travis-ci.org/retep998/winapi-rs.svg?branch=master">](https://travis-ci.org/retep998/winapi-rs)
-
-
-### Template engine
-
-* Handlebars
-  * [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) — Handlebars template engine with inheritance, custom helper support. [<img src="https://travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
-* HTML
-  * [lfairy/maud](https://github.com/lfairy/maud) — compile-time HTML templates [<img src="https://travis-ci.org/lfairy/maud.svg?branch=master">](https://travis-ci.org/lfairy/maud)
-  * [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) — compile-time HTML templates [<img src="https://travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
-* Mustache
-  * [rustache/rustache](https://github.com/rustache/rustache) — [<img src="https://travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
-* [tailhook/marafet](https://github.com/tailhook/marafet) — Compiler for Jade-like template language to cito.js-based virtual dom
-
-### Text processing
-
-* [BurntSushi/suffix](https://github.com/BurntSushi/suffix) — Linear time suffix array construction (with Unicode support) [<img src="https://travis-ci.org/BurntSushi/suffix.svg?branch=master">](https://travis-ci.org/BurntSushi/suffix)
-* [BurntSushi/tabwriter](https://github.com/BurntSushi/tabwriter) — Elastic tab stops (i.e., text column alignment) [<img src="https://travis-ci.org/BurntSushi/tabwriter.svg?branch=master">](https://travis-ci.org/BurntSushi/tabwriter)
-* [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [<img src="https://travis-ci.org/pwoolcoc/ngrams.svg?branch=master">](https://travis-ci.org/pwoolcoc/ngrams)
-* [rust-lang-nursery/regex](https://github.com/rust-lang-nursery/regex) — Regular expressions (RE2 style) [<img src="https://travis-ci.org/rust-lang-nursery/regex.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/regex)
-
-### Virtualization
-
-* [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
-
-### Web programming
-
-See also [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison).
-
-* HTTP Client
-  * [carllerche/curl-rust](https://github.com/carllerche/curl-rust) — [libcurl](http://curl.haxx.se/libcurl/) bindings [<img src="https://travis-ci.org/carllerche/curl-rust.svg?branch=master">](https://travis-ci.org/carllerche/curl-rust)
-  * [hyperium/hyper](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
-  * [vhbit/curl-rs](https://github.com/vhbit/curl-rs) — [libcurl](http://curl.haxx.se/libcurl/) bindings [<img src="https://travis-ci.org/vhbit/curl-rs.svg?branch=master">](https://travis-ci.org/vhbit/curl-rs)
-* HTTP Server
-  * [fengsp/pencil](https://github.com/fengsp/pencil) — [<img src="https://travis-ci.org/fengsp/pencil.svg?branch=master">](https://travis-ci.org/fengsp/pencil)
-  * [hyperium/hyper](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
-  * [Iron](https://github.com/iron/iron) — a middleware-based server framework [<img src="https://travis-ci.org/iron/iron.svg?branch=master">](https://travis-ci.org/iron/iron)
-    * [sunng87/handlebars-iron](https://github.com/sunng87/handlebars-iron) — [Handlebars-rust](https://github.com/sunng87/handlebars-rust) as an Iron web framework middleware. [<img src="https://travis-ci.org/sunng87/handlebars-iron.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-iron)
-  * [Nickel](https://github.com/nickel-org/nickel.rs/) — inspired by [Express](http://expressjs.com/) [<img src="https://travis-ci.org/nickel-org/nickel.rs.svg?branch=master">](https://travis-ci.org/nickel-org/nickel.rs)
-  * [Ogeon/rustful](https://github.com/Ogeon/rustful) — a RESTful web framework for Rust  [<img src="https://travis-ci.org/Ogeon/rustful.svg?branch=master">](https://travis-ci.org/Ogeon/rustful)
-  * [Rustless](https://github.com/rustless/rustless) — a REST-like API micro-framework inspired by [Grape](https://github.com/ruby-grape/grape) and [Hyper](https://github.com/hyperium/hyper) [<img src="https://travis-ci.org/rustless/rustless.svg?branch=master">](https://travis-ci.org/rustless/rustless)
-  * [tiny-http](https://github.com/frewsxcv/tiny-http) — Low level HTTP server library [<img src="https://travis-ci.org/frewsxcv/tiny-http.svg?branch=master">](https://travis-ci.org/frewsxcv/tiny-http)
-* [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-  * [cyderize/rust-websocket](https://github.com/cyderize/rust-websocket) — a framework for dealing with WebSocket connections (both clients and servers) [<img src="https://travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
-  * [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [<img src="https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)
-
-
-## Resources
-
-* Benchmarks
-  * [TeXitoi/benchmarksgame-rs](https://github.com/TeXitoi/benchmarksgame-rs) — Rust implementations for the [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/) [<img src="https://travis-ci.org/TeXitoi/benchmarksgame-rs.svg?branch=master">](https://travis-ci.org/TeXitoi/benchmarksgame-rs)
-* Podcasts
-  * [New Rustacean](http://www.newrustacean.com) — a podcast about learning Rust
-  * [Rusty Radio](http://rustyrad.io) — covering the rust ecosystem
-* [Rust by Example](http://rustbyexample.com/)
-* [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
-* [Rust Design Patterns](https://github.com/nrc/patterns)
-* [Rust Guidelines](http://aturon.github.io/)
-* [rust-learning](https://github.com/ctjhoa/rust-learning) — a collection of useful resources to learn Rust
-* [Rustlings](https://github.com/carols10cents/rustlings) — small exercises to get you used to reading and writing Rust code
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+</p>
+<p>
+ If you want to contribute, please read
+ <a href="CONTRIBUTING.md">
+  this
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  <a href="#awesome-rust">
+   Awesome Rust
+  </a>
+  <ul>
+   <li>
+    <a href="#applications-written-in-rust">
+     Applications written in Rust
+    </a>
+   </li>
+   <li>
+    <a href="#games">
+     Games
+    </a>
+   </li>
+   <li>
+    <a href="#operating-systems">
+     Operating systems
+    </a>
+   </li>
+   <li>
+    <a href="#system-tools">
+     System tools
+    </a>
+   </li>
+   <li>
+    <a href="#development-tools">
+     Development Tools
+    </a>
+   </li>
+   <li>
+    <a href="#debugging">
+     Debugging
+    </a>
+   </li>
+   <li>
+    <a href="#embedded">
+     Embedded
+    </a>
+   </li>
+   <li>
+    <a href="#ffi">
+     FFI
+    </a>
+   </li>
+   <li>
+    <a href="#ides">
+     IDEs
+    </a>
+   </li>
+   <li>
+    <a href="#profiling">
+     Profiling
+    </a>
+   </li>
+   <li>
+    <a href="#testing">
+     Testing
+    </a>
+   </li>
+   <li>
+    <a href="#libraries">
+     Libraries
+    </a>
+   </li>
+   <li>
+    <a href="#astronomy">
+     Astronomy
+    </a>
+   </li>
+   <li>
+    <a href="#asynchronous">
+     Asynchronous
+    </a>
+   </li>
+   <li>
+    <a href="#audio">
+     Audio
+    </a>
+   </li>
+   <li>
+    <a href="#authentication">
+     Authentication
+    </a>
+   </li>
+   <li>
+    <a href="#bioinformatics">
+     Bioinformatics
+    </a>
+   </li>
+   <li>
+    <a href="#build-system">
+     Build system
+    </a>
+   </li>
+   <li>
+    <a href="#caching">
+     Caching
+    </a>
+   </li>
+   <li>
+    <a href="#cloud">
+     Cloud
+    </a>
+   </li>
+   <li>
+    <a href="#command-line-argument-parsing">
+     Command-line argument parsing
+    </a>
+   </li>
+   <li>
+    <a href="#command-line-interface">
+     Command-line interface
+    </a>
+   </li>
+   <li>
+    <a href="#compression">
+     Compression
+    </a>
+   </li>
+   <li>
+    <a href="#computation">
+     Computation
+    </a>
+   </li>
+   <li>
+    <a href="#concurrency">
+     Concurrency
+    </a>
+   </li>
+   <li>
+    <a href="#cryptography">
+     Cryptography
+    </a>
+   </li>
+   <li>
+    <a href="#database">
+     Database
+    </a>
+   </li>
+   <li>
+    <a href="#data-structures">
+     Data structures
+    </a>
+   </li>
+   <li>
+    <a href="#date-and-time">
+     Date and time
+    </a>
+   </li>
+   <li>
+    <a href="#distributed-systems">
+     Distributed Systems
+    </a>
+   </li>
+   <li>
+    <a href="#email">
+     Email
+    </a>
+   </li>
+   <li>
+    <a href="#encoding">
+     Encoding
+    </a>
+   </li>
+   <li>
+    <a href="#game-development">
+     Game development
+    </a>
+   </li>
+   <li>
+    <a href="#games">
+     Games
+    </a>
+   </li>
+   <li>
+    <a href="#geospatial">
+     Geospatial
+    </a>
+   </li>
+   <li>
+    <a href="#gui">
+     GUI
+    </a>
+   </li>
+   <li>
+    <a href="#image-processing">
+     Image processing
+    </a>
+   </li>
+   <li>
+    <a href="#machine-learning">
+     Machine learning
+    </a>
+   </li>
+   <li>
+    <a href="#markup-language">
+     Markup language
+    </a>
+   </li>
+   <li>
+    <a href="#mobile">
+     Mobile
+    </a>
+   </li>
+   <li>
+    <a href="#network-programming">
+     Network programming
+    </a>
+   </li>
+   <li>
+    <a href="#parser">
+     Parser
+    </a>
+   </li>
+   <li>
+    <a href="#platform-specific">
+     Platform specific
+    </a>
+   </li>
+   <li>
+    <a href="#template-engine">
+     Template engine
+    </a>
+   </li>
+   <li>
+    <a href="#text-processing">
+     Text processing
+    </a>
+   </li>
+   <li>
+    <a href="#virtualization">
+     Virtualization
+    </a>
+   </li>
+   <li>
+    <a href="#web-programming">
+     Web programming
+    </a>
+   </li>
+   <li>
+    <a href="#resources">
+     Resources
+    </a>
+   </li>
+   <li>
+    <a href="#license">
+     License
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
+ Applications written in Rust
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/azerupi/mdBook">
+   azerupi/mdBook
+  </a>
+  — a command line utility to create books from markdown files
+  <a href="https://travis-ci.org/azerupi/mdBook">
+   <img src="https://travis-ci.org/azerupi/mdBook.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 168, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bluejekyll/trust-dns">
+   bluejekyll/trust-dns
+  </a>
+  — a DNS-server
+  <a href="https://travis-ci.org/bluejekyll/trust-dns">
+   <img src="https://travis-ci.org/bluejekyll/trust-dns.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 95, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/BurntSushi/xsv">
+   BurntSushi/xsv
+  </a>
+  — a fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
+  <a href="https://travis-ci.org/BurntSushi/xsv">
+   <img src="https://travis-ci.org/BurntSushi/xsv.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 622, pushed 5 days ago
+  </sup>
+ </li>
+ <li>
+  Emulators
+  <ul>
+   <li>
+    <a href="https://github.com/simias/rustation">
+     simias/rustation
+    </a>
+    — a Playstation emulator
+    <a href="https://travis-ci.org/simias/rustation">
+     <img src="https://travis-ci.org/simias/rustation.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 233, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gchp/iota">
+   gchp/iota
+  </a>
+  — a simple text editor
+  <a href="https://travis-ci.org/gchp/iota">
+   <img src="https://travis-ci.org/gchp/iota.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 808, pushed 15 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dlecan/generic-dns-update">
+   dlecan/generic-dns-update
+  </a>
+  — a tool to update DNS zonefiles with your IP address
+  <a href="https://travis-ci.org/dlecan/generic-dns-update">
+   <img src="https://travis-ci.org/dlecan/generic-dns-update.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 1, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/snowplow/factotum">
+   Factotum
+  </a>
+  -
+  <a href="http://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/">
+   A system to programmatically run data pipelines
+  </a>
+  <a href="https://travis-ci.org/snowplow/factotum">
+   <img src="https://travis-ci.org/snowplow/factotum.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 22, pushed 8 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fractalide/fractalide">
+   Fractalide
+  </a>
+  — Flow-based Programming environment.
+  <sup>
+   243 GitHub links in total 408 links, &#9733 24, pushed 42 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/imjacobclark/Herd">
+   imjacobclark/Herd
+  </a>
+  — an experimental HTTP load testing application
+  <sup>
+   243 GitHub links in total 408 links, &#9733 52, pushed 200 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jedisct1/flowgger">
+   jedisct1/flowgger
+  </a>
+  — a fast, simple and lightweight data collector
+  <sup>
+   243 GitHub links in total 408 links, &#9733 104, pushed 25 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kbknapp/docli-rs">
+   kbknapp/docli
+  </a>
+  — a command line utility for managing DigitalOcean infrastructure
+  <a href="https://travis-ci.org/kbknapp/docli-rs">
+   <img src="https://travis-ci.org/kbknapp/docli-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 22, pushed 54 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://maidsafe.net/">
+   MaidSafe
+  </a>
+  — a decentralized platform.
+ </li>
+ <li>
+  <a href="https://github.com/qmx/limonite">
+   qmx/limonite
+  </a>
+  — static blog/website generator
+  <a href="https://travis-ci.org/qmx/limonite">
+   <img src="https://travis-ci.org/qmx/limonite.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 7, pushed 85 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/seppo0010/rsedis">
+   seppo0010/rsedis
+  </a>
+  — a Redis reimplementation
+  <a href="https://travis-ci.org/seppo0010/rsedis">
+   <img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 952, pushed 191 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/servo/servo">
+   Servo
+  </a>
+  — a prototype web browser engine
+  <sup>
+   243 GitHub links in total 408 links, &#9733 6619, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  Virtualization
+  <ul>
+   <li>
+    <a href="https://github.com/tailhook/vagga">
+     tailhook/vagga
+    </a>
+    — a containerization tool without daemons
+    <a href="https://travis-ci.org/tailhook/vagga">
+     <img src="https://travis-ci.org/tailhook/vagga.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 785, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cristianoliveira/funzzy">
+   cristianoliveira/funzzy
+  </a>
+  — a configurable watcher inspired in
+  <a href="http://entrproject.org/">
+   entr
+  </a>
+  <a href="https://travis-ci.org/cristianoliveira/funzzy">
+   <img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 16, pushed 8 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/google/xi-editor">
+   xi-editor
+  </a>
+  - A modern editor with a backend written in Rust.
+  <sup>
+   243 GitHub links in total 408 links, &#9733 3218, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Games
+</h3>
+<p>
+ See also
+ <a href="https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston">
+  Games Made With Piston
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/lifthrasiir/angolmois-rust">
+   lifthrasiir/angolmois-rust
+  </a>
+  — a minimalistic music video game which supports the BMS format
+  <a href="https://travis-ci.org/lifthrasiir/angolmois-rust">
+   <img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 63, pushed 288 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/swatteau/sokoban-rs">
+   swatteau/sokoban-rs
+  </a>
+  — a Sokoban implementation
+  <sup>
+   243 GitHub links in total 408 links, &#9733 56, pushed 16 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ozkriff/zoc">
+   Zone of Control
+  </a>
+  — a turn-based hexagonal strategy game
+  <a href="https://travis-ci.org/ozkriff/zoc">
+   <img src="https://travis-ci.org/ozkriff/zoc.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 48, pushed 41 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dpc/rhex">
+   rhex
+  </a>
+  — hexagonal ascii roguelike
+  <sup>
+   243 GitHub links in total 408 links, &#9733 44, pushed 4 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Operating systems
+</h3>
+<p>
+ <a href="https://github.com/flosse/rust-os-comparison">
+  A comparison of operating systems written in Rust
+ </a>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/redox-os/redox">
+   redox-os/redox
+  </a>
+  —
+  <a href="https://travis-ci.org/redox-os/redox">
+   <img src="https://travis-ci.org/redox-os/redox.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 4010, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/thepowersgang/rust_os">
+   thepowersgang/rust_os
+  </a>
+  —
+  <a href="https://travis-ci.org/thepowersgang/rust_os">
+   <img src="https://travis-ci.org/thepowersgang/rust_os.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 153, pushed 8 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ System tools
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/Aaronepower/tokei">
+   Aaronepower/tokei
+  </a>
+  — counts the lines of code
+  <a href="https://travis-ci.org/Aaronepower/tokei">
+   <img src="https://img.shields.io/travis/Aaronepower/tokei.svg"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 48, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/buster/rrun">
+   buster/rrun
+  </a>
+  — a command launcher for Linux, similar to gmrun
+  <a href="https://travis-ci.org/buster/rrun">
+   <img src="https://travis-ci.org/buster/rrun.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 28, pushed 30 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ogham/exa">
+   ogham/exa
+  </a>
+  — a replacement for 'ls' written in Rust
+  <a href="https://travis-ci.org/ogham/exa">
+   <img src="https://travis-ci.org/ogham/exa.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 694, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mmstick/systemd-manager">
+   mmstick/systemd-manager
+  </a>
+  -- a systemd service manager written in Rust using GTK-rs.
+  <sup>
+   243 GitHub links in total 408 links, &#9733 16, pushed 18 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/uutils/coreutils">
+   uutils/coreutils
+  </a>
+  — a cross-platform Rust rewrite of the GNU coreutils
+  <a href="https://travis-ci.org/uutils/coreutils">
+   <img src="https://travis-ci.org/uutils/coreutils.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 2813, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Development tools
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/Manishearth/rust-clippy">
+   Clippy
+  </a>
+  — Rust lints
+  <a href="https://travis-ci.org/Manishearth/rust-clippy">
+   <img src="https://travis-ci.org/Manishearth/rust-clippy.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 619, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/clog-tool/clog-cli">
+   clog-tool/clog-cli
+  </a>
+  — generates a changelog from git metadata (
+  <a href="http://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html">
+   conventional changelog
+  </a>
+  )
+  <a href="https://travis-ci.org/clog-tool/clog-cli">
+   <img src="https://travis-ci.org/clog-tool/clog-cli.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 195, pushed 28 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dan-t/rusty-tags">
+   dan-t/rusty-tags
+  </a>
+  — create ctags/etags for a cargo project and all of its dependencies
+  <a href="https://travis-ci.org/dan-t/rusty-tags">
+   <img src="https://travis-ci.org/dan-t/rusty-tags.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 73, pushed 18 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/frewsxcv/crate-deps">
+   frewsxcv/crate-deps
+  </a>
+  — generates images of dependency graphs for crates hosted on crates.io
+  <sup>
+   243 GitHub links in total 408 links, &#9733 12, pushed 184 days ago
+  </sup>
+ </li>
+ <li>
+  Multirust — manage multiple Rust installations
+  <ul>
+   <li>
+    <a href="https://github.com/brson/multirust">
+     brson/multirust
+    </a>
+    — the original multirust as shell scripts
+    <a href="https://travis-ci.org/brson/multirust">
+     <img src="https://travis-ci.org/brson/multirust.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/Diggsey/multirust-rs">
+     Diggsey/multirust-rs
+    </a>
+    — multirust reimplementation in Rust
+    <a href="https://travis-ci.org/Diggsey/multirust-rs">
+     <img src="https://travis-ci.org/Diggsey/multirust-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 692, pushed 18 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/phildawes/racer">
+   Racer
+  </a>
+  — code completion for Rust
+  <a href="https://travis-ci.org/phildawes/racer">
+   <img src="https://travis-ci.org/phildawes/racer.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 1498, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rust-lang-nursery/rustfmt">
+   rustfmt
+  </a>
+  — a Rust code formatter
+  <a href="https://travis-ci.org/rust-lang-nursery/rustfmt">
+   <img src="https://travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 692, pushed 1 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Debugging
+</h3>
+<ul>
+ <li>
+  GDB
+  <ul>
+   <li>
+    <a href="https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb">
+     rust-gdb
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  LLDB
+  <ul>
+   <li>
+    <a href="https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py">
+     lldb_batchmode.py
+    </a>
+    — allows to use LLDB in a way similar to GDB's batch mode.
+   </li>
+  </ul>
+ </li>
+</ul>
+<h3>
+ Embedded
+</h3>
+<ul>
+ <li>
+  Cross compiling
+  <ul>
+   <li>
+    <a href="https://github.com/japaric/rust-cross">
+     japaric/rust-cross
+    </a>
+    — everything you need to know about cross compiling Rust programs
+    <a href="https://travis-ci.org/japaric/rust-cross">
+     <img src="https://travis-ci.org/japaric/rust-cross.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 232, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  Raspberry Pi
+  <ul>
+   <li>
+    <a href="https://github.com/Ogeon/rust-on-raspberry-pi">
+     Ogeon/rust-on-raspberry-pi
+    </a>
+    — instructions for how to cross compile Rust projects for the Raspberry Pi .
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 155, pushed 18 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ FFI
+</h3>
+<p>
+ See also
+ <a href="https://doc.rust-lang.org/book/ffi.html">
+  Foreign Function Interface
+ </a>
+ and
+ <a href="http://jakegoulding.com/rust-ffi-omnibus/">
+  The Rust FFI Omnibus
+ </a>
+ (a collection of examples of using code written in Rust from other languages).
+</p>
+<ul>
+ <li>
+  C
+  <ul>
+   <li>
+    <a href="https://github.com/crabtw/rust-bindgen">
+     crabtw/rust-bindgen
+    </a>
+    — a Rust bindings generator
+    <a href="https://travis-ci.org/crabtw/rust-bindgen">
+     <img src="https://travis-ci.org/crabtw/rust-bindgen.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/Sean1708/rusty-cheddar">
+     Sean1708/rusty-cheddar
+    </a>
+    — generates C header files from Rust source files
+    <a href="https://travis-ci.org/Sean1708/rusty-cheddar">
+     <img src="https://travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 85, pushed 1 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 488, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  Erlang
+  <ul>
+   <li>
+    <a href="https://github.com/hansihe/Rustler">
+     hansihe/Rustler
+    </a>
+    - Safe Rust bridge for creating Erlang NIF functions
+    <a href="https://travis-ci.org/hansihe/Rustler">
+     <img src="https://travis-ci.org/hansihe/Rustler.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 181, pushed 15 days ago
+  </sup>
+ </li>
+ <li>
+  Java
+  <ul>
+   <li>
+    <a href="https://github.com/drrb/java-rust-example">
+     drrb/java-rust-example
+    </a>
+    — use Rust from Java
+    <a href="https://travis-ci.org/drrb/java-rust-example">
+     <img src="https://travis-ci.org/drrb/java-rust-example.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 119, pushed 339 days ago
+  </sup>
+ </li>
+ <li>
+  mruby
+  <ul>
+   <li>
+    <a href="https://github.com/anima-engine/mrusty">
+     anima-engine/mrusty
+    </a>
+    - mruby safe bindings for Rust
+    <a href="https://travis-ci.org/anima-engine/mrusty">
+     <img src="https://travis-ci.org/anima-engine/mrusty.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 119, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  Node.js
+  <ul>
+   <li>
+    <a href="https://github.com/rustbridge/neon">
+     rustbridge/neon
+    </a>
+    — use Rust from Node.js
+    <a href="https://travis-ci.org/rustbridge/neon">
+     <img src="https://travis-ci.org/rustbridge/neon.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 840, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  Objective-C
+  <ul>
+   <li>
+    <a href="https://github.com/SSheldon/rust-objc">
+     SSheldon/rust-objc
+    </a>
+    — Objective-C Runtime bindings and wrapper for Rust
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 67, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  Python
+  <ul>
+   <li>
+    <a href="https://github.com/dgrunwald/rust-cpython">
+     dgrunwald/rust-cpython
+    </a>
+    — Python bindings
+    <a href="https://travis-ci.org/dgrunwald/rust-cpython">
+     <img src="https://travis-ci.org/dgrunwald/rust-cpython.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/lukemetz/rustpy">
+     lukemetz/rustpy
+    </a>
+    — Python bindings
+    <a href="https://travis-ci.org/lukemetz/rustpy">
+     <img src="https://travis-ci.org/lukemetz/rustpy.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 56, pushed 43 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 174, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  R
+  <ul>
+   <li>
+    <a href="https://github.com/rustr/rustr">
+     rustr/rustr
+    </a>
+    — use Rust from R, and use R in Rust
+    <a href="https://travis-ci.org/rustr/rustr">
+     <img src="https://travis-ci.org/rustr/rustr.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 29, pushed 17 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ IDEs
+</h3>
+<p>
+ See also
+ <a href="http://areweideyet.com/">
+  http://areweideyet.com/
+ </a>
+ and
+ <a href="https://www.rust-lang.org/ides.html">
+  Rust and IDEs
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/intellij-rust/intellij-rust">
+   intellij-rust
+  </a>
+  — an
+  <a href="https://www.jetbrains.com/idea/">
+   IntelliJ
+  </a>
+  -based IDE for Rust
+  <a href="https://travis-ci.org/intellij-rust/intellij-rust">
+   <img src="https://travis-ci.org/intellij-rust/intellij-rust.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 572, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/PistonDevelopers/VisualRust">
+   PistonDevelopers/VisualRust
+  </a>
+  — a Visual Studio extension for Rust
+  <a href="https://travis-ci.org/PistonDevelopers/VisualRust">
+   <img src="https://travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 404, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/madeso/ride">
+   Ride
+  </a>
+  —
+  <a href="https://travis-ci.org/madeso/ride">
+   <img src="https://travis-ci.org/madeso/ride.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 98, pushed 125 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RustDT/RustDT">
+   RustDT
+  </a>
+  — an
+  <a href="https://eclipse.org/">
+   Eclipse
+  </a>
+  -based IDE for Rust
+  <a href="https://travis-ci.org/RustDT/RustDT">
+   <img src="https://travis-ci.org/RustDT/RustDT.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 247, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/oakes/SolidOak">
+   SolidOak
+  </a>
+  — a simple IDE for Rust, based on GTK+ and
+  <a href="https://github.com/neovim/neovim">
+   Neovim
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 644, pushed 45 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://code.visualstudio.com/">
+   Visual Studio Code
+  </a>
+ </li>
+</ul>
+<h3>
+ Profiling
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/ellisonch/rust-stopwatch">
+   ellisonch/rust-stopwatch
+  </a>
+  — a stopwatch library
+  <a href="https://travis-ci.org/ellisonch/rust-stopwatch">
+   <img src="https://travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 17, pushed 305 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mrhooray/torch">
+   mrhooray/torch
+  </a>
+  — generates FlameGraphs based on DWARF Debug Info
+  <sup>
+   243 GitHub links in total 408 links, &#9733 64, pushed 249 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Testing
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/BurntSushi/quickcheck">
+   BurntSushi/quickcheck
+  </a>
+  — a Rust implementation of
+  <a href="https://wiki.haskell.org/Introduction_to_QuickCheck1">
+   QuickCheck
+  </a>
+  <a href="https://travis-ci.org/BurntSushi/quickcheck">
+   <img src="https://travis-ci.org/BurntSushi/quickcheck.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 324, pushed 51 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/farcaller/shiny">
+   farcaller/shiny
+  </a>
+  — a fancy syntax similar to Ruby's Rspec or Objective-C' kiwi
+  <a href="https://travis-ci.org/farcaller/shiny">
+   <img src="https://travis-ci.org/farcaller/shiny.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 71, pushed 225 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/frewsxcv/afl.rs">
+   frewsxcv/afl.rs
+  </a>
+  — a Rust fuzzer, using
+  <a href="http://lcamtuf.coredump.cx/afl/">
+   AFL
+  </a>
+  <a href="https://travis-ci.org/frewsxcv/afl.rs">
+   <img src="https://api.travis-ci.org/frewsxcv/afl.rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 194, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Libraries
+</h2>
+<h3>
+ Astronomy
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/saurvs/astro-rust">
+   saurvs/astro-rust
+  </a>
+  — astronomy for Rust
+  <a href="https://travis-ci.org/saurvs/astro-rust">
+   <img src="https://travis-ci.org/saurvs/astro-rust.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 20, pushed 8 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Asynchronous
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/zonyitoo/coio-rs">
+   zonyitoo/coio-rs
+  </a>
+  — a coroutine I/O library with a working-stealing scheduler
+  <a href="https://travis-ci.org/zonyitoo/coio-rs">
+   <img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 225, pushed 0 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/thehydroimpulse/tangle">
+   thehydroimpulse/tangle
+  </a>
+  — a scala-inspired futures library
+  <a href="https://travis-ci.org/thehydroimpulse/tangle">
+   <img src="https://travis-ci.org/thehydroimpulse/tangle.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 9, pushed 35 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Audio
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/GuillaumeGomez/rust-fmod">
+   GuillaumeGomez/rust-fmod
+  </a>
+  —
+  <a href="http://www.fmod.org/">
+   FMOD
+  </a>
+  bindings
+  <a href="https://travis-ci.org/GuillaumeGomez/rust-fmod">
+   <img alt="Build Status" src="https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 8, pushed 92 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RustAudio/rust-portaudio">
+   RustAudio/rust-portaudio
+  </a>
+  —
+  <a href="http://www.portaudio.com/">
+   PortAudio
+  </a>
+  bindings
+  <a href="https://travis-ci.org/RustAudio/rust-portaudio">
+   <img src="https://travis-ci.org/RustAudio/rust-portaudio.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 74, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jhasse/ears">
+   jhasse/ears
+  </a>
+  — a simple library to play Sounds and Musics, on top of OpenAL and libsndfile
+  <a href="https://travis-ci.org/jhasse/ears">
+   <img src="https://travis-ci.org/jhasse/ears.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 6, pushed 67 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jpernst/openal-rs">
+   jpernst/openal-rs
+  </a>
+  —
+  <a href="http://www.openal.org/">
+   OpenAL 1.1
+  </a>
+  bindings
+  <a href="https://travis-ci.org/jpernst/openal-rs">
+   <img src="https://travis-ci.org/jpernst/openal-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 13, pushed 93 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RustAudio">
+   RustAudio
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/musitdev/portmidi-rs">
+   musitdev/portmidi-rs
+  </a>
+  —
+  <a href="http://portmedia.sourceforge.net/portmidi/">
+   PortMidi
+  </a>
+  bindings
+  <a href="https://travis-ci.org/musitdev/portmidi-rs">
+   <img src="https://travis-ci.org/musitdev/portmidi-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 24, pushed 37 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Authentication
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/keats/rust-jwt">
+   keats/rust-jwt
+  </a>
+  —
+  <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">
+   JSON Web Token
+  </a>
+  lib in rust
+  <a href="https://travis-ci.org/Keats/rust-jwt">
+   <img alt="Build Status" src="https://api.travis-ci.org/Keats/rust-jwt.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 20, pushed 8 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Bioinformatics
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/rust-bio">
+   Rust-Bio
+  </a>
+  — bioinformatics libraries in Rust.
+ </li>
+</ul>
+<h3>
+ Build system
+</h3>
+<ul>
+ <li>
+  <a href="https://crates.io/">
+   Cargo
+  </a>
+  — the Rust package manager
+  <ul>
+   <li>
+    <a href="https://github.com/rsolomo/cargo-check">
+     rsolomo/cargo-check
+    </a>
+    — a wrapper around
+    <code>
+     cargo rustc -- -Zno-trans
+    </code>
+    which can be helpful for running a faster compile if you only need correctness checks
+    <a href="https://travis-ci.org/rsolomo/cargo-check">
+     <img src="https://travis-ci.org/rsolomo/cargo-check.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 61, pushed 113 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-count">
+     kbknapp/cargo-count
+    </a>
+    — lists source code counts and details about cargo projects, including unsafe statistics
+    <a href="https://travis-ci.org/kbknapp/cargo-count">
+     <img src="https://travis-ci.org/kbknapp/cargo-count.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 42, pushed 33 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/pwoolcoc/cargo-do">
+     pwoolcoc/cargo-do
+    </a>
+    — run multiple cargo commands in a row
+    <sup>
+     243 GitHub links in total 408 links, &#9733 7, pushed 48 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/maxsnew/cargo-dot">
+     maxsnew/cargo-dot
+    </a>
+    — generate graphs of a Cargo project's dependencies
+    <a href="https://travis-ci.org/maxsnew/cargo-dot">
+     <img src="https://travis-ci.org/maxsnew/cargo-dot.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 34, pushed 166 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/killercup/cargo-edit">
+     killercup/cargo-edit
+    </a>
+    — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
+    <a href="https://travis-ci.org/killercup/cargo-edit">
+     <img src="https://travis-ci.org/killercup/cargo-edit.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 101, pushed 23 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-graph">
+     kbknapp/cargo-graph
+    </a>
+    — updated fork of
+    <code>
+     cargo-dot
+    </code>
+    with additional features
+    <a href="https://travis-ci.org/kbknapp/cargo-graph">
+     <img src="https://travis-ci.org/kbknapp/cargo-graph.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 23, pushed 41 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-outdated">
+     kbknapp/cargo-outdated
+    </a>
+    — displays when newer versions of Rust dependencies are available, or out of date
+    <a href="https://travis-ci.org/kbknapp/cargo-outdated">
+     <img src="https://travis-ci.org/kbknapp/cargo-outdated.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 39, pushed 41 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/imp/cargo-multi">
+     imp/cargo-multi
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-multi/">
+     cargo-multi
+    </a>
+    ] — runs specified cargo command on multiple crates
+    <a href="https://travis-ci.org/imp/cargo-multi">
+     <img src="https://travis-ci.org/imp/cargo-multi.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 0, pushed 24 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/DanielKeep/cargo-script">
+     DanielKeep/cargo-script
+    </a>
+    — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
+    <sup>
+     243 GitHub links in total 408 links, &#9733 67, pushed 11 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/passcod/cargo-watch">
+     passcod/cargo-watch
+    </a>
+    — utility for cargo to compile projects when sources change
+    <a href="https://travis-ci.org/passcod/cargo-watch">
+     <img src="https://travis-ci.org/passcod/cargo-watch.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 109, pushed 93 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  CMake
+  <ul>
+   <li>
+    <a href="https://github.com/SiegeLord/RustCMake">
+     SiegeLord/RustCMake
+    </a>
+    — an example project showing usage of CMake with Rust
+    <a href="https://travis-ci.org/SiegeLord/RustCMake">
+     <img src="https://travis-ci.org/SiegeLord/RustCMake.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 45, pushed 192 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Caching
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/jaysonsantos/bmemcached-rs">
+   jaysonsantos/bmemcached-rs
+  </a>
+  - Memcached library written in pure rust
+  <a href="https://travis-ci.org/jaysonsantos/bmemcached-rs">
+   <img src="https://travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 3, pushed 7 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Concurrency
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/aturon/crossbeam">
+   aturon/crossbeam
+  </a>
+  – Support for parallelism and low-level concurrency in Rust
+  <a href="https://travis-ci.org/aturon/crossbeam">
+   <img src="https://travis-ci.org/aturon/crossbeam.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 390, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nikomatsakis/rayon">
+   nikomatsakis/rayon
+  </a>
+  – A data parallelism library for Rust
+  <a href="https://travis-ci.org/nikomatsakis/rayon">
+   <img src="https://travis-ci.org/nikomatsakis/rayon.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 354, pushed 10 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Cloud
+</h3>
+<ul>
+ <li>
+  AWS
+  <ul>
+   <li>
+    <a href="https://github.com/rusoto/rusoto">
+     rusoto/rusoto
+    </a>
+    —
+    <a href="https://travis-ci.org/rusoto/rusoto">
+     <img src="https://travis-ci.org/rusoto/rusoto.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/thommay/aws-rs">
+     thommay/aws-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/thommay/aws-rs">
+     <img src="https://travis-ci.org/thommay/aws-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 4, pushed 286 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 100, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  DigitalOcean
+  <ul>
+   <li>
+    <a href="https://github.com/kbknapp/doapi-rs">
+     kbknapp/doapi
+    </a>
+    — DigitalOcean v2 API bindings
+    <a href="https://travis-ci.org/kbknapp/doapi-rs">
+     <img src="https://travis-ci.org/kbknapp/doapi-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 13, pushed 1 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Command-line argument parsing
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/docopt/docopt.rs">
+   docopt/docopt.rs
+  </a>
+  — a Rust implementation of
+  <a href="http://docopt.org">
+   DocOpt
+  </a>
+  <a href="https://travis-ci.org/docopt/docopt.rs">
+   <img src="https://travis-ci.org/docopt/docopt.rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 348, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kbknapp/clap-rs">
+   kbknapp/clap-rs
+  </a>
+  — a simple to use, full featured command-line argument parser
+  <a href="https://travis-ci.org/kbknapp/clap-rs">
+   <img src="https://travis-ci.org/kbknapp/clap-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 456, pushed 0 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Command-line interface
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/kkawakam/rustyline">
+   kkawakam/rustyline
+  </a>
+  - Readline Implementation in Rust
+  <a href="https://travis-ci.org/kkawakam/rustyline">
+   <img alt="Build Status" src="https://travis-ci.org/kkawakam/rustyline.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 10, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/srijs/rust-copperline">
+   srijs/rust-copperline
+  </a>
+  - Pure-Rust Command Line Editing Library
+  <sup>
+   243 GitHub links in total 408 links, &#9733 10, pushed 58 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Compression
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/alexcrichton/bzip2-rs">
+   alexcrichton/bzip2-rs
+  </a>
+  —
+  <a href="http://www.bzip.org">
+   libbz2
+  </a>
+  bindings
+  <a href="https://travis-ci.org/alexcrichton/bzip2-rs">
+   <img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 6, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alexcrichton/flate2-rs">
+   alexcrichton/flate2-rs
+  </a>
+  —
+  <a href="https://code.google.com/p/miniz/">
+   miniz
+  </a>
+  bindings
+  <a href="https://travis-ci.org/alexcrichton/flate2-rs">
+   <img src="https://travis-ci.org/alexcrichton/flate2-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 46, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alexcrichton/tar-rs">
+   alexcrichton/tar-rs
+  </a>
+  — tar archive reading/writing in Rust
+  <a href="https://travis-ci.org/alexcrichton/tar-rs">
+   <img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 33, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ende76/brotli-rs">
+   ende76/brotli-rs
+  </a>
+  — implementation of
+  <a href="http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html">
+   Brotli
+  </a>
+  compression
+  <sup>
+   243 GitHub links in total 408 links, &#9733 29, pushed 16 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JeffBelgum/rust-snappy">
+   JeffBelgum/rust-snappy
+  </a>
+  —
+  <a href="https://github.com/google/snappy">
+   snappy
+  </a>
+  bindings
+  <a href="https://travis-ci.org/JeffBelgum/rust-snappy">
+   <img src="https://travis-ci.org/JeffBelgum/rust-snappy.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 4, pushed 86 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slackito/zip">
+   slackito/zip
+  </a>
+  — read and write ZIP archives
+  <a href="https://travis-ci.org/slackito/zip">
+   <img src="https://travis-ci.org/slackito/zip.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 9, pushed 409 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Computation
+</h3>
+<ul>
+ <li>
+  BLAS [
+  <a href="https://crates.io/keywords/blas">
+   blas
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/mikkyang/rust-blas">
+     mikkyang/rust-blas
+    </a>
+    —
+    <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
+     BLAS
+    </a>
+    bindings
+    <sup>
+     243 GitHub links in total 408 links, &#9733 42, pushed 58 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/stainless-steel/blas">
+     stainless-steel/blas
+    </a>
+    —
+    <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
+     BLAS
+    </a>
+    bindings
+    <a href="https://travis-ci.org/stainless-steel/blas">
+     <img src="https://travis-ci.org/stainless-steel/blas.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 10, pushed 1 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  GMP
+  <ul>
+   <li>
+    <a href="https://github.com/thestinger/rust-gmp">
+     thestinger/rust-gmp
+    </a>
+    —
+    <a href="https://gmplib.org/">
+     libgmp
+    </a>
+    bindings
+    <a href="https://travis-ci.org/thestinger/rust-gmp">
+     <img src="https://travis-ci.org/thestinger/rust-gmp.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 28, pushed 339 days ago
+  </sup>
+ </li>
+ <li>
+  GSL
+  <ul>
+   <li>
+    <a href="https://github.com/GuillaumeGomez">
+     GuillaumeGomez/rust-GSL
+    </a>
+    —
+    <a href="http://www.gnu.org/software/gsl/">
+     GSL
+    </a>
+    bindings
+    <a href="https://travis-ci.org/GuillaumeGomez/rust-GSL">
+     <img src="https://travis-ci.org/GuillaumeGomez/rust-GSL.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  LAPACK
+  <ul>
+   <li>
+    <a href="https://github.com/stainless-steel/lapack">
+     stainless-steel/lapack
+    </a>
+    —
+    <a href="https://en.wikipedia.org/wiki/LAPACK">
+     LAPACK
+    </a>
+    bindings
+    <a href="https://travis-ci.org/stainless-steel/lapack">
+     <img src="https://travis-ci.org/stainless-steel/lapack.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 10, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  OpenCL
+  <ul>
+   <li>
+    <a href="https://github.com/arrayfire/arrayfire-rust">
+     arrayfire/arrayfire-rust
+    </a>
+    —
+    <a href="http://arrayfire.com">
+     Arrayfire
+    </a>
+    bindings
+   </li>
+   <li>
+    <a href="https://github.com/luqmana/rust-opencl">
+     luqmana/rust-opencl
+    </a>
+    —
+    <a href="https://www.khronos.org/opencl/">
+     OpenCL
+    </a>
+    bindings
+    <a href="https://travis-ci.org/luqmana/rust-opencl">
+     <img src="https://travis-ci.org/luqmana/rust-opencl.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 109, pushed 56 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 73, pushed 5 days ago
+  </sup>
+ </li>
+ <li>
+  Scirust
+  <ul>
+   <li>
+    <a href="https://github.com/indigits/scirust">
+     indigits/scirust
+    </a>
+    — scientific computing library in Rust
+    <a href="https://travis-ci.org/indigits/scirust">
+     <img alt="Build Status" src="https://travis-ci.org/indigits/scirust.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 57, pushed 227 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Cryptography
+</h3>
+<p>
+ [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/briansmith/ring">
+   briansmith/ring
+  </a>
+  — Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+  <a href="https://travis-ci.org/briansmith/ring">
+   <img src="https://travis-ci.org/briansmith/ring.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 145, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/briansmith/webpki">
+   briansmith/webpki
+  </a>
+  — Web PKI TLS X.509 certificate validation in Rust.
+  <a href="https://travis-ci.org/briansmith/webpki">
+   <img src="https://travis-ci.org/briansmith/webpki.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 38, pushed 65 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/DaGenix/rust-crypto">
+   DaGenix/rust-crypto
+  </a>
+  — cryptographic algorithms in Rust
+  <a href="https://travis-ci.org/DaGenix/rust-crypto">
+   <img src="https://travis-ci.org/DaGenix/rust-crypto.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 385, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dnaq/sodiumoxide">
+   dnaq/sodiumoxide
+  </a>
+  —
+  <a href="https://github.com/jedisct1/libsodium">
+   libsodium
+  </a>
+  bindings
+  <a href="https://travis-ci.org/dnaq/sodiumoxide">
+   <img src="https://travis-ci.org/dnaq/sodiumoxide.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 147, pushed 10 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/klutzy/suruga">
+   klutzy/suruga
+  </a>
+  — a Rust implementation of
+  <a href="http://tools.ietf.org/html/rfc5246">
+   TLS 1.2
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 120, pushed 105 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/libOctavo/octavo">
+   libOctavo/octavo
+  </a>
+  — Modular hash and crypto library in Rust
+  <a href="https://travis-ci.org/libOctavo/octavo">
+   <img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 97, pushed 13 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/seb-m/common.rs">
+   seb-m/common.rs
+  </a>
+  — Common Rust crypto utilities
+  <a href="https://travis-ci.org/seb-m/common.rs">
+   <img src="https://travis-ci.org/seb-m/common.rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 1, pushed 495 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sfackler/rust-openssl">
+   sfackler/rust-openssl
+  </a>
+  —
+  <a href="https://www.openssl.org/">
+   OpenSSL
+  </a>
+  bindings
+  <a href="https://travis-ci.org/sfackler/rust-openssl">
+   <img src="https://travis-ci.org/sfackler/rust-openssl.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 169, pushed 1 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Database
+</h3>
+<p>
+ [[database](https://crates.io/keywords/database)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/pingcap/tikv">
+   pingcap/tikv
+  </a>
+  — TiKV is a distributed KV database powered by Rust
+  <a href="https://travis-ci.org/pingcap/tikv">
+   <img src="https://travis-ci.org/pingcap/tikv.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 600, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sfackler/r2d2">
+   sfackler/r2d2
+  </a>
+  — generic connection pool
+  <a href="https://travis-ci.org/sfackler/r2d2">
+   <img src="https://travis-ci.org/sfackler/r2d2.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 77, pushed 18 days ago
+  </sup>
+ </li>
+ <li>
+  NoSQL [
+  <a href="https://crates.io/keywords/nosql">
+   nosql
+  </a>
+  ]
+  <ul>
+   <li>
+    Cassandra [
+    <a href="https://crates.io/keywords/cassandra">
+     cassandra
+    </a>
+    ,
+    <a href="https://crates.io/keywords/cql">
+     cql
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/tupshin/cassandra-rs">
+     tupshin/cassandra-rust
+    </a>
+    —
+    <a href="http://cassandra.apache.org">
+     Cassandra
+    </a>
+    bindings
+    <sup>
+     243 GitHub links in total 408 links, &#9733 23, pushed 50 days ago
+    </sup>
+   </li>
+   <li>
+    CouchDB [
+    <a href="https://crates.io/keywords/couchdb">
+     couchdb
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/couchdb-rs/couchdb">
+     couchdb-rs/couchdb
+    </a>
+    [
+    <a href="https://crates.io/crates/couchdb/">
+     couchdb
+    </a>
+    ] — a Rust client for the CouchDB REST API
+    <a href="https://travis-ci.org/couchdb-rs/couchdb">
+     <img src="https://travis-ci.org/couchdb-rs/couchdb.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 6, pushed 38 days ago
+    </sup>
+   </li>
+   <li>
+    Elasticsearch [
+    <a href="https://crates.io/keywords/elasticsearch">
+     elasticsearch
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/benashford/rs-es">
+     benashford/rs-es
+    </a>
+    [
+    <a href="https://crates.io/crates/rs-es/">
+     rs-es
+    </a>
+    ] — a Rust client for the
+    <a href="https://www.elastic.co/">
+     Elastic
+    </a>
+    REST API
+    <a href="https://travis-ci.org/benashford/rs-es">
+     <img src="https://travis-ci.org/benashford/rs-es.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 68, pushed 22 days ago
+    </sup>
+   </li>
+   <li>
+    etcd
+   </li>
+   <li>
+    <a href="https://github.com/jimmycuadra/rust-etcd">
+     jimmycuadra/rust-etcd
+    </a>
+    [
+    <a href="https://crates.io/crates/etcd/">
+     etcd
+    </a>
+    ] — A client library for CoreOS's etcd.
+    <a href="https://travis-ci.org/jimmycuadra/rust-etcd">
+     <img src="https://travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 42, pushed 19 days ago
+    </sup>
+   </li>
+   <li>
+    ForestDB
+   </li>
+   <li>
+    <a href="https://github.com/vhbit/sherwood">
+     vhbit/sherwood
+    </a>
+    —
+    <a href="https://github.com/couchbase/forestdb">
+     ForestDB
+    </a>
+    bindings
+    <a href="https://travis-ci.org/vhbit/sherwood">
+     <img src="https://travis-ci.org/vhbit/sherwood.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 0, pushed 313 days ago
+    </sup>
+   </li>
+   <li>
+    LMDB [
+    <a href="https://crates.io/keywords/lmdb">
+     lmdb
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/vhbit/lmdb-rs">
+     vhbit/lmdb-rs
+    </a>
+    [
+    <a href="https://crates.io/crates/lmdb-rs/">
+     lmdb-rs
+    </a>
+    ] —
+    <a href="http://symas.com/mdb/">
+     LMDB
+    </a>
+    bindings
+    <a href="https://travis-ci.org/vhbit/lmdb-rs">
+     <img src="https://travis-ci.org/vhbit/lmdb-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 45, pushed 61 days ago
+    </sup>
+   </li>
+   <li>
+    MongoDB [
+    <a href="https://crates.io/keywords/mongodb">
+     mongodb
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/mongodb-labs/mongo-rust-driver-prototype">
+     mongodb-labs/mongo-rust-driver-prototype
+    </a>
+    [
+    <a href="https://crates.io/crates/mongodb/">
+     mongodb
+    </a>
+    ] —
+    <a href="https://www.mongodb.org/">
+     MongoDB
+    </a>
+    bindings
+    <a href="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype">
+     <img src="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 100, pushed 5 days ago
+    </sup>
+   </li>
+   <li>
+    Neo4j [
+    <a href="https://crates.io/keywords/cypher">
+     cypher
+    </a>
+    ,
+    <a href="https://crates.io/keywords/neo4j">
+     neo4j
+    </a>
+    ]
+   </li>
+   <li>
+    Redis [
+    <a href="https://crates.io/keywords/redis">
+     redis
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/mitsuhiko/redis-rs">
+     mitsuhiko/redis-rs
+    </a>
+    —
+    <a href="http://redis.io">
+     Redis
+    </a>
+    library in Rust
+    <a href="https://travis-ci.org/mitsuhiko/redis-rs">
+     <img src="https://travis-ci.org/mitsuhiko/redis-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 420, pushed 1 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  SQL [
+  <a href="https://crates.io/keywords/sql">
+   sql
+  </a>
+  ]
+  <ul>
+   <li>
+    MySql [
+    <a href="https://crates.io/keywords/mysql">
+     mysql
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/blackbeam/rust-mysql-simple">
+     blackbeam/rust-mysql-simple
+    </a>
+    [
+    <a href="https://crates.io/crates/mysql">
+     mysql
+    </a>
+    ] — a native MySql client
+    <a href="https://travis-ci.org/blackbeam/rust-mysql-simple">
+     <img src="https://travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 91, pushed 25 days ago
+    </sup>
+   </li>
+   <li>
+    ORM [
+    <a href="https://crates.io/keywords/orm">
+     orm
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/deuterium-orm/deuterium">
+     deuterium-orm/deuterium-orm
+    </a>
+    — an SQL query builder for Rust
+    <a href="https://travis-ci.org/deuterium-orm/deuterium">
+     <img alt="Build Status" src="https://travis-ci.org/deuterium-orm/deuterium.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 155, pushed 335 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/ivanceras/rustorm">
+     ivanceras/rustorm
+    </a>
+    — an ORM for Rust
+    <a href="https://travis-ci.org/ivanceras/rustorm">
+     <img alt="Build Status" src="https://api.travis-ci.org/ivanceras/rustorm.svg"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 123, pushed 17 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/phonkee/treasure">
+     phonkee/treasure
+    </a>
+    — an ORM for Rust
+    <sup>
+     243 GitHub links in total 408 links, &#9733 42, pushed 268 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/sgrif/diesel">
+     sgrif/diesel
+    </a>
+    — an ORM and Query builder for Rust
+    <a href="https://travis-ci.org/sgrif/diesel">
+     <img alt="Build Status" src="https://api.travis-ci.org/sgrif/diesel.svg"/>
+    </a>
+   </li>
+   <li>
+    PostgreSql [
+    <a href="https://crates.io/keywords/postgres">
+     postgres
+    </a>
+    ,
+    <a href="https://crates.io/keywords/postgresql">
+     postgresql
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/sfackler/rust-postgres">
+     sfackler/rust-postgres
+    </a>
+    [
+    <a href="https://crates.io/crates/postgres/">
+     postgres
+    </a>
+    ] — a native
+    <a href="http://www.postgresql.org">
+     PostgreSQL
+    </a>
+    client
+    <a href="https://travis-ci.org/sfackler/rust-postgres">
+     <img src="https://travis-ci.org/sfackler/rust-postgres.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 524, pushed 1 days ago
+    </sup>
+   </li>
+   <li>
+    Sqlite [
+    <a href="https://crates.io/keywords/sqlite">
+     sqlite
+    </a>
+    ]
+   </li>
+   <li>
+    <a href="https://github.com/dckc/rust-sqlite3">
+     dckc/rust-sqlite3
+    </a>
+    —
+    <a href="http://www.sqlite.org/">
+     Sqlite3
+    </a>
+    bindings
+    <a href="https://travis-ci.org/dckc/rust-sqlite3">
+     <img src="https://travis-ci.org/dckc/rust-sqlite3.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 43, pushed 11 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/jgallagher/rusqlite">
+     jgallagher/rusqlite
+    </a>
+    —
+    <a href="http://www.sqlite.org/">
+     Sqlite3
+    </a>
+    bindings
+    <a href="https://travis-ci.org/jgallagher/rusqlite">
+     <img src="https://travis-ci.org/jgallagher/rusqlite.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 88, pushed 3 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/linuxfood/rustsqlite">
+     linuxfood/rustsqlite
+    </a>
+    —
+    <a href="http://www.sqlite.org/">
+     Sqlite3
+    </a>
+    bindings
+    <a href="https://travis-ci.org/linuxfood/rustsqlite">
+     <img src="https://travis-ci.org/linuxfood/rustsqlite.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 78, pushed 393 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h3>
+ Data structures
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/bluss/rust-itertools">
+   bluss/rust-itertools
+  </a>
+  —
+  <a href="https://travis-ci.org/bluss/rust-itertools">
+   <img src="https://travis-ci.org/bluss/rust-itertools.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 138, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fizyk20/generic-array">
+   fizyk20/generic-array
+  </a>
+  – a hack to allow for arrays sized by typenums
+  <a href="https://travis-ci.org/fizyk20/generic-array">
+   <img src="https://travis-ci.org/fizyk20/generic-array.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 9, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Nemo157/roaring-rs">
+   Nemo157/roaring-rs
+  </a>
+  – Roaring Bitmaps in Rust
+  <a href="https://travis-ci.org/Nemo157/roaring-rs">
+   <img src="https://travis-ci.org/Nemo157/roaring-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 27, pushed 22 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/reem/rust-typemap">
+   reem/rust-typemap
+  </a>
+  —
+  <a href="https://travis-ci.org/reem/rust-typemap">
+   <img src="https://travis-ci.org/reem/rust-typemap.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 45, pushed 75 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/serde-rs/serde">
+   serde-rs/serde
+  </a>
+  — a framework to generically serialize Rust data structures
+  <a href="https://travis-ci.org/serde-rs/serde">
+   <img src="https://api.travis-ci.org/serde-rs/serde.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 369, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Date and time
+</h3>
+<p>
+ [[date](https://crates.io/keywords/date), [time](https://crates.io/keywords/time)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/lifthrasiir/rust-chrono">
+   lifthrasiir/rust-chrono
+  </a>
+  —
+  <a href="https://travis-ci.org/lifthrasiir/rust-chrono">
+   <img src="https://travis-ci.org/lifthrasiir/rust-chrono.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 164, pushed 12 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rust-lang-deprecated/time">
+   rust-lang-deprecated/time
+  </a>
+  —
+  <a href="https://travis-ci.org/rust-lang-deprecated/time">
+   <img src="https://travis-ci.org/rust-lang-deprecated/time.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 65, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Distributed Systems
+</h3>
+<ul>
+ <li>
+  Apache Kafka
+  <ul>
+   <li>
+    <a href="https://github.com/spicavigo/kafka-rust">
+     spicavigo/kafka-rust
+    </a>
+    —
+    <a href="https://travis-ci.org/spicavigo/kafka-rust">
+     <img src="https://travis-ci.org/spicavigo/kafka-rust.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 99, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  Beanstalkd
+  <ul>
+   <li>
+    <a href="https://github.com/schickling/rust-beanstalkd">
+     schickling/rust-beanstalkd
+    </a>
+    —
+    <a href="https://github.com/kr/beanstalkd">
+     Beanstalkd
+    </a>
+    bindings
+    <a href="https://travis-ci.org/schickling/rust-beanstalkd">
+     <img src="https://travis-ci.org/schickling/rust-beanstalkd.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 11, pushed 113 days ago
+  </sup>
+ </li>
+ <li>
+  HDFS
+  <ul>
+   <li>
+    <a href="https://github.com/hyunsik/hdfs-rs">
+     hyunsik/hdfs-rs
+    </a>
+    — libhdfs bindings
+    <a href="https://travis-ci.org/hyunsik/hdfs-rs">
+     <img src="https://travis-ci.org/hyunsik/hdfs-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 14, pushed 208 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Email
+</h3>
+<p>
+ [[email](https://crates.io/keywords/email)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/gsquire/sendgrid-rs">
+   gsquire/sendgrid-rs
+  </a>
+  — unofficial Rust library for SendGrid API
+  <a href="https://travis-ci.org/gsquire/sendgrid-rs">
+   <img src="https://travis-ci.org/gsquire/sendgrid-rs.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 4, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lettre/lettre">
+   lettre/lettre
+  </a>
+  — an SMTP-library for Rust
+  <a href="https://travis-ci.org/lettre/lettre">
+   <img src="https://travis-ci.org/lettre/lettre.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 74, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Encoding
+</h3>
+<p>
+ [[encoding](https://crates.io/keywords/encoding)]
+</p>
+<ul>
+ <li>
+  ASN.1
+  <ul>
+   <li>
+    <a href="https://github.com/alex/rust-asn1">
+     alex/rust-asn1
+    </a>
+    — a Rust ASN.1 (DER) serializer
+    <a href="https://travis-ci.org/alex/rust-asn1">
+     <img src="https://travis-ci.org/alex/rust-asn1.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 18, pushed 29 days ago
+  </sup>
+ </li>
+ <li>
+  Bencode
+  <ul>
+   <li>
+    <a href="https://github.com/arjantop/rust-bencode">
+     arjantop/rust-bencode
+    </a>
+    —
+    <a href="https://en.wikipedia.org/wiki/Bencode">
+     Bencode
+    </a>
+    implementation in Rust
+    <a href="https://travis-ci.org/arjantop/rust-bencode">
+     <img src="https://travis-ci.org/arjantop/rust-bencode.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 19, pushed 179 days ago
+  </sup>
+ </li>
+ <li>
+  Binary
+  <ul>
+   <li>
+    <a href="https://github.com/arcnmx/nue">
+     arcnmx/nue
+    </a>
+    — I/O and binary data encoding for Rust
+    <a href="https://travis-ci.org/arcnmx/nue">
+     <img src="https://travis-ci.org/arcnmx/nue.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/TyOverby/bincode">
+     TyOverby/bincode
+    </a>
+    — a binary encoder/decoder in Rust
+    <a href="https://travis-ci.org/TyOverby/bincode">
+     <img src="https://travis-ci.org/TyOverby/bincode.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 110, pushed 12 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 21, pushed 260 days ago
+  </sup>
+ </li>
+ <li>
+  Byte swapping
+  <ul>
+   <li>
+    <a href="https://github.com/BurntSushi/byteorder">
+     BurntSushi/byteorder
+    </a>
+    — Supports big-endian, little-endian and native byte orders
+    <a href="https://travis-ci.org/BurntSushi/byteorder">
+     <img src="https://travis-ci.org/BurntSushi/byteorder.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 89, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  Cap'n Proto
+  <ul>
+   <li>
+    <a href="https://github.com/dwrensha/capnproto-rust">
+     dwrensha/capnproto-rust
+    </a>
+    —
+    <a href="https://travis-ci.org/dwrensha/capnproto-rust">
+     <img src="https://travis-ci.org/dwrensha/capnproto-rust.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 297, pushed 9 days ago
+  </sup>
+ </li>
+ <li>
+  CBOR
+  <ul>
+   <li>
+    <a href="https://github.com/BurntSushi/rust-cbor">
+     BurntSushi/rust-cbor
+    </a>
+    — Supports JSON conversion and type-based encoding/decoding
+    <a href="https://travis-ci.org/BurntSushi/rust-cbor">
+     <img src="https://travis-ci.org/BurntSushi/rust-cbor.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 39, pushed 239 days ago
+  </sup>
+ </li>
+ <li>
+  Character Encoding
+  <ul>
+   <li>
+    <a href="https://github.com/lifthrasiir/rust-encoding">
+     lifthrasiir/rust-encoding
+    </a>
+    —
+    <a href="https://travis-ci.org/lifthrasiir/rust-encoding">
+     <img src="https://travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 97, pushed 71 days ago
+  </sup>
+ </li>
+ <li>
+  CRC
+  <ul>
+   <li>
+    <a href="https://github.com/mrhooray/crc-rs">
+     mrhooray/crc-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/mrhooray/crc-rs">
+     <img src="https://travis-ci.org/mrhooray/crc-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 10, pushed 259 days ago
+  </sup>
+ </li>
+ <li>
+  CSV
+  <ul>
+   <li>
+    <a href="https://github.com/BurntSushi/rust-csv">
+     BurntSushi/rust-csv
+    </a>
+    —
+    <a href="https://travis-ci.org/BurntSushi/rust-csv">
+     <img src="https://travis-ci.org/BurntSushi/rust-csv.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 169, pushed 12 days ago
+  </sup>
+ </li>
+ <li>
+  HTML
+  <ul>
+   <li>
+    <a href="https://github.com/servo/html5ever">
+     servo/html5ever
+    </a>
+    — High-performance browser-grade HTML5 parser
+    <a href="https://travis-ci.org/servo/html5ever">
+     <img src="https://travis-ci.org/servo/html5ever.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 296, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  JSON
+  <ul>
+   <li>
+    <a href="https://github.com/serde-rs/json">
+     serde-rs/json
+    </a>
+    [
+    <a href="https://crates.io/crates/serde_json/">
+     serde_json
+    </a>
+    ] — JSON support for
+    <a href="https://github.com/serde-rs/serde">
+     Serde
+    </a>
+    framework
+    <a href="https://travis-ci.org/serde-rs/json">
+     <img src="https://travis-ci.org/serde-rs/json.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 48, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  Jsonnet
+  <ul>
+   <li>
+    <a href="https://github.com/Qihoo360/rust-jsonnet">
+     Qihoo360/rust-jsonnet
+    </a>
+    —
+    <a href="https://travis-ci.org/Qihoo360/rust-jsonnet">
+     <img src="https://travis-ci.org/Qihoo360/rust-jsonnet.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 16, pushed 237 days ago
+  </sup>
+ </li>
+ <li>
+  MsgPack
+  <ul>
+   <li>
+    <a href="https://github.com/mneumann/rust-msgpack">
+     mneumann/rust-msgpack
+    </a>
+    —
+    <a href="https://travis-ci.org/mneumann/rust-msgpack">
+     <img src="https://travis-ci.org/mneumann/rust-msgpack.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/3Hren/msgpack-rust">
+     3Hren/msgpack-rust
+    </a>
+    — a pure Rust low/high level MessagePack implementation
+    <a href="https://travis-ci.org/3Hren/msgpack-rust">
+     <img src="https://travis-ci.org/3Hren/msgpack-rust.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 72, pushed 31 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 96, pushed 18 days ago
+  </sup>
+ </li>
+ <li>
+  ProtocolBuffers
+  <ul>
+   <li>
+    <a href="https://github.com/stepancheg/rust-protobuf">
+     stepancheg/rust-protobuf
+    </a>
+    —
+    <a href="https://travis-ci.org/stepancheg/rust-protobuf">
+     <img src="https://travis-ci.org/stepancheg/rust-protobuf.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 243, pushed 15 days ago
+  </sup>
+ </li>
+ <li>
+  RON (Rusty Object Notation)
+  <ul>
+   <li>
+    <a href="https://github.com/kvark/ron">
+     kvark/ron
+    </a>
+    —
+    <a href="https://travis-ci.org/kvark/ron">
+     <img src="https://travis-ci.org/kvark/ron.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 63, pushed 361 days ago
+  </sup>
+ </li>
+ <li>
+  Tnetstring
+  <ul>
+   <li>
+    <a href="https://github.com/erickt/rust-tnetstring">
+     erickt/rust-tnetstring
+    </a>
+    —
+    <a href="https://travis-ci.org/erickt/rust-tnetstring">
+     <img src="https://travis-ci.org/erickt/rust-tnetstring.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 13, pushed 539 days ago
+  </sup>
+ </li>
+ <li>
+  TOML
+  <ul>
+   <li>
+    <a href="https://github.com/alexcrichton/toml-rs">
+     alexcrichton/toml-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/alexcrichton/toml-rs">
+     <img src="https://travis-ci.org/alexcrichton/toml-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 157, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  XML
+  <ul>
+   <li>
+    <a href="https://github.com/Florob/RustyXML">
+     Florob/RustyXML
+    </a>
+    — an XML parser written in Rust
+    <a href="https://travis-ci.org/Florob/RustyXML">
+     <img src="https://travis-ci.org/Florob/RustyXML.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/shepmaster/sxd-document">
+     shepmaster/sxd-document
+    </a>
+    — An XML library in Rust
+    <a href="https://travis-ci.org/shepmaster/sxd-document">
+     <img src="https://travis-ci.org/shepmaster/sxd-document.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 49, pushed 2 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/shepmaster/sxd-xpath">
+     shepmaster/sxd-xpath
+    </a>
+    — An XPath library in Rust
+    <a href="https://travis-ci.org/shepmaster/sxd-xpath">
+     <img src="https://travis-ci.org/shepmaster/sxd-xpath.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 19, pushed 2 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/netvl/xml-rs">
+     netvl/xml-rs
+    </a>
+    — a streaming XML library
+    <a href="https://travis-ci.org/netvl/xml-rs">
+     <img src="https://travis-ci.org/netvl/xml-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 98, pushed 4 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 53, pushed 62 days ago
+  </sup>
+ </li>
+ <li>
+  YAML
+  <ul>
+   <li>
+    <a href="https://github.com/chyh1990/yaml-rust">
+     chyh1990/yaml-rust
+    </a>
+    — The missing YAML 1.2 implementation for Rust.
+    <a href="https://travis-ci.org/chyh1990/yaml-rust">
+     <img src="https://travis-ci.org/chyh1990/yaml-rust.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/dtolnay/serde-yaml">
+     dtolnay/serde-yaml
+    </a>
+    [
+    <a href="https://crates.io/crates/serde_yaml/">
+     serde_yaml
+    </a>
+    ] — YAML support for
+    <a href="https://github.com/serde-rs/serde">
+     Serde
+    </a>
+    framework
+    <a href="https://travis-ci.org/dtolnay/serde-yaml">
+     <img src="https://travis-ci.org/dtolnay/serde-yaml.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 6, pushed 13 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kimhyunkang/libyaml-rust">
+     kimhyunkang/libyaml-rust
+    </a>
+    —
+    <a href="http://pyyaml.org/wiki/LibYAML">
+     libyaml
+    </a>
+    bindings
+    <a href="https://travis-ci.org/kimhyunkang/libyaml-rust">
+     <img src="https://travis-ci.org/kimhyunkang/libyaml-rust.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 14, pushed 188 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 80, pushed 19 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Game development
+</h3>
+<ul>
+ <li>
+  Allegro
+  <ul>
+   <li>
+    <a href="https://github.com/SiegeLord/RustAllegro">
+     SiegeLord/RustAllegro
+    </a>
+    —
+    <a href="http://liballeg.org/">
+     Allegro 5
+    </a>
+    bindings
+    <a href="https://travis-ci.org/SiegeLord/RustAllegro">
+     <img src="https://travis-ci.org/SiegeLord/RustAllegro.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 27, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  Amethyst
+  <ul>
+   <li>
+    <a href="https://github.com/ebkalderon/amethyst">
+     ebkalderon/amethyst
+    </a>
+    — data-oriented game engine
+    <a href="https://travis-ci.org/ebkalderon/amethyst">
+     <img src="https://travis-ci.org/ebkalderon/amethyst.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 4, pushed 22 days ago
+  </sup>
+ </li>
+ <li>
+  Corange
+  <ul>
+   <li>
+    <a href="https://github.com/lucidscape/corange-rs">
+     lucidscape/corange-rs
+    </a>
+    —
+    <a href="https://github.com/orangeduck/Corange">
+     Corange
+    </a>
+    bindings
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 18, pushed 135 days ago
+  </sup>
+ </li>
+ <li>
+  Piston
+  <ul>
+   <li>
+    <a href="http://www.piston.rs">
+     Piston
+    </a>
+    —
+    <a href="https://travis-ci.org/PistonDevelopers/piston">
+     <img src="https://travis-ci.org/PistonDevelopers/piston.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  SDL [
+  <a href="https://crates.io/keywords/sdl">
+   sdl
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/AngryLawyer/rust-sdl2">
+     AngryLawyer/rust-sdl2
+    </a>
+    —
+    <a href="http://www.libsdl.org/">
+     SDL2
+    </a>
+    bindings
+    <a href="https://travis-ci.org/AngryLawyer/rust-sdl2">
+     <img src="https://travis-ci.org/AngryLawyer/rust-sdl2.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 350, pushed 1 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/brson/rust-sdl">
+     brson/rust-sdl
+    </a>
+    —
+    <a href="http://www.libsdl.org/">
+     SDL1
+    </a>
+    bindings
+    <a href="https://travis-ci.org/brson/rust-sdl">
+     <img src="https://travis-ci.org/brson/rust-sdl.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 159, pushed 335 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  SFML
+  <ul>
+   <li>
+    <a href="https://github.com/jeremyletang/rust-sfml">
+     jeremyletang/rust-sfml
+    </a>
+    —
+    <a href="http://www.sfml-dev.org/">
+     SFML
+    </a>
+    bindings
+    <a href="https://travis-ci.org/jeremyletang/rust-sfml">
+     <img src="https://travis-ci.org/jeremyletang/rust-sfml.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 192, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  Voxlap
+  <ul>
+   <li>
+    <a href="https://github.com/bbodi/rust-voxlap">
+     bbodi/rust-voxlap
+    </a>
+    —
+    <a href="http://advsys.net/ken/voxlap.htm">
+     Voxlap
+    </a>
+    bindings
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 9, pushed 556 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Geospatial
+</h3>
+<p>
+ [[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/georust">
+   Georust
+  </a>
+  — geospatial tools and libraries written in Rust
+ </li>
+</ul>
+<h3>
+ GUI
+</h3>
+<p>
+ [[gui](https://crates.io/keywords/gui)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/PistonDevelopers/conrod/">
+   PistonDevelopers/conrod
+  </a>
+  — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust
+  <a href="https://travis-ci.org/PistonDevelopers/conrod">
+   <img src="https://travis-ci.org/PistonDevelopers/conrod.svg?branch=master"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/pravic/rust-sciter">
+   pravic/rust-sciter
+  </a>
+  — Rust bindings for the Sciter, embeddable HTML/CSS/script engine (cross-platform desktop GUI toolkit).
+  <a href="https://ci.appveyor.com/project/pravic/rust-sciter">
+   <img src="https://ci.appveyor.com/api/projects/status/github/pravic/rust-sciter?svg=true"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 16, pushed 15 days ago
+  </sup>
+ </li>
+ <li>
+  Cocoa
+  <ul>
+   <li>
+    <a href="https://github.com/servo/cocoa-rs">
+     servo/rust-cocoa
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 182, pushed 5 days ago
+  </sup>
+ </li>
+ <li>
+  IUP
+  <ul>
+   <li>
+    <a href="https://github.com/dcampbell24/iup-rust">
+     dcampbell24/iup-rust
+    </a>
+    —
+    <a href="http://webserver2.tecgraf.puc-rio.br/iup/">
+     IUP
+    </a>
+    bindings
+    <a href="https://travis-ci.org/dcampbell24/iup-rust">
+     <img src="https://travis-ci.org/dcampbell24/iup-rust.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/KISS-UI/kiss-ui">
+     Kiss-ui
+    </a>
+    — a simple UI framework built on IUP
+    <a href="https://travis-ci.org/cybergeek94/kiss-ui">
+     <img alt="Build Status" src="https://travis-ci.org/cybergeek94/kiss-ui.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 247, pushed 150 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 16, pushed 186 days ago
+  </sup>
+ </li>
+ <li>
+  GTK+ [
+  <a href="https://crates.io/keywords/gtk">
+   gtk
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/gtk-rs/gtk">
+     gtk-rs/gtk
+    </a>
+    —
+    <a href="http://www.gtk.org">
+     GTK+
+    </a>
+    bindings
+    <a href="https://travis-ci.org/gtk-rs/gtk">
+     <img src="https://travis-ci.org/gtk-rs/gtk.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 272, pushed 2 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  ncurses [
+  <a href="https://crates.io/keywords/ncurses">
+   ncurses
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/jeaye/ncurses-rs">
+     jeaye/ncurses-rs
+    </a>
+    —
+    <a href="http://www.gnu.org/software/ncurses/">
+     ncurses
+    </a>
+    bindings
+    <a href="https://travis-ci.org/jeaye/ncurses-rs">
+     <img src="https://travis-ci.org/jeaye/ncurses-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 163, pushed 12 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  OpenGL [
+  <a href="https://crates.io/keywords/opengl">
+   opengl
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/bjz/gl-rs">
+     bjz/gl-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/bjz/gl-rs">
+     <img src="https://travis-ci.org/bjz/gl-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 215, pushed 40 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/PistonDevelopers/glfw-rs">
+     bjz/glfw-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/bjz/glfw-rs">
+     <img src="https://travis-ci.org/bjz/glfw-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 213, pushed 16 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/tomaka/glium">
+     tomaka/glium
+    </a>
+    — safe OpenGL wrapper for the Rust language.
+    <a href="https://travis-ci.org/tomaka/glium">
+     <img src="https://travis-ci.org/tomaka/glium.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 780, pushed 12 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/tomaka/glutin">
+     tomaka/glutin
+    </a>
+    — Rust alternative to
+    <a href="http://www.glfw.org/">
+     GLFW
+    </a>
+    <a href="https://travis-ci.org/tomaka/glutin">
+     <img src="https://travis-ci.org/tomaka/glutin.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 428, pushed 1 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Qt
+  <ul>
+   <li>
+    <a href="https://github.com/cyndis/qmlrs">
+     cyndis/qmlrs
+    </a>
+    —
+    <a href="http://doc.qt.io">
+     QtQuick
+    </a>
+    bindings
+    <a href="https://travis-ci.org/cyndis/qmlrs">
+     <img src="https://travis-ci.org/cyndis/qmlrs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 233, pushed 29 days ago
+  </sup>
+ </li>
+ <li>
+  Termbox
+  <ul>
+   <li>
+    <a href="https://github.com/gchp/rustbox">
+     gchp/rustbox
+    </a>
+    — a Rust implementation of
+    <a href="https://github.com/nsf/termbox">
+     termbox
+    </a>
+    <a href="https://travis-ci.org/gchp/rustbox">
+     <img src="https://travis-ci.org/gchp/rustbox.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 180, pushed 10 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Image processing
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/chyh1990/imageproc">
+   chyh1990/imageproc
+  </a>
+  — An advanced image processing library for Rust.
+  <a href="https://travis-ci.org/chyh1990/imageproc">
+   <img alt="Build Status" src="https://travis-ci.org/chyh1990/imageproc.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 33, pushed 103 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cybergeek94/img_hash">
+   cybergeek94/img-hash
+  </a>
+  — Perceptual image hashing and comparison for equality and similarity.
+  <sup>
+   243 GitHub links in total 408 links, &#9733 31, pushed 190 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/PistonDevelopers/image">
+   PistonDevelopers/image
+  </a>
+  — Basic imaging processing functions and methods for converting to and from image formats
+  <a href="https://travis-ci.org/PistonDevelopers/image">
+   <img src="https://travis-ci.org/PistonDevelopers/image.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 296, pushed 12 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Machine learning
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/autumnai/leaf">
+   autumnai/leaf
+  </a>
+  — Open Machine Intelligence framework.
+  <a href="https://travis-ci.org/autumnai/leaf">
+   <img alt="Build Status" src="https://travis-ci.org/autumnai/leaf.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 4007, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/maciejkula/rustlearn">
+   maciejkula/rustlearn
+  </a>
+  — Machine learning crate for Rust.
+  <a href="https://circleci.com/gh/maciejkula/rustlearn">
+   <img alt="Circle CI" src="https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 142, pushed 63 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Markup language
+</h3>
+<ul>
+ <li>
+  CommonMark
+  <ul>
+   <li>
+    <a href="https://github.com/google/pulldown-cmark">
+     google/pulldown-cmark
+    </a>
+    —
+    <a href="http://commonmark.org/">
+     CommonMark
+    </a>
+    parser in Rust
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 199, pushed 21 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Mobile
+</h3>
+<ul>
+ <li>
+  Android
+  <ul>
+   <li>
+    <a href="https://github.com/tomaka/android-rs-glue">
+     tomaka/android-rs-glue
+    </a>
+    — glue between Rust and Android
+    <a href="https://travis-ci.org/tomaka/android-rs-glue">
+     <img src="https://travis-ci.org/tomaka/android-rs-glue.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 238, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  iOS
+  <ul>
+   <li>
+    <a href="https://github.com/TimNN/cargo-lipo">
+     TimNN/cargo-lipo
+    </a>
+    — a cargo lipo subcommand which automatically creates a universal library for use with your iOS application.
+    <a href="https://travis-ci.org/TimNN/cargo-lipo">
+     <img src="https://travis-ci.org/TimNN/cargo-lipo.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/vhbit/ObjCrust">
+     vhbit/ObjCrust
+    </a>
+    — using Rust to create an iOS static library
+    <a href="https://travis-ci.org/vhbit/ObjCrust">
+     <img src="https://travis-ci.org/vhbit/ObjCrust.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 35, pushed 304 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 7, pushed 35 days ago
+  </sup>
+ </li>
+ <li>
+  Pebble
+  <ul>
+   <li>
+    <a href="https://github.com/andars/pebble.rs">
+     andars/pebble.rs
+    </a>
+    — a crate that allows Rust to be used to develop Pebble applications.
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 27, pushed 167 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Network programming
+</h3>
+<ul>
+ <li>
+  FTP
+  <ul>
+   <li>
+    <a href="https://github.com/mattnenterprise/rust-ftp">
+     mattnenterprise/rust-ftp
+    </a>
+    — an
+    <a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">
+     FTP
+    </a>
+    client for Rust
+    <a href="https://travis-ci.org/mattnenterprise/rust-ftp">
+     <img src="https://travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 11, pushed 20 days ago
+  </sup>
+ </li>
+ <li>
+  Low level
+  <ul>
+   <li>
+    <a href="https://github.com/libpnet/libpnet">
+     libpnet/libpnet
+    </a>
+    — a cross-platform, low level networking
+    <a href="https://travis-ci.org/libpnet/libpnet">
+     <img src="https://travis-ci.org/libpnet/libpnet.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 283, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  NanoMsg
+  <ul>
+   <li>
+    <a href="https://github.com/thehydroimpulse/nanomsg.rs">
+     thehydroimpulse/nanomsg.rs
+    </a>
+    —
+    <a href="http://nanomsg.org/">
+     nanomsg
+    </a>
+    bindings
+    <a href="https://travis-ci.org/thehydroimpulse/nanomsg.rs">
+     <img src="https://travis-ci.org/thehydroimpulse/nanomsg.rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 157, pushed 56 days ago
+  </sup>
+ </li>
+ <li>
+  NNTP
+  <ul>
+   <li>
+    <a href="https://github.com/mattnenterprise/rust-nntp">
+     mattnenterprise/rust-nntp
+    </a>
+    — an
+    <a href="https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol">
+     NNTP
+    </a>
+    client for Rust
+    <a href="https://travis-ci.org/mattnenterprise/rust-nntp">
+     <img src="https://travis-ci.org/mattnenterprise/rust-nntp.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 3, pushed 113 days ago
+  </sup>
+ </li>
+ <li>
+  POP3
+  <ul>
+   <li>
+    <a href="https://github.com/mattnenterprise/rust-pop3">
+     mattnenterprise/rust-pop3
+    </a>
+    — a
+    <a href="https://en.wikipedia.org/wiki/Post_Office_Protocol">
+     POP3
+    </a>
+    client for Rust
+    <a href="https://travis-ci.org/mattnenterprise/rust-pop3">
+     <img src="https://travis-ci.org/mattnenterprise/rust-pop3.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 3, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  SSH
+  <ul>
+   <li>
+    <a href="https://github.com/alexcrichton/ssh2-rs">
+     alexcrichton/ssh2-rs
+    </a>
+    —
+    <a href="http://www.libssh2.org/">
+     libssh2
+    </a>
+    bindings
+    <a href="https://travis-ci.org/alexcrichton/ssh2-rs">
+     <img src="https://travis-ci.org/alexcrichton/ssh2-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 47, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  Stomp
+  <ul>
+   <li>
+    <a href="https://github.com/zslayton/stomp-rs">
+     zslayton/stomp-rs
+    </a>
+    — a
+    <a href="http://stomp.github.io/stomp-specification-1.2.html">
+     STOMP 1.2
+    </a>
+    client implementation in Rust
+    <a href="https://travis-ci.org/zslayton/stomp-rs">
+     <img src="https://travis-ci.org/zslayton/stomp-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 35, pushed 69 days ago
+  </sup>
+ </li>
+ <li>
+  uTP
+  <ul>
+   <li>
+    <a href="https://github.com/meqif/rust-utp">
+     meqif/rust-utp
+    </a>
+    — a
+    <a href="http://www.bittorrent.org/beps/bep_0029.html">
+     uTP
+    </a>
+    (Micro Transport Protocol) library for Rust.
+    <a href="https://travis-ci.org/meqif/rust-utp">
+     <img src="https://travis-ci.org/meqif/rust-utp.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 30, pushed 117 days ago
+  </sup>
+ </li>
+ <li>
+  ZeroMQ
+  <ul>
+   <li>
+    <a href="https://github.com/erickt/rust-zmq">
+     erickt/rust-zmq
+    </a>
+    —
+    <a href="http://zeromq.org/">
+     ZeroMQ
+    </a>
+    bindings
+    <a href="https://travis-ci.org/erickt/rust-zmq">
+     <img src="https://travis-ci.org/erickt/rust-zmq.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 170, pushed 10 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Parser
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/Geal/nom">
+   Geal/nom
+  </a>
+  — parser combinator library
+  <a href="https://travis-ci.org/Geal/nom">
+   <img src="https://travis-ci.org/Geal/nom.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 768, pushed 20 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ivanceras/inquerest">
+   ivanceras/inquerest
+  </a>
+  — an URL parameter parser for rest filter inquiry
+  <a href="https://travis-ci.org/ivanceras/inquerest">
+   <img alt="Build Status" src="https://travis-ci.org/ivanceras/inquerest.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 14, pushed 24 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kevinmehall/rust-peg">
+   kevinmehall/rust-peg
+  </a>
+  — Parsing Expression Grammar (PEG) parser generator
+  <sup>
+   243 GitHub links in total 408 links, &#9733 261, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/m4rw3r/chomp">
+   m4rw3r/chomp
+  </a>
+  – A fast monadic-style parser combinator
+  <a href="https://travis-ci.org/m4rw3r/chomp">
+   <img src="https://travis-ci.org/m4rw3r/chomp.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 98, pushed 33 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Marwes/combine">
+   Marwes/combine
+  </a>
+  — parser combinator library
+  <a href="https://travis-ci.org/Marwes/combine">
+   <img src="https://travis-ci.org/Marwes/combine.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 139, pushed 16 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nikomatsakis/lalrpop">
+   nikomatsakis/lalrpop
+  </a>
+  - LR(1) parser generator for Rust
+  <a href="https://travis-ci.org/nikomatsakis/lalrpop">
+   <img alt="Build status" src="https://travis-ci.org/nikomatsakis/lalrpop.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 224, pushed 13 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ptal/oak">
+   ptal/oak
+  </a>
+  — a typed PEG parser generator (compiler plugin)
+  <sup>
+   243 GitHub links in total 408 links, &#9733 76, pushed 16 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rustless/queryst">
+   rustless/queryst
+  </a>
+  — a query string parsing library for Rust inspired by https://github.com/ljharb/qs
+  <a href="https://travis-ci.org/rustless/queryst">
+   <img alt="Build Status" src="https://travis-ci.org/rustless/queryst.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 18, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Platform specific
+</h3>
+<ul>
+ <li>
+  Linux
+  <ul>
+   <li>
+    <a href="https://github.com/hannobraun/inotify-rs">
+     hannobraun/inotify-rs
+    </a>
+    —
+    <a href="https://en.wikipedia.org/wiki/Inotify">
+     inotify
+    </a>
+    bindings
+    <a href="https://travis-ci.org/hannobraun/inotify-rs">
+     <img src="https://travis-ci.org/hannobraun/inotify-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 37, pushed 89 days ago
+  </sup>
+ </li>
+ <li>
+  Unix-like
+  <ul>
+   <li>
+    <a href="https://github.com/carllerche/nix-rust">
+     carllerche/nix-rust
+    </a>
+    — Unix-like API bindings
+    <a href="https://travis-ci.org/carllerche/nix-rust">
+     <img src="https://travis-ci.org/carllerche/nix-rust.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/zargony/rust-fuse">
+     zargony/rust-fuse
+    </a>
+    —
+    <a href="https://github.com/libfuse/libfuse">
+     FUSE
+    </a>
+    bindings
+    <img src="https://travis-ci.org/zargony/rust-fuse.svg?branch=master"/>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 128, pushed 35 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Windows
+  <ul>
+   <li>
+    <a href="https://github.com/retep998/winapi-rs">
+     retep998/winapi-rs
+    </a>
+    — Windows API bindings
+    <a href="https://travis-ci.org/retep998/winapi-rs">
+     <img src="https://travis-ci.org/retep998/winapi-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 158, pushed 4 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Template engine
+</h3>
+<ul>
+ <li>
+  Handlebars
+  <ul>
+   <li>
+    <a href="https://github.com/sunng87/handlebars-rust">
+     sunng87/handlebars-rust
+    </a>
+    — Handlebars template engine with inheritance, custom helper support.
+    <a href="https://travis-ci.org/sunng87/handlebars-rust">
+     <img src="https://travis-ci.org/sunng87/handlebars-rust.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 104, pushed 9 days ago
+  </sup>
+ </li>
+ <li>
+  HTML
+  <ul>
+   <li>
+    <a href="https://github.com/lfairy/maud">
+     lfairy/maud
+    </a>
+    — compile-time HTML templates
+    <a href="https://travis-ci.org/lfairy/maud">
+     <img src="https://travis-ci.org/lfairy/maud.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/Stebalien/horrorshow-rs">
+     Stebalien/horrorshow-rs
+    </a>
+    — compile-time HTML templates
+    <a href="https://travis-ci.org/Stebalien/horrorshow-rs">
+     <img src="https://travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 35, pushed 37 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 106, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  Mustache
+  <ul>
+   <li>
+    <a href="https://github.com/rustache/rustache">
+     rustache/rustache
+    </a>
+    —
+    <a href="https://travis-ci.org/rustache/rustache">
+     <img src="https://travis-ci.org/rustache/rustache.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 129, pushed 205 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tailhook/marafet">
+   tailhook/marafet
+  </a>
+  — Compiler for Jade-like template language to cito.js-based virtual dom
+  <sup>
+   243 GitHub links in total 408 links, &#9733 3, pushed 239 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Text processing
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/BurntSushi/suffix">
+   BurntSushi/suffix
+  </a>
+  — Linear time suffix array construction (with Unicode support)
+  <a href="https://travis-ci.org/BurntSushi/suffix">
+   <img src="https://travis-ci.org/BurntSushi/suffix.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 32, pushed 247 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/BurntSushi/tabwriter">
+   BurntSushi/tabwriter
+  </a>
+  — Elastic tab stops (i.e., text column alignment)
+  <a href="https://travis-ci.org/BurntSushi/tabwriter">
+   <img src="https://travis-ci.org/BurntSushi/tabwriter.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 28, pushed 108 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pwoolcoc/ngrams">
+   pwoolcoc/ngrams
+  </a>
+  — Construct
+  <a href="https://en.wikipedia.org/wiki/N-gram">
+   n-grams
+  </a>
+  from arbitrary iterators
+  <a href="https://travis-ci.org/pwoolcoc/ngrams">
+   <img src="https://travis-ci.org/pwoolcoc/ngrams.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 2, pushed 67 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rust-lang-nursery/regex">
+   rust-lang-nursery/regex
+  </a>
+  — Regular expressions (RE2 style)
+  <a href="https://travis-ci.org/rust-lang-nursery/regex">
+   <img src="https://travis-ci.org/rust-lang-nursery/regex.svg?branch=master"/>
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 178, pushed 2 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Virtualization
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/saurvs/hypervisor-rs">
+   saurvs/hypervisor-rs
+  </a>
+  — Hardware-accelerated virtualization on OS X
+  <sup>
+   243 GitHub links in total 408 links, &#9733 1, pushed 30 days ago
+  </sup>
+ </li>
+</ul>
+<h3>
+ Web programming
+</h3>
+<p>
+ See also
+ <a href="https://github.com/flosse/rust-web-framework-comparison">
+  Rust web framework comparison
+ </a>
+ .
+</p>
+<ul>
+ <li>
+  HTTP Client
+  <ul>
+   <li>
+    <a href="https://github.com/carllerche/curl-rust">
+     carllerche/curl-rust
+    </a>
+    —
+    <a href="http://curl.haxx.se/libcurl/">
+     libcurl
+    </a>
+    bindings
+    <a href="https://travis-ci.org/carllerche/curl-rust">
+     <img src="https://travis-ci.org/carllerche/curl-rust.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/hyperium/hyper">
+     hyperium/hyper
+    </a>
+    — an HTTP implementation
+    <a href="https://travis-ci.org/hyperium/hyper">
+     <img src="https://travis-ci.org/hyperium/hyper.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 1626, pushed 4 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/vhbit/curl-rs">
+     vhbit/curl-rs
+    </a>
+    —
+    <a href="http://curl.haxx.se/libcurl/">
+     libcurl
+    </a>
+    bindings
+    <a href="https://travis-ci.org/vhbit/curl-rs">
+     <img src="https://travis-ci.org/vhbit/curl-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 1, pushed 613 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 192, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  HTTP Server
+  <ul>
+   <li>
+    <a href="https://github.com/fengsp/pencil">
+     fengsp/pencil
+    </a>
+    —
+    <a href="https://travis-ci.org/fengsp/pencil">
+     <img src="https://travis-ci.org/fengsp/pencil.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/hyperium/hyper">
+     hyperium/hyper
+    </a>
+    — an HTTP implementation
+    <a href="https://travis-ci.org/hyperium/hyper">
+     <img src="https://travis-ci.org/hyperium/hyper.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/iron/iron">
+     Iron
+    </a>
+    — a middleware-based server framework
+    <a href="https://travis-ci.org/iron/iron">
+     <img src="https://travis-ci.org/iron/iron.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 2838, pushed 7 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/sunng87/handlebars-iron">
+     sunng87/handlebars-iron
+    </a>
+    —
+    <a href="https://github.com/sunng87/handlebars-rust">
+     Handlebars-rust
+    </a>
+    as an Iron web framework middleware.
+    <a href="https://travis-ci.org/sunng87/handlebars-iron">
+     <img src="https://travis-ci.org/sunng87/handlebars-iron.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 68, pushed 1 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/nickel-org/nickel.rs/">
+     Nickel
+    </a>
+    — inspired by
+    <a href="http://expressjs.com/">
+     Express
+    </a>
+    <a href="https://travis-ci.org/nickel-org/nickel.rs">
+     <img src="https://travis-ci.org/nickel-org/nickel.rs.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/Ogeon/rustful">
+     Ogeon/rustful
+    </a>
+    — a RESTful web framework for Rust
+    <a href="https://travis-ci.org/Ogeon/rustful">
+     <img src="https://travis-ci.org/Ogeon/rustful.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 737, pushed 20 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/rustless/rustless">
+     Rustless
+    </a>
+    — a REST-like API micro-framework inspired by
+    <a href="https://github.com/ruby-grape/grape">
+     Grape
+    </a>
+    and
+    <a href="https://github.com/hyperium/hyper">
+     Hyper
+    </a>
+    <a href="https://travis-ci.org/rustless/rustless">
+     <img src="https://travis-ci.org/rustless/rustless.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 247, pushed 12 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/frewsxcv/tiny-http">
+     tiny-http
+    </a>
+    — Low level HTTP server library
+    <a href="https://travis-ci.org/frewsxcv/tiny-http">
+     <img src="https://travis-ci.org/frewsxcv/tiny-http.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 172, pushed 153 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 587, pushed 28 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://datatracker.ietf.org/doc/rfc6455/">
+   WebSocket
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/cyderize/rust-websocket">
+     cyderize/rust-websocket
+    </a>
+    — a framework for dealing with WebSocket connections (both clients and servers)
+    <a href="https://travis-ci.org/cyderize/rust-websocket">
+     <img src="https://travis-ci.org/cyderize/rust-websocket.svg?branch=master"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 191, pushed 11 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/housleyjk/ws-rs">
+     housleyjk/ws-rs
+    </a>
+    — lightweight, event-driven WebSockets for Rust
+    <a href="https://travis-ci.org/housleyjk/ws-rs">
+     <img src="https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable"/>
+    </a>
+    <sup>
+     243 GitHub links in total 408 links, &#9733 127, pushed 4 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
+ Resources
+</h2>
+<ul>
+ <li>
+  Benchmarks
+  <ul>
+   <li>
+    <a href="https://github.com/TeXitoi/benchmarksgame-rs">
+     TeXitoi/benchmarksgame-rs
+    </a>
+    — Rust implementations for the
+    <a href="http://benchmarksgame.alioth.debian.org/">
+     The Computer Language Benchmarks Game
+    </a>
+    <a href="https://travis-ci.org/TeXitoi/benchmarksgame-rs">
+     <img src="https://travis-ci.org/TeXitoi/benchmarksgame-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 14, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  Podcasts
+  <ul>
+   <li>
+    <a href="http://www.newrustacean.com">
+     New Rustacean
+    </a>
+    — a podcast about learning Rust
+   </li>
+   <li>
+    <a href="http://rustyrad.io">
+     Rusty Radio
+    </a>
+    — covering the rust ecosystem
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://rustbyexample.com/">
+   Rust by Example
+  </a>
+ </li>
+ <li>
+  <a href="http://confreaks.tv/events/rustcamp2015">
+   RustCamp 2015 Talks
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/nrc/patterns">
+   Rust Design Patterns
+  </a>
+  <sup>
+   243 GitHub links in total 408 links, &#9733 386, pushed 119 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://aturon.github.io/">
+   Rust Guidelines
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/ctjhoa/rust-learning">
+   rust-learning
+  </a>
+  — a collection of useful resources to learn Rust
+  <sup>
+   243 GitHub links in total 408 links, &#9733 611, pushed 15 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/carols10cents/rustlings">
+   Rustlings
+  </a>
+  — small exercises to get you used to reading and writing Rust code
+  <sup>
+   243 GitHub links in total 408 links, &#9733 1151, pushed 14 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ License
+</h2>
+<p>
+ <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img alt="CC0" src="http://i.creativecommons.org/p/zero/1.0/88x31.png"/>
+ </a>
+</p>

@@ -363,7 +363,7 @@
    BDE
   </a>
   <span>
-   &#9733 545, pushed 6 days ago
+   &#9733 545, pushed 7 days ago
   </span>
   - The BDE Development Environment from Bloomberg Labs. [Apache2]
  </li>
@@ -390,7 +390,7 @@
    EASTL
   </a>
   <span>
-   &#9733 1976, pushed 22 days ago
+   &#9733 1976, pushed 23 days ago
   </span>
   - Electronic Arts Standard Template Library. [BSD]
  </li>
@@ -426,7 +426,7 @@
    libPhenom
   </a>
   <span>
-   &#9733 1316, pushed 96 days ago
+   &#9733 1316, pushed 97 days ago
   </span>
   - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
  </li>
@@ -522,7 +522,7 @@
    Yomm11
   </a>
   <span>
-   &#9733 68, pushed 310 days ago
+   &#9733 68, pushed 311 days ago
   </span>
   - Open multi-methods for C++11. [Boost]
  </li>
@@ -583,7 +583,7 @@
    libuv
   </a>
   <span>
-   &#9733 3793, pushed 3 days ago
+   &#9733 3793, pushed 4 days ago
   </span>
   - Cross-platform asychronous I/O. [BSD]
  </li>
@@ -687,7 +687,7 @@
    Wham
   </a>
   <span>
-   &#9733 30, pushed 3 days ago
+   &#9733 30, pushed 4 days ago
   </span>
   - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
  </li>
@@ -753,7 +753,7 @@
    docopt.cpp
   </a>
   <span>
-   &#9733 340, pushed 47 days ago
+   &#9733 340, pushed 48 days ago
   </span>
   - A library to generate option parser from docstring. [MIT/Boost]
  </li>
@@ -920,7 +920,7 @@
    Bolt
   </a>
   <span>
-   &#9733 219, pushed 81 days ago
+   &#9733 219, pushed 82 days ago
   </span>
   - A C++ template library optimized for GPUs. [Apache2]
  </li>
@@ -971,7 +971,7 @@
    Libclsph
   </a>
   <span>
-   &#9733 26, pushed 44 days ago
+   &#9733 26, pushed 45 days ago
   </span>
   - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
  </li>
@@ -1024,7 +1024,7 @@
    Hashmaps
   </a>
   <span>
-   &#9733 61, pushed 148 days ago
+   &#9733 61, pushed 149 days ago
   </span>
   - Implementation of open addressing hash table algorithms in C++. [MIT]
  </li>
@@ -1127,7 +1127,7 @@
    OpenSSL
   </a>
   <span>
-   &#9733 2546, pushed 0 days ago
+   &#9733 2546, pushed 1 days ago
   </span>
   - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [websire](http://www.openssl.org/)
  </li>
@@ -1145,7 +1145,7 @@
    s2n
   </a>
   <span>
-   &#9733 2275, pushed 12 days ago
+   &#9733 2275, pushed 13 days ago
   </span>
   - An implementation of the TLS/SSL protocols. [Apache]
  </li>
@@ -1206,7 +1206,7 @@
    LMDB++
   </a>
   <span>
-   &#9733 60, pushed 6 days ago
+   &#9733 60, pushed 7 days ago
   </span>
   - C++11 wrapper for the LMDB embedded database library. [PublicDomain]
  </li>
@@ -1224,7 +1224,7 @@
    MongoDB C++ Driver
   </a>
   <span>
-   &#9733 261, pushed 4 days ago
+   &#9733 261, pushed 5 days ago
   </span>
   - C++ driver for MongoDB. [Apache2]
  </li>
@@ -1248,7 +1248,7 @@
    redis3m
   </a>
   <span>
-   &#9733 83, pushed 27 days ago
+   &#9733 83, pushed 28 days ago
   </span>
   - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
  </li>
@@ -1257,7 +1257,7 @@
    RocksDB
   </a>
   <span>
-   &#9733 5269, pushed 0 days ago
+   &#9733 5269, pushed 1 days ago
   </span>
   - Embedded key-value store for fast storage from facebook. [BSD]
  </li>
@@ -1479,7 +1479,7 @@
    Panda3D
   </a>
   <span>
-   &#9733 425, pushed 0 days ago
+   &#9733 425, pushed 1 days ago
   </span>
   - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
  </li>
@@ -1488,7 +1488,7 @@
    Polycode
   </a>
   <span>
-   &#9733 2262, pushed 9 days ago
+   &#9733 2262, pushed 10 days ago
   </span>
   - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
  </li>
@@ -1506,7 +1506,7 @@
    Torque3D
   </a>
   <span>
-   &#9733 2342, pushed 2 days ago
+   &#9733 2342, pushed 3 days ago
   </span>
   - An open-source C++ engine built for 3D game development. [MIT] [website](https://www.garagegames.com/products/torque-3d)
  </li>
@@ -1537,7 +1537,7 @@
    GacUI
   </a>
   <span>
-   &#9733 436, pushed 2 days ago
+   &#9733 436, pushed 3 days ago
   </span>
   - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
  </li>
@@ -1626,7 +1626,7 @@
    bgfx
   </a>
   <span>
-   &#9733 1856, pushed 1 days ago
+   &#9733 1856, pushed 2 days ago
   </span>
   - A cross-platform rendering library. [BSD]
  </li>
@@ -1641,7 +1641,7 @@
    GLFW
   </a>
   <span>
-   &#9733 1895, pushed 1 days ago
+   &#9733 1895, pushed 2 days ago
   </span>
   - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
  </li>
@@ -1665,7 +1665,7 @@
    magnum
   </a>
   <span>
-   &#9733 738, pushed 1 days ago
+   &#9733 738, pushed 2 days ago
   </span>
   - C++11 and OpenGL 2D/3D graphics engine. [MIT] [website](http://mosra.cz/blog/magnum.php)
  </li>
@@ -1686,7 +1686,7 @@
    OpenSubdiv
   </a>
   <span>
-   &#9733 1558, pushed 1 days ago
+   &#9733 1558, pushed 2 days ago
   </span>
   - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. [Modified Apache2]
  </li>
@@ -1716,7 +1716,7 @@
    Skia
   </a>
   <span>
-   &#9733 847, pushed 1 days ago
+   &#9733 847, pushed 2 days ago
   </span>
   - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
  </li>
@@ -1817,7 +1817,7 @@
    OpenImageIO
   </a>
   <span>
-   &#9733 424, pushed 1 days ago
+   &#9733 424, pushed 2 days ago
   </span>
   - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
  </li>
@@ -1896,7 +1896,7 @@
    gRPC
   </a>
   <span>
-   &#9733 4853, pushed 1 days ago
+   &#9733 4853, pushed 2 days ago
   </span>
   - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
  </li>
@@ -1905,7 +1905,7 @@
    libjson-rpc-cpp
   </a>
   <span>
-   &#9733 192, pushed 14 days ago
+   &#9733 192, pushed 15 days ago
   </span>
   - JSON-RPC framework for C++ servers and clients. [MIT]
  </li>
@@ -1914,7 +1914,7 @@
    nanomsg
   </a>
   <span>
-   &#9733 2742, pushed 1 days ago
+   &#9733 2742, pushed 2 days ago
   </span>
   - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
  </li>
@@ -1961,7 +1961,7 @@
    frozen
   </a>
   <span>
-   &#9733 131, pushed 41 days ago
+   &#9733 131, pushed 42 days ago
   </span>
   - JSON parser and generator for C/C++. [GPL & GPL2]
  </li>
@@ -1979,7 +1979,7 @@
    jbson
   </a>
   <span>
-   &#9733 18, pushed 134 days ago
+   &#9733 18, pushed 135 days ago
   </span>
   - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
  </li>
@@ -2033,7 +2033,7 @@
    json11
   </a>
   <span>
-   &#9733 956, pushed 5 days ago
+   &#9733 956, pushed 6 days ago
   </span>
   - A tiny JSON library for C++11. [MIT]
  </li>
@@ -2075,7 +2075,7 @@
    LIBUCL
   </a>
   <span>
-   &#9733 628, pushed 4 days ago
+   &#9733 628, pushed 5 days ago
   </span>
   :zap: - Universal configuration library parser [?]
  </li>
@@ -2126,7 +2126,7 @@
    YAJL
   </a>
   <span>
-   &#9733 1454, pushed 23 days ago
+   &#9733 1454, pushed 24 days ago
   </span>
   - A fast streaming JSON parsing library in C. [ISC]
  </li>
@@ -2164,7 +2164,7 @@
    G3log
   </a>
   <span>
-   &#9733 125, pushed 33 days ago
+   &#9733 125, pushed 34 days ago
   </span>
   - Asynchronous logger with Dynamic Sinks. [PublicDomain]
  </li>
@@ -2194,7 +2194,7 @@
    reckless
   </a>
   <span>
-   &#9733 75, pushed 1 days ago
+   &#9733 75, pushed 2 days ago
   </span>
   - Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
  </li>
@@ -2283,7 +2283,7 @@
    SHOGUN
   </a>
   <span>
-   &#9733 1048, pushed 6 days ago
+   &#9733 1048, pushed 7 days ago
   </span>
   - The Shogun Machine Learning Toolbox. [GPLv3]
  </li>
@@ -2475,7 +2475,7 @@
    C++ REST SDK
   </a>
   <span>
-   &#9733 589, pushed 4 days ago
+   &#9733 589, pushed 5 days ago
   </span>
   - C++ REST SDK (previously named Casablanca). [Apache2]
  </li>
@@ -2484,7 +2484,7 @@
    Restbed
   </a>
   <span>
-   &#9733 211, pushed 4 days ago
+   &#9733 211, pushed 5 days ago
   </span>
   - C++11 Asynchronous RESTful framework. [AGPL]
  </li>
@@ -2577,7 +2577,7 @@
    Proxygen
   </a>
   <span>
-   &#9733 3878, pushed 1 days ago
+   &#9733 3878, pushed 2 days ago
   </span>
   - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
  </li>
@@ -2638,7 +2638,7 @@
    Bullet
   </a>
   <span>
-   &#9733 1665, pushed 1 days ago
+   &#9733 1665, pushed 2 days ago
   </span>
   - A 3D physics engine for games. [zlib] [website](http://bulletphysics.org)
  </li>
@@ -2656,7 +2656,7 @@
    LiquidFun
   </a>
   <span>
-   &#9733 2466, pushed 97 days ago
+   &#9733 2466, pushed 98 days ago
   </span>
   - A 2D physics engine for games. [BSD-like]
  </li>
@@ -2680,7 +2680,7 @@
    ofxBox2d
   </a>
   <span>
-   &#9733 207, pushed 15 days ago
+   &#9733 207, pushed 16 days ago
   </span>
   - openFrameworks wrapper for Box2D. [BSD-like]
  </li>
@@ -2715,7 +2715,7 @@
    PCL
   </a>
   <span>
-   &#9733 1105, pushed 5 days ago
+   &#9733 1105, pushed 6 days ago
   </span>
   - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
  </li>
@@ -2820,7 +2820,7 @@
    cppcodec
   </a>
   <span>
-   &#9733 11, pushed 21 days ago
+   &#9733 11, pushed 22 days ago
   </span>
   - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
  </li>
@@ -2829,7 +2829,7 @@
    FlatBuffers
   </a>
   <span>
-   &#9733 5366, pushed 1 days ago
+   &#9733 5366, pushed 2 days ago
   </span>
   - A Memory efficient serialization library. [Apache2]
  </li>
@@ -2929,7 +2929,7 @@
    MicroPython
   </a>
   <span>
-   &#9733 3091, pushed 1 days ago
+   &#9733 3091, pushed 2 days ago
   </span>
   - Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
  </li>
@@ -3101,7 +3101,7 @@
    Better Enums
   </a>
   <span>
-   &#9733 215, pushed 48 days ago
+   &#9733 215, pushed 49 days ago
   </span>
   - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
  </li>
@@ -3149,7 +3149,7 @@
    QtVerbalExpressions
   </a>
   <span>
-   &#9733 18, pushed 449 days ago
+   &#9733 18, pushed 450 days ago
   </span>
   - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
  </li>
@@ -3191,7 +3191,7 @@
    HTTP Parser
   </a>
   <span>
-   &#9733 2639, pushed 7 days ago
+   &#9733 2639, pushed 8 days ago
   </span>
   :zap: - A http request/response parser for C. [MIT]
  </li>
@@ -3233,7 +3233,7 @@
    libnih
   </a>
   <span>
-   &#9733 26, pushed 875 days ago
+   &#9733 26, pushed 876 days ago
   </span>
   - A lightweight library of C functions and structures. [GPL2.1]
  </li>
@@ -3248,7 +3248,7 @@
    Mach7
   </a>
   <span>
-   &#9733 687, pushed 5 days ago
+   &#9733 687, pushed 6 days ago
   </span>
   - A Pattern-matching library for C++. [BSD]
  </li>
@@ -3665,7 +3665,7 @@
    Irony-mode
   </a>
   <span>
-   &#9733 422, pushed 46 days ago
+   &#9733 422, pushed 47 days ago
   </span>
   - A C/C++ minor mode for Emacs powered by libclang.
  </li>
@@ -3707,7 +3707,7 @@
    rtags
   </a>
   <span>
-   &#9733 571, pushed 3 days ago
+   &#9733 571, pushed 4 days ago
   </span>
   - A c/c++ client/server indexer with for integration with emacs based on clang.
  </li>
@@ -3754,7 +3754,7 @@
    CPM
   </a>
   <span>
-   &#9733 472, pushed 313 days ago
+   &#9733 472, pushed 314 days ago
   </span>
   - A C++ Package Manager based on CMake and Git.
  </li>
@@ -3883,7 +3883,7 @@
    Uncrustify
   </a>
   <span>
-   &#9733 2, pushed 45 days ago
+   &#9733 2, pushed 46 days ago
   </span>
   - Code beautifier.
  </li>
@@ -3925,7 +3925,7 @@
    CppCon 2015 Speaker Materials
   </a>
   <span>
-   &#9733 960, pushed 158 days ago
+   &#9733 960, pushed 159 days ago
   </span>
   - Speaker materials from CppCon 2015.
  </li>
@@ -4012,7 +4012,7 @@
    cppbestpractices
   </a>
   <span>
-   &#9733 393, pushed 52 days ago
+   &#9733 393, pushed 53 days ago
   </span>
   - Collaborative Collection of C++ Best Practices.
  </li>
@@ -4026,7 +4026,7 @@
    C++ Core Guidelines
   </a>
   <span>
-   &#9733 10731, pushed 4 days ago
+   &#9733 10731, pushed 5 days ago
   </span>
   - "Official" set of C++ guidelines, reviewed by the author of C++.
  </li>
@@ -4090,7 +4090,7 @@
    Presentation on Hana for C++Now 2015
   </a>
   <span>
-   &#9733 7, pushed 352 days ago
+   &#9733 7, pushed 353 days ago
   </span>
  </li>
 </ul>
@@ -4330,7 +4330,7 @@
    lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
   - List of (awesome) lists curated on GitHub.
  </li>
@@ -4378,7 +4378,7 @@
    papers-we-love
   </a>
   <span>
-   &#9733 16161, pushed 11 days ago
+   &#9733 16161, pushed 12 days ago
   </span>
   - Papers from the computer science community to read and discuss.
  </li>
@@ -4387,7 +4387,7 @@
    awesome-algorithms
   </a>
   <span>
-   &#9733 1434, pushed 13 days ago
+   &#9733 1434, pushed 14 days ago
   </span>
   - A curated list of awesome places to learn and/or practice algorithms.
  </li>
@@ -4405,7 +4405,7 @@
    Projects
   </a>
   <span>
-   &#9733 10475, pushed 40 days ago
+   &#9733 10475, pushed 41 days ago
   </span>
   - A list of practical projects that anyone can solve in any programming language.
  </li>

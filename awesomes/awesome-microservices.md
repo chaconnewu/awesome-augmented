@@ -545,7 +545,7 @@
    RIBS2
   </a>
   <span>
-   &#9733 89, pushed 438 days ago
+   &#9733 89, pushed 439 days ago
   </span>
   - Library which allows building high-performance internet serving systems.
  </li>
@@ -679,7 +679,7 @@
    Gen Microservice
   </a>
   <span>
-   &#9733 64, pushed 355 days ago
+   &#9733 64, pushed 356 days ago
   </span>
   - This library solves the problem of implementing microservices with Erlang.
  </li>
@@ -708,7 +708,7 @@
    Goa
   </a>
   <span>
-   &#9733 738, pushed 2 days ago
+   &#9733 738, pushed 3 days ago
   </span>
   - Design-based HTTP microservices in Go.
  </li>
@@ -717,7 +717,7 @@
    Gocraft
   </a>
   <span>
-   &#9733 1042, pushed 123 days ago
+   &#9733 1042, pushed 124 days ago
   </span>
   - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
  </li>
@@ -756,7 +756,7 @@
    Libchan
   </a>
   <span>
-   &#9733 2011, pushed 147 days ago
+   &#9733 2011, pushed 148 days ago
   </span>
   - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
  </li>
@@ -771,7 +771,7 @@
    Micro
   </a>
   <span>
-   &#9733 1822, pushed 1 days ago
+   &#9733 1822, pushed 2 days ago
   </span>
   - A microservices toolchain in Go.
  </li>
@@ -859,7 +859,7 @@
    Tesla
   </a>
   <span>
-   &#9733 119, pushed 19 days ago
+   &#9733 119, pushed 20 days ago
   </span>
   - Common basis for some of Otto.de's Clojure microservices.
  </li>
@@ -873,7 +873,7 @@
    Airlift
   </a>
   <span>
-   &#9733 151, pushed 3 days ago
+   &#9733 151, pushed 4 days ago
   </span>
   - Framework for building REST services in Java.
  </li>
@@ -894,7 +894,7 @@
    MSF4J
   </a>
   <span>
-   &#9733 81, pushed 2 days ago
+   &#9733 81, pushed 3 days ago
   </span>
   - High throughput & low memory footprint Java microservices framework.
  </li>
@@ -994,7 +994,7 @@
    Baucis
   </a>
   <span>
-   &#9733 563, pushed 56 days ago
+   &#9733 563, pushed 57 days ago
   </span>
   - To build and maintain scalable HATEOAS/Level 3 REST APIs.
  </li>
@@ -1009,7 +1009,7 @@
    Graft
   </a>
   <span>
-   &#9733 202, pushed 275 days ago
+   &#9733 202, pushed 276 days ago
   </span>
   - Full-stack javascript through microservices.
  </li>
@@ -1149,7 +1149,7 @@
    Praxis
   </a>
   <span>
-   &#9733 240, pushed 48 days ago
+   &#9733 240, pushed 49 days ago
   </span>
   - Framework for both designing and implementing APIs.
  </li>
@@ -1202,7 +1202,7 @@
    Neutrino
   </a>
   <span>
-   &#9733 176, pushed 24 days ago
+   &#9733 176, pushed 25 days ago
   </span>
   - Extensible software load balancer.
  </li>
@@ -1244,7 +1244,7 @@
    Zuul
   </a>
   <span>
-   &#9733 964, pushed 26 days ago
+   &#9733 964, pushed 27 days ago
   </span>
   - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
  </li>
@@ -1264,7 +1264,7 @@
    Denominator
   </a>
   <span>
-   &#9733 226, pushed 143 days ago
+   &#9733 226, pushed 144 days ago
   </span>
   - Portably control DNS clouds using java or bash.
  </li>
@@ -1282,7 +1282,7 @@
    Etcd
   </a>
   <span>
-   &#9733 9440, pushed 1 days ago
+   &#9733 9440, pushed 2 days ago
   </span>
   - Highly-available key-value store for shared configuration and service discovery.
  </li>
@@ -1306,7 +1306,7 @@
    Shaman
   </a>
   <span>
-   &#9733 24, pushed 76 days ago
+   &#9733 24, pushed 77 days ago
   </span>
   - Small, lightweight, api-driven DNS server.
  </li>
@@ -1359,7 +1359,7 @@
    Dex
   </a>
   <span>
-   &#9733 645, pushed 6 days ago
+   &#9733 645, pushed 7 days ago
   </span>
   - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
  </li>
@@ -1395,7 +1395,7 @@
    OSIAM
   </a>
   <span>
-   &#9733 38, pushed 1 days ago
+   &#9733 38, pushed 2 days ago
   </span>
   - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
  </li>
@@ -1430,7 +1430,7 @@
    Fenzo
   </a>
   <span>
-   &#9733 291, pushed 17 days ago
+   &#9733 291, pushed 18 days ago
   </span>
   - Extensible scheduler for Mesos frameworks.
  </li>
@@ -1487,7 +1487,7 @@
    Onyx
   </a>
   <span>
-   &#9733 1205, pushed 2 days ago
+   &#9733 1205, pushed 3 days ago
   </span>
   - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
  </li>
@@ -1496,7 +1496,7 @@
    Ordasity
   </a>
   <span>
-   &#9733 348, pushed 489 days ago
+   &#9733 348, pushed 490 days ago
   </span>
   - Designed to spread persistent or long-lived workloads across several machines.
  </li>
@@ -1537,7 +1537,7 @@
    Aeron
   </a>
   <span>
-   &#9733 1743, pushed 7 days ago
+   &#9733 1743, pushed 8 days ago
   </span>
   - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
  </li>
@@ -1680,7 +1680,7 @@
    Cheshire
   </a>
   <span>
-   &#9733 777, pushed 20 days ago
+   &#9733 777, pushed 21 days ago
   </span>
   - Clojure JSON and JSON SMILE encoding/decoding.
  </li>
@@ -1740,7 +1740,7 @@
    Kryo
   </a>
   <span>
-   &#9733 1847, pushed 8 days ago
+   &#9733 1847, pushed 9 days ago
   </span>
   - Java serialization and cloning: fast, efficient, automatic.
  </li>
@@ -1761,7 +1761,7 @@
    SBinary
   </a>
   <span>
-   &#9733 78, pushed 148 days ago
+   &#9733 78, pushed 149 days ago
   </span>
   - Library for describing binary formats for Scala types.
  </li>
@@ -1905,7 +1905,7 @@
    Hystrix
   </a>
   <span>
-   &#9733 5815, pushed 0 days ago
+   &#9733 5815, pushed 1 days ago
   </span>
   - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
  </li>
@@ -1941,7 +1941,7 @@
    Simian Army
   </a>
   <span>
-   &#9733 3979, pushed 33 days ago
+   &#9733 3979, pushed 34 days ago
   </span>
   - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
  </li>
@@ -1976,7 +1976,7 @@
    Wilma
   </a>
   <span>
-   &#9733 10, pushed 5 days ago
+   &#9733 10, pushed 6 days ago
   </span>
   - Combined HTTP/HTTPS service stub and transparent proxy solution.
  </li>
@@ -2145,7 +2145,7 @@ Graphite, InfluxDB & OpenTSDB.
    Helios
   </a>
   <span>
-   &#9733 1406, pushed 3 days ago
+   &#9733 1406, pushed 4 days ago
   </span>
   - Docker container orchestration platform.
  </li>
@@ -2204,7 +2204,7 @@ Graphite, InfluxDB & OpenTSDB.
    Janky
   </a>
   <span>
-   &#9733 2451, pushed 4 days ago
+   &#9733 2451, pushed 5 days ago
   </span>
   - Continuous integration server built on top of Jenkins and Hubot.
  </li>
@@ -2305,7 +2305,7 @@ of the testing and deployment process.
    LambdaCD
   </a>
   <span>
-   &#9733 208, pushed 13 days ago
+   &#9733 208, pushed 14 days ago
   </span>
   - A library to define a continuous delivery pipeline in code.
  </li>
@@ -2355,7 +2355,7 @@ of the testing and deployment process.
    RancherOS
   </a>
   <span>
-   &#9733 2240, pushed 2 days ago
+   &#9733 2240, pushed 3 days ago
   </span>
   - The smallest, easiest way to run Docker in production at scale.
  </li>
@@ -2372,7 +2372,7 @@ of the testing and deployment process.
    Aglio
   </a>
   <span>
-   &#9733 1850, pushed 3 days ago
+   &#9733 1850, pushed 4 days ago
   </span>
   - API Blueprint renderer with theme support that outputs static HTML.
  </li>
@@ -2684,7 +2684,7 @@ of the testing and deployment process.
    SBE
   </a>
   <span>
-   &#9733 15, pushed 61 days ago
+   &#9733 15, pushed 62 days ago
   </span>
   - Simple Binary Encoding (SBE).
  </li>

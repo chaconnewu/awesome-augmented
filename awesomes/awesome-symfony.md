@@ -139,7 +139,7 @@
    AdmingeneratorGeneratorBundle
   </a>
   <span>
-   &#9733 385, pushed 174 days ago
+   &#9733 385, pushed 175 days ago
   </span>
   - Admingenerator for Symfony2, parse generator.yml files to build classes
  </li>
@@ -148,7 +148,7 @@
    EasyAdminBundle
   </a>
   <span>
-   &#9733 965, pushed 2 days ago
+   &#9733 965, pushed 3 days ago
   </span>
   - Simple admin generator for Symfony applications
  </li>
@@ -157,7 +157,7 @@
    SonataAdminBundle
   </a>
   <span>
-   &#9733 1366, pushed 1 days ago
+   &#9733 1366, pushed 2 days ago
   </span>
   - AdminBundle - The missing Symfony2 Admin Generator
  </li>
@@ -243,7 +243,7 @@
    SpritesBundle
   </a>
   <span>
-   &#9733 41, pushed 1190 days ago
+   &#9733 41, pushed 1191 days ago
   </span>
   - Bundle for the Sprites library.
  </li>
@@ -368,7 +368,7 @@
    AccessibleBundle
   </a>
   <span>
-   &#9733 4, pushed 4 days ago
+   &#9733 4, pushed 5 days ago
   </span>
   - Define your class' getters, setters and constructor using powerful annotations.
  </li>
@@ -386,7 +386,7 @@
    AvAjaxBundle
   </a>
   <span>
-   &#9733 11, pushed 74 days ago
+   &#9733 11, pushed 75 days ago
   </span>
   - This bundle offers a simple structure to run ajax actions.
  </li>
@@ -509,7 +509,7 @@
    PUGXGeneratorBundle
   </a>
   <span>
-   &#9733 56, pushed 6 days ago
+   &#9733 56, pushed 7 days ago
   </span>
   - An enhancement of SensioGeneratorBundle.
  </li>
@@ -651,7 +651,7 @@
    Symfony EmberJs Edition
   </a>
   <span>
-   &#9733 49, pushed 616 days ago
+   &#9733 49, pushed 617 days ago
   </span>
  </li>
  <li>
@@ -721,7 +721,7 @@
    Elcodi
   </a>
   <span>
-   &#9733 428, pushed 76 days ago
+   &#9733 428, pushed 77 days ago
   </span>
   - E-commerce PHP Components and Symfony Bundles
  </li>
@@ -762,7 +762,7 @@
    CaptchaBundle
   </a>
   <span>
-   &#9733 164, pushed 83 days ago
+   &#9733 164, pushed 84 days ago
   </span>
   - Bundle implementing a "captcha" form type.
  </li>
@@ -807,7 +807,7 @@
    InfiniteFormBundle
   </a>
   <span>
-   &#9733 114, pushed 5 days ago
+   &#9733 114, pushed 6 days ago
   </span>
   - A collection of useful form types and extensions.
  </li>
@@ -825,7 +825,7 @@
    IvoryOrderedFormBundle
   </a>
   <span>
-   &#9733 38, pushed 142 days ago
+   &#9733 38, pushed 143 days ago
   </span>
   - Provides a form ordering support.
  </li>
@@ -896,7 +896,7 @@
    TimezoneBundle
   </a>
   <span>
-   &#9733 24, pushed 48 days ago
+   &#9733 24, pushed 49 days ago
   </span>
   - Serverside Timezone detection.
  </li>
@@ -1072,7 +1072,7 @@
    CarbonBundle
   </a>
   <span>
-   &#9733 8, pushed 418 days ago
+   &#9733 8, pushed 419 days ago
   </span>
   - This bundle provides an opportunity to convert Request data into Carbon objects.
  </li>
@@ -1249,7 +1249,7 @@
    HTMLPurifierBundle
   </a>
   <span>
-   &#9733 2, pushed 1574 days ago
+   &#9733 2, pushed 1575 days ago
   </span>
   - HTML Purifier is a standards-compliant HTML filter library written in PHP.
  </li>
@@ -1267,7 +1267,7 @@
    ImageCropBundle
   </a>
   <span>
-   &#9733 6, pushed 73 days ago
+   &#9733 6, pushed 74 days ago
   </span>
   - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
  </li>
@@ -1276,7 +1276,7 @@
    KayueEssenceBundle
   </a>
   <span>
-   &#9733 6, pushed 931 days ago
+   &#9733 6, pushed 932 days ago
   </span>
   - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
  </li>
@@ -1285,7 +1285,7 @@
    KitpagesDataGridBundle
   </a>
   <span>
-   &#9733 63, pushed 26 days ago
+   &#9733 63, pushed 27 days ago
   </span>
   - This bundle provides a simple datagrid bundle.
  </li>
@@ -1366,7 +1366,7 @@
    Mobile-Detect
   </a>
   <span>
-   &#9733 5874, pushed 5 days ago
+   &#9733 5874, pushed 6 days ago
   </span>
   - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
  </li>
@@ -1447,7 +1447,7 @@
    Search-SphinxsearchBundle
   </a>
   <span>
-   &#9733 42, pushed 1179 days ago
+   &#9733 42, pushed 1180 days ago
   </span>
   - Sphinx search bundle.
  </li>
@@ -1474,7 +1474,7 @@
    SimpleArrayBundle
   </a>
   <span>
-   &#9733 0, pushed 146 days ago
+   &#9733 0, pushed 147 days ago
   </span>
   - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
  </li>
@@ -1483,7 +1483,7 @@
    sphinx-realtime-bundle
   </a>
   <span>
-   &#9733 5, pushed 400 days ago
+   &#9733 5, pushed 401 days ago
   </span>
   - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
  </li>
@@ -1528,7 +1528,7 @@
    TemplatedUriBundle
   </a>
   <span>
-   &#9733 44, pushed 4 days ago
+   &#9733 44, pushed 5 days ago
   </span>
   - Expose the hautelook/TemplatedUriRouter.
  </li>
@@ -1573,7 +1573,7 @@
    VisithorBundle
   </a>
   <span>
-   &#9733 18, pushed 166 days ago
+   &#9733 18, pushed 167 days ago
   </span>
   - Symfony Bundle for PHP Package visithor.
  </li>
@@ -1747,7 +1747,7 @@
    RSQueueBundle
   </a>
   <span>
-   &#9733 44, pushed 101 days ago
+   &#9733 44, pushed 102 days ago
   </span>
   - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
  </li>
@@ -1812,7 +1812,7 @@
    JMDSettingsBundle
   </a>
   <span>
-   &#9733 0, pushed 83 days ago
+   &#9733 0, pushed 84 days ago
   </span>
   - Simple service for store configuration in database an accessible via service and twig in your project.
  </li>
@@ -1847,7 +1847,7 @@
    AliceBundle
   </a>
   <span>
-   &#9733 193, pushed 42 days ago
+   &#9733 193, pushed 43 days ago
   </span>
   - A Symfony2 bundle to help load Doctrine Fixtures with Alice.
  </li>
@@ -1871,7 +1871,7 @@
    doctrine-routing-bundle
   </a>
   <span>
-   &#9733 1, pushed 389 days ago
+   &#9733 1, pushed 390 days ago
   </span>
   - Dynamic database routing.
  </li>
@@ -1907,7 +1907,7 @@
    DoctrineMigrationsBundle
   </a>
   <span>
-   &#9733 163, pushed 11 days ago
+   &#9733 163, pushed 12 days ago
   </span>
   - Integrates the Doctrine2 Migrations library.
  </li>
@@ -1925,7 +1925,7 @@
    FeedBundle
   </a>
   <span>
-   &#9733 82, pushed 12 days ago
+   &#9733 82, pushed 13 days ago
   </span>
   - A bundle to build RSS feeds from your entities.
  </li>
@@ -1952,7 +1952,7 @@
    KnpGaufretteBundle
   </a>
   <span>
-   &#9733 265, pushed 26 days ago
+   &#9733 265, pushed 27 days ago
   </span>
   - Integrates Gaufrette.
  </li>
@@ -2119,7 +2119,7 @@
    UcoTwigExtensionsBundle
   </a>
   <span>
-   &#9733 9, pushed 1374 days ago
+   &#9733 9, pushed 1375 days ago
   </span>
   - Provides some filters.
  </li>
@@ -2133,7 +2133,7 @@
    AlgoliaSearchBundle
   </a>
   <span>
-   &#9733 34, pushed 31 days ago
+   &#9733 34, pushed 32 days ago
   </span>
   - Seamless integration of Algolia Search into your Symfony project.
  </li>
@@ -2151,7 +2151,7 @@
    GordalinaMixpanelBundle
   </a>
   <span>
-   &#9733 6, pushed 49 days ago
+   &#9733 6, pushed 50 days ago
   </span>
   - Mixpanel integration in Symfony2.
  </li>
@@ -2160,7 +2160,7 @@
    SwarrotBundle
   </a>
   <span>
-   &#9733 35, pushed 7 days ago
+   &#9733 35, pushed 8 days ago
   </span>
   - A bundle for swarrot integration.
  </li>
@@ -2198,7 +2198,7 @@
    HWIOAuthBundle
   </a>
   <span>
-   &#9733 1170, pushed 9 days ago
+   &#9733 1170, pushed 10 days ago
   </span>
   - OAuth client integration. Supports both OAuth1.0a and OAuth2.
  </li>
@@ -2222,7 +2222,7 @@
    KnpUGuardBundle
   </a>
   <span>
-   &#9733 46, pushed 6 days ago
+   &#9733 46, pushed 7 days ago
   </span>
   - Adds simple and beautiful authentication to your Symfony project.
  </li>
@@ -2355,7 +2355,7 @@
    JSONApiBundle
   </a>
   <span>
-   &#9733 41, pushed 22 days ago
+   &#9733 41, pushed 23 days ago
   </span>
   - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
  </li>
@@ -2364,7 +2364,7 @@
    KnpJsonSchemaBundle
   </a>
   <span>
-   &#9733 61, pushed 34 days ago
+   &#9733 61, pushed 35 days ago
   </span>
   - Provide a service which allow you to generate json schema based on validation metadata.
  </li>
@@ -2382,7 +2382,7 @@
    LexikJWTAuthenticationBundle
   </a>
   <span>
-   &#9733 419, pushed 1 days ago
+   &#9733 419, pushed 2 days ago
   </span>
   - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
  </li>

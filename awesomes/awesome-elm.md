@@ -255,7 +255,7 @@
    Start app
   </a>
   <span>
-   &#9733 401, pushed 24 days ago
+   &#9733 401, pushed 25 days ago
   </span>
   - Make an app, start it up.
  </li>
@@ -593,7 +593,7 @@
    elm-http
   </a>
   <span>
-   &#9733 53, pushed 36 days ago
+   &#9733 53, pushed 37 days ago
   </span>
   - Make HTTP requests in Elm.
  </li>
@@ -620,7 +620,7 @@
    Lazy
   </a>
   <span>
-   &#9733 17, pushed 56 days ago
+   &#9733 17, pushed 57 days ago
   </span>
   - Lazy Evaluation in Elm.
  </li>
@@ -708,7 +708,7 @@
    elm-repl
   </a>
   <span>
-   &#9733 93, pushed 14 days ago
+   &#9733 93, pushed 15 days ago
   </span>
   - A REPL for Elm.
  </li>
@@ -717,7 +717,7 @@
    elm-package
   </a>
   <span>
-   &#9733 91, pushed 1 days ago
+   &#9733 91, pushed 2 days ago
   </span>
   - CLI to share Elm libraries.
  </li>
@@ -735,7 +735,7 @@
    elm-format
   </a>
   <span>
-   &#9733 193, pushed 6 days ago
+   &#9733 193, pushed 7 days ago
   </span>
   - Automatic Elm code formatter adhering to
   <a href="http://elm-lang.org/docs/style-guide">
@@ -748,7 +748,7 @@
    grunt-elm
   </a>
   <span>
-   &#9733 13, pushed 72 days ago
+   &#9733 13, pushed 73 days ago
   </span>
   - Grunt plugin that compiles Elm files to JavaScript.
  </li>
@@ -798,7 +798,7 @@
    atom-elm-snippets
   </a>
   <span>
-   &#9733 6, pushed 34 days ago
+   &#9733 6, pushed 35 days ago
   </span>
   - Elm snippets for Atom.
  </li>
@@ -822,7 +822,7 @@
    elm-light-table
   </a>
   <span>
-   &#9733 41, pushed 36 days ago
+   &#9733 41, pushed 37 days ago
   </span>
   - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
  </li>
@@ -898,7 +898,7 @@
    elm-webpack-starter
   </a>
   <span>
-   &#9733 142, pushed 56 days ago
+   &#9733 142, pushed 57 days ago
   </span>
   - A simple Webpack setup for writing Elm apps.
  </li>
@@ -907,7 +907,7 @@
    elm-app-boilerplate
   </a>
   <span>
-   &#9733 13, pushed 6 days ago
+   &#9733 13, pushed 7 days ago
   </span>
   - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
  </li>

@@ -258,7 +258,7 @@
    Zenify\DoctrineBehaviors
   </a>
   <span>
-   &#9733 9, pushed 50 days ago
+   &#9733 9, pushed 51 days ago
   </span>
   - Port of KnpLabs/DoctrineBehaviors to Nette
  </li>
@@ -267,7 +267,7 @@
    Zenify\DoctrineMigrations
   </a>
   <span>
-   &#9733 21, pushed 161 days ago
+   &#9733 21, pushed 162 days ago
   </span>
   - Implementation of Doctrine Migrations to Nette
  </li>
@@ -299,7 +299,7 @@
    hautelook\AliceBundle
   </a>
   <span>
-   &#9733 193, pushed 42 days ago
+   &#9733 193, pushed 43 days ago
   </span>
   - A Symfony2 bundle to help load Doctrine Fixtures with Alice
  </li>

@@ -369,7 +369,7 @@
    :pencil2:
   </a>
   <span>
-   &#9733 1824, pushed 4 days ago
+   &#9733 1824, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -451,7 +451,7 @@
    :book:
   </a>
   <span>
-   &#9733 36, pushed 536 days ago
+   &#9733 36, pushed 537 days ago
   </span>
  </li>
  <li>
@@ -508,7 +508,7 @@
    :book:
   </a>
   <span>
-   &#9733 108, pushed 13 days ago
+   &#9733 108, pushed 14 days ago
   </span>
  </li>
 </ul>
@@ -577,7 +577,7 @@
      :scroll:
     </a>
     <span>
-     &#9733 11176, pushed 3 days ago
+     &#9733 11176, pushed 4 days ago
     </span>
    </li>
    <li>
@@ -1180,7 +1180,7 @@ camera:
      :notebook:
     </a>
     <span>
-     &#9733 735, pushed 72 days ago
+     &#9733 735, pushed 73 days ago
     </span>
    </li>
    <li>
@@ -1961,7 +1961,7 @@ camera:
      :pencil2:
     </a>
     <span>
-     &#9733 5, pushed 37 days ago
+     &#9733 5, pushed 38 days ago
     </span>
    </li>
    <li>
@@ -2726,7 +2726,7 @@ up:
    :pencil2:
   </a>
   <span>
-   &#9733 5, pushed 211 days ago
+   &#9733 5, pushed 212 days ago
   </span>
  </li>
  <li>
@@ -2926,7 +2926,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 2758, pushed 9 days ago
+     &#9733 2758, pushed 10 days ago
     </span>
    </li>
    <li>
@@ -2935,7 +2935,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 3, pushed 268 days ago
+     &#9733 3, pushed 269 days ago
     </span>
    </li>
    <li>
@@ -2983,7 +2983,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 28, pushed 41 days ago
+     &#9733 28, pushed 42 days ago
     </span>
    </li>
    <li>
@@ -2992,7 +2992,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 7, pushed 63 days ago
+     &#9733 7, pushed 64 days ago
     </span>
    </li>
    <li>
@@ -3007,7 +3007,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 2, pushed 31 days ago
+     &#9733 2, pushed 32 days ago
     </span>
    </li>
    <li>
@@ -3056,7 +3056,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 5152, pushed 3 days ago
+     &#9733 5152, pushed 4 days ago
     </span>
    </li>
    <li>
@@ -3125,7 +3125,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 178, pushed 14 days ago
+     &#9733 178, pushed 15 days ago
     </span>
    </li>
    <li>
@@ -3256,7 +3256,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 13, pushed 385 days ago
+     &#9733 13, pushed 386 days ago
     </span>
    </li>
    <li>
@@ -3308,7 +3308,7 @@ up:
    :pencil2:
   </a>
   <span>
-   &#9733 1365, pushed 3 days ago
+   &#9733 1365, pushed 4 days ago
   </span>
  </li>
  <li>
@@ -3317,7 +3317,7 @@ up:
    :link:
   </a>
   <span>
-   &#9733 57, pushed 6 days ago
+   &#9733 57, pushed 7 days ago
   </span>
  </li>
  <li>
@@ -5035,7 +5035,7 @@ once singleton model
    :pencil2:
   </a>
   <span>
-   &#9733 176, pushed 608 days ago
+   &#9733 176, pushed 609 days ago
   </span>
   <a href="https://github.com/eonist/swift-utils">
    :pencil2:
@@ -5342,7 +5342,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 680, pushed 3 days ago
+    &#9733 680, pushed 4 days ago
    </span>
   </li>
   <li>
@@ -5585,7 +5585,7 @@ disk:
    :pencil2:
   </a>
   <span>
-   &#9733 287, pushed 66 days ago
+   &#9733 287, pushed 67 days ago
   </span>
  </li>
  <li>
@@ -6146,7 +6146,7 @@ Swift
     :floppy_disk:
    </a>
    <span>
-    &#9733 12, pushed 387 days ago
+    &#9733 12, pushed 388 days ago
    </span>
   </li>
  </ul>
@@ -6371,7 +6371,7 @@ facing_up:
   :pencil2:
  </a>
  <span>
-  &#9733 136, pushed 127 days ago
+  &#9733 136, pushed 128 days ago
  </span>
 </li>
 <li>
@@ -6474,7 +6474,7 @@ facing_up:
     :pencil2:
    </a>
    <span>
-    &#9733 39, pushed 110 days ago
+    &#9733 39, pushed 111 days ago
    </span>
   </li>
   <li>
@@ -6651,7 +6651,7 @@ facing_up:
     :pencil2:
    </a>
    <span>
-    &#9733 5026, pushed 6 days ago
+    &#9733 5026, pushed 7 days ago
    </span>
    <a href="http://promisekit.org/">
     :link:
@@ -6722,7 +6722,7 @@ disk:
   :pencil2:
  </a>
  <span>
-  &#9733 1403, pushed 42 days ago
+  &#9733 1403, pushed 43 days ago
  </span>
 </li>
 <li>
@@ -6811,7 +6811,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 66, pushed 3 days ago
+    &#9733 66, pushed 4 days ago
    </span>
   </li>
   <li>
@@ -6931,7 +6931,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 65, pushed 31 days ago
+    &#9733 65, pushed 32 days ago
    </span>
   </li>
   <li>
@@ -6940,7 +6940,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 136, pushed 38 days ago
+    &#9733 136, pushed 39 days ago
    </span>
   </li>
   <li>
@@ -6949,7 +6949,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 276, pushed 41 days ago
+    &#9733 276, pushed 42 days ago
    </span>
   </li>
   <li>
@@ -6971,7 +6971,7 @@ disk:
     up:
    </a>
    <span>
-    &#9733 222, pushed 88 days ago
+    &#9733 222, pushed 89 days ago
    </span>
   </li>
   <li>
@@ -7209,7 +7209,7 @@ disk:
   :pencil2:
  </a>
  <span>
-  &#9733 116, pushed 1 days ago
+  &#9733 116, pushed 2 days ago
  </span>
 </li>
 <li>
@@ -7998,7 +7998,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 192, pushed 1 days ago
+     &#9733 192, pushed 2 days ago
     </span>
     <a href="https://github.com/AliSoftware/Dip-UI">
      :pencil2:
@@ -8020,7 +8020,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 17, pushed 112 days ago
+     &#9733 17, pushed 113 days ago
     </span>
    </li>
    <li>
@@ -8029,7 +8029,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 16, pushed 243 days ago
+     &#9733 16, pushed 244 days ago
     </span>
     <a href="https://github.com/Swinject/Swinject">
      :pencil2:
@@ -8915,7 +8915,7 @@ disk:
   :pencil2:
  </a>
  <span>
-  &#9733 0, pushed 446 days ago
+  &#9733 0, pushed 447 days ago
  </span>
 </li>
 <li>
@@ -9534,7 +9534,7 @@ facing_up:
     :pencil2:
    </a>
    <span>
-    &#9733 487, pushed 43 days ago
+    &#9733 487, pushed 44 days ago
    </span>
   </li>
  </ul>
@@ -10104,7 +10104,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 3, pushed 4 days ago
+    &#9733 3, pushed 5 days ago
    </span>
   </li>
   <li>
@@ -10136,7 +10136,7 @@ disk:
     up:
    </a>
    <span>
-    &#9733 9, pushed 93 days ago
+    &#9733 9, pushed 94 days ago
    </span>
   </li>
   <li>
@@ -10802,7 +10802,7 @@ facing_up:
    :pencil2:
   </a>
   <span>
-   &#9733 191, pushed 8 days ago
+   &#9733 191, pushed 9 days ago
   </span>
  </li>
 </ul>
@@ -11364,7 +11364,7 @@ facing_up:
      :pencil2:
     </a>
     <span>
-     &#9733 0, pushed 519 days ago
+     &#9733 0, pushed 520 days ago
     </span>
    </li>
   </ul>
@@ -11416,7 +11416,7 @@ facing_up:
      :pencil2:
     </a>
     <span>
-     &#9733 4606, pushed 1 days ago
+     &#9733 4606, pushed 2 days ago
     </span>
     <a href="http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/">
      :page
@@ -11898,7 +11898,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 438, pushed 95 days ago
+     &#9733 438, pushed 96 days ago
     </span>
    </li>
    <li>
@@ -11947,7 +11947,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 18, pushed 105 days ago
+     &#9733 18, pushed 106 days ago
     </span>
    </li>
    <li>
@@ -11965,7 +11965,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 7131, pushed 2 days ago
+     &#9733 7131, pushed 3 days ago
     </span>
    </li>
   </ul>
@@ -12040,7 +12040,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 204, pushed 6 days ago
+     &#9733 204, pushed 7 days ago
     </span>
    </li>
   </ul>
@@ -12054,7 +12054,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 278, pushed 70 days ago
+     &#9733 278, pushed 71 days ago
     </span>
    </li>
   </ul>
@@ -12135,7 +12135,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 17, pushed 105 days ago
+     &#9733 17, pushed 106 days ago
     </span>
    </li>
    <li>
@@ -12150,7 +12150,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 732, pushed 28 days ago
+     &#9733 732, pushed 29 days ago
     </span>
    </li>
    <li>
@@ -12967,7 +12967,7 @@ disk:
     :pencil2:
    </a>
    <span>
-    &#9733 98, pushed 28 days ago
+    &#9733 98, pushed 29 days ago
    </span>
   </li>
  </ul>
@@ -13398,7 +13398,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 6, pushed 119 days ago
+     &#9733 6, pushed 120 days ago
     </span>
    </li>
    <li>
@@ -13531,7 +13531,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 728, pushed 22 days ago
+     &#9733 728, pushed 23 days ago
     </span>
    </li>
    <li>
@@ -13661,7 +13661,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 625, pushed 19 days ago
+     &#9733 625, pushed 20 days ago
     </span>
    </li>
    <li>
@@ -13874,7 +13874,7 @@ disk:
      :pencil2:
     </a>
     <span>
-     &#9733 461, pushed 42 days ago
+     &#9733 461, pushed 43 days ago
     </span>
     <a href="https://github.com/tangphillip/state-machine-talk">
      :floppy_disk:
@@ -14043,7 +14043,7 @@ disk:
      up:
     </a>
     <span>
-     &#9733 83, pushed 70 days ago
+     &#9733 83, pushed 71 days ago
     </span>
    </li>
    <li>
@@ -14540,7 +14540,7 @@ up:
    :pencil2:
   </a>
   <span>
-   &#9733 556, pushed 42 days ago
+   &#9733 556, pushed 43 days ago
   </span>
  </li>
  <li>
@@ -14723,7 +14723,7 @@ up:
      :pencil2:
     </a>
     <span>
-     &#9733 4206, pushed 21 days ago
+     &#9733 4206, pushed 22 days ago
     </span>
    </li>
    <li>
@@ -14974,7 +14974,7 @@ up:
      :pencil:
     </a>
     <span>
-     &#9733 86, pushed 68 days ago
+     &#9733 86, pushed 69 days ago
     </span>
    </li>
    <li>

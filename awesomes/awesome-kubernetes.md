@@ -601,7 +601,7 @@ released soon.Stay tuned for more updates.
    Console
   </a>
   <span>
-   &#9733 213, pushed 1 days ago
+   &#9733 213, pushed 2 days ago
   </span>
   :
 It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
@@ -618,7 +618,7 @@ Datadog is a hosted monitoring and metrics platform, with built in support for K
    Heapster
   </a>
   <span>
-   &#9733 640, pushed 3 days ago
+   &#9733 640, pushed 4 days ago
   </span>
   : 
 Heapster enables Container Cluster Monitoring and Performance Analysis.

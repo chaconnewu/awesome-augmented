@@ -30,7 +30,7 @@
    GitHub repo
   </a>
   <span>
-   &#9733 11932, pushed 2 days ago
+   &#9733 11932, pushed 3 days ago
   </span>
   - source code, issues discussion and collaboration.
  </li>
@@ -337,7 +337,7 @@ for any IP address.
    Vagrantpress
   </a>
   <span>
-   &#9733 729, pushed 59 days ago
+   &#9733 729, pushed 60 days ago
   </span>
   - development environment for creating and modifying WordPress sites.
  </li>

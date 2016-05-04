@@ -7,7 +7,7 @@
  </a>
 </p>
 <p>
- This is a list of different books courses and other resources for robotics, it's an attempt to gather useful materials in one place for everybody who wants to learn more about the field.
+ This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 </p>
 <h3>
  Courses
@@ -336,9 +336,91 @@ Atlas Robot in the DARPA Robotics Challenge Finals
  </li>
 </ul>
 <h3>
+ Companies
+</h3>
+<ul>
+ <li>
+  <a href="http://www.bostondynamics.com/">
+   Boston Dynamics
+  </a>
+  robotics R&D company, creator of the state of the art
+  <a href="https://www.youtube.com/watch?v=rVlhMGQgDkY">
+   Atlas
+  </a>
+  and
+  <a href="https://www.youtube.com/watch?v=M8YjvHYbZ9w">
+   Spot
+  </a>
+  robots
+ </li>
+ <li>
+  <a href="http://www.irobot.com/">
+   iRobot
+  </a>
+  manufacturer of the famous
+  <a href="https://en.wikipedia.org/wiki/Roomba">
+   Roomba
+  </a>
+  robotic vacuum cleaner
+ </li>
+ <li>
+  <a href="https://www.aldebaran.com/en">
+   Aldebaran Robotics
+  </a>
+  creator of the
+  <a href="https://www.youtube.com/watch?v=nNbj2G3GmAo">
+   NAO robot
+  </a>
+ </li>
+ <li>
+  <a href="http://new.abb.com/products/robotics">
+   ABB Robotics
+  </a>
+  the largest manufacturer of industrial robots
+ </li>
+ <li>
+  <a href="http://www.kuka-robotics.com/en/">
+   KUKA Robotics
+  </a>
+  major manufacturer of industrial robots targeted at factory automation
+ </li>
+ <li>
+  <a href="http://www.fanucamerica.com/">
+   FANUC
+  </a>
+  industrial robots manufacturer with the biggest install base
+ </li>
+ <li>
+  <a href="http://www.rethinkrobotics.com/">
+   Rethink Robotics
+  </a>
+  creator of the collaborative robot
+  <a href="https://www.youtube.com/watch?v=fCML42boO8c">
+   Baxter
+  </a>
+ </li>
+</ul>
+<h3>
  Misc
 </h3>
 <ul>
+ <li>
+  <a href="http://spectrum.ieee.org/robotics">
+   IEEE Spectrum Robotics
+  </a>
+  robotics section of the IEEE Spectrum magazine
+ </li>
+ <li>
+  <a href="https://www.technologyreview.com/c/robotics/">
+   MIT Technology Review Robotics
+  </a>
+  robotics section of the MIT Technology Review magazine
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/robotics/">
+   reddit robotics subreddit
+  </a>
+ </li>
  <li>
   <a href="http://roscon.ros.org/2015/">
    RosCON conference (video talks included)
@@ -357,11 +439,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals
  <li>
   <a href="https://www.quora.com/How-do-I-learn-robotics">
    How do I learn Robotics?
-  </a>
- </li>
- <li>
-  <a href="http://spectrum.ieee.org/robotics">
-   IEEE spectrum Robotics
   </a>
  </li>
  <li>
@@ -394,7 +471,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Artificial Intelligence
   </a>
   <span>
-   &#9733 1518, pushed 26 days ago
+   &#9733 1518, pushed 27 days ago
   </span>
  </li>
  <li>
@@ -418,7 +495,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Deep Learning
   </a>
   <span>
-   &#9733 1922, pushed 7 days ago
+   &#9733 1922, pushed 8 days ago
   </span>
  </li>
 </ul>

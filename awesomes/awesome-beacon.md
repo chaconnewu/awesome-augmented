@@ -33,7 +33,7 @@
    Eddystone Protocol Specification & Tools
   </a>
   <span>
-   &#9733 1872, pushed 1 days ago
+   &#9733 1872, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -362,7 +362,7 @@
    PunchClock
   </a>
   <span>
-   &#9733 1663, pushed 213 days ago
+   &#9733 1663, pushed 214 days ago
   </span>
   An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
  </li>
@@ -569,7 +569,7 @@
    Bluetooth LE Library for Android
   </a>
   <span>
-   &#9733 411, pushed 72 days ago
+   &#9733 411, pushed 73 days ago
   </span>
  </li>
 </ul>
@@ -582,7 +582,7 @@
    Beacon Scanner & Logger
   </a>
   <span>
-   &#9733 22, pushed 159 days ago
+   &#9733 22, pushed 160 days ago
   </span>
   Android app that scans for BLE Beacons/iBeacons and logs the results to a file
  </li>
@@ -703,7 +703,7 @@
    A node.js module for implementing BLE (Bluetooth low energy) peripherals
   </a>
   <span>
-   &#9733 650, pushed 1 days ago
+   &#9733 650, pushed 2 days ago
   </span>
  </li>
 </ul>
@@ -773,7 +773,7 @@
    Web Bluetooth Demos
   </a>
   <span>
-   &#9733 66, pushed 0 days ago
+   &#9733 66, pushed 1 days ago
   </span>
  </li>
 </ul>

@@ -375,7 +375,7 @@
    Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc
   </a>
   <span>
-   &#9733 217, pushed 212 days ago
+   &#9733 217, pushed 213 days ago
   </span>
  </li>
 </ul>
@@ -393,7 +393,7 @@
    An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass
   </a>
   <span>
-   &#9733 349, pushed 50 days ago
+   &#9733 349, pushed 51 days ago
   </span>
  </li>
  <li>
@@ -717,7 +717,7 @@
    Solutions for Elements of Programming Interviews problems written in Golang
   </a>
   <span>
-   &#9733 15, pushed 136 days ago
+   &#9733 15, pushed 137 days ago
   </span>
  </li>
  <li>
@@ -725,7 +725,7 @@
    Solutions for some basic coding interview tasks written in Go
   </a>
   <span>
-   &#9733 8, pushed 326 days ago
+   &#9733 8, pushed 327 days ago
   </span>
  </li>
  <li>
@@ -846,7 +846,7 @@
    A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources
   </a>
   <span>
-   &#9733 60, pushed 306 days ago
+   &#9733 60, pushed 307 days ago
   </span>
  </li>
  <li>
@@ -947,7 +947,7 @@
    Some basic javascript coding challenges and interview questions
   </a>
   <span>
-   &#9733 2955, pushed 50 days ago
+   &#9733 2955, pushed 51 days ago
   </span>
  </li>
  <li>
@@ -1275,7 +1275,7 @@
    A list of helpful Scala related questions you can use to interview potential candidates
   </a>
   <span>
-   &#9733 94, pushed 222 days ago
+   &#9733 94, pushed 223 days ago
   </span>
  </li>
  <li>
@@ -1616,7 +1616,7 @@
    EKAlgorithms contains some well known CS algorithms & data structures
   </a>
   <span>
-   &#9733 1970, pushed 28 days ago
+   &#9733 1970, pushed 29 days ago
   </span>
  </li>
  <li>

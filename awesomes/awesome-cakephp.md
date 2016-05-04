@@ -359,7 +359,7 @@
    AssetCompress plugin
   </a>
   <span>
-   &#9733 350, pushed 72 days ago
+   &#9733 350, pushed 73 days ago
   </span>
   - A complete asset manager for CakePHP.
  </li>
@@ -368,7 +368,7 @@
    Less plugin
   </a>
   <span>
-   &#9733 13, pushed 4 days ago
+   &#9733 13, pushed 5 days ago
   </span>
   - Less parser plugin for CakePHP.
  </li>
@@ -377,7 +377,7 @@
    MinifyHtml plugin
   </a>
   <span>
-   &#9733 7, pushed 139 days ago
+   &#9733 7, pushed 140 days ago
   </span>
   - Compress HTML output.
  </li>
@@ -455,7 +455,7 @@
    FriendsOfCake/Authenticate plugin
   </a>
   <span>
-   &#9733 82, pushed 132 days ago
+   &#9733 82, pushed 133 days ago
   </span>
   - Authentication classes for AuthComponent.
  </li>
@@ -482,7 +482,7 @@
    Muffin/OAuth2 plugin
   </a>
   <span>
-   &#9733 4, pushed 66 days ago
+   &#9733 4, pushed 67 days ago
   </span>
   - OAuth2 authentication using the
   <a href="https://github.com/thephpleague/oauth2-client">
@@ -506,7 +506,7 @@
    TinyAuth plugin
   </a>
   <span>
-   &#9733 31, pushed 6 days ago
+   &#9733 31, pushed 7 days ago
   </span>
   - Role based (single/multi) authentication as very light-weight approach.
  </li>
@@ -515,7 +515,7 @@
    Tools:Passwordable
   </a>
   <span>
-   &#9733 251, pushed 7 days ago
+   &#9733 251, pushed 8 days ago
   </span>
   - Containing
   <a href="https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md">
@@ -541,7 +541,7 @@
    UserPermissions plugin
   </a>
   <span>
-   &#9733 6, pushed 291 days ago
+   &#9733 6, pushed 292 days ago
   </span>
   -  Allow groups of users or single users to view a specific page.
  </li>
@@ -627,7 +627,7 @@
    Setup plugin
   </a>
   <span>
-   &#9733 21, pushed 8 days ago
+   &#9733 21, pushed 9 days ago
   </span>
   - A lightweight setup plugin containing debugging and maintenance tools.
  </li>
@@ -646,7 +646,7 @@
    PimpleDi plugin
   </a>
   <span>
-   &#9733 4, pushed 68 days ago
+   &#9733 4, pushed 69 days ago
   </span>
   Allows dependency injection based on Pimple library.
  </li>
@@ -655,7 +655,7 @@
    PipingBag plugin
   </a>
   <span>
-   &#9733 24, pushed 105 days ago
+   &#9733 24, pushed 106 days ago
   </span>
   - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
  </li>
@@ -700,7 +700,7 @@
    SparkPost plugin
   </a>
   <span>
-   &#9733 8, pushed 6 days ago
+   &#9733 8, pushed 7 days ago
   </span>
   - Email transport plugin for sending email via the SparkPost API.
  </li>
@@ -762,7 +762,7 @@
    FileStorage plugin
   </a>
   <span>
-   &#9733 145, pushed 34 days ago
+   &#9733 145, pushed 35 days ago
   </span>
   - Abstract file storage and upload plugin.
  </li>
@@ -789,7 +789,7 @@
    Josegonzalez/Upload plugin
   </a>
   <span>
-   &#9733 458, pushed 5 days ago
+   &#9733 458, pushed 6 days ago
   </span>
   - A customisable plugin that uses
   <a href="http://flysystem.thephpleague.com/">
@@ -830,7 +830,7 @@
    Gourmet/Filters plugin
   </a>
   <span>
-   &#9733 8, pushed 63 days ago
+   &#9733 8, pushed 64 days ago
   </span>
   - Extra dispatcher filters (maintenance, robots, ip, etc).
  </li>
@@ -930,7 +930,7 @@
    Transifex plugin
   </a>
   <span>
-   &#9733 13, pushed 349 days ago
+   &#9733 13, pushed 350 days ago
   </span>
   - Managing i18n PO files and translations via Transifex API.
  </li>
@@ -971,7 +971,7 @@
    Imagine plugin
   </a>
   <span>
-   &#9733 110, pushed 95 days ago
+   &#9733 110, pushed 96 days ago
   </span>
   - An image manipulation plugin and wrapper around
   <a href="https://github.com/avalanche123/Imagine">
@@ -1012,7 +1012,7 @@
    Carbon
   </a>
   <span>
-   &#9733 4251, pushed 0 days ago
+   &#9733 4251, pushed 1 days ago
   </span>
   - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
  </li>
@@ -1021,7 +1021,7 @@
    Chronos
   </a>
   <span>
-   &#9733 132, pushed 12 days ago
+   &#9733 132, pushed 13 days ago
   </span>
   - A simple standalone DateTime API extension (successor of Carbon).
  </li>
@@ -1233,7 +1233,7 @@
    Tools plugin
   </a>
   <span>
-   &#9733 251, pushed 7 days ago
+   &#9733 251, pushed 8 days ago
   </span>
   - Containing lots of useful libs, helpers, behaviors, components, shells and more.
  </li>
@@ -1251,7 +1251,7 @@
    UserTools plugin
   </a>
   <span>
-   &#9733 37, pushed 20 days ago
+   &#9733 37, pushed 21 days ago
   </span>
   - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
  </li>
@@ -1362,7 +1362,7 @@
    JeremyHarris/LazyLoad plugin
   </a>
   <span>
-   &#9733 14, pushed 47 days ago
+   &#9733 14, pushed 48 days ago
   </span>
   - An association lazy loader for entities.
  </li>
@@ -1371,7 +1371,7 @@
    Money plugin
   </a>
   <span>
-   &#9733 3, pushed 103 days ago
+   &#9733 3, pushed 104 days ago
   </span>
   - Money data type for CakePHP entities using
   <a href="https://github.com/sebastianbergmann/money">
@@ -1439,7 +1439,7 @@
    CakePdf plugin
   </a>
   <span>
-   &#9733 241, pushed 1 days ago
+   &#9733 241, pushed 2 days ago
   </span>
   - A plugin around PDF generation.
  </li>
@@ -1504,7 +1504,7 @@
    Cors plugin
   </a>
   <span>
-   &#9733 19, pushed 61 days ago
+   &#9733 19, pushed 62 days ago
   </span>
   - A lightweight plugin for adding CORS headers to specified endpoints.
  </li>
@@ -1576,7 +1576,7 @@
    PlumSearch plugin
   </a>
   <span>
-   &#9733 15, pushed 32 days ago
+   &#9733 15, pushed 33 days ago
   </span>
   - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
  </li>
@@ -1622,7 +1622,7 @@
    CipherBehavior plugin
   </a>
   <span>
-   &#9733 5, pushed 103 days ago
+   &#9733 5, pushed 104 days ago
   </span>
   - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
  </li>
@@ -1659,7 +1659,7 @@
    Muffin/Slug plugin
   </a>
   <span>
-   &#9733 17, pushed 12 days ago
+   &#9733 17, pushed 13 days ago
   </span>
   - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
  </li>
@@ -1677,7 +1677,7 @@
    Sluggable plugin
   </a>
   <span>
-   &#9733 4, pushed 102 days ago
+   &#9733 4, pushed 103 days ago
   </span>
   - A simple Cake3 plugin to slug fields and find records by slug.
  </li>
@@ -1686,7 +1686,7 @@
    Tools:Slugged
   </a>
   <span>
-   &#9733 251, pushed 7 days ago
+   &#9733 251, pushed 8 days ago
   </span>
   - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
  </li>
@@ -1760,7 +1760,7 @@
    SocialShare plugin
   </a>
   <span>
-   &#9733 12, pushed 75 days ago
+   &#9733 12, pushed 76 days ago
   </span>
   - Link generator for sharing content on social networks.
  </li>
@@ -1861,7 +1861,7 @@
    Liquid plugin
   </a>
   <span>
-   &#9733 3, pushed 94 days ago
+   &#9733 3, pushed 95 days ago
   </span>
   - A plugin to use the Liquid templating language for views.
  </li>
@@ -1888,7 +1888,7 @@
    TwigView plugin
   </a>
   <span>
-   &#9733 37, pushed 25 days ago
+   &#9733 37, pushed 26 days ago
   </span>
   - A plugin to use the Twig Templating Language for views.
  </li>
@@ -1956,7 +1956,7 @@
    Faker plugin
   </a>
   <span>
-   &#9733 14, pushed 256 days ago
+   &#9733 14, pushed 257 days ago
   </span>
   -
   <a href="https://github.com/fzaninotto/Faker">
@@ -1992,7 +1992,7 @@
    CakeTmdb plugin
   </a>
   <span>
-   &#9733 0, pushed 117 days ago
+   &#9733 0, pushed 118 days ago
   </span>
   - The Movie Database (TMDB) API integration.
  </li>
@@ -2001,7 +2001,7 @@
    GitHub plugin
   </a>
   <span>
-   &#9733 5, pushed 65 days ago
+   &#9733 5, pushed 66 days ago
   </span>
   - Allows access to the GitHub REST APIs using the
   <a href="https://github.com/UseMuffin/Webservice">
@@ -2023,7 +2023,7 @@
    Salesforce plugin
   </a>
   <span>
-   &#9733 1, pushed 92 days ago
+   &#9733 1, pushed 93 days ago
   </span>
   - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
  </li>
@@ -2180,7 +2180,7 @@
    Xeta
   </a>
   <span>
-   &#9733 33, pushed 339 days ago
+   &#9733 33, pushed 340 days ago
   </span>
   - A resource to help people starting with CakePHP.
  </li>

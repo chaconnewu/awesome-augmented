@@ -239,7 +239,7 @@
    Metasploit
   </a>
   <span>
-   &#9733 5688, pushed 2 days ago
+   &#9733 5688, pushed 3 days ago
   </span>
   A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  </li>
@@ -248,7 +248,7 @@
    mimikatz
   </a>
   <span>
-   &#9733 1826, pushed 2 days ago
+   &#9733 1826, pushed 3 days ago
   </span>
   - A little tool to play with Windows security
  </li>
@@ -473,7 +473,7 @@
    mitmsocks4j
   </a>
   <span>
-   &#9733 16, pushed 1173 days ago
+   &#9733 16, pushed 1174 days ago
   </span>
   - Man in the Middle SOCKS Proxy for JAVA
  </li>
@@ -520,7 +520,7 @@
    sleuthkit
   </a>
   <span>
-   &#9733 618, pushed 4 days ago
+   &#9733 618, pushed 5 days ago
   </span>
   - A library and collection of command line digital forensics tools
  </li>
@@ -573,7 +573,7 @@
    xortool
   </a>
   <span>
-   &#9733 314, pushed 565 days ago
+   &#9733 314, pushed 566 days ago
   </span>
   - A tool to analyze multi-byte xor cipher
  </li>

@@ -205,7 +205,7 @@
    express-graphql
   </a>
   <span>
-   &#9733 748, pushed 1 days ago
+   &#9733 748, pushed 2 days ago
   </span>
   - GraphQL Express Middleware.
  </li>
@@ -232,7 +232,7 @@
    codemirror-graphql
   </a>
   <span>
-   &#9733 19, pushed 24 days ago
+   &#9733 19, pushed 25 days ago
   </span>
   - GraphQL mode and helpers for CodeMirror.
  </li>
@@ -355,7 +355,7 @@
    Annotated GraphQL
   </a>
   <span>
-   &#9733 0, pushed 64 days ago
+   &#9733 0, pushed 65 days ago
   </span>
   - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
  </li>
@@ -483,7 +483,7 @@
    graphql-relay-ruby
   </a>
   <span>
-   &#9733 77, pushed 3 days ago
+   &#9733 77, pushed 4 days ago
   </span>
   - Relay helpers for GraphQL & Ruby.
  </li>
@@ -492,7 +492,7 @@
    graphql-parser
   </a>
   <span>
-   &#9733 21, pushed 3 days ago
+   &#9733 21, pushed 4 days ago
   </span>
   - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
  </li>
@@ -510,7 +510,7 @@
    graphql-php
   </a>
   <span>
-   &#9733 222, pushed 1 days ago
+   &#9733 222, pushed 2 days ago
   </span>
   - A PHP port of GraphQL reference implementation.
  </li>
@@ -519,7 +519,7 @@
    graphql-relay-php
   </a>
   <span>
-   &#9733 10, pushed 63 days ago
+   &#9733 10, pushed 64 days ago
   </span>
   - Relay helpers for GraphQL & PHP.
  </li>
@@ -537,7 +537,7 @@
    laravel-graphql-relay
   </a>
   <span>
-   &#9733 18, pushed 5 days ago
+   &#9733 18, pushed 6 days ago
   </span>
   - A Laravel library to help construct a server supporting react-relay.
  </li>
@@ -582,7 +582,7 @@
    graphql-parser
   </a>
   <span>
-   &#9733 32, pushed 314 days ago
+   &#9733 32, pushed 315 days ago
   </span>
   - GraphQL parser for Python.
  </li>
@@ -591,7 +591,7 @@
    graphql-core
   </a>
   <span>
-   &#9733 54, pushed 1 days ago
+   &#9733 54, pushed 2 days ago
   </span>
   - GraphQL implementation for Python.
  </li>
@@ -690,7 +690,7 @@
    libgraphqlparser
   </a>
   <span>
-   &#9733 262, pushed 3 days ago
+   &#9733 262, pushed 4 days ago
   </span>
   - A GraphQL query parser in C++ with C and C++ APIs.
  </li>
@@ -708,7 +708,7 @@
    graphql
   </a>
   <span>
-   &#9733 403, pushed 13 days ago
+   &#9733 403, pushed 14 days ago
   </span>
   - An implementation of GraphQL for Go follows graphql-js
  </li>
@@ -726,7 +726,7 @@
    graphql
   </a>
   <span>
-   &#9733 35, pushed 180 days ago
+   &#9733 35, pushed 181 days ago
   </span>
   - GraphQL parser and server for Go.
  </li>
@@ -807,7 +807,7 @@
    graphql-net
   </a>
   <span>
-   &#9733 33, pushed 1 days ago
+   &#9733 33, pushed 2 days ago
   </span>
   - GraphQL to IQueryable for .NET
  </li>
@@ -852,7 +852,7 @@
    graphql_relay
   </a>
   <span>
-   &#9733 11, pushed 13 days ago
+   &#9733 11, pushed 14 days ago
   </span>
   - Relay helpers for GraphQL Elixir.
  </li>
@@ -873,7 +873,7 @@
    graphql
   </a>
   <span>
-   &#9733 89, pushed 295 days ago
+   &#9733 89, pushed 296 days ago
   </span>
   - Elixir GraphQL parser.
  </li>
@@ -927,7 +927,7 @@
    sql-to-graphql
   </a>
   <span>
-   &#9733 142, pushed 131 days ago
+   &#9733 142, pushed 132 days ago
   </span>
   - Generate a GraphQL API based on your SQL database structure.
  </li>
@@ -972,7 +972,7 @@
    graphiql
   </a>
   <span>
-   &#9733 1295, pushed 3 days ago
+   &#9733 1295, pushed 4 days ago
   </span>
   - An in-browser IDE for exploring GraphQL.
  </li>
@@ -990,7 +990,7 @@
    GraphQLviz
   </a>
   <span>
-   &#9733 30, pushed 69 days ago
+   &#9733 30, pushed 70 days ago
   </span>
   - GraphQLviz marries GraphQL (schemas) with Graphviz.
  </li>
@@ -1040,7 +1040,7 @@
    Annotated GraphQL Server
   </a>
   <span>
-   &#9733 2, pushed 64 days ago
+   &#9733 2, pushed 65 days ago
   </span>
   - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
  </li>
@@ -1144,7 +1144,7 @@
    graphql-intro
   </a>
   <span>
-   &#9733 55, pushed 216 days ago
+   &#9733 55, pushed 217 days ago
   </span>
   - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2
  </li>
@@ -1153,7 +1153,7 @@
    graphql-aws
   </a>
   <span>
-   &#9733 45, pushed 161 days ago
+   &#9733 45, pushed 162 days ago
   </span>
   - Amazon AWS GraphQL API Server.
  </li>
@@ -1172,13 +1172,10 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/codefoundries/isomorphic-material-relay-starter-kit">
-   codefoundries/isomorphic-material-relay-starter-kit
+  <a href="https://github.com/codefoundries/UniversalRelayBoilerplate">
+   UniversalRelayBoilerplate
   </a>
-  <span>
-   &#9733 169, pushed 12 days ago
-  </span>
-  - Isomorphic Relay with authentication using JWT, Material-UI.
+  Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
  </li>
  <li>
   <a href="https://github.com/vslinko/ripster/tree/master/src/graphql">
@@ -1199,7 +1196,7 @@
    simple-relay-starter
   </a>
   <span>
-   &#9733 86, pushed 26 days ago
+   &#9733 86, pushed 27 days ago
   </span>
   - A very simple starter for React Relay using Browserify.
  </li>
@@ -1256,7 +1253,7 @@
    serverless-graphql-blog
   </a>
   <span>
-   &#9733 269, pushed 40 days ago
+   &#9733 269, pushed 41 days ago
   </span>
   - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
  </li>
@@ -1274,7 +1271,7 @@
    graphql-loader
   </a>
   <span>
-   &#9733 5, pushed 46 days ago
+   &#9733 5, pushed 47 days ago
   </span>
   - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
  </li>
@@ -1361,7 +1358,7 @@
    golang-graphql-playground
   </a>
   <span>
-   &#9733 25, pushed 179 days ago
+   &#9733 25, pushed 180 days ago
   </span>
   - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
  </li>
@@ -1418,7 +1415,7 @@
    swapi-graphene
   </a>
   <span>
-   &#9733 64, pushed 2 days ago
+   &#9733 64, pushed 3 days ago
   </span>
   - A GraphQL schema and server using
   <a href="http://graphene-python.org">
@@ -1444,7 +1441,7 @@
    absinthe_example
   </a>
   <span>
-   &#9733 6, pushed 41 days ago
+   &#9733 6, pushed 42 days ago
   </span>
   - Example usage of Absinthe GraphQL
  </li>

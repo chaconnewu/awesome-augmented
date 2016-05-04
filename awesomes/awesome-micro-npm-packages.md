@@ -37,7 +37,7 @@
    Module best practices
   </a>
   <span>
-   &#9733 603, pushed 199 days ago
+   &#9733 603, pushed 200 days ago
   </span>
  </li>
  <li>
@@ -110,7 +110,7 @@
    arr-flatten
   </a>
   <span>
-   &#9733 13, pushed 113 days ago
+   &#9733 13, pushed 114 days ago
   </span>
   - Recursively flatten an array or arrays.
  </li>
@@ -155,7 +155,7 @@
    map-array
   </a>
   <span>
-   &#9733 3, pushed 84 days ago
+   &#9733 3, pushed 85 days ago
   </span>
   - Map object keys and values into an array.
  </li>
@@ -182,7 +182,7 @@
    array-swap
   </a>
   <span>
-   &#9733 1, pushed 10 days ago
+   &#9733 1, pushed 11 days ago
   </span>
   - Swap position of two items in an array.
  </li>
@@ -214,7 +214,7 @@
    to-camel-case
   </a>
   <span>
-   &#9733 8, pushed 102 days ago
+   &#9733 8, pushed 103 days ago
   </span>
   - Convert a string to a camel case.
  </li>
@@ -223,7 +223,7 @@
    to-capital-case
   </a>
   <span>
-   &#9733 1, pushed 102 days ago
+   &#9733 1, pushed 103 days ago
   </span>
   - Convert a string to a capital case.
  </li>
@@ -232,7 +232,7 @@
    to-constant-case
   </a>
   <span>
-   &#9733 0, pushed 102 days ago
+   &#9733 0, pushed 103 days ago
   </span>
   - Convert a string to a constant case.
  </li>
@@ -241,7 +241,7 @@
    to-dot-case
   </a>
   <span>
-   &#9733 2, pushed 102 days ago
+   &#9733 2, pushed 103 days ago
   </span>
   - Convert a string to a dot case.
  </li>
@@ -250,7 +250,7 @@
    to-no-case
   </a>
   <span>
-   &#9733 5, pushed 32 days ago
+   &#9733 5, pushed 33 days ago
   </span>
   - Remove an existing case from a string.
  </li>
@@ -259,7 +259,7 @@
    to-pascal-case
   </a>
   <span>
-   &#9733 0, pushed 102 days ago
+   &#9733 0, pushed 103 days ago
   </span>
   - Convert a string to a pascal case.
  </li>
@@ -268,7 +268,7 @@
    to-sentence-case
   </a>
   <span>
-   &#9733 1, pushed 102 days ago
+   &#9733 1, pushed 103 days ago
   </span>
   - Convert a string to a sentence case.
  </li>
@@ -277,7 +277,7 @@
    to-snake-case
   </a>
   <span>
-   &#9733 5, pushed 102 days ago
+   &#9733 5, pushed 103 days ago
   </span>
   - Convert a string to a snake case.
  </li>
@@ -286,7 +286,7 @@
    to-space-case
   </a>
   <span>
-   &#9733 1, pushed 102 days ago
+   &#9733 1, pushed 103 days ago
   </span>
   - Convert a string to a space case.
  </li>
@@ -295,7 +295,7 @@
    to-title-case
   </a>
   <span>
-   &#9733 7, pushed 102 days ago
+   &#9733 7, pushed 103 days ago
   </span>
   - Convert a string to a title case.
  </li>
@@ -395,7 +395,7 @@
    object-pairs
   </a>
   <span>
-   &#9733 2, pushed 343 days ago
+   &#9733 2, pushed 344 days ago
   </span>
   - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
  </li>
@@ -413,7 +413,7 @@
    just-pluck
   </a>
   <span>
-   &#9733 3, pushed 100 days ago
+   &#9733 3, pushed 101 days ago
   </span>
   - Pluck without the madness.
  </li>
@@ -475,7 +475,7 @@
    has-key-deep
   </a>
   <span>
-   &#9733 1, pushed 49 days ago
+   &#9733 1, pushed 50 days ago
   </span>
   - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
  </li>
@@ -511,7 +511,7 @@
    stringify-object
   </a>
   <span>
-   &#9733 105, pushed 44 days ago
+   &#9733 105, pushed 45 days ago
   </span>
   - Stringify an object/array like JSON.stringify just without all the double-quotes.
  </li>
@@ -520,7 +520,7 @@
    sorted-object
   </a>
   <span>
-   &#9733 16, pushed 50 days ago
+   &#9733 16, pushed 51 days ago
   </span>
   - Returns a copy of an object with its keys sorted.
  </li>
@@ -529,7 +529,7 @@
    static-props
   </a>
   <span>
-   &#9733 1, pushed 17 days ago
+   &#9733 1, pushed 18 days ago
   </span>
   - Defines static object attributes using
   <code>
@@ -564,7 +564,7 @@
    once
   </a>
   <span>
-   &#9733 89, pushed 71 days ago
+   &#9733 89, pushed 72 days ago
   </span>
   - Run a function exactly one time.
  </li>
@@ -650,7 +650,7 @@
    stream-spigot
   </a>
   <span>
-   &#9733 13, pushed 465 days ago
+   &#9733 13, pushed 466 days ago
   </span>
   - A readable stream generator, useful for testing or converting simple functions into Readable streams.
  </li>
@@ -700,7 +700,7 @@
    promise-all-props
   </a>
   <span>
-   &#9733 1, pushed 3 days ago
+   &#9733 1, pushed 4 days ago
   </span>
   - Like
   <code>
@@ -722,7 +722,7 @@
    is-promise
   </a>
   <span>
-   &#9733 22, pushed 131 days ago
+   &#9733 22, pushed 132 days ago
   </span>
   - Test whether an object looks like a promises-a+ promise.
  </li>
@@ -754,7 +754,7 @@
    du
   </a>
   <span>
-   &#9733 13, pushed 789 days ago
+   &#9733 13, pushed 790 days ago
   </span>
   - A simple JavaScript implementation of du -sb.
  </li>
@@ -804,7 +804,7 @@
    insert-css
   </a>
   <span>
-   &#9733 125, pushed 164 days ago
+   &#9733 125, pushed 165 days ago
   </span>
   - Insert a string of css into the head
  </li>
@@ -813,7 +813,7 @@
    dom-element-value
   </a>
   <span>
-   &#9733 2, pushed 348 days ago
+   &#9733 2, pushed 349 days ago
   </span>
   - DOM element value getter/setter.
  </li>
@@ -859,7 +859,7 @@
    abbrev
   </a>
   <span>
-   &#9733 83, pushed 14 days ago
+   &#9733 83, pushed 15 days ago
   </span>
   - Calculate the set of unique abbreviations for a given set of strings.
  </li>
@@ -914,7 +914,7 @@
    is-generator
   </a>
   <span>
-   &#9733 6, pushed 34 days ago
+   &#9733 6, pushed 35 days ago
   </span>
   - Check whether a given value is a generator function.
  </li>
@@ -937,7 +937,7 @@
    node-mime
   </a>
   <span>
-   &#9733 713, pushed 4 days ago
+   &#9733 713, pushed 5 days ago
   </span>
   - Comprehensive MIME type mapping API based on mime-db module.
  </li>

@@ -479,7 +479,7 @@
    jQuery Transit
   </a>
   <span>
-   &#9733 6923, pushed 327 days ago
+   &#9733 6923, pushed 328 days ago
   </span>
   - Super-smooth CSS3 transformations and transitions for jQuery.
  </li>
@@ -497,7 +497,7 @@
    Midnight
   </a>
   <span>
-   &#9733 2841, pushed 216 days ago
+   &#9733 2841, pushed 217 days ago
   </span>
   - Switches fixed headers on the fly.
  </li>
@@ -554,7 +554,7 @@
    jQuery Notebook
   </a>
   <span>
-   &#9733 1673, pushed 97 days ago
+   &#9733 1673, pushed 98 days ago
   </span>
   - A modern, simple and elegant WYSIWYG rich text editor.
  </li>
@@ -599,7 +599,7 @@
    File Upload
   </a>
   <span>
-   &#9733 23480, pushed 1 days ago
+   &#9733 23480, pushed 2 days ago
   </span>
   - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
  </li>
@@ -632,7 +632,7 @@
    Justified Gallery
   </a>
   <span>
-   &#9733 740, pushed 10 days ago
+   &#9733 740, pushed 11 days ago
   </span>
   - Allows you to create a gallery with a justified grid.
  </li>
@@ -719,7 +719,7 @@
    Flot
   </a>
   <span>
-   &#9733 4961, pushed 10 days ago
+   &#9733 4961, pushed 11 days ago
   </span>
   - Attractive charts.
  </li>
@@ -737,7 +737,7 @@
    jquery.sparkline
   </a>
   <span>
-   &#9733 943, pushed 16 days ago
+   &#9733 943, pushed 17 days ago
   </span>
   - Generate small sparkline charts.
  </li>
@@ -746,7 +746,7 @@
    jQuery.eraser
   </a>
   <span>
-   &#9733 191, pushed 56 days ago
+   &#9733 191, pushed 57 days ago
   </span>
   - Erasing image with mouse or touch movements.
  </li>
@@ -755,7 +755,7 @@
    jQuery Mapael
   </a>
   <span>
-   &#9733 693, pushed 14 days ago
+   &#9733 693, pushed 15 days ago
   </span>
   - Plugin based on raphael.js that allows you to display dynamic vector maps.
  </li>
@@ -824,7 +824,7 @@
    jQuery contextMenu
   </a>
   <span>
-   &#9733 1090, pushed 0 days ago
+   &#9733 1090, pushed 1 days ago
   </span>
   - Management facility for context menus.
  </li>
@@ -833,7 +833,7 @@
    jPanelMenu
   </a>
   <span>
-   &#9733 932, pushed 87 days ago
+   &#9733 932, pushed 88 days ago
   </span>
   - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
  </li>
@@ -869,7 +869,7 @@
    Slidebars
   </a>
   <span>
-   &#9733 1081, pushed 139 days ago
+   &#9733 1081, pushed 140 days ago
   </span>
   - jQuery framework for off-canvas menus and sidebars.
  </li>
@@ -942,7 +942,7 @@
    Bootstrap Modal
   </a>
   <span>
-   &#9733 4742, pushed 313 days ago
+   &#9733 4742, pushed 314 days ago
   </span>
   - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
  </li>
@@ -951,7 +951,7 @@
    jBox
   </a>
   <span>
-   &#9733 671, pushed 245 days ago
+   &#9733 671, pushed 246 days ago
   </span>
   - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
  </li>
@@ -996,7 +996,7 @@
    tipso
   </a>
   <span>
-   &#9733 184, pushed 130 days ago
+   &#9733 184, pushed 131 days ago
   </span>
   - A Lightweight Responsive jQuery Tooltip Plugin.
  </li>
@@ -1005,7 +1005,7 @@
    vex
   </a>
   <span>
-   &#9733 5088, pushed 19 days ago
+   &#9733 5088, pushed 20 days ago
   </span>
   - A modern dialog library which is highly configurable and easy to style.
  </li>
@@ -1068,7 +1068,7 @@
    HighchartTable
   </a>
   <span>
-   &#9733 216, pushed 148 days ago
+   &#9733 216, pushed 149 days ago
   </span>
   - Simple way to convert HTML data tables to Highcharts graphs.
  </li>
@@ -1110,7 +1110,7 @@
    Stupid Table Sort
   </a>
   <span>
-   &#9733 528, pushed 6 days ago
+   &#9733 528, pushed 7 days ago
   </span>
   - A stupidly small and simple jQuery table sorter plugin.
  </li>
@@ -1152,7 +1152,7 @@
    Timeago
   </a>
   <span>
-   &#9733 3349, pushed 42 days ago
+   &#9733 3349, pushed 43 days ago
   </span>
   - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
  </li>
@@ -1176,7 +1176,7 @@
    i18n properties
   </a>
   <span>
-   &#9733 86, pushed 67 days ago
+   &#9733 86, pushed 68 days ago
   </span>
   - Lightweight plugin for providing internationalization to JavaScript from
   <a href="https://en.wikipedia.org/wiki/.properties">
@@ -1300,7 +1300,7 @@
    Slugify
   </a>
   <span>
-   &#9733 81, pushed 173 days ago
+   &#9733 81, pushed 174 days ago
   </span>
   - Creates a URL slug as you type a page title (like Django slugify()).
  </li>
@@ -1309,7 +1309,7 @@
    Readmore.js
   </a>
   <span>
-   &#9733 910, pushed 7 days ago
+   &#9733 910, pushed 8 days ago
   </span>
   - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
  </li>
@@ -1435,7 +1435,7 @@
    Mockjax
   </a>
   <span>
-   &#9733 1815, pushed 1 days ago
+   &#9733 1815, pushed 2 days ago
   </span>
   - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
  </li>
@@ -1488,7 +1488,7 @@
      symfony-collection
     </a>
     <span>
-     &#9733 56, pushed 68 days ago
+     &#9733 56, pushed 69 days ago
     </span>
     - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
    </li>
@@ -1639,7 +1639,7 @@
      emijrp/awesome-awesome
     </a>
     <span>
-     &#9733 537, pushed 117 days ago
+     &#9733 537, pushed 118 days ago
     </span>
     - Awesome lists
    </li>
@@ -1663,7 +1663,7 @@
      lists
     </a>
     <span>
-     &#9733 3765, pushed 1 days ago
+     &#9733 3765, pushed 2 days ago
     </span>
     - Awesome lists
    </li>
@@ -1674,7 +1674,7 @@
    awesome-javascript
   </a>
   <span>
-   &#9733 5882, pushed 3 days ago
+   &#9733 5882, pushed 4 days ago
   </span>
   - Awesome JavaScript list
  </li>
@@ -1683,7 +1683,7 @@
    awesome-javascript-books
   </a>
   <span>
-   &#9733 60, pushed 405 days ago
+   &#9733 60, pushed 406 days ago
   </span>
   - Awesome JavaScript books
  </li>

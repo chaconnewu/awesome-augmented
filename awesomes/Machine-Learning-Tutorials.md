@@ -240,7 +240,7 @@
    A curated list of awesome data visualization libraries and resources.
   </a>
   <span>
-   &#9733 431, pushed 10 days ago
+   &#9733 431, pushed 11 days ago
   </span>
  </li>
  <li>
@@ -248,7 +248,7 @@
    An awesome Data Science repository to learn and apply for real world problems
   </a>
   <span>
-   &#9733 2359, pushed 7 days ago
+   &#9733 2359, pushed 8 days ago
   </span>
  </li>
  <li>
@@ -316,7 +316,7 @@
    TheAnalyticsEdge edX Notes and Codes
   </a>
   <span>
-   &#9733 6, pushed 385 days ago
+   &#9733 6, pushed 386 days ago
   </span>
  </li>
 </ul>
@@ -362,7 +362,7 @@
    Awesome Artificial Intelligence (GitHub Repo)
   </a>
   <span>
-   &#9733 1518, pushed 26 days ago
+   &#9733 1518, pushed 27 days ago
   </span>
  </li>
  <li>
@@ -1079,7 +1079,7 @@ Performance Evaluation
    A curated list of awesome Deep Learning tutorials, projects and communities
   </a>
   <span>
-   &#9733 1922, pushed 7 days ago
+   &#9733 1922, pushed 8 days ago
   </span>
  </li>
  <li>
@@ -1669,7 +1669,7 @@ Performance Evaluation
    A curated list of speech and natural language processing resources
   </a>
   <span>
-   &#9733 1193, pushed 105 days ago
+   &#9733 1193, pushed 106 days ago
   </span>
  </li>
  <li>
@@ -2122,7 +2122,7 @@ Performance Evaluation
    Awesome Reinforcement Learning (GitHub)
   </a>
   <span>
-   &#9733 225, pushed 22 days ago
+   &#9733 225, pushed 23 days ago
   </span>
  </li>
  <li>

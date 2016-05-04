@@ -47,7 +47,7 @@
    material-colors
   </a>
   <span>
-   &#9733 105, pushed 46 days ago
+   &#9733 105, pushed 47 days ago
   </span>
   — Colors of Google's Material Design made available to coders.
  </li>
@@ -56,7 +56,7 @@
    material-color
   </a>
   <span>
-   &#9733 74, pushed 70 days ago
+   &#9733 74, pushed 71 days ago
   </span>
   — The colour palette, based on Google's Material Design, for use in your project.
  </li>
@@ -83,7 +83,7 @@
    Google-Material-Design-Font-Icon
   </a>
   <span>
-   &#9733 5, pushed 320 days ago
+   &#9733 5, pushed 321 days ago
   </span>
   — Font Icon based on Google Material Design Icon set.
  </li>
@@ -115,7 +115,7 @@
      material-design-hamburger
     </a>
     <span>
-     &#9733 86, pushed 450 days ago
+     &#9733 86, pushed 451 days ago
     </span>
     — Android's Material Design hamburger animation built in CSS.
    </li>
@@ -149,7 +149,7 @@
    SVG-Morpheus
   </a>
   <span>
-   &#9733 1988, pushed 123 days ago
+   &#9733 1988, pushed 124 days ago
   </span>
   — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
  </li>
@@ -167,7 +167,7 @@
    material-design-color-palette
   </a>
   <span>
-   &#9733 97, pushed 44 days ago
+   &#9733 97, pushed 45 days ago
   </span>
   — Material Design Color Palette: LESS/CSS toolkit.
  </li>
@@ -185,7 +185,7 @@
    md-date-time
   </a>
   <span>
-   &#9733 180, pushed 231 days ago
+   &#9733 180, pushed 232 days ago
   </span>
   — A Date-Time picker based on Googles Material Design Spec.
  </li>
@@ -217,7 +217,7 @@
    material-ui
   </a>
   <span>
-   &#9733 15878, pushed 1 days ago
+   &#9733 15878, pushed 2 days ago
   </span>
   — A CSS Framework and a Set of React Components that Implement Google's Material Design.
  </li>
@@ -235,7 +235,7 @@
    materialize
   </a>
   <span>
-   &#9733 18157, pushed 1 days ago
+   &#9733 18157, pushed 2 days ago
   </span>
   — Materialize, a CSS Framework based on Material Design.
  </li>
@@ -355,7 +355,7 @@
    materialwp
   </a>
   <span>
-   &#9733 271, pushed 26 days ago
+   &#9733 271, pushed 27 days ago
   </span>
   — Material Design WordPress Theme.
  </li>
@@ -382,7 +382,7 @@
    material-color-scheme
   </a>
   <span>
-   &#9733 63, pushed 116 days ago
+   &#9733 63, pushed 117 days ago
   </span>
   — Sublime Text syntax theme based off the Material Design color palette.
  </li>

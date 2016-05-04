@@ -115,7 +115,7 @@
    Reference guide
   </a>
   <span>
-   &#9733 89, pushed 17 days ago
+   &#9733 89, pushed 18 days ago
   </span>
   -
   <a href="http://dojotoolkit.org/reference-guide/1.10/">
@@ -192,7 +192,7 @@
    Dojo Boilerplate
   </a>
   <span>
-   &#9733 389, pushed 214 days ago
+   &#9733 389, pushed 215 days ago
   </span>
   - A starting boilerplate for developing with Dojo Toolkit
  </li>
@@ -210,7 +210,7 @@
    dojo.js
   </a>
   <span>
-   &#9733 15, pushed 491 days ago
+   &#9733 15, pushed 492 days ago
   </span>
   - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
  </li>
@@ -247,7 +247,7 @@
    delite
   </a>
   <span>
-   &#9733 76, pushed 14 days ago
+   &#9733 76, pushed 15 days ago
   </span>
   - HTML Custom Element / Widget infrastructure
  </li>
@@ -256,7 +256,7 @@
    deliteful
   </a>
   <span>
-   &#9733 71, pushed 14 days ago
+   &#9733 71, pushed 15 days ago
   </span>
   - Multichannel (desktop/mobile) UI Custom Elements Library
  </li>
@@ -271,7 +271,7 @@
    dojo-smore
   </a>
   <span>
-   &#9733 39, pushed 436 days ago
+   &#9733 39, pushed 437 days ago
   </span>
   - package with Dojo/Store implementation
  </li>
@@ -306,7 +306,7 @@
    grunt-dojo
   </a>
   <span>
-   &#9733 35, pushed 81 days ago
+   &#9733 35, pushed 82 days ago
   </span>
   - Build Dojo inside a Grunt task
  </li>
@@ -395,7 +395,7 @@
      Reactive Extensions
     </a>
     <span>
-     &#9733 6, pushed 616 days ago
+     &#9733 6, pushed 617 days ago
     </span>
     - Reactive Extensions bindings for the Dojo Toolkit
    </li>
@@ -497,7 +497,7 @@
      Dojo & Zend PHP framework
     </a>
     <span>
-     &#9733 10, pushed 1281 days ago
+     &#9733 10, pushed 1282 days ago
     </span>
     - integrating Dojo Toolkit with Zend Framework through DojoModule
    </li>
@@ -561,7 +561,7 @@
    dapi
   </a>
   <span>
-   &#9733 10, pushed 405 days ago
+   &#9733 10, pushed 406 days ago
   </span>
   - node.js Dojo API viewer
  </li>
@@ -570,7 +570,7 @@
    Dig Dug
   </a>
   <span>
-   &#9733 33, pushed 10 days ago
+   &#9733 33, pushed 11 days ago
   </span>
   - A JavaScript library for launching WebDriver service tunnels
  </li>
@@ -606,7 +606,7 @@
    js-doc-parse
   </a>
   <span>
-   &#9733 12, pushed 471 days ago
+   &#9733 12, pushed 472 days ago
   </span>
   - Library for parsing dojo JavaScript files and extracting inline documentation
  </li>
@@ -615,7 +615,7 @@
    rstwiki
   </a>
   <span>
-   &#9733 26, pushed 697 days ago
+   &#9733 26, pushed 698 days ago
   </span>
   - Simple reST/wiki system built with Python and Dojo Toolkit
  </li>
@@ -800,7 +800,7 @@
    awesome-javascript
   </a>
   <span>
-   &#9733 5882, pushed 3 days ago
+   &#9733 5882, pushed 4 days ago
   </span>
   - awesome JavaScript list
  </li>
@@ -809,7 +809,7 @@
    awesome-javascript-books
   </a>
   <span>
-   &#9733 60, pushed 405 days ago
+   &#9733 60, pushed 406 days ago
   </span>
   - awesome JavaScript books
  </li>
@@ -830,7 +830,7 @@
      awesome-awesome
     </a>
     <span>
-     &#9733 537, pushed 117 days ago
+     &#9733 537, pushed 118 days ago
     </span>
     - awesome list
    </li>
@@ -845,7 +845,7 @@
      lists
     </a>
     <span>
-     &#9733 3765, pushed 1 days ago
+     &#9733 3765, pushed 2 days ago
     </span>
     - awesome lists
    </li>

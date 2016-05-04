@@ -200,7 +200,7 @@
    Prose
   </a>
   <span>
-   &#9733 3206, pushed 3 days ago
+   &#9733 3206, pushed 4 days ago
   </span>
   - A beautifully simple content authoring environment for static websites.
  </li>
@@ -209,7 +209,7 @@
    Content Editor
   </a>
   <span>
-   &#9733 20, pushed 200 days ago
+   &#9733 20, pushed 201 days ago
   </span>
   - A web interface for editing documents on GitHub.
  </li>
@@ -325,7 +325,7 @@
    drjekyll
   </a>
   <span>
-   &#9733 29, pushed 246 days ago
+   &#9733 29, pushed 247 days ago
   </span>
   - The missing static site theme package manager.
  </li>
@@ -343,7 +343,7 @@
    (JBH) Jekyll Blog Helper
   </a>
   <span>
-   &#9733 10, pushed 173 days ago
+   &#9733 10, pushed 174 days ago
   </span>
   - A shell script to help manage a Jekyll blog site.
  </li>
@@ -352,7 +352,7 @@
    mrhyde
   </a>
   <span>
-   &#9733 8, pushed 246 days ago
+   &#9733 8, pushed 247 days ago
   </span>
   - Static site quick starter script wizard.
  </li>
@@ -361,7 +361,7 @@
    jtasks
   </a>
   <span>
-   &#9733 5, pushed 76 days ago
+   &#9733 5, pushed 77 days ago
   </span>
   - A set of configurable tasks for Jekyll projects.
  </li>
@@ -442,7 +442,7 @@
    Google Books
   </a>
   <span>
-   &#9733 1, pushed 375 days ago
+   &#9733 1, pushed 376 days ago
   </span>
   - Allows you to display the books in your Google Books Library.
  </li>

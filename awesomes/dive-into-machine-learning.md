@@ -1323,7 +1323,7 @@ data." Pedro Domingos, in
    GitHub repository
   </a>
   <span>
-   &#9733 1661, pushed 57 days ago
+   &#9733 1661, pushed 58 days ago
   </span>
   maintained by Sebastian Raschka, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
  </li>

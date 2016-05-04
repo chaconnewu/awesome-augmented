@@ -189,7 +189,7 @@
    Smali CFG generator
   </a>
   <span>
-   &#9733 33, pushed 667 days ago
+   &#9733 33, pushed 668 days ago
   </span>
  </li>
  <li>
@@ -275,7 +275,7 @@
    AndroBugs
   </a>
   <span>
-   &#9733 224, pushed 173 days ago
+   &#9733 224, pushed 174 days ago
   </span>
  </li>
 </ol>
@@ -424,7 +424,7 @@
    Android Linux Kernel modules
   </a>
   <span>
-   &#9733 54, pushed 599 days ago
+   &#9733 54, pushed 600 days ago
   </span>
   *
  </li>
@@ -439,7 +439,7 @@
    StaDynA
   </a>
   <span>
-   &#9733 2, pushed 400 days ago
+   &#9733 2, pushed 401 days ago
   </span>
   - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
  </li>
@@ -471,7 +471,7 @@
    Smali/Baksmali
   </a>
   <span>
-   &#9733 801, pushed 9 days ago
+   &#9733 801, pushed 10 days ago
   </span>
   – apk decompilation
  </li>
@@ -480,7 +480,7 @@
    emacs syntax coloring for smali files
   </a>
   <span>
-   &#9733 17, pushed 26 days ago
+   &#9733 17, pushed 27 days ago
   </span>
  </li>
  <li>
@@ -493,7 +493,7 @@
    AndBug
   </a>
   <span>
-   &#9733 289, pushed 568 days ago
+   &#9733 289, pushed 569 days ago
   </span>
  </li>
  <li>
@@ -642,7 +642,7 @@
    Redexer
   </a>
   <span>
-   &#9733 66, pushed 46 days ago
+   &#9733 66, pushed 47 days ago
   </span>
   – apk manipulation
  </li>
@@ -834,7 +834,7 @@ doc
    Google play crawler (Java)
   </a>
   <span>
-   &#9733 242, pushed 815 days ago
+   &#9733 242, pushed 816 days ago
   </span>
  </li>
  <li>
@@ -859,7 +859,7 @@ doc
    Aptoide downloader (Node)
   </a>
   <span>
-   &#9733 9, pushed 276 days ago
+   &#9733 9, pushed 277 days ago
   </span>
   - download apps from Aptoide third-party Android market
  </li>
@@ -868,7 +868,7 @@ doc
    Appland downloader (Node)
   </a>
   <span>
-   &#9733 3, pushed 278 days ago
+   &#9733 3, pushed 279 days ago
   </span>
   - download apps from Appland third-party Android market
  </li>
@@ -936,7 +936,7 @@ doc
    dockerfile/androguard
   </a>
   <span>
-   &#9733 18, pushed 57 days ago
+   &#9733 18, pushed 58 days ago
   </span>
  </li>
  <li>

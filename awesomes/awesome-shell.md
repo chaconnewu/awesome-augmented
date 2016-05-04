@@ -98,7 +98,7 @@
    ag
   </a>
   <span>
-   &#9733 8637, pushed 3 days ago
+   &#9733 8637, pushed 4 days ago
   </span>
   - Super fast string search through a directory hierarchy
  </li>
@@ -176,7 +176,7 @@
    commacd
   </a>
   <span>
-   &#9733 152, pushed 174 days ago
+   &#9733 152, pushed 175 days ago
   </span>
   - A faster way to move around in Bash
  </li>
@@ -212,7 +212,7 @@
    fasd
   </a>
   <span>
-   &#9733 2348, pushed 54 days ago
+   &#9733 2348, pushed 55 days ago
   </span>
   - Command-line productivity booster, offers quick access to files and directories
  </li>
@@ -230,7 +230,7 @@
    hhighlighter
   </a>
   <span>
-   &#9733 153, pushed 83 days ago
+   &#9733 153, pushed 84 days ago
   </span>
   - Colorize words in a command output
  </li>
@@ -270,7 +270,7 @@
    k alias
   </a>
   <span>
-   &#9733 3, pushed 83 days ago
+   &#9733 3, pushed 84 days ago
   </span>
   - get kool aliases (and more) working with a simple one-liner
  </li>
@@ -321,7 +321,7 @@
    SHML
   </a>
   <span>
-   &#9733 295, pushed 160 days ago
+   &#9733 295, pushed 161 days ago
   </span>
   - Style framework for the terminal (Shell Markup Language)
  </li>
@@ -348,7 +348,7 @@
    spark
   </a>
   <span>
-   &#9733 4382, pushed 2 days ago
+   &#9733 4382, pushed 3 days ago
   </span>
   - ▁▂▃▅▂▇ in your shell
  </li>
@@ -372,7 +372,7 @@
    spot
   </a>
   <span>
-   &#9733 555, pushed 261 days ago
+   &#9733 555, pushed 262 days ago
   </span>
   - Tiny file search utility
  </li>
@@ -390,7 +390,7 @@
    sshfs
   </a>
   <span>
-   &#9733 297, pushed 74 days ago
+   &#9733 297, pushed 75 days ago
   </span>
   - A tool for mounting remote file systems over SSH
  </li>
@@ -399,7 +399,7 @@
    sshrc
   </a>
   <span>
-   &#9733 3240, pushed 1 days ago
+   &#9733 3240, pushed 2 days ago
   </span>
   - Bring your .bashrc, .vimrc, etc. with you when you SSH
  </li>
@@ -408,7 +408,7 @@
    thefuck
   </a>
   <span>
-   &#9733 20095, pushed 2 days ago
+   &#9733 20095, pushed 3 days ago
   </span>
   - Fix common shell mistakes by using an easy to remember command
  </li>
@@ -432,7 +432,7 @@
    v
   </a>
   <span>
-   &#9733 232, pushed 229 days ago
+   &#9733 232, pushed 230 days ago
   </span>
   - z for vim.
  </li>
@@ -441,7 +441,7 @@
    wemux
   </a>
   <span>
-   &#9733 2392, pushed 60 days ago
+   &#9733 2392, pushed 61 days ago
   </span>
   - Multi-User Tmux Made Easy
  </li>
@@ -450,7 +450,7 @@
    z
   </a>
   <span>
-   &#9733 5465, pushed 9 days ago
+   &#9733 5465, pushed 10 days ago
   </span>
   - z is the new j, yo
  </li>
@@ -514,7 +514,7 @@
    bullet-train-oh-my-zsh-theme
   </a>
   <span>
-   &#9733 712, pushed 5 days ago
+   &#9733 712, pushed 6 days ago
   </span>
   - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
  </li>
@@ -565,7 +565,7 @@
    liquidprompt
   </a>
   <span>
-   &#9733 2238, pushed 1 days ago
+   &#9733 2238, pushed 2 days ago
   </span>
   - A full-featured & carefully designed adaptive prompt for Bash & Zsh
  </li>
@@ -583,7 +583,7 @@
    oh-my-git
   </a>
   <span>
-   &#9733 1999, pushed 3 days ago
+   &#9733 1999, pushed 4 days ago
   </span>
   - An opinionated git prompt for bash and zsh
  </li>
@@ -620,7 +620,7 @@
    cloc
   </a>
   <span>
-   &#9733 922, pushed 2 days ago
+   &#9733 922, pushed 3 days ago
   </span>
   - Count Lines of Code
  </li>
@@ -629,7 +629,7 @@
    dokku
   </a>
   <span>
-   &#9733 11549, pushed 3 days ago
+   &#9733 11549, pushed 4 days ago
   </span>
   - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
  </li>
@@ -662,7 +662,7 @@
    git-open
   </a>
   <span>
-   &#9733 466, pushed 173 days ago
+   &#9733 466, pushed 174 days ago
   </span>
   - Type
   <code>
@@ -711,7 +711,7 @@
    mr
   </a>
   <span>
-   &#9733 401, pushed 1 days ago
+   &#9733 401, pushed 2 days ago
   </span>
   - Multiple Repository management tool
  </li>
@@ -787,7 +787,7 @@
    glances
   </a>
   <span>
-   &#9733 4968, pushed 1 days ago
+   &#9733 4968, pushed 2 days ago
   </span>
   - Glances an Eye on your system
  </li>
@@ -860,7 +860,7 @@
    procdog
   </a>
   <span>
-   &#9733 35, pushed 285 days ago
+   &#9733 35, pushed 286 days ago
   </span>
   - Lightweight command-line control of long-lived processes like servers
  </li>
@@ -869,7 +869,7 @@
    quick-secure
   </a>
   <span>
-   &#9733 212, pushed 271 days ago
+   &#9733 212, pushed 272 days ago
   </span>
   - Quickly secure and harden UNIX/Linux systems
  </li>
@@ -903,7 +903,7 @@
    bashttpd
   </a>
   <span>
-   &#9733 612, pushed 383 days ago
+   &#9733 612, pushed 384 days ago
   </span>
   - A web server written in Bash
  </li>
@@ -948,7 +948,7 @@
    resty
   </a>
   <span>
-   &#9733 1885, pushed 22 days ago
+   &#9733 1885, pushed 23 days ago
   </span>
   - Little command line REST client that you can use in pipelines
  </li>
@@ -985,7 +985,7 @@
    Android-Kitchen
   </a>
   <span>
-   &#9733 678, pushed 307 days ago
+   &#9733 678, pushed 308 days ago
   </span>
   - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
  </li>
@@ -994,7 +994,7 @@
    Beets
   </a>
   <span>
-   &#9733 4666, pushed 1 days ago
+   &#9733 4666, pushed 2 days ago
   </span>
   - Music library manager and MusicBrainz tagger
  </li>
@@ -1012,7 +1012,7 @@
    image-scraper
   </a>
   <span>
-   &#9733 262, pushed 28 days ago
+   &#9733 262, pushed 29 days ago
   </span>
   - A cool command line image scraper with a lot of features.
  </li>
@@ -1021,7 +1021,7 @@
    jq
   </a>
   <span>
-   &#9733 6555, pushed 18 days ago
+   &#9733 6555, pushed 19 days ago
   </span>
   - Sed for json data. You can use it to slice and filter and map and transform structured data
  </li>
@@ -1036,7 +1036,7 @@
    PiCAST
   </a>
   <span>
-   &#9733 900, pushed 27 days ago
+   &#9733 900, pushed 28 days ago
   </span>
   - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
  </li>
@@ -1166,7 +1166,7 @@
    licen
   </a>
   <span>
-   &#9733 18, pushed 406 days ago
+   &#9733 18, pushed 407 days ago
   </span>
   - Generate your license. Yet another lice, but implement with Jinja2 and docopt
  </li>
@@ -1226,7 +1226,7 @@
    whereami
   </a>
   <span>
-   &#9733 13, pushed 58 days ago
+   &#9733 13, pushed 59 days ago
   </span>
   - Get your geolocation information from the CLI
  </li>
@@ -1269,7 +1269,7 @@
    sed-scripts
   </a>
   <span>
-   &#9733 11, pushed 1175 days ago
+   &#9733 11, pushed 1176 days ago
   </span>
   - Arkanoid and Sokoban written using sed
  </li>
@@ -1288,7 +1288,7 @@
    bash-it
   </a>
   <span>
-   &#9733 4477, pushed 3 days ago
+   &#9733 4477, pushed 4 days ago
   </span>
   - A community Bash framework
  </li>
@@ -1297,7 +1297,7 @@
    basher
   </a>
   <span>
-   &#9733 161, pushed 13 days ago
+   &#9733 161, pushed 14 days ago
   </span>
   - A package manager for shell scripts
  </li>
@@ -1330,7 +1330,7 @@
    homeshick
   </a>
   <span>
-   &#9733 874, pushed 190 days ago
+   &#9733 874, pushed 191 days ago
   </span>
   - Git dotfile synchronizer written in Bash
  </li>
@@ -1339,7 +1339,7 @@
    vcsh
   </a>
   <span>
-   &#9733 1092, pushed 37 days ago
+   &#9733 1092, pushed 38 days ago
   </span>
   - Config manager based on Git
  </li>
@@ -1358,7 +1358,7 @@
    ansi
   </a>
   <span>
-   &#9733 55, pushed 82 days ago
+   &#9733 55, pushed 83 days ago
   </span>
   - ANSI escape codes in pure bash - change text color, position the cursor, much more
  </li>
@@ -1367,7 +1367,7 @@
    assert.sh
   </a>
   <span>
-   &#9733 214, pushed 269 days ago
+   &#9733 214, pushed 270 days ago
   </span>
   - Bash unit testing framework
  </li>
@@ -1376,7 +1376,7 @@
    bashful
   </a>
   <span>
-   &#9733 270, pushed 29 days ago
+   &#9733 270, pushed 30 days ago
   </span>
   - A collection of libraries to simplify writing Bash scripts
  </li>
@@ -1385,7 +1385,7 @@
    bashmanager
   </a>
   <span>
-   &#9733 14, pushed 65 days ago
+   &#9733 14, pushed 66 days ago
   </span>
   - mini bash framework for creating command line tools
  </li>
@@ -1424,7 +1424,7 @@
    is.sh
   </a>
   <span>
-   &#9733 7, pushed 25 days ago
+   &#9733 7, pushed 26 days ago
   </span>
   - An alternative for builtin test command, it will make your "if" statements pretty
  </li>
@@ -1442,7 +1442,7 @@
    rerun
   </a>
   <span>
-   &#9733 248, pushed 39 days ago
+   &#9733 248, pushed 40 days ago
   </span>
   - A modular shell automation framework to organize your keeper scripts
  </li>
@@ -1460,7 +1460,7 @@
    shellcheck
   </a>
   <span>
-   &#9733 3767, pushed 2 days ago
+   &#9733 3767, pushed 3 days ago
   </span>
   - Static analysis tool for shell scripts
  </li>
@@ -1478,7 +1478,7 @@
    sub
   </a>
   <span>
-   &#9733 1245, pushed 1242 days ago
+   &#9733 1245, pushed 1243 days ago
   </span>
   - A delicious way to organize programs
  </li>
@@ -1558,7 +1558,7 @@ Specifically
    The Art of Command Line
   </a>
   <span>
-   &#9733 26355, pushed 13 days ago
+   &#9733 26355, pushed 14 days ago
   </span>
  </li>
  <li>

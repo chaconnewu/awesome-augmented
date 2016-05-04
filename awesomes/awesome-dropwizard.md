@@ -88,7 +88,7 @@
    dropwizard-mongo
   </a>
   <span>
-   &#9733 18, pushed 351 days ago
+   &#9733 18, pushed 352 days ago
   </span>
   - Factories and health checks for connecting to mongoDB.
  </li>
@@ -124,7 +124,7 @@
    dropwizard-template-config
   </a>
   <span>
-   &#9733 29, pushed 2 days ago
+   &#9733 29, pushed 3 days ago
   </span>
   - enables you to write your config.yaml as a Freemarker template.
  </li>
@@ -160,7 +160,7 @@
    dropwizard-etcd
   </a>
   <span>
-   &#9733 3, pushed 105 days ago
+   &#9733 3, pushed 106 days ago
   </span>
   - A Dropwizard Bundle for Etcd
  </li>

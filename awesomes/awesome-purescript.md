@@ -54,7 +54,7 @@
    purs-loader
   </a>
   <span>
-   &#9733 31, pushed 23 days ago
+   &#9733 31, pushed 24 days ago
   </span>
   for webpack
  </li>
@@ -77,7 +77,7 @@
    purescript-preface
   </a>
   <span>
-   &#9733 10, pushed 248 days ago
+   &#9733 10, pushed 249 days ago
   </span>
   - A simpler alternative to the Prelude.
  </li>
@@ -122,7 +122,7 @@
    purescript-react-simple
   </a>
   <span>
-   &#9733 2, pushed 433 days ago
+   &#9733 2, pushed 434 days ago
   </span>
   - A simplified wrapper around react.
  </li>
@@ -149,7 +149,7 @@
    purescript-flare
   </a>
   <span>
-   &#9733 108, pushed 83 days ago
+   &#9733 108, pushed 84 days ago
   </span>
   - Applicative-style reactive user interfaces built on top of purescript-signal.
  </li>
@@ -186,7 +186,7 @@
    purescript-test-unit
   </a>
   <span>
-   &#9733 23, pushed 8 days ago
+   &#9733 23, pushed 9 days ago
   </span>
   - An asynchronous unit test runner for PureScript.
  </li>
@@ -195,7 +195,7 @@
    purescript-quickcheck
   </a>
   <span>
-   &#9733 23, pushed 36 days ago
+   &#9733 23, pushed 37 days ago
   </span>
   - An implementation of QuickCheck in PureScript.
  </li>
@@ -204,7 +204,7 @@
    purescript-quickcheck-laws
   </a>
   <span>
-   &#9733 2, pushed 91 days ago
+   &#9733 2, pushed 92 days ago
   </span>
   - Law tests for core classes.
  </li>
@@ -213,7 +213,7 @@
    purescript-benchotron
   </a>
   <span>
-   &#9733 6, pushed 115 days ago
+   &#9733 6, pushed 116 days ago
   </span>
   - Straightforward benchmarking for PureScript/JavaScript.
  </li>

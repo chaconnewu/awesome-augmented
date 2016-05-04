@@ -783,7 +783,7 @@
    andreis/interview
   </a>
   <span>
-   &#9733 2985, pushed 69 days ago
+   &#9733 2985, pushed 70 days ago
   </span>
   - Everything you need to kick ass on your coding interview
  </li>
@@ -1510,7 +1510,7 @@
    ##remotes
   </a>
   <span>
-   &#9733 8, pushed 543 days ago
+   &#9733 8, pushed 544 days ago
   </span>
   - IRC channel (
   <a href="http://webchat.freenode.net/?channels=##remotes">

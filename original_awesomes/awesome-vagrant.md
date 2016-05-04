@@ -1,104 +1,432 @@
-# Awesome Vagrant
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
-
-A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
-
-
-## Official resources
-
-* [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
-* [Otto Project](https://www.ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
-
-
-## Boxes
-
-*Where to find OS boxes ?*
-
-* [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
-* [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
-* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
-* [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
-
-
-## Provisioning
-
-* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning/index.html) - official doc.
-* [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts.
-
-
-## Notable plugins
-
-*You can install these modules by this command `vagrant plugin install MODULE-NAME`*
-
-* [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins).
-* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
-* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
-* [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
-* [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
-* [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
-* [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
-
-
-## Helpers / Tools
-
-* [Packer](https://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
-* [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
-
-## Desktop tools
-
-* [Vagrant Manager](http://vagrantmanager.com/) for OS X.
-
-## Web services
-
-*To generate Vagrantfile with automated provisioning scripts.*
-
-* [Phansible](http://phansible.com/) - provides an easy to use interface that helps you generate Ansible Playbooks for PHP based projects.
-* [PuPHPet](https://puphpet.com/) - a simple GUI to set up virtual machines for <s>PHP</s> Web development.
-* [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
-* [Rove](http://rove.io/) - a service that allows you to pregenerate typical Vagrant builds.
-
-## Proxy services
-
-*To proxy your local web server and make it publicly available over the internet.*
-
-* [Vagrant share](https://www.vagrantup.com/docs/share/) - allows you to share your Vagrant environment with anyone in the world.
-* [xip.io](http://xip.io) - a magic domain name that provides wildcard DNS
+<h1>
+ Awesome Vagrant
+</h1>
+<p>
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+ <a href="https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+  <img alt="Gitter" src="https://badges.gitter.im/Join%20Chat.svg"/>
+ </a>
+ <a href="https://travis-ci.org/iJackUA/awesome-vagrant">
+  <img alt="Build Status" src="https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master"/>
+ </a>
+</p>
+<p>
+ A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
+</p>
+<h2>
+ Official resources
+</h2>
+<ul>
+ <li>
+  <a href="https://www.vagrantup.com/">
+   Vagrant site
+  </a>
+  - installation instruction, official manuals and docs.
+ </li>
+ <li>
+  <a href="https://github.com/mitchellh/vagrant">
+   GitHub repo
+  </a>
+  - source code, issues discussion and collaboration.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 11932, pushed 3 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://www.ottoproject.io/">
+   Otto Project
+  </a>
+  - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
+ </li>
+</ul>
+<h2>
+ Boxes
+</h2>
+<p>
+ <em>
+  Where to find OS boxes ?
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://www.vagrantbox.es/">
+   Vagrantbox.es
+  </a>
+  - the biggest list of all available boxes, maintained by community via GitHub pull requests.
+ </li>
+ <li>
+  <a href="https://atlas.hashicorp.com/boxes/search">
+   Vagrant Cloud
+  </a>
+  - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
+ </li>
+ <li>
+  <a href="https://cloud-images.ubuntu.com/vagrant/">
+   Cloud Images Ubuntu.com
+  </a>
+  - "clean" official Ubuntu cloud images.
+ </li>
+ <li>
+  <a href="https://github.com/chef/bento#current-baseboxes">
+   Baseboxes from Opscode
+  </a>
+  - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+ </li>
+ <li>
+  <a href="http://puppet-vagrant-boxes.puppetlabs.com/">
+   Puppet Labs Vagrant Boxes
+  </a>
+  - these boxes are provided to be used by various Puppet projects.
+ </li>
+</ul>
+<h2>
+ Provisioning
+</h2>
+<ul>
+ <li>
+  <a href="https://www.vagrantup.com/docs/provisioning/index.html">
+   All available build in provisioning providers
+  </a>
+  - official doc.
+ </li>
+ <li>
+  <a href="http://fideloper.github.io/Vaprobash/index.html">
+   Vaprobash
+  </a>
+  - Vagrant Provisioning Bash Scripts.
+ </li>
+</ul>
+<h2>
+ Notable plugins
+</h2>
+<p>
+ <em>
+  You can install these modules by this command
+  <code>
+   vagrant plugin install MODULE-NAME
+  </code>
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins">
+   List of available Vagrant plugins from GitHub wiki
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/dotless-de/vagrant-vbguest">
+   vagrant-vbguest
+  </a>
+  - autoupdate VirtualBox guest additions (according to VB version).
+  <sup>
+   14 GitHub links in total 46 links, &#9733 1705, pushed 39 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cogitatio/vagrant-hostsupdater">
+   vagrant-hostsupdater
+  </a>
+  - adds an entry to your /etc/hosts file on the host system.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 717, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://fgrehm.viewdocs.io/vagrant-cachier/">
+   vagrant-cachier
+  </a>
+  - share a common package (apt-get, npm, etc.) cache among similar VM instances.
+ </li>
+ <li>
+  <a href="https://github.com/phinze/vagrant-host-shell">
+   vagrant-host-shell
+  </a>
+  - a vagrant provisioner to run commands on the host when a VM boots.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 76, pushed 161 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jaugustin/vagrant-ansible-local">
+   vagrant-ansible-local
+  </a>
+  allow provisioning your VM with ansible playbooks directly from the guest VM.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 57, pushed 460 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jedi4ever/sahara">
+   sahara
+  </a>
+  - easy manage VM state (commit/rollback while experimenting with software stack).
+  <sup>
+   14 GitHub links in total 46 links, &#9733 663, pushed 177 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Helpers / Tools
+</h2>
+<ul>
+ <li>
+  <a href="https://www.packer.io/">
+   Packer
+  </a>
+  - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
+ </li>
+ <li>
+  <a href="https://github.com/jedi4ever/veewee">
+   Veewee
+  </a>
+  - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 3909, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant">
+   Vagrant plugin for ZSH shell
+  </a>
+  - auto-complete for commands, task names, box names and built-in documentation.
+ </li>
+</ul>
+<h2>
+ Desktop tools
+</h2>
+<ul>
+ <li>
+  <a href="http://vagrantmanager.com/">
+   Vagrant Manager
+  </a>
+  for OS X.
+ </li>
+</ul>
+<h2>
+ Web services
+</h2>
+<p>
+ <em>
+  To generate Vagrantfile with automated provisioning scripts.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://phansible.com/">
+   Phansible
+  </a>
+  - provides an easy to use interface that helps you generate Ansible Playbooks for PHP based projects.
+ </li>
+ <li>
+  <a href="https://puphpet.com/">
+   PuPHPet
+  </a>
+  - a simple GUI to set up virtual machines for
+  <s>
+   PHP
+  </s>
+  Web development.
+ </li>
+ <li>
+  <a href="http://getprotobox.com/">
+   Protobox
+  </a>
+  - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
+ </li>
+ <li>
+  <a href="http://rove.io/">
+   Rove
+  </a>
+  - a service that allows you to pregenerate typical Vagrant builds.
+ </li>
+</ul>
+<h2>
+ Proxy services
+</h2>
+<p>
+ <em>
+  To proxy your local web server and make it publicly available over the internet.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://www.vagrantup.com/docs/share/">
+   Vagrant share
+  </a>
+  - allows you to share your Vagrant environment with anyone in the world.
+ </li>
+ <li>
+  <a href="http://xip.io">
+   xip.io
+  </a>
+  - a magic domain name that provides wildcard DNS
 for any IP address.
-* [ngrok](https://ngrok.com/) - tool to create secure tunnels to expose a local server behind a NAT or firewall to the internet.
-* [proxylocal.com](http://proxylocal.com) - proxy your local web-server and make it publicly available over the internet.
-* [localtunnel.me](http://localtunnel.me) - assign you a unique publicly accessible url that will proxy all requests to your locally running webserver.
-
-## Tutorials
-
-* [Getting Started With Vagrant](http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/) by This Programming Thing.
-* [Getting started with Vagrant - automated dev servers deploy and provisioning.](http://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning)
-* [Working with Advanced Vagrant features in PhpStorm.](http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm)
-* [Sharing Your Virtual Machine on the Web with Vagrant Share](https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share).
-
-## Books
-
-* [Vagrant: Up and Running](http://www.amazon.com/gp/product/1449335837) by Mitchell Hashimoto.
-* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
-
-## Popular readymade environments
-
-* [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
-* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
-* [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
-* [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
-* [Drupal VM](http://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
-* [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
-* [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
-* [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
-* [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waived all copyright and related or neighboring rights to this work.
+ </li>
+ <li>
+  <a href="https://ngrok.com/">
+   ngrok
+  </a>
+  - tool to create secure tunnels to expose a local server behind a NAT or firewall to the internet.
+ </li>
+ <li>
+  <a href="http://proxylocal.com">
+   proxylocal.com
+  </a>
+  - proxy your local web-server and make it publicly available over the internet.
+ </li>
+ <li>
+  <a href="http://localtunnel.me">
+   localtunnel.me
+  </a>
+  - assign you a unique publicly accessible url that will proxy all requests to your locally running webserver.
+ </li>
+</ul>
+<h2>
+ Tutorials
+</h2>
+<ul>
+ <li>
+  <a href="http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/">
+   Getting Started With Vagrant
+  </a>
+  by This Programming Thing.
+ </li>
+ <li>
+  <a href="http://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning">
+   Getting started with Vagrant - automated dev servers deploy and provisioning.
+  </a>
+ </li>
+ <li>
+  <a href="http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm">
+   Working with Advanced Vagrant features in PhpStorm.
+  </a>
+ </li>
+ <li>
+  <a href="https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share">
+   Sharing Your Virtual Machine on the Web with Vagrant Share
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ Books
+</h2>
+<ul>
+ <li>
+  <a href="http://www.amazon.com/gp/product/1449335837">
+   Vagrant: Up and Running
+  </a>
+  by Mitchell Hashimoto.
+ </li>
+ <li>
+  <a href="https://leanpub.com/vagrantcookbook">
+   Vagrant CookBook
+  </a>
+  by Erika Heidi.
+ </li>
+</ul>
+<h2>
+ Popular readymade environments
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/vagrantpress/vagrantpress">
+   Vagrantpress
+  </a>
+  - development environment for creating and modifying WordPress sites.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 729, pushed 60 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Varying-Vagrant-Vagrants/VVV">
+   Varying Vagrant Vagrants
+  </a>
+  - An open source Vagrant configuration focused on WordPress development.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 3015, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joomlatools/joomlatools-vagrant">
+   Joomla-Vagrant
+  </a>
+  .
+  <sup>
+   14 GitHub links in total 46 links, &#9733 106, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://www.drupal.org/project/vdd">
+   VDD
+  </a>
+  - Vagrant Drupal Development.
+ </li>
+ <li>
+  <a href="http://www.drupalvm.com/">
+   Drupal VM
+  </a>
+  - A VM for local Drupal development, built with Vagrant + Ansible
+ </li>
+ <li>
+  <a href="https://github.com/iJackUA/try-yii2">
+   Try Yii2
+  </a>
+  - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 39, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bryannielsen/Laravel4-Vagrant">
+   Laravel4-Vagrant
+  </a>
+  - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
+  <sup>
+   14 GitHub links in total 46 links, &#9733 532, pushed 349 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/openstack-ansible/openstack-ansible">
+   OpenStack on Ansible with Vagrant
+  </a>
+  .
+  <sup>
+   14 GitHub links in total 46 links, &#9733 203, pushed 189 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://laravel.com/docs/master/homestead">
+   Laravel Homestead
+  </a>
+  - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
+ </li>
+ <li>
+  <a href="https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved">
+   Scotch Box
+  </a>
+  - Simple Vagrant Box with
+  <a href="https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29">
+   LAMP
+  </a>
+  stack, plus some useful extras, based on Ubuntu 14.04 LTS.
+ </li>
+</ul>
+<h2>
+ License
+</h2>
+<p>
+ <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ To the extent possible under law,
+ <a href="http://stdout.in/">
+  Ievgen Kuzminov
+ </a>
+ has waived all copyright and related or neighboring rights to this work.
+</p>

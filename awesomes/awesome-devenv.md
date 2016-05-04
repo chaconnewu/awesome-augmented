@@ -201,7 +201,7 @@
    phantomas
   </a>
   <span>
-   &#9733 1639, pushed 25 days ago
+   &#9733 1639, pushed 26 days ago
   </span>
   - website perf evaluation tool
  </li>
@@ -215,7 +215,7 @@
    Vegeta
   </a>
   <span>
-   &#9733 3779, pushed 2 days ago
+   &#9733 3779, pushed 3 days ago
   </span>
  </li>
  <li>
@@ -266,7 +266,7 @@
    glances
   </a>
   <span>
-   &#9733 4968, pushed 1 days ago
+   &#9733 4968, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -337,7 +337,7 @@ presenting/casting
    Mathias Bynens's
   </a>
   <span>
-   &#9733 14120, pushed 5 days ago
+   &#9733 14120, pushed 6 days ago
   </span>
   - .files, including ~/.osx — sensible hacker defaults for OS X
  </li>
@@ -383,7 +383,7 @@ presenting/casting
    snipmate
   </a>
   <span>
-   &#9733 1301, pushed 13 days ago
+   &#9733 1301, pushed 14 days ago
   </span>
   - textual snippets compatiable with Textmate snippets.
  </li>
@@ -403,7 +403,7 @@ presenting/casting
    AdvancedNewFile
   </a>
   <span>
-   &#9733 542, pushed 164 days ago
+   &#9733 542, pushed 165 days ago
   </span>
   - File creation plugin.
  </li>
@@ -420,7 +420,7 @@ presenting/casting
    Git Gutter
   </a>
   <span>
-   &#9733 3098, pushed 0 days ago
+   &#9733 3098, pushed 1 days ago
   </span>
   - display changed/added lines in the margin of the editor window.
  </li>
@@ -531,7 +531,7 @@ presenting/casting
    gh
   </a>
   <span>
-   &#9733 743, pushed 415 days ago
+   &#9733 743, pushed 416 days ago
   </span>
   - Fast GitHub command line client (hub port to Go)
  </li>
@@ -655,7 +655,7 @@ presenting/casting
    vimdeck
   </a>
   <span>
-   &#9733 939, pushed 132 days ago
+   &#9733 939, pushed 133 days ago
   </span>
   - present inside your Vim
  </li>
@@ -674,7 +674,7 @@ presenting/casting
    awesome-zsh-plugins
   </a>
   <span>
-   &#9733 1464, pushed 2 days ago
+   &#9733 1464, pushed 3 days ago
   </span>
   - List of zsh plugins usable with
   <a href="https://github.com/tarjoilija/zgen">
@@ -730,7 +730,7 @@ presenting/casting
    shellcheck
   </a>
   <span>
-   &#9733 3767, pushed 2 days ago
+   &#9733 3767, pushed 3 days ago
   </span>
   - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
  </li>
@@ -739,7 +739,7 @@ presenting/casting
    zsh quickstart kit
   </a>
   <span>
-   &#9733 49, pushed 77 days ago
+   &#9733 49, pushed 78 days ago
   </span>
   - Quick intro for getting set up with zsh and zgen
  </li>
@@ -768,7 +768,7 @@ better-than-grep tool.
    ag
   </a>
   <span>
-   &#9733 8637, pushed 3 days ago
+   &#9733 8637, pushed 4 days ago
   </span>
   - A C based code-searching tool similar to ack, but faster
  </li>
@@ -812,7 +812,7 @@ to
    fasd
   </a>
   <span>
-   &#9733 2348, pushed 54 days ago
+   &#9733 2348, pushed 55 days ago
   </span>
   Command-line productivity booster, offers quick access to files and directories.
  </li>
@@ -929,7 +929,7 @@ will emit FS events and you can run commands on demand with. Note -
    watchman
   </a>
   <span>
-   &#9733 4033, pushed 14 days ago
+   &#9733 4033, pushed 15 days ago
   </span>
   - Facebook's better
   <code>

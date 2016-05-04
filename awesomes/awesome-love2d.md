@@ -186,7 +186,7 @@
    Jumper
   </a>
   <span>
-   &#9733 312, pushed 34 days ago
+   &#9733 312, pushed 35 days ago
   </span>
   - Grid-based pathfinding library
  </li>
@@ -214,7 +214,7 @@
    chiro
   </a>
   <span>
-   &#9733 4, pushed 129 days ago
+   &#9733 4, pushed 130 days ago
   </span>
   - Convenience wrapper around
   <a href="http://esotericsoftware.com">
@@ -226,7 +226,7 @@
    skeletor
   </a>
   <span>
-   &#9733 4, pushed 224 days ago
+   &#9733 4, pushed 225 days ago
   </span>
   - 2D skeletal animation system
  </li>
@@ -235,7 +235,7 @@
    Sodapop
   </a>
   <span>
-   &#9733 8, pushed 72 days ago
+   &#9733 8, pushed 73 days ago
   </span>
   - Sprite and animation library
  </li>
@@ -281,7 +281,7 @@
    gamera
   </a>
   <span>
-   &#9733 65, pushed 284 days ago
+   &#9733 65, pushed 285 days ago
   </span>
   - Camera system
  </li>
@@ -342,7 +342,7 @@
    Lovecat
   </a>
   <span>
-   &#9733 11, pushed 230 days ago
+   &#9733 11, pushed 231 days ago
   </span>
   - Edit your game parameters in a browser and see the changes in the running game in real time
  </li>
@@ -360,7 +360,7 @@
    lurker
   </a>
   <span>
-   &#9733 66, pushed 425 days ago
+   &#9733 66, pushed 426 days ago
   </span>
   - Auto-swaps changed Lua files in a running game
  </li>
@@ -506,7 +506,7 @@
    lue
   </a>
   <span>
-   &#9733 4, pushed 2 days ago
+   &#9733 4, pushed 3 days ago
   </span>
   - lue is a LÖVE library that allows you to display hue color effects in your game.
  </li>
@@ -521,7 +521,7 @@
    shack
   </a>
   <span>
-   &#9733 3, pushed 2 days ago
+   &#9733 3, pushed 3 days ago
   </span>
   - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation.
  </li>
@@ -530,7 +530,7 @@
    Simple Tiled Implementation
   </a>
   <span>
-   &#9733 175, pushed 1 days ago
+   &#9733 175, pushed 2 days ago
   </span>
   - Tiled map loader and renderer
  </li>
@@ -539,7 +539,7 @@
    Vivid
   </a>
   <span>
-   &#9733 25, pushed 272 days ago
+   &#9733 25, pushed 273 days ago
   </span>
   - Color math, manipulation and conversion library.
  </li>
@@ -558,7 +558,7 @@
    boipushy
   </a>
   <span>
-   &#9733 31, pushed 217 days ago
+   &#9733 31, pushed 218 days ago
   </span>
   - A simple and easy to use input handler
  </li>
@@ -654,7 +654,7 @@
    NoobHub
   </a>
   <span>
-   &#9733 122, pushed 203 days ago
+   &#9733 122, pushed 204 days ago
   </span>
   - OpenSource multiplayer and network messaging
  </li>
@@ -678,7 +678,7 @@
    30log
   </a>
   <span>
-   &#9733 174, pushed 57 days ago
+   &#9733 174, pushed 58 days ago
   </span>
   - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
  </li>
@@ -807,7 +807,7 @@
    cdata
   </a>
   <span>
-   &#9733 12, pushed 262 days ago
+   &#9733 12, pushed 263 days ago
   </span>
   - Serialize between Lua data and C data using LuaJIT's FFI
  </li>
@@ -914,7 +914,7 @@
    Luassert
   </a>
   <span>
-   &#9733 35, pushed 3 days ago
+   &#9733 35, pushed 4 days ago
   </span>
   - Extends
   <code>
@@ -937,7 +937,7 @@
    Lunatest
   </a>
   <span>
-   &#9733 58, pushed 318 days ago
+   &#9733 58, pushed 319 days ago
   </span>
   - xUnit-style randomized unit testing framework
  </li>
@@ -946,7 +946,7 @@
    lust
   </a>
   <span>
-   &#9733 5, pushed 106 days ago
+   &#9733 5, pushed 107 days ago
   </span>
   - Minimal test framework
  </li>
@@ -1022,7 +1022,7 @@
    tween.lua
   </a>
   <span>
-   &#9733 195, pushed 40 days ago
+   &#9733 195, pushed 41 days ago
   </span>
   - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
  </li>
@@ -1077,7 +1077,7 @@
    Gspöt
   </a>
   <span>
-   &#9733 2, pushed 17 days ago
+   &#9733 2, pushed 18 days ago
   </span>
   - a stateful GUI lib for LÖVE
  </li>
@@ -1086,7 +1086,7 @@
    SUIT
   </a>
   <span>
-   &#9733 113, pushed 15 days ago
+   &#9733 113, pushed 16 days ago
   </span>
   - small immediate mode GUI library
  </li>
@@ -1105,7 +1105,7 @@
    cargo
   </a>
   <span>
-   &#9733 19, pushed 129 days ago
+   &#9733 19, pushed 130 days ago
   </span>
   - Asset manager
  </li>
@@ -1165,7 +1165,7 @@
    splashy
   </a>
   <span>
-   &#9733 6, pushed 227 days ago
+   &#9733 6, pushed 228 days ago
   </span>
   - Splash Screen Library
  </li>
@@ -1174,7 +1174,7 @@
    Talkback
   </a>
   <span>
-   &#9733 4, pushed 19 days ago
+   &#9733 4, pushed 20 days ago
   </span>
   - Observer pattern library with two-way communication.
  </li>
@@ -1183,7 +1183,7 @@
    tick
   </a>
   <span>
-   &#9733 6, pushed 129 days ago
+   &#9733 6, pushed 130 days ago
   </span>
   - Useful timing tweaks for LÖVE's run loop.
  </li>
@@ -1216,7 +1216,7 @@
    awesome-love-shaders
   </a>
   <span>
-   &#9733 10, pushed 202 days ago
+   &#9733 10, pushed 203 days ago
   </span>
   - A collection of shaders designed to work in LÖVE.
  </li>

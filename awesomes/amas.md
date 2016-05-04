@@ -51,7 +51,7 @@
    Stephen Sawchuk
   </a>
   <span>
-   &#9733 13, pushed 306 days ago
+   &#9733 13, pushed 307 days ago
   </span>
   - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
  </li>
@@ -84,7 +84,7 @@
    Kent C. Dodds
   </a>
   <span>
-   &#9733 50, pushed 284 days ago
+   &#9733 50, pushed 285 days ago
   </span>
   - JavaScript dev, open source contributor, community builder, and speaker.
  </li>
@@ -93,7 +93,7 @@
    Hugh Kennedy
   </a>
   <span>
-   &#9733 9, pushed 300 days ago
+   &#9733 9, pushed 301 days ago
   </span>
   - Web/graphics programmer, maintainer of glslify, stack.gl and far too many npm packages.
  </li>
@@ -102,7 +102,7 @@
    Simon Boudrias
   </a>
   <span>
-   &#9733 1, pushed 300 days ago
+   &#9733 1, pushed 301 days ago
   </span>
   - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
  </li>
@@ -111,7 +111,7 @@
    Reza Akhavan
   </a>
   <span>
-   &#9733 3, pushed 300 days ago
+   &#9733 3, pushed 301 days ago
   </span>
   - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
  </li>
@@ -174,7 +174,7 @@
    Darrin Henein
   </a>
   <span>
-   &#9733 5, pushed 299 days ago
+   &#9733 5, pushed 300 days ago
   </span>
   - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
  </li>
@@ -232,7 +232,7 @@
    Darcy Clarke
   </a>
   <span>
-   &#9733 2, pushed 292 days ago
+   &#9733 2, pushed 293 days ago
   </span>
   - Developer, Designer, Founder, Mentor & Speaker.
  </li>
@@ -481,7 +481,7 @@
    Lauri Tervonen
   </a>
   <span>
-   &#9733 0, pushed 288 days ago
+   &#9733 0, pushed 289 days ago
   </span>
   - CS & SE university student in Finland.
  </li>
@@ -508,7 +508,7 @@
    Trent Oswald
   </a>
   <span>
-   &#9733 1, pushed 283 days ago
+   &#9733 1, pushed 284 days ago
   </span>
   - Maker of web things
   <a href="http://mashape.com">
@@ -534,7 +534,7 @@
    Chris Missal
   </a>
   <span>
-   &#9733 1, pushed 285 days ago
+   &#9733 1, pushed 286 days ago
   </span>
   - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
  </li>
@@ -562,7 +562,7 @@
    Honza Bittner
   </a>
   <span>
-   &#9733 1, pushed 123 days ago
+   &#9733 1, pushed 124 days ago
   </span>
   - Developer at
   <a href="http://nottelo.com">
@@ -672,7 +672,7 @@
    Kayla Daniels
   </a>
   <span>
-   &#9733 5, pushed 238 days ago
+   &#9733 5, pushed 239 days ago
   </span>
   - Sr Software Engineer at
   <a href="http://refinery29.com">
@@ -893,7 +893,7 @@
    Vadim Demedes
   </a>
   <span>
-   &#9733 2, pushed 184 days ago
+   &#9733 2, pushed 185 days ago
   </span>
   - Node.js addict.
  </li>
@@ -960,7 +960,7 @@
    Anthony Ramella
   </a>
   <span>
-   &#9733 1, pushed 171 days ago
+   &#9733 1, pushed 172 days ago
   </span>
   - I went from zero to hired web developer in 5 months. I
   <a href="http://anthonyramella.com">
@@ -1143,7 +1143,7 @@
    Tibor Simon
   </a>
   <span>
-   &#9733 0, pushed 32 days ago
+   &#9733 0, pushed 33 days ago
   </span>
   - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner,
   <a href="https://tiborsimon.io">
@@ -1156,7 +1156,7 @@
    Danilo Vaz
   </a>
   <span>
-   &#9733 1, pushed 177 days ago
+   &#9733 1, pushed 178 days ago
   </span>
   - Front-end developer (Brazilian), working at
   <a href="https://www.mlabs.com.br/">

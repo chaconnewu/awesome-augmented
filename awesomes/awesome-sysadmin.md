@@ -426,7 +426,7 @@
    Elkarbackup
   </a>
   <span>
-   &#9733 39, pushed 2 days ago
+   &#9733 39, pushed 3 days ago
   </span>
   - Backup solution based on RSnapshot with a simple web interface
  </li>
@@ -474,7 +474,7 @@
    DREBS
   </a>
   <span>
-   &#9733 29, pushed 543 days ago
+   &#9733 29, pushed 544 days ago
   </span>
   - AWS EBS backup script that supports strategies.
  </li>
@@ -558,7 +558,7 @@
    Lazlo
   </a>
   <span>
-   &#9733 55, pushed 80 days ago
+   &#9733 55, pushed 81 days ago
   </span>
   - A chatops automation framework in Go.
  </li>
@@ -962,7 +962,7 @@
    Clusto
   </a>
   <span>
-   &#9733 140, pushed 146 days ago
+   &#9733 140, pushed 147 days ago
   </span>
   - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
  </li>
@@ -1459,7 +1459,7 @@
    jotgit
   </a>
   <span>
-   &#9733 141, pushed 648 days ago
+   &#9733 141, pushed 649 days ago
   </span>
   - Git-backed real-time collaborative code editing.
  </li>
@@ -1745,7 +1745,7 @@
    Alerta
   </a>
   <span>
-   &#9733 506, pushed 4 days ago
+   &#9733 506, pushed 5 days ago
   </span>
   - Distributed, scaleable and flexible monitoring system.
  </li>
@@ -1786,7 +1786,7 @@
    cadvisor
   </a>
   <span>
-   &#9733 3861, pushed 1 days ago
+   &#9733 3861, pushed 2 days ago
   </span>
   - Analyzes resource usage and performance characteristics of running containers (
   <a href="https://github.com/google/cadvisor">
@@ -1896,7 +1896,7 @@
    psdash
   </a>
   <span>
-   &#9733 1724, pushed 152 days ago
+   &#9733 1724, pushed 153 days ago
   </span>
   - A linux system information web dashboard using psut
 ils and flask.
@@ -2069,7 +2069,7 @@ ils and flask.
      Freeboard
     </a>
     <span>
-     &#9733 3054, pushed 6 days ago
+     &#9733 3054, pushed 7 days ago
     </span>
     - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
    </li>
@@ -2097,7 +2097,7 @@ ils and flask.
      KairosDB
     </a>
     <span>
-     &#9733 814, pushed 3 days ago
+     &#9733 814, pushed 4 days ago
     </span>
     - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
    </li>
@@ -2176,7 +2176,7 @@ ils and flask.
    trigger
   </a>
   <span>
-   &#9733 308, pushed 4 days ago
+   &#9733 308, pushed 5 days ago
   </span>
   - Robust network automation toolkit written in Python.
  </li>
@@ -2356,7 +2356,7 @@ ils and flask.
    omnibus-ruby
   </a>
   <span>
-   &#9733 727, pushed 5 days ago
+   &#9733 727, pushed 6 days ago
   </span>
   - Full stack, cross distro packaging software (Ruby).
  </li>
@@ -2581,7 +2581,7 @@ ils and flask.
    Kippo
   </a>
   <span>
-   &#9733 628, pushed 194 days ago
+   &#9733 628, pushed 195 days ago
   </span>
   - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
  </li>
@@ -2658,7 +2658,7 @@ ils and flask.
    etcd
   </a>
   <span>
-   &#9733 9440, pushed 1 days ago
+   &#9733 9440, pushed 2 days ago
   </span>
   - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
  </li>
@@ -2747,7 +2747,7 @@ ils and flask.
    ssh-cert-authority
   </a>
   <span>
-   &#9733 123, pushed 3 days ago
+   &#9733 123, pushed 4 days ago
   </span>
   - A democratic SSH certificate authority.
  </li>
@@ -2768,7 +2768,7 @@ ils and flask.
    sshrc
   </a>
   <span>
-   &#9733 3240, pushed 1 days ago
+   &#9733 3240, pushed 2 days ago
   </span>
   - sources ~/.sshrc on your local computer after logging in remotely.
  </li>

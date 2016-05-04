@@ -303,7 +303,7 @@
    A list of colleges and universities offering degrees in data science.
   </a>
   <span>
-   &#9733 36, pushed 4 days ago
+   &#9733 36, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -416,7 +416,7 @@
    Data Science Specialization
   </a>
   <span>
-   &#9733 2088, pushed 1 days ago
+   &#9733 2088, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -647,7 +647,7 @@
    Open Data Sources
   </a>
   <span>
-   &#9733 136, pushed 120 days ago
+   &#9733 136, pushed 121 days ago
   </span>
  </li>
  <li>
@@ -1850,7 +1850,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    Nervana's python based Deep Learning Framework
   </a>
   <span>
-   &#9733 1808, pushed 3 days ago
+   &#9733 1808, pushed 4 days ago
   </span>
  </li>
  <li>
@@ -1904,7 +1904,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    IJulia
   </a>
   <span>
-   &#9733 862, pushed 7 days ago
+   &#9733 862, pushed 8 days ago
   </span>
   – a Julia-language backend combined with the Jupyter interactive environment.
  </li>
@@ -2219,7 +2219,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -2227,7 +2227,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-dataviz
   </a>
   <span>
-   &#9733 431, pushed 10 days ago
+   &#9733 431, pushed 11 days ago
   </span>
  </li>
  <li>

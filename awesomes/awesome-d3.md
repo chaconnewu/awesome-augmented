@@ -72,7 +72,7 @@
    dagre-d3
   </a>
   <span>
-   &#9733 731, pushed 17 days ago
+   &#9733 731, pushed 18 days ago
   </span>
   - Layout directed graphs on the client-side
  </li>
@@ -117,7 +117,7 @@
    d3-message-sequence
   </a>
   <span>
-   &#9733 43, pushed 158 days ago
+   &#9733 43, pushed 159 days ago
   </span>
   - A dynamic/static message sequence chart
  </li>
@@ -126,7 +126,7 @@
    d3-timeline
   </a>
   <span>
-   &#9733 442, pushed 43 days ago
+   &#9733 442, pushed 44 days ago
   </span>
   - responsive timeline charts
  </li>
@@ -159,7 +159,7 @@
    d3pie
   </a>
   <span>
-   &#9733 203, pushed 121 days ago
+   &#9733 203, pushed 122 days ago
   </span>
   - A configurable pie chart lib and generator
  </li>
@@ -168,7 +168,7 @@
    D3xter
   </a>
   <span>
-   &#9733 340, pushed 47 days ago
+   &#9733 340, pushed 48 days ago
   </span>
   - Straight forward plotting
  </li>
@@ -189,7 +189,7 @@
    dTree
   </a>
   <span>
-   &#9733 11, pushed 43 days ago
+   &#9733 11, pushed 44 days ago
   </span>
   - Family tree library
  </li>
@@ -306,7 +306,7 @@
    rickshaw
   </a>
   <span>
-   &#9733 5718, pushed 24 days ago
+   &#9733 5718, pushed 25 days ago
   </span>
   - Toolkit for creating interactive real-time graphs
  </li>
@@ -437,7 +437,7 @@
    victory
   </a>
   <span>
-   &#9733 1038, pushed 6 days ago
+   &#9733 1038, pushed 7 days ago
   </span>
   - A collection of composable React components for building interactive data visualizations
  </li>
@@ -495,7 +495,7 @@
    d3 geo projection
   </a>
   <span>
-   &#9733 311, pushed 102 days ago
+   &#9733 311, pushed 103 days ago
   </span>
   - Extended geographic projections
  </li>
@@ -525,7 +525,7 @@
    mapsense.js
   </a>
   <span>
-   &#9733 78, pushed 229 days ago
+   &#9733 78, pushed 230 days ago
   </span>
   - Full resolution vector maps with D3
  </li>
@@ -583,7 +583,7 @@
    d3-helpers
   </a>
   <span>
-   &#9733 23, pushed 524 days ago
+   &#9733 23, pushed 525 days ago
   </span>
   - Little utility functions
  </li>
@@ -592,7 +592,7 @@
    d3-iconarray
   </a>
   <span>
-   &#9733 34, pushed 60 days ago
+   &#9733 34, pushed 61 days ago
   </span>
   - A plug-in for aligning elements in grids
  </li>
@@ -601,7 +601,7 @@
    d3-kit
   </a>
   <span>
-   &#9733 216, pushed 25 days ago
+   &#9733 216, pushed 26 days ago
   </span>
   - A set of tools to speed D3 related project development
  </li>
@@ -610,7 +610,7 @@
    d3-Labeler
   </a>
   <span>
-   &#9733 117, pushed 224 days ago
+   &#9733 117, pushed 225 days ago
   </span>
   - Plug-in for automatic label placement
  </li>
@@ -649,7 +649,7 @@
    d3-trail
   </a>
   <span>
-   &#9733 117, pushed 483 days ago
+   &#9733 117, pushed 484 days ago
   </span>
   - A layout for creating better path elements with d3
  </li>
@@ -667,7 +667,7 @@
    d3.svg.circularbrush
   </a>
   <span>
-   &#9733 38, pushed 124 days ago
+   &#9733 38, pushed 125 days ago
   </span>
   - A brush for selecting cyclical data
  </li>
@@ -712,7 +712,7 @@
    jetpack
   </a>
   <span>
-   &#9733 277, pushed 56 days ago
+   &#9733 277, pushed 57 days ago
   </span>
   - Nifty convenience wrappers that speed up your daily work
  </li>
@@ -768,7 +768,7 @@
    comic.js
   </a>
   <span>
-   &#9733 90, pushed 127 days ago
+   &#9733 90, pushed 128 days ago
   </span>
   - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
  </li>
@@ -804,7 +804,7 @@
    d3-context-menu
   </a>
   <span>
-   &#9733 31, pushed 9 days ago
+   &#9733 31, pushed 10 days ago
   </span>
   - Helper to create context-menus
  </li>
@@ -837,7 +837,7 @@
    d3plus-text
   </a>
   <span>
-   &#9733 7, pushed 3 days ago
+   &#9733 7, pushed 4 days ago
   </span>
   - Smart SVG text box with line wrapping and automatic font scaling
  </li>
@@ -866,7 +866,7 @@
    D3.js snippets for Sublime Text 2
   </a>
   <span>
-   &#9733 10, pushed 776 days ago
+   &#9733 10, pushed 777 days ago
   </span>
   - A Sublime Text 2 package with d3 snippets
  </li>
@@ -875,7 +875,7 @@
    Atom D3 snippets
   </a>
   <span>
-   &#9733 15, pushed 50 days ago
+   &#9733 15, pushed 51 days ago
   </span>
   - An Atom package with d3 snippets
  </li>

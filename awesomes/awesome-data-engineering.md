@@ -199,7 +199,7 @@
        ScyllaDB
       </a>
       <span>
-       &#9733 1896, pushed 0 days ago
+       &#9733 1896, pushed 1 days ago
       </span>
       NoSQL data store using the seastar framework, compatible with Apache Cassandra http://www.scylladb.com/
      </li>
@@ -355,7 +355,7 @@
      OpenTSDB
     </a>
     <span>
-     &#9733 1963, pushed 0 days ago
+     &#9733 1963, pushed 1 days ago
     </span>
     A scalable, distributed Time Series Database.
    </li>
@@ -364,7 +364,7 @@
      kairosdb
     </a>
     <span>
-     &#9733 814, pushed 3 days ago
+     &#9733 814, pushed 4 days ago
     </span>
     Fast scalable time series database.
    </li>
@@ -411,7 +411,7 @@
      Snappydata
     </a>
     <span>
-     &#9733 264, pushed 1 days ago
+     &#9733 264, pushed 2 days ago
     </span>
     SnappyData: OLTP + OLAP Database built on Apache Spark
    </li>
@@ -433,7 +433,7 @@
      Camus
     </a>
     <span>
-     &#9733 642, pushed 146 days ago
+     &#9733 642, pushed 147 days ago
     </span>
     LinkedIn's Kafka to HDFS pipeline.
    </li>
@@ -478,7 +478,7 @@
      librdkafka
     </a>
     <span>
-     &#9733 508, pushed 3 days ago
+     &#9733 508, pushed 4 days ago
     </span>
     The Apache Kafka C/C++ library
    </li>
@@ -496,7 +496,7 @@
      kafka-manager
     </a>
     <span>
-     &#9733 2165, pushed 7 days ago
+     &#9733 2165, pushed 8 days ago
     </span>
     A tool for managing Apache Kafka
    </li>
@@ -505,7 +505,7 @@
      kafka-node
     </a>
     <span>
-     &#9733 452, pushed 2 days ago
+     &#9733 452, pushed 3 days ago
     </span>
     Node.js client for Apache Kafka 0.8
    </li>
@@ -523,7 +523,7 @@
      Kafka-logger
     </a>
     <span>
-     &#9733 11, pushed 24 days ago
+     &#9733 11, pushed 25 days ago
     </span>
     Kafka-winston logger for nodejs from uber
    </li>
@@ -684,7 +684,7 @@
      Snappy
     </a>
     <span>
-     &#9733 1121, pushed 27 days ago
+     &#9733 1121, pushed 28 days ago
     </span>
     A fast compressor/decompressor. Used with Parquet
    </li>
@@ -729,7 +729,7 @@ multi-processor, multi-core machines
    Kryo
   </a>
   <span>
-   &#9733 1847, pushed 8 days ago
+   &#9733 1847, pushed 9 days ago
   </span>
   Kryo is a fast and efficient object graph serialization framework for Java
  </li>
@@ -982,7 +982,7 @@ multi-processor, multi-core machines
    PyXley
   </a>
   <span>
-   &#9733 1426, pushed 42 days ago
+   &#9733 1426, pushed 43 days ago
   </span>
   Python helpers for building dashboards using Flask and React
  </li>
@@ -991,7 +991,7 @@ multi-processor, multi-core machines
    Plotly
   </a>
   <span>
-   &#9733 149, pushed 12 days ago
+   &#9733 149, pushed 13 days ago
   </span>
   Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
  </li>
@@ -1005,7 +1005,7 @@ multi-processor, multi-core machines
    Luigi
   </a>
   <span>
-   &#9733 4510, pushed 0 days ago
+   &#9733 4510, pushed 1 days ago
   </span>
   Luigi is a Python module that helps you build complex pipelines of batch jobs.
   <ul>
@@ -1014,7 +1014,7 @@ multi-processor, multi-core machines
      CronQ
     </a>
     <span>
-     &#9733 35, pushed 24 days ago
+     &#9733 35, pushed 25 days ago
     </span>
     An application cron-like system.
     <a href="http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/">
@@ -1035,7 +1035,7 @@ multi-processor, multi-core machines
    Airflow
   </a>
   <span>
-   &#9733 2594, pushed 1 days ago
+   &#9733 2594, pushed 2 days ago
   </span>
   Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
  </li>
@@ -1123,7 +1123,7 @@ multi-processor, multi-core machines
    Weave
   </a>
   <span>
-   &#9733 4182, pushed 3 days ago
+   &#9733 4182, pushed 4 days ago
   </span>
   Weaving Docker containers into applications http://www.weave.works/
  </li>
@@ -1141,7 +1141,7 @@ multi-processor, multi-core machines
    cAdvisor
   </a>
   <span>
-   &#9733 3861, pushed 1 days ago
+   &#9733 3861, pushed 2 days ago
   </span>
   Analyzes resource usage and performance characteristics of running containers
  </li>
@@ -1150,7 +1150,7 @@ multi-processor, multi-core machines
    Micro S3 persistence
   </a>
   <span>
-   &#9733 8, pushed 390 days ago
+   &#9733 8, pushed 391 days ago
   </span>
   Docker microservice for saving/restoring volume data to S3
  </li>
@@ -1159,7 +1159,7 @@ multi-processor, multi-core machines
    Dockup
   </a>
   <span>
-   &#9733 111, pushed 39 days ago
+   &#9733 111, pushed 40 days ago
   </span>
   Docker image to backup/restore your Docker container volumes to AWS S3
  </li>
@@ -1177,7 +1177,7 @@ multi-processor, multi-core machines
    Nomad
   </a>
   <span>
-   &#9733 1537, pushed 0 days ago
+   &#9733 1537, pushed 1 days ago
   </span>
   Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads
  </li>
@@ -1264,7 +1264,7 @@ multi-processor, multi-core machines
    Prometheus.io
   </a>
   <span>
-   &#9733 4515, pushed 1 days ago
+   &#9733 4515, pushed 2 days ago
   </span>
   An open-source service monitoring system and time series database
  </li>

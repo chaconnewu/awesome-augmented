@@ -237,7 +237,7 @@ Similar to the previous one, but with different algorithms.
    Elementary Algorithms
   </a>
   <span>
-   &#9733 1894, pushed 8 days ago
+   &#9733 1894, pushed 9 days ago
   </span>
   - An awesome book about algorithms and data structures.
  </li>
@@ -333,7 +333,7 @@ Similar to the previous one, but with different algorithms.
    Go
   </a>
   <span>
-   &#9733 879, pushed 455 days ago
+   &#9733 879, pushed 456 days ago
   </span>
  </li>
  <li>
@@ -344,7 +344,7 @@ Similar to the previous one, but with different algorithms.
      by @phishman3579
     </a>
     <span>
-     &#9733 726, pushed 109 days ago
+     &#9733 726, pushed 110 days ago
     </span>
    </li>
    <li>
@@ -352,7 +352,7 @@ Similar to the previous one, but with different algorithms.
      by @asmolich
     </a>
     <span>
-     &#9733 3, pushed 660 days ago
+     &#9733 3, pushed 661 days ago
     </span>
    </li>
    <li>
@@ -426,7 +426,7 @@ Similar to the previous one, but with different algorithms.
      by @ EvgenyKarkan
     </a>
     <span>
-     &#9733 1970, pushed 28 days ago
+     &#9733 1970, pushed 29 days ago
     </span>
    </li>
   </ul>
@@ -494,7 +494,7 @@ Similar to the previous one, but with different algorithms.
    Scala
   </a>
   <span>
-   &#9733 602, pushed 38 days ago
+   &#9733 602, pushed 39 days ago
   </span>
  </li>
  <li>
@@ -521,7 +521,7 @@ Similar to the previous one, but with different algorithms.
      by @hollance
     </a>
     <span>
-     &#9733 5152, pushed 3 days ago
+     &#9733 5152, pushed 4 days ago
     </span>
    </li>
   </ul>
@@ -555,7 +555,7 @@ Similar to the previous one, but with different algorithms.
      by @patmorin
     </a>
     <span>
-     &#9733 365, pushed 12 days ago
+     &#9733 365, pushed 13 days ago
     </span>
    </li>
   </ul>

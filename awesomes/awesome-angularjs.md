@@ -91,7 +91,7 @@
    AngularClass/NG6-starter
   </a>
   <span>
-   &#9733 938, pushed 2 days ago
+   &#9733 938, pushed 3 days ago
   </span>
   - An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by
   <a href="https://github.com/AngularClass">
@@ -104,7 +104,7 @@
    tomastrajan/angular-js-es6-testing-example
   </a>
   <span>
-   &#9733 60, pushed 83 days ago
+   &#9733 60, pushed 84 days ago
   </span>
   - Angular JS seed repository with focus on unit & integration testing (ES6, webpack, karma, mocha), suitable for serious / enterprise projects.
  </li>
@@ -203,7 +203,7 @@
    btford/angular-socket-io-seed
   </a>
   <span>
-   &#9733 757, pushed 792 days ago
+   &#9733 757, pushed 793 days ago
   </span>
   - A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.
  </li>
@@ -239,7 +239,7 @@
    meanjs/mean
   </a>
   <span>
-   &#9733 3341, pushed 1 days ago
+   &#9733 3341, pushed 2 days ago
   </span>
   - Mongo + ExpressJS + AngularJS + NodeJS boilerplate.
  </li>
@@ -266,7 +266,7 @@
    giorgiofellipe/ionic-angular-parse-boilerplate
   </a>
   <span>
-   &#9733 51, pushed 316 days ago
+   &#9733 51, pushed 317 days ago
   </span>
   - Ionic + AngularJS + Parse.com boilerplate by Giorgio Fellipe.
  </li>
@@ -275,7 +275,7 @@
    the-front/angularjs-ee-boilerplate
   </a>
   <span>
-   &#9733 49, pushed 14 days ago
+   &#9733 49, pushed 15 days ago
   </span>
   - This boilerplate (seed project, starting project) helps you build large scale AngularJS applications with Require.js by Erko Bridee.
  </li>
@@ -313,7 +313,7 @@
    lynndylanhurley/ng-token-auth
   </a>
   <span>
-   &#9733 1703, pushed 7 days ago
+   &#9733 1703, pushed 8 days ago
   </span>
   - Token based authentication module for AngularJS.
  </li>
@@ -398,7 +398,7 @@
    mgonto/restangular
   </a>
   <span>
-   &#9733 7448, pushed 23 days ago
+   &#9733 7448, pushed 24 days ago
   </span>
   - AngularJS service to handle Rest API Restful Resources properly and easily.
  </li>
@@ -425,7 +425,7 @@
    platanus/angular-restmod
   </a>
   <span>
-   &#9733 1197, pushed 13 days ago
+   &#9733 1197, pushed 14 days ago
   </span>
   - Rails inspired REST-API ORM for AngularJS.
  </li>
@@ -466,7 +466,7 @@
    urish/angular-load
   </a>
   <span>
-   &#9733 179, pushed 107 days ago
+   &#9733 179, pushed 108 days ago
   </span>
   - Dynamically load scripts and css stylesheets in your AngularJS app.
  </li>
@@ -475,7 +475,7 @@
    flowjs/ng-flow
   </a>
   <span>
-   &#9733 1216, pushed 41 days ago
+   &#9733 1216, pushed 42 days ago
   </span>
   - Flow.js html5 file upload extension on AngularJS framework.
  </li>
@@ -521,7 +521,7 @@
    jdpedrie/angularjs-camelCase-to-human-filter
   </a>
   <span>
-   &#9733 25, pushed 63 days ago
+   &#9733 25, pushed 64 days ago
   </span>
   - AngularJS Filter to convert camelCase strings to human readable strings.
  </li>
@@ -583,7 +583,7 @@
    lavinjj/angularjs-gravatardirective
   </a>
   <span>
-   &#9733 86, pushed 392 days ago
+   &#9733 86, pushed 393 days ago
   </span>
   - An AngularJS Gravatar Image Directive.
  </li>
@@ -619,7 +619,7 @@
    ajoslin/angular-scrolly
   </a>
   <span>
-   &#9733 64, pushed 872 days ago
+   &#9733 64, pushed 873 days ago
   </span>
   - Fake transform-scrolling with AngularJS-friendly utilities.
  </li>
@@ -664,7 +664,7 @@
    angular-ui/bootstrap
   </a>
   <span>
-   &#9733 12241, pushed 0 days ago
+   &#9733 12241, pushed 1 days ago
   </span>
   - Native AngularJS directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!
  </li>
@@ -745,7 +745,7 @@
    btford/angular-markdown-directive
   </a>
   <span>
-   &#9733 515, pushed 77 days ago
+   &#9733 515, pushed 78 days ago
   </span>
   - AngularJS markdown directive using Showdown.js
  </li>
@@ -763,7 +763,7 @@
    c0bra/angular-responsive-images
   </a>
   <span>
-   &#9733 63, pushed 535 days ago
+   &#9733 63, pushed 536 days ago
   </span>
   - AngularJS responsive images.
  </li>
@@ -790,7 +790,7 @@
    jeffling/ng-tether
   </a>
   <span>
-   &#9733 21, pushed 243 days ago
+   &#9733 21, pushed 244 days ago
   </span>
   - AngularJS wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently.
  </li>
@@ -799,7 +799,7 @@
    unosquare/tubular
   </a>
   <span>
-   &#9733 21, pushed 3 days ago
+   &#9733 21, pushed 4 days ago
   </span>
   -AngularJS directives for grids and forms.
  </li>
@@ -826,7 +826,7 @@
    hrajchert/angular-screenfull
   </a>
   <span>
-   &#9733 34, pushed 8 days ago
+   &#9733 34, pushed 9 days ago
   </span>
   - Binding to use the HTML5 fullscreen API using directives and directives controllers.
  </li>
@@ -871,7 +871,7 @@
    Foxandxss/angular-toastr
   </a>
   <span>
-   &#9733 838, pushed 40 days ago
+   &#9733 838, pushed 41 days ago
   </span>
   - Angular port of CodeSeven/toastr.
  </li>
@@ -880,7 +880,7 @@
    jirikavi/AngularJS-Toaster
   </a>
   <span>
-   &#9733 1002, pushed 20 days ago
+   &#9733 1002, pushed 21 days ago
   </span>
   - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
  </li>
@@ -912,7 +912,7 @@
    grevory/angular-local-storage
   </a>
   <span>
-   &#9733 2365, pushed 0 days ago
+   &#9733 2365, pushed 1 days ago
   </span>
   - An AngularJS module that gives you access to the browsers local storage with cookie fallback.
  </li>
@@ -921,7 +921,7 @@
    jmdobry/angular-cache
   </a>
   <span>
-   &#9733 1133, pushed 3 days ago
+   &#9733 1133, pushed 4 days ago
   </span>
   - angular-cache is a very useful replacement for AngularJS's $cacheFactory.
  </li>
@@ -930,7 +930,7 @@
    jmdobry/angular-data
   </a>
   <span>
-   &#9733 1011, pushed 45 days ago
+   &#9733 1011, pushed 46 days ago
   </span>
   - Data store for AngularJS.
  </li>
@@ -948,7 +948,7 @@
    tymondesigns/angular-locker
   </a>
   <span>
-   &#9733 265, pushed 112 days ago
+   &#9733 265, pushed 113 days ago
   </span>
   - A simple, configurable & fluent abstraction for local/session storage in angular projects.
  </li>
@@ -962,7 +962,7 @@
    kogosoftwarellc/angular-async-form
   </a>
   <span>
-   &#9733 6, pushed 4 days ago
+   &#9733 6, pushed 5 days ago
   </span>
   - Async form handling the angular way.
  </li>
@@ -971,7 +971,7 @@
    esvit/ng-table
   </a>
   <span>
-   &#9733 2298, pushed 18 days ago
+   &#9733 2298, pushed 19 days ago
   </span>
   - Simple table with sorting and filtering on AngularJS.
  </li>
@@ -1013,7 +1013,7 @@
    angular-ui/ng-grid
   </a>
   <span>
-   &#9733 3982, pushed 3 days ago
+   &#9733 3982, pushed 4 days ago
   </span>
   - UI Grid: an AngularJS Data Grid.
  </li>
@@ -1040,7 +1040,7 @@
    laurihy/angular-payments
   </a>
   <span>
-   &#9733 489, pushed 13 days ago
+   &#9733 489, pushed 14 days ago
   </span>
   - Module that provides AngularJS-directives for formatting, validating and working with payments.
  </li>
@@ -1049,7 +1049,7 @@
    lorenzofox3/Smart-Table
   </a>
   <span>
-   &#9733 1425, pushed 3 days ago
+   &#9733 1425, pushed 4 days ago
   </span>
   - a table/grid for AngularJS.
  </li>
@@ -1058,7 +1058,7 @@
    vitalets/angular-xeditable
   </a>
   <span>
-   &#9733 1611, pushed 6 days ago
+   &#9733 1611, pushed 7 days ago
   </span>
   - Edit in place for AngularJS.
  </li>
@@ -1117,7 +1117,7 @@
    ajoslin/angular-promise-tracker
   </a>
   <span>
-   &#9733 574, pushed 252 days ago
+   &#9733 574, pushed 253 days ago
   </span>
   - Easily add spinners or general request tracking to your AngularJS app.
  </li>
@@ -1135,7 +1135,7 @@
    angular/angularjs-batarang
   </a>
   <span>
-   &#9733 2240, pushed 56 days ago
+   &#9733 2240, pushed 57 days ago
   </span>
   - AngularJS WebInspector Extension for Chrome.
  </li>
@@ -1168,7 +1168,7 @@
    Linkurious/angular-performance
   </a>
   <span>
-   &#9733 55, pushed 246 days ago
+   &#9733 55, pushed 247 days ago
   </span>
   - A chrome extension aimed at monitoring angular application performance.
  </li>
@@ -1244,7 +1244,7 @@
    pineconellc/angular-foundation
   </a>
   <span>
-   &#9733 1075, pushed 34 days ago
+   &#9733 1075, pushed 35 days ago
   </span>
   - This project is a port of the AngularUI team's excellent angular-bootstrap project for use in the Foundation framework.
  </li>
@@ -1303,7 +1303,7 @@
    angular-translate/angular-translate
   </a>
   <span>
-   &#9733 3598, pushed 3 days ago
+   &#9733 3598, pushed 4 days ago
   </span>
   - i18n in your AngularJS apps, made easy.
  </li>
@@ -1344,7 +1344,7 @@
    chinmaymk/angular-charts
   </a>
   <span>
-   &#9733 1028, pushed 17 days ago
+   &#9733 1028, pushed 18 days ago
   </span>
   - angular directives for creating common charts using d3.
  </li>
@@ -1362,7 +1362,7 @@
    stpa-co/angular-morris-chart
   </a>
   <span>
-   &#9733 134, pushed 5 days ago
+   &#9733 134, pushed 6 days ago
   </span>
   - Create morris chart easily with this directives.
  </li>
@@ -1461,7 +1461,7 @@
    johnpapa/angularjs-styleguide
   </a>
   <span>
-   &#9733 17991, pushed 4 days ago
+   &#9733 17991, pushed 5 days ago
   </span>
   - A starting point for AngularJS development teams to provide consistency through good practices.
  </li>

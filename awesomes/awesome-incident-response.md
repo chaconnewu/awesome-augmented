@@ -145,7 +145,7 @@
    Volatility
   </a>
   <span>
-   &#9733 950, pushed 3 days ago
+   &#9733 950, pushed 4 days ago
   </span>
   - An advanced memory forensics framework
  </li>
@@ -154,7 +154,7 @@
    Evolve
   </a>
   <span>
-   &#9733 137, pushed 78 days ago
+   &#9733 137, pushed 79 days ago
   </span>
   - Web interface for the Volatility Memory Forensics Framework
  </li>
@@ -267,7 +267,7 @@
    Lorg
   </a>
   <span>
-   &#9733 63, pushed 140 days ago
+   &#9733 63, pushed 141 days ago
   </span>
   - a tool for advanced HTTPD logfile security analysis and forensics
  </li>
@@ -315,7 +315,7 @@
    MozDef
   </a>
   <span>
-   &#9733 1020, pushed 14 days ago
+   &#9733 1020, pushed 15 days ago
   </span>
   - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers
  </li>
@@ -324,7 +324,7 @@
    GRR Rapid Response
   </a>
   <span>
-   &#9733 1180, pushed 10 days ago
+   &#9733 1180, pushed 11 days ago
   </span>
   - GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent
  </li>
@@ -378,7 +378,7 @@
    CIRTkit
   </a>
   <span>
-   &#9733 5, pushed 95 days ago
+   &#9733 5, pushed 96 days ago
   </span>
   - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes
  </li>
@@ -433,7 +433,7 @@
    </em>
   </a>
   <span>
-   &#9733 164, pushed 12 days ago
+   &#9733 164, pushed 13 days ago
   </span>
   - bulk
  </li>
@@ -481,7 +481,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    AChoir
   </a>
   <span>
-   &#9733 38, pushed 44 days ago
+   &#9733 38, pushed 45 days ago
   </span>
   - Achoir is a framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows
  </li>
@@ -523,7 +523,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    PowerForensics
   </a>
   <span>
-   &#9733 287, pushed 74 days ago
+   &#9733 287, pushed 75 days ago
   </span>
   - Live disk forensics platform, using PowerShell
  </li>
@@ -543,7 +543,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    OSX Auditor
   </a>
   <span>
-   &#9733 2578, pushed 32 days ago
+   &#9733 2578, pushed 33 days ago
   </span>
   - OSX Auditor is a free Mac OS X computer forensics tool
  </li>
@@ -552,7 +552,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    OSX Collector
   </a>
   <span>
-   &#9733 838, pushed 4 days ago
+   &#9733 838, pushed 5 days ago
   </span>
   - An OSX Auditor offshoot for live response
  </li>
@@ -561,7 +561,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    Knockknock
   </a>
   <span>
-   &#9733 563, pushed 76 days ago
+   &#9733 563, pushed 77 days ago
   </span>
   - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX
  </li>
@@ -575,7 +575,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    FastIR Collector Linux
   </a>
   <span>
-   &#9733 27, pushed 65 days ago
+   &#9733 27, pushed 66 days ago
   </span>
   - FastIR for Linux collects different artefacts on live Linux and records the results in csv files.
  </li>
@@ -613,7 +613,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    Viper
   </a>
   <span>
-   &#9733 713, pushed 3 days ago
+   &#9733 713, pushed 4 days ago
   </span>
   - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA.
  </li>
@@ -743,7 +743,7 @@ extractor is a computer forensics tool that scans a disk image, a file, or a dir
    rastrea2r
   </a>
   <span>
-   &#9733 23, pushed 14 days ago
+   &#9733 23, pushed 15 days ago
   </span>
   - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
  </li>

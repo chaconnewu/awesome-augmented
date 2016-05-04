@@ -390,7 +390,7 @@
    SuprDewd/CompetitiveProgramming
   </a>
   <span>
-   &#9733 53, pushed 21 days ago
+   &#9733 53, pushed 22 days ago
   </span>
   , by team viRUs from Reykjavik University
   <br/>
@@ -636,7 +636,7 @@
      cfparser
     </a>
     <span>
-     &#9733 6, pushed 50 days ago
+     &#9733 6, pushed 51 days ago
     </span>
     , for emacs
    </li>

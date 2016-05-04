@@ -81,7 +81,7 @@
    Pycoin
   </a>
   <span>
-   &#9733 302, pushed 3 days ago
+   &#9733 302, pushed 4 days ago
   </span>
   Python-based Bitcoin and alt-coin utility library.
  </li>
@@ -96,7 +96,7 @@
    bx
   </a>
   <span>
-   &#9733 60, pushed 11 days ago
+   &#9733 60, pushed 12 days ago
   </span>
   Bitcoin Command Line Tool
  </li>
@@ -277,7 +277,7 @@
    Bitcore Library
   </a>
   <span>
-   &#9733 41, pushed 10 days ago
+   &#9733 41, pushed 11 days ago
   </span>
  </li>
  <li>
@@ -335,7 +335,7 @@
    Bitcoin-ruby
   </a>
   <span>
-   &#9733 567, pushed 38 days ago
+   &#9733 567, pushed 39 days ago
   </span>
  </li>
 </ul>
@@ -356,7 +356,7 @@
    btctxstore
   </a>
   <span>
-   &#9733 3, pushed 127 days ago
+   &#9733 3, pushed 128 days ago
   </span>
   simple library to store/retrieve information in bitcoin transactions using OP_RETURN
  </li>
@@ -499,7 +499,7 @@
    Bitcoin-ruby-node
   </a>
   <span>
-   &#9733 13, pushed 9 days ago
+   &#9733 13, pushed 10 days ago
   </span>
   bitcoin node based on bitcoin-ruby-blockchain
  </li>
@@ -532,7 +532,7 @@
    Bitcoind.JS
   </a>
   <span>
-   &#9733 41, pushed 276 days ago
+   &#9733 41, pushed 277 days ago
   </span>
   bitcoind linked to node.js by BitPay
  </li>
@@ -541,7 +541,7 @@
    Bitcore
   </a>
   <span>
-   &#9733 1713, pushed 4 days ago
+   &#9733 1713, pushed 5 days ago
   </span>
   Formerly just a Nodejs library, now a full node
  </li>

@@ -15,6 +15,28 @@
   <img alt="Build Status" src="https://travis-ci.org/jdorfman/awesome-json-datasets.svg"/>
  </a>
 </p>
+<p>
+ <strong>
+  Tip
+ </strong>
+ : You can find simply press
+ <kbd>
+  Command
+ </kbd>
+ +
+ <kbd>
+  F
+ </kbd>
+ or
+ <kbd>
+  Ctrl
+ </kbd>
+ +
+ <kbd>
+  F
+ </kbd>
+ to search for a keyword.
+</p>
 <h2>
  TOC
 </h2>
@@ -1290,7 +1312,7 @@
    Giphy
   </a>
   <span>
-   &#9733 1014, pushed 11 days ago
+   &#9733 1014, pushed 12 days ago
   </span>
   <ul>
    <li>
@@ -2063,7 +2085,7 @@
    JSON
   </a>
   <span>
-   &#9733 306, pushed 24 days ago
+   &#9733 306, pushed 25 days ago
   </span>
   (Libraries and Resources)
  </li>
@@ -2098,6 +2120,14 @@
   </span>
   <em>
    (Datasets beyond just JSON)
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/kciter/awesome-style-guide">
+   Style Guides
+  </a>
+  <em>
+   (Programming Languages, Platforms, Frameworks)
   </em>
  </li>
 </ul>

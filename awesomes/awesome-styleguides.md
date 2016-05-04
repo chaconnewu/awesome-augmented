@@ -90,7 +90,7 @@
    Styleguides.io
   </a>
   <span>
-   &#9733 356, pushed 0 days ago
+   &#9733 356, pushed 1 days ago
   </span>
  </li>
  <li>
@@ -129,7 +129,7 @@
    CSS Best Practices
   </a>
   <span>
-   &#9733 166, pushed 403 days ago
+   &#9733 166, pushed 404 days ago
   </span>
  </li>
  <li>
@@ -269,7 +269,7 @@
    AirBnB
   </a>
   <span>
-   &#9733 34437, pushed 1 days ago
+   &#9733 34437, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -347,7 +347,7 @@
    gocardless
   </a>
   <span>
-   &#9733 1547, pushed 10 days ago
+   &#9733 1547, pushed 11 days ago
   </span>
  </li>
  <li>
@@ -360,7 +360,7 @@
    johnpapa's opinionated sg for  AngularJS
   </a>
   <span>
-   &#9733 17991, pushed 4 days ago
+   &#9733 17991, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -464,7 +464,7 @@
    mattdesl
   </a>
   <span>
-   &#9733 603, pushed 199 days ago
+   &#9733 603, pushed 200 days ago
   </span>
  </li>
 </ul>
@@ -523,7 +523,7 @@
    Github - Style guide & coding conventions for Swift projects
   </a>
   <span>
-   &#9733 3128, pushed 24 days ago
+   &#9733 3128, pushed 25 days ago
   </span>
   A guide to our Swift style and conventions by @github.
  </li>
@@ -549,7 +549,7 @@
    NY Times - Objective C Style Guide
   </a>
   <span>
-   &#9733 4007, pushed 56 days ago
+   &#9733 4007, pushed 57 days ago
   </span>
   The Objective-C Style Guide used by The New York Times.
  </li>
@@ -564,7 +564,7 @@
    raywenderlich Style Guide
   </a>
   <span>
-   &#9733 2119, pushed 40 days ago
+   &#9733 2119, pushed 41 days ago
   </span>
   A style guide that outlines the coding conventions for raywenderlich.com.
  </li>
@@ -582,7 +582,7 @@
    Swift Style Guide by @raywenderlich
   </a>
   <span>
-   &#9733 4519, pushed 4 days ago
+   &#9733 4519, pushed 5 days ago
   </span>
   The official Swift style guide for raywenderlich.com.
  </li>
@@ -686,7 +686,7 @@
    GitHub
   </a>
   <span>
-   &#9733 3128, pushed 24 days ago
+   &#9733 3128, pushed 25 days ago
   </span>
  </li>
  <li>
@@ -694,7 +694,7 @@
    raywenderlich
   </a>
   <span>
-   &#9733 4519, pushed 4 days ago
+   &#9733 4519, pushed 5 days ago
   </span>
  </li>
  <li>

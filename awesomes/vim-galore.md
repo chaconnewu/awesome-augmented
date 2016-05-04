@@ -5091,7 +5091,7 @@ in alphabetic sequence:
    neobundle
   </a>
   <span>
-   &#9733 1918, pushed 11 days ago
+   &#9733 1918, pushed 12 days ago
   </span>
  </li>
  <li>
@@ -7529,7 +7529,7 @@ set -sg escape-time 0
    base16
   </a>
   <span>
-   &#9733 754, pushed 76 days ago
+   &#9733 754, pushed 77 days ago
   </span>
  </li>
  <li>
@@ -7561,7 +7561,7 @@ set -sg escape-time 0
    jellybeans
   </a>
   <span>
-   &#9733 908, pushed 42 days ago
+   &#9733 908, pushed 43 days ago
   </span>
  </li>
  <li>
@@ -7569,7 +7569,7 @@ set -sg escape-time 0
    lucius
   </a>
   <span>
-   &#9733 190, pushed 301 days ago
+   &#9733 190, pushed 302 days ago
   </span>
  </li>
  <li>
@@ -7593,7 +7593,7 @@ set -sg escape-time 0
    seoul256
   </a>
   <span>
-   &#9733 484, pushed 35 days ago
+   &#9733 484, pushed 36 days ago
   </span>
  </li>
  <li>
@@ -7601,7 +7601,7 @@ set -sg escape-time 0
    solarized
   </a>
   <span>
-   &#9733 3824, pushed 10 days ago
+   &#9733 3824, pushed 11 days ago
   </span>
   (or a lighter variant:
   <a href="https://github.com/romainl/flattened">

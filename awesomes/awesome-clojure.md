@@ -35,7 +35,7 @@
      PuppetDB
     </a>
     <span>
-     &#9733 190, pushed 3 days ago
+     &#9733 190, pushed 4 days ago
     </span>
    </li>
    <li>
@@ -51,7 +51,7 @@
      Avi (vim rewrite)
     </a>
     <span>
-     &#9733 151, pushed 3 days ago
+     &#9733 151, pushed 4 days ago
     </span>
    </li>
   </ul>
@@ -74,7 +74,7 @@
      lux
     </a>
     <span>
-     &#9733 446, pushed 1 days ago
+     &#9733 446, pushed 2 days ago
     </span>
    </li>
    <li>
@@ -316,7 +316,7 @@
    Joodo
   </a>
   <span>
-   &#9733 3, pushed 796 days ago
+   &#9733 3, pushed 797 days ago
   </span>
  </li>
  <li>
@@ -324,7 +324,7 @@
    Coils
   </a>
   <span>
-   &#9733 237, pushed 4 days ago
+   &#9733 237, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -340,7 +340,7 @@
    Pedestal
   </a>
   <span>
-   &#9733 1580, pushed 5 days ago
+   &#9733 1580, pushed 6 days ago
   </span>
  </li>
  <li>
@@ -348,7 +348,7 @@
    Catalysis
   </a>
   <span>
-   &#9733 28, pushed 7 days ago
+   &#9733 28, pushed 8 days ago
   </span>
  </li>
  <li>
@@ -390,7 +390,7 @@
    mount
   </a>
   <span>
-   &#9733 389, pushed 6 days ago
+   &#9733 389, pushed 7 days ago
   </span>
  </li>
 </ul>
@@ -408,7 +408,7 @@
    Leiningen
   </a>
   <span>
-   &#9733 4780, pushed 3 days ago
+   &#9733 4780, pushed 4 days ago
   </span>
  </li>
  <li>
@@ -447,7 +447,7 @@
    fx-clj
   </a>
   <span>
-   &#9733 68, pushed 99 days ago
+   &#9733 68, pushed 100 days ago
   </span>
  </li>
  <li>
@@ -608,7 +608,7 @@
    Migratus
   </a>
   <span>
-   &#9733 153, pushed 4 days ago
+   &#9733 153, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -642,7 +642,7 @@
    cheshire
   </a>
   <span>
-   &#9733 777, pushed 20 days ago
+   &#9733 777, pushed 21 days ago
   </span>
  </li>
 </ul>
@@ -684,7 +684,7 @@
    honeysql
   </a>
   <span>
-   &#9733 432, pushed 18 days ago
+   &#9733 432, pushed 19 days ago
   </span>
  </li>
 </ul>
@@ -759,7 +759,7 @@
    postal
   </a>
   <span>
-   &#9733 328, pushed 59 days ago
+   &#9733 328, pushed 60 days ago
   </span>
  </li>
 </ul>
@@ -821,7 +821,7 @@
    domaintypes
   </a>
   <span>
-   &#9733 5, pushed 525 days ago
+   &#9733 5, pushed 526 days ago
   </span>
  </li>
  <li>
@@ -918,7 +918,7 @@
    aleph
   </a>
   <span>
-   &#9733 1602, pushed 1 days ago
+   &#9733 1602, pushed 2 days ago
   </span>
  </li>
 </ul>
@@ -931,7 +931,7 @@
    cats
   </a>
   <span>
-   &#9733 362, pushed 5 days ago
+   &#9733 362, pushed 6 days ago
   </span>
  </li>
  <li>
@@ -983,7 +983,7 @@
    Slamhound
   </a>
   <span>
-   &#9733 330, pushed 231 days ago
+   &#9733 330, pushed 232 days ago
   </span>
  </li>
  <li>
@@ -991,7 +991,7 @@
    eastwood
   </a>
   <span>
-   &#9733 542, pushed 26 days ago
+   &#9733 542, pushed 27 days ago
   </span>
  </li>
  <li>
@@ -999,7 +999,7 @@
    kibit
   </a>
   <span>
-   &#9733 1025, pushed 8 days ago
+   &#9733 1025, pushed 9 days ago
   </span>
  </li>
 </ul>
@@ -1025,7 +1025,7 @@
    Onyx
   </a>
   <span>
-   &#9733 1205, pushed 2 days ago
+   &#9733 1205, pushed 3 days ago
   </span>
  </li>
  <li>
@@ -1054,7 +1054,7 @@
    clj-bigml
   </a>
   <span>
-   &#9733 44, pushed 2 days ago
+   &#9733 44, pushed 3 days ago
   </span>
  </li>
  <li>
@@ -1070,7 +1070,7 @@
    Deeplearning4j
   </a>
   <span>
-   &#9733 2626, pushed 1 days ago
+   &#9733 2626, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -1086,7 +1086,7 @@
    Infer
   </a>
   <span>
-   &#9733 147, pushed 125 days ago
+   &#9733 147, pushed 126 days ago
   </span>
  </li>
  <li>
@@ -1102,7 +1102,7 @@
    Statistiker
   </a>
   <span>
-   &#9733 42, pushed 301 days ago
+   &#9733 42, pushed 302 days ago
   </span>
  </li>
  <li>
@@ -1141,7 +1141,7 @@
    clojure-opennlp
   </a>
   <span>
-   &#9733 551, pushed 7 days ago
+   &#9733 551, pushed 8 days ago
   </span>
  </li>
 </ul>
@@ -1162,7 +1162,7 @@
    vim-fireplace
   </a>
   <span>
-   &#9733 1063, pushed 14 days ago
+   &#9733 1063, pushed 15 days ago
   </span>
  </li>
  <li>
@@ -1170,7 +1170,7 @@
    vim-redl
   </a>
   <span>
-   &#9733 96, pushed 433 days ago
+   &#9733 96, pushed 434 days ago
   </span>
  </li>
  <li>
@@ -1178,7 +1178,7 @@
    vim-leiningen
   </a>
   <span>
-   &#9733 121, pushed 195 days ago
+   &#9733 121, pushed 196 days ago
   </span>
  </li>
  <li>
@@ -1230,7 +1230,7 @@
    slingshot
   </a>
   <span>
-   &#9733 421, pushed 104 days ago
+   &#9733 421, pushed 105 days ago
   </span>
  </li>
 </ul>
@@ -1283,7 +1283,7 @@
    spyscope
   </a>
   <span>
-   &#9733 330, pushed 160 days ago
+   &#9733 330, pushed 161 days ago
   </span>
  </li>
  <li>
@@ -1315,7 +1315,7 @@
    figwheel
   </a>
   <span>
-   &#9733 1552, pushed 12 days ago
+   &#9733 1552, pushed 13 days ago
   </span>
  </li>
 </ul>
@@ -1328,7 +1328,7 @@
    lambdacd
   </a>
   <span>
-   &#9733 208, pushed 13 days ago
+   &#9733 208, pushed 14 days ago
   </span>
  </li>
 </ul>

@@ -694,7 +694,7 @@
    gdc
   </a>
   <span>
-   &#9733 266, pushed 1 days ago
+   &#9733 266, pushed 2 days ago
   </span>
   - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
  </li>
@@ -819,7 +819,7 @@
    libdparse
   </a>
   <span>
-   &#9733 36, pushed 4 days ago
+   &#9733 36, pushed 5 days ago
   </span>
   - A D language lexer and parser, (possibly) future standard D parser/lexer.
  </li>
@@ -846,7 +846,7 @@
    Pegged
   </a>
   <span>
-   &#9733 219, pushed 34 days ago
+   &#9733 219, pushed 35 days ago
   </span>
   - A Parsing Expression Grammar (PEG) module written in D.
  </li>
@@ -884,7 +884,7 @@
    warp
   </a>
   <span>
-   &#9733 406, pushed 181 days ago
+   &#9733 406, pushed 182 days ago
   </span>
   - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
  </li>
@@ -1035,7 +1035,7 @@
    vibe.d
   </a>
   <span>
-   &#9733 740, pushed 0 days ago
+   &#9733 740, pushed 1 days ago
   </span>
   - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
  </li>
@@ -1113,7 +1113,7 @@
    terminix
   </a>
   <span>
-   &#9733 392, pushed 2 days ago
+   &#9733 392, pushed 3 days ago
   </span>
   -  A tiling terminal emulator for Linux using GTK+ 3.
  </li>
@@ -1211,7 +1211,7 @@
    DWT
   </a>
   <span>
-   &#9733 65, pushed 18 days ago
+   &#9733 65, pushed 19 days ago
   </span>
   - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
  </li>
@@ -1220,7 +1220,7 @@
    tkD
   </a>
   <span>
-   &#9733 73, pushed 26 days ago
+   &#9733 73, pushed 27 days ago
   </span>
   - GUI toolkit for the D programming language based on Tcl/Tk.
  </li>
@@ -1271,7 +1271,7 @@
    PowerNex
   </a>
   <span>
-   &#9733 75, pushed 1 days ago
+   &#9733 75, pushed 2 days ago
   </span>
   -  A kernel written in D
  </li>
@@ -1366,7 +1366,7 @@
    DGame
   </a>
   <span>
-   &#9733 48, pushed 237 days ago
+   &#9733 48, pushed 238 days ago
   </span>
   - A 2D framework for the D programming Language. see
   <a href="http://dgame-dev.de/">
@@ -1379,7 +1379,7 @@
    gfm
   </a>
   <span>
-   &#9733 98, pushed 2 days ago
+   &#9733 98, pushed 3 days ago
   </span>
   - D gamedev toolkit. see
   <a href="http://d-gamedev-team.github.io/gfm/">
@@ -1438,7 +1438,7 @@
    Dtanks
   </a>
   <span>
-   &#9733 8, pushed 95 days ago
+   &#9733 8, pushed 96 days ago
   </span>
   - Robot Tank Battle Game.
  </li>
@@ -1490,7 +1490,7 @@
    dstats
   </a>
   <span>
-   &#9733 10, pushed 35 days ago
+   &#9733 10, pushed 36 days ago
   </span>
   -  A statistics library for D.
  </li>
@@ -1529,7 +1529,7 @@
    logger
   </a>
   <span>
-   &#9733 6, pushed 284 days ago
+   &#9733 6, pushed 285 days ago
   </span>
   - Phobos logger proposal.
  </li>
@@ -1589,7 +1589,7 @@
    mood
   </a>
   <span>
-   &#9733 35, pushed 50 days ago
+   &#9733 35, pushed 51 days ago
   </span>
   - simple vibe.d based blog engine
  </li>

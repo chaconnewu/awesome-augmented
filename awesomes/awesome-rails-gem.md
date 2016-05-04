@@ -131,7 +131,7 @@
    Clearance
   </a>
   <span>
-   &#9733 2314, pushed 3 days ago
+   &#9733 2314, pushed 4 days ago
   </span>
   - Rails authentication with email & password.
  </li>
@@ -140,7 +140,7 @@
    Devise token auth
   </a>
   <span>
-   &#9733 1237, pushed 9 days ago
+   &#9733 1237, pushed 10 days ago
   </span>
   - Token based authentication for Rails JSON APIs.
  </li>
@@ -154,7 +154,7 @@
    Pundit
   </a>
   <span>
-   &#9733 4240, pushed 2 days ago
+   &#9733 4240, pushed 3 days ago
   </span>
   - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
  </li>
@@ -200,7 +200,7 @@
    omniauth-google-oauth2
   </a>
   <span>
-   &#9733 681, pushed 21 days ago
+   &#9733 681, pushed 22 days ago
   </span>
  </li>
  <li>
@@ -254,7 +254,7 @@
    counter_culture
   </a>
   <span>
-   &#9733 612, pushed 8 days ago
+   &#9733 612, pushed 9 days ago
   </span>
   - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches.
  </li>
@@ -285,7 +285,7 @@
    FriendlyId
   </a>
   <span>
-   &#9733 4045, pushed 5 days ago
+   &#9733 4045, pushed 6 days ago
   </span>
   - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
  </li>
@@ -398,7 +398,7 @@
    goldiloader
   </a>
   <span>
-   &#9733 482, pushed 58 days ago
+   &#9733 482, pushed 59 days ago
   </span>
   - Automatic ActiveRecord eager loading to reduce the number of database queries run by your application.
  </li>
@@ -410,7 +410,7 @@
      ActsAsTaggableOn
     </a>
     <span>
-     &#9733 3650, pushed 11 days ago
+     &#9733 3650, pushed 12 days ago
     </span>
     - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
    </li>
@@ -419,7 +419,7 @@
      closure_tree
     </a>
     <span>
-     &#9733 832, pushed 7 days ago
+     &#9733 832, pushed 8 days ago
     </span>
     - Easily and efficiently make your ActiveRecord models support hierarchies.
    </li>
@@ -496,7 +496,7 @@
    Rails ERD
   </a>
   <span>
-   &#9733 1553, pushed 4 days ago
+   &#9733 1553, pushed 5 days ago
   </span>
   - Generate Entity-Relationship Diagrams for Rails applications.
  </li>
@@ -555,7 +555,7 @@
    rest-client
   </a>
   <span>
-   &#9733 3324, pushed 1 days ago
+   &#9733 3324, pushed 2 days ago
   </span>
   - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
  </li>
@@ -585,7 +585,7 @@
      Grape Swagger UI
     </a>
     <span>
-     &#9733 4841, pushed 3 days ago
+     &#9733 4841, pushed 4 days ago
     </span>
     - Display documentation that is generated using Grape Swagger.
    </li>
@@ -654,7 +654,7 @@
      CarrierWave ImageOptimizer
     </a>
     <span>
-     &#9733 119, pushed 96 days ago
+     &#9733 119, pushed 97 days ago
     </span>
     - This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng using the image
    </li>
@@ -667,7 +667,7 @@ optimizer gem.
   remotipart
  </a>
  <span>
-  &#9733 849, pushed 11 days ago
+  &#9733 849, pushed 12 days ago
  </span>
  - Rails jQuery file uploads via standard Rails "remote: true" forms.
 </li>
@@ -694,7 +694,7 @@ optimizer gem.
   refile
  </a>
  <span>
-  &#9733 2154, pushed 13 days ago
+  &#9733 2154, pushed 14 days ago
  </span>
  - Refile is a modern file upload library for Ruby applications. It is simple, yet powerful.
 </li>
@@ -703,7 +703,7 @@ optimizer gem.
   Paperclip
  </a>
  <span>
-  &#9733 7828, pushed 2 days ago
+  &#9733 7828, pushed 3 days ago
  </span>
  - Easy file attachment management for ActiveRecord.
 </li>
@@ -716,7 +716,7 @@ optimizer gem.
    ransack
   </a>
   <span>
-   &#9733 2693, pushed 5 days ago
+   &#9733 2693, pushed 6 days ago
   </span>
   - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
  </li>
@@ -755,7 +755,7 @@ optimizer gem.
    </em>
   </a>
   <span>
-   &#9733 1488, pushed 14 days ago
+   &#9733 1488, pushed 15 days ago
   </span>
   - pg
  </li>
@@ -788,7 +788,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Whenever
   </a>
   <span>
-   &#9733 6324, pushed 4 days ago
+   &#9733 6324, pushed 5 days ago
   </span>
   - Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs.
  </li>
@@ -815,7 +815,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Sidekiq
   </a>
   <span>
-   &#9733 6214, pushed 1 days ago
+   &#9733 6214, pushed 2 days ago
   </span>
   - Simple, efficient background processing for Ruby.
   <ul>
@@ -876,7 +876,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Simple Form
   </a>
   <span>
-   &#9733 6002, pushed 3 days ago
+   &#9733 6002, pushed 4 days ago
   </span>
   - Simple form aims to be as flexible as possible while helping you with powerful components to create your forms. The basic goal of Simple Form is to not touch your way of defining the layout, letting you find the better design for your eyes.
  </li>
@@ -907,7 +907,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    to
   </a>
   <span>
-   &#9733 483, pushed 68 days ago
+   &#9733 483, pushed 69 days ago
   </span>
   - active
   <em>
@@ -938,7 +938,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Subdivision Select
   </a>
   <span>
-   &#9733 4, pushed 12 days ago
+   &#9733 4, pushed 13 days ago
   </span>
   - A Rails plugin to populate a state/province select box from country_select.
  </li>
@@ -947,7 +947,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    cocoon
   </a>
   <span>
-   &#9733 1959, pushed 42 days ago
+   &#9733 1959, pushed 43 days ago
   </span>
   - Dynamic nested forms using jQuery made easy
  </li>
@@ -961,7 +961,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Config
   </a>
   <span>
-   &#9733 1018, pushed 1 days ago
+   &#9733 1018, pushed 2 days ago
   </span>
   - Multi-environment YAML style configurations that helps easily manage environment specific settings in an easy and usable manner.
  </li>
@@ -970,7 +970,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Figaro
   </a>
   <span>
-   &#9733 2640, pushed 6 days ago
+   &#9733 2640, pushed 7 days ago
   </span>
   - Figaro is very simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
  </li>
@@ -1051,7 +1051,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Impressionist
   </a>
   <span>
-   &#9733 860, pushed 90 days ago
+   &#9733 860, pushed 91 days ago
   </span>
   - Impressionist can log page impressions (technically action impressions), but it is not limited to that. You can log impressions multiple times per request. And you can also attach it to a model. The goal of this project is to provide customizable stats that are immediately accessible in your application as opposed to using Google Analytics and pulling data using their API.
  </li>
@@ -1069,7 +1069,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Lograge
   </a>
   <span>
-   &#9733 1612, pushed 1 days ago
+   &#9733 1612, pushed 2 days ago
   </span>
   - An attempt to tame Rails' default policy to log everything.
  </li>
@@ -1103,7 +1103,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    pry-rails
   </a>
   <span>
-   &#9733 788, pushed 288 days ago
+   &#9733 788, pushed 289 days ago
   </span>
   - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
  </li>
@@ -1172,7 +1172,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Better Errors
   </a>
   <span>
-   &#9733 5735, pushed 17 days ago
+   &#9733 5735, pushed 18 days ago
   </span>
   - Better errors replaces the standard Rails error page with a much better and more useful error page.
   <ul>
@@ -1186,7 +1186,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
      _caller
     </a>
     <span>
-     &#9733 462, pushed 104 days ago
+     &#9733 462, pushed 105 days ago
     </span>
     .
    </li>
@@ -1197,7 +1197,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    RailsPanel
   </a>
   <span>
-   &#9733 2603, pushed 21 days ago
+   &#9733 2603, pushed 22 days ago
   </span>
   - RailsPanel is a Chrome extension for Rails development that will end your tailing of development.log.
  </li>
@@ -1211,7 +1211,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    RuboCop
   </a>
   <span>
-   &#9733 6230, pushed 1 days ago
+   &#9733 6230, pushed 2 days ago
   </span>
   - Rubocop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community
   <a href="https://github.com/bbatsov/ruby-style-guide">
@@ -1265,7 +1265,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
    Capybara
   </a>
   <span>
-   &#9733 6964, pushed 1 days ago
+   &#9733 6964, pushed 2 days ago
   </span>
   - Capybara helps you test web applications by simulating how a real user would interact with your app. And drivers:
   <ul>
@@ -1283,7 +1283,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
      selenium-webdriver
     </a>
     <span>
-     &#9733 22, pushed 137 days ago
+     &#9733 22, pushed 138 days ago
     </span>
     - Selenium-webdriver provides ruby bindings for WebDriver.
    </li>
@@ -1292,7 +1292,7 @@ search builds ActiveRecord named scopes that take advantage of PostgreSQL's full
      poltergeist
     </a>
     <span>
-     &#9733 2097, pushed 13 days ago
+     &#9733 2097, pushed 14 days ago
     </span>
     - Poltergeist allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
    </li>
@@ -1365,7 +1365,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
   shoulda-matchers
  </a>
  <span>
-  &#9733 1642, pushed 12 days ago
+  &#9733 1642, pushed 13 days ago
  </span>
  - Shoulda-matchers provides serveral matchers for testing common Rails functionality.
 </li>
@@ -1392,7 +1392,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
   Timecop
  </a>
  <span>
-  &#9733 2055, pushed 24 days ago
+  &#9733 2055, pushed 25 days ago
  </span>
  - A gem providing "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
 </li>
@@ -1414,7 +1414,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    brakeman
   </a>
   <span>
-   &#9733 3322, pushed 1 days ago
+   &#9733 3322, pushed 2 days ago
   </span>
   - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
  </li>
@@ -1432,7 +1432,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    Secure Headers
   </a>
   <span>
-   &#9733 1666, pushed 3 days ago
+   &#9733 1666, pushed 4 days ago
   </span>
   -  Secure Headers will automatically apply several headers that are related to security.
  </li>
@@ -1446,7 +1446,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    Capistrano
   </a>
   <span>
-   &#9733 8298, pushed 5 days ago
+   &#9733 8298, pushed 6 days ago
   </span>
   - Remote multi-server automation tool.
  </li>
@@ -1496,7 +1496,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    Rollbar
   </a>
   <span>
-   &#9733 163, pushed 2 days ago
+   &#9733 163, pushed 3 days ago
   </span>
   - Exception tracking and logging from Ruby to Rollbar.
  </li>
@@ -1514,7 +1514,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    Errbit
   </a>
   <span>
-   &#9733 3350, pushed 6 days ago
+   &#9733 3350, pushed 7 days ago
   </span>
   - Open source notifier gem compliant with Airbrake.
  </li>
@@ -1528,7 +1528,7 @@ girl is a fixtures replacement with a straightforward definition syntax, support
    Alaska
   </a>
   <span>
-   &#9733 39, pushed 162 days ago
+   &#9733 39, pushed 163 days ago
   </span>
   - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
  </li>

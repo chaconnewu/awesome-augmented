@@ -308,7 +308,7 @@
    Cmdliner
   </a>
   <span>
-   &#9733 34, pushed 6 days ago
+   &#9733 34, pushed 7 days ago
   </span>
   – Declarative definition of command line interfaces for OCaml.
  </li>
@@ -341,7 +341,7 @@
    easy-format
   </a>
   <span>
-   &#9733 11, pushed 147 days ago
+   &#9733 11, pushed 148 days ago
   </span>
   – Pretty-printing library for OCaml.
  </li>
@@ -350,7 +350,7 @@
    ocaml-rpc
   </a>
   <span>
-   &#9733 25, pushed 284 days ago
+   &#9733 25, pushed 285 days ago
   </span>
   – Light library to deal with RPCs in OCaml.
  </li>
@@ -471,7 +471,7 @@
    infer
   </a>
   <span>
-   &#9733 5107, pushed 3 days ago
+   &#9733 5107, pushed 4 days ago
   </span>
   - infer is a static analyzer for Java, C and Objective-C
  </li>
@@ -480,7 +480,7 @@
    flow
   </a>
   <span>
-   &#9733 7083, pushed 2 days ago
+   &#9733 7083, pushed 3 days ago
   </span>
   - flow is a static type checker for JavaScript
  </li>
@@ -551,7 +551,7 @@
      Rhine
     </a>
     <span>
-     &#9733 552, pushed 398 days ago
+     &#9733 552, pushed 399 days ago
     </span>
     – A Lisp on LLVM written in OCaml.
    </li>
@@ -594,7 +594,7 @@
      Opal
     </a>
     <span>
-     &#9733 40, pushed 22 days ago
+     &#9733 40, pushed 23 days ago
     </span>
     – Self-contained monadic parser combinators for OCaml.
    </li>
@@ -713,7 +713,7 @@
      mysql_protocol
     </a>
     <span>
-     &#9733 5, pushed 79 days ago
+     &#9733 5, pushed 80 days ago
     </span>
     – Implementation of MySQL Protocol with the Bitstring library.
    </li>
@@ -886,7 +886,7 @@
      tuareg
     </a>
     <span>
-     &#9733 107, pushed 24 days ago
+     &#9733 107, pushed 25 days ago
     </span>
     - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
    </li>
@@ -1108,7 +1108,7 @@
      cairo2
     </a>
     <span>
-     &#9733 11, pushed 260 days ago
+     &#9733 11, pushed 261 days ago
     </span>
     — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
    </li>
@@ -1221,7 +1221,7 @@
    OCaml Style Guide
   </a>
   <span>
-   &#9733 5, pushed 471 days ago
+   &#9733 5, pushed 472 days ago
   </span>
   - See also:
   <a href="https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html">
@@ -1317,7 +1317,7 @@
      </em>
     </a>
     <span>
-     &#9733 12, pushed 136 days ago
+     &#9733 12, pushed 137 days ago
     </span>
     – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
    </li>
@@ -1429,7 +1429,7 @@ monad
      ocaml-cohttp
     </a>
     <span>
-     &#9733 156, pushed 1 days ago
+     &#9733 156, pushed 2 days ago
     </span>
     – Very lightweight HTTP server using Lwt or Async.
    </li>
@@ -1484,7 +1484,7 @@ monad
    ocaml-dns
   </a>
   <span>
-   &#9733 32, pushed 15 days ago
+   &#9733 32, pushed 16 days ago
   </span>
   – A pure OCaml implementation of the DNS protocol.
  </li>
@@ -1596,7 +1596,7 @@ monad
      oasis2opam
     </a>
     <span>
-     &#9733 18, pushed 46 days ago
+     &#9733 18, pushed 47 days ago
     </span>
     — Tool to convert OASIS metadata to OPAM package descriptions.
    </li>
@@ -1638,7 +1638,7 @@ monad
      topkg
     </a>
     <span>
-     &#9733 34, pushed 6 days ago
+     &#9733 34, pushed 7 days ago
     </span>
     — OPAM-aware packaging system using ocamlbuild.
    </li>
@@ -1675,7 +1675,7 @@ monad
      ForkWork
     </a>
     <span>
-     &#9733 17, pushed 1101 days ago
+     &#9733 17, pushed 1102 days ago
     </span>
     — A simple library for forking child processes to perform work on multiple cores.
    </li>
@@ -1709,7 +1709,7 @@ monad
      Nproc
     </a>
     <span>
-     &#9733 24, pushed 978 days ago
+     &#9733 24, pushed 979 days ago
     </span>
     – Process pool implementation for OCaml.
    </li>
@@ -1885,7 +1885,7 @@ monad
    biniou
   </a>
   <span>
-   &#9733 16, pushed 12 days ago
+   &#9733 16, pushed 13 days ago
   </span>
   – Extensible binary data format, like JSON but faster.
  </li>
@@ -2016,7 +2016,7 @@ monad
    TestSimple
   </a>
   <span>
-   &#9733 6, pushed 429 days ago
+   &#9733 6, pushed 430 days ago
   </span>
   - A lightweight unit testing framework compatible with the
   <a href="https://testanything.org/">
@@ -2082,7 +2082,7 @@ monad
      COW
     </a>
     <span>
-     &#9733 52, pushed 50 days ago
+     &#9733 52, pushed 51 days ago
     </span>
     – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
    </li>
@@ -2183,7 +2183,7 @@ modules
      atdjs
     </a>
     <span>
-     &#9733 8, pushed 950 days ago
+     &#9733 8, pushed 951 days ago
     </span>
     – atd code generator for OCaml/js
     <em>
@@ -2205,7 +2205,7 @@ modules
      dispatch
     </a>
     <span>
-     &#9733 14, pushed 166 days ago
+     &#9733 14, pushed 167 days ago
     </span>
     – Path-based dispatching for client- and server-side applications.
    </li>
@@ -2214,7 +2214,7 @@ modules
      Lambda Soup
     </a>
     <span>
-     &#9733 70, pushed 18 days ago
+     &#9733 70, pushed 19 days ago
     </span>
     - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
    </li>

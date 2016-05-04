@@ -157,7 +157,7 @@
    </strong>
   </a>
   <span>
-   &#9733 1926, pushed 0 days ago
+   &#9733 1926, pushed 1 days ago
   </span>
   - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
  </li>
@@ -224,7 +224,7 @@
    </strong>
   </a>
   <span>
-   &#9733 516, pushed 34 days ago
+   &#9733 516, pushed 35 days ago
   </span>
   - State Machines
  </li>
@@ -238,7 +238,7 @@
    AsyncEx ★402
   </a>
   <span>
-   &#9733 410, pushed 11 days ago
+   &#9733 410, pushed 12 days ago
   </span>
   - A helper library for async/await
  </li>
@@ -247,7 +247,7 @@
    LinqToAwait ★80
   </a>
   <span>
-   &#9733 80, pushed 429 days ago
+   &#9733 80, pushed 430 days ago
   </span>
   - A Task-based LINQ designed to work with async/await
  </li>
@@ -407,7 +407,7 @@
    EZ-Compress ★3
   </a>
   <span>
-   &#9733 3, pushed 55 days ago
+   &#9733 3, pushed 56 days ago
   </span>
   - A simple image stream compression plugin for Xamarin
  </li>
@@ -421,7 +421,7 @@
    io ★2
   </a>
   <span>
-   &#9733 2, pushed 12 days ago
+   &#9733 2, pushed 13 days ago
   </span>
   - Access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
@@ -447,7 +447,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    </strong>
   </a>
   <span>
-   &#9733 976, pushed 3 days ago
+   &#9733 976, pushed 4 days ago
   </span>
   - An addictive .NET IoC container
  </li>
@@ -462,7 +462,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    Funq ★0
   </a>
   <span>
-   &#9733 0, pushed 720 days ago
+   &#9733 0, pushed 721 days ago
   </span>
   - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories
  </li>
@@ -482,7 +482,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    </strong>
   </a>
   <span>
-   &#9733 1454, pushed 8 days ago
+   &#9733 1454, pushed 9 days ago
   </span>
   - The ninja of .net dependency injectors
  </li>
@@ -766,7 +766,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    PCLCrypto ★86
   </a>
   <span>
-   &#9733 90, pushed 18 days ago
+   &#9733 90, pushed 19 days ago
   </span>
   - Cryptography for portable class libraries (MD5,...)
  </li>
@@ -873,7 +873,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    GradleBindings ★39
   </a>
   <span>
-   &#9733 39, pushed 272 days ago
+   &#9733 39, pushed 273 days ago
   </span>
   - Visual Studio extension, for referencing gradle libs in Android projects
  </li>
@@ -948,7 +948,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    AdvancedTimer ★9
   </a>
   <span>
-   &#9733 9, pushed 122 days ago
+   &#9733 9, pushed 123 days ago
   </span>
   - Timer object and its methods are implemented for extended support for timers.
  </li>
@@ -1002,7 +1002,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    SolTech Xamarin Forms Toolkit ★18
   </a>
   <span>
-   &#9733 18, pushed 311 days ago
+   &#9733 18, pushed 312 days ago
   </span>
   - set of helpful extensions to the Xamarin Forms framework
  </li>
@@ -1026,7 +1026,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    Toasts Plugin ★78
   </a>
   <span>
-   &#9733 81, pushed 19 days ago
+   &#9733 81, pushed 20 days ago
   </span>
   - A simple way of showing some notifications inside your Xamarin.Forms application
  </li>
@@ -1105,7 +1105,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    Estimote ★12
   </a>
   <span>
-   &#9733 12, pushed 12 days ago
+   &#9733 12, pushed 13 days ago
   </span>
   - Cross platform implementation of the estimote library for beacons.
  </li>
@@ -1123,7 +1123,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    HybridKit ★6
   </a>
   <span>
-   &#9733 6, pushed 426 days ago
+   &#9733 6, pushed 427 days ago
   </span>
   - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
  </li>
@@ -1138,7 +1138,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    ManageSleep ★4
   </a>
   <span>
-   &#9733 4, pushed 463 days ago
+   &#9733 4, pushed 464 days ago
   </span>
   - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
  </li>
@@ -1156,7 +1156,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    notifications ★5
   </a>
   <span>
-   &#9733 5, pushed 17 days ago
+   &#9733 5, pushed 18 days ago
   </span>
   - Notifications plugin for Xamarin and Windows
  </li>
@@ -1174,7 +1174,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    userdialogs ★92
   </a>
   <span>
-   &#9733 99, pushed 3 days ago
+   &#9733 99, pushed 4 days ago
   </span>
   - Standard user dialogs from a shared/portable library.
  </li>
@@ -1189,7 +1189,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    Xamarin.Badge ★15
   </a>
   <span>
-   &#9733 15, pushed 302 days ago
+   &#9733 15, pushed 303 days ago
   </span>
   - Simple cross platform plugin to work with application badge
  </li>
@@ -1207,7 +1207,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
    Xamarin.Mobile ★181
   </a>
   <span>
-   &#9733 184, pushed 187 days ago
+   &#9733 184, pushed 188 days ago
   </span>
   - Reading the user's address book and using the camera
  </li>

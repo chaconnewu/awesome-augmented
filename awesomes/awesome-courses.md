@@ -1063,7 +1063,7 @@
      Assignments
     </a>
     <span>
-     &#9733 17, pushed 6 days ago
+     &#9733 17, pushed 7 days ago
     </span>
    </li>
   </ul>
@@ -4370,7 +4370,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
    CSCI 4976
   </a>
   <span>
-   &#9733 1215, pushed 27 days ago
+   &#9733 1215, pushed 28 days ago
   </span>
   <strong>
    Modern Binary Exploitation
@@ -4745,7 +4745,7 @@ and anti-analysis techniques.
    CS 378
   </a>
   <span>
-   &#9733 56, pushed 440 days ago
+   &#9733 56, pushed 441 days ago
   </span>
   <strong>
    3D Reconstruction with Computer Vision

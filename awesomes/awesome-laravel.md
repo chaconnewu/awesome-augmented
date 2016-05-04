@@ -246,7 +246,7 @@
    Laravel 5 Extended Generators
   </a>
   <span>
-   &#9733 989, pushed 15 days ago
+   &#9733 989, pushed 16 days ago
   </span>
   - Extends built-in file generators
  </li>
@@ -453,7 +453,7 @@
    Eloquent Sluggable
   </a>
   <span>
-   &#9733 1040, pushed 1 days ago
+   &#9733 1040, pushed 2 days ago
   </span>
   - Create slugs for Eloquent models
  </li>
@@ -516,7 +516,7 @@
    Laravel Dot Env Generator
   </a>
   <span>
-   &#9733 137, pushed 207 days ago
+   &#9733 137, pushed 208 days ago
   </span>
   - Generate .env.gen file based on the project source code
  </li>
@@ -525,7 +525,7 @@
    Laravel Excel
   </a>
   <span>
-   &#9733 2029, pushed 0 days ago
+   &#9733 2029, pushed 1 days ago
   </span>
   - Import and export Excel and CSV files
  </li>
@@ -534,7 +534,7 @@
    Laravel GeoIP
   </a>
   <span>
-   &#9733 280, pushed 91 days ago
+   &#9733 280, pushed 92 days ago
   </span>
   - Determine the geographical location of website visitors based on their IP addresses
  </li>
@@ -591,7 +591,7 @@
    Laravel Snappy
   </a>
   <span>
-   &#9733 307, pushed 11 days ago
+   &#9733 307, pushed 12 days ago
   </span>
   - HTML to PDF generator using wkhtmltopdf
  </li>
@@ -600,7 +600,7 @@
    Laravel Stapler
   </a>
   <span>
-   &#9733 401, pushed 18 days ago
+   &#9733 401, pushed 19 days ago
   </span>
   - ORM-based file upload manager
  </li>
@@ -618,7 +618,7 @@
    Laravel Stats Tracker
   </a>
   <span>
-   &#9733 745, pushed 10 days ago
+   &#9733 745, pushed 11 days ago
   </span>
   - Gather information from requests to identify and store
  </li>
@@ -672,7 +672,7 @@
    Laravel Setting
   </a>
   <span>
-   &#9733 139, pushed 3 days ago
+   &#9733 139, pushed 4 days ago
   </span>
   - Persistent configuration settings that are stored in JSON files
  </li>
@@ -681,7 +681,7 @@
    Friendship
   </a>
   <span>
-   &#9733 168, pushed 28 days ago
+   &#9733 168, pushed 29 days ago
   </span>
   - Friendship management system - send, receive, accept, deny friend requests
  </li>
@@ -735,7 +735,7 @@
    Laravel Test Factory Generator
   </a>
   <span>
-   &#9733 204, pushed 30 days ago
+   &#9733 204, pushed 31 days ago
   </span>
   - Generate Laravel test factories from your existing models
  </li>
@@ -767,7 +767,7 @@
    Javascript Validation
   </a>
   <span>
-   &#9733 162, pushed 50 days ago
+   &#9733 162, pushed 51 days ago
   </span>
   - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
  </li>
@@ -817,7 +817,7 @@
    iSeed
   </a>
   <span>
-   &#9733 368, pushed 12 days ago
+   &#9733 368, pushed 13 days ago
   </span>
   - Generate a new seed file from an existing database table
  </li>
@@ -862,7 +862,7 @@
    Sofa/Eloquence
   </a>
   <span>
-   &#9733 341, pushed 6 days ago
+   &#9733 341, pushed 7 days ago
   </span>
   - Extensions for the Eloquent ORM
  </li>
@@ -885,7 +885,7 @@
    Algolia Search
   </a>
   <span>
-   &#9733 108, pushed 31 days ago
+   &#9733 108, pushed 32 days ago
   </span>
   - Integrates the Algolia Search API to the Laravel Eloquent ORM
  </li>
@@ -903,7 +903,7 @@
    Laravel Search
   </a>
   <span>
-   &#9733 189, pushed 68 days ago
+   &#9733 189, pushed 69 days ago
   </span>
   - Unified API for Elasticsearch, Algolia, and ZendSearch
  </li>
@@ -912,7 +912,7 @@
    SearchIndex
   </a>
   <span>
-   &#9733 255, pushed 190 days ago
+   &#9733 255, pushed 191 days ago
   </span>
   - Store and retrieve objects from Algolia or Elasticsearch
  </li>
@@ -921,7 +921,7 @@
    Searchable
   </a>
   <span>
-   &#9733 659, pushed 96 days ago
+   &#9733 659, pushed 97 days ago
   </span>
   - Trait that adds a simple search function to Eloquent models
  </li>
@@ -962,7 +962,7 @@
    Laravel Fractal
   </a>
   <span>
-   &#9733 139, pushed 33 days ago
+   &#9733 139, pushed 34 days ago
   </span>
   - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
  </li>
@@ -1017,7 +1017,7 @@
    Omnipay for Laravel
   </a>
   <span>
-   &#9733 154, pushed 50 days ago
+   &#9733 154, pushed 51 days ago
   </span>
   - Integrate the
   <a href="https://github.com/thephpleague/omnipay">
@@ -1058,7 +1058,7 @@
    Language Files
   </a>
   <span>
-   &#9733 1278, pushed 9 days ago
+   &#9733 1278, pushed 10 days ago
   </span>
   - Validation, Pagination and Reminders language lines in 37 languages
  </li>
@@ -1076,7 +1076,7 @@
    Laravel Translatable
   </a>
   <span>
-   &#9733 731, pushed 11 days ago
+   &#9733 731, pushed 12 days ago
   </span>
   - Retrieve and store translatable Eloquent model instances
  </li>
@@ -1103,7 +1103,7 @@
    Laravel Langman
   </a>
   <span>
-   &#9733 412, pushed 8 days ago
+   &#9733 412, pushed 9 days ago
   </span>
   - Manage language files from Artisan Console
  </li>
@@ -1265,7 +1265,7 @@
    LaraDock
   </a>
   <span>
-   &#9733 306, pushed 4 days ago
+   &#9733 306, pushed 5 days ago
   </span>
   - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
  </li>
@@ -2024,7 +2024,7 @@
    Laravel 5 Angular Material Starter
   </a>
   <span>
-   &#9733 1042, pushed 3 days ago
+   &#9733 1042, pushed 4 days ago
   </span>
  </li>
  <li>
@@ -2040,7 +2040,7 @@
    Laravel Hackathon Starter
   </a>
   <span>
-   &#9733 830, pushed 26 days ago
+   &#9733 830, pushed 27 days ago
   </span>
  </li>
 </ul>
@@ -2077,7 +2077,7 @@
    Deployer
   </a>
   <span>
-   &#9733 194, pushed 1 days ago
+   &#9733 194, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -2085,7 +2085,7 @@
    Invoice Ninja
   </a>
   <span>
-   &#9733 2152, pushed 1 days ago
+   &#9733 2152, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -2109,7 +2109,7 @@
    Laravel.IO
   </a>
   <span>
-   &#9733 781, pushed 50 days ago
+   &#9733 781, pushed 51 days ago
   </span>
  </li>
  <li>
@@ -2681,7 +2681,7 @@
    Larapress
   </a>
   <span>
-   &#9733 166, pushed 682 days ago
+   &#9733 166, pushed 683 days ago
   </span>
   - A Laravel 4 CMS
  </li>

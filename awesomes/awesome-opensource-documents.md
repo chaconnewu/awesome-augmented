@@ -258,7 +258,7 @@
    The little book about OS development
   </a>
   <span>
-   &#9733 666, pushed 18 days ago
+   &#9733 666, pushed 19 days ago
   </span>
   (
   <a href="http://littleosbook.github.io/">
@@ -299,7 +299,7 @@
    Open Data Structures
   </a>
   <span>
-   &#9733 365, pushed 12 days ago
+   &#9733 365, pushed 13 days ago
   </span>
   (
   <a href="http://opendatastructures.org/">
@@ -359,7 +359,7 @@
    Is Parallel Programming Hard, And, If So, What Can You Do About It?
   </a>
   <span>
-   &#9733 24, pushed 1204 days ago
+   &#9733 24, pushed 1205 days ago
   </span>
   (
   <a href="https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html">
@@ -498,7 +498,7 @@
    The Book Of Jupyter
   </a>
   <span>
-   &#9733 13, pushed 111 days ago
+   &#9733 13, pushed 112 days ago
   </span>
   (
   <a href="https://carreau.gitbooks.io/jupyter-book/content/">
@@ -595,7 +595,7 @@
    The Art of Command Line
   </a>
   <span>
-   &#9733 26355, pushed 13 days ago
+   &#9733 26355, pushed 14 days ago
   </span>
   (cc-sa) - Master the command line, in one page
  </li>
@@ -626,7 +626,7 @@
    Collision Detection
   </a>
   <span>
-   &#9733 17, pushed 346 days ago
+   &#9733 17, pushed 347 days ago
   </span>
   (
   <a href="http://www.jeffreythompson.org/collision-detection/">
@@ -813,7 +813,7 @@
    WHAT IS CODE?
   </a>
   <span>
-   &#9733 2622, pushed 83 days ago
+   &#9733 2622, pushed 84 days ago
   </span>
   (
   <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
@@ -924,7 +924,7 @@
    How to lose weight (in the browser)
   </a>
   <span>
-   &#9733 1761, pushed 2 days ago
+   &#9733 1761, pushed 3 days ago
   </span>
   (
   <a href="http://browserdiet.com/">
@@ -996,7 +996,7 @@
    The Hitchhiker's Guide to Documentation!
   </a>
   <span>
-   &#9733 5, pushed 373 days ago
+   &#9733 5, pushed 374 days ago
   </span>
   (
   <a href="http://docs-guide.readthedocs.org/en/latest/">
@@ -1029,7 +1029,7 @@
    Prose for Programmers
   </a>
   <span>
-   &#9733 109, pushed 78 days ago
+   &#9733 109, pushed 79 days ago
   </span>
   (cc-nc-nd) - A book to help software developers write better prose
  </li>
@@ -1053,7 +1053,7 @@
    Intro to D3.js
   </a>
   <span>
-   &#9733 408, pushed 50 days ago
+   &#9733 408, pushed 51 days ago
   </span>
   (
   <a href="https://square.github.io/intro-to-d3/">
@@ -1182,7 +1182,7 @@
    Cocktails for programmers
   </a>
   <span>
-   &#9733 2147, pushed 509 days ago
+   &#9733 2147, pushed 510 days ago
   </span>
   (MIT) - Сocktails for programmers. Коктейли для программистов.
  </li>
@@ -1258,7 +1258,7 @@
    RxMarbles
   </a>
   <span>
-   &#9733 1052, pushed 33 days ago
+   &#9733 1052, pushed 34 days ago
   </span>
   (
   <a href="http://rxmarbles.com/">
@@ -1283,7 +1283,7 @@
    C Style
   </a>
   <span>
-   &#9733 256, pushed 789 days ago
+   &#9733 256, pushed 790 days ago
   </span>
   (cc-sa) - My favorite C programming practices
  </li>
@@ -1498,7 +1498,7 @@
    ClojureDocs
   </a>
   <span>
-   &#9733 395, pushed 111 days ago
+   &#9733 395, pushed 112 days ago
   </span>
   (
   <a href="http://clojuredocs.org">
@@ -1592,7 +1592,7 @@
    Structure and Interpretation of Computer Program
   </a>
   <span>
-   &#9733 39, pushed 37 days ago
+   &#9733 39, pushed 38 days ago
   </span>
   (
   <a href="http://lfe.gitbooks.io/sicp/">
@@ -1614,7 +1614,7 @@
    Go by Example
   </a>
   <span>
-   &#9733 1556, pushed 13 days ago
+   &#9733 1556, pushed 14 days ago
   </span>
   (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
  </li>
@@ -1686,7 +1686,7 @@
    JavaScript-Garden
   </a>
   <span>
-   &#9733 2371, pushed 40 days ago
+   &#9733 2371, pushed 41 days ago
   </span>
   (
   <a href="http://bonsaiden.github.io/JavaScript-Garden/">
@@ -1714,7 +1714,7 @@
    Angular Style Guide
   </a>
   <span>
-   &#9733 17991, pushed 4 days ago
+   &#9733 17991, pushed 5 days ago
   </span>
   (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
  </li>
@@ -1723,7 +1723,7 @@
    JavaScript : The Right Way
   </a>
   <span>
-   &#9733 5510, pushed 15 days ago
+   &#9733 5510, pushed 16 days ago
   </span>
   (
   <a href="http://jstherightway.org/">
@@ -1745,7 +1745,7 @@
    Angular Test Patterns
   </a>
   <span>
-   &#9733 799, pushed 88 days ago
+   &#9733 799, pushed 89 days ago
   </span>
   (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
  </li>
@@ -1754,7 +1754,7 @@
    Airbnb JavaScript Style Guide
   </a>
   <span>
-   &#9733 34437, pushed 1 days ago
+   &#9733 34437, pushed 2 days ago
   </span>
   (MIT) - A mostly reasonable approach to JavaScript
  </li>
@@ -1763,7 +1763,7 @@
    JavaScript Garden
   </a>
   <span>
-   &#9733 2371, pushed 40 days ago
+   &#9733 2371, pushed 41 days ago
   </span>
   (
   <a href="http://bonsaiden.github.io/JavaScript-Garden/">
@@ -1807,7 +1807,7 @@
    The Node Beginner Book
   </a>
   <span>
-   &#9733 2903, pushed 47 days ago
+   &#9733 2903, pushed 48 days ago
   </span>
   (
   <a href="http://www.nodebeginner.org/">
@@ -1836,7 +1836,7 @@
    An introduction to Node.js
   </a>
   <span>
-   &#9733 4910, pushed 14 days ago
+   &#9733 4910, pushed 15 days ago
   </span>
   (cc-sa) - a short introduction to node.js
  </li>
@@ -1854,7 +1854,7 @@
    You Don't Know JS
   </a>
   <span>
-   &#9733 30063, pushed 5 days ago
+   &#9733 30063, pushed 6 days ago
   </span>
   (
   <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series">
@@ -1953,7 +1953,7 @@
    NYTimes Objective-C Style Guide
   </a>
   <span>
-   &#9733 4007, pushed 56 days ago
+   &#9733 4007, pushed 57 days ago
   </span>
   (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times
  </li>
@@ -2061,7 +2061,7 @@
    Full Stack Python
   </a>
   <span>
-   &#9733 1468, pushed 2 days ago
+   &#9733 1468, pushed 3 days ago
   </span>
   (
   <a href="http://www.fullstackpython.com/">
@@ -2094,7 +2094,7 @@
    A guide to Python's magic methods
   </a>
   <span>
-   &#9733 776, pushed 105 days ago
+   &#9733 776, pushed 106 days ago
   </span>
   (
   <a href="http://www.rafekettler.com/magicmethods.html">
@@ -2140,7 +2140,7 @@
    Rust by Example
   </a>
   <span>
-   &#9733 2069, pushed 1 days ago
+   &#9733 2069, pushed 2 days ago
   </span>
   (
   <a href="http://rustbyexample.com/">
@@ -2153,7 +2153,7 @@
    Rust For Rubyists
   </a>
   <span>
-   &#9733 342, pushed 415 days ago
+   &#9733 342, pushed 416 days ago
   </span>
   (
   <a href="https://github.com/steveklabnik/rust_for_rubyists">
@@ -2182,7 +2182,7 @@
    Introduction to R
   </a>
   <span>
-   &#9733 65, pushed 749 days ago
+   &#9733 65, pushed 750 days ago
   </span>
   (
   <a href="https://ramnathv.github.io/pycon2014-r/">
@@ -2236,7 +2236,7 @@
    twitter.github.com/effectivescala
   </a>
   <span>
-   &#9733 1516, pushed 29 days ago
+   &#9733 1516, pushed 30 days ago
   </span>
   (
   <a href="http://twitter.github.io/effectivescala/">
@@ -2483,7 +2483,7 @@
    riak docs
   </a>
   <span>
-   &#9733 118, pushed 4 days ago
+   &#9733 118, pushed 5 days ago
   </span>
   (
   <a href="http://docs.basho.com/riak/latest/">
@@ -2706,7 +2706,7 @@
    Beautiful Docs
   </a>
   <span>
-   &#9733 2794, pushed 32 days ago
+   &#9733 2794, pushed 33 days ago
   </span>
   - Pointers to useful, well-written, and otherwise beautiful documentation
  </li>
@@ -2715,7 +2715,7 @@
    Papers We Love
   </a>
   <span>
-   &#9733 16161, pushed 11 days ago
+   &#9733 16161, pushed 12 days ago
   </span>
   - Papers from the computer science community to read and discuss
  </li>
@@ -2751,7 +2751,7 @@
    Python Reference
   </a>
   <span>
-   &#9733 1519, pushed 22 days ago
+   &#9733 1519, pushed 23 days ago
   </span>
   - Useful functions, tutorials, and other Python-related things
  </li>

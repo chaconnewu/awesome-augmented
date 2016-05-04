@@ -196,7 +196,7 @@
    Activate ★ 290 ⧗ 1
   </a>
   <span>
-   &#9733 290, pushed 65 days ago
+   &#9733 290, pushed 66 days ago
   </span>
   - Pluggable object persistence in Scala.
  </li>
@@ -215,7 +215,7 @@
    doobie ★ 426 ⧗ 0
   </a>
   <span>
-   &#9733 442, pushed 2 days ago
+   &#9733 442, pushed 3 days ago
   </span>
   - Pure functional JDBC layer for Scala.
  </li>
@@ -235,7 +235,7 @@
    MapperDao ★ 8 ⧗ 32
   </a>
   <span>
-   &#9733 8, pushed 7 days ago
+   &#9733 8, pushed 8 days ago
   </span>
   - An ORM library for oracle, mysql, mssql, and postgresql
  </li>
@@ -319,7 +319,7 @@
    Relate ★ 84 ⧗ 2
   </a>
   <span>
-   &#9733 90, pushed 70 days ago
+   &#9733 90, pushed 71 days ago
   </span>
   - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
  </li>
@@ -374,7 +374,7 @@
    scredis ★ 141 ⧗ 0
   </a>
   <span>
-   &#9733 142, pushed 11 days ago
+   &#9733 142, pushed 12 days ago
   </span>
   - Non-blocking Redis client built on top of Akka IO (used by Livestream)
  </li>
@@ -508,7 +508,7 @@
    peregine ★ 7 ⧗ 35
   </a>
   <span>
-   &#9733 8, pushed 90 days ago
+   &#9733 8, pushed 91 days ago
   </span>
   - A simple and async lightweight Scala web framework.
  </li>
@@ -518,7 +518,7 @@
     Play ★ 7693 ⧗ 0
    </a>
    <span>
-    &#9733 7800, pushed 0 days ago
+    &#9733 7800, pushed 1 days ago
    </span>
   </strong>
   - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
@@ -528,7 +528,7 @@
    Reactive ★ 194 ⧗ 37
   </a>
   <span>
-   &#9733 193, pushed 276 days ago
+   &#9733 193, pushed 277 days ago
   </span>
   - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
  </li>
@@ -538,7 +538,7 @@
     Scalatra ★ 1903 ⧗ 0
    </a>
    <span>
-    &#9733 1918, pushed 25 days ago
+    &#9733 1918, pushed 26 days ago
    </span>
   </strong>
   - Tiny Scala high-performance, async web framework, inspired by Sinatra.
@@ -577,7 +577,7 @@
     Unfiltered ★ 626 ⧗ 12
    </a>
    <span>
-    &#9733 627, pushed 97 days ago
+    &#9733 627, pushed 98 days ago
    </span>
   </strong>
   - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
@@ -704,7 +704,7 @@
     SecureSocial ★ 1166 ⧗ 0
    </a>
    <span>
-    &#9733 1164, pushed 18 days ago
+    &#9733 1164, pushed 19 days ago
    </span>
   </strong>
   - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
@@ -743,7 +743,7 @@
    Scrypto ★ 17 ⧗ 21
   </a>
   <span>
-   &#9733 18, pushed 1 days ago
+   &#9733 18, pushed 2 days ago
   </span>
   - All-purpose cryptographic framework.
  </li>
@@ -809,7 +809,7 @@
    Scalive ★ 131 ⧗ 1
   </a>
   <span>
-   &#9733 131, pushed 346 days ago
+   &#9733 131, pushed 347 days ago
   </span>
   - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
  </li>
@@ -872,7 +872,7 @@
    jawn ★ 191 ⧗ 2
   </a>
   <span>
-   &#9733 194, pushed 57 days ago
+   &#9733 194, pushed 58 days ago
   </span>
   - Fast json parser (According to them, competetive with java gson/jackson speed).
  </li>
@@ -992,7 +992,7 @@
    ScalaBuff ★ 196 ⧗ 11
   </a>
   <span>
-   &#9733 197, pushed 55 days ago
+   &#9733 197, pushed 56 days ago
   </span>
   - a Scala Protocol Buffers (protobuf) compiler
  </li>
@@ -1048,7 +1048,7 @@
     Algebird ★ 1195 ⧗ 0
    </a>
    <span>
-    &#9733 1215, pushed 5 days ago
+    &#9733 1215, pushed 6 days ago
    </span>
   </strong>
   - Abstract Algebra for Scala.
@@ -1065,7 +1065,7 @@
     Breeze ★ 1451 ⧗ 1
    </a>
    <span>
-    &#9733 1500, pushed 7 days ago
+    &#9733 1500, pushed 8 days ago
    </span>
   </strong>
   - Breeze is a numerical processing library for Scala.
@@ -1084,7 +1084,7 @@
    FACTORIE ★ 393 ⧗ 1
   </a>
   <span>
-   &#9733 403, pushed 4 days ago
+   &#9733 403, pushed 5 days ago
   </span>
   - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
  </li>
@@ -1142,7 +1142,7 @@
     PredictionIO ★ 8944 ⧗ 0
    </a>
    <span>
-    &#9733 9075, pushed 4 days ago
+    &#9733 9075, pushed 5 days ago
    </span>
   </strong>
   - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
@@ -1220,7 +1220,7 @@
    GridScale ★ 12 ⧗ 79
   </a>
   <span>
-   &#9733 12, pushed 11 days ago
+   &#9733 12, pushed 12 days ago
   </span>
   - A Scala API for computing clusters and grids.
  </li>
@@ -1250,7 +1250,7 @@
     Scalding ★ 2478 ⧗ 0
    </a>
    <span>
-    &#9733 2496, pushed 4 days ago
+    &#9733 2496, pushed 5 days ago
    </span>
   </strong>
   - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
@@ -1269,7 +1269,7 @@
    Scoozie ★ 61 ⧗ 18
   </a>
   <span>
-   &#9733 63, pushed 362 days ago
+   &#9733 63, pushed 363 days ago
   </span>
   - Scala DSL on top of Oozie XML
  </li>
@@ -1362,7 +1362,7 @@
    ScalaCollider ★ 95 ⧗ 3
   </a>
   <span>
-   &#9733 97, pushed 29 days ago
+   &#9733 97, pushed 30 days ago
   </span>
   - Sound synthesis and signal processing client for SuperCollider.
  </li>
@@ -1405,7 +1405,7 @@
    scala.frp ★ 18 ⧗ 240
   </a>
   <span>
-   &#9733 18, pushed 903 days ago
+   &#9733 18, pushed 904 days ago
   </span>
   - Functional Reactive Programming for Scala (event streams).
  </li>
@@ -1425,7 +1425,7 @@
    SynapseGrid ★ 89 ⧗ 24
   </a>
   <span>
-   &#9733 90, pushed 234 days ago
+   &#9733 90, pushed 235 days ago
   </span>
   - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
  </li>
@@ -1454,7 +1454,7 @@
    Cableguy
   </a>
   <span>
-   &#9733 0, pushed 20 days ago
+   &#9733 0, pushed 21 days ago
   </span>
   - Macro based compile time Dependency Injection library.
  </li>
@@ -1499,7 +1499,7 @@
    Sclasner ★ 9 ⧗ 135
   </a>
   <span>
-   &#9733 9, pushed 263 days ago
+   &#9733 9, pushed 264 days ago
   </span>
   - Scala classpath scanner.
  </li>
@@ -1539,7 +1539,7 @@
    CurioDB ★ 408 ⧗ 1
   </a>
   <span>
-   &#9733 412, pushed 66 days ago
+   &#9733 412, pushed 67 days ago
   </span>
   - Distributed & Persistent Redis Clone built with Scala & Akka.
  </li>
@@ -1585,7 +1585,7 @@
    better-files ★ 445 ⧗ 1
   </a>
   <span>
-   &#9733 475, pushed 20 days ago
+   &#9733 475, pushed 21 days ago
   </span>
   - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
  </li>
@@ -1595,7 +1595,7 @@
     Cassovary ★ 808 ⧗ 3
    </a>
    <span>
-    &#9733 815, pushed 5 days ago
+    &#9733 815, pushed 6 days ago
    </span>
   </strong>
   - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
@@ -1629,7 +1629,7 @@
    enableIf.scala
   </a>
   <span>
-   &#9733 24, pushed 16 days ago
+   &#9733 24, pushed 17 days ago
   </span>
   - A library that switches Scala code at compile-time, like
   <code>
@@ -1642,7 +1642,7 @@
    Lamma ★ 51 ⧗ 3
   </a>
   <span>
-   &#9733 54, pushed 122 days ago
+   &#9733 54, pushed 123 days ago
   </span>
   - A Scala date library for date and schedule generation.
  </li>
@@ -1662,7 +1662,7 @@
     Monocle ★ 547 ⧗ 0
    </a>
    <span>
-    &#9733 554, pushed 2 days ago
+    &#9733 554, pushed 3 days ago
    </span>
   </strong>
   - An Optics/Lens library for purely functional manipulation of immutable objects.
@@ -1672,7 +1672,7 @@
    Persist-Logging ★ 19 ⧗ 6
   </a>
   <span>
-   &#9733 20, pushed 44 days ago
+   &#9733 20, pushed 45 days ago
   </span>
   - Comprehensive logging library for Scala.
  </li>
@@ -1779,7 +1779,7 @@
     Twitter Util ★ 1484 ⧗ 0
    </a>
    <span>
-    &#9733 1505, pushed 4 days ago
+    &#9733 1505, pushed 5 days ago
    </span>
   </strong>
   - General-purpose Scala libraries, including a future implementation and other concurrency tools.
@@ -1805,7 +1805,7 @@
    Miniboxing
   </a>
   <span>
-   &#9733 82, pushed 50 days ago
+   &#9733 82, pushed 51 days ago
   </span>
   - A Scala compiler plugin that improves program performance --
   <a href="http://scala-miniboxing.org">
@@ -1833,7 +1833,7 @@
    scala-ssh ★ 164 ⧗ 2
   </a>
   <span>
-   &#9733 164, pushed 67 days ago
+   &#9733 164, pushed 68 days ago
   </span>
   - Remote shell access via SSH for your Scala applications
  </li>
@@ -1935,7 +1935,7 @@
     Finch.io ★ 635 ⧗ 1
    </a>
    <span>
-    &#9733 652, pushed 12 days ago
+    &#9733 652, pushed 13 days ago
    </span>
   </strong>
   - Purely Functional REST API atop of
@@ -1967,7 +1967,7 @@
    Newman ★ 237 ⧗ 0
   </a>
   <span>
-   &#9733 238, pushed 152 days ago
+   &#9733 238, pushed 153 days ago
   </span>
   - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See
   <a href="https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/">
@@ -1980,7 +1980,7 @@
    scalaj-http ★ 380 ⧗ 0
   </a>
   <span>
-   &#9733 388, pushed 30 days ago
+   &#9733 388, pushed 31 days ago
   </span>
   - Simple scala wrapper for HttpURLConnection (including OAuth support).
  </li>
@@ -2032,7 +2032,7 @@
    rdfp ★ 1 ⧗ 226
   </a>
   <span>
-   &#9733 1, pushed 182 days ago
+   &#9733 1, pushed 183 days ago
   </span>
   - RDF stream processing framework in Scala
  </li>
@@ -2140,7 +2140,7 @@
    sbt-classfinder ★ 2 ⧗ 113
   </a>
   <span>
-   &#9733 2, pushed 137 days ago
+   &#9733 2, pushed 138 days ago
   </span>
   - Retrieves runtime information about the classes and traits in a project.
  </li>
@@ -2229,7 +2229,7 @@
    sbt-robovm ★ 107 ⧗ 23
   </a>
   <span>
-   &#9733 108, pushed 61 days ago
+   &#9733 108, pushed 62 days ago
   </span>
   - An sbt plugin for iOS development in Scala
  </li>
@@ -2247,7 +2247,7 @@
    sbt-sublime ★ 129 ⧗ 36
   </a>
   <span>
-   &#9733 128, pushed 215 days ago
+   &#9733 128, pushed 216 days ago
   </span>
   - Create Sublime Text projects with library dependencies sources
  </li>
@@ -2274,7 +2274,7 @@
    sbt-view ★ 4 ⧗ 51
   </a>
   <span>
-   &#9733 5, pushed 19 days ago
+   &#9733 5, pushed 20 days ago
   </span>
   - View ScalaDoc/JavaDoc in browser window.
  </li>
@@ -2303,7 +2303,7 @@
    tut ★ 227 ⧗ 3
   </a>
   <span>
-   &#9733 235, pushed 10 days ago
+   &#9733 235, pushed 11 days ago
   </span>
   - Tool for writing documentation with typechecked examples.
  </li>
@@ -2331,7 +2331,7 @@
    scala-scraper ★ 137 ⧗ 0
   </a>
   <span>
-   &#9733 151, pushed 27 days ago
+   &#9733 151, pushed 28 days ago
   </span>
   - A library for scraping content from HTML pages.
  </li>
@@ -2417,7 +2417,7 @@
    js-scala ★ 150 ⧗ 29
   </a>
   <span>
-   &#9733 150, pushed 307 days ago
+   &#9733 150, pushed 308 days ago
   </span>
   - JavaScript as an embedded DSL in Scala
  </li>

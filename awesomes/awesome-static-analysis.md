@@ -191,7 +191,7 @@
    code-cracker
   </a>
   <span>
-   &#9733 560, pushed 12 days ago
+   &#9733 560, pushed 13 days ago
   </span>
   [OSS] - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
  </li>
@@ -212,7 +212,7 @@
    CSharpEssentials
   </a>
   <span>
-   &#9733 115, pushed 181 days ago
+   &#9733 115, pushed 182 days ago
   </span>
   [OSS] - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
  </li>
@@ -253,7 +253,7 @@
    Haskell Dockerfile Linter
   </a>
   <span>
-   &#9733 377, pushed 29 days ago
+   &#9733 377, pushed 30 days ago
   </span>
   [OSS] - A smarter Dockerfile linter that helps you build best practice Docker images
  </li>
@@ -287,7 +287,7 @@
    gocyclo
   </a>
   <span>
-   &#9733 184, pushed 129 days ago
+   &#9733 184, pushed 130 days ago
   </span>
   [OSS] - Calculate cyclomatic complexities of functions in Go source code
  </li>
@@ -362,7 +362,7 @@
    Haxe Checkstyle
   </a>
   <span>
-   &#9733 44, pushed 4 days ago
+   &#9733 44, pushed 5 days ago
   </span>
   [OSS] - A static analysis tool to help developers write Haxe code that adheres to a coding standard.
  </li>
@@ -446,7 +446,7 @@
    aether
   </a>
   <span>
-   &#9733 124, pushed 7 days ago
+   &#9733 124, pushed 8 days ago
   </span>
   [OSS] - Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
  </li>
@@ -500,7 +500,7 @@
    quality
   </a>
   <span>
-   &#9733 4, pushed 327 days ago
+   &#9733 4, pushed 328 days ago
   </span>
   [OSS] - zero configuration code and module linting
  </li>
@@ -509,7 +509,7 @@
    jshint
   </a>
   <span>
-   &#9733 6289, pushed 9 days ago
+   &#9733 6289, pushed 10 days ago
   </span>
   [OSS] - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
  </li>
@@ -518,7 +518,7 @@
    JSLint
   </a>
   <span>
-   &#9733 2667, pushed 9 days ago
+   &#9733 2667, pushed 10 days ago
   </span>
   [PROPRIETARY] - The JavaScript Code Quality Tool
  </li>
@@ -527,7 +527,7 @@
    plato
   </a>
   <span>
-   &#9733 3492, pushed 7 days ago
+   &#9733 3492, pushed 8 days ago
   </span>
   [OSS] - Visualize JavaScript source complexity
  </li>
@@ -585,7 +585,7 @@
    Linty fresh
   </a>
   <span>
-   &#9733 87, pushed 10 days ago
+   &#9733 87, pushed 11 days ago
   </span>
   [OSS] - Surface lint errors during code review
  </li>
@@ -689,7 +689,7 @@
    phpcpd
   </a>
   <span>
-   &#9733 992, pushed 15 days ago
+   &#9733 992, pushed 16 days ago
   </span>
   [OSS] - Copy/Paste Detector (CPD) for PHP code.
  </li>
@@ -791,7 +791,7 @@
    twig-lint
   </a>
   <span>
-   &#9733 43, pushed 152 days ago
+   &#9733 43, pushed 153 days ago
   </span>
   [OSS] - twig-lint is a lint tool for your twig files.
  </li>
@@ -819,7 +819,7 @@
    brakeman
   </a>
   <span>
-   &#9733 3322, pushed 1 days ago
+   &#9733 3322, pushed 2 days ago
   </span>
   [OSS] - A static analysis security vulnerability scanner for Ruby on Rails applications
  </li>
@@ -837,7 +837,7 @@
    dawnscanner
   </a>
   <span>
-   &#9733 299, pushed 62 days ago
+   &#9733 299, pushed 63 days ago
   </span>
   [OSS] - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
  </li>
@@ -855,7 +855,7 @@
    flog
   </a>
   <span>
-   &#9733 451, pushed 144 days ago
+   &#9733 451, pushed 145 days ago
   </span>
   [OSS] - Flog reports the most tortured code in an easy to read pain
 report. The higher the score, the more pain the code is in.
@@ -907,7 +907,7 @@ report. The higher the score, the more pain the code is in.
    rubocop
   </a>
   <span>
-   &#9733 6230, pushed 1 days ago
+   &#9733 6230, pushed 2 days ago
   </span>
   [OSS] - A Ruby static code analyzer, based on the community Ruby style guide.
  </li>
@@ -916,7 +916,7 @@ report. The higher the score, the more pain the code is in.
    rubycritic
   </a>
   <span>
-   &#9733 1326, pushed 13 days ago
+   &#9733 1326, pushed 14 days ago
   </span>
   [OSS] - A Ruby code quality reporter
  </li>
@@ -925,7 +925,7 @@ report. The higher the score, the more pain the code is in.
    ruby-lint
   </a>
   <span>
-   &#9733 675, pushed 7 days ago
+   &#9733 675, pushed 8 days ago
   </span>
   [OSS] - Static code analysis for Ruby
  </li>
@@ -962,7 +962,7 @@ report. The higher the score, the more pain the code is in.
    linter
   </a>
   <span>
-   &#9733 152, pushed 2 days ago
+   &#9733 152, pushed 3 days ago
   </span>
   [OSS] - Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
  </li>
@@ -1000,7 +1000,7 @@ report. The higher the score, the more pain the code is in.
    shellcheck
   </a>
   <span>
-   &#9733 3767, pushed 2 days ago
+   &#9733 3767, pushed 3 days ago
   </span>
   [OSS] - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
  </li>
@@ -1052,7 +1052,7 @@ report. The higher the score, the more pain the code is in.
    Infer
   </a>
   <span>
-   &#9733 5107, pushed 3 days ago
+   &#9733 5107, pushed 4 days ago
   </span>
   [OSS] -  A static analyzer for Java, C and Objective-C
  </li>
@@ -1079,7 +1079,7 @@ report. The higher the score, the more pain the code is in.
    shipshape
   </a>
   <span>
-   &#9733 118, pushed 8 days ago
+   &#9733 118, pushed 9 days ago
   </span>
   [OSS] - Static program analysis platform that allows custom analyzers to plug in through a common interface
  </li>

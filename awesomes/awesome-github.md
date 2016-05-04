@@ -393,7 +393,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    github-secret-keeper
   </a>
   <span>
-   &#9733 38, pushed 230 days ago
+   &#9733 38, pushed 231 days ago
   </span>
   - Microservice to enable GitHub login for multiple server-less applications.
  </li>
@@ -411,7 +411,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    Ghizmo
   </a>
   <span>
-   &#9733 17, pushed 3 days ago
+   &#9733 17, pushed 4 days ago
   </span>
   - A command line for GitHub, allowing access to all APIs.
  </li>
@@ -447,7 +447,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    Github-Auto-Issue-Creator
   </a>
   <span>
-   &#9733 67, pushed 36 days ago
+   &#9733 67, pushed 37 days ago
   </span>
   - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
  </li>
@@ -456,7 +456,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    Problem Child
   </a>
   <span>
-   &#9733 27, pushed 159 days ago
+   &#9733 27, pushed 160 days ago
   </span>
   - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
  </li>
@@ -471,7 +471,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    HubPress
   </a>
   <span>
-   &#9733 2262, pushed 7 days ago
+   &#9733 2262, pushed 8 days ago
   </span>
   - A web application to build your Blog on GitHub
  </li>
@@ -515,7 +515,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
    Clef's Handbook
   </a>
   <span>
-   &#9733 2286, pushed 31 days ago
+   &#9733 2286, pushed 32 days ago
   </span>
   - An employee handbook built for inclusion.
  </li>

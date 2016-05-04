@@ -358,7 +358,7 @@
    latest-version
   </a>
   <span>
-   &#9733 21, pushed 98 days ago
+   &#9733 21, pushed 99 days ago
   </span>
   - Get the latest version of an npm package.
  </li>
@@ -367,7 +367,7 @@
    npm-keyword
   </a>
   <span>
-   &#9733 23, pushed 98 days ago
+   &#9733 23, pushed 99 days ago
   </span>
   - Get a list of npm packages with a certain keyword.
  </li>
@@ -394,7 +394,7 @@
    npm-user-packages
   </a>
   <span>
-   &#9733 1, pushed 108 days ago
+   &#9733 1, pushed 109 days ago
   </span>
   - Get packages by an npm user.
  </li>
@@ -453,7 +453,7 @@
    gh-home
   </a>
   <span>
-   &#9733 47, pushed 10 days ago
+   &#9733 47, pushed 11 days ago
   </span>
   - Open the GitHub page of a package.
  </li>
@@ -489,7 +489,7 @@
    npm-shrinkwrap
   </a>
   <span>
-   &#9733 574, pushed 21 days ago
+   &#9733 574, pushed 22 days ago
   </span>
   - A consistent shrinkwrap tool.
  </li>
@@ -498,7 +498,7 @@
    npm-windows-upgrade
   </a>
   <span>
-   &#9733 544, pushed 30 days ago
+   &#9733 544, pushed 31 days ago
   </span>
   - Upgrade npm on Windows.
  </li>
@@ -507,7 +507,7 @@
    generator-nm
   </a>
   <span>
-   &#9733 306, pushed 2 days ago
+   &#9733 306, pushed 3 days ago
   </span>
   - Scaffold out an npm package.
  </li>
@@ -516,7 +516,7 @@
    pkg-up
   </a>
   <span>
-   &#9733 15, pushed 98 days ago
+   &#9733 15, pushed 99 days ago
   </span>
   - Find the closest package.json file.
  </li>
@@ -642,7 +642,7 @@
    ied
   </a>
   <span>
-   &#9733 1697, pushed 7 days ago
+   &#9733 1697, pushed 8 days ago
   </span>
   - Faster npm.
  </li>
@@ -651,7 +651,7 @@
    pnpm
   </a>
   <span>
-   &#9733 1294, pushed 3 days ago
+   &#9733 1294, pushed 4 days ago
   </span>
   - Performant
   <code>

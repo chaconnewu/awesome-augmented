@@ -362,7 +362,7 @@
    Bower
   </a>
   <span>
-   &#9733 14006, pushed 2 days ago
+   &#9733 14006, pushed 3 days ago
   </span>
   - A package manager for the web.
  </li>
@@ -371,7 +371,7 @@
    component
   </a>
   <span>
-   &#9733 4491, pushed 218 days ago
+   &#9733 4491, pushed 219 days ago
   </span>
   - Client package management for building better web applications.
  </li>
@@ -416,7 +416,7 @@
    volo
   </a>
   <span>
-   &#9733 1307, pushed 53 days ago
+   &#9733 1307, pushed 54 days ago
   </span>
   - Create front end projects from templates, add dependencies, and automate the resulting projects.
  </li>
@@ -425,7 +425,7 @@
    Duo
   </a>
   <span>
-   &#9733 3443, pushed 12 days ago
+   &#9733 3443, pushed 13 days ago
   </span>
   - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
  </li>
@@ -528,7 +528,7 @@
    modulejs
   </a>
   <span>
-   &#9733 91, pushed 142 days ago
+   &#9733 91, pushed 143 days ago
   </span>
   - Lightweight JavaScript module system.
  </li>
@@ -592,7 +592,7 @@
    jasmine
   </a>
   <span>
-   &#9733 10879, pushed 7 days ago
+   &#9733 10879, pushed 8 days ago
   </span>
   - DOM-less simple JavaScript testing framework.
  </li>
@@ -660,7 +660,7 @@
    Sinon.JS
   </a>
   <span>
-   &#9733 2910, pushed 13 days ago
+   &#9733 2910, pushed 14 days ago
   </span>
   - Test spies, stubs, and mocks for JavaScript.
  </li>
@@ -766,7 +766,7 @@
    nightwatch
   </a>
   <span>
-   &#9733 4218, pushed 2 days ago
+   &#9733 4218, pushed 3 days ago
   </span>
   - UI automated testing framework based on node.js and selenium webdriver.
  </li>
@@ -775,7 +775,7 @@
    intern
   </a>
   <span>
-   &#9733 3374, pushed 0 days ago
+   &#9733 3374, pushed 1 days ago
   </span>
   - A next-generation code testing stack for JavaScript.
  </li>
@@ -810,7 +810,7 @@
    jsfmt
   </a>
   <span>
-   &#9733 1646, pushed 89 days ago
+   &#9733 1646, pushed 90 days ago
   </span>
   - For formatting, searching, and rewriting JavaScript.
  </li>
@@ -846,7 +846,7 @@
    JSLint
   </a>
   <span>
-   &#9733 2667, pushed 9 days ago
+   &#9733 2667, pushed 10 days ago
   </span>
   - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
  </li>
@@ -860,7 +860,7 @@
    angular.js
   </a>
   <span>
-   &#9733 48927, pushed 1 days ago
+   &#9733 48927, pushed 2 days ago
   </span>
   - HTML enhanced for web apps.
  </li>
@@ -899,7 +899,7 @@
    meteor
   </a>
   <span>
-   &#9733 33689, pushed 1 days ago
+   &#9733 33689, pushed 2 days ago
   </span>
   - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
  </li>
@@ -917,7 +917,7 @@
    vue
   </a>
   <span>
-   &#9733 17872, pushed 2 days ago
+   &#9733 17872, pushed 3 days ago
   </span>
   - Intuitive, fast & composable MVVM for building interactive interfaces.
  </li>
@@ -953,7 +953,7 @@
    canjs
   </a>
   <span>
-   &#9733 1336, pushed 14 days ago
+   &#9733 1336, pushed 15 days ago
   </span>
   - Can do JS, better, faster, easier.
  </li>
@@ -977,7 +977,7 @@
    riot
   </a>
   <span>
-   &#9733 9227, pushed 5 days ago
+   &#9733 9227, pushed 6 days ago
   </span>
   - React-like library, but with very small size.
  </li>
@@ -986,7 +986,7 @@
    thorax
   </a>
   <span>
-   &#9733 1366, pushed 295 days ago
+   &#9733 1366, pushed 296 days ago
   </span>
   - Strengthening your Backbone.
  </li>
@@ -1013,7 +1013,7 @@
    ripple
   </a>
   <span>
-   &#9733 1254, pushed 643 days ago
+   &#9733 1254, pushed 644 days ago
   </span>
   - A tiny foundation for building reactive views.
  </li>
@@ -1031,7 +1031,7 @@
    derby
   </a>
   <span>
-   &#9733 4008, pushed 43 days ago
+   &#9733 4008, pushed 44 days ago
   </span>
   - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
   <ul>
@@ -1060,7 +1060,7 @@
    mithril.js
   </a>
   <span>
-   &#9733 5924, pushed 2 days ago
+   &#9733 5924, pushed 3 days ago
   </span>
   - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
  </li>
@@ -1098,7 +1098,7 @@
    KeystoneJS
   </a>
   <span>
-   &#9733 6281, pushed 1 days ago
+   &#9733 6281, pushed 2 days ago
   </span>
   - powerful CMS and web app framework
  </li>
@@ -1116,7 +1116,7 @@
    Ghost
   </a>
   <span>
-   &#9733 19315, pushed 0 days ago
+   &#9733 19315, pushed 1 days ago
   </span>
   - simple, powerful publishing platform
  </li>
@@ -1204,7 +1204,7 @@
    hogan.js
   </a>
   <span>
-   &#9733 4421, pushed 16 days ago
+   &#9733 4421, pushed 17 days ago
   </span>
   - A compiler for the Mustache templating language.
  </li>
@@ -1213,7 +1213,7 @@
    doT
   </a>
   <span>
-   &#9733 2719, pushed 69 days ago
+   &#9733 2719, pushed 70 days ago
   </span>
   - The fastest + concise javascript template engine for nodejs and browsers.
  </li>
@@ -1234,7 +1234,7 @@
    JavaScript-Templates
   </a>
   <span>
-   &#9733 907, pushed 21 days ago
+   &#9733 907, pushed 22 days ago
   </span>
   - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
  </li>
@@ -1243,7 +1243,7 @@
    t.js
   </a>
   <span>
-   &#9733 721, pushed 137 days ago
+   &#9733 721, pushed 138 days ago
   </span>
   - A tiny javascript templating framework in ~400 bytes gzipped.
  </li>
@@ -1321,7 +1321,7 @@
      metrics-graphics
     </a>
     <span>
-     &#9733 5771, pushed 18 days ago
+     &#9733 5771, pushed 19 days ago
     </span>
     - A library optimized for concise, principled data graphics and layouts.
    </li>
@@ -1389,7 +1389,7 @@
    raphael
   </a>
   <span>
-   &#9733 8144, pushed 5 days ago
+   &#9733 8144, pushed 6 days ago
   </span>
   - JavaScript Vector Library.
  </li>
@@ -1416,7 +1416,7 @@
    two.js
   </a>
   <span>
-   &#9733 4663, pushed 11 days ago
+   &#9733 4663, pushed 12 days ago
   </span>
   - A renderer agnostic two-dimensional drawing api for the web.
  </li>
@@ -1452,7 +1452,7 @@
    cubism
   </a>
   <span>
-   &#9733 4275, pushed 52 days ago
+   &#9733 4275, pushed 53 days ago
   </span>
   - A D3 plugin for visualizing time series.
  </li>
@@ -1470,7 +1470,7 @@
    vega
   </a>
   <span>
-   &#9733 12, pushed 172 days ago
+   &#9733 12, pushed 173 days ago
   </span>
   - A visualization grammar.
  </li>
@@ -1494,7 +1494,7 @@
    rickshaw
   </a>
   <span>
-   &#9733 5718, pushed 24 days ago
+   &#9733 5718, pushed 25 days ago
   </span>
   - JavaScript toolkit for creating interactive real-time graphs.
  </li>
@@ -1503,7 +1503,7 @@
    flot
   </a>
   <span>
-   &#9733 4961, pushed 10 days ago
+   &#9733 4961, pushed 11 days ago
   </span>
   - Attractive JavaScript charts for jQuery.
  </li>
@@ -1512,7 +1512,7 @@
    morris.js
   </a>
   <span>
-   &#9733 5941, pushed 6 days ago
+   &#9733 5941, pushed 7 days ago
   </span>
   - Pretty time-series line graphs.
  </li>
@@ -1548,7 +1548,7 @@
    jquery.sparkline
   </a>
   <span>
-   &#9733 943, pushed 16 days ago
+   &#9733 943, pushed 17 days ago
   </span>
   - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser.
  </li>
@@ -1557,7 +1557,7 @@
    xCharts
   </a>
   <span>
-   &#9733 1766, pushed 998 days ago
+   &#9733 1766, pushed 999 days ago
   </span>
   - A D3-based library for building custom charts and graphs.
  </li>
@@ -1608,7 +1608,7 @@
    epoch
   </a>
   <span>
-   &#9733 4510, pushed 43 days ago
+   &#9733 4510, pushed 44 days ago
   </span>
   - A general purpose real-time charting library.
  </li>
@@ -1661,7 +1661,7 @@
    timesheet.js
   </a>
   <span>
-   &#9733 22, pushed 426 days ago
+   &#9733 22, pushed 427 days ago
   </span>
   - JavaScript library for simple HTML5 & CSS3 time sheets.
  </li>
@@ -1702,7 +1702,7 @@
    quill
   </a>
   <span>
-   &#9733 7548, pushed 2 days ago
+   &#9733 7548, pushed 3 days ago
   </span>
   - A cross browser rich text editor with an API.
  </li>
@@ -1729,7 +1729,7 @@
    jquery-notebook
   </a>
   <span>
-   &#9733 1673, pushed 97 days ago
+   &#9733 1673, pushed 98 days ago
   </span>
   - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
  </li>
@@ -1747,7 +1747,7 @@
    ckeditor-releases
   </a>
   <span>
-   &#9733 298, pushed 21 days ago
+   &#9733 298, pushed 22 days ago
   </span>
   - The best web text editor for everyone.
  </li>
@@ -1765,7 +1765,7 @@
    EpicEditor
   </a>
   <span>
-   &#9733 4253, pushed 51 days ago
+   &#9733 4253, pushed 52 days ago
   </span>
   - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
  </li>
@@ -1774,7 +1774,7 @@
    jsoneditor
   </a>
   <span>
-   &#9733 2197, pushed 14 days ago
+   &#9733 2197, pushed 15 days ago
   </span>
   - A web-based tool to view, edit and format JSON.
  </li>
@@ -1810,7 +1810,7 @@
    trix
   </a>
   <span>
-   &#9733 6684, pushed 2 days ago
+   &#9733 6684, pushed 3 days ago
   </span>
   - A rich text editor for everyday writing. By Basecamp.
  </li>
@@ -1828,7 +1828,7 @@
    Draft.js
   </a>
   <span>
-   &#9733 6158, pushed 1 days ago
+   &#9733 6158, pushed 2 days ago
   </span>
   - A React framework for building text editors.
  </li>
@@ -1902,7 +1902,7 @@
    Ronn
   </a>
   <span>
-   &#9733 856, pushed 237 days ago
+   &#9733 856, pushed 238 days ago
   </span>
   builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
  </li>
@@ -1989,7 +1989,7 @@
    diff2html
   </a>
   <span>
-   &#9733 124, pushed 1 days ago
+   &#9733 124, pushed 2 days ago
   </span>
   - Git diff output parser and pretty HTML generator.
  </li>
@@ -2008,7 +2008,7 @@
    underscore
   </a>
   <span>
-   &#9733 18029, pushed 3 days ago
+   &#9733 18029, pushed 4 days ago
   </span>
   - JavaScript's utility _ belt.
  </li>
@@ -2053,7 +2053,7 @@
    mout
   </a>
   <span>
-   &#9733 704, pushed 37 days ago
+   &#9733 704, pushed 38 days ago
   </span>
   - Modular JavaScript Utilities.
  </li>
@@ -2062,7 +2062,7 @@
    mesh
   </a>
   <span>
-   &#9733 983, pushed 84 days ago
+   &#9733 983, pushed 85 days ago
   </span>
   - Streamable data synchronization utility.
  </li>
@@ -2081,7 +2081,7 @@
    RxJs
   </a>
   <span>
-   &#9733 9321, pushed 5 days ago
+   &#9733 9321, pushed 6 days ago
   </span>
   - The Reactive Extensions for JavaScript.
  </li>
@@ -2099,7 +2099,7 @@
    Kefir
   </a>
   <span>
-   &#9733 2, pushed 78 days ago
+   &#9733 2, pushed 79 days ago
   </span>
   - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
  </li>
@@ -2114,7 +2114,7 @@
    Most.js
   </a>
   <span>
-   &#9733 941, pushed 3 days ago
+   &#9733 941, pushed 4 days ago
   </span>
   - high performance FRP library.
  </li>
@@ -2160,7 +2160,7 @@
    buckets
   </a>
   <span>
-   &#9733 577, pushed 139 days ago
+   &#9733 577, pushed 140 days ago
   </span>
   - A complete, fully tested and documented data structure library written in JavaScript.
  </li>
@@ -2188,7 +2188,7 @@
    moment
   </a>
   <span>
-   &#9733 25823, pushed 1 days ago
+   &#9733 25823, pushed 2 days ago
   </span>
   - Parse, validate, manipulate, and display dates in javascript.
  </li>
@@ -2197,7 +2197,7 @@
    moment-timezone
   </a>
   <span>
-   &#9733 1598, pushed 4 days ago
+   &#9733 1598, pushed 5 days ago
   </span>
   - Timezone support for moment.js.
  </li>
@@ -2206,7 +2206,7 @@
    jquery-timeago
   </a>
   <span>
-   &#9733 3349, pushed 42 days ago
+   &#9733 3349, pushed 43 days ago
   </span>
   - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
  </li>
@@ -2233,7 +2233,7 @@
    ms.js
   </a>
   <span>
-   &#9733 436, pushed 215 days ago
+   &#9733 436, pushed 216 days ago
   </span>
   - Tiny millisecond conversion utility.
  </li>
@@ -2261,7 +2261,7 @@
    selecting
   </a>
   <span>
-   &#9733 36, pushed 193 days ago
+   &#9733 36, pushed 194 days ago
   </span>
   - A library that allows you to access the text selected by the user
  </li>
@@ -2270,7 +2270,7 @@
    underscore.string
   </a>
   <span>
-   &#9733 3001, pushed 4 days ago
+   &#9733 3001, pushed 5 days ago
   </span>
   - String manipulation extensions for Underscore.js javascript library.
  </li>
@@ -2288,7 +2288,7 @@
    he
   </a>
   <span>
-   &#9733 704, pushed 27 days ago
+   &#9733 704, pushed 28 days ago
   </span>
   - A robust HTML entity encoder/decoder written in JavaScript.
  </li>
@@ -2374,7 +2374,7 @@
    accounting.js
   </a>
   <span>
-   &#9733 14, pushed 658 days ago
+   &#9733 14, pushed 659 days ago
   </span>
   - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
  </li>
@@ -2410,7 +2410,7 @@
    Polynomial.js
   </a>
   <span>
-   &#9733 19, pushed 23 days ago
+   &#9733 19, pushed 24 days ago
   </span>
   - A polynomials library for JavaScript
  </li>
@@ -2424,7 +2424,7 @@
    store.js
   </a>
   <span>
-   &#9733 4672, pushed 16 days ago
+   &#9733 4672, pushed 17 days ago
   </span>
   - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
  </li>
@@ -2433,7 +2433,7 @@
    localForage
   </a>
   <span>
-   &#9733 5704, pushed 3 days ago
+   &#9733 5704, pushed 4 days ago
   </span>
   - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
  </li>
@@ -2442,7 +2442,7 @@
    jStorage
   </a>
   <span>
-   &#9733 1398, pushed 147 days ago
+   &#9733 1398, pushed 148 days ago
   </span>
   - jStorage is a simple key/value database to store data on browser side.
  </li>
@@ -2451,7 +2451,7 @@
    cross-storage
   </a>
   <span>
-   &#9733 674, pushed 4 days ago
+   &#9733 674, pushed 5 days ago
   </span>
   - Cross domain local storage, with permissions.
  </li>
@@ -2460,7 +2460,7 @@
    basket.js
   </a>
   <span>
-   &#9733 2638, pushed 66 days ago
+   &#9733 2638, pushed 67 days ago
   </span>
   - A script and resource loader for caching & loading scripts with localStorage.
  </li>
@@ -2469,7 +2469,7 @@
    bag.js
   </a>
   <span>
-   &#9733 51, pushed 80 days ago
+   &#9733 51, pushed 81 days ago
   </span>
   - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
  </li>
@@ -2478,7 +2478,7 @@
    basil.js
   </a>
   <span>
-   &#9733 1744, pushed 206 days ago
+   &#9733 1744, pushed 207 days ago
   </span>
   - The missing Javascript smart persistent layer.
  </li>
@@ -2540,7 +2540,7 @@
    randomColor
   </a>
   <span>
-   &#9733 3379, pushed 18 days ago
+   &#9733 3379, pushed 19 days ago
   </span>
   - A color generator for JavaScript.
  </li>
@@ -2619,7 +2619,7 @@
    polyglot
   </a>
   <span>
-   &#9733 1731, pushed 13 days ago
+   &#9733 1731, pushed 14 days ago
   </span>
   - tiny i18n helper library.
  </li>
@@ -2707,7 +2707,7 @@
    when
   </a>
   <span>
-   &#9733 2925, pushed 4 days ago
+   &#9733 2925, pushed 5 days ago
   </span>
   - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
  </li>
@@ -2803,7 +2803,7 @@
    log
   </a>
   <span>
-   &#9733 2327, pushed 92 days ago
+   &#9733 2327, pushed 93 days ago
   </span>
   - Console.log with style.
  </li>
@@ -2946,7 +2946,7 @@
    tracking.js
   </a>
   <span>
-   &#9733 3807, pushed 112 days ago
+   &#9733 3807, pushed 113 days ago
   </span>
   - A modern approach for Computer Vision on the web.
  </li>
@@ -2969,7 +2969,7 @@
    bowser
   </a>
   <span>
-   &#9733 1396, pushed 11 days ago
+   &#9733 1396, pushed 12 days ago
   </span>
   - a browser detector
  </li>
@@ -2983,7 +2983,7 @@
    benchmark.js
   </a>
   <span>
-   &#9733 1982, pushed 2 days ago
+   &#9733 1982, pushed 3 days ago
   </span>
   - A benchmarking library. As used on jsPerf.com.
  </li>
@@ -3085,7 +3085,7 @@
    topbar
   </a>
   <span>
-   &#9733 99, pushed 431 days ago
+   &#9733 99, pushed 432 days ago
   </span>
   - Tiny & beautiful site-wide progress indicator.
  </li>
@@ -3094,7 +3094,7 @@
    nanobar
   </a>
   <span>
-   &#9733 2043, pushed 12 days ago
+   &#9733 2043, pushed 13 days ago
   </span>
   - Very lightweight progress bars. No jQuery.
  </li>
@@ -3112,7 +3112,7 @@
    SpinKit
   </a>
   <span>
-   &#9733 11123, pushed 37 days ago
+   &#9733 11123, pushed 38 days ago
   </span>
   - A collection of loading indicators animated with CSS.
  </li>
@@ -3187,7 +3187,7 @@
    validator.js
   </a>
   <span>
-   &#9733 5391, pushed 23 days ago
+   &#9733 5391, pushed 24 days ago
   </span>
   - String validation and sanitization.
  </li>
@@ -3196,7 +3196,7 @@
    validate.js
   </a>
   <span>
-   &#9733 1725, pushed 33 days ago
+   &#9733 1725, pushed 34 days ago
   </span>
   - Lightweight JavaScript form validation library inspired by CodeIgniter.
  </li>
@@ -3243,7 +3243,7 @@
    mousetrap
   </a>
   <span>
-   &#9733 6887, pushed 14 days ago
+   &#9733 6887, pushed 15 days ago
   </span>
   - Simple library for handling keyboard shortcuts in Javascript.
  </li>
@@ -3261,7 +3261,7 @@
    Keypress
   </a>
   <span>
-   &#9733 2858, pushed 30 days ago
+   &#9733 2858, pushed 31 days ago
   </span>
   - A keyboard input capturing utility in which any key can be a modifier key.
  </li>
@@ -3279,7 +3279,7 @@
    jquery.hotkeys
   </a>
   <span>
-   &#9733 2247, pushed 149 days ago
+   &#9733 2247, pushed 150 days ago
   </span>
   - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
  </li>
@@ -3311,7 +3311,7 @@
    shepherd
   </a>
   <span>
-   &#9733 3508, pushed 44 days ago
+   &#9733 3508, pushed 45 days ago
   </span>
   - Guide your users through a tour of your app.
  </li>
@@ -3365,7 +3365,7 @@
    joyride
   </a>
   <span>
-   &#9733 1254, pushed 19 days ago
+   &#9733 1254, pushed 20 days ago
   </span>
   - jQuery feature tour plugin.
  </li>
@@ -3388,7 +3388,7 @@
    messenger
   </a>
   <span>
-   &#9733 3616, pushed 19 days ago
+   &#9733 3616, pushed 20 days ago
   </span>
   - Growl-style alerts and messages for your app.
  </li>
@@ -3415,7 +3415,7 @@
    toastr
   </a>
   <span>
-   &#9733 4680, pushed 29 days ago
+   &#9733 4680, pushed 30 days ago
   </span>
   - Simple javascript toast notifications.
  </li>
@@ -3456,7 +3456,7 @@
    slick
   </a>
   <span>
-   &#9733 14451, pushed 3 days ago
+   &#9733 14451, pushed 4 days ago
   </span>
   - The last carousel you'll ever need.
  </li>
@@ -3546,7 +3546,7 @@
    PhotoSwipe
   </a>
   <span>
-   &#9733 11037, pushed 8 days ago
+   &#9733 11037, pushed 9 days ago
   </span>
   - JavaScript image gallery for mobile and desktop, modular, framework independent.
  </li>
@@ -3564,7 +3564,7 @@
    basic-jquery-slider
   </a>
   <span>
-   &#9733 575, pushed 196 days ago
+   &#9733 575, pushed 197 days ago
   </span>
   - Simple to use, simple to theme, simple to customise.
  </li>
@@ -3626,7 +3626,7 @@
    jQRangeSlider
   </a>
   <span>
-   &#9733 647, pushed 105 days ago
+   &#9733 647, pushed 106 days ago
   </span>
   - A javascript slider selector that supports dates.
  </li>
@@ -3644,7 +3644,7 @@
    rangeslider.js
   </a>
   <span>
-   &#9733 1102, pushed 12 days ago
+   &#9733 1102, pushed 13 days ago
   </span>
   - HTML5 input range slider element polyfill.
  </li>
@@ -3670,7 +3670,7 @@
    tag-it
   </a>
   <span>
-   &#9733 2077, pushed 16 days ago
+   &#9733 2077, pushed 17 days ago
   </span>
   - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
  </li>
@@ -3679,7 +3679,7 @@
    At.js
   </a>
   <span>
-   &#9733 3957, pushed 13 days ago
+   &#9733 3957, pushed 14 days ago
   </span>
   - Add Github like mentions autocomplete to your application.
  </li>
@@ -3697,7 +3697,7 @@
    fancyInput
   </a>
   <span>
-   &#9733 1849, pushed 189 days ago
+   &#9733 1849, pushed 190 days ago
   </span>
   - Makes typing in input fields fun with CSS3 effects.
  </li>
@@ -3824,7 +3824,7 @@
    chosen
   </a>
   <span>
-   &#9733 19368, pushed 5 days ago
+   &#9733 19368, pushed 6 days ago
   </span>
   - A library for making long, unwieldy select boxes more friendly.
  </li>
@@ -3838,7 +3838,7 @@
    jQuery-File-Upload
   </a>
   <span>
-   &#9733 23480, pushed 1 days ago
+   &#9733 23480, pushed 2 days ago
   </span>
   - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
  </li>
@@ -3865,7 +3865,7 @@
    fine-uploader
   </a>
   <span>
-   &#9733 5854, pushed 6 days ago
+   &#9733 5854, pushed 7 days ago
   </span>
   - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
  </li>
@@ -3924,7 +3924,7 @@
    card
   </a>
   <span>
-   &#9733 6458, pushed 1 days ago
+   &#9733 6458, pushed 2 days ago
   </span>
   - Make your credit card form better in one line of code.
  </li>
@@ -3947,7 +3947,7 @@
    tipsy
   </a>
   <span>
-   &#9733 1984, pushed 4 days ago
+   &#9733 1984, pushed 5 days ago
   </span>
   - Facebook-style tooltips plugin for jQuery.
  </li>
@@ -3965,7 +3965,7 @@
    qTip2
   </a>
   <span>
-   &#9733 1832, pushed 56 days ago
+   &#9733 1832, pushed 57 days ago
   </span>
   - Pretty powerful tooltips.
  </li>
@@ -3983,7 +3983,7 @@
    simptip
   </a>
   <span>
-   &#9733 616, pushed 527 days ago
+   &#9733 616, pushed 528 days ago
   </span>
   - A simple CSS tooltip made with Sass.
  </li>
@@ -4001,7 +4001,7 @@
    toolbar
   </a>
   <span>
-   &#9733 2245, pushed 18 days ago
+   &#9733 2245, pushed 19 days ago
   </span>
   - A tooltip style toolbar jQuery plugin
  </li>
@@ -4010,7 +4010,7 @@
    hint.css
   </a>
   <span>
-   &#9733 6419, pushed 14 days ago
+   &#9733 6419, pushed 15 days ago
   </span>
   - A tooltip library in CSS for your lovely websites.
  </li>
@@ -4033,7 +4033,7 @@
    jquery-popbox
   </a>
   <span>
-   &#9733 442, pushed 1447 days ago
+   &#9733 442, pushed 1448 days ago
   </span>
   - jQuery PopBox UI Element.
  </li>
@@ -4051,7 +4051,7 @@
    vex
   </a>
   <span>
-   &#9733 5088, pushed 19 days ago
+   &#9733 5088, pushed 20 days ago
   </span>
   - A modern dialog library which is highly configurable and easy to style.
  </li>
@@ -4060,7 +4060,7 @@
    bootstrap-modal
   </a>
   <span>
-   &#9733 4742, pushed 313 days ago
+   &#9733 4742, pushed 314 days ago
   </span>
   - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
  </li>
@@ -4069,7 +4069,7 @@
    css-modal
   </a>
   <span>
-   &#9733 1558, pushed 14 days ago
+   &#9733 1558, pushed 15 days ago
   </span>
   - A modal built out of pure CSS.
  </li>
@@ -4129,7 +4129,7 @@
    jBox
   </a>
   <span>
-   &#9733 671, pushed 245 days ago
+   &#9733 671, pushed 246 days ago
   </span>
   - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
  </li>
@@ -4242,7 +4242,7 @@
    Clusterize.js
   </a>
   <span>
-   &#9733 4290, pushed 14 days ago
+   &#9733 4290, pushed 15 days ago
   </span>
   - Tiny vanilla JS plugin to display large data sets easily.
  </li>
@@ -4265,7 +4265,7 @@
    jQuery contextMenu
   </a>
   <span>
-   &#9733 1090, pushed 0 days ago
+   &#9733 1090, pushed 1 days ago
   </span>
   -  contextMenu manager.
  </li>
@@ -4430,7 +4430,7 @@
    Fluid-Squares
   </a>
   <span>
-   &#9733 25, pushed 330 days ago
+   &#9733 25, pushed 331 days ago
   </span>
   - A fluid grid of square units.
  </li>
@@ -4462,7 +4462,7 @@
    hammer.js
   </a>
   <span>
-   &#9733 13702, pushed 7 days ago
+   &#9733 13702, pushed 8 days ago
   </span>
   - A javascript library for multi-touch gestures.
  </li>
@@ -4471,7 +4471,7 @@
    touchemulator
   </a>
   <span>
-   &#9733 118, pushed 66 days ago
+   &#9733 118, pushed 67 days ago
   </span>
   - Emulate touch input on your desktop.
  </li>
@@ -4500,7 +4500,7 @@
    Cesium
   </a>
   <span>
-   &#9733 1254, pushed 1 days ago
+   &#9733 1254, pushed 2 days ago
   </span>
   - Open Source WebGL virtual globe and map engine.
  </li>
@@ -4509,7 +4509,7 @@
    gmaps
   </a>
   <span>
-   &#9733 6167, pushed 29 days ago
+   &#9733 6167, pushed 30 days ago
   </span>
   - The easiest way to use Google Maps.
  </li>
@@ -4518,7 +4518,7 @@
    polymaps
   </a>
   <span>
-   &#9733 1359, pushed 556 days ago
+   &#9733 1359, pushed 557 days ago
   </span>
   - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
  </li>
@@ -4536,7 +4536,7 @@
    mapbox.js
   </a>
   <span>
-   &#9733 1259, pushed 3 days ago
+   &#9733 1259, pushed 4 days ago
   </span>
   - Mapbox JavaScript API, a Leaflet Plugin.
  </li>
@@ -4610,7 +4610,7 @@
    flowplayer
   </a>
   <span>
-   &#9733 1190, pushed 5 days ago
+   &#9733 1190, pushed 6 days ago
   </span>
   -  The HTML5 video player for the web
   <a href="https://flowplayer.org/">
@@ -4640,7 +4640,7 @@
    SoundJS
   </a>
   <span>
-   &#9733 1972, pushed 5 days ago
+   &#9733 1972, pushed 6 days ago
   </span>
   - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  </li>
@@ -4676,7 +4676,7 @@
    photobooth-js
   </a>
   <span>
-   &#9733 560, pushed 20 days ago
+   &#9733 560, pushed 21 days ago
   </span>
   - A widget that allows users to take their avatar pictures on your site
  </li>
@@ -4685,7 +4685,7 @@
    clappr
   </a>
   <span>
-   &#9733 2831, pushed 3 days ago
+   &#9733 2831, pushed 4 days ago
   </span>
   - An extensible media player for the web http://clappr.io
  </li>
@@ -4786,7 +4786,7 @@
    velocity
   </a>
   <span>
-   &#9733 10363, pushed 21 days ago
+   &#9733 10363, pushed 22 days ago
   </span>
   - Accelerated JavaScript animation.
  </li>
@@ -4795,7 +4795,7 @@
    jquery.transit
   </a>
   <span>
-   &#9733 6923, pushed 327 days ago
+   &#9733 6923, pushed 328 days ago
   </span>
   - Super-smooth CSS3 transformations and transitions for jQuery.
  </li>
@@ -4813,7 +4813,7 @@
    bounce.js
   </a>
   <span>
-   &#9733 4344, pushed 327 days ago
+   &#9733 4344, pushed 328 days ago
   </span>
   - Create tasty CSS3 powered animations in no time.
  </li>
@@ -4831,7 +4831,7 @@
    TransitionEnd
   </a>
   <span>
-   &#9733 68, pushed 172 days ago
+   &#9733 68, pushed 173 days ago
   </span>
   - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
  </li>
@@ -4849,7 +4849,7 @@
    the-cube
   </a>
   <span>
-   &#9733 6, pushed 1322 days ago
+   &#9733 6, pushed 1323 days ago
   </span>
   - The Cube is an experiment with CSS3 transitions.
  </li>
@@ -4867,7 +4867,7 @@
    animate.css
   </a>
   <span>
-   &#9733 31727, pushed 2 days ago
+   &#9733 31727, pushed 3 days ago
   </span>
   - A cross-browser library of CSS animations. As easy to use as an easy thing.
  </li>
@@ -4885,7 +4885,7 @@
    move.js
   </a>
   <span>
-   &#9733 3448, pushed 154 days ago
+   &#9733 3448, pushed 155 days ago
   </span>
   - CSS3 backed JavaScript animation framework
  </li>
@@ -4912,7 +4912,7 @@
    smoothState.js
   </a>
   <span>
-   &#9733 3104, pushed 3 days ago
+   &#9733 3104, pushed 4 days ago
   </span>
   - Unobtrusive page transitions with jQuery. http://smoothstate.com/
  </li>
@@ -4926,7 +4926,7 @@
    lena.js
   </a>
   <span>
-   &#9733 68, pushed 260 days ago
+   &#9733 68, pushed 261 days ago
   </span>
   - A Library for image processing with filters and util functions.
  </li>
@@ -4976,7 +4976,7 @@
    es6-cheatsheet
   </a>
   <span>
-   &#9733 7285, pushed 12 days ago
+   &#9733 7285, pushed 13 days ago
   </span>
   - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
  </li>
@@ -4991,7 +4991,7 @@
    Babel (Formerly 6to5)
   </a>
   <span>
-   &#9733 15314, pushed 1 days ago
+   &#9733 15314, pushed 2 days ago
   </span>
   - Turn ES6+ code into vanilla ES5 with no runtime.
  </li>
@@ -5000,7 +5000,7 @@
    Traceur compiler
   </a>
   <span>
-   &#9733 6538, pushed 3 days ago
+   &#9733 6538, pushed 4 days ago
   </span>
   - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
  </li>
@@ -5082,7 +5082,7 @@
    BitSet.js
   </a>
   <span>
-   &#9733 87, pushed 25 days ago
+   &#9733 87, pushed 26 days ago
   </span>
   - A JavaScript Bit-Vector implementation
  </li>
@@ -5091,7 +5091,7 @@
    spoiler-alert
   </a>
   <span>
-   &#9733 471, pushed 49 days ago
+   &#9733 471, pushed 50 days ago
   </span>
   - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
  </li>
@@ -5119,7 +5119,7 @@ http://www.listjs.com
    mixitup
   </a>
   <span>
-   &#9733 3320, pushed 10 days ago
+   &#9733 3320, pushed 11 days ago
   </span>
   - MixItUp - A Filter & Sort Plugin
  </li>
@@ -5212,7 +5212,7 @@ http://www.listjs.com
    emijrp/awesome-awesome
   </a>
   <span>
-   &#9733 537, pushed 117 days ago
+   &#9733 537, pushed 118 days ago
   </span>
  </li>
  <li>
@@ -5236,7 +5236,7 @@ http://www.listjs.com
    jnv/list
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -5308,7 +5308,7 @@ http://www.listjs.com
    enaqx/awesome-react
   </a>
   <span>
-   &#9733 13197, pushed 1 days ago
+   &#9733 13197, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -5324,7 +5324,7 @@ http://www.listjs.com
    peterkokot/awesome-jquery
   </a>
   <span>
-   &#9733 188, pushed 7 days ago
+   &#9733 188, pushed 8 days ago
   </span>
  </li>
  <li>

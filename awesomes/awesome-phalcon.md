@@ -276,7 +276,7 @@
    Album O'Rama
   </a>
   <span>
-   &#9733 84, pushed 225 days ago
+   &#9733 84, pushed 226 days ago
   </span>
   - Sample modular application for the Phalcon PHP Framework
  </li>
@@ -336,7 +336,7 @@
    Phalcon Boilerplate
   </a>
   <span>
-   &#9733 65, pushed 74 days ago
+   &#9733 65, pushed 75 days ago
   </span>
   - Template for building large-scale Phalcon Applications
  </li>
@@ -354,7 +354,7 @@
    Phalcon HMVC Skeleton
   </a>
   <span>
-   &#9733 7, pushed 124 days ago
+   &#9733 7, pushed 125 days ago
   </span>
   - Phalcon HMVC Skeleton with Mustache
  </li>
@@ -372,7 +372,7 @@
    Phalcon Module Skeleton
   </a>
   <span>
-   &#9733 118, pushed 101 days ago
+   &#9733 118, pushed 102 days ago
   </span>
   - Application template for building beauty applications on Phalcon PHP Framework
  </li>
@@ -381,7 +381,7 @@
    phalcon-skeleton
   </a>
   <span>
-   &#9733 15, pushed 627 days ago
+   &#9733 15, pushed 628 days ago
   </span>
   - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
  </li>
@@ -399,7 +399,7 @@
    PhalconPHP-Setup-Example
   </a>
   <span>
-   &#9733 13, pushed 590 days ago
+   &#9733 13, pushed 591 days ago
   </span>
   - Phalcon PHP Framework + Grunt + Composer + Bower
  </li>
@@ -426,7 +426,7 @@
    Webird
   </a>
   <span>
-   &#9733 44, pushed 4 days ago
+   &#9733 44, pushed 5 days ago
   </span>
   - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
  </li>
@@ -485,7 +485,7 @@
    giada-www
   </a>
   <span>
-   &#9733 6, pushed 57 days ago
+   &#9733 6, pushed 58 days ago
   </span>
   - Official website of
   <a href="http://www.giadamusic.com">
@@ -524,7 +524,7 @@
    Talon
   </a>
   <span>
-   &#9733 8, pushed 586 days ago
+   &#9733 8, pushed 587 days ago
   </span>
   - CMS built on Phalcon PHP Framework
  </li>
@@ -539,7 +539,7 @@
    Yona CMS
   </a>
   <span>
-   &#9733 210, pushed 3 days ago
+   &#9733 210, pushed 4 days ago
   </span>
   - CMS based on Phalcon PHP Framework with modular structure
  </li>
@@ -558,7 +558,7 @@
    phalcon-console
   </a>
   <span>
-   &#9733 5, pushed 277 days ago
+   &#9733 5, pushed 278 days ago
   </span>
   - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
  </li>
@@ -585,7 +585,7 @@
    php-cli-app-phalcon
   </a>
   <span>
-   &#9733 40, pushed 338 days ago
+   &#9733 40, pushed 339 days ago
   </span>
   - Command Line Application built using Phalcon PHP Framework
  </li>
@@ -604,7 +604,7 @@
    dasshy
   </a>
   <span>
-   &#9733 25, pushed 328 days ago
+   &#9733 25, pushed 329 days ago
   </span>
   - Statistics dashboard with Mongo/Phalcon
  </li>
@@ -811,7 +811,7 @@
    phalconCssForm
   </a>
   <span>
-   &#9733 2, pushed 338 days ago
+   &#9733 2, pushed 339 days ago
   </span>
   - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
  </li>
@@ -917,7 +917,7 @@
    sendmail
   </a>
   <span>
-   &#9733 7, pushed 320 days ago
+   &#9733 7, pushed 321 days ago
   </span>
   - Sending Confirmation Emails with Phalcon PHP Framework and Swift
  </li>
@@ -1102,7 +1102,7 @@
    Phalcon Development Boards
   </a>
   <span>
-   &#9733 13, pushed 62 days ago
+   &#9733 13, pushed 63 days ago
   </span>
   - An example development of the REST application by Phalcon PHP Framework
  </li>
@@ -1129,7 +1129,7 @@
    phalcon-api-ouath2
   </a>
   <span>
-   &#9733 21, pushed 651 days ago
+   &#9733 21, pushed 652 days ago
   </span>
   - Full Phalcon REST API example with is own OAuth2 server
  </li>
@@ -1147,7 +1147,7 @@
    PhalconRest
   </a>
   <span>
-   &#9733 175, pushed 92 days ago
+   &#9733 175, pushed 93 days ago
   </span>
   - A Base project for APIs using the Phalcon PHP Framework
  </li>
@@ -1156,7 +1156,7 @@
    phest
   </a>
   <span>
-   &#9733 25, pushed 172 days ago
+   &#9733 25, pushed 173 days ago
   </span>
   - REST API library for Phalcon
  </li>
@@ -1221,7 +1221,7 @@
    generator-phalcon
   </a>
   <span>
-   &#9733 33, pushed 831 days ago
+   &#9733 33, pushed 832 days ago
   </span>
   - Yeoman generator for Phalcon Multi-Module Applications
  </li>
@@ -1323,7 +1323,7 @@
    Multiple SMS Sender factory
   </a>
   <span>
-   &#9733 22, pushed 312 days ago
+   &#9733 22, pushed 313 days ago
   </span>
   - Phalcon SMS Factory
  </li>
@@ -1394,7 +1394,7 @@
    phalcon-xslt-view-engine
   </a>
   <span>
-   &#9733 1, pushed 45 days ago
+   &#9733 1, pushed 46 days ago
   </span>
   - Adapter to use XSLT as templating engine for Phalcon PHP Framework
  </li>
@@ -1413,7 +1413,7 @@
    Phalcon Validators
   </a>
   <span>
-   &#9733 2, pushed 892 days ago
+   &#9733 2, pushed 893 days ago
   </span>
   - Extra validators for Phalcon PHP Framework
  </li>
@@ -1422,7 +1422,7 @@
    phalswag
   </a>
   <span>
-   &#9733 1, pushed 101 days ago
+   &#9733 1, pushed 102 days ago
   </span>
   - Validate request input against swagger config in Phalcon PHP Framework
  </li>
@@ -1440,7 +1440,7 @@
    zvps-phalcon-validators
   </a>
   <span>
-   &#9733 1, pushed 45 days ago
+   &#9733 1, pushed 46 days ago
   </span>
   - Additional form and data validators extending the inbuilt Phalcon validate interface
  </li>
@@ -1468,7 +1468,7 @@
    URL-Shortener
   </a>
   <span>
-   &#9733 25, pushed 741 days ago
+   &#9733 25, pushed 742 days ago
   </span>
   - Simple Fast Url-Shortener application
  </li>
@@ -1491,7 +1491,7 @@
    perfect-php-vagrant
   </a>
   <span>
-   &#9733 50, pushed 213 days ago
+   &#9733 50, pushed 214 days ago
   </span>
   - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
  </li>
@@ -1509,7 +1509,7 @@
    phalcon2-compose
   </a>
   <span>
-   &#9733 3, pushed 55 days ago
+   &#9733 3, pushed 56 days ago
   </span>
   - Docker Phalcon 2 development environment
  </li>
@@ -1619,7 +1619,7 @@
    Blog Tutorial
   </a>
   <span>
-   &#9733 22, pushed 350 days ago
+   &#9733 22, pushed 351 days ago
   </span>
   - Blog Tutorial (source code for
   <a href="https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2">

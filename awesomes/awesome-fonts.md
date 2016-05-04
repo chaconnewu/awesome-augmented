@@ -134,7 +134,7 @@
    Redacted
   </a>
   <span>
-   &#9733 4168, pushed 227 days ago
+   &#9733 4168, pushed 228 days ago
   </span>
   Keep your wireframes free of distracting Lorem Ipsum
  </li>
@@ -194,7 +194,7 @@
    font-mfizz
   </a>
   <span>
-   &#9733 239, pushed 16 days ago
+   &#9733 239, pushed 17 days ago
   </span>
   Font Mfizz - Vector Icons for Technology and Software Geeks
  </li>
@@ -393,7 +393,7 @@
    Fantasque Sans Mono
   </a>
   <span>
-   &#9733 2528, pushed 29 days ago
+   &#9733 2528, pushed 30 days ago
   </span>
  </li>
  <li>
@@ -401,7 +401,7 @@
    Hack
   </a>
   <span>
-   &#9733 7840, pushed 1 days ago
+   &#9733 7840, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -538,7 +538,7 @@
    Typeset.js
   </a>
   <span>
-   &#9733 2104, pushed 28 days ago
+   &#9733 2104, pushed 29 days ago
   </span>
   - HTML pre-processor for web typography.
  </li>
@@ -573,7 +573,7 @@
    Command line font-manager
   </a>
   <span>
-   &#9733 11, pushed 960 days ago
+   &#9733 11, pushed 961 days ago
   </span>
  </li>
  <li>
@@ -587,7 +587,7 @@
    font
   </a>
   <span>
-   &#9733 26, pushed 1486 days ago
+   &#9733 26, pushed 1487 days ago
   </span>
   extracts metadata from otf/ttf font files
  </li>

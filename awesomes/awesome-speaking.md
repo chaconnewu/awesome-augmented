@@ -220,7 +220,7 @@
    Awesome Community
   </a>
   <span>
-   &#9733 32, pushed 53 days ago
+   &#9733 32, pushed 54 days ago
   </span>
   - A collection of awesome communities curated by
   <strong>

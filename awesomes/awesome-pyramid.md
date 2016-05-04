@@ -243,7 +243,7 @@ Unlike classic CRUD, pyramid
 sacrud allows overrides and flexibility to
 customize your interface, similar to django.contrib.admin but uses a
 different backend to provide resources.
-<a href="http://pyramid-sacrud.readthedocs.org/en/latest/pages/contribute/architecture.html">
+<a href="http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html">
  New Architecture
 </a>
 built on the resources and mechanism traversal, allows to use it in various cases.
@@ -286,7 +286,7 @@ a list of records as tree. This works fine with models from
 </a>
 .
 <li>
- <a href="https://websauna.org">
+ <a href="https://websauna.org/docs/">
   Websauna
  </a>
  - a full stack application framework for Pyramid
@@ -315,7 +315,7 @@ extension for working with the webassets library.
    pyramid_bowerstatic
   </a>
   <span>
-   &#9733 12, pushed 481 days ago
+   &#9733 12, pushed 482 days ago
   </span>
   -
 integration of Bowerstatic in Pyramid
@@ -340,7 +340,7 @@ asyncio.
    gevent-socketio
   </a>
   <span>
-   &#9733 1021, pushed 7 days ago
+   &#9733 1021, pushed 8 days ago
   </span>
   -
 gevent-socketio is a Python implementation of the Socket.IO protocol,
@@ -373,7 +373,7 @@ eventlet library for long running connections.
    pyramid_ldap
   </a>
   <span>
-   &#9733 8, pushed 1020 days ago
+   &#9733 8, pushed 1021 days ago
   </span>
   - an LDAP
 authentication policy for Pyramid.
@@ -521,7 +521,7 @@ authentication policies.
    pyramid_authstack
   </a>
   <span>
-   &#9733 7, pushed 996 days ago
+   &#9733 7, pushed 997 days ago
   </span>
   -  Use
 multiple authentication policies with Pyramid.
@@ -551,7 +551,7 @@ for the Pyramid Web Framework.
    pyramid_beaker
   </a>
   <span>
-   &#9733 49, pushed 303 days ago
+   &#9733 49, pushed 304 days ago
   </span>
   - A Beaker session
 factory backend for Pyramid, also cache configurator.
@@ -573,7 +573,7 @@ dogpile.cache
    sessions
   </a>
   <span>
-   &#9733 36, pushed 168 days ago
+   &#9733 36, pushed 169 days ago
   </span>
   -
 Pyramid web framework session factory backed by Redis.
@@ -615,7 +615,7 @@ session support for the Pyramid Web Framework
   </span>
   -
 defines an encrypting, pickle-based cookie serializer, using
-  <a href="http://pynacl.readthedocs.org/en/latest/secret/">
+  <a href="http://pynacl.readthedocs.io/en/latest/secret/">
    PyNaCl
   </a>
   to generate the
@@ -636,7 +636,7 @@ symmetric encryption for the cookie state.
    pyramid_debugtoolbar
   </a>
   <span>
-   &#9733 77, pushed 9 days ago
+   &#9733 77, pushed 10 days ago
   </span>
   -
 provides a debug toolbar useful while you're developing your Pyramid
@@ -647,7 +647,7 @@ application.
    pyramid_exclog
   </a>
   <span>
-   &#9733 20, pushed 27 days ago
+   &#9733 20, pushed 28 days ago
   </span>
   - a package which
 logs exceptions from Pyramid applications.
@@ -710,7 +710,7 @@ bindings for Pyramid's pshell
    pyramid_mailer
   </a>
   <span>
-   &#9733 41, pushed 238 days ago
+   &#9733 41, pushed 239 days ago
   </span>
   - A package for
 sending email from your Pyramid application.
@@ -792,7 +792,7 @@ mapped classes.
    marshmallow
   </a>
   <span>
-   &#9733 1082, pushed 4 days ago
+   &#9733 1082, pushed 5 days ago
   </span>
   - A
 lightweight library for converting complex objects to and from simple Python
@@ -852,7 +852,7 @@ way where possible.
    </em>
   </a>
   <span>
-   &#9733 27, pushed 19 days ago
+   &#9733 27, pushed 20 days ago
   </span>
   - is a Python package
 which provides a very convenient way to build REST servers. It is build on
@@ -907,7 +907,7 @@ RAML. It uses Nefertari which provides ElasticSearch-powered views.
   nefertari
  </a>
  <span>
-  &#9733 38, pushed 1 days ago
+  &#9733 38, pushed 2 days ago
  </span>
  -  Nefertari is a REST
 API framework sitting on top of Pyramid and ElasticSearch
@@ -917,7 +917,7 @@ API framework sitting on top of Pyramid and ElasticSearch
   pyramid_swagger
  </a>
  <span>
-  &#9733 33, pushed 6 days ago
+  &#9733 33, pushed 7 days ago
  </span>
  - Convenient
 tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
@@ -959,7 +959,7 @@ searching system.
    pyramid_sms
   </a>
   <span>
-   &#9733 2, pushed 4 days ago
+   &#9733 2, pushed 5 days ago
   </span>
   -
 SMS services for Pyramid web framework.
@@ -979,7 +979,7 @@ SMS services for Pyramid web framework.
    pyramid_zcml
   </a>
   <span>
-   &#9733 3, pushed 51 days ago
+   &#9733 3, pushed 52 days ago
   </span>
   - Zope Configuration
 Markup Language configuration support for Pyramid.
@@ -989,7 +989,7 @@ Markup Language configuration support for Pyramid.
    pyramid_services
   </a>
   <span>
-   &#9733 39, pushed 89 days ago
+   &#9733 39, pushed 90 days ago
   </span>
   - defines a
 pattern and helper methods for accessing a pluggable service layer from
@@ -1011,7 +1011,7 @@ provide new storage backends.
    pyramid_tm
   </a>
   <span>
-   &#9733 24, pushed 7 days ago
+   &#9733 24, pushed 8 days ago
   </span>
   - Centralized transaction
 management for Pyramid applications (without middleware).
@@ -1069,7 +1069,7 @@ pyramid-mongoengine package based on flask-mongoengine
    pyramid_mongodb
   </a>
   <span>
-   &#9733 39, pushed 871 days ago
+   &#9733 39, pushed 872 days ago
   </span>
   - 
 Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
@@ -1190,7 +1190,7 @@ an HTTP server.
    lingua
   </a>
   <span>
-   &#9733 36, pushed 24 days ago
+   &#9733 36, pushed 25 days ago
   </span>
   - Lingua is a package with tools
 to extract translatable texts from your code, and to check existing
@@ -1238,7 +1238,7 @@ provides a simple framework to integrate code with templates and resources.
    waitress
   </a>
   <span>
-   &#9733 254, pushed 17 days ago
+   &#9733 254, pushed 18 days ago
   </span>
   - Waitress is meant to be a
 production-quality pure-Python WSGI server with very acceptable performance.
@@ -1285,7 +1285,7 @@ extension for documenting your Pyramid APIs.
   pyramid_pages
  </a>
  <span>
-  &#9733 7, pushed 0 days ago
+  &#9733 7, pushed 1 days ago
  </span>
  - Provides a
 collections of tree pages to your Pyramid application. This is very similar
@@ -1372,7 +1372,7 @@ detailed information.
    substanced
   </a>
   <span>
-   &#9733 115, pushed 19 days ago
+   &#9733 115, pushed 20 days ago
   </span>
   - An application server
 built upon the Pyramid web framework. It provides a user interface for
@@ -1390,7 +1390,7 @@ create applications.
 extensible web content management system. Based on Pyramid and SQLAlchemy.
  </li>
  <li>
-  <a href="https://karlproject.readthedocs.org/en/latest/">
+  <a href="https://karlproject.readthedocs.io/en/latest/">
    KARL
   </a>
   - A moderately-sized
@@ -1414,7 +1414,7 @@ details.
    cluegun
   </a>
   <span>
-   &#9733 20, pushed 1538 days ago
+   &#9733 20, pushed 1539 days ago
   </span>
   - A simple pastebin application
 based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
@@ -1425,7 +1425,7 @@ the use of ZODB within a Pyramid application.
    shootout
   </a>
   <span>
-   &#9733 94, pushed 942 days ago
+   &#9733 94, pushed 943 days ago
   </span>
   - An example “idea
 competition” application by Carlos de la Guardia and Lukasz Fidosz. It
@@ -1437,7 +1437,7 @@ and pyramid_simpleform.
    virginia
   </a>
   <span>
-   &#9733 19, pushed 1538 days ago
+   &#9733 19, pushed 1539 days ago
   </span>
   - A very simple dynamic
 file rendering application. It is willing to render structured text

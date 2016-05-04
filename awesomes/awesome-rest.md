@@ -278,7 +278,7 @@ the Design of Network-based Software Architectures
    unirest for PHP
   </a>
   <span>
-   &#9733 786, pushed 3 days ago
+   &#9733 786, pushed 4 days ago
   </span>
   - Simplified, lightweight HTTP client library.
  </li>
@@ -292,7 +292,7 @@ the Design of Network-based Software Architectures
    restangular
   </a>
   <span>
-   &#9733 7448, pushed 23 days ago
+   &#9733 7448, pushed 24 days ago
   </span>
   - AngularJS service to handle REST API properly and easily.
  </li>
@@ -301,7 +301,7 @@ the Design of Network-based Software Architectures
    restful.js
   </a>
   <span>
-   &#9733 520, pushed 65 days ago
+   &#9733 520, pushed 66 days ago
   </span>
   - JS client for interacting with server-side RESTful resources.
  </li>
@@ -333,7 +333,7 @@ the Design of Network-based Software Architectures
    restler
   </a>
   <span>
-   &#9733 1783, pushed 35 days ago
+   &#9733 1783, pushed 36 days ago
   </span>
   - REST client library for node.js.
  </li>
@@ -342,7 +342,7 @@ the Design of Network-based Software Architectures
    unirest for Node.js
   </a>
   <span>
-   &#9733 515, pushed 56 days ago
+   &#9733 515, pushed 57 days ago
   </span>
   - Simplified, lightweight HTTP client library.
  </li>
@@ -356,7 +356,7 @@ the Design of Network-based Software Architectures
    RESTClient
   </a>
   <span>
-   &#9733 3324, pushed 1 days ago
+   &#9733 3324, pushed 2 days ago
   </span>
   - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
  </li>
@@ -365,7 +365,7 @@ the Design of Network-based Software Architectures
    Spyke
   </a>
   <span>
-   &#9733 439, pushed 112 days ago
+   &#9733 439, pushed 113 days ago
   </span>
   - Interact with REST services in an ActiveRecord-like manner.
  </li>
@@ -374,7 +374,7 @@ the Design of Network-based Software Architectures
    excon
   </a>
   <span>
-   &#9733 723, pushed 35 days ago
+   &#9733 723, pushed 36 days ago
   </span>
   - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
  </li>
@@ -405,7 +405,7 @@ the Design of Network-based Software Architectures
    postgrest
   </a>
   <span>
-   &#9733 6716, pushed 1 days ago
+   &#9733 6716, pushed 2 days ago
   </span>
   - Serve a fully RESTful API directly from an existing PostgreSQL database.
  </li>
@@ -440,7 +440,7 @@ the Design of Network-based Software Architectures
    mers
   </a>
   <span>
-   &#9733 335, pushed 316 days ago
+   &#9733 335, pushed 317 days ago
   </span>
   - Express service exposing Mongoose finders as RESTful API.
  </li>
@@ -449,7 +449,7 @@ the Design of Network-based Software Architectures
    Baucis
   </a>
   <span>
-   &#9733 563, pushed 56 days ago
+   &#9733 563, pushed 57 days ago
   </span>
   - Build scalable REST API based on your Mongoose entities.
  </li>
@@ -458,7 +458,7 @@ the Design of Network-based Software Architectures
    flatiron/resourceful
   </a>
   <span>
-   &#9733 348, pushed 476 days ago
+   &#9733 348, pushed 477 days ago
   </span>
   - Isomorphic Resource engine for JavaScript.
  </li>
@@ -493,7 +493,7 @@ the Design of Network-based Software Architectures
    Negotiation
   </a>
   <span>
-   &#9733 319, pushed 55 days ago
+   &#9733 319, pushed 56 days ago
   </span>
   - Content negotiation library.
  </li>
@@ -520,7 +520,7 @@ the Design of Network-based Software Architectures
    HAL
   </a>
   <span>
-   &#9733 164, pushed 35 days ago
+   &#9733 164, pushed 36 days ago
   </span>
   - Hypertext Application Language (HAL) builder library.
  </li>
@@ -783,7 +783,7 @@ the Design of Network-based Software Architectures
    Goat
   </a>
   <span>
-   &#9733 84, pushed 26 days ago
+   &#9733 84, pushed 27 days ago
   </span>
   - Minimalistic REST API server in Go.
  </li>
@@ -792,7 +792,7 @@ the Design of Network-based Software Architectures
    Resoursea
   </a>
   <span>
-   &#9733 24, pushed 456 days ago
+   &#9733 24, pushed 457 days ago
   </span>
   - REST framework for quickly writing resource based services.
  </li>
@@ -815,7 +815,7 @@ the Design of Network-based Software Architectures
    RestExpress
   </a>
   <span>
-   &#9733 597, pushed 3 days ago
+   &#9733 597, pushed 4 days ago
   </span>
   - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
  </li>
@@ -829,7 +829,7 @@ the Design of Network-based Software Architectures
    Rest for Haskell
   </a>
   <span>
-   &#9733 336, pushed 6 days ago
+   &#9733 336, pushed 7 days ago
   </span>
   - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
  </li>
@@ -875,7 +875,7 @@ the Design of Network-based Software Architectures
    resty
   </a>
   <span>
-   &#9733 1885, pushed 22 days ago
+   &#9733 1885, pushed 23 days ago
   </span>
   - Little command line REST client that you can use in pipelines (bash or zsh).
  </li>
@@ -884,7 +884,7 @@ the Design of Network-based Software Architectures
    jq
   </a>
   <span>
-   &#9733 6555, pushed 18 days ago
+   &#9733 6555, pushed 19 days ago
   </span>
   - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
  </li>

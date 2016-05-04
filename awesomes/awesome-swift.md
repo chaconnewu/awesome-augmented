@@ -507,7 +507,7 @@
    Awesome Swift Education
   </a>
   <span>
-   &#9733 4475, pushed 22 days ago
+   &#9733 4475, pushed 23 days ago
   </span>
   - An organized list of essential Swift Language Topics
  </li>
@@ -538,7 +538,7 @@
    Learn Swift
   </a>
   <span>
-   &#9733 652, pushed 127 days ago
+   &#9733 652, pushed 128 days ago
   </span>
   - a collection of tuts that will help you learning Swift via playground.
  </li>
@@ -609,7 +609,7 @@
    Swift-Weekly
   </a>
   <span>
-   &#9733 735, pushed 72 days ago
+   &#9733 735, pushed 73 days ago
   </span>
   - Weekly Swift Language Gems, Tips and Tricks.
  </li>
@@ -633,7 +633,7 @@
    SwiftInFlux
   </a>
   <span>
-   &#9733 1935, pushed 151 days ago
+   &#9733 1935, pushed 152 days ago
   </span>
   - A well explained list of feature in flux for Swift.
  </li>
@@ -653,7 +653,7 @@
    GitHub
   </a>
   <span>
-   &#9733 3128, pushed 24 days ago
+   &#9733 3128, pushed 25 days ago
   </span>
   - Style guide & coding conventions for Swift projects.
  </li>
@@ -662,7 +662,7 @@
    Raywenderlich
   </a>
   <span>
-   &#9733 4519, pushed 4 days ago
+   &#9733 4519, pushed 5 days ago
   </span>
   - Raywenderlich Swift guide, a must read.
  </li>
@@ -700,7 +700,7 @@
    Swift Off
   </a>
   <span>
-   &#9733 52, pushed 42 days ago
+   &#9733 52, pushed 43 days ago
   </span>
   - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
  </li>
@@ -709,7 +709,7 @@
    Webview Boilerplate
   </a>
   <span>
-   &#9733 743, pushed 34 days ago
+   &#9733 743, pushed 35 days ago
   </span>
   - Swift starting point for webview app.
  </li>
@@ -745,7 +745,7 @@
    swift-vim
   </a>
   <span>
-   &#9733 311, pushed 8 days ago
+   &#9733 311, pushed 9 days ago
   </span>
   - play Swift with vim editor.
  </li>
@@ -754,7 +754,7 @@
    vim-polyglot
   </a>
   <span>
-   &#9733 669, pushed 2 days ago
+   &#9733 669, pushed 3 days ago
   </span>
   - language pack for vim that includes vim-swift.
  </li>
@@ -874,7 +874,7 @@
    sbconstants
   </a>
   <span>
-   &#9733 255, pushed 26 days ago
+   &#9733 255, pushed 27 days ago
   </span>
   - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
  </li>
@@ -1000,7 +1000,7 @@
    Morgan
   </a>
   <span>
-   &#9733 27, pushed 38 days ago
+   &#9733 27, pushed 39 days ago
   </span>
   - An always growing animation set.
  </li>
@@ -1055,7 +1055,7 @@
    IKRouter
   </a>
   <span>
-   &#9733 73, pushed 184 days ago
+   &#9733 73, pushed 185 days ago
   </span>
   - URLScheme router than supports auto creation of UIViewControllers.
  </li>
@@ -1101,7 +1101,7 @@
    SwiftyStoreKit
   </a>
   <span>
-   &#9733 827, pushed 1 days ago
+   &#9733 827, pushed 2 days ago
   </span>
   - Lightweight In App Purchases Swift framework.
  </li>
@@ -1138,7 +1138,7 @@
    Beethoven
   </a>
   <span>
-   &#9733 48, pushed 111 days ago
+   &#9733 48, pushed 112 days ago
   </span>
   - An audio processing Swift library for pitch detection of musical signals.
  </li>
@@ -1156,7 +1156,7 @@
    TuningFork
   </a>
   <span>
-   &#9733 298, pushed 58 days ago
+   &#9733 298, pushed 59 days ago
   </span>
   - A Simple Tuner for iOS.
  </li>
@@ -1194,7 +1194,7 @@
    Dip
   </a>
   <span>
-   &#9733 192, pushed 1 days ago
+   &#9733 192, pushed 2 days ago
   </span>
   - A simple Dependency Injection Container.
  </li>
@@ -1212,7 +1212,7 @@
    GooglePlacesAutocomplete
   </a>
   <span>
-   &#9733 176, pushed 70 days ago
+   &#9733 176, pushed 71 days ago
   </span>
   - Simple Google Places address entry for iOS.
  </li>
@@ -1239,7 +1239,7 @@
    reddift
   </a>
   <span>
-   &#9733 61, pushed 8 days ago
+   &#9733 61, pushed 9 days ago
   </span>
   - reddit API wrapper.
  </li>
@@ -1257,7 +1257,7 @@
    Swinject
   </a>
   <span>
-   &#9733 674, pushed 6 days ago
+   &#9733 674, pushed 7 days ago
   </span>
   - A dependency injection framework for Swift.
  </li>
@@ -1358,7 +1358,7 @@
    AEConicalGradient
   </a>
   <span>
-   &#9733 8, pushed 176 days ago
+   &#9733 8, pushed 177 days ago
   </span>
   - Conical (angular) gradient in Swift.
  </li>
@@ -1376,7 +1376,7 @@
    Colors
   </a>
   <span>
-   &#9733 16, pushed 302 days ago
+   &#9733 16, pushed 303 days ago
   </span>
   - A pure Swift library for using ANSI codes.
  </li>
@@ -1462,7 +1462,7 @@
    SwiftHEXColors
   </a>
   <span>
-   &#9733 342, pushed 29 days ago
+   &#9733 342, pushed 30 days ago
   </span>
   - HEX color handling as an extension for UIColor.
  </li>
@@ -1603,7 +1603,7 @@
    Cadmium
   </a>
   <span>
-   &#9733 42, pushed 8 days ago
+   &#9733 42, pushed 9 days ago
   </span>
   - A Swift framework that hides the complexity of managed object contexts.
  </li>
@@ -1612,7 +1612,7 @@
    CoreDataOperation
   </a>
   <span>
-   &#9733 2, pushed 81 days ago
+   &#9733 2, pushed 82 days ago
   </span>
   - a safe, asynchronous CoreData operation class.
  </li>
@@ -1666,7 +1666,7 @@
    SugarRecord
   </a>
   <span>
-   &#9733 1427, pushed 3 days ago
+   &#9733 1427, pushed 4 days ago
   </span>
   - an easy with to work with coredata and realm.
  </li>
@@ -1744,7 +1744,7 @@
    FileKit
   </a>
   <span>
-   &#9733 463, pushed 35 days ago
+   &#9733 463, pushed 36 days ago
   </span>
   - Simple and expressive file management in Swift.
  </li>
@@ -1781,7 +1781,7 @@
    AlamofireObjectMapper
   </a>
   <span>
-   &#9733 734, pushed 33 days ago
+   &#9733 734, pushed 34 days ago
   </span>
   - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
  </li>
@@ -1799,7 +1799,7 @@
    Alexander
   </a>
   <span>
-   &#9733 35, pushed 34 days ago
+   &#9733 35, pushed 35 days ago
   </span>
   - An extremely simple JSON helper written in Swift.
  </li>
@@ -1808,7 +1808,7 @@
    Argo
   </a>
   <span>
-   &#9733 2288, pushed 10 days ago
+   &#9733 2288, pushed 11 days ago
   </span>
   - Json parsing library.
  </li>
@@ -1835,7 +1835,7 @@
    Decodable
   </a>
   <span>
-   &#9733 788, pushed 3 days ago
+   &#9733 788, pushed 4 days ago
   </span>
   🐧 - JSON parsing for Swift 2.
  </li>
@@ -1844,7 +1844,7 @@
    EVReflection
   </a>
   <span>
-   &#9733 314, pushed 1 days ago
+   &#9733 314, pushed 2 days ago
   </span>
   - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable
  </li>
@@ -1880,7 +1880,7 @@
    JASON
   </a>
   <span>
-   &#9733 679, pushed 1 days ago
+   &#9733 679, pushed 2 days ago
   </span>
   - JSON parsing with outstanding performances and convenient operators.
  </li>
@@ -1907,7 +1907,7 @@
    JSONHelper
   </a>
   <span>
-   &#9733 763, pushed 14 days ago
+   &#9733 763, pushed 15 days ago
   </span>
   - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
  </li>
@@ -1961,7 +1961,7 @@
    SwiftJSONParser
   </a>
   <span>
-   &#9733 58, pushed 142 days ago
+   &#9733 58, pushed 143 days ago
   </span>
   - JSON parser.
  </li>
@@ -1997,7 +1997,7 @@
    Unbox
   </a>
   <span>
-   &#9733 624, pushed 2 days ago
+   &#9733 624, pushed 3 days ago
   </span>
   - The easy to use Swift JSON decoder.
  </li>
@@ -2198,7 +2198,7 @@
    SWXMLHash
   </a>
   <span>
-   &#9733 499, pushed 22 days ago
+   &#9733 499, pushed 23 days ago
   </span>
   - Simple XML parsing in Swift.
  </li>
@@ -2221,7 +2221,7 @@
    Zip
   </a>
   <span>
-   &#9733 575, pushed 3 days ago
+   &#9733 575, pushed 4 days ago
   </span>
   - Swift framework for zipping and unzipping files.
  </li>
@@ -2240,7 +2240,7 @@
    EVCloudKitDao
   </a>
   <span>
-   &#9733 410, pushed 1 days ago
+   &#9733 410, pushed 2 days ago
   </span>
   - Simplified access to CloudKit with support for subscriptions and local caching.
  </li>
@@ -2458,7 +2458,7 @@
    Notificationz
   </a>
   <span>
-   &#9733 32, pushed 135 days ago
+   &#9733 32, pushed 136 days ago
   </span>
   - Helping you
   <em>
@@ -2474,7 +2474,7 @@
    PromiseKit
   </a>
   <span>
-   &#9733 5026, pushed 6 days ago
+   &#9733 5026, pushed 7 days ago
   </span>
   - async promise programming lib.
  </li>
@@ -2564,7 +2564,7 @@
    SwiftEventBus
   </a>
   <span>
-   &#9733 330, pushed 299 days ago
+   &#9733 330, pushed 300 days ago
   </span>
   - A publish/subscribe event bus optimized for iOS.
  </li>
@@ -2628,7 +2628,7 @@
    GoogleMaterialIconFont
   </a>
   <span>
-   &#9733 87, pushed 74 days ago
+   &#9733 87, pushed 75 days ago
   </span>
   - Google Material Icon Font for Swift and ObjC.
  </li>
@@ -2655,7 +2655,7 @@
    Swicon
   </a>
   <span>
-   &#9733 23, pushed 54 days ago
+   &#9733 23, pushed 55 days ago
   </span>
   - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!
  </li>
@@ -2673,7 +2673,7 @@
    SwiftFonts
   </a>
   <span>
-   &#9733 112, pushed 208 days ago
+   &#9733 112, pushed 209 days ago
   </span>
   - render all the supported fonts in Swift.
  </li>
@@ -2682,7 +2682,7 @@
    SwiftIconFont
   </a>
   <span>
-   &#9733 65, pushed 14 days ago
+   &#9733 65, pushed 15 days ago
   </span>
   - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
  </li>
@@ -2714,7 +2714,7 @@
    PeekPop
   </a>
   <span>
-   &#9733 1392, pushed 3 days ago
+   &#9733 1392, pushed 4 days ago
   </span>
   - Swift framework for backwards-compatible Peek and Pop.
  </li>
@@ -2741,7 +2741,7 @@
    Tactile
   </a>
   <span>
-   &#9733 512, pushed 4 days ago
+   &#9733 512, pushed 5 days ago
   </span>
   - Attach function handlers to gesture and control events in a more expressive and safer way.
  </li>
@@ -2815,7 +2815,7 @@
    DePict
   </a>
   <span>
-   &#9733 13, pushed 131 days ago
+   &#9733 13, pushed 132 days ago
   </span>
   - functional wrapper for CoreGraphics.
  </li>
@@ -2833,7 +2833,7 @@
    gifu
   </a>
   <span>
-   &#9733 1251, pushed 1 days ago
+   &#9733 1251, pushed 2 days ago
   </span>
   - highly performant animated GIF support for iOS in Swift.
  </li>
@@ -2869,7 +2869,7 @@
    ImageScout
   </a>
   <span>
-   &#9733 754, pushed 92 days ago
+   &#9733 754, pushed 93 days ago
   </span>
   - a Swift implementation of
   <a href="https://pypi.python.org/pypi/fastimage/0.2.1">
@@ -2945,7 +2945,7 @@
    PassportScanner
   </a>
   <span>
-   &#9733 141, pushed 118 days ago
+   &#9733 141, pushed 119 days ago
   </span>
   - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
  </li>
@@ -2954,7 +2954,7 @@
    SwiftColorArt
   </a>
   <span>
-   &#9733 273, pushed 457 days ago
+   &#9733 273, pushed 458 days ago
   </span>
   - font schema generator according image colours.
  </li>
@@ -3177,7 +3177,7 @@
    AutoLayoutPlus
   </a>
   <span>
-   &#9733 15, pushed 80 days ago
+   &#9733 15, pushed 81 days ago
   </span>
   - A bit of steroids for AutoLayout, powered by Swift.
  </li>
@@ -3186,7 +3186,7 @@
    Cartography
   </a>
   <span>
-   &#9733 4206, pushed 21 days ago
+   &#9733 4206, pushed 22 days ago
   </span>
   - declarative auto layout lib for your project.
  </li>
@@ -3204,7 +3204,7 @@
    FormationLayout
   </a>
   <span>
-   &#9733 42, pushed 80 days ago
+   &#9733 42, pushed 81 days ago
   </span>
   - Auto Layout lib supports group layout and size classes.
  </li>
@@ -3231,7 +3231,7 @@
    PureLayout
   </a>
   <span>
-   &#9733 5288, pushed 72 days ago
+   &#9733 5288, pushed 73 days ago
   </span>
   – The ultimate API for iOS & OS X Auto Layout.
  </li>
@@ -3240,7 +3240,7 @@
    Restraint
   </a>
   <span>
-   &#9733 65, pushed 228 days ago
+   &#9733 65, pushed 229 days ago
   </span>
   - Minimal Auto Layout in Swift.
  </li>
@@ -3294,7 +3294,7 @@
    Tails
   </a>
   <span>
-   &#9733 17, pushed 670 days ago
+   &#9733 17, pushed 671 days ago
   </span>
   - declarative autolayout for ios app written in swift.
  </li>
@@ -3303,7 +3303,7 @@
    VFLToolbox
   </a>
   <span>
-   &#9733 139, pushed 620 days ago
+   &#9733 139, pushed 621 days ago
   </span>
   - fancy Swift implementation of the Visual Format Language.
  </li>
@@ -3322,7 +3322,7 @@
    BartyCrouch
   </a>
   <span>
-   &#9733 21, pushed 1 days ago
+   &#9733 21, pushed 2 days ago
   </span>
   - Keep Storyboard/XIB localizations up-to-date or machine translate strings files with ease.
  </li>
@@ -3331,7 +3331,7 @@
    Localize-Swift
   </a>
   <span>
-   &#9733 726, pushed 3 days ago
+   &#9733 726, pushed 4 days ago
   </span>
   - Localize apps using e.g. regular expressions in Localizable.strings.
  </li>
@@ -3340,7 +3340,7 @@
    Swifternalization
   </a>
   <span>
-   &#9733 342, pushed 33 days ago
+   &#9733 342, pushed 34 days ago
   </span>
   - Localize apps using e.g. regular expressions in Localizable.strings.
  </li>
@@ -3373,7 +3373,7 @@
    AELog
   </a>
   <span>
-   &#9733 3, pushed 16 days ago
+   &#9733 3, pushed 17 days ago
   </span>
   - Simple, lightweight and flexible debug logging framework written in Swift.
  </li>
@@ -3391,7 +3391,7 @@
    CleanroomASL
   </a>
   <span>
-   &#9733 48, pushed 41 days ago
+   &#9733 48, pushed 42 days ago
   </span>
   🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
  </li>
@@ -3400,7 +3400,7 @@
    CleanroomLogger
   </a>
   <span>
-   &#9733 714, pushed 41 days ago
+   &#9733 714, pushed 42 days ago
   </span>
   🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
  </li>
@@ -3418,7 +3418,7 @@
    HeliumLogger
   </a>
   <span>
-   &#9733 14, pushed 4 days ago
+   &#9733 14, pushed 5 days ago
   </span>
   🐧 - IBM's lightweight logging framework.
  </li>
@@ -3472,7 +3472,7 @@
    SwiftBeaver
   </a>
   <span>
-   &#9733 1053, pushed 1 days ago
+   &#9733 1053, pushed 2 days ago
   </span>
   🐧 - Colorful, lightweight & fast logging in Swift 2.
  </li>
@@ -3620,7 +3620,7 @@
    Alamofire
   </a>
   <span>
-   &#9733 16353, pushed 1 days ago
+   &#9733 16353, pushed 2 days ago
   </span>
   🐧 - elegant networking in Swift.
  </li>
@@ -3719,7 +3719,7 @@
    NetKit
   </a>
   <span>
-   &#9733 4, pushed 17 days ago
+   &#9733 4, pushed 18 days ago
   </span>
   - A Concise HTTP Framework in Swift.
  </li>
@@ -3809,7 +3809,7 @@
    RSNetworking
   </a>
   <span>
-   &#9733 19, pushed 304 days ago
+   &#9733 19, pushed 305 days ago
   </span>
   - Network library written purely in Swift.
  </li>
@@ -3888,7 +3888,7 @@
    WKZombie
   </a>
   <span>
-   &#9733 545, pushed 4 days ago
+   &#9733 545, pushed 5 days ago
   </span>
   - Headless browser
  </li>
@@ -3925,7 +3925,7 @@
    Socket.IO
   </a>
   <span>
-   &#9733 1264, pushed 5 days ago
+   &#9733 1264, pushed 6 days ago
   </span>
   🐧 - Socket.IO client for iOS/OS X.
  </li>
@@ -3934,7 +3934,7 @@
    SocketIO-Kit
   </a>
   <span>
-   &#9733 134, pushed 298 days ago
+   &#9733 134, pushed 299 days ago
   </span>
   - Socket.io iOS and OSX Client.
  </li>
@@ -3952,7 +3952,7 @@
    Starscream
   </a>
   <span>
-   &#9733 1743, pushed 32 days ago
+   &#9733 1743, pushed 33 days ago
   </span>
   - Websockets in swift for iOS and OSX.
  </li>
@@ -3998,7 +3998,7 @@
    Aeon
   </a>
   <span>
-   &#9733 71, pushed 45 days ago
+   &#9733 71, pushed 46 days ago
   </span>
   - GCD based HTTP server for Swift 2.
  </li>
@@ -4007,7 +4007,7 @@
    Curassow
   </a>
   <span>
-   &#9733 354, pushed 17 days ago
+   &#9733 354, pushed 18 days ago
   </span>
   🐧 - Swift HTTP server using the pre-fork worker model.
  </li>
@@ -4038,7 +4038,7 @@
    Express
   </a>
   <span>
-   &#9733 660, pushed 14 days ago
+   &#9733 660, pushed 15 days ago
   </span>
   🐧 - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
  </li>
@@ -4047,7 +4047,7 @@
    Frank
   </a>
   <span>
-   &#9733 276, pushed 58 days ago
+   &#9733 276, pushed 59 days ago
   </span>
   🐧 - Frank is a DSL for quickly writing web applications in Swift.
  </li>
@@ -4119,7 +4119,7 @@
    SwiftyHTTP
   </a>
   <span>
-   &#9733 92, pushed 6 days ago
+   &#9733 92, pushed 7 days ago
   </span>
   - A simple GCD based HTTP client and server, written in 'pure' Swift.
  </li>
@@ -4137,7 +4137,7 @@
    Taylor
   </a>
   <span>
-   &#9733 831, pushed 1 days ago
+   &#9733 831, pushed 2 days ago
   </span>
   - A lightweight library for writing HTTP web servers with Swift.
  </li>
@@ -4164,7 +4164,7 @@
    XcodeServerSDK
   </a>
   <span>
-   &#9733 320, pushed 11 days ago
+   &#9733 320, pushed 12 days ago
   </span>
   - Access Xcode Server API with native Swift objects.
  </li>
@@ -4201,7 +4201,7 @@
    SwiftFormat
   </a>
   <span>
-   &#9733 99, pushed 326 days ago
+   &#9733 99, pushed 327 days ago
   </span>
   - Auto formatting Swift code, similar to Clang format.
  </li>
@@ -4370,7 +4370,7 @@
    MotionKit
   </a>
   <span>
-   &#9733 714, pushed 10 days ago
+   &#9733 714, pushed 11 days ago
   </span>
   - iOS device sensors wrapper.
  </li>
@@ -4454,7 +4454,7 @@
    Fakery
   </a>
   <span>
-   &#9733 401, pushed 11 days ago
+   &#9733 401, pushed 12 days ago
   </span>
   - Swift fake data generator.
  </li>
@@ -4481,7 +4481,7 @@
    Quick
   </a>
   <span>
-   &#9733 4606, pushed 1 days ago
+   &#9733 4606, pushed 2 days ago
   </span>
   🐧 - Quick is a behavior-driven development framework for Swift and Objective-C.
  </li>
@@ -4517,7 +4517,7 @@
    SwiftMock
   </a>
   <span>
-   &#9733 167, pushed 209 days ago
+   &#9733 167, pushed 210 days ago
   </span>
   - A mocking framework for Swift
  </li>
@@ -4665,7 +4665,7 @@
    PhoneNumberKit
   </a>
   <span>
-   &#9733 924, pushed 3 days ago
+   &#9733 924, pushed 4 days ago
   </span>
   - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
  </li>
@@ -4693,7 +4693,7 @@
    Async.legacy
   </a>
   <span>
-   &#9733 33, pushed 494 days ago
+   &#9733 33, pushed 495 days ago
   </span>
   – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork).
  </li>
@@ -4720,7 +4720,7 @@
    Dispatcher
   </a>
   <span>
-   &#9733 92, pushed 7 days ago
+   &#9733 92, pushed 8 days ago
   </span>
   - Queues, timers, and task groups in Swift.
  </li>
@@ -4775,7 +4775,7 @@
    ActiveLabel
   </a>
   <span>
-   &#9733 946, pushed 1 days ago
+   &#9733 946, pushed 2 days ago
   </span>
   - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
  </li>
@@ -4802,7 +4802,7 @@
    AIFlatSwitch
   </a>
   <span>
-   &#9733 469, pushed 188 days ago
+   &#9733 469, pushed 189 days ago
   </span>
   - Flat animated switch.
  </li>
@@ -4829,7 +4829,7 @@
    BusyNavigationBar
   </a>
   <span>
-   &#9733 625, pushed 102 days ago
+   &#9733 625, pushed 103 days ago
   </span>
   - A UINavigationBar extension to show loading effects.
  </li>
@@ -4838,7 +4838,7 @@
    BWWalkthrough
   </a>
   <span>
-   &#9733 1994, pushed 27 days ago
+   &#9733 1994, pushed 28 days ago
   </span>
   - A class to build custom walkthroughs for your iOS App.
  </li>
@@ -4856,7 +4856,7 @@
    CharacterText
   </a>
   <span>
-   &#9733 276, pushed 37 days ago
+   &#9733 276, pushed 38 days ago
   </span>
   - Perform fx on UILabel.
  </li>
@@ -4892,7 +4892,7 @@
    Drag and Drop UICollectionView
   </a>
   <span>
-   &#9733 125, pushed 75 days ago
+   &#9733 125, pushed 76 days ago
   </span>
   - Dragging and Dropping data across multiple UICollectionViews (in Swift).
  </li>
@@ -4950,7 +4950,7 @@
    Fashion
   </a>
   <span>
-   &#9733 22, pushed 11 days ago
+   &#9733 22, pushed 12 days ago
   </span>
   - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.
  </li>
@@ -4995,7 +4995,7 @@
    FloatRatingView
   </a>
   <span>
-   &#9733 239, pushed 236 days ago
+   &#9733 239, pushed 237 days ago
   </span>
   - Floating rating system.
  </li>
@@ -5121,7 +5121,7 @@
    Instructions
   </a>
   <span>
-   &#9733 1959, pushed 0 days ago
+   &#9733 1959, pushed 1 days ago
   </span>
   - A Swift library to create app walkthroughs and guided tours.
  </li>
@@ -5166,7 +5166,7 @@
    KDEDateLabel
   </a>
   <span>
-   &#9733 73, pushed 80 days ago
+   &#9733 73, pushed 81 days ago
   </span>
   - An UILabel subclass that updates itself to make time ago's format easier.
  </li>
@@ -5301,7 +5301,7 @@
    MZFormSheetPresentationController
   </a>
   <span>
-   &#9733 484, pushed 5 days ago
+   &#9733 484, pushed 6 days ago
   </span>
   - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
  </li>
@@ -5409,7 +5409,7 @@
    RubberBandEffect
   </a>
   <span>
-   &#9733 417, pushed 315 days ago
+   &#9733 417, pushed 316 days ago
   </span>
   - Recreating Apple’s rubber band effect in Swift.
  </li>
@@ -5454,7 +5454,7 @@
    SKPhotoBrowser
   </a>
   <span>
-   &#9733 722, pushed 4 days ago
+   &#9733 722, pushed 5 days ago
   </span>
   - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
  </li>
@@ -5478,7 +5478,7 @@
    StarryStars
   </a>
   <span>
-   &#9733 82, pushed 80 days ago
+   &#9733 82, pushed 81 days ago
   </span>
   - Display & edit ratings, fully customizable from interface builder.
  </li>
@@ -5541,7 +5541,7 @@
    TagListView
   </a>
   <span>
-   &#9733 564, pushed 1 days ago
+   &#9733 564, pushed 2 days ago
   </span>
   - Simple but highly customizable iOS tag list view.
  </li>
@@ -5550,7 +5550,7 @@
    TCDInputView
   </a>
   <span>
-   &#9733 7, pushed 186 days ago
+   &#9733 7, pushed 187 days ago
   </span>
   - A custom input view which is displayed when a text field becomes the first responder.
  </li>
@@ -5559,7 +5559,7 @@
    TextFieldEffects
   </a>
   <span>
-   &#9733 2706, pushed 29 days ago
+   &#9733 2706, pushed 30 days ago
   </span>
   - Several ready to use effects for UITextFields
  </li>
@@ -5804,7 +5804,7 @@
    MIBadgeButton
   </a>
   <span>
-   &#9733 116, pushed 6 days ago
+   &#9733 116, pushed 7 days ago
   </span>
   - Notification badge for UIButtons.
  </li>
@@ -5813,7 +5813,7 @@
    SDevBootstrapButton
   </a>
   <span>
-   &#9733 23, pushed 287 days ago
+   &#9733 23, pushed 288 days ago
   </span>
   - Twitter Bootstrap buttons for Swift.
  </li>
@@ -5822,7 +5822,7 @@
    TVButton
   </a>
   <span>
-   &#9733 716, pushed 42 days ago
+   &#9733 716, pushed 43 days ago
   </span>
   - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
  </li>
@@ -5919,7 +5919,7 @@
    MediumMenu
   </a>
   <span>
-   &#9733 215, pushed 0 days ago
+   &#9733 215, pushed 1 days ago
   </span>
   - A menu based on Medium iOS app.
  </li>
@@ -5928,7 +5928,7 @@
    Pagemenu
   </a>
   <span>
-   &#9733 2653, pushed 12 days ago
+   &#9733 2653, pushed 13 days ago
   </span>
   - Pagination enabled view controller.
  </li>
@@ -5987,7 +5987,7 @@
    Permission
   </a>
   <span>
-   &#9733 1540, pushed 6 days ago
+   &#9733 1540, pushed 7 days ago
   </span>
   - A unified API to ask for permissions on iOS.
  </li>
@@ -5996,7 +5996,7 @@
    PermissionScope
   </a>
   <span>
-   &#9733 2467, pushed 6 days ago
+   &#9733 2467, pushed 7 days ago
   </span>
   - A Periscope-inspired way to ask for iOS permissions.
  </li>
@@ -6051,7 +6051,7 @@
    ElasticTransition
   </a>
   <span>
-   &#9733 1044, pushed 32 days ago
+   &#9733 1044, pushed 33 days ago
   </span>
   - An interactive transition that simulates an elastic drag.
  </li>
@@ -6101,7 +6101,7 @@
    AEAccordion
   </a>
   <span>
-   &#9733 95, pushed 292 days ago
+   &#9733 95, pushed 293 days ago
   </span>
   - UITableViewController with accordion effect (expand / collapse cells).
  </li>
@@ -6192,7 +6192,7 @@
    AEAppVersion
   </a>
   <span>
-   &#9733 2, pushed 80 days ago
+   &#9733 2, pushed 81 days ago
   </span>
   - Simple and Lightweight iOS App Version Tracking written in Swift.
  </li>
@@ -6237,7 +6237,7 @@
    AwesomeCache
   </a>
   <span>
-   &#9733 728, pushed 22 days ago
+   &#9733 728, pushed 23 days ago
   </span>
   - manage cache easy in your Swift project.
  </li>
@@ -6246,7 +6246,7 @@
    Basis
   </a>
   <span>
-   &#9733 276, pushed 41 days ago
+   &#9733 276, pushed 42 days ago
   </span>
   - Pure Declarative Programming in Swift.
  </li>
@@ -6282,7 +6282,7 @@
    CallbackURLKit
   </a>
   <span>
-   &#9733 81, pushed 81 days ago
+   &#9733 81, pushed 82 days ago
   </span>
   - Implementation of x-callback-url (Inter app communication) in swift
  </li>
@@ -6291,7 +6291,7 @@
    Carlos
   </a>
   <span>
-   &#9733 228, pushed 4 days ago
+   &#9733 228, pushed 5 days ago
   </span>
   - A simple but flexible cache.
  </li>
@@ -6318,7 +6318,7 @@
    Curry
   </a>
   <span>
-   &#9733 186, pushed 25 days ago
+   &#9733 186, pushed 26 days ago
   </span>
   - Swift implementations for function currying.
  </li>
@@ -6345,7 +6345,7 @@
    Dollar
   </a>
   <span>
-   &#9733 3092, pushed 3 days ago
+   &#9733 3092, pushed 4 days ago
   </span>
   - a lib similar to Lo-Dash or Underscore in Javascript.
  </li>
@@ -6381,7 +6381,7 @@
    Focus
   </a>
   <span>
-   &#9733 66, pushed 3 days ago
+   &#9733 66, pushed 4 days ago
   </span>
   - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
  </li>
@@ -6417,7 +6417,7 @@
    Inflection
   </a>
   <span>
-   &#9733 21, pushed 425 days ago
+   &#9733 21, pushed 426 days ago
   </span>
   - The Optimus Prime of string inflection.
  </li>
@@ -6453,7 +6453,7 @@
    Mendel
   </a>
   <span>
-   &#9733 110, pushed 342 days ago
+   &#9733 110, pushed 343 days ago
   </span>
   - Swift miliframework for implementing evolutionary/genetic algorithms.
  </li>
@@ -6489,7 +6489,7 @@
    Pitchy
   </a>
   <span>
-   &#9733 11, pushed 117 days ago
+   &#9733 11, pushed 118 days ago
   </span>
   - A simple way to get a music pitch from a frequency.
  </li>
@@ -6507,7 +6507,7 @@
    Popsicle
   </a>
   <span>
-   &#9733 1080, pushed 73 days ago
+   &#9733 1080, pushed 74 days ago
   </span>
   - Delightful, extensible Swift value interpolation framework.
  </li>
@@ -6516,7 +6516,7 @@
    Prelude
   </a>
   <span>
-   &#9733 222, pushed 88 days ago
+   &#9733 222, pushed 89 days ago
   </span>
   - Swift µframework of simple functional programming tools.
  </li>
@@ -6540,7 +6540,7 @@
    Pythonic.swift
   </a>
   <span>
-   &#9733 487, pushed 43 days ago
+   &#9733 487, pushed 44 days ago
   </span>
   - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
  </li>
@@ -6549,7 +6549,7 @@
    R.swift
   </a>
   <span>
-   &#9733 1903, pushed 1 days ago
+   &#9733 1903, pushed 2 days ago
   </span>
   - Tool to get strong typed, autocompleted resources like images, cells and segues.
  </li>
@@ -6564,7 +6564,7 @@
    ReactiveArray
   </a>
   <span>
-   &#9733 41, pushed 27 days ago
+   &#9733 41, pushed 28 days ago
   </span>
   - An array class implemented in Swift that can be observed using ReactiveCocoa's Signals.
  </li>
@@ -6600,7 +6600,7 @@
    seguecode
   </a>
   <span>
-   &#9733 21, pushed 24 days ago
+   &#9733 21, pushed 25 days ago
   </span>
   - seguecode is a support tool that provides compile-time safeties around building with UIStoryboards by exporting code regarding Scenes, Segues, Table and Collection Views and more.
  </li>
@@ -6618,7 +6618,7 @@
    SpecificationPattern
   </a>
   <span>
-   &#9733 38, pushed 272 days ago
+   &#9733 38, pushed 273 days ago
   </span>
   - chainable rules useful for form validation.
  </li>
@@ -6663,7 +6663,7 @@
    Swift-AI
   </a>
   <span>
-   &#9733 2758, pushed 9 days ago
+   &#9733 2758, pushed 10 days ago
   </span>
   - A high-performance AI and Machine Learning library written entirely in Swift.
  </li>
@@ -6717,7 +6717,7 @@
    SwiftRandom
   </a>
   <span>
-   &#9733 358, pushed 16 days ago
+   &#9733 358, pushed 17 days ago
   </span>
   - A tiny generator of random data for swift.
  </li>
@@ -6762,7 +6762,7 @@
    Swiftx
   </a>
   <span>
-   &#9733 136, pushed 38 days ago
+   &#9733 136, pushed 39 days ago
   </span>
   - Functional data types and functions for any project.
  </li>
@@ -6825,7 +6825,7 @@
    VersionsTracker
   </a>
   <span>
-   &#9733 11, pushed 33 days ago
+   &#9733 11, pushed 34 days ago
   </span>
   - Keeping track of version installation history including dates.
  </li>
@@ -6857,7 +6857,7 @@
    MobilePlayer
   </a>
   <span>
-   &#9733 1482, pushed 11 days ago
+   &#9733 1482, pushed 12 days ago
   </span>
   - A powerful and completely customizable media player for iOS.
  </li>
@@ -6866,7 +6866,7 @@
    Player
   </a>
   <span>
-   &#9733 415, pushed 19 days ago
+   &#9733 415, pushed 20 days ago
   </span>
   - iOS video player in Swift, simple drop in component for playing and streaming media.
  </li>
@@ -6875,7 +6875,7 @@
    PlayerView
   </a>
   <span>
-   &#9733 27, pushed 12 days ago
+   &#9733 27, pushed 13 days ago
   </span>
   - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 s

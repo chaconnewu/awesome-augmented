@@ -44,7 +44,7 @@
    DevTools Snippets
   </a>
   <span>
-   &#9733 888, pushed 62 days ago
+   &#9733 888, pushed 63 days ago
   </span>
   - Collection of snippets.
  </li>
@@ -58,7 +58,7 @@
    chrome-remote-interface
   </a>
   <span>
-   &#9733 293, pushed 3 days ago
+   &#9733 293, pushed 4 days ago
   </span>
   - The recommended Node.js API for the protocol. There are also
   <a href="https://github.com/DickvdBrink/chrome-debug-protocol">
@@ -83,7 +83,7 @@
    crmux
   </a>
   <span>
-   &#9733 64, pushed 84 days ago
+   &#9733 64, pushed 85 days ago
   </span>
   - Multiplexes protocol connections.
  </li>
@@ -121,7 +121,7 @@
    Remote Debug Firefox adapter
   </a>
   <span>
-   &#9733 94, pushed 145 days ago
+   &#9733 94, pushed 146 days ago
   </span>
   - Translates Firefox's devtools protocol to the CDP
  </li>
@@ -130,7 +130,7 @@
    ios-webkit-debug-proxy
   </a>
   <span>
-   &#9733 2012, pushed 1 days ago
+   &#9733 2012, pushed 2 days ago
   </span>
   - Exposes Mobile Safari & UIWebView instances via the CDP.
  </li>
@@ -139,7 +139,7 @@
    IE Diagnostics Adapter
   </a>
   <span>
-   &#9733 490, pushed 49 days ago
+   &#9733 490, pushed 50 days ago
   </span>
   - Protocol adaptor for Microsoft IE 10/11 to CDP.
  </li>
@@ -189,7 +189,7 @@
    Facebook Stetho
   </a>
   <span>
-   &#9733 4793, pushed 34 days ago
+   &#9733 4793, pushed 35 days ago
   </span>
   - Native Android debugging with Chrome DevTools
  </li>
@@ -203,7 +203,7 @@
    devtool
   </a>
   <span>
-   &#9733 2666, pushed 32 days ago
+   &#9733 2666, pushed 33 days ago
   </span>
   - Debug & profile Node.js apps with Chrome DevTools (using Electron).
  </li>
@@ -212,7 +212,7 @@
    buggerJS
   </a>
   <span>
-   &#9733 129, pushed 30 days ago
+   &#9733 129, pushed 31 days ago
   </span>
   - Provides Chrome DevTools bindings for node.
  </li>
@@ -240,7 +240,7 @@
    betwixt
   </a>
   <span>
-   &#9733 2953, pushed 22 days ago
+   &#9733 2953, pushed 23 days ago
   </span>
   - System level network proxy, providing inspection via Network panel
  </li>
@@ -276,7 +276,7 @@
    cpuprofilify
   </a>
   <span>
-   &#9733 94, pushed 64 days ago
+   &#9733 94, pushed 65 days ago
   </span>
   - Converts output of various profiling/sampling tools to the
   <code>
@@ -368,7 +368,7 @@
    VueJS Developer Tools
   </a>
   <span>
-   &#9733 625, pushed 21 days ago
+   &#9733 625, pushed 22 days ago
   </span>
   - Inspect VueJS components and manipulate their data.
  </li>

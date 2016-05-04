@@ -236,7 +236,7 @@
      thenewsmeme.com
     </a>
     <span>
-     &#9733 68, pushed 1991 days ago
+     &#9733 68, pushed 1992 days ago
     </span>
    </li>
    <li>
@@ -279,7 +279,7 @@
      flaskblog
     </a>
     <span>
-     &#9733 87, pushed 359 days ago
+     &#9733 87, pushed 360 days ago
     </span>
     - a simple blog system based on flask
    </li>
@@ -297,7 +297,7 @@
      Quokka CMS
     </a>
     <span>
-     &#9733 1259, pushed 6 days ago
+     &#9733 1259, pushed 7 days ago
     </span>
     - CMS made with Flask and MongoDB
    </li>
@@ -347,7 +347,7 @@
      fbone
     </a>
     <span>
-     &#9733 1157, pushed 1 days ago
+     &#9733 1157, pushed 2 days ago
     </span>
    </li>
    <li>
@@ -371,7 +371,7 @@
      cookiecutter-flask-pythonic
     </a>
     <span>
-     &#9733 0, pushed 357 days ago
+     &#9733 0, pushed 358 days ago
     </span>
    </li>
    <li>
@@ -387,7 +387,7 @@
      Flask-Empty
     </a>
     <span>
-     &#9733 201, pushed 23 days ago
+     &#9733 201, pushed 24 days ago
     </span>
    </li>
    <li>
@@ -455,7 +455,7 @@
      Flask-Restless
     </a>
     <span>
-     &#9733 626, pushed 1 days ago
+     &#9733 626, pushed 2 days ago
     </span>
     - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
    </li>
@@ -464,7 +464,7 @@
      Flask-RESTful
     </a>
     <span>
-     &#9733 1954, pushed 6 days ago
+     &#9733 1954, pushed 7 days ago
     </span>
     - Simple framework for creating REST APIs
    </li>
@@ -491,7 +491,7 @@
      enferno
     </a>
     <span>
-     &#9733 149, pushed 3 days ago
+     &#9733 149, pushed 4 days ago
     </span>
     - A Flask-based Framework for the Next Decade
    </li>
@@ -514,7 +514,7 @@
      Flask-SuperAdmin
     </a>
     <span>
-     &#9733 446, pushed 6 days ago
+     &#9733 446, pushed 7 days ago
     </span>
     - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
    </li>
@@ -528,7 +528,7 @@
      Flask-Security
     </a>
     <span>
-     &#9733 679, pushed 7 days ago
+     &#9733 679, pushed 8 days ago
     </span>
     - Quick and simple security for Flask applications
    </li>
@@ -665,7 +665,7 @@
      Flask-MongoEngine
     </a>
     <span>
-     &#9733 337, pushed 4 days ago
+     &#9733 337, pushed 5 days ago
     </span>
     - MongoEngine flask extension with WTF model forms support
    </li>
@@ -683,7 +683,7 @@
      Flask-MongoAlchemy
     </a>
     <span>
-     &#9733 108, pushed 328 days ago
+     &#9733 108, pushed 329 days ago
     </span>
     - Flask support for MongoDB using MongoAlchemy
    </li>
@@ -719,7 +719,7 @@
      Flask-And-Redis
     </a>
     <span>
-     &#9733 44, pushed 304 days ago
+     &#9733 44, pushed 305 days ago
     </span>
     - Simple as dead support of Redis database for Flask apps
    </li>
@@ -737,7 +737,7 @@
      Flask-OrientDB
     </a>
     <span>
-     &#9733 7, pushed 361 days ago
+     &#9733 7, pushed 362 days ago
     </span>
     - Flask extension for OrientDB Graph&Document Database
    </li>
@@ -755,7 +755,7 @@
      Flask-Orator
     </a>
     <span>
-     &#9733 16, pushed 47 days ago
+     &#9733 16, pushed 48 days ago
     </span>
     - Adds
     <a href="https://github.com/sdispater/orator">
@@ -782,7 +782,7 @@
      Flask-Alembic
     </a>
     <span>
-     &#9733 50, pushed 1183 days ago
+     &#9733 50, pushed 1184 days ago
     </span>
     - A Flask Extension to provide Alembic integration with Flask
    </li>
@@ -1027,7 +1027,7 @@
      Flask-Analytics
     </a>
     <span>
-     &#9733 15, pushed 1611 days ago
+     &#9733 15, pushed 1612 days ago
     </span>
     - A Flask extention that provide user navigation tracking
    </li>
@@ -1063,7 +1063,7 @@
      Flask-Analytics
     </a>
     <span>
-     &#9733 28, pushed 2 days ago
+     &#9733 28, pushed 3 days ago
     </span>
     - Analytics snippets generator extension for the Flask framework.
    </li>
@@ -1104,7 +1104,7 @@
      Flask-Gravatar
     </a>
     <span>
-     &#9733 53, pushed 406 days ago
+     &#9733 53, pushed 407 days ago
     </span>
     - Small and simple gravatar usage in Flask
    </li>
@@ -1128,7 +1128,7 @@
      Flask-Pusher
     </a>
     <span>
-     &#9733 2, pushed 359 days ago
+     &#9733 2, pushed 360 days ago
     </span>
     - Pusher integration for Flask
    </li>
@@ -1151,7 +1151,7 @@
      Flask-Mustache
     </a>
     <span>
-     &#9733 25, pushed 965 days ago
+     &#9733 25, pushed 966 days ago
     </span>
     - Mustache template integration with Flask
    </li>
@@ -1169,7 +1169,7 @@
      flask-mako
     </a>
     <span>
-     &#9733 25, pushed 77 days ago
+     &#9733 25, pushed 78 days ago
     </span>
     - Provides support for Mako Templates in Flask
    </li>
@@ -1196,7 +1196,7 @@
      flask-apispec
     </a>
     <span>
-     &#9733 134, pushed 91 days ago
+     &#9733 134, pushed 92 days ago
     </span>
     - simple self-documenting APIs with flask
    </li>
@@ -1223,7 +1223,7 @@
      flask-marshmallow
     </a>
     <span>
-     &#9733 140, pushed 2 days ago
+     &#9733 140, pushed 3 days ago
     </span>
     Flask + marshmallow for beautiful APIs
    </li>
@@ -1254,7 +1254,7 @@
      flask-s3
     </a>
     <span>
-     &#9733 86, pushed 4 days ago
+     &#9733 86, pushed 5 days ago
     </span>
     - Seamlessly serve your static assets of your Flask app from Amazon S3
    </li>
@@ -1391,7 +1391,7 @@
      Flask-Script
     </a>
     <span>
-     &#9733 400, pushed 19 days ago
+     &#9733 400, pushed 20 days ago
     </span>
     - Flask extension to help writing external scripts for Flask applications
    </li>
@@ -1418,7 +1418,7 @@
      Flask-Bcrypt
     </a>
     <span>
-     &#9733 135, pushed 210 days ago
+     &#9733 135, pushed 211 days ago
     </span>
     - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
    </li>
@@ -1490,7 +1490,7 @@
      Flask-FeatureFlags
     </a>
     <span>
-     &#9733 71, pushed 88 days ago
+     &#9733 71, pushed 89 days ago
     </span>
     - A Flask extension that enables or disables features based on configuration
    </li>
@@ -1544,7 +1544,7 @@
      Flask-CORS
     </a>
     <span>
-     &#9733 168, pushed 1 days ago
+     &#9733 168, pushed 2 days ago
     </span>
     - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
    </li>

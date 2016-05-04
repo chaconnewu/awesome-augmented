@@ -78,7 +78,7 @@
    SSSynthesiser.js
   </a>
   <span>
-   &#9733 25, pushed 104 days ago
+   &#9733 25, pushed 105 days ago
   </span>
   -  A wavetable synthesizer for interactive music and sound effects.
  </li>
@@ -116,7 +116,7 @@
    Beet.js
   </a>
   <span>
-   &#9733 20, pushed 7 days ago
+   &#9733 20, pushed 8 days ago
   </span>
   - A sequencer library for creating euclidean rhythms and polyrhythms.
  </li>
@@ -152,7 +152,7 @@
    virtual-audio-graph
   </a>
   <span>
-   &#9733 59, pushed 7 days ago
+   &#9733 59, pushed 8 days ago
   </span>
   - Library for declaratively manipulating the Web Audio API.
  </li>
@@ -179,7 +179,7 @@
    osc-msg
   </a>
   <span>
-   &#9733 6, pushed 149 days ago
+   &#9733 6, pushed 150 days ago
   </span>
   - OSC message decoder/encoder with fault tolerance.
  </li>
@@ -206,7 +206,7 @@
    Mooog
   </a>
   <span>
-   &#9733 7, pushed 40 days ago
+   &#9733 7, pushed 41 days ago
   </span>
   - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
  </li>
@@ -290,7 +290,7 @@
    Molgav
   </a>
   <span>
-   &#9733 0, pushed 104 days ago
+   &#9733 0, pushed 105 days ago
   </span>
   - Musical Step Sequencer for melodies exchange.
  </li>

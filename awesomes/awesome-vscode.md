@@ -217,7 +217,7 @@
    Source code
   </a>
   <span>
-   &#9733 13794, pushed 1 days ago
+   &#9733 13794, pushed 2 days ago
   </span>
   on GitHub
  </li>

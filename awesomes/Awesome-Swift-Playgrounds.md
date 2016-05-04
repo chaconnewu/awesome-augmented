@@ -148,7 +148,7 @@
    Learn Swift
   </a>
   <span>
-   &#9733 652, pushed 127 days ago
+   &#9733 652, pushed 128 days ago
   </span>
   - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
  </li>
@@ -202,7 +202,7 @@
    Swift2 by Playgrounds
   </a>
   <span>
-   &#9733 8, pushed 148 days ago
+   &#9733 8, pushed 149 days ago
   </span>
   - Learn Swift 2.0 from playgrounds.
  </li>
@@ -220,7 +220,7 @@
    SwiftStandardLibraryPlaygrounds
   </a>
   <span>
-   &#9733 15, pushed 565 days ago
+   &#9733 15, pushed 566 days ago
   </span>
   - A collection of playground demonstrating the use of the Swift Standard Library.
  </li>
@@ -257,7 +257,7 @@
    A Swift Introduction to Core Data
   </a>
   <span>
-   &#9733 83, pushed 70 days ago
+   &#9733 83, pushed 71 days ago
   </span>
   - Learn Code Data experimenting directly in this playground. 🌟
  </li>
@@ -370,7 +370,7 @@
    Swift Protocol Extensions
   </a>
   <span>
-   &#9733 18, pushed 268 days ago
+   &#9733 18, pushed 269 days ago
   </span>
   - A playground to explore Protocol Extensions.
  </li>
@@ -498,7 +498,7 @@
    Swift Functors, Applicatives, and Monads in Pictures
   </a>
   <span>
-   &#9733 33, pushed 133 days ago
+   &#9733 33, pushed 134 days ago
   </span>
   - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
  </li>
@@ -516,7 +516,7 @@
    DataStructures Playground
   </a>
   <span>
-   &#9733 13, pushed 307 days ago
+   &#9733 13, pushed 308 days ago
   </span>
   - Data Structures and Algorithms in Swift.
  </li>
@@ -543,7 +543,7 @@
    Dynamic Programming With Swift
   </a>
   <span>
-   &#9733 0, pushed 131 days ago
+   &#9733 0, pushed 132 days ago
   </span>
   - A set of three dynamic programming problems implemented in a Swift.
  </li>
@@ -552,7 +552,7 @@
    Swift Algorithm Club
   </a>
   <span>
-   &#9733 5152, pushed 3 days ago
+   &#9733 5152, pushed 4 days ago
   </span>
   - Algorithms and data structures in Swift with explanations. 🌟
  </li>
@@ -607,7 +607,7 @@
    Bezier Path Playgrounds
   </a>
   <span>
-   &#9733 10, pushed 281 days ago
+   &#9733 10, pushed 282 days ago
   </span>
   - Some playgrounds to better understand UIBezierPaths.
  </li>
@@ -625,7 +625,7 @@
    Swift Clock
   </a>
   <span>
-   &#9733 14, pushed 535 days ago
+   &#9733 14, pushed 536 days ago
   </span>
   - An animated clock in a swift playground.
  </li>
@@ -634,7 +634,7 @@
    Checkmark Button
   </a>
   <span>
-   &#9733 5, pushed 94 days ago
+   &#9733 5, pushed 95 days ago
   </span>
   - Animated check mark button.
  </li>
@@ -643,7 +643,7 @@
    UIKit playground
   </a>
   <span>
-   &#9733 5, pushed 205 days ago
+   &#9733 5, pushed 206 days ago
   </span>
   - Playgrounds to experiment interactively with UIKit views.
  </li>
@@ -661,7 +661,7 @@
    Swift 2.0 Protocol Extension Example
   </a>
   <span>
-   &#9733 39, pushed 218 days ago
+   &#9733 39, pushed 219 days ago
   </span>
   - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
  </li>
@@ -679,7 +679,7 @@
    Animated GIF Playground
   </a>
   <span>
-   &#9733 2, pushed 61 days ago
+   &#9733 2, pushed 62 days ago
   </span>
   - Swift playground for generating animated GIFs.
  </li>
@@ -688,7 +688,7 @@
    Ray tracing Playground
   </a>
   <span>
-   &#9733 9, pushed 42 days ago
+   &#9733 9, pushed 43 days ago
   </span>
   - A playground and a series of articles on ray tracing, see also part
   <a href="https://github.com/Swiftor/Raytracing2">
@@ -732,7 +732,7 @@
    Image Processor
   </a>
   <span>
-   &#9733 0, pushed 188 days ago
+   &#9733 0, pushed 189 days ago
   </span>
   - Implementing different image filter algorithms.
  </li>
@@ -746,7 +746,7 @@
    METAL Playground
   </a>
   <span>
-   &#9733 31, pushed 662 days ago
+   &#9733 31, pushed 663 days ago
   </span>
   - Apple Metal framework playground. 🌟
  </li>
@@ -778,7 +778,7 @@
    Additive Animations
   </a>
   <span>
-   &#9733 26, pushed 678 days ago
+   &#9733 26, pushed 679 days ago
   </span>
   - Experiment with multiple additive animations in Core Animation.
  </li>
@@ -796,7 +796,7 @@
    Duet-Inspired Trail Effect
   </a>
   <span>
-   &#9733 2, pushed 27 days ago
+   &#9733 2, pushed 28 days ago
   </span>
   - How to get a Duet style trailing effect in SpriteKit.
  </li>
@@ -838,7 +838,7 @@
    Bach Playground
   </a>
   <span>
-   &#9733 2, pushed 274 days ago
+   &#9733 2, pushed 275 days ago
   </span>
   - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
  </li>
@@ -866,7 +866,7 @@
    Lindenmayer Systems
   </a>
   <span>
-   &#9733 2, pushed 94 days ago
+   &#9733 2, pushed 95 days ago
   </span>
   - A Swift playground exploring Lindemayer systems.
  </li>
@@ -884,7 +884,7 @@
    Swifty Mathematics
   </a>
   <span>
-   &#9733 1, pushed 260 days ago
+   &#9733 1, pushed 261 days ago
   </span>
   - A collection of swift playground about mathematics.
  </li>
@@ -961,7 +961,7 @@
    Public Extensions
   </a>
   <span>
-   &#9733 81, pushed 1 days ago
+   &#9733 81, pushed 2 days ago
   </span>
   - A set of useful extensions from
   <a href="https://twitter.com/publicextension">
@@ -992,7 +992,7 @@
    Swift fun playgrounds
   </a>
   <span>
-   &#9733 5, pushed 412 days ago
+   &#9733 5, pushed 413 days ago
   </span>
   - A few playgrounds to showcase Swift peculiar features.
  </li>
@@ -1037,7 +1037,7 @@
    Uberbruns's Playgrounds
   </a>
   <span>
-   &#9733 1, pushed 20 days ago
+   &#9733 1, pushed 21 days ago
   </span>
   - Various playgrounds.
  </li>
@@ -1065,7 +1065,7 @@
    Turtle Playground
   </a>
   <span>
-   &#9733 118, pushed 72 days ago
+   &#9733 118, pushed 73 days ago
   </span>
   - A playground with Logo-like commands. 🌟
  </li>
@@ -1074,7 +1074,7 @@
    Game Boards
   </a>
   <span>
-   &#9733 126, pushed 84 days ago
+   &#9733 126, pushed 85 days ago
   </span>
   - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
  </li>
@@ -1101,7 +1101,7 @@
    StarWars Seals
   </a>
   <span>
-   &#9733 2, pushed 110 days ago
+   &#9733 2, pushed 111 days ago
   </span>
   - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
  </li>
@@ -1119,7 +1119,7 @@
    Register VM
   </a>
   <span>
-   &#9733 2, pushed 90 days ago
+   &#9733 2, pushed 91 days ago
   </span>
   - A register-based VM in a Swift playground. 🌟
  </li>

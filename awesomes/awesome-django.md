@@ -346,7 +346,7 @@
    django-admin-bootstrap
   </a>
   <span>
-   &#9733 375, pushed 37 days ago
+   &#9733 375, pushed 38 days ago
   </span>
   - Responsive Skin for Django Admin
  </li>
@@ -361,7 +361,7 @@
    django-admin-easy
   </a>
   <span>
-   &#9733 29, pushed 234 days ago
+   &#9733 29, pushed 235 days ago
   </span>
   - Collection of admin fields and decorators.
  </li>
@@ -519,7 +519,7 @@
    django-pipeline
   </a>
   <span>
-   &#9733 1026, pushed 12 days ago
+   &#9733 1026, pushed 13 days ago
   </span>
   - Asset packaging for Django.
  </li>
@@ -528,7 +528,7 @@
    django-systemjs
   </a>
   <span>
-   &#9733 30, pushed 6 days ago
+   &#9733 30, pushed 7 days ago
   </span>
   - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM intergration in Django)
  </li>
@@ -731,7 +731,7 @@
    edge
   </a>
   <span>
-   &#9733 314, pushed 5 days ago
+   &#9733 314, pushed 6 days ago
   </span>
   - A Django project skeleton that is modern and cutting edge.
  </li>
@@ -750,7 +750,7 @@
    django-cachalot
   </a>
   <span>
-   &#9733 363, pushed 75 days ago
+   &#9733 363, pushed 76 days ago
   </span>
   - Caches your Django ORM queries and automatically invalidates them.
  </li>
@@ -890,7 +890,7 @@
    django-postgres-fuzzycount
   </a>
   <span>
-   &#9733 42, pushed 106 days ago
+   &#9733 42, pushed 107 days ago
   </span>
   - Fast / fuzzy PostgreSQL counts for Django.
  </li>
@@ -933,7 +933,7 @@
    django-silk
   </a>
   <span>
-   &#9733 647, pushed 33 days ago
+   &#9733 647, pushed 34 days ago
   </span>
   - Silky smooth profiling for Django
  </li>
@@ -1009,7 +1009,7 @@
    django-ses
   </a>
   <span>
-   &#9733 409, pushed 4 days ago
+   &#9733 409, pushed 5 days ago
   </span>
   - A Django email backend for Amazon's Simple Email Service.
  </li>
@@ -1036,7 +1036,7 @@
    django-yubin
   </a>
   <span>
-   &#9733 17, pushed 5 days ago
+   &#9733 17, pushed 6 days ago
   </span>
   - django-mailer2 + django-mailviews with some extras.
  </li>
@@ -1707,7 +1707,7 @@ phone numbers.
    django-constance
   </a>
   <span>
-   &#9733 632, pushed 11 days ago
+   &#9733 632, pushed 12 days ago
   </span>
   - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
  </li>
@@ -1841,7 +1841,7 @@ phone numbers.
    django-rq
   </a>
   <span>
-   &#9733 468, pushed 5 days ago
+   &#9733 468, pushed 6 days ago
   </span>
   - The easiest way to monitor and use
   <a href="http://python-rq.org">
@@ -1885,7 +1885,7 @@ phone numbers.
    django-dynamic-fixture
   </a>
   <span>
-   &#9733 229, pushed 139 days ago
+   &#9733 229, pushed 140 days ago
   </span>
   - A complete library to create dynamic model instances for testing purposes.
  </li>
@@ -1939,7 +1939,7 @@ phone numbers.
    django-test-plus
   </a>
   <span>
-   &#9733 141, pushed 12 days ago
+   &#9733 141, pushed 13 days ago
   </span>
   - Useful addons to Django's default TestCase that greatly reduces boilerplate code
  </li>
@@ -1975,7 +1975,7 @@ phone numbers.
    mock-django
   </a>
   <span>
-   &#9733 178, pushed 83 days ago
+   &#9733 178, pushed 84 days ago
   </span>
   - A simple library for mocking certain Django behavior, such as the ORM.
  </li>
@@ -2070,7 +2070,7 @@ phone numbers.
    django-parler
   </a>
   <span>
-   &#9733 182, pushed 13 days ago
+   &#9733 182, pushed 14 days ago
   </span>
   - Simple Django model translations without nasty hacks
  </li>
@@ -2191,7 +2191,7 @@ phone numbers.
    django-wiki
   </a>
   <span>
-   &#9733 578, pushed 4 days ago
+   &#9733 578, pushed 5 days ago
   </span>
   A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
  </li>
@@ -2269,7 +2269,7 @@ phone numbers.
    django-activeurl
   </a>
   <span>
-   &#9733 78, pushed 181 days ago
+   &#9733 78, pushed 182 days ago
   </span>
   - Easy to use active URL highlighting for django
  </li>
@@ -2323,7 +2323,7 @@ phone numbers.
    django-dfp
   </a>
   <span>
-   &#9733 4, pushed 115 days ago
+   &#9733 4, pushed 116 days ago
   </span>
   - App that provides tags to fetch Google DFP ads.
  </li>
@@ -2368,7 +2368,7 @@ phone numbers.
    django-ipware
   </a>
   <span>
-   &#9733 226, pushed 16 days ago
+   &#9733 226, pushed 17 days ago
   </span>
   - A Django application to retrieve user's IP address.
  </li>
@@ -2395,7 +2395,7 @@ phone numbers.
    django-mmc
   </a>
   <span>
-   &#9733 29, pushed 72 days ago
+   &#9733 29, pushed 73 days ago
   </span>
   - App for monitoring management commands on Django..
  </li>
@@ -2404,7 +2404,7 @@ phone numbers.
    django-overextends
   </a>
   <span>
-   &#9733 74, pushed 10 days ago
+   &#9733 74, pushed 11 days ago
   </span>
   - Circular template inheritance for Django.
  </li>
@@ -2422,7 +2422,7 @@ phone numbers.
    django-el-pagination
   </a>
   <span>
-   &#9733 37, pushed 30 days ago
+   &#9733 37, pushed 31 days ago
   </span>
   - Django EL(Endless) Pagination can be used to provide Twitter-style or Digg-style pagination, with optional Ajax support.
  </li>
@@ -2904,7 +2904,7 @@ phone numbers.
    Logan
   </a>
   <span>
-   &#9733 185, pushed 143 days ago
+   &#9733 185, pushed 144 days ago
   </span>
   - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
  </li>

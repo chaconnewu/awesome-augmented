@@ -227,7 +227,7 @@
    GitGutter
   </a>
   <span>
-   &#9733 3098, pushed 0 days ago
+   &#9733 3098, pushed 1 days ago
   </span>
   — a plugin to see git diff in gutter.
  </li>
@@ -245,7 +245,7 @@
    SublimeLinter
   </a>
   <span>
-   &#9733 1042, pushed 2 days ago
+   &#9733 1042, pushed 3 days ago
   </span>
   — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
  </li>
@@ -272,7 +272,7 @@
    ApplySyntax
   </a>
   <span>
-   &#9733 255, pushed 15 days ago
+   &#9733 255, pushed 16 days ago
   </span>
   — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
  </li>
@@ -290,7 +290,7 @@
    SublimeREPL
   </a>
   <span>
-   &#9733 1628, pushed 107 days ago
+   &#9733 1628, pushed 108 days ago
   </span>
   — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
  </li>
@@ -335,7 +335,7 @@
    StyleToken
   </a>
   <span>
-   &#9733 20, pushed 546 days ago
+   &#9733 20, pushed 547 days ago
   </span>
   — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
  </li>
@@ -418,7 +418,7 @@
    Sublime Ruby Debugger
   </a>
   <span>
-   &#9733 399, pushed 63 days ago
+   &#9733 399, pushed 64 days ago
   </span>
   — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
  </li>
@@ -455,7 +455,7 @@
    MagicPython
   </a>
   <span>
-   &#9733 655, pushed 7 days ago
+   &#9733 655, pushed 8 days ago
   </span>
   — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
  </li>
@@ -464,7 +464,7 @@
    Rope
   </a>
   <span>
-   &#9733 244, pushed 3 days ago
+   &#9733 244, pushed 4 days ago
   </span>
   — a Python refactoring library.
  </li>
@@ -508,7 +508,7 @@
    Anaconda
   </a>
   <span>
-   &#9733 1041, pushed 4 days ago
+   &#9733 1041, pushed 5 days ago
   </span>
   — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
  </li>
@@ -549,7 +549,7 @@
    TernJS
   </a>
   <span>
-   &#9733 223, pushed 229 days ago
+   &#9733 223, pushed 230 days ago
   </span>
   — a JavaScript type inference engine integration.
  </li>
@@ -606,7 +606,7 @@
    Markdown Preview
   </a>
   <span>
-   &#9733 1760, pushed 107 days ago
+   &#9733 1760, pushed 108 days ago
   </span>
   — preview and build your markdown files quickly in your web browser from Sublime Text.
  </li>
@@ -739,7 +739,7 @@
    Tomorrow
   </a>
   <span>
-   &#9733 9399, pushed 13 days ago
+   &#9733 9399, pushed 14 days ago
   </span>
   — the precursor to Base16 Theme.
  </li>
@@ -748,7 +748,7 @@
    Base 16
   </a>
   <span>
-   &#9733 3933, pushed 101 days ago
+   &#9733 3933, pushed 102 days ago
   </span>
   — carefully chosen syntax highlighting and a default set of sixteen colors.
  </li>

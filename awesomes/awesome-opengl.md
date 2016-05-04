@@ -242,7 +242,7 @@
    vogl
   </a>
   <span>
-   &#9733 1233, pushed 5 days ago
+   &#9733 1233, pushed 6 days ago
   </span>
   - OpenGL capture and playback debugger developed by Valve.
  </li>
@@ -335,7 +335,7 @@
    Magnum
   </a>
   <span>
-   &#9733 738, pushed 1 days ago
+   &#9733 738, pushed 2 days ago
   </span>
   - Magnum is 2D/3D graphics engine for modern OpenGL.
  </li>
@@ -388,7 +388,7 @@
    gl3w
   </a>
   <span>
-   &#9733 192, pushed 3 days ago
+   &#9733 192, pushed 4 days ago
   </span>
   - A simple OpenGL core profile loader.
  </li>
@@ -406,7 +406,7 @@
    glbindify
   </a>
   <span>
-   &#9733 2, pushed 122 days ago
+   &#9733 2, pushed 123 days ago
   </span>
   - A commmand line tool to generate C bindings for OpenGL, wgl, and glX.
  </li>

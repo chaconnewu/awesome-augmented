@@ -289,8 +289,8 @@
 </h2>
 <ul>
  <li>
-  <a href="Self vs Professional Publishing">
-   https://medium.com/@davetron5000/self-vs-professional-publishing-c3397bd7defd#.lrfhasuo5
+  <a href="https://medium.com/@davetron5000/self-vs-professional-publishing-c3397bd7defd#.lrfhasuo5">
+   Self vs Professional Publishing
   </a>
   - The pros and cons of each, plus a look at many of the options available for self publishing.
  </li>
@@ -326,5 +326,11 @@
    Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life
   </a>
   - Adam Tornhill shares experience gained writing his three books (two of them self published).
+ </li>
+ <li>
+  <a href="http://www.voidspace.org.uk/python/articles/technical-writing.shtml">
+   Writing a Technical Book
+  </a>
+  - Michael Foord shares his experience publishing with Apress.
  </li>
 </ul>

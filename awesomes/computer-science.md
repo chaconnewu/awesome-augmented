@@ -879,7 +879,7 @@
    Projects
   </a>
   <span>
-   &#9733 10475, pushed 40 days ago
+   &#9733 10475, pushed 41 days ago
   </span>
   : A list of practical projects that anyone can solve in any programming language.
  </li>

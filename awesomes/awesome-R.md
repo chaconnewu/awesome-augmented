@@ -323,7 +323,7 @@
    lambda.r
   </a>
   <span>
-   &#9733 78, pushed 410 days ago
+   &#9733 78, pushed 411 days ago
   </span>
   - Functional programming and simple pattern matching in R.
  </li>
@@ -369,7 +369,7 @@
    reshape2
   </a>
   <span>
-   &#9733 130, pushed 26 days ago
+   &#9733 130, pushed 27 days ago
   </span>
   - Flexible rearrange, reshape and aggregate data.
  </li>
@@ -580,7 +580,7 @@
    gganimate
   </a>
   <span>
-   &#9733 227, pushed 84 days ago
+   &#9733 227, pushed 85 days ago
   </span>
   - Create easy animations with ggplot2.
  </li>
@@ -656,7 +656,7 @@
    ggvis
   </a>
   <span>
-   &#9733 530, pushed 196 days ago
+   &#9733 530, pushed 197 days ago
   </span>
   - Interactive grammar of graphics for R.
  </li>
@@ -724,7 +724,7 @@
    threejs
   </a>
   <span>
-   &#9733 100, pushed 2 days ago
+   &#9733 100, pushed 3 days ago
   </span>
   - Interactive 3D scatter plots and globes.
  </li>
@@ -767,7 +767,7 @@
    slidify
   </a>
   <span>
-   &#9733 686, pushed 64 days ago
+   &#9733 686, pushed 65 days ago
   </span>
   - Generate reproducible html5 slides from R markdown.
  </li>
@@ -831,7 +831,7 @@
    shiny
   </a>
   <span>
-   &#9733 1715, pushed 0 days ago
+   &#9733 1715, pushed 1 days ago
   </span>
   - Easy interactive web applications with R.
  </li>
@@ -846,7 +846,7 @@
    httr
   </a>
   <span>
-   &#9733 509, pushed 22 days ago
+   &#9733 509, pushed 23 days ago
   </span>
   - User-friendly RCurl wrapper.
  </li>
@@ -870,7 +870,7 @@
    rvest
   </a>
   <span>
-   &#9733 547, pushed 13 days ago
+   &#9733 547, pushed 14 days ago
   </span>
   - Simple web scraping for R, using CSSSelect or XPath syntax.
  </li>
@@ -885,7 +885,7 @@
    Rfacebook
   </a>
   <span>
-   &#9733 128, pushed 17 days ago
+   &#9733 128, pushed 18 days ago
   </span>
   - Access to Facebook API via R.
  </li>
@@ -930,7 +930,7 @@
    SparkR
   </a>
   <span>
-   &#9733 588, pushed 43 days ago
+   &#9733 588, pushed 44 days ago
   </span>
   - R frontend for Spark.
  </li>
@@ -973,7 +973,7 @@
    Rcpp11
   </a>
   <span>
-   &#9733 62, pushed 53 days ago
+   &#9733 62, pushed 54 days ago
   </span>
   - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
  </li>
@@ -1004,7 +1004,7 @@
    jvmr
   </a>
   <span>
-   &#9733 10, pushed 611 days ago
+   &#9733 10, pushed 612 days ago
   </span>
   - Integration of R, Java, and Scala.
  </li>
@@ -1116,7 +1116,7 @@
    elastic
   </a>
   <span>
-   &#9733 91, pushed 15 days ago
+   &#9733 91, pushed 16 days ago
   </span>
   - Wrapper for the Elasticsearch HTTP API
  </li>
@@ -1260,7 +1260,7 @@ cases)
    BreakoutDetection
   </a>
   <span>
-   &#9733 472, pushed 384 days ago
+   &#9733 472, pushed 385 days ago
   </span>
   - Breakout Detection via Robust E-Statistics from Twitter.
  </li>
@@ -1296,7 +1296,7 @@ cases)
    Clever Algorithms For Machine Learning
   </a>
   <span>
-   &#9733 176, pushed 1114 days ago
+   &#9733 176, pushed 1115 days ago
   </span>
  </li>
  <li>
@@ -1752,7 +1752,7 @@ Angle Regression
    text2vec
   </a>
   <span>
-   &#9733 91, pushed 32 days ago
+   &#9733 91, pushed 33 days ago
   </span>
   - Fast Text Mining Framework for Vectorization and Word Embeddings.
  </li>
@@ -1803,7 +1803,7 @@ Angle Regression
    LDAvis
   </a>
   <span>
-   &#9733 193, pushed 115 days ago
+   &#9733 193, pushed 116 days ago
   </span>
   - Interactive visualization of topic models.
  </li>
@@ -1839,7 +1839,7 @@ Angle Regression
    Topic Models Resources
   </a>
   <span>
-   &#9733 46, pushed 93 days ago
+   &#9733 46, pushed 94 days ago
   </span>
   - Topic Models learning and R related resources.
  </li>
@@ -2168,7 +2168,7 @@ Angle Regression
    R6
   </a>
   <span>
-   &#9733 107, pushed 60 days ago
+   &#9733 107, pushed 61 days ago
   </span>
   - simpler, faster, lighter-weight alternative to R's built-in classes.
  </li>
@@ -2177,7 +2177,7 @@ Angle Regression
    pryr
   </a>
   <span>
-   &#9733 81, pushed 175 days ago
+   &#9733 81, pushed 176 days ago
   </span>
   - Make it easier to understand what's going on in R.
  </li>
@@ -2250,7 +2250,7 @@ Angle Regression
    covr
   </a>
   <span>
-   &#9733 113, pushed 3 days ago
+   &#9733 113, pushed 4 days ago
   </span>
   - Test coverage for your R package and (optionally) upload the results to
   <a href="https://coveralls.io/">
@@ -2320,7 +2320,7 @@ Angle Regression
    git2r
   </a>
   <span>
-   &#9733 81, pushed 12 days ago
+   &#9733 81, pushed 13 days ago
   </span>
   - Gives you programmatic access to Git repositories from R.
  </li>
@@ -2372,7 +2372,7 @@ Angle Regression
    rho
   </a>
   <span>
-   &#9733 42, pushed 0 days ago
+   &#9733 42, pushed 1 days ago
   </span>
   - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
  </li>
@@ -2752,7 +2752,7 @@ Angle Regression
    RStartHere
   </a>
   <span>
-   &#9733 23, pushed 3 days ago
+   &#9733 23, pushed 4 days ago
   </span>
   - A guide to some of the most useful R packages, organized by workflow.
  </li>
@@ -2767,7 +2767,7 @@ Angle Regression
    Topic Models
   </a>
   <span>
-   &#9733 46, pushed 93 days ago
+   &#9733 46, pushed 94 days ago
   </span>
   - Topic Models learning and R related resources.
  </li>
@@ -2798,7 +2798,7 @@ Angle Regression
    lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
  </li>
 </ul>

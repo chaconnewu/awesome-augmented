@@ -265,7 +265,7 @@
    elvis
   </a>
   <span>
-   &#9733 180, pushed 25 days ago
+   &#9733 180, pushed 26 days ago
   </span>
   - Erlang Style Reviewer.
  </li>
@@ -297,7 +297,7 @@
    ChicagoBoss
   </a>
   <span>
-   &#9733 1561, pushed 43 days ago
+   &#9733 1561, pushed 44 days ago
   </span>
   - A server framework inspired by Rails and written in Erlang.
  </li>
@@ -346,7 +346,7 @@
    Zotonic
   </a>
   <span>
-   &#9733 436, pushed 1 days ago
+   &#9733 436, pushed 2 days ago
   </span>
   - High speed, real-time web framework and content management system.
  </li>
@@ -451,7 +451,7 @@
    shotgun
   </a>
   <span>
-   &#9733 80, pushed 17 days ago
+   &#9733 80, pushed 18 days ago
   </span>
   - For the times you need more than just a gun.
  </li>
@@ -470,7 +470,7 @@
    PropEr
   </a>
   <span>
-   &#9733 465, pushed 6 days ago
+   &#9733 465, pushed 7 days ago
   </span>
   - A QuickCheck-inspired property-based testing tool for Erlang.
  </li>
@@ -511,7 +511,7 @@
    backend
   </a>
   <span>
-   &#9733 31, pushed 1480 days ago
+   &#9733 31, pushed 1481 days ago
   </span>
   - AMQP RabbitMQ Lager backend.
  </li>
@@ -520,7 +520,7 @@
    lager_hipchat
   </a>
   <span>
-   &#9733 4, pushed 52 days ago
+   &#9733 4, pushed 53 days ago
   </span>
   - HipChat backend for lager.
  </li>
@@ -538,7 +538,7 @@
    lager_smtp
   </a>
   <span>
-   &#9733 11, pushed 1271 days ago
+   &#9733 11, pushed 1272 days ago
   </span>
   - SMTP backend for lager.
  </li>
@@ -584,7 +584,7 @@
    Exometer
   </a>
   <span>
-   &#9733 308, pushed 84 days ago
+   &#9733 308, pushed 85 days ago
   </span>
   - An Erlang instrumentation package.
  </li>
@@ -606,7 +606,7 @@
    statsderl
   </a>
   <span>
-   &#9733 61, pushed 20 days ago
+   &#9733 61, pushed 21 days ago
   </span>
   - A statsd Erlang client.
  </li>
@@ -662,7 +662,7 @@
    rebar
   </a>
   <span>
-   &#9733 873, pushed 19 days ago
+   &#9733 873, pushed 20 days ago
   </span>
   - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
  </li>
@@ -712,7 +712,7 @@
    Teles
   </a>
   <span>
-   &#9733 9, pushed 1152 days ago
+   &#9733 9, pushed 1153 days ago
   </span>
   - An Erlang network service for manipulating geographic data.
  </li>
@@ -815,7 +815,7 @@
    pgsql_migration
   </a>
   <span>
-   &#9733 8, pushed 355 days ago
+   &#9733 8, pushed 356 days ago
   </span>
   – PostgreSQL migrations for Erlang.
  </li>
@@ -843,7 +843,7 @@
    ebqueue
   </a>
   <span>
-   &#9733 3, pushed 481 days ago
+   &#9733 3, pushed 482 days ago
   </span>
   - Tiny simple blocking queue in erlang.
  </li>
@@ -852,7 +852,7 @@
    pqueue
   </a>
   <span>
-   &#9733 66, pushed 131 days ago
+   &#9733 66, pushed 132 days ago
   </span>
   - Erlang Priority Queues.
  </li>
@@ -1090,7 +1090,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
    statebox
   </a>
   <span>
-   &#9733 226, pushed 454 days ago
+   &#9733 226, pushed 455 days ago
   </span>
   - Erlang state "monad" with merge/conflict-resolution capabilities.
  </li>
@@ -1099,7 +1099,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
    riak_dt
   </a>
   <span>
-   &#9733 167, pushed 3 days ago
+   &#9733 167, pushed 4 days ago
   </span>
   - Erlang library of state based CRDTs.
  </li>
@@ -1126,7 +1126,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
    erld
   </a>
   <span>
-   &#9733 172, pushed 207 days ago
+   &#9733 172, pushed 208 days ago
   </span>
   - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
  </li>

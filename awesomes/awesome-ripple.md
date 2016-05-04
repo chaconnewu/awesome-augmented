@@ -236,7 +236,7 @@
    ripple-rest
   </a>
   <span>
-   &#9733 66, pushed 165 days ago
+   &#9733 66, pushed 166 days ago
   </span>
   : A RESTful API for submitting payments and monitoring accounts on the Ripple Network
  </li>
@@ -275,7 +275,7 @@
    rubblelabs/ripple
   </a>
   <span>
-   &#9733 22, pushed 20 days ago
+   &#9733 22, pushed 21 days ago
   </span>
   : Go packages to interact with the Ripple protocol
  </li>
@@ -304,7 +304,7 @@
    ripple-client-ios
   </a>
   <span>
-   &#9733 30, pushed 692 days ago
+   &#9733 30, pushed 693 days ago
   </span>
   : iOS client
  </li>
@@ -319,7 +319,7 @@
    ripple-graph
   </a>
   <span>
-   &#9733 22, pushed 572 days ago
+   &#9733 22, pushed 573 days ago
   </span>
   : Ripple graph
  </li>
@@ -351,7 +351,7 @@
    ripple-blobvault
   </a>
   <span>
-   &#9733 32, pushed 31 days ago
+   &#9733 32, pushed 32 days ago
   </span>
   : Server for storing persistent data for Ripple clients
  </li>
@@ -360,7 +360,7 @@
    ripple-authd
   </a>
   <span>
-   &#9733 6, pushed 332 days ago
+   &#9733 6, pushed 333 days ago
   </span>
   : Ripple peer-assisted key derivation server
  </li>
@@ -369,7 +369,7 @@
    rippled-historical-database
   </a>
   <span>
-   &#9733 22, pushed 3 days ago
+   &#9733 22, pushed 4 days ago
   </span>
   : SQL database as a canonical source of historical data in Ripple
  </li>
@@ -378,7 +378,7 @@
    ripple-data-api
   </a>
   <span>
-   &#9733 40, pushed 160 days ago
+   &#9733 40, pushed 161 days ago
   </span>
  </li>
  <li>
@@ -391,7 +391,7 @@
    federation-php
   </a>
   <span>
-   &#9733 9, pushed 906 days ago
+   &#9733 9, pushed 907 days ago
   </span>
   : Simple PHP federation endpoint with a static JSON dataset
  </li>
@@ -400,7 +400,7 @@
    federation-python
   </a>
   <span>
-   &#9733 2, pushed 678 days ago
+   &#9733 2, pushed 679 days ago
   </span>
   : Python module for a simple federation endpoint.
  </li>
@@ -481,7 +481,7 @@
    jRippleAPI
   </a>
   <span>
-   &#9733 16, pushed 442 days ago
+   &#9733 16, pushed 443 days ago
   </span>
  </li>
  <li>

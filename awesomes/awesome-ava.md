@@ -73,7 +73,7 @@
    sublime-ava
   </a>
   <span>
-   &#9733 26, pushed 27 days ago
+   &#9733 26, pushed 28 days ago
   </span>
   - Snippets for AVA tests.
  </li>
@@ -100,7 +100,7 @@
    eslint-plugin-ava
   </a>
   <span>
-   &#9733 52, pushed 1 days ago
+   &#9733 52, pushed 2 days ago
   </span>
   - Lint rules for AVA tests.
  </li>
@@ -160,7 +160,7 @@
    redux-test-recorder
   </a>
   <span>
-   &#9733 169, pushed 1 days ago
+   &#9733 169, pushed 2 days ago
   </span>
   - Generate AVA tests for Redux reducers in a React app.
  </li>
@@ -169,7 +169,7 @@
    ava-codemods
   </a>
   <span>
-   &#9733 22, pushed 22 days ago
+   &#9733 22, pushed 23 days ago
   </span>
   - Codemods for AVA that simplifies upgrading to newer versions.
  </li>
@@ -229,6 +229,11 @@
  <li>
   <a href="https://www.stickermule.com/user/1070705604/stickers">
    Stickers
+  </a>
+ </li>
+ <li>
+  <a href="http://jsair.io/ava">
+   JavaScript Air episode with the AVA team
   </a>
  </li>
 </ul>

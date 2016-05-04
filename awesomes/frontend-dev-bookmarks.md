@@ -367,7 +367,7 @@
      Helium
     </a>
     <span>
-     &#9733 3378, pushed 294 days ago
+     &#9733 3378, pushed 295 days ago
     </span>
     : JavaScript tool to scan your site and show unused CSS.
    </li>
@@ -436,7 +436,7 @@
      Penthouse
     </a>
     <span>
-     &#9733 1212, pushed 4 days ago
+     &#9733 1212, pushed 5 days ago
     </span>
     : Critical path CSS generator.
    </li>
@@ -848,7 +848,7 @@
            Watch.js
           </a>
           <span>
-           &#9733 1492, pushed 325 days ago
+           &#9733 1492, pushed 326 days ago
           </span>
          </li>
          <li>
@@ -856,7 +856,7 @@
            flow.js
           </a>
           <span>
-           &#9733 62, pushed 1072 days ago
+           &#9733 62, pushed 1073 days ago
           </span>
          </li>
         </ul>
@@ -878,7 +878,7 @@
        Principles of writing consistent, idiomatic HTML
       </a>
       <span>
-       &#9733 465, pushed 128 days ago
+       &#9733 465, pushed 129 days ago
       </span>
      </li>
      <li>
@@ -965,7 +965,7 @@
          Github
         </a>
         <span>
-         &#9733 48927, pushed 1 days ago
+         &#9733 48927, pushed 2 days ago
         </span>
        </li>
        <li>
@@ -976,7 +976,7 @@
            AngularJS-Learning
           </a>
           <span>
-           &#9733 10038, pushed 5 days ago
+           &#9733 10038, pushed 6 days ago
           </span>
           : huge list of Angular learning resources
          </li>
@@ -1078,7 +1078,7 @@
          Github
         </a>
         <span>
-         &#9733 39228, pushed 1 days ago
+         &#9733 39228, pushed 2 days ago
         </span>
        </li>
        <li>
@@ -1123,7 +1123,7 @@
          Github
         </a>
         <span>
-         &#9733 819, pushed 3 days ago
+         &#9733 819, pushed 4 days ago
         </span>
        </li>
        <li>
@@ -1193,7 +1193,7 @@
          Github
         </a>
         <span>
-         &#9733 33689, pushed 1 days ago
+         &#9733 33689, pushed 2 days ago
         </span>
        </li>
       </ul>
@@ -1465,7 +1465,7 @@
            Bootstrap Modal
           </a>
           <span>
-           &#9733 4742, pushed 313 days ago
+           &#9733 4742, pushed 314 days ago
           </span>
           : Extends Bootstrap's native modals to provide additional functionality.
          </li>
@@ -2395,7 +2395,7 @@
          Energize
         </a>
         <span>
-         &#9733 180, pushed 615 days ago
+         &#9733 180, pushed 616 days ago
         </span>
        </li>
        <li>
@@ -2418,7 +2418,7 @@
          Lightning Touch
         </a>
         <span>
-         &#9733 23, pushed 131 days ago
+         &#9733 23, pushed 132 days ago
         </span>
        </li>
        <li>
@@ -3305,7 +3305,7 @@
        jQuery Recurrence Input
       </a>
       <span>
-       &#9733 158, pushed 185 days ago
+       &#9733 158, pushed 186 days ago
       </span>
      </li>
      <li>
@@ -3323,7 +3323,7 @@
        chosen
       </a>
       <span>
-       &#9733 19368, pushed 5 days ago
+       &#9733 19368, pushed 6 days ago
       </span>
       is a library for making long, unwieldy select boxes more friendly.
      </li>
@@ -3620,7 +3620,7 @@
      Mention.js
     </a>
     <span>
-     &#9733 590, pushed 101 days ago
+     &#9733 590, pushed 102 days ago
     </span>
     Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
    </li>
@@ -3808,7 +3808,7 @@
        cucumber.js
       </a>
       <span>
-       &#9733 2011, pushed 2 days ago
+       &#9733 2011, pushed 3 days ago
       </span>
      </li>
      <li>
@@ -3978,7 +3978,7 @@
      T
     </a>
     <span>
-     &#9733 12, pushed 688 days ago
+     &#9733 12, pushed 689 days ago
     </span>
     : T.js is a template engine that uses simple JavaScript data structure to represent html/xml data.
    </li>
@@ -4084,7 +4084,7 @@
      speakingurl
     </a>
     <span>
-     &#9733 638, pushed 89 days ago
+     &#9733 638, pushed 90 days ago
     </span>
     : generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
    </li>
@@ -4128,7 +4128,7 @@
      Proper
     </a>
     <span>
-     &#9733 38, pushed 1415 days ago
+     &#9733 38, pushed 1416 days ago
     </span>
    </li>
    <li>
@@ -4181,7 +4181,7 @@
      Brackets
     </a>
     <span>
-     &#9733 25194, pushed 1 days ago
+     &#9733 25194, pushed 2 days ago
     </span>
     : An open source code editor for the web, written in JavaScript, HTML and CSS by Adobe.
    </li>
@@ -4195,7 +4195,7 @@
      Scripted
     </a>
     <span>
-     &#9733 1561, pushed 726 days ago
+     &#9733 1561, pushed 727 days ago
     </span>
    </li>
    <li>
@@ -4690,7 +4690,7 @@
      CrapLoader
     </a>
     <span>
-     &#9733 70, pushed 1289 days ago
+     &#9733 70, pushed 1290 days ago
     </span>
    </li>
    <li>
@@ -4738,7 +4738,7 @@
      volo
     </a>
     <span>
-     &#9733 1307, pushed 53 days ago
+     &#9733 1307, pushed 54 days ago
     </span>
    </li>
    <li>
@@ -4746,7 +4746,7 @@
      parcel
     </a>
     <span>
-     &#9733 4, pushed 1096 days ago
+     &#9733 4, pushed 1097 days ago
     </span>
     is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
    </li>
@@ -4877,7 +4877,7 @@
      SockJS
     </a>
     <span>
-     &#9733 3910, pushed 2 days ago
+     &#9733 3910, pushed 3 days ago
     </span>
     is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, JavaScript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
    </li>
@@ -4945,7 +4945,7 @@
      Ronn
     </a>
     <span>
-     &#9733 856, pushed 237 days ago
+     &#9733 856, pushed 238 days ago
     </span>
     builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
    </li>
@@ -5266,7 +5266,7 @@
      Oboe.js
     </a>
     <span>
-     &#9733 3882, pushed 13 days ago
+     &#9733 3882, pushed 14 days ago
     </span>
     makes it really easy to start using json from a response before the ajax request completes; or even if it never completes.
    </li>
@@ -5325,7 +5325,7 @@
      Slides
     </a>
     <span>
-     &#9733 353, pushed 1034 days ago
+     &#9733 353, pushed 1035 days ago
     </span>
    </li>
    <li>
@@ -5366,7 +5366,7 @@
      AppScroll.js
     </a>
     <span>
-     &#9733 241, pushed 1020 days ago
+     &#9733 241, pushed 1021 days ago
     </span>
     AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
    </li>
@@ -5415,7 +5415,7 @@
      Keys.js
     </a>
     <span>
-     &#9733 380, pushed 54 days ago
+     &#9733 380, pushed 55 days ago
     </span>
    </li>
    <li>
@@ -5625,7 +5625,7 @@
      Interview This!
     </a>
     <span>
-     &#9733 1024, pushed 82 days ago
+     &#9733 1024, pushed 83 days ago
     </span>
     : A list of questions to ask employers.
    </li>
@@ -5634,7 +5634,7 @@
      Code problems
     </a>
     <span>
-     &#9733 3084, pushed 12 days ago
+     &#9733 3084, pushed 13 days ago
     </span>
     -- Common code problems solved using JavaScript
    </li>

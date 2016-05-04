@@ -759,7 +759,7 @@
      Alabaster
     </a>
     <span>
-     &#9733 218, pushed 7 days ago
+     &#9733 218, pushed 8 days ago
     </span>
     : Clean and simple
    </li>
@@ -795,7 +795,7 @@
    Statistical Physics
   </a>
   <span>
-   &#9733 0, pushed 54 days ago
+   &#9733 0, pushed 55 days ago
   </span>
  </li>
  <li>
@@ -902,7 +902,7 @@
    Ghost
   </a>
   <span>
-   &#9733 19315, pushed 0 days ago
+   &#9733 19315, pushed 1 days ago
   </span>
   (
   <code>
@@ -915,7 +915,7 @@
    Pico
   </a>
   <span>
-   &#9733 2296, pushed 3 days ago
+   &#9733 2296, pushed 4 days ago
   </span>
   (
   <code>
@@ -928,7 +928,7 @@
    Dropplets
   </a>
   <span>
-   &#9733 1570, pushed 175 days ago
+   &#9733 1570, pushed 176 days ago
   </span>
   (
   <code>
@@ -1531,7 +1531,7 @@
    mindmaps
   </a>
   <span>
-   &#9733 862, pushed 139 days ago
+   &#9733 862, pushed 140 days ago
   </span>
  </li>
 </ul>
@@ -1749,7 +1749,7 @@
    CSSS
   </a>
   <span>
-   &#9733 1371, pushed 63 days ago
+   &#9733 1371, pushed 64 days ago
   </span>
  </li>
  <li>
@@ -1786,7 +1786,7 @@
    Flowtime.js
   </a>
   <span>
-   &#9733 1055, pushed 23 days ago
+   &#9733 1055, pushed 24 days ago
   </span>
  </li>
  <li>
@@ -1794,7 +1794,7 @@
    Slides
   </a>
   <span>
-   &#9733 353, pushed 1034 days ago
+   &#9733 353, pushed 1035 days ago
   </span>
  </li>
 </ul>
@@ -1952,7 +1952,7 @@
      jiffylab
     </a>
     <span>
-     &#9733 183, pushed 777 days ago
+     &#9733 183, pushed 778 days ago
     </span>
     is an open source one but not that well done.
    </li>
@@ -2529,7 +2529,7 @@
    matplotlib
   </a>
   <span>
-   &#9733 468, pushed 198 days ago
+   &#9733 468, pushed 199 days ago
   </span>
  </li>
  <li>
@@ -2709,7 +2709,7 @@
    plot in terminal
   </a>
   <span>
-   &#9733 395, pushed 86 days ago
+   &#9733 395, pushed 87 days ago
   </span>
  </li>
  <li>
@@ -2723,7 +2723,7 @@
    bashplot
   </a>
   <span>
-   &#9733 395, pushed 86 days ago
+   &#9733 395, pushed 87 days ago
   </span>
   : plot in terminal.
  </li>

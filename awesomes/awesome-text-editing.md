@@ -16,7 +16,7 @@
    Trix
   </a>
   <span>
-   &#9733 6684, pushed 2 days ago
+   &#9733 6684, pushed 3 days ago
   </span>
   - Basecamp's rich text editor
  </li>
@@ -197,7 +197,7 @@
    jWYSIWYG
   </a>
   <span>
-   &#9733 236, pushed 292 days ago
+   &#9733 236, pushed 293 days ago
   </span>
   - WYSIWYG jQuery Plugin
  </li>
@@ -251,7 +251,7 @@
    markdown-js
   </a>
   <span>
-   &#9733 4619, pushed 5 days ago
+   &#9733 4619, pushed 6 days ago
   </span>
   - A Markdown parser for javascript
  </li>

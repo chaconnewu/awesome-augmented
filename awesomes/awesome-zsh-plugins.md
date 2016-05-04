@@ -590,7 +590,7 @@
    ZSH Pony
   </a>
   <span>
-   &#9733 56, pushed 1739 days ago
+   &#9733 56, pushed 1740 days ago
   </span>
   - Covers customizing ZSH without a framework.
  </li>
@@ -690,7 +690,7 @@
    zsh-quickstart-kit
   </a>
   <span>
-   &#9733 49, pushed 77 days ago
+   &#9733 49, pushed 78 days ago
   </span>
   - A simple quickstart for using zsh with zgen. This includes a curated collection of plugins, and will automatically configure zsh to use zgen to load them.
  </li>
@@ -794,7 +794,7 @@
    autoupdate-antigen.zshplugin
   </a>
   <span>
-   &#9733 7, pushed 527 days ago
+   &#9733 7, pushed 528 days ago
   </span>
   - Antigen doesn't do automatic updates like oh-my-zsh. This plugin adds auto updating for antigen, both of antigen and the bundles loaded in your configuration.
  </li>
@@ -803,7 +803,7 @@
    bitbucket-git-helpers
   </a>
   <span>
-   &#9733 0, pushed 16 days ago
+   &#9733 0, pushed 17 days ago
   </span>
   - Helper scripts to allow you to create bitbucket PRs from a shell session.
  </li>
@@ -830,7 +830,7 @@
    calc.plugin.zsh
   </a>
   <span>
-   &#9733 10, pushed 56 days ago
+   &#9733 10, pushed 57 days ago
   </span>
   - calculator for zsh
  </li>
@@ -888,7 +888,7 @@
    crayon-syntax-zsh
   </a>
   <span>
-   &#9733 0, pushed 893 days ago
+   &#9733 0, pushed 894 days ago
   </span>
   - ZSH syntax highlighting for the Crayon Plugin for Wordpress
  </li>
@@ -918,7 +918,7 @@
    deer
   </a>
   <span>
-   &#9733 114, pushed 109 days ago
+   &#9733 114, pushed 110 days ago
   </span>
   - A file navigator for zsh heavily inspired by
   <a href="http://ranger.nongnu.org/">
@@ -931,7 +931,7 @@
    depot-tools
   </a>
   <span>
-   &#9733 0, pushed 1050 days ago
+   &#9733 0, pushed 1051 days ago
   </span>
   - Simple oh-my-zsh plugin for installing the chromium depot
   <em>
@@ -994,7 +994,7 @@
    ghost-zeus
   </a>
   <span>
-   &#9733 1, pushed 578 days ago
+   &#9733 1, pushed 579 days ago
   </span>
   - Lets you use zeus with normal rails commands.
  </li>
@@ -1012,7 +1012,7 @@
    git-aliases.zsh
   </a>
   <span>
-   &#9733 14, pushed 36 days ago
+   &#9733 14, pushed 37 days ago
   </span>
   - Creates a lot of useful aliases for combinations of commonly used git commands.
  </li>
@@ -1057,7 +1057,7 @@
    gitfast
   </a>
   <span>
-   &#9733 1, pushed 412 days ago
+   &#9733 1, pushed 413 days ago
   </span>
   - Updated fork of oh-my-zsh gitfast plugin.
  </li>
@@ -1066,7 +1066,7 @@
    gitignore.plugin.zsh
   </a>
   <span>
-   &#9733 9, pushed 1 days ago
+   &#9733 9, pushed 2 days ago
   </span>
   - Plugin for creating
   <code>
@@ -1119,7 +1119,7 @@
    hipchat
   </a>
   <span>
-   &#9733 15, pushed 209 days ago
+   &#9733 15, pushed 210 days ago
   </span>
   - Send hipchat messages from the shell.
  </li>
@@ -1179,7 +1179,7 @@
    mac-packaging
   </a>
   <span>
-   &#9733 1, pushed 345 days ago
+   &#9733 1, pushed 346 days ago
   </span>
   - A set of common functions used for enterprise Mac packaging with Munki
  </li>
@@ -1215,7 +1215,7 @@
    nice-exit-code
   </a>
   <span>
-   &#9733 7, pushed 602 days ago
+   &#9733 7, pushed 603 days ago
   </span>
   - Maps exit status code to human readable string.
  </li>
@@ -1224,7 +1224,7 @@
    node.plugin.zsh
   </a>
   <span>
-   &#9733 3, pushed 376 days ago
+   &#9733 3, pushed 377 days ago
   </span>
   - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
  </li>
@@ -1242,7 +1242,7 @@
    oh-my-zsh-dirstack
   </a>
   <span>
-   &#9733 0, pushed 369 days ago
+   &#9733 0, pushed 370 days ago
   </span>
   - Plugin for displaying dirstack info on a single line.
  </li>
@@ -1260,7 +1260,7 @@
    oh-my-zsh-jira-plus
   </a>
   <span>
-   &#9733 0, pushed 471 days ago
+   &#9733 0, pushed 472 days ago
   </span>
   - Create JIRAs from the command line.
  </li>
@@ -1314,7 +1314,7 @@
    pantheon-terminal-notify-zsh-plugin
   </a>
   <span>
-   &#9733 8, pushed 369 days ago
+   &#9733 8, pushed 370 days ago
   </span>
   - Background notifications for long running commands. Supports Elementary OS Freya
  </li>
@@ -1341,7 +1341,7 @@
    pretty-time-zsh
   </a>
   <span>
-   &#9733 26, pushed 280 days ago
+   &#9733 26, pushed 281 days ago
   </span>
   - Convert seconds to a human readable string: 165392 → 1d 21h 56m 32s.
  </li>
@@ -1362,7 +1362,7 @@
    rockz
   </a>
   <span>
-   &#9733 0, pushed 50 days ago
+   &#9733 0, pushed 51 days ago
   </span>
   - Lua+LuaRocks virtual environment manager based upon VirtualZ.
  </li>
@@ -1371,7 +1371,7 @@
    rvm-zsh
   </a>
   <span>
-   &#9733 1, pushed 1101 days ago
+   &#9733 1, pushed 1102 days ago
   </span>
   - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's $PATH
  </li>
@@ -1419,7 +1419,7 @@
    sf2.plugin.zsh
   </a>
   <span>
-   &#9733 1, pushed 1073 days ago
+   &#9733 1, pushed 1074 days ago
   </span>
   - ZSH plugin for Symfony2.
  </li>
@@ -1481,7 +1481,7 @@
    tumult
   </a>
   <span>
-   &#9733 5, pushed 1 days ago
+   &#9733 5, pushed 2 days ago
   </span>
   - Adds tools for OS X
  </li>
@@ -1586,7 +1586,7 @@
    zsh-256color
   </a>
   <span>
-   &#9733 12, pushed 187 days ago
+   &#9733 12, pushed 188 days ago
   </span>
   - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
  </li>
@@ -1604,7 +1604,7 @@
    zsh-autoenv
   </a>
   <span>
-   &#9733 115, pushed 4 days ago
+   &#9733 115, pushed 5 days ago
   </span>
   - If a directory contains a .env file, it will automatically be executed when you cd into it.
  </li>
@@ -1632,7 +1632,7 @@
    zsh-basex
   </a>
   <span>
-   &#9733 1, pushed 568 days ago
+   &#9733 1, pushed 569 days ago
   </span>
   - Adds several
   <a href="http://basex.org/">
@@ -1728,7 +1728,7 @@
    zsh-functional
   </a>
   <span>
-   &#9733 65, pushed 434 days ago
+   &#9733 65, pushed 435 days ago
   </span>
   - ZSH higher order functions.
  </li>
@@ -1746,7 +1746,7 @@
    zsh-git-sync
   </a>
   <span>
-   &#9733 12, pushed 94 days ago
+   &#9733 12, pushed 95 days ago
   </span>
   - A ZSH plugin to sync git repositories and clean them up.
  </li>
@@ -1764,7 +1764,7 @@
    zsh-gvm (horosgrisa)
   </a>
   <span>
-   &#9733 0, pushed 351 days ago
+   &#9733 0, pushed 352 days ago
   </span>
   - Go version manager plugin for zsh.
  </li>
@@ -1773,7 +1773,7 @@
    zsh-gvm (yerinle)
   </a>
   <span>
-   &#9733 0, pushed 997 days ago
+   &#9733 0, pushed 998 days ago
   </span>
   - Provides autocompletion for gvm (Groovy enVironment Manager)
  </li>
@@ -1782,7 +1782,7 @@
    zsh-hints
   </a>
   <span>
-   &#9733 13, pushed 764 days ago
+   &#9733 13, pushed 765 days ago
   </span>
   - Display glob and parameter flags and other non completable info right under your editing buffer.
  </li>
@@ -1791,7 +1791,7 @@
    zsh-history-substring-search
   </a>
   <span>
-   &#9733 440, pushed 56 days ago
+   &#9733 440, pushed 57 days ago
   </span>
   - Needs to be loaded after zsh-syntax-highlighting, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md
  </li>
@@ -1857,7 +1857,7 @@
    zsh-open-pr
   </a>
   <span>
-   &#9733 10, pushed 94 days ago
+   &#9733 10, pushed 95 days ago
   </span>
   - A ZSH plugin to open pull requests from command line.
  </li>
@@ -1910,7 +1910,7 @@
    zsh-plugin-ibtool
   </a>
   <span>
-   &#9733 0, pushed 938 days ago
+   &#9733 0, pushed 939 days ago
   </span>
   - ibtool shortcuts to generate localized XIB files
  </li>
@@ -1928,7 +1928,7 @@
    zsh-plugin-vscode
   </a>
   <span>
-   &#9733 1, pushed 102 days ago
+   &#9733 1, pushed 103 days ago
   </span>
   - Plugin for Visual Studio Code, a text editor for Mac OS X, Windows, and Linux
  </li>
@@ -2028,7 +2028,7 @@
    zshmarks
   </a>
   <span>
-   &#9733 102, pushed 83 days ago
+   &#9733 102, pushed 84 days ago
   </span>
   - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh
  </li>
@@ -2157,7 +2157,7 @@
    docker-fun
   </a>
   <span>
-   &#9733 0, pushed 134 days ago
+   &#9733 0, pushed 135 days ago
   </span>
   - docker convenience functions
  </li>
@@ -2226,7 +2226,7 @@
    etcdctl-zsh
   </a>
   <span>
-   &#9733 2, pushed 582 days ago
+   &#9733 2, pushed 583 days ago
   </span>
   - etcdctl autocomplete plugin for oh-my-zsh
  </li>
@@ -2235,7 +2235,7 @@
    exercism
   </a>
   <span>
-   &#9733 0, pushed 271 days ago
+   &#9733 0, pushed 272 days ago
   </span>
   - A plugin for
   <a href="http://exercism.io/">
@@ -2308,7 +2308,7 @@
    liquidprompt
   </a>
   <span>
-   &#9733 2238, pushed 1 days ago
+   &#9733 2238, pushed 2 days ago
   </span>
   - A full-featured & carefully designed adaptive prompt for Bash & ZSH
  </li>
@@ -2317,7 +2317,7 @@
    locate-sublime-projects-cli
   </a>
   <span>
-   &#9733 0, pushed 145 days ago
+   &#9733 0, pushed 146 days ago
   </span>
   - Allows searching for Sublime Text projects and opens them in Sublime.
  </li>
@@ -2389,7 +2389,7 @@
    oh-my-git
   </a>
   <span>
-   &#9733 1999, pushed 3 days ago
+   &#9733 1999, pushed 4 days ago
   </span>
   - An opinionated prompt for bash and zsh
  </li>
@@ -2425,7 +2425,7 @@
    oh-my-zsh-spring-boot-plugin
   </a>
   <span>
-   &#9733 6, pushed 163 days ago
+   &#9733 6, pushed 164 days ago
   </span>
   - Adds autocompletions for
   <a href="http://projects.spring.io/spring-boot/">
@@ -2454,7 +2454,7 @@
    racket completion
   </a>
   <span>
-   &#9733 0, pushed 10 days ago
+   &#9733 0, pushed 11 days ago
   </span>
   - Completion for
   <a href="http://racket-lang.org">
@@ -2476,7 +2476,7 @@
    surf.plugin.zsh
   </a>
   <span>
-   &#9733 1, pushed 32 days ago
+   &#9733 1, pushed 33 days ago
   </span>
   - Add completions for surf
  </li>
@@ -2485,7 +2485,7 @@
    tugboat
   </a>
   <span>
-   &#9733 4, pushed 371 days ago
+   &#9733 4, pushed 372 days ago
   </span>
   - Adds autocompletion for
   <a href="https://github.com/pearkes/tugboat/">
@@ -2546,7 +2546,7 @@
    zsh-megaprompt
   </a>
   <span>
-   &#9733 2, pushed 16 days ago
+   &#9733 2, pushed 17 days ago
   </span>
   - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the
   <a href="https://github.com/willghatch/zsh-hooks">
@@ -2568,7 +2568,7 @@
    zsh-pandoc-completion
   </a>
   <span>
-   &#9733 6, pushed 204 days ago
+   &#9733 6, pushed 205 days ago
   </span>
   - Pandoc completion plugin
  </li>
@@ -2641,7 +2641,7 @@
    angry fly
   </a>
   <span>
-   &#9733 1, pushed 1152 days ago
+   &#9733 1, pushed 1153 days ago
   </span>
   - Shows git information in right hand prompt.
  </li>
@@ -2650,7 +2650,7 @@
    bashi
   </a>
   <span>
-   &#9733 2, pushed 469 days ago
+   &#9733 2, pushed 470 days ago
   </span>
   - Optimized for Ahmet Sülek's
   <a href="https://github.com/ahmetsulek/flat-terminal">
@@ -2676,7 +2676,7 @@
    bluelines
   </a>
   <span>
-   &#9733 1, pushed 729 days ago
+   &#9733 1, pushed 730 days ago
   </span>
   - Clear and blue theme.
  </li>
@@ -2685,7 +2685,7 @@
    brunty
   </a>
   <span>
-   &#9733 3, pushed 258 days ago
+   &#9733 3, pushed 259 days ago
   </span>
   - Brunty theme
  </li>
@@ -2694,7 +2694,7 @@
    bullet-train
   </a>
   <span>
-   &#9733 712, pushed 5 days ago
+   &#9733 712, pushed 6 days ago
   </span>
   - Inspired by the Powerline Vim plugin. It aims for simplicity, showing information only when it's relevant.
  </li>
@@ -2721,7 +2721,7 @@
    charged
   </a>
   <span>
-   &#9733 2, pushed 710 days ago
+   &#9733 2, pushed 711 days ago
   </span>
   - A zsh prompt optimized for the solarized dark terminal theme.
  </li>
@@ -2754,7 +2754,7 @@
    cute-theme
   </a>
   <span>
-   &#9733 5, pushed 382 days ago
+   &#9733 5, pushed 383 days ago
   </span>
   - An OSX oh-my-zsh shell theme with Cute emoji based on the Powerline Vim plugin.
  </li>
@@ -2805,7 +2805,7 @@
    excess
   </a>
   <span>
-   &#9733 0, pushed 258 days ago
+   &#9733 0, pushed 259 days ago
   </span>
   - Simple zsh color theme.
  </li>
@@ -2879,7 +2879,7 @@
    gitsome
   </a>
   <span>
-   &#9733 40, pushed 1113 days ago
+   &#9733 40, pushed 1114 days ago
   </span>
   - Super simple prompt with git info, optimized for the
   <a href="https://github.com/ahmetsulek/flat-terminal">
@@ -2902,7 +2902,7 @@
    glimmer
   </a>
   <span>
-   &#9733 0, pushed 309 days ago
+   &#9733 0, pushed 310 days ago
   </span>
   - Includes git branch, time and user@host.
  </li>
@@ -2920,7 +2920,7 @@
    hackersaurus
   </a>
   <span>
-   &#9733 3, pushed 400 days ago
+   &#9733 3, pushed 401 days ago
   </span>
   - A theme with git status and exit code of last command run embedded in the prompt. Related to
   <a href="https://github.com/bhilburn/powerlevel9k">
@@ -2978,7 +2978,7 @@
    judgedim
   </a>
   <span>
-   &#9733 0, pushed 367 days ago
+   &#9733 0, pushed 368 days ago
   </span>
   - Minimalist prompt.
  </li>
@@ -3026,7 +3026,7 @@
    maxulysse/myzsh
   </a>
   <span>
-   &#9733 1, pushed 462 days ago
+   &#9733 1, pushed 463 days ago
   </span>
   Maxime Garcia's myzsh theme.
  </li>
@@ -3035,7 +3035,7 @@
    megaprompt
   </a>
   <span>
-   &#9733 2, pushed 16 days ago
+   &#9733 2, pushed 17 days ago
   </span>
   - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the
   <a href="https://github.com/willghatch/zsh-hooks">
@@ -3075,7 +3075,7 @@
    molokai-powerline-zsh
   </a>
   <span>
-   &#9733 3, pushed 26 days ago
+   &#9733 3, pushed 27 days ago
   </span>
   - Based on
   <a href="https://gist.github.com/agnoster/3712874">
@@ -3153,7 +3153,7 @@
    powerlevel9k
   </a>
   <span>
-   &#9733 534, pushed 0 days ago
+   &#9733 534, pushed 1 days ago
   </span>
   - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc.
  </li>
@@ -3162,7 +3162,7 @@
    powerline-cute
   </a>
   <span>
-   &#9733 5, pushed 382 days ago
+   &#9733 5, pushed 383 days ago
   </span>
   - Based on
   <a href="https://github.com/caiogondim/bullet-train-oh-my-zsh-theme">
@@ -3211,7 +3211,7 @@
    racotecnic
   </a>
   <span>
-   &#9733 5, pushed 148 days ago
+   &#9733 5, pushed 149 days ago
   </span>
   - Based on af-magic and posh-git.
  </li>
@@ -3390,7 +3390,7 @@
    wild-cherry
   </a>
   <span>
-   &#9733 161, pushed 20 days ago
+   &#9733 161, pushed 21 days ago
   </span>
   - A fairy-tale inspired theme for Zsh, iTerm, Sublime, Atom, & Mou
  </li>
@@ -3414,7 +3414,7 @@
    z4rr3t
   </a>
   <span>
-   &#9733 0, pushed 423 days ago
+   &#9733 0, pushed 424 days ago
   </span>
   - Based on sindresorhus' pure theme.
  </li>
@@ -3460,7 +3460,7 @@
    zsh2000
   </a>
   <span>
-   &#9733 31, pushed 118 days ago
+   &#9733 31, pushed 119 days ago
   </span>
   - Powerline looking ZSH theme with rvm prompt, git status and branch, current time, user, hostname, pwd, exit status, root and background job status.
  </li>
@@ -3486,7 +3486,7 @@
    Awesome Terminal Fonts
   </a>
   <span>
-   &#9733 479, pushed 87 days ago
+   &#9733 479, pushed 88 days ago
   </span>
   - A family of fonts that includes some nice monospaced Icons.
  </li>
@@ -3504,7 +3504,7 @@
    Fantasque-sans
   </a>
   <span>
-   &#9733 2528, pushed 29 days ago
+   &#9733 2528, pushed 30 days ago
   </span>
   - Another powerline font.
  </li>
@@ -3680,7 +3680,7 @@
    zshdb
   </a>
   <span>
-   &#9733 81, pushed 135 days ago
+   &#9733 81, pushed 136 days ago
   </span>
   - A ZSH debugger
  </li>
@@ -3703,7 +3703,7 @@
    awesome-sysadmin
   </a>
   <span>
-   &#9733 12207, pushed 3 days ago
+   &#9733 12207, pushed 4 days ago
   </span>
   - A curated list of awesome open source sysadmin resources
  </li>

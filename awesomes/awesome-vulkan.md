@@ -197,7 +197,7 @@
    vulkan-sxs
   </a>
   <span>
-   &#9733 12, pushed 60 days ago
+   &#9733 12, pushed 61 days ago
   </span>
   - explain the Vulkan API step by step and
   <a href="https://github.com/philiptaylor/vulkan-sync">
@@ -353,7 +353,7 @@
      API without Secrets: Introduction to Vulkan
     </a>
     <span>
-     &#9733 107, pushed 1 days ago
+     &#9733 107, pushed 2 days ago
     </span>
     <a href="https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt">
      [LICENSE]
@@ -557,7 +557,7 @@
      supersampled
     </a>
     <span>
-     &#9733 20, pushed 60 days ago
+     &#9733 20, pushed 61 days ago
     </span>
     - Vulkan sample showing a high quality super-sampled rendering.
    </li>
@@ -568,7 +568,7 @@
    LunarG's samples
   </a>
   <span>
-   &#9733 211, pushed 4 days ago
+   &#9733 211, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -620,7 +620,7 @@ drm/kms.
    bgfx
   </a>
   <span>
-   &#9733 1856, pushed 1 days ago
+   &#9733 1856, pushed 2 days ago
   </span>
   - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
  </li>
@@ -642,7 +642,7 @@ drm/kms.
    glfw
   </a>
   <span>
-   &#9733 1895, pushed 1 days ago
+   &#9733 1895, pushed 2 days ago
   </span>
   and
   <a href="http://www.glfw.org/docs/3.2/vulkan.html">
@@ -757,7 +757,7 @@ drm/kms.
    LoaderAndValidationLayers
   </a>
   <span>
-   &#9733 174, pushed 3 days ago
+   &#9733 174, pushed 4 days ago
   </span>
   - from KhronosGroup. [MIT]
  </li>
@@ -766,7 +766,7 @@ drm/kms.
    renderdoc
   </a>
   <span>
-   &#9733 972, pushed 1 days ago
+   &#9733 972, pushed 2 days ago
   </span>
   - by baldurk, a stand-alone graphics debugging tool. [MIT]
  </li>
@@ -775,7 +775,7 @@ drm/kms.
    VulkanTools
   </a>
   <span>
-   &#9733 77, pushed 3 days ago
+   &#9733 77, pushed 4 days ago
   </span>
   - LunarG's tools including layers,
   <code>

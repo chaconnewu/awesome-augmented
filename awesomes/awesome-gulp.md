@@ -490,7 +490,7 @@
    gulp-sass
   </a>
   <span>
-   &#9733 810, pushed 6 days ago
+   &#9733 810, pushed 7 days ago
   </span>
   - Sass → CSS with
   <a href="https://github.com/sass/libsass">
@@ -512,7 +512,7 @@
    gulp-compass
   </a>
   <span>
-   &#9733 152, pushed 18 days ago
+   &#9733 152, pushed 19 days ago
   </span>
   - Sass → CSS with Ruby Sass & Compass.
  </li>
@@ -521,7 +521,7 @@
    gulp-less
   </a>
   <span>
-   &#9733 431, pushed 28 days ago
+   &#9733 431, pushed 29 days ago
   </span>
   -
   <a href="https://github.com/less/less.js">
@@ -560,7 +560,7 @@
    gulp-coffee
   </a>
   <span>
-   &#9733 199, pushed 32 days ago
+   &#9733 199, pushed 33 days ago
   </span>
   -
   <a href="https://github.com/jashkenas/coffeescript">
@@ -727,7 +727,7 @@
    gulp-csso
   </a>
   <span>
-   &#9733 143, pushed 23 days ago
+   &#9733 143, pushed 24 days ago
   </span>
   - Minify CSS with
   <a href="https://github.com/css/csso">
@@ -740,7 +740,7 @@
    gulp-uglify
   </a>
   <span>
-   &#9733 604, pushed 3 days ago
+   &#9733 604, pushed 4 days ago
   </span>
   - Minify JavaScript with
   <a href="https://github.com/mishoo/UglifyJS2">
@@ -789,7 +789,7 @@
    gulp-svgmin
   </a>
   <span>
-   &#9733 187, pushed 1 days ago
+   &#9733 187, pushed 2 days ago
   </span>
   - Minify SVG files with gulp.
  </li>
@@ -843,7 +843,7 @@
    gulp-svgstore
   </a>
   <span>
-   &#9733 337, pushed 2 days ago
+   &#9733 337, pushed 3 days ago
   </span>
   - Combine svg files into one with
   <symbol>
@@ -901,7 +901,7 @@
    gulp-angular-templatecache
   </a>
   <span>
-   &#9733 413, pushed 70 days ago
+   &#9733 413, pushed 71 days ago
   </span>
   - Concatenate and register AngularJS templates in the $templateCache.
  </li>
@@ -959,7 +959,7 @@
    gulp-dustjs
   </a>
   <span>
-   &#9733 18, pushed 116 days ago
+   &#9733 18, pushed 117 days ago
   </span>
   -
   <a href="https://github.com/linkedin/dustjs">
@@ -1048,7 +1048,7 @@
    gulp-htmlhint
   </a>
   <span>
-   &#9733 46, pushed 54 days ago
+   &#9733 46, pushed 55 days ago
   </span>
   -
   <a href="https://github.com/yaniswang/HTMLHint">
@@ -1061,7 +1061,7 @@
    gulp-jshint
   </a>
   <span>
-   &#9733 346, pushed 133 days ago
+   &#9733 346, pushed 134 days ago
   </span>
   - Detect errors and potential problems in JavaScript with
   <a href="https://github.com/jshint/jshint">
@@ -1113,7 +1113,7 @@
    gulp-eslint
   </a>
   <span>
-   &#9733 298, pushed 47 days ago
+   &#9733 298, pushed 48 days ago
   </span>
   - Identify and report on patterns found in ECMAScript/JavaScript code.
  </li>
@@ -1135,7 +1135,7 @@
    gulp-lesshint
   </a>
   <span>
-   &#9733 10, pushed 71 days ago
+   &#9733 10, pushed 72 days ago
   </span>
   - Lint less files with
   <a href="https://github.com/lesshint/lesshint">
@@ -1153,7 +1153,7 @@
    browser-sync
   </a>
   <span>
-   &#9733 6927, pushed 7 days ago
+   &#9733 6927, pushed 8 days ago
   </span>
   - Keep multiple browsers & devices in sync when building websites (
   <a href="https://github.com/BrowserSync/gulp-browser-sync">
@@ -1207,7 +1207,7 @@
    gulp-newer
   </a>
   <span>
-   &#9733 139, pushed 38 days ago
+   &#9733 139, pushed 39 days ago
   </span>
   - Pass through newer source files only.
  </li>
@@ -1221,7 +1221,7 @@
    merge-stream
   </a>
   <span>
-   &#9733 86, pushed 160 days ago
+   &#9733 86, pushed 161 days ago
   </span>
   - Merge multiple streams into one interleaved stream.
  </li>
@@ -1333,7 +1333,7 @@
    gulp-coverage
   </a>
   <span>
-   &#9733 59, pushed 141 days ago
+   &#9733 59, pushed 142 days ago
   </span>
   - Coverage reporting for Node.js that is independent of the test runner.
  </li>
@@ -1432,7 +1432,7 @@
    gulp-rename
   </a>
   <span>
-   &#9733 371, pushed 209 days ago
+   &#9733 371, pushed 210 days ago
   </span>
   - Rename files easily.
  </li>
@@ -1441,7 +1441,7 @@
    gulp-rev
   </a>
   <span>
-   &#9733 813, pushed 0 days ago
+   &#9733 813, pushed 1 days ago
   </span>
   - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.
  </li>
@@ -1495,7 +1495,7 @@
    gulp-gh-pages
   </a>
   <span>
-   &#9733 418, pushed 100 days ago
+   &#9733 418, pushed 101 days ago
   </span>
   - Publish contents to Github pages.
  </li>
@@ -1517,7 +1517,7 @@
    gulp-bump
   </a>
   <span>
-   &#9733 191, pushed 41 days ago
+   &#9733 191, pushed 42 days ago
   </span>
   - Bump any semvar JSON version.
  </li>
@@ -1562,7 +1562,7 @@
    gulp-preprocess
   </a>
   <span>
-   &#9733 155, pushed 67 days ago
+   &#9733 155, pushed 68 days ago
   </span>
   - Preprocess files based on custom context or environment configuration.
  </li>
@@ -1597,7 +1597,7 @@
    polymer-starter-kit
   </a>
   <span>
-   &#9733 2069, pushed 3 days ago
+   &#9733 2069, pushed 4 days ago
   </span>
   - A starting point for Polymer 1.0 apps.
  </li>
@@ -1606,7 +1606,7 @@
    este
   </a>
   <span>
-   &#9733 2901, pushed 1 days ago
+   &#9733 2901, pushed 2 days ago
   </span>
   - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps.
  </li>
@@ -1633,7 +1633,7 @@
    angularjs-gulp-browserify-boilerplate
   </a>
   <span>
-   &#9733 855, pushed 21 days ago
+   &#9733 855, pushed 22 days ago
   </span>
   - Boilerplate using AngularJS, Sass, gulp, and Browserify.
  </li>
@@ -1707,7 +1707,7 @@
    generator-gulp-bootstrap
   </a>
   <span>
-   &#9733 68, pushed 324 days ago
+   &#9733 68, pushed 325 days ago
   </span>
   - Yeoman generator for Bootstrap, gulp & libsass.
  </li>
@@ -1725,7 +1725,7 @@
    generator-ionic-gulp
   </a>
   <span>
-   &#9733 111, pushed 51 days ago
+   &#9733 111, pushed 52 days ago
   </span>
   - A Yeoman generator for Ionic Projects with gulp.
  </li>

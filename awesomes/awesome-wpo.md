@@ -382,7 +382,7 @@
    Grunt-yslow
   </a>
   <span>
-   &#9733 91, pushed 71 days ago
+   &#9733 91, pushed 72 days ago
   </span>
   - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
  </li>
@@ -404,7 +404,7 @@
    Web Tracing Framework
   </a>
   <span>
-   &#9733 2199, pushed 8 days ago
+   &#9733 2199, pushed 9 days ago
   </span>
   - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
  </li>
@@ -524,7 +524,7 @@ It covers resources and code analysis as well as content and social audit.
    Timing.js
   </a>
   <span>
-   &#9733 1045, pushed 64 days ago
+   &#9733 1045, pushed 65 days ago
   </span>
   - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
  </li>
@@ -551,7 +551,7 @@ It covers resources and code analysis as well as content and social audit.
    Memory-stats.js
   </a>
   <span>
-   &#9733 1825, pushed 304 days ago
+   &#9733 1825, pushed 305 days ago
   </span>
   - minimal monitor for JS Heap Size via performance memory.
  </li>
@@ -604,7 +604,7 @@ It covers resources and code analysis as well as content and social audit.
    PerfMap
   </a>
   <span>
-   &#9733 3751, pushed 559 days ago
+   &#9733 3751, pushed 560 days ago
   </span>
   - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
  </li>
@@ -704,7 +704,7 @@ It covers resources and code analysis as well as content and social audit.
    OSSCDN
   </a>
   <span>
-   &#9733 90, pushed 196 days ago
+   &#9733 90, pushed 197 days ago
   </span>
   - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
  </li>
@@ -779,7 +779,7 @@ It covers resources and code analysis as well as content and social audit.
    Cdnex
   </a>
   <span>
-   &#9733 16, pushed 14 days ago
+   &#9733 16, pushed 15 days ago
   </span>
   - Prepends asset urls with custom CDN urls.
  </li>
@@ -849,7 +849,7 @@ It covers resources and code analysis as well as content and social audit.
    Gm
   </a>
   <span>
-   &#9733 3160, pushed 5 days ago
+   &#9733 3160, pushed 6 days ago
   </span>
   - GraphicsMagick and ImageMagick for node.
  </li>
@@ -873,7 +873,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-contrib-imagemin
   </a>
   <span>
-   &#9733 1091, pushed 24 days ago
+   &#9733 1091, pushed 25 days ago
   </span>
   - Minify PNG and JPEG images for Grunt.
  </li>
@@ -915,7 +915,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-imageoptim
   </a>
   <span>
-   &#9733 484, pushed 66 days ago
+   &#9733 484, pushed 67 days ago
   </span>
   - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
  </li>
@@ -1071,7 +1071,7 @@ It covers resources and code analysis as well as content and social audit.
    Phantomas
   </a>
   <span>
-   &#9733 1639, pushed 25 days ago
+   &#9733 1639, pushed 26 days ago
   </span>
   - PhantomJS-based web performance metrics collector and monitoring tool.
  </li>
@@ -1086,7 +1086,7 @@ It covers resources and code analysis as well as content and social audit.
    Bench
   </a>
   <span>
-   &#9733 24, pushed 225 days ago
+   &#9733 24, pushed 226 days ago
   </span>
   - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
  </li>
@@ -1143,7 +1143,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-phantomas
   </a>
   <span>
-   &#9733 282, pushed 70 days ago
+   &#9733 282, pushed 71 days ago
   </span>
   - Grunt plugin wrapping phantomas to measure frontend performance.
  </li>
@@ -1211,7 +1211,7 @@ It covers resources and code analysis as well as content and social audit.
    Django-htmlmin
   </a>
   <span>
-   &#9733 266, pushed 15 days ago
+   &#9733 266, pushed 16 days ago
   </span>
   - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
  </li>
@@ -1220,7 +1220,7 @@ It covers resources and code analysis as well as content and social audit.
    HTMLMinifier
   </a>
   <span>
-   &#9733 1505, pushed 1 days ago
+   &#9733 1505, pushed 2 days ago
   </span>
   - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
  </li>
@@ -1247,7 +1247,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-htmlcompressor
   </a>
   <span>
-   &#9733 34, pushed 868 days ago
+   &#9733 34, pushed 869 days ago
   </span>
   - Grunt plugin for html compression, using htmlcompressor.
  </li>
@@ -1265,7 +1265,7 @@ It covers resources and code analysis as well as content and social audit.
    HTML_press
   </a>
   <span>
-   &#9733 31, pushed 19 days ago
+   &#9733 31, pushed 20 days ago
   </span>
   - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
  </li>
@@ -1274,7 +1274,7 @@ It covers resources and code analysis as well as content and social audit.
    Koa HTML Minifier
   </a>
   <span>
-   &#9733 16, pushed 97 days ago
+   &#9733 16, pushed 98 days ago
   </span>
   - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
  </li>
@@ -1312,7 +1312,7 @@ It covers resources and code analysis as well as content and social audit.
    YUI Compressor
   </a>
   <span>
-   &#9733 2148, pushed 7 days ago
+   &#9733 2148, pushed 8 days ago
   </span>
   - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
  </li>
@@ -1330,7 +1330,7 @@ It covers resources and code analysis as well as content and social audit.
    CSSO
   </a>
   <span>
-   &#9733 1516, pushed 22 days ago
+   &#9733 1516, pushed 23 days ago
   </span>
   - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
  </li>
@@ -1387,7 +1387,7 @@ It covers resources and code analysis as well as content and social audit.
    JShrink
   </a>
   <span>
-   &#9733 405, pushed 257 days ago
+   &#9733 405, pushed 258 days ago
   </span>
   - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
  </li>
@@ -1411,7 +1411,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-cssshrink
   </a>
   <span>
-   &#9733 28, pushed 72 days ago
+   &#9733 28, pushed 73 days ago
   </span>
   - This is just a grunt wrapper for CSS Shrink.
  </li>
@@ -1420,7 +1420,7 @@ It covers resources and code analysis as well as content and social audit.
    Gulp-cssshrink
   </a>
   <span>
-   &#9733 23, pushed 45 days ago
+   &#9733 23, pushed 46 days ago
   </span>
   - Shrinks CSS files using cssshrink for Gulp.
  </li>
@@ -1429,7 +1429,7 @@ It covers resources and code analysis as well as content and social audit.
    Prettyugly
   </a>
   <span>
-   &#9733 7, pushed 678 days ago
+   &#9733 7, pushed 679 days ago
   </span>
   - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
  </li>
@@ -1438,7 +1438,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-contrib-cssmin
   </a>
   <span>
-   &#9733 701, pushed 3 days ago
+   &#9733 701, pushed 4 days ago
   </span>
   - CSS Minifier for Grunt.
  </li>
@@ -1500,7 +1500,7 @@ It covers resources and code analysis as well as content and social audit.
    Critical
   </a>
   <span>
-   &#9733 3120, pushed 12 days ago
+   &#9733 3120, pushed 13 days ago
   </span>
   - Extract & Inline Critical-path CSS in HTML pages (alpha).
  </li>
@@ -1509,7 +1509,7 @@ It covers resources and code analysis as well as content and social audit.
    Csscolormin
   </a>
   <span>
-   &#9733 12, pushed 89 days ago
+   &#9733 12, pushed 90 days ago
   </span>
   - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
  </li>
@@ -1524,7 +1524,7 @@ It covers resources and code analysis as well as content and social audit.
    Lazysizes
   </a>
   <span>
-   &#9733 4552, pushed 1 days ago
+   &#9733 4552, pushed 2 days ago
   </span>
   - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
  </li>
@@ -1571,7 +1571,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-spritesmith
   </a>
   <span>
-   &#9733 1096, pushed 44 days ago
+   &#9733 1096, pushed 45 days ago
   </span>
   - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
  </li>
@@ -1619,7 +1619,7 @@ It covers resources and code analysis as well as content and social audit.
    Assetgraph-sprite
   </a>
   <span>
-   &#9733 31, pushed 1 days ago
+   &#9733 31, pushed 2 days ago
   </span>
   - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
  </li>
@@ -1702,7 +1702,7 @@ It covers resources and code analysis as well as content and social audit.
    SVG Cleaner
   </a>
   <span>
-   &#9733 202, pushed 8 days ago
+   &#9733 202, pushed 9 days ago
   </span>
   - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
  </li>
@@ -1716,7 +1716,7 @@ It covers resources and code analysis as well as content and social audit.
    Vulcanize
   </a>
   <span>
-   &#9733 1035, pushed 11 days ago
+   &#9733 1035, pushed 12 days ago
   </span>
   - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
  </li>
@@ -1725,7 +1725,7 @@ It covers resources and code analysis as well as content and social audit.
    Grunt-vulcanize
   </a>
   <span>
-   &#9733 56, pushed 248 days ago
+   &#9733 56, pushed 249 days ago
   </span>
   - Grunt task for Polymer's Vulcanize.
  </li>
@@ -1748,7 +1748,7 @@ It covers resources and code analysis as well as content and social audit.
    HTTPerf
   </a>
   <span>
-   &#9733 218, pushed 32 days ago
+   &#9733 218, pushed 33 days ago
   </span>
   - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
  </li>
@@ -1778,7 +1778,7 @@ It covers resources and code analysis as well as content and social audit.
    HTTPerf.rb
   </a>
   <span>
-   &#9733 14, pushed 413 days ago
+   &#9733 14, pushed 414 days ago
   </span>
   - Simple Ruby interface for httperf, written in Ruby.
  </li>
@@ -1787,7 +1787,7 @@ It covers resources and code analysis as well as content and social audit.
    PHP-httperf
   </a>
   <span>
-   &#9733 5, pushed 735 days ago
+   &#9733 5, pushed 736 days ago
   </span>
   - PHP Port of HTTPerf.rb.
  </li>
@@ -1796,7 +1796,7 @@ It covers resources and code analysis as well as content and social audit.
    HTTPerf.js
   </a>
   <span>
-   &#9733 23, pushed 795 days ago
+   &#9733 23, pushed 796 days ago
   </span>
   - JS Port of HTTPerf.rb.
  </li>
@@ -1814,7 +1814,7 @@ It covers resources and code analysis as well as content and social audit.
    Gohttperf
   </a>
   <span>
-   &#9733 5, pushed 296 days ago
+   &#9733 5, pushed 297 days ago
   </span>
   - Go Port of HTTPerf.rb.
  </li>

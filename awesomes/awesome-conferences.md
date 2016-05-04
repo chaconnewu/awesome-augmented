@@ -179,7 +179,7 @@
    Papers We Love
   </a>
   <span>
-   &#9733 16161, pushed 11 days ago
+   &#9733 16161, pushed 12 days ago
   </span>
   //
   <a href="https://twitter.com/papers_we_love">
@@ -1558,7 +1558,7 @@
    planetruby/awesome-events
   </a>
   <span>
-   &#9733 167, pushed 18 days ago
+   &#9733 167, pushed 19 days ago
   </span>
   . A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
  </li>

@@ -3162,7 +3162,7 @@ chsh -s $(brew --prefix)/bin/bash
    Bash-it
   </a>
   <span>
-   &#9733 4477, pushed 3 days ago
+   &#9733 4477, pushed 4 days ago
   </span>
   - Community Bash framework, like Oh My Zsh for Bash.
  </li>
@@ -3186,12 +3186,6 @@ chsh -s $(brew --prefix)/bin/fish
   </a>
   - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
- </li>
- <li>
-  <a href="https://github.com/fishery/fin">
-   fin
-  </a>
-  - One-file, no-configuration, concurrent plugin manager for the fish shell.
  </li>
  <li>
   <a href="http://fisherman.sh">

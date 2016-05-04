@@ -1,66 +1,310 @@
-# awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of delightful libraries, tools and other shiny things for PureScript.
-
-## Build Tooling
-
-- [pulp](https://github.com/bodil/pulp)
-- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
-- [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript)
-- [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
-- [purs-loader](https://github.com/ethul/purs-loader) for webpack
-
-## Preludes
-
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude.
-- [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
-- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features.
-
-## UI Libraries
-
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
-- [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
-- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
-- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
-
-## Asynchronicity and Parallelism
-
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
-
-## Testing
-
-- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
-- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript.
-- [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes.
-- [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript.
-
-## Learning Resources
-
-- [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
-- [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
-
-## Discovery
-
-- [Pursuit](http://pursuit.purescript.org/)
-
-## Community
-
-- [`/r/purescript` subreddit](http://www.reddit.com/r/purescript)
-- [`#purescript` on Freenode](http://webchat.freenode.net/?channels=purescript)
-- [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
-- [Google Group](https://groups.google.com/forum/#!forum/purescript)
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived all copyright and related or neighboring rights to this work.
+<h1>
+ awesome-purescript
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<blockquote>
+ <p>
+  A curated list of delightful libraries, tools and other shiny things for PureScript.
+ </p>
+</blockquote>
+<h2>
+ Build Tooling
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/bodil/pulp">
+   pulp
+  </a>
+  <sup>
+   19 GitHub links in total 28 links, &#9733 218, pushed 31 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/natefaubion/purescript-psa">
+   purescript-psa
+  </a>
+  - A pretty, flexible error/warning reporting frontend for
+  <code>
+   psc
+  </code>
+  <sup>
+   19 GitHub links in total 28 links, &#9733 24, pushed 14 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/purescript-contrib/grunt-purescript">
+   grunt-purescript
+  </a>
+  <sup>
+   19 GitHub links in total 28 links, &#9733 11, pushed 171 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/purescript-contrib/gulp-purescript">
+   gulp-purescript
+  </a>
+  <sup>
+   19 GitHub links in total 28 links, &#9733 27, pushed 157 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ethul/purs-loader">
+   purs-loader
+  </a>
+  for webpack
+  <sup>
+   19 GitHub links in total 28 links, &#9733 31, pushed 24 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Preludes
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/purescript/purescript-prelude">
+   purescript-prelude
+  </a>
+  - The standard Prelude.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 12, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/paf31/purescript-preface">
+   purescript-preface
+  </a>
+  - A simpler alternative to the Prelude.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 10, pushed 249 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tfausak/purescript-batteries">
+   purescript-batteries
+  </a>
+  - A PureScript prelude with more features.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 20, pushed 11 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ UI Libraries
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/paf31/purescript-thermite">
+   purescript-thermite
+  </a>
+  - A simple wrapper for ReactJS inspired by
+  <code>
+   react-blaze
+  </code>
+  .
+  <sup>
+   19 GitHub links in total 28 links, &#9733 124, pushed 14 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slamdata/purescript-halogen">
+   purescript-halogen
+  </a>
+  - A declarative, type-safe UI library.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 331, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joneshf/purescript-react-simple">
+   purescript-react-simple
+  </a>
+  - A simplified wrapper around react.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 2, pushed 434 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slamdata/purescript-css">
+   purescript-css
+  </a>
+  - A clean, type-safe library for describing, manipulating and rendering CSS.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 23, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zrho/purescript-optic-ui">
+   purescript-optic-ui
+  </a>
+  - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 70, pushed 72 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sharkdp/purescript-flare">
+   purescript-flare
+  </a>
+  - Applicative-style reactive user interfaces built on top of purescript-signal.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 108, pushed 84 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Asynchronicity and Parallelism
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/slamdata/purescript-aff">
+   purescript-aff
+  </a>
+  - An asynchronous effect monad for PureScript.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 66, pushed 23 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slamdata/purescript-aff">
+   purescript-affjax
+  </a>
+  - An asynchronous AJAX library built using Aff.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 66, pushed 23 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Testing
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/bodil/purescript-test-unit">
+   purescript-test-unit
+  </a>
+  - An asynchronous unit test runner for PureScript.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 23, pushed 9 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/purescript/purescript-quickcheck">
+   purescript-quickcheck
+  </a>
+  - An implementation of QuickCheck in PureScript.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 23, pushed 37 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/garyb/purescript-quickcheck-laws">
+   purescript-quickcheck-laws
+  </a>
+  - Law tests for core classes.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 2, pushed 92 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hdgarrood/purescript-benchotron">
+   purescript-benchotron
+  </a>
+  - Straightforward benchmarking for PureScript/JavaScript.
+  <sup>
+   19 GitHub links in total 28 links, &#9733 6, pushed 116 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Learning Resources
+</h2>
+<ul>
+ <li>
+  <a href="https://www.youtube.com/watch?v=yIlDBPiMb0o">
+   Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke
+  </a>
+ </li>
+ <li>
+  <a href="https://leanpub.com/purescript/read">
+   Book - "PureScript by Example" by Phil Freeman
+  </a>
+ </li>
+ <li>
+  <a href="http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html">
+   PureScript for Haskellers by Dennis Gosnell
+  </a>
+ </li>
+</ul>
+<h2>
+ Discovery
+</h2>
+<ul>
+ <li>
+  <a href="http://pursuit.purescript.org/">
+   Pursuit
+  </a>
+ </li>
+</ul>
+<h2>
+ Community
+</h2>
+<ul>
+ <li>
+  <a href="http://www.reddit.com/r/purescript">
+   <code>
+    /r/purescript
+   </code>
+   subreddit
+  </a>
+ </li>
+ <li>
+  <a href="http://webchat.freenode.net/?channels=purescript">
+   <code>
+    #purescript
+   </code>
+   on Freenode
+  </a>
+ </li>
+ <li>
+  <a href="http://stackoverflow.com/questions/tagged/purescript">
+   Stack Overflow
+   <code>
+    purescript
+   </code>
+   tag
+  </a>
+ </li>
+ <li>
+  <a href="https://groups.google.com/forum/#!forum/purescript">
+   Google Group
+  </a>
+ </li>
+</ul>
+<h2>
+ Contribute
+</h2>
+<p>
+ Contributions welcome! Read the
+ <a href="contributing.md">
+  contribution guidelines
+ </a>
+ first.
+</p>
+<h2>
+ License
+</h2>
+<p>
+ <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img alt="CC0" src="http://i.creativecommons.org/p/zero/1.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ To the extent possible under law,
+ <a href="https://passy.me/">
+  Pascal Hartig
+ </a>
+ has waived all copyright and related or neighboring rights to this work.
+</p>

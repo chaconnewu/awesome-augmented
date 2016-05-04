@@ -216,7 +216,7 @@
    Gifify
   </a>
   <span>
-   &#9733 623, pushed 12 days ago
+   &#9733 623, pushed 13 days ago
   </span>
   -
   <em>
@@ -240,7 +240,7 @@
    Gifs
   </a>
   <span>
-   &#9733 1347, pushed 146 days ago
+   &#9733 1347, pushed 147 days ago
   </span>
   -
   <em>
@@ -256,7 +256,7 @@
    Gifshot
   </a>
   <span>
-   &#9733 2464, pushed 91 days ago
+   &#9733 2464, pushed 92 days ago
   </span>
   -
   <em>
@@ -272,7 +272,7 @@
    Gifsockets
   </a>
   <span>
-   &#9733 1515, pushed 1321 days ago
+   &#9733 1515, pushed 1322 days ago
   </span>
   -
   <em>
@@ -296,7 +296,7 @@
    gifme
   </a>
   <span>
-   &#9733 323, pushed 794 days ago
+   &#9733 323, pushed 795 days ago
   </span>
   -
   <em>
@@ -308,7 +308,7 @@
    GifW00t
   </a>
   <span>
-   &#9733 620, pushed 467 days ago
+   &#9733 620, pushed 468 days ago
   </span>
   -
   <em>
@@ -344,7 +344,7 @@
    Screengif
   </a>
   <span>
-   &#9733 623, pushed 0 days ago
+   &#9733 623, pushed 1 days ago
   </span>
   -
   <em>
@@ -368,7 +368,7 @@
    gifdeck
   </a>
   <span>
-   &#9733 90, pushed 325 days ago
+   &#9733 90, pushed 326 days ago
   </span>
   -
   <em>
@@ -392,7 +392,7 @@
    Gif-camera
   </a>
   <span>
-   &#9733 18, pushed 1032 days ago
+   &#9733 18, pushed 1033 days ago
   </span>
   -
   <em>
@@ -416,7 +416,7 @@
    Gifdrop
   </a>
   <span>
-   &#9733 33, pushed 97 days ago
+   &#9733 33, pushed 98 days ago
   </span>
   -
   <em>
@@ -428,7 +428,7 @@
    Gh-gif
   </a>
   <span>
-   &#9733 20, pushed 248 days ago
+   &#9733 20, pushed 249 days ago
   </span>
   -
   <em>
@@ -440,7 +440,7 @@
    Tty2gif
   </a>
   <span>
-   &#9733 115, pushed 368 days ago
+   &#9733 115, pushed 369 days ago
   </span>
   -
   <em>
@@ -566,7 +566,7 @@
    XamlAnimatedGif
   </a>
   <span>
-   &#9733 9, pushed 13 days ago
+   &#9733 9, pushed 14 days ago
   </span>
   -
   <em>
@@ -612,7 +612,7 @@
    gifanimateddrawable
   </a>
   <span>
-   &#9733 201, pushed 719 days ago
+   &#9733 201, pushed 720 days ago
   </span>
   -
   <em>
@@ -660,7 +660,7 @@
    Gif-animation
   </a>
   <span>
-   &#9733 73, pushed 103 days ago
+   &#9733 73, pushed 104 days ago
   </span>
   -
   <em>
@@ -672,7 +672,7 @@
    Android-gif-encoder
   </a>
   <span>
-   &#9733 121, pushed 1482 days ago
+   &#9733 121, pushed 1483 days ago
   </span>
   -
   <em>
@@ -684,7 +684,7 @@
    GIFDroid
   </a>
   <span>
-   &#9733 57, pushed 270 days ago
+   &#9733 57, pushed 271 days ago
   </span>
   -
   <em>
@@ -696,7 +696,7 @@
    Android-GifStitch
   </a>
   <span>
-   &#9733 36, pushed 1527 days ago
+   &#9733 36, pushed 1528 days ago
   </span>
   -
   <em>
@@ -737,7 +737,7 @@
    Animated_GIF
   </a>
   <span>
-   &#9733 117, pushed 246 days ago
+   &#9733 117, pushed 247 days ago
   </span>
   -
   <em>
@@ -784,7 +784,7 @@
    node-gify
   </a>
   <span>
-   &#9733 181, pushed 668 days ago
+   &#9733 181, pushed 669 days ago
   </span>
   -
   <em>
@@ -808,7 +808,7 @@
    Gif-video
   </a>
   <span>
-   &#9733 51, pushed 714 days ago
+   &#9733 51, pushed 715 days ago
   </span>
   -
   <em>
@@ -832,7 +832,7 @@
    GifgifLab-face
   </a>
   <span>
-   &#9733 4, pushed 453 days ago
+   &#9733 4, pushed 454 days ago
   </span>
   -
   <em>
@@ -873,7 +873,7 @@
    GifFrameExtractor
   </a>
   <span>
-   &#9733 68, pushed 334 days ago
+   &#9733 68, pushed 335 days ago
   </span>
   -
   <em>
@@ -938,7 +938,7 @@
    FLAnimatedImage
   </a>
   <span>
-   &#9733 4102, pushed 4 days ago
+   &#9733 4102, pushed 5 days ago
   </span>
   -
   <em>
@@ -1051,7 +1051,7 @@
    Gifu
   </a>
   <span>
-   &#9733 1251, pushed 1 days ago
+   &#9733 1251, pushed 2 days ago
   </span>
   -
   <em>
@@ -1106,7 +1106,7 @@
    VineGifR
   </a>
   <span>
-   &#9733 87, pushed 1184 days ago
+   &#9733 87, pushed 1185 days ago
   </span>
   -
   <em>
@@ -1118,7 +1118,7 @@
    GifPro
   </a>
   <span>
-   &#9733 34, pushed 1625 days ago
+   &#9733 34, pushed 1626 days ago
   </span>
   -
   <em>
@@ -1229,7 +1229,7 @@
    Starwars-dot-gif
   </a>
   <span>
-   &#9733 457, pushed 28 days ago
+   &#9733 457, pushed 29 days ago
   </span>
   -
   <em>

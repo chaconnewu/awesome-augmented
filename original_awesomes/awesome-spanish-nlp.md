@@ -1,84 +1,337 @@
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-Curated list of Linguistic Resources for doing Spanish NLP & CL.
-
-# Speech
-
-- [Mexican Spanish Speech Recognition DB - 150 Speakers](http://www.speechocean.com/en-ASR-Corpora/631.html)
-- [Mexican Spanish Speech Recognition DB - 299 Speakers](http://www.speechocean.com/en-ASR-Corpora/603.html)
-- [Phonetic Transcriptions of Spanish Pronunciation Lexicon](http://www.speechocean.com/en-Text-Corpora/692.html)
-- [Sphinx Speech Recognition Models](http://www.speech.cs.cmu.edu/sphinx/models/hub4spanish_itesm/)
-
-## Part of Speech Taggers (POS Taggers)
-- [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
-- [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
-- [Freeling](http://nlp.lsi.upc.edu/freeling/)
-- [ixa-pipe-pos](https://github.com/ixa-ehu/ixa-pipe-pos)
-- [Ruby Snowball Implementation](https://github.com/MaG21/estem)
-- [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
-
-# Multiword Expressions  Extractors (MLWE)
-- [Freeling](http://nlp.lsi.upc.edu/freeling/)
-
-## Name Entity Recognition (NER)
-- [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/)
-- [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
-
-## Corpora
-
-### Shared tasks
-- [Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
-- [CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages](http://ufal.mff.cuni.cz/conll2009-st/trial-data.html)
-- [Quality Estimation (Spanish - English) WMT13](http://www.quest.dcs.shef.ac.uk/wmt13_qe.html)
-- [ ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages](http://www.statmt.org/wmt10/translation-task.html)
-- [TASS - 2014 (Sentiment Analysis focused on Spanish)](http://www.daedalus.es/TASS2014/tass2014.php)
-- [SemEval-2 2010 Coreference Resolution in Multiple Languages](http://semeval2.fbk.eu/semeval2.php?location=tasks)
-
-
-### Corpora
-- [Multilingual Aligned Annotated Corpus (CRATER)](http://catalog.elra.info/product_info.php?products_id=636)
-- [UAM Treebank - 1,500 syntactically annotated sentences extracted from newspapers (El País Digital and Compra Maestra](http://elvira.lllf.uam.es/~sandoval/UAMTreebank.html)
-- [POSTagged/syntactic dependencies - European Corpus Initiative Multilingual Corpus I ](http://www.elsnet.org/resources/eciCorpus.html)
-- [The Corpus of Contemporary Spanish(POStags, lemmas)](http://sfncorpora.uab.es/CQPweb/cea/)
-- [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
-- [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
-- [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches](https://github.com/dav009/LatinamericanTextResources)
-- [South American Slang Expressions/MTWE](https://github.com/dav009/LatinamericanTextResources)
-- [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
-- [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
-- [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
-- [Reuters Corpora RCV2 - New Corpora](http://trec.nist.gov/data/reuters/reuters.html)
-- [MolinoLabs Corpus - News Corpora from Spain, Argentina and Mexico](http://www.molinolabs.com/corpus.html)
-- [PANACEA- Legislation Corpus](http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora)
-- [PANACEA- Legislation Ngram Corpus](http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora-n-grams/)
-- [PANACEA- Dependency Parsed Corpus](http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/)
-- [PANACEA- Monolingual Lexica (MWE, Frames, Semantic Classes)](http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-lexica/)
-- [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/~mtaboada/research/SFU_Review_Corpus.html)
-- [Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish)](http://www.celct.it/resources.php?id_page=CLTE)
-- [Ngram Frequencies out of Colombia News Corpora](http://ngrams.cavorite.com/datos/)
-- [Sagan Textual Entailment Test Suite](http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/)
-- [Garcia, Marcos and Pablo Gamallo, 2013 - Portuguese and Spanish biographical relation extraction corpora (Garcia, Marcos and Pablo Gamallo, 2013. Exploring the Effectiveness of Linguistic Knowledge for Biographical Relation Extraction. Natural Language Engineering, CJO2013. doi:10.1017/S1351324913000314.)](http://gramatica.usc.es/~marcos/corpora_nle.tgz)
-- [Garcia, Marcos and Pablo Gamallo, 2014 - Portuguese, Spanish and Galician coreference corpora (Garcia, Marcos and Pablo Gamallo, 2014. Multilingual corpora with coreferential annotation of person entities. In Proceedings of the 9th edition of the Language Resources and Evaluation Conference (LREC 2014), Reykjavik: 3229-3233.)](http://gramatica.usc.es/~marcos/resources/corpora_coref.tar.bz2)
-- [COW(Corpora From the Web) Ngram/Annotated People's Name Corpora ](http://hpsg.fu-berlin.de/cow/)
-- [Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS](http://www.cs.upc.edu/~nlp/wikicorpus/)
-
-
-## Misc
-
-- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec)
-- [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
-- [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
-- [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.
+<h1>
+ Awesome Linguistics Resources for Spanish
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+</h1>
+<p>
+ Curated list of Linguistic Resources for doing Spanish NLP & CL.
+</p>
+<h1>
+ Speech
+</h1>
+<ul>
+ <li>
+  <a href="http://www.speechocean.com/en-ASR-Corpora/631.html">
+   Mexican Spanish Speech Recognition DB - 150 Speakers
+  </a>
+ </li>
+ <li>
+  <a href="http://www.speechocean.com/en-ASR-Corpora/603.html">
+   Mexican Spanish Speech Recognition DB - 299 Speakers
+  </a>
+ </li>
+ <li>
+  <a href="http://www.speechocean.com/en-Text-Corpora/692.html">
+   Phonetic Transcriptions of Spanish Pronunciation Lexicon
+  </a>
+ </li>
+ <li>
+  <a href="http://www.speech.cs.cmu.edu/sphinx/models/hub4spanish_itesm/">
+   Sphinx Speech Recognition Models
+  </a>
+ </li>
+</ul>
+<h2>
+ Part of Speech Taggers (POS Taggers)
+</h2>
+<ul>
+ <li>
+  <a href="http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/">
+   TreeTagger - POSTagger
+  </a>
+ </li>
+ <li>
+  <a href="http://nlp.stanford.edu/software/tagger.shtml">
+   Stanford - POSTagger
+  </a>
+ </li>
+ <li>
+  <a href="http://nlp.lsi.upc.edu/freeling/">
+   Freeling
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/ixa-ehu/ixa-pipe-pos">
+   ixa-pipe-pos
+  </a>
+  <sup>
+   5 GitHub links in total 50 links, &#9733 5, pushed 11 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MaG21/estem">
+   Ruby Snowball Implementation
+  </a>
+  <sup>
+   5 GitHub links in total 50 links, &#9733 3, pushed 1224 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://code.google.com/p/spaghetti-tagger/">
+   Spaguetti POSTagger(Based on NLTK +  CESS corpus
+  </a>
+ </li>
+</ul>
+<h1>
+ Multiword Expressions  Extractors (MLWE)
+</h1>
+<ul>
+ <li>
+  <a href="http://nlp.lsi.upc.edu/freeling/">
+   Freeling
+  </a>
+ </li>
+</ul>
+<h2>
+ Name Entity Recognition (NER)
+</h2>
+<ul>
+ <li>
+  <a href="http://opennlp.sourceforge.net/models-1.5/">
+   OpenNLP - Person/Place/Organization models
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/dbpedia-spotlight/dbpedia-spotlight/">
+   DBPedia Spotlight
+  </a>
+ </li>
+ <li>
+  <a href="http://gramatica.usc.es/pln/tools/CitiusTools.html">
+   CitiusTagger - Spanish NER and  POSTagger
+  </a>
+ </li>
+</ul>
+<h2>
+ Corpora
+</h2>
+<h3>
+ Shared tasks
+</h3>
+<ul>
+ <li>
+  <a href="http://www.statmt.org/wmt06/shared-task/">
+   Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City
+  </a>
+ </li>
+ <li>
+  <a href="http://ufal.mff.cuni.cz/conll2009-st/trial-data.html">
+   CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages
+  </a>
+ </li>
+ <li>
+  <a href="http://www.quest.dcs.shef.ac.uk/wmt13_qe.html">
+   Quality Estimation (Spanish - English) WMT13
+  </a>
+ </li>
+ <li>
+  <a href="http://www.statmt.org/wmt10/translation-task.html">
+   ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages
+  </a>
+ </li>
+ <li>
+  <a href="http://www.daedalus.es/TASS2014/tass2014.php">
+   TASS - 2014 (Sentiment Analysis focused on Spanish)
+  </a>
+ </li>
+ <li>
+  <a href="http://semeval2.fbk.eu/semeval2.php?location=tasks">
+   SemEval-2 2010 Coreference Resolution in Multiple Languages
+  </a>
+ </li>
+</ul>
+<h3>
+ Corpora
+</h3>
+<ul>
+ <li>
+  <a href="http://catalog.elra.info/product_info.php?products_id=636">
+   Multilingual Aligned Annotated Corpus (CRATER)
+  </a>
+ </li>
+ <li>
+  <a href="http://elvira.lllf.uam.es/~sandoval/UAMTreebank.html">
+   UAM Treebank - 1,500 syntactically annotated sentences extracted from newspapers (El País Digital and Compra Maestra
+  </a>
+ </li>
+ <li>
+  <a href="http://www.elsnet.org/resources/eciCorpus.html">
+   POSTagged/syntactic dependencies - European Corpus Initiative Multilingual Corpus I
+  </a>
+ </li>
+ <li>
+  <a href="http://sfncorpora.uab.es/CQPweb/cea/">
+   The Corpus of Contemporary Spanish(POStags, lemmas)
+  </a>
+ </li>
+ <li>
+  <a href="http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms">
+   Lemmas Dictionary
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen">
+   esTenten Spanish (POSTagged)
+  </a>
+ </li>
+ <li>
+  <a href="http://www.statmt.org/europarl/">
+   Europarl Corpus (Parallel Corpus English-Spanish)
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/dav009/LatinamericanTextResources">
+   Colombian Political Speeches
+  </a>
+  <sup>
+   5 GitHub links in total 50 links, &#9733 1, pushed 1012 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dav009/LatinamericanTextResources">
+   South American Slang Expressions/MTWE
+  </a>
+  <sup>
+   5 GitHub links in total 50 links, &#9733 1, pushed 1012 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip">
+   Syntax and Semantic Annotations (Subset Ancora Corpus)
+  </a>
+ </li>
+ <li>
+  <a href="http://www.iula.upf.edu/corpus/corpusuk.htm">
+   Plurilingual Specific Corpus on Economics, Medicine, Computer Science
+  </a>
+ </li>
+ <li>
+  <a href="http://code.google.com/p/copenhagen-dependency-treebank/">
+   Copenhagen  Treebank (Dependency Parsing)
+  </a>
+ </li>
+ <li>
+  <a href="http://trec.nist.gov/data/reuters/reuters.html">
+   Reuters Corpora RCV2 - New Corpora
+  </a>
+ </li>
+ <li>
+  <a href="http://www.molinolabs.com/corpus.html">
+   MolinoLabs Corpus - News Corpora from Spain, Argentina and Mexico
+  </a>
+ </li>
+ <li>
+  <a href="http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora">
+   PANACEA- Legislation Corpus
+  </a>
+ </li>
+ <li>
+  <a href="http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora-n-grams/">
+   PANACEA- Legislation Ngram Corpus
+  </a>
+ </li>
+ <li>
+  <a href="http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/">
+   PANACEA- Dependency Parsed Corpus
+  </a>
+ </li>
+ <li>
+  <a href="http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-lexica/">
+   PANACEA- Monolingual Lexica (MWE, Frames, Semantic Classes)
+  </a>
+ </li>
+ <li>
+  <a href="https://www.sfu.ca/~mtaboada/research/SFU_Review_Corpus.html">
+   Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..
+  </a>
+ </li>
+ <li>
+  <a href="http://www.celct.it/resources.php?id_page=CLTE">
+   Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish)
+  </a>
+ </li>
+ <li>
+  <a href="http://ngrams.cavorite.com/datos/">
+   Ngram Frequencies out of Colombia News Corpora
+  </a>
+ </li>
+ <li>
+  <a href="http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/">
+   Sagan Textual Entailment Test Suite
+  </a>
+ </li>
+ <li>
+  <a href="http://gramatica.usc.es/~marcos/corpora_nle.tgz">
+   Garcia, Marcos and Pablo Gamallo, 2013 - Portuguese and Spanish biographical relation extraction corpora (Garcia, Marcos and Pablo Gamallo, 2013. Exploring the Effectiveness of Linguistic Knowledge for Biographical Relation Extraction. Natural Language Engineering, CJO2013. doi:10.1017/S1351324913000314.)
+  </a>
+ </li>
+ <li>
+  <a href="http://gramatica.usc.es/~marcos/resources/corpora_coref.tar.bz2">
+   Garcia, Marcos and Pablo Gamallo, 2014 - Portuguese, Spanish and Galician coreference corpora (Garcia, Marcos and Pablo Gamallo, 2014. Multilingual corpora with coreferential annotation of person entities. In Proceedings of the 9th edition of the Language Resources and Evaluation Conference (LREC 2014), Reykjavik: 3229-3233.)
+  </a>
+ </li>
+ <li>
+  <a href="http://hpsg.fu-berlin.de/cow/">
+   COW(Corpora From the Web) Ngram/Annotated People's Name Corpora
+  </a>
+ </li>
+ <li>
+  <a href="http://www.cs.upc.edu/~nlp/wikicorpus/">
+   Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS
+  </a>
+ </li>
+</ul>
+<h2>
+ Misc
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/idio/wiki2vec">
+   Word2Vec vectors for Wikipedia Spanish Articles
+  </a>
+  <sup>
+   5 GitHub links in total 50 links, &#9733 184, pushed 57 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2">
+   DBpedia Spanish Entities Titles
+  </a>
+ </li>
+ <li>
+  <a href="http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2">
+   DBpedia Spanish Abstracts
+  </a>
+ </li>
+ <li>
+  <a href="http://gramatica.usc.es/pln/tools/conjugador/download.html">
+   Conshuga - Galician Verb conjugator
+  </a>
+ </li>
+</ul>
+<h2>
+ Contribute
+</h2>
+<p>
+ Contributions welcome! Read the
+ <a href="contributing.md">
+  contribution guidelines
+ </a>
+ first.
+</p>
+<h2>
+ License
+</h2>
+<p>
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+  <img alt="CC0" src="https://i.creativecommons.org/p/zero/1.0/88x31.png"/>
+ </a>
+</p>
+<p>
+ To the extent possible under law,
+ <a href="http://alejandro.pictures">
+  David Przybilla
+ </a>
+ has waived all copyright and related or neighboring rights to this work.
+</p>

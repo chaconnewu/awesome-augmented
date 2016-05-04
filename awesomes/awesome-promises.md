@@ -72,7 +72,7 @@
    Promise Cookbook
   </a>
   <span>
-   &#9733 810, pushed 165 days ago
+   &#9733 810, pushed 166 days ago
   </span>
   - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
  </li>
@@ -258,7 +258,7 @@
    lie
   </a>
   <span>
-   &#9733 428, pushed 2 days ago
+   &#9733 428, pushed 3 days ago
   </span>
   - Small, browserifyable with an opt-in polyfill.
  </li>
@@ -320,7 +320,7 @@
    when.js
   </a>
   <span>
-   &#9733 2925, pushed 4 days ago
+   &#9733 2925, pushed 5 days ago
   </span>
   - Packed with control flow, functional, and utility methods.
  </li>
@@ -503,7 +503,7 @@
    is-promise
   </a>
   <span>
-   &#9733 22, pushed 131 days ago
+   &#9733 22, pushed 132 days ago
   </span>
   - Determine if something looks like a Promise.
  </li>
@@ -512,7 +512,7 @@
    sprom
   </a>
   <span>
-   &#9733 10, pushed 131 days ago
+   &#9733 10, pushed 132 days ago
   </span>
   - Resolve when a stream ends. Optional buffering (be careful with this!)
  </li>
@@ -597,7 +597,7 @@
    promise-until
   </a>
   <span>
-   &#9733 0, pushed 159 days ago
+   &#9733 0, pushed 160 days ago
   </span>
   - Calls a function repeatedly if a condition returns false and until the condition returns true and then resolves the promise.
  </li>
@@ -606,7 +606,7 @@
    promise-do-until
   </a>
   <span>
-   &#9733 0, pushed 159 days ago
+   &#9733 0, pushed 160 days ago
   </span>
   - Calls a function repeatedly until a condition returns true and then resolves the promise.
  </li>
@@ -615,7 +615,7 @@
    promise-do-whilst
   </a>
   <span>
-   &#9733 0, pushed 159 days ago
+   &#9733 0, pushed 160 days ago
   </span>
   - Calls a function repeatedly while a condition returns true and then resolves the promise.
  </li>

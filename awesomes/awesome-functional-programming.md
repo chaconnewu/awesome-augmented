@@ -359,7 +359,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
    Idris Koans
   </a>
   <span>
-   &#9733 76, pushed 235 days ago
+   &#9733 76, pushed 236 days ago
   </span>
   - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
  </li>
@@ -368,7 +368,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
    Functional Javascript Workshop
   </a>
   <span>
-   &#9733 1017, pushed 45 days ago
+   &#9733 1017, pushed 46 days ago
   </span>
   - A functional Javascript workshop.
  </li>
@@ -407,7 +407,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
    Functional Programming In JavaScript
   </a>
   <span>
-   &#9733 139, pushed 100 days ago
+   &#9733 139, pushed 101 days ago
   </span>
   - List of functional programming resources in JavaScript.
  </li>

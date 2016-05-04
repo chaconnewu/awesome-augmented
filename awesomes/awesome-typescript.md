@@ -57,7 +57,7 @@
    Microsoft/TypeScript on Github
   </a>
   <span>
-   &#9733 11210, pushed 1 days ago
+   &#9733 11210, pushed 2 days ago
   </span>
   fork TypeScript on Github! Or... just read the code
  </li>
@@ -384,7 +384,7 @@
    - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.
   </a>
   <span>
-   &#9733 24, pushed 1 days ago
+   &#9733 24, pushed 2 days ago
   </span>
  </li>
 </ul>
@@ -508,7 +508,7 @@
    palantir/plottable
   </a>
   <span>
-   &#9733 983, pushed 3 days ago
+   &#9733 983, pushed 4 days ago
   </span>
   - A library of modular chart components, built on
   <code>
@@ -527,7 +527,7 @@
    Visual Studio Code
   </a>
   <span>
-   &#9733 13794, pushed 1 days ago
+   &#9733 13794, pushed 2 days ago
   </span>
   - Multiplatform IDE.
  </li>

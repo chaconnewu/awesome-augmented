@@ -1081,7 +1081,7 @@
      Pixi.js
     </a>
     <span>
-     &#9733 10286, pushed 1 days ago
+     &#9733 10286, pushed 2 days ago
     </span>
    </li>
    <li>
@@ -1097,7 +1097,7 @@
      MelonJS
     </a>
     <span>
-     &#9733 1593, pushed 2 days ago
+     &#9733 1593, pushed 3 days ago
     </span>
    </li>
    <li>
@@ -1113,7 +1113,7 @@
      Crafty
     </a>
     <span>
-     &#9733 2065, pushed 0 days ago
+     &#9733 2065, pushed 1 days ago
     </span>
    </li>
    <li>
@@ -1309,7 +1309,7 @@
    lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
  </li>
 </ul>

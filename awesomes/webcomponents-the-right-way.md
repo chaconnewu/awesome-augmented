@@ -321,7 +321,7 @@
    Interop Sass
   </a>
   <span>
-   &#9733 35, pushed 340 days ago
+   &#9733 35, pushed 341 days ago
   </span>
   A demo of interoperability between Sass and Polymer.
  </li>
@@ -330,7 +330,7 @@
    Interop Less
   </a>
   <span>
-   &#9733 16, pushed 340 days ago
+   &#9733 16, pushed 341 days ago
   </span>
   A demo of interoperability between Less and Polymer.
  </li>
@@ -339,7 +339,7 @@
    Interop Angular
   </a>
   <span>
-   &#9733 35, pushed 521 days ago
+   &#9733 35, pushed 522 days ago
   </span>
   A demo of interoperability between Polymer and AngularJs.
  </li>
@@ -359,7 +359,7 @@
    Generator Elements
   </a>
   <span>
-   &#9733 116, pushed 4 days ago
+   &#9733 116, pushed 5 days ago
   </span>
   A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
  </li>
@@ -406,7 +406,7 @@
    Seed-Element
   </a>
   <span>
-   &#9733 276, pushed 19 days ago
+   &#9733 276, pushed 20 days ago
   </span>
   Polymer element boilerplate Tests
  </li>
@@ -415,7 +415,7 @@
    Web Component Tester
   </a>
   <span>
-   &#9733 316, pushed 2 days ago
+   &#9733 316, pushed 3 days ago
   </span>
   web-component-tester makes testing your web components a breeze!
  </li>
@@ -608,7 +608,7 @@
    Vulcanize
   </a>
   <span>
-   &#9733 1035, pushed 11 days ago
+   &#9733 1035, pushed 12 days ago
   </span>
   Concatenate a set of Web Components into one file
  </li>
@@ -622,7 +622,7 @@
    Polymer Boilerplate
   </a>
   <span>
-   &#9733 358, pushed 300 days ago
+   &#9733 358, pushed 301 days ago
   </span>
   A bare minimum custom element starter-kit using Polymer.
  </li>
@@ -631,7 +631,7 @@
    X-Tag Boilerplate
   </a>
   <span>
-   &#9733 45, pushed 340 days ago
+   &#9733 45, pushed 341 days ago
   </span>
   A bare minimum custom element starter-kit using X-Tag.
  </li>
@@ -640,7 +640,7 @@
    VanillaJS Boilerplate
   </a>
   <span>
-   &#9733 166, pushed 340 days ago
+   &#9733 166, pushed 341 days ago
   </span>
   A bare minimum custom element starter-kit using VanillaJS.
  </li>

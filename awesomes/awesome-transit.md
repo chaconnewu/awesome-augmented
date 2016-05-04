@@ -296,7 +296,7 @@
    Bus Tracking GPS
   </a>
   <span>
-   &#9733 3, pushed 62 days ago
+   &#9733 3, pushed 63 days ago
   </span>
   - Code for Miami prototype of a cheap open-source solution to track transit buses.
  </li>
@@ -354,7 +354,7 @@
    HRT BUS Web app
   </a>
   <span>
-   &#9733 14, pushed 19 days ago
+   &#9733 14, pushed 20 days ago
   </span>
   - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
  </li>
@@ -363,7 +363,7 @@
    Transit-Map
   </a>
   <span>
-   &#9733 217, pushed 333 days ago
+   &#9733 217, pushed 334 days ago
   </span>
   - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
  </li>
@@ -464,7 +464,7 @@
    OpenTripPlanner iOS
   </a>
   <span>
-   &#9733 57, pushed 1222 days ago
+   &#9733 57, pushed 1223 days ago
   </span>
   - An iOS app for
   <a href="http://www.opentripplanner.org/">
@@ -591,7 +591,7 @@
    Mapzen GTFS
   </a>
   <span>
-   &#9733 7, pushed 227 days ago
+   &#9733 7, pushed 228 days ago
   </span>
   - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
  </li>
@@ -600,7 +600,7 @@
    gtfsdb
   </a>
   <span>
-   &#9733 25, pushed 3 days ago
+   &#9733 25, pushed 4 days ago
   </span>
   - Python library for converting GTFS files into a relational database.
  </li>
@@ -672,7 +672,7 @@
    GTFS-viz
   </a>
   <span>
-   &#9733 48, pushed 43 days ago
+   &#9733 48, pushed 44 days ago
   </span>
   - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the
   <a href="https://github.com/vasile/transit-map">
@@ -685,7 +685,7 @@
    GTFS-OSM-Sync
   </a>
   <span>
-   &#9733 38, pushed 88 days ago
+   &#9733 38, pushed 89 days ago
   </span>
   - A Java tool for syncrhonizing data in GTFS format with
   <a href="http://www.openstreetmap.org/">
@@ -742,7 +742,7 @@
    gtfs-sequelize
   </a>
   <span>
-   &#9733 7, pushed 5 days ago
+   &#9733 7, pushed 6 days ago
   </span>
   - Node.js library modeling the static GTFS using
   <a href="http://sequelizejs.com/">
@@ -791,7 +791,7 @@
    GTFS-realtime to SQL
   </a>
   <span>
-   &#9733 8, pushed 279 days ago
+   &#9733 8, pushed 280 days ago
   </span>
   - Parses a GTFS-RealTime feed into an SQL database (used in
   <a href="http://transitfeeds.com/">
@@ -869,7 +869,7 @@
    Syncromatics API to GTFS-realtime
   </a>
   <span>
-   &#9733 0, pushed 108 days ago
+   &#9733 0, pushed 109 days ago
   </span>
   - A Java-based command-line utility to convert from the
   <a href="http://www.syncromatics.com/">
@@ -882,7 +882,7 @@
    KV6,15,17, and ARNU to GTFS-realtime
   </a>
   <span>
-   &#9733 0, pushed 543 days ago
+   &#9733 0, pushed 544 days ago
   </span>
   - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
  </li>
@@ -891,7 +891,7 @@
    WMATA BusPositions API to GTFS-realtime
   </a>
   <span>
-   &#9733 11, pushed 446 days ago
+   &#9733 11, pushed 447 days ago
   </span>
   - Java-based tool to convert from WMATA's
   <a href="https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68">
@@ -940,7 +940,7 @@
    Detroit DOT to GTFS-realtime
   </a>
   <span>
-   &#9733 1, pushed 814 days ago
+   &#9733 1, pushed 815 days ago
   </span>
   - Extract real-time info from
   <a href="http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules">
@@ -966,7 +966,7 @@
    SoundTransit to GTFS-realtime
   </a>
   <span>
-   &#9733 2, pushed 1540 days ago
+   &#9733 2, pushed 1541 days ago
   </span>
   - Convert text file feed from
   <a href="http://www.soundtransit.org/">
@@ -979,7 +979,7 @@
    Civic Transit
   </a>
   <span>
-   &#9733 2, pushed 1065 days ago
+   &#9733 2, pushed 1066 days ago
   </span>
   - Screen-scrapes
   <a href="http://www.kcata.org/">
@@ -1033,7 +1033,7 @@
    SIRI 2.0 API
   </a>
   <span>
-   &#9733 0, pushed 88 days ago
+   &#9733 0, pushed 89 days ago
   </span>
   - Java classes generated from the v2.0
   <a href="http://user47094.vs.easily.co.uk/siri/">

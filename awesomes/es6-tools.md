@@ -14,7 +14,7 @@
    Babel
   </a>
   <span>
-   &#9733 15314, pushed 1 days ago
+   &#9733 15314, pushed 2 days ago
   </span>
   - Turn ES6+ code into vanilla ES5 with no runtime
  </li>
@@ -23,7 +23,7 @@
    Traceur compiler
   </a>
   <span>
-   &#9733 6538, pushed 3 days ago
+   &#9733 6538, pushed 4 days ago
   </span>
   - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
  </li>
@@ -68,7 +68,7 @@
    es6-module-transpiler
   </a>
   <span>
-   &#9733 1205, pushed 196 days ago
+   &#9733 1205, pushed 197 days ago
   </span>
   - ES6 modules to AMD or CJS
  </li>
@@ -88,7 +88,7 @@
    jstransform
   </a>
   <span>
-   &#9733 410, pushed 143 days ago
+   &#9733 410, pushed 144 days ago
   </span>
   - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
  </li>
@@ -97,7 +97,7 @@
    defs
   </a>
   <span>
-   &#9733 115, pushed 206 days ago
+   &#9733 115, pushed 207 days ago
   </span>
   - ES6 block-scoped const and let variables to ES3 vars
  </li>
@@ -192,7 +192,7 @@
    gulp-es6-module-transpiler
   </a>
   <span>
-   &#9733 57, pushed 51 days ago
+   &#9733 57, pushed 52 days ago
   </span>
  </li>
  <li>
@@ -270,7 +270,7 @@
    grunt-es6-module-transpiler
   </a>
   <span>
-   &#9733 90, pushed 72 days ago
+   &#9733 90, pushed 73 days ago
   </span>
  </li>
  <li>
@@ -288,7 +288,7 @@
    grunt-microlib
   </a>
   <span>
-   &#9733 29, pushed 1019 days ago
+   &#9733 29, pushed 1020 days ago
   </span>
   - tools for libs using ES6 module transpiler (sample
   <a href="https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js">
@@ -387,7 +387,7 @@
    broccoli-tsc
   </a>
   <span>
-   &#9733 1, pushed 348 days ago
+   &#9733 1, pushed 349 days ago
   </span>
  </li>
 </ul>
@@ -410,7 +410,7 @@
    es6-module-transpiler-brunch
   </a>
   <span>
-   &#9733 9, pushed 889 days ago
+   &#9733 9, pushed 890 days ago
   </span>
  </li>
  <li>
@@ -442,7 +442,7 @@
    traceur-compiler-loader
   </a>
   <span>
-   &#9733 4, pushed 421 days ago
+   &#9733 4, pushed 422 days ago
   </span>
  </li>
  <li>
@@ -474,7 +474,7 @@
    duo-typescript
   </a>
   <span>
-   &#9733 0, pushed 327 days ago
+   &#9733 0, pushed 328 days ago
   </span>
  </li>
 </ul>
@@ -488,7 +488,7 @@
    babel-connect
   </a>
   <span>
-   &#9733 19, pushed 159 days ago
+   &#9733 19, pushed 160 days ago
   </span>
  </li>
  <li>
@@ -577,7 +577,7 @@
    karma-traceur-preprocessor
   </a>
   <span>
-   &#9733 16, pushed 196 days ago
+   &#9733 16, pushed 197 days ago
   </span>
  </li>
  <li>
@@ -628,7 +628,7 @@
    Scratch JS
   </a>
   <span>
-   &#9733 288, pushed 67 days ago
+   &#9733 288, pushed 68 days ago
   </span>
   - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
  </li>
@@ -675,7 +675,7 @@
    js-loaders
   </a>
   <span>
-   &#9733 55, pushed 794 days ago
+   &#9733 55, pushed 795 days ago
   </span>
   - Mozilla's spec-compliant loader prototype
  </li>
@@ -698,7 +698,7 @@
    beck.js
   </a>
   <span>
-   &#9733 5, pushed 867 days ago
+   &#9733 5, pushed 868 days ago
   </span>
   - toolkit for ES6 Module Loader pipelines, shim for legacy environments
  </li>
@@ -712,7 +712,7 @@
    es6-boilerplate
   </a>
   <span>
-   &#9733 82, pushed 667 days ago
+   &#9733 82, pushed 668 days ago
   </span>
   - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
  </li>
@@ -744,7 +744,7 @@
    generator-es6-babel
   </a>
   <span>
-   &#9733 9, pushed 240 days ago
+   &#9733 9, pushed 241 days ago
   </span>
   - Yeoman generator for Babel apps
  </li>
@@ -753,7 +753,7 @@
    generator-gulp-babelify
   </a>
   <span>
-   &#9733 2, pushed 143 days ago
+   &#9733 2, pushed 144 days ago
   </span>
   - Yeoman generator for
   <a href="https://babeljs.io/">
@@ -779,7 +779,7 @@
    Loom generators with ES6 ember modules
   </a>
   <span>
-   &#9733 15, pushed 884 days ago
+   &#9733 15, pushed 885 days ago
   </span>
  </li>
  <li>
@@ -830,7 +830,7 @@
    WeakMap shim
   </a>
   <span>
-   &#9733 38, pushed 566 days ago
+   &#9733 38, pushed 567 days ago
   </span>
  </li>
  <li>
@@ -880,7 +880,7 @@
    </code>
   </a>
   <span>
-   &#9733 44, pushed 289 days ago
+   &#9733 44, pushed 290 days ago
   </span>
  </li>
  <li>
@@ -940,7 +940,7 @@
    </code>
   </a>
   <span>
-   &#9733 11, pushed 118 days ago
+   &#9733 11, pushed 119 days ago
   </span>
  </li>
  <li>
@@ -1015,7 +1015,7 @@
    </code>
   </a>
   <span>
-   &#9733 6, pushed 1171 days ago
+   &#9733 6, pushed 1172 days ago
   </span>
  </li>
  <li>
@@ -1028,7 +1028,7 @@
    ES6 Symbol polyfill
   </a>
   <span>
-   &#9733 55, pushed 1 days ago
+   &#9733 55, pushed 2 days ago
   </span>
  </li>
  <li>
@@ -1044,7 +1044,7 @@
    harmony-reflect
   </a>
   <span>
-   &#9733 291, pushed 13 days ago
+   &#9733 291, pushed 14 days ago
   </span>
   - ES6
   <a href="http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api">
@@ -1073,7 +1073,7 @@
    Sublime Text and TextMate
   </a>
   <span>
-   &#9733 456, pushed 12 days ago
+   &#9733 456, pushed 13 days ago
   </span>
  </li>
  <li>
@@ -1096,7 +1096,7 @@
    plugin
   </a>
   <span>
-   &#9733 2, pushed 264 days ago
+   &#9733 2, pushed 265 days ago
   </span>
   for Traceur
  </li>
@@ -1146,7 +1146,7 @@
    esparse
   </a>
   <span>
-   &#9733 91, pushed 24 days ago
+   &#9733 91, pushed 25 days ago
   </span>
   - ES6 parser written in ES6.
  </li>
@@ -1179,7 +1179,7 @@
    looper
   </a>
   <span>
-   &#9733 13, pushed 939 days ago
+   &#9733 13, pushed 940 days ago
   </span>
   - static analysis tools for ES6
  </li>
@@ -1273,7 +1273,7 @@
    Isparta
   </a>
   <span>
-   &#9733 490, pushed 37 days ago
+   &#9733 490, pushed 38 days ago
   </span>
  </li>
  <li>

@@ -968,7 +968,7 @@ on_rails
    jnv/lists
   </a>
   <span>
-   &#9733 3765, pushed 1 days ago
+   &#9733 3765, pushed 2 days ago
   </span>
   - List of (awesome) lists curated on GitHub
  </li>

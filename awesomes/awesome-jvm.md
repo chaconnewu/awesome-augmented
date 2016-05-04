@@ -134,7 +134,7 @@
    Jitescript
   </a>
   <span>
-   &#9733 127, pushed 311 days ago
+   &#9733 127, pushed 312 days ago
   </span>
   - Bytecode generation library similar to BiteScript.
  </li>
@@ -187,7 +187,7 @@
    wrk2
   </a>
   <span>
-   &#9733 526, pushed 131 days ago
+   &#9733 526, pushed 132 days ago
   </span>
   - A constant throughput, correct latency recording variant of wrk.
  </li>
@@ -337,7 +337,7 @@
    caffeine
   </a>
   <span>
-   &#9733 1295, pushed 2 days ago
+   &#9733 1295, pushed 3 days ago
   </span>
   - A high performance caching library for Java 8.
  </li>
@@ -355,7 +355,7 @@
    clj-ds
   </a>
   <span>
-   &#9733 179, pushed 921 days ago
+   &#9733 179, pushed 922 days ago
   </span>
   - Clojure's data structures modified for use outside of Clojure.
  </li>
@@ -364,7 +364,7 @@
    java-concurrent-hash-trie-map
   </a>
   <span>
-   &#9733 82, pushed 59 days ago
+   &#9733 82, pushed 60 days ago
   </span>
   - Java port of a concurrent trie hash map implementation from Scala collections.
  </li>
@@ -373,7 +373,7 @@
    fasttuple
   </a>
   <span>
-   &#9733 121, pushed 716 days ago
+   &#9733 121, pushed 717 days ago
   </span>
   - Collections that are laid out adjacently in both on- and off-heap memory.
  </li>
@@ -427,7 +427,7 @@
    Koloboke
   </a>
   <span>
-   &#9733 466, pushed 8 days ago
+   &#9733 466, pushed 9 days ago
   </span>
   - Java Collections til the last breadcrumb of memory and performance.
  </li>
@@ -445,7 +445,7 @@
    low-gc-membuffers
   </a>
   <span>
-   &#9733 110, pushed 544 days ago
+   &#9733 110, pushed 545 days ago
   </span>
   - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
  </li>
@@ -466,7 +466,7 @@
    ohc
   </a>
   <span>
-   &#9733 91, pushed 20 days ago
+   &#9733 91, pushed 21 days ago
   </span>
   - Java large off heap cache developed for Apache Cassandra 3.0.
  </li>
@@ -529,7 +529,7 @@
    RxJava
   </a>
   <span>
-   &#9733 13390, pushed 0 days ago
+   &#9733 13390, pushed 1 days ago
   </span>
   - Library for composing asynchronous and event-based programs using observable sequences.
  </li>
@@ -565,7 +565,7 @@
    stream-lib
   </a>
   <span>
-   &#9733 1341, pushed 3 days ago
+   &#9733 1341, pushed 4 days ago
   </span>
   - A Java library for summarizing data in streams for which it is infeasible to store all events.
  </li>
@@ -574,7 +574,7 @@
    transducers-java
   </a>
   <span>
-   &#9733 88, pushed 306 days ago
+   &#9733 88, pushed 307 days ago
   </span>
   - Composable algorithmic transformations independent from the context of their input and output sources.
  </li>
@@ -614,7 +614,7 @@
    derive4j
   </a>
   <span>
-   &#9733 110, pushed 74 days ago
+   &#9733 110, pushed 75 days ago
   </span>
   - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
  </li>
@@ -692,7 +692,7 @@
    Sulong
   </a>
   <span>
-   &#9733 117, pushed 1 days ago
+   &#9733 117, pushed 2 days ago
   </span>
   - LLVM IR interpreter written in Java using Truffle and Graal.
  </li>
@@ -735,7 +735,7 @@
    j2v8
   </a>
   <span>
-   &#9733 259, pushed 13 days ago
+   &#9733 259, pushed 14 days ago
   </span>
   - Java API for Google's V8 JavaScript engine.
  </li>
@@ -814,7 +814,7 @@
    K3PO
   </a>
   <span>
-   &#9733 21, pushed 12 days ago
+   &#9733 21, pushed 13 days ago
   </span>
   - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
  </li>
@@ -832,7 +832,7 @@
    SimianArmy
   </a>
   <span>
-   &#9733 3979, pushed 33 days ago
+   &#9733 3979, pushed 34 days ago
   </span>
   - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
  </li>
@@ -976,7 +976,7 @@
    allocation-instrumenter
   </a>
   <span>
-   &#9733 54, pushed 379 days ago
+   &#9733 54, pushed 380 days ago
   </span>
   - Java agent that rewrites bytecode to instrument allocation sites.
  </li>
@@ -1006,7 +1006,7 @@
    GCViewer
   </a>
   <span>
-   &#9733 1292, pushed 13 days ago
+   &#9733 1292, pushed 14 days ago
   </span>
   - GCViewer is a tool that visualizes verbose GC output.
  </li>
@@ -1045,7 +1045,7 @@
    honest-profiler
   </a>
   <span>
-   &#9733 380, pushed 6 days ago
+   &#9733 380, pushed 7 days ago
   </span>
   - Sampling JVM profiler without the safepoint sample bias.
  </li>
@@ -1054,7 +1054,7 @@
    jamm
   </a>
   <span>
-   &#9733 306, pushed 400 days ago
+   &#9733 306, pushed 401 days ago
   </span>
   - Measure actual object memory use including JVM overhead.
  </li>
@@ -1078,7 +1078,7 @@
    jitwatch
   </a>
   <span>
-   &#9733 746, pushed 0 days ago
+   &#9733 746, pushed 1 days ago
   </span>
   - Log analyser / visualiser for Java HotSpot JIT compiler.
  </li>
@@ -1202,7 +1202,7 @@
    Swiss Java Knife
   </a>
   <span>
-   &#9733 570, pushed 36 days ago
+   &#9733 570, pushed 37 days ago
   </span>
   - Small set of tools for JVM troublshooting, monitoring and profiling.
  </li>

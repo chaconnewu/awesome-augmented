@@ -50,7 +50,7 @@
    refinerycms-jobs
   </a>
   <span>
-   &#9733 4, pushed 26 days ago
+   &#9733 4, pushed 27 days ago
   </span>
   - Job Posting and Job Applications
  </li>
@@ -109,7 +109,7 @@
    refinerycms-dynamicfields
   </a>
   <span>
-   &#9733 12, pushed 118 days ago
+   &#9733 12, pushed 119 days ago
   </span>
   - Create models dynamically and attach them to pages
  </li>
@@ -148,7 +148,7 @@
    refinerycms-snoods
   </a>
   <span>
-   &#9733 1, pushed 50 days ago
+   &#9733 1, pushed 51 days ago
   </span>
   - Creating download pages and sending leads to Salesforce
  </li>
@@ -195,7 +195,7 @@
    resources
   </a>
   <span>
-   &#9733 1, pushed 229 days ago
+   &#9733 1, pushed 230 days ago
   </span>
   - Attach resources (files) to a Spree::Product
  </li>
@@ -268,7 +268,7 @@
    refinerycms-inquiries
   </a>
   <span>
-   &#9733 103, pushed 10 days ago
+   &#9733 103, pushed 11 days ago
   </span>
   - Send contact forms
  </li>
@@ -321,7 +321,7 @@
    refinerycms-settings
   </a>
   <span>
-   &#9733 20, pushed 515 days ago
+   &#9733 20, pushed 516 days ago
   </span>
   - Change settings in the backoffice
  </li>

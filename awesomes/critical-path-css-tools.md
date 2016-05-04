@@ -43,7 +43,7 @@
    Penthouse
   </a>
   <span>
-   &#9733 1212, pushed 4 days ago
+   &#9733 1212, pushed 5 days ago
   </span>
   - by Jonas Ohlsson generates critical-path CSS
  </li>
@@ -52,7 +52,7 @@
    Critical
   </a>
   <span>
-   &#9733 3120, pushed 12 days ago
+   &#9733 3120, pushed 13 days ago
   </span>
   - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse,
   <a href="https://github.com/addyosmani/oust">
@@ -79,7 +79,7 @@
    mod_pagespeed
   </a>
   <span>
-   &#9733 225, pushed 3 days ago
+   &#9733 225, pushed 4 days ago
   </span>
   - Apache module for automatic PageSpeed optimization
  </li>
@@ -88,7 +88,7 @@
    ngx_pagespeed
   </a>
   <span>
-   &#9733 3011, pushed 3 days ago
+   &#9733 3011, pushed 4 days ago
   </span>
   - Nginx module for automatic PageSpeed optimization
  </li>
@@ -118,7 +118,7 @@
    grunt-critical
   </a>
   <span>
-   &#9733 81, pushed 127 days ago
+   &#9733 81, pushed 128 days ago
   </span>
  </li>
 </ul>
@@ -197,7 +197,7 @@
    inline-critical
   </a>
   <span>
-   &#9733 39, pushed 3 days ago
+   &#9733 39, pushed 4 days ago
   </span>
   - by Ben Zörb, inline critical path CSS and load existing stylesheets with
   <code>
@@ -303,7 +303,7 @@
    CSSVacuum
   </a>
   <span>
-   &#9733 33, pushed 964 days ago
+   &#9733 33, pushed 965 days ago
   </span>
   by ndreckshage
  </li>
@@ -357,7 +357,7 @@
    UnCSS
   </a>
   <span>
-   &#9733 3684, pushed 4 days ago
+   &#9733 3684, pushed 5 days ago
   </span>
   removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for
   <a href="https://github.com/addyosmani/grunt-uncss">

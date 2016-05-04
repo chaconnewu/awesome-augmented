@@ -863,7 +863,7 @@
    libnih
   </a>
   <span>
-   &#9733 26, pushed 875 days ago
+   &#9733 26, pushed 876 days ago
   </span>
   - A lightweight library of C functions and structures.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
@@ -937,7 +937,7 @@
    Corange
   </a>
   <span>
-   &#9733 436, pushed 2 days ago
+   &#9733 436, pushed 3 days ago
   </span>
   - A game engine in pure C.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
@@ -983,7 +983,7 @@
    Quake
   </a>
   <span>
-   &#9733 1167, pushed 1553 days ago
+   &#9733 1167, pushed 1554 days ago
   </span>
   - The Quake engine.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
@@ -996,7 +996,7 @@
    Quake2
   </a>
   <span>
-   &#9733 601, pushed 1553 days ago
+   &#9733 601, pushed 1554 days ago
   </span>
   - The Quake2 engine.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
@@ -1009,7 +1009,7 @@
    Spearmint
   </a>
   <span>
-   &#9733 49, pushed 6 days ago
+   &#9733 49, pushed 7 days ago
   </span>
   - An engine designed for FPS games.
   <a href="http://www.gnu.org/licenses/gpl.html">
@@ -1067,7 +1067,7 @@
    FreeGLUT
   </a>
   <span>
-   &#9733 118, pushed 71 days ago
+   &#9733 118, pushed 72 days ago
   </span>
   - An alternative to the OpenGL Utility Toolkit. Allows the creation and management of windows with OpenGL contexts.
   <a href="http://directory.fsf.org/wiki/License:X11">
@@ -1773,7 +1773,7 @@
    czmq
   </a>
   <span>
-   &#9733 466, pushed 3 days ago
+   &#9733 466, pushed 4 days ago
   </span>
   - A high-level binding for ZeroMQ.
   <a href="https://www.gnu.org/licenses/license-list.html#MPL-2.0">
@@ -1828,7 +1828,7 @@
    http-parser
   </a>
   <span>
-   &#9733 2639, pushed 7 days ago
+   &#9733 2639, pushed 8 days ago
   </span>
   - An HTTP request/response parser.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -1860,7 +1860,7 @@
    LibEtPan
   </a>
   <span>
-   &#9733 381, pushed 1 days ago
+   &#9733 381, pushed 2 days ago
   </span>
   - A mail library providing an efficient network for IMAP, SMTP, POP and NNTP.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -1969,7 +1969,7 @@
    nanomsg
   </a>
   <span>
-   &#9733 2742, pushed 1 days ago
+   &#9733 2742, pushed 2 days ago
   </span>
   - A C-based implementation of ZeroMQ.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -2027,7 +2027,7 @@
    s2n
   </a>
   <span>
-   &#9733 2275, pushed 12 days ago
+   &#9733 2275, pushed 13 days ago
   </span>
   - A C99 implementation of the TLS/SSL protocols, designed to be simple, fast and with security as a priority.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
@@ -2053,7 +2053,7 @@
    Tox
   </a>
   <span>
-   &#9733 7849, pushed 0 days ago
+   &#9733 7849, pushed 1 days ago
   </span>
   - A communication platform, designed to be a Skype-killer.
   <a href="http://www.gnu.org/licenses/gpl.html">
@@ -2346,7 +2346,7 @@
    OpenMPI
   </a>
   <span>
-   &#9733 171, pushed 0 days ago
+   &#9733 171, pushed 1 days ago
   </span>
   - A message passing interface implementation.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
@@ -2493,7 +2493,7 @@
    mpack
   </a>
   <span>
-   &#9733 34, pushed 1 days ago
+   &#9733 34, pushed 2 days ago
   </span>
   - Another implementation of the
   <a href="http://msgpack.org/">
@@ -2547,7 +2547,7 @@
    clib
   </a>
   <span>
-   &#9733 2051, pushed 28 days ago
+   &#9733 2051, pushed 29 days ago
   </span>
   - Something of a package manager for C. Comes with a
   <a href="https://github.com/clibs/clib/wiki/Packages">
@@ -2755,7 +2755,7 @@
    CMock
   </a>
   <span>
-   &#9733 84, pushed 11 days ago
+   &#9733 84, pushed 12 days ago
   </span>
   - A mock/stub generator for C.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -2778,7 +2778,7 @@
    Criterion
   </a>
   <span>
-   &#9733 277, pushed 5 days ago
+   &#9733 277, pushed 6 days ago
   </span>
   - A KISS, non-intrusive C test framework.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -2937,7 +2937,7 @@
    address-sanitizer
   </a>
   <span>
-   &#9733 547, pushed 19 days ago
+   &#9733 547, pushed 20 days ago
   </span>
   - A fast memory error detector.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
@@ -3366,7 +3366,7 @@
    hammer
   </a>
   <span>
-   &#9733 140, pushed 67 days ago
+   &#9733 140, pushed 68 days ago
   </span>
   - Parser combinators for binary formats.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
@@ -3385,7 +3385,7 @@
    huffandpuff
   </a>
   <span>
-   &#9733 32, pushed 1053 days ago
+   &#9733 32, pushed 1054 days ago
   </span>
   - A minimal Huffman encoder and decoder. Public domain.
  </li>
@@ -3417,7 +3417,7 @@
    jwHash
   </a>
   <span>
-   &#9733 184, pushed 348 days ago
+   &#9733 184, pushed 349 days ago
   </span>
   - A fast hashtable implementation.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
@@ -3496,7 +3496,7 @@
    libffi
   </a>
   <span>
-   &#9733 516, pushed 1 days ago
+   &#9733 516, pushed 2 days ago
   </span>
   - A portable foreign-function interface library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -3519,7 +3519,7 @@
    libimobiledevice
   </a>
   <span>
-   &#9733 926, pushed 3 days ago
+   &#9733 926, pushed 4 days ago
   </span>
   - A cross-platform protocol library to communicate with iThings.
   <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
@@ -3576,7 +3576,7 @@
    libsoundio
   </a>
   <span>
-   &#9733 404, pushed 1 days ago
+   &#9733 404, pushed 2 days ago
   </span>
   - A library for cross-platform, real-time audio input and output. Has a range of back-ends.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -3589,7 +3589,7 @@
    libucl
   </a>
   <span>
-   &#9733 628, pushed 4 days ago
+   &#9733 628, pushed 5 days ago
   </span>
   - A universal configuration library parser.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
@@ -3602,7 +3602,7 @@
    libuv
   </a>
   <span>
-   &#9733 3793, pushed 3 days ago
+   &#9733 3793, pushed 4 days ago
   </span>
   - Cross-platform asynchronous I/O.
   <a href="http://directory.fsf.org/wiki/License:Expat">
@@ -3635,7 +3635,7 @@
    mpc
   </a>
   <span>
-   &#9733 907, pushed 13 days ago
+   &#9733 907, pushed 14 days ago
   </span>
   - A parser combinator library.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">

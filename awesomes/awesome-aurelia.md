@@ -438,7 +438,7 @@
    aurelia-mdl
   </a>
   <span>
-   &#9733 14, pushed 77 days ago
+   &#9733 14, pushed 78 days ago
   </span>
  </li>
  <li>
@@ -446,7 +446,7 @@
    aurelia-material
   </a>
   <span>
-   &#9733 35, pushed 40 days ago
+   &#9733 35, pushed 41 days ago
   </span>
  </li>
  <li>
@@ -501,7 +501,7 @@
    aurelia-i18n
   </a>
   <span>
-   &#9733 34, pushed 1 days ago
+   &#9733 34, pushed 2 days ago
   </span>
   - A plugin that provides i18n support
  </li>
@@ -528,7 +528,7 @@
    aurelia-polymer
   </a>
   <span>
-   &#9733 8, pushed 14 days ago
+   &#9733 8, pushed 15 days ago
   </span>
   - Aurelia plugin to support Polymer
  </li>
@@ -620,7 +620,7 @@
    vGrid
   </a>
   <span>
-   &#9733 12, pushed 1 days ago
+   &#9733 12, pushed 2 days ago
   </span>
   - Grid custom element for Aurelia
  </li>
@@ -724,7 +724,7 @@
    TypeScript Repository (GitHub)
   </a>
   <span>
-   &#9733 11210, pushed 1 days ago
+   &#9733 11210, pushed 2 days ago
   </span>
   Official GitHub Repo for TypeScript
  </li>
@@ -765,7 +765,7 @@
    aurelia-axel-northwind
   </a>
   <span>
-   &#9733 1, pushed 15 days ago
+   &#9733 1, pushed 16 days ago
   </span>
   - As a user, I want a walk through of creating a web app from the
   <code>

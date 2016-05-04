@@ -669,7 +669,7 @@
    Shogun
   </a>
   <span>
-   &#9733 1048, pushed 6 days ago
+   &#9733 1048, pushed 7 days ago
   </span>
   - The Shogun Machine Learning Toolbox
  </li>
@@ -684,7 +684,7 @@
    CXXNET
   </a>
   <span>
-   &#9733 23, pushed 201 days ago
+   &#9733 23, pushed 202 days ago
   </span>
   - Yet another deep learning framework with less than 1000 lines core code [DEEP LEARNING]
  </li>
@@ -693,7 +693,7 @@
    XGBoost
   </a>
   <span>
-   &#9733 3203, pushed 1 days ago
+   &#9733 3203, pushed 2 days ago
   </span>
   - A parallelized optimized general purpose gradient boosting library.
  </li>
@@ -741,7 +741,7 @@
    Warp-CTC
   </a>
   <span>
-   &#9733 2234, pushed 101 days ago
+   &#9733 2234, pushed 102 days ago
   </span>
   - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
  </li>
@@ -750,7 +750,7 @@
    CNTK
   </a>
   <span>
-   &#9733 5304, pushed 1 days ago
+   &#9733 5304, pushed 2 days ago
   </span>
   - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
  </li>
@@ -759,7 +759,7 @@
    DeepDetect
   </a>
   <span>
-   &#9733 548, pushed 1 days ago
+   &#9733 548, pushed 2 days ago
   </span>
   - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
  </li>
@@ -897,7 +897,7 @@
    grt
   </a>
   <span>
-   &#9733 196, pushed 9 days ago
+   &#9733 196, pushed 10 days ago
   </span>
   - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
  </li>
@@ -956,7 +956,7 @@
    Clojure-openNLP
   </a>
   <span>
-   &#9733 551, pushed 7 days ago
+   &#9733 551, pushed 8 days ago
   </span>
   - Natural Language Processing in Clojure (opennlp)
  </li>
@@ -965,7 +965,7 @@
    Infections-clj
   </a>
   <span>
-   &#9733 119, pushed 47 days ago
+   &#9733 119, pushed 48 days ago
   </span>
   - Rails-like inflection library for Clojure and ClojureScript
  </li>
@@ -992,7 +992,7 @@
    Clojush
   </a>
   <span>
-   &#9733 170, pushed 9 days ago
+   &#9733 170, pushed 10 days ago
   </span>
   -  The Push programming language and the PushGP genetic programming system implemented in Clojure
  </li>
@@ -1001,7 +1001,7 @@
    Infer
   </a>
   <span>
-   &#9733 147, pushed 125 days ago
+   &#9733 147, pushed 126 days ago
   </span>
   - Inference and machine learning in clojure
  </li>
@@ -1028,7 +1028,7 @@
    Fungp
   </a>
   <span>
-   &#9733 77, pushed 714 days ago
+   &#9733 77, pushed 715 days ago
   </span>
   - A genetic programming library for Clojure
  </li>
@@ -1037,7 +1037,7 @@
    Statistiker
   </a>
   <span>
-   &#9733 42, pushed 301 days ago
+   &#9733 42, pushed 302 days ago
   </span>
   - Basic Machine Learning algorithms in Clojure.
  </li>
@@ -1088,7 +1088,7 @@
    Envision
   </a>
   <span>
-   &#9733 45, pushed 442 days ago
+   &#9733 45, pushed 443 days ago
   </span>
   - Clojure Data Visualisation library, based on Statistiker and D3
  </li>
@@ -1316,7 +1316,7 @@
    HLearn
   </a>
   <span>
-   &#9733 921, pushed 4 days ago
+   &#9733 921, pushed 5 days ago
   </span>
   - a suite of libraries for interpreting machine learning models according to their algebraic structure.
  </li>
@@ -1568,7 +1568,7 @@
    java-deeplearning
   </a>
   <span>
-   &#9733 2626, pushed 1 days ago
+   &#9733 2626, pushed 2 days ago
   </span>
   - Distributed Deep Learning Platform for Java, Clojure,Scala
  </li>
@@ -1658,7 +1658,7 @@
    SmileMiner
   </a>
   <span>
-   &#9733 2512, pushed 3 days ago
+   &#9733 2512, pushed 4 days ago
   </span>
   - Statistical Machine Intelligence & Learning Engine
  </li>
@@ -1667,7 +1667,7 @@
    SystemML
   </a>
   <span>
-   &#9733 267, pushed 2 days ago
+   &#9733 267, pushed 3 days ago
   </span>
   - flexible, scalable machine learning (ML) language.
  </li>
@@ -1767,7 +1767,7 @@
    Deeplearning4j
   </a>
   <span>
-   &#9733 2626, pushed 1 days ago
+   &#9733 2626, pushed 2 days ago
   </span>
   - Scalable deep learning for industry with parallel GPUs
  </li>
@@ -1801,7 +1801,7 @@
    NLP.js
   </a>
   <span>
-   &#9733 28, pushed 884 days ago
+   &#9733 28, pushed 885 days ago
   </span>
   - NLP utilities in javascript and coffeescript
  </li>
@@ -1893,7 +1893,7 @@
    D3xter
   </a>
   <span>
-   &#9733 340, pushed 47 days ago
+   &#9733 340, pushed 48 days ago
   </span>
   - Straight forward plotting built on D3
  </li>
@@ -1911,7 +1911,7 @@
    datakit
   </a>
   <span>
-   &#9733 272, pushed 203 days ago
+   &#9733 272, pushed 204 days ago
   </span>
   - A lightweight framework for data analysis in JavaScript
  </li>
@@ -1926,7 +1926,7 @@
    Z3d
   </a>
   <span>
-   &#9733 80, pushed 480 days ago
+   &#9733 80, pushed 481 days ago
   </span>
   - Easily make interactive 3d plots built on Three.js
  </li>
@@ -2065,7 +2065,7 @@
    Brain
   </a>
   <span>
-   &#9733 6952, pushed 185 days ago
+   &#9733 6952, pushed 186 days ago
   </span>
   - Neural networks in JavaScript
   <strong>
@@ -2077,7 +2077,7 @@
    Bayesian-Bandit
   </a>
   <span>
-   &#9733 28, pushed 987 days ago
+   &#9733 28, pushed 988 days ago
   </span>
   - Bayesian bandit implementation for Node and the browser.
  </li>
@@ -2095,7 +2095,7 @@
    kNear
   </a>
   <span>
-   &#9733 25, pushed 523 days ago
+   &#9733 25, pushed 524 days ago
   </span>
   - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
  </li>
@@ -2128,7 +2128,7 @@
    ml.js
   </a>
   <span>
-   &#9733 18, pushed 18 days ago
+   &#9733 18, pushed 19 days ago
   </span>
   - Machine learning and numerical analysis tools for Node.js and the Browser!
  </li>
@@ -2170,7 +2170,7 @@
    simple-statistics
   </a>
   <span>
-   &#9733 1038, pushed 25 days ago
+   &#9733 1038, pushed 26 days ago
   </span>
   - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
  </li>
@@ -2240,7 +2240,7 @@
    PGM
   </a>
   <span>
-   &#9733 30, pushed 772 days ago
+   &#9733 30, pushed 773 days ago
   </span>
   - A Julia framework for probabilistic graphical models.
  </li>
@@ -2249,7 +2249,7 @@
    DA
   </a>
   <span>
-   &#9733 4, pushed 1 days ago
+   &#9733 4, pushed 2 days ago
   </span>
   - Julia package for Regularized Discriminant Analysis
  </li>
@@ -2276,7 +2276,7 @@
    Naive Bayes
   </a>
   <span>
-   &#9733 3, pushed 1064 days ago
+   &#9733 3, pushed 1065 days ago
   </span>
   - Simple Naive Bayes implementation in Julia
  </li>
@@ -2285,7 +2285,7 @@
    Mixed Models
   </a>
   <span>
-   &#9733 58, pushed 3 days ago
+   &#9733 58, pushed 4 days ago
   </span>
   - A Julia package for fitting (statistical) mixed-effects models
  </li>
@@ -2303,7 +2303,7 @@
    Distance
   </a>
   <span>
-   &#9733 25, pushed 412 days ago
+   &#9733 25, pushed 413 days ago
   </span>
   - Julia module for Distance evaluation
  </li>
@@ -2330,7 +2330,7 @@
    MCMC
   </a>
   <span>
-   &#9733 19, pushed 1112 days ago
+   &#9733 19, pushed 1113 days ago
   </span>
   - MCMC tools for Julia
  </li>
@@ -2357,7 +2357,7 @@
    Online Learning
   </a>
   <span>
-   &#9733 10, pushed 510 days ago
+   &#9733 10, pushed 511 days ago
   </span>
  </li>
  <li>
@@ -2365,7 +2365,7 @@
    GLMNet
   </a>
   <span>
-   &#9733 28, pushed 203 days ago
+   &#9733 28, pushed 204 days ago
   </span>
   - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
  </li>
@@ -2428,7 +2428,7 @@
    Mocha
   </a>
   <span>
-   &#9733 675, pushed 19 days ago
+   &#9733 675, pushed 20 days ago
   </span>
   - Deep Learning framework for Julia inspired by Caffe
  </li>
@@ -2515,7 +2515,7 @@
    Data Frames Meta
   </a>
   <span>
-   &#9733 54, pushed 27 days ago
+   &#9733 54, pushed 28 days ago
   </span>
   - Metaprogramming tools for DataFrames
  </li>
@@ -2561,7 +2561,7 @@
     Stats
    </a>
    <span>
-    &#9733 4, pushed 752 days ago
+    &#9733 4, pushed 753 days ago
    </span>
    - Statistical tests for Julia
   </p>
@@ -2645,7 +2645,7 @@
    JuliaCon Presentations
   </a>
   <span>
-   &#9733 64, pushed 56 days ago
+   &#9733 64, pushed 57 days ago
   </span>
   - Presentations for JuliaCon
  </li>
@@ -2654,7 +2654,7 @@
    SignalProcessing
   </a>
   <span>
-   &#9733 2, pushed 569 days ago
+   &#9733 2, pushed 570 days ago
   </span>
   - Signal Processing tools for Julia
  </li>
@@ -2708,7 +2708,7 @@
      graph
     </a>
     <span>
-     &#9733 23, pushed 17 days ago
+     &#9733 23, pushed 18 days ago
     </span>
     - Graph package for Torch
    </li>
@@ -2774,7 +2774,7 @@
      dp
     </a>
     <span>
-     &#9733 280, pushed 5 days ago
+     &#9733 280, pushed 6 days ago
     </span>
     - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
    </li>
@@ -2828,7 +2828,7 @@
      vowpalwabbit
     </a>
     <span>
-     &#9733 1, pushed 1454 days ago
+     &#9733 1, pushed 1455 days ago
     </span>
     - An old vowpalwabbit interface to torch.
    </li>
@@ -2855,7 +2855,7 @@
      LuaSHKit
     </a>
     <span>
-     &#9733 1, pushed 712 days ago
+     &#9733 1, pushed 713 days ago
     </span>
     - A lua wrapper around the Locality sensitive hashing library SHKit
    </li>
@@ -2882,7 +2882,7 @@
      cunn
     </a>
     <span>
-     &#9733 95, pushed 1 days ago
+     &#9733 95, pushed 2 days ago
     </span>
     - Torch CUDA Neural Network Implementation
    </li>
@@ -2891,7 +2891,7 @@
      imgraph
     </a>
     <span>
-     &#9733 11, pushed 334 days ago
+     &#9733 11, pushed 335 days ago
     </span>
     - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
    </li>
@@ -2909,7 +2909,7 @@
      saliency
     </a>
     <span>
-     &#9733 3, pushed 871 days ago
+     &#9733 3, pushed 872 days ago
     </span>
     - code and tools around integral images. A library for finding interest points based on fast integral histograms.
    </li>
@@ -2990,7 +2990,7 @@
    Core torch7 demos repository
   </a>
   <span>
-   &#9733 25, pushed 324 days ago
+   &#9733 25, pushed 325 days ago
   </span>
   .
   <ul>
@@ -3083,7 +3083,7 @@
    Atari2600
   </a>
   <span>
-   &#9733 15, pushed 724 days ago
+   &#9733 15, pushed 725 days ago
   </span>
   - Scripts to generate a dataset with static frames from the Arcade Learning Environment
  </li>
@@ -3339,7 +3339,7 @@ on MNIST digits[DEEP LEARNING]
    Vulpes
   </a>
   <span>
-   &#9733 87, pushed 28 days ago
+   &#9733 87, pushed 29 days ago
   </span>
   - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
  </li>
@@ -3568,7 +3568,7 @@ on MNIST digits[DEEP LEARNING]
    Scikit-Image
   </a>
   <span>
-   &#9733 1070, pushed 1 days ago
+   &#9733 1070, pushed 2 days ago
   </span>
   - A collection of algorithms for image processing in Python.
  </li>
@@ -3634,7 +3634,7 @@ on MNIST digits[DEEP LEARNING]
    YAlign
   </a>
   <span>
-   &#9733 46, pushed 262 days ago
+   &#9733 46, pushed 263 days ago
   </span>
   - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
  </li>
@@ -3658,7 +3658,7 @@ on MNIST digits[DEEP LEARNING]
    spammy
   </a>
   <span>
-   &#9733 34, pushed 1 days ago
+   &#9733 34, pushed 2 days ago
   </span>
   - A library for email Spam filtering built on top of nltk
  </li>
@@ -3737,7 +3737,7 @@ on MNIST digits[DEEP LEARNING]
    python-frog
   </a>
   <span>
-   &#9733 7, pushed 40 days ago
+   &#9733 7, pushed 41 days ago
   </span>
   - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
  </li>
@@ -3789,7 +3789,7 @@ on MNIST digits[DEEP LEARNING]
    machine learning
   </a>
   <span>
-   &#9733 37, pushed 1 days ago
+   &#9733 37, pushed 2 days ago
   </span>
   - automated build consisting of a
   <a href="https://github.com/jeff1evesque/machine-learning#web-interface">
@@ -3821,7 +3821,7 @@ on MNIST digits[DEEP LEARNING]
    Featureforge
   </a>
   <span>
-   &#9733 203, pushed 16 days ago
+   &#9733 203, pushed 17 days ago
   </span>
   A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
  </li>
@@ -3842,7 +3842,7 @@ on MNIST digits[DEEP LEARNING]
    metric-learn
   </a>
   <span>
-   &#9733 172, pushed 177 days ago
+   &#9733 172, pushed 178 days ago
   </span>
   - A Python module for metric learning.
  </li>
@@ -3875,7 +3875,7 @@ on MNIST digits[DEEP LEARNING]
    pattern
   </a>
   <span>
-   &#9733 4390, pushed 4 days ago
+   &#9733 4390, pushed 5 days ago
   </span>
   - Web mining module for Python.
  </li>
@@ -3884,7 +3884,7 @@ on MNIST digits[DEEP LEARNING]
    NuPIC
   </a>
   <span>
-   &#9733 4079, pushed 4 days ago
+   &#9733 4079, pushed 5 days ago
   </span>
   - Numenta Platform for Intelligent Computing.
  </li>
@@ -3893,7 +3893,7 @@ on MNIST digits[DEEP LEARNING]
    Pylearn2
   </a>
   <span>
-   &#9733 2065, pushed 29 days ago
+   &#9733 2065, pushed 30 days ago
   </span>
   - A Machine Learning library based on
   <a href="https://github.com/Theano/Theano">
@@ -3906,7 +3906,7 @@ on MNIST digits[DEEP LEARNING]
    keras
   </a>
   <span>
-   &#9733 5863, pushed 1 days ago
+   &#9733 5863, pushed 2 days ago
   </span>
   - Modular neural network library based on
   <a href="https://github.com/Theano/Theano">
@@ -3982,7 +3982,7 @@ on MNIST digits[DEEP LEARNING]
    python-recsys
   </a>
   <span>
-   &#9733 561, pushed 138 days ago
+   &#9733 561, pushed 139 days ago
   </span>
   - A Python library for implementing a Recommender System.
  </li>
@@ -3991,7 +3991,7 @@ on MNIST digits[DEEP LEARNING]
    thinking bayes
   </a>
   <span>
-   &#9733 421, pushed 48 days ago
+   &#9733 421, pushed 49 days ago
   </span>
   - Book on Bayesian Analysis
  </li>
@@ -4132,7 +4132,7 @@ on MNIST digits[DEEP LEARNING]
    python-timbl
   </a>
   <span>
-   &#9733 5, pushed 50 days ago
+   &#9733 5, pushed 51 days ago
   </span>
   - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
  </li>
@@ -4159,7 +4159,7 @@ on MNIST digits[DEEP LEARNING]
    mlxtend
   </a>
   <span>
-   &#9733 405, pushed 1 days ago
+   &#9733 405, pushed 2 days ago
   </span>
   - A library consisting of useful tools for data science and machine learning tasks.
  </li>
@@ -4168,7 +4168,7 @@ on MNIST digits[DEEP LEARNING]
    neon
   </a>
   <span>
-   &#9733 1808, pushed 3 days ago
+   &#9733 1808, pushed 4 days ago
   </span>
   - Nervana's
   <a href="https://github.com/soumith/convnet-benchmarks">
@@ -4229,7 +4229,7 @@ on MNIST digits[DEEP LEARNING]
    DIGITS
   </a>
   <span>
-   &#9733 1076, pushed 0 days ago
+   &#9733 1076, pushed 1 days ago
   </span>
   - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
  </li>
@@ -4328,7 +4328,7 @@ on MNIST digits[DEEP LEARNING]
    zipline
   </a>
   <span>
-   &#9733 3154, pushed 3 days ago
+   &#9733 3154, pushed 4 days ago
   </span>
   - A Pythonic algorithmic trading library.
  </li>
@@ -4343,7 +4343,7 @@ on MNIST digits[DEEP LEARNING]
    SymPy
   </a>
   <span>
-   &#9733 2825, pushed 1 days ago
+   &#9733 2825, pushed 2 days ago
   </span>
   - A Python library for symbolic mathematics.
  </li>
@@ -4452,7 +4452,7 @@ on MNIST digits[DEEP LEARNING]
    pycascading
   </a>
   <span>
-   &#9733 213, pushed 866 days ago
+   &#9733 213, pushed 867 days ago
   </span>
  </li>
  <li>
@@ -4469,7 +4469,7 @@ on MNIST digits[DEEP LEARNING]
    Blaze
   </a>
   <span>
-   &#9733 1445, pushed 3 days ago
+   &#9733 1445, pushed 4 days ago
   </span>
   - NumPy and Pandas interface to Big Data.
  </li>
@@ -4493,7 +4493,7 @@ on MNIST digits[DEEP LEARNING]
    vispy
   </a>
   <span>
-   &#9733 1007, pushed 31 days ago
+   &#9733 1007, pushed 32 days ago
   </span>
   - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
  </li>
@@ -4502,7 +4502,7 @@ on MNIST digits[DEEP LEARNING]
    cerebro2
   </a>
   <span>
-   &#9733 13, pushed 258 days ago
+   &#9733 13, pushed 259 days ago
   </span>
   A web-based visualization and debugging platform for NuPIC.
  </li>
@@ -4553,7 +4553,7 @@ on MNIST digits[DEEP LEARNING]
    caravel
   </a>
   <span>
-   &#9733 5894, pushed 1 days ago
+   &#9733 5894, pushed 2 days ago
   </span>
   - A data exploration platform designed to be visual, intuitive, and interactive.
  </li>
@@ -4580,7 +4580,7 @@ on MNIST digits[DEEP LEARNING]
    pattern_classification
   </a>
   <span>
-   &#9733 1661, pushed 57 days ago
+   &#9733 1661, pushed 58 days ago
   </span>
  </li>
  <li>
@@ -4588,7 +4588,7 @@ on MNIST digits[DEEP LEARNING]
    thinking stats 2
   </a>
   <span>
-   &#9733 5, pushed 658 days ago
+   &#9733 5, pushed 659 days ago
   </span>
  </li>
  <li>
@@ -4596,7 +4596,7 @@ on MNIST digits[DEEP LEARNING]
    hyperopt
   </a>
   <span>
-   &#9733 115, pushed 5 days ago
+   &#9733 115, pushed 6 days ago
   </span>
  </li>
  <li>
@@ -4604,7 +4604,7 @@ on MNIST digits[DEEP LEARNING]
    numpic
   </a>
   <span>
-   &#9733 4079, pushed 4 days ago
+   &#9733 4079, pushed 5 days ago
   </span>
  </li>
  <li>
@@ -4612,7 +4612,7 @@ on MNIST digits[DEEP LEARNING]
    2012-paper-diginorm
   </a>
   <span>
-   &#9733 7, pushed 347 days ago
+   &#9733 7, pushed 348 days ago
   </span>
  </li>
  <li>
@@ -4642,7 +4642,7 @@ on MNIST digits[DEEP LEARNING]
    decision-weights
   </a>
   <span>
-   &#9733 19, pushed 427 days ago
+   &#9733 19, pushed 428 days ago
   </span>
  </li>
  <li>
@@ -4650,7 +4650,7 @@ on MNIST digits[DEEP LEARNING]
    Sarah Palin LDA
   </a>
   <span>
-   &#9733 8, pushed 1759 days ago
+   &#9733 8, pushed 1760 days ago
   </span>
   - Topic Modeling the Sarah Palin emails.
  </li>
@@ -4668,7 +4668,7 @@ on MNIST digits[DEEP LEARNING]
    Scipy Tutorials
   </a>
   <span>
-   &#9733 1, pushed 2175 days ago
+   &#9733 1, pushed 2176 days ago
   </span>
   - SciPy tutorials. This is outdated, check out scipy-lecture-notes
  </li>
@@ -4686,7 +4686,7 @@ on MNIST digits[DEEP LEARNING]
    BayesPy
   </a>
   <span>
-   &#9733 35, pushed 54 days ago
+   &#9733 35, pushed 55 days ago
   </span>
   - Bayesian Inference Tools in Python
  </li>
@@ -4749,7 +4749,7 @@ on MNIST digits[DEEP LEARNING]
    pandas cookbook
   </a>
   <span>
-   &#9733 1510, pushed 8 days ago
+   &#9733 1510, pushed 9 days ago
   </span>
   - Recipes for using Python's pandas library
  </li>
@@ -4767,7 +4767,7 @@ on MNIST digits[DEEP LEARNING]
    Allen Downey’s Data Science Course
   </a>
   <span>
-   &#9733 19, pushed 739 days ago
+   &#9733 19, pushed 740 days ago
   </span>
   - Code for Data Science at Olin College, Spring 2014.
  </li>
@@ -4776,7 +4776,7 @@ on MNIST digits[DEEP LEARNING]
    Allen Downey’s Think Bayes Code
   </a>
   <span>
-   &#9733 421, pushed 48 days ago
+   &#9733 421, pushed 49 days ago
   </span>
   - Code repository for Think Bayes.
  </li>
@@ -4834,7 +4834,7 @@ on MNIST digits[DEEP LEARNING]
    TDB
   </a>
   <span>
-   &#9733 773, pushed 61 days ago
+   &#9733 773, pushed 62 days ago
   </span>
   - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
  </li>
@@ -4852,7 +4852,7 @@ on MNIST digits[DEEP LEARNING]
    wiki challenge
   </a>
   <span>
-   &#9733 5, pushed 1622 days ago
+   &#9733 5, pushed 1623 days ago
   </span>
   - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
  </li>
@@ -4861,7 +4861,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle insults
   </a>
   <span>
-   &#9733 96, pushed 217 days ago
+   &#9733 96, pushed 218 days ago
   </span>
   - Kaggle Submission for "Detecting Insults in Social Commentary"
  </li>
@@ -4870,7 +4870,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle_acquire-valued-shoppers-challenge
   </a>
   <span>
-   &#9733 37, pushed 746 days ago
+   &#9733 37, pushed 747 days ago
   </span>
   - Code for the Kaggle acquire valued shoppers challenge
  </li>
@@ -4879,7 +4879,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-cifar
   </a>
   <span>
-   &#9733 34, pushed 681 days ago
+   &#9733 34, pushed 682 days ago
   </span>
   - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
  </li>
@@ -4888,7 +4888,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-blackbox
   </a>
   <span>
-   &#9733 110, pushed 681 days ago
+   &#9733 110, pushed 682 days ago
   </span>
   - Deep learning made easy
  </li>
@@ -4897,7 +4897,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-accelerometer
   </a>
   <span>
-   &#9733 7, pushed 681 days ago
+   &#9733 7, pushed 682 days ago
   </span>
   - Code for Accelerometer Biometric Competition at Kaggle
  </li>
@@ -4906,7 +4906,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-advertised-salaries
   </a>
   <span>
-   &#9733 44, pushed 681 days ago
+   &#9733 44, pushed 682 days ago
   </span>
   - Predicting job salaries from ads - a Kaggle competition
  </li>
@@ -4915,7 +4915,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle amazon
   </a>
   <span>
-   &#9733 15, pushed 681 days ago
+   &#9733 15, pushed 682 days ago
   </span>
   - Amazon access control challenge
  </li>
@@ -4924,7 +4924,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-bestbuy_big
   </a>
   <span>
-   &#9733 2, pushed 681 days ago
+   &#9733 2, pushed 682 days ago
   </span>
   - Code for the Best Buy competition at Kaggle
  </li>
@@ -4933,7 +4933,7 @@ on MNIST digits[DEEP LEARNING]
    kaggle-bestbuy_small
   </a>
   <span>
-   &#9733 2, pushed 681 days ago
+   &#9733 2, pushed 682 days ago
   </span>
  </li>
  <li>
@@ -4941,7 +4941,7 @@ on MNIST digits[DEEP LEARNING]
    Kaggle Dogs vs. Cats
   </a>
   <span>
-   &#9733 48, pushed 821 days ago
+   &#9733 48, pushed 822 days ago
   </span>
   - Code for Kaggle Dogs vs. Cats competition
  </li>
@@ -4959,7 +4959,7 @@ on MNIST digits[DEEP LEARNING]
    Kaggle Gender
   </a>
   <span>
-   &#9733 4, pushed 681 days ago
+   &#9733 4, pushed 682 days ago
   </span>
   - A Kaggle competition: discriminate gender based on handwriting
  </li>
@@ -4968,7 +4968,7 @@ on MNIST digits[DEEP LEARNING]
    Kaggle Merck
   </a>
   <span>
-   &#9733 3, pushed 681 days ago
+   &#9733 3, pushed 682 days ago
   </span>
   - Merck challenge at Kaggle
  </li>
@@ -4977,7 +4977,7 @@ on MNIST digits[DEEP LEARNING]
    Kaggle Stackoverflow
   </a>
   <span>
-   &#9733 29, pushed 681 days ago
+   &#9733 29, pushed 682 days ago
   </span>
   - Predicting closed questions on Stack Overflow
  </li>
@@ -5080,7 +5080,7 @@ on MNIST digits[DEEP LEARNING]
    Ruby Machine Learning
   </a>
   <span>
-   &#9733 23, pushed 1574 days ago
+   &#9733 23, pushed 1575 days ago
   </span>
   - Some Machine Learning algorithms, implemented in Ruby
  </li>
@@ -5247,7 +5247,7 @@ on MNIST digits[DEEP LEARNING]
    deeplearn-rs
   </a>
   <span>
-   &#9733 84, pushed 4 days ago
+   &#9733 84, pushed 5 days ago
   </span>
   - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
  </li>
@@ -5274,7 +5274,7 @@ on MNIST digits[DEEP LEARNING]
    leaf
   </a>
   <span>
-   &#9733 4007, pushed 2 days ago
+   &#9733 4007, pushed 3 days ago
   </span>
   - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license.
  </li>
@@ -5283,7 +5283,7 @@ on MNIST digits[DEEP LEARNING]
    RustNN
   </a>
   <span>
-   &#9733 243, pushed 226 days ago
+   &#9733 243, pushed 227 days ago
   </span>
   - RustNN is a feedforward neural network library.
  </li>
@@ -5368,7 +5368,7 @@ on MNIST digits[DEEP LEARNING]
    Clever Algorithms For Machine Learning
   </a>
   <span>
-   &#9733 176, pushed 1114 days ago
+   &#9733 176, pushed 1115 days ago
   </span>
  </li>
  <li>
@@ -5958,7 +5958,7 @@ on MNIST digits[DEEP LEARNING]
    enlighten-integration
   </a>
   <span>
-   &#9733 23, pushed 10 days ago
+   &#9733 23, pushed 11 days ago
   </span>
   - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
  </li>
@@ -5967,7 +5967,7 @@ on MNIST digits[DEEP LEARNING]
    enlighten-deep
   </a>
   <span>
-   &#9733 5, pushed 169 days ago
+   &#9733 5, pushed 170 days ago
   </span>
   - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
  </li>
@@ -6007,7 +6007,7 @@ on MNIST digits[DEEP LEARNING]
    Breeze
   </a>
   <span>
-   &#9733 1500, pushed 7 days ago
+   &#9733 1500, pushed 8 days ago
   </span>
   - Breeze is a numerical processing library for Scala.
  </li>
@@ -6025,7 +6025,7 @@ on MNIST digits[DEEP LEARNING]
    FACTORIE
   </a>
   <span>
-   &#9733 403, pushed 4 days ago
+   &#9733 403, pushed 5 days ago
   </span>
   - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
  </li>
@@ -6049,7 +6049,7 @@ on MNIST digits[DEEP LEARNING]
    Scalding
   </a>
   <span>
-   &#9733 2496, pushed 4 days ago
+   &#9733 2496, pushed 5 days ago
   </span>
   - A Scala API for Cascading
  </li>
@@ -6067,7 +6067,7 @@ on MNIST digits[DEEP LEARNING]
    Algebird
   </a>
   <span>
-   &#9733 1215, pushed 5 days ago
+   &#9733 1215, pushed 6 days ago
   </span>
   - Abstract Algebra for Scala
  </li>
@@ -6094,7 +6094,7 @@ on MNIST digits[DEEP LEARNING]
    PredictionIO
   </a>
   <span>
-   &#9733 9075, pushed 4 days ago
+   &#9733 9075, pushed 5 days ago
   </span>
   - PredictionIO, a machine learning server for software developers and data engineers.
  </li>
@@ -6157,7 +6157,7 @@ on MNIST digits[DEEP LEARNING]
    ganitha
   </a>
   <span>
-   &#9733 110, pushed 531 days ago
+   &#9733 110, pushed 532 days ago
   </span>
   - scalding powered machine learning
  </li>
@@ -6217,7 +6217,7 @@ on MNIST digits[DEEP LEARNING]
    DynaML
   </a>
   <span>
-   &#9733 33, pushed 2 days ago
+   &#9733 33, pushed 3 days ago
   </span>
   - Scala Library/REPL for Machine Learning Research
  </li>
@@ -6242,7 +6242,7 @@ on MNIST digits[DEEP LEARNING]
    Swift AI
   </a>
   <span>
-   &#9733 2758, pushed 9 days ago
+   &#9733 2758, pushed 10 days ago
   </span>
   - Highly optimized artificial intelligence and machine learning library written in Swift.
  </li>

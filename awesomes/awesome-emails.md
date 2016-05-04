@@ -92,7 +92,7 @@
    Responsive Transactional HTML Email Templates
   </a>
   <span>
-   &#9733 4610, pushed 78 days ago
+   &#9733 4610, pushed 79 days ago
   </span>
   (Each template is responsive and each has been tested in all the popular email clients.)
  </li>
@@ -110,7 +110,7 @@
    Antwort
   </a>
   <span>
-   &#9733 2924, pushed 83 days ago
+   &#9733 2924, pushed 84 days ago
   </span>
   - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
  </li>
@@ -119,7 +119,7 @@
    Responsive HTML Template
   </a>
   <span>
-   &#9733 333, pushed 302 days ago
+   &#9733 333, pushed 303 days ago
   </span>
   - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
  </li>
@@ -178,7 +178,7 @@ VML and CSS.
    Lee Munroe's Grunt Email Design
   </a>
   <span>
-   &#9733 2329, pushed 9 days ago
+   &#9733 2329, pushed 10 days ago
   </span>
   - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
  </li>
@@ -187,7 +187,7 @@ VML and CSS.
    Darylldoyle Gulp workflow
   </a>
   <span>
-   &#9733 97, pushed 327 days ago
+   &#9733 97, pushed 328 days ago
   </span>
   - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
  </li>

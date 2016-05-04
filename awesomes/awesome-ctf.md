@@ -224,7 +224,7 @@
    Bettercap
   </a>
   <span>
-   &#9733 1366, pushed 5 days ago
+   &#9733 1366, pushed 6 days ago
   </span>
   - Framework to perform MITM (Man in the Middle) attacks.
  </li>
@@ -258,7 +258,7 @@
    RSATool
   </a>
   <span>
-   &#9733 89, pushed 88 days ago
+   &#9733 89, pushed 89 days ago
   </span>
   - Generate private key with knowledge of p and q
  </li>
@@ -267,7 +267,7 @@
    XORTool
   </a>
   <span>
-   &#9733 314, pushed 565 days ago
+   &#9733 314, pushed 566 days ago
   </span>
   - A tool to analyze multi-byte xor cipher
  </li>
@@ -338,7 +338,7 @@
    qira
   </a>
   <span>
-   &#9733 1039, pushed 1 days ago
+   &#9733 1039, pushed 2 days ago
   </span>
   - QEMU Interactive Runtime Analyser
  </li>
@@ -484,7 +484,7 @@
    Shellbags
   </a>
   <span>
-   &#9733 28, pushed 28 days ago
+   &#9733 28, pushed 29 days ago
   </span>
   - Investigate NT_USER.dat files
  </li>
@@ -499,7 +499,7 @@
    Volatility
   </a>
   <span>
-   &#9733 950, pushed 3 days ago
+   &#9733 950, pushed 4 days ago
   </span>
   - To investigate memory dumps
  </li>
@@ -648,7 +648,7 @@
    z3
   </a>
   <span>
-   &#9733 1523, pushed 1 days ago
+   &#9733 1523, pushed 2 days ago
   </span>
   - a theorem prover from Microsoft Research
  </li>
@@ -787,7 +787,7 @@
    w3af
   </a>
   <span>
-   &#9733 947, pushed 2 days ago
+   &#9733 947, pushed 3 days ago
   </span>
   -  Web Application Attack and Audit Framework.
  </li>
@@ -820,7 +820,7 @@
    CTF Tools
   </a>
   <span>
-   &#9733 727, pushed 27 days ago
+   &#9733 727, pushed 28 days ago
   </span>
   - Collection of setup scripts to install various security research tools.
  </li>
@@ -1011,7 +1011,7 @@
    Smoke Leet Everyday
   </a>
   <span>
-   &#9733 81, pushed 15 days ago
+   &#9733 81, pushed 16 days ago
   </span>
   - CTF write-ups repo maintained by SmokeLeetEveryday team.
  </li>

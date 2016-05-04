@@ -119,7 +119,7 @@
    howler.js
   </a>
   <span>
-   &#9733 4284, pushed 5 days ago
+   &#9733 4284, pushed 6 days ago
   </span>
   - a Javascript audio library for the modern web.
  </li>
@@ -140,7 +140,7 @@
    midi.js
   </a>
   <span>
-   &#9733 1774, pushed 12 days ago
+   &#9733 1774, pushed 13 days ago
   </span>
   - a framework for creating web-based MIDI apps.
  </li>
@@ -161,7 +161,7 @@
    Soundpipe
   </a>
   <span>
-   &#9733 320, pushed 3 days ago
+   &#9733 320, pushed 4 days ago
   </span>
   - a lightweight DSP library written in C.
  </li>
@@ -202,7 +202,7 @@
    Musikernel
   </a>
   <span>
-   &#9733 40, pushed 9 days ago
+   &#9733 40, pushed 10 days ago
   </span>
   - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
  </li>
@@ -231,7 +231,7 @@
    ciconia/music
   </a>
   <span>
-   &#9733 4, pushed 34 days ago
+   &#9733 4, pushed 35 days ago
   </span>
   - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
  </li>
@@ -397,7 +397,7 @@
    MuseScore
   </a>
   <span>
-   &#9733 1026, pushed 1 days ago
+   &#9733 1026, pushed 2 days ago
   </span>
   - free open-source music notation and composition software.
  </li>
@@ -439,7 +439,7 @@
    Verovio
   </a>
   <span>
-   &#9733 44, pushed 0 days ago
+   &#9733 44, pushed 1 days ago
   </span>
   - a library and a toolkit for engraving MEI music notation into SVG.
  </li>
@@ -477,7 +477,7 @@
    Chuck
   </a>
   <span>
-   &#9733 132, pushed 3 days ago
+   &#9733 132, pushed 4 days ago
   </span>
   - strongly-timed, concurrent, and on-the-fly music programming language.
  </li>
@@ -573,7 +573,7 @@
    Sporth
   </a>
   <span>
-   &#9733 42, pushed 4 days ago
+   &#9733 42, pushed 5 days ago
   </span>
   - a small stack based audio language.
  </li>

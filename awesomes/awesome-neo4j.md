@@ -324,7 +324,7 @@
    spring-data-neo4j
   </a>
   <span>
-   &#9733 409, pushed 18 days ago
+   &#9733 409, pushed 19 days ago
   </span>
   - Provides support to increase developer productivity in Java when using the neo4j graph database.
  </li>
@@ -356,7 +356,7 @@
    neo4jrb
   </a>
   <span>
-   &#9733 1031, pushed 1 days ago
+   &#9733 1031, pushed 2 days ago
   </span>
   - An active model wrapper for the Neo4j Graph Database for Ruby.
  </li>
@@ -365,7 +365,7 @@
    neography
   </a>
   <span>
-   &#9733 589, pushed 41 days ago
+   &#9733 589, pushed 42 days ago
   </span>
   - A thin Ruby wrapper to the Neo4j Rest API.
  </li>
@@ -467,7 +467,7 @@
    neoism
   </a>
   <span>
-   &#9733 246, pushed 80 days ago
+   &#9733 246, pushed 81 days ago
   </span>
   - Client for Golang.
  </li>
@@ -564,7 +564,7 @@ Neo4j graph database.
    GraphAware Neo4j Elasticsearch Integration
   </a>
   <span>
-   &#9733 38, pushed 17 days ago
+   &#9733 38, pushed 18 days ago
   </span>
   - GraphAware Framework Module for Integrating Neo4j with Elasticsearch.
  </li>
@@ -582,7 +582,7 @@ Neo4j graph database.
    neo4j-elasticsearch
   </a>
   <span>
-   &#9733 40, pushed 32 days ago
+   &#9733 40, pushed 33 days ago
   </span>
   - Neo4j ElasticSearch Integration.
  </li>
@@ -618,7 +618,7 @@ Neo4j graph database.
    neo4j-rdbms-import
   </a>
   <span>
-   &#9733 18, pushed 186 days ago
+   &#9733 18, pushed 187 days ago
   </span>
   - An automatic importer for relational databases into Neo4j.
  </li>
@@ -627,7 +627,7 @@ Neo4j graph database.
    Doc manager for Neo4j
   </a>
   <span>
-   &#9733 24, pushed 39 days ago
+   &#9733 24, pushed 40 days ago
   </span>
   - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector.
  </li>
@@ -815,7 +815,7 @@ Neo4j graph database.
    Liquigraph
   </a>
   <span>
-   &#9733 26, pushed 5 days ago
+   &#9733 26, pushed 6 days ago
   </span>
   - Database migrations management tool, based on how Liquibase works.
  </li>
@@ -833,7 +833,7 @@ Neo4j graph database.
    structr
   </a>
   <span>
-   &#9733 365, pushed 0 days ago
+   &#9733 365, pushed 1 days ago
   </span>
   - Graph Application Platform based on Neo4j.
  </li>
@@ -888,7 +888,7 @@ Neo4j graph database.
    neo4j-shell-tools
   </a>
   <span>
-   &#9733 138, pushed 18 days ago
+   &#9733 138, pushed 19 days ago
   </span>
   - A bunch of import/export tools for the neo4j-shell.
  </li>
@@ -911,7 +911,7 @@ Neo4j graph database.
    Gephi
   </a>
   <span>
-   &#9733 1434, pushed 28 days ago
+   &#9733 1434, pushed 29 days ago
   </span>
   - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
  </li>
@@ -937,7 +937,7 @@ Neo4j graph database.
    store-utils
   </a>
   <span>
-   &#9733 32, pushed 31 days ago
+   &#9733 32, pushed 32 days ago
   </span>
   - Utilities to compact, copy, fix, analyse Neo4j stores.
  </li>
