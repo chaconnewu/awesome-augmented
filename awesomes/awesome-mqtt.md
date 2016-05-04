@@ -191,10 +191,10 @@
   <a href="https://github.com/beerfactory/hbmqtt">
    hbmqtt
   </a>
+  - Python MQTT broker using asyncio.
   <sup>
    &#9733 56, pushed 23 days ago
   </sup>
-  - Python MQTT broker using asyncio.
  </li>
  <li>
   <a href="http://www.hivemq.com/">
@@ -206,10 +206,10 @@
   <a href="https://github.com/andsel/moquette">
    Moquette
   </a>
+  - Java MQTT lightweight broker.
   <sup>
    &#9733 311, pushed 8 days ago
   </sup>
-  - Java MQTT lightweight broker.
  </li>
  <li>
   <a href="http://www.mosca.io/">
@@ -260,19 +260,19 @@
   <a href="https://github.com/chirino/mqtt-benchmark">
    mqtt-benchmark
   </a>
+  - A benchmarking tool for MQTT Servers.
   <sup>
    &#9733 90, pushed 1509 days ago
   </sup>
-  - A benchmarking tool for MQTT Servers.
  </li>
  <li>
   <a href="https://github.com/F-Secure/mqtt_fuzz">
    mqtt-fuzz
   </a>
+  - A simple fuzzer for the MQTT protocol.
   <sup>
    &#9733 23, pushed 361 days ago
   </sup>
-  - A simple fuzzer for the MQTT protocol.
  </li>
  <li>
   <a href="http://mqttfx.jfx4ee.org/">
@@ -284,10 +284,10 @@
   <a href="https://github.com/ckrey/MQTTInspector">
    MQTTInspector
   </a>
+  - A general MQTT testing app for iOS (iPhone and iPad).
   <sup>
    &#9733 40, pushed 71 days ago
   </sup>
-  - A general MQTT testing app for iOS (iPhone and iPad).
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm">
@@ -299,10 +299,10 @@
   <a href="https://github.com/remakeelectric/mqtt-malaria">
    mqtt-malaria
   </a>
+  - scalability and load testing utilities for MQTT environments.
   <sup>
    &#9733 93, pushed 8 days ago
   </sup>
-  - scalability and load testing utilities for MQTT environments.
  </li>
  <li>
   <a href="http://kamilfb.github.io/mqtt-spy/">
@@ -314,10 +314,10 @@
   <a href="https://github.com/dsell/mqtt-utils">
    mqtt-utils
   </a>
+  - a collection of MQTT utilities.
   <sup>
    &#9733 2, pushed 926 days ago
   </sup>
-  - a collection of MQTT utilities.
  </li>
 </ul>
 <h3>
@@ -328,28 +328,28 @@
   <a href="https://github.com/emqtt/CocoaMQTT">
    CocoaMQTT
   </a>
+  - MQTT for iOS and OS X written with Swift.
   <sup>
    &#9733 217, pushed 6 days ago
   </sup>
-  - MQTT for iOS and OS X written with Swift.
  </li>
  <li>
   <a href="https://github.com/emqtt/emqttc">
    emqttc
   </a>
+  - Asynchronous Erlang MQTT Client.
   <sup>
    &#9733 36, pushed 9 days ago
   </sup>
-  - Asynchronous Erlang MQTT Client.
  </li>
  <li>
   <a href="https://github.com/flightonary/Moscapsule">
    Moscapsule
   </a>
+  - MQTT Client for iOS written in Swift
   <sup>
    &#9733 96, pushed 25 days ago
   </sup>
-  - MQTT Client for iOS written in Swift
  </li>
  <li>
   <a href="https://github.com/beerfactory/hbmqtt">
@@ -361,37 +361,37 @@
   <a href="https://github.com/centamiv/mqtt-client">
    mqtt-client
   </a>
+  - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js).
   <sup>
    &#9733 7, pushed 348 days ago
   </sup>
-  - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js).
  </li>
  <li>
   <a href="https://github.com/ckrey/MQTT-Client-Framework">
    MQTT-Client-Framework
   </a>
+  - iOS native ObjectiveC MQTT Framework.
   <sup>
    &#9733 265, pushed 6 days ago
   </sup>
-  - iOS native ObjectiveC MQTT Framework.
  </li>
  <li>
   <a href="https://github.com/alfert/mqttex">
    mqttex
   </a>
+  - MQTT implementation in Elixir.
   <sup>
    &#9733 34, pushed 355 days ago
   </sup>
-  - MQTT implementation in Elixir.
  </li>
  <li>
   <a href="https://github.com/mobile-web-messaging/MQTTKit">
    MQTTKit
   </a>
+  - MQTT Objective-C client for iOS.
   <sup>
    &#9733 250, pushed 235 days ago
   </sup>
-  - MQTT Objective-C client for iOS.
  </li>
  <li>
   <a href="http://geekscape.github.io/mqtt_lua/">
@@ -415,19 +415,19 @@
   <a href="https://github.com/knolleary/pubsubclient">
    pubsubclient
   </a>
+  - A client library for the Arduino Ethernet Shield that provides support for MQTT.
   <sup>
    &#9733 690, pushed 5 days ago
   </sup>
-  - A client library for the Arduino Ethernet Shield that provides support for MQTT.
  </li>
  <li>
   <a href="https://github.com/njh/ruby-mqtt">
    ruby-mqtt
   </a>
+  - Pure Ruby gem that implements the MQTT protocol.
   <sup>
    &#9733 197, pushed 2 days ago
   </sup>
-  - Pure Ruby gem that implements the MQTT protocol.
  </li>
 </ul>
 <h3>
@@ -438,10 +438,10 @@
   <a href="https://github.com/owagner/logic4mqtt">
    logic4mqtt
   </a>
+  - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
   <sup>
    &#9733 4, pushed 64 days ago
   </sup>
-  - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
  </li>
  <li>
   <a href="https://github.com/hobbyquaker/mqtt-scripts/">
@@ -473,28 +473,28 @@
   <a href="https://github.com/computourist/RFM69-MQTT-client">
    RFM69-MQTT-client
   </a>
+  - Arduino RFM69 based sensors and MQTT gateway.
   <sup>
    &#9733 52, pushed 24 days ago
   </sup>
-  - Arduino RFM69 based sensors and MQTT gateway.
  </li>
  <li>
   <a href="https://github.com/hobbyquaker/rpi2mqtt">
    rpi2mqtt
   </a>
+  - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
   <sup>
    &#9733 2, pushed 233 days ago
   </sup>
-  - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
  </li>
  <li>
   <a href="https://github.com/xoseperez/xbee2mqtt">
    xbee2mqtt
   </a>
+  - XBee to MQTT gateway.
   <sup>
    &#9733 13, pushed 89 days ago
   </sup>
-  - XBee to MQTT gateway.
  </li>
 </ul>
 <h4>
@@ -505,19 +505,19 @@
   <a href="https://github.com/owagner/modbus2mqtt">
    modbus2mqtt
   </a>
+  - Modbus master which publishes register values via MQTT.
   <sup>
    &#9733 10, pushed 78 days ago
   </sup>
-  - Modbus master which publishes register values via MQTT.
  </li>
  <li>
   <a href="https://github.com/nzfarmer1/mqtt2opcua">
    mqtt2opcua
   </a>
+  - Bi Directional MQTT to OPCUA Bridge.
   <sup>
    &#9733 9, pushed 276 days ago
   </sup>
-  - Bi Directional MQTT to OPCUA Bridge.
  </li>
 </ul>
 <h4>
@@ -528,19 +528,19 @@
   <a href="https://github.com/zeha/agi-mqtt">
    agi-mqtt
   </a>
+  - Interface between Asterisk and MQTT.
   <sup>
    &#9733 13, pushed 737 days ago
   </sup>
-  - Interface between Asterisk and MQTT.
  </li>
  <li>
   <a href="https://github.com/akentner/fritz2mqtt">
    fritz2mqtt
   </a>
+  - Connect FRITZ!Box to MQTT.
   <sup>
    &#9733 1, pushed 235 days ago
   </sup>
-  - Connect FRITZ!Box to MQTT.
  </li>
 </ul>
 <h4>
@@ -551,37 +551,37 @@
   <a href="https://github.com/jpmens/mqtt-watchdir">
    mqttwatchdir
   </a>
+  - Recursively watch a directory for modifications and publish file content to an MQTT broker.
   <sup>
    &#9733 13, pushed 365 days ago
   </sup>
-  - Recursively watch a directory for modifications and publish file content to an MQTT broker.
  </li>
  <li>
   <a href="https://github.com/jpmens/mqtt-launcher">
    mqttlauncher
   </a>
+  - Execute shell commands triggered by published MQTT messages.
   <sup>
    &#9733 11, pushed 755 days ago
   </sup>
-  - Execute shell commands triggered by published MQTT messages.
  </li>
  <li>
   <a href="https://github.com/oskarhagberg/mqtt-os-status">
    mqtt-os-status
   </a>
+  - Operating-system related data, published to an MQTT broker at fixed intervals.
   <sup>
    &#9733 4, pushed 757 days ago
   </sup>
-  - Operating-system related data, published to an MQTT broker at fixed intervals.
  </li>
  <li>
   <a href="https://github.com/eschava/psmqtt">
    psmqtt
   </a>
+  - Utility reporting system health and status via MQTT
   <sup>
    &#9733 6, pushed 16 days ago
   </sup>
-  - Utility reporting system health and status via MQTT
  </li>
 </ul>
 <h4>
@@ -592,19 +592,19 @@
   <a href="https://github.com/jpmens/check-mqtt">
    check-mqtt
   </a>
+  - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
   <sup>
    &#9733 6, pushed 116 days ago
   </sup>
-  - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
  </li>
  <li>
   <a href="https://github.com/jpmens/notify-by-mqtt">
    notify-by-mqtt
   </a>
+  - a Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.
   <sup>
    &#9733 6, pushed 693 days ago
   </sup>
-  - a Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.
  </li>
 </ul>
 <h4>
@@ -626,19 +626,19 @@
   <a href="https://github.com/jpmens/mqtt2graphite">
    mqtt2graphite
   </a>
+  - Subscribe to MQTT topics and push to Graphite's Carbon server.
   <sup>
    &#9733 39, pushed 135 days ago
   </sup>
-  - Subscribe to MQTT topics and push to Graphite's Carbon server.
  </li>
  <li>
   <a href="https://github.com/hobbyquaker/influx4mqtt">
    influx4mqtt
   </a>
+  - Subscribe to MQTT topics and insert into InfluxDB.
   <sup>
    &#9733 3, pushed 303 days ago
   </sup>
-  - Subscribe to MQTT topics and insert into InfluxDB.
  </li>
 </ul>
 <h4>
@@ -649,50 +649,50 @@
   <a href="https://github.com/hobbyquaker/cul2mqtt">
    cul2mqtt
   </a>
-  <sup>
-   &#9733 0, pushed 234 days ago
-  </sup>
   - Interface between
   <a href="http://shop.busware.de/product_info.php/cPath/1/products_id/29">
    Busware CUL
   </a>
   (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
+  <sup>
+   &#9733 0, pushed 234 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/owagner/eno2mqtt">
    eno2mqtt
   </a>
+  - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
   <sup>
    &#9733 3, pushed 11 days ago
   </sup>
-  - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
  </li>
  <li>
   <a href="https://github.com/owagner/hm2mqtt">
    hm2mqtt
   </a>
+  - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
   <sup>
    &#9733 10, pushed 65 days ago
   </sup>
-  - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
  </li>
  <li>
   <a href="https://github.com/owagner/knx2mqtt">
    knx2mqtt
   </a>
+  - Interface between the KNX home automation standard and MQTT. .
   <sup>
    &#9733 5, pushed 230 days ago
   </sup>
-  - Interface between the KNX home automation standard and MQTT. .
  </li>
  <li>
   <a href="https://github.com/cgHome/mqtt-dss-bridge">
    mqtt-dss-bridge
   </a>
+  - MQTT digitalSTROM-Server Bridge.
   <sup>
    &#9733 2, pushed 222 days ago
   </sup>
-  - MQTT digitalSTROM-Server Bridge.
  </li>
 </ul>
 <h5>
@@ -713,14 +713,14 @@
   <a href="https://github.com/hobbyquaker/homekit2mqtt">
    homekit2mqtt
   </a>
-  <sup>
-   &#9733 3, pushed 120 days ago
-  </sup>
   - Interface between
   <a href="https://github.com/KhaosT/HAP-NodeJS">
    HAP-NodeJS
   </a>
   and MQTT.
+  <sup>
+   &#9733 3, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ioBroker">
@@ -762,28 +762,28 @@
   <a href="https://github.com/owagner/chromoflex2mqtt">
    chromoflex2mqtt
   </a>
+  - Control Chromoflex USP3 RGB LED modules via MQTT
   <sup>
    &#9733 1, pushed 150 days ago
   </sup>
-  - Control Chromoflex USP3 RGB LED modules via MQTT
  </li>
  <li>
   <a href="https://github.com/owagner/hue2mqtt">
    hue2mqtt
   </a>
+  - Interface between the Philips Hue bridge and MQTT.
   <sup>
    &#9733 14, pushed 62 days ago
   </sup>
-  - Interface between the Philips Hue bridge and MQTT.
  </li>
  <li>
   <a href="https://github.com/hobbyquaker/mqtt-dmx-sequencer">
    mqtt-dmx-sequencer
   </a>
+  - Control DMX devices via Art-Net by MQTT.
   <sup>
    &#9733 1, pushed 234 days ago
   </sup>
-  - Control DMX devices via Art-Net by MQTT.
  </li>
 </ul>
 <h4>
@@ -794,59 +794,59 @@
   <a href="https://github.com/hobbyquaker/airtunes2mqtt">
    airtunes2mqtt
   </a>
+  - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
   <sup>
    &#9733 2, pushed 234 days ago
   </sup>
-  - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
  </li>
  <li>
   <a href="https://github.com/owagner/kodi2mqtt">
    kodi2mqtt
   </a>
+  - Interface between a Kodi mediacenter instance and MQTT.
   <sup>
    &#9733 17, pushed 2 days ago
   </sup>
-  - Interface between a Kodi mediacenter instance and MQTT.
  </li>
  <li>
   <a href="https://github.com/hobbyquaker/lirc2mqtt">
    lirc2mqtt
   </a>
-  <sup>
-   &#9733 2, pushed 177 days ago
-  </sup>
   - Send and receive infrared via
   <a href="www.lirc.org">
    LIRC
   </a>
   .
+  <sup>
+   &#9733 2, pushed 177 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/owagner/onkyo2mqtt">
    onkyo2mqtt
   </a>
+  - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
   <sup>
    &#9733 3, pushed 331 days ago
   </sup>
-  - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
  </li>
  <li>
   <a href="https://github.com/gordonjcp/xbmc-mqtt">
    xbmc2mqtt
   </a>
+  - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message
   <sup>
    &#9733 4, pushed 413 days ago
   </sup>
-  - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message
  </li>
  <li>
   <a href="https://github.com/akentner/yamaha-avr2mqtt">
    yamaha-avr2mqtt
   </a>
+  .
   <sup>
    &#9733 1, pushed 126 days ago
   </sup>
-  .
  </li>
 </ul>
 <h4>
@@ -857,14 +857,14 @@
   <a href="https://github.com/hobbyquaker/flowerpower2mqtt">
    flowerpower2mqtt
   </a>
-  <sup>
-   &#9733 0, pushed 192 days ago
-  </sup>
   - Publish measurements from
   <a href="http://www.parrot.com/usa/products/flower-power/">
    Parrot Flower Power
   </a>
   plant sensors to MQTT.
+  <sup>
+   &#9733 0, pushed 192 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -875,14 +875,14 @@
   <a href="https://github.com/hobbyquaker/bcontrol2mqtt">
    bcontrol2mqtt
   </a>
-  <sup>
-   &#9733 0, pushed 234 days ago
-  </sup>
   - Publish measurements from
   <a href="http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/">
    TQ Energy Manager
   </a>
   to MQTT.
+  <sup>
+   &#9733 0, pushed 234 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -893,28 +893,28 @@
   <a href="https://github.com/dobermai/mqtt-irc-bot">
    mqtt-irc-bot
   </a>
+  - A MQTT to IRC / IRC to MQTT bridge or bot.
   <sup>
    &#9733 10, pushed 184 days ago
   </sup>
-  - A MQTT to IRC / IRC to MQTT bridge or bot.
  </li>
  <li>
   <a href="https://github.com/jpmens/mqttwarn">
    mqttwarn
   </a>
+  - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
   <sup>
    &#9733 382, pushed 13 days ago
   </sup>
-  - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
  </li>
  <li>
   <a href="https://github.com/knolleary/twitter-to-mqtt">
    twitter-to-mqtt
   </a>
+  - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
   <sup>
    &#9733 9, pushed 1231 days ago
   </sup>
-  - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
  </li>
 </ul>
 <h4>
@@ -925,10 +925,10 @@
   <a href="https://github.com/fabaff/mqtt-panel">
    mqtt-panel
   </a>
+  - A web interface for MQTT.
   <sup>
    &#9733 83, pushed 79 days ago
   </sup>
-  - A web interface for MQTT.
  </li>
 </ul>
 <h3>
@@ -939,10 +939,10 @@
   <a href="https://github.com/mqtt-smarthome/mqtt-smarthome">
    mqtt-smarthome
   </a>
+  - Smart home automation with MQTT as the central message bus - Architectural proposal.
   <sup>
    &#9733 30, pushed 149 days ago
   </sup>
-  - Smart home automation with MQTT as the central message bus - Architectural proposal.
  </li>
 </ul>
 <h2>

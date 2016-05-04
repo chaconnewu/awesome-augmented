@@ -352,10 +352,10 @@
   <a href="https://github.com/10up/flexibility">
    Flexibility
   </a>
+  :metal:
   <sup>
    &#9733 2190, pushed 4 days ago
   </sup>
-  :metal:
  </li>
  <li>
   <a href="https://github.com/doctyper/flexie">

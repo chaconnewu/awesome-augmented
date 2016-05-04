@@ -130,10 +130,10 @@
   <a href="https://github.com/pledbrook/lazybones">
    Lazybones
   </a>
+  - A simple project creation tool that uses packaged project templates.
   <sup>
    &#9733 336, pushed 6 days ago
   </sup>
-  - A simple project creation tool that uses packaged project templates.
  </li>
 </ul>
 <h2>
@@ -162,10 +162,10 @@
   <a href="https://github.com/rundis/LightTable-Groovy">
    LightTable Plugin
   </a>
+  - LightTable Support
   <sup>
    &#9733 25, pushed 3 days ago
   </sup>
-  - LightTable Support
  </li>
  <li>
   <a href="https://gist.github.com/kdabir/2203530">
@@ -182,46 +182,46 @@
   <a href="https://github.com/grails/grails">
    Grails
   </a>
+  - A powerful web application framework based on the Groovy language
   <sup>
    &#9733 449, pushed 2274 days ago
   </sup>
-  - A powerful web application framework based on the Groovy language
  </li>
  <li>
   <a href="https://github.com/gaelyk/gaelyk">
    Gaelyk
   </a>
+  - A lightweight Groovy toolkit for Google App Engine Java
   <sup>
    &#9733 225, pushed 4 days ago
   </sup>
-  - A lightweight Groovy toolkit for Google App Engine Java
  </li>
  <li>
   <a href="https://github.com/kdabir/glide">
    Glide
   </a>
+  - Create awesome apps on Google App Engine in a snap
   <sup>
    &#9733 36, pushed 25 days ago
   </sup>
-  - Create awesome apps on Google App Engine in a snap
  </li>
  <li>
   <a href="https://github.com/ratpack/ratpack">
    Ratpack
   </a>
+  - A toolkit for JVM web applications
   <sup>
    &#9733 1067, pushed 2 days ago
   </sup>
-  - A toolkit for JVM web applications
  </li>
  <li>
   <a href="https://github.com/javaConductor/gserv">
    gServ
   </a>
+  - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
   <sup>
    &#9733 31, pushed 13 days ago
   </sup>
-  - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
  </li>
  <li>
   <a href="http://projects.spring.io/spring-boot">
@@ -238,55 +238,55 @@
   <a href="https://github.com/poiati/gmongo">
    Gmongo
   </a>
+  - A Groovy wrapper to the mongodb Java driver
   <sup>
    &#9733 166, pushed 4 days ago
   </sup>
-  - A Groovy wrapper to the mongodb Java driver
  </li>
  <li>
   <a href="https://github.com/kdabir/gstorm">
    Gstorm
   </a>
+  - A simple ORM for simple databases and CSV files to be used in groovy scripts
   <sup>
    &#9733 52, pushed 37 days ago
   </sup>
-  - A simple ORM for simple databases and CSV files to be used in groovy scripts
  </li>
  <li>
   <a href="https://github.com/EqualExperts/Tayra">
    Tayra
   </a>
+  - Incremental backup tool for MongoDB
   <sup>
    &#9733 120, pushed 354 days ago
   </sup>
-  - Incremental backup tool for MongoDB
  </li>
  <li>
   <a href="https://github.com/tlberglund/groovy-liquibase">
    Groovy-liquibase
   </a>
+  - Yet Another Groovy DSL for Liquibase
   <sup>
    &#9733 67, pushed 162 days ago
   </sup>
-  - Yet Another Groovy DSL for Liquibase
  </li>
  <li>
   <a href="https://github.com/cjstehno/effigy">
    Effigy
   </a>
+  - Groovy annotation-driven JDBC row mapping framework
   <sup>
    &#9733 3, pushed 68 days ago
   </sup>
-  - Groovy annotation-driven JDBC row mapping framework
  </li>
  <li>
   <a href="https://github.com/elastic/elasticsearch-groovy">
    elasticsearch-groovy
   </a>
+  - Elasticsearch Groovy client
   <sup>
    &#9733 24, pushed 90 days ago
   </sup>
-  - Elasticsearch Groovy client
  </li>
 </ul>
 <h2>
@@ -314,28 +314,28 @@
   <a href="https://github.com/jgritman/httpbuilder">
    Http-Builder
   </a>
+  - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
   <sup>
    &#9733 138, pushed 140 days ago
   </sup>
-  - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
  </li>
  <li>
   <a href="https://github.com/eginez/AsyncRestClient">
    AsyncRestClient
   </a>
+  - Combine the power of RESTClient with RxGroovy for async http calls
   <sup>
    &#9733 4, pushed 150 days ago
   </sup>
-  - Combine the power of RESTClient with RxGroovy for async http calls
  </li>
  <li>
   <a href="https://github.com/jwagenleitner/groovy-wslite">
    Groovy-wslite
   </a>
+  - Lightweight SOAP and REST webservice clients for Groovy
   <sup>
    &#9733 294, pushed 16 days ago
   </sup>
-  - Lightweight SOAP and REST webservice clients for Groovy
  </li>
 </ul>
 <h2>
@@ -346,19 +346,19 @@
   <a href="https://github.com/spockframework/spock">
    Spock
   </a>
+  - The Enterprise-ready testing and specification framework.
   <sup>
    &#9733 1053, pushed 3 days ago
   </sup>
-  - The Enterprise-ready testing and specification framework.
  </li>
  <li>
   <a href="https://github.com/geb/geb">
    Geb
   </a>
+  - Very Groovy Browser Automation
   <sup>
    &#9733 595, pushed 13 days ago
   </sup>
-  - Very Groovy Browser Automation
  </li>
  <li>
   <a href="http://freeside.co/betamax/">
@@ -375,19 +375,19 @@
   <a href="https://github.com/GPars/GPars">
    GPars
   </a>
+  - The GPars concurrency and parallelism framework for the JVM
   <sup>
    &#9733 103, pushed 47 days ago
   </sup>
-  - The GPars concurrency and parallelism framework for the JVM
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxGroovy">
    RxGroovy
   </a>
+  - RxJava bindings for Groovy
   <sup>
    &#9733 80, pushed 66 days ago
   </sup>
-  - RxJava bindings for Groovy
  </li>
  <li>
   <a href="http://vertx.io/">
@@ -415,10 +415,10 @@
   <a href="https://github.com/chiquitinxx/grooscript">
    Grooscript
   </a>
+  - Converts your Groovy code to Javascript
   <sup>
    &#9733 145, pushed 7 days ago
   </sup>
-  - Converts your Groovy code to Javascript
  </li>
 </ul>
 <h2>
@@ -429,19 +429,19 @@
   <a href="https://github.com/sysgears/grain">
    Grain
   </a>
+  - Static Web Site Building Framework For Groovy
   <sup>
    &#9733 113, pushed 9 days ago
   </sup>
-  - Static Web Site Building Framework For Groovy
  </li>
  <li>
   <a href="https://github.com/kobo/gaiden">
    Gaiden
   </a>
+  - Gaiden is a tool that makes it easy to create documentation with Markdown.
   <sup>
    &#9733 103, pushed 426 days ago
   </sup>
-  - Gaiden is a tool that makes it easy to create documentation with Markdown.
  </li>
 </ul>
 <h2>
@@ -452,46 +452,46 @@
   <a href="https://github.com/mperry/functionalgroovy">
    Functionalgroovy
   </a>
+  - Functional programming in Groovy
   <sup>
    &#9733 50, pushed 254 days ago
   </sup>
-  - Functional programming in Groovy
  </li>
  <li>
   <a href="https://github.com/timyates/groovy-stream">
    Groovy-stream
   </a>
+  - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
   <sup>
    &#9733 63, pushed 310 days ago
   </sup>
-  - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
  </li>
  <li>
   <a href="https://github.com/johnnywey/flipside">
    Flipside
   </a>
+  - Simple Groovy options library
   <sup>
    &#9733 21, pushed 78 days ago
   </sup>
-  - Simple Groovy options library
  </li>
  <li>
   <a href="https://github.com/timyates/groovy-common-extensions">
    groovy-common-extensions
   </a>
+  - Lets you add things commonly useful to the Groovy language via the extension system
   <sup>
    &#9733 48, pushed 497 days ago
   </sup>
-  - Lets you add things commonly useful to the Groovy language via the extension system
  </li>
  <li>
   <a href="https://github.com/dnahodil/groovy-extra-list-behaviour">
    groovy-extra-list-behaviour
   </a>
+  - Adds extra methods to Lists via the extension system
   <sup>
    &#9733 1, pushed 157 days ago
   </sup>
-  - Adds extra methods to Lists via the extension system
  </li>
  <li>
   <a href="https://github.com/gperfutils">
@@ -503,19 +503,19 @@
     <a href="https://github.com/gperfutils/gprof">
      gprof
     </a>
+    - The profiling module for Groovy
     <sup>
      &#9733 21, pushed 311 days ago
     </sup>
-    - The profiling module for Groovy
    </li>
    <li>
     <a href="https://github.com/gperfutils/gbench">
      gbench
     </a>
+    - The benchmarking module for Groovy
     <sup>
      &#9733 16, pushed 444 days ago
     </sup>
-    - The benchmarking module for Groovy
    </li>
   </ul>
  </li>
@@ -528,19 +528,19 @@
   <a href="https://github.com/ysb33r/groovy-vfs">
    Groovy-Vfs
   </a>
+  - A DSL for Groovy on top of Apache VFS2
   <sup>
    &#9733 42, pushed 93 days ago
   </sup>
-  - A DSL for Groovy on top of Apache VFS2
  </li>
  <li>
   <a href="https://github.com/kdabir/directree">
    Directree
   </a>
+  - A Simple DSL to create Directory Tree with Text Files
   <sup>
    &#9733 8, pushed 295 days ago
   </sup>
-  - A Simple DSL to create Directory Tree with Text Files
  </li>
 </ul>
 <h2>
@@ -551,19 +551,19 @@
   <a href="https://github.com/craigburke/document-builder">
    document-builder
   </a>
+  - A document builder for Groovy for PDF or Word documents.
   <sup>
    &#9733 71, pushed 8 days ago
   </sup>
-  - A document builder for Groovy for PDF or Word documents.
  </li>
  <li>
   <a href="https://github.com/MetadataRegistry/spreadsheet-builder">
    spreadsheet-builder
   </a>
+  - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
   <sup>
    &#9733 17, pushed 118 days ago
   </sup>
-  - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
  </li>
 </ul>
 <h2>
@@ -574,10 +574,10 @@
   <a href="https://github.com/aestasit/sshoogr">
    sshoogr
   </a>
+  - DSL library for working with remote servers through SSH.
   <sup>
    &#9733 171, pushed 27 days ago
   </sup>
-  - DSL library for working with remote servers through SSH.
  </li>
 </ul>
 <h1>

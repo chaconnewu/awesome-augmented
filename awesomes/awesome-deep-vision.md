@@ -437,12 +437,12 @@
   <a href="https://github.com/scott89/FCNT">
    [GitHub]
   </a>
-  <sup>
-   &#9733 20, pushed 143 days ago
-  </sup>
   <a href="http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf">
    [Paper]
   </a>
+  <sup>
+   &#9733 20, pushed 143 days ago
+  </sup>
  </li>
  <li>
   Hyeonseob Nam    and Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [[Paper](http://arxiv.org/pdf/1510.07945.pdf)] [[Code](https://github.com/HyeonseobNam/MDNet)] [[Project Page](http://cvlab.postech.ac.kr/research/mdnet/)]
@@ -1706,11 +1706,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/goodfeli/adversarial">
      [Web]
     </a>
-    <sup>
-     &#9733 146, pushed 677 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 146, pushed 677 days ago
+  </sup>
  </li>
  <li>
   Understanding and Visualizing
@@ -1720,11 +1720,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/aravindhm/deep-goggle">
      [Web]
     </a>
-    <sup>
-     &#9733 75, pushed 62 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 75, pushed 62 days ago
+  </sup>
  </li>
  <li>
   Semantic Segmentation
@@ -1734,9 +1734,6 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/rbgirshick/rcnn">
      [Web]
     </a>
-    <sup>
-     &#9733 670, pushed 88 days ago
-    </sup>
    </li>
    <li>
     Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015.
@@ -1745,6 +1742,9 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 670, pushed 88 days ago
+  </sup>
  </li>
  <li>
   Super-Resolution
@@ -1754,11 +1754,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/nagadomi/waifu2x">
      [Web]
     </a>
-    <sup>
-     &#9733 5700, pushed 10 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 5700, pushed 11 days ago
+  </sup>
  </li>
  <li>
   Edge Detection
@@ -1768,11 +1768,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/shenwei1231/DeepContour">
      [Web]
     </a>
-    <sup>
-     &#9733 16, pushed 372 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 16, pushed 372 days ago
+  </sup>
  </li>
 </ul>
 <h2>

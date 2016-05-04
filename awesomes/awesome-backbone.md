@@ -606,46 +606,46 @@
   <a href="https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate">
    Backbone Require Boilerplate
   </a>
+  - A Rad Backbone.js and Require.js Boilerplate Project
   <sup>
    &#9733 624, pushed 596 days ago
   </sup>
-  - A Rad Backbone.js and Require.js Boilerplate Project
  </li>
  <li>
   <a href="https://github.com/ccoenraets/backbone-cellar">
    Wine Cellar Sample Application
   </a>
+  - "Backbone Cellar" is a sample application built with Backbone.js
   <sup>
    &#9733 929, pushed 1461 days ago
   </sup>
-  - "Backbone Cellar" is a sample application built with Backbone.js
  </li>
  <li>
   <a href="https://github.com/ccoenraets/directory-backbone-bootstrap">
    Employee Directory
   </a>
+  - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
   <sup>
    &#9733 463, pushed 248 days ago
   </sup>
-  - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
  </li>
  <li>
   <a href="https://github.com/dmytroyarmak/backbone-contact-manager">
    Backbone Contact Manager
   </a>
+  - Simple Backbone.js example application
   <sup>
    &#9733 52, pushed 818 days ago
   </sup>
-  - Simple Backbone.js example application
  </li>
  <li>
   <a href="https://github.com/addyosmani/backbone-boilerplates">
    Backbone Boilerplates
   </a>
+  - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
   <sup>
    &#9733 494, pushed 1127 days ago
   </sup>
-  - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
  </li>
  <li>
   <a href="http://todomvc.com/examples/backbone/">

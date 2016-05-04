@@ -7600,14 +7600,14 @@ set -sg escape-time 0
   <a href="https://github.com/altercation/vim-colors-solarized">
    solarized
   </a>
-  <sup>
-   &#9733 3824, pushed 11 days ago
-  </sup>
   (or a lighter variant:
   <a href="https://github.com/romainl/flattened">
    flattened
   </a>
   )
+  <sup>
+   &#9733 3824, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chriskempson/vim-tomorrow-theme">

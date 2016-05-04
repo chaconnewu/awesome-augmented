@@ -465,12 +465,12 @@
   <a href="https://github.com/apple/swift-evolution">
    :book:
   </a>
-  <sup>
-   &#9733 3723, pushed 1 days ago
-  </sup>
   <a href="https://github.com/apple/swift/blob/master/docs/LibraryEvolution.rst">
    :book:
   </a>
+  <sup>
+   &#9733 3723, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Swift Style Rules
@@ -567,9 +567,6 @@
     <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">
      :scroll:
     </a>
-    <sup>
-     &#9733 406, pushed 10 days ago
-    </sup>
    </li>
    <li>
     :fire: Awesome iOS
@@ -626,6 +623,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 406, pushed 10 days ago
+  </sup>
  </li>
  <li>
   Other
@@ -1114,11 +1114,11 @@ camera:
     <a href="https://github.com/matthewpalmer/Charter">
      :pencil2:
     </a>
-    <sup>
-     &#9733 233, pushed 31 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 233, pushed 31 days ago
+  </sup>
  </li>
  <li>
   Blogs
@@ -1128,9 +1128,6 @@ camera:
     <a href="https://github.com/orta/Swift-at-Artsy">
      :notebook:
     </a>
-    <sup>
-     &#9733 223, pushed 72 days ago
-    </sup>
    </li>
    <li>
     :raised_hands: Objc.io
@@ -1256,6 +1253,9 @@ camera:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 223, pushed 72 days ago
+  </sup>
  </li>
  <li>
   Conferences
@@ -1265,9 +1265,6 @@ camera:
     <a href="https://github.com/Lascorbe/CocoaConferences">
      :pencil2:
     </a>
-    <sup>
-     &#9733 509, pushed 5 days ago
-    </sup>
    </li>
    <li>
     7 of the Best Mac & iOS Dev Conferences in 2016
@@ -1280,6 +1277,9 @@ camera:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 509, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Forums
@@ -2563,11 +2563,11 @@ up:
    <a href="https://github.com/tomekc/SwiftActors">
     :pencil2:
    </a>
-   <sup>
-    &#9733 31, pushed 617 days ago
-   </sup>
   </li>
  </ul>
+ <sup>
+  &#9733 31, pushed 617 days ago
+ </sup>
 </li>
 <li>
  Coroutines
@@ -2603,9 +2603,6 @@ up:
    <a href="https://github.com/f-dz-v/SwiftSTM">
     :pencil2:
    </a>
-   <sup>
-    &#9733 47, pushed 126 days ago
-   </sup>
   </li>
   <li>
    Threading with Closures
@@ -2645,6 +2642,9 @@ up:
    </a>
   </li>
  </ul>
+ <sup>
+  &#9733 47, pushed 126 days ago
+ </sup>
 </li>
 <p>
  <a href="#index">
@@ -2704,12 +2704,12 @@ up:
   <a href="https://github.com/NachoSoto/swift-genetics">
    :pencil2:
   </a>
-  <sup>
-   &#9733 33, pushed 494 days ago
-  </sup>
   <a href="https://github.com/saniul/Mendel">
    :pencil2:
   </a>
+  <sup>
+   &#9733 33, pushed 494 days ago
+  </sup>
  </li>
  <li>
   Disjoint Sets
@@ -2783,14 +2783,14 @@ up:
     <a href="https://github.com/waynewbishop/SwiftStructures">
      :pencil2:
     </a>
-    <sup>
-     &#9733 1322, pushed 5 days ago
-    </sup>
     <a href="https://github.com/karan/Swift-Algorithms">
      :pencil2:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 1322, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Graphs
@@ -2807,7 +2807,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 216, pushed 26 days ago
+     &#9733 216, pushed 27 days ago
     </sup>
    </li>
   </ul>
@@ -2835,11 +2835,11 @@ up:
     <a href="https://github.com/skyfe79/SwiftImageProcessing">
      :pencil2:
     </a>
-    <sup>
-     &#9733 321, pushed 49 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 321, pushed 49 days ago
+  </sup>
  </li>
  <li>
   Language Processing
@@ -2849,11 +2849,11 @@ up:
     <a href="https://github.com/fcanas/Bayes">
      :pencil2:
     </a>
-    <sup>
-     &#9733 7, pushed 109 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 7, pushed 109 days ago
+  </sup>
  </li>
  <li>
   Lists
@@ -2907,9 +2907,6 @@ up:
     <a href="https://github.com/DeepLearningKit/DeepLearningKit">
      :pencil2:
     </a>
-    <sup>
-     &#9733 429, pushed 65 days ago
-    </sup>
    </li>
    <li>
     Neural Networks in Swift
@@ -2955,6 +2952,9 @@ up:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 429, pushed 65 days ago
+  </sup>
  </li>
  <li>
   Math
@@ -3055,9 +3055,6 @@ up:
     <a href="https://github.com/hollance/swift-algorithm-club">
      :pencil2:
     </a>
-    <sup>
-     &#9733 5152, pushed 4 days ago
-    </sup>
    </li>
    <li>
     Algorithms by CosmicMind
@@ -3075,6 +3072,9 @@ up:
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 5152, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Sorts
@@ -3124,9 +3124,6 @@ up:
     <a href="https://github.com/davecom/SwiftPriorityQueue">
      :pencil2:
     </a>
-    <sup>
-     &#9733 178, pushed 15 days ago
-    </sup>
    </li>
    <li>
     Generic Stack in Swift
@@ -3171,6 +3168,9 @@ up:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 178, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Trees
@@ -3346,12 +3346,12 @@ up:
   <a href="https://github.com/samhann/Every.swift">
    :oencil2:
   </a>
-  <sup>
-   &#9733 209, pushed 102 days ago
-  </sup>
   <a href="https://github.com/radex/SwiftyTimer">
    :pencil2:
   </a>
+  <sup>
+   &#9733 209, pushed 102 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -4018,14 +4018,14 @@ facing
    <a href="https://github.com/hpique/SwiftSingleton">
     :pencil2:
    </a>
-   <sup>
-    &#9733 1009, pushed 159 days ago
-   </sup>
   </li>
   <li>
    Using a dispatch
   </li>
  </ul>
+ <sup>
+  &#9733 1009, pushed 159 days ago
+ </sup>
 </li>
 once singleton model
 <a href="http://stackoverflow.com/questions/24024549/using-a-dispatch-once-singleton-model-in-swift">
@@ -5034,15 +5034,15 @@ once singleton model
   <a href="https://github.com/yingogobot/Swift-Useful-Extensions">
    :pencil2:
   </a>
-  <sup>
-   &#9733 176, pushed 609 days ago
-  </sup>
   <a href="https://github.com/eonist/swift-utils">
    :pencil2:
   </a>
   <a href="https://github.com/goktugyil/EZSwiftExtensions">
    :pencil2:
   </a>
+  <sup>
+   &#9733 176, pushed 609 days ago
+  </sup>
  </li>
  <li>
   Public Extension
@@ -5792,9 +5792,6 @@ Swift
  <a href="https://github.com/typelift/Operadics">
   :pencil:
  </a>
- <sup>
-  &#9733 24, pushed 72 days ago
- </sup>
  <a href="http://sketchytech.blogspot.com/2015/06/functional-programming-understanding.html">
   :page
   <em>
@@ -5805,6 +5802,9 @@ Swift
  <a href="https://gist.github.com/sketchytech/c02adc1b68fb1080ffc3">
   :pencil:
  </a>
+ <sup>
+  &#9733 24, pushed 72 days ago
+ </sup>
 </li>
 <li>
  Point-Free Style Swift
@@ -6539,9 +6539,6 @@ facing_up:
     </em>
     up:
    </a>
-   <sup>
-    &#9733 21, pushed 94 days ago
-   </sup>
    <a href="http://matt.might.net/articles/implementing-laziness/">
     :page
     <em>
@@ -6549,6 +6546,9 @@ facing_up:
     </em>
     up:
    </a>
+   <sup>
+    &#9733 21, pushed 94 days ago
+   </sup>
   </li>
   <li>
    Making flatMap lazy
@@ -6635,9 +6635,6 @@ facing_up:
    <a href="https://github.com/FutureKit/FutureKit">
     :pencil2:
    </a>
-   <sup>
-    &#9733 410, pushed 4 days ago
-   </sup>
   </li>
   <li>
    A simple Promise in Swift
@@ -6650,24 +6647,24 @@ facing_up:
    <a href="https://github.com/mxcl/PromiseKit">
     :pencil2:
    </a>
-   <sup>
-    &#9733 5026, pushed 7 days ago
-   </sup>
    <a href="http://promisekit.org/">
     :link:
    </a>
+   <sup>
+    &#9733 5026, pushed 7 days ago
+   </sup>
   </li>
   <li>
    BrightFutures Repository
    <a href="https://github.com/Thomvis/BrightFutures">
     :pencil2:
    </a>
-   <sup>
-    &#9733 1062, pushed 2 days ago
-   </sup>
    <a href="http://www.thomasvisser.me/2015/11/08/swiftsummit-execution-context/">
     :microphone:
    </a>
+   <sup>
+    &#9733 1062, pushed 2 days ago
+   </sup>
   </li>
   <li>
    Back to the Futures with Swift
@@ -6695,6 +6692,9 @@ facing_up:
    </a>
   </li>
  </ul>
+ <sup>
+  &#9733 410, pushed 4 days ago
+ </sup>
 </li>
 disk:
 <li>
@@ -6898,9 +6898,6 @@ disk:
    <a href="https://github.com/mbrandonw/naturally-swift">
     :pencil2:
    </a>
-   <sup>
-    &#9733 1, pushed 596 days ago
-   </sup>
   </li>
   <li>
    Categories in Swift
@@ -6915,6 +6912,9 @@ disk:
    </a>
   </li>
  </ul>
+ <sup>
+  &#9733 1, pushed 596 days ago
+ </sup>
 </li>
 <li>
  Funtional Frameworks
@@ -7997,12 +7997,12 @@ disk:
     <a href="https://github.com/AliSoftware/Dip">
      :pencil2:
     </a>
-    <sup>
-     &#9733 192, pushed 2 days ago
-    </sup>
     <a href="https://github.com/AliSoftware/Dip-UI">
      :pencil2:
     </a>
+    <sup>
+     &#9733 192, pushed 2 days ago
+    </sup>
    </li>
    <li>
     Nuts and Bolts of Dependency Injection in Swift
@@ -8028,12 +8028,12 @@ disk:
     <a href="https://github.com/knightswhosaynil/Apodidae">
      :pencil2:
     </a>
-    <sup>
-     &#9733 16, pushed 244 days ago
-    </sup>
     <a href="https://github.com/Swinject/Swinject">
      :pencil2:
     </a>
+    <sup>
+     &#9733 16, pushed 244 days ago
+    </sup>
    </li>
    <li>
     Swift Injection Wesite
@@ -9519,11 +9519,11 @@ facing_up:
     </em>
     up:
    </a>
-   <sup>
-    &#9733 211, pushed 4 days ago
-   </sup>
   </li>
  </ul>
+ <sup>
+  &#9733 211, pushed 4 days ago
+ </sup>
 </li>
 <li>
  Python
@@ -9533,11 +9533,11 @@ facing_up:
    <a href="https://github.com/practicalswift/Pythonic.swift">
     :pencil2:
    </a>
-   <sup>
-    &#9733 487, pushed 44 days ago
-   </sup>
   </li>
  </ul>
+ <sup>
+  &#9733 487, pushed 44 days ago
+ </sup>
 </li>
 <li>
  Elixir
@@ -9871,7 +9871,7 @@ disk:
   up:
  </a>
  <sup>
-  &#9733 125, pushed 169 days ago
+  &#9733 125, pushed 170 days ago
  </sup>
 </li>
 <li>
@@ -10178,9 +10178,6 @@ disk:
    <a href="https://github.com/dkhamsing/ios-asset-names">
     :pencil:
    </a>
-   <sup>
-    &#9733 397, pushed 15 days ago
-   </sup>
   </li>
   <li>
    Xcode Snippets
@@ -10224,6 +10221,9 @@ disk:
    </a>
   </li>
  </ul>
+ <sup>
+  &#9733 397, pushed 15 days ago
+ </sup>
 </li>
 <p>
  <a href="#index">
@@ -10865,7 +10865,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 33, pushed 37 days ago
+   &#9733 33, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -10873,9 +10873,6 @@ facing_up:
   <a href="https://github.com/czechboy0/Socks">
    :pencil2:
   </a>
-  <sup>
-   &#9733 242, pushed 7 days ago
-  </sup>
   <a href="http://dev.iachieved.it/iachievedit/tcp-sockets-with-swift-on-linux/">
    :page
    <em>
@@ -10883,6 +10880,9 @@ facing_up:
    </em>
    up:
   </a>
+  <sup>
+   &#9733 242, pushed 7 days ago
+  </sup>
  </li>
  <li>
   Zevo Server Side Swift Community
@@ -11415,9 +11415,6 @@ facing_up:
     <a href="https://github.com/Quick/Quick">
      :pencil2:
     </a>
-    <sup>
-     &#9733 4606, pushed 2 days ago
-    </sup>
     <a href="http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/">
      :page
      <em>
@@ -11425,6 +11422,9 @@ facing_up:
      </em>
      up:
     </a>
+    <sup>
+     &#9733 4606, pushed 2 days ago
+    </sup>
    </li>
    <li>
     Nimble Matcher Framework
@@ -11582,11 +11582,11 @@ facing_up:
     <a href="https://github.com/facebook/ios-snapshot-test-case">
      :pencil2:
     </a>
-    <sup>
-     &#9733 1784, pushed 1 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 1784, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Profiling
@@ -11660,9 +11660,6 @@ disk:
    <a href="https://github.com/typelift/SwiftCheck">
     :pencil2:
    </a>
-   <sup>
-    &#9733 360, pushed 2 days ago
-   </sup>
   </li>
   <li>
    More functional testing
@@ -11675,6 +11672,9 @@ disk:
    </a>
   </li>
  </ul>
+ <sup>
+  &#9733 360, pushed 3 days ago
+ </sup>
 </li>
 <li>
  iOS Testing
@@ -11803,11 +11803,11 @@ disk:
     <a href="https://github.com/vsco/swift-benchmarks">
      :pencil2:
     </a>
-    <sup>
-     &#9733 48, pushed 146 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 48, pushed 146 days ago
+  </sup>
  </li>
  <li>
   Continuous Integration
@@ -11897,9 +11897,6 @@ disk:
     <a href="https://github.com/realm/SwiftCov">
      :pencil2:
     </a>
-    <sup>
-     &#9733 438, pushed 96 days ago
-    </sup>
    </li>
    <li>
     Continuous Integration and Code Coverage In Xcode
@@ -11927,6 +11924,9 @@ disk:
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 438, pushed 96 days ago
+  </sup>
  </li>
  <li>
   Debugging Tools
@@ -12012,14 +12012,14 @@ disk:
      </em>
      up:
     </a>
-    <sup>
-     &#9733 3083, pushed 6 days ago
-    </sup>
     <a href="https://speakerdeck.com/jpsim/overview-of-jazzy-soulful-docs-for-swift">
      :floppy_disk:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 3083, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Docker Tools
@@ -12053,11 +12053,11 @@ disk:
     <a href="https://github.com/kylef/heroku-buildpack-swift">
      :pencil2:
     </a>
-    <sup>
-     &#9733 278, pushed 71 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 278, pushed 71 days ago
+  </sup>
  </li>
  <li>
   Swift Tools
@@ -12088,9 +12088,6 @@ disk:
     <a href="https://github.com/alcatraz/Alcatraz">
      :pencil2:
     </a>
-    <sup>
-     &#9733 8498, pushed 7 days ago
-    </sup>
    </li>
    <li>
     Cocoa Layout Instrument
@@ -12159,10 +12156,13 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 918, pushed 17 days ago
+     &#9733 918, pushed 18 days ago
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 8498, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -12699,12 +12699,12 @@ disk:
    <a href="https://github.com/antitypical/Manifold">
     :pencil2:
    </a>
-   <sup>
-    &#9733 36, pushed 123 days ago
-   </sup>
    <a href="https://github.com/oisdk/PretendDependSwift">
     :pencil2:
    </a>
+   <sup>
+    &#9733 36, pushed 123 days ago
+   </sup>
   </li>
   <li>
    Dependent Types: I'm missing something
@@ -13828,15 +13828,15 @@ disk:
      </em>
      up:
     </a>
-    <sup>
-     &#9733 431, pushed 104 days ago
-    </sup>
     <a href="https://gist.github.com/rjchatfield/27e3d8ef2249a4298046#file-statereduce-swift">
      :pencil:
     </a>
     <a href="https://github.com/ReduxKit">
      :pencil2:
     </a>
+    <sup>
+     &#9733 431, pushed 104 days ago
+    </sup>
    </li>
    <li>
     Uber Jetstream
@@ -13873,9 +13873,6 @@ disk:
     <a href="https://github.com/ReactKit/SwiftState">
      :pencil2:
     </a>
-    <sup>
-     &#9733 461, pushed 43 days ago
-    </sup>
     <a href="https://github.com/tangphillip/state-machine-talk">
      :floppy_disk:
     </a>
@@ -13970,6 +13967,9 @@ disk:
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 461, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -14908,9 +14908,6 @@ up:
     <a href="https://github.com/unifiedh/Chameleon-Swift">
      :pencil2:
     </a>
-    <sup>
-     &#9733 346, pushed 108 days ago
-    </sup>
    </li>
    <li>
     Did Apple implement UIKit and Cocoa classes "Obj-C on Swift"
@@ -14942,6 +14939,9 @@ up:
     </someprotocol>
    </li>
   </ul>
+  <sup>
+   &#9733 346, pushed 108 days ago
+  </sup>
  </li>
 </ul>
 <p>

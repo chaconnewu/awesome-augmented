@@ -268,19 +268,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/kriswallsmith/buzz">
    Buzz
   </a>
+  - Another lightweight HTTP client.
   <sup>
    &#9733 1233, pushed 26 days ago
   </sup>
-  - Another lightweight HTTP client.
  </li>
  <li>
   <a href="https://github.com/Mashape/unirest-php">
    unirest for PHP
   </a>
+  - Simplified, lightweight HTTP client library.
   <sup>
    &#9733 786, pushed 4 days ago
   </sup>
-  - Simplified, lightweight HTTP client library.
  </li>
 </ul>
 <h3>
@@ -291,37 +291,37 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/mgonto/restangular">
    restangular
   </a>
+  - AngularJS service to handle REST API properly and easily.
   <sup>
    &#9733 7448, pushed 24 days ago
   </sup>
-  - AngularJS service to handle REST API properly and easily.
  </li>
  <li>
   <a href="https://github.com/marmelab/restful.js">
    restful.js
   </a>
+  - JS client for interacting with server-side RESTful resources.
   <sup>
    &#9733 520, pushed 66 days ago
   </sup>
-  - JS client for interacting with server-side RESTful resources.
  </li>
  <li>
   <a href="https://github.com/basti1302/traverson">
    traverson
   </a>
+  - A Hypermedia API/HATEOAS Client for Node.js and the Browser
   <sup>
    &#9733 166, pushed 5 days ago
   </sup>
-  - A Hypermedia API/HATEOAS Client for Node.js and the Browser
  </li>
  <li>
   <a href="https://github.com/mulesoft/raml-client-generator">
    raml-client-generator
   </a>
+  - Generates static client libs for js.
   <sup>
    &#9733 88, pushed 21 days ago
   </sup>
-  - Generates static client libs for js.
  </li>
 </ul>
 <h3>
@@ -332,19 +332,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/danwrong/restler">
    restler
   </a>
+  - REST client library for node.js.
   <sup>
    &#9733 1783, pushed 36 days ago
   </sup>
-  - REST client library for node.js.
  </li>
  <li>
   <a href="https://github.com/Mashape/unirest-nodejs">
    unirest for Node.js
   </a>
+  - Simplified, lightweight HTTP client library.
   <sup>
    &#9733 515, pushed 57 days ago
   </sup>
-  - Simplified, lightweight HTTP client library.
  </li>
 </ul>
 <h3>
@@ -355,28 +355,28 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/rest-client/rest-client">
    RESTClient
   </a>
+  - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
   <sup>
    &#9733 3324, pushed 2 days ago
   </sup>
-  - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
  </li>
  <li>
   <a href="https://github.com/balvig/spyke">
    Spyke
   </a>
+  - Interact with REST services in an ActiveRecord-like manner.
   <sup>
    &#9733 439, pushed 113 days ago
   </sup>
-  - Interact with REST services in an ActiveRecord-like manner.
  </li>
  <li>
   <a href="https://github.com/excon/excon">
    excon
   </a>
+  - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
   <sup>
    &#9733 723, pushed 36 days ago
   </sup>
-  - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
  </li>
 </ul>
 <h3>
@@ -387,10 +387,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/bndr/gopencils">
    gopencils
   </a>
+  - Small and simple package to easily consume REST APIs.
   <sup>
    &#9733 342, pushed 103 days ago
   </sup>
-  - Small and simple package to easily consume REST APIs.
  </li>
 </ul>
 <h2>
@@ -404,10 +404,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/begriffs/postgrest">
    postgrest
   </a>
+  - Serve a fully RESTful API directly from an existing PostgreSQL database.
   <sup>
    &#9733 6716, pushed 2 days ago
   </sup>
-  - Serve a fully RESTful API directly from an existing PostgreSQL database.
  </li>
  <li>
   <a href="http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/">
@@ -424,10 +424,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/restify/node-restify">
    node-restify
   </a>
+  - Framework specifically meant for REST API.
   <sup>
    &#9733 4970, pushed 4 days ago
   </sup>
-  - Framework specifically meant for REST API.
  </li>
  <li>
   <a href="http://sailsjs.org/">
@@ -439,28 +439,28 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/jspears/mers">
    mers
   </a>
+  - Express service exposing Mongoose finders as RESTful API.
   <sup>
    &#9733 335, pushed 317 days ago
   </sup>
-  - Express service exposing Mongoose finders as RESTful API.
  </li>
  <li>
   <a href="https://github.com/wprl/baucis">
    Baucis
   </a>
+  - Build scalable REST API based on your Mongoose entities.
   <sup>
    &#9733 563, pushed 57 days ago
   </sup>
-  - Build scalable REST API based on your Mongoose entities.
  </li>
  <li>
   <a href="https://github.com/flatiron/resourceful">
    flatiron/resourceful
   </a>
+  - Isomorphic Resource engine for JavaScript.
   <sup>
    &#9733 348, pushed 477 days ago
   </sup>
-  - Isomorphic Resource engine for JavaScript.
  </li>
  <li>
   <a href="http://loopback.io/">
@@ -483,73 +483,73 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/marmelab/microrest.php">
    Microrest
   </a>
+  - Micro-web application providing a REST API on top of any relational database.
   <sup>
    &#9733 164, pushed 215 days ago
   </sup>
-  - Micro-web application providing a REST API on top of any relational database.
  </li>
  <li>
   <a href="https://github.com/willdurand/Negotiation">
    Negotiation
   </a>
+  - Content negotiation library.
   <sup>
    &#9733 319, pushed 56 days ago
   </sup>
-  - Content negotiation library.
  </li>
  <li>
   <a href="https://github.com/leedavis81/drest">
    Drest
   </a>
+  - Library for exposing Doctrine entities as REST resource endpoints.
   <sup>
    &#9733 71, pushed 56 days ago
   </sup>
-  - Library for exposing Doctrine entities as REST resource endpoints.
  </li>
  <li>
   <a href="https://github.com/Luracast/Restler">
    Restler
   </a>
+  - Lightweight framework to expose PHP methods as RESTful web API.
   <sup>
    &#9733 1074, pushed 4 days ago
   </sup>
-  - Lightweight framework to expose PHP methods as RESTful web API.
  </li>
  <li>
   <a href="https://github.com/blongden/hal">
    HAL
   </a>
+  - Hypertext Application Language (HAL) builder library.
   <sup>
    &#9733 164, pushed 36 days ago
   </sup>
-  - Hypertext Application Language (HAL) builder library.
  </li>
  <li>
   <a href="https://github.com/zfcampus/zf-apigility-skeleton">
    Apigility
   </a>
+  - API builder built with Zend Framework 2.
   <sup>
    &#9733 431, pushed 34 days ago
   </sup>
-  - API builder built with Zend Framework 2.
  </li>
  <li>
   <a href="https://github.com/phprest/phprest">
    phprest
   </a>
+  - Specialized REST microframework for PHP.
   <sup>
    &#9733 281, pushed 163 days ago
   </sup>
-  - Specialized REST microframework for PHP.
  </li>
  <li>
   <a href="https://github.com/willdurand/Hateoas">
    Hateoas
   </a>
+  - PHP library to support implementing representations for HATEOAS REST web services.
   <sup>
    &#9733 628, pushed 35 days ago
   </sup>
-  - PHP library to support implementing representations for HATEOAS REST web services.
  </li>
 </ul>
 <h4>
@@ -566,19 +566,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/FriendsOfSymfony/FOSRestBundle">
    FOSRestBundle
   </a>
+  - Bundle handling view, routing, error handling, etc. for your REST API.
   <sup>
    &#9733 1337, pushed 1 days ago
   </sup>
-  - Bundle handling view, routing, error handling, etc. for your REST API.
  </li>
  <li>
   <a href="https://github.com/stanlemon/rest-bundle">
    stanlemon/rest-bundle
   </a>
+  - Build a REST API based on Doctrine entities using conventions over configuration.
   <sup>
    &#9733 122, pushed 9 days ago
   </sup>
-  - Build a REST API based on Doctrine entities using conventions over configuration.
  </li>
  <li>
   <a href="http://lakion.com/lionframe">
@@ -590,36 +590,36 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/willdurand/BazingaHateoasBundle">
    BazingaHateoasBundle
   </a>
-  <sup>
-   &#9733 164, pushed 61 days ago
-  </sup>
   - Integrate the
   <a href="https://github.com/willdurand/Hateoas">
    Hateoas
   </a>
   library into a Symfony2 application.
+  <sup>
+   &#9733 164, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gimler/symfony-rest-edition">
    Symfony REST Edition
   </a>
+  - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
   <sup>
    &#9733 471, pushed 32 days ago
   </sup>
-  - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
  </li>
  <li>
   <a href="https://github.com/marmelab/NgAdminGeneratorBundle">
    NgAdminGeneratorBundle
   </a>
-  <sup>
-   &#9733 66, pushed 364 days ago
-  </sup>
   - Boostrap ng-admin configuration based on
   <code>
    stanlemon/rest-bundle
   </code>
   .
+  <sup>
+   &#9733 66, pushed 364 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dunglas/DunglasApiBundle">
@@ -631,10 +631,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/api-platform/api-platform">
    API Platform
   </a>
+  - Specialize Symfony edition for the creation of hypermedia REST APIs.
   <sup>
    &#9733 653, pushed 10 days ago
   </sup>
-  - Specialize Symfony edition for the creation of hypermedia REST APIs.
  </li>
 </ul>
 <h3>
@@ -669,10 +669,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/jeffknupp/sandman">
    sandman
   </a>
+  - Automated REST APIs for existing database-driven systems.
   <sup>
    &#9733 2219, pushed 63 days ago
   </sup>
-  - Automated REST APIs for existing database-driven systems.
  </li>
  <li>
   <a href="http://restless.readthedocs.org/en/latest/">
@@ -718,32 +718,32 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/manishrjain/gocrud">
    gocrud
   </a>
+  : Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
   <sup>
    &#9733 249, pushed 159 days ago
   </sup>
-  : Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
  </li>
  <li>
   <a href="https://github.com/ant0ine/go-json-rest">
    go-json-rest
   </a>
-  <sup>
-   &#9733 2302, pushed 2 days ago
-  </sup>
   - Thin layer on top of
   <code>
    net/http
   </code>
   that helps building RESTful APIs easily.
+  <sup>
+   &#9733 2302, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dougblack/sleepy">
    sleepy
   </a>
-  <sup>
-   &#9733 597, pushed 739 days ago
-  </sup>
   - RESTful micro-framework written in Go.
+  <sup>
+   &#9733 597, pushed 740 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yookoala/restit">
@@ -755,55 +755,55 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/codehack/go-relax">
    go-relax
   </a>
+  - Framework of pluggable components to build RESTful API's.
   <sup>
    &#9733 121, pushed 39 days ago
   </sup>
-  - Framework of pluggable components to build RESTful API's.
  </li>
  <li>
   <a href="https://github.com/ungerik/go-rest">
    go-rest
   </a>
+  - Small and evil REST framework for Go.
   <sup>
    &#9733 88, pushed 221 days ago
   </sup>
-  - Small and evil REST framework for Go.
  </li>
  <li>
   <a href="https://github.com/emicklei/go-restful">
    go-restful
   </a>
+  - A declarative highly readable framework for building restful API's.
   <sup>
    &#9733 1586, pushed 3 days ago
   </sup>
-  - A declarative highly readable framework for building restful API's.
  </li>
  <li>
   <a href="https://github.com/bahlo/goat">
    Goat
   </a>
+  - Minimalistic REST API server in Go.
   <sup>
    &#9733 84, pushed 27 days ago
   </sup>
-  - Minimalistic REST API server in Go.
  </li>
  <li>
   <a href="https://github.com/resoursea/api">
    Resoursea
   </a>
+  - REST framework for quickly writing resource based services.
   <sup>
    &#9733 24, pushed 457 days ago
   </sup>
-  - REST framework for quickly writing resource based services.
  </li>
  <li>
   <a href="https://github.com/cosiner/zerver">
    Zerver
   </a>
+  - Zerver is a expressive, modular, feature completed RESTful framework.
   <sup>
    &#9733 127, pushed 18 days ago
   </sup>
-  - Zerver is a expressive, modular, feature completed RESTful framework.
  </li>
 </ul>
 <h3>
@@ -814,10 +814,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/RestExpress/RestExpress">
    RestExpress
   </a>
+  - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
   <sup>
    &#9733 597, pushed 4 days ago
   </sup>
-  - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
  </li>
 </ul>
 <h3>
@@ -828,10 +828,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/silkapp/rest">
    Rest for Haskell
   </a>
+  - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
   <sup>
    &#9733 336, pushed 7 days ago
   </sup>
-  - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
  </li>
 </ul>
 <h2>
@@ -855,14 +855,14 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/jkbrzt/httpie">
    httpie
   </a>
-  <sup>
-   &#9733 22333, pushed 5 days ago
-  </sup>
   - Command line HTTP client, far more dev-friendly than
   <code>
    curl
   </code>
   .
+  <sup>
+   &#9733 22333, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">
@@ -874,19 +874,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/micha/resty">
    resty
   </a>
+  - Little command line REST client that you can use in pipelines (bash or zsh).
   <sup>
    &#9733 1885, pushed 23 days ago
   </sup>
-  - Little command line REST client that you can use in pipelines (bash or zsh).
  </li>
  <li>
   <a href="https://github.com/stedolan/jq">
    jq
   </a>
+  - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
   <sup>
    &#9733 6555, pushed 19 days ago
   </sup>
-  - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
  </li>
  <li>
   <a href="http://www.httpmaster.net">
@@ -898,13 +898,13 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/cloudhead/http-console">
    Http-console
   </a>
-  <sup>
-   &#9733 1216, pushed 367 days ago
-  </sup>
   - Command line interface for HTTP that let you
   <em>
    speak HTTP like a local
   </em>
+  <sup>
+   &#9733 1216, pushed 367 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -927,19 +927,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/marmelab/FakeRest">
    FakeRest
   </a>
+  - Patch XMLHttpRequest to fake a REST API client-side.
   <sup>
    &#9733 128, pushed 70 days ago
   </sup>
-  - Patch XMLHttpRequest to fake a REST API client-side.
  </li>
  <li>
   <a href="https://github.com/typicode/json-server">
    json-server
   </a>
+  - Serve a REST API from fixture files using quick prototyping.
   <sup>
    &#9733 11821, pushed 7 days ago
   </sup>
-  - Serve a REST API from fixture files using quick prototyping.
  </li>
  <li>
   <a href="http://www.mocky.io/">
@@ -951,10 +951,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/bulkismaslom/swagger-api-mock">
    Swagger API Mock
   </a>
+  - Mock RESTful API based on swagger schema
   <sup>
    &#9733 10, pushed 286 days ago
   </sup>
-  - Mock RESTful API based on swagger schema
  </li>
 </ul>
 <h3>
@@ -1012,10 +1012,10 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/raml2html/raml2html">
    raml2html
   </a>
+  - Generates HTML documentation from a RAML file.
   <sup>
    &#9733 535, pushed 3 days ago
   </sup>
-  - Generates HTML documentation from a RAML file.
  </li>
 </ul>
 <h2>
@@ -1067,19 +1067,19 @@ the Design of Network-based Software Architectures
   <a href="https://github.com/marmelab/ng-admin">
    ng-admin
   </a>
+  - Add an AngularJS admin GUI to any RESTful API.
   <sup>
    &#9733 2751, pushed 12 days ago
   </sup>
-  - Add an AngularJS admin GUI to any RESTful API.
  </li>
  <li>
   <a href="https://github.com/swagger-api/swagger-codegen">
    swagger-codegen
   </a>
+  - Auto generation of client libraries or server stubs given an OpenAPI speification (formerly known as the Swagger Specification).
   <sup>
    &#9733 2026, pushed 1 days ago
   </sup>
-  - Auto generation of client libraries or server stubs given an OpenAPI speification (formerly known as the Swagger Specification).
  </li>
 </ul>
 <h2>

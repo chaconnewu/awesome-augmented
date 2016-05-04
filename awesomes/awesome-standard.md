@@ -139,10 +139,10 @@
    <a href="https://github.com/jprichardson/sublime-js-snippets">
     sublime-js-snippets
    </a>
-   <sup>
-    &#9733 383, pushed 262 days ago
-   </sup>
   </strong>
+  <sup>
+   &#9733 383, pushed 262 days ago
+  </sup>
  </li>
  <li>
   Atom:

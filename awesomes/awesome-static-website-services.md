@@ -199,37 +199,37 @@
   <a href="https://github.com/prose/prose">
    Prose
   </a>
+  - A beautifully simple content authoring environment for static websites.
   <sup>
    &#9733 3206, pushed 4 days ago
   </sup>
-  - A beautifully simple content authoring environment for static websites.
  </li>
  <li>
   <a href="https://github.com/mushishi78/content-editor">
    Content Editor
   </a>
+  - A web interface for editing documents on GitHub.
   <sup>
    &#9733 20, pushed 201 days ago
   </sup>
-  - A web interface for editing documents on GitHub.
  </li>
  <li>
   <a href="https://github.com/captn3m0/potion">
    potion
   </a>
+  - A github-pages compatible editor for Jekyll blogs.
   <sup>
    &#9733 27, pushed 850 days ago
   </sup>
-  - A github-pages compatible editor for Jekyll blogs.
  </li>
  <li>
   <a href="https://github.com/vrypan/jekyll-post-via-web">
    jekyll-post-via-web
   </a>
+  - Html page that allows you to post new articles to your Github hosted site.
   <sup>
    &#9733 87, pushed 87 days ago
   </sup>
-  - Html page that allows you to post new articles to your Github hosted site.
  </li>
  <li>
   <a href="https://help.github.com/articles/github-flow-in-the-browser/">
@@ -269,10 +269,10 @@
   <a href="https://github.com/herrbischoff/awesome-osx-command-line">
    Git2Go
   </a>
+  - A git client for iPhone and iPad.
   <sup>
    &#9733 7528, pushed 1 days ago
   </sup>
-  - A git client for iPhone and iPad.
  </li>
  <li>
   <a href="http://workingcopyapp.com/">
@@ -324,46 +324,46 @@
   <a href="https://github.com/drjekyllthemes/drjekyll">
    drjekyll
   </a>
+  - The missing static site theme package manager.
   <sup>
    &#9733 29, pushed 247 days ago
   </sup>
-  - The missing static site theme package manager.
  </li>
  <li>
   <a href="https://github.com/dmathieu/glynn">
    Gynn
   </a>
+  - Generate your Jekyll blog files and sends them through FTP.
   <sup>
    &#9733 350, pushed 23 days ago
   </sup>
-  - Generate your Jekyll blog files and sends them through FTP.
  </li>
  <li>
   <a href="https://github.com/AlanBarber/jbh">
    (JBH) Jekyll Blog Helper
   </a>
+  - A shell script to help manage a Jekyll blog site.
   <sup>
    &#9733 10, pushed 174 days ago
   </sup>
-  - A shell script to help manage a Jekyll blog site.
  </li>
  <li>
   <a href="https://github.com/mrhydescripts/mrhyde">
    mrhyde
   </a>
+  - Static site quick starter script wizard.
   <sup>
    &#9733 8, pushed 247 days ago
   </sup>
-  - Static site quick starter script wizard.
  </li>
  <li>
   <a href="https://github.com/pavdmyt/jtasks">
    jtasks
   </a>
+  - A set of configurable tasks for Jekyll projects.
   <sup>
    &#9733 5, pushed 77 days ago
   </sup>
-  - A set of configurable tasks for Jekyll projects.
  </li>
 </ul>
 <h2>
@@ -441,10 +441,10 @@
   <a href="https://github.com/aharris88/google-bookshelves-widget">
    Google Books
   </a>
+  - Allows you to display the books in your Google Books Library.
   <sup>
    &#9733 1, pushed 376 days ago
   </sup>
-  - Allows you to display the books in your Google Books Library.
  </li>
  <li>
   <a href="https://www.goodreads.com/api">
@@ -981,10 +981,10 @@
   <a href="https://github.com/laurilehmijoki/s3_website">
    s3_website
   </a>
+  - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
   <sup>
    &#9733 1241, pushed 8 days ago
   </sup>
-  - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
  </li>
 </ul>
 <h2>

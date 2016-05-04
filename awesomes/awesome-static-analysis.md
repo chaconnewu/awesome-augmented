@@ -137,10 +137,10 @@
   <a href="https://github.com/MetricsGrimoire/CMetrics">
    CMetrics
   </a>
+  [OSS] - Measures size and complexity for C files
   <sup>
    &#9733 10, pushed 406 days ago
   </sup>
-  [OSS] - Measures size and complexity for C files
  </li>
  <li>
   <a href="http://clang.llvm.org/extra/clang-tidy/">
@@ -152,10 +152,10 @@
   <a href="https://github.com/danmar/cppcheck">
    cppcheck
   </a>
+  [OSS] - static analysis of C/C++ code
   <sup>
    &#9733 913, pushed 2 days ago
   </sup>
-  [OSS] - static analysis of C/C++ code
  </li>
  <li>
   <a href="http://oclint.org/">
@@ -190,10 +190,10 @@
   <a href="https://github.com/code-cracker/code-cracker">
    code-cracker
   </a>
+  [OSS] - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
   <sup>
    &#9733 560, pushed 13 days ago
   </sup>
-  [OSS] - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
  </li>
  <li>
   <a href="https://github.com/SonarSource/sonarlint-vs">
@@ -211,10 +211,10 @@
   <a href="https://github.com/DustinCampbell/CSharpEssentials">
    CSharpEssentials
   </a>
+  [OSS] - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
   <sup>
    &#9733 115, pushed 182 days ago
   </sup>
-  [OSS] - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
  </li>
  <li>
   <a href="http://vsrefactoringessentials.com/">
@@ -232,10 +232,10 @@
   <a href="https://github.com/Wintellect/Wintellect.Analyzers">
    Wintellect.Analyzers
   </a>
+  [OSS] - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect.
   <sup>
    &#9733 54, pushed 65 days ago
   </sup>
-  [OSS] - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect.
  </li>
  <li>
   <a href="https://carc.codeplex.com/">
@@ -252,10 +252,10 @@
   <a href="https://github.com/lukasmartinelli/hadolint">
    Haskell Dockerfile Linter
   </a>
+  [OSS] - A smarter Dockerfile linter that helps you build best practice Docker images
   <sup>
    &#9733 377, pushed 30 days ago
   </sup>
-  [OSS] - A smarter Dockerfile linter that helps you build best practice Docker images
  </li>
 </ul>
 <h2>
@@ -266,10 +266,10 @@
   <a href="https://github.com/rrrene/credo">
    credo
   </a>
+  [OSS] -  A static code analysis tool with a focus on code consistency and teaching.
   <sup>
    &#9733 652, pushed 6 days ago
   </sup>
-  [OSS] -  A static code analysis tool with a focus on code consistency and teaching.
  </li>
 </ul>
 <h2>
@@ -286,19 +286,19 @@
   <a href="https://github.com/fzipp/gocyclo">
    gocyclo
   </a>
+  [OSS] - Calculate cyclomatic complexities of functions in Go source code
   <sup>
    &#9733 184, pushed 130 days ago
   </sup>
-  [OSS] - Calculate cyclomatic complexities of functions in Go source code
  </li>
  <li>
   <a href="https://github.com/alecthomas/gometalinter">
    Go Meta Linter
   </a>
+  [OSS] - Concurrently run Go lint tools and normalise their output
   <sup>
    &#9733 887, pushed 6 days ago
   </sup>
-  [OSS] - Concurrently run Go lint tools and normalise their output
  </li>
  <li>
   <a href="https://godoc.org/golang.org/x/tools/cmd/vet">
@@ -310,19 +310,19 @@
   <a href="https://github.com/gordonklaus/ineffassign">
    ineffassign
   </a>
+  - Detect ineffectual assignments in Go code
   <sup>
    &#9733 34, pushed 30 days ago
   </sup>
-  - Detect ineffectual assignments in Go code
  </li>
  <li>
   <a href="https://github.com/stripe/safesql">
    safesql
   </a>
+  [OSS] - Static analysis tool for Golang that protects against SQL injections
   <sup>
    &#9733 203, pushed 60 days ago
   </sup>
-  [OSS] - Static analysis tool for Golang that protects against SQL injections
  </li>
 </ul>
 <h2>
@@ -333,10 +333,10 @@
   <a href="https://github.com/CodeNarc/CodeNarc">
    CodeNarc
   </a>
+  [OSS] - a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices
   <sup>
    &#9733 87, pushed 28 days ago
   </sup>
-  [OSS] - a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices
  </li>
 </ul>
 <h2>
@@ -347,10 +347,10 @@
   <a href="https://github.com/ndmitchell/hlint">
    HLint
   </a>
+  [OSS] - HLint is a tool for suggesting possible improvements to Haskell code.
   <sup>
    &#9733 293, pushed 34 days ago
   </sup>
-  [OSS] - HLint is a tool for suggesting possible improvements to Haskell code.
  </li>
 </ul>
 <h2>
@@ -361,10 +361,10 @@
   <a href="https://github.com/HaxeCheckstyle/haxe-checkstyle">
    Haxe Checkstyle
   </a>
+  [OSS] - A static analysis tool to help developers write Haxe code that adheres to a coding standard.
   <sup>
    &#9733 44, pushed 5 days ago
   </sup>
-  [OSS] - A static analysis tool to help developers write Haxe code that adheres to a coding standard.
  </li>
 </ul>
 <h2>
@@ -375,19 +375,19 @@
   <a href="https://github.com/yaniswang/HTMLHint">
    HTMLHint
   </a>
+  [OSS] - A Static Code Analysis Tool for HTML
   <sup>
    &#9733 1120, pushed 1 days ago
   </sup>
-  [OSS] - A Static Code Analysis Tool for HTML
  </li>
  <li>
   <a href="https://github.com/philipwalton/html-inspector">
    HTML Inspector
   </a>
-  <sup>
-   &#9733 2161, pushed 12 days ago
-  </sup>
   [OSS] - HTML Inspector is a code quality tool to help you and your team write better markup.
+  <sup>
+   &#9733 2161, pushed 13 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -398,37 +398,37 @@
   <a href="https://github.com/checkstyle/checkstyle">
    checkstyle
   </a>
+  [OSS] - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)
   <sup>
    &#9733 1037, pushed 1 days ago
   </sup>
-  [OSS] - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)
  </li>
  <li>
   <a href="https://github.com/google/error-prone">
    Error-prone
   </a>
+  [OSS] - Catch common Java mistakes as compile-time errors·
   <sup>
    &#9733 917, pushed 6 days ago
   </sup>
-  [OSS] - Catch common Java mistakes as compile-time errors·
  </li>
  <li>
   <a href="https://github.com/mebigfatguy/fb-contrib">
    fb-contrib
   </a>
+  [OSS] - A plugin for FindBugs with additional bug detectors
   <sup>
    &#9733 25, pushed 1 days ago
   </sup>
-  [OSS] - A plugin for FindBugs with additional bug detectors
  </li>
  <li>
   <a href="https://github.com/findbugsproject/findbugs">
    Findbugs
   </a>
+  [OSS] - FindBugs is a program to find bugs in Java programs. It looks for patterns are likely to be errors.
   <sup>
    &#9733 148, pushed 24 days ago
   </sup>
-  [OSS] - FindBugs is a program to find bugs in Java programs. It looks for patterns are likely to be errors.
  </li>
  <li>
   <a href="https://pmd.github.io/">
@@ -445,109 +445,109 @@
   <a href="https://github.com/codecombat/aether">
    aether
   </a>
+  [OSS] - Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
   <sup>
    &#9733 124, pushed 8 days ago
   </sup>
-  [OSS] - Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
  </li>
  <li>
   <a href="https://github.com/google/closure-linter">
    ClosureLinter
   </a>
+  [OSS] - ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors
   <sup>
    &#9733 70, pushed 145 days ago
   </sup>
-  [OSS] - ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors
  </li>
  <li>
   <a href="https://github.com/jared-stilwell/complexity-report">
    complexity-report
   </a>
+  [OSS] - Software complexity analysis for JavaScript projects
   <sup>
    &#9733 61, pushed 11 days ago
   </sup>
-  [OSS] - Software complexity analysis for JavaScript projects
  </li>
  <li>
   <a href="https://github.com/jared-stilwell/escomplex">
    escomplex
   </a>
+  [OSS] - Software complexity analysis of JavaScript-family abstract syntax trees.
   <sup>
    &#9733 66, pushed 3 days ago
   </sup>
-  [OSS] - Software complexity analysis of JavaScript-family abstract syntax trees.
  </li>
  <li>
   <a href="https://github.com/eslint/eslint">
    eslint
   </a>
+  [OSS] - A fully pluggable tool for identifying and reporting on patterns in JavaScript
   <sup>
    &#9733 4784, pushed 2 days ago
   </sup>
-  [OSS] - A fully pluggable tool for identifying and reporting on patterns in JavaScript
  </li>
  <li>
   <a href="https://github.com/jquery/esprima">
    Esprima
   </a>
+  [OSS] - ECMAScript parsing infrastructure for multipurpose analysis
   <sup>
    &#9733 3097, pushed 8 days ago
   </sup>
-  [OSS] - ECMAScript parsing infrastructure for multipurpose analysis
  </li>
  <li>
   <a href="https://github.com/jden/quality">
    quality
   </a>
+  [OSS] - zero configuration code and module linting
   <sup>
    &#9733 4, pushed 328 days ago
   </sup>
-  [OSS] - zero configuration code and module linting
  </li>
  <li>
   <a href="https://github.com/jshint/jshint">
    jshint
   </a>
+  [OSS] - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
   <sup>
    &#9733 6289, pushed 10 days ago
   </sup>
-  [OSS] - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
  </li>
  <li>
   <a href="https://github.com/douglascrockford/JSLint">
    JSLint
   </a>
+  [PROPRIETARY] - The JavaScript Code Quality Tool
   <sup>
    &#9733 2667, pushed 10 days ago
   </sup>
-  [PROPRIETARY] - The JavaScript Code Quality Tool
  </li>
  <li>
   <a href="https://github.com/es-analysis/plato">
    plato
   </a>
+  [OSS] - Visualize JavaScript source complexity
   <sup>
    &#9733 3492, pushed 8 days ago
   </sup>
-  [OSS] - Visualize JavaScript source complexity
  </li>
  <li>
   <a href="https://github.com/calmh/yardstick">
    yardstick
   </a>
+  [OSS] - Javascript code metrics
   <sup>
    &#9733 18, pushed 1361 days ago
   </sup>
-  [OSS] - Javascript code metrics
  </li>
  <li>
   <a href="https://github.com/sindresorhus/xo">
    XO
   </a>
+  [OSS] - Enforce strict code style. Never discuss code style on a pull request again!
   <sup>
    &#9733 1158, pushed 3 days ago
   </sup>
-  [OSS] - Enforce strict code style. Never discuss code style on a pull request again!
  </li>
 </ul>
 <h2>
@@ -558,10 +558,10 @@
   <a href="https://github.com/mpeterv/luacheck">
    luacheck
   </a>
+  [OSS] -  A tool for linting and static analysis of Lua code.
   <sup>
    &#9733 265, pushed 15 days ago
   </sup>
-  [OSS] -  A tool for linting and static analysis of Lua code.
  </li>
 </ul>
 <h2>
@@ -584,10 +584,10 @@
   <a href="https://github.com/lyft/linty_fresh">
    Linty fresh
   </a>
+  [OSS] - Surface lint errors during code review
   <sup>
    &#9733 87, pushed 11 days ago
   </sup>
-  [OSS] - Surface lint errors during code review
  </li>
  <li>
   <a href="http://mypy-lang.org/">
@@ -611,10 +611,10 @@
   <a href="https://github.com/PyCQA/pylint">
    pylint
   </a>
+  [OSS] -  Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells
   <sup>
    &#9733 167, pushed 2 days ago
   </sup>
-  [OSS] -  Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells
  </li>
 </ul>
 <h2>
@@ -625,109 +625,109 @@
   <a href="https://github.com/Halleck45/DesignPatternDetector">
    DesignPatternDetector
   </a>
+  [OSS] - detection of design patterns in PHP code
   <sup>
    &#9733 40, pushed 141 days ago
   </sup>
-  [OSS] - detection of design patterns in PHP code
  </li>
  <li>
   <a href="https://github.com/sensiolabs-de/deptrac">
    deptrac
   </a>
+  [OSS] - Enforce rules for dependencies between software layers.
   <sup>
    &#9733 92, pushed 2 days ago
   </sup>
-  [OSS] - Enforce rules for dependencies between software layers.
  </li>
  <li>
   <a href="https://github.com/exakat/exakat">
    exakat
   </a>
+  [OSS] - An automated code reviewing engine for PHP
   <sup>
    &#9733 9, pushed 3 days ago
   </sup>
-  [OSS] - An automated code reviewing engine for PHP
  </li>
  <li>
   <a href="https://github.com/phpro/grumphp">
    GrumPHP
   </a>
+  [OSS] - checks code on every commit
   <sup>
    &#9733 957, pushed 1 days ago
   </sup>
-  [OSS] - checks code on every commit
  </li>
  <li>
   <a href="https://github.com/etsy/phan">
    phan
   </a>
+  [OSS] - a modern static analyzer from etsy
   <sup>
    &#9733 926, pushed 5 days ago
   </sup>
-  [OSS] - a modern static analyzer from etsy
  </li>
  <li>
   <a href="https://github.com/sstalle/php7cc">
    php7cc
   </a>
+  [OSS] - PHP 7 Compatibility Checker
   <sup>
    &#9733 588, pushed 16 days ago
   </sup>
-  [OSS] - PHP 7 Compatibility Checker
  </li>
  <li>
   <a href="https://github.com/Alexia/php7mar">
    php7mar
   </a>
+  [OSS] - assist developers in porting their code quickly to PHP 7
   <sup>
    &#9733 333, pushed 4 days ago
   </sup>
-  [OSS] - assist developers in porting their code quickly to PHP 7
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phpcpd">
    phpcpd
   </a>
+  [OSS] - Copy/Paste Detector (CPD) for PHP code.
   <sup>
    &#9733 992, pushed 16 days ago
   </sup>
-  [OSS] - Copy/Paste Detector (CPD) for PHP code.
  </li>
  <li>
   <a href="https://github.com/squizlabs/PHP_CodeSniffer">
    PHP_CodeSniffer
   </a>
+  [OSS] - detects violations of a defined set of coding standards
   <sup>
    &#9733 2270, pushed 5 days ago
   </sup>
-  [OSS] - detects violations of a defined set of coding standards
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phpdcd">
    phpdcd
   </a>
+  [OSS] - Dead Code Detector (DCD) for PHP code.
   <sup>
    &#9733 270, pushed 204 days ago
   </sup>
-  [OSS] - Dead Code Detector (DCD) for PHP code.
  </li>
  <li>
   <a href="https://github.com/mamuz/PhpDependencyAnalysis">
    PhpDependencyAnalysis
   </a>
+  [OSS] - builds a dependency graph for a project
   <sup>
    &#9733 173, pushed 67 days ago
   </sup>
-  [OSS] - builds a dependency graph for a project
  </li>
  <li>
   <a href="https://github.com/ovr/phpsa">
    phpsa
   </a>
+  [OSS] - Static analysis tool for PHP.
   <sup>
    &#9733 172, pushed 9 days ago
   </sup>
-  [OSS] - Static analysis tool for PHP.
  </li>
  <li>
   <a href="http://phpmd.org/">
@@ -745,55 +745,55 @@
   <a href="https://github.com/QafooLabs/php-refactoring-browser">
    PHP Refactoring Browser
   </a>
+  [OSS] - Refactoring helper
   <sup>
    &#9733 494, pushed 385 days ago
   </sup>
-  [OSS] - Refactoring helper
  </li>
  <li>
   <a href="https://github.com/Andrewsville/PHP-Token-Reflection">
    PHP-Token-Reflection
   </a>
+  [OSS] - Library emulating the PHP internal reflection
   <sup>
    &#9733 180, pushed 137 days ago
   </sup>
-  [OSS] - Library emulating the PHP internal reflection
  </li>
  <li>
   <a href="https://github.com/nikic/PHP-Parser">
    PHP-Parser
   </a>
+  [OSS] - A PHP parser written in PHP
   <sup>
    &#9733 2252, pushed 13 days ago
   </sup>
-  [OSS] - A PHP parser written in PHP
  </li>
  <li>
   <a href="https://github.com/ripsscanner/rips">
    RIPS
   </a>
+  [OSS] -  A static source code analyser for vulnerabilities in PHP scripts
   <sup>
    &#9733 100, pushed 337 days ago
   </sup>
-  [OSS] -  A static source code analyser for vulnerabilities in PHP scripts
  </li>
  <li>
   <a href="https://github.com/ircmaxell/Tuli">
    Tuli
   </a>
+  [OSS] - A static analysis engine
   <sup>
    &#9733 154, pushed 193 days ago
   </sup>
-  [OSS] - A static analysis engine
  </li>
  <li>
   <a href="https://github.com/asm89/twig-lint">
    twig-lint
   </a>
+  [OSS] - twig-lint is a lint tool for your twig files.
   <sup>
    &#9733 43, pushed 153 days ago
   </sup>
-  [OSS] - twig-lint is a lint tool for your twig files.
  </li>
 </ul>
 <h2>
@@ -804,10 +804,10 @@
   <a href="https://github.com/jimhester/lintr">
    lintr
   </a>
+  [PROPRIETARY] - Static Code Analysis for R
   <sup>
    &#9733 165, pushed 18 days ago
   </sup>
-  [PROPRIETARY] - Static Code Analysis for R
  </li>
 </ul>
 <h2>
@@ -818,56 +818,56 @@
   <a href="https://github.com/presidentbeef/brakeman">
    brakeman
   </a>
+  [OSS] - A static analysis security vulnerability scanner for Ruby on Rails applications
   <sup>
    &#9733 3322, pushed 2 days ago
   </sup>
-  [OSS] - A static analysis security vulnerability scanner for Ruby on Rails applications
  </li>
  <li>
   <a href="https://github.com/square/cane">
    cane
   </a>
+  [OSS] - Code quality threshold checking as part of your build
   <sup>
    &#9733 1286, pushed 50 days ago
   </sup>
-  [OSS] - Code quality threshold checking as part of your build
  </li>
  <li>
   <a href="https://github.com/thesp0nge/dawnscanner">
    dawnscanner
   </a>
+  [OSS] - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
   <sup>
    &#9733 299, pushed 63 days ago
   </sup>
-  [OSS] - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
  </li>
  <li>
   <a href="https://github.com/seattlerb/flay">
    flay
   </a>
+  [OSS] - Flay analyzes code for structural similarities.
   <sup>
    &#9733 400, pushed 1 days ago
   </sup>
-  [OSS] - Flay analyzes code for structural similarities.
  </li>
  <li>
   <a href="https://github.com/seattlerb/flog">
    flog
   </a>
+  [OSS] - Flog reports the most tortured code in an easy to read pain
+report. The higher the score, the more pain the code is in.
   <sup>
    &#9733 451, pushed 145 days ago
   </sup>
-  [OSS] - Flog reports the most tortured code in an easy to read pain
-report. The higher the score, the more pain the code is in.
  </li>
  <li>
   <a href="https://github.com/michaeledgar/laser">
    laser
   </a>
+  [OSS] - Static analysis and style linter for Ruby code.
   <sup>
    &#9733 395, pushed 1696 days ago
   </sup>
-  [OSS] - Static analysis and style linter for Ruby code.
  </li>
  <li>
   <a href="http://trismegiste.github.io/Mondrian/">
@@ -879,64 +879,64 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/codegram/pelusa">
    pelusa
   </a>
+  [OSS] -  Static analysis Lint-type tool to improve your OO Ruby code
   <sup>
    &#9733 449, pushed 482 days ago
   </sup>
-  [OSS] -  Static analysis Lint-type tool to improve your OO Ruby code
  </li>
  <li>
   <a href="https://github.com/apiology/quality">
    quality
   </a>
+  [OSS] -  Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
   <sup>
    &#9733 106, pushed 24 days ago
   </sup>
-  [OSS] -  Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
  </li>
  <li>
   <a href="https://github.com/troessner/reek">
    reek
   </a>
+  [OSS] - Code smell detector for Ruby
   <sup>
    &#9733 1884, pushed 4 days ago
   </sup>
-  [OSS] - Code smell detector for Ruby
  </li>
  <li>
   <a href="https://github.com/bbatsov/rubocop">
    rubocop
   </a>
+  [OSS] - A Ruby static code analyzer, based on the community Ruby style guide.
   <sup>
    &#9733 6230, pushed 2 days ago
   </sup>
-  [OSS] - A Ruby static code analyzer, based on the community Ruby style guide.
  </li>
  <li>
   <a href="https://github.com/whitesmith/rubycritic">
    rubycritic
   </a>
+  [OSS] - A Ruby code quality reporter
   <sup>
    &#9733 1326, pushed 14 days ago
   </sup>
-  [OSS] - A Ruby code quality reporter
  </li>
  <li>
   <a href="https://github.com/YorickPeterse/ruby-lint">
    ruby-lint
   </a>
+  [OSS] - Static code analysis for Ruby
   <sup>
    &#9733 675, pushed 8 days ago
   </sup>
-  [OSS] - Static code analysis for Ruby
  </li>
  <li>
   <a href="https://github.com/makaroni4/sandi_meter">
    SandyMeter
   </a>
-  <sup>
-   &#9733 623, pushed 137 days ago
-  </sup>
   [OSS] - Static analysis tool for checking Ruby code for Sandi Metz' rules.
+  <sup>
+   &#9733 623, pushed 138 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -947,10 +947,10 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/Manishearth/rust-clippy">
    clippy
   </a>
+  [OSS] - a code linter to catch common mistakes and improve your Rust code
   <sup>
    &#9733 619, pushed 2 days ago
   </sup>
-  [OSS] - a code linter to catch common mistakes and improve your Rust code
  </li>
 </ul>
 <h2>
@@ -961,10 +961,10 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/HairyFotr/linter">
    linter
   </a>
+  [OSS] - Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
   <sup>
    &#9733 152, pushed 3 days ago
   </sup>
-  [OSS] - Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
  </li>
  <li>
   <a href="https://github.com/scalastyle/scalastyle/wiki">
@@ -976,19 +976,19 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/sksamuel/scapegoat">
    scapegoat
   </a>
+  [OSS] - Scala compiler plugin for static code analysis
   <sup>
    &#9733 135, pushed 57 days ago
   </sup>
-  [OSS] - Scala compiler plugin for static code analysis
  </li>
  <li>
   <a href="https://github.com/puffnfresh/wartremover">
    WartRemover
   </a>
+  [OSS] - a flexible Scala code linting tool.
   <sup>
    &#9733 472, pushed 16 days ago
   </sup>
-  [OSS] - a flexible Scala code linting tool.
  </li>
 </ul>
 <h2>
@@ -999,10 +999,10 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/koalaman/shellcheck">
    shellcheck
   </a>
+  [OSS] - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
   <sup>
    &#9733 3767, pushed 3 days ago
   </sup>
-  [OSS] - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
  </li>
 </ul>
 <h2>
@@ -1013,19 +1013,19 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/realm/SwiftLint">
    SwiftLint
   </a>
+  [OSS] - A tool to enforce Swift style and conventions
   <sup>
    &#9733 3811, pushed 4 days ago
   </sup>
-  [OSS] - A tool to enforce Swift style and conventions
  </li>
  <li>
   <a href="https://github.com/sleekbyte/tailor">
    Tailor
   </a>
-  <sup>
-   &#9733 651, pushed 1 days ago
-  </sup>
   [OSS] - A static analysis and lint tool for source code written in Apple's Swift programming language.
+  <sup>
+   &#9733 651, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1051,46 +1051,46 @@ report. The higher the score, the more pain the code is in.
   <a href="https://github.com/facebook/infer">
    Infer
   </a>
+  [OSS] -  A static analyzer for Java, C and Objective-C
   <sup>
    &#9733 5107, pushed 4 days ago
   </sup>
-  [OSS] -  A static analyzer for Java, C and Objective-C
  </li>
  <li>
   <a href="https://github.com/oclint/oclint">
    oclint
   </a>
+  [OSS] - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
   <sup>
    &#9733 1293, pushed 12 days ago
   </sup>
-  [OSS] - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
  </li>
  <li>
   <a href="https://github.com/facebook/pfff">
    pfff
   </a>
+  [OSS] - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
   <sup>
    &#9733 1653, pushed 36 days ago
   </sup>
-  [OSS] - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
  </li>
  <li>
   <a href="https://github.com/google/shipshape">
    shipshape
   </a>
+  [OSS] - Static program analysis platform that allows custom analyzers to plug in through a common interface
   <sup>
    &#9733 118, pushed 9 days ago
   </sup>
-  [OSS] - Static program analysis platform that allows custom analyzers to plug in through a common interface
  </li>
  <li>
   <a href="https://github.com/StanfordPL/stoke-release">
    STOKE
   </a>
+  [OSS] - a programming-language agnosti stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations
   <sup>
    &#9733 353, pushed 86 days ago
   </sup>
-  [OSS] - a programming-language agnosti stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations
  </li>
  <li>
   <a href="https://developer.apple.com/xcode/">

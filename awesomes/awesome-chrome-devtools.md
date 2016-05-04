@@ -28,10 +28,10 @@
   <a href="https://github.com/auchenberg/chrome-devtools-app">
    Chrome DevTools App
   </a>
+  - Standalone app which can inspect various targets.
   <sup>
    &#9733 1270, pushed 165 days ago
   </sup>
-  - Standalone app which can inspect various targets.
  </li>
  <li>
   <a href="https://devtoolsremote.com/">
@@ -43,10 +43,10 @@
   <a href="https://github.com/bahmutov/code-snippets">
    DevTools Snippets
   </a>
+  - Collection of snippets.
   <sup>
    &#9733 888, pushed 63 days ago
   </sup>
-  - Collection of snippets.
  </li>
 </ul>
 <h3>
@@ -57,14 +57,14 @@
   <a href="https://github.com/cyrus-and/chrome-remote-interface">
    chrome-remote-interface
   </a>
-  <sup>
-   &#9733 293, pushed 4 days ago
-  </sup>
   - The recommended Node.js API for the protocol. There are also
   <a href="https://github.com/DickvdBrink/chrome-debug-protocol">
    TypeScript-friendly alternatives
   </a>
   .
+  <sup>
+   &#9733 293, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/chrome-devtools-frontend">
@@ -82,19 +82,19 @@
   <a href="https://github.com/sidorares/crmux">
    crmux
   </a>
+  - Multiplexes protocol connections.
   <sup>
    &#9733 64, pushed 85 days ago
   </sup>
-  - Multiplexes protocol connections.
  </li>
  <li>
   <a href="https://github.com/sidorares/crconsole">
    crconsole
   </a>
+  - Terminal based chrome console and debugger.
   <sup>
    &#9733 106, pushed 19 days ago
   </sup>
-  - Terminal based chrome console and debugger.
  </li>
 </ul>
 <h3>
@@ -111,37 +111,37 @@
   <a href="https://github.com/RemoteDebug/remotedebug-gateway">
    Remote Debug Gateway
   </a>
+  - Allows you to connect a client to multiple browsers at once.
   <sup>
    &#9733 51, pushed 181 days ago
   </sup>
-  - Allows you to connect a client to multiple browsers at once.
  </li>
  <li>
   <a href="https://github.com/RemoteDebug/remotedebug-firefox-adapter">
    Remote Debug Firefox adapter
   </a>
+  - Translates Firefox's devtools protocol to the CDP
   <sup>
    &#9733 94, pushed 146 days ago
   </sup>
-  - Translates Firefox's devtools protocol to the CDP
  </li>
  <li>
   <a href="https://github.com/google/ios-webkit-debug-proxy">
    ios-webkit-debug-proxy
   </a>
+  - Exposes Mobile Safari & UIWebView instances via the CDP.
   <sup>
    &#9733 2012, pushed 2 days ago
   </sup>
-  - Exposes Mobile Safari & UIWebView instances via the CDP.
  </li>
  <li>
   <a href="https://github.com/Microsoft/IEDiagnosticsAdapter">
    IE Diagnostics Adapter
   </a>
+  - Protocol adaptor for Microsoft IE 10/11 to CDP.
   <sup>
    &#9733 490, pushed 50 days ago
   </sup>
-  - Protocol adaptor for Microsoft IE 10/11 to CDP.
  </li>
  <li>
   <a href="https://github.com/Microsoft/edge-diagnostics-adaptor">
@@ -153,10 +153,10 @@
   <a href="https://github.com/artygus/devtools-compat-proxy">
    devtools-compat-proxy
   </a>
+  - Young effort to translate modern Safari debugging protocol to modern CDP.
   <sup>
    &#9733 11, pushed 222 days ago
   </sup>
-  - Young effort to translate modern Safari debugging protocol to modern CDP.
  </li>
  <li>
   <a href="https://github.com/sidorares/crmux">
@@ -179,19 +179,19 @@
   <a href="https://github.com/square/PonyDebugger">
    PonyDebugger
   </a>
+  - Remote network and data debugging iOS apps with Chrome DevTools
   <sup>
    &#9733 4896, pushed 52 days ago
   </sup>
-  - Remote network and data debugging iOS apps with Chrome DevTools
  </li>
  <li>
   <a href="https://github.com/facebook/stetho">
    Facebook Stetho
   </a>
+  - Native Android debugging with Chrome DevTools
   <sup>
    &#9733 4793, pushed 35 days ago
   </sup>
-  - Native Android debugging with Chrome DevTools
  </li>
 </ul>
 <h3>
@@ -202,19 +202,19 @@
   <a href="https://github.com/Jam3/devtool">
    devtool
   </a>
+  - Debug & profile Node.js apps with Chrome DevTools (using Electron).
   <sup>
    &#9733 2666, pushed 33 days ago
   </sup>
-  - Debug & profile Node.js apps with Chrome DevTools (using Electron).
  </li>
  <li>
   <a href="https://github.com/buggerjs/bugger">
    buggerJS
   </a>
+  - Provides Chrome DevTools bindings for node.
   <sup>
    &#9733 129, pushed 31 days ago
   </sup>
-  - Provides Chrome DevTools bindings for node.
  </li>
 </ul>
 <h3>
@@ -225,10 +225,10 @@
   <a href="https://github.com/andrewdavey/immutable-devtools">
    immutable-devtools
   </a>
+  - Custom formatter for Immutable-js values.
   <sup>
    &#9733 391, pushed 34 days ago
   </sup>
-  - Custom formatter for Immutable-js values.
  </li>
 </ul>
 <h3>
@@ -239,10 +239,10 @@
   <a href="https://github.com/kdzwinel/betwixt">
    betwixt
   </a>
+  - System level network proxy, providing inspection via Network panel
   <sup>
    &#9733 2953, pushed 23 days ago
   </sup>
-  - System level network proxy, providing inspection via Network panel
  </li>
 </ul>
 <h3>
@@ -262,27 +262,27 @@
   <a href="https://github.com/brendankenny/call-trace">
    call-trace
   </a>
-  <sup>
-   &#9733 12, pushed 61 days ago
-  </sup>
   - Can instrument your JS with hooks, and then generate a
   <code>
    .cpuprofile
   </code>
   of the of the complete (non-sampled) execution. View either time or call counts.
+  <sup>
+   &#9733 12, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thlorenz/cpuprofilify">
    cpuprofilify
   </a>
-  <sup>
-   &#9733 94, pushed 65 days ago
-  </sup>
   - Converts output of various profiling/sampling tools to the
   <code>
    .cpuprofile
   </code>
   format.
+  <sup>
+   &#9733 94, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="http://wishbone.readthedocs.org/en/develop/miscellaneous.html#profiling">
@@ -303,10 +303,10 @@
   <a href="https://github.com/pmdartus/snapline">
    snapline
   </a>
+  - Converts timeline screenshots to gif.
   <sup>
    &#9733 154, pushed 47 days ago
   </sup>
-  - Converts timeline screenshots to gif.
  </li>
 </ul>
 <h3>
@@ -367,10 +367,10 @@
   <a href="https://github.com/vuejs/vue-devtools">
    VueJS Developer Tools
   </a>
+  - Inspect VueJS components and manipulate their data.
   <sup>
    &#9733 625, pushed 22 days ago
   </sup>
-  - Inspect VueJS components and manipulate their data.
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk">
@@ -418,14 +418,14 @@
   <a href="https://github.com/escaton/bem-chrome-devtools">
    BEM devtools
   </a>
-  <sup>
-   &#9733 25, pushed 48 days ago
-  </sup>
   - Inspect BEM entities expressed in
   <code>
    i-bem
   </code>
   framework.
+  <sup>
+   &#9733 25, pushed 48 days ago
+  </sup>
  </li>
 </ul>
 <h3>

@@ -456,10 +456,10 @@
   <a href="https://github.com/rouseguy/intro2stats">
    Learn Statistics Using Python
   </a>
+  - Learn Statistics using an application-centric programming approach
   <sup>
    &#9733 327, pushed 193 days ago
   </sup>
-  - Learn Statistics using an application-centric programming approach
  </li>
  <li>
   <a href="https://speakerdeck.com/jakevdp/statistics-for-hackers">
@@ -1144,13 +1144,13 @@ Performance Evaluation
   <a href="https://github.com/rouseguy/intro2deeplearning">
    Introduction to Deep Learning Using Python (GitHub)
   </a>
-  <sup>
-   &#9733 49, pushed 181 days ago
-  </sup>
   ,
   <a href="https://speakerdeck.com/bargava/introduction-to-deep-learning">
    Good Introduction Slides
   </a>
+  <sup>
+   &#9733 49, pushed 181 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu">
@@ -2869,9 +2869,9 @@ Learning
   <a href="https://github.com/ujjwalkarn/DataScienceR">
    this list
   </a>
+  .
   <sup>
    &#9733 15, pushed 18 days ago
   </sup>
-  .
  </li>
 </ul>

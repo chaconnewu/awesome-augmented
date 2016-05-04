@@ -410,10 +410,10 @@
   <a href="https://github.com/composer/installers">
    Composer Installers
   </a>
+  - A  multi framework Composer library installer.
   <sup>
    &#9733 541, pushed 9 days ago
   </sup>
-  - A  multi framework Composer library installer.
  </li>
  <li>
   <a href="https://getcomposer.org/">
@@ -435,10 +435,10 @@
   <a href="https://github.com/FriendsOfPHP/pickle">
    Pickle
   </a>
+  - A PHP extension installer.
   <sup>
    &#9733 745, pushed 29 days ago
   </sup>
-  - A PHP extension installer.
  </li>
 </ul>
 <h2>
@@ -454,73 +454,73 @@
   <a href="https://github.com/joshdifabio/composed">
    Composed
   </a>
+  - A library to parse your project's Composer environment at runtime.
   <sup>
    &#9733 10, pushed 69 days ago
   </sup>
-  - A library to parse your project's Composer environment at runtime.
  </li>
  <li>
   <a href="https://github.com/silpion/composer-checker">
    Composer Checker
   </a>
+  - A tool to validate Composer configurations.
   <sup>
    &#9733 8, pushed 580 days ago
   </sup>
-  - A tool to validate Composer configurations.
  </li>
  <li>
   <a href="https://github.com/wikimedia/composer-merge-plugin">
    Composer Merge Plugin
   </a>
+  - A composer plugin to merge several composer.json files.
   <sup>
    &#9733 120, pushed 9 days ago
   </sup>
-  - A composer plugin to merge several composer.json files.
  </li>
  <li>
   <a href="https://github.com/bamarni/composition">
    Composition
   </a>
+  - A library to check your Composer environment at runtime.
   <sup>
    &#9733 93, pushed 46 days ago
   </sup>
-  - A library to check your Composer environment at runtime.
  </li>
  <li>
   <a href="https://github.com/ralphschindler/Namespacer">
    NameSpacer
   </a>
+  - A library to convert from underscores to namespaces.
   <sup>
    &#9733 54, pushed 1156 days ago
   </sup>
-  - A library to convert from underscores to namespaces.
  </li>
  <li>
   <a href="https://github.com/goatherd/patch-installer">
    Patch Installer
   </a>
+  - A library to install patches using Composer.
   <sup>
    &#9733 47, pushed 1109 days ago
   </sup>
-  - A library to install patches using Composer.
  </li>
  <li>
   <a href="https://github.com/hirak/prestissimo">
    Prestissimo
   </a>
+  - A composer plugin which enables parallel install process.
   <sup>
    &#9733 1698, pushed 4 days ago
   </sup>
-  - A composer plugin which enables parallel install process.
  </li>
  <li>
   <a href="https://github.com/composer/satis">
    Satis
   </a>
+  - A static Composer repository generator.
   <sup>
    &#9733 1072, pushed 12 days ago
   </sup>
-  - A static Composer repository generator.
  </li>
  <li>
   <a href="https://toranproxy.com">
@@ -596,10 +596,10 @@
   <a href="https://github.com/radarphp/Radar.Adr">
    Radar
   </a>
+  - An Action-Domain-Responder implementation for PHP.
   <sup>
    &#9733 37, pushed 28 days ago
   </sup>
-  - An Action-Domain-Responder implementation for PHP.
  </li>
  <li>
   <a href="http://www.iceframework.org/">
@@ -621,10 +621,10 @@
   <a href="https://github.com/friendsofcake/crud">
    CakePHP CRUD
   </a>
+  - A Rapid Application Development (RAD) plugin for CakePHP.
   <sup>
    &#9733 220, pushed 2 days ago
   </sup>
-  - A Rapid Application Development (RAD) plugin for CakePHP.
  </li>
  <li>
   <a href="http://rad.knplabs.com/">
@@ -636,10 +636,10 @@
   <a href="https://github.com/symfony-cmf/symfony-cmf">
    Symfony CMF
   </a>
+  - A Content Management Framework to create custom CMS.
   <sup>
    &#9733 705, pushed 10 days ago
   </sup>
-  - A Content Management Framework to create custom CMS.
  </li>
 </ul>
 <h2>
@@ -707,10 +707,10 @@
   <a href="https://github.com/alexbilbie/Proton">
    Proton
   </a>
+  - A StackPHP compatible micro framework
   <sup>
    &#9733 241, pushed 126 days ago
   </sup>
-  - A StackPHP compatible micro framework
  </li>
  <li>
   <a href="http://silex.sensiolabs.org/">
@@ -738,37 +738,37 @@
   <a href="https://github.com/silexphp/Silex-Skeleton">
    Silex Skeleton
   </a>
+  - A project skeleton for Silex.
   <sup>
    &#9733 663, pushed 137 days ago
   </sup>
-  - A project skeleton for Silex.
  </li>
  <li>
   <a href="https://github.com/silexphp/Silex-WebProfiler">
    Silex Web Profiler
   </a>
+  - A web debug toolbar for Silex.
   <sup>
    &#9733 166, pushed 21 days ago
   </sup>
-  - A web debug toolbar for Silex.
  </li>
  <li>
   <a href="https://github.com/slimphp/Slim-Skeleton">
    Slim Skeleton
   </a>
+  - A skeleton for Slim.
   <sup>
    &#9733 375, pushed 22 days ago
   </sup>
-  - A skeleton for Slim.
  </li>
  <li>
   <a href="https://github.com/slimphp/Slim-Views">
    Slim View
   </a>
+  - A collection of custom views for Slim.
   <sup>
    &#9733 278, pushed 176 days ago
   </sup>
-  - A collection of custom views for Slim.
  </li>
 </ul>
 <h2>
@@ -784,37 +784,37 @@
   <a href="https://github.com/nikic/FastRoute">
    Fast Route
   </a>
+  - A fast routing library.
   <sup>
    &#9733 1604, pushed 3 days ago
   </sup>
-  - A fast routing library.
  </li>
  <li>
   <a href="https://github.com/klein/klein.php">
    Klein
   </a>
+  - A flexible router.
   <sup>
    &#9733 1765, pushed 68 days ago
   </sup>
-  - A flexible router.
  </li>
  <li>
   <a href="https://github.com/c9s/Pux">
    Pux
   </a>
+  - Another fast routing library.
   <sup>
    &#9733 1155, pushed 9 days ago
   </sup>
-  - Another fast routing library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/route">
    Route
   </a>
+  - A routing library built on top of Fast Route.
   <sup>
    &#9733 196, pushed 3 days ago
   </sup>
-  - A routing library built on top of Fast Route.
  </li>
 </ul>
 <h2>
@@ -830,46 +830,46 @@
   <a href="https://github.com/FoilPHP/Foil">
    Foil
   </a>
+  - Another native PHP templating library.
   <sup>
    &#9733 78, pushed 51 days ago
   </sup>
-  - Another native PHP templating library.
  </li>
  <li>
   <a href="https://github.com/pyrocms/lex">
    Lex
   </a>
+  - A lightweight template parser.
   <sup>
    &#9733 80, pushed 628 days ago
   </sup>
-  - A lightweight template parser.
  </li>
  <li>
   <a href="https://github.com/arnaud-lb/MtHaml">
    MtHaml
   </a>
+  - A PHP implementation of the HAML template language.
   <sup>
    &#9733 296, pushed 138 days ago
   </sup>
-  - A PHP implementation of the HAML template language.
  </li>
  <li>
   <a href="https://github.com/bobthecow/mustache.php">
    Mustache
   </a>
+  - A PHP implementation of the Mustache template language.
   <sup>
    &#9733 2306, pushed 25 days ago
   </sup>
-  - A PHP implementation of the Mustache template language.
  </li>
  <li>
   <a href="https://github.com/phly/phly_mustache">
    Phly Mustache
   </a>
+  - Another PHP implementation of the Mustache template language.
   <sup>
    &#9733 126, pushed 244 days ago
   </sup>
-  - Another PHP implementation of the Mustache template language.
  </li>
  <li>
   <a href="http://phptal.org/">
@@ -925,10 +925,10 @@
   <a href="https://github.com/Pawka/phrozn">
    Phrozn
   </a>
+  - Another tool that converts Textile, Markdown and Twig into HTML.
   <sup>
    &#9733 484, pushed 613 days ago
   </sup>
-  - Another tool that converts Textile, Markdown and Twig into HTML.
  </li>
  <li>
   <a href="https://sculpin.io">
@@ -956,28 +956,28 @@
   <a href="https://github.com/kriswallsmith/Buzz">
    Buzz
   </a>
+  - Another HTTP client.
   <sup>
    &#9733 1233, pushed 26 days ago
   </sup>
-  - Another HTTP client.
  </li>
  <li>
   <a href="https://github.com/guzzle/guzzle">
    Guzzle
   </a>
+  - A comprehensive HTTP client.
   <sup>
    &#9733 6799, pushed 4 days ago
   </sup>
-  - A comprehensive HTTP client.
  </li>
  <li>
   <a href="https://github.com/nategood/httpful">
    HTTPFul
   </a>
+  - A chainable HTTP client.
   <sup>
    &#9733 1039, pushed 12 days ago
   </sup>
-  - A chainable HTTP client.
  </li>
  <li>
   <a href="http://php-vcr.github.io/">
@@ -989,28 +989,28 @@
   <a href="https://github.com/rmccue/Requests">
    Requests
   </a>
+  - A simple HTTP library.
   <sup>
    &#9733 2057, pushed 14 days ago
   </sup>
-  - A simple HTTP library.
  </li>
  <li>
   <a href="https://github.com/tebru/retrofit-php">
    Retrofit
   </a>
+  - A library to ease creation of REST API clients.
   <sup>
    &#9733 65, pushed 18 days ago
   </sup>
-  - A library to ease creation of REST API clients.
  </li>
  <li>
   <a href="https://github.com/zendframework/zend-diactoros">
    zend-diactoros
   </a>
+  - PSR-7 HTTP Message implementation.
   <sup>
    &#9733 269, pushed 5 days ago
   </sup>
-  - PSR-7 HTTP Message implementation.
  </li>
 </ul>
 <h2>
@@ -1026,28 +1026,28 @@
   <a href="https://github.com/oscarotero/Embed">
    Embed
   </a>
+  - An information extractor from any web service or page.
   <sup>
    &#9733 768, pushed 5 days ago
   </sup>
-  - An information extractor from any web service or page.
  </li>
  <li>
   <a href="https://github.com/FriendsOfPHP/Goutte">
    Goutte
   </a>
+  - A simple web scraper.
   <sup>
    &#9733 3930, pushed 29 days ago
   </sup>
-  - A simple web scraper.
  </li>
  <li>
   <a href="https://github.com/mvdbos/php-spider">
    PHP Spider
   </a>
+  - A configurable and extensible PHP web spider.
   <sup>
    &#9733 401, pushed 90 days ago
   </sup>
-  - A configurable and extensible PHP web spider.
  </li>
 </ul>
 <h2>
@@ -1063,28 +1063,28 @@
   <a href="https://github.com/oscarotero/psr7-middlewares">
    PSR7-Middlewares
   </a>
+  - Inspiring collection of handy middlewares.
   <sup>
    &#9733 285, pushed 12 days ago
   </sup>
-  - Inspiring collection of handy middlewares.
  </li>
  <li>
   <a href="https://github.com/relayphp/Relay.Relay">
    Relay
   </a>
+  - A PHP 5.5 PSR-7 middleware dispatcher
   <sup>
    &#9733 155, pushed 133 days ago
   </sup>
-  - A PHP 5.5 PSR-7 middleware dispatcher
  </li>
  <li>
   <a href="https://github.com/slimphp/Slim-Middleware">
    Slim Middleware
   </a>
+  - A collection of custom middleware for Slim.
   <sup>
    &#9733 35, pushed 958 days ago
   </sup>
-  - A collection of custom middleware for Slim.
  </li>
  <li>
   <a href="https://github.com/stackphp">
@@ -1096,10 +1096,10 @@
   <a href="https://github.com/zendframework/zend-stratigility">
    zend-stratigility
   </a>
+  - Middleware for PHP built on top of PSR-7
   <sup>
    &#9733 134, pushed 6 days ago
   </sup>
-  - Middleware for PHP built on top of PSR-7
  </li>
 </ul>
 <h2>
@@ -1115,37 +1115,37 @@
   <a href="https://github.com/jeremykendall/php-domain-parser">
    PHP Domain Parser
   </a>
+  - A domain suffix parser library.
   <sup>
    &#9733 350, pushed 77 days ago
   </sup>
-  - A domain suffix parser library.
  </li>
  <li>
   <a href="https://github.com/jwage/purl">
    Purl
   </a>
+  - A URL manipulation library.
   <sup>
    &#9733 573, pushed 19 days ago
   </sup>
-  - A URL manipulation library.
  </li>
  <li>
   <a href="https://github.com/fruux/sabre-uri">
    sabre/uri
   </a>
+  - A functional URI manipulation library.
   <sup>
    &#9733 90, pushed 49 days ago
   </sup>
-  - A functional URI manipulation library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/uri">
    Uri
   </a>
+  - Another URL manipulation library.
   <sup>
    &#9733 118, pushed 2 days ago
   </sup>
-  - Another URL manipulation library.
  </li>
 </ul>
 <h2>
@@ -1161,63 +1161,60 @@
   <a href="https://github.com/tijsverkoyen/CssToInlineStyles">
    CssToInlineStyles
   </a>
+  - A library to inline CSS in email templates.
   <sup>
    &#9733 621, pushed 20 days ago
   </sup>
-  - A library to inline CSS in email templates.
  </li>
  <li>
   <a href="https://github.com/willdurand/EmailReplyParser">
    Email Reply Parser
   </a>
+  - An email reply parser library.
   <sup>
    &#9733 385, pushed 68 days ago
   </sup>
-  - An email reply parser library.
  </li>
  <li>
   <a href="https://github.com/nojacko/email-validator">
    Email Validator
   </a>
+  - A small email address validation library.
   <sup>
    &#9733 41, pushed 140 days ago
   </sup>
-  - A small email address validation library.
  </li>
  <li>
   <a href="https://github.com/tedious/Fetch">
    Fetch
   </a>
+  - An IMAP library.
   <sup>
    &#9733 353, pushed 6 days ago
   </sup>
-  - An IMAP library.
  </li>
  <li>
   <a href="https://github.com/mautic/mautic">
    Mautic
   </a>
+  - Email marketing automation
   <sup>
    &#9733 661, pushed 4 days ago
   </sup>
-  - Email marketing automation
  </li>
  <li>
   <a href="https://github.com/PHPMailer/PHPMailer">
    PHPMailer
   </a>
+  - Another mailer solution.
   <sup>
    &#9733 6090, pushed 1 days ago
   </sup>
-  - Another mailer solution.
  </li>
  <li>
   <a href="https://github.com/henrikbjorn/Stampie">
    Stampie
   </a>
-  <sup>
-   &#9733 22, pushed 223 days ago
-  </sup>
   - A library for email services such as
   <a href="http://sendgrid.com">
    SendGrid
@@ -1235,6 +1232,9 @@
    Mandrill
   </a>
   .
+  <sup>
+   &#9733 22, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="http://swiftmailer.org/">
@@ -1256,73 +1256,73 @@
   <a href="https://github.com/dflydev/dflydev-apache-mime-types">
    Apache MIME Types
   </a>
+  - A library that parses Apache MIME types.
   <sup>
    &#9733 34, pushed 802 days ago
   </sup>
-  - A library that parses Apache MIME types.
  </li>
  <li>
   <a href="https://github.com/dflydev/dflydev-canal">
    Canal
   </a>
+  - A library to determine internet media types.
   <sup>
    &#9733 23, pushed 1085 days ago
   </sup>
-  - A library to determine internet media types.
  </li>
  <li>
   <a href="https://github.com/thephpleague/csv">
    CSV
   </a>
+  - A CSV data manipulation library.
   <sup>
    &#9733 825, pushed 6 days ago
   </sup>
-  - A CSV data manipulation library.
  </li>
  <li>
   <a href="https://github.com/versionable/Ferret">
    Ferret
   </a>
+  - A MIME detection library.
   <sup>
    &#9733 14, pushed 536 days ago
   </sup>
-  - A MIME detection library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/Flysystem">
    Flysystem
   </a>
+  - Another filesystem abstraction layer.
   <sup>
    &#9733 2771, pushed 5 days ago
   </sup>
-  - Another filesystem abstraction layer.
  </li>
  <li>
   <a href="https://github.com/KnpLabs/Gaufrette">
    Gaufrette
   </a>
+  - A filesystem abstraction layer.
   <sup>
    &#9733 1667, pushed 18 days ago
   </sup>
-  - A filesystem abstraction layer.
  </li>
  <li>
   <a href="https://github.com/hoaproject/Mime">
    Hoa Mime
   </a>
+  - Another MIME detection library.
   <sup>
    &#9733 60, pushed 110 days ago
   </sup>
-  - Another MIME detection library.
  </li>
  <li>
   <a href="https://github.com/henrikbjorn/Lurker">
    Lurker
   </a>
+  - A resource tracking library.
   <sup>
    &#9733 4, pushed 189 days ago
   </sup>
-  - A resource tracking library.
  </li>
  <li>
   <a href="https://github.com/PHP-FFmpeg/PHP-FFmpeg/">
@@ -1348,10 +1348,10 @@
   <a href="https://github.com/fzaninotto/Streamer">
    Streamer
   </a>
+  - A simple object-orientated stream wrapper library.
   <sup>
    &#9733 177, pushed 295 days ago
   </sup>
-  - A simple object-orientated stream wrapper library.
  </li>
 </ul>
 <h2>
@@ -1367,28 +1367,28 @@
   <a href="https://github.com/jeremeamia/acclimate-container">
    Acclimate
   </a>
+  - A common interface to dependency injection containers and service locators.
   <sup>
    &#9733 150, pushed 61 days ago
   </sup>
-  - A common interface to dependency injection containers and service locators.
  </li>
  <li>
   <a href="https://github.com/rdlowrey/Auryn">
    Auryn
   </a>
+  - A recursive dependency injector.
   <sup>
    &#9733 347, pushed 50 days ago
   </sup>
-  - A recursive dependency injector.
  </li>
  <li>
   <a href="https://github.com/thephpleague/container">
    Container
   </a>
+  - Another flexible dependency injection container.
   <sup>
    &#9733 184, pushed 18 days ago
   </sup>
-  - Another flexible dependency injection container.
  </li>
  <li>
   <a href="http://php-di.org/">
@@ -1406,10 +1406,10 @@
   <a href="https://github.com/symfony/dependency-injection">
    Symfony DI
   </a>
+  - A dependency injection container component (SF2).
   <sup>
    &#9733 78, pushed 4 days ago
   </sup>
-  - A dependency injection container component (SF2).
  </li>
 </ul>
 <h2>
@@ -1425,64 +1425,64 @@
   <a href="https://github.com/thephpleague/color-extractor">
    Color Extractor
   </a>
+  - A library for extracting colours from images.
   <sup>
    &#9733 475, pushed 19 days ago
   </sup>
-  - A library for extracting colours from images.
  </li>
  <li>
   <a href="https://github.com/Sybio/GifCreator">
    GIF Creator
   </a>
+  - A library to create GIF animations from multiple images.
   <sup>
    &#9733 168, pushed 970 days ago
   </sup>
-  - A library to create GIF animations from multiple images.
  </li>
  <li>
   <a href="https://github.com/Sybio/GifFrameExtractor">
    GIF Frame Extractor
   </a>
+  - A library to extract GIF animation frame information.
   <sup>
    &#9733 68, pushed 335 days ago
   </sup>
-  - A library to extract GIF animation frame information.
  </li>
  <li>
   <a href="https://github.com/thephpleague/glide">
    Glide
   </a>
+  - An on-demand image manipulation library.
   <sup>
    &#9733 737, pushed 27 days ago
   </sup>
-  - An on-demand image manipulation library.
  </li>
  <li>
   <a href="https://github.com/jenssegers/imagehash">
    Image Hash
   </a>
+  - A library for generating perceptual image hashes.
   <sup>
    &#9733 438, pushed 70 days ago
   </sup>
-  - A library for generating perceptual image hashes.
  </li>
  <li>
   <a href="https://github.com/psliwa/image-optimizer">
    Image Optimizer
   </a>
+  - A library for optimizing images.
   <sup>
    &#9733 149, pushed 108 days ago
   </sup>
-  - A library for optimizing images.
  </li>
  <li>
   <a href="https://github.com/nmcteam/image-with-text">
    Image With Text
   </a>
+  - A library for embedding text into images.
   <sup>
    &#9733 67, pushed 895 days ago
   </sup>
-  - A library for embedding text into images.
  </li>
  <li>
   <a href="http://imagine.readthedocs.io/en/latest/index.html">
@@ -1494,19 +1494,19 @@
   <a href="https://github.com/Intervention/image">
    Intervention Image
   </a>
+  - Another image manipulation library.
   <sup>
    &#9733 3485, pushed 7 days ago
   </sup>
-  - Another image manipulation library.
  </li>
  <li>
   <a href="https://github.com/Sybio/ImageWorkshop">
    PHP Image Workshop
   </a>
+  - Another image manipulation library.
   <sup>
    &#9733 694, pushed 99 days ago
   </sup>
-  - Another image manipulation library.
  </li>
 </ul>
 <h2>
@@ -1522,28 +1522,28 @@
   <a href="https://github.com/nelmio/alice">
    Alice
   </a>
+  - An expressive fixture generation library.
   <sup>
    &#9733 1007, pushed 4 days ago
   </sup>
-  - An expressive fixture generation library.
  </li>
  <li>
   <a href="https://github.com/Codeception/AspectMock">
    AspectMock
   </a>
+  - A mocking framework for PHPUnit/Codeception.
   <sup>
    &#9733 413, pushed 26 days ago
   </sup>
-  - A mocking framework for PHPUnit/Codeception.
  </li>
  <li>
   <a href="https://github.com/atoum/atoum">
    Atoum
   </a>
+  - A simple testing library.
   <sup>
    &#9733 837, pushed 2 days ago
   </sup>
-  - A simple testing library.
  </li>
  <li>
   <a href="http://docs.behat.org/en/v2.5/">
@@ -1555,46 +1555,46 @@
   <a href="https://github.com/Codeception/Codeception">
    Codeception
   </a>
+  - A full stack testing framework.
   <sup>
    &#9733 2132, pushed 1 days ago
   </sup>
-  - A full stack testing framework.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/dbunit">
    DBUnit
   </a>
+  - A database testing library for PHPUnit.
   <sup>
    &#9733 144, pushed 49 days ago
   </sup>
-  - A database testing library for PHPUnit.
  </li>
  <li>
   <a href="https://github.com/fzaninotto/Faker">
    Faker
   </a>
+  - A fake data generator library.
   <sup>
    &#9733 8400, pushed 1 days ago
   </sup>
-  - A fake data generator library.
  </li>
  <li>
   <a href="https://github.com/InterNations/http-mock">
    HTTP Mock
   </a>
+  - A library for mocking HTTP requests in unit tests.
   <sup>
    &#9733 232, pushed 5 days ago
   </sup>
-  - A library for mocking HTTP requests in unit tests.
  </li>
  <li>
   <a href="https://github.com/crysalead/kahlan">
    Kahlan
   </a>
+  - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
   <sup>
    &#9733 357, pushed 2 days ago
   </sup>
-  - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
  </li>
  <li>
   <a href="http://mink.behat.org/en/latest/">
@@ -1606,100 +1606,100 @@
   <a href="https://github.com/padraic/mockery">
    Mockery
   </a>
+  - A mock object library for testing.
   <sup>
    &#9733 1889, pushed 3 days ago
   </sup>
-  - A mock object library for testing.
  </li>
  <li>
   <a href="https://github.com/brianium/paratest">
    ParaTest
   </a>
+  - A parallel testing library for PHPUnit.
   <sup>
    &#9733 360, pushed 20 days ago
   </sup>
-  - A parallel testing library for PHPUnit.
  </li>
  <li>
   <a href="https://github.com/peridot-php/peridot">
    Peridot
   </a>
+  - An event driven test framework.
   <sup>
    &#9733 162, pushed 11 days ago
   </sup>
-  - An event driven test framework.
  </li>
  <li>
   <a href="https://github.com/mlively/Phake">
    Phake
   </a>
+  - Another mock object library for testing.
   <sup>
    &#9733 376, pushed 32 days ago
   </sup>
-  - Another mock object library for testing.
  </li>
  <li>
   <a href="https://github.com/danielstjules/pho">
    Pho
   </a>
+  - Another behaviour driven development testing framework.
   <sup>
    &#9733 240, pushed 40 days ago
   </sup>
-  - Another behaviour driven development testing framework.
  </li>
  <li>
   <a href="https://github.com/phpspec/phpspec">
    PHPSpec
   </a>
+  - A design by specification unit testing library.
   <sup>
    &#9733 979, pushed 7 days ago
   </sup>
-  - A design by specification unit testing library.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phpunit">
    PHPUnit
   </a>
+  - A unit testing framework.
   <sup>
    &#9733 5159, pushed 4 days ago
   </sup>
-  - A unit testing framework.
  </li>
  <li>
   <a href="https://github.com/phpspec/prophecy">
    Prophecy
   </a>
+  - A highly opinionated mocking framework.
   <sup>
    &#9733 689, pushed 4 days ago
   </sup>
-  - A highly opinionated mocking framework.
  </li>
  <li>
   <a href="https://github.com/mauris/samsui">
    Samsui
   </a>
+  - Another fake data generator library.
   <sup>
    &#9733 29, pushed 623 days ago
   </sup>
-  - Another fake data generator library.
  </li>
  <li>
   <a href="https://github.com/mikey179/vfsStream">
    VFS Stream
   </a>
+  - A virtual filesystem stream wrapper for testing.
   <sup>
    &#9733 596, pushed 24 days ago
   </sup>
-  - A virtual filesystem stream wrapper for testing.
  </li>
  <li>
   <a href="https://github.com/adlawson/php-vfs">
    VFS
   </a>
+  - Another virtual filesystem for testing.
   <sup>
    &#9733 275, pushed 8 days ago
   </sup>
-  - Another virtual filesystem for testing.
  </li>
 </ul>
 <h2>
@@ -1731,10 +1731,10 @@
   <a href="https://github.com/jolicode/JoliCi">
    JoliCi
   </a>
+  - A continuous integration client written in PHP and powered by Docker.
   <sup>
    &#9733 529, pushed 72 days ago
   </sup>
-  - A continuous integration client written in PHP and powered by Docker.
  </li>
  <li>
   <a href="https://www.phptesting.org/">
@@ -1786,28 +1786,28 @@
   <a href="https://github.com/apigen/apigen">
    APIGen
   </a>
+  - Another API documentation generator.
   <sup>
    &#9733 1202, pushed 52 days ago
   </sup>
-  - Another API documentation generator.
  </li>
  <li>
   <a href="https://github.com/justinwalsh/daux.io">
    daux.io
   </a>
+  - A documentation generator which uses Markdown files.
   <sup>
    &#9733 3946, pushed 2 days ago
   </sup>
-  - A documentation generator which uses Markdown files.
  </li>
  <li>
   <a href="https://github.com/phpDocumentor/phpDocumentor2">
    PHP Documentor 2
   </a>
+  - A documentation generator.
   <sup>
    &#9733 1692, pushed 10 days ago
   </sup>
-  - A documentation generator.
  </li>
  <li>
   <a href="http://phpdox.de/">
@@ -1819,10 +1819,10 @@
   <a href="https://github.com/FriendsOfPHP/Sami">
    Sami
   </a>
+  - An API documentation generator.
   <sup>
    &#9733 1139, pushed 13 days ago
   </sup>
-  - An API documentation generator.
  </li>
 </ul>
 <h2>
@@ -1848,55 +1848,55 @@
   <a href="https://github.com/ezyang/htmlpurifier">
    HTML Purifier
   </a>
+  - A standards compliant HTML filter.
   <sup>
    &#9733 700, pushed 33 days ago
   </sup>
-  - A standards compliant HTML filter.
  </li>
  <li>
   <a href="https://github.com/psecio/iniscan">
    IniScan
   </a>
+  - A tool that scans PHP INI files for security.
   <sup>
    &#9733 1016, pushed 40 days ago
   </sup>
-  - A tool that scans PHP INI files for security.
  </li>
  <li>
   <a href="https://github.com/jenssegers/optimus">
    Optimus
   </a>
+  - Id obfuscation based on Knuth's multiplicative hashing method.
   <sup>
    &#9733 447, pushed 73 days ago
   </sup>
-  - Id obfuscation based on Knuth's multiplicative hashing method.
  </li>
  <li>
   <a href="https://github.com/defuse/php-encryption">
    PHP Encryption
   </a>
+  - Secure PHP Encryption Library.
   <sup>
    &#9733 655, pushed 3 days ago
   </sup>
-  - Secure PHP Encryption Library.
  </li>
  <li>
   <a href="https://github.com/PHPIDS/PHPIDS">
    PHP IDS
   </a>
+  - A structured PHP security layer.
   <sup>
    &#9733 451, pushed 242 days ago
   </sup>
-  - A structured PHP security layer.
  </li>
  <li>
   <a href="https://github.com/Herzult/php-ssh">
    PHP SSH
   </a>
+  - An experimental object orientated SSH wrapper library.
   <sup>
    &#9733 220, pushed 214 days ago
   </sup>
-  - An experimental object orientated SSH wrapper library.
  </li>
  <li>
   <a href="http://phpseclib.sourceforge.net/">
@@ -1908,19 +1908,19 @@
   <a href="https://github.com/ircmaxell/RandomLib">
    RandomLib
   </a>
+  - A library for generating random numbers and strings.
   <sup>
    &#9733 452, pushed 71 days ago
   </sup>
-  - A library for generating random numbers and strings.
  </li>
  <li>
   <a href="https://github.com/padraic/SecurityMultiTool">
    SecurityMultiTool
   </a>
+  - A PHP security library.
   <sup>
    &#9733 108, pushed 181 days ago
   </sup>
-  - A PHP security library.
  </li>
  <li>
   <a href="https://security.sensiolabs.org/">
@@ -1932,23 +1932,23 @@
   <a href="https://github.com/timoh6/TCrypto">
    TCrypto
   </a>
+  - A simple encrypted key-value storage library.
   <sup>
    &#9733 48, pushed 151 days ago
   </sup>
-  - A simple encrypted key-value storage library.
  </li>
  <li>
   <a href="https://github.com/pixeloution/true-random">
    True Random
   </a>
-  <sup>
-   &#9733 35, pushed 1014 days ago
-  </sup>
   - A library that generates random numbers using
   <a href="https://www.random.org/">
    www.random.org
   </a>
   .
+  <sup>
+   &#9733 35, pushed 1014 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vaddy.net">
@@ -1976,55 +1976,55 @@
   <a href="https://github.com/timoh6/GenPhrase">
    GenPhrase
   </a>
+  - A library for generating secure random passphrases.
   <sup>
    &#9733 34, pushed 151 days ago
   </sup>
-  - A library for generating secure random passphrases.
  </li>
  <li>
   <a href="https://github.com/ircmaxell/password_compat">
    Password Compat
   </a>
+  - A compatibility library for the new PHP 5.5 password functions.
   <sup>
    &#9733 1685, pushed 21 days ago
   </sup>
-  - A compatibility library for the new PHP 5.5 password functions.
  </li>
  <li>
   <a href="https://github.com/ircmaxell/password-policy">
    Password Policy
   </a>
+  - A password policy library for PHP and JavaScript.
   <sup>
    &#9733 37, pushed 34 days ago
   </sup>
-  - A password policy library for PHP and JavaScript.
  </li>
  <li>
   <a href="https://github.com/jeremykendall/password-validator">
    Password Validator
   </a>
+  - A library for validating and upgrading password hashes.
   <sup>
    &#9733 127, pushed 55 days ago
   </sup>
-  - A library for validating and upgrading password hashes.
  </li>
  <li>
   <a href="https://github.com/hackzilla/password-generator">
    Password-Generator
   </a>
+  - PHP library to generate random passwords.
   <sup>
    &#9733 37, pushed 1 days ago
   </sup>
-  - PHP library to generate random passwords.
  </li>
  <li>
   <a href="https://github.com/ircmaxell/PHP-PasswordLib">
    PHP Password Lib
   </a>
+  - A library for generating and validating passwords.
   <sup>
    &#9733 330, pushed 454 days ago
   </sup>
-  - A library for generating and validating passwords.
  </li>
  <li>
   <a href="http://www.openwall.com/phpass/">
@@ -2036,10 +2036,10 @@
   <a href="https://github.com/bjeavons/zxcvbn-php">
    Zxcvbn PHP
   </a>
+  - A realistic PHP password strength estimate library based on Zxcvbn JS.
   <sup>
    &#9733 217, pushed 20 days ago
   </sup>
-  - A realistic PHP password strength estimate library based on Zxcvbn JS.
  </li>
 </ul>
 <h2>
@@ -2055,10 +2055,10 @@
   <a href="https://github.com/polyfractal/athletic">
    Athletic
   </a>
+  - An annotation based benchmark framework.
   <sup>
    &#9733 299, pushed 22 days ago
   </sup>
-  - An annotation based benchmark framework.
  </li>
  <li>
   <a href="https://codeclimate.com">
@@ -2070,10 +2070,10 @@
   <a href="https://github.com/jakubledl/dissect">
    Dissect
   </a>
+  - A set of tools for lexical and syntactical analysis.
   <sup>
    &#9733 166, pushed 404 days ago
   </sup>
-  - A set of tools for lexical and syntactical analysis.
  </li>
  <li>
   <a href="http://www.exakat.io">
@@ -2085,55 +2085,55 @@
   <a href="https://github.com/phpro/grumphp">
    GrumPHP
   </a>
+  - A composer plugin to defend code quality.
   <sup>
    &#9733 957, pushed 1 days ago
   </sup>
-  - A composer plugin to defend code quality.
  </li>
  <li>
   <a href="https://github.com/Trismegiste/Mondrian">
    Mondrian
   </a>
+  - A code analysis tool using Graph Theory.
   <sup>
    &#9733 292, pushed 251 days ago
   </sup>
-  - A code analysis tool using Graph Theory.
  </li>
  <li>
   <a href="https://github.com/scrutinizer-ci/php-analyzer">
    PHP Analyser
   </a>
+  - A library for analysing PHP code to find bugs and errors.
   <sup>
    &#9733 443, pushed 364 days ago
   </sup>
-  - A library for analysing PHP code to find bugs and errors.
  </li>
  <li>
   <a href="https://github.com/squizlabs/PHP_CodeSniffer">
    PHP Code Sniffer
   </a>
+  - A library that detects PHP, CSS and JS coding standard violations.
   <sup>
    &#9733 2270, pushed 5 days ago
   </sup>
-  - A library that detects PHP, CSS and JS coding standard violations.
  </li>
  <li>
   <a href="https://github.com/FriendsOfPHP/PHP-CS-Fixer">
    PHP CS Fixer
   </a>
+  - A coding standards fixer library.
   <sup>
    &#9733 3204, pushed 2 days ago
   </sup>
-  - A coding standards fixer library.
  </li>
  <li>
   <a href="https://github.com/schmittjoh/php-manipulator">
    PHP Manipulator
   </a>
+  - A library for analysing and modifying PHP Source Code.
   <sup>
    &#9733 102, pushed 584 days ago
   </sup>
-  - A library for analysing and modifying PHP Source Code.
  </li>
  <li>
   <a href="https://phpmd.org/">
@@ -2145,100 +2145,100 @@
   <a href="https://github.com/phpmetrics/PhpMetrics">
    PHP Metrics
   </a>
+  - A static metric library.
   <sup>
    &#9733 793, pushed 28 days ago
   </sup>
-  - A static metric library.
  </li>
  <li>
   <a href="https://github.com/nikic/PHP-Parser">
    PHP Parser
   </a>
+  - A PHP parser written in PHP.
   <sup>
    &#9733 2252, pushed 13 days ago
   </sup>
-  - A PHP parser written in PHP.
  </li>
  <li>
   <a href="https://github.com/QafooLabs/php-refactoring-browser">
    PHP Refactoring Browser
   </a>
+  - A command line utility for refactoring PHP code.
   <sup>
    &#9733 494, pushed 385 days ago
   </sup>
-  - A command line utility for refactoring PHP code.
  </li>
  <li>
   <a href="https://github.com/tomzx/php-semver-checker">
    PHP Semantic Versioning Checker
   </a>
+  - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
   <sup>
    &#9733 312, pushed 82 days ago
   </sup>
-  - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
  </li>
  <li>
   <a href="https://github.com/PHPCheckstyle/phpcheckstyle">
    PHPCheckstyle
   </a>
+  - A tool to help adhere to certain coding conventions.
   <sup>
    &#9733 55, pushed 297 days ago
   </sup>
-  - A tool to help adhere to certain coding conventions.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phpcpd">
    PHPCPD
   </a>
+  - A library that detects copied and pasted code.
   <sup>
    &#9733 992, pushed 16 days ago
   </sup>
-  - A library that detects copied and pasted code.
  </li>
  <li>
   <a href="https://github.com/mamuz/PhpDependencyAnalysis">
    PhpDependencyAnalysis
   </a>
+  - A tool to create customisable dependency graphs.
   <sup>
    &#9733 173, pushed 67 days ago
   </sup>
-  - A tool to create customisable dependency graphs.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phploc">
    PHPLOC
   </a>
+  - A tool for quickly measuring the size of a PHP project.
   <sup>
    &#9733 897, pushed 7 days ago
   </sup>
-  - A tool for quickly measuring the size of a PHP project.
  </li>
  <li>
   <a href="https://github.com/EdgedesignCZ/phpqa">
    PHPQA
   </a>
+  - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
   <sup>
    &#9733 25, pushed 4 days ago
   </sup>
-  - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
  </li>
  <li>
   <a href="https://github.com/ircmaxell/PHPPHP">
    PHPPHP
   </a>
+  - A PHP VM implementation in PHP.
   <sup>
    &#9733 596, pushed 292 days ago
   </sup>
-  - A PHP VM implementation in PHP.
  </li>
  <li>
   <a href="https://github.com/fieryprophet/php-sandbox">
    PHPSandbox
   </a>
-  <sup>
-   &#9733 196, pushed 82 days ago
-  </sup>
   - A PHP sandbox environment.
+  <sup>
+   &#9733 196, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://scrutinizer-ci.com/">
@@ -2250,10 +2250,10 @@
   <a href="https://github.com/devster/ubench">
    UBench
   </a>
+  - A simple micro benchmark library.
   <sup>
    &#9733 352, pushed 336 days ago
   </sup>
-  - A simple micro benchmark library.
  </li>
 </ul>
 <h2>
@@ -2269,19 +2269,19 @@
   <a href="https://github.com/igorw/compose">
    Compose
   </a>
+  - A function composition library.
   <sup>
    &#9733 67, pushed 813 days ago
   </sup>
-  - A function composition library.
  </li>
  <li>
   <a href="https://github.com/domnikl/DesignPatternsPHP">
    Design Patterns PHP
   </a>
+  - A repository of software patterns implemented in PHP.
   <sup>
    &#9733 9377, pushed 26 days ago
   </sup>
-  - A repository of software patterns implemented in PHP.
  </li>
  <li>
   <a href="http://yohan.giarel.li/Finite/">
@@ -2293,37 +2293,37 @@
   <a href="https://github.com/lstrojny/functional-php">
    Functional PHP
   </a>
-  <sup>
-   &#9733 655, pushed 18 days ago
-  </sup>
   - A functional programming library.
+  <sup>
+   &#9733 655, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/endel/galapagos">
    Galapagos
   </a>
+  - Evolutionary language transformation.
   <sup>
    &#9733 9, pushed 423 days ago
   </sup>
-  - Evolutionary language transformation.
  </li>
  <li>
   <a href="https://github.com/nikic/iter">
    Iter
   </a>
+  - A library that provides iteration primitives using generators.
   <sup>
    &#9733 460, pushed 195 days ago
   </sup>
-  - A library that provides iteration primitives using generators.
  </li>
  <li>
   <a href="https://github.com/ircmaxell/monad-php">
    Monad PHP
   </a>
+  - A simple Monad library.
   <sup>
    &#9733 172, pushed 236 days ago
   </sup>
-  - A simple Monad library.
  </li>
  <li>
   <a href="http://antecedent.github.io/patchwork/">
@@ -2335,37 +2335,37 @@
   <a href="https://github.com/schmittjoh/php-option">
    PHP Option
   </a>
+  - An option type library.
   <sup>
    &#9733 437, pushed 78 days ago
   </sup>
-  - An option type library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/pipeline">
    Pipeline
   </a>
+  - A pipeline pattern implementation.
   <sup>
    &#9733 215, pushed 34 days ago
   </sup>
-  - A pipeline pattern implementation.
  </li>
  <li>
   <a href="https://github.com/bobthecow/Ruler">
    Ruler
   </a>
+  - A simple stateless production rules engine.
   <sup>
    &#9733 657, pushed 342 days ago
   </sup>
-  - A simple stateless production rules engine.
  </li>
  <li>
   <a href="https://github.com/K-Phoen/rulerz">
    RulerZ
   </a>
+  - A powerful rule engine and implementation of the Specification pattern.
   <sup>
    &#9733 308, pushed 14 days ago
   </sup>
-  - A powerful rule engine and implementation of the Specification pattern.
  </li>
 </ul>
 <h2>
@@ -2387,10 +2387,10 @@
   <a href="https://github.com/barbushin/php-console">
    Barbushin PHP Console
   </a>
+  - Another web debugging console using Google Chrome.
   <sup>
    &#9733 782, pushed 74 days ago
   </sup>
-  - Another web debugging console using Google Chrome.
  </li>
  <li>
   <a href="https://blackfire.io">
@@ -2402,19 +2402,19 @@
   <a href="https://github.com/raveren/kint">
    Kint
   </a>
+  - A debugging and profiling tool.
   <sup>
    &#9733 1489, pushed 8 days ago
   </sup>
-  - A debugging and profiling tool.
  </li>
  <li>
   <a href="https://github.com/Seldaek/php-console">
    PHP Console
   </a>
+  - A web debugging console.
   <sup>
    &#9733 363, pushed 109 days ago
   </sup>
-  - A web debugging console.
  </li>
  <li>
   <a href="http://phpdebugbar.com/">
@@ -2426,10 +2426,10 @@
   <a href="https://github.com/phpbench/phpbench">
    PHPBench
   </a>
+  - A benchmarking Framework.
   <sup>
    &#9733 320, pushed 6 days ago
   </sup>
-  - A benchmarking Framework.
  </li>
  <li>
   <a href="http://phpdbg.com/">
@@ -2447,28 +2447,28 @@
   <a href="https://github.com/nette/tracy">
    Tracy
   </a>
+  - A simple error detection, logging and time measuring library.
   <sup>
    &#9733 437, pushed 12 days ago
   </sup>
-  - A simple error detection, logging and time measuring library.
  </li>
  <li>
   <a href="https://github.com/xdebug/xdebug">
    xDebug
   </a>
+  - A debug and profile tool for PHP.
   <sup>
    &#9733 838, pushed 3 days ago
   </sup>
-  - A debug and profile tool for PHP.
  </li>
  <li>
   <a href="https://github.com/phacility/xhprof">
    XHProf
   </a>
+  - A profiling tool originally developed by Facebook.
   <sup>
    &#9733 1569, pushed 62 days ago
   </sup>
-  - A profiling tool originally developed by Facebook.
  </li>
  <li>
   <a href="http://www.zend.com/en/products/server/z-ray">
@@ -2490,28 +2490,28 @@
   <a href="https://github.com/CHH/bob">
    Bob
   </a>
+  - A simple project automation tool.
   <sup>
    &#9733 90, pushed 887 days ago
   </sup>
-  - A simple project automation tool.
  </li>
  <li>
   <a href="https://github.com/box-project/box2">
    Box
   </a>
+  - A utility to build PHAR files.
   <sup>
    &#9733 826, pushed 3 days ago
   </sup>
-  - A utility to build PHAR files.
  </li>
  <li>
   <a href="https://github.com/jaz303/phake">
    Phake
   </a>
+  - A rake PHP clone library.
   <sup>
    &#9733 377, pushed 397 days ago
   </sup>
-  - A rake PHP clone library.
  </li>
  <li>
   <a href="http://www.phing.info/">
@@ -2539,19 +2539,19 @@
   <a href="https://github.com/jobbyphp/jobby">
    Jobby
   </a>
+  - A PHP cron job manager without modifying crontab.
   <sup>
    &#9733 411, pushed 18 days ago
   </sup>
-  - A PHP cron job manager without modifying crontab.
  </li>
  <li>
   <a href="https://github.com/Codegyre/Robo">
    Robo
   </a>
+  - A PHP Task runner with object-orientated configurations.
   <sup>
    &#9733 1108, pushed 5 days ago
   </sup>
-  - A PHP Task runner with object-orientated configurations.
  </li>
  <li>
   <a href="http://taskphp.github.io/">
@@ -2573,19 +2573,19 @@
   <a href="https://github.com/tackk/cartographer">
    Cartographer
   </a>
+  - A sitemap generation library.
   <sup>
    &#9733 270, pushed 55 days ago
   </sup>
-  - A sitemap generation library.
  </li>
  <li>
   <a href="https://github.com/KnpLabs/KnpMenu">
    KnpMenu
   </a>
+  - A menu library.
   <sup>
    &#9733 402, pushed 116 days ago
   </sup>
-  - A menu library.
  </li>
 </ul>
 <h2>
@@ -2601,46 +2601,46 @@
   <a href="https://github.com/kriswallsmith/assetic">
    Assetic
   </a>
+  - An asset manager pipeline library.
   <sup>
    &#9733 3270, pushed 12 days ago
   </sup>
-  - An asset manager pipeline library.
  </li>
  <li>
   <a href="https://github.com/tedious/JShrink">
    JShrink
   </a>
+  - A JavaScript minifier library.
   <sup>
    &#9733 405, pushed 258 days ago
   </sup>
-  - A JavaScript minifier library.
  </li>
  <li>
   <a href="https://github.com/meenie/munee">
    Munee
   </a>
+  - An asset optimiser library.
   <sup>
    &#9733 740, pushed 5 days ago
   </sup>
-  - An asset optimiser library.
  </li>
  <li>
   <a href="https://github.com/CHH/pipe">
    Pipe
   </a>
+  - Another asset manager pipeline library.
   <sup>
    &#9733 119, pushed 832 days ago
   </sup>
-  - Another asset manager pipeline library.
  </li>
  <li>
   <a href="https://github.com/puli/repository">
    Puli
   </a>
+  - A library for determining assets absolute paths.
   <sup>
    &#9733 413, pushed 88 days ago
   </sup>
-  - A library for determining assets absolute paths.
  </li>
 </ul>
 <h2>
@@ -2662,28 +2662,28 @@
   <a href="https://github.com/jmikola/geojson">
    GeoJSON
   </a>
+  - A GeoJSON implementation.
   <sup>
    &#9733 102, pushed 21 days ago
   </sup>
-  - A GeoJSON implementation.
  </li>
  <li>
   <a href="https://github.com/thephpleague/geotools">
    GeoTools
   </a>
+  - A library of geo-related tools.
   <sup>
    &#9733 634, pushed 50 days ago
   </sup>
-  - A library of geo-related tools.
  </li>
  <li>
   <a href="https://github.com/mjaschen/phpgeo">
    PHPGeo
   </a>
+  - A simple geo library.
   <sup>
    &#9733 624, pushed 15 days ago
   </sup>
-  - A simple geo library.
  </li>
 </ul>
 <h2>
@@ -2705,28 +2705,28 @@
   <a href="https://github.com/briannesbitt/Carbon">
    Carbon
   </a>
+  - A simple DateTime API extension.
   <sup>
    &#9733 4251, pushed 1 days ago
   </sup>
-  - A simple DateTime API extension.
  </li>
  <li>
   <a href="https://github.com/jasonlewis/expressive-date">
    ExpressiveDate
   </a>
+  - Another DateTime API extension.
   <sup>
    &#9733 242, pushed 264 days ago
   </sup>
-  - Another DateTime API extension.
  </li>
  <li>
   <a href="https://github.com/fightbulc/moment.php">
    Moment.php
   </a>
+  - Moment.js inspired PHP DateTime handler with i18n support.
   <sup>
    &#9733 267, pushed 1 days ago
   </sup>
-  - Moment.js inspired PHP DateTime handler with i18n support.
  </li>
 </ul>
 <h2>
@@ -2742,127 +2742,127 @@
   <a href="https://github.com/amphp/amp">
    Amp
   </a>
+  - An event driven non-blocking I/O library.
   <sup>
    &#9733 318, pushed 25 days ago
   </sup>
-  - An event driven non-blocking I/O library.
  </li>
  <li>
   <a href="https://github.com/qandidate-labs/broadway">
    Broadway
   </a>
+  - An event source and CQRS library.
   <sup>
    &#9733 640, pushed 12 days ago
   </sup>
-  - An event source and CQRS library.
  </li>
  <li>
   <a href="https://github.com/cakephp/event">
    Cake Event
   </a>
+  - An event dispatcher library (CP).
   <sup>
    &#9733 9, pushed 9 days ago
   </sup>
-  - An event dispatcher library (CP).
  </li>
  <li>
   <a href="https://github.com/Wisembly/Elephant.io">
    Elephant.io
   </a>
+  - Yet another web socket library.
   <sup>
    &#9733 747, pushed 27 days ago
   </sup>
-  - Yet another web socket library.
  </li>
  <li>
   <a href="https://github.com/igorw/evenement">
    Evenement
   </a>
+  - An event dispatcher library.
   <sup>
    &#9733 447, pushed 36 days ago
   </sup>
-  - An event dispatcher library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/event">
    Event
   </a>
+  - An event library with a focus on domain events.
   <sup>
    &#9733 190, pushed 43 days ago
   </sup>
-  - An event library with a focus on domain events.
  </li>
  <li>
   <a href="https://github.com/hoaproject/Eventsource">
    Hoa EventSource
   </a>
+  - An event source library.
   <sup>
    &#9733 58, pushed 110 days ago
   </sup>
-  - An event source library.
  </li>
  <li>
   <a href="https://github.com/hoaproject/Websocket">
    Hoa WebSocket
   </a>
+  - Another web socket library.
   <sup>
    &#9733 184, pushed 5 days ago
   </sup>
-  - Another web socket library.
  </li>
  <li>
   <a href="https://github.com/icicleio/icicle">
    Icicle
   </a>
+  - An asynchronous library with coroutines, non-blocking I/O, and multithreading.
   <sup>
    &#9733 827, pushed 33 days ago
   </sup>
-  - An asynchronous library with coroutines, non-blocking I/O, and multithreading.
  </li>
  <li>
   <a href="https://github.com/prooph/event-store">
    Prooph Event Store
   </a>
+  - An event source component to persist event messages
   <sup>
    &#9733 108, pushed 11 days ago
   </sup>
-  - An event source component to persist event messages
  </li>
  <li>
   <a href="https://github.com/ratchetphp/Ratchet">
    Ratchet
   </a>
+  - A web socket library.
   <sup>
    &#9733 2855, pushed 8 days ago
   </sup>
-  - A web socket library.
  </li>
  <li>
   <a href="https://github.com/reactphp/react">
    React
   </a>
+  - An event driven non-blocking I/O library.
   <sup>
    &#9733 4174, pushed 202 days ago
   </sup>
-  - An event driven non-blocking I/O library.
  </li>
  <li>
   <a href="https://github.com/asm89/Rx.PHP">
    Rx.PHP
   </a>
+  - A reactive extension library.
   <sup>
    &#9733 206, pushed 101 days ago
   </sup>
-  - A reactive extension library.
  </li>
  <li>
   <a href="https://github.com/walkor/Workerman">
    Workerman
   </a>
+  - An event driven non-blocking I/O library.
   <sup>
    &#9733 2391, pushed 23 days ago
   </sup>
-  - An event driven non-blocking I/O library.
  </li>
 </ul>
 <h2>
@@ -2878,28 +2878,28 @@
   <a href="https://github.com/jbroadway/analog">
    Analog
   </a>
+  - A closure-based micro logging package.
   <sup>
    &#9733 222, pushed 35 days ago
   </sup>
-  - A closure-based micro logging package.
  </li>
  <li>
   <a href="https://github.com/katzgrau/KLogger">
    KLogger
   </a>
+  - An easy-to-use PSR-3 compliant logging class.
   <sup>
    &#9733 646, pushed 180 days ago
   </sup>
-  - An easy-to-use PSR-3 compliant logging class.
  </li>
  <li>
   <a href="https://github.com/Seldaek/monolog">
    Monolog
   </a>
+  - A comprehensive logger.
   <sup>
    &#9733 4660, pushed 8 days ago
   </sup>
-  - A comprehensive logger.
  </li>
 </ul>
 <h2>
@@ -2915,55 +2915,55 @@
   <a href="https://github.com/moneyphp/money">
    Money
   </a>
+  - A PHP implementation of Fowler's money pattern.
   <sup>
    &#9733 798, pushed 8 days ago
   </sup>
-  - A PHP implementation of Fowler's money pattern.
  </li>
  <li>
   <a href="https://github.com/thephpleague/omnipay">
    OmniPay
   </a>
+  - A framework agnostic multi-gateway payment processing library.
   <sup>
    &#9733 2805, pushed 12 days ago
   </sup>
-  - A framework agnostic multi-gateway payment processing library.
  </li>
  <li>
   <a href="https://github.com/payum/payum">
    Payum
   </a>
+  - A payment abstraction library.
   <sup>
    &#9733 648, pushed 3 days ago
   </sup>
-  - A payment abstraction library.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/money">
    Sebastian Money
   </a>
-  <sup>
-   &#9733 620, pushed 15 days ago
-  </sup>
   - Another library for working with monetary values.
+  <sup>
+   &#9733 620, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shopware/shopware">
    Shopware
   </a>
+  - Highly customizable e-commerce software
   <sup>
    &#9733 427, pushed 4 days ago
   </sup>
-  - Highly customizable e-commerce software
  </li>
  <li>
   <a href="https://github.com/florianv/swap">
    Swap
   </a>
+  - An exchange rates library.
   <sup>
    &#9733 438, pushed 13 days ago
   </sup>
-  - An exchange rates library.
  </li>
  <li>
   <a href="http://sylius.org/">
@@ -2985,37 +2985,37 @@
   <a href="https://github.com/dompdf/dompdf">
    Dompdf
   </a>
+  - A HTML to PDF converter.
   <sup>
    &#9733 2679, pushed 2 days ago
   </sup>
-  - A HTML to PDF converter.
  </li>
  <li>
   <a href="https://github.com/psliwa/PHPPdf">
    PHPPdf
   </a>
+  - A library for generating PDFs and images from XML.
   <sup>
    &#9733 261, pushed 58 days ago
   </sup>
-  - A library for generating PDFs and images from XML.
  </li>
  <li>
   <a href="https://github.com/KnpLabs/snappy">
    Snappy
   </a>
+  - A PDF and image generation library.
   <sup>
    &#9733 1889, pushed 32 days ago
   </sup>
-  - A PDF and image generation library.
  </li>
  <li>
   <a href="https://github.com/wkhtmltopdf/wkhtmltopdf">
    WKHTMLToPDF
   </a>
+  - A tool to convert HTML to PDF.
   <sup>
    &#9733 4050, pushed 4 days ago
   </sup>
-  - A tool to convert HTML to PDF.
  </li>
 </ul>
 <h2>
@@ -3031,37 +3031,37 @@
   <a href="https://github.com/Wisembly/ExcelAnt">
    ExcelAnt
   </a>
+  - A library for manipulating Microsoft Excel documents.
   <sup>
    &#9733 45, pushed 756 days ago
   </sup>
-  - A library for manipulating Microsoft Excel documents.
  </li>
  <li>
   <a href="https://github.com/PHPOffice/PHPExcel">
    PHPExcel
   </a>
+  - A library for working with Microsoft Excel documents.
   <sup>
    &#9733 5973, pushed 5 days ago
   </sup>
-  - A library for working with Microsoft Excel documents.
  </li>
  <li>
   <a href="https://github.com/PHPOffice/PHPPresentation">
    PHPPowerPoint
   </a>
+  - A library for working with Microsoft PowerPoint Presentations.
   <sup>
    &#9733 397, pushed 20 days ago
   </sup>
-  - A library for working with Microsoft PowerPoint Presentations.
  </li>
  <li>
   <a href="https://github.com/PHPOffice/PHPWord">
    PHPWord
   </a>
+  - A library for working with Microsoft Word documents.
   <sup>
    &#9733 1596, pushed 7 days ago
   </sup>
-  - A library for working with Microsoft Word documents.
  </li>
 </ul>
 <h2>
@@ -3077,28 +3077,28 @@
   <a href="https://github.com/etrepat/baum">
    Baum
   </a>
+  - A nested set implementation for Eloquent.
   <sup>
    &#9733 965, pushed 40 days ago
   </sup>
-  - A nested set implementation for Eloquent.
  </li>
  <li>
   <a href="https://github.com/cakephp/orm">
    Cake ORM
   </a>
+  - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
   <sup>
    &#9733 105, pushed 9 days ago
   </sup>
-  - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
  </li>
  <li>
   <a href="https://github.com/Atlantic18/DoctrineExtensions">
    Doctrine Extensions
   </a>
+  - A collection of Doctrine behavioural extensions.
   <sup>
    &#9733 1556, pushed 2 days ago
   </sup>
-  - A collection of Doctrine behavioural extensions.
  </li>
  <li>
   <a href="http://www.doctrine-project.org/">
@@ -3110,28 +3110,28 @@
   <a href="https://github.com/illuminate/database">
    Eloquent
   </a>
+  - A simple ORM (L5).
   <sup>
    &#9733 729, pushed 3 days ago
   </sup>
-  - A simple ORM (L5).
  </li>
  <li>
   <a href="https://github.com/c9s/LazyRecord">
    LazyRecord
   </a>
+  - A fast ORM designed for simplicity, extendability and performance.
   <sup>
    &#9733 140, pushed 9 days ago
   </sup>
-  - A fast ORM designed for simplicity, extendability and performance.
  </li>
  <li>
   <a href="https://github.com/chanmix51/Pomm">
    Pomm
   </a>
+  - An Object Model Manager for PostgreSQL.
   <sup>
    &#9733 158, pushed 209 days ago
   </sup>
-  - An Object Model Manager for PostgreSQL.
  </li>
  <li>
   <a href="http://propelorm.org/">
@@ -3143,10 +3143,10 @@
   <a href="https://github.com/Ocramius/ProxyManager">
    ProxyManager
   </a>
-  <sup>
-   &#9733 550, pushed 48 days ago
-  </sup>
   - A set of utilities to generate proxy objects for data mappers.
+  <sup>
+   &#9733 550, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="http://redbeanphp.com/index.php">
@@ -3158,10 +3158,10 @@
   <a href="https://github.com/vlucas/spot2">
    Spot2
   </a>
+  - A MySQL datamapper ORM.
   <sup>
    &#9733 347, pushed 4 days ago
   </sup>
-  - A MySQL datamapper ORM.
  </li>
 </ul>
 <h2>
@@ -3181,37 +3181,37 @@
   <a href="https://github.com/icomefromthenet/Migrations">
    Migrations
   </a>
+  - A migration management library.
   <sup>
    &#9733 36, pushed 37 days ago
   </sup>
-  - A migration management library.
  </li>
  <li>
   <a href="https://github.com/robmorgan/phinx">
    Phinx
   </a>
+  - Another database migration library.
   <sup>
    &#9733 2092, pushed 5 days ago
   </sup>
-  - Another database migration library.
  </li>
  <li>
   <a href="https://github.com/davedevelopment/phpmig">
    PHPMig
   </a>
+  - Another migration management library.
   <sup>
    &#9733 379, pushed 11 days ago
   </sup>
-  - Another migration management library.
  </li>
  <li>
   <a href="https://github.com/ruckus/ruckusing-migrations">
    Ruckusing
   </a>
+  - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
   <sup>
    &#9733 445, pushed 57 days ago
   </sup>
-  - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
  </li>
 </ul>
 <h2>
@@ -3227,37 +3227,37 @@
   <a href="https://github.com/thephpleague/monga">
    Monga
   </a>
+  - A MongoDB abstraction library.
   <sup>
    &#9733 239, pushed 18 days ago
   </sup>
-  - A MongoDB abstraction library.
  </li>
  <li>
   <a href="https://github.com/alexbilbie/MongoQB">
    MongoQB
   </a>
+  - A MongoDB query builder library.
   <sup>
    &#9733 182, pushed 295 days ago
   </sup>
-  - A MongoDB query builder library.
  </li>
  <li>
   <a href="https://github.com/sokil/php-mongo">
    PHPMongo
   </a>
+  - A MongoDB ORM.
   <sup>
    &#9733 104, pushed 6 days ago
   </sup>
-  - A MongoDB ORM.
  </li>
  <li>
   <a href="https://github.com/nrk/predis">
    Predis
   </a>
+  - A feature complete Redis library.
   <sup>
    &#9733 2662, pushed 5 days ago
   </sup>
-  - A feature complete Redis library.
  </li>
 </ul>
 <h2>
@@ -3273,55 +3273,55 @@
   <a href="https://github.com/bernardphp/bernard">
    Bernard
   </a>
+  - A multibackend abstraction library.
   <sup>
    &#9733 497, pushed 1 days ago
   </sup>
-  - A multibackend abstraction library.
  </li>
  <li>
   <a href="https://github.com/jakubkulhan/bunny">
    BunnyPHP
   </a>
+  - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
   <sup>
    &#9733 165, pushed 13 days ago
   </sup>
-  - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
  </li>
  <li>
   <a href="https://github.com/pda/pheanstalk">
    Pheanstalk
   </a>
+  - A Beanstalkd client library.
   <sup>
    &#9733 931, pushed 11 days ago
   </sup>
-  - A Beanstalkd client library.
  </li>
  <li>
   <a href="https://github.com/php-amqplib/php-amqplib">
    PHP AMQP
   </a>
+  - A pure PHP AMQP library.
   <sup>
    &#9733 1164, pushed 6 days ago
   </sup>
-  - A pure PHP AMQP library.
  </li>
  <li>
   <a href="https://github.com/tarantool-php/queue">
    Tarantool Queue
   </a>
+  - PHP bindings for Tarantool Queue.
   <sup>
    &#9733 20, pushed 92 days ago
   </sup>
-  - PHP bindings for Tarantool Queue.
  </li>
  <li>
   <a href="https://github.com/php-amqplib/Thumper">
    Thumper
   </a>
+  - A RabbitMQ pattern library.
   <sup>
    &#9733 182, pushed 6 days ago
   </sup>
-  - A RabbitMQ pattern library.
  </li>
 </ul>
 <h2>
@@ -3337,23 +3337,23 @@
   <a href="https://github.com/ruflin/Elastica">
    Elastica
   </a>
+  - A client library for ElasticSearch.
   <sup>
    &#9733 1217, pushed 5 days ago
   </sup>
-  - A client library for ElasticSearch.
  </li>
  <li>
   <a href="https://github.com/elastic/elasticsearch-php">
    ElasticSearch PHP
   </a>
-  <sup>
-   &#9733 1070, pushed 4 days ago
-  </sup>
   - The official client library for
   <a href="https://www.elastic.co/">
    ElasticSearch
   </a>
   .
+  <sup>
+   &#9733 1070, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.solarium-project.org/">
@@ -3369,10 +3369,10 @@
   <a href="https://github.com/ripaclub/sphinxsearch">
    Sphinx Search
   </a>
+  - Sphinx Search library provides SphinxQL indexing and searching features
   <sup>
    &#9733 37, pushed 5 days ago
   </sup>
-  - Sphinx Search library provides SphinxQL indexing and searching features
  </li>
  <li>
   <a href="http://foolcode.github.io/SphinxQL-Query-Builder/">
@@ -3398,136 +3398,136 @@
   <a href="https://github.com/borisrepl/boris">
    Boris
   </a>
+  - A tiny PHP REPL.
   <sup>
    &#9733 2100, pushed 193 days ago
   </sup>
-  - A tiny PHP REPL.
  </li>
  <li>
   <a href="https://github.com/Cilex/Cilex">
    Cilex
   </a>
+  - A micro framework for building command line tools.
   <sup>
    &#9733 484, pushed 43 days ago
   </sup>
-  - A micro framework for building command line tools.
  </li>
  <li>
   <a href="https://github.com/php-school/cli-menu">
    CLI Menu
   </a>
+  - A library for building CLI menus.
   <sup>
    &#9733 512, pushed 41 days ago
   </sup>
-  - A library for building CLI menus.
  </li>
  <li>
   <a href="https://github.com/c9s/CLIFramework">
    CLIFramework
   </a>
+  - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
   <sup>
    &#9733 230, pushed 46 days ago
   </sup>
-  - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
  </li>
  <li>
   <a href="https://github.com/thephpleague/climate">
    CLImate
   </a>
+  - A library for outputting colours and special formatting.
   <sup>
    &#9733 997, pushed 28 days ago
   </sup>
-  - A library for outputting colours and special formatting.
  </li>
  <li>
   <a href="https://github.com/nategood/commando">
    Commando
   </a>
+  - Another simple command line opt parser.
   <sup>
    &#9733 383, pushed 55 days ago
   </sup>
-  - Another simple command line opt parser.
  </li>
  <li>
   <a href="https://github.com/mtdowling/cron-expression">
    Cron Expression
   </a>
+  - A library to calculate cron run dates.
   <sup>
    &#9733 830, pushed 6 days ago
   </sup>
-  - A library to calculate cron run dates.
  </li>
  <li>
   <a href="https://github.com/ulrichsg/getopt-php">
    GetOpt
   </a>
+  - A command line opt parser.
   <sup>
    &#9733 108, pushed 40 days ago
   </sup>
-  - A command line opt parser.
  </li>
  <li>
   <a href="https://github.com/c9s/GetOptionKit">
    GetOptionKit
   </a>
+  - Another command line opt parser.
   <sup>
    &#9733 79, pushed 77 days ago
   </sup>
-  - Another command line opt parser.
  </li>
  <li>
   <a href="https://github.com/hoaproject/Console">
    Hoa Console
   </a>
+  - Another command line library.
   <sup>
    &#9733 193, pushed 69 days ago
   </sup>
-  - Another command line library.
  </li>
  <li>
   <a href="https://github.com/CHH/optparse">
    OptParse
   </a>
+  - Another command line opt parser.
   <sup>
    &#9733 14, pushed 1199 days ago
   </sup>
-  - Another command line opt parser.
  </li>
  <li>
   <a href="https://github.com/mcrumm/pecan">
    Pecan
   </a>
+  - An event-driven, non-blocking shell.
   <sup>
    &#9733 37, pushed 599 days ago
   </sup>
-  - An event-driven, non-blocking shell.
  </li>
  <li>
   <a href="https://github.com/bobthecow/psysh">
    PsySH
   </a>
+  - Another PHP REPL.
   <sup>
    &#9733 1354, pushed 3 days ago
   </sup>
-  - Another PHP REPL.
  </li>
  <li>
   <a href="https://github.com/MrRio/shellwrap">
    ShellWrap
   </a>
+  - A simple command line wrapper library.
   <sup>
    &#9733 576, pushed 539 days ago
   </sup>
-  - A simple command line wrapper library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/shunt">
    Shunt
   </a>
+  - A library for running commands in parallel on multiple remote machines.
   <sup>
    &#9733 403, pushed 323 days ago
   </sup>
-  - A library for running commands in parallel on multiple remote machines.
  </li>
 </ul>
 <h2>
@@ -3543,55 +3543,55 @@
   <a href="https://github.com/dflydev/dflydev-hawk">
    Hawk
   </a>
+  - A Hawk HTTP authentication library.
   <sup>
    &#9733 52, pushed 187 days ago
   </sup>
-  - A Hawk HTTP authentication library.
  </li>
  <li>
   <a href="https://github.com/hybridauth/hybridauth">
    HybridAuth
   </a>
+  - An open source social sign on library.
   <sup>
    &#9733 2120, pushed 3 days ago
   </sup>
-  - An open source social sign on library.
  </li>
  <li>
   <a href="https://github.com/lcobucci/jwt">
    Json Web Token
   </a>
+  - Json Tokens to authenticate and transmit information.
   <sup>
    &#9733 585, pushed 17 days ago
   </sup>
-  - Json Tokens to authenticate and transmit information.
  </li>
  <li>
   <a href="https://github.com/BeatSwitch/lock">
    Lock
   </a>
+  - A library for implementing Access Control Lists (ACL) systems.
   <sup>
    &#9733 875, pushed 189 days ago
   </sup>
-  - A library for implementing Access Control Lists (ACL) systems.
  </li>
  <li>
   <a href="https://github.com/thephpleague/oauth1-client">
    OAuth 1.0 Client
   </a>
+  - An OAuth 1.0 client library.
   <sup>
    &#9733 101, pushed 8 days ago
   </sup>
-  - An OAuth 1.0 client library.
  </li>
  <li>
   <a href="https://github.com/thephpleague/oauth2-client">
    OAuth 2.0 Client
   </a>
+  - An OAuth 2.0 client library.
   <sup>
    &#9733 1182, pushed 4 days ago
   </sup>
-  - An OAuth 2.0 client library.
  </li>
  <li>
   <a href="http://bshaffer.github.io/oauth2-server-php-docs/">
@@ -3609,19 +3609,19 @@
   <a href="https://github.com/opauth/opauth">
    Opauth
   </a>
+  - A multi-provider authentication framework.
   <sup>
    &#9733 1387, pushed 83 days ago
   </sup>
-  - A multi-provider authentication framework.
  </li>
  <li>
   <a href="https://github.com/Lusitanian/PHPoAuthLib">
    PHP oAuthLib
   </a>
+  - Another OAuth library.
   <sup>
    &#9733 877, pushed 9 days ago
   </sup>
-  - Another OAuth library.
  </li>
  <li>
   <a href="https://cartalyst.com/manual/sentinel-social/2.0">
@@ -3639,19 +3639,19 @@
   <a href="https://github.com/ruudk/twitteroauth">
    TwitterOAuth
   </a>
+  - A Twitter OAuth library.
   <sup>
    &#9733 55, pushed 693 days ago
   </sup>
-  - A Twitter OAuth library.
  </li>
  <li>
   <a href="https://github.com/lyrixx/twitter-sdk">
    TwitterSDK
   </a>
+  - A fully tested Twitter SDK.
   <sup>
    &#9733 36, pushed 466 days ago
   </sup>
-  - A fully tested Twitter SDK.
  </li>
 </ul>
 <h2>
@@ -3667,86 +3667,86 @@
   <a href="https://github.com/cebe/markdown">
    Cebe Markdown
   </a>
+  - An fast and extensible Markdown parser.
   <sup>
    &#9733 478, pushed 46 days ago
   </sup>
-  - An fast and extensible Markdown parser.
  </li>
  <li>
   <a href="https://github.com/kzykhys/Ciconia">
    Ciconia
   </a>
+  - Another Markdown parser that supports Github flavoured Markdown.
   <sup>
    &#9733 366, pushed 56 days ago
   </sup>
-  - Another Markdown parser that supports Github flavoured Markdown.
  </li>
  <li>
   <a href="https://github.com/thephpleague/commonmark">
    CommonMark PHP
   </a>
-  <sup>
-   &#9733 680, pushed 37 days ago
-  </sup>
   - A Markdown parser which supports the full
   <a href="http://spec.commonmark.org/">
    CommonMark spec
   </a>
   .
+  <sup>
+   &#9733 680, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/milesj/decoda">
    Decoda
   </a>
+  - A lightweight markup parser library.
   <sup>
    &#9733 159, pushed 62 days ago
   </sup>
-  - A lightweight markup parser library.
  </li>
  <li>
   <a href="https://github.com/heyupdate/Emoji">
    Emoji
   </a>
+  - A library that converts unicode characters and names into emoji images.
   <sup>
    &#9733 22, pushed 332 days ago
   </sup>
-  - A library that converts unicode characters and names into emoji images.
  </li>
  <li>
   <a href="https://github.com/thephpleague/html-to-markdown">
    HTML to Markdown
   </a>
+  - Converts HTML into Markdown.
   <sup>
    &#9733 365, pushed 10 days ago
   </sup>
-  - Converts HTML into Markdown.
  </li>
  <li>
   <a href="https://github.com/Masterminds/html5-php">
    HTML5 PHP
   </a>
+  - An HTML5 parser and serializer library.
   <sup>
    &#9733 351, pushed 11 days ago
   </sup>
-  - An HTML5 parser and serializer library.
  </li>
  <li>
   <a href="https://github.com/erusev/parsedown">
    Parsedown
   </a>
+  - Another Markdown parser.
   <sup>
    &#9733 3180, pushed 51 days ago
   </sup>
-  - Another Markdown parser.
  </li>
  <li>
   <a href="https://github.com/michelf/php-markdown">
    PHP Markdown
   </a>
+  - A Markdown parser.
   <sup>
    &#9733 2122, pushed 51 days ago
   </sup>
-  - A Markdown parser.
  </li>
 </ul>
 <h2>
@@ -3762,82 +3762,82 @@
   <a href="https://github.com/jenssegers/agent">
    Agent
   </a>
+  - A PHP desktop/mobile user agent parser, based on Mobiledetect.
   <sup>
    &#9733 911, pushed 55 days ago
   </sup>
-  - A PHP desktop/mobile user agent parser, based on Mobiledetect.
  </li>
  <li>
   <a href="https://github.com/sensiolabs/ansi-to-html">
    ANSI to HTML5
   </a>
+  - An ANSI to HTML5 converter library.
   <sup>
    &#9733 89, pushed 287 days ago
   </sup>
-  - An ANSI to HTML5 converter library.
  </li>
  <li>
   <a href="https://github.com/mikeemoo/ColorJizz-PHP">
    Color Jizz
   </a>
+  - A library for manipulating and converting colours.
   <sup>
    &#9733 190, pushed 126 days ago
   </sup>
-  - A library for manipulating and converting colours.
  </li>
  <li>
   <a href="https://github.com/piwik/device-detector">
    Device Detector
   </a>
+  - Another library for parsing user agent strings.
   <sup>
    &#9733 429, pushed 6 days ago
   </sup>
-  - Another library for parsing user agent strings.
  </li>
  <li>
   <a href="https://github.com/hoaproject/String">
    Hoa String
   </a>
+  - Another UTF-8 string library.
   <sup>
    &#9733 5, pushed 113 days ago
   </sup>
-  - Another UTF-8 string library.
  </li>
  <li>
   <a href="https://github.com/fukuball/jieba-php">
    Jieba-PHP
   </a>
+  - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
   <sup>
    &#9733 135, pushed 47 days ago
   </sup>
-  - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
  </li>
  <li>
   <a href="https://github.com/serbanghita/Mobile-Detect">
    Mobile-Detect
   </a>
+  - A lightweight PHP class for detecting mobile devices (including tablets).
   <sup>
    &#9733 5874, pushed 6 days ago
   </sup>
-  - A lightweight PHP class for detecting mobile devices (including tablets).
  </li>
  <li>
   <a href="https://github.com/nicolas-grekas/Patchwork-UTF8">
    Patchwork UTF-8
   </a>
+  - A portable library for working with UTF-8 strings.
   <sup>
    &#9733 43, pushed 140 days ago
   </sup>
-  - A portable library for working with UTF-8 strings.
  </li>
  <li>
   <a href="https://github.com/cocur/slugify">
    Slugify
   </a>
+  - A library to convert strings to slugs.
   <sup>
    &#9733 760, pushed 3 days ago
   </sup>
-  - A library to convert strings to slugs.
  </li>
  <li>
   <a href="https://github.com/jdorn/sql-formatter/">
@@ -3849,19 +3849,19 @@
   <a href="https://github.com/danielstjules/Stringy">
    Stringy
   </a>
+  - A string manipulation library with multibyte support.
   <sup>
    &#9733 1411, pushed 2 days ago
   </sup>
-  - A string manipulation library with multibyte support.
  </li>
  <li>
   <a href="https://github.com/kzykhys/Text">
    Text
   </a>
+  - A text manipulation library.
   <sup>
    &#9733 37, pushed 982 days ago
   </sup>
-  - A text manipulation library.
  </li>
  <li>
   <a href="https://github.com/tobie/ua-parser/tree/master/php">
@@ -3873,19 +3873,19 @@
   <a href="https://github.com/jbroadway/urlify">
    URLify
   </a>
+  - A PHP port of Django's URLify.js.
   <sup>
    &#9733 464, pushed 148 days ago
   </sup>
-  - A PHP port of Django's URLify.js.
  </li>
  <li>
   <a href="https://github.com/ramsey/uuid">
    UUID
   </a>
+  - A library for generating UUIDs.
   <sup>
    &#9733 1567, pushed 6 days ago
   </sup>
-  - A library for generating UUIDs.
  </li>
 </ul>
 <h2>
@@ -3901,55 +3901,55 @@
   <a href="https://github.com/gabrielelana/byte-units">
    ByteUnits
   </a>
+  - A library to parse, format and convert byte units in binary and metric systems.
   <sup>
    &#9733 32, pushed 131 days ago
   </sup>
-  - A library to parse, format and convert byte units in binary and metric systems.
  </li>
  <li>
   <a href="https://github.com/giggsey/libphonenumber-for-php">
    LibPhoneNumber for PHP
   </a>
+  - A PHP implementation of Google's phone number handling library.
   <sup>
    &#9733 1367, pushed 3 days ago
   </sup>
-  - A PHP implementation of Google's phone number handling library.
  </li>
  <li>
   <a href="https://github.com/moontoast/math">
    Math
   </a>
+  - A library for working with large numbers.
   <sup>
    &#9733 74, pushed 143 days ago
   </sup>
-  - A library for working with large numbers.
  </li>
  <li>
   <a href="https://github.com/powder96/numbers.php">
    Numbers PHP
   </a>
+  - A library for working with numbers.
   <sup>
    &#9733 145, pushed 19 days ago
   </sup>
-  - A library for working with numbers.
  </li>
  <li>
   <a href="https://github.com/Crisu83/php-conversion">
    PHP Conversion
   </a>
+  - Another library for converting between units of measure.
   <sup>
    &#9733 57, pushed 57 days ago
   </sup>
-  - Another library for converting between units of measure.
  </li>
  <li>
   <a href="https://github.com/triplepoint/php-units-of-measure">
    PHP Units of Measure
   </a>
+  - A library for converting between units of measure.
   <sup>
    &#9733 2, pushed 132 days ago
   </sup>
-  - A library for converting between units of measure.
  </li>
 </ul>
 <h2>
@@ -3965,82 +3965,82 @@
   <a href="https://github.com/cakephp/validation">
    Cake Validation
   </a>
+  - Another validation library (CP).
   <sup>
    &#9733 11, pushed 9 days ago
   </sup>
-  - Another validation library (CP).
  </li>
  <li>
   <a href="https://github.com/rdohms/DMS-Filter">
    DMS Filter
   </a>
+  - An annotation filtering library.
   <sup>
    &#9733 68, pushed 63 days ago
   </sup>
-  - An annotation filtering library.
  </li>
  <li>
   <a href="https://github.com/ircmaxell/filterus">
    Filterus
   </a>
+  - A simple PHP filtering library.
   <sup>
    &#9733 315, pushed 15 days ago
   </sup>
-  - A simple PHP filtering library.
  </li>
  <li>
   <a href="https://github.com/ronanguilloux/IsoCodes">
    ISO-codes
   </a>
+  - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
   <sup>
    &#9733 267, pushed 6 days ago
   </sup>
-  - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
  </li>
  <li>
   <a href="https://github.com/romaricdrigon/MetaYaml">
    MetaYaml
   </a>
+  - A schema validation library that supports YAML, JSON and XML.
   <sup>
    &#9733 45, pushed 64 days ago
   </sup>
-  - A schema validation library that supports YAML, JSON and XML.
  </li>
  <li>
   <a href="https://github.com/Respect/Validation">
    Respect Validation
   </a>
+  - A simple validation library.
   <sup>
    &#9733 3049, pushed 2 days ago
   </sup>
-  - A simple validation library.
  </li>
  <li>
   <a href="https://github.com/brandonsavage/Upload">
    Upload
   </a>
+  - A library for handling file uploads and validation.
   <sup>
    &#9733 1093, pushed 61 days ago
   </sup>
-  - A library for handling file uploads and validation.
  </li>
  <li>
   <a href="https://github.com/vlucas/valitron">
    Valitron
   </a>
+  - Another validation library.
   <sup>
    &#9733 637, pushed 39 days ago
   </sup>
-  - Another validation library.
  </li>
  <li>
   <a href="https://github.com/serkin/Volan">
    Volan
   </a>
+  - Another simplified validation library.
   <sup>
    &#9733 23, pushed 60 days ago
   </sup>
-  - Another simplified validation library.
  </li>
 </ul>
 <h2>
@@ -4062,64 +4062,64 @@
   <a href="https://github.com/zfcampus/zf-apigility-skeleton">
    Apigility
   </a>
+  - An API builder built with Zend Framework 2.
   <sup>
    &#9733 431, pushed 34 days ago
   </sup>
-  - An API builder built with Zend Framework 2.
  </li>
  <li>
   <a href="https://github.com/leedavis81/drest">
    Drest
   </a>
+  - A library for exposing Doctrine entities as REST resource endpoints.
   <sup>
    &#9733 71, pushed 56 days ago
   </sup>
-  - A library for exposing Doctrine entities as REST resource endpoints.
  </li>
  <li>
   <a href="https://github.com/blongden/hal">
    HAL
   </a>
+  - A Hypertext Application Language (HAL) builder library.
   <sup>
    &#9733 164, pushed 36 days ago
   </sup>
-  - A Hypertext Application Language (HAL) builder library.
  </li>
  <li>
   <a href="https://github.com/willdurand/Hateoas">
    Hateoas
   </a>
+  - A HATEOAS REST web service library.
   <sup>
    &#9733 628, pushed 35 days ago
   </sup>
-  - A HATEOAS REST web service library.
  </li>
  <li>
   <a href="https://github.com/willdurand/Negotiation">
    Negotiation
   </a>
+  - A content negotiation library.
   <sup>
    &#9733 319, pushed 56 days ago
   </sup>
-  - A content negotiation library.
  </li>
  <li>
   <a href="https://github.com/Luracast/Restler">
    Restler
   </a>
+  - A lightweight framework to expose PHP methods as RESTful web API.
   <sup>
    &#9733 1074, pushed 4 days ago
   </sup>
-  - A lightweight framework to expose PHP methods as RESTful web API.
  </li>
  <li>
   <a href="https://github.com/wsdl2phpgenerator/wsdl2phpgenerator">
    wsdl2phpgenerator
   </a>
+  - A tool to generate PHP classes from SOAP WSDL files.
   <sup>
    &#9733 426, pushed 6 days ago
   </sup>
-  - A tool to generate PHP classes from SOAP WSDL files.
  </li>
 </ul>
 <h2>
@@ -4141,55 +4141,55 @@
   <a href="https://github.com/frqnck/apix-cache">
    APIx Cache
   </a>
+  - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
   <sup>
    &#9733 26, pushed 43 days ago
   </sup>
-  - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
  </li>
  <li>
   <a href="https://github.com/gordalina/cachetool">
    CacheTool
   </a>
+  - A tool to clear APC/opcode caches from the command line.
   <sup>
    &#9733 179, pushed 5 days ago
   </sup>
-  - A tool to clear APC/opcode caches from the command line.
  </li>
  <li>
   <a href="https://github.com/cakephp/cache">
    Cake Cache
   </a>
+  - A caching library (CP).
   <sup>
    &#9733 7, pushed 9 days ago
   </sup>
-  - A caching library (CP).
  </li>
  <li>
   <a href="https://github.com/doctrine/cache">
    Doctrine Cache
   </a>
+  - A caching library.
   <sup>
    &#9733 240, pushed 15 days ago
   </sup>
-  - A caching library.
  </li>
  <li>
   <a href="https://github.com/tedious/Stash">
    Stash
   </a>
+  - Another library for caching.
   <sup>
    &#9733 634, pushed 73 days ago
   </sup>
-  - Another library for caching.
  </li>
  <li>
   <a href="https://github.com/zendframework/zend-cache">
    Zend Cache
   </a>
+  - Another caching library (ZF2).
   <sup>
    &#9733 16, pushed 11 days ago
   </sup>
-  - Another caching library (ZF2).
  </li>
 </ul>
 <h2>
@@ -4205,109 +4205,109 @@
   <a href="https://github.com/morrisonlevi/Ardent">
    Ardent
   </a>
+  - A library of data structures.
   <sup>
    &#9733 539, pushed 161 days ago
   </sup>
-  - A library of data structures.
  </li>
  <li>
   <a href="https://github.com/cakephp/collection">
    Cake Collection
   </a>
+  - A simple collections library (CP).
   <sup>
    &#9733 18, pushed 9 days ago
   </sup>
-  - A simple collections library (CP).
  </li>
  <li>
   <a href="https://github.com/italolelis/collections">
    Collections
   </a>
+  - Collections Abstraction library for PHP.
   <sup>
    &#9733 38, pushed 2 days ago
   </sup>
-  - Collections Abstraction library for PHP.
  </li>
  <li>
   <a href="https://github.com/thephpleague/fractal">
    Fractal
   </a>
+  - A library for converting complex data structures to JSON output.
   <sup>
    &#9733 1351, pushed 15 days ago
   </sup>
-  - A library for converting complex data structures to JSON output.
  </li>
  <li>
   <a href="https://github.com/akanehara/ginq">
    Ginq
   </a>
+  - Another PHP library based on .NET's LINQ.
   <sup>
    &#9733 135, pushed 150 days ago
   </sup>
-  - Another PHP library based on .NET's LINQ.
  </li>
  <li>
   <a href="https://github.com/cweiske/jsonmapper">
    JsonMapper
   </a>
+  - A library that maps nested JSON structures onto PHP classes.
   <sup>
    &#9733 399, pushed 19 days ago
   </sup>
-  - A library that maps nested JSON structures onto PHP classes.
  </li>
  <li>
   <a href="https://github.com/schmittjoh/php-collection">
    PHP Collections
   </a>
+  - A simple collections library.
   <sup>
    &#9733 219, pushed 352 days ago
   </sup>
-  - A simple collections library.
  </li>
  <li>
   <a href="https://github.com/TimeToogo/Pinq">
    PINQ
   </a>
+  - A PHP library based on .NET's LINQ (Language Integrated Query).
   <sup>
    &#9733 289, pushed 125 days ago
   </sup>
-  - A PHP library based on .NET's LINQ (Language Integrated Query).
  </li>
  <li>
   <a href="https://github.com/schmittjoh/serializer">
    Serializer
   </a>
+  - A library for serialising and de-serialising data.
   <sup>
    &#9733 468, pushed 4 days ago
   </sup>
-  - A library for serialising and de-serialising data.
  </li>
  <li>
   <a href="https://github.com/Wisembly/Totem">
    Totem
   </a>
+  - A library to manage and create data changesets.
   <sup>
    &#9733 61, pushed 91 days ago
   </sup>
-  - A library to manage and create data changesets.
  </li>
  <li>
   <a href="https://github.com/Athari/YaLinqo">
    YaLinqo
   </a>
+  - Yet Another LINQ to Objects for PHP.
   <sup>
    &#9733 196, pushed 61 days ago
   </sup>
-  - Yet Another LINQ to Objects for PHP.
  </li>
  <li>
   <a href="https://github.com/zendframework/zend-serializer">
    Zend Serializer
   </a>
+  - Another library for serialising and de-serialising data (ZF2).
   <sup>
    &#9733 3, pushed 15 days ago
   </sup>
-  - Another library for serialising and de-serialising data (ZF2).
  </li>
 </ul>
 <h2>
@@ -4323,55 +4323,55 @@
   <a href="https://github.com/jolicode/JoliNotif">
    JoliNotif
   </a>
+  - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
   <sup>
    &#9733 600, pushed 38 days ago
   </sup>
-  - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
  </li>
  <li>
   <a href="https://github.com/filp/nod">
    Nod
   </a>
+  - A notification library (e.g., Growl).
   <sup>
    &#9733 43, pushed 1343 days ago
   </sup>
-  - A notification library (e.g., Growl).
  </li>
  <li>
   <a href="https://github.com/Ph3nol/NotificationPusher">
    Notification Pusher
   </a>
+  - A standalone library for device push notifications.
   <sup>
    &#9733 716, pushed 7 days ago
   </sup>
-  - A standalone library for device push notifications.
  </li>
  <li>
   <a href="https://github.com/mac-cain13/notificato">
    Notificato
   </a>
+  - A library for handling push notifications.
   <sup>
    &#9733 175, pushed 82 days ago
   </sup>
-  - A library for handling push notifications.
  </li>
  <li>
   <a href="https://github.com/namshi/notificator">
    Notificator
   </a>
+  - A lightweight notification library.
   <sup>
    &#9733 113, pushed 135 days ago
   </sup>
-  - A lightweight notification library.
  </li>
  <li>
   <a href="https://github.com/gomoob/php-pushwoosh">
    Php-pushwoosh
   </a>
+  - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
   <sup>
    &#9733 34, pushed 53 days ago
   </sup>
-  - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
  </li>
 </ul>
 <h2>
@@ -4387,46 +4387,46 @@
   <a href="https://github.com/deployphp/deployer">
    Deployer
   </a>
+  - A deployment tool.
   <sup>
    &#9733 2332, pushed 1 days ago
   </sup>
-  - A deployment tool.
  </li>
  <li>
   <a href="https://github.com/laravel/envoy">
    Envoy
   </a>
+  - A tool to run SSH tasks with PHP.
   <sup>
    &#9733 739, pushed 7 days ago
   </sup>
-  - A tool to run SSH tasks with PHP.
  </li>
  <li>
   <a href="https://github.com/aerialls/Plum">
    Plum
   </a>
+  - A deployer library.
   <sup>
    &#9733 90, pushed 112 days ago
   </sup>
-  - A deployer library.
  </li>
  <li>
   <a href="https://github.com/tamagokun/pomander">
    Pomander
   </a>
+  - A deployment tool for PHP applications.
   <sup>
    &#9733 197, pushed 46 days ago
   </sup>
-  - A deployment tool for PHP applications.
  </li>
  <li>
   <a href="https://github.com/rocketeers/rocketeer">
    Rocketeer
   </a>
+  - A fast and easy deployer for the PHP world.
   <sup>
    &#9733 2005, pushed 10 days ago
   </sup>
-  - A fast and easy deployer for the PHP world.
  </li>
 </ul>
 <h2>
@@ -4450,10 +4450,10 @@
   <a href="https://github.com/cakephp/i18n">
    Cake I18n
   </a>
+  - Message translation and localization for dates and numbers (CP)
   <sup>
    &#9733 6, pushed 9 days ago
   </sup>
-  - Message translation and localization for dates and numbers (CP)
  </li>
 </ul>
 <h2>
@@ -4469,10 +4469,10 @@
   <a href="https://github.com/aws/aws-sdk-php">
    Amazon Web Service SDK
   </a>
+  - The official PHP AWS SDK library.
   <sup>
    &#9733 1981, pushed 4 days ago
   </sup>
-  - The official PHP AWS SDK library.
  </li>
  <li>
   <a href="http://campaignmonitor.github.io/createsend-php/">
@@ -4484,91 +4484,91 @@
   <a href="https://github.com/toin0u/DigitalOcean">
    Digital Ocean
   </a>
+  - A library to interface with the Digital Ocean API.
   <sup>
    &#9733 150, pushed 503 days ago
   </sup>
-  - A library to interface with the Digital Ocean API.
  </li>
  <li>
   <a href="https://github.com/dropbox/dropbox-sdk-php">
    Dropbox SDK
   </a>
+  - The official PHP Dropbox SDK library.
   <sup>
    &#9733 174, pushed 66 days ago
   </sup>
-  - The official PHP Dropbox SDK library.
  </li>
  <li>
   <a href="https://github.com/dsyph3r/github-api3-php">
    Github
   </a>
+  - A library to interface with the Github API.
   <sup>
    &#9733 60, pushed 1011 days ago
   </sup>
-  - A library to interface with the Github API.
  </li>
  <li>
   <a href="https://github.com/mailgun/mailgun-php">
    Mailgun
   </a>
+  The official Mailgun PHP API.
   <sup>
    &#9733 370, pushed 13 days ago
   </sup>
-  The official Mailgun PHP API.
  </li>
  <li>
   <a href="https://github.com/KnpLabs/php-github-api">
    PHP Github API
   </a>
+  - Another library to interface with the Github API.
   <sup>
    &#9733 838, pushed 2 days ago
   </sup>
-  - Another library to interface with the Github API.
  </li>
  <li>
   <a href="https://github.com/gwkunze/S3StreamWrapper">
    S3 Stream Wrapper
   </a>
+  - A stream wrapper library for Amazon S3.
   <sup>
    &#9733 15, pushed 896 days ago
   </sup>
-  - A stream wrapper library for Amazon S3.
  </li>
  <li>
   <a href="https://github.com/stripe/stripe-php">
    Stripe
   </a>
+  - The official Stripe PHP library.
   <sup>
    &#9733 847, pushed 18 days ago
   </sup>
-  - The official Stripe PHP library.
  </li>
  <li>
   <a href="https://github.com/twilio/twilio-php">
    Twilio
   </a>
+  - The official Twilio PHP REST API.
   <sup>
    &#9733 688, pushed 8 days ago
   </sup>
-  - The official Twilio PHP REST API.
  </li>
  <li>
   <a href="https://github.com/widop/twitter-oauth">
    Twitter OAuth
   </a>
+  - A library to interface with Twitter's OAuth workflow.
   <sup>
    &#9733 6, pushed 816 days ago
   </sup>
-  - A library to interface with Twitter's OAuth workflow.
  </li>
  <li>
   <a href="https://github.com/widop/twitter-rest">
    Twitter REST
   </a>
+  - A library to interact with Twitter's REST API.
   <sup>
    &#9733 21, pushed 816 days ago
   </sup>
-  - A library to interact with Twitter's REST API.
  </li>
 </ul>
 <h2>
@@ -4590,10 +4590,10 @@
   <a href="https://github.com/phalcon/zephir">
    Zephir
   </a>
+  - A compiled language between PHP and C++ for developing PHP extensions.
   <sup>
    &#9733 1445, pushed 2 days ago
   </sup>
-  - A compiled language between PHP and C++ for developing PHP extensions.
  </li>
 </ul>
 <h2>
@@ -4609,221 +4609,221 @@
   <a href="https://github.com/doctrine/annotations">
    Annotations
   </a>
+  - An annotations library (part of Doctrine).
   <sup>
    &#9733 137, pushed 31 days ago
   </sup>
-  - An annotations library (part of Doctrine).
  </li>
  <li>
   <a href="https://github.com/cakephp/utility">
    Cake Utility
   </a>
+  - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
   <sup>
    &#9733 24, pushed 9 days ago
   </sup>
-  - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
  </li>
  <li>
   <a href="https://github.com/adamnicholson/Chief">
    Chief
   </a>
+  - A command bus library.
   <sup>
    &#9733 29, pushed 48 days ago
   </sup>
-  - A command bus library.
  </li>
  <li>
   <a href="https://github.com/ClassPreloader/ClassPreloader">
    ClassPreloader
   </a>
+  - A library for optimising autoloading.
   <sup>
    &#9733 197, pushed 100 days ago
   </sup>
-  - A library for optimising autoloading.
  </li>
  <li>
   <a href="https://github.com/umpirsky/country-list">
    Country List
   </a>
+  - A list of all countries with names and ISO 3166-1 codes.
   <sup>
    &#9733 2347, pushed 38 days ago
   </sup>
-  - A list of all countries with names and ISO 3166-1 codes.
  </li>
  <li>
   <a href="https://github.com/mpratt/Embera">
    Embera
   </a>
+  - An Oembed consumer library.
   <sup>
    &#9733 98, pushed 12 days ago
   </sup>
-  - An Oembed consumer library.
  </li>
  <li>
   <a href="https://github.com/essence/essence">
    Essence
   </a>
+  - A library for extracting web media.
   <sup>
    &#9733 513, pushed 79 days ago
   </sup>
-  - A library for extracting web media.
  </li>
  <li>
   <a href="https://github.com/selvinortiz/flux">
    Flux
   </a>
+  - A regular expression building library.
   <sup>
    &#9733 296, pushed 147 days ago
   </sup>
-  - A regular expression building library.
  </li>
  <li>
   <a href="https://github.com/alexandresalome/graphviz">
    Graphviz
   </a>
+  - A Graphviz library.
   <sup>
    &#9733 30, pushed 200 days ago
   </sup>
-  - A Graphviz library.
  </li>
  <li>
   <a href="https://github.com/hprose/hprose-php">
    Hprose-PHP
   </a>
+  - A very newbility RPC Library, support 25+ languages now.
   <sup>
    &#9733 274, pushed 22 days ago
   </sup>
-  - A very newbility RPC Library, support 25+ languages now.
  </li>
  <li>
   <a href="https://github.com/Seldaek/jsonlint">
    JSON Lint
   </a>
+  - A JSON lint utility.
   <sup>
    &#9733 190, pushed 12 days ago
   </sup>
-  - A JSON lint utility.
  </li>
  <li>
   <a href="https://github.com/willdurand/JsonpCallbackValidator">
    JSONPCallbackValidator
   </a>
+  - A library for validating JSONP callbacks.
   <sup>
    &#9733 37, pushed 68 days ago
   </sup>
-  - A library for validating JSONP callbacks.
  </li>
  <li>
   <a href="https://github.com/kakawait/Jumper">
    Jumper
   </a>
+  - A remote service executor library.
   <sup>
    &#9733 36, pushed 774 days ago
   </sup>
-  - A remote service executor library.
  </li>
  <li>
   <a href="https://github.com/raulfraile/Ladybug">
    LadyBug
   </a>
+  - A dumper library.
   <sup>
    &#9733 373, pushed 132 days ago
   </sup>
-  - A dumper library.
  </li>
  <li>
   <a href="https://github.com/igorw/lambda-php">
    Lambda PHP
   </a>
+  - A Lambda calculus interpreter in PHP.
   <sup>
    &#9733 17, pushed 708 days ago
   </sup>
-  - A Lambda calculus interpreter in PHP.
  </li>
  <li>
   <a href="https://github.com/beberlei/litecqrs-php">
    LiteCQRS
   </a>
+  - A CQRS (Command Query Responsibility Separation) library.
   <sup>
    &#9733 395, pushed 611 days ago
   </sup>
-  - A CQRS (Command Query Responsibility Separation) library.
  </li>
  <li>
   <a href="https://github.com/beberlei/metrics">
    Metrics
   </a>
+  - A simple metrics API library.
   <sup>
    &#9733 153, pushed 90 days ago
   </sup>
-  - A simple metrics API library.
  </li>
  <li>
   <a href="https://github.com/willdurand/nmap">
    Nmap
   </a>
-  <sup>
-   &#9733 50, pushed 64 days ago
-  </sup>
   - A PHP wrapper around
   <a href="https://nmap.org/">
    Nmap
   </a>
   .
+  <sup>
+   &#9733 50, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/euskadi31/Opengraph">
    Opengraph
   </a>
+  - An opengraph library.
   <sup>
    &#9733 70, pushed 106 days ago
   </sup>
-  - An opengraph library.
  </li>
  <li>
   <a href="https://github.com/whiteoctober/Pagerfanta">
    Pagerfanta
   </a>
+  - A pagination library.
   <sup>
    &#9733 548, pushed 8 days ago
   </sup>
-  - A pagination library.
  </li>
  <li>
   <a href="https://github.com/Kitano/php-expression">
    PHP Expression
   </a>
+  - A PHP expression language.
   <sup>
    &#9733 27, pushed 974 days ago
   </sup>
-  - A PHP expression language.
  </li>
  <li>
   <a href="https://github.com/eymengunay/php-passbook">
    PHP PassBook
   </a>
+  - A PHP library for iOS PassBook.
   <sup>
    &#9733 137, pushed 9 days ago
   </sup>
-  - A PHP library for iOS PassBook.
  </li>
  <li>
   <a href="https://github.com/ronanguilloux/php-gpio">
    PHP-GPIO
   </a>
+  - A library for playing with the Raspberry PI's GPIO pins.
   <sup>
    &#9733 155, pushed 90 days ago
   </sup>
-  - A library for playing with the Raspberry PI's GPIO pins.
  </li>
  <li>
   <a href="https://github.com/phpcr/phpcr">
    PHPCR
   </a>
-  <sup>
-   &#9733 352, pushed 62 days ago
-  </sup>
   - A PHP port of the Java Content Repository (JCR).
+  <sup>
+   &#9733 352, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dunkels.com/adam/phpstack/">
@@ -4835,82 +4835,82 @@
   <a href="https://github.com/koriym/print_o">
    print_o
   </a>
+  - An object graph visualizer.
   <sup>
    &#9733 53, pushed 12 days ago
   </sup>
-  - An object graph visualizer.
  </li>
  <li>
   <a href="https://github.com/lstrojny/Procrastinator">
    Procrastinator
   </a>
+  - A library for running time consuming tasks.
   <sup>
    &#9733 38, pushed 278 days ago
   </sup>
-  - A library for running time consuming tasks.
  </li>
  <li>
   <a href="https://github.com/prooph/service-bus">
    Prooph Service Bus
   </a>
+  - Lightweight message bus supporting CQRS and Micro Services
   <sup>
    &#9733 90, pushed 2 days ago
   </sup>
-  - Lightweight message bus supporting CQRS and Micro Services
  </li>
  <li>
   <a href="https://github.com/liip/RMT">
    RMT
   </a>
+  - A library for versioning and releasing software.
   <sup>
    &#9733 284, pushed 15 days ago
   </sup>
-  - A library for versioning and releasing software.
  </li>
  <li>
   <a href="https://github.com/fruux/sabre-vobject">
    sabre/vobject
   </a>
+  - A library for parsing VCard and iCalendar objects.
   <sup>
    &#9733 271, pushed 7 days ago
   </sup>
-  - A library for parsing VCard and iCalendar objects.
  </li>
  <li>
   <a href="https://github.com/webfactory/slimdump">
    Slimdump
   </a>
+  - An easy dumper tool for MySQL.
   <sup>
    &#9733 9, pushed 109 days ago
   </sup>
-  - An easy dumper tool for MySQL.
  </li>
  <li>
   <a href="https://github.com/kriswallsmith/spork">
    Spork
   </a>
+  - A process forking library.
   <sup>
    &#9733 558, pushed 47 days ago
   </sup>
-  - A process forking library.
  </li>
  <li>
   <a href="https://github.com/EvanDotPro/Sslurp">
    Sslurp
   </a>
+  - A library that makes dealing with SSL suck less.
   <sup>
    &#9733 57, pushed 362 days ago
   </sup>
-  - A library that makes dealing with SSL suck less.
  </li>
  <li>
   <a href="https://github.com/jeremeamia/super_closure">
    SuperClosure
   </a>
+  - A library that allows Closures to be serialized.
   <sup>
    &#9733 502, pushed 64 days ago
   </sup>
-  - A library that allows Closures to be serialized.
  </li>
  <li>
   <a href="http://symfony.com/doc/current/components/var_dumper/introduction.html">
@@ -4928,10 +4928,10 @@
   <a href="https://github.com/filp/whoops">
    Whoops
   </a>
+  - A pretty error handling library.
   <sup>
    &#9733 3137, pushed 26 days ago
   </sup>
-  - A pretty error handling library.
  </li>
 </ul>
 <h1>
@@ -4955,10 +4955,10 @@
   <a href="https://github.com/Homebrew/homebrew-php">
    HomeBrew PHP
   </a>
+  - A PHP tap for HomeBrew.
   <sup>
    &#9733 1980, pushed 2 days ago
   </sup>
-  - A PHP tap for HomeBrew.
  </li>
  <li>
   <a href="http://brew.sh/">
@@ -4970,28 +4970,28 @@
   <a href="https://github.com/phpbrew/phpbrew">
    PHP Brew
   </a>
+  - A PHP version manager and installer.
   <sup>
    &#9733 2224, pushed 2 days ago
   </sup>
-  - A PHP version manager and installer.
  </li>
  <li>
   <a href="https://github.com/php-build/php-build">
    PHP Build
   </a>
+  - Another PHP version installer.
   <sup>
    &#9733 574, pushed 4 days ago
   </sup>
-  - Another PHP version installer.
  </li>
  <li>
   <a href="https://github.com/CHH/phpenv">
    PHP Env
   </a>
+  - Another PHP version manager.
   <sup>
    &#9733 460, pushed 109 days ago
   </sup>
-  - Another PHP version manager.
  </li>
  <li>
   <a href="http://php-osx.liip.ch/">
@@ -5003,10 +5003,10 @@
   <a href="https://github.com/jubianchi/phpswitch">
    PHP Switch
   </a>
+  - Another version manager.
   <sup>
    &#9733 90, pushed 608 days ago
   </sup>
-  - Another version manager.
  </li>
  <li>
   <a href="http://virtphp.org/">
@@ -5080,19 +5080,19 @@
   <a href="https://github.com/facebook/hhvm">
    HHVM
   </a>
+  - A Virtual Machine, Runtime and JIT for PHP by Facebook.
   <sup>
    &#9733 13515, pushed 1 days ago
   </sup>
-  - A Virtual Machine, Runtime and JIT for PHP by Facebook.
  </li>
  <li>
   <a href="https://github.com/hippyvm/hippyvm">
    HippyVM
   </a>
+  - Another PHP virtual machine.
   <sup>
    &#9733 860, pushed 6 days ago
   </sup>
-  - Another PHP virtual machine.
  </li>
 </ul>
 <h2>
@@ -5148,59 +5148,59 @@
   <a href="https://github.com/CoderKungfu/php-queue">
    PHP Queue
   </a>
+  - An application for managing queueing backends.
   <sup>
    &#9733 498, pushed 81 days ago
   </sup>
-  - An application for managing queueing backends.
  </li>
  <li>
   <a href="https://github.com/sj26/mailcatcher">
    MailCatcher
   </a>
+  - A web tool for capturing and viewing emails.
   <sup>
    &#9733 3287, pushed 10 days ago
   </sup>
-  - A web tool for capturing and viewing emails.
  </li>
  <li>
   <a href="https://github.com/cachethq/cachet">
    Cachet
   </a>
+  - The open source status page system.
   <sup>
    &#9733 4168, pushed 2 days ago
   </sup>
-  - The open source status page system.
  </li>
  <li>
   <a href="https://github.com/ErikDubbelboer/phpRedisAdmin">
    phpRedisAdmin
   </a>
-  <sup>
-   &#9733 1109, pushed 9 days ago
-  </sup>
   - A simple web interface to manage
   <a href="http://redis.io/">
    Redis
   </a>
   databases.
+  <sup>
+   &#9733 1109, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phppgadmin/phppgadmin">
    phpPgAdmin
   </a>
+  - A web-based administration tool for PostgreSQL.
   <sup>
    &#9733 164, pushed 20 days ago
   </sup>
-  - A web-based administration tool for PostgreSQL.
  </li>
  <li>
   <a href="https://github.com/phpmyadmin/phpmyadmin">
    phpMyAdmin
   </a>
+  - A web interface for MySQL/MariaDB.
   <sup>
    &#9733 1640, pushed 4 days ago
   </sup>
-  - A web interface for MySQL/MariaDB.
  </li>
  <li>
   <a href="https://www.adminer.org/">
@@ -5212,10 +5212,10 @@
   <a href="https://github.com/getgrav/grav">
    Grav
   </a>
+  - A modern flat-file CMS.
   <sup>
    &#9733 4241, pushed 3 days ago
   </sup>
-  - A modern flat-file CMS.
  </li>
 </ul>
 <h2>
@@ -5237,10 +5237,10 @@
   <a href="https://github.com/php-pm/php-pm">
    php-pm
   </a>
+  - A process manager, supercharger and load balancer for PHP applications.
   <sup>
    &#9733 1963, pushed 2 days ago
   </sup>
-  - A process manager, supercharger and load balancer for PHP applications.
  </li>
 </ul>
 <h1>

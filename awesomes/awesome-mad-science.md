@@ -173,19 +173,19 @@
   <a href="https://github.com/DanielRapp/doppler">
    doppler
   </a>
+  - detect motion with the doppler effect using only the microphone and speakers
   <sup>
    &#9733 2105, pushed 104 days ago
   </sup>
-  - detect motion with the doppler effect using only the microphone and speakers
  </li>
  <li>
   <a href="https://github.com/mattytemple/speak-js">
    speak.js
   </a>
+  - text-to-speech on the web
   <sup>
    &#9733 180, pushed 106 days ago
   </sup>
-  - text-to-speech on the web
  </li>
 </ul>
 <h2>
@@ -284,19 +284,19 @@
   <a href="https://github.com/dthree/vantage">
    vantage.js
   </a>
+  - CLI + SSH + REPL for Node
   <sup>
    &#9733 3124, pushed 22 days ago
   </sup>
-  - CLI + SSH + REPL for Node
  </li>
  <li>
   <a href="https://github.com/dthree/cash">
    cash
   </a>
+  - Cross-platform Linux commands in pure ES6
   <sup>
    &#9733 6717, pushed 2 days ago
   </sup>
-  - Cross-platform Linux commands in pure ES6
  </li>
 </ul>
 <h2>
@@ -307,10 +307,10 @@
   <a href="https://github.com/fcambus/jsemu">
    jsemu
   </a>
+  - A list of emulators written in the JavaScript
   <sup>
    &#9733 629, pushed 22 days ago
   </sup>
-  - A list of emulators written in the JavaScript
  </li>
  <li>
   <a href="https://www.npmjs.com/package/jslinux">
@@ -328,10 +328,10 @@
   <a href="https://github.com/plasma-umass/doppio">
    doppio
   </a>
+  - actively updated jvm in node.js, written in TypeScript
   <sup>
    &#9733 802, pushed 7 days ago
   </sup>
-  - actively updated jvm in node.js, written in TypeScript
  </li>
 </ul>
 <h2>

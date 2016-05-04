@@ -148,10 +148,10 @@
   <a href="https://github.com/CPqD/ofsoftswitch13">
    CPqD
   </a>
+  - An OpenFlow 1.3 compatible user-space software switch implementation
   <sup>
    &#9733 135, pushed 68 days ago
   </sup>
-  - An OpenFlow 1.3 compatible user-space software switch implementation
  </li>
  <li>
   <a href="https://lagopus.github.io">
@@ -163,10 +163,10 @@
   <a href="https://github.com/FlowForwarding/LINC-Switch">
    LINC-Switch
   </a>
+  - A pure OpenFlow software switch written in Erlang
   <sup>
    &#9733 178, pushed 251 days ago
   </sup>
-  - A pure OpenFlow software switch written in Erlang
  </li>
  <li>
   <a href="https://github.com/SnabbCo/snabbswitch">
@@ -183,19 +183,19 @@
   <a href="https://github.com/opennetworkinglab/flowvisor">
    FlowVisor
   </a>
+  - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
   <sup>
    &#9733 89, pushed 958 days ago
   </sup>
-  - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
  </li>
  <li>
   <a href="https://github.com/opennetworkinglab/OpenVirteX">
    OpenVirtex
   </a>
+  - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
   <sup>
    &#9733 34, pushed 396 days ago
   </sup>
-  - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
  </li>
 </ul>
 <h1>
@@ -245,10 +245,10 @@
   <a href="https://github.com/gaberger/NodeFLow">
    NodeFlow
   </a>
+  - An OpenFlow Controller Node Style.
   <sup>
    &#9733 48, pushed 1408 days ago
   </sup>
-  - An OpenFlow Controller Node Style.
  </li>
  <li>
   <a href="onosproject.org">
@@ -308,28 +308,28 @@
   <a href="https://github.com/globalnoc/oess">
    OESS
   </a>
+  - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
   <sup>
    &#9733 13, pushed 5 days ago
   </sup>
-  - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
  </li>
  <li>
   <a href="https://github.com/kandoo/beehive-netctrl">
    Beehive Network Controller
   </a>
-  <sup>
-   &#9733 14, pushed 50 days ago
-  </sup>
   - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
+  <sup>
+   &#9733 14, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ravel-net/ravel">
    Ravel
   </a>
+  - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
   <sup>
    &#9733 2, pushed 50 days ago
   </sup>
-  - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
  </li>
 </ul>
 <h1>
@@ -375,10 +375,10 @@
   <a href="https://github.com/frenetic-lang/frenetic">
    Frenetic
   </a>
+  - The Frenetic Programming Language and Runtime System
   <sup>
    &#9733 89, pushed 4 days ago
   </sup>
-  - The Frenetic Programming Language and Runtime System
  </li>
  <li>
   <a href="http://www.frenetic-lang.org/pyretic/">
@@ -395,29 +395,29 @@
   <a href="https://github.com/floodlight/loxigen">
    loxigen
   </a>
+  - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
   <sup>
    &#9733 51, pushed 4 days ago
   </sup>
-  - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
  </li>
  <li>
   <a href="https://github.com/rlenglet/openfaucet">
    openfaucet
   </a>
+  - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
+protocol, based on Twisted.
   <sup>
    &#9733 30, pushed 1301 days ago
   </sup>
-  - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
-protocol, based on Twisted.
  </li>
  <li>
   <a href="https://github.com/TrafficLab/oflib-node">
    oflib-node
   </a>
+  - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
   <sup>
    &#9733 12, pushed 1599 days ago
   </sup>
-  - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
  </li>
  <li>
   <a href="https://bitbucket.org/openflowj/openflowj">
@@ -435,10 +435,10 @@ protocol, based on Twisted.
   <a href="https://github.com/frenetic-lang/ocaml-openflow">
    OCaml OpenFlow
   </a>
+  - A serialization and protocol library for OpenFlow.
   <sup>
    &#9733 9, pushed 292 days ago
   </sup>
-  - A serialization and protocol library for OpenFlow.
  </li>
 </ul>
 <h1>
@@ -449,10 +449,10 @@ protocol, based on Twisted.
   <a href="https://github.com/floodlight/oftest">
    oftest
   </a>
+  - OpenFlow Testing Framework
   <sup>
    &#9733 47, pushed 6 days ago
   </sup>
-  - OpenFlow Testing Framework
  </li>
  <li>
   <a href="https://ucb-sts.github.com/sts/">

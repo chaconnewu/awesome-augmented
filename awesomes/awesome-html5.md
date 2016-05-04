@@ -1080,9 +1080,6 @@
     <a href="https://github.com/pixijs/pixi.js">
      Pixi.js
     </a>
-    <sup>
-     &#9733 10286, pushed 2 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/photonstorm/phaser">
@@ -1141,6 +1138,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 10286, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>

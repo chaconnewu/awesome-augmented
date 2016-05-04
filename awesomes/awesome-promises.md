@@ -71,10 +71,10 @@
   <a href="https://github.com/mattdesl/promise-cookbook">
    Promise Cookbook
   </a>
+  - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
   <sup>
    &#9733 810, pushed 166 days ago
   </sup>
-  - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
  </li>
  <li>
   <a href="http://exploringjs.com/es6/ch_promises.html">
@@ -110,14 +110,14 @@
   <a href="https://github.com/stevekane/promise-it-wont-hurt">
    Promise it won't hurt
   </a>
-  <sup>
-   &#9733 161, pushed 23 days ago
-  </sup>
   - An interactive
   <a href="http://nodeschool.io/">
    nodeschool
   </a>
   workshop
+  <sup>
+   &#9733 161, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="http://es6katas.org/">
@@ -222,9 +222,6 @@
   <a href="https://github.com/floatdrop/pinkie">
    pinkie
   </a>
-  <sup>
-   &#9733 97, pushed 92 days ago
-  </sup>
   - Ponyfill. Node-oriented, but
   <a href="https://github.com/substack/node-browserify">
    browserifyable
@@ -234,33 +231,36 @@
    Extremely
   </em>
   small implementation.
+  <sup>
+   &#9733 97, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/getify/native-promise-only">
    native-promise-only
   </a>
+  - Polyfill. Browser and node-compatible.
   <sup>
    &#9733 454, pushed 39 days ago
   </sup>
-  - Polyfill. Browser and node-compatible.
  </li>
  <li>
   <a href="https://github.com/stefanpenner/es6-promise">
    es6-promise
   </a>
+  - Opt-in polyfill. A strict-spec subset of rsvp.js.
   <sup>
    &#9733 2999, pushed 5 days ago
   </sup>
-  - Opt-in polyfill. A strict-spec subset of rsvp.js.
  </li>
  <li>
   <a href="https://github.com/calvinmetcalf/lie">
    lie
   </a>
+  - Small, browserifyable with an opt-in polyfill.
   <sup>
    &#9733 428, pushed 3 days ago
   </sup>
-  - Small, browserifyable with an opt-in polyfill.
  </li>
 </ul>
 <h3>
@@ -274,10 +274,10 @@
   <a href="https://github.com/petkaantonov/bluebird">
    bluebird
   </a>
+  - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
   <sup>
    &#9733 10820, pushed 6 days ago
   </sup>
-  - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
  </li>
  <li>
   <a href="https://github.com/tildeio/rsvp.js/">
@@ -289,18 +289,15 @@
   <a href="https://github.com/kriskowal/q">
    Q
   </a>
+  - One of the original implementations. Long stack traces and other goodies.
   <sup>
    &#9733 11547, pushed 20 days ago
   </sup>
-  - One of the original implementations. Long stack traces and other goodies.
  </li>
  <li>
   <a href="https://github.com/then/promise">
    then/promise
   </a>
-  <sup>
-   &#9733 1116, pushed 54 days ago
-  </sup>
   - Small with
   <code>
    nodeify
@@ -314,15 +311,18 @@
    done()
   </code>
   additions.
+  <sup>
+   &#9733 1116, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cujojs/when">
    when.js
   </a>
+  - Packed with control flow, functional, and utility methods.
   <sup>
    &#9733 2925, pushed 5 days ago
   </sup>
-  - Packed with control flow, functional, and utility methods.
  </li>
 </ul>
 <h3>
@@ -339,23 +339,23 @@
   <a href="https://github.com/floatdrop/pinkie-promise">
    pinkie-promise
   </a>
-  <sup>
-   &#9733 69, pushed 23 days ago
-  </sup>
   - Use native, or fall back to
   <code>
    pinkie
   </code>
   . Great for node library authors.
+  <sup>
+   &#9733 69, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinbeaty/any-promise">
    any-promise
   </a>
+  - Loads the first available implementation. Safe for browserify.
   <sup>
    &#9733 50, pushed 1 days ago
   </sup>
-  - Loads the first available implementation. Safe for browserify.
  </li>
 </ul>
 <h2>
@@ -373,83 +373,80 @@
   <a href="https://github.com/sindresorhus/pify">
    pify
   </a>
+  - Promisify ("denodify") a callback-style function.
   <sup>
    &#9733 162, pushed 16 days ago
   </sup>
-  - Promisify ("denodify") a callback-style function.
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/promise-each">
    promise-each
   </a>
-  <sup>
-   &#9733 10, pushed 211 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.each
   </code>
   . Execute one after the other sequentially.
+  <sup>
+   &#9733 10, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/promise-filter">
    promise-filter
   </a>
-  <sup>
-   &#9733 6, pushed 298 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.filter
   </code>
   . Filter an array to a promise.
+  <sup>
+   &#9733 6, pushed 298 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/blakeembrey/promise-finally">
    promise-finally
   </a>
-  <sup>
-   &#9733 2, pushed 91 days ago
-  </sup>
   - Standalone bluebird
   <code>
    finally()
   </code>
   . Execute a handler unconditionally after others have been handled.
+  <sup>
+   &#9733 2, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/promise-map">
    promise-map
   </a>
-  <sup>
-   &#9733 7, pushed 298 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.map
   </code>
   . Map an array to a promise.
+  <sup>
+   &#9733 7, pushed 298 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wbinnssmith/promise-method">
    promise-method
   </a>
-  <sup>
-   &#9733 1, pushed 227 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.method
   </code>
   . Turn a synchronously-returning method into a promise-returning one.
+  <sup>
+   &#9733 1, pushed 227 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/exponentjs/promise-props">
    promise-props
   </a>
-  <sup>
-   &#9733 3, pushed 338 days ago
-  </sup>
   - Standalone implementation of bluebird's
   <code>
    bluebird.props
@@ -458,84 +455,84 @@
   <code>
    RSVP.hash
   </code>
+  <sup>
+   &#9733 3, pushed 338 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/promise-reduce">
    promise-reduce
   </a>
-  <sup>
-   &#9733 6, pushed 287 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.reduce
   </code>
   . Reduce an array to a promise.
+  <sup>
+   &#9733 6, pushed 287 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/promise-some">
    promise-some
   </a>
-  <sup>
-   &#9733 4, pushed 298 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.some
   </code>
   . Check if an element passes the predicate, return a promise.
+  <sup>
+   &#9733 4, pushed 298 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wbinnssmith/promise-try">
    promise-try
   </a>
-  <sup>
-   &#9733 2, pushed 227 days ago
-  </sup>
   - Standalone
   <code>
    bluebird.try
   </code>
   . Execute a synchronously-returning function and return a promise.
+  <sup>
+   &#9733 2, pushed 227 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/then/is-promise">
    is-promise
   </a>
+  - Determine if something looks like a Promise.
   <sup>
    &#9733 22, pushed 132 days ago
   </sup>
-  - Determine if something looks like a Promise.
  </li>
  <li>
   <a href="https://github.com/then/sprom">
    sprom
   </a>
+  - Resolve when a stream ends. Optional buffering (be careful with this!)
   <sup>
    &#9733 10, pushed 132 days ago
   </sup>
-  - Resolve when a stream ends. Optional buffering (be careful with this!)
  </li>
  <li>
   <a href="https://github.com/mozilla/task.js">
    task.js
   </a>
-  <sup>
-   &#9733 1492, pushed 887 days ago
-  </sup>
   - Write async functions in a blocking style using promises and generators. Like
   <code>
    bluebird.coroutine
   </code>
   .
+  <sup>
+   &#9733 1492, pushed 887 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tj/co">
    co
   </a>
-  <sup>
-   &#9733 5252, pushed 6 days ago
-  </sup>
   - Like
   <code>
    task.js
@@ -545,6 +542,9 @@
    bluebird.coroutine
   </code>
   , but supports thunks too.
+  <sup>
+   &#9733 5252, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/lie-fs">
@@ -556,77 +556,77 @@
   <a href="https://github.com/sindresorhus/immediate-promise">
    immediate-promise
   </a>
-  <sup>
-   &#9733 37, pushed 26 days ago
-  </sup>
   - Returns a promise resolved in the next event loop - think
   <code>
    setImmediate()
   </code>
   .
+  <sup>
+   &#9733 37, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/delay">
    delay
   </a>
+  - Delay a promise a specified amount of time.
   <sup>
    &#9733 82, pushed 124 days ago
   </sup>
-  - Delay a promise a specified amount of time.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/promise-whilst">
    promise-whilst
   </a>
+  - Calls a function repeatedly if and while a condition returns true and then resolves the promise.
   <sup>
    &#9733 15, pushed 26 days ago
   </sup>
-  - Calls a function repeatedly if and while a condition returns true and then resolves the promise.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/loud-rejection">
    loud-rejection
   </a>
+  - Make unhandled promise rejections fail loudly instead of the default silent fail.
   <sup>
    &#9733 89, pushed 25 days ago
   </sup>
-  - Make unhandled promise rejections fail loudly instead of the default silent fail.
  </li>
  <li>
   <a href="https://github.com/busterc/promise-until">
    promise-until
   </a>
+  - Calls a function repeatedly if a condition returns false and until the condition returns true and then resolves the promise.
   <sup>
    &#9733 0, pushed 160 days ago
   </sup>
-  - Calls a function repeatedly if a condition returns false and until the condition returns true and then resolves the promise.
  </li>
  <li>
   <a href="https://github.com/busterc/promise-do-until">
    promise-do-until
   </a>
+  - Calls a function repeatedly until a condition returns true and then resolves the promise.
   <sup>
    &#9733 0, pushed 160 days ago
   </sup>
-  - Calls a function repeatedly until a condition returns true and then resolves the promise.
  </li>
  <li>
   <a href="https://github.com/busterc/promise-do-whilst">
    promise-do-whilst
   </a>
+  - Calls a function repeatedly while a condition returns true and then resolves the promise.
   <sup>
    &#9733 0, pushed 160 days ago
   </sup>
-  - Calls a function repeatedly while a condition returns true and then resolves the promise.
  </li>
  <li>
   <a href="https://github.com/samccone/promise-semaphore">
    promise-semaphore
   </a>
+  - Push a set of work to be done in a configurable serial fashion
   <sup>
    &#9733 22, pushed 72 days ago
   </sup>
-  - Push a set of work to be done in a configurable serial fashion
  </li>
 </ul>
 <h2>

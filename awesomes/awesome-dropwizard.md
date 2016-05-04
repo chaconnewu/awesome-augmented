@@ -46,10 +46,10 @@
   <a href="https://github.com/Tasktop/dropwizard-tools">
    dropwizard-tools
   </a>
+  - Eclipse Tools for Dropwizard
   <sup>
    &#9733 2, pushed 57 days ago
   </sup>
-  - Eclipse Tools for Dropwizard
  </li>
 </ul>
 <h2>
@@ -60,145 +60,145 @@
   <a href="https://github.com/HubSpot/dropwizard-guice">
    dropwizard-guice
   </a>
+  - Adds support for Guice.
   <sup>
    &#9733 184, pushed 4 days ago
   </sup>
-  - Adds support for Guice.
  </li>
  <li>
   <a href="https://github.com/xvik/dropwizard-guicey">
    dropwizard-guicey
   </a>
+  - Dropwizard guice integration
   <sup>
    &#9733 56, pushed 97 days ago
   </sup>
-  - Dropwizard guice integration
  </li>
  <li>
   <a href="https://github.com/federecio/dropwizard-swagger">
    dropwizard-swagger
   </a>
+  - Serves Swagger UI static content and loads Swagger endpoints.
   <sup>
    &#9733 90, pushed 40 days ago
   </sup>
-  - Serves Swagger UI static content and loads Swagger endpoints.
  </li>
  <li>
   <a href="https://github.com/eeb/dropwizard-mongo">
    dropwizard-mongo
   </a>
+  - Factories and health checks for connecting to mongoDB.
   <sup>
    &#9733 18, pushed 352 days ago
   </sup>
-  - Factories and health checks for connecting to mongoDB.
  </li>
  <li>
   <a href="https://github.com/roskart/dropwizard-jaxws">
    dropwizard-jaxws
   </a>
+  - enables building SOAP web services and clients using JAX-WS API.
   <sup>
    &#9733 27, pushed 31 days ago
   </sup>
-  - enables building SOAP web services and clients using JAX-WS API.
  </li>
  <li>
   <a href="https://github.com/bazaarvoice/dropwizard-redirect-bundle">
    dropwizard-redirect-bundle
   </a>
+  - allows for HTTP redirects.
   <sup>
    &#9733 13, pushed 150 days ago
   </sup>
-  - allows for HTTP redirects.
  </li>
  <li>
   <a href="https://github.com/jaredstehler/dropwizard-quartz">
    dropwizard-quartz
   </a>
+  - Simple Job Scheduler implementation integrating Guice and Quartz.
   <sup>
    &#9733 47, pushed 246 days ago
   </sup>
-  - Simple Job Scheduler implementation integrating Guice and Quartz.
  </li>
  <li>
   <a href="https://github.com/tkrille/dropwizard-template-config">
    dropwizard-template-config
   </a>
+  - enables you to write your config.yaml as a Freemarker template.
   <sup>
    &#9733 29, pushed 3 days ago
   </sup>
-  - enables you to write your config.yaml as a Freemarker template.
  </li>
  <li>
   <a href="https://github.com/bazaarvoice/dropwizard-caching-bundle">
    dropwizard-caching-bundle
   </a>
+  - generate cache-control options for resources and caching responses.
   <sup>
    &#9733 5, pushed 150 days ago
   </sup>
-  - generate cache-control options for resources and caching responses.
  </li>
  <li>
   <a href="https://github.com/yunspace/dropwizard-xml">
    dropwizard-xml
   </a>
-  <sup>
-   &#9733 23, pushed 323 days ago
-  </sup>
   - Dropwizard bundle for processing and validating XMLs
+  <sup>
+   &#9733 23, pushed 324 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meltmedia/dropwizard-crypto">
    dropwizard-crypto
   </a>
+  - A Crytpographic Bundle for Dropwizard
   <sup>
    &#9733 11, pushed 299 days ago
   </sup>
-  - A Crytpographic Bundle for Dropwizard
  </li>
  <li>
   <a href="https://github.com/meltmedia/dropwizard-etcd">
    dropwizard-etcd
   </a>
+  - A Dropwizard Bundle for Etcd
   <sup>
    &#9733 3, pushed 106 days ago
   </sup>
-  - A Dropwizard Bundle for Etcd
  </li>
  <li>
   <a href="https://github.com/mtakaki/dropwizard-circuitbreaker">
    dropwizard-circuitbreaker
   </a>
-  <sup>
-   &#9733 5, pushed 9 days ago
-  </sup>
   - A circuit breaker design pattern for dropwizard
+  <sup>
+   &#9733 5, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phaneesh/riemann-bundle">
    riemann-bundle
   </a>
+  - Simplifies dropwizard metrics integration into Riemann
   <sup>
    &#9733 0, pushed 7 days ago
   </sup>
-  - Simplifies dropwizard metrics integration into Riemann
  </li>
  <li>
   <a href="https://github.com/santanusinha/dropwizard-service-discovery">
    dropwizard-service-discovery
   </a>
+  - Zookeeper service discovery bundle and client for dropwizard.
   <sup>
    &#9733 1, pushed 5 days ago
   </sup>
-  - Zookeeper service discovery bundle and client for dropwizard.
  </li>
  <li>
   <a href="https://github.com/phaneesh/dropwizard-maxmind-bundle">
    dropwizard-maxmind-bundle
   </a>
+  - MaxMind GeoIP2 support for dropwizard
   <sup>
    &#9733 1, pushed 7 days ago
   </sup>
-  - MaxMind GeoIP2 support for dropwizard
  </li>
 </ul>
 <h2>

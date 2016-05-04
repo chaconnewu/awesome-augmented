@@ -273,14 +273,14 @@
   <a href="https://github.com/zpqrtbnk/Zbu.ModelsBuilder">
    Zbu Models Builder
   </a>
-  <sup>
-   &#9733 59, pushed 6 days ago
-  </sup>
   - generate strongly-typed
   <code>
    IPublishedContent
   </code>
   models automagically.
+  <sup>
+   &#9733 59, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters">

@@ -352,10 +352,10 @@
   <a href="https://github.com/cglib/cglib">
    cglib
   </a>
+  - Bytecode generation library.
   <sup>
    &#9733 641, pushed 22 days ago
   </sup>
-  - Bytecode generation library.
  </li>
  <li>
   <a href="https://glassfish.java.net/">
@@ -401,19 +401,19 @@
   <a href="https://github.com/mapstruct/mapstruct">
    MapStruct
   </a>
+  - Code generator which simplifies mappings between different bean types, based on a convention over configuration approach.
   <sup>
    &#9733 350, pushed 21 days ago
   </sup>
-  - Code generator which simplifies mappings between different bean types, based on a convention over configuration approach.
  </li>
  <li>
   <a href="https://github.com/jhalterman/modelmapper">
    ModelMapper
   </a>
-  <sup>
-   &#9733 348, pushed 6 days ago
-  </sup>
   - ModelMapper is an intelligent object mapping library that automatically maps objects to each other.
+  <sup>
+   &#9733 348, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/orika-mapper">
@@ -425,10 +425,10 @@
   <a href="https://github.com/xebia-france/selma">
    Selma
   </a>
+  - Stupid Simple Statically Linked Mapper. Selma is an Annotation Processor Based bean mapper.
   <sup>
    &#9733 41, pushed 14 days ago
   </sup>
-  - Stupid Simple Statically Linked Mapper. Selma is an Annotation Processor Based bean mapper.
  </li>
 </ul>
 <h2>
@@ -528,10 +528,10 @@
   <a href="https://github.com/checkstyle/checkstyle">
    Checkstyle
   </a>
+  - Static analysis of coding conventions and standards.
   <sup>
    &#9733 1037, pushed 1 days ago
   </sup>
-  - Static analysis of coding conventions and standards.
  </li>
  <li>
   <a href="https://www.codacy.com">
@@ -543,10 +543,10 @@
   <a href="https://github.com/google/error-prone">
    Error Prone
   </a>
+  - Catches common programming mistakes as compile-time errors.
   <sup>
    &#9733 917, pushed 6 days ago
   </sup>
-  - Catches common programming mistakes as compile-time errors.
  </li>
  <li>
   <a href="http://findbugs.sourceforge.net/">
@@ -564,10 +564,10 @@
   <a href="https://github.com/pmd/pmd">
    PMD
   </a>
+  - Source code analysis for finding bad coding practices.
   <sup>
    &#9733 487, pushed 1 days ago
   </sup>
-  - Source code analysis for finding bad coding practices.
  </li>
  <li>
   <a href="http://www.sonarqube.org/">
@@ -679,19 +679,19 @@
   <a href="https://github.com/typesafehub/config">
    config
   </a>
-  <sup>
-   &#9733 1925, pushed 26 days ago
-  </sup>
   - Configuration library for JVM languages.
+  <sup>
+   &#9733 1925, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lviggiano/owner">
    owner
   </a>
+  - Reduces boilerplate of properties.
   <sup>
    &#9733 356, pushed 78 days ago
   </sup>
-  - Reduces boilerplate of properties.
  </li>
 </ul>
 <h2>
@@ -811,10 +811,10 @@
   <a href="https://github.com/uniVocity/univocity-parsers">
    uniVocity-parsers
   </a>
+  - One of the fastest and most feature-complete CSV. Also comes with parsers for TSV and fixed width records.
   <sup>
    &#9733 191, pushed 3 days ago
   </sup>
-  - One of the fastest and most feature-complete CSV. Also comes with parsers for TSV and fixed width records.
  </li>
 </ul>
 <h2>
@@ -848,19 +848,19 @@
   <a href="https://github.com/eXist-db/exist">
    eXist
   </a>
+  - A NoSQL document database and application platform.
   <sup>
    &#9733 124, pushed 2 days ago
   </sup>
-  - A NoSQL document database and application platform.
  </li>
  <li>
   <a href="https://github.com/vladmihalcea/flexy-pool">
    FlexyPool
   </a>
+  - Brings metrics and failover strategies to the most common connection pooling solutions.
   <sup>
    &#9733 178, pushed 120 days ago
   </sup>
-  - Brings metrics and failover strategies to the most common connection pooling solutions.
  </li>
  <li>
   <a href="https://flywaydb.org/">
@@ -878,10 +878,10 @@
   <a href="https://github.com/brettwooldridge/HikariCP">
    HikariCP
   </a>
+  - High performance JDBC connection pool.
   <sup>
    &#9733 2652, pushed 3 days ago
   </sup>
-  - High performance JDBC connection pool.
  </li>
  <li>
   <a href="http://jdbi.org/">
@@ -893,10 +893,10 @@
   <a href="https://github.com/xetorthio/jedis">
    Jedis
   </a>
+  - A small client for interaction with redis, with methods for commands.
   <sup>
    &#9733 3576, pushed 1 days ago
   </sup>
-  - A small client for interaction with redis, with methods for commands.
  </li>
  <li>
   <a href="http://www.jooq.org/">
@@ -920,10 +920,10 @@
   <a href="https://github.com/prestodb/presto">
    Presto
   </a>
+  - Distributed SQL query engine for big data.
   <sup>
    &#9733 4708, pushed 2 days ago
   </sup>
-  - Distributed SQL query engine for big data.
  </li>
  <li>
   <a href="http://www.querydsl.com/">
@@ -935,19 +935,19 @@
   <a href="https://github.com/mrniko/redisson">
    Redisson
   </a>
+  - Allows for distributed and scalable data structures on top of a Redis server.
   <sup>
    &#9733 1135, pushed 2 days ago
   </sup>
-  - Allows for distributed and scalable data structures on top of a Redis server.
  </li>
  <li>
   <a href="https://github.com/speedment/speedment">
    Speedment
   </a>
+  - A database access library that utilizes the Java 8 Stream API for querying.
   <sup>
    &#9733 520, pushed 4 days ago
   </sup>
-  - A database access library that utilizes the Java 8 Stream API for querying.
  </li>
  <li>
   <a href="http://www.vibur.org/">
@@ -999,28 +999,28 @@
   <a href="https://github.com/google/protobuf">
    Protobuf
   </a>
+  - Google's data interchange format.
   <sup>
    &#9733 8709, pushed 2 days ago
   </sup>
-  - Google's data interchange format.
  </li>
  <li>
   <a href="https://github.com/real-logic/simple-binary-encoding">
    SBE
   </a>
+  - Simple Binary Encoding, one of the fastest message formats around.
   <sup>
    &#9733 806, pushed 8 days ago
   </sup>
-  - Simple Binary Encoding, one of the fastest message formats around.
  </li>
  <li>
   <a href="https://github.com/square/wire">
    Wire
   </a>
+  - Clean, lightweight protocol buffers.
   <sup>
    &#9733 1447, pushed 18 days ago
   </sup>
-  - Clean, lightweight protocol buffers.
  </li>
 </ul>
 <h2>
@@ -1036,10 +1036,10 @@
   <a href="https://github.com/hypotemoose/almanac-converter">
    Almanac Converter
   </a>
+  - Simple conversion between different calendar systems.
   <sup>
    &#9733 6, pushed 69 days ago
   </sup>
-  - Simple conversion between different calendar systems.
  </li>
  <li>
   <a href="http://www.joda.org/joda-time/">
@@ -1051,19 +1051,19 @@
   <a href="https://github.com/ThreeTen/threetenbp">
    ThreeTenBP
   </a>
+  - Port of JSR 310 (java.time package) by the author of Joda-Time.
   <sup>
    &#9733 197, pushed 8 days ago
   </sup>
-  - Port of JSR 310 (java.time package) by the author of Joda-Time.
  </li>
  <li>
   <a href="https://github.com/MenoData/Time4J">
    Time4J
   </a>
+  - Advanced date and time library.
   <sup>
    &#9733 76, pushed 1 days ago
   </sup>
-  - Advanced date and time library.
  </li>
 </ul>
 <h2>
@@ -1095,10 +1095,10 @@
   <a href="https://github.com/google/guice">
    Guice
   </a>
+  - Lightweight but powerful framework that completes Dagger.
   <sup>
    &#9733 3221, pushed 57 days ago
   </sup>
-  - Lightweight but powerful framework that completes Dagger.
  </li>
  <li>
   <a href="https://hk2.java.net">
@@ -1120,10 +1120,10 @@
   <a href="https://github.com/sviperll/adt4j">
    ADT4J
   </a>
+  - JSR-269 code generator for algebraic data types.
   <sup>
    &#9733 71, pushed 6 days ago
   </sup>
-  - JSR-269 code generator for algebraic data types.
  </li>
  <li>
   <a href="https://eclipse.org/aspectj/">
@@ -1135,10 +1135,10 @@
   <a href="https://github.com/google/auto">
    Auto
   </a>
+  - Collection of source code generators.
   <sup>
    &#9733 2749, pushed 19 days ago
   </sup>
-  - Collection of source code generators.
  </li>
  <li>
   <a href="http://dcevm.github.io/">
@@ -1150,10 +1150,10 @@
   <a href="https://github.com/HotswapProjects/HotswapAgent">
    HotswapAgent
   </a>
+  - Unlimited runtime class and resource redefinition.
   <sup>
    &#9733 408, pushed 6 days ago
   </sup>
-  - Unlimited runtime class and resource redefinition.
  </li>
  <li>
   <a href="http://immutables.github.io/">
@@ -1165,10 +1165,10 @@
   <a href="https://github.com/jhipster/generator-jhipster">
    JHipster
   </a>
+  - Yeoman source code generator to create applications based on Spring Boot and AngularJS.
   <sup>
    &#9733 3989, pushed 2 days ago
   </sup>
-  - Yeoman source code generator to create applications based on Spring Boot and AngularJS.
  </li>
  <li>
   <a href="http://zeroturnaround.com/software/jrebel/">
@@ -1186,10 +1186,10 @@
   <a href="https://github.com/spring-projects/spring-loaded">
    Spring Loaded
   </a>
+  - Class reloading agent.
   <sup>
    &#9733 1149, pushed 22 days ago
   </sup>
-  - Class reloading agent.
  </li>
 </ul>
 <h2>
@@ -1235,10 +1235,10 @@
   <a href="https://github.com/Netflix/Hystrix">
    Hystrix
   </a>
+  - Provides latency and fault tolerance.
   <sup>
    &#9733 5815, pushed 1 days ago
   </sup>
-  - Provides latency and fault tolerance.
  </li>
  <li>
   <a href="http://www.jgroups.org/">
@@ -1410,10 +1410,10 @@
   <a href="https://github.com/ksen007/janala2">
    CATG
   </a>
+  - Concolic unit testing engine. Automatically generates unit tests using formal methods.
   <sup>
    &#9733 31, pushed 187 days ago
   </sup>
-  - Concolic unit testing engine. Automatically generates unit tests using formal methods.
  </li>
  <li>
   <a href="http://types.cs.washington.edu/checker-framework/">
@@ -1443,10 +1443,10 @@
   <a href="https://github.com/osl/jcute">
    jCUTE
   </a>
+  - Concolic unit testing engine that automatically generates unit tests. Concolic execution combines randomized concrete execution with symbolic execution and automatic constraint solving.
   <sup>
    &#9733 23, pushed 670 days ago
   </sup>
-  - Concolic unit testing engine that automatically generates unit tests. Concolic execution combines randomized concrete execution with symbolic execution and automatic constraint solving.
  </li>
  <li>
   <a href="http://massoni.computacao.ufcg.edu.br/home/jmlok">
@@ -1490,19 +1490,19 @@
   <a href="https://github.com/aol/cyclops-react">
    cyclops-react
   </a>
+  - Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
   <sup>
    &#9733 389, pushed 11 days ago
   </sup>
-  - Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
  </li>
  <li>
   <a href="https://github.com/derive4j/derive4j">
    derive4j
   </a>
+  - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, morphisms.
   <sup>
    &#9733 110, pushed 75 days ago
   </sup>
-  - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, morphisms.
  </li>
  <li>
   <a href="https://bitbucket.org/atlassian/fugue">
@@ -1526,10 +1526,10 @@
   <a href="https://github.com/jOOQ/jOOL">
    jOOλ
   </a>
+  - Extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
   <sup>
    &#9733 554, pushed 9 days ago
   </sup>
-  - Extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
  </li>
 </ul>
 <h2>
@@ -1665,10 +1665,10 @@
   <a href="https://github.com/real-logic/Agrona">
    Agrona
   </a>
+  - Data structures and utility methods that are common in high-performance applications.
   <sup>
    &#9733 400, pushed 3 days ago
   </sup>
-  - Data structures and utility methods that are common in high-performance applications.
  </li>
  <li>
   <a href="http://lmax-exchange.github.io/disruptor/">
@@ -1686,10 +1686,10 @@
   <a href="https://github.com/goldmansachs/gs-collections">
    GS Collections
   </a>
+  - Collection framework inspired by Smalltalk.
   <sup>
    &#9733 1518, pushed 50 days ago
   </sup>
-  - Collection framework inspired by Smalltalk.
  </li>
  <li>
   <a href="http://labs.carrotsearch.com/hppc.html">
@@ -1707,19 +1707,19 @@
   <a href="https://github.com/JCTools/JCTools">
    JCTools
   </a>
+  - Concurrency tools currently missing from the JDK.
   <sup>
    &#9733 605, pushed 3 days ago
   </sup>
-  - Concurrency tools currently missing from the JDK.
  </li>
  <li>
   <a href="https://github.com/OpenHFT/Koloboke">
    Koloboke
   </a>
+  - Hash sets and hash maps.
   <sup>
    &#9733 466, pushed 9 days ago
   </sup>
-  - Hash sets and hash maps.
  </li>
  <li>
   <a href="http://trove.starlight-systems.com/">
@@ -1769,10 +1769,10 @@
   <a href="https://github.com/thebuzzmedia/imgscalr">
    Imgscalr
   </a>
+  - Simple and efficient hardware-accelerated image-scaling library implemented in pure Java 2D.
   <sup>
    &#9733 613, pushed 300 days ago
   </sup>
-  - Simple and efficient hardware-accelerated image-scaling library implemented in pure Java 2D.
  </li>
  <li>
   <a href="http://square.github.io/picasso/">
@@ -1784,19 +1784,19 @@
   <a href="https://github.com/coobird/thumbnailator">
    Thumbnailator
   </a>
+  - Thumbnailator is a high-quality thumbnail generation library for Java.
   <sup>
    &#9733 293, pushed 144 days ago
   </sup>
-  - Thumbnailator is a high-quality thumbnail generation library for Java.
  </li>
  <li>
   <a href="https://github.com/zxing/zxing">
    ZXing
   </a>
+  - Multi-format 1D/2D barcode image processing library.
   <sup>
    &#9733 8675, pushed 9 days ago
   </sup>
-  - Multi-format 1D/2D barcode image processing library.
  </li>
 </ul>
 <h2>
@@ -1818,10 +1818,10 @@
   <a href="https://github.com/google/gson">
    Gson
   </a>
+  - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
   <sup>
    &#9733 4210, pushed 6 days ago
   </sup>
-  - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
  </li>
  <li>
   <a href="http://wiki.fasterxml.com/JacksonHome">
@@ -1833,19 +1833,19 @@
   <a href="https://github.com/jdereg/json-io">
    JSON-io
   </a>
+  - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
   <sup>
    &#9733 157, pushed 5 days ago
   </sup>
-  - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
  </li>
  <li>
   <a href="https://github.com/bluelinelabs/LoganSquare">
    LoganSquare
   </a>
+  - JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
   <sup>
    &#9733 2211, pushed 37 days ago
   </sup>
-  - JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
  </li>
 </ul>
 <h2>
@@ -1861,37 +1861,37 @@
   <a href="https://github.com/alibaba/fastjson">
    fastjson
   </a>
+  - Very fast processor with no additional dependencies and full data binding.
   <sup>
    &#9733 4946, pushed 1 days ago
   </sup>
-  - Very fast processor with no additional dependencies and full data binding.
  </li>
  <li>
   <a href="https://github.com/bazaarvoice/jolt">
    Jolt
   </a>
+  - JSON to JSON transformation tool.
   <sup>
    &#9733 157, pushed 54 days ago
   </sup>
-  - JSON to JSON transformation tool.
  </li>
  <li>
   <a href="https://github.com/jayway/JsonPath">
    JsonPath
   </a>
+  - Extract data from JSON using XPATH like syntax.
   <sup>
    &#9733 869, pushed 35 days ago
   </sup>
-  - Extract data from JSON using XPATH like syntax.
  </li>
  <li>
   <a href="https://github.com/jsurfer/JsonSurfer">
    JsonSurfer
   </a>
+  - Streaming JsonPath processor dedicated to processing big and complicated JSON data.
   <sup>
    &#9733 13, pushed 173 days ago
   </sup>
-  - Streaming JsonPath processor dedicated to processing big and complicated JSON data.
  </li>
 </ul>
 <h2>
@@ -1907,10 +1907,10 @@
   <a href="https://github.com/ReadyTalk/avian">
    Avian
   </a>
+  - JVM with both a JIT & AOT modes. Includes an iOS port.
   <sup>
    &#9733 716, pushed 5 days ago
   </sup>
-  - JVM with both a JIT & AOT modes. Includes an iOS port.
  </li>
  <li>
   <a href="https://jdk9.java.net/">
@@ -2050,19 +2050,19 @@
   <a href="https://github.com/EdwardRaff/JSAT">
    JSAT
   </a>
+  - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
   <sup>
    &#9733 149, pushed 5 days ago
   </sup>
-  - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
  </li>
  <li>
   <a href="https://github.com/OryxProject/oryx">
    Oryx 2
   </a>
+  - A framework for building real-time large scale machine learning applications, which also includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
   <sup>
    &#9733 777, pushed 9 days ago
   </sup>
-  - A framework for building real-time large scale machine learning applications, which also includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
  </li>
  <li>
   <a href="http://haifengl.github.io/smile/">
@@ -2090,10 +2090,10 @@
   <a href="https://github.com/real-logic/Aeron">
    Aeron
   </a>
+  - Efficient reliable unicast and multicast message transport.
   <sup>
    &#9733 1743, pushed 8 days ago
   </sup>
-  - Efficient reliable unicast and multicast message transport.
  </li>
  <li>
   <a href="http://activemq.apache.org/">
@@ -2129,10 +2129,10 @@
   <a href="https://github.com/zeromq/jeromq">
    JeroMQ
   </a>
+  - Implementation of ZeroMQ.
   <sup>
    &#9733 1011, pushed 29 days ago
   </sup>
-  - Implementation of ZeroMQ.
  </li>
  <li>
   <a href="https://github.com/igniterealtime/Smack/">
@@ -2160,46 +2160,46 @@
   <a href="https://github.com/iluwatar/java-design-patterns">
    Design Patterns
   </a>
+  - Implementation and explanation of the most common design patterns.
   <sup>
    &#9733 11219, pushed 9 days ago
   </sup>
-  - Implementation and explanation of the most common design patterns.
  </li>
  <li>
   <a href="https://github.com/google/j2objc">
    J2ObjC
   </a>
+  - Java to Objective-C translator for porting Android libraries to iOS.
   <sup>
    &#9733 4055, pushed 5 days ago
   </sup>
-  - Java to Objective-C translator for porting Android libraries to iOS.
  </li>
  <li>
   <a href="https://github.com/shyiko/jabba">
    jabba
   </a>
+  - Java Version Manager inspired by nvm.
   <sup>
    &#9733 78, pushed 6 days ago
   </sup>
-  - Java Version Manager inspired by nvm.
  </li>
  <li>
   <a href="https://github.com/google/jimfs">
    Jimfs
   </a>
+  - In-memory file system.
   <sup>
    &#9733 957, pushed 32 days ago
   </sup>
-  - In-memory file system.
  </li>
  <li>
   <a href="https://github.com/mabe02/lanterna">
    Lanterna
   </a>
+  - Easy console text GUI library similar to curses.
   <sup>
    &#9733 266, pushed 15 days ago
   </sup>
-  - Easy console text GUI library similar to curses.
  </li>
  <li>
   <a href="http://lightadmin.org/">
@@ -2211,10 +2211,10 @@
   <a href="https://github.com/winterbe/java8-tutorial">
    Modern Java - A Guide to Java 8
   </a>
+  - Popular Java 8 guide.
   <sup>
    &#9733 5356, pushed 42 days ago
   </sup>
-  - Popular Java 8 guide.
  </li>
  <li>
   <a href="http://openrefine.org/">
@@ -2242,10 +2242,10 @@
   <a href="https://github.com/javamelody/javamelody">
    JavaMelody
   </a>
+  - Performance monitoring and profiling.
   <sup>
    &#9733 356, pushed 3 days ago
   </sup>
-  - Performance monitoring and profiling.
  </li>
  <li>
   <a href="https://github.com/jmxtrans/jmxtrans/">
@@ -2303,23 +2303,23 @@
   <a href="https://github.com/java-native-access/jna">
    JNA
   </a>
+  - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
   <sup>
    &#9733 2273, pushed 4 days ago
   </sup>
-  - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
  </li>
  <li>
   <a href="https://github.com/jnr/jnr-ffi">
    JNR
   </a>
-  <sup>
-   &#9733 260, pushed 50 days ago
-  </sup>
   - Work with native libraries without writing JNI. Also provides interfaces to common system libraries. Same goals as JNA, but faster, and serves as the basis for the upcoming
   <a href="http://openjdk.java.net/projects/panama/">
    Project Panama
   </a>
   .
+  <sup>
+   &#9733 260, pushed 50 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2369,28 +2369,28 @@
   <a href="https://github.com/AsyncHttpClient/async-http-client">
    Async Http Client
   </a>
+  - Asynchronous HTTP and WebSocket client library.
   <sup>
    &#9733 2829, pushed 2 days ago
   </sup>
-  - Asynchronous HTTP and WebSocket client library.
  </li>
  <li>
   <a href="https://github.com/puniverse/comsat">
    Comsat
   </a>
+  - Integrates standard Java web-related APIs with Quasar fibers and actors.
   <sup>
    &#9733 292, pushed 7 days ago
   </sup>
-  - Integrates standard Java web-related APIs with Quasar fibers and actors.
  </li>
  <li>
   <a href="https://github.com/twitter/finagle">
    Finagle
   </a>
+  - Extensible RPC system used to construct high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol agnostic, which simplifies the implementation of new protocols.
   <sup>
    &#9733 4567, pushed 2 days ago
   </sup>
-  - Extensible RPC system used to construct high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol agnostic, which simplifies the implementation of new protocols.
  </li>
  <li>
   <a href="https://grizzly.java.net/">
@@ -2408,10 +2408,10 @@
   <a href="https://github.com/facebook/nifty">
    Nifty
   </a>
+  - Implementation of Thrift clients and servers on Netty.
   <sup>
    &#9733 496, pushed 48 days ago
   </sup>
-  - Implementation of Thrift clients and servers on Netty.
  </li>
  <li>
   <a href="http://square.github.io/okhttp/">
@@ -2429,10 +2429,10 @@
   <a href="https://github.com/slub/urnlib">
    urnlib
   </a>
+  - Java library for representing, parsing and encoding URNs as in RFC 2141.
   <sup>
    &#9733 1, pushed 38 days ago
   </sup>
-  - Java library for representing, parsing and encoding URNs as in RFC 2141.
  </li>
 </ul>
 <h2>
@@ -2506,10 +2506,10 @@
   <a href="https://github.com/flyingsaucerproject/flyingsaucer">
    flyingsaucer
   </a>
+  - XML/XHTML and CSS 2.1 renderer.
   <sup>
    &#9733 640, pushed 21 days ago
   </sup>
-  - XML/XHTML and CSS 2.1 renderer.
  </li>
  <li>
   <a href="http://itextpdf.com/">
@@ -2537,19 +2537,19 @@
   <a href="https://github.com/RichardWarburton/honest-profiler">
    honest-profiler
   </a>
+  - An low-overhead, bias-free sampling profiler.
   <sup>
    &#9733 380, pushed 7 days ago
   </sup>
-  - An low-overhead, bias-free sampling profiler.
  </li>
  <li>
   <a href="https://github.com/giltene/jHiccup">
    jHiccup
   </a>
+  - Logs and records platform JVM stalls.
   <sup>
    &#9733 253, pushed 47 days ago
   </sup>
-  - Logs and records platform JVM stalls.
  </li>
  <li>
   <a href="http://openjdk.java.net/projects/code-tools/jmh/">
@@ -2567,10 +2567,10 @@
   <a href="https://github.com/LatencyUtils/LatencyUtils">
    LatencyUtils
   </a>
+  - Utilities for latency measurement and reporting.
   <sup>
    &#9733 229, pushed 140 days ago
   </sup>
-  - Utilities for latency measurement and reporting.
  </li>
  <li>
   <a href="http://visualvm.java.net/">
@@ -2616,10 +2616,10 @@
   <a href="https://github.com/ReactiveX/RxJava">
    RxJava
   </a>
+  - Library for composing asynchronous and event-based programs using observable sequences from the JVM.
   <sup>
    &#9733 13390, pushed 1 days ago
   </sup>
-  - Library for composing asynchronous and event-based programs using observable sequences from the JVM.
  </li>
  <li>
   <a href="http://vertx.io/">
@@ -2647,10 +2647,10 @@
   <a href="https://github.com/Netflix/feign">
    Feign
   </a>
+  - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
   <sup>
    &#9733 951, pushed 4 days ago
   </sup>
-  - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
  </li>
  <li>
   <a href="https://jersey.java.net/">
@@ -2662,10 +2662,10 @@
   <a href="https://github.com/aol/micro-server">
    Microserver
   </a>
+  — A convenient extensible Microservices plugin system for Spring & Spring Boot, with over 30 plugins and growing, that supports both micro-monolith and pure microservices styles.
   <sup>
    &#9733 484, pushed 4 days ago
   </sup>
-  — A convenient extensible Microservices plugin system for Spring & Spring Boot, with over 30 plugins and growing, that supports both micro-monolith and pure microservices styles.
  </li>
  <li>
   <a href="http://raml.org/">
@@ -2683,10 +2683,10 @@
   <a href="https://github.com/linkedin/rest.li">
    rest.li
   </a>
+  - Framework for building robust, scalable RESTful architectures using type-safe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform interface design and consistent data modeling.
   <sup>
    &#9733 1259, pushed 4 days ago
   </sup>
-  - Framework for building robust, scalable RESTful architectures using type-safe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform interface design and consistent data modeling.
  </li>
  <li>
   <a href="http://resteasy.jboss.org/">
@@ -2698,10 +2698,10 @@
   <a href="https://github.com/RestExpress/RestExpress">
    RestExpress
   </a>
+  - Thin wrapper on the JBoss Netty HTTP stack to provide scaling and performance.
   <sup>
    &#9733 597, pushed 4 days ago
   </sup>
-  - Thin wrapper on the JBoss Netty HTTP stack to provide scaling and performance.
  </li>
  <li>
   <a href="https://github.com/restlet/restlet-framework-java/">
@@ -2765,19 +2765,19 @@
   <a href="https://github.com/jgrapht/jgrapht">
    JGraphT
   </a>
+  - Graph library that provides mathematical graph-theory objects and algorithms.
   <sup>
    &#9733 655, pushed 6 days ago
   </sup>
-  - Graph library that provides mathematical graph-theory objects and algorithms.
  </li>
  <li>
   <a href="https://github.com/jgraph/jgraphx">
    JGraphX
   </a>
+  - Library for visualisation (mainly Swing) and interaction with node-edge graphs.
   <sup>
    &#9733 283, pushed 18 days ago
   </sup>
-  - Library for visualisation (mainly Swing) and interaction with node-edge graphs.
  </li>
 </ul>
 <h2>
@@ -2833,10 +2833,10 @@
   <a href="https://github.com/google/keyczar">
    Google Keyczar
   </a>
+  - Easy to use, yet safe encryption framework with key versioning.
   <sup>
    &#9733 510, pushed 2 days ago
   </sup>
-  - Easy to use, yet safe encryption framework with key versioning.
  </li>
  <li>
   <a href="http://keycloak.jboss.org/">
@@ -2864,37 +2864,37 @@
   <a href="https://github.com/google/flatbuffers">
    FlatBuffers
   </a>
+  - Memory efficient serialization library that can access serialized data without unpacking and parsing it.
   <sup>
    &#9733 5366, pushed 2 days ago
   </sup>
-  - Memory efficient serialization library that can access serialized data without unpacking and parsing it.
  </li>
  <li>
   <a href="https://github.com/RuedigerMoeller/fast-serialization">
    FST
   </a>
+  - JDK compatible high performance object graph serialization.
   <sup>
    &#9733 540, pushed 21 days ago
   </sup>
-  - JDK compatible high performance object graph serialization.
  </li>
  <li>
   <a href="https://github.com/EsotericSoftware/kryo">
    Kryo
   </a>
+  - Fast and efficient object graph serialization framework.
   <sup>
    &#9733 1847, pushed 9 days ago
   </sup>
-  - Fast and efficient object graph serialization framework.
  </li>
  <li>
   <a href="https://github.com/msgpack/msgpack-java">
    MessagePack
   </a>
+  - Efficient binary serialization format.
   <sup>
    &#9733 573, pushed 6 days ago
   </sup>
-  - Efficient binary serialization format.
  </li>
 </ul>
 <h2>
@@ -3002,10 +3002,10 @@
   <a href="https://github.com/jayway/awaitility">
    Awaitility
   </a>
+  - DSL for synchronizing asynchronous operations.
   <sup>
    &#9733 291, pushed 23 days ago
   </sup>
-  - DSL for synchronizing asynchronous operations.
  </li>
  <li>
   <a href="http://citrusframework.org/">
@@ -3017,10 +3017,10 @@
   <a href="https://github.com/cucumber/cucumber-jvm">
    Cucumber
   </a>
+  - BDD testing framework.
   <sup>
    &#9733 1254, pushed 3 days ago
   </sup>
-  - BDD testing framework.
  </li>
  <li>
   <a href="http://gatling.io/">
@@ -3062,10 +3062,10 @@
   <a href="https://github.com/TNG/junit-dataprovider">
    junit-dataprovider
   </a>
+  - A TestNG like dataprovider runner for JUnit.
   <sup>
    &#9733 81, pushed 21 days ago
   </sup>
-  - A TestNG like dataprovider runner for JUnit.
  </li>
  <li>
   <a href="https://pragmatists.github.io/JUnitParams/">
@@ -3077,19 +3077,19 @@
   <a href="https://github.com/mockito/mockito">
    Mockito
   </a>
+  - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
   <sup>
    &#9733 2416, pushed 9 days ago
   </sup>
-  - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
  </li>
  <li>
   <a href="https://github.com/dreamhead/moco">
    Moco
   </a>
+  - Concise web services for stubs and mocks, Duke's Choice Award 2013.
   <sup>
    &#9733 1227, pushed 2 days ago
   </sup>
-  - Concise web services for stubs and mocks, Duke's Choice Award 2013.
  </li>
  <li>
   <a href="http://pitest.org">
@@ -3101,19 +3101,19 @@
   <a href="https://github.com/jayway/powermock">
    PowerMock
   </a>
+  -  Enables mocking of static methods, constructors, final classes and methods, private methods and removal of static initializers.
   <sup>
    &#9733 565, pushed 1 days ago
   </sup>
-  -  Enables mocking of static methods, constructors, final classes and methods, private methods and removal of static initializers.
  </li>
  <li>
   <a href="https://github.com/jayway/rest-assured">
    REST Assured
   </a>
+  - Java DSL for easy testing for REST/HTTP services.
   <sup>
    &#9733 1075, pushed 3 days ago
   </sup>
-  - Java DSL for easy testing for REST/HTTP services.
  </li>
  <li>
   <a href="http://selenide.org/">
@@ -3143,10 +3143,10 @@
   <a href="https://github.com/google/truth">
    Truth
   </a>
+  - Google's assertion and proposition framework.
   <sup>
    &#9733 609, pushed 8 days ago
   </sup>
-  - Google's assertion and proposition framework.
  </li>
  <li>
   <a href="http://www.unitils.org/">
@@ -3198,19 +3198,19 @@
   <a href="https://github.com/PatMartin/Dex">
    Dex
   </a>
+  - Java/JavaFX tool capable of powerful ETL and data visualization.
   <sup>
    &#9733 46, pushed 3 days ago
   </sup>
-  - Java/JavaFX tool capable of powerful ETL and data visualization.
  </li>
  <li>
   <a href="https://github.com/google/guava">
    Guava
   </a>
+  - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
   <sup>
    &#9733 8828, pushed 1 days ago
   </sup>
-  - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
  </li>
  <li>
   <a href="http://jade.tilab.com/">
@@ -3228,10 +3228,10 @@
   <a href="https://github.com/VerbalExpressions/JavaVerbalExpressions">
    JavaVerbalExpressions
   </a>
+  - A library that helps to construct difficult regular expressions.
   <sup>
    &#9733 1161, pushed 28 days ago
   </sup>
-  - A library that helps to construct difficult regular expressions.
  </li>
  <li>
   <a href="http://protege.stanford.edu/">
@@ -3259,10 +3259,10 @@
   <a href="https://github.com/yasserg/crawler4j">
    Crawler4j
   </a>
+  - Simple and lightweight web crawler.
   <sup>
    &#9733 980, pushed 4 days ago
   </sup>
-  - Simple and lightweight web crawler.
  </li>
  <li>
   <a href="http://jsoup.org/">
@@ -3296,10 +3296,10 @@
   <a href="https://github.com/biezhi/blade">
    Blade
   </a>
+  - Lightweight, modular framework which aims to be elegant and simple.
   <sup>
    &#9733 1407, pushed 7 days ago
   </sup>
-  - Lightweight, modular framework which aims to be elegant and simple.
  </li>
  <li>
   <a href="http://www.gwtproject.org/">

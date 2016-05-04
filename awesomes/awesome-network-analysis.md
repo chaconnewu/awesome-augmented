@@ -1196,10 +1196,10 @@
   <a href="https://github.com/briatte/parlnet">
    Bill Cosponsorship Networks in European Parliaments
   </a>
+  - Legislative cosponsorship networks, in R format.
   <sup>
    &#9733 4, pushed 86 days ago
   </sup>
-  - Legislative cosponsorship networks, in R format.
  </li>
  <li>
   <a href="http://openconnecto.me/graph-services/download/">
@@ -2854,10 +2854,10 @@
   <a href="https://github.com/bruce/graphy">
    Graphy
   </a>
+  - Graph theory library written in Ruby.
   <sup>
    &#9733 40, pushed 2332 days ago
   </sup>
-  - Graph theory library written in Ruby.
  </li>
  <li>
   <a href="https://lynksoft.com/">
@@ -3147,10 +3147,10 @@
   <a href="https://github.com/clojure/algo.graph">
    algo.graph
   </a>
+  - Basic graph theory algorithms written in Clojure.
   <sup>
    &#9733 15, pushed 122 days ago
   </sup>
-  - Basic graph theory algorithms written in Clojure.
  </li>
  <li>
   <a href="http://www.cs.bris.ac.uk/~steve/networks/index.html">
@@ -3200,10 +3200,10 @@
   <a href="https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS">
    weighted-modularity-LPAwbPLUS
   </a>
+  - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
   <sup>
    &#9733 4, pushed 6 days ago
   </sup>
-  - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
  </li>
 </ol>
 <h3>
@@ -3339,14 +3339,14 @@
   <a href="https://github.com/upphiminn/jLouvain">
    jLouvain
   </a>
-  <sup>
-   &#9733 49, pushed 6 days ago
-  </sup>
   - Louvain community detection for Javascript (
   <a href="http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5">
    example
   </a>
   ).
+  <sup>
+   &#9733 49, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.popotojs.com/">
@@ -3370,14 +3370,14 @@
   <a href="https://github.com/anvaka/VivaGraphJS">
    VivaGraphJS
   </a>
-  <sup>
-   &#9733 1898, pushed 34 days ago
-  </sup>
   - Graph drawing library (
   <a href="https://github.com/graphcommons/viva.forceatlas2">
    ForceAtlas2 plugin
   </a>
   ).
+  <sup>
+   &#9733 1898, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://mdaines.github.io/viz.js/">
@@ -3394,9 +3394,6 @@
   <a href="https://github.com/weijianzhang/EvolvingGraphs.jl">
    EvolvingGraphs
   </a>
-  <sup>
-   &#9733 13, pushed 1 days ago
-  </sup>
   - Package to create, manipulate and study time-dependent networks.
   <ul>
    <li>
@@ -3406,14 +3403,14 @@
     .
    </li>
   </ul>
+  <sup>
+   &#9733 13, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JuliaLang/Graphs.jl">
    Graphs.jl
   </a>
-  <sup>
-   &#9733 123, pushed 24 days ago
-  </sup>
   - Package to manipulate graph objects in Julia.
   <ul>
    <li>
@@ -3423,6 +3420,9 @@
     .
    </li>
   </ul>
+  <sup>
+   &#9733 123, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JuliaGraphs">
@@ -3434,41 +3434,41 @@
     <a href="https://github.com/JuliaGraphs/GraphVisualize.jl">
      GraphVisualize.jl
     </a>
-    <sup>
-     &#9733 3, pushed 46 days ago
-    </sup>
     - Graph visualization built on top of
     <a href="https://github.com/JuliaGL/GLVisualize.jl">
      GLVisualize.jl
     </a>
     .
+    <sup>
+     &#9733 3, pushed 46 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/JuliaGraphs/LightGraphs.jl">
      LightGraphs.jl
     </a>
+    - Graph library with a focus on performance and simplicity.
     <sup>
      &#9733 49, pushed 1 days ago
     </sup>
-    - Graph library with a focus on performance and simplicity.
    </li>
    <li>
     <a href="https://github.com/JuliaGraphs/Networks.jl">
      Networks.jl
     </a>
+    - Additional graph functions for the LightGraphs.jl package.
     <sup>
      &#9733 2, pushed 51 days ago
     </sup>
-    - Additional graph functions for the LightGraphs.jl package.
    </li>
    <li>
     <a href="https://github.com/JuliaGraphs/GraphCentrality.jl">
      GraphCentrality.jl
     </a>
+    - Adds network measures to the Graphs.jl package.
     <sup>
      &#9733 3, pushed 195 days ago
     </sup>
-    - Adds network measures to the Graphs.jl package.
    </li>
   </ul>
  </li>
@@ -3563,10 +3563,10 @@
   <a href="https://github.com/rafguns/linkpred">
    linkpred
   </a>
+  - Assess the likelihood of potential links in a future snapshot of a network.
   <sup>
    &#9733 1, pushed 11 days ago
   </sup>
-  - Assess the likelihood of potential links in a future snapshot of a network.
  </li>
  <li>
   <a href="http://networkx.github.io/">
@@ -3586,10 +3586,10 @@
   <a href="https://github.com/ike002jp/npartite">
    npartite
   </a>
+  - Python algorithms for community detection in n-partite networks.
   <sup>
    &#9733 2, pushed 771 days ago
   </sup>
-  - Python algorithms for community detection in n-partite networks.
  </li>
  <li>
   <a href="http://igraph.org/python/">
@@ -3689,49 +3689,49 @@
   <a href="https://github.com/matthewjdenny/CCAS">
    CCAS
   </a>
+  - Statistical model for communication networks.
   <sup>
    &#9733 1, pushed 11 days ago
   </sup>
-  - Statistical model for communication networks.
  </li>
  <li>
   <a href="https://github.com/aslez/concoR">
    concoR
   </a>
-  <sup>
-   &#9733 3, pushed 63 days ago
-  </sup>
   - Implementation of the CONCOR network blockmodeling algorithm (
   <a href="http://badhessian.org/2015/05/concor-in-r/">
    blog post
   </a>
   ).
+  <sup>
+   &#9733 3, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matthewjdenny/ContentStructure">
    ContentStructure
   </a>
-  <sup>
-   &#9733 1, pushed 214 days ago
-  </sup>
   - Implements an extension to the
   <a href="http://dirichlet.net/pdf/krafft12topic-partitioned.pdf">
    Topic-Partitioned Multinetwork Embeddings (TPME) model
   </a>
   .
+  <sup>
+   &#9733 1, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rich-iannone/DiagrammeR">
    DiagrammeR
   </a>
-  <sup>
-   &#9733 499, pushed 2 days ago
-  </sup>
   - Connects R, RStudio and JavaScript libraries to draw graph diagrams (
   <a href="https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/">
    blog post
   </a>
   ).
+  <sup>
+   &#9733 499, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/ergm/">
@@ -3769,10 +3769,10 @@
   <a href="https://github.com/thomasp85/ggraph">
    ggraph
   </a>
+  - Grammar of graph graphics built in the spirit of ggplot2.
   <sup>
    &#9733 122, pushed 56 days ago
   </sup>
-  - Grammar of graph graphics built in the spirit of ggplot2.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/hergm/">
@@ -3840,10 +3840,10 @@
   <a href="https://github.com/chengjun/networkdiffusion">
    networkdiffusion
   </a>
+  - Simulate and visualize basic epidemic diffusion in networks.
   <sup>
    &#9733 0, pushed 369 days ago
   </sup>
-  - Simulate and visualize basic epidemic diffusion in networks.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/networkDynamic/">
@@ -3999,10 +3999,10 @@
   <a href="https://github.com/DataKnowledge/visNetwork">
    visNetwork
   </a>
+  - Using vis.js library for network visualization.
   <sup>
    &#9733 0, pushed 41 days ago
   </sup>
-  - Using vis.js library for network visualization.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/xergm/">
@@ -4855,10 +4855,10 @@
   <a href="https://github.com/raffaelevacca/EUSN-co-citation-networks">
    Social Network and Network Science Co-Citations Across Disciplines in 1996-2013
   </a>
+  .
   <sup>
    &#9733 6, pushed 461 days ago
   </sup>
-  .
  </li>
  <li>
   <a href="http://environmentalpolicy.ucdavis.edu/node/292">

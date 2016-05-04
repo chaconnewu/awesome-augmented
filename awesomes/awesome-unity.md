@@ -160,10 +160,10 @@
   <a href="https://github.com/RyanNielson/PixelCamera2D">
    Pixel Camera 2D
   </a>
+  - A simple pixel perfect camera with scaling options for 2D Games.
   <sup>
    &#9733 76, pushed 217 days ago
   </sup>
-  - A simple pixel perfect camera with scaling options for 2D Games.
  </li>
  <li>
   <a href="http://esotericsoftware.com">
@@ -214,10 +214,10 @@
   <a href="https://github.com/prime31/CharacterController2D">
    CharacterController2D
   </a>
+  - A 2D controller that behaves very similarily to Unity's CharacterController component.
   <sup>
    &#9733 362, pushed 5 days ago
   </sup>
-  - A 2D controller that behaves very similarily to Unity's CharacterController component.
  </li>
 </ul>
 <h2>
@@ -239,37 +239,37 @@
   <a href="https://github.com/pbhogan/InControl">
    InControl
   </a>
+  - An input manager that tames makes handler cross-platform. controller input easy.
   <sup>
    &#9733 457, pushed 160 days ago
   </sup>
-  - An input manager that tames makes handler cross-platform. controller input easy.
  </li>
  <li>
   <a href="https://github.com/RyanNielson/InputBinder">
    InputBinder
   </a>
+  - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
   <sup>
    &#9733 3, pushed 341 days ago
   </sup>
-  - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
  </li>
  <li>
   <a href="https://github.com/prime31/TouchKit">
    TouchKit
   </a>
+  - Makes it easy to recognize gestures and other touch input.
   <sup>
    &#9733 317, pushed 5 days ago
   </sup>
-  - Makes it easy to recognize gestures and other touch input.
  </li>
  <li>
   <a href="https://github.com/TouchScript/TouchScript">
    TouchScript
   </a>
+  - Makes handling complex gesture interactions on any touch surface much easier.
   <sup>
    &#9733 629, pushed 6 days ago
   </sup>
-  - Makes handling complex gesture interactions on any touch surface much easier.
  </li>
 </ul>
 <h2>
@@ -433,19 +433,19 @@
   <a href="https://github.com/neuecc/UniRx">
    UniRx
   </a>
+  - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
   <sup>
    &#9733 739, pushed 17 days ago
   </sup>
-  - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
  </li>
  <li>
   <a href="https://github.com/nickgravelyn/unitytoolbag">
    UnityToolbag
   </a>
+  - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
   <sup>
    &#9733 545, pushed 12 days ago
   </sup>
-  - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
  </li>
 </ul>
 <h2>

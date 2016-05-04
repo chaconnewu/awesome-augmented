@@ -23,91 +23,91 @@
   <a href="https://github.com/sindresorhus/pageres">
    sindresorhus/pageres
   </a>
+  - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
   <sup>
    &#9733 7387, pushed 4 days ago
   </sup>
-  - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
  </li>
  <li>
   <a href="https://github.com/petkaantonov/bluebird">
    petkaantonov/bluebird
   </a>
+  - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
   <sup>
    &#9733 10820, pushed 6 days ago
   </sup>
-  - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
  </li>
  <li>
   <a href="https://github.com/jkbrzt/httpie">
    jakubroztocil/httpie
   </a>
+  - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
   <sup>
    &#9733 22333, pushed 5 days ago
   </sup>
-  - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
  </li>
  <li>
   <a href="https://github.com/karan/joe">
    karan/joe
   </a>
+  - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
   <sup>
    &#9733 2210, pushed 28 days ago
   </sup>
-  - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
  </li>
  <li>
   <a href="https://github.com/aimeos/aimeos-typo3">
    aimeos/aimeos-typo3
   </a>
+  - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
   <sup>
    &#9733 7, pushed 14 days ago
   </sup>
-  - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
  </li>
  <li>
   <a href="https://github.com/rstacruz/hicat">
    rstacruz/hicat
   </a>
+  - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
   <sup>
    &#9733 297, pushed 350 days ago
   </sup>
-  - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
  </li>
  <li>
   <a href="https://github.com/skywinder/github-changelog-generator">
    skywinder/github-changelog-generator
   </a>
+  - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
   <sup>
    &#9733 2003, pushed 2 days ago
   </sup>
-  - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
  </li>
  <li>
   <a href="https://github.com/shama/gaze">
    shama/gaze
   </a>
+  - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
   <sup>
    &#9733 741, pushed 5 days ago
   </sup>
-  - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
  </li>
  <li>
   <a href="https://github.com/IgorAntun/node-chat">
    node-chat
   </a>
+  - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
   <sup>
    &#9733 259, pushed 242 days ago
   </sup>
-  - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
  </li>
  <li>
   <a href="https://github.com/b4b4r07/dotfiles">
    b4b4r07/dotfiles
   </a>
+  - Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment.
   <sup>
    &#9733 182, pushed 1 days ago
   </sup>
-  - Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment.
  </li>
 </ul>
 <h2>

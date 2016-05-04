@@ -167,10 +167,10 @@
    </em>
    IO
   </a>
+  - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
   <sup>
    &#9733 19, pushed 33 days ago
   </sup>
-  - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
  </li>
 </ul>
 <h2>
@@ -231,19 +231,19 @@
   <a href="https://github.com/Unidata/netcdf-fortran">
    netCDF
   </a>
+  - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
   <sup>
    &#9733 37, pushed 4 days ago
   </sup>
-  - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
  </li>
  <li>
   <a href="https://github.com/xianyi/OpenBLAS">
    OpenBLAS
   </a>
+  - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
   <sup>
    &#9733 896, pushed 4 days ago
   </sup>
-  - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
  </li>
  <li>
   <a href="http://paw.web.cern.ch/paw/">
@@ -265,19 +265,19 @@
   <a href="https://github.com/josephalevin/fson">
    FSON
   </a>
+  - Fortran 95 JSON Parser.
   <sup>
    &#9733 27, pushed 28 days ago
   </sup>
-  - Fortran 95 JSON Parser.
  </li>
  <li>
   <a href="https://github.com/jacobwilliams/json-fortran">
    json-fortran
   </a>
+  - A Fortran 2008 JSON API.
   <sup>
    &#9733 40, pushed 2 days ago
   </sup>
-  - A Fortran 2008 JSON API.
  </li>
 </ul>
 <h2>
@@ -293,10 +293,10 @@
   <a href="https://github.com/andreww/fox">
    fox
   </a>
+  - Fortran XML library
   <sup>
    &#9733 27, pushed 126 days ago
   </sup>
-  - Fortran XML library
  </li>
  <li>
   <a href="http://sourceforge.net/projects/xml-fortran/">
@@ -318,10 +318,10 @@
   <a href="https://github.com/milancurcic/datetime-fortran">
    datetime-fortran
   </a>
+  - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
   <sup>
    &#9733 24, pushed 12 days ago
   </sup>
-  - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
  </li>
 </ul>
 <h2>
@@ -365,10 +365,10 @@
   <a href="https://github.com/szaghi/BeFoR64">
    BeFoR64
   </a>
+  - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
   <sup>
    &#9733 8, pushed 34 days ago
   </sup>
-  - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
  </li>
 </ul>
 <h2>
@@ -400,19 +400,19 @@
   <a href="https://github.com/szaghi/FLAP">
    FLAP
   </a>
+  - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
   <sup>
    &#9733 17, pushed 25 days ago
   </sup>
-  - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
  </li>
  <li>
   <a href="https://github.com/cngilbreth/optionsf90">
    options.f90
   </a>
+  - Options & input processing for modern Fortran.
   <sup>
    &#9733 3, pushed 408 days ago
   </sup>
-  - Options & input processing for modern Fortran.
  </li>
 </ul>
 <h2>
@@ -428,10 +428,10 @@
   <a href="https://github.com/szaghi/FoBiS">
    FoBiS
   </a>
+  - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
   <sup>
    &#9733 32, pushed 53 days ago
   </sup>
-  - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
  </li>
 </ul>
 <h2>
@@ -453,10 +453,10 @@
   <a href="https://github.com/szaghi/PreForM">
    PreForM
   </a>
+  - Preprocessor for Fortran poor Men.
   <sup>
    &#9733 9, pushed 350 days ago
   </sup>
-  - Preprocessor for Fortran poor Men.
  </li>
 </ul>
 <h2>
@@ -472,10 +472,10 @@
   <a href="https://github.com/cmacmackin/ford">
    FORD
   </a>
+  - An automatic documentation generator for modern Fortran programs.
   <sup>
    &#9733 49, pushed 6 days ago
   </sup>
-  - An automatic documentation generator for modern Fortran programs.
  </li>
 </ul>
 <h2>

@@ -84,10 +84,10 @@
       <a href="https://github.com/pinterest/mysql_utils">
        mysql_utils
       </a>
+      Pinterest MySQL Management Tools
       <sup>
        &#9733 616, pushed 77 days ago
       </sup>
-      Pinterest MySQL Management Tools
      </li>
     </ul>
    </li>
@@ -142,10 +142,10 @@
     <a href="https://github.com/rescrv/HyperDex">
      HyperDex
     </a>
+    HyperDex is a scalable, searchable key-value store
     <sup>
      &#9733 1064, pushed 19 days ago
     </sup>
-    HyperDex is a scalable, searchable key-value store
    </li>
    <li>
     <a href="http://ssdb.io">
@@ -163,10 +163,10 @@
     <a href="https://github.com/iondbproject/iondb">
      IonDB
     </a>
+    A key-value store for microcontroller and IoT applications
     <sup>
      &#9733 409, pushed 104 days ago
     </sup>
-    A key-value store for microcontroller and IoT applications
    </li>
   </ul>
  </li>
@@ -189,19 +189,19 @@
       <a href="https://github.com/pcmanus/ccm">
        CCM
       </a>
+      A script to easily create and destroy an Apache Cassandra cluster on localhost
       <sup>
        &#9733 672, pushed 7 days ago
       </sup>
-      A script to easily create and destroy an Apache Cassandra cluster on localhost
      </li>
      <li>
       <a href="https://github.com/scylladb/scylla">
        ScyllaDB
       </a>
+      NoSQL data store using the seastar framework, compatible with Apache Cassandra http://www.scylladb.com/
       <sup>
        &#9733 1896, pushed 1 days ago
       </sup>
-      NoSQL data store using the seastar framework, compatible with Apache Cassandra http://www.scylladb.com/
      </li>
     </ul>
    </li>
@@ -247,10 +247,10 @@
       <a href="https://github.com/rain1017/memdb">
        MemDB
       </a>
+      Distributed Transactional In-Memory Database (based on MongoDB)
       <sup>
        &#9733 488, pushed 135 days ago
       </sup>
-      Distributed Transactional In-Memory Database (based on MongoDB)
      </li>
     </ul>
    </li>
@@ -305,10 +305,10 @@
     <a href="https://github.com/twitter/flockdb">
      FlockDB
     </a>
+    A distributed, fault-tolerant graph database by Twitter.
     <sup>
      &#9733 2814, pushed 216 days ago
     </sup>
-    A distributed, fault-tolerant graph database by Twitter.
    </li>
   </ul>
  </li>
@@ -331,10 +331,10 @@
     <a href="https://github.com/GovernmentCommunicationsHeadquarters/Gaffer">
      Gaffer
     </a>
+    A large-scale graph database
     <sup>
      &#9733 1163, pushed 2 days ago
     </sup>
-    A large-scale graph database
    </li>
   </ul>
  </li>
@@ -345,39 +345,39 @@
     <a href="https://github.com/influxdata/influxdb">
      InfluxDB
     </a>
-    <sup>
-     &#9733 7943, pushed 2 days ago
-    </sup>
     Scalable datastore for metrics, events, and real-time analytics.
    </li>
    <li>
     <a href="https://github.com/OpenTSDB/opentsdb">
      OpenTSDB
     </a>
+    A scalable, distributed Time Series Database.
     <sup>
      &#9733 1963, pushed 1 days ago
     </sup>
-    A scalable, distributed Time Series Database.
    </li>
    <li>
     <a href="https://github.com/kairosdb/kairosdb">
      kairosdb
     </a>
+    Fast scalable time series database.
     <sup>
      &#9733 814, pushed 4 days ago
     </sup>
-    Fast scalable time series database.
    </li>
    <li>
     <a href="https://github.com/spotify/heroic">
      Heroic
     </a>
+    A scalable time series database based on Cassandra and Elasticsearch, by Spotify
     <sup>
      &#9733 371, pushed 8 days ago
     </sup>
-    A scalable time series database based on Cassandra and Elasticsearch, by Spotify
    </li>
   </ul>
+  <sup>
+   &#9733 7943, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Other
@@ -392,28 +392,28 @@
     <a href="https://github.com/greenplum-db/gpdb">
      GreenPlum
     </a>
+    The Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.
     <sup>
      &#9733 1417, pushed 1 days ago
     </sup>
-    The Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.
    </li>
    <li>
     <a href="https://github.com/google/cayley">
      cayley
     </a>
+    An open-source graph database. Google.
     <sup>
      &#9733 7409, pushed 8 days ago
     </sup>
-    An open-source graph database. Google.
    </li>
    <li>
     <a href="https://github.com/SnappyDataInc/snappydata">
      Snappydata
     </a>
+    SnappyData: OLTP + OLAP Database built on Apache Spark
     <sup>
      &#9733 264, pushed 2 days ago
     </sup>
-    SnappyData: OLTP + OLAP Database built on Apache Spark
    </li>
   </ul>
  </li>
@@ -432,100 +432,100 @@
     <a href="https://github.com/linkedin/camus">
      Camus
     </a>
+    LinkedIn's Kafka to HDFS pipeline.
     <sup>
      &#9733 642, pushed 147 days ago
     </sup>
-    LinkedIn's Kafka to HDFS pipeline.
    </li>
    <li>
     <a href="https://github.com/confluentinc/bottledwater-pg">
      BottledWater
     </a>
+    Change data capture from PostgreSQL into Kafka
     <sup>
      &#9733 658, pushed 4 days ago
     </sup>
-    Change data capture from PostgreSQL into Kafka
    </li>
    <li>
     <a href="https://github.com/airbnb/kafkat">
      kafkat
     </a>
+    Simplified command-line administration for Kafka brokers
     <sup>
      &#9733 114, pushed 12 days ago
     </sup>
-    Simplified command-line administration for Kafka brokers
    </li>
    <li>
     <a href="https://github.com/edenhill/kafkacat">
      kafkacat
     </a>
+    Generic command line non-JVM Apache Kafka producer and consumer
     <sup>
      &#9733 356, pushed 15 days ago
     </sup>
-    Generic command line non-JVM Apache Kafka producer and consumer
    </li>
    <li>
     <a href="https://github.com/xstevens/pg_kafka">
      pg-kafka
     </a>
+    A PostgreSQL extension to produce messages to Apache Kafka
     <sup>
      &#9733 46, pushed 397 days ago
     </sup>
-    A PostgreSQL extension to produce messages to Apache Kafka
    </li>
    <li>
     <a href="https://github.com/edenhill/librdkafka">
      librdkafka
     </a>
+    The Apache Kafka C/C++ library
     <sup>
      &#9733 508, pushed 4 days ago
     </sup>
-    The Apache Kafka C/C++ library
    </li>
    <li>
     <a href="https://github.com/wurstmeister/kafka-docker">
      kafka-docker
     </a>
+    Kafka in Docker
     <sup>
      &#9733 377, pushed 13 days ago
     </sup>
-    Kafka in Docker
    </li>
    <li>
     <a href="https://github.com/yahoo/kafka-manager">
      kafka-manager
     </a>
+    A tool for managing Apache Kafka
     <sup>
      &#9733 2165, pushed 8 days ago
     </sup>
-    A tool for managing Apache Kafka
    </li>
    <li>
     <a href="https://github.com/SOHU-Co/kafka-node">
      kafka-node
     </a>
+    Node.js client for Apache Kafka 0.8
     <sup>
      &#9733 452, pushed 3 days ago
     </sup>
-    Node.js client for Apache Kafka 0.8
    </li>
    <li>
     <a href="https://github.com/pinterest/secor">
      Secor
     </a>
+    Pinterest's Kafka to S3 distributed consumer
     <sup>
      &#9733 615, pushed 1 days ago
     </sup>
-    Pinterest's Kafka to S3 distributed consumer
    </li>
    <li>
     <a href="https://github.com/uber/kafka-logger">
      Kafka-logger
     </a>
+    Kafka-winston logger for nodejs from uber
     <sup>
      &#9733 11, pushed 25 days ago
     </sup>
-    Kafka-winston logger for nodejs from uber
    </li>
   </ul>
  </li>
@@ -557,19 +557,19 @@
   <a href="https://github.com/mozilla-services/heka">
    Heka
   </a>
+  Data Acquisition and Processing Made Easy
   <sup>
    &#9733 3045, pushed 4 days ago
   </sup>
-  Data Acquisition and Processing Made Easy
  </li>
  <li>
   <a href="https://github.com/linkedin/gobblin">
    Gobblin
   </a>
+  Universal data ingestion framework for Hadoop from Linkedin
   <sup>
    &#9733 545, pushed 1 days ago
   </sup>
-  Universal data ingestion framework for Hadoop from Linkedin
  </li>
 </ul>
 <h1>
@@ -585,10 +585,10 @@
     <a href="https://github.com/spotify/snakebite">
      Snakebite
     </a>
+    A pure python HDFS client
     <sup>
      &#9733 430, pushed 25 days ago
     </sup>
-    A pure python HDFS client
    </li>
   </ul>
  </li>
@@ -601,10 +601,10 @@
     <a href="https://github.com/piskvorky/smart_open">
      smart_open
     </a>
+    Utils for streaming large files (S3, HDFS, gzip, bz2)
     <sup>
      &#9733 386, pushed 8 days ago
     </sup>
-    Utils for streaming large files (S3, HDFS, gzip, bz2)
    </li>
   </ul>
  </li>
@@ -630,10 +630,10 @@
   <a href="https://github.com/tuplejump/snackfs-release">
    SnackFS
   </a>
+  SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
   <sup>
    &#9733 14, pushed 299 days ago
   </sup>
-  SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
  </li>
  <li>
   <a href="http://www.gluster.org/">
@@ -651,10 +651,10 @@
   <a href="https://github.com/chrislusf/seaweedfs">
    SeaweedFS
   </a>
+  Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
   <sup>
    &#9733 2415, pushed 5 days ago
   </sup>
-  Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
  </li>
  <li>
   <a href="https://bitbucket.org/nikratio/s3ql">
@@ -683,10 +683,10 @@
     <a href="https://github.com/google/snappy">
      Snappy
     </a>
+    A fast compressor/decompressor. Used with Parquet
     <sup>
      &#9733 1121, pushed 28 days ago
     </sup>
-    A fast compressor/decompressor. Used with Parquet
    </li>
    <li>
     <a href="http://zlib.net/pigz/">
@@ -713,10 +713,10 @@ multi-processor, multi-core machines
   <a href="https://github.com/google/protobuf">
    ProtoBuf
   </a>
+  Protocol Buffers - Google's data interchange format
   <sup>
    &#9733 8709, pushed 2 days ago
   </sup>
-  Protocol Buffers - Google's data interchange format
  </li>
  <li>
   <a href="http://wiki.apache.org/hadoop/SequenceFile">
@@ -728,10 +728,10 @@ multi-processor, multi-core machines
   <a href="https://github.com/EsotericSoftware/kryo">
    Kryo
   </a>
+  Kryo is a fast and efficient object graph serialization framework for Java
   <sup>
    &#9733 1847, pushed 9 days ago
   </sup>
-  Kryo is a fast and efficient object graph serialization framework for Java
  </li>
 </ul>
 <h1>
@@ -777,10 +777,10 @@ multi-processor, multi-core machines
   <a href="https://github.com/pipelinedb/pipelinedb">
    PipelineDB
   </a>
+  The Streaming SQL Database https://www.pipelinedb.com
   <sup>
    &#9733 864, pushed 5 days ago
   </sup>
-  The Streaming SQL Database https://www.pipelinedb.com
  </li>
 </ul>
 <h1>
@@ -808,10 +808,10 @@ multi-processor, multi-core machines
     <a href="https://github.com/Stratio/deep-spark">
      Deep Spark
     </a>
+    Connecting Apache Spark with different data stores
     <sup>
      &#9733 174, pushed 292 days ago
     </sup>
-    Connecting Apache Spark with different data stores
    </li>
    <li>
     <a href="http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html">
@@ -910,19 +910,19 @@ multi-processor, multi-core machines
       <a href="https://github.com/myui/hivemall">
        Hivemall
       </a>
+      Scalable machine learning library for Hive/Hadoop.
       <sup>
        &#9733 391, pushed 2 days ago
       </sup>
-      Scalable machine learning library for Hive/Hadoop.
      </li>
      <li>
       <a href="https://github.com/dropbox/PyHive">
        PyHive
       </a>
+      Python interface to Hive and Presto.
       <sup>
        &#9733 179, pushed 22 days ago
       </sup>
-      Python interface to Hive and Presto.
      </li>
     </ul>
    </li>
@@ -981,19 +981,19 @@ multi-processor, multi-core machines
   <a href="https://github.com/stitchfix/pyxley">
    PyXley
   </a>
+  Python helpers for building dashboards using Flask and React
   <sup>
    &#9733 1426, pushed 43 days ago
   </sup>
-  Python helpers for building dashboards using Flask and React
  </li>
  <li>
   <a href="https://github.com/plotly/dash">
    Plotly
   </a>
+  Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
   <sup>
    &#9733 149, pushed 13 days ago
   </sup>
-  Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
  </li>
 </ul>
 <h1>
@@ -1004,25 +1004,25 @@ multi-processor, multi-core machines
   <a href="https://github.com/spotify/luigi">
    Luigi
   </a>
-  <sup>
-   &#9733 4510, pushed 1 days ago
-  </sup>
   Luigi is a Python module that helps you build complex pipelines of batch jobs.
   <ul>
    <li>
     <a href="https://github.com/seatgeek/cronq">
      CronQ
     </a>
-    <sup>
-     &#9733 35, pushed 25 days ago
-    </sup>
     An application cron-like system.
     <a href="http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/">
      Used
     </a>
     w/Luige
+    <sup>
+     &#9733 35, pushed 25 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 4510, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cascading.org/">
@@ -1034,10 +1034,10 @@ multi-processor, multi-core machines
   <a href="https://github.com/airbnb/airflow">
    Airflow
   </a>
+  Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
   <sup>
    &#9733 2594, pushed 2 days ago
   </sup>
-  Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
  </li>
  <li>
   <a href="https://azkaban.github.io/">
@@ -1060,28 +1060,28 @@ multi-processor, multi-core machines
   <a href="https://github.com/pblittle/docker-logstash">
    docker-logstash
   </a>
+  A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
   <sup>
    &#9733 227, pushed 134 days ago
   </sup>
-  A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
  </li>
  <li>
   <a href="https://github.com/jprante/elasticsearch-jdbc">
    elasticsearch-jdbc
   </a>
+  JDBC importer for Elasticsearch
   <sup>
    &#9733 1360, pushed 23 days ago
   </sup>
-  JDBC importer for Elasticsearch
  </li>
  <li>
   <a href="https://github.com/zombodb/zombodb">
    ZomboDB
   </a>
+  Postgres Extension that allows creating an index backed by Elasticsearch
   <sup>
    &#9733 716, pushed 2 days ago
   </sup>
-  Postgres Extension that allows creating an index backed by Elasticsearch
  </li>
 </ul>
 <h1>
@@ -1092,19 +1092,19 @@ multi-processor, multi-core machines
   <a href="https://github.com/aerofs/gockerize">
    Gockerize
   </a>
+  Package golang service into minimal docker containers
   <sup>
    &#9733 584, pushed 78 days ago
   </sup>
-  Package golang service into minimal docker containers
  </li>
  <li>
   <a href="https://github.com/ClusterHQ/flocker">
    Flocker
   </a>
+  Easily manage Docker containers & their data
   <sup>
    &#9733 2285, pushed 1 days ago
   </sup>
-  Easily manage Docker containers & their data
  </li>
  <li>
   <a href="http://rancher.com/rancher-os/">
@@ -1122,64 +1122,64 @@ multi-processor, multi-core machines
   <a href="https://github.com/weaveworks/weave">
    Weave
   </a>
+  Weaving Docker containers into applications http://www.weave.works/
   <sup>
    &#9733 4182, pushed 4 days ago
   </sup>
-  Weaving Docker containers into applications http://www.weave.works/
  </li>
  <li>
   <a href="https://github.com/CenturyLinkLabs/zodiac">
    Zodiac
   </a>
+  A lightweight tool for easy deployment and rollback of dockerized applications
   <sup>
    &#9733 133, pushed 259 days ago
   </sup>
-  A lightweight tool for easy deployment and rollback of dockerized applications
  </li>
  <li>
   <a href="https://github.com/google/cadvisor">
    cAdvisor
   </a>
+  Analyzes resource usage and performance characteristics of running containers
   <sup>
    &#9733 3861, pushed 2 days ago
   </sup>
-  Analyzes resource usage and performance characteristics of running containers
  </li>
  <li>
   <a href="https://github.com/shinymayhem/micro-s3-persistence">
    Micro S3 persistence
   </a>
+  Docker microservice for saving/restoring volume data to S3
   <sup>
    &#9733 8, pushed 391 days ago
   </sup>
-  Docker microservice for saving/restoring volume data to S3
  </li>
  <li>
   <a href="https://github.com/tutumcloud/dockup">
    Dockup
   </a>
+  Docker image to backup/restore your Docker container volumes to AWS S3
   <sup>
    &#9733 111, pushed 40 days ago
   </sup>
-  Docker image to backup/restore your Docker container volumes to AWS S3
  </li>
  <li>
   <a href="https://github.com/grammarly/rocker-compose">
    Rocker-compose
   </a>
+  Docker composition tool with idempotency features for deploying apps composed of multiple containers.
   <sup>
    &#9733 296, pushed 10 days ago
   </sup>
-  Docker composition tool with idempotency features for deploying apps composed of multiple containers.
  </li>
  <li>
   <a href="https://github.com/hashicorp/nomad">
    Nomad
   </a>
+  Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads
   <sup>
    &#9733 1537, pushed 1 days ago
   </sup>
-  Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads
  </li>
  <li>
   <a href="https://imagelayers.io/">
@@ -1217,10 +1217,10 @@ multi-processor, multi-core machines
   <a href="https://github.com/Interana/eventsim">
    Eventsim
   </a>
+  Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
   <sup>
    &#9733 125, pushed 5 days ago
   </sup>
-  Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
  </li>
  <li>
   <a href="https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/">
@@ -1263,19 +1263,19 @@ multi-processor, multi-core machines
   <a href="https://github.com/prometheus/prometheus">
    Prometheus.io
   </a>
+  An open-source service monitoring system and time series database
   <sup>
    &#9733 4515, pushed 2 days ago
   </sup>
-  An open-source service monitoring system and time series database
  </li>
  <li>
   <a href="https://github.com/prometheus/haproxy_exporter">
    HAProxy Exporter
   </a>
+  Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
   <sup>
    &#9733 38, pushed 5 days ago
   </sup>
-  Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
  </li>
 </ul>
 <p>

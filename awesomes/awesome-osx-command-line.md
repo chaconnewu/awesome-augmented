@@ -3161,10 +3161,10 @@ chsh -s $(brew --prefix)/bin/bash
   <a href="https://github.com/Bash-it/bash-it">
    Bash-it
   </a>
+  - Community Bash framework, like Oh My Zsh for Bash.
   <sup>
    &#9733 4477, pushed 4 days ago
   </sup>
-  - Community Bash framework, like Oh My Zsh for Bash.
  </li>
 </ul>
 <h4>
@@ -3197,10 +3197,10 @@ shell for OS X, Linux, and the rest of the family.
   <a href="https://github.com/oh-my-fish/oh-my-fish">
    The Fishshell Framework
   </a>
+  - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
   <sup>
    &#9733 952, pushed 5 days ago
   </sup>
-  - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
  </li>
 </ul>
 <h4>
@@ -3232,19 +3232,19 @@ chsh -s $(brew --prefix)/bin/zsh
   <a href="https://github.com/sorin-ionescu/prezto">
    Prezto
   </a>
+  - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
   <sup>
    &#9733 6108, pushed 6 days ago
   </sup>
-  - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
  </li>
  <li>
   <a href="https://github.com/tarjoilija/zgen">
    zgen
   </a>
+  - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
   <sup>
    &#9733 508, pushed 26 days ago
   </sup>
-  - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
  </li>
 </ul>
 <h3>
@@ -3261,10 +3261,10 @@ chsh -s $(brew --prefix)/bin/zsh
   <a href="https://github.com/chrissimpkins/codeface">
    Codeface
   </a>
+  - A gallery and repository of monospaced fonts for developers.
   <sup>
    &#9733 3139, pushed 28 days ago
   </sup>
-  - A gallery and repository of monospaced fonts for developers.
  </li>
  <li>
   <a href="http://dejavu-fonts.org/wiki/Main_Page">
@@ -3294,19 +3294,19 @@ chsh -s $(brew --prefix)/bin/zsh
   <a href="https://github.com/andreberg/Meslo-Font">
    Meslo
   </a>
+  - Customized version of Apple's Menlo font.
   <sup>
    &#9733 1468, pushed 242 days ago
   </sup>
-  - Customized version of Apple's Menlo font.
  </li>
  <li>
   <a href="https://github.com/powerline/fonts">
    Powerline Fonts
   </a>
+  - Repo of patched fonts for the Powerline plugin.
   <sup>
    &#9733 5063, pushed 17 days ago
   </sup>
-  - Repo of patched fonts for the Powerline plugin.
  </li>
  <li>
   <a href="https://adobe-fonts.github.io/source-code-pro/">

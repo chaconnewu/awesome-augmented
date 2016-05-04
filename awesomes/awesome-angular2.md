@@ -248,7 +248,7 @@
    Official GitHub Repo
   </a>
   <sup>
-   &#9733 11195, pushed 1 days ago
+   &#9733 11195, pushed 2 days ago
   </sup>
  </li>
 </ul>
@@ -652,11 +652,11 @@
     <a href="https://github.com/kasperpeulen/stagehand">
      kasperpeulen/stagehand
     </a>
-    <sup>
-     &#9733 1, pushed 95 days ago
-    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 1, pushed 95 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -730,10 +730,10 @@
   <a href="https://github.com/Microsoft/TypeScript">
    TypeScript Repository (GitHub)
   </a>
+  Official Github Repo for TypeScript
   <sup>
    &#9733 11210, pushed 2 days ago
   </sup>
-  Official Github Repo for TypeScript
  </li>
  <li>
   <a href="http://definitelytyped.org/tsd">
@@ -783,10 +783,10 @@
   <a href="https://github.com/thelgevold/angular-2-samples">
    Angular 2 Samples
   </a>
+  Angular 2.0 sample components
   <sup>
    &#9733 520, pushed 2 days ago
   </sup>
-  Angular 2.0 sample components
  </li>
 </ul>
 <h3>
@@ -849,10 +849,10 @@
   <a href="https://github.com/andresaraujo/ng2_dart_quickstart">
    Angular 2 Dart Quickstart
   </a>
+  A minimal quick start project.
   <sup>
    &#9733 3, pushed 134 days ago
   </sup>
-  A minimal quick start project.
  </li>
 </ul>
 <h4>
@@ -869,28 +869,28 @@
   <a href="https://github.com/ng2-dart-samples/pipes">
    Pipes
   </a>
+  Examples of Pipes in Angular 2 for Dart.
   <sup>
    &#9733 3, pushed 200 days ago
   </sup>
-  Examples of Pipes in Angular 2 for Dart.
  </li>
  <li>
   <a href="https://github.com/andresaraujo/ng2_hackernews">
    Hackernews App
   </a>
+  A HackerNews application made with Angular 2 for Dart
   <sup>
    &#9733 10, pushed 129 days ago
   </sup>
-  A HackerNews application made with Angular 2 for Dart
  </li>
  <li>
   <a href="https://github.com/andresaraujo/ng2_dart_router_demo">
    Router Demo
   </a>
+  A basic example of Angular 2 router.
   <sup>
    &#9733 0, pushed 134 days ago
   </sup>
-  A basic example of Angular 2 router.
  </li>
 </ul>
 <h3>
@@ -921,10 +921,10 @@
   <a href="https://github.com/babel/babel">
    Babel Repository (GitHub)
   </a>
+  Official Github Repo for Babel
   <sup>
    &#9733 15314, pushed 2 days ago
   </sup>
-  Official Github Repo for Babel
  </li>
 </ul>
 <h4>
@@ -938,10 +938,10 @@
   <a href="https://github.com/shuhei/babel-angular2-app">
    babel-angular2-app
   </a>
+  A skeleton Angular 2 app built with babel.
   <sup>
    &#9733 212, pushed 4 days ago
   </sup>
-  A skeleton Angular 2 app built with babel.
  </li>
 </ul>
 <h3>

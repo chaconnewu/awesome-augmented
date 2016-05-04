@@ -259,10 +259,10 @@
     <a href="https://github.com/noahbuscher/Flatron">
      Flatron
     </a>
+    - It's flat, purple, and hella sexy.
     <sup>
      &#9733 264, pushed 299 days ago
     </sup>
-    - It's flat, purple, and hella sexy.
    </li>
   </ul>
  </li>

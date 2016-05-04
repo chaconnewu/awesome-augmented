@@ -378,34 +378,34 @@
   <a href="https://github.com/bobogei81123/bcw_codebook">
    bobogei81123/bcw_codebook
   </a>
-  <sup>
-   &#9733 24, pushed 1 days ago
-  </sup>
   , by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
   <br/>
   bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
+  <sup>
+   &#9733 24, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SuprDewd/CompetitiveProgramming">
    SuprDewd/CompetitiveProgramming
   </a>
-  <sup>
-   &#9733 53, pushed 22 days ago
-  </sup>
   , by team viRUs from Reykjavik University
   <br/>
   One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
+  <sup>
+   &#9733 53, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/foreverbell/acm-icpc-cheat-sheet">
    foreverbell/acm-icpc-cheat-sheet
   </a>
-  <sup>
-   &#9733 30, pushed 22 days ago
-  </sup>
   , by foreverbell (foreverbell)
   <br/>
   A notebook with some advanced data structures and algorithms including some from the China informatics scene.
+  <sup>
+   &#9733 30, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.prefield.com/algorithm/">
@@ -597,10 +597,10 @@
     <a href="https://github.com/slycelote/caide">
      caide
     </a>
-    <sup>
-     &#9733 8, pushed 8 days ago
-    </sup>
     , for Visual Studio and CodeLite (C/C++/C#)
+    <sup>
+     &#9733 8, pushed 9 days ago
+    </sup>
    </li>
    <li>
     <a href="http://codeforces.com/blog/entry/13369">
@@ -619,9 +619,6 @@
     <a href="https://github.com/johnathan79717/codeforces-parser">
      Codeforces Parser
     </a>
-    <sup>
-     &#9733 18, pushed 26 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/sukeesh/GoCF">
@@ -635,12 +632,15 @@
     <a href="https://github.com/gnull/cfparser">
      cfparser
     </a>
+    , for emacs
     <sup>
      &#9733 6, pushed 51 days ago
     </sup>
-    , for emacs
    </li>
   </ul>
+  <sup>
+   &#9733 18, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://oeis.org/">
@@ -1146,9 +1146,6 @@
   <a href="https://github.com/nishanthvijayan/CoderCalendar">
    Coder's Calendar
   </a>
-  <sup>
-   &#9733 125, pushed 11 days ago
-  </sup>
   :
   <a href="https://play.google.com/store/apps/details?id=com.corphots.coderscalendar">
    Android App
@@ -1161,6 +1158,9 @@
   <a href="https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/">
    Firefox Add-on
   </a>
+  <sup>
+   &#9733 125, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.star-lord.me/CodeHorizon/">

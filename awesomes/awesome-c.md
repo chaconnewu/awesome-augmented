@@ -378,14 +378,14 @@
   <a href="https://github.com/AbsInt/CompCert">
    CompCert
   </a>
-  <sup>
-   &#9733 181, pushed 6 days ago
-  </sup>
   - A fully-verified C compiler. Supports almost all of C89.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   or later.
+  <sup>
+   &#9733 181, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gcc.gnu.org/">
@@ -460,23 +460,23 @@
   <a href="https://github.com/jedisct1/libsodium">
    libsodium
   </a>
-  <sup>
-   &#9733 2814, pushed 3 days ago
-  </sup>
   - A modern and easy-to-use crypto library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 2814, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libtom/libtomcrypt">
    libtomcrypt
   </a>
+  - A fairly comprehensive, modular and portable cryptographic toolkit. Public domain.
   <sup>
    &#9733 352, pushed 19 days ago
   </sup>
-  - A fairly comprehensive, modular and portable cryptographic toolkit. Public domain.
  </li>
  <li>
   <a href="https://tls.mbed.org/">
@@ -510,14 +510,14 @@
   <a href="https://github.com/redis/hiredis">
    Hiredis
   </a>
-  <sup>
-   &#9733 1907, pushed 13 days ago
-  </sup>
   - A minimalistic client library for Redis.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 1907, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://symas.com/mdb/">
@@ -543,9 +543,6 @@
   <a href="https://github.com/mongodb/mongo-c-driver">
    mongo-c-driver
   </a>
-  <sup>
-   &#9733 224, pushed 5 days ago
-  </sup>
   - A high-performance client library for
   <a href="https://www.mongodb.org/">
    MongoDB
@@ -555,6 +552,9 @@
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 224, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.postgresql.org/">
@@ -590,14 +590,14 @@
   <a href="https://github.com/pmwkaa/sophia">
    sophia
   </a>
-  <sup>
-   &#9733 1265, pushed 5 days ago
-  </sup>
   - A modern, embeddable key-value database.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 1265, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sqlite.org/">
@@ -803,14 +803,14 @@
   <a href="https://github.com/fragglet/c-algorithms">
    C Algorithms
   </a>
-  <sup>
-   &#9733 508, pushed 17 days ago
-  </sup>
   - A collection of common algorithms and data structures for C.
   <a href="http://directory.fsf.org/wiki/License:ISC">
    ISC
   </a>
   .
+  <sup>
+   &#9733 508, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.eso.org/sci/software/cpl/">
@@ -862,14 +862,14 @@
   <a href="https://github.com/keybuk/libnih">
    libnih
   </a>
-  <sup>
-   &#9733 26, pushed 876 days ago
-  </sup>
   - A lightweight library of C functions and structures.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 26, pushed 876 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.koanlogic.com/libu/">
@@ -899,9 +899,6 @@
   <a href="https://github.com/wolkykim/qlibc">
    qlibc
   </a>
-  <sup>
-   &#9733 181, pushed 138 days ago
-  </sup>
   - A simple and powerful C library, designed as a replacement for GLib while focusing on being small and light.
   <a href="https://github.com/wolkykim/qlibc/blob/master/LICENSE">
    qLib license
@@ -911,15 +908,18 @@
    FreeBSD
   </a>
   ).
+  <sup>
+   &#9733 181, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nothings/stb">
    stb
   </a>
+  - A range of single-file libraries for C. Public domain.
   <sup>
    &#9733 3498, pushed 5 days ago
   </sup>
-  - A range of single-file libraries for C. Public domain.
  </li>
 </ul>
 <h2>
@@ -936,14 +936,14 @@
   <a href="https://github.com/orangeduck/Corange">
    Corange
   </a>
-  <sup>
-   &#9733 436, pushed 3 days ago
-  </sup>
   - A game engine in pure C.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 436, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://icculus.org/twilight/darkplaces/">
@@ -959,14 +959,14 @@
   <a href="https://github.com/ioquake/ioq3">
    ioquake3
   </a>
-  <sup>
-   &#9733 509, pushed 17 days ago
-  </sup>
   - The Quake3 engine, freed at last.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 509, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/orx/orx">
@@ -982,40 +982,40 @@
   <a href="https://github.com/id-Software/Quake">
    Quake
   </a>
-  <sup>
-   &#9733 1167, pushed 1554 days ago
-  </sup>
   - The Quake engine.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 1167, pushed 1554 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/Quake-2">
    Quake2
   </a>
-  <sup>
-   &#9733 601, pushed 1554 days ago
-  </sup>
   - The Quake2 engine.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 601, pushed 1554 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zturtleman/spearmint">
    Spearmint
   </a>
-  <sup>
-   &#9733 49, pushed 7 days ago
-  </sup>
   - An engine designed for FPS games.
   <a href="http://www.gnu.org/licenses/gpl.html">
    GNU GPL3
   </a>
   or later.
+  <sup>
+   &#9733 49, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1039,14 +1039,14 @@
   <a href="https://github.com/slembcke/Chipmunk2D">
    Chipmunk2D
   </a>
-  <sup>
-   &#9733 807, pushed 35 days ago
-  </sup>
   - A fast and lightweight 2D game physics library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 807, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sfml-dev.org/download/csfml/">
@@ -1066,14 +1066,14 @@
   <a href="https://github.com/dcnieho/FreeGLUT">
    FreeGLUT
   </a>
-  <sup>
-   &#9733 118, pushed 72 days ago
-  </sup>
   - An alternative to the OpenGL Utility Toolkit. Allows the creation and management of windows with OpenGL contexts.
   <a href="http://directory.fsf.org/wiki/License:X11">
    X11
   </a>
   .
+  <sup>
+   &#9733 118, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.glfw.org/">
@@ -1089,22 +1089,19 @@
   <a href="https://github.com/timonwong/libao">
    libao
   </a>
-  <sup>
-   &#9733 3, pushed 1045 days ago
-  </sup>
   - A cross-platform audio library with a wide variety of outputs.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   or later.
+  <sup>
+   &#9733 3, pushed 1045 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libretro/RetroArch">
    RetroArch
   </a>
-  <sup>
-   &#9733 1082, pushed 2 days ago
-  </sup>
   - The reference frontend for
   <a href="http://www.libretro.com/">
    libretro
@@ -1114,6 +1111,9 @@
    GNU GPL3
   </a>
   only.
+  <sup>
+   &#9733 1082, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.libsdl.org/">
@@ -1143,14 +1143,14 @@
   <a href="https://github.com/attractivechaos/klib">
    klib
   </a>
-  <sup>
-   &#9733 1364, pushed 72 days ago
-  </sup>
   - Small and lightweight implementations of common algorithms and data structures.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 1364, pushed 72 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1203,27 +1203,27 @@
   <a href="https://github.com/prideout/heman">
    heman
   </a>
-  <sup>
-   &#9733 259, pushed 161 days ago
-  </sup>
   - A tiny library of image utilities dealing with height maps, normal maps, distance fields and the like.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 259, pushed 161 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cacalabs/libcaca">
    libcaca
   </a>
-  <sup>
-   &#9733 51, pushed 36 days ago
-  </sup>
   - An ASCII renderer for terminal-based interfaces.
   <a href="http://www.wtfpl.net/txt/copying/">
    WTFPLv2
   </a>
   .
+  <sup>
+   &#9733 51, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pngquant.org/lib/">
@@ -1269,14 +1269,14 @@
   <a href="https://github.com/mozilla/mozjpeg">
    mozjpeg
   </a>
-  <sup>
-   &#9733 1949, pushed 37 days ago
-  </sup>
   - An improved JPEG encoder.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 1949, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.opengl.org/">
@@ -1772,13 +1772,13 @@
   <a href="https://github.com/zeromq/czmq">
    czmq
   </a>
-  <sup>
-   &#9733 466, pushed 4 days ago
-  </sup>
   - A high-level binding for ZeroMQ.
   <a href="https://www.gnu.org/licenses/license-list.html#MPL-2.0">
    MPL2.0
   </a>
+  <sup>
+   &#9733 466, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gnu.org/software/adns/">
@@ -1814,27 +1814,27 @@
   <a href="https://github.com/google/gumbo-parser">
    gumbo-parser
   </a>
-  <sup>
-   &#9733 3650, pushed 152 days ago
-  </sup>
   - An HTML5 parsing library in C99.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 3650, pushed 152 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nodejs/http-parser">
    http-parser
   </a>
-  <sup>
-   &#9733 2639, pushed 8 days ago
-  </sup>
   - An HTTP request/response parser.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 2639, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.nlnetlabs.nl/projects/ldns/index.html">
@@ -1859,14 +1859,14 @@
   <a href="https://github.com/dinhviethoa/libetpan">
    LibEtPan
   </a>
-  <sup>
-   &#9733 381, pushed 2 days ago
-  </sup>
   - A mail library providing an efficient network for IMAP, SMTP, POP and NNTP.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 381, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://software.schmorp.de/pkg/libev.html">
@@ -1942,53 +1942,53 @@
   <a href="https://github.com/lpereira/lwan">
    lwan
   </a>
-  <sup>
-   &#9733 3389, pushed 1 days ago
-  </sup>
   - An experimental, scalable, high-performance HTTP server.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 3389, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cesanta/mongoose">
    mongoose
   </a>
-  <sup>
-   &#9733 2638, pushed 4 days ago
-  </sup>
   - Embedded web server for C.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 2638, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nanomsg/nanomsg">
    nanomsg
   </a>
-  <sup>
-   &#9733 2742, pushed 2 days ago
-  </sup>
   - A C-based implementation of ZeroMQ.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 2742, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidmoreno/onion">
    onion
   </a>
-  <sup>
-   &#9733 1013, pushed 1 days ago
-  </sup>
   - HTTP server library, designed to be easy to use.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 1013, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.openssl.org/">
@@ -2013,66 +2013,66 @@
   <a href="https://github.com/rafael-santiago/pig">
    pig
   </a>
-  <sup>
-   &#9733 236, pushed 2 days ago
-  </sup>
   - A Linux packet crafting tool.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GPL2
   </a>
   .
+  <sup>
+   &#9733 236, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/s2n">
    s2n
   </a>
-  <sup>
-   &#9733 2275, pushed 13 days ago
-  </sup>
   - A C99 implementation of the TLS/SSL protocols, designed to be simple, fast and with security as a priority.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 2275, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/silentbicycle/socket99">
    socket99
   </a>
-  <sup>
-   &#9733 71, pushed 196 days ago
-  </sup>
   - A C99 wrapper for the BSD sockets API.
   <a href="http://directory.fsf.org/wiki/License:ISC">
    ISC
   </a>
   .
+  <sup>
+   &#9733 71, pushed 196 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/irungentoo/toxcore">
    Tox
   </a>
-  <sup>
-   &#9733 7849, pushed 1 days ago
-  </sup>
   - A communication platform, designed to be a Skype-killer.
   <a href="http://www.gnu.org/licenses/gpl.html">
    GNU GPL3
   </a>
   only.
+  <sup>
+   &#9733 7849, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sinemetu1/twitc">
    twitc
   </a>
-  <sup>
-   &#9733 17, pushed 466 days ago
-  </sup>
   - A mini C library for interacting with the Twitter OAuth API.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 17, pushed 466 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2083,14 +2083,14 @@
   <a href="https://github.com/balde/balde">
    balde
   </a>
-  <sup>
-   &#9733 42, pushed 135 days ago
-  </sup>
   - A microframework for C based on GLib.
   <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
    GNU LGPLv2.1
   </a>
   only.
+  <sup>
+   &#9733 42, pushed 135 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2101,14 +2101,14 @@
   <a href="https://github.com/b-k/apophenia">
    apophenia
   </a>
-  <sup>
-   &#9733 90, pushed 8 days ago
-  </sup>
   - A library for statistical and scientific computing.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 90, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://math-atlas.sourceforge.net/">
@@ -2306,14 +2306,14 @@
   <a href="https://github.com/concurrencykit/ck">
    ck
   </a>
-  <sup>
-   &#9733 887, pushed 46 days ago
-  </sup>
   - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 887, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="http://libmill.org/">
@@ -2345,14 +2345,14 @@
   <a href="https://github.com/open-mpi/ompi">
    OpenMPI
   </a>
-  <sup>
-   &#9733 171, pushed 1 days ago
-  </sup>
   - A message passing interface implementation.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 171, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.mcs.anl.gov/petsc/">
@@ -2424,14 +2424,14 @@
   <a href="https://github.com/cesanta/slre">
    SLRE
   </a>
-  <sup>
-   &#9733 269, pushed 40 days ago
-  </sup>
   - Super Light Regular Expression library; a very small implementation of a subset of Perl regex syntax.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 269, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/laurikari/tre/">
@@ -2452,22 +2452,19 @@
   <a href="https://github.com/jmckaskill/c-capnproto">
    c-capnproto
   </a>
-  <sup>
-   &#9733 51, pushed 6 days ago
-  </sup>
   - An implementation of the Cap'n Proto serialization protocol.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 51, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/camgunz/cmp">
    cmp
   </a>
-  <sup>
-   &#9733 102, pushed 21 days ago
-  </sup>
   - An implementation of the
   <a href="http://msgpack.org/">
    MessagePack
@@ -2477,6 +2474,9 @@
    Expat
   </a>
   .
+  <sup>
+   &#9733 102, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c">
@@ -2492,9 +2492,6 @@
   <a href="https://github.com/ludocode/mpack">
    mpack
   </a>
-  <sup>
-   &#9733 34, pushed 2 days ago
-  </sup>
   - Another implementation of the
   <a href="http://msgpack.org/">
    MessagePack
@@ -2504,19 +2501,22 @@
    Expat
   </a>
   .
+  <sup>
+   &#9733 34, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/protobuf-c/protobuf-c">
    protobuf-c
   </a>
-  <sup>
-   &#9733 461, pushed 1 days ago
-  </sup>
   - An implementation of Google Protocol Buffer in C.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 461, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://en.wikipedia.org/wiki/External_Data_Representation">
@@ -2546,9 +2546,6 @@
   <a href="https://github.com/clibs/clib">
    clib
   </a>
-  <sup>
-   &#9733 2051, pushed 29 days ago
-  </sup>
   - Something of a package manager for C. Comes with a
   <a href="https://github.com/clibs/clib/wiki/Packages">
    bunch of libraries of its own
@@ -2558,6 +2555,9 @@
    Expat
   </a>
   .
+  <sup>
+   &#9733 2051, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.gnu.org/software/gnulib/">
@@ -2583,14 +2583,14 @@
   <a href="https://github.com/android/platform_bionic">
    Bionic
   </a>
-  <sup>
-   &#9733 252, pushed 2 days ago
-  </sup>
   - Google's C standard library, developed for Android.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 252, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.fefe.de/dietlibc/">
@@ -2683,9 +2683,6 @@
   <a href="https://github.com/antirez/sds">
    SDS
   </a>
-  <sup>
-   &#9733 1563, pushed 46 days ago
-  </sup>
   - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via
   <a href="https://github.com/clibs/clib">
    clib
@@ -2695,32 +2692,35 @@
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 1563, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ed-von-Schleck/shoco">
    shoco
   </a>
-  <sup>
-   &#9733 104, pushed 58 days ago
-  </sup>
   - A compressor for small text strings.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 104, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antirez/smaz">
    smaz
   </a>
-  <sup>
-   &#9733 446, pushed 94 days ago
-  </sup>
   - An efficient string compression library.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 446, pushed 94 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2731,14 +2731,14 @@
   <a href="https://github.com/Tuplanolla/cheat">
    CHEAT
   </a>
-  <sup>
-   &#9733 120, pushed 372 days ago
-  </sup>
   - A very simple unit testing framework.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 120, pushed 372 days ago
+  </sup>
  </li>
  <li>
   <a href="http://check.sourceforge.net/">
@@ -2754,14 +2754,14 @@
   <a href="https://github.com/ThrowTheSwitch/CMock">
    CMock
   </a>
-  <sup>
-   &#9733 84, pushed 12 days ago
-  </sup>
   - A mock/stub generator for C.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 84, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://cmocka.org/">
@@ -2777,14 +2777,14 @@
   <a href="https://github.com/Snaipe/Criterion">
    Criterion
   </a>
-  <sup>
-   &#9733 277, pushed 6 days ago
-  </sup>
   - A KISS, non-intrusive C test framework.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 277, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cunit.sourceforge.net/">
@@ -2800,40 +2800,40 @@
   <a href="https://github.com/rafael-santiago/cutest">
    Cutest
   </a>
-  <sup>
-   &#9733 14, pushed 211 days ago
-  </sup>
   - Library for unit testing with memory leak detection (Linux, freeBSD and Windows).
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GPL2
   </a>
   .
+  <sup>
+   &#9733 14, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/siu/minunit">
    minunit
   </a>
-  <sup>
-   &#9733 101, pushed 9 days ago
-  </sup>
   - Minimal unit testing framework for C.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 101, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ThrowTheSwitch/Unity">
    Unity
   </a>
-  <sup>
-   &#9733 340, pushed 6 days ago
-  </sup>
   - A simple unit testing framework for C.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 340, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2860,27 +2860,27 @@
   <a href="https://github.com/flycheck/flycheck">
    Flycheck
   </a>
-  <sup>
-   &#9733 989, pushed 3 days ago
-  </sup>
   - Modern syntax checking. For C, it can use either GCC or Clang as a back-end.
   <a href="http://www.gnu.org/licenses/gpl.html">
    GNU GPL3
   </a>
   or later.
+  <sup>
+   &#9733 989, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/capitaomorte/yasnippet">
    Yasnippet
   </a>
-  <sup>
-   &#9733 1223, pushed 2 days ago
-  </sup>
   - A template system, with C templates for common code snippets.
   <a href="http://www.gnu.org/licenses/gpl.html">
    GNU GPL3
   </a>
   or later.
+  <sup>
+   &#9733 1223, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2891,14 +2891,14 @@
   <a href="https://github.com/scrooloose/syntastic">
    Syntastic
   </a>
-  <sup>
-   &#9733 6546, pushed 1 days ago
-  </sup>
   - Syntax checking and linting.
   <a href="https://github.com/scrooloose/syntastic/blob/master/LICENCE">
    Do What The Fuck You Want To license
   </a>
   .
+  <sup>
+   &#9733 6546, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://valloric.github.io/YouCompleteMe/">
@@ -2936,14 +2936,14 @@
   <a href="https://github.com/google/sanitizers">
    address-sanitizer
   </a>
-  <sup>
-   &#9733 547, pushed 20 days ago
-  </sup>
   - A fast memory error detector.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 547, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://biicode.github.io/biicode/">
@@ -2959,27 +2959,27 @@
   <a href="https://github.com/ryanmjacobs/c">
    c
   </a>
-  <sup>
-   &#9733 1345, pushed 85 days ago
-  </sup>
   - Compile and execute C "scripts" in one go on the command line. Also has shebang support.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 1345, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RhysU/c99sh">
    c99sh
   </a>
-  <sup>
-   &#9733 28, pushed 226 days ago
-  </sup>
   - Run C files using hash-bang.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 28, pushed 226 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cprover.org/cbmc/">
@@ -2995,10 +2995,10 @@
   <a href="https://github.com/mpv-player/mpv">
    cdecl
   </a>
+  - An online service to translate C declarations into English and vice versa. Public domain.
   <sup>
    &#9733 3378, pushed 2 days ago
   </sup>
-  - An online service to translate C declarations into English and vice versa. Public domain.
  </li>
  <li>
   <a href="https://www.flourish.org/cinclude2dot/">
@@ -3090,14 +3090,14 @@
   <a href="https://github.com/include-what-you-use/include-what-you-use">
    include-what-you-use
   </a>
-  <sup>
-   &#9733 428, pushed 2 days ago
-  </sup>
   - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (and only works with it).
   <a href="http://directory.fsf.org/wiki/License:IllinoisNCSA">
    NCSA
   </a>
   .
+  <sup>
+   &#9733 428, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.gnu.org/software/indent/">
@@ -3123,14 +3123,14 @@
   <a href="https://github.com/andlabs/qo">
    qo
   </a>
-  <sup>
-   &#9733 229, pushed 160 days ago
-  </sup>
   - A build system that works without a separate config file.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 229, pushed 160 days ago
+  </sup>
  </li>
  <li>
   <a href="http://rr-project.org/">
@@ -3208,14 +3208,14 @@
   <a href="https://github.com/liuliu/ccv">
    ccv
   </a>
-  <sup>
-   &#9733 5192, pushed 1 days ago
-  </sup>
   - C-based/Cached/Core Computer Vision library; modern computer vision.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 5192, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://fakenmc.github.io/cf4ocl/">
@@ -3239,40 +3239,40 @@
   <a href="https://github.com/jgm/CommonMark">
    CommonMark
   </a>
-  <sup>
-   &#9733 3053, pushed 28 days ago
-  </sup>
   - A C implementation of the CommonMark spec.
   <a href="https://github.com/jgm/CommonMark/blob/master/LICENSE">
    Variety of licenses, all free
   </a>
   .
+  <sup>
+   &#9733 3053, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ThrowTheSwitch/CException">
    CException
   </a>
-  <sup>
-   &#9733 33, pushed 14 days ago
-  </sup>
   - A C implementation of exceptions.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 33, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/docopt/docopt.c">
    docopt.c
   </a>
-  <sup>
-   &#9733 191, pushed 9 days ago
-  </sup>
   - A C implementation of a command-line option parser.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 191, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.dyncall.org/">
@@ -3352,27 +3352,27 @@
   <a href="https://github.com/gperftools/gperftools">
    gperftools
   </a>
-  <sup>
-   &#9733 668, pushed 18 days ago
-  </sup>
   - A collection of utilities for measuring and improving performance.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 668, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/abiggerhammer/hammer">
    hammer
   </a>
-  <sup>
-   &#9733 140, pushed 68 days ago
-  </sup>
   - Parser combinators for binary formats.
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 140, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.hboehm.info/gc/">
@@ -3384,23 +3384,23 @@
   <a href="https://github.com/adamierymenko/huffandpuff">
    huffandpuff
   </a>
+  - A minimal Huffman encoder and decoder. Public domain.
   <sup>
    &#9733 32, pushed 1054 days ago
   </sup>
-  - A minimal Huffman encoder and decoder. Public domain.
  </li>
  <li>
   <a href="https://github.com/ndevilla/iniparser">
    iniparser
   </a>
-  <sup>
-   &#9733 203, pushed 6 days ago
-  </sup>
   - A parser for .ini files.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 203, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.canonware.com/jemalloc/">
@@ -3416,27 +3416,27 @@
   <a href="https://github.com/watmough/jwHash">
    jwHash
   </a>
-  <sup>
-   &#9733 184, pushed 349 days ago
-  </sup>
   - A fast hashtable implementation.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 184, pushed 349 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jtsiomb/kdtree">
    kdtree
   </a>
-  <sup>
-   &#9733 58, pushed 167 days ago
-  </sup>
   - A simple library for working with KD-trees.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 58, pushed 167 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kitsune-dsu.com/">
@@ -3462,14 +3462,14 @@
   <a href="https://github.com/mongodb/libbson">
    libbson
   </a>
-  <sup>
-   &#9733 188, pushed 7 days ago
-  </sup>
   - A BSON utility library.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
+  <sup>
+   &#9733 188, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://libcello.org/">
@@ -3495,14 +3495,14 @@
   <a href="https://github.com/libffi/libffi">
    libffi
   </a>
-  <sup>
-   &#9733 516, pushed 2 days ago
-  </sup>
   - A portable foreign-function interface library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 516, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://libgit2.github.com/">
@@ -3518,9 +3518,6 @@
   <a href="https://github.com/libimobiledevice/libimobiledevice">
    libimobiledevice
   </a>
-  <sup>
-   &#9733 926, pushed 4 days ago
-  </sup>
   - A cross-platform protocol library to communicate with iThings.
   <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
    GNU LGPLv2.1
@@ -3530,14 +3527,14 @@
    GNU GPL2.1
   </a>
   or later (tools).
+  <sup>
+   &#9733 926, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mpv-player/mpv">
    libmpv
   </a>
-  <sup>
-   &#9733 3378, pushed 2 days ago
-  </sup>
   - A music-playing library. Compile with
   <code>
    ./waf configure --disable-cplayer --enable-libmpv-shared
@@ -3547,19 +3544,22 @@
    GNU GPL2.1
   </a>
   or later.
+  <sup>
+   &#9733 3378, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nfc-tools/libnfc">
    libnfc
   </a>
-  <sup>
-   &#9733 108, pushed 5 days ago
-  </sup>
   - A platform-independent Near-Field Communication library.
   <a href="http://www.gnu.org/licenses/lgpl.html">
    GNU LGPL3
   </a>
   only.
+  <sup>
+   &#9733 108, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://facebook.github.io/libphenom/index.html">
@@ -3575,40 +3575,40 @@
   <a href="https://github.com/andrewrk/libsoundio">
    libsoundio
   </a>
-  <sup>
-   &#9733 404, pushed 2 days ago
-  </sup>
   - A library for cross-platform, real-time audio input and output. Has a range of back-ends.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 404, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vstakhov/libucl">
    libucl
   </a>
-  <sup>
-   &#9733 628, pushed 5 days ago
-  </sup>
   - A universal configuration library parser.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 628, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libuv/libuv">
    libuv
   </a>
-  <sup>
-   &#9733 3793, pushed 4 days ago
-  </sup>
   - Cross-platform asynchronous I/O.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 3793, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.pyyaml.org/wiki/LibYAML">
@@ -3634,14 +3634,14 @@
   <a href="https://github.com/orangeduck/mpc">
    mpc
   </a>
-  <sup>
-   &#9733 907, pushed 14 days ago
-  </sup>
   - A parser combinator library.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
+  <sup>
+   &#9733 907, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gnu.org/software/ncurses/">
@@ -3657,35 +3657,32 @@
   <a href="https://github.com/riolet/WAFer">
    nope.c
   </a>
-  <sup>
-   &#9733 497, pushed 114 days ago
-  </sup>
   - A C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers).
   <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">
    GNU GPL2.1
   </a>
   only.
+  <sup>
+   &#9733 497, pushed 115 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cloudwu/pbc">
    pbc
   </a>
-  <sup>
-   &#9733 697, pushed 41 days ago
-  </sup>
   - A protocol buffers library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 697, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alanxz/rabbitmq-c">
    rabbitmq-c
   </a>
-  <sup>
-   &#9733 487, pushed 11 days ago
-  </sup>
   - A client library for
   <a href="http://www.rabbitmq.com/">
    RabbitMQ
@@ -3695,6 +3692,9 @@
    Expat
   </a>
   .
+  <sup>
+   &#9733 487, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.colm.net/open-source/ragel/">
@@ -3719,27 +3719,27 @@
   <a href="https://github.com/eatonphil/Viola">
    Viola
   </a>
-  <sup>
-   &#9733 32, pushed 475 days ago
-  </sup>
   - A simplification of libCello.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
+  <sup>
+   &#9733 32, pushed 475 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madler/zlib">
    zlib
   </a>
-  <sup>
-   &#9733 545, pushed 23 days ago
-  </sup>
   - A massively-spiffy yet delicately-unobtrusive compression library.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
+  <sup>
+   &#9733 545, pushed 23 days ago
+  </sup>
  </li>
 </ul>
 <h2>

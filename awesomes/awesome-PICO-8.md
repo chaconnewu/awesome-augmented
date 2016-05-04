@@ -204,10 +204,10 @@
   <a href="https://github.com/ftsf/picolove">
    PicoLove
   </a>
+  - Pico-8 Reimplementation in LÖVE.
   <sup>
    &#9733 62, pushed 121 days ago
   </sup>
-  - Pico-8 Reimplementation in LÖVE.
  </li>
  <li>
   <a href="http://www.lexaloffle.com/bbs/?tid=2462">
@@ -219,10 +219,10 @@
   <a href="https://github.com/briacp/pico2png">
    pico2png
   </a>
+  - Spritesheet extraction written in perl.
   <sup>
    &#9733 7, pushed 204 days ago
   </sup>
-  - Spritesheet extraction written in perl.
  </li>
  <li>
   <a href="https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/">
@@ -234,37 +234,37 @@
   <a href="https://github.com/josefnpat/pico8utils">
    Pico8Utils
   </a>
+  - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
   <sup>
    &#9733 9, pushed 190 days ago
   </sup>
-  - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
  </li>
  <li>
   <a href="https://github.com/dansanderson/picotool">
    picotool
   </a>
+  -  Tools and Python libraries for manipulating Pico-8 game files.
   <sup>
    &#9733 26, pushed 172 days ago
   </sup>
-  -  Tools and Python libraries for manipulating Pico-8 game files.
  </li>
  <li>
   <a href="https://github.com/franciscod/p8dl">
    p8dl
   </a>
-  <sup>
-   &#9733 3, pushed 166 days ago
-  </sup>
   - Downloads cartridges into the correct folder (looks at your config.txt).
+  <sup>
+   &#9733 3, pushed 167 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benwiley4000/pico8-responsive-webplayer-transform">
    p8 responsive webplayer transform
   </a>
+  - Python script that makes your HTML export page responsive.
   <sup>
    &#9733 3, pushed 33 days ago
   </sup>
-  - Python script that makes your HTML export page responsive.
  </li>
 </ul>
 <h2>

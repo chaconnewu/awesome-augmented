@@ -357,10 +357,10 @@
   <a href="https://github.com/ruby/rake">
    Rake
   </a>
+  - Build automation tool similar to Make, written in and extensible in Ruby.
   <sup>
    &#9733 591, pushed 14 days ago
   </sup>
-  - Build automation tool similar to Make, written in and extensible in Ruby.
  </li>
 </ul>
 <h2>
@@ -394,14 +394,14 @@
   <a href="https://github.com/borgbackup/borg">
    BorgBackup
   </a>
-  <sup>
-   &#9733 1106, pushed 2 days ago
-  </sup>
   - A fork of
   <a href="https://attic-backup.org">
    Attic
   </a>
   deduplicating backup program written in Python.
+  <sup>
+   &#9733 1106, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://brebisproject.org">
@@ -425,19 +425,19 @@
   <a href="https://github.com/elkarbackup/elkarbackup">
    Elkarbackup
   </a>
+  - Backup solution based on RSnapshot with a simple web interface
   <sup>
    &#9733 39, pushed 3 days ago
   </sup>
-  - Backup solution based on RSnapshot with a simple web interface
  </li>
  <li>
   <a href="https://github.com/axkibe/lsyncd">
    Lsyncd
   </a>
+  - File Monitor which spawns a process to synchronize the changes (rsync by default).
   <sup>
    &#9733 1532, pushed 61 days ago
   </sup>
-  - File Monitor which spawns a process to synchronize the changes (rsync by default).
  </li>
  <li>
   <a href="http://obnam.org/">
@@ -473,10 +473,10 @@
   <a href="https://github.com/dojo4/drebs">
    DREBS
   </a>
+  - AWS EBS backup script that supports strategies.
   <sup>
    &#9733 29, pushed 544 days ago
   </sup>
-  - AWS EBS backup script that supports strategies.
  </li>
  <li>
   <a href="http://zbackup.org/">
@@ -530,10 +530,10 @@
   <a href="https://github.com/CloudBotIRC/CloudBot">
    CloudBot
   </a>
+  - The simple, fast, expandable Python IRC bot.
   <sup>
    &#9733 120, pushed 3 days ago
   </sup>
-  - The simple, fast, expandable Python IRC bot.
  </li>
  <li>
   <a href="http://www.eggheads.org/">
@@ -557,10 +557,10 @@
   <a href="https://github.com/djosephsen/lazlo">
    Lazlo
   </a>
+  - A chatops automation framework in Go.
   <sup>
    &#9733 55, pushed 81 days ago
   </sup>
-  - A chatops automation framework in Go.
  </li>
  <li>
   <a href="https://www.lita.io/">
@@ -649,10 +649,10 @@
   <a href="https://github.com/AppScale/appscale">
    AppScale
   </a>
+  - Cloud software with Google App Engine compatibility.
   <sup>
    &#9733 2146, pushed 1 days ago
   </sup>
-  - Cloud software with Google App Engine compatibility.
  </li>
  <li>
   <a href="http://archipelproject.org/">
@@ -952,19 +952,19 @@
   <a href="https://github.com/allegro/ralph">
    Ralph
   </a>
+  - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
   <sup>
    &#9733 411, pushed 4 days ago
   </sup>
-  - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
  </li>
  <li>
   <a href="https://github.com/clusto/clusto">
    Clusto
   </a>
+  - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
   <sup>
    &#9733 140, pushed 147 days ago
   </sup>
-  - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
  </li>
  <li>
   <a href="http://tumblr.github.io/collins/">
@@ -1044,10 +1044,10 @@
   <a href="https://github.com/drone/drone">
    Drone
   </a>
+  - Continuous integration server built on Docker and configured using YAML files.
   <sup>
    &#9733 6750, pushed 1 days ago
   </sup>
-  - Continuous integration server built on Docker and configured using YAML files.
  </li>
  <li>
   <a href="https://about.gitlab.com/gitlab-ci/">
@@ -1119,10 +1119,10 @@
     <a href="https://github.com/odoucet/pdns-gui">
      PDNS Gui
     </a>
+    - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     <sup>
      &#9733 12, pushed 104 days ago
     </sup>
-    - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
    </li>
    <li>
     <a href="http://www.poweradmin.org/">
@@ -1257,10 +1257,10 @@
   <a href="https://github.com/seattlerb/vlad">
    Vlad the Deployer
   </a>
+  - Deployment automation (rake based).
   <sup>
    &#9733 330, pushed 33 days ago
   </sup>
-  - Deployment automation (rake based).
  </li>
 </ul>
 <h2>
@@ -1458,10 +1458,10 @@
   <a href="https://github.com/jdleesmiller/jotgit">
    jotgit
   </a>
+  - Git-backed real-time collaborative code editing.
   <sup>
    &#9733 141, pushed 649 days ago
   </sup>
-  - Git-backed real-time collaborative code editing.
  </li>
  <li>
   <a href="https://www.kdevelop.org/">
@@ -1744,10 +1744,10 @@
   <a href="https://github.com/guardian/alerta">
    Alerta
   </a>
+  - Distributed, scaleable and flexible monitoring system.
   <sup>
    &#9733 506, pushed 5 days ago
   </sup>
-  - Distributed, scaleable and flexible monitoring system.
  </li>
  <li>
   <a href="http://bosun.org/">
@@ -1785,9 +1785,6 @@
   <a href="https://github.com/google/cadvisor">
    cadvisor
   </a>
-  <sup>
-   &#9733 3861, pushed 2 days ago
-  </sup>
   - Analyzes resource usage and performance characteristics of running containers (
   <a href="https://github.com/google/cadvisor">
    Source Code
@@ -1799,6 +1796,9 @@
   <code>
    Go
   </code>
+  <sup>
+   &#9733 3861, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://mathias-kettner.com/check_mk.html">
@@ -1810,10 +1810,10 @@
   <a href="https://github.com/afaqurk/linux-dash">
    Dash
   </a>
+  - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   <sup>
    &#9733 6905, pushed 4 days ago
   </sup>
-  - A low-overhead monitoring web dashboard for a GNU/Linux machine.
  </li>
  <li>
   <a href="http://flapjack.io/">
@@ -1868,10 +1868,10 @@
   <a href="https://github.com/eleme/bell.js">
    Node-Bell
   </a>
+  - Real-time anomalies detection for periodic time series, metrics monitor.
   <sup>
    &#9733 271, pushed 98 days ago
   </sup>
-  - Real-time anomalies detection for periodic time series, metrics monitor.
  </li>
  <li>
   <a href="http://www.observium.org/">
@@ -1895,11 +1895,11 @@
   <a href="https://github.com/Jahaja/psdash">
    psdash
   </a>
+  - A linux system information web dashboard using psut
+ils and flask.
   <sup>
    &#9733 1724, pushed 153 days ago
   </sup>
-  - A linux system information web dashboard using psut
-ils and flask.
  </li>
  <li>
   <a href="https://k3oni.github.io/pydash/">
@@ -1929,19 +1929,19 @@ ils and flask.
   <a href="https://github.com/BotoX/ServerStatus">
    ServerStatus BotoX
   </a>
+  - Display and monitor your servers statistics in a beatiful way.
   <sup>
    &#9733 87, pushed 119 days ago
   </sup>
-  - Display and monitor your servers statistics in a beatiful way.
  </li>
  <li>
   <a href="https://github.com/mojeda/ServerStatus">
    ServerStatus moejda
   </a>
+  - Server Status website script, displays uptime (days), free RAM, free HDD
   <sup>
    &#9733 215, pushed 61 days ago
   </sup>
-  - Server Status website script, displays uptime (days), free RAM, free HDD
  </li>
  <li>
   <a href="http://www.shinken-monitoring.org/">
@@ -1998,9 +1998,6 @@ ils and flask.
     <a href="https://github.com/BrightcoveOS/Diamond">
      Diamond
     </a>
-    <sup>
-     &#9733 1258, pushed 20 days ago
-    </sup>
     - Python based statistic collection daemon.
    </li>
    <li>
@@ -2028,6 +2025,9 @@ ils and flask.
     - System statistic collection daemon written in Python for OpenTSDB
    </li>
   </ul>
+  <sup>
+   &#9733 1258, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2068,10 +2068,10 @@ ils and flask.
     <a href="https://github.com/Freeboard/freeboard">
      Freeboard
     </a>
+    - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
     <sup>
      &#9733 3054, pushed 7 days ago
     </sup>
-    - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
    </li>
    <li>
     <a href="http://netdata.firehol.org/">
@@ -2096,10 +2096,10 @@ ils and flask.
     <a href="https://github.com/kairosdb/kairosdb">
      KairosDB
     </a>
+    - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
     <sup>
      &#9733 814, pushed 4 days ago
     </sup>
-    - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
    </li>
    <li>
     <a href="https://influxdb.com/">
@@ -2154,10 +2154,10 @@ ils and flask.
   <a href="https://github.com/ytti/oxidized">
    Oxidized
   </a>
+  - A modern take on network device configuration monitoring with web interface and GIT storage.
   <sup>
    &#9733 275, pushed 4 days ago
   </sup>
-  - A modern take on network device configuration monitoring with web interface and GIT storage.
  </li>
  <li>
   <a href="http://www.shrubbery.net/rancid/">
@@ -2175,10 +2175,10 @@ ils and flask.
   <a href="https://github.com/trigger/trigger">
    trigger
   </a>
+  - Robust network automation toolkit written in Python.
   <sup>
    &#9733 308, pushed 5 days ago
   </sup>
-  - Robust network automation toolkit written in Python.
  </li>
 </ul>
 <h2>
@@ -2206,19 +2206,19 @@ ils and flask.
   <a href="https://github.com/averna-syd/LibreMailer">
    LibreMailer
   </a>
+  - Libre Mailer is a modest and simple web based email marketing application.
   <sup>
    &#9733 6, pushed 611 days ago
   </sup>
-  - Libre Mailer is a modest and simple web based email marketing application.
  </li>
  <li>
   <a href="https://github.com/bborn/lewsnetter">
    Lewsnetter
   </a>
+  - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
   <sup>
    &#9733 273, pushed 22 days ago
   </sup>
-  - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
  </li>
 </ul>
 <h2>
@@ -2295,9 +2295,6 @@ ils and flask.
     <a href="https://github.com/twitter/flockdb">
      FlockDB
     </a>
-    <sup>
-     &#9733 2814, pushed 216 days ago
-    </sup>
     - Twitter's distributed, fault-tolerant graph database.
    </li>
    <li>
@@ -2307,6 +2304,9 @@ ils and flask.
     - Graph database.
    </li>
   </ul>
+  <sup>
+   &#9733 2814, pushed 216 days ago
+  </sup>
  </li>
  <li>
   Key-Value
@@ -2315,9 +2315,6 @@ ils and flask.
     <a href="https://github.com/google/leveldb">
      LevelDB
     </a>
-    <sup>
-     &#9733 5683, pushed 4 days ago
-    </sup>
     - Google's high performance key/value database.
    </li>
    <li>
@@ -2333,6 +2330,9 @@ ils and flask.
     - Another fault-tolerant key-value NoSQL database.
    </li>
   </ul>
+  <sup>
+   &#9733 5683, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -2346,19 +2346,19 @@ ils and flask.
   <a href="https://github.com/jordansissel/fpm">
    fpm
   </a>
+  - Versatile multi format package creator.
   <sup>
    &#9733 6468, pushed 5 days ago
   </sup>
-  - Versatile multi format package creator.
  </li>
  <li>
   <a href="https://github.com/chef/omnibus">
    omnibus-ruby
   </a>
+  - Full stack, cross distro packaging software (Ruby).
   <sup>
    &#9733 727, pushed 6 days ago
   </sup>
-  - Full stack, cross distro packaging software (Ruby).
  </li>
  <li>
   <a href="http://packman.readthedocs.org">
@@ -2370,10 +2370,10 @@ ils and flask.
   <a href="https://github.com/dgoodwin/tito">
    tito
   </a>
+  - Builds RPMs for git-based projects.
   <sup>
    &#9733 177, pushed 10 days ago
   </sup>
-  - Builds RPMs for git-based projects.
  </li>
 </ul>
 <h2>
@@ -2532,10 +2532,10 @@ ils and flask.
   <a href="https://github.com/StackExchange/blackbox">
    Blackbox
   </a>
+  - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
   <sup>
    &#9733 2529, pushed 8 days ago
   </sup>
-  - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
  </li>
  <li>
   <a href="https://www.bro.org/">
@@ -2559,10 +2559,10 @@ ils and flask.
   <a href="https://github.com/certsocietegenerale/FIR">
    FIR
   </a>
+  - Fast Incident Response, a cybersecurity incident management platform.
   <sup>
    &#9733 530, pushed 13 days ago
   </sup>
-  - Fast Incident Response, a cybersecurity incident management platform.
  </li>
  <li>
   <a href="https://www.cipherdyne.org/fwknop/">
@@ -2580,10 +2580,10 @@ ils and flask.
   <a href="https://github.com/desaster/kippo">
    Kippo
   </a>
+  - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
   <sup>
    &#9733 628, pushed 195 days ago
   </sup>
-  - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
  </li>
  <li>
   <a href="https://www.rfxn.com/projects/linux-malware-detect/">
@@ -2648,19 +2648,19 @@ ils and flask.
   <a href="https://github.com/ha/doozerd">
    Doozerd
   </a>
-  <sup>
-   &#9733 2663, pushed 48 days ago
-  </sup>
   - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+  <sup>
+   &#9733 2663, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos/etcd">
    etcd
   </a>
+  - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
   <sup>
    &#9733 9440, pushed 2 days ago
   </sup>
-  - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
  </li>
  <li>
   <a href="http://zookeeper.apache.org/">
@@ -2746,10 +2746,10 @@ ils and flask.
   <a href="https://github.com/cloudtools/ssh-cert-authority">
    ssh-cert-authority
   </a>
+  - A democratic SSH certificate authority.
   <sup>
    &#9733 123, pushed 4 days ago
   </sup>
-  - A democratic SSH certificate authority.
  </li>
  <li>
   <a href="https://github.com/cloudtools/ssh-ca/">
@@ -2767,10 +2767,10 @@ ils and flask.
   <a href="https://github.com/Russell91/sshrc">
    sshrc
   </a>
+  - sources ~/.sshrc on your local computer after logging in remotely.
   <sup>
    &#9733 3240, pushed 2 days ago
   </sup>
-  - sources ~/.sshrc on your local computer after logging in remotely.
  </li>
  <li>
   <a href="http://stormssh.readthedocs.org">
@@ -2849,10 +2849,10 @@ ils and flask.
   <a href="https://github.com/brendangregg/perf-tools">
    perf-tools
   </a>
+  - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
   <sup>
    &#9733 2243, pushed 13 days ago
   </sup>
-  - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
  </li>
  <li>
   <a href="http://www.sysdig.org/">
@@ -3026,10 +3026,10 @@ ils and flask.
   <a href="https://github.com/apenwarr/sshuttle">
    sshuttle
   </a>
+  - Poor man's VPN.
   <sup>
    &#9733 6763, pushed 11 days ago
   </sup>
-  - Poor man's VPN.
  </li>
  <li>
   <a href="https://www.strongswan.org/">

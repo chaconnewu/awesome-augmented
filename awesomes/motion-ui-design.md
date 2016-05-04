@@ -336,10 +336,10 @@ camera: video);
  <a href="https://github.com/bodymovin/bodymovin">
   BodyMovin
  </a>
+ – converter from AE to SVG/canvas;
  <sup>
   &#9733 708, pushed 10 days ago
  </sup>
- – converter from AE to SVG/canvas;
 </li>
 <li>
  <a href="http://www.marcuseckert.com/squall/">
@@ -654,10 +654,10 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/koenbok/Framer">
    Framer.js
   </a>
+  – prototyping tool for designing UI, interaction and animation;
   <sup>
    &#9733 3875, pushed 2 days ago
   </sup>
-  – prototyping tool for designing UI, interaction and animation;
  </li>
  <li>
   <a href="http://dynamicsjs.com/">
@@ -669,10 +669,10 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/legomushroom/mojs">
    Mo.js
   </a>
+  – motion graphics toolbelt for the web;
   <sup>
    &#9733 6944, pushed 1 days ago
   </sup>
-  – motion graphics toolbelt for the web;
  </li>
  <li>
   <a href="http://rapid-application-development-js.github.io/AnimateTransition/">
@@ -684,19 +684,19 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/bendc/animateplus">
    Animate Plus
   </a>
+  – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
   <sup>
    &#9733 2006, pushed 60 days ago
   </sup>
-  – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
  </li>
  <li>
   <a href="https://github.com/iamralpht/gravitas.js">
    Gravitas.js
   </a>
+  - Super fast physics simulations for JavaScript.
   <sup>
    &#9733 105, pushed 339 days ago
   </sup>
-  - Super fast physics simulations for JavaScript.
  </li>
 </ul>
 <h3>

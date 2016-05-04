@@ -181,28 +181,28 @@
   <a href="https://github.com/elastic/elasticsearch-hadoop">
    Elasticsearch Hadoop
   </a>
+  - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
   <sup>
    &#9733 701, pushed 3 days ago
   </sup>
-  - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
  </li>
  <li>
   <a href="https://github.com/klbostee/dumbo">
    dumbo
   </a>
+  - Python module that allows you to easily write and run Hadoop programs.
   <sup>
    &#9733 966, pushed 13 days ago
   </sup>
-  - Python module that allows you to easily write and run Hadoop programs.
  </li>
  <li>
   <a href="https://github.com/bwhite/hadoopy">
    hadoopy
   </a>
+  - Python MapReduce library written in Cython.
   <sup>
    &#9733 224, pushed 116 days ago
   </sup>
-  - Python MapReduce library written in Cython.
  </li>
  <li>
   <a href="https://github.com/Yelp/mrjob/">
@@ -220,19 +220,19 @@
   <a href="https://github.com/twitter/hdfs-du">
    hdfs-du
   </a>
+  - HDFS-DU is an interactive visualization of the Hadoop distributed file system.
   <sup>
    &#9733 139, pushed 1365 days ago
   </sup>
-  - HDFS-DU is an interactive visualization of the Hadoop distributed file system.
  </li>
  <li>
   <a href="https://github.com/linkedin/white-elephant">
    White Elephant
   </a>
+  - Hadoop log aggregator and dashboard
   <sup>
    &#9733 171, pushed 917 days ago
   </sup>
-  - Hadoop log aggregator and dashboard
  </li>
  <li>
   <a href="http://www.kiji.org/">
@@ -243,10 +243,10 @@
   <a href="https://github.com/Netflix/genie">
    Genie
   </a>
+  - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
   <sup>
    &#9733 462, pushed 6 days ago
   </sup>
-  - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
  </li>
  <li>
   <a href="http://kylin.incubator.apache.org/">
@@ -258,10 +258,10 @@
   <a href="https://github.com/jondot/crunch">
    Crunch
   </a>
+  - Go-based toolkit for ETL and feature extraction on Hadoop
   <sup>
    &#9733 130, pushed 531 days ago
   </sup>
-  - Go-based toolkit for ETL and feature extraction on Hadoop
  </li>
  <li>
   <a href="http://ignite.apache.org/">
@@ -290,10 +290,10 @@
   <a href="https://github.com/alibaba/mpich2-yarn">
    mpich2-yarn
   </a>
+  - Running MPICH2 on Yarn
   <sup>
    &#9733 77, pushed 356 days ago
   </sup>
-  - Running MPICH2 on Yarn
  </li>
 </ul>
 <h2>
@@ -321,37 +321,37 @@
   <a href="https://github.com/wbolster/happybase">
    happybase
   </a>
+  - A developer-friendly Python library to interact with Apache HBase.
   <sup>
    &#9733 242, pushed 31 days ago
   </sup>
-  - A developer-friendly Python library to interact with Apache HBase.
  </li>
  <li>
   <a href="https://github.com/sentric/hannibal">
    Hannibal
   </a>
+  - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
   <sup>
    &#9733 133, pushed 281 days ago
   </sup>
-  - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
  </li>
  <li>
   <a href="https://github.com/VCNC/haeinsa">
    Haeinsa
   </a>
+  - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
   <sup>
    &#9733 122, pushed 33 days ago
   </sup>
-  - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
  </li>
  <li>
   <a href="https://github.com/Huawei-Hadoop/hindex">
    hindex
   </a>
+  - Secondary Index for HBase
   <sup>
    &#9733 335, pushed 484 days ago
   </sup>
-  - Secondary Index for HBase
  </li>
  <li>
   <a href="https://accumulo.apache.org/">
@@ -474,10 +474,10 @@
   <a href="https://github.com/airbnb/airflow">
    AirFlow
   </a>
+  - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
   <sup>
    &#9733 2594, pushed 2 days ago
   </sup>
-  - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
  </li>
  <li>
   <a href="http://luigi.readthedocs.org/en/latest/">
@@ -500,10 +500,10 @@
   <a href="https://github.com/Netflix/suro">
    Suro
   </a>
+  - Netflix's distributed Data Pipeline
   <sup>
    &#9733 503, pushed 144 days ago
   </sup>
-  - Netflix's distributed Data Pipeline
  </li>
  <li>
   <a href="http://sqoop.apache.org">
@@ -521,10 +521,10 @@
   <a href="https://github.com/linkedin/gobblin">
    Gobblin from LinkedIn
   </a>
+  - Universal data ingestion framework for Hadoop
   <sup>
    &#9733 545, pushed 1 days ago
   </sup>
-  - Universal data ingestion framework for Hadoop
  </li>
 </ul>
 <h2>
@@ -547,28 +547,28 @@
   <a href="https://github.com/thedatachef/varaha">
    vahara
   </a>
+  - Machine learning and natural language processing with Apache Pig
   <sup>
    &#9733 51, pushed 868 days ago
   </sup>
-  - Machine learning and natural language processing with Apache Pig
  </li>
  <li>
   <a href="https://github.com/packetloop/packetpig">
    packetpig
   </a>
+  - Open Source Big Data Security Analytics
   <sup>
    &#9733 238, pushed 56 days ago
   </sup>
-  - Open Source Big Data Security Analytics
  </li>
  <li>
   <a href="https://github.com/mozilla-metrics/akela">
    akela
   </a>
+  - Mozilla's utility library for Hadoop, HBase, Pig, etc.
   <sup>
    &#9733 72, pushed 764 days ago
   </sup>
-  - Mozilla's utility library for Hadoop, HBase, Pig, etc.
  </li>
  <li>
   <a href="http://seqpig.sourceforge.net/">
@@ -580,22 +580,22 @@
   <a href="https://github.com/Netflix/Lipstick">
    Lipstick
   </a>
-  <sup>
-   &#9733 359, pushed 144 days ago
-  </sup>
   - Pig workflow visualization tool.
   <a href="http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html">
    Introducing Lipstick on A(pache) Pig
   </a>
+  <sup>
+   &#9733 359, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/PigPen">
    PigPen
   </a>
+  - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
   <sup>
    &#9733 419, pushed 8 days ago
   </sup>
-  - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
  </li>
 </ul>
 <h2>
@@ -612,10 +612,10 @@
   <a href="https://github.com/hortonworks/gohadoop">
    gohadoop
   </a>
+  - Native go clients for Apache Hadoop YARN.
   <sup>
    &#9733 245, pushed 320 days ago
   </sup>
-  - Native go clients for Apache Hadoop YARN.
  </li>
  <li>
   <a href="http://gethue.com/">
@@ -633,10 +633,10 @@
   <a href="https://github.com/impetus-opensource/jumbune">
    Jumbune
   </a>
+  - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
   <sup>
    &#9733 44, pushed 48 days ago
   </sup>
-  - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
  </li>
  <li>
   <a href="http://thrift.apache.org/">
@@ -653,10 +653,10 @@
   <a href="https://github.com/twitter/elephant-bird">
    Elephant Bird
   </a>
+  - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
   <sup>
    &#9733 962, pushed 29 days ago
   </sup>
-  - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
  </li>
  <li>
   <a href="http://projects.spring.io/spring-hadoop/">
@@ -778,10 +778,10 @@
   <a href="https://github.com/impetus-opensource/ankush">
    ankush
   </a>
+  - A big data cluster management tool that creates and manages clusters of different technologies.
   <sup>
    &#9733 19, pushed 379 days ago
   </sup>
-  - A big data cluster management tool that creates and manages clusters of different technologies.
  </li>
  <li>
   <a href="http://zookeeper.apache.org/">
@@ -799,10 +799,10 @@
   <a href="https://github.com/keedio/buildoop">
    Buildoop
   </a>
+  - Hadoop Ecosystem Builder
   <sup>
    &#9733 27, pushed 223 days ago
   </sup>
-  - Hadoop Ecosystem Builder
  </li>
  <li>
   <a href="http://deploop.github.io/">
@@ -820,10 +820,10 @@
   <a href="https://github.com/Netflix/inviso">
    inviso
   </a>
+  - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
   <sup>
    &#9733 122, pushed 144 days ago
   </sup>
-  - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
  </li>
 </ul>
 <h2>
@@ -850,10 +850,10 @@
   <a href="https://github.com/LucidWorks/banana">
    Banana
   </a>
+  - Kibana port for Apache Solr
   <sup>
    &#9733 310, pushed 5 days ago
   </sup>
-  - Kibana port for Apache Solr
  </li>
 </ul>
 <h2>
@@ -927,19 +927,19 @@
   <a href="https://github.com/cartershanklin/hive-testbench">
    hive-testbench
   </a>
+  - Testbench for experimenting with Apache Hive at any data scale.
   <sup>
    &#9733 32, pushed 35 days ago
   </sup>
-  - Testbench for experimenting with Apache Hive at any data scale.
  </li>
  <li>
   <a href="https://github.com/brianfrankcooper/YCSB">
    YCSB
   </a>
+  - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
   <sup>
    &#9733 1179, pushed 2 days ago
   </sup>
-  - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
  </li>
 </ul>
 <h2>
@@ -955,10 +955,10 @@
   <a href="https://github.com/OryxProject/oryx">
    Oryx 2
   </a>
+  - Lambda architecture on Spark, Kafka for real-time large scale machine learning
   <sup>
    &#9733 777, pushed 9 days ago
   </sup>
-  - Lambda architecture on Spark, Kafka for real-time large scale machine learning
  </li>
  <li>
   <a href="https://spark.apache.org/mllib/">
@@ -982,10 +982,10 @@
   <a href="https://github.com/nexr/RHive">
    RHive
   </a>
+  RHive, for launching Hive queries from R
   <sup>
    &#9733 108, pushed 275 days ago
   </sup>
-  RHive, for launching Hive queries from R
  </li>
  <li>
   <a href="http://lens.apache.org/">
@@ -1131,19 +1131,16 @@
       <a href="https://github.com/tagomoris/shib">
        shib
       </a>
-      <sup>
-       &#9733 98, pushed 23 days ago
-      </sup>
       - WebUI for query engines: Hive and Presto
      </li>
      <li>
       <a href="https://github.com/bmuller/clive">
        clive
       </a>
+      - Clojure library for interacting with Hive via Thrift
       <sup>
        &#9733 4, pushed 1495 days ago
       </sup>
-      - Clojure library for interacting with Hive via Thrift
      </li>
      <li>
       https://github.com/anjuke/hwi
@@ -1158,10 +1155,10 @@
       <a href="https://github.com/dropbox/PyHive">
        PyHive
       </a>
+      - Python interface to Hive and Presto
       <sup>
        &#9733 179, pushed 22 days ago
       </sup>
-      - Python interface to Hive and Presto
      </li>
      <li>
       https://github.com/recruitcojp/OdbcHive
@@ -1175,32 +1172,35 @@
       <a href="https://github.com/klarna/HiveRunner">
        HiveRunner
       </a>
+      - An Open Source unit test framework for hadoop hive queries based on JUnit4
       <sup>
        &#9733 57, pushed 6 days ago
       </sup>
-      - An Open Source unit test framework for hadoop hive queries based on JUnit4
      </li>
      <li>
       <a href="https://github.com/kawaa/Beetest">
        Beetest
       </a>
+      - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
       <sup>
        &#9733 46, pushed 186 days ago
       </sup>
-      - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
      </li>
      <li>
       <a href="https://github.com/edwardcapriolo/hive_test">
        Hive_test
       </a>
+      - Unit test framework for hive and hive-service
       <sup>
        &#9733 55, pushed 581 days ago
       </sup>
-      - Unit test framework for hive and hive-service
      </li>
     </ul>
    </li>
   </ul>
+  <sup>
+   &#9733 98, pushed 23 days ago
+  </sup>
  </li>
  <li>
   Flume Plugins
@@ -1209,9 +1209,6 @@
     <a href="https://github.com/leonlee/flume-ng-mongodb-sink">
      Flume MongoDB Sink
     </a>
-    <sup>
-     &#9733 34, pushed 19 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/btoddb/flume-ng-hornetq-channel">
@@ -1249,10 +1246,10 @@
     <a href="https://github.com/Stratio/Ingestion">
      Stratio Ingestion
     </a>
+    - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
     <sup>
      &#9733 111, pushed 20 days ago
     </sup>
-    - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
    </li>
    <li>
     <a href="https://github.com/relistan/flume-serializers">
@@ -1279,6 +1276,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 34, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h1>

@@ -433,28 +433,28 @@
   <a href="https://github.com/iioinc/iio.js">
    iio.js
   </a>
+  - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
   <sup>
    &#9733 427, pushed 133 days ago
   </sup>
-  - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
  </li>
  <li>
   <a href="https://github.com/raphamorim/origami.js">
    Origami.js
   </a>
+  - JS Lib to redesign canvas API interface
   <sup>
    &#9733 478, pushed 22 days ago
   </sup>
-  - JS Lib to redesign canvas API interface
  </li>
  <li>
   <a href="https://github.com/paperjs/paper.js">
    Paper.js
   </a>
+  - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
   <sup>
    &#9733 6346, pushed 12 days ago
   </sup>
-  - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
  </li>
  <li>
   <a href="http://www.pixijs.com">
@@ -484,10 +484,10 @@
   <a href="https://github.com/soulwire/sketch.js">
    Sketch
   </a>
+  - Cross-Platform JavaScript Creative Coding Framework
   <sup>
    &#9733 2106, pushed 146 days ago
   </sup>
-  - Cross-Platform JavaScript Creative Coding Framework
  </li>
  <li>
   <a href="http://threejs.org/">
@@ -514,10 +514,10 @@
   <a href="https://github.com/filamentgroup/jQuery-Visualize">
    Visualize
   </a>
+  is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
   <sup>
    &#9733 348, pushed 397 days ago
   </sup>
-  is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
  </li>
 </ul>
 <h3>
@@ -528,13 +528,13 @@
   <a href="https://github.com/Flipboard/react-canvas">
    React Canvas
   </a>
-  <sup>
-   &#9733 8289, pushed 16 days ago
-  </sup>
   - High performance
   <canvas>
    rendering for React components.
   </canvas>
+  <sup>
+   &#9733 8289, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h2>

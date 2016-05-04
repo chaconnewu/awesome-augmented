@@ -310,10 +310,10 @@
   <a href="https://github.com/ngokevin/aframe-component-boilerplate">
    Component Boilerplate
   </a>
+  - Boilerplate for creating and sharing A-Frame VR components
   <sup>
    &#9733 14, pushed 5 days ago
   </sup>
-  - Boilerplate for creating and sharing A-Frame VR components
  </li>
  <li>
   <a href="https://jsbin.com/dasefeh/edit?html,output">
@@ -325,64 +325,64 @@
   <a href="https://github.com/JosePedroDias/aframe-extrude-and-lathe">
    Extrude and Lathe
   </a>
+  - Extrude and lathe geometries
   <sup>
    &#9733 5, pushed 134 days ago
   </sup>
-  - Extrude and lathe geometries
  </li>
  <li>
   <a href="https://github.com/cemkod/aframe-fps-look-component">
    FPS Look
   </a>
+  - Facilitates controlling entity rotation directly with captured mouse
   <sup>
    &#9733 5, pushed 107 days ago
   </sup>
-  - Facilitates controlling entity rotation directly with captured mouse
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-gamepad-controls">
    Gamepad Controls
   </a>
+  - Gamepad controls using HTML5 Gamepad API
   <sup>
    &#9733 13, pushed 40 days ago
   </sup>
-  - Gamepad controls using HTML5 Gamepad API
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-layout-component">
    Layout
   </a>
+  - 3D layout of child entities
   <sup>
    &#9733 10, pushed 11 days ago
   </sup>
-  - 3D layout of child entities
  </li>
  <li>
   <a href="https://github.com/alexrkass/aframe-no-click-look-controls">
    No-click Look Controls
   </a>
+  - Intuitive desktop view controls without requiring mousedown + drag
   <sup>
    &#9733 18, pushed 110 days ago
   </sup>
-  - Intuitive desktop view controls without requiring mousedown + drag
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-obj-loader-component">
    OBJ and MTL Loader
   </a>
+  - Loader for .OBJ models and .MTL materials
   <sup>
    &#9733 7, pushed 69 days ago
   </sup>
-  - Loader for .OBJ models and .MTL materials
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-physics-components">
    Physics
   </a>
+  - Rigid-body physics
   <sup>
    &#9733 10, pushed 2 days ago
   </sup>
-  - Rigid-body physics
  </li>
  <li>
   <a href="https://proxy-controls.donmccurdy.com">
@@ -394,10 +394,10 @@
   <a href="https://github.com/ngokevin/aframe-text-component">
    Text
   </a>
+  - Polygonal text
   <sup>
    &#9733 21, pushed 38 days ago
   </sup>
-  - Polygonal text
  </li>
  <li>
   <a href="https://github.com/dmarcos/a-invaders/tree/master/js/components">
@@ -409,54 +409,54 @@
   <a href="https://github.com/youmustfight/aframe-asset-lazy-load">
    Asset Lazy Load
   </a>
+  - Assign asset loading order and delays
   <sup>
    &#9733 3, pushed 103 days ago
   </sup>
-  - Assign asset loading order and delays
  </li>
  <li>
   <a href="https://github.com/maxkrieger/aframe-draw-component">
    Draw
   </a>
-  <sup>
-   &#9733 17, pushed 43 days ago
-  </sup>
   - HTML5
   <code>
    <canvas>
   </code>
   as a material texture, with support for extension components
+  <sup>
+   &#9733 17, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxkrieger/aframe-textwrap-component">
    Text Wrap
   </a>
-  <sup>
-   &#9733 10, pushed 41 days ago
-  </sup>
   - Wrapping text dynamically rendered onto the
   <code>
    draw
   </code>
   component
+  <sup>
+   &#9733 10, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-template-component">
    Template
   </a>
+  - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
   <sup>
    &#9733 4, pushed 5 days ago
   </sup>
-  - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
  </li>
  <li>
   <a href="https://github.com/oscarmarinmiro/aframe-stereo-component">
    Stereo
   </a>
+  - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
   <sup>
    &#9733 13, pushed 22 days ago
   </sup>
-  - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
  </li>
  <li>
   <a href="https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif">
@@ -468,32 +468,32 @@
   <a href="https://github.com/scenevr/interpolation-component">
    Interpolation
   </a>
+  - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
   <sup>
    &#9733 4, pushed 24 days ago
   </sup>
-  - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
  </li>
  <li>
   <a href="https://github.com/scenevr/htmltexture-component">
    HTML Texture
   </a>
+  - Using HTML as a texture, powered by html2canvas
   <sup>
    &#9733 15, pushed 48 days ago
   </sup>
-  - Using HTML as a texture, powered by html2canvas
  </li>
  <li>
   <a href="https://github.com/scenevr/selectable-component">
    Selectable
   </a>
-  <sup>
-   &#9733 2, pushed 49 days ago
-  </sup>
   by
   <a href="https://www.scenevr.com/">
    @scenevr
   </a>
   - Click on an entity to select it, handy for editors
+  <sup>
+   &#9733 2, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/subsumo/aframe-orbit-controls/">
@@ -511,55 +511,55 @@
   <a href="https://github.com/ngokevin/aframe-randomizer-components">
    Randomizer
   </a>
+  - Set random values
   <sup>
    &#9733 2, pushed 10 days ago
   </sup>
-  - Set random values
  </li>
  <li>
   <a href="https://github.com/andreasplesch/aframe-meshline-component">
    Mesh Line
   </a>
+  - Draw thick lines
   <sup>
    &#9733 1, pushed 8 days ago
   </sup>
-  - Draw thick lines
  </li>
  <li>
   <a href="https://github.com/atomicguy/aframe-fence-component">
    Fence
   </a>
+  - Set boundaries on entity position
   <sup>
    &#9733 0, pushed 9 days ago
   </sup>
-  - Set boundaries on entity position
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-mouse-cursor-component">
    Mouse Cursor
   </a>
+  - Use mouse as a direct pointer
   <sup>
    &#9733 9, pushed 19 days ago
   </sup>
-  - Use mouse as a direct pointer
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-drag-look-controls-component">
    Drag Look
   </a>
+  - Look controls in the opposite direction with changing cursor style
   <sup>
    &#9733 1, pushed 19 days ago
   </sup>
-  - Look controls in the opposite direction with changing cursor style
  </li>
  <li>
   <a href="https://github.com/dbradleyfl/aframe-gridhelper">
    Grid Helper
   </a>
+  - Helper to add customizable grids to your scene, useful for editors
   <sup>
    &#9733 1, pushed 4 days ago
   </sup>
-  - Helper to add customizable grids to your scene, useful for editors
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js">
@@ -571,10 +571,10 @@
   <a href="https://github.com/nylki/aframe-fit-texture-component">
    Fit Texture
   </a>
+  - Automatically scale entities relative to their texture, so you don't need to set width/height manually
   <sup>
    &#9733 0, pushed 2 days ago
   </sup>
-  - Automatically scale entities relative to their texture, so you don't need to set width/height manually
  </li>
 </ul>
 <h3>
@@ -585,37 +585,37 @@
   <a href="https://github.com/mayognaise/aframe-draw-shader">
    Draw
   </a>
+  - Render from canvas
   <sup>
    &#9733 1, pushed 15 days ago
   </sup>
-  - Render from canvas
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-html-shader">
    HTML
   </a>
+  - Render from HTML
   <sup>
    &#9733 3, pushed 7 days ago
   </sup>
-  - Render from HTML
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-video-shader">
    Video
   </a>
+  - iOS-compatible video material
   <sup>
    &#9733 2, pushed 15 days ago
   </sup>
-  - iOS-compatible video material
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-gif-shader">
    GIF
   </a>
+  - Render animated GIFs
   <sup>
    &#9733 0, pushed 16 days ago
   </sup>
-  - Render animated GIFs
  </li>
 </ul>
 <h3>
@@ -629,19 +629,19 @@
   <a href="https://github.com/KevinGrandon/aframe-jade-boilerplate">
    aframe-jade-boilerplate
   </a>
+  - A-Frame with the Jade templating engine
   <sup>
    &#9733 1, pushed 145 days ago
   </sup>
-  - A-Frame with the Jade templating engine
  </li>
  <li>
   <a href="https://github.com/Popmotion/aframe-role">
    aframe-role
   </a>
+  - A-Frame with Popmotion for animations, physics, and input tracking
   <sup>
    &#9733 6, pushed 134 days ago
   </sup>
-  - A-Frame with Popmotion for animations, physics, and input tracking
  </li>
  <li>
   <a href="http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3">
@@ -662,10 +662,10 @@
   <a href="https://github.com/ngokevin/aframe-templating-examples">
    aframe-templating-examples
   </a>
+  - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
   <sup>
    &#9733 0, pushed 36 days ago
   </sup>
-  - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
  </li>
  <li>
   <a href="https://github.com/JoshGalvin/SpineFrame/">
@@ -680,32 +680,32 @@
   <a href="https://github.com/vladbalan/meteor-aframe">
    Meteor
   </a>
-  <sup>
-   &#9733 2, pushed 35 days ago
-  </sup>
   - A-Frame with
   <a href="https://www.meteor.com/">
    Meteor
   </a>
   , a JavaScript app framework
+  <sup>
+   &#9733 2, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AltspaceVR/aframe-altspace-component">
    Altspace
   </a>
+  - Integration with AltspaceVR
   <sup>
    &#9733 8, pushed 6 days ago
   </sup>
-  - Integration with AltspaceVR
  </li>
  <li>
   <a href="https://github.com/IdeaSpaceVR/IdeaSpace">
    IdeaSpace
   </a>
+  - IdeaSpace CMS for the virtual reality web
   <sup>
    &#9733 79, pushed 5 days ago
   </sup>
-  - IdeaSpace CMS for the virtual reality web
  </li>
 </ul>
 <h4>

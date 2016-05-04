@@ -133,10 +133,10 @@
   <a href="https://github.com/rm-hull/monet">
    Monet
   </a>
+  – A small ClojureScript library to make it easier to work with canvas and visuals.
   <sup>
    &#9733 116, pushed 46 days ago
   </sup>
-  – A small ClojureScript library to make it easier to work with canvas and visuals.
  </li>
 </ul>
 <h3>
@@ -147,10 +147,10 @@
   <a href="https://github.com/LightTable/fetch">
    Fetch
   </a>
+  – A ClojureScript library that makes client/server interaction painless.
   <sup>
    &#9733 188, pushed 294 days ago
   </sup>
-  – A ClojureScript library that makes client/server interaction painless.
  </li>
 </ul>
 <h3>
@@ -161,19 +161,19 @@
   <a href="https://github.com/tailrecursion/cljson">
    Cljson
   </a>
+  –  Clojure/ClojureScript library for accelerated browser data deserialization.
   <sup>
    &#9733 65, pushed 196 days ago
   </sup>
-  –  Clojure/ClojureScript library for accelerated browser data deserialization.
  </li>
  <li>
   <a href="https://github.com/cognitect/transit-cljs">
    Transit
   </a>
+  –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
   <sup>
    &#9733 170, pushed 133 days ago
   </sup>
-  –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
  </li>
 </ul>
 <h3>
@@ -195,28 +195,28 @@
   <a href="https://github.com/tonsky/datascript">
    Datascript
   </a>
+  – An immutable in-memory database and Datalog query engine in ClojureScript.
   <sup>
    &#9733 2003, pushed 4 days ago
   </sup>
-  – An immutable in-memory database and Datalog query engine in ClojureScript.
  </li>
  <li>
   <a href="https://github.com/pandeiro/jaki">
    Jaki
   </a>
+  – A simple ClojureScript CouchDB client.
   <sup>
    &#9733 10, pushed 1301 days ago
   </sup>
-  – A simple ClojureScript CouchDB client.
  </li>
  <li>
   <a href="https://github.com/replikativ/konserve">
    Konserve
   </a>
+  –  A clojuresque key-value/document store protocol with core.async.
   <sup>
    &#9733 12, pushed 23 days ago
   </sup>
-  –  A clojuresque key-value/document store protocol with core.async.
  </li>
 </ul>
 <h3>
@@ -227,37 +227,37 @@
   <a href="https://github.com/omcljs/ambly">
    Ambly
   </a>
+  — A ClojureScript REPL into iOS JavaScriptCore.
   <sup>
    &#9733 425, pushed 114 days ago
   </sup>
-  — A ClojureScript REPL into iOS JavaScriptCore.
  </li>
  <li>
   <a href="https://github.com/binaryage/cljs-devtools">
    cljs-devtools
   </a>
+  - Better presentation of ClojureScript values in Chrome Devtools.
   <sup>
    &#9733 461, pushed 19 days ago
   </sup>
-  - Better presentation of ClojureScript values in Chrome Devtools.
  </li>
  <li>
   <a href="https://github.com/emezeske/lein-cljsbuild">
    lein-cljsbuild
   </a>
+  — A Leiningen plugin to make ClojureScript development easy.
   <sup>
    &#9733 824, pushed 57 days ago
   </sup>
-  — A Leiningen plugin to make ClojureScript development easy.
  </li>
  <li>
   <a href="https://github.com/bhauman/lein-figwheel">
    lein-figwheel
   </a>
+  –  Leiningen plugin that pushes ClojureScript code changes to the client.
   <sup>
    &#9733 1552, pushed 13 days ago
   </sup>
-  –  Leiningen plugin that pushes ClojureScript code changes to the client.
  </li>
  <li>
   <a href="http://docs.caudate.me/ribol/">
@@ -269,10 +269,10 @@
   <a href="https://github.com/thheller/shadow-build">
    shadow-build
   </a>
+  – A ClojureScript build library capable of compiling multiple output files.
   <sup>
    &#9733 89, pushed 38 days ago
   </sup>
-  – A ClojureScript build library capable of compiling multiple output files.
  </li>
 </ul>
 <h3>
@@ -283,37 +283,37 @@
   <a href="https://github.com/fluentsoftware/cljs-binding">
    cljs-binding
   </a>
+  – It binds html elements to ClojureScript functions.
   <sup>
    &#9733 55, pushed 1295 days ago
   </sup>
-  – It binds html elements to ClojureScript functions.
  </li>
  <li>
   <a href="https://github.com/ibdknox/crate">
    Crate
   </a>
+  –  A ClojureScript implementation of Hiccup.
   <sup>
    &#9733 202, pushed 183 days ago
   </sup>
-  –  A ClojureScript implementation of Hiccup.
  </li>
  <li>
   <a href="https://github.com/dubiousdavid/dominator">
    Dominator
   </a>
+  – Virtual-Dom in ClojureScript.
   <sup>
    &#9733 70, pushed 330 days ago
   </sup>
-  – Virtual-Dom in ClojureScript.
  </li>
  <li>
   <a href="https://github.com/plumatic/dommy">
    Dommy
   </a>
+  –  A no-nonsense ClojureScript templating and DOM manipulation library.
   <sup>
    &#9733 702, pushed 111 days ago
   </sup>
-  –  A no-nonsense ClojureScript templating and DOM manipulation library.
  </li>
  <li>
   <a href="http://ckirkendall.github.io/enfocus-site/">
@@ -325,55 +325,55 @@
   <a href="https://github.com/aaronc/freactive">
    Freactive
   </a>
+  – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
   <sup>
    &#9733 359, pushed 174 days ago
   </sup>
-  – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
  </li>
  <li>
   <a href="https://github.com/teropa/hiccups">
    Hiccups
   </a>
+  – A ClojureScript port of the Hiccup.
   <sup>
    &#9733 124, pushed 22 days ago
   </sup>
-  – A ClojureScript port of the Hiccup.
  </li>
  <li>
   <a href="https://github.com/davidsantiago/hickory">
    Hickory
   </a>
+  – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
   <sup>
    &#9733 205, pushed 44 days ago
   </sup>
-  – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
  </li>
  <li>
   <a href="https://github.com/yogthos/json-html">
    json-html
   </a>
+  – Provide JSON and get a DOM node with a human representation of that JSON.
   <sup>
    &#9733 65, pushed 47 days ago
   </sup>
-  – Provide JSON and get a DOM node with a human representation of that JSON.
  </li>
  <li>
   <a href="https://github.com/ckirkendall/kioo">
    Kioo
   </a>
+  - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
   <sup>
    &#9733 346, pushed 65 days ago
   </sup>
-  - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
  </li>
  <li>
   <a href="https://github.com/r0man/sablono">
    Sablono
   </a>
+  –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
   <sup>
    &#9733 471, pushed 7 days ago
   </sup>
-  –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
  </li>
 </ul>
 <h3>
@@ -384,10 +384,10 @@
   <a href="https://github.com/thi-ng/geom">
    geom
   </a>
+  – A  2D/3D geometry toolkit for Clojure/Clojurescript.
   <sup>
    &#9733 290, pushed 8 days ago
   </sup>
-  – A  2D/3D geometry toolkit for Clojure/Clojurescript.
  </li>
 </ul>
 <h3>
@@ -398,10 +398,10 @@
   <a href="https://github.com/hoplon/castra">
    Castra
   </a>
+  – An HTTP remote procedure call handler for Clojure.
   <sup>
    &#9733 64, pushed 15 days ago
   </sup>
-  – An HTTP remote procedure call handler for Clojure.
  </li>
 </ul>
 <h3>
@@ -412,10 +412,10 @@
   <a href="https://github.com/ptaoussanis/tower">
    Tower
   </a>
-  <sup>
-   &#9733 231, pushed 53 days ago
-  </sup>
   – A Clojure(Script) i18n & L10n library.
+  <sup>
+   &#9733 231, pushed 54 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -432,10 +432,10 @@
   <a href="https://github.com/ibdknox/jayq">
    Jayq
   </a>
+  – A ClojureScript wrapper for jQuery.
   <sup>
    &#9733 385, pushed 322 days ago
   </sup>
-  – A ClojureScript wrapper for jQuery.
  </li>
  <li>
   <a href="http://purnam.github.io/purnam/">
@@ -447,10 +447,10 @@
   <a href="https://github.com/bodil/pylon">
    Pylon
   </a>
+  – A Javascript class system in 100% Clojurescript.
   <sup>
    &#9733 33, pushed 1192 days ago
   </sup>
-  – A Javascript class system in 100% Clojurescript.
  </li>
 </ul>
 <h3>
@@ -461,19 +461,19 @@
   <a href="https://github.com/ztellman/automat">
    Automat
   </a>
+  – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
   <sup>
    &#9733 354, pushed 85 days ago
   </sup>
-  – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
  </li>
  <li>
   <a href="https://github.com/pleasetrythisathome/bardo">
    Bardo
   </a>
+  – A Clojure(Script) library for functional interpolation and transitions.
   <sup>
    &#9733 78, pushed 180 days ago
   </sup>
-  – A Clojure(Script) library for functional interpolation and transitions.
  </li>
  <li>
   <a href="https://github.com/clojure/core.async/">
@@ -485,82 +485,82 @@
   <a href="https://github.com/Frozenlock/entanglement">
    Entanglement
   </a>
+  – It creates atoms from other atoms and links the data together.
   <sup>
    &#9733 25, pushed 457 days ago
   </sup>
-  – It creates atoms from other atoms and links the data together.
  </li>
  <li>
   <a href="https://github.com/noprompt/garden">
    Garden
   </a>
+  – A library for rendering CSS in Clojure and ClojureScript.
   <sup>
    &#9733 642, pushed 66 days ago
   </sup>
-  – A library for rendering CSS in Clojure and ClojureScript.
  </li>
  <li>
   <a href="https://github.com/r0man/inflections-clj">
    inflections-clj
   </a>
+  – Rails-like inflection library for Clojure and ClojureScript.
   <sup>
    &#9733 119, pushed 48 days ago
   </sup>
-  – Rails-like inflection library for Clojure and ClojureScript.
  </li>
  <li>
   <a href="https://github.com/lbradstreet/instaparse-cljs">
    Instaparse
   </a>
+  – It aims to be the simplest way to build parsers in ClojureScript.
   <sup>
    &#9733 76, pushed 8 days ago
   </sup>
-  – It aims to be the simplest way to build parsers in ClojureScript.
  </li>
  <li>
   <a href="https://github.com/piranha/keybind">
    Keybind
   </a>
+  - Library for handling key bindings (shortcuts) in browser.
   <sup>
    &#9733 23, pushed 166 days ago
   </sup>
-  - Library for handling key bindings (shortcuts) in browser.
  </li>
  <li>
   <a href="https://github.com/yogthos/markdown-clj">
    markdown-clj
   </a>
+  –  Markdown parser in Clojure/ClojureScript.
   <sup>
    &#9733 277, pushed 2 days ago
   </sup>
-  –  Markdown parser in Clojure/ClojureScript.
  </li>
  <li>
   <a href="https://github.com/plumatic/om-tools">
    om-tools
   </a>
+  – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
   <sup>
    &#9733 450, pushed 21 days ago
   </sup>
-  – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
  </li>
  <li>
   <a href="https://github.com/quil/quil">
    Quil
   </a>
+  – A processing and graphics programming library.
   <sup>
    &#9733 1657, pushed 1 days ago
   </sup>
-  – A processing and graphics programming library.
  </li>
  <li>
   <a href="https://github.com/bilus/reforms">
    reforms
   </a>
+  -  Beautiful Bootstrap 3 forms for Om and Reagent.
   <sup>
    &#9733 134, pushed 149 days ago
   </sup>
-  -  Beautiful Bootstrap 3 forms for Om and Reagent.
  </li>
  <li>
   <a href="https://github.com/reagent-project/reagent-forms/">
@@ -572,10 +572,10 @@
   <a href="https://github.com/ptaoussanis/truss">
    Truss
   </a>
+  – An opinionated assertions API for Clojure/ClojureScript.
   <sup>
    &#9733 128, pushed 43 days ago
   </sup>
-  – An opinionated assertions API for Clojure/ClojureScript.
  </li>
 </ul>
 <h3>
@@ -589,37 +589,37 @@
   <a href="https://github.com/weavejester/brutha">
    Brutha
   </a>
+  – A simple and functional ClojureScript interface to React.
   <sup>
    &#9733 114, pushed 190 days ago
   </sup>
-  – A simple and functional ClojureScript interface to React.
  </li>
  <li>
   <a href="https://github.com/omcljs/om">
    Om
   </a>
+  — A powerful interface to React, makes use of its object oriented structures.
   <sup>
    &#9733 5384, pushed 1 days ago
   </sup>
-  — A powerful interface to React, makes use of its object oriented structures.
  </li>
  <li>
   <a href="https://github.com/levand/quiescent">
    Quiescent
   </a>
+  — It favors functional style, fully stateless.
   <sup>
    &#9733 528, pushed 1 days ago
   </sup>
-  — It favors functional style, fully stateless.
  </li>
  <li>
   <a href="https://github.com/Day8/re-com">
    re-com
   </a>
+  –  A ClojureScript library of reusable components for Reagent.
   <sup>
    &#9733 289, pushed 1 days ago
   </sup>
-  –  A ClojureScript library of reusable components for Reagent.
  </li>
  <li>
   <a href="http://reagent-project.github.io/">
@@ -631,10 +631,10 @@
   <a href="https://github.com/tonsky/rum">
    Rum
   </a>
+  — Decomplected, extensible, simple.
   <sup>
    &#9733 549, pushed 3 days ago
   </sup>
-  — Decomplected, extensible, simple.
  </li>
 </ul>
 <h3>
@@ -645,37 +645,37 @@
   <a href="https://github.com/hoplon/javelin">
    Javelin
   </a>
+  – A Functional Reactive Programming library for ClojureScript.
   <sup>
    &#9733 513, pushed 122 days ago
   </sup>
-  – A Functional Reactive Programming library for ClojureScript.
  </li>
  <li>
   <a href="https://github.com/weavejester/reagi">
    Reagi
   </a>
+  – An FRP library for Clojure and ClojureScript, built on top of core.async.
   <sup>
    &#9733 193, pushed 60 days ago
   </sup>
-  – An FRP library for Clojure and ClojureScript, built on top of core.async.
  </li>
  <li>
   <a href="https://github.com/leonardoborges/rx-cljs">
    rx-cljs
   </a>
+  – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
   <sup>
    &#9733 32, pushed 1078 days ago
   </sup>
-  – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
  </li>
  <li>
   <a href="https://github.com/Cicayda/yolk">
    Yolk
   </a>
+  – A thin ClojureScript wrapper around bacon.js.
   <sup>
    &#9733 43, pushed 848 days ago
   </sup>
-  – A thin ClojureScript wrapper around bacon.js.
  </li>
 </ul>
 <h3>
@@ -686,28 +686,28 @@
   <a href="https://github.com/juxt/bidi">
    Bidi
   </a>
+  – A Clojure(script) data driven routing library.
   <sup>
    &#9733 514, pushed 6 days ago
   </sup>
-  – A Clojure(script) data driven routing library.
  </li>
  <li>
   <a href="https://github.com/gf3/secretary">
    Secretary
   </a>
+  –  A client-side router for ClojureScript.
   <sup>
    &#9733 547, pushed 28 days ago
   </sup>
-  –  A client-side router for ClojureScript.
  </li>
  <li>
   <a href="https://github.com/DomKM/silk">
    Silk
   </a>
+  – An isomorphic routing library for Clojure & ClojureScript.
   <sup>
    &#9733 188, pushed 82 days ago
   </sup>
-  – An isomorphic routing library for Clojure & ClojureScript.
  </li>
 </ul>
 <h3>
@@ -724,28 +724,28 @@
   <a href="https://github.com/eneroth/plato">
    plato
   </a>
+  –  Incrementally persists atom state to Local Storage in ClojureScript.
   <sup>
    &#9733 24, pushed 509 days ago
   </sup>
-  –  Incrementally persists atom state to Local Storage in ClojureScript.
  </li>
  <li>
   <a href="https://github.com/alandipert/storage-atom">
    storage-atom
   </a>
+  –  ClojureScript atoms backed by HTML5 web storage.
   <sup>
    &#9733 116, pushed 21 days ago
   </sup>
-  –  ClojureScript atoms backed by HTML5 web storage.
  </li>
  <li>
   <a href="https://github.com/ibdknox/waltz">
    Waltz
   </a>
+  – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
   <sup>
    &#9733 93, pushed 1484 days ago
   </sup>
-  – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
  </li>
 </ul>
 <h3>
@@ -756,10 +756,10 @@
   <a href="https://github.com/cemerick/clojurescript.test">
    clojurescript.test
   </a>
+  – A maximal port of clojure.test to ClojureScript.
   <sup>
    &#9733 175, pushed 160 days ago
   </sup>
-  – A maximal port of clojure.test to ClojureScript.
  </li>
  <li>
   <a href="http://jayfields.com/expectations/">
@@ -771,19 +771,19 @@
   <a href="https://github.com/slagyr/speclj">
    Speclj
   </a>
+  – A TDD/BDD framework for Clojure and ClojureScript.
   <sup>
    &#9733 325, pushed 16 days ago
   </sup>
-  – A TDD/BDD framework for Clojure and ClojureScript.
  </li>
  <li>
   <a href="https://github.com/clojure/test.check">
    test.check
   </a>
+  – A generative property-based testing tool inspired by QuickCheck.
   <sup>
    &#9733 589, pushed 16 days ago
   </sup>
-  – A generative property-based testing tool inspired by QuickCheck.
  </li>
 </ul>
 <h3>
@@ -794,10 +794,10 @@
   <a href="https://github.com/leonardoborges/bouncer">
    Bouncer
   </a>
+  – A validation DSL for Clojure & Clojurescript applications.
   <sup>
    &#9733 264, pushed 134 days ago
   </sup>
-  – A validation DSL for Clojure & Clojurescript applications.
  </li>
  <li>
   <a href="http://clojurevalidations.info/">
@@ -814,28 +814,28 @@
   <a href="https://github.com/zaiste/atw-om">
    atw-om
   </a>
+  – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
   <sup>
    &#9733 41, pushed 494 days ago
   </sup>
-  – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
  </li>
  <li>
   <a href="https://github.com/plexus/chestnut">
    Chestnut
   </a>
+  –  An Application template for ClojureScript/Om with live reloading.
   <sup>
    &#9733 939, pushed 37 days ago
   </sup>
-  –  An Application template for ClojureScript/Om with live reloading.
  </li>
  <li>
   <a href="https://github.com/sveri/closp">
    Clops
   </a>
+  – An opinionated, full stack and easy to use web framework.
   <sup>
    &#9733 107, pushed 18 days ago
   </sup>
-  – An opinionated, full stack and easy to use web framework.
  </li>
  <li>
   <a href="http://coils.cc/">
@@ -847,19 +847,19 @@
   <a href="https://github.com/karad/lein_template_descjop">
    descjop
   </a>
+  - A template for Web based desktop application with Electron.
   <sup>
    &#9733 185, pushed 22 days ago
   </sup>
-  - A template for Web based desktop application with Electron.
  </li>
  <li>
   <a href="https://github.com/ducky427/electron-template">
    electron-template
   </a>
+  - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
   <sup>
    &#9733 66, pushed 49 days ago
   </sup>
-  - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
  </li>
  <li>
   <a href="http://hoplon.io">
@@ -877,19 +877,19 @@
   <a href="https://github.com/swannodette/mies">
    Mies
   </a>
+  – A minimal ClojureScript project template.
   <sup>
    &#9733 267, pushed 42 days ago
   </sup>
-  – A minimal ClojureScript project template.
  </li>
  <li>
   <a href="https://github.com/Day8/re-frame">
    re-frame
   </a>
+  – A Reagent Framework For Writing SPAs, in Clojurescript.
   <sup>
    &#9733 1520, pushed 23 days ago
   </sup>
-  – A Reagent Framework For Writing SPAs, in Clojurescript.
  </li>
  <li>
   <a href="http://martinklepsch.github.io/tenzing/">
@@ -901,10 +901,10 @@
   <a href="https://github.com/drcode/webfui">
    WebFUI
   </a>
+  –  Client-Side Web Framework for ClojureScript.
   <sup>
    &#9733 222, pushed 1189 days ago
   </sup>
-  –  Client-Side Web Framework for ClojureScript.
  </li>
 </ul>
 <h3>
@@ -915,10 +915,10 @@
   <a href="https://github.com/ptaoussanis/sente">
    Sente
   </a>
+  –  Clojure(Script) + core.async + WebSockets/Ajax.
   <sup>
    &#9733 996, pushed 13 days ago
   </sup>
-  –  Clojure(Script) + core.async + WebSockets/Ajax.
  </li>
 </ul>
 <hr/>

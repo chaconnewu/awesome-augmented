@@ -623,55 +623,55 @@
   <a href="https://github.com/jveres/D500px">
    500px Gallery Demo
   </a>
+  - Nifty gallery demo app using 500px API.
   <sup>
    &#9733 18, pushed 48 days ago
   </sup>
-  - Nifty gallery demo app using 500px API.
  </li>
  <li>
   <a href="https://github.com/sanderdan/CSGOTimer">
    CSGOTimer
   </a>
+  - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
   <sup>
    &#9733 0, pushed 58 days ago
   </sup>
-  - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
  </li>
  <li>
   <a href="https://github.com/sanderdan/FormulaFuse">
    FormulaFuse
   </a>
+  - Formula 1 Fuse application.
   <sup>
    &#9733 0, pushed 22 days ago
   </sup>
-  - Formula 1 Fuse application.
  </li>
  <li>
   <a href="https://github.com/bolav/fusepm">
    Fuse PM
   </a>
+  - A Fusetools package manager.
   <sup>
    &#9733 2, pushed 23 days ago
   </sup>
-  - A Fusetools package manager.
  </li>
  <li>
   <a href="https://github.com/fusetools/fuse-samples">
    Fuse Samples
   </a>
+  - A collection of smaller examples using the various features of Fuse and FuseJS.
   <sup>
    &#9733 40, pushed 6 days ago
   </sup>
-  - A collection of smaller examples using the various features of Fuse and FuseJS.
  </li>
  <li>
   <a href="https://github.com/offwings/Fuse-Tags-with-Firebase">
    Fuse Tags with Firebase
   </a>
+  - Simple Tags app. Adds and retrieves tags from Firebase.
   <sup>
    &#9733 5, pushed 50 days ago
   </sup>
-  - Simple Tags app. Adds and retrieves tags from Firebase.
  </li>
  <li>
   <a href="http://tmn.github.io/FuseBus/">
@@ -683,46 +683,46 @@
   <a href="https://github.com/joms/gulp-fuse">
    Gulp Procedure
   </a>
+  - Gulp-procedure for Fuse compiling ES6 into ES5.
   <sup>
    &#9733 1, pushed 154 days ago
   </sup>
-  - Gulp-procedure for Fuse compiling ES6 into ES5.
  </li>
  <li>
   <a href="https://github.com/sebbert/fuse-gulp-rollup-babel">
    Gulp Rollup Babel
   </a>
+  - An alternative example of module bundling and ES6 -> ES5 transpiling.
   <sup>
    &#9733 1, pushed 68 days ago
   </sup>
-  - An alternative example of module bundling and ES6 -> ES5 transpiling.
  </li>
  <li>
   <a href="https://github.com/fusetools/handbook-docs">
    Handbook
   </a>
+  - The official Fuse documentation repository.
   <sup>
    &#9733 23, pushed 1 days ago
   </sup>
-  - The official Fuse documentation repository.
  </li>
  <li>
   <a href="https://github.com/elsassph/fusetools-haxe">
    Haxe
   </a>
+  - Haxe compiler for Fuse tools.
   <sup>
    &#9733 24, pushed 197 days ago
   </sup>
-  - Haxe compiler for Fuse tools.
  </li>
  <li>
   <a href="https://github.com/Syncano/syncano-fuse-example">
    Syncano
   </a>
+  - Simple example of integration Syncano with Fuse.
   <sup>
    &#9733 3, pushed 139 days ago
   </sup>
-  - Simple example of integration Syncano with Fuse.
  </li>
 </ul>
 <h2>
@@ -733,127 +733,127 @@
   <a href="https://github.com/bolav/fuse-cachingimagesource">
    Caching Image Source
   </a>
+  - A caching image source package.
   <sup>
    &#9733 0, pushed 22 days ago
   </sup>
-  - A caching image source package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-camerapanel">
    Camera Panel
   </a>
+  - A camera panel package.
   <sup>
    &#9733 6, pushed 21 days ago
   </sup>
-  - A camera panel package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-contacts">
    Contacts
   </a>
+  - A package to use phones contacts on iOS and Android.
   <sup>
    &#9733 0, pushed 19 days ago
   </sup>
-  - A package to use phones contacts on iOS and Android.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-cocoapods">
    CocoaPods
   </a>
+  - A CocoaPods package.
   <sup>
    &#9733 0, pushed 26 days ago
   </sup>
-  - A CocoaPods package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-datepicker">
    Date Picker
   </a>
+  - A date picker component package for iOS.
   <sup>
    &#9733 0, pushed 22 days ago
   </sup>
-  - A date picker component package for iOS.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-facebook-login">
    Facebook Login
   </a>
+  - A Facebook login package.
   <sup>
    &#9733 13, pushed 2 days ago
   </sup>
-  - A Facebook login package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-gallery">
    Gallery
   </a>
+  - Package to get images from the gallery on Android and iOS.
   <sup>
    &#9733 5, pushed 17 days ago
   </sup>
-  - Package to get images from the gallery on Android and iOS.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-homescreen">
    HomeScreen
   </a>
+  - An homescreen action package for the Android.
   <sup>
    &#9733 0, pushed 10 days ago
   </sup>
-  - An homescreen action package for the Android.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-modalview">
    Modal
   </a>
+  - A modal alert component package.
   <sup>
    &#9733 2, pushed 22 days ago
   </sup>
-  - A modal alert component package.
  </li>
  <li>
   <a href="https://github.com/torial/fuse-community">
    One-time Password
   </a>
+  - A Sha1, HmacSha1, and OneTimePassword package.
   <sup>
    &#9733 4, pushed 60 days ago
   </sup>
-  - A Sha1, HmacSha1, and OneTimePassword package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-sqlite">
    SQLite
   </a>
+  - A SQLite component package for preview, Android and iOS.
   <sup>
    &#9733 19, pushed 20 days ago
   </sup>
-  - A SQLite component package for preview, Android and iOS.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-testfairy">
    TestFairy
   </a>
+  - A TestFairy package for iOS.
   <sup>
    &#9733 0, pushed 21 days ago
   </sup>
-  - A TestFairy package for iOS.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-touchid">
    TouchID
   </a>
+  - A package to use TouchID on iOS.
   <sup>
    &#9733 4, pushed 21 days ago
   </sup>
-  - A package to use TouchID on iOS.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-youtube">
    YouTube
   </a>
+  - A YouTube component package.
   <sup>
    &#9733 0, pushed 16 days ago
   </sup>
-  - A YouTube component package.
  </li>
 </ul>
 <h2>
@@ -864,55 +864,55 @@
   <a href="https://github.com/Hazealign/fuse-alfred-workflow">
    Alfred Workflow
   </a>
+  - Integrate Fuse on Alfred.
   <sup>
    &#9733 1, pushed 62 days ago
   </sup>
-  - Integrate Fuse on Alfred.
  </li>
  <li>
   <a href="https://github.com/fusetools/Fuse.AtomPlugin">
    Atom
   </a>
+  - Atom Editor plugin for Fuse.
   <sup>
    &#9733 22, pushed 35 days ago
   </sup>
-  - Atom Editor plugin for Fuse.
  </li>
  <li>
   <a href="https://github.com/fusetools/UnoBashCompletion">
    Bash Completion
   </a>
+  - Simple bash completion script for UNO.
   <sup>
    &#9733 2, pushed 382 days ago
   </sup>
-  - Simple bash completion script for UNO.
  </li>
  <li>
   <a href="https://github.com/kristianhasselknippe/fuse-mode">
    Emacs
   </a>
+  - Emacs plugin for Fuse.
   <sup>
    &#9733 2, pushed 65 days ago
   </sup>
-  - Emacs plugin for Fuse.
  </li>
  <li>
   <a href="https://github.com/fusetools/Fuse.SublimePlugin">
    Sublime
   </a>
+  - Sublime Text 3 plugin for Fuse.
   <sup>
    &#9733 18, pushed 19 days ago
   </sup>
-  - Sublime Text 3 plugin for Fuse.
  </li>
  <li>
   <a href="https://github.com/Hazealign/vscode-fuse">
    Visual Studio Code
   </a>
+  - Fuse Helper for Visual Studio Code.
   <sup>
    &#9733 23, pushed 198 days ago
   </sup>
-  - Fuse Helper for Visual Studio Code.
  </li>
 </ul>
 <h2>

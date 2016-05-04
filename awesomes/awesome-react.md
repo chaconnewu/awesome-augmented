@@ -1016,27 +1016,27 @@
   <a href="https://github.com/meiersi/blaze-react">
    blaze-react, blaze-html style React bindings using GHCJS
   </a>
-  <sup>
-   &#9733 89, pushed 141 days ago
-  </sup>
   (
   <a href="https://www.youtube.com/watch?v=4nTnC0t7pzY">
    video tutorial
   </a>
   )
+  <sup>
+   &#9733 89, pushed 141 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/purescript-contrib/purescript-react">
    purescript-react bindings
   </a>
-  <sup>
-   &#9733 160, pushed 44 days ago
-  </sup>
   (
   <a href="https://github.com/fujimura/purescript-react-example">
    example app
   </a>
   )
+  <sup>
+   &#9733 160, pushed 44 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -3282,7 +3282,7 @@
    react-typeahead-search by @tonyspiro
   </a>
   <sup>
-   &#9733 7, pushed 265 days ago
+   &#9733 7, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -3688,7 +3688,7 @@
    react-google-maps - React.js Google Maps integration component
   </a>
   <sup>
-   &#9733 875, pushed 5 days ago
+   &#9733 875, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -3704,7 +3704,7 @@
    react-map-gl - A React wrapper for MapboxGL-js plus overlay API
   </a>
   <sup>
-   &#9733 1412, pushed 1 days ago
+   &#9733 1412, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -4057,7 +4057,7 @@
    r-dom - A simple React DOM wrapper
   </a>
   <sup>
-   &#9733 116, pushed 22 days ago
+   &#9733 116, pushed 23 days ago
   </sup>
  </li>
  <li>
@@ -4765,7 +4765,7 @@
    relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs
   </a>
   <sup>
-   &#9733 918, pushed 1 days ago
+   &#9733 918, pushed 2 days ago
   </sup>
  </li>
 </ul>

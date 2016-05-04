@@ -116,10 +116,10 @@
   <a href="https://github.com/yosssi/gcss">
    GCSS
   </a>
+  - Pure Go CSS Preprocessor.
   <sup>
    &#9733 340, pushed 569 days ago
   </sup>
-  - Pure Go CSS Preprocessor.
  </li>
  <li>
   <a href="http://lesscss.org/">
@@ -131,28 +131,28 @@
   <a href="https://github.com/segmentio/myth">
    Myth
   </a>
+  - Pure CSS without having to worry about slow browser support.
   <sup>
    &#9733 4096, pushed 58 days ago
   </sup>
-  - Pure CSS without having to worry about slow browser support.
  </li>
  <li>
   <a href="https://github.com/senko/pcss">
    PCSS
   </a>
+  - Pure Python CSS Preprocessor.
   <sup>
    &#9733 2, pushed 1049 days ago
   </sup>
-  - Pure Python CSS Preprocessor.
  </li>
  <li>
   <a href="https://github.com/postcss/postcss">
    PostCSS
   </a>
+  - Transforming CSS with JS plugins.
   <sup>
    &#9733 10074, pushed 2 days ago
   </sup>
-  - Transforming CSS with JS plugins.
  </li>
  <li>
   <a href="http://sass-lang.com/">
@@ -170,10 +170,10 @@
   <a href="https://github.com/morishitter/YACP">
    YACP
   </a>
+  - Yet Another CSS Preprocessor.
   <sup>
    &#9733 48, pushed 463 days ago
   </sup>
-  - Yet Another CSS Preprocessor.
  </li>
 </ul>
 <p>
@@ -303,10 +303,10 @@
   <a href="https://github.com/rstacruz/rscss">
    RSCSS
   </a>
+  - Reasonable Standard for CSS Stylesheet Structure.
   <sup>
    &#9733 2960, pushed 90 days ago
   </sup>
-  - Reasonable Standard for CSS Stylesheet Structure.
  </li>
  <li>
   <a href="https://twitter.com/itcss_io">
@@ -323,19 +323,19 @@
   <a href="https://github.com/necolas/normalize.css">
    Normalize
   </a>
+  - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
   <sup>
    &#9733 20960, pushed 16 days ago
   </sup>
-  - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
  </li>
  <li>
   <a href="https://github.com/kennethormandy/normalize-opentype.css">
    Normalize-OpenType
   </a>
+  - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
   <sup>
    &#9733 701, pushed 32 days ago
   </sup>
-  - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
  </li>
  <li>
   <a href="http://meyerweb.com/eric/tools/css/reset/">
@@ -353,10 +353,10 @@
   <a href="https://github.com/Martin-Pitt/css-unstyle">
    unstyle.css
   </a>
+  - Specialised stylesheet for removing user agent styles, style the web with your baseline
   <sup>
    &#9733 4, pushed 60 days ago
   </sup>
-  - Specialised stylesheet for removing user agent styles, style the web with your baseline
  </li>
 </ul>
 <h2>
@@ -458,27 +458,27 @@
   <a href="https://github.com/necolas/idiomatic-css">
    idiomatic CSS
   </a>
-  <sup>
-   &#9733 4578, pushed 275 days ago
-  </sup>
   by
   <a href="https://twitter.com/necolas">
    Nicolas Gallagher
   </a>
   .
+  <sup>
+   &#9733 4578, pushed 275 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/grvcoelho/css">
    CSS Styleguide
   </a>
-  <sup>
-   &#9733 337, pushed 7 days ago
-  </sup>
   by
   <a href="https://github.com/grvcoelho">
    Guilherme Rv Coelho
   </a>
   .
+  <sup>
+   &#9733 337, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cssguidelin.es/">
@@ -557,10 +557,10 @@
   <a href="https://github.com/dropbox/css-style-guide">
    Dropbox (S)CSS Style Guide
   </a>
+  by Dropbox
   <sup>
    &#9733 418, pushed 82 days ago
   </sup>
-  by Dropbox
  </li>
  <li>
   <a href="http://primercss.io">

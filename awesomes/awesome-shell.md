@@ -97,73 +97,73 @@
   <a href="https://github.com/ggreer/the_silver_searcher">
    ag
   </a>
+  - Super fast string search through a directory hierarchy
   <sup>
    &#9733 8637, pushed 4 days ago
   </sup>
-  - Super fast string search through a directory hierarchy
  </li>
  <li>
   <a href="https://github.com/Jintin/aliasme">
    aliasme
   </a>
+  - alias helper to change directory quickly
   <sup>
    &#9733 8, pushed 18 days ago
   </sup>
-  - alias helper to change directory quickly
  </li>
  <li>
   <a href="https://github.com/kennethreitz/autoenv">
    autoenv
   </a>
+  - Directory-based environments
   <sup>
    &#9733 2333, pushed 5 days ago
   </sup>
-  - Directory-based environments
  </li>
  <li>
   <a href="https://github.com/wting/autojump">
    autojump
   </a>
+  - A cd command that learns - easily navigate directories from the command line
   <sup>
    &#9733 4169, pushed 4 days ago
   </sup>
-  - A cd command that learns - easily navigate directories from the command line
  </li>
  <li>
   <a href="https://github.com/huyng/bashmarks">
    bashmarks
   </a>
+  - Directory bookmarks for the shell
   <sup>
    &#9733 927, pushed 27 days ago
   </sup>
-  - Directory bookmarks for the shell
  </li>
  <li>
   <a href="https://github.com/vigneshwaranr/bd">
    bd
   </a>
+  - Quickly go back to a parent directory
   <sup>
    &#9733 556, pushed 66 days ago
   </sup>
-  - Quickly go back to a parent directory
  </li>
  <li>
   <a href="https://github.com/tmrts/boilr">
    boilr
   </a>
+  - A blazingly fast CLI tool for creating projects from boilerplate templates.
   <sup>
    &#9733 48, pushed 58 days ago
   </sup>
-  - A blazingly fast CLI tool for creating projects from boilerplate templates.
  </li>
  <li>
   <a href="https://github.com/holman/boom">
    boom
   </a>
+  - Store links and snippets in the commandline
   <sup>
    &#9733 991, pushed 310 days ago
   </sup>
-  - Store links and snippets in the commandline
  </li>
  <li>
   <a href="http://byobu.co/">
@@ -175,113 +175,113 @@
   <a href="https://github.com/shyiko/commacd">
    commacd
   </a>
+  - A faster way to move around in Bash
   <sup>
    &#9733 152, pushed 175 days ago
   </sup>
-  - A faster way to move around in Bash
  </li>
  <li>
   <a href="https://github.com/jamesob/desk">
    desk
   </a>
+  - A lightweight workspace manager for the shell
   <sup>
    &#9733 1812, pushed 6 days ago
   </sup>
-  - A lightweight workspace manager for the shell
  </li>
  <li>
   <a href="https://github.com/direnv/direnv">
    direnv
   </a>
+  - An environment switcher for the shell, compare with autoenv
   <sup>
    &#9733 1524, pushed 16 days ago
   </sup>
-  - An environment switcher for the shell, compare with autoenv
  </li>
  <li>
   <a href="https://github.com/b4b4r07/enhancd">
    enhancd
   </a>
+  - :rocket: A next-generation cd command with an interactive filter
   <sup>
    &#9733 339, pushed 2 days ago
   </sup>
-  - :rocket: A next-generation cd command with an interactive filter
  </li>
  <li>
   <a href="https://github.com/clvv/fasd">
    fasd
   </a>
+  - Command-line productivity booster, offers quick access to files and directories
   <sup>
    &#9733 2348, pushed 55 days ago
   </sup>
-  - Command-line productivity booster, offers quick access to files and directories
  </li>
  <li>
   <a href="https://github.com/junegunn/fzf">
    fzf
   </a>
-  <sup>
-   &#9733 4767, pushed 0 days ago
-  </sup>
   - A command-line fuzzy finder
+  <sup>
+   &#9733 4767, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paoloantinori/hhighlighter">
    hhighlighter
   </a>
+  - Colorize words in a command output
   <sup>
    &#9733 153, pushed 84 days ago
   </sup>
-  - Colorize words in a command output
  </li>
  <li>
   <a href="https://github.com/LuRsT/hr">
    hr
   </a>
-  <sup>
-   &#9733 967, pushed 31 days ago
-  </sup>
   -
   <code>
    <hr />
   </code>
   for your terminal
+  <sup>
+   &#9733 967, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dvorka/hstr">
    hstr
   </a>
+  - Bash History Suggest Box
   <sup>
    &#9733 406, pushed 6 days ago
   </sup>
-  - Bash History Suggest Box
  </li>
  <li>
   <a href="https://github.com/supercrabtree/k">
    k
   </a>
+  - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
   <sup>
    &#9733 586, pushed 28 days ago
   </sup>
-  - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
  </li>
  <li>
   <a href="https://github.com/lingtalfi/k">
    k alias
   </a>
+  - get kool aliases (and more) working with a simple one-liner
   <sup>
    &#9733 3, pushed 84 days ago
   </sup>
-  - get kool aliases (and more) working with a simple one-liner
  </li>
  <li>
   <a href="https://github.com/pindexis/marker">
    marker
   </a>
+  - Bookmark your shell commands
   <sup>
    &#9733 326, pushed 28 days ago
   </sup>
-  - Bookmark your shell commands
  </li>
  <li>
   <a href="http://www.gnu.org/software/parallel/">
@@ -293,64 +293,64 @@
   <a href="https://github.com/facebook/PathPicker">
    pathpicker
   </a>
+  - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
   <sup>
    &#9733 2853, pushed 17 days ago
   </sup>
-  - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
  </li>
  <li>
   <a href="https://github.com/mooz/percol">
    percol
   </a>
+  - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
   <sup>
    &#9733 2022, pushed 100 days ago
   </sup>
-  - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
  </li>
  <li>
   <a href="https://github.com/pindexis/qfc">
    qfc
   </a>
+  - File-completion widget for Bash and Zsh
   <sup>
    &#9733 389, pushed 262 days ago
   </sup>
-  - File-completion widget for Bash and Zsh
  </li>
  <li>
   <a href="https://github.com/MaxCDN/shml">
    SHML
   </a>
+  - Style framework for the terminal (Shell Markup Language)
   <sup>
    &#9733 295, pushed 161 days ago
   </sup>
-  - Style framework for the terminal (Shell Markup Language)
  </li>
  <li>
   <a href="https://github.com/benlinton/slugify">
    slugify
   </a>
+  - Command that converts filenames and directories to a web friendly format
   <sup>
    &#9733 147, pushed 101 days ago
   </sup>
-  - Command that converts filenames and directories to a web friendly format
  </li>
  <li>
   <a href="https://github.com/tokozedg/sman">
    sman
   </a>
+  - :bug: A command-line snippet manager
   <sup>
    &#9733 4, pushed 19 days ago
   </sup>
-  - :bug: A command-line snippet manager
  </li>
  <li>
   <a href="https://github.com/holman/spark">
    spark
   </a>
+  - ▁▂▃▅▂▇ in your shell
   <sup>
    &#9733 4382, pushed 3 days ago
   </sup>
-  - ▁▂▃▅▂▇ in your shell
  </li>
  <li>
   <a href="https://github.com/fishery/shark">
@@ -362,55 +362,55 @@
   <a href="https://github.com/oscardelben/sheet">
    sheet
   </a>
+  -  Text snippets for the command line
   <sup>
    &#9733 212, pushed 1199 days ago
   </sup>
-  -  Text snippets for the command line
  </li>
  <li>
   <a href="https://github.com/rauchg/spot">
    spot
   </a>
+  - Tiny file search utility
   <sup>
    &#9733 555, pushed 262 days ago
   </sup>
-  - Tiny file search utility
  </li>
  <li>
   <a href="https://github.com/srijanshetty/snips">
    snips
   </a>
+  - Commandline tool to manage snippets of code.
   <sup>
    &#9733 15, pushed 122 days ago
   </sup>
-  - Commandline tool to manage snippets of code.
  </li>
  <li>
   <a href="https://github.com/osxfuse/sshfs">
    sshfs
   </a>
+  - A tool for mounting remote file systems over SSH
   <sup>
    &#9733 297, pushed 75 days ago
   </sup>
-  - A tool for mounting remote file systems over SSH
  </li>
  <li>
   <a href="https://github.com/Russell91/sshrc">
    sshrc
   </a>
+  - Bring your .bashrc, .vimrc, etc. with you when you SSH
   <sup>
    &#9733 3240, pushed 2 days ago
   </sup>
-  - Bring your .bashrc, .vimrc, etc. with you when you SSH
  </li>
  <li>
   <a href="https://github.com/nvbn/thefuck">
    thefuck
   </a>
+  - Fix common shell mistakes by using an easy to remember command
   <sup>
    &#9733 20095, pushed 3 days ago
   </sup>
-  - Fix common shell mistakes by using an easy to remember command
  </li>
  <li>
   <a href="http://tmux.github.io/">
@@ -422,37 +422,37 @@
   <a href="https://github.com/shannonmoeller/up">
    up
   </a>
+  - Ascend directories by name or count, for bash and zsh.
   <sup>
    &#9733 6, pushed 67 days ago
   </sup>
-  - Ascend directories by name or count, for bash and zsh.
  </li>
  <li>
   <a href="https://github.com/rupa/v">
    v
   </a>
+  - z for vim.
   <sup>
    &#9733 232, pushed 230 days ago
   </sup>
-  - z for vim.
  </li>
  <li>
   <a href="https://github.com/zolrath/wemux">
    wemux
   </a>
+  - Multi-User Tmux Made Easy
   <sup>
    &#9733 2392, pushed 61 days ago
   </sup>
-  - Multi-User Tmux Made Easy
  </li>
  <li>
   <a href="https://github.com/rupa/z">
    z
   </a>
+  - z is the new j, yo
   <sup>
    &#9733 5465, pushed 10 days ago
   </sup>
-  - z is the new j, yo
  </li>
 </ul>
 <h2>
@@ -468,64 +468,64 @@
   <a href="https://github.com/chriskempson/base16-shell">
    base16-shell
   </a>
+  - Base16 for Shells
   <sup>
    &#9733 433, pushed 21 days ago
   </sup>
-  - Base16 for Shells
  </li>
  <li>
   <a href="https://github.com/slomkowski/bash-full-of-colors">
    bash-full-of-colors
   </a>
+  - Powerful prompt with screen, tmux, git support and many more
   <sup>
    &#9733 2, pushed 7 days ago
   </sup>
-  - Powerful prompt with screen, tmux, git support and many more
  </li>
  <li>
   <a href="https://github.com/magicmonty/bash-git-prompt">
    bash-git-prompt
   </a>
+  - An informative and fancy Bash prompt for Git users
   <sup>
    &#9733 1921, pushed 12 days ago
   </sup>
-  - An informative and fancy Bash prompt for Git users
  </li>
  <li>
   <a href="https://github.com/riobard/bash-powerline">
    bash-powerline
   </a>
+  - Powerline-style Bash prompt in pure Bash script
   <sup>
    &#9733 229, pushed 113 days ago
   </sup>
-  - Powerline-style Bash prompt in pure Bash script
  </li>
  <li>
   <a href="https://github.com/barryclark/bashstrap">
    bashstrap
   </a>
+  - A quick way to spruce up OSX terminal
   <sup>
    &#9733 1358, pushed 13 days ago
   </sup>
-  - A quick way to spruce up OSX terminal
  </li>
  <li>
   <a href="https://github.com/caiogondim/bullet-train-oh-my-zsh-theme">
    bullet-train-oh-my-zsh-theme
   </a>
+  - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
   <sup>
    &#9733 712, pushed 6 days ago
   </sup>
-  - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
  </li>
  <li>
   <a href="https://github.com/mrowa44/emojify">
    emojify
   </a>
+  Emoji on the command line :scream:
   <sup>
    &#9733 624, pushed 142 days ago
   </sup>
-  Emoji on the command line :scream:
  </li>
  <li>
   <a href="https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme">
@@ -537,64 +537,64 @@
   <a href="https://github.com/lvv/git-prompt">
    git-prompt
   </a>
+  - Bash prompt with Git, SVN and HG modules
   <sup>
    &#9733 310, pushed 61 days ago
   </sup>
-  - Bash prompt with Git, SVN and HG modules
  </li>
  <li>
   <a href="https://github.com/momeni/gittify">
    gittify
   </a>
+  - A colorful Bash prompt + customized Git aliases
   <sup>
    &#9733 13, pushed 300 days ago
   </sup>
-  - A colorful Bash prompt + customized Git aliases
  </li>
  <li>
   <a href="https://github.com/Mayccoll/Gogh">
    Gogh - Color Scheme
   </a>
+  - Color Scheme for Gnome Terminal
   <sup>
    &#9733 234, pushed 45 days ago
   </sup>
-  - Color Scheme for Gnome Terminal
  </li>
  <li>
   <a href="https://github.com/nojhan/liquidprompt">
    liquidprompt
   </a>
+  - A full-featured & carefully designed adaptive prompt for Bash & Zsh
   <sup>
    &#9733 2238, pushed 2 days ago
   </sup>
-  - A full-featured & carefully designed adaptive prompt for Bash & Zsh
  </li>
  <li>
   <a href="https://github.com/horosgrisa/mysql-colorize.bash">
    mysql-colorize
   </a>
+  -  Colorization for mysql comand-line client
   <sup>
    &#9733 23, pushed 130 days ago
   </sup>
-  -  Colorization for mysql comand-line client
  </li>
  <li>
   <a href="https://github.com/arialdomartini/oh-my-git">
    oh-my-git
   </a>
+  - An opinionated git prompt for bash and zsh
   <sup>
    &#9733 1999, pushed 4 days ago
   </sup>
-  - An opinionated git prompt for bash and zsh
  </li>
  <li>
   <a href="https://github.com/twolfson/sexy-bash-prompt">
    sexy-bash-prompt
   </a>
+  - Bash prompt with colors, Git statuses, and Git branches
   <sup>
    &#9733 580, pushed 162 days ago
   </sup>
-  - Bash prompt with colors, Git statuses, and Git branches
  </li>
 </ul>
 <h2>
@@ -610,28 +610,28 @@
   <a href="https://github.com/p8952/bocker">
    bocker
   </a>
+  - Docker implemented in 100 lines of bash
   <sup>
    &#9733 3260, pushed 251 days ago
   </sup>
-  - Docker implemented in 100 lines of bash
  </li>
  <li>
   <a href="https://github.com/AlDanial/cloc">
    cloc
   </a>
+  - Count Lines of Code
   <sup>
    &#9733 922, pushed 3 days ago
   </sup>
-  - Count Lines of Code
  </li>
  <li>
   <a href="https://github.com/dokku/dokku">
    dokku
   </a>
+  - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
   <sup>
    &#9733 11549, pushed 4 days ago
   </sup>
-  - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
  </li>
  <li>
   <a href="https://github.com/fishery/getopts">
@@ -643,86 +643,86 @@
   <a href="https://github.com/unixorn/git-extra-commands">
    git-extra-commands
   </a>
+  - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
   <sup>
    &#9733 96, pushed 4 days ago
   </sup>
-  - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
  </li>
  <li>
   <a href="https://github.com/tj/git-extras">
    git-extras
   </a>
+  - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
   <sup>
    &#9733 8179, pushed 2 days ago
   </sup>
-  - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
  </li>
  <li>
   <a href="https://github.com/paulirish/git-open">
    git-open
   </a>
-  <sup>
-   &#9733 466, pushed 174 days ago
-  </sup>
   - Type
   <code>
    git open
   </code>
   to open the GitHub page or website for a repository in your browser
+  <sup>
+   &#9733 466, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/markchalloner/git-semver">
    git-semver
   </a>
+  - Git plugin for easing semantic versioning and changelog validation
   <sup>
    &#9733 59, pushed 9 days ago
   </sup>
-  - Git plugin for easing semantic versioning and changelog validation
  </li>
  <li>
   <a href="https://github.com/rtomayko/git-sh">
    git-sh
   </a>
+  - A customized Bash environment suitable for Git work
   <sup>
    &#9733 652, pushed 119 days ago
   </sup>
-  - A customized Bash environment suitable for Git work
  </li>
  <li>
   <a href="https://github.com/aanand/git-up">
    git-up
   </a>
+  - Automatically rebase incoming changes instead of merging. Be polite!
   <sup>
    &#9733 2800, pushed 4 days ago
   </sup>
-  - Automatically rebase incoming changes instead of merging. Be polite!
  </li>
  <li>
   <a href="https://github.com/github/hub">
    hub
   </a>
+  - hub helps you win at git.
   <sup>
    &#9733 8391, pushed 12 days ago
   </sup>
-  - hub helps you win at git.
  </li>
  <li>
   <a href="https://github.com/joeyh/myrepos">
    mr
   </a>
+  - Multiple Repository management tool
   <sup>
    &#9733 401, pushed 2 days ago
   </sup>
-  - Multiple Repository management tool
  </li>
  <li>
   <a href="https://github.com/brigade/overcommit">
    overcommit
   </a>
+  - A fully configurable and extendable Git hook manager
   <sup>
    &#9733 1244, pushed 2 days ago
   </sup>
-  - A fully configurable and extendable Git hook manager
  </li>
  <li>
   <a href="http://pre-commit.com">
@@ -734,28 +734,28 @@
   <a href="https://github.com/jlevy/repren">
    repren
   </a>
+  - Command-line search-and-replace and file-renaming swiss army knife
   <sup>
    &#9733 102, pushed 139 days ago
   </sup>
-  - Command-line search-and-replace and file-renaming swiss army knife
  </li>
  <li>
   <a href="https://github.com/slap-editor/slap">
    slap
   </a>
+  - Sublime-like terminal-based text editor that runs on Node.js
   <sup>
    &#9733 2987, pushed 11 days ago
   </sup>
-  - Sublime-like terminal-based text editor that runs on Node.js
  </li>
  <li>
   <a href="https://github.com/sapegin/shipit">
    shipit
   </a>
+  - Minimalistic SSH deployment
   <sup>
    &#9733 236, pushed 75 days ago
   </sup>
-  - Minimalistic SSH deployment
  </li>
 </ul>
 <h2>
@@ -777,40 +777,40 @@
   <a href="https://github.com/Xfennec/progress">
    cv
   </a>
+  - Linux tool to show progress for cp, rm, dd, ...
   <sup>
    &#9733 2872, pushed 40 days ago
   </sup>
-  - Linux tool to show progress for cp, rm, dd, ...
  </li>
  <li>
   <a href="https://github.com/nicolargo/glances">
    glances
   </a>
+  - Glances an Eye on your system
   <sup>
    &#9733 4968, pushed 2 days ago
   </sup>
-  - Glances an Eye on your system
  </li>
  <li>
   <a href="https://github.com/allinurl/goaccess">
    goaccess
   </a>
+  - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems.
   <sup>
    &#9733 2535, pushed 8 days ago
   </sup>
-  - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems.
  </li>
  <li>
   <a href="https://github.com/hishamhm/htop">
    htop
   </a>
-  <sup>
-   &#9733 1554, pushed 4 days ago
-  </sup>
   - A ncurses based interactive process viewer which aims to be a better
   <code>
    top
   </code>
+  <sup>
+   &#9733 1554, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lnav.org">
@@ -822,23 +822,23 @@
   <a href="https://github.com/dborzov/lsp">
    lsp
   </a>
-  <sup>
-   &#9733 367, pushed 46 days ago
-  </sup>
   - An improved
   <code>
    ls
   </code>
   , with file descriptions in plain language and intelligent file grouping
+  <sup>
+   &#9733 367, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/traviscross/mtr">
    mtr
   </a>
+  - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
   <sup>
    &#9733 412, pushed 3 days ago
   </sup>
-  - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
  </li>
  <li>
   <a href="https://dev.yorhel.nl/ncdu">
@@ -850,28 +850,28 @@
   <a href="https://github.com/fenrus75/powertop">
    powertop
   </a>
+  - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
   <sup>
    &#9733 202, pushed 4 days ago
   </sup>
-  - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
  </li>
  <li>
   <a href="https://github.com/jlevy/procdog">
    procdog
   </a>
+  - Lightweight command-line control of long-lived processes like servers
   <sup>
    &#9733 35, pushed 286 days ago
   </sup>
-  - Lightweight command-line control of long-lived processes like servers
  </li>
  <li>
   <a href="https://github.com/marshyski/quick-secure">
    quick-secure
   </a>
+  - Quickly secure and harden UNIX/Linux systems
   <sup>
    &#9733 212, pushed 272 days ago
   </sup>
-  - Quickly secure and harden UNIX/Linux systems
  </li>
 </ul>
 <h2>
@@ -893,73 +893,73 @@
   <a href="https://github.com/jneen/balls">
    balls
   </a>
+  - Bash on Balls
   <sup>
    &#9733 595, pushed 1076 days ago
   </sup>
-  - Bash on Balls
  </li>
  <li>
   <a href="https://github.com/avleen/bashttpd">
    bashttpd
   </a>
+  - A web server written in Bash
   <sup>
    &#9733 612, pushed 384 days ago
   </sup>
-  - A web server written in Bash
  </li>
  <li>
   <a href="https://github.com/sickill/bitpocket">
    bitpocket
   </a>
+  - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
   <sup>
    &#9733 845, pushed 61 days ago
   </sup>
-  - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
  </li>
  <li>
   <a href="https://github.com/andreafabrizi/Dropbox-Uploader">
    Dropbox-Uploader
   </a>
+  - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
   <sup>
    &#9733 3891, pushed 7 days ago
   </sup>
-  - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
  </li>
  <li>
   <a href="https://github.com/jkbrzt/httpie">
    httpie
   </a>
+  - HTTPie is a command line HTTP client, a user-friendly cURL replacement
   <sup>
    &#9733 22333, pushed 5 days ago
   </sup>
-  - HTTPie is a command line HTTP client, a user-friendly cURL replacement
  </li>
  <li>
   <a href="https://github.com/jaburns/ngincat">
    ngincat
   </a>
-  <sup>
-   &#9733 88, pushed 655 days ago
-  </sup>
   - Tiny Bash HTTP server using netcat
+  <sup>
+   &#9733 88, pushed 656 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/micha/resty">
    resty
   </a>
+  - Little command line REST client that you can use in pipelines
   <sup>
    &#9733 1885, pushed 23 days ago
   </sup>
-  - Little command line REST client that you can use in pipelines
  </li>
  <li>
   <a href="https://github.com/rg3/youtube-dl">
    youtube-dl
   </a>
+  - Small command-line program to download videos from YouTube.com and other video sites
   <sup>
    &#9733 17424, pushed 2 days ago
   </sup>
-  - Small command-line program to download videos from YouTube.com and other video sites
  </li>
 </ul>
 <h2>
@@ -975,55 +975,55 @@
   <a href="https://github.com/sromku/adb-export">
    adb-export
   </a>
+  - Export Android content providers to CSV format
   <sup>
    &#9733 41, pushed 393 days ago
   </sup>
-  - Export Android content providers to CSV format
  </li>
  <li>
   <a href="https://github.com/dsixda/Android-Kitchen">
    Android-Kitchen
   </a>
+  - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
   <sup>
    &#9733 678, pushed 308 days ago
   </sup>
-  - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
  </li>
  <li>
   <a href="https://github.com/beetbox/beets">
    Beets
   </a>
+  - Music library manager and MusicBrainz tagger
   <sup>
    &#9733 4666, pushed 2 days ago
   </sup>
-  - Music library manager and MusicBrainz tagger
  </li>
  <li>
   <a href="https://github.com/cmus/cmus">
    cmus
   </a>
+  - Cross-platform cli audio player.
   <sup>
    &#9733 1417, pushed 1 days ago
   </sup>
-  - Cross-platform cli audio player.
  </li>
  <li>
   <a href="https://github.com/sananth12/ImageScraper">
    image-scraper
   </a>
+  - A cool command line image scraper with a lot of features.
   <sup>
    &#9733 262, pushed 29 days ago
   </sup>
-  - A cool command line image scraper with a lot of features.
  </li>
  <li>
   <a href="https://github.com/stedolan/jq">
    jq
   </a>
+  - Sed for json data. You can use it to slice and filter and map and transform structured data
   <sup>
    &#9733 6555, pushed 19 days ago
   </sup>
-  - Sed for json data. You can use it to slice and filter and map and transform structured data
  </li>
  <li>
   <a href="http://www.mplayerhq.hu/design7/news.html">
@@ -1035,10 +1035,10 @@
   <a href="https://github.com/lanceseidman/PiCAST">
    PiCAST
   </a>
+  - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
   <sup>
    &#9733 900, pushed 28 days ago
   </sup>
-  - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
  </li>
  <li>
   <a href="https://github.com/torakiki/sejda/">
@@ -1066,145 +1066,145 @@
   <a href="https://github.com/fcambus/ansiweather">
    ansiweather
   </a>
+  - Weather in your terminal, with ANSI colors and Unicode symbols
   <sup>
    &#9733 1195, pushed 2 days ago
   </sup>
-  - Weather in your terminal, with ANSI colors and Unicode symbols
  </li>
  <li>
   <a href="https://github.com/cfenollosa/bashblog">
    bashblog
   </a>
+  - A Bash script that handles blog posting
   <sup>
    &#9733 464, pushed 7 days ago
   </sup>
-  - A Bash script that handles blog posting
  </li>
  <li>
   <a href="https://github.com/lord63/choosealicense-cli">
    choosealicense-cli
   </a>
+  - Bring http://choosealicense.com to your terminal
   <sup>
    &#9733 16, pushed 44 days ago
   </sup>
-  - Bring http://choosealicense.com to your terminal
  </li>
  <li>
   <a href="https://github.com/huydx/facy">
    facy
   </a>
-  <sup>
-   &#9733 212, pushed 154 days ago
-  </sup>
   - Command line power tool for facebook
+  <sup>
+   &#9733 212, pushed 155 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/afc163/fanyi">
    fanyi
   </a>
+  - Translate English to Chinese in terminal
   <sup>
    &#9733 174, pushed 60 days ago
   </sup>
-  - Translate English to Chinese in terminal
  </li>
  <li>
   <a href="https://github.com/VitaliyRodnenko/geeknote">
    geeknote
   </a>
+  - Command line evernote client
   <sup>
    &#9733 1565, pushed 4 days ago
   </sup>
-  - Command line evernote client
  </li>
  <li>
   <a href="https://github.com/rafaelrinaldi/hn-cli">
    hn-cli
   </a>
+  - Browse Hacker News from the comfort of your Terminal
   <sup>
    &#9733 346, pushed 90 days ago
   </sup>
-  - Browse Hacker News from the comfort of your Terminal
  </li>
  <li>
   <a href="https://github.com/nogizhopaboroda/iponmap">
    iponmap
   </a>
+  - Draw point on world map using ip address
   <sup>
    &#9733 44, pushed 184 days ago
   </sup>
-  - Draw point on world map using ip address
  </li>
  <li>
   <a href="https://github.com/lord63/isitup">
    isitup
   </a>
+  - Check whether a website is up or down
   <sup>
    &#9733 15, pushed 253 days ago
   </sup>
-  - Check whether a website is up or down
  </li>
  <li>
   <a href="https://github.com/maebert/jrnl">
    jrnl
   </a>
+  - A simple command line journal application that stores your journal in a plain text file
   <sup>
    &#9733 1950, pushed 17 days ago
   </sup>
-  - A simple command line journal application that stores your journal in a plain text file
  </li>
  <li>
   <a href="https://github.com/ledger/ledger">
    ledger
   </a>
-  <sup>
-   &#9733 1649, pushed 12 days ago
-  </sup>
   - Command line accounting
+  <sup>
+   &#9733 1649, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lord63/licen">
    licen
   </a>
+  - Generate your license. Yet another lice, but implement with Jinja2 and docopt
   <sup>
    &#9733 18, pushed 407 days ago
   </sup>
-  - Generate your license. Yet another lice, but implement with Jinja2 and docopt
  </li>
  <li>
   <a href="https://github.com/iCHAIT/moviemon">
    moviemon
   </a>
+  - Everything about your movies within the command line.
   <sup>
    &#9733 55, pushed 91 days ago
   </sup>
-  - Everything about your movies within the command line.
  </li>
  <li>
   <a href="https://github.com/alebcay/pushblast">
    pushblast
   </a>
+  - Get PushBullet notifications when a shell program exits
   <sup>
    &#9733 78, pushed 137 days ago
   </sup>
-  - Get PushBullet notifications when a shell program exits
  </li>
  <li>
   <a href="https://github.com/Red5d/pushbullet-bash">
    pushbullet-bash
   </a>
+  - Bash interface to the PushBullet API
   <sup>
    &#9733 146, pushed 7 days ago
   </sup>
-  - Bash interface to the PushBullet API
  </li>
  <li>
   <a href="https://github.com/donnemartin/saws">
    SAWS
   </a>
+  - A Supercharged AWS CLI
   <sup>
    &#9733 2792, pushed 2 days ago
   </sup>
-  - A Supercharged AWS CLI
  </li>
  <li>
   <a href="https://transfer.sh/">
@@ -1216,19 +1216,19 @@
   <a href="https://github.com/schachmat/wego">
    wego
   </a>
+  - Weather app for the terminal
   <sup>
    &#9733 4296, pushed 6 days ago
   </sup>
-  - Weather app for the terminal
  </li>
  <li>
   <a href="https://github.com/rafaelrinaldi/whereami">
    whereami
   </a>
+  - Get your geolocation information from the CLI
   <sup>
    &#9733 13, pushed 59 days ago
   </sup>
-  - Get your geolocation information from the CLI
  </li>
 </ul>
 <h2>
@@ -1244,10 +1244,10 @@
   <a href="https://github.com/mydzor/bash2048">
    bash2048
   </a>
+  - Bash implementation of 2048 game
   <sup>
    &#9733 551, pushed 210 days ago
   </sup>
-  - Bash implementation of 2048 game
  </li>
  <li>
   <a href="https://github.com/feherke/Bash-script/tree/master/minesweeper">
@@ -1259,19 +1259,19 @@
   <a href="https://github.com/uuner/sedtris">
    sedtris
   </a>
-  <sup>
-   &#9733 68, pushed 1460 days ago
-  </sup>
   - Tetris in sed
+  <sup>
+   &#9733 68, pushed 1461 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aureliojargas/sed-scripts">
    sed-scripts
   </a>
+  - Arkanoid and Sokoban written using sed
   <sup>
    &#9733 11, pushed 1176 days ago
   </sup>
-  - Arkanoid and Sokoban written using sed
  </li>
 </ul>
 <h2>
@@ -1287,19 +1287,19 @@
   <a href="https://github.com/Bash-it/bash-it">
    bash-it
   </a>
+  - A community Bash framework
   <sup>
    &#9733 4477, pushed 4 days ago
   </sup>
-  - A community Bash framework
  </li>
  <li>
   <a href="https://github.com/basherpm/basher">
    basher
   </a>
+  - A package manager for shell scripts
   <sup>
    &#9733 161, pushed 14 days ago
   </sup>
-  - A package manager for shell scripts
  </li>
  <li>
   <a href="http://www.bpkg.io/">
@@ -1311,37 +1311,37 @@
   <a href="https://github.com/svetlyak40wt/dotfiler">
    dotfiler
   </a>
+  – Shell agnostic git based dotfiles package manager, written in Python.
   <sup>
    &#9733 78, pushed 110 days ago
   </sup>
-  – Shell agnostic git based dotfiles package manager, written in Python.
  </li>
  <li>
   <a href="https://github.com/freshshell/fresh">
    fresh
   </a>
+  - Keep your dotfiles fresh
   <sup>
    &#9733 650, pushed 36 days ago
   </sup>
-  - Keep your dotfiles fresh
  </li>
  <li>
   <a href="https://github.com/andsens/homeshick">
    homeshick
   </a>
+  - Git dotfile synchronizer written in Bash
   <sup>
    &#9733 874, pushed 191 days ago
   </sup>
-  - Git dotfile synchronizer written in Bash
  </li>
  <li>
   <a href="https://github.com/RichiH/vcsh">
    vcsh
   </a>
+  - Config manager based on Git
   <sup>
    &#9733 1092, pushed 38 days ago
   </sup>
-  - Config manager based on Git
  </li>
 </ul>
 <h2>
@@ -1357,46 +1357,46 @@
   <a href="https://github.com/fidian/ansi">
    ansi
   </a>
+  - ANSI escape codes in pure bash - change text color, position the cursor, much more
   <sup>
    &#9733 55, pushed 83 days ago
   </sup>
-  - ANSI escape codes in pure bash - change text color, position the cursor, much more
  </li>
  <li>
   <a href="https://github.com/lehmannro/assert.sh">
    assert.sh
   </a>
+  - Bash unit testing framework
   <sup>
    &#9733 214, pushed 270 days ago
   </sup>
-  - Bash unit testing framework
  </li>
  <li>
   <a href="https://github.com/jmcantrell/bashful">
    bashful
   </a>
+  - A collection of libraries to simplify writing Bash scripts
   <sup>
    &#9733 270, pushed 30 days ago
   </sup>
-  - A collection of libraries to simplify writing Bash scripts
  </li>
  <li>
   <a href="https://github.com/lingtalfi/bashmanager">
    bashmanager
   </a>
+  - mini bash framework for creating command line tools
   <sup>
    &#9733 14, pushed 66 days ago
   </sup>
-  - mini bash framework for creating command line tools
  </li>
  <li>
   <a href="https://github.com/sstephenson/bats">
    bats
   </a>
+  - Bash Automated Testing System
   <sup>
    &#9733 2403, pushed 13 days ago
   </sup>
-  - Bash Automated Testing System
  </li>
  <li>
   <a href="https://github.com/fishery/fishtape">
@@ -1408,10 +1408,10 @@
   <a href="https://github.com/erichs/composure">
    composure
   </a>
+  - Compose, document, version and organize your shell functions
   <sup>
    &#9733 138, pushed 25 days ago
   </sup>
-  - Compose, document, version and organize your shell functions
  </li>
  <li>
   <a href="https://github.com/Mosai/workshop/blob/master/doc/dispatch.md">
@@ -1423,82 +1423,82 @@
   <a href="https://github.com/qzb/is.sh">
    is.sh
   </a>
+  - An alternative for builtin test command, it will make your "if" statements pretty
   <sup>
    &#9733 7, pushed 26 days ago
   </sup>
-  - An alternative for builtin test command, it will make your "if" statements pretty
  </li>
  <li>
   <a href="https://github.com/tests-always-included/mo">
    mo
   </a>
+  - Mustache templates in pure bash
   <sup>
    &#9733 48, pushed 134 days ago
   </sup>
-  - Mustache templates in pure bash
  </li>
  <li>
   <a href="https://github.com/rerun/rerun">
    rerun
   </a>
+  - A modular shell automation framework to organize your keeper scripts
   <sup>
    &#9733 248, pushed 40 days ago
   </sup>
-  - A modular shell automation framework to organize your keeper scripts
  </li>
  <li>
   <a href="https://github.com/cloudflare/semver_bash">
    semver_bash
   </a>
+  - Semantic Versioning in Bash
   <sup>
    &#9733 70, pushed 931 days ago
   </sup>
-  - Semantic Versioning in Bash
  </li>
  <li>
   <a href="https://github.com/koalaman/shellcheck">
    shellcheck
   </a>
+  - Static analysis tool for shell scripts
   <sup>
    &#9733 3767, pushed 3 days ago
   </sup>
-  - Static analysis tool for shell scripts
  </li>
  <li>
   <a href="https://github.com/rylnd/shpec">
    shpec
   </a>
+  - A shell testing framework
   <sup>
    &#9733 231, pushed 4 days ago
   </sup>
-  - A shell testing framework
  </li>
  <li>
   <a href="https://github.com/basecamp/sub">
    sub
   </a>
+  - A delicious way to organize programs
   <sup>
    &#9733 1245, pushed 1243 days ago
   </sup>
-  - A delicious way to organize programs
  </li>
  <li>
   <a href="https://github.com/thinkerbot/ts">
    ts
   </a>
-  <sup>
-   &#9733 22, pushed 180 days ago
-  </sup>
   - A shell test script
+  <sup>
+   &#9733 22, pushed 181 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kward/shunit2">
    shunit2
   </a>
+  - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
   <sup>
    &#9733 105, pushed 189 days ago
   </sup>
-  - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
  </li>
 </ul>
 <h1>

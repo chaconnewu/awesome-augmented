@@ -855,7 +855,7 @@
    core.typed
   </a>
   <sup>
-   &#9733 825, pushed 17 days ago
+   &#9733 825, pushed 18 days ago
   </sup>
  </li>
 </ul>

@@ -213,10 +213,10 @@
   <a href="https://github.com/textmate/r.tmbundle">
    TextMate + r.tmblundle
   </a>
+  - Add-on package for TextMate 1/2.
   <sup>
    &#9733 21, pushed 354 days ago
   </sup>
-  - Add-on package for TextMate 1/2.
  </li>
  <li>
   <a href="http://www.walware.de/goto/statet">
@@ -258,19 +258,19 @@
   <a href="https://github.com/vim-scripts/Vim-R-plugin">
    Vim-R
   </a>
+  - Vim plugin for R.
   <sup>
    &#9733 101, pushed 48 days ago
   </sup>
-  - Vim plugin for R.
  </li>
  <li>
   <a href="https://github.com/jalvesaq/Nvim-R">
    Nvim-R
   </a>
+  - Neovim plugin for R.
   <sup>
    &#9733 54, pushed 1 days ago
   </sup>
-  - Neovim plugin for R.
  </li>
  <li>
   <a href="https://jasp-stats.org/">
@@ -304,37 +304,37 @@
   <a href="https://github.com/smbache/magrittr">
    magrittr
   </a>
+  - Let's pipe it.
   <sup>
    &#9733 367, pushed 59 days ago
   </sup>
-  - Let's pipe it.
  </li>
  <li>
   <a href="https://github.com/renkun-ken/pipeR">
    pipeR
   </a>
+  - Multi-paradigm Pipeline Implementation.
   <sup>
    &#9733 100, pushed 29 days ago
   </sup>
-  - Multi-paradigm Pipeline Implementation.
  </li>
  <li>
   <a href="https://github.com/zatonovo/lambda.r">
    lambda.r
   </a>
+  - Functional programming and simple pattern matching in R.
   <sup>
    &#9733 78, pushed 411 days ago
   </sup>
-  - Functional programming and simple pattern matching in R.
  </li>
  <li>
   <a href="https://github.com/hadley/purrr">
    purrr
   </a>
+  - A FP package for R in the spirit of underscore.js.
   <sup>
    &#9733 249, pushed 3 days ago
   </sup>
-  - A FP package for R in the spirit of underscore.js.
  </li>
 </ul>
 <h2>
@@ -350,82 +350,82 @@
   <a href="https://github.com/hadley/dplyr">
    dplyr
   </a>
+  - Fast data frames manipulation and database query.
   <sup>
    &#9733 1188, pushed 2 days ago
   </sup>
-  - Fast data frames manipulation and database query.
  </li>
  <li>
   <a href="https://github.com/Rdatatable/data.table">
    data.table
   </a>
+  - Fast data manipulation in a short and flexible syntax.
   <sup>
    &#9733 655, pushed 2 days ago
   </sup>
-  - Fast data manipulation in a short and flexible syntax.
  </li>
  <li>
   <a href="https://github.com/hadley/reshape">
    reshape2
   </a>
+  - Flexible rearrange, reshape and aggregate data.
   <sup>
    &#9733 130, pushed 27 days ago
   </sup>
-  - Flexible rearrange, reshape and aggregate data.
  </li>
  <li>
   <a href="https://github.com/hadley/readr">
    readr
   </a>
+  - A fast and friendly way to read tabular data into R.
   <sup>
    &#9733 378, pushed 4 days ago
   </sup>
-  - A fast and friendly way to read tabular data into R.
  </li>
  <li>
   <a href="https://github.com/hadley/haven">
    haven
   </a>
+  - Improved methods to import SPSS, Stata and SAS files in R.
   <sup>
    &#9733 147, pushed 35 days ago
   </sup>
-  - Improved methods to import SPSS, Stata and SAS files in R.
  </li>
  <li>
   <a href="https://github.com/hadley/tidyr">
    tidyr
   </a>
+  - Easily tidy data with spread and gather functions.
   <sup>
    &#9733 294, pushed 13 days ago
   </sup>
-  - Easily tidy data with spread and gather functions.
  </li>
  <li>
   <a href="https://github.com/dgrtwo/broom">
    broom
   </a>
+  - Convert statistical analysis objects into tidy data frames.
   <sup>
    &#9733 381, pushed 6 days ago
   </sup>
-  - Convert statistical analysis objects into tidy data frames.
  </li>
  <li>
   <a href="https://github.com/renkun-ken/rlist">
    rlist
   </a>
+  - A toolbox for non-tabular data manipulation with lists.
   <sup>
    &#9733 67, pushed 29 days ago
   </sup>
-  - A toolbox for non-tabular data manipulation with lists.
  </li>
  <li>
   <a href="https://github.com/jeroenooms/jsonlite">
    jsonlite
   </a>
+  - A robust and quick way to parse JSON files in R.
   <sup>
    &#9733 102, pushed 13 days ago
   </sup>
-  - A robust and quick way to parse JSON files in R.
  </li>
  <li>
   <a href="http://ff.r-forge.r-project.org/">
@@ -449,10 +449,10 @@
   <a href="https://github.com/hadley/stringr">
    stringr
   </a>
+  - Consistent API for string processing, built on top of stringi.
   <sup>
    &#9733 129, pushed 180 days ago
   </sup>
-  - Consistent API for string processing, built on top of stringi.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/bigmemory/index.html">
@@ -472,10 +472,10 @@
   <a href="https://github.com/dgrtwo/fuzzyjoin">
    fuzzyjoin
   </a>
+  - Join tables together on inexact matching.
   <sup>
    &#9733 104, pushed 18 days ago
   </sup>
-  - Join tables together on inexact matching.
  </li>
 </ul>
 <h2>
@@ -491,37 +491,37 @@
   <a href="https://github.com/hadley/ggplot2">
    ggplot2
   </a>
+  - An implementation of the Grammar of Graphics.
   <sup>
    &#9733 1787, pushed 4 days ago
   </sup>
-  - An implementation of the Grammar of Graphics.
  </li>
  <li>
   <a href="https://github.com/sinhrks/ggfortify">
    ggfortify
   </a>
+  - A unified interface to ggplot2 popular statistical packages using one line of code.
   <sup>
    &#9733 180, pushed 10 days ago
   </sup>
-  - A unified interface to ggplot2 popular statistical packages using one line of code.
  </li>
  <li>
   <a href="https://github.com/slowkow/ggrepel">
    ggrepel
   </a>
+  - Repel overlapping text labels away from each other.
   <sup>
    &#9733 219, pushed 49 days ago
   </sup>
-  - Repel overlapping text labels away from each other.
  </li>
  <li>
   <a href="https://github.com/hrbrmstr/ggalt">
    ggalt
   </a>
+  - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
   <sup>
    &#9733 120, pushed 16 days ago
   </sup>
-  - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
  </li>
  <li>
   <a href="https://ggplot2-exts.github.io/ggiraph.html">
@@ -551,19 +551,19 @@
   <a href="https://github.com/wch/extrafont">
    extrafont
   </a>
+  - Tools for using fonts in R graphics.
   <sup>
    &#9733 83, pushed 125 days ago
   </sup>
-  - Tools for using fonts in R graphics.
  </li>
  <li>
   <a href="https://github.com/yixuan/showtext">
    showtext
   </a>
+  - Enable R graphics device to show text using system fonts.
   <sup>
    &#9733 81, pushed 187 days ago
   </sup>
-  - Enable R graphics device to show text using system fonts.
  </li>
  <li>
   <a href="http://yihui.name/animation/">
@@ -579,10 +579,10 @@
   <a href="https://github.com/dgrtwo/gganimate">
    gganimate
   </a>
+  - Create easy animations with ggplot2.
   <sup>
    &#9733 227, pushed 85 days ago
   </sup>
-  - Create easy animations with ggplot2.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/misc3d/index.html">
@@ -616,10 +616,10 @@
   <a href="https://github.com/rstudio/d3heatmap">
    d3heatmap
   </a>
+  - Interactive heatmaps with D3.
   <sup>
    &#9733 127, pushed 4 days ago
   </sup>
-  - Interactive heatmaps with D3.
  </li>
  <li>
   <a href="http://rstudio.github.io/DT/">
@@ -631,19 +631,19 @@
   <a href="https://github.com/rich-iannone/DiagrammeR">
    DiagrammeR
   </a>
+  - Create JS graph diagrams and flowcharts in R.
   <sup>
    &#9733 499, pushed 2 days ago
   </sup>
-  - Create JS graph diagrams and flowcharts in R.
  </li>
  <li>
   <a href="https://github.com/rstudio/dygraphs">
    dygraphs
   </a>
+  - Charting time-series data in R.
   <sup>
    &#9733 145, pushed 4 days ago
   </sup>
-  - Charting time-series data in R.
  </li>
  <li>
   <a href="http://renkun.me/formattable/">
@@ -655,10 +655,10 @@
   <a href="https://github.com/rstudio/ggvis">
    ggvis
   </a>
+  - Interactive grammar of graphics for R.
   <sup>
    &#9733 530, pushed 197 days ago
   </sup>
-  - Interactive grammar of graphics for R.
  </li>
  <li>
   <a href="http://rstudio.github.io/leaflet/">
@@ -682,32 +682,32 @@
   <a href="https://github.com/juba/scatterD3">
    scatterD3
   </a>
+  - Interactive scatterplots with D3.
   <sup>
    &#9733 51, pushed 28 days ago
   </sup>
-  - Interactive scatterplots with D3.
  </li>
  <li>
   <a href="https://github.com/ropensci/plotly">
    plotly
   </a>
-  <sup>
-   &#9733 478, pushed 2 days ago
-  </sup>
   - Interactive ggplot2 and Shiny plotting with
   <a href="https://plot.ly">
    plot.ly
   </a>
   .
+  <sup>
+   &#9733 478, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ramnathv/rCharts">
    rCharts
   </a>
+  - Interactive JS Charts from R.
   <sup>
    &#9733 964, pushed 7 days ago
   </sup>
-  - Interactive JS Charts from R.
  </li>
  <li>
   <a href="http://hafen.github.io/rbokeh/">
@@ -723,10 +723,10 @@
   <a href="https://github.com/bwlewis/rthreejs">
    threejs
   </a>
+  - Interactive 3D scatter plots and globes.
   <sup>
    &#9733 100, pushed 3 days ago
   </sup>
-  - Interactive 3D scatter plots and globes.
  </li>
 </ul>
 <h2>
@@ -766,10 +766,10 @@
   <a href="https://github.com/ramnathv/slidify">
    slidify
   </a>
+  - Generate reproducible html5 slides from R markdown.
   <sup>
    &#9733 686, pushed 65 days ago
   </sup>
-  - Generate reproducible html5 slides from R markdown.
  </li>
  <li>
   <a href="https://www.statistik.lmu.de/~leisch/Sweave/">
@@ -821,19 +821,19 @@
   <a href="https://github.com/ropensci/webservices">
    Web Technologies List
   </a>
+  - Information about how to use R and the world wide web together.
   <sup>
    &#9733 100, pushed 5 days ago
   </sup>
-  - Information about how to use R and the world wide web together.
  </li>
  <li>
   <a href="https://github.com/rstudio/shiny">
    shiny
   </a>
+  - Easy interactive web applications with R.
   <sup>
    &#9733 1715, pushed 1 days ago
   </sup>
-  - Easy interactive web applications with R.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/RCurl/index.html">
@@ -845,19 +845,19 @@
   <a href="https://github.com/hadley/httr">
    httr
   </a>
+  - User-friendly RCurl wrapper.
   <sup>
    &#9733 509, pushed 23 days ago
   </sup>
-  - User-friendly RCurl wrapper.
  </li>
  <li>
   <a href="https://github.com/rstudio/httpuv">
    httpuv
   </a>
+  - HTTP and WebSocket server library.
   <sup>
    &#9733 56, pushed 34 days ago
   </sup>
-  - HTTP and WebSocket server library.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/XML/index.html">
@@ -869,10 +869,10 @@
   <a href="https://github.com/hadley/rvest">
    rvest
   </a>
+  - Simple web scraping for R, using CSSSelect or XPath syntax.
   <sup>
    &#9733 547, pushed 14 days ago
   </sup>
-  - Simple web scraping for R, using CSSSelect or XPath syntax.
  </li>
  <li>
   <a href="https://www.opencpu.org/">
@@ -884,10 +884,10 @@
   <a href="https://github.com/pablobarbera/Rfacebook">
    Rfacebook
   </a>
+  - Access to Facebook API via R.
   <sup>
    &#9733 128, pushed 18 days ago
   </sup>
-  - Access to Facebook API via R.
  </li>
 </ul>
 <h2>
@@ -929,28 +929,28 @@
   <a href="https://github.com/amplab-extras/SparkR-pkg">
    SparkR
   </a>
+  - R frontend for Spark.
   <sup>
    &#9733 588, pushed 44 days ago
   </sup>
-  - R frontend for Spark.
  </li>
  <li>
   <a href="https://github.com/vertica/DistributedR">
    DistributedR
   </a>
+  - A scalable high-performance platform from  HP Vertica Analytics Team.
   <sup>
    &#9733 121, pushed 138 days ago
   </sup>
-  - A scalable high-performance platform from  HP Vertica Analytics Team.
  </li>
  <li>
   <a href="https://github.com/vertica/ddR">
    ddR
   </a>
+  - Provides distributed data structures and simplifies distributed computing in R.
   <sup>
    &#9733 75, pushed 111 days ago
   </sup>
-  - Provides distributed data structures and simplifies distributed computing in R.
  </li>
 </ul>
 <h2>
@@ -972,10 +972,10 @@
   <a href="https://github.com/Rcpp11/Rcpp11">
    Rcpp11
   </a>
+  - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
   <sup>
    &#9733 62, pushed 54 days ago
   </sup>
-  - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
  </li>
  <li>
   <a href="http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html">
@@ -1003,10 +1003,10 @@
   <a href="https://github.com/cran/jvmr">
    jvmr
   </a>
+  - Integration of R, Java, and Scala.
   <sup>
    &#9733 10, pushed 612 days ago
   </sup>
-  - Integration of R, Java, and Scala.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/rJython/index.html">
@@ -1024,19 +1024,19 @@
   <a href="https://github.com/yihui/runr">
    runr
   </a>
+  - Run Julia and Bash from R.
   <sup>
    &#9733 44, pushed 64 days ago
   </sup>
-  - Run Julia and Bash from R.
  </li>
  <li>
   <a href="https://github.com/armgong/RJulia">
    RJulia
   </a>
+  - R package Call Julia.
   <sup>
    &#9733 94, pushed 126 days ago
   </sup>
-  - R package Call Julia.
  </li>
  <li>
   <a href="https://sites.google.com/a/ddahl.org/rinruby-users/">
@@ -1054,10 +1054,10 @@
   <a href="https://github.com/renozao/RcppOctave">
    RcppOctave
   </a>
+  - Seamless Interface to Octave and Matlab.
   <sup>
    &#9733 8, pushed 112 days ago
   </sup>
-  - Seamless Interface to Octave and Matlab.
  </li>
  <li>
   <a href="http://www.omegahat.org/RSPerl/">
@@ -1069,10 +1069,10 @@
   <a href="https://github.com/jeroenooms/V8">
    V8
   </a>
+  - Embedded JavaScript Engine.
   <sup>
    &#9733 52, pushed 20 days ago
   </sup>
-  - Embedded JavaScript Engine.
  </li>
  <li>
   <a href="http://www.htmlwidgets.org/">
@@ -1106,28 +1106,28 @@
   <a href="https://github.com/rstats-db/DBI">
    DBI
   </a>
+  - Defines a common interface between the R and database management systems.
   <sup>
    &#9733 55, pushed 3 days ago
   </sup>
-  - Defines a common interface between the R and database management systems.
  </li>
  <li>
   <a href="https://github.com/ropensci/elastic">
    elastic
   </a>
+  - Wrapper for the Elasticsearch HTTP API
   <sup>
    &#9733 91, pushed 16 days ago
   </sup>
-  - Wrapper for the Elasticsearch HTTP API
  </li>
  <li>
   <a href="https://github.com/jeroenooms/mongolite">
    mongolite
   </a>
+  - Streaming Mongo Client for R
   <sup>
    &#9733 51, pushed 12 days ago
   </sup>
-  - Streaming Mongo Client for R
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/RMySQL/">
@@ -1163,10 +1163,10 @@
   <a href="https://github.com/mongosoup/rmongodb">
    rmongodb
   </a>
+  - R driver for MongoDB.
   <sup>
    &#9733 55, pushed 43 days ago
   </sup>
-  - R driver for MongoDB.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/rredis/">
@@ -1184,19 +1184,19 @@
   <a href="https://github.com/nexr/RHive">
    RHive
   </a>
+  - R extension facilitating distributed computing via Apache Hive.
   <sup>
    &#9733 108, pushed 275 days ago
   </sup>
-  - R extension facilitating distributed computing via Apache Hive.
  </li>
  <li>
   <a href="https://github.com/nicolewhite/Rneo4j">
    RNeo4j
   </a>
+  - Neo4j graph database driver.
   <sup>
    &#9733 141, pushed 27 days ago
   </sup>
-  - Neo4j graph database driver.
  </li>
 </ul>
 <h2>
@@ -1212,10 +1212,10 @@
   <a href="https://github.com/twitter/AnomalyDetection">
    AnomalyDetection
   </a>
+  - AnomalyDetection R package from Twitter.
   <sup>
    &#9733 1440, pushed 3 days ago
   </sup>
-  - AnomalyDetection R package from Twitter.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/ahaz/index.html">
@@ -1259,10 +1259,10 @@ cases)
   <a href="https://github.com/twitter/BreakoutDetection">
    BreakoutDetection
   </a>
+  - Breakout Detection via Robust E-Statistics from Twitter.
   <sup>
    &#9733 472, pushed 385 days ago
   </sup>
-  - Breakout Detection via Robust E-Statistics from Twitter.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/bst/index.html">
@@ -1274,10 +1274,10 @@ cases)
   <a href="https://github.com/google/CausalImpact">
    CausalImpact
   </a>
+  - Causal inference using Bayesian structural time-series models.
   <sup>
    &#9733 481, pushed 13 days ago
   </sup>
-  - Causal inference using Bayesian structural time-series models.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/C50/index.html">
@@ -1698,14 +1698,14 @@ Angle Regression
   <a href="https://github.com/ecpolley/SuperLearner">
    SuperLearner
   </a>
-  <sup>
-   &#9733 55, pushed 22 days ago
-  </sup>
   and
   <a href="http://cran.r-project.org/web/packages/subsemble/index.html">
    subsemble
   </a>
   - Multi-algorithm ensemble learning packages.
+  <sup>
+   &#9733 55, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/svmpath/index.html">
@@ -1751,10 +1751,10 @@ Angle Regression
   <a href="https://github.com/dselivanov/text2vec">
    text2vec
   </a>
+  - Fast Text Mining Framework for Vectorization and Word Embeddings.
   <sup>
    &#9733 91, pushed 33 days ago
   </sup>
-  - Fast Text Mining Framework for Vectorization and Word Embeddings.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/tm/index.html">
@@ -1802,10 +1802,10 @@ Angle Regression
   <a href="https://github.com/cpsievert/LDAvis">
    LDAvis
   </a>
+  - Interactive visualization of topic models.
   <sup>
    &#9733 193, pushed 116 days ago
   </sup>
-  - Interactive visualization of topic models.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/topicmodels/index.html">
@@ -1829,19 +1829,19 @@ Angle Regression
   <a href="https://github.com/kbenoit/quanteda">
    quanteda
   </a>
+  - R functions for Quantitative Analysis of Textual Data.
   <sup>
    &#9733 133, pushed 2 days ago
   </sup>
-  - R functions for Quantitative Analysis of Textual Data.
  </li>
  <li>
   <a href="https://github.com/trinker/topicmodels_learning">
    Topic Models Resources
   </a>
+  - Topic Models learning and R related resources.
   <sup>
    &#9733 46, pushed 94 days ago
   </sup>
-  - Topic Models learning and R related resources.
  </li>
  <li>
   <a href="https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md">
@@ -2040,10 +2040,10 @@ Angle Regression
   <a href="https://github.com/briatte/awesome-network-analysis">
    Network Analysis List
   </a>
+  - Network Analysis related resources.
   <sup>
    &#9733 179, pushed 1 days ago
   </sup>
-  - Network Analysis related resources.
  </li>
  <li>
   <a href="http://igraph.org/r/">
@@ -2121,10 +2121,10 @@ Angle Regression
   <a href="https://github.com/DataKnowledge/visNetwork">
    visNetwork
   </a>
+  - Using vis.js library for network visualization.
   <sup>
    &#9733 0, pushed 41 days ago
   </sup>
-  - Using vis.js library for network visualization.
  </li>
 </ul>
 <h2>
@@ -2140,73 +2140,73 @@ Angle Regression
   <a href="https://github.com/ropensci/PackageDevelopment">
    Package Development List
   </a>
+  - R packages to improve package development.
   <sup>
    &#9733 11, pushed 5 days ago
   </sup>
-  - R packages to improve package development.
  </li>
  <li>
   <a href="https://github.com/hadley/devtools">
    devtools
   </a>
+  - Tools to make an R developer's life easier.
   <sup>
    &#9733 1246, pushed 2 days ago
   </sup>
-  - Tools to make an R developer's life easier.
  </li>
  <li>
   <a href="https://github.com/hadley/testthat">
    testthat
   </a>
+  - An R package to make testing fun.
   <sup>
    &#9733 317, pushed 2 days ago
   </sup>
-  - An R package to make testing fun.
  </li>
  <li>
   <a href="https://github.com/wch/R6">
    R6
   </a>
+  - simpler, faster, lighter-weight alternative to R's built-in classes.
   <sup>
    &#9733 107, pushed 61 days ago
   </sup>
-  - simpler, faster, lighter-weight alternative to R's built-in classes.
  </li>
  <li>
   <a href="https://github.com/hadley/pryr">
    pryr
   </a>
+  - Make it easier to understand what's going on in R.
   <sup>
    &#9733 81, pushed 176 days ago
   </sup>
-  - Make it easier to understand what's going on in R.
  </li>
  <li>
   <a href="https://github.com/klutometis/roxygen">
    roxygen
   </a>
+  - Describe your functions in comments next to their definitions.
   <sup>
    &#9733 170, pushed 25 days ago
   </sup>
-  - Describe your functions in comments next to their definitions.
  </li>
  <li>
   <a href="https://github.com/hadley/lineprof">
    lineprof
   </a>
+  - Visualise line profiling results in R.
   <sup>
    &#9733 88, pushed 172 days ago
   </sup>
-  - Visualise line profiling results in R.
  </li>
  <li>
   <a href="https://github.com/rstudio/packrat">
    packrat
   </a>
+  - Make your R projects more isolated, portable, and reproducible.
   <sup>
    &#9733 155, pushed 1 days ago
   </sup>
-  - Make your R projects more isolated, portable, and reproducible.
  </li>
  <li>
   <a href="https://github.com/talgalili/installr/">
@@ -2240,18 +2240,15 @@ Angle Regression
   <a href="https://github.com/eddelbuettel/drat">
    drat
   </a>
+  - Creation and use of R repositories on GitHub or other repos.
   <sup>
    &#9733 47, pushed 53 days ago
   </sup>
-  - Creation and use of R repositories on GitHub or other repos.
  </li>
  <li>
   <a href="https://github.com/jimhester/covr">
    covr
   </a>
-  <sup>
-   &#9733 113, pushed 4 days ago
-  </sup>
   - Test coverage for your R package and (optionally) upload the results to
   <a href="https://coveralls.io/">
    coveralls
@@ -2261,15 +2258,18 @@ Angle Regression
    codecov
   </a>
   .
+  <sup>
+   &#9733 113, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jimhester/lintr">
    lintr
   </a>
+  - Static code analysis for R to enforce code style.
   <sup>
    &#9733 165, pushed 18 days ago
   </sup>
-  - Static code analysis for R to enforce code style.
  </li>
 </ul>
 <h2>
@@ -2285,19 +2285,19 @@ Angle Regression
   <a href="https://github.com/zatonovo/futile.logger">
    futile.logger
   </a>
+  - A logging package in R similar to log4j
   <sup>
    &#9733 45, pushed 88 days ago
   </sup>
-  - A logging package in R similar to log4j
  </li>
  <li>
   <a href="https://github.com/johnmyleswhite/log4r">
    log4r
   </a>
+  - A log4j derivative for R
   <sup>
    &#9733 32, pushed 575 days ago
   </sup>
-  - A log4j derivative for R
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/logging/index.html">
@@ -2319,10 +2319,10 @@ Angle Regression
   <a href="https://github.com/ropensci/git2r">
    git2r
   </a>
+  - Gives you programmatic access to Git repositories from R.
   <sup>
    &#9733 81, pushed 13 days ago
   </sup>
-  - Gives you programmatic access to Git repositories from R.
  </li>
 </ul>
 <h2>
@@ -2350,10 +2350,10 @@ Angle Regression
   <a href="https://github.com/incanter/incanter">
    incanter
   </a>
+  - Clojure-based, R-like statistical computing and graphics environment for the JVM with Lisp spirit.
   <sup>
    &#9733 1731, pushed 12 days ago
   </sup>
-  - Clojure-based, R-like statistical computing and graphics environment for the JVM with Lisp spirit.
  </li>
  <li>
   <a href="http://www.pqr-project.org/">
@@ -2371,19 +2371,19 @@ Angle Regression
   <a href="https://github.com/rho-devel/rho">
    rho
   </a>
+  - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
   <sup>
    &#9733 42, pushed 1 days ago
   </sup>
-  - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
  </li>
  <li>
   <a href="https://github.com/jtalbot/riposte">
    riposte
   </a>
+  - a fast interpreter and JIT for R.
   <sup>
    &#9733 67, pushed 222 days ago
   </sup>
-  - a fast interpreter and JIT for R.
  </li>
  <li>
   <a href="https://mran.revolutionanalytics.com/open/">
@@ -2497,10 +2497,10 @@ Angle Regression
   <a href="https://github.com/RomanTsegelskyi/rbooks">
    R Books List
   </a>
+  - List of R Books.
   <sup>
    &#9733 29, pushed 5 days ago
   </sup>
-  - List of R Books.
  </li>
  <li>
   <a href="http://shop.oreilly.com/product/9781593273842.do">
@@ -2690,10 +2690,10 @@ Angle Regression
   <a href="https://github.com/RomanTsegelskyi/rbooks">
    Books
   </a>
+  - List of R Books.
   <sup>
    &#9733 29, pushed 5 days ago
   </sup>
-  - List of R Books.
  </li>
  <li>
   <a href="https://ggplot2-exts.github.io/ggiraph.html">
@@ -2712,19 +2712,19 @@ Angle Regression
   <a href="https://github.com/briatte/awesome-network-analysis">
    Network Analysis
   </a>
+  - Network Analysis related resources.
   <sup>
    &#9733 179, pushed 1 days ago
   </sup>
-  - Network Analysis related resources.
  </li>
  <li>
   <a href="https://github.com/ropensci/opendata">
    Open Data
   </a>
+  - Using R to obtain, parse, manipulate, create, and share open data.
   <sup>
    &#9733 38, pushed 5 days ago
   </sup>
-  - Using R to obtain, parse, manipulate, create, and share open data.
  </li>
  <li>
   <a href="https://github.com/qinwf/awesome-R/blob/master/posts.md">
@@ -2736,10 +2736,10 @@ Angle Regression
   <a href="https://github.com/ropensci/PackageDevelopment">
    Package Development
   </a>
+  - R packages to improve package development.
   <sup>
    &#9733 11, pushed 5 days ago
   </sup>
-  - R packages to improve package development.
  </li>
  <li>
   <a href="https://www.r-project.org/conferences.html">
@@ -2751,10 +2751,10 @@ Angle Regression
   <a href="https://github.com/rstudio/RStartHere">
    RStartHere
   </a>
+  - A guide to some of the most useful R packages, organized by workflow.
   <sup>
    &#9733 23, pushed 4 days ago
   </sup>
-  - A guide to some of the most useful R packages, organized by workflow.
  </li>
  <li>
   <a href="https://github.com/daattali/rstudio-addins">
@@ -2766,19 +2766,19 @@ Angle Regression
   <a href="https://github.com/trinker/topicmodels_learning">
    Topic Models
   </a>
+  - Topic Models learning and R related resources.
   <sup>
    &#9733 46, pushed 94 days ago
   </sup>
-  - Topic Models learning and R related resources.
  </li>
  <li>
   <a href="https://github.com/ropensci/webservices">
    Web Technologies
   </a>
+  - Information about how to use R and the world wide web together.
   <sup>
    &#9733 100, pushed 5 days ago
   </sup>
-  - Information about how to use R and the world wide web together.
  </li>
 </ul>
 <h1>

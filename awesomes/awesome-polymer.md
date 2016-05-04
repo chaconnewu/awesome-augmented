@@ -43,10 +43,10 @@
   <a href="https://github.com/polymer/project">
    Project
   </a>
+  All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
   <sup>
    &#9733 118, pushed 54 days ago
   </sup>
-  All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
  </li>
 </ul>
 <h2>
@@ -299,14 +299,14 @@
   <a href="https://github.com/yeoman/generator-polymer">
    Generator Polymer
   </a>
-  <sup>
-   &#9733 955, pushed 25 days ago
-  </sup>
   Yeoman generator for Polymer projects, based on the official
   <a href="https://developers.google.com/web/tools/polymer-starter-kit/">
    Starter kit
   </a>
   .
+  <sup>
+   &#9733 955, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/generator-element">
@@ -408,37 +408,37 @@
   <a href="https://github.com/polymerlabs/polyserve">
    Polyserve
   </a>
+  A simple web server for using bower components locally.
   <sup>
    &#9733 119, pushed 1 days ago
   </sup>
-  A simple web server for using bower components locally.
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polybuild">
    Polybuild
   </a>
+  An all-in-one build tool for Polymer apps.
   <sup>
    &#9733 71, pushed 28 days ago
   </sup>
-  An all-in-one build tool for Polymer apps.
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polyup">
    Polyup
   </a>
+  A helpful assistant for migrating from Polymer v0.5 to 1.0.
   <sup>
    &#9733 38, pushed 6 days ago
   </sup>
-  A helpful assistant for migrating from Polymer v0.5 to 1.0.
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polylint">
    Polylint
   </a>
+  Detect errors in your code.
   <sup>
    &#9733 102, pushed 12 days ago
   </sup>
-  Detect errors in your code.
  </li>
  <li>
   <a href="http://polygit.org/">
@@ -454,10 +454,10 @@
   <a href="https://github.com/PolymerLabs/polydev">
    Polydev
   </a>
+  DevTool extension.
   <sup>
    &#9733 62, pushed 39 days ago
   </sup>
-  DevTool extension.
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk">
@@ -475,19 +475,19 @@
   <a href="https://github.com/Polymer/vulcanize">
    Vulcanize
   </a>
+  Build tool for HTMLimports and web components.
   <sup>
    &#9733 1035, pushed 12 days ago
   </sup>
-  Build tool for HTMLimports and web components.
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/crisper">
    Crisper
   </a>
+  Split inline scripts from an HTML file for CSP compliance.
   <sup>
    &#9733 74, pushed 28 days ago
   </sup>
-  Split inline scripts from an HTML file for CSP compliance.
  </li>
  <li>
   <a href="https://atom.io/packages/polymer-snippets">
@@ -508,37 +508,37 @@
   <a href="https://github.com/Polymer/web-component-tester">
    Web components tester
   </a>
+  Makes testing your web components a breeze!
   <sup>
    &#9733 316, pushed 3 days ago
   </sup>
-  Makes testing your web components a breeze!
  </li>
  <li>
   <a href="https://github.com/thedeeno/web-component-tester-istanbul">
    Web components tester istambul
   </a>
+  Istanbul coverage plugin for web-component-tester.
   <sup>
    &#9733 16, pushed 4 days ago
   </sup>
-  Istanbul coverage plugin for web-component-tester.
  </li>
  <li>
   <a href="https://github.com/PolymerElements/test-fixture">
    test-fixture
   </a>
+  Element that can simplify the exercise of consistently resetting a test suite's DOM.
   <sup>
    &#9733 11, pushed 20 days ago
   </sup>
-  Element that can simplify the exercise of consistently resetting a test suite's DOM.
  </li>
  <li>
   <a href="https://github.com/PolymerElements/iron-test-helpers">
    iron-test-helpers
   </a>
+  Utility classes to make testing easier.
   <sup>
    &#9733 11, pushed 7 days ago
   </sup>
-  Utility classes to make testing easier.
  </li>
 </ul>
 <h2>

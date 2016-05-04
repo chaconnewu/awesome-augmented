@@ -56,10 +56,10 @@
   <a href="https://github.com/Microsoft/TypeScript">
    Microsoft/TypeScript on Github
   </a>
+  fork TypeScript on Github! Or... just read the code
   <sup>
    &#9733 11210, pushed 2 days ago
   </sup>
-  fork TypeScript on Github! Or... just read the code
  </li>
  <li>
   :octocat:
@@ -164,10 +164,10 @@
   <a href="https://github.com/Microsoft/TypeScript-Sublime-Plugin">
    TypeScript Sublime Plugin
   </a>
+  by @Microsoft
   <sup>
    &#9733 570, pushed 17 days ago
   </sup>
-  by @Microsoft
  </li>
  <li>
   :arrow
@@ -178,10 +178,10 @@
   <a href="https://github.com/TypeStrong/atom-typescript">
    Atom TypeScript
   </a>
-  <sup>
-   &#9733 548, pushed 9 days ago
-  </sup>
   by @TypeStrong
+  <sup>
+   &#9733 548, pushed 10 days ago
+  </sup>
  </li>
  <li>
   :arrow
@@ -192,10 +192,10 @@
   <a href="https://github.com/ananthakumaran/tide">
    TypeScript Interactive Development Environment for Emacs
   </a>
+  by @ananthakumaran
   <sup>
    &#9733 85, pushed 4 days ago
   </sup>
-  by @ananthakumaran
  </li>
  <li>
   :arrow
@@ -225,13 +225,13 @@
   <a href="https://github.com/mrward/typescript-addin">
    Typescript addin for
   </a>
-  <sup>
-   &#9733 24, pushed 39 days ago
-  </sup>
   MonoDevelop, SharpDevelop and Xamarin Studio;  a short
   <a href="http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/">
    review article
   </a>
+  <sup>
+   &#9733 24, pushed 39 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -250,13 +250,13 @@
   <a href="https://github.com/hi104/typescript-playground-on-ace">
    TypeScript playground-on-ace
   </a>
-  <sup>
-   &#9733 71, pushed 1244 days ago
-  </sup>
   by @hi104
   <a href="https://github.com/basarat/TypeScriptEditor">
    updated to TypeScript 1.5
   </a>
+  <sup>
+   &#9733 71, pushed 1244 days ago
+  </sup>
  </li>
  <li>
   :arrow
@@ -352,10 +352,10 @@
   <a href="https://github.com/fuselabs/jsxtyper">
    jsxtyper
   </a>
+  Generates TypeScript interfaces from .jsx files
   <sup>
    &#9733 23, pushed 332 days ago
   </sup>
-  Generates TypeScript interfaces from .jsx files
  </li>
  <li>
   :scroll:
@@ -464,10 +464,10 @@
   <a href="https://github.com/palantir/tslint">
    TsLint
   </a>
+  - TypeScript linter by @palantir
   <sup>
    &#9733 706, pushed 3 days ago
   </sup>
-  - TypeScript linter by @palantir
  </li>
 </ul>
 <h2>
@@ -482,10 +482,10 @@
   <a href="https://github.com/NativeScript/NativeScript">
    NativeScript
   </a>
+  - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
   <sup>
    &#9733 6584, pushed 4 days ago
   </sup>
-  - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
  </li>
 </ul>
 <h3>
@@ -497,24 +497,24 @@
   <a href="https://github.com/angular/angular">
    AngularJs2
   </a>
-  <sup>
-   &#9733 11195, pushed 1 days ago
-  </sup>
   - Angular is a development platform for building mobile and desktop web applications
+  <sup>
+   &#9733 11195, pushed 2 days ago
+  </sup>
  </li>
  <li>
   :octocat:
   <a href="https://github.com/palantir/plottable">
    palantir/plottable
   </a>
-  <sup>
-   &#9733 983, pushed 4 days ago
-  </sup>
   - A library of modular chart components, built on
   <code>
    D3
   </code>
   (see also: http://plottablejs.org)
+  <sup>
+   &#9733 983, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -526,10 +526,10 @@
   <a href="https://github.com/Microsoft/vscode">
    Visual Studio Code
   </a>
+  - Multiplatform IDE.
   <sup>
    &#9733 13794, pushed 2 days ago
   </sup>
-  - Multiplatform IDE.
  </li>
 </ul>
 <h1>

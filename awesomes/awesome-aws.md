@@ -641,7 +641,7 @@
    Repo with Samples :fire::fire:
   </a>
   <sup>
-   &#9733 215, pushed 6 days ago
+   &#9733 215, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +718,7 @@
    Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2470, pushed 0 days ago
+   &#9733 2470, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -746,7 +746,7 @@
    goamz/goamz :fire::fire:
   </a>
   <sup>
-   &#9733 273, pushed 18 days ago
+   &#9733 273, pushed 19 days ago
   </sup>
  </li>
 </ul>
@@ -1172,7 +1172,7 @@
    aws-sdk-rails
   </a>
   <sup>
-   &#9733 102, pushed 14 days ago
+   &#9733 102, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -1504,28 +1504,28 @@
   <a href="https://github.com/awslabs/api-gateway-secure-pet-store">
    api-gateway-secure-pet-store :fire:
   </a>
+  - Cognito credentials through Lambda.
   <sup>
    &#9733 112, pushed 12 days ago
   </sup>
-  - Cognito credentials through Lambda.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-apigateway-sdk-java">
    aws-apigateway-sdk-java
   </a>
+  - SDK for Java.
   <sup>
    &#9733 9, pushed 54 days ago
   </sup>
-  - SDK for Java.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-apigateway-importer">
    aws-apigateway-swagger-importer :fire::fire:
   </a>
+  - Tools to work with Swagger.
   <sup>
    &#9733 350, pushed 27 days ago
   </sup>
-  - Tools to work with Swagger.
  </li>
 </ul>
 <p>
@@ -1549,28 +1549,28 @@
   <a href="https://github.com/awslabs/amazon-appstream-net">
    amazon-appstream-net
   </a>
+  - Bindings to the native AppStream API.
   <sup>
    &#9733 1, pushed 349 days ago
   </sup>
-  - Bindings to the native AppStream API.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-appstream-sample-entitlement-service">
    amazon-appstream-sample-entitlement-service
   </a>
+  - Session management, cognito integration, and web UI.
   <sup>
    &#9733 2, pushed 273 days ago
   </sup>
-  - Session management, cognito integration, and web UI.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-appstream-sdk-java">
    aws-appstream-sdk-java
   </a>
+  - SDK for Java.
   <sup>
    &#9733 17, pushed 406 days ago
   </sup>
-  - SDK for Java.
  </li>
 </ul>
 <p>
@@ -1594,19 +1594,19 @@
   <a href="https://github.com/aws/amazon-ecs-cli">
    amazon-ecs-cli :fire::fire:
   </a>
+  - ECS CLI using the same Docker Compose file format and familiar Compose commands.
   <sup>
    &#9733 238, pushed 22 days ago
   </sup>
-  - ECS CLI using the same Docker Compose file format and familiar Compose commands.
  </li>
  <li>
   <a href="https://github.com/aws/aws-cli">
    aws-cli :fire::fire::fire::fire::fire:
   </a>
+  - Universal Command Line Interface.
   <sup>
    &#9733 3799, pushed 4 days ago
   </sup>
-  - Universal Command Line Interface.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-shell">
@@ -1620,10 +1620,10 @@
   <a href="https://github.com/awslabs/awscli-cookbook">
    awscli-cookbook
   </a>
+  - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
   <sup>
    &#9733 21, pushed 22 days ago
   </sup>
-  - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
  </li>
 </ul>
 <p>
@@ -1634,10 +1634,10 @@
   <a href="https://github.com/achiku/jungle">
    achiku/jungle :fire::fire::fire:
   </a>
+  - Operations by EC2 and ELB cli should be simpler.
   <sup>
    &#9733 814, pushed 2 days ago
   </sup>
-  - Operations by EC2 and ELB cli should be simpler.
  </li>
  <li>
   <a href="https://github.com/donnemartin/saws">
@@ -1649,10 +1649,10 @@
   <a href="https://github.com/timkay/aws">
    timkay/aws :fire::fire:
   </a>
+  - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
   <sup>
    &#9733 333, pushed 18 days ago
   </sup>
-  - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
  </li>
 </ul>
 <h3>
@@ -1666,37 +1666,37 @@
   <a href="https://github.com/awslabs/aws-cfn-custom-resource-examples">
    aws-cfn-custom-resource-examples
   </a>
+  - Custom resource examples.
   <sup>
    &#9733 35, pushed 894 days ago
   </sup>
-  - Custom resource examples.
  </li>
  <li>
   <a href="https://github.com/aws/aws-cfn-resource-bridge">
    aws-cfn-resource-bridge
   </a>
+  - Custom resource framework.
   <sup>
    &#9733 45, pushed 231 days ago
   </sup>
-  - Custom resource framework.
  </li>
  <li>
   <a href="https://github.com/awslabs/cfncluster-cookbook">
    cfncluster-cookbook
   </a>
+  - Sample Cookbook.
   <sup>
    &#9733 7, pushed 14 days ago
   </sup>
-  - Sample Cookbook.
  </li>
  <li>
   <a href="https://github.com/awslabs/cfncluster">
    cfncluster :fire:
   </a>
+  - Framework that deploys and maintains HPC clusters.
   <sup>
    &#9733 146, pushed 14 days ago
   </sup>
-  - Framework that deploys and maintains HPC clusters.
  </li>
 </ul>
 <p>
@@ -1707,37 +1707,37 @@
   <a href="https://github.com/bazaarvoice/cloudformation-ruby-dsl">
    bazaarvoice/cloudformation-ruby-dsl :fire:
   </a>
+  - Ruby DSL for creating templates.
   <sup>
    &#9733 124, pushed 29 days ago
   </sup>
-  - Ruby DSL for creating templates.
  </li>
  <li>
   <a href="https://github.com/beaknit/cform">
    beaknit/cform
   </a>
+  - SublimeText plugin.
   <sup>
    &#9733 54, pushed 101 days ago
   </sup>
-  - SublimeText plugin.
  </li>
  <li>
   <a href="https://github.com/cloudtools/troposphere">
    cloudtools/troposphere :fire::fire::fire::fire:
   </a>
+  - Python library to create descriptions.
   <sup>
    &#9733 1146, pushed 1 days ago
   </sup>
-  - Python library to create descriptions.
  </li>
  <li>
   <a href="https://github.com/cotdsa/cumulus">
    cotdsa/cumulus :fire:
   </a>
+  - Manages stacks.
   <sup>
    &#9733 182, pushed 62 days ago
   </sup>
-  - Manages stacks.
  </li>
 </ul>
 <h3>
@@ -1751,10 +1751,10 @@
   <a href="https://github.com/awslabs/cloudsearchable">
    cloudsearchable
   </a>
+  - An ActiveRecord-style ORM query interface.
   <sup>
    &#9733 31, pushed 159 days ago
   </sup>
-  - An ActiveRecord-style ORM query interface.
  </li>
 </ul>
 <p>
@@ -1778,10 +1778,10 @@
   <a href="https://github.com/aws/aws-cloudtrail-processing-library">
    aws-cloudtrail-processing-library
   </a>
+  - Easily consume and process log files.
   <sup>
    &#9733 23, pushed 109 days ago
   </sup>
-  - Easily consume and process log files.
  </li>
 </ul>
 <p>
@@ -1792,10 +1792,10 @@
   <a href="https://github.com/AppliedTrust/traildash">
    AppliedTrust/traildash :fire::fire:
   </a>
+  - Slick dashboard.
   <sup>
    &#9733 310, pushed 35 days ago
   </sup>
-  - Slick dashboard.
  </li>
 </ul>
 <h3>
@@ -1809,37 +1809,37 @@
   <a href="https://github.com/awslabs/cloudwatch-logs-subscription-consumer">
    cloudwatch-logs-subscription-consumer :fire:
   </a>
+  - Kinesis stream reader.
   <sup>
    &#9733 151, pushed 103 days ago
   </sup>
-  - Kinesis stream reader.
  </li>
  <li>
   <a href="https://github.com/awslabs/ecs-cloudwatch-logs">
    ecs-cloudwatch-logs
   </a>
+  - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
   <sup>
    &#9733 33, pushed 361 days ago
   </sup>
-  - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
  </li>
  <li>
   <a href="https://github.com/awslabs/logstash-output-cloudwatchlogs">
    logstash-output-cloudwatchlogs
   </a>
+  - A logstash plugin that sends logs to CloudWatch.
   <sup>
    &#9733 15, pushed 62 days ago
   </sup>
-  - A logstash plugin that sends logs to CloudWatch.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks">
    opsworks-cloudwatch-logs-cookbooks
   </a>
+  - OpsWorks sample cookbook.
   <sup>
    &#9733 7, pushed 176 days ago
   </sup>
-  - OpsWorks sample cookbook.
  </li>
 </ul>
 <p>
@@ -1850,10 +1850,10 @@
   <a href="https://github.com/jorgebastida/awslogs">
    jorgebastida/awslogs :fire::fire:
   </a>
+  - Simple CLI for querying groups, streams and events.
   <sup>
    &#9733 359, pushed 13 days ago
   </sup>
-  - Simple CLI for querying groups, streams and events.
  </li>
  <li>
   <a href="https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin">
@@ -1863,10 +1863,10 @@
    </em>
    cloudwatch_plugin :fire:
   </a>
+  - New Relic plugin.
   <sup>
    &#9733 128, pushed 62 days ago
   </sup>
-  - New Relic plugin.
  </li>
 </ul>
 <h3>
@@ -1880,28 +1880,28 @@
   <a href="https://github.com/aws/aws-codedeploy-agent">
    aws-codedeploy-agent
   </a>
+  - Sample agent.
   <sup>
    &#9733 75, pushed 6 days ago
   </sup>
-  - Sample agent.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-codedeploy-plugin">
    aws-codedeploy-plugin
   </a>
+  - Jenkins plugin.
   <sup>
    &#9733 88, pushed 7 days ago
   </sup>
-  - Jenkins plugin.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-codedeploy-samples">
    aws-codedeploy-samples :fire::fire:
   </a>
+  - Samples and template scenarios.
   <sup>
    &#9733 216, pushed 19 days ago
   </sup>
-  - Samples and template scenarios.
  </li>
 </ul>
 <p>
@@ -1925,55 +1925,55 @@
   <a href="https://github.com/awslabs/aws-codepipeline-custom-job-worker">
    aws-codepipeline-custom-job-worker
   </a>
+  - Develop your own job worker when creating a custom action.
   <sup>
    &#9733 8, pushed 169 days ago
   </sup>
-  - Develop your own job worker when creating a custom action.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux">
    aws-codepipeline-jenkins-aws-codedeploy_linux
   </a>
+  - Four-stage pipeline for Linux.
   <sup>
    &#9733 5, pushed 186 days ago
   </sup>
-  - Four-stage pipeline for Linux.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins">
    aws-codepipeline-plugin-for-jenkins
   </a>
+  - Jenkins plugin.
   <sup>
    &#9733 20, pushed 39 days ago
   </sup>
-  - Jenkins plugin.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux">
    aws-codepipeline-s3-aws-codedeploy_linux
   </a>
+  - Simple pipeline for Linux.
   <sup>
    &#9733 1, pushed 286 days ago
   </sup>
-  - Simple pipeline for Linux.
  </li>
  <li>
   <a href="https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows">
    AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows
   </a>
+  - Four-stage pipeline for Windows.
   <sup>
    &#9733 2, pushed 186 days ago
   </sup>
-  - Four-stage pipeline for Windows.
  </li>
  <li>
   <a href="https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows">
    AWSCodePipeline-S3-AWSCodeDeploy_Windows
   </a>
+  - Simple pipeline for Windows.
   <sup>
    &#9733 2, pushed 286 days ago
   </sup>
-  - Simple pipeline for Windows.
  </li>
 </ul>
 <p>
@@ -1997,64 +1997,64 @@
   <a href="https://github.com/aws/amazon-cognito-android">
    amazon-cognito-android
   </a>
+  - Sync SDK for Android.
   <sup>
    &#9733 30, pushed 67 days ago
   </sup>
-  - Sync SDK for Android.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-cognito-developer-authentication-sample">
    amazon-cognito-developer-authentication-sample
   </a>
+  - Authentication sample.
   <sup>
    &#9733 25, pushed 224 days ago
   </sup>
-  - Authentication sample.
  </li>
  <li>
   <a href="https://github.com/aws/amazon-cognito-dotnet">
    amazon-cognito-dotnet
   </a>
+  - Sync SDK for .NET.
   <sup>
    &#9733 2, pushed 71 days ago
   </sup>
-  - Sync SDK for .NET.
  </li>
  <li>
   <a href="https://github.com/aws/amazon-cognito-ios">
    amazon-cognito-ios
   </a>
+  - Sync SDK for iOS.
   <sup>
    &#9733 27, pushed 48 days ago
   </sup>
-  - Sync SDK for iOS.
  </li>
  <li>
   <a href="https://github.com/aws/amazon-cognito-js">
    amazon-cognito-js
   </a>
+  - Sync SDK for JavaScript.
   <sup>
    &#9733 73, pushed 53 days ago
   </sup>
-  - Sync SDK for JavaScript.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-cognito-streams-sample">
    amazon-cognito-streams-sample
   </a>
+  - Consuming Streams sample.
   <sup>
    &#9733 4, pushed 426 days ago
   </sup>
-  - Consuming Streams sample.
  </li>
  <li>
   <a href="https://github.com/awslabs/cognito-sample-nodejs">
    cognito-sample-nodejs
   </a>
+  - Sample App for Node.js.
   <sup>
    &#9733 28, pushed 566 days ago
   </sup>
-  - Sample App for Node.js.
  </li>
 </ul>
 <p>
@@ -2078,10 +2078,10 @@
   <a href="https://github.com/awslabs/data-pipeline-samples">
    data-pipeline-samples
   </a>
+  - Sample pipelines.
   <sup>
    &#9733 42, pushed 5 days ago
   </sup>
-  - Sample pipelines.
  </li>
 </ul>
 <p>
@@ -2105,46 +2105,46 @@
   <a href="https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app">
    aws-device-farm-appium-tests-for-sample-app
   </a>
+  - Appium TestNG Android tests.
   <sup>
    &#9733 13, pushed 71 days ago
   </sup>
-  - Appium TestNG Android tests.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app">
    aws-device-farm-calabash-tests-for-sample-app
   </a>
+  - Calabash Android tests.
   <sup>
    &#9733 4, pushed 250 days ago
   </sup>
-  - Calabash Android tests.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-device-farm-gradle-plugin">
    aws-device-farm-gradle-plugin
   </a>
+  - Gradle plugin.
   <sup>
    &#9733 12, pushed 120 days ago
   </sup>
-  - Gradle plugin.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-device-farm-jenkins-plugin">
    aws-device-farm-jenkins-plugin
   </a>
+  - Jenkins plugin.
   <sup>
    &#9733 28, pushed 18 days ago
   </sup>
-  - Jenkins plugin.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-device-farm-sample-app-for-android">
    aws-device-farm-sample-app-for-android
   </a>
+  - Sample Android app.
   <sup>
    &#9733 40, pushed 158 days ago
   </sup>
-  - Sample Android app.
  </li>
 </ul>
 <p>
@@ -2168,145 +2168,145 @@
   <a href="https://github.com/aws/aws-dotnet-session-provider">
    aws-dotnet-session-provider
   </a>
+  - A session state provider for ASP.NET apps.
   <sup>
    &#9733 9, pushed 46 days ago
   </sup>
-  - A session state provider for ASP.NET apps.
  </li>
  <li>
   <a href="https://github.com/aws/aws-dotnet-trace-listener">
    aws-dotnet-trace-listener
   </a>
+  - A trace listener for System.Diagnostics that can be used to log events.
   <sup>
    &#9733 3, pushed 202 days ago
   </sup>
-  - A trace listener for System.Diagnostics that can be used to log events.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-dynamodb-encryption-java">
    aws-dynamodb-encryption-java
   </a>
+  - Encryption Client for Java.
   <sup>
    &#9733 41, pushed 18 days ago
   </sup>
-  - Encryption Client for Java.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-dynamodb-examples">
    aws-dynamodb-examples
   </a>
+  - Samples using the Java SDK.
   <sup>
    &#9733 19, pushed 290 days ago
   </sup>
-  - Samples using the Java SDK.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-dynamodb-mars-json-demo">
    aws-dynamodb-mars-json-demo
   </a>
+  - Stores and indexes NASA JPL Mars images.
   <sup>
    &#9733 34, pushed 554 days ago
   </sup>
-  - Stores and indexes NASA JPL Mars images.
  </li>
  <li>
   <a href="https://github.com/aws/aws-dynamodb-session-tomcat">
    aws-dynamodb-session-tomcat
   </a>
+  - Session store for Apache Tomcat.
   <sup>
    &#9733 64, pushed 33 days ago
   </sup>
-  - Session store for Apache Tomcat.
  </li>
  <li>
   <a href="https://github.com/aws/aws-sessionstore-dynamodb-ruby">
    aws-sessionstore-dynamodb-ruby
   </a>
+  - Handles sessions for Ruby web apps.
   <sup>
    &#9733 34, pushed 55 days ago
   </sup>
-  - Handles sessions for Ruby web apps.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-cross-region-library">
    dynamodb-cross-region-library
   </a>
+  - Cross-region replication.
   <sup>
    &#9733 79, pushed 2 days ago
   </sup>
-  - Cross-region replication.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-geo">
    dynamodb-geo :fire:
   </a>
+  - Library to create and query geospatial data.
   <sup>
    &#9733 145, pushed 43 days ago
   </sup>
-  - Library to create and query geospatial data.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-import-export-tool">
    dynamodb-import-export-tool
   </a>
+  - Import and export examples.
   <sup>
    &#9733 17, pushed 132 days ago
   </sup>
-  - Import and export examples.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-online-index-violation-detector">
    dynamodb-online-index-violation-detector
   </a>
+  - Finds violations on an online GSI's hash key and range key.
   <sup>
    &#9733 0, pushed 462 days ago
   </sup>
-  - Finds violations on an online GSI's hash key and range key.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-streams-kinesis-adapter">
    dynamodb-streams-kinesis-adapter
   </a>
+  - Kinesis interface to consume and process data from a DynamoDB stream.
   <sup>
    &#9733 13, pushed 209 days ago
   </sup>
-  - Kinesis interface to consume and process data from a DynamoDB stream.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-tictactoe-example-app">
    dynamodb-tictactoe-example-app
   </a>
+  - Lightweight python app.
   <sup>
    &#9733 18, pushed 97 days ago
   </sup>
-  - Lightweight python app.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-titan-storage-backend">
    dynamodb-titan-storage-backend :fire:
   </a>
+  - Storage Backend for Titan.
   <sup>
    &#9733 181, pushed 15 days ago
   </sup>
-  - Storage Backend for Titan.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-transactions">
    dynamodb-transactions :fire:
   </a>
+  - Performs atomic writes and isolated reads across multiple items and tables.
   <sup>
    &#9733 134, pushed 63 days ago
   </sup>
-  - Performs atomic writes and isolated reads across multiple items and tables.
  </li>
  <li>
   <a href="https://github.com/awslabs/logstash-input-dynamodb">
    logstash-input-dynamodb
   </a>
+  - Logstash input plugin.
   <sup>
    &#9733 30, pushed 26 days ago
   </sup>
-  - Logstash input plugin.
  </li>
 </ul>
 <p>
@@ -2317,19 +2317,19 @@
   <a href="https://github.com/lyft/confidant">
    lyft/confidant :fire::fire::fire:
   </a>
+  - Stores secrets, encrypted at rest.
   <sup>
    &#9733 883, pushed 4 days ago
   </sup>
-  - Stores secrets, encrypted at rest.
  </li>
  <li>
   <a href="https://github.com/sebdah/dynamic-dynamodb">
    sebdah/dynamic-dynamodb :fire::fire:
   </a>
+  - Provides auto-scaling.
   <sup>
    &#9733 342, pushed 35 days ago
   </sup>
-  - Provides auto-scaling.
  </li>
 </ul>
 <h3>
@@ -2343,118 +2343,118 @@
   <a href="https://github.com/aws/aws-eb-glassfish-dockerfiles">
    aws-eb-glassfish-dockerfiles
   </a>
+  - GlassFish docker files.
   <sup>
    &#9733 9, pushed 149 days ago
   </sup>
-  - GlassFish docker files.
  </li>
  <li>
   <a href="https://github.com/aws/aws-eb-python-dockerfiles">
    aws-eb-python-dockerfiles
   </a>
+  - Python docker files.
   <sup>
    &#9733 33, pushed 545 days ago
   </sup>
-  - Python docker files.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-demo-php-simple-app">
    eb-demo-php-simple-app
   </a>
+  - Simple PHP app.
   <sup>
    &#9733 58, pushed 623 days ago
   </sup>
-  - Simple PHP app.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-docker-multiple-ports">
    eb-docker-multiple-ports
   </a>
+  - Simple Node.js and Tomcat apps using Docker images.
   <sup>
    &#9733 16, pushed 406 days ago
   </sup>
-  - Simple Node.js and Tomcat apps using Docker images.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-docker-nginx-proxy">
    eb-docker-nginx-proxy
   </a>
+  - Simple PHP app using the PHP-FPM and Nginx Docker images.
   <sup>
    &#9733 36, pushed 407 days ago
   </sup>
-  - Simple PHP app using the PHP-FPM and Nginx Docker images.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-docker-virtual-hosting">
    eb-docker-virtual-hosting
   </a>
+  - Simple PHP, Tomcat, and Nginx applications using Docker images.
   <sup>
    &#9733 10, pushed 407 days ago
   </sup>
-  - Simple PHP, Tomcat, and Nginx applications using Docker images.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-node-express-sample">
    eb-node-express-sample
   </a>
+  - Sample express app.
   <sup>
    &#9733 17, pushed 279 days ago
   </sup>
-  - Sample express app.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-node-express-signup">
    eb-node-express-signup
   </a>
+  - Express framework and Bootstrap Node.js sample app.
   <sup>
    &#9733 50, pushed 350 days ago
   </sup>
-  - Express framework and Bootstrap Node.js sample app.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-node-express">
    eb-node-express
   </a>
+  - Sample app referenced in the Developer Guide.
   <sup>
    &#9733 4, pushed 1016 days ago
   </sup>
-  - Sample app referenced in the Developer Guide.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-py-flask-signup-worker">
    eb-py-flask-signup-worker
   </a>
+  - Python app that illustrates worker roles.
   <sup>
    &#9733 21, pushed 119 days ago
   </sup>
-  - Python app that illustrates worker roles.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-py-flask-signup">
    eb-py-flask-signup :fire:
   </a>
+  - Python signup form app with Flask and Bootstrap.
   <sup>
    &#9733 150, pushed 545 days ago
   </sup>
-  - Python signup form app with Flask and Bootstrap.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-python-flask">
    eb-python-flask
   </a>
+  - Simple Python and Flask app.
   <sup>
    &#9733 5, pushed 280 days ago
   </sup>
-  - Simple Python and Flask app.
  </li>
  <li>
   <a href="https://github.com/awslabs/eb-wif-sample">
    eb-wif-sample
   </a>
+  - Sample login app with Web Identity Federation.
   <sup>
    &#9733 6, pushed 692 days ago
   </sup>
-  - Sample login app with Web Identity Federation.
  </li>
 </ul>
 <p>
@@ -2465,19 +2465,19 @@
   <a href="https://github.com/alienfast/elastic-beanstalk">
    alienfast/elastic-beanstalk :fire:
   </a>
+  - Gem with rake configuration and deployment for rails apps.
   <sup>
    &#9733 147, pushed 13 days ago
   </sup>
-  - Gem with rake configuration and deployment for rails apps.
  </li>
  <li>
   <a href="https://github.com/ThoughtWorksStudios/eb_deployer">
    ThoughtWorksStudios/eb_deployer :fire::fire:
   </a>
+  - Blue-green deployment automation.
   <sup>
    &#9733 209, pushed 46 days ago
   </sup>
-  - Blue-green deployment automation.
  </li>
 </ul>
 <h3>
@@ -2501,46 +2501,46 @@
   <a href="https://github.com/ConradIrwin/aws-name-server">
    ConradIrwin/aws-name-server :fire::fire::fire:
   </a>
+  - DNS server that lets you look up instances by name.
   <sup>
    &#9733 519, pushed 287 days ago
   </sup>
-  - DNS server that lets you look up instances by name.
  </li>
  <li>
   <a href="https://github.com/evannuil/aws-snapshot-tool">
    evannuil/aws-snapshot-tool :fire:
   </a>
+  - Automates EBS snapshots and rotation.
   <sup>
    &#9733 153, pushed 151 days ago
   </sup>
-  - Automates EBS snapshots and rotation.
  </li>
  <li>
   <a href="https://github.com/mirakui/ec2ssh">
    mirakui/ec2ssh :fire:
   </a>
+  - SSH config manager.
   <sup>
    &#9733 158, pushed 4 days ago
   </sup>
-  - SSH config manager.
  </li>
  <li>
   <a href="https://github.com/skavanagh/EC2Box">
    skavanagh/EC2Box :fire::fire:
   </a>
+  - A web-based SSH console to manage multiple instances simultaneously.
   <sup>
    &#9733 325, pushed 9 days ago
   </sup>
-  - A web-based SSH console to manage multiple instances simultaneously.
  </li>
  <li>
   <a href="https://github.com/wbailey/claws">
    wbailey/claws :fire:
   </a>
+  - CLI-driven console with capistrano integration.
   <sup>
    &#9733 169, pushed 70 days ago
   </sup>
-  - CLI-driven console with capistrano integration.
  </li>
 </ul>
 <h3>
@@ -2554,28 +2554,28 @@
   <a href="https://github.com/aws/amazon-ecs-agent">
    amazon-ecs-agent :fire::fire::fire:
   </a>
+  - Agent that runs on and starts containers.
   <sup>
    &#9733 553, pushed 3 days ago
   </sup>
-  - Agent that runs on and starts containers.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-ecs-amazon-efs">
    amazon-ecs-amazon-efs
   </a>
+  - Persists Data from containers.
   <sup>
    &#9733 8, pushed 195 days ago
   </sup>
-  - Persists Data from containers.
  </li>
  <li>
   <a href="https://github.com/aws/amazon-ecs-init">
    amazon-ecs-init
   </a>
+  - RPM developed to support the Amazon ECS Container Agent.
   <sup>
    &#9733 36, pushed 7 days ago
   </sup>
-  - RPM developed to support the Amazon ECS Container Agent.
  </li>
  <li>
   <a href="https://github.com/awslabs/ecs-cloudwatch-logs">
@@ -2587,55 +2587,55 @@
   <a href="https://github.com/awslabs/ecs-demo-php-simple-app">
    ecs-demo-php-simple-app
   </a>
+  - Simple PHP app.
   <sup>
    &#9733 20, pushed 148 days ago
   </sup>
-  - Simple PHP app.
  </li>
  <li>
   <a href="https://github.com/awslabs/ecs-mesos-scheduler-driver">
    ecs-mesos-scheduler-driver :fire:
   </a>
+  - Integrates Apache Mesos.
   <sup>
    &#9733 131, pushed 452 days ago
   </sup>
-  - Integrates Apache Mesos.
  </li>
  <li>
   <a href="https://github.com/awslabs/ecs-task-kite">
    ecs-task-kite
   </a>
+  - Simple ambassador container for inter-task communication.
   <sup>
    &#9733 10, pushed 222 days ago
   </sup>
-  - Simple ambassador container for inter-task communication.
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-ecs-worker-pattern">
    lambda-ecs-worker-pattern
   </a>
+  - Extends Lambda using SQS and ECS.
   <sup>
    &#9733 78, pushed 99 days ago
   </sup>
-  - Extends Lambda using SQS and ECS.
  </li>
  <li>
   <a href="https://github.com/awslabs/py-flask-signup-docker">
    py-flask-signup-docker
   </a>
+  - Python sample app.
   <sup>
    &#9733 27, pushed 86 days ago
   </sup>
-  - Python sample app.
  </li>
  <li>
   <a href="https://github.com/awslabs/service-discovery-ecs-consul">
    service-discovery-ecs-consul
   </a>
+  - Assets from the blog Service Discovery via Consul with Amazon ECS.
   <sup>
    &#9733 52, pushed 82 days ago
   </sup>
-  - Assets from the blog Service Discovery via Consul with Amazon ECS.
  </li>
 </ul>
 <p>
@@ -2683,19 +2683,19 @@
   <a href="https://github.com/awslabs/emr-bootstrap-actions">
    emr-bootstrap-actions :fire::fire:
   </a>
+  - Sample bootstrap actions.
   <sup>
    &#9733 342, pushed 32 days ago
   </sup>
-  - Sample bootstrap actions.
  </li>
  <li>
   <a href="https://github.com/awslabs/emr-sample-apps">
    emr-sample-apps
   </a>
+  - Sampe apps.
   <sup>
    &#9733 38, pushed 238 days ago
   </sup>
-  - Sampe apps.
  </li>
 </ul>
 <p>
@@ -2719,19 +2719,19 @@
   <a href="https://github.com/awslabs/logstash-output-amazon_es">
    logstash-output-amazon_es
   </a>
+  - Logstash output plugin to sign and export events.
   <sup>
    &#9733 82, pushed 28 days ago
   </sup>
-  - Logstash output plugin to sign and export events.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-elasticsearch-cookbook">
    opsworks-elasticsearch-cookbook
   </a>
+  - OpsWorks Elasticsearch sample cookbook.
   <sup>
    &#9733 28, pushed 658 days ago
   </sup>
-  - OpsWorks Elasticsearch sample cookbook.
  </li>
 </ul>
 <p>
@@ -2742,10 +2742,10 @@
   <a href="https://github.com/elastic/elasticsearch-cloud-aws">
    elastic/elasticsearch-cloud-aws :fire::fire::fire:
   </a>
+  - Plugin for Elasticsearch.
   <sup>
    &#9733 548, pushed 5 days ago
   </sup>
-  - Plugin for Elasticsearch.
  </li>
 </ul>
 <h3>
@@ -2759,37 +2759,37 @@
   <a href="https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached">
    aws-elasticache-cluster-client-libmemcached
   </a>
+  - Libmemcached library support.
   <sup>
    &#9733 4, pushed 42 days ago
   </sup>
-  - Libmemcached library support.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java">
    aws-elasticache-cluster-client-memcached-for-java
   </a>
+  - Client for Java.
   <sup>
    &#9733 38, pushed 109 days ago
   </sup>
-  - Client for Java.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php">
    aws-elasticache-cluster-client-memcached-for-php
   </a>
+  - Enhanced PHP library connecting to ElastiCache.
   <sup>
    &#9733 17, pushed 9 days ago
   </sup>
-  - Enhanced PHP library connecting to ElastiCache.
  </li>
  <li>
   <a href="https://github.com/awslabs/elasticache-cluster-config-net">
    elasticache-cluster-config-net
   </a>
+  - Config object for Enyim's MemcachedClient to enable auto discovery.
   <sup>
    &#9733 7, pushed 67 days ago
   </sup>
-  - Config object for Enyim's MemcachedClient to enable auto discovery.
  </li>
 </ul>
 <p>
@@ -2813,10 +2813,10 @@
   <a href="https://github.com/vsespb/mt-aws-glacier">
    vsespb/mt-aws-glacier :fire::fire:
   </a>
+  - Perl Multithreaded Multipart sync to Glacier.
   <sup>
    &#9733 400, pushed 489 days ago
   </sup>
-  - Perl Multithreaded Multipart sync to Glacier.
  </li>
 </ul>
 <h3>
@@ -2830,109 +2830,109 @@
   <a href="https://github.com/awslabs/amazon-kinesis-aggregators">
    amazon-kinesis-aggregators
   </a>
+  - Provides a simple way to create real time aggregations.
   <sup>
    &#9733 94, pushed 182 days ago
   </sup>
-  - Provides a simple way to create real time aggregations.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client-net">
    amazon-kinesis-client-net
   </a>
+  - Client Library for .NET.
   <sup>
    &#9733 12, pushed 302 days ago
   </sup>
-  - Client Library for .NET.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client-nodejs">
    amazon-kinesis-client-nodejs
   </a>
+  - Client Library for Node.js.
   <sup>
    &#9733 74, pushed 19 days ago
   </sup>
-  - Client Library for Node.js.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client-python">
    amazon-kinesis-client-python :fire:
   </a>
+  - Client Library for Python.
   <sup>
    &#9733 111, pushed 25 days ago
   </sup>
-  - Client Library for Python.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client-ruby">
    amazon-kinesis-client-ruby
   </a>
+  - Client Library for Ruby.
   <sup>
    &#9733 77, pushed 62 days ago
   </sup>
-  - Client Library for Ruby.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client">
    amazon-kinesis-client :fire:
   </a>
+  Client library for Amazon Kinesis.
   <sup>
    &#9733 187, pushed 21 days ago
   </sup>
-  Client library for Amazon Kinesis.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-connectors">
    amazon-kinesis-connectors :fire::fire:
   </a>
+  - Libary to integrate with other AWS and non-AWS services.
   <sup>
    &#9733 209, pushed 103 days ago
   </sup>
-  - Libary to integrate with other AWS and non-AWS services.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-data-visualization-sample">
    amazon-kinesis-data-visualization-sample
   </a>
+  - Sample data visualization app.
   <sup>
    &#9733 87, pushed 529 days ago
   </sup>
-  - Sample data visualization app.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-learning">
    amazon-kinesis-learning
   </a>
+  - Learning Kinesis Development.
   <sup>
    &#9733 16, pushed 132 days ago
   </sup>
-  - Learning Kinesis Development.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-producer">
    amazon-kinesis-producer
   </a>
+  - Producer Library.
   <sup>
    &#9733 59, pushed 67 days ago
   </sup>
-  - Producer Library.
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-scaling-utils">
    amazon-kinesis-scaling-utils
   </a>
+  - Provides the ability to scale streams.
   <sup>
    &#9733 93, pushed 5 days ago
   </sup>
-  - Provides the ability to scale streams.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-fluent-plugin-kinesis">
    aws-fluent-plugin-kinesis
   </a>
+  - Fluent Plugin.
   <sup>
    &#9733 92, pushed 35 days ago
   </sup>
-  - Fluent Plugin.
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-streams-kinesis-adapter">
@@ -2944,37 +2944,37 @@
   <a href="https://github.com/awslabs/kinesis-log4j-appender">
    kinesis-log4j-appender
   </a>
+  - Log4J Appender.
   <sup>
    &#9733 31, pushed 205 days ago
   </sup>
-  - Log4J Appender.
  </li>
  <li>
   <a href="https://github.com/awslabs/kinesis-poster-worker">
    kinesis-poster-worker
   </a>
+  - Simple multi-threaded Python Poster and Worker.
   <sup>
    &#9733 38, pushed 347 days ago
   </sup>
-  - Simple multi-threaded Python Poster and Worker.
  </li>
  <li>
   <a href="https://github.com/awslabs/kinesis-storm-spout">
    kinesis-storm-spout
   </a>
+  - Spout for Storm.
   <sup>
    &#9733 84, pushed 12 days ago
   </sup>
-  - Spout for Storm.
  </li>
  <li>
   <a href="https://github.com/awslabs/mqtt-kinesis-bridge">
    mqtt-kinesis-bridge
   </a>
+  - Simple MQTT bridge in Python.
   <sup>
    &#9733 25, pushed 454 days ago
   </sup>
-  - Simple MQTT bridge in Python.
  </li>
 </ul>
 <p>
@@ -2998,37 +2998,37 @@
   <a href="https://github.com/awslabs/amazon-elasticsearch-lambda-samples">
    amazon-elasticsearch-lambda-samples
   </a>
+  - Data ingestion for Elasticsearch from S3 and Kinesis.
   <sup>
    &#9733 65, pushed 26 days ago
   </sup>
-  - Data ingestion for Elasticsearch from S3 and Kinesis.
  </li>
  <li>
   <a href="https://github.com/aws/aws-lambda-java-libs">
    aws-lambda-java-libs
   </a>
+  - Official mirror for interface definitions and helper classes.
   <sup>
    &#9733 41, pushed 11 days ago
   </sup>
-  - Official mirror for interface definitions and helper classes.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-lambda-redshift-loader">
    aws-lambda-redshift-loader :fire:
   </a>
+  - Redshift loader.
   <sup>
    &#9733 190, pushed 6 days ago
   </sup>
-  - Redshift loader.
  </li>
  <li>
   <a href="https://github.com/awslabs/create-thumbnails-lambda">
    create-thumbnails-lambda
   </a>
+  - Uses the grunt-aws-lambda plugin to help you develop and test.
   <sup>
    &#9733 10, pushed 293 days ago
   </sup>
-  - Uses the grunt-aws-lambda plugin to help you develop and test.
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-ecs-worker-pattern">
@@ -3040,37 +3040,37 @@
   <a href="https://github.com/awslabs/lambda-refarch-fileprocessing">
    lambda-refarch-fileprocessing
   </a>
+  - Reference Architecture for Real-time File Processing.
   <sup>
    &#9733 53, pushed 33 days ago
   </sup>
-  - Reference Architecture for Real-time File Processing.
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-iotbackend">
    lambda-refarch-iotbackend
   </a>
+  - Reference Architecture for creating an IoT Backend.
   <sup>
    &#9733 68, pushed 33 days ago
   </sup>
-  - Reference Architecture for creating an IoT Backend.
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-mobilebackend">
    lambda-refarch-mobilebackend :fire:
   </a>
+  - Reference Architecture for creating a Mobile Backend.
   <sup>
    &#9733 123, pushed 33 days ago
   </sup>
-  - Reference Architecture for creating a Mobile Backend.
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-webapp">
    lambda-refarch-webapp
   </a>
+  - Reference Architecture for creating a Web Application.
   <sup>
    &#9733 120, pushed 33 days ago
   </sup>
-  - Reference Architecture for creating a Web Application.
  </li>
 </ul>
 <p>
@@ -3081,73 +3081,73 @@
   <a href="https://github.com/apex/apex">
    apex/apex :fire::fire::fire::fire::fire:
   </a>
+  - Minimal AWS Lambda function manager with Go support.
   <sup>
    &#9733 2443, pushed 3 days ago
   </sup>
-  - Minimal AWS Lambda function manager with Go support.
  </li>
  <li>
   <a href="https://github.com/cloudnative/lambda-chat">
    cloudnative/lambda-chat :fire::fire:
   </a>
+  - A chat application without servers.
   <sup>
    &#9733 245, pushed 35 days ago
   </sup>
-  - A chat application without servers.
  </li>
  <li>
   <a href="https://github.com/danilop/LambdAuth">
    danilop/LambdAuth :fire::fire:
   </a>
+  - Sample authentication service.
   <sup>
    &#9733 513, pushed 39 days ago
   </sup>
-  - Sample authentication service.
  </li>
  <li>
   <a href="https://github.com/garnaat/kappa">
    garnaat/kappa :fire::fire:
   </a>
+  - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
   <sup>
    &#9733 437, pushed 33 days ago
   </sup>
-  - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
  </li>
  <li>
   <a href="https://github.com/mentum/lambdaws">
    mentum/lambdaws :fire::fire::fire::fire:
   </a>
+  - Deploy, run and get results in a breeze.
   <sup>
    &#9733 1185, pushed 111 days ago
   </sup>
-  - Deploy, run and get results in a breeze.
  </li>
  <li>
   <a href="https://github.com/Miserlou/Zappa">
    Miserlou/Zappa :fire::fire::fire:
   </a>
+  - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
   <sup>
    &#9733 586, pushed 3 days ago
   </sup>
-  - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
  </li>
  <li>
   <a href="https://github.com/serverless/serverless">
    serverless/serverless :fire::fire::fire::fire::fire:
   </a>
+  The Serverless Application Framework (formerly JAWS).
   <sup>
    &#9733 8016, pushed 2 days ago
   </sup>
-  The Serverless Application Framework (formerly JAWS).
  </li>
  <li>
   <a href="https://github.com/Tim-B/grunt-aws-lambda">
    Tim-B/grunt-aws-lambda :fire:
   </a>
+  - Grunt plugin.
   <sup>
    &#9733 199, pushed 23 days ago
   </sup>
-  - Grunt plugin.
  </li>
 </ul>
 <h3>
@@ -3161,10 +3161,10 @@
   <a href="https://github.com/awslabs/machine-learning-samples">
    machine-learning-samples :fire::fire:
   </a>
+  - Sample apps.
   <sup>
    &#9733 356, pushed 42 days ago
   </sup>
-  - Sample apps.
  </li>
 </ul>
 <p>
@@ -3188,10 +3188,10 @@
   <a href="https://github.com/aws/aws-sdk-mobile-analytics-js">
    aws-sdk-mobile-analytics-js
   </a>
+  - JavaScript SDK.
   <sup>
    &#9733 33, pushed 71 days ago
   </sup>
-  - JavaScript SDK.
  </li>
 </ul>
 <p>
@@ -3215,19 +3215,19 @@
   <a href="https://github.com/awslabs/opsworks-attribute-customization">
    opsworks-attribute-customization
   </a>
+  - Attribute customization example.
   <sup>
    &#9733 2, pushed 777 days ago
   </sup>
-  - Attribute customization example.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-capistrano">
    opsworks-capistrano
   </a>
+  - Capistrano with instances.
   <sup>
    &#9733 7, pushed 127 days ago
   </sup>
-  - Capistrano with instances.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks">
@@ -3239,37 +3239,37 @@
   <a href="https://github.com/aws/opsworks-cookbooks">
    opsworks-cookbooks :fire::fire::fire:
   </a>
+  - Chef Cookbooks.
   <sup>
    &#9733 860, pushed 8 days ago
   </sup>
-  - Chef Cookbooks.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-demo-php-photo-share-app">
    opsworks-demo-php-photo-share-app
   </a>
+  - Simple PHP photo share app.
   <sup>
    &#9733 12, pushed 841 days ago
   </sup>
-  - Simple PHP photo share app.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-demo-php-simple-app">
    opsworks-demo-php-simple-app
   </a>
+  - Simple PHP app.
   <sup>
    &#9733 19, pushed 841 days ago
   </sup>
-  - Simple PHP app.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-demo-rails-photo-share-app">
    opsworks-demo-rails-photo-share-app
   </a>
+  - A sample Rails app.
   <sup>
    &#9733 9, pushed 308 days ago
   </sup>
-  - A sample Rails app.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-elasticsearch-cookbook">
@@ -3281,46 +3281,46 @@
   <a href="https://github.com/awslabs/opsworks-example-cookbooks">
    opsworks-example-cookbooks
   </a>
+  - Cookbooks used with the sample apps.
   <sup>
    &#9733 77, pushed 42 days ago
   </sup>
-  - Cookbooks used with the sample apps.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-first-cookbook">
    opsworks-first-cookbook
   </a>
+  - Cookbook used to demonstrate simple recipes.
   <sup>
    &#9733 8, pushed 515 days ago
   </sup>
-  - Cookbook used to demonstrate simple recipes.
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-windows-demo-nodejs">
    opsworks-windows-demo-
   </a>
-  <sup>
-   &#9733 2, pushed 89 days ago
-  </sup>
   - A sample Node.JS app.
+  <sup>
+   &#9733 2, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/opsworks-windows-demo-cookbooks">
    opsworks-windows-demo-cookbooks
   </a>
+  - Cookbooks for Windows.
   <sup>
    &#9733 2, pushed 229 days ago
   </sup>
-  - Cookbooks for Windows.
  </li>
  <li>
   <a href="https://github.com/awslabs/todo-sample-app-cookbooks">
    todo-sample-app-cookbooks
   </a>
+  - Custom cookbooks associated with the todo-sample-app.
   <sup>
    &#9733 4, pushed 393 days ago
   </sup>
-  - Custom cookbooks associated with the todo-sample-app.
  </li>
 </ul>
 <p>
@@ -3350,10 +3350,10 @@
   <a href="https://github.com/awslabs/amazon-redshift-utils">
    amazon-redshift-utils :fire::fire:
   </a>
+  - Applies optimal Column Encoding to existing Tables.
   <sup>
    &#9733 301, pushed 5 days ago
   </sup>
-  - Applies optimal Column Encoding to existing Tables.
  </li>
 </ul>
 <p>
@@ -3370,10 +3370,10 @@
   <a href="https://github.com/EverythingMe/redshift_console">
    everythingMe/redshift_console
   </a>
+  -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
   <sup>
    &#9733 62, pushed 190 days ago
   </sup>
-  -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
  </li>
 </ul>
 <h3>
@@ -3387,10 +3387,10 @@
   <a href="https://github.com/awslabs/route53-infima">
    route53-infima :fire:
   </a>
+  - Manages service-level fault isolation.
   <sup>
    &#9733 104, pushed 901 days ago
   </sup>
-  - Manages service-level fault isolation.
  </li>
 </ul>
 <p>
@@ -3401,19 +3401,19 @@
   <a href="https://github.com/barnybug/cli53">
    barnybug/cli53 :fire::fire::fire:
   </a>
+  - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
   <sup>
    &#9733 649, pushed 2 days ago
   </sup>
-  - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
  </li>
  <li>
   <a href="https://github.com/winebarrel/roadworker">
    winebarrel/roadworker :fire:
   </a>
+  - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
   <sup>
    &#9733 188, pushed 14 days ago
   </sup>
-  - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
  </li>
 </ul>
 <h3>
@@ -3431,163 +3431,163 @@
    </em>
    auth :fire:
   </a>
+  - Implements proxying of authenticated requests.
   <sup>
    &#9733 154, pushed 2 days ago
   </sup>
-  - Implements proxying of authenticated requests.
  </li>
  <li>
   <a href="https://github.com/bloomreach/s4cmd">
    bloomreach/s4cmd :fire::fire:
   </a>
+  - S3 command line tool, faster than S3cmd for large files.
   <sup>
    &#9733 388, pushed 25 days ago
   </sup>
-  - S3 command line tool, faster than S3cmd for large files.
  </li>
  <li>
   <a href="https://github.com/CulturalMe/meteor-slingshot">
    CulturalMe/meteor-slingshot :fire::fire:
   </a>
+  - Upload files in meteor.
   <sup>
    &#9733 419, pushed 49 days ago
   </sup>
-  - Upload files in meteor.
  </li>
  <li>
   <a href="https://github.com/grippy/node-s3">
    grippy/node-s3
   </a>
+  - Node.js app to manage buckets.
   <sup>
    &#9733 96, pushed 1631 days ago
   </sup>
-  - Node.js app to manage buckets.
  </li>
  <li>
   <a href="https://github.com/marcel/aws-s3">
    marcel/aws-s3 :fire::fire::fire:
   </a>
+  - Ruby implementation of Amazon's S3 REST API.
   <sup>
    &#9733 783, pushed 71 days ago
   </sup>
-  - Ruby implementation of Amazon's S3 REST API.
  </li>
  <li>
   <a href="https://github.com/mardix/flask-cloudy">
    mardix/flask-cloudy :fire:
   </a>
+  - Flask extension.
   <sup>
    &#9733 124, pushed 54 days ago
   </sup>
-  - Flask extension.
  </li>
  <li>
   <a href="https://github.com/MathieuLoutre/grunt-aws-s3">
    MathieuLoutre/grunt-aws-s3 :fire::fire:
   </a>
+  - Grunt plugin.
   <sup>
    &#9733 263, pushed 28 days ago
   </sup>
-  - Grunt plugin.
  </li>
  <li>
   <a href="https://github.com/minio/mc">
    minio/mc :fire::fire:
   </a>
+  -  Minio Client for filesystem and cloud storage.
   <sup>
    &#9733 224, pushed 5 days ago
   </sup>
-  -  Minio Client for filesystem and cloud storage.
  </li>
  <li>
   <a href="https://github.com/mumrah/s3-multipart">
    mumrah/s3-multipart :fire:
   </a>
+  - Parallel upload/download to S3 via Python.
   <sup>
    &#9733 121, pushed 160 days ago
   </sup>
-  - Parallel upload/download to S3 via Python.
  </li>
  <li>
   <a href="https://github.com/pgherveou/gulp-awspublish">
    pgherveou/gulp-awspublish :fire::fire:
   </a>
+  - Gulp plugin.
   <sup>
    &#9733 259, pushed 1 days ago
   </sup>
-  - Gulp plugin.
  </li>
  <li>
   <a href="https://github.com/rlmcpherson/s3gof3r">
    rlmcpherson/s3gof3r :fire::fire::fire:
   </a>
+  - Fast, concurrent, streaming access, includes a CLI.
   <sup>
    &#9733 666, pushed 6 days ago
   </sup>
-  - Fast, concurrent, streaming access, includes a CLI.
  </li>
  <li>
   <a href="https://github.com/s3tools/s3cmd">
    s3tools/s3cmd :fire::fire::fire::fire:
   </a>
+  - CLI for managing S3 and CloudFront.
   <sup>
    &#9733 1840, pushed 7 days ago
   </sup>
-  - CLI for managing S3 and CloudFront.
  </li>
  <li>
   <a href="https://github.com/schickling/git-s3">
    schickling/git-s3 :fire:
   </a>
+  - Deploy your git repo to a bucket.
   <sup>
    &#9733 153, pushed 41 days ago
   </sup>
-  - Deploy your git repo to a bucket.
  </li>
  <li>
   <a href="https://github.com/sorentwo/carrierwave-aws">
    sorentwo/carrierwave-aws :fire:
   </a>
+  - Adapter for CarrierWave.
   <sup>
    &#9733 186, pushed 165 days ago
   </sup>
-  - Adapter for CarrierWave.
  </li>
  <li>
   <a href="https://github.com/spring-projects/aws-maven">
    spring-projects/aws-maven :fire:
   </a>
+  -  Maven Wagon for S3.
   <sup>
    &#9733 121, pushed 53 days ago
   </sup>
-  -  Maven Wagon for S3.
  </li>
  <li>
   <a href="https://github.com/tongwang/s3fs-c">
    tongwang/s3fs-c :fire:
   </a>
+  - Mounts buckets for use on a local file system.
   <sup>
    &#9733 121, pushed 1116 days ago
   </sup>
-  - Mounts buckets for use on a local file system.
  </li>
  <li>
   <a href="https://github.com/twpayne/s3-parallel-put">
    twpayne/s3-parallel-put :fire:
   </a>
+  - CLI that supports parallel uploads.
   <sup>
    &#9733 152, pushed 29 days ago
   </sup>
-  - CLI that supports parallel uploads.
  </li>
  <li>
   <a href="https://github.com/weavejester/clj-aws-s3">
    weavejester/clj-aws-s3 :fire:
   </a>
+  - Client library for Clojure.
   <sup>
    &#9733 179, pushed 13 days ago
   </sup>
-  - Client library for Clojure.
  </li>
 </ul>
 <h3>
@@ -3601,10 +3601,10 @@
   <a href="https://github.com/drewblas/aws-ses">
    drewblas/aws-ses :fire::fire:
   </a>
+  - Provides an easy ruby DSL & interface.
   <sup>
    &#9733 479, pushed 534 days ago
   </sup>
-  - Provides an easy ruby DSL & interface.
  </li>
 </ul>
 <h3>
@@ -3618,28 +3618,28 @@
   <a href="https://github.com/aws/aws-flow-ruby">
    aws-flow-ruby :fire:
   </a>
+  - Creates background jobs and multistep workflows.
   <sup>
    &#9733 122, pushed 69 days ago
   </sup>
-  - Creates background jobs and multistep workflows.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-flow-ruby-samples">
    aws-flow-ruby-samples
   </a>
+  - AWS Flow Framework for Ruby samples.
   <sup>
    &#9733 49, pushed 13 days ago
   </sup>
-  - AWS Flow Framework for Ruby samples.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld">
    aws-flow-ruby-opsworks-helloworld
   </a>
+  - Hello World sample.
   <sup>
    &#9733 4, pushed 609 days ago
   </sup>
-  - Hello World sample.
  </li>
 </ul>
 <p>
@@ -3663,10 +3663,10 @@
   <a href="https://github.com/rjrodger/simpledb">
    rjrodger/simpledb :fire:
   </a>
+  - Node.js library.
   <sup>
    &#9733 135, pushed 85 days ago
   </sup>
-  - Node.js library.
  </li>
 </ul>
 <h3>
@@ -3680,10 +3680,10 @@
   <a href="https://github.com/aws/aws-php-sns-message-validator">
    aws-php-sns-message-validator
   </a>
+  - Message validation for PHP.
   <sup>
    &#9733 15, pushed 165 days ago
   </sup>
-  - Message validation for PHP.
  </li>
 </ul>
 <p>
@@ -3707,10 +3707,10 @@
   <a href="https://github.com/awslabs/amazon-sqs-java-messaging-lib">
    amazon-sqs-java-messaging-lib
   </a>
+  - Holds the Java Message Service to communicate with SQS.
   <sup>
    &#9733 36, pushed 89 days ago
   </sup>
-  - Holds the Java Message Service to communicate with SQS.
  </li>
 </ul>
 <p>
@@ -3721,10 +3721,10 @@
   <a href="https://github.com/phstc/shoryuken">
    phstc/shoryuken :fire::fire::fire:
   </a>
+  - A super efficient SQS thread based message processor for Ruby.
   <sup>
    &#9733 682, pushed 6 days ago
   </sup>
-  - A super efficient SQS thread based message processor for Ruby.
  </li>
 </ul>
 <h3>
@@ -3738,37 +3738,37 @@
   <a href="https://github.com/donnemartin/data-science-ipython-notebooks">
    donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:
   </a>
+  - Big data/data science notebooks.
   <sup>
    &#9733 5541, pushed 4 days ago
   </sup>
-  - Big data/data science notebooks.
  </li>
  <li>
   <a href="https://github.com/everpeace/vagrant-mesos">
    everpeace/vagrant-mesos :fire::fire:
   </a>
+  - Spin up your Mesos Cluster with Vagrant.
   <sup>
    &#9733 396, pushed 20 days ago
   </sup>
-  - Spin up your Mesos Cluster with Vagrant.
  </li>
  <li>
   <a href="https://github.com/jhorey/ferry">
    jhorey/ferry :fire::fire:
   </a>
+  -  Define, run, and deploy big data apps using Docker.
   <sup>
    &#9733 247, pushed 339 days ago
   </sup>
-  -  Define, run, and deploy big data apps using Docker.
  </li>
  <li>
   <a href="https://github.com/nathanmarz/storm-deploy">
    nathanmarz/storm-deploy :fire::fire:
   </a>
+  - One click deploy for Storm clusters.
   <sup>
    &#9733 494, pushed 287 days ago
   </sup>
-  - One click deploy for Storm clusters.
  </li>
 </ul>
 <h3>
@@ -3782,46 +3782,46 @@
   <a href="https://github.com/chef-cookbooks/aws">
    chef-cookbooks/aws :fire::fire:
   </a>
+  - Development repository for aws Chef cookbook.
   <sup>
    &#9733 243, pushed 3 days ago
   </sup>
-  - Development repository for aws Chef cookbook.
  </li>
  <li>
   <a href="https://github.com/colinbjohnson/aws-missing-tools">
    colinbjohnson/aws-missing-tools :fire::fire::fire:
   </a>
+  - Tools for managing resources including EC2, EBS, RDS and Route53.
   <sup>
    &#9733 800, pushed 6 days ago
   </sup>
-  - Tools for managing resources including EC2, EBS, RDS and Route53.
  </li>
  <li>
   <a href="https://github.com/k1LoW/awspec">
    k1LoW/awspec :fire::fire:
   </a>
+  - RSpec tests your resources.
   <sup>
    &#9733 256, pushed 21 days ago
   </sup>
-  - RSpec tests your resources.
  </li>
  <li>
   <a href="https://github.com/mitchellh/vagrant-aws">
    mitchellh/vagrant-aws :fire::fire::fire::fire::fire:
   </a>
+  - Use Vagrant to manage your EC2 and VPC instances.
   <sup>
    &#9733 2063, pushed 22 days ago
   </sup>
-  - Use Vagrant to manage your EC2 and VPC instances.
  </li>
  <li>
   <a href="https://github.com/NixOS/nixops">
    NixOS/nixops :fire::fire:
   </a>
+  - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
   <sup>
    &#9733 244, pushed 5 days ago
   </sup>
-  - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
  </li>
 </ul>
 <h3>
@@ -3835,37 +3835,37 @@
   <a href="https://github.com/awslabs/aws-sha256-agentcs">
    aws-sha256-agentcs
   </a>
+  - SHA256 Agent Compatibility Ccanner.
   <sup>
    &#9733 2, pushed 197 days ago
   </sup>
-  - SHA256 Agent Compatibility Ccanner.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-tvm-anonymous">
    aws-tvm-anonymous
   </a>
+  - Token Vending Machine for Anonymous Registration.
   <sup>
    &#9733 29, pushed 1358 days ago
   </sup>
-  - Token Vending Machine for Anonymous Registration.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-tvm-identity">
    aws-tvm-identity
   </a>
+  - Token Vending Machine for Identity Registration.
   <sup>
    &#9733 34, pushed 1358 days ago
   </sup>
-  - Token Vending Machine for Identity Registration.
  </li>
  <li>
   <a href="https://github.com/awslabs/s2n">
    s2n :fire::fire::fire::fire::fire:
   </a>
+  - An implementation of the TLS/SSL protocols.
   <sup>
    &#9733 2275, pushed 13 days ago
   </sup>
-  - An implementation of the TLS/SSL protocols.
  </li>
 </ul>
 <p>
@@ -3876,46 +3876,46 @@
   <a href="https://github.com/AdRoll/hologram">
    AdRoll/hologram :fire::fire:
   </a>
+  - Easy, painless credentials on developer laptops.
   <sup>
    &#9733 368, pushed 15 days ago
   </sup>
-  - Easy, painless credentials on developer laptops.
  </li>
  <li>
   <a href="https://github.com/cloudsploit/scans">
    cloudsploit/scans :fire:
   </a>
+  - Detects security risks.
   <sup>
    &#9733 161, pushed 5 days ago
   </sup>
-  - Detects security risks.
  </li>
  <li>
   <a href="https://github.com/iSECPartners/Scout2">
    iSECPartners/Scout2 :fire::fire:
   </a>
+  - Security auditing tool.
   <sup>
    &#9733 237, pushed 59 days ago
   </sup>
-  - Security auditing tool.
  </li>
  <li>
   <a href="https://github.com/Netflix/security_monkey">
    Netflix/security_monkey :fire::fire::fire:
   </a>
+  - Monitors policy changes and alerts on insecure configurations.
   <sup>
    &#9733 736, pushed 2 days ago
   </sup>
-  - Monitors policy changes and alerts on insecure configurations.
  </li>
  <li>
   <a href="https://github.com/sebsto/AWSVPN">
    sebsto/AWSVPN :fire:
   </a>
+  - Start a private VPN server in the cloud.
   <sup>
    &#9733 118, pushed 75 days ago
   </sup>
-  - Start a private VPN server in the cloud.
  </li>
 </ul>
 <h3>
@@ -3934,154 +3934,154 @@
   <a href="https://github.com/awslabs/aws-arch-backoff-simulator">
    aws-arch-backoff-simulator
   </a>
+  - Jitter and backoff Simulator for AWS architecture blog.
   <sup>
    &#9733 36, pushed 433 days ago
   </sup>
-  - Jitter and backoff Simulator for AWS architecture blog.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-big-data-blog">
    aws-big-data-blog :fire:
   </a>
+  - Samples from the AWS Big Data Blog.
   <sup>
    &#9733 165, pushed 14 days ago
   </sup>
-  - Samples from the AWS Big Data Blog.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-demo-php-simple-app">
    aws-demo-php-simple-app
   </a>
+  - PHP apps from the AWS Blogs.
   <sup>
    &#9733 2, pushed 46 days ago
   </sup>
-  - PHP apps from the AWS Blogs.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-mobile-sample-wif">
    aws-mobile-sample-wif
   </a>
+  - Samples from the AWS Mobile SDK blog.
   <sup>
    &#9733 2, pushed 353 days ago
   </sup>
-  - Samples from the AWS Mobile SDK blog.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-mobile-self-paced-labs-samples">
    aws-mobile-self-paced-labs-samples
   </a>
+  - Android Snake Game from a self-paced lab.
   <sup>
    &#9733 8, pushed 453 days ago
   </sup>
-  - Android Snake Game from a self-paced lab.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-quickstart">
    aws-quickstart
   </a>
+  - Official repository for AWS Quick Start.
   <sup>
    &#9733 73, pushed 4 days ago
   </sup>
-  - Official repository for AWS Quick Start.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-spot-labs">
    aws-spot-labs
   </a>
+  - Best practices using AWS Spot Instances.
   <sup>
    &#9733 60, pushed 266 days ago
   </sup>
-  - Best practices using AWS Spot Instances.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-training-demo">
    aws-training-demo
   </a>
+  - Demos from the Technical Trainers community.
   <sup>
    &#9733 39, pushed 15 days ago
   </sup>
-  - Demos from the Technical Trainers community.
  </li>
  <li>
   <a href="https://github.com/awslabs/java-meme-generator-sample">
    java-meme-generator-sample
   </a>
+  - Meme generation app from re:Invent 2012.
   <sup>
    &#9733 32, pushed 895 days ago
   </sup>
-  - Meme generation app from re:Invent 2012.
  </li>
  <li>
   <a href="https://github.com/awslabs/railsconf2013-tech-demo">
    railsconf2013-tech-demo :fire:
   </a>
+  - Seahorse demo from RailsConf 2013.
   <sup>
    &#9733 164, pushed 1085 days ago
   </sup>
-  - Seahorse demo from RailsConf 2013.
  </li>
  <li>
   <a href="https://github.com/awslabs/reinvent2013-js-blog-demo">
    reinvent2013-js-blog-demo
   </a>
+  - Demo blogging app from re:Invent 2013.
   <sup>
    &#9733 24, pushed 900 days ago
   </sup>
-  - Demo blogging app from re:Invent 2013.
  </li>
  <li>
   <a href="https://github.com/awslabs/reinvent2013-mobile-photo-share">
    reinvent2013-mobile-photo-share
   </a>
+  - Mobile photo share app from re:Invent 2014.
   <sup>
    &#9733 18, pushed 18 days ago
   </sup>
-  - Mobile photo share app from re:Invent 2014.
  </li>
  <li>
   <a href="https://github.com/awslabs/reinvent2014-scalable-site-management">
    reinvent2014-scalable-site-management
   </a>
+  - Scalable site management sample from re:Invent 2014.
   <sup>
    &#9733 48, pushed 14 days ago
   </sup>
-  - Scalable site management sample from re:Invent 2014.
  </li>
  <li>
   <a href="https://github.com/awslabs/reinvent2015-dev309">
    reinvent2015-dev309
   </a>
+  - Large Scale Metrics Analysis from re:Invent 2015.
   <sup>
    &#9733 4, pushed 148 days ago
   </sup>
-  - Large Scale Metrics Analysis from re:Invent 2015.
  </li>
  <li>
   <a href="https://github.com/awslabs/timely-security-analytics">
    timely-security-analytics
   </a>
+  - Security analytics sample from 2015 re:Invent 2015.
   <sup>
    &#9733 12, pushed 207 days ago
   </sup>
-  - Security analytics sample from 2015 re:Invent 2015.
  </li>
  <li>
   <a href="https://github.com/awslabs/todo-app-railsconf">
    todo-app-railsconf
   </a>
+  - Simple "Todo" app from RailsConf 2015.
   <sup>
    &#9733 11, pushed 190 days ago
   </sup>
-  - Simple "Todo" app from RailsConf 2015.
  </li>
  <li>
   <a href="https://github.com/awslabs/todo-sample-app">
    todo-sample-app
   </a>
+  - Simple "Todo" app from RailsConf 2014.
   <sup>
    &#9733 17, pushed 518 days ago
   </sup>
-  - Simple "Todo" app from RailsConf 2014.
  </li>
 </ul>
 <p>
@@ -4092,10 +4092,10 @@
   <a href="https://github.com/startup-class/setup">
    startup-class/setup :fire::fire:
   </a>
+  -  EC2 setup files for Startup Engineering MOOC.
   <sup>
    &#9733 285, pushed 51 days ago
   </sup>
-  -  EC2 setup files for Startup Engineering MOOC.
  </li>
 </ul>
 <h3>
@@ -4109,46 +4109,46 @@
   <a href="https://github.com/awslabs/amediamanager">
    amediamanager
   </a>
+  - Media manager.
   <sup>
    &#9733 39, pushed 337 days ago
   </sup>
-  - Media manager.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-hal-client-java">
    aws-hal-client-java
   </a>
+  - Java client for the Hypertext Application Language.
   <sup>
    &#9733 7, pushed 299 days ago
   </sup>
-  - Java client for the Hypertext Application Language.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-model-validators">
    aws-model-validators
   </a>
+  - Tools for validating the AWS service JSON model files.
   <sup>
    &#9733 4, pushed 350 days ago
   </sup>
-  - Tools for validating the AWS service JSON model files.
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-sdk-js-sample-video-transcoder">
    aws-sdk-js-sample-video-transcoder
   </a>
+  - Sample cross-platform video transcoder app.
   <sup>
    &#9733 7, pushed 343 days ago
   </sup>
-  - Sample cross-platform video transcoder app.
  </li>
  <li>
   <a href="https://github.com/awslabs/simplebeerservice">
    simplebeerservice
   </a>
+  - Cloud-connected kegerator that streams live sensor data to AWS.
   <sup>
    &#9733 89, pushed 39 days ago
   </sup>
-  - Cloud-connected kegerator that streams live sensor data to AWS.
  </li>
 </ul>
 <p>
@@ -4159,217 +4159,217 @@
   <a href="https://github.com/bcoe/thumbd">
    bcoe/thumbd :fire::fire:
   </a>
+  - Node.js/ImageMagick-based image thumbnailing service.
   <sup>
    &#9733 418, pushed 54 days ago
   </sup>
-  - Node.js/ImageMagick-based image thumbnailing service.
  </li>
  <li>
   <a href="https://github.com/Comcast/cmb">
    Comcast/cmb :fire::fire:
   </a>
+  - Highly available, horizontally scalable queuing and notification service.
   <sup>
    &#9733 211, pushed 116 days ago
   </sup>
-  - Highly available, horizontally scalable queuing and notification service.
  </li>
  <li>
   <a href="https://github.com/donnemartin/dev-setup">
    donnemartin/dev-setup :fire::fire::fire::fire:
   </a>
+  - Mac setup of various developer tools and AWS services.
   <sup>
    &#9733 1886, pushed 14 days ago
   </sup>
-  - Mac setup of various developer tools and AWS services.
  </li>
  <li>
   <a href="https://github.com/dtan4/terraforming">
    dtan4/terraforming :fire::fire:
   </a>
+  - Export existing resources to Terraform style (tf, tfstate).
   <sup>
    &#9733 493, pushed 1 days ago
   </sup>
-  - Export existing resources to Terraform style (tf, tfstate).
  </li>
  <li>
   <a href="https://github.com/j2labs/microarmy">
    j2labs/microarmy :fire:
   </a>
+  - Deploy micro instances to launch a coordinated siege.
   <sup>
    &#9733 153, pushed 1512 days ago
   </sup>
-  - Deploy micro instances to launch a coordinated siege.
  </li>
  <li>
   <a href="https://github.com/jpillora/grunt-aws">
    jpillora/grunt-aws :fire:
   </a>
+  - Grunt interface into the Node.JS SDK.
   <sup>
    &#9733 165, pushed 27 days ago
   </sup>
-  - Grunt interface into the Node.JS SDK.
  </li>
  <li>
   <a href="https://github.com/jvehent/haproxy-aws">
    jvehent/haproxy-aws :fire:
   </a>
+  - Documentation on building a HTTPS stack with HAProxy.
   <sup>
    &#9733 178, pushed 168 days ago
   </sup>
-  - Documentation on building a HTTPS stack with HAProxy.
  </li>
  <li>
   <a href="https://github.com/meducation/propono">
    meducation/propono :fire::fire:
   </a>
+  - Easy-to-use pub/sub in Ruby.
   <sup>
    &#9733 282, pushed 333 days ago
   </sup>
-  - Easy-to-use pub/sub in Ruby.
  </li>
  <li>
   <a href="https://github.com/mozilla/awsbox">
    mozilla/awsbox :fire::fire::fire:
   </a>
+  - A featherweight PaaS on top of EC2 for deploying node apps.
   <sup>
    &#9733 767, pushed 41 days ago
   </sup>
-  - A featherweight PaaS on top of EC2 for deploying node apps.
  </li>
  <li>
   <a href="https://github.com/Netflix/aminator">
    Netflix/aminator :fire::fire:
   </a>
+  - A tool for creating EBS AMIs.
   <sup>
    &#9733 488, pushed 36 days ago
   </sup>
-  - A tool for creating EBS AMIs.
  </li>
  <li>
   <a href="https://github.com/Netflix/archaius">
    Netflix/archaius :fire::fire::fire:
   </a>
+  - Library for configuration management API.
   <sup>
    &#9733 892, pushed 6 days ago
   </sup>
-  - Library for configuration management API.
  </li>
  <li>
   <a href="https://github.com/Netflix/asgard">
    Netflix/asgard :fire::fire::fire::fire::fire:
   </a>
+  - Web interface for application deployments and cloud management.
   <sup>
    &#9733 2092, pushed 8 days ago
   </sup>
-  - Web interface for application deployments and cloud management.
  </li>
  <li>
   <a href="https://github.com/Netflix/aws-autoscaling">
    Netflix/aws-autoscaling :fire::fire:
   </a>
+  - Tools for using auto scaling and documentation best practices.
   <sup>
    &#9733 351, pushed 144 days ago
   </sup>
-  - Tools for using auto scaling and documentation best practices.
  </li>
  <li>
   <a href="https://github.com/Netflix/eureka">
    Netflix/eureka :fire::fire::fire::fire:
   </a>
+  - Service registry for resilient mid-tier load balancing and failover.
   <sup>
    &#9733 1868, pushed 5 days ago
   </sup>
-  - Service registry for resilient mid-tier load balancing and failover.
  </li>
  <li>
   <a href="https://github.com/Netflix/EVCache">
    Netflix/EVCache :fire::fire:
   </a>
+  - A distributed in-memory data store.
   <sup>
    &#9733 279, pushed 1 days ago
   </sup>
-  - A distributed in-memory data store.
  </li>
  <li>
   <a href="https://github.com/Netflix/Fenzo">
    Netflix/Fenzo :fire::fire:
   </a>
+  - Extensible Scheduler for Mesos Frameworks.
   <sup>
    &#9733 291, pushed 18 days ago
   </sup>
-  - Extensible Scheduler for Mesos Frameworks.
  </li>
  <li>
   <a href="https://github.com/Netflix/ice">
    Netflix/ice :fire::fire::fire::fire:
   </a>
+  - Usage and cost monitoring tool.
   <sup>
    &#9733 1780, pushed 55 days ago
   </sup>
-  - Usage and cost monitoring tool.
  </li>
  <li>
   <a href="https://github.com/Netflix/ribbon">
    Netflix/ribbon :fire::fire::fire:
   </a>
+  - Remote procedure call library with built in software load balancers.
   <sup>
    &#9733 790, pushed 15 days ago
   </sup>
-  - Remote procedure call library with built in software load balancers.
  </li>
  <li>
   <a href="https://github.com/Netflix/SimianArmy">
    Netflix/SimianArmy :fire::fire::fire::fire::fire:
   </a>
+  - Tools to keep your cloud operating in top form.
   <sup>
    &#9733 3979, pushed 34 days ago
   </sup>
-  - Tools to keep your cloud operating in top form.
  </li>
  <li>
   <a href="https://github.com/Netflix/zuul">
    Netflix/zuul :fire::fire::fire:
   </a>
+  - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
   <sup>
    &#9733 964, pushed 27 days ago
   </sup>
-  - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
  </li>
  <li>
   <a href="https://github.com/niftylettuce/gulp-aws-splash">
    niftylettuce/gulp-aws-splash :fire::fire:
   </a>
+  - Open-source LaunchRock alternative. Build beautiful splash pages.
   <sup>
    &#9733 430, pushed 32 days ago
   </sup>
-  - Open-source LaunchRock alternative. Build beautiful splash pages.
  </li>
  <li>
   <a href="https://github.com/puppetlabs/puppetlabs-aws">
    puppetlabs/puppetlabs-aws :fire:
   </a>
+  - Puppet module for managing resources to build out infrastructure.
   <sup>
    &#9733 130, pushed 21 days ago
   </sup>
-  - Puppet module for managing resources to build out infrastructure.
  </li>
  <li>
   <a href="https://github.com/mhart/react-server-routing-example">
    react-server-routing-example :fire:
   </a>
+  - Sample universal client/server routing and data in React.
   <sup>
    &#9733 189, pushed 24 days ago
   </sup>
-  - Sample universal client/server routing and data in React.
  </li>
  <li>
   <a href="https://github.com/spulec/moto">
    spulec/moto :fire::fire::fire:
   </a>
+  - Allows your python tests to easily mock out the boto library.
   <sup>
    &#9733 681, pushed 2 days ago
   </sup>
-  - Allows your python tests to easily mock out the boto library.
  </li>
 </ul>
 <h2>

@@ -42,32 +42,32 @@
   <a href="https://github.com/pocketjoso/penthouse">
    Penthouse
   </a>
+  - by Jonas Ohlsson generates critical-path CSS
   <sup>
    &#9733 1212, pushed 5 days ago
   </sup>
-  - by Jonas Ohlsson generates critical-path CSS
  </li>
  <li>
   <a href="https://github.com/addyosmani/critical">
    Critical
   </a>
-  <sup>
-   &#9733 3120, pushed 13 days ago
-  </sup>
   - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse,
   <a href="https://github.com/addyosmani/oust">
    Oust
   </a>
   and inline-styles)
+  <sup>
+   &#9733 3120, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/filamentgroup/criticalcss">
    CriticalCSS
   </a>
+  - by FilamentGroup finds & outputs critical CSS
   <sup>
    &#9733 679, pushed 22 days ago
   </sup>
-  - by FilamentGroup finds & outputs critical CSS
  </li>
 </ul>
 <h2>
@@ -78,19 +78,19 @@
   <a href="https://github.com/pagespeed/mod_pagespeed">
    mod_pagespeed
   </a>
+  - Apache module for automatic PageSpeed optimization
   <sup>
    &#9733 225, pushed 4 days ago
   </sup>
-  - Apache module for automatic PageSpeed optimization
  </li>
  <li>
   <a href="https://github.com/pagespeed/ngx_pagespeed">
    ngx_pagespeed
   </a>
+  - Nginx module for automatic PageSpeed optimization
   <sup>
    &#9733 3011, pushed 4 days ago
   </sup>
-  - Nginx module for automatic PageSpeed optimization
  </li>
 </ul>
 <h2>
@@ -130,10 +130,10 @@
   <a href="https://github.com/ibrennan/critical-css-casperjs">
    critical-css-casperjs
   </a>
+  - CasperJS script to pull critical CSS information from pages
   <sup>
    &#9733 68, pushed 763 days ago
   </sup>
-  - CasperJS script to pull critical CSS information from pages
  </li>
 </ul>
 <h2>
@@ -144,10 +144,10 @@
   <a href="https://github.com/drdk/dr-css-inliner">
    dr-css-inliner
   </a>
+  - PhantomJS script to inline above-the-fold CSS on a page.
   <sup>
    &#9733 58, pushed 602 days ago
   </sup>
-  - PhantomJS script to inline above-the-fold CSS on a page.
  </li>
 </ul>
 <h2>
@@ -158,9 +158,6 @@
   <a href="https://github.com/maxogden/inline-styles">
    inline-styles
   </a>
-  <sup>
-   &#9733 21, pushed 652 days ago
-  </sup>
   - by Max Ogden, replaces
   <code>
    <link>
@@ -170,14 +167,14 @@
    <style>
   </code>
   tags + inlines CSS url() calls with data URIs
+  <sup>
+   &#9733 21, pushed 652 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fmal/gulp-inline-source">
    gulp-inline-source
   </a>
-  <sup>
-   &#9733 97, pushed 282 days ago
-  </sup>
   - by Filip Malinowski, replaces
   <code>
    <link>
@@ -191,18 +188,21 @@
    <script src="">
   </code>
   tags with their inline content
+  <sup>
+   &#9733 97, pushed 282 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bezoerb/inline-critical">
    inline-critical
   </a>
-  <sup>
-   &#9733 39, pushed 4 days ago
-  </sup>
   - by Ben Zörb, inline critical path CSS and load existing stylesheets with
   <code>
    loadCSS
   </code>
+  <sup>
+   &#9733 39, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kriasoft/isomorphic-style-loader/">
@@ -226,14 +226,14 @@
   <a href="https://github.com/filamentgroup/loadCSS">
    loadCSS
   </a>
-  <sup>
-   &#9733 3130, pushed 19 days ago
-  </sup>
   - loads CSS asynchronously using JS.
   <a href="https://gist.github.com/scottjehl/87176715419617ae6994">
    Research
   </a>
   that led to this is also available.
+  <sup>
+   &#9733 3130, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/matt-bailey/602b40c77a5d3381ff26">
@@ -245,10 +245,10 @@
   <a href="https://github.com/n0mad01/asyncLoader">
    asyncLoader
   </a>
+  - async script/stylesheet loader
   <sup>
    &#9733 0, pushed 495 days ago
   </sup>
-  - async script/stylesheet loader
  </li>
  <li>
   <a href="http://addyosmani.github.io/basket.js/">
@@ -302,10 +302,10 @@
   <a href="https://github.com/ndreckshage/CSSVacuum">
    CSSVacuum
   </a>
+  by ndreckshage
   <sup>
    &#9733 33, pushed 965 days ago
   </sup>
-  by ndreckshage
  </li>
 </ul>
 <h2>
@@ -322,9 +322,6 @@
   <a href="https://github.com/addyosmani/psi">
    PSI
   </a>
-  <sup>
-   &#9733 2125, pushed 25 days ago
-  </sup>
   - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use
   <a href="https://github.com/jrcryer/grunt-pagespeed">
    grunt-pagespeed
@@ -334,6 +331,9 @@
    ngrok
   </a>
   is available.
+  <sup>
+   &#9733 2125, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en">
@@ -356,9 +356,6 @@
   <a href="https://github.com/giakki/uncss">
    UnCSS
   </a>
-  <sup>
-   &#9733 3684, pushed 5 days ago
-  </sup>
   removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for
   <a href="https://github.com/addyosmani/grunt-uncss">
    Grunt
@@ -372,5 +369,8 @@
    other
   </a>
   build tools.
+  <sup>
+   &#9733 3684, pushed 5 days ago
+  </sup>
  </li>
 </ul>

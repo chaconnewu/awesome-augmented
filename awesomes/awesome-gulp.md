@@ -225,7 +225,7 @@
    Github Repository
   </a>
   <sup>
-   &#9733 20850, pushed 0 days ago
+   &#9733 20850, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -466,7 +466,7 @@
    Gulp Cheatsheet
   </a>
   <sup>
-   &#9733 1155, pushed 309 days ago
+   &#9733 1155, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -489,123 +489,123 @@
   <a href="https://github.com/dlmanning/gulp-sass">
    gulp-sass
   </a>
-  <sup>
-   &#9733 810, pushed 7 days ago
-  </sup>
   - Sass → CSS with
   <a href="https://github.com/sass/libsass">
    libsass
   </a>
   .
+  <sup>
+   &#9733 810, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-ruby-sass">
    gulp-ruby-sass
   </a>
+  - Sass → CSS with Ruby Sass.
   <sup>
    &#9733 433, pushed 25 days ago
   </sup>
-  - Sass → CSS with Ruby Sass.
  </li>
  <li>
   <a href="https://github.com/appleboy/gulp-compass">
    gulp-compass
   </a>
+  - Sass → CSS with Ruby Sass & Compass.
   <sup>
    &#9733 152, pushed 19 days ago
   </sup>
-  - Sass → CSS with Ruby Sass & Compass.
  </li>
  <li>
   <a href="https://github.com/plus3network/gulp-less">
    gulp-less
   </a>
-  <sup>
-   &#9733 431, pushed 29 days ago
-  </sup>
   -
   <a href="https://github.com/less/less.js">
    Less
   </a>
   → CSS.
+  <sup>
+   &#9733 431, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stevelacy/gulp-stylus">
    gulp-stylus
   </a>
-  <sup>
-   &#9733 164, pushed 49 days ago
-  </sup>
   -
   <a href="https://github.com/stylus/stylus">
    Stylus
   </a>
   → CSS.
+  <sup>
+   &#9733 164, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/postcss/gulp-postcss">
    gulp-postcss
   </a>
-  <sup>
-   &#9733 319, pushed 1 days ago
-  </sup>
   - Pipe CSS through
   <a href="https://github.com/postcss/postcss">
    PostCSS
   </a>
   processors with a single parse.
+  <sup>
+   &#9733 319, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/contra/gulp-coffee">
    gulp-coffee
   </a>
-  <sup>
-   &#9733 199, pushed 33 days ago
-  </sup>
   -
   <a href="https://github.com/jashkenas/coffeescript">
    Coffeescript
   </a>
   → JavaScript.
+  <sup>
+   &#9733 199, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ivogabe/gulp-typescript">
    gulp-typescript
   </a>
-  <sup>
-   &#9733 364, pushed 6 days ago
-  </sup>
   -
   <a href="https://github.com/Microsoft/TypeScript">
    TypeScript
   </a>
   → JavaScript.
+  <sup>
+   &#9733 364, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-react">
    gulp-react
   </a>
-  <sup>
-   &#9733 232, pushed 201 days ago
-  </sup>
   - Facebook
   <a href="https://github.com/facebook/react">
    React
   </a>
   JSX templates → JavaScript.
+  <sup>
+   &#9733 232, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shama/webpack-stream">
    webpack-stream
   </a>
-  <sup>
-   &#9733 585, pushed 8 days ago
-  </sup>
   - Run
   <a href="https://github.com/webpack/webpack">
    webpack
   </a>
   as a stream to conveniently integrate with gulp.
+  <sup>
+   &#9733 585, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -616,79 +616,79 @@
   <a href="https://github.com/babel/gulp-babel">
    gulp-babel
   </a>
-  <sup>
-   &#9733 665, pushed 13 days ago
-  </sup>
   - ES6 → ES5 with
   <a href="https://github.com/babel/babel">
    babel
   </a>
   .
+  <sup>
+   &#9733 665, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-traceur">
    gulp-traceur
   </a>
-  <sup>
-   &#9733 179, pushed 13 days ago
-  </sup>
   - ES6 → ES5 using
   <a href="https://github.com/google/traceur-compiler">
    Traceur
   </a>
   .
+  <sup>
+   &#9733 179, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-regenerator">
    gulp-regenerator
   </a>
-  <sup>
-   &#9733 17, pushed 13 days ago
-  </sup>
   - ES6 → ES5 with
   <a href="https://github.com/facebook/regenerator">
    Regenerator
   </a>
   .
+  <sup>
+   &#9733 17, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-es6-transpiler">
    gulp-es6-transpiler
   </a>
-  <sup>
-   &#9733 48, pushed 171 days ago
-  </sup>
   - [Deprecated] ES6 → ES5 with
   <a href="https://github.com/termi/es6-transpiler">
    es6-transpiler
   </a>
   .
+  <sup>
+   &#9733 48, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-myth">
    gulp-myth
   </a>
-  <sup>
-   &#9733 43, pushed 171 days ago
-  </sup>
   -
   <a href="https://github.com/segmentio/myth">
    Myth
   </a>
   - a polyfill for future versions of the CSS spec.
+  <sup>
+   &#9733 43, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MoOx/gulp-cssnext">
    gulp-cssnext
   </a>
-  <sup>
-   &#9733 58, pushed 120 days ago
-  </sup>
   - [Deprecated] Use tomorrow's CSS syntax, today, using
   <a href="https://github.com/MoOx/postcss-cssnext">
    cssnext
   </a>
   .
+  <sup>
+   &#9733 58, pushed 120 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -699,10 +699,10 @@
   <a href="https://github.com/contra/gulp-concat">
    gulp-concat
   </a>
+  - Concatenate files.
   <sup>
    &#9733 473, pushed 68 days ago
   </sup>
-  - Concatenate files.
  </li>
 </ul>
 <h3>
@@ -713,53 +713,53 @@
   <a href="https://github.com/scniro/gulp-clean-css">
    gulp-clean-css
   </a>
-  <sup>
-   &#9733 78, pushed 22 days ago
-  </sup>
   - Minify CSS with
   <a href="https://github.com/jakubpawlowicz/clean-css">
    clean-css
   </a>
   .
+  <sup>
+   &#9733 78, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ben-eb/gulp-csso">
    gulp-csso
   </a>
-  <sup>
-   &#9733 143, pushed 24 days ago
-  </sup>
   - Minify CSS with
   <a href="https://github.com/css/csso">
    CSSO
   </a>
   .
+  <sup>
+   &#9733 143, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/terinjokes/gulp-uglify">
    gulp-uglify
   </a>
-  <sup>
-   &#9733 604, pushed 4 days ago
-  </sup>
   - Minify JavaScript with
   <a href="https://github.com/mishoo/UglifyJS2">
    UglifyJS2
   </a>
   .
+  <sup>
+   &#9733 604, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/gulp-htmlmin">
    gulp-htmlmin
   </a>
-  <sup>
-   &#9733 280, pushed 3 days ago
-  </sup>
   - Minify HTML with
   <a href="https://github.com/kangax/html-minifier">
    html-minifier
   </a>
   .
+  <sup>
+   &#9733 280, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/murphydanger/gulp-minify-html">
@@ -775,23 +775,23 @@
   <a href="https://github.com/sindresorhus/gulp-imagemin">
    gulp-imagemin
   </a>
-  <sup>
-   &#9733 764, pushed 2 days ago
-  </sup>
   - Minify PNG, JPEG, GIF and SVG images with
   <a href="https://github.com/imagemin/imagemin">
    imagemin
   </a>
   .
+  <sup>
+   &#9733 764, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ben-eb/gulp-svgmin">
    gulp-svgmin
   </a>
+  - Minify SVG files with gulp.
   <sup>
    &#9733 187, pushed 2 days ago
   </sup>
-  - Minify SVG files with gulp.
  </li>
 </ul>
 <h3>
@@ -802,62 +802,62 @@
   <a href="https://github.com/ben-eb/gulp-uncss">
    gulp-uncss
   </a>
-  <sup>
-   &#9733 687, pushed 47 days ago
-  </sup>
   - Remove unused CSS selectors with
   <a href="https://github.com/giakki/uncss">
    UnCSS
   </a>
   .
+  <sup>
+   &#9733 687, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zckrs/gulp-css-base64">
    gulp-css-base64
   </a>
+  - Transform all resources found (those within a url() declaration) in CSS files into base64-encoded data URI strings.
   <sup>
    &#9733 44, pushed 13 days ago
   </sup>
-  - Transform all resources found (those within a url() declaration) in CSS files into base64-encoded data URI strings.
  </li>
  <li>
   <a href="https://github.com/akoenig/gulp-svg2png">
    gulp-svg2png
   </a>
+  - Convert SVGs to PNGs.
   <sup>
    &#9733 41, pushed 141 days ago
   </sup>
-  - Convert SVGs to PNGs.
  </li>
  <li>
   <a href="https://github.com/mahnunchik/gulp-responsive">
    gulp-responsive
   </a>
+  - Generate images at different sizes.
   <sup>
    &#9733 184, pushed 18 days ago
   </sup>
-  - Generate images at different sizes.
  </li>
  <li>
   <a href="https://github.com/w0rm/gulp-svgstore">
    gulp-svgstore
   </a>
-  <sup>
-   &#9733 337, pushed 3 days ago
-  </sup>
   - Combine svg files into one with
   <symbol>
    elements.
   </symbol>
+  <sup>
+   &#9733 337, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nfroidure/gulp-iconfont">
    gulp-iconfont
   </a>
+  - Create icon fonts from several SVG icons.
   <sup>
    &#9733 479, pushed 5 days ago
   </sup>
-  - Create icon fonts from several SVG icons.
  </li>
 </ul>
 <h3>
@@ -868,28 +868,28 @@
   <a href="https://github.com/jonkemp/gulp-useref">
    gulp-useref
   </a>
+  - Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
   <sup>
    &#9733 480, pushed 4 days ago
   </sup>
-  - Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
  </li>
  <li>
   <a href="https://github.com/klei/gulp-inject">
    gulp-inject
   </a>
+  - Transform each file to a string and inject each transformed string into placeholders in the target stream files.
   <sup>
    &#9733 529, pushed 20 days ago
   </sup>
-  - Transform each file to a string and inject each transformed string into placeholders in the target stream files.
  </li>
  <li>
   <a href="https://github.com/taptapship/wiredep">
    wiredep
   </a>
+  - Wire Bower dependencies to your source code.
   <sup>
    &#9733 925, pushed 14 days ago
   </sup>
-  - Wire Bower dependencies to your source code.
  </li>
 </ul>
 <h3>
@@ -900,10 +900,10 @@
   <a href="https://github.com/miickel/gulp-angular-templatecache">
    gulp-angular-templatecache
   </a>
+  - Concatenate and register AngularJS templates in the $templateCache.
   <sup>
    &#9733 413, pushed 71 days ago
   </sup>
-  - Concatenate and register AngularJS templates in the $templateCache.
  </li>
  <li>
   <a href="https://github.com/phated/gulp-jade">
@@ -919,114 +919,114 @@
   <a href="https://github.com/lazd/gulp-handlebars">
    gulp-handlebars
   </a>
-  <sup>
-   &#9733 129, pushed 18 days ago
-  </sup>
   -
   <a href="https://github.com/wycats/handlebars.js">
    Handlebars
   </a>
   templates → JavaScript.
+  <sup>
+   &#9733 129, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shannonmoeller/gulp-hb">
    gulp-hb
   </a>
-  <sup>
-   &#9733 72, pushed 13 days ago
-  </sup>
   -
   <a href="https://github.com/wycats/handlebars.js">
    Handlebars
   </a>
   templates → HTML.
+  <sup>
+   &#9733 72, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-nunjucks">
    gulp-nunjucks
   </a>
-  <sup>
-   &#9733 58, pushed 26 days ago
-  </sup>
   -
   <a href="https://github.com/mozilla/nunjucks">
    Nunjucks
   </a>
   templates → JavaScript.
+  <sup>
+   &#9733 58, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-dust">
    gulp-dustjs
   </a>
-  <sup>
-   &#9733 18, pushed 117 days ago
-  </sup>
   -
   <a href="https://github.com/linkedin/dustjs">
    Dust
   </a>
   templates → JavaScript.
+  <sup>
+   &#9733 18, pushed 117 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/e-jigsaw/gulp-riot">
    gulp-riot
   </a>
-  <sup>
-   &#9733 81, pushed 30 days ago
-  </sup>
   -
   <a href="https://github.com/riot/riot">
    Riot
   </a>
   templates → JavaScript.
+  <sup>
+   &#9733 81, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-markdown">
    gulp-markdown
   </a>
+  - Markdown → HTML.
   <sup>
    &#9733 97, pushed 171 days ago
   </sup>
-  - Markdown → HTML.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-template">
    gulp-template
   </a>
-  <sup>
-   &#9733 181, pushed 25 days ago
-  </sup>
   -
   <a href="https://github.com/lodash/lodash">
    Lodash
   </a>
   templates → JavaScript.
+  <sup>
+   &#9733 181, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/colynb/gulp-swig">
    gulp-swig
   </a>
-  <sup>
-   &#9733 57, pushed 158 days ago
-  </sup>
   -
   <a href="https://github.com/paularmstrong/swig">
    Swig
   </a>
   templates → HTML.
+  <sup>
+   &#9733 57, pushed 158 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/denysdovhan/gulp-remark">
    gulp-remark
   </a>
-  <sup>
-   &#9733 7, pushed 62 days ago
-  </sup>
   - Gulp plugin for
   <a href="https://github.com/wooorm/remark">
    remark
   </a>
   - markdown processor powered by plugins
+  <sup>
+   &#9733 7, pushed 62 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1047,101 +1047,101 @@
   <a href="https://github.com/bezoerb/gulp-htmlhint">
    gulp-htmlhint
   </a>
-  <sup>
-   &#9733 46, pushed 55 days ago
-  </sup>
   -
   <a href="https://github.com/yaniswang/HTMLHint">
    HTMLHint
   </a>
   wrapper to validate your HTML.
+  <sup>
+   &#9733 46, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spalger/gulp-jshint">
    gulp-jshint
   </a>
-  <sup>
-   &#9733 346, pushed 134 days ago
-  </sup>
   - Detect errors and potential problems in JavaScript with
   <a href="https://github.com/jshint/jshint">
    JSHint
   </a>
   .
+  <sup>
+   &#9733 346, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jscs-dev/gulp-jscs">
    gulp-jscs
   </a>
-  <sup>
-   &#9733 305, pushed 171 days ago
-  </sup>
   - Check JavaScript code style with
   <a href="https://github.com/jscs-dev/node-jscs">
    jscs
   </a>
   .
+  <sup>
+   &#9733 305, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/janraasch/gulp-coffeelint">
    gulp-coffeelint
   </a>
-  <sup>
-   &#9733 49, pushed 12 days ago
-  </sup>
   - A style checker that helps keep
   <a href="https://github.com/jashkenas/coffeescript">
    CoffeeScript
   </a>
   code clean.
+  <sup>
+   &#9733 49, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/panuhorsmalahti/gulp-tslint">
    gulp-tslint
   </a>
-  <sup>
-   &#9733 52, pushed 9 days ago
-  </sup>
   -
   <a href="https://github.com/Microsoft/TypeScript">
    TypeScript
   </a>
   linter plugin for gulp.
+  <sup>
+   &#9733 52, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adametry/gulp-eslint">
    gulp-eslint
   </a>
+  - Identify and report on patterns found in ECMAScript/JavaScript code.
   <sup>
    &#9733 298, pushed 48 days ago
   </sup>
-  - Identify and report on patterns found in ECMAScript/JavaScript code.
  </li>
  <li>
   <a href="https://github.com/callumacrae/gulp-w3cjs">
    gulp-w3cjs
   </a>
-  <sup>
-   &#9733 40, pushed 148 days ago
-  </sup>
   - Validate HTML with
   <a href="https://github.com/thomasdavis/w3cjs">
    w3cjs
   </a>
   .
+  <sup>
+   &#9733 40, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lesshint/gulp-lesshint">
    gulp-lesshint
   </a>
-  <sup>
-   &#9733 10, pushed 72 days ago
-  </sup>
   - Lint less files with
   <a href="https://github.com/lesshint/lesshint">
    lesshint
   </a>
   .
+  <sup>
+   &#9733 10, pushed 72 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1152,23 +1152,23 @@
   <a href="https://github.com/BrowserSync/browser-sync">
    browser-sync
   </a>
-  <sup>
-   &#9733 6927, pushed 8 days ago
-  </sup>
   - Keep multiple browsers & devices in sync when building websites (
   <a href="https://github.com/BrowserSync/gulp-browser-sync">
    recipes
   </a>
   ).
+  <sup>
+   &#9733 6927, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vohof/gulp-livereload">
    gulp-livereload
   </a>
+  - Gulp plugin for livereload.
   <sup>
    &#9733 600, pushed 113 days ago
   </sup>
-  - Gulp plugin for livereload.
  </li>
 </ul>
 <h3>
@@ -1179,37 +1179,37 @@
   <a href="https://github.com/sindresorhus/gulp-changed">
    gulp-changed
   </a>
+  - Only pass through changed files.
   <sup>
    &#9733 512, pushed 182 days ago
   </sup>
-  - Only pass through changed files.
  </li>
  <li>
   <a href="https://github.com/contra/gulp-cached">
    gulp-cached
   </a>
+  - A simple in-memory file cache.
   <sup>
    &#9733 312, pushed 190 days ago
   </sup>
-  - A simple in-memory file cache.
  </li>
  <li>
   <a href="https://github.com/ahaurw01/gulp-remember">
    gulp-remember
   </a>
+  - Remember and recall files passed through it.
   <sup>
    &#9733 106, pushed 25 days ago
   </sup>
-  - Remember and recall files passed through it.
  </li>
  <li>
   <a href="https://github.com/tschaub/gulp-newer">
    gulp-newer
   </a>
+  - Pass through newer source files only.
   <sup>
    &#9733 139, pushed 39 days ago
   </sup>
-  - Pass through newer source files only.
  </li>
 </ul>
 <h3>
@@ -1220,37 +1220,37 @@
   <a href="https://github.com/grncdr/merge-stream">
    merge-stream
   </a>
+  - Merge multiple streams into one interleaved stream.
   <sup>
    &#9733 86, pushed 161 days ago
   </sup>
-  - Merge multiple streams into one interleaved stream.
  </li>
  <li>
   <a href="https://github.com/nfroidure/StreamQueue">
    streamqueue
   </a>
+  - Pipe queued streams progressively.
   <sup>
    &#9733 50, pushed 250 days ago
   </sup>
-  - Pipe queued streams progressively.
  </li>
  <li>
   <a href="https://github.com/OverZealous/run-sequence">
    run-sequence
   </a>
+  - Run a series of dependent gulp tasks in order.
   <sup>
    &#9733 624, pushed 137 days ago
   </sup>
-  - Run a series of dependent gulp tasks in order.
  </li>
  <li>
   <a href="https://github.com/robrich/gulp-if">
    gulp-if
   </a>
+  - Conditionally run a task.
   <sup>
    &#9733 410, pushed 4 days ago
   </sup>
-  - Conditionally run a task.
  </li>
 </ul>
 <h3>
@@ -1261,28 +1261,28 @@
   <a href="https://github.com/mikaelbr/gulp-notify">
    gulp-notify
   </a>
+  - Notification plugin for gulp.
   <sup>
    &#9733 427, pushed 116 days ago
   </sup>
-  - Notification plugin for gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-size">
    gulp-size
   </a>
+  - Display the size of your project.
   <sup>
    &#9733 173, pushed 54 days ago
   </sup>
-  - Display the size of your project.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-debug">
    gulp-debug
   </a>
+  - Debug vinyl file streams to see what files are run through your gulp pipeline.
   <sup>
    &#9733 132, pushed 53 days ago
   </sup>
-  - Debug vinyl file streams to see what files are run through your gulp pipeline.
  </li>
 </ul>
 <h3>
@@ -1293,71 +1293,71 @@
   <a href="https://github.com/sindresorhus/gulp-mocha">
    gulp-mocha
   </a>
-  <sup>
-   &#9733 278, pushed 34 days ago
-  </sup>
   - Run
   <a href="https://github.com/mochajs/mocha">
    Mocha
   </a>
   tests.
+  <sup>
+   &#9733 278, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-jasmine">
    gulp-jasmine
   </a>
-  <sup>
-   &#9733 92, pushed 75 days ago
-  </sup>
   - Run
   <a href="https://github.com/jasmine/jasmine">
    Jasmine 2
   </a>
   tests in Node.js.
+  <sup>
+   &#9733 92, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mllrsohn/gulp-protractor">
    gulp-protractor
   </a>
-  <sup>
-   &#9733 106, pushed 12 days ago
-  </sup>
   - Gulp wrapper for
   <a href="https://github.com/angular/protractor">
    Protractor
   </a>
   tests.
+  <sup>
+   &#9733 106, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dylanb/gulp-coverage">
    gulp-coverage
   </a>
+  - Coverage reporting for Node.js that is independent of the test runner.
   <sup>
    &#9733 59, pushed 142 days ago
   </sup>
-  - Coverage reporting for Node.js that is independent of the test runner.
  </li>
  <li>
   <a href="https://github.com/karma-runner/gulp-karma">
    gulp-karma
   </a>
+  - Karma test runner for gulp.
   <sup>
    &#9733 226, pushed 70 days ago
   </sup>
-  - Karma test runner for gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-ava">
    gulp-ava
   </a>
-  <sup>
-   &#9733 32, pushed 26 days ago
-  </sup>
   - Run
   <a href="https://github.com/sindresorhus/ava">
    AVA
   </a>
   tests with gulp.
+  <sup>
+   &#9733 32, pushed 26 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1368,203 +1368,203 @@
   <a href="https://github.com/gulpjs/gulp-util">
    gulp-util
   </a>
+  - Set of useful utilities.
   <sup>
    &#9733 587, pushed 2 days ago
   </sup>
-  - Set of useful utilities.
  </li>
  <li>
   <a href="https://github.com/floatdrop/gulp-plumber">
    gulp-plumber
   </a>
+  - Prevent pipe breaking caused by errors.
   <sup>
    &#9733 547, pushed 84 days ago
   </sup>
-  - Prevent pipe breaking caused by errors.
  </li>
  <li>
   <a href="https://github.com/jackfranklin/gulp-load-plugins">
    gulp-load-plugins
   </a>
+  - Automatically load in gulp plugins.
   <sup>
    &#9733 572, pushed 5 days ago
   </sup>
-  - Automatically load in gulp plugins.
  </li>
  <li>
   <a href="https://github.com/ck86/main-bower-files">
    main-bower-files
   </a>
+  - Simplify build process setup by dynamically getting the library files.
   <sup>
    &#9733 483, pushed 6 days ago
   </sup>
-  - Simplify build process setup by dynamically getting the library files.
  </li>
  <li>
   <a href="https://github.com/postcss/autoprefixer">
    autoprefixer
   </a>
+  - Parse CSS and add vendor prefixes to rules by Can I Use.
   <sup>
    &#9733 9545, pushed 25 days ago
   </sup>
-  - Parse CSS and add vendor prefixes to rules by Can I Use.
  </li>
  <li>
   <a href="https://github.com/floridoo/gulp-sourcemaps">
    gulp-sourcemaps
   </a>
+  - Provide source map support.
   <sup>
    &#9733 583, pushed 4 days ago
   </sup>
-  - Provide source map support.
  </li>
  <li>
   <a href="https://github.com/lazd/gulp-replace">
    gulp-replace
   </a>
+  - A string replace plugin for gulp.
   <sup>
    &#9733 256, pushed 24 days ago
   </sup>
-  - A string replace plugin for gulp.
  </li>
  <li>
   <a href="https://github.com/hparra/gulp-rename">
    gulp-rename
   </a>
+  - Rename files easily.
   <sup>
    &#9733 371, pushed 210 days ago
   </sup>
-  - Rename files easily.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-rev">
    gulp-rev
   </a>
+  - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.
   <sup>
    &#9733 813, pushed 1 days ago
   </sup>
-  - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/del">
    del
   </a>
+  - Delete files/folders using globs.
   <sup>
    &#9733 403, pushed 26 days ago
   </sup>
-  - Delete files/folders using globs.
  </li>
  <li>
   <a href="https://github.com/robrich/gulp-exec">
    gulp-exec
   </a>
+  - Run a shell command.
   <sup>
    &#9733 84, pushed 178 days ago
   </sup>
-  - Run a shell command.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-strip-debug">
    gulp-strip-debug
   </a>
+  - Strip console, alert, and debugger statements from JavaScript code.
   <sup>
    &#9733 152, pushed 171 days ago
   </sup>
-  - Strip console, alert, and debugger statements from JavaScript code.
  </li>
  <li>
   <a href="https://github.com/unlight/gulp-cssimport">
    gulp-cssimport
   </a>
+  - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.
   <sup>
    &#9733 20, pushed 53 days ago
   </sup>
-  - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.
  </li>
  <li>
   <a href="https://github.com/jonkemp/gulp-inline-css">
    gulp-inline-css
   </a>
+  - Inline your CSS properties into the style attribute in an HTML file.
   <sup>
    &#9733 162, pushed 35 days ago
   </sup>
-  - Inline your CSS properties into the style attribute in an HTML file.
  </li>
  <li>
   <a href="https://github.com/shinnn/gulp-gh-pages">
    gulp-gh-pages
   </a>
+  - Publish contents to Github pages.
   <sup>
    &#9733 418, pushed 101 days ago
   </sup>
-  - Publish contents to Github pages.
  </li>
  <li>
   <a href="https://github.com/Kagami/gulp-ng-annotate">
    gulp-ng-annotate
   </a>
-  <sup>
-   &#9733 209, pushed 69 days ago
-  </sup>
   - Add AngularJS dependency injection annotations with
   <a href="https://github.com/olov/ng-annotate">
    ng-annotate
   </a>
   .
+  <sup>
+   &#9733 209, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stevelacy/gulp-bump">
    gulp-bump
   </a>
+  - Bump any semvar JSON version.
   <sup>
    &#9733 191, pushed 42 days ago
   </sup>
-  - Bump any semvar JSON version.
  </li>
  <li>
   <a href="https://github.com/coderhaoxin/gulp-file-include">
    gulp-file-include
   </a>
+  - Include files with gulp.
   <sup>
    &#9733 247, pushed 181 days ago
   </sup>
-  - Include files with gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-zip">
    gulp-zip
   </a>
-  <sup>
-   &#9733 147, pushed 61 days ago
-  </sup>
   - ZIP compress files.
+  <sup>
+   &#9733 147, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stevelacy/gulp-git">
    gulp-git
   </a>
+  - Run Git commands with gulp.
   <sup>
    &#9733 282, pushed 28 days ago
   </sup>
-  - Run Git commands with gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-filter">
    gulp-filter
   </a>
+  - Filter files in a vinyl stream using globbing.
   <sup>
    &#9733 210, pushed 20 days ago
   </sup>
-  - Filter files in a vinyl stream using globbing.
  </li>
  <li>
   <a href="https://github.com/jas/gulp-preprocess">
    gulp-preprocess
   </a>
+  - Preprocess files based on custom context or environment configuration.
   <sup>
    &#9733 155, pushed 68 days ago
   </sup>
-  - Preprocess files based on custom context or environment configuration.
  </li>
 </ul>
 <h2>
@@ -1578,91 +1578,91 @@
   <a href="https://github.com/google/web-starter-kit">
    web-starter-kit
   </a>
+  - Google Web Starter Kit.
   <sup>
    &#9733 13358, pushed 4 days ago
   </sup>
-  - Google Web Starter Kit.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-plugin-boilerplate">
    gulp-plugin-boilerplate
   </a>
+  - Boilerplate to kickstart creating gulp plugins.
   <sup>
    &#9733 49, pushed 22 days ago
   </sup>
-  - Boilerplate to kickstart creating gulp plugins.
  </li>
  <li>
   <a href="https://github.com/polymerelements/polymer-starter-kit">
    polymer-starter-kit
   </a>
+  - A starting point for Polymer 1.0 apps.
   <sup>
    &#9733 2069, pushed 4 days ago
   </sup>
-  - A starting point for Polymer 1.0 apps.
  </li>
  <li>
   <a href="https://github.com/este/este">
    este
   </a>
+  - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps.
   <sup>
    &#9733 2901, pushed 2 days ago
   </sup>
-  - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps.
  </li>
  <li>
   <a href="https://github.com/mrmrs/mnml">
    mnml
   </a>
+  - Minimal boilerplate to start a responsive HTML5/Sass project.
   <sup>
    &#9733 672, pushed 91 days ago
   </sup>
-  - Minimal boilerplate to start a responsive HTML5/Sass project.
  </li>
  <li>
   <a href="https://github.com/cferdinandi/kraken">
    kraken
   </a>
+  - A lightweight, mobile-first boilerplate for front-end web developers.
   <sup>
    &#9733 609, pushed 14 days ago
   </sup>
-  - A lightweight, mobile-first boilerplate for front-end web developers.
  </li>
  <li>
   <a href="https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate">
    angularjs-gulp-browserify-boilerplate
   </a>
+  - Boilerplate using AngularJS, Sass, gulp, and Browserify.
   <sup>
    &#9733 855, pushed 22 days ago
   </sup>
-  - Boilerplate using AngularJS, Sass, gulp, and Browserify.
  </li>
  <li>
   <a href="https://github.com/poeticninja/hapi-ninja">
    hapi-ninja
   </a>
+  - A Node.js, Hapi, and Swig boilerplate.
   <sup>
    &#9733 371, pushed 395 days ago
   </sup>
-  - A Node.js, Hapi, and Swig boilerplate.
  </li>
  <li>
   <a href="https://github.com/rappasoft/laravel-5-boilerplate">
    laravel-5-boilerplate
   </a>
+  - A Laravel 5 boilerplate project.
   <sup>
    &#9733 1185, pushed 4 days ago
   </sup>
-  - A Laravel 5 boilerplate project.
  </li>
  <li>
   <a href="https://github.com/wbkd/react-starterkit">
    react-starterkit
   </a>
+  - React starter kit that contains react-router, Reflux, jest, webpack, gulp and Stylus.
   <sup>
    &#9733 336, pushed 141 days ago
   </sup>
-  - React starter kit that contains react-router, Reflux, jest, webpack, gulp and Stylus.
  </li>
 </ul>
 <h3>
@@ -1679,77 +1679,77 @@
   <a href="https://github.com/Swiip/generator-gulp-angular">
    generator-gulp-angular
   </a>
+  - Yeoman generator for AngularJS with gulp.
   <sup>
    &#9733 3476, pushed 8 days ago
   </sup>
-  - Yeoman generator for AngularJS with gulp.
  </li>
  <li>
   <a href="https://github.com/randylien/generator-react-gulp-browserify">
    generator-react-gulp-browserify
   </a>
+  - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
   <sup>
    &#9733 405, pushed 30 days ago
   </sup>
-  - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
  </li>
  <li>
   <a href="https://github.com/youngmountain/generator-node-gulp">
    generator-node-gulp
   </a>
+  - A Node.js module generator including gulp and Mocha.
   <sup>
    &#9733 39, pushed 325 days ago
   </sup>
-  - A Node.js module generator including gulp and Mocha.
  </li>
  <li>
   <a href="https://github.com/niallobrien/generator-gulp-bootstrap">
    generator-gulp-bootstrap
   </a>
+  - Yeoman generator for Bootstrap, gulp & libsass.
   <sup>
    &#9733 68, pushed 325 days ago
   </sup>
-  - Yeoman generator for Bootstrap, gulp & libsass.
  </li>
  <li>
   <a href="https://github.com/jgoux/generator-angulpify">
    generator-angulpify
   </a>
+  - Yeoman generator involving AngularJS, gulp and Browserify.
   <sup>
    &#9733 155, pushed 264 days ago
   </sup>
-  - Yeoman generator involving AngularJS, gulp and Browserify.
  </li>
  <li>
   <a href="https://github.com/tmaximini/generator-ionic-gulp">
    generator-ionic-gulp
   </a>
+  - A Yeoman generator for Ionic Projects with gulp.
   <sup>
    &#9733 111, pushed 52 days ago
   </sup>
-  - A Yeoman generator for Ionic Projects with gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/generator-gulp-plugin-boilerplate">
    generator-gulp-plugin-boilerplate
   </a>
-  <sup>
-   &#9733 44, pushed 14 days ago
-  </sup>
   - Scaffold out a
   <a href="https://github.com/sindresorhus/gulp-plugin-boilerplate">
    gulp plugin boilerplate
   </a>
   .
+  <sup>
+   &#9733 44, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sondr3/generator-jekyllized">
    generator-jekyllized
   </a>
+  - Jekyll workflow with gulp, Sass, AutoPrefixer, asset optimization and cache busting and much more.
   <sup>
    &#9733 239, pushed 9 days ago
   </sup>
-  - Jekyll workflow with gulp, Sass, AutoPrefixer, asset optimization and cache busting and much more.
  </li>
 </ul>
 <h2>
@@ -1760,28 +1760,28 @@
   <a href="https://github.com/laravel/elixir">
    elixir
   </a>
+  - A clean, fluent API for defining basic gulp tasks for your Laravel applications.
   <sup>
    &#9733 827, pushed 4 days ago
   </sup>
-  - A clean, fluent API for defining basic gulp tasks for your Laravel applications.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-app">
    gulp-app
   </a>
+  - Gulp as an app (OS X).
   <sup>
    &#9733 887, pushed 311 days ago
   </sup>
-  - Gulp as an app (OS X).
  </li>
  <li>
   <a href="https://github.com/Lostmyname/lmn-gulp-tasks">
    lmn-gulp-tasks
   </a>
+  - Example of gulp tasks unit testing.
   <sup>
    &#9733 15, pushed 40 days ago
   </sup>
-  - Example of gulp tasks unit testing.
  </li>
  <li>
   <a href="http://gulp-cookery.github.io/gulp-chef/">

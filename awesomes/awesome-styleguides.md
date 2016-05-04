@@ -35,10 +35,10 @@
   <a href="https://github.com/hugeinc/styleguide">
    Huge's Styleguide Tool
   </a>
+  A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
   <sup>
    &#9733 1379, pushed 43 days ago
   </sup>
-  A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
  </li>
  <li>
   <a href="http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/">
@@ -160,12 +160,12 @@
   <a href="https://github.com/rstacruz/rscss">
    rscss
   </a>
-  <sup>
-   &#9733 2960, pushed 90 days ago
-  </sup>
   <em>
    Reasonable Standard for CSS Stylesheet Structure
   </em>
+  <sup>
+   &#9733 2960, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/">
@@ -234,10 +234,10 @@
   <a href="https://github.com/thx/html-code-guide">
    THX
   </a>
+  Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
   <sup>
    &#9733 29, pushed 132 days ago
   </sup>
-  Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
  </li>
 </ul>
 <h2>
@@ -330,12 +330,12 @@
   <a href="https://github.com/rstacruz/rsjs">
    rsjs
   </a>
-  <sup>
-   &#9733 54, pushed 90 days ago
-  </sup>
   <em>
    Reasonable Standard for JavaScript Structure
   </em>
+  <sup>
+   &#9733 54, pushed 90 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -424,12 +424,12 @@
   <a href="https://github.com/bolasblack/http-api-guide">
    http-api-guide
   </a>
-  <sup>
-   &#9733 1258, pushed 18 days ago
-  </sup>
   <em>
    Chinese
   </em>
+  <sup>
+   &#9733 1258, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -509,32 +509,32 @@
   <a href="https://github.com/futurice/ios-good-practices">
    Futurice iOS Good Practices
   </a>
-  <sup>
-   &#9733 4220, pushed 5 days ago
-  </sup>
   iOS starting guide and good practices suggestions by
   <a href="https://github.com/futurice">
    @futurice
   </a>
   .
+  <sup>
+   &#9733 4220, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/github/swift-style-guide">
    Github - Style guide & coding conventions for Swift projects
   </a>
+  A guide to our Swift style and conventions by @github.
   <sup>
    &#9733 3128, pushed 25 days ago
   </sup>
-  A guide to our Swift style and conventions by @github.
  </li>
  <li>
   <a href="https://github.com/github/objective-c-style-guide">
    Github Objective-C Style Guide
   </a>
+  Style guide & coding conventions for Objective-C projects.
   <sup>
    &#9733 1530, pushed 124 days ago
   </sup>
-  Style guide & coding conventions for Objective-C projects.
  </li>
  <li>
   <a href="https://github.com/Khan/objective-c-style-guide">
@@ -548,10 +548,10 @@
   <a href="https://github.com/NYTimes/objective-c-style-guide">
    NY Times - Objective C Style Guide
   </a>
+  The Objective-C Style Guide used by The New York Times.
   <sup>
    &#9733 4007, pushed 57 days ago
   </sup>
-  The Objective-C Style Guide used by The New York Times.
  </li>
  <li>
   <a href="https://gist.github.com/soffes/812796">
@@ -563,28 +563,28 @@
   <a href="https://github.com/raywenderlich/objective-c-style-guide">
    raywenderlich Style Guide
   </a>
+  A style guide that outlines the coding conventions for raywenderlich.com.
   <sup>
    &#9733 2119, pushed 41 days ago
   </sup>
-  A style guide that outlines the coding conventions for raywenderlich.com.
  </li>
  <li>
   <a href="https://github.com/spotify/ios-style">
    Spotify Objective-C Coding Style
   </a>
+  Guidelines for iOS development in use at Spotify.
   <sup>
    &#9733 162, pushed 25 days ago
   </sup>
-  Guidelines for iOS development in use at Spotify.
  </li>
  <li>
   <a href="https://github.com/raywenderlich/swift-style-guide">
    Swift Style Guide by @raywenderlich
   </a>
+  The official Swift style guide for raywenderlich.com.
   <sup>
    &#9733 4519, pushed 5 days ago
   </sup>
-  The official Swift style guide for raywenderlich.com.
  </li>
 </ul>
 <h2>

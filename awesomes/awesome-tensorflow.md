@@ -71,28 +71,28 @@
   <a href="https://github.com/pkmital/tensorflow_tutorials">
    TensorFlow Tutorial 1
   </a>
+  - From the basics to slightly more interesting applications of TensorFlow
   <sup>
    &#9733 2043, pushed 10 days ago
   </sup>
-  - From the basics to slightly more interesting applications of TensorFlow
  </li>
  <li>
   <a href="https://github.com/nlintz/TensorFlow-Tutorials">
    TensorFlow Tutorial 2
   </a>
+  - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
   <sup>
    &#9733 1774, pushed 9 days ago
   </sup>
-  - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
  </li>
  <li>
   <a href="https://github.com/aymericdamien/TensorFlow-Examples">
    TensorFlow Examples
   </a>
+  - TensorFlow tutorials and code examples for beginners
   <sup>
    &#9733 2014, pushed 19 days ago
   </sup>
-  - TensorFlow tutorials and code examples for beginners
  </li>
 </ul>
 <p>
@@ -107,37 +107,37 @@
   <a href="https://github.com/google/prettytensor">
    Pretty Tensor
   </a>
+  - Pretty Tensor provides a high level builder API
   <sup>
    &#9733 516, pushed 19 days ago
   </sup>
-  - Pretty Tensor provides a high level builder API
  </li>
  <li>
   <a href="https://github.com/anishathalye/neural-style">
    Neural Style
   </a>
+  - An implementation of neural style
   <sup>
    &#9733 553, pushed 44 days ago
   </sup>
-  - An implementation of neural style
  </li>
  <li>
   <a href="https://github.com/samjabrahams/tensorflow-white-paper-notes">
    TensorFlow White Paper Notes
   </a>
+  - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
   <sup>
    &#9733 172, pushed 56 days ago
   </sup>
-  - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
  </li>
  <li>
   <a href="https://github.com/ckmarkoh/neuralart_tensorflow">
    NeuralArt
   </a>
+  - Implementation of A Neural Algorithm of Artistic Style
   <sup>
    &#9733 154, pushed 140 days ago
   </sup>
-  - Implementation of A Neural Algorithm of Artistic Style
  </li>
  <li>
   <a href="http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html">
@@ -148,19 +148,19 @@
   <a href="https://github.com/hardmaru/write-rnn-tensorflow">
    Generative Handwriting Demo using TensorFlow
   </a>
+  - An attempt to implement the random handwriting generation portion of Alex Graves' paper
   <sup>
    &#9733 155, pushed 44 days ago
   </sup>
-  - An attempt to implement the random handwriting generation portion of Alex Graves' paper
  </li>
  <li>
   <a href="https://github.com/carpedm20/NTM-tensorflow">
    Neural Turing Machine in TensorFlow
   </a>
+  - implementation of Neural Turing Machine
   <sup>
    &#9733 269, pushed 89 days ago
   </sup>
-  - implementation of Neural Turing Machine
  </li>
 </ul>
 <p>
@@ -175,10 +175,10 @@
   <a href="https://github.com/gliese581gg/YOLO_tensorflow">
    YOLO TensorFlow
   </a>
+  - implementation of 'YOLO : Real-Time Object Detection'
   <sup>
    &#9733 57, pushed 77 days ago
   </sup>
-  - implementation of 'YOLO : Real-Time Object Detection'
  </li>
 </ul>
 <p>
@@ -193,19 +193,19 @@
   <a href="https://github.com/tensorflow/skflow">
    skflow
   </a>
+  - Simplified interface (mimicking Scikit Learn) for Deep Learning
   <sup>
    &#9733 2309, pushed 15 days ago
   </sup>
-  - Simplified interface (mimicking Scikit Learn) for Deep Learning
  </li>
  <li>
   <a href="https://github.com/tflearn/tflearn">
    tflearn
   </a>
+  - Deep learning library featuring a higher-level API
   <sup>
    &#9733 2550, pushed 4 days ago
   </sup>
-  - Deep learning library featuring a higher-level API
  </li>
 </ul>
 <p>

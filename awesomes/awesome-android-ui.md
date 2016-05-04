@@ -20,10 +20,10 @@
   <a href="https://github.com/wasabeef/awesome-android-libraries">
    wasabeef/awesome-android-libraries
   </a>
-  <sup>
-   &#9733 2308, pushed 12 days ago
-  </sup>
   .
+  <sup>
+   &#9733 2308, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <em>

@@ -640,9 +640,6 @@
   <a href="https://github.com/rembo10/headphones">
    Headphones
   </a>
-  <sup>
-   &#9733 1930, pushed 9 days ago
-  </sup>
   - An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole.
   <code>
    GPLv3
@@ -650,6 +647,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 1930, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://healthchecks.io/">
@@ -671,9 +671,6 @@
   <a href="https://github.com/cantino/huginn">
    Huginn
   </a>
-  <sup>
-   &#9733 13804, pushed 2 days ago
-  </sup>
   - Allows you to build agents that monitor and act on your behalf -
   <code>
    MIT
@@ -681,6 +678,9 @@
   <code>
    Ruby
   </code>
+  <sup>
+   &#9733 13804, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://http2pic.haschek.at/">
@@ -702,9 +702,6 @@
   <a href="https://github.com/sebsauvage/rss-bridge">
    RSS-Bridge
   </a>
-  <sup>
-   &#9733 393, pushed 2 days ago
-  </sup>
   - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one.
   <code>
    Public domain
@@ -712,6 +709,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 393, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://trigger-happy.eu/">
@@ -733,9 +733,6 @@
   <a href="https://github.com/jchampemont/WTFDYUM">
    WTFDYUM
   </a>
-  <sup>
-   &#9733 24, pushed 22 days ago
-  </sup>
   a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. (
   <a href="https://www.wtfdyu.me/">
    Demo
@@ -751,6 +748,9 @@
   <code>
    Java
   </code>
+  <sup>
+   &#9733 24, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -823,9 +823,6 @@
   <a href="https://github.com/chyrp/chyrp">
    Chyrp
   </a>
-  <sup>
-   &#9733 189, pushed 2 days ago
-  </sup>
   - An extra-awesome, extra-lightweight blog engine.
   <code>
    MIT
@@ -833,6 +830,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 189, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dotclear.org/">
@@ -972,9 +972,6 @@
   <a href="https://github.com/bookieio/Bookie">
    Bookie
   </a>
-  <sup>
-   &#9733 522, pushed 75 days ago
-  </sup>
   - Python based delicious.com replacement. (
   <a href="http://bmark.us/">
    Demo
@@ -986,6 +983,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 522, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://docs.services.mozilla.com/howtos/run-fxa.html">
@@ -1082,9 +1082,6 @@
   <a href="https://github.com/scronide/scuttle">
    Scuttle
   </a>
-  <sup>
-   &#9733 118, pushed 1953 days ago
-  </sup>
   - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links.
   <code>
    GPLv2
@@ -1092,14 +1089,14 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 118, pushed 1953 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shaarli/Shaarli">
    Shaarli
   </a>
-  <sup>
-   &#9733 298, pushed 19 days ago
-  </sup>
   - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. (
   <a href="http://shaarlidemo.tuxfamily.org/Shaarli/">
    Demo
@@ -1114,6 +1111,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 298, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://unmark.it/">
@@ -1278,9 +1278,6 @@
   <a href="https://github.com/rafael-santiago/cherry">
    Cherry
   </a>
-  <sup>
-   &#9733 87, pushed 24 days ago
-  </sup>
   - A tiny webchat server.
   <code>
    GPLv2
@@ -1288,6 +1285,9 @@
   <code>
    Go
   </code>
+  <sup>
+   &#9733 87, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://freenetproject.org/index.html">
@@ -1475,9 +1475,6 @@
   <a href="https://github.com/IgorAntun/node-chat">
    Node-Chat
   </a>
-  <sup>
-   &#9733 259, pushed 242 days ago
-  </sup>
   - A not-so-basic open-source chat with admin features.
   <code>
    MIT
@@ -1485,6 +1482,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 259, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <a href="http://retroshare.org">
@@ -1588,9 +1588,6 @@
   <a href="https://github.com/typpo/textbelt">
    TextBelt
   </a>
-  <sup>
-   &#9733 890, pushed 48 days ago
-  </sup>
   - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.
   <code>
    ⚠
@@ -1601,6 +1598,9 @@
   <code>
    JavaScript
   </code>
+  <sup>
+   &#9733 890, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://tox.chat/">
@@ -1804,9 +1804,6 @@
   <a href="https://github.com/m242/maildrop">
    Maildrop
   </a>
-  <sup>
-   &#9733 489, pushed 272 days ago
-  </sup>
   - Disposable email SMTP server, also useful for development.
   <code>
    MIT
@@ -1814,6 +1811,9 @@
   <code>
    Scala
   </code>
+  <sup>
+   &#9733 489, pushed 273 days ago
+  </sup>
  </li>
  <li>
   <a href="https://opensmtpd.org/">
@@ -2368,9 +2368,6 @@
   <a href="https://github.com/abilian/abilian-sbe">
    Abilian SBE
   </a>
-  <sup>
-   &#9733 2, pushed 7 days ago
-  </sup>
   - Open Source Collaboration and Social Networking framework & platform.
   <code>
    LGPL
@@ -2378,6 +2375,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 2, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.getanahita.com/">
@@ -2560,9 +2560,6 @@
   <a href="https://github.com/redmatrix/hubzilla">
    Hubzilla
   </a>
-  <sup>
-   &#9733 183, pushed 2 days ago
-  </sup>
   - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together.
   <code>
    MIT
@@ -2570,6 +2567,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 183, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.humhub.org/">
@@ -2747,9 +2747,6 @@
   <a href="https://github.com/pixelpark/ppnet">
    PPnet
   </a>
-  <sup>
-   &#9733 94, pushed 18 days ago
-  </sup>
   Create and host your own social network.
   <code>
    MIT
@@ -2757,6 +2754,9 @@
   <code>
    JavaScript
   </code>
+  <sup>
+   &#9733 94, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pump.io/">
@@ -2798,9 +2798,6 @@
   <a href="https://github.com/redmatrix/redmatrix">
    RedMatrix
   </a>
-  <sup>
-   &#9733 46, pushed 32 days ago
-  </sup>
   - Complete decentralised publishing, sharing, and communications system.
   <code>
    MIT
@@ -2808,6 +2805,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 46, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="http://twister.net.co/">
@@ -3211,9 +3211,6 @@
   <a href="https://github.com/WhatCD/Gazelle">
    Gazelle
   </a>
-  <sup>
-   &#9733 1026, pushed 19 days ago
-  </sup>
   - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs.
   <code>
    unlicensed
@@ -3221,6 +3218,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 1026, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://getgrav.org/">
@@ -3761,9 +3761,6 @@
   <a href="https://github.com/danielquinn/paperless">
    Paperless
   </a>
-  <sup>
-   &#9733 2757, pushed 3 days ago
-  </sup>
   - Scan, index, and archive all of your paper documents.
   <code>
    GPLv3
@@ -3771,6 +3768,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 2757, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sane-project.org/">
@@ -3966,10 +3966,10 @@
   <a href="https://github.com/Cacodaimon/CacoCloud">
    Cacocloud
   </a>
+  - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
   <sup>
    &#9733 84, pushed 391 days ago
   </sup>
-  - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
  </li>
  <li>
   <a href="https://www.commafeed.com/">
@@ -3985,10 +3985,10 @@
   <a href="https://github.com/piero-la-lune/Creaky-Coot">
    Creaky Coot
   </a>
+  - Minimalist and responsive RSS reader and links saver
   <sup>
    &#9733 7, pushed 685 days ago
   </sup>
-  - Minimalist and responsive RSS reader and links saver
  </li>
  <li>
   <a href="https://feedbin.com/">
@@ -4059,10 +4059,10 @@
   <a href="https://github.com/socketubs/leselys">
    Leselys
   </a>
+  - Your very elegant RSS reader
   <sup>
    &#9733 207, pushed 89 days ago
   </sup>
-  - Your very elegant RSS reader
  </li>
  <li>
   <a href="http://cubny.com/lite-reader/">
@@ -4104,10 +4104,10 @@
   <a href="https://github.com/samuelclay/NewsBlur">
    NewsBlur
   </a>
+  - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
   <sup>
    &#9733 4232, pushed 11 days ago
   </sup>
-  - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
  </li>
  <li>
   <a href="http://reader.nunux.org/">
@@ -4139,10 +4139,10 @@
   <a href="https://github.com/pabloprieto/Readr">
    Readr
   </a>
+  - A clean & simple, self-hosted RSS reader
   <sup>
    &#9733 28, pushed 905 days ago
   </sup>
-  - A clean & simple, self-hosted RSS reader
  </li>
  <li>
   <a href="http://www.allthingsrss.com/rss2email/">
@@ -4170,9 +4170,6 @@
   <a href="https://github.com/pietheinstrengholt/rssmonster">
    RSS Monster
   </a>
-  <sup>
-   &#9733 111, pushed 4 days ago
-  </sup>
   - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader.
   <code>
    MIT
@@ -4180,14 +4177,14 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 111, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/herrbischoff/screaming-liquid-tiger">
    Screaming Liquid Tiger
   </a>
-  <sup>
-   &#9733 60, pushed 68 days ago
-  </sup>
   - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder.
   <code>
    MIT
@@ -4195,6 +4192,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 60, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="http://selfoss.aditu.de/">
@@ -4216,9 +4216,6 @@
   <a href="https://github.com/swanson/stringer">
    Stringer
   </a>
-  <sup>
-   &#9733 2497, pushed 15 days ago
-  </sup>
   - A work-in-progress self-hosted, anti-social RSS reader.
   <code>
    MIT
@@ -4226,6 +4223,9 @@
   <code>
    Ruby
   </code>
+  <sup>
+   &#9733 2497, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://tt-rss.org/gitlab/fox/tt-rss">
@@ -4263,9 +4263,6 @@
     <a href="https://github.com/mboinet/ttrss-mobile">
      ttrss-mobile
     </a>
-    <sup>
-     &#9733 172, pushed 96 days ago
-    </sup>
     - A mobile webapp for Tiny Tiny RSS.
     <code>
      AGPLv3
@@ -4273,6 +4270,9 @@
     <code>
      Nodejs
     </code>
+    <sup>
+     &#9733 172, pushed 96 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4311,14 +4311,14 @@
   <a href="https://github.com/ipfs/go-ipfs">
    Go IPFS
   </a>
-  <sup>
-   &#9733 1831, pushed 3 days ago
-  </sup>
   - Implementation of
   <a href="http://ipfs.io/">
    IPFS
   </a>
   , a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.
+  <sup>
+   &#9733 1831, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ori.scs.stanford.edu/">
@@ -4522,9 +4522,6 @@
   <a href="https://github.com/feross/instant.io">
    instant.io
   </a>
-  <sup>
-   &#9733 926, pushed 4 days ago
-  </sup>
   - Streaming file transfer over WebTorrent. (
   <a href="https://instant.io">
    Demo
@@ -4536,6 +4533,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 926, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://erdgeist.org/arts/software/opentracker/">
@@ -4556,9 +4556,6 @@
   <a href="https://github.com/peer5/sharefest">
    ShareFest
   </a>
-  <sup>
-   &#9733 1345, pushed 76 days ago
-  </sup>
   - Web based p2p file sharing built on WebRTC Data Channels API. (
   <a href="https://www.sharefest.me/">
    Demo
@@ -4570,6 +4567,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 1345, pushed 76 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -4580,9 +4580,6 @@
   <a href="https://github.com/broncowdd/BoZoN">
    BoZoN
   </a>
-  <sup>
-   &#9733 128, pushed 9 days ago
-  </sup>
   - Minimalist Drag & drop file sharing app.
   <code>
    AGPLv3
@@ -4590,6 +4587,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 128, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://coquelicot.potager.org/">
@@ -4610,9 +4610,6 @@
   <a href="https://github.com/silverwind/droppy">
    droppy
   </a>
-  <sup>
-   &#9733 139, pushed 2 days ago
-  </sup>
   - droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilites to edit files on-the-fly as well as view and playback media directly in the browser. (
   <a href="http://droppy.silverwind.io/">
    Demo
@@ -4624,14 +4621,14 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 139, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/imgbi/img.bi">
    img.bi
   </a>
-  <sup>
-   &#9733 173, pushed 110 days ago
-  </sup>
   - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.
   <code>
    GPLv3
@@ -4639,6 +4636,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 173, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://ipfs.pics/">
@@ -4676,9 +4676,6 @@
   <a href="https://github.com/andreimarcu/linx-server">
    linx
   </a>
-  <sup>
-   &#9733 149, pushed 78 days ago
-  </sup>
   - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. (
   <a href="https://linx.li/">
    Demo
@@ -4690,6 +4687,9 @@
   <code>
    Go
   </code>
+  <sup>
+   &#9733 149, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <a href="https://git.framasoft.org/luc/lufi">
@@ -4715,10 +4715,10 @@
   <a href="https://github.com/ldidry/lutim">
    lutim
   </a>
+  - Let's Upload That Image !
   <sup>
    &#9733 122, pushed 33 days ago
   </sup>
-  - Let's Upload That Image !
  </li>
  <li>
   <a href="https://mediacru.sh/">
@@ -4734,9 +4734,6 @@
   <a href="https://github.com/ethanal/nimbus">
    Nimbus
   </a>
-  <sup>
-   &#9733 55, pushed 78 days ago
-  </sup>
   - A drag-and-drop shortlink file sharer for OS X -
   <code>
    MIT
@@ -4744,6 +4741,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 55, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <a href="https://onionshare.org/">
@@ -4775,9 +4775,6 @@
   <a href="https://github.com/nokonoko/Pomf">
    Pomf
   </a>
-  <sup>
-   &#9733 402, pushed 35 days ago
-  </sup>
   - Simple file uploading and sharing, source for the now shut down site Pomf.se.
   <code>
    MIT
@@ -4785,6 +4782,9 @@
   <code>
    PHP/Nodejs
   </code>
+  <sup>
+   &#9733 402, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.projectsend.org/">
@@ -4806,9 +4806,6 @@
   <a href="https://github.com/Upload/Up1">
    Up1
   </a>
-  <sup>
-   &#9733 384, pushed 14 days ago
-  </sup>
   - A Client-side Encrypted Image Host. (
   <a href="https://up1.ca/">
    Demo
@@ -4820,6 +4817,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 384, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://u.pste.pw">
@@ -4932,34 +4932,34 @@
   <a href="https://github.com/jatekos101/20euros">
    20euros
   </a>
+  - Clone of 2048 game with euros. - Unlicensed
   <sup>
    &#9733 8, pushed 264 days ago
   </sup>
-  - Clone of 2048 game with euros. - Unlicensed
  </li>
  <li>
   <a href="https://github.com/huytd/agar.io-clone">
    Agar.IO Clone
   </a>
-  <sup>
-   &#9733 1248, pushed 65 days ago
-  </sup>
   - Agar.io clone written with Socket.IO and HTML5 canvas -
   <code>
    MIT
   </code>
+  <sup>
+   &#9733 1248, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Kshitij-Banerjee/Cubiks-2048">
    Cubiks-2048
   </a>
-  <sup>
-   &#9733 15, pushed 276 days ago
-  </sup>
   - Clone of 2048 game in 3D. -
   <code>
    CCANC 4.0
   </code>
+  <sup>
+   &#9733 15, pushed 276 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tournamentmango.com/">
@@ -5304,9 +5304,6 @@
   <a href="https://github.com/MapBBCode/share.mapbbcode.org">
    MapBBCodeShare
   </a>
-  <sup>
-   &#9733 23, pushed 138 days ago
-  </sup>
   - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... (
   <a href="http://share.mapbbcode.org/">
    Demo
@@ -5318,6 +5315,9 @@
   <code>
    PHP/Javascript
   </code>
+  <sup>
+   &#9733 23, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openstreetmap.org/">
@@ -5435,9 +5435,6 @@
   <a href="https://github.com/jkbrzt/cloudtunes">
    cloudtunes
   </a>
-  <sup>
-   &#9733 2126, pushed 72 days ago
-  </sup>
   - Web-based music player for the cloud.
   <code>
    MIT
@@ -5445,6 +5442,9 @@
   <code>
    Python/Javascript
   </code>
+  <sup>
+   &#9733 2126, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gnu.io/fm/">
@@ -5591,9 +5591,6 @@
   <a href="https://github.com/calzoneman/sync">
    CyTube
   </a>
-  <sup>
-   &#9733 369, pushed 5 days ago
-  </sup>
   - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. (
   <a href="http://cytu.be">
    Demo
@@ -5605,18 +5602,21 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 369, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MediaBrowser/Emby">
    Emby
   </a>
-  <sup>
-   &#9733 833, pushed 2 days ago
-  </sup>
   - A home media server built using other popular open source technologies. -
   <code>
    GPLv2
   </code>
+  <sup>
+   &#9733 833, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://flumotion.net/">
@@ -5687,9 +5687,6 @@
   <a href="https://github.com/dularion/streama">
    Streama
   </a>
-  <sup>
-   &#9733 2678, pushed 2 days ago
-  </sup>
   - Self-hosted Netflix alternative. -
   <code>
    MIT
@@ -5697,14 +5694,14 @@
   <code>
    Java
   </code>
+  <sup>
+   &#9733 2678, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ZoneMinder/ZoneMinder">
    Zoneminder
   </a>
-  <sup>
-   &#9733 727, pushed 2 days ago
-  </sup>
   - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras.
   <code>
    GPLv2
@@ -5712,6 +5709,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 727, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5722,14 +5722,14 @@
   <a href="https://github.com/drichard/mindmaps">
    Mindmaps
   </a>
-  <sup>
-   &#9733 862, pushed 140 days ago
-  </sup>
   - An open source, offline capable, mind mapping application. (
   <a href="http://drichard.org/mindmaps/">
    Demo
   </a>
   )
+  <sup>
+   &#9733 862, pushed 140 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5740,9 +5740,6 @@
   <a href="https://github.com/arecker/bennedetto">
    Benedetto
   </a>
-  <sup>
-   &#9733 219, pushed 14 days ago
-  </sup>
   - Bennedetto is a simple, turn-based budget management app.
   <code>
    GPLv3
@@ -5750,6 +5747,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 219, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.economizzer.org/">
@@ -5987,9 +5987,6 @@
   <a href="https://github.com/yosko/jotter">
    Jotter
   </a>
-  <sup>
-   &#9733 27, pushed 775 days ago
-  </sup>
   - Jotter is a lightweight, no database, powerful web notebook that lets you create and manage notes online safely, quickly & easily. (
   <a href="http://tools.yosko.net/demos/jotter/">
    Demo
@@ -5999,6 +5996,9 @@
    demo/demo
   </code>
   )
+  <sup>
+   &#9733 27, pushed 775 days ago
+  </sup>
  </li>
  <li>
   <a href="https://laverna.cc/">
@@ -6018,9 +6018,6 @@
   <a href="https://github.com/pereorga/minimalist-web-notepad">
    minimalist-web-notepad
   </a>
-  <sup>
-   &#9733 35, pushed 335 days ago
-  </sup>
   - A minimalist http://notepad.cc clone.
   <code>
    Apache
@@ -6028,14 +6025,14 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 35, pushed 335 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SSilence/notes">
    notes
   </a>
-  <sup>
-   &#9733 5, pushed 18 days ago
-  </sup>
   - Simple script for personal notes with a single page with a WYSIWYG Editor.
   <code>
    GPLv3
@@ -6043,15 +6040,18 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 5, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FoxUSA/OpenNote">
    OpenNote
   </a>
-  <sup>
-   &#9733 972, pushed 52 days ago
-  </sup>
   - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+  <sup>
+   &#9733 972, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="http://paperwork.rocks">
@@ -6274,9 +6274,6 @@
   <a href="https://github.com/sametmax/0bin">
    0bin
   </a>
-  <sup>
-   &#9733 501, pushed 116 days ago
-  </sup>
   - Client side encrypted pastebin.
   <code>
    WTFPL
@@ -6284,6 +6281,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 501, pushed 116 days ago
+  </sup>
  </li>
  <li>
   <a href="https://cryptonote.me/">
@@ -6337,9 +6337,6 @@
   <a href="https://github.com/petermaloney/localpaste">
    LocalPaste
   </a>
-  <sup>
-   &#9733 9, pushed 250 days ago
-  </sup>
   - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images(no extensions on returned url).
   <code>
    GPLv2
@@ -6347,6 +6344,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 9, pushed 250 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pastedown.ctrl-c.us/">
@@ -6368,9 +6368,6 @@
   <a href="https://github.com/ptpb/pb">
    pb
   </a>
-  <sup>
-   &#9733 130, pushed 27 days ago
-  </sup>
   - Lightweight pastebin (and url shortener) built using flask. (
   <a href="https://ptpb.pw/">
    Demo
@@ -6382,6 +6379,9 @@
   <code>
    Python/Flask
   </code>
+  <sup>
+   &#9733 130, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pste.pw">
@@ -6428,9 +6428,6 @@
   <a href="https://github.com/claudehohl/Stikked">
    Stikked
   </a>
-  <sup>
-   &#9733 457, pushed 18 days ago
-  </sup>
   - An advanced and beautiful pastebin.
   <code>
    PHP
@@ -6438,14 +6435,14 @@
   <code>
    GPLv3
   </code>
+  <sup>
+   &#9733 457, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andreineculau/tastebin">
    tastebin
   </a>
-  <sup>
-   &#9733 11, pushed 94 days ago
-  </sup>
   - Updated version of hastebin plus additional features.
   <code>
    Apache
@@ -6453,6 +6450,9 @@
   <code>
    Nodejs
   </code>
+  <sup>
+   &#9733 11, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elrido/ZeroBin/wiki">
@@ -6503,9 +6503,6 @@
   <a href="https://github.com/foxmask/dj-diabetes">
    Dj Diabetes
   </a>
-  <sup>
-   &#9733 8, pushed 11 days ago
-  </sup>
   - My Glucose Manager - follow your daily health
   <code>
    BSD
@@ -6513,6 +6510,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 8, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://freeboard.io">
@@ -6586,14 +6586,14 @@
   <a href="https://github.com/Reportr/dashboard">
    Reportr
   </a>
-  <sup>
-   &#9733 2377, pushed 196 days ago
-  </sup>
   - Your life's personal dashboard. (
   <a href="https://github.com/Reportr/dashboard">
    Source Code
   </a>
   )
+  <sup>
+   &#9733 2377, pushed 196 days ago
+  </sup>
  </li>
  <li>
   <a href="https://thingspeak.com/">
@@ -6635,9 +6635,6 @@
   <a href="https://github.com/rolandgeider/wger">
    wger
   </a>
-  <sup>
-   &#9733 398, pushed 2 days ago
-  </sup>
   - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. (
   <a href="https://wger.de">
    Demo
@@ -6649,6 +6646,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 398, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -6745,9 +6745,6 @@
   <a href="https://github.com/sebsauvage/MinigalNano">
    MinigalNano
   </a>
-  <sup>
-   &#9733 65, pushed 242 days ago
-  </sup>
   - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) (
   <a href="http://boards.tomcanac.com/">
    Demo
@@ -6759,18 +6756,21 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 65, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hillman/phog">
    phog
   </a>
-  <sup>
-   &#9733 66, pushed 799 days ago
-  </sup>
   - Static photo gallery generator with S3 uploader.
   <code>
    Python
   </code>
+  <sup>
+   &#9733 66, pushed 799 days ago
+  </sup>
  </li>
  <li>
   <a href="http://blog.zx2c4.com/567">
@@ -6792,9 +6792,6 @@
   <a href="https://github.com/thibaud-rohmer/PhotoLight">
    PhotoLight
   </a>
-  <sup>
-   &#9733 10, pushed 1051 days ago
-  </sup>
   - The easiest photo gallery there is.
   <code>
    PHP
@@ -6802,6 +6799,9 @@
   <code>
    GPLv3
   </code>
+  <sup>
+   &#9733 10, pushed 1051 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.photoshow-gallery.com/">
@@ -6851,13 +6851,13 @@
   <a href="https://github.com/dmpop/pygmyfoto">
    Pygmyfoto
   </a>
-  <sup>
-   &#9733 9, pushed 652 days ago
-  </sup>
   - A crude solution for publishing a photo roll on the web.
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 9, pushed 652 days ago
+  </sup>
  </li>
  <li>
   <a href="http://shot.io/">
@@ -6879,9 +6879,6 @@
   <a href="https://github.com/saimn/sigal">
    sigal
   </a>
-  <sup>
-   &#9733 243, pushed 2 days ago
-  </sup>
   - Yet another simple static gallery generator.
   <code>
    MIT
@@ -6889,6 +6886,9 @@
   <code>
    Python
   </code>
+  <sup>
+   &#9733 243, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ubergallery.net">
@@ -7011,9 +7011,6 @@
   <a href="https://github.com/nearbycoder/materialpoll">
    MaterialPoll
   </a>
-  <sup>
-   &#9733 15, pushed 302 days ago
-  </sup>
   - An opensource strawpoll.me clone for creating random polls. (
   <a href="http://materialpoll.tk">
    Demo
@@ -7023,6 +7020,9 @@
    Source Code
   </a>
   )
+  <sup>
+   &#9733 15, pushed 302 days ago
+  </sup>
  </li>
  <li>
   <a href="https://nuages.domainepublic.net/">
@@ -7179,9 +7179,6 @@
   <a href="https://github.com/memiks/readityourself">
    Readityourself
   </a>
-  <sup>
-   &#9733 24, pushed 665 days ago
-  </sup>
   - Read the web without ads, comments, or tweets. (
   <a href="http://www.readityourself.net/">
    Demo
@@ -7193,6 +7190,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 24, pushed 665 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.wallabag.org/?lang=fr_fr">
@@ -7226,9 +7226,6 @@
   <a href="https://github.com/asciimoo/searx">
    Searx
   </a>
-  <sup>
-   &#9733 634, pushed 2 days ago
-  </sup>
   - A privacy-respecting, hackable metasearch engine. (
   <a href="https://searx.me/">
    Demo
@@ -7238,6 +7235,9 @@
    Public instances
   </a>
   )
+  <sup>
+   &#9733 634, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://beniz.github.io/seeks/">
@@ -7360,14 +7360,14 @@
   <a href="https://github.com/gogits/gogs">
    Gogs
   </a>
-  <sup>
-   &#9733 13592, pushed 2 days ago
-  </sup>
   - A painless self-hosted Git Service written in Go. (
   <a href="https://try.gogs.io/">
    Demo
   </a>
   )
+  <sup>
+   &#9733 13592, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://kallithea-scm.org/">
@@ -7666,13 +7666,13 @@
   <a href="https://github.com/justinwalsh/daux.io">
    daux.io
   </a>
-  <sup>
-   &#9733 3946, pushed 2 days ago
-  </sup>
   - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
   <code>
    MIT
   </code>
+  <sup>
+   &#9733 3946, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://haldean.org/">
@@ -7700,10 +7700,10 @@
   <a href="https://github.com/mil/markdown-tree">
    markdown-tree
   </a>
+  - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
   <sup>
    &#9733 60, pushed 465 days ago
   </sup>
-  - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
  </li>
  <li>
   <a href="https://dynalon.github.io/mdwiki/#!index.md">
@@ -7763,9 +7763,6 @@
   <a href="https://github.com/infews/bulldog">
    bulldog
   </a>
-  <sup>
-   &#9733 110, pushed 1361 days ago
-  </sup>
   - HTML5 task manager, built on todo.txt.
   <code>
    MIT
@@ -7773,14 +7770,14 @@
   <code>
    HTML5
   </code>
+  <sup>
+   &#9733 110, pushed 1361 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/arshad/crepido">
    Crepido
   </a>
-  <sup>
-   &#9733 44, pushed 115 days ago
-  </sup>
   - Create (kanban) boards to track users and projects from flat markdown files.
   <code>
    MIT
@@ -7788,6 +7785,9 @@
   <code>
    Javascript/Others
   </code>
+  <sup>
+   &#9733 44, pushed 115 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kanboard.net/">
@@ -7811,9 +7811,6 @@
   <a href="https://github.com/chr15m/omgnata">
    omgnata
   </a>
-  <sup>
-   &#9733 1, pushed 51 days ago
-  </sup>
   - Mobile friendly zero-feature TODO list web app. Unix philosophy. (
   <a href="https://chr15m.github.io/omgnata/">
    Demo
@@ -7825,6 +7822,9 @@
   <code>
    ClojureScript
   </code>
+  <sup>
+   &#9733 1, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="http://restya.com/board/">
@@ -7873,13 +7873,13 @@
   <a href="https://github.com/RaymiiOrg/tasks.php">
    tasks.php
   </a>
-  <sup>
-   &#9733 29, pushed 1063 days ago
-  </sup>
   - A simple task/todo list manager.
   <code>
    MIT
   </code>
+  <sup>
+   &#9733 29, pushed 1063 days ago
+  </sup>
  </li>
  <li>
   <a href="https://taskwarrior.org/">
@@ -7901,9 +7901,6 @@
   <a href="https://github.com/satrun77/tinyissue">
    Tinyissue
   </a>
-  <sup>
-   &#9733 19, pushed 5 days ago
-  </sup>
   - Simple Issue Tracking for Teams.
   <code>
    MIT
@@ -7911,6 +7908,9 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 19, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.getontracks.org/">
@@ -8038,21 +8038,18 @@
   <a href="https://github.com/bkeepers/gaskit">
    Gaskit
   </a>
-  <sup>
-   &#9733 942, pushed 782 days ago
-  </sup>
   - A git-backed issue tracker. It uses a branch in your local git database to store the tickets.
   <code>
    GPL
   </code>
+  <sup>
+   &#9733 942, pushed 782 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/huboard/huboard">
    HuBoard
   </a>
-  <sup>
-   &#9733 1653, pushed 11 days ago
-  </sup>
   <code>
    ⚠
   </code>
@@ -8063,6 +8060,9 @@
   <code>
    Ruby
   </code>
+  <sup>
+   &#9733 1653, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.mantisbt.org/">
@@ -8096,14 +8096,14 @@
   <a href="https://github.com/ldidry/lstu">
    Lstu
   </a>
-  <sup>
-   &#9733 40, pushed 36 days ago
-  </sup>
   -
   <em>
    Let's SHorten That Url
   </em>
   - Lightweight URL shortener
+  <sup>
+   &#9733 40, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ethanal/nimbus">
@@ -8188,13 +8188,13 @@
   <a href="https://github.com/ldleman/blazekiss">
    Blazekiss
   </a>
-  <sup>
-   &#9733 4, pushed 611 days ago
-  </sup>
   - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 4, pushed 611 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.bookstackapp.com/">
@@ -8220,9 +8220,6 @@
   <a href="https://github.com/codex-project/codex">
    Codex
   </a>
-  <sup>
-   &#9733 15, pushed 107 days ago
-  </sup>
   - Codex is a simple file-based Markdown documentation platform built on top of Laravel. -
   <code>
    MIT
@@ -8230,18 +8227,21 @@
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 15, pushed 107 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fredoliveira/commonplace">
    commonplace
   </a>
-  <sup>
-   &#9733 174, pushed 522 days ago
-  </sup>
   - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
   <code>
    Ruby
   </code>
+  <sup>
+   &#9733 174, pushed 522 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.splitbrain.org/projects/dokuwiki">
@@ -8259,22 +8259,22 @@
   <a href="https://github.com/jgm/gitit">
    Gitit
   </a>
-  <sup>
-   &#9733 1106, pushed 20 days ago
-  </sup>
   - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds.
   <code>
    Haskell
   </code>
+  <sup>
+   &#9733 1106, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gollum/gollum">
    Gollum
   </a>
+  - A simple, Git-powered wiki with a sweet API and local frontend.
   <sup>
    &#9733 6913, pushed 17 days ago
   </sup>
-  - A simple, Git-powered wiki with a sweet API and local frontend.
  </li>
  <li>
   <a href="http://gruik.io/">
@@ -8299,9 +8299,6 @@
   <a href="https://github.com/claudioc/jingo">
    jingo
   </a>
-  <sup>
-   &#9733 526, pushed 10 days ago
-  </sup>
   - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. (
   <a href="http://jingo.cica.li:6067/wiki/home">
    Demo
@@ -8317,6 +8314,9 @@
   <code>
    NodeJS
   </code>
+  <sup>
+   &#9733 526, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.mediawiki.org/wiki/MediaWiki">
@@ -8336,9 +8336,6 @@
   <a href="https://github.com/minad/olelo">
    Olelo
   </a>
-  <sup>
-   &#9733 222, pushed 605 days ago
-  </sup>
   - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture. (
   <a href="http://gitwiki.org/">
    Demo
@@ -8350,6 +8347,9 @@
   <code>
    Ruby
   </code>
+  <sup>
+   &#9733 222, pushed 605 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.pmwiki.org">
@@ -8373,13 +8373,13 @@
   <a href="https://github.com/scragg0x/realms-wiki">
    Realms
   </a>
-  <sup>
-   &#9733 510, pushed 9 days ago
-  </sup>
   - A git-backed wiki inspired by Gollum.
   <code>
    Python
   </code>
+  <sup>
+   &#9733 510, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://redaxscript.com/">
@@ -8442,13 +8442,13 @@
   <a href="https://github.com/victorstanciu/Wikitten">
    Wikitten
   </a>
-  <sup>
-   &#9733 395, pushed 43 days ago
-  </sup>
   - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
   <code>
    PHP
   </code>
+  <sup>
+   &#9733 395, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <hr/>
@@ -8479,9 +8479,6 @@
   <a href="https://github.com/bashrc/freedombone">
    FreedomBone
   </a>
-  <sup>
-   &#9733 63, pushed 2 days ago
-  </sup>
   - Home server configuration based on Debian.
   <code>
    GPLv3
@@ -8489,6 +8486,9 @@
   <code>
    Shell
   </code>
+  <sup>
+   &#9733 63, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://wiki.debian.org/FreedomBox">
@@ -8542,9 +8542,6 @@
   <a href="https://github.com/sovereign/sovereign">
    sovereign
   </a>
-  <sup>
-   &#9733 5242, pushed 2 days ago
-  </sup>
   - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
   <code>
    GPLv3
@@ -8552,6 +8549,9 @@
   <code>
    YAML/Other
   </code>
+  <sup>
+   &#9733 5242, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ubos.net/">
@@ -8779,19 +8779,19 @@
   <a href="https://github.com/onurakpolat/awesome-bigdata">
    Awesome Big Data
   </a>
+  - A curated list of awesome big data frameworks, resources and other awesomeness.
   <sup>
    &#9733 3106, pushed 12 days ago
   </sup>
-  - A curated list of awesome big data frameworks, resources and other awesomeness.
  </li>
  <li>
   <a href="https://github.com/n1trux/awesome-sysadmin">
    Awesome Sysadmin
   </a>
+  - A curated list of amazingly awesome open source sysadmin resources.
   <sup>
    &#9733 3496, pushed 4 days ago
   </sup>
-  - A curated list of amazingly awesome open source sysadmin resources.
  </li>
  <li>
   <a href="https://prism-break.org/en/">

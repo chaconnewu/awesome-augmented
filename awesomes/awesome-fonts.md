@@ -56,14 +56,14 @@
     <a href="https://github.com/google/fonts">
      Files of Google Fonts
     </a>
-    <sup>
-     &#9733 6685, pushed 17 days ago
-    </sup>
     (
     <a href="https://github.com/googlefonts">
      sources
     </a>
     )
+    <sup>
+     &#9733 6685, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/qrpike/Web-Font-Load">
@@ -77,19 +77,19 @@
     <a href="https://github.com/google/roboto">
      Roboto
     </a>
+    default font on Android/ ChromeOS, and the recommended for Material Design
     <sup>
      &#9733 2267, pushed 27 days ago
     </sup>
-    default font on Android/ ChromeOS, and the recommended for Material Design
    </li>
    <li>
     <a href="https://github.com/googlei18n/noto-fonts">
      Noto Fonts
     </a>
+    Internationalized font for all languages, with rich support for CJK and emoji.
     <sup>
      &#9733 314, pushed 15 days ago
     </sup>
-    Internationalized font for all languages, with rich support for CJK and emoji.
    </li>
   </ul>
  </li>
@@ -133,10 +133,10 @@
   <a href="https://github.com/christiannaths/Redacted-Font">
    Redacted
   </a>
+  Keep your wireframes free of distracting Lorem Ipsum
   <sup>
    &#9733 4168, pushed 228 days ago
   </sup>
-  Keep your wireframes free of distracting Lorem Ipsum
  </li>
  <li>
   <a href="https://github.com/weiweihuanghuang/Work-Sans">
@@ -163,10 +163,10 @@
   <a href="https://github.com/sariina/appa-sariicon">
    Appa Sariicon
   </a>
+  147 8-bit retro style webfont icons form web and mobile
   <sup>
    &#9733 6, pushed 169 days ago
   </sup>
-  147 8-bit retro style webfont icons form web and mobile
  </li>
  <li>
   <a href="http://evil-icons.io/">
@@ -178,10 +178,10 @@
   <a href="https://github.com/FontCustom/fontcustom">
    Font Custom
   </a>
+  icon fonts generator
   <sup>
    &#9733 2900, pushed 35 days ago
   </sup>
-  icon fonts generator
  </li>
  <li>
   <a href="http://fontawesome.io">
@@ -193,19 +193,19 @@
   <a href="https://github.com/fizzed/font-mfizz">
    font-mfizz
   </a>
+  Font Mfizz - Vector Icons for Technology and Software Geeks
   <sup>
    &#9733 239, pushed 17 days ago
   </sup>
-  Font Mfizz - Vector Icons for Technology and Software Geeks
  </li>
  <li>
   <a href="https://github.com/PrideChung/FontAwesomeKit">
    FontAwesomeKit
   </a>
+  Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
   <sup>
    &#9733 1837, pushed 16 days ago
   </sup>
-  Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
  </li>
  <li>
   <a href="http://fontello.com">
@@ -243,10 +243,10 @@
   <a href="https://github.com/somerandomdude/Iconic">
    Iconic
   </a>
+  icon set in raster, vector and font formats
   <sup>
    &#9733 2429, pushed 246 days ago
   </sup>
-  icon set in raster, vector and font formats
  </li>
  <li>
   <a href="http://saeedalipoor.github.io/icono/">
@@ -264,19 +264,19 @@
   <a href="https://github.com/scottdejonge/map-icons">
    Map Icons
   </a>
+  font for use with Google Maps API and Google Places API using SVG markers and icon labels
   <sup>
    &#9733 580, pushed 54 days ago
   </sup>
-  font for use with Google Maps API and Google Places API using SVG markers and icon labels
  </li>
  <li>
   <a href="https://github.com/google/material-design-icons">
    Material design icons
   </a>
+  official icon set from Google
   <sup>
    &#9733 23504, pushed 21 days ago
   </sup>
-  official icon set from Google
  </li>
  <li>
   <a href="http://mfglabs.github.io/mfglabs-iconset/">
@@ -288,10 +288,10 @@
   <a href="https://github.com/xtoolkit/Micon">
    Micon
   </a>
+  Iconic Windows 10 font and CSS toolkit
   <sup>
    &#9733 33, pushed 225 days ago
   </sup>
-  Iconic Windows 10 font and CSS toolkit
  </li>
  <li>
   <a href="https://octicons.github.com/">
@@ -315,19 +315,19 @@
   <a href="https://github.com/jhogue/PE-Analog-Clock-icon-font">
    PE-Analog-Clock-icon-font
   </a>
+  A set of icons for displaying a visual ("analog") representation of time stamps
   <sup>
    &#9733 280, pushed 81 days ago
   </sup>
-  A set of icons for displaying a visual ("analog") representation of time stamps
  </li>
  <li>
   <a href="https://github.com/parkerbennett/stackicons">
    stackicons
   </a>
+  Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
   <sup>
    &#9733 917, pushed 794 days ago
   </sup>
-  Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
  </li>
  <li>
   <a href="http://typicons.com">
@@ -353,21 +353,21 @@
   <a href="https://github.com/adamstac/zocial">
    Zocial
   </a>
-  <sup>
-   &#9733 208, pushed 1638 days ago
-  </sup>
   Sass and Compass CSS3 social buttons framework
   <ul>
    <li>
     <a href="https://github.com/smcllns/css-social-buttons">
      CSS social buttons
     </a>
+    Entirely vector-based social buttons
     <sup>
      &#9733 1537, pushed 33 days ago
     </sup>
-    Entirely vector-based social buttons
    </li>
   </ul>
+  <sup>
+   &#9733 208, pushed 1638 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -383,10 +383,10 @@
   <a href="https://github.com/chrissimpkins/codeface">
    Codeface
   </a>
+  gallery of monospaced fonts for developers
   <sup>
    &#9733 3139, pushed 28 days ago
   </sup>
-  gallery of monospaced fonts for developers
  </li>
  <li>
   <a href="https://github.com/belluzj/fantasque-sans">
@@ -419,10 +419,10 @@
   <a href="https://github.com/andreberg/Meslo-Font">
    Meslo-Font
   </a>
+  Customized version of Apple's Menlo font
   <sup>
    &#9733 1468, pushed 242 days ago
   </sup>
-  Customized version of Apple's Menlo font
  </li>
  <li>
   <a href="https://github.com/larsenwork/monoid">
@@ -436,10 +436,10 @@
   <a href="https://github.com/ryanoasis/nerd-fonts">
    Nerd Fonts
   </a>
+  Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
   <sup>
    &#9733 2536, pushed 15 days ago
   </sup>
-  Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
  </li>
  <li>
   <a href="https://github.com/adobe-fonts">
@@ -478,10 +478,10 @@
   <a href="https://github.com/tonsky/FiraCode">
    FiraCode
   </a>
+  Monospaced font with programming ligatures
   <sup>
    &#9733 4871, pushed 13 days ago
   </sup>
-  Monospaced font with programming ligatures
  </li>
  <li>
   <a href="https://github.com/i-tu/Hasklig">
@@ -511,10 +511,10 @@
   <a href="https://github.com/ecomfe/fontmin">
    fontmin
   </a>
+  font minifier
   <sup>
    &#9733 1511, pushed 4 days ago
   </sup>
-  font minifier
  </li>
  <li>
   <a href="https://github.com/davatron5000/Lettering.js">
@@ -528,19 +528,19 @@
   <a href="https://github.com/jaicab/localFont">
    localFont
   </a>
+  save fonts in localStorage
   <sup>
    &#9733 810, pushed 74 days ago
   </sup>
-  save fonts in localStorage
  </li>
  <li>
   <a href="https://github.com/davidmerfield/typeset">
    Typeset.js
   </a>
+  - HTML pre-processor for web typography.
   <sup>
    &#9733 2104, pushed 29 days ago
   </sup>
-  - HTML pre-processor for web typography.
  </li>
 </ul>
 <h4>
@@ -586,28 +586,28 @@
   <a href="https://github.com/Benvie/font">
    font
   </a>
+  extracts metadata from otf/ttf font files
   <sup>
    &#9733 26, pushed 1487 days ago
   </sup>
-  extracts metadata from otf/ttf font files
  </li>
  <li>
   <a href="https://github.com/fontforge/fontforge">
    FontForge
   </a>
+  cross-platform font editor
   <sup>
    &#9733 992, pushed 3 days ago
   </sup>
-  cross-platform font editor
  </li>
  <li>
   <a href="https://github.com/powerline/fonts">
    Powerline Fonts
   </a>
+  - patched fonts for Powerline users
   <sup>
    &#9733 5063, pushed 17 days ago
   </sup>
-  - patched fonts for Powerline users
  </li>
 </ul>
 <h2>

@@ -1863,10 +1863,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/01org/idlf">
    Intel framework
   </a>
+  - Intel® Deep Learning Framework
   <sup>
    &#9733 296, pushed 92 days ago
   </sup>
-  - Intel® Deep Learning Framework
  </li>
  <li>
   <a href="https://datawrapper.de">
@@ -1903,10 +1903,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/JuliaLang/IJulia.jl">
    IJulia
   </a>
+  – a Julia-language backend combined with the Jupyter interactive environment.
   <sup>
    &#9733 862, pushed 8 days ago
   </sup>
-  – a Julia-language backend combined with the Jupyter interactive environment.
  </li>
 </ul>
 <h2>
@@ -2200,19 +2200,19 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
+  list.
   <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
-  list.
  </li>
  <li>
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Awesome Machine Learning
   </a>
+  A curated list of awesome Machine Learning frameworks, libraries and software.
   <sup>
    &#9733 12665, pushed 4 days ago
   </sup>
-  A curated list of awesome Machine Learning frameworks, libraries and software.
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
@@ -2258,9 +2258,9 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/caesar0301/awesome-public-datasets">
    awesome-datasets
   </a>
+  . – An awesome list of high-quality open datasets in public domains
   <sup>
    &#9733 13887, pushed 6 days ago
   </sup>
-  . – An awesome list of high-quality open datasets in public domains
  </li>
 </ul>

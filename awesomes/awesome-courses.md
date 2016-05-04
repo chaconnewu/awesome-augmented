@@ -1825,9 +1825,6 @@
   <a href="https://github.com/aaronbloomfield/pdr">
    CS 2150
   </a>
-  <sup>
-   &#9733 70, pushed 1 days ago
-  </sup>
   <strong>
    Program & Data Representation
   </strong>
@@ -1851,6 +1848,9 @@
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 70, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cs.cornell.edu/courses/CS4820/2014sp/">
@@ -4369,9 +4369,6 @@ Topics covered include probability theory and Bayesian inference; univariate dis
   <a href="https://github.com/RPISEC/MBE">
    CSCI 4976
   </a>
-  <sup>
-   &#9733 1215, pushed 28 days ago
-  </sup>
   <strong>
    Modern Binary Exploitation
   </strong>
@@ -4411,14 +4408,14 @@ skills in vulnerability research, reverse engineering, and binary exploitation.
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 1215, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RPISEC/Malware">
    CSCI 4976
   </a>
-  <sup>
-   &#9733 1126, pushed 110 days ago
-  </sup>
   <strong>
    Malware Analysis
   </strong>
@@ -4462,6 +4459,9 @@ and anti-analysis techniques.
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 1126, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.eecs.umich.edu/courses/eecs588/">
@@ -4744,9 +4744,6 @@ and anti-analysis techniques.
   <a href="https://github.com/ut-cs378-vision-2014fall/course-info">
    CS 378
   </a>
-  <sup>
-   &#9733 56, pushed 441 days ago
-  </sup>
   <strong>
    3D Reconstruction with Computer Vision
   </strong>
@@ -4765,6 +4762,9 @@ and anti-analysis techniques.
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 56, pushed 441 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#">
@@ -4962,9 +4962,6 @@ and anti-analysis techniques.
   <a href="https://github.com/mikeizbicki/ucr-cs100">
    CS 100
   </a>
-  <sup>
-   &#9733 239, pushed 188 days ago
-  </sup>
   <strong>
    Open Source Software Construction
   </strong>
@@ -4991,6 +4988,9 @@ and anti-analysis techniques.
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 239, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="http://web.stanford.edu/class/cs108/">

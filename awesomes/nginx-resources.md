@@ -519,10 +519,10 @@
    <a href="https://github.com/alexazhou/VeryNginx">
     VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards
    </a>
-   <sup>
-    &#9733 1503, pushed 2 days ago
-   </sup>
   </p>
+  <sup>
+   &#9733 1503, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <p>

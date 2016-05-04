@@ -262,73 +262,73 @@
   <a href="https://github.com/neopallium/llvm-lua">
    LLVM-Lua
   </a>
+  - Compiles Lua to LLVM.
   <sup>
    &#9733 1, pushed 109 days ago
   </sup>
-  - Compiles Lua to LLVM.
  </li>
  <li>
   <a href="https://github.com/kripken/lua.vm.js">
    lua.vm.js
   </a>
+  - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.
   <sup>
    &#9733 538, pushed 21 days ago
   </sup>
-  - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.
  </li>
  <li>
   <a href="https://github.com/gamesys/moonshine">
    Moonshine
   </a>
+  - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.
   <sup>
    &#9733 336, pushed 63 days ago
   </sup>
-  - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.
  </li>
  <li>
   <a href="https://github.com/xanathar/moonsharp">
    MoonSharp
   </a>
+  - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.
   <sup>
    &#9733 210, pushed 40 days ago
   </sup>
-  - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.
  </li>
  <li>
   <a href="https://github.com/xebecnan/UniLua">
    UniLua
   </a>
+  - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.
   <sup>
    &#9733 672, pushed 345 days ago
   </sup>
-  - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.
  </li>
  <li>
   <a href="https://github.com/scoder/lupa">
    lupa
   </a>
+  - Python bindings to LuaJIT2.
   <sup>
    &#9733 293, pushed 21 days ago
   </sup>
-  - Python bindings to LuaJIT2.
  </li>
  <li>
   <a href="https://github.com/aarzilli/golua">
    golua
   </a>
+  - Golang bindings to the Lua C API.
   <sup>
    &#9733 268, pushed 26 days ago
   </sup>
-  - Golang bindings to the Lua C API.
  </li>
  <li>
   <a href="https://github.com/yuin/gopher-lua">
    GopherLua
   </a>
+  - Lua 5.1 VM and compiler implemented in Go with Go APIs.
   <sup>
    &#9733 1170, pushed 8 days ago
   </sup>
-  - Lua 5.1 VM and compiler implemented in Go with Go APIs.
  </li>
 </ul>
 <p>
@@ -365,37 +365,37 @@
   <a href="https://github.com/geoffleyland/luatrace">
    luatrace
   </a>
+  - Toolset for tracing/analyzing/profiling script execution and generating detailed reports.
   <sup>
    &#9733 93, pushed 155 days ago
   </sup>
-  - Toolset for tracing/analyzing/profiling script execution and generating detailed reports.
  </li>
  <li>
   <a href="https://github.com/ignacio/StackTracePlus">
    StackTracePlus
   </a>
+  - Drop-in upgrade to Lua's stack traces which adds local context and improves readability.
   <sup>
    &#9733 108, pushed 77 days ago
   </sup>
-  - Drop-in upgrade to Lua's stack traces which adds local context and improves readability.
  </li>
  <li>
   <a href="https://github.com/pkulchenko/MobDebug">
    MobDebug
   </a>
+  - Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio.
   <sup>
    &#9733 235, pushed 51 days ago
   </sup>
-  - Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio.
  </li>
  <li>
   <a href="https://github.com/rxi/lovebird">
    lovebird
   </a>
+  - Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support.
   <sup>
    &#9733 89, pushed 233 days ago
   </sup>
-  - Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support.
  </li>
 </ul>
 <h3>
@@ -435,46 +435,46 @@
   <a href="https://github.com/rtsisyk/luafun">
    Lua Fun
   </a>
+  - High-performance functional programming library designed for LuaJIT.
   <sup>
    &#9733 827, pushed 42 days ago
   </sup>
-  - High-performance functional programming library designed for LuaJIT.
  </li>
  <li>
   <a href="https://github.com/Yonaba/Moses">
    Moses
   </a>
+  - Functional programming utility belt, inspired by Underscore.js.
   <sup>
    &#9733 247, pushed 87 days ago
   </sup>
-  - Functional programming utility belt, inspired by Underscore.js.
  </li>
  <li>
   <a href="https://github.com/stevedonovan/Penlight">
    Penlight
   </a>
+  - Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.
   <sup>
    &#9733 534, pushed 1 days ago
   </sup>
-  - Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.
  </li>
  <li>
   <a href="https://github.com/lua-stdlib/lua-stdlib">
    lua-stdlib
   </a>
+  - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.
   <sup>
    &#9733 127, pushed 88 days ago
   </sup>
-  - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.
  </li>
  <li>
   <a href="https://github.com/stevedonovan/Microlight">
    Microlight
   </a>
+  - A little library of useful Lua functions; the 'extra light' version of Penlight.
   <sup>
    &#9733 73, pushed 55 days ago
   </sup>
-  - A little library of useful Lua functions; the 'extra light' version of Penlight.
  </li>
 </ul>
 <h3>
@@ -546,10 +546,10 @@
     <a href="https://github.com/rxi/lurker">
      lurker
     </a>
+    - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.
     <sup>
      &#9733 66, pushed 426 days ago
     </sup>
-    - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.
    </li>
    <li>
     <a href="http://vrld.github.io/hump">
@@ -574,10 +574,10 @@
   <a href="https://github.com/Yonaba/Jumper">
    Jumper
   </a>
+  - Fast, lightweight, and easy-to-use pathfinding library for grid-based games.
   <sup>
    &#9733 312, pushed 35 days ago
   </sup>
-  - Fast, lightweight, and easy-to-use pathfinding library for grid-based games.
  </li>
  <li>
   <a href="https://github.com/rxi/lume/">
@@ -589,10 +589,10 @@
   <a href="https://github.com/Overtorment/NoobHub">
    NoobHub
   </a>
+  - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.
   <sup>
    &#9733 122, pushed 204 days ago
   </sup>
-  - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.
  </li>
  <li>
   Collision detection
@@ -601,9 +601,6 @@
     <a href="https://github.com/kikito/bump.lua">
      bump.lua
     </a>
-    <sup>
-     &#9733 210, pushed 79 days ago
-    </sup>
     - Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.
    </li>
    <li>
@@ -613,6 +610,9 @@
     - Detect collisions between arbitrarily positioned and rotated shapes of any type.
    </li>
   </ul>
+  <sup>
+   &#9733 210, pushed 79 days ago
+  </sup>
  </li>
  <li>
   Tweening
@@ -621,21 +621,21 @@
     <a href="https://github.com/rxi/flux">
      flux
     </a>
-    <sup>
-     &#9733 78, pushed 38 days ago
-    </sup>
     - A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together.
    </li>
    <li>
     <a href="https://github.com/kikito/tween.lua">
      tween.lua
     </a>
+    - Small library for tweening, with several easing functions.
     <sup>
      &#9733 195, pushed 41 days ago
     </sup>
-    - Small library for tweening, with several easing functions.
    </li>
   </ul>
+  <sup>
+   &#9733 78, pushed 38 days ago
+  </sup>
  </li>
  <li>
   Examples
@@ -644,47 +644,47 @@
     <a href="https://github.com/tylerneylon/termtris">
      termtris
     </a>
-    <sup>
-     &#9733 393, pushed 571 days ago
-    </sup>
     - A tetris clone, written in literate style with "an emphasis on learn-from-ability".
    </li>
    <li>
     <a href="https://github.com/tylerneylon/pacpac">
      PacPac
     </a>
+    - A Pac-man clone, made with LÖVE.
     <sup>
      &#9733 305, pushed 320 days ago
     </sup>
-    - A Pac-man clone, made with LÖVE.
    </li>
    <li>
     <a href="https://github.com/Stabyourself/mari0">
      Mari0
     </a>
-    <sup>
-     &#9733 126, pushed 7 days ago
-    </sup>
     - Fusion of Mario and Portal, made with LÖVE. See also its
     <a href="https://en.wikipedia.org/wiki/Mari0">
      wikipedia entry
     </a>
     .
+    <sup>
+     &#9733 126, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/hawkthorne/hawkthorne-journey">
      Journey to the Center of Hawkthorne
     </a>
-    <sup>
-     &#9733 715, pushed 40 days ago
-    </sup>
     - 2D platformer based on Community's
     <a href="https://en.wikipedia.org/wiki/Digital_Estate_Planning">
      Digital Estate Planning
     </a>
     episode, made with LÖVE.
+    <sup>
+     &#9733 715, pushed 40 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 393, pushed 571 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -695,10 +695,10 @@
   <a href="https://github.com/moteus/lua-log">
    log-lua
   </a>
+  - Asynchronous logging library with pluggable writers for filesystem, network, ZeroMQ, and more.
   <sup>
    &#9733 42, pushed 124 days ago
   </sup>
-  - Asynchronous logging library with pluggable writers for filesystem, network, ZeroMQ, and more.
  </li>
 </ul>
 <h3>
@@ -738,10 +738,10 @@
   <a href="https://github.com/bungle/awesome-resty">
    awesome-resty
   </a>
+  - A list like this one, but focused on OpenResty.
   <sup>
    &#9733 319, pushed 4 days ago
   </sup>
-  - A list like this one, but focused on OpenResty.
  </li>
  <li>
   Core platform
@@ -771,12 +771,12 @@
     <a href="https://github.com/pintsized/lua-resty-http">
      lua-resty-http
     </a>
-    <sup>
-     &#9733 261, pushed 4 days ago
-    </sup>
     - Lua HTTP client driver, built on the cosocket API.
    </li>
   </ul>
+  <sup>
+   &#9733 261, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Frameworks & tools
@@ -791,28 +791,28 @@
     <a href="https://github.com/pintsized/ledge">
      ledge
     </a>
+    - Lua module providing scriptable, RFC-compliant HTTP cache functionality.
     <sup>
      &#9733 199, pushed 41 days ago
     </sup>
-    - Lua module providing scriptable, RFC-compliant HTTP cache functionality.
    </li>
    <li>
     <a href="https://github.com/sailorproject/sailor">
      Sailor
     </a>
+    — An MVC web framework compatible with OpenResty, Apache and other webservers.
     <sup>
      &#9733 594, pushed 3 days ago
     </sup>
-    — An MVC web framework compatible with OpenResty, Apache and other webservers.
    </li>
    <li>
     <a href="https://github.com/mashape/kong">
      Kong
     </a>
+    - Microservice & API Management Layer
     <sup>
      &#9733 5107, pushed 2 days ago
     </sup>
-    - Microservice & API Management Layer
    </li>
   </ul>
  </li>
@@ -828,37 +828,37 @@
   <a href="https://github.com/kikito/ansicolors.lua">
    ansicolors
   </a>
+  - Simple function for printing to the console in color.
   <sup>
    &#9733 37, pushed 346 days ago
   </sup>
-  - Simple function for printing to the console in color.
  </li>
  <li>
   <a href="https://github.com/amireh/lua_cliargs">
    cliargs
   </a>
+  - A simple command-line argument parsing module.
   <sup>
    &#9733 39, pushed 112 days ago
   </sup>
-  - A simple command-line argument parsing module.
  </li>
  <li>
   <a href="https://github.com/hoelzro/lua-term">
    lua-term
   </a>
+  - Terminal operations and manipulations.
   <sup>
    &#9733 45, pushed 28 days ago
   </sup>
-  - Terminal operations and manipulations.
  </li>
  <li>
   <a href="https://github.com/mpeterv/argparse">
    argparse
   </a>
+  - A feature-rich command line parser inspired by argparse for Python.
   <sup>
    &#9733 56, pushed 103 days ago
   </sup>
-  - A feature-rich command line parser inspired by argparse for Python.
  </li>
 </ul>
 <h3>
@@ -872,21 +872,21 @@
     <a href="https://github.com/xopxe/Lumen">
      Lumen
     </a>
-    <sup>
-     &#9733 79, pushed 29 days ago
-    </sup>
     - Simple concurrent task scheduling.
    </li>
    <li>
     <a href="https://github.com/lefcha/concurrentlua">
      ConcurrentLua
     </a>
+    - Implements an Erlang-style message-passing concurrency model.
     <sup>
      &#9733 132, pushed 528 days ago
     </sup>
-    - Implements an Erlang-style message-passing concurrency model.
    </li>
   </ul>
+  <sup>
+   &#9733 79, pushed 29 days ago
+  </sup>
  </li>
  <li>
   Multithreading:
@@ -895,34 +895,34 @@
     <a href="https://github.com/Neopallium/lua-llthreads">
      llthreads
     </a>
-    <sup>
-     &#9733 100, pushed 102 days ago
-    </sup>
     - A simple wrapper for low-level pthreads & WIN32 threads.
    </li>
    <li>
     <a href="https://github.com/LuaLanes/lanes">
      lanes
     </a>
+    - Library implementing a message passing model with one OS thread per Lua thread.
     <sup>
      &#9733 171, pushed 13 days ago
     </sup>
-    - Library implementing a message passing model with one OS thread per Lua thread.
    </li>
    <li>
     <a href="https://github.com/askyrme/luaproc">
      luaproc
     </a>
-    <sup>
-     &#9733 60, pushed 32 days ago
-    </sup>
     - Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also
     <a href="http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf">
      the paper
     </a>
     where it originated.
+    <sup>
+     &#9733 60, pushed 32 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 100, pushed 102 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -954,19 +954,19 @@
   <a href="https://github.com/leafo/etlua">
    etlua
   </a>
+  - Embedded Lua templates, ERB-style.
   <sup>
    &#9733 74, pushed 804 days ago
   </sup>
-  - Embedded Lua templates, ERB-style.
  </li>
  <li>
   <a href="https://github.com/bungle/lua-resty-template">
    lua-resty-template
   </a>
+  - Lua-oriented template engine for OpenResty, somewhat Jinja-like.
   <sup>
    &#9733 261, pushed 7 days ago
   </sup>
-  - Lua-oriented template engine for OpenResty, somewhat Jinja-like.
  </li>
 </ul>
 <h3>
@@ -997,10 +997,10 @@
   <a href="https://github.com/bjornbytes/docroc">
    docroc
   </a>
+  - Parse comments into a Lua table to generate documentation.
   <sup>
    &#9733 3, pushed 130 days ago
   </sup>
-  - Parse comments into a Lua table to generate documentation.
  </li>
 </ul>
 <h3>
@@ -1011,19 +1011,19 @@
   <a href="https://github.com/Yonaba/30log">
    30log
   </a>
+  - Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.
   <sup>
    &#9733 174, pushed 58 days ago
   </sup>
-  - Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.
  </li>
  <li>
   <a href="https://github.com/kikito/middleclass">
    middleclass
   </a>
+  - Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.
   <sup>
    &#9733 659, pushed 44 days ago
   </sup>
-  - Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.
  </li>
 </ul>
 <h3>
@@ -1040,10 +1040,10 @@
   <a href="https://github.com/luaposix/luaposix">
    luaposix
   </a>
+  - Bindings for POSIX APIs, including curses.
   <sup>
    &#9733 192, pushed 24 days ago
   </sup>
-  - Bindings for POSIX APIs, including curses.
  </li>
 </ul>
 <h3>
@@ -1054,19 +1054,19 @@
   <a href="https://github.com/Tieske/date">
    LuaDate
   </a>
+  - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.
   <sup>
    &#9733 66, pushed 173 days ago
   </sup>
-  - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.
  </li>
  <li>
   <a href="https://github.com/kikito/cron.lua">
    cron.lua
   </a>
+  - Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval.
   <sup>
    &#9733 70, pushed 932 days ago
   </sup>
-  - Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval.
  </li>
 </ul>
 <h3>
@@ -1077,10 +1077,10 @@
   <a href="https://github.com/leafo/magick">
    magick
   </a>
+  - Lua bindings to ImageMagick for LuaJIT using FFI.
   <sup>
    &#9733 163, pushed 63 days ago
   </sup>
-  - Lua bindings to ImageMagick for LuaJIT using FFI.
  </li>
 </ul>
 <h3>
@@ -1151,10 +1151,10 @@
     <a href="https://github.com/harningt/luajson">
      luajson
     </a>
+    - JSON encoder/decoder implemented in Lua on top of LPeg.
     <sup>
      &#9733 138, pushed 15 days ago
     </sup>
-    - JSON encoder/decoder implemented in Lua on top of LPeg.
    </li>
    <li>
     <a href="http://dkolf.de/src/dkjson-lua.fsl/home">
@@ -1177,10 +1177,10 @@
     <a href="https://github.com/Phrogz/SLAXML">
      SLAXML
     </a>
+    - Pure Lua SAX-like streaming XML parser.
     <sup>
      &#9733 71, pushed 14 days ago
     </sup>
-    - Pure Lua SAX-like streaming XML parser.
    </li>
   </ul>
  </li>
@@ -1188,10 +1188,10 @@
   <a href="https://github.com/gvvaughan/lyaml">
    lyaml
   </a>
+  - YAML encoding/decoding via binding to LibYAML.
   <sup>
    &#9733 33, pushed 119 days ago
   </sup>
-  - YAML encoding/decoding via binding to LibYAML.
  </li>
  <li>
   <a href="http://www.inf.puc-rio.br/~roberto/lpeg/">
@@ -1203,10 +1203,10 @@
   <a href="https://github.com/jgm/lunamark">
    lunamark
   </a>
+  - Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.
   <sup>
    &#9733 101, pushed 16 days ago
   </sup>
-  - Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.
  </li>
 </ul>
 <h3>
@@ -1217,37 +1217,37 @@
   <a href="https://github.com/kikito/i18n.lua">
    i18n.lua
   </a>
+  - Internationalization library with locales, formatting, and pluralization.
   <sup>
    &#9733 47, pushed 30 days ago
   </sup>
-  - Internationalization library with locales, formatting, and pluralization.
  </li>
  <li>
   <a href="https://github.com/kikito/inspect.lua">
    inspect.lua
   </a>
+  - Human-readable representation of Lua tables.
   <sup>
    &#9733 290, pushed 23 days ago
   </sup>
-  - Human-readable representation of Lua tables.
  </li>
  <li>
   <a href="https://github.com/pkulchenko/serpent">
    serpent
   </a>
+  - Serializer and pretty printer.
   <sup>
    &#9733 120, pushed 98 days ago
   </sup>
-  - Serializer and pretty printer.
  </li>
  <li>
   <a href="https://github.com/gvx/Ser">
    Ser
   </a>
+  - Dead simple serializer with good performance.
   <sup>
    &#9733 44, pushed 78 days ago
   </sup>
-  - Dead simple serializer with good performance.
  </li>
 </ul>
 <h3>
@@ -1258,19 +1258,19 @@
   <a href="https://github.com/brimworks/lua-zlib">
    lua-zlib
   </a>
+  - Simple streaming interface to zlib for gzip/gunzip.
   <sup>
    &#9733 83, pushed 45 days ago
   </sup>
-  - Simple streaming interface to zlib for gzip/gunzip.
  </li>
  <li>
   <a href="https://github.com/brimworks/lua-zip">
    lua-zip
   </a>
+  - Lua binding to libzip. Reads and writes zip files.
   <sup>
    &#9733 25, pushed 199 days ago
   </sup>
-  - Lua binding to libzip. Reads and writes zip files.
  </li>
 </ul>
 <h3>
@@ -1281,19 +1281,19 @@
   <a href="https://github.com/mkottman/luacrypto">
    LuaCrypto
   </a>
+  - Lua bindings to OpenSSL.
   <sup>
    &#9733 48, pushed 183 days ago
   </sup>
-  - Lua bindings to OpenSSL.
  </li>
  <li>
   <a href="https://github.com/somesocks/lua-lockbox">
    lua-lockbox
   </a>
+  - A collection of cryptographic primitives written in pure Lua.
   <sup>
    &#9733 152, pushed 57 days ago
   </sup>
-  - A collection of cryptographic primitives written in pure Lua.
  </li>
 </ul>
 <h3>
@@ -1304,19 +1304,19 @@
   <a href="https://github.com/diegonehab/luasocket">
    LuaSocket
   </a>
+  - Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.
   <sup>
    &#9733 397, pushed 21 days ago
   </sup>
-  - Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.
  </li>
  <li>
   <a href="https://github.com/lipp/lua-websockets">
    lua-websockets
   </a>
+  - WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.
   <sup>
    &#9733 179, pushed 4 days ago
   </sup>
-  - WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.
  </li>
 </ul>
 <h3>
@@ -1333,46 +1333,46 @@
   <a href="https://github.com/nrk/redis-lua">
    redis-lua
   </a>
+  - Pure Lua client library for Redis.
   <sup>
    &#9733 374, pushed 126 days ago
   </sup>
-  - Pure Lua client library for Redis.
  </li>
  <li>
   <a href="https://github.com/leafo/pgmoon">
    pgmoon
   </a>
+  - Lua PostgreSQL driver for OpenResty and others.
   <sup>
    &#9733 74, pushed 8 days ago
   </sup>
-  - Lua PostgreSQL driver for OpenResty and others.
  </li>
  <li>
   <a href="https://github.com/openresty/lua-resty-mysql">
    lua-resty-mysql
   </a>
+  - Lua MySQL driver for OpenResty.
   <sup>
    &#9733 218, pushed 162 days ago
   </sup>
-  - Lua MySQL driver for OpenResty.
  </li>
  <li>
   <a href="https://github.com/openresty/lua-resty-redis">
    lua-resty-redis
   </a>
+  - Lua Redis client driver for OpenResty.
   <sup>
    &#9733 563, pushed 42 days ago
   </sup>
-  - Lua Redis client driver for OpenResty.
  </li>
  <li>
   <a href="https://github.com/jbochi/lua-resty-cassandra">
    lua-resty-cassandra
   </a>
+  - Lua Cassandra client driver for OpenResty and others.
   <sup>
    &#9733 50, pushed 329 days ago
   </sup>
-  - Lua Cassandra client driver for OpenResty and others.
  </li>
 </ul>
 <h3>
@@ -1389,28 +1389,28 @@
   <a href="https://github.com/norman/telescope">
    telescope
   </a>
+  - Flexible and highly customizable testing library.
   <sup>
    &#9733 110, pushed 6 days ago
   </sup>
-  - Flexible and highly customizable testing library.
  </li>
  <li>
   <a href="https://github.com/Olivine-Labs/luassert">
    luassert
   </a>
+  - Assertion library extending Lua's built-in assertions.
   <sup>
    &#9733 35, pushed 4 days ago
   </sup>
-  - Assertion library extending Lua's built-in assertions.
  </li>
  <li>
   <a href="https://github.com/bjornbytes/lust">
    lust
   </a>
+  - Minimal test framework.
   <sup>
    &#9733 5, pushed 107 days ago
   </sup>
-  - Minimal test framework.
  </li>
 </ul>
 <h3>
@@ -1427,10 +1427,10 @@
   <a href="https://github.com/jmckaskill/luaffi">
    luaffi
   </a>
+  - Standalone FFI library, compatible with the LuaJIT FFI interface.
   <sup>
    &#9733 233, pushed 907 days ago
   </sup>
-  - Standalone FFI library, compatible with the LuaJIT FFI interface.
  </li>
 </ul>
 <h3>
@@ -1441,10 +1441,10 @@
   <a href="https://github.com/sztupy/luadec51">
    luadec51
   </a>
+  - Lua Decompiler for Lua version 5.1.
   <sup>
    &#9733 137, pushed 246 days ago
   </sup>
-  - Lua Decompiler for Lua version 5.1.
  </li>
  <li>
   <a href="http://keplerproject.github.io/luacov/">
@@ -1456,46 +1456,46 @@
   <a href="https://github.com/mpeterv/luacheck">
    luacheck
   </a>
+  - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
   <sup>
    &#9733 265, pushed 15 days ago
   </sup>
-  - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
  </li>
  <li>
   <a href="https://github.com/fab13n/metalua">
    Metalua
   </a>
+  - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
   <sup>
    &#9733 211, pushed 688 days ago
   </sup>
-  - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
  </li>
  <li>
   <a href="https://github.com/davidm/lua-inspect">
    LuaInspect
   </a>
-  <sup>
-   &#9733 125, pushed 11 days ago
-  </sup>
   - Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.
+  <sup>
+   &#9733 125, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stravant/LuaMinify">
    LuaMinify
   </a>
+  - Minifier which also brings its own static analysis tools, lexer, and parser.
   <sup>
    &#9733 95, pushed 309 days ago
   </sup>
-  - Minifier which also brings its own static analysis tools, lexer, and parser.
  </li>
  <li>
   <a href="https://github.com/andremm/typedlua">
    Typed Lua
   </a>
+  - A typed superset of Lua that compiles to plain Lua.
   <sup>
    &#9733 247, pushed 4 days ago
   </sup>
-  - A typed superset of Lua that compiles to plain Lua.
  </li>
 </ul>
 <h3>
@@ -1506,32 +1506,32 @@
   <a href="https://github.com/TannerRogalsky/punchdrunk">
    punchdrunk.js
   </a>
+  - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.
   <sup>
    &#9733 75, pushed 86 days ago
   </sup>
-  - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.
  </li>
  <li>
   <a href="https://github.com/luvit/luvit">
    luvit
   </a>
+  - Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.
   <sup>
    &#9733 2242, pushed 3 days ago
   </sup>
-  - Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.
  </li>
  <li>
   <a href="https://github.com/bjornbytes/graphql-lua">
    graphql-lua
   </a>
-  <sup>
-   &#9733 10, pushed 3 days ago
-  </sup>
   - Lua implementation of
   <a href="http://graphql.org/">
    GraphQL
   </a>
   .
+  <sup>
+   &#9733 10, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1558,10 +1558,10 @@
   <a href="https://github.com/skx/kpie">
    kpie
   </a>
+  - A scripting utility to juggle windows.
   <sup>
    &#9733 19, pushed 164 days ago
   </sup>
-  - A scripting utility to juggle windows.
  </li>
  <li>
   <a href="https://lumail.org/">
@@ -1585,10 +1585,10 @@
   <a href="https://github.com/koreader/koreader">
    KoReader
   </a>
+  - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
   <sup>
    &#9733 1824, pushed 2 days ago
   </sup>
-  - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
  </li>
 </ul>
 <h3>
@@ -1658,10 +1658,10 @@
   <a href="https://github.com/Olivine-Labs/lua-style-guide">
    Olivine style guide
   </a>
+  - A more opinionated and specific, and therefore more rigorous, guide.
   <sup>
    &#9733 144, pushed 113 days ago
   </sup>
-  - A more opinionated and specific, and therefore more rigorous, guide.
  </li>
 </ul>
 <h3>
@@ -1696,10 +1696,10 @@
   <a href="https://github.com/kikito/lua_missions">
    Lua Missions
   </a>
+  - A series of 'Missions' to work through which are designed to teach aspects of Lua along the way.
   <sup>
    &#9733 196, pushed 342 days ago
   </sup>
-  - A series of 'Missions' to work through which are designed to teach aspects of Lua along the way.
  </li>
  <li>
   <a href="http://leafo.net/posts/creating_an_image_server.html">
@@ -1791,10 +1791,10 @@
   <a href="https://github.com/forhappy/awesome-lua">
    awesome-lua
   </a>
+  by @forhappy - Another list similar to this one. It goes into more depth in a few categories, but has less breadth.
   <sup>
    &#9733 122, pushed 624 days ago
   </sup>
-  by @forhappy - Another list similar to this one. It goes into more depth in a few categories, but has less breadth.
  </li>
  <li>
   <a href="https://sites.google.com/site/marbux/home/where-lua-is-used">

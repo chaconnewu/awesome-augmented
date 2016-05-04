@@ -338,11 +338,11 @@
    <a href="https://github.com/brunitto/cakephp-new-relic">
     Brunitto/NewRelic plugin
    </a>
-   <sup>
-    &#9733 3, pushed 75 days ago
-   </sup>
    - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
   </p>
+  <sup>
+   &#9733 3, pushed 75 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -358,28 +358,28 @@
   <a href="https://github.com/markstory/asset_compress">
    AssetCompress plugin
   </a>
+  - A complete asset manager for CakePHP.
   <sup>
    &#9733 350, pushed 73 days ago
   </sup>
-  - A complete asset manager for CakePHP.
  </li>
  <li>
   <a href="https://github.com/elboletaire/less-cake-plugin">
    Less plugin
   </a>
+  - Less parser plugin for CakePHP.
   <sup>
    &#9733 13, pushed 5 days ago
   </sup>
-  - Less parser plugin for CakePHP.
  </li>
  <li>
   <a href="https://github.com/WyriHaximus/MinifyHtml">
    MinifyHtml plugin
   </a>
+  - Compress HTML output.
   <sup>
    &#9733 7, pushed 140 days ago
   </sup>
-  - Compress HTML output.
  </li>
 </ul>
 <h2>
@@ -395,28 +395,28 @@
   <a href="https://github.com/lorenzo/audit-stash">
    AuditStash plugin
   </a>
+  - Flexible and rock solid audit log tracking.
   <sup>
    &#9733 29, pushed 19 days ago
   </sup>
-  - Flexible and rock solid audit log tracking.
  </li>
  <li>
   <a href="https://github.com/UseMuffin/Footprint">
    Muffin/Footprint plugin
   </a>
+  - Plugin to allow passing currently logged in user to model layer.
   <sup>
    &#9733 37, pushed 25 days ago
   </sup>
-  - Plugin to allow passing currently logged in user to model layer.
  </li>
  <li>
   <a href="https://github.com/josegonzalez/cakephp-version">
    Version plugin
   </a>
+  - A plugin that facilitates versioned database entities.
   <sup>
    &#9733 26, pushed 14 days ago
   </sup>
-  - A plugin that facilitates versioned database entities.
  </li>
 </ul>
 <h2>
@@ -432,58 +432,55 @@
   <a href="https://github.com/ADmad/CakePHP-HybridAuth">
    ADmad/HybridAuth plugin
   </a>
-  <sup>
-   &#9733 50, pushed 69 days ago
-  </sup>
   - A plugin which allows using the
   <a href="https://github.com/hybridauth/hybridauth">
    HybridAuth
   </a>
   social sign on library with CakePHP.
+  <sup>
+   &#9733 50, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ADmad/cakephp-jwt-auth">
    ADmad/JwtAuth plugin
   </a>
+  - A plugin for authenticating using JSON Web Tokens.
   <sup>
    &#9733 58, pushed 7 days ago
   </sup>
-  - A plugin for authenticating using JSON Web Tokens.
  </li>
  <li>
   <a href="https://github.com/FriendsOfCake/Authenticate">
    FriendsOfCake/Authenticate plugin
   </a>
+  - Authentication classes for AuthComponent.
   <sup>
    &#9733 82, pushed 133 days ago
   </sup>
-  - Authentication classes for AuthComponent.
  </li>
  <li>
   <a href="https://github.com/Xety/Cake3-CookieAuth">
    CookieAuth plugin
   </a>
+  - A simple Cake 3 plugin to automatically authenticate users with Cookies.
   <sup>
    &#9733 10, pushed 47 days ago
   </sup>
-  - A simple Cake 3 plugin to automatically authenticate users with Cookies.
  </li>
  <li>
   <a href="https://github.com/btaens/cakephp-hier-auth">
    HierAuth plugin
   </a>
+  - A CakePHP plugin for hierarchical, role based, simple authorization.
   <sup>
    &#9733 2, pushed 116 days ago
   </sup>
-  - A CakePHP plugin for hierarchical, role based, simple authorization.
  </li>
  <li>
   <a href="https://github.com/usemuffin/oauth2">
    Muffin/OAuth2 plugin
   </a>
-  <sup>
-   &#9733 4, pushed 67 days ago
-  </sup>
   - OAuth2 authentication using the
   <a href="https://github.com/thephpleague/oauth2-client">
    <code>
@@ -491,68 +488,71 @@
    </code>
   </a>
   .
+  <sup>
+   &#9733 4, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pronique/multitenant">
    MultiTenant plugin
   </a>
+  - Easily build SaaS enabled web applications.
   <sup>
    &#9733 19, pushed 6 days ago
   </sup>
-  - Easily build SaaS enabled web applications.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-tinyauth">
    TinyAuth plugin
   </a>
+  - Role based (single/multi) authentication as very light-weight approach.
   <sup>
    &#9733 31, pushed 7 days ago
   </sup>
-  - Role based (single/multi) authentication as very light-weight approach.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-tools">
    Tools:Passwordable
   </a>
-  <sup>
-   &#9733 251, pushed 8 days ago
-  </sup>
   - Containing
   <a href="https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md">
    Passwordable behavior
   </a>
   for a DRY approach on password hashing.
+  <sup>
+   &#9733 251, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andrej-griniuk/cakephp-two-factor-auth">
    TwoFactorAuth plugin
   </a>
-  <sup>
-   &#9733 8, pushed 6 days ago
-  </sup>
   - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on
   <a href="https://github.com/RobThree/TwoFactorAuth">
    RobThree/TwoFactorAuth
   </a>
   library.
+  <sup>
+   &#9733 8, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AlessandroMinoccheri/UserPermissions">
    UserPermissions plugin
   </a>
+  -  Allow groups of users or single users to view a specific page.
   <sup>
    &#9733 6, pushed 292 days ago
   </sup>
-  -  Allow groups of users or single users to view a specific page.
  </li>
  <li>
   <a href="https://github.com/CakeDC/users">
    Users plugin
   </a>
+  - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more.
   <sup>
    &#9733 328, pushed 4 days ago
   </sup>
-  - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more.
  </li>
 </ul>
 <h2>
@@ -568,10 +568,10 @@
   <a href="https://github.com/dereuromark/cakephp-cache">
    Cache plugin
   </a>
+  - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
   <sup>
    &#9733 9, pushed 14 days ago
   </sup>
-  - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
  </li>
 </ul>
 <h2>
@@ -595,41 +595,41 @@
   <a href="https://github.com/chrisShick/AirbrakeCake">
    Airbrake plugin
   </a>
+  A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
   <sup>
    &#9733 3, pushed 63 days ago
   </sup>
-  A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
  </li>
  <li>
   <a href="https://github.com/cakephp/debug_kit">
    DebugKit plugin
   </a>
+  - The de-facto standard for debugging.
   <sup>
    &#9733 854, pushed 18 days ago
   </sup>
-  - The de-facto standard for debugging.
  </li>
  <li>
   <a href="https://github.com/gourmet/whoops">
    Gourmet/Whoops plugin
   </a>
-  <sup>
-   &#9733 16, pushed 403 days ago
-  </sup>
   - PHP error for cool kids with
   <a href="https://github.com/filp/whoops">
    filp/whoops
   </a>
   .
+  <sup>
+   &#9733 16, pushed 403 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-setup">
    Setup plugin
   </a>
+  - A lightweight setup plugin containing debugging and maintenance tools.
   <sup>
    &#9733 21, pushed 9 days ago
   </sup>
-  - A lightweight setup plugin containing debugging and maintenance tools.
  </li>
 </ul>
 <h2>
@@ -645,19 +645,19 @@
   <a href="https://github.com/rochamarcelo/cake-pimple-di">
    PimpleDi plugin
   </a>
+  Allows dependency injection based on Pimple library.
   <sup>
    &#9733 4, pushed 69 days ago
   </sup>
-  Allows dependency injection based on Pimple library.
  </li>
  <li>
   <a href="https://github.com/lorenzo/piping-bag">
    PipingBag plugin
   </a>
+  - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
   <sup>
    &#9733 24, pushed 106 days ago
   </sup>
-  - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
  </li>
 </ul>
 <h2>
@@ -681,28 +681,28 @@
   <a href="https://github.com/lorenzo/cakephp-email-queue">
    EmailQueue plugin
   </a>
+  - Email queue plugin with a preview and sender shell.
   <sup>
    &#9733 22, pushed 6 days ago
   </sup>
-  - Email queue plugin with a preview and sender shell.
  </li>
  <li>
   <a href="https://github.com/gourmet/email">
    Gourmet/Email plugin
   </a>
-  <sup>
-   &#9733 11, pushed 294 days ago
-  </sup>
   - Email helper, layout and more.
+  <sup>
+   &#9733 11, pushed 295 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/syntaxera/cakephp-sparkpost-plugin">
    SparkPost plugin
   </a>
+  - Email transport plugin for sending email via the SparkPost API.
   <sup>
    &#9733 8, pushed 7 days ago
   </sup>
-  - Email transport plugin for sending email via the SparkPost API.
  </li>
 </ul>
 <h2>
@@ -718,28 +718,28 @@
   <a href="https://github.com/josegonzalez/cakephp-environments">
    Enviroments plugin
   </a>
+  - Plugin to handle enviroments.
   <sup>
    &#9733 44, pushed 102 days ago
   </sup>
-  - Plugin to handle enviroments.
  </li>
  <li>
   <a href="https://github.com/gourmet/aroma">
    Gourmet/Aroma plugin
   </a>
+  - Database based configuration.
   <sup>
    &#9733 11, pushed 84 days ago
   </sup>
-  - Database based configuration.
  </li>
  <li>
   <a href="https://github.com/cakemanager/cakephp-settings">
    Settings plugin
   </a>
+  - A plugin to manage your settings via your database.
   <sup>
    &#9733 15, pushed 88 days ago
   </sup>
-  - A plugin to manage your settings via your database.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-setup">
@@ -761,59 +761,59 @@
   <a href="https://github.com/burzum/cakephp-file-storage">
    FileStorage plugin
   </a>
+  - Abstract file storage and upload plugin.
   <sup>
    &#9733 145, pushed 35 days ago
   </sup>
-  - Abstract file storage and upload plugin.
  </li>
  <li>
   <a href="https://github.com/WyriHaximus/FlyPie">
    FlyPie plugin
   </a>
+  - Abstract filesystem access using Flysystem.
   <sup>
    &#9733 22, pushed 259 days ago
   </sup>
-  - Abstract filesystem access using Flysystem.
  </li>
  <li>
   <a href="https://github.com/josbeir/image">
    Image plugin
   </a>
+  - Image behavior that works much like Cake's built in TranslateBehavior.
   <sup>
    &#9733 13, pushed 83 days ago
   </sup>
-  - Image behavior that works much like Cake's built in TranslateBehavior.
  </li>
  <li>
   <a href="https://github.com/josegonzalez/cakephp-upload">
    Josegonzalez/Upload plugin
   </a>
-  <sup>
-   &#9733 458, pushed 6 days ago
-  </sup>
   - A customisable plugin that uses
   <a href="http://flysystem.thephpleague.com/">
    Flysystem
   </a>
   to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+  <sup>
+   &#9733 458, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidyell/CakePHP3-Proffer">
    Proffer plugin
   </a>
+  - A customisable upload plugin with thumbnail generation.
   <sup>
    &#9733 71, pushed 22 days ago
   </sup>
-  - A customisable upload plugin with thumbnail generation.
  </li>
  <li>
   <a href="https://github.com/Xety/Cake3-Upload">
    Upload plugin
   </a>
+  - A little plugin to upload file.
   <sup>
    &#9733 23, pushed 63 days ago
   </sup>
-  - A little plugin to upload file.
  </li>
 </ul>
 <h2>
@@ -829,37 +829,37 @@
   <a href="https://github.com/gourmet/filters">
    Gourmet/Filters plugin
   </a>
+  - Extra dispatcher filters (maintenance, robots, ip, etc).
   <sup>
    &#9733 8, pushed 64 days ago
   </sup>
-  - Extra dispatcher filters (maintenance, robots, ip, etc).
  </li>
  <li>
   <a href="https://github.com/gourmet/validation">
    Gourmet/Validation plugin
   </a>
+  - Extra validation providers (Respect, IsoCodes, etc.) and rules.
   <sup>
    &#9733 5, pushed 13 days ago
   </sup>
-  - Extra validation providers (Respect, IsoCodes, etc.) and rules.
  </li>
  <li>
   <a href="https://github.com/burzum/cakephp-html-purifier">
    HtmlPurifier plugin
   </a>
+  - Purifier Plugin that features a trait, behavior and helper to allow you to get sanitization and filtering where you need it. You can configure multiple sets of filter rules as well.
   <sup>
    &#9733 32, pushed 69 days ago
   </sup>
-  - Purifier Plugin that features a trait, behavior and helper to allow you to get sanitization and filtering where you need it. You can configure multiple sets of filter rules as well.
  </li>
  <li>
   <a href="https://github.com/chrisShick/CakePHP3-HtmlPurifier">
    HtmlPurifier plugin
   </a>
+  - Purifier Plugin Behavior that cleanses data before it is marshaled into the entity and/or before saving.
   <sup>
    &#9733 6, pushed 77 days ago
   </sup>
-  - Purifier Plugin Behavior that cleanses data before it is marshaled into the entity and/or before saving.
  </li>
 </ul>
 <h2>
@@ -875,9 +875,6 @@
   <a href="https://github.com/dereuromark/cakephp-geo">
    Geo plugin
   </a>
-  <sup>
-   &#9733 21, pushed 5 days ago
-  </sup>
   - Containing
   <a href="http://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/">
    Geocoder behavior
@@ -887,6 +884,9 @@
    GoogleMapsV3 helper
   </a>
   .
+  <sup>
+   &#9733 21, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -902,46 +902,46 @@
   <a href="https://github.com/ADmad/cakephp-i18n">
    ADmad/I18n plugin
   </a>
+  - A plugin with I18n related tools.
   <sup>
    &#9733 18, pushed 121 days ago
   </sup>
-  - A plugin with I18n related tools.
  </li>
  <li>
   <a href="https://github.com/cakephp/localized">
    Localized plugin
   </a>
+  - Localized validation and ready-to-use translation PO files.
   <sup>
    &#9733 183, pushed 6 days ago
   </sup>
-  - Localized validation and ready-to-use translation PO files.
  </li>
  <li>
   <a href="https://github.com/AD7six/cakephp-shadow-translate">
    ShadowTranslate plugin
   </a>
+  - A plugin with shadow table based replacement for core's Translate behavior.
   <sup>
    &#9733 32, pushed 27 days ago
   </sup>
-  - A plugin with shadow table based replacement for core's Translate behavior.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-transifex">
    Transifex plugin
   </a>
+  - Managing i18n PO files and translations via Transifex API.
   <sup>
    &#9733 13, pushed 350 days ago
   </sup>
-  - Managing i18n PO files and translations via Transifex API.
  </li>
  <li>
   <a href="https://github.com/ava007/wnk_translation">
    Translation plugin
   </a>
+  - Extract pot files, translate string (manually, google, community), export translations to pot files.
   <sup>
    &#9733 2, pushed 30 days ago
   </sup>
-  - Extract pot files, translate string (manually, google, community), export translations to pot files.
  </li>
 </ul>
 <h2>
@@ -957,27 +957,27 @@
   <a href="https://github.com/ADmad/cakephp-glide">
    ADmad/Glide plugin
   </a>
-  <sup>
-   &#9733 10, pushed 10 days ago
-  </sup>
   - A plugin for using
   <a href="http://glide.thephpleague.com/">
    Glide
   </a>
   image manipulation library.
+  <sup>
+   &#9733 10, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/burzum/cakephp-imagine-plugin">
    Imagine plugin
   </a>
-  <sup>
-   &#9733 110, pushed 96 days ago
-  </sup>
   - An image manipulation plugin and wrapper around
   <a href="https://github.com/avalanche123/Imagine">
    Imagine
   </a>
   .
+  <sup>
+   &#9733 110, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -993,46 +993,46 @@
   <a href="https://github.com/auraphp/Aura.Intl">
    Aura.Intl
   </a>
+  - A powerful I18n library - used in CakePHP3.x core.
   <sup>
    &#9733 47, pushed 60 days ago
   </sup>
-  - A powerful I18n library - used in CakePHP3.x core.
  </li>
  <li>
   <a href="https://github.com/jadb/capcake">
    Capcake
   </a>
+  - Deploy CakePHP applications using Capistrano.
   <sup>
    &#9733 116, pushed 68 days ago
   </sup>
-  - Deploy CakePHP applications using Capistrano.
  </li>
  <li>
   <a href="https://github.com/briannesbitt/Carbon">
    Carbon
   </a>
+  - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
   <sup>
    &#9733 4251, pushed 1 days ago
   </sup>
-  - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
  </li>
  <li>
   <a href="https://github.com/cakephp/chronos">
    Chronos
   </a>
+  - A simple standalone DateTime API extension (successor of Carbon).
   <sup>
    &#9733 132, pushed 13 days ago
   </sup>
-  - A simple standalone DateTime API extension (successor of Carbon).
  </li>
  <li>
   <a href="https://github.com/composer/installers">
    Composer Installers
   </a>
+  - A multi framework Composer library installer.
   <sup>
    &#9733 541, pushed 9 days ago
   </sup>
-  - A multi framework Composer library installer.
  </li>
  <li>
   <a href="https://getcomposer.org/">
@@ -1048,10 +1048,10 @@
   <a href="https://github.com/alexandresalome/graphviz">
    Graphviz
   </a>
+  - A Graphviz library.
   <sup>
    &#9733 30, pushed 200 days ago
   </sup>
-  - A Graphviz library.
  </li>
  <li>
   <a href="http://jenkins-ci.org/">
@@ -1063,10 +1063,10 @@
   <a href="https://github.com/rocketeers/rocketeer">
    Rocketeer
   </a>
+  - PHP task runner and deployment package.
   <sup>
    &#9733 2005, pushed 10 days ago
   </sup>
-  - PHP task runner and deployment package.
  </li>
  <li>
   <a href="https://travis-ci.org/">
@@ -1078,10 +1078,10 @@
   <a href="https://github.com/makallio85/yaml-route">
    YamlRoute
   </a>
+  - Configure routes with simple YAML files.
   <sup>
    &#9733 4, pushed 116 days ago
   </sup>
-  - Configure routes with simple YAML files.
  </li>
 </ul>
 <h2>
@@ -1097,23 +1097,23 @@
   <a href="https://github.com/gourmet/common-mark">
    Gourmet/CommonMark plugin
   </a>
-  <sup>
-   &#9733 4, pushed 301 days ago
-  </sup>
   - Adds
   <a href="http://commonmark.org/">
    CommonMark
   </a>
   Markdown parsing.
+  <sup>
+   &#9733 4, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-markup">
    Markup plugin
   </a>
+  - Allows to use PHP or JS based syntax highlighting.
   <sup>
    &#9733 1, pushed 79 days ago
   </sup>
-  - Allows to use PHP or JS based syntax highlighting.
  </li>
 </ul>
 <h2>
@@ -1129,28 +1129,28 @@
   <a href="https://github.com/dereuromark/executionorder">
    Execution order
   </a>
+  - A 3.x test app to display the execution order of files, methods and callbacks.
   <sup>
    &#9733 9, pushed 317 days ago
   </sup>
-  - A 3.x test app to display the execution order of files, methods and callbacks.
  </li>
  <li>
   <a href="https://github.com/cakephp/migrations">
    Migrations plugin
   </a>
+  - (DB) Migration plugin.
   <sup>
    &#9733 70, pushed 2 days ago
   </sup>
-  - (DB) Migration plugin.
  </li>
  <li>
   <a href="https://github.com/cakephp/upgrade">
    Upgrade app
   </a>
+  - Official upgrade app for 2.x=>3.x.
   <sup>
    &#9733 60, pushed 64 days ago
   </sup>
-  - Official upgrade app for 2.x=>3.x.
  </li>
  <li>
   <a href="http://book.cakephp.org/3.0/en/appendices.html">
@@ -1172,46 +1172,46 @@
   <a href="https://github.com/dereuromark/cakephp-ajax">
    Ajax plugin
   </a>
+  - A plugin to ease handling AJAX requests.
   <sup>
    &#9733 13, pushed 73 days ago
   </sup>
-  - A plugin to ease handling AJAX requests.
  </li>
  <li>
   <a href="https://github.com/cakemanager/cakephp-cakeadmin">
    CakeAdmin plugin
   </a>
+  - A non-stable user management plugin with a built-in admin area.
   <sup>
    &#9733 18, pushed 77 days ago
   </sup>
-  - A non-stable user management plugin with a built-in admin area.
  </li>
  <li>
   <a href="https://github.com/AlessandroMinoccheri/cakephp-currency-converter">
    CurrencyConverter plugin
   </a>
+  - A plugin to convert currency into another one.
   <sup>
    &#9733 4, pushed 60 days ago
   </sup>
-  - A plugin to convert currency into another one.
  </li>
  <li>
   <a href="https://github.com/gourmet/dashboard">
    Dashboard plugin
   </a>
-  <sup>
-   &#9733 10, pushed 454 days ago
-  </sup>
   - Build beautiful dashboards for your cakes.
+  <sup>
+   &#9733 10, pushed 455 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-hashid">
    Hashid plugin
   </a>
+  - Allows to use hashids to not expose the database ids to the user.
   <sup>
    &#9733 13, pushed 5 days ago
   </sup>
-  - Allows to use hashids to not expose the database ids to the user.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md">
@@ -1223,55 +1223,55 @@
   <a href="https://github.com/dereuromark/cakephp-shim">
    Shim plugin
   </a>
+  - A plugin containing useful shims and improvements as basis for your application.
   <sup>
    &#9733 23, pushed 22 days ago
   </sup>
-  - A plugin containing useful shims and improvements as basis for your application.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-tools">
    Tools plugin
   </a>
+  - Containing lots of useful libs, helpers, behaviors, components, shells and more.
   <sup>
    &#9733 251, pushed 8 days ago
   </sup>
-  - Containing lots of useful libs, helpers, behaviors, components, shells and more.
  </li>
  <li>
   <a href="https://github.com/FriendsOfCake/travis">
    Travis
   </a>
+  - Easy travis setup for CakePHP plugins.
   <sup>
    &#9733 32, pushed 80 days ago
   </sup>
-  - Easy travis setup for CakePHP plugins.
  </li>
  <li>
   <a href="https://github.com/burzum/cakephp-user-tools">
    UserTools plugin
   </a>
+  - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
   <sup>
    &#9733 37, pushed 21 days ago
   </sup>
-  - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
  </li>
  <li>
   <a href="https://github.com/cakemanager/cakephp-utils">
    Utils plugin
   </a>
+  - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
   <sup>
    &#9733 18, pushed 117 days ago
   </sup>
-  - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
  </li>
  <li>
   <a href="https://github.com/HavokInspiration/wrench">
    Wrench plugin
   </a>
+  - Maintenance Mode plugin. Easily extensible and customizable.
   <sup>
    &#9733 4, pushed 63 days ago
   </sup>
-  - Maintenance Mode plugin. Easily extensible and customizable.
  </li>
  <li>
   <a href="https://github.com/guemidiborhane/Cake-Yaml">
@@ -1293,14 +1293,14 @@
   <a href="https://github.com/gourmet/knp-menu">
    KnpMenu plugin
   </a>
-  <sup>
-   &#9733 10, pushed 264 days ago
-  </sup>
   - A menu plugin based on the
   <a href="https://github.com/KnpLabs/KnpMenu">
    Knp Menu Library
   </a>
   .
+  <sup>
+   &#9733 10, pushed 264 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1324,10 +1324,10 @@
   <a href="https://github.com/cakemanager/cakephp-notifier">
    Notifier plugin
   </a>
+  - A plugin that makes creating and reading notifications easy.
   <sup>
    &#9733 14, pushed 40 days ago
   </sup>
-  - A plugin that makes creating and reading notifications easy.
  </li>
 </ul>
 <h2>
@@ -1343,86 +1343,86 @@
   <a href="https://github.com/ADmad/cakephp-sequence">
    ADmad/Sequence plugin
   </a>
+  - Behavior for maintaining ordered list of records.
   <sup>
    &#9733 14, pushed 88 days ago
   </sup>
-  - Behavior for maintaining ordered list of records.
  </li>
  <li>
   <a href="https://github.com/riesenia/cakephp-duplicatable">
    Duplicatable plugin
   </a>
+  - Behavior for duplicating entities including related data.
   <sup>
    &#9733 1, pushed 103 days ago
   </sup>
-  - Behavior for duplicating entities including related data.
  </li>
  <li>
   <a href="https://github.com/jeremyharris/cakephp-lazyload">
    JeremyHarris/LazyLoad plugin
   </a>
+  - An association lazy loader for entities.
   <sup>
    &#9733 14, pushed 48 days ago
   </sup>
-  - An association lazy loader for entities.
  </li>
  <li>
   <a href="https://github.com/gourmet/money">
    Money plugin
   </a>
-  <sup>
-   &#9733 3, pushed 104 days ago
-  </sup>
   - Money data type for CakePHP entities using
   <a href="https://github.com/sebastianbergmann/money">
    sebastianbergmann/money
   </a>
   .
+  <sup>
+   &#9733 3, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/usemuffin/orderly">
    Muffin/Orderly plugin
   </a>
+  - Allows setting default order for your tables.
   <sup>
    &#9733 6, pushed 88 days ago
   </sup>
-  - Allows setting default order for your tables.
  </li>
  <li>
   <a href="https://github.com/usemuffin/trash">
    Muffin/Trash plugin
   </a>
+  - Soft-delete behavior for CakePHP.
   <sup>
    &#9733 16, pushed 3 days ago
   </sup>
-  - Soft-delete behavior for CakePHP.
  </li>
  <li>
   <a href="https://github.com/riesenia/persist-related-data">
    PersistRelatedData plugin
   </a>
+  - Behavior for persisting selected fields of related models.
   <sup>
    &#9733 4, pushed 103 days ago
   </sup>
-  - Behavior for persisting selected fields of related models.
  </li>
  <li>
   <a href="https://github.com/lorenzo/row-locker">
    RowLocker plugin
   </a>
+  - Exclusive locks for rows in your tables.
   <sup>
    &#9733 17, pushed 81 days ago
   </sup>
-  - Exclusive locks for rows in your tables.
  </li>
  <li>
   <a href="https://github.com/usemuffin/webservice">
    Webservices ORM plugin
   </a>
+  - An ORM like interface for webservices.
   <sup>
    &#9733 28, pushed 30 days ago
   </sup>
-  - An ORM like interface for webservices.
  </li>
 </ul>
 <h2>
@@ -1438,10 +1438,10 @@
   <a href="https://github.com/FriendsOfCake/CakePdf">
    CakePdf plugin
   </a>
+  - A plugin around PDF generation.
   <sup>
    &#9733 241, pushed 2 days ago
   </sup>
-  - A plugin around PDF generation.
  </li>
 </ul>
 <h2>
@@ -1457,37 +1457,37 @@
   <a href="https://github.com/wa0x6e/Cake-Resque">
    CakeResque plugin
   </a>
+  - A plugin for Resque, a library for creating background jobs.
   <sup>
    &#9733 152, pushed 242 days ago
   </sup>
-  - A plugin for Resque, a library for creating background jobs.
  </li>
  <li>
   <a href="https://github.com/josegonzalez/cakephp-queuesadilla">
    CakeQueuesadilla plugin
   </a>
+  - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
   <sup>
    &#9733 3, pushed 5 days ago
   </sup>
-  - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
  </li>
  <li>
   <a href="https://github.com/cvo-technologies/cakephp-gearman">
    Gearman plugin
   </a>
+  - A plugin for offloading CakePHP tasks to a Gearman Job Server.
   <sup>
    &#9733 5, pushed 38 days ago
   </sup>
-  - A plugin for offloading CakePHP tasks to a Gearman Job Server.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-queue">
    Queue plugin
   </a>
+  - A minimal dependency-free CakePHP only plugin around Queue.
   <sup>
    &#9733 116, pushed 2 days ago
   </sup>
-  - A minimal dependency-free CakePHP only plugin around Queue.
  </li>
 </ul>
 <h2>
@@ -1503,45 +1503,45 @@
   <a href="https://github.com/snelg/cakephp-cors">
    Cors plugin
   </a>
+  - A lightweight plugin for adding CORS headers to specified endpoints.
   <sup>
    &#9733 19, pushed 62 days ago
   </sup>
-  - A lightweight plugin for adding CORS headers to specified endpoints.
  </li>
  <li>
   <a href="https://github.com/andrej-griniuk/cakephp-fractal-transformer-view">
    FractalTransformerView plugin
   </a>
-  <sup>
-   &#9733 11, pushed 64 days ago
-  </sup>
   - A plugin which allows using
   <a href="http://fractal.thephpleague.com/transformers/">
    Fractal transformers
   </a>
   for your API output.
+  <sup>
+   &#9733 11, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josbeir/cakephp-json-api">
    JsonApi plugin
   </a>
-  <sup>
-   &#9733 4, pushed 73 days ago
-  </sup>
   - Implements the
   <a href="http://jsonapi.org/">
    JSON API
   </a>
   format.
+  <sup>
+   &#9733 4, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alt3/cakephp-swagger">
    Swagger plugin
   </a>
+  - Swagger plugin for documenting your CakePHP 3.x APIs.
   <sup>
    &#9733 9, pushed 85 days ago
   </sup>
-  - Swagger plugin for documenting your CakePHP 3.x APIs.
  </li>
 </ul>
 <h2>
@@ -1557,55 +1557,55 @@
   <a href="https://github.com/cakephp/elastic-search">
    ElasticSearch plugin
   </a>
+  - Alternative ORM using Elastic Search as its backend.
   <sup>
    &#9733 49, pushed 1 days ago
   </sup>
-  - Alternative ORM using Elastic Search as its backend.
  </li>
  <li>
   <a href="https://github.com/usemuffin/tags">
    Muffin/Tags plugin
   </a>
+  - For tagging and finding tagged records.
   <sup>
    &#9733 12, pushed 95 days ago
   </sup>
-  - For tagging and finding tagged records.
  </li>
  <li>
   <a href="https://github.com/skie/plum_search">
    PlumSearch plugin
   </a>
+  - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
   <sup>
    &#9733 15, pushed 33 days ago
   </sup>
-  - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
  </li>
  <li>
   <a href="https://github.com/FriendsOfCake/search">
    FriendsOfCake/Search plugin
   </a>
+  - Search provides a searching/filter module for CakePHP applications.
   <sup>
    &#9733 30, pushed 5 days ago
   </sup>
-  - Search provides a searching/filter module for CakePHP applications.
  </li>
  <li>
   <a href="https://github.com/CakeDC/search">
    Search plugin
   </a>
+  - Search plugin built on PRG pattern.
   <sup>
    &#9733 347, pushed 38 days ago
   </sup>
-  - Search plugin built on PRG pattern.
  </li>
  <li>
   <a href="https://github.com/voycey/cakephp-sphinxsearch">
    SphinxSearch plugin
   </a>
+  - Basic behaviour implementation for querying SphinxSearch indexes.
   <sup>
    &#9733 1, pushed 20 days ago
   </sup>
-  - Basic behaviour implementation for querying SphinxSearch indexes.
  </li>
 </ul>
 <h2>
@@ -1621,28 +1621,28 @@
   <a href="https://github.com/adayth/cakephp-cipher-behavior">
    CipherBehavior plugin
   </a>
+  - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
   <sup>
    &#9733 5, pushed 104 days ago
   </sup>
-  - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
  </li>
  <li>
   <a href="https://github.com/usemuffin/obfuscate">
    Muffin/Obfuscate plugin
   </a>
+  - Primary key obfuscation using HashIds, Optimus, Tiny and/or custom obfuscation strategies.
   <sup>
    &#9733 18, pushed 15 days ago
   </sup>
-  - Primary key obfuscation using HashIds, Optimus, Tiny and/or custom obfuscation strategies.
  </li>
  <li>
   <a href="https://github.com/usemuffin/throttle">
    Muffin/Throttle plugin
   </a>
-  <sup>
-   &#9733 14, pushed 178 days ago
-  </sup>
   - A plugin for rate limiting (API) requests.
+  <sup>
+   &#9733 14, pushed 179 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1658,37 +1658,37 @@
   <a href="https://github.com/UseMuffin/Slug">
    Muffin/Slug plugin
   </a>
+  - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
   <sup>
    &#9733 17, pushed 13 days ago
   </sup>
-  - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
  </li>
  <li>
   <a href="https://github.com/orgasmicnightmare/cakephp-seo">
    Seo plugin
   </a>
+  - Auto-creates and manages your SEO tags.
   <sup>
    &#9733 3, pushed 14 days ago
   </sup>
-  - Auto-creates and manages your SEO tags.
  </li>
  <li>
   <a href="https://github.com/Xety/Cake3-Sluggable">
    Sluggable plugin
   </a>
+  - A simple Cake3 plugin to slug fields and find records by slug.
   <sup>
    &#9733 4, pushed 103 days ago
   </sup>
-  - A simple Cake3 plugin to slug fields and find records by slug.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-tools">
    Tools:Slugged
   </a>
+  - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
   <sup>
    &#9733 251, pushed 8 days ago
   </sup>
-  - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
  </li>
 </ul>
 <h2>
@@ -1704,37 +1704,37 @@
   <a href="https://github.com/cakephp/app">
    App template
   </a>
+  - An empty CakePHP project for use with composer.
   <sup>
    &#9733 129, pushed 3 days ago
   </sup>
-  - An empty CakePHP project for use with composer.
  </li>
  <li>
   <a href="https://github.com/coolops/web-app">
    App template with material ui
   </a>
+  - CakePHP material ui admin template project for use with composer.
   <sup>
    &#9733 3, pushed 71 days ago
   </sup>
-  - CakePHP material ui admin template project for use with composer.
  </li>
  <li>
   <a href="https://github.com/FriendsOfCake/crud">
    Crud plugin
   </a>
+  - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
   <sup>
    &#9733 220, pushed 2 days ago
   </sup>
-  - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
  </li>
  <li>
   <a href="https://github.com/Xety/Cake3-PluginSkeleton">
    Plugin Skeleton
   </a>
+  - A skeleton example to create a Cake3 plugin.
   <sup>
    &#9733 8, pushed 134 days ago
   </sup>
-  - A skeleton example to create a Cake3 plugin.
  </li>
 </ul>
 <h2>
@@ -1750,19 +1750,19 @@
   <a href="https://github.com/dereuromark/cakephp-ratings">
    Ratings plugin
   </a>
+  - Allows users to rate records.
   <sup>
    &#9733 2, pushed 115 days ago
   </sup>
-  - Allows users to rate records.
  </li>
  <li>
   <a href="https://github.com/drmonkeyninja/cakephp-social-share">
    SocialShare plugin
   </a>
+  - Link generator for sharing content on social networks.
   <sup>
    &#9733 12, pushed 76 days ago
   </sup>
-  - Link generator for sharing content on social networks.
  </li>
 </ul>
 <h2>
@@ -1778,28 +1778,28 @@
   <a href="https://github.com/drmonkeyninja/cakephp-address">
    Address plugin
   </a>
+  - An address helper that outputs a marked up address.
   <sup>
    &#9733 0, pushed 145 days ago
   </sup>
-  - An address helper that outputs a marked up address.
  </li>
  <li>
   <a href="https://github.com/elboletaire/twbs-cake-plugin">
    Bootstrap plugin
   </a>
+  - A Bootstrap 3 plugin with support for LESS.
   <sup>
    &#9733 27, pushed 7 days ago
   </sup>
-  - A Bootstrap 3 plugin with support for LESS.
  </li>
  <li>
   <a href="https://github.com/friendsofcake/bootstrap-ui">
    BootstrapUI plugin
   </a>
+  - Bootstrap 3 integration.
   <sup>
    &#9733 155, pushed 27 days ago
   </sup>
-  - Bootstrap 3 integration.
  </li>
  <li>
   <a href="https://github.com/dakota/CakeExcel/tree/3.0">
@@ -1811,95 +1811,95 @@
   <a href="https://github.com/commercial-hippie/chocolate">
    Chocolate plugin
   </a>
+  - Front-End framework FormHelper extensions.
   <sup>
    &#9733 4, pushed 223 days ago
   </sup>
-  - Front-End framework FormHelper extensions.
  </li>
  <li>
   <a href="https://github.com/gourmet/common-mark">
    CommonMark plugin
   </a>
-  <sup>
-   &#9733 4, pushed 301 days ago
-  </sup>
   - Adds
   <a href="http://commonmark.org">
    CommonMark
   </a>
   (markdown) support to models and views.
+  <sup>
+   &#9733 4, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FriendsOfCake/cakephp-csvview">
    CsvView plugin
   </a>
+  - A view class to easily generate CSV.
   <sup>
    &#9733 107, pushed 20 days ago
   </sup>
-  - A view class to easily generate CSV.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-feed">
    Feed plugin
   </a>
+  - Containing an RssView class to easily generate (complex) RSS feeds.
   <sup>
    &#9733 4, pushed 68 days ago
   </sup>
-  - Containing an RssView class to easily generate (complex) RSS feeds.
  </li>
  <li>
   <a href="https://github.com/clthck/cakephp-jade">
    JadeView plugin
   </a>
+  - Jade template engine plugin.
   <sup>
    &#9733 2, pushed 90 days ago
   </sup>
-  - Jade template engine plugin.
  </li>
  <li>
   <a href="https://github.com/gourmet/liquid">
    Liquid plugin
   </a>
+  - A plugin to use the Liquid templating language for views.
   <sup>
    &#9733 3, pushed 95 days ago
   </sup>
-  - A plugin to use the Liquid templating language for views.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-meta">
    Meta plugin
   </a>
+  - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
   <sup>
    &#9733 4, pushed 66 days ago
   </sup>
-  - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
  </li>
  <li>
   <a href="https://github.com/gourmet/social-meta">
    SocialMeta plugin
   </a>
+  - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
   <sup>
    &#9733 12, pushed 27 days ago
   </sup>
-  - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
  </li>
  <li>
   <a href="https://github.com/WyriHaximus/TwigView">
    TwigView plugin
   </a>
+  - A plugin to use the Twig Templating Language for views.
   <sup>
    &#9733 37, pushed 26 days ago
   </sup>
-  - A plugin to use the Twig Templating Language for views.
  </li>
  <li>
   <a href="https://github.com/drmonkeyninja/cakephp-video-helper">
    VideoEmbed plugin
   </a>
+  - Helper for embedding YouTube, Vimeo and Dailymotion videos.
   <sup>
    &#9733 2, pushed 12 days ago
   </sup>
-  - Helper for embedding YouTube, Vimeo and Dailymotion videos.
  </li>
 </ul>
 <h2>
@@ -1915,67 +1915,67 @@
   <a href="https://github.com/cakephp/codeception">
    CakePHP Codeception module
   </a>
-  <sup>
-   &#9733 29, pushed 17 days ago
-  </sup>
   - The official CakePHP integration with
   <a href="http://codeception.com">
    Codeception
   </a>
   .
+  <sup>
+   &#9733 29, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cakephp/cakephp-codesniffer">
    CakePHP CodeSniffer rules
   </a>
+  - The official CakePHP CS rules.
   <sup>
    &#9733 163, pushed 33 days ago
   </sup>
-  - The official CakePHP CS rules.
  </li>
  <li>
   <a href="https://github.com/dereuromark/cakephp-codesniffer">
    CodeSniffer plugin
   </a>
+  - Auto-find code issues/smells and auto-fix CS errors.
   <sup>
    &#9733 15, pushed 186 days ago
   </sup>
-  - Auto-find code issues/smells and auto-fix CS errors.
  </li>
  <li>
   <a href="https://github.com/dereuromark/codesniffer-standards">
    CodeSniffer plugin sniffs
   </a>
+  - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
   <sup>
    &#9733 0, pushed 591 days ago
   </sup>
-  - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
  </li>
  <li>
   <a href="https://github.com/gourmet/faker">
    Faker plugin
   </a>
-  <sup>
-   &#9733 14, pushed 257 days ago
-  </sup>
   -
   <a href="https://github.com/fzaninotto/Faker">
    Faker
   </a>
   support for CakePHP fixtures.
+  <sup>
+   &#9733 14, pushed 257 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gourmet/muffin">
    Gourmet/Muffin plugin
   </a>
-  <sup>
-   &#9733 1, pushed 394 days ago
-  </sup>
   -
   <a href="https://github.com/thephpleague/factory-muffin">
    FactoryMuffin
   </a>
   support for CakePHP fixture records.
+  <sup>
+   &#9733 1, pushed 394 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1991,54 +1991,54 @@
   <a href="https://github.com/drmonkeyninja/cakephp-tmdb">
    CakeTmdb plugin
   </a>
+  - The Movie Database (TMDB) API integration.
   <sup>
    &#9733 0, pushed 118 days ago
   </sup>
-  - The Movie Database (TMDB) API integration.
  </li>
  <li>
   <a href="https://github.com/cvo-technologies/cakephp-github">
    GitHub plugin
   </a>
-  <sup>
-   &#9733 5, pushed 66 days ago
-  </sup>
   - Allows access to the GitHub REST APIs using the
   <a href="https://github.com/UseMuffin/Webservice">
    Webservice
   </a>
   ORM.
+  <sup>
+   &#9733 5, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/WyriHaximus/Ratchet">
    Ratchet plugin
   </a>
+  - Brings the Ratchet websocket package to CakePHP.
   <sup>
    &#9733 28, pushed 22 days ago
   </sup>
-  - Brings the Ratchet websocket package to CakePHP.
  </li>
  <li>
   <a href="https://github.com/voycey/cakephp-salesforce">
    Salesforce plugin
   </a>
+  - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
   <sup>
    &#9733 1, pushed 93 days ago
   </sup>
-  - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
  </li>
  <li>
   <a href="https://github.com/cvo-technologies/cakephp-twitter">
    Twitter plugin
   </a>
-  <sup>
-   &#9733 14, pushed 18 days ago
-  </sup>
   - Allows access to the Twitter REST and streaming APIs using the
   <a href="https://github.com/UseMuffin/Webservice">
    Webservice
   </a>
   ORM.
+  <sup>
+   &#9733 14, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -2062,10 +2062,10 @@
   <a href="https://github.com/alt3/cakebox">
    Cakebox
   </a>
+  - A Vagrant development environment powered by the CakePHP 3.x Console.
   <sup>
    &#9733 95, pushed 5 days ago
   </sup>
-  - A Vagrant development environment powered by the CakePHP 3.x Console.
  </li>
  <li>
   <a href="https://github.com/github/gitignore/blob/master/CakePHP.gitignore">
@@ -2077,19 +2077,19 @@
   <a href="https://github.com/junichi11/cakephp3-netbeans">
    NetBeans plugin
   </a>
+  -  This plugin provides support for CakePHP in NetBeans 8.1+.
   <sup>
    &#9733 26, pushed 120 days ago
   </sup>
-  -  This plugin provides support for CakePHP in NetBeans 8.1+.
  </li>
  <li>
   <a href="https://github.com/skie/PhpStorm">
    PhpStorm plugin
   </a>
+  -  CakePHP auto-completion support for console commands in PhpStorm IDE.
   <sup>
    &#9733 1, pushed 22 days ago
   </sup>
-  -  CakePHP auto-completion support for console commands in PhpStorm IDE.
  </li>
  <li>
   <a href="https://puphpet.com/">
@@ -2121,19 +2121,19 @@
   <a href="https://github.com/gwhitcher/CakeBlog">
    CakeBlog
   </a>
+  - Open source blog software.
   <sup>
    &#9733 4, pushed 119 days ago
   </sup>
-  - Open source blog software.
  </li>
  <li>
   <a href="https://github.com/quickapps/cms">
    QuickApps-CMS
   </a>
+  - Open source content management system.
   <sup>
    &#9733 139, pushed 33 days ago
   </sup>
-  - Open source content management system.
  </li>
 </ul>
 <h2>
@@ -2149,10 +2149,10 @@
   <a href="https://github.com/lorenzo/cakephp3-bookmarkr">
    Bookmarkr
   </a>
+  A bookmarking application built with the CRUD plugin.
   <sup>
    &#9733 10, pushed 361 days ago
   </sup>
-  A bookmarking application built with the CRUD plugin.
  </li>
  <li>
   <a href="http://cakefest.dereuromark.de/">
@@ -2170,19 +2170,19 @@
   <a href="https://github.com/lorenzo/cakephp3-examples">
    Query Examples
   </a>
+  Advanced query building examples.
   <sup>
    &#9733 34, pushed 619 days ago
   </sup>
-  Advanced query building examples.
  </li>
  <li>
   <a href="https://github.com/Xety/Xeta">
    Xeta
   </a>
+  - A resource to help people starting with CakePHP.
   <sup>
    &#9733 33, pushed 340 days ago
   </sup>
-  - A resource to help people starting with CakePHP.
  </li>
 </ul>
 <h1>

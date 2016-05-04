@@ -418,9 +418,6 @@
   <a href="https://github.com/luandro/sketch-responsive-design-template">
    Responsive Web Design Template
   </a>
-  <sup>
-   &#9733 17, pushed 214 days ago
-  </sup>
   , a template with
   <a href="https://fortawesome.github.io/Font-Awesome/">
    Font-Awesome
@@ -430,24 +427,27 @@
    Bootstrap UI Kit
   </a>
   as symbols for fast web design.
+  <sup>
+   &#9733 17, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvk/sketch-ios">
    Sketch iOS Templates
   </a>
-  <sup>
-   &#9733 832, pushed 807 days ago
-  </sup>
   , a collection of many iOS templates.
+  <sup>
+   &#9733 832, pushed 808 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/teracyhq/wireframe">
    Teracy Wireframe Kit
   </a>
+  , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
   <sup>
    &#9733 1073, pushed 505 days ago
   </sup>
-  , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
  </li>
 </ul>
 <h2>

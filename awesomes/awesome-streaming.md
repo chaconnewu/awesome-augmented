@@ -80,10 +80,10 @@
   <a href="https://github.com/apache/incubator-apex-core">
    Apache Apex
   </a>
+  [Java] - unified platform for big data stream and batch processing.
   <sup>
    &#9733 112, pushed 2 days ago
   </sup>
-  [Java] - unified platform for big data stream and batch processing.
  </li>
  <li>
   <a href="http://ci.apache.org/projects/flink/flink-docs-release-0.9/apis/streaming_guide.html">
@@ -122,10 +122,10 @@
   <a href="https://github.com/walmartlabs/mupd8">
    mupd8(muppet)
   </a>
+  [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
   <sup>
    &#9733 127, pushed 294 days ago
   </sup>
-  [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
  </li>
  <li>
   <a href="http://gopulsar.io/">
@@ -155,10 +155,10 @@
   <a href="https://github.com/ottogroup/SPQR">
    SPQR
   </a>
+  [Java] - dynamic framework for processing high volumn data streams through pipelines.
   <sup>
    &#9733 20, pushed 92 days ago
   </sup>
-  [Java] - dynamic framework for processing high volumn data streams through pipelines.
  </li>
  <li>
   <a href="https://storm.apache.org/">
@@ -170,19 +170,19 @@
   <a href="https://github.com/caskdata/tigon">
    tigon
   </a>
+  [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
   <sup>
    &#9733 221, pushed 214 days ago
   </sup>
-  [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
  </li>
  <li>
   <a href="https://github.com/hailstorm-hs/hailstorm">
    hailstorm
   </a>
+  [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
   <sup>
    &#9733 64, pushed 692 days ago
   </sup>
-  [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
  </li>
 </ul>
 <h3>
@@ -231,28 +231,28 @@
   <a href="https://github.com/twitter/summingbird">
    summingbird
   </a>
+  [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
   <sup>
    &#9733 1706, pushed 88 days ago
   </sup>
-  [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
  </li>
  <li>
   <a href="https://github.com/bkirwi/coast">
    coast
   </a>
+  [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
   <sup>
    &#9733 46, pushed 79 days ago
   </sup>
-  [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
  </li>
  <li>
   <a href="https://github.com/apache/incubator-beam">
    Apache Beam
   </a>
+  [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
   <sup>
    &#9733 151, pushed 1 days ago
   </sup>
-  [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
  </li>
 </ul>
 <h3>
@@ -263,19 +263,19 @@
   <a href="https://github.com/apache/kafka">
    Apache Kafka
   </a>
+  [Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
   <sup>
    &#9733 3042, pushed 1 days ago
   </sup>
-  [Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
  </li>
  <li>
   <a href="https://github.com/killme2008/Metamorphosis">
    metaq
   </a>
+  [Java] - Taobao's high available, high performance distributed messaging system
   <sup>
    &#9733 796, pushed 416 days ago
   </sup>
-  [Java] - Taobao's high available, high performance distributed messaging system
  </li>
  <li>
   <a href="https://github.com/bitly/nsq">
@@ -287,46 +287,46 @@
   <a href="https://github.com/linkedin/camus">
    camus
   </a>
+  [Java] - Linkedin's Kafka -> HDFS pipeline.
   <sup>
    &#9733 642, pushed 147 days ago
   </sup>
-  [Java] - Linkedin's Kafka -> HDFS pipeline.
  </li>
  <li>
   <a href="https://github.com/linkedin/databus">
    databus
   </a>
+  [Java] - Linkedin's source-agnostic distributed change data capture system.
   <sup>
    &#9733 1009, pushed 4 days ago
   </sup>
-  [Java] - Linkedin's source-agnostic distributed change data capture system.
  </li>
  <li>
   <a href="https://github.com/apache/flume">
    flume
   </a>
+  [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
   <sup>
    &#9733 619, pushed 8 days ago
   </sup>
-  [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
  </li>
  <li>
   <a href="https://github.com/Netflix/suro">
    suro
   </a>
+  [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
   <sup>
    &#9733 503, pushed 144 days ago
   </sup>
-  [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
  </li>
  <li>
   <a href="https://github.com/streamsets/datacollector">
    StreamSets Data Collector
   </a>
+  [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
   <sup>
    &#9733 98, pushed 1 days ago
   </sup>
-  [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
  </li>
 </ul>
 <h3>
@@ -337,10 +337,10 @@
   <a href="https://github.com/huawei-noah/streamDM">
    streamDM
   </a>
+  [Scala] - mining Big Data streams using Spark Streaming from Huawei.
   <sup>
    &#9733 106, pushed 91 days ago
   </sup>
-  [Scala] - mining Big Data streams using Spark Streaming from Huawei.
  </li>
  <li>
   <a href="http://jubat.us/en/">
@@ -352,28 +352,28 @@
   <a href="https://github.com/yahoo/samoa">
    Apache Samoa
   </a>
+  [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
   <sup>
    &#9733 406, pushed 37 days ago
   </sup>
-  [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
  </li>
  <li>
   <a href="https://github.com/pmerienne/trident-ml">
    trident-ml
   </a>
+  [Java] - realtime online machine learning library based on Trident.
   <sup>
    &#9733 335, pushed 214 days ago
   </sup>
-  [Java] - realtime online machine learning library based on Trident.
  </li>
  <li>
   <a href="https://github.com/sensorstorm/StormCV">
    StormCV
   </a>
+  [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
   <sup>
    &#9733 48, pushed 220 days ago
   </sup>
-  [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
  </li>
 </ul>
 <h3>
@@ -384,28 +384,28 @@
   <a href="https://github.com/pipelinedb/pipelinedb">
    pipelinedb
   </a>
+  [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
   <sup>
    &#9733 864, pushed 5 days ago
   </sup>
-  [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
  </li>
  <li>
   <a href="https://github.com/epfldata/squall">
    squall
   </a>
+  [Java] - Squall executes SQL queries on top of Storm for doing online processing.
   <sup>
    &#9733 208, pushed 9 days ago
   </sup>
-  [Java] - Squall executes SQL queries on top of Storm for doing online processing.
  </li>
  <li>
   <a href="https://github.com/HuaweiBigData/StreamCQL">
    StreamCQL
   </a>
+  [Java] - Continuous Query Language on RealTime Computation System.
   <sup>
    &#9733 209, pushed 54 days ago
   </sup>
-  [Java] - Continuous Query Language on RealTime Computation System.
  </li>
 </ul>
 <h3>
@@ -416,37 +416,37 @@
   <a href="https://github.com/intel-hadoop/storm-benchmark">
    storm-benchmark
   </a>
+  [Java] - a set of benchmarks to test Storm performance.
   <sup>
    &#9733 24, pushed 14 days ago
   </sup>
-  [Java] - a set of benchmarks to test Storm performance.
  </li>
  <li>
   <a href="https://github.com/yahoo/storm-perf-test">
    storm-perf-test
   </a>
+  [Java] - a simple storm performance/stress test.
   <sup>
    &#9733 56, pushed 6 days ago
   </sup>
-  [Java] - a simple storm performance/stress test.
  </li>
  <li>
   <a href="https://github.com/yahoo/streaming-benchmarks">
    streaming-benchmarks
   </a>
+  [Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
   <sup>
    &#9733 146, pushed 19 days ago
   </sup>
-  [Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
  </li>
  <li>
   <a href="https://github.com/tylertreat/Flotilla">
    flotilla
   </a>
+  [Go] - Automated message queue orchestration for scaled-up benchmarking.
   <sup>
    &#9733 124, pushed 101 days ago
   </sup>
-  [Go] - Automated message queue orchestration for scaled-up benchmarking.
  </li>
 </ul>
 <h3>
@@ -469,37 +469,37 @@
   <a href="https://github.com/real-logic/Aeron">
    aeron
   </a>
+  [Java/C++] - efficient reliable unicast and multicast message transport.
   <sup>
    &#9733 1743, pushed 8 days ago
   </sup>
-  [Java/C++] - efficient reliable unicast and multicast message transport.
  </li>
  <li>
   <a href="https://github.com/lmco/streamflow">
    StreamFlow
   </a>
+  [Java] - stream processing tool designed to help build and monitor processing workflows.
   <sup>
    &#9733 182, pushed 132 days ago
   </sup>
-  [Java] - stream processing tool designed to help build and monitor processing workflows.
  </li>
  <li>
   <a href="https://github.com/romseygeek/samza-luwak">
    samza-luwak
   </a>
+  [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
   <sup>
    &#9733 67, pushed 540 days ago
   </sup>
-  [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
  </li>
  <li>
   <a href="https://github.com/Netflix/Turbine">
    Turbine
   </a>
+  [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
   <sup>
    &#9733 395, pushed 104 days ago
   </sup>
-  [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
  </li>
 </ul>
 <h3>

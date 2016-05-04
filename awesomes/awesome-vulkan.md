@@ -196,14 +196,14 @@
   <a href="https://github.com/philiptaylor/vulkan-sxs">
    vulkan-sxs
   </a>
-  <sup>
-   &#9733 12, pushed 61 days ago
-  </sup>
   - explain the Vulkan API step by step and
   <a href="https://github.com/philiptaylor/vulkan-sync">
    vulkan-sync
   </a>
   - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
+  <sup>
+   &#9733 12, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="https://renderdoc.org/vulkan-in-30-minutes.html">
@@ -352,9 +352,6 @@
     <a href="https://github.com/GameTechDev/IntroductionToVulkan">
      API without Secrets: Introduction to Vulkan
     </a>
-    <sup>
-     &#9733 107, pushed 2 days ago
-    </sup>
     <a href="https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt">
      [LICENSE]
     </a>
@@ -376,6 +373,9 @@
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 107, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://blog.imgtec.com/tag/vulkan">
@@ -480,21 +480,21 @@
     <a href="https://github.com/googlesamples/vulkan-basic-samples">
      basic samples
     </a>
-    <sup>
-     &#9733 48, pushed 0 days ago
-    </sup>
     .
    </li>
    <li>
     <a href="https://github.com/googlesamples/android-vulkan-tutorials">
      tutorials
     </a>
+    .
     <sup>
      &#9733 82, pushed 8 days ago
     </sup>
-    .
    </li>
   </ul>
+  <sup>
+   &#9733 48, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvpro-samples">
@@ -513,10 +513,10 @@
      </em>
      chopper
     </a>
+    - Simple vulkan rendering example.
     <sup>
      &#9733 85, pushed 15 days ago
     </sup>
-    - Simple vulkan rendering example.
    </li>
    <li>
     <a href="https://github.com/nvpro-samples/gl_vk_threaded_cadscene">
@@ -526,14 +526,14 @@
      </em>
      threaded_cadscene
     </a>
-    <sup>
-     &#9733 42, pushed 10 days ago
-    </sup>
     - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and
     <a href="https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample">
      the blog
     </a>
     about it.
+    <sup>
+     &#9733 42, pushed 10 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nvpro-samples/gl_vk_bk3dthreaded">
@@ -543,10 +543,10 @@
      </em>
      bk3dthreaded
     </a>
+    - Vulkan sample rendering 3D with 'worker-threads'.
     <sup>
      &#9733 22, pushed 55 days ago
     </sup>
-    - Vulkan sample rendering 3D with 'worker-threads'.
    </li>
    <li>
     <a href="https://github.com/nvpro-samples/gl_vk_supersampled">
@@ -556,10 +556,10 @@
      </em>
      supersampled
     </a>
+    - Vulkan sample showing a high quality super-sampled rendering.
     <sup>
      &#9733 20, pushed 61 days ago
     </sup>
-    - Vulkan sample showing a high quality super-sampled rendering.
    </li>
   </ul>
  </li>
@@ -575,24 +575,24 @@
   <a href="https://github.com/krh/vkcube">
    vkcube
   </a>
+  - 'vkcube' sample from krh, works under X, wayland and VT console with
+drm/kms.
   <sup>
    &#9733 27, pushed 6 days ago
   </sup>
-  - 'vkcube' sample from krh, works under X, wayland and VT console with
-drm/kms.
  </li>
  <li>
   <a href="https://github.com/GameTechDev/stardust_vulkan">
    Stardust from Intel
   </a>
-  <sup>
-   &#9733 28, pushed 6 days ago
-  </sup>
   - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [
   <a href="https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt">
    LICENSE
   </a>
   ]]
+  <sup>
+   &#9733 28, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -603,9 +603,6 @@ drm/kms.
   <a href="https://github.com/cinder/Cinder">
    Cinder
   </a>
-  <sup>
-   &#9733 2512, pushed 4 days ago
-  </sup>
   and
   <a href="https://libcinder.org/notes/vulkan">
    the story
@@ -614,36 +611,36 @@ drm/kms.
    behind
   </a>
   . [BSD]
+  <sup>
+   &#9733 2512, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bkaradzic/bgfx">
    bgfx
   </a>
+  - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
   <sup>
    &#9733 1856, pushed 2 days ago
   </sup>
-  - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
  </li>
  <li>
   <a href="https://github.com/powervr-graphics/Native_SDK">
    PowerVR SDK
   </a>
-  <sup>
-   &#9733 144, pushed 26 days ago
-  </sup>
   - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native
   <em>
    SDK/blob/4.1/LICENSE
   </em>
   POWERVR_SDK.txt)]
+  <sup>
+   &#9733 144, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/glfw/glfw">
    glfw
   </a>
-  <sup>
-   &#9733 1895, pushed 2 days ago
-  </sup>
   and
   <a href="http://www.glfw.org/docs/3.2/vulkan.html">
    the guide
@@ -652,6 +649,9 @@ drm/kms.
   <a href="https://github.com/glfw/glfw/blob/master/COPYING.txt">
    [LICENSE]
   </a>
+  <sup>
+   &#9733 1895, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://moltengl.com/metalvk/">
@@ -663,19 +663,19 @@ drm/kms.
   <a href="https://github.com/ocornut/imgui">
    imgui
   </a>
+  - Immediate Mode Graphical User interface. [MIT]
   <sup>
    &#9733 3531, pushed 1 days ago
   </sup>
-  - Immediate Mode Graphical User interface. [MIT]
  </li>
  <li>
   <a href="https://github.com/alexhultman/libvc">
    libvc
   </a>
+  - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
   <sup>
    &#9733 28, pushed 49 days ago
   </sup>
-  - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
  </li>
 </ul>
 <h2>
@@ -692,54 +692,54 @@ drm/kms.
   <a href="https://github.com/ColonelThirtyTwo/dvulkan">
    dvulkan
   </a>
+  - Auto-generated D bindings for Vulkan.
   <sup>
    &#9733 8, pushed 17 days ago
   </sup>
-  - Auto-generated D bindings for Vulkan.
  </li>
  <li>
   <a href="https://github.com/expipiplus1/vulkan">
    Haskell bindings for Vulkan
   </a>
-  <sup>
-   &#9733 22, pushed 3 days ago
-  </sup>
   -
   <a href="https://github.com/expipiplus1/vulkan/blob/master/LICENSE">
    [LICENSE]
   </a>
   .
+  <sup>
+   &#9733 22, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvpro-pipeline/vkcpp">
    vkcpp
   </a>
-  <sup>
-   &#9733 523, pushed 4 days ago
-  </sup>
   from NVIDIA and
   <a href="https://developer.nvidia.com/open-source-vulkan-c-api">
    the blog
   </a>
   about it.
+  <sup>
+   &#9733 523, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mono/VulkanSharp">
    VulkanSharp
   </a>
+  - C# bindings for Vulkan. [MIT]
   <sup>
    &#9733 74, pushed 5 days ago
   </sup>
-  - C# bindings for Vulkan. [MIT]
  </li>
  <li>
   <a href="https://github.com/tomaka/vulkano">
    Vulkano
   </a>
+  - Safe and rich Rust wrapper around the Vulkan API. [MIT]
   <sup>
    &#9733 291, pushed 2 days ago
   </sup>
-  - Safe and rich Rust wrapper around the Vulkan API. [MIT]
  </li>
  <li>
   <a href="https://www.lwjgl.org/">
@@ -756,27 +756,24 @@ drm/kms.
   <a href="https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers">
    LoaderAndValidationLayers
   </a>
+  - from KhronosGroup. [MIT]
   <sup>
    &#9733 174, pushed 4 days ago
   </sup>
-  - from KhronosGroup. [MIT]
  </li>
  <li>
   <a href="https://github.com/baldurk/renderdoc">
    renderdoc
   </a>
+  - by baldurk, a stand-alone graphics debugging tool. [MIT]
   <sup>
    &#9733 972, pushed 2 days ago
   </sup>
-  - by baldurk, a stand-alone graphics debugging tool. [MIT]
  </li>
  <li>
   <a href="https://github.com/LunarG/VulkanTools">
    VulkanTools
   </a>
-  <sup>
-   &#9733 77, pushed 4 days ago
-  </sup>
   - LunarG's tools including layers,
   <code>
    vktrace
@@ -786,15 +783,18 @@ drm/kms.
    vkreplay
   </code>
   . [MIT]
+  <sup>
+   &#9733 77, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GPUOpen-Tools/CodeXL">
    CodeXL
   </a>
+  - CodeXL goes open source. [MIT]
   <sup>
    &#9733 247, pushed 2 days ago
   </sup>
-  - CodeXL goes open source. [MIT]
  </li>
  <li>
   <a href="https://developer.qualcomm.com/software/adreno-gpu-sdk/tools">

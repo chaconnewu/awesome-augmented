@@ -236,9 +236,6 @@
   <a href="https://github.com/aleksandar-todorovic/awesome-linux">
    Linux
   </a>
-  <sup>
-   &#9733 331, pushed 2 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/Friz-zy/awesome-linux-containers">
@@ -249,14 +246,14 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 331, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/iCHAIT/awesome-osx">
    OS X
   </a>
-  <sup>
-   &#9733 3920, pushed 2 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/herrbischoff/awesome-osx-command-line">
@@ -275,13 +272,16 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 3920, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yenchenlin1994/awesome-watchos">
    watchOS
   </a>
   <sup>
-   &#9733 162, pushed 76 days ago
+   &#9733 162, pushed 77 days ago
   </sup>
  </li>
  <li>
@@ -349,9 +349,6 @@
   <a href="https://github.com/sorrycc/awesome-javascript">
    JavaScript
   </a>
-  <sup>
-   &#9733 5882, pushed 4 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/wbinnssmith/awesome-promises">
@@ -413,10 +410,10 @@
     <a href="https://github.com/maxogden/maintenance-modules">
      Maintenance Modules
     </a>
+    - For npm packages
     <sup>
      &#9733 230, pushed 104 days ago
     </sup>
-    - For npm packages
    </li>
    <li>
     <a href="https://github.com/sindresorhus/awesome-npm">
@@ -430,10 +427,10 @@
     <a href="https://github.com/sindresorhus/awesome-ava">
      AVA
     </a>
+    - Test runner
     <sup>
      &#9733 99, pushed 1 days ago
     </sup>
-    - Test runner
    </li>
    <li>
     <a href="https://github.com/dustinspecker/awesome-eslint">
@@ -444,14 +441,14 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 5882, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matteocrippa/awesome-swift">
    Swift
   </a>
-  <sup>
-   &#9733 7959, pushed 3 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/hsavit1/Awesome-Swift-Education">
@@ -470,6 +467,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 7959, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vinta/awesome-python">
@@ -523,9 +523,6 @@
   <a href="https://github.com/markets/awesome-ruby">
    Ruby
   </a>
-  <sup>
-   &#9733 5648, pushed 5 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/planetruby/awesome-events">
@@ -536,6 +533,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 5648, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/razum2um/awesome-clojure">
@@ -661,9 +661,6 @@
   <a href="https://github.com/akullpp/awesome-java">
    Java
   </a>
-  <sup>
-   &#9733 6775, pushed 4 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/eleventigers/awesome-rxjava">
@@ -674,6 +671,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 6775, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JavaBy/awesome-kotlin">
@@ -754,7 +754,7 @@
    Crystal
   </a>
   <sup>
-   &#9733 301, pushed 10 days ago
+   &#9733 301, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -798,9 +798,6 @@
   <a href="https://github.com/sotayamashita/awesome-css">
    CSS
   </a>
-  <sup>
-   &#9733 411, pushed 8 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/addyosmani/critical-path-css-tools">
@@ -835,14 +832,14 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 411, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/enaqx/awesome-react">
    React
   </a>
-  <sup>
-   &#9733 13197, pushed 2 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/expede/awesome-relay">
@@ -853,6 +850,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 13197, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mateusortiz/webcomponents-the-right-way">
@@ -947,7 +947,7 @@
    Ember
   </a>
   <sup>
-   &#9733 125, pushed 17 days ago
+   &#9733 125, pushed 18 days ago
   </sup>
  </li>
  <li>
@@ -1034,9 +1034,6 @@
   <a href="https://github.com/peterkokot/awesome-jquery">
    jQuery
   </a>
-  <sup>
-   &#9733 188, pushed 8 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">
@@ -1047,6 +1044,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 188, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/notthetup/awesome-webaudio">
@@ -1076,10 +1076,10 @@
   <a href="https://github.com/aframevr/awesome-aframe">
    A-Frame VR
   </a>
+  - Virtual reality
   <sup>
    &#9733 228, pushed 4 days ago
   </sup>
-  - Virtual reality
  </li>
  <li>
   <a href="https://github.com/vic/awesome-cyclejs">
@@ -1218,9 +1218,6 @@
   <a href="https://github.com/sitepoint/awesome-symfony">
    Symfony
   </a>
-  <sup>
-   &#9733 697, pushed 3 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/Symfonisti/awesome-symfony-education">
@@ -1231,14 +1228,14 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 697, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chiraggude/awesome-laravel">
    Laravel
   </a>
-  <sup>
-   &#9733 2725, pushed 4 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md">
@@ -1246,14 +1243,14 @@
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 2725, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ekremkaraca/awesome-rails">
    Rails
   </a>
-  <sup>
-   &#9733 829, pushed 48 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/hothero/awesome-rails-gem">
@@ -1264,6 +1261,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 829, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sergeyklay/awesome-phalcon">
@@ -1342,9 +1342,6 @@
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Machine Learning
   </a>
-  <sup>
-   &#9733 12665, pushed 4 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">
@@ -1355,14 +1352,14 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 12665, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/edobashira/speech-language-processing">
    Speech and Natural Language Processing
   </a>
-  <sup>
-   &#9733 1193, pushed 106 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/dav009/awesome-spanish-nlp">
@@ -1373,6 +1370,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 1193, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/theimpossibleastronaut/awesome-linguistics">
@@ -1402,9 +1402,6 @@
   <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
    Deep Learning
   </a>
-  <sup>
-   &#9733 1922, pushed 8 days ago
-  </sup>
   - Neural networks
   <ul>
    <li>
@@ -1416,6 +1413,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 1922, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kjw0612/awesome-deep-vision">
@@ -1691,27 +1691,27 @@
   <a href="https://github.com/Calinou/awesome-godot">
    Godot
   </a>
+  - Game engine
   <sup>
    &#9733 131, pushed 22 days ago
   </sup>
-  - Game engine
  </li>
  <li>
   <a href="https://github.com/leereilly/games">
    Open Source Games
   </a>
   <sup>
-   &#9733 2592, pushed 18 days ago
+   &#9733 2592, pushed 19 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/RyanNielson/awesome-unity">
    Unity
   </a>
+  - Game engine
   <sup>
    &#9733 536, pushed 5 days ago
   </sup>
-  - Game engine
  </li>
  <li>
   <a href="https://github.com/hkirat/awesome-chess">
@@ -1731,10 +1731,10 @@
   <a href="https://github.com/felipebueno/awesome-PICO-8">
    PICO-8
   </a>
+  - Fantasy console
   <sup>
    &#9733 88, pushed 33 days ago
   </sup>
-  - Fantasy console
  </li>
 </ul>
 <h2>
@@ -1745,10 +1745,10 @@
   <a href="https://github.com/sindresorhus/quick-look-plugins">
    Quick Look Plugins
   </a>
+  - OS X
   <sup>
    &#9733 5950, pushed 4 days ago
   </sup>
-  - OS X
  </li>
  <li>
   <a href="https://github.com/jondot/awesome-devenv">
@@ -1794,9 +1794,6 @@
   <a href="https://github.com/phillipadsmith/awesome-github">
    GitHub
   </a>
-  <sup>
-   &#9733 187, pushed 44 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">
@@ -1815,6 +1812,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 187, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/arslanbilal/git-cheat-sheet">
@@ -1865,10 +1865,10 @@
   <a href="https://github.com/sindresorhus/awesome-scifi">
    Science Fiction
   </a>
+  - Scifi
   <sup>
    &#9733 997, pushed 14 days ago
   </sup>
-  - Scifi
  </li>
  <li>
   <a href="https://github.com/RichardLitt/awesome-fantasy">
@@ -1940,10 +1940,10 @@
   <a href="https://github.com/TomasVotruba/awesome-doctrine">
    Doctrine
   </a>
+  - PHP ORM
   <sup>
    &#9733 91, pushed 22 days ago
   </sup>
-  - PHP ORM
  </li>
  <li>
   <a href="https://github.com/ramnes/awesome-mongodb">
@@ -1978,10 +1978,10 @@
   <a href="https://github.com/chrissimpkins/codeface">
    Codeface
   </a>
+  - Text editor fonts
   <sup>
    &#9733 3139, pushed 28 days ago
   </sup>
-  - Text editor fonts
  </li>
  <li>
   <a href="https://github.com/neutraltone/awesome-stock-resources">
@@ -2029,10 +2029,10 @@
   <a href="https://github.com/therebelrobot/awesome-workshopper">
    CLI Workshoppers
   </a>
+  - Interactive tutorials
   <sup>
    &#9733 128, pushed 88 days ago
   </sup>
-  - Interactive tutorials
  </li>
  <li>
   <a href="https://github.com/karlhorky/learn-to-program">
@@ -2099,10 +2099,10 @@
   <a href="https://github.com/apsdehal/awesome-ctf">
    CTF
   </a>
+  - Capture The Flag
   <sup>
    &#9733 421, pushed 34 days ago
   </sup>
-  - Capture The Flag
  </li>
  <li>
   <a href="https://github.com/rshipp/awesome-malware-analysis">
@@ -2187,9 +2187,6 @@
   <a href="https://github.com/matiassingers/awesome-slack">
    Slack
   </a>
-  <sup>
-   &#9733 218, pushed 104 days ago
-  </sup>
   <ul>
    <li>
     <a href="https://github.com/filipelinhares/awesome-slack">
@@ -2200,6 +2197,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 218, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RichardLitt/awesome-conferences">
@@ -2323,10 +2323,10 @@
   <a href="https://github.com/diessica/awesome-sketch">
    Sketch
   </a>
+  - OS X design app
   <sup>
    &#9733 413, pushed 12 days ago
   </sup>
-  - OS X design app
  </li>
  <li>
   <a href="https://github.com/mmccaff/PlacesToPostYourStartup">
@@ -2428,9 +2428,6 @@
   <a href="https://github.com/sindresorhus/amas">
    AMA
   </a>
-  <sup>
-   &#9733 527, pushed 7 days ago
-  </sup>
   - Ask Me Anything
   <ul>
    <li>
@@ -2442,6 +2439,9 @@
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 527, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">
@@ -2569,10 +2569,10 @@
   <a href="https://github.com/vhpoet/awesome-ripple">
    Ripple
   </a>
+  - Open source distributed settlement network
   <sup>
    &#9733 32, pushed 103 days ago
   </sup>
-  - Open source distributed settlement network
  </li>
  <li>
   <a href="https://github.com/gmontalvoriv/awesome-katas">
@@ -2594,10 +2594,10 @@
   <a href="https://github.com/sindresorhus/awesome-tap">
    TAP
   </a>
+  - Test Anything Protocol
   <sup>
    &#9733 197, pushed 47 days ago
   </sup>
-  - Test Anything Protocol
  </li>
  <li>
   <a href="https://github.com/Kiloreux/awesome-robotics">
@@ -2611,10 +2611,10 @@
   <a href="https://github.com/hobbyquaker/awesome-mqtt">
    MQTT
   </a>
+  - "Internet of Things" connectivity protocol
   <sup>
    &#9733 41, pushed 31 days ago
   </sup>
-  - "Internet of Things" connectivity protocol
  </li>
  <li>
   <a href="https://github.com/diasdavid/awesome-hacking-spots">
@@ -2636,19 +2636,19 @@
   <a href="https://github.com/vorpaljs/awesome-vorpal">
    Vorpal
   </a>
+  - Node.js CLI framework
   <sup>
    &#9733 54, pushed 8 days ago
   </sup>
-  - Node.js CLI framework
  </li>
  <li>
   <a href="https://github.com/domenicosolazzo/awesome-okr">
    OKR Methodology
   </a>
+  - Goal setting & communication best practices
   <sup>
    &#9733 33, pushed 88 days ago
   </sup>
-  - Goal setting & communication best practices
  </li>
  <li>
   <a href="https://github.com/vinjn/awesome-vulkan">
@@ -2662,10 +2662,10 @@
   <a href="https://github.com/egeerardyn/awesome-LaTeX">
    LaTeX
   </a>
+  - Typesetting language
   <sup>
    &#9733 19, pushed 28 days ago
   </sup>
-  - Typesetting language
  </li>
  <li>
   <a href="https://github.com/briatte/awesome-network-analysis">
@@ -2679,10 +2679,10 @@
   <a href="https://github.com/antontarasenko/awesome-economics">
    Economics
   </a>
+  - An economist's starter kit
   <sup>
    &#9733 33, pushed 7 days ago
   </sup>
-  - An economist's starter kit
  </li>
 </ul>
 <h2>

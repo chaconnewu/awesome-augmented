@@ -720,10 +720,10 @@
   <a href="https://github.com/schacon/git-scribe">
    Git-scribe
   </a>
+  : Good for writing ebooks.
   <sup>
    &#9733 1262, pushed 253 days ago
   </sup>
-  : Good for writing ebooks.
  </li>
  <li>
   <a href="#static-site-generator">
@@ -749,19 +749,16 @@
     <a href="https://github.com/snide/sphinx_rtd_theme">
      rtd theme
     </a>
-    <sup>
-     &#9733 1440, pushed 39 days ago
-    </sup>
     : Developed by ReadtheDocs.org
    </li>
    <li>
     <a href="https://github.com/bitprophet/alabaster">
      Alabaster
     </a>
+    : Clean and simple
     <sup>
      &#9733 218, pushed 8 days ago
     </sup>
-    : Clean and simple
    </li>
    <li>
     <a href="https://github.com/vkvn/sphinx-themes">
@@ -774,6 +771,9 @@
     </a>
    </li>
   </ul>
+  <sup>
+   &#9733 1440, pushed 39 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -901,40 +901,40 @@
   <a href="https://github.com/tryghost/Ghost">
    Ghost
   </a>
-  <sup>
-   &#9733 19315, pushed 1 days ago
-  </sup>
   (
   <code>
    Node.js
   </code>
   ): Open, Simple, non-profit; write with markdown and live preview.
+  <sup>
+   &#9733 19315, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/picocms/Pico">
    Pico
   </a>
-  <sup>
-   &#9733 2296, pushed 4 days ago
-  </sup>
   (
   <code>
    PHP
   </code>
   ): Lightweight cms, open source, no database.
+  <sup>
+   &#9733 2296, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/circa75/dropplets">
    Dropplets
   </a>
-  <sup>
-   &#9733 1570, pushed 176 days ago
-  </sup>
   (
   <code>
    PHP
   </code>
   ): Open source, simple, and elegant blog system; write in Markdown.
+  <sup>
+   &#9733 1570, pushed 176 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1296,9 +1296,6 @@
   <a href="https://github.com/retext-project/retext">
    ReText
   </a>
-  <sup>
-   &#9733 232, pushed 6 days ago
-  </sup>
   (
   <code>
    Mac
@@ -1312,6 +1309,9 @@
    Linux
   </code>
   ): ReText one of the best, even on Linux. It also supports reStructuredText input.
+  <sup>
+   &#9733 232, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.madoko.net/">
@@ -1383,19 +1383,19 @@
   <a href="https://github.com/alabid/flylatex">
    FlyLaTeX
   </a>
+  : A free, open source version of sharelatex
   <sup>
    &#9733 775, pushed 49 days ago
   </sup>
-  : A free, open source version of sharelatex
  </li>
  <li>
   <a href="https://github.com/sharelatex/sharelatex">
    ShareLaTeX Source Code
   </a>
+  : ShareLaTeX open sourced their codes. This is a great move I would say.
   <sup>
    &#9733 3496, pushed 13 days ago
   </sup>
-  : ShareLaTeX open sourced their codes. This is a great move I would say.
  </li>
 </ul>
 <h3>
@@ -1454,10 +1454,10 @@
   <a href="https://github.com/fex-team/kityminder">
    KityMinder By Baidu
   </a>
+  : Chinese Interface
   <sup>
    &#9733 1508, pushed 266 days ago
   </sup>
-  : Chinese Interface
  </li>
  <li>
   <a href="http://my-mind.github.io/">
@@ -1951,19 +1951,19 @@
     <a href="https://github.com/ptone/jiffylab">
      jiffylab
     </a>
+    is an open source one but not that well done.
     <sup>
      &#9733 183, pushed 778 days ago
     </sup>
-    is an open source one but not that well done.
    </li>
    <li>
     <a href="https://github.com/writefaruq/supervised-ipython-nbserver">
      supervised-ipython-nbserver
     </a>
+    is a multiuser version of notebook using Django/Pinax.
     <sup>
      &#9733 6, pushed 908 days ago
     </sup>
-    is a multiuser version of notebook using Django/Pinax.
    </li>
   </ul>
  </li>
@@ -2435,14 +2435,14 @@
   <a href="https://github.com/opentf/GuokrBadge">
    Guokr Badge
   </a>
-  <sup>
-   &#9733 12, pushed 778 days ago
-  </sup>
   : Green CC License badges. (
   <strong>
    Documentation is in Chinese.
   </strong>
   )
+  <sup>
+   &#9733 12, pushed 778 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2600,14 +2600,14 @@
   <a href="https://github.com/arnobl/latexdraw">
    LaTeXDraw
   </a>
-  <sup>
-   &#9733 85, pushed 2 days ago
-  </sup>
   (
   <code>
    Linux
   </code>
   ): "A vector drawing editor for LaTeX."
+  <sup>
+   &#9733 85, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.texample.net/tikz/">
@@ -2722,19 +2722,19 @@
   <a href="https://github.com/glamp/bashplotlib">
    bashplot
   </a>
+  : plot in terminal.
   <sup>
    &#9733 395, pushed 87 days ago
   </sup>
-  : plot in terminal.
  </li>
  <li>
   <a href="https://github.com/EricFreeman/fuck">
    fuck
   </a>
-  <sup>
-   &#9733 179, pushed 293 days ago
-  </sup>
   : correct the command by typing in fuck.
+  <sup>
+   &#9733 179, pushed 294 days ago
+  </sup>
  </li>
 </ul>
 <h3>

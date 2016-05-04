@@ -302,14 +302,14 @@
   <a href="https://github.com/jseabold/538model">
    Election Forecasting
   </a>
-  <sup>
-   &#9733 169, pushed 151 days ago
-  </sup>
   : A replication of the model Nate Silver used to make
   <a href="http://fivethirtyeight.blogs.nytimes.com/fivethirtyeights-2012-forecast/">
    predictions about the 2012 US Presidential Election for the New York Times
   </a>
   )
+  <sup>
+   &#9733 169, pushed 151 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb">
@@ -347,10 +347,10 @@
   <a href="https://github.com/donnemartin/data-science-ipython-notebooks">
    this excellent list of Data Science ipython notebooks
   </a>
+  . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
   <sup>
    &#9733 5541, pushed 4 days ago
   </sup>
-  . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
  </li>
  <li>
   Or more generic tutorials/overviews ...
@@ -501,10 +501,10 @@
     <a href="https://github.com/donnemartin/data-science-ipython-notebooks">
      donnemartin/data-science-ipython-notebooks
     </a>
+    . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
     <sup>
      &#9733 5541, pushed 4 days ago
     </sup>
-    . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
    </li>
   </ul>
  </li>
@@ -540,10 +540,10 @@
   <a href="https://github.com/josephmisiti/machine-learning-module">
    Machine Learning Module (GitHub Mirror).
   </a>
+  Good for people with a strong mathematics background.
   <sup>
    &#9733 258, pushed 1833 days ago
   </sup>
-  Good for people with a strong mathematics background.
  </li>
  <li>
   Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
@@ -1200,15 +1200,15 @@ data." Pedro Domingos, in
    <a href="https://github.com/josephmisiti/awesome-machine-learning">
     awesome-machine-learning
    </a>
-   <sup>
-    &#9733 12665, pushed 4 days ago
-   </sup>
   </strong>
   , a curated list of
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome
   </a>
   Machine Learning libraries and software.
+  <sup>
+   &#9733 12665, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.tensorflow.org/">
@@ -1322,10 +1322,10 @@ data." Pedro Domingos, in
    </code>
    GitHub repository
   </a>
+  maintained by Sebastian Raschka, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
   <sup>
    &#9733 1661, pushed 58 days ago
   </sup>
-  maintained by Sebastian Raschka, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
  </li>
  <li>
   [Your guide here]

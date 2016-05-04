@@ -2016,10 +2016,10 @@
   <a href="https://github.com/arron2003/rgbd2full3d">
    RGBD2Full3D
   </a>
+  - Ruiqi Guo (UIUC)
   <sup>
    &#9733 7, pushed 619 days ago
   </sup>
-  - Ruiqi Guo (UIUC)
  </li>
 </ul>
 <h4>

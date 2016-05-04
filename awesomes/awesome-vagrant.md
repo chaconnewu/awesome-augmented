@@ -29,10 +29,10 @@
   <a href="https://github.com/mitchellh/vagrant">
    GitHub repo
   </a>
+  - source code, issues discussion and collaboration.
   <sup>
    &#9733 11932, pushed 3 days ago
   </sup>
-  - source code, issues discussion and collaboration.
  </li>
  <li>
   <a href="https://www.ottoproject.io/">
@@ -120,19 +120,19 @@
   <a href="https://github.com/dotless-de/vagrant-vbguest">
    vagrant-vbguest
   </a>
+  - autoupdate VirtualBox guest additions (according to VB version).
   <sup>
    &#9733 1705, pushed 39 days ago
   </sup>
-  - autoupdate VirtualBox guest additions (according to VB version).
  </li>
  <li>
   <a href="https://github.com/cogitatio/vagrant-hostsupdater">
    vagrant-hostsupdater
   </a>
+  - adds an entry to your /etc/hosts file on the host system.
   <sup>
    &#9733 717, pushed 4 days ago
   </sup>
-  - adds an entry to your /etc/hosts file on the host system.
  </li>
  <li>
   <a href="http://fgrehm.viewdocs.io/vagrant-cachier/">
@@ -144,28 +144,28 @@
   <a href="https://github.com/phinze/vagrant-host-shell">
    vagrant-host-shell
   </a>
+  - a vagrant provisioner to run commands on the host when a VM boots.
   <sup>
    &#9733 76, pushed 161 days ago
   </sup>
-  - a vagrant provisioner to run commands on the host when a VM boots.
  </li>
  <li>
   <a href="https://github.com/jaugustin/vagrant-ansible-local">
    vagrant-ansible-local
   </a>
+  allow provisioning your VM with ansible playbooks directly from the guest VM.
   <sup>
    &#9733 57, pushed 460 days ago
   </sup>
-  allow provisioning your VM with ansible playbooks directly from the guest VM.
  </li>
  <li>
   <a href="https://github.com/jedi4ever/sahara">
    sahara
   </a>
+  - easy manage VM state (commit/rollback while experimenting with software stack).
   <sup>
    &#9733 663, pushed 177 days ago
   </sup>
-  - easy manage VM state (commit/rollback while experimenting with software stack).
  </li>
 </ul>
 <h2>
@@ -182,10 +182,10 @@
   <a href="https://github.com/jedi4ever/veewee">
    Veewee
   </a>
+  - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
   <sup>
    &#9733 3909, pushed 4 days ago
   </sup>
-  - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
  </li>
  <li>
   <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant">
@@ -336,28 +336,28 @@ for any IP address.
   <a href="https://github.com/vagrantpress/vagrantpress">
    Vagrantpress
   </a>
+  - development environment for creating and modifying WordPress sites.
   <sup>
    &#9733 729, pushed 60 days ago
   </sup>
-  - development environment for creating and modifying WordPress sites.
  </li>
  <li>
   <a href="https://github.com/Varying-Vagrant-Vagrants/VVV">
    Varying Vagrant Vagrants
   </a>
+  - An open source Vagrant configuration focused on WordPress development.
   <sup>
    &#9733 3015, pushed 4 days ago
   </sup>
-  - An open source Vagrant configuration focused on WordPress development.
  </li>
  <li>
   <a href="https://github.com/joomlatools/joomlatools-vagrant">
    Joomla-Vagrant
   </a>
+  .
   <sup>
    &#9733 106, pushed 6 days ago
   </sup>
-  .
  </li>
  <li>
   <a href="https://www.drupal.org/project/vdd">
@@ -375,28 +375,28 @@ for any IP address.
   <a href="https://github.com/iJackUA/try-yii2">
    Try Yii2
   </a>
+  - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
   <sup>
    &#9733 39, pushed 140 days ago
   </sup>
-  - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
  </li>
  <li>
   <a href="https://github.com/bryannielsen/Laravel4-Vagrant">
    Laravel4-Vagrant
   </a>
+  - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
   <sup>
    &#9733 532, pushed 349 days ago
   </sup>
-  - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
  </li>
  <li>
   <a href="https://github.com/openstack-ansible/openstack-ansible">
    OpenStack on Ansible with Vagrant
   </a>
-  <sup>
-   &#9733 203, pushed 189 days ago
-  </sup>
   .
+  <sup>
+   &#9733 203, pushed 190 days ago
+  </sup>
  </li>
  <li>
   <a href="https://laravel.com/docs/master/homestead">

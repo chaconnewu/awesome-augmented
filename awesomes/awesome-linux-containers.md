@@ -178,11 +178,11 @@
   <a href="https://github.com/cloudfoundry/warden">
    Warden
   </a>
+  <br/>
+  Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
   <sup>
    &#9733 268, pushed 21 days ago
   </sup>
-  <br/>
-  Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
  </li>
  <li>
   <a href="https://aws.amazon.com/ecs/">
@@ -218,11 +218,11 @@
   <a href="https://github.com/lxc/lxd">
    LXD
   </a>
+  <br/>
+  Daemon based on liblxc offering a REST API to manage LXC containers.
   <sup>
    &#9733 940, pushed 2 days ago
   </sup>
-  <br/>
-  Daemon based on liblxc offering a REST API to manage LXC containers.
  </li>
  <li>
   <a href="https://openvz.org/Main_Page">
@@ -240,61 +240,61 @@
   <a href="https://github.com/opencontainers/runc">
    runc
   </a>
+  <br/>
+  runc is a CLI tool for spawning and running containers according to the OCS specification.
   <sup>
    &#9733 2738, pushed 2 days ago
   </sup>
-  <br/>
-  runc is a CLI tool for spawning and running containers according to the OCS specification.
  </li>
  <li>
   <a href="https://github.com/p8952/bocker">
    Bocker
   </a>
+  <br/>
+  Docker implemented in around 100 lines of bash.
   <sup>
    &#9733 3260, pushed 251 days ago
   </sup>
-  <br/>
-  Docker implemented in around 100 lines of bash.
  </li>
  <li>
   <a href="https://github.com/coreos/rkt">
    Rocket
   </a>
+  <br/>
+  rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
   <sup>
    &#9733 5451, pushed 2 days ago
   </sup>
-  <br/>
-  rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
  </li>
  <li>
   <a href="https://github.com/lxc/lxc">
    LXC
   </a>
+  <br/>
+  LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
   <sup>
    &#9733 1433, pushed 2 days ago
   </sup>
-  <br/>
-  LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
  </li>
  <li>
   <a href="https://github.com/tailhook/vagga">
    Vagga
   </a>
+  <br/>
+  Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
   <sup>
    &#9733 785, pushed 2 days ago
   </sup>
-  <br/>
-  Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
  </li>
  <li>
   <a href="https://github.com/xemul/libct">
    libct
   </a>
+  <br/>
+  Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
   <sup>
    &#9733 85, pushed 173 days ago
   </sup>
-  <br/>
-  Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
  </li>
  <li>
   <a href="https://libvirt.org/drvlxc.html">
@@ -318,11 +318,11 @@
   <a href="https://github.com/yandex/porto">
    porto
   </a>
+  <br/>
+  The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
   <sup>
    &#9733 92, pushed 21 days ago
   </sup>
-  <br/>
-  The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
  </li>
 </ul>
 <h2>
@@ -340,21 +340,21 @@
   <a href="https://github.com/google/nsjail">
    NsJail
   </a>
+  <br/>
+  NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
   <sup>
    &#9733 276, pushed 8 days ago
   </sup>
-  <br/>
-  NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
  </li>
  <li>
   <a href="https://github.com/subuser-security/subuser">
    Subuser
   </a>
+  <br/>
+  Securing the Linux desktop with Docker.
   <sup>
    &#9733 508, pushed 6 days ago
   </sup>
-  <br/>
-  Securing the Linux desktop with Docker.
  </li>
  <li>
   <a href="https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement">
@@ -400,11 +400,11 @@
   <a href="https://github.com/zalando/python-nsenter">
    python-nsenter
   </a>
+  <br/>
+  This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
   <sup>
    &#9733 32, pushed 116 days ago
   </sup>
-  <br/>
-  This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
  </li>
  <li>
   <a href="https://pypi.python.org/pypi/butter">
@@ -417,11 +417,11 @@
   <a href="https://github.com/Friz-zy/pyspaces">
    pyspaces
   </a>
+  <br/>
+  Works with Linux namespaces through glibc with pure python.
   <sup>
    &#9733 51, pushed 261 days ago
   </sup>
-  <br/>
-  Works with Linux namespaces through glibc with pure python.
  </li>
  <li>
   <a href="https://criu.org/Main_Page">
@@ -454,11 +454,11 @@
   <a href="https://github.com/docker/docker-bench-security">
    Docker bench security
   </a>
+  <br/>
+  The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
   <sup>
    &#9733 1313, pushed 3 days ago
   </sup>
-  <br/>
-  The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
  </li>
  <li>
   <a href="https://coreos.com/blog/vulnerability-analysis-for-containers/">
@@ -471,21 +471,21 @@
   <a href="https://github.com/jfrazelle/bane">
    bane
   </a>
+  <br/>
+  Custom AppArmor profile generator for docker containers.
   <sup>
    &#9733 279, pushed 2 days ago
   </sup>
-  <br/>
-  Custom AppArmor profile generator for docker containers.
  </li>
  <li>
   <a href="https://github.com/OpenSCAP/container-compliance">
    OpenSCAP
   </a>
+  <br/>
+  The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
   <sup>
    &#9733 113, pushed 250 days ago
   </sup>
-  <br/>
-  The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
  </li>
 </ul>
 <h3>
@@ -869,11 +869,11 @@
   <a href="https://github.com/draios/sysdig-container-ecosystem">
    sysdig-container-ecosystem
   </a>
+  <br/>
+  The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
   <sup>
    &#9733 50, pushed 28 days ago
   </sup>
-  <br/>
-  The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
  </li>
  <li>
   <a href="http://doger.io/">

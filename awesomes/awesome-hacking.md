@@ -238,19 +238,19 @@
   <a href="https://github.com/rapid7/metasploit-framework">
    Metasploit
   </a>
+  A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
   <sup>
    &#9733 5688, pushed 3 days ago
   </sup>
-  A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  </li>
  <li>
   <a href="https://github.com/gentilkiwi/mimikatz">
    mimikatz
   </a>
+  - A little tool to play with Windows security
   <sup>
    &#9733 1826, pushed 3 days ago
   </sup>
-  - A little tool to play with Windows security
  </li>
 </ul>
 <p>
@@ -318,10 +318,10 @@
   <a href="https://github.com/pxb1988/dex2jar">
    dex2jar
   </a>
+  - Tools to work with android .dex and java .class files
   <sup>
    &#9733 1628, pushed 9 days ago
   </sup>
-  - Tools to work with android .dex and java .class files
  </li>
  <li>
   <a href="http://jd.benow.ca/">
@@ -357,10 +357,10 @@
   <a href="https://github.com/radare/radare2">
    radare2
   </a>
+  - A portable reversing framework
   <sup>
    &#9733 2602, pushed 2 days ago
   </sup>
-  - A portable reversing framework
  </li>
 </ul>
 <p>
@@ -396,10 +396,10 @@
   <a href="https://github.com/sqlmapproject/sqlmap">
    sqlmap
   </a>
+  - Automatic SQL injection and database takeover tool
   <sup>
    &#9733 5899, pushed 4 days ago
   </sup>
-  - Automatic SQL injection and database takeover tool
  </li>
  <li>
   <a href="http://tools.web-max.ca/encode_decode.php">
@@ -451,10 +451,10 @@
   <a href="https://github.com/rafael-santiago/pig">
    pig
   </a>
+  - A Linux packet crafting tool
   <sup>
    &#9733 236, pushed 2 days ago
   </sup>
-  - A Linux packet crafting tool
  </li>
  <li>
   <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">
@@ -472,10 +472,10 @@
   <a href="https://github.com/Akdeniz/mitmsocks4j">
    mitmsocks4j
   </a>
+  - Man in the Middle SOCKS Proxy for JAVA
   <sup>
    &#9733 16, pushed 1174 days ago
   </sup>
-  - Man in the Middle SOCKS Proxy for JAVA
  </li>
  <li>
   <a href="https://nmap.org/">
@@ -519,10 +519,10 @@
   <a href="https://github.com/sleuthkit/sleuthkit">
    sleuthkit
   </a>
+  - A library and collection of command line digital forensics tools
   <sup>
    &#9733 618, pushed 5 days ago
   </sup>
-  - A library and collection of command line digital forensics tools
  </li>
  <li>
   <a href="https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx">
@@ -572,10 +572,10 @@
   <a href="https://github.com/hellman/xortool">
    xortool
   </a>
+  - A tool to analyze multi-byte xor cipher
   <sup>
    &#9733 314, pushed 566 days ago
   </sup>
-  - A tool to analyze multi-byte xor cipher
  </li>
  <li>
   <a href="http://www.openwall.com/john/">

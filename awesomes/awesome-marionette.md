@@ -398,36 +398,36 @@
   <a href="https://github.com/dmytroyarmak/marionette-contact-manager">
    Marionette Contact Manager
   </a>
-  <sup>
-   &#9733 21, pushed 818 days ago
-  </sup>
   - Continuation of development
   <a href="https://github.com/dmytroyarmak/backbone-contact-manager">
    Backbone Contact Manager
   </a>
   but using Marionette.js
+  <sup>
+   &#9733 21, pushed 818 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate">
    Marionette, Require, and Gulp.js Boilerplate
   </a>
-  <sup>
-   &#9733 15, pushed 349 days ago
-  </sup>
   - A Lightweight boilerplate originally project based off
   <a href="https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate">
    Marionette Require Boilerplate
   </a>
   , with Gulp.js integration instead of Grunt.js
+  <sup>
+   &#9733 15, pushed 349 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ajaxray/marionette-boilerplate">
    MarionetteJS + RequireJS + Twitter Bootstrap
   </a>
+  - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
   <sup>
    &#9733 59, pushed 667 days ago
   </sup>
-  - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
  </li>
  <li>
   <a href="https://github.com/davidsulc/marionette-gentle-introduction">

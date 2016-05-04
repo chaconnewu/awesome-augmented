@@ -140,10 +140,10 @@
   <a href="https://github.com/karpathy/neuraltalk">
    neuraltalk
   </a>
+  by Andrej Karpathy : numpy-based RNN/LSTM implementation
   <sup>
    &#9733 3529, pushed 166 days ago
   </sup>
-  by Andrej Karpathy : numpy-based RNN/LSTM implementation
  </li>
  <li>
   <a href="https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf">
@@ -2103,7 +2103,7 @@ Recognition
    Tensorflow - Open source software library for numerical computation using data flow graphs
   </a>
   <sup>
-   &#9733 22733, pushed 0 days ago
+   &#9733 22733, pushed 1 days ago
   </sup>
  </li>
  <li>

@@ -503,10 +503,10 @@
   <a href="https://github.com/jedi4ever/veewee">
    veewee
   </a>
+  Easing the building of vagrant boxes
   <sup>
    &#9733 3909, pushed 4 days ago
   </sup>
-  Easing the building of vagrant boxes
  </li>
 </ul>
 <h2>

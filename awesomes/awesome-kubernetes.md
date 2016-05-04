@@ -600,11 +600,11 @@ released soon.Stay tuned for more updates.
   <a href="https://github.com/kubernetes/dashboard">
    Console
   </a>
+  :
+It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
   <sup>
    &#9733 213, pushed 2 days ago
   </sup>
-  :
-It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
  </li>
  <li>
   <a href="https://www.datadoghq.com/">
@@ -617,33 +617,33 @@ Datadog is a hosted monitoring and metrics platform, with built in support for K
   <a href="https://github.com/kubernetes/heapster">
    Heapster
   </a>
-  <sup>
-   &#9733 640, pushed 4 days ago
-  </sup>
   : 
 Heapster enables Container Cluster Monitoring and Performance Analysis.
 Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
+  <sup>
+   &#9733 640, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kubernetes/kubedash">
    Kubedash
   </a>
-  <sup>
-   &#9733 130, pushed 33 days ago
-  </sup>
   :
 Performance analytics UI for Kubernetes Clusters.
 The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
+  <sup>
+   &#9733 130, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kubernetes/kube-ui">
    Kube-ui
   </a>
+  :
+Container Cluster Manager from Google Web UI
   <sup>
    &#9733 123, pushed 71 days ago
   </sup>
-  :
-Container Cluster Manager from Google Web UI
  </li>
  <li>
   <a href="http://prometheus.io">

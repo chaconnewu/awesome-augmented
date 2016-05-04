@@ -252,10 +252,10 @@
   <a href="https://github.com/englue/meteor-publish-composite">
    reywood:publish-composite
   </a>
+  - publish a set of related documents from various collections using a reactive join
   <sup>
    &#9733 405, pushed 96 days ago
   </sup>
-  - publish a set of related documents from various collections using a reactive join
  </li>
 </ul>
 <h2>
@@ -271,19 +271,19 @@
   <a href="https://github.com/stubailo/meteor-rest">
    simple:rest
   </a>
+  - automatically make your Meteor app accessible over HTTP and DDP alike.
   <sup>
    &#9733 218, pushed 25 days ago
   </sup>
-  - automatically make your Meteor app accessible over HTTP and DDP alike.
  </li>
  <li>
   <a href="https://github.com/kahmali/meteor-restivus">
    nimble:restivus
   </a>
+  - Make REST endpoints for your Meteor app with incredible ease.
   <sup>
    &#9733 387, pushed 20 days ago
   </sup>
-  - Make REST endpoints for your Meteor app with incredible ease.
  </li>
 </ul>
 <h2>
@@ -299,46 +299,46 @@
   <a href="https://github.com/aldeed/meteor-autoform">
    aldeed:autoform
   </a>
+  - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
   <sup>
    &#9733 1262, pushed 17 days ago
   </sup>
-  - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
  </li>
  <li>
   <a href="https://github.com/DispatchMe/meteor-scrollview">
    dispatch:scrollview
   </a>
+  - A high performance infinite scrollview for meteor
   <sup>
    &#9733 21, pushed 211 days ago
   </sup>
-  - A high performance infinite scrollview for meteor
  </li>
  <li>
   <a href="https://github.com/themeteorites/blaze-magic-events">
    themeteorites:blaze-magic-events
   </a>
+  - A new way of binding event handlers to html elements for Meteor's Blaze
   <sup>
    &#9733 22, pushed 94 days ago
   </sup>
-  - A new way of binding event handlers to html elements for Meteor's Blaze
  </li>
  <li>
   <a href="https://github.com/ManuelDeLeon/viewmodel">
    manuel:viewmodel
   </a>
+  - MVVM for Meteor
   <sup>
    &#9733 180, pushed 7 days ago
   </sup>
-  - MVVM for Meteor
  </li>
  <li>
   <a href="https://github.com/dandv/meteor-webix">
    webix:webix
   </a>
+  - Meteor.js - Webix UI integration
   <sup>
    &#9733 317, pushed 159 days ago
   </sup>
-  - Meteor.js - Webix UI integration
  </li>
 </ul>
 <h2>
@@ -354,10 +354,10 @@
   <a href="https://github.com/alanning/meteor-roles">
    alanning:roles
   </a>
+  - Roles support for the built-in accounts packages.
   <sup>
    &#9733 705, pushed 11 days ago
   </sup>
-  - Roles support for the built-in accounts packages.
  </li>
 </ul>
 <h2>
@@ -384,73 +384,73 @@
   <a href="https://github.com/meteorhacks/kadira">
    meteorhacks:kadira
   </a>
+  - Performance Monitoring for Meteor.
   <sup>
    &#9733 159, pushed 53 days ago
   </sup>
-  - Performance Monitoring for Meteor.
  </li>
  <li>
   <a href="https://github.com/arunoda/meteor-up">
    meteor-up
   </a>
+  – Meteor Deployments.
   <sup>
    &#9733 2242, pushed 10 days ago
   </sup>
-  – Meteor Deployments.
  </li>
  <li>
   <a href="https://github.com/davidyaha/meteor-collection2-migrations">
    davidyaha:collection2-migrations
   </a>
+  - Auto DB migrations with collection2 and simple schema on Meteor
   <sup>
    &#9733 30, pushed 52 days ago
   </sup>
-  - Auto DB migrations with collection2 and simple schema on Meteor
  </li>
  <li>
   <a href="https://github.com/percolatestudio/meteor-migrations">
    percolate:migrations
   </a>
+  - Simple migration system for Meteor
   <sup>
    &#9733 165, pushed 12 days ago
   </sup>
-  - Simple migration system for Meteor
  </li>
  <li>
   <a href="https://github.com/kadirahq/fast-render">
    meteorhacks:fast-render
   </a>
+  - Render you app even before the DDP connection is live
   <sup>
    &#9733 550, pushed 2 days ago
   </sup>
-  - Render you app even before the DDP connection is live
  </li>
  <li>
   <a href="https://github.com/meteorhacks/cluster">
    meteorhacks:cluster
   </a>
+  - Clustering solution for Meteor with load balancing and service discovery
   <sup>
    &#9733 571, pushed 19 days ago
   </sup>
-  - Clustering solution for Meteor with load balancing and service discovery
  </li>
  <li>
   <a href="https://github.com/yogiben/meteor-admin">
    yogiben:admin
   </a>
+  - A complete admin dashboard solution
   <sup>
    &#9733 647, pushed 4 days ago
   </sup>
-  - A complete admin dashboard solution
  </li>
  <li>
   <a href="https://github.com/onmodulus/demeteorizer">
    demeteorizer
   </a>
+  - Converts a Meteor app into a "standard" Node.js application
   <sup>
    &#9733 643, pushed 5 days ago
   </sup>
-  - Converts a Meteor app into a "standard" Node.js application
  </li>
  <li>
   <a href="http://allandequeiroz.com/2015/09/27/amazon-auto-scaling-and-meteor/">
@@ -472,19 +472,19 @@
   <a href="https://github.com/iron-meteor/iron-router">
    iron:router
   </a>
+  - A client and server side router designed specifically for Meteor.
   <sup>
    &#9733 1977, pushed 71 days ago
   </sup>
-  - A client and server side router designed specifically for Meteor.
  </li>
  <li>
   <a href="https://github.com/kadirahq/flow-router">
    meteorhacks:flow-router
   </a>
+  - Client Side Router for Meteor.
   <sup>
    &#9733 861, pushed 12 days ago
   </sup>
-  - Client Side Router for Meteor.
  </li>
 </ul>
 <h2>
@@ -500,10 +500,10 @@
   <a href="https://github.com/GroundMeteor/db">
    ground:db
   </a>
+  - GroundDB is a thin layer providing Meteor offline database and methods
   <sup>
    &#9733 448, pushed 27 days ago
   </sup>
-  - GroundDB is a thin layer providing Meteor offline database and methods
  </li>
 </ul>
 <h2>
@@ -536,28 +536,28 @@
   <a href="https://github.com/xolvio/meteor-jasmine">
    sanjo:jasmine
   </a>
-  <sup>
-   &#9733 135, pushed 20 days ago
-  </sup>
   - Run Jasmine tests for all your Meteor code.
+  <sup>
+   &#9733 135, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xolvio/meteor-cucumber">
    xolvio:cucumber
   </a>
+  - Reactive BDD for Meteor using Cucumber.js and Velocity.
   <sup>
    &#9733 107, pushed 196 days ago
   </sup>
-  - Reactive BDD for Meteor using Cucumber.js and Velocity.
  </li>
  <li>
   <a href="https://github.com/meteor-velocity/html-reporter">
    velocity:html-reporter
   </a>
+  - HTML reporter for Meteor velocity testing framework.
   <sup>
    &#9733 25, pushed 32 days ago
   </sup>
-  - HTML reporter for Meteor velocity testing framework.
  </li>
 </ul>
 <h2>
@@ -573,19 +573,19 @@
   <a href="https://github.com/CollectionFS/Meteor-CollectionFS">
    Meteor-CollectionFS
   </a>
+  - Meteor webbased filesystem handling up and downloads.
   <sup>
    &#9733 1002, pushed 64 days ago
   </sup>
-  - Meteor webbased filesystem handling up and downloads.
  </li>
  <li>
   <a href="https://github.com/netanelgilad/meteor-excel">
    netanelgilad:excel
   </a>
+  - Parsing and generating excel files (xlsx, xls).
   <sup>
    &#9733 33, pushed 137 days ago
   </sup>
-  - Parsing and generating excel files (xlsx, xls).
  </li>
 </ul>
 <h2>
@@ -601,46 +601,46 @@
   <a href="https://github.com/percolatestudio/publish-counts">
    tmeasday:publish-counts
   </a>
+  - Publish the count of a cursor, in real time.
   <sup>
    &#9733 157, pushed 129 days ago
   </sup>
-  - Publish the count of a cursor, in real time.
  </li>
  <li>
   <a href="https://github.com/versolearning/find-from-publication">
    percolate:find-from-publication
   </a>
+  - Enable finding all documents that have been published by a given publication.
   <sup>
    &#9733 21, pushed 28 days ago
   </sup>
-  - Enable finding all documents that have been published by a given publication.
  </li>
  <li>
   <a href="https://github.com/meteorhacks/search-source">
    meteorhacks:search-source
   </a>
+  - Reactive Data Source for Search
   <sup>
    &#9733 132, pushed 85 days ago
   </sup>
-  - Reactive Data Source for Search
  </li>
  <li>
   <a href="https://github.com/matteodem/meteor-easy-search">
    matteodem:easy-search
   </a>
+  - Easy-to-use search with Blaze Components (+ Elastic Search Support
   <sup>
    &#9733 380, pushed 3 days ago
   </sup>
-  - Easy-to-use search with Blaze Components (+ Elastic Search Support
  </li>
  <li>
   <a href="https://github.com/alethes/meteor-pages">
    alethes:pages
   </a>
+  - Out of the box Meteor pagination
   <sup>
    &#9733 388, pushed 14 days ago
   </sup>
-  - Out of the box Meteor pagination
  </li>
  <li>
   <a href="https://www.discovermeteor.com/blog/pagination-problems-meteor/">
@@ -661,73 +661,73 @@
   <a href="https://github.com/meteoric/meteor-ionic">
    meteoric:ionic
   </a>
+  - Ionic components for Meteor.
   <sup>
    &#9733 1577, pushed 6 days ago
   </sup>
-  - Ionic components for Meteor.
  </li>
  <li>
   <a href="https://github.com/driftyco/ionic">
    driftyco:ionic
   </a>
+  - Official Ionic support for Meteor.
   <sup>
    &#9733 23599, pushed 3 days ago
   </sup>
-  - Official Ionic support for Meteor.
  </li>
  <li>
   <a href="https://github.com/raix/push">
    raix:push
   </a>
+  - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
   <sup>
    &#9733 331, pushed 2 days ago
   </sup>
-  - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
  </li>
  <li>
   <a href="https://github.com/martijnwalraven/meteor-ios">
    martijnwalraven:meteor-ios
   </a>
+  - Integrates native iOS apps with the Meteor platform through DDP.
   <sup>
    &#9733 706, pushed 11 days ago
   </sup>
-  - Integrates native iOS apps with the Meteor platform through DDP.
  </li>
  <li>
   <a href="https://github.com/delight-im/Android-DDP">
    delight-im/Android-DDP
   </a>
+  - DDP for clients on Android.
   <sup>
    &#9733 199, pushed 23 days ago
   </sup>
-  - DDP for clients on Android.
  </li>
  <li>
   <a href="https://github.com/okland/accounts-phone">
    okland:accounts-phone
   </a>
+  - A login service based on mobile phone number for Meteor.
   <sup>
    &#9733 74, pushed 137 days ago
   </sup>
-  - A login service based on mobile phone number for Meteor.
  </li>
  <li>
   <a href="https://github.com/okland/camera-ui">
    okland:camera-ui
   </a>
+  - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
   <sup>
    &#9733 17, pushed 268 days ago
   </sup>
-  - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
  </li>
  <li>
   <a href="https://github.com/percolatestudio/cordova-plugin-safe-reload">
    percolatestudio/cordova-plugin-safe-reload
   </a>
+  - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
   <sup>
    &#9733 12, pushed 82 days ago
   </sup>
-  - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
  </li>
 </ul>
 <h2>
@@ -759,10 +759,10 @@
   <a href="https://github.com/percolatestudio/meteor-synced-cron">
    percolate:synced-cron
   </a>
+  - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
   <sup>
    &#9733 334, pushed 5 days ago
   </sup>
-  - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
  </li>
 </ul>
 <h2>
@@ -784,19 +784,19 @@
   <a href="https://github.com/msavin/JetSetter">
    msavin:jetsetter
   </a>
+  - Visual Get/Set Tool for Meteor Session Variables.
   <sup>
    &#9733 180, pushed 301 days ago
   </sup>
-  - Visual Get/Set Tool for Meteor Session Variables.
  </li>
  <li>
   <a href="https://github.com/kadirahq/meteor-debug">
    meteorhacks:kadira-debug
   </a>
+  - Full Stack Debugging Solution for Meteor.
   <sup>
    &#9733 132, pushed 41 days ago
   </sup>
-  - Full Stack Debugging Solution for Meteor.
  </li>
  <li>
   <a href="https://github.com/JackAdams/constellation-distro/">
@@ -836,10 +836,10 @@
   <a href="https://github.com/elidoran/cosmos-browserify">
    cosmos:browserify
   </a>
+  - Browserify npm modules for client side in Meteor packages.
   <sup>
    &#9733 76, pushed 70 days ago
   </sup>
-  - Browserify npm modules for client side in Meteor packages.
  </li>
 </ul>
 <h2>
@@ -861,10 +861,10 @@
   <a href="https://github.com/iron-meteor/iron-cli">
    iron-cli
   </a>
+  - A scaffolding command line tool for Meteor applications
   <sup>
    &#9733 631, pushed 23 days ago
   </sup>
-  - A scaffolding command line tool for Meteor applications
  </li>
  <li>
   <a href="https://github.com/Differential/meteor-boilerplate">
@@ -918,46 +918,46 @@
   <a href="https://github.com/TelescopeJS/Telescope">
    Telescope
   </a>
+  - An open-source social news app built with Meteor
   <sup>
    &#9733 4471, pushed 5 days ago
   </sup>
-  - An open-source social news app built with Meteor
  </li>
  <li>
   <a href="https://github.com/DiscoverMeteor/Microscope">
    Microscope
   </a>
+  - The Discover Meteor book's example app
   <sup>
    &#9733 840, pushed 12 days ago
   </sup>
-  - The Discover Meteor book's example app
  </li>
  <li>
   <a href="https://github.com/wekan/wekan">
    Wekan
   </a>
+  - Open source Trello-like kanban
   <sup>
    &#9733 6703, pushed 8 days ago
   </sup>
-  - Open source Trello-like kanban
  </li>
  <li>
   <a href="https://github.com/reactioncommerce/reaction">
    Reaction Commerce
   </a>
+  - Open source Commerce platform developed with Meteor
   <sup>
    &#9733 2260, pushed 2 days ago
   </sup>
-  - Open source Commerce platform developed with Meteor
  </li>
  <li>
   <a href="https://github.com/Crowducate/crowducate-platform">
    Crowducate Platform
   </a>
+  - Open source education platform Powered by meteor
   <sup>
    &#9733 153, pushed 57 days ago
   </sup>
-  - Open source education platform Powered by meteor
  </li>
  <li>
   <a href="http://orionjs.org/">
@@ -989,19 +989,19 @@
   <a href="https://github.com/Urigo/angular-meteor">
    Angular
   </a>
+  - Working with Angular and Meteor
   <sup>
    &#9733 1703, pushed 2 days ago
   </sup>
-  - Working with Angular and Meteor
  </li>
  <li>
   <a href="https://github.com/Urigo/angular2-meteor">
    Angular 2
   </a>
+  - Working with Angular 2 and Meteor
   <sup>
    &#9733 201, pushed 1 days ago
   </sup>
-  - Working with Angular 2 and Meteor
  </li>
  <li>
   <p>
@@ -1016,29 +1016,29 @@
    <a href="https://github.com/frozeman/meteor-build-client">
     frozeman:build-client
    </a>
-   <sup>
-    &#9733 154, pushed 15 days ago
-   </sup>
    - A tool to bundle the client part of a Meteor app.
   </p>
+  <sup>
+   &#9733 154, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mondora/asteroid">
    Asteroid
   </a>
+  - An alternative client for a Meteor backend
   <sup>
    &#9733 526, pushed 70 days ago
   </sup>
-  - An alternative client for a Meteor backend
  </li>
  <li>
   <a href="https://github.com/mondora/ddp.js">
    ddp.js
   </a>
+  - Isomorphic JavaScript DDP client
   <sup>
    &#9733 118, pushed 70 days ago
   </sup>
-  - Isomorphic JavaScript DDP client
  </li>
 </ul>
 <h2>
@@ -1052,28 +1052,28 @@
   <a href="https://github.com/numtel/meteor-pg">
    numtel:pg
   </a>
+  - Reactive PostgreSQL for Meteor
   <sup>
    &#9733 297, pushed 265 days ago
   </sup>
-  - Reactive PostgreSQL for Meteor
  </li>
  <li>
   <a href="https://github.com/numtel/meteor-mysql">
    numtel:mysql
   </a>
+  - Reactive MySQL for Meteor
   <sup>
    &#9733 283, pushed 5 days ago
   </sup>
-  - Reactive MySQL for Meteor
  </li>
  <li>
   <a href="https://github.com/Slava/meteor-rethinkdb">
    simple:rethink
   </a>
+  - RethinkDB integration for Meteor
   <sup>
    &#9733 279, pushed 82 days ago
   </sup>
-  - RethinkDB integration for Meteor
  </li>
 </ul>
 <h1>
@@ -1150,10 +1150,10 @@
   <a href="https://github.com/ericdouglas/Meteor-Learning">
    Meteor Learning
   </a>
+  - List of resources to learn
   <sup>
    &#9733 1238, pushed 34 days ago
   </sup>
-  - List of resources to learn
  </li>
  <li>
   <a href="https://www.yauh.de/best-learning-resources-for-meteorjs/">
