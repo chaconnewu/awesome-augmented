@@ -504,7 +504,7 @@
    275 GitHub links in total 455 links, ★ 3335, pushed 3 days ago
   </sup>
   <sup>
-   &#9733 3335, pushed 3 days ago
+   &#9733 3335, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -3860,7 +3860,7 @@ metadata in media files, including video, audio, and photo formats
    275 GitHub links in total 455 links, ★ 439, pushed 1 days ago
   </sup>
   <sup>
-   &#9733 439, pushed 1 days ago
+   &#9733 439, pushed 2 days ago
   </sup>
  </li>
  <li>

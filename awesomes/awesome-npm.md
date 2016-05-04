@@ -1242,7 +1242,7 @@ $ npm link rainbow
    41 GitHub links in total 106 links, ★ 117, pushed 315 days ago
   </sup>
   <sup>
-   &#9733 117, pushed 315 days ago
+   &#9733 117, pushed 316 days ago
   </sup>
  </li>
 </ul>

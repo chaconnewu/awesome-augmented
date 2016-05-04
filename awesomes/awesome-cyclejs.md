@@ -876,7 +876,7 @@ http://oleg.fi/graafi/
    59 GitHub links in total 85 links, ★ 86, pushed 17 days ago
   </sup>
   <sup>
-   &#9733 86, pushed 17 days ago
+   &#9733 86, pushed 18 days ago
   </sup>
  </li>
  <li>

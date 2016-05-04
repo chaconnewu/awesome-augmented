@@ -165,7 +165,7 @@
    Node.js
   </a>
   <sup>
-   426 GitHub Repo / 614 Total, &#9733 11353, pushed 1 days ago
+   &#9733 11353, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -173,7 +173,7 @@
    Frontend Development
   </a>
   <sup>
-   144 GitHub Repo / 987 Total, &#9733 18696, pushed 1 days ago
+   &#9733 18696, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -181,7 +181,7 @@
    iOS
   </a>
   <sup>
-   1127 GitHub Repo / 1412 Total, &#9733 11176, pushed 4 days ago
+   &#9733 11176, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -189,7 +189,7 @@
    Android
   </a>
   <sup>
-   109 GitHub Repo / 201 Total, &#9733 2328, pushed 9 days ago
+   &#9733 2328, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -197,7 +197,7 @@
    IoT & Hybrid Apps
   </a>
   <sup>
-   4 GitHub Repo / 56 Total, &#9733 186, pushed 89 days ago
+   &#9733 186, pushed 89 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +205,7 @@
    Electron
   </a>
   <sup>
-   144 GitHub Repo / 207 Total, &#9733 5761, pushed 2 days ago
+   &#9733 5761, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -213,7 +213,7 @@
    Cordova
   </a>
   <sup>
-   1 GitHub Repo / 23 Total, &#9733 103, pushed 116 days ago
+   &#9733 103, pushed 116 days ago
   </sup>
  </li>
  <li>
@@ -221,7 +221,7 @@
    React Native
   </a>
   <sup>
-   439 GitHub Repo / 531 Total, &#9733 4339, pushed 2 days ago
+   &#9733 4339, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -229,7 +229,7 @@
    Xamarin
   </a>
   <sup>
-   88 GitHub Repo / 136 Total, &#9733 100, pushed 9 days ago
+   &#9733 100, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -242,12 +242,12 @@
      Containers
     </a>
     <sup>
-     19 GitHub Repo / 88 Total, &#9733 85, pushed 46 days ago
+     &#9733 85, pushed 46 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   10 GitHub Repo / 97 Total, &#9733 331, pushed 2 days ago
+   &#9733 331, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -260,7 +260,7 @@
      Command-Line
     </a>
     <sup>
-     7 GitHub Repo / 110 Total, &#9733 7528, pushed 1 days ago
+     &#9733 7528, pushed 1 days ago
     </sup>
    </li>
    <li>
@@ -268,12 +268,12 @@
      Screensavers
     </a>
     <sup>
-     0 GitHub Repo / 9 Total, &#9733 192, pushed 24 days ago
+     &#9733 192, pushed 24 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   33 GitHub Repo / 270 Total, &#9733 3920, pushed 2 days ago
+   &#9733 3920, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -281,7 +281,7 @@
    watchOS
   </a>
   <sup>
-   19 GitHub Repo / 54 Total, &#9733 162, pushed 76 days ago
+   &#9733 162, pushed 76 days ago
   </sup>
  </li>
  <li>
@@ -289,7 +289,7 @@
    JVM
   </a>
   <sup>
-   69 GitHub Repo / 132 Total, &#9733 122, pushed 4 days ago
+   &#9733 122, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -297,7 +297,7 @@
    Salesforce
   </a>
   <sup>
-   29 GitHub Repo / 101 Total, &#9733 55, pushed 14 days ago
+   &#9733 55, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -305,7 +305,7 @@
    Amazon Web Services
   </a>
   <sup>
-   299 GitHub Repo / 715 Total, &#9733 1859, pushed 4 days ago
+   &#9733 1859, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -313,7 +313,7 @@
    Windows
   </a>
   <sup>
-   4 GitHub Repo / 70 Total, &#9733 63, pushed 54 days ago
+   &#9733 63, pushed 54 days ago
   </sup>
  </li>
  <li>
@@ -321,7 +321,7 @@
    IPFS
   </a>
   <sup>
-   23 GitHub Repo / 46 Total, &#9733 177, pushed 11 days ago
+   &#9733 177, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +329,7 @@
    Fuse
   </a>
   <sup>
-   31 GitHub Repo / 102 Total, &#9733 112, pushed 19 days ago
+   &#9733 112, pushed 19 days ago
   </sup>
  </li>
  <li>
@@ -337,7 +337,7 @@
    Heroku
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 13, pushed 28 days ago
+   &#9733 13, pushed 28 days ago
   </sup>
  </li>
 </ul>
@@ -355,7 +355,7 @@
      Promises
     </a>
     <sup>
-     35 GitHub Repo / 60 Total, &#9733 573, pushed 10 days ago
+     &#9733 573, pushed 10 days ago
     </sup>
    </li>
    <li>
@@ -363,7 +363,7 @@
      Standard Style
     </a>
     <sup>
-     1 GitHub Repo / 33 Total, &#9733 119, pushed 19 days ago
+     &#9733 119, pushed 19 days ago
     </sup>
    </li>
    <li>
@@ -371,7 +371,7 @@
      Must Watch Talks
     </a>
     <sup>
-     0 GitHub Repo / 65 Total, &#9733 10625, pushed 3 days ago
+     &#9733 10625, pushed 3 days ago
     </sup>
    </li>
    <li>
@@ -379,7 +379,7 @@
      Tips
     </a>
     <sup>
-     0 GitHub Repo / 29 Total, &#9733 9516, pushed 6 days ago
+     &#9733 9516, pushed 6 days ago
     </sup>
    </li>
    <li>
@@ -387,7 +387,7 @@
      Network Layer
     </a>
     <sup>
-     52 GitHub Repo / 52 Total, &#9733 218, pushed 45 days ago
+     &#9733 218, pushed 45 days ago
     </sup>
    </li>
    <li>
@@ -395,7 +395,7 @@
      Micro npm Packages
     </a>
     <sup>
-     90 GitHub Repo / 98 Total, &#9733 234, pushed 5 days ago
+     &#9733 234, pushed 5 days ago
     </sup>
    </li>
    <li>
@@ -403,7 +403,7 @@
      Mad Science npm Packages
     </a>
     <sup>
-     6 GitHub Repo / 53 Total, &#9733 452, pushed 69 days ago
+     &#9733 452, pushed 69 days ago
     </sup>
    </li>
    <li>
@@ -412,7 +412,7 @@
     </a>
     - For npm packages
     <sup>
-     0 GitHub Repo / 0 Total, &#9733 230, pushed 104 days ago
+     &#9733 230, pushed 104 days ago
     </sup>
    </li>
    <li>
@@ -420,7 +420,7 @@
      npm
     </a>
     <sup>
-     41 GitHub Repo / 106 Total, &#9733 1710, pushed 11 days ago
+     &#9733 1710, pushed 11 days ago
     </sup>
    </li>
    <li>
@@ -429,7 +429,7 @@
     </a>
     - Test runner
     <sup>
-     15 GitHub Repo / 26 Total, &#9733 99, pushed 1 days ago
+     &#9733 99, pushed 1 days ago
     </sup>
    </li>
    <li>
@@ -437,12 +437,12 @@
      ESLint
     </a>
     <sup>
-     38 GitHub Repo / 55 Total, &#9733 213, pushed 4 days ago
+     &#9733 213, pushed 4 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   486 GitHub Repo / 596 Total, &#9733 5882, pushed 4 days ago
+   &#9733 5882, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -455,7 +455,7 @@
      Education
     </a>
     <sup>
-     209 GitHub Repo / 1653 Total, &#9733 4475, pushed 23 days ago
+     &#9733 4475, pushed 23 days ago
     </sup>
    </li>
    <li>
@@ -463,12 +463,12 @@
      Playgrounds
     </a>
     <sup>
-     90 GitHub Repo / 112 Total, &#9733 406, pushed 10 days ago
+     &#9733 406, pushed 10 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   606 GitHub Repo / 704 Total, &#9733 7959, pushed 3 days ago
+   &#9733 7959, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -476,7 +476,7 @@
    Python
   </a>
   <sup>
-   347 GitHub Repo / 782 Total, &#9733 20412, pushed 3 days ago
+   &#9733 20412, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -484,7 +484,7 @@
    Rust
   </a>
   <sup>
-   243 GitHub Repo / 408 Total, &#9733 2097, pushed 6 days ago
+   &#9733 2097, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -492,7 +492,7 @@
    Haskell
   </a>
   <sup>
-   11 GitHub Repo / 259 Total, &#9733 732, pushed 24 days ago
+   &#9733 732, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -500,7 +500,7 @@
    PureScript
   </a>
   <sup>
-   19 GitHub Repo / 28 Total, &#9733 62, pushed 71 days ago
+   &#9733 62, pushed 71 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +513,7 @@
    Scala
   </a>
   <sup>
-   183 GitHub Repo / 265 Total, &#9733 3388, pushed 5 days ago
+   &#9733 3388, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -526,12 +526,12 @@
      Events
     </a>
     <sup>
-     0 GitHub Repo / 385 Total, &#9733 167, pushed 19 days ago
+     &#9733 167, pushed 19 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   636 GitHub Repo / 862 Total, &#9733 5648, pushed 4 days ago
+   &#9733 5648, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -539,7 +539,7 @@
    Clojure
   </a>
   <sup>
-   99 GitHub Repo / 177 Total, &#9733 683, pushed 12 days ago
+   &#9733 683, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +547,7 @@
    ClojureScript
   </a>
   <sup>
-   69 GitHub Repo / 104 Total, &#9733 250, pushed 42 days ago
+   &#9733 250, pushed 42 days ago
   </sup>
  </li>
  <li>
@@ -555,7 +555,7 @@
    Elixir
   </a>
   <sup>
-   840 GitHub Repo / 967 Total, &#9733 3654, pushed 2 days ago
+   &#9733 3654, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -563,7 +563,7 @@
    Elm
   </a>
   <sup>
-   39 GitHub Repo / 110 Total, &#9733 595, pushed 5 days ago
+   &#9733 595, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -571,7 +571,7 @@
    Erlang
   </a>
   <sup>
-   70 GitHub Repo / 114 Total, &#9733 422, pushed 23 days ago
+   &#9733 422, pushed 23 days ago
   </sup>
  </li>
  <li>
@@ -579,7 +579,7 @@
    Julia
   </a>
   <sup>
-   0 GitHub Repo / 44 Total, &#9733 327, pushed 2 days ago
+   &#9733 327, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -587,7 +587,7 @@
    Lua
   </a>
   <sup>
-   92 GitHub Repo / 215 Total, &#9733 821, pushed 65 days ago
+   &#9733 821, pushed 65 days ago
   </sup>
  </li>
  <li>
@@ -595,7 +595,7 @@
    C
   </a>
   <sup>
-   90 GitHub Repo / 357 Total, &#9733 214, pushed 2 days ago
+   &#9733 214, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -603,7 +603,7 @@
    C/C++
   </a>
   <sup>
-   226 GitHub Repo / 569 Total, &#9733 4935, pushed 2 days ago
+   &#9733 4935, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -611,7 +611,7 @@
    R
   </a>
   <sup>
-   92 GitHub Repo / 362 Total, &#9733 1317, pushed 5 days ago
+   &#9733 1317, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +619,7 @@
    D
   </a>
   <sup>
-   59 GitHub Repo / 171 Total, &#9733 123, pushed 21 days ago
+   &#9733 123, pushed 21 days ago
   </sup>
  </li>
  <li>
@@ -627,7 +627,7 @@
    Common Lisp
   </a>
   <sup>
-   105 GitHub Repo / 185 Total, &#9733 276, pushed 4 days ago
+   &#9733 276, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +635,7 @@
    Perl
   </a>
   <sup>
-   6 GitHub Repo / 237 Total, &#9733 268, pushed 88 days ago
+   &#9733 268, pushed 88 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +643,7 @@
    Groovy
   </a>
   <sup>
-   36 GitHub Repo / 85 Total, &#9733 261, pushed 8 days ago
+   &#9733 261, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -651,7 +651,7 @@
    Dart
   </a>
   <sup>
-   33 GitHub Repo / 79 Total, &#9733 136, pushed 126 days ago
+   &#9733 136, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -664,12 +664,12 @@
      RxJava
     </a>
     <sup>
-     31 GitHub Repo / 42 Total, &#9733 27, pushed 8 days ago
+     &#9733 27, pushed 8 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   109 GitHub Repo / 473 Total, &#9733 6775, pushed 4 days ago
+   &#9733 6775, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -682,7 +682,7 @@
    OCaml
   </a>
   <sup>
-   98 GitHub Repo / 277 Total, &#9733 601, pushed 7 days ago
+   &#9733 601, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -690,7 +690,7 @@
    Coldfusion
   </a>
   <sup>
-   34 GitHub Repo / 80 Total, &#9733 29, pushed 106 days ago
+   &#9733 29, pushed 106 days ago
   </sup>
  </li>
  <li>
@@ -698,7 +698,7 @@
    Fortran
   </a>
   <sup>
-   14 GitHub Repo / 56 Total, &#9733 65, pushed 110 days ago
+   &#9733 65, pushed 110 days ago
   </sup>
  </li>
  <li>
@@ -706,7 +706,7 @@
    .NET
   </a>
   <sup>
-   275 GitHub Repo / 455 Total, &#9733 1717, pushed 3 days ago
+   &#9733 1717, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -714,7 +714,7 @@
    PHP
   </a>
   <sup>
-   390 GitHub Repo / 640 Total, &#9733 11659, pushed 1 days ago
+   &#9733 11659, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -722,7 +722,7 @@
    Delphi
   </a>
   <sup>
-   55 GitHub Repo / 181 Total, &#9733 128, pushed 7 days ago
+   &#9733 128, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +735,7 @@
    AutoHotkey
   </a>
   <sup>
-   31 GitHub Repo / 108 Total, &#9733 234, pushed 12 days ago
+   &#9733 234, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -743,7 +743,7 @@
    AutoIt
   </a>
   <sup>
-   13 GitHub Repo / 323 Total, &#9733 34, pushed 61 days ago
+   &#9733 34, pushed 61 days ago
   </sup>
  </li>
  <li>
@@ -751,7 +751,7 @@
    Crystal
   </a>
   <sup>
-   114 GitHub Repo / 162 Total, &#9733 301, pushed 10 days ago
+   &#9733 301, pushed 10 days ago
   </sup>
  </li>
  <li>
@@ -759,7 +759,7 @@
    TypeScript
   </a>
   <sup>
-   15 GitHub Repo / 51 Total, &#9733 105, pushed 2 days ago
+   &#9733 105, pushed 2 days ago
   </sup>
  </li>
 </ul>
@@ -772,7 +772,7 @@
    ES6 Tools
   </a>
   <sup>
-   110 GitHub Repo / 125 Total, &#9733 3009, pushed 67 days ago
+   &#9733 3009, pushed 67 days ago
   </sup>
  </li>
  <li>
@@ -780,7 +780,7 @@
    Web Performance Optimization
   </a>
   <sup>
-   111 GitHub Repo / 227 Total, &#9733 5366, pushed 14 days ago
+   &#9733 5366, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -788,7 +788,7 @@
    Web Tools
   </a>
   <sup>
-   2 GitHub Repo / 88 Total, &#9733 188, pushed 64 days ago
+   &#9733 188, pushed 64 days ago
   </sup>
  </li>
  <li>
@@ -801,7 +801,7 @@
      Critical-Path Tools
     </a>
     <sup>
-     0 GitHub Repo / 1 Total, &#9733 572, pushed 67 days ago
+     &#9733 572, pushed 67 days ago
     </sup>
    </li>
    <li>
@@ -809,7 +809,7 @@
      Scalability
     </a>
     <sup>
-     1 GitHub Repo / 44 Total, &#9733 1023, pushed 12 days ago
+     &#9733 1023, pushed 12 days ago
     </sup>
    </li>
    <li>
@@ -817,7 +817,7 @@
      Must-Watch Talks
     </a>
     <sup>
-     0 GitHub Repo / 45 Total, &#9733 1997, pushed 63 days ago
+     &#9733 1997, pushed 63 days ago
     </sup>
    </li>
    <li>
@@ -825,12 +825,12 @@
      Protips
     </a>
     <sup>
-     0 GitHub Repo / 27 Total, &#9733 6715, pushed 2 days ago
+     &#9733 6715, pushed 2 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   18 GitHub Repo / 181 Total, &#9733 411, pushed 8 days ago
+   &#9733 411, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -843,12 +843,12 @@
      Relay
     </a>
     <sup>
-     27 GitHub Repo / 80 Total, &#9733 60, pushed 49 days ago
+     &#9733 60, pushed 49 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   404 GitHub Repo / 734 Total, &#9733 13197, pushed 2 days ago
+   &#9733 13197, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -856,7 +856,7 @@
    Web Components
   </a>
   <sup>
-   16 GitHub Repo / 86 Total, &#9733 797, pushed 171 days ago
+   &#9733 797, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -864,7 +864,7 @@
    Polymer
   </a>
   <sup>
-   19 GitHub Repo / 91 Total, &#9733 207, pushed 13 days ago
+   &#9733 207, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -872,7 +872,7 @@
    Angular 2
   </a>
   <sup>
-   25 GitHub Repo / 103 Total, &#9733 1444, pushed 4 days ago
+   &#9733 1444, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +880,7 @@
    Angular
   </a>
   <sup>
-   144 GitHub Repo / 153 Total, &#9733 1490, pushed 7 days ago
+   &#9733 1490, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -888,7 +888,7 @@
    Backbone
   </a>
   <sup>
-   22 GitHub Repo / 111 Total, &#9733 319, pushed 37 days ago
+   &#9733 319, pushed 37 days ago
   </sup>
  </li>
  <li>
@@ -896,7 +896,7 @@
    HTML5
   </a>
   <sup>
-   10 GitHub Repo / 205 Total, &#9733 472, pushed 76 days ago
+   &#9733 472, pushed 76 days ago
   </sup>
  </li>
  <li>
@@ -904,7 +904,7 @@
    SVG
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 2861, pushed 6 days ago
+   &#9733 2861, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -912,7 +912,7 @@
    Canvas
   </a>
   <sup>
-   6 GitHub Repo / 90 Total, &#9733 97, pushed 75 days ago
+   &#9733 97, pushed 75 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +920,7 @@
    KnockoutJS
   </a>
   <sup>
-   31 GitHub Repo / 31 Total, &#9733 36, pushed 1 days ago
+   &#9733 36, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -928,7 +928,7 @@
    Dojo Toolkit
   </a>
   <sup>
-   46 GitHub Repo / 102 Total, &#9733 46, pushed 138 days ago
+   &#9733 46, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -936,7 +936,7 @@
    Inspiration
   </a>
   <sup>
-   1 GitHub Repo / 67 Total, &#9733 372, pushed 146 days ago
+   &#9733 372, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -944,7 +944,7 @@
    Ember
   </a>
   <sup>
-   5 GitHub Repo / 56 Total, &#9733 125, pushed 17 days ago
+   &#9733 125, pushed 17 days ago
   </sup>
  </li>
  <li>
@@ -952,7 +952,7 @@
    Android UI
   </a>
   <sup>
-   2 GitHub Repo / 20 Total, &#9733 13918, pushed 5 days ago
+   &#9733 13918, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -960,7 +960,7 @@
    iOS UI
   </a>
   <sup>
-   0 GitHub Repo / 14 Total, &#9733 7875, pushed 5 days ago
+   &#9733 7875, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -968,7 +968,7 @@
    Meteor
   </a>
   <sup>
-   74 GitHub Repo / 163 Total, &#9733 547, pushed 30 days ago
+   &#9733 547, pushed 30 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +976,7 @@
    BEM
   </a>
   <sup>
-   5 GitHub Repo / 54 Total, &#9733 147, pushed 31 days ago
+   &#9733 147, pushed 31 days ago
   </sup>
  </li>
  <li>
@@ -984,7 +984,7 @@
    Flexbox
   </a>
   <sup>
-   5 GitHub Repo / 62 Total, &#9733 340, pushed 19 days ago
+   &#9733 340, pushed 19 days ago
   </sup>
  </li>
  <li>
@@ -992,7 +992,7 @@
    Web Typography
   </a>
   <sup>
-   3 GitHub Repo / 53 Total, &#9733 144, pushed 13 days ago
+   &#9733 144, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -1000,7 +1000,7 @@
    Web Accessibility
   </a>
   <sup>
-   2 GitHub Repo / 117 Total, &#9733 126, pushed 22 days ago
+   &#9733 126, pushed 22 days ago
   </sup>
  </li>
  <li>
@@ -1008,7 +1008,7 @@
    Material Design
   </a>
   <sup>
-   37 GitHub Repo / 43 Total, &#9733 337, pushed 103 days ago
+   &#9733 337, pushed 103 days ago
   </sup>
  </li>
  <li>
@@ -1016,7 +1016,7 @@
    D3
   </a>
   <sup>
-   59 GitHub Repo / 107 Total, &#9733 2786, pushed 8 days ago
+   &#9733 2786, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1024,7 +1024,7 @@
    Emails
   </a>
   <sup>
-   10 GitHub Repo / 56 Total, &#9733 78, pushed 12 days ago
+   &#9733 78, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -1037,12 +1037,12 @@
      Tips
     </a>
     <sup>
-     0 GitHub Repo / 26 Total, &#9733 3683, pushed 1 days ago
+     &#9733 3683, pushed 1 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   99 GitHub Repo / 152 Total, &#9733 188, pushed 8 days ago
+   &#9733 188, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1050,7 +1050,7 @@
    Web Audio
   </a>
   <sup>
-   28 GitHub Repo / 35 Total, &#9733 149, pushed 23 days ago
+   &#9733 149, pushed 23 days ago
   </sup>
  </li>
  <li>
@@ -1058,7 +1058,7 @@
    Offline-First
   </a>
   <sup>
-   0 GitHub Repo / 17 Total, &#9733 1410, pushed 1 days ago
+   &#9733 1410, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -1066,7 +1066,7 @@
    Static Website Services
   </a>
   <sup>
-   12 GitHub Repo / 139 Total, &#9733 178, pushed 8 days ago
+   &#9733 178, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1075,7 +1075,7 @@
   </a>
   - Virtual reality
   <sup>
-   40 GitHub Repo / 136 Total, &#9733 228, pushed 4 days ago
+   &#9733 228, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1083,7 +1083,7 @@
    Cycle.js
   </a>
   <sup>
-   59 GitHub Repo / 85 Total, &#9733 315, pushed 5 days ago
+   &#9733 315, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1091,7 +1091,7 @@
    Text Editing
   </a>
   <sup>
-   8 GitHub Repo / 35 Total, &#9733 8, pushed 55 days ago
+   &#9733 8, pushed 55 days ago
   </sup>
  </li>
  <li>
@@ -1099,7 +1099,7 @@
    Motion UI Design
   </a>
   <sup>
-   5 GitHub Repo / 147 Total, &#9733 244, pushed 33 days ago
+   &#9733 244, pushed 33 days ago
   </sup>
  </li>
  <li>
@@ -1107,7 +1107,7 @@
    Vue.js
   </a>
   <sup>
-   144 GitHub Repo / 304 Total, &#9733 2411, pushed 3 days ago
+   &#9733 2411, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1115,7 +1115,7 @@
    Marionette.js
   </a>
   <sup>
-   15 GitHub Repo / 67 Total, &#9733 104, pushed 25 days ago
+   &#9733 104, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -1123,7 +1123,7 @@
    Aurelia
   </a>
   <sup>
-   33 GitHub Repo / 107 Total, &#9733 20, pushed 5 days ago
+   &#9733 20, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1131,7 +1131,7 @@
    Charting
   </a>
   <sup>
-   14 GitHub Repo / 47 Total, &#9733 560, pushed 9 days ago
+   &#9733 560, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -1139,7 +1139,7 @@
    Ionic Framework 2
   </a>
   <sup>
-   3 GitHub Repo / 57 Total, &#9733 50, pushed 3 days ago
+   &#9733 50, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1147,7 +1147,7 @@
    Chrome DevTools
   </a>
   <sup>
-   24 GitHub Repo / 48 Total, &#9733 1354, pushed 14 days ago
+   &#9733 1354, pushed 14 days ago
   </sup>
  </li>
 </ul>
@@ -1160,7 +1160,7 @@
    Django
   </a>
   <sup>
-   251 GitHub Repo / 352 Total, &#9733 3650, pushed 25 days ago
+   &#9733 3650, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -1168,7 +1168,7 @@
    Flask
   </a>
   <sup>
-   140 GitHub Repo / 196 Total, &#9733 2367, pushed 13 days ago
+   &#9733 2367, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -1176,7 +1176,7 @@
    Docker
   </a>
   <sup>
-   159 GitHub Repo / 455 Total, &#9733 3116, pushed 2 days ago
+   &#9733 3116, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -1184,7 +1184,7 @@
    Vagrant
   </a>
   <sup>
-   14 GitHub Repo / 46 Total, &#9733 177, pushed 68 days ago
+   &#9733 177, pushed 68 days ago
   </sup>
  </li>
  <li>
@@ -1192,7 +1192,7 @@
    Pyramid
   </a>
   <sup>
-   89 GitHub Repo / 138 Total, &#9733 248, pushed 1 days ago
+   &#9733 248, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -1200,7 +1200,7 @@
    Play1 Framework
   </a>
   <sup>
-   5 GitHub Repo / 139 Total, &#9733 23, pushed 113 days ago
+   &#9733 23, pushed 113 days ago
   </sup>
  </li>
  <li>
@@ -1208,7 +1208,7 @@
    CakePHP
   </a>
   <sup>
-   143 GitHub Repo / 237 Total, &#9733 393, pushed 5 days ago
+   &#9733 393, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1221,12 +1221,12 @@
      Education
     </a>
     <sup>
-     0 GitHub Repo / 44 Total, &#9733 131, pushed 51 days ago
+     &#9733 131, pushed 51 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   228 GitHub Repo / 283 Total, &#9733 697, pushed 3 days ago
+   &#9733 697, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1241,7 +1241,7 @@
    </li>
   </ul>
   <sup>
-   132 GitHub Repo / 366 Total, &#9733 2725, pushed 4 days ago
+   &#9733 2725, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1254,12 +1254,12 @@
      Gems
     </a>
     <sup>
-     134 GitHub Repo / 168 Total, &#9733 1621, pushed 33 days ago
+     &#9733 1621, pushed 34 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   1 GitHub Repo / 21 Total, &#9733 829, pushed 48 days ago
+   &#9733 829, pushed 48 days ago
   </sup>
  </li>
  <li>
@@ -1267,7 +1267,7 @@
    Phalcon
   </a>
   <sup>
-   108 GitHub Repo / 161 Total, &#9733 181, pushed 13 days ago
+   &#9733 181, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -1279,7 +1279,7 @@
    Snippets
   </a>
   <sup>
-   0 GitHub Repo / 42 Total, &#9733 9219, pushed 27 days ago
+   &#9733 9219, pushed 27 days ago
   </sup>
  </li>
  <li>
@@ -1287,7 +1287,7 @@
    nginx
   </a>
   <sup>
-   7 GitHub Repo / 88 Total, &#9733 1628, pushed 66 days ago
+   &#9733 1628, pushed 66 days ago
   </sup>
  </li>
  <li>
@@ -1295,7 +1295,7 @@
    Dropwizard
   </a>
   <sup>
-   17 GitHub Repo / 37 Total, &#9733 12, pushed 7 days ago
+   &#9733 12, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -1303,7 +1303,7 @@
    Kubernetes
   </a>
   <sup>
-   4 GitHub Repo / 136 Total, &#9733 149, pushed 26 days ago
+   &#9733 149, pushed 26 days ago
   </sup>
  </li>
  <li>
@@ -1311,7 +1311,7 @@
    Lumen
   </a>
   <sup>
-   21 GitHub Repo / 56 Total, &#9733 62, pushed 37 days ago
+   &#9733 62, pushed 37 days ago
   </sup>
  </li>
 </ul>
@@ -1324,7 +1324,7 @@
    University Courses
   </a>
   <sup>
-   6 GitHub Repo / 795 Total, &#9733 14954, pushed 14 days ago
+   &#9733 14954, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1332,7 +1332,7 @@
    Data Science
   </a>
   <sup>
-   15 GitHub Repo / 361 Total, &#9733 2359, pushed 8 days ago
+   &#9733 2359, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1345,12 +1345,12 @@
      Tutorials
     </a>
     <sup>
-     19 GitHub Repo / 352 Total, &#9733 2204, pushed 79 days ago
+     &#9733 2204, pushed 79 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   377 GitHub Repo / 753 Total, &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1363,12 +1363,12 @@
      Spanish
     </a>
     <sup>
-     5 GitHub Repo / 50 Total, &#9733 46, pushed 145 days ago
+     &#9733 46, pushed 145 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 1193, pushed 106 days ago
+   &#9733 1193, pushed 106 days ago
   </sup>
  </li>
  <li>
@@ -1376,7 +1376,7 @@
    Linguistics
   </a>
   <sup>
-   2 GitHub Repo / 33 Total, &#9733 40, pushed 270 days ago
+   &#9733 40, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -1384,7 +1384,7 @@
    Cryptography
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 1544, pushed 191 days ago
+   &#9733 1544, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -1392,7 +1392,7 @@
    Computer Vision
   </a>
   <sup>
-   24 GitHub Repo / 438 Total, &#9733 1254, pushed 46 days ago
+   &#9733 1254, pushed 46 days ago
   </sup>
  </li>
  <li>
@@ -1406,12 +1406,12 @@
      TensorFlow
     </a>
     <sup>
-     13 GitHub Repo / 36 Total, &#9733 27, pushed 8 days ago
+     &#9733 27, pushed 8 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   41 GitHub Repo / 397 Total, &#9733 1922, pushed 8 days ago
+   &#9733 1922, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1419,7 +1419,7 @@
    Deep Vision
   </a>
   <sup>
-   7 GitHub Repo / 249 Total, &#9733 1273, pushed 8 days ago
+   &#9733 1273, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1427,7 +1427,7 @@
    Open Source Society University
   </a>
   <sup>
-   3 GitHub Repo / 64 Total, &#9733 13722, pushed 9 days ago
+   &#9733 13722, pushed 9 days ago
   </sup>
  </li>
  <li>
@@ -1435,7 +1435,7 @@
    Functional Programming
   </a>
   <sup>
-   5 GitHub Repo / 58 Total, &#9733 115, pushed 64 days ago
+   &#9733 115, pushed 64 days ago
   </sup>
  </li>
  <li>
@@ -1443,7 +1443,7 @@
    Static Analysis & Code Quality
   </a>
   <sup>
-   83 GitHub Repo / 136 Total, &#9733 76, pushed 5 days ago
+   &#9733 76, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1451,7 +1451,7 @@
    Software-Defined Networking
   </a>
   <sup>
-   16 GitHub Repo / 66 Total, &#9733 20, pushed 48 days ago
+   &#9733 20, pushed 48 days ago
   </sup>
  </li>
 </ul>
@@ -1464,7 +1464,7 @@
    Big Data
   </a>
   <sup>
-   96 GitHub Repo / 480 Total, &#9733 3106, pushed 12 days ago
+   &#9733 3106, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -1472,7 +1472,7 @@
    Public Datasets
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 13887, pushed 6 days ago
+   &#9733 13887, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -1480,7 +1480,7 @@
    Hadoop
   </a>
   <sup>
-   51 GitHub Repo / 236 Total, &#9733 325, pushed 3 days ago
+   &#9733 325, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1488,7 +1488,7 @@
    Data Engineering
   </a>
   <sup>
-   62 GitHub Repo / 172 Total, &#9733 467, pushed 24 days ago
+   &#9733 467, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -1496,7 +1496,7 @@
    Streaming
   </a>
   <sup>
-   33 GitHub Repo / 63 Total, &#9733 45, pushed 9 days ago
+   &#9733 45, pushed 9 days ago
   </sup>
  </li>
 </ul>
@@ -1509,7 +1509,7 @@
    Papers We Love
   </a>
   <sup>
-   1 GitHub Repo / 58 Total, &#9733 16161, pushed 12 days ago
+   &#9733 16161, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -1517,7 +1517,7 @@
    Talks
   </a>
   <sup>
-   0 GitHub Repo / 87 Total, &#9733 1167, pushed 23 days ago
+   &#9733 1167, pushed 23 days ago
   </sup>
  </li>
  <li>
@@ -1525,7 +1525,7 @@
    Algorithms
   </a>
   <sup>
-   32 GitHub Repo / 97 Total, &#9733 1434, pushed 14 days ago
+   &#9733 1434, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1533,7 +1533,7 @@
    Algorithm Visualizations
   </a>
   <sup>
-   0 GitHub Repo / 41 Total, &#9733 500, pushed 93 days ago
+   &#9733 500, pushed 93 days ago
   </sup>
  </li>
  <li>
@@ -1541,7 +1541,7 @@
    Artificial Intelligence
   </a>
   <sup>
-   1 GitHub Repo / 112 Total, &#9733 1518, pushed 27 days ago
+   &#9733 1518, pushed 27 days ago
   </sup>
  </li>
  <li>
@@ -1549,7 +1549,7 @@
    Search Engine Optimization
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 222, pushed 65 days ago
+   &#9733 222, pushed 65 days ago
   </sup>
  </li>
  <li>
@@ -1557,7 +1557,7 @@
    Competitive Programming
   </a>
   <sup>
-   10 GitHub Repo / 155 Total, &#9733 139, pushed 27 days ago
+   &#9733 139, pushed 27 days ago
   </sup>
  </li>
  <li>
@@ -1565,7 +1565,7 @@
    Math
   </a>
   <sup>
-   0 GitHub Repo / 199 Total, &#9733 151, pushed 7 days ago
+   &#9733 151, pushed 7 days ago
   </sup>
  </li>
 </ul>
@@ -1578,7 +1578,7 @@
    Free Programming Books
   </a>
   <sup>
-   0 GitHub Repo / 36 Total, &#9733 54405, pushed 3 days ago
+   &#9733 54405, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1591,7 +1591,7 @@
    Go Books
   </a>
   <sup>
-   0 GitHub Repo / 5 Total, &#9733 2107, pushed 39 days ago
+   &#9733 2107, pushed 39 days ago
   </sup>
  </li>
  <li>
@@ -1599,7 +1599,7 @@
    R Books
   </a>
   <sup>
-   0 GitHub Repo / 9 Total, &#9733 29, pushed 5 days ago
+   &#9733 29, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1607,7 +1607,7 @@
    Mind Expanding Books
   </a>
   <sup>
-   0 GitHub Repo / 256 Total, &#9733 344, pushed 18 days ago
+   &#9733 344, pushed 18 days ago
   </sup>
  </li>
  <li>
@@ -1615,7 +1615,7 @@
    Book Authoring
   </a>
   <sup>
-   0 GitHub Repo / 51 Total, &#9733 2, pushed 2 days ago
+   &#9733 2, pushed 2 days ago
   </sup>
  </li>
 </ul>
@@ -1628,7 +1628,7 @@
    Sublime Text
   </a>
   <sup>
-   48 GitHub Repo / 97 Total, &#9733 380, pushed 81 days ago
+   &#9733 380, pushed 81 days ago
   </sup>
  </li>
  <li>
@@ -1636,7 +1636,7 @@
    Vim
   </a>
   <sup>
-   20 GitHub Repo / 154 Total, &#9733 4633, pushed 10 days ago
+   &#9733 4633, pushed 10 days ago
   </sup>
  </li>
  <li>
@@ -1644,7 +1644,7 @@
    Emacs
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 1774, pushed 2 days ago
+   &#9733 1774, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -1652,7 +1652,7 @@
    Atom
   </a>
   <sup>
-   0 GitHub Repo / 40 Total, &#9733 326, pushed 4 days ago
+   &#9733 326, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1660,7 +1660,7 @@
    Visual Studio Code
   </a>
   <sup>
-   2 GitHub Repo / 76 Total, &#9733 114, pushed 10 days ago
+   &#9733 114, pushed 10 days ago
   </sup>
  </li>
 </ul>
@@ -1673,7 +1673,7 @@
    Game Development
   </a>
   <sup>
-   22 GitHub Repo / 303 Total, &#9733 2890, pushed 39 days ago
+   &#9733 2890, pushed 39 days ago
   </sup>
  </li>
  <li>
@@ -1681,7 +1681,7 @@
    Game Talks
   </a>
   <sup>
-   0 GitHub Repo / 128 Total, &#9733 274, pushed 34 days ago
+   &#9733 274, pushed 34 days ago
   </sup>
  </li>
  <li>
@@ -1690,7 +1690,7 @@
   </a>
   - Game engine
   <sup>
-   47 GitHub Repo / 64 Total, &#9733 131, pushed 22 days ago
+   &#9733 131, pushed 22 days ago
   </sup>
  </li>
  <li>
@@ -1698,7 +1698,7 @@
    Open Source Games
   </a>
   <sup>
-   328 GitHub Repo / 366 Total, &#9733 2592, pushed 18 days ago
+   &#9733 2592, pushed 18 days ago
   </sup>
  </li>
  <li>
@@ -1707,7 +1707,7 @@
   </a>
   - Game engine
   <sup>
-   8 GitHub Repo / 69 Total, &#9733 536, pushed 5 days ago
+   &#9733 536, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1715,7 +1715,7 @@
    Chess
   </a>
   <sup>
-   11 GitHub Repo / 50 Total, &#9733 19, pushed 11 days ago
+   &#9733 19, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -1730,7 +1730,7 @@
   </a>
   - Fantasy console
   <sup>
-   6 GitHub Repo / 35 Total, &#9733 88, pushed 33 days ago
+   &#9733 88, pushed 33 days ago
   </sup>
  </li>
 </ul>
@@ -1744,7 +1744,7 @@
   </a>
   - OS X
   <sup>
-   0 GitHub Repo / 4 Total, &#9733 5950, pushed 4 days ago
+   &#9733 5950, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1752,7 +1752,7 @@
    Dev Env
   </a>
   <sup>
-   59 GitHub Repo / 96 Total, &#9733 388, pushed 14 days ago
+   &#9733 388, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1760,7 +1760,7 @@
    Dotfiles
   </a>
   <sup>
-   18 GitHub Repo / 47 Total, &#9733 1061, pushed 8 days ago
+   &#9733 1061, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -1768,7 +1768,7 @@
    Shell
   </a>
   <sup>
-   138 GitHub Repo / 160 Total, &#9733 6673, pushed 17 days ago
+   &#9733 6673, pushed 17 days ago
   </sup>
  </li>
  <li>
@@ -1776,7 +1776,7 @@
    Command-Line Apps
   </a>
   <sup>
-   134 GitHub Repo / 174 Total, &#9733 398, pushed 7 days ago
+   &#9733 398, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -1784,7 +1784,7 @@
    ZSH Plugins
   </a>
   <sup>
-   276 GitHub Repo / 359 Total, &#9733 1464, pushed 3 days ago
+   &#9733 1464, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -1797,7 +1797,7 @@
      Browser Extensions
     </a>
     <sup>
-     0 GitHub Repo / 31 Total, &#9733 450, pushed 3 days ago
+     &#9733 450, pushed 3 days ago
     </sup>
    </li>
    <li>
@@ -1805,12 +1805,12 @@
      Cheat Sheet
     </a>
     <sup>
-     0 GitHub Repo / 96 Total, &#9733 18492, pushed 27 days ago
+     &#9733 18492, pushed 27 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   29 GitHub Repo / 61 Total, &#9733 187, pushed 44 days ago
+   &#9733 187, pushed 44 days ago
   </sup>
  </li>
  <li>
@@ -1818,7 +1818,7 @@
    Git Cheat Sheet & Git Flow
   </a>
   <sup>
-   0 GitHub Repo / 22 Total, &#9733 1138, pushed 50 days ago
+   &#9733 1138, pushed 50 days ago
   </sup>
  </li>
  <li>
@@ -1826,7 +1826,7 @@
    Git Tips
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 515, pushed 4 days ago
+   &#9733 515, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -1834,7 +1834,7 @@
    Git Add-ons
   </a>
   <sup>
-   0 GitHub Repo / 38 Total, &#9733 227, pushed 10 days ago
+   &#9733 227, pushed 10 days ago
   </sup>
  </li>
  <li>
@@ -1842,7 +1842,7 @@
    SSH
   </a>
   <sup>
-   45 GitHub Repo / 100 Total, &#9733 315, pushed 46 days ago
+   &#9733 315, pushed 46 days ago
   </sup>
  </li>
  <li>
@@ -1850,7 +1850,7 @@
    FOSS for Developers
   </a>
   <sup>
-   17 GitHub Repo / 32 Total, &#9733 115, pushed 54 days ago
+   &#9733 115, pushed 54 days ago
   </sup>
  </li>
 </ul>
@@ -1864,7 +1864,7 @@
   </a>
   - Scifi
   <sup>
-   0 GitHub Repo / 23 Total, &#9733 997, pushed 14 days ago
+   &#9733 997, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1872,7 +1872,7 @@
    Fantasy
   </a>
   <sup>
-   0 GitHub Repo / 19 Total, &#9733 167, pushed 75 days ago
+   &#9733 167, pushed 75 days ago
   </sup>
  </li>
  <li>
@@ -1880,7 +1880,7 @@
    Podcasts
   </a>
   <sup>
-   1 GitHub Repo / 136 Total, &#9733 602, pushed 15 days ago
+   &#9733 602, pushed 15 days ago
   </sup>
  </li>
  <li>
@@ -1888,7 +1888,7 @@
    Email Newsletters
   </a>
   <sup>
-   0 GitHub Repo / 122 Total, &#9733 293, pushed 20 days ago
+   &#9733 293, pushed 20 days ago
   </sup>
  </li>
 </ul>
@@ -1901,7 +1901,7 @@
    Database
   </a>
   <sup>
-   41 GitHub Repo / 48 Total, &#9733 209, pushed 30 days ago
+   &#9733 209, pushed 30 days ago
   </sup>
  </li>
  <li>
@@ -1914,7 +1914,7 @@
    SQLAlchemy
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 1106, pushed 30 days ago
+   &#9733 1106, pushed 30 days ago
   </sup>
  </li>
  <li>
@@ -1922,7 +1922,7 @@
    InfluxDB
   </a>
   <sup>
-   89 GitHub Repo / 94 Total, &#9733 98, pushed 24 days ago
+   &#9733 98, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -1930,7 +1930,7 @@
    Neo4j
   </a>
   <sup>
-   64 GitHub Repo / 118 Total, &#9733 73, pushed 11 days ago
+   &#9733 73, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -1939,7 +1939,7 @@
   </a>
   - PHP ORM
   <sup>
-   11 GitHub Repo / 36 Total, &#9733 91, pushed 22 days ago
+   &#9733 91, pushed 22 days ago
   </sup>
  </li>
  <li>
@@ -1947,7 +1947,7 @@
    MongoDB
   </a>
   <sup>
-   82 GitHub Repo / 134 Total, &#9733 200, pushed 6 days ago
+   &#9733 200, pushed 6 days ago
   </sup>
  </li>
 </ul>
@@ -1960,7 +1960,7 @@
    Creative Commons Media
   </a>
   <sup>
-   1 GitHub Repo / 53 Total, &#9733 109, pushed 102 days ago
+   &#9733 109, pushed 102 days ago
   </sup>
  </li>
  <li>
@@ -1968,7 +1968,7 @@
    Fonts
   </a>
   <sup>
-   40 GitHub Repo / 75 Total, &#9733 115, pushed 47 days ago
+   &#9733 115, pushed 47 days ago
   </sup>
  </li>
  <li>
@@ -1977,7 +1977,7 @@
   </a>
   - Text editor fonts
   <sup>
-   0 GitHub Repo / 8 Total, &#9733 3139, pushed 28 days ago
+   &#9733 3139, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -1985,7 +1985,7 @@
    Stock Resources
   </a>
   <sup>
-   4 GitHub Repo / 191 Total, &#9733 5175, pushed 14 days ago
+   &#9733 5175, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -1993,7 +1993,7 @@
    GIF
   </a>
   <sup>
-   71 GitHub Repo / 122 Total, &#9733 90, pushed 83 days ago
+   &#9733 90, pushed 83 days ago
   </sup>
  </li>
  <li>
@@ -2001,7 +2001,7 @@
    Music
   </a>
   <sup>
-   32 GitHub Repo / 81 Total, &#9733 84, pushed 38 days ago
+   &#9733 84, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -2014,7 +2014,7 @@
    Audio Visualization
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 258, pushed 3 days ago
+   &#9733 258, pushed 3 days ago
   </sup>
  </li>
 </ul>
@@ -2028,7 +2028,7 @@
   </a>
   - Interactive tutorials
   <sup>
-   0 GitHub Repo / 9 Total, &#9733 128, pushed 88 days ago
+   &#9733 128, pushed 88 days ago
   </sup>
  </li>
  <li>
@@ -2036,7 +2036,7 @@
    Learn to Program
   </a>
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 174, pushed 6 days ago
+   &#9733 174, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2044,7 +2044,7 @@
    Speaking
   </a>
   <sup>
-   3 GitHub Repo / 21 Total, &#9733 360, pushed 112 days ago
+   &#9733 360, pushed 112 days ago
   </sup>
  </li>
  <li>
@@ -2052,7 +2052,7 @@
    Tech Videos
   </a>
   <sup>
-   0 GitHub Repo / 98 Total, &#9733 116, pushed 115 days ago
+   &#9733 116, pushed 115 days ago
   </sup>
  </li>
  <li>
@@ -2060,7 +2060,7 @@
    Dive into Machine Learning
   </a>
   <sup>
-   5 GitHub Repo / 90 Total, &#9733 5160, pushed 5 days ago
+   &#9733 5160, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2068,7 +2068,7 @@
    Computer History
   </a>
   <sup>
-   0 GitHub Repo / 70 Total, &#9733 588, pushed 21 days ago
+   &#9733 588, pushed 21 days ago
   </sup>
  </li>
 </ul>
@@ -2081,7 +2081,7 @@
    Application Security
   </a>
   <sup>
-   0 GitHub Repo / 105 Total, &#9733 1668, pushed 24 days ago
+   &#9733 1668, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -2089,7 +2089,7 @@
    Security
   </a>
   <sup>
-   36 GitHub Repo / 110 Total, &#9733 523, pushed 50 days ago
+   &#9733 523, pushed 50 days ago
   </sup>
  </li>
  <li>
@@ -2098,7 +2098,7 @@
   </a>
   - Capture The Flag
   <sup>
-   29 GitHub Repo / 110 Total, &#9733 421, pushed 34 days ago
+   &#9733 421, pushed 34 days ago
   </sup>
  </li>
  <li>
@@ -2106,7 +2106,7 @@
    Malware Analysis
   </a>
   <sup>
-   104 GitHub Repo / 295 Total, &#9733 968, pushed 6 days ago
+   &#9733 968, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2114,7 +2114,7 @@
    Android Security
   </a>
   <sup>
-   55 GitHub Repo / 129 Total, &#9733 1007, pushed 5 days ago
+   &#9733 1007, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2122,7 +2122,7 @@
    Hacking
   </a>
   <sup>
-   9 GitHub Repo / 99 Total, &#9733 510, pushed 12 days ago
+   &#9733 510, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -2130,7 +2130,7 @@
    Honeypots
   </a>
   <sup>
-   100 GitHub Repo / 332 Total, &#9733 604, pushed 47 days ago
+   &#9733 604, pushed 47 days ago
   </sup>
  </li>
  <li>
@@ -2138,7 +2138,7 @@
    Incident Response
   </a>
   <sup>
-   35 GitHub Repo / 103 Total, &#9733 471, pushed 11 days ago
+   &#9733 471, pushed 11 days ago
   </sup>
  </li>
 </ul>
@@ -2151,7 +2151,7 @@
    Umbraco
   </a>
   <sup>
-   1 GitHub Repo / 37 Total, &#9733 52, pushed 67 days ago
+   &#9733 52, pushed 67 days ago
   </sup>
  </li>
  <li>
@@ -2159,7 +2159,7 @@
    Refinery CMS
   </a>
   <sup>
-   27 GitHub Repo / 31 Total, &#9733 10, pushed 26 days ago
+   &#9733 10, pushed 26 days ago
   </sup>
  </li>
 </ul>
@@ -2172,7 +2172,7 @@
    JSON
   </a>
   <sup>
-   52 GitHub Repo / 169 Total, &#9733 306, pushed 25 days ago
+   &#9733 306, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -2190,12 +2190,12 @@
      Communities
     </a>
     <sup>
-     2 GitHub Repo / 46 Total, &#9733 133, pushed 48 days ago
+     &#9733 133, pushed 48 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   2 GitHub Repo / 46 Total, &#9733 218, pushed 104 days ago
+   &#9733 218, pushed 104 days ago
   </sup>
  </li>
  <li>
@@ -2203,7 +2203,7 @@
    Conferences
   </a>
   <sup>
-   6 GitHub Repo / 172 Total, &#9733 407, pushed 34 days ago
+   &#9733 407, pushed 34 days ago
   </sup>
  </li>
  <li>
@@ -2211,7 +2211,7 @@
    GeoJSON
   </a>
   <sup>
-   45 GitHub Repo / 59 Total, &#9733 270, pushed 66 days ago
+   &#9733 270, pushed 66 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2219,7 @@
    Sysadmin
   </a>
   <sup>
-   46 GitHub Repo / 448 Total, &#9733 3496, pushed 4 days ago
+   &#9733 3496, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -2227,7 +2227,7 @@
    Radio
   </a>
   <sup>
-   0 GitHub Repo / 33 Total, &#9733 73, pushed 270 days ago
+   &#9733 73, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -2235,7 +2235,7 @@
    Awesome
   </a>
   <sup>
-   298 GitHub Repo / 323 Total, &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -2243,7 +2243,7 @@
    Analytics
   </a>
   <sup>
-   6 GitHub Repo / 93 Total, &#9733 334, pushed 14 days ago
+   &#9733 334, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -2251,7 +2251,7 @@
    Open Companies
   </a>
   <sup>
-   0 GitHub Repo / 24 Total, &#9733 93, pushed 119 days ago
+   &#9733 93, pushed 119 days ago
   </sup>
  </li>
  <li>
@@ -2259,7 +2259,7 @@
    REST
   </a>
   <sup>
-   57 GitHub Repo / 131 Total, &#9733 636, pushed 13 days ago
+   &#9733 636, pushed 13 days ago
   </sup>
  </li>
  <li>
@@ -2267,7 +2267,7 @@
    Selenium
   </a>
   <sup>
-   12 GitHub Repo / 51 Total, &#9733 99, pushed 28 days ago
+   &#9733 99, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -2275,7 +2275,7 @@
    Endangered Languages
   </a>
   <sup>
-   251 GitHub Repo / 386 Total, &#9733 81, pushed 38 days ago
+   &#9733 81, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -2283,7 +2283,7 @@
    Continuous Delivery
   </a>
   <sup>
-   1 GitHub Repo / 29 Total, &#9733 167, pushed 4 days ago
+   &#9733 167, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -2291,7 +2291,7 @@
    Services Engineering
   </a>
   <sup>
-   0 GitHub Repo / 71 Total, &#9733 2107, pushed 270 days ago
+   &#9733 2107, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -2299,7 +2299,7 @@
    Free for Developers
   </a>
   <sup>
-   3 GitHub Repo / 452 Total, &#9733 13074, pushed 5 days ago
+   &#9733 13074, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2307,7 +2307,7 @@
    Bitcoin
   </a>
   <sup>
-   31 GitHub Repo / 74 Total, &#9733 83, pushed 24 days ago
+   &#9733 83, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -2322,7 +2322,7 @@
   </a>
   - OS X design app
   <sup>
-   13 GitHub Repo / 65 Total, &#9733 413, pushed 12 days ago
+   &#9733 413, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -2330,7 +2330,7 @@
    Places to Post Your Startup
   </a>
   <sup>
-   0 GitHub Repo / 97 Total, &#9733 851, pushed 99 days ago
+   &#9733 851, pushed 99 days ago
   </sup>
  </li>
  <li>
@@ -2338,7 +2338,7 @@
    PCAPTools
   </a>
   <sup>
-   14 GitHub Repo / 105 Total, &#9733 378, pushed 4 days ago
+   &#9733 378, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -2346,7 +2346,7 @@
    Remote Jobs
   </a>
   <sup>
-   4 GitHub Repo / 281 Total, &#9733 5439, pushed 1 days ago
+   &#9733 5439, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -2354,7 +2354,7 @@
    Boilerplate Projects
   </a>
   <sup>
-   45 GitHub Repo / 73 Total, &#9733 199, pushed 70 days ago
+   &#9733 199, pushed 70 days ago
   </sup>
  </li>
  <li>
@@ -2362,7 +2362,7 @@
    Readme
   </a>
   <sup>
-   10 GitHub Repo / 14 Total, &#9733 360, pushed 41 days ago
+   &#9733 360, pushed 41 days ago
   </sup>
  </li>
  <li>
@@ -2370,7 +2370,7 @@
    Tools
   </a>
   <sup>
-   0 GitHub Repo / 514 Total, &#9733 6277, pushed 2 days ago
+   &#9733 6277, pushed 2 days ago
   </sup>
  </li>
  <li>
@@ -2378,7 +2378,7 @@
    Styleguides
   </a>
   <sup>
-   41 GitHub Repo / 80 Total, &#9733 291, pushed 21 days ago
+   &#9733 291, pushed 21 days ago
   </sup>
  </li>
  <li>
@@ -2386,7 +2386,7 @@
    Design and Development Guides
   </a>
   <sup>
-   19 GitHub Repo / 98 Total, &#9733 1097, pushed 36 days ago
+   &#9733 1097, pushed 36 days ago
   </sup>
  </li>
  <li>
@@ -2399,7 +2399,7 @@
    Self Hosted
   </a>
   <sup>
-   95 GitHub Repo / 615 Total, &#9733 6801, pushed 4 days ago
+   &#9733 6801, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -2407,7 +2407,7 @@
    FOSS Production Apps
   </a>
   <sup>
-   0 GitHub Repo / 31 Total, &#9733 82, pushed 157 days ago
+   &#9733 82, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2415,7 +2415,7 @@
    Gulp
   </a>
   <sup>
-   118 GitHub Repo / 189 Total, &#9733 142, pushed 3 days ago
+   &#9733 142, pushed 3 days ago
   </sup>
  </li>
  <li>
@@ -2429,12 +2429,12 @@
      Answers
     </a>
     <sup>
-     0 GitHub Repo / 0 Total, &#9733 86, pushed 224 days ago
+     &#9733 86, pushed 224 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   113 GitHub Repo / 113 Total, &#9733 527, pushed 7 days ago
+   &#9733 527, pushed 7 days ago
   </sup>
  </li>
  <li>
@@ -2442,7 +2442,7 @@
    Open Source Photography
   </a>
   <sup>
-   18 GitHub Repo / 79 Total, &#9733 44, pushed 55 days ago
+   &#9733 44, pushed 55 days ago
   </sup>
  </li>
  <li>
@@ -2450,7 +2450,7 @@
    OpenGL
   </a>
   <sup>
-   8 GitHub Repo / 74 Total, &#9733 267, pushed 24 days ago
+   &#9733 267, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -2458,7 +2458,7 @@
    Productivity
   </a>
   <sup>
-   1 GitHub Repo / 40 Total, &#9733 67, pushed 112 days ago
+   &#9733 67, pushed 112 days ago
   </sup>
  </li>
  <li>
@@ -2466,7 +2466,7 @@
    GraphQL
   </a>
   <sup>
-   110 GitHub Repo / 188 Total, &#9733 1179, pushed 4 days ago
+   &#9733 1179, pushed 4 days ago
   </sup>
  </li>
  <li>
@@ -2474,7 +2474,7 @@
    Transit
   </a>
   <sup>
-   38 GitHub Repo / 109 Total, &#9733 91, pushed 14 days ago
+   &#9733 91, pushed 14 days ago
   </sup>
  </li>
  <li>
@@ -2482,7 +2482,7 @@
    Research Tools
   </a>
   <sup>
-   37 GitHub Repo / 265 Total, &#9733 95, pushed 33 days ago
+   &#9733 95, pushed 33 days ago
   </sup>
  </li>
  <li>
@@ -2490,7 +2490,7 @@
    Niche Job Boards
   </a>
   <sup>
-   0 GitHub Repo / 40 Total, &#9733 30, pushed 34 days ago
+   &#9733 30, pushed 34 days ago
   </sup>
  </li>
  <li>
@@ -2498,7 +2498,7 @@
    Data Visualization
   </a>
   <sup>
-   32 GitHub Repo / 110 Total, &#9733 431, pushed 11 days ago
+   &#9733 431, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -2511,7 +2511,7 @@
    JSON Datasets
   </a>
   <sup>
-   7 GitHub Repo / 355 Total, &#9733 88, pushed 141 days ago
+   &#9733 88, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2519,7 +2519,7 @@
    Microservices
   </a>
   <sup>
-   108 GitHub Repo / 406 Total, &#9733 883, pushed 5 days ago
+   &#9733 883, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -2527,7 +2527,7 @@
    Unicode Code Points
   </a>
   <sup>
-   0 GitHub Repo / 49 Total, &#9733 80, pushed 78 days ago
+   &#9733 80, pushed 78 days ago
   </sup>
  </li>
  <li>
@@ -2535,7 +2535,7 @@
    Internet of Things
   </a>
   <sup>
-   1 GitHub Repo / 83 Total, &#9733 212, pushed 74 days ago
+   &#9733 212, pushed 74 days ago
   </sup>
  </li>
  <li>
@@ -2543,7 +2543,7 @@
    Beginner-Friendly Projects
   </a>
   <sup>
-   0 GitHub Repo / 38 Total, &#9733 304, pushed 25 days ago
+   &#9733 304, pushed 25 days ago
   </sup>
  </li>
  <li>
@@ -2551,7 +2551,7 @@
    Bluetooth Beacons
   </a>
   <sup>
-   24 GitHub Repo / 109 Total, &#9733 131, pushed 56 days ago
+   &#9733 131, pushed 56 days ago
   </sup>
  </li>
  <li>
@@ -2565,7 +2565,7 @@
   </a>
   - Open source distributed settlement network
   <sup>
-   28 GitHub Repo / 92 Total, &#9733 32, pushed 103 days ago
+   &#9733 32, pushed 103 days ago
   </sup>
  </li>
  <li>
@@ -2573,7 +2573,7 @@
    Katas
   </a>
   <sup>
-   17 GitHub Repo / 66 Total, &#9733 32, pushed 74 days ago
+   &#9733 32, pushed 74 days ago
   </sup>
  </li>
  <li>
@@ -2581,7 +2581,7 @@
    Tools for Activism
   </a>
   <sup>
-   9 GitHub Repo / 23 Total, &#9733 152, pushed 84 days ago
+   &#9733 152, pushed 84 days ago
   </sup>
  </li>
  <li>
@@ -2590,7 +2590,7 @@
   </a>
   - Test Anything Protocol
   <sup>
-   32 GitHub Repo / 40 Total, &#9733 197, pushed 46 days ago
+   &#9733 197, pushed 46 days ago
   </sup>
  </li>
  <li>
@@ -2598,7 +2598,7 @@
    Robotics
   </a>
   <sup>
-   4 GitHub Repo / 55 Total, &#9733 162, pushed 28 days ago
+   &#9733 162, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -2607,7 +2607,7 @@
   </a>
   - "Internet of Things" connectivity protocol
   <sup>
-   56 GitHub Repo / 106 Total, &#9733 41, pushed 31 days ago
+   &#9733 41, pushed 31 days ago
   </sup>
  </li>
  <li>
@@ -2615,7 +2615,7 @@
    Hacking Spots
   </a>
   <sup>
-   0 GitHub Repo / 33 Total, &#9733 245, pushed 16 days ago
+   &#9733 245, pushed 16 days ago
   </sup>
  </li>
  <li>
@@ -2623,7 +2623,7 @@
    For Girls
   </a>
   <sup>
-   0 GitHub Repo / 61 Total, &#9733 95, pushed 8 days ago
+   &#9733 95, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -2632,7 +2632,7 @@
   </a>
   - Node.js CLI framework
   <sup>
-   22 GitHub Repo / 35 Total, &#9733 54, pushed 8 days ago
+   &#9733 54, pushed 8 days ago
   </sup>
  </li>
  <li>
@@ -2641,7 +2641,7 @@
   </a>
   - Goal setting & communication best practices
   <sup>
-   0 GitHub Repo / 75 Total, &#9733 33, pushed 88 days ago
+   &#9733 33, pushed 88 days ago
   </sup>
  </li>
  <li>
@@ -2649,7 +2649,7 @@
    Vulkan
   </a>
   <sup>
-   30 GitHub Repo / 104 Total, &#9733 186, pushed 6 days ago
+   &#9733 186, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -2658,7 +2658,7 @@
   </a>
   - Typesetting language
   <sup>
-   4 GitHub Repo / 110 Total, &#9733 19, pushed 28 days ago
+   &#9733 19, pushed 28 days ago
   </sup>
  </li>
  <li>
@@ -2666,7 +2666,7 @@
    Network Analysis
   </a>
   <sup>
-   23 GitHub Repo / 579 Total, &#9733 179, pushed 1 days ago
+   &#9733 179, pushed 1 days ago
   </sup>
  </li>
  <li>
@@ -2675,7 +2675,7 @@
   </a>
   - An economist's starter kit
   <sup>
-   0 GitHub Repo / 0 Total, &#9733 33, pushed 7 days ago
+   &#9733 33, pushed 7 days ago
   </sup>
  </li>
 </ul>

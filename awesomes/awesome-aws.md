@@ -1907,7 +1907,7 @@
    299 GitHub links in total 715 links, ★ 54, pushed 100 days ago
   </sup>
   <sup>
-   &#9733 54, pushed 100 days ago
+   &#9733 54, pushed 101 days ago
   </sup>
  </li>
  <li>
@@ -2185,7 +2185,7 @@
    299 GitHub links in total 715 links, ★ 20, pushed 38 days ago
   </sup>
   <sup>
-   &#9733 20, pushed 38 days ago
+   &#9733 20, pushed 39 days ago
   </sup>
  </li>
  <li>

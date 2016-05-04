@@ -2987,7 +2987,7 @@
    404 GitHub links in total 734 links, ★ 16, pushed 110 days ago
   </sup>
   <sup>
-   &#9733 16, pushed 110 days ago
+   &#9733 16, pushed 111 days ago
   </sup>
  </li>
  <li>
@@ -3522,7 +3522,7 @@
    404 GitHub links in total 734 links, ★ 187, pushed 188 days ago
   </sup>
   <sup>
-   &#9733 187, pushed 188 days ago
+   &#9733 187, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -3604,7 +3604,7 @@
    404 GitHub links in total 734 links, ★ 12, pushed 471 days ago
   </sup>
   <sup>
-   &#9733 12, pushed 471 days ago
+   &#9733 12, pushed 472 days ago
   </sup>
  </li>
  <li>
@@ -3752,7 +3752,7 @@
    404 GitHub links in total 734 links, ★ 0, pushed 701 days ago
   </sup>
   <sup>
-   &#9733 0, pushed 701 days ago
+   &#9733 0, pushed 702 days ago
   </sup>
  </li>
  <li>

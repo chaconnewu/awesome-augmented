@@ -90,14 +90,12 @@ def main():
 
         if len(a) > 0 and re.search('^https://github.com/[^/]+/[^/]+/?$', a[0]['href']):
             url = a[0]['href']
-            print(url)
-            github_count, all_count = count_github_urls(url, input_dir)
             stars_count, updated_days_ago = generate_awsome_project_info(url)
             if not stars_count or not updated_days_ago:
                 continue
 
             tag = soup.new_tag('sup')
-            tag.string = '%d GitHub Repo / %d Total, &#9733 %d, pushed %d days ago ' % (github_count, all_count, stars_count, updated_days_ago)
+            tag.string = ' &#9733 %d, pushed %d days ago ' % (stars_count, updated_days_ago)
             if a[0] in visited:
                 continue
             else:
