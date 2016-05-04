@@ -61,8 +61,8 @@ def attach_github_info(filename, input_directory='./', output_directory='./'):
                     continue
                 else:
                     visited.add(a[0])
-                    # a[0].insert_after(tag)
-                    li.insert(len(li.contents), tag)
+                    a[0].insert_after(tag)
+                    # li.insert(len(li.contents), tag)
 
     output_filename = output_directory + filename
     f = open(output_filename, 'w')

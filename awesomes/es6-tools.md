@@ -13,120 +13,93 @@
   <a href="https://github.com/babel/babel">
    Babel
   </a>
-  - Turn ES6+ code into vanilla ES5 with no runtime
-  <sup>
-   110 GitHub links in total 125 links, ★ 15314, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 15314, pushed 2 days ago
   </sup>
+  - Turn ES6+ code into vanilla ES5 with no runtime
  </li>
  <li>
   <a href="https://github.com/google/traceur-compiler">
    Traceur compiler
   </a>
-  - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
-  <sup>
-   110 GitHub links in total 125 links, ★ 6538, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 6538, pushed 4 days ago
   </sup>
+  - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
  </li>
  <li>
   <a href="https://github.com/thlorenz/es6ify">
    es6ify
   </a>
+  <sup>
+   &#9733 602, pushed 330 days ago
+  </sup>
   - Traceur compiler wrapped as a
   <a href="http://browserify.org/">
    Browserify
   </a>
   v2 transform
-  <sup>
-   110 GitHub links in total 125 links, ★ 602, pushed 330 days ago
-  </sup>
-  <sup>
-   &#9733 602, pushed 330 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/babel/babelify">
    babelify
   </a>
+  <sup>
+   &#9733 988, pushed 7 days ago
+  </sup>
   - Babel transpiler wrapped as a
   <a href="http://browserify.org/">
    Browserify
   </a>
   transform
-  <sup>
-   110 GitHub links in total 125 links, ★ 988, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 988, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/termi/es6-transpiler">
    es6-transpiler
   </a>
-  - ES6 > ES5. Includes classes, destructuring, default parameters, spread
-  <sup>
-   110 GitHub links in total 125 links, ★ 223, pushed 289 days ago
-  </sup>
   <sup>
    &#9733 223, pushed 289 days ago
   </sup>
+  - ES6 > ES5. Includes classes, destructuring, default parameters, spread
  </li>
  <li>
   Square's
   <a href="https://github.com/esnext/es6-module-transpiler">
    es6-module-transpiler
   </a>
-  - ES6 modules to AMD or CJS
-  <sup>
-   110 GitHub links in total 125 links, ★ 1205, pushed 197 days ago
-  </sup>
   <sup>
    &#9733 1205, pushed 197 days ago
   </sup>
+  - ES6 modules to AMD or CJS
  </li>
  <li>
   Facebook's
   <a href="https://github.com/facebook/regenerator">
    regenerator
   </a>
-  - transform ES6 yield/generator functions to ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 1570, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 1570, pushed 22 days ago
   </sup>
+  - transform ES6 yield/generator functions to ES5
  </li>
  <li>
   Facebook's
   <a href="https://github.com/facebookarchive/jstransform">
    jstransform
   </a>
-  - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
-  <sup>
-   110 GitHub links in total 125 links, ★ 410, pushed 144 days ago
-  </sup>
   <sup>
    &#9733 410, pushed 144 days ago
   </sup>
+  - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
  </li>
  <li>
   <a href="https://github.com/olov/defs">
    defs
   </a>
-  - ES6 block-scoped const and let variables to ES3 vars
-  <sup>
-   110 GitHub links in total 125 links, ★ 115, pushed 207 days ago
-  </sup>
   <sup>
    &#9733 115, pushed 207 days ago
   </sup>
+  - ES6 block-scoped const and let variables to ES3 vars
  </li>
  <li>
   <a href="https://github.com/DavyJonesLocker/es6_module_transpiler-rails">
@@ -136,62 +109,47 @@
    </em>
    transpiler-rails
   </a>
-  - ES6 Modules in the Rails Asset Pipeline
-  <sup>
-   110 GitHub links in total 125 links, ★ 89, pushed 511 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 511 days ago
   </sup>
+  - ES6 Modules in the Rails Asset Pipeline
  </li>
  <li>
   <a href="https://github.com/jlongster/es6-macros">
    Some Sweet.js macros
   </a>
-  that compile from ES6 to ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 217, pushed 669 days ago
-  </sup>
   <sup>
    &#9733 217, pushed 669 days ago
   </sup>
+  that compile from ES6 to ES5
  </li>
  <li>
   Bitovi's
   <a href="https://github.com/stealjs/transpile">
    transpile
   </a>
-  - Converts ES6 to AMD, CJS, and StealJS.
-  <sup>
-   110 GitHub links in total 125 links, ★ 15, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 19 days ago
   </sup>
+  - Converts ES6 to AMD, CJS, and StealJS.
  </li>
  <li>
   <a href="https://github.com/mathiasbynens/regexpu">
    regexpu
   </a>
-  — Transform Unicode-aware ES6 regular expressions to ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 78, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 78, pushed 19 days ago
   </sup>
+  — Transform Unicode-aware ES6 regular expressions to ES5
  </li>
  <li>
   <a href="https://github.com/mohebifar/lebab">
    Lebab
   </a>
-  - Transformations for ES5 code to ES6 (approximates)
-  <sup>
-   110 GitHub links in total 125 links, ★ 1549, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 1549, pushed 15 days ago
   </sup>
+  - Transformations for ES5 code to ES6 (approximates)
  </li>
 </ul>
 <h2>
@@ -207,9 +165,6 @@
    gulp-babel
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 665, pushed 13 days ago
-  </sup>
-  <sup>
    &#9733 665, pushed 13 days ago
   </sup>
  </li>
@@ -218,9 +173,6 @@
   <a href="https://github.com/sindresorhus/gulp-traceur">
    gulp-traceur
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 179, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 179, pushed 13 days ago
   </sup>
@@ -231,9 +183,6 @@
    gulp-regenerator
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 17, pushed 13 days ago
-  </sup>
-  <sup>
    &#9733 17, pushed 13 days ago
   </sup>
  </li>
@@ -243,9 +192,6 @@
    gulp-es6-module-transpiler
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 57, pushed 52 days ago
-  </sup>
-  <sup>
    &#9733 57, pushed 52 days ago
   </sup>
  </li>
@@ -254,38 +200,29 @@
   <a href="https://github.com/sindresorhus/gulp-es6-transpiler">
    gulp-es6-transpiler
   </a>
-  - ES6 → ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 48, pushed 171 days ago
-  </sup>
   <sup>
    &#9733 48, pushed 171 days ago
   </sup>
+  - ES6 → ES5
  </li>
  <li>
   es6-jstransform:
   <a href="https://github.com/hemanth/gulp-jstransform">
    gulp-jstransform
   </a>
+  <sup>
+   &#9733 14, pushed 82 days ago
+  </sup>
   - ES6 → ES5 using FB's
   <a href="https://github.com/facebook/jstransform">
    jstransform
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 14, pushed 81 days ago
-  </sup>
-  <sup>
-   &#9733 14, pushed 82 days ago
-  </sup>
  </li>
  <li>
   regexpu:
   <a href="https://github.com/mathiasbynens/gulp-regexpu">
    gulp-regexpu
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 3, pushed 443 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 443 days ago
   </sup>
@@ -295,9 +232,6 @@
   <a href="https://github.com/ivogabe/gulp-typescript">
    gulp-typescript
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 364, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 364, pushed 6 days ago
   </sup>
@@ -312,38 +246,29 @@
   <a href="https://github.com/babel/grunt-babel">
    grunt-babel
   </a>
-  - Turn ES6+ code into vanilla ES5 with no runtime
-  <sup>
-   110 GitHub links in total 125 links, ★ 280, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 280, pushed 13 days ago
   </sup>
+  - Turn ES6+ code into vanilla ES5 with no runtime
  </li>
  <li>
   Traceur:
   <a href="https://github.com/aaronfrost/grunt-traceur">
    grunt-traceur
   </a>
+  <sup>
+   &#9733 229, pushed 28 days ago
+  </sup>
   ES6 > ES5 transpilation,
   <a href="https://github.com/tarruda/grunt-traceur-build">
    grunt-traceur-build
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 229, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 229, pushed 28 days ago
-  </sup>
  </li>
  <li>
   ES6 Module Transpiler:
   <a href="https://github.com/joefiorini/grunt-es6-module-transpiler">
    grunt-es6-module-transpiler
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 90, pushed 73 days ago
-  </sup>
   <sup>
    &#9733 90, pushed 73 days ago
   </sup>
@@ -353,67 +278,52 @@
   <a href="https://github.com/sindresorhus/grunt-regenerator">
    grunt-regenerator
   </a>
-  - ES6 generator functions to ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 20, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 13 days ago
   </sup>
+  - ES6 generator functions to ES5
  </li>
  <li>
   <a href="https://github.com/thomasboyt/grunt-microlib">
    grunt-microlib
   </a>
+  <sup>
+   &#9733 29, pushed 1020 days ago
+  </sup>
   - tools for libs using ES6 module transpiler (sample
   <a href="https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js">
    Gruntfile
   </a>
   )
-  <sup>
-   110 GitHub links in total 125 links, ★ 29, pushed 1020 days ago
-  </sup>
-  <sup>
-   &#9733 29, pushed 1020 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/EE/grunt-defs">
    grunt-defs
   </a>
-  - ES6 block scoped const and let variables, to ES3
-  <sup>
-   110 GitHub links in total 125 links, ★ 4, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 55 days ago
   </sup>
+  - ES6 block scoped const and let variables, to ES3
  </li>
  <li>
   es6-transpiler:
   <a href="https://github.com/sindresorhus/grunt-es6-transpiler">
    grunt-es6-transpiler
   </a>
-  - ES6 → ES5
-  <sup>
-   110 GitHub links in total 125 links, ★ 12, pushed 171 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 171 days ago
   </sup>
+  - ES6 → ES5
  </li>
  <li>
   TypeScript:
   <a href="https://github.com/TypeStrong/grunt-ts">
    grunt-ts
   </a>
-  - ES6+ > ES5/ES3 transpilation
-  <sup>
-   110 GitHub links in total 125 links, ★ 220, pushed 37 days ago
-  </sup>
   <sup>
    &#9733 220, pushed 37 days ago
   </sup>
+  - ES6+ > ES5/ES3 transpilation
  </li>
 </ul>
 <h3>
@@ -426,9 +336,6 @@
    broccoli-babel-transpiler
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 34, pushed 27 days ago
-  </sup>
-  <sup>
    &#9733 34, pushed 27 days ago
   </sup>
  </li>
@@ -437,9 +344,6 @@
   <a href="https://github.com/sindresorhus/broccoli-traceur">
    broccoli-traceur
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 29, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 13 days ago
   </sup>
@@ -450,9 +354,6 @@
    broccoli-regenerator
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 6, pushed 13 days ago
-  </sup>
-  <sup>
    &#9733 6, pushed 13 days ago
   </sup>
  </li>
@@ -462,9 +363,6 @@
    broccoli-transpiler
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 10, pushed 13 days ago
-  </sup>
-  <sup>
    &#9733 10, pushed 13 days ago
   </sup>
  </li>
@@ -473,9 +371,6 @@
   <a href="https://github.com/mmun/broccoli-es6-module-transpiler">
    broccoli-es6-module-transpiler
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 504 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 504 days ago
   </sup>
@@ -492,9 +387,6 @@
    broccoli-tsc
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 1, pushed 349 days ago
-  </sup>
-  <sup>
    &#9733 1, pushed 349 days ago
   </sup>
  </li>
@@ -509,9 +401,6 @@
    babel-brunch
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 33, pushed 7 days ago
-  </sup>
-  <sup>
    &#9733 33, pushed 7 days ago
   </sup>
  </li>
@@ -521,9 +410,6 @@
    es6-module-transpiler-brunch
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 9, pushed 890 days ago
-  </sup>
-  <sup>
    &#9733 9, pushed 890 days ago
   </sup>
  </li>
@@ -532,9 +418,6 @@
   <a href="https://github.com/joshheyse/typescript-brunch">
    typescript-brunch
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 769 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 769 days ago
   </sup>
@@ -550,9 +433,6 @@
    babel-loader
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 966, pushed 15 days ago
-  </sup>
-  <sup>
    &#9733 966, pushed 15 days ago
   </sup>
  </li>
@@ -562,9 +442,6 @@
    traceur-compiler-loader
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 4, pushed 422 days ago
-  </sup>
-  <sup>
    &#9733 4, pushed 422 days ago
   </sup>
  </li>
@@ -573,9 +450,6 @@
   <a href="https://github.com/s-panferov/awesome-typescript-loader">
    awesome-typescript-loader
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 151, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 151, pushed 9 days ago
   </sup>
@@ -591,9 +465,6 @@
    duo-babel
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 15, pushed 23 days ago
-  </sup>
-  <sup>
    &#9733 15, pushed 23 days ago
   </sup>
  </li>
@@ -602,9 +473,6 @@
   <a href="https://github.com/frankwallis/duo-typescript">
    duo-typescript
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 0, pushed 328 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 328 days ago
   </sup>
@@ -620,9 +488,6 @@
    babel-connect
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 19, pushed 160 days ago
-  </sup>
-  <sup>
    &#9733 19, pushed 160 days ago
   </sup>
  </li>
@@ -631,9 +496,6 @@
   <a href="https://github.com/brn/typescript-middleware">
    typescript-middleware
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 8, pushed 104 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 104 days ago
   </sup>
@@ -649,9 +511,6 @@
    gobble-babel
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 7, pushed 98 days ago
-  </sup>
-  <sup>
    &#9733 7, pushed 98 days ago
   </sup>
  </li>
@@ -661,10 +520,7 @@
    gobble-es6-transpiler
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 1, pushed 477 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 477 days ago
+   &#9733 1, pushed 478 days ago
   </sup>
  </li>
 </ul>
@@ -677,9 +533,6 @@
   <a href="https://github.com/babel/jade-babel">
    jade-babel
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 38, pushed 100 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 100 days ago
   </sup>
@@ -701,9 +554,6 @@
    babel-jest
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 116, pushed 60 days ago
-  </sup>
-  <sup>
    &#9733 116, pushed 60 days ago
   </sup>
  </li>
@@ -718,9 +568,6 @@
    karma-babel-preprocessor
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 83, pushed 92 days ago
-  </sup>
-  <sup>
    &#9733 83, pushed 92 days ago
   </sup>
  </li>
@@ -730,9 +577,6 @@
    karma-traceur-preprocessor
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 16, pushed 197 days ago
-  </sup>
-  <sup>
    &#9733 16, pushed 197 days ago
   </sup>
  </li>
@@ -741,9 +585,6 @@
   <a href="https://github.com/sergeyt/karma-typescript-preprocessor">
    karma-typescript-preprocessor
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 29, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 3 days ago
   </sup>
@@ -765,9 +606,6 @@
    sprockets-traceur
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 23, pushed 209 days ago
-  </sup>
-  <sup>
    &#9733 23, pushed 209 days ago
   </sup>
  </li>
@@ -776,9 +614,6 @@
   <a href="https://github.com/typescript-ruby/typescript-rails">
    typescript-rails
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 131, pushed 216 days ago
-  </sup>
   <sup>
    &#9733 131, pushed 216 days ago
   </sup>
@@ -792,25 +627,19 @@
   <a href="https://github.com/richgilbank/Scratch-JS">
    Scratch JS
   </a>
-  - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
-  <sup>
-   110 GitHub links in total 125 links, ★ 288, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 288, pushed 68 days ago
   </sup>
+  - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
  </li>
  <li>
   <a href="https://github.com/mrkev/generator-typescript">
    generator-typescript
   </a>
-  - Yeoman generator for TypeScript apps
-  <sup>
-   110 GitHub links in total 125 links, ★ 19, pushed 236 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 236 days ago
   </sup>
+  - Yeoman generator for TypeScript apps
  </li>
 </ul>
 <h2>
@@ -821,13 +650,10 @@
   <a href="https://github.com/domenic/mocha-traceur">
    Mocha Traceur
   </a>
-  - A simple plugin for Mocha to pass JS files through the Traceur compiler
-  <sup>
-   110 GitHub links in total 125 links, ★ 14, pushed 501 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 502 days ago
   </sup>
+  - A simple plugin for Mocha to pass JS files through the Traceur compiler
  </li>
 </ul>
 <h2>
@@ -839,25 +665,19 @@
   <a href="https://github.com/ModuleLoader/es6-module-loader">
    Module Loader polyfill
   </a>
-  (compat with latest spec and Traceur)
-  <sup>
-   110 GitHub links in total 125 links, ★ 1648, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1648, pushed 5 days ago
   </sup>
+  (compat with latest spec and Traceur)
  </li>
  <li>
   <a href="https://github.com/jorendorff/js-loaders">
    js-loaders
   </a>
-  - Mozilla's spec-compliant loader prototype
-  <sup>
-   110 GitHub links in total 125 links, ★ 55, pushed 795 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 795 days ago
   </sup>
+  - Mozilla's spec-compliant loader prototype
  </li>
  <li>
   <a href="http://jspm.io/">
@@ -870,9 +690,6 @@
    Babel Module Loader
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 966, pushed 15 days ago
-  </sup>
-  <sup>
    &#9733 966, pushed 15 days ago
   </sup>
  </li>
@@ -880,13 +697,10 @@
   <a href="https://github.com/unscriptable/beck">
    beck.js
   </a>
-  - toolkit for ES6 Module Loader pipelines, shim for legacy environments
-  <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 868 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 868 days ago
   </sup>
+  - toolkit for ES6 Module Loader pipelines, shim for legacy environments
  </li>
 </ul>
 <h2>
@@ -897,25 +711,19 @@
   <a href="https://github.com/davidjnelson/es6-boilerplate">
    es6-boilerplate
   </a>
-  - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
-  <sup>
-   110 GitHub links in total 125 links, ★ 82, pushed 668 days ago
-  </sup>
   <sup>
    &#9733 82, pushed 668 days ago
   </sup>
+  - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
  </li>
  <li>
   <a href="https://github.com/alexweber/es6-jspm-gulp-boilerplate">
    es6-jspm-gulp-boilerplate
   </a>
-  - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
-  <sup>
-   110 GitHub links in total 125 links, ★ 118, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 118, pushed 82 days ago
   </sup>
+  - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
  </li>
 </ul>
 <h2>
@@ -926,30 +734,27 @@
   <a href="https://github.com/briandipalma/generator-node-esnext">
    generator-node-esnext
   </a>
-  - Yeoman generator for Traceur apps
-  <sup>
-   110 GitHub links in total 125 links, ★ 4, pushed 532 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 532 days ago
   </sup>
+  - Yeoman generator for Traceur apps
  </li>
  <li>
   <a href="https://github.com/HenriqueLimas/generator-es6-babel">
    generator-es6-babel
   </a>
-  - Yeoman generator for Babel apps
-  <sup>
-   110 GitHub links in total 125 links, ★ 9, pushed 241 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 241 days ago
   </sup>
+  - Yeoman generator for Babel apps
  </li>
  <li>
   <a href="https://github.com/HenriqueLimas/generator-gulp-babelify">
    generator-gulp-babelify
   </a>
+  <sup>
+   &#9733 2, pushed 144 days ago
+  </sup>
   - Yeoman generator for
   <a href="https://babeljs.io/">
    Babel
@@ -962,12 +767,6 @@
   <a href="http://gulpjs.com/">
    Gulp
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 2, pushed 144 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 144 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/grunt-init-es6">
@@ -979,9 +778,6 @@
   <a href="https://github.com/ryanflorence/loom-generators-ember">
    Loom generators with ES6 ember modules
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 15, pushed 885 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 885 days ago
   </sup>
@@ -1002,37 +798,28 @@
   <a href="https://github.com/zloirock/core-js">
    core-js
   </a>
+  <sup>
+   &#9733 1674, pushed 1 days ago
+  </sup>
   - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by
   <a href="https://github.com/babel/babel">
    Babel
   </a>
   .
-  <sup>
-   110 GitHub links in total 125 links, ★ 1674, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 1674, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/paulmillr/es6-shim">
    es6-shim
   </a>
-  - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
-  <sup>
-   110 GitHub links in total 125 links, ★ 1704, pushed 37 days ago
-  </sup>
   <sup>
    &#9733 1704, pushed 37 days ago
   </sup>
+  - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
  </li>
  <li>
   <a href="https://github.com/Benvie/harmony-collections">
    WeakMap, Map, Set, HashMap - ES6 Collections
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 140, pushed 319 days ago
-  </sup>
   <sup>
    &#9733 140, pushed 319 days ago
   </sup>
@@ -1042,9 +829,6 @@
   <a href="https://github.com/Polymer/WeakMap">
    WeakMap shim
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 38, pushed 567 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 567 days ago
   </sup>
@@ -1056,9 +840,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 41, pushed 529 days ago
-  </sup>
-  <sup>
    &#9733 41, pushed 529 days ago
   </sup>
  </li>
@@ -1068,9 +849,6 @@
     String.prototype.endsWith
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 17, pushed 529 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 529 days ago
   </sup>
@@ -1082,9 +860,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 32, pushed 593 days ago
-  </sup>
-  <sup>
    &#9733 32, pushed 593 days ago
   </sup>
  </li>
@@ -1094,9 +869,6 @@
     String.prototype.repeat
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 21, pushed 232 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 232 days ago
   </sup>
@@ -1108,9 +880,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 44, pushed 290 days ago
-  </sup>
-  <sup>
    &#9733 44, pushed 290 days ago
   </sup>
  </li>
@@ -1120,9 +889,6 @@
     String.prototype.codePointAt
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 26, pushed 529 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 529 days ago
   </sup>
@@ -1134,9 +900,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 25, pushed 529 days ago
-  </sup>
-  <sup>
    &#9733 25, pushed 529 days ago
   </sup>
  </li>
@@ -1146,9 +909,6 @@
     Array.prototype.find
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 17, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 13 days ago
   </sup>
@@ -1160,9 +920,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 18, pushed 75 days ago
-  </sup>
-  <sup>
    &#9733 18, pushed 75 days ago
   </sup>
  </li>
@@ -1172,9 +929,6 @@
     Array.from
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 32, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 35 days ago
   </sup>
@@ -1186,9 +940,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 11, pushed 119 days ago
-  </sup>
-  <sup>
    &#9733 11, pushed 119 days ago
   </sup>
  </li>
@@ -1198,9 +949,6 @@
     Object.assign
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 413, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 413, pushed 5 days ago
   </sup>
@@ -1212,9 +960,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 7, pushed 13 days ago
-  </sup>
-  <sup>
    &#9733 7, pushed 13 days ago
   </sup>
  </li>
@@ -1224,9 +969,6 @@
     Math.sign
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 6, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 13 days ago
   </sup>
@@ -1238,9 +980,6 @@
    </code>
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 8, pushed 653 days ago
-  </sup>
-  <sup>
    &#9733 8, pushed 653 days ago
   </sup>
  </li>
@@ -1250,9 +989,6 @@
     RegExp.prototype.search
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 653 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 653 days ago
   </sup>
@@ -1267,13 +1003,10 @@
   <a href="https://github.com/eriwen/es6-map-shim">
    ES6 Map Shim
   </a>
-  - destructive shim that follows the latest specification as closely as possible.
-  <sup>
-   110 GitHub links in total 125 links, ★ 17, pushed 569 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 569 days ago
   </sup>
+  - destructive shim that follows the latest specification as closely as possible.
  </li>
  <li>
   <a href="https://github.com/walling/Function.create.js">
@@ -1281,9 +1014,6 @@
     Function.create
    </code>
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 6, pushed 1172 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 1172 days ago
   </sup>
@@ -1298,9 +1028,6 @@
    ES6 Symbol polyfill
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 55, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 55, pushed 2 days ago
   </sup>
  </li>
@@ -1309,9 +1036,6 @@
    ES6 Map, Set, WeakMap
   </a>
   <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 176 days ago
-  </sup>
-  <sup>
    &#9733 5, pushed 176 days ago
   </sup>
  </li>
@@ -1319,6 +1043,9 @@
   <a href="https://github.com/tvcutsem/harmony-reflect">
    harmony-reflect
   </a>
+  <sup>
+   &#9733 291, pushed 14 days ago
+  </sup>
   - ES6
   <a href="http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api">
    reflection module
@@ -1328,12 +1055,6 @@
    Proxy API
   </a>
   )
-  <sup>
-   110 GitHub links in total 125 links, ★ 291, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 291, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims">
@@ -1351,9 +1072,6 @@
   <a href="https://github.com/Benvie/JavaScriptNext.tmLanguage">
    Sublime Text and TextMate
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 456, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 456, pushed 13 days ago
   </sup>
@@ -1377,29 +1095,23 @@
   <a href="https://github.com/pflannery/docpad-plugin-traceur">
    plugin
   </a>
-  for Traceur
-  <sup>
-   110 GitHub links in total 125 links, ★ 2, pushed 265 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 265 days ago
   </sup>
+  for Traceur
  </li>
  <li>
   Grammar and transpilation
   <a href="https://github.com/gandm/language-babel">
    package
   </a>
+  <sup>
+   &#9733 104, pushed 2 days ago
+  </sup>
   for
   <a href="https://atom.io/">
    Atom
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 104, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 104, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1420,29 +1132,23 @@
   <a href="https://github.com/ternjs/acorn">
    Acorn
   </a>
+  <sup>
+   &#9733 1591, pushed 4 days ago
+  </sup>
   - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to
   <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API">
    SpiderMonkey AST
   </a>
   format.
-  <sup>
-   110 GitHub links in total 125 links, ★ 1591, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1591, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/zenparsing/esparse">
    esparse
   </a>
-  - ES6 parser written in ES6.
-  <sup>
-   110 GitHub links in total 125 links, ★ 91, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 91, pushed 25 days ago
   </sup>
+  - ES6 parser written in ES6.
  </li>
  <li>
   <a href="https://github.com/google/traceur-compiler">
@@ -1463,25 +1169,19 @@
   <a href="https://github.com/sindresorhus/esnext-showcase">
    ES.next showcase
   </a>
-  - real-world usage examples of ES6 features
-  <sup>
-   110 GitHub links in total 125 links, ★ 304, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 304, pushed 13 days ago
   </sup>
+  - real-world usage examples of ES6 features
  </li>
  <li>
   <a href="https://github.com/wycats/looper">
    looper
   </a>
-  - static analysis tools for ES6
-  <sup>
-   110 GitHub links in total 125 links, ★ 13, pushed 940 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 940 days ago
   </sup>
+  - static analysis tools for ES6
  </li>
  <li>
   <a href="https://www.npmjs.com/package/es6-module-packager">
@@ -1492,54 +1192,48 @@
   <a href="https://github.com/yahoo/es-dependency-graph">
    es-dependency-graph
   </a>
+  <sup>
+   &#9733 15, pushed 578 days ago
+  </sup>
   and
   <a href="https://github.com/yahoo/grunt-es-dependency-graph">
    grunt-es-dependency-graph
   </a>
   - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
-  <sup>
-   110 GitHub links in total 125 links, ★ 15, pushed 578 days ago
-  </sup>
-  <sup>
-   &#9733 15, pushed 578 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sproutsocial/es6-import-validate">
    es6-import-validate
   </a>
+  <sup>
+   &#9733 6, pushed 718 days ago
+  </sup>
   and
   <a href="https://github.com/sproutsocial/grunt-es6-import-validate">
    grunt-es6-import-validate
   </a>
   - validate matching named/default import statements in ES6 modules.
-  <sup>
-   110 GitHub links in total 125 links, ★ 6, pushed 718 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 718 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/getify/let-er">
    let-er
   </a>
+  <sup>
+   &#9733 79, pushed 553 days ago
+  </sup>
   - transpiles
   <a href="http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement">
    let-block block-scoping
   </a>
   (not accepted into ES6) into either ES3 or ES6
-  <sup>
-   110 GitHub links in total 125 links, ★ 79, pushed 553 days ago
-  </sup>
-  <sup>
-   &#9733 79, pushed 553 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/benjamn/recast">
    Recast
   </a>
+  <sup>
+   &#9733 886, pushed 19 days ago
+  </sup>
   - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including
   <a href="https://github.com/facebook/regenerator">
    regenerator
@@ -1549,24 +1243,15 @@
    es6-arrow-function
   </a>
   .
-  <sup>
-   110 GitHub links in total 125 links, ★ 886, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 886, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hemanth/paws-on-es6">
    Paws on ES6
   </a>
-  -  Minimalist examples of ES6 functionalities.
-  <sup>
-   110 GitHub links in total 125 links, ★ 240, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 240, pushed 69 days ago
   </sup>
+  -  Minimalist examples of ES6 functionalities.
  </li>
  <li>
   <a href="http://h3manth.com/new/blog/2013/es6-on-nodejs/">
@@ -1578,21 +1263,15 @@
   <a href="https://github.com/calvinmetcalf/es6-translate">
    es6-translate
   </a>
-  - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
-  <sup>
-   110 GitHub links in total 125 links, ★ 5, pushed 587 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 587 days ago
   </sup>
+  - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
  </li>
  <li>
   <a href="https://github.com/douglasduteil/isparta">
    Isparta
   </a>
-  <sup>
-   110 GitHub links in total 125 links, ★ 490, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 490, pushed 38 days ago
   </sup>
@@ -1607,6 +1286,9 @@
   <a href="https://github.com/hemanth/es6-lab-setup">
    ES6 Lab setup
   </a>
+  <sup>
+   &#9733 27, pushed 394 days ago
+  </sup>
   - A simple setup for transpiling ES6 to ES5 using
   <code>
    Babel
@@ -1624,12 +1306,6 @@
    jasmine
   </code>
   support.
-  <sup>
-   110 GitHub links in total 125 links, ★ 27, pushed 394 days ago
-  </sup>
-  <sup>
-   &#9733 27, pushed 394 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.typescriptlang.org/">

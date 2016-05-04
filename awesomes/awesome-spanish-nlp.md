@@ -56,9 +56,6 @@
    ixa-pipe-pos
   </a>
   <sup>
-   5 GitHub links in total 50 links, ★ 5, pushed 11 days ago
-  </sup>
-  <sup>
    &#9733 5, pushed 11 days ago
   </sup>
  </li>
@@ -66,9 +63,6 @@
   <a href="https://github.com/MaG21/estem">
    Ruby Snowball Implementation
   </a>
-  <sup>
-   5 GitHub links in total 50 links, ★ 3, pushed 1224 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 1224 days ago
   </sup>
@@ -191,9 +185,6 @@
    Colombian Political Speeches
   </a>
   <sup>
-   5 GitHub links in total 50 links, ★ 1, pushed 1012 days ago
-  </sup>
-  <sup>
    &#9733 1, pushed 1012 days ago
   </sup>
  </li>
@@ -201,9 +192,6 @@
   <a href="https://github.com/dav009/LatinamericanTextResources">
    South American Slang Expressions/MTWE
   </a>
-  <sup>
-   5 GitHub links in total 50 links, ★ 1, pushed 1012 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 1012 days ago
   </sup>
@@ -302,9 +290,6 @@
   <a href="https://github.com/idio/wiki2vec">
    Word2Vec vectors for Wikipedia Spanish Articles
   </a>
-  <sup>
-   5 GitHub links in total 50 links, ★ 184, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 184, pushed 57 days ago
   </sup>

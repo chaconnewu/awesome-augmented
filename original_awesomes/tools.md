@@ -1,522 +1,131 @@
-<h1>
- Tools
- <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
- </a>
-</h1>
-<blockquote>
- <p>
-  Tools for web
- </p>
-</blockquote>
-<h3>
- Response
-</h3>
-<ul>
- <li>
-  <a href="http://www.responsinator.com/">
-   Responsinator
-  </a>
- </li>
- <li>
-  <a href="http://lab.maltewassermann.com/viewport-resizer/">
-   viewport-resizer
-  </a>
- </li>
- <li>
-  <a href="http://mediaqueri.es/">
-   Media Queri
-  </a>
- </li>
- <li>
-  <a href="http://screensiz.es/phone">
-   Screensiz
-  </a>
- </li>
-</ul>
-<h3>
- Placeholder
-</h3>
-<ul>
- <li>
-  <a href="http://placehold.it/">
-   placehold.it
-  </a>
- </li>
- <li>
-  <a href="http://temp.im/">
-   temp.im
-  </a>
- </li>
- <li>
-  <a href="http://lorempixel.com/">
-   lorempixel
-  </a>
- </li>
- <li>
-  <a href="http://dummyimage.com/">
-   dummyimage
-  </a>
- </li>
- <li>
-  <a href="http://placekitten.com/">
-   placekitten
-  </a>
- </li>
-</ul>
-<h3>
- Favicon
-</h3>
-<ul>
- <li>
-  <a href="http://www.favicon-generator.org/">
-   favicon-generator
-  </a>
- </li>
- <li>
-  <a href="http://www.favicon.cc/">
-   favicon.cc
-  </a>
- </li>
- <li>
-  <a href="http://www.xiconeditor.com/">
-   xiconeditor
-  </a>
- </li>
- <li>
-  <a href="http://tool.lu/favicon/">
-   tool.lu favicon
-  </a>
- </li>
- <li>
-  <a href="http://www.bitbug.net/">
-   bitbug
-  </a>
- </li>
- <li>
-  <a href="http://iconogen.com/">
-   iconogen
-  </a>
- </li>
-</ul>
-<h3>
- CDN
-</h3>
-<ul>
- <li>
-  <a href="http://www.staticfile.org/">
-   staticfile
-  </a>
- </li>
- <li>
-  <a href="http://www.bootcdn.cn/">
-   bootcss cdn
-  </a>
- </li>
- <li>
-  <a href="http://www.cdnjs.cn/">
-   cdnjs.cn
-  </a>
- </li>
- <li>
-  <a href="https://cdnjs.com/">
-   cdnjs
-  </a>
- </li>
- <li>
-  <a href="http://jscdn.upai.com/">
-   upai
-  </a>
- </li>
- <li>
-  <a href="http://cdn.code.baidu.com/">
-   Baidu cdn
-  </a>
- </li>
- <li>
-  <a href="http://libs.useso.com/">
-   360 cdn
-  </a>
- </li>
- <li>
-  <a href="http://code.jquery.com/">
-   jquery cdn
-  </a>
- </li>
- <li>
-  <a href="http://lib.sinaapp.com/">
-   lib.sinaapp
-  </a>
- </li>
- <li>
-  <a href="http://www.jsdelivr.com/">
-   jsDelivr
-  </a>
- </li>
-</ul>
-<h3>
- CSS
-</h3>
-<ul>
- <li>
-  <a href="http://apps.eky.hk/css-triangle-generator/zh-hant">
-   css-triangle-generator
-  </a>
- </li>
- <li>
-  <a href="http://css3lib.alloyteam.com/">
-   css3lib
-  </a>
- </li>
- <li>
-  <a href="http://www.csszengarden.com/">
-   csszengarden
-  </a>
- </li>
- <li>
-  <a href="http://www.css88.com/tool/css3Preview/">
-   css3Preview
-  </a>
- </li>
- <li>
-  <a href="http://www.colorzilla.com/gradient-editor/">
-   CSS Gradient Generator
-  </a>
- </li>
- <li>
-  <a href="http://pleeease.io/play/">
-   pleeease
-  </a>
- </li>
- <li>
-  <a href="http://tool.lu/css/">
-   cssBeutify
-  </a>
- </li>
- <li>
-  <a href="http://isux.tencent.com/css3/tools.html">
-   css3-tool
-  </a>
- </li>
- <li>
-  <a href="http://isux.tencent.com/css3/tools.html">
-   css3 animation generator
-  </a>
- </li>
- <li>
-  <a href="http://www.css3maker.com/index.html">
-   css3 maker
-  </a>
- </li>
- <li>
-  <a href="http://spritegen.website-performance.org/">
-   css spritegen
-  </a>
- </li>
- <li>
-  <a href="http://csssprites.com/">
-   csssprites
-  </a>
- </li>
- <li>
-  <a href="http://sassme.arc90.com/">
-   sassme
-  </a>
- </li>
-</ul>
-<h3>
- Image compression
-</h3>
-<ul>
- <li>
-  <a href="http://www.punypng.com/">
-   punypng
-  </a>
- </li>
- <li>
-  <a href="http://webresizer.com/resizer/">
-   webresizer
-  </a>
- </li>
- <li>
-  <a href="https://tinypng.com">
-   TinyPNG
-  </a>
- </li>
- <li>
-  <a href="http://www.smushit.com/ysmush.it/">
-   smushit
-  </a>
- </li>
- <li>
-  <a href="http://alloyteam.github.io/AlloyPhoto/">
-   AlloyPhoto
-  </a>
- </li>
- <li>
-  <a href="https://compressor.io/">
-   Compressor.io
-  </a>
- </li>
- <li>
-  <a href="https://shrinkray.io">
-   Shrinkray
-  </a>
- </li>
-</ul>
-<h3>
- JavaScript
-</h3>
-<ul>
- <li>
-  <a href="http://tool.lu/js/">
-   jsBeutify
-  </a>
- </li>
- <li>
-  <a href="http://jsbeautifier.org/">
-   jsbeautifier
-  </a>
- </li>
- <li>
-  <a href="http://jsfiddle.net/">
-   jsfiddle
-  </a>
- </li>
- <li>
-  <a href="http://jsbin.com/">
-   jsbin
-  </a>
- </li>
- <li>
-  <a href="http://bonsaiden.github.io/JavaScript-Garden/">
-   JavaScript Garden
-  </a>
- </li>
-</ul>
-<h3>
- Pagespeed
-</h3>
-<ul>
- <li>
-  <a href="https://developers.google.com/speed/pagespeed/insights/">
-   PageSpeed
-  </a>
- </li>
- <li>
-  <a href="https://addons.mozilla.org/zh-cn/firefox/addon/yslow/">
-   YSlow
-  </a>
- </li>
- <li>
-  <a href="http://alibench.com/">
-   Alibench
-  </a>
- </li>
- <li>
-  <a href="http://pagespeed.webkaka.com/">
-   Webkaka
-  </a>
- </li>
- <li>
-  <a href="https://www.modern.ie/en-us/report">
-   Modern IE Reporting tool
-  </a>
- </li>
-</ul>
-<h3>
- Color
-</h3>
-<ul>
- <li>
-  <a href="http://nipponcolors.com/">
-   nipponcolors
-  </a>
- </li>
- <li>
-  <a href="http://flatuicolors.com/">
-   flatuicolors
-  </a>
- </li>
- <li>
-  <a href="http://ios7colors.com/">
-   ios7colors
-  </a>
- </li>
- <li>
-  <a href="http://lokeshdhakar.com/projects/color-thief/">
-   Color Thief
-  </a>
- </li>
- <li>
-  <a href="http://www.color-hex.com/">
-   color-hex
-  </a>
- </li>
- <li>
-  <a href="https://github.com/mrmrs/colors">
-   colors
-  </a>
-  <sup>
-   2 GitHub links in total 88 links, &#9733 6715, pushed 65 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm">
-   chuantongsecai
-  </a>
- </li>
- <li>
-  <a href="https://randomcolor.llllll.li/">
-   randomColor
-  </a>
- </li>
- <li>
-  <a href="http://www.checkman.io/please/">
-   Please JS
-  </a>
- </li>
- <li>
-  <a href="http://colourco.de">
-   colourco.de
-  </a>
- </li>
- <li>
-  <a href="http://www.flatuicolorpicker.com/">
-   flatuicolorpicker
-  </a>
- </li>
-</ul>
-<h3>
- Font
-</h3>
-<ul>
- <li>
-  <a href="https://www.google.com/fonts">
-   Google Fonts
-  </a>
- </li>
- <li>
-  <a href="http://www.dafont.com/">
-   dafont
-  </a>
- </li>
- <li>
-  <a href="http://www.youziku.com/">
-   youziku
-  </a>
- </li>
- <li>
-  <a href="http://www.qiuziti.com/">
-   qiuziti
-  </a>
- </li>
- <li>
-  <a href="http://www.fonts2u.com/index.html">
-   fonts2u
-  </a>
- </li>
- <li>
-  <a href="http://www.fonts.com/web-fonts">
-   webfonts
-  </a>
- </li>
- <li>
-  <a href="http://www.justfont.com/">
-   justfont
-  </a>
- </li>
- <li>
-  <a href="https://github.com/lvwzhen/iconpark">
-   iconpark
-  </a>
-  <sup>
-   2 GitHub links in total 88 links, &#9733 291, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.fontsquirrel.com/">
-   FontSquirrel
-  </a>
- </li>
- <li>
-  <a href="http://fontface.ninja/">
-   Fontface Ninja
-  </a>
- </li>
-</ul>
-<h3>
- API Debugging
-</h3>
-<ul>
- <li>
-  <a href="https://www.hurl.it/">
-   Hurl.it
-  </a>
- </li>
- <li>
-  <a href="http://requestb.in/">
-   requestb.in
-  </a>
- </li>
-</ul>
-<h3>
- API Doc
-</h3>
-<ul>
- <li>
-  <a href="http://www.jquery123.com/">
-   Jquery API
-  </a>
- </li>
- <li>
-  <a href="http://overapi.com/">
-   OverAPI
-  </a>
- </li>
- <li>
-  <a href="http://devdocs.io/">
-   devdocs
-  </a>
- </li>
- <li>
-  <a href="http://tool.oschina.net/apidocs">
-   oschina apidoc
-  </a>
- </li>
- <li>
-  <a href="http://easings.net/en">
-   Easing functions
-  </a>
- </li>
-</ul>
-<h3>
- Git Host
-</h3>
-<ul>
- <li>
-  <a href="https://github.com/">
-   GitHub
-  </a>
- </li>
- <li>
-  <a href="https://bitbucket.org/">
-   Bitbucket
-  </a>
- </li>
- <li>
-  <a href="https://about.gitlab.com/">
-   GitLab
-  </a>
- </li>
- <li>
-  <a href="https://gitcafe.com/">
-   GitCafe
-  </a>
- </li>
- <li>
-  <a href="http://git.oschina.net/">
-   Git@OSC
-  </a>
- </li>
-</ul>
+# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Tools for web
+
+### Response
+
+* [Responsinator](http://www.responsinator.com/)
+* [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
+* [Media Queri](http://mediaqueri.es/)
+* [Screensiz](http://screensiz.es/phone)
+
+### Placeholder
+
+* [placehold.it](http://placehold.it/)
+* [temp.im](http://temp.im/)
+* [lorempixel](http://lorempixel.com/)
+* [dummyimage](http://dummyimage.com/)
+* [placekitten](http://placekitten.com/)
+
+### Favicon
+
+* [favicon-generator](http://www.favicon-generator.org/)
+* [favicon.cc](http://www.favicon.cc/)
+* [xiconeditor](http://www.xiconeditor.com/)
+* [tool.lu favicon](http://tool.lu/favicon/)
+* [bitbug](http://www.bitbug.net/)
+* [iconogen](http://iconogen.com/)
+
+### CDN
+
+* [staticfile](http://www.staticfile.org/)
+* [bootcss cdn](http://www.bootcdn.cn/)
+* [cdnjs.cn](http://www.cdnjs.cn/)
+* [cdnjs](https://cdnjs.com/)
+* [upai](http://jscdn.upai.com/)
+* [Baidu cdn](http://cdn.code.baidu.com/)
+* [360 cdn](http://libs.useso.com/)
+* [jquery cdn](http://code.jquery.com/)
+* [lib.sinaapp](http://lib.sinaapp.com/)
+* [jsDelivr](http://www.jsdelivr.com/)
+
+### CSS
+
+* [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
+* [css3lib](http://css3lib.alloyteam.com/)
+* [csszengarden](http://www.csszengarden.com/)
+* [css3Preview](http://www.css88.com/tool/css3Preview/)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [pleeease](http://pleeease.io/play/)
+* [cssBeutify](http://tool.lu/css/)
+* [css3-tool](http://isux.tencent.com/css3/tools.html)
+* [css3 animation generator](http://isux.tencent.com/css3/tools.html)
+* [css3 maker](http://www.css3maker.com/index.html)
+* [css spritegen](http://spritegen.website-performance.org/)
+* [csssprites](http://csssprites.com/)
+* [sassme](http://sassme.arc90.com/)
+
+
+### Image compression
+
+* [punypng](http://www.punypng.com/)
+* [webresizer](http://webresizer.com/resizer/)
+* [TinyPNG](https://tinypng.com)
+* [smushit](http://www.smushit.com/ysmush.it/)
+* [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
+* [Compressor.io](https://compressor.io/)
+* [Shrinkray](https://shrinkray.io)
+
+### JavaScript
+
+* [jsBeutify](http://tool.lu/js/)
+* [jsbeautifier](http://jsbeautifier.org/)
+* [jsfiddle](http://jsfiddle.net/)
+* [jsbin](http://jsbin.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+### Pagespeed
+
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+* [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
+* [Alibench](http://alibench.com/)
+* [Webkaka](http://pagespeed.webkaka.com/)
+* [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
+
+### Color
+
+* [nipponcolors](http://nipponcolors.com/)
+* [flatuicolors](http://flatuicolors.com/)
+* [ios7colors](http://ios7colors.com/)
+* [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
+* [color-hex](http://www.color-hex.com/)
+* [colors](https://github.com/mrmrs/colors)
+* [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
+* [randomColor](https://randomcolor.llllll.li/)
+* [Please JS](http://www.checkman.io/please/)
+* [colourco.de](http://colourco.de)
+* [flatuicolorpicker](http://www.flatuicolorpicker.com/)
+
+### Font
+
+* [Google Fonts](https://www.google.com/fonts)
+* [dafont](http://www.dafont.com/)
+* [youziku](http://www.youziku.com/)
+* [qiuziti](http://www.qiuziti.com/)
+* [fonts2u](http://www.fonts2u.com/index.html)
+* [webfonts](http://www.fonts.com/web-fonts)
+* [justfont](http://www.justfont.com/)
+* [iconpark](https://github.com/lvwzhen/iconpark)
+* [FontSquirrel](http://www.fontsquirrel.com/)
+* [Fontface Ninja](http://fontface.ninja/)
+
+### API Debugging
+
+* [Hurl.it](https://www.hurl.it/)
+* [requestb.in](http://requestb.in/) 
+
+### API Doc
+
+* [Jquery API](http://www.jquery123.com/)
+* [OverAPI](http://overapi.com/)
+* [devdocs](http://devdocs.io/)
+* [oschina apidoc](http://tool.oschina.net/apidocs)
+* [Easing functions](http://easings.net/en)
+
+### Git Host
+
+* [GitHub](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+* [GitLab](https://about.gitlab.com/)
+* [GitCafe](https://gitcafe.com/)
+* [Git@OSC](http://git.oschina.net/)

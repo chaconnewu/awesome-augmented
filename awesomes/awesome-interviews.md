@@ -375,9 +375,6 @@
    Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 217, pushed 213 days ago
-  </sup>
-  <sup>
    &#9733 217, pushed 213 days ago
   </sup>
  </li>
@@ -395,9 +392,6 @@
   <a href="https://github.com/gdi2290/ngExam">
    An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 349, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 349, pushed 51 days ago
   </sup>
@@ -484,7 +478,7 @@
  </li>
  <li>
   <a href="http://www.geeksforgeeks.org/c-plus-plus/">
-   C++ Programming Q&A; and quizzes from computer science portal for geeks
+   C++ Programming Q&A and quizzes from computer science portal for geeks
   </a>
  </li>
  <li>
@@ -496,9 +490,6 @@
   <a href="https://github.com/haoel/leetcode">
    LeetCode Problems' Solutions written in C++
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 3991, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3991, pushed 3 days ago
   </sup>
@@ -613,9 +604,6 @@
    Coding exercises in Clojure, handy practice for technical interview questions
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 2, pushed 1367 days ago
-  </sup>
-  <sup>
    &#9733 2, pushed 1367 days ago
   </sup>
  </li>
@@ -651,7 +639,7 @@
  </li>
  <li>
   <a href="http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/">
-   Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As; and code snippets useful
+   Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful
   </a>
  </li>
  <li>
@@ -729,9 +717,6 @@
    Solutions for Elements of Programming Interviews problems written in Golang
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 15, pushed 137 days ago
-  </sup>
-  <sup>
    &#9733 15, pushed 137 days ago
   </sup>
  </li>
@@ -739,9 +724,6 @@
   <a href="https://github.com/efischer19/golang_ctci">
    Solutions for some basic coding interview tasks written in Go
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 8, pushed 327 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 327 days ago
   </sup>
@@ -821,9 +803,6 @@
    A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 1068, pushed 209 days ago
-  </sup>
-  <sup>
    &#9733 1068, pushed 209 days ago
   </sup>
  </li>
@@ -867,9 +846,6 @@
    A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 60, pushed 307 days ago
-  </sup>
-  <sup>
    &#9733 60, pushed 307 days ago
   </sup>
  </li>
@@ -877,9 +853,6 @@
   <a href="https://github.com/donbeave/interview">
    Data Structures and Algorithms in Java which can be useful in interview process
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 42, pushed 149 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 149 days ago
   </sup>
@@ -946,7 +919,7 @@
  </li>
  <li>
   <a href="http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/">
-   Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As; and code snippets useful
+   Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful
   </a>
  </li>
  <li>
@@ -974,9 +947,6 @@
    Some basic javascript coding challenges and interview questions
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 2955, pushed 51 days ago
-  </sup>
-  <sup>
    &#9733 2955, pushed 51 days ago
   </sup>
  </li>
@@ -984,9 +954,6 @@
   <a href="https://github.com/csvenja/javascript-exercises">
    Some JavaScript interview exercises
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 3, pushed 641 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 641 days ago
   </sup>
@@ -1116,9 +1083,6 @@
    Basic PHP interview questions
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 19, pushed 153 days ago
-  </sup>
-  <sup>
    &#9733 19, pushed 153 days ago
   </sup>
  </li>
@@ -1151,9 +1115,6 @@
   <a href="https://github.com/sigmavirus24/python-interview-questions">
    A listing of questions that could potentially be asked for a python job listing
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 32, pushed 328 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 328 days ago
   </sup>
@@ -1213,15 +1174,12 @@
    A list of common questions with answers ask during interview of ruby on rails job
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 22, pushed 123 days ago
-  </sup>
-  <sup>
    &#9733 22, pushed 123 days ago
   </sup>
  </li>
  <li>
   <a href="http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers">
-   Ruby And Ruby On Rails interview Q&A;
+   Ruby And Ruby On Rails interview Q&A
   </a>
  </li>
  <li>
@@ -1274,9 +1232,6 @@
    A list of questions about Ruby programming you can use to quiz yourself
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 785, pushed 80 days ago
-  </sup>
-  <sup>
    &#9733 785, pushed 80 days ago
   </sup>
  </li>
@@ -1320,9 +1275,6 @@
    A list of helpful Scala related questions you can use to interview potential candidates
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 94, pushed 223 days ago
-  </sup>
-  <sup>
    &#9733 94, pushed 223 days ago
   </sup>
  </li>
@@ -1335,9 +1287,6 @@
   <a href="https://github.com/peterarsentev/Scala-Interview-Questions-Answers">
    Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 2, pushed 355 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 355 days ago
   </sup>
@@ -1376,9 +1325,6 @@
   <a href="https://github.com/diwu/LeetCode-Solutions-in-Swift">
    Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 731, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 731, pushed 10 days ago
   </sup>
@@ -1513,7 +1459,7 @@
 <ul>
  <li>
   <a href="http://www.dotnetfunda.com/interviews/cat/208/postgresql">
-   13 PostgreSQL Interview Q&A;
+   13 PostgreSQL Interview Q&A
   </a>
  </li>
  <li>
@@ -1528,7 +1474,7 @@
  </li>
  <li>
   <a href="http://www.coolinterview.com/type.asp?iType=411](http://www.coolinterview.com/type.asp?iType=411)">
-   PostgreSQL Interview Q&A; from CoolInterview.com
+   PostgreSQL Interview Q&A from CoolInterview.com
   </a>
  </li>
 </ul>
@@ -1560,9 +1506,6 @@
   <a href="https://github.com/XD-DENG/SQL-exercise">
    Schema, Questions & Solutions for SQL Exercising
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 29, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 36 days ago
   </sup>
@@ -1665,9 +1608,6 @@
    Algorithms playground for common interview questions written in Ruby
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 2411, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 2411, pushed 4 days ago
   </sup>
  </li>
@@ -1675,9 +1615,6 @@
   <a href="https://github.com/EvgenyKarkan/EKAlgorithms">
    EKAlgorithms contains some well known CS algorithms & data structures
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 1970, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 1970, pushed 29 days ago
   </sup>
@@ -1707,9 +1644,6 @@
    Common interview questions and puzzles solved in a number of languages
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 9, pushed 101 days ago
-  </sup>
-  <sup>
    &#9733 9, pushed 101 days ago
   </sup>
  </li>
@@ -1718,9 +1652,6 @@
    Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 2410, pushed 11 days ago
-  </sup>
-  <sup>
    &#9733 2410, pushed 11 days ago
   </sup>
  </li>
@@ -1728,9 +1659,6 @@
   <a href="https://github.com/roseperrone/interview-questions">
    Interview questions solved in python
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 42, pushed 132 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 132 days ago
   </sup>
@@ -1745,9 +1673,6 @@
    A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore
   </a>
   <sup>
-   27 GitHub links in total 272 links, ★ 21118, pushed 11 days ago
-  </sup>
-  <sup>
    &#9733 21118, pushed 11 days ago
   </sup>
  </li>
@@ -1760,9 +1685,6 @@
   <a href="https://github.com/starandtina/backend-interview-questions">
    Some simple questions to interview potential backend candidates
   </a>
-  <sup>
-   27 GitHub links in total 272 links, ★ 22, pushed 192 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 192 days ago
   </sup>

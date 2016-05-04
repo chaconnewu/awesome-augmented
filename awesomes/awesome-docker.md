@@ -179,6 +179,9 @@ If this list is not complete, you can
   <a href="https://github.com/wsargent/docker-cheat-sheet">
    Docker Cheat Sheet
   </a>
+  <sup>
+   &#9733 5953, pushed 6 days ago
+  </sup>
   by
   <a href="https://github.com/wsargent">
    @wsargent
@@ -186,12 +189,6 @@ If this list is not complete, you can
   <strong>
    MUST SEE
   </strong>
-  <sup>
-   159 GitHub links in total 455 links, ★ 5953, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 5953, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="http://project-webdev.blogspot.de">
@@ -241,16 +238,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/dwyl/learn-docker">
    Learn Docker
   </a>
+  <sup>
+   &#9733 29, pushed 259 days ago
+  </sup>
   Full environment set up, screenshots, step-by-step tutorial and more resources (video, articles, cheat sheets) by
   <a href="https://github.com/dwyl">
    @dwyl
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 29, pushed 259 days ago
-  </sup>
-  <sup>
-   &#9733 29, pushed 259 days ago
-  </sup>
  </li>
  <li>
   <a href="http://docker-saigon.github.io/post/Docker-Caveats/">
@@ -713,17 +707,14 @@ about docker! (Tips: checkout her
   <a href="https://github.com/Friz-zy/awesome-linux-containers">
    Awesome Linux Container
   </a>
+  <sup>
+   &#9733 85, pushed 46 days ago
+  </sup>
   more general about container than this repo, by
   <a href="https://github.com/Friz-zy">
    @Friz-zy
   </a>
   .
-  <sup>
-   159 GitHub links in total 455 links, ★ 85, pushed 46 days ago
-  </sup>
-  <sup>
-   &#9733 85, pushed 46 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1263,25 +1254,19 @@ about docker! (Tips: checkout her
   <a href="https://github.com/cloudimmunity/docker-slim">
    DockerSlim
   </a>
-  shrinks fat Docker images creating the smallest possible images.
-  <sup>
-   159 GitHub links in total 455 links, ★ 499, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 499, pushed 16 days ago
   </sup>
+  shrinks fat Docker images creating the smallest possible images.
  </li>
  <li>
   <a href="https://github.com/djosephsen/skinnywhale">
    SkinnyWhale
   </a>
-  Skinnywhale helps you make smaller (as in megabytes) Docker containers.
-  <sup>
-   159 GitHub links in total 455 links, ★ 145, pushed 189 days ago
-  </sup>
   <sup>
    &#9733 145, pushed 189 days ago
   </sup>
+  Skinnywhale helps you make smaller (as in megabytes) Docker containers.
  </li>
 </ul>
 <h2>
@@ -1330,9 +1315,6 @@ about docker! (Tips: checkout her
   <a href="https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines">
    Docker Secure Deployment Guidelines
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 309, pushed 453 days ago
-  </sup>
   <sup>
    &#9733 309, pushed 453 days ago
   </sup>
@@ -1642,9 +1624,6 @@ about docker! (Tips: checkout her
    Docker
   </a>
   <sup>
-   159 GitHub links in total 455 links, ★ 30916, pushed 0 days ago
-  </sup>
-  <sup>
    &#9733 30916, pushed 0 days ago
   </sup>
  </li>
@@ -1663,37 +1642,28 @@ about docker! (Tips: checkout her
   <a href="https://github.com/docker/machine">
    Docker Machine
   </a>
-  (Machine management for a container-centric world)
-  <sup>
-   159 GitHub links in total 455 links, ★ 3204, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3204, pushed 3 days ago
   </sup>
+  (Machine management for a container-centric world)
  </li>
  <li>
   <a href="https://github.com/docker/distribution">
    Docker Registry
   </a>
-  (The Docker toolset to pack, ship, store, and deliver content)
-  <sup>
-   159 GitHub links in total 455 links, ★ 2017, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2017, pushed 4 days ago
   </sup>
+  (The Docker toolset to pack, ship, store, and deliver content)
  </li>
  <li>
   <a href="https://github.com/docker/swarm">
    Docker Swarm
   </a>
-  (Swarm: a Docker-native clustering system)
-  <sup>
-   159 GitHub links in total 455 links, ★ 3658, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3658, pushed 2 days ago
   </sup>
+  (Swarm: a Docker-native clustering system)
  </li>
 </ul>
 <h2>
@@ -1704,76 +1674,61 @@ about docker! (Tips: checkout her
   <a href="https://github.com/TomasTomecek/sen">
    sen
   </a>
+  <sup>
+   &#9733 312, pushed 2 days ago
+  </sup>
   - Terminal user interface for docker engine, by
   <a href="https://github.com/TomasTomecek">
    @TomasTomecek
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 312, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 312, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/j-bennet/wharfee">
    wharfee
   </a>
+  <sup>
+   &#9733 377, pushed 75 days ago
+  </sup>
   - Autocompletion and syntax highlighting for Docker commands.) by
   <a href="https://github.com/j-bennet">
    @j-bennet
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 377, pushed 75 days ago
-  </sup>
-  <sup>
-   &#9733 377, pushed 75 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/yadutaf/ctop">
    ctop
   </a>
+  <sup>
+   &#9733 129, pushed 24 days ago
+  </sup>
   - A command line / text based Linux Containers monitoring tool that works just like you expect by
   <a href="https://github.com/yadutaf">
    @yadutaf
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 129, pushed 24 days ago
-  </sup>
-  <sup>
-   &#9733 129, pushed 24 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/moncho/dry">
    dry
   </a>
+  <sup>
+   &#9733 93, pushed 3 days ago
+  </sup>
   - An interactive CLI for Docker containers by
   <a href="https://github.com/moncho">
    @moncho
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 93, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 93, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/docker/dockercraft">
    dockercraft
   </a>
+  <sup>
+   &#9733 3640, pushed 7 days ago
+  </sup>
   - Docker + Minecraft = Dockercraft by
   <a href="https://github.com/docker">
    @docker
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3640, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 3640, pushed 7 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1784,211 +1739,169 @@ about docker! (Tips: checkout her
   <a href="https://github.com/Alexis-benoist/draw-compose">
    draw-compose
   </a>
+  <sup>
+   &#9733 12, pushed 17 days ago
+  </sup>
   - Utility to draw a schema of a docker compose by
   <a href="https://github.com/Alexis-benoist">
    @Alexis-benoist
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 12, pushed 17 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 17 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tianon/gosu">
    GoSu
   </a>
+  <sup>
+   &#9733 717, pushed 14 days ago
+  </sup>
   - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by
   <a href="https://github.com/tianon">
    @tianon
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 717, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 717, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/garywiz/chaperone">
    Chaperone
   </a>
+  <sup>
+   &#9733 43, pushed 56 days ago
+  </sup>
   - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by
   <a href="https://github.com/garywiz">
    @garywiz
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 43, pushed 56 days ago
-  </sup>
-  <sup>
-   &#9733 43, pushed 56 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jpetazzo/nsenter">
    ns-enter
   </a>
+  <sup>
+   &#9733 1407, pushed 15 days ago
+  </sup>
   (no more ssh, enter name spaces of container) by
   <a href="https://github.com/jpetazzo">
    @jpetazzo
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1407, pushed 15 days ago
-  </sup>
-  <sup>
-   &#9733 1407, pushed 15 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jpetazzo/squid-in-a-can">
    Squid-in-a-can
   </a>
+  <sup>
+   &#9733 169, pushed 47 days ago
+  </sup>
   (in case of proxy problem) by
   <a href="https://github.com/jpetazzo">
    @jpetazzo
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 169, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 169, pushed 47 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jwilder/docker-gen">
    docker-gen
   </a>
+  <sup>
+   &#9733 1359, pushed 4 days ago
+  </sup>
   (Generate files from docker container meta-data) by
   <a href="https://github.com/jwilder">
    @jwilder
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1359, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1359, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jwilder/dockerize">
    dockerize
   </a>
+  <sup>
+   &#9733 461, pushed 5 days ago
+  </sup>
   (Utility to simplify running applications in docker containers) by
   <a href="https://github.com/jwilder">
    @jwilder
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 461, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 461, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/progrium/registrator">
    registrator
   </a>
+  <sup>
+   &#9733 3, pushed 259 days ago
+  </sup>
   (Service registry bridge for Docker) by
   <a href="https://github.com/progrium">
    @progrium
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3, pushed 259 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 259 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/swipely/dockly">
    Dockly
   </a>
+  <sup>
+   &#9733 175, pushed 4 days ago
+  </sup>
   (Dockly is a gem made to ease the pain of packaging an application in Docker.) by
   <a href="https://github.com/swipely/">
    @swipely
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 175, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 175, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cpuguy83/docker-volumes">
    docker-volumes
   </a>
+  <sup>
+   &#9733 360, pushed 265 days ago
+  </sup>
   (Docker Volume Manager) by
   <a href="https://github.com/cpuguy83">
    @cpuguy83
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 360, pushed 265 days ago
-  </sup>
-  <sup>
-   &#9733 360, pushed 265 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/projectatomic/dockerfile_lint">
    dockerfile_lint
   </a>
+  <sup>
+   &#9733 100, pushed 16 days ago
+  </sup>
   (A rule-based 'linter' for Dockerfiles) by
   <a href="https://github.com/redhataccess">
    @redhataccess
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 100, pushed 16 days ago
-  </sup>
-  <sup>
-   &#9733 100, pushed 16 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/clusterhq/powerstrip">
    powerstrip
   </a>
+  <sup>
+   &#9733 301, pushed 109 days ago
+  </sup>
   (A tool for prototyping Docker extensions) by
   <a href="https://github.com/clusterhq">
    @clusterhq
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 301, pushed 109 days ago
-  </sup>
-  <sup>
-   &#9733 301, pushed 109 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tailhook/vagga">
    Vagga
   </a>
+  <sup>
+   &#9733 785, pushed 2 days ago
+  </sup>
   (Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.) by
   <a href="https://github.com/tailhook/">
    @tailhook
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 785, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 785, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/apocas/dockerode">
    dockerode
   </a>
+  <sup>
+   &#9733 758, pushed 8 days ago
+  </sup>
   (Not just another Docker Remote API node.js module) by
   <a href="https://github.com/apocas">
    @apocas
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 758, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 758, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fsouza/go-dockerclient/">
@@ -2003,16 +1916,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/lsqio/container-factory">
    container-factory
   </a>
+  <sup>
+   &#9733 51, pushed 363 days ago
+  </sup>
   - Produces Docker images from tarballs of application source code by
   <a href="https://github.com/lsqio">
    @lsqio
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 51, pushed 363 days ago
-  </sup>
-  <sup>
-   &#9733 51, pushed 363 days ago
-  </sup>
  </li>
  <li>
   <a href="https://codelift.io/">
@@ -2027,181 +1937,145 @@ about docker! (Tips: checkout her
   <a href="https://github.com/ashmckenzie/percheron">
    percheron
   </a>
+  <sup>
+   &#9733 158, pushed 26 days ago
+  </sup>
   - Organise your Docker containers with muscle and intelligence by
   <a href="https://github.com/ashmckenzie">
    @ashmckenzie
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 158, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 158, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/michaelsauter/crane">
    crane
   </a>
+  <sup>
+   &#9733 647, pushed 3 days ago
+  </sup>
   - Lift containers with ease. Easy orchestration for images and containers by
   <a href="https://github.com/michaelsauter">
    @michaelsauter
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 647, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 647, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rancher/sherdock">
    sherdock
   </a>
+  <sup>
+   &#9733 106, pushed 219 days ago
+  </sup>
   - Automatic GC of images based on regexp by
   <a href="https://github.com/rancher">
    @rancher
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 106, pushed 219 days ago
-  </sup>
-  <sup>
-   &#9733 106, pushed 219 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/p8952/bocker">
    bocker
   </a>
+  <sup>
+   &#9733 3260, pushed 251 days ago
+  </sup>
   (1) - Docker implemented in 100 lines of bash by
   <a href="https://github.com/p8952">
    p8952
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3260, pushed 251 days ago
-  </sup>
-  <sup>
-   &#9733 3260, pushed 251 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/icy/bocker">
    bocker
   </a>
+  <sup>
+   &#9733 21, pushed 251 days ago
+  </sup>
   (2) - Write Dockerfile completely in Bash. Extensible and simple. --> Reusable by
   <a href="https://github.com/icy">
    @icy
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 21, pushed 251 days ago
-  </sup>
-  <sup>
-   &#9733 21, pushed 251 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/spotify/docker-gc">
    docker-gc
   </a>
+  <sup>
+   &#9733 1320, pushed 18 days ago
+  </sup>
   - A cron job that will delete old stopped containers and unused images by
   <a href="https://github.com/spotify">
    @spotify
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1320, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 1320, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/wercker/dlayer">
    dlayer
   </a>
+  <sup>
+   &#9733 64, pushed 82 days ago
+  </sup>
   - Stats collector for Docker layers by
   <a href="https://github.com/wercker">
    @wercker
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 64, pushed 82 days ago
-  </sup>
-  <sup>
-   &#9733 64, pushed 82 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/bsideup/forward2docker">
    forward2docker
   </a>
+  <sup>
+   &#9733 66, pushed 27 days ago
+  </sup>
   - Utility to auto forward a port from localhost into ports on Docker containers running in a boot2docker VM by
   <a href="https://github.com/bsideup">
    @bsideup
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 66, pushed 27 days ago
-  </sup>
-  <sup>
-   &#9733 66, pushed 27 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jlhawn/dockramp">
    dockramp
   </a>
+  <sup>
+   &#9733 214, pushed 5 days ago
+  </sup>
   - Proof of Concept: A Client Driven Docker Image Builder by
   <a href="https://github.com/jlhawn">
    @jlhawn
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 214, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 214, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/duedil-ltd/portainer">
    portainer
   </a>
+  <sup>
+   &#9733 118, pushed 99 days ago
+  </sup>
   - Apache Mesos framework for building Docker images by
   <a href="https://github.com/tarnfeld">
    @tarnfeld
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 118, pushed 99 days ago
-  </sup>
-  <sup>
-   &#9733 118, pushed 99 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gesellix/gradle-docker-plugin">
    Gradle Docker plugin
   </a>
+  <sup>
+   &#9733 42, pushed 19 days ago
+  </sup>
   - A Docker remote api plugin for Gradle by
   <a href="https://github.com/gesellix">
    @gesellix
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 42, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 42, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gesellix/docker-client">
    Docker client
   </a>
+  <sup>
+   &#9733 20, pushed 2 days ago
+  </sup>
   - A Docker remote api client library for the JVM, written in Groovy by
   <a href="https://github.com/gesellix">
    @gesellix
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 20, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 20, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="http://dropdock.io/">
@@ -2213,16 +2087,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/fgrehm/devstep">
    Devstep
   </a>
+  <sup>
+   &#9733 179, pushed 54 days ago
+  </sup>
   - Development environments powered by Docker and buildpacks by
   <a href="https://github.com/fgrehm">
    @fgrehm
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 179, pushed 54 days ago
-  </sup>
-  <sup>
-   &#9733 179, pushed 54 days ago
-  </sup>
  </li>
  <li>
   <a href="https://lorry.io/">
@@ -2246,6 +2117,9 @@ about docker! (Tips: checkout her
   <a href="https://github.com/benzaita/docker-do">
    docker-do
   </a>
+  <sup>
+   &#9733 11, pushed 174 days ago
+  </sup>
   - hassle-free docker run, like
   <code>
    env
@@ -2254,128 +2128,98 @@ about docker! (Tips: checkout her
   <a href="https://github.com/benzaita">
    @benzaita
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 11, pushed 174 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 174 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/brikis98/docker-osx-dev">
    Docker osx dev
   </a>
+  <sup>
+   &#9733 1027, pushed 23 days ago
+  </sup>
   - A productive development environment with Docker on OS X by
   <a href="https://github.com/brikis98">
    @brikis98
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1027, pushed 23 days ago
-  </sup>
-  <sup>
-   &#9733 1027, pushed 23 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/grammarly/rocker">
    rocker
   </a>
+  <sup>
+   &#9733 182, pushed 7 days ago
+  </sup>
   - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by
   <a href="https://github.com/grammarly">
    grammarly
   </a>
   .
-  <sup>
-   159 GitHub links in total 455 links, ★ 182, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 182, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/docker-exec/dexec">
    dexec
   </a>
-  - Command line interface for running code with Docker Exec images. https://docker-exec.github.io/ written in Go.
-  <sup>
-   159 GitHub links in total 455 links, ★ 239, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 239, pushed 9 days ago
   </sup>
+  - Command line interface for running code with Docker Exec images. https://docker-exec.github.io/ written in Go.
  </li>
  <li>
   <a href="https://github.com/polonskiy/crowdr">
    crowdr
   </a>
+  <sup>
+   &#9733 62, pushed 103 days ago
+  </sup>
   - Tool for managing multiple Docker containers (docker-compose alternative) by
   <a href="https://github.com/polonskiy/">
    @polonskiy
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 62, pushed 103 days ago
-  </sup>
-  <sup>
-   &#9733 62, pushed 103 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/instacart/ahab">
    ahab
   </a>
+  <sup>
+   &#9733 93, pushed 14 days ago
+  </sup>
   - Docker event handling with Python by
   <a href="https://github.com/instacart">
    @instacart
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 93, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 93, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/konstruktoid/docker-garby">
    docker-garby
   </a>
+  <sup>
+   &#9733 4, pushed 58 days ago
+  </sup>
   - Docker garbage collection script by
   <a href="https://github.com/konstruktoid">
    @konstruktoid
   </a>
   .
-  <sup>
-   159 GitHub links in total 455 links, ★ 4, pushed 58 days ago
-  </sup>
-  <sup>
-   &#9733 4, pushed 58 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/TechnologyAdvice/DevLab">
    DevLab
   </a>
-  - Utility for running containerized development environments
-  <sup>
-   159 GitHub links in total 455 links, ★ 391, pushed 128 days ago
-  </sup>
   <sup>
    &#9733 391, pushed 128 days ago
   </sup>
+  - Utility for running containerized development environments
  </li>
  <li>
   <a href="https://github.com/sindresorhus/is-docker">
    is-docker
   </a>
+  <sup>
+   &#9733 14, pushed 124 days ago
+  </sup>
   - Check if the process is running inside a Docker container by
   <a href="https://github.com/sindresorhus/awesome">
    @sindresorhus
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 14, pushed 124 days ago
-  </sup>
-  <sup>
-   &#9733 14, pushed 124 days ago
-  </sup>
  </li>
  <li>
   <a href="http://domeide.github.io/">
@@ -2390,46 +2234,37 @@ about docker! (Tips: checkout her
   <a href="https://github.com/getcarina/dvm">
    DVM
   </a>
+  <sup>
+   &#9733 112, pushed 18 days ago
+  </sup>
   - Docker version manager by
   <a href="https://github.com/getcarina">
    @getcarina
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 112, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 112, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mayflower/docker-ls">
    docker-ls
   </a>
+  <sup>
+   &#9733 39, pushed 19 days ago
+  </sup>
   - CLI tools for browsing and manipulating docker registries by
   <a href="https://github.com/mayflower">
    @mayflower
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 39, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cloud66/habitus">
    habitus
   </a>
+  <sup>
+   &#9733 116, pushed 13 days ago
+  </sup>
   - A Build Flow Tool for Docker http://www.habitus.io by
   <a href="https://github.com/cloud66">
    @cloud66
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 116, pushed 13 days ago
-  </sup>
-  <sup>
-   &#9733 116, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.composeregistry.com">
@@ -2441,73 +2276,58 @@ about docker! (Tips: checkout her
   <a href="https://github.com/zzrotdesign/docker-clean">
    Docker Clean
   </a>
+  <sup>
+   &#9733 202, pushed 4 days ago
+  </sup>
   - A script that cleans Docker containers, images and volumes by
   <a href="https://github.com/zzrotdesign">
    @zzrotdesign
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 202, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 202, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/adrianmo/powerline-docker">
    Powerline-Docker
   </a>
+  <sup>
+   &#9733 9, pushed 7 days ago
+  </sup>
   - A Powerline segment for showing the status of Docker containers by
   <a href="https://github.com/adrianmo">
    @adrianmo
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 9, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 9, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Microsoft/Docker-PowerShell">
    Docker-PowerShell
   </a>
-  - PowerShell Module for Docker
-  <sup>
-   159 GitHub links in total 455 links, ★ 73, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 73, pushed 1 days ago
   </sup>
+  - PowerShell Module for Docker
  </li>
  <li>
   <a href="https://github.com/francescou/docker-compose-search">
    docker-compose-search
   </a>
+  <sup>
+   &#9733 6, pushed 112 days ago
+  </sup>
   - A search engine for Docker Compose application stacks by
   <a href="https://github.com/francescou/">
    @francescou
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 6, pushed 112 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 112 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gdiepen/docker-convenience-scripts">
    Docker Volume Clone Utility
   </a>
+  <sup>
+   &#9733 1, pushed 2 days ago
+  </sup>
   - A Docker Utility to Clone Volumes
   <a href="https://twitter.com/gdiepen">
    @gdiepen
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2518,28 +2338,22 @@ about docker! (Tips: checkout her
   <a href="https://github.com/ciandcd/awesome-ciandcd">
    Awesome-ciandcd
   </a>
-  - Not specific to docker but relevant.
-  <sup>
-   159 GitHub links in total 455 links, ★ 167, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 167, pushed 4 days ago
   </sup>
+  - Not specific to docker but relevant.
  </li>
  <li>
   <a href="https://github.com/harbur/captain">
    Captain
   </a>
+  <sup>
+   &#9733 294, pushed 76 days ago
+  </sup>
   - Convert your Git workflow to Docker containers ready for Continuous Delivery by
   <a href="https://github.com/harbur">
    @harbur
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 294, pushed 76 days ago
-  </sup>
-  <sup>
-   &#9733 294, pushed 76 days ago
-  </sup>
  </li>
  <li>
   <a href="https://circleci.com/">
@@ -2569,28 +2383,22 @@ about docker! (Tips: checkout her
   <a href="https://github.com/dockunit/platform">
    Dockunit
   </a>
+  <sup>
+   &#9733 35, pushed 165 days ago
+  </sup>
   - Docker based integration tests. A simple Node based utility for running Docker based unit tests. By
   <a href="https://github.com/dockunit">
    @dockunit
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 35, pushed 165 days ago
-  </sup>
-  <sup>
-   &#9733 35, pushed 165 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/drone/drone">
    Drone
   </a>
-  - Continuous integration server built on Docker and configured using YAML files.
-  <sup>
-   159 GitHub links in total 455 links, ★ 6750, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 6750, pushed 1 days ago
   </sup>
+  - Continuous integration server built on Docker and configured using YAML files.
  </li>
  <li>
   <a href="https://about.gitlab.com/gitlab-ci/">
@@ -2602,13 +2410,10 @@ about docker! (Tips: checkout her
   <a href="https://github.com/gocd/gocd-docker">
    GOCD-Docker
   </a>
-  Go Server and Agent in docker containers to provision.
-  <sup>
-   159 GitHub links in total 455 links, ★ 57, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 57, pushed 5 days ago
   </sup>
+  Go Server and Agent in docker containers to provision.
  </li>
  <li>
   <a href="https://hub.jazz.net">
@@ -2626,28 +2431,22 @@ about docker! (Tips: checkout her
   <a href="https://github.com/CenturyLinkLabs/watchtower">
    Watchtower
   </a>
+  <sup>
+   &#9733 327, pushed 49 days ago
+  </sup>
   - Automatically update running Docker containers by
   <a href="https://github.com/CenturyLinkLabs">
    @CenturyLinkLabs
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 327, pushed 49 days ago
-  </sup>
-  <sup>
-   &#9733 327, pushed 49 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/francescou/docker-continuous-deployment">
    Microservices Continuous Deployment
   </a>
-  - Continuous deployment of a microservices application
-  <sup>
-   159 GitHub links in total 455 links, ★ 84, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 62 days ago
   </sup>
+  - Continuous deployment of a microservices application
  </li>
 </ul>
 <h2>
@@ -2658,43 +2457,34 @@ about docker! (Tips: checkout her
   <a href="https://github.com/ehazlett/conduit">
    Conduit
   </a>
+  <sup>
+   &#9733 75, pushed 26 days ago
+  </sup>
   - Experimental deployment system for Docker by
   <a href="https://github.com/ehazlett">
    @ehazlett
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 75, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 75, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gondor/depcon">
    depcon
   </a>
+  <sup>
+   &#9733 48, pushed 3 days ago
+  </sup>
   - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes.  By
   <a href="https://github.com/gondor">
    @gonodr
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 48, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 48, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/humblec/dockit">
    dockit
   </a>
-  - Do docker actions and Deploy gluster containers!
-  <sup>
-   159 GitHub links in total 455 links, ★ 98, pushed 546 days ago
-  </sup>
   <sup>
    &#9733 98, pushed 546 days ago
   </sup>
+  - Do docker actions and Deploy gluster containers!
  </li>
  <li>
   <a href="https://lastbackend.com/">
@@ -2706,28 +2496,22 @@ about docker! (Tips: checkout her
   <a href="https://github.com/grammarly/rocker-compose">
    rocker-compose
   </a>
-  - Docker composition tool with idempotency features for deploying apps composed of multiple containers.
-  <sup>
-   159 GitHub links in total 455 links, ★ 296, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 296, pushed 10 days ago
   </sup>
+  - Docker composition tool with idempotency features for deploying apps composed of multiple containers.
  </li>
  <li>
   <a href="https://github.com/CenturyLinkLabs/zodiac">
    Zodiac
   </a>
+  <sup>
+   &#9733 133, pushed 259 days ago
+  </sup>
   - A lightweight tool for easy deployment and rollback of dockerized applications. By
   <a href="https://github.com/CenturyLinkLabs">
    @CenturyLinkLabs
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 133, pushed 259 days ago
-  </sup>
-  <sup>
-   &#9733 133, pushed 259 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2835,21 +2619,21 @@ about docker! (Tips: checkout her
   <a href="https://github.com/jwilder/nginx-proxy">
    nginx-proxy
   </a>
+  <sup>
+   &#9733 2504, pushed 2 days ago
+  </sup>
   - Automated nginx proxy for Docker containers using docker-gen by
   <a href="https://github.com/jwilder">
    @jwilder
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2504, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 2504, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/zchee/h2o-proxy">
    h2o-proxy
   </a>
+  <sup>
+   &#9733 24, pushed 118 days ago
+  </sup>
   - Automated H2O reverse proxy for Docker containers. An alternative to
   <a href="https://github.com/jwilder/nginx-proxy">
    jwilder/nginx-proxy
@@ -2858,42 +2642,30 @@ about docker! (Tips: checkout her
   <a href="https://github.com/zchee">
    @zchee
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 24, pushed 118 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 118 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/silarsis/docker-proxy">
    docker-proxy
   </a>
+  <sup>
+   &#9733 70, pushed 2 days ago
+  </sup>
   - Transparent proxy for docker containers, run in a docker container. By
   <a href="https://github.com/silarsis">
    @silarsis
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 70, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 70, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mattallty/muguet">
    muguet
   </a>
+  <sup>
+   &#9733 116, pushed 133 days ago
+  </sup>
   - DNS Server & Reverse proxy for Docker environments. By
   <a href="https://github.com/mattallty">
    @mattallty
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 116, pushed 133 days ago
-  </sup>
-  <sup>
-   &#9733 116, pushed 133 days ago
-  </sup>
  </li>
  <li>
   <a href="https://traefik.io/">
@@ -2913,76 +2685,61 @@ about docker! (Tips: checkout her
   <a href="https://github.com/atc-/docker-registry-ui">
    Docker Registry Web
   </a>
+  <sup>
+   &#9733 548, pushed 24 days ago
+  </sup>
   (A web UI for easy private/local Docker Registry integration) by
   <a href="https://github.com/atc-">
    @atc-
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 548, pushed 24 days ago
-  </sup>
-  <sup>
-   &#9733 548, pushed 24 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kevana/ui-for-docker">
    DockerUI
   </a>
+  <sup>
+   &#9733 3780, pushed 4 days ago
+  </sup>
   (DockerUI is a web interface to interact with the Remote API.) by
   <a href="https://github.com/crosbymichael">
    @crosbymichael
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3780, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 3780, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/SUSE/Portus">
    Portus
   </a>
+  <sup>
+   &#9733 756, pushed 3 days ago
+  </sup>
   (Authorization service and frontend for Docker registry (v2)) by
   <a href="https://github.com/SUSE">
    @SUSE
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 756, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 756, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Electrofenster/dockerding-on-rails">
    dockering-on-rails
   </a>
+  <sup>
+   &#9733 5, pushed 142 days ago
+  </sup>
   Simple Web-Interface for Docker with a lot of features by
   <a href="https://github.com/Electrofenster/">
    @Electrofenster
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 5, pushed 142 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 142 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ozlerhakan/rapid">
    Rapid Dashboard
   </a>
+  <sup>
+   &#9733 5, pushed 73 days ago
+  </sup>
   (A simple query dashboard to use Docker Remote API) by
   <a href="https://github.com/ozlerhakan/">
    @ozlerhakan
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 5, pushed 73 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 73 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3002,58 +2759,46 @@ about docker! (Tips: checkout her
   <a href="https://github.com/mattes/fugu">
    FuGu
   </a>
+  <sup>
+   &#9733 129, pushed 267 days ago
+  </sup>
   (a docker run wrapper without orchestration) by
   <a href="https://github.com/mattes">
    @mattes
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 129, pushed 267 days ago
-  </sup>
-  <sup>
-   &#9733 129, pushed 267 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/boot2docker/boot2docker">
    Boot2Docker
   </a>
-  (docker for OSX and Windows) -- http://boot2docker.io/
-  <sup>
-   159 GitHub links in total 455 links, ★ 6051, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 6051, pushed 6 days ago
   </sup>
+  (docker for OSX and Windows) -- http://boot2docker.io/
  </li>
  <li>
   <a href="https://github.com/shyiko/docker-vm">
    docker-vm
   </a>
+  <sup>
+   &#9733 30, pushed 281 days ago
+  </sup>
   (A simple and transparent alternative to boot2docker (backed by Vagrant)) by
   <a href="https://github.com/shyiko">
    @shyiko
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 30, pushed 281 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 281 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/awvessel/vessel">
    Vessel
   </a>
+  <sup>
+   &#9733 212, pushed 291 days ago
+  </sup>
   (Vessel automates the setup & use of dockerized development environments) by
   <a href="https://github.com/awvessel">
    @awvessel
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 212, pushed 291 days ago
-  </sup>
-  <sup>
-   &#9733 212, pushed 291 days ago
-  </sup>
  </li>
  <li>
   <a href="http://subuser.org">
@@ -3074,16 +2819,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/dokku/dokku">
    Dokku
   </a>
+  <sup>
+   &#9733 11549, pushed 4 days ago
+  </sup>
   (Docker powered mini-Heroku in around 100 lines of Bash) by
   <a href="https://github.com/progrium">
    @progrium
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 11549, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 11549, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="http://docs.ansible.com/ansible/docker_module.html">
@@ -3107,16 +2849,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/CenturyLinkLabs/dray">
    Dray
   </a>
+  <sup>
+   &#9733 249, pushed 101 days ago
+  </sup>
   An engine for managing the execution of container-based workflows. http://Dray.it by
   <a href="https://github.com/CenturyLinkLabs">
    @CenturyLinkLabs
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 249, pushed 101 days ago
-  </sup>
-  <sup>
-   &#9733 249, pushed 101 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ashmckenzie/percheron">
@@ -3137,33 +2876,30 @@ about docker! (Tips: checkout her
   <a href="https://github.com/cortexmedia/Beluga">
    Beluga
   </a>
+  <sup>
+   &#9733 164, pushed 216 days ago
+  </sup>
   Beluga a CLI to deploy docker containers on a single server or low amount of servers. By
   <a href="https://github.com/cortexmedia">
    @cortextmedia
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 164, pushed 216 days ago
-  </sup>
-  <sup>
-   &#9733 164, pushed 216 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/docker/libcompose">
    libcompose
   </a>
-  A Go library for Docker Compose.
-  <sup>
-   159 GitHub links in total 455 links, ★ 299, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 299, pushed 2 days ago
   </sup>
+  A Go library for Docker Compose.
  </li>
  <li>
   <a href="https://github.com/nlf/dlite">
    DLite
   </a>
+  <sup>
+   &#9733 2148, pushed 5 days ago
+  </sup>
   Simplest way to use Docker on OSX, no VM needed.
   <strong>
    WIP
@@ -3172,12 +2908,6 @@ about docker! (Tips: checkout her
   <a href="https://github.com/nlf">
    @nlf
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2148, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 2148, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3188,116 +2918,92 @@ about docker! (Tips: checkout her
   <a href="https://github.com/blockbridge/blockbridge-docker-volume">
    Blockbridge
   </a>
+  <sup>
+   &#9733 24, pushed 5 days ago
+  </sup>
   - The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By
   <a href="https://github.com/blockbridge">
    @blockbridge
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 24, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rancher/convoy">
    Convoy
   </a>
+  <sup>
+   &#9733 335, pushed 6 days ago
+  </sup>
   - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By
   <a href="https://github.com/rancher">
    @rancher
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 335, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 335, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ahmetalpbalkan/azurefile-dockervolumedriver">
    Azure Files Volume Driver
   </a>
+  <sup>
+   &#9733 2, pushed 53 days ago
+  </sup>
   - A Docker volume driver that allows you to mount persistent volumes backed by Microsoft Azure File Service. By
   <a href="https://github.com/ahmetalpbalkan">
    @ahmetalpbalkan
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2, pushed 53 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 53 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/leighmcculloch/docker-unison">
    Docker Unison
   </a>
+  <sup>
+   &#9733 87, pushed 31 days ago
+  </sup>
   A docker volume container using Unison for fast two-way folder sync. Created as an alternative to slow boot2docker volumes on OS X. By
   <a href="https://github.com/leighmcculloch">
    @leighmcculloch
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 87, pushed 31 days ago
-  </sup>
-  <sup>
-   &#9733 87, pushed 31 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gondor/docker-volume-netshare">
    Netshare
   </a>
+  <sup>
+   &#9733 142, pushed 4 days ago
+  </sup>
   A Docker volume plugin written in Go that supports mounting NFS, AWS EFS & CIFS volumes within a container. By
   <a href="https://github.com/gondor">
    @gondor
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 142, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 142, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/adlogix/docker-machine-nfs">
    Docker Machine NFS
   </a>
-  Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
-  <sup>
-   159 GitHub links in total 455 links, ★ 417, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 417, pushed 53 days ago
   </sup>
+  Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
  </li>
  <li>
   <a href="https://github.com/emccode/rexray">
    REX-Ray
   </a>
-  Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks.
-  <sup>
-   159 GitHub links in total 455 links, ★ 251, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 251, pushed 2 days ago
   </sup>
+  Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks.
  </li>
  <li>
   <a href="https://github.com/CWSpear/local-persist">
    Local Persist
   </a>
+  <sup>
+   &#9733 33, pushed 36 days ago
+  </sup>
   Specify a mountpoint for your local volumes (created via
   <code>
    docker volume create
   </code>
   ) so that files will always persist and so you can mount to different directories in different containers.
-  <sup>
-   159 GitHub links in total 455 links, ★ 33, pushed 36 days ago
-  </sup>
-  <sup>
-   &#9733 33, pushed 36 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3309,9 +3015,6 @@ about docker! (Tips: checkout her
    Official Images from Docker Hub
   </a>
   <sup>
-   159 GitHub links in total 455 links, ★ 1250, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 1250, pushed 2 days ago
   </sup>
  </li>
@@ -3319,21 +3022,21 @@ about docker! (Tips: checkout her
   <a href="https://github.com/phusion/baseimage-docker">
    Base Image
   </a>
+  <sup>
+   &#9733 4140, pushed 2 days ago
+  </sup>
   by
   <a href="https://github.com/phusion/">
    @phusion
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 4140, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 4140, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jpetazzo/docker-busybox">
    Busybox
   </a>
+  <sup>
+   &#9733 84, pushed 371 days ago
+  </sup>
   (with either
   <code>
    buildroot
@@ -3346,12 +3049,6 @@ about docker! (Tips: checkout her
   <a href="https://github.com/jpetazzo">
    @jpetazzo
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 84, pushed 371 days ago
-  </sup>
-  <sup>
-   &#9733 84, pushed 371 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.zoobab.com/docker-openwrt-image">
@@ -3371,21 +3068,21 @@ about docker! (Tips: checkout her
   <a href="https://github.com/phusion/passenger-docker">
    passenger-docker
   </a>
+  <sup>
+   &#9733 1921, pushed 71 days ago
+  </sup>
   (Docker base images for Ruby, Python, Node.js and Meteor web apps) by
   <a href="https://github.com/phusion">
    @phusion
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1921, pushed 71 days ago
-  </sup>
-  <sup>
-   &#9733 1921, pushed 71 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gliderlabs/docker-alpine">
    docker-alpine
   </a>
+  <sup>
+   &#9733 2994, pushed 8 days ago
+  </sup>
   (A super small Docker base image
   <em>
    (5MB)
@@ -3394,51 +3091,36 @@ about docker! (Tips: checkout her
   <a href="https://github.com/gliderlabs">
    @gliderlabs
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2994, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 2994, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kiyoto/docker-fluentd">
    docker-fluentd
   </a>
+  <sup>
+   &#9733 22, pushed 518 days ago
+  </sup>
   (the Container to Log Other Containers' Logs) by
   <a href="https://github.com/kiyoto">
    @kiyoto
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 22, pushed 518 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 518 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/garywiz/chaperone-docker">
    chaperone-docker
   </a>
-  (A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.)
-  <sup>
-   159 GitHub links in total 455 links, ★ 19, pushed 113 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 113 days ago
   </sup>
+  (A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.)
  </li>
  <li>
   <a href="https://github.com/NVIDIA/nvidia-docker">
    nvidia-docker
   </a>
-  (Build and run Docker containers leveraging NVIDIA GPUs.)
-  <sup>
-   159 GitHub links in total 455 links, ★ 540, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 540, pushed 14 days ago
   </sup>
+  (Build and run Docker containers leveraging NVIDIA GPUs.)
  </li>
 </ul>
 <h2>
@@ -3449,16 +3131,13 @@ about docker! (Tips: checkout her
   <a href="https://github.com/crosbymichael/Dockerfiles">
    Collection of Dockerfiles
   </a>
+  <sup>
+   &#9733 241, pushed 601 days ago
+  </sup>
   by
   <a href="https://github.com/crosbymichael">
    @crosbymichael
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 241, pushed 601 days ago
-  </sup>
-  <sup>
-   &#9733 241, pushed 601 days ago
-  </sup>
  </li>
  <li>
   <a href="http://dockerfile.github.io/">
@@ -3470,36 +3149,33 @@ about docker! (Tips: checkout her
   <a href="https://github.com/komljen/dockerfile-examples">
    Dockerfile Example
   </a>
+  <sup>
+   &#9733 340, pushed 281 days ago
+  </sup>
   by
   <a href="https://github.com/komljen">
    @komljen
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 340, pushed 281 days ago
-  </sup>
-  <sup>
-   &#9733 340, pushed 281 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kstaken/dockerfile-examples">
    Dockerfile Example 2
   </a>
+  <sup>
+   &#9733 356, pushed 155 days ago
+  </sup>
   by
   <a href="https://github.com/kstaken">
    @kstaken
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 356, pushed 155 days ago
-  </sup>
-  <sup>
-   &#9733 356, pushed 155 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jfrazelle/dockerfiles">
    Dockerfile @jfrazelle
   </a>
+  <sup>
+   &#9733 2026, pushed 2 days ago
+  </sup>
   by
   <a href="https://github.com/jfrazelle">
    @jfrazelle
@@ -3509,12 +3185,6 @@ about docker! (Tips: checkout her
   </strong>
   for a fully containerized
 desktop!
-  <sup>
-   159 GitHub links in total 455 links, ★ 2026, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 2026, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3525,28 +3195,22 @@ desktop!
   <a href="https://github.com/docker/distribution">
    Docker Registry v2
   </a>
-  (The Docker toolset to pack, ship, store, and deliver content)
-  <sup>
-   159 GitHub links in total 455 links, ★ 2017, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2017, pushed 4 days ago
   </sup>
+  (The Docker toolset to pack, ship, store, and deliver content)
  </li>
  <li>
   <a href="https://github.com/noteed/rescoyl">
    Rescoyl
   </a>
+  <sup>
+   &#9733 6, pushed 165 days ago
+  </sup>
   (Private Docker registry) by
   <a href="https://github.com/noteed">
    @noteed
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 6, pushed 165 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 165 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.projectatomic.io/registry/">
@@ -3569,16 +3233,13 @@ desktop!
   <a href="https://github.com/google/cadvisor">
    cAdvisor
   </a>
+  <sup>
+   &#9733 3861, pushed 2 days ago
+  </sup>
   (Analyzes resource usage and performance characteristics of running containers. created by
   <a href="https://github.com/google">
    @Google
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3861, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 3861, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.datadoghq.com/">
@@ -3590,28 +3251,22 @@ desktop!
   <a href="https://github.com/dockerana/dockerana">
    Dockerana
   </a>
-  (packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.)
-  <sup>
-   159 GitHub links in total 455 links, ★ 171, pushed 317 days ago
-  </sup>
   <sup>
    &#9733 171, pushed 317 days ago
   </sup>
+  (packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.)
  </li>
  <li>
   <a href="https://github.com/icecrime/docker-mon">
    Docker-mon
   </a>
+  <sup>
+   &#9733 661, pushed 281 days ago
+  </sup>
   (Console-based Docker monitoring) by
   <a href="https://github.com/icecrime">
    @icecrime
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 661, pushed 281 days ago
-  </sup>
-  <sup>
-   &#9733 661, pushed 281 days ago
-  </sup>
  </li>
  <li>
   <a href="http://nicolargo.github.io/glances/">
@@ -3626,16 +3281,13 @@ desktop!
   <a href="https://github.com/vegasbrianc/docker-monitoring">
    InfluxDB, cAdvisor, Grafana
   </a>
+  <sup>
+   &#9733 133, pushed 6 days ago
+  </sup>
   (InfluxDB Time series DB in combination with Grafana and cAdvisor) by
   <a href="https://github.com/vegasbrianc">
    @vegasbrianc
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 133, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 133, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://meros.io">
@@ -3665,16 +3317,13 @@ desktop!
   <a href="https://github.com/tobegit3hub/seagull">
    Seagull
   </a>
+  <sup>
+   &#9733 1298, pushed 35 days ago
+  </sup>
   (Friendly Web UI to monitor docker daemon.) by
   <a href="https://github.com/tobegit3hub">
    @tobegit3hub
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1298, pushed 34 days ago
-  </sup>
-  <sup>
-   &#9733 1298, pushed 35 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.site24x7.com/docker-monitoring.html">
@@ -3692,40 +3341,31 @@ desktop!
   <a href="https://github.com/monitoringartist/Zabbix-Docker-Monitoring">
    Zabbix Docker module
   </a>
-  : Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.
-  <sup>
-   159 GitHub links in total 455 links, ★ 244, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 244, pushed 19 days ago
   </sup>
+  : Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.
  </li>
  <li>
   <a href="https://github.com/sematext/sematext-agent-docker">
    SPM for Docker
   </a>
+  <sup>
+   &#9733 12, pushed 12 days ago
+  </sup>
   Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs.
   <a href="https://twitter.com/sematext">
    @sematext
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 12, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gomex/docker-zabbix">
    Zabbix Docker
   </a>
-  - Monitor containers automatically using zabbix LLD feature.
-  <sup>
-   159 GitHub links in total 455 links, ★ 17, pushed 162 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 162 days ago
   </sup>
+  - Monitor containers automatically using zabbix LLD feature.
  </li>
  <li>
   <a href="http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/">
@@ -3747,29 +3387,23 @@ desktop!
   <a href="https://github.com/ahmetalpbalkan/wagl">
    Wagl
   </a>
+  <sup>
+   &#9733 260, pushed 5 days ago
+  </sup>
   - DNS Service Discovery for Docker Swarm (by
   <a href="https://github.com/ahmetalpbalkan">
    @ahmetalpbalkan
   </a>
   ) http://ahmetalpbalkan.github.io/wagl/
-  <sup>
-   159 GitHub links in total 455 links, ★ 260, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 260, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/weaveworks/weave">
    Weave
   </a>
-  (The Docker network) -- Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
-  <sup>
-   159 GitHub links in total 455 links, ★ 4182, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 4182, pushed 4 days ago
   </sup>
+  (The Docker network) -- Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
  </li>
 </ul>
 <h2>
@@ -3780,51 +3414,45 @@ desktop!
   <a href="https://github.com/kiyoto/docker-fluentd">
    Docker-Fluentd
   </a>
+  <sup>
+   &#9733 22, pushed 518 days ago
+  </sup>
   : (Docker container to Log Other Containers' Logs. One can aggregate the logs of Docker containers running on the same host using Fluentd.) by
   <a href="https://github.com/kiyoto">
    @kiyoto
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 22, pushed 518 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 518 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gocardless/logjam">
    LogJam
   </a>
+  <sup>
+   &#9733 110, pushed 209 days ago
+  </sup>
   (Logjam is a log forwarder designed to listen on a local port, receive log entries over UDP, and forward these messages on to a log collection server (such as logstash).) by
   <a href="https://github.com/gocardless">
    @gocardless
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 110, pushed 209 days ago
-  </sup>
-  <sup>
-   &#9733 110, pushed 209 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gliderlabs/logspout">
    Logspout
   </a>
+  <sup>
+   &#9733 1794, pushed 6 days ago
+  </sup>
   (Log routing for Docker container logs) by
   <a href="https://github.com/gliderlabs">
    @gliderlabs
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1794, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 1794, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sematext/sematext-agent-docker">
    Logsene for Docker
   </a>
+  <sup>
+   &#9733 12, pushed 12 days ago
+  </sup>
   Monitoring of Metrics, Events and Logs implemented in Node.js. Integrated
   <a href="https://github.com/sematext/logagent-js">
    logagent-js
@@ -3833,12 +3461,6 @@ desktop!
   <a href="https://twitter.com/sematext">
    @sematext
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 12, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 12 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3849,21 +3471,21 @@ desktop!
   <a href="https://github.com/newrelic/centurion">
    Centurion
   </a>
+  <sup>
+   &#9733 1592, pushed 8 days ago
+  </sup>
   : Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By
   <a href="https://github.com/newrelic">
    @newrelic
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1592, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 1592, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/brooklyncentral/clocker">
    Clocker
   </a>
+  <sup>
+   &#9733 395, pushed 4 days ago
+  </sup>
   : Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages
   <a href="https://github.com/projectcalico/calico-containers">
    Calico
@@ -3880,12 +3502,6 @@ desktop!
   <a href="https://github.com/brooklyncentral">
    @brooklyncentral
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 395, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 395, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.cloud66.com">
@@ -3897,43 +3513,34 @@ desktop!
   <a href="https://github.com/Perennials/deploy">
    deploy
   </a>
-  - Git and Docker deployment tool. A middle ground between simple Docker composition tools and full blown cluster orchestration. Declarative configuration and short commands for managing (syncing, building, running) of infrastructures of more than a few services. Able to deploy whole preconfigured server or system of services with a single line (without having to scroll the line).
-  <sup>
-   159 GitHub links in total 455 links, ★ 18, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 64 days ago
   </sup>
+  - Git and Docker deployment tool. A middle ground between simple Docker composition tools and full blown cluster orchestration. Declarative configuration and short commands for managing (syncing, building, running) of infrastructures of more than a few services. Able to deploy whole preconfigured server or system of services with a single line (without having to scroll the line).
  </li>
  <li>
   <a href="https://github.com/netvarun/docket">
    Docket
   </a>
+  <sup>
+   &#9733 538, pushed 351 days ago
+  </sup>
   : Custom docker registry that allows for lightning fast deploys through bittorrent by
   <a href="https://github.com/netvarun/">
    @netvarun
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 538, pushed 350 days ago
-  </sup>
-  <sup>
-   &#9733 538, pushed 350 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/longshoreman/longshoreman">
    Longshoreman
   </a>
+  <sup>
+   &#9733 416, pushed 487 days ago
+  </sup>
   : Longshoreman automates application deployment using Docker. Just create a Docker repository (or use a service), configure the cluster using AWS or Digital Ocean (or whatever you like) and deploy applications using a Heroku-like CLI tool. By
   <a href="https://github.com/longshoreman">
    longshoreman
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 416, pushed 487 days ago
-  </sup>
-  <sup>
-   &#9733 416, pushed 487 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3944,13 +3551,10 @@ desktop!
   <a href="https://github.com/deis/deis">
    Deis
   </a>
-  (Your PaaS, your rules) -- http://deis.io/
-  <sup>
-   159 GitHub links in total 455 links, ★ 5516, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 5516, pushed 1 days ago
   </sup>
+  (Your PaaS, your rules) -- http://deis.io/
  </li>
  <li>
   <a href="https://github.com/dokku/dokku">
@@ -3965,13 +3569,10 @@ desktop!
   <a href="https://github.com/flynn/flynn">
    Flynn
   </a>
-  (A next generation open source platform as a service) -- https://flynn.io/
-  <sup>
-   159 GitHub links in total 455 links, ★ 4444, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 4444, pushed 2 days ago
   </sup>
+  (A next generation open source platform as a service) -- https://flynn.io/
  </li>
  <li>
   <a href="https://www.openshift.org/">
@@ -3990,13 +3591,10 @@ desktop!
   <a href="https://github.com/tsuru/tsuru">
    Tsuru
   </a>
-  (Tsuru is an extensible and open source Platform as a Service software) -- https://tsuru.io/
-  <sup>
-   159 GitHub links in total 455 links, ★ 1864, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1864, pushed 1 days ago
   </sup>
+  (Tsuru is an extensible and open source Platform as a Service software) -- https://tsuru.io/
  </li>
 </ul>
 <h2>
@@ -4007,21 +3605,21 @@ desktop!
   <a href="https://github.com/prologic/autodock">
    autodock
   </a>
+  <sup>
+   &#9733 30, pushed 121 days ago
+  </sup>
   (Daemon for Docker Automation) by
   <a href="https://github.com/prologic">
    @prologic
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 30, pushed 121 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 121 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tubesandlube/blimp">
    blimp
   </a>
+  <sup>
+   &#9733 17, pushed 401 days ago
+  </sup>
   Uses Docker Machine to easily move a container from one Docker host to another, show containers running against all of your hosts, replicate a container across multiple hosts and more. By
   <a href="https://github.com/defermat">
    @defermat
@@ -4030,40 +3628,28 @@ desktop!
   <a href="https://github.com/schvin">
    @schvin
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 17, pushed 401 days ago
-  </sup>
-  <sup>
-   &#9733 17, pushed 401 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/byrnedo/capitan">
    Capitan
   </a>
+  <sup>
+   &#9733 14, pushed 10 days ago
+  </sup>
   Composable docker orchestration with added scripting support by
   <a href="https://github.com/byrnedo">
    @byrnedo
   </a>
   .
-  <sup>
-   159 GitHub links in total 455 links, ★ 14, pushed 10 days ago
-  </sup>
-  <sup>
-   &#9733 14, pushed 10 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/citadel/citadel">
    Citadel
   </a>
+  <sup>
+   &#9733 430, pushed 249 days ago
+  </sup>
   (Citadel is a toolkit for scheduling containers on a Docker cluster) (unmaintained)
-  <sup>
-   159 GitHub links in total 455 links, ★ 430, pushed 248 days ago
-  </sup>
-  <sup>
-   &#9733 430, pushed 248 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.cloudslang.io/">
@@ -4075,13 +3661,10 @@ desktop!
   <a href="https://github.com/containership/containership">
    ContainerShip
   </a>
+  <sup>
+   &#9733 112, pushed 9 days ago
+  </sup>
   (A simple container management platform) -- [containership]
-  <sup>
-   159 GitHub links in total 455 links, ★ 112, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 112, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos">
@@ -4105,40 +3688,31 @@ desktop!
   <a href="https://github.com/ClusterHQ/flocker">
    Flocker
   </a>
+  <sup>
+   &#9733 2285, pushed 1 days ago
+  </sup>
   (Flocker is a data volume manager and multi-host Docker cluster management tool) by
   <a href="https://github.com/ClusterHQ">
    @ClusterHQ
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2285, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2285, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/marmelab/gaudi">
    Gaudi
   </a>
-  (Gaudi allows to share multi-component applications, based on Docker,  Go, and YAM) ~~ project discontinued.
-  <sup>
-   159 GitHub links in total 455 links, ★ 598, pushed 543 days ago
-  </sup>
   <sup>
    &#9733 598, pushed 543 days ago
   </sup>
+  (Gaudi allows to share multi-component applications, based on Docker,  Go, and YAM) ~~ project discontinued.
  </li>
  <li>
   <a href="https://github.com/kontena/kontena">
    Kontena
   </a>
-  (Application Containers for Masses) -- https://www.kontena.io/
-  <sup>
-   159 GitHub links in total 455 links, ★ 657, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 657, pushed 1 days ago
   </sup>
+  (Application Containers for Masses) -- https://www.kontena.io/
  </li>
  <li>
   <a href="http://kubernetes.io">
@@ -4157,16 +3731,13 @@ desktop!
   <a href="https://github.com/toscanini/maestro">
    Maestro
   </a>
+  <sup>
+   &#9733 607, pushed 987 days ago
+  </sup>
   (Maestro provides the ability to easily launch, orchestrate and manage mulitiple Docker containers as single unit) by
   <a href="https://github.com/toscanini">
    @tascanini
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 607, pushed 986 days ago
-  </sup>
-  <sup>
-   &#9733 607, pushed 987 days ago
-  </sup>
  </li>
  <li>
   <a href="https://mesosphere.github.io/marathon/docs/">
@@ -4190,94 +3761,73 @@ desktop!
   <a href="https://github.com/rancher/rancher">
    Rancher
   </a>
+  <sup>
+   &#9733 3327, pushed 3 days ago
+  </sup>
   (Portable AWS-style infrastructure service for Docker) -- http://rancher.com/
-  <sup>
-   159 GitHub links in total 455 links, ★ 3327, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 3327, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos/fleet">
    Fleet
   </a>
-  (A Distributed init System providing low-level orchestration ) -- [coreos.com]
-  <sup>
-   159 GitHub links in total 455 links, ★ 2173, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2173, pushed 4 days ago
   </sup>
+  (A Distributed init System providing low-level orchestration ) -- [coreos.com]
  </li>
  <li>
   <a href="https://github.com/hashicorp/serf">
    Serf
   </a>
+  <sup>
+   &#9733 3510, pushed 1 days ago
+  </sup>
   (Service orchestration and management tool) by
   <a href="https://github.com/hashicorp">
    @hashicorp
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 3510, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 3510, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/shipyard/shipyard">
    Shipyard
   </a>
-  (Composable Docker Management) -- http://shipyard-project.com/
-  <sup>
-   159 GitHub links in total 455 links, ★ 4644, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 4644, pushed 5 days ago
   </sup>
+  (Composable Docker Management) -- http://shipyard-project.com/
  </li>
  <li>
   <a href="https://github.com/m4ce/mcollective-docker-agent">
    MCollective Docker Agent
   </a>
+  <sup>
+   &#9733 1, pushed 29 days ago
+  </sup>
   Uses MCollective to orchestrate your Docker containers and images --
   <a href="https://github.com/m4ce">
    @m4ce
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1, pushed 29 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 29 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ElasticBox/elastickube">
    ElasticKube
   </a>
-  open source management platform for Kubernetes.
-  <sup>
-   159 GitHub links in total 455 links, ★ 79, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 79, pushed 4 days ago
   </sup>
+  open source management platform for Kubernetes.
  </li>
  <li>
   <a href="https://github.com/ciscocloud/mantl">
    Mantl
   </a>
+  <sup>
+   &#9733 2237, pushed 4 days ago
+  </sup>
   Mantl is a modern platform for rapidly deploying globally distributed services
   <a href="http://mantl.io">
    @ciscocloud
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 2237, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 2237, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -4288,31 +3838,25 @@ desktop!
   <a href="https://github.com/docker/docker-bench-security">
    docker-bench-security
   </a>
+  <sup>
+   &#9733 1313, pushed 3 days ago
+  </sup>
   script that checks for dozens of common best-practices around deploying Docker containers in production. By
   <a href="https://github.com/docker">
    @docker
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1313, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1313, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/docker/notary">
    notary
   </a>
+  <sup>
+   &#9733 617, pushed 4 days ago
+  </sup>
   a server and a client for running and interacting with trusted collections. By
   <a href="https://github.com/docker">
    @docker
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 617, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 617, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.twistlock.com/">
@@ -4324,16 +3868,13 @@ desktop!
   <a href="https://github.com/coreos/clair">
    Clair
   </a>
+  <sup>
+   &#9733 1105, pushed 5 days ago
+  </sup>
   Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By
   <a href="https://github.com/coreos">
    @coreos
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 1105, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 1105, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -4344,36 +3885,33 @@ desktop!
   <a href="https://github.com/gliderlabs/docker-consul">
    docker-consul
   </a>
+  <sup>
+   &#9733 875, pushed 42 days ago
+  </sup>
   by
   <a href="https://github.com/progrium">
    @progrium
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 875, pushed 42 days ago
-  </sup>
-  <sup>
-   &#9733 875, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos/etcd">
    etcd
   </a>
+  <sup>
+   &#9733 9440, pushed 2 days ago
+  </sup>
   : A highly-available key value store for shared configuration and service discovery by
   <a href="https://github.com/coreos">
    @coreOS
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 9440, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 9440, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cpuguy83/docker-grand-ambassador">
    Docker Grand Ambassador
   </a>
+  <sup>
+   &#9733 181, pushed 469 days ago
+  </sup>
   This is a fully dynamic docker link ambassador. +
   <a href="https://docs.docker.com/engine/articles/ambassador_pattern_linking/">
    Article
@@ -4382,27 +3920,18 @@ desktop!
   <a href="https://github.com/cpuguy83">
    @cpuguy83
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 181, pushed 469 days ago
-  </sup>
-  <sup>
-   &#9733 181, pushed 469 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/factorish/proxy">
    proxy
   </a>
+  <sup>
+   &#9733 42, pushed 373 days ago
+  </sup>
   : lightweight nginx based load balancer self using service discovery provided by registrator. by
   <a href="https://github.com/factorish">
    @factorish
   </a>
-  <sup>
-   159 GitHub links in total 455 links, ★ 42, pushed 373 days ago
-  </sup>
-  <sup>
-   &#9733 42, pushed 373 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ahmetalpbalkan/wagl/">

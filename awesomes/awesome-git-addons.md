@@ -248,15 +248,9 @@ $ git effort
 <p>
  <code>
   $ git authors
-Contra
-  <contra@maricopa.edu>
-   Eric Schoffstall
-   <contra@wearefractal.com>
-    Sindre Sorhus
-    <sindresorhus@gmail.com>
-    </sindresorhus@gmail.com>
-   </contra@wearefractal.com>
-  </contra@maricopa.edu>
+Contra <contra@maricopa.edu>
+Eric Schoffstall <contra@wearefractal.com>
+Sindre Sorhus <sindresorhus@gmail.com>
  </code>
 </p>
 <h3>
@@ -478,17 +472,17 @@ myBranch
 ## Most Recent Commit:
 
 commit e3952df2c172c6f3eb533d8d0b1a6c77250769a7
-Author: Sample Author <sampleauthor@gmail.com>
+Author: Sample Author <sampleAuthor@gmail.com>
 
 Added git-info command.
 
-Type 'git log' for more commits, or 'git show <commit id="">' for full commit details.
+Type 'git log' for more commits, or 'git show <commit id>' for full commit details.
 
 ## Configuration (.git/config):
 
 color.diff=auto
 color.status=auto
-</commit></sampleauthor@gmail.com></code></pre>
+</code></pre>
 <p>
  ```
 </p>
@@ -1442,7 +1436,7 @@ index 8768569..540523a 100644
    "homepage": "http://gulpjs.com",
    "repository": "gulpjs/gulp",
    "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
-</contact@wearefractal.com></code></pre>
+</code></pre>
 <p>
  ```
 </p>
@@ -1916,11 +1910,8 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 </h2>
 <p>
  <code>
-  $ git blame-someone-else 'Steve Mao
-  <maochenyan@gmail.com>
-   ' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
+  $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
-  </maochenyan@gmail.com>
  </code>
 </p>
 <h2>

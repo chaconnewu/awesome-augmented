@@ -232,9 +232,6 @@
    A curated list of awesome Machine Learning frameworks, libraries and software
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 12665, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 12665, pushed 4 days ago
   </sup>
  </li>
@@ -243,9 +240,6 @@
    A curated list of awesome data visualization libraries and resources.
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 431, pushed 11 days ago
-  </sup>
-  <sup>
    &#9733 431, pushed 11 days ago
   </sup>
  </li>
@@ -253,9 +247,6 @@
   <a href="https://github.com/okulbilisim/awesome-datascience">
    An awesome Data Science repository to learn and apply for real world problems
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 2359, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 2359, pushed 8 days ago
   </sup>
@@ -325,9 +316,6 @@
    TheAnalyticsEdge edX Notes and Codes
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 6, pushed 386 days ago
-  </sup>
-  <sup>
    &#9733 6, pushed 386 days ago
   </sup>
  </li>
@@ -373,9 +361,6 @@
   <a href="https://github.com/owainlewis/awesome-artificial-intelligence">
    Awesome Artificial Intelligence (GitHub Repo)
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 1518, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 1518, pushed 27 days ago
   </sup>
@@ -438,9 +423,6 @@
      Genetic Programming in Python (GitHub)
     </a>
     <sup>
-     19 GitHub links in total 352 links, ★ 250, pushed 11 days ago
-    </sup>
-    <sup>
      &#9733 250, pushed 11 days ago
     </sup>
    </li>
@@ -474,13 +456,10 @@
   <a href="https://github.com/rouseguy/intro2stats">
    Learn Statistics Using Python
   </a>
+  <sup>
+   &#9733 327, pushed 193 days ago
+  </sup>
   - Learn Statistics using an application-centric programming approach
-  <sup>
-   19 GitHub links in total 352 links, ★ 327, pushed 192 days ago
-  </sup>
-  <sup>
-   &#9733 327, pushed 192 days ago
-  </sup>
  </li>
  <li>
   <a href="https://speakerdeck.com/jakevdp/statistics-for-hackers">
@@ -746,10 +725,7 @@
    Machine Learning Cheat Sheet
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 1234, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 1234, pushed 19 days ago
+   &#9733 1234, pushed 20 days ago
   </sup>
  </li>
 </ul>
@@ -1058,7 +1034,7 @@ Performance Evaluation
   How does CV overcome the Overfitting Problem
  </a>
 </p>
-<pre><code><a name="boot"></a>
+<pre><code><a name="boot" />
 </code></pre>
 <p>
  -
@@ -1102,9 +1078,6 @@ Performance Evaluation
   <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
    A curated list of awesome Deep Learning tutorials, projects and communities
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 1922, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1922, pushed 8 days ago
   </sup>
@@ -1171,16 +1144,13 @@ Performance Evaluation
   <a href="https://github.com/rouseguy/intro2deeplearning">
    Introduction to Deep Learning Using Python (GitHub)
   </a>
+  <sup>
+   &#9733 49, pushed 181 days ago
+  </sup>
   ,
   <a href="https://speakerdeck.com/bargava/introduction-to-deep-learning">
    Good Introduction Slides
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 49, pushed 180 days ago
-  </sup>
-  <sup>
-   &#9733 49, pushed 180 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu">
@@ -1530,7 +1500,7 @@ Performance Evaluation
  </a>
  -
  <a href="http://avisingh599.github.io/deeplearning/visual-qa/">
-  Deep Learning for Visual Q&A; | LSTM | CNN
+  Deep Learning for Visual Q&A | LSTM | CNN
  </a>
  ,
  <a href="https://github.com/avisingh599/visual-qa">
@@ -1698,9 +1668,6 @@ Performance Evaluation
   <a href="https://github.com/edobashira/speech-language-processing">
    A curated list of speech and natural language processing resources
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 1193, pushed 106 days ago
-  </sup>
   <sup>
    &#9733 1193, pushed 106 days ago
   </sup>
@@ -1976,9 +1943,6 @@ Performance Evaluation
    Awesome computer vision (github)
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 1254, pushed 46 days ago
-  </sup>
-  <sup>
    &#9733 1254, pushed 46 days ago
   </sup>
  </li>
@@ -1986,9 +1950,6 @@ Performance Evaluation
   <a href="https://github.com/kjw0612/awesome-deep-vision">
    Awesome deep vision (github)
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 1273, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1273, pushed 8 days ago
   </sup>
@@ -2160,9 +2121,6 @@ Performance Evaluation
   <a href="https://github.com/aikorea/awesome-rl">
    Awesome Reinforcement Learning (GitHub)
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 225, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 225, pushed 23 days ago
   </sup>
@@ -2406,9 +2364,6 @@ Performance Evaluation
   <a href="https://github.com/kjw0612/awesome-random-forest">
    Awesome Random Forest (GitHub)**
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 212, pushed 209 days ago
-  </sup>
   <sup>
    &#9733 212, pushed 209 days ago
   </sup>
@@ -2759,9 +2714,6 @@ Performance Evaluation
    Bayesian Methods for Hackers (using pyMC)
   </a>
   <sup>
-   19 GitHub links in total 352 links, ★ 9693, pushed 6 days ago
-  </sup>
-  <sup>
    &#9733 9693, pushed 6 days ago
   </sup>
  </li>
@@ -2793,9 +2745,6 @@ Performance Evaluation
   <a href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python">
    Kalman & Bayesian Filters in Python
   </a>
-  <sup>
-   19 GitHub links in total 352 links, ★ 1511, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 1511, pushed 10 days ago
   </sup>
@@ -2920,12 +2869,9 @@ Learning
   <a href="https://github.com/ujjwalkarn/DataScienceR">
    this list
   </a>
-  .
-  <sup>
-   19 GitHub links in total 352 links, ★ 15, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 18 days ago
   </sup>
+  .
  </li>
 </ul>

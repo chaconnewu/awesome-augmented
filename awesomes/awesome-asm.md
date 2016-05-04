@@ -88,6 +88,9 @@
     <a href="https://github.com/Maratyszcza/PeachPy">
      PeachPy
     </a>
+    <sup>
+     &#9733 729, pushed 21 days ago
+    </sup>
    </em>
   </p>
   <blockquote>
@@ -95,12 +98,6 @@
     is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
    </p>
   </blockquote>
-  <sup>
-   2 GitHub links in total 41 links, ★ 729, pushed 21 days ago
-  </sup>
-  <sup>
-   &#9733 729, pushed 21 days ago
-  </sup>
  </li>
  <li>
   <p>
@@ -122,6 +119,9 @@
     <a href="https://github.com/x64dbg/XEDParse">
      XEDParse
     </a>
+    <sup>
+     &#9733 18, pushed 79 days ago
+    </sup>
    </em>
   </p>
   <blockquote>
@@ -129,12 +129,6 @@
     XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
    </p>
   </blockquote>
-  <sup>
-   2 GitHub links in total 41 links, ★ 18, pushed 79 days ago
-  </sup>
-  <sup>
-   &#9733 18, pushed 79 days ago
-  </sup>
  </li>
  <li>
   <p>

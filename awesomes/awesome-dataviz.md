@@ -173,41 +173,32 @@
   <a href="https://github.com/ecomfe/echarts">
    Echarts
   </a>
-  - Highly customizable and interactive charts ready for big datasets.
-  <sup>
-   32 GitHub links in total 110 links, ★ 11526, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 11526, pushed 2 days ago
   </sup>
+  - Highly customizable and interactive charts ready for big datasets.
  </li>
  <li>
   <a href="https://github.com/epochjs/epoch">
    Epoch
   </a>
-  - Perfect to create real-time charts.
-  <sup>
-   32 GitHub links in total 110 links, ★ 4510, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 4510, pushed 44 days ago
   </sup>
+  - Perfect to create real-time charts.
  </li>
  <li>
   <a href="https://github.com/highcharts/highcharts">
    Highcharts
   </a>
+  <sup>
+   &#9733 4955, pushed 4 days ago
+  </sup>
   - A charting library based on SVG and VML rendering. Free (
   <a href="http://creativecommons.org/licenses/by-nc/3.0/">
    CC BY-NC
   </a>
   for non-profit projects.
-  <sup>
-   32 GitHub links in total 110 links, ★ 4955, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 4955, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="http://metricsgraphicsjs.org/">
@@ -225,25 +216,19 @@
   <a href="https://github.com/novus/nvd3">
    NVD3
   </a>
-  - A reusable charting library written in d3.js.
-  <sup>
-   32 GitHub links in total 110 links, ★ 5002, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5002, pushed 4 days ago
   </sup>
+  - A reusable charting library written in d3.js.
  </li>
  <li>
   <a href="https://github.com/benpickles/peity">
    Peity
   </a>
-  - Create small inline svg charts.
-  <sup>
-   32 GitHub links in total 110 links, ★ 3487, pushed 328 days ago
-  </sup>
   <sup>
    &#9733 3487, pushed 328 days ago
   </sup>
+  - Create small inline svg charts.
  </li>
  <li>
   <a href="https://github.com/plotly/plotly.js/">
@@ -294,13 +279,10 @@
   <a href="https://github.com/anvaka/VivaGraphJS">
    VivaGraph
   </a>
-  - Graph drawing library for JavaScript.
-  <sup>
-   32 GitHub links in total 110 links, ★ 1898, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 1898, pushed 34 days ago
   </sup>
+  - Graph drawing library for JavaScript.
  </li>
 </ul>
 <h3>
@@ -311,25 +293,19 @@
   <a href="https://github.com/CartoDB/cartodb">
    CartoDB
   </a>
-  - CartoDB is an open source tool that allows for the storage and visualization of geospatial data on the web.
-  <sup>
-   32 GitHub links in total 110 links, ★ 1127, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1127, pushed 4 days ago
   </sup>
+  - CartoDB is an open source tool that allows for the storage and visualization of geospatial data on the web.
  </li>
  <li>
   <a href="https://github.com/AnalyticalGraphicsInc/cesium">
    Cesium
   </a>
-  - WebGL virtual globe and map engine.
-  <sup>
-   32 GitHub links in total 110 links, ★ 1254, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1254, pushed 2 days ago
   </sup>
+  - WebGL virtual globe and map engine.
  </li>
  <li>
   <a href="http://leafletjs.com">
@@ -341,25 +317,19 @@
   <a href="https://github.com/humangeo/leaflet-dvf">
    Leaflet Data Visualization Framework
   </a>
-  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
-  <sup>
-   32 GitHub links in total 110 links, ★ 370, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 370, pushed 35 days ago
   </sup>
+  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
  </li>
  <li>
   <a href="https://github.com/neveldo/jQuery-Mapael">
    Mapael
   </a>
-  - jQuery plugin based on the.js to display vector maps.
-  <sup>
-   32 GitHub links in total 110 links, ★ 693, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 693, pushed 15 days ago
   </sup>
+  - jQuery plugin based on the.js to display vector maps.
  </li>
  <li>
   <a href="http://mapsense.github.io/mapsense.js/">
@@ -383,13 +353,10 @@
   <a href="https://github.com/wbkd/awesome-d3">
    Awesome D3
   </a>
-  .
-  <sup>
-   32 GitHub links in total 110 links, ★ 2786, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 2786, pushed 8 days ago
   </sup>
+  .
  </li>
 </ul>
 <h3>
@@ -406,37 +373,28 @@
   <a href="https://github.com/TomNeyland/angular-dc">
    angular-dc
   </a>
-  - AngularJS directives for dc.js.
-  <sup>
-   32 GitHub links in total 110 links, ★ 95, pushed 232 days ago
-  </sup>
   <sup>
    &#9733 95, pushed 232 days ago
   </sup>
+  - AngularJS directives for dc.js.
  </li>
  <li>
   <a href="https://github.com/yurukov/dc.leaflet.js">
    dc.leaflet.js
   </a>
-  - dc.js charts using Leaflet maps.
-  <sup>
-   32 GitHub links in total 110 links, ★ 39, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 138 days ago
   </sup>
+  - dc.js charts using Leaflet maps.
  </li>
  <li>
   <a href="https://github.com/andrewreedy/ember-dc">
    ember-dc
   </a>
-  - Ember Component Wrappers for dc.js.
-  <sup>
-   32 GitHub links in total 110 links, ★ 154, pushed 623 days ago
-  </sup>
   <sup>
    &#9733 154, pushed 623 days ago
   </sup>
+  - Ember Component Wrappers for dc.js.
  </li>
 </ul>
 <h3>
@@ -453,13 +411,10 @@
   <a href="https://github.com/lipka/piecon">
    Piecon
   </a>
-  - Pie charts in your favicon.
-  <sup>
-   32 GitHub links in total 110 links, ★ 2314, pushed 74 days ago
-  </sup>
   <sup>
    &#9733 2314, pushed 74 days ago
   </sup>
+  - Pie charts in your favicon.
  </li>
  <li>
   <a href="http://okfnlabs.org/recline/">
@@ -500,25 +455,19 @@
   <a href="https://github.com/lecho/hellocharts-android">
    HelloCharts
   </a>
-  - Charting library for Android compatible with API 8+.
-  <sup>
-   32 GitHub links in total 110 links, ★ 2475, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 2475, pushed 20 days ago
   </sup>
+  - Charting library for Android compatible with API 8+.
  </li>
  <li>
   <a href="https://github.com/PhilJay/MPAndroidChart">
    MPAndroidChart
   </a>
-  - A powerful & easy to use chart library.
-  <sup>
-   32 GitHub links in total 110 links, ★ 8771, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 8771, pushed 2 days ago
   </sup>
+  - A powerful & easy to use chart library.
  </li>
 </ul>
 <h2>
@@ -540,25 +489,19 @@
   <a href="https://github.com/vdobler/chart">
    Charts for Go
   </a>
-  - Basic charts in Go. Can render to ASCII, SVG and images.
-  <sup>
-   32 GitHub links in total 110 links, ★ 309, pushed 232 days ago
-  </sup>
   <sup>
    &#9733 309, pushed 232 days ago
   </sup>
+  - Basic charts in Go. Can render to ASCII, SVG and images.
  </li>
  <li>
   <a href="https://github.com/ajstarks/svgo">
    svgo
   </a>
-  - Go Language Library for SVG generation.
-  <sup>
-   32 GitHub links in total 110 links, ★ 722, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 722, pushed 36 days ago
   </sup>
+  - Go Language Library for SVG generation.
  </li>
 </ul>
 <h2>
@@ -569,25 +512,19 @@
   <a href="https://github.com/Jawbone/JBChartView">
    JBChartView
   </a>
-  - Charting library for both line and bar graphs.
-  <sup>
-   32 GitHub links in total 110 links, ★ 3182, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 3182, pushed 6 days ago
   </sup>
+  - Charting library for both line and bar graphs.
  </li>
  <li>
   <a href="https://github.com/kevinzhow/PNChart">
    PNChart
   </a>
-  - A simple and beautiful chart lib used in Piner and CoinsMan.
-  <sup>
-   32 GitHub links in total 110 links, ★ 6656, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 6656, pushed 12 days ago
   </sup>
+  - A simple and beautiful chart lib used in Piner and CoinsMan.
  </li>
  <li>
   <a href="https://github.com/danielgindi/ios-charts">
@@ -610,25 +547,19 @@
   <a href="https://github.com/yhat/ggplot">
    ggplot
   </a>
+  <sup>
+   &#9733 2487, pushed 2 days ago
+  </sup>
   - Same API as ggplot2 for R.
-  <sup>
-   32 GitHub links in total 110 links, ★ 2487, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2487, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/glumpy/glumpy">
    glumpy
   </a>
-  - OpenGL scientific visualizations library.
-  <sup>
-   32 GitHub links in total 110 links, ★ 141, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 141, pushed 46 days ago
   </sup>
+  - OpenGL scientific visualizations library.
  </li>
  <li>
   <a href="http://matplotlib.org/">
@@ -664,13 +595,10 @@
   <a href="https://github.com/wrobstory/vincent">
    Vincent
   </a>
-  - A Python to Vega translator.
-  <sup>
-   32 GitHub links in total 110 links, ★ 1843, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 1843, pushed 102 days ago
   </sup>
+  - A Python to Vega translator.
  </li>
  <li>
   <a href="http://vispy.org/">
@@ -699,13 +627,10 @@
   <a href="https://github.com/ropensci/plotly">
    plotly
   </a>
+  <sup>
+   &#9733 478, pushed 2 days ago
+  </sup>
   - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
-  <sup>
-   32 GitHub links in total 110 links, ★ 478, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 478, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="http://hafen.github.io/rbokeh/">
@@ -740,13 +665,10 @@
   <a href="https://github.com/ankane/chartkick">
    Chartkick
   </a>
-  - Create charts with one line of Ruby.
-  <sup>
-   32 GitHub links in total 110 links, ★ 3592, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 3592, pushed 4 days ago
   </sup>
+  - Create charts with one line of Ruby.
  </li>
 </ul>
 <h2>
@@ -760,25 +682,19 @@
   <a href="https://github.com/mikesall/charted">
    Charted
   </a>
+  <sup>
+   &#9733 2540, pushed 67 days ago
+  </sup>
   - A charting tool that produces automatic, shareable charts from any data file.
-  <sup>
-   32 GitHub links in total 110 links, ★ 2540, pushed 66 days ago
-  </sup>
-  <sup>
-   &#9733 2540, pushed 66 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gephi/gephi">
    Gephi
   </a>
-  - An open-source platform for visualizing and manipulating large graphs
-  <sup>
-   32 GitHub links in total 110 links, ★ 1434, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 1434, pushed 29 days ago
   </sup>
+  - An open-source platform for visualizing and manipulating large graphs
  </li>
  <li>
   <a href="http://lightning-viz.org/">
@@ -796,17 +712,14 @@
   <a href="https://github.com/holman/spark">
    Spark
   </a>
+  <sup>
+   &#9733 4382, pushed 3 days ago
+  </sup>
   - Sparklines for the shell. It have several
   <a href="https://github.com/holman/spark/wiki/Alternative-Implementations">
    implementations in different languages
   </a>
   .
-  <sup>
-   32 GitHub links in total 110 links, ★ 4382, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 4382, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.periscopedata.com/">

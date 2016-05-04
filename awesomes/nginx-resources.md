@@ -135,9 +135,6 @@
    Nginx HTTP server boilerplate configs
   </a>
   <sup>
-   7 GitHub links in total 88 links, ★ 4520, pushed 40 days ago
-  </sup>
-  <sup>
    &#9733 4520, pushed 40 days ago
   </sup>
  </li>
@@ -316,9 +313,6 @@
    JSONP Proxy - Get JSONP from APIs not supporting it natively
   </a>
   <sup>
-   7 GitHub links in total 88 links, ★ 8, pushed 119 days ago
-  </sup>
-  <sup>
    &#9733 8, pushed 119 days ago
   </sup>
  </li>
@@ -341,9 +335,6 @@
   <a href="https://github.com/p0pr0ck5/lua-resty-tarpit">
    Capture and delay unwanted requests
   </a>
-  <sup>
-   7 GitHub links in total 88 links, ★ 8, pushed 478 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 478 days ago
   </sup>
@@ -445,10 +436,7 @@
    LSSO - Lua + Nginx SSO System with an OAuth Backend
   </a>
   <sup>
-   7 GitHub links in total 88 links, ★ 9, pushed 15 days ago
-  </sup>
-  <sup>
-   &#9733 9, pushed 15 days ago
+   &#9733 9, pushed 16 days ago
   </sup>
  </li>
  <li>
@@ -531,13 +519,10 @@
    <a href="https://github.com/alexazhou/VeryNginx">
     VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards
    </a>
+   <sup>
+    &#9733 1503, pushed 2 days ago
+   </sup>
   </p>
-  <sup>
-   7 GitHub links in total 88 links, ★ 1503, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 1503, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <p>

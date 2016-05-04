@@ -316,12 +316,9 @@
   <a href="https://github.com/ahkscript/awesome-AutoHotkey">
    Awesome AutoHotKey
   </a>
-  – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
-  <sup>
-   1 GitHub links in total 40 links, ★ 234, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 234, pushed 12 days ago
   </sup>
+  – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
  </li>
 </ul>

@@ -971,13 +971,10 @@
   <a href="https://github.com/alfredxing/brick">
    Brick
   </a>
-  - Webfonts that actually look good.
-  <sup>
-   4 GitHub links in total 191 links, ★ 2829, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 2829, pushed 18 days ago
   </sup>
+  - Webfonts that actually look good.
  </li>
  <li>
   <a href="http://fonts.debian.net">
@@ -1216,6 +1213,9 @@
   <a href="https://github.com/topcoat/icons">
    Topcoat Icons
   </a>
+  <sup>
+   &#9733 246, pushed 812 days ago
+  </sup>
   -
   <a href="http://www.apache.org/licenses/LICENSE-2.0">
    :copyright:
@@ -1225,12 +1225,6 @@
    Topcoat
   </a>
   .
-  <sup>
-   4 GitHub links in total 191 links, ★ 246, pushed 812 days ago
-  </sup>
-  <sup>
-   &#9733 246, pushed 812 days ago
-  </sup>
  </li>
  <li>
   <a href="http://typicons.com/">
@@ -1303,17 +1297,14 @@
   <a href="https://github.com/djaiss/mapsicon">
    Maps Icon
   </a>
+  <sup>
+   &#9733 1722, pushed 449 days ago
+  </sup>
   -
   <a href="https://github.com/djaiss/mapsicon#license">
    :copyright:
   </a>
   Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
-  <sup>
-   4 GitHub links in total 191 links, ★ 1722, pushed 449 days ago
-  </sup>
-  <sup>
-   &#9733 1722, pushed 449 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.materialui.co/icons">
@@ -1325,17 +1316,14 @@
   <a href="https://github.com/danleech/simple-icons">
    Simple Icons
   </a>
+  <sup>
+   &#9733 3123, pushed 18 days ago
+  </sup>
   -
   <a href="http://artlibre.org/licence/lal/en/">
    :copyright:
   </a>
   SVG icons for popular brands.
-  <sup>
-   4 GitHub links in total 191 links, ★ 3123, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 3123, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://thenounproject.com/">

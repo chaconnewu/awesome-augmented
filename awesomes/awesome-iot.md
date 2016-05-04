@@ -366,13 +366,10 @@
   <a href="https://github.com/cantino/huginn">
    Huginn
   </a>
-  - Huginn is a system for building agents that perform automated tasks for you online.
-  <sup>
-   1 GitHub links in total 83 links, ★ 13804, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 13804, pushed 2 days ago
   </sup>
+  - Huginn is a system for building agents that perform automated tasks for you online.
  </li>
  <li>
   <a href="http://www.kaaproject.org/">

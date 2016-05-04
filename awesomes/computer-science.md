@@ -878,25 +878,19 @@
   <a href="https://github.com/karan/Projects">
    Projects
   </a>
-  : A list of practical projects that anyone can solve in any programming language.
-  <sup>
-   3 GitHub links in total 64 links, ★ 10475, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 10475, pushed 41 days ago
   </sup>
+  : A list of practical projects that anyone can solve in any programming language.
  </li>
  <li>
   <a href="https://github.com/ericdouglas/app-specs">
    app-specs
   </a>
-  : A curated list of applications specifications and implementations to practice new technologies, improve your portfolio and sharpen your skills.
-  <sup>
-   3 GitHub links in total 64 links, ★ 124, pushed 201 days ago
-  </sup>
   <sup>
    &#9733 124, pushed 201 days ago
   </sup>
+  : A curated list of applications specifications and implementations to practice new technologies, improve your portfolio and sharpen your skills.
  </li>
  <li>
   <a href="http://www.freecodecamp.com/">
@@ -908,17 +902,14 @@
   <a href="https://github.com/javascript-society/javascript-projects">
    JavaScript Projects
   </a>
+  <sup>
+   &#9733 18, pushed 178 days ago
+  </sup>
   : List of projects related with the
   <a href="https://github.com/javascript-society/javascript-path">
    JavaScript Path
   </a>
   .
-  <sup>
-   3 GitHub links in total 64 links, ★ 18, pushed 178 days ago
-  </sup>
-  <sup>
-   &#9733 18, pushed 178 days ago
-  </sup>
  </li>
 </ul>
 <p>

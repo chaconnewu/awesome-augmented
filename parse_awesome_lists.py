@@ -29,8 +29,8 @@ def examine_each_awesome(awesome_urls):
 
                 soup = generate_soup(contents)
                 all_github_urls = generate_all_github_urls(soup)
-                for url in all_github_urls:
-                    print(url)
+                # for url in all_github_urls:
+                #     print(url)
 
                 f = open(filename, 'w')
                 f.write(contents)

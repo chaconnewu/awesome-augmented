@@ -571,13 +571,10 @@
   <a href="https://github.com/Freeboard/freeboard">
    Freeboard
   </a>
-  - open source real-time dashboard builder for IOT and other web mashups.
-  <sup>
-   6 GitHub links in total 93 links, ★ 3054, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 3054, pushed 7 days ago
   </sup>
+  - open source real-time dashboard builder for IOT and other web mashups.
  </li>
  <li>
   <a href="https://www.geckoboard.com/">
@@ -601,64 +598,49 @@
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  .
-  <sup>
-   6 GitHub links in total 93 links, ★ 16107, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
+  .
  </li>
  <li>
   Even more lists
   <a href="https://github.com/sindresorhus/awesome">
    awesome
   </a>
-  .
-  <sup>
-   6 GitHub links in total 93 links, ★ 34522, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 34522, pushed 2 days ago
   </sup>
+  .
  </li>
  <li>
   Another list?
   <a href="https://github.com/jnv/lists">
    list
   </a>
-  .
-  <sup>
-   6 GitHub links in total 93 links, ★ 3765, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3765, pushed 2 days ago
   </sup>
+  .
  </li>
  <li>
   WTF!
   <a href="https://github.com/t3chnoboy/awesome-awesome-awesome">
    awesome-awesome-awesome
   </a>
-  .
-  <sup>
-   6 GitHub links in total 93 links, ★ 608, pushed 216 days ago
-  </sup>
   <sup>
    &#9733 608, pushed 216 days ago
   </sup>
+  .
  </li>
  <li>
   Analytics
   <a href="https://github.com/onurakpolat/awesome-bigdata">
    awesome-bigdata
   </a>
-  .
-  <sup>
-   6 GitHub links in total 93 links, ★ 3106, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 3106, pushed 12 days ago
   </sup>
+  .
  </li>
 </ul>

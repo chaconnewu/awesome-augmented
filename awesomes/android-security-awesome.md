@@ -166,10 +166,7 @@
    ApkAnalyser
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 654, pushed 1145 days ago
-  </sup>
-  <sup>
-   &#9733 654, pushed 1145 days ago
+   &#9733 654, pushed 1146 days ago
   </sup>
  </li>
  <li>
@@ -191,9 +188,6 @@
   <a href="https://github.com/EugenioDelfa/Smali-CFGs">
    Smali CFG generator
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 33, pushed 668 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 668 days ago
   </sup>
@@ -224,37 +218,28 @@
   <a href="https://github.com/dorneanu/smalisca">
    SmaliSCA
   </a>
-  - Smali Static Code Analysis
-  <sup>
-   55 GitHub links in total 129 links, ★ 139, pushed 235 days ago
-  </sup>
   <sup>
    &#9733 139, pushed 235 days ago
   </sup>
+  - Smali Static Code Analysis
  </li>
  <li>
   <a href="https://github.com/douggard/CFGScanDroid">
    CFGScanDroid
   </a>
-  - Scans and compares CFG against CFG of malicious applications
-  <sup>
-   55 GitHub links in total 129 links, ★ 15, pushed 343 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 343 days ago
   </sup>
+  - Scans and compares CFG against CFG of malicious applications
  </li>
  <li>
   <a href="https://github.com/maldroid/maldrolyzer">
    Madrolyzer
   </a>
-  - extracts actionable data like C&C;, phone number etc.
-  <sup>
-   55 GitHub links in total 129 links, ★ 42, pushed 362 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 362 days ago
   </sup>
+  - extracts actionable data like C&C, phone number etc.
  </li>
  <li>
   <a href="http://www.cs.washington.edu/sparta">
@@ -269,13 +254,10 @@
   <a href="https://github.com/JulianSchuette/ConDroid">
    ConDroid
   </a>
-  - Performs a combination of symoblic + concrete execution of the app
-  <sup>
-   55 GitHub links in total 129 links, ★ 2, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 56 days ago
   </sup>
+  - Performs a combination of symoblic + concrete execution of the app
  </li>
 </ol>
 <h2>
@@ -292,9 +274,6 @@
   <a href="https://github.com/AndroBugs/AndroBugs_Framework">
    AndroBugs
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 224, pushed 174 days ago
-  </sup>
   <sup>
    &#9733 224, pushed 174 days ago
   </sup>
@@ -340,9 +319,6 @@
    Droidbox
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 148, pushed 221 days ago
-  </sup>
-  <sup>
    &#9733 148, pushed 221 days ago
   </sup>
  </li>
@@ -372,13 +348,10 @@
   <a href="https://github.com/AndroidHooker/hooker">
    Android Hooker
   </a>
-  - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
-  <sup>
-   55 GitHub links in total 129 links, ★ 192, pushed 96 days ago
-  </sup>
   <sup>
    &#9733 192, pushed 96 days ago
   </sup>
+  - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
  </li>
  <li>
   <a href="https://androidtamer.com/">
@@ -396,25 +369,19 @@
   <a href="https://github.com/idanr1986/cuckoo-droid">
    CuckooDroid
   </a>
-  - Android extension for Cuckoo sandbox
-  <sup>
-   55 GitHub links in total 129 links, ★ 130, pushed 214 days ago
-  </sup>
   <sup>
    &#9733 130, pushed 214 days ago
   </sup>
+  - Android extension for Cuckoo sandbox
  </li>
  <li>
   <a href="https://github.com/MobileForensicsResearch/mem">
    Mem
   </a>
-  - Memory analysis of Android (root required)
-  <sup>
-   55 GitHub links in total 129 links, ★ 16, pushed 326 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 326 days ago
   </sup>
+  - Memory analysis of Android (root required)
  </li>
  <li>
   <a href="http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf">
@@ -426,13 +393,10 @@
   <a href="https://github.com/nwhusted/AuditdAndroid">
    AuditdAndroid
   </a>
-  – android port of auditd, not under active development anymore
-  <sup>
-   55 GitHub links in total 129 links, ★ 23, pushed 1090 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 1090 days ago
   </sup>
+  – android port of auditd, not under active development anymore
  </li>
  <li>
   <a href="https://code.google.com/p/asef/">
@@ -450,25 +414,19 @@
   <a href="https://github.com/xurubin/aurasium">
    Aurasium
   </a>
-  – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
-  <sup>
-   55 GitHub links in total 129 links, ★ 12, pushed 471 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 471 days ago
   </sup>
+  – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
  </li>
  <li>
   <a href="https://github.com/strazzere/android-lkms">
    Android Linux Kernel modules
   </a>
-  *
-  <sup>
-   55 GitHub links in total 129 links, ★ 54, pushed 600 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 600 days ago
   </sup>
+  *
  </li>
  <li>
   <a href="https://manifestsecurity.com/appie/">
@@ -480,37 +438,28 @@
   <a href="https://github.com/zyrikby/StaDynA">
    StaDynA
   </a>
-  - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
-  <sup>
-   55 GitHub links in total 129 links, ★ 2, pushed 401 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 401 days ago
   </sup>
+  - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
  </li>
  <li>
   <a href="https://github.com/zhengmin1989/DroidAnalytics">
    DroidAnalytics
   </a>
-  - incomplete
-  <sup>
-   55 GitHub links in total 129 links, ★ 14, pushed 356 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 356 days ago
   </sup>
+  - incomplete
  </li>
  <li>
   <a href="https://github.com/oguzhantopgul/Vezir-Project">
    Vezir Project
   </a>
-  - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
-  <sup>
-   55 GitHub links in total 129 links, ★ 29, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 8 days ago
   </sup>
+  - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
  </li>
 </ol>
 <h2>
@@ -521,21 +470,15 @@
   <a href="https://github.com/JesusFreke/smali">
    Smali/Baksmali
   </a>
-  – apk decompilation
-  <sup>
-   55 GitHub links in total 129 links, ★ 801, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 801, pushed 10 days ago
   </sup>
+  – apk decompilation
  </li>
  <li>
   <a href="https://github.com/strazzere/Emacs-Smali">
    emacs syntax coloring for smali files
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 17, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 27 days ago
   </sup>
@@ -550,9 +493,6 @@
    AndBug
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 289, pushed 569 days ago
-  </sup>
-  <sup>
    &#9733 289, pushed 569 days ago
   </sup>
  </li>
@@ -560,13 +500,10 @@
   <a href="https://github.com/androguard/androguard">
    Androguard
   </a>
-  – powerful, integrates well with other tools
-  <sup>
-   55 GitHub links in total 129 links, ★ 905, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 905, pushed 42 days ago
   </sup>
+  – powerful, integrates well with other tools
  </li>
  <li>
   <a href="https://ibotpeaches.github.io/Apktool/">
@@ -579,9 +516,6 @@
    Android Framework for Exploitation
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 93, pushed 219 days ago
-  </sup>
-  <sup>
    &#9733 93, pushed 219 days ago
   </sup>
  </li>
@@ -590,9 +524,6 @@
    Bypass signature and permission checks for IPCs
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 27, pushed 866 days ago
-  </sup>
-  <sup>
    &#9733 27, pushed 867 days ago
   </sup>
  </li>
@@ -600,13 +531,10 @@
   <a href="https://github.com/iSECPartners/Android-OpenDebug">
    Android OpenDebug
   </a>
-  – make any application on device debuggable (using cydia substrate).
-  <sup>
-   55 GitHub links in total 129 links, ★ 34, pushed 871 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 871 days ago
   </sup>
+  – make any application on device debuggable (using cydia substrate).
  </li>
  <li>
   <a href="http://siis.cse.psu.edu/dare/index.html">
@@ -618,25 +546,19 @@
   <a href="https://github.com/pxb1988/dex2jar">
    Dex2Jar
   </a>
-  - dex to jar converter
-  <sup>
-   55 GitHub links in total 129 links, ★ 1628, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 1628, pushed 9 days ago
   </sup>
+  - dex to jar converter
  </li>
  <li>
   <a href="https://github.com/google/enjarify">
    Enjarify
   </a>
-  - dex to jar converter from Google
-  <sup>
-   55 GitHub links in total 129 links, ★ 1314, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1314, pushed 8 days ago
   </sup>
+  - dex to jar converter from Google
  </li>
  <li>
   <a href="http://dedexer.sourceforge.net">
@@ -647,9 +569,6 @@
   <a href="https://github.com/sysdream/fino">
    Fino
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 64, pushed 556 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 556 days ago
   </sup>
@@ -670,9 +589,6 @@
    Introspy
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 192, pushed 841 days ago
-  </sup>
-  <sup>
    &#9733 192, pushed 841 days ago
   </sup>
  </li>
@@ -686,13 +602,10 @@
   <a href="https://github.com/java-decompiler/jd-gui">
    JD-GUI
   </a>
-  - Java decompiler
-  <sup>
-   55 GitHub links in total 129 links, ★ 1781, pushed 40 days ago
-  </sup>
   <sup>
    &#9733 1781, pushed 40 days ago
   </sup>
+  - Java decompiler
  </li>
  <li>
   <a href="http://www.benf.org/other/cfr/">
@@ -704,13 +617,10 @@
   <a href="https://github.com/Storyyeller/Krakatau">
    Krakatau
   </a>
-  - Java decompiler
-  <sup>
-   55 GitHub links in total 129 links, ★ 527, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 527, pushed 4 days ago
   </sup>
+  - Java decompiler
  </li>
  <li>
   <a href="https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler">
@@ -722,25 +632,19 @@
   <a href="https://github.com/fesh0r/fernflower">
    FernFlower
   </a>
-  - Java decompiler
-  <sup>
-   55 GitHub links in total 129 links, ★ 451, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 451, pushed 7 days ago
   </sup>
+  - Java decompiler
  </li>
  <li>
   <a href="https://github.com/plum-umd/redexer">
    Redexer
   </a>
-  – apk manipulation
-  <sup>
-   55 GitHub links in total 129 links, ★ 66, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 47 days ago
   </sup>
+  – apk manipulation
  </li>
  <li>
   <a href="http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip">
@@ -761,10 +665,7 @@
    Simplify Android deobfuscator
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 403, pushed 40 days ago
-  </sup>
-  <sup>
-   &#9733 403, pushed 40 days ago
+   &#9733 403, pushed 41 days ago
   </sup>
  </li>
  <li>
@@ -772,10 +673,7 @@
    Bytecode viewer
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 1095, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 1095, pushed 51 days ago
+   &#9733 1095, pushed 52 days ago
   </sup>
  </li>
  <li>
@@ -783,10 +681,7 @@
    Radare2
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 2602, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2602, pushed 1 days ago
+   &#9733 2602, pushed 2 days ago
   </sup>
  </li>
 </ol>
@@ -804,9 +699,6 @@
    Radamsa Fuzzer
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 16, pushed 104 days ago
-  </sup>
-  <sup>
    &#9733 16, pushed 104 days ago
   </sup>
  </li>
@@ -814,9 +706,6 @@
   <a href="https://github.com/google/honggfuzz">
    Honggfuzz
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 263, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 263, pushed 3 days ago
   </sup>
@@ -826,19 +715,13 @@
    An Android port of the melkor ELF fuzzer
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 31, pushed 621 days ago
-  </sup>
-  <sup>
-   &#9733 31, pushed 621 days ago
+   &#9733 31, pushed 622 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/fuzzing/MFFA">
    Media Fuzzing Framework for Android
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 139, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 139, pushed 32 days ago
   </sup>
@@ -852,13 +735,10 @@
   <a href="https://github.com/zyrikby/FSquaDRA">
    FSquaDRA
   </a>
-  - a tool for detection of repackaged Android applications based on app resources hash comparison.
-  <sup>
-   55 GitHub links in total 129 links, ★ 23, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 71 days ago
   </sup>
+  - a tool for detection of repackaged Android applications based on app resources hash comparison.
  </li>
 </ol>
 <h2>
@@ -890,9 +770,6 @@ doc
   <a href="https://github.com/ashishb/android-malware">
    Android malware github repo
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 1, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 5 days ago
   </sup>
@@ -939,9 +816,6 @@ doc
    Android security related presentations
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 47, pushed 534 days ago
-  </sup>
-  <sup>
    &#9733 47, pushed 534 days ago
   </sup>
  </li>
@@ -960,9 +834,6 @@ doc
    Google play crawler (Java)
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 242, pushed 816 days ago
-  </sup>
-  <sup>
    &#9733 242, pushed 816 days ago
   </sup>
  </li>
@@ -971,9 +842,6 @@ doc
    Google play crawler (Python)
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 489, pushed 211 days ago
-  </sup>
-  <sup>
    &#9733 489, pushed 211 days ago
   </sup>
  </li>
@@ -981,37 +849,28 @@ doc
   <a href="https://github.com/dweinstein/node-google-play">
    Google play crawler (Node)
   </a>
-  - get app details and download apps from official Google Play Store.
-  <sup>
-   55 GitHub links in total 129 links, ★ 36, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 36, pushed 32 days ago
   </sup>
+  - get app details and download apps from official Google Play Store.
  </li>
  <li>
   <a href="https://github.com/dweinstein/node-aptoide">
    Aptoide downloader (Node)
   </a>
-  - download apps from Aptoide third-party Android market
-  <sup>
-   55 GitHub links in total 129 links, ★ 9, pushed 277 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 277 days ago
   </sup>
+  - download apps from Aptoide third-party Android market
  </li>
  <li>
   <a href="https://github.com/dweinstein/node-appland">
    Appland downloader (Node)
   </a>
-  - download apps from Appland third-party Android market
-  <sup>
-   55 GitHub links in total 129 links, ★ 3, pushed 279 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 279 days ago
   </sup>
+  - download apps from Appland third-party Android market
  </li>
 </ol>
 <h2>
@@ -1059,32 +918,23 @@ doc
   <a href="https://github.com/jackMannino/OWASP-GoatDroid-Project">
    GoatDroid
   </a>
-  - for practice
-  <sup>
-   55 GitHub links in total 129 links, ★ 116, pushed 645 days ago
-  </sup>
   <sup>
    &#9733 116, pushed 645 days ago
   </sup>
+  - for practice
  </li>
  <li>
   <a href="https://github.com/mitmproxy/mitmproxy">
    mitmproxy
   </a>
   <sup>
-   55 GitHub links in total 129 links, ★ 4870, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 4870, pushed 0 days ago
+   &#9733 4870, pushed 1 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/dweinstein/dockerfile-androguard">
    dockerfile/androguard
   </a>
-  <sup>
-   55 GitHub links in total 129 links, ★ 18, pushed 58 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 58 days ago
   </sup>

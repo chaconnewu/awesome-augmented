@@ -95,13 +95,10 @@
   <a href="https://github.com/audacity/audacity">
    Audacity
   </a>
-  - a free, cross-platform digital audio editor.
-  <sup>
-   32 GitHub links in total 81 links, ★ 349, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 349, pushed 2 days ago
   </sup>
+  - a free, cross-platform digital audio editor.
  </li>
 </ul>
 <h2>
@@ -112,28 +109,19 @@
   <a href="https://github.com/kolber/audiojs">
    audio.js
   </a>
-  - audio.js is a drop-in javascript library that allows HTML5's
-  <audio>
-   tag to be used anywhere.
-   <sup>
-    32 GitHub links in total 81 links, ★ 1486, pushed 42 days ago
-   </sup>
-  </audio>
   <sup>
    &#9733 1486, pushed 42 days ago
   </sup>
+  - audio.js is a drop-in javascript library that allows HTML5's <audio> tag to be used anywhere.
  </li>
  <li>
   <a href="https://github.com/goldfire/howler.js">
    howler.js
   </a>
-  - a Javascript audio library for the modern web.
-  <sup>
-   32 GitHub links in total 81 links, ★ 4284, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 4284, pushed 6 days ago
   </sup>
+  - a Javascript audio library for the modern web.
  </li>
  <li>
   <a href="http://www.softsynth.com/jsyn/">
@@ -151,13 +139,10 @@
   <a href="https://github.com/mudcube/MIDI.js">
    midi.js
   </a>
-  - a framework for creating web-based MIDI apps.
-  <sup>
-   32 GitHub links in total 81 links, ★ 1774, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 1774, pushed 13 days ago
   </sup>
+  - a framework for creating web-based MIDI apps.
  </li>
  <li>
   <a href="http://www.portaudio.com/">
@@ -175,13 +160,10 @@
   <a href="https://github.com/PaulBatchelor/Soundpipe">
    Soundpipe
   </a>
-  - a lightweight DSP library written in C.
-  <sup>
-   32 GitHub links in total 81 links, ★ 320, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 320, pushed 4 days ago
   </sup>
+  - a lightweight DSP library written in C.
  </li>
 </ul>
 <h2>
@@ -198,13 +180,10 @@
   <a href="https://github.com/phanan/koel">
    Koel
   </a>
+  <sup>
+   &#9733 6014, pushed 2 days ago
+  </sup>
   - an open-source personal audio streaming server.
-  <sup>
-   32 GitHub links in total 81 links, ★ 6014, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6014, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="http://lame.sourceforge.net/">
@@ -222,13 +201,10 @@
   <a href="https://github.com/j3ffhubb/musikernel">
    Musikernel
   </a>
-  - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
-  <sup>
-   32 GitHub links in total 81 links, ★ 40, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 10 days ago
   </sup>
+  - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
  </li>
  <li>
   <a href="http://sox.sourceforge.net/">
@@ -245,25 +221,19 @@
   <a href="https://github.com/cellist/Lilypond-Sheet-Music">
    cellist/Lilypond-Sheet-Music
   </a>
-  - a collection of music typeset with lilypond (mostly chamber music and music for cello).
-  <sup>
-   32 GitHub links in total 81 links, ★ 40, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 6 days ago
   </sup>
+  - a collection of music typeset with lilypond (mostly chamber music and music for cello).
  </li>
  <li>
   <a href="https://github.com/ciconia/music">
    ciconia/music
   </a>
-  - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
-  <sup>
-   32 GitHub links in total 81 links, ★ 4, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 35 days ago
   </sup>
+  - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
  </li>
  <li>
   <a href="http://www.cpdl.org/">
@@ -275,13 +245,10 @@
   <a href="https://github.com/nsceaux/nenuvar">
    Éditions Nicolas Sceaux
   </a>
-  - baroque music scores (mainly French music), typeset using lilypond.
-  <sup>
-   32 GitHub links in total 81 links, ★ 16, pushed 126 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 126 days ago
   </sup>
+  - baroque music scores (mainly French music), typeset using lilypond.
  </li>
  <li>
   <a href="http://imslp.org/">
@@ -293,25 +260,19 @@
   <a href="https://github.com/MutopiaProject/MutopiaProject">
    Mutopia
   </a>
-  - sheet music based on editions in the public domain.
-  <sup>
-   32 GitHub links in total 81 links, ★ 76, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 76, pushed 8 days ago
   </sup>
+  - sheet music based on editions in the public domain.
  </li>
  <li>
   <a href="https://github.com/wbsoft/lilymusic">
    wbsoft/lilymusic
   </a>
-  - beautiful LilyPond scores under free licenses.
-  <sup>
-   32 GitHub links in total 81 links, ★ 16, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 32 days ago
   </sup>
+  - beautiful LilyPond scores under free licenses.
  </li>
 </ul>
 <h2>
@@ -351,13 +312,10 @@
   <a href="https://github.com/wbsoft/frescobaldi">
    Frescobaldi
   </a>
+  <sup>
+   &#9733 184, pushed 2 days ago
+  </sup>
   - a free Lilypond sheet music editor.
-  <sup>
-   32 GitHub links in total 81 links, ★ 184, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 184, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="http://guidolib.sourceforge.net/">
@@ -369,25 +327,19 @@
   <a href="https://github.com/MichalPaszkiewicz/inknote">
    Inknote
   </a>
-  - free, open source, browser based music notation and composition software.
-  <sup>
-   32 GitHub links in total 81 links, ★ 75, pushed 88 days ago
-  </sup>
   <sup>
    &#9733 75, pushed 88 days ago
   </sup>
+  - free, open source, browser based music notation and composition software.
  </li>
  <li>
   <a href="https://github.com/DDMAL/libmei">
    LibMEI
   </a>
-  - a C++ library for reading and writing MEI files.
-  <sup>
-   32 GitHub links in total 81 links, ★ 27, pushed 86 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 86 days ago
   </sup>
+  - a C++ library for reading and writing MEI files.
  </li>
  <li>
   <a href="http://lilybin.com/">
@@ -417,49 +369,37 @@
   <a href="https://github.com/olsonpm/lilyvm">
    Lilyvm
   </a>
-  - Lilypond version manager.
-  <sup>
-   32 GitHub links in total 81 links, ★ 2, pushed 120 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 120 days ago
   </sup>
+  - Lilypond version manager.
  </li>
  <li>
   <a href="https://github.com/ciconia/lydown">
    Lydown
   </a>
-  - a modern language for music notation, based on Lilypond.
-  <sup>
-   32 GitHub links in total 81 links, ★ 3, pushed 50 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 50 days ago
   </sup>
+  - a modern language for music notation, based on Lilypond.
  </li>
  <li>
   <a href="https://github.com/noteflakes/lyp">
    Lyp
   </a>
-  - the lilypond package manager - install packages and manage multiple versions of lilypond.
-  <sup>
-   32 GitHub links in total 81 links, ★ 15, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 26 days ago
   </sup>
+  - the lilypond package manager - install packages and manage multiple versions of lilypond.
  </li>
  <li>
   <a href="https://github.com/musescore/MuseScore">
    MuseScore
   </a>
-  - free open-source music notation and composition software.
-  <sup>
-   32 GitHub links in total 81 links, ★ 1026, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1026, pushed 2 days ago
   </sup>
+  - free open-source music notation and composition software.
  </li>
  <li>
   <a href="http://notat.io/">
@@ -489,37 +429,28 @@
   <a href="https://github.com/tiredpixel/tunefl">
    Tunefl
   </a>
-  - LilyPond mini-score engraving and sharing service for musicians.
-  <sup>
-   32 GitHub links in total 81 links, ★ 18, pushed 105 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 105 days ago
   </sup>
+  - LilyPond mini-score engraving and sharing service for musicians.
  </li>
  <li>
   <a href="https://github.com/rism-ch/verovio">
    Verovio
   </a>
-  - a library and a toolkit for engraving MEI music notation into SVG.
-  <sup>
-   32 GitHub links in total 81 links, ★ 44, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 1 days ago
   </sup>
+  - a library and a toolkit for engraving MEI music notation into SVG.
  </li>
  <li>
   <a href="https://github.com/0xfe/vexflow">
    Vexflow
   </a>
-  - a JavaScript library for rendering music notation and guitar tablature.
-  <sup>
-   32 GitHub links in total 81 links, ★ 1441, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1441, pushed 5 days ago
   </sup>
+  - a JavaScript library for rendering music notation and guitar tablature.
  </li>
 </ul>
 <h2>
@@ -530,13 +461,10 @@
   <a href="https://github.com/alda-lang/alda">
    Alda
   </a>
-  - a music programming language for musicians.
-  <sup>
-   32 GitHub links in total 81 links, ★ 2347, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 2347, pushed 1 days ago
   </sup>
+  - a music programming language for musicians.
  </li>
  <li>
   <a href="http://www.bachproject.net/">
@@ -548,25 +476,19 @@
   <a href="https://github.com/ccrma/chuck">
    Chuck
   </a>
-  - strongly-timed, concurrent, and on-the-fly music programming language.
-  <sup>
-   32 GitHub links in total 81 links, ★ 132, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 132, pushed 4 days ago
   </sup>
+  - strongly-timed, concurrent, and on-the-fly music programming language.
  </li>
  <li>
   <a href="https://github.com/mohayonao/CoffeeCollider">
    CoffeeCollider
   </a>
-  - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
-  <sup>
-   32 GitHub links in total 81 links, ★ 166, pushed 208 days ago
-  </sup>
   <sup>
    &#9733 166, pushed 208 days ago
   </sup>
+  - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
  </li>
  <li>
   <a href="http://commonmusic.sourceforge.net/">
@@ -590,13 +512,10 @@
   <a href="https://github.com/iannix/IanniX">
    IanniX
   </a>
-  - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
-  <sup>
-   32 GitHub links in total 81 links, ★ 113, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 113, pushed 21 days ago
   </sup>
+  - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
  </li>
  <li>
   <a href="http://inscore.sourceforge.net/">
@@ -608,13 +527,10 @@
   <a href="https://github.com/ctford/leipzig">
    Leipzig
   </a>
-  - a composition library for Overtone.
-  <sup>
-   32 GitHub links in total 81 links, ★ 239, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 239, pushed 17 days ago
   </sup>
+  - a composition library for Overtone.
  </li>
  <li>
   <a href="http://web.mit.edu/music21/">
@@ -656,13 +572,10 @@
   <a href="https://github.com/PaulBatchelor/Sporth">
    Sporth
   </a>
-  - a small stack based audio language.
-  <sup>
-   32 GitHub links in total 81 links, ★ 42, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 5 days ago
   </sup>
+  - a small stack based audio language.
  </li>
  <li>
   <a href="http://supercollider.github.io/">
@@ -722,13 +635,10 @@
   <a href="https://github.com/adius/awesome-music-production">
    Awesome Music Production
   </a>
-  - A curated list of software and resources to create music.
-  <sup>
-   32 GitHub links in total 81 links, ★ 2, pushed 50 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 50 days ago
   </sup>
+  - A curated list of software and resources to create music.
  </li>
 </ul>
 <p>

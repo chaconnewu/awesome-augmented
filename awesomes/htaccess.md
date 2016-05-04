@@ -715,12 +715,10 @@ RedirectMatch 404 /\..*$
 </code></pre>
 <p>
 </p>
-<p>
- ```
- <a href="https://github.com/h5bp/server-configs-apache">
-  Source
- </a>
-</p>
+```
+<a href="https://github.com/h5bp/server-configs-apache">
+ Source
+</a>
 <h3>
  Disable Directory Browsing
 </h3>
@@ -881,18 +879,18 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 </p>
 <pre><code># Force compression for mangled headers.
 # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
-<ifmodule mod_setenvif.c="">
-    <ifmodule mod_headers.c="">
+<IfModule mod_setenvif.c>
+    <IfModule mod_headers.c>
         SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
         RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
-    </ifmodule>
-</ifmodule>
+    </IfModule>
+</IfModule>
 
 # Compress all output labeled with one of the following MIME-types
 # (for Apache versions below 2.3.7, you don't need to enable `mod_filter`
-#  and can remove the `<ifmodule mod_filter.c="">` and `</ifmodule>` lines
+#  and can remove the `<IfModule mod_filter.c>` and `</IfModule>` lines
 #  as `AddOutputFilterByType` is still in the core directives).
-<ifmodule mod_filter.c="">
+<IfModule mod_filter.c>
     AddOutputFilterByType DEFLATE application/atom+xml \
                                   application/javascript \
                                   application/json \
@@ -910,16 +908,14 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
                                   text/plain \
                                   text/x-component \
                                   text/xml
-</ifmodule>
+</IfModule>
 </code></pre>
 <p>
 </p>
-<p>
- ```
- <a href="https://github.com/h5bp/server-configs-apache">
-  Source
- </a>
-</p>
+```
+<a href="https://github.com/h5bp/server-configs-apache">
+ Source
+</a>
 <h3>
  Set Expires Headers
 </h3>
@@ -995,9 +991,7 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
     ExpiresByType font/opentype                         "access plus 1 month"
     ExpiresByType image/svg+xml                         "access plus 1 month"
 </p>
-<p>
- ```
-</p>
+```
 <h3>
  Turn eTags Off
 </h3>
@@ -1020,10 +1014,10 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
  </a>
  <code>
   apacheconf
-  <ifmodule mod_headers.c="">
-   Header unset ETag
-  </ifmodule>
-  FileETag None
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
  </code>
 </p>
 <h2>
@@ -1078,10 +1072,10 @@ ErrorDocument 404 /errors/halflife3.html
  Sometimes you want to force the browser to download some content instead of displaying it.
  <code>
   apacheconf
-  <files *.md="">
-   ForceType application/octet-stream
+<Files *.md>
+    ForceType application/octet-stream
     Header set Content-Disposition attachment
-  </files>
+</Files>
  </code>
 </p>
 <p>
@@ -1094,9 +1088,9 @@ ErrorDocument 404 /errors/halflife3.html
  Sometimes you want to force the browser to display some content instead of downloading it.
  <code>
   apacheconf
-  <filesmatch "\.(tex|log|aux)$"="">
-   Header set Content-Type text/plain
-  </filesmatch>
+<FilesMatch "\.(tex|log|aux)$">
+    Header set Content-Type text/plain
+</FilesMatch>
  </code>
 </p>
 <h3>
@@ -1110,11 +1104,11 @@ ErrorDocument 404 /errors/halflife3.html
  . This snippet solves the problem.
  <code>
   apacheconf
-  <ifmodule mod_headers.c="">
-   <filesmatch "\.(eot|otf|ttc|ttf|woff|woff2)$"="">
-    Header set Access-Control-Allow-Origin "*"
-   </filesmatch>
-  </ifmodule>
+<IfModule mod_headers.c>
+    <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
  </code>
  <a href="https://github.com/h5bp/server-configs-apache/issues/32">
   Source
@@ -1169,10 +1163,10 @@ AddHandler application/x-httpd-php56 .php
 <p>
  <code>
   apacheconf
-  <ifmodule mod_headers.c="">
-   BrowserMatch MSIE is-msie
+<IfModule mod_headers.c>
+    BrowserMatch MSIE is-msie
     Header set X-UA-Compatible IE=edge env=is-msie
-  </ifmodule>
+</IfModule>
  </code>
 </p>
 <h3>

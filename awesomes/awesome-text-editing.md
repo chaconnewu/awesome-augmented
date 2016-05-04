@@ -15,13 +15,10 @@
   <a href="https://github.com/basecamp/trix">
    Trix
   </a>
-  - Basecamp's rich text editor
-  <sup>
-   8 GitHub links in total 35 links, ★ 6684, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 6684, pushed 3 days ago
   </sup>
+  - Basecamp's rich text editor
  </li>
  <li>
   <a href="http://ckeditor.com/">
@@ -33,13 +30,10 @@
   <a href="https://github.com/neilj/Squire">
    Squire
   </a>
-  - HTML5 rich text editor
-  <sup>
-   8 GitHub links in total 35 links, ★ 3354, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3354, pushed 2 days ago
   </sup>
+  - HTML5 rich text editor
  </li>
  <li>
   <a href="http://prosemirror.net/">
@@ -51,17 +45,14 @@
   <a href="https://github.com/guardian/scribe">
    Scribe
   </a>
+  <sup>
+   &#9733 3388, pushed 2 days ago
+  </sup>
   - From the
   <a href="http://www.theguardian.com/">
    Guardian
   </a>
   team
-  <sup>
-   8 GitHub links in total 35 links, ★ 3388, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 3388, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="http://quilljs.com/">
@@ -124,13 +115,10 @@
   <a href="https://github.com/ritzyed/ritzy">
    Ritzy
   </a>
-  - Collaborative web-based rich text editor
-  <sup>
-   8 GitHub links in total 35 links, ★ 648, pushed 245 days ago
-  </sup>
   <sup>
    &#9733 648, pushed 245 days ago
   </sup>
+  - Collaborative web-based rich text editor
  </li>
  <li>
   <a href="http://www.alohaeditor.org/Content.Node/index.html">
@@ -160,25 +148,19 @@
   <a href="https://github.com/kindsoft/kindeditor">
    KindEditor
   </a>
-  - Open Source HTML editor
-  <sup>
-   8 GitHub links in total 35 links, ★ 700, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 700, pushed 33 days ago
   </sup>
+  - Open Source HTML editor
  </li>
  <li>
   <a href="https://github.com/bergie/hallo">
    Hallo
   </a>
-  - Simple rich text editor (contentEditable) for jQuery UI
-  <sup>
-   8 GitHub links in total 35 links, ★ 2385, pushed 251 days ago
-  </sup>
   <sup>
    &#9733 2385, pushed 251 days ago
   </sup>
+  - Simple rich text editor (contentEditable) for jQuery UI
  </li>
  <li>
   <a href="http://markitup.jaysalvat.com/home/">
@@ -214,13 +196,10 @@
   <a href="https://github.com/akzhan/jwysiwyg">
    jWYSIWYG
   </a>
-  - WYSIWYG jQuery Plugin
-  <sup>
-   8 GitHub links in total 35 links, ★ 236, pushed 293 days ago
-  </sup>
   <sup>
    &#9733 236, pushed 293 days ago
   </sup>
+  - WYSIWYG jQuery Plugin
  </li>
  <li>
   <a href="http://alloyeditor.com/">
@@ -271,13 +250,10 @@
   <a href="https://github.com/evilstreak/markdown-js">
    markdown-js
   </a>
-  - A Markdown parser for javascript
-  <sup>
-   8 GitHub links in total 35 links, ★ 4619, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 4619, pushed 6 days ago
   </sup>
+  - A Markdown parser for javascript
  </li>
  <li>
   <a href="https://code.google.com/p/pagedown/wiki/PageDown">

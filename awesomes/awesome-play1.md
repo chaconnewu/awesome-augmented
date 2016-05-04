@@ -464,17 +464,14 @@
    <a href="https://github.com/Q42/play-gae">
     Q42's Google App Engine
    </a>
+   <sup>
+    &#9733 3, pushed 237 days ago
+   </sup>
   </strong>
   <a href="https://github.com/Q42/play-gae">
    <img alt="registered on playframework.com/modules" src="http://img.shields.io/badge/registered-no-red.svg?style=flat"/>
   </a>
   Maintained module for Google App Engine integration. Should be used instead of [gae]
-  <sup>
-   5 GitHub links in total 139 links, ★ 3, pushed 237 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 237 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -878,17 +875,14 @@
    <a href="https://github.com/francisdb/play-hibernate-statistics">
     Hibernate statistics
    </a>
+   <sup>
+    &#9733 0, pushed 1233 days ago
+   </sup>
   </strong>
   <a href="https://github.com/francisdb/play-hibernate-statistics">
    <img alt="registered on playframework.com/modules" src="http://img.shields.io/badge/registered-no-red.svg?style=flat"/>
   </a>
   Displays MBean Hibernate statistics
-  <sup>
-   5 GitHub links in total 139 links, ★ 0, pushed 1233 days ago
-  </sup>
-  <sup>
-   &#9733 0, pushed 1233 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -910,17 +904,14 @@
    <a href="https://github.com/PerfectCarl/play-profiler">
     Mini-profiler
    </a>
+   <sup>
+    &#9733 5, pushed 630 days ago
+   </sup>
   </strong>
   <a href="https://github.com/PerfectCarl/play-profiler">
    <img alt="registered on playframework.com/modules" src="http://img.shields.io/badge/registered-no-red.svg?style=flat"/>
   </a>
   Displays a mini profiler in your application
-  <sup>
-   5 GitHub links in total 139 links, ★ 5, pushed 630 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 630 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -1593,17 +1584,14 @@
    <a href="https://github.com/phaus/play-bootstrap">
     Basic bootstrap scaffolding
    </a>
+   <sup>
+    &#9733 12, pushed 991 days ago
+   </sup>
   </strong>
   <a href="https://github.com/phaus/play-bootstrap">
    <img alt="registered on playframework.com/modules" src="http://img.shields.io/badge/registered-no-red.svg?style=flat"/>
   </a>
   Creating Bootstrap based applications (derived from the default [scaffold] module).
-  <sup>
-   5 GitHub links in total 139 links, ★ 12, pushed 991 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 991 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -2137,17 +2125,14 @@
    <a href="https://github.com/phaus/play-i18ned">
     Play-i18ned
    </a>
+   <sup>
+    &#9733 0, pushed 665 days ago
+   </sup>
   </strong>
   <a href="https://github.com/phaus/play-i18ned">
    <img alt="registered on playframework.com/modules" src="http://img.shields.io/badge/registered-no-red.svg?style=flat"/>
   </a>
   Converts default i18n files from an Excel Sheet and the other way around.
-  <sup>
-   5 GitHub links in total 139 links, ★ 0, pushed 665 days ago
-  </sup>
-  <sup>
-   &#9733 0, pushed 665 days ago
-  </sup>
  </li>
 </ul>
 <h3>

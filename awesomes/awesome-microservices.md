@@ -358,13 +358,10 @@
   <a href="https://github.com/hailocab/h2">
    H2
   </a>
-  - Hailo's microservices platform.
-  <sup>
-   108 GitHub links in total 406 links, ★ 240, pushed 189 days ago
-  </sup>
   <sup>
    &#9733 240, pushed 189 days ago
   </sup>
+  - Hailo's microservices platform.
  </li>
  <li>
   <a href="https://hook.io/">
@@ -388,13 +385,10 @@
   <a href="https://github.com/spring-cloud/spring-cloud-netflix">
    Spring Cloud Netflix
   </a>
-  - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
-  <sup>
-   108 GitHub links in total 406 links, ★ 351, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 351, pushed 5 days ago
   </sup>
+  - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
  </li>
  <li>
   <a href="http://vamp.io/">
@@ -423,13 +417,10 @@
   <a href="https://github.com/erlang/otp">
    Erlang/OTP
   </a>
-  - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
-  <sup>
-   108 GitHub links in total 406 links, ★ 4467, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 4467, pushed 1 days ago
   </sup>
+  - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
  </li>
  <li>
   <a href="http://twitter.github.io/finagle">
@@ -441,37 +432,28 @@
   <a href="https://github.com/Netflix/karyon">
    Karyon
   </a>
-  - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
-  <sup>
-   108 GitHub links in total 406 links, ★ 337, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 337, pushed 47 days ago
   </sup>
+  - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
  </li>
  <li>
   <a href="https://github.com/lagom/lagom">
    Lagom
   </a>
-  - Reactive microservices for the JVM.
-  <sup>
-   108 GitHub links in total 406 links, ★ 612, pushed 0 days ago
-  </sup>
   <sup>
    &#9733 612, pushed 0 days ago
   </sup>
+  - Reactive microservices for the JVM.
  </li>
  <li>
   <a href="https://github.com/aol/micro-server">
    Microserver
   </a>
-  - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 484, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 484, pushed 4 days ago
   </sup>
+  - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
  </li>
  <li>
   <a href="http://orbit.bioware.com/">
@@ -503,13 +485,10 @@
   <a href="https://github.com/apex/apex">
    Apex
   </a>
-  - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2443, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 2443, pushed 3 days ago
   </sup>
+  - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
  </li>
  <li>
   <a href="http://coap.technology/impls.html">
@@ -544,7 +523,7 @@
   <a href="http://libslack.org/">
    Libslack
   </a>
-  -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, &c.;
+  -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, &c.
  </li>
  <li>
   <a href="http://lwan.ws/">
@@ -556,25 +535,19 @@
   <a href="https://github.com/davidmoreno/onion">
    Onion
   </a>
-  - C library to create simple HTTP servers and web applications.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1013, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1013, pushed 1 days ago
   </sup>
+  - C library to create simple HTTP servers and web applications.
  </li>
  <li>
   <a href="https://github.com/Adaptv/ribs2">
    RIBS2
   </a>
-  - Library which allows building high-performance internet serving systems.
-  <sup>
-   108 GitHub links in total 406 links, ★ 89, pushed 439 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 439 days ago
   </sup>
+  - Library which allows building high-performance internet serving systems.
  </li>
 </ul>
 <h3>
@@ -588,13 +561,10 @@
   <a href="https://github.com/sgieseking/anyrpc">
    AnyRPC
   </a>
-  - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
-  <sup>
-   108 GitHub links in total 406 links, ★ 8, pushed 162 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 162 days ago
   </sup>
+  - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
  </li>
  <li>
   <a href="https://capnproto.org/cxxrpc.html">
@@ -618,25 +588,19 @@
   <a href="https://github.com/splunk/pion">
    Pion
   </a>
-  - C++ framework for building lightweight HTTP interfaces.
-  <sup>
-   108 GitHub links in total 406 links, ★ 203, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 203, pushed 32 days ago
   </sup>
+  - C++ framework for building lightweight HTTP interfaces.
  </li>
  <li>
   <a href="https://github.com/oktal/pistache">
    Pistache
   </a>
-  - A high-performance REST toolkit written in C++.
-  <sup>
-   108 GitHub links in total 406 links, ★ 65, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 65, pushed 27 days ago
   </sup>
+  - A high-performance REST toolkit written in C++.
  </li>
  <li>
   <a href="http://pocoproject.org/">
@@ -648,25 +612,19 @@
   <a href="https://github.com/datasift/served">
    Served
   </a>
-  - C++ library for building high-performance RESTful web servers.
-  <sup>
-   108 GitHub links in total 406 links, ★ 211, pushed 111 days ago
-  </sup>
   <sup>
    &#9733 211, pushed 111 days ago
   </sup>
+  - C++ library for building high-performance RESTful web servers.
  </li>
  <li>
   <a href="https://github.com/stefanocasazza/ULib">
    ULib
   </a>
-  - Highly optimized class framework for writing C++ applications.
-  <sup>
-   108 GitHub links in total 406 links, ★ 326, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 326, pushed 6 days ago
   </sup>
+  - Highly optimized class framework for writing C++ applications.
  </li>
 </ul>
 <h3>
@@ -697,13 +655,10 @@
   <a href="https://github.com/elixir-lang/plug">
    Plug
   </a>
-  - A specification and conveniences for composable modules between web applications.
-  <sup>
-   108 GitHub links in total 406 links, ★ 819, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 819, pushed 2 days ago
   </sup>
+  - A specification and conveniences for composable modules between web applications.
  </li>
 </ul>
 <h4>
@@ -714,37 +669,28 @@
   <a href="https://github.com/ninenines/cowboy">
    Cowboy
   </a>
-  - Small, fast, modular HTTP server written in Erlang.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3131, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3131, pushed 3 days ago
   </sup>
+  - Small, fast, modular HTTP server written in Erlang.
  </li>
  <li>
   <a href="https://github.com/videlalvaro/gen_microservice">
    Gen Microservice
   </a>
-  - This library solves the problem of implementing microservices with Erlang.
-  <sup>
-   108 GitHub links in total 406 links, ★ 64, pushed 356 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 356 days ago
   </sup>
+  - This library solves the problem of implementing microservices with Erlang.
  </li>
  <li>
   <a href="https://github.com/mochi/mochiweb">
    Mochiweb
   </a>
-  - Erlang library for building lightweight HTTP servers.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1367, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1367, pushed 6 days ago
   </sup>
+  - Erlang library for building lightweight HTTP servers.
  </li>
 </ul>
 <h3>
@@ -761,25 +707,19 @@
   <a href="https://github.com/goadesign/goa">
    Goa
   </a>
-  - Design-based HTTP microservices in Go.
-  <sup>
-   108 GitHub links in total 406 links, ★ 738, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 738, pushed 3 days ago
   </sup>
+  - Design-based HTTP microservices in Go.
  </li>
  <li>
   <a href="https://github.com/gocraft/web">
    Gocraft
   </a>
-  - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1042, pushed 124 days ago
-  </sup>
   <sup>
    &#9733 1042, pushed 124 days ago
   </sup>
+  - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
  </li>
  <li>
   <a href="https://goji.io/">
@@ -791,13 +731,10 @@
   <a href="https://github.com/go-kit/kit">
    Go kit
   </a>
-  - Distributed programming toolkit for microservices in the modern enterprise.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3967, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 3967, pushed 6 days ago
   </sup>
+  - Distributed programming toolkit for microservices in the modern enterprise.
  </li>
  <li>
   <a href="http://www.gorillatoolkit.org/">
@@ -809,25 +746,19 @@
   <a href="https://github.com/koding/kite">
    Kite
   </a>
-  - Microservices framework in Go.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1067, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 1067, pushed 18 days ago
   </sup>
+  - Microservices framework in Go.
  </li>
  <li>
   <a href="https://github.com/docker/libchan">
    Libchan
   </a>
-  - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2011, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 2011, pushed 148 days ago
   </sup>
+  - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
  </li>
  <li>
   <a href="https://go-macaron.com/">
@@ -839,25 +770,19 @@
   <a href="https://github.com/micro/micro">
    Micro
   </a>
-  - A microservices toolchain in Go.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1822, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1822, pushed 2 days ago
   </sup>
+  - A microservices toolchain in Go.
  </li>
  <li>
   <a href="https://github.com/codegangsta/negroni">
    Negroni
   </a>
-  - Idiomatic HTTP middleware for Golang.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3592, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 3592, pushed 14 days ago
   </sup>
+  - Idiomatic HTTP middleware for Golang.
  </li>
 </ul>
 <h3>
@@ -868,25 +793,19 @@
   <a href="https://github.com/scotty-web/scotty">
    Scotty
   </a>
-  - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-  <sup>
-   108 GitHub links in total 406 links, ★ 893, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 893, pushed 14 days ago
   </sup>
+  - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
  </li>
  <li>
   <a href="https://github.com/yesodweb/yesod">
    Yesod
   </a>
-  - The Haskell RESTful web framework.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1458, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1458, pushed 1 days ago
   </sup>
+  - The Haskell RESTful web framework.
  </li>
 </ul>
 <h3>
@@ -900,25 +819,19 @@
   <a href="https://github.com/weavejester/compojure">
    Compojure
   </a>
-  - A concise routing library for Ring/Clojure.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2883, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 2883, pushed 57 days ago
   </sup>
+  - A concise routing library for Ring/Clojure.
  </li>
  <li>
   <a href="https://github.com/weavejester/duct">
    Duct
   </a>
-  - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-  <sup>
-   108 GitHub links in total 406 links, ★ 329, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 329, pushed 39 days ago
   </sup>
+  - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
  </li>
  <li>
   <a href="http://clojure-liberator.github.io/liberator/">
@@ -936,25 +849,19 @@
   <a href="https://github.com/danielsz/system">
    System
   </a>
-  - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-  <sup>
-   108 GitHub links in total 406 links, ★ 350, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 350, pushed 2 days ago
   </sup>
+  - Built on top of Stuart Sierra's component library, offers a set of readymade components.
  </li>
  <li>
   <a href="https://github.com/otto-de/tesla-microservice">
    Tesla
   </a>
-  - Common basis for some of Otto.de's Clojure microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 119, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 119, pushed 20 days ago
   </sup>
+  - Common basis for some of Otto.de's Clojure microservices.
  </li>
 </ul>
 <h4>
@@ -965,13 +872,10 @@
   <a href="https://github.com/airlift/airlift">
    Airlift
   </a>
-  - Framework for building REST services in Java.
-  <sup>
-   108 GitHub links in total 406 links, ★ 151, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 151, pushed 4 days ago
   </sup>
+  - Framework for building REST services in Java.
  </li>
  <li>
   <a href="https://dropwizard.github.io/">
@@ -989,25 +893,19 @@
   <a href="https://github.com/wso2/msf4j">
    MSF4J
   </a>
-  - High throughput & low memory footprint Java microservices framework.
-  <sup>
-   108 GitHub links in total 406 links, ★ 81, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 81, pushed 3 days ago
   </sup>
+  - High throughput & low memory footprint Java microservices framework.
  </li>
  <li>
   <a href="https://github.com/advantageous/qbit">
    QBit
   </a>
-  - Reactive programming library for building microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 403, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 403, pushed 3 days ago
   </sup>
+  - Reactive programming library for building microservices.
  </li>
  <li>
   <a href="https://ratpack.io/">
@@ -1042,13 +940,10 @@
   <a href="https://github.com/tumblr/colossus">
    Colossus
   </a>
-  - I/O and microservice library for Scala.
-  <sup>
-   108 GitHub links in total 406 links, ★ 765, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 765, pushed 1 days ago
   </sup>
+  - I/O and microservice library for Scala.
  </li>
  <li>
   <a href="http://twitter.github.io/finatra/">
@@ -1072,13 +967,10 @@
   <a href="https://github.com/skinny-framework/skinny-micro">
    Skinny Micro
   </a>
-  - Micro-web framework to build servlet applications in Scala.
-  <sup>
-   108 GitHub links in total 406 links, ★ 43, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 43, pushed 38 days ago
   </sup>
+  - Micro-web framework to build servlet applications in Scala.
  </li>
  <li>
   <a href="http://spray.io/">
@@ -1101,13 +993,10 @@
   <a href="https://github.com/wprl/baucis">
    Baucis
   </a>
-  - To build and maintain scalable HATEOAS/Level 3 REST APIs.
-  <sup>
-   108 GitHub links in total 406 links, ★ 563, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 563, pushed 57 days ago
   </sup>
+  - To build and maintain scalable HATEOAS/Level 3 REST APIs.
  </li>
  <li>
   <a href="http://expressjs.com/">
@@ -1119,13 +1008,10 @@
   <a href="https://github.com/GraftJS/graft">
    Graft
   </a>
-  - Full-stack javascript through microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 202, pushed 276 days ago
-  </sup>
   <sup>
    &#9733 202, pushed 276 days ago
   </sup>
+  - Full-stack javascript through microservices.
  </li>
  <li>
   <a href="http://hapijs.com/">
@@ -1155,13 +1041,10 @@
   <a href="https://github.com/czerwonkabartosz/Micro-Whalla">
    Micro-Whalla
   </a>
-  - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
-  <sup>
-   108 GitHub links in total 406 links, ★ 21, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 3 days ago
   </sup>
+  - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
  </li>
  <li>
   <a href="http://restify.com/">
@@ -1179,13 +1062,10 @@
   <a href="https://github.com/serverless/serverless">
    Serverless
   </a>
-  - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
-  <sup>
-   108 GitHub links in total 406 links, ★ 8016, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 8016, pushed 2 days ago
   </sup>
+  - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
  </li>
 </ul>
 <h3>
@@ -1236,13 +1116,10 @@
   <a href="https://github.com/onefinestay/nameko">
    Nameko
   </a>
-  - Python framework for building microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 813, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 813, pushed 1 days ago
   </sup>
+  - Python framework for building microservices.
  </li>
  <li>
   <a href="http://www.tornadoweb.org/">
@@ -1271,25 +1148,19 @@
   <a href="https://github.com/rightscale/praxis">
    Praxis
   </a>
-  - Framework for both designing and implementing APIs.
-  <sup>
-   108 GitHub links in total 406 links, ★ 240, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 240, pushed 49 days ago
   </sup>
+  - Framework for both designing and implementing APIs.
  </li>
  <li>
   <a href="https://github.com/wardrop/Scorched">
    Scorched
   </a>
-  - Light-weight web framework for Ruby.
-  <sup>
-   108 GitHub links in total 406 links, ★ 220, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 220, pushed 72 days ago
   </sup>
+  - Light-weight web framework for Ruby.
  </li>
 </ul>
 <h2>
@@ -1309,13 +1180,10 @@
   <a href="https://github.com/eBay/fabio">
    Fabio
   </a>
-  - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1874, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1874, pushed 6 days ago
   </sup>
+  - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
  </li>
  <li>
   <a href="http://www.haproxy.org/">
@@ -1333,13 +1201,10 @@
   <a href="https://github.com/eBay/Neutrino">
    Neutrino
   </a>
-  - Extensible software load balancer.
-  <sup>
-   108 GitHub links in total 406 links, ★ 176, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 176, pushed 25 days ago
   </sup>
+  - Extensible software load balancer.
  </li>
  <li>
   <a href="http://openresty.org/">
@@ -1369,25 +1234,19 @@
   <a href="https://github.com/vulcand/vulcand">
    Vulcand
   </a>
-  - Programmatic load balancer backed by Etcd.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1910, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1910, pushed 8 days ago
   </sup>
+  - Programmatic load balancer backed by Etcd.
  </li>
  <li>
   <a href="https://github.com/Netflix/zuul">
    Zuul
   </a>
-  - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
-  <sup>
-   108 GitHub links in total 406 links, ★ 964, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 964, pushed 27 days ago
   </sup>
+  - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
  </li>
 </ul>
 <h3>
@@ -1404,37 +1263,28 @@
   <a href="https://github.com/Netflix/denominator">
    Denominator
   </a>
-  - Portably control DNS clouds using java or bash.
-  <sup>
-   108 GitHub links in total 406 links, ★ 226, pushed 144 days ago
-  </sup>
   <sup>
    &#9733 226, pushed 144 days ago
   </sup>
+  - Portably control DNS clouds using java or bash.
  </li>
  <li>
   <a href="https://github.com/ha/doozerd">
    Doozer
   </a>
-  - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2663, pushed 48 days ago
-  </sup>
   <sup>
    &#9733 2663, pushed 48 days ago
   </sup>
+  - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
  </li>
  <li>
   <a href="https://github.com/coreos/etcd">
    Etcd
   </a>
-  - Highly-available key-value store for shared configuration and service discovery.
-  <sup>
-   108 GitHub links in total 406 links, ★ 9440, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 9440, pushed 2 days ago
   </sup>
+  - Highly-available key-value store for shared configuration and service discovery.
  </li>
  <li>
   <a href="https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance">
@@ -1446,49 +1296,37 @@
   <a href="https://github.com/gliderlabs/registrator">
    Registrator
   </a>
-  - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, etcd and SkyDNS 2.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2104, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 2104, pushed 6 days ago
   </sup>
+  - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, etcd and SkyDNS 2.
  </li>
  <li>
   <a href="https://github.com/nanopack/shaman">
    Shaman
   </a>
-  - Small, lightweight, api-driven DNS server.
-  <sup>
-   108 GitHub links in total 406 links, ★ 24, pushed 77 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 77 days ago
   </sup>
+  - Small, lightweight, api-driven DNS server.
  </li>
  <li>
   <a href="https://github.com/skynetservices/skydns">
    SkyDNS
   </a>
-  - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1124, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1124, pushed 4 days ago
   </sup>
+  - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
  </li>
  <li>
   <a href="https://github.com/airbnb/smartstack-cookbook">
    SmartStack
   </a>
-  - Airbnb's automated service discovery and registration framework.
-  <sup>
-   108 GitHub links in total 406 links, ★ 161, pushed 427 days ago
-  </sup>
   <sup>
    &#9733 161, pushed 427 days ago
   </sup>
+  - Airbnb's automated service discovery and registration framework.
  </li>
  <li>
   <a href="http://cloud.spring.io/spring-cloud-config/">
@@ -1511,25 +1349,19 @@
   <a href="https://github.com/spotify/crtauth">
    Crtauth
   </a>
-  - A public key backed client/server authentication system.
-  <sup>
-   108 GitHub links in total 406 links, ★ 65, pushed 60 days ago
-  </sup>
   <sup>
    &#9733 65, pushed 60 days ago
   </sup>
+  - A public key backed client/server authentication system.
  </li>
  <li>
   <a href="https://github.com/coreos/dex">
    Dex
   </a>
-  - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
-  <sup>
-   108 GitHub links in total 406 links, ★ 645, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 645, pushed 7 days ago
   </sup>
+  - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
  </li>
  <li>
   <a href="http://jwt.io/">
@@ -1541,13 +1373,10 @@
   <a href="https://github.com/keycloak/keycloak">
    Keycloak
   </a>
+  <sup>
+   &#9733 481, pushed 1 days ago
+  </sup>
   - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-  <sup>
-   108 GitHub links in total 406 links, ★ 481, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 481, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="http://oauth.net/2/">
@@ -1565,13 +1394,10 @@
   <a href="https://github.com/osiam/osiam">
    OSIAM
   </a>
-  - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
-  <sup>
-   108 GitHub links in total 406 links, ★ 38, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 2 days ago
   </sup>
+  - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
  </li>
  <li>
   <a href="http://www.simplecloud.info/">
@@ -1594,25 +1420,19 @@
   <a href="https://github.com/mesos/chronos">
    Chronos
   </a>
-  - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3185, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3185, pushed 3 days ago
   </sup>
+  - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
  </li>
  <li>
   <a href="https://github.com/Netflix/Fenzo">
    Fenzo
   </a>
-  - Extensible scheduler for Mesos frameworks.
-  <sup>
-   108 GitHub links in total 406 links, ★ 291, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 291, pushed 18 days ago
   </sup>
+  - Extensible scheduler for Mesos frameworks.
  </li>
  <li>
   <a href="http://www.paralleluniverse.co/galaxy/">
@@ -1666,37 +1486,28 @@
   <a href="https://github.com/onyx-platform/onyx">
    Onyx
   </a>
-  - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1205, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1205, pushed 3 days ago
   </sup>
+  - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
  </li>
  <li>
   <a href="https://github.com/boundary/ordasity">
    Ordasity
   </a>
-  - Designed to spread persistent or long-lived workloads across several machines.
-  <sup>
-   108 GitHub links in total 406 links, ★ 348, pushed 490 days ago
-  </sup>
   <sup>
    &#9733 348, pushed 490 days ago
   </sup>
+  - Designed to spread persistent or long-lived workloads across several machines.
  </li>
  <li>
   <a href="https://github.com/mrniko/redisson">
    Redisson
   </a>
-  - Distributed and scalable Java data structures on top of Redis server.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1135, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1135, pushed 2 days ago
   </sup>
+  - Distributed and scalable Java data structures on top of Redis server.
  </li>
  <li>
   <a href="https://www.serfdom.io/">
@@ -1725,13 +1536,10 @@
   <a href="https://github.com/real-logic/Aeron">
    Aeron
   </a>
-  - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1743, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1743, pushed 8 days ago
   </sup>
+  - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
  </li>
  <li>
   <a href="http://activemq.apache.org/apollo/">
@@ -1743,13 +1551,10 @@
   <a href="https://github.com/mcollina/ascoltatori">
    Ascoltatori
   </a>
-  - Pub/sub library for Node.
-  <sup>
-   108 GitHub links in total 406 links, ★ 233, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 233, pushed 5 days ago
   </sup>
+  - Pub/sub library for Node.
  </li>
  <li>
   <a href="http://kr.github.io/beanstalkd/">
@@ -1761,13 +1566,10 @@
   <a href="https://github.com/antirez/disque">
    Disque
   </a>
-  - Distributed message broker.
-  <sup>
-   108 GitHub links in total 406 links, ★ 5070, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5070, pushed 4 days ago
   </sup>
+  - Distributed message broker.
  </li>
  <li>
   <a href="http://kafka.apache.org/">
@@ -1779,25 +1581,19 @@
   <a href="https://github.com/zeromq/malamute">
    Malamute
   </a>
-  - ZeroMQ enterprise messaging broker.
-  <sup>
-   108 GitHub links in total 406 links, ★ 142, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 142, pushed 5 days ago
   </sup>
+  - ZeroMQ enterprise messaging broker.
  </li>
  <li>
   <a href="https://github.com/nanopack/mist">
    Mist
   </a>
-  - A distributed, tag-based pub/sub service.
-  <sup>
-   108 GitHub links in total 406 links, ★ 455, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 455, pushed 5 days ago
   </sup>
+  - A distributed, tag-based pub/sub service.
  </li>
  <li>
   <a href="http://www.mosca.io/">
@@ -1856,13 +1652,10 @@
   <a href="https://github.com/ochrons/boopickle">
    BooPickle
   </a>
-  - Binary serialization library for efficient network communication. For Scala and Scala.js
-  <sup>
-   108 GitHub links in total 406 links, ★ 138, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 138, pushed 47 days ago
   </sup>
+  - Binary serialization library for efficient network communication. For Scala and Scala.js
  </li>
  <li>
   <a href="https://capnproto.org/">
@@ -1886,13 +1679,10 @@
   <a href="https://github.com/dakrone/cheshire">
    Cheshire
   </a>
-  - Clojure JSON and JSON SMILE encoding/decoding.
-  <sup>
-   108 GitHub links in total 406 links, ★ 777, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 777, pushed 21 days ago
   </sup>
+  - Clojure JSON and JSON SMILE encoding/decoding.
  </li>
  <li>
   <a href="http://etch.apache.org/">
@@ -1904,73 +1694,55 @@
   <a href="https://github.com/alibaba/fastjson">
    Fastjson
   </a>
-  - Fast JSON Processor.
-  <sup>
-   108 GitHub links in total 406 links, ★ 4946, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 4946, pushed 1 days ago
   </sup>
+  - Fast JSON Processor.
  </li>
  <li>
   <a href="https://github.com/pquerna/ffjson">
    Ffjson
   </a>
-  - Faster JSON serialization for Go.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1253, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 1253, pushed 7 days ago
   </sup>
+  - Faster JSON serialization for Go.
  </li>
  <li>
   <a href="https://github.com/RuedigerMoeller/fast-serialization">
    FST
   </a>
-  - Fast java serialization drop in-replacemen.
-  <sup>
-   108 GitHub links in total 406 links, ★ 540, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 540, pushed 21 days ago
   </sup>
+  - Fast java serialization drop in-replacemen.
  </li>
  <li>
   <a href="https://github.com/FasterXML/jackson">
    Jackson
   </a>
-  -  A multi-purpose Java library for processing JSON data format.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1883, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 1883, pushed 22 days ago
   </sup>
+  -  A multi-purpose Java library for processing JSON data format.
  </li>
  <li>
   <a href="https://github.com/FasterXML/jackson-module-afterburner">
    Jackson Afterburner
   </a>
+  <sup>
+   &#9733 82, pushed 29 days ago
+  </sup>
   - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-  <sup>
-   108 GitHub links in total 406 links, ★ 82, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 82, pushed 28 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/EsotericSoftware/kryo">
    Kryo
   </a>
-  - Java serialization and cloning: fast, efficient, automatic.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1847, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 1847, pushed 9 days ago
   </sup>
+  - Java serialization and cloning: fast, efficient, automatic.
  </li>
  <li>
   <a href="http://msgpack.org/">
@@ -1988,13 +1760,10 @@
   <a href="https://github.com/harrah/sbinary">
    SBinary
   </a>
-  - Library for describing binary formats for Scala types.
-  <sup>
-   108 GitHub links in total 406 links, ★ 78, pushed 149 days ago
-  </sup>
   <sup>
    &#9733 78, pushed 149 days ago
   </sup>
+  - Library for describing binary formats for Scala types.
  </li>
  <li>
   <a href="http://thrift.apache.org/">
@@ -2077,13 +1846,10 @@
   <a href="https://github.com/reborndb/reborn">
    Reborn
   </a>
-  - Distributed database fully compatible with redis protocol.
-  <sup>
-   108 GitHub links in total 406 links, ★ 507, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 507, pushed 53 days ago
   </sup>
+  - Distributed database fully compatible with redis protocol.
  </li>
  <li>
   <a href="http://rethinkdb.com/">
@@ -2095,13 +1861,10 @@
   <a href="https://github.com/ssbc/docs">
    Secure Scuttlebutt
   </a>
-  - P2P database of message-feeds.
-  <sup>
-   108 GitHub links in total 406 links, ★ 47, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 47, pushed 82 days ago
   </sup>
+  - P2P database of message-feeds.
  </li>
  <li>
   <a href="http://tachyon-project.org/">
@@ -2141,13 +1904,10 @@
   <a href="https://github.com/Netflix/Hystrix">
    Hystrix
   </a>
-  - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-  <sup>
-   108 GitHub links in total 406 links, ★ 5815, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 5815, pushed 1 days ago
   </sup>
+  - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
  </li>
  <li>
   <a href="http://pathod.net/">
@@ -2171,25 +1931,19 @@
   <a href="https://github.com/tomakehurst/saboteur">
    Saboteur
   </a>
-  - Causing deliberate network mayhem for better resilience.
-  <sup>
-   108 GitHub links in total 406 links, ★ 217, pushed 249 days ago
-  </sup>
   <sup>
    &#9733 217, pushed 249 days ago
   </sup>
+  - Causing deliberate network mayhem for better resilience.
  </li>
  <li>
   <a href="https://github.com/Netflix/SimianArmy">
    Simian Army
   </a>
-  - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3979, pushed 34 days ago
-  </sup>
   <sup>
    &#9733 3979, pushed 34 days ago
   </sup>
+  - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
  </li>
 </ul>
 <h3>
@@ -2212,25 +1966,19 @@
   <a href="https://github.com/vcr/vcr">
    VCR
   </a>
-  - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2930, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 2930, pushed 5 days ago
   </sup>
+  - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
  </li>
  <li>
   <a href="https://github.com/epam/Wilma">
    Wilma
   </a>
-  - Combined HTTP/HTTPS service stub and transparent proxy solution.
-  <sup>
-   108 GitHub links in total 406 links, ★ 10, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 6 days ago
   </sup>
+  - Combined HTTP/HTTPS service stub and transparent proxy solution.
  </li>
  <li>
   <a href="http://wiremock.org/">
@@ -2259,13 +2007,10 @@
   <a href="https://github.com/yelp/elastalert">
    Elastalert
   </a>
-  - Easy & flexible alerting for Elasticsearch.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1777, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1777, pushed 4 days ago
   </sup>
+  - Easy & flexible alerting for Elasticsearch.
  </li>
  <li>
   <a href="http://ganglia.info/">
@@ -2290,13 +2035,10 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/eBay/parallec">
    Parallec
   </a>
-  - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
-  <sup>
-   108 GitHub links in total 406 links, ★ 326, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 326, pushed 10 days ago
   </sup>
+  - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
  </li>
  <li>
   <a href="http://prometheus.io/">
@@ -2308,13 +2050,10 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/eBay/restcommander">
    REST Commander
   </a>
-  - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
-  <sup>
-   108 GitHub links in total 406 links, ★ 715, pushed 119 days ago
-  </sup>
   <sup>
    &#9733 715, pushed 119 days ago
   </sup>
+  - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
  </li>
  <li>
   <a href="http://riemann.io/">
@@ -2332,13 +2071,10 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/RisingStack/trace-nodejs">
    Trace
   </a>
-  - A visualised stack trace platform designed for microservices.
-  <sup>
-   108 GitHub links in total 406 links, ★ 283, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 283, pushed 3 days ago
   </sup>
+  - A visualised stack trace platform designed for microservices.
  </li>
  <li>
   <a href="https://www.elastic.co/products/watcher">
@@ -2408,13 +2144,10 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/spotify/helios">
    Helios
   </a>
-  - Docker container orchestration platform.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1406, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1406, pushed 4 days ago
   </sup>
+  - Docker container orchestration platform.
  </li>
  <li>
   <a href="https://www.ottoproject.io/">
@@ -2438,13 +2171,10 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/saltstack/salt">
    Salt
   </a>
+  <sup>
+   &#9733 6489, pushed 2 days ago
+  </sup>
   - Infrastructure automation and management system.
-  <sup>
-   108 GitHub links in total 406 links, ★ 6489, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6489, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.terraform.io/">
@@ -2464,25 +2194,19 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/gilt/ionroller">
    ION-Roller
   </a>
-  - AWS immutable deployment framework for web services.
-  <sup>
-   108 GitHub links in total 406 links, ★ 143, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 143, pushed 22 days ago
   </sup>
+  - AWS immutable deployment framework for web services.
  </li>
  <li>
   <a href="https://github.com/github/janky">
    Janky
   </a>
-  - Continuous integration server built on top of Jenkins and Hubot.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2451, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 2451, pushed 5 days ago
   </sup>
+  - Continuous integration server built on top of Jenkins and Hubot.
  </li>
  <li>
   <a href="http://jenkins-ci.org/">
@@ -2494,37 +2218,28 @@ Graphite, InfluxDB & OpenTSDB.
   <a href="https://github.com/nearform/nscale">
    Nscale
   </a>
-  - Open toolkit supporting configuration, build and deployment of connected container sets.
-  <sup>
-   108 GitHub links in total 406 links, ★ 293, pushed 314 days ago
-  </sup>
   <sup>
    &#9733 293, pushed 314 days ago
   </sup>
+  - Open toolkit supporting configuration, build and deployment of connected container sets.
  </li>
  <li>
   <a href="https://github.com/DatawiseIO/Project6">
    Project 6
   </a>
-  - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
-  <sup>
-   108 GitHub links in total 406 links, ★ 21, pushed 175 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 175 days ago
   </sup>
+  - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
  </li>
  <li>
   <a href="https://github.com/rancher/rancher">
    Rancher
   </a>
+  <sup>
+   &#9733 3327, pushed 3 days ago
+  </sup>
   - Open source platform for operating Docker in production.
-  <sup>
-   108 GitHub links in total 406 links, ★ 3327, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 3327, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="http://mojo.codehaus.org/rpm-maven-plugin/">
@@ -2571,37 +2286,28 @@ of the testing and deployment process.
   <a href="https://github.com/puniverse/capsule">
    Capsule
   </a>
-  - Packaging and deployment tool for JVM applications.
-  <sup>
-   108 GitHub links in total 406 links, ★ 910, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 910, pushed 11 days ago
   </sup>
+  - Packaging and deployment tool for JVM applications.
  </li>
  <li>
   <a href="https://github.com/nathanmarz/kafka-deploy">
    Kafka Deploy
   </a>
-  - Automated deploy for a Kafka cluster on AWS.
-  <sup>
-   108 GitHub links in total 406 links, ★ 98, pushed 1551 days ago
-  </sup>
   <sup>
    &#9733 98, pushed 1551 days ago
   </sup>
+  - Automated deploy for a Kafka cluster on AWS.
  </li>
  <li>
   <a href="https://github.com/flosell/lambdacd">
    LambdaCD
   </a>
-  - A library to define a continuous delivery pipeline in code.
-  <sup>
-   108 GitHub links in total 406 links, ★ 208, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 208, pushed 14 days ago
   </sup>
+  - A library to define a continuous delivery pipeline in code.
  </li>
 </ul>
 <h2>
@@ -2648,13 +2354,10 @@ of the testing and deployment process.
   <a href="https://github.com/rancher/os">
    RancherOS
   </a>
-  - The smallest, easiest way to run Docker in production at scale.
-  <sup>
-   108 GitHub links in total 406 links, ★ 2240, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 2240, pushed 3 days ago
   </sup>
+  - The smallest, easiest way to run Docker in production at scale.
  </li>
 </ul>
 <h2>
@@ -2668,13 +2371,10 @@ of the testing and deployment process.
   <a href="https://github.com/danielgtaylor/aglio">
    Aglio
   </a>
-  - API Blueprint renderer with theme support that outputs static HTML.
-  <sup>
-   108 GitHub links in total 406 links, ★ 1850, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1850, pushed 4 days ago
   </sup>
+  - API Blueprint renderer with theme support that outputs static HTML.
  </li>
  <li>
   <a href="https://apiblueprint.org/">
@@ -2686,13 +2386,10 @@ of the testing and deployment process.
   <a href="https://github.com/mbryzek/apidoc">
    Apidoc
   </a>
-  - Beautiful documentation for REST services.
-  <sup>
-   108 GitHub links in total 406 links, ★ 127, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 127, pushed 5 days ago
   </sup>
+  - Beautiful documentation for REST services.
  </li>
  <li>
   <a href="http://raml.org/">
@@ -2704,13 +2401,10 @@ of the testing and deployment process.
   <a href="https://github.com/tripit/slate">
    Slate
   </a>
-  - Beautiful static documentation for your API.
-  <sup>
-   108 GitHub links in total 406 links, ★ 9557, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 9557, pushed 4 days ago
   </sup>
+  - Beautiful static documentation for your API.
  </li>
  <li>
   <a href="http://projects.spring.io/spring-restdocs/">
@@ -2989,13 +2683,10 @@ of the testing and deployment process.
   <a href="https://github.com/FIXTradingCommunity/fix-simple-binary-encoding">
    SBE
   </a>
-  - Simple Binary Encoding (SBE).
-  <sup>
-   108 GitHub links in total 406 links, ★ 15, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 62 days ago
   </sup>
+  - Simple Binary Encoding (SBE).
  </li>
  <li>
   <a href="http://wiki.fasterxml.com/SmileFormatSpec">

@@ -223,25 +223,19 @@
   <a href="https://github.com/evilsocket/bettercap">
    Bettercap
   </a>
-  - Framework to perform MITM (Man in the Middle) attacks.
-  <sup>
-   29 GitHub links in total 110 links, ★ 1366, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1366, pushed 6 days ago
   </sup>
+  - Framework to perform MITM (Man in the Middle) attacks.
  </li>
  <li>
   <a href="https://github.com/tomac/yersinia">
    Layer 2 attacks
   </a>
-  - Attack various protocols on layer 2
-  <sup>
-   29 GitHub links in total 110 links, ★ 80, pushed 481 days ago
-  </sup>
   <sup>
    &#9733 80, pushed 481 days ago
   </sup>
+  - Attack various protocols on layer 2
  </li>
 </ul>
 <h2>
@@ -263,25 +257,19 @@
   <a href="https://github.com/ius/rsatool">
    RSATool
   </a>
-  - Generate private key with knowledge of p and q
-  <sup>
-   29 GitHub links in total 110 links, ★ 89, pushed 89 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 89 days ago
   </sup>
+  - Generate private key with knowledge of p and q
  </li>
  <li>
   <a href="https://github.com/hellman/xortool">
    XORTool
   </a>
-  - A tool to analyze multi-byte xor cipher
-  <sup>
-   29 GitHub links in total 110 links, ★ 314, pushed 566 days ago
-  </sup>
   <sup>
    &#9733 314, pushed 566 days ago
   </sup>
+  - A tool to analyze multi-byte xor cipher
  </li>
 </ul>
 <h2>
@@ -297,13 +285,10 @@
   <a href="https://github.com/magnumripper/JohnTheRipper">
    John The Jumbo
   </a>
-  - Community enhanced version of John the Ripper
-  <sup>
-   29 GitHub links in total 110 links, ★ 599, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 599, pushed 1 days ago
   </sup>
+  - Community enhanced version of John the Ripper
  </li>
  <li>
   <a href="http://www.openwall.com/john/">
@@ -343,37 +328,28 @@
   <a href="https://github.com/Gallopsled/pwntools">
    pwntools
   </a>
-  - CTF Framework for writing exploits
-  <sup>
-   29 GitHub links in total 110 links, ★ 1340, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1340, pushed 3 days ago
   </sup>
+  - CTF Framework for writing exploits
  </li>
  <li>
   <a href="https://github.com/BinaryAnalysisPlatform/qira">
    qira
   </a>
-  - QEMU Interactive Runtime Analyser
-  <sup>
-   29 GitHub links in total 110 links, ★ 1039, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1039, pushed 2 days ago
   </sup>
+  - QEMU Interactive Runtime Analyser
  </li>
  <li>
   <a href="https://github.com/JonathanSalwan/ROPgadget">
    ROP Gadget
   </a>
-  - Framework for ROP exploitation
-  <sup>
-   29 GitHub links in total 110 links, ★ 669, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 669, pushed 3 days ago
   </sup>
+  - Framework for ROP exploitation
  </li>
 </ul>
 <h2>
@@ -434,25 +410,19 @@
   <a href="https://github.com/moyix/creddump">
    creddump
   </a>
-  - Dump windows credentials
-  <sup>
-   29 GitHub links in total 110 links, ★ 16, pushed 394 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 394 days ago
   </sup>
+  - Dump windows credentials
  </li>
  <li>
   <a href="https://github.com/kost/dvcs-ripper">
    DVCS Ripper
   </a>
-  - Rips web accessible (distributed) version control systems
-  <sup>
-   29 GitHub links in total 110 links, ★ 250, pushed 161 days ago
-  </sup>
   <sup>
    &#9733 250, pushed 161 days ago
   </sup>
+  - Rips web accessible (distributed) version control systems
  </li>
  <li>
   <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">
@@ -513,13 +483,10 @@
   <a href="https://github.com/williballenthin/shellbags">
    Shellbags
   </a>
-  - Investigate NT_USER.dat files
-  <sup>
-   29 GitHub links in total 110 links, ★ 28, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 29 days ago
   </sup>
+  - Investigate NT_USER.dat files
  </li>
  <li>
   <a href="http://www.forensicswiki.org/wiki/USB_History_Viewing">
@@ -531,13 +498,10 @@
   <a href="https://github.com/volatilityfoundation/volatility">
    Volatility
   </a>
-  - To investigate memory dumps
-  <sup>
-   29 GitHub links in total 110 links, ★ 950, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 950, pushed 4 days ago
   </sup>
+  - To investigate memory dumps
  </li>
  <li>
   <a href="https://www.wireshark.org/">
@@ -581,25 +545,19 @@
   <a href="https://github.com/androguard/androguard">
    Androguard
   </a>
-  - Reverse engineer Android applications
-  <sup>
-   29 GitHub links in total 110 links, ★ 905, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 905, pushed 42 days ago
   </sup>
+  - Reverse engineer Android applications
  </li>
  <li>
   <a href="https://github.com/lxdvs/apk2gold">
    Apk2Gold
   </a>
-  - Yet another Android decompiler
-  <sup>
-   29 GitHub links in total 110 links, ★ 435, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 435, pushed 92 days ago
   </sup>
+  - Yet another Android decompiler
  </li>
  <li>
   <a href="http://ibotpeaches.github.io/Apktool/">
@@ -617,25 +575,19 @@
   <a href="https://github.com/devttys0/binwalk">
    BinWalk
   </a>
-  - Analyze, reverse engineer, and extract firmware images.
-  <sup>
-   29 GitHub links in total 110 links, ★ 1600, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1600, pushed 3 days ago
   </sup>
+  - Analyze, reverse engineer, and extract firmware images.
  </li>
  <li>
   <a href="https://github.com/nemerle/boomerang">
    Boomerang
   </a>
-  - Decompile x86 binaries to C
-  <sup>
-   29 GitHub links in total 110 links, ★ 64, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 2 days ago
   </sup>
+  - Decompile x86 binaries to C
  </li>
  <li>
   <a href="https://www.gnu.org/software/gdb/">
@@ -653,49 +605,37 @@
   <a href="https://github.com/skylot/jadx">
    Jadx
   </a>
-  - Decompile Android files
-  <sup>
-   29 GitHub links in total 110 links, ★ 2419, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2419, pushed 2 days ago
   </sup>
+  - Decompile Android files
  </li>
  <li>
   <a href="https://github.com/Storyyeller/Krakatau">
    Krakatau
   </a>
-  - Java decompiler and disassembler
-  <sup>
-   29 GitHub links in total 110 links, ★ 527, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 527, pushed 4 days ago
   </sup>
+  - Java decompiler and disassembler
  </li>
  <li>
   <a href="https://github.com/radare/radare2">
    radare2
   </a>
+  <sup>
+   &#9733 2602, pushed 2 days ago
+  </sup>
   - A portable reversing framework
-  <sup>
-   29 GitHub links in total 110 links, ★ 2602, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2602, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gstarnberger/uncompyle">
    Uncompyle
   </a>
-  - Decompile Python 2.7 binaries (.pyc)
-  <sup>
-   29 GitHub links in total 110 links, ★ 245, pushed 224 days ago
-  </sup>
   <sup>
    &#9733 245, pushed 224 days ago
   </sup>
+  - Decompile Python 2.7 binaries (.pyc)
  </li>
  <li>
   <a href="http://www.windbg.org/">
@@ -707,13 +647,10 @@
   <a href="https://github.com/Z3Prover/z3">
    z3
   </a>
-  - a theorem prover from Microsoft Research
-  <sup>
-   29 GitHub links in total 110 links, ★ 1523, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1523, pushed 2 days ago
   </sup>
+  - a theorem prover from Microsoft Research
  </li>
 </ul>
 <p>
@@ -803,13 +740,10 @@
   <a href="https://github.com/Y-Vladimir/SmartDeblur">
    SmartDeblur
   </a>
-  - Used to deblur and fix defocused images
-  <sup>
-   29 GitHub links in total 110 links, ★ 1293, pushed 1069 days ago
-  </sup>
   <sup>
    &#9733 1293, pushed 1069 days ago
   </sup>
+  - Used to deblur and fix defocused images
  </li>
  <li>
   <a href="https://www.openhub.net/p/steganabara">
@@ -843,25 +777,19 @@
   <a href="https://github.com/sqlmapproject/sqlmap">
    SQLMap
   </a>
-  - Automatic SQL injection and database takeover tooli
-  <sup>
-   29 GitHub links in total 110 links, ★ 5899, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5899, pushed 4 days ago
   </sup>
+  - Automatic SQL injection and database takeover tooli
  </li>
  <li>
   <a href="https://github.com/andresriancho/w3af">
    w3af
   </a>
-  -  Web Application Attack and Audit Framework.
-  <sup>
-   29 GitHub links in total 110 links, ★ 947, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 947, pushed 3 days ago
   </sup>
+  -  Web Application Attack and Audit Framework.
  </li>
  <li>
   <a href="http://xsser.sourceforge.net/">
@@ -891,13 +819,10 @@
   <a href="https://github.com/zardus/ctf-tools">
    CTF Tools
   </a>
-  - Collection of setup scripts to install various security research tools.
-  <sup>
-   29 GitHub links in total 110 links, ★ 727, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 727, pushed 28 days ago
   </sup>
+  - Collection of setup scripts to install various security research tools.
  </li>
 </ul>
 <h2>
@@ -931,13 +856,10 @@
   <a href="https://github.com/xairy/mipt-ctf">
    MIPT CTF
   </a>
-  - A small course for beginners in CTFs (in Russian)
-  <sup>
-   29 GitHub links in total 110 links, ★ 49, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 49, pushed 6 days ago
   </sup>
+  - A small course for beginners in CTFs (in Russian)
  </li>
 </ul>
 <h2>
@@ -1073,13 +995,10 @@
   <a href="https://github.com/Gallopsled/pwntools-write-ups">
    pwntools writeups
   </a>
-  - A collection of CTF write-ups all using pwntools
-  <sup>
-   29 GitHub links in total 110 links, ★ 84, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 7 days ago
   </sup>
+  - A collection of CTF write-ups all using pwntools
  </li>
  <li>
   <a href="shell-storm.org/repo/CTF/">
@@ -1091,13 +1010,10 @@
   <a href="https://github.com/smokeleeteveryday/CTF_WRITEUPS">
    Smoke Leet Everyday
   </a>
-  - CTF write-ups repo maintained by SmokeLeetEveryday team.
-  <sup>
-   29 GitHub links in total 110 links, ★ 81, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 81, pushed 16 days ago
   </sup>
+  - CTF write-ups repo maintained by SmokeLeetEveryday team.
  </li>
 </ul>
 <h3>

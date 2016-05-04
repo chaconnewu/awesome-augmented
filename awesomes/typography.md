@@ -169,9 +169,6 @@
    A simple plugin to keep font-size in proportion with it's containers size
   </a>
   <sup>
-   3 GitHub links in total 53 links, ★ 25, pushed 167 days ago
-  </sup>
-  <sup>
    &#9733 25, pushed 167 days ago
   </sup>
  </li>
@@ -205,9 +202,6 @@
    Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
   </a>
   <sup>
-   3 GitHub links in total 53 links, ★ 701, pushed 32 days ago
-  </sup>
-  <sup>
    &#9733 701, pushed 32 days ago
   </sup>
  </li>
@@ -220,9 +214,6 @@
   <a href="https://github.com/alfredxing/brick">
    brick.im
   </a>
-  <sup>
-   3 GitHub links in total 53 links, ★ 2829, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 2829, pushed 18 days ago
   </sup>

@@ -208,205 +208,154 @@
   <a href="https://github.com/titoBouzout/SideBarEnhancements">
    Sidebar Enhancements
   </a>
-  — provides enhancements to the operations on Sidebar of Files and Folders.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1572, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1572, pushed 46 days ago
   </sup>
+  — provides enhancements to the operations on Sidebar of Files and Folders.
  </li>
  <li>
   <a href="https://github.com/SublimeText/TrailingSpaces">
    Trailing Spaces
   </a>
-  — highlight trailing spaces and delete them in a flash.
-  <sup>
-   48 GitHub links in total 97 links, ★ 693, pushed 113 days ago
-  </sup>
   <sup>
    &#9733 693, pushed 113 days ago
   </sup>
+  — highlight trailing spaces and delete them in a flash.
  </li>
  <li>
   <a href="https://github.com/jisaacks/GitGutter">
    GitGutter
   </a>
-  — a plugin to see git diff in gutter.
-  <sup>
-   48 GitHub links in total 97 links, ★ 3098, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 3098, pushed 1 days ago
   </sup>
+  — a plugin to see git diff in gutter.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/editorconfig-sublime">
    EditorConfig
   </a>
-  — .editorconfig support.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1230, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 1230, pushed 82 days ago
   </sup>
+  — .editorconfig support.
  </li>
  <li>
   <a href="https://github.com/SublimeLinter/SublimeLinter3">
    SublimeLinter
   </a>
-  — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1042, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1042, pushed 3 days ago
   </sup>
+  — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
  </li>
  <li>
   <a href="https://github.com/jcartledge/sublime-worksheet">
    Sublime Worksheet
   </a>
-  — an inline REPL for JavaScript, PHP, Ruby and more.
-  <sup>
-   48 GitHub links in total 97 links, ★ 335, pushed 984 days ago
-  </sup>
   <sup>
    &#9733 335, pushed 984 days ago
   </sup>
+  — an inline REPL for JavaScript, PHP, Ruby and more.
  </li>
  <li>
   <a href="https://github.com/wbond/sublime_alignment">
    Sublime Alignment
   </a>
-  — a simple key-binding for aligning multi-line and multiple selections.
-  <sup>
-   48 GitHub links in total 97 links, ★ 412, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 412, pushed 6 days ago
   </sup>
+  — a simple key-binding for aligning multi-line and multiple selections.
  </li>
  <li>
   <a href="https://github.com/facelessuser/ApplySyntax">
    ApplySyntax
   </a>
-  — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
-  <sup>
-   48 GitHub links in total 97 links, ★ 255, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 255, pushed 16 days ago
   </sup>
+  — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
  </li>
  <li>
   <a href="https://github.com/alienhard/SublimeAllAutocomplete">
    All Autocomplete
   </a>
-  — extends the default autocomplete to find matches in all open files.
-  <sup>
-   48 GitHub links in total 97 links, ★ 612, pushed 336 days ago
-  </sup>
   <sup>
    &#9733 612, pushed 336 days ago
   </sup>
+  — extends the default autocomplete to find matches in all open files.
  </li>
  <li>
   <a href="https://github.com/wuub/SublimeREPL">
    SublimeREPL
   </a>
-  — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
-  <sup>
-   48 GitHub links in total 97 links, ★ 1628, pushed 108 days ago
-  </sup>
   <sup>
    &#9733 1628, pushed 108 days ago
   </sup>
+  — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
  </li>
  <li>
   <a href="https://github.com/skuroda/FindKeyConflicts">
    FindKeyConflicts
   </a>
-  — identify conflicting key mappings.
-  <sup>
-   48 GitHub links in total 97 links, ★ 109, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 109, pushed 23 days ago
   </sup>
+  — identify conflicting key mappings.
  </li>
  <li>
   <a href="https://github.com/chrissimpkins/glue">
    Glue
   </a>
-  — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
-  <sup>
-   48 GitHub links in total 97 links, ★ 223, pushed 733 days ago
-  </sup>
   <sup>
    &#9733 223, pushed 733 days ago
   </sup>
+  — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
  </li>
  <li>
   <a href="https://github.com/csch0/SublimeText-File-Navigator">
    File Navigator
   </a>
-  — keyboard-friendly file navigator and manager.
-  <sup>
-   48 GitHub links in total 97 links, ★ 43, pushed 968 days ago
-  </sup>
   <sup>
    &#9733 43, pushed 968 days ago
   </sup>
+  — keyboard-friendly file navigator and manager.
  </li>
  <li>
   <a href="https://github.com/dariusf/synesthesia">
    Synesthesia
   </a>
+  <sup>
+   &#9733 10, pushed 327 days ago
+  </sup>
   — a plugin for highlighting text with pretty colours.
-  <sup>
-   48 GitHub links in total 97 links, ★ 10, pushed 326 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 326 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/vcharnahrebel/style-token">
    StyleToken
   </a>
-  — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
-  <sup>
-   48 GitHub links in total 97 links, ★ 20, pushed 547 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 547 days ago
   </sup>
+  — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
  </li>
  <li>
   <a href="https://github.com/SublimeText/Origami">
    Origami
   </a>
-  — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-  <sup>
-   48 GitHub links in total 97 links, ★ 796, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 796, pushed 139 days ago
   </sup>
+  — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
  </li>
  <li>
   <a href="https://github.com/benweier/Schemr">
    Schemr
   </a>
-  — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
-  <sup>
-   48 GitHub links in total 97 links, ★ 117, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 117, pushed 3 days ago
   </sup>
+  — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
  </li>
 </ul>
 <h3>
@@ -420,16 +369,13 @@
   <a href="https://github.com/mhartl/rails_tutorial_sublime_text">
    Sublime Text setup
   </a>
+  <sup>
+   &#9733 753, pushed 66 days ago
+  </sup>
   used in the
   <a href="https://www.railstutorial.org/">
    Ruby on Rails Tutorial
   </a>
-  <sup>
-   48 GitHub links in total 97 links, ★ 753, pushed 66 days ago
-  </sup>
-  <sup>
-   &#9733 753, pushed 66 days ago
-  </sup>
  </li>
  <li>
   <a href="http://zhuravel.biz/setting-up-sublime-text-for-ruby-development">
@@ -440,13 +386,10 @@
   <a href="https://github.com/colinta/SublimeChangeQuotes">
    ChangeQuotes
   </a>
-  — converts single to double or double to single quotes.
-  <sup>
-   48 GitHub links in total 97 links, ★ 102, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 102, pushed 14 days ago
   </sup>
+  — converts single to double or double to single quotes.
  </li>
 </ul>
 <p>
@@ -458,9 +401,6 @@
    RSpec plugin
   </a>
   <sup>
-   48 GitHub links in total 97 links, ★ 109, pushed 94 days ago
-  </sup>
-  <sup>
    &#9733 109, pushed 95 days ago
   </sup>
  </li>
@@ -468,25 +408,19 @@
   <a href="https://github.com/CraigWilliams/BeautifyRuby">
    BeautifyRuby
   </a>
+  <sup>
+   &#9733 204, pushed 175 days ago
+  </sup>
   — beautifies Ruby code.
-  <sup>
-   48 GitHub links in total 97 links, ★ 204, pushed 174 days ago
-  </sup>
-  <sup>
-   &#9733 204, pushed 174 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/shuky19/sublime_debugger">
    Sublime Ruby Debugger
   </a>
-  — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
-  <sup>
-   48 GitHub links in total 97 links, ★ 399, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 399, pushed 64 days ago
   </sup>
+  — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
  </li>
 </ul>
 <h3>
@@ -520,93 +454,72 @@
   <a href="https://github.com/MagicStack/MagicPython">
    MagicPython
   </a>
-  — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
-  <sup>
-   48 GitHub links in total 97 links, ★ 655, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 655, pushed 8 days ago
   </sup>
+  — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
  </li>
  <li>
   <a href="https://github.com/python-rope/rope">
    Rope
   </a>
-  — a Python refactoring library.
-  <sup>
-   48 GitHub links in total 97 links, ★ 244, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 244, pushed 4 days ago
   </sup>
+  — a Python refactoring library.
  </li>
  <li>
   <a href="https://github.com/SublimeLinter/SublimeLinter-pep257">
    SublimeLinter PEP 257
   </a>
+  <sup>
+   &#9733 9, pushed 164 days ago
+  </sup>
   — an interface to
   <a href="https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker">
    PEP 257
   </a>
   (docstring style checker).
-  <sup>
-   48 GitHub links in total 97 links, ★ 9, pushed 164 days ago
-  </sup>
-  <sup>
-   &#9733 9, pushed 164 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/squ1b3r/Djaneiro">
    Djaneiro
   </a>
-  — Django support.
-  <sup>
-   48 GitHub links in total 97 links, ★ 706, pushed 117 days ago
-  </sup>
   <sup>
    &#9733 706, pushed 117 days ago
   </sup>
+  — Django support.
  </li>
  <li>
   <a href="https://github.com/witsch/SublimePythonTidy">
    SublimePythonTidy
   </a>
+  <sup>
+   &#9733 39, pushed 1148 days ago
+  </sup>
   —
   <a href="https://pypi.python.org/pypi/PythonTidy/">
    PythonTidy
   </a>
   integration.
-  <sup>
-   48 GitHub links in total 97 links, ★ 39, pushed 1148 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 1148 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/DamnWidget/anaconda">
    Anaconda
   </a>
-  — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1041, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1041, pushed 5 days ago
   </sup>
+  — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
  </li>
  <li>
   <a href="https://github.com/srusskih/SublimeJEDI">
    SublimeJEDI
   </a>
-  — Python autocompletion.
-  <sup>
-   48 GitHub links in total 97 links, ★ 622, pushed 132 days ago
-  </sup>
   <sup>
    &#9733 622, pushed 132 days ago
   </sup>
+  — Python autocompletion.
  </li>
 </ul>
 <h3>
@@ -617,37 +530,28 @@
   <a href="https://github.com/jdc0589/JsFormat">
    JsFormat
   </a>
-  — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
-  <sup>
-   48 GitHub links in total 97 links, ★ 1119, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 1119, pushed 15 days ago
   </sup>
+  — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
  </li>
  <li>
   <a href="https://github.com/Xavura/CoffeeScript-Sublime-Plugin">
    CoffeeScript
   </a>
-  — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
-  <sup>
-   48 GitHub links in total 97 links, ★ 295, pushed 1251 days ago
-  </sup>
   <sup>
    &#9733 295, pushed 1251 days ago
   </sup>
+  — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
  </li>
  <li>
   <a href="https://github.com/emmetio/sublime-tern">
    TernJS
   </a>
-  — a JavaScript type inference engine integration.
-  <sup>
-   48 GitHub links in total 97 links, ★ 223, pushed 230 days ago
-  </sup>
   <sup>
    &#9733 223, pushed 230 days ago
   </sup>
+  — a JavaScript type inference engine integration.
  </li>
 </ul>
 <h3>
@@ -665,9 +569,6 @@
    HTMLPrettify
   </a>
   <sup>
-   48 GitHub links in total 97 links, ★ 1190, pushed 12 days ago
-  </sup>
-  <sup>
    &#9733 1190, pushed 12 days ago
   </sup>
  </li>
@@ -675,13 +576,10 @@
   <a href="https://github.com/ggordan/GutterColor">
    GutterColor
   </a>
-  — displays color sample in the gutter for each line in CSS containing color code.
-  <sup>
-   48 GitHub links in total 97 links, ★ 494, pushed 83 days ago
-  </sup>
   <sup>
    &#9733 494, pushed 83 days ago
   </sup>
+  — displays color sample in the gutter for each line in CSS containing color code.
  </li>
  <li>
   <a href="http://hayakubundle.com">
@@ -698,25 +596,19 @@
   <a href="https://github.com/SublimeText-Markdown/MarkdownEditing">
    MarkdownEditing
   </a>
-  — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1477, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1477, pushed 4 days ago
   </sup>
+  — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
  </li>
  <li>
   <a href="https://github.com/revolunet/sublimetext-markdown-preview">
    Markdown Preview
   </a>
-  — preview and build your markdown files quickly in your web browser from Sublime Text.
-  <sup>
-   48 GitHub links in total 97 links, ★ 1760, pushed 108 days ago
-  </sup>
   <sup>
    &#9733 1760, pushed 108 days ago
   </sup>
+  — preview and build your markdown files quickly in your web browser from Sublime Text.
  </li>
 </ul>
 <h3>
@@ -727,45 +619,36 @@
   <a href="https://github.com/kemayo/sublime-text-2-goto-documentation">
    GotoDocumentation
   </a>
-  — a plugin to jump to documentation for the current word.
-  <sup>
-   48 GitHub links in total 97 links, ★ 120, pushed 326 days ago
-  </sup>
   <sup>
    &#9733 120, pushed 327 days ago
   </sup>
+  — a plugin to jump to documentation for the current word.
  </li>
  <li>
   <a href="https://github.com/farcaller/DashDoc">
    DashDoc
   </a>
+  <sup>
+   &#9733 950, pushed 4 days ago
+  </sup>
   —
   <a href="https://kapeli.com/dash">
    Dash
   </a>
   integration for Sublime Text.
-  <sup>
-   48 GitHub links in total 97 links, ★ 950, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 950, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/azac/sublime-howdoi-direct-paste">
    HowDoI
   </a>
+  <sup>
+   &#9733 220, pushed 855 days ago
+  </sup>
   — integration for instant
   <a href="https://github.com/gleitz/howdoi">
    coding answers search tool
   </a>
   .
-  <sup>
-   48 GitHub links in total 97 links, ★ 220, pushed 855 days ago
-  </sup>
-  <sup>
-   &#9733 220, pushed 855 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -819,25 +702,19 @@
   <a href="https://github.com/wesbos/cobalt2">
    Cobalt2
   </a>
-  — a full featured Sublime Text blue theme
-  <sup>
-   48 GitHub links in total 97 links, ★ 1011, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1011, pushed 6 days ago
   </sup>
+  — a full featured Sublime Text blue theme
  </li>
  <li>
   <a href="https://github.com/thinkpixellab/flatland">
    Flatland
   </a>
-  — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
-  <sup>
-   48 GitHub links in total 97 links, ★ 2742, pushed 184 days ago
-  </sup>
   <sup>
    &#9733 2742, pushed 184 days ago
   </sup>
+  — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
  </li>
  <li>
   <a href="http://equinusocio.github.io/material-theme/">
@@ -861,25 +738,19 @@
   <a href="https://github.com/chriskempson/tomorrow-theme">
    Tomorrow
   </a>
-  — the precursor to Base16 Theme.
-  <sup>
-   48 GitHub links in total 97 links, ★ 9399, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 9399, pushed 14 days ago
   </sup>
+  — the precursor to Base16 Theme.
  </li>
  <li>
   <a href="https://github.com/chriskempson/base16">
    Base 16
   </a>
-  — carefully chosen syntax highlighting and a default set of sixteen colors.
-  <sup>
-   48 GitHub links in total 97 links, ★ 3933, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 3933, pushed 102 days ago
   </sup>
+  — carefully chosen syntax highlighting and a default set of sixteen colors.
  </li>
  <li>
   <a href="http://ethanschoonover.com/solarized">
@@ -915,10 +786,7 @@
    By Daniel Matarazzo
   </a>
   <sup>
-   48 GitHub links in total 97 links, ★ 557, pushed 1013 days ago
-  </sup>
-  <sup>
-   &#9733 557, pushed 1013 days ago
+   &#9733 557, pushed 1014 days ago
   </sup>
  </li>
  <li>
@@ -931,19 +799,13 @@
    By Shi Yan Hui
   </a>
   <sup>
-   48 GitHub links in total 97 links, ★ 5, pushed 863 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 863 days ago
+   &#9733 5, pushed 864 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/syky27/Sublime-Text-Icon">
    By Tomas Sykora
   </a>
-  <sup>
-   48 GitHub links in total 97 links, ★ 13, pushed 734 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 734 days ago
   </sup>
@@ -972,9 +834,6 @@
   <a href="https://github.com/adobe-fonts/source-code-pro">
    Adobe Source Code Pro
   </a>
-  <sup>
-   48 GitHub links in total 97 links, ★ 8370, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 8370, pushed 2 days ago
   </sup>

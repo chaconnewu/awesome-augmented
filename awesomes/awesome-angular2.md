@@ -248,9 +248,6 @@
    Official GitHub Repo
   </a>
   <sup>
-   25 GitHub links in total 103 links, ★ 11195, pushed 1 days ago
-  </sup>
-  <sup>
    &#9733 11195, pushed 1 days ago
   </sup>
  </li>
@@ -345,9 +342,6 @@
    Angular 2 Universal Repository (GitHub)
   </a>
   <sup>
-   25 GitHub links in total 103 links, ★ 675, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 675, pushed 4 days ago
   </sup>
  </li>
@@ -373,9 +367,6 @@
   <a href="https://github.com/andresaraujo/angular2_cheatsheet_dart">
    Angular2 Dart cheatsheet
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 7, pushed 241 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 241 days ago
   </sup>
@@ -593,9 +584,6 @@
    nativescript-angular
   </a>
   <sup>
-   25 GitHub links in total 103 links, ★ 211, pushed 5 days ago
-  </sup>
-  <sup>
    &#9733 211, pushed 5 days ago
   </sup>
  </li>
@@ -603,9 +591,6 @@
   <a href="https://github.com/angular/react-native-renderer">
    react-native-renderer
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 258, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 258, pushed 4 days ago
   </sup>
@@ -624,9 +609,6 @@
   <a href="https://github.com/valor-software/ng2-bootstrap">
    ng2-bootstrap: Native Angular2 bootstrap components
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 685, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 685, pushed 2 days ago
   </sup>
@@ -655,9 +637,6 @@
      swirlycheetah/generator-angular2
     </a>
     <sup>
-     25 GitHub links in total 103 links, ★ 217, pushed 36 days ago
-    </sup>
-    <sup>
      &#9733 217, pushed 36 days ago
     </sup>
    </li>
@@ -673,14 +652,11 @@
     <a href="https://github.com/kasperpeulen/stagehand">
      kasperpeulen/stagehand
     </a>
+    <sup>
+     &#9733 1, pushed 95 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   25 GitHub links in total 103 links, ★ 1, pushed 95 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 95 days ago
-  </sup>
  </li>
 </ul>
 <h4>
@@ -709,9 +685,6 @@
   <a href="https://github.com/angular/universal">
    Universal Angular 2 Repository (GitHub)
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 675, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 675, pushed 4 days ago
   </sup>
@@ -757,13 +730,10 @@
   <a href="https://github.com/Microsoft/TypeScript">
    TypeScript Repository (GitHub)
   </a>
-  Official Github Repo for TypeScript
-  <sup>
-   25 GitHub links in total 103 links, ★ 11210, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 11210, pushed 2 days ago
   </sup>
+  Official Github Repo for TypeScript
  </li>
  <li>
   <a href="http://definitelytyped.org/tsd">
@@ -813,13 +783,10 @@
   <a href="https://github.com/thelgevold/angular-2-samples">
    Angular 2 Samples
   </a>
-  Angular 2.0 sample components
-  <sup>
-   25 GitHub links in total 103 links, ★ 520, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 520, pushed 2 days ago
   </sup>
+  Angular 2.0 sample components
  </li>
 </ul>
 <h3>
@@ -882,13 +849,10 @@
   <a href="https://github.com/andresaraujo/ng2_dart_quickstart">
    Angular 2 Dart Quickstart
   </a>
-  A minimal quick start project.
-  <sup>
-   25 GitHub links in total 103 links, ★ 3, pushed 134 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 134 days ago
   </sup>
+  A minimal quick start project.
  </li>
 </ul>
 <h4>
@@ -905,37 +869,28 @@
   <a href="https://github.com/ng2-dart-samples/pipes">
    Pipes
   </a>
-  Examples of Pipes in Angular 2 for Dart.
-  <sup>
-   25 GitHub links in total 103 links, ★ 3, pushed 200 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 200 days ago
   </sup>
+  Examples of Pipes in Angular 2 for Dart.
  </li>
  <li>
   <a href="https://github.com/andresaraujo/ng2_hackernews">
    Hackernews App
   </a>
-  A HackerNews application made with Angular 2 for Dart
-  <sup>
-   25 GitHub links in total 103 links, ★ 10, pushed 128 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 129 days ago
   </sup>
+  A HackerNews application made with Angular 2 for Dart
  </li>
  <li>
   <a href="https://github.com/andresaraujo/ng2_dart_router_demo">
    Router Demo
   </a>
-  A basic example of Angular 2 router.
-  <sup>
-   25 GitHub links in total 103 links, ★ 0, pushed 134 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 134 days ago
   </sup>
+  A basic example of Angular 2 router.
  </li>
 </ul>
 <h3>
@@ -966,13 +921,10 @@
   <a href="https://github.com/babel/babel">
    Babel Repository (GitHub)
   </a>
-  Official Github Repo for Babel
-  <sup>
-   25 GitHub links in total 103 links, ★ 15314, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 15314, pushed 2 days ago
   </sup>
+  Official Github Repo for Babel
  </li>
 </ul>
 <h4>
@@ -986,13 +938,10 @@
   <a href="https://github.com/shuhei/babel-angular2-app">
    babel-angular2-app
   </a>
-  A skeleton Angular 2 app built with babel.
-  <sup>
-   25 GitHub links in total 103 links, ★ 212, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 212, pushed 4 days ago
   </sup>
+  A skeleton Angular 2 app built with babel.
  </li>
 </ul>
 <h3>
@@ -1029,9 +978,6 @@
    angular2haxe
   </a>
   <sup>
-   25 GitHub links in total 103 links, ★ 21, pushed 79 days ago
-  </sup>
-  <sup>
    &#9733 21, pushed 79 days ago
   </sup>
  </li>
@@ -1053,9 +999,6 @@
    play-angular2
   </a>
   <sup>
-   25 GitHub links in total 103 links, ★ 7, pushed 274 days ago
-  </sup>
-  <sup>
    &#9733 7, pushed 274 days ago
   </sup>
  </li>
@@ -1071,9 +1014,6 @@
   <a href="https://github.com/driftyco/ionic2">
    Repository (GitHub)
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 442, pushed 106 days ago
-  </sup>
   <sup>
    &#9733 442, pushed 106 days ago
   </sup>
@@ -1106,9 +1046,6 @@
   <a href="https://github.com/NativeScript/sample-Angular2">
    sample-Angular2
   </a>
-  <sup>
-   25 GitHub links in total 103 links, ★ 48, pushed 140 days ago
-  </sup>
   <sup>
    &#9733 48, pushed 140 days ago
   </sup>

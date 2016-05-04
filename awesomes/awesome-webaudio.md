@@ -50,49 +50,37 @@
   <a href="https://github.com/Tonejs/Tone.js">
    Tone.js
   </a>
-  - A framework for making interactive music in the browser.
-  <sup>
-   28 GitHub links in total 35 links, ★ 1258, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 1258, pushed 15 days ago
   </sup>
+  - A framework for making interactive music in the browser.
  </li>
  <li>
   <a href="https://github.com/charlieroberts/Gibberish">
    Gibberish
   </a>
-  - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-  <sup>
-   28 GitHub links in total 35 links, ★ 183, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 183, pushed 26 days ago
   </sup>
+  - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
  </li>
  <li>
   <a href="https://github.com/kylestetz/lissajous">
    lissajous
   </a>
+  <sup>
+   &#9733 245, pushed 177 days ago
+  </sup>
   -  A tool for programmatic audio performance.
-  <sup>
-   28 GitHub links in total 35 links, ★ 245, pushed 176 days ago
-  </sup>
-  <sup>
-   &#9733 245, pushed 176 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/surikov/SSSynthesiser.js">
    SSSynthesiser.js
   </a>
-  -  A wavetable synthesizer for interactive music and sound effects.
-  <sup>
-   28 GitHub links in total 35 links, ★ 25, pushed 105 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 105 days ago
   </sup>
+  -  A wavetable synthesizer for interactive music and sound effects.
  </li>
  <li>
   <a href="http://bapjs.org/">
@@ -109,169 +97,127 @@
   <a href="https://github.com/adelespinasse/reverbGen">
    reverbGen
   </a>
-  - A JavaScript library for generating artificial reverb impulse responses.
-  <sup>
-   28 GitHub links in total 35 links, ★ 11, pushed 410 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 410 days ago
   </sup>
+  - A JavaScript library for generating artificial reverb impulse responses.
  </li>
  <li>
   <a href="https://github.com/abbernie/tune">
    TuneJS
   </a>
-  - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
-  <sup>
-   28 GitHub links in total 35 links, ★ 81, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 81, pushed 38 days ago
   </sup>
+  - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
  </li>
  <li>
   <a href="https://github.com/zya/beet.js">
    Beet.js
   </a>
-  - A sequencer library for creating euclidean rhythms and polyrhythms.
-  <sup>
-   28 GitHub links in total 35 links, ★ 20, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 8 days ago
   </sup>
+  - A sequencer library for creating euclidean rhythms and polyrhythms.
  </li>
  <li>
   <a href="https://github.com/kylestetz/AudioKeys">
    AudioKeys
   </a>
+  <sup>
+   &#9733 41, pushed 266 days ago
+  </sup>
   - A QWERTY keyboard for web audio projects.
-  <sup>
-   28 GitHub links in total 35 links, ★ 41, pushed 265 days ago
-  </sup>
-  <sup>
-   &#9733 41, pushed 265 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/notthetup/smoothfade">
    smoothfade
   </a>
-  - A library for smoothly fading between two AudioNodes.
-  <sup>
-   28 GitHub links in total 35 links, ★ 15, pushed 221 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 221 days ago
   </sup>
+  - A library for smoothly fading between two AudioNodes.
  </li>
  <li>
   <a href="https://github.com/mohayonao/web-audio-test-api">
    web-audio-test-api
   </a>
-  - A Web Audio test library for CI.
-  <sup>
-   28 GitHub links in total 35 links, ★ 41, pushed 135 days ago
-  </sup>
   <sup>
    &#9733 41, pushed 135 days ago
   </sup>
+  - A Web Audio test library for CI.
  </li>
  <li>
   <a href="https://github.com/benji6/virtual-audio-graph">
    virtual-audio-graph
   </a>
-  - Library for declaratively manipulating the Web Audio API.
-  <sup>
-   28 GitHub links in total 35 links, ★ 59, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 8 days ago
   </sup>
+  - Library for declaratively manipulating the Web Audio API.
  </li>
  <li>
   <a href="https://github.com/mrahtz/javascript-karplus-strong">
    javascript-karplus-strong
   </a>
-  - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
-  <sup>
-   28 GitHub links in total 35 links, ★ 191, pushed 256 days ago
-  </sup>
   <sup>
    &#9733 191, pushed 256 days ago
   </sup>
+  - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
  </li>
  <li>
   <a href="https://github.com/Korilakkuma/XSound">
    XSound.js
   </a>
-  - Full stack library.
-  <sup>
-   28 GitHub links in total 35 links, ★ 28, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 6 days ago
   </sup>
+  - Full stack library.
  </li>
  <li>
   <a href="https://github.com/mohayonao/osc-msg">
    osc-msg
   </a>
-  - OSC message decoder/encoder with fault tolerance.
-  <sup>
-   28 GitHub links in total 35 links, ★ 6, pushed 150 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 150 days ago
   </sup>
+  - OSC message decoder/encoder with fault tolerance.
  </li>
  <li>
   <a href="https://github.com/hughrawlinson/meyda">
    Meyda
   </a>
-  - Audio feature extraction library including a variety of widely used audio features.
-  <sup>
-   28 GitHub links in total 35 links, ★ 275, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 275, pushed 4 days ago
   </sup>
+  - Audio feature extraction library including a variety of widely used audio features.
  </li>
  <li>
   <a href="https://github.com/alemangui/pizzicato">
    Pizzicato
   </a>
-  - A library that aims to simplify the creation and manipulation sounds in the browser.
-  <sup>
-   28 GitHub links in total 35 links, ★ 32, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 5 days ago
   </sup>
+  - A library that aims to simplify the creation and manipulation sounds in the browser.
  </li>
  <li>
   <a href="https://github.com/mattlima/mooog">
    Mooog
   </a>
-  - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
-  <sup>
-   28 GitHub links in total 35 links, ★ 7, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 41 days ago
   </sup>
+  - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
  </li>
  <li>
   <a href="https://github.com/katspaugh/wavesurfer.js">
    Wavesurfer.js
   </a>
-  - Interactive navigable audio visualization using Web Audio and Canvas.
-  <sup>
-   28 GitHub links in total 35 links, ★ 1708, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1708, pushed 3 days ago
   </sup>
+  - Interactive navigable audio visualization using Web Audio and Canvas.
  </li>
 </ul>
 <h3>
@@ -282,37 +228,28 @@
   <a href="https://github.com/notthetup/resampler">
    resampler
   </a>
-  - A utility for resampling audio.
-  <sup>
-   28 GitHub links in total 35 links, ★ 10, pushed 221 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 221 days ago
   </sup>
+  - A utility for resampling audio.
  </li>
  <li>
   <a href="https://github.com/tornqvist/bpm-detective">
    bpm-detective
   </a>
-  – Detects the BPM of a song or audio sample.
-  <sup>
-   28 GitHub links in total 35 links, ★ 14, pushed 239 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 239 days ago
   </sup>
+  – Detects the BPM of a song or audio sample.
  </li>
  <li>
   <a href="https://github.com/mohayonao/web-audio-utils">
    web-audio-utils
   </a>
-  - Commonly needed utility functions for Web Audio API.
-  <sup>
-   28 GitHub links in total 35 links, ★ 2, pushed 206 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 206 days ago
   </sup>
+  - Commonly needed utility functions for Web Audio API.
  </li>
 </ul>
 <h3>
@@ -323,13 +260,10 @@
   <a href="https://github.com/notthetup/midimessage">
    midimessage
   </a>
-  - A simple MIDI Message parser.
-  <sup>
-   28 GitHub links in total 35 links, ★ 10, pushed 168 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 168 days ago
   </sup>
+  - A simple MIDI Message parser.
  </li>
 </ul>
 <h3>
@@ -340,13 +274,10 @@
   <a href="https://github.com/mmckegg/loop-drop-app">
    LoopDrop App
   </a>
-  - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
-  <sup>
-   28 GitHub links in total 35 links, ★ 351, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 351, pushed 25 days ago
   </sup>
+  - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
  </li>
  <li>
   <a href="https://korilakkuma.github.io/X-Sound/">
@@ -358,25 +289,19 @@
   <a href="https://github.com/surikov/molgav">
    Molgav
   </a>
-  - Musical Step Sequencer for melodies exchange.
-  <sup>
-   28 GitHub links in total 35 links, ★ 0, pushed 105 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 105 days ago
   </sup>
+  - Musical Step Sequencer for melodies exchange.
  </li>
  <li>
   <a href="https://github.com/jcppman/code-player">
    Code Player
   </a>
-  - An experimental app that makes your codes sing for you.
-  <sup>
-   28 GitHub links in total 35 links, ★ 15, pushed 201 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 201 days ago
   </sup>
+  - An experimental app that makes your codes sing for you.
  </li>
 </ul>
 <h2>
@@ -402,13 +327,10 @@
   <a href="https://github.com/kylestetz/Web-Audio-Basics">
    Web Audio Basics
   </a>
-  - A growing set of light code samples with CodePen links for each.
-  <sup>
-   28 GitHub links in total 35 links, ★ 38, pushed 275 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 275 days ago
   </sup>
+  - A growing set of light code samples with CodePen links for each.
  </li>
  <li>
   <a href="Web Audio API performance and debugging ">
@@ -420,13 +342,10 @@
   <a href="https://github.com/irritant/WAC-2016-Tutorial">
    Percussion Synthesis Using Web Audio
   </a>
-  - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
-  <sup>
-   28 GitHub links in total 35 links, ★ 18, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 29 days ago
   </sup>
+  - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
  </li>
 </ul>
 <h3>

@@ -120,13 +120,10 @@
   <a href="https://github.com/dthree/cash">
    Cash
   </a>
+  <sup>
+   &#9733 6717, pushed 2 days ago
+  </sup>
   - Cross-platform Linux commands without the suck.
-  <sup>
-   22 GitHub links in total 35 links, ★ 6717, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6717, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor">
@@ -144,6 +141,9 @@
   <a href="https://github.com/Kristories/phunt">
    phunt
   </a>
+  <sup>
+   &#9733 68, pushed 107 days ago
+  </sup>
   - Acess
   <a href="https://www.producthunt.com/">
    Product Hunt
@@ -152,64 +152,46 @@
   <em>
    Trended on (you guessed it) Product Hunt.
   </em>
-  <sup>
-   22 GitHub links in total 35 links, ★ 68, pushed 107 days ago
-  </sup>
-  <sup>
-   &#9733 68, pushed 107 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/websitesfortrello/trelew">
    trelew
   </a>
+  <sup>
+   &#9733 32, pushed 49 days ago
+  </sup>
   - Access
   <a href="https://trello.com/">
    Trello
   </a>
   on the CLI.
-  <sup>
-   22 GitHub links in total 35 links, ★ 32, pushed 49 days ago
-  </sup>
-  <sup>
-   &#9733 32, pushed 49 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dthree/wat">
    wat
   </a>
-  - Community-built docs for every language, platform and library.
-  <sup>
-   22 GitHub links in total 35 links, ★ 266, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 266, pushed 32 days ago
   </sup>
+  - Community-built docs for every language, platform and library.
  </li>
  <li>
   <a href="https://github.com/AljoschaMeyer/metronome-cli">
    metronome
   </a>
-  - A live metronome on the CLI.
-  <sup>
-   22 GitHub links in total 35 links, ★ 4, pushed 201 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 201 days ago
   </sup>
+  - A live metronome on the CLI.
  </li>
  <li>
   <a href="https://github.com/fastack/cli">
    fastack
   </a>
-  - A zero-config tool that makes developing client-side apps easy.
-  <sup>
-   22 GitHub links in total 35 links, ★ 25, pushed 97 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 97 days ago
   </sup>
+  - A zero-config tool that makes developing client-side apps easy.
  </li>
  <li>
   <a href="https://www.npmjs.com/package/cbcluster">
@@ -221,18 +203,18 @@
   <a href="https://github.com/andrerpena/quotr">
    quotr
   </a>
-  - View stock exchange quotes.
-  <sup>
-   22 GitHub links in total 35 links, ★ 40, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 6 days ago
   </sup>
+  - View stock exchange quotes.
  </li>
  <li>
   <a href="https://github.com/dthree/vantage">
    Vantage
   </a>
+  <sup>
+   &#9733 3124, pushed 22 days ago
+  </sup>
   -
   <code>
    CLI
@@ -246,28 +228,19 @@
    REPL
   </code>
   for your live Node app.
-  <sup>
-   22 GitHub links in total 35 links, ★ 3124, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 3124, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/vanita5/birdknife">
    birdknife
   </a>
+  <sup>
+   &#9733 12, pushed 6 days ago
+  </sup>
   - A full featured
   <a href="https://twitter.com/">
    Twitter
   </a>
   CLI.
-  <sup>
-   22 GitHub links in total 35 links, ★ 12, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 6 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -286,33 +259,27 @@
   <a href="https://github.com/vorpaljs/vorpal-less">
    less
   </a>
+  <sup>
+   &#9733 8, pushed 89 days ago
+  </sup>
   - Implementation of the
   <code>
    less
   </code>
   command.
-  <sup>
-   22 GitHub links in total 35 links, ★ 8, pushed 89 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 89 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/vorpaljs/vorpal-grep">
    grep
   </a>
+  <sup>
+   &#9733 4, pushed 22 days ago
+  </sup>
   - Implementation of the
   <code>
    grep
   </code>
   command.
-  <sup>
-   22 GitHub links in total 35 links, ★ 4, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 4, pushed 22 days ago
-  </sup>
  </li>
 </ul>
 <h4>
@@ -323,61 +290,46 @@
   <a href="https://github.com/vorpaljs/vorpal-repl">
    repl
   </a>
-  - Drops your CLI into a REPL within your app's context.
-  <sup>
-   22 GitHub links in total 35 links, ★ 8, pushed 253 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 253 days ago
   </sup>
+  - Drops your CLI into a REPL within your app's context.
  </li>
  <li>
   <a href="https://github.com/vorpaljs/vorpal-tour">
    tour
   </a>
-  - Build an interactive tour for your Vorpal app.
-  <sup>
-   22 GitHub links in total 35 links, ★ 4, pushed 206 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 206 days ago
   </sup>
+  - Build an interactive tour for your Vorpal app.
  </li>
  <li>
   <a href="https://github.com/vantagejs/vantage-watch">
    watch
   </a>
-  - Updates your live Vorpal extensions in realtime.
-  <sup>
-   22 GitHub links in total 35 links, ★ 2, pushed 274 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 274 days ago
   </sup>
+  - Updates your live Vorpal extensions in realtime.
  </li>
  <li>
   <a href="https://github.com/AljoschaMeyer/vorpal-log">
    log
   </a>
-  - Advanced logging utility.
-  <sup>
-   22 GitHub links in total 35 links, ★ 1, pushed 116 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 116 days ago
   </sup>
+  - Advanced logging utility.
  </li>
  <li>
   <a href="https://github.com/AljoschaMeyer/vorpal-setorprint">
    set-or-print
   </a>
-  - Easily set / get arguments with commands.
-  <sup>
-   22 GitHub links in total 35 links, ★ 1, pushed 183 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 183 days ago
   </sup>
+  - Easily set / get arguments with commands.
  </li>
 </ul>
 <h4>
@@ -388,13 +340,10 @@
   <a href="https://github.com/vorpaljs/vorpal-use">
    use
   </a>
-  - Import Vorpal extensions live: while your app is running.
-  <sup>
-   22 GitHub links in total 35 links, ★ 5, pushed 253 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 253 days ago
   </sup>
+  - Import Vorpal extensions live: while your app is running.
  </li>
 </ul>
 <h4>
@@ -405,13 +354,10 @@
   <a href="https://github.com/vorpaljs/vorpal-hacker-news">
    hacker-news
   </a>
-  - Pulls the top trending items from Hacker News.
-  <sup>
-   22 GitHub links in total 35 links, ★ 5, pushed 253 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 253 days ago
   </sup>
+  - Pulls the top trending items from Hacker News.
  </li>
 </ul>
 <h4>
@@ -422,37 +368,28 @@
   <a href="https://github.com/subk/vorpal-rc">
    rc
   </a>
-  - Simple .rc file support.
-  <sup>
-   22 GitHub links in total 35 links, ★ 5, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 12 days ago
   </sup>
+  - Simple .rc file support.
  </li>
  <li>
   <a href="https://github.com/subk/vorpal-comment">
    comment
   </a>
-  - Bash-like comment support.
-  <sup>
-   22 GitHub links in total 35 links, ★ 3, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 11 days ago
   </sup>
+  - Bash-like comment support.
  </li>
  <li>
   <a href="https://github.com/ialpert/vorpal-as-default">
    as-default
   </a>
-  - Triggers Vorpal task in case it runs without any specificly defined task.
-  <sup>
-   22 GitHub links in total 35 links, ★ 1, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 6 days ago
   </sup>
+  - Triggers Vorpal task in case it runs without any specificly defined task.
  </li>
 </ul>
 <h2>

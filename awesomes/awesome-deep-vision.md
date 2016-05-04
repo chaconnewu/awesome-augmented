@@ -429,9 +429,6 @@
    [GitHub]
   </a>
   <sup>
-   7 GitHub links in total 249 links, ★ 61, pushed 33 days ago
-  </sup>
-  <sup>
    &#9733 61, pushed 33 days ago
   </sup>
  </li>
@@ -440,15 +437,12 @@
   <a href="https://github.com/scott89/FCNT">
    [GitHub]
   </a>
-  <a href="http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf">
-   [Paper]
-  </a>
-  <sup>
-   7 GitHub links in total 249 links, ★ 20, pushed 142 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 143 days ago
   </sup>
+  <a href="http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf">
+   [Paper]
+  </a>
  </li>
  <li>
   Hyeonseob Nam    and Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [[Paper](http://arxiv.org/pdf/1510.07945.pdf)] [[Code](https://github.com/HyeonseobNam/MDNet)] [[Project Page](http://cvlab.postech.ac.kr/research/mdnet/)]
@@ -771,21 +765,19 @@ with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.o
   * UCSB
    * Niloufar Pourian, S. Karthikeyan, and B.S. Manjunath, "Weakly supervised graph based semantic segmentation by learning communities of image-parts", ICCV, 2015, [[Paper](http://www.cv-foundation.org/openaccess/content
 </p>
-<p>
- iccv
- <em>
-  2015/papers/Pourian
- </em>
- Weakly
- <em>
-  Supervised
- </em>
- Graph
- <em>
-  ICCV
- </em>
- 2015_paper.pdf)]
-</p>
+iccv
+<em>
+ 2015/papers/Pourian
+</em>
+Weakly
+<em>
+ Supervised
+</em>
+Graph
+<em>
+ ICCV
+</em>
+2015_paper.pdf)]
 <h3>
  Visual Attention and Saliency
 </h3>
@@ -1714,14 +1706,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/goodfeli/adversarial">
      [Web]
     </a>
+    <sup>
+     &#9733 146, pushed 677 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   7 GitHub links in total 249 links, ★ 146, pushed 677 days ago
-  </sup>
-  <sup>
-   &#9733 146, pushed 677 days ago
-  </sup>
  </li>
  <li>
   Understanding and Visualizing
@@ -1731,14 +1720,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/aravindhm/deep-goggle">
      [Web]
     </a>
+    <sup>
+     &#9733 75, pushed 62 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   7 GitHub links in total 249 links, ★ 75, pushed 62 days ago
-  </sup>
-  <sup>
-   &#9733 75, pushed 62 days ago
-  </sup>
  </li>
  <li>
   Semantic Segmentation
@@ -1748,6 +1734,9 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/rbgirshick/rcnn">
      [Web]
     </a>
+    <sup>
+     &#9733 670, pushed 88 days ago
+    </sup>
    </li>
    <li>
     Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015.
@@ -1756,12 +1745,6 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     </a>
    </li>
   </ul>
-  <sup>
-   7 GitHub links in total 249 links, ★ 670, pushed 88 days ago
-  </sup>
-  <sup>
-   &#9733 670, pushed 88 days ago
-  </sup>
  </li>
  <li>
   Super-Resolution
@@ -1771,14 +1754,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/nagadomi/waifu2x">
      [Web]
     </a>
+    <sup>
+     &#9733 5700, pushed 10 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   7 GitHub links in total 249 links, ★ 5700, pushed 10 days ago
-  </sup>
-  <sup>
-   &#9733 5700, pushed 10 days ago
-  </sup>
  </li>
  <li>
   Edge Detection
@@ -1788,14 +1768,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
     <a href="https://github.com/shenwei1231/DeepContour">
      [Web]
     </a>
+    <sup>
+     &#9733 16, pushed 372 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   7 GitHub links in total 249 links, ★ 16, pushed 372 days ago
-  </sup>
-  <sup>
-   &#9733 16, pushed 372 days ago
-  </sup>
  </li>
 </ul>
 <h2>

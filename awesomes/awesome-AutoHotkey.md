@@ -273,33 +273,27 @@
   <a href="https://github.com/G33kDude/Console">
    AHKonsole
   </a>
+  <sup>
+   &#9733 7, pushed 411 days ago
+  </sup>
   - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=4955">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 7, pushed 411 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 411 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/joedf/LibCon.ahk">
    LibCon
   </a>
+  <sup>
+   &#9733 26, pushed 148 days ago
+  </sup>
   - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?t=17">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 26, pushed 148 days ago
-  </sup>
-  <sup>
-   &#9733 26, pushed 148 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -312,17 +306,14 @@
   <a href="https://github.com/cocobelgica/AutoHotkey-JSON">
    AutoHotkey-JSON
   </a>
+  <sup>
+   &#9733 24, pushed 15 days ago
+  </sup>
   - by cocobelgica - JSON lib for AutoHotkey. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=627">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 24, pushed 15 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 15 days ago
-  </sup>
  </li>
  <li>
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=3573">
@@ -334,17 +325,14 @@
   <a href="https://github.com/cocobelgica/AutoHotkey-SerDes">
    SerDes
   </a>
+  <sup>
+   &#9733 2, pushed 593 days ago
+  </sup>
   - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=4212">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 2, pushed 593 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 593 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hi5/CL3/blob/master/lib/XA.ahk">
@@ -365,33 +353,27 @@
   <a href="https://github.com/IsNull/ahkDBA">
    ahkDBA
   </a>
+  <sup>
+   &#9733 25, pushed 421 days ago
+  </sup>
   - by IsNull - An OOP-SQL database access framework. Forum thread:
   <a href="https://autohotkey.com/board/topic/71179">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 25, pushed 421 days ago
-  </sup>
-  <sup>
-   &#9733 25, pushed 421 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/AHK-just-me/Class_SQLiteDB">
    Class_SQLiteDB
   </a>
+  <sup>
+   &#9733 8, pushed 35 days ago
+  </sup>
   - by just Me - AHK SQLite API wrapper class. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?t=1064">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 8, pushed 35 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 35 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -450,31 +432,25 @@
   <a href="https://github.com/Pulover/Class_Rebar">
    Rebar
   </a>
+  <sup>
+   &#9733 1, pushed 29 days ago
+  </sup>
   - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=139">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 1, pushed 29 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 29 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Pulover/Class_Toolbar">
    Toolbar
   </a>
+  <sup>
+   &#9733 2, pushed 44 days ago
+  </sup>
   - by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=138">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 2, pushed 44 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 44 days ago
-  </sup>
  </li>
 </ul>
 <h4>
@@ -491,16 +467,13 @@
   <a href="https://github.com/AHK-just-me/TaskDialog">
    TaskDialog
   </a>
+  <sup>
+   &#9733 2, pushed 585 days ago
+  </sup>
   - by just Me - enhanced MsgBox for Win Vista+ -
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=4635">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 2, pushed 585 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 585 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk">
@@ -529,16 +502,13 @@
   <a href="https://github.com/AHK-just-me/LV_EX">
    LV_EX
   </a>
+  <sup>
+   &#9733 2, pushed 5 days ago
+  </sup>
   - by just me - Some additional functions for AHK GUI ListView controls. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=1256">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 2, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/AHK-just-me/Class_LV_InCellEdit/">
@@ -553,16 +523,13 @@
   <a href="https://github.com/Pulover/Class_LV_Rows">
    LV_Rows
   </a>
+  <sup>
+   &#9733 0, pushed 4 days ago
+  </sup>
   - by Pulover - Additional functions for AHK ListView controls. Forum thread:
   <a href="Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=137">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 0, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 0, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <h4>
@@ -662,31 +629,25 @@
   <a href="https://github.com/Skiouros/AHKhttp">
    AHKhttp
   </a>
+  <sup>
+   &#9733 12, pushed 215 days ago
+  </sup>
   - Basic HTTP Server. Forum
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=4890">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 12, pushed 215 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 215 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jleb/AHKsock">
    AHKsock
   </a>
+  <sup>
+   &#9733 11, pushed 1186 days ago
+  </sup>
   - by TheGood - Function based sockets library. Supports TCP. Forum
   <a href="https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 11, pushed 1185 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 1185 days ago
-  </sup>
  </li>
  <li>
   <a href="https://autohotkey.com/board/topic/94376-">
@@ -751,17 +712,14 @@
   <a href="https://github.com/hi5/TF">
    TF
   </a>
+  <sup>
+   &#9733 29, pushed 156 days ago
+  </sup>
   - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=576">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 29, pushed 156 days ago
-  </sup>
-  <sup>
-   &#9733 29, pushed 156 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -780,18 +738,18 @@
   <a href="https://github.com/rshipp/ahk-libs">
    ahk-libs
   </a>
-  - Ryan Shipp's collection of libraries.
-  <sup>
-   31 GitHub links in total 108 links, ★ 59, pushed 52 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 52 days ago
   </sup>
+  - Ryan Shipp's collection of libraries.
  </li>
  <li>
   <a href="https://github.com/ahkscript/ASPDM">
    ASPDM
   </a>
+  <sup>
+   &#9733 19, pushed 76 days ago
+  </sup>
   - package/stdlib distribution and management from the
   <a href="https://github.com/ahkscript">
    ahkscript
@@ -801,24 +759,15 @@
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 19, pushed 76 days ago
-  </sup>
-  <sup>
-   &#9733 19, pushed 76 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hi5/pAHKlight">
    pAHKlight
   </a>
-  - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
-  <sup>
-   31 GitHub links in total 108 links, ★ 8, pushed 196 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 196 days ago
   </sup>
+  - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
  </li>
 </ul>
 <p>
@@ -867,17 +816,14 @@
   <a href="https://github.com/adampash/belvedere">
    Belvedere
   </a>
+  <sup>
+   &#9733 103, pushed 884 days ago
+  </sup>
   - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info
   <a href="http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 103, pushed 884 days ago
-  </sup>
-  <sup>
-   &#9733 103, pushed 884 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -966,17 +912,14 @@
   <a href="https://github.com/Uberi/Autocomplete">
    AutoComplete
   </a>
+  <sup>
+   &#9733 37, pushed 134 days ago
+  </sup>
   - Suggests and completes words as you type. Forum thread:
   <a href="https://autohotkey.com/board/topic/60998-autocomplete/">
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 37, pushed 134 days ago
-  </sup>
-  <sup>
-   &#9733 37, pushed 134 days ago
-  </sup>
  </li>
  <li>
   <a href="https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183">
@@ -1039,16 +982,13 @@
   <a href="https://github.com/fuhsjr00/bug.n">
    bug.n
   </a>
+  <sup>
+   &#9733 444, pushed 8 days ago
+  </sup>
   - Tiling Window Manager. Forum thread:
   <a href="https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/">
    link
   </a>
-  <sup>
-   31 GitHub links in total 108 links, ★ 444, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 444, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="http://junyx.breadfan.de/Min2Tray/">
@@ -1075,6 +1015,9 @@
   <a href="https://github.com/hoppfrosch/WindowPadX">
    WindowPadX
   </a>
+  <sup>
+   &#9733 122, pushed 343 days ago
+  </sup>
   -  tool which provides some useful functionality within multi monitor environments.
   <em>
    WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread:
@@ -1082,17 +1025,14 @@
     link
    </a>
   </em>
-  <sup>
-   31 GitHub links in total 108 links, ★ 122, pushed 343 days ago
-  </sup>
-  <sup>
-   &#9733 122, pushed 343 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/KroniK907/WindowSaver">
    WindowSaver
   </a>
+  <sup>
+   &#9733 6, pushed 145 days ago
+  </sup>
   - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups.
   <em>
    WindowSaver is an enhancement of
@@ -1101,12 +1041,6 @@
    </a>
    by Paul Troiano
   </em>
-  <sup>
-   31 GitHub links in total 108 links, ★ 6, pushed 145 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 145 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1162,17 +1096,14 @@
   <a href="https://github.com/polyethene/IronAHK">
    IronAHK
   </a>
+  <sup>
+   &#9733 248, pushed 1626 days ago
+  </sup>
   - Cross platform .NET rewrite -
   <em>
    unfinished
   </em>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 248, pushed 1626 days ago
-  </sup>
-  <sup>
-   &#9733 248, pushed 1626 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -1199,13 +1130,10 @@
   <a href="https://github.com/Uberi/Yunit">
    Yunit
   </a>
-  - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
-  <sup>
-   31 GitHub links in total 108 links, ★ 11, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 12 days ago
   </sup>
+  - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
  </li>
 </ul>
 <h3>
@@ -1275,13 +1203,10 @@
   <a href="https://github.com/ahkscript/SublimeAutoHotkey">
    SublimeAutoHotkey
   </a>
-  - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
-  <sup>
-   31 GitHub links in total 108 links, ★ 66, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 10 days ago
   </sup>
+  - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
  </li>
  <li>
   <a href="https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/">
@@ -1346,13 +1271,10 @@
   <a href="https://github.com/aviaryan/highlighter-ahk-zenburn">
    Syntax Highlighter
   </a>
-  - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
-  <sup>
-   31 GitHub links in total 108 links, ★ 3, pushed 637 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 637 days ago
   </sup>
+  - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
  </li>
 </ul>
 <h3>
@@ -1410,6 +1332,9 @@
   <a href="https://github.com/Aurelain/Exo">
    Exo-Javascript
   </a>
+  <sup>
+   &#9733 25, pushed 358 days ago
+  </sup>
   - Write AHK with JavaScript - Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=5714">
    link
@@ -1419,12 +1344,6 @@
    link
   </a>
   .
-  <sup>
-   31 GitHub links in total 108 links, ★ 25, pushed 358 days ago
-  </sup>
-  <sup>
-   &#9733 25, pushed 358 days ago
-  </sup>
  </li>
  <li>
   <a href="https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/">

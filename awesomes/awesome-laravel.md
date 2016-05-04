@@ -236,25 +236,19 @@
   <a href="https://github.com/barryvdh/laravel-ide-helper">
    IDE Helper
   </a>
-  - Generates a helper file for IDE auto-completion
-  <sup>
-   132 GitHub links in total 366 links, ★ 3111, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3111, pushed 2 days ago
   </sup>
+  - Generates a helper file for IDE auto-completion
  </li>
  <li>
   <a href="https://github.com/laracasts/Laravel-5-Generators-Extended">
    Laravel 5 Extended Generators
   </a>
-  - Extends built-in file generators
-  <sup>
-   132 GitHub links in total 366 links, ★ 989, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 989, pushed 16 days ago
   </sup>
+  - Extends built-in file generators
  </li>
  <li>
   <a href="http://labs.infyom.com/laravelgenerator/">
@@ -277,49 +271,37 @@
   <a href="https://github.com/itsgoingd/clockwork">
    Clockwork
   </a>
-  - Integrates Clockwork Chrome extension for debugging and profiling apps
-  <sup>
-   132 GitHub links in total 366 links, ★ 838, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 838, pushed 12 days ago
   </sup>
+  - Integrates Clockwork Chrome extension for debugging and profiling apps
  </li>
  <li>
   <a href="https://github.com/barryvdh/laravel-debugbar">
    Debug Bar
   </a>
-  - Integrates PHP Debug Bar with Laravel
-  <sup>
-   132 GitHub links in total 366 links, ★ 3231, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 3231, pushed 1 days ago
   </sup>
+  - Integrates PHP Debug Bar with Laravel
  </li>
  <li>
   <a href="https://github.com/rap2hpoutre/laravel-log-viewer">
    Laravel 5 Log Viewer
   </a>
-  - Log viewer
-  <sup>
-   132 GitHub links in total 366 links, ★ 586, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 586, pushed 4 days ago
   </sup>
+  - Log viewer
  </li>
  <li>
   <a href="https://github.com/ARCANEDEV/LogViewer">
    LogViewer
   </a>
+  <sup>
+   &#9733 238, pushed 15 days ago
+  </sup>
   - Provides a log viewer for Laravel 5
-  <sup>
-   132 GitHub links in total 366 links, ★ 238, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 238, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier">
@@ -331,13 +313,10 @@
   <a href="https://github.com/themsaid/laravel-mail-preview">
    Mail Preview
   </a>
-  - Preview sent mail in a web browser or mail client
-  <sup>
-   132 GitHub links in total 366 links, ★ 248, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 248, pushed 7 days ago
   </sup>
+  - Preview sent mail in a web browser or mail client
  </li>
 </ul>
 <h5>
@@ -348,97 +327,73 @@
   <a href="https://github.com/Zizaco/entrust">
    Entrust
   </a>
-  - Role-based Permissions
-  <sup>
-   132 GitHub links in total 366 links, ★ 2745, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 2745, pushed 7 days ago
   </sup>
+  - Role-based Permissions
  </li>
  <li>
   <a href="https://github.com/tymondesigns/jwt-auth">
    JWT Auth
   </a>
-  - JSON Web Token authentication for APIs
-  <sup>
-   132 GitHub links in total 366 links, ★ 1807, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1807, pushed 2 days ago
   </sup>
+  - JSON Web Token authentication for APIs
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-permission">
    Laravel Permission
   </a>
-  - Associate users with roles and permissions
-  <sup>
-   132 GitHub links in total 366 links, ★ 387, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 387, pushed 15 days ago
   </sup>
+  - Associate users with roles and permissions
  </li>
  <li>
   <a href="https://github.com/artesaos/defender">
    Defender
   </a>
-  - Roles & Permissions
-  <sup>
-   132 GitHub links in total 366 links, ★ 222, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 222, pushed 22 days ago
   </sup>
+  - Roles & Permissions
  </li>
  <li>
   <a href="https://github.com/lucadegasperi/oauth2-server-laravel">
    OAuth2 Server Laravel
   </a>
-  - OAuth 2.0 authorization server and resource server
-  <sup>
-   132 GitHub links in total 366 links, ★ 1801, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1801, pushed 5 days ago
   </sup>
+  - OAuth 2.0 authorization server and resource server
  </li>
  <li>
   <a href="https://github.com/romanbican/roles">
    Laravel Roles
   </a>
+  <sup>
+   &#9733 753, pushed 9 days ago
+  </sup>
   - Roles And Permissions
-  <sup>
-   132 GitHub links in total 366 links, ★ 753, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 753, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cartalyst/sentinel">
    Sentinel
   </a>
-  - Framework agnostic authentication & authorization system
-  <sup>
-   132 GitHub links in total 366 links, ★ 689, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 689, pushed 5 days ago
   </sup>
+  - Framework agnostic authentication & authorization system
  </li>
  <li>
   <a href="https://github.com/laravel/socialite">
    Socialite
   </a>
-  - OAuth authentication with Facebook, Google, Twitter etc.
-  <sup>
-   132 GitHub links in total 366 links, ★ 971, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 971, pushed 4 days ago
   </sup>
+  - OAuth authentication with Facebook, Google, Twitter etc.
  </li>
  <li>
   <a href="http://socialiteproviders.github.io/">
@@ -450,25 +405,19 @@
   <a href="https://github.com/antonioribeiro/google2fa">
    Google2FA
   </a>
-  - Google Two-Factor Authentication Module
-  <sup>
-   132 GitHub links in total 366 links, ★ 312, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 312, pushed 53 days ago
   </sup>
+  - Google Two-Factor Authentication Module
  </li>
  <li>
   <a href="https://github.com/jrean/laravel-user-verification">
    Laravel User Verification
   </a>
-  - Handle the user verification flow and validate email
-  <sup>
-   132 GitHub links in total 366 links, ★ 117, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 117, pushed 20 days ago
   </sup>
+  - Handle the user verification flow and validate email
  </li>
 </ul>
 <h5>
@@ -485,412 +434,310 @@
   <a href="https://github.com/mewebstudio/captcha">
    Captcha
   </a>
-  - Captcha for Laravel 5 - An anti-bot image captcha system.
-  <sup>
-   132 GitHub links in total 366 links, ★ 397, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 397, pushed 7 days ago
   </sup>
+  - Captcha for Laravel 5 - An anti-bot image captcha system.
  </li>
  <li>
   <a href="https://github.com/Chumper/Datatable">
    Datatable
   </a>
-  - Server-side and client-side integration for jQuery Datatables plugin
-  <sup>
-   132 GitHub links in total 366 links, ★ 390, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 390, pushed 36 days ago
   </sup>
+  - Server-side and client-side integration for jQuery Datatables plugin
  </li>
  <li>
   <a href="https://github.com/cviebrock/eloquent-sluggable">
    Eloquent Sluggable
   </a>
-  - Create slugs for Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 1040, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1040, pushed 2 days ago
   </sup>
+  - Create slugs for Eloquent models
  </li>
  <li>
   <a href="https://github.com/LaravelCollective/html">
    HTML
   </a>
-  - Official HTML and Form Builders for Laravel
-  <sup>
-   132 GitHub links in total 366 links, ★ 562, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 562, pushed 5 days ago
   </sup>
+  - Official HTML and Form Builders for Laravel
  </li>
  <li>
   <a href="https://github.com/hyn/multi-tenant">
    Hyn/multi-tenant
   </a>
-  - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
-  <sup>
-   132 GitHub links in total 366 links, ★ 110, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 110, pushed 2 days ago
   </sup>
+  - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
  </li>
  <li>
   <a href="https://github.com/kristijanhusak/laravel-form-builder">
    Laravel 5 form builder
   </a>
-  - Form builder for Laravel 5 inspired by Symfony's form builder.
-  <sup>
-   132 GitHub links in total 366 links, ★ 426, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 426, pushed 18 days ago
   </sup>
+  - Form builder for Laravel 5 inspired by Symfony's form builder.
  </li>
  <li>
   <a href="https://github.com/Intervention/image">
    Intervention Image
   </a>
-  - Image handling library for creating, editing and composing images
-  <sup>
-   132 GitHub links in total 366 links, ★ 3485, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 3485, pushed 7 days ago
   </sup>
+  - Image handling library for creating, editing and composing images
  </li>
  <li>
   <a href="https://github.com/davejamesmiller/laravel-breadcrumbs">
    Laravel Breadcrumbs
   </a>
-  - Create and manage breadcrumbs
-  <sup>
-   132 GitHub links in total 366 links, ★ 645, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 645, pushed 11 days ago
   </sup>
+  - Create and manage breadcrumbs
  </li>
  <li>
   <a href="https://github.com/yajra/laravel-datatables">
    Laravel Datatable
   </a>
+  <sup>
+   &#9733 642, pushed 4 days ago
+  </sup>
   - jQuery DataTables API
-  <sup>
-   132 GitHub links in total 366 links, ★ 642, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 642, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mathiasgrimm/laravel-dot-env-gen">
    Laravel Dot Env Generator
   </a>
-  - Generate .env.gen file based on the project source code
-  <sup>
-   132 GitHub links in total 366 links, ★ 137, pushed 208 days ago
-  </sup>
   <sup>
    &#9733 137, pushed 208 days ago
   </sup>
+  - Generate .env.gen file based on the project source code
  </li>
  <li>
   <a href="https://github.com/Maatwebsite/Laravel-Excel">
    Laravel Excel
   </a>
-  - Import and export Excel and CSV files
-  <sup>
-   132 GitHub links in total 366 links, ★ 2029, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 2029, pushed 1 days ago
   </sup>
+  - Import and export Excel and CSV files
  </li>
  <li>
   <a href="https://github.com/Torann/laravel-geoip">
    Laravel GeoIP
   </a>
-  - Determine the geographical location of website visitors based on their IP addresses
-  <sup>
-   132 GitHub links in total 366 links, ★ 280, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 280, pushed 92 days ago
   </sup>
+  - Determine the geographical location of website visitors based on their IP addresses
  </li>
  <li>
   <a href="https://github.com/vinkla/hashids">
    Laravel Hashids
   </a>
+  <sup>
+   &#9733 443, pushed 88 days ago
+  </sup>
   - Generate unique, non-sequential ids using
   <a href="http://hashids.org/php/">
    Hashids
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 443, pushed 88 days ago
-  </sup>
-  <sup>
-   &#9733 443, pushed 88 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/GrahamCampbell/Laravel-Markdown">
    Laravel Markdown
   </a>
-  - CommonMark markdown parser
-  <sup>
-   132 GitHub links in total 366 links, ★ 323, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 323, pushed 7 days ago
   </sup>
+  - CommonMark markdown parser
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-medialibrary">
    Laravel MediaLibrary
   </a>
-  - Associate files with Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 672, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 672, pushed 4 days ago
   </sup>
+  - Associate files with Eloquent models
  </li>
  <li>
   <a href="https://github.com/cmgmyr/laravel-messenger">
    Laravel Messenger
   </a>
+  <sup>
+   &#9733 755, pushed 33 days ago
+  </sup>
   - User messaging system
-  <sup>
-   132 GitHub links in total 366 links, ★ 755, pushed 32 days ago
-  </sup>
-  <sup>
-   &#9733 755, pushed 32 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-responsecache">
    Laravel Responsecache
   </a>
-  - Speed up a Laravel app by caching the entire response
-  <sup>
-   132 GitHub links in total 366 links, ★ 214, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 214, pushed 33 days ago
   </sup>
+  - Speed up a Laravel app by caching the entire response
  </li>
  <li>
   <a href="https://github.com/barryvdh/laravel-snappy">
    Laravel Snappy
   </a>
-  - HTML to PDF generator using wkhtmltopdf
-  <sup>
-   132 GitHub links in total 366 links, ★ 307, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 307, pushed 12 days ago
   </sup>
+  - HTML to PDF generator using wkhtmltopdf
  </li>
  <li>
   <a href="https://github.com/CodeSleeve/laravel-stapler">
    Laravel Stapler
   </a>
-  - ORM-based file upload manager
-  <sup>
-   132 GitHub links in total 366 links, ★ 401, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 401, pushed 19 days ago
   </sup>
+  - ORM-based file upload manager
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-tail">
    Laravel Tail
   </a>
-  - The missing tail command
-  <sup>
-   132 GitHub links in total 366 links, ★ 89, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 46 days ago
   </sup>
+  - The missing tail command
  </li>
  <li>
   <a href="https://github.com/antonioribeiro/tracker">
    Laravel Stats Tracker
   </a>
-  - Gather information from requests to identify and store
-  <sup>
-   132 GitHub links in total 366 links, ★ 745, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 745, pushed 11 days ago
   </sup>
+  - Gather information from requests to identify and store
  </li>
  <li>
   <a href="https://github.com/lookitsatravis/listify">
    Listify
   </a>
-  - Add sorting/ordering capabilities to any Eloquent model
-  <sup>
-   132 GitHub links in total 366 links, ★ 69, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 69, pushed 82 days ago
   </sup>
+  - Add sorting/ordering capabilities to any Eloquent model
  </li>
  <li>
   <a href="https://github.com/ARCANEDEV/noCAPTCHA">
    noCAPTCHA
   </a>
-  - Helper for Google's new noCAPTCHA (reCAPTCHA)
-  <sup>
-   132 GitHub links in total 366 links, ★ 82, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 82, pushed 9 days ago
   </sup>
+  - Helper for Google's new noCAPTCHA (reCAPTCHA)
  </li>
  <li>
   <a href="https://github.com/mewebstudio/purifier">
    Purifier
   </a>
-  - HTMLPurifier for Laravel 5 - HTML filter
-  <sup>
-   132 GitHub links in total 366 links, ★ 294, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 294, pushed 7 days ago
   </sup>
+  - HTMLPurifier for Laravel 5 - HTML filter
  </li>
  <li>
   <a href="https://github.com/VentureCraft/revisionable">
    Revisionable
   </a>
-  - Create a revision history for Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 739, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 739, pushed 19 days ago
   </sup>
+  - Create a revision history for Eloquent models
  </li>
  <li>
   <a href="https://github.com/artesaos/seotools">
    SEOTools
   </a>
+  <sup>
+   &#9733 313, pushed 3 days ago
+  </sup>
   - Helpers for some common SEO techniques
-  <sup>
-   132 GitHub links in total 366 links, ★ 313, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 313, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/anlutro/laravel-settings">
    Laravel Setting
   </a>
-  - Persistent configuration settings that are stored in JSON files
-  <sup>
-   132 GitHub links in total 366 links, ★ 139, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 139, pushed 4 days ago
   </sup>
+  - Persistent configuration settings that are stored in JSON files
  </li>
  <li>
   <a href="https://github.com/hootlex/laravel-friendships">
    Friendship
   </a>
-  - Friendship management system - send, receive, accept, deny friend requests
-  <sup>
-   132 GitHub links in total 366 links, ★ 168, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 168, pushed 29 days ago
   </sup>
+  - Friendship management system - send, receive, accept, deny friend requests
  </li>
  <li>
   <a href="https://github.com/mpociot/teamwork">
    Teamwork
   </a>
-  - User to team associations with an invite system
-  <sup>
-   132 GitHub links in total 366 links, ★ 262, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 262, pushed 13 days ago
   </sup>
+  - User to team associations with an invite system
  </li>
  <li>
   <a href="https://github.com/dwightwatson/validating">
    Validating
   </a>
-  - Trait for validating Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 580, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 580, pushed 26 days ago
   </sup>
+  - Trait for validating Eloquent models
  </li>
  <li>
   <a href="https://github.com/mpociot/vat-calculator">
    VAT Calculator
   </a>
-  - Handle all the hard stuff related to EU MOSS vat regulations
-  <sup>
-   132 GitHub links in total 366 links, ★ 299, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 299, pushed 7 days ago
   </sup>
+  - Handle all the hard stuff related to EU MOSS vat regulations
  </li>
  <li>
   <a href="https://github.com/webpatser/laravel-uuid">
    Laravel Uuid
   </a>
-  - Laravel package to generate a UUID according to the RFC 4122 standard
-  <sup>
-   132 GitHub links in total 366 links, ★ 258, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 258, pushed 12 days ago
   </sup>
+  - Laravel package to generate a UUID according to the RFC 4122 standard
  </li>
  <li>
   <a href="https://github.com/RachidLaasri/LaravelInstaller">
    Laravel Installer
   </a>
-  - Laravel package to allow users to install your application just by following the setup wizard, like WordPress
-  <sup>
-   132 GitHub links in total 366 links, ★ 273, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 273, pushed 25 days ago
   </sup>
+  - Laravel package to allow users to install your application just by following the setup wizard, like WordPress
  </li>
  <li>
   <a href="https://github.com/mpociot/laravel-test-factory-helper">
    Laravel Test Factory Generator
   </a>
-  - Generate Laravel test factories from your existing models
-  <sup>
-   132 GitHub links in total 366 links, ★ 204, pushed 31 days ago
-  </sup>
   <sup>
    &#9733 204, pushed 31 days ago
   </sup>
+  - Generate Laravel test factories from your existing models
  </li>
 </ul>
 <h5>
@@ -901,37 +748,28 @@
   <a href="https://github.com/aaronlord/laroute">
    Laroute
   </a>
-  - Generate Laravel route URLs from JavaScript
-  <sup>
-   132 GitHub links in total 366 links, ★ 325, pushed 86 days ago
-  </sup>
   <sup>
    &#9733 325, pushed 86 days ago
   </sup>
+  - Generate Laravel route URLs from JavaScript
  </li>
  <li>
   <a href="https://github.com/laracasts/PHP-Vars-To-Js-Transformer">
    PHP Vars to JavaScript Transformer
   </a>
-  - Pass server-side string/array/collection/whatever to JavaScript
-  <sup>
-   132 GitHub links in total 366 links, ★ 874, pushed 164 days ago
-  </sup>
   <sup>
    &#9733 874, pushed 164 days ago
   </sup>
+  - Pass server-side string/array/collection/whatever to JavaScript
  </li>
  <li>
   <a href="https://github.com/proengsoft/laravel-jsvalidation">
    Javascript Validation
   </a>
-  - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
-  <sup>
-   132 GitHub links in total 366 links, ★ 162, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 162, pushed 51 days ago
   </sup>
+  - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
  </li>
 </ul>
 <h5>
@@ -942,133 +780,100 @@
   <a href="https://github.com/backup-manager/laravel">
    Backup Manager
   </a>
-  - Backup and restore databases from S3, Dropbox, SFTP etc.
-  <sup>
-   132 GitHub links in total 366 links, ★ 203, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 203, pushed 42 days ago
   </sup>
+  - Backup and restore databases from S3, Dropbox, SFTP etc.
  </li>
  <li>
   <a href="https://github.com/etrepat/baum">
    Baum
   </a>
-  - Nested Sets pattern implementation
-  <sup>
-   132 GitHub links in total 366 links, ★ 965, pushed 40 days ago
-  </sup>
   <sup>
    &#9733 965, pushed 40 days ago
   </sup>
+  - Nested Sets pattern implementation
  </li>
  <li>
   <a href="https://github.com/franzose/ClosureTable">
    ClosureTable
   </a>
-  - Closure table pattern implementation
-  <sup>
-   132 GitHub links in total 366 links, ★ 168, pushed 90 days ago
-  </sup>
   <sup>
    &#9733 168, pushed 90 days ago
   </sup>
+  - Closure table pattern implementation
  </li>
  <li>
   <a href="https://github.com/kirkbushell/eloquence">
    Eloquence
   </a>
-  - Extra features for Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 254, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 254, pushed 9 days ago
   </sup>
+  - Extra features for Eloquent models
  </li>
  <li>
   <a href="https://github.com/orangehill/iseed">
    iSeed
   </a>
-  - Generate a new seed file from an existing database table
-  <sup>
-   132 GitHub links in total 366 links, ★ 368, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 368, pushed 13 days ago
   </sup>
+  - Generate a new seed file from an existing database table
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-backup">
    Laravel Backup
   </a>
-  - Backup your app
-  <sup>
-   132 GitHub links in total 366 links, ★ 863, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 863, pushed 5 days ago
   </sup>
+  - Backup your app
  </li>
  <li>
   <a href="https://github.com/laravel-doctrine/orm">
    Laravel Doctrine
   </a>
-  - Doctrine 2 ORM implementation
-  <sup>
-   132 GitHub links in total 366 links, ★ 245, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 245, pushed 4 days ago
   </sup>
+  - Doctrine 2 ORM implementation
  </li>
  <li>
   <a href="https://github.com/jenssegers/laravel-mongodb">
    Laravel MongoDB
   </a>
-  - Eloquent model and query builder with support for MongoDB
-  <sup>
-   132 GitHub links in total 366 links, ★ 1722, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1722, pushed 4 days ago
   </sup>
+  - Eloquent model and query builder with support for MongoDB
  </li>
  <li>
   <a href="https://github.com/Xethron/migrations-generator">
    Migrations Generator
   </a>
-  - Generate migrations from an existing database
-  <sup>
-   132 GitHub links in total 366 links, ★ 783, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 783, pushed 3 days ago
   </sup>
+  - Generate migrations from an existing database
  </li>
  <li>
   <a href="https://github.com/jarektkaczyk/eloquence">
    Sofa/Eloquence
   </a>
-  - Extensions for the Eloquent ORM
-  <sup>
-   132 GitHub links in total 366 links, ★ 341, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 341, pushed 7 days ago
   </sup>
+  - Extensions for the Eloquent ORM
  </li>
  <li>
   <a href="https://github.com/orchestral/tenanti">
    Tenanti
   </a>
+  <sup>
+   &#9733 158, pushed 6 days ago
+  </sup>
   - Multi-tenant database schema manager
-  <sup>
-   132 GitHub links in total 366 links, ★ 158, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 158, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h5>
@@ -1079,61 +884,46 @@
   <a href="https://github.com/algolia/algoliasearch-laravel">
    Algolia Search
   </a>
-  - Integrates the Algolia Search API to the Laravel Eloquent ORM
-  <sup>
-   132 GitHub links in total 366 links, ★ 108, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 108, pushed 32 days ago
   </sup>
+  - Integrates the Algolia Search API to the Laravel Eloquent ORM
  </li>
  <li>
   <a href="https://github.com/elasticquent/Elasticquent">
    Elasticquent
   </a>
-  - Elasticsearch for Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 180, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 180, pushed 1 days ago
   </sup>
+  - Elasticsearch for Eloquent models
  </li>
  <li>
   <a href="https://github.com/mmanos/laravel-search">
    Laravel Search
   </a>
-  - Unified API for Elasticsearch, Algolia, and ZendSearch
-  <sup>
-   132 GitHub links in total 366 links, ★ 189, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 189, pushed 69 days ago
   </sup>
+  - Unified API for Elasticsearch, Algolia, and ZendSearch
  </li>
  <li>
   <a href="https://github.com/spatie/searchindex">
    SearchIndex
   </a>
-  - Store and retrieve objects from Algolia or Elasticsearch
-  <sup>
-   132 GitHub links in total 366 links, ★ 255, pushed 191 days ago
-  </sup>
   <sup>
    &#9733 255, pushed 191 days ago
   </sup>
+  - Store and retrieve objects from Algolia or Elasticsearch
  </li>
  <li>
   <a href="https://github.com/nicolaslopezj/searchable">
    Searchable
   </a>
-  - Trait that adds a simple search function to Eloquent models
-  <sup>
-   132 GitHub links in total 366 links, ★ 659, pushed 97 days ago
-  </sup>
   <sup>
    &#9733 659, pushed 97 days ago
   </sup>
+  - Trait that adds a simple search function to Eloquent models
  </li>
 </ul>
 <h5>
@@ -1144,49 +934,37 @@
   <a href="https://github.com/chrisbjr/api-guard">
    ApiGuard
   </a>
-  - Allow API authentication with API keys
-  <sup>
-   132 GitHub links in total 366 links, ★ 412, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 412, pushed 7 days ago
   </sup>
+  - Allow API authentication with API keys
  </li>
  <li>
   <a href="https://github.com/dingo/api">
    Dingo API
   </a>
-  - Multi-purpose toolkit for developing RESTful APIs
-  <sup>
-   132 GitHub links in total 366 links, ★ 3443, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 3443, pushed 5 days ago
   </sup>
+  - Multi-purpose toolkit for developing RESTful APIs
  </li>
  <li>
   <a href="https://github.com/barryvdh/laravel-cors">
    Laravel CORS
   </a>
-  - Add CORS (Cross-Origin Resource Sharing) headers support
-  <sup>
-   132 GitHub links in total 366 links, ★ 675, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 675, pushed 2 days ago
   </sup>
+  - Add CORS (Cross-Origin Resource Sharing) headers support
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-fractal">
    Laravel Fractal
   </a>
-  - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
-  <sup>
-   132 GitHub links in total 366 links, ★ 139, pushed 34 days ago
-  </sup>
   <sup>
    &#9733 139, pushed 34 days ago
   </sup>
+  - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
  </li>
 </ul>
 <h5>
@@ -1197,37 +975,28 @@
   <a href="https://github.com/indatus/dispatcher">
    Dispatcher
   </a>
-  - Scheduler for Artisan commands
-  <sup>
-   132 GitHub links in total 366 links, ★ 944, pushed 110 days ago
-  </sup>
   <sup>
    &#9733 944, pushed 110 days ago
   </sup>
+  - Scheduler for Artisan commands
  </li>
  <li>
   <a href="https://github.com/laravel/elixir">
    Elixir
   </a>
-  - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
-  <sup>
-   132 GitHub links in total 366 links, ★ 827, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 827, pushed 4 days ago
   </sup>
+  - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
  </li>
  <li>
   <a href="https://github.com/laravel/envoy">
    Envoy
   </a>
-  - SSH Task Runner
-  <sup>
-   132 GitHub links in total 366 links, ★ 739, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 739, pushed 7 days ago
   </sup>
+  - SSH Task Runner
  </li>
 </ul>
 <h5>
@@ -1238,29 +1007,23 @@
   <a href="https://github.com/laravel/cashier">
    Cashier
   </a>
-  - Subscription billing with Stripe
-  <sup>
-   132 GitHub links in total 366 links, ★ 921, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 921, pushed 12 days ago
   </sup>
+  - Subscription billing with Stripe
  </li>
  <li>
   <a href="https://github.com/ignited/laravel-omnipay">
    Omnipay for Laravel
   </a>
+  <sup>
+   &#9733 154, pushed 51 days ago
+  </sup>
   - Integrate the
   <a href="https://github.com/thephpleague/omnipay">
    Omnipay
   </a>
   PHP library
-  <sup>
-   132 GitHub links in total 366 links, ★ 154, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 154, pushed 51 days ago
-  </sup>
  </li>
 </ul>
 <h5>
@@ -1271,25 +1034,19 @@
   <a href="https://github.com/Intervention/imagecache">
    Intervention Image Cache
   </a>
-  - Caching extension for the Intervention Image Class
-  <sup>
-   132 GitHub links in total 366 links, ★ 187, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 187, pushed 33 days ago
   </sup>
+  - Caching extension for the Intervention Image Class
  </li>
  <li>
   <a href="https://github.com/GrahamCampbell/Laravel-HTMLMin">
    Laravel HTMLMin
   </a>
-  - Blade/HTML/CSS/javascript minifier
-  <sup>
-   132 GitHub links in total 366 links, ★ 229, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 229, pushed 7 days ago
   </sup>
+  - Blade/HTML/CSS/javascript minifier
  </li>
 </ul>
 <h5>
@@ -1300,73 +1057,55 @@
   <a href="https://github.com/caouecs/Laravel-lang">
    Language Files
   </a>
-  - Validation, Pagination and Reminders language lines in 37 languages
-  <sup>
-   132 GitHub links in total 366 links, ★ 1278, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 1278, pushed 10 days ago
   </sup>
+  - Validation, Pagination and Reminders language lines in 37 languages
  </li>
  <li>
   <a href="https://github.com/mcamara/laravel-localization">
    Laravel Localization
   </a>
-  - Add i18n support via routes
-  <sup>
-   132 GitHub links in total 366 links, ★ 868, pushed 74 days ago
-  </sup>
   <sup>
    &#9733 868, pushed 74 days ago
   </sup>
+  - Add i18n support via routes
  </li>
  <li>
   <a href="https://github.com/dimsav/laravel-translatable">
    Laravel Translatable
   </a>
-  - Retrieve and store translatable Eloquent model instances
-  <sup>
-   132 GitHub links in total 366 links, ★ 731, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 731, pushed 12 days ago
   </sup>
+  - Retrieve and store translatable Eloquent model instances
  </li>
  <li>
   <a href="https://github.com/vinkla/translator">
    Laravel Translator
   </a>
-  - Translate Eloquent models into multiple languages
-  <sup>
-   132 GitHub links in total 366 links, ★ 208, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 208, pushed 17 days ago
   </sup>
+  - Translate Eloquent models into multiple languages
  </li>
  <li>
   <a href="https://github.com/jenssegers/date">
    Laravel Date
   </a>
-  - A library to help you work with dates in multiple languages, based on Carbon
-  <sup>
-   132 GitHub links in total 366 links, ★ 534, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 534, pushed 4 days ago
   </sup>
+  - A library to help you work with dates in multiple languages, based on Carbon
  </li>
  <li>
   <a href="https://github.com/themsaid/laravel-langman">
    Laravel Langman
   </a>
-  - Manage language files from Artisan Console
-  <sup>
-   132 GitHub links in total 366 links, ★ 412, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 412, pushed 9 days ago
   </sup>
+  - Manage language files from Artisan Console
  </li>
 </ul>
 <h5>
@@ -1377,49 +1116,37 @@
   <a href="https://github.com/vinkla/algolia">
    Laravel Algolia
   </a>
-  - Algolia API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 40, pushed 88 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 88 days ago
   </sup>
+  - Algolia API bridge
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-analytics">
    Laravel Analytics
   </a>
-  - An opinionated Laravel 5 package to retrieve pageviews and other data from Google Analytics
-  <sup>
-   132 GitHub links in total 366 links, ★ 395, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 395, pushed 6 days ago
   </sup>
+  - An opinionated Laravel 5 package to retrieve pageviews and other data from Google Analytics
  </li>
  <li>
   <a href="https://github.com/GrahamCampbell/Laravel-DigitalOcean">
    Laravel DigitalOcean
   </a>
-  - DigitalOceanV2 bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 117, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 117, pushed 7 days ago
   </sup>
+  - DigitalOceanV2 bridge
  </li>
  <li>
   <a href="https://github.com/GrahamCampbell/Laravel-Dropbox">
    Laravel Dropbox
   </a>
-  - Dropbox bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 77, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 77, pushed 7 days ago
   </sup>
+  - Dropbox bridge
  </li>
  <li>
   <a href="https://github.com/schimpanz/Laravel-Facebook">
@@ -1431,85 +1158,64 @@
   <a href="https://github.com/GrahamCampbell/Laravel-GitHub">
    Laravel GitHub
   </a>
-  - PHP GitHub API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 116, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 116, pushed 7 days ago
   </sup>
+  - PHP GitHub API bridge
  </li>
  <li>
   <a href="https://github.com/vinkla/gitlab">
    Laravel GitLab
   </a>
-  - GitLab API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 64, pushed 88 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 88 days ago
   </sup>
+  - GitLab API bridge
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-googletagmanager">
    Laravel Googletagmanager
   </a>
-  - Easily setup and send data to Google Tag Manager
-  <sup>
-   132 GitHub links in total 366 links, ★ 29, pushed 266 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 266 days ago
   </sup>
+  - Easily setup and send data to Google Tag Manager
  </li>
  <li>
   <a href="https://github.com/vinkla/instagram">
    Laravel Instagram
   </a>
-  - Instagram API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 121, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 121, pushed 44 days ago
   </sup>
+  - Instagram API bridge
  </li>
  <li>
   <a href="https://github.com/spatie/laravel-newsletter">
    Laravel Newsletter
   </a>
-  - Send newsletters with Mailchimp
-  <sup>
-   132 GitHub links in total 366 links, ★ 253, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 253, pushed 5 days ago
   </sup>
+  - Send newsletters with Mailchimp
  </li>
  <li>
   <a href="https://github.com/GrahamCampbell/Laravel-Parse">
    Laravel Parse
   </a>
-  - PHP Parse SDK bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 63, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 63, pushed 7 days ago
   </sup>
+  - PHP Parse SDK bridge
  </li>
  <li>
   <a href="https://github.com/vinkla/pusher">
    Laravel Pusher
   </a>
-  - Pusher API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 162, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 162, pushed 42 days ago
   </sup>
+  - Pusher API bridge
  </li>
  <li>
   <a href="https://github.com/schimpanz/Laravel-Pushwoosh">
@@ -1521,13 +1227,10 @@
   <a href="https://github.com/vinkla/vimeo">
    Laravel Vimeo
   </a>
-  - Vimeo API bridge
-  <sup>
-   132 GitHub links in total 366 links, ★ 119, pushed 88 days ago
-  </sup>
   <sup>
    &#9733 119, pushed 88 days ago
   </sup>
+  - Vimeo API bridge
  </li>
 </ul>
 <h2>
@@ -1561,25 +1264,19 @@
   <a href="https://github.com/LaraDock/laradock">
    LaraDock
   </a>
-  - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
-  <sup>
-   132 GitHub links in total 366 links, ★ 306, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 306, pushed 5 days ago
   </sup>
+  - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
  </li>
  <li>
   <a href="https://github.com/laraedit/laraedit-docker">
    LaraEdit Docker
   </a>
-  - Homestead environment in a single Docker container.
-  <sup>
-   132 GitHub links in total 366 links, ★ 113, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 113, pushed 13 days ago
   </sup>
+  - Homestead environment in a single Docker container.
  </li>
  <li>
   Install Laravel with Composer
@@ -1699,13 +1396,10 @@
   <a href="https://github.com/rocketeers/rocketeer">
    Rocketeer
   </a>
-  - Task runner and deployment package
-  <sup>
-   132 GitHub links in total 366 links, ★ 2005, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 2005, pushed 10 days ago
   </sup>
+  - Task runner and deployment package
  </li>
 </ul>
 <h2>
@@ -2322,9 +2016,6 @@
    Laravel 5.1 Boilerplate
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 1185, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 1185, pushed 4 days ago
   </sup>
  </li>
@@ -2332,9 +2023,6 @@
   <a href="https://github.com/jadjoubran/laravel5-angular-material-starter">
    Laravel 5 Angular Material Starter
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 1042, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1042, pushed 4 days ago
   </sup>
@@ -2344,9 +2032,6 @@
    Acacha adminlte-laravel
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 440, pushed 1 days ago
-  </sup>
-  <sup>
    &#9733 440, pushed 1 days ago
   </sup>
  </li>
@@ -2354,9 +2039,6 @@
   <a href="https://github.com/unicodeveloper/laravel-hackathon-starter">
    Laravel Hackathon Starter
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 830, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 830, pushed 27 days ago
   </sup>
@@ -2371,9 +2053,6 @@
    92Five
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 995, pushed 263 days ago
-  </sup>
-  <sup>
    &#9733 995, pushed 263 days ago
   </sup>
  </li>
@@ -2381,9 +2060,6 @@
   <a href="https://github.com/BootstrapCMS/CMS">
    Bootstrap CMS
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 1608, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 1608, pushed 49 days ago
   </sup>
@@ -2393,9 +2069,6 @@
    Cachet
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 4168, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 4168, pushed 2 days ago
   </sup>
  </li>
@@ -2403,9 +2076,6 @@
   <a href="https://github.com/REBELinBLUE/deployer">
    Deployer
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 194, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 194, pushed 2 days ago
   </sup>
@@ -2415,9 +2085,6 @@
    Invoice Ninja
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 2152, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 2152, pushed 2 days ago
   </sup>
  </li>
@@ -2426,19 +2093,13 @@
    Koel
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 6014, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6014, pushed 1 days ago
+   &#9733 6014, pushed 2 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/CodepadME/laravel-tricks">
    Laravel Tricks
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 792, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 792, pushed 84 days ago
   </sup>
@@ -2448,9 +2109,6 @@
    Laravel.IO
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 781, pushed 51 days ago
-  </sup>
-  <sup>
    &#9733 781, pushed 51 days ago
   </sup>
  </li>
@@ -2458,9 +2116,6 @@
   <a href="https://github.com/octobercms/october">
    October
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 4447, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 4447, pushed 3 days ago
   </sup>
@@ -2470,9 +2125,6 @@
    Paperwork
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 4796, pushed 7 days ago
-  </sup>
-  <sup>
    &#9733 4796, pushed 7 days ago
   </sup>
  </li>
@@ -2481,19 +2133,13 @@
    PHPHub
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 1600, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 1600, pushed 0 days ago
+   &#9733 1600, pushed 1 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/pyrocms/pyrocms">
    PyroCMS
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 2170, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2170, pushed 2 days ago
   </sup>
@@ -2503,9 +2149,6 @@
    TypiCMS
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 352, pushed 5 days ago
-  </sup>
-  <sup>
    &#9733 352, pushed 5 days ago
   </sup>
  </li>
@@ -2513,9 +2156,6 @@
   <a href="https://github.com/wardrobecms/wardrobe">
    Wardrobe
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 730, pushed 650 days ago
-  </sup>
   <sup>
    &#9733 730, pushed 650 days ago
   </sup>
@@ -2525,9 +2165,6 @@
    Flarum
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 4355, pushed 10 days ago
-  </sup>
-  <sup>
    &#9733 4355, pushed 10 days ago
   </sup>
  </li>
@@ -2535,9 +2172,6 @@
   <a href="https://github.com/LavaLite/cms">
    Lavalite
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 383, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 383, pushed 5 days ago
   </sup>
@@ -2547,9 +2181,6 @@
    Laramap
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 51, pushed 112 days ago
-  </sup>
-  <sup>
    &#9733 51, pushed 112 days ago
   </sup>
  </li>
@@ -2557,9 +2188,6 @@
   <a href="https://github.com/Attendize/Attendize">
    Attendize
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 1003, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1003, pushed 4 days ago
   </sup>
@@ -2569,9 +2197,6 @@
    Katana
   </a>
   <sup>
-   132 GitHub links in total 366 links, ★ 194, pushed 41 days ago
-  </sup>
-  <sup>
    &#9733 194, pushed 41 days ago
   </sup>
  </li>
@@ -2579,9 +2204,6 @@
   <a href="https://github.com/ant-vel/antVel">
    Antvel
   </a>
-  <sup>
-   132 GitHub links in total 366 links, ★ 343, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 343, pushed 8 days ago
   </sup>
@@ -3025,13 +2647,10 @@
   <a href="https://github.com/typicms/base">
    TypiCMS
   </a>
-  - Is a modular multilingual content management system built with Laravel 5.2
-  <sup>
-   132 GitHub links in total 366 links, ★ 352, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 352, pushed 5 days ago
   </sup>
+  - Is a modular multilingual content management system built with Laravel 5.2
  </li>
  <li>
   <a href="http://demo.0ez.ru/root/login">
@@ -3061,13 +2680,10 @@
   <a href="https://github.com/larapress-cms/larapress">
    Larapress
   </a>
-  - A Laravel 4 CMS
-  <sup>
-   132 GitHub links in total 366 links, ★ 166, pushed 683 days ago
-  </sup>
   <sup>
    &#9733 166, pushed 683 days ago
   </sup>
+  - A Laravel 4 CMS
  </li>
 </ul>
 <h3>

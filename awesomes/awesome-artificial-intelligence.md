@@ -415,13 +415,10 @@
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Awesome Machine Learning
   </a>
-  - Like this Github, but ML-focused
-  <sup>
-   1 GitHub links in total 112 links, ★ 12665, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 12665, pushed 4 days ago
   </sup>
+  - Like this Github, but ML-focused
  </li>
  <li>
   <a href="http://fastml.com/">

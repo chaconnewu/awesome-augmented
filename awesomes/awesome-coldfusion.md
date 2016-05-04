@@ -19,6 +19,9 @@
   <a href="https://github.com/seancoyne/awesome-coldfusion">
    Awesome ColdFusion
   </a>
+  <sup>
+   &#9733 29, pushed 106 days ago
+  </sup>
   <ul>
    <li>
     <a href="#engines">
@@ -86,12 +89,6 @@
     </a>
    </li>
   </ul>
-  <sup>
-   34 GitHub links in total 80 links, ★ 29, pushed 106 days ago
-  </sup>
-  <sup>
-   &#9733 29, pushed 106 days ago
-  </sup>
  </li>
 </ul>
 <hr/>
@@ -122,13 +119,10 @@
   <a href="https://github.com/cfwheels/cfwheels">
    cfwheels
   </a>
+  <sup>
+   &#9733 157, pushed 6 days ago
+  </sup>
   - An open source ColdFusion framework inspired by Ruby on Rails.
-  <sup>
-   34 GitHub links in total 80 links, ★ 157, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 157, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.coldbox.org">
@@ -146,13 +140,10 @@
   <a href="https://github.com/framework-one/fw1">
    FW/1 - Framework One
   </a>
-  - a lightweight, convention over configuration, MVC application framework
-  <sup>
-   34 GitHub links in total 80 links, ★ 336, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 336, pushed 6 days ago
   </sup>
+  - a lightweight, convention over configuration, MVC application framework
  </li>
  <li>
   <a href="http://model-glue.com">
@@ -169,13 +160,10 @@
   <a href="https://github.com/teamcfadvance/CFSelenium">
    CFSelenium
   </a>
-  - A native Selenium RC binding for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 66, pushed 414 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 414 days ago
   </sup>
+  - A native Selenium RC binding for ColdFusion
  </li>
  <li>
   <a href="http://wiki.coldbox.org/wiki/MockBox.cfm">
@@ -187,37 +175,28 @@
   <a href="https://github.com/mxunit/mxunit">
    MXUnit
   </a>
-  - xUnit style unit testing framework
-  <sup>
-   34 GitHub links in total 80 links, ★ 73, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 73, pushed 12 days ago
   </sup>
+  - xUnit style unit testing framework
  </li>
  <li>
   <a href="https://github.com/atuttle/mxunit-watch">
    mxunit-watch
   </a>
-  - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
-  <sup>
-   34 GitHub links in total 80 links, ★ 14, pushed 90 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 90 days ago
   </sup>
+  - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
  </li>
  <li>
   <a href="https://github.com/Ortus-Solutions/TestBox">
    TestBox
   </a>
-  - BDD style unit testing framework
-  <sup>
-   34 GitHub links in total 80 links, ★ 13, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 4 days ago
   </sup>
+  - BDD style unit testing framework
  </li>
 </ul>
 <h2>
@@ -234,13 +213,10 @@
   <a href="https://github.com/framework-one/di1">
    DI/1 - Inject One
   </a>
-  - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
-  <sup>
-   34 GitHub links in total 80 links, ★ 108, pushed 129 days ago
-  </sup>
   <sup>
    &#9733 108, pushed 129 days ago
   </sup>
+  - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
  </li>
  <li>
   <a href="http://wiki.coldbox.org/wiki/WireBox.cfm">
@@ -263,32 +239,23 @@
   <a href="https://github.com/Ortus-Solutions/ContentBox">
    ContentBox
   </a>
-  - A powerful modular content management engine
-  <sup>
-   34 GitHub links in total 80 links, ★ 59, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 4 days ago
   </sup>
+  - A powerful modular content management engine
  </li>
  <li>
   <a href="https://github.com/farcrycore/plugin-farcrycms">
    FarCry CMS
   </a>
   <sup>
-   34 GitHub links in total 80 links, ★ 7, pushed 177 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 177 days ago
+   &#9733 7, pushed 178 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/blueriver/MuraCMS">
    Mura
   </a>
-  <sup>
-   34 GitHub links in total 80 links, ★ 219, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 219, pushed 2 days ago
   </sup>
@@ -297,25 +264,19 @@
   <a href="https://github.com/pixl8/Preside-CMS">
    Preside CMS
   </a>
-  - an open source CMS for the Railo language
-  <sup>
-   34 GitHub links in total 80 links, ★ 17, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 3 days ago
   </sup>
+  - an open source CMS for the Railo language
  </li>
  <li>
   <a href="https://github.com/ten24/Slatwall">
    Slatwall
   </a>
-  - An Open Source Commerce Platform
-  <sup>
-   34 GitHub links in total 80 links, ★ 101, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 101, pushed 4 days ago
   </sup>
+  - An Open Source Commerce Platform
  </li>
 </ul>
 <h2>
@@ -326,37 +287,28 @@
   <a href="https://github.com/dajester2013/CFArango">
    CFArango
   </a>
+  <sup>
+   &#9733 4, pushed 471 days ago
+  </sup>
   - ArangoDB client for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 4, pushed 470 days ago
-  </sup>
-  <sup>
-   &#9733 4, pushed 470 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Ortus-Solutions/cfcouchbase-sdk">
    CFCouchbase
   </a>
-  - Couchbase NoSQL and caching client wrapper for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 9, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 28 days ago
   </sup>
+  - Couchbase NoSQL and caching client wrapper for ColdFusion
  </li>
  <li>
   <a href="https://github.com/marcesher/cfmongodb">
    cfmongodb
   </a>
-  - MongoDB client wrapper for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 88, pushed 183 days ago
-  </sup>
   <sup>
    &#9733 88, pushed 183 days ago
   </sup>
+  - MongoDB client wrapper for ColdFusion
  </li>
 </ul>
 <h2>
@@ -396,77 +348,59 @@
   <a href="https://github.com/misterdai/cfbackport">
    cfbackport
   </a>
-  - Back porting features contained in newer versions of ColdFusion.
-  <sup>
-   34 GitHub links in total 80 links, ★ 24, pushed 588 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 588 days ago
   </sup>
+  - Back porting features contained in newer versions of ColdFusion.
  </li>
  <li>
   <a href="https://github.com/ghidinelli/cfpayment">
    cfpayment
   </a>
-  - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
-  <sup>
-   34 GitHub links in total 80 links, ★ 62, pushed 320 days ago
-  </sup>
   <sup>
    &#9733 62, pushed 320 days ago
   </sup>
+  - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
  </li>
  <li>
   <a href="https://github.com/aarongreenlee/Hoth">
    Hoth
   </a>
-  - Exception Tracking
-  <sup>
-   34 GitHub links in total 80 links, ★ 123, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 123, pushed 7 days ago
   </sup>
+  - Exception Tracking
  </li>
  <li>
   <a href="https://github.com/oarevalo/BugLogHQ">
    BugLogHQ
   </a>
-  - Exception Tracking
-  <sup>
-   34 GitHub links in total 80 links, ★ 117, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 117, pushed 15 days ago
   </sup>
+  - Exception Tracking
  </li>
  <li>
   <a href="https://github.com/atuttle/iquery">
    iQuery
   </a>
+  <sup>
+   &#9733 10, pushed 428 days ago
+  </sup>
   - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like
   <code>
    queryExecute()
   </code>
   .
-  <sup>
-   34 GitHub links in total 80 links, ★ 10, pushed 428 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 428 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/markmandel/JavaLoader">
    JavaLoader
   </a>
-  - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
-  <sup>
-   34 GitHub links in total 80 links, ★ 39, pushed 1378 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 1378 days ago
   </sup>
+  - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
  </li>
  <li>
   <a href="http://wiki.coldbox.org/wiki/LogBox.cfm">
@@ -478,41 +412,32 @@
   <a href="https://github.com/AlumnIQ/momentcfc">
    Moment.cfc
   </a>
-  - Moment.js inspired date/time manipulation library for CFML (not a direct port)
-  <sup>
-   34 GitHub links in total 80 links, ★ 28, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 11 days ago
   </sup>
+  - Moment.js inspired date/time manipulation library for CFML (not a direct port)
  </li>
  <li>
   <a href="https://github.com/rip747/Mustache.cfc">
    Mustache.cfc
   </a>
+  <sup>
+   &#9733 36, pushed 375 days ago
+  </sup>
   -
   <a href="http://mustache.github.io">
    {{ mustache }}
   </a>
   for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 36, pushed 375 days ago
-  </sup>
-  <sup>
-   &#9733 36, pushed 375 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/russplaysguitar/UnderscoreCF">
    UnderscoreCF
   </a>
-  - An UnderscoreJS port for Coldfusion. Functional programming library.
-  <sup>
-   34 GitHub links in total 80 links, ★ 64, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 15 days ago
   </sup>
+  - An UnderscoreJS port for Coldfusion. Functional programming library.
  </li>
  <li>
   <a href="http://validatethis.org">
@@ -562,47 +487,38 @@
   <a href="https://github.com/atuttle/atom-language-cfml">
    CFML Language for Atom
   </a>
+  <sup>
+   &#9733 37, pushed 70 days ago
+  </sup>
   - CFML Language plugin for
   <a href="https://atom.io/">
    Atom
   </a>
-  <sup>
-   34 GitHub links in total 80 links, ★ 37, pushed 70 days ago
-  </sup>
-  <sup>
-   &#9733 37, pushed 70 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sublimetext/coldfusion">
    Sublime Text ColdFusion Package
   </a>
+  <sup>
+   &#9733 199, pushed 173 days ago
+  </sup>
   - ColdFusion syntax and snippets for
   <a href="http://www.sublimetext.com">
    Sublime Text 2/3
   </a>
-  <sup>
-   34 GitHub links in total 80 links, ★ 199, pushed 173 days ago
-  </sup>
-  <sup>
-   &#9733 199, pushed 173 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/textmate/coldfusion.tmbundle">
    TextMate
   </a>
+  <sup>
+   &#9733 11, pushed 1183 days ago
+  </sup>
   -
   <a href="http://macromates.com">
    TextMate
   </a>
   support for ColdFusion
-  <sup>
-   34 GitHub links in total 80 links, ★ 11, pushed 1183 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 1183 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -613,13 +529,10 @@
   <a href="https://github.com/Ortus-Solutions/commandbox">
    CommandBox
   </a>
-  - ColdFusion (CFML) CLI, Package Manager, REPL and more
-  <sup>
-   34 GitHub links in total 80 links, ★ 25, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 2 days ago
   </sup>
+  - ColdFusion (CFML) CLI, Package Manager, REPL and more
  </li>
  <li>
   <a href="http://www.uu-2.info/">
@@ -654,25 +567,19 @@
   <a href="https://github.com/nodoherty/ColdFusion-Koans">
    ColdFusion Koans
   </a>
-  - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
-  <sup>
-   34 GitHub links in total 80 links, ★ 60, pushed 147 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 147 days ago
   </sup>
+  - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
  </li>
  <li>
   <a href="https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way">
    ColdFusion UI the Right Way
   </a>
-  - A list of articles demonstrating how to do UI with ColdFusion on the back end.
-  <sup>
-   34 GitHub links in total 80 links, ★ 74, pushed 201 days ago
-  </sup>
   <sup>
    &#9733 74, pushed 201 days ago
   </sup>
+  - A list of articles demonstrating how to do UI with ColdFusion on the back end.
  </li>
  <li>
   <a href="http://www.learncfinaweek.com">
@@ -701,25 +608,19 @@
   <a href="https://github.com/writecodedrinkcoffee/lucee-heroku">
    lucee-heroku
   </a>
-  - Application template for deploying Lucee 4.5.x apps to Heroku by Mike Sprague
-  <sup>
-   34 GitHub links in total 80 links, ★ 2, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 17 days ago
   </sup>
+  - Application template for deploying Lucee 4.5.x apps to Heroku by Mike Sprague
  </li>
  <li>
   <a href="https://github.com/writecodedrinkcoffee/vagrant-lemtl">
    Vagrant LEMTL
   </a>
-  - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
-  <sup>
-   34 GitHub links in total 80 links, ★ 33, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 7 days ago
   </sup>
+  - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
  </li>
 </ul>
 <h2>
@@ -742,13 +643,10 @@
   <a href="https://github.com/cfchef/cfml-tag-to-script-conversions">
    CFML Tags to CFScript Reference
   </a>
-  -  CFML Tag to Script Conversions by Tony Junkes
-  <sup>
-   34 GitHub links in total 80 links, ★ 6, pushed 73 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 73 days ago
   </sup>
+  -  CFML Tag to Script Conversions by Tony Junkes
  </li>
  <li>
   <a href="http://cfquickdocs.com/">

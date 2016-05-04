@@ -362,9 +362,6 @@
    Ionic Conference App
   </a>
   <sup>
-   3 GitHub links in total 57 links, ★ 432, pushed 1 days ago
-  </sup>
-  <sup>
    &#9733 432, pushed 1 days ago
   </sup>
  </li>
@@ -372,9 +369,6 @@
   <a href="https://github.com/ccoenraets/ionic2-realty">
    IonicRealty
   </a>
-  <sup>
-   3 GitHub links in total 57 links, ★ 90, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 90, pushed 28 days ago
   </sup>

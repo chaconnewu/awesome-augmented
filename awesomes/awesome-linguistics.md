@@ -76,25 +76,19 @@
   <a href="https://github.com/sexybiggetje/haxe-linguistics">
    Haxe-linguistics
   </a>
-  - Early linguistical analysis and natural language processing library for Haxe.
-  <sup>
-   2 GitHub links in total 33 links, ★ 11, pushed 120 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 120 days ago
   </sup>
+  - Early linguistical analysis and natural language processing library for Haxe.
  </li>
  <li>
   <a href="https://github.com/NaturalNode/natural">
    Natural
   </a>
-  - General natural language tools for Node.js.
-  <sup>
-   2 GitHub links in total 33 links, ★ 4656, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 4656, pushed 4 days ago
   </sup>
+  - General natural language tools for Node.js.
  </li>
  <li>
   <a href="http://www.nltk.org/">

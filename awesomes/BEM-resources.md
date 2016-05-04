@@ -261,9 +261,6 @@
    PostCSS BEM Linter
   </a>
   <sup>
-   5 GitHub links in total 54 links, ★ 227, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 227, pushed 2 days ago
   </sup>
  </li>
@@ -280,9 +277,6 @@
    BEM Constructor
   </a>
   <sup>
-   5 GitHub links in total 54 links, ★ 312, pushed 65 days ago
-  </sup>
-  <sup>
    &#9733 312, pushed 65 days ago
   </sup>
  </li>
@@ -290,9 +284,6 @@
   <a href="https://github.com/roikles/Wordpress-Bem-Menu">
    WordPress BEM Menu
   </a>
-  <sup>
-   5 GitHub links in total 54 links, ★ 54, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 75 days ago
   </sup>
@@ -354,9 +345,6 @@
   <a href="https://github.com/sindresorhus/awesome">
    A curated list of awesome lists - @sindresorhus
   </a>
-  <sup>
-   5 GitHub links in total 54 links, ★ 34522, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 34522, pushed 2 days ago
   </sup>

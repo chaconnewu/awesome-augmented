@@ -156,16 +156,13 @@
   <a href="https://github.com/aferrero2707/PhotoFlow">
    PhotoFlow
   </a>
+  <sup>
+   &#9733 72, pushed 2 days ago
+  </sup>
   -
   <em>
    A non-destructive photo retouching program including RAW image development.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 72, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 72, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.imagemagick.org/">
@@ -212,16 +209,13 @@
   <a href="https://github.com/KonradIT/autoexechack">
    Autoexec Hack
   </a>
+  <sup>
+   &#9733 288, pushed 90 days ago
+  </sup>
   -
   <em>
    Compilation of hacks for GoPro Cameras.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 288, pushed 90 days ago
-  </sup>
-  <sup>
-   &#9733 288, pushed 90 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.gh1-hack.info/">
@@ -253,31 +247,25 @@
   <a href="https://github.com/roxlu/ofxCanon">
    OfxCanon
   </a>
+  <sup>
+   &#9733 36, pushed 1642 days ago
+  </sup>
   -
   <em>
    OpenFrameworks addon for the Canon EDSK.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 36, pushed 1642 days ago
-  </sup>
-  <sup>
-   &#9733 36, pushed 1642 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kritzikratzi/edsdk4j">
    Edsdk4j
   </a>
+  <sup>
+   &#9733 39, pushed 326 days ago
+  </sup>
   -
   <em>
    Canon SDK for Java.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 39, pushed 326 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 326 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -288,61 +276,49 @@
   <a href="https://github.com/kschzt/gopro">
    GoPro
   </a>
+  <sup>
+   &#9733 114, pushed 1078 days ago
+  </sup>
   -
   <em>
    API for controlling GoPro Hero 3 Camera from Node.js.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 114, pushed 1078 days ago
-  </sup>
-  <sup>
-   &#9733 114, pushed 1078 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/DenisCarriere/gopro">
    GoPro
   </a>
+  <sup>
+   &#9733 41, pushed 382 days ago
+  </sup>
   -
   <em>
    GoPro Hero 4 - Python API.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 41, pushed 382 days ago
-  </sup>
-  <sup>
-   &#9733 41, pushed 382 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/joshvillbrandt/goprohero">
    GoPro
   </a>
+  <sup>
+   &#9733 170, pushed 475 days ago
+  </sup>
   -
   <em>
    a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 170, pushed 475 days ago
-  </sup>
-  <sup>
-   &#9733 170, pushed 475 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/r1pper/GoPro.Hero">
    GoPro.Hero
   </a>
+  <sup>
+   &#9733 37, pushed 783 days ago
+  </sup>
   -
   <em>
    a lightweight c# library to access and control GoPro HERO.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 37, pushed 782 days ago
-  </sup>
-  <sup>
-   &#9733 37, pushed 783 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -353,16 +329,13 @@
   <a href="https://github.com/storborg/sonypy">
    SonyPy
   </a>
+  <sup>
+   &#9733 6, pushed 862 days ago
+  </sup>
   -
   <em>
    Python module for Sony Camera Remote API.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 6, pushed 862 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 862 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -373,31 +346,25 @@
   <a href="https://github.com/ThibaudM/timelapse-sony">
    Timelapse-sony
   </a>
+  <sup>
+   &#9733 38, pushed 35 days ago
+  </sup>
   -
   <em>
    Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 38, pushed 35 days ago
-  </sup>
-  <sup>
-   &#9733 38, pushed 35 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/crazymaik/remoteyourcam-usb">
    Remoteyourcam-usb
   </a>
+  <sup>
+   &#9733 44, pushed 1045 days ago
+  </sup>
   -
   <em>
    Control your Canon or Nikon DSLR camera from your Android device through USB.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 44, pushed 1045 days ago
-  </sup>
-  <sup>
-   &#9733 44, pushed 1045 days ago
-  </sup>
  </li>
  <li>
   <a href="http://koken.me">
@@ -444,16 +411,13 @@
   <a href="https://github.com/rawstudio/rawstudio">
    Raw Studio
   </a>
+  <sup>
+   &#9733 23, pushed 66 days ago
+  </sup>
   -
   <em>
    Read and manipulate RAW images from digital cameras.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 23, pushed 66 days ago
-  </sup>
-  <sup>
-   &#9733 23, pushed 66 days ago
-  </sup>
  </li>
  <li>
   <a href="http://ufraw.sourceforge.net/">
@@ -500,16 +464,13 @@
   <a href="https://github.com/LuminanceHDR/LuminanceHDR">
    Luminance
   </a>
+  <sup>
+   &#9733 133, pushed 42 days ago
+  </sup>
   -
   <em>
    A complete workflow for HDR imaging
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 133, pushed 42 days ago
-  </sup>
-  <sup>
-   &#9733 133, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html">
@@ -742,31 +703,25 @@ record, convert and stream audio and video.
   <a href="https://github.com/MrKepzie/Natron">
    Natron
   </a>
+  <sup>
+   &#9733 570, pushed 2 days ago
+  </sup>
   -
   <em>
    A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 570, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 570, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/buttleofx/ButtleOFX">
    ButtleOFX
   </a>
+  <sup>
+   &#9733 57, pushed 94 days ago
+  </sup>
   -
   <em>
    A simple, user-friendly and open source compositing software.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 57, pushed 94 days ago
-  </sup>
-  <sup>
-   &#9733 57, pushed 94 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.blender.org/">
@@ -781,16 +736,13 @@ record, convert and stream audio and video.
   <a href="https://github.com/mltframework/shotcut">
    Shotcut
   </a>
+  <sup>
+   &#9733 825, pushed 2 days ago
+  </sup>
   -
   <em>
    A free, open source, cross-platform video editor.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 825, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 825, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -810,32 +762,26 @@ record, convert and stream audio and video.
   <a href="https://github.com/tuttleofx/TuttleOFX">
    TuttleOFX
   </a>
+  <sup>
+   &#9733 94, pushed 7 days ago
+  </sup>
   -
   <em>
    An image processing framework based on OpenFX plugin format.
   </em>
-  <sup>
-   18 GitHub links in total 79 links, ★ 94, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 94, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/georgmartius/vid.stab">
    Vid.stab
   </a>
+  <sup>
+   &#9733 131, pushed 125 days ago
+  </sup>
   -
   <em>
    A video stabilization library which can be plugged-in with Ffmpeg and Transcode
   </em>
   .
-  <sup>
-   18 GitHub links in total 79 links, ★ 131, pushed 125 days ago
-  </sup>
-  <sup>
-   &#9733 131, pushed 125 days ago
-  </sup>
  </li>
 </ul>
 <h2>

@@ -343,7 +343,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
   <a href="http://www.bostondynamics.com/">
    Boston Dynamics
   </a>
-  robotics R&D; company, creator of the state of the art
+  robotics R&D company, creator of the state of the art
   <a href="https://www.youtube.com/watch?v=rVlhMGQgDkY">
    Atlas
   </a>
@@ -471,9 +471,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Artificial Intelligence
   </a>
   <sup>
-   4 GitHub links in total 55 links, ★ 1518, pushed 27 days ago
-  </sup>
-  <sup>
    &#9733 1518, pushed 27 days ago
   </sup>
  </li>
@@ -481,9 +478,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals
   <a href="https://github.com/jbhuang0604/awesome-computer-vision">
    Awesome Computer Vision
   </a>
-  <sup>
-   4 GitHub links in total 55 links, ★ 1254, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1254, pushed 46 days ago
   </sup>
@@ -493,9 +487,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Machine Learning
   </a>
   <sup>
-   4 GitHub links in total 55 links, ★ 12665, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 12665, pushed 4 days ago
   </sup>
  </li>
@@ -503,9 +494,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals
   <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
    Awesome Deep Learning
   </a>
-  <sup>
-   4 GitHub links in total 55 links, ★ 1922, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1922, pushed 8 days ago
   </sup>

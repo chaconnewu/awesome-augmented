@@ -370,14 +370,11 @@
     <a href="https://github.com/SublimeText/LaTeXTools">
      LaTeXTools
     </a>
-    - Free LaTeX plugin for Sublime Text.
-    <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
-    <sup>
-     4 GitHub links in total 110 links, ★ 1172, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 1172, pushed 2 days ago
     </sup>
+    - Free LaTeX plugin for Sublime Text.
+    <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
    </li>
   </ul>
  </li>
@@ -422,14 +419,11 @@
     <a href="https://github.com/xuhdev/vim-latex-live-preview">
      LaTeX Live Preview
     </a>
-    - Instantly previews your LaTeX document.
-    <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
-    <sup>
-     4 GitHub links in total 110 links, ★ 127, pushed 48 days ago
-    </sup>
     <sup>
      &#9733 127, pushed 48 days ago
     </sup>
+    - Instantly previews your LaTeX document.
+    <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
    </li>
   </ul>
  </li>
@@ -597,16 +591,13 @@
   <a href="https://github.com/fredokun/TikZ-Editor">
    TikZ-Editor
   </a>
+  <sup>
+   &#9733 59, pushed 474 days ago
+  </sup>
   - Live-previewing editor for TikZ figures.
   <img alt="Mac" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg"/>
   <img alt="Linux" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg"/>
   <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
-  <sup>
-   4 GitHub links in total 110 links, ★ 59, pushed 474 days ago
-  </sup>
-  <sup>
-   &#9733 59, pushed 474 days ago
-  </sup>
  </li>
  <li>
   <a href="http://ipe.otfried.org">
@@ -920,10 +911,8 @@ Typically, it is easier to get to work with
   - StackExchange TeX section.
  </li>
 </ul>
-<p>
- <hr/>
- <!-- Icons -->
-</p>
+<hr/>
+<!-- Icons -->
 <h1>
  Meta Awesome-LaTeX
 </h1>

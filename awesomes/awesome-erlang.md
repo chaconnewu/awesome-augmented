@@ -226,13 +226,10 @@
   <a href="https://github.com/erlware/relx">
    relx
   </a>
-  - A release assembler for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 399, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 399, pushed 4 days ago
   </sup>
+  - A release assembler for Erlang.
  </li>
 </ul>
 <h2>
@@ -248,13 +245,10 @@
   <a href="https://github.com/heroku/stillir">
    stillir
   </a>
-  - Cache environment variables as Erlang app variables.
-  <sup>
-   70 GitHub links in total 114 links, ★ 18, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 8 days ago
   </sup>
+  - Cache environment variables as Erlang app variables.
  </li>
 </ul>
 <h2>
@@ -270,13 +264,10 @@
   <a href="https://github.com/inaka/elvis">
    elvis
   </a>
-  - Erlang Style Reviewer.
-  <sup>
-   70 GitHub links in total 114 links, ★ 180, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 180, pushed 26 days ago
   </sup>
+  - Erlang Style Reviewer.
  </li>
 </ul>
 <h2>
@@ -292,93 +283,72 @@
   <a href="https://github.com/tsujigiri/axiom">
    Axiom
   </a>
+  <sup>
+   &#9733 227, pushed 371 days ago
+  </sup>
   - A micro-framework, inspired by Ruby's
   <a href="https://github.com/sinatra/sinatra">
    Sinatra
   </a>
   .
-  <sup>
-   70 GitHub links in total 114 links, ★ 227, pushed 371 days ago
-  </sup>
-  <sup>
-   &#9733 227, pushed 371 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ChicagoBoss/ChicagoBoss">
    ChicagoBoss
   </a>
-  - A server framework inspired by Rails and written in Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 1561, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 1561, pushed 44 days ago
   </sup>
+  - A server framework inspired by Rails and written in Erlang.
  </li>
  <li>
   <a href="https://github.com/ninenines/cowboy">
    cowboy
   </a>
-  - A simple HTTP server.
-  <sup>
-   70 GitHub links in total 114 links, ★ 3131, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3131, pushed 3 days ago
   </sup>
+  - A simple HTTP server.
  </li>
  <li>
   <a href="https://github.com/kivra/giallo">
    Giallo
   </a>
+  <sup>
+   &#9733 62, pushed 1006 days ago
+  </sup>
   - A small and flexible web framework on top of
   <a href="https://github.com/ninenines/cowboy">
    Cowboy
   </a>
   .
-  <sup>
-   70 GitHub links in total 114 links, ★ 62, pushed 1006 days ago
-  </sup>
-  <sup>
-   &#9733 62, pushed 1006 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mochi/mochiweb">
    MochiWeb
   </a>
-  - An Erlang library for building lightweight HTTP servers.
-  <sup>
-   70 GitHub links in total 114 links, ★ 1367, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1367, pushed 6 days ago
   </sup>
+  - An Erlang library for building lightweight HTTP servers.
  </li>
  <li>
   <a href="https://github.com/synrc/n2o">
    N2O
   </a>
-  - WebSocket Application Server.
-  <sup>
-   70 GitHub links in total 114 links, ★ 928, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 928, pushed 20 days ago
   </sup>
+  - WebSocket Application Server.
  </li>
  <li>
   <a href="https://github.com/zotonic/zotonic">
    Zotonic
   </a>
-  - High speed, real-time web framework and content management system.
-  <sup>
-   70 GitHub links in total 114 links, ★ 436, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 436, pushed 2 days ago
   </sup>
+  - High speed, real-time web framework and content management system.
  </li>
 </ul>
 <h2>
@@ -394,13 +364,10 @@
   <a href="https://github.com/ChicagoBoss/cb_admin">
    cb_admin
   </a>
-  - An admin interface for Chicago Boss.
-  <sup>
-   70 GitHub links in total 114 links, ★ 74, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 74, pushed 69 days ago
   </sup>
+  - An admin interface for Chicago Boss.
  </li>
  <li>
   <a href="https://github.com/dkuhlman/cb_websocket_controller">
@@ -410,25 +377,19 @@
    </em>
    controller
   </a>
-  - A template for implementing a Websocket controller for ChicagoBoss.
-  <sup>
-   70 GitHub links in total 114 links, ★ 7, pushed 1195 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 1195 days ago
   </sup>
+  - A template for implementing a Websocket controller for ChicagoBoss.
  </li>
  <li>
   <a href="https://github.com/kivra/giallo_session">
    giallo_session
   </a>
-  - A session management library for the Giallo web framework.
-  <sup>
-   70 GitHub links in total 114 links, ★ 10, pushed 839 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 839 days ago
   </sup>
+  - A session management library for the Giallo web framework.
  </li>
 </ul>
 <h2>
@@ -444,73 +405,55 @@
   <a href="https://github.com/ninenines/bullet">
    bullet
   </a>
-  - Simple, reliable, efficient streaming for Cowboy.
-  <sup>
-   70 GitHub links in total 114 links, ★ 256, pushed 81 days ago
-  </sup>
   <sup>
    &#9733 256, pushed 81 days ago
   </sup>
+  - Simple, reliable, efficient streaming for Cowboy.
  </li>
  <li>
   <a href="https://github.com/ninenines/gun">
    gun
   </a>
-  - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
-  <sup>
-   70 GitHub links in total 114 links, ★ 246, pushed 119 days ago
-  </sup>
   <sup>
    &#9733 246, pushed 119 days ago
   </sup>
+  - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
  </li>
  <li>
   <a href="https://github.com/benoitc/hackney">
    hackney
   </a>
-  - Simple HTTP client in Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 496, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 496, pushed 11 days ago
   </sup>
+  - Simple HTTP client in Erlang.
  </li>
  <li>
   <a href="https://github.com/cmullaparthi/ibrowse">
    ibrowse
   </a>
-  - Erlang HTTP client.
-  <sup>
-   70 GitHub links in total 114 links, ★ 410, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 410, pushed 13 days ago
   </sup>
+  - Erlang HTTP client.
  </li>
  <li>
   <a href="https://github.com/esl/lhttpc">
    lhttpc
   </a>
-  - A lightweight HTTP/1.1 client implemented in Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 109, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 109, pushed 49 days ago
   </sup>
+  - A lightweight HTTP/1.1 client implemented in Erlang.
  </li>
  <li>
   <a href="https://github.com/inaka/shotgun">
    shotgun
   </a>
-  - For the times you need more than just a gun.
-  <sup>
-   70 GitHub links in total 114 links, ★ 80, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 80, pushed 18 days ago
   </sup>
+  - For the times you need more than just a gun.
  </li>
 </ul>
 <h2>
@@ -526,25 +469,19 @@
   <a href="https://github.com/manopapad/proper">
    PropEr
   </a>
-  - A QuickCheck-inspired property-based testing tool for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 465, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 465, pushed 7 days ago
   </sup>
+  - A QuickCheck-inspired property-based testing tool for Erlang.
  </li>
  <li>
   <a href="https://github.com/esl/tracerl">
    tracerl
   </a>
-  - Dynamic tracing tests and utilities for Erlang/OTP
-  <sup>
-   70 GitHub links in total 114 links, ★ 15, pushed 642 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 642 days ago
   </sup>
+  - Dynamic tracing tests and utilities for Erlang/OTP
  </li>
 </ul>
 <h2>
@@ -560,13 +497,10 @@
   <a href="https://github.com/basho/lager">
    lager
   </a>
-  - A logging framework for Erlang/OTP.
-  <sup>
-   70 GitHub links in total 114 links, ★ 718, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 718, pushed 25 days ago
   </sup>
+  - A logging framework for Erlang/OTP.
  </li>
  <li>
   <a href="https://github.com/jbrisbin/lager_amqp_backend">
@@ -576,61 +510,46 @@
    </em>
    backend
   </a>
-  - AMQP RabbitMQ Lager backend.
-  <sup>
-   70 GitHub links in total 114 links, ★ 31, pushed 1481 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 1481 days ago
   </sup>
+  - AMQP RabbitMQ Lager backend.
  </li>
  <li>
   <a href="https://github.com/synlay/lager_hipchat">
    lager_hipchat
   </a>
-  - HipChat backend for lager.
-  <sup>
-   70 GitHub links in total 114 links, ★ 4, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 53 days ago
   </sup>
+  - HipChat backend for lager.
  </li>
  <li>
   <a href="https://github.com/kivra/lager_loggly">
    lager_loggly
   </a>
-  - Loggly backend for lager.
-  <sup>
-   70 GitHub links in total 114 links, ★ 15, pushed 235 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 235 days ago
   </sup>
+  - Loggly backend for lager.
  </li>
  <li>
   <a href="https://github.com/blinkov/lager_smtp">
    lager_smtp
   </a>
-  - SMTP backend for lager.
-  <sup>
-   70 GitHub links in total 114 links, ★ 11, pushed 1272 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 1272 days ago
   </sup>
+  - SMTP backend for lager.
  </li>
  <li>
   <a href="https://github.com/heroku/logplex">
    logplex
   </a>
-  - Heroku log router.
-  <sup>
-   70 GitHub links in total 114 links, ★ 682, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 682, pushed 42 days ago
   </sup>
+  - Heroku log router.
  </li>
 </ul>
 <h2>
@@ -646,77 +565,59 @@
   <a href="https://github.com/mazenharake/entop">
    entop
   </a>
-  - A top-like Erlang node monitoring tool.
-  <sup>
-   70 GitHub links in total 114 links, ★ 218, pushed 1181 days ago
-  </sup>
   <sup>
    &#9733 218, pushed 1181 days ago
   </sup>
+  - A top-like Erlang node monitoring tool.
  </li>
  <li>
   <a href="https://github.com/massemanet/eper">
    eper
   </a>
-  - A loose collection of Erlang Performance related tools.
-  <sup>
-   70 GitHub links in total 114 links, ★ 341, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 341, pushed 11 days ago
   </sup>
+  - A loose collection of Erlang Performance related tools.
  </li>
  <li>
   <a href="https://github.com/Feuerlabs/exometer">
    Exometer
   </a>
-  - An Erlang instrumentation package.
-  <sup>
-   70 GitHub links in total 114 links, ★ 308, pushed 85 days ago
-  </sup>
   <sup>
    &#9733 308, pushed 85 days ago
   </sup>
+  - An Erlang instrumentation package.
  </li>
  <li>
   <a href="https://github.com/boundary/folsom">
    folsom
   </a>
+  <sup>
+   &#9733 499, pushed 189 days ago
+  </sup>
   - An Erlang based metrics system inspired by Coda Hale's
   <a href="https://github.com/codahale/metrics">
    metrics
   </a>
   .
-  <sup>
-   70 GitHub links in total 114 links, ★ 499, pushed 189 days ago
-  </sup>
-  <sup>
-   &#9733 499, pushed 189 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lpgauth/statsderl">
    statsderl
   </a>
-  - A statsd Erlang client.
-  <sup>
-   70 GitHub links in total 114 links, ★ 61, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 61, pushed 21 days ago
   </sup>
+  - A statsd Erlang client.
  </li>
  <li>
   <a href="https://github.com/ferd/vmstats">
    vmstats
   </a>
-  - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
-  <sup>
-   70 GitHub links in total 114 links, ★ 102, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 102, pushed 29 days ago
   </sup>
+  - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
  </li>
 </ul>
 <h2>
@@ -732,25 +633,19 @@
   <a href="https://github.com/parapluu/Concuerror">
    Concuerror
   </a>
-  - Concuerror is a systematic testing tool for concurrent Erlang programs.
-  <sup>
-   70 GitHub links in total 114 links, ★ 64, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 3 days ago
   </sup>
+  - Concuerror is a systematic testing tool for concurrent Erlang programs.
  </li>
  <li>
   <a href="https://github.com/proger/eflame">
    eflame
   </a>
-  - A Flame Graph profiler for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 199, pushed 185 days ago
-  </sup>
   <sup>
    &#9733 199, pushed 185 days ago
   </sup>
+  - A Flame Graph profiler for Erlang.
  </li>
 </ul>
 <h2>
@@ -766,13 +661,10 @@
   <a href="https://github.com/rebar/rebar">
    rebar
   </a>
-  - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
-  <sup>
-   70 GitHub links in total 114 links, ★ 873, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 873, pushed 20 days ago
   </sup>
+  - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
  </li>
  <li>
   <a href="https://github.com/rebar/rebar3">
@@ -801,37 +693,28 @@
   <a href="https://github.com/armon/erl-rstar">
    erl-rstar
   </a>
-  - An Erlang implementation of the R*-tree spacial data structure.
-  <sup>
-   70 GitHub links in total 114 links, ★ 29, pushed 502 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 502 days ago
   </sup>
+  - An Erlang implementation of the R*-tree spacial data structure.
  </li>
  <li>
   <a href="https://github.com/couchbase/geocouch">
    GeoCouch
   </a>
-  - A spatial extension for Couchbase and Apache CouchDB.
-  <sup>
-   70 GitHub links in total 114 links, ★ 444, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 444, pushed 26 days ago
   </sup>
+  - A spatial extension for Couchbase and Apache CouchDB.
  </li>
  <li>
   <a href="https://github.com/armon/teles">
    Teles
   </a>
-  - An Erlang network service for manipulating geographic data.
-  <sup>
-   70 GitHub links in total 114 links, ★ 9, pushed 1153 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 1153 days ago
   </sup>
+  - An Erlang network service for manipulating geographic data.
  </li>
 </ul>
 <h2>
@@ -847,13 +730,10 @@
   <a href="https://github.com/kvakvs/tx">
    tx
   </a>
-  - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
-  <sup>
-   70 GitHub links in total 114 links, ★ 52, pushed 573 days ago
-  </sup>
   <sup>
    &#9733 52, pushed 573 days ago
   </sup>
+  - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
  </li>
 </ul>
 <h2>
@@ -869,13 +749,10 @@
   <a href="https://github.com/devinus/poolboy">
    poolboy
   </a>
-  - A hunky Erlang worker pool factory.
-  <sup>
-   70 GitHub links in total 114 links, ★ 677, pushed 106 days ago
-  </sup>
   <sup>
    &#9733 677, pushed 106 days ago
   </sup>
+  - A hunky Erlang worker pool factory.
  </li>
 </ul>
 <h2>
@@ -891,25 +768,19 @@
   <a href="https://github.com/dmitryme/erlang_localtime">
    erlang_localtime
   </a>
-  - Erlang library for conversion from one local time to another.
-  <sup>
-   70 GitHub links in total 114 links, ★ 36, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 36, pushed 7 days ago
   </sup>
+  - Erlang library for conversion from one local time to another.
  </li>
  <li>
   <a href="https://github.com/choptastic/qdate">
    qdate
   </a>
-  - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.
-  <sup>
-   70 GitHub links in total 114 links, ★ 143, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 143, pushed 13 days ago
   </sup>
+  - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.
  </li>
 </ul>
 <h2>
@@ -925,37 +796,28 @@
   <a href="https://github.com/ErlyORM/boss_db">
    boss_db
   </a>
-  - A sharded, caching, pooling, evented ORM for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 214, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 214, pushed 19 days ago
   </sup>
+  - A sharded, caching, pooling, evented ORM for Erlang.
  </li>
  <li>
   <a href="https://github.com/mysql-otp/mysql-otp">
    mysql-otp
   </a>
-  - MySQL/OTP – MySQL driver for Erlang/OTP.
-  <sup>
-   70 GitHub links in total 114 links, ★ 134, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 134, pushed 68 days ago
   </sup>
+  - MySQL/OTP – MySQL driver for Erlang/OTP.
  </li>
  <li>
   <a href="https://github.com/artemeff/pgsql_migration">
    pgsql_migration
   </a>
-  – PostgreSQL migrations for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 8, pushed 356 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 356 days ago
   </sup>
+  – PostgreSQL migrations for Erlang.
  </li>
 </ul>
 <h2>
@@ -971,49 +833,37 @@
   <a href="https://github.com/darach/dq">
    dq
   </a>
-  - Distributed Fault Tolerant Queue library.
-  <sup>
-   70 GitHub links in total 114 links, ★ 14, pushed 445 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 445 days ago
   </sup>
+  - Distributed Fault Tolerant Queue library.
  </li>
  <li>
   <a href="https://github.com/rgrinberg/ebqueue">
    ebqueue
   </a>
-  - Tiny simple blocking queue in erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 3, pushed 482 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 482 days ago
   </sup>
+  - Tiny simple blocking queue in erlang.
  </li>
  <li>
   <a href="https://github.com/okeuday/pqueue">
    pqueue
   </a>
-  - Erlang Priority Queues.
-  <sup>
-   70 GitHub links in total 114 links, ★ 66, pushed 132 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 132 days ago
   </sup>
+  - Erlang Priority Queues.
  </li>
  <li>
   <a href="https://github.com/ChicagoBoss/tinymq">
    tinymq
   </a>
-  - A diminutive, in-memory message queue for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 90, pushed 255 days ago
-  </sup>
   <sup>
    &#9733 90, pushed 255 days ago
   </sup>
+  - A diminutive, in-memory message queue for Erlang.
  </li>
 </ul>
 <h2>
@@ -1029,13 +879,10 @@
   <a href="https://github.com/kivra/oauth2">
    oauth2
   </a>
-  - Erlang Oauth2 implementation.
-  <sup>
-   70 GitHub links in total 114 links, ★ 157, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 157, pushed 13 days ago
   </sup>
+  - Erlang Oauth2 implementation.
  </li>
 </ul>
 <h2>
@@ -1051,61 +898,46 @@
   <a href="https://github.com/artemeff/eql">
    eql
   </a>
-  - Erlang with SQL or not.
-  <sup>
-   70 GitHub links in total 114 links, ★ 30, pushed 117 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 117 days ago
   </sup>
+  - Erlang with SQL or not.
  </li>
  <li>
   <a href="https://github.com/davisp/jiffy">
    jiffy
   </a>
-  - JSON NIFs for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 512, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 512, pushed 27 days ago
   </sup>
+  - JSON NIFs for Erlang.
  </li>
  <li>
   <a href="https://github.com/EduardSergeev/jsonrec">
    jsonrec
   </a>
-  - JSON encoder/decoder with the ability to map to records.
-  <sup>
-   70 GitHub links in total 114 links, ★ 13, pushed 629 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 629 days ago
   </sup>
+  - JSON encoder/decoder with the ability to map to records.
  </li>
  <li>
   <a href="https://github.com/talentdeficit/jsx">
    jsx
   </a>
-  - An erlang application for consuming, producing and manipulating json.
-  <sup>
-   70 GitHub links in total 114 links, ★ 455, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 455, pushed 39 days ago
   </sup>
+  - An erlang application for consuming, producing and manipulating json.
  </li>
  <li>
   <a href="https://github.com/artemeff/qsp">
    qsp
   </a>
-  - Enhanced query string parser for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 9, pushed 386 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 386 days ago
   </sup>
+  - Enhanced query string parser for Erlang.
  </li>
 </ul>
 <h2>
@@ -1121,13 +953,10 @@
   <a href="https://github.com/s1n4/leptus">
    leptus
   </a>
-  - Leptus is an Erlang REST framework that runs on top of cowboy.
-  <sup>
-   70 GitHub links in total 114 links, ★ 233, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 233, pushed 68 days ago
   </sup>
+  - Leptus is an Erlang REST framework that runs on top of cowboy.
  </li>
 </ul>
 <h2>
@@ -1151,25 +980,19 @@
   <a href="https://github.com/kivra/restclient">
    restc
   </a>
-  - An Erlang REST client
-  <sup>
-   70 GitHub links in total 114 links, ★ 50, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 50, pushed 57 days ago
   </sup>
+  - An Erlang REST client
  </li>
  <li>
   <a href="https://github.com/kivra/oauth2_client">
    oauth2c
   </a>
-  - An Erlang oAuth 2 client (uses restc)
-  <sup>
-   70 GitHub links in total 114 links, ★ 46, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 55 days ago
   </sup>
+  - An Erlang oAuth 2 client (uses restc)
  </li>
 </ul>
 <h2>
@@ -1188,85 +1011,61 @@
     tcp
    </em>
   </a>
-  - barrel
-  <sup>
-   70 GitHub links in total 114 links, ★ 77, pushed 280 days ago
-  </sup>
   <sup>
    &#9733 77, pushed 280 days ago
   </sup>
+  - barrel
  </li>
 </ul>
-<p>
- tcp is a generic TCP acceptor pool with low latency in Erlang.
- <li>
-  <a href="https://github.com/priestjim/gen_rpc">
-   gen
-   <em>
-    rpc
-   </em>
-  </a>
-  - A scalable RPC library for Erlang-VM based languages.
-  <sup>
-   70 GitHub links in total 114 links, &#9733 66, pushed 20 days ago
-  </sup>
-  <sup>
-   &#9733 66, pushed 20 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rpt/gen_tcp_server">
-   gen
-   <em>
-    tcp
-   </em>
-   server
-  </a>
-  - A library that takes the concept of gen
-  <sup>
-   &#9733 5, pushed 392 days ago
-  </sup>
- </li>
-</p>
-server and introduces the same mechanics for operating a TCP server.
-<sup>
- 70 GitHub links in total 114 links, &#9733 5, pushed 392 days ago
-</sup>
+tcp is a generic TCP acceptor pool with low latency in Erlang.
+<li>
+ <a href="https://github.com/priestjim/gen_rpc">
+  gen_rpc
+ </a>
+ <sup>
+  &#9733 66, pushed 20 days ago
+ </sup>
+ - A scalable RPC library for Erlang-VM based languages.
+</li>
+<li>
+ <a href="https://github.com/rpt/gen_tcp_server">
+  gen
+  <em>
+   tcp
+  </em>
+  server
+ </a>
+ <sup>
+  &#9733 5, pushed 392 days ago
+ </sup>
+ - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.
+</li>
 <li>
  <a href="https://github.com/gossiperl/gossiperl">
   gossiperl
  </a>
- - Language agnostic gossip middleware and message bus written in Erlang.
- <sup>
-  70 GitHub links in total 114 links, &#9733 29, pushed 330 days ago
- </sup>
  <sup>
   &#9733 29, pushed 330 days ago
  </sup>
+ - Language agnostic gossip middleware and message bus written in Erlang.
 </li>
 <li>
  <a href="https://github.com/benoitc/nat_upnp">
   nat_upnp
  </a>
- - Erlang library to map your internal port to an external using UNP IGD.
- <sup>
-  70 GitHub links in total 114 links, &#9733 32, pushed 69 days ago
- </sup>
  <sup>
   &#9733 32, pushed 69 days ago
  </sup>
+ - Erlang library to map your internal port to an external using UNP IGD.
 </li>
 <li>
  <a href="https://github.com/ninenines/ranch">
   ranch
  </a>
- - Socket acceptor pool for TCP protocols.
- <sup>
-  70 GitHub links in total 114 links, &#9733 563, pushed 11 days ago
- </sup>
  <sup>
   &#9733 563, pushed 11 days ago
  </sup>
+ - Socket acceptor pool for TCP protocols.
 </li>
 <h2>
  Algorithms and Datastructures
@@ -1281,37 +1080,28 @@ server and introduces the same mechanics for operating a TCP server.
   <a href="https://github.com/travelping/erlando">
    erlando
   </a>
-  - A set of syntax extensions like currying and monads for Erlang.
-  <sup>
-   70 GitHub links in total 114 links, ★ 1, pushed 617 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 617 days ago
   </sup>
+  - A set of syntax extensions like currying and monads for Erlang.
  </li>
  <li>
   <a href="https://github.com/mochi/statebox">
    statebox
   </a>
-  - Erlang state "monad" with merge/conflict-resolution capabilities.
-  <sup>
-   70 GitHub links in total 114 links, ★ 226, pushed 455 days ago
-  </sup>
   <sup>
    &#9733 226, pushed 455 days ago
   </sup>
+  - Erlang state "monad" with merge/conflict-resolution capabilities.
  </li>
  <li>
   <a href="https://github.com/basho/riak_dt">
    riak_dt
   </a>
-  - Erlang library of state based CRDTs.
-  <sup>
-   70 GitHub links in total 114 links, ★ 167, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 167, pushed 4 days ago
   </sup>
+  - Erlang library of state based CRDTs.
  </li>
 </ul>
 <h2>
@@ -1335,13 +1125,10 @@ server and introduces the same mechanics for operating a TCP server.
   <a href="https://github.com/ShoreTel-Inc/erld">
    erld
   </a>
-  - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
-  <sup>
-   70 GitHub links in total 114 links, ★ 172, pushed 208 days ago
-  </sup>
   <sup>
    &#9733 172, pushed 208 days ago
   </sup>
+  - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
  </li>
 </ul>
 <h1>

@@ -33,9 +33,6 @@
    Eddystone Protocol Specification & Tools
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 1872, pushed 2 days ago
-  </sup>
-  <sup>
    &#9733 1872, pushed 2 days ago
   </sup>
  </li>
@@ -351,9 +348,6 @@
    Google Glass & Beacons
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 4, pushed 588 days ago
-  </sup>
-  <sup>
    &#9733 4, pushed 588 days ago
   </sup>
  </li>
@@ -367,25 +361,19 @@
   <a href="https://github.com/panicinc/PunchClock">
    PunchClock
   </a>
-  An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
-  <sup>
-   24 GitHub links in total 109 links, ★ 1663, pushed 214 days ago
-  </sup>
   <sup>
    &#9733 1663, pushed 214 days ago
   </sup>
+  An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
  </li>
  <li>
   <a href="https://github.com/LocativeHQ/ios-app">
    The Geofancy iOS app
   </a>
-  Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
-  <sup>
-   24 GitHub links in total 109 links, ★ 156, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 156, pushed 9 days ago
   </sup>
+  Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
  </li>
  <li>
   <a href="http://launchhere.awwapps.com/">
@@ -416,13 +404,10 @@
   <a href="https://github.com/RadiusNetworks/scanbeacon-gem">
    ScanBeacon
   </a>
-  - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
-  <sup>
-   24 GitHub links in total 109 links, ★ 9, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 6 days ago
   </sup>
+  - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
  </li>
 </ul>
 <h1>
@@ -461,13 +446,10 @@
   <a href="https://github.com/nicktoumpelis/HiBeacons">
    HiBeacons
   </a>
-  A nice iBeacon demo app in Swift.
-  <sup>
-   24 GitHub links in total 109 links, ★ 992, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 992, pushed 32 days ago
   </sup>
+  A nice iBeacon demo app in Swift.
  </li>
  <li>
   <a href="https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/">
@@ -489,15 +471,12 @@
    Replicates detecting and broadcasting iBeacons in the background
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 330, pushed 143 days ago
-  </sup>
-  <sup>
    &#9733 330, pushed 143 days ago
   </sup>
  </li>
 </ul>
 <h2>
- Stackoverflow Q&A;
+ Stackoverflow Q&A
 </h2>
 <ul>
  <li>
@@ -548,25 +527,19 @@
   <a href="https://github.com/AltBeacon/android-beacon-library">
    Android beacon library based on AltBeacon.
   </a>
-  Use a custom beacon parser for iBeacon device compatibility.
-  <sup>
-   24 GitHub links in total 109 links, ★ 1101, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1101, pushed 1 days ago
   </sup>
+  Use a custom beacon parser for iBeacon device compatibility.
  </li>
  <li>
   <a href="https://github.com/m039/beacon-keeper">
    BeaconKeeper
   </a>
-  The simple library for locating iBeacons in background
-  <sup>
-   24 GitHub links in total 109 links, ★ 132, pushed 249 days ago
-  </sup>
   <sup>
    &#9733 132, pushed 249 days ago
   </sup>
+  The simple library for locating iBeacons in background
  </li>
  <li>
   <a href="http://blog.surecase.eu/androidbeaconpatterns/">
@@ -588,9 +561,6 @@
    BLE SDK for Android
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 118, pushed 62 days ago
-  </sup>
-  <sup>
    &#9733 118, pushed 62 days ago
   </sup>
  </li>
@@ -598,9 +568,6 @@
   <a href="https://github.com/alt236/Bluetooth-LE-Library---Android">
    Bluetooth LE Library for Android
   </a>
-  <sup>
-   24 GitHub links in total 109 links, ★ 411, pushed 73 days ago
-  </sup>
   <sup>
    &#9733 411, pushed 73 days ago
   </sup>
@@ -614,13 +581,10 @@
   <a href="https://github.com/justinodwyer/Beacon-Scanner-and-Logger">
    Beacon Scanner & Logger
   </a>
-  Android app that scans for BLE Beacons/iBeacons and logs the results to a file
-  <sup>
-   24 GitHub links in total 109 links, ★ 22, pushed 160 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 160 days ago
   </sup>
+  Android app that scans for BLE Beacons/iBeacons and logs the results to a file
  </li>
  <li>
   <a href="https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de">
@@ -639,7 +603,7 @@
  </li>
 </ul>
 <h2>
- Stackoverflow Q&A;
+ Stackoverflow Q&A
 </h2>
 <ul>
  <li>
@@ -657,9 +621,6 @@
    Cordova iBeacon Plugin
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 492, pushed 10 days ago
-  </sup>
-  <sup>
    &#9733 492, pushed 10 days ago
   </sup>
  </li>
@@ -672,9 +633,6 @@
   <a href="https://github.com/jbeuckm/TiBeacons">
    iBeacon advertising and scanning in a Titanium module
   </a>
-  <sup>
-   24 GitHub links in total 109 links, ★ 140, pushed 143 days ago
-  </sup>
   <sup>
    &#9733 140, pushed 143 days ago
   </sup>
@@ -689,9 +647,6 @@
    iBeacon Scanning Utility App for OSX
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 308, pushed 71 days ago
-  </sup>
-  <sup>
    &#9733 308, pushed 71 days ago
   </sup>
  </li>
@@ -700,9 +655,6 @@
    iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 126, pushed 531 days ago
-  </sup>
-  <sup>
    &#9733 126, pushed 531 days ago
   </sup>
  </li>
@@ -710,37 +662,28 @@
   <a href="https://github.com/mttrb/BeaconOSX">
    Beacon OSX
   </a>
-  - Mavericks as an iBeacon
-  <sup>
-   24 GitHub links in total 109 links, ★ 851, pushed 499 days ago
-  </sup>
   <sup>
    &#9733 851, pushed 499 days ago
   </sup>
+  - Mavericks as an iBeacon
  </li>
  <li>
   <a href="https://github.com/dermike/electron-physical-web-scan">
    Electron Physical Web Scan
   </a>
-  - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
-  <sup>
-   24 GitHub links in total 109 links, ★ 11, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 8 days ago
   </sup>
+  - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
  </li>
  <li>
   <a href="https://github.com/dermike/electron-slide-beacon">
    Electron Slide Beacon
   </a>
-  - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
-  <sup>
-   24 GitHub links in total 109 links, ★ 21, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 22 days ago
   </sup>
+  - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
  </li>
 </ul>
 <h1>
@@ -752,9 +695,6 @@
    A node.js BLE (Bluetooth low energy) central module
   </a>
   <sup>
-   24 GitHub links in total 109 links, ★ 983, pushed 9 days ago
-  </sup>
-  <sup>
    &#9733 983, pushed 9 days ago
   </sup>
  </li>
@@ -762,9 +702,6 @@
   <a href="https://github.com/sandeepmistry/bleno">
    A node.js module for implementing BLE (Bluetooth low energy) peripherals
   </a>
-  <sup>
-   24 GitHub links in total 109 links, ★ 650, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 650, pushed 2 days ago
   </sup>
@@ -835,9 +772,6 @@
   <a href="https://github.com/WebBluetoothCG/demos">
    Web Bluetooth Demos
   </a>
-  <sup>
-   24 GitHub links in total 109 links, ★ 66, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 1 days ago
   </sup>

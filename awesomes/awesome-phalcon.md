@@ -256,13 +256,10 @@
   <a href="https://github.com/calinrada/PhalconUserPlugin">
    PhalconUserPlugin
   </a>
-  - Plugin based on Vokuro ACL idea
-  <sup>
-   108 GitHub links in total 161 links, ★ 150, pushed 96 days ago
-  </sup>
   <sup>
    &#9733 150, pushed 96 days ago
   </sup>
+  - Plugin based on Vokuro ACL idea
  </li>
 </ul>
 <h2>
@@ -278,37 +275,28 @@
   <a href="https://github.com/phalcon/album-o-rama">
    Album O'Rama
   </a>
-  - Sample modular application for the Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 84, pushed 226 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 226 days ago
   </sup>
+  - Sample modular application for the Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/mruz/base-app">
    Base App
   </a>
-  - The base application in Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 68, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 68, pushed 7 days ago
   </sup>
+  - The base application in Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/phalcon/invo">
    INVO Application
   </a>
-  - Sample application for the Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 242, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 242, pushed 51 days ago
   </sup>
+  - Sample application for the Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/zxz054321/lightning/">
@@ -320,169 +308,127 @@
   <a href="https://github.com/phalcon/mvc">
    MVC
   </a>
-  - Examples of Phalcon MVC file structures
-  <sup>
-   108 GitHub links in total 161 links, ★ 413, pushed 179 days ago
-  </sup>
   <sup>
    &#9733 413, pushed 179 days ago
   </sup>
+  - Examples of Phalcon MVC file structures
  </li>
  <li>
   <a href="https://github.com/nexik/nest">
    nest
   </a>
-  - Phalcon SOLID Bootstrap for Rapid Application Development
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 829 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 829 days ago
   </sup>
+  - Phalcon SOLID Bootstrap for Rapid Application Development
  </li>
  <li>
   <a href="https://github.com/Swader/phalanx">
    phalanx
   </a>
-  - A starter app with Phalcon PHP Framework and Angular
-  <sup>
-   108 GitHub links in total 161 links, ★ 17, pushed 1055 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 1055 days ago
   </sup>
+  - A starter app with Phalcon PHP Framework and Angular
  </li>
  <li>
   <a href="https://github.com/mikegioia/phalcon-boilerplate">
    Phalcon Boilerplate
   </a>
-  - Template for building large-scale Phalcon Applications
-  <sup>
-   108 GitHub links in total 161 links, ★ 65, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 65, pushed 75 days ago
   </sup>
+  - Template for building large-scale Phalcon Applications
  </li>
  <li>
   <a href="https://github.com/eristoddle/phalcon-gumby2-experiment">
    Phalcon Framework App
   </a>
-  - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 965 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 965 days ago
   </sup>
+  - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
  </li>
  <li>
   <a href="https://github.com/zekiunal/PhalconHMVCSkeletonApplication">
    Phalcon HMVC Skeleton
   </a>
-  - Phalcon HMVC Skeleton with Mustache
-  <sup>
-   108 GitHub links in total 161 links, ★ 7, pushed 125 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 125 days ago
   </sup>
+  - Phalcon HMVC Skeleton with Mustache
  </li>
  <li>
   <a href="https://github.com/nguyenducduy/phalcon-jumpstart">
    Phalcon Jumpstart
   </a>
-  - Fast development web apps with CRUD code generator
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 171 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 171 days ago
   </sup>
+  - Fast development web apps with CRUD code generator
  </li>
  <li>
   <a href="https://github.com/ovr/phalcon-module-skeleton">
    Phalcon Module Skeleton
   </a>
-  - Application template for building beauty applications on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 118, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 118, pushed 102 days ago
   </sup>
+  - Application template for building beauty applications on Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/oleksandr-torosh/phalcon-skeleton">
    phalcon-skeleton
   </a>
-  - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
-  <sup>
-   108 GitHub links in total 161 links, ★ 15, pushed 628 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 628 days ago
   </sup>
+  - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
  </li>
  <li>
   <a href="https://github.com/zhegwood/phalcon.angular.bootstrap">
    phalcon.angular.bootstrap
   </a>
-  - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
-  <sup>
-   108 GitHub links in total 161 links, ★ 8, pushed 201 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 201 days ago
   </sup>
+  - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
  </li>
  <li>
   <a href="https://github.com/ewartx/PhalconPHP-Setup-Example">
    PhalconPHP-Setup-Example
   </a>
-  - Phalcon PHP Framework + Grunt + Composer + Bower
-  <sup>
-   108 GitHub links in total 161 links, ★ 13, pushed 591 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 591 days ago
   </sup>
+  - Phalcon PHP Framework + Grunt + Composer + Bower
  </li>
  <li>
   <a href="https://github.com/phalconslayer/slayer">
    Slayer
   </a>
-  - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
-  <sup>
-   108 GitHub links in total 161 links, ★ 39, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 5 days ago
   </sup>
+  - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
  </li>
  <li>
   <a href="https://github.com/phalcon/vokuro">
    Vökuró
   </a>
-  - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
-  <sup>
-   108 GitHub links in total 161 links, ★ 228, pushed 101 days ago
-  </sup>
   <sup>
    &#9733 228, pushed 101 days ago
   </sup>
+  - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
  </li>
  <li>
   <a href="https://github.com/perchlayer/webird">
    Webird
   </a>
-  - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-  <sup>
-   108 GitHub links in total 161 links, ★ 44, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 5 days ago
   </sup>
+  - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
  </li>
 </ul>
 <h2>
@@ -498,28 +444,22 @@
   <a href="https://github.com/SidRoberts/phalcon-authmiddleware">
    phalcon-authmiddleware
   </a>
-  - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 69 days ago
   </sup>
+  - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
  </li>
  <li>
   <a href="https://github.com/nueko/phalcon-oauth2-server">
    phalcon-oauth2-server
   </a>
+  <sup>
+   &#9733 61, pushed 96 days ago
+  </sup>
   - Phalcon wrapper for oAuth2
   <a href="https://github.com/thephpleague/oauth2-server">
    thephpleague/oauth2-server
   </a>
-  <sup>
-   108 GitHub links in total 161 links, ★ 61, pushed 96 days ago
-  </sup>
-  <sup>
-   &#9733 61, pushed 96 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -535,76 +475,58 @@
   <a href="https://github.com/duythien/blog">
    blog
   </a>
-  - Blog project with multi-lingual support
-  <sup>
-   108 GitHub links in total 161 links, ★ 25, pushed 329 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 329 days ago
   </sup>
+  - Blog project with multi-lingual support
  </li>
  <li>
   <a href="https://github.com/monocasual/giada-www">
    giada-www
   </a>
+  <sup>
+   &#9733 6, pushed 58 days ago
+  </sup>
   - Official website of
   <a href="http://www.giadamusic.com">
    Giada Loop Machine
   </a>
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 58 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 58 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eristoddle/phalconBlog">
    phalconBlog
   </a>
-  - A blog using the Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 17, pushed 614 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 614 days ago
   </sup>
+  - A blog using the Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/PhalconEye/cms">
    PhalconEye
   </a>
-  - PhalconEye CMS
-  <sup>
-   108 GitHub links in total 161 links, ★ 423, pushed 383 days ago
-  </sup>
   <sup>
    &#9733 423, pushed 383 days ago
   </sup>
+  - PhalconEye CMS
  </li>
  <li>
   <a href="https://github.com/yuriygr/skopy">
    Skopy Blog Engine
   </a>
-  - A simple blog engine for those who want to start learning Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 9 days ago
   </sup>
+  - A simple blog engine for those who want to start learning Phalcon
  </li>
  <li>
   <a href="https://github.com/adamdama/Talon">
    Talon
   </a>
-  - CMS built on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 8, pushed 587 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 587 days ago
   </sup>
+  - CMS built on Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/vegas-cmf">
@@ -616,13 +538,10 @@
   <a href="https://github.com/oleksandr-torosh/yona-cms">
    Yona CMS
   </a>
-  - CMS based on Phalcon PHP Framework with modular structure
-  <sup>
-   108 GitHub links in total 161 links, ★ 210, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 210, pushed 4 days ago
   </sup>
+  - CMS based on Phalcon PHP Framework with modular structure
  </li>
 </ul>
 <h2>
@@ -638,49 +557,37 @@
   <a href="https://github.com/viebig/phalcon-console">
    phalcon-console
   </a>
-  - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 278 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 278 days ago
   </sup>
+  - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/SidRoberts/phalcon-cron">
    phalcon-cron
   </a>
-  - Cron component for Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 32, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 69 days ago
   </sup>
+  - Cron component for Phalcon
  </li>
  <li>
   <a href="https://github.com/temafey/phalcon_cron">
    phalcon_cron
   </a>
-  - Cron manager library based on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 10, pushed 439 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 439 days ago
   </sup>
+  - Cron manager library based on Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/jeteokeeffe/php-cli-app-phalcon">
    php-cli-app-phalcon
   </a>
-  - Command Line Application built using Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 40, pushed 339 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 339 days ago
   </sup>
+  - Command Line Application built using Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -696,13 +603,10 @@
   <a href="https://github.com/phalcon/dasshy">
    dasshy
   </a>
-  - Statistics dashboard with Mongo/Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 25, pushed 329 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 329 days ago
   </sup>
+  - Statistics dashboard with Mongo/Phalcon
  </li>
 </ul>
 <h2>
@@ -718,69 +622,54 @@
   <a href="https://github.com/jymboche/phalcon-debug-widget">
    PDW
   </a>
-  - Frontend Debugger for Phalcon Applications
-  <sup>
-   108 GitHub links in total 161 links, ★ 91, pushed 235 days ago
-  </sup>
   <sup>
    &#9733 91, pushed 235 days ago
   </sup>
+  - Frontend Debugger for Phalcon Applications
  </li>
  <li>
   <a href="https://github.com/vanchelo/phalcon-console">
    Phalcon Console
   </a>
-  - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
-  <sup>
-   108 GitHub links in total 161 links, ★ 14, pushed 199 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 199 days ago
   </sup>
+  - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
  </li>
  <li>
   <a href="https://github.com/snowair/phalcon-debugbar">
    Phalcon Debugbar
   </a>
+  <sup>
+   &#9733 75, pushed 94 days ago
+  </sup>
   - Integrates
   <a href="http://phpdebugbar.com">
    PHP Debug Bar
   </a>
   with Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 75, pushed 94 days ago
-  </sup>
-  <sup>
-   &#9733 75, pushed 94 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/whoops-php/phalcon">
    Phalcon Whoops
   </a>
+  <sup>
+   &#9733 3, pushed 105 days ago
+  </sup>
   - Integrating
   <a href="http://filp.github.io/whoops/">
    Whoops
   </a>
   with Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 105 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 105 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fabfuel/prophiler">
    Prophiler
   </a>
-  - PHP Profiler & Developer Toolbar (built for Phalcon)
-  <sup>
-   108 GitHub links in total 161 links, ★ 345, pushed 165 days ago
-  </sup>
   <sup>
    &#9733 345, pushed 165 days ago
   </sup>
+  - PHP Profiler & Developer Toolbar (built for Phalcon)
  </li>
 </ul>
 <h2>
@@ -796,37 +685,28 @@
   <a href="https://github.com/JimmDiGrizli/phalcon-autoload-services">
    phalcon-autoload-services
   </a>
-  - Components for automatic registration services in Dependency Injection
-  <sup>
-   108 GitHub links in total 161 links, ★ 14, pushed 446 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 446 days ago
   </sup>
+  - Components for automatic registration services in Dependency Injection
  </li>
  <li>
   <a href="https://github.com/serebro/phalcon-service-loader">
    phalcon-service-loader
   </a>
-  - Service loader for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 19, pushed 314 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 314 days ago
   </sup>
+  - Service loader for Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/phalette/pidic">
    pidic
   </a>
-  - Nette Dependency Injection/Container for Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 2, pushed 219 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 219 days ago
   </sup>
+  - Nette Dependency Injection/Container for Phalcon
  </li>
 </ul>
 <h2>
@@ -842,25 +722,19 @@
   <a href="https://github.com/philippgerard/kolibri">
    kolibri
   </a>
-  - A Phalcon based wiki software with simplicity in mind
-  <sup>
-   108 GitHub links in total 161 links, ★ 8, pushed 74 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 74 days ago
   </sup>
+  - A Phalcon based wiki software with simplicity in mind
  </li>
  <li>
   <a href="https://github.com/Riu/phaldoc">
    phaldoc
   </a>
-  - Create, translate and control changes in documentation for Phalcon & others projects
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 300 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 300 days ago
   </sup>
+  - Create, translate and control changes in documentation for Phalcon & others projects
  </li>
 </ul>
 <h2>
@@ -876,13 +750,10 @@
   <a href="https://github.com/wandersonwhcr/phact">
    Phact
   </a>
-  -  A Simple Event Propagation with Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 8, pushed 586 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 586 days ago
   </sup>
+  -  A Simple Event Propagation with Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -898,13 +769,10 @@
   <a href="https://github.com/phalcon/pretty-exceptions">
    Pretty Exceptions
   </a>
-  - Utility to show exceptions/errors/warnings/notices using a nicely visualization.
-  <sup>
-   108 GitHub links in total 161 links, ★ 54, pushed 507 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 507 days ago
   </sup>
+  - Utility to show exceptions/errors/warnings/notices using a nicely visualization.
  </li>
 </ul>
 <h2>
@@ -920,53 +788,41 @@
   <a href="https://github.com/JREAM/phalcon-preserve-post">
    Phalcon Preserve Post
   </a>
+  <sup>
+   &#9733 2, pushed 777 days ago
+  </sup>
   - Preserve Form Data after a
   <code>
    POST
   </code>
   and redirect
-  <sup>
-   108 GitHub links in total 161 links, ★ 2, pushed 777 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 777 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Michal-St/phalcon-form-decorators">
    phalcon-form-decorators
   </a>
-  - Form decorators to Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 635 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 635 days ago
   </sup>
+  - Form decorators to Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/Zheness/phalconCssForm">
    phalconCssForm
   </a>
-  - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
-  <sup>
-   108 GitHub links in total 161 links, ★ 2, pushed 339 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 339 days ago
   </sup>
+  - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
  </li>
  <li>
   <a href="https://github.com/encodez/superform">
    Superform
   </a>
-  - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
-  <sup>
-   108 GitHub links in total 161 links, ★ 4, pushed 358 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 358 days ago
   </sup>
+  - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
  </li>
 </ul>
 <h2>
@@ -982,28 +838,22 @@
   <a href="https://github.com/stanislav-web/phalcon-translate">
    Phalcon Translate Service
   </a>
-  - Phalcon Translate Service. Simple way to translate your custom part of templates
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 286 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 286 days ago
   </sup>
+  - Phalcon Translate Service. Simple way to translate your custom part of templates
  </li>
  <li>
   <a href="https://github.com/perchlayer/xgettext-webird">
    xgettext-volt
   </a>
+  <sup>
+   &#9733 1, pushed 172 days ago
+  </sup>
   - Get translatable strings from templates into
   <a href="https://poedit.net/">
    Poedit
   </a>
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 172 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 172 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1019,17 +869,14 @@
   <a href="https://github.com/sergeyklay/phalcon-logentries">
    phalcon-logentries
   </a>
+  <sup>
+   &#9733 5, pushed 178 days ago
+  </sup>
   - Sends log messages to the
   <a href="https://logentries.com/">
    Logentries
   </a>
   log management service
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 178 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 178 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1045,25 +892,19 @@
   <a href="https://github.com/vanchelo/phalcon-mailer">
    Phalcon Mailer
   </a>
-  - Phalcon Mailer Service
-  <sup>
-   108 GitHub links in total 161 links, ★ 36, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 36, pushed 14 days ago
   </sup>
+  - Phalcon Mailer Service
  </li>
  <li>
   <a href="https://github.com/phalcon-ext/mailer">
    Phalcon Mailer
   </a>
-  - Mailer component wrapper over SwiftMailer for Phalcon Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 19, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 62 days ago
   </sup>
+  - Mailer component wrapper over SwiftMailer for Phalcon Framework
  </li>
  <li>
   <a href="https://bitbucket.org/tartan/phalconphp-mandrill">
@@ -1075,13 +916,10 @@
   <a href="https://github.com/duythien/sendmail">
    sendmail
   </a>
-  - Sending Confirmation Emails with Phalcon PHP Framework and Swift
-  <sup>
-   108 GitHub links in total 161 links, ★ 7, pushed 321 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 321 days ago
   </sup>
+  - Sending Confirmation Emails with Phalcon PHP Framework and Swift
  </li>
 </ul>
 <h2>
@@ -1097,25 +935,19 @@
   <a href="https://github.com/nohatssir/nova">
    nova
   </a>
-  - A media manager project in PHP and Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 248 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 248 days ago
   </sup>
+  - A media manager project in PHP and Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/stanislav-web/phalcon-uploader">
    Phalcon File Uploader
   </a>
-  - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
-  <sup>
-   108 GitHub links in total 161 links, ★ 46, pushed 228 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 228 days ago
   </sup>
+  - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
  </li>
 </ul>
 <h2>
@@ -1131,97 +963,73 @@
   <a href="https://github.com/phalcongelist/breadcrumbs">
    Breadcrumbs
   </a>
-  - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
-  <sup>
-   108 GitHub links in total 161 links, ★ 14, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 38 days ago
   </sup>
+  - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
  </li>
  <li>
   <a href="https://github.com/phalcon/incubator">
    Incubator
   </a>
-  - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 474, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 474, pushed 13 days ago
   </sup>
+  - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/Codeception/phalcon-demo">
    phalcon-demo
   </a>
-  - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
-  <sup>
-   108 GitHub links in total 161 links, ★ 4, pushed 106 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 106 days ago
   </sup>
+  - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
  </li>
  <li>
   <a href="https://github.com/pavlosadovyi/phalcon-recaptcha">
    phalcon-recaptcha
   </a>
-  - Minimalist wrapper with which you can easily integrate reCAPTCHA
-  <sup>
-   108 GitHub links in total 161 links, ★ 33, pushed 1089 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 1089 days ago
   </sup>
+  - Minimalist wrapper with which you can easily integrate reCAPTCHA
  </li>
  <li>
   <a href="https://github.com/serebro/phalcon-widget">
    phalcon-widget
   </a>
-  - Widgets for Phalcon apps
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 349 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 349 days ago
   </sup>
+  - Widgets for Phalcon apps
  </li>
  <li>
   <a href="https://github.com/touhonoob/PhalconBlacklist">
    PhalconBlacklist
   </a>
-  - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
-  <sup>
-   108 GitHub links in total 161 links, ★ 2, pushed 170 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 170 days ago
   </sup>
+  - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
  </li>
  <li>
   <a href="https://github.com/touhonoob/PhalconPoll">
    PhalconPoll
   </a>
-  - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 349 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 349 days ago
   </sup>
+  - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
  </li>
  <li>
   <a href="https://github.com/ovr/phalcony">
    Phalcony
   </a>
-  - Library for expansion the base functional of Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 19, pushed 314 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 314 days ago
   </sup>
+  - Library for expansion the base functional of Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -1237,13 +1045,10 @@
   <a href="https://github.com/theDisco/phalcon-expressive">
    phalcon-expressive
   </a>
-  - Phalcon 2 integration for Zend Expressive
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 127 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 127 days ago
   </sup>
+  - Phalcon 2 integration for Zend Expressive
  </li>
 </ul>
 <h2>
@@ -1259,37 +1064,28 @@
   <a href="https://github.com/SidRoberts/phalcon-boundmodels">
    phalcon-boundmodels
   </a>
-  - Automatically get models based on dispatcher parameters within the Phalcon framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 46 days ago
   </sup>
+  - Automatically get models based on dispatcher parameters within the Phalcon framework
  </li>
  <li>
   <a href="https://github.com/fishjerky/phalcon-mssql">
    phalcon-mssql
   </a>
-  - A Phalcon PHP Framework MSSQL PDO db adapter
-  <sup>
-   108 GitHub links in total 161 links, ★ 13, pushed 299 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 299 days ago
   </sup>
+  - A Phalcon PHP Framework MSSQL PDO db adapter
  </li>
  <li>
   <a href="https://github.com/SidRoberts/phalcon-seeder">
    phalcon-seeder
   </a>
-  - Database seeder component for Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 8, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 69 days ago
   </sup>
+  - Database seeder component for Phalcon
  </li>
 </ul>
 <h2>
@@ -1305,121 +1101,91 @@
   <a href="https://github.com/stanislav-web/Phalcon-development">
    Phalcon Development Boards
   </a>
-  - An example development of the REST application by Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 13, pushed 63 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 63 days ago
   </sup>
+  - An example development of the REST application by Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/redound/phalcon-rest">
    Phalcon REST
   </a>
-  - Phalcon REST Library
-  <sup>
-   108 GitHub links in total 161 links, ★ 42, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 11 days ago
   </sup>
+  - Phalcon REST Library
  </li>
  <li>
   <a href="https://github.com/praswicaksono/phalcon-restful-webservice">
    Phalcon Restful Webservice
   </a>
-  - Base project for creating powerful webservice based on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 46, pushed 278 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 278 days ago
   </sup>
+  - Base project for creating powerful webservice based on Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/goors/phalcon-api-oauth2">
    phalcon-api-ouath2
   </a>
-  - Full Phalcon REST API example with is own OAuth2 server
-  <sup>
-   108 GitHub links in total 161 links, ★ 21, pushed 652 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 652 days ago
   </sup>
+  - Full Phalcon REST API example with is own OAuth2 server
  </li>
  <li>
   <a href="https://github.com/redound/phalcon-rest-boilerplate">
    phalcon-rest-boilerplate
   </a>
-  - Phalcon REST Boilerplate
-  <sup>
-   108 GitHub links in total 161 links, ★ 45, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 45, pushed 19 days ago
   </sup>
+  - Phalcon REST Boilerplate
  </li>
  <li>
   <a href="https://github.com/cmoore4/phalcon-rest">
    PhalconRest
   </a>
-  - A Base project for APIs using the Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 175, pushed 93 days ago
-  </sup>
   <sup>
    &#9733 175, pushed 93 days ago
   </sup>
+  - A Base project for APIs using the Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/ovide/phest">
    phest
   </a>
-  - REST API library for Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 25, pushed 173 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 173 days ago
   </sup>
+  - REST API library for Phalcon
  </li>
  <li>
   <a href="https://github.com/jeteokeeffe/php-hmac-rest-api">
    php-hmac-rest-api
   </a>
-  - PHP HMAC Restful API that uses Phalcon Micro Application
-  <sup>
-   108 GitHub links in total 161 links, ★ 135, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 135, pushed 13 days ago
   </sup>
+  - PHP HMAC Restful API that uses Phalcon Micro Application
  </li>
  <li>
   <a href="https://github.com/phrest/api">
    PhREST API
   </a>
-  - Phalcon PHP Framework REST API Package
-  <sup>
-   108 GitHub links in total 161 links, ★ 22, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 41 days ago
   </sup>
+  - Phalcon PHP Framework REST API Package
  </li>
  <li>
   <a href="https://github.com/michaelkrone/rest-seed">
    rest-seed
   </a>
-  - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
-  <sup>
-   108 GitHub links in total 161 links, ★ 4, pushed 868 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 868 days ago
   </sup>
+  - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
  </li>
 </ul>
 <h2>
@@ -1435,13 +1201,10 @@
   <a href="https://github.com/softdream/Phalcon-autorouter">
    Phalcon-autorouter
   </a>
-  - Simple way to auto load modules without complicate definition of routes
-  <sup>
-   108 GitHub links in total 161 links, ★ 25, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 4 days ago
   </sup>
+  - Simple way to auto load modules without complicate definition of routes
  </li>
 </ul>
 <h2>
@@ -1457,25 +1220,19 @@
   <a href="https://github.com/michaelkrone/generator-phalcon">
    generator-phalcon
   </a>
-  - Yeoman generator for Phalcon Multi-Module Applications
-  <sup>
-   108 GitHub links in total 161 links, ★ 33, pushed 832 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 832 days ago
   </sup>
+  - Yeoman generator for Phalcon Multi-Module Applications
  </li>
  <li>
   <a href="https://github.com/JimmDiGrizli/phalcon-bootstrap">
    phalcon-bootstrap
   </a>
-  - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 17, pushed 446 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 446 days ago
   </sup>
+  - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -1491,49 +1248,37 @@
   <a href="https://github.com/SidRoberts/phalcon-elasticsearchindexer">
    ElasticsearchIndexer
   </a>
-  - Elasticsearch indexer component for Phalcon
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 69 days ago
   </sup>
+  - Elasticsearch indexer component for Phalcon
  </li>
  <li>
   <a href="https://github.com/m1ome/phalcon-datatables">
    phalcon-datatables
   </a>
-  - Phalcon adapter for DataTables
-  <sup>
-   108 GitHub links in total 161 links, ★ 30, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 75 days ago
   </sup>
+  - Phalcon adapter for DataTables
  </li>
  <li>
   <a href="https://github.com/ovr/phalcon-elasticsearch">
    phalcon-elasticsearch
   </a>
-  - Phalcon + Elastic
-  <sup>
-   108 GitHub links in total 161 links, ★ 19, pushed 433 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 433 days ago
   </sup>
+  - Phalcon + Elastic
  </li>
  <li>
   <a href="https://github.com/stanislav-web/Searcher">
    Searcher
   </a>
-  - Database searcher for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 22, pushed 448 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 448 days ago
   </sup>
+  - Database searcher for Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -1549,25 +1294,19 @@
   <a href="https://github.com/uno-de-piera/phalcon_cart">
    phalcon_cart
   </a>
-  - Complete cart system for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 13, pushed 337 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 337 days ago
   </sup>
+  - Complete cart system for Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/chaban/phasty">
    phasty
   </a>
-  - Shopping Cart on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 10, pushed 232 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 232 days ago
   </sup>
+  - Shopping Cart on Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -1583,13 +1322,10 @@
   <a href="https://github.com/stanislav-web/phalcon-sms-factory">
    Multiple SMS Sender factory
   </a>
-  - Phalcon SMS Factory
-  <sup>
-   108 GitHub links in total 161 links, ★ 22, pushed 313 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 313 days ago
   </sup>
+  - Phalcon SMS Factory
  </li>
 </ul>
 <h2>
@@ -1605,25 +1341,19 @@
   <a href="https://github.com/sintsov/phalcon-chat">
    phalcon-chat
   </a>
-  - Sample classic chat development using Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 665 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 665 days ago
   </sup>
+  - Sample classic chat development using Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/duythien/phalcon-tip">
    phalcon-tip
   </a>
-  - The source for code Phalcon Tip website
-  <sup>
-   108 GitHub links in total 161 links, ★ 14, pushed 155 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 155 days ago
   </sup>
+  - The source for code Phalcon Tip website
  </li>
  <li>
   <a href="https://github.com/phanbook/phanbook/">
@@ -1635,13 +1365,10 @@
   <a href="https://github.com/phalcon/forum">
    Phosphorum
   </a>
-  - The source for official Phalcon Forum
-  <sup>
-   108 GitHub links in total 161 links, ★ 240, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 240, pushed 38 days ago
   </sup>
+  - The source for official Phalcon Forum
  </li>
 </ul>
 <h2>
@@ -1657,25 +1384,19 @@
   <a href="https://github.com/kylekatarnls/jade-phalcon">
    jade-phalcon
   </a>
-  - Jade Template Engine for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 146 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 146 days ago
   </sup>
+  - Jade Template Engine for Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/racztiborzoltan/phalcon-xslt-view-engine">
    phalcon-xslt-view-engine
   </a>
-  - Adapter to use XSLT as templating engine for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 46 days ago
   </sup>
+  - Adapter to use XSLT as templating engine for Phalcon PHP Framework
  </li>
 </ul>
 <h2>
@@ -1691,49 +1412,37 @@
   <a href="https://github.com/renatoneto/phalcon-validators">
    Phalcon Validators
   </a>
-  - Extra validators for Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 2, pushed 893 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 893 days ago
   </sup>
+  - Extra validators for Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/tomi20v/phalswag">
    phalswag
   </a>
-  - Validate request input against swagger config in Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 102 days ago
   </sup>
+  - Validate request input against swagger config in Phalcon PHP Framework
  </li>
  <li>
   <a href="https://github.com/progsmile/request-validator">
    PHP Request Validator
   </a>
-  - Easy PHP validation with the Phalcon support
-  <sup>
-   108 GitHub links in total 161 links, ★ 14, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 35 days ago
   </sup>
+  - Easy PHP validation with the Phalcon support
  </li>
  <li>
   <a href="https://github.com/zVPS/zvps-phalcon-validators">
    zvps-phalcon-validators
   </a>
-  - Additional form and data validators extending the inbuilt Phalcon validate interface
-  <sup>
-   108 GitHub links in total 161 links, ★ 1, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 46 days ago
   </sup>
+  - Additional form and data validators extending the inbuilt Phalcon validate interface
  </li>
 </ul>
 <h2>
@@ -1749,25 +1458,19 @@
   <a href="https://github.com/mrspartak/phalconPasswordManager">
    Password Manager
   </a>
-  - Password manager for selfuse
-  <sup>
-   108 GitHub links in total 161 links, ★ 6, pushed 697 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 697 days ago
   </sup>
+  - Password manager for selfuse
  </li>
  <li>
   <a href="https://github.com/blackbunny/Url-Shortener">
    URL-Shortener
   </a>
-  - Simple Fast Url-Shortener application
-  <sup>
-   108 GitHub links in total 161 links, ★ 25, pushed 742 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 742 days ago
   </sup>
+  - Simple Fast Url-Shortener application
  </li>
 </ul>
 <h1>
@@ -1778,61 +1481,46 @@
   <a href="https://github.com/sarrubia/ansible-phalcon-role">
    ansible-phalcon-role
   </a>
-  - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
-  <sup>
-   108 GitHub links in total 161 links, ★ 0, pushed 422 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 422 days ago
   </sup>
+  - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
  </li>
  <li>
   <a href="https://github.com/ovr/perfect-php-vagrant">
    perfect-php-vagrant
   </a>
-  - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
-  <sup>
-   108 GitHub links in total 161 links, ★ 50, pushed 214 days ago
-  </sup>
   <sup>
    &#9733 50, pushed 214 days ago
   </sup>
+  - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
  </li>
  <li>
   <a href="https://github.com/sergeyklay/phalcon-compose">
    phalcon-compose
   </a>
-  - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
-  <sup>
-   108 GitHub links in total 161 links, ★ 5, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 42 days ago
   </sup>
+  - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
  </li>
  <li>
   <a href="https://github.com/linxlad/phalcon2-compose">
    phalcon2-compose
   </a>
-  - Docker Phalcon 2 development environment
-  <sup>
-   108 GitHub links in total 161 links, ★ 3, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 56 days ago
   </sup>
+  - Docker Phalcon 2 development environment
  </li>
  <li>
   <a href="https://github.com/phalcon/vagrant">
    vagrant
   </a>
-  - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
-  <sup>
-   108 GitHub links in total 161 links, ★ 113, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 113, pushed 38 days ago
   </sup>
+  - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
  </li>
 </ul>
 <h1>
@@ -1913,16 +1601,13 @@
   <a href="https://github.com/phalconist/phalconist">
    Phalconist
   </a>
+  <sup>
+   &#9733 21, pushed 262 days ago
+  </sup>
   - Resources catalog for Phalcon PHP Framework on
   <a href="https://phalconist.com/">
    Phalconist
   </a>
-  <sup>
-   108 GitHub links in total 161 links, ★ 21, pushed 262 days ago
-  </sup>
-  <sup>
-   &#9733 21, pushed 262 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -1933,16 +1618,13 @@
   <a href="https://github.com/phalcon/blog-tutorial">
    Blog Tutorial
   </a>
+  <sup>
+   &#9733 22, pushed 351 days ago
+  </sup>
   - Blog Tutorial (source code for
   <a href="https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2">
    Blog Tutorial
   </a>
-  <sup>
-   108 GitHub links in total 161 links, ★ 22, pushed 351 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 351 days ago
-  </sup>
  </li>
  <li>
   <a href="https://docs.phalconphp.com/en/latest/index.html">

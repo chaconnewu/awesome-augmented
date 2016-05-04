@@ -114,16 +114,13 @@
   <a href="https://github.com/dojo/docs">
    Reference guide
   </a>
+  <sup>
+   &#9733 89, pushed 18 days ago
+  </sup>
   -
   <a href="http://dojotoolkit.org/reference-guide/1.10/">
    http://dojotoolkit.org/reference-guide/
   </a>
-  <sup>
-   46 GitHub links in total 102 links, ★ 89, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 89, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="http://dojotoolkit.org/documentation/">
@@ -151,25 +148,19 @@
   <a href="https://github.com/cepa/dojo-tutorial">
    Dojo Toolkit 1.9 tutorial
   </a>
-  - A tutorial using Dojo Toolkit 1.9
-  <sup>
-   46 GitHub links in total 102 links, ★ 22, pushed 533 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 533 days ago
   </sup>
+  - A tutorial using Dojo Toolkit 1.9
  </li>
  <li>
   <a href="https://github.com/DavidSpriggs/Dojo--The-Good-Parts">
    Dojo the Good parts
   </a>
-  - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
-  <sup>
-   46 GitHub links in total 102 links, ★ 34, pushed 781 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 781 days ago
   </sup>
+  - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
  </li>
  <li>
   <a href="https://www.pluralsight.com/courses/dojo-fundamentals">
@@ -191,61 +182,46 @@
   <a href="https://github.com/atoha/dbootstrap">
    dboostrap
   </a>
-  - Bootstrap theme for Dojo
-  <sup>
-   46 GitHub links in total 102 links, ★ 145, pushed 559 days ago
-  </sup>
   <sup>
    &#9733 145, pushed 559 days ago
   </sup>
+  - Bootstrap theme for Dojo
  </li>
  <li>
   <a href="https://github.com/csnover/dojo-boilerplate">
    Dojo Boilerplate
   </a>
-  - A starting boilerplate for developing with Dojo Toolkit
-  <sup>
-   46 GitHub links in total 102 links, ★ 389, pushed 215 days ago
-  </sup>
   <sup>
    &#9733 389, pushed 215 days ago
   </sup>
+  - A starting boilerplate for developing with Dojo Toolkit
  </li>
  <li>
   <a href="https://github.com/xsokev/Dojo-Bootstrap">
    Dojo Twitter bootstrap
   </a>
-  - An implementation of the Twitter Bootstrap framework using Dojo
-  <sup>
-   46 GitHub links in total 102 links, ★ 175, pushed 372 days ago
-  </sup>
   <sup>
    &#9733 175, pushed 372 days ago
   </sup>
+  - An implementation of the Twitter Bootstrap framework using Dojo
  </li>
  <li>
   <a href="https://github.com/gpedro/dojo.js">
    dojo.js
   </a>
-  - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
-  <sup>
-   46 GitHub links in total 102 links, ★ 15, pushed 492 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 492 days ago
   </sup>
+  - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
  </li>
  <li>
   <a href="https://github.com/kitsonk/dojo-node-boilerplate">
    dojo-node-boilerplate
   </a>
-  - A quickstart "template" for using Dojo Toolkit on NodeJS
-  <sup>
-   46 GitHub links in total 102 links, ★ 17, pushed 499 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 499 days ago
   </sup>
+  - A quickstart "template" for using Dojo Toolkit on NodeJS
  </li>
 </ul>
 <p>
@@ -261,37 +237,28 @@
   <a href="https://github.com/adrobisch/angular-dojo">
    AngularJS Dojo
   </a>
-  - AngularJS directives for dojo widgets
-  <sup>
-   46 GitHub links in total 102 links, ★ 39, pushed 746 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 746 days ago
   </sup>
+  - AngularJS directives for dojo widgets
  </li>
  <li>
   <a href="https://github.com/ibm-js/delite">
    delite
   </a>
-  - HTML Custom Element / Widget infrastructure
-  <sup>
-   46 GitHub links in total 102 links, ★ 76, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 76, pushed 15 days ago
   </sup>
+  - HTML Custom Element / Widget infrastructure
  </li>
  <li>
   <a href="https://github.com/ibm-js/deliteful">
    deliteful
   </a>
-  - Multichannel (desktop/mobile) UI Custom Elements Library
-  <sup>
-   46 GitHub links in total 102 links, ★ 71, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 15 days ago
   </sup>
+  - Multichannel (desktop/mobile) UI Custom Elements Library
  </li>
  <li>
   <a href="http://packages.dojofoundation.org/">
@@ -303,25 +270,19 @@
   <a href="https://github.com/kfranqueiro/dojo-smore">
    dojo-smore
   </a>
-  - package with Dojo/Store implementation
-  <sup>
-   46 GitHub links in total 102 links, ★ 39, pushed 437 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 437 days ago
   </sup>
+  - package with Dojo/Store implementation
  </li>
  <li>
   <a href="https://github.com/bryanforbes/generator-dojo">
    generator-dojo
   </a>
-  - A yeoman generator for Dojo projects
-  <sup>
-   46 GitHub links in total 102 links, ★ 41, pushed 620 days ago
-  </sup>
   <sup>
    &#9733 41, pushed 620 days ago
   </sup>
+  - A yeoman generator for Dojo projects
  </li>
  <li>
   Grids
@@ -344,53 +305,41 @@
   <a href="https://github.com/phated/grunt-dojo">
    grunt-dojo
   </a>
-  - Build Dojo inside a Grunt task
-  <sup>
-   46 GitHub links in total 102 links, ★ 35, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 82 days ago
   </sup>
+  - Build Dojo inside a Grunt task
  </li>
  <li>
   <a href="https://github.com/garcimouche/karma-dojo">
    karma-dojo
   </a>
+  <sup>
+   &#9733 1, pushed 889 days ago
+  </sup>
   - A
   <a href="http://karma-runner.github.io/">
    Karma
   </a>
   plugin. Adapter for Dojo Toolkit.
-  <sup>
-   46 GitHub links in total 102 links, ★ 1, pushed 889 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 889 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/theintern/leadfoot">
    Leadfoot
   </a>
-  - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
-  <sup>
-   46 GitHub links in total 102 links, ★ 129, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 129, pushed 32 days ago
   </sup>
+  - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
  </li>
  <li>
   <a href="https://github.com/SitePen/dstore">
    Sitepen dstore
   </a>
-  - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
-  <sup>
-   46 GitHub links in total 102 links, ★ 242, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 242, pushed 4 days ago
   </sup>
+  - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
  </li>
 </ul>
 <p>
@@ -418,13 +367,10 @@
   <a href="https://github.com/cometd/dojo-maven">
    Dojo Maven
   </a>
-  - Maven packaging of the Dojo Toolkit
-  <sup>
-   46 GitHub links in total 102 links, ★ 2, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 15 days ago
   </sup>
+  - Maven packaging of the Dojo Toolkit
  </li>
  <li>
   ASP.NET
@@ -439,25 +385,19 @@
     <a href="https://github.com/lstratman/Dojo.NET">
      Dojo.NET
     </a>
-    - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
-    <sup>
-     46 GitHub links in total 102 links, ★ 3, pushed 1440 days ago
-    </sup>
     <sup>
      &#9733 3, pushed 1440 days ago
     </sup>
+    - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
    </li>
    <li>
     <a href="https://github.com/Reactive-Extensions/RxJS-Dojo">
      Reactive Extensions
     </a>
-    - Reactive Extensions bindings for the Dojo Toolkit
-    <sup>
-     46 GitHub links in total 102 links, ★ 6, pushed 617 days ago
-    </sup>
     <sup>
      &#9733 6, pushed 617 days ago
     </sup>
+    - Reactive Extensions bindings for the Dojo Toolkit
    </li>
   </ul>
  </li>
@@ -512,19 +452,19 @@
     <a href="https://github.com/agebrock/dojo-node">
      dojo-node
     </a>
+    <sup>
+     &#9733 7, pushed 393 days ago
+    </sup>
     - Lightwave Dojo wrapper for Node.js
    </li>
    <li>
     <a href="https://github.com/supnate/dojos">
      Dojos
     </a>
-    - Server side dojo on NodeJS
-    <sup>
-     46 GitHub links in total 102 links, ★ 12, pushed 1159 days ago
-    </sup>
     <sup>
      &#9733 12, pushed 1159 days ago
     </sup>
+    - Server side dojo on NodeJS
    </li>
    <li>
     <a href="http://dojotoolkit.org/documentation/tutorials/1.10/node/">
@@ -533,12 +473,6 @@
     - Tutorial how to use Dojo and Node.js
    </li>
   </ul>
-  <sup>
-   46 GitHub links in total 102 links, ★ 7, pushed 393 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 393 days ago
-  </sup>
  </li>
  <li>
   PHP
@@ -547,6 +481,9 @@
     <a href="https://github.com/zoopcommerce/pixie">
      Dojo & Composer
     </a>
+    <sup>
+     &#9733 4, pushed 973 days ago
+    </sup>
     - custom Composer installers for zoop packages including Dojo
    </li>
    <li>
@@ -559,21 +496,12 @@
     <a href="https://github.com/superdweebie/DojoModule">
      Dojo & Zend PHP framework
     </a>
-    - integrating Dojo Toolkit with Zend Framework through DojoModule
-    <sup>
-     46 GitHub links in total 102 links, ★ 10, pushed 1282 days ago
-    </sup>
     <sup>
      &#9733 10, pushed 1282 days ago
     </sup>
+    - integrating Dojo Toolkit with Zend Framework through DojoModule
    </li>
   </ul>
-  <sup>
-   46 GitHub links in total 102 links, ★ 4, pushed 973 days ago
-  </sup>
-  <sup>
-   &#9733 4, pushed 973 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -623,97 +551,73 @@
   <a href="https://github.com/dreaswar/AuShadha">
    AuShada
   </a>
-  - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
-  <sup>
-   46 GitHub links in total 102 links, ★ 43, pushed 52 days ago
-  </sup>
   <sup>
    &#9733 43, pushed 52 days ago
   </sup>
+  - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
  </li>
  <li>
   <a href="https://github.com/dojo/dapi">
    dapi
   </a>
-  - node.js Dojo API viewer
-  <sup>
-   46 GitHub links in total 102 links, ★ 10, pushed 406 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 406 days ago
   </sup>
+  - node.js Dojo API viewer
  </li>
  <li>
   <a href="https://github.com/theintern/digdug">
    Dig Dug
   </a>
-  - A JavaScript library for launching WebDriver service tunnels
-  <sup>
-   46 GitHub links in total 102 links, ★ 33, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 11 days ago
   </sup>
+  - A JavaScript library for launching WebDriver service tunnels
  </li>
  <li>
   <a href="https://github.com/rmurphey/dojo-demo">
    Dojo Demo
   </a>
-  - Dojo demo
-  <sup>
-   46 GitHub links in total 102 links, ★ 58, pushed 1756 days ago
-  </sup>
   <sup>
    &#9733 58, pushed 1756 days ago
   </sup>
+  - Dojo demo
  </li>
  <li>
   <a href="https://github.com/sirprize/dojorama">
    dojorama
   </a>
-  - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
-  <sup>
-   46 GitHub links in total 102 links, ★ 46, pushed 800 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 800 days ago
   </sup>
+  - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
  </li>
  <li>
   <a href="https://github.com/dmachi/dojox_application">
    Dojox application
   </a>
-  - Dojox Application Framework for mobile, tablets, and desktops
-  <sup>
-   46 GitHub links in total 102 links, ★ 30, pushed 505 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 505 days ago
   </sup>
+  - Dojox Application Framework for mobile, tablets, and desktops
  </li>
  <li>
   <a href="https://github.com/dojo/js-doc-parse">
    js-doc-parse
   </a>
-  - Library for parsing dojo JavaScript files and extracting inline documentation
-  <sup>
-   46 GitHub links in total 102 links, ★ 12, pushed 472 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 472 days ago
   </sup>
+  - Library for parsing dojo JavaScript files and extracting inline documentation
  </li>
  <li>
   <a href="https://github.com/phiggins42/rstwiki">
    rstwiki
   </a>
-  - Simple reST/wiki system built with Python and Dojo Toolkit
-  <sup>
-   46 GitHub links in total 102 links, ★ 26, pushed 698 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 698 days ago
   </sup>
+  - Simple reST/wiki system built with Python and Dojo Toolkit
  </li>
  <li>
   <a href="https://github.com/scripted-editor">
@@ -725,13 +629,10 @@
   <a href="https://github.com/tastejs/todomvc">
    todomvc
   </a>
-  - Helping you select an MV* framework - todo app examples
-  <sup>
-   46 GitHub links in total 102 links, ★ 16847, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 16847, pushed 6 days ago
   </sup>
+  - Helping you select an MV* framework - todo app examples
  </li>
 </ul>
 <p>
@@ -747,13 +648,10 @@
   <a href="https://github.com/kfranqueiro/dijit-claro-stylus">
    dijit-claro-stylus
   </a>
+  <sup>
+   &#9733 31, pushed 349 days ago
+  </sup>
   - A straight conversion of Dijit's Claro theme from LESS to Stylus.
-  <sup>
-   46 GitHub links in total 102 links, ★ 31, pushed 348 days ago
-  </sup>
-  <sup>
-   &#9733 31, pushed 348 days ago
-  </sup>
  </li>
  <li>
   <a href="http://yiweima.github.io/flatdojo/">
@@ -791,25 +689,19 @@
   <a href="https://github.com/stopyoukid/DojoToTypescriptConverter">
    Dojo to Typescript Converter
   </a>
-  - A typescript script which creates typescript compatible declarations from a dojo api.json file.
-  <sup>
-   46 GitHub links in total 102 links, ★ 9, pushed 1296 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 1297 days ago
   </sup>
+  - A typescript script which creates typescript compatible declarations from a dojo api.json file.
  </li>
  <li>
   <a href="https://github.com/schungx/Dojo-TypeScript">
    Dojo-TypeScript
   </a>
-  - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
-  <sup>
-   46 GitHub links in total 102 links, ★ 15, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 64 days ago
   </sup>
+  - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
  </li>
 </ul>
 <p>
@@ -907,25 +799,19 @@
   <a href="https://github.com/sorrycc/awesome-javascript">
    awesome-javascript
   </a>
-  - awesome JavaScript list
-  <sup>
-   46 GitHub links in total 102 links, ★ 5882, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5882, pushed 4 days ago
   </sup>
+  - awesome JavaScript list
  </li>
  <li>
   <a href="https://github.com/heatroom/awesome-javascript-books">
    awesome-javascript-books
   </a>
-  - awesome JavaScript books
-  <sup>
-   46 GitHub links in total 102 links, ★ 60, pushed 406 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 406 days ago
   </sup>
+  - awesome JavaScript books
  </li>
  <li>
   awesome lists:
@@ -934,19 +820,19 @@
     <a href="https://github.com/sindresorhus/awesome">
      awesome
     </a>
+    <sup>
+     &#9733 34522, pushed 2 days ago
+    </sup>
     - awesome list
    </li>
    <li>
     <a href="https://github.com/emijrp/awesome-awesome">
      awesome-awesome
     </a>
-    - awesome list
-    <sup>
-     46 GitHub links in total 102 links, ★ 537, pushed 118 days ago
-    </sup>
     <sup>
      &#9733 537, pushed 118 days ago
     </sup>
+    - awesome list
    </li>
    <li>
     <a href="https://getawesomeness.herokuapp.com/">
@@ -958,45 +844,30 @@
     <a href="https://github.com/jnv/lists">
      lists
     </a>
-    - awesome lists
-    <sup>
-     46 GitHub links in total 102 links, ★ 3765, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 3765, pushed 2 days ago
     </sup>
+    - awesome lists
    </li>
    <li>
     <a href="https://github.com/bradoyler/awesome-all">
      awesome-all
     </a>
-    - awesome lists
-    <sup>
-     46 GitHub links in total 102 links, ★ 63, pushed 189 days ago
-    </sup>
     <sup>
      &#9733 63, pushed 189 days ago
     </sup>
+    - awesome lists
    </li>
    <li>
     <a href="https://github.com/erichs/awesome-awesome">
      awesome-awesome
     </a>
+    <sup>
+     &#9733 68, pushed 177 days ago
+    </sup>
     - awesome lists
-    <sup>
-     46 GitHub links in total 102 links, ★ 68, pushed 176 days ago
-    </sup>
-    <sup>
-     &#9733 68, pushed 176 days ago
-    </sup>
    </li>
   </ul>
-  <sup>
-   46 GitHub links in total 102 links, ★ 34522, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 34522, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <p>

@@ -268,12 +268,10 @@
  to each
  <code>
   <p>
-  </p>
  </code>
  ,
  <code>
   <h*>
-  </h*>
  </code>
  ,
  <em>
@@ -700,7 +698,6 @@ html {
  Display links when the
  <code>
   <a>
-  </a>
  </code>
  element has no text value but the
  <code>

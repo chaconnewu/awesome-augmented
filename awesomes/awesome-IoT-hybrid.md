@@ -164,9 +164,6 @@
    Lelylan
   </a>
   <sup>
-   4 GitHub links in total 56 links, ★ 621, pushed 58 days ago
-  </sup>
-  <sup>
    &#9733 621, pushed 58 days ago
   </sup>
  </li>
@@ -199,9 +196,6 @@
   <a href="https://github.com/nwjs/nw.js">
    nw.js
   </a>
-  <sup>
-   4 GitHub links in total 56 links, ★ 28183, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 28183, pushed 4 days ago
   </sup>
@@ -305,9 +299,6 @@
   <a href="https://github.com/petermetz/cordova-plugin-ibeacon">
    Cordova / Phonegap iBeacon plugin
   </a>
-  <sup>
-   4 GitHub links in total 56 links, ★ 492, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 492, pushed 10 days ago
   </sup>

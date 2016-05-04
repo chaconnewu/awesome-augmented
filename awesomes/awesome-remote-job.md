@@ -782,10 +782,10 @@
   <a href="https://github.com/andreis/interview">
    andreis/interview
   </a>
-  - Everything you need to kick ass on your coding interview
   <sup>
    &#9733 2985, pushed 70 days ago
   </sup>
+  - Everything you need to kick ass on your coding interview
  </li>
  <li>
   <a href="https://github.com/MaximAbramchuck/awesome-interviews">
@@ -1509,14 +1509,14 @@
   <a href="https://github.com/remotesclub/remotes">
    ##remotes
   </a>
+  <sup>
+   &#9733 8, pushed 544 days ago
+  </sup>
   - IRC channel (
   <a href="http://webchat.freenode.net/?channels=##remotes">
    web access
   </a>
   )
-  <sup>
-   &#9733 8, pushed 544 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.hackerparadise.org/">

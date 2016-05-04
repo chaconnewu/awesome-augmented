@@ -296,9 +296,6 @@
    Content Generator
   </a>
   <sup>
-   13 GitHub links in total 65 links, ★ 3201, pushed 35 days ago
-  </sup>
-  <sup>
    &#9733 3201, pushed 35 days ago
   </sup>
  </li>
@@ -307,9 +304,6 @@
    RenameIt
   </a>
   <sup>
-   13 GitHub links in total 65 links, ★ 396, pushed 297 days ago
-  </sup>
-  <sup>
    &#9733 396, pushed 297 days ago
   </sup>
  </li>
@@ -317,9 +311,6 @@
   <a href="https://github.com/utom/sketch-measure">
    Sketch Measure
   </a>
-  <sup>
-   13 GitHub links in total 65 links, ★ 3006, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 3006, pushed 17 days ago
   </sup>
@@ -334,9 +325,6 @@
    Dynamic Button
   </a>
   <sup>
-   13 GitHub links in total 65 links, ★ 944, pushed 9 days ago
-  </sup>
-  <sup>
    &#9733 944, pushed 9 days ago
   </sup>
  </li>
@@ -345,9 +333,6 @@
    Page Switch
   </a>
   <sup>
-   13 GitHub links in total 65 links, ★ 52, pushed 662 days ago
-  </sup>
-  <sup>
    &#9733 52, pushed 662 days ago
   </sup>
  </li>
@@ -355,9 +340,6 @@
   <a href="https://github.com/hrescak/Sketch-Flex-Layout">
    Sketch Flex Layout
   </a>
-  <sup>
-   13 GitHub links in total 65 links, ★ 1492, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1492, pushed 46 days ago
   </sup>
@@ -383,9 +365,6 @@
    User Flow
   </a>
   <sup>
-   13 GitHub links in total 65 links, ★ 171, pushed 98 days ago
-  </sup>
-  <sup>
    &#9733 171, pushed 98 days ago
   </sup>
  </li>
@@ -403,9 +382,6 @@
   <a href="https://github.com/sketchplugins/plugin-directory">
    Sketch Plugin Directory
   </a>
-  <sup>
-   13 GitHub links in total 65 links, ★ 1915, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1915, pushed 4 days ago
   </sup>
@@ -442,6 +418,9 @@
   <a href="https://github.com/luandro/sketch-responsive-design-template">
    Responsive Web Design Template
   </a>
+  <sup>
+   &#9733 17, pushed 214 days ago
+  </sup>
   , a template with
   <a href="https://fortawesome.github.io/Font-Awesome/">
    Font-Awesome
@@ -451,36 +430,24 @@
    Bootstrap UI Kit
   </a>
   as symbols for fast web design.
-  <sup>
-   13 GitHub links in total 65 links, ★ 17, pushed 214 days ago
-  </sup>
-  <sup>
-   &#9733 17, pushed 214 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nvk/sketch-ios">
    Sketch iOS Templates
   </a>
-  , a collection of many iOS templates.
-  <sup>
-   13 GitHub links in total 65 links, ★ 832, pushed 807 days ago
-  </sup>
   <sup>
    &#9733 832, pushed 807 days ago
   </sup>
+  , a collection of many iOS templates.
  </li>
  <li>
   <a href="https://github.com/teracyhq/wireframe">
    Teracy Wireframe Kit
   </a>
-  , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
-  <sup>
-   13 GitHub links in total 65 links, ★ 1073, pushed 505 days ago
-  </sup>
   <sup>
    &#9733 1073, pushed 505 days ago
   </sup>
+  , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
  </li>
 </ul>
 <h2>

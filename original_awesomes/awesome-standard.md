@@ -1,360 +1,69 @@
-<h1>
- Awesome Standard
- <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
- </a>
-</h1>
-<p>
- <a href="https://github.com/feross/standard">
-  <img alt="js-standard-style" src="https://cdn.rawgit.com/feross/standard/master/badge.svg"/>
- </a>
-</p>
-<p>
- Documenting the explosion of packages in the
- <a href="https://github.com/feross/standard">
-  <code>
-   standard
-  </code>
- </a>
- ecosystem!
-</p>
-<h2>
- standard
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard">
-    standard
-   </a>
-  </strong>
-  - JavaScript Standard Style. One Style to Rule Them All!
- </li>
-</ul>
-<h2>
- usage stats
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://gist.github.com/feross/e0882df2fe673d6ce064">
-    modules that use standard
-   </a>
-  </strong>
-  - stats from the npm registry
- </li>
- <li>
-  <strong>
-   <a href="http://npm-stat.com/charts.html?package=standard&author=&from=&to=">
-    npm-stat.com
-   </a>
-  </strong>
-  - download count graphs
- </li>
- <li>
-  <strong>
-   <a href="https://npmjs.com/package/standard-packages">
-    standard-packages
-   </a>
-  </strong>
-  - List of packages that use
-  <code>
-   standard
-  </code>
- </li>
-</ul>
-<h2>
- packages used by standard
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/eslint">
-    eslint
-   </a>
-  </strong>
-  - AST-based pattern checker for JavaScript
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-engine">
-    standard-engine
-   </a>
-  </strong>
-  - standard's guts, extracted into a reuseable package. build your own!
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/eslint-config-standard">
-    eslint-config-standard
-   </a>
-  </strong>
-  - standard eslint rules, as a shareable config
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/eslint-config-standard-react">
-    eslint-config-standard-react
-   </a>
-  </strong>
-  - standard eslint rules for React and JSX
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/eslint-plugin-standard">
-    eslint-plugin-standard
-   </a>
-  </strong>
-  - standard custom eslint rules (not part of eslint core)
- </li>
-</ul>
-<h2>
- automatic code formatters
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-format">
-    standard-format
-   </a>
-  </strong>
-  - standard automatic code formatter
- </li>
- <li>
-  <strong>
-   <a href="https://gist.github.com/watson/453fc63cace521fcdadc">
-    "unix commands" gist
-   </a>
-  </strong>
-  - A list of search and replace unix commands to help make a node repository 'standard' compliant
- </li>
-</ul>
-<h2>
- editor snippets
-</h2>
-<ul>
- <li>
-  Sublime:
-  <strong>
-   <a href="https://github.com/jprichardson/sublime-js-snippets">
-    sublime-js-snippets
-   </a>
-  </strong>
-  <sup>
-   1 GitHub links in total 33 links, &#9733 383, pushed 262 days ago
-  </sup>
- </li>
- <li>
-  Atom:
-  <strong>
-   <a href="https://atom.io/packages/standardjs-snippets">
-    standardjs-snippets
-   </a>
-  </strong>
- </li>
-</ul>
-<h2>
- pretty terminal output (reporters)
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/snazzy">
-    snazzy
-   </a>
-  </strong>
-  - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-tap">
-    standard-tap
-   </a>
-  </strong>
-  - Format JavaScript Standard Style as TAP output
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-json">
-    standard-json
-   </a>
-  </strong>
-  - Format JavaScript Standard Style output to a JSON array
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-reporter">
-    standard-reporter
-   </a>
-  </strong>
-  - Reporters for feross/standard via unix pipes, many options
- </li>
-</ul>
-<h2>
- build tools
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/grunt-standard">
-    grunt-standard
-   </a>
-  </strong>
-  - Grunt plugin for standard
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/gulp-standard">
-    gulp-standard
-   </a>
-  </strong>
-  - Gulp plugin for standard
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/gulp-any-standard">
-    gulp-any-standard
-   </a>
-  </strong>
-  - Gulp plugin that supports standard and its forks
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/mocha-standard">
-    mocha-standard
-   </a>
-  </strong>
-  - Integrates standard into your mocha tests
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/standard-loader">
-    standard-loader
-   </a>
-  </strong>
-  - Lint webpack builds with standard
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/generator-babel-standard">
-    generator-babel-standard
-   </a>
-  </strong>
-  - Yeoman generator for new packages with babel and standard
- </li>
-</ul>
-<h2>
- forks
-</h2>
-<ul>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/semistandard">
-    semistandard
-   </a>
-  </strong>
-  - standard, with semicolons
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/uber-standard">
-    uber-standard
-   </a>
-  </strong>
-  - fork by the
-  <a href="https://www.uber.com/">
-   Uber
-  </a>
-  team
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/videojs-standard">
-    videojs-standard
-   </a>
-  </strong>
-  - fork by the
-  <a href="https://github.com/videojs/video.js">
-   video.js
-  </a>
-  team
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/yodlr-standard">
-    yodlr-standard
-   </a>
-  </strong>
-  - fork by the
-  <a href="https://getyodlr.com/home">
-   yodlr
-  </a>
-  team
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/happiness">
-    happiness
-   </a>
-  </strong>
-  - standard customized to make @JedWatson happy
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/doublestandard">
-    doublestandard
-   </a>
-  </strong>
-  - standard, with even more semicolons
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/xo">
-    xo
-   </a>
-  </strong>
-  - "JavaScript happiness style"
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/jsw">
-    jsw
-   </a>
-  </strong>
-  - "the spec doesnt care about semicolons and neither should you"
- </li>
- <li>
-  <strong>
-   <a href="https://www.npmjs.com/package/obama">
-    obama
-   </a>
-  </strong>
-  - Move forward and standardize with Obama
- </li>
- <li>
-  <strong>
-   <a href="https://npmjs.com/package/a-standard">
-    aStandard
-   </a>
-  </strong>
-  - A stricter standard made for babel and es7
- </li>
-</ul>
-<p>
- PRs welcome!
-</p>
-<h2>
- License
-</h2>
-<p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
-  <img alt="CC0" src="http://i.creativecommons.org/p/zero/1.0/88x31.png"/>
- </a>
-</p>
-<p>
- To the extent possible under law,
- <a href="http://feross.org">
-  Feross Aboukhadijeh
- </a>
- has waived all copyright and related or neighboring rights to this work.
-</p>
+# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+Documenting the explosion of packages in the [`standard`](https://github.com/feross/standard) ecosystem!
+
+## standard
+
+- **[standard](https://www.npmjs.com/package/standard)** - JavaScript Standard Style. One Style to Rule Them All!
+
+## usage stats
+
+- **[modules that use standard](https://gist.github.com/feross/e0882df2fe673d6ce064)** - stats from the npm registry
+- **[npm-stat.com](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - download count graphs
+- **[standard-packages](https://npmjs.com/package/standard-packages)** - List of packages that use `standard`
+
+## packages used by standard
+
+- **[eslint](https://www.npmjs.com/package/eslint)** - AST-based pattern checker for JavaScript
+- **[standard-engine](https://www.npmjs.com/package/standard-engine)** - standard's guts, extracted into a reuseable package. build your own!
+- **[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)** - standard eslint rules, as a shareable config
+- **[eslint-config-standard-react](https://www.npmjs.com/package/eslint-config-standard-react)** - standard eslint rules for React and JSX
+- **[eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)** - standard custom eslint rules (not part of eslint core)
+
+## automatic code formatters
+
+- **[standard-format](https://www.npmjs.com/package/standard-format)** - standard automatic code formatter
+- **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
+
+## editor snippets
+ - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
+ - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
+ 
+## pretty terminal output (reporters)
+
+- **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
+- **[standard-tap](https://www.npmjs.com/package/standard-tap)** - Format JavaScript Standard Style as TAP output
+- **[standard-json](https://www.npmjs.com/package/standard-json)** - Format JavaScript Standard Style output to a JSON array
+- **[standard-reporter](https://www.npmjs.com/package/standard-reporter)** - Reporters for feross/standard via unix pipes, many options
+
+## build tools
+
+- **[grunt-standard](https://www.npmjs.com/package/grunt-standard)** - Grunt plugin for standard
+- **[gulp-standard](https://www.npmjs.com/package/gulp-standard)** - Gulp plugin for standard
+- **[gulp-any-standard](https://www.npmjs.com/package/gulp-any-standard)** - Gulp plugin that supports standard and its forks
+- **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
+- **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
+- **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
+
+## forks
+
+- **[semistandard](https://www.npmjs.com/package/semistandard)** - standard, with semicolons
+- **[uber-standard](https://www.npmjs.com/package/uber-standard)** - fork by the [Uber](https://www.uber.com/) team
+- **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js](https://github.com/videojs/video.js) team
+- **[yodlr-standard](https://www.npmjs.com/package/yodlr-standard)** - fork by the [yodlr](https://getyodlr.com/home) team
+- **[happiness](https://www.npmjs.com/package/happiness)** - standard customized to make @JedWatson happy
+- **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons
+- **[xo](https://www.npmjs.com/package/xo)** - "JavaScript happiness style"
+- **[jsw](https://www.npmjs.com/package/jsw)** - "the spec doesnt care about semicolons and neither should you"
+- **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
+- **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
+
+PRs welcome!
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.

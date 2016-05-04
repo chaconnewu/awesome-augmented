@@ -358,9 +358,6 @@
    awesome-awesomeness
   </a>
   <sup>
-   1 GitHub links in total 53 links, ★ 16107, pushed 7 days ago
-  </sup>
-  <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
  </li>

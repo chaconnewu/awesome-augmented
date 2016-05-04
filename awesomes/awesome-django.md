@@ -345,13 +345,10 @@
   <a href="https://github.com/django-admin-bootstrap/django-admin-bootstrap">
    django-admin-bootstrap
   </a>
-  - Responsive Skin for Django Admin
-  <sup>
-   251 GitHub links in total 352 links, ★ 375, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 375, pushed 38 days ago
   </sup>
+  - Responsive Skin for Django Admin
  </li>
  <li>
   <a href="https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/">
@@ -363,37 +360,28 @@
   <a href="https://github.com/ebertti/django-admin-easy">
    django-admin-easy
   </a>
-  - Collection of admin fields and decorators.
-  <sup>
-   251 GitHub links in total 352 links, ★ 29, pushed 235 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 235 days ago
   </sup>
+  - Collection of admin fields and decorators.
  </li>
  <li>
   <a href="https://github.com/fabiocaccamo/django-admin-interface">
    django-admin-interface
   </a>
-  - The ultimate admin interface, based on a modern flat theme, it lets you customize the admin title, logo and colors by the admin itself.
-  <sup>
-   251 GitHub links in total 352 links, ★ 29, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 20 days ago
   </sup>
+  - The ultimate admin interface, based on a modern flat theme, it lets you customize the admin title, logo and colors by the admin itself.
  </li>
  <li>
   <a href="https://github.com/django-admin-tools/django-admin-tools">
    django-admin-tools
   </a>
-  - A collection of extensions/tools for the default django administration interface
-  <sup>
-   251 GitHub links in total 352 links, ★ 120, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 120, pushed 5 days ago
   </sup>
+  - A collection of extensions/tools for the default django administration interface
  </li>
  <li>
   <a href="https://github.com/pydanny/django-admin2/">
@@ -405,13 +393,10 @@
   <a href="https://github.com/elky/django-flat-theme">
    django-flat-theme
   </a>
-  - A flat theme for Django admin interface. Modern, fresh, simple.
-  <sup>
-   251 GitHub links in total 352 links, ★ 365, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 365, pushed 148 days ago
   </sup>
+  - A flat theme for Django admin interface. Modern, fresh, simple.
  </li>
  <li>
   <a href="https://github.com/edoburu/django-fluent-dashboard/">
@@ -435,37 +420,28 @@
   <a href="https://github.com/geex-arts/django-jet">
    django-jet
   </a>
-  - Mordern template admin interface with improved functionality.
-  <sup>
-   251 GitHub links in total 352 links, ★ 399, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 399, pushed 8 days ago
   </sup>
+  - Mordern template admin interface with improved functionality.
  </li>
  <li>
   <a href="https://github.com/viewflow/django-material">
    django-material
   </a>
-  Material design for Django Forms and Admin. Template driven.
-  <sup>
-   251 GitHub links in total 352 links, ★ 616, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 616, pushed 16 days ago
   </sup>
+  Material design for Django Forms and Admin. Template driven.
  </li>
  <li>
   <a href="https://github.com/crccheck/django-object-actions">
    django-object-actions
   </a>
-  A Django app for adding object tools for models in the admin
-  <sup>
-   251 GitHub links in total 352 links, ★ 111, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 111, pushed 10 days ago
   </sup>
+  A Django app for adding object tools for models in the admin
  </li>
  <li>
   <a href="https://github.com/darklow/django-suit/">
@@ -505,13 +481,10 @@
   <a href="https://github.com/jcassee/django-analytical">
    django-analytical
   </a>
-  - Integrates analytics services with a generic interface, templates stay clean.
-  <sup>
-   251 GitHub links in total 352 links, ★ 368, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 368, pushed 8 days ago
   </sup>
+  - Integrates analytics services with a generic interface, templates stay clean.
  </li>
 </ul>
 <h2>
@@ -545,25 +518,19 @@
   <a href="https://github.com/jazzband/django-pipeline">
    django-pipeline
   </a>
-  - Asset packaging for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1026, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 1026, pushed 13 days ago
   </sup>
+  - Asset packaging for Django.
  </li>
  <li>
   <a href="https://github.com/sergei-maertens/django-systemjs">
    django-systemjs
   </a>
-  - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM intergration in Django)
-  <sup>
-   251 GitHub links in total 352 links, ★ 30, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 7 days ago
   </sup>
+  - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM intergration in Django)
  </li>
  <li>
   <a href="https://github.com/owais/django-webpack-loader/">
@@ -575,13 +542,10 @@
   <a href="https://github.com/markfinger/python-webpack">
    python-webpack
   </a>
-  - Python bindings for webpack with django integration.
-  <sup>
-   251 GitHub links in total 352 links, ★ 59, pushed 113 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 113 days ago
   </sup>
+  - Python bindings for webpack with django integration.
  </li>
 </ul>
 <h2>
@@ -603,13 +567,10 @@
   <a href="https://github.com/bennylope/django-organizations">
    django-organizations
   </a>
-  - Multi-user accounts for Django projects.
-  <sup>
-   251 GitHub links in total 352 links, ★ 268, pushed 30 days ago
-  </sup>
   <sup>
    &#9733 268, pushed 30 days ago
   </sup>
+  - Multi-user accounts for Django projects.
  </li>
  <li>
   <a href="https://bitbucket.org/psagers/django-otp/">
@@ -627,13 +588,10 @@
   <a href="https://github.com/Tivix/django-rest-auth">
    django-rest-auth
   </a>
-  -  A set of REST API endpoints to handle User Registration and Authentication tasks.
-  <sup>
-   251 GitHub links in total 352 links, ★ 510, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 510, pushed 19 days ago
   </sup>
+  -  A set of REST API endpoints to handle User Registration and Authentication tasks.
  </li>
  <li>
   <a href="https://github.com/Bouke/django-two-factor-auth/">
@@ -667,37 +625,28 @@
   <a href="https://github.com/django-guardian/django-guardian">
    django-guardian
   </a>
-  - Implementation of per object permissions as authorization backend.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1102, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1102, pushed 8 days ago
   </sup>
+  - Implementation of per object permissions as authorization backend.
  </li>
  <li>
   <a href="https://github.com/evonove/django-oauth-toolkit">
    django-oauth-toolkit
   </a>
-  - OAuth2 goodies for the Djangonauts!
-  <sup>
-   251 GitHub links in total 352 links, ★ 728, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 728, pushed 4 days ago
   </sup>
+  - OAuth2 goodies for the Djangonauts!
  </li>
  <li>
   <a href="https://github.com/caffeinehit/django-oauth2-provider">
    django-oauth2-provider
   </a>
-  - Provide OAuth2 access to your app
-  <sup>
-   251 GitHub links in total 352 links, ★ 293, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 293, pushed 55 days ago
   </sup>
+  - Provide OAuth2 access to your app
  </li>
  <li>
   <a href="https://github.com/angvp/django-oml/">
@@ -719,13 +668,10 @@
   <a href="https://github.com/dfunckt/django-rules">
    django-rules
   </a>
-  - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
-  <sup>
-   251 GitHub links in total 352 links, ★ 292, pushed 81 days ago
-  </sup>
   <sup>
    &#9733 292, pushed 81 days ago
   </sup>
+  - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
  </li>
 </ul>
 <h2>
@@ -741,25 +687,19 @@
   <a href="https://github.com/Fantomas42/django-blog-zinnia">
    django-blog-zinnia
   </a>
-  -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1173, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 1173, pushed 7 days ago
   </sup>
+  -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
  </li>
  <li>
   <a href="https://github.com/APSL/puput">
    puput
   </a>
-  - A Django blog app implemented in Wagtail.
-  <sup>
-   251 GitHub links in total 352 links, ★ 94, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 94, pushed 6 days ago
   </sup>
+  - A Django blog app implemented in Wagtail.
  </li>
 </ul>
 <h2>
@@ -781,25 +721,19 @@
   <a href="https://github.com/DrkSephy/django-hackathon-starter">
    django-hackathon-starter
   </a>
-  - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
-  <sup>
-   251 GitHub links in total 352 links, ★ 655, pushed 95 days ago
-  </sup>
   <sup>
    &#9733 655, pushed 95 days ago
   </sup>
+  - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
  </li>
  <li>
   <a href="https://github.com/arocks/edge">
    edge
   </a>
-  - A Django project skeleton that is modern and cutting edge.
-  <sup>
-   251 GitHub links in total 352 links, ★ 314, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 314, pushed 6 days ago
   </sup>
+  - A Django project skeleton that is modern and cutting edge.
  </li>
 </ul>
 <h2>
@@ -815,53 +749,41 @@
   <a href="https://github.com/BertrandBordage/django-cachalot">
    django-cachalot
   </a>
-  - Caches your Django ORM queries and automatically invalidates them.
-  <sup>
-   251 GitHub links in total 352 links, ★ 363, pushed 76 days ago
-  </sup>
   <sup>
    &#9733 363, pushed 76 days ago
   </sup>
+  - Caches your Django ORM queries and automatically invalidates them.
  </li>
  <li>
   <a href="https://github.com/django-cache-machine/django-cache-machine">
    django-cache-machine
   </a>
-  - Automatic caching and invalidation for Django models through the ORM.
-  <sup>
-   251 GitHub links in total 352 links, ★ 612, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 612, pushed 14 days ago
   </sup>
+  - Automatic caching and invalidation for Django models through the ORM.
  </li>
  <li>
   <a href="https://github.com/Suor/django-cacheops">
    django-cacheops
   </a>
-  - A slick ORM cache with automatic granular event-driven invalidation.
-  <sup>
-   251 GitHub links in total 352 links, ★ 538, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 538, pushed 20 days ago
   </sup>
+  - A slick ORM cache with automatic granular event-driven invalidation.
  </li>
  <li>
   <a href="https://github.com/tvavrys/django-memoize">
    django-memoize
   </a>
+  <sup>
+   &#9733 26, pushed 28 days ago
+  </sup>
   - An implementation of
   <a href="https://en.wikipedia.org/wiki/Memoization">
    memoization
   </a>
   technique for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 26, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 26, pushed 28 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/educreations/django-ormcache/">
@@ -895,25 +817,19 @@
   <a href="https://github.com/arteria/django-compat">
    django-compat
   </a>
-  - For- and backwards compatibility layer for the officially  supported Django versions.
-  <sup>
-   251 GitHub links in total 352 links, ★ 70, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 70, pushed 8 days ago
   </sup>
+  - For- and backwards compatibility layer for the officially  supported Django versions.
  </li>
  <li>
   <a href="https://github.com/ubernostrum/django-compat-lint">
    django-compat-lint
   </a>
-  - Check Django compatibility of your code.
-  <sup>
-   251 GitHub links in total 352 links, ★ 33, pushed 264 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 264 days ago
   </sup>
+  - Check Django compatibility of your code.
  </li>
 </ul>
 <h2>
@@ -973,13 +889,10 @@
   <a href="https://github.com/stephenmcd/django-postgres-fuzzycount">
    django-postgres-fuzzycount
   </a>
-  - Fast / fuzzy PostgreSQL counts for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 42, pushed 107 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 107 days ago
   </sup>
+  - Fast / fuzzy PostgreSQL counts for Django.
  </li>
  <li>
   <a href="https://github.com/kennethreitz/django-postgrespool/">
@@ -1019,13 +932,10 @@
   <a href="https://github.com/django-silk/silk">
    django-silk
   </a>
-  - Silky smooth profiling for Django
-  <sup>
-   251 GitHub links in total 352 links, ★ 647, pushed 34 days ago
-  </sup>
   <sup>
    &#9733 647, pushed 34 days ago
   </sup>
+  - Silky smooth profiling for Django
  </li>
  <li>
   <a href="https://github.com/jmcarp/nplusone/">
@@ -1037,13 +947,10 @@
   <a href="https://github.com/getsentry/sentry">
    sentry
   </a>
+  <sup>
+   &#9733 9003, pushed 1 days ago
+  </sup>
   - A modern error logging and aggregation platform.
-  <sup>
-   251 GitHub links in total 352 links, ★ 9003, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 9003, pushed 0 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1071,25 +978,19 @@
   <a href="https://github.com/zapier/django-drip">
    django-drip
   </a>
-  - Django Admin based management for drip email campaigns
-  <sup>
-   251 GitHub links in total 352 links, ★ 503, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 503, pushed 47 days ago
   </sup>
+  - Django Admin based management for drip email campaigns
  </li>
  <li>
   <a href="https://github.com/stephenmcd/django-email-extras">
    django-email-extras
   </a>
-  - Various email utilities: PGP encryption, multipart templates, web browser test backend.
-  <sup>
-   251 GitHub links in total 352 links, ★ 60, pushed 105 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 105 days ago
   </sup>
+  - Various email utilities: PGP encryption, multipart templates, web browser test backend.
  </li>
  <li>
   <a href="https://github.com/BradWhittington/django-mailgun/">
@@ -1107,61 +1008,46 @@
   <a href="https://github.com/django-ses/django-ses">
    django-ses
   </a>
-  - A Django email backend for Amazon's Simple Email Service.
-  <sup>
-   251 GitHub links in total 352 links, ★ 409, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 409, pushed 5 days ago
   </sup>
+  - A Django email backend for Amazon's Simple Email Service.
  </li>
  <li>
   <a href="https://github.com/20tab/django-spoolgore">
    django-spoolgore
   </a>
-  - A django email backed for the Spoolgore daemon.
-  <sup>
-   251 GitHub links in total 352 links, ★ 4, pushed 704 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 704 days ago
   </sup>
+  - A django email backed for the Spoolgore daemon.
  </li>
  <li>
   <a href="https://github.com/BradWhittington/django-templated-email">
    django-templated-email
   </a>
-  - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
-  <sup>
-   251 GitHub links in total 352 links, ★ 232, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 232, pushed 21 days ago
   </sup>
+  - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
  </li>
  <li>
   <a href="https://github.com/APSL/django-yubin">
    django-yubin
   </a>
-  - django-mailer2 + django-mailviews with some extras.
-  <sup>
-   251 GitHub links in total 352 links, ★ 17, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 6 days ago
   </sup>
+  - django-mailer2 + django-mailviews with some extras.
  </li>
  <li>
   <a href="https://github.com/bameda/djmail">
    djmail
   </a>
-  - A simple and nonobstructive django email middleware.
-  <sup>
-   251 GitHub links in total 352 links, ★ 44, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 82 days ago
   </sup>
+  - A simple and nonobstructive django email middleware.
  </li>
  <li>
   <a href="https://github.com/brack3t/Djrill/">
@@ -1183,13 +1069,10 @@
   <a href="https://github.com/areski/django-audiofield">
    django-audiofield
   </a>
-  -  Allows audio files upload, management and conversion to different audio format (mp3, wav & ogg).
-  <sup>
-   251 GitHub links in total 352 links, ★ 71, pushed 63 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 63 days ago
   </sup>
+  -  Allows audio files upload, management and conversion to different audio format (mp3, wav & ogg).
  </li>
  <li>
   <a href="https://github.com/disqus/django-bitfield/">
@@ -1237,13 +1120,10 @@
   <a href="https://github.com/django-macaddress/django-macaddress">
    django-macaddress
   </a>
-  - MAC Address model and form fields for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 21, pushed 89 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 89 days ago
   </sup>
+  - MAC Address model and form fields for Django.
  </li>
  <li>
   <a href="https://github.com/stefanfoulis/django-phonenumber-field/">
@@ -1266,13 +1146,10 @@ phone numbers.
   <a href="https://github.com/and3rson/django-searchable-select">
    django-searchable-select
   </a>
-  - A better and faster multiple choice widget with suggestions.
-  <sup>
-   251 GitHub links in total 352 links, ★ 11, pushed 89 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 89 days ago
   </sup>
+  - A better and faster multiple choice widget with suggestions.
  </li>
  <li>
   <a href="https://github.com/dcramer/django-uuidfield/">
@@ -1396,13 +1273,10 @@ phone numbers.
   <a href="https://github.com/jonasundderwolf/django-image-cropping">
    django-image-cropping
   </a>
-  - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
-  <sup>
-   251 GitHub links in total 352 links, ★ 325, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 325, pushed 4 days ago
   </sup>
+  - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
  </li>
  <li>
   <a href="https://github.com/WGBH/django-versatileimagefield/">
@@ -1452,25 +1326,19 @@ phone numbers.
   <a href="https://github.com/jleclanche/django-push-notifications">
    django-push-notifications
   </a>
-  - A minimal Django app that implements Device models that can send messages through APNS and GCM.
-  <sup>
-   251 GitHub links in total 352 links, ★ 687, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 687, pushed 6 days ago
   </sup>
+  - A minimal Django app that implements Device models that can send messages through APNS and GCM.
  </li>
  <li>
   <a href="https://github.com/rakanalh/django-pushy">
    django-pushy
   </a>
-  - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
-  <sup>
-   251 GitHub links in total 352 links, ★ 138, pushed 63 days ago
-  </sup>
   <sup>
    &#9733 138, pushed 63 days ago
   </sup>
+  - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
  </li>
 </ul>
 <h2>
@@ -1510,13 +1378,10 @@ phone numbers.
   <a href="https://github.com/tabo/django-treebeard">
    django-treebeard
   </a>
-  -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
-  <sup>
-   251 GitHub links in total 352 links, ★ 305, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 305, pushed 1 days ago
   </sup>
+  -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
  </li>
 </ul>
 <h2>
@@ -1562,13 +1427,10 @@ phone numbers.
   <a href="https://github.com/spookylukey/django-paypal">
    django-paypal
   </a>
-  - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.
-  <sup>
-   251 GitHub links in total 352 links, ★ 304, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 304, pushed 25 days ago
   </sup>
+  - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.
  </li>
  <li>
   <a href="https://github.com/rossp/django-pinpayments/">
@@ -1659,13 +1521,10 @@ phone numbers.
   <a href="https://github.com/ekonstantinidis/django-rest-framework-docs">
    drfdocs
   </a>
-  - Document Web APIs made with Django REST Framework
-  <sup>
-   251 GitHub links in total 352 links, ★ 107, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 107, pushed 21 days ago
   </sup>
+  - Document Web APIs made with Django REST Framework
  </li>
  <li>
   <a href="http://tastypieapi.org/">
@@ -1693,13 +1552,10 @@ phone numbers.
   <a href="https://github.com/django-haystack/django-haystack">
    django-haystack
   </a>
-  - Modular search for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1955, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 1955, pushed 20 days ago
   </sup>
+  - Modular search for Django.
  </li>
  <li>
   <a href="https://github.com/etianen/django-watson/">
@@ -1711,13 +1567,10 @@ phone numbers.
   <a href="https://github.com/linuxlewis/djorm-ext-pgfulltext">
    djorm-ext-pgfulltext
   </a>
-  - PostgreSQL full-text search integration with django orm.
-  <sup>
-   251 GitHub links in total 352 links, ★ 211, pushed 74 days ago
-  </sup>
   <sup>
    &#9733 211, pushed 74 days ago
   </sup>
+  - PostgreSQL full-text search integration with django orm.
  </li>
 </ul>
 <h2>
@@ -1767,13 +1620,10 @@ phone numbers.
   <a href="https://github.com/gotlium/django-secure-auth">
    django-secure-auth
   </a>
+  <sup>
+   &#9733 13, pushed 6 days ago
+  </sup>
   - Secure authentication by TOTP, SMS, Codes & Question. Login protection with ban by IP and captcha.
-  <sup>
-   251 GitHub links in total 352 links, ★ 13, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 13, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sdelements/django-security/">
@@ -1797,13 +1647,10 @@ phone numbers.
   <a href="https://github.com/mattrobenolt/django-sudo">
    django-sudo
   </a>
-  - Sudo mode is an extra layer of security for your most sensitive pages. This is an implementation of GitHub's Sudo Mode for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 185, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 185, pushed 84 days ago
   </sup>
+  - Sudo mode is an extra layer of security for your most sensitive pages. This is an implementation of GitHub's Sudo Mode for Django.
  </li>
 </ul>
 <h2>
@@ -1825,13 +1672,10 @@ phone numbers.
   <a href="https://github.com/jazzband/django-robots">
    django-robots
   </a>
-  - A Django app for managing robots.txt files following the robots exclusion protocol.
-  <sup>
-   251 GitHub links in total 352 links, ★ 177, pushed 54 days ago
-  </sup>
   <sup>
    &#9733 177, pushed 54 days ago
   </sup>
+  - A Django app for managing robots.txt files following the robots exclusion protocol.
  </li>
  <li>
   <a href="https://github.com/romansalin/django-seo2/">
@@ -1853,25 +1697,19 @@ phone numbers.
   <a href="https://github.com/jazzband/django-configurations">
    django-configurations
   </a>
-  - A helper for organizing Django project settings by relying on well established programming patterns.
-  <sup>
-   251 GitHub links in total 352 links, ★ 444, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 444, pushed 28 days ago
   </sup>
+  - A helper for organizing Django project settings by relying on well established programming patterns.
  </li>
  <li>
   <a href="https://github.com/jazzband/django-constance">
    django-constance
   </a>
-  - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
-  <sup>
-   251 GitHub links in total 352 links, ★ 632, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 632, pushed 12 days ago
   </sup>
+  - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
  </li>
  <li>
   <a href="https://github.com/henriquebastos/python-decouple/">
@@ -1883,25 +1721,19 @@ phone numbers.
   <a href="https://github.com/joke2k/django-environ">
    django-environ
   </a>
-  - Allows you to utilize 12factor inspired environment variables to configure your Django application.
-  <sup>
-   251 GitHub links in total 352 links, ★ 418, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 418, pushed 29 days ago
   </sup>
+  - Allows you to utilize 12factor inspired environment variables to configure your Django application.
  </li>
  <li>
   <a href="https://github.com/sobolevn/django-split-settings">
    django-split-settings
   </a>
-  - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
-  <sup>
-   251 GitHub links in total 352 links, ★ 72, pushed 163 days ago
-  </sup>
   <sup>
    &#9733 72, pushed 163 days ago
   </sup>
+  - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
  </li>
 </ul>
 <h2>
@@ -1917,29 +1749,23 @@ phone numbers.
   <a href="https://github.com/EliotBerriot/django-dynamic-preferences">
    django-dynamic-preferences
   </a>
-  - Dynamic global and instance settings for your django project.
-  <sup>
-   251 GitHub links in total 352 links, ★ 55, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 68 days ago
   </sup>
+  - Dynamic global and instance settings for your django project.
  </li>
  <li>
   <a href="https://github.com/marazmiki/django-selectel-storage">
    django-selectel-storage
   </a>
+  <sup>
+   &#9733 3, pushed 51 days ago
+  </sup>
   - This application allows you easily save media and static files into
   <a href="https://selectel.ru/">
    Selectel
   </a>
   cloud storage.
-  <sup>
-   251 GitHub links in total 352 links, ★ 3, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 51 days ago
-  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/david/django-storages/src/">
@@ -1951,25 +1777,19 @@ phone numbers.
   <a href="https://github.com/jazzband/django-queued-storage">
    django-queued-storage
   </a>
-  - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
-  <sup>
-   251 GitHub links in total 352 links, ★ 224, pushed 139 days ago
-  </sup>
   <sup>
    &#9733 224, pushed 139 days ago
   </sup>
+  - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
  </li>
  <li>
   <a href="https://github.com/marazmiki/django-webdav-storage">
    django-webdav-storage
   </a>
+  <sup>
+   &#9733 7, pushed 86 days ago
+  </sup>
   - Django storage backend that stores files in custom WebDAV storage.
-  <sup>
-   251 GitHub links in total 352 links, ★ 7, pushed 85 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 85 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1986,13 +1806,10 @@ phone numbers.
   <a href="https://github.com/mfcovington/django-taggit-helpers">
    django-taggit-helpers
   </a>
-  - Django admin helper classes for django-taggit tags.
-  <sup>
-   251 GitHub links in total 352 links, ★ 11, pushed 150 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 150 days ago
   </sup>
+  - Django admin helper classes for django-taggit tags.
  </li>
 </ul>
 <h2>
@@ -2014,29 +1831,23 @@ phone numbers.
   <a href="https://github.com/Koed00/django-q">
    django-q
   </a>
-  - A native multiprocessing task queue for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 341, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 341, pushed 9 days ago
   </sup>
+  - A native multiprocessing task queue for Django.
  </li>
  <li>
   <a href="https://github.com/ui/django-rq">
    django-rq
   </a>
+  <sup>
+   &#9733 468, pushed 6 days ago
+  </sup>
   - The easiest way to monitor and use
   <a href="http://python-rq.org">
    RQ
   </a>
   in your Django projects.
-  <sup>
-   251 GitHub links in total 352 links, ★ 468, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 468, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/coleifer/huey/">
@@ -2058,13 +1869,10 @@ phone numbers.
   <a href="https://github.com/behave/behave-django">
    behave-django
   </a>
-  - Behave BDD integration for Django
-  <sup>
-   251 GitHub links in total 352 links, ★ 10, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 16 days ago
   </sup>
+  - Behave BDD integration for Django
  </li>
  <li>
   <a href="https://github.com/django-behave/django-behave/">
@@ -2076,13 +1884,10 @@ phone numbers.
   <a href="https://github.com/paulocheque/django-dynamic-fixture">
    django-dynamic-fixture
   </a>
-  - A complete library to create dynamic model instances for testing purposes.
-  <sup>
-   251 GitHub links in total 352 links, ★ 229, pushed 140 days ago
-  </sup>
   <sup>
    &#9733 229, pushed 140 days ago
   </sup>
+  - A complete library to create dynamic model instances for testing purposes.
  </li>
  <li>
   <a href="https://github.com/joke2k/django-faker/">
@@ -2094,13 +1899,10 @@ phone numbers.
   <a href="https://github.com/kmmbvnr/django-jenkins">
    django-jenkins
   </a>
-  - Plug and play continuous integration with django and jenkins.
-  <sup>
-   251 GitHub links in total 352 links, ★ 715, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 715, pushed 25 days ago
   </sup>
+  - Plug and play continuous integration with django and jenkins.
  </li>
  <li>
   <a href="https://github.com/django-nose/django-nose/">
@@ -2118,37 +1920,28 @@ phone numbers.
   <a href="https://github.com/stephenmcd/django-shotgun">
    django-shotgun
   </a>
-  - Test entire Django sites.
-  <sup>
-   251 GitHub links in total 352 links, ★ 6, pushed 789 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 789 days ago
   </sup>
+  - Test entire Django sites.
  </li>
  <li>
   <a href="https://github.com/realpython/django-slow-tests">
    django-slowtests
   </a>
-  - Locate your slowest tests.
-  <sup>
-   251 GitHub links in total 352 links, ★ 92, pushed 60 days ago
-  </sup>
   <sup>
    &#9733 92, pushed 60 days ago
   </sup>
+  - Locate your slowest tests.
  </li>
  <li>
   <a href="https://github.com/revsys/django-test-plus">
    django-test-plus
   </a>
-  - Useful addons to Django's default TestCase that greatly reduces boilerplate code
-  <sup>
-   251 GitHub links in total 352 links, ★ 141, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 141, pushed 13 days ago
   </sup>
+  - Useful addons to Django's default TestCase that greatly reduces boilerplate code
  </li>
  <li>
   <a href="https://github.com/rbarrois/factory_boy/">
@@ -2172,25 +1965,19 @@ phone numbers.
   <a href="https://github.com/klen/mixer">
    mixer
   </a>
-  - An application to generate instances of Django or SQLAlchemy models. Fast and convenient test-data generation.
-  <sup>
-   251 GitHub links in total 352 links, ★ 299, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 299, pushed 15 days ago
   </sup>
+  - An application to generate instances of Django or SQLAlchemy models. Fast and convenient test-data generation.
  </li>
  <li>
   <a href="https://github.com/dcramer/mock-django">
    mock-django
   </a>
-  - A simple library for mocking certain Django behavior, such as the ORM.
-  <sup>
-   251 GitHub links in total 352 links, ★ 178, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 178, pushed 84 days ago
   </sup>
+  - A simple library for mocking certain Django behavior, such as the ORM.
  </li>
  <li>
   <a href="https://github.com/vandersonmota/model_mommy/">
@@ -2236,13 +2023,10 @@ phone numbers.
   <a href="https://github.com/SmileyChris/easy-thumbnails">
    easy-thumbnails
   </a>
-  - Easy thumbnails for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 825, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 825, pushed 17 days ago
   </sup>
+  - Easy thumbnails for Django.
  </li>
  <li>
   <a href="https://github.com/mariocesar/sorl-thumbnail/">
@@ -2264,13 +2048,10 @@ phone numbers.
   <a href="https://github.com/KristianOellegaard/django-hvad">
    django-hvad
   </a>
-  - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
-  <sup>
-   251 GitHub links in total 352 links, ★ 351, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 351, pushed 43 days ago
   </sup>
+  - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
  </li>
  <li>
   <a href="https://github.com/angvp/django-klingon/">
@@ -2288,13 +2069,10 @@ phone numbers.
   <a href="https://github.com/edoburu/django-parler">
    django-parler
   </a>
-  - Simple Django model translations without nasty hacks
-  <sup>
-   251 GitHub links in total 352 links, ★ 182, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 182, pushed 14 days ago
   </sup>
+  - Simple Django model translations without nasty hacks
  </li>
  <li>
   <a href="https://github.com/mbi/django-rosetta/">
@@ -2339,29 +2117,23 @@ phone numbers.
   <a href="https://github.com/nvbn/django-bower">
    django-bower
   </a>
+  <sup>
+   &#9733 426, pushed 11 days ago
+  </sup>
   - Easy way to use
   <a href="http://bower.io">
    bower
   </a>
   with your Django project.
-  <sup>
-   251 GitHub links in total 352 links, ★ 426, pushed 11 days ago
-  </sup>
-  <sup>
-   &#9733 426, pushed 11 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ierror/django-js-reverse">
    django-js-reverse
   </a>
-  - Javascript url handling for Django that doesn't hurt.
-  <sup>
-   251 GitHub links in total 352 links, ★ 265, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 265, pushed 18 days ago
   </sup>
+  - Javascript url handling for Django that doesn't hurt.
  </li>
  <li>
   <a href="https://github.com/appliedsec/djangular/">
@@ -2418,25 +2190,19 @@ phone numbers.
   <a href="https://github.com/django-wiki/django-wiki">
    django-wiki
   </a>
-  A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
-  <sup>
-   251 GitHub links in total 352 links, ★ 578, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 578, pushed 5 days ago
   </sup>
+  A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
  </li>
  <li>
   <a href="https://github.com/mgaitan/waliki">
    waliki
   </a>
-  An extensible wiki app for Django with a Git backend.
-  <sup>
-   251 GitHub links in total 352 links, ★ 228, pushed 83 days ago
-  </sup>
   <sup>
    &#9733 228, pushed 84 days ago
   </sup>
+  An extensible wiki app for Django with a Git backend.
  </li>
 </ul>
 <h2>
@@ -2476,13 +2242,10 @@ phone numbers.
   <a href="https://github.com/viewflow/viewflow">
    django-viewflow
   </a>
-  - Reusable workflow library for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 429, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 429, pushed 22 days ago
   </sup>
+  - Reusable workflow library for Django.
  </li>
  <li>
   <a href="https://bitbucket.org/jerzyk/django-workflows/">
@@ -2505,13 +2268,10 @@ phone numbers.
   <a href="https://github.com/hellysmile/django-activeurl">
    django-activeurl
   </a>
-  - Easy to use active URL highlighting for django
-  <sup>
-   251 GitHub links in total 352 links, ★ 78, pushed 182 days ago
-  </sup>
   <sup>
    &#9733 78, pushed 182 days ago
   </sup>
+  - Easy to use active URL highlighting for django
  </li>
  <li>
   <a href="https://github.com/justquick/django-activity-stream/">
@@ -2553,25 +2313,19 @@ phone numbers.
   <a href="https://github.com/ottoyiu/django-cors-headers">
    django-cors-headers
   </a>
-  - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
-  <sup>
-   251 GitHub links in total 352 links, ★ 903, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 903, pushed 53 days ago
   </sup>
+  - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
  </li>
  <li>
   <a href="https://github.com/praekelt/django-dfp">
    django-dfp
   </a>
-  - App that provides tags to fetch Google DFP ads.
-  <sup>
-   251 GitHub links in total 352 links, ★ 4, pushed 116 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 116 days ago
   </sup>
+  - App that provides tags to fetch Google DFP ads.
  </li>
  <li>
   <a href="https://github.com/holgerd77/django-dynamic-scraper/">
@@ -2613,85 +2367,64 @@ phone numbers.
   <a href="https://github.com/un33k/django-ipware">
    django-ipware
   </a>
-  - A Django application to retrieve user's IP address.
-  <sup>
-   251 GitHub links in total 352 links, ★ 226, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 226, pushed 17 days ago
   </sup>
+  - A Django application to retrieve user's IP address.
  </li>
  <li>
   <a href="https://github.com/kronoscode/django-magicembed">
    django-magic-embed
   </a>
-  - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
-  <sup>
-   251 GitHub links in total 352 links, ★ 13, pushed 169 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 169 days ago
   </sup>
+  - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
  </li>
  <li>
   <a href="https://github.com/zsiciarz/django-markitup">
    django-markitup
   </a>
-  - A Django reusable application for end-to-end markup handling.
-  <sup>
-   251 GitHub links in total 352 links, ★ 38, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 55 days ago
   </sup>
+  - A Django reusable application for end-to-end markup handling.
  </li>
  <li>
   <a href="https://github.com/LPgenerator/django-mmc">
    django-mmc
   </a>
-  - App for monitoring management commands on Django..
-  <sup>
-   251 GitHub links in total 352 links, ★ 29, pushed 73 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 73 days ago
   </sup>
+  - App for monitoring management commands on Django..
  </li>
  <li>
   <a href="https://github.com/stephenmcd/django-overextends">
    django-overextends
   </a>
-  - Circular template inheritance for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 74, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 74, pushed 11 days ago
   </sup>
+  - Circular template inheritance for Django.
  </li>
  <li>
   <a href="https://github.com/ericflo/django-pagination">
    django-pagination
   </a>
-  - https://github.com/ericflo/django-pagination.
-  <sup>
-   251 GitHub links in total 352 links, ★ 484, pushed 116 days ago
-  </sup>
   <sup>
    &#9733 484, pushed 116 days ago
   </sup>
+  - https://github.com/ericflo/django-pagination.
  </li>
  <li>
   <a href="https://github.com/shtalinberg/django-el-pagination">
    django-el-pagination
   </a>
-  - Django EL(Endless) Pagination can be used to provide Twitter-style or Digg-style pagination, with optional Ajax support.
-  <sup>
-   251 GitHub links in total 352 links, ★ 37, pushed 31 days ago
-  </sup>
   <sup>
    &#9733 37, pushed 31 days ago
   </sup>
+  - Django EL(Endless) Pagination can be used to provide Twitter-style or Digg-style pagination, with optional Ajax support.
  </li>
  <li>
   <a href="https://github.com/tomwalker/django_quiz/">
@@ -2751,13 +2484,10 @@ phone numbers.
   <a href="https://github.com/jrief/django-websocket-redis">
    django-websocket-redis
   </a>
-  - Websockets for Django applications using Redis as message queue.
-  <sup>
-   251 GitHub links in total 352 links, ★ 467, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 467, pushed 6 days ago
   </sup>
+  - Websockets for Django applications using Redis as message queue.
  </li>
  <li>
   <a href="http://tryolabs.github.io/metamon/">
@@ -2800,13 +2530,10 @@ phone numbers.
   <a href="https://github.com/ridethepony/django-fiber">
    django-fiber
   </a>
-  - Django Fiber, a simple, user-friendly CMS for all your Django projects
-  <sup>
-   251 GitHub links in total 352 links, ★ 523, pushed 50 days ago
-  </sup>
   <sup>
    &#9733 523, pushed 50 days ago
   </sup>
+  - Django Fiber, a simple, user-friendly CMS for all your Django projects
  </li>
  <li>
   <a href="https://github.com/feincms/feincms/">
@@ -2852,25 +2579,19 @@ phone numbers.
   <a href="https://github.com/stephenmcd/cartridge">
    Cartridge
   </a>
-  - Ecommerce for Django/Mezzanine.
-  <sup>
-   251 GitHub links in total 352 links, ★ 457, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 457, pushed 3 days ago
   </sup>
+  - Ecommerce for Django/Mezzanine.
  </li>
  <li>
   <a href="https://github.com/django-oscar/django-oscar">
    django-oscar
   </a>
-  - Domain-driven e-commerce for Django.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1970, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1970, pushed 6 days ago
   </sup>
+  - Domain-driven e-commerce for Django.
  </li>
  <li>
   <a href="http://www.getlfs.com/">
@@ -2917,25 +2638,19 @@ phone numbers.
   <a href="https://github.com/stephenmcd/drum">
    Drum
   </a>
-  - Reddit / Hacker News clone for Django/Mezzanine.
-  <sup>
-   251 GitHub links in total 352 links, ★ 255, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 255, pushed 6 days ago
   </sup>
+  - Reddit / Hacker News clone for Django/Mezzanine.
  </li>
  <li>
   <a href="https://github.com/tfroehlich82/koalixcrm">
    koalixcrm
   </a>
-  - Beautiful CRM/ERP for small business.
-  <sup>
-   251 GitHub links in total 352 links, ★ 34, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 8 days ago
   </sup>
+  - Beautiful CRM/ERP for small business.
  </li>
 </ul>
 <h2>
@@ -2952,13 +2667,10 @@ phone numbers.
   <a href="https://github.com/taigaio/taiga-back">
    taiga
   </a>
-  - Agile, Free and Open Source Project Management Tool
-  <sup>
-   251 GitHub links in total 352 links, ★ 2779, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2779, pushed 2 days ago
   </sup>
+  - Agile, Free and Open Source Project Management Tool
  </li>
 </ul>
 <h1>
@@ -2977,13 +2689,10 @@ phone numbers.
   <a href="https://github.com/kevinlondon/django-by-example">
    Django by Example
   </a>
-  (1.2)
-  <sup>
-   251 GitHub links in total 352 links, ★ 10, pushed 1057 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 1057 days ago
   </sup>
+  (1.2)
  </li>
  <li>
   <a href="http://agiliq.com/books/djenofdjango/">
@@ -3118,13 +2827,10 @@ phone numbers.
   <a href="https://github.com/pydanny/cookiecutter-django">
    cookiecutter-django
   </a>
-  - A cookiecutter template for creating Django projects quickly.
-  <sup>
-   251 GitHub links in total 352 links, ★ 1475, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1475, pushed 1 days ago
   </sup>
+  - A cookiecutter template for creating Django projects quickly.
  </li>
 </ul>
 <h2>
@@ -3197,13 +2903,10 @@ phone numbers.
   <a href="https://github.com/dcramer/logan">
    Logan
   </a>
-  - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
-  <sup>
-   251 GitHub links in total 352 links, ★ 185, pushed 144 days ago
-  </sup>
   <sup>
    &#9733 185, pushed 144 days ago
   </sup>
+  - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
  </li>
 </ul>
 <h1>

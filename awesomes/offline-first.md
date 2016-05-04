@@ -432,7 +432,7 @@
 </p>
 <p>
  <a href="http://www.cbronline.com/news/mobility/apps/qa-offline-first-not-just-mobile-first-says-couchbase-4609613">
-  Q&A;: Offline first, not just mobile first says Couchbase
+  Q&A: Offline first, not just mobile first says Couchbase
  </a>
  (James Nunns - Jun 26, 2015)
 </p>

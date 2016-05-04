@@ -284,25 +284,19 @@
   <a href="https://github.com/commercialhaskell/stack">
    Stack
   </a>
-  - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-  <sup>
-   11 GitHub links in total 259 links, ★ 1604, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1604, pushed 1 days ago
   </sup>
+  - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
  </li>
  <li>
   <a href="https://github.com/fpco/stackage">
    Stackage
   </a>
-  - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
-  <sup>
-   11 GitHub links in total 259 links, ★ 232, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 232, pushed 2 days ago
   </sup>
+  - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
  </li>
  <li>
   <a href="https://www.haskell.org/platform/contents.html">
@@ -661,13 +655,10 @@
   <a href="https://github.com/facebook/Haxl">
    Haxl
   </a>
-  - a library for efficient, concurrent, concise data access.
-  <sup>
-   11 GitHub links in total 259 links, ★ 2212, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 2212, pushed 47 days ago
   </sup>
+  - a library for efficient, concurrent, concise data access.
  </li>
 </ul>
 <h2>
@@ -1218,25 +1209,19 @@
   <a href="https://github.com/haskell/HTTP">
    HTTP
   </a>
-  - Haskell HTTP package. Supports client-side web programming in Haskell.
-  <sup>
-   11 GitHub links in total 259 links, ★ 98, pushed 83 days ago
-  </sup>
   <sup>
    &#9733 98, pushed 83 days ago
   </sup>
+  - Haskell HTTP package. Supports client-side web programming in Haskell.
  </li>
  <li>
   <a href="https://github.com/freizl/hoauth2">
    hoauth2
   </a>
-  - a lightweight oauth2 haskell binding.
-  <sup>
-   11 GitHub links in total 259 links, ★ 44, pushed 76 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 76 days ago
   </sup>
+  - a lightweight oauth2 haskell binding.
  </li>
 </ul>
 <h2>
@@ -1268,13 +1253,10 @@
   <a href="https://github.com/hreinhardt/amqp">
    amqp
   </a>
-  - client library for AMQP servers (currently only RabbitMQ).
-  <sup>
-   11 GitHub links in total 259 links, ★ 71, pushed 79 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 79 days ago
   </sup>
+  - client library for AMQP servers (currently only RabbitMQ).
  </li>
  <li>
   <a href="http://hackage.haskell.org/packages/#cat:IRC">
@@ -1368,13 +1350,10 @@
   <a href="https://github.com/idris-lang/Idris-dev">
    Idris
   </a>
-  - A Dependently Typed Functional Programming Language
-  <sup>
-   11 GitHub links in total 259 links, ★ 1198, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1198, pushed 2 days ago
   </sup>
+  - A Dependently Typed Functional Programming Language
  </li>
  <li>
   <a href="http://leepike.github.io/Copilot/">
@@ -1564,17 +1543,14 @@
   <a href="https://github.com/snoyberg/conduit">
    Conduit
   </a>
+  <sup>
+   &#9733 289, pushed 31 days ago
+  </sup>
   - a streaming data library.
   <a href="http://hackage.haskell.org/packages/#cat:Conduit">
    Resources
   </a>
   .
-  <sup>
-   11 GitHub links in total 259 links, ★ 289, pushed 31 days ago
-  </sup>
-  <sup>
-   &#9733 289, pushed 31 days ago
-  </sup>
  </li>
  <li>
   <a href="http://hackage.haskell.org/packages/#cat:IO-Streams">
@@ -1586,17 +1562,14 @@
   <a href="https://github.com/Gabriel439/Haskell-Pipes-Library">
    Pipes
   </a>
+  <sup>
+   &#9733 272, pushed 12 days ago
+  </sup>
   - is a clean and powerful stream processing library that lets you build and connect reusable streaming components.
   <a href="http://hackage.haskell.org/packages/#cat:Pipes">
    Resources
   </a>
   .
-  <sup>
-   11 GitHub links in total 259 links, ★ 272, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 272, pushed 12 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -1711,13 +1684,10 @@
   <a href="https://github.com/bitemyapp/learnhaskell">
    learnhaskell
   </a>
-  - Haskell Learning (also for non-English speakers).
-  <sup>
-   11 GitHub links in total 259 links, ★ 3690, pushed 61 days ago
-  </sup>
   <sup>
    &#9733 3690, pushed 62 days ago
   </sup>
+  - Haskell Learning (also for non-English speakers).
  </li>
  <li>
   <a href="http://dev.stephendiehl.com/hask/">

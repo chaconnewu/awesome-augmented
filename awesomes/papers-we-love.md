@@ -346,9 +346,6 @@
    Services Engineering Reading List
   </a>
   <sup>
-   1 GitHub links in total 58 links, ★ 2107, pushed 270 days ago
-  </sup>
-  <sup>
    &#9733 2107, pushed 270 days ago
   </sup>
  </li>

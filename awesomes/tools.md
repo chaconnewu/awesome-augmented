@@ -358,9 +358,6 @@
    colors
   </a>
   <sup>
-   2 GitHub links in total 88 links, ★ 6715, pushed 65 days ago
-  </sup>
-  <sup>
    &#9733 6715, pushed 65 days ago
   </sup>
  </li>
@@ -433,9 +430,6 @@
   <a href="https://github.com/lvwzhen/iconpark">
    iconpark
   </a>
-  <sup>
-   2 GitHub links in total 88 links, ★ 291, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 291, pushed 4 days ago
   </sup>

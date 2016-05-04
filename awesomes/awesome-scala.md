@@ -195,13 +195,10 @@
   <a href="https://github.com/fwbrasil/activate">
    Activate ★ 290 ⧗ 1
   </a>
-  - Pluggable object persistence in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 290, pushed 66 days ago
-  </sup>
   <sup>
    &#9733 290, pushed 66 days ago
   </sup>
+  - Pluggable object persistence in Scala.
  </li>
  <li>
   <a href="http://mongodb.github.io/casbah/">
@@ -217,51 +214,39 @@
   <a href="https://github.com/tpolecat/doobie">
    doobie ★ 426 ⧗ 0
   </a>
-  - Pure functional JDBC layer for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 442, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 442, pushed 3 days ago
   </sup>
+  - Pure functional JDBC layer for Scala.
  </li>
  <li>
   <strong>
    <a href="https://github.com/sksamuel/elastic4s">
     Elastic4s ★ 587 ⧗ 0
    </a>
+   <sup>
+    &#9733 598, pushed 2 days ago
+   </sup>
   </strong>
   - A scala DSL / reactive client for Elasticsearch
-  <sup>
-   183 GitHub links in total 265 links, ★ 598, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 598, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kostaskougios/mapperdao">
    MapperDao ★ 8 ⧗ 32
   </a>
-  - An ORM library for oracle, mysql, mssql, and postgresql
-  <sup>
-   183 GitHub links in total 265 links, ★ 8, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 8 days ago
   </sup>
+  - An ORM library for oracle, mysql, mssql, and postgresql
  </li>
  <li>
   <a href="https://github.com/Atry/memcontinuationed">
    Memcontinuationed ★ 49 ⧗ 22
   </a>
-  - Memcached client for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 49, pushed 133 days ago
-  </sup>
   <sup>
    &#9733 49, pushed 133 days ago
   </sup>
+  - Memcached client for Scala.
  </li>
  <li>
   <a href="https://github.com/websudos/morpheus">
@@ -280,26 +265,20 @@
    <a href="https://github.com/mauricio/postgresql-async">
     PostgreSQL and MySQL async ★ 787 ⧗ 0
    </a>
+   <sup>
+    &#9733 797, pushed 7 days ago
+   </sup>
   </strong>
   - Async database drivers to talk to PostgreSQL and MySQL in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 797, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 797, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/getquill/quill">
    Quill ★ 471 ⧗ 0
   </a>
-  - Compile-time Language Integrated Query for Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 492, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 492, pushed 3 days ago
   </sup>
+  - Compile-time Language Integrated Query for Scala
  </li>
  <li>
   <a href="http://reactivecouchbase.org/">
@@ -312,14 +291,11 @@
    <a href="https://github.com/ReactiveMongo/ReactiveMongo">
     ReactiveMongo ★ 643 ⧗ 0
    </a>
+   <sup>
+    &#9733 643, pushed 6 days ago
+   </sup>
   </strong>
   - Reactive Scala Driver for MongoDB.
-  <sup>
-   183 GitHub links in total 265 links, ★ 643, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 643, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/websudos/reactiveneo">
@@ -332,38 +308,29 @@
    <a href="https://github.com/etaty/rediscala">
     rediscala ★ 530 ⧗ 0
    </a>
+   <sup>
+    &#9733 538, pushed 8 days ago
+   </sup>
   </strong>
   - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
-  <sup>
-   183 GitHub links in total 265 links, ★ 538, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 538, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lucidsoftware/relate">
    Relate ★ 84 ⧗ 2
   </a>
-  - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
-  <sup>
-   183 GitHub links in total 265 links, ★ 90, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 90, pushed 71 days ago
   </sup>
+  - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
  </li>
  <li>
   <a href="https://github.com/kclay/rethink-scala">
    rethink-scala ★ 87 ⧗ 3
   </a>
-  - Scala Driver for RethinkDB
-  <sup>
-   183 GitHub links in total 265 links, ★ 91, pushed 91 days ago
-  </sup>
   <sup>
    &#9733 91, pushed 91 days ago
   </sup>
+  - Scala Driver for RethinkDB
  </li>
  <li>
   <a href="https://github.com/salat/salat/">
@@ -375,103 +342,79 @@
   <a href="https://github.com/aselab/scala-activerecord">
    Scala ActiveRecord ★ 263 ⧗ 0
   </a>
-  - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
-  <sup>
-   183 GitHub links in total 265 links, ★ 265, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 265, pushed 47 days ago
   </sup>
+  - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
  </li>
  <li>
   <strong>
    <a href="https://github.com/debasishg/scala-redis">
     scala-redis ★ 623 ⧗ 3
    </a>
+   <sup>
+    &#9733 627, pushed 59 days ago
+   </sup>
   </strong>
   - A Scala library for connecting to a redis server, with clustering support
-  <sup>
-   183 GitHub links in total 265 links, ★ 627, pushed 59 days ago
-  </sup>
-  <sup>
-   &#9733 627, pushed 59 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/scalikejdbc/scalikejdbc">
     ScalikeJDBC ★ 583 ⧗ 0
    </a>
+   <sup>
+    &#9733 590, pushed 2 days ago
+   </sup>
   </strong>
   - A tidy SQL-based DB access library for Scala developers.
-  <sup>
-   183 GitHub links in total 265 links, ★ 590, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 590, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Livestream/scredis">
    scredis ★ 141 ⧗ 0
   </a>
-  - Non-blocking Redis client built on top of Akka IO (used by Livestream)
-  <sup>
-   183 GitHub links in total 265 links, ★ 142, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 142, pushed 12 days ago
   </sup>
+  - Non-blocking Redis client built on top of Akka IO (used by Livestream)
  </li>
  <li>
   <strong>
    <a href="https://github.com/slick/slick">
     Slick ★ 1499 ⧗ 0
    </a>
+   <sup>
+    &#9733 1524, pushed 2 days ago
+   </sup>
   </strong>
   - Modern database query and access library for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1524, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 1524, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sorm/sorm">
    Sorm ★ 209 ⧗ 0
   </a>
-  - A functional boilerplate-free Scala ORM.
-  <sup>
-   183 GitHub links in total 265 links, ★ 211, pushed 179 days ago
-  </sup>
   <sup>
    &#9733 211, pushed 179 days ago
   </sup>
+  - A functional boilerplate-free Scala ORM.
  </li>
  <li>
   <a href="https://github.com/squeryl/squeryl">
    Squeryl ★ 457 ⧗ 9
   </a>
+  <sup>
+   &#9733 456, pushed 5 days ago
+  </sup>
   - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
-  <sup>
-   183 GitHub links in total 265 links, ★ 456, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 456, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fehmicansaglam/tepkin">
    Tepkin ★ 84 ⧗ 13
   </a>
-  - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
-  <sup>
-   183 GitHub links in total 265 links, ★ 85, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 85, pushed 56 days ago
   </sup>
+  - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
  </li>
 </ul>
 <h2>
@@ -482,13 +425,10 @@
   <a href="https://github.com/SpinGo/op-rabbit">
    Op-Rabbit ★ 96 ⧗ 19
   </a>
-  - High-level messaging library for Akka and Op-Rabbit.
-  <sup>
-   183 GitHub links in total 265 links, ★ 100, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 100, pushed 64 days ago
   </sup>
+  - High-level messaging library for Akka and Op-Rabbit.
  </li>
 </ul>
 <h2>
@@ -526,13 +466,10 @@
   <a href="https://github.com/mesosphere/chaos">
    Chaos ★ 182 ⧗ 4
   </a>
-  - A lightweight framework for writing REST services in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 185, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 185, pushed 8 days ago
   </sup>
+  - A lightweight framework for writing REST services in Scala.
  </li>
  <li>
   <a href="http://tumblr.github.io/colossus/">
@@ -545,98 +482,77 @@
    <a href="https://github.com/twitter/finatra">
     Finatra ★ 1189 ⧗ 0
    </a>
+   <sup>
+    &#9733 1210, pushed 5 days ago
+   </sup>
   </strong>
   - A sinatra-inspired web framework for scala, running on top of Finagle.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1210, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 1210, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/lift/framework">
     Lift ★ 983 ⧗ 2
    </a>
+   <sup>
+    &#9733 992, pushed 4 days ago
+   </sup>
   </strong>
   - Secure and powerful full stack web framework (
   <a href="https://github.com/lauris/awesome-scala/pull/19">
    discussion
   </a>
   ).
-  <sup>
-   183 GitHub links in total 265 links, ★ 992, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 992, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dvarelap/peregrine">
    peregine ★ 7 ⧗ 35
   </a>
-  - A simple and async lightweight Scala web framework.
-  <sup>
-   183 GitHub links in total 265 links, ★ 8, pushed 91 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 91 days ago
   </sup>
+  - A simple and async lightweight Scala web framework.
  </li>
  <li>
   <strong>
    <a href="https://github.com/playframework/playframework">
     Play ★ 7693 ⧗ 0
    </a>
+   <sup>
+    &#9733 7800, pushed 1 days ago
+   </sup>
   </strong>
   - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 7800, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 7800, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nafg/reactive">
    Reactive ★ 194 ⧗ 37
   </a>
-  - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
-  <sup>
-   183 GitHub links in total 265 links, ★ 193, pushed 277 days ago
-  </sup>
   <sup>
    &#9733 193, pushed 277 days ago
   </sup>
+  - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
  </li>
  <li>
   <strong>
    <a href="https://github.com/scalatra/scalatra">
     Scalatra ★ 1903 ⧗ 0
    </a>
+   <sup>
+    &#9733 1918, pushed 26 days ago
+   </sup>
   </strong>
   - Tiny Scala high-performance, async web framework, inspired by Sinatra.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1918, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 1918, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/skinny-framework/skinny-framework">
     Skinny Framework ★ 535 ⧗ 0
    </a>
+   <sup>
+    &#9733 539, pushed 3 days ago
+   </sup>
   </strong>
   - A full-stack web app framework upon Scalatra for rapid Development in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 539, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 539, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="http://sockoweb.org/">
@@ -649,28 +565,22 @@
    <a href="https://github.com/spray/spray">
     Spray ★ 2284 ⧗ 0
    </a>
+   <sup>
+    &#9733 2309, pushed 19 days ago
+   </sup>
   </strong>
   - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2309, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 2309, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/unfiltered/unfiltered">
     Unfiltered ★ 626 ⧗ 12
    </a>
+   <sup>
+    &#9733 627, pushed 98 days ago
+   </sup>
   </strong>
   - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 627, pushed 98 days ago
-  </sup>
-  <sup>
-   &#9733 627, pushed 98 days ago
-  </sup>
  </li>
  <li>
   <a href="http://xitrum-framework.github.io/">
@@ -692,13 +602,10 @@
   <a href="https://github.com/ThoughtWorksInc/Binding.scala">
    Binding.scala ★ 79 ⧗ 0
   </a>
-  - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
-  <sup>
-   183 GitHub links in total 265 links, ★ 105, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 105, pushed 4 days ago
   </sup>
+  - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
  </li>
  <li>
   <a href="https://widok.github.io/">
@@ -720,25 +627,19 @@
   <a href="https://github.com/xitrum-framework/scala-xgettext">
    scala-xgettext ★ 15 ⧗ 94
   </a>
-  - A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
-  <sup>
-   183 GitHub links in total 265 links, ★ 15, pushed 262 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 262 days ago
   </sup>
+  - A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
  </li>
  <li>
   <a href="https://github.com/xitrum-framework/scaposer">
    Scaposer ★ 27 ⧗ 23
   </a>
-  - GNU Gettext .po file loader for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 27, pushed 261 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 262 days ago
   </sup>
+  - GNU Gettext .po file loader for Scala.
  </li>
 </ul>
 <h2>
@@ -754,77 +655,59 @@
   <a href="https://github.com/softwaremill/akka-http-session">
    akka-http-session ★ 166 ⧗ 3
   </a>
-  - Web&mobile; client-side sessions for akka-http based applications, with optional JWT support
-  <sup>
-   183 GitHub links in total 265 links, ★ 172, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 172, pushed 11 days ago
   </sup>
+  - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
  </li>
  <li>
   <a href="https://github.com/pac4j/play-pac4j">
    play-pac4j ★ 209 ⧗ 1
   </a>
-  - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 210, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 210, pushed 18 days ago
   </sup>
+  - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
  </li>
  <li>
   <a href="https://github.com/mohiva/play-silhouette">
    play-silhouette ★ 451 ⧗ 1
   </a>
-  - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
-  <sup>
-   183 GitHub links in total 265 links, ★ 454, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 454, pushed 7 days ago
   </sup>
+  - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
  </li>
  <li>
   <strong>
    <a href="https://github.com/t2v/play2-auth">
     play2-auth ★ 560 ⧗ 0
    </a>
+   <sup>
+    &#9733 560, pushed 19 days ago
+   </sup>
   </strong>
   - Play2.x Authentication and Authorization module.
-  <sup>
-   183 GitHub links in total 265 links, ★ 560, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 560, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nulab/scala-oauth2-provider">
    scala-oauth2-provider ★ 317 ⧗ 0
   </a>
-  - OAuth 2.0 server-side implementation written in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 322, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 322, pushed 12 days ago
   </sup>
+  - OAuth 2.0 server-side implementation written in Scala.
  </li>
  <li>
   <strong>
    <a href="https://github.com/jaliss/securesocial">
     SecureSocial ★ 1166 ⧗ 0
    </a>
+   <sup>
+    &#9733 1164, pushed 19 days ago
+   </sup>
   </strong>
   - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1164, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 1164, pushed 19 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -840,13 +723,10 @@
   <a href="https://github.com/schaloner/deadbolt-2">
    deadbolt-2 ★ 398 ⧗ 3
   </a>
-  - A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
-  <sup>
-   183 GitHub links in total 265 links, ★ 400, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 400, pushed 47 days ago
   </sup>
+  - A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
  </li>
 </ul>
 <h2>
@@ -862,13 +742,10 @@
   <a href="https://github.com/ScorexProject/scrypto">
    Scrypto ★ 17 ⧗ 21
   </a>
-  - All-purpose cryptographic framework.
-  <sup>
-   183 GitHub links in total 265 links, ★ 18, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 2 days ago
   </sup>
+  - All-purpose cryptographic framework.
  </li>
 </ul>
 <h2>
@@ -891,14 +768,11 @@
    <a href="https://github.com/rickynils/scalacheck">
     ScalaCheck ★ 953 ⧗ 0
    </a>
+   <sup>
+    &#9733 966, pushed 18 days ago
+   </sup>
   </strong>
   - Property-based testing for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 966, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 966, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://scalameter.github.io/">
@@ -916,63 +790,48 @@
   <a href="https://github.com/scalaprops/scalaprops">
    scalaprops ★ 115 ⧗ 6
   </a>
-  - Another property based testing library for Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 116, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 116, pushed 3 days ago
   </sup>
+  - Another property based testing library for Scala
  </li>
  <li>
   <a href="https://github.com/scalatest/scalatest">
    ScalaTest ★ 380 ⧗ 3
   </a>
-  - A testing tool for Scala and Java developers.
-  <sup>
-   183 GitHub links in total 265 links, ★ 388, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 388, pushed 8 days ago
   </sup>
+  - A testing tool for Scala and Java developers.
  </li>
  <li>
   <a href="https://github.com/xitrum-framework/scalive">
    Scalive ★ 131 ⧗ 1
   </a>
-  - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
-  <sup>
-   183 GitHub links in total 265 links, ★ 131, pushed 347 days ago
-  </sup>
   <sup>
    &#9733 131, pushed 347 days ago
   </sup>
+  - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
  </li>
  <li>
   <strong>
    <a href="https://github.com/etorreborre/specs2">
     Specs2 ★ 500 ⧗ 6
    </a>
+   <sup>
+    &#9733 505, pushed 7 days ago
+   </sup>
   </strong>
   - Software Specifications for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 505, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 505, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lihaoyi/utest">
    µTest ★ 156 ⧗ 2
   </a>
-  - A tiny, portable testing library for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 159, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 159, pushed 17 days ago
   </sup>
+  - A tiny, portable testing library for Scala.
  </li>
 </ul>
 <h2>
@@ -994,63 +853,48 @@
   <a href="https://github.com/travisbrown/circe">
    circe ★ 402 ⧗ 0
   </a>
-  - JSON library based on Argonaut, depends on Cats
-  <sup>
-   183 GitHub links in total 265 links, ★ 429, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 429, pushed 3 days ago
   </sup>
+  - JSON library based on Argonaut, depends on Cats
  </li>
  <li>
   <a href="https://github.com/FasterXML/jackson-module-scala">
    jackson-module-scala ★ 255 ⧗ 2
   </a>
-  - Add-on module for Jackson to support Scala-specific datatypes.
-  <sup>
-   183 GitHub links in total 265 links, ★ 258, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 258, pushed 7 days ago
   </sup>
+  - Add-on module for Jackson to support Scala-specific datatypes.
  </li>
  <li>
   <a href="https://github.com/non/jawn">
    jawn ★ 191 ⧗ 2
   </a>
-  - Fast json parser (According to them, competetive with java gson/jackson speed).
-  <sup>
-   183 GitHub links in total 265 links, ★ 194, pushed 58 days ago
-  </sup>
   <sup>
    &#9733 194, pushed 58 days ago
   </sup>
+  - Fast json parser (According to them, competetive with java gson/jackson speed).
  </li>
  <li>
   <strong>
    <a href="https://github.com/json4s/json4s">
     json4s ★ 654 ⧗ 0
    </a>
+   <sup>
+    &#9733 664, pushed 5 days ago
+   </sup>
   </strong>
   - Project aims to provide a single AST to be used by other scala json libraries.
-  <sup>
-   183 GitHub links in total 265 links, ★ 664, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 664, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nestorpersist/json">
    persist-json ★ 7 ⧗ 60
   </a>
-  - Fast json parser.
-  <sup>
-   183 GitHub links in total 265 links, ★ 7, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 47 days ago
   </sup>
+  - Fast json parser.
  </li>
  <li>
   <a href="https://github.com/playframework/playframework/tree/master/framework/src/play-json">
@@ -1062,49 +906,37 @@
   <a href="https://github.com/gzoller/ScalaJack">
    scalajack ★ 73 ⧗ 5
   </a>
-  - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
-  <sup>
-   183 GitHub links in total 265 links, ★ 74, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 74, pushed 11 days ago
   </sup>
+  - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
  </li>
  <li>
   <a href="https://github.com/wspringer/sonofjson">
    sonofjson ★ 19 ⧗ 110
   </a>
-  - A Scala library for dealing with JSON in a way that makes it almost feel native.
-  <sup>
-   183 GitHub links in total 265 links, ★ 21, pushed 328 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 328 days ago
   </sup>
+  - A Scala library for dealing with JSON in a way that makes it almost feel native.
  </li>
  <li>
   <a href="https://github.com/spray/spray-json">
    spray-json ★ 494 ⧗ 0
   </a>
-  - Lightweight, clean and efficient JSON implementation in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 498, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 498, pushed 8 days ago
   </sup>
+  - Lightweight, clean and efficient JSON implementation in Scala.
  </li>
  <li>
   <a href="https://github.com/qb-project/qbproject">
    qbproject
   </a>
-  - Scala Libs around JSON and API developement for Play Framework.
-  <sup>
-   183 GitHub links in total 265 links, ★ 10, pushed 183 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 183 days ago
   </sup>
+  - Scala Libs around JSON and API developement for Play Framework.
  </li>
 </ul>
 <h2>
@@ -1120,13 +952,10 @@
   <a href="https://github.com/jcazevedo/moultingyaml">
    MoultingYAML ★ 15 ⧗ 13
   </a>
-  - Type-class based YAML serialization and deserialization on top of SnakeYAML.
-  <sup>
-   183 GitHub links in total 265 links, ★ 17, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 56 days ago
   </sup>
+  - Type-class based YAML serialization and deserialization on top of SnakeYAML.
  </li>
 </ul>
 <h2>
@@ -1142,39 +971,30 @@
   <a href="https://github.com/twitter/chill">
    Chill ★ 327 ⧗ 0
   </a>
-  - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
-  <sup>
-   183 GitHub links in total 265 links, ★ 328, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 328, pushed 18 days ago
   </sup>
+  - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
  </li>
  <li>
   <strong>
    <a href="https://github.com/scala/pickling">
     Pickling ★ 729 ⧗ 3
    </a>
+   <sup>
+    &#9733 739, pushed 11 days ago
+   </sup>
   </strong>
   - Fast, customizable, boilerplate-free pickling support.
-  <sup>
-   183 GitHub links in total 265 links, ★ 739, pushed 11 days ago
-  </sup>
-  <sup>
-   &#9733 739, pushed 11 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/SandroGrzicic/ScalaBuff">
    ScalaBuff ★ 196 ⧗ 11
   </a>
-  - a Scala Protocol Buffers (protobuf) compiler
-  <sup>
-   183 GitHub links in total 265 links, ★ 197, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 197, pushed 56 days ago
   </sup>
+  - a Scala Protocol Buffers (protobuf) compiler
  </li>
  <li>
   <a href="http://trueaccord.github.io/ScalaPB/">
@@ -1186,13 +1006,10 @@
   <a href="https://github.com/scodec/scodec">
    scodec ★ 382 ⧗ 2
   </a>
-  - A combinator library for working with binary data.
-  <sup>
-   183 GitHub links in total 265 links, ★ 388, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 388, pushed 45 days ago
   </sup>
+  - A combinator library for working with binary data.
  </li>
  <li>
   <a href="http://twitter.github.io/scrooge/">
@@ -1204,13 +1021,10 @@
   <a href="https://github.com/jto/validation">
    validation ★ 128 ⧗ 15
   </a>
-  - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
-  <sup>
-   183 GitHub links in total 265 links, ★ 134, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 134, pushed 13 days ago
   </sup>
+  - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
  </li>
  <li>
   <a href="http://lihaoyi.github.io/upickle-pprint/upickle/">
@@ -1233,14 +1047,11 @@
    <a href="https://github.com/twitter/algebird">
     Algebird ★ 1195 ⧗ 0
    </a>
+   <sup>
+    &#9733 1215, pushed 6 days ago
+   </sup>
   </strong>
   - Abstract Algebra for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1215, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 1215, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="http://axle-lang.org">
@@ -1253,62 +1064,47 @@
    <a href="https://github.com/scalanlp/breeze">
     Breeze ★ 1451 ⧗ 1
    </a>
+   <sup>
+    &#9733 1500, pushed 8 days ago
+   </sup>
   </strong>
   - Breeze is a numerical processing library for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1500, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 1500, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/scalanlp/chalk">
    Chalk ★ 200 ⧗ 0
   </a>
-  - Chalk is a natural language processing library.
-  <sup>
-   183 GitHub links in total 265 links, ★ 200, pushed 565 days ago
-  </sup>
   <sup>
    &#9733 200, pushed 565 days ago
   </sup>
+  - Chalk is a natural language processing library.
  </li>
  <li>
   <a href="https://github.com/factorie/factorie">
    FACTORIE ★ 393 ⧗ 1
   </a>
-  - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 403, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 403, pushed 5 days ago
   </sup>
+  - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
  </li>
  <li>
   <a href="https://github.com/p2t2/figaro">
    Figaro ★ 289 ⧗ 0
   </a>
-  - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
-  <sup>
-   183 GitHub links in total 265 links, ★ 310, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 310, pushed 4 days ago
   </sup>
+  - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
  </li>
  <li>
   <a href="https://github.com/openmole/mgo">
    MGO ★ 12 ⧗ 85
   </a>
-  - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
-  <sup>
-   183 GitHub links in total 265 links, ★ 12, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 8 days ago
   </sup>
+  - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
  </li>
  <li>
   <a href="https://spark.apache.org/mllib/">
@@ -1320,13 +1116,10 @@
   <a href="https://github.com/ISCPIF/openmole">
    OpenMOLE ★ 11 ⧗ 137
   </a>
-  - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
-  <sup>
-   183 GitHub links in total 265 links, ★ 11, pushed 245 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 245 days ago
   </sup>
+  - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
  </li>
  <li>
   <a href="https://bitbucket.org/oscarlib/oscar/wiki/Home">
@@ -1338,39 +1131,30 @@
   <a href="https://github.com/nestorpersist/units">
    Persist-Units ★ 6 ⧗ 29
   </a>
-  - Type check units of measure in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 6, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 55 days ago
   </sup>
+  - Type check units of measure in Scala.
  </li>
  <li>
   <strong>
    <a href="https://github.com/PredictionIO/PredictionIO">
     PredictionIO ★ 8944 ⧗ 0
    </a>
+   <sup>
+    &#9733 9075, pushed 5 days ago
+   </sup>
   </strong>
   - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
-  <sup>
-   183 GitHub links in total 265 links, ★ 9075, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 9075, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/saddle/saddle">
    Saddle ★ 373 ⧗ 4
   </a>
-  - A minimalist port of Pandas to Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 378, pushed 338 days ago
-  </sup>
   <sup>
    &#9733 378, pushed 338 days ago
   </sup>
+  - A minimalist port of Pandas to Scala
  </li>
  <li>
   <a href="http://haifengl.github.io/smile/">
@@ -1383,26 +1167,20 @@
    <a href="https://github.com/non/spire">
     Spire ★ 919 ⧗ 0
    </a>
+   <sup>
+    &#9733 938, pushed 12 days ago
+   </sup>
   </strong>
   - Powerful new number types and numeric abstractions for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 938, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 938, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/garyKeorkunian/squants">
    Squants ★ 259 ⧗ 8
   </a>
-  - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
-  <sup>
-   183 GitHub links in total 265 links, ★ 266, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 266, pushed 7 days ago
   </sup>
+  - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
  </li>
  <li>
   <a href="http://zeppelin-project.org/">
@@ -1420,104 +1198,80 @@
    <a href="https://github.com/BIDData/BIDMach">
     BIDMach ★ 552 ⧗ 1
    </a>
+   <sup>
+    &#9733 569, pushed 2 days ago
+   </sup>
   </strong>
   - CPU and GPU machine learning library, using JNI for GPU computation.
-  <sup>
-   183 GitHub links in total 265 links, ★ 569, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 569, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/gearpump/gearpump">
     Gearpump ★ 538 ⧗ 0
    </a>
+   <sup>
+    &#9733 549, pushed 6 days ago
+   </sup>
   </strong>
   - Lightweight real-time big data streaming engine
-  <sup>
-   183 GitHub links in total 265 links, ★ 549, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 549, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/openmole/gridscale">
    GridScale ★ 12 ⧗ 79
   </a>
-  - A Scala API for computing clusters and grids.
-  <sup>
-   183 GitHub links in total 265 links, ★ 12, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 12 days ago
   </sup>
+  - A Scala API for computing clusters and grids.
  </li>
  <li>
   <strong>
    <a href="https://github.com/apache/kafka">
     Kafka ★ 2917 ⧗ 0
    </a>
+   <sup>
+    &#9733 3042, pushed 1 days ago
+   </sup>
   </strong>
   - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
-  <sup>
-   183 GitHub links in total 265 links, ★ 3042, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 3042, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/akka/reactive-kafka">
    Reactive-kafka ★ 467 ⧗ 0
   </a>
-  - Reactive Streams API for Apache Kafka.
-  <sup>
-   183 GitHub links in total 265 links, ★ 493, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 493, pushed 3 days ago
   </sup>
+  - Reactive Streams API for Apache Kafka.
  </li>
  <li>
   <strong>
    <a href="https://github.com/twitter/scalding">
     Scalding ★ 2478 ⧗ 0
    </a>
+   <sup>
+    &#9733 2496, pushed 5 days ago
+   </sup>
   </strong>
   - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2496, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 2496, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nicta/scoobi">
    Scoobi ★ 480 ⧗ 12
   </a>
-  - Write type-safe Hadoop programs in idiomatic Scala way
-  <sup>
-   183 GitHub links in total 265 links, ★ 480, pushed 203 days ago
-  </sup>
   <sup>
    &#9733 480, pushed 203 days ago
   </sup>
+  - Write type-safe Hadoop programs in idiomatic Scala way
  </li>
  <li>
   <a href="https://github.com/klout/scoozie">
    Scoozie ★ 61 ⧗ 18
   </a>
-  - Scala DSL on top of Oozie XML
-  <sup>
-   183 GitHub links in total 265 links, ★ 63, pushed 363 days ago
-  </sup>
   <sup>
    &#9733 63, pushed 363 days ago
   </sup>
+  - Scala DSL on top of Oozie XML
  </li>
  <li>
   <a href="http://crunch.apache.org/scrunch.html">
@@ -1533,13 +1287,10 @@
   <a href="https://github.com/adamretter/shadoop">
    Shadoop ★ 8 ⧗ 219
   </a>
-  - A Scala DSL for Hadoop MapReduce.
-  <sup>
-   183 GitHub links in total 265 links, ★ 8, pushed 595 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 595 days ago
   </sup>
+  - A Scala DSL for Hadoop MapReduce.
  </li>
  <li>
   <a href="http://spark.apache.org/">
@@ -1551,13 +1302,10 @@
   <a href="https://github.com/KKBOX/spark-deployer">
    spark-deployer ★ 45 ⧗ 0
   </a>
-  - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
-  <sup>
-   183 GitHub links in total 265 links, ★ 55, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 6 days ago
   </sup>
+  - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
  </li>
  <li>
   <a href="https://github.com/Stratio/sparkta">
@@ -1570,14 +1318,11 @@
    <a href="https://github.com/twitter/summingbird">
     Summingbird ★ 1697 ⧗ 0
    </a>
+   <sup>
+    &#9733 1706, pushed 88 days ago
+   </sup>
   </strong>
   - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1706, pushed 87 days ago
-  </sup>
-  <sup>
-   &#9733 1706, pushed 88 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1593,25 +1338,19 @@
   <a href="https://github.com/unibas-gravis/scalismo">
    scalismo ★ 25 ⧗ 12
   </a>
-  - Shape modelling and  model-based image analysis.
-  <sup>
-   183 GitHub links in total 265 links, ★ 25, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 7 days ago
   </sup>
+  - Shape modelling and  model-based image analysis.
  </li>
  <li>
   <a href="https://github.com/sksamuel/scrimage">
    scrimage ★ 335 ⧗ 8
   </a>
-  - Image io, resize, manipulation and thumbnails.
-  <sup>
-   183 GitHub links in total 265 links, ★ 343, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 343, pushed 6 days ago
   </sup>
+  - Image io, resize, manipulation and thumbnails.
  </li>
 </ul>
 <h2>
@@ -1622,13 +1361,10 @@
   <a href="https://github.com/Sciss/ScalaCollider">
    ScalaCollider ★ 95 ⧗ 3
   </a>
-  - Sound synthesis and signal processing client for SuperCollider.
-  <sup>
-   183 GitHub links in total 265 links, ★ 97, pushed 30 days ago
-  </sup>
   <sup>
    &#9733 97, pushed 30 days ago
   </sup>
+  - Sound synthesis and signal processing client for SuperCollider.
  </li>
 </ul>
 <h2>
@@ -1650,63 +1386,48 @@
   <a href="https://github.com/storm-enroute/reactors">
    Reactive Collections ★ 1 ⧗ 81
   </a>
-  - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1, pushed 171 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 171 days ago
   </sup>
+  - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxScala">
    RxScala ★ 447 ⧗ 7
   </a>
+  <sup>
+   &#9733 459, pushed 19 days ago
+  </sup>
   - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
-  <sup>
-   183 GitHub links in total 265 links, ★ 459, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 459, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dylemma/scala.frp">
    scala.frp ★ 18 ⧗ 240
   </a>
-  - Functional Reactive Programming for Scala (event streams).
-  <sup>
-   183 GitHub links in total 265 links, ★ 18, pushed 904 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 904 days ago
   </sup>
+  - Functional Reactive Programming for Scala (event streams).
  </li>
  <li>
   <strong>
    <a href="https://github.com/lihaoyi/scala.rx">
     Scala.Rx ★ 638 ⧗ 0
    </a>
+   <sup>
+    &#9733 651, pushed 55 days ago
+   </sup>
   </strong>
   - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
-  <sup>
-   183 GitHub links in total 265 links, ★ 651, pushed 54 days ago
-  </sup>
-  <sup>
-   &#9733 651, pushed 54 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Primetalk/SynapseGrid">
    SynapseGrid ★ 89 ⧗ 24
   </a>
-  - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
-  <sup>
-   183 GitHub links in total 265 links, ★ 90, pushed 235 days ago
-  </sup>
   <sup>
    &#9733 90, pushed 235 days ago
   </sup>
+  - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
  </li>
  <li>
   <a href="http://vertx.io/">
@@ -1732,85 +1453,64 @@
   <a href="https://github.com/akozhemiakin/cableguy">
    Cableguy
   </a>
-  - Macro based compile time Dependency Injection library.
-  <sup>
-   183 GitHub links in total 265 links, ★ 0, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 21 days ago
   </sup>
+  - Macro based compile time Dependency Injection library.
  </li>
  <li>
   <a href="https://github.com/helgoboss/domino">
    Domino ★ 2 ⧗ 87
   </a>
-  - Write elegant OSGi bundle activators in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2, pushed 272 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 272 days ago
   </sup>
+  - Write elegant OSGi bundle activators in Scala.
  </li>
  <li>
   <a href="https://github.com/adamw/macwire">
    MacWire ★ 466 ⧗ 0
   </a>
-  - Scala Macro to generate wiring code for class instantiation. DI container replacement.
-  <sup>
-   183 GitHub links in total 265 links, ★ 478, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 478, pushed 5 days ago
   </sup>
+  - Scala Macro to generate wiring code for class instantiation. DI container replacement.
  </li>
  <li>
   <a href="https://github.com/codingwell/scala-guice">
    Scala-Guice ★ 146 ⧗ 0
   </a>
+  <sup>
+   &#9733 148, pushed 146 days ago
+  </sup>
   - Scala extensions for Google Guice
-  <sup>
-   183 GitHub links in total 265 links, ★ 148, pushed 145 days ago
-  </sup>
-  <sup>
-   &#9733 148, pushed 145 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/scaldi/scaldi">
    Scaldi ★ 206 ⧗ 23
   </a>
-  - Lightweight Scala Dependency Injection Library.
-  <sup>
-   183 GitHub links in total 265 links, ★ 208, pushed 72 days ago
-  </sup>
   <sup>
    &#9733 208, pushed 72 days ago
   </sup>
+  - Lightweight Scala Dependency Injection Library.
  </li>
  <li>
   <a href="https://github.com/xitrum-framework/sclasner">
    Sclasner ★ 9 ⧗ 135
   </a>
-  - Scala classpath scanner.
-  <sup>
-   183 GitHub links in total 265 links, ★ 9, pushed 264 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 264 days ago
   </sup>
+  - Scala classpath scanner.
  </li>
  <li>
   <a href="https://github.com/dickwall/subcut">
    SubCut ★ 388 ⧗ 34
   </a>
-  - Scala Uniquely Bound Classes Under Traits.
-  <sup>
-   183 GitHub links in total 265 links, ★ 389, pushed 147 days ago
-  </sup>
   <sup>
    &#9733 389, pushed 147 days ago
   </sup>
+  - Scala Uniquely Bound Classes Under Traits.
  </li>
 </ul>
 <h2>
@@ -1838,13 +1538,10 @@
   <a href="https://github.com/stephenmcd/curiodb">
    CurioDB ★ 408 ⧗ 1
   </a>
-  - Distributed & Persistent Redis Clone built with Scala & Akka.
-  <sup>
-   183 GitHub links in total 265 links, ★ 412, pushed 67 days ago
-  </sup>
   <sup>
    &#9733 412, pushed 67 days ago
   </sup>
+  - Distributed & Persistent Redis Clone built with Scala & Akka.
  </li>
  <li>
   <a href="https://twitter.github.io/finagle/">
@@ -1856,13 +1553,10 @@
   <a href="https://github.com/xitrum-framework/glokka">
    Glokka ★ 44 ⧗ 25
   </a>
-  - Library to register and lookup actors by names in an Akka cluster.
-  <sup>
-   183 GitHub links in total 265 links, ★ 44, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 35 days ago
   </sup>
+  - Library to register and lookup actors by names in an Akka cluster.
  </li>
  <li>
   <a href="https://www.lightbend.com/lagom">
@@ -1890,85 +1584,67 @@
   <a href="https://github.com/pathikrit/better-files">
    better-files ★ 445 ⧗ 1
   </a>
-  - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
-  <sup>
-   183 GitHub links in total 265 links, ★ 475, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 475, pushed 21 days ago
   </sup>
+  - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
  </li>
  <li>
   <strong>
    <a href="https://github.com/twitter/cassovary">
     Cassovary ★ 808 ⧗ 3
    </a>
+   <sup>
+    &#9733 815, pushed 6 days ago
+   </sup>
   </strong>
   - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
-  <sup>
-   183 GitHub links in total 265 links, ★ 815, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 815, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/non/cats">
     cats ★ 971 ⧗ 0
    </a>
+   <sup>
+    &#9733 1, pushed 3 days ago
+   </sup>
   </strong>
   - Lightweight, modular, and extensible library for functional programming.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ThoughtWorksInc/each">
    Each ★ 72 ⧗ 7
   </a>
+  <sup>
+   &#9733 79, pushed 5 days ago
+  </sup>
   - A macro library that converts native imperative syntax to
   <a href="https://github.com/scalaz/scalaz">
    Scalaz
   </a>
   's monadic expressions.
-  <sup>
-   183 GitHub links in total 265 links, ★ 79, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 79, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ThoughtWorksInc/enableIf.scala">
    enableIf.scala
   </a>
+  <sup>
+   &#9733 24, pushed 17 days ago
+  </sup>
   - A library that switches Scala code at compile-time, like
   <code>
    #if
   </code>
   in C/C++.
-  <sup>
-   183 GitHub links in total 265 links, ★ 24, pushed 17 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 17 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/maxcellent/lamma">
    Lamma ★ 51 ⧗ 3
   </a>
-  - A Scala date library for date and schedule generation.
-  <sup>
-   183 GitHub links in total 265 links, ★ 54, pushed 123 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 123 days ago
   </sup>
+  - A Scala date library for date and schedule generation.
  </li>
  <li>
   <a href="http://www.log4s.org/">
@@ -1985,38 +1661,29 @@
    <a href="https://github.com/julien-truffaut/Monocle">
     Monocle ★ 547 ⧗ 0
    </a>
+   <sup>
+    &#9733 554, pushed 3 days ago
+   </sup>
   </strong>
   - An Optics/Lens library for purely functional manipulation of immutable objects.
-  <sup>
-   183 GitHub links in total 265 links, ★ 554, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 554, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nestorpersist/logging">
    Persist-Logging ★ 19 ⧗ 6
   </a>
-  - Comprehensive logging library for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 20, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 45 days ago
   </sup>
+  - Comprehensive logging library for Scala.
  </li>
  <li>
   <a href="https://github.com/adamw/quicklens">
    Quicklens ★ 153 ⧗ 16
   </a>
-  - modify deeply nested case class fields with an elegant API
-  <sup>
-   183 GitHub links in total 265 links, ★ 168, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 168, pushed 62 days ago
   </sup>
+  - modify deeply nested case class fields with an elegant API
  </li>
  <li>
   <a href="http://rapture.io/">
@@ -2032,39 +1699,30 @@
   <a href="https://github.com/fthomas/refined">
    refined ★ 235 ⧗ 0
   </a>
-  - Simple refinement types with compile- and runtime checking
-  <sup>
-   183 GitHub links in total 265 links, ★ 244, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 244, pushed 3 days ago
   </sup>
+  - Simple refinement types with compile- and runtime checking
  </li>
  <li>
   <a href="https://github.com/resolvable/resolvable">
    Resolvable ★ 30 ⧗ 56
   </a>
-  - A library to optimize fetching immutable data structures from several endpoints in several formats.
-  <sup>
-   183 GitHub links in total 265 links, ★ 30, pushed 671 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 671 days ago
   </sup>
+  - A library to optimize fetching immutable data structures from several endpoints in several formats.
  </li>
  <li>
   <strong>
    <a href="https://github.com/scala/async">
     Scala Async ★ 639 ⧗ 4
    </a>
+   <sup>
+    &#9733 646, pushed 61 days ago
+   </sup>
   </strong>
   - An asynchronous programming facility for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 646, pushed 61 days ago
-  </sup>
-  <sup>
-   &#9733 646, pushed 61 days ago
-  </sup>
  </li>
  <li>
   <a href="http://scala-blitz.github.io/">
@@ -2089,54 +1747,42 @@
    <a href="https://github.com/scalaz/scalaz">
     Scalaz ★ 2469 ⧗ 0
    </a>
+   <sup>
+    &#9733 2516, pushed 3 days ago
+   </sup>
   </strong>
   - An extension to the core Scala library for functional programming.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2516, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 2516, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/milessabin/shapeless">
     Shapeless ★ 1492 ⧗ 0
    </a>
+   <sup>
+    &#9733 1532, pushed 7 days ago
+   </sup>
   </strong>
   - A type class and dependent type based generic programming library for Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1532, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 1532, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/qifun/stateless-future">
    Stateless Future ★ 130 ⧗ 5
   </a>
-  - Asynchronous programming in fully featured Scala syntax.
-  <sup>
-   183 GitHub links in total 265 links, ★ 133, pushed 190 days ago
-  </sup>
   <sup>
    &#9733 133, pushed 190 days ago
   </sup>
+  - Asynchronous programming in fully featured Scala syntax.
  </li>
  <li>
   <strong>
    <a href="https://github.com/twitter/util">
     Twitter Util ★ 1484 ⧗ 0
    </a>
+   <sup>
+    &#9733 1505, pushed 5 days ago
+   </sup>
   </strong>
   - General-purpose Scala libraries, including a future implementation and other concurrency tools.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1505, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 1505, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2158,17 +1804,14 @@
   <a href="https://github.com/miniboxing/miniboxing-plugin">
    Miniboxing
   </a>
+  <sup>
+   &#9733 82, pushed 51 days ago
+  </sup>
   - A Scala compiler plugin that improves program performance --
   <a href="http://scala-miniboxing.org">
    see the project web site
   </a>
   - Less boxes
-  <sup>
-   183 GitHub links in total 265 links, ★ 82, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 82, pushed 51 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/openquant">
@@ -2180,37 +1823,28 @@
   <a href="https://github.com/marconilanna/REPLesent">
    REPLesent ★ 237 ⧗ 3
   </a>
-  - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
-  <sup>
-   183 GitHub links in total 265 links, ★ 244, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 244, pushed 1 days ago
   </sup>
+  - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
  </li>
  <li>
   <a href="https://github.com/sirthias/scala-ssh">
    scala-ssh ★ 164 ⧗ 2
   </a>
-  - Remote shell access via SSH for your Scala applications
-  <sup>
-   183 GitHub links in total 265 links, ★ 164, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 164, pushed 68 days ago
   </sup>
+  - Remote shell access via SSH for your Scala applications
  </li>
  <li>
   <a href="https://github.com/scalan/scalan">
    Scalan ★ 58 ⧗ 10
   </a>
-  - A framework for development of domain-specific compilers in Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 61, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 61, pushed 5 days ago
   </sup>
+  - A framework for development of domain-specific compilers in Scala
  </li>
  <li>
   <a href="https://nbronson.github.io/scala-stm/">
@@ -2222,13 +1856,10 @@
   <a href="https://github.com/openquant/YahooFinanceScala">
    YahooFinanceScala ★ 3 ⧗ 2
   </a>
-  - Get stock data from Yahoo Finance using Akka http.
-  <sup>
-   183 GitHub links in total 265 links, ★ 3, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 3 days ago
   </sup>
+  - Get stock data from Yahoo Finance using Akka http.
  </li>
 </ul>
 <h2>
@@ -2250,39 +1881,30 @@
   <a href="https://github.com/saturday06/gradle-android-scala-plugin">
    Gradle Android Scala Plugin ★ 270 ⧗ 0
   </a>
-  - A gradle plugin that allows you to use Scala with Android
-  <sup>
-   183 GitHub links in total 265 links, ★ 273, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 273, pushed 21 days ago
   </sup>
+  - A gradle plugin that allows you to use Scala with Android
  </li>
  <li>
   <a href="https://github.com/47deg/macroid">
    Macroid ★ 403 ⧗ 0
   </a>
-  - A modular functional UI language for Android.
-  <sup>
-   183 GitHub links in total 265 links, ★ 412, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 412, pushed 14 days ago
   </sup>
+  - A modular functional UI language for Android.
  </li>
  <li>
   <strong>
    <a href="https://github.com/pocorall/scaloid">
     Scaloid ★ 1906 ⧗ 0
    </a>
+   <sup>
+    &#9733 1929, pushed 14 days ago
+   </sup>
   </strong>
   - Less painful Android development with Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 1929, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 1929, pushed 14 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2298,99 +1920,78 @@
   <a href="https://github.com/dispatch/reboot">
    Dispatch ★ 337 ⧗ 6
   </a>
+  <sup>
+   &#9733 339, pushed 5 days ago
+  </sup>
   - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s
   <a href="https://github.com/AsyncHttpClient/async-http-client">
    async-http-client
   </a>
   .
-  <sup>
-   183 GitHub links in total 265 links, ★ 339, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 339, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/finagle/finch">
     Finch.io ★ 635 ⧗ 1
    </a>
+   <sup>
+    &#9733 652, pushed 13 days ago
+   </sup>
   </strong>
   - Purely Functional REST API atop of
   <a href="https://github.com/twitter/finagle">
    Finagle
   </a>
   .
-  <sup>
-   183 GitHub links in total 265 links, ★ 652, pushed 13 days ago
-  </sup>
-  <sup>
-   &#9733 652, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/http4s/http4s">
    Http4s ★ 427 ⧗ 1
   </a>
-  - A minimal, idiomatic Scala interface for HTTP.
-  <sup>
-   183 GitHub links in total 265 links, ★ 440, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 440, pushed 3 days ago
   </sup>
+  - A minimal, idiomatic Scala interface for HTTP.
  </li>
  <li>
   <a href="https://github.com/ngocdaothanh/netcaty">
    Netcaty ★ 11 ⧗ 68
   </a>
-  - Simple net test client/server for Netty and Scala lovers.
-  <sup>
-   183 GitHub links in total 265 links, ★ 11, pushed 670 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 670 days ago
   </sup>
+  - Simple net test client/server for Netty and Scala lovers.
  </li>
  <li>
   <a href="https://github.com/stackmob/newman">
    Newman ★ 237 ⧗ 0
   </a>
+  <sup>
+   &#9733 238, pushed 153 days ago
+  </sup>
   - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See
   <a href="https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/">
    here
   </a>
   for rationale.
-  <sup>
-   183 GitHub links in total 265 links, ★ 238, pushed 153 days ago
-  </sup>
-  <sup>
-   &#9733 238, pushed 153 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/scalaj/scalaj-http">
    scalaj-http ★ 380 ⧗ 0
   </a>
-  - Simple scala wrapper for HttpURLConnection (including OAuth support).
-  <sup>
-   183 GitHub links in total 265 links, ★ 388, pushed 31 days ago
-  </sup>
   <sup>
    &#9733 388, pushed 31 days ago
   </sup>
+  - Simple scala wrapper for HttpURLConnection (including OAuth support).
  </li>
  <li>
   <a href="https://github.com/eed3si9n/scalaxb">
    Scalaxb ★ 198 ⧗ 5
   </a>
-  - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
-  <sup>
-   183 GitHub links in total 265 links, ★ 197, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 197, pushed 5 days ago
   </sup>
+  - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
  </li>
  <li>
   <a href="http://spray.io/">
@@ -2402,13 +2003,10 @@
   <a href="https://github.com/softprops/tubesocks">
    Tubesocks ★ 7 ⧗ 143
   </a>
-  - Library supporting bi-directional communication with websocket servers.
-  <sup>
-   183 GitHub links in total 265 links, ★ 7, pushed 662 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 662 days ago
   </sup>
+  - Library supporting bi-directional communication with websocket servers.
  </li>
 </ul>
 <h2>
@@ -2424,25 +2022,19 @@
   <a href="https://github.com/banana-rdf/banana-rdf">
    Banana-RDF ★ 178 ⧗ 7
   </a>
-  - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 179, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 179, pushed 21 days ago
   </sup>
+  - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
  </li>
  <li>
   <a href="https://github.com/jannvck/rdfp">
    rdfp ★ 1 ⧗ 226
   </a>
-  - RDF stream processing framework in Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 1, pushed 183 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 183 days ago
   </sup>
+  - RDF stream processing framework in Scala
  </li>
 </ul>
 <h2>
@@ -2474,49 +2066,37 @@
   <a href="https://github.com/tpolecat/atto">
    atto ★ 119 ⧗ 16
   </a>
-  - Pure functional incremental text parsing library for Scala, based on Attoparsec.
-  <sup>
-   183 GitHub links in total 265 links, ★ 119, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 119, pushed 1 days ago
   </sup>
+  - Pure functional incremental text parsing library for Scala, based on Attoparsec.
  </li>
  <li>
   <a href="https://github.com/lihaoyi/fastparse">
    Fast Parse ★ 335 ⧗ 2
   </a>
-  - Fast to write, Fast running Parsers in Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 343, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 343, pushed 2 days ago
   </sup>
+  - Fast to write, Fast running Parsers in Scala
  </li>
  <li>
   <a href="https://github.com/sirthias/parboiled2">
    Parboiled2 ★ 432 ⧗ 0
   </a>
-  - A Fast Parser Generator for Scala 2.10.3+.
-  <sup>
-   183 GitHub links in total 265 links, ★ 435, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 435, pushed 7 days ago
   </sup>
+  - A Fast Parser Generator for Scala 2.10.3+.
  </li>
  <li>
   <a href="https://github.com/scala/scala-parser-combinators">
    Scala Parser Combinators ★ 130 ⧗ 3
   </a>
-  - Scala Standard Parser Combinator Library.
-  <sup>
-   183 GitHub links in total 265 links, ★ 136, pushed 78 days ago
-  </sup>
   <sup>
    &#9733 136, pushed 78 days ago
   </sup>
+  - Scala Standard Parser Combinator Library.
  </li>
 </ul>
 <h2>
@@ -2532,275 +2112,209 @@
   <a href="https://github.com/Atry/pttrt">
    pttrt ★ 2 ⧗ 120
   </a>
-  - A sbt plugin, designed to pass data from compile-time to run-time.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2, pushed 293 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 293 days ago
   </sup>
+  - A sbt plugin, designed to pass data from compile-time to run-time.
  </li>
  <li>
   <a href="https://github.com/ThoughtWorksInc/sbt-api-mappings">
    sbt-api-mappings ★ 29 ⧗ 35
   </a>
-  - A Sbt plugin that resolves external API links to common Scala libraries.
-  <sup>
-   183 GitHub links in total 265 links, ★ 29, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 2 days ago
   </sup>
+  - A Sbt plugin that resolves external API links to common Scala libraries.
  </li>
  <li>
   <a href="https://github.com/sbt/sbt-buildinfo">
    sbt-buildinfo ★ 201 ⧗ 9
   </a>
-  - Generates Scala source from build definition.
-  <sup>
-   183 GitHub links in total 265 links, ★ 202, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 202, pushed 1 days ago
   </sup>
+  - Generates Scala source from build definition.
  </li>
  <li>
   <a href="https://github.com/ruippeixotog/sbt-classfinder">
    sbt-classfinder ★ 2 ⧗ 113
   </a>
-  - Retrieves runtime information about the classes and traits in a project.
-  <sup>
-   183 GitHub links in total 265 links, ★ 2, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 138 days ago
   </sup>
+  - Retrieves runtime information about the classes and traits in a project.
  </li>
  <li>
   <a href="https://github.com/Atry/sbt-cppp">
    sbt-cppp ★ 3 ⧗ 16
   </a>
+  <sup>
+   &#9733 3, pushed 272 days ago
+  </sup>
   - A sbt plugin to support
   <a href="https://github.com/google/protobuf">
    Protocol Buffers
   </a>
   , especially in multi-project builds.
-  <sup>
-   183 GitHub links in total 265 links, ★ 3, pushed 272 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 272 days ago
-  </sup>
  </li>
  <li>
   <strong>
    <a href="https://github.com/jrudolph/sbt-dependency-graph">
     sbt-dependency-graph ★ 518 ⧗ 2
    </a>
+   <sup>
+    &#9733 535, pushed 76 days ago
+   </sup>
   </strong>
   - Create a dependency graph for your project.
-  <sup>
-   183 GitHub links in total 265 links, ★ 535, pushed 76 days ago
-  </sup>
-  <sup>
-   &#9733 535, pushed 76 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sbt/sbt-groll">
    sbt-groll ★ 71 ⧗ 15
   </a>
-  - sbt plugin to roll the Git history.
-  <sup>
-   183 GitHub links in total 265 links, ★ 71, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 68 days ago
   </sup>
+  - sbt plugin to roll the Git history.
  </li>
  <li>
   <a href="https://github.com/qifun/sbt-haxe">
    sbt-haxe ★ 7 ⧗ 57
   </a>
-  - A Sbt plugin to compile Haxe sources.
-  <sup>
-   183 GitHub links in total 265 links, ★ 7, pushed 227 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 228 days ago
   </sup>
+  - A Sbt plugin to compile Haxe sources.
  </li>
  <li>
   <a href="https://github.com/Jetbrains/sbt-ide-settings">
    sbt-ide-settings ★ 22 ⧗ 9
   </a>
-  - SBT plugin for tweaking various IDE settings
-  <sup>
-   183 GitHub links in total 265 links, ★ 22, pushed 161 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 161 days ago
   </sup>
+  - SBT plugin for tweaking various IDE settings
  </li>
  <li>
   <strong>
    <a href="https://github.com/sbt/sbt-native-packager">
     sbt-native-packager ★ 580 ⧗ 2
    </a>
+   <sup>
+    &#9733 594, pushed 6 days ago
+   </sup>
   </strong>
   - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
-  <sup>
-   183 GitHub links in total 265 links, ★ 594, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 594, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/xerial/sbt-pack">
    sbt-pack ★ 237 ⧗ 0
   </a>
-  - A sbt plugin for creating distributable Scala packages.
-  <sup>
-   183 GitHub links in total 265 links, ★ 241, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 241, pushed 93 days ago
   </sup>
+  - A sbt plugin for creating distributable Scala packages.
  </li>
  <li>
   <a href="https://github.com/spray/sbt-revolver">
    sbt-revolver ★ 420 ⧗ 1
   </a>
-  - Fork & Stop processes from sbt.
-  <sup>
-   183 GitHub links in total 265 links, ★ 427, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 427, pushed 53 days ago
   </sup>
+  - Fork & Stop processes from sbt.
  </li>
  <li>
   <a href="https://github.com/roboscala/sbt-robovm">
    sbt-robovm ★ 107 ⧗ 23
   </a>
-  - An sbt plugin for iOS development in Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 108, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 108, pushed 62 days ago
   </sup>
+  - An sbt plugin for iOS development in Scala
  </li>
  <li>
   <a href="https://github.com/ThoughtWorksInc/sbt-scala-js-map">
    sbt-scala-js-map
   </a>
-  - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
-  <sup>
-   183 GitHub links in total 265 links, ★ 7, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 19 days ago
   </sup>
+  - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
  </li>
  <li>
   <a href="https://github.com/orrsella/sbt-sublime">
    sbt-sublime ★ 129 ⧗ 36
   </a>
-  - Create Sublime Text projects with library dependencies sources
-  <sup>
-   183 GitHub links in total 265 links, ★ 128, pushed 216 days ago
-  </sup>
   <sup>
    &#9733 128, pushed 216 days ago
   </sup>
+  - Create Sublime Text projects with library dependencies sources
  </li>
  <li>
   <a href="https://github.com/rtimush/sbt-updates">
    sbt-updates ★ 248 ⧗ 0
   </a>
-  - Shows sbt project's dependency updates.
-  <sup>
-   183 GitHub links in total 265 links, ★ 252, pushed 70 days ago
-  </sup>
   <sup>
    &#9733 252, pushed 70 days ago
   </sup>
+  - Shows sbt project's dependency updates.
  </li>
  <li>
   <a href="https://github.com/sksamuel/sbt-versions">
    sbt-versions ★ 11 ⧗ 122
   </a>
-  - Plugin that checks for updated versions of your project's dependencies.
-  <sup>
-   183 GitHub links in total 265 links, ★ 10, pushed 644 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 644 days ago
   </sup>
+  - Plugin that checks for updated versions of your project's dependencies.
  </li>
  <li>
   <a href="https://github.com/nestorpersist/sbt-view">
    sbt-view ★ 4 ⧗ 51
   </a>
-  - View ScalaDoc/JavaDoc in browser window.
-  <sup>
-   183 GitHub links in total 265 links, ★ 5, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 20 days ago
   </sup>
+  - View ScalaDoc/JavaDoc in browser window.
  </li>
  <li>
   <strong>
    <a href="https://github.com/typesafehub/sbteclipse">
     sbteclipse ★ 540 ⧗ 0
    </a>
+   <sup>
+    &#9733 547, pushed 2 days ago
+   </sup>
   </strong>
   - Create Eclipse project definitions from sbt builds.
-  <sup>
-   183 GitHub links in total 265 links, ★ 547, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 547, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/MasseGuillaume/ScalaKata2">
    ScalaKata2 ★ 36 ⧗ 1
   </a>
-  - Scala playground & Documentation tool.
-  <sup>
-   183 GitHub links in total 265 links, ★ 45, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 45, pushed 9 days ago
   </sup>
+  - Scala playground & Documentation tool.
  </li>
  <li>
   <a href="https://github.com/tpolecat/tut">
    tut ★ 227 ⧗ 3
   </a>
-  - Tool for writing documentation with typechecked examples.
-  <sup>
-   183 GitHub links in total 265 links, ★ 235, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 235, pushed 11 days ago
   </sup>
+  - Tool for writing documentation with typechecked examples.
  </li>
  <li>
   <a href="https://github.com/earldouglas/xsbt-web-plugin">
    xsbt-web-plugin ★ 312 ⧗ 17
   </a>
+  <sup>
+   &#9733 310, pushed 42 days ago
+  </sup>
   - Build enterprise J2EE Web applications in Scala.
-  <sup>
-   183 GitHub links in total 265 links, ★ 310, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 310, pushed 41 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2816,25 +2330,19 @@
   <a href="https://github.com/ruippeixotog/scala-scraper">
    scala-scraper ★ 137 ⧗ 0
   </a>
-  - A library for scraping content from HTML pages.
-  <sup>
-   183 GitHub links in total 265 links, ★ 151, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 151, pushed 28 days ago
   </sup>
+  - A library for scraping content from HTML pages.
  </li>
  <li>
   <a href="https://github.com/lihaoyi/scalatags">
    Scalatags ★ 384 ⧗ 5
   </a>
-  - Write html as scala code and have your ide syntax check it.
-  <sup>
-   183 GitHub links in total 265 links, ★ 390, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 390, pushed 3 days ago
   </sup>
+  - Write html as scala code and have your ide syntax check it.
  </li>
 </ul>
 <h2>
@@ -2850,25 +2358,19 @@
   <a href="https://github.com/jacksu/utils4s">
    Demos and Examples in Scala (Chinese) ★ 112 ⧗ 3
   </a>
-  - repo of sample Scala library usage, written in Chinese
-  <sup>
-   183 GitHub links in total 265 links, ★ 126, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 126, pushed 18 days ago
   </sup>
+  - repo of sample Scala library usage, written in Chinese
  </li>
  <li>
   <a href="https://github.com/larroy/deployingScalaLibrariesToSonatype">
    Deploying Scala libraries to Sonatype for dummies ★ 0 ⧗ 0
   </a>
-  - None
-  <sup>
-   183 GitHub links in total 265 links, ★ 16, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 23 days ago
   </sup>
+  - None
  </li>
  <li>
   <a href="http://scala-exercises.47deg.com/">
@@ -2914,13 +2416,10 @@
   <a href="https://github.com/js-scala/js-scala">
    js-scala ★ 150 ⧗ 29
   </a>
-  - JavaScript as an embedded DSL in Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 150, pushed 308 days ago
-  </sup>
   <sup>
    &#9733 150, pushed 308 days ago
   </sup>
+  - JavaScript as an embedded DSL in Scala
  </li>
  <li>
   <a href="http://www.scala-js-fiddle.com/">
@@ -2951,13 +2450,10 @@
   <a href="https://github.com/scala/scala-abide">
    Abide ★ 209 ⧗ 7
   </a>
-  - Library for quick scala code checking and validation
-  <sup>
-   183 GitHub links in total 265 links, ★ 209, pushed 216 days ago
-  </sup>
   <sup>
    &#9733 209, pushed 216 days ago
   </sup>
+  - Library for quick scala code checking and validation
  </li>
  <li>
   <a href="https://www.codacy.com/">
@@ -2969,27 +2465,21 @@
   <a href="https://github.com/Atry/fastring">
    Fastring
   </a>
-  - Extremely fast string formatting
-  <sup>
-   183 GitHub links in total 265 links, ★ 73, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 73, pushed 5 days ago
   </sup>
+  - Extremely fast string formatting
  </li>
  <li>
   <strong>
    <a href="https://github.com/gitbucket/gitbucket">
     Gitbucket ★ 5478 ⧗ 0
    </a>
+   <sup>
+    &#9733 5532, pushed 2 days ago
+   </sup>
   </strong>
   - The easily installable GitHub clone powered by Scala
-  <sup>
-   183 GitHub links in total 265 links, ★ 5532, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 5532, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.scala-sbt.org/">
@@ -3005,61 +2495,46 @@
   <a href="https://github.com/daniel-trinh/scalariform">
    Scalariform ★ 122 ⧗ 22
   </a>
-  - Scala source code formatter
-  <sup>
-   183 GitHub links in total 265 links, ★ 122, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 122, pushed 62 days ago
   </sup>
+  - Scala source code formatter
  </li>
  <li>
   <a href="https://github.com/scalastyle/scalastyle">
    Scalastyle ★ 361 ⧗ 0
   </a>
-  - Scala style checker.
-  <sup>
-   183 GitHub links in total 265 links, ★ 365, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 365, pushed 4 days ago
   </sup>
+  - Scala style checker.
  </li>
  <li>
   <a href="https://github.com/lihaoyi/Scalatex">
    Scalatex ★ 184 ⧗ 4
   </a>
-  - Programmable, Typesafe Document Generation
-  <sup>
-   183 GitHub links in total 265 links, ★ 188, pushed 137 days ago
-  </sup>
   <sup>
    &#9733 188, pushed 137 days ago
   </sup>
+  - Programmable, Typesafe Document Generation
  </li>
  <li>
   <a href="https://github.com/JohnReedLOL/scala-trace-debug">
    scala-trace-debug ★ 17 ⧗ 0
   </a>
+  <sup>
+   &#9733 34, pushed 4 days ago
+  </sup>
   - Multithreaded print debug tool
-  <sup>
-   183 GitHub links in total 265 links, ★ 34, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 34, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sksamuel/scapegoat">
    Scapegoat ★ 133 ⧗ 4
   </a>
-  - Scala compiler plugin for static code analysis
-  <sup>
-   183 GitHub links in total 265 links, ★ 135, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 135, pushed 57 days ago
   </sup>
+  - Scala compiler plugin for static code analysis
  </li>
  <li>
   <a href="http://scala-search.org/">
@@ -3081,13 +2556,10 @@
   <a href="https://github.com/puffnfresh/wartremover">
    Wartremover ★ 467 ⧗ 2
   </a>
-  - Wartremover a flexible Scala code linting tool
-  <sup>
-   183 GitHub links in total 265 links, ★ 472, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 472, pushed 16 days ago
   </sup>
+  - Wartremover a flexible Scala code linting tool
  </li>
 </ul>
 <h1>

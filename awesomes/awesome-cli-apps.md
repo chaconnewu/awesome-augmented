@@ -210,37 +210,28 @@
   <a href="https://github.com/cmus/cmus">
    cmus
   </a>
-  - Small, fast and powerful console music player for Unix-like operating systems.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1417, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1417, pushed 1 days ago
   </sup>
+  - Small, fast and powerful console music player for Unix-like operating systems.
  </li>
  <li>
   <a href="https://github.com/yask123/Instant-Music-Downloader">
    Instant-Music-Downloader
   </a>
-  - Instant music downloader.
-  <sup>
-   134 GitHub links in total 174 links, ★ 972, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 972, pushed 14 days ago
   </sup>
+  - Instant music downloader.
  </li>
  <li>
   <a href="https://github.com/mischah/itunes-remote">
    itunes-remote
   </a>
-  - It’s about listening to music without leaving the terminal. OS X only.
-  <sup>
-   134 GitHub links in total 174 links, ★ 177, pushed 104 days ago
-  </sup>
   <sup>
    &#9733 177, pushed 104 days ago
   </sup>
+  - It’s about listening to music without leaving the terminal. OS X only.
  </li>
  <li>
   <a href="https://6xq.net/pianobar/">
@@ -252,53 +243,41 @@
   <a href="https://github.com/oysttyer/oysttyer">
    TTYtter
   </a>
+  <sup>
+   &#9733 88, pushed 21 days ago
+  </sup>
   - Twitter client- (
   <a href="http://www.floodgap.com/software/ttytter/">
    original
   </a>
   ).
-  <sup>
-   134 GitHub links in total 174 links, ★ 88, pushed 21 days ago
-  </sup>
-  <sup>
-   &#9733 88, pushed 21 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/riyadhalnur/quote-cli">
    quote-cli
   </a>
-  - Get a random quote or the quote of the day in your CLI.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 176 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 176 days ago
   </sup>
+  - Get a random quote or the quote of the day in your CLI.
  </li>
  <li>
   <a href="https://github.com/mayankchd/movie">
    movie
   </a>
-  - Get movie info or compare movies in terminal.
-  <sup>
-   134 GitHub links in total 174 links, ★ 13, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 44 days ago
   </sup>
+  - Get movie info or compare movies in terminal.
  </li>
  <li>
   <a href="https://github.com/rockymadden/somafm-cli">
    somafm-cli
   </a>
-  - Listen to SomaFM in your terminal.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 36 days ago
   </sup>
+  - Listen to SomaFM in your terminal.
  </li>
 </ul>
 <h3>
@@ -324,13 +303,10 @@
   <a href="https://github.com/dthree/wat">
    Wat
   </a>
-  - Instant, central, community-built docs.
-  <sup>
-   134 GitHub links in total 174 links, ★ 266, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 266, pushed 32 days ago
   </sup>
+  - Instant, central, community-built docs.
  </li>
 </ul>
 <h3>
@@ -341,101 +317,77 @@
   <a href="https://github.com/sindresorhus/bower-name-cli">
    bower-name-cli
   </a>
-  - Check whether a package name is available on bower.
-  <sup>
-   134 GitHub links in total 174 links, ★ 12, pushed 197 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 197 days ago
   </sup>
+  - Check whether a package name is available on bower.
  </li>
  <li>
   <a href="https://github.com/sgentle/caniuse-cmd">
    caniuse-cmd
   </a>
+  <sup>
+   &#9733 973, pushed 79 days ago
+  </sup>
   - Searches
   <a href="caniuse.com">
    caniuse.com
   </a>
   about browser support of feature.
-  <sup>
-   134 GitHub links in total 174 links, ★ 973, pushed 78 days ago
-  </sup>
-  <sup>
-   &#9733 973, pushed 78 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/is-up-cli">
    is-up-cli
   </a>
-  - Check whether a website is up or down.
-  <sup>
-   134 GitHub links in total 174 links, ★ 43, pushed 150 days ago
-  </sup>
   <sup>
    &#9733 43, pushed 150 days ago
   </sup>
+  - Check whether a website is up or down.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-name-cli">
    npm-name-cli
   </a>
-  - Check whether a package name is available on npm.
-  <sup>
-   134 GitHub links in total 174 links, ★ 70, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 70, pushed 11 days ago
   </sup>
+  - Check whether a package name is available on npm.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-user-cli">
    npm-user-cli
   </a>
-  - Get user info of a npm user.
-  <sup>
-   134 GitHub links in total 174 links, ★ 10, pushed 99 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 99 days ago
   </sup>
+  - Get user info of a npm user.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pageres-cli">
    pageres-cli
   </a>
-  - Capture website screenshots.
-  <sup>
-   134 GitHub links in total 174 links, ★ 304, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 304, pushed 75 days ago
   </sup>
+  - Capture website screenshots.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/strip-css-comments-cli">
    strip-css-comments-cli
   </a>
-  - Strip comments from CSS.
-  <sup>
-   134 GitHub links in total 174 links, ★ 14, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 138 days ago
   </sup>
+  - Strip comments from CSS.
  </li>
  <li>
   <a href="https://github.com/kevva/viewport-list-cli">
    viewport-list-cli
   </a>
-  - Return a list of devices and their viewports.
-  <sup>
-   134 GitHub links in total 174 links, ★ 13, pushed 118 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 118 days ago
   </sup>
+  - Return a list of devices and their viewports.
  </li>
  <li>
   <a href="https://surge.sh">
@@ -447,73 +399,55 @@
   <a href="https://github.com/hlandau/acme">
    acmetool
   </a>
-  - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
-  <sup>
-   134 GitHub links in total 174 links, ★ 766, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 766, pushed 12 days ago
   </sup>
+  - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
  </li>
  <li>
   <a href="https://github.com/alexfernandez/loadtest">
    loadtest
   </a>
-  - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
-  <sup>
-   134 GitHub links in total 174 links, ★ 479, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 479, pushed 19 days ago
   </sup>
+  - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
  </li>
  <li>
   <a href="https://github.com/wp-cli/wp-cli">
    wp-cli
   </a>
-  - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2730, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2730, pushed 4 days ago
   </sup>
+  - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
  </li>
  <li>
   <a href="https://github.com/rtfpessoa/diff2html-cli">
    diff2html-cli
   </a>
-  - Command-line tool to parse git diffs as JSON and generate pretty HTML.
-  <sup>
-   134 GitHub links in total 174 links, ★ 19, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 19 days ago
   </sup>
+  - Command-line tool to parse git diffs as JSON and generate pretty HTML.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-home">
    npm-home
   </a>
-  - Open the npm page of the package in the current directory.
-  <sup>
-   134 GitHub links in total 174 links, ★ 24, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 25 days ago
   </sup>
+  - Open the npm page of the package in the current directory.
  </li>
  <li>
   <a href="https://github.com/jkbrzt/httpie">
    HTTPie
   </a>
-  - A user-friendly HTTP client.
-  <sup>
-   134 GitHub links in total 174 links, ★ 22333, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 22333, pushed 5 days ago
   </sup>
+  - A user-friendly HTTP client.
  </li>
 </ul>
 <h3>
@@ -524,25 +458,19 @@
   <a href="https://github.com/SamVerschueren/mobicon-cli">
    mobicon-cli
   </a>
-  - Mobile app icon generator.
-  <sup>
-   134 GitHub links in total 174 links, ★ 16, pushed 119 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 119 days ago
   </sup>
+  - Mobile app icon generator.
  </li>
  <li>
   <a href="https://github.com/SamVerschueren/mobisplash-cli">
    mobisplash-cli
   </a>
-  - Mobile app splash screen generator.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 75 days ago
   </sup>
+  - Mobile app splash screen generator.
  </li>
 </ul>
 <h2>
@@ -553,25 +481,19 @@
   <a href="https://github.com/dbcli/mycli">
    mycli
   </a>
-  - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2635, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 2635, pushed 8 days ago
   </sup>
+  - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
  </li>
  <li>
   <a href="https://github.com/nicolewhite/cycli">
    cycli
   </a>
-  - A terminal client for Neo4j with autocompletion and syntax highlighting.
-  <sup>
-   134 GitHub links in total 174 links, ★ 123, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 123, pushed 8 days ago
   </sup>
+  - A terminal client for Neo4j with autocompletion and syntax highlighting.
  </li>
 </ul>
 <h2>
@@ -582,17 +504,14 @@
   <a href="https://github.com/yask123/AutoScreenshotUploader">
    AutoScreenshotUploader
   </a>
+  <sup>
+   &#9733 6, pushed 205 days ago
+  </sup>
   - Instantly capture and upload screenshot to
   <a href="https://imgur.com">
    imgur
   </a>
   .
-  <sup>
-   134 GitHub links in total 174 links, ★ 6, pushed 205 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 205 days ago
-  </sup>
  </li>
  <li>
   <a href="http://brettterpstra.com/projects/doing/">
@@ -604,61 +523,46 @@
   <a href="https://github.com/cytopia/ffscreencast">
    ffscreencast
   </a>
-  - ffmpeg screencast with video overlay and multi monitor support.
-  <sup>
-   134 GitHub links in total 174 links, ★ 143, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 143, pushed 92 days ago
   </sup>
+  - ffmpeg screencast with video overlay and multi monitor support.
  </li>
  <li>
   <a href="https://github.com/IonicaBizau/idea">
    idea
   </a>
-  - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-  <sup>
-   134 GitHub links in total 174 links, ★ 23, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 7 days ago
   </sup>
+  - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
  </li>
  <li>
   <a href="https://github.com/kevva/imgur-uploader-cli">
    imgur-uploader-cli
   </a>
-  - Upload images to imgur.
-  <sup>
-   134 GitHub links in total 174 links, ★ 11, pushed 118 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 118 days ago
   </sup>
+  - Upload images to imgur.
  </li>
  <li>
   <a href="https://github.com/VitaliyRodnenko/geeknote">
    geeknote
   </a>
-  - Console client for Evernote.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1565, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1565, pushed 4 days ago
   </sup>
+  - Console client for Evernote.
  </li>
  <li>
   <a href="https://github.com/localtunnel/localtunnel">
    localtunnel
   </a>
-  - Exposes your localhost to the world for easy testing and sharing.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2851, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 2851, pushed 19 days ago
   </sup>
+  - Exposes your localhost to the world for easy testing and sharing.
  </li>
  <li>
   <a href="http://ledger-cli.org">
@@ -682,13 +586,10 @@
   <a href="https://github.com/samg/timetrap">
    Timetrap
   </a>
-  - Simple command line timetracker.
-  <sup>
-   134 GitHub links in total 174 links, ★ 606, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 606, pushed 2 days ago
   </sup>
+  - Simple command line timetracker.
  </li>
 </ul>
 <h2>
@@ -699,125 +600,95 @@
   <a href="https://github.com/kevva/archive-type-cli">
    archive-type-cli
   </a>
-  - Detect the archive type of a Buffer/Uint8Array.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1, pushed 118 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 118 days ago
   </sup>
+  - Detect the archive type of a Buffer/Uint8Array.
  </li>
  <li>
   <a href="https://github.com/gillstrom/battery-level">
    battery-level
   </a>
-  - Get current battery level.
-  <sup>
-   134 GitHub links in total 174 links, ★ 99, pushed 150 days ago
-  </sup>
   <sup>
    &#9733 99, pushed 150 days ago
   </sup>
+  - Get current battery level.
  </li>
  <li>
   <a href="https://github.com/kevva/brightness-cli">
    brightness-cli
   </a>
+  <sup>
+   &#9733 67, pushed 118 days ago
+  </sup>
   - Change screen brightness-
   <a href="https://github.com/sondreb/win-brightness">
    windows version
   </a>
   .
-  <sup>
-   134 GitHub links in total 174 links, ★ 67, pushed 118 days ago
-  </sup>
-  <sup>
-   &#9733 67, pushed 118 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/yudai/gotty">
    gotty
   </a>
-  - Share your terminal as a web application.
-  <sup>
-   134 GitHub links in total 174 links, ★ 6321, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 6321, pushed 20 days ago
   </sup>
+  - Share your terminal as a web application.
  </li>
  <li>
   <a href="https://github.com/gillstrom/screensaver">
    screensaver
   </a>
-  - Start the screensaver.
-  <sup>
-   134 GitHub links in total 174 links, ★ 12, pushed 184 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 184 days ago
   </sup>
+  - Start the screensaver.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/wallpaper-cli">
    wallpaper-ci
   </a>
-  - Get or set the desktop wallpaper.
-  <sup>
-   134 GitHub links in total 174 links, ★ 40, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 7 days ago
   </sup>
+  - Get or set the desktop wallpaper.
  </li>
  <li>
   <a href="https://github.com/mptre/yank">
    yank
   </a>
-  - Yank terminal output to clipboard.
-  <sup>
-   134 GitHub links in total 174 links, ★ 486, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 486, pushed 1 days ago
   </sup>
+  - Yank terminal output to clipboard.
  </li>
  <li>
   <a href="https://github.com/beatfreaker/text-meme-cli">
    text-meme
   </a>
-  - Generate text meme.
-  <sup>
-   134 GitHub links in total 174 links, ★ 26, pushed 133 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 133 days ago
   </sup>
+  - Generate text meme.
  </li>
  <li>
   <a href="https://github.com/zquestz/s">
    s
   </a>
-  - Open a web search in your terminal. Supports multiple search providers.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1378, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 1378, pushed 8 days ago
   </sup>
+  - Open a web search in your terminal. Supports multiple search providers.
  </li>
  <li>
   <a href="https://github.com/lordgiotto/google-font-installer">
    google-font-installer
   </a>
-  - Search, download, and install any Google Font on your local machine.
-  <sup>
-   134 GitHub links in total 174 links, ★ 9, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 68 days ago
   </sup>
+  - Search, download, and install any Google Font on your local machine.
  </li>
  <li>
   <a href="https://github.com/tatsuhiro-t/aria2">
@@ -834,73 +705,55 @@
   <a href="https://github.com/sindresorhus/bundle-id-cli">
    bundle-id-cli
   </a>
-  - Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari.
-  <sup>
-   134 GitHub links in total 174 links, ★ 7, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 11 days ago
   </sup>
+  - Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/bundle-name-cli">
    bundle-name-cli
   </a>
-  - Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 11 days ago
   </sup>
+  - Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari.
  </li>
  <li>
   <a href="https://github.com/kevva/lnfs-cli">
    lnfs-cli
   </a>
-  - Safely force create symlinks.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2, pushed 118 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 118 days ago
   </sup>
+  - Safely force create symlinks.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/osx-version-cli">
    osx-version-cli
   </a>
-  - Get the OS X version of the current system.
-  <sup>
-   134 GitHub links in total 174 links, ★ 7, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 11 days ago
   </sup>
+  - Get the OS X version of the current system.
  </li>
  <li>
   <a href="https://github.com/danyshaanan/osx-wifi-cli">
    osx-wifi-cli
   </a>
-  - A cli for managing wifi connections on OSX.
-  <sup>
-   134 GitHub links in total 174 links, ★ 16, pushed 24 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 24 days ago
   </sup>
+  - A cli for managing wifi connections on OSX.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/active-win-cli">
    active-win-cli
   </a>
-  - Get the title/id/etc of the active window
-  <sup>
-   134 GitHub links in total 174 links, ★ 9, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 11 days ago
   </sup>
+  - Get the title/id/etc of the active window
  </li>
 </ul>
 <h2>
@@ -911,61 +764,46 @@
   <a href="https://github.com/nvbn/thefuck">
    The Fuck
   </a>
-  - Magnificent app which corrects your previous console command.
-  <sup>
-   134 GitHub links in total 174 links, ★ 20095, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 20095, pushed 3 days ago
   </sup>
+  - Magnificent app which corrects your previous console command.
  </li>
  <li>
   <a href="https://github.com/tldr-pages/tldr">
    tldr
   </a>
-  - Simplified and community-driven man pages.
-  <sup>
-   134 GitHub links in total 174 links, ★ 7776, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 7776, pushed 1 days ago
   </sup>
+  - Simplified and community-driven man pages.
  </li>
  <li>
   <a href="https://github.com/gleitz/howdoi">
    howdoi
   </a>
+  <sup>
+   &#9733 4355, pushed 9 days ago
+  </sup>
   - Instant coding answers via the command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4355, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 4355, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/santinic/how2">
    how2
   </a>
-  - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
-  <sup>
-   134 GitHub links in total 174 links, ★ 4247, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 4247, pushed 45 days ago
   </sup>
+  - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
  </li>
  <li>
   <a href="https://github.com/dthree/cash">
    Cash
   </a>
+  <sup>
+   &#9733 6717, pushed 2 days ago
+  </sup>
   - Cross-platform Linux commands in pure ES6.
-  <sup>
-   134 GitHub links in total 174 links, ★ 6717, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6717, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -976,41 +814,32 @@
   <a href="https://github.com/stedolan/jq">
    jq
   </a>
+  <sup>
+   &#9733 6555, pushed 19 days ago
+  </sup>
   - Command-line JSON processor
   <a href="http://stedolan.github.io/jq/">
    http://stedolan.github.io/jq/
   </a>
   .
-  <sup>
-   134 GitHub links in total 174 links, ★ 6555, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 6555, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ddopson/underscore-cli">
    underscore-cli
   </a>
-  - Command-line utility-belt for hacking JSON and Javascript.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1309, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 1309, pushed 14 days ago
   </sup>
+  - Command-line utility-belt for hacking JSON and Javascript.
  </li>
  <li>
   <a href="https://github.com/raine/ramda-cli">
    ramda-cli
   </a>
-  - A CLI tool for processing data with functional pipelines.
-  <sup>
-   134 GitHub links in total 174 links, ★ 278, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 278, pushed 84 days ago
   </sup>
+  - A CLI tool for processing data with functional pipelines.
  </li>
 </ul>
 <h2>
@@ -1024,61 +853,46 @@
   <a href="https://github.com/sindresorhus/trash-cli">
    trash-cli
   </a>
-  - Move files and directories to the trash.
-  <sup>
-   134 GitHub links in total 174 links, ★ 137, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 137, pushed 25 days ago
   </sup>
+  - Move files and directories to the trash.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/empty-trash-cli">
    empty-trash-cli
   </a>
-  - Empty the trash.
-  <sup>
-   134 GitHub links in total 174 links, ★ 29, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 11 days ago
   </sup>
+  - Empty the trash.
  </li>
  <li>
   <a href="https://github.com/sotojuan/trashss">
    trashss
   </a>
-  - ( only) Trash screenshots on desktop.
-  <sup>
-   134 GitHub links in total 174 links, ★ 17, pushed 66 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 66 days ago
   </sup>
+  - ( only) Trash screenshots on desktop.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/del-cli">
    del-cli
   </a>
-  - Delete files and folders.
-  <sup>
-   134 GitHub links in total 174 links, ★ 31, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 33 days ago
   </sup>
+  - Delete files and folders.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/cpy-cli">
    cpy-cli
   </a>
-  - Copies files.
-  <sup>
-   134 GitHub links in total 174 links, ★ 32, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 13 days ago
   </sup>
+  - Copies files.
  </li>
 </ul>
 <h3>
@@ -1089,37 +903,28 @@
   <a href="https://github.com/sindresorhus/file-type-cli">
    file-type-cli
   </a>
-  - Detect the file type of a file or stdin.
-  <sup>
-   134 GitHub links in total 174 links, ★ 11, pushed 199 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 199 days ago
   </sup>
+  - Detect the file type of a file or stdin.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/strip-json-comments-cli">
    strip-json-comments-cli
   </a>
-  - Strip comments from JSON. Lets you use comments in your JSON files!
-  <sup>
-   134 GitHub links in total 174 links, ★ 14, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 26 days ago
   </sup>
+  - Strip comments from JSON. Lets you use comments in your JSON files!
  </li>
  <li>
   <a href="https://github.com/thlorenz/doctoc">
    DocToc
   </a>
-  - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
-  <sup>
-   134 GitHub links in total 174 links, ★ 799, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 799, pushed 45 days ago
   </sup>
+  - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
  </li>
 </ul>
 <h3>
@@ -1130,81 +935,63 @@
   <a href="https://github.com/wting/autojump">
    autojump
   </a>
+  <sup>
+   &#9733 4169, pushed 4 days ago
+  </sup>
   - A cd command that learns - easily navigate directories from the command line-
   <a href="https://github.com/wting/autojump/wiki">
    https://github.com/wting/autojump/wiki
   </a>
   .
-  <sup>
-   134 GitHub links in total 174 links, ★ 4169, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 4169, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/clvv/fasd">
    fasd
   </a>
-  - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2348, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 2348, pushed 55 days ago
   </sup>
+  - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
  </li>
  <li>
   <a href="https://github.com/rupa/j">
    j
   </a>
+  <sup>
+   &#9733 136, pushed 664 days ago
+  </sup>
   - semi clone of autojump (
   <a href="https://github.com/wting/autojump">
    https://github.com/wting/autojump
   </a>
   ) in shell/awk.
-  <sup>
-   134 GitHub links in total 174 links, ★ 136, pushed 663 days ago
-  </sup>
-  <sup>
-   &#9733 136, pushed 663 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Angelmmiguel/pm">
    pm
   </a>
-  - The easy way to switch to your projects on the shell.
-  <sup>
-   134 GitHub links in total 174 links, ★ 22, pushed 78 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 78 days ago
   </sup>
+  - The easy way to switch to your projects on the shell.
  </li>
  <li>
   <a href="https://github.com/rupa/z">
    z
   </a>
-  - z is the new j, yo.
-  <sup>
-   134 GitHub links in total 174 links, ★ 5465, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 5465, pushed 10 days ago
   </sup>
+  - z is the new j, yo.
  </li>
  <li>
   <a href="https://github.com/hugows/hf">
    happyfinder
   </a>
-  - (another) Fuzzy file finder for the command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 263, pushed 294 days ago
-  </sup>
   <sup>
    &#9733 263, pushed 294 days ago
   </sup>
+  - (another) Fuzzy file finder for the command line.
  </li>
  <li>
   <a href="https://facebook.github.io/PathPicker/">
@@ -1216,13 +1003,10 @@
   <a href="https://github.com/sindresorhus/find-up-cli">
    find-up-cli
   </a>
-  - Find a file by walking up parent directories.
-  <sup>
-   134 GitHub links in total 174 links, ★ 6, pushed 240 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 240 days ago
   </sup>
+  - Find a file by walking up parent directories.
  </li>
 </ul>
 <h2>
@@ -1236,113 +1020,86 @@
   <a href="https://github.com/IonicaBizau/cli-github">
    CLI GitHub
   </a>
-  - :tv: A fancy GitHub client for command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 217, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 217, pushed 8 days ago
   </sup>
+  - :tv: A fancy GitHub client for command line.
  </li>
  <li>
   <a href="https://github.com/mbostock/gistup">
    Gistup
   </a>
-  - Create a gist from terminal, then use git to update it.
-  <sup>
-   134 GitHub links in total 174 links, ★ 293, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 293, pushed 49 days ago
   </sup>
+  - Create a gist from terminal, then use git to update it.
  </li>
  <li>
   <a href="https://github.com/golbin/git-commander">
    git commander
   </a>
-  - A git tool with a easy terminal interface.
-  <sup>
-   134 GitHub links in total 174 links, ★ 960, pushed 264 days ago
-  </sup>
   <sup>
    &#9733 960, pushed 264 days ago
   </sup>
+  - A git tool with a easy terminal interface.
  </li>
  <li>
   <a href="https://github.com/IonicaBizau/git-stats">
    git-stats
   </a>
+  <sup>
+   &#9733 3607, pushed 7 days ago
+  </sup>
   - :four
   <em>
    leaf
   </em>
   clover: A GitHub-like contributions calendar, but locally, with all your git commits.
-  <sup>
-   134 GitHub links in total 174 links, ★ 3607, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 3607, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/github/hub">
    hub
   </a>
-  - A command-line wrapper for git that makes you better at GitHub.
-  <sup>
-   134 GitHub links in total 174 links, ★ 8391, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 8391, pushed 12 days ago
   </sup>
+  - A command-line wrapper for git that makes you better at GitHub.
  </li>
  <li>
   <a href="https://github.com/samverschueren/dev-time-cli">
    dev-time
   </a>
-  - Get the current local time of a GitHub user.
-  <sup>
-   134 GitHub links in total 174 links, ★ 30, pushed 85 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 85 days ago
   </sup>
+  - Get the current local time of a GitHub user.
  </li>
  <li>
   <a href="https://github.com/stevemao/awesome-git-addons">
    awesome-git-addons
   </a>
-  - A curated list of addons that extends git cli.
-  <sup>
-   134 GitHub links in total 174 links, ★ 227, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 227, pushed 10 days ago
   </sup>
+  - A curated list of addons that extends git cli.
  </li>
  <li>
   <a href="https://github.com/himynameisdave/git-labelmaker">
    git-labelmaker
   </a>
-  - Edit GitHub labels from the command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 126, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 126, pushed 42 days ago
   </sup>
+  - Edit GitHub labels from the command line.
  </li>
  <li>
   <a href="https://github.com/jonas/tig">
    tig
   </a>
-  - Text-mode interface for Git.
-  <sup>
-   134 GitHub links in total 174 links, ★ 3093, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 3093, pushed 8 days ago
   </sup>
+  - Text-mode interface for Git.
  </li>
 </ul>
 <h3>
@@ -1353,13 +1110,10 @@
   <a href="https://github.com/kentcdodds/clog-cli">
    clog
   </a>
-  - A conventional changelog for the rest of us.
-  <sup>
-   134 GitHub links in total 174 links, ★ 6, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 12 days ago
   </sup>
+  - A conventional changelog for the rest of us.
  </li>
 </ul>
 <h2>
@@ -1373,73 +1127,55 @@
   <a href="https://github.com/kohler/gifsicle">
    gifsicle
   </a>
-  - Create, manipulate, and optimize GIF images and animations.
-  <sup>
-   134 GitHub links in total 174 links, ★ 663, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 663, pushed 28 days ago
   </sup>
+  - Create, manipulate, and optimize GIF images and animations.
  </li>
  <li>
   <a href="https://github.com/icholy/ttygif">
    ttygif
   </a>
-  - Convert terminal recordings to animated gifs.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1735, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1735, pushed 8 days ago
   </sup>
+  - Convert terminal recordings to animated gifs.
  </li>
  <li>
   <a href="https://github.com/sugyan/ttygif">
    ttygif
   </a>
-  - ttyrec to gif.
-  <sup>
-   134 GitHub links in total 174 links, ★ 156, pushed 644 days ago
-  </sup>
   <sup>
    &#9733 156, pushed 644 days ago
   </sup>
+  - ttyrec to gif.
  </li>
  <li>
   <a href="https://github.com/chjj/ttystudio">
    ttystudio
   </a>
-  - A terminal-to-gif recorder minus the headaches.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2434, pushed 253 days ago
-  </sup>
   <sup>
    &#9733 2434, pushed 253 days ago
   </sup>
+  - A terminal-to-gif recorder minus the headaches.
  </li>
  <li>
   <a href="https://github.com/asciinema/asciinema">
    asciinema
   </a>
-  - Terminal session recorder and the best companion of asciinema.org.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1504, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 1504, pushed 18 days ago
   </sup>
+  - Terminal session recorder and the best companion of asciinema.org.
  </li>
  <li>
   <a href="https://github.com/passy/givegif">
    givegif
   </a>
-  - GIFs on the command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 140, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 140, pushed 20 days ago
   </sup>
+  - GIFs on the command line.
  </li>
 </ul>
 <h2>
@@ -1450,13 +1186,10 @@
   <a href="https://github.com/svg/svgo">
    SVGO
   </a>
+  <sup>
+   &#9733 4563, pushed 2 days ago
+  </sup>
   - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4563, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 4563, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1467,13 +1200,10 @@
   <a href="https://github.com/sindresorhus/parse-columns-cli">
    parse-columns-cli
   </a>
-  - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
-  <sup>
-   134 GitHub links in total 174 links, ★ 17, pushed 134 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 134 days ago
   </sup>
+  - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
  </li>
 </ul>
 <h2>
@@ -1484,29 +1214,23 @@
   <a href="https://github.com/Treri/cmatrix">
    cmatrix
   </a>
+  <sup>
+   &#9733 30, pushed 915 days ago
+  </sup>
   - Show a scrolling 'Matrix' like screen- (
   <a href="http://www.asty.org/cmatrix/">
    original
   </a>
   ).
-  <sup>
-   134 GitHub links in total 174 links, ★ 30, pushed 915 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 915 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/pipeseroni/pipes.sh">
    pipes.sh
   </a>
-  - Shows random pipes that grow across the screen.
-  <sup>
-   134 GitHub links in total 174 links, ★ 196, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 196, pushed 25 days ago
   </sup>
+  - Shows random pipes that grow across the screen.
  </li>
 </ul>
 <h2>
@@ -1517,37 +1241,28 @@
   <a href="https://github.com/danyshaanan/cli-mandelbrot">
    cli-mandelbrot
   </a>
-  - A cli for traversing the Mandelbrot fractal.
-  <sup>
-   134 GitHub links in total 174 links, ★ 12, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 2 days ago
   </sup>
+  - A cli for traversing the Mandelbrot fractal.
  </li>
  <li>
   <a href="https://github.com/yaronn/wopr">
    WOPR
   </a>
-  - A simple markup language for creating rich terminal reports, presentations and infographics.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2126, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 2126, pushed 32 days ago
   </sup>
+  - A simple markup language for creating rich terminal reports, presentations and infographics.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/sparkly-cli">
    sparkly-cli
   </a>
-  - Generate sparklines ▁▂▃▅▂▇..
-  <sup>
-   134 GitHub links in total 174 links, ★ 31, pushed 109 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 109 days ago
   </sup>
+  - Generate sparklines ▁▂▃▅▂▇..
  </li>
 </ul>
 <h2>
@@ -1564,41 +1279,32 @@
   <a href="https://github.com/sindresorhus/meow">
    meow
   </a>
-  - The most simple way to write small CLI modules including argument parsing.
-  <sup>
-   134 GitHub links in total 174 links, ★ 450, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 450, pushed 11 days ago
   </sup>
+  - The most simple way to write small CLI modules including argument parsing.
  </li>
  <li>
   <a href="https://github.com/SBoudrias/Inquirer.js">
    Inquirer
   </a>
-  - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2794, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 2794, pushed 16 days ago
   </sup>
+  - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
  </li>
  <li>
   <a href="https://github.com/dthree/vorpal">
    Vorpal
   </a>
+  <sup>
+   &#9733 3152, pushed 26 days ago
+  </sup>
   - Complete solution for creating interactive apps. Includes UI features from
   <a href="https://github.com/SBoudrias/Inquirer.js">
    Inquirer.
   </a>
   .
-  <sup>
-   134 GitHub links in total 174 links, ★ 3152, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 3152, pushed 26 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -1609,37 +1315,28 @@
   <a href="https://github.com/chalk/chalk">
    Chalk
   </a>
-  - Beautiful API to have beautiful terminal string styling.
-  <sup>
-   134 GitHub links in total 174 links, ★ 3384, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 3384, pushed 27 days ago
   </sup>
+  - Beautiful API to have beautiful terminal string styling.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/log-symbols">
    log-symbols
   </a>
-  - Colored symbols to differentiate output messages with a blink of an eye.
-  <sup>
-   134 GitHub links in total 174 links, ★ 123, pushed 434 days ago
-  </sup>
   <sup>
    &#9733 123, pushed 434 days ago
   </sup>
+  - Colored symbols to differentiate output messages with a blink of an eye.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/log-update">
    log-update
   </a>
-  – Useful for ASCII animation. For example loading indicators.
-  <sup>
-   134 GitHub links in total 174 links, ★ 186, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 186, pushed 64 days ago
   </sup>
+  – Useful for ASCII animation. For example loading indicators.
  </li>
 </ul>
 <h3>
@@ -1650,85 +1347,64 @@
   <a href="https://github.com/sindresorhus/indent-string-cli">
    indent-string-cli
   </a>
-  - Indent each line in a string.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 138 days ago
   </sup>
+  - Indent each line in a string.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pretty-ms-cli">
    pretty-ms-cli
   </a>
-  - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
-  <sup>
-   134 GitHub links in total 174 links, ★ 14, pushed 171 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 171 days ago
   </sup>
+  - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/repeating-cli">
    repeating-cli
   </a>
-  - Repeat a string - fast.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 253 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 253 days ago
   </sup>
+  - Repeat a string - fast.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/string-width-cli">
    string-width-cli
   </a>
-  - Get the visual width of a string - the number of columns required to display it.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 11 days ago
   </sup>
+  - Get the visual width of a string - the number of columns required to display it.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/find-versions-cli">
    find-versions-cli
   </a>
-  - Find semver versions in a string: unicorn v1.2.3 → 1.2.3.
-  <sup>
-   134 GitHub links in total 174 links, ★ 10, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 138 days ago
   </sup>
+  - Find semver versions in a string: unicorn v1.2.3 → 1.2.3.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pretty-bytes-cli">
    pretty-bytes-cli
   </a>
-  - Convert bytes to a human readable string: 1337 → 1.34 kB.
-  <sup>
-   134 GitHub links in total 174 links, ★ 23, pushed 138 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 138 days ago
   </sup>
+  - Convert bytes to a human readable string: 1337 → 1.34 kB.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/normalize-newline-cli">
    normalize-newline-cli
   </a>
-  - Normalize the newline characters in a string to \n.
-  <sup>
-   134 GitHub links in total 174 links, ★ 12, pushed 133 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 133 days ago
   </sup>
+  - Normalize the newline characters in a string to \n.
  </li>
 </ul>
 <h2>
@@ -1739,37 +1415,28 @@
   <a href="https://github.com/sindresorhus/app-path-cli">
    app-path-cli
   </a>
-  - Get the path to an app (OS X).
-  <sup>
-   134 GitHub links in total 174 links, ★ 11, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 11 days ago
   </sup>
+  - Get the path to an app (OS X).
  </li>
  <li>
   <a href="https://github.com/BibleJS/BibleApp">
    Bible.Js CLI client
   </a>
-  - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
-  <sup>
-   134 GitHub links in total 174 links, ★ 85, pushed 207 days ago
-  </sup>
   <sup>
    &#9733 85, pushed 207 days ago
   </sup>
+  - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
  </li>
  <li>
   <a href="https://github.com/IonicaBizau/birthday">
    birthday
   </a>
-  - Know when a friend's birthday is coming.
-  <sup>
-   134 GitHub links in total 174 links, ★ 8, pushed 110 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 110 days ago
   </sup>
+  - Know when a friend's birthday is coming.
  </li>
  <li>
   <a href="https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml">
@@ -1785,25 +1452,19 @@
   <a href="https://github.com/bnagy/cgasm">
    cgasm
   </a>
-  - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
-  <sup>
-   134 GitHub links in total 174 links, ★ 153, pushed 283 days ago
-  </sup>
   <sup>
    &#9733 153, pushed 283 days ago
   </sup>
+  - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
  </li>
  <li>
   <a href="https://github.com/sindresorhus/detect-indent-cli">
    detect-indent-cli
   </a>
-  - Detect the indentation of code.
-  <sup>
-   134 GitHub links in total 174 links, ★ 10, pushed 78 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 78 days ago
   </sup>
+  - Detect the indentation of code.
  </li>
  <li>
   <a href="http://brewformulas.org/Fortune">
@@ -1815,241 +1476,181 @@
   <a href="https://github.com/sindresorhus/fullname-cli">
    fullname-cli
   </a>
-  - Get the fullname of the current user.
-  <sup>
-   134 GitHub links in total 174 links, ★ 8, pushed 77 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 77 days ago
   </sup>
+  - Get the fullname of the current user.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/get-port-cli">
    get-port-cli
   </a>
-  - Get an available port.
-  <sup>
-   134 GitHub links in total 174 links, ★ 11, pushed 77 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 77 days ago
   </sup>
+  - Get an available port.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gzip-size-cli">
    gzip-size-cli
   </a>
-  - Get the gzipped size of a file or stdin.
-  <sup>
-   134 GitHub links in total 174 links, ★ 35, pushed 260 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 260 days ago
   </sup>
+  - Get the gzipped size of a file or stdin.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/hasha-cli">
    HASHA -cli
   </a>
-  - Hashing made simple. Get the hash of text or stdin.
-  <sup>
-   134 GitHub links in total 174 links, ★ 22, pushed 203 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 203 days ago
   </sup>
+  - Hashing made simple. Get the hash of text or stdin.
  </li>
  <li>
   <a href="https://github.com/beatfreaker/is-reachable-cli">
    is-reachable-cli
   </a>
-  - Check if hostnames are reachable or not.
-  <sup>
-   134 GitHub links in total 174 links, ★ 5, pushed 251 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 251 days ago
   </sup>
+  - Check if hostnames are reachable or not.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/kill-tabs">
    kill-tabs
   </a>
-  - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
-  <sup>
-   134 GitHub links in total 174 links, ★ 156, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 156, pushed 25 days ago
   </sup>
+  - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/leven-cli">
    leven-cli
   </a>
-  - Measure the difference between two strings using the Levenshtein distance algorithm.
-  <sup>
-   134 GitHub links in total 174 links, ★ 16, pushed 239 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 239 days ago
   </sup>
+  - Measure the difference between two strings using the Levenshtein distance algorithm.
  </li>
  <li>
   <a href="https://github.com/p-e-w/maybe">
    maybe
   </a>
-  - See what a program does before deciding whether you really want it to happen.
-  <sup>
-   134 GitHub links in total 174 links, ★ 5883, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 5883, pushed 10 days ago
   </sup>
+  - See what a program does before deciding whether you really want it to happen.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/open-shortcut-cli">
    open-shortcut-cli
   </a>
-  - Open the URL from a web shortcut file in the browser.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 11 days ago
   </sup>
+  - Open the URL from a web shortcut file in the browser.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pkg-dir-cli">
    pkg-dir-cli
   </a>
-  - Find the root directory of a npm package.
-  <sup>
-   134 GitHub links in total 174 links, ★ 4, pushed 99 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 99 days ago
   </sup>
+  - Find the root directory of a npm package.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/speed-test">
    speed-test
   </a>
-  - Test your internet connection speed and ping using speedtest.net from the CLI.
-  <sup>
-   134 GitHub links in total 174 links, ★ 1530, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 1530, pushed 26 days ago
   </sup>
+  - Test your internet connection speed and ping using speedtest.net from the CLI.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/shortcut-url-cli">
    shortcut-url-cli
   </a>
-  - Get the URL from a web shortcut file.
-  <sup>
-   134 GitHub links in total 174 links, ★ 5, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 11 days ago
   </sup>
+  - Get the URL from a web shortcut file.
  </li>
  <li>
   <a href="https://github.com/sunsations/speed_read">
    SpeedRead
   </a>
-  - A simple terminal-based open source Spritz-alike.
-  <sup>
-   134 GitHub links in total 174 links, ★ 10, pushed 680 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 680 days ago
   </sup>
+  - A simple terminal-based open source Spritz-alike.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/to-double-quotes-cli">
    to-double-quotes
   </a>
-  - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
-  <sup>
-   134 GitHub links in total 174 links, ★ 8, pushed 124 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 124 days ago
   </sup>
+  - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/to-single-quotes-cli">
    to-single-quotes
   </a>
-  - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
-  <sup>
-   134 GitHub links in total 174 links, ★ 11, pushed 124 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 124 days ago
   </sup>
+  - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
  </li>
  <li>
   <a href="https://github.com/yeoman/yosay">
    yosay
   </a>
-  - Like cowsay, but for yeoman.
-  <sup>
-   134 GitHub links in total 174 links, ★ 102, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 102, pushed 25 days ago
   </sup>
+  - Like cowsay, but for yeoman.
  </li>
  <li>
   <a href="https://github.com/cyrus-and/gdb-dashboard">
    gdb-dashboard
   </a>
-  - Modular visual interface for GDB in Python.
-  <sup>
-   134 GitHub links in total 174 links, ★ 2529, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 2529, pushed 17 days ago
   </sup>
+  - Modular visual interface for GDB in Python.
  </li>
  <li>
   <a href="https://github.com/riyadhalnur/weather-cli">
    weather-cli
   </a>
-  - Check the weather for your city from your terminal.
-  <sup>
-   134 GitHub links in total 174 links, ★ 3, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 4 days ago
   </sup>
+  - Check the weather for your city from your terminal.
  </li>
  <li>
   <a href="https://github.com/bevacqua/hget">
    hget
   </a>
-  - Render websites in plain text from your terminal.
-  <sup>
-   134 GitHub links in total 174 links, ★ 176, pushed 112 days ago
-  </sup>
   <sup>
    &#9733 176, pushed 112 days ago
   </sup>
+  - Render websites in plain text from your terminal.
  </li>
  <li>
   <a href="https://github.com/erkin/ponysay">
    ponysay
   </a>
+  <sup>
+   &#9733 404, pushed 91 days ago
+  </sup>
   - Pony rewrite of cowsay.
-  <sup>
-   134 GitHub links in total 174 links, ★ 404, pushed 90 days ago
-  </sup>
-  <sup>
-   &#9733 404, pushed 90 days ago
-  </sup>
  </li>
 </ul>
 <h2>

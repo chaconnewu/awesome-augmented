@@ -369,9 +369,6 @@
    .Net Code Katas
   </a>
   <sup>
-   17 GitHub links in total 66 links, ★ 5, pushed 329 days ago
-  </sup>
-  <sup>
    &#9733 5, pushed 330 days ago
   </sup>
  </li>
@@ -389,9 +386,6 @@
   <a href="https://github.com/emilybache/Racing-Car-Katas">
    Racing Car Katas
   </a>
-  <sup>
-   17 GitHub links in total 66 links, ★ 57, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 57, pushed 23 days ago
   </sup>

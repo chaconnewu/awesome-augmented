@@ -1,2427 +1,599 @@
 <div align="center">
- <img src="http://i.imgur.com/jLVXhpc.png">
- </img>
+  <img src="http://i.imgur.com/jLVXhpc.png">
 </div>
-<h1>
- Awesome Common Lisp
- <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
- </a>
-</h1>
-<p>
- A curated list of
- <em>
-  awesome
- </em>
- Common Lisp stuff.
-</p>
-<p>
- Add something new! See the
- <a href="#contributing">
-  contributing
- </a>
- section for adding something to the
+
+# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of _awesome_ Common Lisp stuff.
+
+Add something new! See the [contributing](#contributing) section for adding something to the
 list.
-</p>
-<p>
- All libraries listed here are available from
- <a href="https://www.quicklisp.org/beta/">
-  Quicklisp
- </a>
- unless
+
+All libraries listed here are available from [Quicklisp][16] unless
 stated otherwise.
-</p>
-<p>
- This is released under the GNU Free Documentation License - its text
+
+This is released under the GNU Free Documentation License - its text
 is provided in the LICENSE file. This repository is also mirrored on
- <a href="https://notabug.org/CodyReichert/awesome-cl">
-  NotABug
- </a>
- - a
- <strong>
-  fully-free
- </strong>
- (as in libre)
-alternative to Github.  Preference is given to
- <a href="http://www.sbcl.org/manual/index.html#ANSI-Conformance">
-  free software
- </a>
- and
+[NotABug](https://notabug.org/CodyReichert/awesome-cl) - a **fully-free** (as in libre)
+alternative to Github.  Preference is given to [free software][13] and
 sellers who aren't evil for physical resources.
-</p>
-<p>
- <strong>
-  Table of Contents
- </strong>
- -
- <a href="#awesome-common-lisp">
-  Awesome Common Lisp
- </a>
- -
- <a href="#build-systems">
-  Build Systems
- </a>
- -
- <a href="#crypto">
-  Crypto
- </a>
- -
- <a href="#database">
-  Database
- </a>
- -
- <a href="#foreign-function-interface">
-  Foreign Function Interface
- </a>
- -
- <a href="#c">
-  C
- </a>
- -
- <a href="#java">
-  Java
- </a>
- -
- <a href="#miscellaneous">
-  Miscellaneous
- </a>
- -
- <a href="#python">
-  Python
- </a>
- -
- <a href="#game-development">
-  Game Development
- </a>
- -
- <a href="#graphics">
-  Graphics
- </a>
- -
- <a href="#gui">
-  GUI
- </a>
- -
- <a href="#implementations">
-  Implementations
- </a>
- -
- <a href="#json">
-  JSON
- </a>
- -
- <a href="#learning-and-tutorials">
-  Learning and Tutorials
- </a>
- -
- <a href="#online">
-  Online
- </a>
- -
- <a href="#beginner">
-  Beginner
- </a>
- -
- <a href="#intermediate">
-  Intermediate
- </a>
- -
- <a href="#advanced">
-  Advanced
- </a>
- -
- <a href="#reference">
-  Reference
- </a>
- -
- <a href="#offline">
-  Offline
- </a>
- -
- <a href="#beginner-1">
-  Beginner
- </a>
- -
- <a href="#intermediate-1">
-  Intermediate
- </a>
- -
- <a href="#advanced-1">
-  Advanced
- </a>
- -
- <a href="#library-manager">
-  Library Manager
- </a>
- -
- <a href="#natural-language-processing">
-  Natural Language Processing
- </a>
- -
- <a href="#network-and-internet">
-  Network and Internet
- </a>
- -
- <a href="#numerical-and-scientific">
-  Numerical and Scientific
- </a>
- -
- <a href="#parallelism-and-concurrency">
-  Parallelism and Concurrency
- </a>
- -
- <a href="#regex">
-  Regex
- </a>
- -
- <a href="#text-editor-resources">
-  Text Editor Resources
- </a>
- -
- <a href="#emacs">
-  Emacs
- </a>
- -
- <a href="#vim">
-  Vim
- </a>
- -
- <a href="#tools">
-  Tools
- </a>
- -
- <a href="#unit-testing">
-  Unit Testing
- </a>
- -
- <a href="#utilities">
-  Utilities
- </a>
- -
- <a href="#xml">
-  XML
- </a>
- -
- <a href="#contributing">
-  Contributing
- </a>
-</p>
-<h1>
- Build Systems
-</h1>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/asdf/">
-   ASDF
-  </a>
-  - Another System Definition Facility; a build system for Common Lisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/asdf-linguist">
-   asdf-linguist
-  </a>
-  - Extensions for ASDF.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 14, pushed 279 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Crypto
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/Shinmera/crypto-shortcuts">
-   crypto-shortcuts
-  </a>
-  - Collection of common crypto shortcuts.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 10, pushed 193 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://method-combination.net/lisp/ironclad/">
-   Ironclad
-  </a>
-  - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/trivial-ssh">
-   trivial-ssh
-  </a>
-  - An SSH client library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 11, pushed 451 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Database
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/fukamachi/cl-dbi">
-   cl-dbi
-  </a>
-  - A database-independent interface for Common Lisp.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 68, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/quasi/cl-memcached">
-   cl-memcached
-  </a>
-  - Fast, thread-safe interface to the Memcached object caching system.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 16, pushed 337 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fons/cl-mongo">
-   cl-mongo
-  </a>
-  - MongoDB client.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 103, pushed 9 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vseloved/cl-redis">
-   cl-redis
-  </a>
-  - Redis client.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 95, pushed 203 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/CodyReichert/cl-disque">
-   cl-disque
-  </a>
-  - Disque client.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 6, pushed 244 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/orthecreedence/cl-rethinkdb">
-   cl-rethinkdb
-  </a>
-  - RethinkDB client.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 35, pushed 43 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dmitryvk/cl-sqlite">
-   cl-sqlite
-  </a>
-  - Bindings for SQLite. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 25, pushed 1820 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.cliki.net/CLSQL">
-   clsql
-  </a>
-  - An SQL database with a Common Lisp interface.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/html/clache">
-   clache
-  </a>
-  - General caching facility. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 0, pushed 780 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://common-lisp.net/project/clouchdb/">
-   clouchdb
-  </a>
-  - Library for interacting with CouchDB.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/crane">
-   crane
-  </a>
-  - Another ORM.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 140, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/datafly">
-   datafly
-  </a>
-  - A lightweight database library.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 33, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/mito">
-   mito
-  </a>
-  - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 21, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://marijnhaverbeke.nl/postmodern/">
-   postmodern
-  </a>
-  - A library for interacting with PostgreSQL.
-  <a href="http://directory.fsf.org/wiki/License:Zlib">
-   zlib
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/fukamachi/sxql">
-   sxql
-  </a>
-  - A DSL for generating SQL.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 55, pushed 32 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Foreign Function Interface
-</h1>
-<h2>
- C
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/cffi/cffi">
-   CFFI
-  </a>
-  - Portable, easy-to-use C foreign function interface.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 120, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rpav/cl-autowrap">
-   cl-autowrap
-  </a>
-  - Automatically parses header files into CFFI definitions.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 69, pushed 4 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Java
-</h2>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/cl-plus-j/">
-   cl+j
-  </a>
-  - A JNI-based interface to a JVM via CFFI. Not available on Quicklisp. Does not reliably work with all implementations.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
-</ul>
-<h2>
- Miscellaneous
-</h2>
-<ul>
- <li>
-  <a href="http://foil.sourceforge.net/">
-   Foil
-  </a>
-  - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:CPLv1.0">
-   CPL 1.0
-  </a>
-  .
- </li>
-</ul>
-<h2>
- Python
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/pinterface/burgled-batteries">
-   burgled-batteries
-  </a>
-  - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 21, pushed 35 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Game Development
-</h1>
-<ul>
- <li>
-  <a href="http://xelf.me/">
-   Xelf
-  </a>
-  - Extensible game library. Not available on Quicklisp.
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Graphics
-</h1>
-<p>
- These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
-</p>
-<ul>
- <li>
-  <a href="https://github.com/rpav/cl-cairo2">
-   cl-cairo2
-  </a>
-  - Cairo bindings.
-  <a href="http://directory.fsf.org/wiki/License:Boost1.0">
-   Boost 1.0
-  </a>
-  <sup>
-   105 GitHub links in total 185 links, &#9733 34, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://weitz.de/cl-gd/">
-   cl-gd
-  </a>
-  - A library providing an interface to the GD graphics library.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/anwyn/cl-horde3d/">
-   cl-horde3d
-  </a>
-  - FFI bindings to the Horde3D graphics library. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:EPLv1.0">
-   EPL 1.0
-  </a>
- </li>
- <li>
-  <a href="https://github.com/3b/cl-opengl">
-   cl-opengl
-  </a>
-  - CFFI bindings to OpenGL, GLU and GLUT APIs.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 144, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lispgames/cl-sdl2">
-   cl-sdl2
-  </a>
-  - Bindings for SDL2 using C2FFI.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 77, pushed 23 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://code.google.com/archive/p/cl-svg">
-   cl-svg
-  </a>
-  - A basic library for producing SVG files.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/BradWBeer/CLinch">
-   CLinch
-  </a>
-  - Common Lisp 2D/3D graphics engine for OpenGL.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 143, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tkych/donuts">
-   donuts
-  </a>
-  - Graph drawing DSL for Common Lisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 10, pushed 1167 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lispbuilder/lispbuilder">
-   lispbuilder-sdl
-  </a>
-  - A set of bindings for SDL.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 38, pushed 143 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aerique/okra">
-   okra
-  </a>
-  - CFFI bindings to Ogre. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 21, pushed 545 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cbaggers/varjo">
-   Varjo
-  </a>
-  - Lisp to GLSL translator. Not available on Quicklisp.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 55, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.xach.com/lisp/vecto/">
-   Vecto
-  </a>
-  - Simple vector drawing library.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="http://www.xach.com/lisp/zpng/">
-   zpng
-  </a>
-  - A library for creating PNG files.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
-</ul>
-<h1>
- GUI
-</h1>
-<ul>
- <li>
-  <a href="http://www.crategus.com/books/cl-cffi-gtk/">
-   cl-cffi-gtk
-  </a>
-  - Binding for GTK+3.
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/dmitryvk/cl-gtk2">
-   cl-gtk2
-  </a>
-  - A binding for GTK+2.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 39, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mmontone/cl-xul">
-   cl-xul
-  </a>
-  - Mozilla XUL bindings.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 26, pushed 63 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/commonqt/commonqt">
-   CommonQt
-  </a>
-  - A Common Lisp binding for Qt4 via QtSmoke.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 55, pushed 42 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.peter-herth.de/ltk/">
-   ltk
-  </a>
-  - A binding for the Tk toolkit.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  or
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
- <li>
-  <a href="https://ceramic.github.io/">
-   ceramic
-  </a>
-  - Desktop web apps with Common Lisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Implementations
-</h1>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/armedbear/">
-   ABCL
-  </a>
-  - Armed Bear Common Lisp; targets the JVM, compiles to bytecode.
-  <a href="https://common-lisp.net/project/armedbear/faq.shtml#qa">
-   Standard conformance
-  </a>
-  .
-  <a href="http://www.gnu.org/copyleft/gpl.html">
-   GNU GPL3
-  </a>
-  with
-  <a href="http://www.gnu.org/software/classpath/license.html">
-   Classpath exception
-  </a>
-  .
- </li>
- <li>
-  <a href="http://ccl.clozure.com/">
-   CCL
-  </a>
-  - Clozure Common Lisp; compiler-only implementation, generates native code.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://www.cons.org/cmucl/">
-   CMUCL
-  </a>
-  - An implementation from Carnegie Mellon University. Public domain.
- </li>
- <li>
-  <a href="https://common-lisp.net/project/ecl/">
-   ECL
-  </a>
-  - Embeddable Common Lisp; compiles to C.
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
- <li>
-  <a href="https://www.gnu.org/software/gcl/">
-   GCL
-  </a>
-  - Another GNU implementation; not yet fully ANSI-compliant.
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
- <li>
-  <a href="http://www.clisp.org/">
-   GNU CLISP
-  </a>
-  - A GNU implementation; contains a compiler and an interpreter.
-  <a href="http://www.gnu.org/software/clisp/impnotes.html">
-   Standard conformance
-  </a>
-  .
-  <a href="http://www.gnu.org/copyleft/gpl.html">
-   GNU GPL3
-  </a>
-  .
- </li>
- <li>
-  <a href="http://www.sbcl.org/index.html">
-   SBCL
-  </a>
-  - A fork of CMUCL; compiles to machine code.
-  <a href="http://www.sbcl.org/manual/index.html#ANSI-Conformance">
-   Standard compliance
-  </a>
-  . Public domain, with some parts under
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  and
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
-</ul>
-<h1>
- JSON
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/hankhero/cl-json">
-   cl-json
-  </a>
-  - A JSON encoder and decoder.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 32, pushed 26 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/madnificent/jsown">
-   jsown
-  </a>
-  - A reader and writer for the JSON format.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 38, pushed 133 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Learning and Tutorials
-</h1>
-<h2>
- Online
-</h2>
-<h2>
- Beginner
-</h2>
-<ul>
- <li>
-  <a href="https://learnxinyminutes.com/docs/common-lisp/">
-   Learn X in Y minutes | Where X = Common Lisp
-  </a>
-  - Small Common Lisp tutorial covering the essentials.
- </li>
- <li>
-  <a href="http://www.gigamonkeys.com/book/">
-   Practical Common Lisp
-  </a>
-  - A good introductory text to Common Lisp, with practical examples.
- </li>
- <li>
-  <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html">
-   Common LISP: A Gentle Introduction to Symbolic Computation
-  </a>
-  - A nice introduction into the language.
- </li>
- <li>
-  <a href="http://www.tutorialspoint.com/lisp/index.htm">
-   Learn LISP: Simply Easy Learning
-  </a>
-  - A good set of introductory tutorials; includes interactive examples.
- </li>
- <li>
-  <a href="https://github.com/google/lisp-koans">
-   Common Lisp Koans
-  </a>
-  - The project guides the learner progressively through many Common Lisp language features.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 1447, pushed 47 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Intermediate
-</h2>
-<ul>
- <li>
-  <a href="http://lisptips.com/">
-   Common Lisp tips
-  </a>
-  - A blog with useful tips and tricks.
- </li>
- <li>
-  <a href="https://cheryllium.wordpress.com/2014/02/22/commonqt-tutorial-1/">
-   CommonQt tutorial
-  </a>
-  - A nice introduction to CommonQt.
- </li>
- <li>
-  <a href="http://arxiv.org/abs/1209.5626">
-   A tutorial for creating and publishing open-source Common Lisp software
-  </a>
-  - A handy tutorial for using Quicklisp and a bunch of other tools to create and publish a project in Common Lisp.
- </li>
-</ul>
-<h2>
- Advanced
-</h2>
-<ul>
- <li>
-  <a href="http://letoverlambda.com/">
-   Let Over Lambda
-  </a>
-  - A book on advanced macro techniques. The first six chapters are available online.
- </li>
- <li>
-  <a href="http://www.paulgraham.com/onlisp.html">
-   On Lisp
-  </a>
-  - Paul Graham's amazing book on Lisp macros (and other interesting things).
- </li>
-</ul>
-<h2>
- Reference
-</h2>
-<ul>
- <li>
-  <a href="http://clqr.boundp.org/index.html">
-   Common Lisp Quick Reference
-  </a>
-  - A distilled, pocket-size version of the ANSI CL spec. Available for download as a PDF.
- </li>
- <li>
-  <a href="http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm">
-   CLHS
-  </a>
-  - The Common Lisp HyperSpec; the ANSI CL standard, in hypertext form.
- </li>
- <li>
-  <a href="http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html">
-   Common Lisp the Langauge
-  </a>
-  - The original standard for Common Lisp before the ANSI spec.
- </li>
- <li>
-  <a href="http://minispec.org/index.html">
-   Minispec
-  </a>
-  - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
- </li>
- <li>
-  <a href="http://quickdocs.org/">
-   Quickdocs
-  </a>
-  - A reference for the libraries provided by Quicklisp.
- </li>
-</ul>
-<h2>
- Offline
-</h2>
-<h2>
- Beginner
-</h2>
-<ul>
- <li>
-  <a href="http://landoflisp.com/">
-   Land of Lisp
-  </a>
-  - A fun, game-oriented introduction to Common Lisp.
- </li>
- <li>
-  <a href="http://www.gigamonkeys.com/book/">
-   Practical Common Lisp
-  </a>
-  - A good introductory text to Common Lisp, with practical examples.
- </li>
- <li>
-  <a href="https://github.com/google/lisp-koans">
-   Common Lisp Koans
-  </a>
-  - The project guides the learner progressively through many Common Lisp language features.
- </li>
-</ul>
-<h2>
- Intermediate
-</h2>
-<ul>
- <li>
-  <a href="http://www.paulgraham.com/acl.html">
-   ANSI Common Lisp
-  </a>
-  - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to
-  <a href="http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html">
-   some caveats
-  </a>
-  .
- </li>
-</ul>
-<h2>
- Advanced
-</h2>
-<ul>
- <li>
-  <a href="http://letoverlambda.com/">
-   Let Over Lambda
-  </a>
-  - A book on advanced macro techniques. All eight chapters are available in the print copy.
- </li>
- <li>
-  <a href="http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP">
-   Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS
-  </a>
-  - An old, but very thorough book on CLOS.
- </li>
- <li>
-  <a href="http://norvig.com/paip.html">
-   Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp
-  </a>
-  - A book on programming AI that covers some advanced Lisp.
- </li>
-</ul>
-<h1>
- Library Manager
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/fukamachi/qlot">
-   qlot
-  </a>
-  - A project-local library installer, similar to Bundler or Carton.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 72, pushed 73 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.quicklisp.org/beta/">
-   Quicklisp
-  </a>
-  - A library manager containing many libraries, with easy depencency management.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/tarballs-are-good/quickutil">
-   Quickutil
-  </a>
-  - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 55, pushed 19 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Natural Language Processing
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/vseloved/cl-nlp">
-   cl-nlp
-  </a>
-  - Natural language processing toolset.
-  <a href="http://directory.fsf.org/wiki/License:Apache2.0">
-   Apache2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 75, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://emergent-languages.org/Babel2/">
-   babel2
-  </a>
-  - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism
-  <a href="http://directory.fsf.org/wiki/License:Apache2.0">
-   Apache2.0
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Network and Internet
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/franzinc/aserve">
-   aserve
-  </a>
-  - AllegroServe; a web server.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 55, pushed 24 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/avatar-api">
-   avatar-api
-  </a>
-  - Get avatars from Google+, Gravatar and others.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 7, pushed 343 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/caveman">
-   Caveman
-  </a>
-  - A powerful web framework.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 357, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Shinmera/chirp">
-   chirp
-  </a>
-  - A Twitter client library.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 30, pushed 91 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/archimag/cl-closure-template">
-   cl-closure-template
-  </a>
-  - Implementation of Google's Closure templates.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 60, pushed 282 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.common-lisp.net/project/cl-irc/">
-   cl-irc
-  </a>
-  - An IRC client library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/arielnetworks/cl-markup">
-   cl-markup
-  </a>
-  - Modern markup generation library.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 34, pushed 236 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://common-lisp.net/project/cl-openid/darcs/cl-openid/">
-   cl-openid
-  </a>
-  - An implementation of OpenID.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="http://weitz.de/cl-who/">
-   cl-who
-  </a>
-  - An HTML generator.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/CodyReichert/cl-ses/">
-   cl-ses
-  </a>
-  - Library for AWS SES.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/ruricolist/spinneret">
-   spinneret
-  </a>
-  - Common Lisp HTML5 generator.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 30, pushed 39 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/clack">
-   Clack
-  </a>
-  - A web application environment inspired by Rack and WSGI.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 512, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/clack-errors">
-   clack-errors
-  </a>
-  - Error page middleware for Clack.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 17, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Shinmera/colleen">
-   colleen
-  </a>
-  - IRC bot with a modular framework.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 20, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/paddymul/css-lite">
-   css-lite
-  </a>
-  - A CSS grammar.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 45, pushed 1513 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mmontone/djula">
-   Djula
-  </a>
-  - A port of Django's template engine to Common Lisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 41, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://weitz.de/drakma/">
-   Drakma
-  </a>
-  - An HTTP client.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/eco">
-   eco
-  </a>
-  - Fast, flexible, designer-friendly template engine.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 10, pushed 343 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/hermetic">
-   hermetic
-  </a>
-  - Security for Clack-based web applications.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 14, pushed 338 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hargettp/hh-web">
-   hh-web
-  </a>
-  - Framework for building modern web apps.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 28, pushed 566 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/orthecreedence/http-parse">
-   http-parse
-  </a>
-  - An HTTP parser in Common Lisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 13, pushed 346 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Shinmera/humbler">
-   humbler
-  </a>
-  - A Tumblr API interface.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 6, pushed 556 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://weitz.de/hunchentoot/">
-   hunchentoot
-  </a>
-  - A web server.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/Shinmera/lquery">
-   lquery
-  </a>
-  - A jQuery-like HTML/DOM manipulation library.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 17, pushed 103 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/ningle">
-   ningle
-  </a>
-  - A super-micro web framework.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 101, pushed 76 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eudoxia0/postmaster">
-   Postmaster
-  </a>
-  - A simple, easy-to-use SMTP/IMAP library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 1, pushed 516 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Shirakumo/radiance">
-   radiance
-  </a>
-  - An extensible framework library and multi-application CMS.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 13, pushed 390 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dmitrys99/saluto">
-   saluto
-  </a>
-  - OAuth 2.0 module for the RESTAS web framework. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 3, pushed 178 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mishoo/sytes">
-   sytes
-  </a>
-  - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 25, pushed 491 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/usocket/usocket">
-   usocket
-  </a>
-  - A portable TCP and UDP socket interface.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 30, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://weblocks-framework.info/">
-   weblocks
-  </a>
-  - An advanced web framework.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
- </li>
- <li>
-  <a href="https://github.com/orthecreedence/wookie">
-   wookie
-  </a>
-  - Asynchronous HTTP server.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 116, pushed 237 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Numerical and Scientific
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/tkych/cl-spark">
-   cl-spark
-  </a>
-  - Generates sparkline strings for lists of numbers.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 45, pushed 328 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://common-lisp.net/project/gsll/">
-   GSLL
-  </a>
-  - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp.
-  <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
-   GNU LGPL2.1
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/blindglobe/common-lisp-stat/">
-   common-lisp-stat
-  </a>
-  - Common Lisp statistics library.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/blindglobe/lisp-matrix">
-   lisp-matrix
-  </a>
-  - A matrix package.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 37, pushed 379 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://maxima.sourceforge.net/">
-   maxima
-  </a>
-  - Computer algebra system. Not available on Quicklisp.
-  <a href="http://www.gnu.org/copyleft/gpl.html">
-   GNU GPL3
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Parallelism and Concurrency
-</h1>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/bordeaux-threads/">
-   BordeauxThreads
-  </a>
-  - Portable, shared-state concurrency.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/zkat/chanl">
-   chanl
-  </a>
-  - Portable, channel-based concurrency.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  , with parts under
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 85, pushed 330 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/orthecreedence/cl-async">
-   cl-async
-  </a>
-  - A library for general-purpose, non-blocking programming.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 128, pushed 22 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/lesque">
-   lesque
-  </a>
-  - A clone of Resque. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 12, pushed 850 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lmj/lparallel">
-   lparallel
-  </a>
-  - A library for parallel programming.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 97, pushed 65 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pkhuong/Xecto">
-   Xecto
-  </a>
-  - A library for regular array parallelism.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 30, pushed 170 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Regex
-</h1>
-<ul>
- <li>
-  <a href="http://weitz.de/cl-ppcre/">
-   cl-ppcre
-  </a>
-  - Portable, Perl-compatible regular expressions.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Text Editor Resources
-</h1>
-<p>
- This contains plugins and other goodies for various text editors.
-</p>
-<h2>
- Emacs
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/slime/slime">
-   SLIME
-  </a>
-  - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 592, pushed 14 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Vim
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/kovisoft/slimv">
-   SLIMV
-  </a>
-  - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 174, pushed 23 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Tools
-</h1>
-<p>
- These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.
-</p>
-<ul>
- <li>
-  <a href="https://github.com/triclops200/quickapp-cli">
-   quickapp-cli
-  </a>
-  -
-  <a href="https://github.com/triclops200/quickapp">
-   quickapp
-  </a>
-  as a command-line utility.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 2, pushed 296 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.swig.org/">
-   SWIG
-  </a>
-  - A tool for generating FFI code from C/C++ header files.
-  <a href="http://www.gnu.org/copyleft/gpl.html">
-   GNU GPL3
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Unit Testing
-</h1>
-<ul>
- <li>
-  <a href="https://github.com/sionescu/fiveam">
-   FiveAM
-  </a>
-  - Simple regression testing framework.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 66, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tgutu/clunit">
-   CLUnit
-  </a>
-  - A unit testing library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 15, pushed 1152 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gwkkwg/lift">
-   Lift
-  </a>
-  - Another testing framework.
-  <a href="https://github.com/gwkkwg/lift/blob/master/COPYING">
-   A range of licenses, all free
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 18, pushed 189 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://dwim.hu/project/hu.dwim.stefil?_x=BGZm&_f=SnpbobKv">
-   Stefil
-  </a>
-  - A test framework that aims to be transparent. Public domain.
- </li>
- <li>
-  <a href="https://github.com/fukamachi/prove">
-   Prove
-  </a>
-  - Yet another unit testing framework
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 87, pushed 93 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Utilities
-</h1>
-<p>
- This contains anything which doesn't fit into another category.
-</p>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/alexandria/">
-   alexandria
-  </a>
-  - A general-purpose utility library. Public domain.
- </li>
- <li>
-  <a href="https://common-lisp.net/project/anaphora/">
-   anaphora
-  </a>
-  - A collection of anaphoric macros. Public domain.
- </li>
- <li>
-  <a href="https://github.com/cl-babel/babel">
-   babel
-  </a>
-  - A charset encoding/decoding library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 39, pushed 120 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/froydnj/chipz">
-   chipz
-  </a>
-  - A decompression library.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 9, pushed 79 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.cliki.net/cl-2dsyntax">
-   cl-2dsyntax
-  </a>
-  - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
- </li>
- <li>
-  <a href="https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type">
-   cl-algebraic-data-type
-  </a>
-  - A library for defining algebraic data types in a similar spirit to Haskell or ML.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/m2ym/cl-annot">
-   cl-annot
-  </a>
-  - Python-like annotations for Common Lisp.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 76, pushed 332 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/AccelerationNet/cl-csv">
-   cl-csv
-  </a>
-  - A library for parsing CSV files.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 39, pushed 343 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/takagi/cl-cuda">
-   cl-cuda
-  </a>
-  - A library to use NVIDIA CUDA in Common Lisp programs.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 84, pushed 33 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://weitz.de/cl-fad/">
-   cl-fad
-  </a>
-  - A portable pathname library.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="http://www.cliki.net/cl-interpol">
-   cl-interpol
-  </a>
-  - A set of reader modifications to allow string interpolation. No license specified.
- </li>
- <li>
-  <a href="http://marijnhaverbeke.nl/cl-javascript/">
-   CL-JavaScript
-  </a>
-  - A translator from Javascript to Common Lisp. Not available on Quicklisp.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/fukamachi/cl-locale">
-   cl-locale
-  </a>
-  - A simple i18n library.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 13, pushed 251 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fukamachi/cl-project">
-   cl-project
-  </a>
-  - General modern project skeletons.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 66, pushed 35 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/m2ym/cl-syntax">
-   cl-syntax
-  </a>
-  - Reader syntax conventions.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 25, pushed 76 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cl21/cl21">
-   cl21
-  </a>
-  - An experimental project to move Common Lisp into the 21st century.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 549, pushed 120 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://cliki.net/closer-mop">
-   closer-mop
-  </a>
-  - A compatibility layer that rectifies many absent or incorrect MOP features.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/fukamachi/envy">
-   envy
-  </a>
-  - Configuration switcher.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 20, pushed 505 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nikodemus/esrap">
-   esrap
-  </a>
-  - Packrat parser.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 65, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rpav/fast-io">
-   fast-io
-  </a>
-  - Fast octet-vector/stream I/O.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 72, pushed 46 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://quickdocs.org/fset/">
-   FSet
-  </a>
-  - A functional, set-theoretic collections data structure library.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/ahungry/glyphs/">
-   glyphs
-  </a>
-  - A library for cutting down the verboseness of Common Lisp in places.
-  <a href="http://www.gnu.org/copyleft/gpl.html">
-   GNU GPL3
-  </a>
-  .
- </li>
- <li>
-  <a href="https://bitbucket.org/tarballs_are_good/interface">
-   interface
-  </a>
-  - A protocol library.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/sionescu/iolib">
-   iolib
-  </a>
-  - I/O library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 86, pushed 59 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://common-lisp.net/project/iterate/">
-   iterate
-  </a>
-  - An iteration construct for Common Lisp which is extensible and Lispier. No license specified.
- </li>
- <li>
-  <a href="https://common-lisp.net/project/local-time/">
-   localtime
-  </a>
-  - A development library for manipulating date and time information in a semi-standard manner.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/7max/log4cl">
-   log4cl
-  </a>
-  - Logging framework modelled after Log4J.
-  <a href="http://directory.fsf.org/wiki/License:Apache2.0">
-   Apache2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 57, pushed 407 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ahefner/mixalot">
-   mixalot
-  </a>
-  - A loosely-coupled collection of audio libraries. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 19, pushed 152 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/melisgl/named-readtables">
-   named-readtables
-  </a>
-  - Provides a readtable namespace, akin to package namespaces.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 8, pushed 180 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type">
-   optima
-  </a>
-  - Optimized pattern-matching library.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://common-lisp.net/project/osicat/">
-   osicat
-  </a>
-  - A lightweight operating system interface on POSIX-like systems.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/vsedach/Parenscript">
-   Parenscript
-  </a>
-  - A translator from Common Lisp to Javascript.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 135, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://marijnhaverbeke.nl/parse-js/">
-   parse-js
-  </a>
-  - A package for parsing ECMAScript 3.
-  <a href="http://directory.fsf.org/wiki/License:Zlib">
-   zlib
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/hankhero/cl-json">
-   puri-unicode
-  </a>
-  - Pure URI library with Unicode support.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 32, pushed 26 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/triclops200/quickapp">
-   quickapp
-  </a>
-  - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 20, pushed 278 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tkych/quicksearch">
-   quicksearch
-  </a>
-  - Look up online libraries from the REPL.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 18, pushed 751 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Shinmera/ratify">
-   ratify
-  </a>
-  - A collection of utilities to ratify, validate and parse inputs.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 2, pushed 157 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.xach.com/lisp/salza2/">
-   Salza2
-  </a>
-  - A library for creating compressed data.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/TBRSS/serapeum/">
-   serapeum
-  </a>
-  - Another general-purpose utility library.
-  <a href="http://directory.fsf.org/wiki/License:Expat">
-   Expat
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/a0-prw/simple-currency">
-   simple-currency
-  </a>
-  - A currency conversion library using daily information published by the ECB.
-  <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
-   FreeBSD
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 2, pushed 446 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://bitbucket.org/tarballs_are_good/template">
-   template
-  </a>
-  - A library for templates and functions, similar to C++.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
- <li>
-  <a href="http://mr.gy/software/texp/">
-   texp
-  </a>
-  - A DSL to generate TeX. No license specified.
- </li>
- <li>
-  <a href="https://github.com/Shinmera/trivial-benchmark">
-   trivial-benchmark
-  </a>
-  - Tiny benchmarking library.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic Licence 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 6, pushed 181 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/trivial-garbage/trivial-garbage">
-   trivial-garbage
-  </a>
-  - A portable finalizer, weak hash-table and weak pointer API. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, &#9733 18, pushed 500 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/m2ym/trivial-types">
-   trivial-types
-  </a>
-  - Trivial type definitions.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 21, pushed 1507 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://common-lisp.net/project/trivial-utf-8/">
-   trivial-utf8
-  </a>
-  - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
- </li>
- <li>
-  <a href="https://github.com/Shinmera/ubiquitous">
-   ubiquitous
-  </a>
-  - A library providing easy-to-use persistent configuration storage.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 3, pushed 89 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- XML
-</h1>
-<ul>
- <li>
-  <a href="https://common-lisp.net/project/cxml/">
-   CXML
-  </a>
-  - XML parser, with a range of extension libraries.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/Shinmera/plump">
-   Plump
-  </a>
-  - A lenient XML parser.
-  <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
-   Artistic License 2.0
-  </a>
-  .
-  <sup>
-   105 GitHub links in total 185 links, &#9733 19, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://cliki.net/S-XML">
-   s-xml
-  </a>
-  - A basic parser.
-  <a href="http://opensource.franz.com/preamble.html">
-   LLGPL
-  </a>
-  .
- </li>
- <li>
-  <a href="http://quickdocs.org/xmls/">
-   xmls
-  </a>
-  - A small, simple, non-validating XML parser.
-  <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
-   3-clause BSD
-  </a>
-  .
- </li>
-</ul>
-<h1>
- Contributing
-</h1>
-<p>
- Your contributions are always welcome! Please submit a pull request or create
+
+**Table of Contents**
+- [Awesome Common Lisp](#awesome-common-lisp)
+- [Build Systems](#build-systems)
+- [Crypto](#crypto)
+- [Database](#database)
+- [Foreign Function Interface](#foreign-function-interface)
+  - [C](#c)
+  - [Java](#java)
+  - [Miscellaneous](#miscellaneous)
+  - [Python](#python)
+- [Game Development](#game-development)
+- [Graphics](#graphics)
+- [GUI](#gui)
+- [Implementations](#implementations)
+- [JSON](#json)
+- [Learning and Tutorials](#learning-and-tutorials)
+  - [Online](#online)
+  - [Beginner](#beginner)
+  - [Intermediate](#intermediate)
+  - [Advanced](#advanced)
+  - [Reference](#reference)
+  - [Offline](#offline)
+  - [Beginner](#beginner-1)
+  - [Intermediate](#intermediate-1)
+  - [Advanced](#advanced-1)
+- [Library Manager](#library-manager)
+- [Natural Language Processing](#natural-language-processing)
+- [Network and Internet](#network-and-internet)
+- [Numerical and Scientific](#numerical-and-scientific)
+- [Parallelism and Concurrency](#parallelism-and-concurrency)
+- [Regex](#regex)
+- [Text Editor Resources](#text-editor-resources)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
+- [Tools](#tools)
+- [Unit Testing](#unit-testing)
+- [Utilities](#utilities)
+- [XML](#xml)
+- [Contributing](#contributing)
+
+
+Build Systems
+=============
+
+* [ASDF][131] - Another System Definition Facility; a build system for Common Lisp. [Expat][14].
+* [asdf-linguist][132] - Extensions for ASDF. [Expat][14].
+
+Crypto
+======
+
+* [crypto-shortcuts][50] - Collection of common crypto shortcuts. [Artistic License 2.0][51].
+* [Ironclad][49] - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat][14].
+* [trivial-ssh][81] - An SSH client library. [Expat][14].
+
+Database
+========
+
+* [cl-dbi][34] - A database-independent interface for Common Lisp. [LLGPL][8].
+* [cl-memcached][40] - Fast, thread-safe interface to the Memcached object caching system. [Expat][14].
+* [cl-mongo][36] - MongoDB client. [Expat][14].
+* [cl-redis][35] - Redis client. [Expat][14].
+* [cl-disque][133] - Disque client. [3-clause BSD][15].
+* [cl-rethinkdb][37] - RethinkDB client. [Expat][14].
+* [cl-sqlite][155] - Bindings for SQLite. Public domain.
+* [clsql][186] - An SQL database with a Common Lisp interface. [LLGPL][8].
+* [clache][41] - General caching facility. No license specified.
+* [clouchdb][38] - Library for interacting with CouchDB. [FreeBSD][39].
+* [crane][42] - Another ORM. [Expat][14].
+* [datafly][30] - A lightweight database library. [3-clause BSD][15].
+* [mito][31] - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8].
+* [postmodern][32] - A library for interacting with PostgreSQL. [zlib][33].
+* [sxql][23] - A DSL for generating SQL. [3-clause BSD][15].
+
+
+Foreign Function Interface
+==========================
+
+## C ##
+
+* [CFFI][43] - Portable, easy-to-use C foreign function interface. [Expat][14].
+* [cl-autowrap][44] - Automatically parses header files into CFFI definitions. [FreeBSD][39].
+
+## Java ##
+
+* [cl+j][45] - A JNI-based interface to a JVM via CFFI. Not available on Quicklisp. Does not reliably work with all implementations. [Expat][14].
+
+## Miscellaneous ##
+
+* [Foil][46] - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp. [CPL 1.0][47].
+
+## Python ##
+
+* [burgled-batteries][48] - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
+
+Game Development
+================
+
+* [Xelf][67] - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
+
+Graphics
+========
+
+These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
+
+* [cl-cairo2][53] - Cairo bindings. [Boost 1.0][54]
+* [cl-gd][61] - A library providing an interface to the GD graphics library. [FreeBSD][39].
+* [cl-horde3d][58] - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0][59]
+* [cl-opengl][163] - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15].
+* [cl-sdl2][60] - Bindings for SDL2 using C2FFI. [Expat][14].
+* [cl-svg][57] - A basic library for producing SVG files. [Expat][14].
+* [CLinch][63] - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
+* [donuts][138] - Graph drawing DSL for Common Lisp. [Expat][14].
+* [lispbuilder-sdl][180] - A set of bindings for SDL. [Expat][14].
+* [okra][62] - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
+* [Varjo][52] - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
+* [Vecto][55] - Simple vector drawing library. [FreeBSD][39].
+* [zpng][56] - A library for creating PNG files. [FreeBSD][39].
+
+GUI
+===
+
+* [cl-cffi-gtk][65] - Binding for GTK+3. [GNU LGPL2.1][11].
+* [cl-gtk2][178] - A binding for GTK+2. [LLGPL][8].
+* [cl-xul][66] - Mozilla XUL bindings. [Expat][14].
+* [CommonQt][64] - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD][39].
+* [ltk][179] - A binding for the Tk toolkit. [LLGPL][8] or [GNU LGPL2.1][11].
+* [ceramic][192] - Desktop web apps with Common Lisp. [Expat][14].
+
+Implementations
+===============
+
+* [ABCL][1] - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
+* [CCL][7] - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
+* [CMUCL][9] - An implementation from Carnegie Mellon University. Public domain.
+* [ECL][10] - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
+* [GCL][190] - Another GNU implementation; not yet fully ANSI-compliant. [GNU LGPL2.1][11].
+* [GNU CLISP][5] - A GNU implementation; contains a compiler and an interpreter. [Standard conformance][6]. [GNU GPL3][2].
+* [SBCL][12] - A fork of CMUCL; compiles to machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
+
+JSON
+====
+
+* [cl-json][75] - A JSON encoder and decoder. [Expat][14].
+* [jsown][76] - A reader and writer for the JSON format. [Expat][14].
+
+
+Learning and Tutorials
+=====================
+
+## Online ##
+
+Beginner
+--------
+
+* [Learn X in Y minutes | Where X = Common Lisp][195] - Small Common Lisp tutorial covering the essentials.
+* [Practical Common Lisp][17] - A good introductory text to Common Lisp, with practical examples.
+* [Common LISP: A Gentle Introduction to Symbolic Computation][161] - A nice introduction into the language.
+* [Learn LISP: Simply Easy Learning][196] - A good set of introductory tutorials; includes interactive examples.
+* [Common Lisp Koans][197] - The project guides the learner progressively through many Common Lisp language features.
+
+Intermediate
+------------
+
+* [Common Lisp tips][152] - A blog with useful tips and tricks.
+* [CommonQt tutorial][154] - A nice introduction to CommonQt.
+* [A tutorial for creating and publishing open-source Common Lisp software][27] - A handy tutorial for using Quicklisp and a bunch of other tools to create and publish a project in Common Lisp.
+
+Advanced
+--------
+
+* [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
+* [On Lisp][26] - Paul Graham's amazing book on Lisp macros (and other interesting things).
+
+Reference
+---------
+
+* [Common Lisp Quick Reference][25] - A distilled, pocket-size version of the ANSI CL spec. Available for download as a PDF.
+* [CLHS][22] - The Common Lisp HyperSpec; the ANSI CL standard, in hypertext form.
+* [Common Lisp the Langauge][160] - The original standard for Common Lisp before the ANSI spec.
+* [Minispec][24] - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
+* [Quickdocs][28] - A reference for the libraries provided by Quicklisp.
+
+## Offline ##
+
+Beginner
+--------
+
+* [Land of Lisp][18] - A fun, game-oriented introduction to Common Lisp.
+* [Practical Common Lisp][17] - A good introductory text to Common Lisp, with practical examples.
+* [Common Lisp Koans][197] - The project guides the learner progressively through many Common Lisp language features.
+
+Intermediate
+------------
+
+* [ANSI Common Lisp][19] - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats][20].
+
+Advanced
+--------
+
+* [Let Over Lambda][156] - A book on advanced macro techniques. All eight chapters are available in the print copy.
+* [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS][21] - An old, but very thorough book on CLOS.
+* [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp][157] - A book on programming AI that covers some advanced Lisp.
+
+Library Manager
+===============
+
+* [qlot][135] - A project-local library installer, similar to Bundler or Carton. [Expat][14].
+* [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
+* [Quickutil][134] - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
+
+
+Natural Language Processing
+===========================
+
+* [cl-nlp][88] - Natural language processing toolset. [Apache2.0][89].
+* [babel2][198] - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0][89].
+
+
+Network and Internet
+====================
+
+* [aserve][110] - AllegroServe; a web server. [LLGPL][8].
+* [avatar-api][105] - Get avatars from Google+, Gravatar and others. [Expat][14].
+* [Caveman][92] - A powerful web framework. [LLGPL][8].
+* [chirp][106] - A Twitter client library. [Artistic License 2.0][51].
+* [cl-closure-template][99] - Implementation of Google's Closure templates. [LLGPL][8].
+* [cl-irc][83] - An IRC client library. [Expat][14].
+* [cl-markup][101] - Modern markup generation library. [LLGPL][8].
+* [cl-openid][96] - An implementation of OpenID. [LLGPL][8].
+* [cl-who][184] - An HTML generator. [FreeBSD][39].
+* [cl-ses][193] - Library for AWS SES. [Expat][14].
+* [spinneret][191] - Common Lisp HTML5 generator. [Expat][14].
+* [Clack][90] - A web application environment inspired by Rack and WSGI. [LLGPL][8].
+* [clack-errors][94] - Error page middleware for Clack. [LLGPL][8].
+* [colleen][82] - IRC bot with a modular framework. [Artistic License 2.0][51].
+* [css-lite][185] - A CSS grammar. [Expat][14].
+* [Djula][100] - A port of Django's template engine to Common Lisp. [Expat][14].
+* [Drakma][78] - An HTTP client. [FreeBSD][39].
+* [eco][98] - Fast, flexible, designer-friendly template engine. [Expat][14].
+* [hermetic][95] - Security for Clack-based web applications. [Expat][14].
+* [hh-web][183] - Framework for building modern web apps. [Expat][14].
+* [http-parse][73] - An HTTP parser in Common Lisp. [Expat][14].
+* [humbler][107] - A Tumblr API interface. [Artistic License 2.0][51].
+* [hunchentoot][108] - A web server. [FreeBSD][39].
+* [lquery][72] - A jQuery-like HTML/DOM manipulation library. [Artistic License 2.0][51].
+* [ningle][93] - A super-micro web framework. [LLGPL][8].
+* [Postmaster][80] - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
+* [radiance][91] - An extensible framework library and multi-application CMS. [Artistic License 2.0][51].
+* [saluto][97] - OAuth 2.0 module for the RESTAS web framework. Not available on Quicklisp. [3-clause BSD][15].
+* [sytes][182] - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
+* [usocket][79] - A portable TCP and UDP socket interface. [Expat][14].
+* [weblocks][159] - An advanced web framework. [LLGPL][8]
+* [wookie][109] - Asynchronous HTTP server. [Expat][14].
+
+Numerical and Scientific
+========================
+
+* [cl-spark][87] - Generates sparkline strings for lists of numbers. [Expat][14].
+* [GSLL][84] - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
+* [common-lisp-stat][85] - Common Lisp statistics library. [FreeBSD][39].
+* [lisp-matrix][86] - A matrix package. [FreeBSD][39].
+* [maxima][165] - Computer algebra system. Not available on Quicklisp. [GNU GPL3][2].
+
+
+Parallelism and Concurrency
+===========================
+
+* [BordeauxThreads][171] - Portable, shared-state concurrency. [Expat][14].
+* [chanl][117] - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
+* [cl-async][116] - A library for general-purpose, non-blocking programming. [Expat][14].
+* [lesque][141] - A clone of Resque. Not available on Quicklisp. [Expat][14].
+* [lparallel][114] - A library for parallel programming. [3-clause BSD][15].
+* [Xecto][115] - A library for regular array parallelism. [3-clause BSD][15].
+
+Regex
+=====
+
+* [cl-ppcre][68] - Portable, Perl-compatible regular expressions. [FreeBSD][39].
+
+
+Text Editor Resources
+=====================
+
+This contains plugins and other goodies for various text editors.
+
+## Emacs ##
+
+* [SLIME][29] - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
+
+## Vim ##
+
+* [SLIMV][187] - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
+
+Tools
+=====
+
+These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.
+
+* [quickapp-cli][189] - [quickapp][188] as a command-line utility. [3-clause BSD][15].
+* [SWIG][173] - A tool for generating FFI code from C/C++ header files. [GNU GPL3][2].
+
+
+Unit Testing
+============
+
+* [FiveAM][123] - Simple regression testing framework. [FreeBSD][39].
+* [CLUnit][151] - A unit testing library. [Expat][14].
+* [Lift][175] - Another testing framework. [A range of licenses, all free][176].
+* [Stefil][177] - A test framework that aims to be transparent. Public domain.
+* [Prove][194] - Yet another unit testing framework [Expat][14].
+
+
+Utilities
+=========
+
+This contains anything which doesn't fit into another category.
+
+* [alexandria][149] - A general-purpose utility library. Public domain.
+* [anaphora][158] - A collection of anaphoric macros. Public domain.
+* [babel][120] - A charset encoding/decoding library. [Expat][14].
+* [chipz][167] - A decompression library. [3-clause BSD][15].
+* [cl-2dsyntax][128] - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
+* [cl-algebraic-data-type][146] - A library for defining algebraic data types in a similar spirit to Haskell or ML. [3-clause BSD][15].
+* [cl-annot][127] - Python-like annotations for Common Lisp. [LLGPL][8].
+* [cl-csv][170] - A library for parsing CSV files. [3-clause BSD][15].
+* [cl-cuda][118] - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
+* [cl-fad][111] - A portable pathname library. [FreeBSD][39].
+* [cl-interpol][130] - A set of reader modifications to allow string interpolation. No license specified.
+* [CL-JavaScript][103] - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
+* [cl-locale][121] - A simple i18n library. [LLGPL][8].
+* [cl-project][136] - General modern project skeletons. [LLGPL][8].
+* [cl-syntax][126] - Reader syntax conventions. [LLGPL][8].
+* [cl21][125] - An experimental project to move Common Lisp into the 21st century. [Expat][14].
+* [closer-mop][162] - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
+* [envy][142] - Configuration switcher. [FreeBSD][39].
+* [esrap][69] - Packrat parser. [Expat][14].
+* [fast-io][113] - Fast octet-vector/stream I/O. [3-clause BSD][15].
+* [FSet][164] - A functional, set-theoretic collections data structure library. [LLGPL][8].
+* [glyphs][153] - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
+* [interface][148] - A protocol library. [3-clause BSD][15].
+* [iolib][112] - I/O library. [Expat][14].
+* [iterate][139] - An iteration construct for Common Lisp which is extensible and Lispier. No license specified.
+* [localtime][122] - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+* [log4cl][124] - Logging framework modelled after Log4J. [Apache2.0][89].
+* [mixalot][181] - A loosely-coupled collection of audio libraries. No license specified.
+* [named-readtables][129] - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15].
+* [optima][146] - Optimized pattern-matching library. [LLGPL][8].
+* [osicat][172] - A lightweight operating system interface on POSIX-like systems. [Expat][14].
+* [Parenscript][102] - A translator from Common Lisp to Javascript. [3-clause BSD][15].
+* [parse-js][104] - A package for parsing ECMAScript 3. [zlib][33].
+* [puri-unicode][75] - Pure URI library with Unicode support. [LLGPL][8].
+* [quickapp][188] - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser. [3-clause BSD][15].
+* [quicksearch][140] - Look up online libraries from the REPL. [Expat][14].
+* [ratify][77] - A collection of utilities to ratify, validate and parse inputs. [Artistic License 2.0][51].
+* [Salza2][166] - A library for creating compressed data. [FreeBSD][39].
+* [serapeum][150] - Another general-purpose utility library. [Expat][14].
+* [simple-currency][74] - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
+* [template][147] - A library for templates and functions, similar to C++. [3-clause BSD][15].
+* [texp][137] - A DSL to generate TeX. No license specified.
+* [trivial-benchmark][144] - Tiny benchmarking library. [Artistic Licence 2.0][51].
+* [trivial-garbage][174] - A portable finalizer, weak hash-table and weak pointer API. Public domain.
+* [trivial-types][145] - Trivial type definitions. [LLGPL][8].
+* [trivial-utf8][119] - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
+* [ubiquitous][143] - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
+
+
+XML
+===
+
+* [CXML][70] - XML parser, with a range of extension libraries. [LLGPL][8].
+* [Plump][71] - A lenient XML parser. [Artistic License 2.0][51].
+* [s-xml][168] - A basic parser. [LLGPL][8].
+* [xmls][169] - A small, simple, non-validating XML parser. [3-clause BSD][15].
+
+
+Contributing
+============
+Your contributions are always welcome! Please submit a pull request or create
 an issue to add a new framework, library or software to the list.
-</p>
+
+[1]: https://common-lisp.net/project/armedbear/
+[2]: http://www.gnu.org/copyleft/gpl.html
+[3]: http://www.gnu.org/software/classpath/license.html
+[4]: https://common-lisp.net/project/armedbear/faq.shtml#qa
+[5]: http://www.clisp.org/
+[6]: http://www.gnu.org/software/clisp/impnotes.html
+[7]: http://ccl.clozure.com/
+[8]: http://opensource.franz.com/preamble.html
+[9]: https://www.cons.org/cmucl/
+[10]: https://common-lisp.net/project/ecl/
+[11]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+[12]: http://www.sbcl.org/index.html
+[13]: http://www.sbcl.org/manual/index.html#ANSI-Conformance
+[14]: http://directory.fsf.org/wiki/License:Expat
+[15]: http://directory.fsf.org/wiki/License:BSD_3Clause
+[16]: https://www.quicklisp.org/beta/
+[17]: http://www.gigamonkeys.com/book/
+[18]: http://landoflisp.com/
+[19]: http://www.paulgraham.com/acl.html
+[20]: http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html
+[21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
+[22]: http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm
+[23]: https://github.com/fukamachi/sxql
+[24]: http://minispec.org/index.html
+[25]: http://clqr.boundp.org/index.html
+[26]: http://www.paulgraham.com/onlisp.html
+[27]: http://arxiv.org/abs/1209.5626
+[28]: http://quickdocs.org/
+[29]: https://github.com/slime/slime
+[30]: https://github.com/fukamachi/datafly
+[31]: https://github.com/fukamachi/mito
+[32]: http://marijnhaverbeke.nl/postmodern/
+[33]: http://directory.fsf.org/wiki/License:Zlib
+[34]: https://github.com/fukamachi/cl-dbi
+[35]: https://github.com/vseloved/cl-redis
+[36]: https://github.com/fons/cl-mongo
+[37]: https://github.com/orthecreedence/cl-rethinkdb
+[38]: https://common-lisp.net/project/clouchdb/
+[39]: http://directory.fsf.org/wiki?title=License:FreeBSD
+[40]: https://github.com/quasi/cl-memcached
+[41]: https://github.com/html/clache
+[42]: https://github.com/eudoxia0/crane
+[43]: https://github.com/cffi/cffi
+[44]: https://github.com/rpav/cl-autowrap
+[45]: https://common-lisp.net/project/cl-plus-j/
+[46]: http://foil.sourceforge.net/
+[47]: http://directory.fsf.org/wiki/License:CPLv1.0
+[48]: https://github.com/pinterface/burgled-batteries
+[49]: http://method-combination.net/lisp/ironclad/
+[50]: https://github.com/Shinmera/crypto-shortcuts
+[51]: http://directory.fsf.org/wiki/License:ArtisticLicense2.0
+[52]: https://github.com/cbaggers/varjo
+[53]: https://github.com/rpav/cl-cairo2
+[54]: http://directory.fsf.org/wiki/License:Boost1.0
+[55]: http://www.xach.com/lisp/vecto/
+[56]: http://www.xach.com/lisp/zpng/
+[57]: https://code.google.com/archive/p/cl-svg
+[58]: https://github.com/anwyn/cl-horde3d/
+[59]: http://directory.fsf.org/wiki/License:EPLv1.0
+[60]: https://github.com/lispgames/cl-sdl2
+[61]: http://weitz.de/cl-gd/
+[62]: https://github.com/aerique/okra
+[63]: https://github.com/BradWBeer/CLinch
+[64]: https://github.com/commonqt/commonqt
+[65]: http://www.crategus.com/books/cl-cffi-gtk/
+[66]: https://github.com/mmontone/cl-xul
+[67]: http://xelf.me/
+[68]: http://weitz.de/cl-ppcre/
+[69]: https://github.com/nikodemus/esrap
+[70]: https://common-lisp.net/project/cxml/
+[71]: https://github.com/Shinmera/plump
+[72]: https://github.com/Shinmera/lquery
+[73]: https://github.com/orthecreedence/http-parse
+[74]: https://github.com/a0-prw/simple-currency
+[75]: https://github.com/archimag/puri-unicode
+[75]: https://github.com/hankhero/cl-json
+[76]: https://github.com/madnificent/jsown
+[77]: https://github.com/Shinmera/ratify
+[78]: http://weitz.de/drakma/
+[79]: https://github.com/usocket/usocket
+[80]: https://github.com/eudoxia0/postmaster
+[81]: https://github.com/eudoxia0/trivial-ssh
+[82]: https://github.com/Shinmera/colleen
+[83]: https://www.common-lisp.net/project/cl-irc/
+[84]: https://common-lisp.net/project/gsll/
+[85]: https://github.com/blindglobe/common-lisp-stat/
+[86]: https://github.com/blindglobe/lisp-matrix
+[87]: https://github.com/tkych/cl-spark
+[88]: https://github.com/vseloved/cl-nlp
+[89]: http://directory.fsf.org/wiki/License:Apache2.0
+[90]: https://github.com/fukamachi/clack
+[91]: https://github.com/Shirakumo/radiance
+[92]: https://github.com/fukamachi/caveman
+[93]: https://github.com/fukamachi/ningle
+[94]: https://github.com/eudoxia0/clack-errors
+[95]: https://github.com/eudoxia0/hermetic
+[96]: https://common-lisp.net/project/cl-openid/darcs/cl-openid/
+[97]: https://github.com/dmitrys99/saluto
+[98]: https://github.com/eudoxia0/eco
+[99]: https://github.com/archimag/cl-closure-template
+[100]: https://github.com/mmontone/djula
+[101]: https://github.com/arielnetworks/cl-markup
+[102]: https://github.com/vsedach/Parenscript
+[103]: http://marijnhaverbeke.nl/cl-javascript/
+[104]: http://marijnhaverbeke.nl/parse-js/
+[105]: https://github.com/eudoxia0/avatar-api
+[106]: https://github.com/Shinmera/chirp
+[107]: https://github.com/Shinmera/humbler
+[108]: http://weitz.de/hunchentoot/
+[109]: https://github.com/orthecreedence/wookie
+[110]: https://github.com/franzinc/aserve
+[111]: http://weitz.de/cl-fad/
+[112]: https://github.com/sionescu/iolib
+[113]: https://github.com/rpav/fast-io
+[114]: https://github.com/lmj/lparallel
+[115]: https://github.com/pkhuong/Xecto
+[116]: https://github.com/orthecreedence/cl-async
+[117]: https://github.com/zkat/chanl
+[118]: https://github.com/takagi/cl-cuda
+[119]: https://common-lisp.net/project/trivial-utf-8/
+[120]: https://github.com/cl-babel/babel
+[121]: https://github.com/fukamachi/cl-locale
+[122]: https://common-lisp.net/project/local-time/
+[123]: https://github.com/sionescu/fiveam
+[124]: https://github.com/7max/log4cl
+[125]: https://github.com/cl21/cl21
+[126]: https://github.com/m2ym/cl-syntax
+[127]: https://github.com/m2ym/cl-annot
+[128]: http://www.cliki.net/cl-2dsyntax
+[129]: https://github.com/melisgl/named-readtables
+[130]: http://www.cliki.net/cl-interpol
+[131]: https://common-lisp.net/project/asdf/
+[132]: https://github.com/eudoxia0/asdf-linguist
+[133]: https://github.com/CodyReichert/cl-disque
+[134]: https://github.com/tarballs-are-good/quickutil
+[135]: https://github.com/fukamachi/qlot
+[136]: https://github.com/fukamachi/cl-project
+[137]: http://mr.gy/software/texp/
+[138]: https://github.com/tkych/donuts
+[139]: https://common-lisp.net/project/iterate/
+[140]: https://github.com/tkych/quicksearch
+[141]: https://github.com/fukamachi/lesque
+[142]: https://github.com/fukamachi/envy
+[143]: https://github.com/Shinmera/ubiquitous
+[144]: https://github.com/Shinmera/trivial-benchmark
+[145]: https://github.com/m2ym/trivial-types
+[146]: https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type
+[147]: https://bitbucket.org/tarballs_are_good/template
+[148]: https://bitbucket.org/tarballs_are_good/interface
+[149]: https://common-lisp.net/project/alexandria/
+[150]: https://github.com/TBRSS/serapeum/
+[151]: https://github.com/tgutu/clunit
+[152]: http://lisptips.com/
+[153]: https://github.com/ahungry/glyphs/
+[154]: https://cheryllium.wordpress.com/2014/02/22/commonqt-tutorial-1/
+[155]: https://github.com/dmitryvk/cl-sqlite
+[156]: http://letoverlambda.com/
+[157]: http://norvig.com/paip.html
+[158]: https://common-lisp.net/project/anaphora/
+[159]: http://weblocks-framework.info/
+[160]: http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html
+[161]: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html
+[162]: http://cliki.net/closer-mop
+[163]: https://github.com/3b/cl-opengl
+[164]: http://quickdocs.org/fset/
+[165]: http://maxima.sourceforge.net/
+[166]: http://www.xach.com/lisp/salza2/
+[167]: https://github.com/froydnj/chipz
+[168]: http://cliki.net/S-XML
+[169]: http://quickdocs.org/xmls/
+[170]: https://github.com/AccelerationNet/cl-csv
+[171]: https://common-lisp.net/project/bordeaux-threads/
+[172]: https://common-lisp.net/project/osicat/
+[173]: http://www.swig.org/
+[174]: https://github.com/trivial-garbage/trivial-garbage
+[175]: https://github.com/gwkkwg/lift
+[176]: https://github.com/gwkkwg/lift/blob/master/COPYING
+[177]: http://dwim.hu/project/hu.dwim.stefil?_x=BGZm&_f=SnpbobKv
+[178]: https://github.com/dmitryvk/cl-gtk2
+[179]: http://www.peter-herth.de/ltk/
+[180]: https://github.com/lispbuilder/lispbuilder
+[181]: https://github.com/ahefner/mixalot
+[182]: https://github.com/mishoo/sytes
+[183]: https://github.com/hargettp/hh-web
+[184]: http://weitz.de/cl-who/
+[185]: https://github.com/paddymul/css-lite
+[186]: http://www.cliki.net/CLSQL
+[187]: https://github.com/kovisoft/slimv
+[188]: https://github.com/triclops200/quickapp
+[189]: https://github.com/triclops200/quickapp-cli
+[190]: https://www.gnu.org/software/gcl/
+[191]: https://github.com/ruricolist/spinneret
+[192]: https://ceramic.github.io/
+[193]: https://github.com/CodyReichert/cl-ses/
+[194]: https://github.com/fukamachi/prove
+[195]: https://learnxinyminutes.com/docs/common-lisp/
+[196]: http://www.tutorialspoint.com/lisp/index.htm
+[197]: https://github.com/google/lisp-koans
+[198]: http://emergent-languages.org/Babel2/

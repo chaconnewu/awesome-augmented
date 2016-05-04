@@ -358,52 +358,40 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
   <a href="https://github.com/idris-hackers/idris-koans">
    Idris Koans
   </a>
-  - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
-  <sup>
-   5 GitHub links in total 58 links, ★ 76, pushed 236 days ago
-  </sup>
   <sup>
    &#9733 76, pushed 236 days ago
   </sup>
+  - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
  </li>
  <li>
   <a href="https://github.com/timoxley/functional-javascript-workshop">
    Functional Javascript Workshop
   </a>
-  - A functional Javascript workshop.
-  <sup>
-   5 GitHub links in total 58 links, ★ 1017, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 1017, pushed 46 days ago
   </sup>
+  - A functional Javascript workshop.
  </li>
  <li>
   <a href="https://github.com/the-little-prover/j-bob">
    J-Bob
   </a>
+  <sup>
+   &#9733 202, pushed 245 days ago
+  </sup>
   - The proof assistant from the book
   <code>
    The Little Prover
   </code>
-  <sup>
-   5 GitHub links in total 58 links, ★ 202, pushed 245 days ago
-  </sup>
-  <sup>
-   &#9733 202, pushed 245 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/olehkuchuk/haskell-must-watch">
    Haskell Must Watch
   </a>
-  - A list of videos, talks and courses on Haskell.
-  <sup>
-   5 GitHub links in total 58 links, ★ 529, pushed 231 days ago
-  </sup>
   <sup>
    &#9733 529, pushed 231 days ago
   </sup>
+  - A list of videos, talks and courses on Haskell.
  </li>
  <li>
   <a href="http://www.it.dtu.dk/introSML/">
@@ -418,13 +406,10 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
   <a href="https://github.com/busypeoples/functional-programming-javascript">
    Functional Programming In JavaScript
   </a>
-  - List of functional programming resources in JavaScript.
-  <sup>
-   5 GitHub links in total 58 links, ★ 139, pushed 101 days ago
-  </sup>
   <sup>
    &#9733 139, pushed 101 days ago
   </sup>
+  - List of functional programming resources in JavaScript.
  </li>
 </ul>
 <h3>

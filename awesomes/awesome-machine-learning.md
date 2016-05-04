@@ -529,25 +529,19 @@
   <a href="https://github.com/GHamrouni/Recommender">
    Recommender
   </a>
-  - A C library for product recommendations/suggestions using collaborative filtering (CF).
-  <sup>
-   377 GitHub links in total 753 links, ★ 82, pushed 1069 days ago
-  </sup>
   <sup>
    &#9733 82, pushed 1069 days ago
   </sup>
+  - A C library for product recommendations/suggestions using collaborative filtering (CF).
  </li>
  <li>
   <a href="https://github.com/pjreddie/darknet">
    Darknet
   </a>
-  - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
-  <sup>
-   377 GitHub links in total 753 links, ★ 752, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 752, pushed 26 days ago
   </sup>
+  - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
  </li>
 </ul>
 <p>
@@ -562,13 +556,10 @@
   <a href="https://github.com/liuliu/ccv">
    CCV
   </a>
-  - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
-  <sup>
-   377 GitHub links in total 753 links, ★ 5192, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 5192, pushed 1 days ago
   </sup>
+  - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
  </li>
  <li>
   <a href="http://www.vlfeat.org/">
@@ -625,13 +616,10 @@
   <a href="https://github.com/ukoethe/vigra">
    VIGRA
   </a>
-  - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
-  <sup>
-   377 GitHub links in total 753 links, ★ 189, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 189, pushed 2 days ago
   </sup>
+  - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
  </li>
 </ul>
 <p>
@@ -680,13 +668,10 @@
   <a href="https://github.com/shogun-toolbox/shogun">
    Shogun
   </a>
-  - The Shogun Machine Learning Toolbox
-  <sup>
-   377 GitHub links in total 753 links, ★ 1048, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 1048, pushed 7 days ago
   </sup>
+  - The Shogun Machine Learning Toolbox
  </li>
  <li>
   <a href="http://caffe.berkeleyvision.org">
@@ -698,25 +683,19 @@
   <a href="https://github.com/antinucleon/cxxnet">
    CXXNET
   </a>
-  - Yet another deep learning framework with less than 1000 lines core code [DEEP LEARNING]
-  <sup>
-   377 GitHub links in total 753 links, ★ 23, pushed 202 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 202 days ago
   </sup>
+  - Yet another deep learning framework with less than 1000 lines core code [DEEP LEARNING]
  </li>
  <li>
   <a href="https://github.com/dmlc/xgboost">
    XGBoost
   </a>
-  - A parallelized optimized general purpose gradient boosting library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 3203, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3203, pushed 2 days ago
   </sup>
+  - A parallelized optimized general purpose gradient boosting library.
  </li>
  <li>
   <a href="https://code.google.com/p/cuda-convnet/">
@@ -734,13 +713,10 @@
   <a href="https://github.com/jkomiyama/banditlib">
    BanditLib
   </a>
-  - A simple Multi-armed Bandit library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 24, pushed 312 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 312 days ago
   </sup>
+  - A simple Multi-armed Bandit library.
  </li>
  <li>
   <a href="http://ilk.uvt.nl/timbl/">
@@ -764,49 +740,37 @@
   <a href="https://github.com/baidu-research/warp-ctc">
    Warp-CTC
   </a>
-  - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2234, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 2234, pushed 102 days ago
   </sup>
+  - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
  </li>
  <li>
   <a href="https://github.com/Microsoft/CNTK">
    CNTK
   </a>
-  - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
-  <sup>
-   377 GitHub links in total 753 links, ★ 5304, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 5304, pushed 2 days ago
   </sup>
+  - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
  </li>
  <li>
   <a href="https://github.com/beniz/deepdetect">
    DeepDetect
   </a>
-  - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
-  <sup>
-   377 GitHub links in total 753 links, ★ 548, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 548, pushed 2 days ago
   </sup>
+  - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
  </li>
  <li>
   <a href="https://github.com/FidoProject/Fido">
    Fido
   </a>
+  <sup>
+   &#9733 15, pushed 2 days ago
+  </sup>
   - A highly-modular C++ machine learning library for embedded electronics and robotics.
-  <sup>
-   377 GitHub links in total 753 links, ★ 15, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 15, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -821,13 +785,10 @@
   <a href="https://github.com/mit-nlp/MITIE">
    MIT Information Extraction Toolkit
   </a>
+  <sup>
+   &#9733 898, pushed 29 days ago
+  </sup>
   - C, C++, and Python tools for named entity recognition and relation extraction
-  <sup>
-   377 GitHub links in total 753 links, ★ 898, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 898, pushed 28 days ago
-  </sup>
  </li>
  <li>
   <a href="https://taku910.github.io/crfpp/">
@@ -845,25 +806,19 @@
   <a href="https://github.com/BLLIP/bllip-parser">
    BLLIP Parser
   </a>
-  - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
-  <sup>
-   377 GitHub links in total 753 links, ★ 104, pushed 80 days ago
-  </sup>
   <sup>
    &#9733 104, pushed 80 days ago
   </sup>
+  - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
  </li>
  <li>
   <a href="https://github.com/proycon/colibri-core">
    colibri-core
   </a>
-  - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-  <sup>
-   377 GitHub links in total 753 links, ★ 40, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 8 days ago
   </sup>
+  - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
  </li>
  <li>
   <a href="https://github.com/proycon/ucto">
@@ -890,17 +845,14 @@
   <a href="https://github.com/meta-toolkit/meta">
    MeTA
   </a>
+  <sup>
+   &#9733 227, pushed 11 days ago
+  </sup>
   -
   <a href="https://meta-toolkit.org/">
    MeTA : ModErn Text Analysis
   </a>
   is a C++ Data Sciences Toolkit that facilitates mining big text data.
-  <sup>
-   377 GitHub links in total 753 links, ★ 227, pushed 11 days ago
-  </sup>
-  <sup>
-   &#9733 227, pushed 11 days ago
-  </sup>
  </li>
 </ul>
 <h4>
@@ -926,13 +878,10 @@
   <a href="https://github.com/ayoshiaki/tops">
    ToPS
   </a>
-  - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
-  <sup>
-   377 GitHub links in total 753 links, ★ 13, pushed 272 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 272 days ago
   </sup>
+  - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
  </li>
 </ul>
 <p>
@@ -947,13 +896,10 @@
   <a href="https://github.com/nickgillian/grt">
    grt
   </a>
-  - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
-  <sup>
-   377 GitHub links in total 753 links, ★ 196, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 196, pushed 10 days ago
   </sup>
+  - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
  </li>
 </ul>
 <p>
@@ -1009,25 +955,19 @@
   <a href="https://github.com/dakrone/clojure-opennlp">
    Clojure-openNLP
   </a>
-  - Natural Language Processing in Clojure (opennlp)
-  <sup>
-   377 GitHub links in total 753 links, ★ 551, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 551, pushed 8 days ago
   </sup>
+  - Natural Language Processing in Clojure (opennlp)
  </li>
  <li>
   <a href="https://github.com/r0man/inflections-clj">
    Infections-clj
   </a>
-  - Rails-like inflection library for Clojure and ClojureScript
-  <sup>
-   377 GitHub links in total 753 links, ★ 119, pushed 48 days ago
-  </sup>
   <sup>
    &#9733 119, pushed 48 days ago
   </sup>
+  - Rails-like inflection library for Clojure and ClojureScript
  </li>
 </ul>
 <p>
@@ -1042,109 +982,82 @@
   <a href="https://github.com/ptaoussanis/touchstone">
    Touchstone
   </a>
-  - Clojure A/B testing library
-  <sup>
-   377 GitHub links in total 753 links, ★ 97, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 97, pushed 53 days ago
   </sup>
+  - Clojure A/B testing library
  </li>
  <li>
   <a href="https://github.com/lspector/Clojush">
    Clojush
   </a>
-  -  The Push programming language and the PushGP genetic programming system implemented in Clojure
-  <sup>
-   377 GitHub links in total 753 links, ★ 170, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 170, pushed 10 days ago
   </sup>
+  -  The Push programming language and the PushGP genetic programming system implemented in Clojure
  </li>
  <li>
   <a href="https://github.com/aria42/infer">
    Infer
   </a>
-  - Inference and machine learning in clojure
-  <sup>
-   377 GitHub links in total 753 links, ★ 147, pushed 126 days ago
-  </sup>
   <sup>
    &#9733 147, pushed 126 days ago
   </sup>
+  - Inference and machine learning in clojure
  </li>
  <li>
   <a href="https://github.com/antoniogarrote/clj-ml">
    Clj-ML
   </a>
-  - A machine learning library for Clojure built on top of Weka and friends
-  <sup>
-   377 GitHub links in total 753 links, ★ 108, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 108, pushed 71 days ago
   </sup>
+  - A machine learning library for Clojure built on top of Weka and friends
  </li>
  <li>
   <a href="https://github.com/jimpil/enclog">
    Encog
   </a>
-  - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
-  <sup>
-   377 GitHub links in total 753 links, ★ 118, pushed 745 days ago
-  </sup>
   <sup>
    &#9733 118, pushed 745 days ago
   </sup>
+  - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
  </li>
  <li>
   <a href="https://github.com/vollmerm/fungp">
    Fungp
   </a>
-  - A genetic programming library for Clojure
-  <sup>
-   377 GitHub links in total 753 links, ★ 77, pushed 715 days ago
-  </sup>
   <sup>
    &#9733 77, pushed 715 days ago
   </sup>
+  - A genetic programming library for Clojure
  </li>
  <li>
   <a href="https://github.com/clojurewerkz/statistiker">
    Statistiker
   </a>
-  - Basic Machine Learning algorithms in Clojure.
-  <sup>
-   377 GitHub links in total 753 links, ★ 42, pushed 302 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 302 days ago
   </sup>
+  - Basic Machine Learning algorithms in Clojure.
  </li>
  <li>
   <a href="https://github.com/nupic-community/clortex">
    clortex
   </a>
-  - General Machine Learning library using Numenta’s Cortical Learning Algorithm
-  <sup>
-   377 GitHub links in total 753 links, ★ 151, pushed 153 days ago
-  </sup>
   <sup>
    &#9733 151, pushed 153 days ago
   </sup>
+  - General Machine Learning library using Numenta’s Cortical Learning Algorithm
  </li>
  <li>
   <a href="https://github.com/nupic-community/comportex">
    comportex
   </a>
-  - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
-  <sup>
-   377 GitHub links in total 753 links, ★ 92, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 92, pushed 2 days ago
   </sup>
+  - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
  </li>
 </ul>
 <p>
@@ -1165,25 +1078,19 @@
   <a href="https://github.com/Netflix/PigPen">
    PigPen
   </a>
-  - Map-Reduce for Clojure.
-  <sup>
-   377 GitHub links in total 753 links, ★ 419, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 419, pushed 8 days ago
   </sup>
+  - Map-Reduce for Clojure.
  </li>
  <li>
   <a href="https://github.com/clojurewerkz/envision">
    Envision
   </a>
-  - Clojure Data Visualisation library, based on Statistiker and D3
-  <sup>
-   377 GitHub links in total 753 links, ★ 45, pushed 443 days ago
-  </sup>
   <sup>
    &#9733 45, pushed 443 days ago
   </sup>
+  - Clojure Data Visualisation library, based on Statistiker and D3
  </li>
 </ul>
 <p>
@@ -1227,25 +1134,19 @@
   <a href="https://github.com/reiver/go-porterstemmer">
    go-porterstemmer
   </a>
-  - A native Go clean room implementation of the Porter Stemming algorithm.
-  <sup>
-   377 GitHub links in total 753 links, ★ 98, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 98, pushed 21 days ago
   </sup>
+  - A native Go clean room implementation of the Porter Stemming algorithm.
  </li>
  <li>
   <a href="https://github.com/Rookii/paicehusk">
    paicehusk
   </a>
-  - Golang implementation of the Paice/Husk Stemming Algorithm.
-  <sup>
-   377 GitHub links in total 753 links, ★ 13, pushed 869 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 869 days ago
   </sup>
+  - Golang implementation of the Paice/Husk Stemming Algorithm.
  </li>
  <li>
   <a href="https://bitbucket.org/tebeka/snowball">
@@ -1257,13 +1158,10 @@
   <a href="https://github.com/Lazin/go-ngram">
    go-ngram
   </a>
-  - In-memory n-gram index with compression.
-  <sup>
-   377 GitHub links in total 753 links, ★ 55, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 43 days ago
   </sup>
+  - In-memory n-gram index with compression.
  </li>
 </ul>
 <p>
@@ -1278,109 +1176,82 @@
   <a href="https://github.com/sjwhitworth/golearn">
    Go Learn
   </a>
+  <sup>
+   &#9733 2746, pushed 1 days ago
+  </sup>
   - Machine Learning for Go
-  <sup>
-   377 GitHub links in total 753 links, ★ 2746, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 2746, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/daviddengcn/go-pr">
    go-pr
   </a>
-  - Pattern recognition package in Go lang.
-  <sup>
-   377 GitHub links in total 753 links, ★ 36, pushed 1060 days ago
-  </sup>
   <sup>
    &#9733 36, pushed 1060 days ago
   </sup>
+  - Pattern recognition package in Go lang.
  </li>
  <li>
   <a href="https://github.com/alonsovidales/go_ml">
    go-ml
   </a>
-  - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
-  <sup>
-   377 GitHub links in total 753 links, ★ 82, pushed 468 days ago
-  </sup>
   <sup>
    &#9733 82, pushed 468 days ago
   </sup>
+  - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
  </li>
  <li>
   <a href="https://github.com/jbrukh/bayesian">
    bayesian
   </a>
-  - Naive Bayesian Classification for Golang.
-  <sup>
-   377 GitHub links in total 753 links, ★ 305, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 305, pushed 38 days ago
   </sup>
+  - Naive Bayesian Classification for Golang.
  </li>
  <li>
   <a href="https://github.com/thoj/go-galib">
    go-galib
   </a>
-  - Genetic Algorithms library written in Go / golang
-  <sup>
-   377 GitHub links in total 753 links, ★ 120, pushed 127 days ago
-  </sup>
   <sup>
    &#9733 120, pushed 127 days ago
   </sup>
+  - Genetic Algorithms library written in Go / golang
  </li>
  <li>
   <a href="https://github.com/ryanbressler/CloudForest">
    Cloudforest
   </a>
-  - Ensembles of decision trees in go/golang.
-  <sup>
-   377 GitHub links in total 753 links, ★ 348, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 348, pushed 64 days ago
   </sup>
+  - Ensembles of decision trees in go/golang.
  </li>
  <li>
   <a href="https://github.com/goml/gobrain">
    gobrain
   </a>
-  - Neural Networks written in go
-  <sup>
-   377 GitHub links in total 753 links, ★ 85, pushed 261 days ago
-  </sup>
   <sup>
    &#9733 85, pushed 261 days ago
   </sup>
+  - Neural Networks written in go
  </li>
  <li>
   <a href="https://github.com/fxsjy/gonn">
    GoNN
   </a>
+  <sup>
+   &#9733 181, pushed 96 days ago
+  </sup>
   - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
-  <sup>
-   377 GitHub links in total 753 links, ★ 181, pushed 95 days ago
-  </sup>
-  <sup>
-   &#9733 181, pushed 95 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dmlc/mxnet">
    MXNet
   </a>
-  - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
-  <sup>
-   377 GitHub links in total 753 links, ★ 3543, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3543, pushed 2 days ago
   </sup>
+  - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
  </li>
 </ul>
 <p>
@@ -1395,13 +1266,10 @@
   <a href="https://github.com/StepLg/go-graph">
    go-graph
   </a>
-  - Graph library for Go/golang language.
-  <sup>
-   377 GitHub links in total 753 links, ★ 59, pushed 178 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 178 days ago
   </sup>
+  - Graph library for Go/golang language.
  </li>
  <li>
   <a href="http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/">
@@ -1413,13 +1281,10 @@
   <a href="https://github.com/fxsjy/RF.go">
    RF
   </a>
+  <sup>
+   &#9733 57, pushed 664 days ago
+  </sup>
   - Random forests implementation in Go
-  <sup>
-   377 GitHub links in total 753 links, ★ 57, pushed 663 days ago
-  </sup>
-  <sup>
-   &#9733 57, pushed 663 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1441,25 +1306,19 @@
   <a href="https://github.com/ajtulloch/haskell-ml">
    haskell-ml
   </a>
-  - Haskell implementations of various ML algorithms.
-  <sup>
-   377 GitHub links in total 753 links, ★ 26, pushed 705 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 705 days ago
   </sup>
+  - Haskell implementations of various ML algorithms.
  </li>
  <li>
   <a href="https://github.com/mikeizbicki/HLearn">
    HLearn
   </a>
-  - a suite of libraries for interpreting machine learning models according to their algebraic structure.
-  <sup>
-   377 GitHub links in total 753 links, ★ 921, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 921, pushed 5 days ago
   </sup>
+  - a suite of libraries for interpreting machine learning models according to their algebraic structure.
  </li>
  <li>
   <a href="https://wiki.haskell.org/HNN">
@@ -1471,37 +1330,28 @@
   <a href="https://github.com/ajtulloch/hopfield-networks">
    hopfield-networks
   </a>
-  - Hopfield Networks for unsupervised learning in Haskell.
-  <sup>
-   377 GitHub links in total 753 links, ★ 9, pushed 751 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 751 days ago
   </sup>
+  - Hopfield Networks for unsupervised learning in Haskell.
  </li>
  <li>
   <a href="https://github.com/ajtulloch/dnngraph">
    caffegraph
   </a>
-  - A DSL for deep neural networks
-  <sup>
-   377 GitHub links in total 753 links, ★ 468, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 468, pushed 148 days ago
   </sup>
+  - A DSL for deep neural networks
  </li>
  <li>
   <a href="https://github.com/jbarrow/LambdaNet">
    LambdaNet
   </a>
-  - Configurable Neural Networks in Haskell
-  <sup>
-   377 GitHub links in total 753 links, ★ 268, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 268, pushed 39 days ago
   </sup>
+  - Configurable Neural Networks in Haskell
  </li>
 </ul>
 <p>
@@ -1600,13 +1450,10 @@
   <a href="https://github.com/twitter/twitter-text-java">
    Twitter Text Java
   </a>
-  - A Java implementation of Twitter's text processing library
-  <sup>
-   377 GitHub links in total 753 links, ★ 374, pushed 507 days ago
-  </sup>
   <sup>
    &#9733 374, pushed 507 days ago
   </sup>
+  - A Java implementation of Twitter's text processing library
  </li>
  <li>
   <a href="http://mallet.cs.umass.edu/">
@@ -1657,25 +1504,19 @@
   <a href="https://github.com/airbnb/aerosolve">
    aerosolve
   </a>
+  <sup>
+   &#9733 2955, pushed 1 days ago
+  </sup>
   - A machine learning library by Airbnb designed from the ground up to be human friendly.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2955, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 2955, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/datumbox/datumbox-framework">
    Datumbox
   </a>
-  - Machine Learning framework for rapid development of Machine Learning and Statistical applications
-  <sup>
-   377 GitHub links in total 753 links, ★ 685, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 685, pushed 2 days ago
   </sup>
+  - Machine Learning framework for rapid development of Machine Learning and Statistical applications
  </li>
  <li>
   <a href="http://elki.dbs.ifi.lmu.de/">
@@ -1687,13 +1528,10 @@
   <a href="https://github.com/encog/encog-java-core">
    Encog
   </a>
-  - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
-  <sup>
-   377 GitHub links in total 753 links, ★ 489, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 489, pushed 12 days ago
   </sup>
+  - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
  </li>
  <li>
   <a href="www.ra.cs.uni-tuebingen.de/software/eva2/">
@@ -1711,37 +1549,28 @@
   <a href="https://github.com/h2oai/h2o-3">
    H2O
   </a>
-  - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1021, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1021, pushed 2 days ago
   </sup>
+  - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
  </li>
  <li>
   <a href="https://github.com/numenta/htm.java">
    htm.java
   </a>
+  <sup>
+   &#9733 152, pushed 2 days ago
+  </sup>
   - General Machine Learning library using Numenta’s Cortical Learning Algorithm
-  <sup>
-   377 GitHub links in total 753 links, ★ 152, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 152, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/deeplearning4j/deeplearning4j">
    java-deeplearning
   </a>
-  - Distributed Deep Learning Platform for Java, Clojure,Scala
-  <sup>
-   377 GitHub links in total 753 links, ★ 2626, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2626, pushed 2 days ago
   </sup>
+  - Distributed Deep Learning Platform for Java, Clojure,Scala
  </li>
  <li>
   <a href="http://java-ml.sourceforge.net/">
@@ -1759,13 +1588,10 @@
   <a href="https://github.com/apache/mahout">
    Mahout
   </a>
+  <sup>
+   &#9733 791, pushed 1 days ago
+  </sup>
   - Distributed machine learning
-  <sup>
-   377 GitHub links in total 753 links, ★ 791, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 791, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="http://meka.sourceforge.net/">
@@ -1789,13 +1615,10 @@
   <a href="https://github.com/oryxproject/oryx">
    ORYX
   </a>
-  - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
-  <sup>
-   377 GitHub links in total 753 links, ★ 777, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 777, pushed 9 days ago
   </sup>
+  - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
  </li>
  <li>
   <a href="https://samoa.incubator.apache.org/">
@@ -1813,13 +1636,10 @@
   <a href="https://github.com/padreati/rapaio">
    rapaio
   </a>
-  - statistics, data mining and machine learning toolbox in Java
-  <sup>
-   377 GitHub links in total 753 links, ★ 15, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 14 days ago
   </sup>
+  - statistics, data mining and machine learning toolbox in Java
  </li>
  <li>
   <a href="http://rapid-i.com/wiki/index.php?title=Integrating_RapidMiner_into_your_application">
@@ -1837,25 +1657,19 @@
   <a href="https://github.com/haifengl/smile">
    SmileMiner
   </a>
-  - Statistical Machine Intelligence & Learning Engine
-  <sup>
-   377 GitHub links in total 753 links, ★ 2512, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2512, pushed 4 days ago
   </sup>
+  - Statistical Machine Intelligence & Learning Engine
  </li>
  <li>
   <a href="https://github.com/apache/incubator-systemml">
    SystemML
   </a>
-  - flexible, scalable machine learning (ML) language.
-  <sup>
-   377 GitHub links in total 753 links, ★ 267, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 267, pushed 3 days ago
   </sup>
+  - flexible, scalable machine learning (ML) language.
  </li>
  <li>
   <a href="https://github.com/WalnutiQ/WalnutiQ">
@@ -1899,25 +1713,19 @@
   <a href="https://github.com/apache/hadoop-mapreduce">
    Hadoop
   </a>
-  - Hadoop/HDFS
-  <sup>
-   377 GitHub links in total 753 links, ★ 21, pushed 339 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 339 days ago
   </sup>
+  - Hadoop/HDFS
  </li>
  <li>
   <a href="https://github.com/apache/spark">
    Spark
   </a>
+  <sup>
+   &#9733 8374, pushed 2 days ago
+  </sup>
   - Spark is a fast and general engine for large-scale data processing.
-  <sup>
-   377 GitHub links in total 753 links, ★ 8374, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 8374, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="http://storm.apache.org/">
@@ -1929,13 +1737,10 @@
   <a href="https://github.com/cloudera/impala">
    Impala
   </a>
-  - Real-time Query for Hadoop
-  <sup>
-   377 GitHub links in total 753 links, ★ 1560, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1560, pushed 3 days ago
   </sup>
+  - Real-time Query for Hadoop
  </li>
  <li>
   <a href="http://jwork.org/dmelt/">
@@ -1961,13 +1766,10 @@
   <a href="https://github.com/deeplearning4j/deeplearning4j">
    Deeplearning4j
   </a>
-  - Scalable deep learning for industry with parallel GPUs
-  <sup>
-   377 GitHub links in total 753 links, ★ 2626, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2626, pushed 2 days ago
   </sup>
+  - Scalable deep learning for industry with parallel GPUs
  </li>
 </ul>
 <p>
@@ -1989,61 +1791,46 @@
   <a href="https://github.com/twitter/twitter-text">
    Twitter-text
   </a>
+  <sup>
+   &#9733 1134, pushed 43 days ago
+  </sup>
   - A JavaScript implementation of Twitter's text processing library
-  <sup>
-   377 GitHub links in total 753 links, ★ 1134, pushed 42 days ago
-  </sup>
-  <sup>
-   &#9733 1134, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nicktesla/nlpjs">
    NLP.js
   </a>
-  - NLP utilities in javascript and coffeescript
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 885 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 885 days ago
   </sup>
+  - NLP utilities in javascript and coffeescript
  </li>
  <li>
   <a href="https://github.com/NaturalNode/natural">
    natural
   </a>
-  - General natural language facilities for node
-  <sup>
-   377 GitHub links in total 753 links, ★ 4656, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 4656, pushed 4 days ago
   </sup>
+  - General natural language facilities for node
  </li>
  <li>
   <a href="https://github.com/loadfive/Knwl.js">
    Knwl.js
   </a>
-  - A Natural Language Processor in JS
-  <sup>
-   377 GitHub links in total 753 links, ★ 5076, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 5076, pushed 27 days ago
   </sup>
+  - A Natural Language Processor in JS
  </li>
  <li>
   <a href="https://github.com/wooorm/retext">
    Retext
   </a>
-  - Extensible system for analyzing and manipulating natural language
-  <sup>
-   377 GitHub links in total 753 links, ★ 830, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 830, pushed 49 days ago
   </sup>
+  - Extensible system for analyzing and manipulating natural language
  </li>
  <li>
   <a href="https://www.mashape.com/japerk/text-processing/support">
@@ -2105,37 +1892,28 @@
   <a href="https://github.com/NathanEpstein/D3xter">
    D3xter
   </a>
-  - Straight forward plotting built on D3
-  <sup>
-   377 GitHub links in total 753 links, ★ 340, pushed 48 days ago
-  </sup>
   <sup>
    &#9733 340, pushed 48 days ago
   </sup>
+  - Straight forward plotting built on D3
  </li>
  <li>
   <a href="https://github.com/rigtorp/statkit">
    statkit
   </a>
-  - Statistics kit for JavaScript
-  <sup>
-   377 GitHub links in total 753 links, ★ 26, pushed 517 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 517 days ago
   </sup>
+  - Statistics kit for JavaScript
  </li>
  <li>
   <a href="https://github.com/nathanepstein/datakit">
    datakit
   </a>
-  - A lightweight framework for data analysis in JavaScript
-  <sup>
-   377 GitHub links in total 753 links, ★ 272, pushed 204 days ago
-  </sup>
   <sup>
    &#9733 272, pushed 204 days ago
   </sup>
+  - A lightweight framework for data analysis in JavaScript
  </li>
  <li>
   <a href="https://github.com/jasondavies/science.js/">
@@ -2147,13 +1925,10 @@
   <a href="https://github.com/NathanEpstein/Z3d">
    Z3d
   </a>
-  - Easily make interactive 3d plots built on Three.js
-  <sup>
-   377 GitHub links in total 753 links, ★ 80, pushed 481 days ago
-  </sup>
   <sup>
    &#9733 80, pushed 481 days ago
   </sup>
+  - Easily make interactive 3d plots built on Three.js
  </li>
  <li>
   <a href="http://sigmajs.org/">
@@ -2208,25 +1983,19 @@
   <a href="https://github.com/emilbayes/clustering.js">
    Clustering.js
   </a>
-  - Clustering algorithms implemented in Javascript for Node.js and the browser
-  <sup>
-   377 GitHub links in total 753 links, ★ 20, pushed 655 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 655 days ago
   </sup>
+  - Clustering algorithms implemented in Javascript for Node.js and the browser
  </li>
  <li>
   <a href="https://github.com/serendipious/nodejs-decision-tree-id3">
    Decision Trees
   </a>
-  - NodeJS Implementation of Decision Tree using ID3 Algorithm
-  <sup>
-   377 GitHub links in total 753 links, ★ 84, pushed 134 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 134 days ago
   </sup>
+  - NodeJS Implementation of Decision Tree using ID3 Algorithm
  </li>
  <li>
   <a href="http://code.google.com/p/figue/">
@@ -2238,49 +2007,37 @@
   <a href="https://github.com/rlidwka/node-fann">
    Node-fann
   </a>
-  - FANN (Fast Artificial Neural Network Library) bindings for Node.js
-  <sup>
-   377 GitHub links in total 753 links, ★ 136, pushed 155 days ago
-  </sup>
   <sup>
    &#9733 136, pushed 155 days ago
   </sup>
+  - FANN (Fast Artificial Neural Network Library) bindings for Node.js
  </li>
  <li>
   <a href="https://github.com/emilbayes/kMeans.js">
    Kmeans.js
   </a>
-  - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
-  <sup>
-   377 GitHub links in total 753 links, ★ 24, pushed 1008 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 1008 days ago
   </sup>
+  - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
  </li>
  <li>
   <a href="https://github.com/primaryobjects/lda">
    LDA.js
   </a>
-  - LDA topic modeling for node.js
-  <sup>
-   377 GitHub links in total 753 links, ★ 96, pushed 82 days ago
-  </sup>
   <sup>
    &#9733 96, pushed 82 days ago
   </sup>
+  - LDA topic modeling for node.js
  </li>
  <li>
   <a href="https://github.com/yandongliu/learningjs">
    Learning.js
   </a>
-  - Javascript implementation of logistic regression/c4.5 decision tree
-  <sup>
-   377 GitHub links in total 753 links, ★ 27, pushed 720 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 721 days ago
   </sup>
+  - Javascript implementation of logistic regression/c4.5 decision tree
  </li>
  <li>
   <a href="http://joonku.com/project/machine_learning">
@@ -2298,88 +2055,67 @@
   <a href="https://github.com/nicolaspanel/node-svm">
    Node-SVM
   </a>
-  - Support Vector Machine for nodejs
-  <sup>
-   377 GitHub links in total 753 links, ★ 159, pushed 79 days ago
-  </sup>
   <sup>
    &#9733 159, pushed 79 days ago
   </sup>
+  - Support Vector Machine for nodejs
  </li>
  <li>
   <a href="https://github.com/harthur/brain">
    Brain
   </a>
+  <sup>
+   &#9733 6952, pushed 186 days ago
+  </sup>
   - Neural networks in JavaScript
   <strong>
    [Deprecated]
   </strong>
-  <sup>
-   377 GitHub links in total 753 links, ★ 6952, pushed 186 days ago
-  </sup>
-  <sup>
-   &#9733 6952, pushed 186 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/omphalos/bayesian-bandit.js">
    Bayesian-Bandit
   </a>
-  - Bayesian bandit implementation for Node and the browser.
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 988 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 988 days ago
   </sup>
+  - Bayesian bandit implementation for Node and the browser.
  </li>
  <li>
   <a href="https://github.com/cazala/synaptic">
    Synaptic
   </a>
-  - Architecture-free neural network library for node.js and the browser
-  <sup>
-   377 GitHub links in total 753 links, ★ 2155, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 2155, pushed 39 days ago
   </sup>
+  - Architecture-free neural network library for node.js and the browser
  </li>
  <li>
   <a href="https://github.com/NathanEpstein/kNear">
    kNear
   </a>
-  - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
-  <sup>
-   377 GitHub links in total 753 links, ★ 25, pushed 524 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 524 days ago
   </sup>
+  - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
  </li>
  <li>
   <a href="https://github.com/totemstech/neuraln">
    NeuralN
   </a>
-  - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
-  <sup>
-   377 GitHub links in total 753 links, ★ 257, pushed 309 days ago
-  </sup>
   <sup>
    &#9733 257, pushed 309 days ago
   </sup>
+  - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
  </li>
  <li>
   <a href="https://github.com/itamarwe/kalman">
    kalman
   </a>
-  - Kalman filter for Javascript.
-  <sup>
-   377 GitHub links in total 753 links, ★ 70, pushed 241 days ago
-  </sup>
   <sup>
    &#9733 70, pushed 241 days ago
   </sup>
+  - Kalman filter for Javascript.
  </li>
  <li>
   <a href="https://github.com/dambalah/shaman">
@@ -2391,25 +2127,19 @@
   <a href="https://github.com/mljs/ml">
    ml.js
   </a>
-  - Machine learning and numerical analysis tools for Node.js and the Browser!
-  <sup>
-   377 GitHub links in total 753 links, ★ 18, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 19 days ago
   </sup>
+  - Machine learning and numerical analysis tools for Node.js and the Browser!
  </li>
  <li>
   <a href="https://github.com/NathanEpstein/Pavlov.js">
    Pavlov.js
   </a>
-  - Reinforcement learning using Markov Decision Processes
-  <sup>
-   377 GitHub links in total 753 links, ★ 436, pushed 124 days ago
-  </sup>
   <sup>
    &#9733 436, pushed 124 days ago
   </sup>
+  - Reinforcement learning using Markov Decision Processes
  </li>
  <li>
   <a href="https://github.com/dmlc/mxnet">
@@ -2430,61 +2160,46 @@
   <a href="https://github.com/jcoglan/sylvester">
    sylvester
   </a>
-  - Vector and Matrix math for JavaScript.
-  <sup>
-   377 GitHub links in total 753 links, ★ 820, pushed 344 days ago
-  </sup>
   <sup>
    &#9733 820, pushed 344 days ago
   </sup>
+  - Vector and Matrix math for JavaScript.
  </li>
  <li>
   <a href="https://github.com/simple-statistics/simple-statistics">
    simple-statistics
   </a>
-  - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1038, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 1038, pushed 26 days ago
   </sup>
+  - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
  </li>
  <li>
   <a href="https://github.com/Tom-Alexander/regression-js">
    regression-js
   </a>
-  - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
-  <sup>
-   377 GitHub links in total 753 links, ★ 198, pushed 152 days ago
-  </sup>
   <sup>
    &#9733 198, pushed 152 days ago
   </sup>
+  - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
  </li>
  <li>
   <a href="https://github.com/flurry/Lyric">
    Lyric
   </a>
-  - Linear Regression library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 39, pushed 951 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 951 days ago
   </sup>
+  - Linear Regression library.
  </li>
  <li>
   <a href="https://github.com/mwgg/GreatCircle">
    GreatCircle
   </a>
-  - Library for calculating great circle distance.
-  <sup>
-   377 GitHub links in total 753 links, ★ 39, pushed 83 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 83 days ago
   </sup>
+  - Library for calculating great circle distance.
  </li>
 </ul>
 <p>
@@ -2506,189 +2221,141 @@
   <a href="https://github.com/benhamner/MachineLearning.jl">
    MachineLearning
   </a>
-  - Julia Machine Learning library
-  <sup>
-   377 GitHub links in total 753 links, ★ 60, pushed 233 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 233 days ago
   </sup>
+  - Julia Machine Learning library
  </li>
  <li>
   <a href="https://github.com/JuliaStats/MLBase.jl">
    MLBase
   </a>
-  - A set of functions to support the development of machine learning algorithms
-  <sup>
-   377 GitHub links in total 753 links, ★ 68, pushed 193 days ago
-  </sup>
   <sup>
    &#9733 68, pushed 193 days ago
   </sup>
+  - A set of functions to support the development of machine learning algorithms
  </li>
  <li>
   <a href="https://github.com/JuliaStats/PGM.jl">
    PGM
   </a>
-  - A Julia framework for probabilistic graphical models.
-  <sup>
-   377 GitHub links in total 753 links, ★ 30, pushed 773 days ago
-  </sup>
   <sup>
    &#9733 30, pushed 773 days ago
   </sup>
+  - A Julia framework for probabilistic graphical models.
  </li>
  <li>
   <a href="https://github.com/trthatcher/DiscriminantAnalysis.jl">
    DA
   </a>
-  - Julia package for Regularized Discriminant Analysis
-  <sup>
-   377 GitHub links in total 753 links, ★ 4, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 2 days ago
   </sup>
+  - Julia package for Regularized Discriminant Analysis
  </li>
  <li>
   <a href="https://github.com/lindahua/Regression.jl">
    Regression
   </a>
-  - Algorithms for regression analysis (e.g. linear regression and logistic regression)
-  <sup>
-   377 GitHub links in total 753 links, ★ 31, pushed 190 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 190 days ago
   </sup>
+  - Algorithms for regression analysis (e.g. linear regression and logistic regression)
  </li>
  <li>
   <a href="https://github.com/dcjones/Loess.jl">
    Local Regression
   </a>
-  - Local regression, so smooooth!
-  <sup>
-   377 GitHub links in total 753 links, ★ 8, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 30 days ago
   </sup>
+  - Local regression, so smooooth!
  </li>
  <li>
   <a href="https://github.com/nutsiepully/NaiveBayes.jl">
    Naive Bayes
   </a>
-  - Simple Naive Bayes implementation in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 3, pushed 1065 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 1065 days ago
   </sup>
+  - Simple Naive Bayes implementation in Julia
  </li>
  <li>
   <a href="https://github.com/dmbates/MixedModels.jl">
    Mixed Models
   </a>
-  - A Julia package for fitting (statistical) mixed-effects models
-  <sup>
-   377 GitHub links in total 753 links, ★ 58, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 58, pushed 4 days ago
   </sup>
+  - A Julia package for fitting (statistical) mixed-effects models
  </li>
  <li>
   <a href="https://github.com/fredo-dedup/SimpleMCMC.jl">
    Simple MCMC
   </a>
-  - basic mcmc sampler implemented in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 10, pushed 1037 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 1037 days ago
   </sup>
+  - basic mcmc sampler implemented in Julia
  </li>
  <li>
   <a href="https://github.com/JuliaStats/Distance.jl">
    Distance
   </a>
-  - Julia module for Distance evaluation
-  <sup>
-   377 GitHub links in total 753 links, ★ 25, pushed 413 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 413 days ago
   </sup>
+  - Julia module for Distance evaluation
  </li>
  <li>
   <a href="https://github.com/bensadeghi/DecisionTree.jl">
    Decision Tree
   </a>
-  - Decision Tree Classifier and Regressor
-  <sup>
-   377 GitHub links in total 753 links, ★ 60, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 6 days ago
   </sup>
+  - Decision Tree Classifier and Regressor
  </li>
  <li>
   <a href="https://github.com/compressed/BackpropNeuralNet.jl">
    Neural
   </a>
-  - A neural network in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 26, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 92 days ago
   </sup>
+  - A neural network in Julia
  </li>
  <li>
   <a href="https://github.com/doobwa/MCMC.jl">
    MCMC
   </a>
-  - MCMC tools for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 19, pushed 1113 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 1113 days ago
   </sup>
+  - MCMC tools for Julia
  </li>
  <li>
   <a href="https://github.com/brian-j-smith/Mamba.jl">
    Mamba
   </a>
-  - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 76, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 76, pushed 56 days ago
   </sup>
+  - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia
  </li>
  <li>
   <a href="https://github.com/JuliaStats/GLM.jl">
    GLM
   </a>
-  - Generalized linear models in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 107, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 107, pushed 4 days ago
   </sup>
+  - Generalized linear models in Julia
  </li>
  <li>
   <a href="https://github.com/lendle/OnlineLearning.jl">
    Online Learning
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 10, pushed 511 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 511 days ago
   </sup>
@@ -2697,121 +2364,91 @@
   <a href="https://github.com/simonster/GLMNet.jl">
    GLMNet
   </a>
-  - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 204 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 204 days ago
   </sup>
+  - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
  </li>
  <li>
   <a href="https://github.com/JuliaStats/Clustering.jl">
    Clustering
   </a>
-  - Basic functions for clustering data: k-means, dp-means, etc.
-  <sup>
-   377 GitHub links in total 753 links, ★ 56, pushed 64 days ago
-  </sup>
   <sup>
    &#9733 56, pushed 65 days ago
   </sup>
+  - Basic functions for clustering data: k-means, dp-means, etc.
  </li>
  <li>
   <a href="https://github.com/JuliaStats/SVM.jl">
    SVM
   </a>
-  - SVM's for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 25, pushed 221 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 221 days ago
   </sup>
+  - SVM's for Julia
  </li>
  <li>
   <a href="https://github.com/JuliaStats/KernelDensity.jl">
    Kernal Density
   </a>
-  - Kernel density estimators for julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 17, pushed 125 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 125 days ago
   </sup>
+  - Kernel density estimators for julia
  </li>
  <li>
   <a href="https://github.com/JuliaStats/DimensionalityReduction.jl">
    Dimensionality Reduction
   </a>
-  - Methods for dimensionality reduction
-  <sup>
-   377 GitHub links in total 753 links, ★ 20, pushed 598 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 598 days ago
   </sup>
+  - Methods for dimensionality reduction
  </li>
  <li>
   <a href="https://github.com/JuliaStats/NMF.jl">
    NMF
   </a>
-  - A Julia package for non-negative matrix factorization
-  <sup>
-   377 GitHub links in total 753 links, ★ 24, pushed 87 days ago
-  </sup>
   <sup>
    &#9733 24, pushed 87 days ago
   </sup>
+  - A Julia package for non-negative matrix factorization
  </li>
  <li>
   <a href="https://github.com/EricChiang/ANN.jl">
    ANN
   </a>
-  - Julia artificial neural networks
-  <sup>
-   377 GitHub links in total 753 links, ★ 48, pushed 491 days ago
-  </sup>
   <sup>
    &#9733 48, pushed 491 days ago
   </sup>
+  - Julia artificial neural networks
  </li>
  <li>
   <a href="https://github.com/pluskid/Mocha.jl">
    Mocha
   </a>
-  - Deep Learning framework for Julia inspired by Caffe
-  <sup>
-   377 GitHub links in total 753 links, ★ 675, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 675, pushed 20 days ago
   </sup>
+  - Deep Learning framework for Julia inspired by Caffe
  </li>
  <li>
   <a href="https://github.com/dmlc/XGBoost.jl">
    XGBoost
   </a>
-  - eXtreme Gradient Boosting Package in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 48, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 48, pushed 4 days ago
   </sup>
+  - eXtreme Gradient Boosting Package in Julia
  </li>
  <li>
   <a href="https://github.com/wildart/ManifoldLearning.jl">
    ManifoldLearning
   </a>
-  - A Julia package for manifold learning and nonlinear dimensionality reduction
-  <sup>
-   377 GitHub links in total 753 links, ★ 13, pushed 168 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 168 days ago
   </sup>
+  - A Julia package for manifold learning and nonlinear dimensionality reduction
  </li>
  <li>
   <a href="https://github.com/dmlc/mxnet">
@@ -2823,13 +2460,10 @@
   <a href="https://github.com/hshindo/Merlin.jl">
    Merlin
   </a>
+  <sup>
+   &#9733 15, pushed 6 days ago
+  </sup>
   - Flexible Deep Learning Framework in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 15, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 15, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -2844,25 +2478,19 @@
   <a href="https://github.com/slycoder/TopicModels.jl">
    Topic Models
   </a>
+  <sup>
+   &#9733 22, pushed 19 days ago
+  </sup>
   - TopicModels for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 22, pushed 18 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/johnmyleswhite/TextAnalysis.jl">
    Text Analysis
   </a>
-  - Julia package for text analysis
-  <sup>
-   377 GitHub links in total 753 links, ★ 87, pushed 193 days ago
-  </sup>
   <sup>
    &#9733 87, pushed 193 days ago
   </sup>
+  - Julia package for text analysis
  </li>
 </ul>
 <p>
@@ -2877,161 +2505,122 @@
   <a href="https://github.com/IainNZ/GraphLayout.jl">
    Graph Layout
   </a>
-  - Graph layout algorithms in pure Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 35, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 45 days ago
   </sup>
+  - Graph layout algorithms in pure Julia
  </li>
  <li>
   <a href="https://github.com/JuliaStats/DataFramesMeta.jl">
    Data Frames Meta
   </a>
-  - Metaprogramming tools for DataFrames
-  <sup>
-   377 GitHub links in total 753 links, ★ 54, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 28 days ago
   </sup>
+  - Metaprogramming tools for DataFrames
  </li>
  <li>
   <a href="https://github.com/nfoti/JuliaData">
    Julia Data
   </a>
-  - library for working with tabular data in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 4, pushed 972 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 972 days ago
   </sup>
+  - library for working with tabular data in Julia
  </li>
  <li>
   <a href="https://github.com/WizardMac/DataRead.jl">
    Data Read
   </a>
-  - Read files from Stata, SAS, and SPSS
-  <sup>
-   377 GitHub links in total 753 links, ★ 32, pushed 200 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 200 days ago
   </sup>
+  - Read files from Stata, SAS, and SPSS
  </li>
  <li>
   <a href="https://github.com/JuliaStats/HypothesisTests.jl">
    Hypothesis Tests
   </a>
-  - Hypothesis tests for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 14 days ago
   </sup>
+  - Hypothesis tests for Julia
  </li>
  <li>
   <a href="https://github.com/dcjones/Gadfly.jl">
    Gadfly
   </a>
+  <sup>
+   &#9733 872, pushed 7 days ago
+  </sup>
   - Crafty statistical graphics for Julia.
-  <sup>
-   377 GitHub links in total 753 links, ★ 872, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 872, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/JuliaStats/Stats.jl">
     Stats
    </a>
+   <sup>
+    &#9733 4, pushed 753 days ago
+   </sup>
    - Statistical tests for Julia
   </p>
-  <sup>
-   377 GitHub links in total 753 links, ★ 4, pushed 753 days ago
-  </sup>
-  <sup>
-   &#9733 4, pushed 753 days ago
-  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/johnmyleswhite/RDatasets.jl">
     RDataSets
    </a>
+   <sup>
+    &#9733 43, pushed 3 days ago
+   </sup>
    - Julia package for loading many of the data sets available in R
   </p>
-  <sup>
-   377 GitHub links in total 753 links, ★ 43, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 43, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/JuliaStats/DataFrames.jl">
    DataFrames
   </a>
+  <sup>
+   &#9733 272, pushed 1 days ago
+  </sup>
   - library for working with tabular data in Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 272, pushed 0 days ago
-  </sup>
-  <sup>
-   &#9733 272, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/JuliaStats/Distributions.jl">
    Distributions
   </a>
-  - A Julia package for probability distributions and associated functions.
-  <sup>
-   377 GitHub links in total 753 links, ★ 174, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 174, pushed 3 days ago
   </sup>
+  - A Julia package for probability distributions and associated functions.
  </li>
  <li>
   <a href="https://github.com/JuliaStats/DataArrays.jl">
    Data Arrays
   </a>
-  - Data structures that allow missing values
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 69 days ago
   </sup>
+  - Data structures that allow missing values
  </li>
  <li>
   <a href="https://github.com/JuliaStats/TimeSeries.jl">
    Time Series
   </a>
-  - Time series toolkit for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 50, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 50, pushed 49 days ago
   </sup>
+  - Time series toolkit for Julia
  </li>
  <li>
   <a href="https://github.com/lindahua/Sampling.jl">
    Sampling
   </a>
+  <sup>
+   &#9733 0, pushed 685 days ago
+  </sup>
   - Basic sampling algorithms for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 0, pushed 684 days ago
-  </sup>
-  <sup>
-   &#9733 0, pushed 684 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -3046,49 +2635,37 @@
   <a href="https://github.com/JuliaDSP/DSP.jl">
    DSP
   </a>
-  - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
-  <sup>
-   377 GitHub links in total 753 links, ★ 47, pushed 93 days ago
-  </sup>
   <sup>
    &#9733 47, pushed 93 days ago
   </sup>
+  - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
  </li>
  <li>
   <a href="https://github.com/JuliaCon/presentations">
    JuliaCon Presentations
   </a>
-  - Presentations for JuliaCon
-  <sup>
-   377 GitHub links in total 753 links, ★ 64, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 57 days ago
   </sup>
+  - Presentations for JuliaCon
  </li>
  <li>
   <a href="https://github.com/davidavdav/SignalProcessing.jl">
    SignalProcessing
   </a>
-  - Signal Processing tools for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 2, pushed 570 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 570 days ago
   </sup>
+  - Signal Processing tools for Julia
  </li>
  <li>
   <a href="https://github.com/timholy/Images.jl">
    Images
   </a>
-  - An image library for Julia
-  <sup>
-   377 GitHub links in total 753 links, ★ 100, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 100, pushed 7 days ago
   </sup>
+  - An image library for Julia
  </li>
 </ul>
 <p>
@@ -3121,25 +2698,19 @@
     <a href="https://github.com/twitter/torch-autograd">
      autograd
     </a>
-    - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
-    <sup>
-     377 GitHub links in total 753 links, ★ 362, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 362, pushed 2 days ago
     </sup>
+    - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
    </li>
    <li>
     <a href="https://github.com/torch/graph">
      graph
     </a>
-    - Graph package for Torch
-    <sup>
-     377 GitHub links in total 753 links, ★ 23, pushed 18 days ago
-    </sup>
     <sup>
      &#9733 23, pushed 18 days ago
     </sup>
+    - Graph package for Torch
    </li>
    <li>
     <a href="http://jucor.github.io/torch-randomkit/">
@@ -3157,301 +2728,226 @@
     <a href="https://github.com/torch/nn">
      nn
     </a>
-    - Neural Network package for Torch
-    <sup>
-     377 GitHub links in total 753 links, ★ 528, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 528, pushed 2 days ago
     </sup>
+    - Neural Network package for Torch
    </li>
    <li>
     <a href="https://github.com/torch/nngraph">
      nngraph
     </a>
-    - This package provides graphical computation for nn library in Torch7.
-    <sup>
-     377 GitHub links in total 753 links, ★ 128, pushed 5 days ago
-    </sup>
     <sup>
      &#9733 128, pushed 5 days ago
     </sup>
+    - This package provides graphical computation for nn library in Torch7.
    </li>
    <li>
     <a href="https://github.com/clementfarabet/lua---nnx">
      nnx
     </a>
-    - A completely unstable and experimental package that extends Torch's builtin nn library
-    <sup>
-     377 GitHub links in total 753 links, ★ 65, pushed 5 days ago
-    </sup>
     <sup>
      &#9733 65, pushed 5 days ago
     </sup>
+    - A completely unstable and experimental package that extends Torch's builtin nn library
    </li>
    <li>
     <a href="https://github.com/Element-Research/rnn">
      rnn
     </a>
-    - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
-    <sup>
-     377 GitHub links in total 753 links, ★ 452, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 452, pushed 2 days ago
     </sup>
+    - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
    </li>
    <li>
     <a href="https://github.com/Element-Research/dpnn">
      dpnn
     </a>
-    - Many useful features that aren't part of the main nn package.
-    <sup>
-     377 GitHub links in total 753 links, ★ 105, pushed 14 days ago
-    </sup>
     <sup>
      &#9733 105, pushed 14 days ago
     </sup>
+    - Many useful features that aren't part of the main nn package.
    </li>
    <li>
     <a href="https://github.com/nicholas-leonard/dp">
      dp
     </a>
-    - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
-    <sup>
-     377 GitHub links in total 753 links, ★ 280, pushed 6 days ago
-    </sup>
     <sup>
      &#9733 280, pushed 6 days ago
     </sup>
+    - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
    </li>
    <li>
     <a href="https://github.com/torch/optim">
      optim
     </a>
-    - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
-    <sup>
-     377 GitHub links in total 753 links, ★ 100, pushed 7 days ago
-    </sup>
     <sup>
      &#9733 100, pushed 7 days ago
     </sup>
+    - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
    </li>
    <li>
     <a href="https://github.com/koraykv/unsup">
      unsup
     </a>
-    - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
-    <sup>
-     377 GitHub links in total 753 links, ★ 65, pushed 88 days ago
-    </sup>
     <sup>
      &#9733 65, pushed 88 days ago
     </sup>
+    - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
    </li>
    <li>
     <a href="https://github.com/clementfarabet/manifold">
      manifold
     </a>
-    - A package to manipulate manifolds
-    <sup>
-     377 GitHub links in total 753 links, ★ 60, pushed 175 days ago
-    </sup>
     <sup>
      &#9733 60, pushed 175 days ago
     </sup>
+    - A package to manipulate manifolds
    </li>
    <li>
     <a href="https://github.com/koraykv/torch-svm">
      svm
     </a>
-    - Torch-SVM library
-    <sup>
-     377 GitHub links in total 753 links, ★ 24, pushed 20 days ago
-    </sup>
     <sup>
      &#9733 24, pushed 20 days ago
     </sup>
+    - Torch-SVM library
    </li>
    <li>
     <a href="https://github.com/clementfarabet/lbfgs">
      lbfgs
     </a>
-    - FFI Wrapper for liblbfgs
-    <sup>
-     377 GitHub links in total 753 links, ★ 2, pushed 1152 days ago
-    </sup>
     <sup>
      &#9733 2, pushed 1152 days ago
     </sup>
+    - FFI Wrapper for liblbfgs
    </li>
    <li>
     <a href="https://github.com/clementfarabet/vowpal_wabbit">
      vowpalwabbit
     </a>
-    - An old vowpalwabbit interface to torch.
-    <sup>
-     377 GitHub links in total 753 links, ★ 1, pushed 1455 days ago
-    </sup>
     <sup>
      &#9733 1, pushed 1455 days ago
     </sup>
+    - An old vowpalwabbit interface to torch.
    </li>
    <li>
     <a href="https://github.com/clementfarabet/lua---opengm">
      OpenGM
     </a>
+    <sup>
+     &#9733 5, pushed 1524 days ago
+    </sup>
     - OpenGM is a C++ library for graphical modeling, and inference. The Lua bindings provide a simple way of describing graphs, from Lua, and then optimizing them with OpenGM.
-    <sup>
-     377 GitHub links in total 753 links, ★ 5, pushed 1523 days ago
-    </sup>
-    <sup>
-     &#9733 5, pushed 1523 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/MichaelMathieu/lua---spaghetti">
      sphagetti
     </a>
-    - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu
-    <sup>
-     377 GitHub links in total 753 links, ★ 0, pushed 1002 days ago
-    </sup>
     <sup>
      &#9733 0, pushed 1002 days ago
     </sup>
+    - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu
    </li>
    <li>
     <a href="https://github.com/ocallaco/LuaSHkit">
      LuaSHKit
     </a>
-    - A lua wrapper around the Locality sensitive hashing library SHKit
-    <sup>
-     377 GitHub links in total 753 links, ★ 1, pushed 713 days ago
-    </sup>
     <sup>
      &#9733 1, pushed 713 days ago
     </sup>
+    - A lua wrapper around the Locality sensitive hashing library SHKit
    </li>
    <li>
     <a href="https://github.com/rlowrance/kernel-smoothers">
      kernel smoothing
     </a>
-    - KNN, kernel-weighted average, local linear regression smoothers
-    <sup>
-     377 GitHub links in total 753 links, ★ 2, pushed 1285 days ago
-    </sup>
     <sup>
      &#9733 2, pushed 1285 days ago
     </sup>
+    - KNN, kernel-weighted average, local linear regression smoothers
    </li>
    <li>
     <a href="https://github.com/torch/cutorch">
      cutorch
     </a>
-    - Torch CUDA Implementation
-    <sup>
-     377 GitHub links in total 753 links, ★ 128, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 128, pushed 2 days ago
     </sup>
+    - Torch CUDA Implementation
    </li>
    <li>
     <a href="https://github.com/torch/cunn">
      cunn
     </a>
-    - Torch CUDA Neural Network Implementation
-    <sup>
-     377 GitHub links in total 753 links, ★ 95, pushed 2 days ago
-    </sup>
     <sup>
      &#9733 95, pushed 2 days ago
     </sup>
+    - Torch CUDA Neural Network Implementation
    </li>
    <li>
     <a href="https://github.com/clementfarabet/lua---imgraph">
      imgraph
     </a>
-    - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
-    <sup>
-     377 GitHub links in total 753 links, ★ 11, pushed 335 days ago
-    </sup>
     <sup>
      &#9733 11, pushed 335 days ago
     </sup>
+    - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
    </li>
    <li>
     <a href="https://github.com/clementfarabet/videograph">
      videograph
     </a>
-    - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
-    <sup>
-     377 GitHub links in total 753 links, ★ 6, pushed 1034 days ago
-    </sup>
     <sup>
      &#9733 6, pushed 1034 days ago
     </sup>
+    - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
    </li>
    <li>
     <a href="https://github.com/marcoscoffier/torch-saliency">
      saliency
     </a>
-    - code and tools around integral images. A library for finding interest points based on fast integral histograms.
-    <sup>
-     377 GitHub links in total 753 links, ★ 3, pushed 872 days ago
-    </sup>
     <sup>
      &#9733 3, pushed 872 days ago
     </sup>
+    - code and tools around integral images. A library for finding interest points based on fast integral histograms.
    </li>
    <li>
     <a href="https://github.com/marcoscoffier/lua---stitch">
      stitch
     </a>
-    - allows us to use hugin to stitch images and apply same stitching to a video sequence
-    <sup>
-     377 GitHub links in total 753 links, ★ 1, pushed 1458 days ago
-    </sup>
     <sup>
      &#9733 1, pushed 1458 days ago
     </sup>
+    - allows us to use hugin to stitch images and apply same stitching to a video sequence
    </li>
    <li>
     <a href="https://github.com/marcoscoffier/lua---sfm">
      sfm
     </a>
-    - A bundle adjustment/structure from motion package
-    <sup>
-     377 GitHub links in total 753 links, ★ 2, pushed 1539 days ago
-    </sup>
     <sup>
      &#9733 2, pushed 1539 days ago
     </sup>
+    - A bundle adjustment/structure from motion package
    </li>
    <li>
     <a href="https://github.com/koraykv/fex">
      fex
     </a>
-    - A package for feature extraction in Torch. Provides SIFT and dSIFT modules.
-    <sup>
-     377 GitHub links in total 753 links, ★ 5, pushed 823 days ago
-    </sup>
     <sup>
      &#9733 5, pushed 823 days ago
     </sup>
+    - A package for feature extraction in Torch. Provides SIFT and dSIFT modules.
    </li>
    <li>
     <a href="https://github.com/sermanet/OverFeat">
      OverFeat
     </a>
-    - A state-of-the-art generic dense feature extractor
-    <sup>
-     377 GitHub links in total 753 links, ★ 399, pushed 630 days ago
-    </sup>
     <sup>
      &#9733 399, pushed 630 days ago
     </sup>
+    - A state-of-the-art generic dense feature extractor
    </li>
   </ul>
  </li>
@@ -3493,6 +2989,9 @@
   <a href="https://github.com/e-lab/torch7-demos">
    Core torch7 demos repository
   </a>
+  <sup>
+   &#9733 25, pushed 325 days ago
+  </sup>
   .
   <ul>
    <li>
@@ -3532,20 +3031,11 @@
     saliency-networks
    </li>
   </ul>
-  <sup>
-   377 GitHub links in total 753 links, ★ 25, pushed 325 days ago
-  </sup>
-  <sup>
-   &#9733 25, pushed 325 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/soumith/galaxyzoo">
    Training a Convnet for the Galaxy-Zoo Kaggle challenge(CUDA demo)
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 31, pushed 549 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 549 days ago
   </sup>
@@ -3554,18 +3044,18 @@
   <a href="https://github.com/mbhenaff/MusicTagging">
    Music Tagging
   </a>
+  <sup>
+   &#9733 7, pushed 777 days ago
+  </sup>
   - Music Tagging scripts for torch7
-  <sup>
-   377 GitHub links in total 753 links, ★ 7, pushed 776 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 776 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rosejn/torch-datasets">
    torch-datasets
   </a>
+  <sup>
+   &#9733 28, pushed 783 days ago
+  </sup>
   - Scripts to load several popular datasets including:
   <ul>
    <li>
@@ -3587,24 +3077,15 @@
     NORB
    </li>
   </ul>
-  <sup>
-   377 GitHub links in total 753 links, ★ 28, pushed 783 days ago
-  </sup>
-  <sup>
-   &#9733 28, pushed 783 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fidlej/aledataset">
    Atari2600
   </a>
-  - Scripts to generate a dataset with static frames from the Arcade Learning Environment
-  <sup>
-   377 GitHub links in total 753 links, ★ 15, pushed 725 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 725 days ago
   </sup>
+  - Scripts to generate a dataset with static frames from the Arcade Learning Environment
  </li>
 </ul>
 <p>
@@ -3718,13 +3199,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/josephmisiti/machine-learning-module">
    Machine Learning Module
   </a>
+  <sup>
+   &#9733 258, pushed 1833 days ago
+  </sup>
   - Class on machine w/ PDF,lectures,code
-  <sup>
-   377 GitHub links in total 753 links, ★ 258, pushed 1832 days ago
-  </sup>
-  <sup>
-   &#9733 258, pushed 1832 days ago
-  </sup>
  </li>
  <li>
   <a href="http://caffe.berkeleyvision.org">
@@ -3742,13 +3220,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/PRML/PRMLT">
    Pattern Recognition and Machine Learning
   </a>
-  - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
-  <sup>
-   377 GitHub links in total 753 links, ★ 423, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 423, pushed 7 days ago
   </sup>
+  - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
  </li>
  <li>
   <a href="http://docs.optunity.net">
@@ -3863,13 +3338,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/fsprojects/Vulpes">
    Vulpes
   </a>
-  - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
-  <sup>
-   377 GitHub links in total 753 links, ★ 87, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 87, pushed 29 days ago
   </sup>
+  - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
  </li>
  <li>
   <a href="http://www.nuget.org/packages/encog-dotnet-core/">
@@ -3930,97 +3402,73 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/yconst/YCML">
    YCML
   </a>
-  - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
-  <sup>
-   377 GitHub links in total 753 links, ★ 41, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 41, pushed 12 days ago
   </sup>
+  - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
  </li>
  <li>
   <a href="https://github.com/nikolaypavlov/MLPNeuralNet">
    MLPNeuralNet
   </a>
-  - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural network. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available.
-  <sup>
-   377 GitHub links in total 753 links, ★ 807, pushed 225 days ago
-  </sup>
   <sup>
    &#9733 807, pushed 225 days ago
   </sup>
+  - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural network. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available.
  </li>
  <li>
   <a href="https://github.com/gianlucabertani/MAChineLearning">
    MAChineLearning
   </a>
-  - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
-  <sup>
-   377 GitHub links in total 753 links, ★ 11, pushed 366 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 366 days ago
   </sup>
+  - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
  </li>
  <li>
   <a href="https://github.com/Kalvar/ios-BPN-NeuralNetwork">
    BPN-NeuralNetwork
   </a>
-  - It implemented 3 layers neural network ( Input Layer, Hidden Layer and Output Layer ) and it named Back Propagation Neural Network (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis.
-  <sup>
-   377 GitHub links in total 753 links, ★ 22, pushed 170 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 170 days ago
   </sup>
+  - It implemented 3 layers neural network ( Input Layer, Hidden Layer and Output Layer ) and it named Back Propagation Neural Network (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis.
  </li>
  <li>
   <a href="https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork">
    Multi-Perceptron-NeuralNetwork
   </a>
-  - it implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Network (BPN) and designed unlimited-hidden-layers.
-  <sup>
-   377 GitHub links in total 753 links, ★ 10, pushed 131 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 131 days ago
   </sup>
+  - it implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Network (BPN) and designed unlimited-hidden-layers.
  </li>
  <li>
   <a href="https://github.com/Kalvar/ios-KRHebbian-Algorithm">
    KRHebbian-Algorithm
   </a>
-  - It is a non-supervisor and self-learning algorithm (adjust the weights) in neural network of Machine Learning.
-  <sup>
-   377 GitHub links in total 753 links, ★ 10, pushed 177 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 177 days ago
   </sup>
+  - It is a non-supervisor and self-learning algorithm (adjust the weights) in neural network of Machine Learning.
  </li>
  <li>
   <a href="https://github.com/Kalvar/ios-KRKmeans-Algorithm">
    KRKmeans-Algorithm
   </a>
-  - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
-  <sup>
-   377 GitHub links in total 753 links, ★ 11, pushed 97 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 97 days ago
   </sup>
+  - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
  </li>
  <li>
   <a href="https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm">
    KRFuzzyCMeans-Algorithm
   </a>
-  - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
-  <sup>
-   377 GitHub links in total 753 links, ★ 8, pushed 97 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 97 days ago
   </sup>
+  - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
  </li>
 </ul>
 <p>
@@ -4076,13 +3524,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/fukuball/jieba-php">
    jieba-php
   </a>
-  - Chinese Words Segmentation Utilities.
-  <sup>
-   377 GitHub links in total 753 links, ★ 135, pushed 47 days ago
-  </sup>
   <sup>
    &#9733 135, pushed 47 days ago
   </sup>
+  - Chinese Words Segmentation Utilities.
  </li>
 </ul>
 <p>
@@ -4097,13 +3542,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/denissimon/prediction-builder">
    PredictionBuilder
   </a>
-  - A library for machine learning that builds predictions using a linear regression.
-  <sup>
-   377 GitHub links in total 753 links, ★ 35, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 7 days ago
   </sup>
+  - A library for machine learning that builds predictions using a linear regression.
  </li>
 </ul>
 <p>
@@ -4125,13 +3567,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/scikit-image/scikit-image">
    Scikit-Image
   </a>
-  - A collection of algorithms for image processing in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1070, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1070, pushed 2 days ago
   </sup>
+  - A collection of algorithms for image processing in Python.
  </li>
  <li>
   <a href="http://simplecv.org/">
@@ -4143,13 +3582,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/ukoethe/vigra">
    Vigranumpy
   </a>
-  - Python bindings for the VIGRA C++ computer vision library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 189, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 189, pushed 2 days ago
   </sup>
+  - Python bindings for the VIGRA C++ computer vision library.
  </li>
  <li>
   <a href="https://cmusatyalab.github.io/openface/">
@@ -4182,13 +3618,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/machinalis/quepy">
    Quepy
   </a>
-  - A python framework to transform natural language questions to queries in a database query language
-  <sup>
-   377 GitHub links in total 753 links, ★ 572, pushed 48 days ago
-  </sup>
   <sup>
    &#9733 572, pushed 48 days ago
   </sup>
+  - A python framework to transform natural language questions to queries in a database query language
  </li>
  <li>
   <a href="http://textblob.readthedocs.org/">
@@ -4200,13 +3633,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/machinalis/yalign">
    YAlign
   </a>
-  - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
-  <sup>
-   377 GitHub links in total 753 links, ★ 46, pushed 263 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 263 days ago
   </sup>
+  - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
  </li>
  <li>
   <a href="https://github.com/fxsjy/jieba#jieba-1">
@@ -4218,49 +3648,37 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/isnowfy/snownlp">
    SnowNLP
   </a>
-  - A library for processing Chinese text.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1294, pushed 216 days ago
-  </sup>
   <sup>
    &#9733 1294, pushed 216 days ago
   </sup>
+  - A library for processing Chinese text.
  </li>
  <li>
   <a href="https://github.com/prodicus/spammy">
    spammy
   </a>
-  - A library for email Spam filtering built on top of nltk
-  <sup>
-   377 GitHub links in total 753 links, ★ 34, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 2 days ago
   </sup>
+  - A library for email Spam filtering built on top of nltk
  </li>
  <li>
   <a href="https://github.com/victorlin/loso">
    loso
   </a>
-  - Another Chinese segmentation library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 56, pushed 1845 days ago
-  </sup>
   <sup>
    &#9733 56, pushed 1845 days ago
   </sup>
+  - Another Chinese segmentation library.
  </li>
  <li>
   <a href="https://github.com/duanhongyi/genius">
    genius
   </a>
-  - A Chinese segment base on Conditional Random Field.
-  <sup>
-   377 GitHub links in total 753 links, ★ 95, pushed 554 days ago
-  </sup>
   <sup>
    &#9733 95, pushed 554 days ago
   </sup>
+  - A Chinese segment base on Conditional Random Field.
  </li>
  <li>
   <a href="http://konlpy.org">
@@ -4272,25 +3690,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/pprett/nut">
    nut
   </a>
-  - Natural language Understanding Toolkit
-  <sup>
-   377 GitHub links in total 753 links, ★ 75, pushed 727 days ago
-  </sup>
   <sup>
    &#9733 75, pushed 727 days ago
   </sup>
+  - Natural language Understanding Toolkit
  </li>
  <li>
   <a href="https://github.com/columbia-applied-data-science/rosetta">
    Rosetta
   </a>
-  - Text processing tools and wrappers (e.g. Vowpal Wabbit)
-  <sup>
-   377 GitHub links in total 753 links, ★ 145, pushed 126 days ago
-  </sup>
   <sup>
    &#9733 145, pushed 126 days ago
   </sup>
+  - Text processing tools and wrappers (e.g. Vowpal Wabbit)
  </li>
  <li>
   <a href="https://pypi.python.org/pypi/bllipparser/">
@@ -4302,57 +3714,45 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/proycon/pynlpl">
    PyNLPl
   </a>
+  <sup>
+   &#9733 182, pushed 12 days ago
+  </sup>
   - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for
   <a href="http://proycon.github.io/folia/">
    FoLiA
   </a>
   , but also ARPA language models, Moses phrasetables, GIZA++ alignments.
-  <sup>
-   377 GitHub links in total 753 links, ★ 182, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 182, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/proycon/python-ucto">
    python-ucto
   </a>
-  - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages)
-  <sup>
-   377 GitHub links in total 753 links, ★ 9, pushed 54 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 54 days ago
   </sup>
+  - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages)
  </li>
  <li>
   <a href="https://github.com/proycon/python-frog">
    python-frog
   </a>
-  - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
-  <sup>
-   377 GitHub links in total 753 links, ★ 7, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 41 days ago
   </sup>
+  - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
  </li>
  <li>
   <a href="https://github.com/EducationalTestingService/python-zpar">
    python-zpar
   </a>
+  <sup>
+   &#9733 24, pushed 292 days ago
+  </sup>
   - Python bindings for
   <a href="https://github.com/frcchang/zpar">
    ZPar
   </a>
   , a statistical part-of-speech-tagger, constiuency parser, and dependency parser for English.
-  <sup>
-   377 GitHub links in total 753 links, ★ 24, pushed 292 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 292 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/proycon/colibri-core">
@@ -4370,13 +3770,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/dmcc/PyStanfordDependencies">
    PyStanfordDependencies
   </a>
-  - Python interface for converting Penn Treebank trees to Stanford Dependencies.
-  <sup>
-   377 GitHub links in total 753 links, ★ 22, pushed 80 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 80 days ago
   </sup>
+  - Python interface for converting Penn Treebank trees to Stanford Dependencies.
  </li>
 </ul>
 <p>
@@ -4391,6 +3788,9 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/jeff1evesque/machine-learning">
    machine learning
   </a>
+  <sup>
+   &#9733 37, pushed 2 days ago
+  </sup>
   - automated build consisting of a
   <a href="https://github.com/jeff1evesque/machine-learning#web-interface">
    web-interface
@@ -4400,12 +3800,6 @@ on MNIST digits[DEEP LEARNING]
    programmatic-interface
   </a>
   API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
-  <sup>
-   377 GitHub links in total 753 links, ★ 37, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 37, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dmlc/xgboost">
@@ -4417,25 +3811,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">
    Bayesian Methods for Hackers
   </a>
-  - Book/iPython notebooks on Probabilistic Programming in Python
-  <sup>
-   377 GitHub links in total 753 links, ★ 9693, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 9693, pushed 6 days ago
   </sup>
+  - Book/iPython notebooks on Probabilistic Programming in Python
  </li>
  <li>
   <a href="https://github.com/machinalis/featureforge">
    Featureforge
   </a>
-  A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
-  <sup>
-   377 GitHub links in total 753 links, ★ 203, pushed 17 days ago
-  </sup>
   <sup>
    &#9733 203, pushed 17 days ago
   </sup>
+  A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
  </li>
  <li>
   <a href="http://spark.apache.org/docs/latest/mllib-guide.html">
@@ -4453,13 +3841,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/all-umass/metric-learn">
    metric-learn
   </a>
-  - A Python module for metric learning.
-  <sup>
-   377 GitHub links in total 753 links, ★ 172, pushed 178 days ago
-  </sup>
   <sup>
    &#9733 172, pushed 178 days ago
   </sup>
+  - A Python module for metric learning.
  </li>
  <li>
   <a href="http://github.com/simpleai-team/simpleai">
@@ -4489,213 +3874,162 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/clips/pattern">
    pattern
   </a>
-  - Web mining module for Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 4390, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 4390, pushed 5 days ago
   </sup>
+  - Web mining module for Python.
  </li>
  <li>
   <a href="https://github.com/numenta/nupic">
    NuPIC
   </a>
-  - Numenta Platform for Intelligent Computing.
-  <sup>
-   377 GitHub links in total 753 links, ★ 4079, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 4079, pushed 5 days ago
   </sup>
+  - Numenta Platform for Intelligent Computing.
  </li>
  <li>
   <a href="https://github.com/lisa-lab/pylearn2">
    Pylearn2
   </a>
+  <sup>
+   &#9733 2065, pushed 30 days ago
+  </sup>
   - A Machine Learning library based on
   <a href="https://github.com/Theano/Theano">
    Theano
   </a>
   .
-  <sup>
-   377 GitHub links in total 753 links, ★ 2065, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 2065, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fchollet/keras">
    keras
   </a>
+  <sup>
+   &#9733 5863, pushed 2 days ago
+  </sup>
   - Modular neural network library based on
   <a href="https://github.com/Theano/Theano">
    Theano
   </a>
   .
-  <sup>
-   377 GitHub links in total 753 links, ★ 5863, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 5863, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hannes-brt/hebel">
    hebel
   </a>
-  - GPU-Accelerated Deep Learning Library in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1137, pushed 264 days ago
-  </sup>
   <sup>
    &#9733 1137, pushed 264 days ago
   </sup>
+  - GPU-Accelerated Deep Learning Library in Python.
  </li>
  <li>
   <a href="https://github.com/pfnet/chainer">
    Chainer
   </a>
-  - Flexible neural network framework
-  <sup>
-   377 GitHub links in total 753 links, ★ 1354, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 1354, pushed 5 days ago
   </sup>
+  - Flexible neural network framework
  </li>
  <li>
   <a href="https://github.com/piskvorky/gensim">
    gensim
   </a>
-  - Topic Modelling for Humans.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2482, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 2482, pushed 1 days ago
   </sup>
+  - Topic Modelling for Humans.
  </li>
  <li>
   <a href="https://github.com/ContinuumIO/topik">
    topik
   </a>
-  - Topic modelling toolkit
-  <sup>
-   377 GitHub links in total 753 links, ★ 53, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 53, pushed 7 days ago
   </sup>
+  - Topic modelling toolkit
  </li>
  <li>
   <a href="https://github.com/pybrain/pybrain">
    PyBrain
   </a>
-  - Another Python Machine Learning Library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1775, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 1775, pushed 53 days ago
   </sup>
+  - Another Python Machine Learning Library.
  </li>
  <li>
   <a href="https://github.com/IDSIA/brainstorm">
    Brainstorm
   </a>
-  - Fast, flexible and fun neural networks. This is the successor of PyBrain.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1090, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 1090, pushed 10 days ago
   </sup>
+  - Fast, flexible and fun neural networks. This is the successor of PyBrain.
  </li>
  <li>
   <a href="https://github.com/muricoca/crab">
    Crab
   </a>
-  - A ﬂexible, fast recommender engine.
-  <sup>
-   377 GitHub links in total 753 links, ★ 667, pushed 1524 days ago
-  </sup>
   <sup>
    &#9733 667, pushed 1524 days ago
   </sup>
+  - A ﬂexible, fast recommender engine.
  </li>
  <li>
   <a href="https://github.com/ocelma/python-recsys">
    python-recsys
   </a>
-  - A Python library for implementing a Recommender System.
-  <sup>
-   377 GitHub links in total 753 links, ★ 561, pushed 139 days ago
-  </sup>
   <sup>
    &#9733 561, pushed 139 days ago
   </sup>
+  - A Python library for implementing a Recommender System.
  </li>
  <li>
   <a href="https://github.com/AllenDowney/ThinkBayes">
    thinking bayes
   </a>
-  - Book on Bayesian Analysis
-  <sup>
-   377 GitHub links in total 753 links, ★ 421, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 421, pushed 49 days ago
   </sup>
+  - Book on Bayesian Analysis
  </li>
  <li>
   <a href="https://github.com/echen/restricted-boltzmann-machines">
    Restricted Boltzmann Machines
   </a>
-  -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
-  <sup>
-   377 GitHub links in total 753 links, ★ 394, pushed 178 days ago
-  </sup>
   <sup>
    &#9733 394, pushed 178 days ago
   </sup>
+  -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
  </li>
  <li>
   <a href="https://github.com/pprett/bolt">
    Bolt
   </a>
-  - Bolt Online Learning Toolbox
-  <sup>
-   377 GitHub links in total 753 links, ★ 66, pushed 1672 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 1672 days ago
   </sup>
+  - Bolt Online Learning Toolbox
  </li>
  <li>
   <a href="https://github.com/patvarilly/CoverTree">
    CoverTree
   </a>
-  - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
-  <sup>
-   377 GitHub links in total 753 links, ★ 14, pushed 1512 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 1512 days ago
   </sup>
+  - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
  </li>
  <li>
   <a href="https://github.com/nilearn/nilearn">
    nilearn
   </a>
-  - Machine learning for NeuroImaging in Python
-  <sup>
-   377 GitHub links in total 753 links, ★ 166, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 166, pushed 3 days ago
   </sup>
+  - Machine learning for NeuroImaging in Python
  </li>
  <li>
   <a href="https://github.com/shogun-toolbox/shogun">
@@ -4707,13 +4041,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/perone/Pyevolve">
    Pyevolve
   </a>
-  - Genetic algorithm framework.
-  <sup>
-   377 GitHub links in total 753 links, ★ 200, pushed 182 days ago
-  </sup>
   <sup>
    &#9733 200, pushed 182 days ago
   </sup>
+  - Genetic algorithm framework.
  </li>
  <li>
   <a href="http://caffe.berkeleyvision.org">
@@ -4725,25 +4056,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/breze-no-salt/breze">
    breze
   </a>
-  - Theano based library for deep and recurrent neural networks
-  <sup>
-   377 GitHub links in total 753 links, ★ 73, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 73, pushed 20 days ago
   </sup>
+  - Theano based library for deep and recurrent neural networks
  </li>
  <li>
   <a href="https://github.com/mattjj/pyhsmm">
    pyhsmm
   </a>
+  <sup>
+   &#9733 216, pushed 33 days ago
+  </sup>
   - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-  <sup>
-   377 GitHub links in total 753 links, ★ 216, pushed 32 days ago
-  </sup>
-  <sup>
-   &#9733 216, pushed 32 days ago
-  </sup>
  </li>
  <li>
   <a href="https://pythonhosted.org/mrjob/">
@@ -4755,37 +4080,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/EducationalTestingService/skll">
    SKLL
   </a>
-  - A wrapper around scikit-learn that makes it simpler to conduct experiments.
-  <sup>
-   377 GitHub links in total 753 links, ★ 334, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 334, pushed 1 days ago
   </sup>
+  - A wrapper around scikit-learn that makes it simpler to conduct experiments.
  </li>
  <li>
   <a href="https://github.com/zueve/neurolab">
    neurolab
   </a>
-  - https://github.com/zueve/neurolab
-  <sup>
-   377 GitHub links in total 753 links, ★ 64, pushed 88 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 88 days ago
   </sup>
+  - https://github.com/zueve/neurolab
  </li>
  <li>
   <a href="https://github.com/JasperSnoek/spearmint">
    Spearmint
   </a>
-  - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012.
-  <sup>
-   377 GitHub links in total 753 links, ★ 648, pushed 81 days ago
-  </sup>
   <sup>
    &#9733 648, pushed 81 days ago
   </sup>
+  - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012.
  </li>
  <li>
   <a href="https://github.com/abhik/pebl/">
@@ -4815,65 +4131,50 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/proycon/python-timbl">
    python-timbl
   </a>
-  - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
-  <sup>
-   377 GitHub links in total 753 links, ★ 5, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 51 days ago
   </sup>
+  - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
  </li>
  <li>
   <a href="https://github.com/deap/deap">
    deap
   </a>
-  - Evolutionary algorithm framework.
-  <sup>
-   377 GitHub links in total 753 links, ★ 549, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 549, pushed 20 days ago
   </sup>
+  - Evolutionary algorithm framework.
  </li>
  <li>
   <a href="https://github.com/andersbll/deeppy">
    pydeep
   </a>
-  - Deep Learning In Python
-  <sup>
-   377 GitHub links in total 753 links, ★ 875, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 875, pushed 27 days ago
   </sup>
+  - Deep Learning In Python
  </li>
  <li>
   <a href="https://github.com/rasbt/mlxtend">
    mlxtend
   </a>
-  - A library consisting of useful tools for data science and machine learning tasks.
-  <sup>
-   377 GitHub links in total 753 links, ★ 405, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 405, pushed 2 days ago
   </sup>
+  - A library consisting of useful tools for data science and machine learning tasks.
  </li>
  <li>
   <a href="https://github.com/NervanaSystems/neon">
    neon
   </a>
+  <sup>
+   &#9733 1808, pushed 4 days ago
+  </sup>
   - Nervana's
   <a href="https://github.com/soumith/convnet-benchmarks">
    high-performance
   </a>
   Python-based Deep Learning framework [DEEP LEARNING]
-  <sup>
-   377 GitHub links in total 753 links, ★ 1808, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1808, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="http://docs.optunity.net">
@@ -4885,25 +4186,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/mnielsen/neural-networks-and-deep-learning">
    Neural Networks and Deep Learning
   </a>
-  - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
-  <sup>
-   377 GitHub links in total 753 links, ★ 1909, pushed 162 days ago
-  </sup>
   <sup>
    &#9733 1909, pushed 162 days ago
   </sup>
+  - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
  </li>
  <li>
   <a href="https://github.com/spotify/annoy">
    Annoy
   </a>
+  <sup>
+   &#9733 1131, pushed 2 days ago
+  </sup>
   - Approximate nearest neighbours implementation
-  <sup>
-   377 GitHub links in total 753 links, ★ 1131, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 1131, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/google/skflow">
@@ -4915,37 +4210,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/rhiever/tpot">
    TPOT
   </a>
+  <sup>
+   &#9733 691, pushed 3 days ago
+  </sup>
   - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
-  <sup>
-   377 GitHub links in total 753 links, ★ 691, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 691, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/pgmpy/pgmpy">
    pgmpy
   </a>
-  A python library for working with Probabilistic Graphical Models.
-  <sup>
-   377 GitHub links in total 753 links, ★ 220, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 220, pushed 9 days ago
   </sup>
+  A python library for working with Probabilistic Graphical Models.
  </li>
  <li>
   <a href="https://github.com/NVIDIA/DIGITS">
    DIGITS
   </a>
-  - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1076, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 1076, pushed 1 days ago
   </sup>
+  - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
  </li>
  <li>
   <a href="http://orange.biolab.si/">
@@ -4963,25 +4249,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/luispedro/milk">
    milk
   </a>
-  - Machine learning toolkit focused on supervised classification.
-  <sup>
-   377 GitHub links in total 753 links, ★ 501, pushed 358 days ago
-  </sup>
   <sup>
    &#9733 501, pushed 358 days ago
   </sup>
+  - Machine learning toolkit focused on supervised classification.
  </li>
  <li>
   <a href="https://github.com/tflearn/tflearn">
    TFLearn
   </a>
-  - Deep learning library featuring a higher-level API for TensorFlow.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2550, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2550, pushed 4 days ago
   </sup>
+  - Deep learning library featuring a higher-level API for TensorFlow.
  </li>
 </ul>
 <p>
@@ -5038,25 +4318,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/pymc-devs/pymc">
    PyMC
   </a>
-  - Markov Chain Monte Carlo sampling toolkit.
-  <sup>
-   377 GitHub links in total 753 links, ★ 289, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 289, pushed 2 days ago
   </sup>
+  - Markov Chain Monte Carlo sampling toolkit.
  </li>
  <li>
   <a href="https://github.com/quantopian/zipline">
    zipline
   </a>
-  - A Pythonic algorithmic trading library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 3154, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 3154, pushed 4 days ago
   </sup>
+  - A Pythonic algorithmic trading library.
  </li>
  <li>
   <a href="https://pydy.org/">
@@ -5068,25 +4342,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/sympy/sympy">
    SymPy
   </a>
-  - A Python library for symbolic mathematics.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2825, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2825, pushed 2 days ago
   </sup>
+  - A Python library for symbolic mathematics.
  </li>
  <li>
   <a href="https://github.com/statsmodels/statsmodels">
    statsmodels
   </a>
-  - Statistical modeling and econometrics in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1418, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1418, pushed 2 days ago
   </sup>
+  - Statistical modeling and econometrics in Python.
  </li>
  <li>
   <a href="http://www.astropy.org/">
@@ -5104,13 +4372,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/bokeh/bokeh">
    bokeh
   </a>
-  - Interactive Web Plotting for Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 4131, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 4131, pushed 2 days ago
   </sup>
+  - Interactive Web Plotting for Python.
  </li>
  <li>
   <a href="https://plot.ly/python/">
@@ -5122,65 +4387,50 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/wrobstory/vincent">
    vincent
   </a>
-  - A Python to Vega translator.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1843, pushed 102 days ago
-  </sup>
   <sup>
    &#9733 1843, pushed 102 days ago
   </sup>
+  - A Python to Vega translator.
  </li>
  <li>
   <a href="https://github.com/mikedewar/d3py">
    d3py
   </a>
+  <sup>
+   &#9733 1105, pushed 211 days ago
+  </sup>
   - A plotting library for Python, based on
   <a href="http://d3js.org/">
    D3.js
   </a>
   .
-  <sup>
-   377 GitHub links in total 753 links, ★ 1105, pushed 211 days ago
-  </sup>
-  <sup>
-   &#9733 1105, pushed 211 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/yhat/ggplot">
    ggplot
   </a>
+  <sup>
+   &#9733 2487, pushed 2 days ago
+  </sup>
   - Same API as ggplot2 for R.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2487, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2487, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sinhrks/ggfortify">
    ggfortify
   </a>
-  - Unified interface to ggplot2 popular R packages.
-  <sup>
-   377 GitHub links in total 753 links, ★ 180, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 180, pushed 10 days ago
   </sup>
+  - Unified interface to ggplot2 popular R packages.
  </li>
  <li>
   <a href="https://github.com/kartograph/kartograph.py">
    Kartograph.py
   </a>
+  <sup>
+   &#9733 858, pushed 293 days ago
+  </sup>
   - Rendering beautiful SVG maps in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 858, pushed 292 days ago
-  </sup>
-  <sup>
-   &#9733 858, pushed 292 days ago
-  </sup>
  </li>
  <li>
   <a href="http://pygal.org/">
@@ -5192,21 +4442,15 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/pyqtgraph/pyqtgraph">
    PyQtGraph
   </a>
-  - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
-  <sup>
-   377 GitHub links in total 753 links, ★ 401, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 401, pushed 8 days ago
   </sup>
+  - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
  </li>
  <li>
   <a href="https://github.com/twitter/pycascading">
    pycascading
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 213, pushed 867 days ago
-  </sup>
   <sup>
    &#9733 213, pushed 867 days ago
   </sup>
@@ -5215,37 +4459,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/AirSage/Petrel">
    Petrel
   </a>
+  <sup>
+   &#9733 227, pushed 15 days ago
+  </sup>
   - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 227, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 227, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/blaze/blaze">
    Blaze
   </a>
-  - NumPy and Pandas interface to Big Data.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1445, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 1445, pushed 4 days ago
   </sup>
+  - NumPy and Pandas interface to Big Data.
  </li>
  <li>
   <a href="https://github.com/dfm/emcee">
    emcee
   </a>
-  - The Python ensemble sampling toolkit for affine-invariant MCMC.
-  <sup>
-   377 GitHub links in total 753 links, ★ 527, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 527, pushed 9 days ago
   </sup>
+  - The Python ensemble sampling toolkit for affine-invariant MCMC.
  </li>
  <li>
   <a href="http://www.windml.org">
@@ -5257,49 +4492,37 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/vispy/vispy">
    vispy
   </a>
-  - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
-  <sup>
-   377 GitHub links in total 753 links, ★ 1007, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 1007, pushed 32 days ago
   </sup>
+  - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
  </li>
  <li>
   <a href="https://github.com/numenta/nupic.cerebro2">
    cerebro2
   </a>
-  A web-based visualization and debugging platform for NuPIC.
-  <sup>
-   377 GitHub links in total 753 links, ★ 13, pushed 259 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 259 days ago
   </sup>
+  A web-based visualization and debugging platform for NuPIC.
  </li>
  <li>
   <a href="https://github.com/nupic-community/nupic.studio">
    NuPIC Studio
   </a>
-  An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
-  <sup>
-   377 GitHub links in total 753 links, ★ 59, pushed 165 days ago
-  </sup>
   <sup>
    &#9733 59, pushed 165 days ago
   </sup>
+  An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
  </li>
  <li>
   <a href="https://github.com/sparklingpandas/sparklingpandas">
    SparklingPandas
   </a>
-  Pandas on PySpark (POPS)
-  <sup>
-   377 GitHub links in total 753 links, ★ 248, pushed 218 days ago
-  </sup>
   <sup>
    &#9733 248, pushed 218 days ago
   </sup>
+  Pandas on PySpark (POPS)
  </li>
  <li>
   <a href="http://stanford.edu/~mwaskom/software/seaborn/">
@@ -5311,37 +4534,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/bloomberg/bqplot">
    bqplot
   </a>
-  - An API for plotting in Jupyter (IPython)
-  <sup>
-   377 GitHub links in total 753 links, ★ 838, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 838, pushed 4 days ago
   </sup>
+  - An API for plotting in Jupyter (IPython)
  </li>
  <li>
   <a href="https://github.com/rewonc/pastalog">
    pastalog
   </a>
-  - Simple, realtime visualization of neural network training performance.
-  <sup>
-   377 GitHub links in total 753 links, ★ 249, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 249, pushed 21 days ago
   </sup>
+  - Simple, realtime visualization of neural network training performance.
  </li>
  <li>
   <a href="https://github.com/airbnb/caravel">
    caravel
   </a>
-  - A data exploration platform designed to be visual, intuitive, and interactive.
-  <sup>
-   377 GitHub links in total 753 links, ★ 5894, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 5894, pushed 2 days ago
   </sup>
+  - A data exploration platform designed to be visual, intuitive, and interactive.
  </li>
 </ul>
 <p>
@@ -5356,21 +4570,15 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/jaredmichaelsmith/BioPy">
    BioPy
   </a>
-  - Biologically-Inspired and Machine Learning Algorithms in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 7, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 4 days ago
   </sup>
+  - Biologically-Inspired and Machine Learning Algorithms in Python.
  </li>
  <li>
   <a href="https://github.com/rasbt/pattern_classification">
    pattern_classification
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 1661, pushed 58 days ago
-  </sup>
   <sup>
    &#9733 1661, pushed 58 days ago
   </sup>
@@ -5380,9 +4588,6 @@ on MNIST digits[DEEP LEARNING]
    thinking stats 2
   </a>
   <sup>
-   377 GitHub links in total 753 links, ★ 5, pushed 659 days ago
-  </sup>
-  <sup>
    &#9733 5, pushed 659 days ago
   </sup>
  </li>
@@ -5390,9 +4595,6 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/hyperopt/hyperopt-sklearn">
    hyperopt
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 115, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 115, pushed 6 days ago
   </sup>
@@ -5402,9 +4604,6 @@ on MNIST digits[DEEP LEARNING]
    numpic
   </a>
   <sup>
-   377 GitHub links in total 753 links, ★ 4079, pushed 5 days ago
-  </sup>
-  <sup>
    &#9733 4079, pushed 5 days ago
   </sup>
  </li>
@@ -5412,9 +4611,6 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/dib-lab/2012-paper-diginorm">
    2012-paper-diginorm
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 7, pushed 348 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 348 days ago
   </sup>
@@ -5429,9 +4625,6 @@ on MNIST digits[DEEP LEARNING]
    ipython-notebooks
   </a>
   <sup>
-   377 GitHub links in total 753 links, ★ 293, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 293, pushed 4 days ago
   </sup>
  </li>
@@ -5439,21 +4632,15 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/donnemartin/data-science-ipython-notebooks">
    data-science-ipython-notebooks
   </a>
-  - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
-  <sup>
-   377 GitHub links in total 753 links, ★ 5541, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5541, pushed 4 days ago
   </sup>
+  - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
  </li>
  <li>
   <a href="https://github.com/CamDavidsonPilon/decision-weights">
    decision-weights
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 19, pushed 428 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 428 days ago
   </sup>
@@ -5462,205 +4649,154 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/Wavelets/sarah-palin-lda">
    Sarah Palin LDA
   </a>
-  - Topic Modeling the Sarah Palin emails.
-  <sup>
-   377 GitHub links in total 753 links, ★ 8, pushed 1760 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 1760 days ago
   </sup>
+  - Topic Modeling the Sarah Palin emails.
  </li>
  <li>
   <a href="https://github.com/Wavelets/diffusion-segmentation">
    Diffusion Segmentation
   </a>
-  - A collection of image segmentation algorithms based on diffusion methods
-  <sup>
-   377 GitHub links in total 753 links, ★ 2, pushed 2077 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 2077 days ago
   </sup>
+  - A collection of image segmentation algorithms based on diffusion methods
  </li>
  <li>
   <a href="https://github.com/Wavelets/scipy-tutorials">
    Scipy Tutorials
   </a>
-  - SciPy tutorials. This is outdated, check out scipy-lecture-notes
-  <sup>
-   377 GitHub links in total 753 links, ★ 1, pushed 2176 days ago
-  </sup>
   <sup>
    &#9733 1, pushed 2176 days ago
   </sup>
+  - SciPy tutorials. This is outdated, check out scipy-lecture-notes
  </li>
  <li>
   <a href="https://github.com/marcelcaraciolo/crab">
    Crab
   </a>
-  - A recommendation engine library for Python
-  <sup>
-   377 GitHub links in total 753 links, ★ 71, pushed 1705 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 1705 days ago
   </sup>
+  - A recommendation engine library for Python
  </li>
  <li>
   <a href="https://github.com/maxsklar/BayesPy">
    BayesPy
   </a>
-  - Bayesian Inference Tools in Python
-  <sup>
-   377 GitHub links in total 753 links, ★ 35, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 55 days ago
   </sup>
+  - Bayesian Inference Tools in Python
  </li>
  <li>
   <a href="https://github.com/GaelVaroquaux/scikit-learn-tutorial">
    scikit-learn tutorials
   </a>
-  - Series of notebooks for learning scikit-learn
-  <sup>
-   377 GitHub links in total 753 links, ★ 55, pushed 1610 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 1610 days ago
   </sup>
+  - Series of notebooks for learning scikit-learn
  </li>
  <li>
   <a href="https://github.com/madhusudancs/sentiment-analyzer">
    sentiment-analyzer
   </a>
-  - Tweets Sentiment Analyzer
-  <sup>
-   377 GitHub links in total 753 links, ★ 26, pushed 1495 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 1495 days ago
   </sup>
+  - Tweets Sentiment Analyzer
  </li>
  <li>
   <a href="https://github.com/kevincobain2000/sentiment_classifier">
    sentiment_classifier
   </a>
-  - Sentiment classifier using word sense disambiguation.
-  <sup>
-   377 GitHub links in total 753 links, ★ 60, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 39 days ago
   </sup>
+  - Sentiment classifier using word sense disambiguation.
  </li>
  <li>
   <a href="https://github.com/fabianp/group_lasso">
    group-lasso
   </a>
-  - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
-  <sup>
-   377 GitHub links in total 753 links, ★ 6, pushed 1287 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 1287 days ago
   </sup>
+  - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
  </li>
  <li>
   <a href="https://github.com/kevincobain2000/jProcessing">
    jProcessing
   </a>
-  - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
-  <sup>
-   377 GitHub links in total 753 links, ★ 34, pushed 146 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 146 days ago
   </sup>
+  - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
  </li>
  <li>
   <a href="https://github.com/mne-tools/mne-python-notebooks">
    mne-python-notebooks
   </a>
-  - IPython notebooks for EEG/MEG data processing using mne-python
-  <sup>
-   377 GitHub links in total 753 links, ★ 2, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 23 days ago
   </sup>
+  - IPython notebooks for EEG/MEG data processing using mne-python
  </li>
  <li>
   <a href="https://github.com/jvns/pandas-cookbook">
    pandas cookbook
   </a>
-  - Recipes for using Python's pandas library
-  <sup>
-   377 GitHub links in total 753 links, ★ 1510, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 1510, pushed 9 days ago
   </sup>
+  - Recipes for using Python's pandas library
  </li>
  <li>
   <a href="https://github.com/BRML/climin">
    climin
   </a>
-  - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others
-  <sup>
-   377 GitHub links in total 753 links, ★ 100, pushed 69 days ago
-  </sup>
   <sup>
    &#9733 100, pushed 69 days ago
   </sup>
+  - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others
  </li>
  <li>
   <a href="https://github.com/AllenDowney/DataScience">
    Allen Downey’s Data Science Course
   </a>
-  - Code for Data Science at Olin College, Spring 2014.
-  <sup>
-   377 GitHub links in total 753 links, ★ 19, pushed 740 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 740 days ago
   </sup>
+  - Code for Data Science at Olin College, Spring 2014.
  </li>
  <li>
   <a href="https://github.com/AllenDowney/ThinkBayes">
    Allen Downey’s Think Bayes Code
   </a>
-  - Code repository for Think Bayes.
-  <sup>
-   377 GitHub links in total 753 links, ★ 421, pushed 49 days ago
-  </sup>
   <sup>
    &#9733 421, pushed 49 days ago
   </sup>
+  - Code repository for Think Bayes.
  </li>
  <li>
   <a href="https://github.com/AllenDowney/ThinkComplexity">
    Allen Downey’s Think Complexity Code
   </a>
-  - Code for Allen Downey's book Think Complexity.
-  <sup>
-   377 GitHub links in total 753 links, ★ 46, pushed 285 days ago
-  </sup>
   <sup>
    &#9733 46, pushed 285 days ago
   </sup>
+  - Code for Allen Downey's book Think Complexity.
  </li>
  <li>
   <a href="https://github.com/AllenDowney/ThinkOS">
    Allen Downey’s Think OS Code
   </a>
-  - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
-  <sup>
-   377 GitHub links in total 753 links, ★ 120, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 120, pushed 71 days ago
   </sup>
+  - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
  </li>
  <li>
   <a href="http://fbkarsdorp.github.io/python-course/">
@@ -5684,29 +4820,23 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/hangtwenty/dive-into-machine-learning">
    Dive into Machine Learning  with Python Jupyter notebook and scikit-learn
   </a>
+  <sup>
+   &#9733 5160, pushed 5 days ago
+  </sup>
   - "I learned Python by hacking first, and getting serious
   <em>
    later.
   </em>
   I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
-  <sup>
-   377 GitHub links in total 753 links, ★ 5160, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 5160, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ericjang/tdb">
    TDB
   </a>
-  - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
-  <sup>
-   377 GitHub links in total 753 links, ★ 773, pushed 62 days ago
-  </sup>
   <sup>
    &#9733 773, pushed 62 days ago
   </sup>
+  - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
  </li>
 </ul>
 <p>
@@ -5721,117 +4851,87 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/hammer/wikichallenge">
    wiki challenge
   </a>
-  - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
-  <sup>
-   377 GitHub links in total 753 links, ★ 5, pushed 1623 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 1623 days ago
   </sup>
+  - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
  </li>
  <li>
   <a href="https://github.com/amueller/kaggle_insults">
    kaggle insults
   </a>
-  - Kaggle Submission for "Detecting Insults in Social Commentary"
-  <sup>
-   377 GitHub links in total 753 links, ★ 96, pushed 218 days ago
-  </sup>
   <sup>
    &#9733 96, pushed 218 days ago
   </sup>
+  - Kaggle Submission for "Detecting Insults in Social Commentary"
  </li>
  <li>
   <a href="https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge">
    kaggle_acquire-valued-shoppers-challenge
   </a>
-  - Code for the Kaggle acquire valued shoppers challenge
-  <sup>
-   377 GitHub links in total 753 links, ★ 37, pushed 747 days ago
-  </sup>
   <sup>
    &#9733 37, pushed 747 days ago
   </sup>
+  - Code for the Kaggle acquire valued shoppers challenge
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-cifar">
    kaggle-cifar
   </a>
-  - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
-  <sup>
-   377 GitHub links in total 753 links, ★ 34, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 682 days ago
   </sup>
+  - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-blackbox">
    kaggle-blackbox
   </a>
-  - Deep learning made easy
-  <sup>
-   377 GitHub links in total 753 links, ★ 110, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 110, pushed 682 days ago
   </sup>
+  - Deep learning made easy
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-accelerometer">
    kaggle-accelerometer
   </a>
-  - Code for Accelerometer Biometric Competition at Kaggle
-  <sup>
-   377 GitHub links in total 753 links, ★ 7, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 682 days ago
   </sup>
+  - Code for Accelerometer Biometric Competition at Kaggle
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-advertised-salaries">
    kaggle-advertised-salaries
   </a>
-  - Predicting job salaries from ads - a Kaggle competition
-  <sup>
-   377 GitHub links in total 753 links, ★ 44, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 682 days ago
   </sup>
+  - Predicting job salaries from ads - a Kaggle competition
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-amazon">
    kaggle amazon
   </a>
-  - Amazon access control challenge
-  <sup>
-   377 GitHub links in total 753 links, ★ 15, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 682 days ago
   </sup>
+  - Amazon access control challenge
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-bestbuy_big">
    kaggle-bestbuy_big
   </a>
-  - Code for the Best Buy competition at Kaggle
-  <sup>
-   377 GitHub links in total 753 links, ★ 2, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 682 days ago
   </sup>
+  - Code for the Best Buy competition at Kaggle
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-bestbuy_small">
    kaggle-bestbuy_small
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 2, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 682 days ago
   </sup>
@@ -5840,61 +4940,46 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/kastnerkyle/kaggle-dogs-vs-cats">
    Kaggle Dogs vs. Cats
   </a>
-  - Code for Kaggle Dogs vs. Cats competition
-  <sup>
-   377 GitHub links in total 753 links, ★ 48, pushed 822 days ago
-  </sup>
   <sup>
    &#9733 48, pushed 822 days ago
   </sup>
+  - Code for Kaggle Dogs vs. Cats competition
  </li>
  <li>
   <a href="https://github.com/benanne/kaggle-galaxies">
    Kaggle Galaxy Challenge
   </a>
-  - Winning solution for the Galaxy Challenge on Kaggle
-  <sup>
-   377 GitHub links in total 753 links, ★ 313, pushed 629 days ago
-  </sup>
   <sup>
    &#9733 313, pushed 629 days ago
   </sup>
+  - Winning solution for the Galaxy Challenge on Kaggle
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-gender">
    Kaggle Gender
   </a>
-  - A Kaggle competition: discriminate gender based on handwriting
-  <sup>
-   377 GitHub links in total 753 links, ★ 4, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 682 days ago
   </sup>
+  - A Kaggle competition: discriminate gender based on handwriting
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-merck">
    Kaggle Merck
   </a>
-  - Merck challenge at Kaggle
-  <sup>
-   377 GitHub links in total 753 links, ★ 3, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 682 days ago
   </sup>
+  - Merck challenge at Kaggle
  </li>
  <li>
   <a href="https://github.com/zygmuntz/kaggle-stackoverflow">
    Kaggle Stackoverflow
   </a>
-  - Predicting closed questions on Stack Overflow
-  <sup>
-   377 GitHub links in total 753 links, ★ 29, pushed 682 days ago
-  </sup>
   <sup>
    &#9733 29, pushed 682 days ago
   </sup>
+  - Predicting closed questions on Stack Overflow
  </li>
  <li>
   <a href="https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge">
@@ -5906,13 +4991,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/zygmuntz/wine-quality">
    wine-quality
   </a>
-  - Predicting wine quality
-  <sup>
-   377 GitHub links in total 753 links, ★ 5, pushed 243 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 243 days ago
   </sup>
+  - Predicting wine quality
  </li>
 </ul>
 <p>
@@ -5934,13 +5016,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/louismullie/treat">
    Treat
   </a>
-  -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
-  <sup>
-   377 GitHub links in total 753 links, ★ 1154, pushed 60 days ago
-  </sup>
   <sup>
    &#9733 1154, pushed 60 days ago
   </sup>
+  -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
  </li>
  <li>
   <a href="http://www.deveiate.org/projects/Linguistics/">
@@ -5952,13 +5031,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/aurelian/ruby-stemmer">
    Stemmer
   </a>
-  - Expose libstemmer_c to Ruby
-  <sup>
-   377 GitHub links in total 753 links, ★ 202, pushed 85 days ago
-  </sup>
   <sup>
    &#9733 202, pushed 85 days ago
   </sup>
+  - Expose libstemmer_c to Ruby
  </li>
  <li>
   <a href="http://www.deveiate.org/projects/Ruby-WordNet/">
@@ -5976,25 +5052,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/ealdent/uea-stemmer">
    UEA Stemmer
   </a>
-  - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
-  <sup>
-   377 GitHub links in total 753 links, ★ 38, pushed 251 days ago
-  </sup>
   <sup>
    &#9733 38, pushed 251 days ago
   </sup>
+  - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
  </li>
  <li>
   <a href="https://github.com/twitter/twitter-text-rb">
    Twitter-text-rb
   </a>
-  - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
-  <sup>
-   377 GitHub links in total 753 links, ★ 634, pushed 507 days ago
-  </sup>
   <sup>
    &#9733 634, pushed 507 days ago
   </sup>
+  - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
  </li>
 </ul>
 <p>
@@ -6009,21 +5079,15 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/tsycho/ruby-machine-learning">
    Ruby Machine Learning
   </a>
-  - Some Machine Learning algorithms, implemented in Ruby
-  <sup>
-   377 GitHub links in total 753 links, ★ 23, pushed 1575 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 1575 days ago
   </sup>
+  - Some Machine Learning algorithms, implemented in Ruby
  </li>
  <li>
   <a href="https://github.com/mizoR/machine-learning-ruby">
    Machine Learning Ruby
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 12, pushed 1335 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 1335 days ago
   </sup>
@@ -6032,37 +5096,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/vasinov/jruby_mahout">
    jRuby Mahout
   </a>
-  - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
-  <sup>
-   377 GitHub links in total 753 links, ★ 161, pushed 226 days ago
-  </sup>
   <sup>
    &#9733 161, pushed 226 days ago
   </sup>
+  - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
  </li>
  <li>
   <a href="https://github.com/cardmagic/classifier">
    CardMagic-Classifier
   </a>
-  - A general classifier module to allow Bayesian and other types of classifications.
-  <sup>
-   377 GitHub links in total 753 links, ★ 566, pushed 847 days ago
-  </sup>
   <sup>
    &#9733 566, pushed 847 days ago
   </sup>
+  - A general classifier module to allow Bayesian and other types of classifications.
  </li>
  <li>
   <a href="https://github.com/febeling/rb-libsvm">
    rb-libsvm
   </a>
-  - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
-  <sup>
-   377 GitHub links in total 753 links, ★ 210, pushed 227 days ago
-  </sup>
   <sup>
    &#9733 210, pushed 227 days ago
   </sup>
+  - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
  </li>
 </ul>
 <p>
@@ -6077,25 +5132,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/alexgutteridge/rsruby">
    rsruby
   </a>
-  - Ruby - R bridge
-  <sup>
-   377 GitHub links in total 753 links, ★ 295, pushed 1616 days ago
-  </sup>
   <sup>
    &#9733 295, pushed 1616 days ago
   </sup>
+  - Ruby - R bridge
  </li>
  <li>
   <a href="https://github.com/chrislo/data_visualisation_ruby">
    data-visualization-ruby
   </a>
-  - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
-  <sup>
-   377 GitHub links in total 753 links, ★ 67, pushed 2324 days ago
-  </sup>
   <sup>
    &#9733 67, pushed 2324 days ago
   </sup>
+  - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
  </li>
  <li>
   <a href="https://www.ruby-toolbox.com/projects/ruby-plot">
@@ -6107,13 +5156,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/zuhao/plotrb">
    plot-rb
   </a>
-  - A plotting library in Ruby built on top of Vega and D3.
-  <sup>
-   377 GitHub links in total 753 links, ★ 33, pushed 953 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 953 days ago
   </sup>
+  - A plotting library in Ruby built on top of Vega and D3.
  </li>
  <li>
   <a href="http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html">
@@ -6130,21 +5176,15 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/glean/glean">
    Glean
   </a>
-  - A data management tool for humans
-  <sup>
-   377 GitHub links in total 753 links, ★ 113, pushed 664 days ago
-  </sup>
   <sup>
    &#9733 113, pushed 664 days ago
   </sup>
+  - A data management tool for humans
  </li>
  <li>
   <a href="https://github.com/bioruby/bioruby">
    Bioruby
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 288, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 288, pushed 43 days ago
   </sup>
@@ -6153,9 +5193,6 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/nkallen/arel">
    Arel
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 239, pushed 2539 days ago
-  </sup>
   <sup>
    &#9733 239, pushed 2539 days ago
   </sup>
@@ -6174,9 +5211,6 @@ on MNIST digits[DEEP LEARNING]
    Big Data For Chimps
   </a>
   <sup>
-   377 GitHub links in total 753 links, ★ 149, pushed 323 days ago
-  </sup>
-  <sup>
    &#9733 149, pushed 323 days ago
   </sup>
  </li>
@@ -6184,16 +5218,13 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/kevincobain2000/listof">
    Listof
   </a>
+  <sup>
+   &#9733 8, pushed 51 days ago
+  </sup>
   - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash.
   <a href="http://listof.herokuapp.com/">
    Demo/Search for a list
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 8, pushed 50 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 50 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -6215,61 +5246,46 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/tedsta/deeplearn-rs">
    deeplearn-rs
   </a>
-  - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-  <sup>
-   377 GitHub links in total 753 links, ★ 84, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 5 days ago
   </sup>
+  - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
  </li>
  <li>
   <a href="https://github.com/maciejkula/rustlearn">
    rustlearn
   </a>
-  - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
-  <sup>
-   377 GitHub links in total 753 links, ★ 142, pushed 63 days ago
-  </sup>
   <sup>
    &#9733 142, pushed 63 days ago
   </sup>
+  - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
  </li>
  <li>
   <a href="https://github.com/AtheMathmo/rusty-machine">
    rusty-machine
   </a>
-  - a pure-rust machine learning library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 129, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 129, pushed 4 days ago
   </sup>
+  - a pure-rust machine learning library.
  </li>
  <li>
   <a href="https://github.com/autumnai/leaf">
    leaf
   </a>
-  - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license.
-  <sup>
-   377 GitHub links in total 753 links, ★ 4007, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 4007, pushed 3 days ago
   </sup>
+  - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license.
  </li>
  <li>
   <a href="https://github.com/jackm321/RustNN">
    RustNN
   </a>
-  - RustNN is a feedforward neural network library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 243, pushed 227 days ago
-  </sup>
   <sup>
    &#9733 243, pushed 227 days ago
   </sup>
+  - RustNN is a feedforward neural network library.
  </li>
 </ul>
 <p>
@@ -6351,9 +5367,6 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/jbrownlee/CleverAlgorithmsMachineLearning">
    Clever Algorithms For Machine Learning
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 176, pushed 1115 days ago
-  </sup>
   <sup>
    &#9733 176, pushed 1115 days ago
   </sup>
@@ -6529,9 +5542,6 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/johnmyleswhite/ML_for_Hackers">
    Machine Learning For Hackers
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 2309, pushed 56 days ago
-  </sup>
   <sup>
    &#9733 2309, pushed 56 days ago
   </sup>
@@ -6750,17 +5760,14 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/ecpolley/SuperLearner">
    SuperLearner
   </a>
+  <sup>
+   &#9733 55, pushed 22 days ago
+  </sup>
   and
   <a href="http://cran.r-project.org/web/packages/subsemble/index.html">
    subsemble
   </a>
   - Multi-algorithm ensemble learning packages.
-  <sup>
-   377 GitHub links in total 753 links, ★ 55, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/svmpath/index.html">
@@ -6941,49 +5948,37 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/sassoftware/enlighten-apply">
    enlighten-apply
   </a>
-  - Example code and materials that illustrate applications of SAS machine learning techniques.
-  <sup>
-   377 GitHub links in total 753 links, ★ 37, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 37, pushed 6 days ago
   </sup>
+  - Example code and materials that illustrate applications of SAS machine learning techniques.
  </li>
  <li>
   <a href="https://github.com/sassoftware/enlighten-integration">
    enlighten-integration
   </a>
-  - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
-  <sup>
-   377 GitHub links in total 753 links, ★ 23, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 23, pushed 11 days ago
   </sup>
+  - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
  </li>
  <li>
   <a href="https://github.com/sassoftware/enlighten-deep">
    enlighten-deep
   </a>
-  - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
-  <sup>
-   377 GitHub links in total 753 links, ★ 5, pushed 170 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 170 days ago
   </sup>
+  - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
  </li>
  <li>
   <a href="https://github.com/sassoftware/dm-flow">
    dm-flow
   </a>
-  - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
-  <sup>
-   377 GitHub links in total 753 links, ★ 9, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 19 days ago
   </sup>
+  - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
  </li>
 </ul>
 <p>
@@ -7011,37 +6006,28 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/scalanlp/breeze">
    Breeze
   </a>
-  - Breeze is a numerical processing library for Scala.
-  <sup>
-   377 GitHub links in total 753 links, ★ 1500, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1500, pushed 8 days ago
   </sup>
+  - Breeze is a numerical processing library for Scala.
  </li>
  <li>
   <a href="https://github.com/scalanlp/chalk">
    Chalk
   </a>
-  - Chalk is a natural language processing library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 200, pushed 565 days ago
-  </sup>
   <sup>
    &#9733 200, pushed 565 days ago
   </sup>
+  - Chalk is a natural language processing library.
  </li>
  <li>
   <a href="https://github.com/factorie/factorie">
    FACTORIE
   </a>
-  - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
-  <sup>
-   377 GitHub links in total 753 links, ★ 403, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 403, pushed 5 days ago
   </sup>
+  - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
  </li>
 </ul>
 <p>
@@ -7062,85 +6048,64 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/twitter/scalding">
    Scalding
   </a>
-  - A Scala API for Cascading
-  <sup>
-   377 GitHub links in total 753 links, ★ 2496, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 2496, pushed 5 days ago
   </sup>
+  - A Scala API for Cascading
  </li>
  <li>
   <a href="https://github.com/twitter/summingbird">
    Summing Bird
   </a>
-  - Streaming MapReduce with Scalding and Storm
-  <sup>
-   377 GitHub links in total 753 links, ★ 1706, pushed 87 days ago
-  </sup>
   <sup>
    &#9733 1706, pushed 88 days ago
   </sup>
+  - Streaming MapReduce with Scalding and Storm
  </li>
  <li>
   <a href="https://github.com/twitter/algebird">
    Algebird
   </a>
-  - Abstract Algebra for Scala
-  <sup>
-   377 GitHub links in total 753 links, ★ 1215, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 1215, pushed 6 days ago
   </sup>
+  - Abstract Algebra for Scala
  </li>
  <li>
   <a href="https://github.com/xerial/xerial">
    xerial
   </a>
-  - Data management utilities for Scala
-  <sup>
-   377 GitHub links in total 753 links, ★ 14, pushed 54 days ago
-  </sup>
   <sup>
    &#9733 14, pushed 54 days ago
   </sup>
+  - Data management utilities for Scala
  </li>
  <li>
   <a href="https://github.com/avibryant/simmer">
    simmer
   </a>
+  <sup>
+   &#9733 123, pushed 1077 days ago
+  </sup>
   - Reduce your data. A unix filter for algebird-powered aggregation.
-  <sup>
-   377 GitHub links in total 753 links, ★ 123, pushed 1076 days ago
-  </sup>
-  <sup>
-   &#9733 123, pushed 1076 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/PredictionIO/PredictionIO">
    PredictionIO
   </a>
-  - PredictionIO, a machine learning server for software developers and data engineers.
-  <sup>
-   377 GitHub links in total 753 links, ★ 9075, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 9075, pushed 5 days ago
   </sup>
+  - PredictionIO, a machine learning server for software developers and data engineers.
  </li>
  <li>
   <a href="https://github.com/BIDData/BIDMat">
    BIDMat
   </a>
-  - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
-  <sup>
-   377 GitHub links in total 753 links, ★ 190, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 190, pushed 1 days ago
   </sup>
+  - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
  </li>
  <li>
   <a href="http://www.wolfe.ml/">
@@ -7173,97 +6138,73 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/etsy/Conjecture">
    Conjecture
   </a>
-  - Scalable Machine Learning in Scalding
-  <sup>
-   377 GitHub links in total 753 links, ★ 307, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 307, pushed 1 days ago
   </sup>
+  - Scalable Machine Learning in Scalding
  </li>
  <li>
   <a href="https://github.com/stripe/brushfire">
    brushfire
   </a>
+  <sup>
+   &#9733 298, pushed 6 days ago
+  </sup>
   - Distributed decision tree ensemble learning in Scala
-  <sup>
-   377 GitHub links in total 753 links, ★ 298, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 298, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tresata/ganitha">
    ganitha
   </a>
-  - scalding powered machine learning
-  <sup>
-   377 GitHub links in total 753 links, ★ 110, pushed 532 days ago
-  </sup>
   <sup>
    &#9733 110, pushed 532 days ago
   </sup>
+  - scalding powered machine learning
  </li>
  <li>
   <a href="https://github.com/bigdatagenomics/adam">
    adam
   </a>
-  - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-  <sup>
-   377 GitHub links in total 753 links, ★ 424, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 424, pushed 3 days ago
   </sup>
+  - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
  </li>
  <li>
   <a href="https://github.com/bioscala/bioscala">
    bioscala
   </a>
-  - Bioinformatics for the Scala programming language
-  <sup>
-   377 GitHub links in total 753 links, ★ 68, pushed 31 days ago
-  </sup>
   <sup>
    &#9733 68, pushed 31 days ago
   </sup>
+  - Bioinformatics for the Scala programming language
  </li>
  <li>
   <a href="https://github.com/BIDData/BIDMach">
    BIDMach
   </a>
-  - CPU and GPU-accelerated Machine Learning Library.
-  <sup>
-   377 GitHub links in total 753 links, ★ 569, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 569, pushed 2 days ago
   </sup>
+  - CPU and GPU-accelerated Machine Learning Library.
  </li>
  <li>
   <a href="https://github.com/p2t2/figaro">
    Figaro
   </a>
-  - a Scala library for constructing probabilistic models.
-  <sup>
-   377 GitHub links in total 753 links, ★ 310, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 310, pushed 4 days ago
   </sup>
+  - a Scala library for constructing probabilistic models.
  </li>
  <li>
   <a href="https://github.com/h2oai/sparkling-water">
    H2O Sparkling Water
   </a>
-  - H2O and Spark interoperability.
-  <sup>
-   377 GitHub links in total 753 links, ★ 292, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 292, pushed 5 days ago
   </sup>
+  - H2O and Spark interoperability.
  </li>
  <li>
   <a href="https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html">
@@ -7275,13 +6216,10 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/mandar2812/DynaML">
    DynaML
   </a>
-  - Scala Library/REPL for Machine Learning Research
-  <sup>
-   377 GitHub links in total 753 links, ★ 33, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 3 days ago
   </sup>
+  - Scala Library/REPL for Machine Learning Research
  </li>
 </ul>
 <p>
@@ -7303,25 +6241,19 @@ on MNIST digits[DEEP LEARNING]
   <a href="https://github.com/collinhundley/Swift-AI">
    Swift AI
   </a>
-  - Highly optimized artificial intelligence and machine learning library written in Swift.
-  <sup>
-   377 GitHub links in total 753 links, ★ 2758, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 2758, pushed 10 days ago
   </sup>
+  - Highly optimized artificial intelligence and machine learning library written in Swift.
  </li>
  <li>
   <a href="https://github.com/aleph7/BrainCore">
    BrainCore
   </a>
-  - The iOS and OS X neural network framework
-  <sup>
-   377 GitHub links in total 753 links, ★ 47, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 47, pushed 1 days ago
   </sup>
+  - The iOS and OS X neural network framework
  </li>
  <li>
   <a href="https://github.com/scottsievert/swix">
@@ -7341,13 +6273,10 @@ It currently allows using deep convolutional neural network models trained in Ca
   <a href="https://github.com/KevinCoble/AIToolbox">
    AIToolbox
   </a>
+  <sup>
+   &#9733 318, pushed 4 days ago
+  </sup>
   - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-  <sup>
-   377 GitHub links in total 753 links, ★ 318, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 318, pushed 3 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -7363,9 +6292,6 @@ It currently allows using deep convolutional neural network models trained in Ca
   <a href="https://github.com/vinta/awesome-python">
    vinta
   </a>
-  <sup>
-   377 GitHub links in total 753 links, ★ 20412, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 20412, pushed 3 days ago
   </sup>

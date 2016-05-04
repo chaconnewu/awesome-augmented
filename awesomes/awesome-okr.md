@@ -224,7 +224,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
   <a href="http://blog.betterworks.com/keys-okr-success-qa-john-doerr/">
    John Doerr on success using OKR
   </a>
-  : Keys to OKR Success: A Q&A; with the Man Who Introduced OKRs to Google, John Doerr
+  : Keys to OKR Success: A Q&A with the Man Who Introduced OKRs to Google, John Doerr
  </li>
  <li>
   <a href="https://blog.betterworks.com/how-google-grew/">

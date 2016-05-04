@@ -34,161 +34,122 @@
   <a href="https://github.com/ReactiveX/RxAndroid">
    RxAndroid
   </a>
+  <sup>
+   &#9733 6595, pushed 2 days ago
+  </sup>
   - Android specific bindings for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 6595, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 6595, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/JakeWharton/RxBinding">
    RxBinding
   </a>
-  - RxJava binding APIs for Android UI widgets from the platform and support libraries.
-  <sup>
-   31 GitHub links in total 42 links, ★ 2582, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 2582, pushed 27 days ago
   </sup>
+  - RxJava binding APIs for Android UI widgets from the platform and support libraries.
  </li>
  <li>
   <a href="https://github.com/f2prateek/rx-preferences">
    rx-preferences
   </a>
+  <sup>
+   &#9733 689, pushed 87 days ago
+  </sup>
   - Reactive
   <code>
    SharedPreferences
   </code>
   for Android.
-  <sup>
-   31 GitHub links in total 42 links, ★ 689, pushed 87 days ago
-  </sup>
-  <sup>
-   &#9733 689, pushed 87 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tbruyelle/RxPermissions">
    RxPermissions
   </a>
-  - Android M runtime permissions powered by RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 1090, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 1090, pushed 12 days ago
   </sup>
+  - Android M runtime permissions powered by RxJava.
  </li>
  <li>
   <a href="https://github.com/square/sqlbrite">
    SQLBrite
   </a>
-  - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
-  <sup>
-   31 GitHub links in total 42 links, ★ 2472, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 2472, pushed 5 days ago
   </sup>
+  - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
  </li>
  <li>
   <a href="https://github.com/mcharmas/Android-ReactiveLocation">
    Android-ReactiveLocation
   </a>
-  - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
-  <sup>
-   31 GitHub links in total 42 links, ★ 1196, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 1196, pushed 42 days ago
   </sup>
+  - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
  </li>
  <li>
   <a href="https://github.com/pwittchen/ReactiveNetwork">
    ReactiveNetwork
   </a>
-  - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
-  <sup>
-   31 GitHub links in total 42 links, ★ 582, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 582, pushed 3 days ago
   </sup>
+  - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
  </li>
  <li>
   <a href="https://github.com/pwittchen/ReactiveSensors">
    ReactiveSensors
   </a>
-  - Android library monitoring hardware sensors with RxJava Observables.
-  <sup>
-   31 GitHub links in total 42 links, ★ 71, pushed 78 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 78 days ago
   </sup>
+  - Android library monitoring hardware sensors with RxJava Observables.
  </li>
  <li>
   <a href="https://github.com/hzsweers/RxPalette">
    RxPalette
   </a>
-  - RxJava bindings for the Palette library on Android.
-  <sup>
-   31 GitHub links in total 42 links, ★ 172, pushed 52 days ago
-  </sup>
   <sup>
    &#9733 172, pushed 52 days ago
   </sup>
+  - RxJava bindings for the Palette library on Android.
  </li>
  <li>
   <a href="https://github.com/davidmoten/rxjava-jdbc">
    rxjava-jdbc
   </a>
-  - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
-  <sup>
-   31 GitHub links in total 42 links, ★ 308, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 308, pushed 27 days ago
   </sup>
+  - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
  </li>
  <li>
   <a href="https://github.com/davidmoten/rxjava-file">
    rxjava-file
   </a>
-  - RxJava observables for files including NIO events.
-  <sup>
-   31 GitHub links in total 42 links, ★ 33, pushed 120 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 120 days ago
   </sup>
+  - RxJava observables for files including NIO events.
  </li>
  <li>
   <a href="https://github.com/pakoito/RxTuples">
    RxTuples
   </a>
-  - Simple tuples to use with RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 84, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 84, pushed 148 days ago
   </sup>
+  - Simple tuples to use with RxJava.
  </li>
  <li>
   <a href="https://github.com/blipinsk/RxAnimationBinding">
    RxAnimationBinding
   </a>
-  - RxJava binding APIs for Android's animations.
-  <sup>
-   31 GitHub links in total 42 links, ★ 53, pushed 73 days ago
-  </sup>
   <sup>
    &#9733 53, pushed 73 days ago
   </sup>
+  - RxJava binding APIs for Android's animations.
  </li>
 </ul>
 <h2>
@@ -199,170 +160,128 @@
   <a href="https://github.com/ReactiveX/RxJavaAsyncUtil">
    RxJavaAsyncUtil
   </a>
-  - Async utilities for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 60, pushed 146 days ago
-  </sup>
   <sup>
    &#9733 60, pushed 146 days ago
   </sup>
+  - Async utilities for RxJava.
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxJavaJoins">
    RxJavaJoins
   </a>
-  - Joins operators for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 37, pushed 410 days ago
-  </sup>
   <sup>
    &#9733 37, pushed 410 days ago
   </sup>
+  - Joins operators for RxJava.
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxJavaMath">
    RxJavaMath
   </a>
-  - Math operators for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 32, pushed 311 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 311 days ago
   </sup>
+  - Math operators for RxJava.
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxJavaString">
    RxJavaString
   </a>
-  - 
-String and Byte operators for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 72, pushed 46 days ago
-  </sup>
   <sup>
    &#9733 72, pushed 46 days ago
   </sup>
+  - 
+String and Byte operators for RxJava.
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxJavaComputationExpressions">
    RxJavaComputationExpressions
   </a>
-  - Computation expressions for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 31, pushed 196 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 196 days ago
   </sup>
+  - Computation expressions for RxJava.
  </li>
  <li>
   <a href="https://github.com/davidmoten/rxjava-extras">
    rxjava-extras
   </a>
-  - Utilities for use with RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 112, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 112, pushed 6 days ago
   </sup>
+  - Utilities for use with RxJava.
  </li>
  <li>
   <a href="https://github.com/pakoito/RxActions">
    RxActions
   </a>
-  - Simple ActionN composition to use with RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 27, pushed 142 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 142 days ago
   </sup>
+  - Simple ActionN composition to use with RxJava.
  </li>
  <li>
   <a href="https://github.com/JakeWharton/RxRelay">
    RxRelay
   </a>
-  - RxJava types that are both an Observable and an Action1.
-  <sup>
-   31 GitHub links in total 42 links, ★ 616, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 616, pushed 23 days ago
   </sup>
+  - RxJava types that are both an Observable and an Action1.
  </li>
  <li>
   <a href="https://github.com/android10/frodo">
    Frodo
   </a>
-  - Android Library for Logging RxJava Observables and Subscribers.
-  <sup>
-   31 GitHub links in total 42 links, ★ 698, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 698, pushed 9 days ago
   </sup>
+  - Android Library for Logging RxJava Observables and Subscribers.
  </li>
  <li>
   <a href="https://github.com/pakoito/RxPartialApplication">
    RxPartialApplication
   </a>
-  - Simple partial application for FuncN and ActionN on RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 22, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 21 days ago
   </sup>
+  - Simple partial application for FuncN and ActionN on RxJava.
  </li>
  <li>
   <a href="https://github.com/pakoito/RxCurrying">
    RxCurrying
   </a>
-  - Simple currying for FuncN and ActionN on RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 22, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 20 days ago
   </sup>
+  - Simple currying for FuncN and ActionN on RxJava.
  </li>
  <li>
   <a href="https://github.com/eleventigers/rxeither">
    RxEither
   </a>
-  - Either type for RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 66, pushed 42 days ago
-  </sup>
   <sup>
    &#9733 66, pushed 42 days ago
   </sup>
+  - Either type for RxJava.
  </li>
  <li>
   <a href="https://github.com/JakeWharton/RxReplayingShare">
    RxReplayingShare
   </a>
-  - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
-  <sup>
-   31 GitHub links in total 42 links, ★ 215, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 215, pushed 33 days ago
   </sup>
+  - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
  </li>
  <li>
   <a href="https://github.com/pakoito/RxFunctions">
    RxFunctions
   </a>
-  - Advanced Function composition to use with RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 42, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 21 days ago
   </sup>
+  - Advanced Function composition to use with RxJava.
  </li>
  <li>
   <a href="https://bitbucket.org/littlerobots/rxlint">
@@ -379,25 +298,19 @@ String and Byte operators for RxJava.
   <a href="https://github.com/ribot/assertj-rx">
    assertj-rx
   </a>
-  - AssertJ assertions for RxJava Observables.
-  <sup>
-   31 GitHub links in total 42 links, ★ 137, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 137, pushed 4 days ago
   </sup>
+  - AssertJ assertions for RxJava Observables.
  </li>
  <li>
   <a href="https://github.com/novoda/rxpresso">
    rxpresso
   </a>
-  - Easy Espresso UI testing for Android applications using RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 296, pushed 249 days ago
-  </sup>
   <sup>
    &#9733 296, pushed 249 days ago
   </sup>
+  - Easy Espresso UI testing for Android applications using RxJava.
  </li>
 </ul>
 <h2>
@@ -408,25 +321,19 @@ String and Byte operators for RxJava.
   <a href="https://github.com/kaushikgopal/RxJava-Android-Samples">
    RxJava-Android-Samples
   </a>
-  - Learning RxJava for Android by example.
-  <sup>
-   31 GitHub links in total 42 links, ★ 2956, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 2956, pushed 1 days ago
   </sup>
+  - Learning RxJava for Android by example.
  </li>
  <li>
   <a href="https://github.com/Froussios/Intro-To-RxJava">
    Intro-To-RxJava
   </a>
-  - An extensive tutorial on RxJava.
-  <sup>
-   31 GitHub links in total 42 links, ★ 418, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 418, pushed 29 days ago
   </sup>
+  - An extensive tutorial on RxJava.
  </li>
 </ul>
 <h2>

@@ -236,13 +236,10 @@ Similar to the previous one, but with different algorithms.
   <a href="https://github.com/liuxinyu95/AlgoXY">
    Elementary Algorithms
   </a>
-  - An awesome book about algorithms and data structures.
-  <sup>
-   32 GitHub links in total 97 links, ★ 1894, pushed 9 days ago
-  </sup>
   <sup>
    &#9733 1894, pushed 9 days ago
   </sup>
+  - An awesome book about algorithms and data structures.
  </li>
  <li>
   <a href="http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467">
@@ -283,9 +280,6 @@ Similar to the previous one, but with different algorithms.
    C
   </a>
   <sup>
-   32 GitHub links in total 97 links, ★ 508, pushed 17 days ago
-  </sup>
-  <sup>
    &#9733 508, pushed 17 days ago
   </sup>
  </li>
@@ -293,9 +287,6 @@ Similar to the previous one, but with different algorithms.
   <a href="https://github.com/BrunoRB/algorithms.coffee">
    CoffeeScript
   </a>
-  <sup>
-   32 GitHub links in total 97 links, ★ 31, pushed 642 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 642 days ago
   </sup>
@@ -307,33 +298,24 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/shkolovy/classic-algorithms">
      by @shkolovy
     </a>
+    <sup>
+     &#9733 5, pushed 827 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/aalhour/C-Sharp-Algorithms">
      by @aalhour
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 604, pushed 2 days ago
-    </sup>
-    <sup>
      &#9733 604, pushed 2 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 5, pushed 827 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 827 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/xtaci/algorithms">
    C++
   </a>
-  <sup>
-   32 GitHub links in total 97 links, ★ 926, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 926, pushed 7 days ago
   </sup>
@@ -343,9 +325,6 @@ Similar to the previous one, but with different algorithms.
    Erlang
   </a>
   <sup>
-   32 GitHub links in total 97 links, ★ 51, pushed 45 days ago
-  </sup>
-  <sup>
    &#9733 51, pushed 45 days ago
   </sup>
  </li>
@@ -353,9 +332,6 @@ Similar to the previous one, but with different algorithms.
   <a href="https://github.com/arnauddri/algorithms">
    Go
   </a>
-  <sup>
-   32 GitHub links in total 97 links, ★ 879, pushed 456 days ago
-  </sup>
   <sup>
    &#9733 879, pushed 456 days ago
   </sup>
@@ -367,14 +343,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/phishman3579/java-algorithms-implementation">
      by @phishman3579
     </a>
+    <sup>
+     &#9733 726, pushed 110 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/asmolich/algorithms">
      by @asmolich
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 3, pushed 661 days ago
-    </sup>
     <sup>
      &#9733 3, pushed 661 days ago
     </sup>
@@ -384,9 +360,6 @@ Similar to the previous one, but with different algorithms.
      by @psjava
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 25, pushed 377 days ago
-    </sup>
-    <sup>
      &#9733 25, pushed 377 days ago
     </sup>
    </li>
@@ -394,9 +367,6 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/jeandersonbc/algorithms-and-ds">
      by @jeandersonbc
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 5, pushed 550 days ago
-    </sup>
     <sup>
      &#9733 5, pushed 550 days ago
     </sup>
@@ -406,19 +376,10 @@ Similar to the previous one, but with different algorithms.
      by @pedrovgs
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 1505, pushed 66 days ago
-    </sup>
-    <sup>
      &#9733 1505, pushed 66 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 726, pushed 110 days ago
-  </sup>
-  <sup>
-   &#9733 726, pushed 110 days ago
-  </sup>
  </li>
  <li>
   JavaScript
@@ -427,14 +388,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/felipernb/algorithms.js">
      by @felipernb
     </a>
+    <sup>
+     &#9733 2099, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nzakas/computer-science-in-javascript">
      by @nzakas
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 3713, pushed 21 days ago
-    </sup>
     <sup>
      &#9733 3713, pushed 22 days ago
     </sup>
@@ -444,9 +405,6 @@ Similar to the previous one, but with different algorithms.
      by @duereg
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 272, pushed 107 days ago
-    </sup>
-    <sup>
      &#9733 272, pushed 107 days ago
     </sup>
    </li>
@@ -455,19 +413,10 @@ Similar to the previous one, but with different algorithms.
      by @mgechev
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 1783, pushed 24 days ago
-    </sup>
-    <sup>
      &#9733 1783, pushed 24 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 2099, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 2099, pushed 2 days ago
-  </sup>
  </li>
  <li>
   Objective-C
@@ -476,14 +425,11 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/EvgenyKarkan/EKAlgorithms">
      by @ EvgenyKarkan
     </a>
+    <sup>
+     &#9733 1970, pushed 29 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 1970, pushed 29 days ago
-  </sup>
-  <sup>
-   &#9733 1970, pushed 29 days ago
-  </sup>
  </li>
  <li>
   Python
@@ -492,14 +438,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/nryoung/algorithms">
      by @nryoung
     </a>
+    <sup>
+     &#9733 1424, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/prakhar1989/Algorithms">
      by @prakhar1989
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 1363, pushed 26 days ago
-    </sup>
     <sup>
      &#9733 1363, pushed 26 days ago
     </sup>
@@ -509,19 +455,10 @@ Similar to the previous one, but with different algorithms.
      by @laurentluce
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 157, pushed 155 days ago
-    </sup>
-    <sup>
      &#9733 157, pushed 155 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 1424, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1424, pushed 3 days ago
-  </sup>
  </li>
  <li>
   Ruby
@@ -530,14 +467,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/kanwei/algorithms">
      by @kanwei
     </a>
+    <sup>
+     &#9733 1865, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sagivo/algorithms">
      by @sagivo
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 2411, pushed 4 days ago
-    </sup>
     <sup>
      &#9733 2411, pushed 4 days ago
     </sup>
@@ -547,27 +484,15 @@ Similar to the previous one, but with different algorithms.
      by @kumar91gopi
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 1, pushed 6 days ago
-    </sup>
-    <sup>
      &#9733 1, pushed 7 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 1865, pushed 42 days ago
-  </sup>
-  <sup>
-   &#9733 1865, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/vkostyukov/scalacaster">
    Scala
   </a>
-  <sup>
-   32 GitHub links in total 97 links, ★ 602, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 602, pushed 39 days ago
   </sup>
@@ -579,14 +504,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/kingreza/Swift-Algorithms-Strings-">
      by @kingreza
     </a>
+    <sup>
+     &#9733 15, pushed 316 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/waynewbishop/SwiftStructures">
      by @waynewbishop
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 1322, pushed 4 days ago
-    </sup>
     <sup>
      &#9733 1322, pushed 5 days ago
     </sup>
@@ -596,19 +521,10 @@ Similar to the previous one, but with different algorithms.
      by @hollance
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 5152, pushed 4 days ago
-    </sup>
-    <sup>
      &#9733 5152, pushed 4 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 15, pushed 316 days ago
-  </sup>
-  <sup>
-   &#9733 15, pushed 316 days ago
-  </sup>
  </li>
  <li>
   Language agnostic
@@ -617,14 +533,14 @@ Similar to the previous one, but with different algorithms.
     <a href="https://github.com/kennyledet/Algorithm-Implementations">
      by @kennyledet
     </a>
+    <sup>
+     &#9733 1698, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/indy256/codelibrary">
      by @indy256
     </a>
-    <sup>
-     32 GitHub links in total 97 links, ★ 291, pushed 41 days ago
-    </sup>
     <sup>
      &#9733 291, pushed 41 days ago
     </sup>
@@ -639,19 +555,10 @@ Similar to the previous one, but with different algorithms.
      by @patmorin
     </a>
     <sup>
-     32 GitHub links in total 97 links, ★ 365, pushed 13 days ago
-    </sup>
-    <sup>
      &#9733 365, pushed 13 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   32 GitHub links in total 97 links, ★ 1698, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 1698, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -810,13 +717,10 @@ A tool that allows you to create flowcharts that can simulate real algorithms.
   <a href="https://github.com/donnemartin/interactive-coding-challenges">
    interactive-coding-challenges
   </a>
-  - Interactive, test-driven coding challenges (algorithms and data structures).
-  <sup>
-   32 GitHub links in total 97 links, ★ 2410, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 2410, pushed 11 days ago
   </sup>
+  - Interactive, test-driven coding challenges (algorithms and data structures).
  </li>
 </ul>
 <h2>

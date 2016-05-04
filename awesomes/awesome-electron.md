@@ -102,133 +102,100 @@
   <a href="https://github.com/PalmerAL/Min">
    Min
   </a>
-  - Minimal web browser.
-  <sup>
-   144 GitHub links in total 207 links, ★ 603, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 603, pushed 2 days ago
   </sup>
+  - Minimal web browser.
  </li>
  <li>
   <a href="https://github.com/princejwesley/Mancy">
    Mancy
   </a>
+  <sup>
+   &#9733 1703, pushed 10 days ago
+  </sup>
   - JavaScript REPL.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1703, pushed 9 days ago
-  </sup>
-  <sup>
-   &#9733 1703, pushed 9 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/zz85/space-radar">
    SpaceRadar
   </a>
-  - Interactive disk space and memory visualization.
-  <sup>
-   144 GitHub links in total 207 links, ★ 273, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 273, pushed 55 days ago
   </sup>
+  - Interactive disk space and memory visualization.
  </li>
  <li>
   <a href="https://github.com/k0kubun/Nocturn">
    Nocturn
   </a>
-  - Twitter client.
-  <sup>
-   144 GitHub links in total 207 links, ★ 212, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 212, pushed 3 days ago
   </sup>
+  - Twitter client.
  </li>
  <li>
   <a href="https://github.com/muan/mojibar">
    Mojibar
   </a>
-  - Emoji searcher in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1123, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 1123, pushed 7 days ago
   </sup>
+  - Emoji searcher in your menubar.
  </li>
  <li>
   <a href="https://github.com/mafintosh/playback">
    Playback
   </a>
-  - Video player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1136, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 1136, pushed 12 days ago
   </sup>
+  - Video player.
  </li>
  <li>
   <a href="https://github.com/shockone/black-screen">
    Black Screen
   </a>
-  - Terminal emulator.
-  <sup>
-   144 GitHub links in total 207 links, ★ 7143, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 7143, pushed 2 days ago
   </sup>
+  - Terminal emulator.
  </li>
  <li>
   <a href="https://github.com/atom/atom">
    Atom
   </a>
-  - Code editor.
-  <sup>
-   144 GitHub links in total 207 links, ★ 27188, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 27188, pushed 2 days ago
   </sup>
+  - Code editor.
  </li>
  <li>
   <a href="https://github.com/Microsoft/vscode">
    Visual Studio Code
   </a>
-  - Cross-platform IDE.
-  <sup>
-   144 GitHub links in total 207 links, ★ 13794, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 13794, pushed 2 days ago
   </sup>
+  - Cross-platform IDE.
  </li>
  <li>
   <a href="https://github.com/nylas/N1">
    N1
   </a>
-  - Extensible email client.
-  <sup>
-   144 GitHub links in total 207 links, ★ 17348, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 17348, pushed 4 days ago
   </sup>
+  - Extensible email client.
  </li>
  <li>
   <a href="https://github.com/brave/browser-laptop">
    Brave
   </a>
+  <sup>
+   &#9733 2686, pushed 2 days ago
+  </sup>
   - Privacy-focused web browser.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2686, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 2686, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <h6>
@@ -239,97 +206,73 @@
   <a href="https://github.com/jlord/git-it-electron">
    Git-it
   </a>
-  - Teaches you Git and GitHub.
-  <sup>
-   144 GitHub links in total 207 links, ★ 424, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 424, pushed 8 days ago
   </sup>
+  - Teaches you Git and GitHub.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/caprine">
    Caprine
   </a>
-  - Unofficial Facebook Messenger app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 891, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 891, pushed 3 days ago
   </sup>
+  - Unofficial Facebook Messenger app.
  </li>
  <li>
   <a href="https://github.com/Automattic/simplenote-electron">
    Simplenote
   </a>
-  - Note keeper.
-  <sup>
-   144 GitHub links in total 207 links, ★ 227, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 227, pushed 4 days ago
   </sup>
+  - Note keeper.
  </li>
  <li>
   <a href="https://github.com/LeeChSien/nuTorrent">
    nuTorrent
   </a>
-  - BitTorrent client.
-  <sup>
-   144 GitHub links in total 207 links, ★ 114, pushed 165 days ago
-  </sup>
   <sup>
    &#9733 114, pushed 165 days ago
   </sup>
+  - BitTorrent client.
  </li>
  <li>
   <a href="https://github.com/brrd/Abricotine">
    Abricotine
   </a>
-  - Markdown editor with inline preview.
-  <sup>
-   144 GitHub links in total 207 links, ★ 808, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 808, pushed 5 days ago
   </sup>
+  - Markdown editor with inline preview.
  </li>
  <li>
   <a href="https://github.com/luin/medis">
    Medis
   </a>
-  - Redis database management.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2420, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 2420, pushed 5 days ago
   </sup>
+  - Redis database management.
  </li>
  <li>
   <a href="https://github.com/bluedaniel/kakapo-app">
    Kakapo
   </a>
-  - Ambient sound mixer for relaxation or productivity.
-  <sup>
-   144 GitHub links in total 207 links, ★ 193, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 193, pushed 18 days ago
   </sup>
+  - Ambient sound mixer for relaxation or productivity.
  </li>
  <li>
   <a href="https://github.com/evancohen/smart-mirror">
    SmartMirror
   </a>
-  - Voice controlled smart mirror.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1227, pushed 0 days ago
-  </sup>
   <sup>
    &#9733 1227, pushed 0 days ago
   </sup>
+  - Voice controlled smart mirror.
  </li>
  <li>
   <a href="https://github.com/hachibasu/koko">
@@ -341,61 +284,46 @@
   <a href="https://github.com/antelle/keeweb">
    KeeWeb
   </a>
-  - Unofficial KeePass app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2795, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2795, pushed 2 days ago
   </sup>
+  - Unofficial KeePass app.
  </li>
  <li>
   <a href="https://github.com/andresgottlieb/soundcast">
    Soundcast
   </a>
-  - Cast OS X audio to Chromecast from your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 419, pushed 100 days ago
-  </sup>
   <sup>
    &#9733 419, pushed 100 days ago
   </sup>
+  - Cast OS X audio to Chromecast from your menubar.
  </li>
  <li>
   <a href="https://github.com/ekonstantinidis/gitify">
    Gitify
   </a>
-  - GitHub notifications in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 994, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 994, pushed 2 days ago
   </sup>
+  - GitHub notifications in your menubar.
  </li>
  <li>
   <a href="https://github.com/moose-team/friends">
    Friends
   </a>
-  - P2P chat.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2431, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 2431, pushed 39 days ago
   </sup>
+  - P2P chat.
  </li>
  <li>
   <a href="https://github.com/gillesdemey/Cumulus">
    Cumulus
   </a>
+  <sup>
+   &#9733 496, pushed 3 days ago
+  </sup>
   - SoundCloud player in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 496, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 496, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://kitematic.com">
@@ -407,37 +335,28 @@
   <a href="https://github.com/pwambach/fat-file-finder">
    FatFileFinder
   </a>
-  - Find large files on your machine.
-  <sup>
-   144 GitHub links in total 207 links, ★ 54, pushed 228 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 228 days ago
   </sup>
+  - Find large files on your machine.
  </li>
  <li>
   <a href="https://github.com/maxogden/screencat">
    ScreenCat
   </a>
-  - Screen sharing & remote collaboration.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1515, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 1515, pushed 75 days ago
   </sup>
+  - Screen sharing & remote collaboration.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-app">
    Gulp
   </a>
-  - Run Gulp tasks from your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 887, pushed 311 days ago
-  </sup>
   <sup>
    &#9733 887, pushed 311 days ago
   </sup>
+  - Run Gulp tasks from your menubar.
  </li>
  <li>
   <a href="https://github.com/mapbox/mapbox-studio">
@@ -455,133 +374,100 @@
   <a href="https://github.com/maddox/kart">
    Kart
   </a>
-  - Front-end for RetroArch.
-  <sup>
-   144 GitHub links in total 207 links, ★ 332, pushed 228 days ago
-  </sup>
   <sup>
    &#9733 332, pushed 228 days ago
   </sup>
+  - Front-end for RetroArch.
  </li>
  <li>
   <a href="https://github.com/yoshuawuyts/vmd">
    Vmd
   </a>
+  <sup>
+   &#9733 374, pushed 66 days ago
+  </sup>
   - Preview Markdown files.
-  <sup>
-   144 GitHub links in total 207 links, ★ 374, pushed 65 days ago
-  </sup>
-  <sup>
-   &#9733 374, pushed 65 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cheeaun/kyoku">
    Kyoku
   </a>
-  - Displays current iTunes song.
-  <sup>
-   144 GitHub links in total 207 links, ★ 54, pushed 185 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 185 days ago
   </sup>
+  - Displays current iTunes song.
  </li>
  <li>
   <a href="https://github.com/Nekle/greader">
    GReader
   </a>
-  - Collect and read offline readme files of GitHub repos.
-  <sup>
-   144 GitHub links in total 207 links, ★ 64, pushed 143 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 143 days ago
   </sup>
+  - Collect and read offline readme files of GitHub repos.
  </li>
  <li>
   <a href="https://github.com/leanote/desktop-app">
    Leanote
   </a>
-  - Cloud notepad.
-  <sup>
-   144 GitHub links in total 207 links, ★ 616, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 616, pushed 5 days ago
   </sup>
+  - Cloud notepad.
  </li>
  <li>
   <a href="https://github.com/prt2121/Snapper">
    Snapper
   </a>
-  - Screen capturing & recording for Android devices.
-  <sup>
-   144 GitHub links in total 207 links, ★ 51, pushed 70 days ago
-  </sup>
   <sup>
    &#9733 51, pushed 71 days ago
   </sup>
+  - Screen capturing & recording for Android devices.
  </li>
  <li>
   <a href="https://github.com/imagemin/imagemin-app">
    Imagemin
   </a>
-  - Minify images.
-  <sup>
-   144 GitHub links in total 207 links, ★ 522, pushed 272 days ago
-  </sup>
   <sup>
    &#9733 522, pushed 272 days ago
   </sup>
+  - Minify images.
  </li>
  <li>
   <a href="https://github.com/webuildsg/osx">
    We Build SG
   </a>
-  - Upcoming events & recently updated repos from webuild.sg.
-  <sup>
-   144 GitHub links in total 207 links, ★ 33, pushed 310 days ago
-  </sup>
   <sup>
    &#9733 33, pushed 310 days ago
   </sup>
+  - Upcoming events & recently updated repos from webuild.sg.
  </li>
  <li>
   <a href="https://github.com/jenslind/piglet">
    Piglet
   </a>
-  - Run Grunt tasks from your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 55, pushed 322 days ago
-  </sup>
   <sup>
    &#9733 55, pushed 322 days ago
   </sup>
+  - Run Grunt tasks from your menubar.
  </li>
  <li>
   <a href="https://github.com/whoisandie/yoda">
    Yoda
   </a>
+  <sup>
+   &#9733 229, pushed 285 days ago
+  </sup>
   - Browse and download YouTube videos.
-  <sup>
-   144 GitHub links in total 207 links, ★ 229, pushed 284 days ago
-  </sup>
-  <sup>
-   &#9733 229, pushed 284 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mmckegg/loop-drop-app">
    Loop Drop
   </a>
-  - MIDI looper and synth for live electronic music performances.
-  <sup>
-   144 GitHub links in total 207 links, ★ 351, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 351, pushed 25 days ago
   </sup>
+  - MIDI looper and synth for live electronic music performances.
  </li>
  <li>
   <a href="https://github.com/fireball-x/editor-framework">
@@ -593,97 +479,73 @@
   <a href="https://github.com/frankhale/toby">
    Toby
   </a>
-  - YouTube player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 57, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 57, pushed 1 days ago
   </sup>
+  - YouTube player.
  </li>
  <li>
   <a href="https://github.com/EragonJ/Kaku">
    Kaku
   </a>
-  - Music player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 315, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 315, pushed 5 days ago
   </sup>
+  - Music player.
  </li>
  <li>
   <a href="https://github.com/yeoman/yeoman-app">
    Yeoman
   </a>
-  - Scaffold projects using Yeoman.
-  <sup>
-   144 GitHub links in total 207 links, ★ 694, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 694, pushed 36 days ago
   </sup>
+  - Scaffold projects using Yeoman.
  </li>
  <li>
   <a href="https://github.com/minodisk/markn">
    Markn
   </a>
-  - Markdown viewer.
-  <sup>
-   144 GitHub links in total 207 links, ★ 93, pushed 77 days ago
-  </sup>
   <sup>
    &#9733 93, pushed 77 days ago
   </sup>
+  - Markdown viewer.
  </li>
  <li>
   <a href="https://github.com/rhysd/Shiba">
    Shiba
   </a>
-  - Live Markdown preview with linting.
-  <sup>
-   144 GitHub links in total 207 links, ★ 245, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 245, pushed 19 days ago
   </sup>
+  - Live Markdown preview with linting.
  </li>
  <li>
   <a href="https://github.com/Bahlaouane-Hamza/Yays">
    Yays
   </a>
-  - YouTube music player in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 34, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 44 days ago
   </sup>
+  - YouTube music player in your menubar.
  </li>
  <li>
   <a href="https://github.com/sapjax/TimoFM">
    TimoFM
   </a>
-  - DoubanFM music player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 209, pushed 40 days ago
-  </sup>
   <sup>
    &#9733 209, pushed 40 days ago
   </sup>
+  - DoubanFM music player.
  </li>
  <li>
   <a href="https://github.com/maxogden/monu">
    Monu
   </a>
-  - Process monitoring.
-  <sup>
-   144 GitHub links in total 207 links, ★ 947, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 947, pushed 92 days ago
   </sup>
+  - Process monitoring.
  </li>
  <li>
   <a href="https://teseve.github.io">
@@ -695,13 +557,10 @@
   <a href="https://github.com/ragingwind/devdogs">
    DevDogs
   </a>
-  - DevDocs.io API documentation.
-  <sup>
-   144 GitHub links in total 207 links, ★ 115, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 115, pushed 51 days ago
   </sup>
+  - DevDocs.io API documentation.
  </li>
  <li>
   <a href="https://rhysd.github.io/Trendy/">
@@ -713,13 +572,10 @@
   <a href="https://github.com/twolfson/google-music-electron">
    google-music-electron
   </a>
-  - Unofficial Google music app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 163, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 163, pushed 6 days ago
   </sup>
+  - Unofficial Google music app.
  </li>
  <li>
   <a href="https://g07cha.github.io/pomodoro/">
@@ -737,97 +593,73 @@
   <a href="https://github.com/dvcrn/markright">
    MarkRight
   </a>
-  - GitHub flavored Markdown editor with live preview.
-  <sup>
-   144 GitHub links in total 207 links, ★ 715, pushed 152 days ago
-  </sup>
   <sup>
    &#9733 715, pushed 152 days ago
   </sup>
+  - GitHub flavored Markdown editor with live preview.
  </li>
  <li>
   <a href="https://github.com/officert/mongotron">
    Mongotron
   </a>
-  - MongoDB management tool.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1437, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 1437, pushed 12 days ago
   </sup>
+  - MongoDB management tool.
  </li>
  <li>
   <a href="https://github.com/colonizers/colonizers-desktop">
    Colonizers
   </a>
-  - "Catan" inspired board game.
-  <sup>
-   144 GitHub links in total 207 links, ★ 65, pushed 310 days ago
-  </sup>
   <sup>
    &#9733 65, pushed 310 days ago
   </sup>
+  - "Catan" inspired board game.
  </li>
  <li>
   <a href="https://github.com/mazehall/eintopf">
    Eintopf
   </a>
-  - Manage development projects with Docker.
-  <sup>
-   144 GitHub links in total 207 links, ★ 34, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 12 days ago
   </sup>
+  - Manage development projects with Docker.
  </li>
  <li>
   <a href="https://github.com/mawie81/whatsdesktop">
    WhatsDesktop
   </a>
-  - Unofficial WhatsApp app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 127, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 127, pushed 6 days ago
   </sup>
+  - Unofficial WhatsApp app.
  </li>
  <li>
   <a href="https://github.com/sqlectron/sqlectron-gui">
    Sqlectron
   </a>
-  - SQL client.
-  <sup>
-   144 GitHub links in total 207 links, ★ 316, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 316, pushed 2 days ago
   </sup>
+  - SQL client.
  </li>
  <li>
   <a href="https://github.com/khornberg/docker-indicator">
    docker-indicator
   </a>
+  <sup>
+   &#9733 12, pushed 143 days ago
+  </sup>
   - Unofficial Docker menubar app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 12, pushed 142 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 142 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/LightTable/LightTable">
    Light Table
   </a>
-  - Code editor with instant feedback.
-  <sup>
-   144 GitHub links in total 207 links, ★ 8867, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 8867, pushed 2 days ago
   </sup>
+  - Code editor with instant feedback.
  </li>
  <li>
   <a href="https://github.com/makotot/Tubehead">
@@ -839,49 +671,37 @@
   <a href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-">
    Google Play Music Desktop Player
   </a>
-  - Unofficial Google Play Music app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2489, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2489, pushed 2 days ago
   </sup>
+  - Unofficial Google Play Music app.
  </li>
  <li>
   <a href="https://github.com/auchenberg/chrome-devtools-app">
    Chrome DevTools
   </a>
-  - Chrome DevTools packaged as an app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1270, pushed 165 days ago
-  </sup>
   <sup>
    &#9733 1270, pushed 165 days ago
   </sup>
+  - Chrome DevTools packaged as an app.
  </li>
  <li>
   <a href="https://github.com/yeobara/yeobara-desktop">
    Yeobara
   </a>
-  - Meetup check-in with beacon.
-  <sup>
-   144 GitHub links in total 207 links, ★ 4, pushed 149 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 149 days ago
   </sup>
+  - Meetup check-in with beacon.
  </li>
  <li>
   <a href="https://github.com/steventhanna/proton">
    Proton
   </a>
-  - Markdown editor with live preview.
-  <sup>
-   144 GitHub links in total 207 links, ★ 35, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 35, pushed 51 days ago
   </sup>
+  - Markdown editor with live preview.
  </li>
  <li>
   <a href="https://github.com/uxebu/james">
@@ -893,25 +713,19 @@
   <a href="https://github.com/alchen/DTCP">
    DTCP
   </a>
-  - Twitter client.
-  <sup>
-   144 GitHub links in total 207 links, ★ 27, pushed 53 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 53 days ago
   </sup>
+  - Twitter client.
  </li>
  <li>
   <a href="https://github.com/fgnass/inbox-app">
    Inbox
   </a>
-  - Unofficial Google Inbox app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 62, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 62, pushed 26 days ago
   </sup>
+  - Unofficial Google Inbox app.
  </li>
  <li>
   <a href="http://a9.io/alienbox/">
@@ -923,265 +737,199 @@
   <a href="https://github.com/midnightSuyama/tweet-rec">
    tweet-rec
   </a>
-  - Tweet recording player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 5, pushed 75 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 75 days ago
   </sup>
+  - Tweet recording player.
  </li>
  <li>
   <a href="https://github.com/teesloane/snippet-bar">
    Snippet Bar
   </a>
-  - Copy-paste & re-use text snippets in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 20, pushed 67 days ago
-  </sup>
   <sup>
    &#9733 20, pushed 67 days ago
   </sup>
+  - Copy-paste & re-use text snippets in your menubar.
  </li>
  <li>
   <a href="https://github.com/geeeeeeeeek/electronic-wechat">
    Electronic WeChat
   </a>
-  - Unofficial WeChat app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2494, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 2494, pushed 4 days ago
   </sup>
+  - Unofficial WeChat app.
  </li>
  <li>
   <a href="https://github.com/xwartz/dida">
    dida
   </a>
-  - Add tasks to TickTick (滴答清单) with a shortcut.
-  <sup>
-   144 GitHub links in total 207 links, ★ 8, pushed 66 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 66 days ago
   </sup>
+  - Add tasks to TickTick (滴答清单) with a shortcut.
  </li>
  <li>
   <a href="https://github.com/kilian/fromscratch">
    FromScratch
   </a>
-  - Autosaving scratchpad.
-  <sup>
-   144 GitHub links in total 207 links, ★ 190, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 190, pushed 22 days ago
   </sup>
+  - Autosaving scratchpad.
  </li>
  <li>
   <a href="https://github.com/kalpetros/hawkpass-desktop">
    Hawkpass
   </a>
-  - Password generator.
-  <sup>
-   144 GitHub links in total 207 links, ★ 4, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 4 days ago
   </sup>
+  - Password generator.
  </li>
  <li>
   <a href="https://github.com/Zhangdroid/Gokotta">
    Gokotta
   </a>
+  <sup>
+   &#9733 129, pushed 5 days ago
+  </sup>
   - Music player.
-  <sup>
-   144 GitHub links in total 207 links, ★ 129, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 129, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lumios/shake">
    Shake
   </a>
-  - Japanese Earthquake Early Warning Notifier.
-  <sup>
-   144 GitHub links in total 207 links, ★ 12, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 13 days ago
   </sup>
+  - Japanese Earthquake Early Warning Notifier.
  </li>
  <li>
   <a href="https://github.com/vitorgalvao/fog">
    Fog
   </a>
-  - Unofficial Overcast podcast app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 17, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 12 days ago
   </sup>
+  - Unofficial Overcast podcast app.
  </li>
  <li>
   <a href="https://github.com/Thomas101/wmail">
    Wmail
   </a>
-  - Unofficial Gmail & Google Inbox app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 968, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 968, pushed 10 days ago
   </sup>
+  - Unofficial Gmail & Google Inbox app.
  </li>
  <li>
   <a href="https://github.com/BoostIO/Boostnote">
    Boostnote
   </a>
-  - Markdown note app for developers.
-  <sup>
-   144 GitHub links in total 207 links, ★ 195, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 195, pushed 3 days ago
   </sup>
+  - Markdown note app for developers.
  </li>
  <li>
   <a href="https://github.com/muffinista/before-dawn">
    Before Dawn
   </a>
-  - Screensaver tool.
-  <sup>
-   144 GitHub links in total 207 links, ★ 8, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 38 days ago
   </sup>
+  - Screensaver tool.
  </li>
  <li>
   <a href="https://github.com/nurtext/active-collab-desktop">
    Active Collab
   </a>
-  - Unofficial Active Collab app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 5, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 13 days ago
   </sup>
+  - Unofficial Active Collab app.
  </li>
  <li>
   <a href="https://github.com/appetizermonster/hain">
    Hain
   </a>
-  - Launcher for Windows.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1583, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 1583, pushed 3 days ago
   </sup>
+  - Launcher for Windows.
  </li>
  <li>
   <a href="https://github.com/MeoBeoI/Catify">
    Catify
   </a>
-  - Utility for Spotify.
-  <sup>
-   144 GitHub links in total 207 links, ★ 8, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 5 days ago
   </sup>
+  - Utility for Spotify.
  </li>
  <li>
   <a href="https://github.com/jenslind/minira">
    Minira
   </a>
-  - JIRA issues in your menubar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 12, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 10 days ago
   </sup>
+  - JIRA issues in your menubar.
  </li>
  <li>
   <a href="https://github.com/m0g/ansel">
    Ansel
   </a>
-  - Image organizer.
-  <sup>
-   144 GitHub links in total 207 links, ★ 15, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 18 days ago
   </sup>
+  - Image organizer.
  </li>
  <li>
   <a href="https://github.com/oakmac/cuttle">
    Cuttle
   </a>
-  - UI for the ClojureScript compiler.
-  <sup>
-   144 GitHub links in total 207 links, ★ 305, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 305, pushed 84 days ago
   </sup>
+  - UI for the ClojureScript compiler.
  </li>
  <li>
   <a href="https://github.com/hokein/electron-sample-apps">
    Sample apps
   </a>
-  - Sample apps to illustrate the usage of Electron APIs.
-  <sup>
-   144 GitHub links in total 207 links, ★ 566, pushed 20 days ago
-  </sup>
   <sup>
    &#9733 566, pushed 20 days ago
   </sup>
+  - Sample apps to illustrate the usage of Electron APIs.
  </li>
  <li>
   <a href="https://github.com/willmendesneto/build-checker-app">
    Build Checker App
   </a>
-  - Check CI-server build statuses.
-  <sup>
-   144 GitHub links in total 207 links, ★ 21, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 2 days ago
   </sup>
+  - Check CI-server build statuses.
  </li>
  <li>
   <a href="https://github.com/MayGo/backer-timetracker">
    Backer Timetracker
   </a>
-  - Tracks your time.
-  <sup>
-   144 GitHub links in total 207 links, ★ 8, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 2 days ago
   </sup>
+  - Tracks your time.
  </li>
  <li>
   <a href="https://github.com/tryghost/ghost-desktop">
    Ghost
   </a>
-  - A professional publishing platform.
-  <sup>
-   144 GitHub links in total 207 links, ★ 284, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 284, pushed 3 days ago
   </sup>
+  - A professional publishing platform.
  </li>
 </ul>
 <h3>
@@ -1341,67 +1089,52 @@
   <a href="https://github.com/sindresorhus/electron-boilerplate">
    electron-boilerplate
   </a>
+  <sup>
+   &#9733 275, pushed 14 days ago
+  </sup>
   <em>
    (by sindresorhus)
   </em>
   - Boilerplate to kickstart creating an app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 275, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 275, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/generator-electron">
    generator-electron
   </a>
-  - Scaffold out an app boilerplate.
-  <sup>
-   144 GitHub links in total 207 links, ★ 316, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 316, pushed 14 days ago
   </sup>
+  - Scaffold out an app boilerplate.
  </li>
  <li>
   <a href="https://github.com/szwacz/electron-boilerplate">
    electron-boilerplate
   </a>
+  <sup>
+   &#9733 959, pushed 13 days ago
+  </sup>
   <em>
    (by szwacz)
   </em>
   - Comprehensive boilerplate which even generates installers.
-  <sup>
-   144 GitHub links in total 207 links, ★ 959, pushed 13 days ago
-  </sup>
-  <sup>
-   &#9733 959, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chentsulin/electron-react-boilerplate">
    electron-react-boilerplate
   </a>
-  - Boilerplate based on React and webpack.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2326, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2326, pushed 2 days ago
   </sup>
+  - Boilerplate based on React and webpack.
  </li>
  <li>
   <a href="https://github.com/karad/lein_template_descjop">
    descjop
   </a>
-  - ClojureScript boilerplate for creating an app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 185, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 185, pushed 22 days ago
   </sup>
+  - ClojureScript boilerplate for creating an app.
  </li>
 </ul>
 <h2>
@@ -1415,169 +1148,127 @@
   <a href="https://github.com/electron-userland/electron-prebuilt">
    electron-prebuilt
   </a>
-  - Install prebuilt Electron binaries for command-line use using npm.
-  <sup>
-   144 GitHub links in total 207 links, ★ 349, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 349, pushed 4 days ago
   </sup>
+  - Install prebuilt Electron binaries for command-line use using npm.
  </li>
  <li>
   <a href="https://github.com/electron-userland/electron-packager">
    electron-packager
   </a>
-  - Package and distribute your app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 1849, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 1849, pushed 2 days ago
   </sup>
+  - Package and distribute your app.
  </li>
  <li>
   <a href="https://github.com/electron-userland/electron-builder">
    electron-builder
   </a>
-  - Create installers.
-  <sup>
-   144 GitHub links in total 207 links, ★ 714, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 714, pushed 1 days ago
   </sup>
+  - Create installers.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/electron-debug">
    electron-debug
   </a>
-  - Adds useful debug features.
-  <sup>
-   144 GitHub links in total 207 links, ★ 154, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 154, pushed 8 days ago
   </sup>
+  - Adds useful debug features.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/electron-is-dev">
    electron-is-dev
   </a>
-  - Check if Electron is running in development.
-  <sup>
-   144 GitHub links in total 207 links, ★ 21, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 25 days ago
   </sup>
+  - Check if Electron is running in development.
  </li>
  <li>
   <a href="https://github.com/parro-it/electron-localshortcut">
    electron-localshortcut
   </a>
-  - Add keyboard shortcuts locally to a window.
-  <sup>
-   144 GitHub links in total 207 links, ★ 71, pushed 166 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 166 days ago
   </sup>
+  - Add keyboard shortcuts locally to a window.
  </li>
  <li>
   <a href="https://github.com/jenslind/electron-gh-releases">
    electron-gh-release
   </a>
-  - Auto-update by releasing on GitHub.
-  <sup>
-   144 GitHub links in total 207 links, ★ 102, pushed 32 days ago
-  </sup>
   <sup>
    &#9733 102, pushed 32 days ago
   </sup>
+  - Auto-update by releasing on GitHub.
  </li>
  <li>
   <a href="https://github.com/jenslind/electron-release">
    electron-release
   </a>
+  <sup>
+   &#9733 45, pushed 157 days ago
+  </sup>
   - Publish a new release of your app to GitHub.
-  <sup>
-   144 GitHub links in total 207 links, ★ 45, pushed 156 days ago
-  </sup>
-  <sup>
-   &#9733 45, pushed 156 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/evolvelabs/electron-updater">
    electron-updater
   </a>
-  - Auto-updater leveraging npm to deploy updates.
-  <sup>
-   144 GitHub links in total 207 links, ★ 149, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 149, pushed 7 days ago
   </sup>
+  - Auto-updater leveraging npm to deploy updates.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/fix-path">
    fix-path
   </a>
-  - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
-  <sup>
-   144 GitHub links in total 207 links, ★ 42, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 42, pushed 11 days ago
   </sup>
+  - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
  </li>
  <li>
   <a href="https://github.com/Teamwork/node-auto-launch">
    auto-launch
   </a>
+  <sup>
+   &#9733 93, pushed 6 days ago
+  </sup>
   - Launch apps at system startup.
-  <sup>
-   144 GitHub links in total 207 links, ★ 93, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 93, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/GitbookIO/nuts">
    nuts
   </a>
-  - Releases server with auto-updater and GitHub as a backend.
-  <sup>
-   144 GitHub links in total 207 links, ★ 214, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 214, pushed 4 days ago
   </sup>
+  - Releases server with auto-updater and GitHub as a backend.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/electron-dl">
    electron-dl
   </a>
-  - Simplified file downloads.
-  <sup>
-   144 GitHub links in total 207 links, ★ 114, pushed 151 days ago
-  </sup>
   <sup>
    &#9733 114, pushed 151 days ago
   </sup>
+  - Simplified file downloads.
  </li>
  <li>
   <a href="https://github.com/ArekSredzki/electron-release-server">
    electron-release-server
   </a>
+  <sup>
+   &#9733 74, pushed 4 days ago
+  </sup>
   - Self-hosted release server with front-end & auto-updater support.
-  <sup>
-   144 GitHub links in total 207 links, ★ 74, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 74, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/paulcbetts/electron-rebuild">
@@ -1595,138 +1286,108 @@
   <a href="https://github.com/jenslind/electron-positioner">
    electron-positioner
   </a>
-  - Position windows at common spots.
-  <sup>
-   144 GitHub links in total 207 links, ★ 45, pushed 114 days ago
-  </sup>
   <sup>
    &#9733 45, pushed 114 days ago
   </sup>
+  - Position windows at common spots.
  </li>
  <li>
   <a href="https://github.com/mawie81/electron-window-state">
    electron-window-state
   </a>
-  - Save and restore window sizes and positions.
-  <sup>
-   144 GitHub links in total 207 links, ★ 43, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 43, pushed 5 days ago
   </sup>
+  - Save and restore window sizes and positions.
  </li>
  <li>
   <a href="https://github.com/kapetan/electron-drag">
    electron-drag
   </a>
-  - Improved window dragging.
-  <sup>
-   144 GitHub links in total 207 links, ★ 44, pushed 98 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 98 days ago
   </sup>
+  - Improved window dragging.
  </li>
  <li>
   <a href="https://github.com/parro-it/debug-menu">
    debug-menu
   </a>
-  - Chrome-like "inspect element" context-menu.
-  <sup>
-   144 GitHub links in total 207 links, ★ 49, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 49, pushed 8 days ago
   </sup>
+  - Chrome-like "inspect element" context-menu.
  </li>
  <li>
   <a href="https://github.com/unindented/electron-installer-debian">
    electron-installer-debian
   </a>
-  - Create a Debian package.
-  <sup>
-   144 GitHub links in total 207 links, ★ 16, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 4 days ago
   </sup>
+  - Create a Debian package.
  </li>
  <li>
   <a href="https://github.com/unindented/electron-installer-redhat">
    electron-installer-redhat
   </a>
-  - Create a Red Hat package.
-  <sup>
-   144 GitHub links in total 207 links, ★ 6, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 6, pushed 1 days ago
   </sup>
+  - Create a Red Hat package.
  </li>
  <li>
   <a href="https://github.com/unindented/electron-installer-windows">
    electron-installer-windows
   </a>
-  - Create a Windows package.
-  <sup>
-   144 GitHub links in total 207 links, ★ 27, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 4 days ago
   </sup>
+  - Create a Windows package.
  </li>
  <li>
   <a href="https://github.com/automation-stack/electron-sudo">
    electron-sudo
   </a>
-  - Subprocesses with administrative privileges.
-  <sup>
-   144 GitHub links in total 207 links, ★ 27, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 6 days ago
   </sup>
+  - Subprocesses with administrative privileges.
  </li>
  <li>
   <a href="https://github.com/jviotti/electron-json-storage">
    electron-json-storage
   </a>
-  - Write and read user settings.
-  <sup>
-   144 GitHub links in total 207 links, ★ 95, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 95, pushed 43 days ago
   </sup>
+  - Write and read user settings.
  </li>
  <li>
   <a href="https://github.com/electron-userland/electron-download">
    electron-download
   </a>
-  - Download the Electron release zip from GitHub.
-  <sup>
-   144 GitHub links in total 207 links, ★ 54, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 3 days ago
   </sup>
+  - Download the Electron release zip from GitHub.
  </li>
  <li>
   <a href="https://github.com/jprichardson/electron-ipc-stream">
    ipc-stream
   </a>
-  - Duplex stream over IPC.
-  <sup>
-   144 GitHub links in total 207 links, ★ 31, pushed 45 days ago
-  </sup>
   <sup>
    &#9733 31, pushed 45 days ago
   </sup>
+  - Duplex stream over IPC.
  </li>
  <li>
   <a href="https://github.com/jprichardson/is-electron-renderer">
    is-electron-renderer
   </a>
+  <sup>
+   &#9733 28, pushed 294 days ago
+  </sup>
   - Check if your code is running in
   <code>
    main
@@ -1736,36 +1397,24 @@
    renderer
   </code>
   .
-  <sup>
-   144 GitHub links in total 207 links, ★ 28, pushed 294 days ago
-  </sup>
-  <sup>
-   &#9733 28, pushed 294 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/electron-userland/electron-osx-sign">
    electron-osx-sign
   </a>
-  - Code-signing for OS X apps.
-  <sup>
-   144 GitHub links in total 207 links, ★ 51, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 51, pushed 2 days ago
   </sup>
+  - Code-signing for OS X apps.
  </li>
  <li>
   <a href="https://github.com/parro-it/electron-detach">
    electron-detach
   </a>
-  - Restart an Electron app as a detached process.
-  <sup>
-   144 GitHub links in total 207 links, ★ 39, pushed 166 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 166 days ago
   </sup>
+  - Restart an Electron app as a detached process.
  </li>
  <li>
   <a href="https://github.com/fireball-x/editor-framework">
@@ -1777,25 +1426,19 @@
   <a href="https://github.com/felixrieseberg/ember-electron">
    ember-electron
   </a>
-  - Build, test, and package Ember apps.
-  <sup>
-   144 GitHub links in total 207 links, ★ 347, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 347, pushed 7 days ago
   </sup>
+  - Build, test, and package Ember apps.
  </li>
  <li>
   <a href="https://github.com/arboleya/electrify">
    electrify
   </a>
-  - Package Meteor apps.
-  <sup>
-   144 GitHub links in total 207 links, ★ 140, pushed 48 days ago
-  </sup>
   <sup>
    &#9733 140, pushed 48 days ago
   </sup>
+  - Package Meteor apps.
  </li>
  <li>
   <a href="https://github.com/kevinsawicki/spectron">
@@ -1812,37 +1455,28 @@
   <a href="https://github.com/Jam3/devtool">
    devtool
   </a>
-  - Debug Node.js with Chrome DevTools.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2666, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 2666, pushed 33 days ago
   </sup>
+  - Debug Node.js with Chrome DevTools.
  </li>
  <li>
   <a href="https://github.com/jiahaog/nativefier">
    nativefier
   </a>
-  - Create an app of any website.
-  <sup>
-   144 GitHub links in total 207 links, ★ 5417, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 5417, pushed 8 days ago
   </sup>
+  - Create an app of any website.
  </li>
  <li>
   <a href="https://github.com/juliangruber/electron-stream">
    electron-stream
   </a>
-  - Streaming wrapper.
-  <sup>
-   144 GitHub links in total 207 links, ★ 54, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 54, pushed 4 days ago
   </sup>
+  - Streaming wrapper.
  </li>
  <li>
   <a href="http://www.nightmarejs.org">
@@ -1854,49 +1488,37 @@
   <a href="https://github.com/fraserxu/electron-pdf">
    electron-pdf
   </a>
-  - Generate PDF from URL, HTML, or Markdown files on the command-line.
-  <sup>
-   144 GitHub links in total 207 links, ★ 286, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 286, pushed 1 days ago
   </sup>
+  - Generate PDF from URL, HTML, or Markdown files on the command-line.
  </li>
  <li>
   <a href="https://github.com/mick/geojsonapp">
    Geojsonapp
   </a>
-  - Preview GeoJSON locally.
-  <sup>
-   144 GitHub links in total 207 links, ★ 270, pushed 169 days ago
-  </sup>
   <sup>
    &#9733 270, pushed 169 days ago
   </sup>
+  - Preview GeoJSON locally.
  </li>
  <li>
   <a href="https://github.com/jprichardson/electron-mocha">
    electron-mocha
   </a>
-  - Run your Mocha tests in Electron.
-  <sup>
-   144 GitHub links in total 207 links, ★ 113, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 113, pushed 13 days ago
   </sup>
+  - Run your Mocha tests in Electron.
  </li>
  <li>
   <a href="https://github.com/shyiko/electron-har">
    electron-har
   </a>
-  - Command-line tool for generating HTTP Archive (HAR).
-  <sup>
-   144 GitHub links in total 207 links, ★ 12, pushed 30 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 30 days ago
   </sup>
+  - Command-line tool for generating HTTP Archive (HAR).
  </li>
 </ul>
 <h2>
@@ -1913,101 +1535,77 @@
   <a href="https://github.com/react-photonkit/react-photonkit">
    React PhotonKit
   </a>
-  - Photon components built with React.
-  <sup>
-   144 GitHub links in total 207 links, ★ 65, pushed 87 days ago
-  </sup>
   <sup>
    &#9733 65, pushed 87 days ago
   </sup>
+  - Photon components built with React.
  </li>
  <li>
   <a href="https://github.com/maxogden/menubar">
    menubar
   </a>
-  - High-level way to create a menubar app.
-  <sup>
-   144 GitHub links in total 207 links, ★ 2484, pushed 10 days ago
-  </sup>
   <sup>
    &#9733 2484, pushed 10 days ago
   </sup>
+  - High-level way to create a menubar app.
  </li>
  <li>
   <a href="https://github.com/hstove/electron-cookies">
    cookies
   </a>
+  <sup>
+   &#9733 57, pushed 53 days ago
+  </sup>
   - Adds support for
   <code>
    document.cookie
   </code>
   .
-  <sup>
-   144 GitHub links in total 207 links, ★ 57, pushed 53 days ago
-  </sup>
-  <sup>
-   &#9733 57, pushed 53 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jprichardson/electron-window">
    window
   </a>
-  - Easily create and manage windows.
-  <sup>
-   144 GitHub links in total 207 links, ★ 78, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 78, pushed 2 days ago
   </sup>
+  - Easily create and manage windows.
  </li>
  <li>
   <a href="https://github.com/gabrielbull/react-desktop">
    React Desktop
   </a>
-  - UI toolkit for OS X and Windows built with React.
-  <sup>
-   144 GitHub links in total 207 links, ★ 4491, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 4491, pushed 19 days ago
   </sup>
+  - UI toolkit for OS X and Windows built with React.
  </li>
  <li>
   <a href="https://github.com/parro-it/electron-input-menu">
    electron-input-menu
   </a>
-  - Context menu for input elements.
-  <sup>
-   144 GitHub links in total 207 links, ★ 10, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 10, pushed 18 days ago
   </sup>
+  - Context menu for input elements.
  </li>
  <li>
   <a href="https://github.com/adamschwartz/chrome-tabs">
    chrome-tabs
   </a>
-  - Chrome like tabs.
-  <sup>
-   144 GitHub links in total 207 links, ★ 334, pushed 160 days ago
-  </sup>
   <sup>
    &#9733 334, pushed 160 days ago
   </sup>
+  - Chrome like tabs.
  </li>
  <li>
   <a href="https://github.com/kapetan/titlebar">
    titlebar
   </a>
-  - Emulate the OS X window titlebar.
-  <sup>
-   144 GitHub links in total 207 links, ★ 198, pushed 84 days ago
-  </sup>
   <sup>
    &#9733 198, pushed 84 days ago
   </sup>
+  - Emulate the OS X window titlebar.
  </li>
 </ul>
 <h2>

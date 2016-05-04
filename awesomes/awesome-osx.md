@@ -227,16 +227,13 @@
   <a href="https://github.com/kyleneideck/BackgroundMusic">
    BackgroundMusic
   </a>
+  <sup>
+   &#9733 2433, pushed 3 days ago
+  </sup>
   - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards.
   <a href="https://github.com/kyleneideck/BackgroundMusic">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 2433, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 2433, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="http://cogx.org/">
@@ -297,16 +294,13 @@
   <a href="https://github.com/stonesam92/ChitChat">
    ChitChat
   </a>
+  <sup>
+   &#9733 1852, pushed 41 days ago
+  </sup>
   - A native Mac app wrapper for WhatsApp Web.
   <a href="https://github.com/stonesam92/ChitChat">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 1852, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 1852, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="http://colloquy.info/">
@@ -445,46 +439,37 @@
   <a href="https://github.com/nlf/dlite">
    dlite
   </a>
+  <sup>
+   &#9733 2148, pushed 5 days ago
+  </sup>
   - The simplest way to use Docker on OS X.
   <a href="https://github.com/nlf/dlite">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 2148, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 2148, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/2ndalpha/gasmask">
    Gas Mask
   </a>
+  <sup>
+   &#9733 957, pushed 151 days ago
+  </sup>
   - A simple hosts file manager which allows editing of host files and switching between them.
   <a href="https://github.com/2ndalpha/gasmask">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 957, pushed 151 days ago
-  </sup>
-  <sup>
-   &#9733 957, pushed 151 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shikkic/gitbar">
    gitbar
   </a>
+  <sup>
+   &#9733 145, pushed 2 days ago
+  </sup>
   - Open source github contribution stats on your Menu Bar.
   <a href="https://github.com/Shikkic/gitbar">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 145, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 145, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://desktop.github.com/">
@@ -505,16 +490,13 @@
   <a href="https://github.com/specialunderwear/Hosts.prefpane">
    Hosts
   </a>
+  <sup>
+   &#9733 817, pushed 482 days ago
+  </sup>
   - Edit hosts file.
   <a href="https://github.com/specialunderwear/Hosts.prefpane">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 817, pushed 482 days ago
-  </sup>
-  <sup>
-   &#9733 817, pushed 482 days ago
-  </sup>
  </li>
  <li>
   <a href="https://pngmini.com/">
@@ -577,16 +559,13 @@
   <a href="https://github.com/goktugyil/QorumLogs">
    QorumLogs
   </a>
+  <sup>
+   &#9733 482, pushed 6 days ago
+  </sup>
   - Swift Logging Utility for Xcode & Google Docs.
   <a href="https://github.com/goktugyil/QorumLogs">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 482, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 482, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="http://happenapps.com/#quiver">
@@ -649,16 +628,13 @@
   <a href="https://github.com/insidegui/WWDC">
    WWDC
   </a>
+  <sup>
+   &#9733 3127, pushed 30 days ago
+  </sup>
   - The WWDC app.
   <a href="https://github.com/insidegui/WWDC">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 3127, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 3127, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.zsh.org/">
@@ -749,16 +725,13 @@
   <a href="https://github.com/macvim-dev/macvim">
    MacVim
   </a>
+  <sup>
+   &#9733 1620, pushed 2 days ago
+  </sup>
   - Vim, the text editor.
   <a href="https://github.com/macvim-dev/macvim">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 1620, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 1620, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.sublimetext.com/">
@@ -840,13 +813,10 @@
   <a href="https://github.com/sindresorhus/quick-look-plugins">
    Quicklook-Plugins
   </a>
-  - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
-  <sup>
-   33 GitHub links in total 270 links, ★ 5950, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5950, pushed 4 days ago
   </sup>
+  - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
  </li>
  <li>
   <a href="http://totalfinder.binaryage.com/">
@@ -1068,16 +1038,13 @@
   <a href="https://github.com/variadico/noti">
    noti
   </a>
+  <sup>
+   &#9733 789, pushed 30 days ago
+  </sup>
   - Display a notification after a terminal process finishes.
   <a href="https://github.com/variadico/noti">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 789, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 789, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.omnigroup.com/omnifocus">
@@ -1154,16 +1121,13 @@
   <a href="https://github.com/mileswd/mac2imgur">
    mac2imgur
   </a>
+  <sup>
+   &#9733 400, pushed 152 days ago
+  </sup>
   - Upload images and screenshots to Imgur.
   <a href="https://github.com/mileswd/mac2imgur">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 400, pushed 152 days ago
-  </sup>
-  <sup>
-   &#9733 400, pushed 152 days ago
-  </sup>
  </li>
  <li>
   <a href="https://syncthing.net/">
@@ -1224,16 +1188,13 @@
   <a href="https://github.com/tonsky/AnyBar">
    AnyBar
   </a>
+  <sup>
+   &#9733 2116, pushed 95 days ago
+  </sup>
   - A menubar status indicator.
   <a href="https://github.com/tonsky/AnyBar">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 2116, pushed 95 days ago
-  </sup>
-  <sup>
-   &#9733 2116, pushed 95 days ago
-  </sup>
  </li>
  <li>
   <a href="http://freemacsoft.net/appcleaner/">
@@ -1257,16 +1218,13 @@
   <a href="https://github.com/beardedspice/beardedspice">
    BeardedSpice
   </a>
+  <sup>
+   &#9733 972, pushed 3 days ago
+  </sup>
   - Control web based media players with the media keys found on Mac keyboards.
   <a href="https://github.com/beardedspice/beardedspice">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 972, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 972, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="http://macitbetter.com/">
@@ -1278,16 +1236,13 @@
   <a href="https://github.com/matryer/bitbar">
    BitBar
   </a>
+  <sup>
+   &#9733 6305, pushed 15 days ago
+  </sup>
   - Display output of any script to the menu bar.
   <a href="https://github.com/matryer/bitbar">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 6305, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 6305, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="http://burn-osx.sourceforge.net/Pages/English/home.html">
@@ -1341,16 +1296,13 @@
   <a href="https://github.com/Eun/DisableMonitor">
    DisableMonitor
   </a>
+  <sup>
+   &#9733 373, pushed 222 days ago
+  </sup>
   - Easily disable or enable a monitor on your Mac.
   <a href="https://github.com/Eun/DisableMonitor">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 373, pushed 222 days ago
-  </sup>
-  <sup>
-   &#9733 373, pushed 222 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.etresoft.com/etrecheck">
@@ -1410,16 +1362,13 @@
   <a href="https://github.com/noraesae/kawa">
    Kawa
   </a>
+  <sup>
+   &#9733 54, pushed 120 days ago
+  </sup>
   - A better input source switcher with shortcuts.
   <a href="https://github.com/noraesae/kawa">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 54, pushed 119 days ago
-  </sup>
-  <sup>
-   &#9733 54, pushed 119 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.keepassx.org">
@@ -1434,16 +1383,13 @@
   <a href="https://github.com/newmarcel/KeepingYouAwake">
    KeepingYouAwake
   </a>
+  <sup>
+   &#9733 1150, pushed 10 days ago
+  </sup>
   - Menu bar utility that prevents Mac from going to sleep.
   <a href="https://github.com/newmarcel/KeepingYouAwake">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 1150, pushed 10 days ago
-  </sup>
-  <sup>
-   &#9733 1150, pushed 10 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.kekaosx.com/en/">
@@ -1494,16 +1440,13 @@
   <a href="https://github.com/lra/mackup">
    Mackup
   </a>
+  <sup>
+   &#9733 4628, pushed 5 days ago
+  </sup>
   - Keep your application settings in sync.
   <a href="https://github.com/lra/mackup">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 4628, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 4628, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="http://mstarke.github.io/MacPass/">
@@ -1527,16 +1470,13 @@
   <a href="https://github.com/nvzqz/Menubar-Colors">
    Menubar Colors
   </a>
+  <sup>
+   &#9733 28, pushed 234 days ago
+  </sup>
   - Convenient access to the system color panel.
   <a href="https://github.com/nvzqz/Menubar-Colors">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 28, pushed 234 days ago
-  </sup>
-  <sup>
-   &#9733 28, pushed 234 days ago
-  </sup>
  </li>
  <li>
   <a href="http://monodraw.helftone.com/">
@@ -1599,16 +1539,13 @@
   <a href="https://github.com/fikovnik/ShiftIt">
    ShiftIt
   </a>
+  <sup>
+   &#9733 2770, pushed 49 days ago
+  </sup>
   - Managing windows size and position.
   <a href="https://github.com/fikovnik/ShiftIt">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 2770, pushed 49 days ago
-  </sup>
-  <sup>
-   &#9733 2770, pushed 49 days ago
-  </sup>
  </li>
  <li>
   <a href="https://kishanbagaria.com/smartcapslock/">
@@ -1824,16 +1761,13 @@
   <a href="https://github.com/JohnCoates/Aerial">
    Aerial
   </a>
+  <sup>
+   &#9733 5651, pushed 20 days ago
+  </sup>
   - Apple TV Aerial Screensaver for Mac.
   <a href="https://github.com/JohnCoates/Aerial">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 5651, pushed 20 days ago
-  </sup>
-  <sup>
-   &#9733 5651, pushed 20 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.giorgiocalderolla.com/index.html#catch">
@@ -1848,16 +1782,13 @@
   <a href="https://github.com/chenasraf/gInbox">
    gInbox
   </a>
+  <sup>
+   &#9733 602, pushed 90 days ago
+  </sup>
   - gInbox is a wrapper made for Mac around Inbox by Gmail.
   <a href="https://github.com/chenasraf/gInbox">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 602, pushed 90 days ago
-  </sup>
-  <sup>
-   &#9733 602, pushed 90 days ago
-  </sup>
  </li>
  <li>
   <a href="https://hackermenu.io/">
@@ -1896,16 +1827,13 @@
   <a href="https://github.com/sonoramac/Sonora">
    Sonora
   </a>
+  <sup>
+   &#9733 820, pushed 357 days ago
+  </sup>
   -  A minimal, beautifully designed music player.
   <a href="https://github.com/sonoramac/Sonora">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 820, pushed 357 days ago
-  </sup>
-  <sup>
-   &#9733 820, pushed 357 days ago
-  </sup>
  </li>
  <li>
   <a href="http://soundcleod.com/">
@@ -1940,13 +1868,10 @@
   <a href="https://github.com/herrbischoff/awesome-osx-command-line">
    Awesome OS X Command Line
   </a>
-  - Use your OS X terminal shell to do awesome things.
-  <sup>
-   33 GitHub links in total 270 links, ★ 7528, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 7528, pushed 1 days ago
   </sup>
+  - Use your OS X terminal shell to do awesome things.
  </li>
 </ul>
 <h2>
@@ -1973,31 +1898,25 @@
   <a href="https://github.com/hschmidt/EnvPane">
    EnvPane
   </a>
+  <sup>
+   &#9733 104, pushed 911 days ago
+  </sup>
   - An preference pane for environment variables.
   <a href="https://github.com/hschmidt/EnvPane">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 104, pushed 910 days ago
-  </sup>
-  <sup>
-   &#9733 104, pushed 910 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nicolargo/glances">
    Glances
   </a>
+  <sup>
+   &#9733 4968, pushed 2 days ago
+  </sup>
   - System monitoring tool that runs in terminal.
   <a href="https://github.com/nicolargo/glances">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 4968, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 4968, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities">
@@ -2074,60 +1993,48 @@
   <a href="https://github.com/etsy/MIDAS">
    MIDAS
   </a>
+  <sup>
+   &#9733 774, pushed 223 days ago
+  </sup>
   - Intrusion Detection Analysis System.
   <a href="https://github.com/etsy/MIDAS">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 774, pushed 223 days ago
-  </sup>
-  <sup>
-   &#9733 774, pushed 223 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/drduh/OS-X-Security-and-Privacy-Guide">
    OS-X-Security-and-Privacy-Guide
   </a>
-  <a href="https://github.com/drduh/OS-X-Security-and-Privacy-Guide">
-   <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
-  </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 4041, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 4041, pushed 5 days ago
   </sup>
+  <a href="https://github.com/drduh/OS-X-Security-and-Privacy-Guide">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
+  </a>
  </li>
  <li>
   <a href="https://github.com/jipegit/OSXAuditor">
    OSXAuditor
   </a>
+  <sup>
+   &#9733 2578, pushed 33 days ago
+  </sup>
   - A free computer forensics tool.
   <a href="https://github.com/jipegit/OSXAuditor">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 2578, pushed 33 days ago
-  </sup>
-  <sup>
-   &#9733 2578, pushed 33 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/google/santa">
    santa
   </a>
+  <sup>
+   &#9733 547, pushed 22 days ago
+  </sup>
   - A binary whitelisting/blacklisting system.
   <a href="https://github.com/google/santa">
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
-  <sup>
-   33 GitHub links in total 270 links, ★ 547, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 547, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="https://tunnelblick.net">
@@ -2183,10 +2090,7 @@
    Awesome Screensavers
   </a>
   <sup>
-   33 GitHub links in total 270 links, ★ 192, pushed 24 days ago
-  </sup>
-  <sup>
-   &#9733 192, pushed 24 days ago
+   &#9733 192, pushed 25 days ago
   </sup>
  </li>
 </ul>

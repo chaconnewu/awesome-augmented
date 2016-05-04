@@ -1,774 +1,119 @@
-<h1>
- Awesome Relay
- <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
- </a>
-</h1>
-<p>
- Awesome resources for
- <a href="https://github.com/facebook/relay">
-  Relay
- </a>
- , based on the
- <a href="https://github.com/sindresorhus/awesome/">
-  Awesome
- </a>
- project
-</p>
-<h1>
- Table of Contents
-</h1>
-<ul>
- <li>
-  <a href="#learning-resources">
-   Learning Resources
-  </a>
-  <ul>
-   <li>
-    <a href="#documentation">
-     Documentation
-    </a>
-   </li>
-   <li>
-    <a href="#faqs">
-     FAQs
-    </a>
-   </li>
-   <li>
-    <a href="#tutorials">
-     Tutorials
-    </a>
-   </li>
-   <li>
-    <a href="#overviews">
-     Overviews
-    </a>
-   </li>
-   <li>
-    <a href="#example-implementations">
-     Example Implementations
-    </a>
-   </li>
-   <li>
-    <a href="#lists-of-lists">
-     Lists of Lists
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#ecosystem">
-   Ecosystem
-  </a>
-  <ul>
-   <li>
-    <a href="#libraries--packages">
-     Libraries & Packages
-    </a>
-   </li>
-   <li>
-    <a href="#tooling">
-     Tooling
-    </a>
-   </li>
-   <li>
-    <a href="#starter-kits">
-     Starter Kits
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#relay-specific-server-support">
-   Relay-Specific Server Support
-  </a>
-  <ul>
-   <li>
-    <a href="#go">
-     Go
-    </a>
-   </li>
-   <li>
-    <a href="#javascript">
-     JavaScript
-    </a>
-   </li>
-   <li>
-    <a href="#python">
-     Python
-    </a>
-   </li>
-   <li>
-    <a href="#ruby">
-     Ruby
-    </a>
-   </li>
-   <li>
-    <a href="#rails">
-     Rails
-    </a>
-   </li>
-   <li>
-    <a href="#scala">
-     Scala
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#testing">
-   Testing
-  </a>
- </li>
-</ul>
-<h1>
- Learning Resources
-</h1>
-<h2>
- Documentation
-</h2>
-<ul>
- <li>
-  <a href="https://facebook.github.io/relay/docs/getting-started.html#content">
-   Official Docs
-  </a>
-  - Official Relay documentation.
- </li>
-</ul>
-<h2>
- FAQs
-</h2>
-<ul>
- <li>
-  <a href="https://gist.github.com/wincent/598fa75e22bdfa44cf47">
-   Unofficial Relay FAQ
-  </a>
-  - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
- </li>
-</ul>
-<h2>
- Tutorials
-</h2>
-<ul>
- <li>
-  <a href="https://auth0.com/blog/2015/10/06/getting-started-with-relay/">
-   Getting Started with Relay
-  </a>
-  - One of the few detailed walk throughs of hand-on Relay.
- </li>
- <li>
-  <a href="https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9">
-   Relay 101: Building A Hacker News Client
-  </a>
-  - A complete workable example.
-  <ul>
-   <li>
-    <a href="https://medium.com/@clayallsopp/relay-102-mutations-d8b471a4730e#.i9vuv3vxl">
-     Relay 102: Mutations
-    </a>
-    - A follow up to "Relay 101" concentrating on mutations.
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=sP3n-nht0Xo">
-   Facebook Relay talk - Lunch and Learn session
-  </a>
-  - Walkthrough of building a simple app, and demonstration of
-  <a href="https://github.com/graphql/graphiql">
-   GraphiQL
-  </a>
-  .
- </li>
- <li>
-  <a href="http://blog.pathgather.com/blog/a-beginners-guide-to-relay-mutations">
-   A Beginner's Guide to Relay Mutations
-  </a>
-  - Mutations in depth.
- </li>
-</ul>
-<h2>
- Overviews
-</h2>
-<ul>
- <li>
-  <a href="http://www.sitepoint.com/react-data-fetching-with-relay/">
-   React Data Fetching with Relay
-  </a>
-  - Clear conceptual overview of Relay's moving parts and magic.
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=IrgHurBjQbg">
-   Joseph Savona - Relay: An Application Framework For React
-  </a>
-  - Conceptual overview of Relay from the Facebook team.
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=X6YbAKiLCLU">
-   F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile
-  </a>
-  - Overview of Relay, some about the philosophy.
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=dvWTxy1eY6s">
-   Relay - Daniel Dembach - Hamburg React.js Meetup
-  </a>
-  - A good general overview of Relay, some discussion of alternatives. Common questions are covered in Q&A at the end.
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=sP3n-nht0Xo">
-   Facebook Relay talk - Lunch and Learn session
-  </a>
-  - Walkthrough of building a simple app, and demonstration of
-  <a href="https://github.com/graphql/graphiql">
-   GraphiQL
-  </a>
-  .
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=Cfna8gwt9h8">
-   React with Relay and GraphQL with Andrew Smith
-  </a>
-  - High level overview of Relay and GraphQL, with some useful discussion from the audience. Some discussion of other front-end frameworks, as well.
- </li>
- <li>
-  <a href="http://sgwilym.github.io/relay-visual-learners/">
-   Relay for Visual Learners
-  </a>
-  - Very clear set of diagrams laying out how the different parts of Relay relate to each other.
- </li>
- <li>
-  <a href="http://www.slideshare.net/BrooklynZelenka/relay-seamless-syncing-for-react-vanjs">
-   Relay: Seamless Syncing For React
-  </a>
-  - An overview of what Relay is, and some discussion of experience using it in production.
- </li>
- <li>
-  Cartoon Intro to Facebook's Relay - An overview of how Relay works, complete with illustrations.
-  <ul>
-   <li>
-    <a href="https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5">
-     Part 1: Saying what data you need with GraphQL
-    </a>
-   </li>
-   <li>
-    <a href="https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-2-d4a2435aee59">
-     Part 2: Fetching data from the server
-    </a>
-   </li>
-   <li>
-    <a href="https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-3-9d8fcf8db670">
-     Part 3: Syncing changes back up to the server
-    </a>
-   </li>
-   <li>
-    <a href="https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed">
-     Part 4: How it all fits together
-    </a>
-   </li>
-  </ul>
- </li>
-</ul>
-<h2>
- Example Implementations
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/taion/relay-todomvc">
-   Relay TODO MVC
-  </a>
-  - The classic TODO example app, written with Relay.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 73, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/transedward/relay-chat">
-   <code>
-    relay-chat
-   </code>
-  </a>
-  - Relay with routing and pagination.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 71, pushed 141 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chentsulin/koa-graphql-relay-example">
-   <code>
-    koa-graphql-relay-example
-   </code>
-  </a>
-  - "TODO" app with
-  <a href="https://github.com/chentsulin/koa-graphql">
-   <code>
-    koa-graphql
-   </code>
-  </a>
-  and
-  <code>
-   relay
-  </code>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 24, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sogko/todomvc-relay-go">
-   <code>
-    todomvc-relay-go
-   </code>
-  </a>
-  - Relay TodoMVC app, driven by a Golang GraphQL backend.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 15, pushed 166 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Lists of Lists
-</h2>
-<ul>
- <li>
-  <a href="https://quip.com/oLxzA1gTsJsE">
-   Relay and GraphQL Introduction Materials
-  </a>
- </li>
-</ul>
-<h1>
- Ecosystem
-</h1>
-<h2>
- Libraries & Packages
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/graphql/graphql-relay-js">
-   <code>
-    graphql-relay-js
-   </code>
-  </a>
-  - Simplifies creating a JS GraphQL server for
-  <code>
-   react-relay
-  </code>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 460, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.npmjs.com/package/babel-relay-plugin">
-   Babel Relay Plugin
-  </a>
-  - Use Relay the latest ES6+ syntax.
- </li>
- <li>
-  <a href="https://github.com/relay-tools/react-router-relay">
-   <code>
-    react-router-relay
-   </code>
-  </a>
-  -
-  <code>
-   react-router
-  </code>
-  bindings for Relay. Greatly simplifies many local state UI uses cases.
-  <ul>
-   <li>
-    <a href="https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65">
-     Relay and Routing
-    </a>
-    - A well-articulated walk through of
-    <code>
-     react-router-relay
-    </code>
-    , and the problems that it solves.
-   </li>
-   <li>
-    <a href="https://www.npmjs.com/package/relay-nested-routes">
-     <code>
-      relay-nested-routes
-     </code>
-    </a>
-    - Generate nested routes that reflect nested data. Helpful for managing deep data.
-   </li>
-   <li>
-    <a href="https://github.com/denvned/isomorphic-relay-router">
-     <code>
-      isomorphic-relay-router
-     </code>
-    </a>
-    - Server side rendering support for
-    <code>
-     react-router-relay
-    </code>
-    .
-    <sup>
-     27 GitHub links in total 80 links, &#9733 64, pushed 2 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   27 GitHub links in total 80 links, &#9733 356, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/4Catalyzer/relay-decorators">
-   <code>
-    relay-decorator
-   </code>
-  </a>
-  - Simply syntax for Relay containers with ES7 decorators (
-  <code>
-   @
-  </code>
-  syntax)
-  <sup>
-   27 GitHub links in total 80 links, &#9733 2, pushed 62 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.npmjs.com/package/recompose-relay">
-   <code>
-    recompose-relay
-   </code>
-  </a>
-  - Ease composition of Relay containers by currying and providing the component after the container.
- </li>
- <li>
-  <a href="https://github.com/relay-tools/relay-local-schema">
-   <code>
-    relay-local-schema
-   </code>
-  </a>
-  - Use a local schema; no need for a remote GraphQL server.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 91, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lenaten/react-native-relay">
-   <code>
-    react-native-relay
-   </code>
-  </a>
-  - Use Relay with React Native.
-  <ul>
-   <li>
-    May be supported
-    <a href="https://github.com/facebook/relay/issues/26">
-     out of the box
-    </a>
-    in the future.
-   </li>
-  </ul>
-  <sup>
-   27 GitHub links in total 80 links, &#9733 56, pushed 40 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/acdlite/relay-sink">
-   <code>
-    relay-sink
-   </code>
-  </a>
-  - Use Relay to fetch and store data outside of a React component.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 107, pushed 148 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/guymers/babel-plugin-flow-relay-query">
-   <code>
-    babel-plugin-flow-relay-query
-   </code>
-  </a>
-  - Convert
-  <a href="http://flowtype.org">
-   Flow
-  </a>
-  types into Relay fragments.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 10, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MattMcFarland/sequelize-relay">
-   <code>
-    sequelize-relay
-   </code>
-  </a>
-  - Make Relay compatible with
-  <a href="https://github.com/sequelize/sequelize">
-   <code>
-    sequelize
-   </code>
-  </a>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 41, pushed 99 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mikberg/relay-mongodb-connection">
-   <code>
-    relay-mongodb-connection
-   </code>
-  </a>
-  - Create Relay connections from MongoDB cursors.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 4, pushed 169 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eyston/relay-composite-network-layer">
-   <code>
-    relay-composite-network-layer
-   </code>
-  </a>
-  - Compose your Relay Network Layer of many different Network Layers each with their own schema.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 28, pushed 127 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Tooling
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/graphql/graphiql">
-   GraphiQL
-  </a>
-  - A library to introspect GraphQL, test queries and mutations.
-  <ul>
-   <li>
-    <a href="https://github.com/skevy/graphiql-app">
-     GraphiQL App
-    </a>
-    - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
-    <sup>
-     27 GitHub links in total 80 links, &#9733 186, pushed 76 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   27 GitHub links in total 80 links, &#9733 1295, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/relay-tools/relay-local-schema">
-   <code>
-    relay-local-schema
-   </code>
-  </a>
-  - Use a local schema; no need for a remote GraphQL server.
- </li>
- <li>
-  <a href="https://www.npmjs.com/package/babel-relay-plugin">
-   Babel Relay Plugin
-  </a>
-  - Use Relay the latest ES6+ syntax.
- </li>
-</ul>
-<h2>
- Starter Kits
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/fortruce/relay-skeleton">
-   Relay Skeleton
-  </a>
-  - Relay project skeleton.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 94, pushed 71 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/relayjs/relay-starter-kit">
-   Relay Starter Kit
-  </a>
-  - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
-  <sup>
-   27 GitHub links in total 80 links, &#9733 667, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mhart/simple-relay-starter">
-   Simple Relay Starter
-  </a>
-  - A Browserify version of the
-  <a href="https://github.com/relayjs/relay-starter-kit">
-   Relay Starter Kit
-  </a>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 86, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/codefoundries/isomorphic-material-relay-starter-kit">
-   Isomorphic Material Relay Starter Kit
-  </a>
-  - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 169, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nethsix/relay-on-rails">
-   Relay on Rails Starter Kit
-  </a>
-  - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
-  <sup>
-   27 GitHub links in total 80 links, &#9733 19, pushed 186 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lvarayut/relay-fullstack">
-   Relay Fullstack
-  </a>
-  - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 333, pushed 2 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Relay-Specific Server Support
-</h1>
-<h2>
- Go
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/graphql-go/relay">
-   Go Relay
-  </a>
-  - A Go/Golang library to help construct a graphql-go server supporting react-relay.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 63, pushed 55 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sogko/todomvc-relay-go">
-   <code>
-    todomvc-relay-go
-   </code>
-  </a>
-  - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
- </li>
-</ul>
-<h2>
- JavaScipt
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/graphql/graphql-relay-js">
-   <code>
-    graphql-relay-js
-   </code>
-  </a>
-  - Simplifies creating a JS GraphQL server for
-  <code>
-   react-relay
-  </code>
-  .
- </li>
-</ul>
-<h2>
- Python
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/graphql-python/graphql-relay-py">
-   <code>
-    graphql-relay-py
-   </code>
-  </a>
-  - A library to help construct a
-  <code>
-   graphql-py
-  </code>
-  server supporting
-  <code>
-   react-relay
-  </code>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 61, pushed 195 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Ruby
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/rmosolgo/graphql-relay-ruby">
-   <code>
-    graphql-relay-ruby
-   </code>
-  </a>
-  - Relay helpers for GraphQL & Ruby.
-  <sup>
-   27 GitHub links in total 80 links, &#9733 77, pushed 4 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- Rails
-</h3>
-<ul>
- <li>
-  <a href="https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn">
-   GraphQL and Relay on Rails — First relay powered react component
-  </a>
-  - Full walk through of a simple Relay setup, including clonable code.
- </li>
- <li>
-  <a href="https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms">
-   Relay/GraphQL On Rails
-  </a>
-  - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
- </li>
- <li>
-  <a href="https://github.com/nethsix/relay-on-rails">
-   Relay on Rails Starter Kit
-  </a>
-  - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
- </li>
-</ul>
-<h2>
- Scala
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/sangria-graphql/sangria-relay">
-   <code>
-    sangria-relay
-   </code>
-  </a>
-  - Relay support for
-  <a href="http://sangria-graphql.org">
-   Sangria
-  </a>
-  .
-  <sup>
-   27 GitHub links in total 80 links, &#9733 30, pushed 2 days ago
-  </sup>
- </li>
-</ul>
-<h1>
- Testing
-</h1>
-<ul>
- <li>
-  <a href="https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129">
-   Writing Simple Unit Tests with Relay
-  </a>
-  - An early first look at testing Relay.
- </li>
-</ul>
+# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
+
+# Table of Contents
+- [Learning Resources](#learning-resources)
+  - [Documentation](#documentation)
+  - [FAQs](#faqs)
+  - [Tutorials](#tutorials)
+  - [Overviews](#overviews)
+  - [Example Implementations](#example-implementations)
+  - [Lists of Lists](#lists-of-lists)
+- [Ecosystem](#ecosystem)
+  - [Libraries & Packages](#libraries--packages)
+  - [Tooling](#tooling)
+  - [Starter Kits](#starter-kits)
+- [Relay-Specific Server Support](#relay-specific-server-support)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Ruby](#ruby)
+    - [Rails](#rails)
+  - [Scala](#scala)
+- [Testing](#testing)
+
+# Learning Resources
+## Documentation
+- [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
+
+## FAQs
+- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
+
+## Tutorials
+- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk throughs of hand-on Relay.
+- [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9) - A complete workable example.
+  - [Relay 102: Mutations](https://medium.com/@clayallsopp/relay-102-mutations-d8b471a4730e#.i9vuv3vxl) - A follow up to "Relay 101" concentrating on mutations.
+- [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql).
+- [A Beginner's Guide to Relay Mutations](http://blog.pathgather.com/blog/a-beginners-guide-to-relay-mutations) - Mutations in depth.
+
+## Overviews
+- [React Data Fetching with Relay](http://www.sitepoint.com/react-data-fetching-with-relay/) - Clear conceptual overview of Relay's moving parts and magic.
+- [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) - Conceptual overview of Relay from the Facebook team.
+- [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) - Overview of Relay, some about the philosophy.
+- [Relay - Daniel Dembach - Hamburg React.js Meetup](https://www.youtube.com/watch?v=dvWTxy1eY6s) - A good general overview of Relay, some discussion of alternatives. Common questions are covered in Q&A at the end.
+- [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql).
+- [React with Relay and GraphQL with Andrew Smith](https://www.youtube.com/watch?v=Cfna8gwt9h8) - High level overview of Relay and GraphQL, with some useful discussion from the audience. Some discussion of other front-end frameworks, as well.
+- [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/) - Very clear set of diagrams laying out how the different parts of Relay relate to each other.
+- [Relay: Seamless Syncing For React](http://www.slideshare.net/BrooklynZelenka/relay-seamless-syncing-for-react-vanjs) - An overview of what Relay is, and some discussion of experience using it in production.
+- Cartoon Intro to Facebook's Relay - An overview of how Relay works, complete with illustrations.
+  - [Part 1: Saying what data you need with GraphQL](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5)
+  - [Part 2: Fetching data from the server](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-2-d4a2435aee59)
+  - [Part 3: Syncing changes back up to the server](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-3-9d8fcf8db670)
+  - [Part 4: How it all fits together](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed)
+ 
+## Example Implementations
+- [Relay TODO MVC](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
+- [`relay-chat`](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
+- [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) - "TODO" app with [`koa-graphql`](https://github.com/chentsulin/koa-graphql) and `relay`.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - Relay TodoMVC app, driven by a Golang GraphQL backend.
+
+## Lists of Lists
+- [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
+
+# Ecosystem
+## Libraries & Packages
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
+- [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
+- [`react-router-relay`](https://github.com/relay-tools/react-router-relay) - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases.
+  - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65) - A well-articulated walk through of `react-router-relay`, and the problems that it solves.
+  - [`relay-nested-routes`](https://www.npmjs.com/package/relay-nested-routes) - Generate nested routes that reflect nested data. Helpful for managing deep data.
+  - [`isomorphic-relay-router`](https://github.com/denvned/isomorphic-relay-router) - Server side rendering support for `react-router-relay`.
+- [`relay-decorator`](https://github.com/4Catalyzer/relay-decorators) - Simply syntax for Relay containers with ES7 decorators (`@` syntax)
+- [`recompose-relay`](https://www.npmjs.com/package/recompose-relay) - Ease composition of Relay containers by currying and providing the component after the container.
+- [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
+- [`react-native-relay`](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
+  - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
+- [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
+- [`babel-plugin-flow-relay-query`](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
+- [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize).
+- [`relay-mongodb-connection`](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
+- [`relay-composite-network-layer`](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
+
+## Tooling
+- [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
+  - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
+- [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
+- [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
+
+## Starter Kits
+- [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
+- [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
+- [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
+- [Isomorphic Material Relay Starter Kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
+- [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay Fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
+
+# Relay-Specific Server Support
+## Go
+- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+
+## JavaScipt
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
+
+## Python
+- [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
+ 
+## Ruby
+- [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
+
+### Rails
+- [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
+- [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
+- [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+
+## Scala
+- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
+
+# Testing
+- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 

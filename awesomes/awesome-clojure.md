@@ -43,7 +43,7 @@
      Metabase
     </a>
     <sup>
-     &#9733 2578, pushed 3 days ago
+     &#9733 2578, pushed 4 days ago
     </sup>
    </li>
    <li>
@@ -455,7 +455,7 @@
    seesaw
   </a>
   <sup>
-   &#9733 1039, pushed 69 days ago
+   &#9733 1039, pushed 70 days ago
   </sup>
  </li>
 </ul>
@@ -868,7 +868,7 @@
    core.match
   </a>
   <sup>
-   &#9733 644, pushed 121 days ago
+   &#9733 644, pushed 122 days ago
   </sup>
  </li>
  <li>
@@ -939,7 +939,7 @@
    algo.monads
   </a>
   <sup>
-   &#9733 281, pushed 121 days ago
+   &#9733 281, pushed 122 days ago
   </sup>
  </li>
 </ul>
@@ -1012,7 +1012,7 @@
    Incanter
   </a>
   <sup>
-   &#9733 1731, pushed 11 days ago
+   &#9733 1731, pushed 12 days ago
   </sup>
  </li>
  <li>
@@ -1154,7 +1154,7 @@
    CIDER
   </a>
   <sup>
-   &#9733 1766, pushed 1 days ago
+   &#9733 1766, pushed 2 days ago
   </sup>
  </li>
  <li>

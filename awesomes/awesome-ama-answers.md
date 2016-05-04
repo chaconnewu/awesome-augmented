@@ -52,10 +52,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -84,10 +82,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -116,10 +112,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -148,10 +142,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -180,10 +172,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -212,10 +202,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -244,10 +232,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -277,10 +263,8 @@
   :neckbeard:
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -309,10 +293,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -341,10 +323,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -373,10 +353,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -405,10 +383,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -437,10 +413,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>
@@ -469,10 +443,8 @@
   </strong>
  </p>
 </blockquote>
-<p>
- <hr/>
- <hr/>
-</p>
+<hr/>
+<hr/>
 <blockquote>
  <p>
   <strong>

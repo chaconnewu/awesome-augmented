@@ -262,41 +262,32 @@
   <a href="https://github.com/backtracking/ocamlgraph">
    OCamlgraph
   </a>
-  – A generic graph library for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 62, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 62, pushed 8 days ago
   </sup>
+  – A generic graph library for OCaml.
  </li>
  <li>
   <a href="https://github.com/owainlewis/ods">
    ods
   </a>
-  – A large collection of data structures and algorithms for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 7, pushed 239 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 239 days ago
   </sup>
+  – A large collection of data structures and algorithms for OCaml.
  </li>
  <li>
   <a href="https://github.com/backtracking/combine">
    combine
   </a>
+  <sup>
+   &#9733 11, pushed 5 days ago
+  </sup>
   – OCaml library for combinatorics
   <a href="https://www.lri.fr/~filliatr/combine/">
    https://www.lri.fr/~filliatr/combine/
   </a>
   .
-  <sup>
-   98 GitHub links in total 277 links, ★ 11, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -307,37 +298,28 @@
   <a href="https://github.com/ocaml-batteries-team/batteries-included">
    Batteries Included
   </a>
-  – A community-maintained foundation library for your OCaml projects.
-  <sup>
-   98 GitHub links in total 277 links, ★ 240, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 240, pushed 6 days ago
   </sup>
+  – A community-maintained foundation library for your OCaml projects.
  </li>
  <li>
   <a href="https://github.com/dbuenzli/cmdliner">
    Cmdliner
   </a>
-  – Declarative definition of command line interfaces for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 34, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 34, pushed 7 days ago
   </sup>
+  – Declarative definition of command line interfaces for OCaml.
  </li>
  <li>
   <a href="https://github.com/janestreet/core">
    Core
   </a>
-  – Jane Street Capital's standard library overlay.
-  <sup>
-   98 GitHub links in total 277 links, ★ 367, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 367, pushed 5 days ago
   </sup>
+  – Jane Street Capital's standard library overlay.
  </li>
  <li>
   <a href="http://erratique.ch/software/react">
@@ -349,49 +331,37 @@
   <a href="https://github.com/ocamllabs/ocaml-ctypes">
    ctypes
   </a>
-  – Library for binding to C libraries using pure OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 122, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 122, pushed 4 days ago
   </sup>
+  – Library for binding to C libraries using pure OCaml.
  </li>
  <li>
   <a href="https://github.com/mjambon/easy-format">
    easy-format
   </a>
-  – Pretty-printing library for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 11, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 148 days ago
   </sup>
+  – Pretty-printing library for OCaml.
  </li>
  <li>
   <a href="https://github.com/mirage/ocaml-rpc">
    ocaml-rpc
   </a>
-  – Light library to deal with RPCs in OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 25, pushed 285 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 285 days ago
   </sup>
+  – Light library to deal with RPCs in OCaml.
  </li>
  <li>
   <a href="https://github.com/c-cube/ocaml-containers">
    ocaml-containers
   </a>
-  – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
-  <sup>
-   98 GitHub links in total 277 links, ★ 89, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 7 days ago
   </sup>
+  – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
  </li>
 </ul>
 <h2>
@@ -491,37 +461,28 @@
   <a href="https://github.com/facebook/pfff">
    pfff
   </a>
-  – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-  <sup>
-   98 GitHub links in total 277 links, ★ 1653, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 1653, pushed 36 days ago
   </sup>
+  – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
  </li>
  <li>
   <a href="https://github.com/facebook/infer">
    infer
   </a>
-  - infer is a static analyzer for Java, C and Objective-C
-  <sup>
-   98 GitHub links in total 277 links, ★ 5107, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5107, pushed 4 days ago
   </sup>
+  - infer is a static analyzer for Java, C and Objective-C
  </li>
  <li>
   <a href="https://github.com/facebook/flow">
    flow
   </a>
-  - flow is a static type checker for JavaScript
-  <sup>
-   98 GitHub links in total 277 links, ★ 7083, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 7083, pushed 3 days ago
   </sup>
+  - flow is a static type checker for JavaScript
  </li>
 </ul>
 <h2>
@@ -589,13 +550,10 @@
     <a href="https://github.com/artagnon/rhine-ml">
      Rhine
     </a>
-    – A Lisp on LLVM written in OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 552, pushed 399 days ago
-    </sup>
     <sup>
      &#9733 552, pushed 399 days ago
     </sup>
+    – A Lisp on LLVM written in OCaml.
    </li>
    <li>
     <a href="http://rust-lang.org">
@@ -635,6 +593,9 @@
     <a href="https://github.com/pyrocat101/opal">
      Opal
     </a>
+    <sup>
+     &#9733 40, pushed 23 days ago
+    </sup>
     – Self-contained monadic parser combinators for OCaml.
    </li>
    <li>
@@ -650,12 +611,6 @@
     – lex and yacc implementation for OCaml.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 40, pushed 23 days ago
-  </sup>
-  <sup>
-   &#9733 40, pushed 23 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -742,13 +697,10 @@
     <a href="https://github.com/0xffea/ocaml-redis">
      ocaml-redis
     </a>
-    – Redis bindings for OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 16, pushed 1 days ago
-    </sup>
     <sup>
      &#9733 16, pushed 1 days ago
     </sup>
+    – Redis bindings for OCaml.
    </li>
    <li>
     <a href="http://ocaml-mysql.forge.ocamlcore.org/">
@@ -760,13 +712,10 @@
     <a href="https://github.com/slegrand45/mysql_protocol">
      mysql_protocol
     </a>
-    – Implementation of MySQL Protocol with the Bitstring library.
-    <sup>
-     98 GitHub links in total 277 links, ★ 5, pushed 80 days ago
-    </sup>
     <sup>
      &#9733 5, pushed 80 days ago
     </sup>
+    – Implementation of MySQL Protocol with the Bitstring library.
    </li>
   </ul>
  </li>
@@ -779,6 +728,9 @@
     <a href="https://github.com/mirage/irmin">
      Irmin
     </a>
+    <sup>
+     &#9733 544, pushed 3 days ago
+    </sup>
     — A distributed database that follows the same design principles as Git.
    </li>
    <li>
@@ -791,21 +743,12 @@
     <a href="https://github.com/RunOrg/RunOrg">
      RunOrg
     </a>
-    - It is a WIP database server written in OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 8, pushed 408 days ago
-    </sup>
     <sup>
      &#9733 8, pushed 408 days ago
     </sup>
+    - It is a WIP database server written in OCaml.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 544, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 544, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -816,6 +759,9 @@
     <a href="https://github.com/ocsigen/macaque">
      Macaque
     </a>
+    <sup>
+     &#9733 22, pushed 74 days ago
+    </sup>
     — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
    </li>
    <li>
@@ -825,12 +771,6 @@
     — ORM for SQLite.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 22, pushed 74 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 74 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -860,25 +800,19 @@
   <a href="https://github.com/andrewray/iocaml">
    iocaml
   </a>
-  – An OCaml kernel for the IPython notebook.
-  <sup>
-   98 GitHub links in total 277 links, ★ 95, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 95, pushed 18 days ago
   </sup>
+  – An OCaml kernel for the IPython notebook.
  </li>
  <li>
   <a href="https://github.com/diml/utop">
    utop
   </a>
-  – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
-  <sup>
-   98 GitHub links in total 277 links, ★ 245, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 245, pushed 8 days ago
   </sup>
+  – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
  </li>
  <li>
   <a href="http://www.typerex.org/ocp-index.html#ocp-browser">
@@ -896,25 +830,19 @@
   <a href="https://github.com/samoht/ghim">
    ghim
   </a>
-  – A command-line tool to manage Github Issues.
-  <sup>
-   98 GitHub links in total 277 links, ★ 12, pushed 727 days ago
-  </sup>
   <sup>
    &#9733 12, pushed 727 days ago
   </sup>
+  – A command-line tool to manage Github Issues.
  </li>
  <li>
   <a href="https://github.com/mabrasil/generator-ocaml">
    OCaml Yeoman Generator
   </a>
-  – Yeoman generator to scaffold OCaml modules.
-  <sup>
-   98 GitHub links in total 277 links, ★ 13, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 13, pushed 43 days ago
   </sup>
+  – Yeoman generator to scaffold OCaml modules.
  </li>
  <li>
   <strong>
@@ -926,6 +854,9 @@
     <a href="https://github.com/johnwhitington/ocaml-main-program-in-c">
      ocaml-main-program-in-c
     </a>
+    <sup>
+     &#9733 11, pushed 883 days ago
+    </sup>
     – Example build system for making mixed C/Ocaml binaries where the main program is in C.
    </li>
    <li>
@@ -934,12 +865,6 @@
     </a>
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 11, pushed 883 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 883 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -951,31 +876,28 @@
     <a href="https://github.com/the-lambda-church/merlin">
      merlin
     </a>
+    <sup>
+     &#9733 395, pushed 4 days ago
+    </sup>
     – Context sensitive completion for Ocaml in Vim and Emacs.
    </li>
    <li>
     <a href="https://github.com/ocaml/tuareg">
      tuareg
     </a>
-    - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-    <sup>
-     98 GitHub links in total 277 links, ★ 107, pushed 25 days ago
-    </sup>
     <sup>
      &#9733 107, pushed 25 days ago
     </sup>
+    - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
    </li>
    <li>
     <a href="https://github.com/whitequark/sublime-better-ocaml">
      Sublime better ocaml
     </a>
+    <sup>
+     &#9733 7, pushed 247 days ago
+    </sup>
     — Better OCaml mode for Sublime Text.
-    <sup>
-     98 GitHub links in total 277 links, ★ 7, pushed 246 days ago
-    </sup>
-    <sup>
-     &#9733 7, pushed 246 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/def-lkb/sublime-text-merlin">
@@ -1006,12 +928,6 @@
     .
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 395, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 395, pushed 4 days ago
-  </sup>
  </li>
  <li>
   Code coverage
@@ -1146,13 +1062,10 @@
   <a href="https://github.com/johnwhitington/camlpdf">
    camlPDF
   </a>
-  – OCaml library for reading, writing and modifying PDF files.
-  <sup>
-   98 GitHub links in total 277 links, ★ 44, pushed 30 days ago
-  </sup>
   <sup>
    &#9733 44, pushed 30 days ago
   </sup>
+  – OCaml library for reading, writing and modifying PDF files.
  </li>
  <li>
   <a href="http://pelzlpj.github.io/capnp-ocaml/2014/09/02/capnp-ocaml-2.0/">
@@ -1163,13 +1076,10 @@
   <a href="https://github.com/Leonidas-from-XIV/slacko">
    slacko
   </a>
-  – A neat interface for Slack in OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 25, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 2 days ago
   </sup>
+  – A neat interface for Slack in OCaml.
  </li>
  <li>
   <a href="https://learnxinyminutes.com/docs/ocaml/">
@@ -1197,25 +1107,19 @@
     <a href="https://github.com/Chris00/ocaml-cairo">
      cairo2
     </a>
-    — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-    <sup>
-     98 GitHub links in total 277 links, ★ 11, pushed 261 days ago
-    </sup>
     <sup>
      &#9733 11, pushed 261 days ago
     </sup>
+    — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
    </li>
    <li>
     <a href="https://github.com/dbuenzli/vg">
      Vg
     </a>
-    – Declarative 2D vector graphics for OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 35, pushed 263 days ago
-    </sup>
     <sup>
      &#9733 35, pushed 263 days ago
     </sup>
+    – Declarative 2D vector graphics for OCaml.
    </li>
   </ul>
  </li>
@@ -1259,13 +1163,10 @@
     <a href="https://github.com/Kakadu/lablqt">
      lablqt
     </a>
-    – Qt5 bindings for OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 53, pushed 15 days ago
-    </sup>
     <sup>
      &#9733 53, pushed 15 days ago
     </sup>
+    – Qt5 bindings for OCaml.
    </li>
    <li>
     <a href="https://forge.ocamlcore.org/projects/labltk/">
@@ -1295,13 +1196,10 @@
   <a href="https://github.com/mjambon/mikmatch">
    mikmatch
   </a>
-  – OCaml pattern-matching extended with regexps
-  <sup>
-   98 GitHub links in total 277 links, ★ 16, pushed 67 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 67 days ago
   </sup>
+  – OCaml pattern-matching extended with regexps
  </li>
  <li>
   <a href="http://www.lexifi.com/blog/inlined-records-constructors">
@@ -1322,6 +1220,9 @@
   <a href="https://github.com/pyrocat101/ocaml-style-guide">
    OCaml Style Guide
   </a>
+  <sup>
+   &#9733 5, pushed 472 days ago
+  </sup>
   - See also:
   <a href="https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html">
    [1]
@@ -1335,12 +1236,6 @@
    [3]
   </a>
   .
-  <sup>
-   98 GitHub links in total 277 links, ★ 5, pushed 472 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 472 days ago
-  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/camlspotter/compiler-libs-hack">
@@ -1361,25 +1256,19 @@
   <a href="https://github.com/UnixJunkie/dolog">
    dolog
   </a>
-  – A dumb OCaml logger.
-  <sup>
-   98 GitHub links in total 277 links, ★ 17, pushed 202 days ago
-  </sup>
   <sup>
    &#9733 17, pushed 202 days ago
   </sup>
+  – A dumb OCaml logger.
  </li>
  <li>
   <a href="https://github.com/codinuum/volt">
    Volt
   </a>
-  – A variant of Bolt OCaml logging tool.
-  <sup>
-   98 GitHub links in total 277 links, ★ 2, pushed 1057 days ago
-  </sup>
   <sup>
    &#9733 2, pushed 1057 days ago
   </sup>
+  – A variant of Bolt OCaml logging tool.
  </li>
 </ul>
 <h2>
@@ -1427,6 +1316,9 @@
       import
      </em>
     </a>
+    <sup>
+     &#9733 12, pushed 137 days ago
+    </sup>
     – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
    </li>
    <li>
@@ -1437,90 +1329,73 @@
      </em>
      interpolate
     </a>
+    <sup>
+     &#9733 6, pushed 551 days ago
+    </sup>
     – A simple ppx filter to support string interpolation like
     <code>
      [%str "value of foo is $(foo)"]
     </code>
     .
-    <sup>
-     98 GitHub links in total 277 links, ★ 6, pushed 550 days ago
-    </sup>
-    <sup>
-     &#9733 6, pushed 550 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/m2ym/ppx_monad">
      ppx
     </a>
     <sup>
-     98 GitHub links in total 277 links, ★ 23, pushed 487 days ago
-    </sup>
-    <sup>
      &#9733 23, pushed 487 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 12, pushed 137 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 137 days ago
-  </sup>
  </li>
 </ul>
-<p>
- monad
+monad
 – Monad syntax extension for OCaml.
- <li>
-  <a href="https://github.com/whitequark/ppx_deriving_yojson">
-   ppx
-   <em>
-    deriving
-   </em>
-   yojson
-  </a>
-  – A Yojson codec generator for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, &#9733 27, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 27, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <strong>
-   Tools and Language Extensions
-  </strong>
-  :
-  <ul>
-   <li>
-    <a href="http://okmij.org/ftp/ML/MetaOCaml.html">
-     MetaOCaml
-    </a>
-    – an OCaml dialect for multi-stage programming.
-   </li>
-   <li>
-    <a href="http://thinkinginmeta.com/Fan">
-     Fan
-    </a>
-    – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
-   </li>
-   <li>
-    <a href="http://camlp5.gforge.inria.fr/">
-     camlp5
-    </a>
-    - Camlp5 is a preprocessor-pretty-printer of OCaml.
-   </li>
-   <li>
-    <a href="http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html">
-     camlp4
-    </a>
-    - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
-   </li>
-  </ul>
- </li>
-</p>
+<li>
+ <a href="https://github.com/whitequark/ppx_deriving_yojson">
+  ppx
+  <em>
+   deriving
+  </em>
+  yojson
+ </a>
+ <sup>
+  &#9733 27, pushed 1 days ago
+ </sup>
+ – A Yojson codec generator for OCaml.
+</li>
+<li>
+ <strong>
+  Tools and Language Extensions
+ </strong>
+ :
+ <ul>
+  <li>
+   <a href="http://okmij.org/ftp/ML/MetaOCaml.html">
+    MetaOCaml
+   </a>
+   – an OCaml dialect for multi-stage programming.
+  </li>
+  <li>
+   <a href="http://thinkinginmeta.com/Fan">
+    Fan
+   </a>
+   – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+  </li>
+  <li>
+   <a href="http://camlp5.gforge.inria.fr/">
+    camlp5
+   </a>
+   - Camlp5 is a preprocessor-pretty-printer of OCaml.
+  </li>
+  <li>
+   <a href="http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html">
+    camlp4
+   </a>
+   - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
+  </li>
+ </ul>
+</li>
 <h2>
  Mobile Applications
 </h2>
@@ -1553,27 +1428,21 @@
     <a href="https://github.com/mirage/ocaml-cohttp">
      ocaml-cohttp
     </a>
+    <sup>
+     &#9733 156, pushed 2 days ago
+    </sup>
     – Very lightweight HTTP server using Lwt or Async.
    </li>
    <li>
     <a href="https://github.com/ygrek/ocurl">
      ocurl
     </a>
-    – OCaml bindings to libcurl.
-    <sup>
-     98 GitHub links in total 277 links, ★ 17, pushed 3 days ago
-    </sup>
     <sup>
      &#9733 17, pushed 3 days ago
     </sup>
+    – OCaml bindings to libcurl.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 156, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 156, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <strong>
@@ -1585,75 +1454,57 @@
     <a href="https://github.com/issuu/ocaml-zmq">
      ocaml-zmq
     </a>
+    <sup>
+     &#9733 29, pushed 27 days ago
+    </sup>
     – ZeroMQ bindings for OCaml.
    </li>
    <li>
     <a href="https://github.com/rgrinberg/async-zmq">
      async-zmq
     </a>
-    – Async wrapper around ocaml-zmq.
-    <sup>
-     98 GitHub links in total 277 links, ★ 9, pushed 26 days ago
-    </sup>
     <sup>
      &#9733 9, pushed 26 days ago
     </sup>
+    – Async wrapper around ocaml-zmq.
    </li>
    <li>
     <a href="https://github.com/hcarty/lwt-zmq">
      lwt-zmq
     </a>
+    <sup>
+     &#9733 11, pushed 97 days ago
+    </sup>
     – Lwt-friendly interface to ZeroMQ for OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 11, pushed 96 days ago
-    </sup>
-    <sup>
-     &#9733 11, pushed 96 days ago
-    </sup>
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 29, pushed 27 days ago
-  </sup>
-  <sup>
-   &#9733 29, pushed 27 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mirage/ocaml-dns">
    ocaml-dns
   </a>
-  – A pure OCaml implementation of the DNS protocol.
-  <sup>
-   98 GitHub links in total 277 links, ★ 32, pushed 16 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 16 days ago
   </sup>
+  – A pure OCaml implementation of the DNS protocol.
  </li>
  <li>
   <a href="https://github.com/rgrinberg/onanomsg">
    onanomsg
   </a>
+  <sup>
+   &#9733 25, pushed 14 days ago
+  </sup>
   – nanomsg bindings for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 25, pushed 13 days ago
-  </sup>
-  <sup>
-   &#9733 25, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fluent/fluent-logger-ocaml">
    fluent-logger
   </a>
-  – Fluentd logger for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 3, pushed 612 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 612 days ago
   </sup>
+  – Fluentd logger for OCaml.
  </li>
 </ul>
 <h2>
@@ -1719,13 +1570,10 @@
     <a href="https://github.com/sagotch/makorel">
      makorel
     </a>
-    – Release OPAM packages easily.
-    <sup>
-     98 GitHub links in total 277 links, ★ 7, pushed 505 days ago
-    </sup>
     <sup>
      &#9733 7, pushed 505 days ago
     </sup>
+    – Release OPAM packages easily.
    </li>
   </ul>
  </li>
@@ -1747,37 +1595,28 @@
     <a href="https://github.com/ocaml/oasis2opam">
      oasis2opam
     </a>
-    — Tool to convert OASIS metadata to OPAM package descriptions.
-    <sup>
-     98 GitHub links in total 277 links, ★ 18, pushed 47 days ago
-    </sup>
     <sup>
      &#9733 18, pushed 47 days ago
     </sup>
+    — Tool to convert OASIS metadata to OPAM package descriptions.
    </li>
    <li>
     <a href="https://github.com/ocaml-obuild/obuild">
      obuild
     </a>
-    – Simple package build system for ocaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 37, pushed 30 days ago
-    </sup>
     <sup>
      &#9733 37, pushed 30 days ago
     </sup>
+    – Simple package build system for ocaml.
    </li>
    <li>
     <a href="https://github.com/janestreet/jenga">
      jenga
     </a>
-    – Monadic build system from Jane Street.
-    <sup>
-     98 GitHub links in total 277 links, ★ 30, pushed 5 days ago
-    </sup>
     <sup>
      &#9733 30, pushed 5 days ago
     </sup>
+    – Monadic build system from Jane Street.
    </li>
    <li>
     <a href="http://ocaml.org/learn/tutorials/ocamlbuild/">
@@ -1789,25 +1628,19 @@
     <a href="https://github.com/mmottl/ocaml-makefile">
      ocaml-makefile
     </a>
-    — Easy to use Makefile for small to medium-sized OCaml-projects.
-    <sup>
-     98 GitHub links in total 277 links, ★ 26, pushed 18 days ago
-    </sup>
     <sup>
      &#9733 26, pushed 18 days ago
     </sup>
+    — Easy to use Makefile for small to medium-sized OCaml-projects.
    </li>
    <li>
     <a href="https://github.com/dbuenzli/topkg">
      topkg
     </a>
-    — OPAM-aware packaging system using ocamlbuild.
-    <sup>
-     98 GitHub links in total 277 links, ★ 34, pushed 7 days ago
-    </sup>
     <sup>
      &#9733 34, pushed 7 days ago
     </sup>
+    — OPAM-aware packaging system using ocamlbuild.
    </li>
   </ul>
  </li>
@@ -1841,13 +1674,10 @@
     <a href="https://github.com/mlin/forkwork">
      ForkWork
     </a>
-    — A simple library for forking child processes to perform work on multiple cores.
-    <sup>
-     98 GitHub links in total 277 links, ★ 17, pushed 1102 days ago
-    </sup>
     <sup>
      &#9733 17, pushed 1102 days ago
     </sup>
+    — A simple library for forking child processes to perform work on multiple cores.
    </li>
    <li>
     <a href="http://functory.lri.fr/About.html">
@@ -1859,13 +1689,10 @@
     <a href="https://github.com/janestreet/rpc_parallel">
      Rpc.Parallel
     </a>
-    — A library for spawning processes on a cluster of machines, and passing typed messages between them.
-    <sup>
-     98 GitHub links in total 277 links, ★ 21, pushed 5 days ago
-    </sup>
     <sup>
      &#9733 21, pushed 5 days ago
     </sup>
+    — A library for spawning processes on a cluster of machines, and passing typed messages between them.
    </li>
    <li>
     <a href="http://projects.camlcity.org/projects/ocamlnet.html">
@@ -1881,13 +1708,10 @@
     <a href="https://github.com/MyLifeLabs/nproc">
      Nproc
     </a>
-    – Process pool implementation for OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 24, pushed 979 days ago
-    </sup>
     <sup>
      &#9733 24, pushed 979 days ago
     </sup>
+    – Process pool implementation for OCaml.
    </li>
   </ul>
  </li>
@@ -1930,29 +1754,23 @@
   <a href="https://github.com/biocaml/biocaml">
    biocaml
   </a>
+  <sup>
+   &#9733 60, pushed 5 days ago
+  </sup>
   – OCaml Bioinformatics Library
   <a href="http://biocaml.org">
    http://biocaml.org
   </a>
   .
-  <sup>
-   98 GitHub links in total 277 links, ★ 60, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 60, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/pveber/guizmin">
    guizmin
   </a>
-  – OCaml library for building bioinformatics pipelines.
-  <sup>
-   98 GitHub links in total 277 links, ★ 4, pushed 185 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 185 days ago
   </sup>
+  – OCaml library for building bioinformatics pipelines.
  </li>
  <li>
   <a href="https://mmottl.github.io/lacaml/">
@@ -1964,41 +1782,32 @@
   <a href="https://github.com/cheshire/onumerical">
    onumerical
   </a>
-  – Numerical library for OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 7, pushed 760 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 760 days ago
   </sup>
+  – Numerical library for OCaml.
  </li>
  <li>
   <a href="https://github.com/hammerlab/oml">
    oml
   </a>
-  - OCaml library for general numerical work.
-  <sup>
-   98 GitHub links in total 277 links, ★ 71, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 71, pushed 19 days ago
   </sup>
+  - OCaml library for general numerical work.
  </li>
  <li>
   <a href="https://github.com/rleonid/ocephes">
    ocephes
   </a>
+  <sup>
+   &#9733 8, pushed 99 days ago
+  </sup>
   - Bindings to frequently used
   <code>
    C
   </code>
   special funcitons library.
-  <sup>
-   98 GitHub links in total 277 links, ★ 8, pushed 99 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 99 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2009,37 +1818,28 @@
   <a href="https://github.com/ocaml/ocaml-re">
    Re
   </a>
-  – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-  <sup>
-   98 GitHub links in total 277 links, ★ 61, pushed 39 days ago
-  </sup>
   <sup>
    &#9733 61, pushed 39 days ago
   </sup>
+  – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
  </li>
  <li>
   <a href="https://github.com/mmottl/pcre-ocaml">
    ocaml-pcre
   </a>
-  – bindings to the PCRE library (perl-compatible regular expressions)
-  <sup>
-   98 GitHub links in total 277 links, ★ 11, pushed 68 days ago
-  </sup>
   <sup>
    &#9733 11, pushed 68 days ago
   </sup>
+  – bindings to the PCRE library (perl-compatible regular expressions)
  </li>
  <li>
   <a href="https://github.com/rgrinberg/humane-re">
    Humane-re
   </a>
-  – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
-  <sup>
-   98 GitHub links in total 277 links, ★ 16, pushed 261 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 261 days ago
   </sup>
+  – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
  </li>
 </ul>
 <h2>
@@ -2050,13 +1850,10 @@
   <a href="https://github.com/mirleft/ocaml-tls">
    ocaml-tls
   </a>
-  – TLS in pure OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 147, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 147, pushed 2 days ago
   </sup>
+  – TLS in pure OCaml.
  </li>
 </ul>
 <h2>
@@ -2078,25 +1875,19 @@
   <a href="https://github.com/rgrinberg/bencode">
    bencode
   </a>
-  — Bencode (.torrent file format) reader/writer.
-  <sup>
-   98 GitHub links in total 277 links, ★ 5, pushed 533 days ago
-  </sup>
   <sup>
    &#9733 5, pushed 533 days ago
   </sup>
+  — Bencode (.torrent file format) reader/writer.
  </li>
  <li>
   <a href="https://github.com/mjambon/biniou">
    biniou
   </a>
-  – Extensible binary data format, like JSON but faster.
-  <sup>
-   98 GitHub links in total 277 links, ★ 16, pushed 13 days ago
-  </sup>
   <sup>
    &#9733 16, pushed 13 days ago
   </sup>
+  – Extensible binary data format, like JSON but faster.
  </li>
  <li>
   <a href="http://erratique.ch/software/jsonm">
@@ -2120,13 +1911,10 @@
   <a href="https://github.com/janestreet/sexplib">
    sexplib
   </a>
-  – A S-expression parser and printer
-  <sup>
-   98 GitHub links in total 277 links, ★ 41, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 41, pushed 5 days ago
   </sup>
+  – A S-expression parser and printer
  </li>
 </ul>
 <h2>
@@ -2137,49 +1925,37 @@
   <a href="https://github.com/mirage/mirage">
    Mirage OS
   </a>
-  – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-  <sup>
-   98 GitHub links in total 277 links, ★ 657, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 657, pushed 2 days ago
   </sup>
+  – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
  </li>
  <li>
   <a href="https://github.com/mirage/ocaml-fat">
    ocaml-fat
   </a>
-  – Read and write FAT format filesystems from OCaml.
-  <sup>
-   98 GitHub links in total 277 links, ★ 8, pushed 390 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 390 days ago
   </sup>
+  – Read and write FAT format filesystems from OCaml.
  </li>
  <li>
   <a href="https://github.com/mirage/ocaml-git">
    ocaml-git
   </a>
-  – Pure OCaml low-level git bindings.
-  <sup>
-   98 GitHub links in total 277 links, ★ 39, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 39, pushed 3 days ago
   </sup>
+  – Pure OCaml low-level git bindings.
  </li>
  <li>
   <a href="https://github.com/mirage/ocaml-vchan">
    ocaml-vchan
   </a>
-  – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
-  <sup>
-   98 GitHub links in total 277 links, ★ 19, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 26 days ago
   </sup>
+  – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
  </li>
 </ul>
 <h2>
@@ -2190,13 +1966,10 @@
   <a href="https://github.com/samoht/alcotest">
    Alcotest
   </a>
-  – A lightweight and colourful test framework.
-  <sup>
-   98 GitHub links in total 277 links, ★ 0, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 8 days ago
   </sup>
+  – A lightweight and colourful test framework.
  </li>
  <li>
   <a href="https://github.com/warrenharris/ounit">
@@ -2208,29 +1981,23 @@
   <a href="https://github.com/c-cube/qcheck">
    QCheck
   </a>
-  — QCheck is a property testing library inspired from Haskell's QuickCheck
-  <sup>
-   98 GitHub links in total 277 links, ★ 27, pushed 44 days ago
-  </sup>
   <sup>
    &#9733 27, pushed 44 days ago
   </sup>
+  — QCheck is a property testing library inspired from Haskell's QuickCheck
  </li>
  <li>
   <a href="https://github.com/vincent-hugot/iTeML">
    iTeML
   </a>
+  <sup>
+   &#9733 22, pushed 8 days ago
+  </sup>
   (formerly known as
   <a href="http://batteries.vhugot.com/qtest/">
    qtest
   </a>
   )  — supports inline pragma's to generate tests.
-  <sup>
-   98 GitHub links in total 277 links, ★ 22, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 22, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="http://kaputt.x9c.fr">
@@ -2248,17 +2015,14 @@
   <a href="https://github.com/hcarty/ocaml-testsimple">
    TestSimple
   </a>
+  <sup>
+   &#9733 6, pushed 430 days ago
+  </sup>
   - A lightweight unit testing framework compatible with the
   <a href="https://testanything.org/">
    Test Anything Protocol
   </a>
   .
-  <sup>
-   98 GitHub links in total 277 links, ★ 6, pushed 430 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 430 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2277,6 +2041,9 @@
     <a href="https://github.com/rgrinberg/opium">
      Opium
     </a>
+    <sup>
+     &#9733 162, pushed 6 days ago
+    </sup>
     – Sinatra like web toolkit for OCaml.
    </li>
    <li>
@@ -2295,21 +2062,12 @@
     <a href="https://github.com/inhabitedtype/ocaml-webmachine">
      webmachine
     </a>
-    – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    <sup>
-     98 GitHub links in total 277 links, ★ 50, pushed 41 days ago
-    </sup>
     <sup>
      &#9733 50, pushed 41 days ago
     </sup>
+    – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 162, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 162, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <p>
@@ -2323,6 +2081,9 @@
     <a href="https://github.com/mirage/ocaml-cow">
      COW
     </a>
+    <sup>
+     &#9733 52, pushed 51 days ago
+    </sup>
     – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
    </li>
    <li>
@@ -2376,133 +2137,97 @@ modules
     <a href="https://github.com/bloomberg/bucklescript">
      BuckleScript
     </a>
-    - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
-    <sup>
-     98 GitHub links in total 277 links, ★ 653, pushed 4 days ago
-    </sup>
     <sup>
      &#9733 653, pushed 4 days ago
     </sup>
+    - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
    </li>
    <li>
     <a href="https://github.com/mirage/ocaml-uri">
      ocaml-uri
     </a>
-    – RFC3986 URI parsing library.
-    <sup>
-     98 GitHub links in total 277 links, ★ 31, pushed 33 days ago
-    </sup>
     <sup>
      &#9733 31, pushed 33 days ago
     </sup>
+    – RFC3986 URI parsing library.
    </li>
    <li>
     <a href="https://github.com/klakplok/goji">
      Goji
     </a>
-    – An OCaml bindings generator for JavaScript libraries.
-    <sup>
-     98 GitHub links in total 277 links, ★ 25, pushed 647 days ago
-    </sup>
     <sup>
      &#9733 25, pushed 647 days ago
     </sup>
+    – An OCaml bindings generator for JavaScript libraries.
    </li>
    <li>
     <a href="https://github.com/Cumulus/Syndic">
      Syndic
     </a>
-    – RSS and Atom feed parsing
-    <sup>
-     98 GitHub links in total 277 links, ★ 17, pushed 28 days ago
-    </sup>
     <sup>
      &#9733 17, pushed 28 days ago
     </sup>
+    – RSS and Atom feed parsing
    </li>
    <li>
     <a href="https://github.com/rgrinberg/ocaml-mustache">
      ocaml-mustache
     </a>
-    – mustache.js logic-less templates in OCaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 21, pushed 16 days ago
-    </sup>
     <sup>
      &#9733 21, pushed 16 days ago
     </sup>
+    – mustache.js logic-less templates in OCaml.
    </li>
    <li>
     <a href="https://github.com/barko/atdjs">
      atdjs
     </a>
+    <sup>
+     &#9733 8, pushed 951 days ago
+    </sup>
     – atd code generator for OCaml/js
     <em>
      of
     </em>
     ocaml.
-    <sup>
-     98 GitHub links in total 277 links, ★ 8, pushed 951 days ago
-    </sup>
-    <sup>
-     &#9733 8, pushed 951 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/tategakibunko/jingoo">
      jingoo
     </a>
-    – OCaml template engine almost compatible with jinja2.
-    <sup>
-     98 GitHub links in total 277 links, ★ 42, pushed 87 days ago
-    </sup>
     <sup>
      &#9733 42, pushed 88 days ago
     </sup>
+    – OCaml template engine almost compatible with jinja2.
    </li>
    <li>
     <a href="https://github.com/inhabitedtype/ocaml-dispatch">
      dispatch
     </a>
-    – Path-based dispatching for client- and server-side applications.
-    <sup>
-     98 GitHub links in total 277 links, ★ 14, pushed 167 days ago
-    </sup>
     <sup>
      &#9733 14, pushed 167 days ago
     </sup>
+    – Path-based dispatching for client- and server-side applications.
    </li>
    <li>
     <a href="https://github.com/aantron/lambda-soup">
      Lambda Soup
     </a>
-    - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
-    <sup>
-     98 GitHub links in total 277 links, ★ 70, pushed 19 days ago
-    </sup>
     <sup>
      &#9733 70, pushed 19 days ago
     </sup>
+    - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
    </li>
    <li>
     <a href="https://github.com/aantron/markup.ml">
      Markup.ml
     </a>
-    - Error-recovering streaming HTML5 and XML parsers, serializers.
-    <sup>
-     98 GitHub links in total 277 links, ★ 45, pushed 11 days ago
-    </sup>
     <sup>
      &#9733 45, pushed 12 days ago
     </sup>
+    - Error-recovering streaming HTML5 and XML parsers, serializers.
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 52, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 52, pushed 51 days ago
-  </sup>
  </li>
  <li>
   <p>
@@ -2516,15 +2241,12 @@ modules
     <a href="https://github.com/Cumulus/Cumulus">
      Cumulus
     </a>
+    <sup>
+     &#9733 32, pushed 366 days ago
+    </sup>
     – Hacker news like website with the OCaml framework Ocsigen
    </li>
   </ul>
-  <sup>
-   98 GitHub links in total 277 links, ★ 32, pushed 365 days ago
-  </sup>
-  <sup>
-   &#9733 32, pushed 365 days ago
-  </sup>
  </li>
 </ul>
 <hr/>

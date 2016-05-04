@@ -244,33 +244,27 @@
   <a href="https://github.com/crypto101/book">
    Crypto 101
   </a>
+  <sup>
+   &#9733 1239, pushed 12 days ago
+  </sup>
   (
   <a href="https://www.crypto101.io/">
    Site
   </a>
   , cc-nc) - the introductory book on cryptography
-  <sup>
-   140 GitHub links in total 261 links, ★ 1239, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 1239, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/littleosbook/littleosbook">
    The little book about OS development
   </a>
+  <sup>
+   &#9733 666, pushed 19 days ago
+  </sup>
   (
   <a href="http://littleosbook.github.io/">
    Site
   </a>
   , cc-nc-sa) - This is the source code for the book "The little book about OS development"
-  <sup>
-   140 GitHub links in total 261 links, ★ 666, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 666, pushed 19 days ago
-  </sup>
  </li>
  <li>
   How to Design Programs (
@@ -304,17 +298,14 @@
   <a href="https://github.com/patmorin/ods">
    Open Data Structures
   </a>
+  <sup>
+   &#9733 365, pushed 13 days ago
+  </sup>
   (
   <a href="http://opendatastructures.org/">
    Site
   </a>
   , cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
-  <sup>
-   140 GitHub links in total 261 links, ★ 365, pushed 13 days ago
-  </sup>
-  <sup>
-   &#9733 365, pushed 13 days ago
-  </sup>
  </li>
  <li>
   Algorithms, Etc. (
@@ -347,17 +338,14 @@
   <a href="https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction">
    Operating Systems and Middleware: Supporting Controlled Interaction
   </a>
+  <sup>
+   &#9733 63, pushed 100 days ago
+  </sup>
   (
   <a href="https://gustavus.edu/+max/os-book/">
    Site
   </a>
   cc-sa) - free, modifiable textbook on operating systems principles
-  <sup>
-   140 GitHub links in total 261 links, ★ 63, pushed 100 days ago
-  </sup>
-  <sup>
-   &#9733 63, pushed 100 days ago
-  </sup>
  </li>
  <li>
   Programming on Parallel Machines (
@@ -370,17 +358,14 @@
   <a href="https://github.com/sbinet/perfbook">
    Is Parallel Programming Hard, And, If So, What Can You Do About It?
   </a>
+  <sup>
+   &#9733 24, pushed 1205 days ago
+  </sup>
   (
   <a href="https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html">
    Site
   </a>
   , cc-sa) - The purpose of this book is to teach new programmers and scientists about the basics of High Performance Computing
-  <sup>
-   140 GitHub links in total 261 links, ★ 24, pushed 1205 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 1205 days ago
-  </sup>
  </li>
  <li>
   High Performance Computing (
@@ -414,33 +399,27 @@
   <a href="https://github.com/ianw/bottomupcs">
    Computer Science from the Bottom Up
   </a>
+  <sup>
+   &#9733 388, pushed 6 days ago
+  </sup>
   (
   <a href="http://www.bottomupcs.com/">
    Site
   </a>
   , cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
-  <sup>
-   140 GitHub links in total 261 links, ★ 388, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 388, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python">
    Problem Solving with Algorithms and Data Structures
   </a>
+  <sup>
+   &#9733 26, pushed 816 days ago
+  </sup>
   (
   <a href="http://interactivepython.org/runestone/static/pythonds/index.html">
    Site
   </a>
   , cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
-  <sup>
-   140 GitHub links in total 261 links, ★ 26, pushed 816 days ago
-  </sup>
-  <sup>
-   &#9733 26, pushed 816 days ago
-  </sup>
  </li>
  <li>
   Data Compression Explained (
@@ -462,29 +441,23 @@
   <a href="https://github.com/nborwankar/LearnDataScience">
    LearnDataScience
   </a>
-  (BSD) - Open Content for self-directed learning in data science
-  <sup>
-   140 GitHub links in total 261 links, ★ 1128, pushed 304 days ago
-  </sup>
   <sup>
    &#9733 1128, pushed 304 days ago
   </sup>
+  (BSD) - Open Content for self-directed learning in data science
  </li>
  <li>
   <a href="https://github.com/AllenDowney/ThinkStats2">
    Think Stats
   </a>
+  <sup>
+   &#9733 381, pushed 21 days ago
+  </sup>
   (
   <a href="http://greenteapress.com/thinkstats/">
    Site
   </a>
   , cc-sa) - Probability and Statistics for Programmers
-  <sup>
-   140 GitHub links in total 261 links, ★ 381, pushed 21 days ago
-  </sup>
-  <sup>
-   &#9733 381, pushed 21 days ago
-  </sup>
  </li>
  <li>
   A Brief Introduction to Neural Networks (
@@ -504,17 +477,14 @@
   <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">
    Bayesian Methods for Hackers
   </a>
+  <sup>
+   &#9733 9693, pushed 6 days ago
+  </sup>
   (
   <a href="http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/">
    Site
   </a>
   , MIT) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view
-  <sup>
-   140 GitHub links in total 261 links, ★ 9693, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 9693, pushed 6 days ago
-  </sup>
  </li>
  <li>
   Journal of Statistical Software (
@@ -527,17 +497,14 @@
   <a href="https://github.com/Carreau/jupyter-book">
    The Book Of Jupyter
   </a>
+  <sup>
+   &#9733 13, pushed 112 days ago
+  </sup>
   (
   <a href="https://carreau.gitbooks.io/jupyter-book/content/">
    Site
   </a>
   , cc) - This is some of the material that covers the advanced Jupyter/IPython SciPy tutorial that is/was/will be given in July 2015
-  <sup>
-   140 GitHub links in total 261 links, ★ 13, pushed 112 days ago
-  </sup>
-  <sup>
-   &#9733 13, pushed 112 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -552,33 +519,27 @@
   <a href="https://github.com/opsschool/curriculum">
    Ops School Curriculum
   </a>
+  <sup>
+   &#9733 939, pushed 22 days ago
+  </sup>
   (
   <a href="http://ops-school.readthedocs.org/en/latest/">
    Site
   </a>
   , cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
-  <sup>
-   140 GitHub links in total 261 links, ★ 939, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 939, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/heroku/12factor">
    Twelve Factor App
   </a>
+  <sup>
+   &#9733 818, pushed 4 days ago
+  </sup>
   (
   <a href="http://12factor.net/">
    Site
   </a>
   , MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
-  <sup>
-   140 GitHub links in total 261 links, ★ 818, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 818, pushed 4 days ago
-  </sup>
  </li>
  <li>
   Digital Oceans - Tutorials (
@@ -591,29 +552,23 @@
   <a href="https://github.com/phanan/htaccess">
    .htaccess Snippets
   </a>
-  (Public Domain) - A collection of useful .htaccess snippets, all in one place.
-  <sup>
-   140 GitHub links in total 261 links, ★ 9219, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 9219, pushed 27 days ago
   </sup>
+  (Public Domain) - A collection of useful .htaccess snippets, all in one place.
  </li>
  <li>
   <a href="https://github.com/travis-ci/docs-travis-ci-com">
    Travis CI
   </a>
+  <sup>
+   &#9733 69, pushed 1 days ago
+  </sup>
   (
   <a href="https://docs.travis-ci.com/">
    Site
   </a>
   , MIT) - Documentation for Travis
-  <sup>
-   140 GitHub links in total 261 links, ★ 69, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 69, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos/docs/">
@@ -639,13 +594,10 @@
   <a href="https://github.com/jlevy/the-art-of-command-line">
    The Art of Command Line
   </a>
-  (cc-sa) - Master the command line, in one page
-  <sup>
-   140 GitHub links in total 261 links, ★ 26355, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 26355, pushed 14 days ago
   </sup>
+  (cc-sa) - Master the command line, in one page
  </li>
 </ul>
 <p>
@@ -660,33 +612,27 @@
   <a href="https://github.com/HoTT/HoTT">
    Homotopy type theory
   </a>
+  <sup>
+   &#9733 354, pushed 14 days ago
+  </sup>
   (
   <a href="http://homotopytypetheory.org/">
    Site
   </a>
   , BSD) - Homotopy Type Theory is an interpretation of Martin-Löf’s intensional type theory into abstract homotopy theory.
-  <sup>
-   140 GitHub links in total 261 links, ★ 354, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 354, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jeffThompson/CollisionDetection">
    Collision Detection
   </a>
+  <sup>
+   &#9733 17, pushed 347 days ago
+  </sup>
   (
   <a href="http://www.jeffreythompson.org/collision-detection/">
    Site
   </a>
   , cc-nc-sa) - A book and examples on collision detection
-  <sup>
-   140 GitHub links in total 261 links, ★ 17, pushed 347 days ago
-  </sup>
-  <sup>
-   &#9733 17, pushed 347 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -701,49 +647,40 @@
   <a href="https://github.com/aosabook/aosabook">
    The Architecture of Open Source Applications 1
   </a>
+  <sup>
+   &#9733 480, pushed 6 days ago
+  </sup>
   (
   <a href="http://aosabook.org/en/index.html">
    Site
   </a>
   , cc-nc-sa)
-  <sup>
-   140 GitHub links in total 261 links, ★ 480, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 480, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/aosabook/aosabook">
    The Architecture of Open Source Applications 2
   </a>
+  <sup>
+   &#9733 480, pushed 6 days ago
+  </sup>
   (
   <a href="http://aosabook.org/en/index.html">
    Site
   </a>
   , cc-nc-sa)
-  <sup>
-   140 GitHub links in total 261 links, ★ 480, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 480, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/aosabook/aosabook">
    The Performance of Open Source Applications
   </a>
+  <sup>
+   &#9733 480, pushed 6 days ago
+  </sup>
   (
   <a href="http://aosabook.org/en/index.html">
    Site
   </a>
   , cc-nc-sa)
-  <sup>
-   140 GitHub links in total 261 links, ★ 480, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 480, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="http://bzr.savannah.gnu.org/lh/books/changes">
@@ -785,73 +722,58 @@
   <a href="https://github.com/aosabook/500lines">
    500 Lines or Less
   </a>
-  (cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
-  <sup>
-   140 GitHub links in total 261 links, ★ 7422, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 7422, pushed 2 days ago
   </sup>
+  (cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
  </li>
  <li>
   <a href="https://github.com/thoughtbot/guides">
    Guides
   </a>
-  (cc) - Guides for getting things done, programming well, and programming in style.
-  <sup>
-   140 GitHub links in total 261 links, ★ 5352, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 5352, pushed 4 days ago
   </sup>
+  (cc) - Guides for getting things done, programming well, and programming in style.
  </li>
  <li>
   <a href="https://github.com/adamwulf/app-launch-guide">
    An App Launch Guide
   </a>
+  <sup>
+   &#9733 3409, pushed 120 days ago
+  </sup>
   (
   <a href="http://www.applaunchguide.com/">
    Site
   </a>
   , Public Domain) - This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev.
-  <sup>
-   140 GitHub links in total 261 links, ★ 3409, pushed 119 days ago
-  </sup>
-  <sup>
-   &#9733 3409, pushed 120 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dennis714/RE-for-beginners">
    Reverse Engineering for Beginners
   </a>
+  <sup>
+   &#9733 3348, pushed 3 days ago
+  </sup>
   (
   <a href="http://beginners.re/">
    Site
   </a>
   , cc-nc-nd) - Topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM.
-  <sup>
-   140 GitHub links in total 261 links, ★ 3348, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 3348, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sayanee/build-podcast">
    Build Podcast
   </a>
+  <sup>
+   &#9733 263, pushed 7 days ago
+  </sup>
   (
   <a href="http://build-podcast.com/">
    Site
   </a>
   , Public Domain) - Build Podcast is a show about technology tools for design and development all in the fun spirit of hacking, creating and building stuff!
-  <sup>
-   140 GitHub links in total 261 links, ★ 263, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 263, pushed 7 days ago
-  </sup>
  </li>
  <li>
   Mozilla Developer Network (
@@ -864,49 +786,40 @@
   <a href="https://github.com/karlseguin/the-little-introduction-to-programming">
    The Little Introduction To Programming
   </a>
+  <sup>
+   &#9733 31, pushed 445 days ago
+  </sup>
   (
   <a href="http://codingintro.com/">
    Site
   </a>
   , cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
-  <sup>
-   140 GitHub links in total 261 links, ★ 31, pushed 445 days ago
-  </sup>
-  <sup>
-   &#9733 31, pushed 445 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/programminghistorian/jekyll">
    The Programming Historian
   </a>
+  <sup>
+   &#9733 87, pushed 6 days ago
+  </sup>
   (
   <a href="http://programminghistorian.org/">
    Site
   </a>
   , cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
-  <sup>
-   140 GitHub links in total 261 links, ★ 87, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 87, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/BloombergMedia/whatiscode">
    WHAT IS CODE?
   </a>
+  <sup>
+   &#9733 2622, pushed 84 days ago
+  </sup>
   (
   <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
    Site
   </a>
   , cc-nc-nd) - Paul Ford’s “What Is Code?”
-  <sup>
-   140 GitHub links in total 261 links, ★ 2622, pushed 84 days ago
-  </sup>
-  <sup>
-   &#9733 2622, pushed 84 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -921,17 +834,14 @@
   <a href="https://github.com/elastic/elasticsearch-definitive-guide">
    Elasticsearch - The Definitive Guide
   </a>
+  <sup>
+   &#9733 1262, pushed 4 days ago
+  </sup>
   (
   <a href="https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html">
    Site
   </a>
   , cc-nc-nd) - The Definitive Guide to Elasticsearch
-  <sup>
-   140 GitHub links in total 261 links, ★ 1262, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1262, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -946,29 +856,23 @@
   <a href="https://github.com/interagent/http-api-design">
    HTTP API Design Guide
   </a>
-  (cc) - HTTP API design guide extracted from work on the Heroku Platform API
-  <sup>
-   140 GitHub links in total 261 links, ★ 11388, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 11388, pushed 6 days ago
   </sup>
+  (cc) - HTTP API design guide extracted from work on the Heroku Platform API
  </li>
  <li>
   <a href="https://github.com/diveintomark/diveintohtml5">
    Dive Into HTML5
   </a>
+  <sup>
+   &#9733 707, pushed 292 days ago
+  </sup>
   (
   <a href="http://diveintohtml5.info/">
    Site
   </a>
   , cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
-  <sup>
-   140 GitHub links in total 261 links, ★ 707, pushed 292 days ago
-  </sup>
-  <sup>
-   &#9733 707, pushed 292 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/google/WebFundamentals/">
@@ -984,77 +888,62 @@
   <a href="https://github.com/mdo/code-guide">
    Code Guide
   </a>
+  <sup>
+   &#9733 5550, pushed 99 days ago
+  </sup>
   (
   <a href="http://codeguide.co/">
    Site
   </a>
   , MIT) - Standards for flexible, durable, and sustainable HTML and CSS
-  <sup>
-   140 GitHub links in total 261 links, ★ 5550, pushed 99 days ago
-  </sup>
-  <sup>
-   &#9733 5550, pushed 99 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hail2u/html-best-practices">
    HTML Best Practices
   </a>
-  (cc0) - For writing maintainable and scalable HTML documents
-  <sup>
-   140 GitHub links in total 261 links, ★ 376, pushed 30 days ago
-  </sup>
   <sup>
    &#9733 376, pushed 30 days ago
   </sup>
+  (cc0) - For writing maintainable and scalable HTML documents
  </li>
  <li>
   <a href="https://github.com/webcomponents/webcomponents.github.io">
    WebComponents.org
   </a>
+  <sup>
+   &#9733 702, pushed 4 days ago
+  </sup>
   (
   <a href="http://webcomponents.org/">
    Site
   </a>
   , cc-sa) - A place to discuss and evolve Web Component best-practices
-  <sup>
-   140 GitHub links in total 261 links, ★ 702, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 702, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/zenorocha/browser-diet">
    How to lose weight (in the browser)
   </a>
+  <sup>
+   &#9733 1761, pushed 3 days ago
+  </sup>
   (
   <a href="http://browserdiet.com/">
    Site
   </a>
   , cc-sa, MIT) - The definitive front-end performance guide
-  <sup>
-   140 GitHub links in total 261 links, ★ 1761, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1761, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/north/north">
    North
   </a>
+  <sup>
+   &#9733 4980, pushed 117 days ago
+  </sup>
   (
   <a href="http://pointnorth.io/">
    Site
   </a>
   , MIT) - MIT Design and development standards to align and guide your project.
-  <sup>
-   140 GitHub links in total 261 links, ★ 4980, pushed 117 days ago
-  </sup>
-  <sup>
-   &#9733 4980, pushed 117 days ago
-  </sup>
  </li>
  <li>
   RESTful Web APIs (
@@ -1074,17 +963,14 @@
   <a href="https://github.com/bagder/http2-explained">
    http2 explained
   </a>
+  <sup>
+   &#9733 526, pushed 32 days ago
+  </sup>
   (
   <a href="http://daniel.haxx.se/http2/">
    Site
   </a>
   , cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-  <sup>
-   140 GitHub links in total 261 links, ★ 526, pushed 32 days ago
-  </sup>
-  <sup>
-   &#9733 526, pushed 32 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1109,33 +995,27 @@
   <a href="https://github.com/chrismedrela/docs-guide">
    The Hitchhiker's Guide to Documentation!
   </a>
+  <sup>
+   &#9733 5, pushed 374 days ago
+  </sup>
   (
   <a href="http://docs-guide.readthedocs.org/en/latest/">
    Site
   </a>
   , cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation
-  <sup>
-   140 GitHub links in total 261 links, ★ 5, pushed 374 days ago
-  </sup>
-  <sup>
-   &#9733 5, pushed 374 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jgm/CommonMark">
    CommonMark Spec
   </a>
+  <sup>
+   &#9733 3053, pushed 28 days ago
+  </sup>
   (
   <a href="http://spec.commonmark.org/">
    Site
   </a>
   , cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
-  <sup>
-   140 GitHub links in total 261 links, ★ 3053, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 3053, pushed 28 days ago
-  </sup>
  </li>
  <li>
   reStructuredText Markup Specification (
@@ -1148,13 +1028,10 @@
   <a href="https://github.com/joshuacc/prose-for-programmers">
    Prose for Programmers
   </a>
-  (cc-nc-nd) - A book to help software developers write better prose
-  <sup>
-   140 GitHub links in total 261 links, ★ 109, pushed 79 days ago
-  </sup>
   <sup>
    &#9733 109, pushed 79 days ago
   </sup>
+  (cc-nc-nd) - A book to help software developers write better prose
  </li>
 </ul>
 <p>
@@ -1175,45 +1052,36 @@
   <a href="https://github.com/square/intro-to-d3">
    Intro to D3.js
   </a>
+  <sup>
+   &#9733 408, pushed 51 days ago
+  </sup>
   (
   <a href="https://square.github.io/intro-to-d3/">
    Site
   </a>
   , Apache 2.0) - The tutorial provides a quick intro to D3.js, a Javascript library for creating data visualizations in the browser.
-  <sup>
-   140 GitHub links in total 261 links, ★ 408, pushed 51 days ago
-  </sup>
-  <sup>
-   &#9733 408, pushed 51 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/shiffman/The-Nature-of-Code">
    The Nature of Code
   </a>
+  <sup>
+   &#9733 609, pushed 8 days ago
+  </sup>
   (
   <a href="http://natureofcode.com/">
    Site
   </a>
   , cc-nc, LGPL) - This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing
-  <sup>
-   140 GitHub links in total 261 links, ★ 609, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 609, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/DrSkippy/Data-Science-45min-Intros">
    Data Science 45-min Intros
   </a>
-  (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
-  <sup>
-   140 GitHub links in total 261 links, ★ 867, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 867, pushed 4 days ago
   </sup>
+  (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
  </li>
  <li>
   <a href="https://github.com/infoactive/data-design/">
@@ -1239,17 +1107,14 @@
   <a href="https://github.com/axismaps/thematic-cartography">
    Thematic Cartography Guide
   </a>
+  <sup>
+   &#9733 19, pushed 316 days ago
+  </sup>
   (
   <a href="http://axismaps.github.io/thematic-cartography/">
    Site
   </a>
   , cc-nc) - A short, friendly guide to basic principles of thematic mapping.
-  <sup>
-   140 GitHub links in total 261 links, ★ 19, pushed 315 days ago
-  </sup>
-  <sup>
-   &#9733 19, pushed 315 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1271,13 +1136,10 @@
   <a href="https://github.com/futurice/android-best-practices">
    Best practices in Android development
   </a>
-  (cc) - Do's and Don'ts for Android development, by Futurice developers
-  <sup>
-   140 GitHub links in total 261 links, ★ 9721, pushed 29 days ago
-  </sup>
   <sup>
    &#9733 9721, pushed 29 days ago
   </sup>
+  (cc) - Do's and Don'ts for Android development, by Futurice developers
  </li>
 </ul>
 <p>
@@ -1292,25 +1154,19 @@
   <a href="https://github.com/futurice/ios-good-practices">
    iOS Good Practices
   </a>
-  (cc) - Good ideas for iOS development, by Futurice developers.
-  <sup>
-   140 GitHub links in total 261 links, ★ 4220, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 4220, pushed 5 days ago
   </sup>
+  (cc) - Good ideas for iOS development, by Futurice developers.
  </li>
  <li>
   <a href="https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions">
    iOS Developer and Designer Interview Questions
   </a>
-  (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
-  <sup>
-   140 GitHub links in total 261 links, ★ 1068, pushed 209 days ago
-  </sup>
   <sup>
    &#9733 1068, pushed 209 days ago
   </sup>
+  (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
  </li>
 </ul>
 <p>
@@ -1325,13 +1181,10 @@
   <a href="https://github.com/cocktails-for-programmers/cocktails_for_programmers">
    Cocktails for programmers
   </a>
-  (MIT) - Сocktails for programmers. Коктейли для программистов.
-  <sup>
-   140 GitHub links in total 261 links, ★ 2147, pushed 510 days ago
-  </sup>
   <sup>
    &#9733 2147, pushed 510 days ago
   </sup>
+  (MIT) - Сocktails for programmers. Коктейли для программистов.
  </li>
  <li>
   <a href="https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized">
@@ -1347,89 +1200,71 @@
   <a href="https://github.com/imatix/zguide">
    ØMQ - The Guide
   </a>
+  <sup>
+   &#9733 1732, pushed 3 days ago
+  </sup>
   (
   <a href="http://zguide.zeromq.org/">
    Site
   </a>
   cc-nc-sa) - Learning and Using ØMQ
-  <sup>
-   140 GitHub links in total 261 links, ★ 1732, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1732, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nprapps/bestpractices">
    NPR Visuals' Best Practices
   </a>
-  (cc) - Best practices and coding conventions for the NPR Visuals team.
-  <sup>
-   140 GitHub links in total 261 links, ★ 228, pushed 529 days ago
-  </sup>
   <sup>
    &#9733 228, pushed 529 days ago
   </sup>
+  (cc) - Best practices and coding conventions for the NPR Visuals team.
  </li>
  <li>
   <a href="https://github.com/10up/Engineering-Best-Practices">
    10up Engineering Best Practices
   </a>
+  <sup>
+   &#9733 345, pushed 25 days ago
+  </sup>
   (
   <a href="https://10up.github.io/Engineering-Best-Practices/">
    Site
   </a>
   , MIT) - This guide dictates how we, as a company, engineer websites
-  <sup>
-   140 GitHub links in total 261 links, ★ 345, pushed 25 days ago
-  </sup>
-  <sup>
-   &#9733 345, pushed 25 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/peco/peco">
    Peco REAMDE
   </a>
-  (MIT) - Documenatation for Peco(Simplistic interactive filtering tool)
-  <sup>
-   140 GitHub links in total 261 links, ★ 2950, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 2950, pushed 6 days ago
   </sup>
+  (MIT) - Documenatation for Peco(Simplistic interactive filtering tool)
  </li>
  <li>
   <a href="https://github.com/adambard/learnxinyminutes-docs">
    Learn X in Y minutes
   </a>
+  <sup>
+   &#9733 3515, pushed 2 days ago
+  </sup>
   (
   <a href="https://learnxinyminutes.com/">
    Site
   </a>
   , cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
-  <sup>
-   140 GitHub links in total 261 links, ★ 3515, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 3515, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/staltz/rxmarbles">
    RxMarbles
   </a>
+  <sup>
+   &#9733 1052, pushed 34 days ago
+  </sup>
   (
   <a href="http://rxmarbles.com/">
    Site
   </a>
   , BSD) - Interactive diagrams of Rx Observables
-  <sup>
-   140 GitHub links in total 261 links, ★ 1052, pushed 34 days ago
-  </sup>
-  <sup>
-   &#9733 1052, pushed 34 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1447,13 +1282,10 @@
   <a href="https://github.com/mcinglis/c-style">
    C Style
   </a>
-  (cc-sa) - My favorite C programming practices
-  <sup>
-   140 GitHub links in total 261 links, ★ 256, pushed 790 days ago
-  </sup>
   <sup>
    &#9733 256, pushed 790 days ago
   </sup>
+  (cc-sa) - My favorite C programming practices
  </li>
 </ul>
 <p>
@@ -1468,17 +1300,14 @@
   <a href="https://github.com/coffeescript-cookbook/coffeescript-cookbook.github.io">
    Cofeescript Cookbook
   </a>
+  <sup>
+   &#9733 535, pushed 84 days ago
+  </sup>
   (
   <a href="https://coffeescript-cookbook.github.io/">
    Site
   </a>
   , cc) - CoffeeScript recipes for the community by the community.
-  <sup>
-   140 GitHub links in total 261 links, ★ 535, pushed 83 days ago
-  </sup>
-  <sup>
-   &#9733 535, pushed 84 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1503,13 +1332,10 @@
   <a href="https://github.com/necolas/idiomatic-css">
    idiomatic CSS
   </a>
+  <sup>
+   &#9733 4578, pushed 275 days ago
+  </sup>
   (cc) - Principles of writing consistent
-  <sup>
-   140 GitHub links in total 261 links, ★ 4578, pushed 274 days ago
-  </sup>
-  <sup>
-   &#9733 4578, pushed 274 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/FortAwesome/Font-Awesome/tree/master/src">
@@ -1546,17 +1372,14 @@
   <a href="https://github.com/mislav/poignant-guide">
    Why's Poignant Guide to Ruby
   </a>
+  <sup>
+   &#9733 367, pushed 4 days ago
+  </sup>
   (
   <a href="http://poignant.guide/book/">
    Site
   </a>
   , cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
-  <sup>
-   140 GitHub links in total 261 links, ★ 367, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 367, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rails/rails/tree/master/guides">
@@ -1572,25 +1395,19 @@
   <a href="https://github.com/bbatsov/rails-style-guide">
    The Rails Style Guide
   </a>
-  (cc) - A community-driven Ruby on Rails 4 style guide
-  <sup>
-   140 GitHub links in total 261 links, ★ 4449, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 4449, pushed 21 days ago
   </sup>
+  (cc) - A community-driven Ruby on Rails 4 style guide
  </li>
  <li>
   <a href="https://github.com/bbatsov/ruby-style-guide">
    Ruby Style Guide
   </a>
-  (cc) - A community-driven Ruby coding style guide
-  <sup>
-   140 GitHub links in total 261 links, ★ 10250, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 10250, pushed 3 days ago
   </sup>
+  (cc) - A community-driven Ruby coding style guide
  </li>
  <li>
   <a href="https://github.com/andreareginato/betterspecs/">
@@ -1606,17 +1423,14 @@
   <a href="https://github.com/tmm1/ruby-hacking-guide">
    Ruby Hacking Guide
   </a>
+  <sup>
+   &#9733 80, pushed 2557 days ago
+  </sup>
   (
   <a href="https://ruby-hacking-guide.github.io/">
    Site
   </a>
   , cc-nc-sa) - Ruby hacking guide english translation
-  <sup>
-   140 GitHub links in total 261 links, ★ 80, pushed 2557 days ago
-  </sup>
-  <sup>
-   &#9733 80, pushed 2557 days ago
-  </sup>
  </li>
  <li>
   Practicing Ruby (
@@ -1629,45 +1443,36 @@
   <a href="https://github.com/practicingruby/rbp-book">
    Ruby Best Practices
   </a>
-  (cc-nc-sa) - Ruby Best Practices, by Gregory Brown
-  <sup>
-   140 GitHub links in total 261 links, ★ 271, pushed 306 days ago
-  </sup>
   <sup>
    &#9733 271, pushed 306 days ago
   </sup>
+  (cc-nc-sa) - Ruby Best Practices, by Gregory Brown
  </li>
  <li>
   <a href="https://github.com/neo/ruby_koans">
    Neo Ruby Koans
   </a>
+  <sup>
+   &#9733 2535, pushed 57 days ago
+  </sup>
   (
   <a href="https://github.com/neo/ruby_koans">
    Site
   </a>
   , cc-nc-sa) - A set of Koans to teach the Ruby language
-  <sup>
-   140 GitHub links in total 261 links, ★ 2535, pushed 56 days ago
-  </sup>
-  <sup>
-   &#9733 2535, pushed 56 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/middleman/middleman-guides">
    Middleman
   </a>
+  <sup>
+   &#9733 218, pushed 10 days ago
+  </sup>
   (
   <a href="https://middlemanapp.com/">
    Site
   </a>
   , cc) - Documentation for Middleman
-  <sup>
-   140 GitHub links in total 261 links, ★ 218, pushed 9 days ago
-  </sup>
-  <sup>
-   &#9733 218, pushed 10 days ago
-  </sup>
  </li>
  <li>
   <a href="https://jekyllrb.com/">
@@ -1692,33 +1497,27 @@
   <a href="https://github.com/zk/clojuredocs">
    ClojureDocs
   </a>
+  <sup>
+   &#9733 395, pushed 112 days ago
+  </sup>
   (
   <a href="http://clojuredocs.org">
    Site
   </a>
   , Eclipse Public License) - community-powered documentation and examples repository for the Clojure programming language
-  <sup>
-   140 GitHub links in total 261 links, ★ 395, pushed 112 days ago
-  </sup>
-  <sup>
-   &#9733 395, pushed 112 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/clojuredocs/guides">
    Clojure Documentation
   </a>
+  <sup>
+   &#9733 252, pushed 24 days ago
+  </sup>
   (
   <a href="http://clojure-doc.org/">
    Site
   </a>
   , cc) - community-driven documentation site for the Clojure programming language
-  <sup>
-   140 GitHub links in total 261 links, ★ 252, pushed 23 days ago
-  </sup>
-  <sup>
-   &#9733 252, pushed 23 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1733,41 +1532,32 @@
   <a href="https://github.com/elixir-lang/elixir-lang.github.com">
    Elixir Getting Started
   </a>
+  <sup>
+   &#9733 112, pushed 3 days ago
+  </sup>
   (
   <a href="http://elixir-lang.org/getting-started/introduction.html">
    Site
   </a>
   , Apache 2.0) - Official Elixir tutorial
-  <sup>
-   140 GitHub links in total 261 links, ★ 112, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 112, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/seven1m/30-days-of-elixir">
    repo-30-days-of-elixir
   </a>
-  (MIT) - A walk through the Elixir language in 30 exercises
-  <sup>
-   140 GitHub links in total 261 links, ★ 1182, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 1182, pushed 8 days ago
   </sup>
+  (MIT) - A walk through the Elixir language in 30 exercises
  </li>
  <li>
   <a href="https://github.com/niftyn8/elixir_style_guide">
    Elixir Style Guide
   </a>
-  (cc) - A community driven style guide for Elixir
-  <sup>
-   140 GitHub links in total 261 links, ★ 1089, pushed 21 days ago
-  </sup>
   <sup>
    &#9733 1089, pushed 21 days ago
   </sup>
+  (cc) - A community driven style guide for Elixir
  </li>
 </ul>
 <h3>
@@ -1801,17 +1591,14 @@
   <a href="https://github.com/lfe/sicp">
    Structure and Interpretation of Computer Program
   </a>
+  <sup>
+   &#9733 39, pushed 38 days ago
+  </sup>
   (
   <a href="http://lfe.gitbooks.io/sicp/">
    Site
   </a>
   , cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
-  <sup>
-   140 GitHub links in total 261 links, ★ 39, pushed 38 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 38 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1826,25 +1613,19 @@
   <a href="https://github.com/mmcgrana/gobyexample">
    Go by Example
   </a>
-  (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
-  <sup>
-   140 GitHub links in total 261 links, ★ 1556, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 1556, pushed 14 days ago
   </sup>
+  (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
  </li>
  <li>
   <a href="https://github.com/astaxie/build-web-application-with-golang">
    Build Web Application With Golang
   </a>
-  (cc-sa) - A golang ebook intro how to build a web with golang
-  <sup>
-   140 GitHub links in total 261 links, ★ 10320, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 10320, pushed 3 days ago
   </sup>
+  (cc-sa) - A golang ebook intro how to build a web with golang
  </li>
 </ul>
 <p>
@@ -1866,29 +1647,23 @@
   <a href="https://github.com/bitemyapp/learnhaskell">
    How to learn Haskell
   </a>
-  (cc0) - This is a recommended path for learning Haskell based on experience helping others
-  <sup>
-   140 GitHub links in total 261 links, ★ 3690, pushed 61 days ago
-  </sup>
   <sup>
    &#9733 3690, pushed 62 days ago
   </sup>
+  (cc0) - This is a recommended path for learning Haskell based on experience helping others
  </li>
  <li>
   <a href="https://github.com/lotz84/haskellbyexample">
    Haskell By Example
   </a>
+  <sup>
+   &#9733 62, pushed 311 days ago
+  </sup>
   (
   <a href="http://lotz84.github.io/haskellbyexample/">
    Site
   </a>
   , cc) - Haskell by Example is a port of Go by Example to Haskell
-  <sup>
-   140 GitHub links in total 261 links, ★ 62, pushed 311 days ago
-  </sup>
-  <sup>
-   &#9733 62, pushed 311 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -1910,29 +1685,23 @@
   <a href="https://github.com/BonsaiDen/JavaScript-Garden">
    JavaScript-Garden
   </a>
+  <sup>
+   &#9733 2371, pushed 41 days ago
+  </sup>
   (
   <a href="http://bonsaiden.github.io/JavaScript-Garden/">
    Site
   </a>
   , MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-  <sup>
-   140 GitHub links in total 261 links, ★ 2371, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 2371, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lukehoban/es6features">
    ECMAScript 6 Features
   </a>
-  (MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
-  <sup>
-   140 GitHub links in total 261 links, ★ 14482, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 14482, pushed 18 days ago
   </sup>
+  (MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
  </li>
  <li>
   <a href="https://github.com/mikechau/react-primer-draft/">
@@ -1944,149 +1713,116 @@
   <a href="https://github.com/johnpapa/angular-styleguide">
    Angular Style Guide
   </a>
-  (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
-  <sup>
-   140 GitHub links in total 261 links, ★ 17991, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 17991, pushed 5 days ago
   </sup>
+  (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
  </li>
  <li>
   <a href="https://github.com/braziljs/js-the-right-way">
    JavaScript : The Right Way
   </a>
+  <sup>
+   &#9733 5510, pushed 16 days ago
+  </sup>
   (
   <a href="http://jstherightway.org/">
    Site
   </a>
   , cc-nc-sa) - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
-  <sup>
-   140 GitHub links in total 261 links, ★ 5510, pushed 16 days ago
-  </sup>
-  <sup>
-   &#9733 5510, pushed 16 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rwaldron/idiomatic.js">
    Idiomatic JavaScript
   </a>
-  (cc) - Principles of Writing Consistent, Idiomatic JavaScript
-  <sup>
-   140 GitHub links in total 261 links, ★ 10923, pushed 11 days ago
-  </sup>
   <sup>
    &#9733 10923, pushed 11 days ago
   </sup>
+  (cc) - Principles of Writing Consistent, Idiomatic JavaScript
  </li>
  <li>
   <a href="https://github.com/daniellmb/angular-test-patterns">
    Angular Test Patterns
   </a>
-  (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
-  <sup>
-   140 GitHub links in total 261 links, ★ 799, pushed 89 days ago
-  </sup>
   <sup>
    &#9733 799, pushed 89 days ago
   </sup>
+  (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
  </li>
  <li>
   <a href="https://github.com/airbnb/javascript">
    Airbnb JavaScript Style Guide
   </a>
-  (MIT) - A mostly reasonable approach to JavaScript
-  <sup>
-   140 GitHub links in total 261 links, ★ 34437, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 34437, pushed 2 days ago
   </sup>
+  (MIT) - A mostly reasonable approach to JavaScript
  </li>
  <li>
   <a href="https://github.com/BonsaiDen/JavaScript-Garden">
    JavaScript Garden
   </a>
+  <sup>
+   &#9733 2371, pushed 41 days ago
+  </sup>
   (
   <a href="http://bonsaiden.github.io/JavaScript-Garden/">
    Site
   </a>
   , MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-  <sup>
-   140 GitHub links in total 261 links, ★ 2371, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 2371, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/felixge/node-style-guide">
    Node.js Style Guide
   </a>
-  (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
-  <sup>
-   140 GitHub links in total 261 links, ★ 2967, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 2967, pushed 41 days ago
   </sup>
+  (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
  </li>
  <li>
   <a href="https://github.com/alanjames1987/Node.js-Best-Practices">
    Node.js Best Practices
   </a>
+  <sup>
+   &#9733 330, pushed 307 days ago
+  </sup>
   (
   <a href="http://justbuildsomething.com/node-js-best-practices/">
    Site
   </a>
   , MIT) - This is a list of best practices for writing robust Node.js code. It is inspired by other guilds such as Felix Geisendörfer's Node Style Guide and what is popular within the community
-  <sup>
-   140 GitHub links in total 261 links, ★ 330, pushed 307 days ago
-  </sup>
-  <sup>
-   &#9733 330, pushed 307 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/bevacqua/js">
    function qualityGuide () {
   </a>
-  (MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
-  <sup>
-   140 GitHub links in total 261 links, ★ 2285, pushed 165 days ago
-  </sup>
   <sup>
    &#9733 2285, pushed 165 days ago
   </sup>
+  (MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
  </li>
  <li>
   <a href="https://github.com/manuelkiessling/nodebeginner.org">
    The Node Beginner Book
   </a>
+  <sup>
+   &#9733 2903, pushed 48 days ago
+  </sup>
   (
   <a href="http://www.nodebeginner.org/">
    Site
   </a>
   , cc-nc-sa) - The Node Beginner Book is a comprehensive introduction to Node.js and some of the more advanced JavaScript topics like functional programming
-  <sup>
-   140 GitHub links in total 261 links, ★ 2903, pushed 48 days ago
-  </sup>
-  <sup>
-   &#9733 2903, pushed 48 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/workshopper/learnyounode">
    Learn You The Node.js For Much Win!
   </a>
-  (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
-  <sup>
-   140 GitHub links in total 261 links, ★ 3089, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3089, pushed 2 days ago
   </sup>
+  (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
  </li>
  <li>
   Understanding ECMAScript 6 (
@@ -2099,41 +1835,32 @@
   <a href="https://github.com/maxogden/art-of-node">
    An introduction to Node.js
   </a>
-  (cc-sa) - a short introduction to node.js
-  <sup>
-   140 GitHub links in total 261 links, ★ 4910, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 4910, pushed 15 days ago
   </sup>
+  (cc-sa) - a short introduction to node.js
  </li>
  <li>
   <a href="https://github.com/substack/stream-handbook">
    stream-handbook
   </a>
-  (cc) - how to write node programs with streams
-  <sup>
-   140 GitHub links in total 261 links, ★ 8106, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 8106, pushed 7 days ago
   </sup>
+  (cc) - how to write node programs with streams
  </li>
  <li>
   <a href="https://github.com/getify/You-Dont-Know-JS">
    You Don't Know JS
   </a>
+  <sup>
+   &#9733 30063, pushed 6 days ago
+  </sup>
   (
   <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series">
    Site
   </a>
   , cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
-  <sup>
-   140 GitHub links in total 261 links, ★ 30063, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 30063, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/n1k0/casperjs/blob/master/docs">
@@ -2194,29 +1921,23 @@
   <a href="https://github.com/kvalle/diy-lisp">
    DIY Lisp
   </a>
-  (BSD) - A hands-on, test driven guide to implementing a simple programming language
-  <sup>
-   140 GitHub links in total 261 links, ★ 477, pushed 80 days ago
-  </sup>
   <sup>
    &#9733 477, pushed 80 days ago
   </sup>
+  (BSD) - A hands-on, test driven guide to implementing a simple programming language
  </li>
  <li>
   <a href="https://github.com/orangeduck/BuildYourOwnLisp">
    Build Your Own Lisp
   </a>
+  <sup>
+   &#9733 1002, pushed 80 days ago
+  </sup>
   (
   <a href="http://www.buildyourownlisp.com/">
    Site
   </a>
   , cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
-  <sup>
-   140 GitHub links in total 261 links, ★ 1002, pushed 80 days ago
-  </sup>
-  <sup>
-   &#9733 1002, pushed 80 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -2231,13 +1952,10 @@
   <a href="https://github.com/NYTimes/objective-c-style-guide">
    NYTimes Objective-C Style Guide
   </a>
-  (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times
-  <sup>
-   140 GitHub links in total 261 links, ★ 4007, pushed 57 days ago
-  </sup>
   <sup>
    &#9733 4007, pushed 57 days ago
   </sup>
+  (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times
  </li>
 </ul>
 <h3>
@@ -2264,17 +1982,14 @@
   <a href="https://github.com/codeguy/php-the-right-way">
    PHP: The Right Way
   </a>
+  <sup>
+   &#9733 4733, pushed 8 days ago
+  </sup>
   (
   <a href="http://www.phptherightway.com/">
    Site
   </a>
   , by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
-  <sup>
-   140 GitHub links in total 261 links, ★ 4733, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 4733, pushed 7 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -2289,33 +2004,27 @@
   <a href="https://github.com/python/peps">
    Python Enhancement Proposals
   </a>
+  <sup>
+   &#9733 105, pushed 64 days ago
+  </sup>
   (
   <a href="https://www.python.org/dev/peps/">
    Site
   </a>
   , Open Publication License)
-  <sup>
-   140 GitHub links in total 261 links, ★ 105, pushed 64 days ago
-  </sup>
-  <sup>
-   &#9733 105, pushed 64 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kennethreitz/python-guide">
    The Hitchhiker’s Guide to Python!
   </a>
+  <sup>
+   &#9733 8654, pushed 2 days ago
+  </sup>
   (
   <a href="http://docs.python-guide.org/en/latest/">
    Site
   </a>
   , cc-nc-sa) -  Python best practices guidebook, written for Humans.
-  <sup>
-   140 GitHub links in total 261 links, ★ 8654, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 8654, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/django/django/tree/master/docs">
@@ -2338,49 +2047,40 @@
   <a href="https://github.com/rpicard/explore-flask">
    Explore Flask
   </a>
+  <sup>
+   &#9733 1020, pushed 14 days ago
+  </sup>
   (
   <a href="https://exploreflask.com/">
    Site
   </a>
   , Public Domain) - Explore Flask is a book about best practices and patterns for developing web applications with Flask
-  <sup>
-   140 GitHub links in total 261 links, ★ 1020, pushed 14 days ago
-  </sup>
-  <sup>
-   &#9733 1020, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/makaimc/fullstackpython.com">
    Full Stack Python
   </a>
+  <sup>
+   &#9733 1468, pushed 3 days ago
+  </sup>
   (
   <a href="http://www.fullstackpython.com/">
    Site
   </a>
   ,  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
-  <sup>
-   140 GitHub links in total 261 links, ★ 1468, pushed 3 days ago
-  </sup>
-  <sup>
-   &#9733 1468, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/swaroopch/byte-of-python">
    A Byte of Python
   </a>
+  <sup>
+   &#9733 329, pushed 15 days ago
+  </sup>
   (
   <a href="http://www.swaroopch.com/notes/python/">
    Site
   </a>
   , cc-sa) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience
-  <sup>
-   140 GitHub links in total 261 links, ★ 329, pushed 15 days ago
-  </sup>
-  <sup>
-   &#9733 329, pushed 15 days ago
-  </sup>
  </li>
  <li>
   Learning to Program Using Python (
@@ -2393,17 +2093,14 @@
   <a href="https://github.com/RafeKettler/magicmethods">
    A guide to Python's magic methods
   </a>
+  <sup>
+   &#9733 776, pushed 106 days ago
+  </sup>
   (
   <a href="http://www.rafekettler.com/magicmethods.html">
    Site
   </a>
   , cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
-  <sup>
-   140 GitHub links in total 261 links, ★ 776, pushed 106 days ago
-  </sup>
-  <sup>
-   &#9733 776, pushed 106 days ago
-  </sup>
  </li>
  <li>
   Think Python (
@@ -2442,33 +2139,27 @@
   <a href="https://github.com/rust-lang/rust-by-example">
    Rust by Example
   </a>
+  <sup>
+   &#9733 2069, pushed 2 days ago
+  </sup>
   (
   <a href="http://rustbyexample.com/">
    Site
   </a>
   , MIT) - Rust by Example is a collection of examples that illustrate various Rust concepts and the standard libraries
-  <sup>
-   140 GitHub links in total 261 links, ★ 2069, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 2069, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/steveklabnik/rust_for_rubyists">
    Rust For Rubyists
   </a>
+  <sup>
+   &#9733 342, pushed 416 days ago
+  </sup>
   (
   <a href="https://github.com/steveklabnik/rust_for_rubyists">
    Site
   </a>
   , AGPL) - Rust for Rubyists was the first community tutorial for Rust
-  <sup>
-   140 GitHub links in total 261 links, ★ 342, pushed 416 days ago
-  </sup>
-  <sup>
-   &#9733 342, pushed 416 days ago
-  </sup>
  </li>
  <li>
   Rust for Python Programmers (
@@ -2490,17 +2181,14 @@
   <a href="https://github.com/idocs/test1">
    Introduction to R
   </a>
+  <sup>
+   &#9733 65, pushed 750 days ago
+  </sup>
   (
   <a href="https://ramnathv.github.io/pycon2014-r/">
    Site
   </a>
   , cc-nc-sa & apache 2.0) - These are notes for an introductory R workshop I am teaching for Python Programmers
-  <sup>
-   140 GitHub links in total 261 links, ★ 65, pushed 750 days ago
-  </sup>
-  <sup>
-   &#9733 65, pushed 750 days ago
-  </sup>
  </li>
  <li>
   Cookbook for R (
@@ -2538,45 +2226,36 @@
   <a href="https://github.com/alexandru/scala-best-practices">
    Scala Best Practices
   </a>
-  (cc) - A collection of best practices, friendly to people that want to contribute
-  <sup>
-   140 GitHub links in total 261 links, ★ 2056, pushed 109 days ago
-  </sup>
   <sup>
    &#9733 2056, pushed 109 days ago
   </sup>
+  (cc) - A collection of best practices, friendly to people that want to contribute
  </li>
  <li>
   <a href="https://github.com/twitter/effectivescala">
    twitter.github.com/effectivescala
   </a>
+  <sup>
+   &#9733 1516, pushed 30 days ago
+  </sup>
   (
   <a href="http://twitter.github.io/effectivescala/">
    Site
   </a>
   , cc-by) - Twitter's Effective Scala Guide
-  <sup>
-   140 GitHub links in total 261 links, ★ 1516, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 1516, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/scala_school">
    Scala School!
   </a>
+  <sup>
+   &#9733 2482, pushed 5 days ago
+  </sup>
   (
   <a href="https://twitter.github.io/scala_school/">
    Site
   </a>
   , Apache 2.0) - Lessons in the Fundamentals of Scala
-  <sup>
-   140 GitHub links in total 261 links, ★ 2482, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 2482, pushed 5 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -2635,13 +2314,10 @@
   <a href="https://github.com/h5bp/server-configs-nginx">
    Nginx Server Configs
   </a>
-  (MIT) - Nginx HTTP server boilerplate configs
-  <sup>
-   140 GitHub links in total 261 links, ★ 4520, pushed 40 days ago
-  </sup>
   <sup>
    &#9733 4520, pushed 40 days ago
   </sup>
+  (MIT) - Nginx HTTP server boilerplate configs
  </li>
 </ul>
 <p>
@@ -2670,45 +2346,36 @@
   <a href="https://github.com/picandocodigo/emacs.sexy">
    Emacs is sexy!
   </a>
+  <sup>
+   &#9733 49, pushed 91 days ago
+  </sup>
   (
   <a href="http://emacs.sexy/">
    Site
   </a>
   , GNU) - Simple website to share the love for Emacs
-  <sup>
-   140 GitHub links in total 261 links, ★ 49, pushed 91 days ago
-  </sup>
-  <sup>
-   &#9733 49, pushed 91 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sjl/learnvimscriptthehardway">
    Learn Vimscript the Hard Way
   </a>
+  <sup>
+   &#9733 906, pushed 128 days ago
+  </sup>
   (
   <a href="http://learnvimscriptthehardway.stevelosh.com/">
    Site
   </a>
   , custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
-  <sup>
-   140 GitHub links in total 261 links, ★ 906, pushed 128 days ago
-  </sup>
-  <sup>
-   &#9733 906, pushed 128 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/bbatsov/emacs-lisp-style-guide">
    The Emacs Lisp Style Guide
   </a>
-  (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
-  <sup>
-   140 GitHub links in total 261 links, ★ 312, pushed 233 days ago
-  </sup>
   <sup>
    &#9733 312, pushed 233 days ago
   </sup>
+  (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
  </li>
  <li>
   A Byte of Vim (
@@ -2730,73 +2397,58 @@
   <a href="https://github.com/progit/progit">
    Pro Git
   </a>
+  <sup>
+   &#9733 5327, pushed 13 days ago
+  </sup>
   (
   <a href="http://git-scm.com/book/">
    Site
   </a>
   , cc-nc-sa) - An open source book on Git by Scott Chacon and Ben Straub
-  <sup>
-   140 GitHub links in total 261 links, ★ 5327, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 5327, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/agis-/git-style-guide">
    A Git Style Guide
   </a>
-  (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
-  <sup>
-   140 GitHub links in total 261 links, ★ 3204, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 3204, pushed 55 days ago
   </sup>
+  (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
  </li>
  <li>
   <a href="https://github.com/tiimgreen/github-cheat-sheet">
    Github Cheatsheet
   </a>
-  (MIT) - A list of cool features of Git and GitHub
-  <sup>
-   140 GitHub links in total 261 links, ★ 18492, pushed 27 days ago
-  </sup>
   <sup>
    &#9733 18492, pushed 27 days ago
   </sup>
+  (MIT) - A list of cool features of Git and GitHub
  </li>
  <li>
   <a href="https://github.com/blynn/gitmagic">
    Git Magic
   </a>
+  <sup>
+   &#9733 970, pushed 98 days ago
+  </sup>
   (
   <a href="http://cs.stanford.edu/~blynn/gitmagic/">
    Site
   </a>
   , GPL) - A guide to using Git
-  <sup>
-   140 GitHub links in total 261 links, ★ 970, pushed 97 days ago
-  </sup>
-  <sup>
-   &#9733 970, pushed 97 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jlord/git-it">
    Git it
   </a>
+  <sup>
+   &#9733 1271, pushed 13 days ago
+  </sup>
   (
   <a href="http://jlord.github.io/git-it">
    Site
   </a>
   , BSD) - A workshopper for learning Git and GitHub.
-  <sup>
-   140 GitHub links in total 261 links, ★ 1271, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 1271, pushed 13 days ago
-  </sup>
  </li>
 </ul>
 <p>
@@ -2830,17 +2482,14 @@
   <a href="https://github.com/basho/basho_docs">
    riak docs
   </a>
+  <sup>
+   &#9733 118, pushed 5 days ago
+  </sup>
   (
   <a href="http://docs.basho.com/riak/latest/">
    Site
   </a>
   , cc) - Documentation for riak
-  <sup>
-   140 GitHub links in total 261 links, ★ 118, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 118, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mitchellh/vagrant/tree/master/website/docs">
@@ -2866,17 +2515,14 @@
   <a href="https://github.com/phpmyadmin/localized_docs">
    phpMyAdmin
   </a>
+  <sup>
+   &#9733 8, pushed 4 days ago
+  </sup>
   (
   <a href="https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/">
    Site
   </a>
   , GPL) - Documentation for phpMyAdmin
-  <sup>
-   140 GitHub links in total 261 links, ★ 8, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/">
@@ -2935,13 +2581,10 @@
   <a href="https://github.com/tsgates/emacsbook">
    emacsbook
   </a>
-  (cc-nc)
-  <sup>
-   140 GitHub links in total 261 links, ★ 40, pushed 1183 days ago
-  </sup>
   <sup>
    &#9733 40, pushed 1183 days ago
   </sup>
+  (cc-nc)
  </li>
  <li>
   꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 (
@@ -2973,69 +2616,54 @@
   <a href="https://github.com/astaxie/build-web-application-with-golang">
    Build Web Applciation With Golang
   </a>
-  (cc-sa) - A golang ebook intro how to build a web with golang
-  <sup>
-   140 GitHub links in total 261 links, ★ 10320, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 10320, pushed 3 days ago
   </sup>
+  (cc-sa) - A golang ebook intro how to build a web with golang
  </li>
  <li>
   <a href="https://github.com/nqdeng/7-days-nodejs">
    七天学会NodeJS
   </a>
+  <sup>
+   &#9733 985, pushed 41 days ago
+  </sup>
   (
   <a href="http://nqdeng.github.io/7-days-nodejs/">
    Site
   </a>
   , MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
-  <sup>
-   140 GitHub links in total 261 links, ★ 985, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 985, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/forhappy/Cplusplus-Concurrency-In-Practice">
    C++ 并发编程指南
   </a>
-  (MIT) - A Detailed Cplusplus Concurrency Tutorial
-  <sup>
-   140 GitHub links in total 261 links, ★ 1025, pushed 18 days ago
-  </sup>
   <sup>
    &#9733 1025, pushed 18 days ago
   </sup>
+  (MIT) - A Detailed Cplusplus Concurrency Tutorial
  </li>
  <li>
   <a href="https://github.com/the5fire/backbonejs-learning-note">
    Backbone.js入门教程
   </a>
-  (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
-  <sup>
-   140 GitHub links in total 261 links, ★ 731, pushed 137 days ago
-  </sup>
   <sup>
    &#9733 731, pushed 137 days ago
   </sup>
+  (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
  </li>
  <li>
   <a href="https://github.com/ruanyf/es6tutorial">
    ECMAScript 6入门
   </a>
+  <sup>
+   &#9733 3391, pushed 2 days ago
+  </sup>
   (
   <a href="http://es6.ruanyifeng.com/">
    Site
   </a>
   , cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
-  <sup>
-   140 GitHub links in total 261 links, ★ 3391, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 3391, pushed 1 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -3046,29 +2674,23 @@
   <a href="https://github.com/mixi-inc/AndroidTraining">
    Android Development Training Course
   </a>
+  <sup>
+   &#9733 1028, pushed 6 days ago
+  </sup>
   (
   <a href="http://mixi-inc.github.io/AndroidTraining/">
    Site
   </a>
   , Apache 2.0) - Training course repository for android app development
-  <sup>
-   140 GitHub links in total 261 links, ★ 1028, pushed 6 days ago
-  </sup>
-  <sup>
-   &#9733 1028, pushed 6 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hatena/Hatena-Textbook">
    はてな教科書
   </a>
-  (cc-nc-sa) - はてな研修用教科書
-  <sup>
-   140 GitHub links in total 261 links, ★ 1400, pushed 41 days ago
-  </sup>
   <sup>
    &#9733 1400, pushed 41 days ago
   </sup>
+  (cc-nc-sa) - はてな研修用教科書
  </li>
 </ul>
 <p>
@@ -3083,97 +2705,73 @@
   <a href="https://github.com/PharkMillups/beautiful-docs">
    Beautiful Docs
   </a>
-  - Pointers to useful, well-written, and otherwise beautiful documentation
-  <sup>
-   140 GitHub links in total 261 links, ★ 2794, pushed 33 days ago
-  </sup>
   <sup>
    &#9733 2794, pushed 33 days ago
   </sup>
+  - Pointers to useful, well-written, and otherwise beautiful documentation
  </li>
  <li>
   <a href="https://github.com/papers-we-love/papers-we-love">
    Papers We Love
   </a>
-  - Papers from the computer science community to read and discuss
-  <sup>
-   140 GitHub links in total 261 links, ★ 16161, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 16161, pushed 12 days ago
   </sup>
+  - Papers from the computer science community to read and discuss
  </li>
  <li>
   <a href="https://github.com/bayandin/awesome-awesomeness">
    Awesome Awesomeness
   </a>
-  - A curated list of amazingly awesome awesomeness
-  <sup>
-   140 GitHub links in total 261 links, ★ 16107, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
+  - A curated list of amazingly awesome awesomeness
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome">
    Awesome
   </a>
-  - A curated list of awesome lists
-  <sup>
-   140 GitHub links in total 261 links, ★ 34522, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 34522, pushed 2 days ago
   </sup>
+  - A curated list of awesome lists
  </li>
  <li>
   <a href="https://github.com/rxin/db-readings">
    Readings in Databases
   </a>
-  - A list of papers essential to understanding databases and building new data systems
-  <sup>
-   140 GitHub links in total 261 links, ★ 4071, pushed 38 days ago
-  </sup>
   <sup>
    &#9733 4071, pushed 38 days ago
   </sup>
+  - A list of papers essential to understanding databases and building new data systems
  </li>
  <li>
   <a href="https://github.com/rasbt/python_reference">
    Python Reference
   </a>
-  - Useful functions, tutorials, and other Python-related things
-  <sup>
-   140 GitHub links in total 261 links, ★ 1519, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 1519, pushed 23 days ago
   </sup>
+  - Useful functions, tutorials, and other Python-related things
  </li>
  <li>
   <a href="https://github.com/NARKOZ/guides">
    Guides
   </a>
-  - Design and development guides
-  <sup>
-   140 GitHub links in total 261 links, ★ 1097, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 1097, pushed 37 days ago
   </sup>
+  - Design and development guides
  </li>
  <li>
   <a href="https://github.com/vhf/free-programming-books">
    List of Free Learning Resources
   </a>
-  - Freely available programming books
-  <sup>
-   140 GitHub links in total 261 links, ★ 54405, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 54405, pushed 3 days ago
   </sup>
+  - Freely available programming books
  </li>
  <li>
   <a href="https://www.gitbook.io/">
@@ -3213,13 +2811,10 @@
   <a href="https://github.com/revolunet/PythonBooks">
    Python Books
   </a>
-  - PythonBooks is a showcase of the best free ebooks about Python
-  <sup>
-   140 GitHub links in total 261 links, ★ 1162, pushed 120 days ago
-  </sup>
   <sup>
    &#9733 1162, pushed 120 days ago
   </sup>
+  - PythonBooks is a showcase of the best free ebooks about Python
  </li>
  <li>
   <a href="http://jsbooks.revolunet.com/">

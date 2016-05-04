@@ -178,6 +178,9 @@
   <a href="https://github.com/papers-we-love/papers-we-love">
    Papers We Love
   </a>
+  <sup>
+   &#9733 16161, pushed 12 days ago
+  </sup>
   //
   <a href="https://twitter.com/papers_we_love">
    @papers
@@ -186,12 +189,6 @@
    </em>
    love
   </a>
-  <sup>
-   6 GitHub links in total 172 links, ★ 16161, pushed 12 days ago
-  </sup>
-  <sup>
-   &#9733 16161, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="http://sciencehackday.org/">
@@ -1513,9 +1510,6 @@
    AndroidStudyGroup
   </a>
   <sup>
-   6 GitHub links in total 172 links, ★ 551, pushed 14 days ago
-  </sup>
-  <sup>
    &#9733 551, pushed 14 days ago
   </sup>
  </li>
@@ -1529,13 +1523,10 @@
   <a href="https://github.com/Lascorbe/CocoaConferences">
    Cocoa Conferences
   </a>
-  List of cocoa conferences for iOS & OSX developers.
-  <sup>
-   6 GitHub links in total 172 links, ★ 509, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 509, pushed 5 days ago
   </sup>
+  List of cocoa conferences for iOS & OSX developers.
  </li>
  <li>
   <a href="https://gist.github.com/maxogden/322a649ff84fe1c2a680">
@@ -1566,13 +1557,10 @@
   <a href="https://github.com/planetruby/awesome-events">
    planetruby/awesome-events
   </a>
-  . A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
-  <sup>
-   6 GitHub links in total 172 links, ★ 167, pushed 19 days ago
-  </sup>
   <sup>
    &#9733 167, pushed 19 days ago
   </sup>
+  . A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
  </li>
  <li>
   <a href="http://totalism.org/calendar">
@@ -1589,9 +1577,6 @@
   <a href="https://github.com/matteofigus/awesome-speaking">
    awesome-speaking
   </a>
-  <sup>
-   6 GitHub links in total 172 links, ★ 360, pushed 112 days ago
-  </sup>
   <sup>
    &#9733 360, pushed 112 days ago
   </sup>

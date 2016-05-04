@@ -207,25 +207,19 @@
   <a href="https://github.com/doctrine/migrations">
    doctrine\migrations
   </a>
-  - Doctrine Database Migrations Library
-  <sup>
-   11 GitHub links in total 36 links, ★ 360, pushed 22 days ago
-  </sup>
   <sup>
    &#9733 360, pushed 22 days ago
   </sup>
+  - Doctrine Database Migrations Library
  </li>
  <li>
   <a href="https://github.com/doctrine/data-fixtures">
    doctrine\data-fixtures
   </a>
-  - Doctrine2 ORM Data Fixtures Extensions
-  <sup>
-   11 GitHub links in total 36 links, ★ 317, pushed 119 days ago
-  </sup>
   <sup>
    &#9733 317, pushed 119 days ago
   </sup>
+  - Doctrine2 ORM Data Fixtures Extensions
  </li>
  <li>
   <a href="https://github.com/KnpLabs/DoctrineBehaviors/">
@@ -237,16 +231,13 @@
   <a href="https://github.com/nelmio/alice">
    Nelmio\Alice
   </a>
+  <sup>
+   &#9733 1007, pushed 4 days ago
+  </sup>
   - Data fixtures generator. Supports
   <a href="https://github.com/fzaninotto/Faker">
    fzaninotto\Faker
   </a>
-  <sup>
-   11 GitHub links in total 36 links, ★ 1007, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1007, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <h3>
@@ -257,61 +248,46 @@
   <a href="https://github.com/Kdyby/Doctrine">
    Kdyby\Doctrine
   </a>
-  - Doctrine 2 ORM integration into Nette Framework
-  <sup>
-   11 GitHub links in total 36 links, ★ 89, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 89, pushed 3 days ago
   </sup>
+  - Doctrine 2 ORM integration into Nette Framework
  </li>
  <li>
   <a href="https://github.com/Zenify/DoctrineBehaviors">
    Zenify\DoctrineBehaviors
   </a>
-  - Port of KnpLabs/DoctrineBehaviors to Nette
-  <sup>
-   11 GitHub links in total 36 links, ★ 9, pushed 51 days ago
-  </sup>
   <sup>
    &#9733 9, pushed 51 days ago
   </sup>
+  - Port of KnpLabs/DoctrineBehaviors to Nette
  </li>
  <li>
   <a href="https://github.com/Zenify/DoctrineMigrations">
    Zenify\DoctrineMigrations
   </a>
-  - Implementation of Doctrine Migrations to Nette
-  <sup>
-   11 GitHub links in total 36 links, ★ 21, pushed 162 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 162 days ago
   </sup>
+  - Implementation of Doctrine Migrations to Nette
  </li>
  <li>
   <a href="https://github.com/Zenify/DoctrineMethodsHydrator">
    Zenify\DoctrineMethodsHydrator
   </a>
-  - Hydrates presenter methods from parameters to entities
-  <sup>
-   11 GitHub links in total 36 links, ★ 15, pushed 182 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 182 days ago
   </sup>
+  - Hydrates presenter methods from parameters to entities
  </li>
  <li>
   <a href="https://github.com/Zenify/DoctrineFixtures">
    Zenify\DoctrineFixtures
   </a>
-  - Doctrine Fixtures, Faker and Alice integration to Nette
-  <sup>
-   11 GitHub links in total 36 links, ★ 8, pushed 182 days ago
-  </sup>
   <sup>
    &#9733 8, pushed 182 days ago
   </sup>
+  - Doctrine Fixtures, Faker and Alice integration to Nette
  </li>
 </ul>
 <h3>
@@ -322,13 +298,10 @@
   <a href="https://github.com/hautelook/AliceBundle">
    hautelook\AliceBundle
   </a>
-  - A Symfony2 bundle to help load Doctrine Fixtures with Alice
-  <sup>
-   11 GitHub links in total 36 links, ★ 193, pushed 43 days ago
-  </sup>
   <sup>
    &#9733 193, pushed 43 days ago
   </sup>
+  - A Symfony2 bundle to help load Doctrine Fixtures with Alice
  </li>
 </ul>
 <h2>
@@ -350,17 +323,14 @@
   <a href="https://github.com/fprochazka/project-archivist">
    fprochazka\project-archivist
   </a>
+  <sup>
+   &#9733 24, pushed 518 days ago
+  </sup>
   - source code of
   <a href="https://help.kdyby.org/">
    help.kdyby.org
   </a>
   , built on Nette
-  <sup>
-   11 GitHub links in total 36 links, ★ 24, pushed 518 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 518 days ago
-  </sup>
  </li>
 </ul>
 <h2>

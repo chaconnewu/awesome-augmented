@@ -1080,14 +1080,14 @@
     <a href="https://github.com/pixijs/pixi.js">
      Pixi.js
     </a>
+    <sup>
+     &#9733 10286, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/photonstorm/phaser">
      phaser
     </a>
-    <sup>
-     10 GitHub links in total 205 links, ★ 12077, pushed 4 days ago
-    </sup>
     <sup>
      &#9733 12077, pushed 4 days ago
     </sup>
@@ -1097,9 +1097,6 @@
      MelonJS
     </a>
     <sup>
-     10 GitHub links in total 205 links, ★ 1593, pushed 3 days ago
-    </sup>
-    <sup>
      &#9733 1593, pushed 3 days ago
     </sup>
    </li>
@@ -1108,19 +1105,13 @@
      kiwi.js
     </a>
     <sup>
-     10 GitHub links in total 205 links, ★ 788, pushed 6 days ago
-    </sup>
-    <sup>
-     &#9733 788, pushed 6 days ago
+     &#9733 788, pushed 7 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/craftyjs/Crafty">
      Crafty
     </a>
-    <sup>
-     10 GitHub links in total 205 links, ★ 2065, pushed 1 days ago
-    </sup>
     <sup>
      &#9733 2065, pushed 1 days ago
     </sup>
@@ -1130,9 +1121,6 @@
      PhysicsJS
     </a>
     <sup>
-     10 GitHub links in total 205 links, ★ 2681, pushed 11 days ago
-    </sup>
-    <sup>
      &#9733 2681, pushed 11 days ago
     </sup>
    </li>
@@ -1140,9 +1128,6 @@
     <a href="https://github.com/shakiba/stage.js">
      Stage.js
     </a>
-    <sup>
-     10 GitHub links in total 205 links, ★ 946, pushed 51 days ago
-    </sup>
     <sup>
      &#9733 946, pushed 51 days ago
     </sup>
@@ -1152,19 +1137,10 @@
      cocos2d
     </a>
     <sup>
-     10 GitHub links in total 205 links, ★ 1956, pushed 1 days ago
-    </sup>
-    <sup>
      &#9733 1956, pushed 1 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   10 GitHub links in total 205 links, ★ 10286, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 10286, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1325,9 +1301,6 @@
    awesome-awesomeness
   </a>
   <sup>
-   10 GitHub links in total 205 links, ★ 16107, pushed 7 days ago
-  </sup>
-  <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
  </li>
@@ -1335,9 +1308,6 @@
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <sup>
-   10 GitHub links in total 205 links, ★ 3765, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3765, pushed 2 days ago
   </sup>

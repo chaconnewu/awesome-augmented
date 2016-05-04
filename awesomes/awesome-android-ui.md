@@ -20,13 +20,10 @@
   <a href="https://github.com/wasabeef/awesome-android-libraries">
    wasabeef/awesome-android-libraries
   </a>
-  .
-  <sup>
-   2 GitHub links in total 20 links, ★ 2308, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 2308, pushed 12 days ago
   </sup>
+  .
  </li>
  <li>
   <em>
@@ -35,9 +32,6 @@
   <a href="https://github.com/cjwirth/awesome-ios-ui">
    cjwirth/awesome-ios-ui
   </a>
-  <sup>
-   2 GitHub links in total 20 links, ★ 7875, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 7875, pushed 5 days ago
   </sup>
@@ -1047,196 +1041,194 @@
   </img>
  </img>
 </p>
-<p>
- |
- <a href="https://www.apache.org/licenses/LICENSE-2.0">
-  Apache License V2
- </a>
- |
+|
+<a href="https://www.apache.org/licenses/LICENSE-2.0">
+ Apache License V2
+</a>
+|
+<img src="/art/Android-ObservableScrollView.gif" width="32%">
  <img src="/art/Android-ObservableScrollView.gif" width="32%">
-  <img src="/art/Android-ObservableScrollView.gif" width="32%">
-   <img src="/art/Android-ObservableScrollView2.gif" width="32%">
-    <img src="/art/Android-ObservableScrollView3.gif" width="32%">
-     <img src="/art/Android-ObservableScrollView4.gif" width="32%">
-      <img src="/art/Android-ObservableScrollView5.gif" width="32%">
-       <img src="/art/Android-ObservableScrollView6.gif" width="32%">
-        <img src="/art/Android-ObservableScrollView7.gif" width="32%">
-         <img src="/art/Android-ObservableScrollView8.gif" width="32%">
-          <img src="/art/Android-ObservableScrollView9.gif" width="32%">
-           <img src="/art/Android-ObservableScrollView10.gif" width="32%">
-            <img src="/art/Android-ObservableScrollView11.gif" width="32%">
-             <img src="/art/Android-ObservableScrollView12.gif" width="32%">
-              <img src="/art/Android-ObservableScrollView13.gif" width="32%">
-               <a href="https://github.com/felipecsl/AsymmetricGridView">
-                AsymmetricGridView
-               </a>
-               |
-               <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                Apache License V2
-               </a>
-               |
-               <img src="/art/AsymmetricGridView.png" width="49%">
-                <img src="/art/AsymmetricGridView2.png" width="49%">
-                 <a href="https://github.com/askerov/DynamicGrid">
-                  DynamicGrid
-                 </a>
-                 |
-                 <a href="http://opensource.org/licenses/MIT">
-                  MIT
-                 </a>
-                 |
-                 <img src="/art/DynamicGrid.gif" width="49%"/>
-                 <a href="https://github.com/etsy/AndroidStaggeredGrid">
-                  AndroidStaggeredGrid
+  <img src="/art/Android-ObservableScrollView2.gif" width="32%">
+   <img src="/art/Android-ObservableScrollView3.gif" width="32%">
+    <img src="/art/Android-ObservableScrollView4.gif" width="32%">
+     <img src="/art/Android-ObservableScrollView5.gif" width="32%">
+      <img src="/art/Android-ObservableScrollView6.gif" width="32%">
+       <img src="/art/Android-ObservableScrollView7.gif" width="32%">
+        <img src="/art/Android-ObservableScrollView8.gif" width="32%">
+         <img src="/art/Android-ObservableScrollView9.gif" width="32%">
+          <img src="/art/Android-ObservableScrollView10.gif" width="32%">
+           <img src="/art/Android-ObservableScrollView11.gif" width="32%">
+            <img src="/art/Android-ObservableScrollView12.gif" width="32%">
+             <img src="/art/Android-ObservableScrollView13.gif" width="32%">
+              <a href="https://github.com/felipecsl/AsymmetricGridView">
+               AsymmetricGridView
+              </a>
+              |
+              <a href="https://www.apache.org/licenses/LICENSE-2.0">
+               Apache License V2
+              </a>
+              |
+              <img src="/art/AsymmetricGridView.png" width="49%">
+               <img src="/art/AsymmetricGridView2.png" width="49%">
+                <a href="https://github.com/askerov/DynamicGrid">
+                 DynamicGrid
+                </a>
+                |
+                <a href="http://opensource.org/licenses/MIT">
+                 MIT
+                </a>
+                |
+                <img src="/art/DynamicGrid.gif" width="49%"/>
+                <a href="https://github.com/etsy/AndroidStaggeredGrid">
+                 AndroidStaggeredGrid
+                </a>
+                |
+                <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                 Apache License V2
+                </a>
+                |
+                <img src="/art/AndroidStaggeredGrid.png" width="49%">
+                 <a href="https://github.com/47deg/android-swipelistview">
+                  SwipeListView
                  </a>
                  |
                  <a href="https://www.apache.org/licenses/LICENSE-2.0">
                   Apache License V2
                  </a>
                  |
-                 <img src="/art/AndroidStaggeredGrid.png" width="49%">
-                  <a href="https://github.com/47deg/android-swipelistview">
-                   SwipeListView
+                 <img src="/art/android-swipelistview.png" width="49%">
+                  <a href="https://github.com/kanytu/android-parallax-recyclerview">
+                   android-parallax-recyclerview
                   </a>
                   |
                   <a href="https://www.apache.org/licenses/LICENSE-2.0">
                    Apache License V2
                   </a>
                   |
-                  <img src="/art/android-swipelistview.png" width="49%">
-                   <a href="https://github.com/kanytu/android-parallax-recyclerview">
-                    android-parallax-recyclerview
-                   </a>
-                   |
-                   <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                    Apache License V2
-                   </a>
-                   |
-                   <img src="/art/android-parallax-recyclerview.gif" width="49%">
-                    <img src="/art/android-parallax-recyclerview2.gif" width="49%">
-                     <a href="https://github.com/emmano/BlurStickyHeaderListView">
-                      BlurStickyHeaderListView
-                     </a>
-                     |
-                     <a href="http://opensource.org/licenses/MIT">
-                      MIT
-                     </a>
-                     |
-                     <img src="/art/BlurStickyHeaderListView.gif" width="49%"/>
-                     <a href="https://github.com/wasabeef/recyclerview-animators">
-                      RecyclerView Animators
-                     </a>
-                     |
-                     <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                      Apache License V2
-                     </a>
-                     |
-                     <img src="/art/recyclerview-animators.gif" width="49%">
-                      <img src="/art/recyclerview-animators2.gif" width="49%">
-                       <a href="https://github.com/yqritc/RecyclerView-FlexibleDivider">
-                        RecyclerView-FlexibleDivider
-                       </a>
-                       |
-                       <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                        Apache License V2
-                       </a>
-                       |
-                       <img src="/art/RecyclerView-FlexibleDivider.png" width="49%">
-                        <img src="/art/RecyclerView-FlexibleDivider2.png" width="49%">
-                         <a href="https://github.com/bmelnychuk/AndroidTreeView">
-                          AndroidTreeView
-                         </a>
-                         |
-                         <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                          Apache License V2
-                         </a>
-                         |
-                         <img src="/art/AndroidTreeView.webp" width="49%">
-                          <img src="/art/AndroidTreeView2.webp" width="49%">
-                           <a href="https://github.com/danoz73/RecyclerViewFastScroller">
-                            RecyclerViewFastScroller
-                           </a>
-                           |
-                           <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                            Apache License V2
-                           </a>
-                           |
-                           <img src="/art/RecyclerViewFastScroller.png" width="49%">
-                            <img src="/art/RecyclerViewFastScroller2.png" width="49%">
-                             <a href="https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter">
-                              RecyclerView-MultipleViewTypesAdapter
+                  <img src="/art/android-parallax-recyclerview.gif" width="49%">
+                   <img src="/art/android-parallax-recyclerview2.gif" width="49%">
+                    <a href="https://github.com/emmano/BlurStickyHeaderListView">
+                     BlurStickyHeaderListView
+                    </a>
+                    |
+                    <a href="http://opensource.org/licenses/MIT">
+                     MIT
+                    </a>
+                    |
+                    <img src="/art/BlurStickyHeaderListView.gif" width="49%"/>
+                    <a href="https://github.com/wasabeef/recyclerview-animators">
+                     RecyclerView Animators
+                    </a>
+                    |
+                    <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                     Apache License V2
+                    </a>
+                    |
+                    <img src="/art/recyclerview-animators.gif" width="49%">
+                     <img src="/art/recyclerview-animators2.gif" width="49%">
+                      <a href="https://github.com/yqritc/RecyclerView-FlexibleDivider">
+                       RecyclerView-FlexibleDivider
+                      </a>
+                      |
+                      <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                       Apache License V2
+                      </a>
+                      |
+                      <img src="/art/RecyclerView-FlexibleDivider.png" width="49%">
+                       <img src="/art/RecyclerView-FlexibleDivider2.png" width="49%">
+                        <a href="https://github.com/bmelnychuk/AndroidTreeView">
+                         AndroidTreeView
+                        </a>
+                        |
+                        <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                         Apache License V2
+                        </a>
+                        |
+                        <img src="/art/AndroidTreeView.webp" width="49%">
+                         <img src="/art/AndroidTreeView2.webp" width="49%">
+                          <a href="https://github.com/danoz73/RecyclerViewFastScroller">
+                           RecyclerViewFastScroller
+                          </a>
+                          |
+                          <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                           Apache License V2
+                          </a>
+                          |
+                          <img src="/art/RecyclerViewFastScroller.png" width="49%">
+                           <img src="/art/RecyclerViewFastScroller2.png" width="49%">
+                            <a href="https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter">
+                             RecyclerView-MultipleViewTypesAdapter
+                            </a>
+                            |
+                            <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                             Apache License V2
+                            </a>
+                            |
+                            <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
+                             <a href="https://github.com/vcalvello/SwipeToAction">
+                              SwipeToAction
                              </a>
                              |
                              <a href="https://www.apache.org/licenses/LICENSE-2.0">
                               Apache License V2
                              </a>
                              |
-                             <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
-                              <a href="https://github.com/vcalvello/SwipeToAction">
-                               SwipeToAction
+                             <img src="/art/SwipeToAction.gif" width="49%">
+                              <a href="https://github.com/h6ah4i/android-advancedrecyclerview">
+                               Advanced Recyclerview
                               </a>
                               |
                               <a href="https://www.apache.org/licenses/LICENSE-2.0">
                                Apache License V2
                               </a>
                               |
-                              <img src="/art/SwipeToAction.gif" width="49%">
-                               <a href="https://github.com/h6ah4i/android-advancedrecyclerview">
-                                Advanced Recyclerview
+                              <img src="/art/AdvancedRecyclerView.gif" width="49%">
+                               <a href="https://github.com/magiepooh/RecyclerItemDecoration">
+                                RecyclerItemDecoration
                                </a>
                                |
                                <a href="https://www.apache.org/licenses/LICENSE-2.0">
                                 Apache License V2
                                </a>
                                |
-                               <img src="/art/AdvancedRecyclerView.gif" width="49%">
-                                <a href="https://github.com/magiepooh/RecyclerItemDecoration">
-                                 RecyclerItemDecoration
-                                </a>
-                                |
-                                <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                                 Apache License V2
-                                </a>
-                                |
-                                <img src="/art/recycler-itemdecoration1.gif" width="49%">
-                                 <img src="/art/recycler-itemdecoration2.gif" width="49%">
-                                  <a href="https://github.com/ZieIony/MaterialRecents">
-                                   MaterialRecents
+                               <img src="/art/recycler-itemdecoration1.gif" width="49%">
+                                <img src="/art/recycler-itemdecoration2.gif" width="49%">
+                                 <a href="https://github.com/ZieIony/MaterialRecents">
+                                  MaterialRecents
+                                 </a>
+                                 |
+                                 <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                                  Apache License V2
+                                 </a>
+                                 |
+                                 <img src="/art/MaterialRecents.gif" width="49%">
+                                  <a href="https://github.com/Karumi/Dividers">
+                                   Dividers
                                   </a>
                                   |
                                   <a href="https://www.apache.org/licenses/LICENSE-2.0">
                                    Apache License V2
                                   </a>
                                   |
-                                  <img src="/art/MaterialRecents.gif" width="49%">
-                                   <a href="https://github.com/Karumi/Dividers">
-                                    Dividers
+                                  <img src="/art/Dividers.gif" width="49%">
+                                   <a href="https://github.com/afollestad/drag-select-recyclerview">
+                                    Drag Select Recycler View
+                                   </a>
+                                   |
+                                   <a href="http://opensource.org/licenses/MIT">
+                                    MIT
+                                   </a>
+                                   |
+                                   <img src="/art/drag-select-recyclerview.gif" width="49%"/>
+                                   <a href="https://github.com/timehop/sticky-headers-recyclerview">
+                                    sticky-headers-recyclerview
                                    </a>
                                    |
                                    <a href="https://www.apache.org/licenses/LICENSE-2.0">
                                     Apache License V2
                                    </a>
                                    |
-                                   <img src="/art/Dividers.gif" width="49%">
-                                    <a href="https://github.com/afollestad/drag-select-recyclerview">
-                                     Drag Select Recycler View
-                                    </a>
-                                    |
-                                    <a href="http://opensource.org/licenses/MIT">
-                                     MIT
-                                    </a>
-                                    |
-                                    <img src="/art/drag-select-recyclerview.gif" width="49%"/>
-                                    <a href="https://github.com/timehop/sticky-headers-recyclerview">
-                                     sticky-headers-recyclerview
-                                    </a>
-                                    |
-                                    <a href="https://www.apache.org/licenses/LICENSE-2.0">
-                                     Apache License V2
-                                    </a>
-                                    |
-                                    <img src="/art/sticky-headers-recyclerview.gif" width="49%"/>
-                                   </img>
+                                   <img src="/art/sticky-headers-recyclerview.gif" width="49%"/>
                                   </img>
                                  </img>
                                 </img>
@@ -1271,7 +1263,7 @@
    </img>
   </img>
  </img>
-</p>
+</img>
 <h1>
  ViewPager
 </h1>

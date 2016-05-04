@@ -181,7 +181,7 @@
 </ul>
 <p>
  <code>
-  https://buffer.com/add?text=This+is+the+content&url;=https%3A%2F%2Fexample.com
+  https://buffer.com/add?text=This+is+the+content&url=https%3A%2F%2Fexample.com
  </code>
 </p>
 <h2>
@@ -211,7 +211,7 @@
 </ul>
 <p>
  <code>
-  https://delicious.com/post?url=https://example.com&title;=This+is+the+title&notes;=This+is+the+content
+  https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes=This+is+the+content
  </code>
 </p>
 <h2>
@@ -240,7 +240,7 @@
 </ul>
 <p>
  <code>
-  http://digg.com/submit?url=https://example.com&title;=This+is+the+title
+  http://digg.com/submit?url=https://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -266,7 +266,7 @@
 </ul>
 <p>
  <code>
-  http://www.echojs.com/submit?u=https://example.com&t;=This+is+the+title
+  http://www.echojs.com/submit?u=https://example.com&t=This+is+the+title
  </code>
 </p>
 <h2>
@@ -295,7 +295,7 @@
 </ul>
 <p>
  <code>
-  mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body;=This+is+the+content
+  mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body=This+is+the+content
  </code>
 </p>
 <h2>
@@ -325,7 +325,7 @@
 </ul>
 <p>
  <code>
-  https://facebook.com/sharer.php?app_id=123456789&u;=https://example.com
+  https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
  </code>
 </p>
 <h2>
@@ -379,7 +379,7 @@
 </ul>
 <p>
  <code>
-  https://flattr.com/submit/auto?user_id=account&url;=https://example.com&title;=This+is+the+title
+  https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -413,7 +413,7 @@
 </ul>
 <p>
  <code>
-  https://share.flipboard.com/bookmarklet/popout?v=2&title;=This+is+the+title&url;=http://example.com&t;=201601010000
+  https://share.flipboard.com/bookmarklet/popout?v=2&title=This+is+the+title&url=http://example.com&t=201601010000
  </code>
 </p>
 <h2>
@@ -454,7 +454,7 @@
 </ul>
 <p>
  <code>
-  https://www.google.com/bookmarks/mark?op=edit&bkmk;=https://example.com&title;=This+is+the+title&annotation;=This+is+the+content&labels;=one,two
+  https://www.google.com/bookmarks/mark?op=edit&bkmk=https://example.com&title=This+is+the+title&annotation=This+is+the+content&labels=one,two
  </code>
 </p>
 <h2>
@@ -502,7 +502,7 @@
 </ul>
 <p>
  <code>
-  https://news.ycombinator.com/submitlink?u=https://example.com&t;=This+is+the+title
+  https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
  </code>
 </p>
 <h2>
@@ -565,7 +565,7 @@
 </ul>
 <p>
  <code>
-  https://linkedin.com/shareArticle?url=https://example.com&title;=This+is+the+title
+  https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -617,7 +617,7 @@
 </ul>
 <p>
  <code>
-  https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url;=http://example.com&description;=This+is+the+content
+  https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url=http://example.com&description=This+is+the+content
  </code>
 </p>
 <h2>
@@ -643,7 +643,7 @@
 </ul>
 <p>
  <code>
-  https://getpocket.com/save?title=This+is+the+title&url;=http://example.com
+  https://getpocket.com/save?title=This+is+the+title&url=http://example.com
  </code>
 </p>
 <h2>
@@ -669,7 +669,7 @@
 </ul>
 <p>
  <code>
-  https://reddit.com/submit?url=http://example.com&title;=This+is+the+title
+  https://reddit.com/submit?url=http://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -699,7 +699,7 @@
 </ul>
 <p>
  <code>
-  http://widget.renren.com/dialog/share?resourceUrl=https://example.com&title;=This+is+the+title&description;=This+is+the+content
+  http://widget.renren.com/dialog/share?resourceUrl=https://example.com&title=This+is+the+title&description=This+is+the+content
  </code>
 </p>
 <h2>
@@ -725,7 +725,7 @@
 </ul>
 <p>
  <code>
-  http://service.weibo.com/share/share.php?url=https://example.com&title;=This+is+the+title
+  http://service.weibo.com/share/share.php?url=https://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -754,7 +754,7 @@
 </ul>
 <p>
  <code>
-  http://www.stumbleupon.com/submit?url=https://example.com&title;=This+is+the+title
+  http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+title
  </code>
 </p>
 <h2>
@@ -824,7 +824,7 @@
 </ul>
 <p>
  <code>
-  https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&posttype;=link&title;=This+is+the+title&caption;=This+is+the+content
+  https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&posttype=link&title=This+is+the+title&caption=This+is+the+content
  </code>
 </p>
 <h2>
@@ -866,7 +866,7 @@
 </ul>
 <p>
  <code>
-  https://twitter.com/share?url=https://example.com&text;=This+is+the+content&via;=account&hashtags;=one,two
+  https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
  </code>
 </p>
 <h2>

@@ -72,73 +72,55 @@
   <a href="https://github.com/sindresorhus/sublime-ava">
    sublime-ava
   </a>
-  - Snippets for AVA tests.
-  <sup>
-   15 GitHub links in total 26 links, ★ 26, pushed 28 days ago
-  </sup>
   <sup>
    &#9733 26, pushed 28 days ago
   </sup>
+  - Snippets for AVA tests.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/atom-ava">
    atom-ava
   </a>
-  - Snippets for AVA tests.
-  <sup>
-   15 GitHub links in total 26 links, ★ 47, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 47, pushed 1 days ago
   </sup>
+  - Snippets for AVA tests.
  </li>
  <li>
   <a href="https://github.com/samverschueren/vscode-ava">
    vscode-ava
   </a>
-  - Snippets for AVA tests.
-  <sup>
-   15 GitHub links in total 26 links, ★ 7, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 7, pushed 25 days ago
   </sup>
+  - Snippets for AVA tests.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/eslint-plugin-ava">
    eslint-plugin-ava
   </a>
-  - Lint rules for AVA tests.
-  <sup>
-   15 GitHub links in total 26 links, ★ 52, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 52, pushed 2 days ago
   </sup>
+  - Lint rules for AVA tests.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-ava">
    gulp-ava
   </a>
-  - Run tests with gulp.
-  <sup>
-   15 GitHub links in total 26 links, ★ 32, pushed 26 days ago
-  </sup>
   <sup>
    &#9733 32, pushed 26 days ago
   </sup>
+  - Run tests with gulp.
  </li>
  <li>
   <a href="https://github.com/sindresorhus/grunt-ava">
    grunt-ava
   </a>
-  - Run tests with grunt.
-  <sup>
-   15 GitHub links in total 26 links, ★ 4, pushed 25 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 25 days ago
   </sup>
+  - Run tests with grunt.
  </li>
  <li>
   <a href="https://github.com/pine613/fly-ava">
@@ -150,73 +132,55 @@
   <a href="https://github.com/start-runner/ava">
    start-ava
   </a>
-  - Run tests with start.
-  <sup>
-   15 GitHub links in total 26 links, ★ 3, pushed 36 days ago
-  </sup>
   <sup>
    &#9733 3, pushed 36 days ago
   </sup>
+  - Run tests with start.
  </li>
  <li>
   <a href="https://github.com/unlight/sigh-ava">
    sigh-ava
   </a>
-  - Run tests with sigh.
-  <sup>
-   15 GitHub links in total 26 links, ★ 0, pushed 127 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 127 days ago
   </sup>
+  - Run tests with sigh.
  </li>
  <li>
   <a href="https://github.com/sotojuan/redux-ava">
    redux-ava
   </a>
-  - Test helpers for Redux.
-  <sup>
-   15 GitHub links in total 26 links, ★ 64, pushed 15 days ago
-  </sup>
   <sup>
    &#9733 64, pushed 16 days ago
   </sup>
+  - Test helpers for Redux.
  </li>
  <li>
   <a href="https://github.com/conorhastings/redux-test-recorder">
    redux-test-recorder
   </a>
-  - Generate AVA tests for Redux reducers in a React app.
-  <sup>
-   15 GitHub links in total 26 links, ★ 169, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 169, pushed 2 days ago
   </sup>
+  - Generate AVA tests for Redux reducers in a React app.
  </li>
  <li>
   <a href="https://github.com/jamestalmage/ava-codemods">
    ava-codemods
   </a>
-  - Codemods for AVA that simplifies upgrading to newer versions.
-  <sup>
-   15 GitHub links in total 26 links, ★ 22, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 22, pushed 23 days ago
   </sup>
+  - Codemods for AVA that simplifies upgrading to newer versions.
  </li>
  <li>
   <a href="https://github.com/sheerun/ava-spec">
    ava-spec
   </a>
-  - Drop-in BDD helpers.
-  <sup>
-   15 GitHub links in total 26 links, ★ 47, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 47, pushed 7 days ago
   </sup>
+  - Drop-in BDD helpers.
  </li>
  <li>
   <a href="https://github.com/kevinsawicki/spectron#with-ava">
@@ -233,9 +197,6 @@
   <a href="https://github.com/kentcdodds/react-ava-workshop">
    React + AVA = :heart:
   </a>
-  <sup>
-   15 GitHub links in total 26 links, ★ 83, pushed 5 days ago
-  </sup>
   <sup>
    &#9733 83, pushed 5 days ago
   </sup>

@@ -213,7 +213,7 @@
   <a href="https://www.youtube.com/watch?v=dvWTxy1eY6s">
    Relay - Daniel Dembach - Hamburg React.js Meetup
   </a>
-  - A good general overview of Relay, some discussion of alternatives. Common questions are covered in Q&A; at the end.
+  - A good general overview of Relay, some discussion of alternatives. Common questions are covered in Q&A at the end.
  </li>
  <li>
   <a href="https://www.youtube.com/watch?v=sP3n-nht0Xo">
@@ -277,13 +277,10 @@
   <a href="https://github.com/taion/relay-todomvc">
    Relay TODO MVC
   </a>
-  - The classic TODO example app, written with Relay.
-  <sup>
-   27 GitHub links in total 80 links, ★ 73, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 73, pushed 13 days ago
   </sup>
+  - The classic TODO example app, written with Relay.
  </li>
  <li>
   <a href="https://github.com/transedward/relay-chat">
@@ -291,13 +288,10 @@
     relay-chat
    </code>
   </a>
+  <sup>
+   &#9733 71, pushed 142 days ago
+  </sup>
   - Relay with routing and pagination.
-  <sup>
-   27 GitHub links in total 80 links, ★ 71, pushed 141 days ago
-  </sup>
-  <sup>
-   &#9733 71, pushed 141 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chentsulin/koa-graphql-relay-example">
@@ -305,6 +299,9 @@
     koa-graphql-relay-example
    </code>
   </a>
+  <sup>
+   &#9733 24, pushed 4 days ago
+  </sup>
   - "TODO" app with
   <a href="https://github.com/chentsulin/koa-graphql">
    <code>
@@ -316,12 +313,6 @@
    relay
   </code>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 24, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 24, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/sogko/todomvc-relay-go">
@@ -329,13 +320,10 @@
     todomvc-relay-go
    </code>
   </a>
-  - Relay TodoMVC app, driven by a Golang GraphQL backend.
-  <sup>
-   27 GitHub links in total 80 links, ★ 15, pushed 166 days ago
-  </sup>
   <sup>
    &#9733 15, pushed 166 days ago
   </sup>
+  - Relay TodoMVC app, driven by a Golang GraphQL backend.
  </li>
 </ul>
 <h2>
@@ -361,17 +349,14 @@
     graphql-relay-js
    </code>
   </a>
+  <sup>
+   &#9733 460, pushed 8 days ago
+  </sup>
   - Simplifies creating a JS GraphQL server for
   <code>
    react-relay
   </code>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 460, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 460, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/babel-relay-plugin">
@@ -385,6 +370,9 @@
     react-router-relay
    </code>
   </a>
+  <sup>
+   &#9733 356, pushed 2 days ago
+  </sup>
   -
   <code>
    react-router
@@ -415,25 +403,16 @@
       isomorphic-relay-router
      </code>
     </a>
+    <sup>
+     &#9733 64, pushed 2 days ago
+    </sup>
     - Server side rendering support for
     <code>
      react-router-relay
     </code>
     .
-    <sup>
-     27 GitHub links in total 80 links, ★ 64, pushed 2 days ago
-    </sup>
-    <sup>
-     &#9733 64, pushed 2 days ago
-    </sup>
    </li>
   </ul>
-  <sup>
-   27 GitHub links in total 80 links, ★ 356, pushed 1 days ago
-  </sup>
-  <sup>
-   &#9733 356, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/4Catalyzer/relay-decorators">
@@ -441,17 +420,14 @@
     relay-decorator
    </code>
   </a>
+  <sup>
+   &#9733 2, pushed 62 days ago
+  </sup>
   - Simply syntax for Relay containers with ES7 decorators (
   <code>
    @
   </code>
   syntax)
-  <sup>
-   27 GitHub links in total 80 links, ★ 2, pushed 62 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 62 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/recompose-relay">
@@ -467,13 +443,10 @@
     relay-local-schema
    </code>
   </a>
+  <sup>
+   &#9733 91, pushed 22 days ago
+  </sup>
   - Use a local schema; no need for a remote GraphQL server.
-  <sup>
-   27 GitHub links in total 80 links, ★ 91, pushed 21 days ago
-  </sup>
-  <sup>
-   &#9733 91, pushed 21 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lenaten/react-native-relay">
@@ -481,6 +454,9 @@
     react-native-relay
    </code>
   </a>
+  <sup>
+   &#9733 56, pushed 40 days ago
+  </sup>
   - Use Relay with React Native.
   <ul>
    <li>
@@ -491,12 +467,6 @@
     in the future.
    </li>
   </ul>
-  <sup>
-   27 GitHub links in total 80 links, ★ 56, pushed 40 days ago
-  </sup>
-  <sup>
-   &#9733 56, pushed 40 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/acdlite/relay-sink">
@@ -504,13 +474,10 @@
     relay-sink
    </code>
   </a>
-  - Use Relay to fetch and store data outside of a React component.
-  <sup>
-   27 GitHub links in total 80 links, ★ 107, pushed 148 days ago
-  </sup>
   <sup>
    &#9733 107, pushed 148 days ago
   </sup>
+  - Use Relay to fetch and store data outside of a React component.
  </li>
  <li>
   <a href="https://github.com/guymers/babel-plugin-flow-relay-query">
@@ -518,17 +485,14 @@
     babel-plugin-flow-relay-query
    </code>
   </a>
+  <sup>
+   &#9733 10, pushed 5 days ago
+  </sup>
   - Convert
   <a href="http://flowtype.org">
    Flow
   </a>
   types into Relay fragments.
-  <sup>
-   27 GitHub links in total 80 links, ★ 10, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/MattMcFarland/sequelize-relay">
@@ -536,6 +500,9 @@
     sequelize-relay
    </code>
   </a>
+  <sup>
+   &#9733 41, pushed 99 days ago
+  </sup>
   - Make Relay compatible with
   <a href="https://github.com/sequelize/sequelize">
    <code>
@@ -543,12 +510,6 @@
    </code>
   </a>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 41, pushed 99 days ago
-  </sup>
-  <sup>
-   &#9733 41, pushed 99 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mikberg/relay-mongodb-connection">
@@ -556,13 +517,10 @@
     relay-mongodb-connection
    </code>
   </a>
-  - Create Relay connections from MongoDB cursors.
-  <sup>
-   27 GitHub links in total 80 links, ★ 4, pushed 169 days ago
-  </sup>
   <sup>
    &#9733 4, pushed 169 days ago
   </sup>
+  - Create Relay connections from MongoDB cursors.
  </li>
  <li>
   <a href="https://github.com/eyston/relay-composite-network-layer">
@@ -570,13 +528,10 @@
     relay-composite-network-layer
    </code>
   </a>
-  - Compose your Relay Network Layer of many different Network Layers each with their own schema.
-  <sup>
-   27 GitHub links in total 80 links, ★ 28, pushed 127 days ago
-  </sup>
   <sup>
    &#9733 28, pushed 127 days ago
   </sup>
+  - Compose your Relay Network Layer of many different Network Layers each with their own schema.
  </li>
 </ul>
 <h2>
@@ -587,27 +542,21 @@
   <a href="https://github.com/graphql/graphiql">
    GraphiQL
   </a>
+  <sup>
+   &#9733 1295, pushed 4 days ago
+  </sup>
   - A library to introspect GraphQL, test queries and mutations.
   <ul>
    <li>
     <a href="https://github.com/skevy/graphiql-app">
      GraphiQL App
     </a>
-    - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
-    <sup>
-     27 GitHub links in total 80 links, ★ 186, pushed 76 days ago
-    </sup>
     <sup>
      &#9733 186, pushed 76 days ago
     </sup>
+    - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
    </li>
   </ul>
-  <sup>
-   27 GitHub links in total 80 links, ★ 1295, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 1295, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/relay-tools/relay-local-schema">
@@ -632,77 +581,59 @@
   <a href="https://github.com/fortruce/relay-skeleton">
    Relay Skeleton
   </a>
-  - Relay project skeleton.
-  <sup>
-   27 GitHub links in total 80 links, ★ 94, pushed 71 days ago
-  </sup>
   <sup>
    &#9733 94, pushed 71 days ago
   </sup>
+  - Relay project skeleton.
  </li>
  <li>
   <a href="https://github.com/relayjs/relay-starter-kit">
    Relay Starter Kit
   </a>
-  - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
-  <sup>
-   27 GitHub links in total 80 links, ★ 667, pushed 1 days ago
-  </sup>
   <sup>
    &#9733 667, pushed 1 days ago
   </sup>
+  - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
  </li>
  <li>
   <a href="https://github.com/mhart/simple-relay-starter">
    Simple Relay Starter
   </a>
+  <sup>
+   &#9733 86, pushed 27 days ago
+  </sup>
   - A Browserify version of the
   <a href="https://github.com/relayjs/relay-starter-kit">
    Relay Starter Kit
   </a>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 86, pushed 27 days ago
-  </sup>
-  <sup>
-   &#9733 86, pushed 27 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/codefoundries/isomorphic-material-relay-starter-kit">
    Isomorphic Material Relay Starter Kit
   </a>
-  - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
-  <sup>
-   27 GitHub links in total 80 links, ★ 169, pushed 12 days ago
-  </sup>
   <sup>
    &#9733 169, pushed 13 days ago
   </sup>
+  - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
  </li>
  <li>
   <a href="https://github.com/nethsix/relay-on-rails">
    Relay on Rails Starter Kit
   </a>
-  - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
-  <sup>
-   27 GitHub links in total 80 links, ★ 19, pushed 186 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 187 days ago
   </sup>
+  - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
  </li>
  <li>
   <a href="https://github.com/lvarayut/relay-fullstack">
    Relay Fullstack
   </a>
-  - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
-  <sup>
-   27 GitHub links in total 80 links, ★ 333, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 333, pushed 2 days ago
   </sup>
+  - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
  </li>
 </ul>
 <h1>
@@ -716,13 +647,10 @@
   <a href="https://github.com/graphql-go/relay">
    Go Relay
   </a>
-  - A Go/Golang library to help construct a graphql-go server supporting react-relay.
-  <sup>
-   27 GitHub links in total 80 links, ★ 63, pushed 55 days ago
-  </sup>
   <sup>
    &#9733 63, pushed 55 days ago
   </sup>
+  - A Go/Golang library to help construct a graphql-go server supporting react-relay.
  </li>
  <li>
   <a href="https://github.com/sogko/todomvc-relay-go">
@@ -760,6 +688,9 @@
     graphql-relay-py
    </code>
   </a>
+  <sup>
+   &#9733 61, pushed 195 days ago
+  </sup>
   - A library to help construct a
   <code>
    graphql-py
@@ -769,12 +700,6 @@
    react-relay
   </code>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 61, pushed 195 days ago
-  </sup>
-  <sup>
-   &#9733 61, pushed 195 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -787,13 +712,10 @@
     graphql-relay-ruby
    </code>
   </a>
-  - Relay helpers for GraphQL & Ruby.
-  <sup>
-   27 GitHub links in total 80 links, ★ 77, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 77, pushed 4 days ago
   </sup>
+  - Relay helpers for GraphQL & Ruby.
  </li>
 </ul>
 <h3>
@@ -829,17 +751,14 @@
     sangria-relay
    </code>
   </a>
+  <sup>
+   &#9733 30, pushed 2 days ago
+  </sup>
   - Relay support for
   <a href="http://sangria-graphql.org">
    Sangria
   </a>
   .
-  <sup>
-   27 GitHub links in total 80 links, ★ 30, pushed 2 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 2 days ago
-  </sup>
  </li>
 </ul>
 <h1>

@@ -565,134 +565,132 @@ from reading
   </ul>
  </li>
 </ul>
-<p>
- compat
- <li>
-  <a href="#pseciogatekeeper">
-   psecio/gatekeeper
-  </a>
- </li>
- <li>
-  <a href="#websites-1">
-   Websites
-  </a>
-  <ul>
-   <li>
-    <a href="#websec-io">
-     websec.io
-    </a>
-   </li>
-   <li>
-    <a href="#blogs-1">
-     Blogs
-    </a>
-   </li>
-   <li>
-    <a href="#paragon-initiative-enterprises-blog">
-     Paragon Initiative Enterprises Blog
-    </a>
-   </li>
-   <li>
-    <a href="#ircmaxells-blog">
-     ircmaxell's blog
-    </a>
-   </li>
-   <li>
-    <a href="#p%C3%A1draic-bradys-blog">
-     Pádraic Brady's Blog
-    </a>
-   </li>
-   <li>
-    <a href="#mailing-lists">
-     Mailing lists
-    </a>
-   </li>
-   <li>
-    <a href="#securing-php-weekly">
-     Securing PHP Weekly
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#perl">
-   Perl
-  </a>
-  <ul>
-   <li>
-    <a href="#books-and-ebooks-6">
-     Books and ebooks
-    </a>
-    <ul>
-     <li>
-      <a href="#sei-cert-perl-coding-standard-2011">
-       SEI CERT Perl Coding Standard
-      </a>
-      (2011)
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#python">
-   Python
-  </a>
-  <ul>
-   <li>
-    <a href="#books-and-ebooks-7">
-     Books and ebooks
-    </a>
-    <ul>
-     <li>
-      <a href="#python-chapter-of-fedora-defensive-coding-guide">
-       Python chapter of Fedora Defensive Coding Guide
-      </a>
-     </li>
-     <li>
-      <a href="#-violent-python">
-       Violent Python
-      </a>
-      <img alt="nonfree" src="img/nonfree.png"/>
-     </li>
-    </ul>
-   </li>
-   <li>
-    <a href="#websites-2">
-     Websites
-    </a>
-    <ul>
-     <li>
-      <a href="#owasp-python-security-wiki-2014">
-       OWASP Python Security Wiki
-      </a>
-      (2014)
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#ruby">
-   Ruby
-  </a>
-  <ul>
-   <li>
-    <a href="#books-and-ebooks-8">
-     Books and ebooks
-    </a>
-    <ul>
-     <li>
-      <a href="#secure-ruby-development-guide-2014">
-       Secure Ruby Development Guide
-      </a>
-      (2014)
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
-</p>
+compat
+<li>
+ <a href="#pseciogatekeeper">
+  psecio/gatekeeper
+ </a>
+</li>
+<li>
+ <a href="#websites-1">
+  Websites
+ </a>
+ <ul>
+  <li>
+   <a href="#websec-io">
+    websec.io
+   </a>
+  </li>
+  <li>
+   <a href="#blogs-1">
+    Blogs
+   </a>
+  </li>
+  <li>
+   <a href="#paragon-initiative-enterprises-blog">
+    Paragon Initiative Enterprises Blog
+   </a>
+  </li>
+  <li>
+   <a href="#ircmaxells-blog">
+    ircmaxell's blog
+   </a>
+  </li>
+  <li>
+   <a href="#p%C3%A1draic-bradys-blog">
+    Pádraic Brady's Blog
+   </a>
+  </li>
+  <li>
+   <a href="#mailing-lists">
+    Mailing lists
+   </a>
+  </li>
+  <li>
+   <a href="#securing-php-weekly">
+    Securing PHP Weekly
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ <a href="#perl">
+  Perl
+ </a>
+ <ul>
+  <li>
+   <a href="#books-and-ebooks-6">
+    Books and ebooks
+   </a>
+   <ul>
+    <li>
+     <a href="#sei-cert-perl-coding-standard-2011">
+      SEI CERT Perl Coding Standard
+     </a>
+     (2011)
+    </li>
+   </ul>
+  </li>
+ </ul>
+</li>
+<li>
+ <a href="#python">
+  Python
+ </a>
+ <ul>
+  <li>
+   <a href="#books-and-ebooks-7">
+    Books and ebooks
+   </a>
+   <ul>
+    <li>
+     <a href="#python-chapter-of-fedora-defensive-coding-guide">
+      Python chapter of Fedora Defensive Coding Guide
+     </a>
+    </li>
+    <li>
+     <a href="#-violent-python">
+      Violent Python
+     </a>
+     <img alt="nonfree" src="img/nonfree.png"/>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <a href="#websites-2">
+    Websites
+   </a>
+   <ul>
+    <li>
+     <a href="#owasp-python-security-wiki-2014">
+      OWASP Python Security Wiki
+     </a>
+     (2014)
+    </li>
+   </ul>
+  </li>
+ </ul>
+</li>
+<li>
+ <a href="#ruby">
+  Ruby
+ </a>
+ <ul>
+  <li>
+   <a href="#books-and-ebooks-8">
+    Books and ebooks
+   </a>
+   <ul>
+    <li>
+     <a href="#secure-ruby-development-guide-2014">
+      Secure Ruby Development Guide
+     </a>
+     (2014)
+    </li>
+   </ul>
+  </li>
+ </ul>
+</li>
 <h1>
  General
 </h1>

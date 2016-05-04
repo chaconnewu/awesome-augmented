@@ -303,9 +303,6 @@
    A list of colleges and universities offering degrees in data science.
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 36, pushed 5 days ago
-  </sup>
-  <sup>
    &#9733 36, pushed 5 days ago
   </sup>
  </li>
@@ -418,9 +415,6 @@
   <a href="https://github.com/DataScienceSpecialization/courses">
    Data Science Specialization
   </a>
-  <sup>
-   15 GitHub links in total 361 links, ★ 2088, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 2088, pushed 2 days ago
   </sup>
@@ -652,9 +646,6 @@
   <a href="https://github.com/datasciencemasters/data">
    Open Data Sources
   </a>
-  <sup>
-   15 GitHub links in total 361 links, ★ 136, pushed 121 days ago
-  </sup>
   <sup>
    &#9733 136, pushed 121 days ago
   </sup>
@@ -1859,9 +1850,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    Nervana's python based Deep Learning Framework
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 1808, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 1808, pushed 4 days ago
   </sup>
  </li>
@@ -1875,13 +1863,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/01org/idlf">
    Intel framework
   </a>
-  - Intel® Deep Learning Framework
-  <sup>
-   15 GitHub links in total 361 links, ★ 296, pushed 92 days ago
-  </sup>
   <sup>
    &#9733 296, pushed 92 days ago
   </sup>
+  - Intel® Deep Learning Framework
  </li>
  <li>
   <a href="https://datawrapper.de">
@@ -1918,13 +1903,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/JuliaLang/IJulia.jl">
    IJulia
   </a>
-  – a Julia-language backend combined with the Jupyter interactive environment.
-  <sup>
-   15 GitHub links in total 361 links, ★ 862, pushed 8 days ago
-  </sup>
   <sup>
    &#9733 862, pushed 8 days ago
   </sup>
+  – a Julia-language backend combined with the Jupyter interactive environment.
  </li>
 </ul>
 <h2>
@@ -2185,10 +2167,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    How to Share Data with a Statistician
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 3062, pushed 23 days ago
-  </sup>
-  <sup>
-   &#9733 3062, pushed 23 days ago
+   &#9733 3062, pushed 24 days ago
   </sup>
  </li>
  <li>
@@ -2221,33 +2200,24 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  list.
-  <sup>
-   15 GitHub links in total 361 links, ★ 16107, pushed 7 days ago
-  </sup>
   <sup>
    &#9733 16107, pushed 7 days ago
   </sup>
+  list.
  </li>
  <li>
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Awesome Machine Learning
   </a>
-  A curated list of awesome Machine Learning frameworks, libraries and software.
-  <sup>
-   15 GitHub links in total 361 links, ★ 12665, pushed 4 days ago
-  </sup>
   <sup>
    &#9733 12665, pushed 4 days ago
   </sup>
+  A curated list of awesome Machine Learning frameworks, libraries and software.
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <sup>
-   15 GitHub links in total 361 links, ★ 3765, pushed 2 days ago
-  </sup>
   <sup>
    &#9733 3765, pushed 2 days ago
   </sup>
@@ -2257,9 +2227,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-dataviz
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 431, pushed 11 days ago
-  </sup>
-  <sup>
    &#9733 431, pushed 11 days ago
   </sup>
  </li>
@@ -2267,9 +2234,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/vinta/awesome-python">
    awesome-python
   </a>
-  <sup>
-   15 GitHub links in total 361 links, ★ 20412, pushed 3 days ago
-  </sup>
   <sup>
    &#9733 20412, pushed 3 days ago
   </sup>
@@ -2279,9 +2243,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    Data Science IPython Notebooks.
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 5541, pushed 4 days ago
-  </sup>
-  <sup>
    &#9733 5541, pushed 4 days ago
   </sup>
  </li>
@@ -2290,9 +2251,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-r
   </a>
   <sup>
-   15 GitHub links in total 361 links, ★ 1317, pushed 5 days ago
-  </sup>
-  <sup>
    &#9733 1317, pushed 5 days ago
   </sup>
  </li>
@@ -2300,12 +2258,9 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/caesar0301/awesome-public-datasets">
    awesome-datasets
   </a>
-  . – An awesome list of high-quality open datasets in public domains
-  <sup>
-   15 GitHub links in total 361 links, ★ 13887, pushed 6 days ago
-  </sup>
   <sup>
    &#9733 13887, pushed 6 days ago
   </sup>
+  . – An awesome list of high-quality open datasets in public domains
  </li>
 </ul>

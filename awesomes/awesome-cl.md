@@ -224,17 +224,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/eudoxia0/asdf-linguist">
    asdf-linguist
   </a>
+  <sup>
+   &#9733 14, pushed 279 days ago
+  </sup>
   - Extensions for ASDF.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 14, pushed 279 days ago
-  </sup>
-  <sup>
-   &#9733 14, pushed 279 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -245,17 +242,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/Shinmera/crypto-shortcuts">
    crypto-shortcuts
   </a>
+  <sup>
+   &#9733 10, pushed 193 days ago
+  </sup>
   - Collection of common crypto shortcuts.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 10, pushed 193 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 193 days ago
-  </sup>
  </li>
  <li>
   <a href="http://method-combination.net/lisp/ironclad/">
@@ -271,17 +265,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/eudoxia0/trivial-ssh">
    trivial-ssh
   </a>
+  <sup>
+   &#9733 11, pushed 451 days ago
+  </sup>
   - An SSH client library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 11, pushed 451 days ago
-  </sup>
-  <sup>
-   &#9733 11, pushed 451 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -292,109 +283,88 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/cl-dbi">
    cl-dbi
   </a>
+  <sup>
+   &#9733 68, pushed 47 days ago
+  </sup>
   - A database-independent interface for Common Lisp.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 68, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 68, pushed 47 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/quasi/cl-memcached">
    cl-memcached
   </a>
+  <sup>
+   &#9733 16, pushed 337 days ago
+  </sup>
   - Fast, thread-safe interface to the Memcached object caching system.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 16, pushed 337 days ago
-  </sup>
-  <sup>
-   &#9733 16, pushed 337 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fons/cl-mongo">
    cl-mongo
   </a>
+  <sup>
+   &#9733 103, pushed 9 days ago
+  </sup>
   - MongoDB client.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 103, pushed 9 days ago
-  </sup>
-  <sup>
-   &#9733 103, pushed 9 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/vseloved/cl-redis">
    cl-redis
   </a>
+  <sup>
+   &#9733 95, pushed 203 days ago
+  </sup>
   - Redis client.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 95, pushed 203 days ago
-  </sup>
-  <sup>
-   &#9733 95, pushed 203 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/CodyReichert/cl-disque">
    cl-disque
   </a>
+  <sup>
+   &#9733 6, pushed 244 days ago
+  </sup>
   - Disque client.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 6, pushed 244 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 244 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/orthecreedence/cl-rethinkdb">
    cl-rethinkdb
   </a>
+  <sup>
+   &#9733 35, pushed 44 days ago
+  </sup>
   - RethinkDB client.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 35, pushed 43 days ago
-  </sup>
-  <sup>
-   &#9733 35, pushed 43 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dmitryvk/cl-sqlite">
    cl-sqlite
   </a>
-  - Bindings for SQLite. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, ★ 25, pushed 1820 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 1820 days ago
   </sup>
+  - Bindings for SQLite. Public domain.
  </li>
  <li>
   <a href="http://www.cliki.net/CLSQL">
@@ -410,13 +380,10 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/html/clache">
    clache
   </a>
-  - General caching facility. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, ★ 0, pushed 780 days ago
-  </sup>
   <sup>
    &#9733 0, pushed 780 days ago
   </sup>
+  - General caching facility. No license specified.
  </li>
  <li>
   <a href="https://common-lisp.net/project/clouchdb/">
@@ -432,49 +399,40 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/eudoxia0/crane">
    crane
   </a>
+  <sup>
+   &#9733 140, pushed 25 days ago
+  </sup>
   - Another ORM.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 140, pushed 25 days ago
-  </sup>
-  <sup>
-   &#9733 140, pushed 25 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/datafly">
    datafly
   </a>
+  <sup>
+   &#9733 33, pushed 41 days ago
+  </sup>
   - A lightweight database library.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 33, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 33, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/mito">
    mito
   </a>
+  <sup>
+   &#9733 21, pushed 7 days ago
+  </sup>
   - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 21, pushed 7 days ago
-  </sup>
-  <sup>
-   &#9733 21, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="http://marijnhaverbeke.nl/postmodern/">
@@ -490,17 +448,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/sxql">
    sxql
   </a>
+  <sup>
+   &#9733 55, pushed 33 days ago
+  </sup>
   - A DSL for generating SQL.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 55, pushed 32 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 33 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -514,33 +469,27 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/cffi/cffi">
    CFFI
   </a>
+  <sup>
+   &#9733 120, pushed 4 days ago
+  </sup>
   - Portable, easy-to-use C foreign function interface.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 120, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 120, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rpav/cl-autowrap">
    cl-autowrap
   </a>
+  <sup>
+   &#9733 69, pushed 4 days ago
+  </sup>
   - Automatically parses header files into CFFI definitions.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 69, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 69, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -581,13 +530,10 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/pinterface/burgled-batteries">
    burgled-batteries
   </a>
-  - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, ★ 21, pushed 35 days ago
-  </sup>
   <sup>
    &#9733 21, pushed 35 days ago
   </sup>
+  - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
  </li>
 </ul>
 <h1>
@@ -616,16 +562,13 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/rpav/cl-cairo2">
    cl-cairo2
   </a>
+  <sup>
+   &#9733 34, pushed 8 days ago
+  </sup>
   - Cairo bindings.
   <a href="http://directory.fsf.org/wiki/License:Boost1.0">
    Boost 1.0
   </a>
-  <sup>
-   105 GitHub links in total 185 links, ★ 34, pushed 8 days ago
-  </sup>
-  <sup>
-   &#9733 34, pushed 8 days ago
-  </sup>
  </li>
  <li>
   <a href="http://weitz.de/cl-gd/">
@@ -650,33 +593,27 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/3b/cl-opengl">
    cl-opengl
   </a>
+  <sup>
+   &#9733 144, pushed 4 days ago
+  </sup>
   - CFFI bindings to OpenGL, GLU and GLUT APIs.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 144, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 144, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lispgames/cl-sdl2">
    cl-sdl2
   </a>
+  <sup>
+   &#9733 77, pushed 23 days ago
+  </sup>
   - Bindings for SDL2 using C2FFI.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 77, pushed 23 days ago
-  </sup>
-  <sup>
-   &#9733 77, pushed 23 days ago
-  </sup>
  </li>
  <li>
   <a href="https://code.google.com/archive/p/cl-svg">
@@ -692,81 +629,66 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/BradWBeer/CLinch">
    CLinch
   </a>
+  <sup>
+   &#9733 143, pushed 4 days ago
+  </sup>
   - Common Lisp 2D/3D graphics engine for OpenGL.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 143, pushed 4 days ago
-  </sup>
-  <sup>
-   &#9733 143, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tkych/donuts">
    donuts
   </a>
+  <sup>
+   &#9733 10, pushed 1167 days ago
+  </sup>
   - Graph drawing DSL for Common Lisp.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 10, pushed 1167 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 1167 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lispbuilder/lispbuilder">
    lispbuilder-sdl
   </a>
+  <sup>
+   &#9733 38, pushed 143 days ago
+  </sup>
   - A set of bindings for SDL.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 38, pushed 143 days ago
-  </sup>
-  <sup>
-   &#9733 38, pushed 143 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/aerique/okra">
    okra
   </a>
+  <sup>
+   &#9733 21, pushed 545 days ago
+  </sup>
   - CFFI bindings to Ogre. Not available on Quicklisp.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 21, pushed 545 days ago
-  </sup>
-  <sup>
-   &#9733 21, pushed 545 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cbaggers/varjo">
    Varjo
   </a>
+  <sup>
+   &#9733 55, pushed 41 days ago
+  </sup>
   - Lisp to GLSL translator. Not available on Quicklisp.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 55, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.xach.com/lisp/vecto/">
@@ -807,49 +729,40 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/dmitryvk/cl-gtk2">
    cl-gtk2
   </a>
+  <sup>
+   &#9733 39, pushed 21 days ago
+  </sup>
   - A binding for GTK+2.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 39, pushed 21 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 21 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mmontone/cl-xul">
    cl-xul
   </a>
+  <sup>
+   &#9733 26, pushed 63 days ago
+  </sup>
   - Mozilla XUL bindings.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 26, pushed 63 days ago
-  </sup>
-  <sup>
-   &#9733 26, pushed 63 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/commonqt/commonqt">
    CommonQt
   </a>
+  <sup>
+   &#9733 55, pushed 42 days ago
+  </sup>
   - A Common Lisp binding for Qt4 via QtSmoke.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 55, pushed 42 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.peter-herth.de/ltk/">
@@ -975,33 +888,27 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/hankhero/cl-json">
    cl-json
   </a>
+  <sup>
+   &#9733 32, pushed 26 days ago
+  </sup>
   - A JSON encoder and decoder.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 32, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 32, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/madnificent/jsown">
    jsown
   </a>
+  <sup>
+   &#9733 38, pushed 133 days ago
+  </sup>
   - A reader and writer for the JSON format.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 38, pushed 133 days ago
-  </sup>
-  <sup>
-   &#9733 38, pushed 133 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -1042,13 +949,10 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/google/lisp-koans">
    Common Lisp Koans
   </a>
+  <sup>
+   &#9733 1447, pushed 48 days ago
+  </sup>
   - The project guides the learner progressively through many Common Lisp language features.
-  <sup>
-   105 GitHub links in total 185 links, ★ 1447, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 1447, pushed 47 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1198,17 +1102,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/qlot">
    qlot
   </a>
+  <sup>
+   &#9733 72, pushed 73 days ago
+  </sup>
   - A project-local library installer, similar to Bundler or Carton.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 72, pushed 73 days ago
-  </sup>
-  <sup>
-   &#9733 72, pushed 73 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.quicklisp.org/beta/">
@@ -1224,17 +1125,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/tarballs-are-good/quickutil">
    Quickutil
   </a>
+  <sup>
+   &#9733 55, pushed 19 days ago
+  </sup>
   - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 55, pushed 19 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 19 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -1245,17 +1143,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/vseloved/cl-nlp">
    cl-nlp
   </a>
+  <sup>
+   &#9733 75, pushed 30 days ago
+  </sup>
   - Natural language processing toolset.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 75, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 75, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="http://emergent-languages.org/Babel2/">
@@ -1276,81 +1171,66 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/franzinc/aserve">
    aserve
   </a>
+  <sup>
+   &#9733 55, pushed 25 days ago
+  </sup>
   - AllegroServe; a web server.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 55, pushed 24 days ago
-  </sup>
-  <sup>
-   &#9733 55, pushed 25 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eudoxia0/avatar-api">
    avatar-api
   </a>
+  <sup>
+   &#9733 7, pushed 343 days ago
+  </sup>
   - Get avatars from Google+, Gravatar and others.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 7, pushed 343 days ago
-  </sup>
-  <sup>
-   &#9733 7, pushed 343 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/caveman">
    Caveman
   </a>
+  <sup>
+   &#9733 357, pushed 47 days ago
+  </sup>
   - A powerful web framework.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 357, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 357, pushed 47 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shinmera/chirp">
    chirp
   </a>
+  <sup>
+   &#9733 30, pushed 91 days ago
+  </sup>
   - A Twitter client library.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 30, pushed 91 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 91 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/archimag/cl-closure-template">
    cl-closure-template
   </a>
+  <sup>
+   &#9733 60, pushed 282 days ago
+  </sup>
   - Implementation of Google's Closure templates.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 60, pushed 282 days ago
-  </sup>
-  <sup>
-   &#9733 60, pushed 282 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.common-lisp.net/project/cl-irc/">
@@ -1366,17 +1246,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/arielnetworks/cl-markup">
    cl-markup
   </a>
+  <sup>
+   &#9733 34, pushed 237 days ago
+  </sup>
   - Modern markup generation library.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 34, pushed 236 days ago
-  </sup>
-  <sup>
-   &#9733 34, pushed 237 days ago
-  </sup>
  </li>
  <li>
   <a href="https://common-lisp.net/project/cl-openid/darcs/cl-openid/">
@@ -1412,97 +1289,79 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/ruricolist/spinneret">
    spinneret
   </a>
+  <sup>
+   &#9733 30, pushed 40 days ago
+  </sup>
   - Common Lisp HTML5 generator.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 30, pushed 39 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 39 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/clack">
    Clack
   </a>
+  <sup>
+   &#9733 512, pushed 15 days ago
+  </sup>
   - A web application environment inspired by Rack and WSGI.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 512, pushed 15 days ago
-  </sup>
-  <sup>
-   &#9733 512, pushed 15 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eudoxia0/clack-errors">
    clack-errors
   </a>
+  <sup>
+   &#9733 17, pushed 30 days ago
+  </sup>
   - Error page middleware for Clack.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 17, pushed 30 days ago
-  </sup>
-  <sup>
-   &#9733 17, pushed 30 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shinmera/colleen">
    colleen
   </a>
+  <sup>
+   &#9733 20, pushed 41 days ago
+  </sup>
   - IRC bot with a modular framework.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 20, pushed 41 days ago
-  </sup>
-  <sup>
-   &#9733 20, pushed 41 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/paddymul/css-lite">
    css-lite
   </a>
+  <sup>
+   &#9733 45, pushed 1514 days ago
+  </sup>
   - A CSS grammar.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 45, pushed 1513 days ago
-  </sup>
-  <sup>
-   &#9733 45, pushed 1514 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mmontone/djula">
    Djula
   </a>
+  <sup>
+   &#9733 41, pushed 5 days ago
+  </sup>
   - A port of Django's template engine to Common Lisp.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 41, pushed 5 days ago
-  </sup>
-  <sup>
-   &#9733 41, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="http://weitz.de/drakma/">
@@ -1518,81 +1377,66 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/eudoxia0/eco">
    eco
   </a>
+  <sup>
+   &#9733 10, pushed 343 days ago
+  </sup>
   - Fast, flexible, designer-friendly template engine.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 10, pushed 343 days ago
-  </sup>
-  <sup>
-   &#9733 10, pushed 343 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eudoxia0/hermetic">
    hermetic
   </a>
+  <sup>
+   &#9733 14, pushed 338 days ago
+  </sup>
   - Security for Clack-based web applications.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 14, pushed 338 days ago
-  </sup>
-  <sup>
-   &#9733 14, pushed 338 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hargettp/hh-web">
    hh-web
   </a>
+  <sup>
+   &#9733 28, pushed 566 days ago
+  </sup>
   - Framework for building modern web apps.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 28, pushed 566 days ago
-  </sup>
-  <sup>
-   &#9733 28, pushed 566 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/orthecreedence/http-parse">
    http-parse
   </a>
+  <sup>
+   &#9733 13, pushed 347 days ago
+  </sup>
   - An HTTP parser in Common Lisp.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 13, pushed 346 days ago
-  </sup>
-  <sup>
-   &#9733 13, pushed 347 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shinmera/humbler">
    humbler
   </a>
+  <sup>
+   &#9733 6, pushed 556 days ago
+  </sup>
   - A Tumblr API interface.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 6, pushed 556 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 556 days ago
-  </sup>
  </li>
  <li>
   <a href="http://weitz.de/hunchentoot/">
@@ -1608,109 +1452,88 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/Shinmera/lquery">
    lquery
   </a>
+  <sup>
+   &#9733 17, pushed 103 days ago
+  </sup>
   - A jQuery-like HTML/DOM manipulation library.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 17, pushed 103 days ago
-  </sup>
-  <sup>
-   &#9733 17, pushed 103 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/ningle">
    ningle
   </a>
+  <sup>
+   &#9733 101, pushed 76 days ago
+  </sup>
   - A super-micro web framework.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 101, pushed 76 days ago
-  </sup>
-  <sup>
-   &#9733 101, pushed 76 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eudoxia0/postmaster">
    Postmaster
   </a>
+  <sup>
+   &#9733 1, pushed 516 days ago
+  </sup>
   - A simple, easy-to-use SMTP/IMAP library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 1, pushed 516 days ago
-  </sup>
-  <sup>
-   &#9733 1, pushed 516 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shirakumo/radiance">
    radiance
   </a>
+  <sup>
+   &#9733 13, pushed 390 days ago
+  </sup>
   - An extensible framework library and multi-application CMS.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 13, pushed 390 days ago
-  </sup>
-  <sup>
-   &#9733 13, pushed 390 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dmitrys99/saluto">
    saluto
   </a>
+  <sup>
+   &#9733 3, pushed 178 days ago
+  </sup>
   - OAuth 2.0 module for the RESTAS web framework. Not available on Quicklisp.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 3, pushed 178 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 178 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mishoo/sytes">
    sytes
   </a>
-  - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, ★ 25, pushed 491 days ago
-  </sup>
   <sup>
    &#9733 25, pushed 491 days ago
   </sup>
+  - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
  </li>
  <li>
   <a href="https://github.com/usocket/usocket">
    usocket
   </a>
+  <sup>
+   &#9733 30, pushed 25 days ago
+  </sup>
   - A portable TCP and UDP socket interface.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 30, pushed 25 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 25 days ago
-  </sup>
  </li>
  <li>
   <a href="http://weblocks-framework.info/">
@@ -1725,17 +1548,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/orthecreedence/wookie">
    wookie
   </a>
+  <sup>
+   &#9733 116, pushed 237 days ago
+  </sup>
   - Asynchronous HTTP server.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 116, pushed 237 days ago
-  </sup>
-  <sup>
-   &#9733 116, pushed 237 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -1746,17 +1566,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/tkych/cl-spark">
    cl-spark
   </a>
+  <sup>
+   &#9733 45, pushed 328 days ago
+  </sup>
   - Generates sparkline strings for lists of numbers.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 45, pushed 328 days ago
-  </sup>
-  <sup>
-   &#9733 45, pushed 328 days ago
-  </sup>
  </li>
  <li>
   <a href="https://common-lisp.net/project/gsll/">
@@ -1782,17 +1599,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/blindglobe/lisp-matrix">
    lisp-matrix
   </a>
+  <sup>
+   &#9733 37, pushed 379 days ago
+  </sup>
   - A matrix package.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 37, pushed 379 days ago
-  </sup>
-  <sup>
-   &#9733 37, pushed 379 days ago
-  </sup>
  </li>
  <li>
   <a href="http://maxima.sourceforge.net/">
@@ -1823,6 +1637,9 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/zkat/chanl">
    chanl
   </a>
+  <sup>
+   &#9733 85, pushed 330 days ago
+  </sup>
   - Portable, channel-based concurrency.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
@@ -1832,76 +1649,58 @@ sellers who aren't evil for physical resources.
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 85, pushed 330 days ago
-  </sup>
-  <sup>
-   &#9733 85, pushed 330 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/orthecreedence/cl-async">
    cl-async
   </a>
+  <sup>
+   &#9733 128, pushed 22 days ago
+  </sup>
   - A library for general-purpose, non-blocking programming.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 128, pushed 22 days ago
-  </sup>
-  <sup>
-   &#9733 128, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/lesque">
    lesque
   </a>
+  <sup>
+   &#9733 12, pushed 850 days ago
+  </sup>
   - A clone of Resque. Not available on Quicklisp.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 12, pushed 850 days ago
-  </sup>
-  <sup>
-   &#9733 12, pushed 850 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lmj/lparallel">
    lparallel
   </a>
+  <sup>
+   &#9733 97, pushed 65 days ago
+  </sup>
   - A library for parallel programming.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 97, pushed 65 days ago
-  </sup>
-  <sup>
-   &#9733 97, pushed 65 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/pkhuong/Xecto">
    Xecto
   </a>
+  <sup>
+   &#9733 30, pushed 170 days ago
+  </sup>
   - A library for regular array parallelism.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 30, pushed 170 days ago
-  </sup>
-  <sup>
-   &#9733 30, pushed 170 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -1933,13 +1732,10 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/slime/slime">
    SLIME
   </a>
-  - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, ★ 592, pushed 14 days ago
-  </sup>
   <sup>
    &#9733 592, pushed 14 days ago
   </sup>
+  - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
  </li>
 </ul>
 <h2>
@@ -1950,13 +1746,10 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/kovisoft/slimv">
    SLIMV
   </a>
-  - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, ★ 174, pushed 23 days ago
-  </sup>
   <sup>
    &#9733 174, pushed 23 days ago
   </sup>
+  - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
  </li>
 </ul>
 <h1>
@@ -1970,6 +1763,9 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/triclops200/quickapp-cli">
    quickapp-cli
   </a>
+  <sup>
+   &#9733 2, pushed 296 days ago
+  </sup>
   -
   <a href="https://github.com/triclops200/quickapp">
    quickapp
@@ -1979,12 +1775,6 @@ sellers who aren't evil for physical resources.
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 2, pushed 296 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 296 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.swig.org/">
@@ -2005,49 +1795,40 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/sionescu/fiveam">
    FiveAM
   </a>
+  <sup>
+   &#9733 66, pushed 11 days ago
+  </sup>
   - Simple regression testing framework.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 66, pushed 11 days ago
-  </sup>
-  <sup>
-   &#9733 66, pushed 11 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tgutu/clunit">
    CLUnit
   </a>
+  <sup>
+   &#9733 15, pushed 1152 days ago
+  </sup>
   - A unit testing library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 15, pushed 1152 days ago
-  </sup>
-  <sup>
-   &#9733 15, pushed 1152 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gwkkwg/lift">
    Lift
   </a>
+  <sup>
+   &#9733 18, pushed 189 days ago
+  </sup>
   - Another testing framework.
   <a href="https://github.com/gwkkwg/lift/blob/master/COPYING">
    A range of licenses, all free
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 18, pushed 189 days ago
-  </sup>
-  <sup>
-   &#9733 18, pushed 189 days ago
-  </sup>
  </li>
  <li>
   <a href="http://dwim.hu/project/hu.dwim.stefil?_x=BGZm&_f=SnpbobKv">
@@ -2059,17 +1840,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/prove">
    Prove
   </a>
+  <sup>
+   &#9733 87, pushed 94 days ago
+  </sup>
   - Yet another unit testing framework
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 87, pushed 93 days ago
-  </sup>
-  <sup>
-   &#9733 87, pushed 94 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -2095,33 +1873,27 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/cl-babel/babel">
    babel
   </a>
+  <sup>
+   &#9733 39, pushed 120 days ago
+  </sup>
   - A charset encoding/decoding library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 39, pushed 120 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 120 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/froydnj/chipz">
    chipz
   </a>
+  <sup>
+   &#9733 9, pushed 79 days ago
+  </sup>
   - A decompression library.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 9, pushed 79 days ago
-  </sup>
-  <sup>
-   &#9733 9, pushed 79 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.cliki.net/cl-2dsyntax">
@@ -2143,49 +1915,40 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/m2ym/cl-annot">
    cl-annot
   </a>
+  <sup>
+   &#9733 76, pushed 332 days ago
+  </sup>
   - Python-like annotations for Common Lisp.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 76, pushed 332 days ago
-  </sup>
-  <sup>
-   &#9733 76, pushed 332 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/AccelerationNet/cl-csv">
    cl-csv
   </a>
+  <sup>
+   &#9733 39, pushed 343 days ago
+  </sup>
   - A library for parsing CSV files.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 39, pushed 343 days ago
-  </sup>
-  <sup>
-   &#9733 39, pushed 343 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/takagi/cl-cuda">
    cl-cuda
   </a>
+  <sup>
+   &#9733 84, pushed 34 days ago
+  </sup>
   - A library to use NVIDIA CUDA in Common Lisp programs.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 84, pushed 33 days ago
-  </sup>
-  <sup>
-   &#9733 84, pushed 33 days ago
-  </sup>
  </li>
  <li>
   <a href="http://weitz.de/cl-fad/">
@@ -2217,65 +1980,53 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/cl-locale">
    cl-locale
   </a>
+  <sup>
+   &#9733 13, pushed 251 days ago
+  </sup>
   - A simple i18n library.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 13, pushed 251 days ago
-  </sup>
-  <sup>
-   &#9733 13, pushed 251 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/fukamachi/cl-project">
    cl-project
   </a>
+  <sup>
+   &#9733 66, pushed 35 days ago
+  </sup>
   - General modern project skeletons.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 66, pushed 35 days ago
-  </sup>
-  <sup>
-   &#9733 66, pushed 35 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/m2ym/cl-syntax">
    cl-syntax
   </a>
+  <sup>
+   &#9733 25, pushed 76 days ago
+  </sup>
   - Reader syntax conventions.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 25, pushed 76 days ago
-  </sup>
-  <sup>
-   &#9733 25, pushed 76 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cl21/cl21">
    cl21
   </a>
+  <sup>
+   &#9733 549, pushed 120 days ago
+  </sup>
   - An experimental project to move Common Lisp into the 21st century.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 549, pushed 120 days ago
-  </sup>
-  <sup>
-   &#9733 549, pushed 120 days ago
-  </sup>
  </li>
  <li>
   <a href="http://cliki.net/closer-mop">
@@ -2291,49 +2042,40 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/fukamachi/envy">
    envy
   </a>
+  <sup>
+   &#9733 20, pushed 506 days ago
+  </sup>
   - Configuration switcher.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 20, pushed 505 days ago
-  </sup>
-  <sup>
-   &#9733 20, pushed 505 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nikodemus/esrap">
    esrap
   </a>
+  <sup>
+   &#9733 65, pushed 28 days ago
+  </sup>
   - Packrat parser.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 65, pushed 28 days ago
-  </sup>
-  <sup>
-   &#9733 65, pushed 28 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rpav/fast-io">
    fast-io
   </a>
+  <sup>
+   &#9733 72, pushed 46 days ago
+  </sup>
   - Fast octet-vector/stream I/O.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 72, pushed 46 days ago
-  </sup>
-  <sup>
-   &#9733 72, pushed 46 days ago
-  </sup>
  </li>
  <li>
   <a href="http://quickdocs.org/fset/">
@@ -2369,17 +2111,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/sionescu/iolib">
    iolib
   </a>
+  <sup>
+   &#9733 86, pushed 59 days ago
+  </sup>
   - I/O library.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 86, pushed 59 days ago
-  </sup>
-  <sup>
-   &#9733 86, pushed 59 days ago
-  </sup>
  </li>
  <li>
   <a href="https://common-lisp.net/project/iterate/">
@@ -2401,45 +2140,36 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/7max/log4cl">
    log4cl
   </a>
+  <sup>
+   &#9733 57, pushed 407 days ago
+  </sup>
   - Logging framework modelled after Log4J.
   <a href="http://directory.fsf.org/wiki/License:Apache2.0">
    Apache2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 57, pushed 407 days ago
-  </sup>
-  <sup>
-   &#9733 57, pushed 407 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ahefner/mixalot">
    mixalot
   </a>
-  - A loosely-coupled collection of audio libraries. No license specified.
-  <sup>
-   105 GitHub links in total 185 links, ★ 19, pushed 152 days ago
-  </sup>
   <sup>
    &#9733 19, pushed 152 days ago
   </sup>
+  - A loosely-coupled collection of audio libraries. No license specified.
  </li>
  <li>
   <a href="https://github.com/melisgl/named-readtables">
    named-readtables
   </a>
+  <sup>
+   &#9733 8, pushed 180 days ago
+  </sup>
   - Provides a readtable namespace, akin to package namespaces.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 8, pushed 180 days ago
-  </sup>
-  <sup>
-   &#9733 8, pushed 180 days ago
-  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type">
@@ -2465,17 +2195,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/vsedach/Parenscript">
    Parenscript
   </a>
+  <sup>
+   &#9733 135, pushed 47 days ago
+  </sup>
   - A translator from Common Lisp to Javascript.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 135, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 135, pushed 47 days ago
-  </sup>
  </li>
  <li>
   <a href="http://marijnhaverbeke.nl/parse-js/">
@@ -2491,65 +2218,53 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/hankhero/cl-json">
    puri-unicode
   </a>
+  <sup>
+   &#9733 32, pushed 26 days ago
+  </sup>
   - Pure URI library with Unicode support.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 32, pushed 26 days ago
-  </sup>
-  <sup>
-   &#9733 32, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/triclops200/quickapp">
    quickapp
   </a>
+  <sup>
+   &#9733 20, pushed 278 days ago
+  </sup>
   - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser.
   <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">
    3-clause BSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 20, pushed 278 days ago
-  </sup>
-  <sup>
-   &#9733 20, pushed 278 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tkych/quicksearch">
    quicksearch
   </a>
+  <sup>
+   &#9733 18, pushed 752 days ago
+  </sup>
   - Look up online libraries from the REPL.
   <a href="http://directory.fsf.org/wiki/License:Expat">
    Expat
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 18, pushed 751 days ago
-  </sup>
-  <sup>
-   &#9733 18, pushed 751 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Shinmera/ratify">
    ratify
   </a>
+  <sup>
+   &#9733 2, pushed 157 days ago
+  </sup>
   - A collection of utilities to ratify, validate and parse inputs.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 2, pushed 157 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 157 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.xach.com/lisp/salza2/">
@@ -2575,17 +2290,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/a0-prw/simple-currency">
    simple-currency
   </a>
+  <sup>
+   &#9733 2, pushed 446 days ago
+  </sup>
   - A currency conversion library using daily information published by the ECB.
   <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">
    FreeBSD
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 2, pushed 446 days ago
-  </sup>
-  <sup>
-   &#9733 2, pushed 446 days ago
-  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/tarballs_are_good/template">
@@ -2607,45 +2319,36 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/Shinmera/trivial-benchmark">
    trivial-benchmark
   </a>
+  <sup>
+   &#9733 6, pushed 181 days ago
+  </sup>
   - Tiny benchmarking library.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic Licence 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 6, pushed 181 days ago
-  </sup>
-  <sup>
-   &#9733 6, pushed 181 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/trivial-garbage/trivial-garbage">
    trivial-garbage
   </a>
-  - A portable finalizer, weak hash-table and weak pointer API. Public domain.
-  <sup>
-   105 GitHub links in total 185 links, ★ 18, pushed 500 days ago
-  </sup>
   <sup>
    &#9733 18, pushed 500 days ago
   </sup>
+  - A portable finalizer, weak hash-table and weak pointer API. Public domain.
  </li>
  <li>
   <a href="https://github.com/m2ym/trivial-types">
    trivial-types
   </a>
+  <sup>
+   &#9733 21, pushed 1507 days ago
+  </sup>
   - Trivial type definitions.
   <a href="http://opensource.franz.com/preamble.html">
    LLGPL
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 21, pushed 1507 days ago
-  </sup>
-  <sup>
-   &#9733 21, pushed 1507 days ago
-  </sup>
  </li>
  <li>
   <a href="https://common-lisp.net/project/trivial-utf-8/">
@@ -2657,17 +2360,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/Shinmera/ubiquitous">
    ubiquitous
   </a>
+  <sup>
+   &#9733 3, pushed 89 days ago
+  </sup>
   - A library providing easy-to-use persistent configuration storage.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 3, pushed 89 days ago
-  </sup>
-  <sup>
-   &#9733 3, pushed 89 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -2688,17 +2388,14 @@ sellers who aren't evil for physical resources.
   <a href="https://github.com/Shinmera/plump">
    Plump
   </a>
+  <sup>
+   &#9733 19, pushed 47 days ago
+  </sup>
   - A lenient XML parser.
   <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">
    Artistic License 2.0
   </a>
   .
-  <sup>
-   105 GitHub links in total 185 links, ★ 19, pushed 47 days ago
-  </sup>
-  <sup>
-   &#9733 19, pushed 47 days ago
-  </sup>
  </li>
  <li>
   <a href="http://cliki.net/S-XML">
