@@ -140,10 +140,13 @@
   <a href="https://github.com/karpathy/neuraltalk">
    neuraltalk
   </a>
-  <span>
-   &#9733 3529, pushed 165 days ago
-  </span>
   by Andrej Karpathy : numpy-based RNN/LSTM implementation
+  <sup>
+   41 GitHub links in total 397 links, ★ 3529, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 3529, pushed 165 days ago
+  </sup>
  </li>
  <li>
   <a href="https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf">
@@ -600,9 +603,12 @@ Recognition
   <a href="https://github.com/josephmisiti/machine-learning-module">
    The Best Machine Learning Tutorials On The Web
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 258, pushed 1832 days ago
+  </sup>
+  <sup>
    &#9733 258, pushed 1832 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html">
@@ -613,33 +619,45 @@ Recognition
   <a href="https://github.com/nlintz/TensorFlow-Tutorials">
    TensorFlow tutorials
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1774, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 1774, pushed 9 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pkmital/tensorflow_tutorials">
    More TensorFlow tutorials
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 2043, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 2043, pushed 9 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aymericdamien/TensorFlow-Examples">
    TensorFlow Python Notebooks
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 2014, pushed 19 days ago
+  </sup>
+  <sup>
    &#9733 2014, pushed 19 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Vict0rSch/deep_learning">
    Keras and Lasagne Deep Learning Tutorials
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 43, pushed 17 days ago
+  </sup>
+  <sup>
    &#9733 43, pushed 17 days ago
-  </span>
+  </sup>
  </li>
 </ol>
 <h2>
@@ -1328,7 +1346,7 @@ Recognition
  </li>
  <li>
   <a href="http://www.uk.research.att.com/facedatabase.html">
-   AT&T Laboratories Cambridge face database
+   AT&T; Laboratories Cambridge face database
   </a>
  </li>
  <li>
@@ -1932,9 +1950,12 @@ Recognition
   <a href="https://github.com/karpathy/convnetjs">
    convetjs
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 4672, pushed 51 days ago
+  </sup>
+  <sup>
    &#9733 4672, pushed 51 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://libccv.org/doc/doc-convnet/">
@@ -1955,65 +1976,89 @@ Recognition
   <a href="https://github.com/harthur/brain">
    Brain
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 6952, pushed 186 days ago
+  </sup>
+  <sup>
    &#9733 6952, pushed 186 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rasmusbergpalm/DeepLearnToolbox">
    DeepLearnToolbox
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1877, pushed 154 days ago
+  </sup>
+  <sup>
    &#9733 1877, pushed 154 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nitishsrivastava/deepnet">
    Deepnet
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 627, pushed 664 days ago
+  </sup>
+  <sup>
    &#9733 627, pushed 664 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andersbll/deeppy">
    Deeppy
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 875, pushed 27 days ago
+  </sup>
+  <sup>
    &#9733 875, pushed 27 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ivan-vasilev/neuralnetworks">
    JavaNN
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 839, pushed 243 days ago
+  </sup>
+  <sup>
    &#9733 839, pushed 243 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hannes-brt/hebel">
    hebel
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1137, pushed 264 days ago
+  </sup>
+  <sup>
    &#9733 1137, pushed 264 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pluskid/Mocha.jl">
    Mocha.jl
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 675, pushed 20 days ago
+  </sup>
+  <sup>
    &#9733 675, pushed 20 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/guoding83128/OpenDL">
    OpenDL
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 199, pushed 244 days ago
+  </sup>
+  <sup>
    &#9733 199, pushed 244 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://developer.nvidia.com/cuDNN">
@@ -2034,17 +2079,23 @@ Recognition
   <a href="https://github.com/NVIDIA/DIGITS">
    Nvidia DIGITS - a web app based on Caffe
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1076, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 1076, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NervanaSystems/neon">
    Neon - Python based Deep Learning Framework
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1808, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 1808, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://keras.io">
@@ -2070,49 +2121,67 @@ Recognition
   <a href="https://github.com/karpathy/char-rnn">
    char-rnn
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 3119, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 3119, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vlfeat/matconvnet">
    MatConvNet: CNNs for MATLAB
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 397, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 397, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmlc/minerva">
    Minerva - a fast and flexible tool for deep learning on multi-GPU
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 537, pushed 49 days ago
+  </sup>
+  <sup>
    &#9733 537, pushed 49 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IDSIA/brainstorm">
    Brainstorm - Fast, flexible and fun neural networks.
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1090, pushed 10 days ago
+  </sup>
+  <sup>
    &#9733 1090, pushed 10 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tensorflow/tensorflow">
    Tensorflow - Open source software library for numerical computation using data flow graphs
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 22733, pushed 0 days ago
+  </sup>
+  <sup>
    &#9733 22733, pushed 0 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Microsoft/DMTK">
    DMTK - Microsoft Distributed Machine Learning Tookit
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 1564, pushed 19 days ago
+  </sup>
+  <sup>
    &#9733 1564, pushed 19 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/skflow">
@@ -2128,17 +2197,23 @@ Recognition
   <a href="https://github.com/Samsung/veles">
    Veles - Samsung Distributed machine learning platform
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 732, pushed 69 days ago
+  </sup>
+  <sup>
    &#9733 732, pushed 69 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PrincetonVision/marvin">
    Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 231, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 231, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://singa.incubator.apache.org/">
@@ -2179,17 +2254,23 @@ Recognition
   <a href="https://github.com/TorontoDeepLearning/convnet">
    TorontoDeepLEarning convnet
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 432, pushed 85 days ago
+  </sup>
+  <sup>
    &#9733 432, pushed 85 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clementfarabet/gfx.js">
    gfx.js
   </a>
-  <span>
-   &#9733 95, pushed 174 days ago
-  </span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 95, pushed 175 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 175 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/torch/torch7/wiki/Cheatsheet">
@@ -2225,41 +2306,56 @@ Recognition
   <a href="https://github.com/erikbern/deep-pink">
    A chess AI that learns to play chess using deep learning.
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 333, pushed 36 days ago
+  </sup>
+  <sup>
    &#9733 333, pushed 36 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kristjankorjus/Replicating-DeepMind">
    Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 486, pushed 449 days ago
+  </sup>
+  <sup>
    &#9733 486, pushed 449 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/idio/wiki2vec">
    Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 184, pushed 57 days ago
+  </sup>
+  <sup>
    &#9733 184, pushed 57 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner">
    The original code from the DeepMind article + tweaks
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 746, pushed 147 days ago
+  </sup>
+  <sup>
    &#9733 746, pushed 147 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/deepdream">
    Google deepdream - Neural Network art
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 8673, pushed 206 days ago
+  </sup>
+  <sup>
    &#9733 8673, pushed 206 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/karpathy/587454dc0146a6ae21fc">
@@ -2270,33 +2366,45 @@ Recognition
   <a href="https://github.com/hexahedria/biaxial-rnn-music-composition">
    A recurrent neural network designed to generate classical music.
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 805, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 805, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/MemNN">
    Memory Networks Implementations - Facebook
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 598, pushed 114 days ago
+  </sup>
+  <sup>
    &#9733 598, pushed 114 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cmusatyalab/openface">
    Face recognition with Google's FaceNet deep neural network.
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 4352, pushed 6 days ago
+  </sup>
+  <sup>
    &#9733 4352, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joeledenberg/DigitRecognition">
    Basic digit recognition neural network
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 39, pushed 1193 days ago
+  </sup>
+  <sup>
    &#9733 39, pushed 1193 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://www.projectoxford.ai/demo/emotion#detection">
@@ -2307,9 +2415,12 @@ Recognition
   <a href="https://github.com/ethereon/caffe-tensorflow">
    Proof of concept for loading Caffe models in TensorFlow
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 397 links, ★ 284, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 284, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://pjreddie.com/darknet/yolo/#webcam">

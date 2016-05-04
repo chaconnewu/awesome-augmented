@@ -145,10 +145,13 @@
     AutoMapper ★3,411
    </strong>
   </a>
-  <span>
-   &#9733 3428, pushed 2 days ago
-  </span>
   - A convention-based object-object mapper in .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 3428, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3428, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Humanizr/Humanizer">
@@ -156,10 +159,13 @@
     Humanizer ★1,894
    </strong>
   </a>
-  <span>
-   &#9733 1926, pushed 1 days ago
-  </span>
   - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
+  <sup>
+   88 GitHub links in total 136 links, ★ 1926, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1926, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JeremySkinner/FluentValidation">
@@ -167,10 +173,13 @@
     Fluent Validation ★1,314
    </strong>
   </a>
-  <span>
-   &#9733 1325, pushed 15 days ago
-  </span>
   - Fluent interface and lambda expressions for building validation rules
+  <sup>
+   88 GitHub links in total 136 links, ★ 1325, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1325, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="http://nodatime.org/">
@@ -184,10 +193,13 @@
     Polly ★1,392
    </strong>
   </a>
-  <span>
-   &#9733 1403, pushed 11 days ago
-  </span>
   - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
+  <sup>
+   88 GitHub links in total 136 links, ★ 1403, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1403, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -198,10 +210,13 @@
   <a href="https://github.com/kevinskrei/XamarinPasscode">
    Passcode ★5
   </a>
-  <span>
-   &#9733 5, pushed 460 days ago
-  </span>
   - Xamarin component for locking an app with a passcode
+  <sup>
+   88 GitHub links in total 136 links, ★ 5, pushed 461 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 461 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -212,10 +227,13 @@
   <a href="https://github.com/ThomasLebrun/XamarinBehaviorsToolkit">
    Behaviors Toolkit ★19
   </a>
-  <span>
-   &#9733 19, pushed 84 days ago
-  </span>
   - A means of adding common and reusable interactivity to your Xamarin applications with minimal code
+  <sup>
+   88 GitHub links in total 136 links, ★ 19, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dotnet-state-machine/stateless">
@@ -223,10 +241,13 @@
     Stateless ★510
    </strong>
   </a>
-  <span>
-   &#9733 516, pushed 35 days ago
-  </span>
   - State Machines
+  <sup>
+   88 GitHub links in total 136 links, ★ 516, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 516, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -237,19 +258,25 @@
   <a href="https://github.com/StephenCleary/AsyncEx">
    AsyncEx ★402
   </a>
-  <span>
-   &#9733 410, pushed 12 days ago
-  </span>
   - A helper library for async/await
+  <sup>
+   88 GitHub links in total 136 links, ★ 410, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 410, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulcbetts/LinqToAwait">
    LinqToAwait ★80
   </a>
-  <span>
-   &#9733 80, pushed 430 days ago
-  </span>
   - A Task-based LINQ designed to work with async/await
+  <sup>
+   88 GitHub links in total 136 links, ★ 80, pushed 430 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 430 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -266,10 +293,13 @@
   <a href="https://github.com/ziyasal/FireSharp">
    FireSharp ★159
   </a>
-  <span>
-   &#9733 163, pushed 46 days ago
-  </span>
   - Firebase REST API wrapper
+  <sup>
+   88 GitHub links in total 136 links, ★ 163, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 163, pushed 46 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -282,19 +312,25 @@
     Fody ★975
    </strong>
   </a>
-  <span>
-   &#9733 996, pushed 23 days ago
-  </span>
   - Extensible tool for weaving .net assemblies
+  <sup>
+   88 GitHub links in total 136 links, ★ 996, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 996, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kswoll/ReactiveUI.Fody">
    ReactiveUI.Fody ★25
   </a>
-  <span>
-   &#9733 26, pushed 16 days ago
-  </span>
   - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
+  <sup>
+   88 GitHub links in total 136 links, ★ 26, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview">
@@ -317,10 +353,13 @@
   <a href="https://github.com/sami1971/SimplyMobile">
    SimplyMobile ★77
   </a>
-  <span>
-   &#9733 77, pushed 689 days ago
-  </span>
   - Collection of abstracted mobile functionalities
+  <sup>
+   88 GitHub links in total 136 links, ★ 77, pushed 689 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 690 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -331,10 +370,13 @@
   <a href="https://github.com/mono/CocosSharp">
    CocosSharp ★328
   </a>
-  <span>
-   &#9733 332, pushed 15 days ago
-  </span>
   - C# implementation of the Cocos2D and Cocos3D APIs
+  <sup>
+   88 GitHub links in total 136 links, ★ 332, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 332, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mono/MonoGame">
@@ -342,10 +384,13 @@
     MonoGame ★3,416
    </strong>
   </a>
-  <span>
-   &#9733 3434, pushed 1 days ago
-  </span>
   - Open source implementation of the Microsoft XNA 4.x Framework
+  <sup>
+   88 GitHub links in total 136 links, ★ 3434, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 3434, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SiliconStudio/xenko">
@@ -353,10 +398,13 @@
     Paradox ★852
    </strong>
   </a>
-  <span>
-   &#9733 857, pushed 5 days ago
-  </span>
   - Paradox3D + Silicon Studio .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 857, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 857, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developer.xamarin.com/guides/cross-platform/urho/">
@@ -373,19 +421,25 @@
   <a href="https://github.com/molinch/FFImageLoading">
    Fast & Furious Image Loading ★130
   </a>
-  <span>
-   &#9733 135, pushed 4 days ago
-  </span>
   - Xamarin library to load images quickly & easily
+  <sup>
+   88 GitHub links in total 136 links, ★ 135, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 135, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/praeclarum/NGraphics">
    NGraphics ★234
   </a>
-  <span>
-   &#9733 238, pushed 78 days ago
-  </span>
   - Cross platform library for rendering vector graphics
+  <sup>
+   88 GitHub links in total 136 links, ★ 238, pushed 78 days ago
+  </sup>
+  <sup>
+   &#9733 238, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developer.xamarin.com/guides/cross-platform/drawing/">
@@ -397,19 +451,25 @@
   <a href="https://github.com/paulcbetts/splat">
    Splat ★402
   </a>
-  <span>
-   &#9733 405, pushed 17 days ago
-  </span>
   - Cross platform image loading, colors and stuff
+  <sup>
+   88 GitHub links in total 136 links, ★ 405, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 405, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VictorGrunn/EZ-Compress-for-Xamarin">
    EZ-Compress ★3
   </a>
-  <span>
-   &#9733 3, pushed 56 days ago
-  </span>
   - A simple image stream compression plugin for Xamarin
+  <sup>
+   88 GitHub links in total 136 links, ★ 3, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 56 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -420,20 +480,26 @@
   <a href="https://github.com/aritchie/io">
    io ★2
   </a>
-  <span>
-   &#9733 2, pushed 13 days ago
-  </span>
   - Access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
+  <sup>
+   88 GitHub links in total 136 links, ★ 2, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dsplaisted/PCLStorage">
    PCL Storage ★106
   </a>
-  <span>
-   &#9733 109, pushed 2 days ago
-  </span>
   - consistent, portable set of local file IO APIs for .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 109, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 109, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -446,10 +512,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Autofac ★965
    </strong>
   </a>
-  <span>
-   &#9733 976, pushed 4 days ago
-  </span>
   - An addictive .NET IoC container
+  <sup>
+   88 GitHub links in total 136 links, ★ 976, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 976, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/dadhi/dryioc">
@@ -461,19 +530,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/thiagoromam/FunqPortable">
    Funq ★0
   </a>
-  <span>
-   &#9733 0, pushed 721 days ago
-  </span>
   - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories
+  <sup>
+   88 GitHub links in total 136 links, ★ 0, pushed 721 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 721 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seesharper/LightInject">
    LightInject ★177
   </a>
-  <span>
-   &#9733 177, pushed 22 days ago
-  </span>
   - Light, simple and stunningly fast IoC container for .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 177, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 177, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ninject/Ninject">
@@ -481,10 +556,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Ninject ★1,450
    </strong>
   </a>
-  <span>
-   &#9733 1454, pushed 9 days ago
-  </span>
   - The ninja of .net dependency injectors
+  <sup>
+   88 GitHub links in total 136 links, ★ 1454, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1454, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://stiletto.bendb.com">
@@ -496,10 +574,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/grumpydev/TinyIoC">
    TinyIoC ★422
   </a>
-  <span>
-   &#9733 424, pushed 74 days ago
-  </span>
   - Single-class easy IoC container
+  <sup>
+   88 GitHub links in total 136 links, ★ 424, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 424, pushed 74 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -510,19 +591,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/apcurium/resxible">
    Resxible ★5
   </a>
-  <span>
-   &#9733 5, pushed 412 days ago
-  </span>
   - tool to generate automatically several platform-dependent resource files from a single RESX file.
+  <sup>
+   88 GitHub links in total 136 links, ★ 5, pushed 412 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 412 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rdio/vernacular">
    Vernacular ★158
   </a>
-  <span>
-   &#9733 158, pushed 156 days ago
-  </span>
   - Cross Platform Localisation, tools to convert standard strings formats
+  <sup>
+   88 GitHub links in total 136 links, ★ 158, pushed 156 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 156 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -538,18 +625,12 @@ mobile-optimized libs (NSURLSession / OkHttp)
       MVVMCross ★1,525
      </strong>
     </a>
-    <span>
-     &#9733 1537, pushed 1 days ago
-    </span>
     - Cross-platform mvvm mobile development framework
    </li>
    <li>
     <a href="https://github.com/Cheesebaron/Cheesebaron.MvxPlugins">
      Cheesebaron.MvxPlugins ★65
     </a>
-    <span>
-     &#9733 65, pushed 88 days ago
-    </span>
     - A collection of plugins
     <ul>
      <li>
@@ -565,24 +646,36 @@ mobile-optimized libs (NSURLSession / OkHttp)
       - MVVMCross plugin for using Xamarin.Forms
      </li>
     </ul>
+    <sup>
+     88 GitHub links in total 136 links, ★ 65, pushed 88 days ago
+    </sup>
+    <sup>
+     &#9733 65, pushed 88 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/aritchie/acrmvvmcross">
      acrmvvmcross ★43
     </a>
-    <span>
-     &#9733 43, pushed 110 days ago
-    </span>
     - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
+    <sup>
+     88 GitHub links in total 136 links, ★ 43, pushed 110 days ago
+    </sup>
+    <sup>
+     &#9733 43, pushed 110 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/HBSequence/Sequence.Plugins">
      Infinite Scroll Plugin ★14
     </a>
-    <span>
-     &#9733 14, pushed 54 days ago
-    </span>
     - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
+    <sup>
+     88 GitHub links in total 136 links, ★ 14, pushed 54 days ago
+    </sup>
+    <sup>
+     &#9733 14, pushed 54 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/reactiveui/ReactiveUI">
@@ -590,30 +683,45 @@ mobile-optimized libs (NSURLSession / OkHttp)
       ReactiveUI ★2,249
      </strong>
     </a>
-    <span>
-     &#9733 2264, pushed 2 days ago
-    </span>
     - Rx MVVM framework
+    <sup>
+     88 GitHub links in total 136 links, ★ 2264, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 2264, pushed 2 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   88 GitHub links in total 136 links, ★ 1537, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1537, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/praeclarum/Bind">
    Bind ★98
   </a>
-  <span>
-   &#9733 112, pushed 256 days ago
-  </span>
   - Bind gives you easy two-way data binding between properties of objects.
+  <sup>
+   88 GitHub links in total 136 links, ★ 112, pushed 256 days ago
+  </sup>
+  <sup>
+   &#9733 112, pushed 256 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Fody/PropertyChanged">
    Fody/PropertyChanged ★301
   </a>
-  <span>
-   &#9733 304, pushed 36 days ago
-  </span>
   - Injects INotifyPropertyChanged code into properties at compile time
+  <sup>
+   88 GitHub links in total 136 links, ★ 304, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 304, pushed 36 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -624,19 +732,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/tmenier/Flurl">
    Flurl ★206
   </a>
-  <span>
-   &#9733 212, pushed 1 days ago
-  </span>
   - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
+  <sup>
+   88 GitHub links in total 136 links, ★ 212, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 212, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulcbetts/Fusillade">
    Fusillade ★129
   </a>
-  <span>
-   &#9733 129, pushed 188 days ago
-  </span>
   - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
+  <sup>
+   88 GitHub links in total 136 links, ★ 129, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging">
@@ -648,10 +762,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/paulcbetts/ModernHttpClient">
    ModernHttpClient ★374
   </a>
-  <span>
-   &#9733 384, pushed 7 days ago
-  </span>
   - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
+  <sup>
+   88 GitHub links in total 136 links, ★ 384, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 384, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification">
@@ -663,10 +780,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/has-taiar/Reachability.Net">
    Reachability ★7
   </a>
-  <span>
-   &#9733 7, pushed 352 days ago
-  </span>
   - Online/offline connected check
+  <sup>
+   88 GitHub links in total 136 links, ★ 7, pushed 352 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 352 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulcbetts/refit">
@@ -674,28 +794,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Refit ★802
    </strong>
   </a>
-  <span>
-   &#9733 812, pushed 22 days ago
-  </span>
   - The automatic type-safe REST library for Xamarin and .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 812, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 812, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/canton7/RestEase">
    RestEase ★37
   </a>
-  <span>
-   &#9733 37, pushed 22 days ago
-  </span>
   - Refit on steroids, simpler auth, parsing...
+  <sup>
+   88 GitHub links in total 136 links, ★ 37, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rdavisau/sockets-for-pcl">
    Sockets ★68
   </a>
-  <span>
-   &#9733 70, pushed 23 days ago
-  </span>
   - An abstraction over the socket helper classes of .NET and WinRT
+  <sup>
+   88 GitHub links in total 136 links, ★ 70, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 70, pushed 24 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -708,10 +837,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Akavache ★1,148
    </strong>
   </a>
-  <span>
-   &#9733 1156, pushed 27 days ago
-  </span>
   - An Asynchronous Key-Value Store for Native Applications
+  <sup>
+   88 GitHub links in total 136 links, ★ 1156, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 1156, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/reactiveui/ReactiveUI">
@@ -720,6 +852,9 @@ mobile-optimized libs (NSURLSession / OkHttp)
    </strong>
   </a>
   - Rx MVVM framework
+  <sup>
+   &#9733 2264, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulcbetts/refit">
@@ -733,10 +868,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/ugaya40/RxFlow">
    RxFlow ★10
   </a>
-  <span>
-   &#9733 10, pushed 432 days ago
-  </span>
   - Simple Flow Control Library with Rx(Reactive Extensions)
+  <sup>
+   88 GitHub links in total 136 links, ★ 10, pushed 432 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 432 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -747,28 +885,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/onovotny/BouncyCastle-PCL">
    BoucyCastle.PCL ★43
   </a>
-  <span>
-   &#9733 43, pushed 118 days ago
-  </span>
   PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
+  <sup>
+   88 GitHub links in total 136 links, ★ 43, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/smstuebe/xamarin-fingerprint">
    Fingerprint Plugin ★18
   </a>
-  <span>
-   &#9733 18, pushed 2 days ago
-  </span>
   - Xamarin and MvvMCross plugin for accessing the fingerprint sensor
+  <sup>
+   88 GitHub links in total 136 links, ★ 18, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AArnott/PCLCrypto">
    PCLCrypto ★86
   </a>
-  <span>
-   &#9733 90, pushed 19 days ago
-  </span>
   - Cryptography for portable class libraries (MD5,...)
+  <sup>
+   88 GitHub links in total 136 links, ★ 90, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions">
@@ -787,10 +934,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Newtonsoft.Json ★3,000
    </strong>
   </a>
-  <span>
-   &#9733 3030, pushed 2 days ago
-  </span>
   - Popular high-performance JSON framework for .NET
+  <sup>
+   88 GitHub links in total 136 links, ★ 3030, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3030, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -809,10 +959,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/ghuntley/Lager">
    Lager ★1
   </a>
-  <span>
-   &#9733 1, pushed 537 days ago
-  </span>
   - Cross-platform settings storage that uses Akavache as a storage backend
+  <sup>
+   88 GitHub links in total 136 links, ★ 1, pushed 537 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 537 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FransBouma/Massive">
@@ -820,28 +973,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Massive ★1,530
    </strong>
   </a>
-  <span>
-   &#9733 1531, pushed 97 days ago
-  </span>
   - "wrapper" for your DB tables and uses System.Dynamic extensively
+  <sup>
+   88 GitHub links in total 136 links, ★ 1531, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 1531, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aritchie/settings">
    Settings ★11
   </a>
-  <span>
-   &#9733 11, pushed 15 days ago
-  </span>
   - Cross platform settings plugin for Xamarin and Windows
+  <sup>
+   88 GitHub links in total 136 links, ★ 11, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oysteinkrog/SQLite.Net-PCL">
    SQLite.Net-PCL ★237
   </a>
-  <span>
-   &#9733 241, pushed 5 days ago
-  </span>
   - SQLite 3 databases support, PCL, async
+  <sup>
+   88 GitHub links in total 136 links, ★ 241, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 241, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -858,10 +1020,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/nbehave/NBehave">
    NBehave ★36
   </a>
-  <span>
-   &#9733 36, pushed 523 days ago
-  </span>
   - framework for Behaviour-Driven Development
+  <sup>
+   88 GitHub links in total 136 links, ★ 36, pushed 523 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 523 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -872,19 +1037,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/EgorBo/Xamarin.GradleBindings">
    GradleBindings ★39
   </a>
-  <span>
-   &#9733 39, pushed 273 days ago
-  </span>
   - Visual Studio extension, for referencing gradle libs in Android projects
+  <sup>
+   88 GitHub links in total 136 links, ★ 39, pushed 273 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 273 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/interisti/material-icons-generator-plugin">
    Material icons generator plugin ★8
   </a>
-  <span>
-   &#9733 8, pushed 32 days ago
-  </span>
   - Xamarin Studio & Visual Studio plugin, for adding material icons to android project
+  <sup>
+   88 GitHub links in total 136 links, ★ 8, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Redth/PushSharp">
@@ -892,28 +1063,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
     PushSharp ★3,114
    </strong>
   </a>
-  <span>
-   &#9733 3131, pushed 3 days ago
-  </span>
   - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
+  <sup>
+   88 GitHub links in total 136 links, ★ 3131, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 3131, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twintechs/TwinToolsForXamarin">
    Twin Tools Add-In ★7
   </a>
-  <span>
-   &#9733 7, pushed 48 days ago
-  </span>
   - Productivity plugin for Xamarin Studio
+  <sup>
+   88 GitHub links in total 136 links, ★ 7, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EgorBo/Xamaridea">
    Xamaridea ★17
   </a>
-  <span>
-   &#9733 17, pushed 109 days ago
-  </span>
   - Visual Studio extension, opens *.axml files in Android Studio
+  <sup>
+   88 GitHub links in total 136 links, ★ 17, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 109 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -924,10 +1104,13 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/Clancey/WormHoleSharp">
    WormHoleSharp ★23
   </a>
-  <span>
-   &#9733 23, pushed 389 days ago
-  </span>
   - Communication between Watch and iDevice
+  <sup>
+   88 GitHub links in total 136 links, ★ 23, pushed 389 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 389 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -938,28 +1121,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/aritchie/acr-xamarin-forms">
    Acr-xamarin-forms ★190
   </a>
-  <span>
-   &#9733 192, pushed 69 days ago
-  </span>
   - Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms
+  <sup>
+   88 GitHub links in total 136 links, ★ 192, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ufuf/AdvancedTimer">
    AdvancedTimer ★9
   </a>
-  <span>
-   &#9733 9, pushed 123 days ago
-  </span>
   - Timer object and its methods are implemented for extended support for timers.
+  <sup>
+   88 GitHub links in total 136 links, ★ 9, pushed 123 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 123 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nativecode-dev/oss-xamarin">
    Android AppCompat ★28
   </a>
-  <span>
-   &#9733 28, pushed 106 days ago
-  </span>
   - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
+  <sup>
+   88 GitHub links in total 136 links, ★ 28, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle">
@@ -983,37 +1175,49 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/chrfalch/NControl">
    NControl ★87
   </a>
-  <span>
-   &#9733 89, pushed 10 days ago
-  </span>
   - Xamarin.Forms control for NGraphics
+  <sup>
+   88 GitHub links in total 136 links, ★ 89, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MobiliTips/MvxPlugins">
    MvxForms ★7
   </a>
-  <span>
-   &#9733 7, pushed 352 days ago
-  </span>
   - MVVMCross plugin for using Xamarin.Forms
+  <sup>
+   88 GitHub links in total 136 links, ★ 7, pushed 352 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 352 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/soltechinc/soltechxf">
    SolTech Xamarin Forms Toolkit ★18
   </a>
-  <span>
-   &#9733 18, pushed 312 days ago
-  </span>
   - set of helpful extensions to the Xamarin Forms framework
+  <sup>
+   88 GitHub links in total 136 links, ★ 18, pushed 312 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 312 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/voxdev/Xamarin.Plugins">
    Store Rating Plugin ★3
   </a>
-  <span>
-   &#9733 3, pushed 482 days ago
-  </span>
   - Rate app popup
+  <sup>
+   88 GitHub links in total 136 links, ★ 3, pushed 482 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 482 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG">
@@ -1025,19 +1229,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/EgorBo/Toasts.Forms.Plugin">
    Toasts Plugin ★78
   </a>
-  <span>
-   &#9733 81, pushed 20 days ago
-  </span>
   - A simple way of showing some notifications inside your Xamarin.Forms application
+  <sup>
+   88 GitHub links in total 136 links, ★ 81, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twintechs/TwinTechsFormsLib">
    TwinTechsFormsLib ★94
   </a>
-  <span>
-   &#9733 97, pushed 21 days ago
-  </span>
   - FastCell, FastImage, FastGridCell
+  <sup>
+   88 GitHub links in total 136 links, ★ 97, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 97, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/XLabs/Xamarin-Forms-Labs">
@@ -1045,19 +1255,25 @@ mobile-optimized libs (NSURLSession / OkHttp)
     Xamarin-Forms-Labs ★749
    </strong>
   </a>
-  <span>
-   &#9733 762, pushed 7 days ago
-  </span>
   - Powerful and cross platform set of controls and helpers
+  <sup>
+   88 GitHub links in total 136 links, ★ 762, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 762, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jvlppm/xamarin-forms-xna">
    xamarin-forms-xna ★5
   </a>
-  <span>
-   &#9733 6, pushed 387 days ago
-  </span>
   - Monogame wrapper for Xamarin.Forms
+  <sup>
+   88 GitHub links in total 136 links, ★ 6, pushed 387 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 387 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1071,28 +1287,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/aritchie/barcodes">
    barcodes ★4
   </a>
-  <span>
-   &#9733 4, pushed 233 days ago
-  </span>
   - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
+  <sup>
+   88 GitHub links in total 136 links, ★ 4, pushed 233 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 233 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aritchie/biometrics">
    biometrics ★2
   </a>
-  <span>
-   &#9733 2, pushed 132 days ago
-  </span>
   - (Fingerprint Sensor) For Xamarin (iOS & Android)
+  <sup>
+   88 GitHub links in total 136 links, ★ 2, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TheAlmightyBob/Calendars">
    Calendars ★9
   </a>
-  <span>
-   &#9733 9, pushed 16 days ago
-  </span>
   - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
+  <sup>
+   88 GitHub links in total 136 links, ★ 9, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion">
@@ -1104,28 +1329,37 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/aritchie/estimotes-xplat">
    Estimote ★12
   </a>
-  <span>
-   &#9733 12, pushed 13 days ago
-  </span>
   - Cross platform implementation of the estimote library for beacons.
+  <sup>
+   88 GitHub links in total 136 links, ★ 12, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/smstuebe/xamarin-fingerprint">
    Fingerprint ★18
   </a>
-  <span>
-   &#9733 18, pushed 2 days ago
-  </span>
   - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
+  <sup>
+   88 GitHub links in total 136 links, ★ 18, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chkn/HybridKit">
    HybridKit ★6
   </a>
-  <span>
-   &#9733 6, pushed 427 days ago
-  </span>
   - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
+  <sup>
+   88 GitHub links in total 136 links, ★ 6, pushed 427 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 427 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp">
@@ -1137,46 +1371,61 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/molinch/Xam.Plugins.ManageSleep">
    ManageSleep ★4
   </a>
-  <span>
-   &#9733 4, pushed 464 days ago
-  </span>
   - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
+  <sup>
+   88 GitHub links in total 136 links, ★ 4, pushed 464 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 464 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cjlotz/Xamarin.Plugins">
    Messaging ★25
   </a>
-  <span>
-   &#9733 26, pushed 9 days ago
-  </span>
   - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
+  <sup>
+   88 GitHub links in total 136 links, ★ 26, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aritchie/notifications">
    notifications ★5
   </a>
-  <span>
-   &#9733 5, pushed 18 days ago
-  </span>
   - Notifications plugin for Xamarin and Windows
+  <sup>
+   88 GitHub links in total 136 links, ★ 5, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ghuntley/telephony">
    Telephony ★8
   </a>
-  <span>
-   &#9733 8, pushed 337 days ago
-  </span>
   - Email, sms, voice and video call functionality
+  <sup>
+   88 GitHub links in total 136 links, ★ 8, pushed 337 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 337 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aritchie/userdialogs">
    userdialogs ★92
   </a>
-  <span>
-   &#9733 99, pushed 4 days ago
-  </span>
   - Standard user dialogs from a shared/portable library.
+  <sup>
+   88 GitHub links in total 136 links, ★ 99, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version">
@@ -1188,55 +1437,73 @@ mobile-optimized libs (NSURLSession / OkHttp)
   <a href="https://github.com/B1naryStudio/Xamarin.Badge">
    Xamarin.Badge ★15
   </a>
-  <span>
-   &#9733 15, pushed 303 days ago
-  </span>
   - Simple cross platform plugin to work with application badge
+  <sup>
+   88 GitHub links in total 136 links, ★ 15, pushed 303 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 303 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/B1naryStudio/Xamarin.LocalNotifications">
    Xamarin.LocalNotifications ★23
   </a>
-  <span>
-   &#9733 23, pushed 91 days ago
-  </span>
   - Simple cross platform plugin to work with mobile local notifications
+  <sup>
+   88 GitHub links in total 136 links, ★ 23, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xamarin/Xamarin.Mobile">
    Xamarin.Mobile ★181
   </a>
-  <span>
-   &#9733 184, pushed 188 days ago
-  </span>
   - Reading the user's address book and using the camera
+  <sup>
+   88 GitHub links in total 136 links, ★ 184, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 184, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/domaven/xamarin-plugins">
    xamarin-plugins ★12
   </a>
-  <span>
-   &#9733 14, pushed 25 days ago
-  </span>
   - Device Motion, Geofencing, Push Notifications (Beta)
+  <sup>
+   88 GitHub links in total 136 links, ★ 14, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamesmontemagno/Xamarin.Plugins">
    Xamarin.Plugins ★468
   </a>
-  <span>
-   &#9733 479, pushed 10 days ago
-  </span>
   - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
+  <sup>
+   88 GitHub links in total 136 links, ★ 479, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 479, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xamarin/plugins">
    Plugins for Xamarin ★231
   </a>
-  <span>
-   &#9733 247, pushed 8 days ago
-  </span>
   - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
+  <sup>
+   88 GitHub links in total 136 links, ★ 247, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 247, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>

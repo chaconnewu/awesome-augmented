@@ -1949,7 +1949,8 @@ render() {
    <code>
     javascript
 //bad
-<MyComponent key={{Math.random()}}/>
+    <mycomponent key="{{Math.random()}}/">
+    </mycomponent>
    </code>
   </p>
  </li>

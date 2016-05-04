@@ -133,10 +133,13 @@
   <a href="https://github.com/qmx/jitescript">
    Jitescript
   </a>
-  <span>
-   &#9733 127, pushed 312 days ago
-  </span>
   - Bytecode generation library similar to BiteScript.
+  <sup>
+   69 GitHub links in total 132 links, ★ 127, pushed 312 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 312 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -186,10 +189,13 @@
   <a href="https://github.com/giltene/wrk2">
    wrk2
   </a>
-  <span>
-   &#9733 526, pushed 132 days ago
-  </span>
   - A constant throughput, correct latency recording variant of wrk.
+  <sup>
+   69 GitHub links in total 132 links, ★ 526, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 526, pushed 132 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -312,10 +318,13 @@
   <a href="https://github.com/real-logic/Agrona">
    Agrona
   </a>
-  <span>
-   &#9733 400, pushed 3 days ago
-  </span>
   - Library of data structures and utility methods that are a common need when building high-performance applications.
+  <sup>
+   69 GitHub links in total 132 links, ★ 400, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 400, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://arrow.apache.org/">
@@ -327,55 +336,73 @@
   <a href="https://github.com/lemire/bloofi">
    bloofi
   </a>
-  <span>
-   &#9733 38, pushed 56 days ago
-  </span>
   - Java implementation of multidimensional Bloom filters
+  <sup>
+   69 GitHub links in total 132 links, ★ 38, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ben-manes/caffeine">
    caffeine
   </a>
-  <span>
-   &#9733 1295, pushed 3 days ago
-  </span>
   - A high performance caching library for Java 8.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1295, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1295, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OpenHFT/Chronicle-Bytes">
    Chronicle-Bytes
   </a>
-  <span>
-   &#9733 45, pushed 2 days ago
-  </span>
   - Low level memory access wrappers.
+  <sup>
+   69 GitHub links in total 132 links, ★ 45, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/krukow/clj-ds">
    clj-ds
   </a>
-  <span>
-   &#9733 179, pushed 922 days ago
-  </span>
   - Clojure's data structures modified for use outside of Clojure.
+  <sup>
+   69 GitHub links in total 132 links, ★ 179, pushed 922 days ago
+  </sup>
+  <sup>
+   &#9733 179, pushed 922 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/romix/java-concurrent-hash-trie-map">
    java-concurrent-hash-trie-map
   </a>
-  <span>
-   &#9733 82, pushed 60 days ago
-  </span>
   - Java port of a concurrent trie hash map implementation from Scala collections.
+  <sup>
+   69 GitHub links in total 132 links, ★ 82, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boundary/fasttuple">
    fasttuple
   </a>
-  <span>
-   &#9733 121, pushed 717 days ago
-  </span>
   - Collections that are laid out adjacently in both on- and off-heap memory.
+  <sup>
+   69 GitHub links in total 132 links, ★ 121, pushed 717 days ago
+  </sup>
+  <sup>
+   &#9733 121, pushed 717 days ago
+  </sup>
  </li>
  <li>
   <a href="http://google.github.io/flatbuffers/">
@@ -387,28 +414,37 @@
   <a href="https://github.com/goldmansachs/gs-collections">
    gs-collections
   </a>
-  <span>
-   &#9733 1518, pushed 50 days ago
-  </span>
   - Goldman Sachs collections framework.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1518, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 1518, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boundary/high-scale-lib">
    high-scale-lib
   </a>
-  <span>
-   &#9733 250, pushed 402 days ago
-  </span>
   - Cliff Click's High Scale Library.
+  <sup>
+   69 GitHub links in total 132 links, ★ 250, pushed 402 days ago
+  </sup>
+  <sup>
+   &#9733 250, pushed 402 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/carrotsearch/hppc">
    hppc
   </a>
-  <span>
-   &#9733 263, pushed 110 days ago
-  </span>
   - High Performance Primitive Collections.
+  <sup>
+   69 GitHub links in total 132 links, ★ 263, pushed 110 days ago
+  </sup>
+  <sup>
+   &#9733 263, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.javaslang.io/">
@@ -426,28 +462,37 @@
   <a href="https://github.com/OpenHFT/Koloboke">
    Koloboke
   </a>
-  <span>
-   &#9733 466, pushed 9 days ago
-  </span>
   - Java Collections til the last breadcrumb of memory and performance.
+  <sup>
+   69 GitHub links in total 132 links, ★ 466, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 466, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bryanduxbury/lightweight_trie">
    lightweight_trie
   </a>
-  <span>
-   &#9733 30, pushed 1408 days ago
-  </span>
   - A very memory-efficient trie (radix tree) implementation.
+  <sup>
+   69 GitHub links in total 132 links, ★ 30, pushed 1408 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 1408 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cowtowncoder/low-gc-membuffers">
    low-gc-membuffers
   </a>
-  <span>
-   &#9733 110, pushed 545 days ago
-  </span>
   - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
+  <sup>
+   69 GitHub links in total 132 links, ★ 110, pushed 545 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 545 days ago
+  </sup>
  </li>
  <li>
   <a href="http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1">
@@ -465,37 +510,49 @@
   <a href="https://github.com/snazy/ohc">
    ohc
   </a>
-  <span>
-   &#9733 91, pushed 21 days ago
-  </span>
   - Java large off heap cache developed for Apache Cassandra 3.0.
+  <sup>
+   69 GitHub links in total 132 links, ★ 91, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/square/okio">
    okio
   </a>
-  <span>
-   &#9733 2228, pushed 1 days ago
-  </span>
   - Modern Java IO library that do clever things to save CPU and memory.
+  <sup>
+   69 GitHub links in total 132 links, ★ 2228, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2228, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/giltene/PauselessHashMap">
    PauselessHashMap
   </a>
-  <span>
-   &#9733 106, pushed 688 days ago
-  </span>
   - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+  <sup>
+   69 GitHub links in total 132 links, ★ 106, pushed 688 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 688 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hrldcpr/pcollections">
    pcollections
   </a>
-  <span>
-   &#9733 203, pushed 19 days ago
-  </span>
   - A Persistent Java Collections Library.
+  <sup>
+   69 GitHub links in total 132 links, ★ 203, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 203, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.paralleluniverse.co/quasar/">
@@ -513,10 +570,13 @@
   <a href="https://github.com/RoaringBitmap/RoaringBitmap">
    RoaringBitmap
   </a>
-  <span>
-   &#9733 355, pushed 4 days ago
-  </span>
   - A better compressed bitset in Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 355, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 355, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://projectreactor.io/">
@@ -528,55 +588,73 @@
   <a href="https://github.com/ReactiveX/RxJava">
    RxJava
   </a>
-  <span>
-   &#9733 13390, pushed 1 days ago
-  </span>
   - Library for composing asynchronous and event-based programs using observable sequences.
+  <sup>
+   69 GitHub links in total 132 links, ★ 13390, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 13390, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OpenHFT/SmoothieMap">
    SmoothieMap
   </a>
-  <span>
-   &#9733 90, pushed 15 days ago
-  </span>
   - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
+  <sup>
+   69 GitHub links in total 132 links, ★ 90, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/real-logic/simple-binary-encoding">
    Simple Binary Encoding
   </a>
-  <span>
-   &#9733 806, pushed 8 days ago
-  </span>
   - High Performance Message Codec.
+  <sup>
+   69 GitHub links in total 132 links, ★ 806, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 806, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chrisvest/stormpot">
    stormpot
   </a>
-  <span>
-   &#9733 83, pushed 8 days ago
-  </span>
   - A fast object pool for the JVM.
+  <sup>
+   69 GitHub links in total 132 links, ★ 83, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addthis/stream-lib">
    stream-lib
   </a>
-  <span>
-   &#9733 1341, pushed 4 days ago
-  </span>
   - A Java library for summarizing data in streams for which it is infeasible to store all events.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1341, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1341, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cognitect-labs/transducers-java">
    transducers-java
   </a>
-  <span>
-   &#9733 88, pushed 307 days ago
-  </span>
   - Composable algorithmic transformations independent from the context of their input and output sources.
+  <sup>
+   69 GitHub links in total 132 links, ★ 88, pushed 307 days ago
+  </sup>
+  <sup>
+   &#9733 88, pushed 307 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -604,28 +682,37 @@
   <a href="https://github.com/google/compile-testing">
    compile-testing
   </a>
-  <span>
-   &#9733 256, pushed 42 days ago
-  </span>
   - Testing tools for javac and annotation processors.
+  <sup>
+   69 GitHub links in total 132 links, ★ 256, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 256, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/derive4j/derive4j">
    derive4j
   </a>
-  <span>
-   &#9733 110, pushed 75 days ago
-  </span>
   - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
+  <sup>
+   69 GitHub links in total 132 links, ★ 110, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/error-prone">
    error-prone
   </a>
-  <span>
-   &#9733 917, pushed 5 days ago
-  </span>
   - Catch common Java mistakes as compile-time errors.
+  <sup>
+   69 GitHub links in total 132 links, ★ 917, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 917, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://openjdk.java.net/projects/graal/">
@@ -643,28 +730,37 @@
   <a href="https://github.com/javaparser/javaparser">
    javaparser
   </a>
-  <span>
-   &#9733 541, pushed 0 days ago
-  </span>
   - Java 1.8 Parser and Abstract Syntax Tree for Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 541, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 541, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/square/javapoet">
    JavaPoet
   </a>
-  <span>
-   &#9733 1905, pushed 6 days ago
-  </span>
   - A Java API for generating .java source files.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1905, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1905, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jparsec/jparsec">
    jparsec
   </a>
-  <span>
-   &#9733 103, pushed 229 days ago
-  </span>
   - Builds mini parsers in pure Java a la Haskell Parsec.
+  <sup>
+   69 GitHub links in total 132 links, ★ 103, pushed 229 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 229 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.jsweet.org/">
@@ -682,28 +778,37 @@
   <a href="https://github.com/sirthias/parboiled">
    parboiled
   </a>
-  <span>
-   &#9733 886, pushed 8 days ago
-  </span>
   - Parsing of arbitrary input text based on parsing expression grammars.
+  <sup>
+   69 GitHub links in total 132 links, ★ 886, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 886, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/graalvm/sulong">
    Sulong
   </a>
-  <span>
-   &#9733 117, pushed 2 days ago
-  </span>
   - LLVM IR interpreter written in Java using Truffle and Graal.
+  <sup>
+   69 GitHub links in total 132 links, ★ 117, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 117, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/graalvm/truffle">
    Truffle
   </a>
-  <span>
-   &#9733 52, pushed 8 days ago
-  </span>
   - Framework for implementing languages as simple interpreters.
+  <sup>
+   69 GitHub links in total 132 links, ★ 52, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://eclipse.org/Xtext/">
@@ -725,46 +830,61 @@
   <a href="https://github.com/fusesource/hawtjni">
    hawtjni
   </a>
-  <span>
-   &#9733 50, pushed 7 days ago
-  </span>
   - A JNI code generator based on the JNI generator used in Eclipse SWT.
+  <sup>
+   69 GitHub links in total 132 links, ★ 50, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eclipsesource/j2v8">
    j2v8
   </a>
-  <span>
-   &#9733 259, pushed 14 days ago
-  </span>
   - Java API for Google's V8 JavaScript engine.
+  <sup>
+   69 GitHub links in total 132 links, ★ 259, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 259, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bytedeco/javacpp">
    JavaCPP
   </a>
-  <span>
-   &#9733 1511, pushed 3 days ago
-  </span>
   - JavaCPP provides efficient access to native C++ inside Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1511, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1511, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jnr/jnr-ffi">
    jnr-ffi
   </a>
-  <span>
-   &#9733 260, pushed 50 days ago
-  </span>
   - Load native libraries without writing JNI code by hand.
+  <sup>
+   69 GitHub links in total 132 links, ★ 260, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 260, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dvx/jssembly">
    jssembly
   </a>
-  <span>
-   &#9733 91, pushed 75 days ago
-  </span>
   - Execution of native assembly from Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 91, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="http://openjdk.java.net/projects/panama/">
@@ -786,73 +906,97 @@
   <a href="https://github.com/tylertreat/comcast">
    comcast
   </a>
-  <span>
-   &#9733 4212, pushed 48 days ago
-  </span>
   - Simulating shitty network connections.
+  <sup>
+   69 GitHub links in total 132 links, ★ 4212, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 4212, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buger/gor">
    gor
   </a>
-  <span>
-   &#9733 5039, pushed 3 days ago
-  </span>
   - HTTP traffic replay in real-time.
+  <sup>
+   69 GitHub links in total 132 links, ★ 5039, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 5039, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LatencyUtils/jRT">
    jRT
   </a>
-  <span>
-   &#9733 14, pushed 316 days ago
-  </span>
   - Measures response time of a java application to socket-based requests.
+  <sup>
+   69 GitHub links in total 132 links, ★ 14, pushed 316 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 316 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/k3po/k3po">
    K3PO
   </a>
-  <span>
-   &#9733 21, pushed 13 days ago
-  </span>
   - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
+  <sup>
+   69 GitHub links in total 132 links, ★ 21, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mefellows/muxy">
    muxy
   </a>
-  <span>
-   &#9733 521, pushed 99 days ago
-  </span>
   - Simulating real-world distributed system failures.
+  <sup>
+   69 GitHub links in total 132 links, ★ 521, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 521, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/SimianArmy">
    SimianArmy
   </a>
-  <span>
-   &#9733 3979, pushed 34 days ago
-  </span>
   - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
+  <sup>
+   69 GitHub links in total 132 links, ★ 3979, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 3979, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kaitoy/pcap4j">
    pcap4j
   </a>
-  <span>
-   &#9733 171, pushed 2 days ago
-  </span>
   - Java library for capturing, crafting, and sending packets using libpcap.
+  <sup>
+   69 GitHub links in total 132 links, ★ 171, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 171, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rafael-santiago/pig">
    pig
   </a>
-  <span>
-   &#9733 236, pushed 2 days ago
-  </span>
   - A Linux packet crafting tool.
+  <sup>
+   69 GitHub links in total 132 links, ★ 236, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 236, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.tcpdump.org/">
@@ -864,19 +1008,25 @@
   <a href="https://github.com/simsong/tcpflow">
    tcpflow
   </a>
-  <span>
-   &#9733 516, pushed 98 days ago
-  </span>
   - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
+  <sup>
+   69 GitHub links in total 132 links, ★ 516, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 516, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/appneta/tcpreplay">
    tcpreplay
   </a>
-  <span>
-   &#9733 137, pushed 113 days ago
-  </span>
   - Pcap editing and replay tools.
+  <sup>
+   69 GitHub links in total 132 links, ★ 137, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 137, pushed 113 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -975,19 +1125,25 @@
   <a href="https://github.com/google/allocation-instrumenter">
    allocation-instrumenter
   </a>
-  <span>
-   &#9733 54, pushed 380 days ago
-  </span>
   - Java agent that rewrites bytecode to instrument allocation sites.
+  <sup>
+   69 GitHub links in total 132 links, ★ 54, pushed 380 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 380 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Devexperts/aprof">
    aprof
   </a>
-  <span>
-   &#9733 71, pushed 103 days ago
-  </span>
   - Java memory allocation profiler.
+  <sup>
+   69 GitHub links in total 132 links, ★ 71, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbachorik/btrace">
@@ -1005,19 +1161,25 @@
   <a href="https://github.com/chewiebug/GCViewer">
    GCViewer
   </a>
-  <span>
-   &#9733 1292, pushed 14 days ago
-  </span>
   - GCViewer is a tool that visualizes verbose GC output.
+  <sup>
+   69 GitHub links in total 132 links, ★ 1292, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 1292, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jClarity/hawkshaw">
    hawkshaw
   </a>
-  <span>
-   &#9733 33, pushed 153 days ago
-  </span>
   - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
+  <sup>
+   69 GitHub links in total 132 links, ★ 33, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 153 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hdrhistogram.github.io/HdrHistogram/">
@@ -1035,28 +1197,37 @@
   <a href="https://github.com/mariusae/heapster">
    heapster
   </a>
-  <span>
-   &#9733 295, pushed 22 days ago
-  </span>
   - Production heap profiling for the JVM.
+  <sup>
+   69 GitHub links in total 132 links, ★ 295, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 295, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RichardWarburton/honest-profiler">
    honest-profiler
   </a>
-  <span>
-   &#9733 380, pushed 7 days ago
-  </span>
   - Sampling JVM profiler without the safepoint sample bias.
+  <sup>
+   69 GitHub links in total 132 links, ★ 380, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 380, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbellis/jamm">
    jamm
   </a>
-  <span>
-   &#9733 306, pushed 401 days ago
-  </span>
   - Measure actual object memory use including JVM overhead.
+  <sup>
+   69 GitHub links in total 132 links, ★ 306, pushed 401 days ago
+  </sup>
+  <sup>
+   &#9733 306, pushed 401 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html">
@@ -1068,19 +1239,25 @@
   <a href="https://github.com/dweiss/java-sizeof">
    java-sizeof
   </a>
-  <span>
-   &#9733 78, pushed 27 days ago
-  </span>
   - Memory consumption estimator for Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 78, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AdoptOpenJDK/jitwatch">
    jitwatch
   </a>
-  <span>
-   &#9733 746, pushed 1 days ago
-  </span>
   - Log analyser / visualiser for Java HotSpot JIT compiler.
+  <sup>
+   69 GitHub links in total 132 links, ★ 746, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 746, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.azul.com/jhiccup/">
@@ -1116,10 +1293,13 @@
   <a href="https://github.com/patric-r/jvmtop">
    jvmtop
   </a>
-  <span>
-   &#9733 193, pushed 105 days ago
-  </span>
   - Lightweight console application to monitor running jvms on a machine in top-like manner.
+  <sup>
+   69 GitHub links in total 132 links, ★ 193, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 193, pushed 105 days ago
+  </sup>
  </li>
  <li>
   <a href="https://eclipse.org/mat/">
@@ -1131,10 +1311,13 @@
   <a href="https://github.com/square/leakcanary">
    leakcanary
   </a>
-  <span>
-   &#9733 8691, pushed 11 days ago
-  </span>
   - A memory leak detection library for Android and Java.
+  <sup>
+   69 GitHub links in total 132 links, ★ 8691, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 8691, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://metrics.dropwizard.io/">
@@ -1152,59 +1335,77 @@
   <a href="https://github.com/jrudolph/perf-map-agent">
    perf-map-agent
   </a>
-  <span>
-   &#9733 258, pushed 4 days ago
-  </span>
   - Generate method mappings to use with the linux
   <code>
    perf
   </code>
   tool.
+  <sup>
+   69 GitHub links in total 132 links, ★ 258, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 258, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coderplay/perfj">
    perfj
   </a>
-  <span>
-   &#9733 233, pushed 211 days ago
-  </span>
   - Linux perf for java programs.
+  <sup>
+   69 GitHub links in total 132 links, ★ 233, pushed 211 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Cue/polarbear">
    polarbear
   </a>
-  <span>
-   &#9733 17, pushed 1296 days ago
-  </span>
   - A tool to help diagnose OutOfMemoryError conditions.
+  <sup>
+   69 GitHub links in total 132 links, ★ 17, pushed 1296 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 1296 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/riemann/riemann-jvm-profiler">
    Riemann JVM Profiler
   </a>
-  <span>
-   &#9733 245, pushed 495 days ago
-  </span>
   - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
+  <sup>
+   69 GitHub links in total 132 links, ★ 245, pushed 495 days ago
+  </sup>
+  <sup>
+   &#9733 245, pushed 495 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/etsy/statsd-jvm-profiler">
    statsd-jvm-profiler
   </a>
-  <span>
-   &#9733 177, pushed 39 days ago
-  </span>
   - JVM agent profiler that sends profiling data to StatsD.
+  <sup>
+   69 GitHub links in total 132 links, ★ 177, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 177, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aragozin/jvm-tools">
    Swiss Java Knife
   </a>
-  <span>
-   &#9733 570, pushed 37 days ago
-  </span>
   - Small set of tools for JVM troublshooting, monitoring and profiling.
+  <sup>
+   69 GitHub links in total 132 links, ★ 570, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 570, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.takipi.com/">
@@ -1222,10 +1423,13 @@
   <a href="https://github.com/openzipkin/zipkin">
    Zipkin
   </a>
-  <span>
-   &#9733 3459, pushed 2 days ago
-  </span>
   - A distributed tracing system gather timing data for disparate services developed by Twitter.
+  <sup>
+   69 GitHub links in total 132 links, ★ 3459, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3459, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>

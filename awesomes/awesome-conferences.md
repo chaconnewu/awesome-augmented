@@ -178,9 +178,6 @@
   <a href="https://github.com/papers-we-love/papers-we-love">
    Papers We Love
   </a>
-  <span>
-   &#9733 16161, pushed 12 days ago
-  </span>
   //
   <a href="https://twitter.com/papers_we_love">
    @papers
@@ -189,6 +186,12 @@
    </em>
    love
   </a>
+  <sup>
+   6 GitHub links in total 172 links, ★ 16161, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 16161, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sciencehackday.org/">
@@ -1509,9 +1512,12 @@
   <a href="https://github.com/AndroidStudyGroup/conferences">
    AndroidStudyGroup
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 172 links, ★ 551, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 551, pushed 14 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rosarior/awesome-django#conferences">
@@ -1523,10 +1529,13 @@
   <a href="https://github.com/Lascorbe/CocoaConferences">
    Cocoa Conferences
   </a>
-  <span>
-   &#9733 509, pushed 5 days ago
-  </span>
   List of cocoa conferences for iOS & OSX developers.
+  <sup>
+   6 GitHub links in total 172 links, ★ 509, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 509, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/maxogden/322a649ff84fe1c2a680">
@@ -1557,10 +1566,13 @@
   <a href="https://github.com/planetruby/awesome-events">
    planetruby/awesome-events
   </a>
-  <span>
-   &#9733 167, pushed 19 days ago
-  </span>
   . A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
+  <sup>
+   6 GitHub links in total 172 links, ★ 167, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 167, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="http://totalism.org/calendar">
@@ -1577,9 +1589,12 @@
   <a href="https://github.com/matteofigus/awesome-speaking">
    awesome-speaking
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 172 links, ★ 360, pushed 112 days ago
+  </sup>
+  <sup>
    &#9733 360, pushed 112 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/macintux/5354837">

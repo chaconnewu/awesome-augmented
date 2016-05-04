@@ -141,9 +141,6 @@
     <a href="https://github.com/busterc/cordova-resource-generators">
      cordova-resource-generators
     </a>
-    <span>
-     &#9733 34, pushed 138 days ago
-    </span>
     (splash screens too)
    </li>
    <li>
@@ -157,6 +154,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   1 GitHub links in total 23 links, ★ 34, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 138 days ago
+  </sup>
  </li>
 </ul>
 <h1>

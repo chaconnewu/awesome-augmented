@@ -108,9 +108,12 @@
   <a href="https://github.com/laravel/lumen">
    GitHub Repository
   </a>
-  <span>
-   &#9733 3656, pushed 8 days ago
-  </span>
+  <sup>
+   21 GitHub links in total 56 links, ★ 3656, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 3656, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -209,145 +212,193 @@
   <a href="https://github.com/vluzrmos/lumen-cors">
    Lumen Cors
   </a>
-  <span>
-   &#9733 26, pushed 298 days ago
-  </span>
   - A simple lumen CORS
+  <sup>
+   21 GitHub links in total 56 links, ★ 26, pushed 298 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 298 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/palanik/lumen-cors">
    Alternative Lumen Cors
   </a>
-  <span>
-   &#9733 28, pushed 379 days ago
-  </span>
   - CORS Middleware for Lumen micro-framework
+  <sup>
+   21 GitHub links in total 56 links, ★ 28, pushed 379 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 379 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pmartelletti/phpspec-lumen">
    Phpspec Lumen
   </a>
-  <span>
-   &#9733 0, pushed 83 days ago
-  </span>
   - Test your Lumen app with phpspec
+  <sup>
+   21 GitHub links in total 56 links, ★ 0, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/understand/understand-lumen">
    Understand Lumen
   </a>
-  <span>
-   &#9733 4, pushed 96 days ago
-  </span>
   - Laravel Lumen service provider for Understand.io
+  <sup>
+   21 GitHub links in total 56 links, ★ 4, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vluzrmos/laravel-badge-poser">
    Badge Poser
   </a>
-  <span>
-   &#9733 2, pushed 126 days ago
-  </span>
   - Lumen Badge Generator
+  <sup>
+   21 GitHub links in total 56 links, ★ 2, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neomerx/cors-illuminate">
    Cors Illuminate
   </a>
-  <span>
-   &#9733 19, pushed 8 days ago
-  </span>
   - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
+  <sup>
+   21 GitHub links in total 56 links, ★ 19, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/generationtux/jwt-artisan">
    Jwt Artisan
   </a>
-  <span>
-   &#9733 105, pushed 60 days ago
-  </span>
   - JWT auth for Laravel and Lumen
+  <sup>
+   21 GitHub links in total 56 links, ★ 105, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SammyK/LaravelFacebookSdk">
    Facebook SDK
   </a>
-  <span>
-   &#9733 313, pushed 21 days ago
-  </span>
   - Facebook SDK for Laravel and Lumen
+  <sup>
+   21 GitHub links in total 56 links, ★ 313, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 313, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webNeat/lumen-generators">
    Lumen Generators
   </a>
-  <span>
-   &#9733 44, pushed 33 days ago
-  </span>
   - A collection of generators for Lumen and Laravel 5.
+  <sup>
+   21 GitHub links in total 56 links, ★ 44, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dingo/api">
    Dingo API
   </a>
-  <span>
-   &#9733 3443, pushed 5 days ago
-  </span>
   - A RESTful API package for the Laravel and Lumen frameworks.
+  <sup>
+   21 GitHub links in total 56 links, ★ 3443, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 3443, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vluzrmos/lumen-tinker">
    Lumen Tinker
   </a>
-  <span>
-   &#9733 27, pushed 53 days ago
-  </span>
   - An interactive shell to Lumen framework
+  <sup>
+   21 GitHub links in total 56 links, ★ 27, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rdehnhardt/lumen-maintenance-mode">
    Lumen Maintenance Mode
   </a>
-  <span>
-   &#9733 3, pushed 158 days ago
-  </span>
   - Define Lumen Application Maintenance Mode
+  <sup>
+   21 GitHub links in total 56 links, ★ 3, pushed 158 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 158 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/laravelista/lumen-vendor-publish">
    Lumen Vendor Publish
   </a>
-  <span>
-   &#9733 47, pushed 307 days ago
-  </span>
   - Vendor publish command for Lumen framework.
+  <sup>
+   21 GitHub links in total 56 links, ★ 47, pushed 307 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 307 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/michaelbonds/lumen-make">
    Lumen Make
   </a>
-  <span>
-   &#9733 5, pushed 41 days ago
-  </span>
   - Ports most of the make commands from Laravel to Lumen.
+  <sup>
+   21 GitHub links in total 56 links, ★ 5, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nordsoftware/lumen-file-manager">
    Lumen File Manager
   </a>
-  <span>
-   &#9733 27, pushed 4 days ago
-  </span>
   - File manager module for the Lumen PHP framework.
+  <sup>
+   21 GitHub links in total 56 links, ★ 27, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/irazasyed/larasupport">
    Larasupport
   </a>
-  <span>
-   &#9733 33, pushed 99 days ago
-  </span>
   - Adds Laravel Packages Support to Lumen and Other Helpers.
+  <sup>
+   21 GitHub links in total 56 links, ★ 33, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 99 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -358,37 +409,49 @@
   <a href="https://github.com/vluzrmos/lumen-slackin">
    Slack Invitator
   </a>
-  <span>
-   &#9733 38, pushed 126 days ago
-  </span>
   - A Slack Invitator made with Lumen Framework
+  <sup>
+   21 GitHub links in total 56 links, ★ 38, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rlacerda83/lumen-email-microservice">
    Email Microservice
   </a>
-  <span>
-   &#9733 12, pushed 229 days ago
-  </span>
   - Microservice for sending emails with Lumen
+  <sup>
+   21 GitHub links in total 56 links, ★ 12, pushed 229 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 229 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/laravelista/Lissandra">
    Lissandra
   </a>
-  <span>
-   &#9733 11, pushed 384 days ago
-  </span>
   - API for Laracasts Feed built with Lumen.
+  <sup>
+   21 GitHub links in total 56 links, ★ 11, pushed 384 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 384 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TechnicPack/LumenSolder">
    Lumen Solder
   </a>
-  <span>
-   &#9733 1, pushed 256 days ago
-  </span>
   - An implementation of Solder in Laravel's Lumen Framework.
+  <sup>
+   21 GitHub links in total 56 links, ★ 1, pushed 256 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 256 days ago
+  </sup>
  </li>
 </ul>
 <h2>

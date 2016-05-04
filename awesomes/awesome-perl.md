@@ -25,9 +25,12 @@
   <a href="https://github.com/EnlightenedPerlOrganisation/task-kensho" title="Task::Kensho">
    Task::Kensho
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 36, pushed 214 days ago
+  </sup>
+  <sup>
    &#9733 36, pushed 214 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://perlmaven.com/perl-based-open-source-products">
@@ -1732,41 +1735,56 @@
   <a href="https://github.com/bayandin/awesome-awesomeness">
    bayandin/awesome-awesomeness
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 16107, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emijrp/awesome-awesome">
    emijrp/awesome-awesome
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 537, pushed 118 days ago
+  </sup>
+  <sup>
    &#9733 537, pushed 118 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fleveque/awesome-awesomes">
    fleveque/awesome-awesomes
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 384, pushed 13 days ago
+  </sup>
+  <sup>
    &#9733 384, pushed 13 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome">
    sindresorhus/awesome
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 34522, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/t3chnoboy/awesome-awesome-awesome">
    t3chnoboy/awesome-awesome-awesome
   </a>
-  <span>
+  <sup>
+   6 GitHub links in total 237 links, ★ 608, pushed 216 days ago
+  </sup>
+  <sup>
    &#9733 608, pushed 216 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>

@@ -117,28 +117,37 @@
   <a href="https://github.com/tlehman/fenparser">
    fenparser by tlehman
   </a>
-  <span>
-   &#9733 0, pushed 300 days ago
-  </span>
   - A parser for Forsyth-Edwards Notation wriitten in Python.
+  <sup>
+   11 GitHub links in total 50 links, ★ 0, pushed 300 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 300 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ucarion/fen">
    fen by ucarion
   </a>
-  <span>
-   &#9733 0, pushed 272 days ago
-  </span>
   - A Rust Forsyth-Edwards notation parser with proper error handling.
+  <sup>
+   11 GitHub links in total 50 links, ★ 0, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andyherbert/fen-diagram">
    fen-diagram by andyherbert
   </a>
-  <span>
-   &#9733 2, pushed 1017 days ago
-  </span>
   - Javascript script for generating chess diagrams using Forsyth-Edwards notation.
+  <sup>
+   11 GitHub links in total 50 links, ★ 2, pushed 1017 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 1017 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -154,19 +163,25 @@
   <a href="https://github.com/benwr/latrunculorum">
    latrunculorum
   </a>
-  <span>
-   &#9733 3, pushed 356 days ago
-  </span>
   - A simple chess bot in Python.
+  <sup>
+   11 GitHub links in total 50 links, ★ 3, pushed 356 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 356 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jfabeel/Chessbot">
    Chessbot
   </a>
-  <span>
-   &#9733 0, pushed 1125 days ago
-  </span>
   - Bot written in Java.
+  <sup>
+   11 GitHub links in total 50 links, ★ 0, pushed 1125 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 1125 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -182,10 +197,13 @@
   <a href="https://github.com/jhlywa/chess.js">
    chess.js
   </a>
-  <span>
-   &#9733 697, pushed 22 days ago
-  </span>
   - chess.js, Structured code for chess Authentication.
+  <sup>
+   11 GitHub links in total 50 links, ★ 697, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 697, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/chess">
@@ -271,28 +289,37 @@
   <a href="https://github.com/laat/chess-board">
    chess-board
   </a>
-  <span>
-   &#9733 9, pushed 3 days ago
-  </span>
   - A web component for displaying chess positions.It takes FEN string as input and renders the board as output.
+  <sup>
+   11 GitHub links in total 50 links, ★ 9, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bmarini/jchess">
    jchess
   </a>
-  <span>
-   &#9733 85, pushed 278 days ago
-  </span>
   - A jQuery based javascript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
+  <sup>
+   11 GitHub links in total 50 links, ★ 85, pushed 278 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 278 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/caustique/chessboard-js">
    Chessboard-js
   </a>
-  <span>
-   &#9733 6, pushed 740 days ago
-  </span>
   - A responsive mobile-first javascript chessboard library.
+  <sup>
+   11 GitHub links in total 50 links, ★ 6, pushed 740 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 740 days ago
+  </sup>
  </li>
 </ul>
 <h2>

@@ -368,9 +368,12 @@
   <a href="https://github.com/AlanBarber/CodeKatas">
    .Net Code Katas
   </a>
-  <span>
-   &#9733 5, pushed 329 days ago
-  </span>
+  <sup>
+   17 GitHub links in total 66 links, ★ 5, pushed 329 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 330 days ago
+  </sup>
  </li>
  <li>
   <a href="http://code.joejag.com/coding-dojo/bank-ocr/">
@@ -386,9 +389,12 @@
   <a href="https://github.com/emilybache/Racing-Car-Katas">
    Racing Car Katas
   </a>
-  <span>
+  <sup>
+   17 GitHub links in total 66 links, ★ 57, pushed 23 days ago
+  </sup>
+  <sup>
    &#9733 57, pushed 23 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://codingdojo.org/cgi-bin/index.pl?KataCatalogue">

@@ -338,82 +338,109 @@ with React Native.
   <a href="https://github.com/APSL/react-native-button">
    apsl-react-native-button ★124
   </a>
-  <span>
-   &#9733 143, pushed 3 days ago
-  </span>
   - React Native button component with rounded corners.
+  <sup>
+   439 GitHub links in total 531 links, ★ 143, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 143, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xudafeng/autoresponsive-react-native">
    autoresponsive-react-native ★47
   </a>
-  <span>
-   &#9733 49, pushed 89 days ago
-  </span>
   - A Magical Layout Library For React
+  <sup>
+   439 GitHub links in total 531 links, ★ 49, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/exponentjs/ex-navigator">
    ex-navigator ★364
   </a>
-  <span>
-   &#9733 370, pushed 4 days ago
-  </span>
   - Route-centric navigation built on top of React Native's Navigator
+  <sup>
+   439 GitHub links in total 531 links, ★ 370, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 370, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xxsnakerxx/react-native-ya-navigator">
    react-native-ya-navigator ★8
   </a>
-  <span>
-   &#9733 13, pushed 11 days ago
-  </span>
   - Yet another react native navigator component
+  <sup>
+   439 GitHub links in total 531 links, ★ 13, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ProjectSeptemberInc/gl-react-native">
    gl-react-native ★677
   </a>
-  <span>
-   &#9733 707, pushed 14 days ago
-  </span>
   - use OpenGL for performant effects on images and videos
+  <sup>
+   439 GitHub links in total 531 links, ★ 707, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 707, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/leowang721/k-react-native-swipe-unlocker">
    k-react-native-swipe-unlocker ★15
   </a>
-  <span>
-   &#9733 15, pushed 257 days ago
-  </span>
   - A simple swipe unlock for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 257 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 257 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/imartingraham/react-native-progress">
    metpro-react-native-progress ★13
   </a>
-  <span>
-   &#9733 13, pushed 124 days ago
-  </span>
   - Progress indicators and spinners for React Native using ReactART.
+  <sup>
+   439 GitHub links in total 531 links, ★ 13, pushed 124 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 124 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/naoufal/react-native-accordion">
    react-native-accordion ★122
   </a>
-  <span>
-   &#9733 127, pushed 18 days ago
-  </span>
   - An Accordion Component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 127, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mastermoo/react-native-action-button">
    react-native-action-button ★201
   </a>
-  <span>
-   &#9733 216, pushed 10 days ago
-  </span>
   - A customizable Float Button Component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 216, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 216, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slowpath/react-native-actionsheet">
@@ -425,127 +452,169 @@ with React Native.
   <a href="https://github.com/naoufal/react-native-activity-view">
    react-native-activity-view ★180
   </a>
-  <span>
-   &#9733 192, pushed 12 days ago
-  </span>
   - iOS share and action sheets for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 192, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Purii/react-native-adbannerview">
    react-native-adbannerview ★28
   </a>
-  <span>
-   &#9733 28, pushed 134 days ago
-  </span>
   - React Native Bridge for ADBannerView
+  <sup>
+   439 GitHub links in total 531 links, ★ 28, pushed 135 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 135 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sunnylqm/react-native-alphabetlistview">
    react-native-alphabetlistview ★41
   </a>
-  <span>
-   &#9733 44, pushed 19 days ago
-  </span>
   - A Listview with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
+  <sup>
+   439 GitHub links in total 531 links, ★ 44, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kwaak/react-native-android-blurryoverlay">
    react-native-android-blurryoverlay ★27
   </a>
-  <span>
-   &#9733 29, pushed 100 days ago
-  </span>
   - A react native android package to show a blurry overlay.
+  <sup>
+   439 GitHub links in total 531 links, ★ 29, pushed 100 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 100 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kwaak/react-native-android-circles">
    react-native-android-circles ★6
   </a>
-  <span>
-   &#9733 6, pushed 26 days ago
-  </span>
   - A react native android package to show a circle progress view.
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwhiteley/react-native-android-iconify">
    react-native-android-iconify ★26
   </a>
-  <span>
-   &#9733 26, pushed 170 days ago
-  </span>
   - icons for react native android using android-iconify
+  <sup>
+   439 GitHub links in total 531 links, ★ 26, pushed 170 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ayoubdev/react-native-android-kit">
    react-native-android-kit ★15
   </a>
-  <span>
-   &#9733 19, pushed 92 days ago
-  </span>
   - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
+  <sup>
+   439 GitHub links in total 531 links, ★ 19, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NishanthShankar/react-native-android-statusbar">
    react-native-android-statusbar ★65
   </a>
-  <span>
-   &#9733 68, pushed 77 days ago
-  </span>
   - A react native android package to control the status bar.
+  <sup>
+   439 GitHub links in total 531 links, ★ 68, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FuYaoDe/react-native-app-intro">
    react-native-app-intro ★126
   </a>
-  <span>
-   &#9733 129, pushed 5 days ago
-  </span>
   - A React Native parallax effect app intro
+  <sup>
+   439 GitHub links in total 531 links, ★ 129, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/larsvinter/react-native-awesome-button">
    react-native-awesome-button ★56
   </a>
-  <span>
-   &#9733 56, pushed 30 days ago
-  </span>
   - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
+  <sup>
+   439 GitHub links in total 531 links, ★ 56, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshswan/react-native-autolink">
    react-native-autolink ★16
   </a>
-  <span>
-   &#9733 19, pushed 4 days ago
-  </span>
   - Autolinking component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 19, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nulrich/RCTAutoComplete">
    react-native-autocomplete ★73
   </a>
-  <span>
-   &#9733 76, pushed 63 days ago
-  </span>
   - React Native Component for MLPAutoCompleteTextField
+  <sup>
+   439 GitHub links in total 531 links, ★ 76, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/l-urence/react-native-autocomplete-input">
    react-native-autocomplete-input ★11
   </a>
-  <span>
-   &#9733 14, pushed 7 days ago
-  </span>
   - Pure javascript autocomplete input for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 14, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/niborb/react-native-gravatar">
    react-native-avatar-gravatar ★1
   </a>
-  <span>
-   &#9733 1, pushed 43 days ago
-  </span>
   - React Native Gravatar component
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ModusCreateOrg/react-native-better-mapview">
@@ -563,72 +632,96 @@ with React Native.
   <a href="https://github.com/ide/react-native-button">
    react-native-button ★228
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 240, pushed 8 days ago
+  </sup>
+  <sup>
    &#9733 240, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-cache-image">
    react-native-cache-image ★30
   </a>
-  <span>
-   &#9733 36, pushed 147 days ago
-  </span>
   - A cache-image for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 36, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jayesbe/react-native-cacheable-image">
    react-native-cacheable-image ★5
   </a>
-  <span>
-   &#9733 6, pushed 26 days ago
-  </span>
   - A filesystem cacheable image component for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chymtt/ReactNativeCalendarAndroid">
    react-native-calendar-android ★19
   </a>
-  <span>
-   &#9733 20, pushed 75 days ago
-  </span>
   - A simple material-themed calendar for react native android
+  <sup>
+   439 GitHub links in total 531 links, ★ 20, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/christopherdro/react-native-calendar">
    react-native-calendar ★92
   </a>
-  <span>
-   &#9733 96, pushed 22 days ago
-  </span>
   - Calendar Component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 96, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 96, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwansbrough/react-native-canvas">
    react-native-canvas ★53
   </a>
-  <span>
-   &#9733 54, pushed 223 days ago
-  </span>
   - A Canvas element for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 54, pushed 223 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nick/react-native-carousel">
    react-native-carousel ★160
   </a>
-  <span>
-   &#9733 171, pushed 13 days ago
-  </span>
   - Simple carousel component for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 171, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 171, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/machadogj/react-native-carousel-control">
    react-native-carousel-control ★32
   </a>
-  <span>
-   &#9733 34, pushed 35 days ago
-  </span>
   - React Native Carousel control with support for iOS and Android.
+  <sup>
+   439 GitHub links in total 531 links, ★ 34, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onefold/react-native-chart">
@@ -640,136 +733,181 @@ with React Native.
   <a href="https://github.com/PrazAs/react-native-charts">
    react-native-charts ★33
   </a>
-  <span>
-   &#9733 33, pushed 67 days ago
-  </span>
   - Delightfully-animated data visualization.
+  <sup>
+   439 GitHub links in total 531 links, ★ 33, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sconxu/react-native-checkbox">
    react-native-checkbox ★22
   </a>
-  <span>
-   &#9733 26, pushed 40 days ago
-  </span>
   - Checkbox component for React native
+  <sup>
+   439 GitHub links in total 531 links, ★ 26, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox">
    react-native-circle-checkbox ★8
   </a>
-  <span>
-   &#9733 8, pushed 46 days ago
-  </span>
   - Circle checkbox component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/guodong000/react-native-circle-progress">
    react-native-circle-progress ★20
   </a>
-  <span>
-   &#9733 20, pushed 50 days ago
-  </span>
   - A custom Circle Progress Indocator for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 20, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nucleartux/react-native-circle-view">
    react-native-circle-view ★24
   </a>
-  <span>
-   &#9733 26, pushed 64 days ago
-  </span>
   - circle progress for react native android using CircleView
+  <sup>
+   439 GitHub links in total 531 links, ★ 26, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bgryszko/react-native-circular-progress">
    react-native-circular-progress ★112
   </a>
-  <span>
-   &#9733 120, pushed 20 days ago
-  </span>
   - React Native component for creating animated, circular progress with ReactART
+  <sup>
+   439 GitHub links in total 531 links, ★ 120, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oblador/react-native-collapsible">
    react-native-collapsible ★136
   </a>
-  <span>
-   &#9733 148, pushed 29 days ago
-  </span>
   - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
+  <sup>
+   439 GitHub links in total 531 links, ★ 148, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 148, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buhe/react-native-countdown">
    react-native-countdown ★5
   </a>
-  <span>
-   &#9733 4, pushed 138 days ago
-  </span>
   - react native countdown button
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tofugear/react-native-country-picker">
    react-native-country-picker ★2
   </a>
-  <span>
-   &#9733 2, pushed 67 days ago
-  </span>
   - React Native Country Picker
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rhaker/react-native-create-new-file-ios">
    react-native-create-new-file-ios ★0
   </a>
-  <span>
-   &#9733 0, pushed 82 days ago
-  </span>
   - A react-native interface for creating a blank new file on ios. File must not already exist.
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/guodong000/react-native-custom-actsheet">
    react-native-custom-actsheet ★24
   </a>
-  <span>
-   &#9733 24, pushed 143 days ago
-  </span>
   - A custom ActionSheet for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 24, pushed 143 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 143 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chirag04/react-native-dashed-border">
    react-native-dashed-border ★18
   </a>
-  <span>
-   &#9733 17, pushed 85 days ago
-  </span>
   - A  element for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nucleartux/react-native-date">
    react-native-date ★35
   </a>
-  <span>
-   &#9733 35, pushed 27 days ago
-  </span>
   - React Native date and time pickers for Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 35, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/milasevicius/react-native-timepicker">
    react-native-timepicker ★6
   </a>
-  <span>
-   &#9733 6, pushed 91 days ago
-  </span>
   - React Native timepicker for iOS
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xgfe/react-native-datepicker">
    react-native-datepicker ★9
   </a>
-  <span>
-   &#9733 12, pushed 4 days ago
-  </span>
   - React Native date, datetime and time picker for both Android and IOS
+  <sup>
+   439 GitHub links in total 531 links, ★ 12, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kkjdaniel/react-native-display-view">
@@ -781,28 +919,37 @@ with React Native.
   <a href="https://github.com/aakashns/react-native-dialogs">
    react-native-dialogs ★137
   </a>
-  <span>
-   &#9733 145, pushed 27 days ago
-  </span>
   - React Native wrappers for https://github.com/afollestad/material-dialogs
+  <sup>
+   439 GitHub links in total 531 links, ★ 145, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alinz/react-native-double-buffer">
    react-native-double-buffer ★1
   </a>
-  <span>
-   &#9733 1, pushed 329 days ago
-  </span>
   - Simple React Native Double Buffer View
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 329 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 329 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/llanox/react-native-draggable-drawer">
    react-native-draggable-drawer ★12
   </a>
-  <span>
-   &#9733 13, pushed 239 days ago
-  </span>
   - DraggableDrawer component for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 13, pushed 239 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 239 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rt2zz/react-native-drawer">
@@ -814,463 +961,610 @@ with React Native.
   <a href="https://github.com/tinycreative/react-native-dropbox-chooser">
    react-native-dropbox-chooser ★9
   </a>
-  <span>
-   &#9733 9, pushed 40 days ago
-  </span>
   - React Native dropbox chooser module
+  <sup>
+   439 GitHub links in total 531 links, ★ 9, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chymtt/ReactNativeDropdownAndroid">
    react-native-dropdown-android ★48
   </a>
-  <span>
-   &#9733 48, pushed 75 days ago
-  </span>
   - Simple wrapper for Android's Spinner to use with react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 48, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Obooman/RCTRefreshControl">
    react-native-drop-refresh ★3
   </a>
-  <span>
-   &#9733 3, pushed 33 days ago
-  </span>
   - A pull down to refresh control for react native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alinz/react-native-dropdown">
    react-native-dropdown ★117
   </a>
-  <span>
-   &#9733 128, pushed 11 days ago
-  </span>
   - A better Select dropdown menu for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 128, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 128, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/voronianski/react-native-effects-view">
    react-native-effects-view ★159
   </a>
-  <span>
-   &#9733 165, pushed 41 days ago
-  </span>
   - ReactNative Component that makes easy to use iOS8 UIVisualEffect
+  <sup>
+   439 GitHub links in total 531 links, ★ 165, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 165, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jorilallo/react-native-emoji">
    react-native-emoji ★32
   </a>
-  <span>
-   &#9733 35, pushed 17 days ago
-  </span>
   - Emoji component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 35, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chagasaway/react-native-fading-slides">
    react-native-fading-slides ★12
   </a>
-  <span>
-   &#9733 14, pushed 198 days ago
-  </span>
   - Simple looped fading slides carousel for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 14, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 198 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/huiseoul/react-native-fit-image">
    react-native-fit-image ★15
   </a>
-  <span>
-   &#9733 16, pushed 2 days ago
-  </span>
   - Responsive image component to fit perfectly itself.
+  <sup>
+   439 GitHub links in total 531 links, ★ 16, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eccolabs/react-native-flex-label">
    react-native-flex-label ★4
   </a>
-  <span>
-   &#9733 4, pushed 324 days ago
-  </span>
   - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 324 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 324 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayank-patel/react-native-floating-labels">
    react-native-floating-labels ★43
   </a>
-  <span>
-   &#9733 45, pushed 354 days ago
-  </span>
   - Reusabe floating lable component for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 45, pushed 354 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 354 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peter4k/react-native-fm-form">
    react-native-fm-form ★7
   </a>
-  <span>
-   &#9733 7, pushed 180 days ago
-  </span>
   - Generate list view form of React Native in few line of codes
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 180 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 180 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aksonov/react-native-form-flux">
    react-native-form-flux ★1
   </a>
-  <span>
-   &#9733 1, pushed 234 days ago
-  </span>
   - React Native Form management using Flux architecture
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 234 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 234 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/julianocomg/react-native-form">
    react-native-form ★53
   </a>
-  <span>
-   &#9733 55, pushed 77 days ago
-  </span>
   - A simple react-native component to wrap your form fields!
+  <sup>
+   439 GitHub links in total 531 links, ★ 55, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MichaelCereda/react-native-form-generator">
    react-native-form-generator ★25
   </a>
-  <span>
-   &#9733 30, pushed 33 days ago
-  </span>
   - Generate amazing React Native forms in a breeze
+  <sup>
+   439 GitHub links in total 531 links, ★ 30, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frostney/react-intl-native">
    react-native-fontbase ★1
   </a>
-  <span>
-   &#9733 1, pushed 2 days ago
-  </span>
   - Defining font sizes in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kirkness/react-native-fs-modal">
    react-native-fs-modal ★28
   </a>
-  <span>
-   &#9733 28, pushed 125 days ago
-  </span>
   - React native full screen modal component.
+  <sup>
+   439 GitHub links in total 531 links, ★ 28, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Anthonyzou/react-native-full-screen">
    react-native-full-screen ★1
   </a>
-  <span>
-   &#9733 2, pushed 58 days ago
-  </span>
   - React Native FullScreen api and element
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spikef/react-native-gesture-password">
    react-native-gesture-password ★89
   </a>
-  <span>
-   &#9733 94, pushed 25 days ago
-  </span>
   - A gesture password component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 94, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johanneslumpe/react-native-gesture-recognizers">
    react-native-gesture-recognizers ★78
   </a>
-  <span>
-   &#9733 84, pushed 38 days ago
-  </span>
   - Gesture recognizer decorators for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 84, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 84, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kiddkai/react-native-gestures">
    react-native-gestures ★55
   </a>
-  <span>
-   &#9733 56, pushed 42 days ago
-  </span>
   - composable gesture system in react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 56, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FaridSafi/react-native-gifted-form">
    react-native-gifted-form ★260
   </a>
-  <span>
-   &#9733 278, pushed 4 days ago
-  </span>
   - Form component for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 278, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 278, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FaridSafi/react-native-gifted-listview">
    react-native-gifted-listview ★293
   </a>
-  <span>
-   &#9733 328, pushed 8 days ago
-  </span>
   - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
+  <sup>
+   439 GitHub links in total 531 links, ★ 328, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 328, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FaridSafi/react-native-gifted-messenger">
    react-native-gifted-messenger ★637
   </a>
-  <span>
-   &#9733 760, pushed 4 days ago
-  </span>
   - Ready-to-use chat interface for iOS and Android React-Native apps
+  <sup>
+   439 GitHub links in total 531 links, ★ 760, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 760, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/teamrota/react-native-gmaps">
    react-native-gmaps ★59
   </a>
-  <span>
-   &#9733 63, pushed 15 days ago
-  </span>
   - React Native Android Google Maps implementation.
+  <sup>
+   439 GitHub links in total 531 links, ★ 63, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwhiteley/react-native-gravatar">
    react-native-gravatar ★1
   </a>
-  <span>
-   &#9733 1, pushed 35 days ago
-  </span>
   - react-native wrapper for gravatar-api
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lucholaf/react-native-grid-view">
    react-native-grid-view ★129
   </a>
-  <span>
-   &#9733 138, pushed 5 days ago
-  </span>
   - React Native Grid/Collection View component
+  <sup>
+   439 GitHub links in total 531 links, ★ 138, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 138, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thewei/react-native-grid">
    react-native-grid ★7
   </a>
-  <span>
-   &#9733 9, pushed 209 days ago
-  </span>
   - The 24-column grid component for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 9, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 209 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AdonRain/react-native-ichart">
    react-native-ichart ★9
   </a>
-  <span>
-   &#9733 9, pushed 137 days ago
-  </span>
   - ichart for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 9, pushed 137 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 137 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/corymsmith/react-native-icons">
    react-native-icons
   </a>
-  <span>
-   &#9733 964, pushed 70 days ago
-  </span>
   ,
   <a href="https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50">
    video
   </a>
+  <sup>
+   439 GitHub links in total 531 links, ★ 964, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 964, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marcshilling/react-native-idle-timer">
    react-native-idle-timer ★12
   </a>
-  <span>
-   &#9733 14, pushed 12 days ago
-  </span>
   - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
+  <sup>
+   439 GitHub links in total 531 links, ★ 14, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-image-button">
    react-native-image-button ★3
   </a>
-  <span>
-   &#9733 3, pushed 173 days ago
-  </span>
   - A image-button for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frostney/react-native-image-container">
    react-native-image-container ★0
   </a>
-  <span>
-   &#9733 0, pushed 27 days ago
-  </span>
   - Image container for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marcshilling/react-native-image-picker">
    react-native-image-picker ★556
   </a>
-  <span>
-   &#9733 631, pushed 8 days ago
-  </span>
   - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
+  <sup>
+   439 GitHub links in total 531 links, ★ 631, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 631, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NorthFoxz/react-native-imagewand">
    react-native-imagewand ★3
   </a>
-  <span>
-   &#9733 3, pushed 83 days ago
-  </span>
   - image wand for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/exponentjs/react-native-invertible-scroll-view">
    react-native-invertible-scroll-view ★117
   </a>
-  <span>
-   &#9733 123, pushed 11 days ago
-  </span>
   - An invertible ScrollView for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 123, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/APSL/react-native-item-cell">
    react-native-item-cell ★22
   </a>
-  <span>
-   &#9733 22, pushed 92 days ago
-  </span>
   - React Native default style iOS item cell
+  <sup>
+   439 GitHub links in total 531 links, ★ 22, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Andr3wHur5t/react-native-keyboard-spacer">
    react-native-keyboard-spacer ★112
   </a>
-  <span>
-   &#9733 131, pushed 37 days ago
-  </span>
   - Plug and play react-Native keyboard spacer view.
+  <sup>
+   439 GitHub links in total 531 links, ★ 131, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 131, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johanneslumpe/react-native-keyboardevents">
    react-native-keyboardevents ★169
   </a>
-  <span>
-   &#9733 176, pushed 41 days ago
-  </span>
   - Monitors keyboard show/hide notifications
+  <sup>
+   439 GitHub links in total 531 links, ★ 176, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 176, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jerolimov/react-native-layout">
    react-native-layout ★17
   </a>
-  <span>
-   &#9733 17, pushed 50 days ago
-  </span>
   - Semantic JSX layout components for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oblador/react-native-lightbox">
    react-native-lightbox ★359
   </a>
-  <span>
-   &#9733 376, pushed 11 days ago
-  </span>
   - a very Slick and modern mobile lightbox implementation
+  <sup>
+   439 GitHub links in total 531 links, ★ 376, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 376, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/650Industries/react-native-link">
    react-native-link ★5
   </a>
-  <span>
-   &#9733 5, pushed 243 days ago
-  </span>
   - A link component, similar to
   <a from="" href="" html<="" li="">
    <li>
     <a href="https://github.com/dancormier/react-native-listitem">
      react-native-listitem ★56
     </a>
-    <span>
-     &#9733 57, pushed 81 days ago
-    </span>
     - iOS-style listitem component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 57, pushed 81 days ago
+    </sup>
+    <sup>
+     &#9733 57, pushed 81 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/EdgeJay/react-native-loader-hud">
      react-native-loader-hud ★0
     </a>
-    <span>
-     &#9733 0, pushed 104 days ago
-    </span>
     - Loader animation library for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 104 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 104 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alcat2008/react-native-loading">
      react-native-loading ★0
     </a>
-    <span>
-     &#9733 0, pushed 42 days ago
-    </span>
     - A lightweight loading for your React Native app.
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 42 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/appintheair/react-native-looped-carousel">
      react-native-looped-carousel ★265
     </a>
-    <span>
-     &#9733 273, pushed 13 days ago
-    </span>
     - Create looped carousel of views or images
+    <sup>
+     439 GitHub links in total 531 links, ★ 273, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 273, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mapbox/react-native-mapbox-gl">
      react-native-mapbox-gl ★407
     </a>
-    <span>
-     &#9733 420, pushed 4 days ago
-    </span>
     - A Mapbox GL react native module for creating custom maps
+    <sup>
+     439 GitHub links in total 531 links, ★ 420, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 420, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lelandrichardson/react-native-maps">
      react-native-maps ★707
     </a>
-    <span>
-     &#9733 779, pushed 2 days ago
-    </span>
     - React Native Map components for iOS + Android
+    <sup>
+     439 GitHub links in total 531 links, ★ 779, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 779, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/remobile/react-native-marquee-label">
      react-native-marquee-label ★14
     </a>
-    <span>
-     &#9733 14, pushed 23 days ago
-    </span>
     - A marquee label for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 14, pushed 23 days ago
+    </sup>
+    <sup>
+     &#9733 14, pushed 23 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gilbox/react-native-masked-view">
      react-native-masked-view ★20
     </a>
-    <span>
-     &#9733 21, pushed 91 days ago
-    </span>
     - A  element for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 21, pushed 91 days ago
+    </sup>
+    <sup>
+     &#9733 21, pushed 91 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/react-native-material-design/react-native-material-design">
      react-native-material-design ★549
     </a>
-    <span>
-     &#9733 613, pushed 12 days ago
-    </span>
     - React Native Material Design Components
+    <sup>
+     439 GitHub links in total 531 links, ★ 613, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 613, pushed 12 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/xinthink/react-native-material-kit">
      react-native-material-kit ★1007
     </a>
-    <span>
-     &#9733 1086, pushed 1 days ago
-    </span>
     - Bringing Material Design to React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 1086, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 1086, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tuckerconnelly/match-media-mocks">
@@ -1282,64 +1576,85 @@ with React Native.
     <a href="https://github.com/anarchicknight/react-native-message-composer">
      react-native-message-composer ★20
     </a>
-    <span>
-     &#9733 21, pushed 133 days ago
-    </span>
     - React Native module bridge to iOS MFMessageComposeViewController
+    <sup>
+     439 GitHub links in total 531 links, ★ 21, pushed 133 days ago
+    </sup>
+    <sup>
+     &#9733 21, pushed 133 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/evblurbs/react-native-md-textinput">
      react-native-md-textinput ★19
     </a>
-    <span>
-     &#9733 19, pushed 26 days ago
-    </span>
     - React Native TextInput styled with Material Design.
+    <sup>
+     439 GitHub links in total 531 links, ★ 19, pushed 26 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 26 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maxs15/react-native-modalbox">
      react-native-modalbox ★302
     </a>
-    <span>
-     &#9733 327, pushed 1 days ago
-    </span>
     - A  component for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 327, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 327, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/d-a-n/react-native-modal-picker">
      react-native-modal-picker ★15
     </a>
-    <span>
-     &#9733 19, pushed 8 days ago
-    </span>
     - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
+    <sup>
+     439 GitHub links in total 531 links, ★ 19, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/JackDanielsAndCode/react-native-multi-slider">
      react-native-multi-slider ★36
     </a>
-    <span>
-     &#9733 40, pushed 42 days ago
-    </span>
     - Pure JS slider component with multiple markers for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 40, pushed 42 days ago
+    </sup>
+    <sup>
+     &#9733 40, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/d-a-n/react-native-multiple-choice">
      react-native-multiple-choice ★13
     </a>
-    <span>
-     &#9733 13, pushed 8 days ago
-    </span>
     - A cross-platform (iOS / Android) single and multiple-choice React Native component.
+    <sup>
+     439 GitHub links in total 531 links, ★ 13, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 13, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jineshshah36/react-native-nav">
      react-native-nav ★72
     </a>
-    <span>
-     &#9733 83, pushed 9 days ago
-    </span>
     - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
+    <sup>
+     439 GitHub links in total 531 links, ★ 83, pushed 9 days ago
+    </sup>
+    <sup>
+     &#9733 83, pushed 9 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Kureev/react-native-navbar">
@@ -1351,250 +1666,337 @@ with React Native.
     <a href="https://github.com/beefe/react-native-navigation-bar">
      react-native-navigation-bar ★29
     </a>
-    <span>
-     &#9733 30, pushed 102 days ago
-    </span>
     - react-native-navigation-bar
+    <sup>
+     439 GitHub links in total 531 links, ★ 30, pushed 102 days ago
+    </sup>
+    <sup>
+     &#9733 30, pushed 102 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shayne/react-native-navigation-buttons">
      react-native-navigation-buttons ★1
     </a>
-    <span>
-     &#9733 1, pushed 267 days ago
-    </span>
     - iOS navigation buttons for the React Native Navigator
+    <sup>
+     439 GitHub links in total 531 links, ★ 1, pushed 267 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 267 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ilansas/react-native-navigation-drawer">
      react-native-navigation-drawer ★44
     </a>
-    <span>
-     &#9733 45, pushed 82 days ago
-    </span>
     - A slide menu inspired from Android for React-Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 45, pushed 82 days ago
+    </sup>
+    <sup>
+     &#9733 45, pushed 82 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/thewei/react-native-navigator">
      react-native-navigator ★49
     </a>
-    <span>
-     &#9733 50, pushed 102 days ago
-    </span>
     - A simple router for react native
+    <sup>
+     439 GitHub links in total 531 links, ★ 50, pushed 102 days ago
+    </sup>
+    <sup>
+     &#9733 50, pushed 102 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pjjanak/react-native-nested-stylesheets">
      react-native-nested-stylesheet ★37
     </a>
-    <span>
-     &#9733 37, pushed 396 days ago
-    </span>
     - Nestable stylesheets for react-native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 37, pushed 396 days ago
+    </sup>
+    <sup>
+     &#9733 37, pushed 396 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/moschan/react-native-newsticker">
      react-native-newsticker ★8
     </a>
-    <span>
-     &#9733 8, pushed 114 days ago
-    </span>
     - The News Ticker component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 8, pushed 114 days ago
+    </sup>
+    <sup>
+     &#9733 8, pushed 114 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/inProgress-team/react-native-orientation-controller">
      react-native-orientation-controller ★7
     </a>
-    <span>
-     &#9733 8, pushed 26 days ago
-    </span>
     - A react-native library for obtaining and controlling the current device and application orientation
+    <sup>
+     439 GitHub links in total 531 links, ★ 8, pushed 26 days ago
+    </sup>
+    <sup>
+     &#9733 8, pushed 26 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/walmartreact/react-native-orientation-listener">
      react-native-orientation-listener ★82
     </a>
-    <span>
-     &#9733 86, pushed 57 days ago
-    </span>
     - A react-native library for obtaining current device orientation
+    <sup>
+     439 GitHub links in total 531 links, ★ 86, pushed 57 days ago
+    </sup>
+    <sup>
+     &#9733 86, pushed 58 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yamill/react-native-orientation">
      react-native-orientation ★130
     </a>
-    <span>
-     &#9733 145, pushed 2 days ago
-    </span>
     - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
+    <sup>
+     439 GitHub links in total 531 links, ★ 145, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 145, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/silentcloud/react-native-page-control">
      react-native-page-control ★53
     </a>
-    <span>
-     &#9733 56, pushed 43 days ago
-    </span>
     - React native page control, like ios  UIPageControl
+    <sup>
+     439 GitHub links in total 531 links, ★ 56, pushed 43 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 43 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/fixt/react-native-page-swiper">
      react-native-page-swiper ★48
     </a>
-    <span>
-     &#9733 48, pushed 28 days ago
-    </span>
     - Page Swiper component for React Native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 48, pushed 28 days ago
+    </sup>
+    <sup>
+     &#9733 48, pushed 28 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/oblador/react-native-parallax">
      react-native-parallax ★147
     </a>
-    <span>
-     &#9733 157, pushed 10 days ago
-    </span>
     - Parallax effects for React Native using Animated API
+    <sup>
+     439 GitHub links in total 531 links, ★ 157, pushed 10 days ago
+    </sup>
+    <sup>
+     &#9733 157, pushed 10 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/taskrabbit/react-native-parsed-text">
      react-native-parsed-text ★107
     </a>
-    <span>
-     &#9733 113, pushed 84 days ago
-    </span>
     - Parse text and make them into multiple React Native Text elements
+    <sup>
+     439 GitHub links in total 531 links, ★ 113, pushed 84 days ago
+    </sup>
+    <sup>
+     &#9733 113, pushed 84 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cnjon/react-native-pdf-view">
      react-native-pdf-view ★14
     </a>
-    <span>
-     &#9733 20, pushed 27 days ago
-    </span>
     - view pdf file using react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 20, pushed 27 days ago
+    </sup>
+    <sup>
+     &#9733 20, pushed 27 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Spikef/react-native-phone-picker">
      react-native-phone-picker ★12
     </a>
-    <span>
-     &#9733 12, pushed 50 days ago
-    </span>
     - a quick phone picker control
+    <sup>
+     439 GitHub links in total 531 links, ★ 12, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 50 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/halilb/react-native-photo-browser">
      react-native-photo-browser ★39
     </a>
     - Local and remote photo browser with captions, selections and grid view support.
+    <sup>
+     439 GitHub links in total 531 links, ★ 43, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 43, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/christopherabouabdo/react-native-photo-grid">
      react-native-photo-grid ★0
     </a>
-    <span>
-     &#9733 0, pushed 89 days ago
-    </span>
     - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 89 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 89 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/beefe/react-native-picker-android">
      react-native-picker-android ★31
     </a>
-    <span>
-     &#9733 31, pushed 113 days ago
-    </span>
     - react-native-picker-android
+    <sup>
+     439 GitHub links in total 531 links, ★ 31, pushed 113 days ago
+    </sup>
+    <sup>
+     &#9733 31, pushed 113 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/beefe/react-native-picker">
      react-native-picker ★71
     </a>
-    <span>
-     &#9733 84, pushed 26 days ago
-    </span>
     - react-native-picker
+    <sup>
+     439 GitHub links in total 531 links, ★ 84, pushed 26 days ago
+    </sup>
+    <sup>
+     &#9733 84, pushed 26 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/frostney/react-native-piechart">
      react-native-piechart ★9
     </a>
-    <span>
-     &#9733 9, pushed 350 days ago
-    </span>
     - A  component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 9, pushed 350 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 350 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jeanregisser/react-native-popover">
      react-native-popover-haobtc ★112
     </a>
-    <span>
-     &#9733 126, pushed 7 days ago
-    </span>
     - A  component for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 126, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 126, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/beefe/react-native-popup">
      react-native-popup ★27
     </a>
-    <span>
-     &#9733 28, pushed 119 days ago
-    </span>
     - popup for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 28, pushed 119 days ago
+    </sup>
+    <sup>
+     &#9733 28, pushed 119 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/beefe/react-native-popupwindow">
      react-native-popupwindow ★5
     </a>
-    <span>
-     &#9733 6, pushed 49 days ago
-    </span>
     - Android PopupWindow for react-native module
+    <sup>
+     439 GitHub links in total 531 links, ★ 6, pushed 49 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 49 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kayla-tech/react-native-privacy-snapshot">
      react-native-privacy-snapshot ★25
     </a>
-    <span>
-     &#9733 29, pushed 209 days ago
-    </span>
     - Obscure passwords and other sensitive personal information when a react-native app transitions to the background
+    <sup>
+     439 GitHub links in total 531 links, ★ 29, pushed 209 days ago
+    </sup>
+    <sup>
+     &#9733 29, pushed 209 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lwansbrough/react-native-progress-bar">
      react-native-progress-bar ★87
     </a>
-    <span>
-     &#9733 89, pushed 36 days ago
-    </span>
     - An animated progress bar component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 89, pushed 36 days ago
+    </sup>
+    <sup>
+     &#9733 89, pushed 36 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/andy9775/React-Native-CircularProgress">
      react-native-progress-circular ★12
     </a>
-    <span>
-     &#9733 12, pushed 120 days ago
-    </span>
     - A pure React Native Component for circular progress bars for both iOS and Android.
+    <sup>
+     439 GitHub links in total 531 links, ★ 12, pushed 120 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 120 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/naoufal/react-native-progress-hud">
      react-native-progress-hud ★96
     </a>
-    <span>
-     &#9733 104, pushed 13 days ago
-    </span>
     - A clean and lightweight progress HUD for your React Native app
+    <sup>
+     439 GitHub links in total 531 links, ★ 104, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 104, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cssivision/react-native-qrcode">
      react-native-qrcode ★33
     </a>
-    <span>
-     &#9733 38, pushed 20 days ago
-    </span>
     - react-native qrcode generator
+    <sup>
+     439 GitHub links in total 531 links, ★ 38, pushed 20 days ago
+    </sup>
+    <sup>
+     &#9733 38, pushed 20 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mmslate/react-native-quiltview">
@@ -1606,28 +2008,37 @@ with React Native.
     <a href="https://github.com/omulet/react-native-radial-menu">
      react-native-radial-menu ★14
     </a>
-    <span>
-     &#9733 16, pushed 78 days ago
-    </span>
     - A Radial Menu optimized for touch interfaces
+    <sup>
+     439 GitHub links in total 531 links, ★ 16, pushed 78 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 78 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pressly/react-native-radio-button-classic">
      react-native-radio-button-classic ★23
     </a>
-    <span>
-     &#9733 24, pushed 187 days ago
-    </span>
     - Bring Classic Radio to React-Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 24, pushed 187 days ago
+    </sup>
+    <sup>
+     &#9733 24, pushed 187 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ArnaudRinquin/react-native-radio-buttons">
      react-native-radio-buttons ★66
     </a>
-    <span>
-     &#9733 71, pushed 12 days ago
-    </span>
     - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
+    <sup>
+     439 GitHub links in total 531 links, ★ 71, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 71, pushed 12 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gaoli/react-native-range-selector">
@@ -1639,181 +2050,241 @@ with React Native.
     <a href="https://github.com/jaxchow/react-native-rebound-scrollview">
      react-native-rebound-scrollview ★5
     </a>
-    <span>
-     &#9733 6, pushed 70 days ago
-    </span>
     - React Native Android ReboundScrollView implementation.
+    <sup>
+     439 GitHub links in total 531 links, ★ 6, pushed 70 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 70 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/syrusakbary/react-native-refresher">
      react-native-refresher ★222
     </a>
-    <span>
-     &#9733 232, pushed 46 days ago
-    </span>
     - A React Native pull to refresh ListView completely written in js. Also supports custom animations.
+    <sup>
+     439 GitHub links in total 531 links, ★ 232, pushed 46 days ago
+    </sup>
+    <sup>
+     &#9733 232, pushed 46 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/benzhe/react-native-relative-units">
      react-native-relative-units ★2
     </a>
-    <span>
-     &#9733 3, pushed 235 days ago
-    </span>
     - Relative units for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 3, pushed 235 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 235 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Dharmoslap/react-native-responsive-image">
      react-native-responsive-image ★69
     </a>
-    <span>
-     &#9733 70, pushed 28 days ago
-    </span>
     - Most elegant Responsive Image component
+    <sup>
+     439 GitHub links in total 531 links, ★ 70, pushed 28 days ago
+    </sup>
+    <sup>
+     &#9733 70, pushed 28 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/magicismight/react-native-root-modal">
      react-native-root-modal ★37
     </a>
-    <span>
-     &#9733 39, pushed 75 days ago
-    </span>
     - react native modal component
+    <sup>
+     439 GitHub links in total 531 links, ★ 39, pushed 75 days ago
+    </sup>
+    <sup>
+     &#9733 39, pushed 75 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Andr3wHur5t/react-native-route-navigator">
      react-native-route-navigator ★18
     </a>
-    <span>
-     &#9733 18, pushed 34 days ago
-    </span>
     - React-Native page navigation using URIs.
+    <sup>
+     439 GitHub links in total 531 links, ★ 18, pushed 34 days ago
+    </sup>
+    <sup>
+     &#9733 18, pushed 34 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/t4t5/react-native-router">
      react-native-router ★912
     </a>
-    <span>
-     &#9733 927, pushed 67 days ago
-    </span>
     - Awesome navigation for your native app.
+    <sup>
+     439 GitHub links in total 531 links, ★ 927, pushed 67 days ago
+    </sup>
+    <sup>
+     &#9733 927, pushed 67 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wix/react-native-controllers">
      react-native-controllers ★186
     </a>
-    <span>
-     &#9733 193, pushed 2 days ago
-    </span>
     - Truly native no-compromise iOS navigation for React Native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 193, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 193, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wix/react-native-navigation">
      react-native-navigation ★97
     </a>
-    <span>
-     &#9733 114, pushed 2 days ago
-    </span>
     - A simplified wrapper around react-native-controllers bringing truly native navigation for iOS with a very simple API. Includes redux support.
+    <sup>
+     439 GitHub links in total 531 links, ★ 114, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 114, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alinz/react-native-scene-manager">
      react-native-scene-manager ★1
     </a>
-    <span>
-     &#9733 1, pushed 329 days ago
-    </span>
     - Simple Scene Manager for React-Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 1, pushed 329 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 329 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/exponentjs/react-native-scrollable-decorator">
      react-native-scrollable-decorator ★16
     </a>
-    <span>
-     &#9733 17, pushed 137 days ago
-    </span>
     - A standard interface for your scrollable React Native components, making it easier to compose components
+    <sup>
+     439 GitHub links in total 531 links, ★ 17, pushed 137 days ago
+    </sup>
+    <sup>
+     &#9733 17, pushed 137 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/exponentjs/react-native-scrollable-mixin">
      react-native-scrollable-mixin ★46
     </a>
-    <span>
-     &#9733 46, pushed 246 days ago
-    </span>
     - A standard interface for your scrollable React Native components, making it easier to compose components.
+    <sup>
+     439 GitHub links in total 531 links, ★ 46, pushed 246 days ago
+    </sup>
+    <sup>
+     &#9733 46, pushed 246 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/brentvatne/react-native-scrollable-tab-view">
      react-native-scrollable-tab-view ★1062
     </a>
-    <span>
-     &#9733 1151, pushed 6 days ago
-    </span>
     - This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou
+    <sup>
+     439 GitHub links in total 531 links, ★ 1151, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 1151, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/IskenHuang/react-native-scrollview-lazyload">
      react-native-scrollview-lazyload ★30
     </a>
-    <span>
-     &#9733 33, pushed 7 days ago
-    </span>
     - react-native scrollview with image lazy load
+    <sup>
+     439 GitHub links in total 531 links, ★ 33, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 33, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/baspellis/react-native-infinite-scrollview">
      react-native-infinite-scrollview ★12
     </a>
-    <span>
-     &#9733 12, pushed 50 days ago
-    </span>
     - ScrollView with infinte paged scrolling (no looping)
+    <sup>
+     439 GitHub links in total 531 links, ★ 12, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 50 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/umhan35/react-native-search-bar">
      react-native-search-bar ★183
     </a>
-    <span>
-     &#9733 196, pushed 19 days ago
-    </span>
     - The native search bar for react native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 196, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 196, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/StevenIseki/react-native-search">
      react-native-search ★5
     </a>
-    <span>
-     &#9733 5, pushed 142 days ago
-    </span>
     - Native Search component for react native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 5, pushed 142 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 142 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/DispatcherInc/react-native-seekbar-android">
      react-native-seekbar-android ★5
     </a>
-    <span>
-     &#9733 5, pushed 178 days ago
-    </span>
     - A React Native wrapper Android's SeekBar
+    <sup>
+     439 GitHub links in total 531 links, ★ 5, pushed 178 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 178 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lelandrichardson/react-native-segmented-view">
      react-native-segmented-view ★77
     </a>
-    <span>
-     &#9733 81, pushed 45 days ago
-    </span>
     - Segmented View for React Native (with animation)
+    <sup>
+     439 GitHub links in total 531 links, ★ 81, pushed 45 days ago
+    </sup>
+    <sup>
+     &#9733 81, pushed 45 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/akiran/react-native-select-box">
      react-native-select-box ★0
     </a>
-    <span>
-     &#9733 0, pushed 191 days ago
-    </span>
     - react native select box
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 191 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 191 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vitalets/react-native-extended-selectable/">
@@ -1825,145 +2296,193 @@ with React Native.
     <a href="https://github.com/gs-akhan/react-native-select">
      react-native-selectme ★35
     </a>
-    <span>
-     &#9733 36, pushed 52 days ago
-    </span>
     - A better Select dropdown menu for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 36, pushed 52 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 52 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jerolimov/react-native-showdown">
      react-native-showdown ★5
     </a>
-    <span>
-     &#9733 5, pushed 24 days ago
-    </span>
     - React-native component which renders markdown into a webview!
+    <sup>
+     439 GitHub links in total 531 links, ★ 5, pushed 24 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 24 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/remobile/react-native-simple-button">
      react-native-simple-button ★4
     </a>
-    <span>
-     &#9733 4, pushed 147 days ago
-    </span>
     - A simple react-native button
+    <sup>
+     439 GitHub links in total 531 links, ★ 4, pushed 147 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 148 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/puredazzle/react-native-simple-picker">
      react-native-simple-picker ★3
     </a>
-    <span>
-     &#9733 3, pushed 22 days ago
-    </span>
     - A simple react-native select picker
+    <sup>
+     439 GitHub links in total 531 links, ★ 3, pushed 22 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 22 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/react-native-simple-router-community/react-native-simple-router">
      react-native-simple-router ★100
     </a>
-    <span>
-     &#9733 110, pushed 8 days ago
-    </span>
     - A community maintained router component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 110, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 110, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lucasferreira/react-native-simpledialog-android">
      react-native-simpledialog-android ★18
     </a>
-    <span>
-     &#9733 20, pushed 4 days ago
-    </span>
     - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
+    <sup>
+     439 GitHub links in total 531 links, ★ 20, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 20, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pwbrown/react-native-slidable-tab-bar">
      react-native-slidable-tab-bar ★16
     </a>
-    <span>
-     &#9733 17, pushed 253 days ago
-    </span>
     - Slidable tab bar for instant view rendering(react-native)
+    <sup>
+     439 GitHub links in total 531 links, ★ 17, pushed 253 days ago
+    </sup>
+    <sup>
+     &#9733 17, pushed 253 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jeanregisser/react-native-slider">
      react-native-slider ★143
     </a>
-    <span>
-     &#9733 154, pushed 6 days ago
-    </span>
     - A pure JavaScript  component for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 154, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 154, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maxs15/react-native-spinkit">
      react-native-spinkit ★194
     </a>
-    <span>
-     &#9733 213, pushed 1 days ago
-    </span>
     - A collection of animated loading indicators for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 213, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 213, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/remobile/react-native-splashscreen">
      react-native-splashscreen ★69
     </a>
-    <span>
-     &#9733 80, pushed 68 days ago
-    </span>
     - A splashscreen for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 80, pushed 68 days ago
+    </sup>
+    <sup>
+     &#9733 80, pushed 68 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Shuangzuan/react-native-square-view">
      react-native-square-view ★15
     </a>
-    <span>
-     &#9733 15, pushed 331 days ago
-    </span>
     - A square view component for react native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 15, pushed 331 days ago
+    </sup>
+    <sup>
+     &#9733 15, pushed 331 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/djchie/react-native-star-rating">
      react-native-star-rating ★27
     </a>
-    <span>
-     &#9733 30, pushed 40 days ago
-    </span>
     - A React Native component for generating and displaying interactive star ratings
+    <sup>
+     439 GitHub links in total 531 links, ★ 30, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 30, pushed 40 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/bluesky0109/react-native-starRating">
      react-native-starrating ★12
     </a>
-    <span>
-     &#9733 12, pushed 95 days ago
-    </span>
     - a react-native component for display interactive star ratings
+    <sup>
+     439 GitHub links in total 531 links, ★ 12, pushed 95 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 95 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rh389/react-native-store-view">
      react-native-store-view ★0
     </a>
-    <span>
-     &#9733 0, pushed 69 days ago
-    </span>
     - Wraps SKStoreProductViewController for use in react-native projects
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 69 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 69 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ninozhang/react-native-style-sheet">
      react-native-style-sheet ★0
     </a>
-    <span>
-     &#9733 0, pushed 24 days ago
-    </span>
     - React Native StyleSheet
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 24 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 24 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/xgfe/react-native-stylesheet-xg">
      react-native-stylesheet-xg ★1
     </a>
-    <span>
-     &#9733 1, pushed 1 days ago
-    </span>
     - extension stylesheet for cross platforms and responsive
+    <sup>
+     439 GitHub links in total 531 links, ★ 1, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/brentvatne/react-native-svg">
@@ -1975,28 +2494,37 @@ with React Native.
     <a href="https://github.com/dancormier/react-native-swipeout">
      react-native-swipeout ★397
     </a>
-    <span>
-     &#9733 429, pushed 4 days ago
-    </span>
     - iOS-style swipeout buttons behind component
+    <sup>
+     439 GitHub links in total 531 links, ★ 429, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 429, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sunnylqm/react-native-swiper2">
      react-native-swiper2 ★25
     </a>
-    <span>
-     &#9733 36, pushed 8 days ago
-    </span>
     - Swiper component for React Native. Supersede react-native-swiper
+    <sup>
+     439 GitHub links in total 531 links, ★ 36, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/leecade/react-native-swiper">
      react-native-swiper ★1208
     </a>
-    <span>
-     &#9733 1284, pushed 0 days ago
-    </span>
     - The best Swiper component for React Native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 1284, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 1284, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vczero/react-native-tab">
@@ -2008,228 +2536,309 @@ with React Native.
     <a href="https://github.com/alinz/react-native-tabbar">
      react-native-tabbar ★108
     </a>
-    <span>
-     &#9733 120, pushed 5 days ago
-    </span>
     - Tab bar with more freedom
+    <sup>
+     439 GitHub links in total 531 links, ★ 120, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 120, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Purii/react-native-tableview-simple">
      react-native-tableview-simple ★52
     </a>
-    <span>
-     &#9733 56, pushed 37 days ago
-    </span>
     - React Native component for TableView made with pure CSS
+    <sup>
+     439 GitHub links in total 531 links, ★ 56, pushed 37 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 37 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/aksonov/react-native-tableview">
      react-native-tableview ★324
     </a>
-    <span>
-     &#9733 339, pushed 7 days ago
-    </span>
     - Native iOS TableView wrapper for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 339, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 339, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/aksonov/react-native-tabs">
      react-native-tabs ★140
     </a>
-    <span>
-     &#9733 159, pushed 11 days ago
-    </span>
     - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
+    <sup>
+     439 GitHub links in total 531 links, ★ 159, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 159, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/DickyT/react-native-textinput-utils">
      react-native-textinput-utils ★17
     </a>
-    <span>
-     &#9733 19, pushed 17 days ago
-    </span>
     - A react native extension which allows you to control TextInput better.
+    <sup>
+     439 GitHub links in total 531 links, ★ 19, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/TylerLH/react-native-timeago">
      react-native-timeago ★69
     </a>
-    <span>
-     &#9733 74, pushed 2 days ago
-    </span>
     - Auto-updating timeago component for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 74, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 74, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/reactjs/react-timer-mixin">
      react-native-timer-mixin ★74
     </a>
-    <span>
-     &#9733 78, pushed 19 days ago
-    </span>
     - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
+    <sup>
+     439 GitHub links in total 531 links, ★ 78, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 78, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/meteor-factory/react-native-tinder-swipe-cards">
      react-native-tinder-swipe-cards ★76
     </a>
-    <span>
-     &#9733 94, pushed 11 days ago
-    </span>
     - Tinder card style swiping.
+    <sup>
+     439 GitHub links in total 531 links, ★ 94, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 94, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/remobile/react-native-toast">
      react-native-toast ★62
     </a>
-    <span>
-     &#9733 68, pushed 139 days ago
-    </span>
     - A android like toast for react-native support for ios and android
+    <sup>
+     439 GitHub links in total 531 links, ★ 68, pushed 140 days ago
+    </sup>
+    <sup>
+     &#9733 68, pushed 140 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/marty-wang/react-native-toolkit">
      react-native-toolkit ★24
     </a>
-    <span>
-     &#9733 25, pushed 266 days ago
-    </span>
     - A collection of common UI components for react native mobile apps.
+    <sup>
+     439 GitHub links in total 531 links, ★ 25, pushed 266 days ago
+    </sup>
+    <sup>
+     &#9733 25, pushed 266 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/chirag04/react-native-tooltip">
      react-native-tooltip ★69
     </a>
-    <span>
-     &#9733 72, pushed 19 days ago
-    </span>
     - A react-native wrapper for showing tooltips
+    <sup>
+     439 GitHub links in total 531 links, ★ 72, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 72, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/grabbou/react-native-touchable-bounce">
      react-native-touchable-bounce ★2
     </a>
-    <span>
-     &#9733 4, pushed 44 days ago
-    </span>
     - React Native Touchable Bounce
+    <sup>
+     439 GitHub links in total 531 links, ★ 4, pushed 44 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 44 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jmstout/react-native-TouchableSetActive">
      react-native-touchable-set-active ★20
     </a>
-    <span>
-     &#9733 22, pushed 346 days ago
-    </span>
     - Touchable component for React Native that enables more advanced styling by setting an active state. Most useful for building your own touchable/button components on top of.
+    <sup>
+     439 GitHub links in total 531 links, ★ 22, pushed 346 days ago
+    </sup>
+    <sup>
+     &#9733 22, pushed 346 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/23c/react-native-transparent-bar">
      react-native-transparent-bar ★9
     </a>
-    <span>
-     &#9733 9, pushed 271 days ago
-    </span>
     - react native navigator transparent bar
+    <sup>
+     439 GitHub links in total 531 links, ★ 9, pushed 271 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 271 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Jpoliachik/react-native-triangle">
      react-native-triangle ★9
     </a>
-    <span>
-     &#9733 9, pushed 185 days ago
-    </span>
     - draw triangle views in react native
+    <sup>
+     439 GitHub links in total 531 links, ★ 9, pushed 185 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 185 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kirkness/react-native-tween-animation">
      react-native-tween-animation ★27
     </a>
-    <span>
-     &#9733 28, pushed 364 days ago
-    </span>
     - A simple react native state tween animation module.
+    <sup>
+     439 GitHub links in total 531 links, ★ 28, pushed 364 days ago
+    </sup>
+    <sup>
+     &#9733 28, pushed 364 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/oblador/react-native-vector-icons">
      react-native-vector-icons ★1200
     </a>
-    <span>
-     &#9733 1310, pushed 8 days ago
-    </span>
     - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
+    <sup>
+     439 GitHub links in total 531 links, ★ 1310, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 1310, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/race604/react-native-viewpager">
      react-native-viewpager ★373
     </a>
-    <span>
-     &#9733 397, pushed 20 days ago
-    </span>
     - ViewPager componnent for React Native
+    <sup>
+     439 GitHub links in total 531 links, ★ 397, pushed 20 days ago
+    </sup>
+    <sup>
+     &#9733 397, pushed 20 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jmstout/react-native-viewport-units">
      react-native-viewport-units ★41
     </a>
-    <span>
-     &#9733 41, pushed 167 days ago
-    </span>
     - Incredibly simple utility for (sort of) using viewport units with React Native.
+    <sup>
+     439 GitHub links in total 531 links, ★ 41, pushed 167 days ago
+    </sup>
+    <sup>
+     &#9733 41, pushed 167 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pjjanak/react-native-viewport">
      react-native-viewport ★40
     </a>
-    <span>
-     &#9733 40, pushed 237 days ago
-    </span>
     - Viewport dimensions for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 40, pushed 237 days ago
+    </sup>
+    <sup>
+     &#9733 40, pushed 237 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/d-a-n/react-native-webbrowser">
      react-native-webbrowser ★26
     </a>
-    <span>
-     &#9733 29, pushed 2 days ago
-    </span>
     - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
+    <sup>
+     439 GitHub links in total 531 links, ★ 29, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 29, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lesliesam/react-native-wheel-picker">
      react-native-wheel-picker ★3
     </a>
-    <span>
-     &#9733 3, pushed 25 days ago
-    </span>
     - React native cross platform picker.
+    <sup>
+     439 GitHub links in total 531 links, ★ 3, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 25 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shexiaoheng/react-native-wheel">
      react-native-wheel ★9
     </a>
-    <span>
-     &#9733 10, pushed 133 days ago
-    </span>
     - android wheel view for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 10, pushed 133 days ago
+    </sup>
+    <sup>
+     &#9733 10, pushed 133 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yiyangest/react-native-yynavigator">
      react-native-yynavigator ★0
     </a>
-    <span>
-     &#9733 0, pushed 33 days ago
-    </span>
     - custom navigation bar for react-native
+    <sup>
+     439 GitHub links in total 531 links, ★ 0, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/KBLNY/react-native-message-bar">
      react-native-message-bar ★32
     </a>
-    <span>
-     &#9733 43, pushed 7 days ago
-    </span>
     - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
+    <sup>
+     439 GitHub links in total 531 links, ★ 43, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 43, pushed 7 days ago
+    </sup>
    </li>
   </a>
+  <sup>
+   439 GitHub links in total 531 links, ★ 5, pushed 243 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 243 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2240,46 +2849,61 @@ with React Native.
   <a href="https://github.com/lwansbrough/react-native-markdown">
    markdown-react-native ★100
   </a>
-  <span>
-   &#9733 108, pushed 304 days ago
-  </span>
   - A Markdown Component For React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 108, pushed 304 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 304 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/turley/react-native-asciimage">
    react-native-asciimage ★15
   </a>
-  <span>
-   &#9733 15, pushed 272 days ago
-  </span>
   - An ASCIImage component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/soliury/react-native-html-render">
    react-native-html-render ★23
   </a>
-  <span>
-   &#9733 29, pushed 131 days ago
-  </span>
   - A html render for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 29, pushed 131 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 131 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/christopherdro/react-native-html-to-pdf">
    react-native-html-to-pdf ★25
   </a>
-  <span>
-   &#9733 26, pushed 48 days ago
-  </span>
   - Convert html strings to PDF documents using React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 26, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/almost/react-native-html-webview">
    react-native-html-webview ★69
   </a>
-  <span>
-   &#9733 70, pushed 34 days ago
-  </span>
   - Display (possibly untrusted) HTML using a UIWebView in React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 70, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 70, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/turingou/react-native-html">
@@ -2291,28 +2915,37 @@ with React Native.
   <a href="https://github.com/siuying/react-native-htmltext">
    react-native-htmltext ★55
   </a>
-  <span>
-   &#9733 59, pushed 348 days ago
-  </span>
   - Use HTML like markup to create stylized text in react-native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 59, pushed 348 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 348 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/agentcooper/react-native-hypertext">
    react-native-hypertext ★15
   </a>
-  <span>
-   &#9733 16, pushed 72 days ago
-  </span>
   - React Native module to render hypertext (text with links)
+  <sup>
+   439 GitHub links in total 531 links, ★ 16, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bokuweb/react-native-universal-modal">
    react-native-universal-modal ★6
   </a>
-  <span>
-   &#9733 6, pushed 100 days ago
-  </span>
   - Universal simple modal component for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 100 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 100 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/obipawan/hyperlink">
@@ -2320,7 +2953,8 @@ with React Native.
   </a>
   - A
   <code>
-   <Hyperlink />
+   <hyperlink>
+   </hyperlink>
   </code>
   component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
  </li>
@@ -2333,37 +2967,49 @@ with React Native.
   <a href="https://github.com/lwansbrough/react-native-ab">
    react-native-ab ★66
   </a>
-  <span>
-   &#9733 69, pushed 284 days ago
-  </span>
   - A component for rendering A/B tests in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 69, pushed 284 days ago
+  </sup>
+  <sup>
+   &#9733 69, pushed 285 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwansbrough/react-native-google-analytics">
    react-native-google-analytics ★121
   </a>
-  <span>
-   &#9733 128, pushed 10 days ago
-  </span>
   - Google Analytics for React Native!
+  <sup>
+   439 GitHub links in total 531 links, ★ 128, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 128, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davodesign84/react-native-mixpanel">
    react-native-mixpanel ★45
   </a>
-  <span>
-   &#9733 46, pushed 6 days ago
-  </span>
   - A React Native wrapper for Mixpanel tracking
+  <sup>
+   439 GitHub links in total 531 links, ★ 46, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/smore-inc/react-native-segment-io-analytics">
    react-native-segment-io-analytics ★16
   </a>
-  <span>
-   &#9733 17, pushed 5 days ago
-  </span>
   - A React Native Segment wrapper!
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2374,226 +3020,301 @@ with React Native.
   <a href="https://github.com/Copypeng/react-native-HsvToRgb">
    react-native-HsvToRgb ★1
   </a>
-  <span>
-   &#9733 1, pushed 173 days ago
-  </span>
   - a helper to convert HSV(HSB) color to RGB.
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 173 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 173 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mvayngrib/react-native-aes">
    react-native-aes ★7
   </a>
-  <span>
-   &#9733 8, pushed 138 days ago
-  </span>
   - AES in react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/leimd/react-native-aws-signature">
    react-native-aws-signature ★24
   </a>
-  <span>
-   &#9733 25, pushed 73 days ago
-  </span>
   - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
+  <sup>
+   439 GitHub links in total 531 links, ★ 25, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bh5-pods/react-native-bhutils">
    react-native-bhutils ★0
   </a>
-  <span>
-   &#9733 0, pushed 189 days ago
-  </span>
   - React native utils
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mvayngrib/react-native-crypto">
    react-native-crypto ★5
   </a>
-  <span>
-   &#9733 7, pushed 4 days ago
-  </span>
   - implementation of crypto for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-des">
    react-native-des ★4
   </a>
-  <span>
-   &#9733 6, pushed 35 days ago
-  </span>
   - A des crypto for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/olofd/react-native-device-log">
    react-native-device-log ★6
   </a>
-  <span>
-   &#9733 6, pushed 62 days ago
-  </span>
   - A UI and service for displaying dev-logs on devices.
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/artemyarulin/react-native-eval">
    react-native-eval ★22
   </a>
-  <span>
-   &#9733 24, pushed 42 days ago
-  </span>
   - Call any JS functions from your native code
+  <sup>
+   439 GitHub links in total 531 links, ★ 24, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jgable/react-native-fluxbone">
    react-native-fluxbone ★4
   </a>
-  <span>
-   &#9733 4, pushed 382 days ago
-  </span>
   - A group of libraries that help with the FluxBone pattern in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 382 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 382 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paramaggarwal/react-native-global-event-emitter">
    react-native-global-event-emitter ★25
   </a>
-  <span>
-   &#9733 25, pushed 99 days ago
-  </span>
   - Shared event emitter between native and JS for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 25, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshswan/react-native-globalize">
    react-native-globalize ★20
   </a>
-  <span>
-   &#9733 21, pushed 54 days ago
-  </span>
   - Globalization helper for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 21, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thewei/react-native-immutable">
    react-native-immutable ★9
   </a>
-  <span>
-   &#9733 9, pushed 102 days ago
-  </span>
   - using immutable.js library with react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 9, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 102 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/taggon/react-native-intl">
    react-native-intl ★11
   </a>
-  <span>
-   &#9733 11, pushed 120 days ago
-  </span>
   - React Native module shipped native Intl implementation and Translation extension
+  <sup>
+   439 GitHub links in total 531 links, ★ 11, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lelandrichardson/react-native-mock">
    react-native-mock ★87
   </a>
-  <span>
-   &#9733 97, pushed 4 days ago
-  </span>
   - A fully mocked and test-friendly version of react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 97, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 97, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/z-hao-wang/react-native-rsa">
    react-native-rsa ★3
   </a>
-  <span>
-   &#9733 4, pushed 18 days ago
-  </span>
   - RSA crypto lib for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kkennis/react-native-tools">
    react-native-tools ★0
   </a>
-  <span>
-   &#9733 0, pushed 89 days ago
-  </span>
   - Tools for react native project development
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/exponentjs/react-native-url-handler">
    react-native-url-handler ★19
   </a>
-  <span>
-   &#9733 21, pushed 21 days ago
-  </span>
   - Navigate to external URLs, handle in-app URLs, and access system URLs
+  <sup>
+   439 GitHub links in total 531 links, ★ 21, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wwayne/react-native-user-defaults">
    react-native-user-defaults ★15
   </a>
-  <span>
-   &#9733 14, pushed 11 days ago
-  </span>
   - ios UserDefaults used by react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 14, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dsibiski/react-native-userdefaults-ios">
    react-native-userdefaults-ios ★38
   </a>
-  <span>
-   &#9733 38, pushed 268 days ago
-  </span>
   - React Native Module for NSUserDefaults
+  <sup>
+   439 GitHub links in total 531 links, ★ 38, pushed 268 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 268 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/exponentjs/react-native-util">
    react-native-util ★1
   </a>
-  <span>
-   &#9733 1, pushed 246 days ago
-  </span>
   - A fork of io.js's util module that works with React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 246 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dbasedow/react-native-webp">
    react-native-webp ★3
   </a>
-  <span>
-   &#9733 5, pushed 6 days ago
-  </span>
   - react-native-webp adds support for WebP images for react-native components.
+  <sup>
+   439 GitHub links in total 531 links, ★ 5, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/changfuguo/react-native-webpackager-server">
    react-native-webpackager-server ★2
   </a>
-  <span>
-   &#9733 2, pushed 92 days ago
-  </span>
   - react native webpackager server
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/plrthink/react-native-zip-archive">
    react-native-zip-archive ★13
   </a>
-  <span>
-   &#9733 15, pushed 4 days ago
-  </span>
   - Zip / Unzip archive utility
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/g6ling/react-native-html-parser">
    react-native-html-parser ★0
   </a>
-  <span>
-   &#9733 1, pushed 10 days ago
-  </span>
   - parse html in react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jondot/react-native-slowlog">
    react-native-slowlog
   </a>
-  <span>
-   &#9733 2, pushed 2 days ago
-  </span>
   - A high-performance timer based profiler for React Native that helps you track big performance problems
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2616,10 +3337,13 @@ with React Native.
   <a href="https://github.com/Microsoft/react-native-code-push">
    react-native-code-push ★916
   </a>
-  <span>
-   &#9733 976, pushed 0 days ago
-  </span>
   - React Native plugin for the CodePush service
+  <sup>
+   439 GitHub links in total 531 links, ★ 976, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 976, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sospartan/react-native-console-panel">
@@ -2631,46 +3355,61 @@ with React Native.
   <a href="https://github.com/jerolimov/react-native-cosmos">
    react-native-cosmos ★13
   </a>
-  <span>
-   &#9733 13, pushed 50 days ago
-  </span>
   - DX tool to test react-native components with defined props/state fixtures.
+  <sup>
+   439 GitHub links in total 531 links, ★ 13, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thewei/react-native-css-loader">
    react-native-css-loader ★7
   </a>
-  <span>
-   &#9733 8, pushed 99 days ago
-  </span>
   - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brentvatne/react-native-debug-stylesheet">
    react-native-debug-stylesheet ★40
   </a>
-  <span>
-   &#9733 41, pushed 28 days ago
-  </span>
   - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
+  <sup>
+   439 GitHub links in total 531 links, ★ 41, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mjohnston/react-native-webpack-server">
    react-native-webpack-server ★722
   </a>
-  <span>
-   &#9733 732, pushed 6 days ago
-  </span>
   - Build React Native apps with Webpack
+  <sup>
+   439 GitHub links in total 531 links, ★ 732, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 732, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skellock/reactotron">
    reactotron ★51
   </a>
-  <span>
-   &#9733 1354, pushed 2 days ago
-  </span>
   - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
+  <sup>
+   439 GitHub links in total 531 links, ★ 1354, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1354, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2681,28 +3420,37 @@ with React Native.
   <a href="https://github.com/adamterlson/cairn">
    cairn ★47
   </a>
-  <span>
-   &#9733 47, pushed 3 days ago
-  </span>
   - Simple, string-based style selector engine with support for basic inheritance.
+  <sup>
+   439 GitHub links in total 531 links, ★ 47, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sabeurthabti/react-native-css">
    react-native-css ★267
   </a>
-  <span>
-   &#9733 283, pushed 13 days ago
-  </span>
   - Style React-Native components with css and built in support for SASS.
+  <sup>
+   439 GitHub links in total 531 links, ★ 283, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 283, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vitalets/react-native-extended-stylesheet">
    react-native-extended-stylesheet ★57
   </a>
-  <span>
-   &#9733 74, pushed 8 days ago
-  </span>
   - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
+  <sup>
+   439 GitHub links in total 531 links, ★ 74, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2713,118 +3461,157 @@ with React Native.
   <a href="https://github.com/rt2zz/react-native-addressbook">
    react-native-addressbook ★54
   </a>
-  <span>
-   &#9733 56, pushed 32 days ago
-  </span>
   - AddressBook module for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 56, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/garysye/react-native-android-geolocation">
    react-native-android-geolocation ★10
   </a>
-  <span>
-   &#9733 9, pushed 162 days ago
-  </span>
   - React Native Module to use Android Geolocation via Google Play API
+  <sup>
+   439 GitHub links in total 531 links, ★ 9, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CentaurWarchief/react-native-android-sms-listener">
    react-native-android-sms-listener ★26
   </a>
-  <span>
-   &#9733 26, pushed 74 days ago
-  </span>
   - Allows you to listen for incoming SMS messages
+  <sup>
+   439 GitHub links in total 531 links, ★ 26, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/msmakhlouf/react-native-android-sms">
    react-native-android-sms ★15
   </a>
-  <span>
-   &#9733 17, pushed 38 days ago
-  </span>
   - A react native android module to list/send sms.
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mihirsoni/react-native-android-speech">
    react-native-android-speech ★14
   </a>
-  <span>
-   &#9733 14, pushed 177 days ago
-  </span>
   - A text-to-speech library for Android React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 14, pushed 177 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 177 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbrodriguez/react-native-android-sqlite">
    react-native-android-sqlite ★23
   </a>
-  <span>
-   &#9733 22, pushed 158 days ago
-  </span>
   - A react native android wrapper for SQLite
+  <sup>
+   439 GitHub links in total 531 links, ★ 22, pushed 158 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 158 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Iragne/react-native-app-info">
    react-native-app-info ★14
   </a>
-  <span>
-   &#9733 15, pushed 189 days ago
-  </span>
   - React Native app info and version
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lifuzu/ReactNativeBarcodeScanner">
    react-native-barcode-scanner ★33
   </a>
-  <span>
-   &#9733 35, pushed 168 days ago
-  </span>
   - Barcode scanner for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 35, pushed 168 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 168 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ideacreation/react-native-barcodescanner">
    react-native-barcodescanner ★64
   </a>
-  <span>
-   &#9733 75, pushed 60 days ago
-  </span>
   - A barcode scanner component for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 75, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-battery-status">
    react-native-battery-status ★1
   </a>
-  <span>
-   &#9733 1, pushed 173 days ago
-  </span>
   - A battery-status for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oojr/react-native-battery">
    react-native-battery ★3
   </a>
-  <span>
-   &#9733 4, pushed 230 days ago
-  </span>
   - A React Native module that returns the battery level/status of a device
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 230 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 230 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jacobrosenthal/react-native-ble">
    react-native-ble ★33
   </a>
-  <span>
-   &#9733 37, pushed 2 days ago
-  </span>
   - React Native BLE using noble api surface
+  <sup>
+   439 GitHub links in total 531 links, ★ 37, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frostney/react-native-bluetooth-state">
    react-native-bluetooth-state ★14
   </a>
-  <span>
-   &#9733 15, pushed 288 days ago
-  </span>
   - Answering the question of "Is my bluetooth on?" in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 288 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 288 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wmcmahan/React-Native-CalendarReminders">
@@ -2836,46 +3623,61 @@ with React Native.
   <a href="https://github.com/anarchicknight/react-native-carrier-info">
    react-native-carrier-info ★5
   </a>
-  <span>
-   &#9733 5, pushed 268 days ago
-  </span>
   - React Native module bridge to obtain information about the user’s home cellular service provider.
+  <sup>
+   439 GitHub links in total 531 links, ★ 5, pushed 268 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 268 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/silentcloud/react-native-clipboard">
    react-native-clipboard ★40
   </a>
-  <span>
-   &#9733 41, pushed 57 days ago
-  </span>
   - React Native component for getting or setting clipboard content
+  <sup>
+   439 GitHub links in total 531 links, ★ 41, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anarchicknight/react-native-communications">
    react-native-communications ★91
   </a>
-  <span>
-   &#9733 101, pushed 53 days ago
-  </span>
   - Easily call, email, text or iMessage someone in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 101, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 101, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JeanLebrument/react-native-contacts-rx">
    react-native-contacts-rx ★4
   </a>
-  <span>
-   &#9733 4, pushed 189 days ago
-  </span>
   - react-native-contacts counterpart that include the support of RxJS.
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rt2zz/react-native-contacts">
    react-native-contacts ★95
   </a>
-  <span>
-   &#9733 110, pushed 7 days ago
-  </span>
   - React Native Contacts (android & ios)
+  <sup>
+   439 GitHub links in total 531 links, ★ 110, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peachmeco/react-native-detect-device">
@@ -2887,46 +3689,61 @@ with React Native.
   <a href="https://github.com/robinpowered/react-native-device-battery">
    react-native-device-battery ★7
   </a>
-  <span>
-   &#9733 7, pushed 109 days ago
-  </span>
   - Observe battery state changes in your react native application
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mchinyakov/react-native-device-info">
    react-native-device-info-pod ★0
   </a>
-  <span>
-   &#9733 0, pushed 209 days ago
-  </span>
   - Get device information using react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 209 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rebeccahughes/react-native-device-info">
    react-native-device-info ★204
   </a>
-  <span>
-   &#9733 223, pushed 4 days ago
-  </span>
   - Get device information using react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 223, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paramaggarwal/react-native-device-motion">
    react-native-device-motion ★17
   </a>
-  <span>
-   &#9733 17, pushed 250 days ago
-  </span>
   - iOS device motion wrapper for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 250 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 250 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GertjanReynaert/react-native-device">
    react-native-device ★116
   </a>
-  <span>
-   &#9733 118, pushed 29 days ago
-  </span>
   - UIDevice wrapper for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 118, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 118, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshblour/react-native-discovery">
@@ -2938,19 +3755,25 @@ with React Native.
   <a href="https://github.com/johanneslumpe/react-native-fs">
    react-native-fs ★267
   </a>
-  <span>
-   &#9733 299, pushed 4 days ago
-  </span>
   - Native filesystem access for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 299, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 299, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oney/react-native-gcm-android">
    react-native-gcm-android ★96
   </a>
-  <span>
-   &#9733 101, pushed 32 days ago
-  </span>
   - GCM for Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 101, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 101, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bh5-pods/react-native-gcm">
@@ -2962,28 +3785,37 @@ with React Native.
   <a href="https://github.com/devfd/react-native-geocoder">
    react-native-geocoder ★57
   </a>
-  <span>
-   &#9733 60, pushed 53 days ago
-  </span>
   - react native geocoding and reverse geocoding
+  <sup>
+   439 GitHub links in total 531 links, ★ 60, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lxsameer/react-native-geolocation-android">
    react-native-geolocation-android ★3
   </a>
-  <span>
-   &#9733 2, pushed 132 days ago
-  </span>
   - Geolocation module for react native android
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-geolocation">
    react-native-geolocation ★1
   </a>
-  <span>
-   &#9733 1, pushed 173 days ago
-  </span>
   - A geolocation for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshblour/react-native-heading">
@@ -3001,55 +3833,73 @@ with React Native.
   <a href="https://github.com/chirag04/react-native-icloud-sync">
    react-native-icloud-sync ★12
   </a>
-  <span>
-   &#9733 12, pushed 222 days ago
-  </span>
   - A react-native wrapper for syncing with icloud
+  <sup>
+   439 GitHub links in total 531 links, ★ 12, pushed 222 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 222 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chirag04/react-native-in-app-utils">
    react-native-in-app-utils ★97
   </a>
-  <span>
-   &#9733 101, pushed 7 days ago
-  </span>
   - A react-native wrapper for handling in-app payments.
+  <sup>
+   439 GitHub links in total 531 links, ★ 101, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 101, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oblador/react-native-keychain">
    react-native-keychain ★76
   </a>
-  <span>
-   &#9733 79, pushed 40 days ago
-  </span>
   - Keychain Access for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 79, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 79, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wmcmahan/React-Native-LocalSearch">
    react-native-localsearch ★6
   </a>
-  <span>
-   &#9733 6, pushed 162 days ago
-  </span>
   - React Native Module for MapKit Local Search
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timfpark/react-native-location">
    react-native-location ★91
   </a>
-  <span>
-   &#9733 99, pushed 153 days ago
-  </span>
   - Native GPS location support for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 99, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 153 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/auth0/react-native-lock-android">
    react-native-lock-android ★7
   </a>
-  <span>
-   &#9733 7, pushed 28 days ago
-  </span>
   - Auth0 Lock for React Native (Android)
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/auth0/react-native-lock-ios">
@@ -3061,19 +3911,25 @@ with React Native.
   <a href="https://github.com/pwmckenna/react-native-motion-manager">
    react-native-motion-manager ★82
   </a>
-  <span>
-   &#9733 86, pushed 5 days ago
-  </span>
   - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
+  <sup>
+   439 GitHub links in total 531 links, ★ 86, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 86, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/naoufal/react-native-passcode-auth">
    react-native-passcode-auth ★14
   </a>
-  <span>
-   &#9733 15, pushed 19 days ago
-  </span>
   - React Native authentication with iOS Passcode.
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshblour/react-native-permissions">
@@ -3085,73 +3941,97 @@ with React Native.
   <a href="https://github.com/zo0r/react-native-push-notification">
    react-native-push-notification ★139
   </a>
-  <span>
-   &#9733 183, pushed 2 days ago
-  </span>
   - React Native Local and Remote Notifications
+  <sup>
+   439 GitHub links in total 531 links, ★ 183, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 183, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aaronksaunders/react-native-reverse-geo">
    react-native-reverse-geo ★9
   </a>
-  <span>
-   &#9733 10, pushed 352 days ago
-  </span>
   - React Native module bridge to convert address to geo coordinates.
+  <sup>
+   439 GitHub links in total 531 links, ★ 10, pushed 352 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 352 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kprimice/react-native-sensor-manager">
    react-native-sensor-manager ★14
   </a>
-  <span>
-   &#9733 17, pushed 36 days ago
-  </span>
   - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rhaker/react-native-sms-android">
    react-native-sms-android ★0
   </a>
-  <span>
-   &#9733 3, pushed 146 days ago
-  </span>
   - A react-native module for sending a sms message to a phone number.
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 146 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 146 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/doefler/react-native-social-share">
    react-native-social-share ★126
   </a>
-  <span>
-   &#9733 130, pushed 71 days ago
-  </span>
   - Use the iOS native Twitter and Facebook share view from react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 130, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 130, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Neson/react-native-system-notification">
    react-native-system-notification ★95
   </a>
-  <span>
-   &#9733 103, pushed 8 days ago
-  </span>
   - Notification for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 103, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/naoufal/react-native-touch-id">
    react-native-touch-id ★144
   </a>
-  <span>
-   &#9733 153, pushed 110 days ago
-  </span>
   - React Native authentication with the native Touch ID popup.
+  <sup>
+   439 GitHub links in total 531 links, ★ 153, pushed 110 days ago
+  </sup>
+  <sup>
+   &#9733 153, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skierkowski/react-native-wifi-manager">
    react-native-wifi-manager ★4
   </a>
-  <span>
-   &#9733 4, pushed 105 days ago
-  </span>
   - Wifi Connection Manager for React Native on Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 105 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3162,154 +4042,205 @@ with React Native.
   <a href="https://github.com/Intellicode/react-native-bridgeable-webview">
    react-native-bridgeable-webview ★8
   </a>
-  <span>
-   &#9733 8, pushed 312 days ago
-  </span>
   - A react-native webview with bridge to react-native code
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 312 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 312 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johanneslumpe/react-native-browser-polyfill">
    react-native-browser-polyfill ★14
   </a>
-  <span>
-   &#9733 15, pushed 339 days ago
-  </span>
   - A collection of polyfills for the react-native Javascript environment.
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 339 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 339 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PrestoDoctor/react-native-browser">
    react-native-browser ★32
   </a>
-  <span>
-   &#9733 34, pushed 222 days ago
-  </span>
   - Full-featured web browser module for React Native apps, based on TOWebViewController
+  <sup>
+   439 GitHub links in total 531 links, ★ 34, pushed 222 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 222 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KodersLab/react-native-for-web">
    react-native-for-web ★163
   </a>
-  <span>
-   &#9733 167, pushed 88 days ago
-  </span>
   - A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously)
+  <sup>
+   439 GitHub links in total 531 links, ★ 167, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 167, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dingui/react-native-h5">
    react-native-h5 ★0
   </a>
-  <span>
-   &#9733 0, pushed 168 days ago
-  </span>
   - react native web
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 168 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 168 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/labithiotis/react-native-html-render">
    react-native-html2native ★0
   </a>
-  <span>
-   &#9733 0, pushed 79 days ago
-  </span>
   - A html render for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DickyT/react-native-inapp-browser">
    react-native-inapp-browser ★6
   </a>
-  <span>
-   &#9733 6, pushed 169 days ago
-  </span>
   - A in-app browser for react native apps.
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/naoufal/react-native-safari-view">
    react-native-safari-view ★88
   </a>
-  <span>
-   &#9733 90, pushed 20 days ago
-  </span>
   - A React Native wrapper for Safari View Controller
+  <sup>
+   439 GitHub links in total 531 links, ★ 90, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danrigsby/react-native-web-container">
    react-native-web-container ★5
   </a>
-  <span>
-   &#9733 6, pushed 87 days ago
-  </span>
   - A wrapper around the react native WebView to add autoHeight, scrub html, etc
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 87 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattiamanzati/react-native-web-polyfill">
    react-native-web-polyfill ★22
   </a>
-  <span>
-   &#9733 22, pushed 241 days ago
-  </span>
   - A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously)
+  <sup>
+   439 GitHub links in total 531 links, ★ 22, pushed 241 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 241 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ivanph/react-native-webintent">
    react-native-webintent ★42
   </a>
-  <span>
-   &#9733 43, pushed 148 days ago
-  </span>
   - React native android module to open links in the default browser
+  <sup>
+   439 GitHub links in total 531 links, ★ 43, pushed 148 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oney/react-native-webrtc">
    react-native-webrtc ★188
   </a>
-  <span>
-   &#9733 210, pushed 5 days ago
-  </span>
   - A WebRTC module for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 210, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 210, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lucasferreira/react-native-webview-android">
    react-native-webview-android ★84
   </a>
-  <span>
-   &#9733 87, pushed 74 days ago
-  </span>
   - Simple React Native Android module to use Android's WebView inside your app
+  <sup>
+   439 GitHub links in total 531 links, ★ 87, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 87, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alinz/react-native-webview-bridge">
    react-native-webview-bridge ★200
   </a>
-  <span>
-   &#9733 212, pushed 12 days ago
-  </span>
   - React Native WebView Javascript Bridge
+  <sup>
+   439 GitHub links in total 531 links, ★ 212, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 212, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beefe/react-native-webview">
    react-native-webview ★1
   </a>
-  <span>
-   &#9733 1, pushed 133 days ago
-  </span>
   - andorid webview for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beefe/react-native-cookiemanager">
    react-native-cookiemanager ★1
   </a>
-  <span>
-   &#9733 1, pushed 99 days ago
-  </span>
   - react-native cookie manager library.
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jordansexton/react-native-webview-crosswalk">
    react-native-webview-crosswalk ★4
   </a>
-  <span>
-   &#9733 4, pushed 4 days ago
-  </span>
   - Crosswalk's WebView for React Native on Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3320,181 +4251,241 @@ with React Native.
   <a href="https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac">
    react-native-android-audio-streaming-aac ★10
   </a>
-  <span>
-   &#9733 10, pushed 216 days ago
-  </span>
   - A react native streaming player
+  <sup>
+   439 GitHub links in total 531 links, ★ 10, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 216 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Tricy/react-native-audio-manager">
    react-native-audio-manager ★11
   </a>
-  <span>
-   &#9733 11, pushed 169 days ago
-  </span>
   - Audio player library for react native Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 11, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sh3rawi/react-native-audio-player">
    react-native-audio-player ★8
   </a>
-  <span>
-   &#9733 8, pushed 208 days ago
-  </span>
   - A React Native module to play audio on Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 208 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 208 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andreaskeller/react-native-audioplayer">
    react-native-audioplayer ★42
   </a>
-  <span>
-   &#9733 44, pushed 7 days ago
-  </span>
   - Small audio player library for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 44, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bh5-pods/react-native-bhcamera">
    react-native-bhcamera ★2
   </a>
-  <span>
-   &#9733 2, pushed 189 days ago
-  </span>
   - React Native Barcode Scanner and Camera Utils.
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwansbrough/react-native-camera">
    react-native-camera ★953
   </a>
-  <span>
-   &#9733 1005, pushed 5 days ago
-  </span>
   - Camera component
+  <sup>
+   439 GitHub links in total 531 links, ★ 1005, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1005, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bsudekum/react-native-color-grabber">
    react-native-color-grabber ★19
   </a>
-  <span>
-   &#9733 20, pushed 264 days ago
-  </span>
   - React native component for finding dominant colors in an image
+  <sup>
+   439 GitHub links in total 531 links, ★ 20, pushed 264 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 264 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-media-capture">
    react-native-media-capture ★1
   </a>
-  <span>
-   &#9733 1, pushed 173 days ago
-  </span>
   - A media-capture for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chriselly/react-native-mediaplayer">
    react-native-mediaplayer ★5
   </a>
-  <span>
-   &#9733 5, pushed 271 days ago
-  </span>
   - Simple full screen media player for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 5, pushed 271 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 271 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mybigday/react-native-media-meta">
    react-native-media-meta ★5
   </a>
-  <span>
-   &#9733 5, pushed 38 days ago
-  </span>
   - Get media file metadata in your React Native app
+  <sup>
+   439 GitHub links in total 531 links, ★ 5, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xeodou/react-native-player">
    react-native-player ★30
   </a>
-  <span>
-   &#9733 30, pushed 146 days ago
-  </span>
   - Media player for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 30, pushed 146 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 146 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxs15/react-native-screcorder">
    react-native-screcorder ★88
   </a>
-  <span>
-   &#9733 94, pushed 35 days ago
-  </span>
   - Capture pictures and record Video with Vine-like tap to record
+  <sup>
+   439 GitHub links in total 531 links, ★ 94, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mikehedman/react-native-simple-sound">
    react-native-simple-sound ★3
   </a>
-  <span>
-   &#9733 3, pushed 92 days ago
-  </span>
   - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zmxv/react-native-sound">
    react-native-sound ★105
   </a>
-  <span>
-   &#9733 114, pushed 11 days ago
-  </span>
   - React Native module for playing sound clips
+  <sup>
+   439 GitHub links in total 531 links, ★ 114, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 114, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zmxv/react-native-sound-demo">
    react-native-sound-demo ★0
   </a>
-  <span>
-   &#9733 0, pushed 27 days ago
-  </span>
   - react-native-sound demo project
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/naoufal/react-native-speech">
    react-native-speech ★58
   </a>
-  <span>
-   &#9733 59, pushed 115 days ago
-  </span>
   - A text-to-speech library for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 59, pushed 115 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 115 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brentvatne/react-native-video">
    react-native-video ★587
   </a>
-  <span>
-   &#9733 623, pushed 2 days ago
-  </span>
   - A Video component for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 623, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 623, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IFours/react-native-volume-slider">
    react-native-volume-slider ★8
   </a>
-  <span>
-   &#9733 8, pushed 96 days ago
-  </span>
   - React Native VolumeView component
+  <sup>
+   439 GitHub links in total 531 links, ★ 8, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ghondar/react-native-vlc-player">
    react-native-vlc-player ★7
   </a>
-  <span>
-   &#9733 7, pushed 29 days ago
-  </span>
   - VLC Player for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeanpan/react-native-camera-roll-picker">
    react-native-camera-roll-picker ★1
   </a>
-  <span>
-   &#9733 2, pushed 3 days ago
-  </span>
   - A React Native component providing images selection from camera roll
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3511,82 +4502,109 @@ with React Native.
   <a href="https://github.com/darkrishabh/react-native-db-models">
    react-native-db-models ★118
   </a>
-  <span>
-   &#9733 120, pushed 79 days ago
-  </span>
   - Local DB Models for React Native Apps
+  <sup>
+   439 GitHub links in total 531 links, ★ 120, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tradle/react-native-level-fs">
    react-native-level-fs ★7
   </a>
-  <span>
-   &#9733 7, pushed 151 days ago
-  </span>
   - fs for react-native using level-filesystem and asyncstorage-down
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 151 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 151 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remobile/react-native-mongoose">
    react-native-mongoose ★7
   </a>
-  <span>
-   &#9733 7, pushed 138 days ago
-  </span>
   - A AsyncStorage based mongoose like storage for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 139 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 139 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/carbureted/react-native-pouchdb">
    react-native-pouchdb ★16
   </a>
-  <span>
-   &#9733 19, pushed 20 days ago
-  </span>
   - Run pouchdb in React Native!
+  <sup>
+   439 GitHub links in total 531 links, ★ 19, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jasonmerino/react-native-simple-store">
    react-native-simple-store ★164
   </a>
-  <span>
-   &#9733 178, pushed 4 days ago
-  </span>
   - A minimalistic wrapper around React Native's AsyncStorage.
+  <sup>
+   439 GitHub links in total 531 links, ★ 178, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 178, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andpor/react-native-sqlite-storage">
    react-native-sqlite-storage ★287
   </a>
-  <span>
-   &#9733 313, pushed 7 days ago
-  </span>
   - SQLite3 bindings for React Native (Android & iOS)
+  <sup>
+   439 GitHub links in total 531 links, ★ 313, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 313, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/almost/react-native-sqlite">
    react-native-sqlite ★403
   </a>
-  <span>
-   &#9733 406, pushed 124 days ago
-  </span>
   - SQLite3 bindings for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 406, pushed 124 days ago
+  </sup>
+  <sup>
+   &#9733 406, pushed 124 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sunnylqm/react-native-storage">
    react-native-storage ★154
   </a>
-  <span>
-   &#9733 175, pushed 6 days ago
-  </span>
   - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
+  <sup>
+   439 GitHub links in total 531 links, ★ 175, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 175, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thewei/react-native-store">
    react-native-store ★302
   </a>
-  <span>
-   &#9733 314, pushed 96 days ago
-  </span>
   - A simple database base on react-native AsyncStorage.
+  <sup>
+   439 GitHub links in total 531 links, ★ 314, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 314, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3603,28 +4621,37 @@ with React Native.
   <a href="https://github.com/spikef/react-native-ajax">
    react-native-ajax ★1
   </a>
-  <span>
-   &#9733 1, pushed 118 days ago
-  </span>
   - Ajax module for react native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watzak/react-native-aws-s3">
    react-native-aws-s3 ★3
   </a>
-  <span>
-   &#9733 3, pushed 157 days ago
-  </span>
   - react-native aws amazon s3 storage
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 157 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 157 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/szq4119/react-native-async-http">
    react-native-async-http ★2
   </a>
-  <span>
-   &#9733 2, pushed 106 days ago
-  </span>
   - React Native component for async-http
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Apercu/react-native-bonjour">
@@ -3636,28 +4663,37 @@ with React Native.
   <a href="https://github.com/morcmarc/react-native-cognito">
    react-native-cognito ★20
   </a>
-  <span>
-   &#9733 23, pushed 4 days ago
-  </span>
   - AWS Cognito-based authentication module for React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 23, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/plrthink/react-native-file-download">
    react-native-file-download ★21
   </a>
-  <span>
-   &#9733 21, pushed 27 days ago
-  </span>
   - A simple file download module for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 21, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/booxood/react-native-file-upload">
    react-native-file-upload ★46
   </a>
-  <span>
-   &#9733 49, pushed 42 days ago
-  </span>
   - A file upload plugin for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 49, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/iktw/react-native-jwt">
@@ -3669,109 +4705,145 @@ with React Native.
   <a href="https://github.com/StanScates/react-native-jwt">
    react-native-jwt ★9
   </a>
-  <span>
-   &#9733 10, pushed 62 days ago
-  </span>
   - React native compatible JSON web token utility
+  <sup>
+   439 GitHub links in total 531 links, ★ 10, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/magicismight/react-native-lazyload">
    react-native-lazyload ★32
   </a>
-  <span>
-   &#9733 39, pushed 22 days ago
-  </span>
   - lazyload for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 39, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/inProgress-team/react-native-meteor">
    react-native-meteor ★117
   </a>
-  <span>
-   &#9733 128, pushed 4 days ago
-  </span>
   - Full Meteor Client
+  <sup>
+   439 GitHub links in total 531 links, ★ 128, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 128, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lwansbrough/react-native-multipeer">
    react-native-multipeer ★50
   </a>
-  <span>
-   &#9733 51, pushed 2 days ago
-  </span>
   - Communicate over ad hoc wifi using Multipeer Connectivity
+  <sup>
+   439 GitHub links in total 531 links, ★ 51, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eduedix/react-native-networking">
    react-native-networking ★46
   </a>
-  <span>
-   &#9733 50, pushed 188 days ago
-  </span>
   - react-native module to download and upload files with AFNetworking
+  <sup>
+   439 GitHub links in total 531 links, ★ 50, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peter4k/react-native-rest-kit">
    react-native-rest-kit ★32
   </a>
-  <span>
-   &#9733 32, pushed 64 days ago
-  </span>
   - A React Native RESTful API kit that use the fetch method
+  <sup>
+   439 GitHub links in total 531 links, ★ 32, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adamjmcgrath/react-native-simple-auth">
    react-native-simple-auth ★149
   </a>
-  <span>
-   &#9733 166, pushed 2 days ago
-  </span>
   - Native social authentication for React Native on iOS
+  <sup>
+   439 GitHub links in total 531 links, ★ 166, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 166, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kirkness/react-native-swift-socketio">
    react-native-swift-socketio ★74
   </a>
-  <span>
-   &#9733 78, pushed 222 days ago
-  </span>
   - A react native wrapper for socket.io-client-swift
+  <sup>
+   439 GitHub links in total 531 links, ★ 78, pushed 222 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 222 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PeelTechnologies/react-native-tcp">
    react-native-tcp ★9
   </a>
-  <span>
-   &#9733 11, pushed 91 days ago
-  </span>
   - node's net API for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 11, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tradle/react-native-udp">
    react-native-udp ★31
   </a>
-  <span>
-   &#9733 32, pushed 109 days ago
-  </span>
   - node's dgram API for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 32, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aroth/react-native-uploader">
    react-native-uploader ★44
   </a>
-  <span>
-   &#9733 48, pushed 41 days ago
-  </span>
   - A React Native module to upload files and camera roll assets. Supports progress notification.
+  <sup>
+   439 GitHub links in total 531 links, ★ 48, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aksonov/react-native-xmpp">
    react-native-xmpp ★42
   </a>
-  <span>
-   &#9733 47, pushed 6 days ago
-  </span>
   - XMPP Library for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 47, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3782,154 +4854,205 @@ with React Native.
   <a href="https://github.com/laoqiu/react-native-amap">
    react-native-amap ★4
   </a>
-  <span>
-   &#9733 4, pushed 22 days ago
-  </span>
   - A React Native component for building maps with the AMap Android SDK
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sejoker/react-native-android-vitamio">
    react-native-android-vitamio ★33
   </a>
-  <span>
-   &#9733 37, pushed 2 days ago
-  </span>
   - React-native component for android Vitamio video player
+  <sup>
+   439 GitHub links in total 531 links, ★ 37, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alawong/react-native-braintree">
    react-native-braintree ★41
   </a>
-  <span>
-   &#9733 43, pushed 34 days ago
-  </span>
   - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
+  <sup>
+   439 GitHub links in total 531 links, ★ 43, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/surialabs/react-native-braintree-android">
    react-native-braintree-android ★10
   </a>
-  <span>
-   &#9733 10, pushed 67 days ago
-  </span>
   - Braintree's native Drop-in Payment UI for Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 10, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kayla-tech/react-native-card-io">
    react-native-card-io ★34
   </a>
-  <span>
-   &#9733 37, pushed 5 days ago
-  </span>
   - React Native component for card.io
+  <sup>
+   439 GitHub links in total 531 links, ★ 37, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zo0r/react-native-conekta">
    react-native-conekta ★0
   </a>
-  <span>
-   &#9733 0, pushed 140 days ago
-  </span>
   - Conekta SDK for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fixt/react-native-digits">
    react-native-digits ★36
   </a>
-  <span>
-   &#9733 39, pushed 13 days ago
-  </span>
   - Digits wrapper to use in React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 39, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JeanLebrument/react-native-fabric-digits">
    react-native-fabric-digits ★38
   </a>
-  <span>
-   &#9733 41, pushed 36 days ago
-  </span>
   Fabric Digits wrapper for React-Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 41, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/magus/react-native-facebook-login">
    react-native-facebook-login ★361
   </a>
-  <span>
-   &#9733 377, pushed 34 days ago
-  </span>
   - React Native wrapper for native iOS Facebook SDK login button and manager
+  <sup>
+   439 GitHub links in total 531 links, ★ 377, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 377, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/syarul/react-native-fbintent">
    react-native-fbintent ★2
   </a>
-  <span>
-   &#9733 2, pushed 182 days ago
-  </span>
   - A React Native intent for Android Facebook App
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 183 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 183 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/amitkothari/react-native-flurry">
    react-native-flurry ★4
   </a>
-  <span>
-   &#9733 4, pushed 101 days ago
-  </span>
   - React Native wrapper for Flurry
+  <sup>
+   439 GitHub links in total 531 links, ★ 4, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 101 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FaridSafi/react-native-google-places-autocomplete">
    react-native-google-places-autocomplete ★109
   </a>
-  <span>
-   &#9733 114, pushed 18 days ago
-  </span>
   - Customizable Google Places autocomplete component for iOS and Android React-Native apps
+  <sup>
+   439 GitHub links in total 531 links, ★ 114, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 114, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apptailor/react-native-google-signin">
    react-native-google-signin ★114
   </a>
-  <span>
-   &#9733 128, pushed 4 days ago
-  </span>
   - Google Signin for your react native applications
+  <sup>
+   439 GitHub links in total 531 links, ★ 128, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 128, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andyscott/react-native-hawk">
    react-native-hawk ★2
   </a>
-  <span>
-   &#9733 2, pushed 208 days ago
-  </span>
   - Hawk wrapper for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 2, pushed 208 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 208 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watzak/react-native-instagram-oauth">
    react-native-instagram-oauth ★9
   </a>
-  <span>
-   &#9733 11, pushed 8 days ago
-  </span>
   - react-native instagram login
+  <sup>
+   439 GitHub links in total 531 links, ★ 11, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watzak/react-native-instagram-share">
    react-native-instagram-share ★6
   </a>
-  <span>
-   &#9733 6, pushed 170 days ago
-  </span>
   - A react-native interface to share images and videos within instagram (iOS)
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 170 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 170 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watzak/react-native-instagram">
    react-native-instagram ★0
   </a>
-  <span>
-   &#9733 0, pushed 156 days ago
-  </span>
   - react-native instagram wrapper api (iOS)
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 156 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 156 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/turingou/react-native-leancloud">
@@ -3941,136 +5064,181 @@ with React Native.
   <a href="https://github.com/tradle/react-native-level">
    react-native-level ★29
   </a>
-  <span>
-   &#9733 29, pushed 108 days ago
-  </span>
   - levelup API for react-native AsyncStorage.
+  <sup>
+   439 GitHub links in total 531 links, ★ 29, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jodybrewster/react-native-linkedin-login">
    react-native-linkedin-login ★13
   </a>
-  <span>
-   &#9733 15, pushed 34 days ago
-  </span>
   - Linkedin Login for your react native applications
+  <sup>
+   439 GitHub links in total 531 links, ★ 15, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DriveWealth/react-native-onepassword">
    react-native-onepassword ★6
   </a>
-  <span>
-   &#9733 6, pushed 90 days ago
-  </span>
   - React Native integration with the OnePassword extension.
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/reactnativecn/react-native-qq">
    react-native-qq ★49
   </a>
-  <span>
+  - QQ Login&Share; support in React Native.
+  <sup>
+   439 GitHub links in total 531 links, ★ 53, pushed 28 days ago
+  </sup>
+  <sup>
    &#9733 53, pushed 28 days ago
-  </span>
-  - QQ Login&Share support in React Native.
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realtime-framework/RCTRealtimeMessagingAndroid">
    react-native-realtimemessaging-android ★33
   </a>
-  <span>
-   &#9733 35, pushed 6 days ago
-  </span>
   - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 35, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realtime-framework/RCTRealtimeMessaging">
    react-native-realtimemessaging-ios ★7
   </a>
-  <span>
-   &#9733 7, pushed 225 days ago
-  </span>
   - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 7, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gijoehosaphat/react-native-realtime-pusher">
    react-native-realtime-pusher ★0
   </a>
-  <span>
-   &#9733 0, pushed 39 days ago
-  </span>
   - React Native module implementing the Pusher Realtime API
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realtime-framework/RCTRealtimeStorageAndroid">
    react-native-realtimestorage-android ★3
   </a>
-  <span>
-   &#9733 3, pushed 57 days ago
-  </span>
   - The Realtime Cloud Storage client for React-Native Android
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realtime-framework/RCTRealtimeCloudStorage">
    react-native-realtimestorage-ios ★6
   </a>
-  <span>
-   &#9733 6, pushed 181 days ago
-  </span>
   - The Realtime Framework Cloud Storage client for React-Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 6, pushed 181 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 181 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinresol/react-native-sinch-verification">
    react-native-sinch-verification ★3
   </a>
-  <span>
-   &#9733 3, pushed 55 days ago
-  </span>
   - Sinch verification for react native
+  <sup>
+   439 GitHub links in total 531 links, ★ 3, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/testfairy/react-native-testfairy">
    react-native-testfairy ★1
   </a>
-  <span>
-   &#9733 1, pushed 15 days ago
-  </span>
   - TestFairy for React Native
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rogchap/react-native-twilio">
    react-native-twilio ★23
   </a>
-  <span>
-   &#9733 23, pushed 36 days ago
-  </span>
   - A React Native wrapper for the Twilio mobile SDK
+  <sup>
+   439 GitHub links in total 531 links, ★ 23, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/voximplant/react-native-voximplant">
    react-native-voximplant ★34
   </a>
-  <span>
-   &#9733 35, pushed 74 days ago
-  </span>
   - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
+  <sup>
+   439 GitHub links in total 531 links, ★ 35, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beefe/react-native-wechat-ios">
    react-native-wechat-ios ★78
   </a>
-  <span>
-   &#9733 82, pushed 7 days ago
-  </span>
   - Wechat SDK for React Native(iOS).
+  <sup>
+   439 GitHub links in total 531 links, ★ 82, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/weflex/react-native-wechat">
    react-native-wechat ★180
   </a>
-  <span>
-   &#9733 251, pushed 15 days ago
-  </span>
   - react-native library for wechat app
+  <sup>
+   439 GitHub links in total 531 links, ★ 251, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 251, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jhen0409/react-native-whirlyglobe/">
@@ -4088,28 +5256,37 @@ with React Native.
   <a href="https://github.com/szq4119/react-native-alipay">
    react-native-axmall-alipay ★1
   </a>
-  <span>
-   &#9733 1, pushed 106 days ago
-  </span>
   - react-native alipay
+  <sup>
+   439 GitHub links in total 531 links, ★ 1, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/olofd/react-native-signalr">
    react-native-signalr ★16
   </a>
-  <span>
-   &#9733 16, pushed 50 days ago
-  </span>
   - SignalR-client for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 16, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/APSL/react-native-sumup">
    react-native-sumup ★0
   </a>
-  <span>
-   &#9733 0, pushed 33 days ago
-  </span>
   - A React Native implementation of SumupSDK.
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 33 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4120,19 +5297,25 @@ with React Native.
   <a href="https://github.com/MystK/react-native-watchkit">
    react-native-watchkit ★0
   </a>
-  <span>
-   &#9733 0, pushed 233 days ago
-  </span>
   - react native for WatchKit
+  <sup>
+   439 GitHub links in total 531 links, ★ 0, pushed 234 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 234 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ptmt/react-native-desktop">
    react-native-desktop ★6610
   </a>
-  <span>
-   &#9733 6907, pushed 4 days ago
-  </span>
   - React Native for OS X
+  <sup>
+   439 GitHub links in total 531 links, ★ 6907, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 6907, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4146,10 +5329,13 @@ with React Native.
   <a href="https://github.com/Shrugs/react-native-snippets">
    react-native-snippets ★82
   </a>
-  <span>
-   &#9733 85, pushed 13 days ago
-  </span>
   - A collection of Sublime Text Snippets for react-native
+  <sup>
+   439 GitHub links in total 531 links, ★ 85, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://exp.host/">
@@ -4161,10 +5347,13 @@ with React Native.
   <a href="https://github.com/zetachang/opal-native">
    Ruby React Native (via Opal) ★358
   </a>
-  <span>
-   &#9733 357, pushed 254 days ago
-  </span>
   - Use Ruby for building React Native apps
+  <sup>
+   439 GitHub links in total 531 links, ★ 357, pushed 254 days ago
+  </sup>
+  <sup>
+   &#9733 357, pushed 254 days ago
+  </sup>
  </li>
  <li>
   <a href="https://rnplay.org/">
@@ -4188,19 +5377,25 @@ with React Native.
   <a href="https://github.com/rnpm/rnpm">
    rnpm ★1018
   </a>
-  <span>
-   &#9733 1169, pushed 2 days ago
-  </span>
   - react native package manager
+  <sup>
+   439 GitHub links in total 531 links, ★ 1169, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1169, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mvayngrib/rn-nodeify">
    rn-nodeify ★24
   </a>
-  <span>
-   &#9733 23, pushed 23 days ago
-  </span>
   - hack to allow react-native projects to use node core modules
+  <sup>
+   439 GitHub links in total 531 links, ★ 23, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 23 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4220,63 +5415,84 @@ with React Native.
   <a href="https://github.com/jhabdas/react-native-webpack-starter-kit">
    react-native-webpack-starter-kit ★547
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 571, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 571, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/roman01la/react-native-babel">
    react-native-babel ★228
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 229, pushed 29 days ago
+  </sup>
+  <sup>
    &#9733 229, pushed 29 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/filp/react-native-es6-reflux">
    react-native-es6-reflux ★129
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 130, pushed 212 days ago
+  </sup>
+  <sup>
    &#9733 130, pushed 212 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxb/react-native-tabbed">
    react-native-tabbed ★16
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 17, pushed 328 days ago
+  </sup>
+  <sup>
    &#9733 17, pushed 328 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adampash/react-native-hot-redux-starter">
    react-native-hot-redux-starter ★128
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 128, pushed 186 days ago
+  </sup>
+  <sup>
    &#9733 128, pushed 186 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrpatiwi/ReactNativeTS">
    ReactNativeTS ★33
   </a>
-  <span>
-   &#9733 43, pushed 43 days ago
-  </span>
   - Typescript with
   <a href="http://alt.js.org/">
    alt
   </a>
   and router
+  <sup>
+   439 GitHub links in total 531 links, ★ 43, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bartonhammond/snowflake">
    Snowflake ★1345
   </a>
-  <span>
-   &#9733 1456, pushed 27 days ago
-  </span>
   - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
+  <sup>
+   439 GitHub links in total 531 links, ★ 1456, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 1456, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4290,10 +5506,13 @@ with React Native.
   <a href="https://github.com/gcanti/tcomb-form-native">
    tcomb-form-native ★902
   </a>
-  <span>
-   &#9733 947, pushed 18 days ago
-  </span>
   - Generate React Native forms
+  <sup>
+   439 GitHub links in total 531 links, ★ 947, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 947, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4545,9 +5764,12 @@ with React Native.
   <a href="https://github.com/h87kg/NavigatorDemo">
    Navigator Demo ★62
   </a>
-  <span>
+  <sup>
+   439 GitHub links in total 531 links, ★ 71, pushed 134 days ago
+  </sup>
+  <sup>
    &#9733 71, pushed 134 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://facebook.github.io/react-native/docs/tutorial.html#content">

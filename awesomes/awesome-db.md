@@ -28,9 +28,12 @@
   <a href="https://github.com/robashton/cravendb">
    cravendb
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 48 links, ★ 45, pushed 860 days ago
+  </sup>
+  <sup>
    &#9733 45, pushed 860 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -41,31 +44,40 @@
   <a href="https://github.com/aerospike/aerospike-server">
    Aerospike
   </a>
-  <span>
-   &#9733 1176, pushed 8 days ago
-  </span>
   - Aerospike Database Server – flash-optimized, in-memory, nosql database
+  <sup>
+   41 GitHub links in total 48 links, ★ 1176, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1176, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JakSprats/Alchemy-Database">
    Alchemy-Database
   </a>
-  <span>
-   &#9733 170, pushed 1345 days ago
-  </span>
   - AlchemyDB is now Aerospike
+  <sup>
+   41 GitHub links in total 48 links, ★ 170, pushed 1345 days ago
+  </sup>
+  <sup>
+   &#9733 170, pushed 1345 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/citusdata/cstore_fdw">
    cstore_fdw
   </a>
-  <span>
-   &#9733 632, pushed 4 days ago
-  </span>
   - Fast columnar store for analytics with PostgreSQL
   <a href="http://citusdata.github.io/cstore_fdw/">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 632, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 632, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://symas.com/mdb/">
@@ -77,69 +89,90 @@
   <a href="https://github.com/memcached/memcached">
    memcache
   </a>
-  <span>
-   &#9733 4672, pushed 2 days ago
-  </span>
   - Free & open source, high-performance, distributed memory object caching system
+  <sup>
+   41 GitHub links in total 48 links, ★ 4672, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4672, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/snaga/monetdb">
    monetdb
   </a>
-  <span>
-   &#9733 3, pushed 971 days ago
-  </span>
   -
   <a href="https://www.monetdb.org/">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 3, pushed 971 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 971 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mongodb/mongo">
    mongo
   </a>
-  <span>
-   &#9733 9221, pushed 0 days ago
-  </span>
   - The Mongo Database http://www.mongodb.org/
+  <sup>
+   41 GitHub links in total 48 links, ★ 9221, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 9221, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/mysql-5.6">
    facebook/mysql-5.6
   </a>
-  <span>
-   &#9733 414, pushed 0 days ago
-  </span>
   - Facebook's branch of the Oracle MySQL v5.6 database
+  <sup>
+   41 GitHub links in total 48 links, ★ 414, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 414, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/mysql">
    twitter/mysql
   </a>
-  <span>
-   &#9733 1464, pushed 323 days ago
-  </span>
   - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
+  <sup>
+   41 GitHub links in total 48 links, ★ 1464, pushed 323 days ago
+  </sup>
+  <sup>
+   &#9733 1464, pushed 323 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/postgres/postgres">
    postgres
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 48 links, ★ 2037, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 2037, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antirez/redis">
    Redis
   </a>
-  <span>
-   &#9733 17733, pushed 3 days ago
-  </span>
   - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
   <a href="http://redis.io">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 17733, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 17733, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mpalmer/redis/tree/nds-2.6">
@@ -151,28 +184,37 @@
   <a href="https://github.com/rethinkdb/rethinkdb">
    rethinkdb
   </a>
-  <span>
-   &#9733 13352, pushed 3 days ago
-  </span>
   - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
+  <sup>
+   41 GitHub links in total 48 links, ★ 13352, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 13352, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/rocksdb">
    rocksdb
   </a>
-  <span>
-   &#9733 5269, pushed 1 days ago
-  </span>
   - Embedded key-value store for fast storage http://rocksdb.org
+  <sup>
+   41 GitHub links in total 48 links, ★ 5269, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5269, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ideawu/ssdb">
    ssdb
   </a>
-  <span>
-   &#9733 3417, pushed 4 days ago
-  </span>
   - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
+  <sup>
+   41 GitHub links in total 48 links, ★ 3417, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3417, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sqlite.org/">
@@ -190,10 +232,13 @@
   <a href="https://github.com/Tokutek/mongo">
    TokuMX
   </a>
-  <span>
-   &#9733 623, pushed 74 days ago
-  </span>
   - TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
+  <sup>
+   41 GitHub links in total 48 links, ★ 623, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 623, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VoltDB/voltdb/">
@@ -210,10 +255,13 @@
   <a href="https://github.com/ravendb/ravendb">
    RavenDB
   </a>
-  <span>
-   &#9733 1498, pushed 15 days ago
-  </span>
   - A linq enabled document database for .NET http://ayende.com/Blog/
+  <sup>
+   41 GitHub links in total 48 links, ★ 1498, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1498, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dev.origodb.com">
@@ -230,10 +278,13 @@
   <a href="https://github.com/basho/riak">
    riak
   </a>
-  <span>
-   &#9733 2467, pushed 4 days ago
-  </span>
   - Riak is a decentralized datastore from Basho Technologies.
+  <sup>
+   41 GitHub links in total 48 links, ★ 2467, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2467, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pulsedb.io">
@@ -250,19 +301,25 @@
   <a href="https://github.com/boltdb/bolt">
    bolt
   </a>
-  <span>
-   &#9733 4094, pushed 9 days ago
-  </span>
   - A low-level key/value database for Go.
+  <sup>
+   41 GitHub links in total 48 links, ★ 4094, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 4094, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterbourgon/diskv">
    diskv
   </a>
-  <span>
-   &#9733 346, pushed 29 days ago
-  </span>
   - A home-grown disk-backed key-value store.
+  <sup>
+   41 GitHub links in total 48 links, ★ 346, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 346, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pmylund/go-cache">
@@ -274,23 +331,29 @@
   <a href="https://github.com/syndtr/goleveldb">
    goleveldb
   </a>
-  <span>
-   &#9733 1026, pushed 8 days ago
-  </span>
   - An implementation of the
   <a href="https://code.google.com/p/leveldb/">
    LevelDB
   </a>
   key/value database in the Go.
+  <sup>
+   41 GitHub links in total 48 links, ★ 1026, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1026, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/golang/groupcache">
    groupcache
   </a>
-  <span>
-   &#9733 4433, pushed 82 days ago
-  </span>
   - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+  <sup>
+   41 GitHub links in total 48 links, ★ 4433, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 4433, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/influxdb/influxdb">
@@ -302,10 +365,13 @@
   <a href="https://github.com/siddontang/ledisdb">
    ledisdb
   </a>
-  <span>
-   &#9733 1588, pushed 2 days ago
-  </span>
   - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+  <sup>
+   41 GitHub links in total 48 links, ★ 1588, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1588, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/soundcloud/roshi/">
@@ -323,10 +389,13 @@
   <a href="https://github.com/HouzuoGuo/tiedot">
    tiedot
   </a>
-  <span>
-   &#9733 1515, pushed 104 days ago
-  </span>
   - Your NoSQL database powered by Golang.
+  <sup>
+   41 GitHub links in total 48 links, ★ 1515, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 1515, pushed 104 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -337,10 +406,13 @@
   <a href="https://github.com/apache/cassandra">
    cassandra
   </a>
-  <span>
-   &#9733 2724, pushed 1 days ago
-  </span>
   - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
+  <sup>
+   41 GitHub links in total 48 links, ★ 2724, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2724, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elasticsearch/elasticsearch">
@@ -355,62 +427,80 @@
   <a href="https://github.com/deephacks/lmdbjni">
    lmdbjni
   </a>
-  <span>
-   &#9733 116, pushed 43 days ago
-  </span>
   - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
+  <sup>
+   41 GitHub links in total 48 links, ★ 116, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jankotek/MapDB">
    mapdb
   </a>
-  <span>
-   &#9733 1930, pushed 2 days ago
-  </span>
   - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
+  <sup>
+   41 GitHub links in total 48 links, ★ 1930, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1930, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neo4j/neo4j">
    neo4j
   </a>
-  <span>
-   &#9733 2569, pushed 2 days ago
-  </span>
   -
   <a href="http://neo4j.org">
    Neo4j
   </a>
   is the world’s leading Graph Database.
+  <sup>
+   41 GitHub links in total 48 links, ★ 2569, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2569, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/orientechnologies/orientdb">
    orientdb
   </a>
-  <span>
-   &#9733 2386, pushed 3 days ago
-  </span>
   - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
+  <sup>
+   41 GitHub links in total 48 links, ★ 2386, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2386, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/voldemort/voldemort">
    voldemort
   </a>
-  <span>
-   &#9733 1685, pushed 5 days ago
-  </span>
   - An open source clone of Amazon's Dynamo.
   <a href="http://project-voldemort.com">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 1685, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1685, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thinkaurelius/titan">
    Titan
   </a>
-  <span>
-   &#9733 3679, pushed 6 days ago
-  </span>
   - Distributed Graph Database http://titandb.io
+  <sup>
+   41 GitHub links in total 48 links, ★ 3679, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3679, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -421,25 +511,31 @@
   <a href="https://github.com/apache/couchdb">
    couchdb
   </a>
-  <span>
-   &#9733 2527, pushed 4 days ago
-  </span>
   - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API
   <a href="http://couchdb.apache.org/">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 2527, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2527, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mongodb/mongo">
    mongodb
   </a>
-  <span>
-   &#9733 9221, pushed 0 days ago
-  </span>
   - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier.
   <a href="https://www.mongodb.org/">
    website
   </a>
+  <sup>
+   41 GitHub links in total 48 links, ★ 9221, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 9221, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -450,10 +546,13 @@
   <a href="https://github.com/sameeragarwal/blinkdb">
    BlinkDB
   </a>
-  <span>
-   &#9733 476, pushed 817 days ago
-  </span>
   - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]    (http://blinkdb.cs.berkeley.edu/)
+  <sup>
+   41 GitHub links in total 48 links, ★ 476, pushed 817 days ago
+  </sup>
+  <sup>
+   &#9733 476, pushed 817 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -464,9 +563,12 @@
   <a href="https://github.com/rxin/db-readings">
    db-readings
   </a>
-  <span>
-   &#9733 4071, pushed 38 days ago
-  </span>
   - A list of papers essential to understanding databases and building new data systems
+  <sup>
+   41 GitHub links in total 48 links, ★ 4071, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 4071, pushed 38 days ago
+  </sup>
  </li>
 </ul>

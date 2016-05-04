@@ -134,9 +134,12 @@
   <a href="https://github.com/h5bp/server-configs-nginx">
    Nginx HTTP server boilerplate configs
   </a>
-  <span>
+  <sup>
+   7 GitHub links in total 88 links, ★ 4520, pushed 40 days ago
+  </sup>
+  <sup>
    &#9733 4520, pushed 40 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Umkus/nginx-boilerplate">
@@ -312,9 +315,12 @@
   <a href="https://github.com/fcambus/jsonp-proxy">
    JSONP Proxy - Get JSONP from APIs not supporting it natively
   </a>
-  <span>
+  <sup>
+   7 GitHub links in total 88 links, ★ 8, pushed 119 days ago
+  </sup>
+  <sup>
    &#9733 8, pushed 119 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/">
@@ -335,9 +341,12 @@
   <a href="https://github.com/p0pr0ck5/lua-resty-tarpit">
    Capture and delay unwanted requests
   </a>
-  <span>
+  <sup>
+   7 GitHub links in total 88 links, ★ 8, pushed 478 days ago
+  </sup>
+  <sup>
    &#9733 8, pushed 478 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/">
@@ -435,9 +444,12 @@
   <a href="https://github.com/maiome-development/lsso">
    LSSO - Lua + Nginx SSO System with an OAuth Backend
   </a>
-  <span>
+  <sup>
+   7 GitHub links in total 88 links, ★ 9, pushed 15 days ago
+  </sup>
+  <sup>
    &#9733 9, pushed 15 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/">
@@ -519,10 +531,13 @@
    <a href="https://github.com/alexazhou/VeryNginx">
     VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards
    </a>
-   <span>
-    &#9733 1503, pushed 2 days ago
-   </span>
   </p>
+  <sup>
+   7 GitHub links in total 88 links, ★ 1503, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1503, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <p>

@@ -152,10 +152,13 @@
   <a href="https://github.com/localvoid/uix">
    uix
   </a>
-  <span>
-   &#9733 49, pushed 243 days ago
-  </span>
   - Library to build Web User Interfaces in Dart inspired by React.
+  <sup>
+   33 GitHub links in total 79 links, ★ 49, pushed 243 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 243 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.material-design-lite.pub/">
@@ -172,28 +175,37 @@
   <a href="https://github.com/redstone-dart/redstone">
    Redstone
   </a>
-  <span>
-   &#9733 232, pushed 23 days ago
-  </span>
   - Redstone is a server-side, metadata driven micro-framework for Dart.
+  <sup>
+   33 GitHub links in total 79 links, ★ 232, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 232, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lvivski/start">
    Start
   </a>
-  <span>
-   &#9733 362, pushed 343 days ago
-  </span>
   - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+  <sup>
+   33 GitHub links in total 79 links, ★ 362, pushed 343 days ago
+  </sup>
+  <sup>
+   &#9733 362, pushed 343 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dartist/express">
    Express
   </a>
-  <span>
-   &#9733 98, pushed 593 days ago
-  </span>
   - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
+  <sup>
+   33 GitHub links in total 79 links, ★ 98, pushed 593 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 593 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pub.dartlang.org/packages/shelf">
@@ -213,28 +225,37 @@
   <a href="https://github.com/ForceUniverse/dart-force">
    Force
   </a>
-  <span>
-   &#9733 75, pushed 18 days ago
-  </span>
   - A real time web framework, embracing websockets, making communication even better
+  <sup>
+   33 GitHub links in total 79 links, ★ 75, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Scorpiion/Vane">
    Vane
   </a>
-  <span>
-   &#9733 19, pushed 151 days ago
-  </span>
   - Framework with built-in server runtime environment and middleware system
+  <sup>
+   33 GitHub links in total 79 links, ★ 19, pushed 151 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 151 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rikulo/stream">
    Rikulo Stream
   </a>
-  <span>
-   &#9733 122, pushed 34 days ago
-  </span>
   - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
+  <sup>
+   33 GitHub links in total 79 links, ★ 122, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -251,28 +272,37 @@
   <a href="https://github.com/StrykerKKD/dartrocket">
    DartRocket
   </a>
-  <span>
-   &#9733 38, pushed 375 days ago
-  </span>
   - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
+  <sup>
+   33 GitHub links in total 79 links, ★ 38, pushed 375 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 375 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FedeOmoto/pixi">
    Pixi Dart
   </a>
-  <span>
-   &#9733 19, pushed 522 days ago
-  </span>
   - A port of the pixi.js rendering engine.
+  <sup>
+   33 GitHub links in total 79 links, ★ 19, pushed 522 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 522 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wdevore/Ranger-Dart">
    Ranger
   </a>
-  <span>
-   &#9733 13, pushed 321 days ago
-  </span>
   - A game engine centered around HTML5 Canvas and a scene graph.
+  <sup>
+   33 GitHub links in total 79 links, ★ 13, pushed 321 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 321 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -283,19 +313,25 @@
   <a href="https://github.com/xaguzman/tween-engine-dart">
    Universal Tween Engine
   </a>
-  <span>
-   &#9733 17, pushed 19 days ago
-  </span>
   - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
+  <sup>
+   33 GitHub links in total 79 links, ★ 17, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FedeOmoto/spine">
    Spine Dart
   </a>
-  <span>
-   &#9733 5, pushed 522 days ago
-  </span>
   - An implementation of the Esoteric Software Spine runtime.
+  <sup>
+   33 GitHub links in total 79 links, ★ 5, pushed 522 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 522 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -306,19 +342,25 @@
   <a href="https://github.com/valotas/mustache4dart">
    mustache4dart
   </a>
-  <span>
-   &#9733 32, pushed 369 days ago
-  </span>
   - A simple implementation of Mustache.
+  <sup>
+   33 GitHub links in total 79 links, ★ 32, pushed 369 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 369 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dartist/jaded">
    jaded
   </a>
-  <span>
-   &#9733 32, pushed 724 days ago
-  </span>
   - Port of the excellent Jade view engine.
+  <sup>
+   33 GitHub links in total 79 links, ★ 32, pushed 724 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 724 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -329,19 +371,25 @@
   <a href="https://github.com/jamesots/sqljocky">
    SQLJockey
   </a>
-  <span>
-   &#9733 82, pushed 109 days ago
-  </span>
   - MySQL connector.
+  <sup>
+   33 GitHub links in total 79 links, ★ 82, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xxgreg/dart_postgresql">
    PostgreSQL
   </a>
-  <span>
-   &#9733 65, pushed 99 days ago
-  </span>
   - PostgreSQL database driver
+  <sup>
+   33 GitHub links in total 79 links, ★ 65, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pub.dartlang.org/packages/dartabase_model">
@@ -375,28 +423,37 @@
   <a href="https://github.com/flutter/engine">
    Flutter
   </a>
-  <span>
-   &#9733 872, pushed 2 days ago
-  </span>
   - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
+  <sup>
+   33 GitHub links in total 79 links, ★ 872, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 872, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/quiver-dart">
    Quiver
   </a>
-  <span>
-   &#9733 123, pushed 7 days ago
-  </span>
   - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+  <sup>
+   33 GitHub links in total 79 links, ★ 123, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/angular/route.dart">
    route_hierarchical
   </a>
-  <span>
-   &#9733 30, pushed 19 days ago
-  </span>
   - Route is a client routing library for Dart that helps make building single-page web apps.
+  <sup>
+   33 GitHub links in total 79 links, ★ 30, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pub.dartlang.org/packages/archive">
@@ -419,10 +476,13 @@
   <a href="https://github.com/angular/di.dart">
    DI
   </a>
-  <span>
-   &#9733 56, pushed 4 days ago
-  </span>
   - Dependency Injection framework by Angular
+  <sup>
+   33 GitHub links in total 79 links, ★ 56, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -439,19 +499,25 @@
   <a href="https://github.com/dart-lang/markdown">
    markdown
   </a>
-  <span>
-   &#9733 41, pushed 15 days ago
-  </span>
   - Parse markdown into HTML on both the client and server.
+  <sup>
+   33 GitHub links in total 79 links, ★ 41, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/petitparser/dart-petitparser">
    PetitParser
   </a>
-  <span>
-   &#9733 73, pushed 5 days ago
-  </span>
   - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+  <sup>
+   33 GitHub links in total 79 links, ★ 73, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pub.dartlang.org/packages/xml">
@@ -486,10 +552,13 @@
   <a href="https://github.com/karan/validator.dart">
    validator.dart
   </a>
-  <span>
-   &#9733 18, pushed 519 days ago
-  </span>
   - String validation and sanitization for Dart.
+  <sup>
+   33 GitHub links in total 79 links, ★ 18, pushed 519 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 519 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -500,10 +569,13 @@
   <a href="https://github.com/vadimtsushko/objectory">
    Objectory
   </a>
-  <span>
-   &#9733 45, pushed 41 days ago
-  </span>
   - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+  <sup>
+   33 GitHub links in total 79 links, ★ 45, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 41 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -514,10 +586,13 @@
   <a href="https://github.com/brendan-duncan/image">
    image
   </a>
-  <span>
-   &#9733 55, pushed 201 days ago
-  </span>
   - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+  <sup>
+   33 GitHub links in total 79 links, ★ 55, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 201 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -539,10 +614,13 @@
   <a href="https://github.com/vsavkin/guinness">
    Guinness
   </a>
-  <span>
-   &#9733 38, pushed 27 days ago
-  </span>
   - A port of the Jasmine library.
+  <sup>
+   33 GitHub links in total 79 links, ★ 38, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pub.dartlang.org/packages/test">
@@ -571,19 +649,25 @@
   <a href="https://github.com/vojtajina/js2dart">
    js2dart
   </a>
-  <span>
-   &#9733 15, pushed 595 days ago
-  </span>
   - compiles Javascript code to Dart
+  <sup>
+   33 GitHub links in total 79 links, ★ 15, pushed 595 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 595 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/stagehand">
    Stagehand
   </a>
-  <span>
-   &#9733 123, pushed 1 days ago
-  </span>
   - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+  <sup>
+   33 GitHub links in total 79 links, ★ 123, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://crossdart.info">
@@ -601,10 +685,13 @@
   <a href="https://github.com/agudulin/gulp-dart">
    gulp-dart
   </a>
-  <span>
-   &#9733 3, pushed 81 days ago
-  </span>
   - A gulp plugin for compiling Dart code to JavaScript using dart2js.
+  <sup>
+   33 GitHub links in total 79 links, ★ 3, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 81 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -638,28 +725,37 @@
   <a href="https://github.com/guillermooo/dart-sublime-bundle">
    Sublime Text Package
   </a>
-  <span>
-   &#9733 190, pushed 95 days ago
-  </span>
   - Sublime Text 3 Dart Package
+  <sup>
+   33 GitHub links in total 79 links, ★ 190, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 190, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nex3/dart-mode">
    Emacs Plugin
   </a>
-  <span>
-   &#9733 46, pushed 36 days ago
-  </span>
   - An Emacs mode for the Dart language
+  <sup>
+   33 GitHub links in total 79 links, ★ 46, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dart-lang/dart-vim-plugin">
    Vim Plugin
   </a>
-  <span>
-   &#9733 136, pushed 138 days ago
-  </span>
   - Syntax highlighting for Dart in Vim
+  <sup>
+   33 GitHub links in total 79 links, ★ 136, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 136, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://atom.io/packages/atom-dart">

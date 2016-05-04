@@ -120,10 +120,13 @@
   <a href="https://github.com/ankane/chartkick">
    Chartkick
   </a>
-  <span>
-   &#9733 3592, pushed 4 days ago
-  </span>
   - JavaScript charts with one line of Ruby.
+  <sup>
+   14 GitHub links in total 47 links, ★ 3592, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3592, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://d3js.org/">
@@ -145,37 +148,49 @@
   <a href="https://github.com/danvk/dygraphs">
    dygraphs
   </a>
-  <span>
-   &#9733 1852, pushed 48 days ago
-  </span>
   - Interactive zoomable time series charts.
+  <sup>
+   14 GitHub links in total 47 links, ★ 1852, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 1852, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ecomfe/echarts">
    ECharts
   </a>
-  <span>
-   &#9733 11526, pushed 2 days ago
-  </span>
   - A powerful charting and visualization library for browser.
+  <sup>
+   14 GitHub links in total 47 links, ★ 11526, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 11526, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EmpriseCorporation/EJSCharts">
    EJSChart
   </a>
-  <span>
-   &#9733 8, pushed 90 days ago
-  </span>
   - enterprise ready charting library.
+  <sup>
+   14 GitHub links in total 47 links, ★ 8, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frewsxcv/graphosaurus">
    Graphosaurus
   </a>
-  <span>
-   &#9733 202, pushed 19 days ago
-  </span>
   - 3D graph viewer powered by WebGL (three.js)
+  <sup>
+   14 GitHub links in total 47 links, ★ 202, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 202, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="http://morrisjs.github.io/morris.js">
@@ -187,19 +202,25 @@
   <a href="https://github.com/plotly/plotly.js">
    Plotly
   </a>
-  <span>
-   &#9733 4590, pushed 2 days ago
-  </span>
   - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+  <sup>
+   14 GitHub links in total 47 links, ★ 4590, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4590, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/palantir/plottable">
    Plottable
   </a>
-  <span>
-   &#9733 983, pushed 4 days ago
-  </span>
   - Library with OOP style syntax to build charts.
+  <sup>
+   14 GitHub links in total 47 links, ★ 983, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 983, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.rgraph.net/">
@@ -211,19 +232,25 @@
   <a href="https://github.com/jacomyal/sigma.js">
    sigma.js
   </a>
-  <span>
-   &#9733 6131, pushed 5 days ago
-  </span>
   - Graphs / Network diagram library built with canvas.
+  <sup>
+   14 GitHub links in total 47 links, ★ 6131, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 6131, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joewalnes/smoothie">
    Smoothie Charts
   </a>
-  <span>
-   &#9733 1460, pushed 69 days ago
-  </span>
   - JavaScript charts for realtime streaming data.
+  <sup>
+   14 GitHub links in total 47 links, ★ 1460, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 1460, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.taucharts.com/">
@@ -235,10 +262,13 @@
   <a href="https://github.com/imaginea/uvCharts">
    uvCharts
   </a>
-  <span>
-   &#9733 178, pushed 13 days ago
-  </span>
   - JavaScript Charting library built using d3.js
+  <sup>
+   14 GitHub links in total 47 links, ★ 178, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 178, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://visjs.org/">
@@ -277,10 +307,13 @@
   <a href="https://github.com/n3-charts/line-chart">
    n3-charts
   </a>
-  <span>
-   &#9733 1142, pushed 4 days ago
-  </span>
   - Easy to use library written with AngularJS, rendering charts with D3.
+  <sup>
+   14 GitHub links in total 47 links, ★ 1142, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1142, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -319,19 +352,25 @@
   <a href="https://github.com/FormidableLabs/victory">
    Formiddable
   </a>
-  <span>
-   &#9733 1038, pushed 7 days ago
-  </span>
   - A collection of composable React components for building interactive data visualizations
+  <sup>
+   14 GitHub links in total 47 links, ★ 1038, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1038, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/esbullington/react-d3">
    react-d3
   </a>
-  <span>
-   &#9733 1111, pushed 25 days ago
-  </span>
   - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
+  <sup>
+   14 GitHub links in total 47 links, ★ 1111, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 1111, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uber-common/react-vis">

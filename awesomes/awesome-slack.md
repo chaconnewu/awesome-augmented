@@ -277,17 +277,29 @@
   <a href="https://github.com/sindresorhus/awesome">
    Awesome
   </a>
-  <span>
+  <sup>
+   2 GitHub links in total 46 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   2 GitHub links in total 46 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 34522, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterkokot/awesome-community">
    Awesome Community
   </a>
-  <span>
+  <sup>
+   2 GitHub links in total 46 links, ★ 32, pushed 54 days ago
+  </sup>
+  <sup>
+   2 GitHub links in total 46 links, ★ 32, pushed 54 days ago
+  </sup>
+  <sup>
    &#9733 32, pushed 54 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

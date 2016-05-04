@@ -53,18 +53,18 @@
   <a href="https://github.com/EFForg/contact-congress">
    Contact Congress (Open Source)
   </a>
-  <span>
-   &#9733 4, pushed 685 days ago
-  </span>
   - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
+  <sup>
+   9 GitHub links in total 23 links, ★ 4, pushed 685 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 685 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fightforthefuture/call-congress">
    Call Congress
   </a>
-  <span>
-   &#9733 12, pushed 6 days ago
-  </span>
   - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from
   <a href="https://github.com/mozilla/call-congress">
    Mozilla
@@ -82,15 +82,24 @@
    http://callpower.org
   </a>
   . A hosted version is available, and the code is AGPL.
+  <sup>
+   9 GitHub links in total 23 links, ★ 12, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Twilio-org/rapid-response-kit">
    Twilio.org's Rapid Response Kit
   </a>
-  <span>
-   &#9733 206, pushed 336 days ago
-  </span>
   - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
+  <sup>
+   9 GitHub links in total 23 links, ★ 206, pushed 336 days ago
+  </sup>
+  <sup>
+   &#9733 206, pushed 336 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.ushahidi.com/">
@@ -106,28 +115,37 @@
   <a href="https://github.com/therules/CrowdRing">
    Crowdring
   </a>
-  <span>
-   &#9733 6, pushed 804 days ago
-  </span>
   - web app where people around the world can place a free missed call to sign a petition
+  <sup>
+   9 GitHub links in total 23 links, ★ 6, pushed 804 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 804 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lockitron/selfstarter">
    Self Starter
   </a>
-  <span>
-   &#9733 2960, pushed 82 days ago
-  </span>
   - roll your own crowdfunding site
+  <sup>
+   9 GitHub links in total 23 links, ★ 2960, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 2960, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/controlshift/prague-server">
    TakeCharge.io
   </a>
-  <span>
-   &#9733 5, pushed 119 days ago
-  </span>
   - opensource or SaaS online donations powered by Stripe.
+  <sup>
+   9 GitHub links in total 23 links, ★ 5, pushed 119 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.victorykitapp.com">
@@ -139,10 +157,13 @@
   <a href="https://github.com/drewrwilson/countdown">
    Countdown
   </a>
-  <span>
-   &#9733 5, pushed 124 days ago
-  </span>
   - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
+  <sup>
+   9 GitHub links in total 23 links, ★ 5, pushed 124 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 124 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -201,10 +222,13 @@
   <a href="https://github.com/the-learning-collective/whereat-macroid">
    Where@
   </a>
-  <span>
-   &#9733 10, pushed 324 days ago
-  </span>
   - a mobile app to help protesters communicate with each other in realtime during marches
+  <sup>
+   9 GitHub links in total 23 links, ★ 10, pushed 325 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 325 days ago
+  </sup>
  </li>
  <li>
   <a href="https://drewrwilson.com/stencilvalidator/">
@@ -220,10 +244,13 @@
   <a href="https://github.com/handsupwalkout/handsupwalkout.github.io">
    Day of Action
   </a>
-  <span>
-   &#9733 5, pushed 519 days ago
-  </span>
   - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+  <sup>
+   9 GitHub links in total 23 links, ★ 5, pushed 519 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 519 days ago
+  </sup>
  </li>
 </ul>
 <h2>

@@ -341,10 +341,13 @@
   <a href="https://github.com/lukesampson/scoop">
    Scoop
   </a>
-  <span>
-   &#9733 1351, pushed 5 days ago
-  </span>
   - A command-line installer for Windows.
+  <sup>
+   4 GitHub links in total 70 links, ★ 1351, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1351, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.getwox.com/">
@@ -367,28 +370,37 @@
   <a href="https://github.com/cmderdev/cmder">
    Cmder
   </a>
-  <span>
-   &#9733 7075, pushed 19 days ago
-  </span>
   - Console emulator package.
+  <sup>
+   4 GitHub links in total 70 links, ★ 7075, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 7075, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Maximus5/ConEmu">
    ConEmu
   </a>
-  <span>
-   &#9733 2217, pushed 5 days ago
-  </span>
   - Customizable terminal with tabs, splits, quake-style and more.
+  <sup>
+   4 GitHub links in total 70 links, ★ 2217, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2217, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cbucher/console">
    ConsoleZ
   </a>
-  <span>
-   &#9733 1556, pushed 1 days ago
-  </span>
   - Modified version of Console 2 for a better experience and a better visual rendering
+  <sup>
+   4 GitHub links in total 70 links, ★ 1556, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1556, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>

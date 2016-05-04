@@ -41,17 +41,23 @@
     <a href="https://github.com/realpython/discover-flask">
      Discover Flask - Full Stack Web Development with Flask
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 2197, pushed 152 days ago
+    </sup>
+    <sup>
      &#9733 2197, pushed 152 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mjhea0/flaskr-tdd">
      Flaskr - Intro to Flask, Test Driven Development, and jQuery
     </a>
-    <span>
-     &#9733 681, pushed 88 days ago
-    </span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 681, pushed 89 days ago
+    </sup>
+    <sup>
+     &#9733 681, pushed 89 days ago
+    </sup>
    </li>
    <li>
     <a href="https://realpython.com/blog/categories/flask/">
@@ -188,154 +194,205 @@
     <a href="https://github.com/lowrain/GuitarFan">
      GuitarFan
     </a>
-    <span>
-     &#9733 18, pushed 389 days ago
-    </span>
     - guitar tab
+    <sup>
+     140 GitHub links in total 196 links, ★ 18, pushed 389 days ago
+    </sup>
+    <sup>
+     &#9733 18, pushed 389 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pythoncn/june">
      June
     </a>
-    <span>
-     &#9733 909, pushed 497 days ago
-    </span>
     - ~~python-china.org~~
+    <sup>
+     140 GitHub links in total 196 links, ★ 909, pushed 497 days ago
+    </sup>
+    <sup>
+     &#9733 909, pushed 497 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lepture/zerqu">
      Zerqu
     </a>
-    <span>
-     &#9733 79, pushed 14 days ago
-    </span>
     - ZERQU is a content-focused API-based platform. eg:
     <a href="https://python-china.org">
      Python-China
     </a>
+    <sup>
+     140 GitHub links in total 196 links, ★ 79, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 79, pushed 14 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/notedit/motiky">
      motiky
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 28, pushed 1042 days ago
+    </sup>
+    <sup>
      &#9733 28, pushed 1042 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/notedit/missing">
      missing
     </a>
-    <span>
-     &#9733 7, pushed 1193 days ago
-    </span>
     - a list service called missing
+    <sup>
+     140 GitHub links in total 196 links, ★ 7, pushed 1193 days ago
+    </sup>
+    <sup>
+     &#9733 7, pushed 1193 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/danjac/newsmeme">
      thenewsmeme.com
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 68, pushed 1992 days ago
+    </sup>
+    <sup>
      &#9733 68, pushed 1992 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mattupstate/overholt">
      overholt
     </a>
-    <span>
-     &#9733 967, pushed 48 days ago
-    </span>
     - Example Flask application illustrating common practices
+    <sup>
+     140 GitHub links in total 196 links, ★ 967, pushed 48 days ago
+    </sup>
+    <sup>
+     &#9733 967, pushed 48 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/laoqiu/pypress">
      pypress
     </a>
-    <span>
-     &#9733 410, pushed 1498 days ago
-    </span>
     - flask team blog
+    <sup>
+     140 GitHub links in total 196 links, ★ 410, pushed 1498 days ago
+    </sup>
+    <sup>
+     &#9733 410, pushed 1498 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/laiwei/thepast">
      thepast.me
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 703, pushed 294 days ago
+    </sup>
+    <sup>
      &#9733 703, pushed 294 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/no13bus/redispapa">
      redispapa
     </a>
-    <span>
-     &#9733 300, pushed 73 days ago
-    </span>
     - another redis monitor by using flask, angular, socket.io
+    <sup>
+     140 GitHub links in total 196 links, ★ 300, pushed 73 days ago
+    </sup>
+    <sup>
+     &#9733 300, pushed 73 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/defshine/flaskblog">
      flaskblog
     </a>
-    <span>
-     &#9733 87, pushed 360 days ago
-    </span>
     - a simple blog system based on flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 87, pushed 360 days ago
+    </sup>
+    <sup>
+     &#9733 87, pushed 360 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/defshine/cleanblog">
      cleanblog
     </a>
-    <span>
-     &#9733 51, pushed 8 days ago
-    </span>
     - a clean blog system based on flask and mongoengine
+    <sup>
+     140 GitHub links in total 196 links, ★ 51, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 51, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rochacbruno/quokka">
      Quokka CMS
     </a>
-    <span>
-     &#9733 1259, pushed 7 days ago
-    </span>
     - CMS made with Flask and MongoDB
+    <sup>
+     140 GitHub links in total 196 links, ★ 1259, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 1259, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lzyy/chat">
      chat
     </a>
-    <span>
-     &#9733 245, pushed 1646 days ago
-    </span>
     - a live chat built with python (flask + gevent + apscheduler) + redis
+    <sup>
+     140 GitHub links in total 196 links, ★ 245, pushed 1646 days ago
+    </sup>
+    <sup>
+     &#9733 245, pushed 1646 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vinceprignano/chatapp">
      chatapp
     </a>
-    <span>
-     &#9733 130, pushed 242 days ago
-    </span>
     - Flask and Angular.js Chat Application using Socket.io
+    <sup>
+     140 GitHub links in total 196 links, ★ 130, pushed 242 days ago
+    </sup>
+    <sup>
+     &#9733 130, pushed 242 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/SimonSapin/Frozen-Flask">
      Frozen-Flask
     </a>
-    <span>
-     &#9733 343, pushed 138 days ago
-    </span>
     - Freezes a Flask application into a set of static files
+    <sup>
+     140 GitHub links in total 196 links, ★ 343, pushed 138 days ago
+    </sup>
+    <sup>
+     &#9733 343, pushed 138 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wrobstory/mcflyin">
      mcflyin
     </a>
-    <span>
-     &#9733 55, pushed 875 days ago
-    </span>
     - A small timeseries transformation API built on Flask and Pandas
+    <sup>
+     140 GitHub links in total 196 links, ★ 55, pushed 875 days ago
+    </sup>
+    <sup>
+     &#9733 55, pushed 875 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -346,57 +403,72 @@
     <a href="https://github.com/imwilsonxu/fbone">
      fbone
     </a>
-    <span>
-     &#9733 1157, pushed 2 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/notedit/flask-base">
      flask-base
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 95, pushed 1155 days ago
+    </sup>
+    <sup>
      &#9733 95, pushed 1155 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sloria/cookiecutter-flask">
      cookiecutter-flask
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 865, pushed 2 days ago
+    </sup>
+    <sup>
      &#9733 865, pushed 2 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tony/cookiecutter-flask-pythonic">
      cookiecutter-flask-pythonic
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 0, pushed 358 days ago
+    </sup>
+    <sup>
      &#9733 0, pushed 358 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/JackStouffer/Flask-Foundation">
      Flask-Foundation
     </a>
-    <span>
-     &#9733 840, pushed 70 days ago
-    </span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 840, pushed 71 days ago
+    </sup>
+    <sup>
+     &#9733 840, pushed 71 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/italomaia/flask-empty">
      Flask-Empty
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 201, pushed 24 days ago
+    </sup>
+    <sup>
      &#9733 201, pushed 24 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alexandre/flask-rest-template">
      flask-rest-template
     </a>
-    <span>
+    <sup>
+     140 GitHub links in total 196 links, ★ 18, pushed 189 days ago
+    </sup>
+    <sup>
      &#9733 18, pushed 189 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://gae-init.appspot.com">
@@ -405,6 +477,12 @@
     - Flask boilerplate running on Google App Engine
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 1157, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1157, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -418,84 +496,111 @@
     <a href="https://github.com/semirook/flask-kit">
      Flask Kit
     </a>
-    <span>
-     &#9733 184, pushed 259 days ago
-    </span>
     - Flexible microkit for Flask microframework
    </li>
    <li>
     <a href="https://github.com/coleifer/flask-peewee">
      flask-peewee
     </a>
-    <span>
-     &#9733 493, pushed 163 days ago
-    </span>
     - flask integration for peewee, including admin, authentication, rest api and more
+    <sup>
+     140 GitHub links in total 196 links, ★ 493, pushed 163 days ago
+    </sup>
+    <sup>
+     &#9733 493, pushed 163 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/closeio/flask-mongorest">
      Flask-MongoRest
     </a>
-    <span>
-     &#9733 358, pushed 2 days ago
-    </span>
     - Restful API framework wrapped around MongoEngine
+    <sup>
+     140 GitHub links in total 196 links, ★ 358, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 358, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nicolaiarocci/eve">
      Eve
     </a>
-    <span>
-     &#9733 3188, pushed 2 days ago
-    </span>
     - REST API framework powered by Flask, MongoDB and good intentions
+    <sup>
+     140 GitHub links in total 196 links, ★ 3188, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 3188, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jfinkels/flask-restless">
      Flask-Restless
     </a>
-    <span>
-     &#9733 626, pushed 2 days ago
-    </span>
     - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
+    <sup>
+     140 GitHub links in total 196 links, ★ 626, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 626, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/flask-restful/flask-restful">
      Flask-RESTful
     </a>
-    <span>
-     &#9733 1954, pushed 7 days ago
-    </span>
     - Simple framework for creating REST APIs
+    <sup>
+     140 GitHub links in total 196 links, ★ 1954, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 1954, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/noirbizarre/flask-restplus">
      Flask-RestPlus
     </a>
-    <span>
-     &#9733 157, pushed 3 days ago
-    </span>
     - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful.
+    <sup>
+     140 GitHub links in total 196 links, ★ 157, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 157, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/biosustain/potion">
      Flask-Potion
     </a>
-    <span>
-     &#9733 331, pushed 21 days ago
-    </span>
     - RESTful API framework for Flask and SQLAlchemy
+    <sup>
+     140 GitHub links in total 196 links, ★ 331, pushed 21 days ago
+    </sup>
+    <sup>
+     &#9733 331, pushed 21 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/level09/enferno">
      enferno
     </a>
-    <span>
-     &#9733 149, pushed 4 days ago
-    </span>
     - A Flask-based Framework for the Next Decade
+    <sup>
+     140 GitHub links in total 196 links, ★ 149, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 149, pushed 4 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 184, pushed 259 days ago
+  </sup>
+  <sup>
+   &#9733 184, pushed 259 days ago
+  </sup>
  </li>
  <li>
   Admin
@@ -504,21 +609,27 @@
     <a href="https://github.com/flask-admin/flask-admin">
      Flask-Admin
     </a>
-    <span>
-     &#9733 1673, pushed 1 days ago
-    </span>
     - Simple and extensible administrative interface framework for Flask
    </li>
    <li>
     <a href="https://github.com/SyrusAkbary/Flask-SuperAdmin">
      Flask-SuperAdmin
     </a>
-    <span>
-     &#9733 446, pushed 7 days ago
-    </span>
     - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
+    <sup>
+     140 GitHub links in total 196 links, ★ 446, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 446, pushed 7 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 1673, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1673, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Authentication
@@ -527,64 +638,79 @@
     <a href="https://github.com/mattupstate/flask-security">
      Flask-Security
     </a>
-    <span>
-     &#9733 679, pushed 8 days ago
-    </span>
     - Quick and simple security for Flask applications
    </li>
    <li>
     <a href="https://github.com/maxcountryman/flask-login">
      Flask-Login
     </a>
-    <span>
-     &#9733 972, pushed 33 days ago
-    </span>
     - Flask user session management
+    <sup>
+     140 GitHub links in total 196 links, ★ 972, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 972, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/peterhudec/authomatic">
      Authomatic
     </a>
-    <span>
-     &#9733 671, pushed 6 days ago
-    </span>
     - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
+    <sup>
+     140 GitHub links in total 196 links, ★ 671, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 671, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kennethreitz/flask-googlefed">
      flask-googlefed
     </a>
-    <span>
-     &#9733 56, pushed 89 days ago
-    </span>
     - Google Federated Logins for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 56, pushed 89 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 89 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mitsuhiko/flask-openid">
      Flask-OpenID
     </a>
-    <span>
-     &#9733 149, pushed 232 days ago
-    </span>
     - Flask-OpenID adds openid support to flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 149, pushed 232 days ago
+    </sup>
+    <sup>
+     &#9733 149, pushed 232 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mattupstate/flask-social">
      Flask-Social
     </a>
-    <span>
-     &#9733 154, pushed 64 days ago
-    </span>
     - OAuth Provider Integration for Flask-Security
+    <sup>
+     140 GitHub links in total 196 links, ★ 154, pushed 64 days ago
+    </sup>
+    <sup>
+     &#9733 154, pushed 64 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lepture/flask-oauthlib">
      Flask-OAuthlib
     </a>
-    <span>
-     &#9733 690, pushed 1 days ago
-    </span>
     - OAuthlib implementation for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 690, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 690, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cenkalti/github-flask">
@@ -596,48 +722,69 @@
     <a href="https://github.com/omab/python-social-auth">
      Python-Social-Auth
     </a>
-    <span>
-     &#9733 2237, pushed 4 days ago
-    </span>
     - Social auth made simple
+    <sup>
+     140 GitHub links in total 196 links, ★ 2237, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 2237, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wooyek/flask-social-blueprint">
      Flask-social-blueprint
     </a>
-    <span>
-     &#9733 36, pushed 13 days ago
-    </span>
     - OAuth OOP way
+    <sup>
+     140 GitHub links in total 196 links, ★ 36, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mitsuhiko/flask-oauth">
      Flask-OAuth
     </a>
-    <span>
-     &#9733 402, pushed 67 days ago
-    </span>
     - OAuth Support for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 402, pushed 67 days ago
+    </sup>
+    <sup>
+     &#9733 402, pushed 67 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/miguelgrinberg/Flask-HTTPAuth">
      Flask-HTTPAuth
     </a>
-    <span>
-     &#9733 187, pushed 12 days ago
-    </span>
     - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
+    <sup>
+     140 GitHub links in total 196 links, ★ 187, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 187, pushed 12 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lingthio/Flask-User">
      Flask-User
     </a>
-    <span>
-     &#9733 367, pushed 13 days ago
-    </span>
     - Customizable user account management for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 367, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 367, pushed 13 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 679, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 679, pushed 8 days ago
+  </sup>
  </li>
  <li>
   Authorization
@@ -646,9 +793,6 @@
     <a href="https://github.com/anurag90x/flask-pundit">
      Flask-Pundit
     </a>
-    <span>
-     &#9733 5, pushed 30 days ago
-    </span>
     - Extension based on Rails'
     <a href="https://github.com/elabs/pundit">
      Pundit
@@ -656,6 +800,12 @@
     gem that provides easy way to organize access control for your models
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 5, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 30 days ago
+  </sup>
  </li>
  <li>
   Database/ORM/ODM
@@ -664,106 +814,139 @@
     <a href="https://github.com/MongoEngine/flask-mongoengine">
      Flask-MongoEngine
     </a>
-    <span>
-     &#9733 337, pushed 5 days ago
-    </span>
     - MongoEngine flask extension with WTF model forms support
    </li>
    <li>
     <a href="https://github.com/dcrosta/flask-pymongo">
      Flask-PyMongo
     </a>
-    <span>
-     &#9733 239, pushed 99 days ago
-    </span>
     - PyMongo support for Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 239, pushed 99 days ago
+    </sup>
+    <sup>
+     &#9733 239, pushed 99 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cobrateam/flask-mongoalchemy">
      Flask-MongoAlchemy
     </a>
-    <span>
-     &#9733 108, pushed 329 days ago
-    </span>
     - Flask support for MongoDB using MongoAlchemy
+    <sup>
+     140 GitHub links in total 196 links, ★ 108, pushed 329 days ago
+    </sup>
+    <sup>
+     &#9733 108, pushed 329 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jarus/flask-mongokit">
      Flask-MongoKit
     </a>
-    <span>
-     &#9733 59, pushed 756 days ago
-    </span>
     - Flask-MongoKit simplifies the use of MongoKit (a powerful MongoDB ORM for Python) within Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 59, pushed 756 days ago
+    </sup>
+    <sup>
+     &#9733 59, pushed 756 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mitsuhiko/flask-sqlalchemy">
      Flask-SQLAlchemy
     </a>
-    <span>
-     &#9733 1227, pushed 1 days ago
-    </span>
     - Adds SQLAlchemy support to Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 1227, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 1227, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/underyx/Flask-Redis">
      Flask-Redis
     </a>
-    <span>
-     &#9733 84, pushed 141 days ago
-    </span>
     - Redis support for Flask. Not much else to say.
+    <sup>
+     140 GitHub links in total 196 links, ★ 84, pushed 141 days ago
+    </sup>
+    <sup>
+     &#9733 84, pushed 141 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/playpauseandstop/Flask-And-Redis">
      Flask-And-Redis
     </a>
-    <span>
-     &#9733 44, pushed 305 days ago
-    </span>
     - Simple as dead support of Redis database for Flask apps
+    <sup>
+     140 GitHub links in total 196 links, ★ 44, pushed 305 days ago
+    </sup>
+    <sup>
+     &#9733 44, pushed 305 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sirn/flask-couchdbkit">
      Flask-CouchDBKit
     </a>
-    <span>
-     &#9733 19, pushed 1483 days ago
-    </span>
     - Flask extension that provides integration with CouchDBKit
+    <sup>
+     140 GitHub links in total 196 links, ★ 19, pushed 1483 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 1483 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/calthoff/flask-orientdb">
      Flask-OrientDB
     </a>
-    <span>
+    - Flask extension for OrientDB Graph&Document; Database
+    <sup>
+     140 GitHub links in total 196 links, ★ 7, pushed 362 days ago
+    </sup>
+    <sup>
      &#9733 7, pushed 362 days ago
-    </span>
-    - Flask extension for OrientDB Graph&Document Database
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alexandermendes/Flask-Z3950">
      Flask-Z3950
     </a>
-    <span>
-     &#9733 0, pushed 92 days ago
-    </span>
     - Z39.50 integration for Flask applications.
+    <sup>
+     140 GitHub links in total 196 links, ★ 0, pushed 92 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 92 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sdispater/flask-orator">
      Flask-Orator
     </a>
-    <span>
-     &#9733 16, pushed 48 days ago
-    </span>
     - Adds
     <a href="https://github.com/sdispater/orator">
      Orator ORM
     </a>
     support to Flask applications.
+    <sup>
+     140 GitHub links in total 196 links, ★ 16, pushed 48 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 48 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 337, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 337, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Database Migrations
@@ -772,21 +955,27 @@
     <a href="https://github.com/miguelgrinberg/Flask-Migrate">
      Flask-Migrate
     </a>
-    <span>
-     &#9733 439, pushed 26 days ago
-    </span>
     - SQLAlchemy database migrations for Flask applications using Alembic
    </li>
    <li>
     <a href="https://github.com/tobiasandtobias/flask-alembic">
      Flask-Alembic
     </a>
-    <span>
-     &#9733 50, pushed 1184 days ago
-    </span>
     - A Flask Extension to provide Alembic integration with Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 50, pushed 1184 days ago
+    </sup>
+    <sup>
+     &#9733 50, pushed 1184 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 439, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 439, pushed 26 days ago
+  </sup>
  </li>
  <li>
   Session
@@ -795,12 +984,15 @@
     <a href="https://github.com/fengsp/flask-session">
      Flask-Session
     </a>
-    <span>
-     &#9733 94, pushed 23 days ago
-    </span>
     - Session extension for Flask
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 94, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 23 days ago
+  </sup>
  </li>
  <li>
   Cache
@@ -809,19 +1001,19 @@
     <a href="https://github.com/fusic-com/flask-webcache">
      flask-webcache
     </a>
-    <span>
-     &#9733 41, pushed 112 days ago
-    </span>
     - A Flask extension that adds HTTP based caching to Flask apps
    </li>
    <li>
     <a href="https://github.com/rdegges/flask-heroku-cacheify">
      flask-heroku-cacheify
     </a>
-    <span>
-     &#9733 31, pushed 317 days ago
-    </span>
     - Automatic Flask cache configuration on Heroku
+    <sup>
+     140 GitHub links in total 196 links, ★ 31, pushed 317 days ago
+    </sup>
+    <sup>
+     &#9733 31, pushed 317 days ago
+    </sup>
    </li>
    <li>
     <a href="https://bitbucket.org/ponomar/flask-dogpile-cache">
@@ -830,6 +1022,12 @@
     - Flask wrapper for dogpile.cache
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 41, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 112 days ago
+  </sup>
  </li>
  <li>
   Data Validation
@@ -838,39 +1036,51 @@
     <a href="https://github.com/lepture/flask-wtf">
      Flask-WTF
     </a>
-    <span>
-     &#9733 438, pushed 2 days ago
-    </span>
     - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
    </li>
    <li>
     <a href="https://github.com/maxcountryman/flask-seasurf">
      Flask-SeaSurf
     </a>
-    <span>
-     &#9733 74, pushed 45 days ago
-    </span>
     - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
+    <sup>
+     140 GitHub links in total 196 links, ★ 74, pushed 45 days ago
+    </sup>
+    <sup>
+     &#9733 74, pushed 45 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Pylons/colander">
      Colander
     </a>
-    <span>
-     &#9733 239, pushed 10 days ago
-    </span>
     - A serialization/deserialization/validation library for strings, mappings and lists
+    <sup>
+     140 GitHub links in total 196 links, ★ 239, pushed 10 days ago
+    </sup>
+    <sup>
+     &#9733 239, pushed 10 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/xeBuz/Flask-Validator">
      Flask-Validator
     </a>
-    <span>
-     &#9733 3, pushed 40 days ago
-    </span>
     - Data validator for SQLAlchemy using ORM events
+    <sup>
+     140 GitHub links in total 196 links, ★ 3, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 40 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 438, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 438, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Email
@@ -890,12 +1100,15 @@
     <a href="https://github.com/python-babel/flask-babel">
      flask-babel
     </a>
-    <span>
-     &#9733 192, pushed 1 days ago
-    </span>
     - i18n and l10n support for Flask based on Babel and pytz
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 192, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Full-text searching
@@ -904,21 +1117,27 @@
     <a href="https://github.com/dhamaniasad/Flask-WhooshAlchemy">
      Flask-WhooshAlchemy
     </a>
-    <span>
-     &#9733 5, pushed 141 days ago
-    </span>
     - Whoosh indexing capabilities for Flask-SQLAlchemy
    </li>
    <li>
     <a href="https://github.com/kvesteri/sqlalchemy-searchable">
      SQLAlchemy-Searchable
     </a>
-    <span>
-     &#9733 67, pushed 19 days ago
-    </span>
     - Full-text searching for Flask-SQLAlchemy (Postgres only)
+    <sup>
+     140 GitHub links in total 196 links, ★ 67, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 67, pushed 19 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 5, pushed 141 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 141 days ago
+  </sup>
  </li>
  <li>
   Rate Limiting
@@ -927,12 +1146,15 @@
     <a href="https://github.com/alisaifee/flask-limiter">
      Flask-Limiter
     </a>
-    <span>
-     &#9733 114, pushed 2 days ago
-    </span>
     - Flask-Limiter provides rate limiting features to flask routes
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 114, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 114, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Queue
@@ -941,9 +1163,6 @@
     <a href="https://github.com/mattupstate/flask-rq">
      Flask-RQ
     </a>
-    <span>
-     &#9733 108, pushed 249 days ago
-    </span>
     - RQ (Redis Queue) integration for Flask applications
    </li>
    <li>
@@ -953,6 +1172,12 @@
     - Distributed Task Queue
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 108, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 249 days ago
+  </sup>
  </li>
  <li>
   Payment
@@ -967,28 +1192,37 @@
     <a href="https://github.com/fengli/alipay_python">
      alipay_python
     </a>
-    <span>
-     &#9733 464, pushed 182 days ago
-    </span>
     - not a flask plugin now but you can integrate easily
+    <sup>
+     140 GitHub links in total 196 links, ★ 464, pushed 182 days ago
+    </sup>
+    <sup>
+     &#9733 464, pushed 182 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jdiez17/flask-paypal">
      flask-paypal
     </a>
-    <span>
-     &#9733 34, pushed 1219 days ago
-    </span>
     - PayPal integration example with Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 34, pushed 1219 days ago
+    </sup>
+    <sup>
+     &#9733 34, pushed 1219 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maxcountryman/flask-wepay">
      Flask-WePay
     </a>
-    <span>
-     &#9733 5, pushed 1641 days ago
-    </span>
     - A Flask wrapper for WePay's Python API
+    <sup>
+     140 GitHub links in total 196 links, ★ 5, pushed 1641 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 1641 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -999,9 +1233,6 @@
     <a href="https://github.com/getsentry/raven-python">
      Raven
     </a>
-    <span>
-     &#9733 942, pushed 4 days ago
-    </span>
     - Raven is a Python client for
     <a href="https://www.getsentry.com/">
      Sentry
@@ -1009,6 +1240,12 @@
     .
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 942, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 942, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Metrics Tracking
@@ -1017,57 +1254,75 @@
     <a href="https://github.com/ashcrow/flask-track-usage">
      flask-track-usage
     </a>
-    <span>
-     &#9733 22, pushed 261 days ago
-    </span>
     - Basic metrics tracking for the Flask framework
    </li>
    <li>
     <a href="https://github.com/srounet/Flask-Analytics">
      Flask-Analytics
     </a>
-    <span>
-     &#9733 15, pushed 1612 days ago
-    </span>
     - A Flask extention that provide user navigation tracking
+    <sup>
+     140 GitHub links in total 196 links, ★ 15, pushed 1612 days ago
+    </sup>
+    <sup>
+     &#9733 15, pushed 1612 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/marksteve/flask-stathat">
      Flask-StatHat
     </a>
-    <span>
-     &#9733 8, pushed 642 days ago
-    </span>
     - StatHat extension for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 8, pushed 642 days ago
+    </sup>
+    <sup>
+     &#9733 8, pushed 642 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Cue/scales">
      scales
     </a>
-    <span>
-     &#9733 853, pushed 33 days ago
-    </span>
     - Metrics for Python
+    <sup>
+     140 GitHub links in total 196 links, ★ 853, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 853, pushed 34 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/closeio/flask-tracking">
      flask-tracking
     </a>
-    <span>
-     &#9733 26, pushed 231 days ago
-    </span>
     - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
+    <sup>
+     140 GitHub links in total 196 links, ★ 26, pushed 231 days ago
+    </sup>
+    <sup>
+     &#9733 26, pushed 231 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/citruspi/Flask-Analytics">
      Flask-Analytics
     </a>
-    <span>
-     &#9733 28, pushed 3 days ago
-    </span>
     - Analytics snippets generator extension for the Flask framework.
+    <sup>
+     140 GitHub links in total 196 links, ★ 28, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 28, pushed 3 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 22, pushed 261 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 261 days ago
+  </sup>
  </li>
  <li>
   Other SDK
@@ -1076,37 +1331,43 @@
     <a href="https://github.com/rochacbruno/Flask-GoogleMaps">
      Flask-GoogleMaps
     </a>
-    <span>
-     &#9733 147, pushed 78 days ago
-    </span>
     - Build and embed google maps in our Flask templates
    </li>
    <li>
     <a href="https://github.com/playpauseandstop/Flask-Dropbox">
      Flask-Dropbox
     </a>
-    <span>
-     &#9733 50, pushed 1049 days ago
-    </span>
     - Dropbox Python SDK support for Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 50, pushed 1049 days ago
+    </sup>
+    <sup>
+     &#9733 50, pushed 1049 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kennethreitz/flask-heroku">
      Flask-Heroku
     </a>
-    <span>
-     &#9733 191, pushed 40 days ago
-    </span>
     - Heroku environment variable configurations for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 191, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 191, pushed 40 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/zzzsochi/Flask-Gravatar">
      Flask-Gravatar
     </a>
-    <span>
-     &#9733 53, pushed 407 days ago
-    </span>
     - Small and simple gravatar usage in Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 53, pushed 407 days ago
+    </sup>
+    <sup>
+     &#9733 53, pushed 407 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/SimonSapin/Flask-WeasyPrint">
@@ -1118,30 +1379,45 @@
     <a href="https://github.com/whtsky/Flask-WeRoBot">
      Flask-WeRoBot
     </a>
-    <span>
-     &#9733 21, pushed 50 days ago
-    </span>
     - Adds WeRoBot support to Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 21, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 21, pushed 50 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/iurisilvio/Flask-Pusher">
      Flask-Pusher
     </a>
-    <span>
-     &#9733 2, pushed 360 days ago
-    </span>
     - Pusher integration for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 2, pushed 360 days ago
+    </sup>
+    <sup>
+     &#9733 2, pushed 360 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Bekt/flask-pusher">
      flask-pusher
     </a>
-    <span>
-     &#9733 6, pushed 268 days ago
-    </span>
     - Pusher support for your Flask application
+    <sup>
+     140 GitHub links in total 196 links, ★ 6, pushed 268 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 268 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 147, pushed 78 days ago
+  </sup>
+  <sup>
+   &#9733 147, pushed 78 days ago
+  </sup>
  </li>
  <li>
   Frontend (Asset Pipeline/CDN)
@@ -1150,91 +1426,115 @@
     <a href="https://github.com/bradwright/flask-mustachejs">
      Flask-Mustache
     </a>
-    <span>
-     &#9733 25, pushed 966 days ago
-    </span>
     - Mustache template integration with Flask
    </li>
    <li>
     <a href="https://github.com/dag/flask-genshi">
      Flask-Genshi
     </a>
-    <span>
-     &#9733 14, pushed 1650 days ago
-    </span>
     - Genshi templating for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 14, pushed 1650 days ago
+    </sup>
+    <sup>
+     &#9733 14, pushed 1650 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/benselme/flask-mako">
      flask-mako
     </a>
-    <span>
-     &#9733 25, pushed 78 days ago
-    </span>
     - Provides support for Mako Templates in Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 25, pushed 78 days ago
+    </sup>
+    <sup>
+     &#9733 25, pushed 78 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dcolish/flask-markdown">
      Flask-Markdown
     </a>
-    <span>
-     &#9733 81, pushed 304 days ago
-    </span>
     - Markdown jinja2 extension for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 81, pushed 304 days ago
+    </sup>
+    <sup>
+     &#9733 81, pushed 304 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/spantaleev/flask-sijax">
      Flask-Sijax
     </a>
-    <span>
-     &#9733 74, pushed 460 days ago
-    </span>
     - An extension for the Flask microframework that adds Sijax support
+    <sup>
+     140 GitHub links in total 196 links, ★ 74, pushed 460 days ago
+    </sup>
+    <sup>
+     &#9733 74, pushed 460 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jmcarp/flask-apispec">
      flask-apispec
     </a>
-    <span>
-     &#9733 134, pushed 92 days ago
-    </span>
     - simple self-documenting APIs with flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 134, pushed 92 days ago
+    </sup>
+    <sup>
+     &#9733 134, pushed 92 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/miracle2k/flask-assets">
      flask-assets
     </a>
-    <span>
-     &#9733 262, pushed 140 days ago
-    </span>
     - Flask webassets integration
+    <sup>
+     140 GitHub links in total 196 links, ★ 262, pushed 140 days ago
+    </sup>
+    <sup>
+     &#9733 262, pushed 141 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rehandalal/flask-funnel">
      flask-funnel
     </a>
-    <span>
-     &#9733 20, pushed 705 days ago
-    </span>
     - Better asset management for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 20, pushed 705 days ago
+    </sup>
+    <sup>
+     &#9733 20, pushed 705 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/marshmallow-code/flask-marshmallow">
      flask-marshmallow
     </a>
-    <span>
-     &#9733 140, pushed 3 days ago
-    </span>
     Flask + marshmallow for beautiful APIs
+    <sup>
+     140 GitHub links in total 196 links, ★ 140, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 140, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jaysonsantos/jinja-assets-compressor">
      jinja-assets-compressor
     </a>
-    <span>
-     &#9733 36, pushed 4 days ago
-    </span>
     - A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets
+    <sup>
+     140 GitHub links in total 196 links, ★ 36, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dantezhu/flask_util_js">
@@ -1244,57 +1544,81 @@
      </em>
      js
     </a>
-    <span>
-     &#9733 24, pushed 403 days ago
-    </span>
     - flask's util in javascript. such as url_for etc
+    <sup>
+     140 GitHub links in total 196 links, ★ 24, pushed 403 days ago
+    </sup>
+    <sup>
+     &#9733 24, pushed 403 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/e-dard/flask-s3">
      flask-s3
     </a>
-    <span>
-     &#9733 86, pushed 5 days ago
-    </span>
     - Seamlessly serve your static assets of your Flask app from Amazon S3
+    <sup>
+     140 GitHub links in total 196 links, ★ 86, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 86, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kennethreitz/flask-sslify">
      Flask-SSLify
     </a>
-    <span>
-     &#9733 305, pushed 78 days ago
-    </span>
     - Force SSL on your Flask app
+    <sup>
+     140 GitHub links in total 196 links, ★ 305, pushed 78 days ago
+    </sup>
+    <sup>
+     &#9733 305, pushed 78 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/closeio/Flask-gzip">
      Flask-gzip
     </a>
-    <span>
-     &#9733 44, pushed 83 days ago
-    </span>
     - Gzip flask responses
+    <sup>
+     140 GitHub links in total 196 links, ★ 44, pushed 83 days ago
+    </sup>
+    <sup>
+     &#9733 44, pushed 83 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/hamidfzm/Flask-HTMLmin">
      Flask-HTMLmin
     </a>
-    <span>
-     &#9733 5, pushed 34 days ago
-    </span>
     - Flask html minifier
+    <sup>
+     140 GitHub links in total 196 links, ★ 5, pushed 34 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 34 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alejoar/Flask-Azure-Storage">
      Flask-Azure-Storage
     </a>
-    <span>
-     &#9733 0, pushed 45 days ago
-    </span>
     - Flask extension that provides integration with Azure Storage
+    <sup>
+     140 GitHub links in total 196 links, ★ 0, pushed 45 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 45 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 25, pushed 966 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 966 days ago
+  </sup>
  </li>
  <li>
   Development (Debugging/Testing/AB Testing)
@@ -1303,19 +1627,19 @@
     <a href="https://github.com/muatik/flask-profiler">
      flask_profiler
     </a>
-    <span>
-     &#9733 194, pushed 15 days ago
-    </span>
     - endpoint analyzer/profiler for Flask
    </li>
    <li>
     <a href="https://github.com/jarus/flask-testing">
      Flask-Testing
     </a>
-    <span>
-     &#9733 222, pushed 74 days ago
-    </span>
     - Unittest extensions for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 222, pushed 74 days ago
+    </sup>
+    <sup>
+     &#9733 222, pushed 74 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel">
@@ -1325,19 +1649,25 @@
      </em>
      lineprofilerpanel
     </a>
-    <span>
-     &#9733 38, pushed 927 days ago
-    </span>
     - Line Profiler Panel for Flask Debug Toolbar
+    <sup>
+     140 GitHub links in total 196 links, ★ 38, pushed 927 days ago
+    </sup>
+    <sup>
+     &#9733 38, pushed 927 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mgood/flask-debugtoolbar">
      Flask-DebugToolbar
     </a>
-    <span>
-     &#9733 455, pushed 244 days ago
-    </span>
     - A port of the django debug toolbar to flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 455, pushed 244 days ago
+    </sup>
+    <sup>
+     &#9733 455, pushed 244 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cenkalti/flask-debug-toolbar-mongo">
@@ -1349,39 +1679,57 @@
     <a href="https://github.com/vitalk/pytest-flask">
      pytest-flask
     </a>
-    <span>
-     &#9733 53, pushed 39 days ago
-    </span>
     - A set of pytest fixtures to test Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 53, pushed 39 days ago
+    </sup>
+    <sup>
+     &#9733 53, pushed 39 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/numberly/flask2postman">
      flask2postman
     </a>
-    <span>
-     &#9733 36, pushed 13 days ago
-    </span>
     - Generate a Postman collection from your Flask application
+    <sup>
+     140 GitHub links in total 196 links, ★ 36, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rochacbruno/flasgger">
      Flasgger
     </a>
-    <span>
-     &#9733 75, pushed 25 days ago
-    </span>
     - Create API documentation for Flask views using Swagger 2.0 specs
+    <sup>
+     140 GitHub links in total 196 links, ★ 75, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 75, pushed 25 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rantav/flask-restful-swagger">
      flask-restful-swagger
     </a>
-    <span>
-     &#9733 257, pushed 29 days ago
-    </span>
     - A wrapper for flask-restful which enables swagger support
+    <sup>
+     140 GitHub links in total 196 links, ★ 257, pushed 29 days ago
+    </sup>
+    <sup>
+     &#9733 257, pushed 29 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 194, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 194, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Utils
@@ -1390,173 +1738,230 @@
     <a href="https://github.com/smurfix/flask-script">
      Flask-Script
     </a>
-    <span>
-     &#9733 400, pushed 20 days ago
-    </span>
     - Flask extension to help writing external scripts for Flask applications
    </li>
    <li>
     <a href="https://github.com/jpvanhal/flask-split">
      Flask-Split
     </a>
-    <span>
-     &#9733 73, pushed 285 days ago
-    </span>
     - A/B testing for your Flask application
+    <sup>
+     140 GitHub links in total 196 links, ★ 73, pushed 285 days ago
+    </sup>
+    <sup>
+     &#9733 73, pushed 285 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cenobites/flask-jsonrpc">
      flask-jsonrpc
     </a>
-    <span>
-     &#9733 73, pushed 103 days ago
-    </span>
     - A basic JSON-RPC implementation for your Flask-powered sites
+    <sup>
+     140 GitHub links in total 196 links, ★ 73, pushed 103 days ago
+    </sup>
+    <sup>
+     &#9733 73, pushed 103 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maxcountryman/flask-bcrypt">
      Flask-Bcrypt
     </a>
-    <span>
-     &#9733 135, pushed 211 days ago
-    </span>
     - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
+    <sup>
+     140 GitHub links in total 196 links, ★ 135, pushed 211 days ago
+    </sup>
+    <sup>
+     &#9733 135, pushed 211 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dpgaspar/Flask-AppBuilder">
      Flask-AppBuilder
     </a>
-    <span>
-     &#9733 535, pushed 17 days ago
-    </span>
     - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
+    <sup>
+     140 GitHub links in total 196 links, ★ 535, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 535, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/klen/mixer">
      Mixer
     </a>
-    <span>
-     &#9733 299, pushed 14 days ago
-    </span>
     - Mixer is application to generate instances of Django or SQLAlchemy models
+    <sup>
+     140 GitHub links in total 196 links, ★ 299, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 299, pushed 15 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sungmin-park/FlaskEx">
      FlaskEx
     </a>
-    <span>
-     &#9733 0, pushed 19 days ago
-    </span>
     - Predefined help libraries for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 0, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/martinblech/mimerender">
      mimerender
     </a>
-    <span>
-     &#9733 159, pushed 70 days ago
-    </span>
     - Python module for RESTful HTTP Content Negotiation
+    <sup>
+     140 GitHub links in total 196 links, ★ 159, pushed 70 days ago
+    </sup>
+    <sup>
+     &#9733 159, pushed 70 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/apiguy/flask-classy">
      Flask-Classy
     </a>
-    <span>
-     &#9733 406, pushed 73 days ago
-    </span>
     - Class based views for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 406, pushed 73 days ago
+    </sup>
+    <sup>
+     &#9733 406, pushed 73 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mattupstate/flask-principal">
      Flask-Principal
     </a>
-    <span>
-     &#9733 263, pushed 315 days ago
-    </span>
     - Identity management for Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 263, pushed 315 days ago
+    </sup>
+    <sup>
+     &#9733 263, pushed 315 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lepture/flask-shorturl">
      Flask-ShortUrl
     </a>
-    <span>
-     &#9733 17, pushed 75 days ago
-    </span>
     - Short URL generator for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 17, pushed 75 days ago
+    </sup>
+    <sup>
+     &#9733 17, pushed 75 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/trustrachel/Flask-FeatureFlags">
      Flask-FeatureFlags
     </a>
-    <span>
-     &#9733 71, pushed 89 days ago
-    </span>
     - A Flask extension that enables or disables features based on configuration
+    <sup>
+     140 GitHub links in total 196 links, ★ 71, pushed 89 days ago
+    </sup>
+    <sup>
+     &#9733 71, pushed 89 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wbolster/flask-uuid">
      Flask-UUID
     </a>
-    <span>
-     &#9733 19, pushed 958 days ago
-    </span>
     - UUID url converter for Flask routes
+    <sup>
+     140 GitHub links in total 196 links, ★ 19, pushed 958 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 958 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rhyselsmore/flask-reggie">
      Flask-Reggie
     </a>
-    <span>
-     &#9733 33, pushed 1030 days ago
-    </span>
     - Regex Converter for Flask URL Routes
+    <sup>
+     140 GitHub links in total 196 links, ★ 33, pushed 1030 days ago
+    </sup>
+    <sup>
+     &#9733 33, pushed 1030 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/miguelgrinberg/Flask-SocketIO">
      Flask-SocketIO
     </a>
-    <span>
-     &#9733 968, pushed 53 days ago
-    </span>
     - Socket.IO integration for Flask applications
+    <sup>
+     140 GitHub links in total 196 links, ★ 968, pushed 53 days ago
+    </sup>
+    <sup>
+     &#9733 968, pushed 53 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/miguelgrinberg/Flask-Moment">
      Flask-Moment
     </a>
-    <span>
-     &#9733 82, pushed 71 days ago
-    </span>
     - Formatting of dates and times in Flask templates using moment.js
+    <sup>
+     140 GitHub links in total 196 links, ★ 82, pushed 71 days ago
+    </sup>
+    <sup>
+     &#9733 82, pushed 71 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lixxu/flask-paginate">
      Flask-Paginate
     </a>
-    <span>
-     &#9733 79, pushed 143 days ago
-    </span>
     - Pagination support for Flask
+    <sup>
+     140 GitHub links in total 196 links, ★ 79, pushed 143 days ago
+    </sup>
+    <sup>
+     &#9733 79, pushed 143 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/corydolphin/flask-cors">
      Flask-CORS
     </a>
-    <span>
-     &#9733 168, pushed 2 days ago
-    </span>
     - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
+    <sup>
+     140 GitHub links in total 196 links, ★ 168, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 168, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vitalk/flask-styleguide">
      Flask-Styleguide
     </a>
-    <span>
-     &#9733 24, pushed 41 days ago
-    </span>
     - A living Styleguide for your Flask application
+    <sup>
+     140 GitHub links in total 196 links, ★ 24, pushed 41 days ago
+    </sup>
+    <sup>
+     &#9733 24, pushed 41 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   140 GitHub links in total 196 links, ★ 400, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 400, pushed 20 days ago
+  </sup>
  </li>
 </ul>

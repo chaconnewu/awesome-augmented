@@ -299,9 +299,6 @@
    <a href="https://github.com/ruedigergad/clj-net-pcap">
     clj-net-pcap
    </a>
-   <span>
-    &#9733 19, pushed 114 days ago
-   </span>
    :
    <code>
     clj-net-pcap
@@ -312,6 +309,12 @@
    </a>
    was published in scope of COMPSACW 2014.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 19, pushed 114 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 114 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -326,11 +329,14 @@
    <a href="https://github.com/aol/moloch">
     Moloch
    </a>
-   <span>
-    &#9733 1389, pushed 11 days ago
-   </span>
    : Moloch is a open source large scale full PCAP capturing, indexing and database system.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 1389, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1389, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -360,23 +366,25 @@
   </p>
  </li>
 </ul>
-RING is a new type of network socket that dramatically improves the packet capture speed. Available for Linux kernels 2.6.32 and newer. No need to patch the kernel. PF_RING-aware drivers for increased packet capture acceleration.
-<li>
- <p>
-  <a href="http://www.csl.sony.co.jp/person/kjc/kjc/software.html#ttt">
-   TTT
-  </a>
-  : (Tele Traffic Tapper) is yet another descendant of tcpdump but it is capable of real-time, graphical, and remote traffic-monitoring. ttt won't replace tcpdump, rather, it helps you find out what to look into with tcpdump. ttt monitors the network and automatically picks up the main contributors of the traffic within the time window. The graphs are updated every second by default.
- </p>
-</li>
-<li>
- <p>
-  <a href="https://tools.netsa.cert.org/yaf/yaf.html">
-   Yaf
-  </a>
-  : It's a reliable piece of software, quite solid and able to generate flow records from pcap. This is very nice for indexing huge pcap or even doing packet capture. The recent version can even extract payloads and put in the flow records.
- </p>
-</li>
+<p>
+ RING is a new type of network socket that dramatically improves the packet capture speed. Available for Linux kernels 2.6.32 and newer. No need to patch the kernel. PF_RING-aware drivers for increased packet capture acceleration.
+ <li>
+  <p>
+   <a href="http://www.csl.sony.co.jp/person/kjc/kjc/software.html#ttt">
+    TTT
+   </a>
+   : (Tele Traffic Tapper) is yet another descendant of tcpdump but it is capable of real-time, graphical, and remote traffic-monitoring. ttt won't replace tcpdump, rather, it helps you find out what to look into with tcpdump. ttt monitors the network and automatically picks up the main contributors of the traffic within the time window. The graphs are updated every second by default.
+  </p>
+ </li>
+ <li>
+  <p>
+   <a href="https://tools.netsa.cert.org/yaf/yaf.html">
+    Yaf
+   </a>
+   : It's a reliable piece of software, quite solid and able to generate flow records from pcap. This is very nice for indexing huge pcap or even doing packet capture. The recent version can even extract payloads and put in the flow records.
+  </p>
+ </li>
+</p>
 <h2>
  Traffic Analysis/Inspection
  <a name="analysis">
@@ -404,22 +412,28 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/omriher/CapTipper">
     CapTipper
    </a>
-   <span>
-    &#9733 320, pushed 271 days ago
-   </span>
    : Malicious HTTP traffic explorer
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 320, pushed 271 days ago
+  </sup>
+  <sup>
+   &#9733 320, pushed 271 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/MITRECND/chopshop">
     Chopshop
    </a>
-   <span>
-    &#9733 228, pushed 7 days ago
-   </span>
    : is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 228, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 228, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -466,11 +480,14 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/caesar0301/http-sniffer">
     HttpSniffer
    </a>
-   <span>
-    &#9733 60, pushed 225 days ago
-   </span>
    : A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 60, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -565,33 +582,42 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/andrewf/pcap2har">
     Pcap2har
    </a>
-   <span>
-    &#9733 130, pushed 242 days ago
-   </span>
    : A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 130, pushed 242 days ago
+  </sup>
+  <sup>
+   &#9733 130, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/caesar0301/pkt2flow">
     pkt2flow
    </a>
-   <span>
-    &#9733 35, pushed 722 days ago
-   </span>
    : A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 35, pushed 722 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 722 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/CIRCL/potiron">
     potiron
    </a>
-   <span>
-    &#9733 13, pushed 251 days ago
-   </span>
    : Normalizes, indexes, enriches and visualizes network captures.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 13, pushed 251 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 251 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -662,15 +688,18 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/simsong/tcpflow">
     Tcpflow
    </a>
-   <span>
-    &#9733 516, pushed 98 days ago
-   </span>
    : A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis.
    <a href="http://www.circlemud.org/jelson/software/tcpflow/">
     Original link
    </a>
    .
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 516, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 516, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -777,22 +806,28 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/kevthehermit/YaraPcap">
     yaraPcap
    </a>
-   <span>
-    &#9733 33, pushed 1009 days ago
-   </span>
    : Process HTTP Pcaps With YARA
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 33, pushed 1009 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 1009 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/MITRECND/yaraprocessor">
     yaraprocessor
    </a>
-   <span>
-    &#9733 55, pushed 560 days ago
-   </span>
    : With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 55, pushed 560 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 560 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -893,22 +928,28 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/vikwin/pcapfex">
     pcapfex
    </a>
-   <span>
-    &#9733 11, pushed 62 days ago
-   </span>
    - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 11, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/sleuthkit/scalpel">
     scalpel
    </a>
-   <span>
-    &#9733 103, pushed 162 days ago
-   </span>
    : Scalpel is an open source data carving tool.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 103, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -986,11 +1027,14 @@ RING is a new type of network socket that dramatically improves the packet captu
    <a href="https://github.com/RIPE-NCC/hadoop-pcap">
     RIPE-NCC Hadoop for PCAP
    </a>
-   <span>
-    &#9733 142, pushed 3 days ago
-   </span>
    : A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
   </p>
+  <sup>
+   14 GitHub links in total 105 links, ★ 142, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 142, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <p>

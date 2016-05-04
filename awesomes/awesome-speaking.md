@@ -25,10 +25,13 @@
   <a href="https://github.com/JanVanRyswyck/awesome-talks">
    awesome-talks
   </a>
-  <span>
-   &#9733 1167, pushed 23 days ago
-  </span>
   - a collection of awesome tech talks
+  <sup>
+   3 GitHub links in total 21 links, ★ 1167, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 1167, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="http://nextspeaker.io/">
@@ -207,25 +210,31 @@
   <a href="https://github.com/sindresorhus/awesome">
    Awsome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   - A collection of awesome things curated by
   <strong>
    Sindre Sorhus
   </strong>
+  <sup>
+   3 GitHub links in total 21 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterkokot/awesome-community">
    Awesome Community
   </a>
-  <span>
-   &#9733 32, pushed 54 days ago
-  </span>
   - A collection of awesome communities curated by
   <strong>
    Peter Kokot
   </strong>
+  <sup>
+   3 GitHub links in total 21 links, ★ 32, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 54 days ago
+  </sup>
  </li>
 </ul>
 <h1>

@@ -482,10 +482,13 @@
   <a href="https://github.com/allenwong/30DaysofSwift">
    30 Days of Swift
   </a>
-  <span>
-   &#9733 6786, pushed 8 days ago
-  </span>
   - A cool 30 days tutorial for swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 6786, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 6786, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.enekoalonso.com/projects/99-swift-problems/">
@@ -497,19 +500,25 @@
   <a href="https://github.com/GoThinkster/swift">
    A better way to learn Swift
   </a>
-  <span>
-   &#9733 242, pushed 175 days ago
-  </span>
   - Learn Swift in a different way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 242, pushed 175 days ago
+  </sup>
+  <sup>
+   &#9733 242, pushed 175 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hsavit1/Awesome-Swift-Education">
    Awesome Swift Education
   </a>
-  <span>
-   &#9733 4475, pushed 23 days ago
-  </span>
   - An organized list of essential Swift Language Topics
+  <sup>
+   606 GitHub links in total 704 links, ★ 4475, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 4475, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099">
@@ -537,10 +546,13 @@
   <a href="https://github.com/nettlep/learn-swift">
    Learn Swift
   </a>
-  <span>
-   &#9733 652, pushed 128 days ago
-  </span>
   - a collection of tuts that will help you learning Swift via playground.
+  <sup>
+   606 GitHub links in total 704 links, ★ 652, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 652, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.natashatherobot.com/">
@@ -552,10 +564,13 @@
   <a href="https://github.com/domenicosolazzo/practice-swift">
    Practice Swift
   </a>
-  <span>
-   &#9733 127, pushed 2 days ago
-  </span>
   - an interesting guide to learn Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 127, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://community.rxswift.org/">
@@ -572,10 +587,13 @@
   <a href="https://github.com/lindadong/swift-a-day">
    Swift A Day
   </a>
-  <span>
-   &#9733 515, pushed 215 days ago
-  </span>
   - Daily swift experiments by Linda Dong.
+  <sup>
+   606 GitHub links in total 704 links, ★ 515, pushed 215 days ago
+  </sup>
+  <sup>
+   &#9733 515, pushed 215 days ago
+  </sup>
  </li>
  <li>
   <a href="http://swiftsandbox.io">
@@ -599,19 +617,25 @@
   <a href="https://github.com/jbrennan/swift-tips">
    Swift Tips
   </a>
-  <span>
-   &#9733 180, pushed 557 days ago
-  </span>
   - Swift tips collection.
+  <sup>
+   606 GitHub links in total 704 links, ★ 180, pushed 557 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 557 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vandadnp/swift-weekly">
    Swift-Weekly
   </a>
-  <span>
-   &#9733 735, pushed 73 days ago
-  </span>
   - Weekly Swift Language Gems, Tips and Tricks.
+  <sup>
+   606 GitHub links in total 704 links, ★ 735, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 735, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="http://swiftdoc.org/">
@@ -623,19 +647,25 @@
   <a href="https://github.com/ipader/SwiftGuide">
    SwiftGuide CN
   </a>
-  <span>
-   &#9733 8776, pushed 5 days ago
-  </span>
   - A Chinese written guide for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 8776, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 8776, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ksm/SwiftInFlux">
    SwiftInFlux
   </a>
-  <span>
-   &#9733 1935, pushed 152 days ago
-  </span>
   - A well explained list of feature in flux for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1935, pushed 152 days ago
+  </sup>
+  <sup>
+   &#9733 1935, pushed 152 days ago
+  </sup>
  </li>
  <li>
   <a href="https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617">
@@ -652,28 +682,37 @@
   <a href="https://github.com/github/swift-style-guide">
    GitHub
   </a>
-  <span>
-   &#9733 3128, pushed 25 days ago
-  </span>
   - Style guide & coding conventions for Swift projects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3128, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 3128, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raywenderlich/swift-style-guide">
    Raywenderlich
   </a>
-  <span>
-   &#9733 4519, pushed 5 days ago
-  </span>
   - Raywenderlich Swift guide, a must read.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4519, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4519, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SlideShareInc/swift-style-guide">
    SlideShare (LinkedIn)
   </a>
-  <span>
-   &#9733 78, pushed 26 days ago
-  </span>
   - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+  <sup>
+   606 GitHub links in total 704 links, ★ 78, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/schwa/Swift-Community-Best-Practices/">
@@ -690,28 +729,37 @@
   <a href="https://github.com/JeremyWeir/SwiftBoilerplate">
    SwiftBoilerplate
   </a>
-  <span>
-   &#9733 3, pushed 352 days ago
-  </span>
   - Swift boilerplate for communication between iOS app and watchKit.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 352 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 352 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/goprimer/swift-off">
    Swift Off
   </a>
-  <span>
-   &#9733 52, pushed 43 days ago
-  </span>
   - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
+  <sup>
+   606 GitHub links in total 704 links, ★ 52, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nabilfreeman/ios-universal-webview-boilerplate">
    Webview Boilerplate
   </a>
-  <span>
-   &#9733 743, pushed 35 days ago
-  </span>
   - Swift starting point for webview app.
+  <sup>
+   606 GitHub links in total 704 links, ★ 743, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 743, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -730,10 +778,13 @@
   <a href="https://github.com/chrisbarrett/swift-mode">
    swift-mode
   </a>
-  <span>
-   &#9733 169, pushed 96 days ago
-  </span>
   - Emacs Swift support, including partial flycheck error support.
+  <sup>
+   606 GitHub links in total 704 links, ★ 169, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 169, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -744,28 +795,37 @@
   <a href="https://github.com/keith/swift.vim">
    swift-vim
   </a>
-  <span>
-   &#9733 311, pushed 9 days ago
-  </span>
   - play Swift with vim editor.
+  <sup>
+   606 GitHub links in total 704 links, ★ 311, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 311, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sheerun/vim-polyglot">
    vim-polyglot
   </a>
-  <span>
-   &#9733 669, pushed 3 days ago
-  </span>
   - language pack for vim that includes vim-swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 669, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 669, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/toyamarinyon/vim-swift">
    vim-swift
   </a>
-  <span>
-   &#9733 346, pushed 140 days ago
-  </span>
   - adds Swift support to vim. It covers syntax, indenting, and more.
+  <sup>
+   606 GitHub links in total 704 links, ★ 346, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 346, pushed 140 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -795,28 +855,37 @@
   <a href="https://github.com/Carthage/Carthage">
    Carthage
   </a>
-  <span>
-   &#9733 6692, pushed 6 days ago
-  </span>
   - a new dependency manager for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 6692, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 6692, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CocoaPods/CocoaPods">
    CocoaPods
   </a>
-  <span>
-   &#9733 7777, pushed 3 days ago
-  </span>
   - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
+  <sup>
+   606 GitHub links in total 704 links, ★ 7777, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 7777, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apple/swift-package-manager">
    swift-package-manager
   </a>
-  <span>
-   &#9733 3977, pushed 2 days ago
-  </span>
   - SPM is the Package Manager for the Swift Programming Language.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3977, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3977, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -827,10 +896,13 @@
   <a href="https://github.com/ochococo/Design-Patterns-In-Swift">
    Design-Patterns-In-Swift
   </a>
-  <span>
-   &#9733 5777, pushed 7 days ago
-  </span>
   - Design Patterns implemented in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5777, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 5777, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -846,82 +918,109 @@
   <a href="https://github.com/cybertk/generator-swift-framework">
    generator-swift-framework
   </a>
-  <span>
-   &#9733 20, pushed 1 days ago
-  </span>
   - Scaffolds out a Xcode framework project based on Swift 2.0.
+  <sup>
+   606 GitHub links in total 704 links, ★ 20, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dasdom/InteractivePlayground">
    InteractivePlayground
   </a>
-  <span>
-   &#9733 29, pushed 88 days ago
-  </span>
   - A playground exploring the interactivity of Xcode 7.3 playgrounds.
+  <sup>
+   606 GitHub links in total 704 links, ★ 29, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MichaelBuckley/MAIKit">
    MAIKit
   </a>
-  <span>
-   &#9733 116, pushed 232 days ago
-  </span>
   - A framework for sharing code between iOS and OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 116, pushed 232 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 232 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulsamuels/SBConstants">
    sbconstants
   </a>
-  <span>
-   &#9733 255, pushed 27 days ago
-  </span>
   - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 255, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 255, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robb/swamp">
    swamp
   </a>
-  <span>
-   &#9733 81, pushed 180 days ago
-  </span>
   - Icon stamping in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 81, pushed 180 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 180 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/practicalswift/swift-compiler-crashes">
    swift-compiler-crashes
   </a>
-  <span>
-   &#9733 771, pushed 2 days ago
-  </span>
   - A collection of test cases crashing the Swift compiler.
+  <sup>
+   606 GitHub links in total 704 links, ★ 771, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 771, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/SwiftGen">
    SwiftGen
   </a>
-  <span>
-   &#9733 1881, pushed 15 days ago
-  </span>
   - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1881, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1881, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sahandnayebaziz/SwiftHub">
    SwiftHub
   </a>
-  <span>
-   &#9733 11, pushed 65 days ago
-  </span>
   - A universal app you can use to browse the newest Swift repositories on Github.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/snej/swiftier">
    swiftier
   </a>
-  <span>
-   &#9733 22, pushed 392 days ago
-  </span>
   - Quick-and-dirty Objective-C to Swift translator.
+  <sup>
+   606 GitHub links in total 704 links, ★ 22, pushed 392 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 392 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -945,100 +1044,133 @@
   <a href="https://github.com/storehouse/Advance">
    Advance
   </a>
-  <span>
-   &#9733 3368, pushed 27 days ago
-  </span>
   - A powerful animation framework for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3368, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 3368, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eure/Animo">
    Animo
   </a>
-  <span>
-   &#9733 74, pushed 64 days ago
-  </span>
   - SpriteKit-like animation builders for CALayers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 74, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/suguru/Cheetah">
    Cheetah
   </a>
-  <span>
-   &#9733 400, pushed 39 days ago
-  </span>
   - An animation library on iOS with Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 400, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 400, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Draveness/DKChainableAnimationKit">
    DKChainableAnimationKit
   </a>
-  <span>
-   &#9733 1480, pushed 21 days ago
-  </span>
   - Easy to read and write chainable animations in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1480, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1480, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/icanzilb/EasyAnimation">
    EasyAnimation
   </a>
-  <span>
-   &#9733 1832, pushed 3 days ago
-  </span>
   - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1832, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1832, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JakeLin/IBAnimatable">
    IBAnimatable
   </a>
-  <span>
-   &#9733 4049, pushed 1 days ago
-  </span>
   - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4049, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4049, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RamonGilabert/Morgan">
    Morgan
   </a>
-  <span>
-   &#9733 27, pushed 39 days ago
-  </span>
   - An always growing animation set.
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Presentation">
    Presentation
   </a>
-  <span>
-   &#9733 1448, pushed 14 days ago
-  </span>
   - A Swift library to help you to make tutorials, release notes and animated pages.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1448, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 1448, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shu223/pulsator">
    Pulsator
   </a>
-  <span>
-   &#9733 321, pushed 13 days ago
-  </span>
   - Pulse animation for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 321, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 321, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MengTo/Spring">
    Spring
   </a>
-  <span>
-   &#9733 7784, pushed 2 days ago
-  </span>
   - A library to simplify iOS animations in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 7784, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 7784, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RamonGilabert/Walker">
    Walker
   </a>
-  <span>
-   &#9733 45, pushed 37 days ago
-  </span>
   - An animation engine to make your animations easy and more readable.
+  <sup>
+   606 GitHub links in total 704 links, ★ 45, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 37 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1054,19 +1186,25 @@
   <a href="https://github.com/IanKeen/IKRouter">
    IKRouter
   </a>
-  <span>
-   &#9733 73, pushed 185 days ago
-  </span>
   - URLScheme router than supports auto creation of UIViewControllers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 73, pushed 185 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 185 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/devxoul/URLNavigator">
    URLNavigator
   </a>
-  <span>
-   &#9733 655, pushed 7 days ago
-  </span>
   - Elegant URL Routing for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 655, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 655, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1082,28 +1220,37 @@
   <a href="https://github.com/sandorgyulai/InAppFramework">
    InAppFw
   </a>
-  <span>
-   &#9733 20, pushed 74 days ago
-  </span>
   - In App Purchase Manager framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 20, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rpzzzzzz/SwiftInAppPurchase">
    SwiftInAppPurchase
   </a>
-  <span>
-   &#9733 13, pushed 84 days ago
-  </span>
   - A swift wrapper for iOS in app purchases.
+  <sup>
+   606 GitHub links in total 704 links, ★ 13, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bizz84/SwiftyStoreKit">
    SwiftyStoreKit
   </a>
-  <span>
-   &#9733 827, pushed 2 days ago
-  </span>
   - Lightweight In App Purchases Swift framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 827, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 827, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1119,46 +1266,61 @@
   <a href="https://github.com/delannoyk/AudioPlayer">
    AudioPlayer
   </a>
-  <span>
-   &#9733 109, pushed 2 days ago
-  </span>
   - A wrapper around AVPlayer with some cool features.
+  <sup>
+   606 GitHub links in total 704 links, ★ 109, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 109, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/recisio/AudioPlayerSwift">
    AudioPlayerSwift
   </a>
-  <span>
-   &#9733 25, pushed 9 days ago
-  </span>
   - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps
+  <sup>
+   606 GitHub links in total 704 links, ★ 25, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vadymmarkov/Beethoven">
    Beethoven
   </a>
-  <span>
-   &#9733 48, pushed 112 days ago
-  </span>
   - An audio processing Swift library for pitch detection of musical signals.
+  <sup>
+   606 GitHub links in total 704 links, ★ 48, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benzguo/MusicKit">
    MusicKit
   </a>
-  <span>
-   &#9733 341, pushed 204 days ago
-  </span>
   - A framework for composing and transforming music in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 341, pushed 204 days ago
+  </sup>
+  <sup>
+   &#9733 341, pushed 204 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/comyarzaheri/TuningFork">
    TuningFork
   </a>
-  <span>
-   &#9733 298, pushed 59 days ago
-  </span>
   - A Simple Tuner for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 298, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 298, pushed 59 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1174,10 +1336,13 @@
   <a href="https://github.com/rsattar/Voucher">
    Voucher
   </a>
-  <span>
-   &#9733 411, pushed 80 days ago
-  </span>
   - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
+  <sup>
+   606 GitHub links in total 704 links, ★ 411, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 411, pushed 80 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1193,82 +1358,109 @@
   <a href="https://github.com/AliSoftware/Dip">
    Dip
   </a>
-  <span>
-   &#9733 192, pushed 2 days ago
-  </span>
   - A simple Dependency Injection Container.
+  <sup>
+   606 GitHub links in total 704 links, ★ 192, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK">
    Federal Data SDK
   </a>
-  <span>
-   &#9733 34, pushed 18 days ago
-  </span>
   - Eases access to multiple federal government OpenGov APIs.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watsonbox/ios_google_places_autocomplete">
    GooglePlacesAutocomplete
   </a>
-  <span>
-   &#9733 176, pushed 71 days ago
-  </span>
   - Simple Google Places address entry for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 176, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 176, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/minhtule/PredictionIO-Swift-SDK">
    PredictionIO SDK
   </a>
-  <span>
-   &#9733 11, pushed 270 days ago
-  </span>
   - A convenient API to communicate with PredictionIO's Event Server and ML Engines.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 270 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 270 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/poulpix/PXGoogleDirections">
    PXGoogleDirections
   </a>
-  <span>
-   &#9733 103, pushed 58 days ago
-  </span>
   - Google Directions API helper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 103, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sonsongithub/reddift">
    reddift
   </a>
-  <span>
-   &#9733 61, pushed 9 days ago
-  </span>
   - reddit API wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 61, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattdonnelly/Swifter">
    Swifter Twitter
   </a>
-  <span>
-   &#9733 1577, pushed 2 days ago
-  </span>
   - Swifter Twitter framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1577, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1577, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Swinject/Swinject">
    Swinject
   </a>
-  <span>
-   &#9733 674, pushed 7 days ago
-  </span>
   - A dependency injection framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 674, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 674, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/appsquickly/Typhoon">
    Typhoon
   </a>
-  <span>
-   &#9733 1793, pushed 1 days ago
-  </span>
   - Dependency injection toolkit in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1793, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1793, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1282,19 +1474,25 @@
   <a href="https://github.com/troystribling/BlueCap">
    BlueCap
   </a>
-  <span>
-   &#9733 230, pushed 2 days ago
-  </span>
   - BlueCap provides a swift wrapper around CoreBluetooth and much more.
+  <sup>
+   606 GitHub links in total 704 links, ★ 230, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 230, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rasmusth/BluetoothKit">
    BluetoothKit
   </a>
-  <span>
-   &#9733 1008, pushed 82 days ago
-  </span>
   - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1008, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 1008, pushed 82 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1310,19 +1508,25 @@
   <a href="https://github.com/AlexLittlejohn/ALCameraViewController">
    ALCameraViewController
   </a>
-  <span>
-   &#9733 918, pushed 13 days ago
-  </span>
   - Camera view controller with custom image picker and image cropping.
+  <sup>
+   606 GitHub links in total 704 links, ★ 918, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 918, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ytakzk/Fusuma">
    Fusuma
   </a>
-  <span>
-   &#9733 694, pushed 17 days ago
-  </span>
   - Instagram-like photo browser and a camera feature.
+  <sup>
+   606 GitHub links in total 704 links, ★ 694, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 694, pushed 17 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1338,10 +1542,13 @@
   <a href="https://github.com/badoo/Chatto">
    Chatto
   </a>
-  <span>
-   &#9733 1850, pushed 11 days ago
-  </span>
   - A lightweight framework to build chat applications, made in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1850, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1850, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1357,91 +1564,121 @@
   <a href="https://github.com/tadija/AEConicalGradient">
    AEConicalGradient
   </a>
-  <span>
-   &#9733 8, pushed 177 days ago
-  </span>
   - Conical (angular) gradient in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 8, pushed 177 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 177 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ViccAlexander/Chameleon">
    Chameleon
   </a>
-  <span>
-   &#9733 5880, pushed 7 days ago
-  </span>
   - Chameleon is a lightweight, yet powerful, color framework for iOS (Objective-C & Swift).
+  <sup>
+   606 GitHub links in total 704 links, ★ 5880, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 5880, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/icodeforlove/Colors">
    Colors
   </a>
-  <span>
-   &#9733 16, pushed 303 days ago
-  </span>
   - A pure Swift library for using ANSI codes.
+  <sup>
+   606 GitHub links in total 704 links, ★ 16, pushed 303 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 303 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yannickl/DynamicColor">
    DynamicColor
   </a>
-  <span>
-   &#9733 1181, pushed 41 days ago
-  </span>
   - An extension to manipulate colors in Swift easily.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1181, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 1181, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brynbellomy/FlatUIColors">
    FlatUIColors
   </a>
-  <span>
-   &#9733 92, pushed 114 days ago
-  </span>
   - Flat UI color palette in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 92, pushed 114 days ago
+  </sup>
+  <sup>
+   &#9733 92, pushed 114 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/katopz/google-material-color-swift">
    Google Material Color
   </a>
-  <span>
-   &#9733 34, pushed 110 days ago
-  </span>
   - Google Material Color Palette in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 110 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/artman/HexColor">
    HexColor
   </a>
-  <span>
-   &#9733 83, pushed 81 days ago
-  </span>
   - Define UIColors as Hex integers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 83, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Hue">
    Hue
   </a>
-  <span>
-   &#9733 1354, pushed 36 days ago
-  </span>
   - Hue is the all-in-one coloring utility that you'll ever need.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1354, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 1354, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jdhealy/PrettyColors">
    PrettyColors
   </a>
-  <span>
-   &#9733 119, pushed 30 days ago
-  </span>
   - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
+  <sup>
+   606 GitHub links in total 704 links, ★ 119, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 119, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onevcat/RandomColorSwift">
    RandomColorSwift
   </a>
-  <span>
-   &#9733 338, pushed 228 days ago
-  </span>
   - An attractive color generator for Swift (ported from randomColor.js).
+  <sup>
+   606 GitHub links in total 704 links, ★ 338, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 338, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/SwiftGen#uicolor">
@@ -1461,37 +1698,49 @@
   <a href="https://github.com/thii/SwiftHEXColors">
    SwiftHEXColors
   </a>
-  <span>
-   &#9733 342, pushed 30 days ago
-  </span>
   - HEX color handling as an extension for UIColor.
+  <sup>
+   606 GitHub links in total 704 links, ★ 342, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 342, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yeahdongcn/UIColor-Hex-Swift">
    UIColor-Hex-Swift
   </a>
-  <span>
-   &#9733 529, pushed 36 days ago
-  </span>
   - Hex to UIColor converter.
+  <sup>
+   606 GitHub links in total 704 links, ★ 529, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 529, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/daktales/UIColorWDUtils">
    UIColorWDUtils
   </a>
-  <span>
-   &#9733 2, pushed 564 days ago
-  </span>
   - Extension for Hex RGB(A).
+  <sup>
+   606 GitHub links in total 704 links, ★ 2, pushed 564 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 564 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shnhrrsn/ImagePalette">
    ImagePalette
   </a>
-  <span>
-   &#9733 9, pushed 16 days ago
-  </span>
   - Swift/iOS port of Android's Palette
+  <sup>
+   606 GitHub links in total 704 links, ★ 9, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1507,46 +1756,61 @@
   <a href="https://github.com/kylef/Commander">
    Commander
   </a>
-  <span>
-   &#9733 514, pushed 25 days ago
-  </span>
   🐧 - Compose beautiful command line interfaces in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 514, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 514, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jatoben/CommandLine">
    CommandLine
   </a>
-  <span>
-   &#9733 586, pushed 2 days ago
-  </span>
   🐧 - A pure Swift library for creating command-line interfaces.
+  <sup>
+   606 GitHub links in total 704 links, ★ 586, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 586, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phimage/Phiole">
    Phiole
   </a>
-  <span>
-   &#9733 8, pushed 161 days ago
-  </span>
   - Allow to write or read from standards stream in swift for CLI applications.
+  <sup>
+   606 GitHub links in total 704 links, ★ 8, pushed 161 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 161 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oarrabi/Swiftline">
    Swiftline
   </a>
-  <span>
-   &#9733 743, pushed 22 days ago
-  </span>
   - A set of tools to help you create command line applications.
+  <sup>
+   606 GitHub links in total 704 links, ★ 743, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 743, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scottrhoyt/SwiftyTextTable">
    SwiftyTextTable
   </a>
-  <span>
-   &#9733 38, pushed 39 days ago
-  </span>
   🐧 - A lightweight library to generate text tables.
+  <sup>
+   606 GitHub links in total 704 links, ★ 38, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 39 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1562,10 +1826,13 @@
   <a href="https://github.com/VeniceX/Venice">
    Venice
   </a>
-  <span>
-   &#9733 961, pushed 4 days ago
-  </span>
   🐧 - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+  <sup>
+   606 GitHub links in total 704 links, ★ 961, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 961, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1584,100 +1851,133 @@
   <a href="https://github.com/tadija/AERecord">
    AERecord
   </a>
-  <span>
-   &#9733 223, pushed 46 days ago
-  </span>
   - super awesome Core Data wrapper library for iOS written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 223, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alecrim/AlecrimCoreData">
    AlecrimCoreData
   </a>
-  <span>
-   &#9733 616, pushed 5 days ago
-  </span>
   - a simple CoreData wrapper library written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 616, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 616, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmfieldman/cadmium">
    Cadmium
   </a>
-  <span>
-   &#9733 42, pushed 9 days ago
-  </span>
   - A Swift framework that hides the complexity of managed object contexts.
+  <sup>
+   606 GitHub links in total 704 links, ★ 42, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Adlai-Holler/CoreDataOperation">
    CoreDataOperation
   </a>
-  <span>
-   &#9733 2, pushed 82 days ago
-  </span>
   - a safe, asynchronous CoreData operation class.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JohnEstropia/CoreStore">
    CoreStore
   </a>
-  <span>
-   &#9733 787, pushed 1 days ago
-  </span>
   - simple and elegant way to handle CoreData in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 787, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 787, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/terhechte/CoreValue">
    CoreValue
   </a>
-  <span>
-   &#9733 300, pushed 10 days ago
-  </span>
   - Lightweight Framework for using Core Data with Value Types.
+  <sup>
+   606 GitHub links in total 704 links, ★ 300, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 300, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CosmicMind/Graph">
    Graph
   </a>
-  <span>
-   &#9733 511, pushed 2 days ago
-  </span>
   - An elegant data-driven framework for CoreData in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 511, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 511, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jessesquires/JSQCoreDataKit">
    JSQCoreDataKit
   </a>
-  <span>
-   &#9733 277, pushed 4 days ago
-  </span>
   - A swifter Core Data stack.
+  <sup>
+   606 GitHub links in total 704 links, ★ 277, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 277, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/QueryKit/QueryKit">
    QueryKit
   </a>
-  <span>
-   &#9733 1145, pushed 65 days ago
-  </span>
   - an easy way to play with coredata filtering within your Swift projects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1145, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 1145, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pepibumur/SugarRecord">
    SugarRecord
   </a>
-  <span>
-   &#9733 1427, pushed 4 days ago
-  </span>
   - an easy with to work with coredata and realm.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1427, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1427, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/michaelarmstrong/SuperRecord">
    SuperRecord
   </a>
-  <span>
-   &#9733 385, pushed 80 days ago
-  </span>
   - A small set of utilities to make working with CoreData and Swift a bit easier.
+  <sup>
+   606 GitHub links in total 704 links, ★ 385, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 385, pushed 80 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1688,10 +1988,13 @@
   <a href="https://github.com/CosmicMind/Algorithm">
    Algorithm
   </a>
-  <span>
-   &#9733 306, pushed 2 days ago
-  </span>
   - A toolset for writing algorithms and probability models in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 306, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 306, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1702,19 +2005,25 @@
   <a href="https://github.com/realm/realm-cocoa">
    Realm
   </a>
-  <span>
-   &#9733 7132, pushed 2 days ago
-  </span>
   - Realm is a mobile database: a replacement for Core Data & SQLite (https://realm.io).
+  <sup>
+   606 GitHub links in total 704 links, ★ 7132, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 7132, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matthewcheok/Realm-JSON">
    Realm+JSON
   </a>
-  <span>
-   &#9733 504, pushed 59 days ago
-  </span>
   - A concise Mantle-like way of working with Realm and JSON.
+  <sup>
+   606 GitHub links in total 704 links, ★ 504, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 504, pushed 59 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1725,37 +2034,49 @@
   <a href="https://github.com/divadretlaw/CFileWrapper">
    CFileWrapper
   </a>
-  <span>
-   &#9733 4, pushed 149 days ago
-  </span>
   🐧 - Read/Write files in Swift without Foundation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marmelroy/FileBrowser">
    FileBrowser
   </a>
-  <span>
-   &#9733 689, pushed 40 days ago
-  </span>
   - Powerful Swift file browser for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 689, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 689, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvzqz/FileKit">
    FileKit
   </a>
-  <span>
-   &#9733 463, pushed 36 days ago
-  </span>
   - Simple and expressive file management in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 463, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 463, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kylef/PathKit">
    PathKit
   </a>
-  <span>
-   &#9733 565, pushed 29 days ago
-  </span>
   🐧 - Effortless path operations in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 565, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 565, pushed 29 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1771,244 +2092,325 @@
   <a href="https://github.com/evermeer/AlamofireJsonToObjects">
    AlamofireJsonToObjects
   </a>
-  <span>
-   &#9733 86, pushed 6 days ago
-  </span>
   - An Alamofire extension which converts JSON response data into swift objects using Reflection.
+  <sup>
+   606 GitHub links in total 704 links, ★ 86, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 86, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tristanhimmelman/AlamofireObjectMapper">
    AlamofireObjectMapper
   </a>
-  <span>
-   &#9733 734, pushed 34 days ago
-  </span>
   - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 734, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 734, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ra1028/Alembic">
    Alembic
   </a>
-  <span>
-   &#9733 9, pushed 3 days ago
-  </span>
   - Functional JSON parsing, mapping to objects, and serialize to JSON.
+  <sup>
+   606 GitHub links in total 704 links, ★ 9, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hodinkee/alexander">
    Alexander
   </a>
-  <span>
-   &#9733 35, pushed 35 days ago
-  </span>
   - An extremely simple JSON helper written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 35, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thoughtbot/Argo">
    Argo
   </a>
-  <span>
-   &#9733 2288, pushed 11 days ago
-  </span>
   - Json parsing library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2288, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 2288, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/s4cha/Arrow">
    Arrow 🏹
   </a>
-  <span>
-   &#9733 125, pushed 0 days ago
-  </span>
   - Elegant JSON Parsing in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 125, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Brick">
    Brick
   </a>
-  <span>
-   &#9733 19, pushed 7 days ago
-  </span>
   - A generic view model for both basic and complex scenarios.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Anviking/Decodable">
    Decodable
   </a>
-  <span>
-   &#9733 788, pushed 4 days ago
-  </span>
   🐧 - JSON parsing for Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 788, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 788, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evermeer/EVReflection">
    EVReflection
   </a>
-  <span>
-   &#9733 314, pushed 2 days ago
-  </span>
   - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable
+  <sup>
+   606 GitHub links in total 704 links, ★ 314, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 314, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LoganWright/Genome">
    Genome
   </a>
-  <span>
-   &#9733 657, pushed 5 days ago
-  </span>
   - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0.
+  <sup>
+   606 GitHub links in total 704 links, ★ 657, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 657, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hkellaway/Gloss">
    Gloss
   </a>
-  <span>
-   &#9733 782, pushed 3 days ago
-  </span>
   🐧 - shiny JSON parsing library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 782, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 782, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ikesyo/Himotoki">
    Himotoki
   </a>
-  <span>
-   &#9733 408, pushed 7 days ago
-  </span>
   - A type-safe JSON decoding library purely written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 408, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 408, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delba/JASON">
    JASON
   </a>
-  <span>
-   &#9733 679, pushed 2 days ago
-  </span>
   - JSON parsing with outstanding performances and convenient operators.
+  <sup>
+   606 GitHub links in total 704 links, ★ 679, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 679, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/owensd/json-swift">
    json-swift
   </a>
-  <span>
-   &#9733 711, pushed 56 days ago
-  </span>
   - A basic library for working with JSON in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 711, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 711, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matthewcheok/JSONCodable">
    JSONCodable
   </a>
-  <span>
-   &#9733 483, pushed 3 days ago
-  </span>
   - Hassle-free JSON encoding and decoding in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 483, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 483, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isair/JSONHelper">
    JSONHelper
   </a>
-  <span>
-   &#9733 763, pushed 15 days ago
-  </span>
   - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 763, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 763, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnlui/JSONNeverDie">
    JSONNeverDie
   </a>
-  <span>
-   &#9733 380, pushed 169 days ago
-  </span>
   - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
+  <sup>
+   606 GitHub links in total 704 links, ★ 380, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 380, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ovenbits/ModelRocket">
    ModelRocket
   </a>
-  <span>
-   &#9733 456, pushed 29 days ago
-  </span>
   - An iOS framework for creating JSON-based models.
+  <sup>
+   606 GitHub links in total 704 links, ★ 456, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 456, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Hearst-DD/ObjectMapper">
    ObjectMapper
   </a>
-  <span>
-   &#9733 3056, pushed 15 days ago
-  </span>
   - JSON object mapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3056, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 3056, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/felixjendrusch/Pistachio">
    Pistachio
   </a>
-  <span>
-   &#9733 161, pushed 174 days ago
-  </span>
   - Generic model framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 161, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 161, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PonyCui/PPJSONSerialization">
    PPJSONSerialization
   </a>
-  <span>
-   &#9733 32, pushed 167 days ago
-  </span>
   - Convert JSON string to Swift Class.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 167 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 167 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrap/SwiftJSONParser">
    SwiftJSONParser
   </a>
-  <span>
-   &#9733 58, pushed 143 days ago
-  </span>
   - JSON parser.
+  <sup>
+   606 GitHub links in total 704 links, ★ 58, pushed 143 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 143 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kam800/SwiftMapper">
    SwiftMapper
   </a>
-  <span>
-   &#9733 129, pushed 659 days ago
-  </span>
   - JSON Mapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 129, pushed 659 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 659 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftyJSON/SwiftyJSON">
    SwiftyJSON
   </a>
-  <span>
-   &#9733 9902, pushed 7 days ago
-  </span>
   🐧 - A lib for JSON in Swift with error handling.
+  <sup>
+   606 GitHub links in total 704 links, ★ 9902, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 9902, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zenangst/Tailor">
    Tailor
   </a>
-  <span>
-   &#9733 104, pushed 8 days ago
-  </span>
   - A super fast & convenient object mapper tailored for your needs.
+  <sup>
+   606 GitHub links in total 704 links, ★ 104, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 104, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JohnSundell/Unbox">
    Unbox
   </a>
-  <span>
-   &#9733 624, pushed 3 days ago
-  </span>
   - The easy to use Swift JSON decoder.
+  <sup>
+   606 GitHub links in total 704 links, ★ 624, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 624, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behrang/YamlSwift">
    YamlSwift
   </a>
-  <span>
-   &#9733 99, pushed 46 days ago
-  </span>
   - Load YAML and JSON documents using Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 99, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 46 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2019,55 +2421,73 @@
   <a href="https://github.com/symentis/Palau">
    Palau
   </a>
-  <span>
-   &#9733 116, pushed 2 days ago
-  </span>
   - Swift based typesafe NSUserDefaults with custom rules.
+  <sup>
+   606 GitHub links in total 704 links, ★ 116, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phimage/Prephirences">
    Prephirences
   </a>
-  <span>
-   &#9733 343, pushed 35 days ago
-  </span>
   - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+  <sup>
+   606 GitHub links in total 704 links, ★ 343, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 343, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftKitz/Storez">
    Storez
   </a>
-  <span>
-   &#9733 34, pushed 79 days ago
-  </span>
   -  Safe, statically-typed, store-agnostic key-value storage.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hemantasapkota/SwiftStore">
    SwiftStore
   </a>
-  <span>
-   &#9733 19, pushed 34 days ago
-  </span>
   - A Key-Value store for Swift backed by LevelDB.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/radex/SwiftyUserDefaults">
    SwiftyUserDefaults
   </a>
-  <span>
-   &#9733 1413, pushed 11 days ago
-  </span>
   — a cleaner, nicer syntax for NSUserDefaults.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1413, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1413, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ArtSabintsev/Zephyr">
    Zephyr
   </a>
-  <span>
-   &#9733 295, pushed 21 days ago
-  </span>
   - Effortlessly synchronize NSUserDefaults over iCloud.
+  <sup>
+   606 GitHub links in total 704 links, ★ 295, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 295, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2078,10 +2498,13 @@
   <a href="https://github.com/Danappelxx/SwiftMongoDB">
    SwiftMongoDB
   </a>
-  <span>
-   &#9733 195, pushed 9 days ago
-  </span>
   - MongoDB connector for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 195, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 195, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2097,41 +2520,53 @@
   <a href="https://github.com/groue/GRDB.swift">
    GRDB.swift
   </a>
-  <span>
-   &#9733 248, pushed 2 days ago
-  </span>
   - A versatile
   <a href="https://www.sqlite.org">
    SQLite
   </a>
   toolkit for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 248, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 248, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stephencelis/SQLite.swift">
    SQLite.swift
   </a>
-  <span>
-   &#9733 2838, pushed 12 days ago
-  </span>
   - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2838, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 2838, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FahimF/SQLiteDB">
    SQLiteDB
   </a>
-  <span>
-   &#9733 325, pushed 179 days ago
-  </span>
   - sqlite wrapper for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 325, pushed 179 days ago
+  </sup>
+  <sup>
+   &#9733 325, pushed 179 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanfowler/SwiftData">
    SwiftData
   </a>
-  <span>
-   &#9733 474, pushed 22 days ago
-  </span>
   - simple and Effective SQLite Handling in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 474, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 474, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2142,19 +2577,25 @@
   <a href="https://github.com/Zewo/MySQL">
    MySQL
   </a>
-  <span>
-   &#9733 21, pushed 8 days ago
-  </span>
   🐧- MySQL adapter for Swift 2.2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 21, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Zewo/PostgreSQL">
    PostgreSQL
   </a>
-  <span>
-   &#9733 63, pushed 8 days ago
-  </span>
   🐧 - PostgreSQL adapter for Swift 2.2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 63, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2170,46 +2611,61 @@
   <a href="https://github.com/tadija/AEXML">
    AEXML
   </a>
-  <span>
-   &#9733 460, pushed 35 days ago
-  </span>
   - xml wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 460, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 460, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evermeer/AlamofireXmlToObjects">
    AlamofireXmlToObjects
   </a>
-  <span>
-   &#9733 39, pushed 8 days ago
-  </span>
   - An Alamofire extension for fetching an XML feed and parsing it into objects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 39, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cezheng/Fuzi">
    Fuzi
   </a>
-  <span>
-   &#9733 228, pushed 25 days ago
-  </span>
   - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 228, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 228, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/drmohundro/SWXMLHash">
    SWXMLHash
   </a>
-  <span>
-   &#9733 499, pushed 23 days ago
-  </span>
   - Simple XML parsing in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 499, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 499, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Mozharovsky/XMLParser">
    XMLParser
   </a>
-  <span>
-   &#9733 67, pushed 80 days ago
-  </span>
   - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 67, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 80 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2220,10 +2676,13 @@
   <a href="https://github.com/marmelroy/Zip">
    Zip
   </a>
-  <span>
-   &#9733 575, pushed 4 days ago
-  </span>
   - Swift framework for zipping and unzipping files.
+  <sup>
+   606 GitHub links in total 704 links, ★ 575, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 575, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2239,10 +2698,13 @@
   <a href="https://github.com/evermeer/EVCloudKitDao">
    EVCloudKitDao
   </a>
-  <span>
-   &#9733 410, pushed 2 days ago
-  </span>
   - Simplified access to CloudKit with support for subscriptions and local caching.
+  <sup>
+   606 GitHub links in total 704 links, ★ 410, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 410, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2336,10 +2798,13 @@
   <a href="https://github.com/SwiftDocOrg/swiftdoc-parser">
    swiftdoc-parser
   </a>
-  <span>
-   &#9733 33, pushed 5 days ago
-  </span>
   - SwiftDoc.org header parsing and HTML generating utilities.
+  <sup>
+   606 GitHub links in total 704 links, ★ 33, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2391,75 +2856,93 @@
   <a href="https://github.com/SwiftBond/Bond">
    Bond
   </a>
-  <span>
-   &#9733 2407, pushed 13 days ago
-  </span>
   - a Swift binding framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2407, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 2407, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Thomvis/BrightFutures">
    BrightFutures
   </a>
-  <span>
-   &#9733 1062, pushed 2 days ago
-  </span>
   - promise and future lib for swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1062, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1062, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coshx/caravel">
    Caravel
   </a>
-  <span>
-   &#9733 77, pushed 50 days ago
-  </span>
   - A Swift event bus for UIWebView and JS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 77, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aleclarson/emitter-kit">
    EmitterKit
   </a>
-  <span>
-   &#9733 446, pushed 25 days ago
-  </span>
   - an implementation of event emitters and listeners in swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 446, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 446, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ulrikdamm/Forbind">
    Forbind
   </a>
-  <span>
-   &#9733 33, pushed 7 days ago
-  </span>
   - Functional chaining and Promises in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 33, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/Future">
    Future
   </a>
-  <span>
-   &#9733 124, pushed 81 days ago
-  </span>
   - A micro framework providing Future
   <t, error="">
    .
   </t,>
+  <sup>
+   606 GitHub links in total 704 links, ★ 124, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 124, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FutureKit/FutureKit">
    FutureKit
   </a>
-  <span>
-   &#9733 410, pushed 4 days ago
-  </span>
   - A Swift based Future/Promises Library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 410, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 410, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftKitz/Notificationz">
    Notificationz
   </a>
-  <span>
-   &#9733 32, pushed 136 days ago
-  </span>
   - Helping you
   <em>
    own
@@ -2468,114 +2951,156 @@
    NSNotificationCenter
   </code>
   by providing a simple, customizable adapter.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 136 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 136 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mxcl/PromiseKit">
    PromiseKit
   </a>
-  <span>
-   &#9733 5026, pushed 7 days ago
-  </span>
   - async promise programming lib.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5026, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 5026, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wiruzx/PureFutures">
    PureFutures
   </a>
-  <span>
-   &#9733 11, pushed 66 days ago
-  </span>
   - Futures and Promises library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ReactiveCocoa/ReactiveCocoa">
    ReactiveCocoa
   </a>
-  <span>
-   &#9733 13712, pushed 1 days ago
-  </span>
   - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
+  <sup>
+   606 GitHub links in total 704 links, ★ 13712, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 13712, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ReactKit/ReactKit">
    ReactKit
   </a>
-  <span>
-   &#9733 1121, pushed 223 days ago
-  </span>
   - Swift Reactive Programming.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1121, pushed 223 days ago
+  </sup>
+  <sup>
+   &#9733 1121, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MailOnline/Reactor">
    Reactor
   </a>
-  <span>
-   &#9733 122, pushed 23 days ago
-  </span>
   - Powering your RAC architecture.
+  <sup>
+   606 GitHub links in total 704 links, ★ 122, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxSwift">
    RxSwift
   </a>
-  <span>
-   &#9733 4419, pushed 0 days ago
-  </span>
   - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4419, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 4419, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tidwall/Safe">
    Safe
   </a>
-  <span>
-   &#9733 291, pushed 112 days ago
-  </span>
   - A modern concurrency and synchronization for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 291, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 291, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yankodimitrov/SignalKit">
    SignalKit
   </a>
-  <span>
-   &#9733 229, pushed 57 days ago
-  </span>
   - Swift event and binding framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 229, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 229, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/artman/Signals">
    Signals
   </a>
-  <span>
-   &#9733 166, pushed 12 days ago
-  </span>
   - replaces delegates and notifications.
+  <sup>
+   606 GitHub links in total 704 links, ★ 166, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 166, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neoneye/SSEventFlow">
    SSEventFlow
   </a>
-  <span>
-   &#9733 2, pushed 72 days ago
-  </span>
   - A type safe alternative to NSNotification, inspired by Flux.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cesarferreira/SwiftEventBus">
    SwiftEventBus
   </a>
-  <span>
-   &#9733 330, pushed 300 days ago
-  </span>
   - A publish/subscribe event bus optimized for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 330, pushed 300 days ago
+  </sup>
+  <sup>
+   &#9733 330, pushed 300 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vadymmarkov/When">
    When
   </a>
-  <span>
-   &#9733 33, pushed 5 days ago
-  </span>
   - A lightweight implementation of Promises in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 33, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2591,100 +3116,133 @@
   <a href="https://github.com/hirohisa/Font-Awesome">
    Font-Awesome
   </a>
-  <span>
-   &#9733 36, pushed 305 days ago
-  </span>
   - Use Font Awesome in project written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 36, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 305 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thii/FontAwesome.swift">
    FontAwesome.swift
   </a>
-  <span>
-   &#9733 470, pushed 2 days ago
-  </span>
   - Use FontAwesome in your Swift projects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 470, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 470, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ArtSabintsev/FontBlaster">
    FontBlaster
   </a>
-  <span>
-   &#9733 568, pushed 6 days ago
-  </span>
   - Programmatically load custom fonts into your iOS app.
+  <sup>
+   606 GitHub links in total 704 links, ★ 568, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 568, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dekatotoro/GoogleMaterialDesignIcons">
    GoogleMaterialDesignIcons
   </a>
-  <span>
-   &#9733 313, pushed 36 days ago
-  </span>
   - google Material Design Icons Font for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 313, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 313, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kitasuke/GoogleMaterialIconFont">
    GoogleMaterialIconFont
   </a>
-  <span>
-   &#9733 87, pushed 75 days ago
-  </span>
   - Google Material Icon Font for Swift and ObjC.
+  <sup>
+   606 GitHub links in total 704 links, ★ 87, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 87, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matteocrippa/MCFontAwesome">
    MCFontAwesome
   </a>
-  <span>
-   &#9733 19, pushed 455 days ago
-  </span>
   - fontawesome porting for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 455 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 455 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hemantasapkota/OpenSansSwift">
    OpenSansSwift
   </a>
-  <span>
-   &#9733 31, pushed 202 days ago
-  </span>
   - OpenSans for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 31, pushed 202 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 202 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/UglyTroLL/Swicon">
    Swicon
   </a>
-  <span>
-   &#9733 23, pushed 55 days ago
-  </span>
   - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!
+  <sup>
+   606 GitHub links in total 704 links, ★ 23, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/morizotter/SwiftFontName">
    SwiftFontName
   </a>
-  <span>
-   &#9733 73, pushed 198 days ago
-  </span>
   - OS font complements library. Localized font supported.
+  <sup>
+   606 GitHub links in total 704 links, ★ 73, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 198 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/roadfire/SwiftFonts">
    SwiftFonts
   </a>
-  <span>
-   &#9733 112, pushed 209 days ago
-  </span>
   - render all the supported fonts in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 112, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 112, pushed 209 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/0x73/SwiftIconFont">
    SwiftIconFont
   </a>
-  <span>
-   &#9733 65, pushed 15 days ago
-  </span>
   - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 65, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 15 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2695,55 +3253,73 @@
   <a href="https://github.com/didierbrun/DBPathRecognizer">
    DBPathRecognizer
   </a>
-  <span>
-   &#9733 932, pushed 31 days ago
-  </span>
   - db path recognizer for letters.
+  <sup>
+   606 GitHub links in total 704 links, ★ 932, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 932, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lacklock/NiceGesture">
    NiceGesture
   </a>
-  <span>
-   &#9733 83, pushed 11 days ago
-  </span>
   - Using UIGestureRecognizers in a intuitive way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 83, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marmelroy/PeekPop">
    PeekPop
   </a>
-  <span>
-   &#9733 1392, pushed 4 days ago
-  </span>
   - Swift framework for backwards-compatible Peek and Pop.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1392, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1392, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/b3ll/SwiftyGestureRecognition">
    SwiftyGestureRecognition
   </a>
-  <span>
-   &#9733 96, pushed 61 days ago
-  </span>
   - UIGestureRecognizers in Xcode Playgrounds.
+  <sup>
+   606 GitHub links in total 704 links, ★ 96, pushed 61 days ago
+  </sup>
+  <sup>
+   &#9733 96, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/moritzsternemann/SwipyCell">
    SwipyCell
   </a>
-  <span>
-   &#9733 10, pushed 46 days ago
-  </span>
   - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+  <sup>
+   606 GitHub links in total 704 links, ★ 10, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delba/Tactile">
    Tactile
   </a>
-  <span>
-   &#9733 512, pushed 5 days ago
-  </span>
   - Attach function handlers to gesture and control events in a more expressive and safer way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 512, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 512, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2759,10 +3335,13 @@
   <a href="https://github.com/gemtot/iBeacon">
    iBeacon
   </a>
-  <span>
-   &#9733 156, pushed 209 days ago
-  </span>
   - iBeacon implementation in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 156, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 156, pushed 209 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2778,185 +3357,245 @@
   <a href="https://github.com/JanGorman/Agrume">
    Agrume
   </a>
-  <span>
-   &#9733 72, pushed 16 days ago
-  </span>
   - A lemony fresh iOS image viewer written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 72, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 72, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alamofire/AlamofireImage">
    AlamofireImage
   </a>
-  <span>
-   &#9733 1443, pushed 15 days ago
-  </span>
   - AlamofireImage is an image component library for Alamofire.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1443, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1443, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onevcat/APNGKit">
    APNGKit
   </a>
-  <span>
-   &#9733 854, pushed 70 days ago
-  </span>
   - High performance and delightful way to play with APNG format in iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 854, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 854, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lihei12345/CYFastImage">
    CYFastImage
   </a>
-  <span>
-   &#9733 86, pushed 310 days ago
-  </span>
   - display images from web.
+  <sup>
+   606 GitHub links in total 704 links, ★ 86, pushed 310 days ago
+  </sup>
+  <sup>
+   &#9733 86, pushed 310 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidcairns/DePict">
    DePict
   </a>
-  <span>
-   &#9733 13, pushed 132 days ago
-  </span>
   - functional wrapper for CoreGraphics.
+  <sup>
+   606 GitHub links in total 704 links, ★ 13, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FlexMonkey/Filterpedia">
    Filterpedia
   </a>
-  <span>
-   &#9733 1190, pushed 2 days ago
-  </span>
   - core image filter
+  <sup>
+   606 GitHub links in total 704 links, ★ 1190, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1190, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kaishin/gifu">
    gifu
   </a>
-  <span>
-   &#9733 1251, pushed 2 days ago
-  </span>
   - highly performant animated GIF support for iOS in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1251, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1251, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BradLarson/GPUImage2">
    GPUImage 2
   </a>
-  <span>
-   &#9733 1988, pushed 1 days ago
-  </span>
   - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1988, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1988, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Haneke/HanekeSwift">
    HanekeSwift
   </a>
-  <span>
-   &#9733 3368, pushed 12 days ago
-  </span>
   - A lightweight generic cache for iOS written in Swift with extra love for images.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3368, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 3368, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hirohisa/ImageLoaderSwift">
    ImageLoader
   </a>
-  <span>
-   &#9733 207, pushed 1 days ago
-  </span>
   - A lightweight and fast image loader for iOS written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 207, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 207, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kaishin/ImageScout">
    ImageScout
   </a>
-  <span>
-   &#9733 754, pushed 93 days ago
-  </span>
   - a Swift implementation of
   <a href="https://pypi.python.org/pypi/fastimage/0.2.1">
    fastimage
   </a>
   - supports PNG, GIF, and JPEG.
+  <sup>
+   606 GitHub links in total 704 links, ★ 754, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 754, pushed 93 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/luiyezheng/JLStickerTextView">
    JLStickerTextView
   </a>
-  <span>
-   &#9733 74, pushed 4 days ago
-  </span>
   - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+  <sup>
+   606 GitHub links in total 704 links, ★ 74, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kiavashfaisali/KFSwiftImageLoader">
    KFSwiftImageLoader
   </a>
-  <span>
-   &#9733 284, pushed 201 days ago
-  </span>
   - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 284, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 284, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onevcat/Kingfisher">
    Kingfisher
   </a>
-  <span>
-   &#9733 4432, pushed 2 days ago
-  </span>
   - a lib for image download and caching.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4432, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4432, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zalando/MapleBacon">
    MapleBacon
   </a>
-  <span>
-   &#9733 126, pushed 18 days ago
-  </span>
   - Swift image download and caching library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 126, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 126, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tasanobu/Misen">
    Misen
   </a>
-  <span>
-   &#9733 95, pushed 36 days ago
-  </span>
   - A script to support using Xcode Asset Catalog in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 95, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kean/Nuke">
    Nuke
   </a>
-  <span>
-   &#9733 1494, pushed 18 days ago
-  </span>
   - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1494, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1494, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/abiaad/PASImageView">
    PASImageView
   </a>
-  <span>
-   &#9733 143, pushed 114 days ago
-  </span>
   - async remote download your image and round them. automatically.
+  <sup>
+   606 GitHub links in total 704 links, ★ 143, pushed 114 days ago
+  </sup>
+  <sup>
+   &#9733 143, pushed 114 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evermeer/PassportScanner">
    PassportScanner
   </a>
-  <span>
-   &#9733 141, pushed 119 days ago
-  </span>
   - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+  <sup>
+   606 GitHub links in total 704 links, ★ 141, pushed 119 days ago
+  </sup>
+  <sup>
+   &#9733 141, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jan0707/SwiftColorArt">
    SwiftColorArt
   </a>
-  <span>
-   &#9733 273, pushed 458 days ago
-  </span>
   - font schema generator according image colours.
+  <sup>
+   606 GitHub links in total 704 links, ★ 273, pushed 458 days ago
+  </sup>
+  <sup>
+   &#9733 273, pushed 458 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/SwiftGen#assets-catalogs">
@@ -2976,82 +3615,109 @@
   <a href="https://github.com/bahlo/SwiftGif">
    SwiftGif
   </a>
-  <span>
-   &#9733 331, pushed 19 days ago
-  </span>
   - A small UIImage extension with gif support.
+  <sup>
+   606 GitHub links in total 704 links, ★ 331, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 331, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mchoe/SwiftSVG">
    SwiftSVG
   </a>
-  <span>
-   &#9733 535, pushed 9 days ago
-  </span>
   - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView)
+  <sup>
+   606 GitHub links in total 704 links, ★ 535, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 535, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kirualex/SwiftyGif">
    SwiftyGif
   </a>
-  <span>
-   &#9733 345, pushed 11 days ago
-  </span>
   - High performance GIF engine.
+  <sup>
+   606 GitHub links in total 704 links, ★ 345, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 345, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/remirobert/TextDrawer">
    TextDrawer
   </a>
-  <span>
-   &#9733 67, pushed 25 days ago
-  </span>
   - A UIView allows you to add text with gesture on UIView or UIImage, support resize, rotate, move and edit.
+  <sup>
+   606 GitHub links in total 704 links, ★ 67, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gavinbunney/Toucan">
    Toucan
   </a>
-  <span>
-   &#9733 1533, pushed 80 days ago
-  </span>
   - Image processing api.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1533, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 1533, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jathu/UIImageColors">
    UIImageColors
   </a>
-  <span>
-   &#9733 1163, pushed 16 days ago
-  </span>
   - iTunes style color fetcher for UIImage.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1163, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 1163, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/croath/UIImageView-BetterFace-Swift">
    UIImageView-BetterFace-Swift
   </a>
-  <span>
-   &#9733 283, pushed 186 days ago
-  </span>
   - autoresize images and if any face discovered refine the position of the image.
+  <sup>
+   606 GitHub links in total 704 links, ★ 283, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 283, pushed 186 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/justwudi/WDImagePicker">
    WDImagePicker
   </a>
-  <span>
-   &#9733 16, pushed 19 days ago
-  </span>
   - Image picker with customizable crop rectangle (getting update).
+  <sup>
+   606 GitHub links in total 704 links, ★ 16, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/khaledmtaha/XAnimatedImage">
    XAnimatedImage
   </a>
-  <span>
-   &#9733 536, pushed 19 days ago
-  </span>
   - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage
+  <sup>
+   606 GitHub links in total 704 links, ★ 536, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 536, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3067,10 +3733,13 @@
   <a href="https://github.com/jonomuller/Hodor-Keyboard">
    Hodor Keyboard
   </a>
-  <span>
-   &#9733 89, pushed 641 days ago
-  </span>
   - poc for custom keyboard implementation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 89, pushed 641 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 641 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3086,10 +3755,13 @@
   <a href="https://github.com/bradhilton/SwiftKVC">
    SwiftKVC
   </a>
-  <span>
-   &#9733 37, pushed 199 days ago
-  </span>
   - Key-Value Coding (KVC) for native Swift classes and structs.
+  <sup>
+   606 GitHub links in total 704 links, ★ 37, pushed 199 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 199 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3105,19 +3777,25 @@
   <a href="https://github.com/C4Framework/C4iOS">
    C4iOS
   </a>
-  <span>
-   &#9733 692, pushed 6 days ago
-  </span>
   - Harnesses the power of native iOS programming with a simplified API.
+  <sup>
+   606 GitHub links in total 704 links, ★ 692, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 692, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FabrizioBrancati/BFKit-Swift">
    BFKit-Swift
   </a>
-  <span>
-   &#9733 339, pushed 18 days ago
-  </span>
   - A collection of useful classes to develop Apps faster.
+  <sup>
+   606 GitHub links in total 704 links, ★ 339, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 339, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3176,136 +3854,181 @@
   <a href="https://github.com/ruipfcosta/AutoLayoutPlus">
    AutoLayoutPlus
   </a>
-  <span>
-   &#9733 15, pushed 81 days ago
-  </span>
   - A bit of steroids for AutoLayout, powered by Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 15, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robb/Cartography">
    Cartography
   </a>
-  <span>
-   &#9733 4206, pushed 22 days ago
-  </span>
   - declarative auto layout lib for your project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4206, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 4206, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nakiostudio/EasyPeasy">
    EasyPeasy
   </a>
-  <span>
-   &#9733 1032, pushed 9 days ago
-  </span>
   - Auto Layout made easy.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1032, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1032, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evan-liu/FormationLayout">
    FormationLayout
   </a>
-  <span>
-   &#9733 42, pushed 81 days ago
-  </span>
   - Auto Layout lib supports group layout and size classes.
+  <sup>
+   606 GitHub links in total 704 links, ★ 42, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/szk-atmosphere/MisterFusion">
    MisterFusion
   </a>
-  <span>
-   &#9733 185, pushed 22 days ago
-  </span>
   - A Swift DSL for AutoLayout. It can be used in both Swift and Objective-C, in addition, it supports Size Class.
+  <sup>
+   606 GitHub links in total 704 links, ★ 185, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 185, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmfieldman/Mortar">
    Mortar
   </a>
-  <span>
-   &#9733 42, pushed 10 days ago
-  </span>
   - A concise but flexible Swift DSL for creating Auto Layout constraints and adding subviews.
+  <sup>
+   606 GitHub links in total 704 links, ★ 42, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PureLayout/PureLayout">
    PureLayout
   </a>
-  <span>
-   &#9733 5288, pushed 73 days ago
-  </span>
   – The ultimate API for iOS & OS X Auto Layout.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5288, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 5288, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/puffinsupply/Restraint">
    Restraint
   </a>
-  <span>
-   &#9733 65, pushed 229 days ago
-  </span>
   - Minimal Auto Layout in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 65, pushed 229 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 229 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SnapKit/SnapKit">
    SnapKit
   </a>
-  <span>
-   &#9733 5754, pushed 3 days ago
-  </span>
   - A Swift Autolayout DSL for iOS & OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5754, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 5754, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dimohamdy/Swift-iOS-Localize-Constraint">
    Swift-iOS-Localize-Constraint
   </a>
-  <span>
-   &#9733 3, pushed 204 days ago
-  </span>
   - localize constraint on the fly to support RTL and LTR with same view.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 204 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 204 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/indragiek/SwiftAutoLayout">
    SwiftAutoLayout
   </a>
-  <span>
-   &#9733 596, pushed 76 days ago
-  </span>
   - a small DSL for autolayout.
+  <sup>
+   606 GitHub links in total 704 links, ★ 596, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 596, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Skyvive/Swiftstraints">
    Swiftstraints
   </a>
-  <span>
-   &#9733 59, pushed 4 days ago
-  </span>
   - Powerful auto-layout framework that lets you write constraints in one line of code.
+  <sup>
+   606 GitHub links in total 704 links, ★ 59, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fhisa/SwiftyLayout">
    SwiftyLayout
   </a>
-  <span>
-   &#9733 10, pushed 42 days ago
-  </span>
   - Lightweight mathematical declarative auto-layout framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 10, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nickynick/Tails">
    Tails
   </a>
-  <span>
-   &#9733 17, pushed 671 days ago
-  </span>
   - declarative autolayout for ios app written in swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 17, pushed 671 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 671 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/0xc010d/VFLToolbox">
    VFLToolbox
   </a>
-  <span>
-   &#9733 139, pushed 621 days ago
-  </span>
   - fancy Swift implementation of the Visual Format Language.
+  <sup>
+   606 GitHub links in total 704 links, ★ 139, pushed 621 days ago
+  </sup>
+  <sup>
+   &#9733 139, pushed 621 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3321,28 +4044,37 @@
   <a href="https://github.com/Flinesoft/BartyCrouch">
    BartyCrouch
   </a>
-  <span>
-   &#9733 21, pushed 2 days ago
-  </span>
   - Keep Storyboard/XIB localizations up-to-date or machine translate strings files with ease.
+  <sup>
+   606 GitHub links in total 704 links, ★ 21, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marmelroy/Localize-Swift">
    Localize-Swift
   </a>
-  <span>
-   &#9733 726, pushed 4 days ago
-  </span>
   - Localize apps using e.g. regular expressions in Localizable.strings.
+  <sup>
+   606 GitHub links in total 704 links, ★ 726, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 726, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tomkowz/Swifternalization">
    Swifternalization
   </a>
-  <span>
-   &#9733 342, pushed 34 days ago
-  </span>
   - Localize apps using e.g. regular expressions in Localizable.strings.
+  <sup>
+   606 GitHub links in total 704 links, ★ 342, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 342, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/SwiftGen#localizablestrings">
@@ -3372,136 +4104,181 @@
   <a href="https://github.com/tadija/AELog">
    AELog
   </a>
-  <span>
-   &#9733 3, pushed 17 days ago
-  </span>
   - Simple, lightweight and flexible debug logging framework written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tadija/AEConsole">
    AEConsole
   </a>
-  <span>
-   &#9733 32, pushed 16 days ago
-  </span>
   - Customizable Console UI overlay with debug log on top of your iOS App.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emaloney/CleanroomASL">
    CleanroomASL
   </a>
-  <span>
-   &#9733 48, pushed 42 days ago
-  </span>
   🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
+  <sup>
+   606 GitHub links in total 704 links, ★ 48, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emaloney/CleanroomLogger">
    CleanroomLogger
   </a>
-  <span>
-   &#9733 714, pushed 42 days ago
-  </span>
   🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+  <sup>
+   606 GitHub links in total 704 links, ★ 714, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 714, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftStudies/Duration">
    Duration
   </a>
-  <span>
-   &#9733 236, pushed 43 days ago
-  </span>
   🐧 - Lightweight logging library focused on reporting timings for operations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 236, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 236, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IBM-Swift/HeliumLogger">
    HeliumLogger
   </a>
-  <span>
-   &#9733 14, pushed 5 days ago
-  </span>
   🐧 - IBM's lightweight logging framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 14, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delba/Log">
    Log
   </a>
-  <span>
-   &#9733 426, pushed 4 days ago
-  </span>
   - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+  <sup>
+   606 GitHub links in total 704 links, ★ 426, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 426, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cookpad/puree-ios">
    Puree
   </a>
-  <span>
-   &#9733 105, pushed 19 days ago
-  </span>
   - A log collector for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 105, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/goktugyil/QorumLogs">
    QorumLogs
   </a>
-  <span>
-   &#9733 482, pushed 6 days ago
-  </span>
   — Swift Logging Utility for Xcode & Google Docs.
+  <sup>
+   606 GitHub links in total 704 links, ★ 482, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 482, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onevcat/Rainbow">
    Rainbow
   </a>
-  <span>
-   &#9733 531, pushed 40 days ago
-  </span>
   🐧 - Delightful console output for Swift developers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 531, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 531, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hubertr/Swell">
    Swell
   </a>
-  <span>
-   &#9733 377, pushed 195 days ago
-  </span>
   - a logging utility for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 377, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 377, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftyBeaver/SwiftyBeaver">
    SwiftBeaver
   </a>
-  <span>
-   &#9733 1053, pushed 2 days ago
-  </span>
   🐧 - Colorful, lightweight & fast logging in Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1053, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1053, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matteocrippa/swiftRemoteLogger">
    swiftRemoteLogger
   </a>
-  <span>
-   &#9733 4, pushed 221 days ago
-  </span>
   - Remote logging easy as 1..2..3 in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4, pushed 221 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 221 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wojteklu/Watchdog">
    Watchdog
   </a>
-  <span>
-   &#9733 1103, pushed 10 days ago
-  </span>
   - A Swift utility for logging excessive blocking on the main thread.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1103, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 1103, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DaveWoodCom/XCGLogger">
    XCGLogger
   </a>
-  <span>
-   &#9733 1584, pushed 8 days ago
-  </span>
   - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1584, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1584, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3512,10 +4289,13 @@
   <a href="https://github.com/andreacremaschi/GEOSwift">
    GEOSwift
   </a>
-  <span>
-   &#9733 655, pushed 22 days ago
-  </span>
   - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+  <sup>
+   606 GitHub links in total 704 links, ★ 655, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 655, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3526,19 +4306,25 @@
   <a href="https://github.com/malcommac/SwiftLocation">
    SwiftLocation
   </a>
-  <span>
-   &#9733 406, pushed 2 days ago
-  </span>
   - iOS CoreLocation Wrapper made in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 406, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 406, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SvenTiigi/STLocationRequest">
    STLocationRequest
   </a>
-  <span>
-   &#9733 408, pushed 4 days ago
-  </span>
   - An elegant and simple 3D Flyover Location Request Screen in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 408, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 408, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3549,52 +4335,73 @@
   <a href="https://github.com/phimage/Arithmosophi">
    Arithmosophi
   </a>
-  <span>
-   &#9733 32, pushed 148 days ago
-  </span>
   - Set of protocols for Arithmetic and Logical operations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 148 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davedelong/DDMathParser">
    DDMathParser
   </a>
-  <span>
-   &#9733 579, pushed 40 days ago
-  </span>
   - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+  <sup>
+   606 GitHub links in total 704 links, ★ 579, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 579, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onevcat/Easy-Cal-Swift">
    Easy-Cal-Swift
   </a>
-  <span>
-   &#9733 267, pushed 358 days ago
-  </span>
   - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
+  <sup>
+   606 GitHub links in total 704 links, ★ 267, pushed 358 days ago
+  </sup>
+  <sup>
+   &#9733 267, pushed 359 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aleph7/PlotKit">
    PlotKit
   </a>
   - Plots made easy.
+  <sup>
+   606 GitHub links in total 704 links, ★ 20, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stsievert/swix">
    swix
   </a>
-  <span>
-   &#9733 351, pushed 37 days ago
-  </span>
   - A general matrix language.
+  <sup>
+   606 GitHub links in total 704 links, ★ 351, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 351, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aleph7/Upsurge">
    Upsurge
   </a>
-  <span>
-   &#9733 49, pushed 1 days ago
-  </span>
   - Simple and fast matrix and vector math for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 49, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3610,208 +4417,277 @@
   <a href="https://github.com/hallas/agent">
    agent
   </a>
-  <span>
-   &#9733 617, pushed 24 days ago
-  </span>
   - http request agent.
+  <sup>
+   606 GitHub links in total 704 links, ★ 617, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 617, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alamofire/Alamofire">
    Alamofire
   </a>
-  <span>
-   &#9733 16353, pushed 2 days ago
-  </span>
   🐧 - elegant networking in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 16353, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 16353, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ishkawa/APIKit">
    APIKit
   </a>
-  <span>
-   &#9733 638, pushed 2 days ago
-  </span>
   - a library for building type-safe web API client.
+  <sup>
+   606 GitHub links in total 704 links, ★ 638, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 638, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marcelofabri/BigBrother">
    BigBrother
   </a>
-  <span>
-   &#9733 410, pushed 5 days ago
-  </span>
   - Automatically sets the network activity indicator for any performed request.
+  <sup>
+   606 GitHub links in total 704 links, ★ 410, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 410, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/devxoul/Endpoint">
    Endpoint
   </a>
-  <span>
-   &#9733 19, pushed 77 days ago
-  </span>
   - :rocket: Elegant API Abstraction for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lingoer/GRequest">
    GRequest
   </a>
-  <span>
-   &#9733 105, pushed 665 days ago
-  </span>
   - http request handler.
+  <sup>
+   606 GitHub links in total 704 links, ★ 105, pushed 665 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 665 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rheinfabrik/Heimdallr.swift">
    Heimdallr.swift
   </a>
-  <span>
-   &#9733 157, pushed 13 days ago
-  </span>
   - Easy to use OAuth 2 library for iOS, written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 157, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JustHTTP/Just">
    Just
   </a>
-  <span>
-   &#9733 691, pushed 25 days ago
-  </span>
   - HTTP for Humans (a python-requests style HTTP library in Swift).
+  <sup>
+   606 GitHub links in total 704 links, ★ 691, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 691, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jkolb/ModestProposal">
    ModestProposal
   </a>
-  <span>
-   &#9733 11, pushed 138 days ago
-  </span>
   - an HTTP toolbox.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Moya/Moya">
    Moya
   </a>
-  <span>
-   &#9733 2766, pushed 11 days ago
-  </span>
   - network abstraction layer.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2766, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 2766, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/Net">
    Net
   </a>
-  <span>
-   &#9733 294, pushed 201 days ago
-  </span>
   - an httprequest wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 294, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 294, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kasketis/netfox">
    Netfox
   </a>
-  <span>
-   &#9733 1765, pushed 18 days ago
-  </span>
   - A lightweight, one line setup, network debugging library in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1765, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1765, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/azizuysal/NetKit">
    NetKit
   </a>
-  <span>
-   &#9733 4, pushed 18 days ago
-  </span>
   - A Concise HTTP Framework in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nathankot/NKMultipeer">
    NKMultipeer
   </a>
-  <span>
-   &#9733 9, pushed 9 days ago
-  </span>
   - A testable abstraction over multipeer connectivity
+  <sup>
+   606 GitHub links in total 704 links, ★ 9, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/p2/OAuth2">
    OAuth2
   </a>
-  <span>
-   &#9733 368, pushed 3 days ago
-  </span>
   - oauth2 auth lib.
+  <sup>
+   606 GitHub links in total 704 links, ★ 368, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 368, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OAuthSwift/OAuthSwift">
    OAuthSwift
   </a>
-  <span>
-   &#9733 1094, pushed 5 days ago
-  </span>
   - Swift based OAuth library for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1094, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1094, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jpsim/PeerKit">
    PeerKit
   </a>
-  <span>
-   &#9733 548, pushed 126 days ago
-  </span>
   - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
+  <sup>
+   606 GitHub links in total 704 links, ★ 548, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 548, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnlui/Pitaya">
    Pitaya
   </a>
-  <span>
-   &#9733 710, pushed 4 days ago
-  </span>
   🐧 - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
+  <sup>
+   606 GitHub links in total 704 links, ★ 710, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 710, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Isuru-Nanayakkara/Reach">
    Reach
   </a>
-  <span>
-   &#9733 340, pushed 23 days ago
-  </span>
   - A simple class to check for internet connection availability in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 340, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 340, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ashleymills/Reachability.swift">
    Reachability.swift
   </a>
-  <span>
-   &#9733 2182, pushed 8 days ago
-  </span>
   - A replacement for Apple's Reachability re-written in Swift with closures.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2182, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2182, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/netguru/ResponseDetective">
    ResponseDetective
   </a>
-  <span>
-   &#9733 859, pushed 4 days ago
-  </span>
   - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+  <sup>
+   606 GitHub links in total 704 links, ★ 859, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 859, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sean7512/RestEssentials">
    RestEssentials
   </a>
-  <span>
-   &#9733 5, pushed 83 days ago
-  </span>
   - An extremely lightweight REST and JSON library for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hoffmanjon/RSNetworking">
    RSNetworking
   </a>
-  <span>
-   &#9733 19, pushed 305 days ago
-  </span>
   - Network library written purely in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 305 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bustoutsolutions.github.io/siesta/">
@@ -3823,37 +4699,49 @@
   <a href="https://github.com/contentful-labs/Stargate">
    Stargate
   </a>
-  <span>
-   &#9733 132, pushed 309 days ago
-  </span>
   - A communication channel from your Mac to your watch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 132, pushed 310 days ago
+  </sup>
+  <sup>
+   &#9733 132, pushed 310 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/daltoniam/SwiftHTTP">
    SwiftHTTP
   </a>
-  <span>
-   &#9733 1388, pushed 21 days ago
-  </span>
   - NSURLSession wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1388, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1388, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/Transporter">
    Transporter
   </a>
-  <span>
-   &#9733 365, pushed 103 days ago
-  </span>
   - A tiny library makes uploading and downloading easier.
+  <sup>
+   606 GitHub links in total 704 links, ★ 365, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 365, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yayuhh/YYHRequest-Swift">
    YYHRequest-Swift
   </a>
-  <span>
-   &#9733 78, pushed 446 days ago
-  </span>
   - http request in async.
+  <sup>
+   606 GitHub links in total 704 links, ★ 78, pushed 446 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 446 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -3869,28 +4757,37 @@
   <a href="https://github.com/honghaoz/Ji">
    Ji
   </a>
-  <span>
-   &#9733 526, pushed 35 days ago
-  </span>
   - an XML/HTML parser for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 526, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 526, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tid-kijyun/Kanna">
    Kanna
   </a>
-  <span>
-   &#9733 527, pushed 15 days ago
-  </span>
   - another XML/HTML parser for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 527, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 527, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mkoehnke/WKZombie">
    WKZombie
   </a>
-  <span>
-   &#9733 545, pushed 5 days ago
-  </span>
   - Headless browser
+  <sup>
+   606 GitHub links in total 704 links, ★ 545, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 545, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -3901,10 +4798,13 @@
   <a href="https://github.com/emqtt/CocoaMQTT">
    CocoaMQTT
   </a>
-  <span>
-   &#9733 217, pushed 6 days ago
-  </span>
   - MQTT for iOS and OS X written with Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 217, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 217, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -3915,73 +4815,97 @@
   <a href="https://github.com/IBM-Swift/BlueSocket">
    BlueSocket
   </a>
-  <span>
-   &#9733 58, pushed 6 days ago
-  </span>
   🐧 - IBM's low level socket framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 58, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/socketio/socket.io-client-swift">
    Socket.IO
   </a>
-  <span>
-   &#9733 1264, pushed 6 days ago
-  </span>
   🐧 - Socket.IO client for iOS/OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1264, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1264, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ricardopereira/SocketIO-Kit">
    SocketIO-Kit
   </a>
-  <span>
-   &#9733 134, pushed 299 days ago
-  </span>
   - Socket.io iOS and OSX Client.
+  <sup>
+   606 GitHub links in total 704 links, ★ 134, pushed 299 days ago
+  </sup>
+  <sup>
+   &#9733 134, pushed 299 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/czechboy0/Socks">
    Socks
   </a>
-  <span>
-   &#9733 242, pushed 6 days ago
-  </span>
   🐧 - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 242, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 242, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/daltoniam/Starscream">
    Starscream
   </a>
-  <span>
-   &#9733 1743, pushed 33 days ago
-  </span>
   - Websockets in swift for iOS and OSX.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1743, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 1743, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/swiftsocket/SwiftSocket">
    SwiftSocket
   </a>
-  <span>
-   &#9733 260, pushed 39 days ago
-  </span>
   - simple TCP socket library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 260, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 260, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tidwall/SwiftWebSocket">
    SwiftWebSocket
   </a>
-  <span>
-   &#9733 439, pushed 10 days ago
-  </span>
   - A high performance WebSocket client library for swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 439, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 439, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Zewo/WebSocket">
    WebSocket
   </a>
-  <span>
-   &#9733 36, pushed 1 days ago
-  </span>
   🐧 - WebSockets server for Swift 2.2 on Linux.
+  <sup>
+   606 GitHub links in total 704 links, ★ 36, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -3997,185 +4921,245 @@
   <a href="https://github.com/paulofaria/Aeon">
    Aeon
   </a>
-  <span>
-   &#9733 71, pushed 46 days ago
-  </span>
   - GCD based HTTP server for Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 71, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kylef/Curassow">
    Curassow
   </a>
-  <span>
-   &#9733 354, pushed 18 days ago
-  </span>
   🐧 - Swift HTTP server using the pre-fork worker model.
+  <sup>
+   606 GitHub links in total 704 links, ★ 354, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 354, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elliottminns/blackfish">
    Blackfish
   </a>
-  <span>
-   &#9733 892, pushed 13 days ago
-  </span>
   🐧 - HTTP Webserver inspired by Express.js.
+  <sup>
+   606 GitHub links in total 704 links, ★ 892, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 892, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnno1962/Dynamo">
    Dynamo
   </a>
-  <span>
-   &#9733 51, pushed 70 days ago
-  </span>
   &
   <a href="https://github.com/johnno1962/DynamoLinux">
    DynamoLinux
   </a>
   🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.
+  <sup>
+   606 GitHub links in total 704 links, ★ 51, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crossroadlabs/Express">
    Express
   </a>
-  <span>
-   &#9733 660, pushed 15 days ago
-  </span>
   🐧 - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
+  <sup>
+   606 GitHub links in total 704 links, ★ 660, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 660, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nestproject/Frank">
    Frank
   </a>
-  <span>
-   &#9733 276, pushed 59 days ago
-  </span>
   🐧 - Frank is a DSL for quickly writing web applications in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 276, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 276, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/takebayashi/http4swift">
    http4swift
   </a>
-  <span>
-   &#9733 22, pushed 23 days ago
-  </span>
   🐧 - A simple HTTP server written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 22, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IBM-Swift/Kitura">
    Kitura
   </a>
-  <span>
-   &#9733 2935, pushed 2 days ago
-  </span>
   🐧 - IBM's web framework and server for web services written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2935, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2935, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/novi/Kunugi">
    Kunugi
   </a>
-  <span>
-   &#9733 27, pushed 33 days ago
-  </span>
   🐧 - Minimal web framework and middleware for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/colemancda/NetworkObjects">
    NetworkObjects
   </a>
-  <span>
-   &#9733 249, pushed 217 days ago
-  </span>
   - REST HTTP Server written in Swift. Builds REST API from Core Data.
+  <sup>
+   606 GitHub links in total 704 links, ★ 249, pushed 217 days ago
+  </sup>
+  <sup>
+   &#9733 249, pushed 217 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PerfectlySoft/Perfect">
    Perfect
   </a>
-  <span>
-   &#9733 7038, pushed 5 days ago
-  </span>
   🐧 - Server-side Swift. The Perfect library, application server, connectors and example apps.
+  <sup>
+   606 GitHub links in total 704 links, ★ 7038, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 7038, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cezarywojcik/Swift-Server">
    Swift-Server
   </a>
-  <span>
-   &#9733 43, pushed 151 days ago
-  </span>
   - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 43, pushed 151 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 151 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/httpswift/swifter">
    swifter
   </a>
-  <span>
-   &#9733 1635, pushed 2 days ago
-  </span>
   🐧 - Http server written in Swift with routing handler.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1635, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1635, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AlwaysRightInstitute/SwiftyHTTP">
    SwiftyHTTP
   </a>
-  <span>
-   &#9733 92, pushed 7 days ago
-  </span>
   - A simple GCD based HTTP client and server, written in 'pure' Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 92, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 92, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/necolt/Swifton">
    Swifton
   </a>
-  <span>
-   &#9733 1872, pushed 2 days ago
-  </span>
   🐧 - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1872, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1872, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/izqui/Taylor">
    Taylor
   </a>
-  <span>
-   &#9733 831, pushed 2 days ago
-  </span>
   - A lightweight library for writing HTTP web servers with Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 831, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 831, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yoseob/Trevi">
    Trevi
   </a>
-  <span>
-   &#9733 43, pushed 51 days ago
-  </span>
   - A powerful Swift Web Application Server Framework Project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 43, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/qutheory/vapor">
    Vapor
   </a>
-  <span>
-   &#9733 3639, pushed 2 days ago
-  </span>
   🐧 - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3639, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3639, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/czechboy0/XcodeServerSDK">
    XcodeServerSDK
   </a>
-  <span>
-   &#9733 320, pushed 12 days ago
-  </span>
   - Access Xcode Server API with native Swift objects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 320, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 320, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Zewo/Zewo">
    Zewo
   </a>
-  <span>
-   &#9733 970, pushed 7 days ago
-  </span>
   🐧 - Server-Side Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 970, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 970, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4186,10 +5170,13 @@
   <a href="https://github.com/garnele007/SwiftOCR">
    SwiftOCR
   </a>
-  <span>
-   &#9733 373, pushed 1 days ago
-  </span>
   - OCR lib written in swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 373, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 373, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4200,37 +5187,49 @@
   <a href="https://github.com/haaakon/SwiftFormat">
    SwiftFormat
   </a>
-  <span>
-   &#9733 99, pushed 327 days ago
-  </span>
   - Auto formatting Swift code, similar to Clang format.
+  <sup>
+   606 GitHub links in total 704 links, ★ 99, pushed 327 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 327 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realm/SwiftLint">
    SwiftLint
   </a>
-  <span>
-   &#9733 3811, pushed 4 days ago
-  </span>
   - A tool to enforce Swift coding conventions for your Swift code.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3811, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3811, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jintin/Swimat">
    Swimat
   </a>
-  <span>
-   &#9733 371, pushed 7 days ago
-  </span>
   - XCode plugin to format Swift code.
+  <sup>
+   606 GitHub links in total 704 links, ★ 371, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 371, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sleekbyte/tailor">
    Tailor
   </a>
-  <span>
-   &#9733 651, pushed 1 days ago
-  </span>
   🐧 - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
+  <sup>
+   606 GitHub links in total 704 links, ★ 651, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 651, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4282,55 +5281,73 @@
   <a href="https://github.com/marketplacer/keychain-swift">
    keychain-swift
   </a>
-  <span>
-   &#9733 255, pushed 18 days ago
-  </span>
   - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 255, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 255, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kishikawakatsumi/KeychainAccess">
    KeychainAccess
   </a>
-  <span>
-   &#9733 1612, pushed 10 days ago
-  </span>
   - Simple Swift wrapper for Keychain that works on iOS and OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1612, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 1612, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/s-aska/KeyClip">
    KeyClip
   </a>
-  <span>
-   &#9733 42, pushed 3 days ago
-  </span>
   - Keychain framework for iOS written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 42, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DanielTomlinson/Latch">
    Latch
   </a>
-  <span>
-   &#9733 35, pushed 80 days ago
-  </span>
   - A simple Swift Keychain Wrapper for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 35, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matthewpalmer/Locksmith">
    Locksmith
   </a>
-  <span>
-   &#9733 1641, pushed 19 days ago
-  </span>
   - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1641, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 1641, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jrendel/SwiftKeychainWrapper">
    SwiftKeychainWrapper
   </a>
-  <span>
-   &#9733 226, pushed 8 days ago
-  </span>
   - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
+  <sup>
+   606 GitHub links in total 704 links, ★ 226, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 226, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -4341,19 +5358,25 @@
   <a href="https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift">
    iOS-TouchID-Swift
   </a>
-  <span>
-   &#9733 25, pushed 608 days ago
-  </span>
   - TouchID for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 25, pushed 608 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 608 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ulidev/JMEasyTouchID">
    JMEasyTouchID
   </a>
-  <span>
-   &#9733 67, pushed 436 days ago
-  </span>
   - TouchID one line wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 67, pushed 436 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 436 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4369,10 +5392,13 @@
   <a href="https://github.com/MHaroonBaig/MotionKit">
    MotionKit
   </a>
-  <span>
-   &#9733 714, pushed 11 days ago
-  </span>
   - iOS device sensors wrapper.
+  <sup>
+   606 GitHub links in total 704 links, ★ 714, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 714, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4383,19 +5409,25 @@
   <a href="https://github.com/andrealufino/Deviice">
    Deviice
   </a>
-  <span>
-   &#9733 3, pushed 26 days ago
-  </span>
   - iOS library to detect the current device (and some other info)
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beltex/SMCKit">
    SMCKit
   </a>
-  <span>
-   &#9733 106, pushed 125 days ago
-  </span>
   - Apple SMC library in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 106, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beltex/SystemKit/">
@@ -4417,109 +5449,145 @@
   <a href="https://github.com/czechboy0/Buildasaur">
    Buildasaur
   </a>
-  <span>
-   &#9733 563, pushed 1 days ago
-  </span>
   - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server.
+  <sup>
+   606 GitHub links in total 704 links, ★ 563, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 563, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrackwitz/CatchingFire">
    CatchingFire
   </a>
-  <span>
-   &#9733 73, pushed 29 days ago
-  </span>
   - Test Library for Swift's Error Handling.
+  <sup>
+   606 GitHub links in total 704 links, ★ 73, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/venmo/DVR">
    DVR
   </a>
-  <span>
-   &#9733 400, pushed 29 days ago
-  </span>
   - A simple network testing framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 400, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 400, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phimage/Erik">
    Erik
   </a>
-  <span>
-   &#9733 144, pushed 18 days ago
-  </span>
   - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+  <sup>
+   606 GitHub links in total 704 links, ★ 144, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 144, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vadymmarkov/Fakery">
    Fakery
   </a>
-  <span>
-   &#9733 401, pushed 12 days ago
-  </span>
   - Swift fake data generator.
+  <sup>
+   606 GitHub links in total 704 links, ★ 401, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 401, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kylef/Mockingjay">
    Mockingjay
   </a>
-  <span>
-   &#9733 537, pushed 34 days ago
-  </span>
   - An elegant library for stubbing HTTP requests with ease in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 537, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 537, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/OHHTTPStubs">
    OHHTTPStubs
   </a>
-  <span>
-   &#9733 2231, pushed 16 days ago
-  </span>
   - A testing library designed to stub your network requests easily.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2231, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 2231, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Quick/Quick">
    Quick
   </a>
-  <span>
-   &#9733 4606, pushed 2 days ago
-  </span>
   🐧 - Quick is a behavior-driven development framework for Swift and Objective-C.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4606, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4606, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/railsware/Sleipnir">
    Sleipnir
   </a>
-  <span>
-   &#9733 791, pushed 29 days ago
-  </span>
   - BDD-style framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 791, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 791, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kylef/Spectre">
    Spectre
   </a>
-  <span>
-   &#9733 167, pushed 28 days ago
-  </span>
   🐧 - BDD Framework for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 167, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 167, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typelift/SwiftCheck">
    SwiftCheck
   </a>
-  <span>
-   &#9733 360, pushed 2 days ago
-  </span>
   - A testing library that automatically generates random data for testing program properties.
+  <sup>
+   606 GitHub links in total 704 links, ★ 360, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 360, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mflint/SwiftMock">
    SwiftMock
   </a>
-  <span>
-   &#9733 167, pushed 210 days ago
-  </span>
   - A mocking framework for Swift
+  <sup>
+   606 GitHub links in total 704 links, ★ 167, pushed 210 days ago
+  </sup>
+  <sup>
+   &#9733 167, pushed 210 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4535,45 +5603,54 @@
   <a href="https://github.com/marmelroy/Format">
    Format
   </a>
-  <span>
-   &#9733 956, pushed 37 days ago
-  </span>
   - Swift formatting kit for numbers, addresses and colors.
+  <sup>
+   606 GitHub links in total 704 links, ★ 956, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 956, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crossroadlabs/Markdown">
    Markdown
   </a>
-  <span>
-   &#9733 27, pushed 55 days ago
-  </span>
   🐧 - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cezheng/PySwiftyRegex">
    PySwiftyRegex
   </a>
-  <span>
-   &#9733 137, pushed 40 days ago
-  </span>
   - Easily deal with Regex in Swift in a Pythonic way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 137, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 137, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fdzsergio/Reductio">
    Reductio
   </a>
-  <span>
-   &#9733 139, pushed 3 days ago
-  </span>
   - Automatic summarizer text in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 139, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 139, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brynbellomy/Regex">
    Regex by brynbellomy
   </a>
-  <span>
-   &#9733 44, pushed 108 days ago
-  </span>
   - Swift wrapper class for
   <code>
    NSRegularExpression
@@ -4587,73 +5664,100 @@
    =~
   </code>
   ) for a more Swift-like API.
+  <sup>
+   606 GitHub links in total 704 links, ★ 44, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 108 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crossroadlabs/Regex">
    Regex by crossroadlabs
   </a>
-  <span>
-   &#9733 22, pushed 25 days ago
-  </span>
   🐧 - very easy to use, Regular Expressions library with rich functionality. Features both operator
   <code>
    =~
   </code>
   and method based APIs. Unit tests covered.
+  <sup>
+   606 GitHub links in total 704 links, ★ 22, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvzqz/Roman">
    Roman
   </a>
-  <span>
-   &#9733 20, pushed 99 days ago
-  </span>
   🐧 - Seamless Roman numeral conversion in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 20, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftStudies/SmarkDown">
    SmarkDown
   </a>
-  <span>
-   &#9733 34, pushed 43 days ago
-  </span>
   🐧 - Markdown processing for Swift, conforming to Gruber's standards.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/amayne/SwiftString">
    SwiftString
   </a>
-  <span>
-   &#9733 1094, pushed 2 days ago
-  </span>
   - A lightweight string extension for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1094, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1094, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VerbalExpressions/SwiftVerbalExpressions">
    SwiftVerbalExpressions
   </a>
-  <span>
-   &#9733 416, pushed 52 days ago
-  </span>
   - VerbalExpressions porting for swift
+  <sup>
+   606 GitHub links in total 704 links, ★ 416, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 416, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/soffes/SyntaxKit">
    SyntaxKit
   </a>
-  <span>
-   &#9733 340, pushed 143 days ago
-  </span>
   - TextMate-style syntax highlighting.
+  <sup>
+   606 GitHub links in total 704 links, ★ 340, pushed 143 days ago
+  </sup>
+  <sup>
+   &#9733 340, pushed 143 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delba/TextAttributes">
    TextAttributes
   </a>
-  <span>
-   &#9733 1423, pushed 3 days ago
-  </span>
   - An easier way to compose attributed strings.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1423, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1423, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -4664,10 +5768,13 @@
   <a href="https://github.com/marmelroy/PhoneNumberKit">
    PhoneNumberKit
   </a>
-  <span>
-   &#9733 924, pushed 4 days ago
-  </span>
   - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+  <sup>
+   606 GitHub links in total 704 links, ★ 924, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 924, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4683,73 +5790,97 @@
   <a href="https://github.com/duemunk/Async">
    Async
   </a>
-  <span>
-   &#9733 3264, pushed 34 days ago
-  </span>
   – Syntactic Swift sugar for Grand Central Dispatch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3264, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 3264, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josephlord/Async.legacy">
    Async.legacy
   </a>
-  <span>
-   &#9733 33, pushed 495 days ago
-  </span>
   – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork).
+  <sup>
+   606 GitHub links in total 704 links, ★ 33, pushed 495 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 495 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Adlai-Holler/Atomic">
    Atomic
   </a>
-  <span>
-   &#9733 11, pushed 82 days ago
-  </span>
   – A fast, flexible, well-tested wrapper for making values thread-safe.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/comyarzaheri/Chronos-Swift">
    Chronos
   </a>
-  <span>
-   &#9733 218, pushed 23 days ago
-  </span>
   - Grand Central Dispatch Utilities.
+  <sup>
+   606 GitHub links in total 704 links, ★ 218, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aleclarson/dispatcher">
    Dispatcher
   </a>
-  <span>
-   &#9733 92, pushed 8 days ago
-  </span>
   - Queues, timers, and task groups in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 92, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 92, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kodlian/Eki">
    EKI
   </a>
-  <span>
-   &#9733 30, pushed 93 days ago
-  </span>
   - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).
+  <sup>
+   606 GitHub links in total 704 links, ★ 30, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 93 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/GCD">
    GCD
   </a>
-  <span>
-   &#9733 59, pushed 345 days ago
-  </span>
   - A wrapper of Grand Central Dispatch written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 59, pushed 345 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 345 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JohnEstropia/GCDKit">
    GCDKit
   </a>
-  <span>
-   &#9733 226, pushed 1 days ago
-  </span>
   - Grand Central Dispatch simplified with Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 226, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 226, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4765,707 +5896,941 @@
   <a href="https://github.com/aaronabentheuer/AAWindow">
    AAWindow
   </a>
-  <span>
-   &#9733 491, pushed 397 days ago
-  </span>
   - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
+  <sup>
+   606 GitHub links in total 704 links, ★ 491, pushed 397 days ago
+  </sup>
+  <sup>
+   &#9733 491, pushed 397 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/optonaut/ActiveLabel.swift">
    ActiveLabel
   </a>
-  <span>
-   &#9733 946, pushed 2 days ago
-  </span>
   - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
+  <sup>
+   606 GitHub links in total 704 links, ★ 946, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 946, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ramotion/adaptive-tab-bar">
    Adaptive Tab Bar
   </a>
-  <span>
-   &#9733 1364, pushed 92 days ago
-  </span>
   - Adaptive tab bar.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1364, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 1364, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tadija/AERecord">
    AECoreDataUI
   </a>
-  <span>
-   &#9733 223, pushed 46 days ago
-  </span>
   - Core Data driven UI made in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 223, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cocoatoucher/AIFlatSwitch">
    AIFlatSwitch
   </a>
-  <span>
-   &#9733 469, pushed 189 days ago
-  </span>
   - Flat animated switch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 469, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 469, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andreamazz/AMScrollingNavbar">
    AMScrollingNavbar
   </a>
-  <span>
-   &#9733 3760, pushed 11 days ago
-  </span>
   - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3760, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 3760, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dasdom/BreakOutToRefresh">
    BreakOutToRefresh
   </a>
-  <span>
-   &#9733 1819, pushed 27 days ago
-  </span>
   - A playable pull to refresh view using SpriteKit.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1819, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 1819, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gmertk/BusyNavigationBar">
    BusyNavigationBar
   </a>
-  <span>
-   &#9733 625, pushed 103 days ago
-  </span>
   - A UINavigationBar extension to show loading effects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 625, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 625, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ariok/BWWalkthrough">
    BWWalkthrough
   </a>
-  <span>
-   &#9733 1994, pushed 28 days ago
-  </span>
   - A class to build custom walkthroughs for your iOS App.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1994, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 1994, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mmick66/CalendarView">
    CalendarView
   </a>
-  <span>
-   &#9733 4, pushed 3 days ago
-  </span>
   - A Calendar Component in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/android1989/CharacterText">
    CharacterText
   </a>
-  <span>
-   &#9733 276, pushed 38 days ago
-  </span>
   - Perform fx on UILabel.
+  <sup>
+   606 GitHub links in total 704 links, ★ 276, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 276, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danielgindi/Charts">
    Charts
   </a>
-  <span>
-   &#9733 8814, pushed 4 days ago
-  </span>
   - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+  <sup>
+   606 GitHub links in total 704 links, ★ 8814, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 8814, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cybertk/CKPickerView">
    CKPickerView
   </a>
-  <span>
-   &#9733 3, pushed 232 days ago
-  </span>
   - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 232 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 232 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/suzuki-0000/CountdownLabel">
    CountdownLabel
   </a>
-  <span>
-   &#9733 43, pushed 23 days ago
-  </span>
   - Simple countdown UILabel with morphing animation, and some useful function.
+  <sup>
+   606 GitHub links in total 704 links, ★ 43, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mmick66/KDDragAndDropCollectionView">
    Drag and Drop UICollectionView
   </a>
-  <span>
-   &#9733 125, pushed 76 days ago
-  </span>
   - Dragging and Dropping data across multiple UICollectionViews (in Swift).
+  <sup>
+   606 GitHub links in total 704 links, ★ 125, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marketplacer/Dodo">
    Dodo
   </a>
-  <span>
-   &#9733 600, pushed 31 days ago
-  </span>
   - A message bar for iOS written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 600, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 600, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ipraba/EPShapes">
    EPShapes
   </a>
-  <span>
-   &#9733 276, pushed 77 days ago
-  </span>
   - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
+  <sup>
+   606 GitHub links in total 704 links, ★ 276, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 276, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Aufree/ESTMusicIndicator">
    EstMusicIndicator
   </a>
-  <span>
-   &#9733 258, pushed 113 days ago
-  </span>
   - Music play indicator like iTunes
+  <sup>
+   606 GitHub links in total 704 links, ★ 258, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 258, pushed 113 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/goktugyil/EZLoadingActivity">
    EZLoadingActivity
   </a>
-  <span>
-   &#9733 354, pushed 7 days ago
-  </span>
   - Lightweight loading activity HUD.
+  <sup>
+   606 GitHub links in total 704 links, ★ 354, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 354, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/goktugyil/EZSwipeController">
    EZSwipeController
   </a>
-  <span>
-   &#9733 398, pushed 26 days ago
-  </span>
   -  :point
   <em>
    up
   </em>
   2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
+  <sup>
+   606 GitHub links in total 704 links, ★ 398, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 398, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vadymmarkov/Fashion">
    Fashion
   </a>
-  <span>
-   &#9733 22, pushed 12 days ago
-  </span>
   - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 22, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshaber/Few.swift">
    Few.swift
   </a>
-  <span>
-   &#9733 814, pushed 138 days ago
-  </span>
   - Views as functions of their state.
+  <sup>
+   606 GitHub links in total 704 links, ★ 814, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 814, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/poolqf/FillableLoaders">
    FillableLoaders
   </a>
-  <span>
-   &#9733 1278, pushed 25 days ago
-  </span>
   - Fillable loaders progress.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1278, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 1278, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madebybowtie/FlagKit">
    FlagKit
   </a>
-  <span>
-   &#9733 1130, pushed 11 days ago
-  </span>
   - Beautiful flag icons for usage in apps and on the web.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1130, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1130, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FahimF/FloatLabelFields">
    FloatLabelFields
   </a>
-  <span>
-   &#9733 798, pushed 27 days ago
-  </span>
   - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
+  <sup>
+   606 GitHub links in total 704 links, ★ 798, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 798, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/glenyi/FloatRatingView">
    FloatRatingView
   </a>
-  <span>
-   &#9733 239, pushed 237 days ago
-  </span>
   - Floating rating system.
+  <sup>
+   606 GitHub links in total 704 links, ★ 239, pushed 237 days ago
+  </sup>
+  <sup>
+   &#9733 239, pushed 237 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skywinder/GaugeKit">
    GaugeKit
   </a>
-  <span>
-   &#9733 757, pushed 32 days ago
-  </span>
   - Customizable gauges. Easy reproduce Apple's style gauges.
+  <sup>
+   606 GitHub links in total 704 links, ★ 757, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 757, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yukiasai/Gecco">
    Gecco
   </a>
-  <span>
-   &#9733 1158, pushed 8 days ago
-  </span>
   - Spotlight view for iOS
+  <sup>
+   606 GitHub links in total 704 links, ★ 1158, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1158, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/artman/Geometry">
    Geometry
   </a>
-  <span>
-   &#9733 69, pushed 81 days ago
-  </span>
   - extensions for UIView.
+  <sup>
+   606 GitHub links in total 704 links, ★ 69, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 69, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delannoyk/GIFRefreshControl">
    GIFRefreshControl
   </a>
-  <span>
-   &#9733 82, pushed 33 days ago
-  </span>
   - A pull to refresh that supports GIF images as track animations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 82, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kciter/GlitchLabel">
    GlitchLabel
   </a>
-  <span>
-   &#9733 420, pushed 3 days ago
-  </span>
   - Glitching UILabel for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 420, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 420, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gmertk/GMStepper">
    GMStepper
   </a>
-  <span>
-   &#9733 371, pushed 12 days ago
-  </span>
   - A stepper with a sliding label in the middle.
+  <sup>
+   606 GitHub links in total 704 links, ★ 371, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 371, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/groue/GRMustache.swift">
    GRMustache
   </a>
-  <span>
-   &#9733 235, pushed 9 days ago
-  </span>
   - Flexible Mustache templates for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 235, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 235, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gautier-gdx/Hexacon">
    Hexacon
   </a>
-  <span>
-   &#9733 98, pushed 2 days ago
-  </span>
   - A new way to display content in your app like the Apple Watch SpringBoard.
+  <sup>
+   606 GitHub links in total 704 links, ★ 98, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/suzuki-0000/HoneycombView">
    HoneycombView
   </a>
-  <span>
-   &#9733 135, pushed 41 days ago
-  </span>
   - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 135, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 135, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cockscomb/HUDKit">
    HUDKit
   </a>
-  <span>
-   &#9733 47, pushed 39 days ago
-  </span>
   - HUD interface as UIPresentationController.
+  <sup>
+   606 GitHub links in total 704 links, ★ 47, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hanton/HTYTextField">
    HTYTextField
   </a>
-  <span>
-   &#9733 85, pushed 163 days ago
-  </span>
   - A UITextField with bouncy placeholder in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 85, pushed 164 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 164 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/ImagePicker">
    ImagePicker
   </a>
-  <span>
-   &#9733 1350, pushed 4 days ago
-  </span>
   - A nicely designed and super easy to use ImagePicker.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1350, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1350, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/larcus94/ImagePickerSheetController">
    ImagePickerSheetController
   </a>
-  <span>
-   &#9733 944, pushed 9 days ago
-  </span>
   - A component that replicates the custom photo action sheet in iMessage.
+  <sup>
+   606 GitHub links in total 704 links, ★ 944, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 944, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ephread/Instructions">
    Instructions
   </a>
-  <span>
-   &#9733 1959, pushed 1 days ago
-  </span>
   - A Swift library to create app walkthroughs and guided tours.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1959, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1959, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/recisio/IncrementableLabel">
    IncrementableLabel
   </a>
-  <span>
-   &#9733 11, pushed 9 days ago
-  </span>
   - An UILabel subclass to (de)increment numbers in an UILabel
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/devxoul/JLToast">
    JLToast
   </a>
-  <span>
-   &#9733 465, pushed 20 days ago
-  </span>
   - Toast for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 465, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 465, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kciter/KCHorizontalDial">
    KCHorizontalDial
   </a>
-  <span>
-   &#9733 34, pushed 75 days ago
-  </span>
   - A horizontal scroll dial like Instagram.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kciter/KCSelectionDialog">
    KCSelectionDialog
   </a>
-  <span>
-   &#9733 32, pushed 35 days ago
-  </span>
   - Simple selection dialog.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delannoyk/KDEDateLabel">
    KDEDateLabel
   </a>
-  <span>
-   &#9733 73, pushed 81 days ago
-  </span>
   - An UILabel subclass that updates itself to make time ago's format easier.
+  <sup>
+   606 GitHub links in total 704 links, ★ 73, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kingiol/KDInteractiveNavigationController">
    KDInteractiveNavigationController
   </a>
-  <span>
-   &#9733 45, pushed 71 days ago
-  </span>
   - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
+  <sup>
+   606 GitHub links in total 704 links, ★ 45, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MoZhouqi/KMNavigationBarTransition">
    KMNavigationBarTransition
   </a>
-  <span>
-   &#9733 1122, pushed 15 days ago
-  </span>
   - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1122, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1122, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MoZhouqi/KMPlaceholderTextView">
    KMPlaceholderTextView
   </a>
-  <span>
-   &#9733 228, pushed 40 days ago
-  </span>
   - A UITextView subclass that adds support for multiline placeholder.
+  <sup>
+   606 GitHub links in total 704 links, ★ 228, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 228, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/krimpedance/KRProgressHUD">
    KRProgressHUD
   </a>
-  <span>
-   &#9733 23, pushed 60 days ago
-  </span>
   - A beautiful and customizable progress HUD.
+  <sup>
+   606 GitHub links in total 704 links, ★ 23, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yoavlt/LiquidLoader">
    LiquidLoader
   </a>
-  <span>
-   &#9733 644, pushed 77 days ago
-  </span>
   - Spinner loader components with liquid animation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 644, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 644, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lexrus/LTJelloSwitch">
    LTJelloSwitch
   </a>
-  <span>
-   &#9733 353, pushed 104 days ago
-  </span>
   - UISwitch prototype.
+  <sup>
+   606 GitHub links in total 704 links, ★ 353, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 353, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lexrus/LTMorphingLabel">
    LTMorphingLabel
   </a>
-  <span>
-   &#9733 4269, pushed 40 days ago
-  </span>
   - Graceful morphing effects for UILabel written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 4269, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 4269, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/canalesb93/MantleModal">
    MantleModal
   </a>
-  <span>
-   &#9733 32, pushed 170 days ago
-  </span>
   - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 170 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 170 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CosmicMind/Material">
    Material
   </a>
-  <span>
-   &#9733 5014, pushed 1 days ago
-  </span>
   - Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 5014, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5014, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/MaterialKit">
    MaterialKit
   </a>
-  <span>
-   &#9733 2205, pushed 18 days ago
-  </span>
   - Material design components.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2205, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2205, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pixyzehn/MediumScrollFullScreen">
    MediumScrollFullScreen
   </a>
-  <span>
-   &#9733 468, pushed 80 days ago
-  </span>
   - Medium scroll style menubar.
+  <sup>
+   606 GitHub links in total 704 links, ★ 468, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 468, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mustafaibrahim989/MICountryPicker">
    MICountryPicker
   </a>
-  <span>
-   &#9733 13, pushed 28 days ago
-  </span>
   - Swift country picker with search option.
+  <sup>
+   606 GitHub links in total 704 links, ★ 13, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DroidsOnRoids/MPParallaxView">
    MPParallaxView
   </a>
-  <span>
-   &#9733 1243, pushed 86 days ago
-  </span>
   - Apple TV Parallax effect in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1243, pushed 86 days ago
+  </sup>
+  <sup>
+   &#9733 1243, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxep/MXParallaxHeader">
    MXParallaxHeader
   </a>
-  <span>
-   &#9733 554, pushed 25 days ago
-  </span>
   - Simple parallax header in Swift for UIScrollView.
+  <sup>
+   606 GitHub links in total 704 links, ★ 554, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 554, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/m1entus/MZFormSheetPresentationController">
    MZFormSheetPresentationController
   </a>
-  <span>
-   &#9733 484, pushed 6 days ago
-  </span>
   - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
+  <sup>
+   606 GitHub links in total 704 links, ★ 484, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 484, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/muukii/NextGrowingTextView">
    NextGrowingTextView
   </a>
-  <span>
-   &#9733 542, pushed 3 days ago
-  </span>
   - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+  <sup>
+   606 GitHub links in total 704 links, ★ 542, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 542, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nerd0geek1/NSPageControl">
    NSPageControl
   </a>
-  <span>
-   &#9733 3, pushed 39 days ago
-  </span>
   - PageControl Component for OS X.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/me-abhinav/NumberMorphView">
    NumberMorphView
   </a>
-  <span>
-   &#9733 830, pushed 14 days ago
-  </span>
   - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
+  <sup>
+   606 GitHub links in total 704 links, ★ 830, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 830, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ninjaprox/NVActivityIndicatorView">
    NVActivityIndicatorView
   </a>
-  <span>
-   &#9733 2920, pushed 18 days ago
-  </span>
   - Collection of nice loading animations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2920, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2920, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tasanobu/Otafuku">
    Otafuku
   </a>
-  <span>
-   &#9733 30, pushed 36 days ago
-  </span>
   - Some utility classes to use WKWebView in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 30, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hirohisa/PageController">
    PageController
   </a>
-  <span>
-   &#9733 119, pushed 41 days ago
-  </span>
   - Infinite paging controller.
+  <sup>
+   606 GitHub links in total 704 links, ★ 119, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 119, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/iSame7/Panoramic">
    Panoramic
   </a>
-  <span>
-   &#9733 314, pushed 189 days ago
-  </span>
   - Panoramic facebook story clone.
+  <sup>
+   606 GitHub links in total 704 links, ★ 314, pushed 190 days ago
+  </sup>
+  <sup>
+   &#9733 314, pushed 190 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pkluz/PKHUD">
    PKHUD
   </a>
-  <span>
-   &#9733 1324, pushed 4 days ago
-  </span>
   - Reimplementation of the Apple HUD.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1324, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1324, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinzhow/PNChart-Swift">
    PNChart-Swift
   </a>
-  <span>
-   &#9733 904, pushed 48 days ago
-  </span>
   - A simple and beautiful chart lib with animation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 904, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 904, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterprokop/PPSwiftGifs">
    PPSwiftGifs
   </a>
-  <span>
-   &#9733 23, pushed 86 days ago
-  </span>
   - a convenient way to show animated GIF images as a part of iOS GUI.
+  <sup>
+   606 GitHub links in total 704 links, ★ 23, pushed 86 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ramotion/reel-search">
    Reel search
   </a>
-  <span>
-   &#9733 944, pushed 27 days ago
-  </span>
   - Option list managed as a reel.
+  <sup>
+   606 GitHub links in total 704 links, ★ 944, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 944, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Produkt/RubberBandEffect">
    RubberBandEffect
   </a>
-  <span>
-   &#9733 417, pushed 316 days ago
-  </span>
   - Recreating Apple’s rubber band effect in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 417, pushed 316 days ago
+  </sup>
+  <sup>
+   &#9733 417, pushed 316 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController">
    SAHistoryNavigationViewController
   </a>
-  <span>
-   &#9733 1175, pushed 37 days ago
-  </span>
   - iOS task manager like UI in UINavigationContoller.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1175, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 1175, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/Sapporo">
    Sapporo
   </a>
-  <span>
-   &#9733 158, pushed 26 days ago
-  </span>
   - A cellmodel-driven CollectionView manager for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 158, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/SevenSwitch">
    SevenSwitch
   </a>
-  <span>
-   &#9733 17, pushed 134 days ago
-  </span>
   - iOS7 style drop in replacement for UISwitch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 17, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ArtSabintsev/Siren">
    Siren
   </a>
-  <span>
-   &#9733 945, pushed 6 days ago
-  </span>
   - Inform users when App Store updates are available.
+  <sup>
+   606 GitHub links in total 704 links, ★ 945, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 945, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/suzuki-0000/SKPhotoBrowser">
    SKPhotoBrowser
   </a>
-  <span>
-   &#9733 722, pushed 5 days ago
-  </span>
   - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 722, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 722, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thefuntasty/Sonar">
    Sonar
   </a>
-  <span>
-   &#9733 46, pushed 2 days ago
-  </span>
   - Cool radar-style view
+  <sup>
+   606 GitHub links in total 704 links, ★ 46, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo">
@@ -5477,127 +6842,169 @@
   <a href="https://github.com/peterprokop/StarryStars">
    StarryStars
   </a>
-  <span>
-   &#9733 82, pushed 81 days ago
-  </span>
   - Display & edit ratings, fully customizable from interface builder.
+  <sup>
+   606 GitHub links in total 704 links, ★ 82, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jpotts18/SwiftValidator">
    SwiftValidator
   </a>
-  <span>
-   &#9733 574, pushed 3 days ago
-  </span>
   - UIView validation framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 574, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 574, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/morizotter/SwiftyDrop">
    SwiftyDrop
   </a>
-  <span>
-   &#9733 374, pushed 64 days ago
-  </span>
   - Lightweight dropdown message bar in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 374, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 374, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ruipfcosta/SwiftyWalkthrough">
    SwiftyWalkthrough
   </a>
-  <span>
-   &#9733 121, pushed 69 days ago
-  </span>
   - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 121, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 121, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shoheiyokoyama/SYBlinkAnimationKit">
    SYBlinkAnimationKit
   </a>
-  <span>
-   &#9733 19, pushed 43 days ago
-  </span>
   - A blink effect animation framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EndouMari/TabPageViewController">
    TabPageViewController
   </a>
-  <span>
-   &#9733 128, pushed 17 days ago
-  </span>
   -  Paging view controller and scroll tab view
+  <sup>
+   606 GitHub links in total 704 links, ★ 128, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 128, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/riteshhgupta/TagCellLayout">
    TagCellLayout
   </a>
-  <span>
-   &#9733 35, pushed 148 days ago
-  </span>
   - UICollectionView layout for Tags with Left, Center & Right alignments.
+  <sup>
+   606 GitHub links in total 704 links, ★ 35, pushed 148 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xhacker/TagListView">
    TagListView
   </a>
-  <span>
-   &#9733 564, pushed 2 days ago
-  </span>
   - Simple but highly customizable iOS tag list view.
+  <sup>
+   606 GitHub links in total 704 links, ★ 564, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 564, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tomdiggle/TCDInputView">
    TCDInputView
   </a>
-  <span>
-   &#9733 7, pushed 187 days ago
-  </span>
   - A custom input view which is displayed when a text field becomes the first responder.
+  <sup>
+   606 GitHub links in total 704 links, ★ 7, pushed 187 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 187 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raulriera/TextFieldEffects">
    TextFieldEffects
   </a>
-  <span>
-   &#9733 2706, pushed 30 days ago
-  </span>
   - Several ready to use effects for UITextFields
+  <sup>
+   606 GitHub links in total 704 links, ★ 2706, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 2706, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/morizotter/TouchVisualizer">
    TouchVisualizer
   </a>
-  <span>
-   &#9733 392, pushed 167 days ago
-  </span>
   - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
+  <sup>
+   606 GitHub links in total 704 links, ★ 392, pushed 167 days ago
+  </sup>
+  <sup>
+   &#9733 392, pushed 167 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/piemonte/Twinkle">
    Twinkle
   </a>
-  <span>
-   &#9733 326, pushed 121 days ago
-  </span>
   - a Swift and easy way to make elements in your iOS app twinkle.
+  <sup>
+   606 GitHub links in total 704 links, ★ 326, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 326, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/szk-atmosphere/URLEmbeddedView">
    URLEmbeddedView
   </a>
-  <span>
-   &#9733 235, pushed 18 days ago
-  </span>
   - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+  <sup>
+   606 GitHub links in total 704 links, ★ 235, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 235, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shuuchen/WWElasticTextField">
    WWElasticTextField
   </a>
-  <span>
-   &#9733 1, pushed 43 days ago
-  </span>
   - UITextField with elastic bounce effect on touch.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5613,118 +7020,157 @@
   <a href="https://github.com/thii/AlertKit">
    AlertKit
   </a>
-  <span>
-   &#9733 14, pushed 14 days ago
-  </span>
   – Alert with a single line of Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 14, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thellimist/EZAlertController">
    EZAlertController
   </a>
-  <span>
-   &#9733 197, pushed 33 days ago
-  </span>
   - Easy Swift UIAlertController.
+  <sup>
+   606 GitHub links in total 704 links, ★ 197, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 197, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AshRobinson/GoogleWearAlert">
    GoogleWearAlert
   </a>
-  <span>
-   &#9733 410, pushed 330 days ago
-  </span>
   - Google Wear Alert style.
+  <sup>
+   606 GitHub links in total 704 links, ★ 410, pushed 331 days ago
+  </sup>
+  <sup>
+   &#9733 410, pushed 331 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wxxsw/GSAlert">
    GSAlert
   </a>
-  <span>
-   &#9733 22, pushed 120 days ago
-  </span>
   - If you want to use UIAlertController, but still need to support iOS 7 this project is for you.
+  <sup>
+   606 GitHub links in total 704 links, ★ 22, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wxxsw/GSMessages">
    GSMessage
   </a>
-  <span>
-   &#9733 78, pushed 27 days ago
-  </span>
   - A simple style messages/notifications for iOS 7+.
+  <sup>
+   606 GitHub links in total 704 links, ★ 78, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ytakzk/Hokusai">
    Hokusai
   </a>
-  <span>
-   &#9733 280, pushed 10 days ago
-  </span>
   - A library for a cool bouncy action sheet.
+  <sup>
+   606 GitHub links in total 704 links, ★ 280, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 280, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tasanobu/Kamagari">
    Kamagari
   </a>
-  <span>
-   &#9733 60, pushed 36 days ago
-  </span>
   - Simple UIAlertController builder class in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 60, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thii/Notie">
    Notie
   </a>
-  <span>
-   &#9733 38, pushed 26 days ago
-  </span>
   - In-app notification in Swift, with customizable buttons and input text field.
+  <sup>
+   606 GitHub links in total 704 links, ★ 38, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vikmeup/SCLAlertView-Swift">
    SCLAlertView
   </a>
-  <span>
-   &#9733 2594, pushed 3 days ago
-  </span>
   - Animated Alert view.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2594, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2594, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/codestergit/SweetAlert-iOS">
    SweetAlert
   </a>
-  <span>
-   &#9733 1176, pushed 55 days ago
-  </span>
   - Alert system.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1176, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 1176, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterprokop/SwiftOverlays">
    SwiftOverlays
   </a>
-  <span>
-   &#9733 291, pushed 7 days ago
-  </span>
   - various popups and notifications.
+  <sup>
+   606 GitHub links in total 704 links, ★ 291, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 291, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Whisper">
    Whisper
   </a>
-  <span>
-   &#9733 1744, pushed 12 days ago
-  </span>
   - Messages and in-app notification made easy.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1744, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1744, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xmartlabs/XLActionController">
    XLActionController
   </a>
-  <span>
-   &#9733 960, pushed 27 days ago
-  </span>
   - Fully customizable and extensible action sheet controller written in Swift 2.
+  <sup>
+   606 GitHub links in total 704 links, ★ 960, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 960, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5735,19 +7181,25 @@
   <a href="https://github.com/FlexMonkey/Blurable">
    Blurable
   </a>
-  <span>
-   &#9733 602, pushed 217 days ago
-  </span>
   - Apply a Gaussian Blur to any UIView with Swift Protocol Extensions.
+  <sup>
+   606 GitHub links in total 704 links, ★ 602, pushed 217 days ago
+  </sup>
+  <sup>
+   &#9733 602, pushed 217 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hryk224/PCLBlurEffectAlert">
    PCLBlurEffectAlert
   </a>
-  <span>
-   &#9733 65, pushed 6 days ago
-  </span>
   - Swift AlertController with UIVisualeffectview.
+  <sup>
+   606 GitHub links in total 704 links, ★ 65, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5758,82 +7210,109 @@
   <a href="https://github.com/suzuki-0000/AnimatablePlayButton">
    AnimatablePlayButton
   </a>
-  <span>
-   &#9733 37, pushed 41 days ago
-  </span>
   - Animated Play and Pause Button using CALayer, CAKeyframeAnimation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 37, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/okmr-d/DOFavoriteButton">
    DOFavoriteButton
   </a>
-  <span>
-   &#9733 2135, pushed 20 days ago
-  </span>
   - Cute Animated Button written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2135, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 2135, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robb/hamburger-button">
    Hamburger button transition
   </a>
-  <span>
-   &#9733 1931, pushed 6 days ago
-  </span>
   - Hamburger button transition.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1931, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1931, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fastred/HamburgerButton">
    HamburgerButton
   </a>
-  <span>
-   &#9733 117, pushed 219 days ago
-  </span>
   - Hamburger button with a slick animation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 117, pushed 219 days ago
+  </sup>
+  <sup>
+   &#9733 117, pushed 219 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kciter/KCFloatingActionButton">
    KCFloatingActionButton
   </a>
-  <span>
-   &#9733 132, pushed 26 days ago
-  </span>
   - Floating Action Button for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 132, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 132, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mustafaibrahim989/MIBadgeButton-Swift">
    MIBadgeButton
   </a>
-  <span>
-   &#9733 116, pushed 7 days ago
-  </span>
   - Notification badge for UIButtons.
+  <sup>
+   606 GitHub links in total 704 links, ★ 116, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/0x73/SDevBootstrapButton">
    SDevBootstrapButton
   </a>
-  <span>
-   &#9733 23, pushed 288 days ago
-  </span>
   - Twitter Bootstrap buttons for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 23, pushed 288 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 288 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marmelroy/TVButton">
    TVButton
   </a>
-  <span>
-   &#9733 716, pushed 43 days ago
-  </span>
   - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
+  <sup>
+   606 GitHub links in total 704 links, ★ 716, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 716, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zoonooz/ZFRippleButton">
    ZFRippleButton
   </a>
-  <span>
-   &#9733 1077, pushed 168 days ago
-  </span>
   - A ripple button animation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1077, pushed 168 days ago
+  </sup>
+  <sup>
+   &#9733 1077, pushed 169 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5844,34 +7323,49 @@
   <a href="https://github.com/xmartlabs/Eureka">
    Eureka
   </a>
-  <span>
-   &#9733 3057, pushed 1 days ago
-  </span>
   - Elegant iOS form builder in swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3057, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 3057, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ra1028/Former">
    Former
   </a>
-  <span>
-   &#9733 592, pushed 12 days ago
-  </span>
   - A fully customizable Swift 2 library for easy creating UITableView based form.
+  <sup>
+   606 GitHub links in total 704 links, ★ 592, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 592, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ortuman/SwiftForms">
    SwiftForms
   </a>
   - form are now easy as 1.2.3!
+  <sup>
+   606 GitHub links in total 704 links, ★ 883, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 883, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neoneye/SwiftyFORM">
    SwiftyFORM
   </a>
-  <span>
-   &#9733 369, pushed 7 days ago
-  </span>
   - Forms that can be validated.
+  <sup>
+   606 GitHub links in total 704 links, ★ 369, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 369, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5882,86 +7376,113 @@
   <a href="https://github.com/ashishkakkad8/AKSwiftSlideMenu">
    AKSwiftSlideMenu
   </a>
-  <span>
-   &#9733 91, pushed 25 days ago
-  </span>
   - Slide Menu (Drawer) in Swift
+  <sup>
+   606 GitHub links in total 704 links, ★ 91, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evnaz/ENSwiftSideMenu">
    ENSwiftSideMenu
   </a>
-  <span>
-   &#9733 1463, pushed 21 days ago
-  </span>
   - Sliding side menu.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1463, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1463, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/edekhayser/FrostedSidebar">
    FrostedSidebar
   </a>
-  <span>
-   &#9733 366, pushed 179 days ago
-  </span>
   - Hamburger Menu using Swift and iOS 8 API's.
+  <sup>
+   606 GitHub links in total 704 links, ★ 366, pushed 179 days ago
+  </sup>
+  <sup>
+   &#9733 366, pushed 179 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yalantis/GuillotineMenu">
    GuillotineMenu
   </a>
-  <span>
-   &#9733 2002, pushed 16 days ago
-  </span>
   - Guillotine style menu.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2002, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 2002, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pixyzehn/MediumMenu">
    MediumMenu
   </a>
-  <span>
-   &#9733 215, pushed 1 days ago
-  </span>
   - A menu based on Medium iOS app.
+  <sup>
+   606 GitHub links in total 704 links, ★ 215, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 215, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HighBay/PageMenu">
    Pagemenu
   </a>
-  <span>
-   &#9733 2653, pushed 13 days ago
-  </span>
   - Pagination enabled view controller.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2653, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 2653, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kitasuke/PagingMenuController">
    PagingMenuController
   </a>
-  <span>
-   &#9733 946, pushed 0 days ago
-  </span>
   - Paging view controller with customizable menu in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 946, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 946, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cxa/MenuItemKit">
    MenuItemKit
   </a>
-  <span>
-   &#9733 268, pushed 42 days ago
-  </span>
   -
   <code>
    UIMenuItem
   </code>
   with image and block (closure) support.
+  <sup>
+   606 GitHub links in total 704 links, ★ 268, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 268, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xmartlabs/XLPagerTabStrip">
    XLPagerTabStrip
   </a>
-  <span>
-   &#9733 2460, pushed 22 days ago
-  </span>
   - Android PagerTabStrip for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2460, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 2460, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5972,10 +7493,13 @@
   <a href="https://github.com/prolificinteractive/Caishen">
    Caishen
   </a>
-  <span>
-   &#9733 405, pushed 2 days ago
-  </span>
   - A Payment Card UI & Validator for iOS
+  <sup>
+   606 GitHub links in total 704 links, ★ 405, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 405, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -5986,28 +7510,37 @@
   <a href="https://github.com/delba/Permission">
    Permission
   </a>
-  <span>
-   &#9733 1540, pushed 7 days ago
-  </span>
   - A unified API to ask for permissions on iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1540, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1540, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nickoneill/PermissionScope">
    PermissionScope
   </a>
-  <span>
-   &#9733 2467, pushed 7 days ago
-  </span>
   - A Periscope-inspired way to ask for iOS permissions.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2467, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 2467, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GabrielAlva/Swift-Prompts">
    Swift-Prompts
   </a>
-  <span>
-   &#9733 607, pushed 40 days ago
-  </span>
   - A Swift library to design custom prompts with a great scope of options to choose from.
+  <sup>
+   606 GitHub links in total 704 links, ★ 607, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 607, pushed 40 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -6018,19 +7551,25 @@
   <a href="https://github.com/seedco/StackViewController">
    StackViewController
   </a>
-  <span>
-   &#9733 280, pushed 4 days ago
-  </span>
   - Simplify the use of UIStackView.
+  <sup>
+   606 GitHub links in total 704 links, ★ 280, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 280, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tomvanzummeren/TZStackView">
    TZStackView
   </a>
-  <span>
-   &#9733 910, pushed 19 days ago
-  </span>
   - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
+  <sup>
+   606 GitHub links in total 704 links, ★ 910, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 910, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -6041,55 +7580,73 @@
   <a href="https://github.com/andreamazz/BubbleTransition">
    BubbleTransition
   </a>
-  <span>
-   &#9733 1865, pushed 43 days ago
-  </span>
   - Bubble transition in an easy way.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1865, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1865, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lkzhao/ElasticTransition">
    ElasticTransition
   </a>
-  <span>
-   &#9733 1044, pushed 33 days ago
-  </span>
   - An interactive transition that simulates an elastic drag.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1044, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 1044, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xxxAIRINxxx/MusicPlayerTransition">
    MusicPlayerTransition
   </a>
-  <span>
-   &#9733 263, pushed 41 days ago
-  </span>
   - Custom interactive transition like Apple Music iOS App. written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 263, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 263, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/demonnico/PinterestSwift">
    PinterestSwift
   </a>
-  <span>
-   &#9733 881, pushed 22 days ago
-  </span>
   - Pinterest style transition.
+  <sup>
+   606 GitHub links in total 704 links, ★ 881, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 881, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yalantis/StarWars.iOS">
    StarWars.iOS
   </a>
-  <span>
-   &#9733 2329, pushed 96 days ago
-  </span>
   - Transition animation to crumble view-controller into tiny pieces.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2329, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 2329, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cemolcay/TransitionManager">
    TransitionManager
   </a>
-  <span>
-   &#9733 164, pushed 80 days ago
-  </span>
   - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 164, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 164, pushed 80 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -6100,73 +7657,97 @@
   <a href="https://github.com/tadija/AEAccordion">
    AEAccordion
   </a>
-  <span>
-   &#9733 95, pushed 293 days ago
-  </span>
   - UITableViewController with accordion effect (expand / collapse cells).
+  <sup>
+   606 GitHub links in total 704 links, ★ 95, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 293 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cybertk/CKTextFieldTableCell">
    CKTextFieldTableCell
   </a>
-  <span>
-   &#9733 6, pushed 236 days ago
-  </span>
   - UITableViewCell drop-in replacement with support of UITextField.
+  <sup>
+   606 GitHub links in total 704 links, ★ 6, pushed 236 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 236 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nahive/doppelganger-swift">
    Doppelganger-Swift
   </a>
-  <span>
-   &#9733 6, pushed 33 days ago
-  </span>
   - Animated UITableView/UICollectionView dataSource changes.
+  <sup>
+   606 GitHub links in total 704 links, ★ 6, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ramotion/folding-cell">
    folding-cell
   </a>
-  <span>
-   &#9733 2875, pushed 18 days ago
-  </span>
   - Folding cell transition.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2875, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2875, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nghialv/Hakuba">
    Hakuba
   </a>
-  <span>
-   &#9733 404, pushed 22 days ago
-  </span>
   - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
+  <sup>
+   606 GitHub links in total 704 links, ★ 404, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 404, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yalantis/Persei">
    Persei
   </a>
-  <span>
-   &#9733 2004, pushed 152 days ago
-  </span>
   - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2004, pushed 152 days ago
+  </sup>
+  <sup>
+   &#9733 2004, pushed 152 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dekatotoro/PullToRefreshSwift">
    PullToRefreshSwift
   </a>
-  <span>
-   &#9733 328, pushed 14 days ago
-  </span>
   - PullToRefresh library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 328, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 328, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yukiasai/Shoyu">
    Shoyu
   </a>
-  <span>
-   &#9733 214, pushed 22 days ago
-  </span>
   - Easier way to represent the structure of UITableView.
+  <sup>
+   606 GitHub links in total 704 links, ★ 214, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 214, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -6182,352 +7763,469 @@
   <a href="https://github.com/lotz84/__.swift">
    __
   </a>
-  <span>
-   &#9733 87, pushed 402 days ago
-  </span>
   - Underscore.js power in your Swift projects.
+  <sup>
+   606 GitHub links in total 704 links, ★ 87, pushed 402 days ago
+  </sup>
+  <sup>
+   &#9733 87, pushed 402 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tadija/AEAppVersion">
    AEAppVersion
   </a>
-  <span>
-   &#9733 2, pushed 81 days ago
-  </span>
   - Simple and Lightweight iOS App Version Tracking written in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ovenbits/Alexandria">
    Alexandria
   </a>
-  <span>
-   &#9733 11, pushed 8 days ago
-  </span>
   A large set of convenience extensions for UIKit and Foundation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phimage/ApplicationGroupKit">
    ApplicationGroupKit
   </a>
-  <span>
-   &#9733 12, pushed 82 days ago
-  </span>
   - Share informations betweens your applications and your extensions using group identifier.
+  <sup>
+   606 GitHub links in total 704 links, ★ 12, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eure/AppVersionMonitor">
    AppVersionMonitor
   </a>
-  <span>
-   &#9733 154, pushed 57 days ago
-  </span>
   - Monitor iOS app version easily.
+  <sup>
+   606 GitHub links in total 704 links, ★ 154, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 154, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Adlai-Holler/ArrayDiff">
    ArrayDiff
   </a>
-  <span>
-   &#9733 27, pushed 19 days ago
-  </span>
   - a fast, UITableView/UICollectionView-compatible array diffing microframework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aschuch/AwesomeCache">
    AwesomeCache
   </a>
-  <span>
-   &#9733 728, pushed 23 days ago
-  </span>
   - manage cache easy in your Swift project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 728, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 728, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typelift/Basis">
    Basis
   </a>
-  <span>
-   &#9733 276, pushed 42 days ago
-  </span>
   - Pure Declarative Programming in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 276, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 276, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wongzigii/Butterfly">
    Butterfly
   </a>
-  <span>
-   &#9733 387, pushed 32 days ago
-  </span>
   - A lightweight library for integrating bug-report and feedback features with shake-motion event.
+  <sup>
+   606 GitHub links in total 704 links, ★ 387, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 387, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Cache">
    Cache
   </a>
-  <span>
-   &#9733 333, pushed 5 days ago
-  </span>
   - Nothing but Cache.
+  <sup>
+   606 GitHub links in total 704 links, ★ 333, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 333, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nuudles/CacheIsKing">
    CacheIsKing
   </a>
-  <span>
-   &#9733 11, pushed 97 days ago
-  </span>
   - A light memory caching library with native Swift support (structs/enums/etc.)
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phimage/CallbackURLKit">
    CallbackURLKit
   </a>
-  <span>
-   &#9733 81, pushed 82 days ago
-  </span>
   - Implementation of x-callback-url (Inter app communication) in swift
+  <sup>
+   606 GitHub links in total 704 links, ★ 81, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/WeltN24/Carlos">
    Carlos
   </a>
-  <span>
-   &#9733 228, pushed 5 days ago
-  </span>
   - A simple but flexible cache.
+  <sup>
+   606 GitHub links in total 704 links, ★ 228, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 228, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oarrabi/Collection-Each">
    Collection Each
   </a>
-  <span>
-   &#9733 68, pushed 696 days ago
-  </span>
   - add each func to collections.
+  <sup>
+   606 GitHub links in total 704 links, ★ 68, pushed 696 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 696 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Compass">
    Compass
   </a>
-  <span>
-   &#9733 278, pushed 106 days ago
-  </span>
   — Compass helps you setup a central navigation system for your application.
+  <sup>
+   606 GitHub links in total 704 links, ★ 278, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 278, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thoughtbot/Curry">
    Curry
   </a>
-  <span>
-   &#9733 186, pushed 26 days ago
-  </span>
   - Swift implementations for function currying.
+  <sup>
+   606 GitHub links in total 704 links, ★ 186, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 186, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/schickling/Device.swift">
    Device.swift
   </a>
-  <span>
-   &#9733 39, pushed 41 days ago
-  </span>
   - Super-lightweight library to detect used device.
+  <sup>
+   606 GitHub links in total 704 links, ★ 39, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ekhoo/Device">
    Device
   </a>
-  <span>
-   &#9733 629, pushed 17 days ago
-  </span>
   - Light weight tool for detecting the current device and screen size written in swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 629, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 629, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ankurp/Dollar">
    Dollar
   </a>
-  <span>
-   &#9733 3092, pushed 4 days ago
-  </span>
   - a lib similar to Lo-Dash or Underscore in Javascript.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3092, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3092, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evermeer/EVURLCache">
    EVURLCache
   </a>
-  <span>
-   &#9733 182, pushed 7 days ago
-  </span>
   - if you want to make your app still works when it's offline.
+  <sup>
+   606 GitHub links in total 704 links, ★ 182, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 182, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pNre/ExSwift">
    ExSwift
   </a>
-  <span>
-   &#9733 2866, pushed 14 days ago
-  </span>
   - a set of Swift extensions for standard types and classes.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2866, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 2866, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/goktugyil/EZSwiftExtensions">
    EZSwiftExtensions
   </a>
-  <span>
-   &#9733 975, pushed 10 days ago
-  </span>
   - :smirk: How Swift standard types and classes were supposed to work.
+  <sup>
+   606 GitHub links in total 704 links, ★ 975, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 975, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typelift/Focus">
    Focus
   </a>
-  <span>
-   &#9733 66, pushed 4 days ago
-  </span>
   - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 66, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brynbellomy/Funky">
    Funky
   </a>
-  <span>
-   &#9733 9, pushed 108 days ago
-  </span>
   - Functions and operators for functional programming in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 9, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 108 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeanpimentel/Honour">
    Honour
   </a>
-  <span>
-   &#9733 34, pushed 16 days ago
-  </span>
   - Simple and powerful Validation Library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 34, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HookahSwift/Hookah">
    Hookah
   </a>
-  <span>
-   &#9733 47, pushed 21 days ago
-  </span>
   - Hookah is a functional library for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 47, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zenangst/Inflection">
    Inflection
   </a>
-  <span>
-   &#9733 21, pushed 426 days ago
-  </span>
   - The Optimus Prime of string inflection.
+  <sup>
+   606 GitHub links in total 704 links, ★ 21, pushed 426 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 426 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/austinzheng/Lambdatron">
    Lambdatron
   </a>
-  <span>
-   &#9733 108, pushed 197 days ago
-  </span>
   - Clojure(ish) interpreter in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 108, pushed 197 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 197 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LlamaKit/LlamaKit">
    LlamaKit
   </a>
-  <span>
-   &#9733 632, pushed 305 days ago
-  </span>
   - Collection of must-have functional Swift tools.
+  <sup>
+   606 GitHub links in total 704 links, ★ 632, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 632, pushed 305 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xinranmsn/LangKit">
    LangKit
   </a>
-  <span>
-   &#9733 15, pushed 3 days ago
-  </span>
   - Natural Language Processing (NLP) toolkit for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 15, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/saniul/Mendel">
    Mendel
   </a>
-  <span>
-   &#9733 110, pushed 343 days ago
-  </span>
   - Swift miliframework for implementing evolutionary/genetic algorithms.
+  <sup>
+   606 GitHub links in total 704 links, ★ 110, pushed 343 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 343 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danthorpe/Money">
    Money
   </a>
-  <span>
-   &#9733 513, pushed 41 days ago
-  </span>
   - Currency formatter in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 513, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 513, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tptee/Oriole">
    Oriole
   </a>
-  <span>
-   &#9733 3, pushed 239 days ago
-  </span>
   - A functional utility belt implemented as Swift 2.0 protocol extensions.
+  <sup>
+   606 GitHub links in total 704 links, ★ 3, pushed 239 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 239 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sgr-ksmt/PDFGenerator">
    PDFGenerator
   </a>
-  <span>
-   &#9733 54, pushed 30 days ago
-  </span>
   - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).
+  <sup>
+   606 GitHub links in total 704 links, ★ 54, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vadymmarkov/Pitchy">
    Pitchy
   </a>
-  <span>
-   &#9733 11, pushed 118 days ago
-  </span>
   - A simple way to get a music pitch from a frequency.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joshualat/Pluralize.swift">
    Pluralize.swift
   </a>
-  <span>
-   &#9733 75, pushed 80 days ago
-  </span>
   - Great Swift String Pluralize Extension.
+  <sup>
+   606 GitHub links in total 704 links, ★ 75, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DavdRoman/Popsicle">
    Popsicle
   </a>
-  <span>
-   &#9733 1080, pushed 74 days ago
-  </span>
   - Delightful, extensible Swift value interpolation framework.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1080, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 1080, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robrix/Prelude">
    Prelude
   </a>
-  <span>
-   &#9733 222, pushed 89 days ago
-  </span>
   - Swift µframework of simple functional programming tools.
+  <sup>
+   606 GitHub links in total 704 links, ★ 222, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 222, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alexeyxo/protobuf-swift">
    protobuf-swift
   </a>
-  <span>
-   &#9733 415, pushed 11 days ago
-  </span>
   - ProtocolBuffers for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 415, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 415, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://khan.github.io/Prototope/">
@@ -6539,19 +8237,25 @@
   <a href="https://github.com/practicalswift/Pythonic.swift">
    Pythonic.swift
   </a>
-  <span>
-   &#9733 487, pushed 44 days ago
-  </span>
   - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
+  <sup>
+   606 GitHub links in total 704 links, ★ 487, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 487, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mac-cain13/R.swift">
    R.swift
   </a>
-  <span>
-   &#9733 1903, pushed 2 days ago
-  </span>
   - Tool to get strong typed, autocompleted resources like images, cells and segues.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1903, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1903, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvzqz/RandomKit/">
@@ -6563,135 +8267,179 @@
   <a href="https://github.com/Wolox/ReactiveArray">
    ReactiveArray
   </a>
-  <span>
-   &#9733 41, pushed 28 days ago
-  </span>
   - An array class implemented in Swift that can be observed using ReactiveCocoa's Signals.
+  <sup>
+   606 GitHub links in total 704 links, ★ 41, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bannzai/ResourceKit">
    ResourceKit
   </a>
-  <span>
-   &#9733 24, pushed 8 days ago
-  </span>
   - Enable autocomplete use resources in swift project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 24, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antitypical/Result">
    Result
   </a>
-  <span>
-   &#9733 879, pushed 3 days ago
-  </span>
   - Swift type modelling the success/failure of arbitrary operations.
+  <sup>
+   606 GitHub links in total 704 links, ★ 879, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 879, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thoughtbot/Runes">
    Runes
   </a>
-  <span>
-   &#9733 417, pushed 45 days ago
-  </span>
   - Functional operators for Swift - flatMap, map, apply, pure.
+  <sup>
+   606 GitHub links in total 704 links, ★ 417, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 417, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Adorkable/seguecode">
    seguecode
   </a>
-  <span>
-   &#9733 21, pushed 25 days ago
-  </span>
   - seguecode is a support tool that provides compile-time safeties around building with UIStoryboards by exporting code regarding Scenes, Segues, Table and Collection Views and more.
+  <sup>
+   606 GitHub links in total 704 links, ★ 21, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nRewik/SimplePDF">
    SimplePDF
   </a>
-  <span>
-   &#9733 19, pushed 74 days ago
-  </span>
   - Create a simple PDF effortlessly.
+  <sup>
+   606 GitHub links in total 704 links, ★ 19, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neoneye/SpecificationPattern">
    SpecificationPattern
   </a>
-  <span>
-   &#9733 38, pushed 273 days ago
-  </span>
   - chainable rules useful for form validation.
+  <sup>
+   606 GitHub links in total 704 links, ★ 38, pushed 273 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 273 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ataugeron/SpriteKit-Spring">
    SpriteKit+Spring
   </a>
-  <span>
-   &#9733 108, pushed 30 days ago
-  </span>
   - SpriteKit API reproducing UIView's spring animations with SKAction.
+  <sup>
+   606 GitHub links in total 704 links, ★ 108, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antitypical/Stream">
    Stream
   </a>
-  <span>
-   &#9733 74, pushed 183 days ago
-  </span>
   - Lazy streams in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 74, pushed 183 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 183 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/Sugar">
    Sugar
   </a>
-  <span>
-   &#9733 559, pushed 5 days ago
-  </span>
   - Something sweet that goes great with your Cocoa.
+  <sup>
+   606 GitHub links in total 704 links, ★ 559, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 559, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RuiAAPeres/Swift-Sugar">
    Swift Sugar
   </a>
-  <span>
-   &#9733 141, pushed 125 days ago
-  </span>
   - objsugar ported to Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 141, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 141, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/collinhundley/Swift-AI">
    Swift-AI
   </a>
-  <span>
-   &#9733 2758, pushed 10 days ago
-  </span>
   - A high-performance AI and Machine Learning library written entirely in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2758, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2758, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brynbellomy/SwiftBitmask">
    SwiftBitmask
   </a>
-  <span>
-   &#9733 23, pushed 108 days ago
-  </span>
   -
   <code>
-   Bitmask<T>
+   Bitmask
+   <t>
+   </t>
   </code>
   type intended as a replacement for
   <code>
    RawOptionSet
   </code>
   .
+  <sup>
+   606 GitHub links in total 704 links, ★ 23, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 108 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrackwitz/SwiftExP">
    SwiftExP
   </a>
-  <span>
-   &#9733 12, pushed 228 days ago
-  </span>
   - Pure Swift 2.0 S-expression Parser.
+  <sup>
+   606 GitHub links in total 704 links, ★ 12, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AliSoftware/SwiftGen#uistoryboard">
@@ -6707,145 +8455,193 @@
   <a href="https://github.com/ctews/SwiftMemCache">
    SwiftMemCache
   </a>
-  <span>
-   &#9733 42, pushed 80 days ago
-  </span>
   - Swift Memory Cache with namespace & TTL support.
+  <sup>
+   606 GitHub links in total 704 links, ★ 42, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thellimist/SwiftRandom">
    SwiftRandom
   </a>
-  <span>
-   &#9733 358, pushed 17 days ago
-  </span>
   - A tiny generator of random data for swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 358, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 358, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skyline75489/SwiftRouter">
    SwiftRouter
   </a>
-  <span>
-   &#9733 68, pushed 26 days ago
-  </span>
   - A URL Router for iOS written in Swift 2.0
+  <sup>
+   606 GitHub links in total 704 links, ★ 68, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oisdk/SwiftSequence">
    SwiftSequence
   </a>
-  <span>
-   &#9733 304, pushed 35 days ago
-  </span>
   - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools.
+  <sup>
+   606 GitHub links in total 704 links, ★ 304, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 304, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dsmatter/SwiftSortUtils">
    SwiftSortUtils
   </a>
-  <span>
-   &#9733 46, pushed 71 days ago
-  </span>
   - Useful functions and extensions for sorting in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 46, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gkaimakas/SwiftValidators">
    SwiftValidators
   </a>
-  <span>
-   &#9733 31, pushed 55 days ago
-  </span>
   - String validation for iOS developed in Swift (inspired by validator.js).
+  <sup>
+   606 GitHub links in total 704 links, ★ 31, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typelift/Swiftx">
    Swiftx
   </a>
-  <span>
-   &#9733 136, pushed 39 days ago
-  </span>
   - Functional data types and functions for any project.
+  <sup>
+   606 GitHub links in total 704 links, ★ 136, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 136, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/macoscope/SwiftyStateMachine">
    SwiftyStateMachine
   </a>
-  <span>
-   &#9733 284, pushed 31 days ago
-  </span>
   - Swift µframework for creating state machines.
+  <sup>
+   606 GitHub links in total 704 links, ★ 284, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 284, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typelift/Swiftz">
    Swiftz
   </a>
-  <span>
-   &#9733 2575, pushed 10 days ago
-  </span>
   - Functional programming in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 2575, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2575, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/devxoul/Then">
    Then
   </a>
-  <span>
-   &#9733 673, pushed 16 days ago
-  </span>
   - ✨ Super sweet syntactic sugar for Swift initializers.
+  <sup>
+   606 GitHub links in total 704 links, ★ 673, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 673, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/weissi/swift-undefined">
    undefined
   </a>
-  <span>
-   &#9733 50, pushed 51 days ago
-  </span>
   - Nano framework which defines Haskell's undefined in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 50, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cockscomb/UTIKit">
    UTIKit
   </a>
-  <span>
-   &#9733 122, pushed 49 days ago
-  </span>
   - an UTI (Uniform Type Identifier) wrapper for Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 122, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zenangst/Versions">
    Versions
   </a>
-  <span>
-   &#9733 139, pushed 7 days ago
-  </span>
   - Helping you find inner peace when comparing version numbers in Swift.
+  <sup>
+   606 GitHub links in total 704 links, ★ 139, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 139, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/martnst/VersionsTracker">
    VersionsTracker
   </a>
-  <span>
-   &#9733 11, pushed 34 days ago
-  </span>
   - Keeping track of version installation history including dates.
+  <sup>
+   606 GitHub links in total 704 links, ★ 11, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tbaranes/VersionTrackerSwift">
    VersionTrackerSwift
   </a>
-  <span>
-   &#9733 27, pushed 9 days ago
-  </span>
   - Track which versions of your app a user has previously installed. Available for iOS, OS X and tvOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/explicitcall/Wyrd">
    Wyrd
   </a>
-  <span>
-   &#9733 32, pushed 646 days ago
-  </span>
   - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
+  <sup>
+   606 GitHub links in total 704 links, ★ 32, pushed 646 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 646 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -6856,28 +8652,37 @@
   <a href="https://github.com/mobileplayer/mobileplayer-ios">
    MobilePlayer
   </a>
-  <span>
-   &#9733 1482, pushed 12 days ago
-  </span>
   - A powerful and completely customizable media player for iOS.
+  <sup>
+   606 GitHub links in total 704 links, ★ 1482, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1482, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/piemonte/Player">
    Player
   </a>
-  <span>
-   &#9733 415, pushed 20 days ago
-  </span>
   - iOS video player in Swift, simple drop in component for playing and streaming media.
+  <sup>
+   606 GitHub links in total 704 links, ★ 415, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 415, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidlondono/PlayerView">
    PlayerView
   </a>
-  <span>
-   &#9733 27, pushed 13 days ago
-  </span>
   - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 s
+  <sup>
+   606 GitHub links in total 704 links, ★ 27, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 13 days ago
+  </sup>
  </li>
 </ul>

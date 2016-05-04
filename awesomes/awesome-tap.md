@@ -33,73 +33,97 @@
   <a href="https://github.com/scottcorgan/tap-dot">
    tap-dot
   </a>
-  <span>
-   &#9733 16, pushed 27 days ago
-  </span>
   - Dotted output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 16, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scottcorgan/tap-spec">
    tap-spec
   </a>
-  <span>
-   &#9733 138, pushed 90 days ago
-  </span>
   - Mocha-like spec reporter.
+  <sup>
+   32 GitHub links in total 40 links, ★ 138, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 138, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/calvinmetcalf/tap-nyan">
    tap-nyan
   </a>
-  <span>
-   &#9733 55, pushed 48 days ago
-  </span>
   - Nyan cat.
+  <sup>
+   32 GitHub links in total 40 links, ★ 55, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gummesson/tap-min">
    tap-min
   </a>
-  <span>
-   &#9733 17, pushed 87 days ago
-  </span>
   - Minimal output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 17, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 87 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/namuol/tap-difflet">
    tap-difflet
   </a>
-  <span>
-   &#9733 23, pushed 47 days ago
-  </span>
   - Minimal output with diffing.
+  <sup>
+   32 GitHub links in total 40 links, ★ 23, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/axross/tap-diff">
    tap-diff
   </a>
-  <span>
-   &#9733 30, pushed 62 days ago
-  </span>
   - Human-friendly output with diffing.
+  <sup>
+   32 GitHub links in total 40 links, ★ 30, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joeybaker/tap-simple">
    tap-simple
   </a>
-  <span>
-   &#9733 6, pushed 369 days ago
-  </span>
   - Simple output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 6, pushed 369 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 369 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/faucet">
    faucet
   </a>
-  <span>
-   &#9733 363, pushed 806 days ago
-  </span>
   - Human-readable summarizer.
+  <sup>
+   32 GitHub links in total 40 links, ★ 363, pushed 806 days ago
+  </sup>
+  <sup>
+   &#9733 363, pushed 806 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isaacs/tap-mocha-reporter">
@@ -115,82 +139,109 @@
   <a href="https://github.com/zoubin/tap-summary">
    tap-summary
   </a>
-  <span>
-   &#9733 6, pushed 122 days ago
-  </span>
   - Summarized output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 6, pushed 122 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 122 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clux/tap-pessimist">
    tap-pessimist
   </a>
-  <span>
-   &#9733 7, pushed 208 days ago
-  </span>
   - Only shows failed tests.
+  <sup>
+   32 GitHub links in total 40 links, ★ 7, pushed 208 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 208 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/toolness/tap-prettify">
    tap-prettify
   </a>
-  <span>
-   &#9733 24, pushed 961 days ago
-  </span>
   - Nice readable output with diffing.
+  <sup>
+   32 GitHub links in total 40 links, ★ 24, pushed 961 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 961 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/tap-colorize">
    tap-colorize
   </a>
-  <span>
-   &#9733 22, pushed 357 days ago
-  </span>
   - Colorize the output while preserving machine-readability.
+  <sup>
+   32 GitHub links in total 40 links, ★ 22, pushed 357 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 357 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/juliangruber/tap-bail">
    tap-bail
   </a>
-  <span>
-   &#9733 11, pushed 800 days ago
-  </span>
   - Bail out when the first test fails.
+  <sup>
+   32 GitHub links in total 40 links, ★ 11, pushed 800 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 800 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/axross/tap-notify">
    tap-notify
   </a>
-  <span>
-   &#9733 22, pushed 62 days ago
-  </span>
   - Notifier for OS X, Linux and Windows.
+  <sup>
+   32 GitHub links in total 40 links, ★ 22, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gummesson/tap-json">
    tap-json
   </a>
-  <span>
-   &#9733 10, pushed 5 days ago
-  </span>
   - JSON output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 10, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aghassemi/tap-xunit">
    tap-xunit
   </a>
-  <span>
-   &#9733 8, pushed 7 days ago
-  </span>
   - xUnit output.
+  <sup>
+   32 GitHub links in total 40 links, ★ 8, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/smockle/tap-teamcity">
    tap-teamcity
   </a>
-  <span>
-   &#9733 1, pushed 69 days ago
-  </span>
   - Output for TeamCity.
+  <sup>
+   32 GitHub links in total 40 links, ★ 1, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 69 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -207,13 +258,16 @@
   <a href="https://github.com/sindresorhus/ava">
    AVA
   </a>
-  <span>
-   &#9733 4490, pushed 2 days ago
-  </span>
   - Futuristic test runner.
   <code>
    $ ava --tap
   </code>
+  <sup>
+   32 GitHub links in total 40 links, ★ 4490, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4490, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isaacs/node-tap">
@@ -225,10 +279,13 @@
   <a href="https://github.com/substack/tape">
    tape
   </a>
-  <span>
-   &#9733 2290, pushed 24 days ago
-  </span>
   - TAP-producing test harness for Node.js and browsers.
+  <sup>
+   32 GitHub links in total 40 links, ★ 2290, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 2290, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="http://eslint.org/docs/user-guide/formatters/#tap">
@@ -252,28 +309,37 @@
   <a href="https://github.com/twada/qunit-tap">
    qunit-tap
   </a>
-  <span>
-   &#9733 71, pushed 12 days ago
-  </span>
   - TAP output for QUnit.
+  <sup>
+   32 GitHub links in total 40 links, ★ 71, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/larrymyers/jasmine-reporters">
    jasmine-reporters
   </a>
-  <span>
-   &#9733 324, pushed 32 days ago
-  </span>
   - TAP output for Jasmine.
+  <sup>
+   32 GitHub links in total 40 links, ★ 324, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 324, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fumiakiy/karma-tap-reporter">
    karma-tap-reporter
   </a>
-  <span>
-   &#9733 7, pushed 151 days ago
-  </span>
   - TAP output for Karma.
+  <sup>
+   32 GitHub links in total 40 links, ★ 7, pushed 151 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 151 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -284,10 +350,13 @@
   <a href="https://github.com/fisherman/fishtape">
    Fishtape
   </a>
-  <span>
-   &#9733 193, pushed 12 days ago
-  </span>
   - TAP producer and test harness for fish.
+  <sup>
+   32 GitHub links in total 40 links, ★ 193, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 193, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -315,19 +384,25 @@
   <a href="https://github.com/scottcorgan/tap-out">
    tap-out
   </a>
-  <span>
-   &#9733 12, pushed 27 days ago
-  </span>
   - TAP parser.
+  <sup>
+   32 GitHub links in total 40 links, ★ 12, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isaacs/yamlish">
    yamlish
   </a>
-  <span>
-   &#9733 15, pushed 348 days ago
-  </span>
   - YAML-block parser.
+  <sup>
+   32 GitHub links in total 40 links, ★ 15, pushed 349 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 349 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -346,19 +421,25 @@
   <a href="https://github.com/Jam3/tap-dev-tool">
    tap-dev-tool
   </a>
-  <span>
-   &#9733 23, pushed 322 days ago
-  </span>
   - Prettify TAP in the browser console.
+  <sup>
+   32 GitHub links in total 40 links, ★ 23, pushed 322 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 322 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anko/tap-merge">
    tap-merge
   </a>
-  <span>
-   &#9733 3, pushed 106 days ago
-  </span>
   - Merge multiple TAP streams.
+  <sup>
+   32 GitHub links in total 40 links, ★ 3, pushed 107 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 107 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -369,10 +450,13 @@
   <a href="https://github.com/mblayman/tappy">
    tappy
   </a>
-  <span>
-   &#9733 32, pushed 34 days ago
-  </span>
   - Tools for working with TAP.
+  <sup>
+   32 GitHub links in total 40 links, ★ 32, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -393,10 +477,13 @@
   <a href="https://github.com/finnp/test-anything">
    test-anything
   </a>
-  <span>
-   &#9733 78, pushed 18 days ago
-  </span>
   - Learn to test anything with TAP through an interactive workshop.
+  <sup>
+   32 GitHub links in total 40 links, ★ 78, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h2>

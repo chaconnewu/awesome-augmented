@@ -1080,67 +1080,91 @@
     <a href="https://github.com/pixijs/pixi.js">
      Pixi.js
     </a>
-    <span>
-     &#9733 10286, pushed 2 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/photonstorm/phaser">
      phaser
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 12077, pushed 4 days ago
+    </sup>
+    <sup>
      &#9733 12077, pushed 4 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/melonjs/melonJS">
      MelonJS
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 1593, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 1593, pushed 3 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gamelab/kiwi.js">
      kiwi.js
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 788, pushed 6 days ago
+    </sup>
+    <sup>
      &#9733 788, pushed 6 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/craftyjs/Crafty">
      Crafty
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 2065, pushed 1 days ago
+    </sup>
+    <sup>
      &#9733 2065, pushed 1 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/wellcaffeinated/PhysicsJS">
      PhysicsJS
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 2681, pushed 11 days ago
+    </sup>
+    <sup>
      &#9733 2681, pushed 11 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shakiba/stage.js">
      Stage.js
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 946, pushed 51 days ago
+    </sup>
+    <sup>
      &#9733 946, pushed 51 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/cocos2d/cocos2d-html5">
      cocos2d
     </a>
-    <span>
+    <sup>
+     10 GitHub links in total 205 links, ★ 1956, pushed 1 days ago
+    </sup>
+    <sup>
      &#9733 1956, pushed 1 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   10 GitHub links in total 205 links, ★ 10286, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 10286, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1300,17 +1324,23 @@
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 205 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 16107, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 205 links, ★ 3765, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 3765, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

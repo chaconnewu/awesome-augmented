@@ -99,91 +99,121 @@
   <a href="https://github.com/AndroidBootstrap/android-bootstrap">
    Android Bootstrap
   </a>
-  <span>
-   &#9733 4103, pushed 153 days ago
-  </span>
   A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+  <sup>
+   45 GitHub links in total 73 links, ★ 4103, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 4103, pushed 153 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kanytu/android-material-drawer-template">
    Android Material Drawer Template
   </a>
-  <span>
-   &#9733 681, pushed 407 days ago
-  </span>
   An Android template with navigation drawer for material design.
+  <sup>
+   45 GitHub links in total 73 links, ★ 681, pushed 407 days ago
+  </sup>
+  <sup>
+   &#9733 681, pushed 407 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/h5bp/mobile-boilerplate">
    Web Apps
   </a>
-  <span>
-   &#9733 3956, pushed 289 days ago
-  </span>
   Boilerplate for mobile web apps.
+  <sup>
+   45 GitHub links in total 73 links, ★ 3956, pushed 289 days ago
+  </sup>
+  <sup>
+   &#9733 3956, pushed 289 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/intrications/material-design-icons-adt-template">
    material-design-icons-adt-template
   </a>
-  <span>
-   &#9733 330, pushed 473 days ago
-  </span>
   Android Studio / Eclipse ADT template for material-design-icons resources.
+  <sup>
+   45 GitHub links in total 73 links, ★ 330, pushed 473 days ago
+  </sup>
+  <sup>
+   &#9733 330, pushed 473 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/e-biz/androidkickstartr">
    AndroidKickststarter
   </a>
-  <span>
-   &#9733 594, pushed 971 days ago
-  </span>
   Framework kickstarts development which help you focus on coding.
+  <sup>
+   45 GitHub links in total 73 links, ★ 594, pushed 971 days ago
+  </sup>
+  <sup>
+   &#9733 594, pushed 971 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/excilys/androidannotations">
    Android Annotations
   </a>
-  <span>
-   &#9733 7465, pushed 16 days ago
-  </span>
   Fast Android Development. Easy maintainance.
+  <sup>
+   45 GitHub links in total 73 links, ★ 7465, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 7465, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IanDarwin/Android-Cookbook-Examples">
    Android Cookbook Examples
   </a>
-  <span>
-   &#9733 536, pushed 2 days ago
-  </span>
   Collected code examples from the O'Reilly Android Cookbook.
+  <sup>
+   45 GitHub links in total 73 links, ★ 536, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 536, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/playgameservices/android-basic-samples">
    Android Basic Samples
   </a>
-  <span>
-   &#9733 655, pushed 56 days ago
-  </span>
   Mostly game oriented samples.
+  <sup>
+   45 GitHub links in total 73 links, ★ 655, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 655, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tscolari/android-webview-sample-app">
    Android Webview Sample App
   </a>
-  <span>
-   &#9733 55, pushed 1688 days ago
-  </span>
   Webview Sample App
+  <sup>
+   45 GitHub links in total 73 links, ★ 55, pushed 1688 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 1688 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/googledrive/android-quickstart">
    Android Quickstart
   </a>
-  <span>
-   &#9733 125, pushed 17 days ago
-  </span>
   Quickstart application showing the Google Drive API for Android.
+  <sup>
+   45 GitHub links in total 73 links, ★ 125, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources">
@@ -205,28 +235,37 @@
   <a href="https://github.com/gimenete/iOS-boilerplate">
    iOS Biolerplate
   </a>
-  <span>
-   &#9733 2942, pushed 1526 days ago
-  </span>
   Boilerplate by Gimeno.
+  <sup>
+   45 GitHub links in total 73 links, ★ 2942, pushed 1526 days ago
+  </sup>
+  <sup>
+   &#9733 2942, pushed 1526 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crushlovely/Amaro">
    Amaro
   </a>
-  <span>
-   &#9733 323, pushed 60 days ago
-  </span>
   Featureful iOS Boilerplate.
+  <sup>
+   45 GitHub links in total 73 links, ★ 323, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 323, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/openaphid/Boilerplate-iOS">
    Boilerplate-iOS
   </a>
-  <span>
-   &#9733 7, pushed 1203 days ago
-  </span>
   Boilerplate by openaphid.
+  <sup>
+   45 GitHub links in total 73 links, ★ 7, pushed 1203 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 1203 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -253,28 +292,37 @@
     <a href="https://github.com/yeoman/generator-node">
      Yeoman Node Generator
     </a>
-    <span>
-     &#9733 314, pushed 7 days ago
-    </span>
     Yeomans node generator
+    <sup>
+     45 GitHub links in total 73 links, ★ 314, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 314, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sindresorhus/node-module-boilerplate">
      Node Module boilerplate
     </a>
-    <span>
-     &#9733 231, pushed 50 days ago
-    </span>
     Boilerplate to kickstart creating a node module
+    <sup>
+     45 GitHub links in total 73 links, ★ 231, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 231, pushed 50 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/expressjs/generator">
      Express Boilerplate
     </a>
-    <span>
-     &#9733 386, pushed 19 days ago
-    </span>
     Boilerplate generator for Express.js Projects
+    <sup>
+     45 GitHub links in total 73 links, ★ 386, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 386, pushed 19 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -287,27 +335,36 @@
     <a href="https://github.com/ngbp/ngbp">
      ng-boilerplate
     </a>
-    <span>
-     &#9733 4080, pushed 72 days ago
-    </span>
     An opinionated kickstarter for AngularJS projects.
+    <sup>
+     45 GitHub links in total 73 links, ★ 4080, pushed 72 days ago
+    </sup>
+    <sup>
+     &#9733 4080, pushed 72 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yeoman/generator-angular">
      Yeoman Angular Generator
     </a>
-    <span>
+    <sup>
+     45 GitHub links in total 73 links, ★ 5076, pushed 4 days ago
+    </sup>
+    <sup>
      &#9733 5076, pushed 4 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/melvin0008/laravel-angular">
      Angular Laravel CouchDB
     </a>
-    <span>
-     &#9733 4, pushed 499 days ago
-    </span>
     Angular Laravel CouchDB Boilerplate
+    <sup>
+     45 GitHub links in total 73 links, ★ 4, pushed 499 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 499 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/fordaaronj/fafafa">
@@ -326,10 +383,13 @@
     <a href="https://github.com/petehunt/react-boilerplate">
      React Boilerplate
     </a>
-    <span>
-     &#9733 534, pushed 142 days ago
-    </span>
     Boilerplate for creating a React npm package
+    <sup>
+     45 GitHub links in total 73 links, ★ 534, pushed 142 days ago
+    </sup>
+    <sup>
+     &#9733 534, pushed 142 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rackt/react-boilerplate">
@@ -341,55 +401,73 @@
     <a href="https://github.com/gaearon/react-transform-boilerplate">
      React Transorm Boilerplate
     </a>
-    <span>
-     &#9733 3149, pushed 13 days ago
-    </span>
     A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
+    <sup>
+     45 GitHub links in total 73 links, ★ 3149, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 3149, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gaearon/library-boilerplate">
      Library Boilerplate
     </a>
-    <span>
-     &#9733 336, pushed 65 days ago
-    </span>
     An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
+    <sup>
+     45 GitHub links in total 73 links, ★ 336, pushed 65 days ago
+    </sup>
+    <sup>
+     &#9733 336, pushed 65 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/RickWong/react-isomorphic-starterkit">
      React Isomorphic Starterkit
     </a>
-    <span>
-     &#9733 1843, pushed 14 days ago
-    </span>
     Isomorphic starterkit with server-side React rendering having many features
+    <sup>
+     45 GitHub links in total 73 links, ★ 1843, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 1843, pushed 14 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/KyleAMathews/coffee-react-quickstart">
      Coffee React Quickstart
     </a>
-    <span>
-     &#9733 240, pushed 37 days ago
-    </span>
     Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
+    <sup>
+     45 GitHub links in total 73 links, ★ 240, pushed 37 days ago
+    </sup>
+    <sup>
+     &#9733 240, pushed 37 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alexkuz/flask-react-boilerplate">
      Flask React Boilerplate
     </a>
-    <span>
-     &#9733 100, pushed 19 days ago
-    </span>
     Flask and react Boilerplate
+    <sup>
+     45 GitHub links in total 73 links, ★ 100, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 100, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tcoopman/boilerplate-webpack-react">
      Boilerplate Webpack React
     </a>
-    <span>
-     &#9733 43, pushed 108 days ago
-    </span>
     Boilerplate project for Reactjs with webpack, gulp and stylus
+    <sup>
+     45 GitHub links in total 73 links, ★ 43, pushed 108 days ago
+    </sup>
+    <sup>
+     &#9733 43, pushed 108 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits">
@@ -401,10 +479,13 @@
     <a href="https://github.com/erikras/react-redux-universal-hot-example">
      React Redux Universal Hot Example
     </a>
-    <span>
-     &#9733 5387, pushed 3 days ago
-    </span>
     A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+    <sup>
+     45 GitHub links in total 73 links, ★ 5387, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 5387, pushed 3 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -417,19 +498,25 @@
     <a href="https://github.com/addyosmani/backbone-boilerplates">
      Backbone Boilerplates
     </a>
-    <span>
-     &#9733 494, pushed 1127 days ago
-    </span>
     Backbone Boilerplates by Addy Osmani.
+    <sup>
+     45 GitHub links in total 73 links, ★ 494, pushed 1127 days ago
+    </sup>
+    <sup>
+     &#9733 494, pushed 1127 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yeoman/generator-backbone">
      Yeoman Backbone Generator
     </a>
-    <span>
-     &#9733 638, pushed 35 days ago
-    </span>
     Yeoman generator for Backbone.
+    <sup>
+     45 GitHub links in total 73 links, ★ 638, pushed 35 days ago
+    </sup>
+    <sup>
+     &#9733 638, pushed 35 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -442,10 +529,13 @@
     <a href="https://github.com/jquery-boilerplate/generator-jquery-boilerplate">
      Generator Jquery Boilerplate
     </a>
-    <span>
-     &#9733 141, pushed 248 days ago
-    </span>
     Yeoman Generator for jQuery Boilerplate.
+    <sup>
+     45 GitHub links in total 73 links, ★ 141, pushed 248 days ago
+    </sup>
+    <sup>
+     &#9733 141, pushed 248 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -458,28 +548,37 @@
     <a href="https://github.com/PolymerElements/polymer-starter-kit">
      Polymer Starter Kit
     </a>
-    <span>
-     &#9733 2069, pushed 4 days ago
-    </span>
     A starting point for Polymer 1.0 apps.
+    <sup>
+     45 GitHub links in total 73 links, ★ 2069, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 2069, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/PolymerElements/seed-element">
      Polymer Seed Element
     </a>
-    <span>
-     &#9733 276, pushed 20 days ago
-    </span>
     An element providing a starting point for your own reusable Polymer elements.
+    <sup>
+     45 GitHub links in total 73 links, ★ 276, pushed 20 days ago
+    </sup>
+    <sup>
+     &#9733 276, pushed 20 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yeoman/generator-polymer">
      Yeoman Polymer Generator
     </a>
-    <span>
-     &#9733 955, pushed 25 days ago
-    </span>
     Yeoman's polymer Generator
+    <sup>
+     45 GitHub links in total 73 links, ★ 955, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 955, pushed 25 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -492,10 +591,13 @@
     <a href="https://github.com/sindresorhus/electron-boilerplate">
      Electron Boilerplate
     </a>
-    <span>
-     &#9733 275, pushed 14 days ago
-    </span>
     Boilerplate for electron-node
+    <sup>
+     45 GitHub links in total 73 links, ★ 275, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 275, pushed 14 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -592,10 +694,13 @@
   <a href="https://github.com/melvin0008/laravel-angular">
    Laravel Angular CouchDB
   </a>
-  <span>
-   &#9733 4, pushed 499 days ago
-  </span>
   Laravel Angular CouchDB Boilerplate
+  <sup>
+   45 GitHub links in total 73 links, ★ 4, pushed 499 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 499 days ago
+  </sup>
  </li>
  <li>
   <a href="www.laravelsnippets.com">
@@ -617,19 +722,25 @@
   <a href="https://github.com/pitr/angular-rails-templates">
    AngularJS Rails Templates
   </a>
-  <span>
-   &#9733 519, pushed 74 days ago
-  </span>
   Rails and Angular Tempate.
+  <sup>
+   45 GitHub links in total 73 links, ★ 519, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 519, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dannolan/angularjs-sinatra-bootstrap-template">
    AngularJS Sinatra Bootstrap
   </a>
-  <span>
-   &#9733 12, pushed 1188 days ago
-  </span>
   Angular Sinatra Bootstrap template.
+  <sup>
+   45 GitHub links in total 73 links, ★ 12, pushed 1188 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 1188 days ago
+  </sup>
  </li>
  <li>
   <a href="http://railsapps.github.io/rails-composer/">
@@ -641,10 +752,13 @@
   <a href="https://github.com/RailsApps/rails-bootstrap">
    Rails Bootstrap
   </a>
-  <span>
-   &#9733 378, pushed 45 days ago
-  </span>
   Starter App for Rails and Bootstrap
+  <sup>
+   45 GitHub links in total 73 links, ★ 378, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 378, pushed 45 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -660,10 +774,13 @@
   <a href="https://github.com/aspnetboilerplate/aspnetboilerplate">
    ASP.NET Boilerplate
   </a>
-  <span>
-   &#9733 1361, pushed 2 days ago
-  </span>
   ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+  <sup>
+   45 GitHub links in total 73 links, ★ 1361, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1361, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -679,10 +796,13 @@
   <a href="https://github.com/yeoman/generator-chromeapp">
    Generator ChromeApp
   </a>
-  <span>
-   &#9733 291, pushed 98 days ago
-  </span>
   Yeoman generator for chrome app
+  <sup>
+   45 GitHub links in total 73 links, ★ 291, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 291, pushed 98 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -744,19 +864,25 @@
   <a href="https://github.com/capitaomorte/yasnippet">
    Yasnippet
   </a>
-  <span>
-   &#9733 1223, pushed 1 days ago
-  </span>
   A template system for Emacs.
+  <sup>
+   45 GitHub links in total 73 links, ★ 1223, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1223, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aperezdc/vim-template">
    Vim Template
   </a>
-  <span>
-   &#9733 148, pushed 13 days ago
-  </span>
   Simple Vim Templates plugin.
+  <sup>
+   45 GitHub links in total 73 links, ★ 148, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 148, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>

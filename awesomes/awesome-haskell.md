@@ -284,19 +284,25 @@
   <a href="https://github.com/commercialhaskell/stack">
    Stack
   </a>
-  <span>
-   &#9733 1604, pushed 1 days ago
-  </span>
   - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
+  <sup>
+   11 GitHub links in total 259 links, ★ 1604, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1604, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fpco/stackage">
    Stackage
   </a>
-  <span>
-   &#9733 232, pushed 2 days ago
-  </span>
   - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+  <sup>
+   11 GitHub links in total 259 links, ★ 232, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 232, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.haskell.org/platform/contents.html">
@@ -655,10 +661,13 @@
   <a href="https://github.com/facebook/Haxl">
    Haxl
   </a>
-  <span>
-   &#9733 2212, pushed 47 days ago
-  </span>
   - a library for efficient, concurrent, concise data access.
+  <sup>
+   11 GitHub links in total 259 links, ★ 2212, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 2212, pushed 47 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1209,19 +1218,25 @@
   <a href="https://github.com/haskell/HTTP">
    HTTP
   </a>
-  <span>
-   &#9733 98, pushed 83 days ago
-  </span>
   - Haskell HTTP package. Supports client-side web programming in Haskell.
+  <sup>
+   11 GitHub links in total 259 links, ★ 98, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/freizl/hoauth2">
    hoauth2
   </a>
-  <span>
-   &#9733 44, pushed 76 days ago
-  </span>
   - a lightweight oauth2 haskell binding.
+  <sup>
+   11 GitHub links in total 259 links, ★ 44, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 76 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1253,10 +1268,13 @@
   <a href="https://github.com/hreinhardt/amqp">
    amqp
   </a>
-  <span>
-   &#9733 71, pushed 79 days ago
-  </span>
   - client library for AMQP servers (currently only RabbitMQ).
+  <sup>
+   11 GitHub links in total 259 links, ★ 71, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hackage.haskell.org/packages/#cat:IRC">
@@ -1350,10 +1368,13 @@
   <a href="https://github.com/idris-lang/Idris-dev">
    Idris
   </a>
-  <span>
-   &#9733 1198, pushed 2 days ago
-  </span>
   - A Dependently Typed Functional Programming Language
+  <sup>
+   11 GitHub links in total 259 links, ★ 1198, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1198, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://leepike.github.io/Copilot/">
@@ -1543,14 +1564,17 @@
   <a href="https://github.com/snoyberg/conduit">
    Conduit
   </a>
-  <span>
-   &#9733 289, pushed 31 days ago
-  </span>
   - a streaming data library.
   <a href="http://hackage.haskell.org/packages/#cat:Conduit">
    Resources
   </a>
   .
+  <sup>
+   11 GitHub links in total 259 links, ★ 289, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 289, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hackage.haskell.org/packages/#cat:IO-Streams">
@@ -1562,14 +1586,17 @@
   <a href="https://github.com/Gabriel439/Haskell-Pipes-Library">
    Pipes
   </a>
-  <span>
-   &#9733 272, pushed 12 days ago
-  </span>
   - is a clean and powerful stream processing library that lets you build and connect reusable streaming components.
   <a href="http://hackage.haskell.org/packages/#cat:Pipes">
    Resources
   </a>
   .
+  <sup>
+   11 GitHub links in total 259 links, ★ 272, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 272, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1684,10 +1711,13 @@
   <a href="https://github.com/bitemyapp/learnhaskell">
    learnhaskell
   </a>
-  <span>
-   &#9733 3690, pushed 61 days ago
-  </span>
   - Haskell Learning (also for non-English speakers).
+  <sup>
+   11 GitHub links in total 259 links, ★ 3690, pushed 61 days ago
+  </sup>
+  <sup>
+   &#9733 3690, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dev.stephendiehl.com/hask/">

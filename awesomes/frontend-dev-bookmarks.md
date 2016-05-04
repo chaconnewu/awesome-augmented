@@ -237,10 +237,13 @@
       <a href="https://github.com/tsvensen/gruntstart">
        GruntStart
       </a>
-      <span>
-       &#9733 302, pushed 1121 days ago
-      </span>
       : A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
+      <sup>
+       144 GitHub links in total 987 links, ★ 302, pushed 1121 days ago
+      </sup>
+      <sup>
+       &#9733 302, pushed 1121 days ago
+      </sup>
      </li>
      <li>
       <a href="http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt">
@@ -293,10 +296,13 @@
     <a href="https://github.com/fex-team/fis-plus">
      FIS
     </a>
-    <span>
-     &#9733 481, pushed 19 days ago
-    </span>
     : A front-end integrated solution which included automation tool, development framework, development environment
+    <sup>
+     144 GitHub links in total 987 links, ★ 481, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 481, pushed 19 days ago
+    </sup>
    </li>
    <li>
     <a href="http://roots.cx/">
@@ -326,10 +332,13 @@
     <a href="https://github.com/rotundasoftware/cartero">
      Cartero
     </a>
-    <span>
-     &#9733 201, pushed 90 days ago
-    </span>
     : A modular client side asset manager.
+    <sup>
+     144 GitHub links in total 987 links, ★ 201, pushed 90 days ago
+    </sup>
+    <sup>
+     &#9733 201, pushed 90 days ago
+    </sup>
    </li>
    <li>
     Front-end Process - Flat Builds and Automation
@@ -366,10 +375,13 @@
     <a href="https://github.com/geuis/helium-css">
      Helium
     </a>
-    <span>
-     &#9733 3378, pushed 295 days ago
-    </span>
     : JavaScript tool to scan your site and show unused CSS.
+    <sup>
+     144 GitHub links in total 987 links, ★ 3378, pushed 295 days ago
+    </sup>
+    <sup>
+     &#9733 3378, pushed 295 days ago
+    </sup>
    </li>
    <li>
     <a href="http://jslint.com/">
@@ -393,19 +405,25 @@
     <a href="https://github.com/JamieMason/ImageOptim-CLI">
      ImageOptim-CLI
     </a>
-    <span>
-     &#9733 1960, pushed 83 days ago
-    </span>
     : Make lossless optimisation of images part of your automated build process.
+    <sup>
+     144 GitHub links in total 987 links, ★ 1960, pushed 83 days ago
+    </sup>
+    <sup>
+     &#9733 1960, pushed 83 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tjko/jpegoptim">
      jpegoptim
     </a>
-    <span>
-     &#9733 390, pushed 39 days ago
-    </span>
     : Utility to optimize/compress JPEG files.
+    <sup>
+     144 GitHub links in total 987 links, ★ 390, pushed 39 days ago
+    </sup>
+    <sup>
+     &#9733 390, pushed 39 days ago
+    </sup>
    </li>
    <li>
     <a href="http://pmt.sourceforge.net/pngcrush/">
@@ -417,28 +435,37 @@
     <a href="https://github.com/jorgebastida/glue">
      Glue
     </a>
-    <span>
-     &#9733 2477, pushed 2 days ago
-    </span>
     is a simple command line tool to generate CSS sprites.
+    <sup>
+     144 GitHub links in total 987 links, ★ 2477, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 2477, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/BBC-News/wraith">
      Wraith
     </a>
-    <span>
-     &#9733 3531, pushed 6 days ago
-    </span>
     is a screenshot comparison tool.
+    <sup>
+     144 GitHub links in total 987 links, ★ 3531, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 3531, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pocketjoso/penthouse">
      Penthouse
     </a>
-    <span>
-     &#9733 1212, pushed 5 days ago
-    </span>
     : Critical path CSS generator.
+    <sup>
+     144 GitHub links in total 987 links, ★ 1212, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 1212, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shakyShane/browser-sync">
@@ -596,9 +623,12 @@
       <a href="https://github.com/necolas/idiomatic-css">
        Principles of writing consistent, idiomatic CSS
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 4578, pushed 274 days ago
+      </sup>
+      <sup>
        &#9733 4578, pushed 274 days ago
-      </span>
+      </sup>
      </li>
      <li>
       <a href="https://github.com/styleguide/css">
@@ -614,9 +644,12 @@
       <a href="https://github.com/csswizardry/CSS-Guidelines">
        Wizardry CSS Guidelines
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 3575, pushed 89 days ago
+      </sup>
+      <sup>
        &#9733 3575, pushed 89 days ago
-      </span>
+      </sup>
      </li>
      <li>
       <a href="http://codepen.io/shshaw/full/gEiDt">
@@ -799,9 +832,12 @@
           <a href="https://github.com/Mumakil/Standalone-Deferred">
            Standalone-Deferred
           </a>
-          <span>
-           &#9733 57, pushed 1421 days ago
-          </span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 57, pushed 1421 days ago
+          </sup>
+          <sup>
+           &#9733 57, pushed 1422 days ago
+          </sup>
          </li>
          <li>
           <a href="https://github.com/geeqie/node-flowy">
@@ -812,9 +848,12 @@
           <a href="https://github.com/creationix/step">
            Step
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 2026, pushed 308 days ago
+          </sup>
+          <sup>
            &#9733 2026, pushed 308 days ago
-          </span>
+          </sup>
          </li>
          <li>
           <a href="https://github.com/Obvious/kew">
@@ -831,33 +870,45 @@
           <a href="https://github.com/tildeio/rsvp.js">
            RSVP.js
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 2981, pushed 5 days ago
+          </sup>
+          <sup>
            &#9733 2981, pushed 5 days ago
-          </span>
+          </sup>
          </li>
          <li>
           <a href="https://github.com/kriskowal/q">
            q
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 11547, pushed 20 days ago
+          </sup>
+          <sup>
            &#9733 11547, pushed 20 days ago
-          </span>
+          </sup>
          </li>
          <li>
           <a href="https://github.com/melanke/Watch.JS">
            Watch.js
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 1492, pushed 326 days ago
+          </sup>
+          <sup>
            &#9733 1492, pushed 326 days ago
-          </span>
+          </sup>
          </li>
          <li>
           <a href="https://github.com/it-ony/flow.js">
            flow.js
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 62, pushed 1073 days ago
+          </sup>
+          <sup>
            &#9733 62, pushed 1073 days ago
-          </span>
+          </sup>
          </li>
         </ul>
        </li>
@@ -877,9 +928,12 @@
       <a href="https://github.com/necolas/idiomatic-html">
        Principles of writing consistent, idiomatic HTML
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 465, pushed 129 days ago
+      </sup>
+      <sup>
        &#9733 465, pushed 129 days ago
-      </span>
+      </sup>
      </li>
      <li>
       <a href="http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml">
@@ -964,9 +1018,12 @@
         <a href="https://github.com/angular/angular.js">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 48927, pushed 2 days ago
+        </sup>
+        <sup>
          &#9733 48927, pushed 2 days ago
-        </span>
+        </sup>
        </li>
        <li>
         Learning
@@ -975,9 +1032,6 @@
           <a href="https://github.com/jmcunningham/AngularJS-Learning">
            AngularJS-Learning
           </a>
-          <span>
-           &#9733 10038, pushed 6 days ago
-          </span>
           : huge list of Angular learning resources
          </li>
          <li>
@@ -1026,6 +1080,12 @@
           </a>
          </li>
         </ul>
+        <sup>
+         144 GitHub links in total 987 links, ★ 10038, pushed 6 days ago
+        </sup>
+        <sup>
+         &#9733 10038, pushed 6 days ago
+        </sup>
        </li>
        <li>
         Integration
@@ -1034,9 +1094,6 @@
           <a href="https://github.com/tnajdek/angular-requirejs-seed">
            angular-requirejs-seed
           </a>
-          <span>
-           &#9733 1063, pushed 254 days ago
-          </span>
           : this is a fork of Angular Seed but with changes needed for requireJS support.
          </li>
          <li>
@@ -1065,6 +1122,12 @@
           </a>
          </li>
         </ul>
+        <sup>
+         144 GitHub links in total 987 links, ★ 1063, pushed 255 days ago
+        </sup>
+        <sup>
+         &#9733 1063, pushed 255 days ago
+        </sup>
        </li>
       </ul>
      </li>
@@ -1077,9 +1140,12 @@
         <a href="https://github.com/jquery/jquery">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 39228, pushed 2 days ago
+        </sup>
+        <sup>
          &#9733 39228, pushed 2 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://learn.jquery.com/">
@@ -1122,9 +1188,12 @@
         <a href="https://github.com/dojo/dojo">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 819, pushed 4 days ago
+        </sup>
+        <sup>
          &#9733 819, pushed 4 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://dojotoolkit.org/documentation/">
@@ -1192,9 +1261,12 @@
         <a href="https://github.com/meteor/meteor">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 33689, pushed 2 days ago
+        </sup>
+        <sup>
          &#9733 33689, pushed 2 days ago
-        </span>
+        </sup>
        </li>
       </ul>
      </li>
@@ -1208,9 +1280,12 @@
         <a href="https://github.com/madrobby/zepto">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 10540, pushed 7 days ago
+        </sup>
+        <sup>
          &#9733 10540, pushed 7 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://github.e-sites.nl/zeptobuilder/">
@@ -1243,9 +1318,12 @@
         <a href="https://github.com/facebook/react">
          Github
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 41396, pushed 2 days ago
+        </sup>
+        <sup>
          &#9733 41396, pushed 2 days ago
-        </span>
+        </sup>
        </li>
       </ul>
      </li>
@@ -1301,9 +1379,12 @@
         <a href="https://github.com/emberjs/ember.js">
          Github
         </a>
-        <span>
-         &#9733 16137, pushed 1 days ago
-        </span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 16137, pushed 2 days ago
+        </sup>
+        <sup>
+         &#9733 16137, pushed 2 days ago
+        </sup>
        </li>
        <li>
         <a href="https://www.youtube.com/watch?v=1QHrlFlaXdI">
@@ -1323,10 +1404,13 @@
       <a href="https://github.com/petermichaux/maria">
        Maria
       </a>
-      <span>
-       &#9733 665, pushed 95 days ago
-      </span>
       : The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
+      <sup>
+       144 GitHub links in total 987 links, ★ 665, pushed 95 days ago
+      </sup>
+      <sup>
+       &#9733 665, pushed 95 days ago
+      </sup>
      </li>
      <li>
       <a href="http://terrifically.org/composer/">
@@ -1464,10 +1548,13 @@
           <a href="https://github.com/jschr/bootstrap-modal">
            Bootstrap Modal
           </a>
-          <span>
-           &#9733 4742, pushed 314 days ago
-          </span>
           : Extends Bootstrap's native modals to provide additional functionality.
+          <sup>
+           144 GitHub links in total 987 links, ★ 4742, pushed 314 days ago
+          </sup>
+          <sup>
+           &#9733 4742, pushed 314 days ago
+          </sup>
          </li>
          <li>
           <a href="http://gregfranko.com/jquery.selectBoxIt.js">
@@ -1501,9 +1588,12 @@
           <a href="https://github.com/markbates/jquery-bootstrap-pagination">
            Pagination
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 91, pushed 32 days ago
+          </sup>
+          <sup>
            &#9733 91, pushed 32 days ago
-          </span>
+          </sup>
          </li>
          <li>
           <a href="http://ghusse.github.com/jQRangeSlider/">
@@ -1514,9 +1604,12 @@
           <a href="https://github.com/amoffat/bootstrap-application-wizard">
            Application Wizard
           </a>
-          <span>
+          <sup>
+           144 GitHub links in total 987 links, ★ 1856, pushed 256 days ago
+          </sup>
+          <sup>
            &#9733 1856, pushed 256 days ago
-          </span>
+          </sup>
          </li>
         </ul>
        </li>
@@ -1545,19 +1638,25 @@
           <a href="https://github.com/divshot/themestrap">
            Themestrap
           </a>
-          <span>
-           &#9733 232, pushed 925 days ago
-          </span>
           : A simple starter kit for constructing Twitter Bootstrap 3+ themes.
+          <sup>
+           144 GitHub links in total 987 links, ★ 232, pushed 925 days ago
+          </sup>
+          <sup>
+           &#9733 232, pushed 925 days ago
+          </sup>
          </li>
          <li>
           <a href="https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme">
            jQuery Mobile Boostrap
           </a>
-          <span>
-           &#9733 1235, pushed 831 days ago
-          </span>
           : A jQuery Mobile theme based on Twitter Bootstrap
+          <sup>
+           144 GitHub links in total 987 links, ★ 1235, pushed 831 days ago
+          </sup>
+          <sup>
+           &#9733 1235, pushed 831 days ago
+          </sup>
          </li>
          <li>
           <a href="http://wrapbootstrap.com/">
@@ -1661,9 +1760,6 @@
           <a href="https://github.com/emorikawa/boilerstrap">
            Boilerstrap
           </a>
-          <span>
-           &#9733 422, pushed 1506 days ago
-          </span>
           : A blank slate for the modern web. Just add creativity.
          </li>
          <li>
@@ -1721,12 +1817,21 @@
           <a href="https://github.com/twbs/bootlint">
            Bootlint
           </a>
-          <span>
-           &#9733 1637, pushed 16 days ago
-          </span>
           : This tool checks that instances of Bootstrap components have correctly-structured HTML.
+          <sup>
+           144 GitHub links in total 987 links, ★ 1637, pushed 16 days ago
+          </sup>
+          <sup>
+           &#9733 1637, pushed 16 days ago
+          </sup>
          </li>
         </ul>
+        <sup>
+         144 GitHub links in total 987 links, ★ 422, pushed 1506 days ago
+        </sup>
+        <sup>
+         &#9733 422, pushed 1506 days ago
+        </sup>
        </li>
       </ul>
      </li>
@@ -1844,10 +1949,13 @@
       <a href="https://github.com/cferdinandi/kraken">
        Kraken
       </a>
-      <span>
-       &#9733 609, pushed 14 days ago
-      </span>
       is a lightweight, mobile-first boilerplate for front-end web developers.
+      <sup>
+       144 GitHub links in total 987 links, ★ 609, pushed 14 days ago
+      </sup>
+      <sup>
+       &#9733 609, pushed 14 days ago
+      </sup>
      </li>
      <li>
       <a href="http://susy.oddbird.net/">
@@ -1865,10 +1973,13 @@
       <a href="https://github.com/topcoat/topcoat">
        Topcoat
       </a>
-      <span>
-       &#9733 4221, pushed 189 days ago
-      </span>
       is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
+      <sup>
+       144 GitHub links in total 987 links, ★ 4221, pushed 189 days ago
+      </sup>
+      <sup>
+       &#9733 4221, pushed 189 days ago
+      </sup>
      </li>
      <li>
       <a href="http://cascade-framework.com/">
@@ -1909,9 +2020,12 @@
     <a href="https://github.com/pazguille/viewport">
      Viewport Component
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 511, pushed 489 days ago
+    </sup>
+    <sup>
      &#9733 511, pushed 489 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://caniuse.com/">
@@ -1995,9 +2109,12 @@
         <a href="https://github.com/webpro/responsive-web-apps">
          This repo contains techniques and concepts to build responsive & hybrid web applications.
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 62, pushed 1036 days ago
+        </sup>
+        <sup>
          &#9733 62, pushed 1036 days ago
-        </span>
+        </sup>
        </li>
       </ul>
      </li>
@@ -2043,9 +2160,12 @@
         <a href="https://github.com/WickyNilliams/enquire.js">
          Enquire.js
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 2845, pushed 123 days ago
+        </sup>
+        <sup>
          &#9733 2845, pushed 123 days ago
-        </span>
+        </sup>
        </li>
       </ul>
      </li>
@@ -2076,10 +2196,13 @@
         <a href="https://github.com/tubalmartin/riloadr">
          Riloadr
         </a>
-        <span>
-         &#9733 698, pushed 644 days ago
-        </span>
         : A cross-browser framework-independent responsive images loader.
+        <sup>
+         144 GitHub links in total 987 links, ★ 698, pushed 644 days ago
+        </sup>
+        <sup>
+         &#9733 698, pushed 644 days ago
+        </sup>
        </li>
        <li>
         <a href="http://jquerypicture.com/">
@@ -2090,44 +2213,59 @@
         <a href="https://github.com/scottjehl/picturefill">
          Picturefill
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 8242, pushed 21 days ago
+        </sup>
+        <sup>
          &#9733 8242, pushed 21 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://github.com/estelle/clowncar">
          Clown Car
         </a>
-        <span>
-         &#9733 895, pushed 1045 days ago
-        </span>
         Technique for Responsive Images
+        <sup>
+         144 GitHub links in total 987 links, ★ 895, pushed 1045 days ago
+        </sup>
+        <sup>
+         &#9733 895, pushed 1045 days ago
+        </sup>
        </li>
        <li>
         <a href="https://github.com/karacas/imgLiquid">
          imgLiquid
         </a>
-        <span>
-         &#9733 929, pushed 710 days ago
-        </span>
         jQuery plugin to resize images to fit in a container.
+        <sup>
+         144 GitHub links in total 987 links, ★ 929, pushed 710 days ago
+        </sup>
+        <sup>
+         &#9733 929, pushed 710 days ago
+        </sup>
        </li>
        <li>
         <a href="https://github.com/scottjehl/picturefill">
          PictureFill
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 8242, pushed 21 days ago
+        </sup>
+        <sup>
          &#9733 8242, pushed 21 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://github.com/teleject/hisrc">
          HiSRC
         </a>
-        <span>
-         &#9733 563, pushed 346 days ago
-        </span>
         : A simple jQuery plugin for adaptive images in responsive web design
+        <sup>
+         144 GitHub links in total 987 links, ★ 563, pushed 346 days ago
+        </sup>
+        <sup>
+         &#9733 563, pushed 346 days ago
+        </sup>
        </li>
        <li>
         <a href="http://www.resrc.it/">
@@ -2242,17 +2380,23 @@
         <a href="https://github.com/brian-c/phantom-limb">
          Phantom Limb
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 171, pushed 906 days ago
+        </sup>
+        <sup>
          &#9733 171, pushed 906 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://github.com/davidcalhoun/touche">
          Touché
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 139, pushed 1057 days ago
+        </sup>
+        <sup>
          &#9733 139, pushed 1057 days ago
-        </span>
+        </sup>
        </li>
       </ul>
      </li>
@@ -2281,9 +2425,12 @@
         <a href="https://github.com/zynga/scroller">
          Zynga Scroller
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 2773, pushed 358 days ago
+        </sup>
+        <sup>
          &#9733 2773, pushed 358 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://github.com/dantipa/pull-to-refresh-js">
@@ -2294,9 +2441,12 @@
         <a href="https://github.com/filamentgroup/Overthrow">
          Overthrow
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 887, pushed 169 days ago
+        </sup>
+        <sup>
          &#9733 887, pushed 169 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://cubiq.org/iscroll-4">
@@ -2330,18 +2480,24 @@
         <a href="https://github.com/mattbryson/TouchSwipe-Jquery-Plugin">
          TouchSwipe
         </a>
-        <span>
-         &#9733 3198, pushed 4 days ago
-        </span>
         is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc.
+        <sup>
+         144 GitHub links in total 987 links, ★ 3198, pushed 4 days ago
+        </sup>
+        <sup>
+         &#9733 3198, pushed 4 days ago
+        </sup>
        </li>
        <li>
         <a href="https://github.com/marcbourlon/TipTap">
          TipTap
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 38, pushed 1169 days ago
+        </sup>
+        <sup>
          &#9733 38, pushed 1169 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://stephband.info/jquery.event.swipe/">
@@ -2358,17 +2514,23 @@
         <a href="https://github.com/plainview/Jester">
          Jester
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 81, pushed 1141 days ago
+        </sup>
+        <sup>
          &#9733 81, pushed 1141 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://github.com/andyjamesdavies/jsTouchLayer">
          JS Touch Layer
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 10, pushed 1435 days ago
+        </sup>
+        <sup>
          &#9733 10, pushed 1435 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="http://yuilibrary.com/yui/docs/event/touch.html">
@@ -2394,9 +2556,6 @@
         <a href="https://github.com/davidcalhoun/energize.js">
          Energize
         </a>
-        <span>
-         &#9733 180, pushed 616 days ago
-        </span>
        </li>
        <li>
         <a href="http://cheeaun.github.com/tappable/">
@@ -2408,18 +2567,24 @@
         <a href="https://github.com/ftlabs/fastclick">
          Fastclick
         </a>
-        <span>
-         &#9733 12345, pushed 7 days ago
-        </span>
         is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers.
+        <sup>
+         144 GitHub links in total 987 links, ★ 12345, pushed 7 days ago
+        </sup>
+        <sup>
+         &#9733 12345, pushed 7 days ago
+        </sup>
        </li>
        <li>
         <a href="https://github.com/ucsf-ckm/LightningTouch">
          Lightning Touch
         </a>
-        <span>
+        <sup>
+         144 GitHub links in total 987 links, ★ 23, pushed 132 days ago
+        </sup>
+        <sup>
          &#9733 23, pushed 132 days ago
-        </span>
+        </sup>
        </li>
        <li>
         <a href="https://developers.google.com/mobile/articles/fast_buttons">
@@ -2427,6 +2592,12 @@
         </a>
        </li>
       </ul>
+      <sup>
+       144 GitHub links in total 987 links, ★ 180, pushed 616 days ago
+      </sup>
+      <sup>
+       &#9733 180, pushed 616 days ago
+      </sup>
      </li>
      <li>
       Layout
@@ -2440,19 +2611,25 @@
         <a href="https://github.com/jakiestfu/Snap.js">
          Snap.js
         </a>
-        <span>
-         &#9733 5850, pushed 52 days ago
-        </span>
         A JavaScript Library for creating beautiful mobile shelfs in JavaScript (Facebook and Path style side menus)
+        <sup>
+         144 GitHub links in total 987 links, ★ 5850, pushed 52 days ago
+        </sup>
+        <sup>
+         &#9733 5850, pushed 52 days ago
+        </sup>
        </li>
        <li>
         <a href="https://github.com/tomlongo/Flickable.js">
          Flickable.js
         </a>
-        <span>
-         &#9733 375, pushed 1126 days ago
-        </span>
         allows you to make any element touchable; useful for flicking between sections, or sliding elements around the page.
+        <sup>
+         144 GitHub links in total 987 links, ★ 375, pushed 1126 days ago
+        </sup>
+        <sup>
+         &#9733 375, pushed 1126 days ago
+        </sup>
        </li>
        <li>
         <a href="http://swipejs.com/">
@@ -2475,10 +2652,13 @@
         <a href="https://github.com/max-power/swipeslide">
          SwipeSlide
         </a>
-        <span>
-         &#9733 88, pushed 945 days ago
-        </span>
         : A Zepto Plugin for iOS like swipe navigation.
+        <sup>
+         144 GitHub links in total 987 links, ★ 88, pushed 945 days ago
+        </sup>
+        <sup>
+         &#9733 88, pushed 945 days ago
+        </sup>
        </li>
        <li>
         <a href="http://johnpolacek.github.com/stacktable.js/">
@@ -2672,9 +2852,12 @@
     <a href="https://github.com/daneden/Baseline.js">
      Baseline.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 751, pushed 201 days ago
+    </sup>
+    <sup>
      &#9733 751, pushed 201 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://clearideaz.com/jkerny/">
@@ -2927,10 +3110,13 @@
     <a href="https://github.com/machito/animate.less">
      animate.less
     </a>
-    <span>
-     &#9733 507, pushed 309 days ago
-    </span>
     , is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
+    <sup>
+     144 GitHub links in total 987 links, ★ 507, pushed 309 days ago
+    </sup>
+    <sup>
+     &#9733 507, pushed 309 days ago
+    </sup>
    </li>
    <li>
     <a href="http://hyperandroid.github.com/CAAT/">
@@ -2948,10 +3134,13 @@
     <a href="https://github.com/MikeMcTiernan/Janis">
      Janis
     </a>
-    <span>
-     &#9733 64, pushed 1795 days ago
-    </span>
     is a lightweight JavaScript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
+    <sup>
+     144 GitHub links in total 987 links, ★ 64, pushed 1795 days ago
+    </sup>
+    <sup>
+     &#9733 64, pushed 1795 days ago
+    </sup>
    </li>
    <li>
     <a href="http://rekapi.com/">
@@ -2975,10 +3164,13 @@
     <a href="https://github.com/madrobby/emile">
      emile.js
     </a>
-    <span>
-     &#9733 539, pushed 2183 days ago
-    </span>
     is a no-frills stand-alone CSS animation JavaScript framework.
+    <sup>
+     144 GitHub links in total 987 links, ★ 539, pushed 2183 days ago
+    </sup>
+    <sup>
+     &#9733 539, pushed 2183 days ago
+    </sup>
    </li>
    <li>
     <a href="http://extralogical.net/projects/firmin/">
@@ -2990,10 +3182,13 @@
     <a href="https://github.com/wambotron/Keanu">
      Keanu
     </a>
-    <span>
-     &#9733 19, pushed 1560 days ago
-    </span>
     is a micro-lib for animation on Canvas/JS.
+    <sup>
+     144 GitHub links in total 987 links, ★ 19, pushed 1560 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 1560 days ago
+    </sup>
    </li>
    <li>
     <a href="http://jsanim.com/">
@@ -3082,10 +3277,13 @@
     <a href="https://github.com/miniMAC/magic">
      Magic
     </a>
-    <span>
-     &#9733 4118, pushed 7 days ago
-    </span>
     is a CSS3 framework with many animations, it's simple to use and many animations are cross-browser compatible.
+    <sup>
+     144 GitHub links in total 987 links, ★ 4118, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 4118, pushed 7 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3115,10 +3313,13 @@
       <a href="https://github.com/jslegers/jquery-bootstrap">
        jQuery Bootstrap
       </a>
-      <span>
-       &#9733 66, pushed 765 days ago
-      </span>
       : Integration of Bootstrap and jQuery UI
+      <sup>
+       144 GitHub links in total 987 links, ★ 66, pushed 765 days ago
+      </sup>
+      <sup>
+       &#9733 66, pushed 766 days ago
+      </sup>
      </li>
      <li>
       <a href="http://cascade-framework.com/">
@@ -3221,9 +3422,6 @@
       <a href="https://github.com/Srirangan/notifer.js">
        notifier.js
       </a>
-      <span>
-       &#9733 351, pushed 218 days ago
-      </span>
      </li>
      <li>
       <a href="http://needim.github.com/noty/">
@@ -3246,6 +3444,12 @@
       </a>
      </li>
     </ul>
+    <sup>
+     144 GitHub links in total 987 links, ★ 351, pushed 218 days ago
+    </sup>
+    <sup>
+     &#9733 351, pushed 218 days ago
+    </sup>
    </li>
    <li>
     Gallery Sliders
@@ -3304,9 +3508,6 @@
       <a href="https://github.com/collective/jquery.recurrenceinput.js">
        jQuery Recurrence Input
       </a>
-      <span>
-       &#9733 158, pushed 186 days ago
-      </span>
      </li>
      <li>
       <a href="http://ivaynberg.github.com/select2/">
@@ -3322,12 +3523,21 @@
       <a href="https://github.com/harvesthq/chosen">
        chosen
       </a>
-      <span>
-       &#9733 19368, pushed 6 days ago
-      </span>
       is a library for making long, unwieldy select boxes more friendly.
+      <sup>
+       144 GitHub links in total 987 links, ★ 19368, pushed 6 days ago
+      </sup>
+      <sup>
+       &#9733 19368, pushed 6 days ago
+      </sup>
      </li>
     </ul>
+    <sup>
+     144 GitHub links in total 987 links, ★ 158, pushed 186 days ago
+    </sup>
+    <sup>
+     &#9733 158, pushed 186 days ago
+    </sup>
    </li>
    <li>
     Progress Bars
@@ -3341,9 +3551,12 @@
       <a href="https://github.com/mdix/progress.js">
        progress.js
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 40, pushed 1285 days ago
+      </sup>
+      <sup>
        &#9733 40, pushed 1285 days ago
-      </span>
+      </sup>
      </li>
     </ul>
    </li>
@@ -3418,9 +3631,6 @@
     <a href="https://github.com/thomasxiii/photon">
      Photon
     </a>
-    <span>
-     &#9733 1338, pushed 1408 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/morrisjs/morris.js/">
@@ -3611,6 +3821,12 @@
     is a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs.
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 1338, pushed 1408 days ago
+  </sup>
+  <sup>
+   &#9733 1338, pushed 1408 days ago
+  </sup>
  </li>
  <li>
   Validation & Forms
@@ -3619,9 +3835,6 @@
     <a href="https://github.com/jakiestfu/Mention.js">
      Mention.js
     </a>
-    <span>
-     &#9733 590, pushed 102 days ago
-    </span>
     Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
    </li>
    <li>
@@ -3645,10 +3858,13 @@
     <a href="https://github.com/One-com/one-validation">
      one-validation
     </a>
-    <span>
-     &#9733 35, pushed 323 days ago
-    </span>
     is a collection of regular expressions for general validation purposes.
+    <sup>
+     144 GitHub links in total 987 links, ★ 35, pushed 323 days ago
+    </sup>
+    <sup>
+     &#9733 35, pushed 323 days ago
+    </sup>
    </li>
    <li>
     <a href="http://jukebox42.github.com/nextVal/">
@@ -3686,6 +3902,12 @@
     : jQuery validation engine is a JavaScript plugin aimed at the validation of form fields in the browser
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 590, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 590, pushed 102 days ago
+  </sup>
  </li>
  <li>
   Transitions
@@ -3746,9 +3968,12 @@
     <a href="https://github.com/dbushell/Pikaday">
      Pikaday
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 3864, pushed 14 days ago
+    </sup>
+    <sup>
      &#9733 3864, pushed 14 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -3807,9 +4032,12 @@
       <a href="https://github.com/cucumber/cucumber-js">
        cucumber.js
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 2011, pushed 3 days ago
+      </sup>
+      <sup>
        &#9733 2011, pushed 3 days ago
-      </span>
+      </sup>
      </li>
      <li>
       <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">
@@ -3853,10 +4081,13 @@
     <a href="https://github.com/Huddle/PhantomCSS">
      PhantomCSS
     </a>
-    <span>
-     &#9733 3664, pushed 6 days ago
-    </span>
     - for automating visual regression testing of website styling to support refactoring of CSS
+    <sup>
+     144 GitHub links in total 987 links, ★ 3664, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 3664, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/bem/gemini">
@@ -3886,10 +4117,13 @@
     <a href="https://github.com/domenic/sinon-chai">
      sinon-chai
     </a>
-    <span>
-     &#9733 535, pushed 110 days ago
-    </span>
     - Extends Chai with assertions for the Sinon.JS mocking framework.
+    <sup>
+     144 GitHub links in total 987 links, ★ 535, pushed 110 days ago
+    </sup>
+    <sup>
+     &#9733 535, pushed 110 days ago
+    </sup>
    </li>
    <li>
     <a href="http://phantomjs.org/">
@@ -3949,9 +4183,12 @@
     <a href="https://github.com/kylebarrow/chibi">
      Chibi
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 428, pushed 112 days ago
+    </sup>
+    <sup>
      &#9733 428, pushed 112 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://archan937.github.com/templayed.js/">
@@ -3968,19 +4205,25 @@
     <a href="https://github.com/caolan/pithy">
      pithy
     </a>
-    <span>
-     &#9733 433, pushed 1084 days ago
-    </span>
     : An internal DSL for generating HTML in JavaScript
+    <sup>
+     144 GitHub links in total 987 links, ★ 433, pushed 1084 days ago
+    </sup>
+    <sup>
+     &#9733 433, pushed 1084 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gcao/T.js">
      T
     </a>
-    <span>
-     &#9733 12, pushed 689 days ago
-    </span>
     : T.js is a template engine that uses simple JavaScript data structure to represent html/xml data.
+    <sup>
+     144 GitHub links in total 987 links, ★ 12, pushed 689 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 689 days ago
+    </sup>
    </li>
    <li>
     <a href="http://nunjucks.jlongster.com/">
@@ -4034,17 +4277,23 @@
     <a href="https://github.com/javve/hash.js">
      Hash.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 111, pushed 644 days ago
+    </sup>
+    <sup>
      &#9733 111, pushed 644 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/flatiron/director">
      director
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 3831, pushed 10 days ago
+    </sup>
+    <sup>
      &#9733 3831, pushed 10 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://davisjs.com/">
@@ -4075,18 +4324,24 @@
     <a href="https://github.com/visionmedia/page.js">
      page.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 3725, pushed 14 days ago
+    </sup>
+    <sup>
      &#9733 3725, pushed 14 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pid/speakingurl">
      speakingurl
     </a>
-    <span>
-     &#9733 638, pushed 90 days ago
-    </span>
     : generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
+    <sup>
+     144 GitHub links in total 987 links, ★ 638, pushed 90 days ago
+    </sup>
+    <sup>
+     &#9733 638, pushed 90 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4127,9 +4382,12 @@
     <a href="https://github.com/michael/proper">
      Proper
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 38, pushed 1416 days ago
+    </sup>
+    <sup>
      &#9733 38, pushed 1416 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://www.snapeditor.com/">
@@ -4180,10 +4438,13 @@
     <a href="https://github.com/adobe/brackets">
      Brackets
     </a>
-    <span>
-     &#9733 25194, pushed 2 days ago
-    </span>
     : An open source code editor for the web, written in JavaScript, HTML and CSS by Adobe.
+    <sup>
+     144 GitHub links in total 987 links, ★ 25194, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 25194, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="http://codemirror.net/">
@@ -4194,9 +4455,12 @@
     <a href="https://github.com/scripted-editor/scripted">
      Scripted
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 1561, pushed 727 days ago
+    </sup>
+    <sup>
      &#9733 1561, pushed 727 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://julianlam.github.com/tabIndent.js/">
@@ -4658,9 +4922,12 @@
     <a href="https://github.com/umdjs/umd">
      UMD (Universal Module Definition) patterns
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 3611, pushed 48 days ago
+    </sup>
+    <sup>
      &#9733 3611, pushed 48 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://browserify.org/">
@@ -4689,9 +4956,12 @@
     <a href="https://github.com/gregersrygg/crapLoader">
      CrapLoader
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 70, pushed 1290 days ago
+    </sup>
+    <sup>
      &#9733 70, pushed 1290 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://addyosmani.com/writing-modular-js/">
@@ -4737,18 +5007,24 @@
     <a href="https://github.com/volojs/volo">
      volo
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 1307, pushed 54 days ago
+    </sup>
+    <sup>
      &#9733 1307, pushed 54 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sifteo/parcel">
      parcel
     </a>
-    <span>
-     &#9733 4, pushed 1097 days ago
-    </span>
     is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
+    <sup>
+     144 GitHub links in total 987 links, ★ 4, pushed 1097 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 1097 days ago
+    </sup>
    </li>
    <li>
     <a href="http://jamjs.org/">
@@ -4764,17 +5040,17 @@
     <a href="https://github.com/mezzoblue/PaintbrushJS">
      Paintbrush.js
     </a>
-    <span>
-     &#9733 774, pushed 1743 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/OiNutter/Obscura">
      Obscura
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 63, pushed 627 days ago
+    </sup>
+    <sup>
      &#9733 63, pushed 627 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://deepliquid.com/content/Jcrop.html">
@@ -4782,6 +5058,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 774, pushed 1743 days ago
+  </sup>
+  <sup>
+   &#9733 774, pushed 1743 days ago
+  </sup>
  </li>
  <li>
   Icons
@@ -4876,10 +5158,13 @@
     <a href="https://github.com/sockjs/sockjs-client">
      SockJS
     </a>
-    <span>
-     &#9733 3910, pushed 3 days ago
-    </span>
     is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, JavaScript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
+    <sup>
+     144 GitHub links in total 987 links, ★ 3910, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 3910, pushed 3 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4890,9 +5175,6 @@
     <a href="https://github.com/ebobby/tracing.js">
      Tracing.js
     </a>
-    <span>
-     &#9733 511, pushed 1056 days ago
-    </span>
     - JavaScript function tracing.
    </li>
    <li>
@@ -4912,6 +5194,12 @@
     : injectable remote console.
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 511, pushed 1056 days ago
+  </sup>
+  <sup>
+   &#9733 511, pushed 1056 days ago
+  </sup>
  </li>
  <li>
   Documentation
@@ -4944,10 +5232,13 @@
     <a href="https://github.com/rtomayko/ronn">
      Ronn
     </a>
-    <span>
-     &#9733 856, pushed 238 days ago
-    </span>
     builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+    <sup>
+     144 GitHub links in total 987 links, ★ 856, pushed 238 days ago
+    </sup>
+    <sup>
+     &#9733 856, pushed 238 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/visionmedia/dox">
@@ -5029,9 +5320,12 @@
     <a href="https://github.com/tholman/tileJs">
      Windows Metro tiles with JavaScript and CSS3
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 135, pushed 189 days ago
+    </sup>
+    <sup>
      &#9733 135, pushed 189 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://bootswatch.com/cosmo/">
@@ -5177,10 +5471,13 @@
     <a href="https://github.com/miripiruni/frontdesk">
      Frontdesk
     </a>
-    <span>
-     &#9733 1486, pushed 15 days ago
-    </span>
     : Community driven list of useful things for Front End Developers
+    <sup>
+     144 GitHub links in total 987 links, ★ 1486, pushed 15 days ago
+    </sup>
+    <sup>
+     &#9733 1486, pushed 15 days ago
+    </sup>
    </li>
    <li>
     <a href="http://isobar-idev.github.io/code-standards/">
@@ -5224,9 +5521,6 @@
     <a href="https://github.com/ndreckshage/roughdraft.js">
      RoughDraft.js
     </a>
-    <span>
-     &#9733 481, pushed 634 days ago
-    </span>
    </li>
    <li>
     <a href="http://vimeo.com/52851510">
@@ -5241,9 +5535,12 @@
     <a href="https://github.com/ryhan/fixie">
      fixie
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 885, pushed 79 days ago
+    </sup>
+    <sup>
      &#9733 885, pushed 79 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://imsky.github.com/holder/">
@@ -5251,6 +5548,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 481, pushed 634 days ago
+  </sup>
+  <sup>
+   &#9733 481, pushed 634 days ago
+  </sup>
  </li>
  <li>
   JSON
@@ -5265,10 +5568,13 @@
     <a href="https://github.com/jimhigson/oboe.js">
      Oboe.js
     </a>
-    <span>
-     &#9733 3882, pushed 14 days ago
-    </span>
     makes it really easy to start using json from a response before the ajax request completes; or even if it never completes.
+    <sup>
+     144 GitHub links in total 987 links, ★ 3882, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 3882, pushed 14 days ago
+    </sup>
    </li>
    <li>
     <a href="http://jsonlint.com/">
@@ -5311,9 +5617,12 @@
     <a href="https://github.com/hakimel/reveal.js">
      reveal.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 27784, pushed 2 days ago
+    </sup>
+    <sup>
      &#9733 27784, pushed 2 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://code.google.com/p/io-2012-slides/">
@@ -5324,9 +5633,12 @@
     <a href="https://github.com/briancavalier/slides">
      Slides
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 353, pushed 1035 days ago
+    </sup>
+    <sup>
      &#9733 353, pushed 1035 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://lea.verou.me/csss/sample-slideshow.html">
@@ -5352,9 +5664,12 @@
     <a href="https://github.com/MaciejCzyzewski/hyhyhy">
      hyhyhy
     </a>
-    <span>
-     &#9733 917, pushed 122 days ago
-    </span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 917, pushed 123 days ago
+    </sup>
+    <sup>
+     &#9733 917, pushed 123 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -5365,9 +5680,6 @@
     <a href="https://github.com/jakiestfu/AppScroll.js">
      AppScroll.js
     </a>
-    <span>
-     &#9733 241, pushed 1021 days ago
-    </span>
     AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
    </li>
    <li>
@@ -5391,6 +5703,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 241, pushed 1021 days ago
+  </sup>
+  <sup>
+   &#9733 241, pushed 1021 days ago
+  </sup>
  </li>
  <li>
   Keyboard
@@ -5414,25 +5732,34 @@
     <a href="https://github.com/bitwalker/keys.js">
      Keys.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 380, pushed 55 days ago
+    </sup>
+    <sup>
      &#9733 380, pushed 55 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/piranha/keymage">
      keymage.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 261, pushed 115 days ago
+    </sup>
+    <sup>
      &#9733 261, pushed 115 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/keithamus/jwerty">
      jwerty
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 1102, pushed 26 days ago
+    </sup>
+    <sup>
      &#9733 1102, pushed 26 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -5499,9 +5826,12 @@
       <a href="https://github.com/gijs/ohauth">
        ohauth
       </a>
-      <span>
+      <sup>
+       144 GitHub links in total 987 links, ★ 0, pushed 1204 days ago
+      </sup>
+      <sup>
        &#9733 0, pushed 1204 days ago
-      </span>
+      </sup>
      </li>
      <li>
       <a href="http://mapbox.com/osmdev/2013/01/15/oauth-in-javascript/">
@@ -5514,9 +5844,12 @@
     <a href="https://github.com/andreassolberg/jso">
      JSO - a JavaScript OAuth Library
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 592, pushed 5 days ago
+    </sup>
+    <sup>
      &#9733 592, pushed 5 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://code.google.com/p/xdoauthproxy/">
@@ -5567,9 +5900,6 @@
     <a href="https://github.com/McPants/jquery.shapeshift">
      Shapeshift
     </a>
-    <span>
-     &#9733 1662, pushed 152 days ago
-    </span>
     is a plugin which will dynamically arrange a collection of elements into a column grid system similar to Pinterest.
    </li>
    <li>
@@ -5591,6 +5921,12 @@
     jQuery plugin providing animated filtering and sorting.
    </li>
   </ul>
+  <sup>
+   144 GitHub links in total 987 links, ★ 1662, pushed 152 days ago
+  </sup>
+  <sup>
+   &#9733 1662, pushed 152 days ago
+  </sup>
  </li>
  <li>
   Jobs & Hiring
@@ -5624,19 +5960,25 @@
     <a href="https://github.com/ChiperSoft/InterviewThis">
      Interview This!
     </a>
-    <span>
-     &#9733 1024, pushed 83 days ago
-    </span>
     : A list of questions to ask employers.
+    <sup>
+     144 GitHub links in total 987 links, ★ 1024, pushed 83 days ago
+    </sup>
+    <sup>
+     &#9733 1024, pushed 83 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/blakeembrey/code-problems">
      Code problems
     </a>
-    <span>
-     &#9733 3084, pushed 13 days ago
-    </span>
     -- Common code problems solved using JavaScript
+    <sup>
+     144 GitHub links in total 987 links, ★ 3084, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 3084, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="http://careers.stackoverflow.com/">
@@ -5667,9 +6009,12 @@
     <a href="https://github.com/mozilla/pdf.js">
      Mozilla / pdf.js
     </a>
-    <span>
+    <sup>
+     144 GitHub links in total 987 links, ★ 14255, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 14255, pushed 3 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://xoxco.com/projects/code/aware/">

@@ -153,41 +153,41 @@
   <a href="https://github.com/slawrence/vessel">
    Vessel
   </a>
-  <span>
-   &#9733 79, pushed 319 days ago
-  </span>
   - A "tunnel" game written in Elm!
+  <sup>
+   &#9733 79, pushed 319 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/moroshko/sliding-puzzle">
    Sliding Puzzle
   </a>
-  <span>
-   &#9733 43, pushed 170 days ago
-  </span>
   - Configurable sliding puzzle game written in Elm.
+  <sup>
+   &#9733 43, pushed 170 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evancz/elm-todomvc">
    TodoMVC
   </a>
-  <span>
-   &#9733 391, pushed 4 days ago
-  </span>
   - Proper implementation of the TodoMVC app.
+  <sup>
+   &#9733 391, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ThomasWeiser/todomvc-elmfire">
    TodoMVC/Firebase
   </a>
-  <span>
-   &#9733 26, pushed 86 days ago
-  </span>
   - Fork of TodoMVC demonstrating start-app,
   <a href="https://github.com/evancz/elm-architecture-tutorial">
    The Elm Architecture
   </a>
   and Firebase as backend.
+  <sup>
+   &#9733 26, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ohanhi/elm-ement">
@@ -196,9 +196,9 @@
     – Minimal example of a custom element.
    </elm-ement\&gt;<>
   </a>
-  <span>
+  <sup>
    &#9733 13, pushed 271 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://elm-playground.maciejsmolinski.com/">
@@ -245,19 +245,19 @@
   <a href="https://github.com/evancz/elm-architecture-tutorial">
    Architecture Tutorial
   </a>
-  <span>
-   &#9733 2313, pushed 23 days ago
-  </span>
   - How to create modular Elm code that scales nicely with your app.
+  <sup>
+   &#9733 2313, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evancz/start-app">
    Start app
   </a>
-  <span>
-   &#9733 401, pushed 25 days ago
-  </span>
   - Make an app, start it up.
+  <sup>
+   &#9733 401, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pragmaticstudio.com/elm">
@@ -299,10 +299,10 @@
   <a href="https://github.com/izdi/elm-cheat-sheet">
    Elm cheat sheet
   </a>
-  <span>
-   &#9733 196, pushed 42 days ago
-  </span>
   - Syntax and features overview.
+  <sup>
+   &#9733 196, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://learnxinyminutes.com/docs/elm/">
@@ -385,10 +385,10 @@
   <a href="https://github.com/eeue56/elm-for-web-developers">
    Elm for Web Developers
   </a>
-  <span>
-   &#9733 43, pushed 99 days ago
-  </span>
   - A collection of notes for web developers looking into moving to Elm.
+  <sup>
+   &#9733 43, pushed 100 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app">
@@ -559,10 +559,10 @@
   <a href="https://github.com/elm-lang/core">
    elm-core
   </a>
-  <span>
-   &#9733 406, pushed 1 days ago
-  </span>
   - Elm Core Libraries.
+  <sup>
+   &#9733 406, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evancz/elm-html/">
@@ -574,90 +574,90 @@
   <a href="https://github.com/deadfoxygrandpa/Elm-Test">
    elm-test
   </a>
-  <span>
-   &#9733 133, pushed 57 days ago
-  </span>
   - A unit testing framework for Elm.
+  <sup>
+   &#9733 133, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TheSeamau5/elm-router">
    elm-router
   </a>
-  <span>
-   &#9733 65, pushed 161 days ago
-  </span>
   - Easy routing in Elm.
+  <sup>
+   &#9733 65, pushed 161 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evancz/elm-http">
    elm-http
   </a>
-  <span>
-   &#9733 53, pushed 37 days ago
-  </span>
   - Make HTTP requests in Elm.
+  <sup>
+   &#9733 53, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lukewestby/elm-http-extra">
    elm-http-extra
   </a>
-  <span>
-   &#9733 30, pushed 2 days ago
-  </span>
   - Build and handle JSON requests more naturally than with low-level elm-http.
+  <sup>
+   &#9733 30, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/laszlopandy/elm-console">
    elm-console
   </a>
-  <span>
-   &#9733 33, pushed 43 days ago
-  </span>
   - Elm library to read and write to the console in Node.
+  <sup>
+   &#9733 33, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxsnew/lazy">
    Lazy
   </a>
-  <span>
-   &#9733 17, pushed 57 days ago
-  </span>
   - Lazy Evaluation in Elm.
+  <sup>
+   &#9733 17, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gdotdesign/elm-ui">
    elm-ui
   </a>
-  <span>
-   &#9733 159, pushed 3 days ago
-  </span>
   - UI Library in Elm.
+  <sup>
+   &#9733 159, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/debois/elm-mdl">
    elm-mdl
   </a>
-  <span>
-   &#9733 68, pushed 2 days ago
-  </span>
   - Material Design component library in Elm. With
   <a href="https://debois.github.io/elm-mdl/">
    demo
   </a>
   .
+  <sup>
+   &#9733 68, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ThomasWeiser/elmfire">
    elmfire
   </a>
-  <span>
-   &#9733 75, pushed 2 days ago
-  </span>
   - Use Firebase as backend. For higher level API:
   <a href="https://github.com/ThomasWeiser/elmfire-extra">
    elmfire-extra
   </a>
   .
+  <sup>
+   &#9733 75, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -680,95 +680,95 @@
   <a href="https://github.com/elm-lang/elm-compiler">
    elm-compiler
   </a>
-  <span>
-   &#9733 2677, pushed 4 days ago
-  </span>
   - Compiler for the Elm programming language.
+  <sup>
+   &#9733 2677, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elm-lang/elm-make">
    elm-make
   </a>
-  <span>
-   &#9733 63, pushed 12 days ago
-  </span>
   - A build tool for Elm projects.
+  <sup>
+   &#9733 63, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elm-lang/elm-reactor">
    elm-reactor
   </a>
-  <span>
-   &#9733 196, pushed 12 days ago
-  </span>
   - Interactive development tool that makes it easy to develop and debug Elm programs.
+  <sup>
+   &#9733 196, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elm-lang/elm-repl">
    elm-repl
   </a>
-  <span>
-   &#9733 93, pushed 15 days ago
-  </span>
   - A REPL for Elm.
+  <sup>
+   &#9733 93, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elm-lang/elm-package">
    elm-package
   </a>
-  <span>
-   &#9733 91, pushed 2 days ago
-  </span>
   - CLI to share Elm libraries.
+  <sup>
+   &#9733 91, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JustusAdam/elm-init">
    elm-init
   </a>
-  <span>
-   &#9733 8, pushed 75 days ago
-  </span>
   - Interactive setup for new Elm projects.
+  <sup>
+   &#9733 8, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/avh4/elm-format">
    elm-format
   </a>
-  <span>
-   &#9733 193, pushed 7 days ago
-  </span>
   - Automatic Elm code formatter adhering to
   <a href="http://elm-lang.org/docs/style-guide">
    Elm Style Guide
   </a>
   .
+  <sup>
+   &#9733 193, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rtfeldman/grunt-elm">
    grunt-elm
   </a>
-  <span>
-   &#9733 13, pushed 73 days ago
-  </span>
   - Grunt plugin that compiles Elm files to JavaScript.
+  <sup>
+   &#9733 13, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rtfeldman/elm-webpack-loader">
    elm-webpack-loader
   </a>
-  <span>
-   &#9733 126, pushed 4 days ago
-  </span>
   - Webpack loader for the Elm programming language.
+  <sup>
+   &#9733 126, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eeue56/servelm">
    servelm
   </a>
-  <span>
-   &#9733 86, pushed 70 days ago
-  </span>
   - A project enabling server-side use of Elm.
+  <sup>
+   &#9733 86, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -797,10 +797,10 @@
   <a href="https://github.com/chiefGui/atom-elm-snippets">
    atom-elm-snippets
   </a>
-  <span>
-   &#9733 6, pushed 35 days ago
-  </span>
   - Elm snippets for Atom.
+  <sup>
+   &#9733 6, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://atom.io/packages/language-elm">
@@ -812,19 +812,19 @@
   <a href="https://github.com/jcollard/elm-mode">
    emacs-elm-mode
   </a>
-  <span>
-   &#9733 114, pushed 7 days ago
-  </span>
   - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
+  <sup>
+   &#9733 114, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rundis/elm-light">
    elm-light-table
   </a>
-  <span>
-   &#9733 41, pushed 37 days ago
-  </span>
   - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
+  <sup>
+   &#9733 41, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://packagecontrol.io/packages/Elm%20Language%20Support">
@@ -836,10 +836,10 @@
   <a href="https://github.com/ElmCast/elm-vim">
    Elm-vim
   </a>
-  <span>
-   &#9733 110, pushed 27 days ago
-  </span>
   - Elm mode for vim.
+  <sup>
+   &#9733 110, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://plugins.jetbrains.com/plugin/8192">
@@ -897,19 +897,19 @@
   <a href="https://github.com/moarwick/elm-webpack-starter">
    elm-webpack-starter
   </a>
-  <span>
-   &#9733 142, pushed 57 days ago
-  </span>
   - A simple Webpack setup for writing Elm apps.
+  <sup>
+   &#9733 142, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gkubisa/elm-app-boilerplate">
    elm-app-boilerplate
   </a>
-  <span>
-   &#9733 13, pushed 7 days ago
-  </span>
   - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
+  <sup>
+   &#9733 13, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -944,10 +944,10 @@
   <a href="https://github.com/eeue56/haskell-to-elm">
    Haskell to Elm
   </a>
-  <span>
-   &#9733 12, pushed 132 days ago
-  </span>
   - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
+  <sup>
+   &#9733 12, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="http://yang-wei.github.io/elmflux/">
@@ -1074,29 +1074,29 @@
   <a href="https://github.com/sindresorhus/awesome" target="_blank">
    awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   by
   <a href="https://github.com/sindresorhus">
    <strong>
     @sindresorhus
    </strong>
   </a>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   by
   <a href="https://github.com/bayandin">
    <strong>
     @bayandin
    </strong>
   </a>
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <p>

@@ -285,50 +285,65 @@
   <a href="https://github.com/sindresorhus/np">
    np
   </a>
-  <span>
-   &#9733 215, pushed 70 days ago
-  </span>
   - A better
   <code>
    npm publish
   </code>
   .
+  <sup>
+   41 GitHub links in total 106 links, ★ 215, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 215, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/inikulin/publish-please">
    publish-please
   </a>
-  <span>
-   &#9733 368, pushed 26 days ago
-  </span>
   - Publish packages safely and gracefully.
+  <sup>
+   41 GitHub links in total 106 links, ★ 368, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 368, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phuu/npm-release">
    npm-release
   </a>
-  <span>
-   &#9733 82, pushed 169 days ago
-  </span>
   - Making releasing to npm so easy a kitten could probably do it™.
+  <sup>
+   41 GitHub links in total 106 links, ★ 82, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timoxley/pkgfiles">
    pkgfiles
   </a>
-  <span>
-   &#9733 24, pushed 67 days ago
-  </span>
   - List all files which would be published in a package.
+  <sup>
+   41 GitHub links in total 106 links, ★ 24, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/semantic-release/semantic-release">
    semantic-release
   </a>
-  <span>
-   &#9733 1335, pushed 1 days ago
-  </span>
   - Fully automated package publishing.
+  <sup>
+   41 GitHub links in total 106 links, ★ 1335, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1335, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -339,100 +354,133 @@
   <a href="https://github.com/sindresorhus/npm-name-cli">
    npm-name
   </a>
-  <span>
-   &#9733 70, pushed 11 days ago
-  </span>
   - Check whether a package name is available on npm.
+  <sup>
+   41 GitHub links in total 106 links, ★ 70, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 70, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/package-json">
    package-json
   </a>
-  <span>
-   &#9733 31, pushed 29 days ago
-  </span>
   - Get the package.json of a package from the npm registry.
+  <sup>
+   41 GitHub links in total 106 links, ★ 31, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/latest-version-cli">
    latest-version
   </a>
-  <span>
-   &#9733 21, pushed 99 days ago
-  </span>
   - Get the latest version of an npm package.
+  <sup>
+   41 GitHub links in total 106 links, ★ 21, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-keyword">
    npm-keyword
   </a>
-  <span>
-   &#9733 23, pushed 99 days ago
-  </span>
   - Get a list of npm packages with a certain keyword.
+  <sup>
+   41 GitHub links in total 106 links, ★ 23, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-user">
    npm-user
   </a>
-  <span>
-   &#9733 34, pushed 72 days ago
-  </span>
   - Get user info of an npm user.
+  <sup>
+   41 GitHub links in total 106 links, ★ 34, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-email">
    npm-email
   </a>
-  <span>
-   &#9733 7, pushed 2 days ago
-  </span>
   - Get the email of an npm user.
+  <sup>
+   41 GitHub links in total 106 links, ★ 7, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevva/npm-user-packages-cli">
    npm-user-packages
   </a>
-  <span>
-   &#9733 1, pushed 109 days ago
-  </span>
   - Get packages by an npm user.
+  <sup>
+   41 GitHub links in total 106 links, ★ 1, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gillstrom/dpn">
    dpn
   </a>
-  <span>
-   &#9733 21, pushed 37 days ago
-  </span>
   - Get the dependents of a user's npm packages.
+  <sup>
+   41 GitHub links in total 106 links, ★ 21, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hughsk/npm-stats">
    npm-stats
   </a>
-  <span>
-   &#9733 37, pushed 35 days ago
-  </span>
   - Get data from an npm registry.
+  <sup>
+   41 GitHub links in total 106 links, ★ 37, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/postmanlabs/npm-cli-login">
    npm-cli-login
   </a>
-  <span>
-   &#9733 0, pushed 14 days ago
-  </span>
   - Log in to npm.
+  <sup>
+   41 GitHub links in total 106 links, ★ 0, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pana/nrm">
    nrm
   </a>
-  <span>
-   &#9733 226, pushed 279 days ago
-  </span>
   - Registry manager.
+  <sup>
+   41 GitHub links in total 106 links, ★ 226, pushed 279 days ago
+  </sup>
+  <sup>
+   &#9733 226, pushed 279 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -443,185 +491,245 @@
   <a href="https://github.com/sindresorhus/npm-home">
    npm-home
   </a>
-  <span>
-   &#9733 24, pushed 25 days ago
-  </span>
   - Open the npm page of a package.
+  <sup>
+   41 GitHub links in total 106 links, ★ 24, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gh-home">
    gh-home
   </a>
-  <span>
-   &#9733 47, pushed 11 days ago
-  </span>
   - Open the GitHub page of a package.
+  <sup>
+   41 GitHub links in total 106 links, ★ 47, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alanshaw/david">
    david
   </a>
-  <span>
-   &#9733 561, pushed 4 days ago
-  </span>
   - Check if your package dependencies are out of date.
+  <sup>
+   41 GitHub links in total 106 links, ★ 561, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 561, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dylang/npm-check">
    npm-check
   </a>
-  <span>
-   &#9733 2363, pushed 5 days ago
-  </span>
   - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+  <sup>
+   41 GitHub links in total 106 links, ★ 2363, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2363, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/th0r/npm-upgrade">
    npm-upgrade
   </a>
-  <span>
-   &#9733 29, pushed 11 days ago
-  </span>
   - Update outdated npm dependencies interactively.
+  <sup>
+   41 GitHub links in total 106 links, ★ 29, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uber/npm-shrinkwrap">
    npm-shrinkwrap
   </a>
-  <span>
-   &#9733 574, pushed 22 days ago
-  </span>
   - A consistent shrinkwrap tool.
+  <sup>
+   41 GitHub links in total 106 links, ★ 574, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 574, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/felixrieseberg/npm-windows-upgrade">
    npm-windows-upgrade
   </a>
-  <span>
-   &#9733 544, pushed 31 days ago
-  </span>
   - Upgrade npm on Windows.
+  <sup>
+   41 GitHub links in total 106 links, ★ 544, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 544, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/generator-nm">
    generator-nm
   </a>
-  <span>
-   &#9733 306, pushed 3 days ago
-  </span>
   - Scaffold out an npm package.
+  <sup>
+   41 GitHub links in total 106 links, ★ 306, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 306, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pkg-up">
    pkg-up
   </a>
-  <span>
-   &#9733 15, pushed 99 days ago
-  </span>
   - Find the closest package.json file.
+  <sup>
+   41 GitHub links in total 106 links, ★ 15, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/read-pkg-up">
    read-pkg-up
   </a>
-  <span>
-   &#9733 18, pushed 134 days ago
-  </span>
   - Read the closest package.json file.
+  <sup>
+   41 GitHub links in total 106 links, ★ 18, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/npm/normalize-package-data">
    normalize-package-data
   </a>
-  <span>
-   &#9733 43, pushed 19 days ago
-  </span>
   - Normalize package metadata.
+  <sup>
+   41 GitHub links in total 106 links, ★ 43, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/pkg-conf">
    pkg-conf
   </a>
-  <span>
-   &#9733 25, pushed 26 days ago
-  </span>
   - Get namespaced config from the closest package.json.
+  <sup>
+   41 GitHub links in total 106 links, ★ 25, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/npm-run-path">
    npm-run-path
   </a>
-  <span>
-   &#9733 18, pushed 126 days ago
-  </span>
   - Run locally installed binaries in the terminal by name like with global ones.
+  <sup>
+   41 GitHub links in total 106 links, ★ 18, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nolanlawson/local-npm">
    local-npm
   </a>
-  <span>
-   &#9733 458, pushed 58 days ago
-  </span>
   - Use npm
   <a href="https://addyosmani.com/blog/using-npm-offline/">
    offline
   </a>
   .
+  <sup>
+   41 GitHub links in total 106 links, ★ 458, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 458, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zeke/npe">
    npe
   </a>
-  <span>
-   &#9733 25, pushed 447 days ago
-  </span>
   - CLI for inspecting and editing properties in package.json.
+  <sup>
+   41 GitHub links in total 106 links, ★ 25, pushed 447 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 447 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/samccone/engine-deps">
    engine-deps
   </a>
-  <span>
-   &#9733 19, pushed 133 days ago
-  </span>
   - Manage Node.js version specific dependencies with ease.
+  <sup>
+   41 GitHub links in total 106 links, ★ 19, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/amovah/enpeem-search">
    enpeem-search
   </a>
-  <span>
-   &#9733 3, pushed 107 days ago
-  </span>
   - Search packages by scraping the npm web search.
+  <sup>
+   41 GitHub links in total 106 links, ★ 3, pushed 107 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 107 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seanzarrin/npm-issues">
    npm-issues
   </a>
-  <span>
-   &#9733 36, pushed 107 days ago
-  </span>
   - Search known issues of all your packages at once.
+  <sup>
+   41 GitHub links in total 106 links, ★ 36, pushed 107 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 107 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davej/john">
    john
   </a>
-  <span>
-   &#9733 41, pushed 99 days ago
-  </span>
   - Make npm3's flat dependencies easier to find and sort.
+  <sup>
+   41 GitHub links in total 106 links, ★ 41, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ruyadorno/ntl">
    ntl
   </a>
-  <span>
-   &#9733 281, pushed 77 days ago
-  </span>
   - Interactive CLI menu to list & run npm tasks.
+  <sup>
+   41 GitHub links in total 106 links, ★ 281, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 281, pushed 77 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -632,32 +740,41 @@
   <a href="https://github.com/npm/npm">
    npm
   </a>
-  <span>
-   &#9733 9227, pushed 2 days ago
-  </span>
   - The official client.
+  <sup>
+   41 GitHub links in total 106 links, ★ 9227, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 9227, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alexanderGugel/ied">
    ied
   </a>
-  <span>
-   &#9733 1697, pushed 8 days ago
-  </span>
   - Faster npm.
+  <sup>
+   41 GitHub links in total 106 links, ★ 1697, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1697, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rstacruz/pnpm">
    pnpm
   </a>
-  <span>
-   &#9733 1294, pushed 4 days ago
-  </span>
   - Performant
   <code>
    npm install
   </code>
   .
+  <sup>
+   41 GitHub links in total 106 links, ★ 1294, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1294, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -817,7 +934,9 @@ alias nf='npm cache clean && rm -rf node_modules && npm install'
  </code>
  field in package.json and run them with
  <code>
-  npm run <script-name>
+  npm run
+  <script-name>
+  </script-name>
  </code>
  . Run
  <code>
@@ -899,7 +1018,9 @@ awesome-package
  </code>
  in the package you want to use. This creates a global reference. Then go into your original package and run
  <code>
-  npm link <package-name>
+  npm link
+  <package-name>
+  </package-name>
  </code>
  to link in the other package.
 </p>
@@ -968,7 +1089,9 @@ $ npm link rainbow
 </p>
 <p>
  <code>
-  $ npm help <command>
+  $ npm help
+  <command>
+  </command>
  </code>
 </p>
 <p>
@@ -987,7 +1110,13 @@ $ npm link rainbow
 </p>
 <p>
  <code>
-  https://wzrd.in/standalone/<package-name>[@<version>]
+  https://wzrd.in/standalone/
+  <package-name>
+   [@
+   <version>
+    ]
+   </version>
+  </package-name>
  </code>
 </p>
 <p>
@@ -1109,9 +1238,12 @@ $ npm link rainbow
   <a href="https://github.com/npm/download-counts">
    Stats API
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 106 links, ★ 117, pushed 315 days ago
+  </sup>
+  <sup>
    &#9733 117, pushed 315 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

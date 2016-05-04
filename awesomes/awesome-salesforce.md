@@ -291,9 +291,6 @@
    <a href="https://github.com/financialforcedev/fflib-apex-mocks">
     Apex mocks
    </a>
-   <span>
-    &#9733 54, pushed 35 days ago
-   </span>
    - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito
    <br/>
    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
@@ -301,15 +298,18 @@
     </img>
    </a>
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 54, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/financialforcedev/fflib-apex-common">
     Apex Commons
    </a>
-   <span>
-    &#9733 137, pushed 38 days ago
-   </span>
    - Common Apex Library supporting Apex Enterprise Patterns and much more!
    <strong>
     Dependencies:
@@ -329,14 +329,17 @@
    </a>
    <img align="right" src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" width="220"/>
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 137, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 137, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/financialforcedev/fflib-apex-common-samplecode">
    Apex Commons Sample Code
   </a>
-  <span>
-   &#9733 36, pushed 47 days ago
-  </span>
   - Samples application illustrating the Apex Enterprise Patterns library
   <strong>
    Dependencies:
@@ -351,15 +354,18 @@
    <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
    </img>
   </a>
+  <sup>
+   29 GitHub links in total 101 links, ★ 36, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/financialforcedev/apex-mdapi">
     Apex Metadata API
    </a>
-   <span>
-    &#9733 196, pushed 16 days ago
-   </span>
    -Apex Wrapper for the Salesforce Metadata API
    <br/>
    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi">
@@ -367,15 +373,18 @@
     </img>
    </a>
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 196, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 196, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/financialforcedev/ffhttp-core">
     Apex Core HttpCallout
    </a>
-   <span>
-    &#9733 9, pushed 225 days ago
-   </span>
    -Apex HTTP Callout Framework.
    <br/>
    This
@@ -424,43 +433,58 @@
     </a>
    </li>
   </ul>
+  <sup>
+   29 GitHub links in total 101 links, ★ 9, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/mailtoharshit/polyforce">
     Polyforce
    </a>
-   <span>
-    &#9733 22, pushed 473 days ago
-   </span>
    - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components
    <br/>
    <a href="https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ">
     <img alt="Button" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png"/>
    </a>
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 22, pushed 473 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 473 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/SalesforceFoundation/sfdo-github">
     Salesforce to Github
    </a>
-   <span>
-    &#9733 0, pushed 216 days ago
-   </span>
    - Github API client in Apex for Force.com
    <br/>
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 0, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 216 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/afawcett/apex-umlcanvas">
    Apex UML Digram Maker
   </a>
-  <span>
-   &#9733 27, pushed 332 days ago
-  </span>
   - Create UML diagrams from Apex code using the Tooling API
   <br/>
+  <sup>
+   29 GitHub links in total 101 links, ★ 27, pushed 332 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 332 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -490,55 +514,70 @@
    <a href="https://github.com/forcedotcom/cinnamon">
     Cinnamon
    </a>
-   <span>
-    &#9733 43, pushed 419 days ago
-   </span>
    -Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 43, pushed 419 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 419 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/forcedotcom/PushPlugin">
     Push Notification Plugin for iOS and Android
    </a>
-   <span>
-    &#9733 1, pushed 358 days ago
-   </span>
    - Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 1, pushed 358 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 358 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package">
     Salesforce1-Dev-Guide-Setup-Package
    </a>
-   <span>
-    &#9733 33, pushed 550 days ago
-   </span>
    -Salesforce1-Dev-Guide-Setup-Package
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 33, pushed 550 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 550 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils">
     Analytics-Cloud-Dataset-Utils
    </a>
-   <span>
-    &#9733 52, pushed 6 days ago
-   </span>
    - Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 52, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/ryanbrainard/forceworkbench">
     Workbench
    </a>
-   <span>
-    &#9733 92, pushed 33 days ago
-   </span>
    - Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 92, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 92, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -553,11 +592,14 @@
    <a href="https://github.com/superfell/SoqlX">
     SoqlXplorer
    </a>
-   <span>
-    &#9733 108, pushed 48 days ago
-   </span>
    - SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 108, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 48 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -593,19 +635,25 @@
   <a href="https://github.com/forcedotcom/mobile-ui-elements">
    Salesforce Mobile UI - Polymer Elements for Salesforce
   </a>
-  <span>
-   &#9733 237, pushed 96 days ago
-  </span>
   - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
+  <sup>
+   29 GitHub links in total 101 links, ★ 237, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 237, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/force-server">
    ForceServer
   </a>
-  <span>
-   &#9733 18, pushed 194 days ago
-  </span>
   - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
+  <sup>
+   29 GitHub links in total 101 links, ★ 18, pushed 194 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 194 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -623,10 +671,13 @@
   <a href="https://github.com/mailtoharshit/ForceSniffer.Js">
    ForceSniffer - Device Detection Library for Salesforce
   </a>
-  <span>
-   &#9733 3, pushed 22 days ago
-  </span>
   - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
+  <sup>
+   29 GitHub links in total 101 links, ★ 3, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/forcejs/tree/es6">
@@ -638,49 +689,64 @@
   <a href="https://github.com/kevinohara80/nforce">
    nForce
   </a>
-  <span>
-   &#9733 209, pushed 23 days ago
-  </span>
   - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
+  <sup>
+   29 GitHub links in total 101 links, ★ 209, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 209, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/noeticpenguin/ngForce">
    ngForce
   </a>
-  <span>
-   &#9733 131, pushed 243 days ago
-  </span>
   -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
+  <sup>
+   29 GitHub links in total 101 links, ★ 131, pushed 243 days ago
+  </sup>
+  <sup>
+   &#9733 131, pushed 243 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit">
    ForceTK
   </a>
-  <span>
-   &#9733 251, pushed 13 days ago
-  </span>
   - ForceTK - a minimal Force.com REST API for JavaScript apps
+  <sup>
+   29 GitHub links in total 101 links, ★ 251, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 251, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/forceng">
    ForceEng
   </a>
-  <span>
-   &#9733 41, pushed 98 days ago
-  </span>
   - Micro-Library to use Salesforce REST API in AngularJS apps
+  <sup>
+   29 GitHub links in total 101 links, ★ 41, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/leifg/formulon">
    Formulon
   </a>
-  <span>
-   &#9733 1, pushed 19 days ago
-  </span>
   - Formula parser completely implemented in ES6.
   <a href="http://formulon.io">
    See Demo
   </a>
+  <sup>
+   29 GitHub links in total 101 links, ★ 1, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -715,19 +781,25 @@ to showcase, usage of
   <a href="https://github.com/stomita/salesforce-reactjs-spa-starter">
    Salesforce ReactJS SPA Starter
   </a>
-  <span>
-   &#9733 15, pushed 433 days ago
-  </span>
   - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
+  <sup>
+   29 GitHub links in total 101 links, ★ 15, pushed 433 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 433 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mailtoharshit/ForceSpinner">
    ForceSpinner
   </a>
-  <span>
-   &#9733 5, pushed 81 days ago
-  </span>
   - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
+  <sup>
+   29 GitHub links in total 101 links, ★ 5, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 81 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -783,10 +855,13 @@ to showcase, usage of
   <a href="https://github.com/mailtoharshit/awesome-lighting">
    Awesome Lighting
   </a>
-  <span>
-   &#9733 7, pushed 150 days ago
-  </span>
   : Awesome Contents for Salesforce Lightning Framework
+  <sup>
+   29 GitHub links in total 101 links, ★ 7, pushed 150 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 150 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -797,10 +872,13 @@ to showcase, usage of
   <a href="https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce">
    Awesome Salesforce Browser Extensions
   </a>
-  <span>
-   &#9733 4, pushed 41 days ago
-  </span>
   : Collection of Awesome Browser Extensions for Salesforce
+  <sup>
+   29 GitHub links in total 101 links, ★ 4, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 41 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -815,33 +893,42 @@ to showcase, usage of
    <a href="https://github.com/forcedotcom/SalesforceMobileSDK-iOS">
     Salesfoce MobileSDK for iOS
    </a>
-   <span>
-    &#9733 323, pushed 4 days ago
-   </span>
    -If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 323, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 323, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/forcedotcom/SalesforceMobileSDK-Windows">
     Salesfoce MobileSDK for Windows
    </a>
-   <span>
-    &#9733 8, pushed 5 days ago
-   </span>
    -Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 8, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/forcedotcom/SalesforceMobileSDK-Android">
     Salesfoce MobileSDK for Andriod
    </a>
-   <span>
-    &#9733 186, pushed 4 days ago
-   </span>
    - Source repository for the Salesforce Mobile SDK for Android.
   </p>
+  <sup>
+   29 GitHub links in total 101 links, ★ 186, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 186, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>

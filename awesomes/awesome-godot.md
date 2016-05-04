@@ -38,82 +38,109 @@
   <a href="https://github.com/w84death/ansiture">
    ANSiTURE
   </a>
-  <span>
-   &#9733 1, pushed 215 days ago
-  </span>
   -  Adventure platformer using only text based (DOS ANSi) characters
+  <sup>
+   47 GitHub links in total 64 links, ★ 1, pushed 215 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 215 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wardsky/blipshift">
    Blipshift
   </a>
-  <span>
-   &#9733 6, pushed 482 days ago
-  </span>
   - Simple top-down moving platforms game.
+  <sup>
+   47 GitHub links in total 64 links, ★ 6, pushed 482 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 482 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vnen/blockpop">
    BlockPop
   </a>
-  <span>
-   &#9733 11, pushed 233 days ago
-  </span>
   - A simple Breakout clone.
+  <sup>
+   47 GitHub links in total 64 links, ★ 11, pushed 233 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 233 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/randyyaj/Bombs">
    Bombs
   </a>
-  <span>
-   &#9733 9, pushed 22 days ago
-  </span>
   - Simple mobile game. You need to touch bombs to diffuse them.
+  <sup>
+   47 GitHub links in total 64 links, ★ 9, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/janmarcano/Dolphin-Island-2">
    Dolphin Island 2
   </a>
-  <span>
-   &#9733 19, pushed 22 days ago
-  </span>
   - platformer game made for the A Game By It's Cover 2015 Game Jam
+  <sup>
+   47 GitHub links in total 64 links, ★ 19, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/akien-mga/dynadungeons">
    DynaDungeons
   </a>
-  <span>
-   &#9733 43, pushed 90 days ago
-  </span>
   - Bomberman clone in a fantasy universe.
+  <sup>
+   47 GitHub links in total 64 links, ★ 43, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/randyyaj/Kraken-Rampage">
    Kraken-Rampage
   </a>
-  <span>
-   &#9733 0, pushed 253 days ago
-  </span>
   - Ludum Dare 33 entry made in 48 hours.
+  <sup>
+   47 GitHub links in total 64 links, ★ 0, pushed 254 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 254 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Calinou/libre-pinball">
    Libre Pinball
   </a>
-  <span>
-   &#9733 5, pushed 244 days ago
-  </span>
   - A pinball game.
+  <sup>
+   47 GitHub links in total 64 links, ★ 5, pushed 244 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 244 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/genete/Minehunter">
    Minehunter
   </a>
-  <span>
-   &#9733 4, pushed 27 days ago
-  </span>
   - A Minesweeper clone
+  <sup>
+   47 GitHub links in total 64 links, ★ 4, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kobuge-games.github.io/minilens/">
@@ -125,46 +152,61 @@
   <a href="https://github.com/w84death/mountain-of-hope">
    Mountain of Hope
   </a>
-  <span>
-   &#9733 2, pushed 201 days ago
-  </span>
   - Game made on Theater Game Jam (PGA 2015)
+  <sup>
+   47 GitHub links in total 64 links, ★ 2, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KOBUGE-Games/Ninja-Training">
    Ninja-Training
   </a>
-  <span>
-   &#9733 16, pushed 69 days ago
-  </span>
   - Small running game done as 1 hour challenge.
+  <sup>
+   47 GitHub links in total 64 links, ★ 16, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sergicollado/no_hope_LD33">
    No hope
   </a>
-  <span>
-   &#9733 3, pushed 229 days ago
-  </span>
   - Ludum Dare 33 entry made in 48 hours.
+  <sup>
+   47 GitHub links in total 64 links, ★ 3, pushed 229 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 229 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FEDE0D/Planet-Rider">
    Planet Rider
   </a>
-  <span>
-   &#9733 7, pushed 182 days ago
-  </span>
   - 2D physics parkour game in an alien environment.
+  <sup>
+   47 GitHub links in total 64 links, ★ 7, pushed 182 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 182 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Calinou/platshoot">
    Platshoot
   </a>
-  <span>
-   &#9733 9, pushed 2 days ago
-  </span>
   - A 2D shooter game.
+  <sup>
+   47 GitHub links in total 64 links, ★ 9, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KOBUGE-Games/ringed">
@@ -176,19 +218,25 @@
   <a href="https://github.com/w84death/Tanks-of-Freedom">
    Tanks of Freedom
   </a>
-  <span>
-   &#9733 174, pushed 5 days ago
-  </span>
   - Free turn-based isometric strategy game.
+  <sup>
+   47 GitHub links in total 64 links, ★ 174, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 174, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delstuff/threeHungryMice">
    Three Hungry Mice
   </a>
-  <span>
-   &#9733 0, pushed 31 days ago
-  </span>
   - Breakout game with mice made for the Godot Engine Jam 03/2016
+  <sup>
+   47 GitHub links in total 64 links, ★ 0, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 31 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -199,28 +247,37 @@
   <a href="https://github.com/khairul169/cheese-hunter">
    Cheese Hunter
   </a>
-  <span>
-   &#9733 1, pushed 43 days ago
-  </span>
   - A Game for Godot Engine Jam 03/2016
+  <sup>
+   47 GitHub links in total 64 links, ★ 1, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CowThing/MouseBoat">
    MouseBoat
   </a>
-  <span>
-   &#9733 1, pushed 33 days ago
-  </span>
   - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
+  <sup>
+   47 GitHub links in total 64 links, ★ 1, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Veraball/veraball">
    Veraball
   </a>
-  <span>
-   &#9733 12, pushed 88 days ago
-  </span>
   - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
+  <sup>
+   47 GitHub links in total 64 links, ★ 12, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 88 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -242,55 +299,73 @@
   <a href="https://github.com/Calinou/fps-test">
    FPS Test
   </a>
-  <span>
-   &#9733 21, pushed 227 days ago
-  </span>
   - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
+  <sup>
+   47 GitHub links in total 64 links, ★ 21, pushed 227 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 227 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KOBUGE-Games/godot-httpd">
    HTTP Server
   </a>
-  <span>
-   &#9733 7, pushed 69 days ago
-  </span>
   - A HTTP 1.0 file server.
+  <sup>
+   47 GitHub links in total 64 links, ★ 7, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FEDE0D/godot-pathfinding2d-demo">
    Pathfinding 2d
   </a>
-  <span>
-   &#9733 13, pushed 304 days ago
-  </span>
   - A demo project demonstrating pathfinding using a tilemap.
+  <sup>
+   47 GitHub links in total 64 links, ★ 13, pushed 304 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 304 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jrimclean/godot-snapshot-interpolation-demo">
    UDP Snapshot interpolation
   </a>
-  <span>
-   &#9733 19, pushed 326 days ago
-  </span>
   - Lets you connect to a server and view networked physics.
+  <sup>
+   47 GitHub links in total 64 links, ★ 19, pushed 326 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 326 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jrimclean/godot-state-sync-demo">
    UDP State synchronization
   </a>
-  <span>
-   &#9733 27, pushed 326 days ago
-  </span>
   - A more efficient networking demo than the snapshot interpolation one.
+  <sup>
+   47 GitHub links in total 64 links, ★ 27, pushed 326 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 326 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/toger5/Godot-Voxel-Game-MineCraftClone">
    Voxel Game
   </a>
-  <span>
-   &#9733 12, pushed 27 days ago
-  </span>
   - MineCraft like voxel terrain
+  <sup>
+   47 GitHub links in total 64 links, ★ 12, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -306,10 +381,13 @@
   <a href="https://github.com/GalanCM/Iso-Themes">
    Iso Dark Theme
   </a>
-  <span>
-   &#9733 13, pushed 243 days ago
-  </span>
   - A clean, modern dark theme.
+  <sup>
+   47 GitHub links in total 64 links, ★ 13, pushed 243 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 243 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -325,35 +403,47 @@
   <a href="https://github.com/jrimclean/gdnet">
    Gdnet
   </a>
-  <span>
-   &#9733 30, pushed 102 days ago
-  </span>
   - An ENet wrapper for Godot.
+  <sup>
+   47 GitHub links in total 64 links, ★ 30, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 102 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/laverneth/WaterSplash">
    WaterSplash 2D node
   </a>
-  <span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 5, pushed 312 days ago
+  </sup>
+  <sup>
    &#9733 5, pushed 312 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antarktikali/godot-opencv-gpu-perspective">
    Head tracking using OpenCV
   </a>
-  <span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 0, pushed 509 days ago
+  </sup>
+  <sup>
    &#9733 0, pushed 509 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jrimclean/rawpacker">
    RawPacker
   </a>
-  <span>
-   &#9733 4, pushed 250 days ago
-  </span>
   - Simple binary packing/unpacking for RawArray.
+  <sup>
+   47 GitHub links in total 64 links, ★ 4, pushed 250 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 250 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -369,10 +459,13 @@
   <a href="https://github.com/TheHX/add_primitives">
    Add Primitives
   </a>
-  <span>
-   &#9733 22, pushed 8 days ago
-  </span>
   - Add cylinders, spheres, cubes easily.
+  <sup>
+   47 GitHub links in total 64 links, ★ 22, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://godotengine.org/qa/438/camera2d-screen-shake-extension">
@@ -384,55 +477,73 @@
   <a href="https://github.com/vinod8990/godot_plugins">
    Create Tileset
   </a>
-  <span>
-   &#9733 26, pushed 68 days ago
-  </span>
   - Plugin to generate Godot tilesets based on atlas images
+  <sup>
+   47 GitHub links in total 64 links, ★ 26, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/henriquelalves/SimpleGodotCRTShader">
    CRT Shader
   </a>
-  <span>
-   &#9733 16, pushed 76 days ago
-  </span>
   - Godot shader that simulates CRT Displays.
+  <sup>
+   47 GitHub links in total 64 links, ★ 16, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TheHX/godot_examples">
    Example Model Importer
   </a>
-  <span>
-   &#9733 4, pushed 367 days ago
-  </span>
   - A script that imports models with inverted normals (proof of concept).
+  <sup>
+   47 GitHub links in total 64 links, ★ 4, pushed 367 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 367 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/didier-v/GodotNotificationCenter">
    GodotNotificationCenter
   </a>
-  <span>
-   &#9733 5, pushed 46 days ago
-  </span>
   - A notification center for Godot.
+  <sup>
+   47 GitHub links in total 64 links, ★ 5, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/henriquelalves/GodotTIE">
    GodotTIE
   </a>
-  <span>
-   &#9733 15, pushed 55 days ago
-  </span>
   - Text Interface Engine to control text output (like in a RPG dialogue)
+  <sup>
+   47 GitHub links in total 64 links, ★ 15, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marcosbitetti/grass_plugin_4_godot">
    Grass Plugin
   </a>
-  <span>
-   &#9733 13, pushed 121 days ago
-  </span>
   - A plugin to handle huge amount of grass, foliages and other vegetations
+  <sup>
+   47 GitHub links in total 64 links, ★ 13, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/bitwes/gut/overview">
@@ -456,28 +567,37 @@
   <a href="https://github.com/ScyDev/Godot-Scripts">
    Polygon Merge
   </a>
-  <span>
-   &#9733 2, pushed 445 days ago
-  </span>
   - Merge polygons.
+  <sup>
+   47 GitHub links in total 64 links, ★ 2, pushed 445 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 445 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vinod8990/godot_plugins">
    Resolution Switcher
   </a>
-  <span>
-   &#9733 26, pushed 68 days ago
-  </span>
   - Switch resolutions easily, for testing.
+  <sup>
+   47 GitHub links in total 64 links, ★ 26, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OvermindDL1/Godot-Helpers">
    Simplex 2D/3D
   </a>
-  <span>
-   &#9733 4, pushed 92 days ago
-  </span>
   - Simplex deterministic noise functions.
+  <sup>
+   47 GitHub links in total 64 links, ★ 4, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gitlab.com/shine-upon-thee/joystick">
@@ -489,14 +609,17 @@
   <a href="https://github.com/MrGreenTea/GodotTiledImporter">
    Tiled importer
   </a>
-  <span>
-   &#9733 37, pushed 101 days ago
-  </span>
   - Import maps from
   <a href="http://mapeditor.org">
    Tiled
   </a>
   .
+  <sup>
+   47 GitHub links in total 64 links, ★ 37, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 101 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/Calinou/27e979ab0a35500c3381">
@@ -523,33 +646,45 @@
   <a href="https://github.com/haimat/GDScript-Geany">
    Geany
   </a>
-  <span>
-   &#9733 6, pushed 776 days ago
-  </span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 6, pushed 777 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 777 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/haimat/GDScript-gedit">
    Gedit
   </a>
-  <span>
-   &#9733 8, pushed 776 days ago
-  </span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 8, pushed 777 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 777 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beefsack/GDScript-sublime">
    Sublime Text
   </a>
-  <span>
-   &#9733 12, pushed 43 days ago
-  </span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 12, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/quabug/vim-gdscript">
    Vim
   </a>
-  <span>
+  <sup>
+   47 GitHub links in total 64 links, ★ 15, pushed 101 days ago
+  </sup>
+  <sup>
    &#9733 15, pushed 101 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -602,10 +737,13 @@
   <a href="https://github.com/Hinsbart/joystick-mapping">
    joystick-mapping
   </a>
-  <span>
-   &#9733 2, pushed 75 days ago
-  </span>
   - Tool to generate gamepad mappings for all supported platforms.
+  <sup>
+   47 GitHub links in total 64 links, ★ 2, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh">

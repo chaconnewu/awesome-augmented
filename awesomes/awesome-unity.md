@@ -160,10 +160,13 @@
   <a href="https://github.com/RyanNielson/PixelCamera2D">
    Pixel Camera 2D
   </a>
-  <span>
-   &#9733 76, pushed 217 days ago
-  </span>
   - A simple pixel perfect camera with scaling options for 2D Games.
+  <sup>
+   8 GitHub links in total 69 links, ★ 76, pushed 217 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 217 days ago
+  </sup>
  </li>
  <li>
   <a href="http://esotericsoftware.com">
@@ -214,10 +217,13 @@
   <a href="https://github.com/prime31/CharacterController2D">
    CharacterController2D
   </a>
-  <span>
-   &#9733 362, pushed 4 days ago
-  </span>
   - A 2D controller that behaves very similarily to Unity's CharacterController component.
+  <sup>
+   8 GitHub links in total 69 links, ★ 362, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 362, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -239,37 +245,49 @@
   <a href="https://github.com/pbhogan/InControl">
    InControl
   </a>
-  <span>
-   &#9733 457, pushed 160 days ago
-  </span>
   - An input manager that tames makes handler cross-platform. controller input easy.
+  <sup>
+   8 GitHub links in total 69 links, ★ 457, pushed 160 days ago
+  </sup>
+  <sup>
+   &#9733 457, pushed 160 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RyanNielson/InputBinder">
    InputBinder
   </a>
-  <span>
-   &#9733 3, pushed 341 days ago
-  </span>
   - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+  <sup>
+   8 GitHub links in total 69 links, ★ 3, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 341 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/prime31/TouchKit">
    TouchKit
   </a>
-  <span>
-   &#9733 317, pushed 5 days ago
-  </span>
   - Makes it easy to recognize gestures and other touch input.
+  <sup>
+   8 GitHub links in total 69 links, ★ 317, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 317, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TouchScript/TouchScript">
    TouchScript
   </a>
-  <span>
-   &#9733 629, pushed 6 days ago
-  </span>
   - Makes handling complex gesture interactions on any touch surface much easier.
+  <sup>
+   8 GitHub links in total 69 links, ★ 629, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 629, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -433,19 +451,25 @@
   <a href="https://github.com/neuecc/UniRx">
    UniRx
   </a>
-  <span>
-   &#9733 739, pushed 17 days ago
-  </span>
   - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+  <sup>
+   8 GitHub links in total 69 links, ★ 739, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 739, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nickgravelyn/unitytoolbag">
    UnityToolbag
   </a>
-  <span>
-   &#9733 545, pushed 12 days ago
-  </span>
   - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+  <sup>
+   8 GitHub links in total 69 links, ★ 545, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 545, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>

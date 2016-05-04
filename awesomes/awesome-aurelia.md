@@ -180,9 +180,12 @@
   <a href="https://github.com/aurelia/framework">
    Official GitHub Repo
   </a>
-  <span>
+  <sup>
+   33 GitHub links in total 107 links, ★ 6015, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 6015, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://twitter.com/eisenbergeffect">
@@ -293,10 +296,13 @@
   <a href="https://github.com/behzad888/vscode-aurelia-snippets">
    vscode-aurelia-snippets
   </a>
-  <span>
-   &#9733 0, pushed 5 days ago
-  </span>
   - HTML, JavaScript and TypeScript snippets for VSCode
+  <sup>
+   33 GitHub links in total 107 links, ★ 0, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -307,10 +313,13 @@
   <a href="https://github.com/aurelia/beginner-kits">
    Beginner kits
   </a>
-  <span>
-   &#9733 14, pushed 83 days ago
-  </span>
   - Houses the beginner getting started started kits for ES 2016 and TypeScript.
+  <sup>
+   33 GitHub links in total 107 links, ★ 14, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/awesome/edit/master/README.md">
@@ -351,10 +360,13 @@
   <a href="https://github.com/behzad888/Aurelia-styleguide">
    Aurelia-styleguide
   </a>
-  <span>
-   &#9733 5, pushed 2 days ago
-  </span>
   - A starting point for Aurelia development teams to provide consistency through best practices.
+  <sup>
+   33 GitHub links in total 107 links, ★ 5, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -429,25 +441,34 @@
   <a href="https://github.com/joelcoxokc/aurelia-interface">
    Official Aurelia Material Design (Github)
   </a>
-  <span>
+  <sup>
+   33 GitHub links in total 107 links, ★ 88, pushed 293 days ago
+  </sup>
+  <sup>
    &#9733 88, pushed 293 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/genadis/aurelia-mdl">
    aurelia-mdl
   </a>
-  <span>
+  <sup>
+   33 GitHub links in total 107 links, ★ 14, pushed 78 days ago
+  </sup>
+  <sup>
    &#9733 14, pushed 78 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/redpelicans/aurelia-material">
    aurelia-material
   </a>
-  <span>
+  <sup>
+   33 GitHub links in total 107 links, ★ 35, pushed 41 days ago
+  </sup>
+  <sup>
    &#9733 35, pushed 41 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/awesome/edit/master/README.md">
@@ -473,127 +494,169 @@
   <a href="https://github.com/paulvanbladel/aurelia-auth">
    token-based Authentication
   </a>
-  <span>
-   &#9733 129, pushed 27 days ago
-  </span>
   - Authentication plugin for aurelia
+  <sup>
+   33 GitHub links in total 107 links, ★ 129, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jdanyow/aurelia-computed">
    aurelia-computed
   </a>
-  <span>
-   &#9733 14, pushed 33 days ago
-  </span>
   - A plugin for Aurelia to observe computed properties without dirty-checking
+  <sup>
+   33 GitHub links in total 107 links, ★ 14, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PWKad/aurelia-bs-modal">
    aurelia-bs-modal
   </a>
-  <span>
-   &#9733 18, pushed 46 days ago
-  </span>
   - Aurelia plugin for bootstrap modal
+  <sup>
+   33 GitHub links in total 107 links, ★ 18, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aurelia/i18n">
    aurelia-i18n
   </a>
-  <span>
-   &#9733 34, pushed 2 days ago
-  </span>
   - A plugin that provides i18n support
+  <sup>
+   33 GitHub links in total 107 links, ★ 34, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aurelia/ui-virtualization">
    aurelia-ui-virtualization
   </a>
-  <span>
-   &#9733 35, pushed 5 days ago
-  </span>
   - A plugin that provides a virtualized repeater and other virtualization services
+  <sup>
+   33 GitHub links in total 107 links, ★ 35, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/charlespockert/aurelia-bs-grid">
    aurelia-bs-grid
   </a>
-  <span>
-   &#9733 36, pushed 133 days ago
-  </span>
   - Aurelia and Bootstrap powered datagrid control
+  <sup>
+   33 GitHub links in total 107 links, ★ 36, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/roguePanda/aurelia-polymer">
    aurelia-polymer
   </a>
-  <span>
-   &#9733 8, pushed 15 days ago
-  </span>
   - Aurelia plugin to support Polymer
+  <sup>
+   33 GitHub links in total 107 links, ★ 8, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Vheissu/aurelia-google-maps">
    aurelia-google-maps
   </a>
-  <span>
-   &#9733 12, pushed 6 days ago
-  </span>
   - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
+  <sup>
+   33 GitHub links in total 107 links, ★ 12, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aurelia/webpack-plugin">
    webpack-plugin
   </a>
-  <span>
-   &#9733 18, pushed 19 days ago
-  </span>
   - A plugin for webpack that enables bundling Aurelia applications
+  <sup>
+   33 GitHub links in total 107 links, ★ 18, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/niieani/aurelia-cycle">
    aurelia-cycle
   </a>
-  <span>
-   &#9733 3, pushed 57 days ago
-  </span>
   - An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
+  <sup>
+   33 GitHub links in total 107 links, ★ 3, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge">
    aurelia-kendoui-bridge
   </a>
-  <span>
-   &#9733 48, pushed 3 days ago
-  </span>
   - Aurelia - KendoUI integration
+  <sup>
+   33 GitHub links in total 107 links, ★ 48, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bryanrsmith/aurelia-react-loader">
    aurelia-react-loader
   </a>
-  <span>
-   &#9733 16, pushed 56 days ago
-  </span>
   - Load React components directly from Aurelia views
+  <sup>
+   33 GitHub links in total 107 links, ★ 16, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/aurelia-view-pipeline">
    aurelia-view-pipeline
   </a>
-  <span>
-   &#9733 0, pushed 7 days ago
-  </span>
   - A plugin for loading any Markdown into custom element
+  <sup>
+   33 GitHub links in total 107 links, ★ 0, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/drivesoftware/aurelia-routed-footer">
    aurelia-routed-footer
   </a>
-  <span>
-   &#9733 2, pushed 34 days ago
-  </span>
   - An Aurelia plugin which adds the ability to control footer content via the router
+  <sup>
+   33 GitHub links in total 107 links, ★ 2, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/awesome/edit/master/README.md">
@@ -619,10 +682,13 @@
   <a href="https://github.com/vegarringdal/vGrid">
    vGrid
   </a>
-  <span>
-   &#9733 12, pushed 2 days ago
-  </span>
   - Grid custom element for Aurelia
+  <sup>
+   33 GitHub links in total 107 links, ★ 12, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -633,19 +699,25 @@
   <a href="https://github.com/Foursails/sentry">
    sentry
   </a>
-  <span>
-   &#9733 28, pushed 211 days ago
-  </span>
   - An Aurelia template with a built in authentication shell
+  <sup>
+   33 GitHub links in total 107 links, ★ 28, pushed 211 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/doktordirk/aurelia-authentication-loopback-sample">
    aurelia-authentication-loopback-sample
   </a>
-  <span>
-   &#9733 1, pushed 4 days ago
-  </span>
   - Aurelia client sample with aurelia-authentication and loopback server
+  <sup>
+   33 GitHub links in total 107 links, ★ 1, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -656,28 +728,37 @@
   <a href="https://github.com/aurelia/polyfills">
    pollyfils
   </a>
-  <span>
-   &#9733 7, pushed 7 days ago
-  </span>
   - The minimal set of polyfills needed to run Aurelia
+  <sup>
+   33 GitHub links in total 107 links, ★ 7, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Mordred/aurelia-sails-socket-client">
    aurelia-sails-socket-client
   </a>
-  <span>
-   &#9733 20, pushed 19 days ago
-  </span>
   - A simple, restful, message-based wrapper around sails.io client
+  <sup>
+   33 GitHub links in total 107 links, ★ 20, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aurelia/bundler">
    aurelia-bundler
   </a>
-  <span>
-   &#9733 21, pushed 3 days ago
-  </span>
   - A library for bundling JavaScript, HTML and CSS for use with SystemJS
+  <sup>
+   33 GitHub links in total 107 links, ★ 21, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/awesome/edit/master/README.md">
@@ -723,19 +804,25 @@
   <a href="https://github.com/Microsoft/TypeScript">
    TypeScript Repository (GitHub)
   </a>
-  <span>
-   &#9733 11210, pushed 2 days ago
-  </span>
   Official GitHub Repo for TypeScript
+  <sup>
+   33 GitHub links in total 107 links, ★ 11210, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 11210, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">
    DefinitelyTyped Repository (GitHub)
   </a>
-  <span>
-   &#9733 6937, pushed 1 days ago
-  </span>
   The repository for high quality TypeScript type definitions.
+  <sup>
+   33 GitHub links in total 107 links, ★ 6937, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 6937, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -746,32 +833,41 @@
   <a href="https://github.com/cmichaelgraham/aurelia-typescript">
    Aurelia Typescript
   </a>
-  <span>
-   &#9733 150, pushed 149 days ago
-  </span>
   - A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
+  <sup>
+   33 GitHub links in total 107 links, ★ 150, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 150, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cmichaelgraham/aurelia-axel">
    aurelia-axel
   </a>
-  <span>
-   &#9733 1, pushed 38 days ago
-  </span>
   - As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations
+  <sup>
+   33 GitHub links in total 107 links, ★ 1, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cmichaelgraham/aurelia-axel-northwind">
    aurelia-axel-northwind
   </a>
-  <span>
-   &#9733 1, pushed 16 days ago
-  </span>
   - As a user, I want a walk through of creating a web app from the
   <code>
    aurelia-axel
   </code>
   starter kit, based of a familiar database (Northwind)
+  <sup>
+   33 GitHub links in total 107 links, ★ 1, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/behzad888/awesome/edit/master/README.md">
@@ -825,10 +921,13 @@
   <a href="https://github.com/ahmedshuhel/nav-app-es5">
    ahmedshuhel/nav-app-es5
   </a>
-  <span>
-   &#9733 10, pushed 461 days ago
-  </span>
   Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+  <sup>
+   33 GitHub links in total 107 links, ★ 10, pushed 461 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 461 days ago
+  </sup>
  </li>
 </ul>
 <h1>

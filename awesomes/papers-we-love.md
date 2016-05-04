@@ -345,9 +345,12 @@
   <a href="https://github.com/mmcgrana/services-engineering">
    Services Engineering Reading List
   </a>
-  <span>
+  <sup>
+   1 GitHub links in total 58 links, ★ 2107, pushed 270 days ago
+  </sup>
+  <sup>
    &#9733 2107, pushed 270 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html">

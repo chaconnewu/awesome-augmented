@@ -216,10 +216,13 @@
   <a href="https://github.com/microsoft/vscode">
    Source code
   </a>
-  <span>
-   &#9733 13794, pushed 2 days ago
-  </span>
   on GitHub
+  <sup>
+   2 GitHub links in total 76 links, ★ 13794, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 13794, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://code.visualstudio.com/download">
@@ -777,14 +780,17 @@
   <a href="https://github.com/samverschueren/vscode-set-text">
    vscode-set-text
   </a>
-  <span>
-   &#9733 0, pushed 158 days ago
-  </span>
   - An easy-to-use VS Code
   <code>
    #setText()
   </code>
   method.
+  <sup>
+   2 GitHub links in total 76 links, ★ 0, pushed 158 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 158 days ago
+  </sup>
  </li>
 </ul>
 <h3>

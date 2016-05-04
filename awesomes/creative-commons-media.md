@@ -357,9 +357,12 @@
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
+  <sup>
+   1 GitHub links in total 53 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 16107, pushed 7 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

@@ -361,17 +361,23 @@
   <a href="https://github.com/driftyco/ionic-conference-app">
    Ionic Conference App
   </a>
-  <span>
+  <sup>
+   3 GitHub links in total 57 links, ★ 432, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 432, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/ionic2-realty">
    IonicRealty
   </a>
-  <span>
+  <sup>
+   3 GitHub links in total 57 links, ★ 90, pushed 28 days ago
+  </sup>
+  <sup>
    &#9733 90, pushed 28 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>

@@ -162,7 +162,7 @@
      </li>
      <li>
       <a href="#data-serialization">
-       Data&Serialization
+       Data&Serialization;
       </a>
      </li>
     </ul>
@@ -631,10 +631,13 @@
   <a href="https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study">
    Porting D Runtime to ARM
   </a>
-  <span>
-   &#9733 21, pushed 745 days ago
-  </span>
   - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
+  <sup>
+   59 GitHub links in total 171 links, ★ 21, pushed 745 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 745 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html">
@@ -684,28 +687,37 @@
   <a href="https://github.com/ldc-developers/ldc">
    ldc
   </a>
-  <span>
-   &#9733 448, pushed 2 days ago
-  </span>
   - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+  <sup>
+   59 GitHub links in total 171 links, ★ 448, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 448, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/D-Programming-GDC/GDC">
    gdc
   </a>
-  <span>
-   &#9733 266, pushed 2 days ago
-  </span>
   - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+  <sup>
+   59 GitHub links in total 171 links, ★ 266, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 266, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SDC-Developers/SDC">
    sdc
   </a>
-  <span>
-   &#9733 123, pushed 2 days ago
-  </span>
   - The Stupid D Compiler. Written in D. Grows Smarter every day.
+  <sup>
+   59 GitHub links in total 171 links, ★ 123, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/dil/">
@@ -749,9 +761,6 @@
   <a href="https://github.com/aBothe/Mono-D">
    Mono-D
   </a>
-  <span>
-   &#9733 92, pushed 65 days ago
-  </span>
   - A D language addon for
   <a href="http://xamarin.com/">
    Xamarin Studio
@@ -761,6 +770,12 @@
    MonoDevelop
   </a>
   . With dub support.
+  <sup>
+   59 GitHub links in total 171 links, ★ 92, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 92, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/D-Programming-Language/visuald">
@@ -778,36 +793,45 @@
   <a href="https://github.com/Hackerpilot/DCD">
    DCD
   </a>
-  <span>
-   &#9733 179, pushed 6 days ago
-  </span>
   - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See
   <a href="https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support">
    editors support
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 179, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 179, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BBasile/Coedit">
    Coedit
   </a>
-  <span>
-   &#9733 58, pushed 4 days ago
-  </span>
   - Multiplatform IDE for the D programming language.
+  <sup>
+   59 GitHub links in total 171 links, ★ 58, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buggins/dlangide">
    Dlang IDE
   </a>
-  <span>
-   &#9733 105, pushed 6 days ago
-  </span>
   - D language IDE based on
   <a href="https://github.com/buggins/dlangui">
    DlangUI
   </a>
   . This is a pure D implementation.
+  <sup>
+   59 GitHub links in total 171 links, ★ 105, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -818,37 +842,49 @@
   <a href="https://github.com/Hackerpilot/libdparse">
    libdparse
   </a>
-  <span>
-   &#9733 36, pushed 5 days ago
-  </span>
   - A D language lexer and parser, (possibly) future standard D parser/lexer.
+  <sup>
+   59 GitHub links in total 171 links, ★ 36, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MartinNowak/lexer">
    Martin Nowak's Lexer
   </a>
-  <span>
-   &#9733 6, pushed 716 days ago
-  </span>
   - A lexer generator.
+  <sup>
+   59 GitHub links in total 171 links, ★ 6, pushed 716 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 716 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aBothe/D_Parser">
    Mono-D's DParser
   </a>
-  <span>
-   &#9733 20, pushed 90 days ago
-  </span>
   - A D parser written in C# and used in Mono-D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 20, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PhilippeSigaud/Pegged">
    Pegged
   </a>
-  <span>
-   &#9733 219, pushed 35 days ago
-  </span>
   - A Parsing Expression Grammar (PEG) module written in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 219, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 219, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/Abscissa/goldie/wiki/Home">
@@ -860,19 +896,25 @@
   <a href="https://github.com/youxkei/ctpg">
    ctpg
   </a>
-  <span>
-   &#9733 36, pushed 363 days ago
-  </span>
   - Compile-Time Parser (with converter) Generator written in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 36, pushed 363 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 363 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pwil3058/dunnart">
    dunnart
   </a>
-  <span>
-   &#9733 5, pushed 423 days ago
-  </span>
   - LALR(1) Parser Generator written in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 5, pushed 423 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 423 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -883,10 +925,13 @@
   <a href="https://github.com/facebookarchive/warp">
    warp
   </a>
-  <span>
-   &#9733 406, pushed 182 days ago
-  </span>
   - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+  <sup>
+   59 GitHub links in total 171 links, ★ 406, pushed 182 days ago
+  </sup>
+  <sup>
+   &#9733 406, pushed 182 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -897,10 +942,13 @@
   <a href="https://github.com/higgsjs/Higgs">
    higgs
   </a>
-  <span>
-   &#9733 726, pushed 55 days ago
-  </span>
   -  Higgs JavaScript Virtual Machine, implemented in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 726, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 726, pushed 55 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -911,10 +959,13 @@
   <a href="https://github.com/economicmodeling/containers">
    EMSI containers
   </a>
-  <span>
-   &#9733 54, pushed 11 days ago
-  </span>
   -  Containers that do not use the GC
+  <sup>
+   59 GitHub links in total 171 links, ★ 54, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -971,19 +1022,25 @@
   <a href="https://github.com/atilaneves/cerealed">
    cerealed
   </a>
-  <span>
-   &#9733 45, pushed 65 days ago
-  </span>
   - Serialisation library for D
+  <sup>
+   59 GitHub links in total 171 links, ★ 45, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/msoucy/dproto">
    dproto
   </a>
-  <span>
-   &#9733 25, pushed 2 days ago
-  </span>
   - Google Protocol Buffer support in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 25, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1000,10 +1057,13 @@
   <a href="https://github.com/mleise/fast">
    fast.json
   </a>
-  <span>
-   &#9733 62, pushed 156 days ago
-  </span>
   -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+  <sup>
+   59 GitHub links in total 171 links, ★ 62, pushed 157 days ago
+  </sup>
+  <sup>
+   &#9733 62, pushed 157 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dlang.org/phobos/std_json.html">
@@ -1015,10 +1075,13 @@
   <a href="https://github.com/BlackEdder/painlessjson">
    painlessjson
   </a>
-  <span>
-   &#9733 11, pushed 19 days ago
-  </span>
   - Convert between D types and std.json.
+  <sup>
+   59 GitHub links in total 171 links, ★ 11, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1034,68 +1097,89 @@
   <a href="https://github.com/rejectedsoftware/vibe.d">
    vibe.d
   </a>
-  <span>
-   &#9733 740, pushed 1 days ago
-  </span>
   - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
+  <sup>
+   59 GitHub links in total 171 links, ★ 740, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 740, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mysql-d/mysql-native">
    mysql-native
   </a>
-  <span>
-   &#9733 42, pushed 19 days ago
-  </span>
   - A MySQL client implemented in native D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 42, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pszturmaj/ddb">
    ddb
   </a>
-  <span>
-   &#9733 35, pushed 76 days ago
-  </span>
   - Database access for D2. Currently only supports PostgreSQL.
+  <sup>
+   59 GitHub links in total 171 links, ★ 35, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adamdruppe/arsd">
    arsd
   </a>
-  <span>
-   &#9733 234, pushed 6 days ago
-  </span>
   - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+  <sup>
+   59 GitHub links in total 171 links, ★ 234, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 234, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buggins/ddbc">
    ddbc
   </a>
-  <span>
-   &#9733 34, pushed 18 days ago
-  </span>
   - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
+  <sup>
+   59 GitHub links in total 171 links, ★ 34, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buggins/hibernated">
    hibernated
   </a>
-  <span>
-   &#9733 51, pushed 34 days ago
-  </span>
   - HibernateD is an ORM for D (similar to
   <a href="http://hibernate.org/">
    Hibernate
   </a>
   ).
+  <sup>
+   59 GitHub links in total 171 links, ★ 51, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rikkimax/Dvorm">
    dvorm
   </a>
-  <span>
-   &#9733 17, pushed 341 days ago
-  </span>
   - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
+  <sup>
+   59 GitHub links in total 171 links, ★ 17, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 341 days ago
+  </sup>
  </li>
  <li>
   <a href="http://adilbaig.github.io/Tiny-Redis/">
@@ -1112,32 +1196,41 @@
   <a href="https://github.com/gnunn1/terminix">
    terminix
   </a>
-  <span>
-   &#9733 392, pushed 3 days ago
-  </span>
   -  A tiling terminal emulator for Linux using GTK+ 3.
+  <sup>
+   59 GitHub links in total 171 links, ★ 392, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 392, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Abscissa/scriptlike">
    scriptlike
   </a>
-  <span>
-   &#9733 40, pushed 120 days ago
-  </span>
   - Utility library to aid writing script-like programs in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 40, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BlackEdder/todod">
    todod
   </a>
-  <span>
-   &#9733 8, pushed 263 days ago
-  </span>
   - Todod is a command line based todo list manager. It also has support for shell interaction based on
   <a href="https://github.com/antirez/linenoise">
    linenoise
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 8, pushed 263 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 263 days ago
+  </sup>
  </li>
  <li>
   <a href="http://code.dlang.org/packages/colorize">
@@ -1169,10 +1262,13 @@
   <a href="https://github.com/markuslaker/Argon">
    Argon
   </a>
-  <span>
-   &#9733 8, pushed 30 days ago
-  </span>
   -  A processor for command-line arguments, an alternative to Getopt, written in D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 8, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 30 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1188,63 +1284,81 @@
   <a href="https://github.com/buggins/dlangui">
    DLangUI
   </a>
-  <span>
-   &#9733 214, pushed 4 days ago
-  </span>
   - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE
   <a href="https://github.com/buggins/dlangide">
    DLangIDE
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 214, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 214, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gtkd-developers/GtkD">
    GtkD
   </a>
-  <span>
-   &#9733 151, pushed 2 days ago
-  </span>
   - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 151, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 151, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/d-widget-toolkit/dwt">
    DWT
   </a>
-  <span>
-   &#9733 65, pushed 19 days ago
-  </span>
   - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+  <sup>
+   59 GitHub links in total 171 links, ★ 65, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nomad-software/tkd">
    tkD
   </a>
-  <span>
-   &#9733 73, pushed 27 days ago
-  </span>
   - GUI toolkit for the D programming language based on Tcl/Tk.
+  <sup>
+   59 GitHub links in total 171 links, ★ 73, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/filcuc/dqml">
    dqml
   </a>
-  <span>
-   &#9733 16, pushed 23 days ago
-  </span>
   -  Qt Qml bindings for the D programming language.
+  <sup>
+   59 GitHub links in total 171 links, ★ 16, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/midiway/sciter-dport">
    Sciter-Dport
   </a>
-  <span>
-   &#9733 16, pushed 10 days ago
-  </span>
   - D bindings for the
   <a href="http://sciter.com">
    Sciter
   </a>
   - crossplatform HTML/CSS/script desktop UI toolkit.
+  <sup>
+   59 GitHub links in total 171 links, ★ 16, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1270,10 +1384,13 @@
   <a href="https://github.com/Vild/PowerNex">
    PowerNex
   </a>
-  <span>
-   &#9733 75, pushed 2 days ago
-  </span>
   -  A kernel written in D
+  <sup>
+   59 GitHub links in total 171 links, ★ 75, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Bloodmanovski/Trinix">
@@ -1365,53 +1482,65 @@
   <a href="https://github.com/Dgame/Dgame">
    DGame
   </a>
-  <span>
-   &#9733 48, pushed 238 days ago
-  </span>
   - A 2D framework for the D programming Language. see
   <a href="http://dgame-dev.de/">
    http://dgame-dev.de/
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 48, pushed 238 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 238 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/d-gamedev-team/gfm">
    gfm
   </a>
-  <span>
-   &#9733 98, pushed 3 days ago
-  </span>
   - D gamedev toolkit. see
   <a href="http://d-gamedev-team.github.io/gfm/">
    http://d-gamedev-team.github.io/gfm/
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 98, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Circular-Studios/Dash">
    Dash
   </a>
-  <span>
-   &#9733 310, pushed 85 days ago
-  </span>
   - A free and open 3D game engine written in D. see
   <a href="http://circularstudios.com/dash">
    http://circularstudios.com/dash
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 310, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 310, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jebbs/DSFML">
    DSFML
   </a>
-  <span>
-   &#9733 66, pushed 5 days ago
-  </span>
   - A static binding of SFML in a way that makes sense for D. see
   <a href="http://dsfml.com/">
    http://dsfml.com/
   </a>
   .
+  <sup>
+   59 GitHub links in total 171 links, ★ 66, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SiegeLord/DAllegro5/tree/master/allegro5">
@@ -1428,19 +1557,25 @@
   <a href="https://github.com/Ingrater/Spacecraft">
    Spacecraft
   </a>
-  <span>
-   &#9733 13, pushed 692 days ago
-  </span>
   - A 3d multiplayer deathmatch space game written in D 2.0.
+  <sup>
+   59 GitHub links in total 171 links, ★ 13, pushed 692 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 692 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kingsleyh/dtanks">
    Dtanks
   </a>
-  <span>
-   &#9733 8, pushed 96 days ago
-  </span>
   - Robot Tank Battle Game.
+  <sup>
+   59 GitHub links in total 171 links, ★ 8, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1480,19 +1615,25 @@
   <a href="https://github.com/DlangScience/scid">
    scid
   </a>
-  <span>
-   &#9733 68, pushed 39 days ago
-  </span>
   -  Scientific library for the D programming language
+  <sup>
+   59 GitHub links in total 171 links, ★ 68, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DlangScience/dstats">
    dstats
   </a>
-  <span>
-   &#9733 10, pushed 36 days ago
-  </span>
   -  A statistics library for D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 10, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DlangScience/mir">
@@ -1509,10 +1650,13 @@
   <a href="https://github.com/eBay/tsv-utils-dlang">
    tvs-utils
   </a>
-  <span>
-   &#9733 33, pushed 3 days ago
-  </span>
   Command line utilities for tab-separated value files written in the D programming language. Very fast.
+  <sup>
+   59 GitHub links in total 171 links, ★ 33, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1528,23 +1672,29 @@
   <a href="https://github.com/burner/logger">
    logger
   </a>
-  <span>
-   &#9733 6, pushed 285 days ago
-  </span>
   - Phobos logger proposal.
+  <sup>
+   59 GitHub links in total 171 links, ★ 6, pushed 285 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 285 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NCrashed/dlogg">
    dlogg
   </a>
-  <span>
-   &#9733 11, pushed 431 days ago
-  </span>
   - Logging for concurrent applications and daemons with lazy and delayed logging,
   <a href="http://linuxcommand.org/man_pages/logrotate8.html">
    logrotate
   </a>
   support.
+  <sup>
+   59 GitHub links in total 171 links, ★ 11, pushed 431 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 431 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1560,19 +1710,25 @@
   <a href="https://github.com/Abscissa/SDLang-D">
    sdlang
   </a>
-  <span>
-   &#9733 33, pushed 14 days ago
-  </span>
   - An SDL (Simple Declarative Language) library for D.
+  <sup>
+   59 GitHub links in total 171 links, ★ 33, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kiith-sa/D-YAML">
    D:YAML
   </a>
-  <span>
-   &#9733 61, pushed 3 days ago
-  </span>
   - YAML parser and emitter for the D programming language.
+  <sup>
+   59 GitHub links in total 171 links, ★ 61, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1588,10 +1744,13 @@
   <a href="https://github.com/Dicebot/mood">
    mood
   </a>
-  <span>
-   &#9733 35, pushed 51 days ago
-  </span>
   - simple vibe.d based blog engine
+  <sup>
+   59 GitHub links in total 171 links, ★ 35, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 51 days ago
+  </sup>
  </li>
 </ul>
 <h2>

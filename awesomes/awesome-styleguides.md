@@ -35,10 +35,13 @@
   <a href="https://github.com/hugeinc/styleguide">
    Huge's Styleguide Tool
   </a>
-  <span>
-   &#9733 1379, pushed 42 days ago
-  </span>
   A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
+  <sup>
+   41 GitHub links in total 80 links, ★ 1379, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 1379, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/">
@@ -65,33 +68,45 @@
   <a href="https://github.com/narkoz/guides">
    Narkoz
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1097, pushed 36 days ago
+  </sup>
+  <sup>
    &#9733 1097, pushed 36 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulmillr/code-style-guides">
    paulmillr
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 159, pushed 940 days ago
+  </sup>
+  <sup>
    &#9733 159, pushed 940 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SalGnt/cscs">
    SalGnt
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1245, pushed 185 days ago
+  </sup>
+  <sup>
    &#9733 1245, pushed 185 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maban/styleguides">
    Styleguides.io
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 356, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 356, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://kevinwuhoo.github.io/ui-styleguides">
@@ -110,9 +125,12 @@
   <a href="https://github.com/bendc/frontend-guidelines">
    frontend-guidelines
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 6078, pushed 49 days ago
+  </sup>
+  <sup>
    &#9733 6078, pushed 49 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://isobar-idev.github.io/code-standards/">
@@ -128,9 +146,12 @@
   <a href="https://github.com/sezgi/CSS-Best-Practices">
    CSS Best Practices
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 166, pushed 404 days ago
+  </sup>
+  <sup>
    &#9733 166, pushed 404 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://cssguidelin.es/">
@@ -152,20 +173,26 @@
   <a href="https://github.com/necolas/idiomatic-css">
    Idiomatic-CSS
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 4578, pushed 274 days ago
+  </sup>
+  <sup>
    &#9733 4578, pushed 274 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rstacruz/rscss">
    rscss
   </a>
-  <span>
-   &#9733 2960, pushed 90 days ago
-  </span>
   <em>
    Reasonable Standard for CSS Stylesheet Structure
   </em>
+  <sup>
+   41 GitHub links in total 80 links, ★ 2960, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 2960, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/">
@@ -216,9 +243,12 @@
   <a href="https://github.com/agis-/git-style-guide">
    agis-
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 3204, pushed 55 days ago
+  </sup>
+  <sup>
    &#9733 3204, pushed 55 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -234,10 +264,13 @@
   <a href="https://github.com/thx/html-code-guide">
    THX
   </a>
-  <span>
-   &#9733 29, pushed 132 days ago
-  </span>
   Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
+  <sup>
+   41 GitHub links in total 80 links, ★ 29, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 132 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -268,25 +301,34 @@
   <a href="https://github.com/airbnb/javascript">
    AirBnB
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 34437, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 34437, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bevacqua/js">
    bevacqua's JS sg
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 2285, pushed 165 days ago
+  </sup>
+  <sup>
    &#9733 2285, pushed 165 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/feross/standard">
    feross/standard
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 5322, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 5322, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/styleguide/javascript/1.0">
@@ -312,9 +354,12 @@
   <a href="https://github.com/jscs-dev/node-jscs">
    jscs
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 5074, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 5074, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Khan/style-guides/blob/master/style/javascript.md">
@@ -330,12 +375,15 @@
   <a href="https://github.com/rstacruz/rsjs">
    rsjs
   </a>
-  <span>
-   &#9733 54, pushed 90 days ago
-  </span>
   <em>
    Reasonable Standard for JavaScript Structure
   </em>
+  <sup>
+   41 GitHub links in total 80 links, ★ 54, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 90 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -346,9 +394,12 @@
   <a href="https://github.com/gocardless/angularjs-style-guide">
    gocardless
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1547, pushed 11 days ago
+  </sup>
+  <sup>
    &#9733 1547, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html">
@@ -359,25 +410,34 @@
   <a href="https://github.com/johnpapa/angular-styleguide">
    johnpapa's opinionated sg for  AngularJS
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 17991, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 17991, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mgechev/angularjs-style-guide">
    mgechev's community best practices
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 4262, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 4262, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/srph/angularjs-structure-styleguide">
    srph's AngularJS structure sg
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 279, pushed 53 days ago
+  </sup>
+  <sup>
    &#9733 279, pushed 53 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/toddmotto/angularjs-styleguide">
@@ -388,9 +448,12 @@
     <a href="https://github.com/jmcunningham/angularjs-styleguide">
      jmcunningham's fork
     </a>
-    <span>
+    <sup>
+     41 GitHub links in total 80 links, ★ 230, pushed 357 days ago
+    </sup>
+    <sup>
      &#9733 230, pushed 357 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -403,9 +466,12 @@
   <a href="https://github.com/polarmobile/coffeescript-style-guide">
    Polarmobile
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1570, pushed 15 days ago
+  </sup>
+  <sup>
    &#9733 1570, pushed 15 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -416,20 +482,26 @@
   <a href="https://github.com/interagent/http-api-design">
    http-api-design
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 11388, pushed 6 days ago
+  </sup>
+  <sup>
    &#9733 11388, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolasblack/http-api-guide">
    http-api-guide
   </a>
-  <span>
-   &#9733 1258, pushed 18 days ago
-  </span>
   <em>
    Chinese
   </em>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1258, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1258, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -450,9 +522,12 @@
   <a href="https://github.com/yuanyan/pragmatic-jquery">
    Pragmatic jQuery
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 114, pushed 681 days ago
+  </sup>
+  <sup>
    &#9733 114, pushed 681 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -463,9 +538,12 @@
   <a href="https://github.com/mattdesl/module-best-practices">
    mattdesl
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 603, pushed 200 days ago
+  </sup>
+  <sup>
    &#9733 603, pushed 200 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -491,9 +569,12 @@
   <a href="https://github.com/bbatsov/emacs-lisp-style-guide">
    emacs-lips-style-guide
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 312, pushed 233 days ago
+  </sup>
+  <sup>
    &#9733 312, pushed 233 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -509,49 +590,64 @@
   <a href="https://github.com/futurice/ios-good-practices">
    Futurice iOS Good Practices
   </a>
-  <span>
-   &#9733 4220, pushed 5 days ago
-  </span>
   iOS starting guide and good practices suggestions by
   <a href="https://github.com/futurice">
    @futurice
   </a>
   .
+  <sup>
+   41 GitHub links in total 80 links, ★ 4220, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4220, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/github/swift-style-guide">
    Github - Style guide & coding conventions for Swift projects
   </a>
-  <span>
-   &#9733 3128, pushed 25 days ago
-  </span>
   A guide to our Swift style and conventions by @github.
+  <sup>
+   41 GitHub links in total 80 links, ★ 3128, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 3128, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/github/objective-c-style-guide">
    Github Objective-C Style Guide
   </a>
-  <span>
-   &#9733 1530, pushed 124 days ago
-  </span>
   Style guide & coding conventions for Objective-C projects.
+  <sup>
+   41 GitHub links in total 80 links, ★ 1530, pushed 124 days ago
+  </sup>
+  <sup>
+   &#9733 1530, pushed 124 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Khan/objective-c-style-guide">
    Khan
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 14, pushed 246 days ago
+  </sup>
+  <sup>
    &#9733 14, pushed 246 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NYTimes/objective-c-style-guide">
    NY Times - Objective C Style Guide
   </a>
-  <span>
-   &#9733 4007, pushed 57 days ago
-  </span>
   The Objective-C Style Guide used by The New York Times.
+  <sup>
+   41 GitHub links in total 80 links, ★ 4007, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 4007, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/soffes/812796">
@@ -563,28 +659,37 @@
   <a href="https://github.com/raywenderlich/objective-c-style-guide">
    raywenderlich Style Guide
   </a>
-  <span>
-   &#9733 2119, pushed 41 days ago
-  </span>
   A style guide that outlines the coding conventions for raywenderlich.com.
+  <sup>
+   41 GitHub links in total 80 links, ★ 2119, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 2119, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spotify/ios-style">
    Spotify Objective-C Coding Style
   </a>
-  <span>
-   &#9733 162, pushed 25 days ago
-  </span>
   Guidelines for iOS development in use at Spotify.
+  <sup>
+   41 GitHub links in total 80 links, ★ 162, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 162, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raywenderlich/swift-style-guide">
    Swift Style Guide by @raywenderlich
   </a>
-  <span>
-   &#9733 4519, pushed 5 days ago
-  </span>
   The official Swift style guide for raywenderlich.com.
+  <sup>
+   41 GitHub links in total 80 links, ★ 4519, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4519, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -635,17 +740,23 @@
   <a href="https://github.com/airbnb/ruby">
    AirBnB
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 1079, pushed 39 days ago
+  </sup>
+  <sup>
    &#9733 1079, pushed 39 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bbatsov/ruby-style-guide">
    bbatsov
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 10250, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 10250, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/styleguide/ruby">
@@ -662,9 +773,12 @@
   <a href="https://github.com/bbatsov/rails-style-guide">
    bbastov's Ruby on Rails 4 styleguide
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 4449, pushed 21 days ago
+  </sup>
+  <sup>
    &#9733 4449, pushed 21 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -685,25 +799,34 @@
   <a href="https://github.com/github/swift-style-guide">
    GitHub
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 3128, pushed 25 days ago
+  </sup>
+  <sup>
    &#9733 3128, pushed 25 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raywenderlich/swift-style-guide">
    raywenderlich
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 4519, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 4519, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SlideShareInc/swift-style-guide">
    SlideShareInc
   </a>
-  <span>
+  <sup>
+   41 GitHub links in total 80 links, ★ 78, pushed 26 days ago
+  </sup>
+  <sup>
    &#9733 78, pushed 26 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>

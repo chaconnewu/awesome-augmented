@@ -166,6 +166,7 @@
   - How to use
   <code>
    <a-entity>
+   </a-entity>
   </code>
   as a wrapper to create local coordinate spaces
  </li>
@@ -310,10 +311,13 @@
   <a href="https://github.com/ngokevin/aframe-component-boilerplate">
    Component Boilerplate
   </a>
-  <span>
-   &#9733 14, pushed 5 days ago
-  </span>
   - Boilerplate for creating and sharing A-Frame VR components
+  <sup>
+   40 GitHub links in total 136 links, ★ 14, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://jsbin.com/dasefeh/edit?html,output">
@@ -325,64 +329,85 @@
   <a href="https://github.com/JosePedroDias/aframe-extrude-and-lathe">
    Extrude and Lathe
   </a>
-  <span>
-   &#9733 5, pushed 134 days ago
-  </span>
   - Extrude and lathe geometries
+  <sup>
+   40 GitHub links in total 136 links, ★ 5, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cemkod/aframe-fps-look-component">
    FPS Look
   </a>
-  <span>
-   &#9733 5, pushed 107 days ago
-  </span>
   - Facilitates controlling entity rotation directly with captured mouse
+  <sup>
+   40 GitHub links in total 136 links, ★ 5, pushed 107 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 107 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-gamepad-controls">
    Gamepad Controls
   </a>
-  <span>
-   &#9733 13, pushed 39 days ago
-  </span>
   - Gamepad controls using HTML5 Gamepad API
+  <sup>
+   40 GitHub links in total 136 links, ★ 13, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-layout-component">
    Layout
   </a>
-  <span>
-   &#9733 10, pushed 11 days ago
-  </span>
   - 3D layout of child entities
+  <sup>
+   40 GitHub links in total 136 links, ★ 10, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alexrkass/aframe-no-click-look-controls">
    No-click Look Controls
   </a>
-  <span>
-   &#9733 18, pushed 110 days ago
-  </span>
   - Intuitive desktop view controls without requiring mousedown + drag
+  <sup>
+   40 GitHub links in total 136 links, ★ 18, pushed 110 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-obj-loader-component">
    OBJ and MTL Loader
   </a>
-  <span>
-   &#9733 7, pushed 68 days ago
-  </span>
   - Loader for .OBJ models and .MTL materials
+  <sup>
+   40 GitHub links in total 136 links, ★ 7, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-physics-components">
    Physics
   </a>
-  <span>
-   &#9733 10, pushed 1 days ago
-  </span>
   - Rigid-body physics
+  <sup>
+   40 GitHub links in total 136 links, ★ 10, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://proxy-controls.donmccurdy.com">
@@ -394,10 +419,13 @@
   <a href="https://github.com/ngokevin/aframe-text-component">
    Text
   </a>
-  <span>
-   &#9733 21, pushed 38 days ago
-  </span>
   - Polygonal text
+  <sup>
+   40 GitHub links in total 136 links, ★ 21, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmarcos/a-invaders/tree/master/js/components">
@@ -409,54 +437,70 @@
   <a href="https://github.com/youmustfight/aframe-asset-lazy-load">
    Asset Lazy Load
   </a>
-  <span>
-   &#9733 3, pushed 103 days ago
-  </span>
   - Assign asset loading order and delays
+  <sup>
+   40 GitHub links in total 136 links, ★ 3, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxkrieger/aframe-draw-component">
    Draw
   </a>
-  <span>
-   &#9733 17, pushed 43 days ago
-  </span>
   - HTML5
   <code>
    <canvas>
+   </canvas>
   </code>
   as a material texture, with support for extension components
+  <sup>
+   40 GitHub links in total 136 links, ★ 17, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxkrieger/aframe-textwrap-component">
    Text Wrap
   </a>
-  <span>
-   &#9733 10, pushed 41 days ago
-  </span>
   - Wrapping text dynamically rendered onto the
   <code>
    draw
   </code>
   component
+  <sup>
+   40 GitHub links in total 136 links, ★ 10, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-template-component">
    Template
   </a>
-  <span>
-   &#9733 4, pushed 5 days ago
-  </span>
   - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
+  <sup>
+   40 GitHub links in total 136 links, ★ 4, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oscarmarinmiro/aframe-stereo-component">
    Stereo
   </a>
-  <span>
-   &#9733 13, pushed 21 days ago
-  </span>
   - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
+  <sup>
+   40 GitHub links in total 136 links, ★ 13, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif">
@@ -468,32 +512,41 @@
   <a href="https://github.com/scenevr/interpolation-component">
    Interpolation
   </a>
-  <span>
-   &#9733 4, pushed 23 days ago
-  </span>
   - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
+  <sup>
+   40 GitHub links in total 136 links, ★ 4, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scenevr/htmltexture-component">
    HTML Texture
   </a>
-  <span>
-   &#9733 15, pushed 48 days ago
-  </span>
   - Using HTML as a texture, powered by html2canvas
+  <sup>
+   40 GitHub links in total 136 links, ★ 15, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scenevr/selectable-component">
    Selectable
   </a>
-  <span>
-   &#9733 2, pushed 49 days ago
-  </span>
   by
   <a href="https://www.scenevr.com/">
    @scenevr
   </a>
   - Click on an entity to select it, handy for editors
+  <sup>
+   40 GitHub links in total 136 links, ★ 2, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/subsumo/aframe-orbit-controls/">
@@ -511,55 +564,73 @@
   <a href="https://github.com/ngokevin/aframe-randomizer-components">
    Randomizer
   </a>
-  <span>
-   &#9733 2, pushed 10 days ago
-  </span>
   - Set random values
+  <sup>
+   40 GitHub links in total 136 links, ★ 2, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andreasplesch/aframe-meshline-component">
    Mesh Line
   </a>
-  <span>
-   &#9733 1, pushed 8 days ago
-  </span>
   - Draw thick lines
+  <sup>
+   40 GitHub links in total 136 links, ★ 1, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/atomicguy/aframe-fence-component">
    Fence
   </a>
-  <span>
-   &#9733 0, pushed 8 days ago
-  </span>
   - Set boundaries on entity position
+  <sup>
+   40 GitHub links in total 136 links, ★ 0, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-mouse-cursor-component">
    Mouse Cursor
   </a>
-  <span>
-   &#9733 9, pushed 19 days ago
-  </span>
   - Use mouse as a direct pointer
+  <sup>
+   40 GitHub links in total 136 links, ★ 9, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-drag-look-controls-component">
    Drag Look
   </a>
-  <span>
-   &#9733 1, pushed 19 days ago
-  </span>
   - Look controls in the opposite direction with changing cursor style
+  <sup>
+   40 GitHub links in total 136 links, ★ 1, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dbradleyfl/aframe-gridhelper">
    Grid Helper
   </a>
-  <span>
-   &#9733 1, pushed 4 days ago
-  </span>
   - Helper to add customizable grids to your scene, useful for editors
+  <sup>
+   40 GitHub links in total 136 links, ★ 1, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js">
@@ -571,10 +642,13 @@
   <a href="https://github.com/nylki/aframe-fit-texture-component">
    Fit Texture
   </a>
-  <span>
-   &#9733 0, pushed 2 days ago
-  </span>
   - Automatically scale entities relative to their texture, so you don't need to set width/height manually
+  <sup>
+   40 GitHub links in total 136 links, ★ 0, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -585,37 +659,49 @@
   <a href="https://github.com/mayognaise/aframe-draw-shader">
    Draw
   </a>
-  <span>
-   &#9733 1, pushed 15 days ago
-  </span>
   - Render from canvas
+  <sup>
+   40 GitHub links in total 136 links, ★ 1, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-html-shader">
    HTML
   </a>
-  <span>
-   &#9733 3, pushed 6 days ago
-  </span>
   - Render from HTML
+  <sup>
+   40 GitHub links in total 136 links, ★ 3, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-video-shader">
    Video
   </a>
-  <span>
-   &#9733 2, pushed 15 days ago
-  </span>
   - iOS-compatible video material
+  <sup>
+   40 GitHub links in total 136 links, ★ 2, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayognaise/aframe-gif-shader">
    GIF
   </a>
-  <span>
-   &#9733 0, pushed 16 days ago
-  </span>
   - Render animated GIFs
+  <sup>
+   40 GitHub links in total 136 links, ★ 0, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -629,19 +715,25 @@
   <a href="https://github.com/KevinGrandon/aframe-jade-boilerplate">
    aframe-jade-boilerplate
   </a>
-  <span>
-   &#9733 1, pushed 144 days ago
-  </span>
   - A-Frame with the Jade templating engine
+  <sup>
+   40 GitHub links in total 136 links, ★ 1, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Popmotion/aframe-role">
    aframe-role
   </a>
-  <span>
-   &#9733 6, pushed 134 days ago
-  </span>
   - A-Frame with Popmotion for animations, physics, and input tracking
+  <sup>
+   40 GitHub links in total 136 links, ★ 6, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3">
@@ -662,10 +754,13 @@
   <a href="https://github.com/ngokevin/aframe-templating-examples">
    aframe-templating-examples
   </a>
-  <span>
-   &#9733 0, pushed 36 days ago
-  </span>
   - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
+  <sup>
+   40 GitHub links in total 136 links, ★ 0, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JoshGalvin/SpineFrame/">
@@ -680,32 +775,41 @@
   <a href="https://github.com/vladbalan/meteor-aframe">
    Meteor
   </a>
-  <span>
-   &#9733 2, pushed 35 days ago
-  </span>
   - A-Frame with
   <a href="https://www.meteor.com/">
    Meteor
   </a>
   , a JavaScript app framework
+  <sup>
+   40 GitHub links in total 136 links, ★ 2, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AltspaceVR/aframe-altspace-component">
    Altspace
   </a>
-  <span>
-   &#9733 8, pushed 6 days ago
-  </span>
   - Integration with AltspaceVR
+  <sup>
+   40 GitHub links in total 136 links, ★ 8, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IdeaSpaceVR/IdeaSpace">
    IdeaSpace
   </a>
-  <span>
-   &#9733 79, pushed 4 days ago
-  </span>
   - IdeaSpace CMS for the virtual reality web
+  <sup>
+   40 GitHub links in total 136 links, ★ 79, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 79, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -721,33 +825,45 @@
   <a href="https://github.com/ngokevin/aframe-react">
    aframe-react
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 136 links, ★ 114, pushed 19 days ago
+  </sup>
+  <sup>
    &#9733 114, pushed 19 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ngokevin/aframe-react-boilerplate">
    aframe-react-boilerplate (with Webpack)
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 136 links, ★ 49, pushed 38 days ago
+  </sup>
+  <sup>
    &#9733 49, pushed 38 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fouad/aframe-react-starter">
    aframe-react-starter
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 136 links, ★ 12, pushed 133 days ago
+  </sup>
+  <sup>
    &#9733 12, pushed 133 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RSpace/aframe-meetup-example">
    React + Redux Demo (including switching between 2D and 3D)
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 136 links, ★ 37, pushed 81 days ago
+  </sup>
+  <sup>
    &#9733 37, pushed 81 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://codepen.io/cheapsteak/pen/pgbdGa?editors=001">

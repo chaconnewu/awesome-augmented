@@ -104,28 +104,37 @@
   <a href="https://github.com/emberjs/ember-inspector">
    Ember Inspector
   </a>
-  <span>
-   &#9733 767, pushed 4 days ago
-  </span>
   - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
+  <sup>
+   5 GitHub links in total 56 links, ★ 767, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 767, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fuseelements/gulp-ember-handlebars">
    gulp-ember-handlebars
   </a>
-  <span>
-   &#9733 13, pushed 553 days ago
-  </span>
   - Compiles Handlebars templates to JS ready for Ember.
+  <sup>
+   5 GitHub links in total 56 links, ★ 13, pushed 553 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 553 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bmac/ember-data-sails-adapter">
    Ember Data Sails Adapter
   </a>
-  <span>
-   &#9733 94, pushed 439 days ago
-  </span>
   - An Ember data adaptor for the Sails.js sockets.
+  <sup>
+   5 GitHub links in total 56 links, ★ 94, pushed 439 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 439 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HeyHumanoid/Ember-Data-WordPress/">
@@ -172,10 +181,13 @@
   <a href="https://github.com/eoinkelly/ember-runloop-handbook">
    Ember runloop handbook
   </a>
-  <span>
-   &#9733 281, pushed 27 days ago
-  </span>
   - A deep dive into the Ember JS runloop.
+  <sup>
+   5 GitHub links in total 56 links, ★ 281, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 281, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h2>

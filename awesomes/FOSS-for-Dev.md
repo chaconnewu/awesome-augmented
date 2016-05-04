@@ -97,37 +97,46 @@
   <a href="https://github.com/gogits/gogs">
    Gogs
   </a>
-  <span>
-   &#9733 13592, pushed 1 days ago
-  </span>
   - A painless self-hosted Git Service
   <a href="https://github.party/item?id=14">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 13592, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 13592, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gitlabhq/gitlabhq">
    GitLab
   </a>
-  <span>
-   &#9733 17745, pushed 6 days ago
-  </span>
   - Version control for your server
   <a href="https://github.party/item?id=91">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 17745, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 17745, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ctron/package-drone">
    Package Drone
   </a>
-  <span>
-   &#9733 35, pushed 48 days ago
-  </span>
   - A package manager repository for OSGi, Java and more
   <a href="https://github.party/item?id=113">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 35, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 48 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -138,13 +147,16 @@
   <a href="https://github.com/CodeboxIDE/codebox">
    CodeBox
   </a>
-  <span>
-   &#9733 3384, pushed 293 days ago
-  </span>
   - Open source cloud & desktop IDE
   <a href="https://github.party/item?id=103">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 3384, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 3384, pushed 293 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -155,37 +167,46 @@
   <a href="https://github.com/hbons/SparkleShare">
    SparkleShare
   </a>
-  <span>
-   &#9733 3606, pushed 5 days ago
-  </span>
   - An Open Source collaboration and sharing tool
   <a href="https://github.party/item?id=94">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 3606, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 3606, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shazow/ssh-chat">
    ssh chat
   </a>
-  <span>
-   &#9733 1920, pushed 80 days ago
-  </span>
   - Chat over SSH
   <a href="https://github.party/item?id=75">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 1920, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 1920, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sdelements/lets-chat">
    lets chat
   </a>
-  <span>
-   &#9733 7962, pushed 22 days ago
-  </span>
   - Self-hosted chat app for small teams
   <a href="https://github.party/item?id=92">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 7962, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 7962, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://owncloud.org">
@@ -202,13 +223,16 @@
   <a href="https://github.com/SonarSource/sonarqube">
    sonarqube
   </a>
-  <span>
-   &#9733 1063, pushed 3 days ago
-  </span>
   - Put your technical debt under control
   <a href="https://github.party/item?id=96">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 1063, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1063, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gerrit.googlesource.com/">
@@ -237,37 +261,46 @@
   <a href="https://github.com/jenkinsci/jenkins">
    Jenkins
   </a>
-  <span>
-   &#9733 5715, pushed 2 days ago
-  </span>
   - open-source continuous integration server
   <a href="https://github.party/item?id=101">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 5715, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 5715, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/travis-ci/travis-ci">
    Travis CI
   </a>
-  <span>
-   &#9733 4513, pushed 163 days ago
-  </span>
   - Free continuous integration platform for GitHub projects
   <a href="https://github.party/item?id=102">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 4513, pushed 163 days ago
+  </sup>
+  <sup>
+   &#9733 4513, pushed 163 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cucumber/cucumber">
    cucumber
   </a>
-  <span>
-   &#9733 351, pushed 18 days ago
-  </span>
   - Simple, human collaboration
   <a href="https://github.party/item?id=93">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 351, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 351, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -287,13 +320,16 @@
   <a href="https://github.com/openxpki/openxpki">
    OpenXPKI
   </a>
-  <span>
-   &#9733 49, pushed 1 days ago
-  </span>
   - an enterprise-grade PKI/Trustcenter software
   <a href="https://github.party/item?id=99">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 49, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -304,25 +340,31 @@
   <a href="https://github.com/bugzilla/bugzilla">
    Bugzilla
   </a>
-  <span>
-   &#9733 54, pushed 5 days ago
-  </span>
   - web-based bug-tracking software
   <a href="https://github.party/item?id=104">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 54, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mantisbt/mantisbt">
    Mantis
   </a>
-  <span>
-   &#9733 586, pushed 2 days ago
-  </span>
   - issue tracker that provides a delicate balance between simplicity and power
   <a href="https://github.party/item?id=106">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 586, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 586, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -333,25 +375,31 @@
   <a href="https://github.com/redmine/redmine">
    Redmine
   </a>
-  <span>
-   &#9733 1865, pushed 9 days ago
-  </span>
   - a flexible project management web application written using Ruby on Rails
   <a href="https://github.party/item?id=105">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 1865, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1865, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phacility/phabricator">
    Phabricator
   </a>
-  <span>
-   &#9733 6872, pushed 2 days ago
-  </span>
   - an open source collection of web applications which help software companies build better software
   <a href="https://github.party/item?id=109">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 6872, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 6872, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/taigaio">
@@ -371,13 +419,16 @@
   <a href="https://github.com/openshift/origin">
    OpenShift
   </a>
-  <span>
-   &#9733 1265, pushed 2 days ago
-  </span>
   - build, deploy, and manage your applications with Docker and Kubernetes
   <a href="https://github.party/item?id=100">
    <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
   </a>
+  <sup>
+   17 GitHub links in total 32 links, ★ 1265, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1265, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>

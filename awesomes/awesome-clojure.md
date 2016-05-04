@@ -34,25 +34,25 @@
     <a href="https://github.com/puppetlabs/puppetdb">
      PuppetDB
     </a>
-    <span>
+    <sup>
      &#9733 190, pushed 4 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/metabase/metabase">
      Metabase
     </a>
-    <span>
+    <sup>
      &#9733 2578, pushed 3 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maitria/avi">
      Avi (vim rewrite)
     </a>
-    <span>
+    <sup>
      &#9733 151, pushed 4 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -65,17 +65,17 @@
     <a href="https://github.com/jeaye/jank">
      jank
     </a>
-    <span>
+    <sup>
      &#9733 25, pushed 16 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/LuxLang/lux">
      lux
     </a>
-    <span>
+    <sup>
      &#9733 446, pushed 2 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kanaka/mal/tree/master/clojure">
@@ -302,9 +302,9 @@
   <a href="https://github.com/webnf/webnf">
    Web Non-Framework
   </a>
-  <span>
+  <sup>
    &#9733 16, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.luminusweb.net/">
@@ -315,49 +315,49 @@
   <a href="https://github.com/slagyr/joodoweb">
    Joodo
   </a>
-  <span>
+  <sup>
    &#9733 3, pushed 797 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zubairq/AppShare">
    Coils
   </a>
-  <span>
+  <sup>
    &#9733 237, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/weavejester/duct">
    Duct
   </a>
-  <span>
+  <sup>
    &#9733 329, pushed 39 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pedestal/pedestal">
    Pedestal
   </a>
-  <span>
+  <sup>
    &#9733 1580, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/metasoarous/catalysis">
    Catalysis
   </a>
-  <span>
+  <sup>
    &#9733 28, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/juxt/yada">
    yada
   </a>
-  <span>
+  <sup>
    &#9733 245, pushed 6 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -373,25 +373,25 @@
   <a href="https://github.com/stuartsierra/component">
    Component
   </a>
-  <span>
+  <sup>
    &#9733 1131, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danielsz/system">
    System
   </a>
-  <span>
+  <sup>
    &#9733 350, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tolitius/mount">
    mount
   </a>
-  <span>
+  <sup>
    &#9733 389, pushed 7 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -407,17 +407,17 @@
   <a href="https://github.com/technomancy/leiningen">
    Leiningen
   </a>
-  <span>
+  <sup>
    &#9733 4780, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boot-clj/boot">
    Boot
   </a>
-  <span>
+  <sup>
    &#9733 932, pushed 20 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -433,9 +433,9 @@
   <a href="https://github.com/clj-time/clj-time">
    clj-time
   </a>
-  <span>
-   &#9733 469, pushed 27 days ago
-  </span>
+  <sup>
+   &#9733 469, pushed 28 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -446,17 +446,17 @@
   <a href="https://github.com/aaronc/fx-clj">
    fx-clj
   </a>
-  <span>
+  <sup>
    &#9733 68, pushed 100 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/daveray/seesaw">
    seesaw
   </a>
-  <span>
+  <sup>
    &#9733 1039, pushed 69 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -472,9 +472,9 @@
   <a href="https://github.com/alda-lang/alda">
    Alda
   </a>
-  <span>
+  <sup>
    &#9733 2347, pushed 1 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -490,9 +490,9 @@
   <a href="https://github.com/dakrone/clj-http">
    clj-http
   </a>
-  <span>
+  <sup>
    &#9733 891, pushed 15 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.http-kit.org/">
@@ -503,9 +503,9 @@
   <a href="https://github.com/ring-clojure/ring">
    ring
   </a>
-  <span>
+  <sup>
    &#9733 1853, pushed 5 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -526,17 +526,17 @@
   <a href="https://github.com/funcool/clojure.jdbc">
    clojure.jdbc
   </a>
-  <span>
+  <sup>
    &#9733 66, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robashton/cravendb">
    cravendb
   </a>
-  <span>
+  <sup>
    &#9733 45, pushed 860 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://clojuremongodb.info/">
@@ -547,9 +547,9 @@
   <a href="https://github.com/apa512/clj-rethinkdb">
    RethinkDB
   </a>
-  <span>
+  <sup>
    &#9733 137, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -565,9 +565,9 @@
   <a href="https://github.com/tomekw/hikari-cp">
    hikari-cp
   </a>
-  <span>
+  <sup>
    &#9733 107, pushed 6 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -583,41 +583,41 @@
   <a href="https://github.com/budu/lobos">
    Lobos
   </a>
-  <span>
+  <sup>
    &#9733 259, pushed 217 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/weavejester/ragtime">
    Ragtime
   </a>
-  <span>
+  <sup>
    &#9733 290, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/juxt/joplin">
    Joplin
   </a>
-  <span>
+  <sup>
    &#9733 211, pushed 33 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yogthos/migratus">
    Migratus
   </a>
-  <span>
+  <sup>
    &#9733 153, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/macourtney/drift">
    Drift
   </a>
-  <span>
+  <sup>
    &#9733 103, pushed 380 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -628,9 +628,9 @@
   <a href="https://github.com/ptaoussanis/carmine">
    carmine
   </a>
-  <span>
+  <sup>
    &#9733 609, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -641,9 +641,9 @@
   <a href="https://github.com/dakrone/cheshire">
    cheshire
   </a>
-  <span>
+  <sup>
    &#9733 777, pushed 21 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -667,25 +667,25 @@
   <a href="https://github.com/stch-library/sql">
    stch-library/sql
   </a>
-  <span>
+  <sup>
    &#9733 18, pushed 622 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/r0man/sqlingvo">
    sqlingvo
   </a>
-  <span>
+  <sup>
    &#9733 105, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jkk/honeysql">
    honeysql
   </a>
-  <span>
+  <sup>
    &#9733 432, pushed 19 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -701,25 +701,25 @@
   <a href="https://github.com/funcool/buddy">
    Buddy
   </a>
-  <span>
+  <sup>
    &#9733 428, pushed 9 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cemerick/friend">
    Friend
   </a>
-  <span>
+  <sup>
    &#9733 1022, pushed 29 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/juxt/bolt">
    bolt
   </a>
-  <span>
+  <sup>
    &#9733 122, pushed 286 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -740,9 +740,9 @@
   <a href="https://github.com/metosin/compojure-api">
    compojure-api
   </a>
-  <span>
+  <sup>
    &#9733 476, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/juxt/yada">
@@ -758,9 +758,9 @@
   <a href="https://github.com/drewr/postal">
    postal
   </a>
-  <span>
+  <sup>
    &#9733 328, pushed 60 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -781,17 +781,17 @@
   <a href="https://github.com/weavejester/hiccup">
    hiccup
   </a>
-  <span>
-   &#9733 1338, pushed 27 days ago
-  </span>
+  <sup>
+   &#9733 1338, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fhd/clostache">
    clostache
   </a>
-  <span>
+  <sup>
    &#9733 253, pushed 207 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -812,33 +812,33 @@
   <a href="https://github.com/plumatic/schema">
    Prismatic's schema
   </a>
-  <span>
+  <sup>
    &#9733 1544, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/friemen/domaintypes">
    domaintypes
   </a>
-  <span>
+  <sup>
    &#9733 5, pushed 526 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/leonardoborges/bouncer">
    Bouncer
   </a>
-  <span>
-   &#9733 264, pushed 133 days ago
-  </span>
+  <sup>
+   &#9733 264, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/markwoodhall/clova">
    clova
   </a>
-  <span>
+  <sup>
    &#9733 5, pushed 4 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -854,9 +854,9 @@
   <a href="https://github.com/clojure/core.typed">
    core.typed
   </a>
-  <span>
+  <sup>
    &#9733 825, pushed 17 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -867,25 +867,25 @@
   <a href="https://github.com/clojure/core.match">
    core.match
   </a>
-  <span>
+  <sup>
    &#9733 644, pushed 121 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GuillaumeBadi/Verbal-Exprejon">
    Verbal-Exprejon
   </a>
-  <span>
+  <sup>
    &#9733 81, pushed 105 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/killme2008/defun">
    defun
   </a>
-  <span>
+  <sup>
    &#9733 278, pushed 189 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -901,25 +901,25 @@
   <a href="https://github.com/puniverse/pulsar">
    pulsar
   </a>
-  <span>
+  <sup>
    &#9733 669, pushed 15 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ztellman/lamina">
    lamina
   </a>
-  <span>
+  <sup>
    &#9733 739, pushed 231 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ztellman/aleph">
    aleph
   </a>
-  <span>
+  <sup>
    &#9733 1602, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -930,17 +930,17 @@
   <a href="https://github.com/funcool/cats">
    cats
   </a>
-  <span>
+  <sup>
    &#9733 362, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clojure/algo.monads">
    algo.monads
   </a>
-  <span>
+  <sup>
    &#9733 281, pushed 121 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -951,9 +951,9 @@
   <a href="https://github.com/ptaoussanis/sente">
    Sente
   </a>
-  <span>
+  <sup>
    &#9733 996, pushed 13 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -969,9 +969,9 @@
   <a href="https://github.com/marick/Midje">
    Midje
   </a>
-  <span>
-   &#9733 1182, pushed 1 days ago
-  </span>
+  <sup>
+   &#9733 1182, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -982,25 +982,25 @@
   <a href="https://github.com/technomancy/slamhound">
    Slamhound
   </a>
-  <span>
+  <sup>
    &#9733 330, pushed 232 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonase/eastwood">
    eastwood
   </a>
-  <span>
+  <sup>
    &#9733 542, pushed 27 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonase/kibit">
    kibit
   </a>
-  <span>
+  <sup>
    &#9733 1025, pushed 9 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1011,9 +1011,9 @@
   <a href="https://github.com/incanter/incanter">
    Incanter
   </a>
-  <span>
+  <sup>
    &#9733 1731, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://cascalog.org/">
@@ -1024,17 +1024,17 @@
   <a href="https://github.com/onyx-platform/onyx">
    Onyx
   </a>
-  <span>
+  <sup>
    &#9733 1205, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uncomplicate/neanderthal">
    Neanderthal
   </a>
-  <span>
+  <sup>
    &#9733 148, pushed 8 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1045,73 +1045,73 @@
   <a href="https://github.com/antoniogarrote/clj-ml">
    clj-ml
   </a>
-  <span>
+  <sup>
    &#9733 108, pushed 71 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bigmlcom/clj-bigml">
    clj-bigml
   </a>
-  <span>
+  <sup>
    &#9733 44, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rinuboney/clatern">
    Clatern
   </a>
-  <span>
-   &#9733 60, pushed 267 days ago
-  </span>
+  <sup>
+   &#9733 60, pushed 268 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/deeplearning4j/deeplearning4j">
    Deeplearning4j
   </a>
-  <span>
+  <sup>
    &#9733 2626, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jimpil/enclog">
    Enclog
   </a>
-  <span>
+  <sup>
    &#9733 118, pushed 745 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aria42/infer">
    Infer
   </a>
-  <span>
+  <sup>
    &#9733 147, pushed 126 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gigasquid/k9">
    k9
   </a>
-  <span>
+  <sup>
    &#9733 75, pushed 438 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clojurewerkz/statistiker">
    Statistiker
   </a>
-  <span>
+  <sup>
    &#9733 42, pushed 302 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/japonophile/synaptic">
    Synaptic
   </a>
-  <span>
+  <sup>
    &#9733 62, pushed 91 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1122,9 +1122,9 @@
   <a href="https://github.com/antoniogarrote/clj-tesseract">
    clj-tesseract
   </a>
-  <span>
+  <sup>
    &#9733 33, pushed 1649 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://nakkaya.com/vision.html">
@@ -1140,9 +1140,9 @@
   <a href="https://github.com/dakrone/clojure-opennlp">
    clojure-opennlp
   </a>
-  <span>
+  <sup>
    &#9733 551, pushed 8 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1153,41 +1153,41 @@
   <a href="https://github.com/clojure-emacs/cider">
    CIDER
   </a>
-  <span>
+  <sup>
    &#9733 1766, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tpope/vim-fireplace">
    vim-fireplace
   </a>
-  <span>
+  <sup>
    &#9733 1063, pushed 15 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dgrnbrg/vim-redl">
    vim-redl
   </a>
-  <span>
+  <sup>
    &#9733 96, pushed 434 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tpope/vim-salve">
    vim-leiningen
   </a>
-  <span>
+  <sup>
    &#9733 121, pushed 196 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/junegunn/rainbow_parentheses.vim">
    rainbow_parentheses.vim
   </a>
-  <span>
+  <sup>
    &#9733 105, pushed 182 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://cursive-ide.com/">
@@ -1208,9 +1208,9 @@
   <a href="https://github.com/gdeer81/marginalia">
    marginalia
   </a>
-  <span>
+  <sup>
    &#9733 592, pushed 48 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1221,17 +1221,17 @@
   <a href="https://github.com/ztellman/clj-tuple">
    clj-tuple
   </a>
-  <span>
+  <sup>
    &#9733 168, pushed 306 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scgilardi/slingshot">
    slingshot
   </a>
-  <span>
+  <sup>
    &#9733 421, pushed 105 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1242,81 +1242,81 @@
   <a href="https://github.com/razum2um/debugger">
    debugger
   </a>
-  <span>
-   &#9733 0, pushed 689 days ago
-  </span>
+  <sup>
+   &#9733 0, pushed 690 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GeorgeJahad/debug-repl">
    debug-repl
   </a>
-  <span>
+  <sup>
    &#9733 131, pushed 988 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pallet/ritz">
    ritz
   </a>
-  <span>
+  <sup>
    &#9733 322, pushed 1083 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dgrnbrg/redl">
    redl
   </a>
-  <span>
+  <sup>
    &#9733 29, pushed 640 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/technomancy/limit-break">
    limit-break
   </a>
-  <span>
+  <sup>
    &#9733 16, pushed 1368 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dgrnbrg/spyscope">
    spyscope
   </a>
-  <span>
+  <sup>
    &#9733 330, pushed 161 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/razum2um/aprint">
    aprint
   </a>
-  <span>
+  <sup>
    &#9733 100, pushed 190 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AvisoNovate/pretty">
    pretty
   </a>
-  <span>
+  <sup>
    &#9733 281, pushed 18 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/magnars/prone">
    prone
   </a>
-  <span>
+  <sup>
    &#9733 398, pushed 34 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bhauman/lein-figwheel">
    figwheel
   </a>
-  <span>
+  <sup>
    &#9733 1552, pushed 13 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1327,9 +1327,9 @@
   <a href="https://github.com/flosell/lambdacd">
    lambdacd
   </a>
-  <span>
+  <sup>
    &#9733 208, pushed 14 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1345,9 +1345,9 @@
   <a href="https://github.com/clojure-cookbook/clojure-cookbook">
    clojure-cookbook
   </a>
-  <span>
+  <sup>
    &#9733 1544, pushed 146 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html">
@@ -1433,9 +1433,9 @@
   <a href="https://github.com/gigasquid/wonderland-clojure-katas">
    Wonderland Clojure Katas
   </a>
-  <span>
+  <sup>
    &#9733 417, pushed 19 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://clojurekatas.org">

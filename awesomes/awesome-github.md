@@ -103,10 +103,13 @@
   <a href="https://github.com/jlord/git-it">
    Git-it
   </a>
-  <span>
-   &#9733 1271, pushed 12 days ago
-  </span>
   -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
+  <sup>
+   29 GitHub links in total 61 links, ★ 1271, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1271, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="">
@@ -200,14 +203,17 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   <a href="https://github.com/government/welcome">
    GitHub Government Community
   </a>
-  <span>
-   &#9733 43, pushed 92 days ago
-  </span>
   - Information on joining GitHub's
   <a href="https://government.github.com/">
    government community
   </a>
   — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
+  <sup>
+   29 GitHub links in total 61 links, ★ 43, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://classroom.github.com">
@@ -224,10 +230,13 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   <a href="https://github.com/tiimgreen/github-cheat-sheet">
    GitHub Cheat Sheet
   </a>
-  <span>
-   &#9733 18492, pushed 27 days ago
-  </span>
   - Use this list to test your GitHub knowledge.
+  <sup>
+   29 GitHub links in total 61 links, ★ 18492, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 18492, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="http://githubuniverse.com/">
@@ -315,10 +324,13 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">
    A collection of awesome browser extensions for GitHub.
   </a>
-  <span>
-   &#9733 450, pushed 3 days ago
-  </span>
   - Well, the link kinda' says it all.
+  <sup>
+   29 GitHub links in total 61 links, ★ 450, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 450, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gitter.im/">
@@ -374,91 +386,121 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   <a href="https://github.com/benbalter/redliner">
    Redliner
   </a>
-  <span>
-   &#9733 19, pushed 345 days ago
-  </span>
   - A tool for facilitating the redlining of documents with the GitHub uninitiated.
+  <sup>
+   29 GitHub links in total 61 links, ★ 19, pushed 345 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 345 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/prose/gatekeeper">
    Gatekeeper
   </a>
-  <span>
-   &#9733 416, pushed 194 days ago
-  </span>
   - Enables client-side applications to dance OAuth with GitHub.
+  <sup>
+   29 GitHub links in total 61 links, ★ 416, pushed 194 days ago
+  </sup>
+  <sup>
+   &#9733 416, pushed 194 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HenrikJoreteg/github-secret-keeper">
    github-secret-keeper
   </a>
-  <span>
-   &#9733 38, pushed 231 days ago
-  </span>
   - Microservice to enable GitHub login for multiple server-less applications.
+  <sup>
+   29 GitHub links in total 61 links, ★ 38, pushed 231 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 231 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/github/hub">
    Hub
   </a>
-  <span>
-   &#9733 8391, pushed 12 days ago
-  </span>
   - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+  <sup>
+   29 GitHub links in total 61 links, ★ 8391, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 8391, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jlevy/ghizmo">
    Ghizmo
   </a>
-  <span>
-   &#9733 17, pushed 4 days ago
-  </span>
   - A command line for GitHub, allowing access to all APIs.
+  <sup>
+   29 GitHub links in total 61 links, ★ 17, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/harshasrinivas/cli-github">
    cli-github
   </a>
-  <span>
-   &#9733 151, pushed 119 days ago
-  </span>
   - Github made pretty, within the command line.
+  <sup>
+   29 GitHub links in total 61 links, ★ 151, pushed 119 days ago
+  </sup>
+  <sup>
+   &#9733 151, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/StylishThemes/Github-Dark">
    GitHub Dark
   </a>
-  <span>
-   &#9733 792, pushed 4 days ago
-  </span>
   - A sophisticated dark theme for GitHub.
+  <sup>
+   29 GitHub links in total 61 links, ★ 792, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 792, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IQAndreas/github-issues-import">
    github-issues-import
   </a>
-  <span>
-   &#9733 202, pushed 612 days ago
-  </span>
   - A Python script that allows you to import issues and pull requests from one GitHub repository to another
+  <sup>
+   29 GitHub links in total 61 links, ★ 202, pushed 612 days ago
+  </sup>
+  <sup>
+   &#9733 202, pushed 612 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ricky54326/Github-Auto-Issue-Creator">
    Github-Auto-Issue-Creator
   </a>
-  <span>
-   &#9733 67, pushed 37 days ago
-  </span>
   - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
+  <sup>
+   29 GitHub links in total 61 links, ★ 67, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benbalter/problem_child">
    Problem Child
   </a>
-  <span>
-   &#9733 27, pushed 160 days ago
-  </span>
   - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
+  <sup>
+   29 GitHub links in total 61 links, ★ 27, pushed 160 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 160 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gitify.io/">
@@ -470,10 +512,13 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   <a href="https://github.com/HubPress/hubpress.io">
    HubPress
   </a>
-  <span>
-   &#9733 2262, pushed 8 days ago
-  </span>
   - A web application to build your Blog on GitHub
+  <sup>
+   29 GitHub links in total 61 links, ★ 2262, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2262, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://tinypress.co/">
@@ -496,46 +541,61 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   <a href="https://github.com/mozilla/mozfest-program">
    Mozilla Festival
   </a>
-  <span>
-   &#9733 33, pushed 229 days ago
-  </span>
   - Mozfest 2015 Program on GitHub.
+  <sup>
+   29 GitHub links in total 61 links, ★ 33, pushed 229 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 229 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/open-source-society/computer-science">
    Open Source Society University
   </a>
-  <span>
-   &#9733 13722, pushed 9 days ago
-  </span>
   - Path to a free self-taught education in Computer Science.
+  <sup>
+   29 GitHub links in total 61 links, ★ 13722, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 13722, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clef/handbook">
    Clef's Handbook
   </a>
-  <span>
-   &#9733 2286, pushed 32 days ago
-  </span>
   - An employee handbook built for inclusion.
+  <sup>
+   29 GitHub links in total 61 links, ★ 2286, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 2286, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/divegeek/uscode">
    The United States Code
   </a>
-  <span>
-   &#9733 591, pushed 412 days ago
-  </span>
   - The complete United States Code.
+  <sup>
+   29 GitHub links in total 61 links, ★ 591, pushed 412 days ago
+  </sup>
+  <sup>
+   &#9733 591, pushed 412 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/steeve/france.code-civil">
    Le code civil français sous git
   </a>
-  <span>
-   &#9733 2492, pushed 270 days ago
-  </span>
   - French Civil Code on GitHub.
+  <sup>
+   29 GitHub links in total 61 links, ★ 2492, pushed 270 days ago
+  </sup>
+  <sup>
+   &#9733 2492, pushed 270 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gitron.herokuapp.com">

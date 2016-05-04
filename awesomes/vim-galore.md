@@ -1263,13 +1263,20 @@ commands act on multiple modes at once.
 <p>
  <code>
   vim
-:nmap <space> :echo "foo"<cr>
+:nmap
+  <space>
+   :echo "foo"
+   <cr>
+   </cr>
+  </space>
  </code>
 </p>
 <p>
  Unmap it again by using
  <code>
-  :nunmap <space>
+  :nunmap
+  <space>
+  </space>
  </code>
  .
 </p>
@@ -1300,7 +1307,9 @@ mappings into account.
 <p>
  <code>
   vim
-:nmap b :echo "Foo"<cr>
+:nmap b :echo "Foo"
+  <cr>
+  </cr>
  </code>
 </p>
 <p>
@@ -1330,7 +1339,9 @@ another key?
  , was
 mapped to another action already, namely
  <code>
-  :echo "Foo"<cr>
+  :echo "Foo"
+  <cr>
+  </cr>
  </code>
  .
 </p>
@@ -1360,7 +1371,9 @@ desired.
  shows all
 normal mappings and
  <code>
-  :nmap <leader>
+  :nmap
+  <leader>
+  </leader>
  </code>
  shows all normal mappings that start with
 the mapleader.
@@ -1369,10 +1382,15 @@ the mapleader.
  If you want to disable a standard mapping, map them to the special
  <code>
   <nop>
+  </nop>
  </code>
  character, e.g.
  <code>
-  :noremap <left> <nop>
+  :noremap
+  <left>
+   <nop>
+   </nop>
+  </left>
  </code>
  .
 </p>
@@ -1397,7 +1415,12 @@ is set to
 <p>
  <code>
   vim
-nnoremap <leader>h :helpgrep<space>
+nnoremap
+  <leader>
+   h :helpgrep
+   <space>
+   </space>
+  </leader>
  </code>
 </p>
 <p>
@@ -1407,7 +1430,9 @@ nnoremap <leader>h :helpgrep<space>
  </code>
  . If you want to use
  <code>
-  <space>h
+  <space>
+   h
+  </space>
  </code>
  instead:
 </p>
@@ -1415,17 +1440,24 @@ nnoremap <leader>h :helpgrep<space>
  <code>
   vim
 let mapleader = ' '
-nnoremap <leader>h :helpgrep<space>
+nnoremap
+  <leader>
+   h :helpgrep
+   <space>
+   </space>
+  </leader>
  </code>
 </p>
 <p>
  Moreover, there is
  <code>
   <localleader>
+  </localleader>
  </code>
  that is the local counterpart to
  <code>
   <leader>
+  </leader>
  </code>
  and is supposed to be used for mappings that are local to the buffer, eg.
 filetype-specific plugins. It also defaults to
@@ -1442,7 +1474,8 @@ filetype-specific plugins. It also defaults to
 effect already, won't change just because the mapleader was changed.
  <code>
   :nmap
-<leader>
+  <leader>
+  </leader>
  </code>
  will show all normal mode leader mappings with the mapleader resolved
 already, so use it to double-check your mappings.
@@ -1610,7 +1643,11 @@ already, so use it to double-check your mappings.
  </code>
  | user       | [ ]       | Evaluation of the VimL expression that was yanked. E.g. do this in insert mode:
  <code>
-  <c-r>=5+5<cr>
+  <c-r>
+   =5+5
+   <cr>
+   </cr>
+  </c-r>
  </code>
  and "10" will be inserted in the buffer. |
 | Selection           |
@@ -2031,11 +2068,15 @@ will be populated with the range
 use the previously selected lines as a range. (This is also why you sometimes
 see mappings like
  <code>
-  :vnoremap foo :<c-u>command
+  :vnoremap foo :
+  <c-u>
+   command
+  </c-u>
  </code>
  . Here
  <code>
   <c-u>
+  </c-u>
  </code>
  is used to remove
 the range, because Vim will throw an error when giving a range to a command that
@@ -2334,6 +2375,7 @@ libraries, file names, dictionary or simply words from the current buffer.
  Vim provides a mapping for each kind of completion and they all start with
  <code>
   <c-x>
+  </c-x>
  </code>
  (remember to use them in insert mode):
 </p>
@@ -2342,7 +2384,10 @@ libraries, file names, dictionary or simply words from the current buffer.
 |---------|------|--------------|
 |
  <code>
-  <c-x><c-l>
+  <c-x>
+   <c-l>
+   </c-l>
+  </c-x>
  </code>
  | whole lines |
  <code>
@@ -2351,7 +2396,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-n>
+  <c-x>
+   <c-n>
+   </c-n>
+  </c-x>
  </code>
  | keywords from current file |
  <code>
@@ -2360,7 +2408,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-k>
+  <c-x>
+   <c-k>
+   </c-k>
+  </c-x>
  </code>
  | keywords from
  <code>
@@ -2373,7 +2424,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-t>
+  <c-x>
+   <c-t>
+   </c-t>
+  </c-x>
  </code>
  | keywords from
  <code>
@@ -2386,7 +2440,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-i>
+  <c-x>
+   <c-i>
+   </c-i>
+  </c-x>
  </code>
  | keywords from current and included files |
  <code>
@@ -2395,7 +2452,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-]>
+  <c-x>
+   <c-]>
+   </c-]>
+  </c-x>
  </code>
  | tags |
  <code>
@@ -2404,7 +2464,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-f>
+  <c-x>
+   <c-f>
+   </c-f>
+  </c-x>
  </code>
  | file names |
  <code>
@@ -2413,7 +2476,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-d>
+  <c-x>
+   <c-d>
+   </c-d>
+  </c-x>
  </code>
  | definitions or macros |
  <code>
@@ -2422,7 +2488,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-v>
+  <c-x>
+   <c-v>
+   </c-v>
+  </c-x>
  </code>
  | Vim commands |
  <code>
@@ -2431,7 +2500,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-u>
+  <c-x>
+   <c-u>
+   </c-u>
+  </c-x>
  </code>
  | user defined (as specified in
  <code>
@@ -2444,7 +2516,10 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x><c-o>
+  <c-x>
+   <c-o>
+   </c-o>
+  </c-x>
  </code>
  | omni completion (as specified in
  <code>
@@ -2457,7 +2532,9 @@ libraries, file names, dictionary or simply words from the current buffer.
  |
 |
  <code>
-  <c-x>s
+  <c-x>
+   s
+  </c-x>
  </code>
  | spelling suggestions |
  <code>
@@ -2483,10 +2560,12 @@ filetype plugins.
 trim it to your taste. You can trigger this completion by using either
  <code>
   <c-n>
+  </c-n>
  </code>
  (next) and
  <code>
   <c-p>
+  </c-p>
  </code>
  (previous), which also happen to be the keys used for
 choosing entries in the popup menu. See
@@ -2555,7 +2634,9 @@ popup menu. The default is quite sane, but I prefer adding "noselect" as well.
  </code>
  is a motion. They also take a count.
  <code>
-  2?the<cr>
+  2?the
+  <cr>
+  </cr>
  </code>
  jumps to the second last
 occurrence of "the".
@@ -2933,11 +3014,15 @@ that start editing a new file.
  </code>
  |
  <code>
-  [count]<c-o>
+  [count]
+  <c-o>
+  </c-o>
  </code>
  |
  <code>
-  [count]<c-i>
+  [count]
+  <c-i>
+  </c-i>
  </code>
  |
 | changelist |
@@ -3030,11 +3115,19 @@ you undo a change and then insert something else.
 </p>
 <p>
  <code>
-  ifoo<esc>
-obar<esc>
-obaz<esc>
-u
-oquux<esc>
+  ifoo
+  <esc>
+   obar
+   <esc>
+    obaz
+    <esc>
+     u
+oquux
+     <esc>
+     </esc>
+    </esc>
+   </esc>
+  </esc>
  </code>
 </p>
 <p>
@@ -3076,6 +3169,7 @@ created.
  ) and redo (
  <code>
   <c-r>
+  </c-r>
  </code>
  ) work branch-wise. They go up and down the current
 branch.
@@ -3089,10 +3183,12 @@ branch.
  will revert the text state even further, to the one of node "foo". Now
  <code>
   <c-r>
+  </c-r>
  </code>
  goes back to the state of node "bar" and another
  <code>
   <c-r>
+  </c-r>
  </code>
  to the state of node
 "quux". (There's no way to reach node "baz" using branch-wise commands anymore.)
@@ -3145,7 +3241,9 @@ on. Thus,
  | Undo [count] changes. |
 |
  <code>
-  [count]<c-r>
+  [count]
+  <c-r>
+  </c-r>
  </code>
  ,
  <code>
@@ -3329,10 +3427,11 @@ list.
 <p>
  <code>
   vim
-:let &grepprg = 'grep -Rn $* .'
+:let &grepprg; = 'grep -Rn $* .'
 :grep! foo
-<grep output - hit enter>
-:copen
+  <grep -="" enter="" hit="" output="">
+   :copen
+  </grep>
  </code>
 </p>
 <p>
@@ -3405,15 +3504,22 @@ command-line will signify this via "recording @q".)
 <p>
  <code>
   qq
-iabc<cr><esc>
-q
+iabc
+  <cr>
+   <esc>
+    q
 10@q
+   </esc>
+  </cr>
  </code>
 </p>
 <p>
  (The same could be done without macros:
  <code>
-  oabc<esc>10.
+  oabc
+  <esc>
+   10.
+  </esc>
  </code>
  )
 </p>
@@ -3427,6 +3533,7 @@ q
 "1. " to it manually. Increment the number under the cursor by using
  <code>
   <c-a>
+  </c-a>
  </code>
  ,
 displayed as
@@ -3756,7 +3863,9 @@ in the internal variable
  </code>
  |
  <code>
-  :map <buffer>
+  :map
+  <buffer>
+  </buffer>
  </code>
  | buffer           |
  <code>
@@ -3769,7 +3878,9 @@ in the internal variable
  </code>
  |
  <code>
-  :autocmd * <buffer>
+  :autocmd *
+  <buffer>
+  </buffer>
  </code>
  | buffer           |
  <code>
@@ -3792,10 +3903,12 @@ in the internal variable
 |
  <code>
   <leader>
+  </leader>
  </code>
  |
  <code>
   <localleader>
+  </localleader>
  </code>
  | buffer           |
  <code>
@@ -3864,6 +3977,7 @@ within that file.
  You can use
  <code>
   <c-d>
+  </c-d>
  </code>
  (this is
  <kbd>
@@ -3876,7 +3990,9 @@ within that file.
  ) to list all tags that
 match the currently entered query. E.g.
  <code>
-  :h tab<c-d>
+  :h tab
+  <c-d>
+  </c-d>
  </code>
  will get you a list of all
 tags from
@@ -3896,12 +4012,16 @@ tags from
 <p>
  You want to list all VimL functions? Simple:
  <code>
-  :h ()<c-d>
+  :h ()
+  <c-d>
+  </c-d>
  </code>
  . You want to list all
 VimL functions that concern windows?
  <code>
-  :h win*()<c-d>
+  :h win*()
+  <c-d>
+  </c-d>
  </code>
  .
 </p>
@@ -3938,6 +4058,7 @@ jump to the next/previous match. Or use
 navigate to an entry and hit
  <code>
   <cr>
+  </cr>
  </code>
  to jump to that match. See
  <code>
@@ -4603,13 +4724,17 @@ CLIPBOARD.
 </p>
 <p>
  <code>
-  Program A: <ctrl+c>
-Program A: assert ownership of CLIPBOARD
-Program B: <ctrl+v>
-Program B: note that ownership of CLIPBOARD is hold by Program A
+  Program A:
+  <ctrl+c>
+   Program A: assert ownership of CLIPBOARD
+Program B:
+   <ctrl+v>
+    Program B: note that ownership of CLIPBOARD is hold by Program A
 Program B: request data from Program A
 Program A: respond to request and send data to Program B
 Program B: receives data from Program A and inserts it into the window
+   </ctrl+v>
+  </ctrl+c>
  </code>
 </p>
 <p>
@@ -4796,7 +4921,9 @@ nowritebackup
  <code>
   $ diff ~/.vim/vimrc ~/.vim/files/backup/vimrc-vimbackup
 390d389
-< command! -bar -nargs=* -complete=help H helpgrep <args>
+< command! -bar -nargs=* -complete=help H helpgrep
+  <args>
+  </args>
  </code>
 </p>
 <p>
@@ -5090,33 +5217,45 @@ in alphabetic sequence:
   <a href="https://github.com/Shougo/neobundle.vim">
    neobundle
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 1918, pushed 12 days ago
+  </sup>
+  <sup>
    &#9733 1918, pushed 12 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/junegunn/vim-plug">
    plug
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 4336, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 4336, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MarcWeber/vim-addon-manager">
    vim-addon-manager
   </a>
-  <span>
-   &#9733 501, pushed 71 days ago
-  </span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 501, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 501, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VundleVim/Vundle.vim">
    vundle
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 11432, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 11432, pushed 7 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -5137,6 +5276,7 @@ same time. See this
  Switch to visual block mode with
  <code>
   <c-v>
+  </c-v>
  </code>
  . Afterwards go down for a few lines.
 Hit
@@ -5157,7 +5297,11 @@ applied to all other lines of the prior visual selection.
 <p>
  So a simple example is
  <code>
-  <c-v>3jItext<esc>
+  <c-v>
+   3jItext
+   <esc>
+   </esc>
+  </c-v>
  </code>
  .
 </p>
@@ -5165,7 +5309,11 @@ applied to all other lines of the prior visual selection.
  If you have lines of different length and want to append the same text right
 after the end of each line, do this:
  <code>
-  <c-v>3j$Atext<esc>
+  <c-v>
+   3j$Atext
+   <esc>
+   </esc>
+  </c-v>
  </code>
  .
 </p>
@@ -5445,7 +5593,11 @@ $ cscope -bq
 <p>
  <code>
   vim
-:cs find <kind> <query>
+:cs find
+  <kind>
+   <query>
+   </query>
+  </kind>
  </code>
 </p>
 <p>
@@ -5509,14 +5661,135 @@ $ cscope -bq
 <p>
  <code>
   vim
-nnoremap <buffer> <leader>cs :cscope find s  <c-r>=expand('<cword>')<cr><cr>
-nnoremap <buffer> <leader>cg :cscope find g  <c-r>=expand('<cword>')<cr><cr>
-nnoremap <buffer> <leader>cc :cscope find c  <c-r>=expand('<cword>')<cr><cr>
-nnoremap <buffer> <leader>ct :cscope find t  <c-r>=expand('<cword>')<cr><cr>
-nnoremap <buffer> <leader>ce :cscope find e  <c-r>=expand('<cword>')<cr><cr>
-nnoremap <buffer> <leader>cf :cscope find f  <c-r>=expand('<cfile>')<cr><cr>
-nnoremap <buffer> <leader>ci :cscope find i ^<c-r>=expand('<cfile>')<cr>$<cr>
-nnoremap <buffer> <leader>cd :cscope find d  <c-r>=expand('<cword>')<cr><cr>
+nnoremap
+  <buffer>
+   <leader>
+    cs :cscope find s
+    <c-r>
+     =expand('
+     <cword>
+      ')
+      <cr>
+       <cr>
+        nnoremap
+        <buffer>
+         <leader>
+          cg :cscope find g
+          <c-r>
+           =expand('
+           <cword>
+            ')
+            <cr>
+             <cr>
+              nnoremap
+              <buffer>
+               <leader>
+                cc :cscope find c
+                <c-r>
+                 =expand('
+                 <cword>
+                  ')
+                  <cr>
+                   <cr>
+                    nnoremap
+                    <buffer>
+                     <leader>
+                      ct :cscope find t
+                      <c-r>
+                       =expand('
+                       <cword>
+                        ')
+                        <cr>
+                         <cr>
+                          nnoremap
+                          <buffer>
+                           <leader>
+                            ce :cscope find e
+                            <c-r>
+                             =expand('
+                             <cword>
+                              ')
+                              <cr>
+                               <cr>
+                                nnoremap
+                                <buffer>
+                                 <leader>
+                                  cf :cscope find f
+                                  <c-r>
+                                   =expand('
+                                   <cfile>
+                                    ')
+                                    <cr>
+                                     <cr>
+                                      nnoremap
+                                      <buffer>
+                                       <leader>
+                                        ci :cscope find i ^
+                                        <c-r>
+                                         =expand('
+                                         <cfile>
+                                          ')
+                                          <cr>
+                                           $
+                                           <cr>
+                                            nnoremap
+                                            <buffer>
+                                             <leader>
+                                              cd :cscope find d
+                                              <c-r>
+                                               =expand('
+                                               <cword>
+                                                ')
+                                                <cr>
+                                                 <cr>
+                                                 </cr>
+                                                </cr>
+                                               </cword>
+                                              </c-r>
+                                             </leader>
+                                            </buffer>
+                                           </cr>
+                                          </cr>
+                                         </cfile>
+                                        </c-r>
+                                       </leader>
+                                      </buffer>
+                                     </cr>
+                                    </cr>
+                                   </cfile>
+                                  </c-r>
+                                 </leader>
+                                </buffer>
+                               </cr>
+                              </cr>
+                             </cword>
+                            </c-r>
+                           </leader>
+                          </buffer>
+                         </cr>
+                        </cr>
+                       </cword>
+                      </c-r>
+                     </leader>
+                    </buffer>
+                   </cr>
+                  </cr>
+                 </cword>
+                </c-r>
+               </leader>
+              </buffer>
+             </cr>
+            </cr>
+           </cword>
+          </c-r>
+         </leader>
+        </buffer>
+       </cr>
+      </cr>
+     </cword>
+    </c-r>
+   </leader>
+  </buffer>
  </code>
 </p>
 <p>
@@ -5527,6 +5800,7 @@ nnoremap <buffer> <leader>cd :cscope find d  <c-r>=expand('<cword>')<cr><cr>
  (or
  <code>
   <c-]>
+  </c-]>
  </code>
  ) jumps to a definition from the tags file,
  <code>
@@ -5632,7 +5906,16 @@ commands and
 <p>
  <code>
   vim
-autocmd FileType python let b:match_words = '\<if\>:\<elif\>:\<else\>'
+autocmd FileType python let b:match_words = '\
+  <if\>
+   :\
+   <elif\>
+    :\
+    <else\>
+     '
+    </else\>
+   </elif\>
+  </if\>
  </code>
 </p>
 <p>
@@ -5696,8 +5979,14 @@ searching forward or backward respectively. This is pretty confusing to me.
 <p>
  <code>
   vim
-nnoremap <expr> n  'Nn'[v:searchforward]
-nnoremap <expr> N  'nN'[v:searchforward]
+nnoremap
+  <expr>
+   n  'Nn'[v:searchforward]
+nnoremap
+   <expr>
+    N  'nN'[v:searchforward]
+   </expr>
+  </expr>
  </code>
 </p>
 <h4>
@@ -5707,10 +5996,12 @@ nnoremap <expr> N  'nN'[v:searchforward]
  If you're anything like me, you're used to going to next and previous items via
  <code>
   <c-n>
+  </c-n>
  </code>
  and
  <code>
   <c-p>
+  </c-p>
  </code>
  respectively. By default, this also works in the
 command-line and recalls older or more recent command-lines from history.
@@ -5719,15 +6010,19 @@ command-line and recalls older or more recent command-lines from history.
  So far, so good. But
  <code>
   <up>
+  </up>
  </code>
  and
  <code>
   <down>
+  </down>
  </code>
  are even smarter! They recall the
 command-line whose beginning matches the current command-line. E.g.
  <code>
-  :echo <up>
+  :echo
+  <up>
+  </up>
  </code>
  may change to
  <code>
@@ -5741,8 +6036,16 @@ command-line whose beginning matches the current command-line. E.g.
 <p>
  <code>
   vim
-cnoremap <c-n>  <down>
-cnoremap <c-p>  <up>
+cnoremap
+  <c-n>
+   <down>
+    cnoremap
+    <c-p>
+     <up>
+     </up>
+    </c-p>
+   </down>
+  </c-n>
  </code>
 </p>
 <p>
@@ -5755,6 +6058,7 @@ cnoremap <c-p>  <up>
  By default
  <code>
   <c-l>
+  </c-l>
  </code>
  clears and redraws the screen (like
  <code>
@@ -5776,7 +6080,20 @@ diff mode:
 <p>
  <code>
   vim
-nnoremap <leader>l :nohlsearch<cr>:diffupdate<cr>:syntax sync fromstart<cr><c-l>
+nnoremap
+  <leader>
+   l :nohlsearch
+   <cr>
+    :diffupdate
+    <cr>
+     :syntax sync fromstart
+     <cr>
+      <c-l>
+      </c-l>
+     </cr>
+    </cr>
+   </cr>
+  </leader>
  </code>
 </p>
 <h4>
@@ -5806,8 +6123,18 @@ set t_vb=
 <p>
  <code>
   vim
-nnoremap [e  :<c-u>execute 'move -1-'. v:count1<cr>
-nnoremap ]e  :<c-u>execute 'move +'. v:count1<cr>
+nnoremap [e  :
+  <c-u>
+   execute 'move -1-'. v:count1
+   <cr>
+    nnoremap ]e  :
+    <c-u>
+     execute 'move +'. v:count1
+     <cr>
+     </cr>
+    </c-u>
+   </cr>
+  </c-u>
  </code>
 </p>
 <p>
@@ -5823,14 +6150,33 @@ nnoremap ]e  :<c-u>execute 'move +'. v:count1<cr>
 <p>
  <code>
   vim
-nnoremap [<space>  :<c-u>put! =repeat(nr2char(10), v:count1)<cr>'[
-nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
+nnoremap [
+  <space>
+   :
+   <c-u>
+    put! =repeat(nr2char(10), v:count1)
+    <cr>
+     '[
+nnoremap ]
+     <space>
+      :
+      <c-u>
+       put =repeat(nr2char(10), v:count1)
+       <cr>
+       </cr>
+      </c-u>
+     </space>
+    </cr>
+   </c-u>
+  </space>
  </code>
 </p>
 <p>
  Now
  <code>
-  5[<space>
+  5[
+  <space>
+  </space>
  </code>
  inserts 5 blank lines above the current line.
 </p>
@@ -5846,6 +6192,7 @@ nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
 it in the cmdline-window. Hit
  <code>
   <cr>
+  </cr>
  </code>
  when you're done editing for setting the
 register.
@@ -5856,28 +6203,53 @@ register.
 <p>
  <code>
   vim
-nnoremap <leader>m  :<c-u><c-r><c-r>='let @'. v:register .' = '. string(getreg(v:register))<cr><c-f><left>
+nnoremap
+  <leader>
+   m  :
+   <c-u>
+    <c-r>
+     <c-r>
+      ='let @'. v:register .' = '. string(getreg(v:register))
+      <cr>
+       <c-f>
+        <left>
+        </left>
+       </c-f>
+      </cr>
+     </c-r>
+    </c-r>
+   </c-u>
+  </leader>
  </code>
 </p>
 <p>
  Use it like this
  <code>
-  <leader>m
+  <leader>
+   m
+  </leader>
  </code>
  or
  <code>
-  "q<leader>m
+  "q
+  <leader>
+   m
+  </leader>
  </code>
  .
 </p>
 <p>
  Notice the use of
  <code>
-  <c-r><c-r>
+  <c-r>
+   <c-r>
+   </c-r>
+  </c-r>
  </code>
  to make sure that the
  <code>
   <c-r>
+  </c-r>
  </code>
  is inserted
 literally. See
@@ -5944,8 +6316,8 @@ viminfo?
 <p>
  <code>
   vim
-command! Bigger  :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)+1', '')
-command! Smaller :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)-1', '')
+command! Bigger  :let &guifont; = substitute(&guifont;, '\d\+$', '\=submatch(0)+1', '')
+command! Smaller :let &guifont; = substitute(&guifont;, '\d\+$', '\=submatch(0)-1', '')
  </code>
 </p>
 <h4>
@@ -5959,14 +6331,59 @@ underline cursor in replace mode. Also when using tmux in the middle.
  <code>
   vim
 if empty($TMUX)
-  let &t_SI = "\<Esc>]50;CursorShape=1\x7"
-  let &t_EI = "\<Esc>]50;CursorShape=0\x7"
-  let &t_SR = "\<Esc>]50;CursorShape=2\x7"
+  let &t;_SI = "\
+  <esc>
+   ]50;CursorShape=1\x7"
+  let &t;_EI = "\
+   <esc>
+    ]50;CursorShape=0\x7"
+  let &t;_SR = "\
+    <esc>
+     ]50;CursorShape=2\x7"
 else
-  let &t_SI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=1\x7\<Esc>\\"
-  let &t_EI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=0\x7\<Esc>\\"
-  let &t_SR = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=2\x7\<Esc>\\"
+  let &t;_SI = "\
+     <esc>
+      Ptmux;\
+      <esc>
+       \
+       <esc>
+        ]50;CursorShape=1\x7\
+        <esc>
+         \\"
+  let &t;_EI = "\
+         <esc>
+          Ptmux;\
+          <esc>
+           \
+           <esc>
+            ]50;CursorShape=0\x7\
+            <esc>
+             \\"
+  let &t;_SR = "\
+             <esc>
+              Ptmux;\
+              <esc>
+               \
+               <esc>
+                ]50;CursorShape=2\x7\
+                <esc>
+                 \\"
 endif
+                </esc>
+               </esc>
+              </esc>
+             </esc>
+            </esc>
+           </esc>
+          </esc>
+         </esc>
+        </esc>
+       </esc>
+      </esc>
+     </esc>
+    </esc>
+   </esc>
+  </esc>
  </code>
 </p>
 <p>
@@ -6017,8 +6434,10 @@ around it like this:
 <p>
  <code>
   vim
-xnoremap <  <gv
-xnoremap >  >gv
+xnoremap <
+  <gv xnoremap="">
+   >gv
+  </gv>
  </code>
 </p>
 <p>
@@ -6080,10 +6499,12 @@ autocmd InsertLeave * set cursorline
  The keyword completion (
  <code>
   <c-n>
+  </c-n>
  </code>
  /
  <code>
   <c-p>
+  </c-p>
  </code>
  ) tries completing whatever is listed in
 the
@@ -6107,7 +6528,9 @@ set complete-=t   " disable searching tags
 <p>
  Useful commands that are good to know. Use
  <code>
-  :h :<command name>
+  :h :
+  <command name="">
+  </command>
  </code>
  to learn more
 about them, e.g.
@@ -6391,8 +6814,10 @@ profile.
   :profile start /tmp/profile.log
 :profile file *
 :profile func *
-<do something in Vim>
-<quit Vim>
+  <do in="" something="" vim="">
+   <quit vim="">
+   </quit>
+  </do>
  </code>
 </p>
 <p>
@@ -6612,6 +7037,7 @@ you're not interested in.) See
  As you can see, using
  <code>
   <cr>
+  </cr>
  </code>
  will repeat the previous debugger command,
  <code>
@@ -6652,9 +7078,12 @@ regular expressions. If the
  <code>
   vim
 :syntime on
-" hit <c-l> a few times to redraw the window which causes the syntax rules to get applied again
+" hit
+  <c-l>
+   a few times to redraw the window which causes the syntax rules to get applied again
 :syntime off
 :syntime report
+  </c-l>
  </code>
 </p>
 <p>
@@ -6768,9 +7197,12 @@ looking at some distributions:
   <a href="https://github.com/spf13/spf13-vim">
    spf13
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 7945, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 7945, pushed 9 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -7397,8 +7829,12 @@ happen when there's ambiguity between mappings:
 <p>
  <code>
   vim
-:nnoremap ,a  :echo 'foo'<cr>
-:nnoremap ,ab :echo 'bar'<cr>
+:nnoremap ,a  :echo 'foo'
+  <cr>
+   :nnoremap ,ab :echo 'bar'
+   <cr>
+   </cr>
+  </cr>
  </code>
 </p>
 <p>
@@ -7420,6 +7856,7 @@ second, because Vim waits whether the user keys in another
  <li>
   <code>
    <esc>
+   </esc>
   </code>
   is used a lot for returning to normal mode or quitting an action.
  </li>
@@ -7447,7 +7884,11 @@ encoding with the high bit set, but many terminal emulators don't support it
  </code>
  and type
  <code>
-  i<c-v><left>
+  i
+  <c-v>
+   <left>
+   </left>
+  </c-v>
  </code>
  and
 you'll see a sequence inserted that starts with
@@ -7461,6 +7902,7 @@ character.
  Putting it in a nutshell, Vim has a hard time distinguishing between a typed
  <code>
   <esc>
+  </esc>
  </code>
  character and a proper escape sequence.
 </p>
@@ -7520,117 +7962,159 @@ set -sg escape-time 0
   <a href="https://github.com/plan9-for-vimspace/acme-colors">
    acme-colors
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 8, pushed 262 days ago
+  </sup>
+  <sup>
    &#9733 8, pushed 262 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chriskempson/base16-vim">
    base16
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 754, pushed 77 days ago
+  </sup>
+  <sup>
    &#9733 754, pushed 77 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/whatyouhide/vim-gotham">
    gotham
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 523, pushed 13 days ago
+  </sup>
+  <sup>
    &#9733 523, pushed 13 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/morhetz/gruvbox">
    gruvbox
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 1573, pushed 13 days ago
+  </sup>
+  <sup>
    &#9733 1573, pushed 13 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mhinz/vim-janah">
    janah
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 40, pushed 78 days ago
+  </sup>
+  <sup>
    &#9733 40, pushed 78 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nanotech/jellybeans.vim">
    jellybeans
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 908, pushed 43 days ago
+  </sup>
+  <sup>
    &#9733 908, pushed 43 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonathanfilip/vim-lucius">
    lucius
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 190, pushed 302 days ago
+  </sup>
+  <sup>
    &#9733 190, pushed 302 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tomasr/molokai">
    molokai
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 1777, pushed 174 days ago
+  </sup>
+  <sup>
    &#9733 1777, pushed 174 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jpo/vim-railscasts-theme">
    railscasts
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 206, pushed 336 days ago
+  </sup>
+  <sup>
    &#9733 206, pushed 336 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/junegunn/seoul256.vim">
    seoul256
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 484, pushed 36 days ago
+  </sup>
+  <sup>
    &#9733 484, pushed 36 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/altercation/vim-colors-solarized">
    solarized
   </a>
-  <span>
-   &#9733 3824, pushed 11 days ago
-  </span>
   (or a lighter variant:
   <a href="https://github.com/romainl/flattened">
    flattened
   </a>
   )
+  <sup>
+   20 GitHub links in total 154 links, ★ 3824, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 3824, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chriskempson/vim-tomorrow-theme">
    tomorrow
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 205, pushed 232 days ago
+  </sup>
+  <sup>
    &#9733 205, pushed 232 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tpope/vim-vividchalk">
    vividchalk
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 223, pushed 1522 days ago
+  </sup>
+  <sup>
    &#9733 223, pushed 1522 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kabbamine/yowish.vim">
    yowish
   </a>
-  <span>
+  <sup>
+   20 GitHub links in total 154 links, ★ 59, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 59, pushed 7 days ago
-  </span>
+  </sup>
  </li>
 </ul>

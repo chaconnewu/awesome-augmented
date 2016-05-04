@@ -46,10 +46,13 @@
   <a href="https://github.com/Tasktop/dropwizard-tools">
    dropwizard-tools
   </a>
-  <span>
-   &#9733 2, pushed 57 days ago
-  </span>
   - Eclipse Tools for Dropwizard
+  <sup>
+   17 GitHub links in total 37 links, ★ 2, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 57 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -60,145 +63,193 @@
   <a href="https://github.com/HubSpot/dropwizard-guice">
    dropwizard-guice
   </a>
-  <span>
-   &#9733 184, pushed 4 days ago
-  </span>
   - Adds support for Guice.
+  <sup>
+   17 GitHub links in total 37 links, ★ 184, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 184, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xvik/dropwizard-guicey">
    dropwizard-guicey
   </a>
-  <span>
-   &#9733 56, pushed 97 days ago
-  </span>
   - Dropwizard guice integration
+  <sup>
+   17 GitHub links in total 37 links, ★ 56, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/federecio/dropwizard-swagger">
    dropwizard-swagger
   </a>
-  <span>
-   &#9733 90, pushed 39 days ago
-  </span>
   - Serves Swagger UI static content and loads Swagger endpoints.
+  <sup>
+   17 GitHub links in total 37 links, ★ 90, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eeb/dropwizard-mongo">
    dropwizard-mongo
   </a>
-  <span>
-   &#9733 18, pushed 352 days ago
-  </span>
   - Factories and health checks for connecting to mongoDB.
+  <sup>
+   17 GitHub links in total 37 links, ★ 18, pushed 352 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 352 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/roskart/dropwizard-jaxws">
    dropwizard-jaxws
   </a>
-  <span>
-   &#9733 27, pushed 31 days ago
-  </span>
   - enables building SOAP web services and clients using JAX-WS API.
+  <sup>
+   17 GitHub links in total 37 links, ★ 27, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bazaarvoice/dropwizard-redirect-bundle">
    dropwizard-redirect-bundle
   </a>
-  <span>
-   &#9733 13, pushed 150 days ago
-  </span>
   - allows for HTTP redirects.
+  <sup>
+   17 GitHub links in total 37 links, ★ 13, pushed 150 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 150 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jaredstehler/dropwizard-quartz">
    dropwizard-quartz
   </a>
-  <span>
-   &#9733 47, pushed 246 days ago
-  </span>
   - Simple Job Scheduler implementation integrating Guice and Quartz.
+  <sup>
+   17 GitHub links in total 37 links, ★ 47, pushed 246 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tkrille/dropwizard-template-config">
    dropwizard-template-config
   </a>
-  <span>
-   &#9733 29, pushed 3 days ago
-  </span>
   - enables you to write your config.yaml as a Freemarker template.
+  <sup>
+   17 GitHub links in total 37 links, ★ 29, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bazaarvoice/dropwizard-caching-bundle">
    dropwizard-caching-bundle
   </a>
-  <span>
-   &#9733 5, pushed 150 days ago
-  </span>
   - generate cache-control options for resources and caching responses.
+  <sup>
+   17 GitHub links in total 37 links, ★ 5, pushed 150 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 150 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yunspace/dropwizard-xml">
    dropwizard-xml
   </a>
-  <span>
-   &#9733 23, pushed 323 days ago
-  </span>
   - Dropwizard bundle for processing and validating XMLs
+  <sup>
+   17 GitHub links in total 37 links, ★ 23, pushed 323 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 323 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meltmedia/dropwizard-crypto">
    dropwizard-crypto
   </a>
-  <span>
-   &#9733 11, pushed 299 days ago
-  </span>
   - A Crytpographic Bundle for Dropwizard
+  <sup>
+   17 GitHub links in total 37 links, ★ 11, pushed 299 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 299 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meltmedia/dropwizard-etcd">
    dropwizard-etcd
   </a>
-  <span>
-   &#9733 3, pushed 106 days ago
-  </span>
   - A Dropwizard Bundle for Etcd
+  <sup>
+   17 GitHub links in total 37 links, ★ 3, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mtakaki/dropwizard-circuitbreaker">
    dropwizard-circuitbreaker
   </a>
-  <span>
-   &#9733 5, pushed 9 days ago
-  </span>
   - A circuit breaker design pattern for dropwizard
+  <sup>
+   17 GitHub links in total 37 links, ★ 5, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phaneesh/riemann-bundle">
    riemann-bundle
   </a>
-  <span>
-   &#9733 0, pushed 7 days ago
-  </span>
   - Simplifies dropwizard metrics integration into Riemann
+  <sup>
+   17 GitHub links in total 37 links, ★ 0, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/santanusinha/dropwizard-service-discovery">
    dropwizard-service-discovery
   </a>
-  <span>
-   &#9733 1, pushed 5 days ago
-  </span>
   - Zookeeper service discovery bundle and client for dropwizard.
+  <sup>
+   17 GitHub links in total 37 links, ★ 1, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phaneesh/dropwizard-maxmind-bundle">
    dropwizard-maxmind-bundle
   </a>
-  <span>
-   &#9733 1, pushed 6 days ago
-  </span>
   - MaxMind GeoIP2 support for dropwizard
+  <sup>
+   17 GitHub links in total 37 links, ★ 1, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>

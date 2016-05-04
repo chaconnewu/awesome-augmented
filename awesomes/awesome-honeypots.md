@@ -61,19 +61,25 @@
   <a href="https://github.com/caesar0301/awesome-pcaptools">
    awesome-pcaptools
   </a>
-  <span>
-   &#9733 378, pushed 4 days ago
-  </span>
   , useful in network traffic analysis
+  <sup>
+   100 GitHub links in total 332 links, ★ 378, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 378, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rshipp/awesome-malware-analysis">
    awesome-malware-analysis
   </a>
-  <span>
-   &#9733 968, pushed 6 days ago
-  </span>
   , with some overlap here for artifact analysis
+  <sup>
+   100 GitHub links in total 332 links, ★ 968, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 968, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -91,39 +97,51 @@
     <a href="https://github.com/jordan-wright/elastichoney">
      Elastic honey
     </a>
-    <span>
-     &#9733 67, pushed 294 days ago
-    </span>
     - A Simple Elasticsearch Honeypot
    </li>
    <li>
     <a href="https://github.com/schmalle/MysqlPot">
      mysql
     </a>
-    <span>
-     &#9733 7, pushed 1297 days ago
-    </span>
     - A mysql honeypot, still very very early stage
+    <sup>
+     100 GitHub links in total 332 links, ★ 7, pushed 1297 days ago
+    </sup>
+    <sup>
+     &#9733 7, pushed 1297 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/torque59/nosqlpot">
      NoSQLpot
     </a>
-    <span>
-     &#9733 56, pushed 257 days ago
-    </span>
     - The NoSQL Honeypot Framework.
+    <sup>
+     100 GitHub links in total 332 links, ★ 56, pushed 257 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 257 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mycert/ESPot">
      ESPot
     </a>
-    <span>
-     &#9733 4, pushed 617 days ago
-    </span>
     - ElasticSearch Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 4, pushed 617 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 617 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 67, pushed 294 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 294 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -134,46 +152,55 @@
     <a href="https://github.com/mushorg/glastopf">
      Glastopf
     </a>
-    <span>
-     &#9733 198, pushed 59 days ago
-    </span>
     - Web Application Honeypot
    </li>
    <li>
     <a href="https://github.com/gfoss/phpmyadmin_honeypot">
      phpmyadmin_honeypot
     </a>
-    <span>
-     &#9733 23, pushed 305 days ago
-    </span>
     - - A simple and effective phpMyAdmin honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 23, pushed 305 days ago
+    </sup>
+    <sup>
+     &#9733 23, pushed 305 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/schmalle/Servletpot">
      servlet
     </a>
-    <span>
-     &#9733 4, pushed 1087 days ago
-    </span>
     - Web application Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 4, pushed 1087 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 1087 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/schmalle/Nodepot">
      Nodepot
     </a>
-    <span>
-     &#9733 12, pushed 254 days ago
-    </span>
     - A nodejs web application honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 12, pushed 254 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 254 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/bjeborn/basic-auth-pot">
      basic-auth-pot
     </a>
-    <span>
-     &#9733 6, pushed 474 days ago
-    </span>
     bap - http Basic Authentication honeyPot
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 474 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 474 days ago
+    </sup>
    </li>
    <li>
     <a href="https://shadowd.zecure.org">
@@ -185,10 +212,13 @@
     <a href="https://github.com/schmalle/servletpot">
      Servletpot
     </a>
-    <span>
-     &#9733 4, pushed 1087 days ago
-    </span>
     - Web application Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 4, pushed 1087 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 1087 days ago
+    </sup>
    </li>
    <li>
     <a href="http://ghh.sourceforge.net">
@@ -200,93 +230,129 @@
     <a href="https://github.com/freak3dot/smart-honeypot">
      smart-honeypot
     </a>
-    <span>
-     &#9733 6, pushed 745 days ago
-    </span>
     - PHP Script demonstrating a smart honey pot
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 745 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 745 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/MartinIngesen/HonnyPotter">
      HonnyPotter
     </a>
-    <span>
-     &#9733 16, pushed 143 days ago
-    </span>
     - A WordPress login honeypot for collection and analysis of failed login attempts.
+    <sup>
+     100 GitHub links in total 332 links, ★ 16, pushed 143 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 143 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/freak3dot/wp-smart-honeypot">
      wp-smart-honeypot
     </a>
-    <span>
-     &#9733 11, pushed 36 days ago
-    </span>
     - WordPress plugin to reduce comment spam with a smarter honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 11, pushed 36 days ago
+    </sup>
+    <sup>
+     &#9733 11, pushed 36 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gbrindisi/wordpot">
      wordpot
     </a>
-    <span>
-     &#9733 67, pushed 322 days ago
-    </span>
     - A WordPress Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 67, pushed 322 days ago
+    </sup>
+    <sup>
+     &#9733 67, pushed 322 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Argomirr/Honeypot">
      Bukkit Honeypot
     </a>
-    <span>
-     &#9733 6, pushed 1793 days ago
-    </span>
     Honeypot - A honeypot plugin for Bukkit
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 1793 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 1793 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/msurguy/Honeypot">
      Laravel Application Honeypot
     </a>
-    <span>
-     &#9733 227, pushed 93 days ago
-    </span>
     - Honeypot - Simple spam prevention package for Laravel applications
+    <sup>
+     100 GitHub links in total 332 links, ★ 227, pushed 93 days ago
+    </sup>
+    <sup>
+     &#9733 227, pushed 93 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/CHH/stack-honeypot">
      stack-honeypot
     </a>
-    <span>
-     &#9733 15, pushed 824 days ago
-    </span>
     - Inserts a trap for spam bots into responses
+    <sup>
+     100 GitHub links in total 332 links, ★ 15, pushed 824 days ago
+    </sup>
+    <sup>
+     &#9733 15, pushed 824 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/eymengunay/EoHoneypotBundle">
      EoHoneypotBundle
     </a>
-    <span>
-     &#9733 17, pushed 6 days ago
-    </span>
     - Honeypot type for Symfony2 forms
+    <sup>
+     100 GitHub links in total 332 links, ★ 17, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 17, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/threatstream/shockpot">
      shockpot
     </a>
-    <span>
-     &#9733 36, pushed 138 days ago
-    </span>
     - WebApp Honeypot for detecting Shell Shock exploit attempts
+    <sup>
+     100 GitHub links in total 332 links, ★ 36, pushed 138 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 138 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dmpayton/django-admin-honeypot">
      django-admin-honeypot
     </a>
-    <span>
-     &#9733 274, pushed 81 days ago
-    </span>
     - A fake Django admin login screen to notify admins of attempted unauthorized access.
+    <sup>
+     100 GitHub links in total 332 links, ★ 274, pushed 81 days ago
+    </sup>
+    <sup>
+     &#9733 274, pushed 81 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 198, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 198, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -297,9 +363,6 @@
     <a href="https://github.com/desaster/kippo">
      Kippo
     </a>
-    <span>
-     &#9733 628, pushed 195 days ago
-    </span>
     - Medium interaction SSH honeypot
     <ul>
      <li>
@@ -320,16 +383,25 @@
     <a href="https://github.com/fygrave/honeyntp">
      honeyntp
     </a>
-    <span>
-     &#9733 23, pushed 768 days ago
-    </span>
     - NTP logger/honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 23, pushed 768 days ago
+    </sup>
+    <sup>
+     &#9733 23, pushed 768 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/alexbredo/honeypot-camera">
      honeypot-camera
     </a>
     - observation camera honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 20, pushed 320 days ago
+    </sup>
+    <sup>
+     &#9733 20, pushed 320 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dutchcoders/troje/">
@@ -341,66 +413,93 @@
     <a href="https://github.com/rshipp/slipm-honeypot">
      slipm-honeypot
     </a>
-    <span>
-     &#9733 3, pushed 1021 days ago
-    </span>
     - A simple low-interaction port monitoring honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 3, pushed 1021 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 1021 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/foospidy/HoneyPy">
      HoneyPy
     </a>
-    <span>
-     &#9733 82, pushed 30 days ago
-    </span>
     - A low interaction honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 82, pushed 30 days ago
+    </sup>
+    <sup>
+     &#9733 82, pushed 30 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ahoernecke/ensnare">
      Ensnare
     </a>
-    <span>
-     &#9733 63, pushed 586 days ago
-    </span>
     - Easy to deploy Ruby honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 63, pushed 586 days ago
+    </sup>
+    <sup>
+     &#9733 63, pushed 586 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/citronneur/rdpy">
      RDPy
     </a>
-    <span>
-     &#9733 442, pushed 170 days ago
-    </span>
     - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
+    <sup>
+     100 GitHub links in total 332 links, ★ 442, pushed 170 days ago
+    </sup>
+    <sup>
+     &#9733 442, pushed 170 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/awhitehatter/mailoney">
      Mailoney
     </a>
-    <span>
-     &#9733 67, pushed 200 days ago
-    </span>
     - SMTP honeypot, Open Relay, Cred Harvester written in python.
+    <sup>
+     100 GitHub links in total 332 links, ★ 67, pushed 200 days ago
+    </sup>
+    <sup>
+     &#9733 67, pushed 200 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/glaslos/honeyprint">
      Honeyprint
     </a>
-    <span>
-     &#9733 0, pushed 96 days ago
-    </span>
     - Printer honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 0, pushed 96 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 96 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/czardoz/hornet">
      hornet
     </a>
-    <span>
-     &#9733 10, pushed 213 days ago
-    </span>
     - Medium interaction SSH Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 10, pushed 213 days ago
+    </sup>
+    <sup>
+     &#9733 10, pushed 213 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 628, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 628, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -411,12 +510,15 @@
     <a href="https://github.com/andrew-morris/kippo_detect">
      kippo_detect
     </a>
-    <span>
-     &#9733 11, pushed 510 days ago
-    </span>
     - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 11, pushed 510 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 510 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -427,19 +529,19 @@
     <a href="https://github.com/mushorg/conpot">
      Conpot
     </a>
-    <span>
-     &#9733 226, pushed 151 days ago
-    </span>
     - ICS/SCADA honeypot
    </li>
    <li>
     <a href="https://github.com/sk4ld/gridpot">
      gridpot
     </a>
-    <span>
-     &#9733 18, pushed 407 days ago
-    </span>
     - Open source tools for realistic-behaving electric grid honeynets
+    <sup>
+     100 GitHub links in total 332 links, ★ 18, pushed 407 days ago
+    </sup>
+    <sup>
+     &#9733 18, pushed 407 days ago
+    </sup>
    </li>
    <li>
     <a href="http://www.digitalbond.com/tools/scada-honeynet/">
@@ -454,6 +556,12 @@
     - Building Honeypots for Industrial Networks
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 226, pushed 151 days ago
+  </sup>
+  <sup>
+   &#9733 226, pushed 151 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -470,10 +578,13 @@
     <a href="https://github.com/free5ty1e/honeypotpi">
      honeypotpi
     </a>
-    <span>
-     &#9733 6, pushed 506 days ago
-    </span>
     - Script for turning a Raspberry Pi into a Honey Pot Pi
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 506 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 506 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -492,10 +603,13 @@
     <a href="https://github.com/mfontani/kippo-stats">
      Kippo stats
     </a>
-    <span>
-     &#9733 16, pushed 1826 days ago
-    </span>
     - Mojolicious app to display statistics for your kippo SSH honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 16, pushed 1826 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 1826 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -508,9 +622,6 @@
     <a href="https://github.com/DataSoft/Nova">
      NOVA
     </a>
-    <span>
-     &#9733 24, pushed 449 days ago
-    </span>
     uses honeypots as detectors, looks like a complete system.
    </li>
    <li>
@@ -523,30 +634,45 @@
     <a href="https://github.com/buffer/libemu">
      libemu
     </a>
-    <span>
-     &#9733 9, pushed 27 days ago
-    </span>
     - Shellcode emulation library, useful for shellcode detection.
+    <sup>
+     100 GitHub links in total 332 links, ★ 9, pushed 27 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 27 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/upa/ofpot">
      OFPot
     </a>
-    <span>
-     &#9733 2, pushed 1214 days ago
-    </span>
     - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
+    <sup>
+     100 GitHub links in total 332 links, ★ 2, pushed 1214 days ago
+    </sup>
+    <sup>
+     &#9733 2, pushed 1214 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/thinkst/opencanary">
      OpenCanary
     </a>
-    <span>
-     &#9733 109, pushed 50 days ago
-    </span>
     - Modular and decentralised honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 109, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 109, pushed 50 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 24, pushed 449 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 449 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -557,12 +683,15 @@
     <a href="https://github.com/miguelraulb/spamhat">
      SpamHAT
     </a>
-    <span>
-     &#9733 8, pushed 315 days ago
-    </span>
     - Spam Honeypot Tool
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 8, pushed 315 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 315 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -573,12 +702,15 @@
     <a href="https://github.com/pjlantz/Hale">
      Hale
     </a>
-    <span>
-     &#9733 56, pushed 1498 days ago
-    </span>
     - Botnet command & control monitor
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 56, pushed 1498 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 1498 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -641,12 +773,15 @@
     <a href="https://github.com/rubenespadas/DionaeaFR">
      DionaeaFR
     </a>
-    <span>
-     &#9733 27, pushed 504 days ago
-    </span>
     - Front Web to Dionaea low-interaction honeypot
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 27, pushed 504 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 504 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -696,12 +831,15 @@
     <a href="https://github.com/hbhzwj/imalse">
      imalse
     </a>
-    <span>
-     &#9733 2, pushed 875 days ago
-    </span>
     - Integrated MALware Simulator and Emulator
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 2, pushed 875 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 875 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -718,10 +856,13 @@
     <a href="https://github.com/threatstream/mhn">
      Modern Honey Network
     </a>
-    <span>
-     &#9733 741, pushed 3 days ago
-    </span>
     - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management
+    <sup>
+     100 GitHub links in total 332 links, ★ 741, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 741, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="http://sourceforge.net/projects/adhd/">
@@ -779,7 +920,7 @@
     <a href="https://code.google.com/p/dns-mole/">
      dnsMole
     </a>
-    -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts
+    -  analyse dns traffic, and to potentionaly detect botnet C&C; server and infected hosts
    </li>
   </ul>
  </li>
@@ -792,12 +933,15 @@
     <a href="https://github.com/knalli/honeypot-for-tcp-32764">
      Honeypot-32764
     </a>
-    <span>
-     &#9733 4, pushed 817 days ago
-    </span>
     - Honeypot for router backdoor (TCP 32764)
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 4, pushed 817 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 817 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -834,12 +978,15 @@
     <a href="https://github.com/johestephan/SendMeSpamIDS.py">
      SendMeSpamIDS.py
     </a>
-    <span>
-     &#9733 3, pushed 85 days ago
-    </span>
     Simple SMTP fetch all IDS and analyzer
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 3, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -863,12 +1010,15 @@
     <a href="https://github.com/honeynet/ghost-usb-honeypot">
      Ghost-usb
     </a>
-    <span>
-     &#9733 30, pushed 406 days ago
-    </span>
     -  honeypot for malware that propagates via USB storage devices
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 30, pushed 406 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 406 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -898,12 +1048,15 @@
     <a href="https://github.com/jusafing/pnaf">
      pnaf
     </a>
-    <span>
-     &#9733 7, pushed 272 days ago
-    </span>
     - Passive Network Audit Framework
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 7, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -940,21 +1093,27 @@ High-Interaction Honeypots
     <a href="https://github.com/hexgolems/schem">
      Hexgolems - Schem Debugger Frontend
     </a>
-    <span>
-     &#9733 127, pushed 174 days ago
-    </span>
     - A debugger frontend
    </li>
    <li>
     <a href="https://github.com/hexgolems/pint">
      Hexgolems - Pint Debugger Backend
     </a>
-    <span>
-     &#9733 27, pushed 909 days ago
-    </span>
     - A debugger backend and LUA wrapper for PIN
+    <sup>
+     100 GitHub links in total 332 links, ★ 27, pushed 909 days ago
+    </sup>
+    <sup>
+     &#9733 27, pushed 909 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 127, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -971,10 +1130,13 @@ High-Interaction Honeypots
     <a href="https://github.com/androguard/androguard">
      Androguard
     </a>
-    <span>
-     &#9733 905, pushed 42 days ago
-    </span>
     - Reverse engineering, Malware and goodware analysis of Android applications ... and more
+    <sup>
+     100 GitHub links in total 332 links, ★ 905, pushed 42 days ago
+    </sup>
+    <sup>
+     &#9733 905, pushed 42 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1037,13 +1199,16 @@ High-Interaction Honeypots
     <a href="https://github.com/provos/honeyd">
      Honeyd
     </a>
-    <span>
-     &#9733 1, pushed 416 days ago
-    </span>
     Also see
     <a href="#honeyd">
      more honeyd tools
     </a>
+    <sup>
+     100 GitHub links in total 332 links, ★ 1, pushed 417 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 417 days ago
+    </sup>
    </li>
    <li>
     <a href="http://glastopf.org/">
@@ -1055,10 +1220,13 @@ High-Interaction Honeypots
     <a href="https://github.com/jekil/UDPot">
      DNS Honeypot
     </a>
-    <span>
-     &#9733 12, pushed 777 days ago
-    </span>
     - Simple UDP honeypot scripts
+    <sup>
+     100 GitHub links in total 332 links, ★ 12, pushed 777 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 777 days ago
+    </sup>
    </li>
    <li>
     <a href="http://conpot.org/">
@@ -1100,10 +1268,13 @@ High-Interaction Honeypots
     <a href="https://github.com/AnguisCaptor/TelnetHoney">
      TelnetHoney
     </a>
-    <span>
-     &#9733 0, pushed 104 days ago
-    </span>
     - A simple telnet honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 0, pushed 104 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 104 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1116,12 +1287,15 @@ High-Interaction Honeypots
     <a href="https://github.com/nsmfoo/antivmdetection">
      Antivmdetect
     </a>
-    <span>
-     &#9733 33, pushed 29 days ago
-    </span>
     - Script to create templates to use with VirtualBox to make vm detection harder
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 33, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1200,12 +1374,15 @@ High-Interaction Honeypots
     <a href="https://github.com/buffer/pylibemu">
      Pylibemu
     </a>
-    <span>
-     &#9733 65, pushed 174 days ago
-    </span>
     - A Libemu Cython wrapper
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 65, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1216,9 +1393,6 @@ High-Interaction Honeypots
     <a href="https://github.com/shiva-spampot/shiva">
      Shiva
     </a>
-    <span>
-     &#9733 58, pushed 156 days ago
-    </span>
     - Spam Honeypot with Intelligent Virtual Analyzer
     <ul>
      <li>
@@ -1229,6 +1403,12 @@ High-Interaction Honeypots
     </ul>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 58, pushed 156 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 156 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1239,17 +1419,17 @@ High-Interaction Honeypots
     <a href="https://github.com/vavkamil/Glastopf-Analytics">
      Glastopf Analytics
     </a>
-    <span>
-     &#9733 15, pushed 141 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/ayrus/afterglow-cloud">
      Afterglow Cloud
     </a>
-    <span>
+    <sup>
+     100 GitHub links in total 332 links, ★ 14, pushed 1095 days ago
+    </sup>
+    <sup>
      &#9733 14, pushed 1095 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://afterglow.sourceforge.net/">
@@ -1257,6 +1437,12 @@ High-Interaction Honeypots
     </a>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 15, pushed 141 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 141 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1291,11 +1477,14 @@ High-Interaction Honeypots
     <a href="https://github.com/jbremer/vmcloak">
      VMCloak
     </a>
-    <span>
-     &#9733 104, pushed 7 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 104, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 104, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1381,16 +1570,25 @@ High-Interaction Honeypots
     <a href="https://github.com/yuchincheng/HpfeedsHoneyGraph">
      HpfeedsHoneyGraph
     </a>
-    <span>
-     &#9733 7, pushed 1175 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/hgascon/Acapulco4HNP">
      Acapulco
     </a>
+    <sup>
+     100 GitHub links in total 332 links, ★ 8, pushed 212 days ago
+    </sup>
+    <sup>
+     &#9733 8, pushed 212 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 7, pushed 1176 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 1176 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1413,9 +1611,6 @@ High-Interaction Honeypots
     <a href="https://github.com/shjalayeri/pwnypot">
      Pwnypot
     </a>
-    <span>
-     &#9733 12, pushed 896 days ago
-    </span>
    </li>
    <li>
     <a href="http://monkeyspider.sourceforge.net">
@@ -1426,9 +1621,12 @@ High-Interaction Honeypots
     <a href="https://github.com/CERT-Polska/HSN-Capture-HPC-NG">
      Capture-HPC-NG
     </a>
-    <span>
+    <sup>
+     100 GitHub links in total 332 links, ★ 7, pushed 1597 days ago
+    </sup>
+    <sup>
      &#9733 7, pushed 1597 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://wepawet.cs.ucsb.edu/about.php">
@@ -1459,17 +1657,23 @@ High-Interaction Honeypots
     <a href="https://github.com/honeynet/phoneyc">
      PhoneyC
     </a>
-    <span>
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 347 days ago
+    </sup>
+    <sup>
      &#9733 6, pushed 347 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/urule99/jsunpack-n">
      Jsunpack-n
     </a>
-    <span>
+    <sup>
+     100 GitHub links in total 332 links, ★ 38, pushed 398 days ago
+    </sup>
+    <sup>
      &#9733 38, pushed 398 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://projects.honeynet.org/honeyc">
@@ -1502,6 +1706,12 @@ High-Interaction Honeypots
     </a>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 12, pushed 896 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 896 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1512,11 +1722,14 @@ High-Interaction Honeypots
     <a href="https://github.com/oguzy/ovizart">
      ovizart
     </a>
-    <span>
-     &#9733 41, pushed 1107 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 41, pushed 1107 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 1107 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1549,9 +1762,12 @@ High-Interaction Honeypots
     <a href="https://github.com/mushorg/imhoneypot">
      IMHoneypot
     </a>
-    <span>
+    <sup>
+     100 GitHub links in total 332 links, ★ 8, pushed 42 days ago
+    </sup>
+    <sup>
      &#9733 8, pushed 42 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="http://www.all.net/dtk/dtk.html">
@@ -1569,11 +1785,14 @@ High-Interaction Honeypots
     <a href="https://github.com/jesparza/peepdf">
      peepdf
     </a>
-    <span>
-     &#9733 121, pushed 2 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 121, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 121, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1649,19 +1868,25 @@ High-Interaction Honeypots
     <a href="https://github.com/madirish/kojoney2">
      Kojoney2
     </a>
-    <span>
-     &#9733 17, pushed 483 days ago
-    </span>
     - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
+    <sup>
+     100 GitHub links in total 332 links, ★ 17, pushed 483 days ago
+    </sup>
+    <sup>
+     &#9733 17, pushed 483 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/micheloosterhof/cowrie">
      Cowrie
     </a>
-    <span>
-     &#9733 384, pushed 4 days ago
-    </span>
     - Cowrie SSH Honeypot (based on kippo)
+    <sup>
+     100 GitHub links in total 332 links, ★ 384, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 384, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kd5pbo/sshlowpot">
@@ -1679,10 +1904,13 @@ High-Interaction Honeypots
     <a href="https://github.com/xme/dshield-docker">
      DShield docker
     </a>
-    <span>
-     &#9733 2, pushed 50 days ago
-    </span>
     - Docker container running cowrie with DShield output enabled.
+    <sup>
+     100 GitHub links in total 332 links, ★ 2, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 2, pushed 50 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1736,11 +1964,14 @@ High-Interaction Honeypots
     <a href="https://github.com/CERT-Polska/hsn2-bundle">
      HoneySpider Network
     </a>
-    <span>
-     &#9733 13, pushed 4 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 13, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1829,11 +2060,14 @@ High-Interaction Honeypots
     <a href="https://github.com/tnich/honssh">
      HonSSH
     </a>
-    <span>
-     &#9733 50, pushed 89 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 50, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1901,10 +2135,13 @@ High-Interaction Honeypots
     <a href="https://github.com/jadb/honeypot">
      honeypot
     </a>
-    <span>
-     &#9733 0, pushed 101 days ago
-    </span>
     - The Project Honey Pot un-official PHP SDK
+    <sup>
+     100 GitHub links in total 332 links, ★ 0, pushed 102 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 102 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1940,11 +2177,14 @@ High-Interaction Honeypots
     <a href="https://github.com/andrewmichaelsmith/bluepot">
      Bluepot
     </a>
-    <span>
-     &#9733 7, pushed 97 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 7, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1967,9 +2207,6 @@ High-Interaction Honeypots
     <a href="https://github.com/andrewmichaelsmith/manuka">
      Manuka
     </a>
-    <span>
-     &#9733 6, pushed 409 days ago
-    </span>
    </li>
    <li>
     <a href="https://hub.docker.com/r/honeynet/thug/">
@@ -1980,21 +2217,33 @@ High-Interaction Honeypots
     <a href="https://github.com/mrschyte/dockerpot">
      Dockerpot
     </a>
-    <span>
-     &#9733 73, pushed 364 days ago
-    </span>
     A docker based honeypot.
+    <sup>
+     100 GitHub links in total 332 links, ★ 73, pushed 364 days ago
+    </sup>
+    <sup>
+     &#9733 73, pushed 364 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sreinhardt/Docker-Honeynet">
      Docker honeynet
     </a>
-    <span>
-     &#9733 6, pushed 499 days ago
-    </span>
     Several Honeynet tools set up for Docker containers
+    <sup>
+     100 GitHub links in total 332 links, ★ 6, pushed 499 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 499 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 6, pushed 409 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 409 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2053,11 +2302,14 @@ High-Interaction Honeypots
     <a href="https://github.com/schmalle/mysqlpot">
      mysqlpot
     </a>
-    <span>
-     &#9733 7, pushed 1297 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 7, pushed 1297 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 1297 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2080,12 +2332,15 @@ High-Interaction Honeypots
     <a href="https://github.com/omererdem/honeything">
      HoneyThing
     </a>
-    <span>
-     &#9733 24, pushed 48 days ago
-    </span>
     - TR-069 Honeypot
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 24, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2096,12 +2351,15 @@ High-Interaction Honeypots
     <a href="https://github.com/secureworks/dcept">
      dcept
     </a>
-    <span>
-     &#9733 302, pushed 8 days ago
-    </span>
     - A tool for deploying and detecting use of Active Directory honeytokens
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 302, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 302, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2209,10 +2467,13 @@ the honeyd daemon and generate configuration files
     <a href="https://github.com/m4rco-/dorothy2">
      dorothy2
     </a>
-    <span>
-     &#9733 148, pushed 471 days ago
-    </span>
     - A malware/botnet analysis framework written in Ruby
+    <sup>
+     100 GitHub links in total 332 links, ★ 148, pushed 471 days ago
+    </sup>
+    <sup>
+     &#9733 148, pushed 471 days ago
+    </sup>
    </li>
    <li>
     <a href="https://help.comodo.com/topic-72-1-451-4768-.html">
@@ -2268,53 +2529,68 @@ the honeyd daemon and generate configuration files
     <a href="https://github.com/aplura/Tango">
      Tango
     </a>
-    <span>
-     &#9733 173, pushed 40 days ago
-    </span>
     - Honeypot Intelligence with Splunk
    </li>
    <li>
     <a href="https://github.com/jedie/django-kippo">
      Django-kippo
     </a>
-    <span>
-     &#9733 10, pushed 1394 days ago
-    </span>
     - Django App for kippo SSH Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 10, pushed 1394 days ago
+    </sup>
+    <sup>
+     &#9733 10, pushed 1394 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/GovCERT-CZ/Wordpot-Frontend">
      Wordpot-Frontend
     </a>
-    <span>
-     &#9733 0, pushed 145 days ago
-    </span>
     - a full featured script to visualize statistics from a Wordpot honeypot
 -
     <a href="https://github.com/GovCERT-CZ/Shockpot-Frontend">
      Shockpot-Frontend
     </a>
     - a full featured script to visualize statistics from a Shockpot honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 0, pushed 145 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 145 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Joss-Steward/honeypotDisplay">
      honeypotDisplay
     </a>
-    <span>
-     &#9733 1, pushed 88 days ago
-    </span>
     - A flask website which displays data I've gathered with my SSH Honeypot
+    <sup>
+     100 GitHub links in total 332 links, ★ 1, pushed 88 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 88 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/schmalle/honeyalarmg2">
      honeyalarmg2
     </a>
-    <span>
-     &#9733 2, pushed 56 days ago
-    </span>
     - Simplified UI for showing honeypot alarms
+    <sup>
+     100 GitHub links in total 332 links, ★ 2, pushed 56 days ago
+    </sup>
+    <sup>
+     &#9733 2, pushed 56 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 173, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 173, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2325,21 +2601,27 @@ the honeyd daemon and generate configuration files
     <a href="https://github.com/fw42/honeymap">
      HoneyMap
     </a>
-    <span>
-     &#9733 137, pushed 30 days ago
-    </span>
     - Real-time websocket stream of GPS events on a fancy SVG world map
    </li>
    <li>
     <a href="https://github.com/SneakersInc/HoneyMalt">
      HoneyMalt
     </a>
-    <span>
-     &#9733 9, pushed 505 days ago
-    </span>
     - Maltego tranforms for mapping Honeypot systems
+    <sup>
+     100 GitHub links in total 332 links, ★ 9, pushed 505 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 505 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   100 GitHub links in total 332 links, ★ 137, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 137, pushed 30 days ago
+  </sup>
  </li>
 </ul>
 <h2>

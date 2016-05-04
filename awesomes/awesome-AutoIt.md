@@ -278,10 +278,10 @@
   <a href="https://github.com/ohtejera/AutoItMonkey">
    AutoItMonkey
   </a>
-  <span>
-   &#9733 5, pushed 287 days ago
-  </span>
   - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+  <sup>
+   &#9733 5, pushed 288 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1487,10 +1487,10 @@ Printer.au3 - Printing RichEdit in the background.
   <a href="https://github.com/J2TeaM/AutoIt-Imgur-UDF">
    Imgur
   </a>
-  <span>
-   &#9733 2, pushed 289 days ago
-  </span>
   - An AutoIt UDF to help you upload images using Imgur API.
+  <sup>
+   &#9733 2, pushed 289 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.autoitscript.com/forum/index.php?showtopic=70675">
@@ -1872,19 +1872,19 @@ Printer.au3 - Printing RichEdit in the background.
   <a href="https://github.com/AutoItMicro/AutoItAppveyor">
    AutoItAppveyor (by KyleChamberlin)
   </a>
-  <span>
-   &#9733 0, pushed 624 days ago
-  </span>
   - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
+  <sup>
+   &#9733 0, pushed 624 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/AutoItMicro/MicroUnitTestingFramework">
    Micro Unit Testing Framework (by KyleChamberlin)
   </a>
-  <span>
-   &#9733 5, pushed 96 days ago
-  </span>
   - Micro is a xUnit style testing framework design for use with AutoIt.
+  <sup>
+   &#9733 5, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2155,82 +2155,82 @@ Printer.au3 - Printing RichEdit in the background.
   <a href="https://github.com/sindresorhus/awesome">
    awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   by @sindresorhus
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bradoyler/awesome-all">
    awesome-all
   </a>
-  <span>
-   &#9733 63, pushed 189 days ago
-  </span>
   by @bradoyler
+  <sup>
+   &#9733 63, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emijrp/awesome-awesome">
    awesome-awesome
   </a>
-  <span>
-   &#9733 537, pushed 118 days ago
-  </span>
   by @emijrp
+  <sup>
+   &#9733 537, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/erichs/awesome-awesome">
    awesome-awesome
   </a>
-  <span>
-   &#9733 68, pushed 176 days ago
-  </span>
   by @erichs
+  <sup>
+   &#9733 68, pushed 176 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oyvindrobertsen/awesome-awesome">
    awesome-awesome
   </a>
-  <span>
-   &#9733 45, pushed 179 days ago
-  </span>
   by @oyvindrobertsen
+  <sup>
+   &#9733 45, pushed 179 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   by @bayandin
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fleveque/awesome-awesomes">
    awesome-awesomes
   </a>
-  <span>
-   &#9733 384, pushed 13 days ago
-  </span>
   by @fleveque
+  <sup>
+   &#9733 384, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/flyhigher139/awesome-collection">
    awesome-collection
   </a>
-  <span>
-   &#9733 88, pushed 246 days ago
-  </span>
   by @flyhigher139
+  <sup>
+   &#9733 88, pushed 247 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <span>
-   &#9733 3765, pushed 2 days ago
-  </span>
   by @jnv
+  <sup>
+   &#9733 3765, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <p>

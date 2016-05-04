@@ -80,10 +80,13 @@
   <a href="https://github.com/richardkiss/pycoin">
    Pycoin
   </a>
-  <span>
-   &#9733 302, pushed 4 days ago
-  </span>
   Python-based Bitcoin and alt-coin utility library.
+  <sup>
+   31 GitHub links in total 74 links, ★ 302, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 302, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spesmilo/sx/">
@@ -95,28 +98,37 @@
   <a href="https://github.com/libbitcoin/libbitcoin-explorer">
    bx
   </a>
-  <span>
-   &#9733 60, pushed 12 days ago
-  </span>
   Bitcoin Command Line Tool
+  <sup>
+   31 GitHub links in total 74 links, ★ 60, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tsileo/txwatcher">
    txwatcher
   </a>
-  <span>
-   &#9733 19, pushed 233 days ago
-  </span>
   A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+  <sup>
+   31 GitHub links in total 74 links, ★ 19, pushed 233 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 233 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/prettymuchbryce/hellobitcoin">
    hellobitcoin
   </a>
-  <span>
-   &#9733 155, pushed 521 days ago
-  </span>
   A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+  <sup>
+   31 GitHub links in total 74 links, ★ 155, pushed 521 days ago
+  </sup>
+  <sup>
+   &#9733 155, pushed 522 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.yogh.io/#mine:last">
@@ -242,17 +254,23 @@
   <a href="https://github.com/JornC/bitcoin-transaction-explorer">
    Bitcoin Transaction Explorer
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 22, pushed 54 days ago
+  </sup>
+  <sup>
    &#9733 22, pushed 54 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitcoin-blockexplorer/old-blockexplorer-php">
    Blockexplorer.com
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 137, pushed 246 days ago
+  </sup>
+  <sup>
    &#9733 137, pushed 246 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://www.smartbit.com.au">
@@ -268,41 +286,56 @@
   <a href="https://github.com/cryptocoinjs/awesome-cryptocoinjs">
    Awesome CryptoCoinJS
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 2, pushed 76 days ago
+  </sup>
+  <sup>
    &#9733 2, pushed 76 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitpay/bitcore-lib">
    Bitcore Library
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 41, pushed 11 days ago
+  </sup>
+  <sup>
    &#9733 41, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitcoinjs/bitcoinjs-lib">
    Bitcoinjs-lib
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 1057, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 1057, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cryptocoinjs/cryptocoin">
    Cryptocoin
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 63, pushed 736 days ago
+  </sup>
+  <sup>
    &#9733 63, pushed 736 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/blocktrail/blocktrail-sdk-nodejs">
    BlockTrail SDK NodeJS
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 13, pushed 47 days ago
+  </sup>
+  <sup>
    &#9733 13, pushed 47 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>
@@ -313,17 +346,23 @@
   <a href="https://github.com/coinspark/php-OP_RETURN">
    PHP-OP_RETURN
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 29, pushed 61 days ago
+  </sup>
+  <sup>
    &#9733 29, pushed 61 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/blocktrail/blocktrail-sdk-php">
    BlockTrail PHP SDK
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 9, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 9, pushed 5 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>
@@ -334,9 +373,12 @@
   <a href="https://github.com/lian/bitcoin-ruby">
    Bitcoin-ruby
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 567, pushed 39 days ago
+  </sup>
+  <sup>
    &#9733 567, pushed 39 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>
@@ -347,18 +389,24 @@
   <a href="https://github.com/blocktrail/blocktrail-sdk-python">
    BlockTrail SDK Python
   </a>
-  <span>
+  <sup>
+   31 GitHub links in total 74 links, ★ 9, pushed 222 days ago
+  </sup>
+  <sup>
    &#9733 9, pushed 222 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/F483/btctxstore">
    btctxstore
   </a>
-  <span>
-   &#9733 3, pushed 128 days ago
-  </span>
   simple library to store/retrieve information in bitcoin transactions using OP_RETURN
+  <sup>
+   31 GitHub links in total 74 links, ★ 3, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 128 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -379,28 +427,37 @@
   <a href="https://github.com/MetacoSA/NBitcoin">
    NBitcoin
   </a>
-  <span>
-   &#9733 197, pushed 4 days ago
-  </span>
   Comprehensive Bitcoin library for the .NET framework.
+  <sup>
+   31 GitHub links in total 74 links, ★ 197, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 197, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GeorgeKimionis/BitcoinLib">
    BitcoinLib
   </a>
-  <span>
-   &#9733 102, pushed 128 days ago
-  </span>
   The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+  <sup>
+   31 GitHub links in total 74 links, ★ 102, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 102, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MetacoSA/QBitNinja">
    QBitNinja
   </a>
-  <span>
-   &#9733 2, pushed 6 days ago
-  </span>
   An Open Source and powerful blockchain API
+  <sup>
+   31 GitHub links in total 74 links, ★ 2, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -448,37 +505,49 @@
   <a href="https://github.com/ladimolnar/BitcoinDatabaseGenerator">
    BitcoinDatabaseGenerator
   </a>
-  <span>
-   &#9733 12, pushed 59 days ago
-  </span>
   A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
+  <sup>
+   31 GitHub links in total 74 links, ★ 12, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mcdee/blockparser">
    Blockparser+SQL
   </a>
-  <span>
-   &#9733 30, pushed 945 days ago
-  </span>
   Fast, quick and dirty bitcoin blockchain parser
+  <sup>
+   31 GitHub links in total 74 links, ★ 30, pushed 945 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 945 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitcoin-abe/bitcoin-abe">
    BitcoinABE
   </a>
-  <span>
-   &#9733 440, pushed 44 days ago
-  </span>
   Abe: block browser for Bitcoin and similar currencies
+  <sup>
+   31 GitHub links in total 74 links, ★ 440, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 440, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MetacoSA/NBitcoin.Indexer">
    NBitcoin.Indexer
   </a>
-  <span>
-   &#9733 10, pushed 6 days ago
-  </span>
   Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+  <sup>
+   31 GitHub links in total 74 links, ★ 10, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -489,19 +558,25 @@
   <a href="https://github.com/bitcoinjs/bitcoinjs-server">
    Bitcoinjs-server
   </a>
-  <span>
-   &#9733 361, pushed 1088 days ago
-  </span>
   Bitcoin network node in JavaScript using Node.js / LevelDB
+  <sup>
+   31 GitHub links in total 74 links, ★ 361, pushed 1088 days ago
+  </sup>
+  <sup>
+   &#9733 361, pushed 1088 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mhanne/bitcoin-ruby-node">
    Bitcoin-ruby-node
   </a>
-  <span>
-   &#9733 13, pushed 10 days ago
-  </span>
   bitcoin node based on bitcoin-ruby-blockchain
+  <sup>
+   31 GitHub links in total 74 links, ★ 13, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://toshi.io/">
@@ -513,37 +588,49 @@
   <a href="https://github.com/ryanxcharles/fullnode">
    Fullnode
   </a>
-  <span>
-   &#9733 2, pushed 40 days ago
-  </span>
   Javascript implementation of bitcoin
+  <sup>
+   31 GitHub links in total 74 links, ★ 2, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitpay/insight-api">
    Insight API
   </a>
-  <span>
-   &#9733 191, pushed 8 days ago
-  </span>
   A bitcoin blockchain API for web wallets
+  <sup>
+   31 GitHub links in total 74 links, ★ 191, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 191, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitpay/bitcoind.js">
    Bitcoind.JS
   </a>
-  <span>
-   &#9733 41, pushed 277 days ago
-  </span>
   bitcoind linked to node.js by BitPay
+  <sup>
+   31 GitHub links in total 74 links, ★ 41, pushed 277 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 277 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitpay/bitcore">
    Bitcore
   </a>
-  <span>
-   &#9733 1713, pushed 5 days ago
-  </span>
   Formerly just a Nodejs library, now a full node
+  <sup>
+   31 GitHub links in total 74 links, ★ 1713, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1713, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h1>

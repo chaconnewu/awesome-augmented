@@ -29,10 +29,13 @@
   <a href="https://github.com/mitchellh/vagrant">
    GitHub repo
   </a>
-  <span>
-   &#9733 11932, pushed 3 days ago
-  </span>
   - source code, issues discussion and collaboration.
+  <sup>
+   14 GitHub links in total 46 links, ★ 11932, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 11932, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.ottoproject.io/">
@@ -120,19 +123,25 @@
   <a href="https://github.com/dotless-de/vagrant-vbguest">
    vagrant-vbguest
   </a>
-  <span>
-   &#9733 1705, pushed 39 days ago
-  </span>
   - autoupdate VirtualBox guest additions (according to VB version).
+  <sup>
+   14 GitHub links in total 46 links, ★ 1705, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 1705, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cogitatio/vagrant-hostsupdater">
    vagrant-hostsupdater
   </a>
-  <span>
-   &#9733 717, pushed 4 days ago
-  </span>
   - adds an entry to your /etc/hosts file on the host system.
+  <sup>
+   14 GitHub links in total 46 links, ★ 717, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 717, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://fgrehm.viewdocs.io/vagrant-cachier/">
@@ -144,28 +153,37 @@
   <a href="https://github.com/phinze/vagrant-host-shell">
    vagrant-host-shell
   </a>
-  <span>
-   &#9733 76, pushed 160 days ago
-  </span>
   - a vagrant provisioner to run commands on the host when a VM boots.
+  <sup>
+   14 GitHub links in total 46 links, ★ 76, pushed 161 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 161 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jaugustin/vagrant-ansible-local">
    vagrant-ansible-local
   </a>
-  <span>
-   &#9733 57, pushed 460 days ago
-  </span>
   allow provisioning your VM with ansible playbooks directly from the guest VM.
+  <sup>
+   14 GitHub links in total 46 links, ★ 57, pushed 460 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 460 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jedi4ever/sahara">
    sahara
   </a>
-  <span>
-   &#9733 663, pushed 177 days ago
-  </span>
   - easy manage VM state (commit/rollback while experimenting with software stack).
+  <sup>
+   14 GitHub links in total 46 links, ★ 663, pushed 177 days ago
+  </sup>
+  <sup>
+   &#9733 663, pushed 177 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -182,10 +200,13 @@
   <a href="https://github.com/jedi4ever/veewee">
    Veewee
   </a>
-  <span>
-   &#9733 3909, pushed 4 days ago
-  </span>
   - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
+  <sup>
+   14 GitHub links in total 46 links, ★ 3909, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3909, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant">
@@ -336,28 +357,37 @@ for any IP address.
   <a href="https://github.com/vagrantpress/vagrantpress">
    Vagrantpress
   </a>
-  <span>
-   &#9733 729, pushed 60 days ago
-  </span>
   - development environment for creating and modifying WordPress sites.
+  <sup>
+   14 GitHub links in total 46 links, ★ 729, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 729, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Varying-Vagrant-Vagrants/VVV">
    Varying Vagrant Vagrants
   </a>
-  <span>
-   &#9733 3015, pushed 4 days ago
-  </span>
   - An open source Vagrant configuration focused on WordPress development.
+  <sup>
+   14 GitHub links in total 46 links, ★ 3015, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3015, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joomlatools/joomlatools-vagrant">
    Joomla-Vagrant
   </a>
-  <span>
-   &#9733 106, pushed 6 days ago
-  </span>
   .
+  <sup>
+   14 GitHub links in total 46 links, ★ 106, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.drupal.org/project/vdd">
@@ -375,28 +405,37 @@ for any IP address.
   <a href="https://github.com/iJackUA/try-yii2">
    Try Yii2
   </a>
-  <span>
-   &#9733 39, pushed 140 days ago
-  </span>
   - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
+  <sup>
+   14 GitHub links in total 46 links, ★ 39, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bryannielsen/Laravel4-Vagrant">
    Laravel4-Vagrant
   </a>
-  <span>
-   &#9733 532, pushed 349 days ago
-  </span>
   - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
+  <sup>
+   14 GitHub links in total 46 links, ★ 532, pushed 349 days ago
+  </sup>
+  <sup>
+   &#9733 532, pushed 349 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/openstack-ansible/openstack-ansible">
    OpenStack on Ansible with Vagrant
   </a>
-  <span>
-   &#9733 203, pushed 189 days ago
-  </span>
   .
+  <sup>
+   14 GitHub links in total 46 links, ★ 203, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 203, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://laravel.com/docs/master/homestead">

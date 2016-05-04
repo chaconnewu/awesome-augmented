@@ -72,55 +72,73 @@
   <a href="https://github.com/sindresorhus/sublime-ava">
    sublime-ava
   </a>
-  <span>
-   &#9733 26, pushed 28 days ago
-  </span>
   - Snippets for AVA tests.
+  <sup>
+   15 GitHub links in total 26 links, ★ 26, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/atom-ava">
    atom-ava
   </a>
-  <span>
-   &#9733 47, pushed 1 days ago
-  </span>
   - Snippets for AVA tests.
+  <sup>
+   15 GitHub links in total 26 links, ★ 47, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/samverschueren/vscode-ava">
    vscode-ava
   </a>
-  <span>
-   &#9733 7, pushed 25 days ago
-  </span>
   - Snippets for AVA tests.
+  <sup>
+   15 GitHub links in total 26 links, ★ 7, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/eslint-plugin-ava">
    eslint-plugin-ava
   </a>
-  <span>
-   &#9733 52, pushed 2 days ago
-  </span>
   - Lint rules for AVA tests.
+  <sup>
+   15 GitHub links in total 26 links, ★ 52, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-ava">
    gulp-ava
   </a>
-  <span>
-   &#9733 32, pushed 26 days ago
-  </span>
   - Run tests with gulp.
+  <sup>
+   15 GitHub links in total 26 links, ★ 32, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/grunt-ava">
    grunt-ava
   </a>
-  <span>
-   &#9733 4, pushed 25 days ago
-  </span>
   - Run tests with grunt.
+  <sup>
+   15 GitHub links in total 26 links, ★ 4, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pine613/fly-ava">
@@ -132,55 +150,73 @@
   <a href="https://github.com/start-runner/ava">
    start-ava
   </a>
-  <span>
-   &#9733 3, pushed 36 days ago
-  </span>
   - Run tests with start.
+  <sup>
+   15 GitHub links in total 26 links, ★ 3, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/unlight/sigh-ava">
    sigh-ava
   </a>
-  <span>
-   &#9733 0, pushed 127 days ago
-  </span>
   - Run tests with sigh.
+  <sup>
+   15 GitHub links in total 26 links, ★ 0, pushed 127 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 127 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sotojuan/redux-ava">
    redux-ava
   </a>
-  <span>
-   &#9733 64, pushed 15 days ago
-  </span>
   - Test helpers for Redux.
+  <sup>
+   15 GitHub links in total 26 links, ★ 64, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/conorhastings/redux-test-recorder">
    redux-test-recorder
   </a>
-  <span>
-   &#9733 169, pushed 2 days ago
-  </span>
   - Generate AVA tests for Redux reducers in a React app.
+  <sup>
+   15 GitHub links in total 26 links, ★ 169, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 169, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamestalmage/ava-codemods">
    ava-codemods
   </a>
-  <span>
-   &#9733 22, pushed 23 days ago
-  </span>
   - Codemods for AVA that simplifies upgrading to newer versions.
+  <sup>
+   15 GitHub links in total 26 links, ★ 22, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sheerun/ava-spec">
    ava-spec
   </a>
-  <span>
-   &#9733 47, pushed 7 days ago
-  </span>
   - Drop-in BDD helpers.
+  <sup>
+   15 GitHub links in total 26 links, ★ 47, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinsawicki/spectron#with-ava">
@@ -197,9 +233,12 @@
   <a href="https://github.com/kentcdodds/react-ava-workshop">
    React + AVA = :heart:
   </a>
-  <span>
-   &#9733 83, pushed 4 days ago
-  </span>
+  <sup>
+   15 GitHub links in total 26 links, ★ 83, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>

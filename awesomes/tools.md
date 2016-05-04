@@ -357,9 +357,12 @@
   <a href="https://github.com/mrmrs/colors">
    colors
   </a>
-  <span>
+  <sup>
+   2 GitHub links in total 88 links, ★ 6715, pushed 65 days ago
+  </sup>
+  <sup>
    &#9733 6715, pushed 65 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm">
@@ -430,9 +433,12 @@
   <a href="https://github.com/lvwzhen/iconpark">
    iconpark
   </a>
-  <span>
-   &#9733 291, pushed 3 days ago
-  </span>
+  <sup>
+   2 GitHub links in total 88 links, ★ 291, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 291, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.fontsquirrel.com/">

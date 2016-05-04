@@ -274,37 +274,46 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/azerupi/mdBook">
    azerupi/mdBook
   </a>
-  <span>
-   &#9733 168, pushed 6 days ago
-  </span>
   — a command line utility to create books from markdown files
   <a href="https://travis-ci.org/azerupi/mdBook">
    <img src="https://travis-ci.org/azerupi/mdBook.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 168, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 168, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bluejekyll/trust-dns">
    bluejekyll/trust-dns
   </a>
-  <span>
-   &#9733 95, pushed 3 days ago
-  </span>
   — a DNS-server
   <a href="https://travis-ci.org/bluejekyll/trust-dns">
    <img src="https://travis-ci.org/bluejekyll/trust-dns.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 95, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BurntSushi/xsv">
    BurntSushi/xsv
   </a>
-  <span>
-   &#9733 622, pushed 5 days ago
-  </span>
   — a fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
   <a href="https://travis-ci.org/BurntSushi/xsv">
    <img src="https://travis-ci.org/BurntSushi/xsv.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 622, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 622, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Emulators
@@ -313,47 +322,53 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/simias/rustation">
      simias/rustation
     </a>
-    <span>
-     &#9733 233, pushed 4 days ago
-    </span>
     — a Playstation emulator
     <a href="https://travis-ci.org/simias/rustation">
      <img src="https://travis-ci.org/simias/rustation.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 233, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gchp/iota">
    gchp/iota
   </a>
-  <span>
-   &#9733 808, pushed 15 days ago
-  </span>
   — a simple text editor
   <a href="https://travis-ci.org/gchp/iota">
    <img src="https://travis-ci.org/gchp/iota.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 808, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 808, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dlecan/generic-dns-update">
    dlecan/generic-dns-update
   </a>
-  <span>
-   &#9733 1, pushed 3 days ago
-  </span>
   — a tool to update DNS zonefiles with your IP address
   <a href="https://travis-ci.org/dlecan/generic-dns-update">
    <img src="https://travis-ci.org/dlecan/generic-dns-update.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 1, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/snowplow/factotum">
    Factotum
   </a>
-  <span>
-   &#9733 22, pushed 8 days ago
-  </span>
   -
   <a href="http://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/">
    A system to programmatically run data pipelines
@@ -361,45 +376,63 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/snowplow/factotum">
    <img src="https://travis-ci.org/snowplow/factotum.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 22, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fractalide/fractalide">
    Fractalide
   </a>
-  <span>
-   &#9733 24, pushed 42 days ago
-  </span>
   — Flow-based Programming environment.
+  <sup>
+   243 GitHub links in total 408 links, ★ 24, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/imjacobclark/Herd">
    imjacobclark/Herd
   </a>
-  <span>
-   &#9733 52, pushed 200 days ago
-  </span>
   — an experimental HTTP load testing application
+  <sup>
+   243 GitHub links in total 408 links, ★ 52, pushed 200 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 200 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jedisct1/flowgger">
    jedisct1/flowgger
   </a>
-  <span>
-   &#9733 104, pushed 25 days ago
-  </span>
   — a fast, simple and lightweight data collector
+  <sup>
+   243 GitHub links in total 408 links, ★ 104, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 104, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kbknapp/docli-rs">
    kbknapp/docli
   </a>
-  <span>
-   &#9733 22, pushed 54 days ago
-  </span>
   — a command line utility for managing DigitalOcean infrastructure
   <a href="https://travis-ci.org/kbknapp/docli-rs">
    <img src="https://travis-ci.org/kbknapp/docli-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 22, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="http://maidsafe.net/">
@@ -411,34 +444,43 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/qmx/limonite">
    qmx/limonite
   </a>
-  <span>
-   &#9733 7, pushed 85 days ago
-  </span>
   — static blog/website generator
   <a href="https://travis-ci.org/qmx/limonite">
    <img src="https://travis-ci.org/qmx/limonite.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 7, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seppo0010/rsedis">
    seppo0010/rsedis
   </a>
-  <span>
-   &#9733 952, pushed 191 days ago
-  </span>
   — a Redis reimplementation
   <a href="https://travis-ci.org/seppo0010/rsedis">
    <img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 952, pushed 191 days ago
+  </sup>
+  <sup>
+   &#9733 952, pushed 191 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/servo/servo">
    Servo
   </a>
-  <span>
-   &#9733 6619, pushed 1 days ago
-  </span>
   — a prototype web browser engine
+  <sup>
+   243 GitHub links in total 408 links, ★ 6619, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6619, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Virtualization
@@ -447,23 +489,23 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/tailhook/vagga">
      tailhook/vagga
     </a>
-    <span>
-     &#9733 785, pushed 2 days ago
-    </span>
     — a containerization tool without daemons
     <a href="https://travis-ci.org/tailhook/vagga">
      <img src="https://travis-ci.org/tailhook/vagga.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 785, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 785, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cristianoliveira/funzzy">
    cristianoliveira/funzzy
   </a>
-  <span>
-   &#9733 16, pushed 8 days ago
-  </span>
   — a configurable watcher inspired in
   <a href="http://entrproject.org/">
    entr
@@ -471,15 +513,24 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/cristianoliveira/funzzy">
    <img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 16, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/xi-editor">
    xi-editor
   </a>
-  <span>
-   &#9733 3218, pushed 1 days ago
-  </span>
   - A modern editor with a backend written in Rust.
+  <sup>
+   243 GitHub links in total 408 links, ★ 3218, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3218, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -497,43 +548,55 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/lifthrasiir/angolmois-rust">
    lifthrasiir/angolmois-rust
   </a>
-  <span>
-   &#9733 63, pushed 288 days ago
-  </span>
   — a minimalistic music video game which supports the BMS format
   <a href="https://travis-ci.org/lifthrasiir/angolmois-rust">
    <img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 63, pushed 288 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 288 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/swatteau/sokoban-rs">
    swatteau/sokoban-rs
   </a>
-  <span>
-   &#9733 56, pushed 16 days ago
-  </span>
   — a Sokoban implementation
+  <sup>
+   243 GitHub links in total 408 links, ★ 56, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ozkriff/zoc">
    Zone of Control
   </a>
-  <span>
-   &#9733 48, pushed 41 days ago
-  </span>
   — a turn-based hexagonal strategy game
   <a href="https://travis-ci.org/ozkriff/zoc">
    <img src="https://travis-ci.org/ozkriff/zoc.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 48, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dpc/rhex">
    rhex
   </a>
-  <span>
-   &#9733 44, pushed 4 days ago
-  </span>
   — hexagonal ascii roguelike
+  <sup>
+   243 GitHub links in total 408 links, ★ 44, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -549,25 +612,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/redox-os/redox">
    redox-os/redox
   </a>
-  <span>
-   &#9733 4010, pushed 2 days ago
-  </span>
   —
   <a href="https://travis-ci.org/redox-os/redox">
    <img src="https://travis-ci.org/redox-os/redox.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 4010, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4010, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thepowersgang/rust_os">
    thepowersgang/rust_os
   </a>
-  <span>
-   &#9733 153, pushed 8 days ago
-  </span>
   —
   <a href="https://travis-ci.org/thepowersgang/rust_os">
    <img src="https://travis-ci.org/thepowersgang/rust_os.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 153, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 153, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -578,58 +647,73 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/Aaronepower/tokei">
    Aaronepower/tokei
   </a>
-  <span>
-   &#9733 48, pushed 2 days ago
-  </span>
   — counts the lines of code
   <a href="https://travis-ci.org/Aaronepower/tokei">
    <img src="https://img.shields.io/travis/Aaronepower/tokei.svg"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 48, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buster/rrun">
    buster/rrun
   </a>
-  <span>
-   &#9733 28, pushed 30 days ago
-  </span>
   — a command launcher for Linux, similar to gmrun
   <a href="https://travis-ci.org/buster/rrun">
    <img src="https://travis-ci.org/buster/rrun.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 28, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ogham/exa">
    ogham/exa
   </a>
-  <span>
-   &#9733 694, pushed 1 days ago
-  </span>
   — a replacement for 'ls' written in Rust
   <a href="https://travis-ci.org/ogham/exa">
    <img src="https://travis-ci.org/ogham/exa.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 694, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 694, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mmstick/systemd-manager">
    mmstick/systemd-manager
   </a>
-  <span>
-   &#9733 16, pushed 18 days ago
-  </span>
   -- a systemd service manager written in Rust using GTK-rs.
+  <sup>
+   243 GitHub links in total 408 links, ★ 16, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uutils/coreutils">
    uutils/coreutils
   </a>
-  <span>
-   &#9733 2813, pushed 2 days ago
-  </span>
   — a cross-platform Rust rewrite of the GNU coreutils
   <a href="https://travis-ci.org/uutils/coreutils">
    <img src="https://travis-ci.org/uutils/coreutils.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 2813, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2813, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -640,21 +724,21 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/Manishearth/rust-clippy">
    Clippy
   </a>
-  <span>
-   &#9733 619, pushed 2 days ago
-  </span>
   — Rust lints
   <a href="https://travis-ci.org/Manishearth/rust-clippy">
    <img src="https://travis-ci.org/Manishearth/rust-clippy.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 619, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 619, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clog-tool/clog-cli">
    clog-tool/clog-cli
   </a>
-  <span>
-   &#9733 195, pushed 28 days ago
-  </span>
   — generates a changelog from git metadata (
   <a href="http://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html">
    conventional changelog
@@ -663,27 +747,39 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/clog-tool/clog-cli">
    <img src="https://travis-ci.org/clog-tool/clog-cli.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 195, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 195, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dan-t/rusty-tags">
    dan-t/rusty-tags
   </a>
-  <span>
-   &#9733 73, pushed 18 days ago
-  </span>
   — create ctags/etags for a cargo project and all of its dependencies
   <a href="https://travis-ci.org/dan-t/rusty-tags">
    <img src="https://travis-ci.org/dan-t/rusty-tags.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 73, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frewsxcv/crate-deps">
    frewsxcv/crate-deps
   </a>
-  <span>
-   &#9733 12, pushed 184 days ago
-  </span>
   — generates images of dependency graphs for crates hosted on crates.io
+  <sup>
+   243 GitHub links in total 408 links, ★ 12, pushed 184 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 184 days ago
+  </sup>
  </li>
  <li>
   Multirust — manage multiple Rust installations
@@ -692,9 +788,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/brson/multirust">
      brson/multirust
     </a>
-    <span>
-     &#9733 692, pushed 18 days ago
-    </span>
     — the original multirust as shell scripts
     <a href="https://travis-ci.org/brson/multirust">
      <img src="https://travis-ci.org/brson/multirust.svg?branch=master"/>
@@ -710,30 +803,42 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 692, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 692, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phildawes/racer">
    Racer
   </a>
-  <span>
-   &#9733 1498, pushed 6 days ago
-  </span>
   — code completion for Rust
   <a href="https://travis-ci.org/phildawes/racer">
    <img src="https://travis-ci.org/phildawes/racer.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 1498, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1498, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rust-lang-nursery/rustfmt">
    rustfmt
   </a>
-  <span>
-   &#9733 692, pushed 1 days ago
-  </span>
   — a Rust code formatter
   <a href="https://travis-ci.org/rust-lang-nursery/rustfmt">
    <img src="https://travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 692, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 692, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -773,15 +878,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/japaric/rust-cross">
      japaric/rust-cross
     </a>
-    <span>
-     &#9733 232, pushed 3 days ago
-    </span>
     — everything you need to know about cross compiling Rust programs
     <a href="https://travis-ci.org/japaric/rust-cross">
      <img src="https://travis-ci.org/japaric/rust-cross.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 232, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 232, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Raspberry Pi
@@ -790,12 +898,15 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Ogeon/rust-on-raspberry-pi">
      Ogeon/rust-on-raspberry-pi
     </a>
-    <span>
-     &#9733 155, pushed 18 days ago
-    </span>
     — instructions for how to cross compile Rust projects for the Raspberry Pi .
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 155, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 155, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -820,9 +931,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/crabtw/rust-bindgen">
      crabtw/rust-bindgen
     </a>
-    <span>
-     &#9733 488, pushed 7 days ago
-    </span>
     — a Rust bindings generator
     <a href="https://travis-ci.org/crabtw/rust-bindgen">
      <img src="https://travis-ci.org/crabtw/rust-bindgen.svg?branch=master"/>
@@ -832,15 +940,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Sean1708/rusty-cheddar">
      Sean1708/rusty-cheddar
     </a>
-    <span>
-     &#9733 85, pushed 1 days ago
-    </span>
     — generates C header files from Rust source files
     <a href="https://travis-ci.org/Sean1708/rusty-cheddar">
      <img src="https://travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 85, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 85, pushed 1 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 488, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 488, pushed 7 days ago
+  </sup>
  </li>
  <li>
   Erlang
@@ -849,15 +966,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/hansihe/Rustler">
      hansihe/Rustler
     </a>
-    <span>
-     &#9733 181, pushed 15 days ago
-    </span>
     - Safe Rust bridge for creating Erlang NIF functions
     <a href="https://travis-ci.org/hansihe/Rustler">
      <img src="https://travis-ci.org/hansihe/Rustler.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 181, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 181, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Java
@@ -866,15 +986,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/drrb/java-rust-example">
      drrb/java-rust-example
     </a>
-    <span>
-     &#9733 119, pushed 339 days ago
-    </span>
     — use Rust from Java
     <a href="https://travis-ci.org/drrb/java-rust-example">
      <img src="https://travis-ci.org/drrb/java-rust-example.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 119, pushed 339 days ago
+  </sup>
+  <sup>
+   &#9733 119, pushed 339 days ago
+  </sup>
  </li>
  <li>
   mruby
@@ -883,15 +1006,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/anima-engine/mrusty">
      anima-engine/mrusty
     </a>
-    <span>
-     &#9733 119, pushed 3 days ago
-    </span>
     - mruby safe bindings for Rust
     <a href="https://travis-ci.org/anima-engine/mrusty">
      <img src="https://travis-ci.org/anima-engine/mrusty.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 119, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 119, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Node.js
@@ -900,15 +1026,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/rustbridge/neon">
      rustbridge/neon
     </a>
-    <span>
-     &#9733 840, pushed 6 days ago
-    </span>
     — use Rust from Node.js
     <a href="https://travis-ci.org/rustbridge/neon">
      <img src="https://travis-ci.org/rustbridge/neon.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 840, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 840, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Objective-C
@@ -917,12 +1046,15 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/SSheldon/rust-objc">
      SSheldon/rust-objc
     </a>
-    <span>
-     &#9733 67, pushed 3 days ago
-    </span>
     — Objective-C Runtime bindings and wrapper for Rust
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 67, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Python
@@ -931,9 +1063,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/dgrunwald/rust-cpython">
      dgrunwald/rust-cpython
     </a>
-    <span>
-     &#9733 174, pushed 3 days ago
-    </span>
     — Python bindings
     <a href="https://travis-ci.org/dgrunwald/rust-cpython">
      <img src="https://travis-ci.org/dgrunwald/rust-cpython.svg?branch=master"/>
@@ -943,15 +1072,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/lukemetz/rustpy">
      lukemetz/rustpy
     </a>
-    <span>
-     &#9733 56, pushed 43 days ago
-    </span>
     — Python bindings
     <a href="https://travis-ci.org/lukemetz/rustpy">
      <img src="https://travis-ci.org/lukemetz/rustpy.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 56, pushed 43 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 43 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 174, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 174, pushed 3 days ago
+  </sup>
  </li>
  <li>
   R
@@ -960,15 +1098,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/rustr/rustr">
      rustr/rustr
     </a>
-    <span>
-     &#9733 29, pushed 17 days ago
-    </span>
     — use Rust from R, and use R in Rust
     <a href="https://travis-ci.org/rustr/rustr">
      <img src="https://travis-ci.org/rustr/rustr.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 29, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 17 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -990,9 +1131,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/intellij-rust/intellij-rust">
    intellij-rust
   </a>
-  <span>
-   &#9733 572, pushed 2 days ago
-  </span>
   — an
   <a href="https://www.jetbrains.com/idea/">
    IntelliJ
@@ -1001,38 +1139,47 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/intellij-rust/intellij-rust">
    <img src="https://travis-ci.org/intellij-rust/intellij-rust.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 572, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 572, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PistonDevelopers/VisualRust">
    PistonDevelopers/VisualRust
   </a>
-  <span>
-   &#9733 404, pushed 2 days ago
-  </span>
   — a Visual Studio extension for Rust
   <a href="https://travis-ci.org/PistonDevelopers/VisualRust">
    <img src="https://travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 404, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 404, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madeso/ride">
    Ride
   </a>
-  <span>
-   &#9733 98, pushed 125 days ago
-  </span>
   —
   <a href="https://travis-ci.org/madeso/ride">
    <img src="https://travis-ci.org/madeso/ride.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 98, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RustDT/RustDT">
    RustDT
   </a>
-  <span>
-   &#9733 247, pushed 3 days ago
-  </span>
   — an
   <a href="https://eclipse.org/">
    Eclipse
@@ -1041,18 +1188,27 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/RustDT/RustDT">
    <img src="https://travis-ci.org/RustDT/RustDT.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 247, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 247, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oakes/SolidOak">
    SolidOak
   </a>
-  <span>
-   &#9733 644, pushed 45 days ago
-  </span>
   — a simple IDE for Rust, based on GTK+ and
   <a href="https://github.com/neovim/neovim">
    Neovim
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 644, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 644, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.visualstudio.com/">
@@ -1068,22 +1224,28 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/ellisonch/rust-stopwatch">
    ellisonch/rust-stopwatch
   </a>
-  <span>
-   &#9733 17, pushed 305 days ago
-  </span>
   — a stopwatch library
   <a href="https://travis-ci.org/ellisonch/rust-stopwatch">
    <img src="https://travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 17, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 305 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrhooray/torch">
    mrhooray/torch
   </a>
-  <span>
-   &#9733 64, pushed 249 days ago
-  </span>
   — generates FlameGraphs based on DWARF Debug Info
+  <sup>
+   243 GitHub links in total 408 links, ★ 64, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 249 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1094,9 +1256,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/BurntSushi/quickcheck">
    BurntSushi/quickcheck
   </a>
-  <span>
-   &#9733 324, pushed 51 days ago
-  </span>
   — a Rust implementation of
   <a href="https://wiki.haskell.org/Introduction_to_QuickCheck1">
    QuickCheck
@@ -1104,26 +1263,32 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/BurntSushi/quickcheck">
    <img src="https://travis-ci.org/BurntSushi/quickcheck.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 324, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 324, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/farcaller/shiny">
    farcaller/shiny
   </a>
-  <span>
-   &#9733 71, pushed 225 days ago
-  </span>
   — a fancy syntax similar to Ruby's Rspec or Objective-C' kiwi
   <a href="https://travis-ci.org/farcaller/shiny">
    <img src="https://travis-ci.org/farcaller/shiny.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 71, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frewsxcv/afl.rs">
    frewsxcv/afl.rs
   </a>
-  <span>
-   &#9733 194, pushed 2 days ago
-  </span>
   — a Rust fuzzer, using
   <a href="http://lcamtuf.coredump.cx/afl/">
    AFL
@@ -1131,6 +1296,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/frewsxcv/afl.rs">
    <img src="https://api.travis-ci.org/frewsxcv/afl.rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 194, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 194, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1144,13 +1315,16 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/saurvs/astro-rust">
    saurvs/astro-rust
   </a>
-  <span>
-   &#9733 20, pushed 8 days ago
-  </span>
   — astronomy for Rust
   <a href="https://travis-ci.org/saurvs/astro-rust">
    <img src="https://travis-ci.org/saurvs/astro-rust.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 20, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1161,25 +1335,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/zonyitoo/coio-rs">
    zonyitoo/coio-rs
   </a>
-  <span>
-   &#9733 225, pushed 0 days ago
-  </span>
   — a coroutine I/O library with a working-stealing scheduler
   <a href="https://travis-ci.org/zonyitoo/coio-rs">
    <img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 225, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 225, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thehydroimpulse/tangle">
    thehydroimpulse/tangle
   </a>
-  <span>
-   &#9733 9, pushed 35 days ago
-  </span>
   — a scala-inspired futures library
   <a href="https://travis-ci.org/thehydroimpulse/tangle">
    <img src="https://travis-ci.org/thehydroimpulse/tangle.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 9, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1190,9 +1370,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/GuillaumeGomez/rust-fmod">
    GuillaumeGomez/rust-fmod
   </a>
-  <span>
-   &#9733 8, pushed 92 days ago
-  </span>
   —
   <a href="http://www.fmod.org/">
    FMOD
@@ -1201,14 +1378,17 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/GuillaumeGomez/rust-fmod">
    <img alt="Build Status" src="https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 8, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RustAudio/rust-portaudio">
    RustAudio/rust-portaudio
   </a>
-  <span>
-   &#9733 74, pushed 3 days ago
-  </span>
   —
   <a href="http://www.portaudio.com/">
    PortAudio
@@ -1217,26 +1397,32 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/RustAudio/rust-portaudio">
    <img src="https://travis-ci.org/RustAudio/rust-portaudio.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 74, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jhasse/ears">
    jhasse/ears
   </a>
-  <span>
-   &#9733 6, pushed 67 days ago
-  </span>
   — a simple library to play Sounds and Musics, on top of OpenAL and libsndfile
   <a href="https://travis-ci.org/jhasse/ears">
    <img src="https://travis-ci.org/jhasse/ears.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 6, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jpernst/openal-rs">
    jpernst/openal-rs
   </a>
-  <span>
-   &#9733 13, pushed 93 days ago
-  </span>
   —
   <a href="http://www.openal.org/">
    OpenAL 1.1
@@ -1245,6 +1431,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/jpernst/openal-rs">
    <img src="https://travis-ci.org/jpernst/openal-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 13, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 93 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RustAudio">
@@ -1255,9 +1447,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/musitdev/portmidi-rs">
    musitdev/portmidi-rs
   </a>
-  <span>
-   &#9733 24, pushed 37 days ago
-  </span>
   —
   <a href="http://portmedia.sourceforge.net/portmidi/">
    PortMidi
@@ -1266,6 +1455,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/musitdev/portmidi-rs">
    <img src="https://travis-ci.org/musitdev/portmidi-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 24, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 37 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1276,9 +1471,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/keats/rust-jwt">
    keats/rust-jwt
   </a>
-  <span>
-   &#9733 20, pushed 8 days ago
-  </span>
   —
   <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">
    JSON Web Token
@@ -1287,6 +1479,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/Keats/rust-jwt">
    <img alt="Build Status" src="https://api.travis-ci.org/Keats/rust-jwt.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 20, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1314,9 +1512,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/rsolomo/cargo-check">
      rsolomo/cargo-check
     </a>
-    <span>
-     &#9733 61, pushed 113 days ago
-    </span>
     — a wrapper around
     <code>
      cargo rustc -- -Zno-trans
@@ -1325,59 +1520,74 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/rsolomo/cargo-check">
      <img src="https://travis-ci.org/rsolomo/cargo-check.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 61, pushed 113 days ago
+    </sup>
+    <sup>
+     &#9733 61, pushed 113 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kbknapp/cargo-count">
      kbknapp/cargo-count
     </a>
-    <span>
-     &#9733 42, pushed 33 days ago
-    </span>
     — lists source code counts and details about cargo projects, including unsafe statistics
     <a href="https://travis-ci.org/kbknapp/cargo-count">
      <img src="https://travis-ci.org/kbknapp/cargo-count.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 42, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 42, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pwoolcoc/cargo-do">
      pwoolcoc/cargo-do
     </a>
-    <span>
-     &#9733 7, pushed 48 days ago
-    </span>
     — run multiple cargo commands in a row
+    <sup>
+     243 GitHub links in total 408 links, ★ 7, pushed 48 days ago
+    </sup>
+    <sup>
+     &#9733 7, pushed 48 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/maxsnew/cargo-dot">
      maxsnew/cargo-dot
     </a>
-    <span>
-     &#9733 34, pushed 166 days ago
-    </span>
     — generate graphs of a Cargo project's dependencies
     <a href="https://travis-ci.org/maxsnew/cargo-dot">
      <img src="https://travis-ci.org/maxsnew/cargo-dot.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 34, pushed 166 days ago
+    </sup>
+    <sup>
+     &#9733 34, pushed 166 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/killercup/cargo-edit">
      killercup/cargo-edit
     </a>
-    <span>
-     &#9733 101, pushed 23 days ago
-    </span>
     — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
     <a href="https://travis-ci.org/killercup/cargo-edit">
      <img src="https://travis-ci.org/killercup/cargo-edit.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 101, pushed 23 days ago
+    </sup>
+    <sup>
+     &#9733 101, pushed 23 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kbknapp/cargo-graph">
      kbknapp/cargo-graph
     </a>
-    <span>
-     &#9733 23, pushed 41 days ago
-    </span>
     — updated fork of
     <code>
      cargo-dot
@@ -1386,26 +1596,32 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/kbknapp/cargo-graph">
      <img src="https://travis-ci.org/kbknapp/cargo-graph.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 23, pushed 41 days ago
+    </sup>
+    <sup>
+     &#9733 23, pushed 41 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kbknapp/cargo-outdated">
      kbknapp/cargo-outdated
     </a>
-    <span>
-     &#9733 39, pushed 41 days ago
-    </span>
     — displays when newer versions of Rust dependencies are available, or out of date
     <a href="https://travis-ci.org/kbknapp/cargo-outdated">
      <img src="https://travis-ci.org/kbknapp/cargo-outdated.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 39, pushed 41 days ago
+    </sup>
+    <sup>
+     &#9733 39, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/imp/cargo-multi">
      imp/cargo-multi
     </a>
-    <span>
-     &#9733 0, pushed 24 days ago
-    </span>
     [
     <a href="https://crates.io/crates/cargo-multi/">
      cargo-multi
@@ -1414,27 +1630,39 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/imp/cargo-multi">
      <img src="https://travis-ci.org/imp/cargo-multi.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 0, pushed 24 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 24 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/DanielKeep/cargo-script">
      DanielKeep/cargo-script
     </a>
-    <span>
-     &#9733 67, pushed 11 days ago
-    </span>
     — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
+    <sup>
+     243 GitHub links in total 408 links, ★ 67, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 67, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/passcod/cargo-watch">
      passcod/cargo-watch
     </a>
-    <span>
-     &#9733 109, pushed 93 days ago
-    </span>
     — utility for cargo to compile projects when sources change
     <a href="https://travis-ci.org/passcod/cargo-watch">
      <img src="https://travis-ci.org/passcod/cargo-watch.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 109, pushed 93 days ago
+    </sup>
+    <sup>
+     &#9733 109, pushed 93 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1445,15 +1673,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/SiegeLord/RustCMake">
      SiegeLord/RustCMake
     </a>
-    <span>
-     &#9733 45, pushed 192 days ago
-    </span>
     — an example project showing usage of CMake with Rust
     <a href="https://travis-ci.org/SiegeLord/RustCMake">
      <img src="https://travis-ci.org/SiegeLord/RustCMake.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 45, pushed 192 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 192 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1464,13 +1695,16 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/jaysonsantos/bmemcached-rs">
    jaysonsantos/bmemcached-rs
   </a>
-  <span>
-   &#9733 3, pushed 7 days ago
-  </span>
   - Memcached library written in pure rust
   <a href="https://travis-ci.org/jaysonsantos/bmemcached-rs">
    <img src="https://travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 3, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1481,25 +1715,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/aturon/crossbeam">
    aturon/crossbeam
   </a>
-  <span>
-   &#9733 390, pushed 2 days ago
-  </span>
   – Support for parallelism and low-level concurrency in Rust
   <a href="https://travis-ci.org/aturon/crossbeam">
    <img src="https://travis-ci.org/aturon/crossbeam.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 390, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 390, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nikomatsakis/rayon">
    nikomatsakis/rayon
   </a>
-  <span>
-   &#9733 354, pushed 10 days ago
-  </span>
   – A data parallelism library for Rust
   <a href="https://travis-ci.org/nikomatsakis/rayon">
    <img src="https://travis-ci.org/nikomatsakis/rayon.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 354, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 354, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1513,9 +1753,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/rusoto/rusoto">
      rusoto/rusoto
     </a>
-    <span>
-     &#9733 100, pushed 2 days ago
-    </span>
     —
     <a href="https://travis-ci.org/rusoto/rusoto">
      <img src="https://travis-ci.org/rusoto/rusoto.svg?branch=master"/>
@@ -1525,15 +1762,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/thommay/aws-rs">
      thommay/aws-rs
     </a>
-    <span>
-     &#9733 4, pushed 286 days ago
-    </span>
     —
     <a href="https://travis-ci.org/thommay/aws-rs">
      <img src="https://travis-ci.org/thommay/aws-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 4, pushed 286 days ago
+    </sup>
+    <sup>
+     &#9733 4, pushed 286 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 100, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 100, pushed 2 days ago
+  </sup>
  </li>
  <li>
   DigitalOcean
@@ -1542,15 +1788,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/kbknapp/doapi-rs">
      kbknapp/doapi
     </a>
-    <span>
-     &#9733 13, pushed 1 days ago
-    </span>
     — DigitalOcean v2 API bindings
     <a href="https://travis-ci.org/kbknapp/doapi-rs">
      <img src="https://travis-ci.org/kbknapp/doapi-rs.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 13, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1561,9 +1810,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/docopt/docopt.rs">
    docopt/docopt.rs
   </a>
-  <span>
-   &#9733 348, pushed 4 days ago
-  </span>
   — a Rust implementation of
   <a href="http://docopt.org">
    DocOpt
@@ -1571,18 +1817,27 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/docopt/docopt.rs">
    <img src="https://travis-ci.org/docopt/docopt.rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 348, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 348, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kbknapp/clap-rs">
    kbknapp/clap-rs
   </a>
-  <span>
-   &#9733 456, pushed 0 days ago
-  </span>
   — a simple to use, full featured command-line argument parser
   <a href="https://travis-ci.org/kbknapp/clap-rs">
    <img src="https://travis-ci.org/kbknapp/clap-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 456, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 456, pushed 0 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1593,22 +1848,28 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/kkawakam/rustyline">
    kkawakam/rustyline
   </a>
-  <span>
-   &#9733 10, pushed 2 days ago
-  </span>
   - Readline Implementation in Rust
   <a href="https://travis-ci.org/kkawakam/rustyline">
    <img alt="Build Status" src="https://travis-ci.org/kkawakam/rustyline.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 10, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/srijs/rust-copperline">
    srijs/rust-copperline
   </a>
-  <span>
-   &#9733 10, pushed 58 days ago
-  </span>
   - Pure-Rust Command Line Editing Library
+  <sup>
+   243 GitHub links in total 408 links, ★ 10, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 58 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1619,9 +1880,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/alexcrichton/bzip2-rs">
    alexcrichton/bzip2-rs
   </a>
-  <span>
-   &#9733 6, pushed 2 days ago
-  </span>
   —
   <a href="http://www.bzip.org">
    libbz2
@@ -1630,14 +1888,17 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/alexcrichton/bzip2-rs">
    <img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 6, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alexcrichton/flate2-rs">
    alexcrichton/flate2-rs
   </a>
-  <span>
-   &#9733 46, pushed 0 days ago
-  </span>
   —
   <a href="https://code.google.com/p/miniz/">
    miniz
@@ -1646,39 +1907,48 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/alexcrichton/flate2-rs">
    <img src="https://travis-ci.org/alexcrichton/flate2-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 46, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alexcrichton/tar-rs">
    alexcrichton/tar-rs
   </a>
-  <span>
-   &#9733 33, pushed 2 days ago
-  </span>
   — tar archive reading/writing in Rust
   <a href="https://travis-ci.org/alexcrichton/tar-rs">
    <img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 33, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ende76/brotli-rs">
    ende76/brotli-rs
   </a>
-  <span>
-   &#9733 29, pushed 16 days ago
-  </span>
   — implementation of
   <a href="http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html">
    Brotli
   </a>
   compression
+  <sup>
+   243 GitHub links in total 408 links, ★ 29, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JeffBelgum/rust-snappy">
    JeffBelgum/rust-snappy
   </a>
-  <span>
-   &#9733 4, pushed 86 days ago
-  </span>
   —
   <a href="https://github.com/google/snappy">
    snappy
@@ -1687,18 +1957,27 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/JeffBelgum/rust-snappy">
    <img src="https://travis-ci.org/JeffBelgum/rust-snappy.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 4, pushed 86 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slackito/zip">
    slackito/zip
   </a>
-  <span>
-   &#9733 9, pushed 409 days ago
-  </span>
   — read and write ZIP archives
   <a href="https://travis-ci.org/slackito/zip">
    <img src="https://travis-ci.org/slackito/zip.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 9, pushed 409 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 409 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1716,22 +1995,22 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mikkyang/rust-blas">
      mikkyang/rust-blas
     </a>
-    <span>
-     &#9733 42, pushed 58 days ago
-    </span>
     —
     <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
      BLAS
     </a>
     bindings
+    <sup>
+     243 GitHub links in total 408 links, ★ 42, pushed 58 days ago
+    </sup>
+    <sup>
+     &#9733 42, pushed 58 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/stainless-steel/blas">
      stainless-steel/blas
     </a>
-    <span>
-     &#9733 10, pushed 1 days ago
-    </span>
     —
     <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
      BLAS
@@ -1740,6 +2019,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/stainless-steel/blas">
      <img src="https://travis-ci.org/stainless-steel/blas.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 10, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 10, pushed 1 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1750,9 +2035,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/thestinger/rust-gmp">
      thestinger/rust-gmp
     </a>
-    <span>
-     &#9733 28, pushed 339 days ago
-    </span>
     —
     <a href="https://gmplib.org/">
      libgmp
@@ -1763,6 +2045,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 28, pushed 339 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 339 days ago
+  </sup>
  </li>
  <li>
   GSL
@@ -1789,9 +2077,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/stainless-steel/lapack">
      stainless-steel/lapack
     </a>
-    <span>
-     &#9733 10, pushed 2 days ago
-    </span>
     —
     <a href="https://en.wikipedia.org/wiki/LAPACK">
      LAPACK
@@ -1802,6 +2087,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 10, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 2 days ago
+  </sup>
  </li>
  <li>
   OpenCL
@@ -1810,9 +2101,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/arrayfire/arrayfire-rust">
      arrayfire/arrayfire-rust
     </a>
-    <span>
-     &#9733 73, pushed 5 days ago
-    </span>
     —
     <a href="http://arrayfire.com">
      Arrayfire
@@ -1823,9 +2111,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/luqmana/rust-opencl">
      luqmana/rust-opencl
     </a>
-    <span>
-     &#9733 109, pushed 56 days ago
-    </span>
     —
     <a href="https://www.khronos.org/opencl/">
      OpenCL
@@ -1834,8 +2119,20 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/luqmana/rust-opencl">
      <img src="https://travis-ci.org/luqmana/rust-opencl.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 109, pushed 56 days ago
+    </sup>
+    <sup>
+     &#9733 109, pushed 56 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 73, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Scirust
@@ -1844,15 +2141,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/indigits/scirust">
      indigits/scirust
     </a>
-    <span>
-     &#9733 57, pushed 227 days ago
-    </span>
     — scientific computing library in Rust
     <a href="https://travis-ci.org/indigits/scirust">
      <img alt="Build Status" src="https://travis-ci.org/indigits/scirust.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 57, pushed 227 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 227 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1870,38 +2170,47 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/briansmith/ring">
    <img src="https://travis-ci.org/briansmith/ring.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 145, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/briansmith/webpki">
    briansmith/webpki
   </a>
-  <span>
-   &#9733 38, pushed 65 days ago
-  </span>
   — Web PKI TLS X.509 certificate validation in Rust.
   <a href="https://travis-ci.org/briansmith/webpki">
    <img src="https://travis-ci.org/briansmith/webpki.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 38, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DaGenix/rust-crypto">
    DaGenix/rust-crypto
   </a>
-  <span>
-   &#9733 385, pushed 2 days ago
-  </span>
   — cryptographic algorithms in Rust
   <a href="https://travis-ci.org/DaGenix/rust-crypto">
    <img src="https://travis-ci.org/DaGenix/rust-crypto.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 385, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 385, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dnaq/sodiumoxide">
    dnaq/sodiumoxide
   </a>
-  <span>
-   &#9733 147, pushed 10 days ago
-  </span>
   —
   <a href="https://github.com/jedisct1/libsodium">
    libsodium
@@ -1910,50 +2219,62 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/dnaq/sodiumoxide">
    <img src="https://travis-ci.org/dnaq/sodiumoxide.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 147, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 147, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/klutzy/suruga">
    klutzy/suruga
   </a>
-  <span>
-   &#9733 120, pushed 105 days ago
-  </span>
   — a Rust implementation of
   <a href="http://tools.ietf.org/html/rfc5246">
    TLS 1.2
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 120, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libOctavo/octavo">
    libOctavo/octavo
   </a>
-  <span>
-   &#9733 97, pushed 13 days ago
-  </span>
   — Modular hash and crypto library in Rust
   <a href="https://travis-ci.org/libOctavo/octavo">
    <img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 97, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 97, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seb-m/common.rs">
    seb-m/common.rs
   </a>
-  <span>
-   &#9733 1, pushed 495 days ago
-  </span>
   — Common Rust crypto utilities
   <a href="https://travis-ci.org/seb-m/common.rs">
    <img src="https://travis-ci.org/seb-m/common.rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 1, pushed 495 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 495 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sfackler/rust-openssl">
    sfackler/rust-openssl
   </a>
-  <span>
-   &#9733 169, pushed 1 days ago
-  </span>
   —
   <a href="https://www.openssl.org/">
    OpenSSL
@@ -1962,6 +2283,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/sfackler/rust-openssl">
    <img src="https://travis-ci.org/sfackler/rust-openssl.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 169, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 169, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1975,25 +2302,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/pingcap/tikv">
    pingcap/tikv
   </a>
-  <span>
-   &#9733 600, pushed 1 days ago
-  </span>
   — TiKV is a distributed KV database powered by Rust
   <a href="https://travis-ci.org/pingcap/tikv">
    <img src="https://travis-ci.org/pingcap/tikv.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 600, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 600, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sfackler/r2d2">
    sfackler/r2d2
   </a>
-  <span>
-   &#9733 77, pushed 18 days ago
-  </span>
   — generic connection pool
   <a href="https://travis-ci.org/sfackler/r2d2">
    <img src="https://travis-ci.org/sfackler/r2d2.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 77, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 18 days ago
+  </sup>
  </li>
  <li>
   NoSQL [
@@ -2017,14 +2350,17 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/tupshin/cassandra-rs">
      tupshin/cassandra-rust
     </a>
-    <span>
-     &#9733 23, pushed 49 days ago
-    </span>
     —
     <a href="http://cassandra.apache.org">
      Cassandra
     </a>
     bindings
+    <sup>
+     243 GitHub links in total 408 links, ★ 23, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 23, pushed 50 days ago
+    </sup>
    </li>
    <li>
     CouchDB [
@@ -2037,9 +2373,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/couchdb-rs/couchdb">
      couchdb-rs/couchdb
     </a>
-    <span>
-     &#9733 6, pushed 38 days ago
-    </span>
     [
     <a href="https://crates.io/crates/couchdb/">
      couchdb
@@ -2048,6 +2381,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/couchdb-rs/couchdb">
      <img src="https://travis-ci.org/couchdb-rs/couchdb.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 6, pushed 38 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 38 days ago
+    </sup>
    </li>
    <li>
     Elasticsearch [
@@ -2060,9 +2399,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/benashford/rs-es">
      benashford/rs-es
     </a>
-    <span>
-     &#9733 68, pushed 22 days ago
-    </span>
     [
     <a href="https://crates.io/crates/rs-es/">
      rs-es
@@ -2075,6 +2411,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/benashford/rs-es">
      <img src="https://travis-ci.org/benashford/rs-es.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 68, pushed 22 days ago
+    </sup>
+    <sup>
+     &#9733 68, pushed 22 days ago
+    </sup>
    </li>
    <li>
     etcd
@@ -2083,9 +2425,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/jimmycuadra/rust-etcd">
      jimmycuadra/rust-etcd
     </a>
-    <span>
-     &#9733 42, pushed 19 days ago
-    </span>
     [
     <a href="https://crates.io/crates/etcd/">
      etcd
@@ -2094,6 +2433,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/jimmycuadra/rust-etcd">
      <img src="https://travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 42, pushed 19 days ago
+    </sup>
+    <sup>
+     &#9733 42, pushed 19 days ago
+    </sup>
    </li>
    <li>
     ForestDB
@@ -2102,9 +2447,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/vhbit/sherwood">
      vhbit/sherwood
     </a>
-    <span>
-     &#9733 0, pushed 313 days ago
-    </span>
     —
     <a href="https://github.com/couchbase/forestdb">
      ForestDB
@@ -2113,6 +2455,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/vhbit/sherwood">
      <img src="https://travis-ci.org/vhbit/sherwood.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 0, pushed 313 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 313 days ago
+    </sup>
    </li>
    <li>
     LMDB [
@@ -2125,9 +2473,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/vhbit/lmdb-rs">
      vhbit/lmdb-rs
     </a>
-    <span>
-     &#9733 45, pushed 61 days ago
-    </span>
     [
     <a href="https://crates.io/crates/lmdb-rs/">
      lmdb-rs
@@ -2140,6 +2485,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/vhbit/lmdb-rs">
      <img src="https://travis-ci.org/vhbit/lmdb-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 45, pushed 61 days ago
+    </sup>
+    <sup>
+     &#9733 45, pushed 61 days ago
+    </sup>
    </li>
    <li>
     MongoDB [
@@ -2152,9 +2503,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mongodb-labs/mongo-rust-driver-prototype">
      mongodb-labs/mongo-rust-driver-prototype
     </a>
-    <span>
-     &#9733 100, pushed 5 days ago
-    </span>
     [
     <a href="https://crates.io/crates/mongodb/">
      mongodb
@@ -2167,6 +2515,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype">
      <img src="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 100, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 100, pushed 5 days ago
+    </sup>
    </li>
    <li>
     Neo4j [
@@ -2190,9 +2544,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mitsuhiko/redis-rs">
      mitsuhiko/redis-rs
     </a>
-    <span>
-     &#9733 420, pushed 1 days ago
-    </span>
     —
     <a href="http://redis.io">
      Redis
@@ -2201,6 +2552,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/mitsuhiko/redis-rs">
      <img src="https://travis-ci.org/mitsuhiko/redis-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 420, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 420, pushed 1 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2222,9 +2579,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/blackbeam/rust-mysql-simple">
      blackbeam/rust-mysql-simple
     </a>
-    <span>
-     &#9733 91, pushed 25 days ago
-    </span>
     [
     <a href="https://crates.io/crates/mysql">
      mysql
@@ -2233,6 +2587,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/blackbeam/rust-mysql-simple">
      <img src="https://travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 91, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 91, pushed 25 days ago
+    </sup>
    </li>
    <li>
     ORM [
@@ -2245,34 +2605,43 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/deuterium-orm/deuterium">
      deuterium-orm/deuterium-orm
     </a>
-    <span>
-     &#9733 155, pushed 335 days ago
-    </span>
     — an SQL query builder for Rust
     <a href="https://travis-ci.org/deuterium-orm/deuterium">
      <img alt="Build Status" src="https://travis-ci.org/deuterium-orm/deuterium.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 155, pushed 335 days ago
+    </sup>
+    <sup>
+     &#9733 155, pushed 335 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ivanceras/rustorm">
      ivanceras/rustorm
     </a>
-    <span>
-     &#9733 123, pushed 17 days ago
-    </span>
     — an ORM for Rust
     <a href="https://travis-ci.org/ivanceras/rustorm">
      <img alt="Build Status" src="https://api.travis-ci.org/ivanceras/rustorm.svg"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 123, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 123, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/phonkee/treasure">
      phonkee/treasure
     </a>
-    <span>
-     &#9733 42, pushed 268 days ago
-    </span>
     — an ORM for Rust
+    <sup>
+     243 GitHub links in total 408 links, ★ 42, pushed 268 days ago
+    </sup>
+    <sup>
+     &#9733 42, pushed 268 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sgrif/diesel">
@@ -2298,9 +2667,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/sfackler/rust-postgres">
      sfackler/rust-postgres
     </a>
-    <span>
-     &#9733 524, pushed 1 days ago
-    </span>
     [
     <a href="https://crates.io/crates/postgres/">
      postgres
@@ -2313,6 +2679,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/sfackler/rust-postgres">
      <img src="https://travis-ci.org/sfackler/rust-postgres.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 524, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 524, pushed 1 days ago
+    </sup>
    </li>
    <li>
     Sqlite [
@@ -2325,9 +2697,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/dckc/rust-sqlite3">
      dckc/rust-sqlite3
     </a>
-    <span>
-     &#9733 43, pushed 11 days ago
-    </span>
     —
     <a href="http://www.sqlite.org/">
      Sqlite3
@@ -2336,14 +2705,17 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/dckc/rust-sqlite3">
      <img src="https://travis-ci.org/dckc/rust-sqlite3.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 43, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 43, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jgallagher/rusqlite">
      jgallagher/rusqlite
     </a>
-    <span>
-     &#9733 88, pushed 3 days ago
-    </span>
     —
     <a href="http://www.sqlite.org/">
      Sqlite3
@@ -2352,14 +2724,17 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/jgallagher/rusqlite">
      <img src="https://travis-ci.org/jgallagher/rusqlite.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 88, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 88, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/linuxfood/rustsqlite">
      linuxfood/rustsqlite
     </a>
-    <span>
-     &#9733 78, pushed 393 days ago
-    </span>
     —
     <a href="http://www.sqlite.org/">
      Sqlite3
@@ -2368,6 +2743,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/linuxfood/rustsqlite">
      <img src="https://travis-ci.org/linuxfood/rustsqlite.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 78, pushed 393 days ago
+    </sup>
+    <sup>
+     &#9733 78, pushed 394 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2380,61 +2761,76 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/bluss/rust-itertools">
    bluss/rust-itertools
   </a>
-  <span>
-   &#9733 138, pushed 2 days ago
-  </span>
   —
   <a href="https://travis-ci.org/bluss/rust-itertools">
    <img src="https://travis-ci.org/bluss/rust-itertools.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 138, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 138, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fizyk20/generic-array">
    fizyk20/generic-array
   </a>
-  <span>
-   &#9733 9, pushed 3 days ago
-  </span>
   – a hack to allow for arrays sized by typenums
   <a href="https://travis-ci.org/fizyk20/generic-array">
    <img src="https://travis-ci.org/fizyk20/generic-array.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 9, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Nemo157/roaring-rs">
    Nemo157/roaring-rs
   </a>
-  <span>
-   &#9733 27, pushed 22 days ago
-  </span>
   – Roaring Bitmaps in Rust
   <a href="https://travis-ci.org/Nemo157/roaring-rs">
    <img src="https://travis-ci.org/Nemo157/roaring-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 27, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/reem/rust-typemap">
    reem/rust-typemap
   </a>
-  <span>
-   &#9733 45, pushed 75 days ago
-  </span>
   —
   <a href="https://travis-ci.org/reem/rust-typemap">
    <img src="https://travis-ci.org/reem/rust-typemap.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 45, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/serde-rs/serde">
    serde-rs/serde
   </a>
-  <span>
-   &#9733 369, pushed 2 days ago
-  </span>
   — a framework to generically serialize Rust data structures
   <a href="https://travis-ci.org/serde-rs/serde">
    <img src="https://api.travis-ci.org/serde-rs/serde.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 369, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 369, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2448,25 +2844,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/lifthrasiir/rust-chrono">
    lifthrasiir/rust-chrono
   </a>
-  <span>
-   &#9733 164, pushed 12 days ago
-  </span>
   —
   <a href="https://travis-ci.org/lifthrasiir/rust-chrono">
    <img src="https://travis-ci.org/lifthrasiir/rust-chrono.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 164, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 164, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rust-lang-deprecated/time">
    rust-lang-deprecated/time
   </a>
-  <span>
-   &#9733 65, pushed 2 days ago
-  </span>
   —
   <a href="https://travis-ci.org/rust-lang-deprecated/time">
    <img src="https://travis-ci.org/rust-lang-deprecated/time.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 65, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2480,15 +2882,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/spicavigo/kafka-rust">
      spicavigo/kafka-rust
     </a>
-    <span>
-     &#9733 99, pushed 5 days ago
-    </span>
     —
     <a href="https://travis-ci.org/spicavigo/kafka-rust">
      <img src="https://travis-ci.org/spicavigo/kafka-rust.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 99, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Beanstalkd
@@ -2497,9 +2902,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/schickling/rust-beanstalkd">
      schickling/rust-beanstalkd
     </a>
-    <span>
-     &#9733 11, pushed 113 days ago
-    </span>
     —
     <a href="https://github.com/kr/beanstalkd">
      Beanstalkd
@@ -2510,6 +2912,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 11, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 113 days ago
+  </sup>
  </li>
  <li>
   HDFS
@@ -2518,15 +2926,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/hyunsik/hdfs-rs">
      hyunsik/hdfs-rs
     </a>
-    <span>
-     &#9733 14, pushed 208 days ago
-    </span>
     — libhdfs bindings
     <a href="https://travis-ci.org/hyunsik/hdfs-rs">
      <img src="https://travis-ci.org/hyunsik/hdfs-rs.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 14, pushed 208 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 208 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2540,25 +2951,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/gsquire/sendgrid-rs">
    gsquire/sendgrid-rs
   </a>
-  <span>
-   &#9733 4, pushed 1 days ago
-  </span>
   — unofficial Rust library for SendGrid API
   <a href="https://travis-ci.org/gsquire/sendgrid-rs">
    <img src="https://travis-ci.org/gsquire/sendgrid-rs.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 4, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lettre/lettre">
    lettre/lettre
   </a>
-  <span>
-   &#9733 74, pushed 2 days ago
-  </span>
   — an SMTP-library for Rust
   <a href="https://travis-ci.org/lettre/lettre">
    <img src="https://travis-ci.org/lettre/lettre.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 74, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2575,15 +2992,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/alex/rust-asn1">
      alex/rust-asn1
     </a>
-    <span>
-     &#9733 18, pushed 29 days ago
-    </span>
     — a Rust ASN.1 (DER) serializer
     <a href="https://travis-ci.org/alex/rust-asn1">
      <img src="https://travis-ci.org/alex/rust-asn1.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 18, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 29 days ago
+  </sup>
  </li>
  <li>
   Bencode
@@ -2592,9 +3012,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/arjantop/rust-bencode">
      arjantop/rust-bencode
     </a>
-    <span>
-     &#9733 19, pushed 179 days ago
-    </span>
     —
     <a href="https://en.wikipedia.org/wiki/Bencode">
      Bencode
@@ -2605,6 +3022,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 19, pushed 179 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 179 days ago
+  </sup>
  </li>
  <li>
   Binary
@@ -2613,9 +3036,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/arcnmx/nue">
      arcnmx/nue
     </a>
-    <span>
-     &#9733 21, pushed 260 days ago
-    </span>
     — I/O and binary data encoding for Rust
     <a href="https://travis-ci.org/arcnmx/nue">
      <img src="https://travis-ci.org/arcnmx/nue.svg?branch=master"/>
@@ -2625,15 +3045,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/TyOverby/bincode">
      TyOverby/bincode
     </a>
-    <span>
-     &#9733 110, pushed 12 days ago
-    </span>
     — a binary encoder/decoder in Rust
     <a href="https://travis-ci.org/TyOverby/bincode">
      <img src="https://travis-ci.org/TyOverby/bincode.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 110, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 110, pushed 12 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 21, pushed 260 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 260 days ago
+  </sup>
  </li>
  <li>
   Byte swapping
@@ -2642,15 +3071,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/BurntSushi/byteorder">
      BurntSushi/byteorder
     </a>
-    <span>
-     &#9733 89, pushed 1 days ago
-    </span>
     — Supports big-endian, little-endian and native byte orders
     <a href="https://travis-ci.org/BurntSushi/byteorder">
      <img src="https://travis-ci.org/BurntSushi/byteorder.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 89, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Cap'n Proto
@@ -2659,15 +3091,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/dwrensha/capnproto-rust">
      dwrensha/capnproto-rust
     </a>
-    <span>
-     &#9733 297, pushed 9 days ago
-    </span>
     —
     <a href="https://travis-ci.org/dwrensha/capnproto-rust">
      <img src="https://travis-ci.org/dwrensha/capnproto-rust.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 297, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 297, pushed 9 days ago
+  </sup>
  </li>
  <li>
   CBOR
@@ -2676,15 +3111,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/BurntSushi/rust-cbor">
      BurntSushi/rust-cbor
     </a>
-    <span>
-     &#9733 39, pushed 239 days ago
-    </span>
     — Supports JSON conversion and type-based encoding/decoding
     <a href="https://travis-ci.org/BurntSushi/rust-cbor">
      <img src="https://travis-ci.org/BurntSushi/rust-cbor.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 39, pushed 239 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 239 days ago
+  </sup>
  </li>
  <li>
   Character Encoding
@@ -2693,15 +3131,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/lifthrasiir/rust-encoding">
      lifthrasiir/rust-encoding
     </a>
-    <span>
-     &#9733 97, pushed 71 days ago
-    </span>
     —
     <a href="https://travis-ci.org/lifthrasiir/rust-encoding">
      <img src="https://travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 97, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 97, pushed 71 days ago
+  </sup>
  </li>
  <li>
   CRC
@@ -2710,15 +3151,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mrhooray/crc-rs">
      mrhooray/crc-rs
     </a>
-    <span>
-     &#9733 10, pushed 259 days ago
-    </span>
     —
     <a href="https://travis-ci.org/mrhooray/crc-rs">
      <img src="https://travis-ci.org/mrhooray/crc-rs.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 10, pushed 259 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 259 days ago
+  </sup>
  </li>
  <li>
   CSV
@@ -2727,15 +3171,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/BurntSushi/rust-csv">
      BurntSushi/rust-csv
     </a>
-    <span>
-     &#9733 169, pushed 12 days ago
-    </span>
     —
     <a href="https://travis-ci.org/BurntSushi/rust-csv">
      <img src="https://travis-ci.org/BurntSushi/rust-csv.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 169, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 169, pushed 12 days ago
+  </sup>
  </li>
  <li>
   HTML
@@ -2744,15 +3191,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/servo/html5ever">
      servo/html5ever
     </a>
-    <span>
-     &#9733 296, pushed 7 days ago
-    </span>
     — High-performance browser-grade HTML5 parser
     <a href="https://travis-ci.org/servo/html5ever">
      <img src="https://travis-ci.org/servo/html5ever.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 296, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 296, pushed 7 days ago
+  </sup>
  </li>
  <li>
   JSON
@@ -2761,9 +3211,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/serde-rs/json">
      serde-rs/json
     </a>
-    <span>
-     &#9733 48, pushed 2 days ago
-    </span>
     [
     <a href="https://crates.io/crates/serde_json/">
      serde_json
@@ -2778,6 +3225,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 48, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Jsonnet
@@ -2786,15 +3239,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Qihoo360/rust-jsonnet">
      Qihoo360/rust-jsonnet
     </a>
-    <span>
-     &#9733 16, pushed 237 days ago
-    </span>
     —
     <a href="https://travis-ci.org/Qihoo360/rust-jsonnet">
      <img src="https://travis-ci.org/Qihoo360/rust-jsonnet.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 16, pushed 237 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 237 days ago
+  </sup>
  </li>
  <li>
   MsgPack
@@ -2803,9 +3259,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mneumann/rust-msgpack">
      mneumann/rust-msgpack
     </a>
-    <span>
-     &#9733 96, pushed 18 days ago
-    </span>
     —
     <a href="https://travis-ci.org/mneumann/rust-msgpack">
      <img src="https://travis-ci.org/mneumann/rust-msgpack.svg?branch=master"/>
@@ -2815,15 +3268,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/3Hren/msgpack-rust">
      3Hren/msgpack-rust
     </a>
-    <span>
-     &#9733 72, pushed 31 days ago
-    </span>
     — a pure Rust low/high level MessagePack implementation
     <a href="https://travis-ci.org/3Hren/msgpack-rust">
      <img src="https://travis-ci.org/3Hren/msgpack-rust.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 72, pushed 31 days ago
+    </sup>
+    <sup>
+     &#9733 72, pushed 31 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 96, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 96, pushed 18 days ago
+  </sup>
  </li>
  <li>
   ProtocolBuffers
@@ -2832,15 +3294,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/stepancheg/rust-protobuf">
      stepancheg/rust-protobuf
     </a>
-    <span>
-     &#9733 243, pushed 15 days ago
-    </span>
     —
     <a href="https://travis-ci.org/stepancheg/rust-protobuf">
      <img src="https://travis-ci.org/stepancheg/rust-protobuf.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 243, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 243, pushed 15 days ago
+  </sup>
  </li>
  <li>
   RON (Rusty Object Notation)
@@ -2849,15 +3314,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/kvark/ron">
      kvark/ron
     </a>
-    <span>
-     &#9733 63, pushed 361 days ago
-    </span>
     —
     <a href="https://travis-ci.org/kvark/ron">
      <img src="https://travis-ci.org/kvark/ron.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 63, pushed 361 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 361 days ago
+  </sup>
  </li>
  <li>
   Tnetstring
@@ -2866,15 +3334,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/erickt/rust-tnetstring">
      erickt/rust-tnetstring
     </a>
-    <span>
-     &#9733 13, pushed 539 days ago
-    </span>
     —
     <a href="https://travis-ci.org/erickt/rust-tnetstring">
      <img src="https://travis-ci.org/erickt/rust-tnetstring.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 13, pushed 539 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 539 days ago
+  </sup>
  </li>
  <li>
   TOML
@@ -2883,15 +3354,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/alexcrichton/toml-rs">
      alexcrichton/toml-rs
     </a>
-    <span>
-     &#9733 157, pushed 2 days ago
-    </span>
     —
     <a href="https://travis-ci.org/alexcrichton/toml-rs">
      <img src="https://travis-ci.org/alexcrichton/toml-rs.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 157, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 2 days ago
+  </sup>
  </li>
  <li>
   XML
@@ -2900,9 +3374,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Florob/RustyXML">
      Florob/RustyXML
     </a>
-    <span>
-     &#9733 53, pushed 62 days ago
-    </span>
     — an XML parser written in Rust
     <a href="https://travis-ci.org/Florob/RustyXML">
      <img src="https://travis-ci.org/Florob/RustyXML.svg?branch=master"/>
@@ -2912,39 +3383,54 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/shepmaster/sxd-document">
      shepmaster/sxd-document
     </a>
-    <span>
-     &#9733 49, pushed 2 days ago
-    </span>
     — An XML library in Rust
     <a href="https://travis-ci.org/shepmaster/sxd-document">
      <img src="https://travis-ci.org/shepmaster/sxd-document.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 49, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 49, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shepmaster/sxd-xpath">
      shepmaster/sxd-xpath
     </a>
-    <span>
-     &#9733 19, pushed 2 days ago
-    </span>
     — An XPath library in Rust
     <a href="https://travis-ci.org/shepmaster/sxd-xpath">
      <img src="https://travis-ci.org/shepmaster/sxd-xpath.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 19, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 19, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/netvl/xml-rs">
      netvl/xml-rs
     </a>
-    <span>
-     &#9733 98, pushed 4 days ago
-    </span>
     — a streaming XML library
     <a href="https://travis-ci.org/netvl/xml-rs">
      <img src="https://travis-ci.org/netvl/xml-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 98, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 98, pushed 4 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 53, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 53, pushed 62 days ago
+  </sup>
  </li>
  <li>
   YAML
@@ -2953,9 +3439,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/chyh1990/yaml-rust">
      chyh1990/yaml-rust
     </a>
-    <span>
-     &#9733 80, pushed 19 days ago
-    </span>
     — The missing YAML 1.2 implementation for Rust.
     <a href="https://travis-ci.org/chyh1990/yaml-rust">
      <img src="https://travis-ci.org/chyh1990/yaml-rust.svg?branch=master"/>
@@ -2965,9 +3448,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/dtolnay/serde-yaml">
      dtolnay/serde-yaml
     </a>
-    <span>
-     &#9733 6, pushed 12 days ago
-    </span>
     [
     <a href="https://crates.io/crates/serde_yaml/">
      serde_yaml
@@ -2980,14 +3460,17 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/dtolnay/serde-yaml">
      <img src="https://travis-ci.org/dtolnay/serde-yaml.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 6, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kimhyunkang/libyaml-rust">
      kimhyunkang/libyaml-rust
     </a>
-    <span>
-     &#9733 14, pushed 188 days ago
-    </span>
     —
     <a href="http://pyyaml.org/wiki/LibYAML">
      libyaml
@@ -2996,8 +3479,20 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/kimhyunkang/libyaml-rust">
      <img src="https://travis-ci.org/kimhyunkang/libyaml-rust.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 14, pushed 188 days ago
+    </sup>
+    <sup>
+     &#9733 14, pushed 188 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 80, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3011,9 +3506,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/SiegeLord/RustAllegro">
      SiegeLord/RustAllegro
     </a>
-    <span>
-     &#9733 27, pushed 1 days ago
-    </span>
     —
     <a href="http://liballeg.org/">
      Allegro 5
@@ -3024,6 +3516,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 27, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Amethyst
@@ -3032,15 +3530,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/ebkalderon/amethyst">
      ebkalderon/amethyst
     </a>
-    <span>
-     &#9733 4, pushed 22 days ago
-    </span>
     — data-oriented game engine
     <a href="https://travis-ci.org/ebkalderon/amethyst">
      <img src="https://travis-ci.org/ebkalderon/amethyst.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 4, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 22 days ago
+  </sup>
  </li>
  <li>
   Corange
@@ -3049,9 +3550,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/lucidscape/corange-rs">
      lucidscape/corange-rs
     </a>
-    <span>
-     &#9733 18, pushed 135 days ago
-    </span>
     —
     <a href="https://github.com/orangeduck/Corange">
      Corange
@@ -3059,6 +3557,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     bindings
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 18, pushed 135 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 135 days ago
+  </sup>
  </li>
  <li>
   Piston
@@ -3085,9 +3589,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/AngryLawyer/rust-sdl2">
      AngryLawyer/rust-sdl2
     </a>
-    <span>
-     &#9733 350, pushed 1 days ago
-    </span>
     —
     <a href="http://www.libsdl.org/">
      SDL2
@@ -3096,14 +3597,17 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/AngryLawyer/rust-sdl2">
      <img src="https://travis-ci.org/AngryLawyer/rust-sdl2.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 350, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 350, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/brson/rust-sdl">
      brson/rust-sdl
     </a>
-    <span>
-     &#9733 159, pushed 335 days ago
-    </span>
     —
     <a href="http://www.libsdl.org/">
      SDL1
@@ -3112,6 +3616,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/brson/rust-sdl">
      <img src="https://travis-ci.org/brson/rust-sdl.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 159, pushed 335 days ago
+    </sup>
+    <sup>
+     &#9733 159, pushed 335 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3122,9 +3632,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/jeremyletang/rust-sfml">
      jeremyletang/rust-sfml
     </a>
-    <span>
-     &#9733 192, pushed 3 days ago
-    </span>
     —
     <a href="http://www.sfml-dev.org/">
      SFML
@@ -3135,6 +3642,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 192, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Voxlap
@@ -3143,9 +3656,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/bbodi/rust-voxlap">
      bbodi/rust-voxlap
     </a>
-    <span>
-     &#9733 9, pushed 556 days ago
-    </span>
     —
     <a href="http://advsys.net/ken/voxlap.htm">
      Voxlap
@@ -3153,6 +3663,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     bindings
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 9, pushed 556 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 556 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3189,13 +3705,16 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/pravic/rust-sciter">
    pravic/rust-sciter
   </a>
-  <span>
-   &#9733 16, pushed 15 days ago
-  </span>
   — Rust bindings for the Sciter, embeddable HTML/CSS/script engine (cross-platform desktop GUI toolkit).
   <a href="https://ci.appveyor.com/project/pravic/rust-sciter">
    <img src="https://ci.appveyor.com/api/projects/status/github/pravic/rust-sciter?svg=true"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 16, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Cocoa
@@ -3204,11 +3723,14 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/servo/cocoa-rs">
      servo/rust-cocoa
     </a>
-    <span>
-     &#9733 182, pushed 5 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 182, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 182, pushed 5 days ago
+  </sup>
  </li>
  <li>
   IUP
@@ -3217,9 +3739,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/dcampbell24/iup-rust">
      dcampbell24/iup-rust
     </a>
-    <span>
-     &#9733 16, pushed 186 days ago
-    </span>
     —
     <a href="http://webserver2.tecgraf.puc-rio.br/iup/">
      IUP
@@ -3233,15 +3752,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/KISS-UI/kiss-ui">
      Kiss-ui
     </a>
-    <span>
-     &#9733 247, pushed 150 days ago
-    </span>
     — a simple UI framework built on IUP
     <a href="https://travis-ci.org/cybergeek94/kiss-ui">
      <img alt="Build Status" src="https://travis-ci.org/cybergeek94/kiss-ui.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 247, pushed 150 days ago
+    </sup>
+    <sup>
+     &#9733 247, pushed 150 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 16, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 186 days ago
+  </sup>
  </li>
  <li>
   GTK+ [
@@ -3254,9 +3782,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/gtk-rs/gtk">
      gtk-rs/gtk
     </a>
-    <span>
-     &#9733 272, pushed 2 days ago
-    </span>
     —
     <a href="http://www.gtk.org">
      GTK+
@@ -3265,6 +3790,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/gtk-rs/gtk">
      <img src="https://travis-ci.org/gtk-rs/gtk.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 272, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 272, pushed 2 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3279,9 +3810,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/jeaye/ncurses-rs">
      jeaye/ncurses-rs
     </a>
-    <span>
-     &#9733 163, pushed 12 days ago
-    </span>
     —
     <a href="http://www.gnu.org/software/ncurses/">
      ncurses
@@ -3290,6 +3818,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/jeaye/ncurses-rs">
      <img src="https://travis-ci.org/jeaye/ncurses-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 163, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 163, pushed 12 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3304,45 +3838,51 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/bjz/gl-rs">
      bjz/gl-rs
     </a>
-    <span>
-     &#9733 215, pushed 40 days ago
-    </span>
     —
     <a href="https://travis-ci.org/bjz/gl-rs">
      <img src="https://travis-ci.org/bjz/gl-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 215, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 215, pushed 40 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/PistonDevelopers/glfw-rs">
      bjz/glfw-rs
     </a>
-    <span>
-     &#9733 213, pushed 16 days ago
-    </span>
     —
     <a href="https://travis-ci.org/bjz/glfw-rs">
      <img src="https://travis-ci.org/bjz/glfw-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 213, pushed 16 days ago
+    </sup>
+    <sup>
+     &#9733 213, pushed 16 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tomaka/glium">
      tomaka/glium
     </a>
-    <span>
-     &#9733 780, pushed 12 days ago
-    </span>
     — safe OpenGL wrapper for the Rust language.
     <a href="https://travis-ci.org/tomaka/glium">
      <img src="https://travis-ci.org/tomaka/glium.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 780, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 780, pushed 12 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/tomaka/glutin">
      tomaka/glutin
     </a>
-    <span>
-     &#9733 428, pushed 1 days ago
-    </span>
     — Rust alternative to
     <a href="http://www.glfw.org/">
      GLFW
@@ -3350,6 +3890,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/tomaka/glutin">
      <img src="https://travis-ci.org/tomaka/glutin.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 428, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 428, pushed 1 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3360,9 +3906,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/cyndis/qmlrs">
      cyndis/qmlrs
     </a>
-    <span>
-     &#9733 233, pushed 29 days ago
-    </span>
     —
     <a href="http://doc.qt.io">
      QtQuick
@@ -3373,6 +3916,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 233, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 29 days ago
+  </sup>
  </li>
  <li>
   Termbox
@@ -3381,9 +3930,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/gchp/rustbox">
      gchp/rustbox
     </a>
-    <span>
-     &#9733 180, pushed 10 days ago
-    </span>
     — a Rust implementation of
     <a href="https://github.com/nsf/termbox">
      termbox
@@ -3393,6 +3939,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 180, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3403,34 +3955,43 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/chyh1990/imageproc">
    chyh1990/imageproc
   </a>
-  <span>
-   &#9733 33, pushed 103 days ago
-  </span>
   — An advanced image processing library for Rust.
   <a href="https://travis-ci.org/chyh1990/imageproc">
    <img alt="Build Status" src="https://travis-ci.org/chyh1990/imageproc.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 33, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cybergeek94/img_hash">
    cybergeek94/img-hash
   </a>
-  <span>
-   &#9733 31, pushed 190 days ago
-  </span>
   — Perceptual image hashing and comparison for equality and similarity.
+  <sup>
+   243 GitHub links in total 408 links, ★ 31, pushed 190 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 190 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PistonDevelopers/image">
    PistonDevelopers/image
   </a>
-  <span>
-   &#9733 296, pushed 12 days ago
-  </span>
   — Basic imaging processing functions and methods for converting to and from image formats
   <a href="https://travis-ci.org/PistonDevelopers/image">
    <img src="https://travis-ci.org/PistonDevelopers/image.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 296, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 296, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3441,25 +4002,31 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/autumnai/leaf">
    autumnai/leaf
   </a>
-  <span>
-   &#9733 4007, pushed 3 days ago
-  </span>
   — Open Machine Intelligence framework.
   <a href="https://travis-ci.org/autumnai/leaf">
    <img alt="Build Status" src="https://travis-ci.org/autumnai/leaf.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 4007, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 4007, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maciejkula/rustlearn">
    maciejkula/rustlearn
   </a>
-  <span>
-   &#9733 142, pushed 63 days ago
-  </span>
   — Machine learning crate for Rust.
   <a href="https://circleci.com/gh/maciejkula/rustlearn">
    <img alt="Circle CI" src="https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 142, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 142, pushed 63 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3473,9 +4040,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/google/pulldown-cmark">
      google/pulldown-cmark
     </a>
-    <span>
-     &#9733 199, pushed 21 days ago
-    </span>
     —
     <a href="http://commonmark.org/">
      CommonMark
@@ -3483,6 +4047,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     parser in Rust
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 199, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 199, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3496,15 +4066,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/tomaka/android-rs-glue">
      tomaka/android-rs-glue
     </a>
-    <span>
-     &#9733 238, pushed 7 days ago
-    </span>
     — glue between Rust and Android
     <a href="https://travis-ci.org/tomaka/android-rs-glue">
      <img src="https://travis-ci.org/tomaka/android-rs-glue.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 238, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 238, pushed 7 days ago
+  </sup>
  </li>
  <li>
   iOS
@@ -3513,9 +4086,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/TimNN/cargo-lipo">
      TimNN/cargo-lipo
     </a>
-    <span>
-     &#9733 7, pushed 35 days ago
-    </span>
     — a cargo lipo subcommand which automatically creates a universal library for use with your iOS application.
     <a href="https://travis-ci.org/TimNN/cargo-lipo">
      <img src="https://travis-ci.org/TimNN/cargo-lipo.svg?branch=master"/>
@@ -3525,15 +4095,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/vhbit/ObjCrust">
      vhbit/ObjCrust
     </a>
-    <span>
-     &#9733 35, pushed 304 days ago
-    </span>
     — using Rust to create an iOS static library
     <a href="https://travis-ci.org/vhbit/ObjCrust">
      <img src="https://travis-ci.org/vhbit/ObjCrust.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 35, pushed 304 days ago
+    </sup>
+    <sup>
+     &#9733 35, pushed 304 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 7, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 35 days ago
+  </sup>
  </li>
  <li>
   Pebble
@@ -3542,12 +4121,15 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/andars/pebble.rs">
      andars/pebble.rs
     </a>
-    <span>
-     &#9733 27, pushed 167 days ago
-    </span>
     — a crate that allows Rust to be used to develop Pebble applications.
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 27, pushed 167 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 167 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3561,9 +4143,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mattnenterprise/rust-ftp">
      mattnenterprise/rust-ftp
     </a>
-    <span>
-     &#9733 11, pushed 20 days ago
-    </span>
     — an
     <a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">
      FTP
@@ -3574,6 +4153,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 11, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 20 days ago
+  </sup>
  </li>
  <li>
   Low level
@@ -3582,15 +4167,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/libpnet/libpnet">
      libpnet/libpnet
     </a>
-    <span>
-     &#9733 283, pushed 2 days ago
-    </span>
     — a cross-platform, low level networking
     <a href="https://travis-ci.org/libpnet/libpnet">
      <img src="https://travis-ci.org/libpnet/libpnet.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 283, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 283, pushed 2 days ago
+  </sup>
  </li>
  <li>
   NanoMsg
@@ -3599,9 +4187,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/thehydroimpulse/nanomsg.rs">
      thehydroimpulse/nanomsg.rs
     </a>
-    <span>
-     &#9733 157, pushed 56 days ago
-    </span>
     —
     <a href="http://nanomsg.org/">
      nanomsg
@@ -3612,6 +4197,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 157, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 56 days ago
+  </sup>
  </li>
  <li>
   NNTP
@@ -3620,9 +4211,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mattnenterprise/rust-nntp">
      mattnenterprise/rust-nntp
     </a>
-    <span>
-     &#9733 3, pushed 113 days ago
-    </span>
     — an
     <a href="https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol">
      NNTP
@@ -3633,6 +4221,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 3, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 113 days ago
+  </sup>
  </li>
  <li>
   POP3
@@ -3641,9 +4235,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mattnenterprise/rust-pop3">
      mattnenterprise/rust-pop3
     </a>
-    <span>
-     &#9733 3, pushed 2 days ago
-    </span>
     — a
     <a href="https://en.wikipedia.org/wiki/Post_Office_Protocol">
      POP3
@@ -3654,6 +4245,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 3, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 2 days ago
+  </sup>
  </li>
  <li>
   SSH
@@ -3662,9 +4259,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/alexcrichton/ssh2-rs">
      alexcrichton/ssh2-rs
     </a>
-    <span>
-     &#9733 47, pushed 2 days ago
-    </span>
     —
     <a href="http://www.libssh2.org/">
      libssh2
@@ -3675,6 +4269,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 47, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Stomp
@@ -3683,9 +4283,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/zslayton/stomp-rs">
      zslayton/stomp-rs
     </a>
-    <span>
-     &#9733 35, pushed 69 days ago
-    </span>
     — a
     <a href="http://stomp.github.io/stomp-specification-1.2.html">
      STOMP 1.2
@@ -3696,6 +4293,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 35, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 69 days ago
+  </sup>
  </li>
  <li>
   uTP
@@ -3704,9 +4307,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/meqif/rust-utp">
      meqif/rust-utp
     </a>
-    <span>
-     &#9733 30, pushed 117 days ago
-    </span>
     — a
     <a href="http://www.bittorrent.org/beps/bep_0029.html">
      uTP
@@ -3717,6 +4317,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 30, pushed 117 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 117 days ago
+  </sup>
  </li>
  <li>
   ZeroMQ
@@ -3725,9 +4331,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/erickt/rust-zmq">
      erickt/rust-zmq
     </a>
-    <span>
-     &#9733 170, pushed 10 days ago
-    </span>
     —
     <a href="http://zeromq.org/">
      ZeroMQ
@@ -3738,6 +4341,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 170, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 170, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3748,91 +4357,115 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/Geal/nom">
    Geal/nom
   </a>
-  <span>
-   &#9733 768, pushed 20 days ago
-  </span>
   — parser combinator library
   <a href="https://travis-ci.org/Geal/nom">
    <img src="https://travis-ci.org/Geal/nom.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 768, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 768, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ivanceras/inquerest">
    ivanceras/inquerest
   </a>
-  <span>
-   &#9733 14, pushed 24 days ago
-  </span>
   — an URL parameter parser for rest filter inquiry
   <a href="https://travis-ci.org/ivanceras/inquerest">
    <img alt="Build Status" src="https://travis-ci.org/ivanceras/inquerest.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 14, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinmehall/rust-peg">
    kevinmehall/rust-peg
   </a>
-  <span>
-   &#9733 261, pushed 7 days ago
-  </span>
   — Parsing Expression Grammar (PEG) parser generator
+  <sup>
+   243 GitHub links in total 408 links, ★ 261, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 261, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/m4rw3r/chomp">
    m4rw3r/chomp
   </a>
-  <span>
-   &#9733 98, pushed 33 days ago
-  </span>
   – A fast monadic-style parser combinator
   <a href="https://travis-ci.org/m4rw3r/chomp">
    <img src="https://travis-ci.org/m4rw3r/chomp.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 98, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Marwes/combine">
    Marwes/combine
   </a>
-  <span>
-   &#9733 139, pushed 16 days ago
-  </span>
   — parser combinator library
   <a href="https://travis-ci.org/Marwes/combine">
    <img src="https://travis-ci.org/Marwes/combine.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 139, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 139, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nikomatsakis/lalrpop">
    nikomatsakis/lalrpop
   </a>
-  <span>
-   &#9733 224, pushed 13 days ago
-  </span>
   - LR(1) parser generator for Rust
   <a href="https://travis-ci.org/nikomatsakis/lalrpop">
    <img alt="Build status" src="https://travis-ci.org/nikomatsakis/lalrpop.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 224, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 224, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ptal/oak">
    ptal/oak
   </a>
-  <span>
-   &#9733 76, pushed 16 days ago
-  </span>
   — a typed PEG parser generator (compiler plugin)
+  <sup>
+   243 GitHub links in total 408 links, ★ 76, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rustless/queryst">
    rustless/queryst
   </a>
-  <span>
-   &#9733 18, pushed 2 days ago
-  </span>
   — a query string parsing library for Rust inspired by https://github.com/ljharb/qs
   <a href="https://travis-ci.org/rustless/queryst">
    <img alt="Build Status" src="https://travis-ci.org/rustless/queryst.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 18, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3846,9 +4479,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/hannobraun/inotify-rs">
      hannobraun/inotify-rs
     </a>
-    <span>
-     &#9733 37, pushed 89 days ago
-    </span>
     —
     <a href="https://en.wikipedia.org/wiki/Inotify">
      inotify
@@ -3859,6 +4489,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 37, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 89 days ago
+  </sup>
  </li>
  <li>
   Unix-like
@@ -3876,15 +4512,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/zargony/rust-fuse">
      zargony/rust-fuse
     </a>
-    <span>
-     &#9733 128, pushed 35 days ago
-    </span>
     —
     <a href="https://github.com/libfuse/libfuse">
      FUSE
     </a>
     bindings
     <img src="https://travis-ci.org/zargony/rust-fuse.svg?branch=master"/>
+    <sup>
+     243 GitHub links in total 408 links, ★ 128, pushed 35 days ago
+    </sup>
+    <sup>
+     &#9733 128, pushed 35 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -3895,15 +4534,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/retep998/winapi-rs">
      retep998/winapi-rs
     </a>
-    <span>
-     &#9733 158, pushed 4 days ago
-    </span>
     — Windows API bindings
     <a href="https://travis-ci.org/retep998/winapi-rs">
      <img src="https://travis-ci.org/retep998/winapi-rs.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 158, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3917,15 +4559,18 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/sunng87/handlebars-rust">
      sunng87/handlebars-rust
     </a>
-    <span>
-     &#9733 104, pushed 9 days ago
-    </span>
     — Handlebars template engine with inheritance, custom helper support.
     <a href="https://travis-ci.org/sunng87/handlebars-rust">
      <img src="https://travis-ci.org/sunng87/handlebars-rust.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 104, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 104, pushed 9 days ago
+  </sup>
  </li>
  <li>
   HTML
@@ -3934,9 +4579,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/lfairy/maud">
      lfairy/maud
     </a>
-    <span>
-     &#9733 106, pushed 6 days ago
-    </span>
     — compile-time HTML templates
     <a href="https://travis-ci.org/lfairy/maud">
      <img src="https://travis-ci.org/lfairy/maud.svg?branch=master"/>
@@ -3946,15 +4588,24 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Stebalien/horrorshow-rs">
      Stebalien/horrorshow-rs
     </a>
-    <span>
-     &#9733 35, pushed 37 days ago
-    </span>
     — compile-time HTML templates
     <a href="https://travis-ci.org/Stebalien/horrorshow-rs">
      <img src="https://travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 35, pushed 37 days ago
+    </sup>
+    <sup>
+     &#9733 35, pushed 37 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 106, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Mustache
@@ -3963,24 +4614,30 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/rustache/rustache">
      rustache/rustache
     </a>
-    <span>
-     &#9733 129, pushed 205 days ago
-    </span>
     —
     <a href="https://travis-ci.org/rustache/rustache">
      <img src="https://travis-ci.org/rustache/rustache.svg?branch=master"/>
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 129, pushed 205 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 205 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tailhook/marafet">
    tailhook/marafet
   </a>
-  <span>
-   &#9733 3, pushed 239 days ago
-  </span>
   — Compiler for Jade-like template language to cito.js-based virtual dom
+  <sup>
+   243 GitHub links in total 408 links, ★ 3, pushed 239 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 239 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -3991,33 +4648,36 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/BurntSushi/suffix">
    BurntSushi/suffix
   </a>
-  <span>
-   &#9733 32, pushed 247 days ago
-  </span>
   — Linear time suffix array construction (with Unicode support)
   <a href="https://travis-ci.org/BurntSushi/suffix">
    <img src="https://travis-ci.org/BurntSushi/suffix.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 32, pushed 247 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 247 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BurntSushi/tabwriter">
    BurntSushi/tabwriter
   </a>
-  <span>
-   &#9733 28, pushed 108 days ago
-  </span>
   — Elastic tab stops (i.e., text column alignment)
   <a href="https://travis-ci.org/BurntSushi/tabwriter">
    <img src="https://travis-ci.org/BurntSushi/tabwriter.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 28, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 108 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pwoolcoc/ngrams">
    pwoolcoc/ngrams
   </a>
-  <span>
-   &#9733 2, pushed 67 days ago
-  </span>
   — Construct
   <a href="https://en.wikipedia.org/wiki/N-gram">
    n-grams
@@ -4026,18 +4686,27 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://travis-ci.org/pwoolcoc/ngrams">
    <img src="https://travis-ci.org/pwoolcoc/ngrams.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 2, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rust-lang-nursery/regex">
    rust-lang-nursery/regex
   </a>
-  <span>
-   &#9733 178, pushed 2 days ago
-  </span>
   — Regular expressions (RE2 style)
   <a href="https://travis-ci.org/rust-lang-nursery/regex">
    <img src="https://travis-ci.org/rust-lang-nursery/regex.svg?branch=master"/>
   </a>
+  <sup>
+   243 GitHub links in total 408 links, ★ 178, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 178, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4048,10 +4717,13 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/saurvs/hypervisor-rs">
    saurvs/hypervisor-rs
   </a>
-  <span>
-   &#9733 1, pushed 30 days ago
-  </span>
   — Hardware-accelerated virtualization on OS X
+  <sup>
+   243 GitHub links in total 408 links, ★ 1, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 30 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -4072,9 +4744,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/carllerche/curl-rust">
      carllerche/curl-rust
     </a>
-    <span>
-     &#9733 192, pushed 3 days ago
-    </span>
     —
     <a href="http://curl.haxx.se/libcurl/">
      libcurl
@@ -4088,21 +4757,21 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/hyperium/hyper">
      hyperium/hyper
     </a>
-    <span>
-     &#9733 1626, pushed 4 days ago
-    </span>
     — an HTTP implementation
     <a href="https://travis-ci.org/hyperium/hyper">
      <img src="https://travis-ci.org/hyperium/hyper.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 1626, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 1626, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vhbit/curl-rs">
      vhbit/curl-rs
     </a>
-    <span>
-     &#9733 1, pushed 613 days ago
-    </span>
     —
     <a href="http://curl.haxx.se/libcurl/">
      libcurl
@@ -4111,8 +4780,20 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/vhbit/curl-rs">
      <img src="https://travis-ci.org/vhbit/curl-rs.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 1, pushed 613 days ago
+    </sup>
+    <sup>
+     &#9733 1, pushed 613 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 192, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 4 days ago
+  </sup>
  </li>
  <li>
   HTTP Server
@@ -4121,9 +4802,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/fengsp/pencil">
      fengsp/pencil
     </a>
-    <span>
-     &#9733 587, pushed 28 days ago
-    </span>
     —
     <a href="https://travis-ci.org/fengsp/pencil">
      <img src="https://travis-ci.org/fengsp/pencil.svg?branch=master"/>
@@ -4142,21 +4820,21 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/iron/iron">
      Iron
     </a>
-    <span>
-     &#9733 2838, pushed 7 days ago
-    </span>
     — a middleware-based server framework
     <a href="https://travis-ci.org/iron/iron">
      <img src="https://travis-ci.org/iron/iron.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 2838, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 2838, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sunng87/handlebars-iron">
      sunng87/handlebars-iron
     </a>
-    <span>
-     &#9733 68, pushed 1 days ago
-    </span>
     —
     <a href="https://github.com/sunng87/handlebars-rust">
      Handlebars-rust
@@ -4165,6 +4843,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/sunng87/handlebars-iron">
      <img src="https://travis-ci.org/sunng87/handlebars-iron.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 68, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 68, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nickel-org/nickel.rs/">
@@ -4182,21 +4866,21 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/Ogeon/rustful">
      Ogeon/rustful
     </a>
-    <span>
-     &#9733 737, pushed 20 days ago
-    </span>
     — a RESTful web framework for Rust
     <a href="https://travis-ci.org/Ogeon/rustful">
      <img src="https://travis-ci.org/Ogeon/rustful.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 737, pushed 20 days ago
+    </sup>
+    <sup>
+     &#9733 737, pushed 20 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rustless/rustless">
      Rustless
     </a>
-    <span>
-     &#9733 247, pushed 12 days ago
-    </span>
     — a REST-like API micro-framework inspired by
     <a href="https://github.com/ruby-grape/grape">
      Grape
@@ -4208,20 +4892,35 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/rustless/rustless">
      <img src="https://travis-ci.org/rustless/rustless.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 247, pushed 12 days ago
+    </sup>
+    <sup>
+     &#9733 247, pushed 12 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/frewsxcv/tiny-http">
      tiny-http
     </a>
-    <span>
-     &#9733 172, pushed 153 days ago
-    </span>
     — Low level HTTP server library
     <a href="https://travis-ci.org/frewsxcv/tiny-http">
      <img src="https://travis-ci.org/frewsxcv/tiny-http.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 172, pushed 153 days ago
+    </sup>
+    <sup>
+     &#9733 172, pushed 153 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 587, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 587, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://datatracker.ietf.org/doc/rfc6455/">
@@ -4232,25 +4931,31 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/cyderize/rust-websocket">
      cyderize/rust-websocket
     </a>
-    <span>
-     &#9733 191, pushed 11 days ago
-    </span>
     — a framework for dealing with WebSocket connections (both clients and servers)
     <a href="https://travis-ci.org/cyderize/rust-websocket">
      <img src="https://travis-ci.org/cyderize/rust-websocket.svg?branch=master"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 191, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 191, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/housleyjk/ws-rs">
      housleyjk/ws-rs
     </a>
-    <span>
-     &#9733 127, pushed 4 days ago
-    </span>
     — lightweight, event-driven WebSockets for Rust
     <a href="https://travis-ci.org/housleyjk/ws-rs">
      <img src="https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable"/>
     </a>
+    <sup>
+     243 GitHub links in total 408 links, ★ 127, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 127, pushed 4 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4266,9 +4971,6 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/TeXitoi/benchmarksgame-rs">
      TeXitoi/benchmarksgame-rs
     </a>
-    <span>
-     &#9733 14, pushed 6 days ago
-    </span>
     — Rust implementations for the
     <a href="http://benchmarksgame.alioth.debian.org/">
      The Computer Language Benchmarks Game
@@ -4278,6 +4980,12 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
   </ul>
+  <sup>
+   243 GitHub links in total 408 links, ★ 14, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Podcasts
@@ -4310,9 +5018,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/nrc/patterns">
    Rust Design Patterns
   </a>
-  <span>
+  <sup>
+   243 GitHub links in total 408 links, ★ 386, pushed 119 days ago
+  </sup>
+  <sup>
    &#9733 386, pushed 119 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://aturon.github.io/">
@@ -4323,19 +5034,25 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/ctjhoa/rust-learning">
    rust-learning
   </a>
-  <span>
-   &#9733 611, pushed 15 days ago
-  </span>
   — a collection of useful resources to learn Rust
+  <sup>
+   243 GitHub links in total 408 links, ★ 611, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 611, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/carols10cents/rustlings">
    Rustlings
   </a>
-  <span>
-   &#9733 1151, pushed 14 days ago
-  </span>
   — small exercises to get you used to reading and writing Rust code
+  <sup>
+   243 GitHub links in total 408 links, ★ 1151, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 1151, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>

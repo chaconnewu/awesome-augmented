@@ -102,9 +102,6 @@
    <a href="https://github.com/mutualmobile/MMWormhole">
     MMWormhole
    </a>
-   <span>
-    &#9733 2805, pushed 118 days ago
-   </span>
    - A powerful toolkit for synthesizing, processing, and analyzing sounds.
   </p>
   <p>
@@ -114,6 +111,12 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 2805, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 2805, pushed 118 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -140,9 +143,6 @@
    <a href="https://github.com/mikeswanson/JBWatchActivityIndicator">
     JBWatchActivityIndicator
    </a>
-   <span>
-    &#9733 419, pushed 137 days ago
-   </span>
    - An easy way to generate activity indicator images for Apple Watch.
   </p>
   <p>
@@ -155,15 +155,18 @@
   <h3>
    Charts
   </h3>
+  <sup>
+   19 GitHub links in total 54 links, ★ 419, pushed 137 days ago
+  </sup>
+  <sup>
+   &#9733 419, pushed 137 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/yasuoza/YOChartImageKit">
     YOChartImageKit
    </a>
-   <span>
-    &#9733 296, pushed 85 days ago
-   </span>
    - A chart image framework for watchOS.
   </p>
   <p>
@@ -173,15 +176,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 296, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 296, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/NilStack/NKWatchChart">
     NKWatchChart
    </a>
-   <span>
-    &#9733 218, pushed 81 days ago
-   </span>
    - A chart library for Apple Watch based on PNChart and ios-charts.
   </p>
   <p>
@@ -191,6 +197,12 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 218, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 81 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -264,19 +276,25 @@
   <a href="https://github.com/hmaidasani/RadialChartImageGenerator">
    RadialChartImageGenerator
   </a>
-  <span>
-   &#9733 350, pushed 48 days ago
-  </span>
   - A radial bar chart generator for apple watch.
+  <sup>
+   19 GitHub links in total 54 links, ★ 350, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 350, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kiavashfaisali/KFWatchKitAnimations">
    KFWatchKitAnimations
   </a>
-  <span>
-   &#9733 350, pushed 204 days ago
-  </span>
   - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
+  <sup>
+   19 GitHub links in total 54 links, ★ 350, pushed 204 days ago
+  </sup>
+  <sup>
+   &#9733 350, pushed 204 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -311,9 +329,6 @@
    <a href="https://github.com/kenshin03/Cherry">
     Cherry
    </a>
-   <span>
-    &#9733 338, pushed 327 days ago
-   </span>
    - A mini pomodoro timer app designed for the  Watch.
   </p>
   <p>
@@ -323,6 +338,12 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 338, pushed 328 days ago
+  </sup>
+  <sup>
+   &#9733 338, pushed 328 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -359,20 +380,20 @@
    <a href="https://github.com/Dimillian/SwiftHN">
     SwiftHN
    </a>
-   <span>
-    &#9733 1050, pushed 126 days ago
-   </span>
    - A Hacker News reader written in Swift.
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 1050, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 1050, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/belm/BaiduFM-Swift">
     BaiduFM-Swift
    </a>
-   <span>
-    &#9733 494, pushed 240 days ago
-   </span>
    - A apple watch app for BaiduFM.
   </p>
   <p>
@@ -382,15 +403,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 494, pushed 240 days ago
+  </sup>
+  <sup>
+   &#9733 494, pushed 240 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/FancyPixel/done-swift">
     done-swift
    </a>
-   <span>
-    &#9733 80, pushed 292 days ago
-   </span>
    - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
   </p>
   <p>
@@ -400,15 +424,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 80, pushed 292 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 292 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/GetHighstreet/HighstreetWatchApp">
     HighstreetWatchApp
    </a>
-   <span>
-    &#9733 341, pushed 343 days ago
-   </span>
    - The watchKit app built on the
    <a href="http://highstreetapp.com">
     http://highstreetapp.com
@@ -422,15 +449,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 341, pushed 343 days ago
+  </sup>
+  <sup>
+   &#9733 341, pushed 343 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/D-32/OnTime">
     OnTime
    </a>
-   <span>
-    &#9733 37, pushed 213 days ago
-   </span>
    - An apple watch app to access the SBB timetable.
   </p>
   <p>
@@ -440,15 +470,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 37, pushed 213 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 213 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/azamsharp/WatchNotes">
     WatchNotes
    </a>
-   <span>
-    &#9733 74, pushed 187 days ago
-   </span>
    - An apple watch app to display notes on your wrist.
   </p>
   <p>
@@ -458,15 +491,18 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 74, pushed 187 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 187 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/D-32/WatchPics">
     WatchPics
    </a>
-   <span>
-    &#9733 76, pushed 478 days ago
-   </span>
    - Instagram for the Apple Watch.
   </p>
   <p>
@@ -476,37 +512,46 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 76, pushed 478 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 478 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/kostiakoval/WatchKit-Apps">
     WatchKit-Apps
    </a>
-   <span>
-    &#9733 992, pushed 150 days ago
-   </span>
    - Tutorials app for WatchKit.
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 992, pushed 150 days ago
+  </sup>
+  <sup>
+   &#9733 992, pushed 150 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/shu223/watchOS-2-Sampler">
     watchOS-2-Sampler
    </a>
-   <span>
-    &#9733 920, pushed 27 days ago
-   </span>
    - Code examples for new features of watchOS 2.
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 920, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 920, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <p>
    <a href="https://github.com/sandofsky/soon">
     soon
    </a>
-   <span>
-    &#9733 64, pushed 185 days ago
-   </span>
    - A countdown app.
   </p>
   <p>
@@ -516,6 +561,12 @@
     </space>
    </space>
   </p>
+  <sup>
+   19 GitHub links in total 54 links, ★ 64, pushed 185 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 185 days ago
+  </sup>
  </li>
 </ul>
 <h1>

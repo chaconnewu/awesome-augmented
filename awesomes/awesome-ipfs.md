@@ -82,10 +82,13 @@ place to ask about it might be in
   <a href="https://github.com/beetbox/beets">
    beets
   </a>
-  <span>
-   &#9733 4666, pushed 2 days ago
-  </span>
   - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 4666, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4666, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ipfs.ydns.eu/ipns/boards.ydns.eu/">
@@ -100,64 +103,85 @@ place to ask about it might be in
   <a href="https://github.com/zignig/cohort">
    Cohort
   </a>
-  <span>
-   &#9733 8, pushed 358 days ago
-  </span>
   - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+  <sup>
+   23 GitHub links in total 46 links, ★ 8, pushed 358 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 358 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/whyrusleeping/git-ipfs-rehost">
    git-ipfs-rehost
   </a>
-  <span>
-   &#9733 44, pushed 90 days ago
-  </span>
   - A script to rehost your git repos in ipfs.
+  <sup>
+   23 GitHub links in total 46 links, ★ 44, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hydrusnetwork/hydrus">
    HydrusNetwork
   </a>
-  <span>
-   &#9733 90, pushed 6 days ago
-  </span>
   - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+  <sup>
+   23 GitHub links in total 46 links, ★ 90, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamescarlyle/ipfs-wiki">
    Interplanetary Wiki
   </a>
-  <span>
-   &#9733 25, pushed 192 days ago
-  </span>
   - Wiki built on top of IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 25, pushed 192 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 192 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/travisperson/ipfs-event-drops">
    IPFS Event Drop
   </a>
-  <span>
-   &#9733 4, pushed 441 days ago
-  </span>
   - An app that allows for improved visualization of ipfs events.
+  <sup>
+   23 GitHub links in total 46 links, ★ 4, pushed 441 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 441 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rameshvarun/ipfs-share">
    ipfs-share
   </a>
-  <span>
-   &#9733 9, pushed 433 days ago
-  </span>
   - Pastebin/Image host/File sharing application
+  <sup>
+   23 GitHub links in total 46 links, ★ 9, pushed 433 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 433 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/loadletter/ipfs-redirect-userscript">
    ipfs-userscript
   </a>
-  <span>
-   &#9733 2, pushed 217 days ago
-  </span>
   -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
+  <sup>
+   23 GitHub links in total 46 links, ★ 2, pushed 217 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 217 days ago
+  </sup>
  </li>
  <li>
   <a href="https://ipfs.pics">
@@ -181,22 +205,28 @@ place to ask about it might be in
   <a href="https://github.com/davidar/markup.rocks">
    markup.rocks
   </a>
-  <span>
-   &#9733 7, pushed 178 days ago
-  </span>
   - Pandoc-based markup editor/previewer/converter, ported to IPFS.
   <a href="https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u">
    Example
   </a>
+  <sup>
+   23 GitHub links in total 46 links, ★ 7, pushed 178 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 178 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/haadcode/orbit">
    Orbit
   </a>
-  <span>
-   &#9733 103, pushed 6 days ago
-  </span>
   - Distributed, peer-to-peer chat application on IPFS.
+  <sup>
+   23 GitHub links in total 46 links, ★ 103, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://mafintosh.github.io/playback/">
@@ -257,118 +287,157 @@ place to ask about it might be in
   <a href="https://github.com/BrendanBenshoof/cachewarmer">
    cachewarmer
   </a>
-  <span>
-   &#9733 8, pushed 230 days ago
-  </span>
   - Donate ipfs gateways to cache other people's content
+  <sup>
+   23 GitHub links in total 46 links, ★ 8, pushed 230 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 231 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cryptix/git-remote-ipfs">
    git-remote-ipfs
   </a>
-  <span>
-   &#9733 63, pushed 179 days ago
-  </span>
   - push/pull repositories from/to IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 63, pushed 179 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 179 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbenet/http2ipfs-web">
    http2ipfs
   </a>
-  <span>
-   &#9733 10, pushed 162 days ago
-  </span>
   - This is a simple webtool to add URLs to an IPFS node.
+  <sup>
+   23 GitHub links in total 46 links, ★ 10, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/noffle/ipcat">
    ipcat
   </a>
-  <span>
-   &#9733 1, pushed 178 days ago
-  </span>
   - :cat2: Retrieve IPFS object data and send it to stdout.
+  <sup>
+   23 GitHub links in total 46 links, ★ 1, pushed 178 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 178 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dylanPowers/ipfs-chrome-extension">
    ipfs-chrome-extension
   </a>
-  <span>
-   &#9733 39, pushed 15 days ago
-  </span>
   - Chrome extension to redirect ipfs.io traffic to local gateway
+  <sup>
+   23 GitHub links in total 46 links, ★ 39, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lidel/ipfs-firefox-addon">
    ipfs-firefox-addon
   </a>
-  <span>
-   &#9733 45, pushed 4 days ago
-  </span>
   - Firefox addon to provide access to IPFS via local gateway
+  <sup>
+   23 GitHub links in total 46 links, ★ 45, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dylanPowers/ipfs-linux-service">
    ipfs-linux-service
   </a>
-  <span>
-   &#9733 19, pushed 378 days ago
-  </span>
   - IPFS Linux Init Daemon
+  <sup>
+   23 GitHub links in total 46 links, ★ 19, pushed 378 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 378 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbenet/ipfs-paste">
    ipfs-paste
   </a>
-  <span>
-   &#9733 13, pushed 167 days ago
-  </span>
   - Paste stdin and clipboard to IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 13, pushed 167 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 167 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbenet/ipfs-screencap">
    ipfs-screencap
   </a>
-  <span>
-   &#9733 17, pushed 272 days ago
-  </span>
   - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+  <sup>
+   23 GitHub links in total 46 links, ★ 17, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/victorbjelkholm/ipfscrape">
    ipfscrape
   </a>
-  <span>
-   &#9733 54, pushed 74 days ago
-  </span>
   - Scrape a webpage with all assets and put it in IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 54, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ipfs/ipget">
    ipget
   </a>
-  <span>
-   &#9733 30, pushed 12 days ago
-  </span>
   - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+  <sup>
+   23 GitHub links in total 46 links, ★ 30, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/diasdavid/ipscend">
    ipscend
   </a>
-  <span>
-   &#9733 72, pushed 2 days ago
-  </span>
   - Tool for hosting web apps and static websites in IPFS
+  <sup>
+   23 GitHub links in total 46 links, ★ 72, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 72, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/whyrusleeping/pinbot">
    pinbot
   </a>
-  <span>
-   &#9733 12, pushed 69 days ago
-  </span>
   - Pin content via IRC
+  <sup>
+   23 GitHub links in total 46 links, ★ 12, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 69 days ago
+  </sup>
  </li>
 </ul>
 <h2>

@@ -302,9 +302,12 @@
   <a href="https://github.com/ryanswanstrom/awesome-datascience-colleges">
    A list of colleges and universities offering degrees in data science.
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 36, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 36, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="datascience.berkeley.edu">
@@ -415,9 +418,12 @@
   <a href="https://github.com/DataScienceSpecialization/courses">
    Data Science Specialization
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 2088, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 2088, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://www.coursera.org/specializations/big-data">
@@ -646,9 +652,12 @@
   <a href="https://github.com/datasciencemasters/data">
    Open Data Sources
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 136, pushed 121 days ago
+  </sup>
+  <sup>
    &#9733 136, pushed 121 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.unicef.org/statistics/">
@@ -1849,9 +1858,12 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/NervanaSystems/neon">
    Nervana's python based Deep Learning Framework
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 1808, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 1808, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://airbnb.io/aerosolve/">
@@ -1863,10 +1875,13 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/01org/idlf">
    Intel framework
   </a>
-  <span>
-   &#9733 296, pushed 92 days ago
-  </span>
   - Intel® Deep Learning Framework
+  <sup>
+   15 GitHub links in total 361 links, ★ 296, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 296, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://datawrapper.de">
@@ -1903,10 +1918,13 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/JuliaLang/IJulia.jl">
    IJulia
   </a>
-  <span>
-   &#9733 862, pushed 8 days ago
-  </span>
   – a Julia-language backend combined with the Jupyter interactive environment.
+  <sup>
+   15 GitHub links in total 361 links, ★ 862, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 862, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2166,9 +2184,12 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/jtleek/datasharing">
    How to Share Data with a Statistician
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 3062, pushed 23 days ago
+  </sup>
+  <sup>
    &#9733 3062, pushed 23 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science">
@@ -2200,67 +2221,91 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   list.
+  <sup>
+   15 GitHub links in total 361 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Awesome Machine Learning
   </a>
-  <span>
-   &#9733 12665, pushed 4 days ago
-  </span>
   A curated list of awesome Machine Learning frameworks, libraries and software.
+  <sup>
+   15 GitHub links in total 361 links, ★ 12665, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 12665, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 3765, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 3765, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fasouto/awesome-dataviz">
    awesome-dataviz
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 431, pushed 11 days ago
+  </sup>
+  <sup>
    &#9733 431, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vinta/awesome-python">
    awesome-python
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 20412, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 20412, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/donnemartin/data-science-ipython-notebooks">
    Data Science IPython Notebooks.
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 5541, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 5541, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/qinwf/awesome-R">
    awesome-r
   </a>
-  <span>
-   &#9733 1317, pushed 4 days ago
-  </span>
+  <sup>
+   15 GitHub links in total 361 links, ★ 1317, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1317, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/caesar0301/awesome-public-datasets">
    awesome-datasets
   </a>
-  <span>
-   &#9733 13887, pushed 6 days ago
-  </span>
   . – An awesome list of high-quality open datasets in public domains
+  <sup>
+   15 GitHub links in total 361 links, ★ 13887, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 13887, pushed 6 days ago
+  </sup>
  </li>
 </ul>

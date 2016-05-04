@@ -720,10 +720,13 @@
   <a href="https://github.com/schacon/git-scribe">
    Git-scribe
   </a>
-  <span>
-   &#9733 1262, pushed 253 days ago
-  </span>
   : Good for writing ebooks.
+  <sup>
+   37 GitHub links in total 265 links, ★ 1262, pushed 253 days ago
+  </sup>
+  <sup>
+   &#9733 1262, pushed 253 days ago
+  </sup>
  </li>
  <li>
   <a href="#static-site-generator">
@@ -749,19 +752,19 @@
     <a href="https://github.com/snide/sphinx_rtd_theme">
      rtd theme
     </a>
-    <span>
-     &#9733 1440, pushed 39 days ago
-    </span>
     : Developed by ReadtheDocs.org
    </li>
    <li>
     <a href="https://github.com/bitprophet/alabaster">
      Alabaster
     </a>
-    <span>
-     &#9733 218, pushed 8 days ago
-    </span>
     : Clean and simple
+    <sup>
+     37 GitHub links in total 265 links, ★ 218, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 218, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vkvn/sphinx-themes">
@@ -774,6 +777,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   37 GitHub links in total 265 links, ★ 1440, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 1440, pushed 39 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -786,25 +795,34 @@
   <a href="https://github.com/certik/theoretical-physics">
    Theoretical Physics
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 71, pushed 55 days ago
+  </sup>
+  <sup>
    &#9733 71, pushed 55 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emptymalei/statisticalphysics">
    Statistical Physics
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 0, pushed 55 days ago
+  </sup>
+  <sup>
    &#9733 0, pushed 55 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NeuPhysics/neutrino">
    Neutrino Physics
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 4, pushed 12 days ago
+  </sup>
+  <sup>
    &#9733 4, pushed 12 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -901,40 +919,49 @@
   <a href="https://github.com/tryghost/Ghost">
    Ghost
   </a>
-  <span>
-   &#9733 19315, pushed 1 days ago
-  </span>
   (
   <code>
    Node.js
   </code>
   ): Open, Simple, non-profit; write with markdown and live preview.
+  <sup>
+   37 GitHub links in total 265 links, ★ 19315, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 19315, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/picocms/Pico">
    Pico
   </a>
-  <span>
-   &#9733 2296, pushed 4 days ago
-  </span>
   (
   <code>
    PHP
   </code>
   ): Lightweight cms, open source, no database.
+  <sup>
+   37 GitHub links in total 265 links, ★ 2296, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2296, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/circa75/dropplets">
    Dropplets
   </a>
-  <span>
-   &#9733 1570, pushed 176 days ago
-  </span>
   (
   <code>
    PHP
   </code>
   ): Open source, simple, and elegant blog system; write in Markdown.
+  <sup>
+   37 GitHub links in total 265 links, ★ 1570, pushed 176 days ago
+  </sup>
+  <sup>
+   &#9733 1570, pushed 176 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1024,9 +1051,12 @@
     <a href="https://github.com/wting/pelican-svbtle">
      Pelican Svbtle Theme
     </a>
-    <span>
-     &#9733 128, pushed 58 days ago
-    </span>
+    <sup>
+     37 GitHub links in total 265 links, ★ 128, pushed 59 days ago
+    </sup>
+    <sup>
+     &#9733 128, pushed 59 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1296,9 +1326,6 @@
   <a href="https://github.com/retext-project/retext">
    ReText
   </a>
-  <span>
-   &#9733 232, pushed 6 days ago
-  </span>
   (
   <code>
    Mac
@@ -1312,6 +1339,12 @@
    Linux
   </code>
   ): ReText one of the best, even on Linux. It also supports reStructuredText input.
+  <sup>
+   37 GitHub links in total 265 links, ★ 232, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 232, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.madoko.net/">
@@ -1383,19 +1416,25 @@
   <a href="https://github.com/alabid/flylatex">
    FlyLaTeX
   </a>
-  <span>
-   &#9733 775, pushed 49 days ago
-  </span>
   : A free, open source version of sharelatex
+  <sup>
+   37 GitHub links in total 265 links, ★ 775, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 775, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sharelatex/sharelatex">
    ShareLaTeX Source Code
   </a>
-  <span>
-   &#9733 3496, pushed 12 days ago
-  </span>
   : ShareLaTeX open sourced their codes. This is a great move I would say.
+  <sup>
+   37 GitHub links in total 265 links, ★ 3496, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 3496, pushed 13 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1409,9 +1448,12 @@
   <a href="https://github.com/jrjohansson/scientific-python-lectures">
    Scientific Python Lectures
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 1241, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 1241, pushed 14 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://reproduced-papers.github.io/">
@@ -1454,10 +1496,13 @@
   <a href="https://github.com/fex-team/kityminder">
    KityMinder By Baidu
   </a>
-  <span>
-   &#9733 1508, pushed 265 days ago
-  </span>
   : Chinese Interface
+  <sup>
+   37 GitHub links in total 265 links, ★ 1508, pushed 265 days ago
+  </sup>
+  <sup>
+   &#9733 1508, pushed 265 days ago
+  </sup>
  </li>
  <li>
   <a href="http://my-mind.github.io/">
@@ -1517,9 +1562,12 @@
   <a href="https://github.com/hizzgdev/jsmind">
    jsmind
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 131, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 131, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/jsmind/">
@@ -1530,9 +1578,12 @@
   <a href="https://github.com/drichard/mindmaps">
    mindmaps
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 862, pushed 140 days ago
+  </sup>
+  <sup>
    &#9733 862, pushed 140 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1674,25 +1725,34 @@
   <a href="https://github.com/tantaman/Strut">
    Strut
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 1255, pushed 119 days ago
+  </sup>
+  <sup>
    &#9733 1255, pushed 119 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/harish-io/Impressionist">
    Impressionist
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 589, pushed 1053 days ago
+  </sup>
+  <sup>
    &#9733 589, pushed 1053 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/regebro/hovercraft">
    hovercraft
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 676, pushed 16 days ago
+  </sup>
+  <sup>
    &#9733 676, pushed 16 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1732,49 +1792,67 @@
   <a href="https://github.com/hakimel/reveal.js">
    Reveal.js
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 27784, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 27784, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bespokejs/bespoke">
    Beckpoke.js
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 3861, pushed 217 days ago
+  </sup>
+  <sup>
    &#9733 3861, pushed 217 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LeaVerou/CSSS">
    CSSS
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 1371, pushed 64 days ago
+  </sup>
+  <sup>
    &#9733 1371, pushed 64 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnpolacek/scrolldeck.js">
    Scrolldeck
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 683, pushed 132 days ago
+  </sup>
+  <sup>
    &#9733 683, pushed 132 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/imakewebthings/deck.js">
    Deck.js
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 4877, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 4877, pushed 14 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shower/shower">
    Shower
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 3049, pushed 12 days ago
+  </sup>
+  <sup>
    &#9733 3049, pushed 12 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://slides.html5rocks.com/#formula-outro-slide">
@@ -1785,17 +1863,23 @@
   <a href="https://github.com/marcolago/flowtime.js">
    Flowtime.js
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 1055, pushed 24 days ago
+  </sup>
+  <sup>
    &#9733 1055, pushed 24 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/briancavalier/slides">
    Slides
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 353, pushed 1035 days ago
+  </sup>
+  <sup>
    &#9733 353, pushed 1035 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1853,9 +1937,12 @@
   <a href="https://github.com/asyazwan/ext-sozi">
    ext-sozi
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 25, pushed 1123 days ago
+  </sup>
+  <sup>
    &#9733 25, pushed 1123 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -1951,19 +2038,25 @@
     <a href="https://github.com/ptone/jiffylab">
      jiffylab
     </a>
-    <span>
-     &#9733 183, pushed 778 days ago
-    </span>
     is an open source one but not that well done.
+    <sup>
+     37 GitHub links in total 265 links, ★ 183, pushed 778 days ago
+    </sup>
+    <sup>
+     &#9733 183, pushed 778 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/writefaruq/supervised-ipython-nbserver">
      supervised-ipython-nbserver
     </a>
-    <span>
-     &#9733 6, pushed 908 days ago
-    </span>
     is a multiuser version of notebook using Django/Pinax.
+    <sup>
+     37 GitHub links in total 265 links, ★ 6, pushed 908 days ago
+    </sup>
+    <sup>
+     &#9733 6, pushed 908 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2373,7 +2466,7 @@
  Online Discussions
 </h2>
 <h3>
- Forums and Q&A's
+ Forums and Q&A;'s
 </h3>
 <p>
  StackExchange.com is a good place for professional discussions. Here is an example.
@@ -2435,14 +2528,17 @@
   <a href="https://github.com/opentf/GuokrBadge">
    Guokr Badge
   </a>
-  <span>
-   &#9733 12, pushed 778 days ago
-  </span>
   : Green CC License badges. (
   <strong>
    Documentation is in Chinese.
   </strong>
   )
+  <sup>
+   37 GitHub links in total 265 links, ★ 12, pushed 778 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 778 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2528,9 +2624,12 @@
   <a href="https://github.com/jbmouret/matplotlib_for_papers">
    matplotlib
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 468, pushed 199 days ago
+  </sup>
+  <sup>
    &#9733 468, pushed 199 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://ggplot.yhathq.com/">
@@ -2600,14 +2699,17 @@
   <a href="https://github.com/arnobl/latexdraw">
    LaTeXDraw
   </a>
-  <span>
-   &#9733 85, pushed 2 days ago
-  </span>
   (
   <code>
    Linux
   </code>
   ): "A vector drawing editor for LaTeX."
+  <sup>
+   37 GitHub links in total 265 links, ★ 85, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.texample.net/tikz/">
@@ -2708,9 +2810,12 @@
   <a href="https://github.com/glamp/bashplotlib">
    plot in terminal
   </a>
-  <span>
+  <sup>
+   37 GitHub links in total 265 links, ★ 395, pushed 87 days ago
+  </sup>
+  <sup>
    &#9733 395, pushed 87 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://asciinema.org/">
@@ -2722,19 +2827,25 @@
   <a href="https://github.com/glamp/bashplotlib">
    bashplot
   </a>
-  <span>
-   &#9733 395, pushed 87 days ago
-  </span>
   : plot in terminal.
+  <sup>
+   37 GitHub links in total 265 links, ★ 395, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 395, pushed 87 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EricFreeman/fuck">
    fuck
   </a>
-  <span>
-   &#9733 179, pushed 293 days ago
-  </span>
   : correct the command by typing in fuck.
+  <sup>
+   37 GitHub links in total 265 links, ★ 179, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 179, pushed 293 days ago
+  </sup>
  </li>
 </ul>
 <h3>

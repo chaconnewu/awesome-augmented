@@ -100,13 +100,16 @@
   <a href="https://github.com/gajus/eslint-config-canonical">
    Canonical
   </a>
-  <span>
-   &#9733 5, pushed 2 days ago
-  </span>
   – Shareable config for
   <a href="https://github.com/gajus/canonical">
    Canonical style guide
   </a>
+  <sup>
+   38 GitHub links in total 55 links, ★ 5, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint">
@@ -118,13 +121,16 @@
   <a href="https://github.com/google/eslint-config-google">
    Google
   </a>
-  <span>
-   &#9733 216, pushed 22 days ago
-  </span>
   - Shareable config for the
   <a href="http://google.github.io/styleguide/javascriptguide.xml">
    Google style
   </a>
+  <sup>
+   38 GitHub links in total 55 links, ★ 216, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 216, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Shopify/javascript/tree/master/packages/eslint-plugin-shopify">
@@ -139,25 +145,31 @@
   <a href="https://github.com/feross/eslint-config-standard">
    Standard
   </a>
-  <span>
-   &#9733 177, pushed 1 days ago
-  </span>
   - Shareable config for JavaScript
   <a href="https://github.com/feross/standard">
    Standard Style
   </a>
+  <sup>
+   38 GitHub links in total 55 links, ★ 177, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 177, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/eslint-config-xo">
    XO
   </a>
-  <span>
-   &#9733 47, pushed 2 days ago
-  </span>
   - Shareable config for
   <a href="https://github.com/sindresorhus/xo">
    XO
   </a>
+  <sup>
+   38 GitHub links in total 55 links, ★ 47, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -168,10 +180,13 @@
   <a href="https://github.com/babel/babel-eslint">
    Babel
   </a>
-  <span>
-   &#9733 864, pushed 3 days ago
-  </span>
   - Use Babel's parser for linting all Babel features
+  <sup>
+   38 GitHub links in total 55 links, ★ 864, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 864, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -185,121 +200,160 @@
   <a href="https://github.com/Gillespie59/eslint-plugin-angular">
    Angular
   </a>
-  <span>
-   &#9733 375, pushed 1 days ago
-  </span>
   - Linting rules to adhere to the
   <a href="https://github.com/johnpapa/angular-styleguide">
    John Papa's Angular Styleguide
   </a>
+  <sup>
+   38 GitHub links in total 55 links, ★ 375, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 375, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/eslint-plugin-ava">
    AVA
   </a>
-  <span>
-   &#9733 52, pushed 2 days ago
-  </span>
   - Linting rules for AVA
+  <sup>
+   38 GitHub links in total 55 links, ★ 52, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ilyavolodin/eslint-plugin-backbone">
    Backbone
   </a>
-  <span>
-   &#9733 75, pushed 35 days ago
-  </span>
   - Linting rules for Backbone
+  <sup>
+   38 GitHub links in total 55 links, ★ 75, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tlvince/eslint-plugin-jasmine">
    Jasmine
   </a>
-  <span>
-   &#9733 20, pushed 3 days ago
-  </span>
   - Linting rules for Jasmine
+  <sup>
+   38 GitHub links in total 55 links, ★ 20, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gajus/eslint-plugin-jsdoc">
    JSDoc
   </a>
-  <span>
-   &#9733 47, pushed 71 days ago
-  </span>
   - Linting rules for JSDoc comments
+  <sup>
+   38 GitHub links in total 55 links, ★ 47, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wix/eslint-plugin-lodash">
    Lodash
   </a>
-  <span>
-   &#9733 48, pushed 2 days ago
-  </span>
   - Lodash specific linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 48, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jfmengels/eslint-plugin-lodash-fp">
    Lodash/fp
   </a>
-  <span>
-   &#9733 25, pushed 2 days ago
-  </span>
   - Lodash/fp specific linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 25, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dferber90/eslint-plugin-meteor">
    Meteor
   </a>
-  <span>
-   &#9733 58, pushed 1 days ago
-  </span>
   - Meteor specific linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 58, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lo1tuma/eslint-plugin-mocha">
    Mocha
   </a>
-  <span>
-   &#9733 40, pushed 4 days ago
-  </span>
   - Linting rules for Mocha
+  <sup>
+   38 GitHub links in total 55 links, ★ 40, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nfroidure/eslint-plugin-mongodb">
    Mongodb
   </a>
-  <span>
-   &#9733 9, pushed 133 days ago
-  </span>
   - Mongodb native nodejs driver linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 9, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mysticatea/eslint-plugin-node">
    Node
   </a>
-  <span>
-   &#9733 32, pushed 6 days ago
-  </span>
   - Linting rules for Node.js (checking importing paths, ES syntax, ...)
+  <sup>
+   38 GitHub links in total 55 links, ★ 32, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yannickcr/eslint-plugin-react">
    React
   </a>
-  <span>
-   &#9733 1220, pushed 4 days ago
-  </span>
   - Linting rules for React and JSX
+  <sup>
+   38 GitHub links in total 55 links, ★ 1220, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1220, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Intellicode/eslint-plugin-react-native">
    React Native
   </a>
-  <span>
-   &#9733 55, pushed 37 days ago
-  </span>
   - React Native specific linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 55, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 37 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -310,61 +364,85 @@
   <a href="https://github.com/babel/eslint-plugin-babel">
    Babel
   </a>
-  <span>
-   &#9733 93, pushed 26 days ago
-  </span>
   - Adds replacements for built-in rules to include Babel features
+  <sup>
+   38 GitHub links in total 55 links, ★ 93, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 93, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mradionov/eslint-plugin-disable">
    disable
   </a>
   - Disable specified plugins using file path patterns and inline comments
+  <sup>
+   38 GitHub links in total 55 links, ★ 6, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gajus/eslint-plugin-flowtype">
    Flow
   </a>
-  <span>
-   &#9733 14, pushed 12 days ago
-  </span>
   - Flow type linting rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 14, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apollostack/eslint-plugin-graphql">
    GraphQL
   </a>
-  <span>
-   &#9733 41, pushed 5 days ago
-  </span>
   - Check your GraphQL query strings against a schema
+  <sup>
+   38 GitHub links in total 55 links, ★ 41, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benmosher/eslint-plugin-import">
    import
   </a>
-  <span>
-   &#9733 213, pushed 3 days ago
-  </span>
   - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
+  <sup>
+   38 GitHub links in total 55 links, ★ 213, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 213, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eslint/eslint-plugin-markdown">
    Markdown
   </a>
-  <span>
-   &#9733 39, pushed 9 days ago
-  </span>
   - Linting JavaScript in Markdown
+  <sup>
+   38 GitHub links in total 55 links, ★ 39, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/eslint-plugin-xo">
    XO
   </a>
-  <span>
-   &#9733 11, pushed 2 days ago
-  </span>
   - Various useful rules
+  <sup>
+   38 GitHub links in total 55 links, ★ 11, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -375,40 +453,52 @@
   <a href="https://github.com/jhusain/eslint-plugin-immutable">
    Immutable
   </a>
-  <span>
-   &#9733 468, pushed 49 days ago
-  </span>
   - Disable all mutation in JavaScript
+  <sup>
+   38 GitHub links in total 55 links, ★ 468, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 468, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Trott/eslint-plugin-new-with-error">
    new-with-error
   </a>
-  <span>
-   &#9733 7, pushed 175 days ago
-  </span>
   - Require errors to be thrown using
   <code>
    new
   </code>
+  <sup>
+   38 GitHub links in total 55 links, ★ 7, pushed 175 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 175 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnstonbl01/eslint-no-inferred-method-name">
    no-inferred-method-name
   </a>
-  <span>
-   &#9733 22, pushed 117 days ago
-  </span>
   - Custom rule for ESLint that checks for inferred method names within object literals.
+  <sup>
+   38 GitHub links in total 55 links, ★ 22, pushed 117 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 117 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dustinspecker/eslint-plugin-no-use-extend-native">
    no-use-extend-native
   </a>
-  <span>
-   &#9733 20, pushed 2 days ago
-  </span>
   - Prevent using extended native objects
+  <sup>
+   38 GitHub links in total 55 links, ★ 20, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -419,28 +509,37 @@
   <a href="https://github.com/selaux/eslint-plugin-filenames">
    filenames
   </a>
-  <span>
-   &#9733 20, pushed 1 days ago
-  </span>
   - Ensure consistent filenames for your javascript files
+  <sup>
+   38 GitHub links in total 55 links, ★ 20, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jfmengels/eslint-plugin-import-order">
    import-order
   </a>
-  <span>
-   &#9733 40, pushed 14 days ago
-  </span>
   - Enforce the order of import/require statements
+  <sup>
+   38 GitHub links in total 55 links, ★ 40, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks">
    no-empty-blocks
   </a>
-  <span>
-   &#9733 7, pushed 191 days ago
-  </span>
   - Allows empty catch blocks, while disallowing other empty blocks
+  <sup>
+   38 GitHub links in total 55 links, ★ 7, pushed 191 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 191 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -451,28 +550,37 @@
   <a href="https://github.com/geek/node-style">
    Node.js Standard Style
   </a>
-  <span>
-   &#9733 0, pushed 57 days ago
-  </span>
   - Node.js core config.
+  <sup>
+   38 GitHub links in total 55 links, ★ 0, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/feross/standard">
    Standard
   </a>
-  <span>
-   &#9733 5322, pushed 1 days ago
-  </span>
   - JavaScript Standard Style
+  <sup>
+   38 GitHub links in total 55 links, ★ 5322, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5322, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/xo">
    XO
   </a>
-  <span>
-   &#9733 1158, pushed 3 days ago
-  </span>
   - JavaScript happiness style linter ❤️
+  <sup>
+   38 GitHub links in total 55 links, ★ 1158, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1158, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -483,32 +591,41 @@
   <a href="https://github.com/mysticatea/eslint-cli">
    eslint-cli
   </a>
-  <span>
-   &#9733 7, pushed 90 days ago
-  </span>
   - This is the
   <code>
    eslint
   </code>
   command that executes a local installed ESLint.
+  <sup>
+   38 GitHub links in total 55 links, ★ 7, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sarbbottam/eslint-find-rules">
    eslint-find-rules
   </a>
-  <span>
-   &#9733 19, pushed 1 days ago
-  </span>
   - Find built-in ESLint rules you don't have in your custom config
+  <sup>
+   38 GitHub links in total 55 links, ★ 19, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/IanVS/eslint-nibble">
    eslint-nibble
   </a>
-  <span>
-   &#9733 58, pushed 69 days ago
-  </span>
   - Ease into ESLint, by fixing one rule at a time
+  <sup>
+   38 GitHub links in total 55 links, ★ 58, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 69 days ago
+  </sup>
  </li>
 </ul>
 <h2>

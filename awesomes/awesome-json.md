@@ -228,10 +228,10 @@
   <a href="https://github.com/dcodeIO/PSON">
    PSON
   </a>
-  <span>
-   &#9733 173, pushed 665 days ago
-  </span>
   - Protocol JSON, super efficient binary serialization format.
+  <sup>
+   &#9733 173, pushed 665 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -356,10 +356,10 @@
   <a href="https://github.com/micha/jsawk">
    jsawk
   </a>
-  <span>
-   &#9733 1073, pushed 52 days ago
-  </span>
   - Like awk, but for JSON.
+  <sup>
+   &#9733 1073, pushed 52 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -388,10 +388,10 @@
   <a href="https://github.com/typicode/lowdb">
    lowdb
   </a>
-  <span>
-   &#9733 3046, pushed 7 days ago
-  </span>
   - Flat file database built on lodash API. (Javascript)
+  <sup>
+   &#9733 3046, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://brian.io/lawnchair/">
@@ -403,28 +403,28 @@
   <a href="https://github.com/konsultaner/jsonOdm">
    JSON ODM
   </a>
-  <span>
-   &#9733 30, pushed 279 days ago
-  </span>
   - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
+  <sup>
+   &#9733 30, pushed 279 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typicode/json-server">
    JSON Server
   </a>
-  <span>
-   &#9733 11821, pushed 7 days ago
-  </span>
   - Get a full fake REST API with zero coding in less than 30 seconds.
+  <sup>
+   &#9733 11821, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Kinto/kinto">
    Kinto
   </a>
-  <span>
-   &#9733 2734, pushed 1 days ago
-  </span>
   - A lightweight JSON storage service with synchronisation and sharing abilities.
+  <sup>
+   &#9733 2734, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -435,10 +435,10 @@
   <a href="https://github.com/mledoze/countries">
    countries
   </a>
-  <span>
-   &#9733 2417, pushed 7 days ago
-  </span>
   - World countries.
+  <sup>
+   &#9733 2417, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jsonvat.com/">
@@ -484,19 +484,19 @@
   <a href="https://github.com/cameronhunter/jsonymize">
    jsonymize
   </a>
-  <span>
-   &#9733 7, pushed 317 days ago
-  </span>
   - Reads data from standard input, anonymizes, then writes to standard output.
+  <sup>
+   &#9733 7, pushed 317 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webpro/dyson">
    dyson
   </a>
-  <span>
-   &#9733 523, pushed 16 days ago
-  </span>
   - Server for dynamic, fake JSON. (node.js)
+  <sup>
+   &#9733 523, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -513,46 +513,46 @@
   <a href="https://github.com/Starcounter-Jack/JSON-Patch">
    JSON-Patch
   </a>
-  <span>
-   &#9733 375, pushed 63 days ago
-  </span>
   - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
+  <sup>
+   &#9733 375, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cujojs/jiff">
    jiff
   </a>
-  <span>
-   &#9733 222, pushed 106 days ago
-  </span>
   - JSON Patch and diff based on rfc6902. (Javascript)
+  <sup>
+   &#9733 222, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mikemccabe/json-patch-php">
    json-patch-php
   </a>
-  <span>
-   &#9733 50, pushed 411 days ago
-  </span>
   - implementation of JSON-patch (IETF RFC 6902) (PHP)
+  <sup>
+   &#9733 50, pushed 411 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paldepind/dffptch">
    dffptch
   </a>
-  <span>
-   &#9733 150, pushed 451 days ago
-  </span>
   - A micro library for diffing and patching using a compact diff format. (Javascript)
+  <sup>
+   &#9733 150, pushed 451 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benjamine/jsondiffpatch">
    jsondiffpatch
   </a>
-  <span>
-   &#9733 1447, pushed 7 days ago
-  </span>
   - Diff & patch for JavaScript objects. (Javascript)
+  <sup>
+   &#9733 1447, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -646,10 +646,10 @@
   <a href="https://github.com/jsonstat/jsonstat">
    JSON-stat
   </a>
-  <span>
-   &#9733 8, pushed 534 days ago
-  </span>
   - Simple lightweight format for data dissemination.
+  <sup>
+   &#9733 8, pushed 534 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.contributejson.org/">
@@ -678,10 +678,10 @@
   <a href="https://github.com/DavidDurman/FlexiJsonEditor">
    JSON editor jQuery plugin
   </a>
-  <span>
-   &#9733 377, pushed 813 days ago
-  </span>
   - component for you web apps/pages. (jQuery)
+  <sup>
+   &#9733 377, pushed 813 days ago
+  </sup>
  </li>
  <li>
   <a href="http://mbraak.github.io/jqTree/">
@@ -705,10 +705,10 @@
   <a href="https://github.com/mohsen1/json-formatter">
    JSON Formatter
   </a>
-  <span>
-   &#9733 217, pushed 4 days ago
-  </span>
   - Angular directive for collapsible JSON in HTML. (AngularJS)
+  <sup>
+   &#9733 217, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -916,19 +916,19 @@
   <a href="https://github.com/zaach/jsonlint">
    jsonlint
   </a>
-  <span>
-   &#9733 853, pushed 128 days ago
-  </span>
   - Parser and validator with a CLI. (Javascript)
+  <sup>
+   &#9733 853, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Seldaek/jsonlint">
    JSON Lint
   </a>
-  <span>
-   &#9733 190, pushed 11 days ago
-  </span>
   - PHP linter. (PHP)
+  <sup>
+   &#9733 190, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1087,10 +1087,10 @@
   <a href="https://github.com/fcambus/jsonp-proxy">
    JSONP Proxy
   </a>
-  <span>
-   &#9733 8, pushed 119 days ago
-  </span>
   - A REST API allowing to get JSONP from any API.
+  <sup>
+   &#9733 8, pushed 119 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1107,19 +1107,19 @@
   <a href="https://github.com/timjansen/hanson">
    HanSON
   </a>
-  <span>
-   &#9733 80, pushed 398 days ago
-  </span>
   - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+  <sup>
+   &#9733 80, pushed 398 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/burningtree/uson">
    μson
   </a>
-  <span>
-   &#9733 50, pushed 103 days ago
-  </span>
   (uson) - a shorthand for JSON.
+  <sup>
+   &#9733 50, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation">
@@ -1182,19 +1182,19 @@
   <a href="https://github.com/bevry/cson">
    CSON
   </a>
-  <span>
-   &#9733 910, pushed 110 days ago
-  </span>
   - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
+  <sup>
+   &#9733 910, pushed 110 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apiaryio/mson">
    MSON
   </a>
-  <span>
-   &#9733 382, pushed 14 days ago
-  </span>
   - Markdown syntax compatible with describing JSON and JSON Schema.
+  <sup>
+   &#9733 382, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="http://archieml.org/">
@@ -1217,10 +1217,10 @@
   <a href="https://github.com/nesquena/rabl">
    rabl
   </a>
-  <span>
-   &#9733 3342, pushed 22 days ago
-  </span>
   - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
+  <sup>
+   &#9733 3342, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="http://json2html.com/">
@@ -1243,19 +1243,19 @@
   <a href="https://github.com/skyscreamer/JSONassert">
    JSONassert
   </a>
-  <span>
-   &#9733 196, pushed 68 days ago
-  </span>
   - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
+  <sup>
+   &#9733 196, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lukas-krecan/JsonUnit">
    JsonUnit
   </a>
-  <span>
-   &#9733 107, pushed 4 days ago
-  </span>
   - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
+  <sup>
+   &#9733 107, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1289,46 +1289,46 @@
   <a href="https://github.com/joelvh/json2json">
    json2json
   </a>
-  <span>
-   &#9733 121, pushed 43 days ago
-  </span>
   - Transform (reformat) structures from one to another. (Javascript)
+  <sup>
+   &#9733 121, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gabesoft/trans">
    trans
   </a>
-  <span>
-   &#9733 174, pushed 134 days ago
-  </span>
   - The ultimate object transformer. (Javascript)
+  <sup>
+   &#9733 174, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tyrasd/osmtogeojson">
    osmtogeojson
   </a>
-  <span>
-   &#9733 159, pushed 50 days ago
-  </span>
   - Converts OSM data to GeoJSON. (Javascript)
+  <sup>
+   &#9733 159, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/abdmob/x2js">
    x2js
   </a>
-  <span>
-   &#9733 165, pushed 15 days ago
-  </span>
   - XML to JSON and vice versa javascript conversion functions. (Javascript)
+  <sup>
+   &#9733 165, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tcorral/JSONC">
    JSONC
   </a>
-  <span>
-   &#9733 300, pushed 190 days ago
-  </span>
   - JSON compressor and decompressor. (Javascript)
+  <sup>
+   &#9733 300, pushed 190 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/netresearch/jsonmapper">
@@ -1340,10 +1340,10 @@
   <a href="https://github.com/HugoGiraudel/SassyJSON">
    SassyJSON
   </a>
-  <span>
-   &#9733 165, pushed 80 days ago
-  </span>
   - Sass-powered API. (Sass)
+  <sup>
+   &#9733 165, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="http://marianoguerra.github.io/json.human.js/">
@@ -1355,28 +1355,28 @@
   <a href="https://github.com/fmscode/JSONtoFoundation">
    JSONtoFoundation
   </a>
-  <span>
-   &#9733 43, pushed 458 days ago
-  </span>
   - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
+  <sup>
+   &#9733 43, pushed 458 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/liip/fanci">
    fanci
   </a>
-  <span>
-   &#9733 9, pushed 115 days ago
-  </span>
   - Extract, rename and transform JSON based on a template. (node.js)
+  <sup>
+   &#9733 9, pushed 115 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Baggz/Pinch">
    Pinch
   </a>
-  <span>
-   &#9733 19, pushed 675 days ago
-  </span>
   - String.replace for JavaScript objects. (Javascript)
+  <sup>
+   &#9733 19, pushed 675 days ago
+  </sup>
  </li>
  <li>
   <a href="http://deepjson.jacoborus.codes/">
@@ -1388,10 +1388,10 @@
   <a href="https://github.com/DoublePrecisionSoftware/jsontl">
    jsontl
   </a>
-  <span>
-   &#9733 2, pushed 400 days ago
-  </span>
   - allow transformation using a JSON-based transformation language. (node.js)
+  <sup>
+   &#9733 2, pushed 401 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1408,10 +1408,10 @@
   <a href="https://github.com/nemtsov/json-mask">
    JSON Mask
   </a>
-  <span>
-   &#9733 417, pushed 249 days ago
-  </span>
   - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
+  <sup>
+   &#9733 417, pushed 249 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jsoniq.org/">
@@ -1447,10 +1447,10 @@
   <a href="https://github.com/deitch/searchjs">
    searchjs
   </a>
-  <span>
-   &#9733 105, pushed 60 days ago
-  </span>
   - A library for filtering based on a json SQL-like language.
+  <sup>
+   &#9733 105, pushed 60 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1461,37 +1461,37 @@
   <a href="https://github.com/jdorn/json-editor">
    JSON Editor
   </a>
-  <span>
-   &#9733 2654, pushed 15 days ago
-  </span>
   - JSON Schema Based Editor. (jQuery)
+  <sup>
+   &#9733 2654, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/json-schema-form/angular-schema-form">
    angular-schema-form
   </a>
-  <span>
-   &#9733 1381, pushed 6 days ago
-  </span>
   - Generate forms. (AngularJS)
+  <sup>
+   &#9733 1381, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mohsen1/json-schema-view">
    JSON Schema View
   </a>
-  <span>
-   &#9733 21, pushed 28 days ago
-  </span>
   - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
+  <sup>
+   &#9733 21, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mohsen1/angular-json-schema-form">
    Angular JSON Schema Form
   </a>
-  <span>
-   &#9733 10, pushed 28 days ago
-  </span>
   - Angular directive for making forms out of JSON Schema. (AngularJS)
+  <sup>
+   &#9733 10, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.alpacajs.org">
@@ -1508,28 +1508,28 @@
   <a href="https://github.com/interagent/prmd">
    prmd
   </a>
-  <span>
-   &#9733 1453, pushed 15 days ago
-  </span>
   - Tools and doc generation for HTTP APIs.
+  <sup>
+   &#9733 1453, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Nijikokun/generate-schema">
    generate-schema
   </a>
-  <span>
-   &#9733 213, pushed 246 days ago
-  </span>
   - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
+  <sup>
+   &#9733 213, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lbovet/docson">
    Docson
   </a>
-  <span>
-   &#9733 233, pushed 53 days ago
-  </span>
   - Documentation for your types.
+  <sup>
+   &#9733 233, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="http://orderly-json.org/">
@@ -1541,37 +1541,37 @@
   <a href="https://github.com/joelittlejohn/jsonschema2pojo">
    jsonschema2pojo
   </a>
-  <span>
-   &#9733 1739, pushed 2 days ago
-  </span>
   - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
+  <sup>
+   &#9733 1739, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattyod/matic">
    Matic
   </a>
-  <span>
-   &#9733 130, pushed 358 days ago
-  </span>
   - Build tool for generating HTML documentation.
+  <sup>
+   &#9733 130, pushed 358 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/json-schema-faker/json-schema-faker">
    JSON Schema + Faker
   </a>
-  <span>
-   &#9733 280, pushed 4 days ago
-  </span>
   - Fake your schemas.
+  <sup>
+   &#9733 280, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/moll/js-ddl">
    DLL.js
   </a>
-  <span>
-   &#9733 44, pushed 377 days ago
-  </span>
   - Gets you a JSON Schema from PostgreSQL or SQLite3.
+  <sup>
+   &#9733 44, pushed 377 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jsonschema.net/#/">
@@ -1600,10 +1600,10 @@
   <a href="https://github.com/servant-app/json-archetypes">
    JSON Archetypes
   </a>
-  <span>
-   &#9733 127, pushed 286 days ago
-  </span>
   - Community-Driven Standards For Popular Types Of Data.
+  <sup>
+   &#9733 127, pushed 287 days ago
+  </sup>
  </li>
 </ul>
 <h2>

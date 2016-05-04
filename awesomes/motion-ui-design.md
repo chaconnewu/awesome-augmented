@@ -309,84 +309,89 @@ Feel free to
   </ul>
  </li>
 </ul>
-camera: video);
-<li>
- <a href="http://mtmograph.com/summits/">
-  MtMograph summits
- </a>
- (:movie
- <em>
-  camera: video);
- </em>
-</li>
-<li>
- <a href="http://schoolofmotion.com/project/30dae_01_writeon/">
-  30 days of AE
- </a>
- (:movie
-</li>
-camera: video);
-<li>
- <a href="http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html">
-  After Effects CC Essential Training on Lynda
- </a>
- (:movie_camera: video);
-</li>
-<li>
- <a href="https://github.com/bodymovin/bodymovin">
-  BodyMovin
- </a>
- <span>
-  &#9733 708, pushed 9 days ago
- </span>
- – converter from AE to SVG/canvas;
-</li>
-<li>
- <a href="http://www.marcuseckert.com/squall/">
-  Squall
- </a>
- – converter from AE to iOS;
-</li>
-<li>
- <a href="https://www.apple.com/sg/final-cut-pro/motion/">
-  Apple Motion
- </a>
- – MacOS app for create and edit motion graphics, titling for video production and film production, and 2D and 3D compositing for visual effects;
-</li>
-<li>
- <a href="http://www.adobe.com/sea/products/photoshop.html">
-  Adobe Photoshop
- </a>
- – raster graphics editor that can also produce gif UI animations:
- <ul>
-  <li>
-   <a href="http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/">
-    9 Photoshop UI Animation Tutorials
-   </a>
-   ;
-  </li>
- </ul>
-</li>
-<li>
- <a href="http://www.adobe.com/products/flash.html">
-  Adobe Flash
- </a>
- – software for creating vector graphics, animations, games etc.;
-</li>
-<li>
- <a href="https://www.apple.com/ru/mac/keynote/">
-  Apple Keynote
- </a>
- – MacOS app for presentations, but also great for high-fidelity animations and prototypes:
- <ul>
-  <li>
-   <a href="http://www.smashingmagazine.com/2015/08/animating-in-keynote/">
-    How To Prototype UI Animations In Keynote
-   </a>
-   .
-  </li>
- </ul>
-</li>
+<p>
+ camera: video);
+ <li>
+  <a href="http://mtmograph.com/summits/">
+   MtMograph summits
+  </a>
+  (:movie
+  <em>
+   camera: video);
+  </em>
+ </li>
+ <li>
+  <a href="http://schoolofmotion.com/project/30dae_01_writeon/">
+   30 days of AE
+  </a>
+  (:movie
+ </li>
+ camera: video);
+ <li>
+  <a href="http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html">
+   After Effects CC Essential Training on Lynda
+  </a>
+  (:movie_camera: video);
+ </li>
+ <li>
+  <a href="https://github.com/bodymovin/bodymovin">
+   BodyMovin
+  </a>
+  – converter from AE to SVG/canvas;
+  <sup>
+   5 GitHub links in total 147 links, &#9733 708, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 708, pushed 10 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.marcuseckert.com/squall/">
+   Squall
+  </a>
+  – converter from AE to iOS;
+ </li>
+ <li>
+  <a href="https://www.apple.com/sg/final-cut-pro/motion/">
+   Apple Motion
+  </a>
+  – MacOS app for create and edit motion graphics, titling for video production and film production, and 2D and 3D compositing for visual effects;
+ </li>
+ <li>
+  <a href="http://www.adobe.com/sea/products/photoshop.html">
+   Adobe Photoshop
+  </a>
+  – raster graphics editor that can also produce gif UI animations:
+  <ul>
+   <li>
+    <a href="http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/">
+     9 Photoshop UI Animation Tutorials
+    </a>
+    ;
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://www.adobe.com/products/flash.html">
+   Adobe Flash
+  </a>
+  – software for creating vector graphics, animations, games etc.;
+ </li>
+ <li>
+  <a href="https://www.apple.com/ru/mac/keynote/">
+   Apple Keynote
+  </a>
+  – MacOS app for presentations, but also great for high-fidelity animations and prototypes:
+  <ul>
+   <li>
+    <a href="http://www.smashingmagazine.com/2015/08/animating-in-keynote/">
+     How To Prototype UI Animations In Keynote
+    </a>
+    .
+   </li>
+  </ul>
+ </li>
+</p>
 <h3>
  Visual programming
 </h3>
@@ -654,10 +659,13 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/koenbok/Framer">
    Framer.js
   </a>
-  <span>
-   &#9733 3875, pushed 2 days ago
-  </span>
   – prototyping tool for designing UI, interaction and animation;
+  <sup>
+   5 GitHub links in total 147 links, ★ 3875, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3875, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dynamicsjs.com/">
@@ -669,10 +677,13 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/legomushroom/mojs">
    Mo.js
   </a>
-  <span>
-   &#9733 6944, pushed 1 days ago
-  </span>
   – motion graphics toolbelt for the web;
+  <sup>
+   5 GitHub links in total 147 links, ★ 6944, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6944, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://rapid-application-development-js.github.io/AnimateTransition/">
@@ -684,19 +695,25 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="https://github.com/bendc/animateplus">
    Animate Plus
   </a>
-  <span>
-   &#9733 2006, pushed 60 days ago
-  </span>
   – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
+  <sup>
+   5 GitHub links in total 147 links, ★ 2006, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 2006, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/iamralpht/gravitas.js">
    Gravitas.js
   </a>
-  <span>
-   &#9733 105, pushed 339 days ago
-  </span>
   - Super fast physics simulations for JavaScript.
+  <sup>
+   5 GitHub links in total 147 links, ★ 105, pushed 339 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 339 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -909,47 +926,49 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   </ul>
  </li>
 </ul>
-camera: video)
-<li>
- Apple Watch
- <ul>
-  <li>
-   <a href="https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations">
-    Specifications: Animations
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Windows
- <ul>
-  <li>
-   <a href="https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx">
-    Guidelines for animations
-   </a>
-  </li>
-  <li>
-   <a href="http://getmwf.com/styles/motion.html">
-    Microsoft web framework: Motion
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- IBM
- <ul>
-  <li>
-   <a href="http://www.ibm.com/design/language/framework/animation/introduction">
-    IBM Design Language – Animation design guidelines
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- <a href="https://www.lightningdesignsystem.com/design/motion/">
-  SalesForce Lightning
- </a>
-</li>
+<p>
+ camera: video)
+ <li>
+  Apple Watch
+  <ul>
+   <li>
+    <a href="https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations">
+     Specifications: Animations
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Windows
+  <ul>
+   <li>
+    <a href="https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx">
+     Guidelines for animations
+    </a>
+   </li>
+   <li>
+    <a href="http://getmwf.com/styles/motion.html">
+     Microsoft web framework: Motion
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  IBM
+  <ul>
+   <li>
+    <a href="http://www.ibm.com/design/language/framework/animation/introduction">
+     IBM Design Language – Animation design guidelines
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://www.lightningdesignsystem.com/design/motion/">
+   SalesForce Lightning
+  </a>
+ </li>
+</p>
 <h2>
  Books
 </h2>

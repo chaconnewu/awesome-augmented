@@ -2761,7 +2761,7 @@ $ git config --global color.ui 1
 | Introduction to Git with Scott Chacon | https://www.youtube.com/watch?v=ZDR433b0HJY |
 | Git From the Bits Up | https://www.youtube.com/watch?v=MYP56QJpDr4 |
 | Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g |
-| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
+| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v;=FyfwLX4HAxM |
 </p>
 <h4>
  Git Articles

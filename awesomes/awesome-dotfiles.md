@@ -256,28 +256,28 @@
   <a href="https://github.com/spencergibb/battleschool">
    battleschool
   </a>
-  <span>
-   &#9733 366, pushed 119 days ago
-  </span>
   - Development environment provisioning using Ansible.
+  <sup>
+   &#9733 366, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattly/bork">
    Bork
   </a>
-  <span>
-   &#9733 119, pushed 31 days ago
-  </span>
   - Bash DSL for config management.
+  <sup>
+   &#9733 119, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anishathalye/dotbot">
    dotbot
   </a>
-  <span>
-   &#9733 639, pushed 8 days ago
-  </span>
   - Tool that bootstraps your dotfiles.
+  <sup>
+   &#9733 639, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pypi.python.org/pypi/dotfiles">
@@ -289,10 +289,10 @@
   <a href="https://github.com/ellipsis/ellipsis">
    Ellipsis
   </a>
-  <span>
-   &#9733 51, pushed 23 days ago
-  </span>
   - A package manager for dotfiles.
+  <sup>
+   &#9733 51, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="http://freshshell.com/">
@@ -310,41 +310,41 @@
   <a href="https://github.com/andsens/homeshick">
    homeshick
   </a>
-  <span>
-   &#9733 874, pushed 191 days ago
-  </span>
   - Git dotfile synchronizer written in Bash.
+  <sup>
+   &#9733 874, pushed 191 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/technicalpickles/homesick">
    homesick
   </a>
-  <span>
-   &#9733 1717, pushed 102 days ago
-  </span>
   - Your home directory is your castle. Don't leave your dotfiles behind (
   <a href="http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/">
    post
   </a>
   ).
+  <sup>
+   &#9733 1717, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lra/mackup">
    mackup
   </a>
-  <span>
-   &#9733 4628, pushed 5 days ago
-  </span>
   - Keep your application settings in sync (OS X/Linux).
+  <sup>
+   &#9733 4628, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thoughtbot/rcm">
    rcm
   </a>
-  <span>
-   &#9733 1158, pushed 11 days ago
-  </span>
   - rc file (dotfile) management
+  <sup>
+   &#9733 1158, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/remote-dotfiles">
@@ -356,32 +356,32 @@
   <a href="https://github.com/NorfairKing/super-user-spark">
    Super User Spark
   </a>
-  <span>
-   &#9733 36, pushed 31 days ago
-  </span>
   - Tool that allows you to manage your beautiful and precious system configuration accross multiple systems and failures (
   <a href="http://cs-syd.eu/posts/2015-09-27-super-user-spark-getting-started">
    post
   </a>
   ).
+  <sup>
+   &#9733 36, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RichiH/vcsh">
    vcsh
   </a>
-  <span>
-   &#9733 1092, pushed 38 days ago
-  </span>
   - Version Control System for $HOME, multiple Git repositories in $HOME.
+  <sup>
+   &#9733 1092, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TheLocehiliosan/yadm">
    yadm
   </a>
-  <span>
-   &#9733 81, pushed 4 days ago
-  </span>
   - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
+  <sup>
+   &#9733 81, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -392,28 +392,28 @@
   <a href="https://github.com/msanders/cider">
    Cider
   </a>
-  <span>
-   &#9733 684, pushed 42 days ago
-  </span>
   - Cider is a simple wrapper for Homebrew and Homebrew Cask that allows you to save your setup across different machines.
+  <sup>
+   &#9733 684, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kcrawford/dockutil">
    dockutil
   </a>
-  <span>
-   &#9733 354, pushed 235 days ago
-  </span>
   - Command line tool for managing dock items
+  <sup>
+   &#9733 354, pushed 235 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jh3y/kody">
    kody
   </a>
-  <span>
-   &#9733 24, pushed 54 days ago
-  </span>
   - Dotfiles runner/manager written in node
+  <sup>
+   &#9733 24, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="http://osxc.github.io/">
@@ -442,14 +442,14 @@
   <a href="https://github.com/kevinSuttle/OSXDefaults">
    OS X Defaults
   </a>
-  <span>
-   &#9733 239, pushed 210 days ago
-  </span>
   - Centralized place for the awesome work started by
   <a href="https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults">
    @mathiasbynens on .osx
   </a>
   .
+  <sup>
+   &#9733 239, pushed 210 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -460,28 +460,28 @@
   <a href="https://github.com/alebcay/awesome-shell">
    Awesome Shell
   </a>
-  <span>
-   &#9733 6673, pushed 17 days ago
-  </span>
   - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+  <sup>
+   &#9733 6673, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/unixorn/awesome-zsh-plugins">
    Awesome Zsh Plugins
   </a>
-  <span>
-   &#9733 1464, pushed 3 days ago
-  </span>
   - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
+  <sup>
+   &#9733 1464, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jondot/awesome-devenv">
    Awesome Dev Env
   </a>
-  <span>
-   &#9733 388, pushed 14 days ago
-  </span>
   - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
+  <sup>
+   &#9733 388, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>

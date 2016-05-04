@@ -219,11 +219,14 @@ based on
   <a href="https://github.com/FormAlchemy/pyramid_formalchemy">
    pyramid_formalchemy
   </a>
-  <span>
-   &#9733 51, pushed 1107 days ago
-  </span>
   -
 provides a CRUD interface for pyramid based on FormAlchemy.
+  <sup>
+   89 GitHub links in total 138 links, ★ 51, pushed 1107 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 1107 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sacrud/pyramid_sacrud">
@@ -232,21 +235,26 @@ provides a CRUD interface for pyramid based on FormAlchemy.
     sacrud
    </em>
   </a>
-  <span>
-   &#9733 33, pushed 46 days ago
-  </span>
   -    Pyramid CRUD interface.
 Provides an administration web interface for Pyramid.
 Unlike classic CRUD, pyramid
+  <sup>
+   89 GitHub links in total 138 links, ★ 33, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 46 days ago
+  </sup>
  </li>
 </ul>
-sacrud allows overrides and flexibility to
+<p>
+ sacrud allows overrides and flexibility to
 customize your interface, similar to django.contrib.admin but uses a
 different backend to provide resources.
-<a href="http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html">
- New Architecture
-</a>
-built on the resources and mechanism traversal, allows to use it in various cases.
+ <a href="http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html">
+  New Architecture
+ </a>
+ built on the resources and mechanism traversal, allows to use it in various cases.
+</p>
 <ul>
  <li>
   <a href="https://github.com/sacrud/ps_alchemy">
@@ -255,42 +263,50 @@ built on the resources and mechanism traversal, allows to use it in various case
     alchemy
    </em>
   </a>
-  <span>
-   &#9733 3, pushed 6 days ago
-  </span>
   - extension for pyramid
+  <sup>
+   89 GitHub links in total 138 links, ★ 3, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 6 days ago
+  </sup>
  </li>
 </ul>
-sacrud
+<p>
+ sacrud
 which provides SQLAlchemy models.
-<li>
- <a href="https://github.com/sacrud/ps_tree">
-  ps
-  <em>
-   tree
-  </em>
- </a>
- <span>
-  &#9733 0, pushed 298 days ago
- </span>
- - extension for
- <a href="https://github.com/sacrud/pyramid_sacrud">
-  pyramid
- </a>
-</li>
-sacrud
+ <li>
+  <a href="https://github.com/sacrud/ps_tree">
+   ps
+   <em>
+    tree
+   </em>
+  </a>
+  - extension for
+  <a href="https://github.com/sacrud/pyramid_sacrud">
+   pyramid
+  </a>
+  <sup>
+   89 GitHub links in total 138 links, &#9733 0, pushed 298 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 298 days ago
+  </sup>
+ </li>
+ sacrud
 which displays
 a list of records as tree. This works fine with models from
-<a href="https://github.com/uralbash/sqlalchemy_mptt">
- sqlalchemy_mptt
-</a>
-.
-<li>
- <a href="https://websauna.org/docs/">
-  Websauna
+ <a href="https://github.com/uralbash/sqlalchemy_mptt">
+  sqlalchemy_mptt
  </a>
- - a full stack application framework for Pyramid
-</li>
+ .
+ <li>
+  <a href="https://websauna.org/docs/">
+   Websauna
+  </a>
+  - a full stack application framework for Pyramid
+ </li>
+</p>
 <h2>
  Asset Management
 </h2>
@@ -304,21 +320,27 @@ a list of records as tree. This works fine with models from
   <a href="https://github.com/sontek/pyramid_webassets">
    pyramid_webassets
   </a>
-  <span>
-   &#9733 60, pushed 335 days ago
-  </span>
   - Pyramid
 extension for working with the webassets library.
+  <sup>
+   89 GitHub links in total 138 links, ★ 60, pushed 335 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 335 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrijken/pyramid_bowerstatic">
    pyramid_bowerstatic
   </a>
-  <span>
-   &#9733 12, pushed 482 days ago
-  </span>
   -
 integration of Bowerstatic in Pyramid
+  <sup>
+   89 GitHub links in total 138 links, ★ 12, pushed 482 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 482 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -329,34 +351,43 @@ integration of Bowerstatic in Pyramid
   <a href="https://github.com/housleyjk/aiopyramid">
    aiopyramid
   </a>
-  <span>
-   &#9733 44, pushed 74 days ago
-  </span>
   - Run pyramid using
 asyncio.
+  <sup>
+   89 GitHub links in total 138 links, ★ 44, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/abourget/gevent-socketio">
    gevent-socketio
   </a>
-  <span>
-   &#9733 1021, pushed 8 days ago
-  </span>
   -
 gevent-socketio is a Python implementation of the Socket.IO protocol,
 developed originally for Node.js by LearnBoost and then ported to other
 languages.
+  <sup>
+   89 GitHub links in total 138 links, ★ 1021, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1021, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boothead/stargate">
    Stargate
   </a>
-  <span>
-   &#9733 35, pushed 1376 days ago
-  </span>
   - Stargate is a package for
 adding WebSockets support to pyramid applications using the excellent
 eventlet library for long running connections.
+  <sup>
+   89 GitHub links in total 138 links, ★ 35, pushed 1376 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 1376 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -372,117 +403,147 @@ eventlet library for long running connections.
   <a href="https://github.com/Pylons/pyramid_ldap">
    pyramid_ldap
   </a>
-  <span>
-   &#9733 8, pushed 1021 days ago
-  </span>
   - an LDAP
 authentication policy for Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 8, pushed 1021 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 1021 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_who">
    pyramid_who
   </a>
-  <span>
-   &#9733 10, pushed 1491 days ago
-  </span>
   - Authentication policy
 for pyramid using repoze.who 2.0 API.
+  <sup>
+   89 GitHub links in total 138 links, ★ 10, pushed 1492 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 1492 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bbangert/velruse">
    velruse
   </a>
-  <span>
-   &#9733 244, pushed 272 days ago
-  </span>
   - Simplifying third-party
 authentication for web applications. it supports most of auth
   <a href="https://github.com/bbangert/velruse/tree/master/velruse/providers">
    providers
   </a>
   .
+  <sup>
+   89 GitHub links in total 138 links, ★ 244, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 244, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madjar/pyramid_persona">
    pyramid_persona
   </a>
-  <span>
-   &#9733 24, pushed 235 days ago
-  </span>
   - Pyramid plugin
 to use
   <a href="https://login.persona.org/">
    persona
   </a>
   for authentication.
+  <sup>
+   89 GitHub links in total 138 links, ★ 24, pushed 235 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 235 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thruflo/pyramid_simpleauth">
    pyramid_simpleauth
   </a>
-  <span>
-   &#9733 25, pushed 7 days ago
-  </span>
   - session
 based authentication and role based security for Pyramid application
+  <sup>
+   89 GitHub links in total 138 links, ★ 25, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/omab/python-social-auth">
    Python Social Auth
   </a>
-  <span>
-   &#9733 2237, pushed 4 days ago
-  </span>
   - Social
 authentication/registration mechanism with support for a large number of
   <a href="https://github.com/omab/python-social-auth#auth-providers">
    providers
   </a>
   .
+  <sup>
+   89 GitHub links in total 138 links, ★ 2237, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2237, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/peterhudec/authomatic">
    Authomatic
   </a>
-  <span>
-   &#9733 671, pushed 6 days ago
-  </span>
   -  Simple yet powerful
 authorization / authentication client library for Python web applications.
+  <sup>
+   89 GitHub links in total 138 links, ★ 671, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 671, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cd34/apex">
    apex
   </a>
-  <span>
-   &#9733 88, pushed 534 days ago
-  </span>
   - Toolkit for Pyramid, a Pylons Project,
 to add Authentication and Authorization using Velruse (OAuth) and/or a local
 database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
+  <sup>
+   89 GitHub links in total 138 links, ★ 88, pushed 534 days ago
+  </sup>
+  <sup>
+   &#9733 88, pushed 534 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/usingnamespace/pyramid_authsanity">
    pyramid_authsanity
   </a>
-  <span>
-   &#9733 5, pushed 17 days ago
-  </span>
   -
 That will make it simpler to have a secure authentication policy with an easy
 to use backend.
+  <sup>
+   89 GitHub links in total 138 links, ★ 5, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wichert/pyramid_jwt">
    pyramid_jwt
   </a>
-  <span>
-   &#9733 6, pushed 37 days ago
-  </span>
   - This package
 implements an authentication policy for Pyramid that using [JSON Web Tokens].
 This standard ([RFC 7519]) is often used to secure backens APIs. The
 excellent [PyJWT] library is used for the JWT encoding / decoding logic.
+  <sup>
+   89 GitHub links in total 138 links, ★ 6, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 37 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -498,43 +559,55 @@ excellent [PyJWT] library is used for the JWT encoding / decoding logic.
   <a href="https://github.com/ergo/ziggurat_foundations">
    ziggurat_foundations
   </a>
-  <span>
-   &#9733 26, pushed 6 days ago
-  </span>
   -
 Framework agnostic set of sqlalchemy classes that make building applications
 that require permissions an easy task.
+  <sup>
+   89 GitHub links in total 138 links, ★ 26, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mozilla-services/pyramid_multiauth">
    pyramid_multiauth
   </a>
-  <span>
-   &#9733 29, pushed 82 days ago
-  </span>
   -
 An authentication policy for Pyramid that proxies to a stack of other
 authentication policies.
+  <sup>
+   89 GitHub links in total 138 links, ★ 29, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wichert/pyramid_authstack">
    pyramid_authstack
   </a>
-  <span>
-   &#9733 7, pushed 997 days ago
-  </span>
   -  Use
 multiple authentication policies with Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 7, pushed 997 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 997 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/horus">
    horus
   </a>
-  <span>
-   &#9733 12, pushed 727 days ago
-  </span>
   - User registration and login system
 for the Pyramid Web Framework.
+  <sup>
+   89 GitHub links in total 138 links, ★ 12, pushed 727 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 727 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -550,9 +623,6 @@ for the Pyramid Web Framework.
   <a href="https://github.com/Pylons/pyramid_beaker">
    pyramid_beaker
   </a>
-  <span>
-   &#9733 49, pushed 304 days ago
-  </span>
   - A Beaker session
 factory backend for Pyramid, also cache configurator.
   <ul>
@@ -563,6 +633,12 @@ dogpile.cache
     </a>
    </li>
   </ul>
+  <sup>
+   89 GitHub links in total 138 links, ★ 49, pushed 304 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 304 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ericrasmussen/pyramid_redis_sessions">
@@ -572,11 +648,14 @@ dogpile.cache
    </em>
    sessions
   </a>
-  <span>
-   &#9733 36, pushed 169 days ago
-  </span>
   -
 Pyramid web framework session factory backed by Redis.
+  <sup>
+   89 GitHub links in total 138 links, ★ 36, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/moriyoshi/pyramid_dogpile_cache">
@@ -586,21 +665,27 @@ Pyramid web framework session factory backed by Redis.
    </em>
    cache
   </a>
-  <span>
-   &#9733 3, pushed 591 days ago
-  </span>
   -
 dogpile.cache configuration package for Pyramid
+  <sup>
+   89 GitHub links in total 138 links, ★ 3, pushed 591 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 592 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joulez/pyramid_sessions">
    pyramid_sessions
   </a>
-  <span>
-   &#9733 0, pushed 480 days ago
-  </span>
   - Multiple
 session support for the Pyramid Web Framework
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 480 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 480 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_nacl_session">
@@ -610,9 +695,6 @@ session support for the Pyramid Web Framework
    </em>
    session
   </a>
-  <span>
-   &#9733 5, pushed 77 days ago
-  </span>
   -
 defines an encrypting, pickle-based cookie serializer, using
   <a href="http://pynacl.readthedocs.io/en/latest/secret/">
@@ -620,6 +702,12 @@ defines an encrypting, pickle-based cookie serializer, using
   </a>
   to generate the
 symmetric encryption for the cookie state.
+  <sup>
+   89 GitHub links in total 138 links, ★ 5, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 77 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -635,22 +723,28 @@ symmetric encryption for the cookie state.
   <a href="https://github.com/Pylons/pyramid_debugtoolbar">
    pyramid_debugtoolbar
   </a>
-  <span>
-   &#9733 77, pushed 10 days ago
-  </span>
   -
 provides a debug toolbar useful while you're developing your Pyramid
 application.
+  <sup>
+   89 GitHub links in total 138 links, ★ 77, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_exclog">
    pyramid_exclog
   </a>
-  <span>
-   &#9733 20, pushed 28 days ago
-  </span>
   - a package which
 logs exceptions from Pyramid applications.
+  <sup>
+   89 GitHub links in total 138 links, ★ 20, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jvanasco/pyramid_debugtoolbar_dogpile">
@@ -660,40 +754,52 @@ logs exceptions from Pyramid applications.
    </em>
    dogpile
   </a>
-  <span>
-   &#9733 1, pushed 171 days ago
-  </span>
   -
 dogpile caching support for pyramid_debugtoolbar
+  <sup>
+   89 GitHub links in total 138 links, ★ 1, pushed 171 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_ipython">
    pyramid_ipython
   </a>
-  <span>
-   &#9733 0, pushed 195 days ago
-  </span>
   - IPython
 bindings for Pyramid's pshell
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_bpython">
    pyramid_bpython
   </a>
-  <span>
-   &#9733 0, pushed 195 days ago
-  </span>
   - bpython
 bindings for Pyramid's pshell
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/disko/pyramid_pycallgraph">
    pyramid_pycallgraph
   </a>
-  <span>
-   &#9733 0, pushed 134 days ago
-  </span>
   - Pyramid tween to generate a callgraph image for every request
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 134 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -709,31 +815,40 @@ bindings for Pyramid's pshell
   <a href="https://github.com/Pylons/pyramid_mailer">
    pyramid_mailer
   </a>
-  <span>
-   &#9733 41, pushed 239 days ago
-  </span>
   - A package for
 sending email from your Pyramid application.
+  <sup>
+   89 GitHub links in total 138 links, ★ 41, pushed 239 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 239 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/domenkozar/pyramid_marrowmailer">
    pyramid_marrowmailer
   </a>
-  <span>
-   &#9733 4, pushed 488 days ago
-  </span>
   -
 Pyramid integration package for marrow.mailer, formerly known as TurboMail
+  <sup>
+   89 GitHub links in total 138 links, ★ 4, pushed 488 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 488 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evannook/pyramid_mailgun">
    pyramid_mailgun
   </a>
-  <span>
-   &#9733 0, pushed 96 days ago
-  </span>
   -
 Pyramid integration package for marrow.mailer, formerly known as TurboMail
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -749,54 +864,69 @@ Pyramid integration package for marrow.mailer, formerly known as TurboMail
   <a href="https://github.com/Pylons/deform">
    deform
   </a>
-  <span>
-   &#9733 170, pushed 18 days ago
-  </span>
   - is a Python HTML form generation
 library.
+  <sup>
+   89 GitHub links in total 138 links, ★ 170, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 170, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/colander">
    colander
   </a>
-  <span>
-   &#9733 239, pushed 10 days ago
-  </span>
   - A
 serialization/deserialization/validation library for strings, mappings and
 lists.
+  <sup>
+   89 GitHub links in total 138 links, ★ 239, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 239, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wtforms/wtforms">
    WTForms
   </a>
-  <span>
-   &#9733 507, pushed 9 days ago
-  </span>
   - is a flexible forms
 validation and rendering library for python web development.
+  <sup>
+   89 GitHub links in total 138 links, ★ 507, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 507, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stefanofontanelli/ColanderAlchemy">
    ColanderAlchemy
   </a>
-  <span>
-   &#9733 53, pushed 123 days ago
-  </span>
   -
 helps you to auto-generate Colander schemas that are based on SQLAlchemy
 mapped classes.
+  <sup>
+   89 GitHub links in total 138 links, ★ 53, pushed 123 days ago
+  </sup>
+  <sup>
+   &#9733 53, pushed 123 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marshmallow-code/marshmallow">
    marshmallow
   </a>
-  <span>
-   &#9733 1082, pushed 5 days ago
-  </span>
   - A
 lightweight library for converting complex objects to and from simple Python
 datatypes (i.e. (de)serialization and validation).
+  <sup>
+   89 GitHub links in total 138 links, ★ 1082, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1082, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -807,20 +937,26 @@ datatypes (i.e. (de)serialization and validation).
   <a href="https://github.com/uralbash/pyramid_elfinder">
    pyramid_elfinder
   </a>
-  <span>
-   &#9733 0, pushed 294 days ago
-  </span>
   - This is
 conector for elfinder file manager, written for pyramid framework.
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 294 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 294 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danjac/pyramid_storage">
    pyramid_storage
   </a>
-  <span>
-   &#9733 8, pushed 75 days ago
-  </span>
   - This is a package for handling file uploads in your Pyramid framework application.
+  <sup>
+   89 GitHub links in total 138 links, ★ 8, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 75 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -836,13 +972,16 @@ conector for elfinder file manager, written for pyramid framework.
   <a href="https://github.com/mozilla-services/cornice">
    cornice
   </a>
-  <span>
-   &#9733 274, pushed 5 days ago
-  </span>
   - provides helpers to
 build & document REST-ish Web Services with Pyramid, with decent default
 behaviors. It takes care of following the HTTP specification in an automated
 way where possible.
+  <sup>
+   89 GitHub links in total 138 links, ★ 274, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 274, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wichert/rest_toolkit">
@@ -851,77 +990,104 @@ way where possible.
     toolkit
    </em>
   </a>
-  <span>
-   &#9733 27, pushed 20 days ago
-  </span>
   - is a Python package
 which provides a very convenient way to build REST servers. It is build on
 top of Pyramid, but you do not need to know much about Pyramid to use
 rest
+  <sup>
+   89 GitHub links in total 138 links, ★ 27, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 20 days ago
+  </sup>
  </li>
 </ul>
-toolkit.
-<li>
- <a href="https://github.com/hadrien/pyramid_royal">
-  pyramid_royal
- </a>
- <span>
-  &#9733 22, pushed 165 days ago
- </span>
- - Royal is a
+<p>
+ toolkit.
+ <li>
+  <a href="https://github.com/hadrien/pyramid_royal">
+   pyramid
+   <em>
+    royal
+   </em>
+  </a>
+  - Royal is a
 pyramid extension which eases writing RESTful web applications.
-</li>
-<li>
- <a href="https://github.com/mozilla-services/cliquet">
-  cliquet
- </a>
- <span>
-  &#9733 68, pushed 1 days ago
- </span>
- - Cliquet is a toolkit
+  <sup>
+   89 GitHub links in total 138 links, &#9733 22, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 165 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mozilla-services/cliquet">
+   cliquet
+  </a>
+  - Cliquet is a toolkit
 to ease the implementation of HTTP microservices, such as data-driven REST
 APIs.
-</li>
-<li>
- <a href="https://github.com/sloria/webargs">
-  webargs
- </a>
- <span>
-  &#9733 312, pushed 1 days ago
- </span>
- - A friendly library for parsing
+  <sup>
+   89 GitHub links in total 138 links, &#9733 68, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sloria/webargs">
+   webargs
+  </a>
+  - A friendly library for parsing
 HTTP request arguments, with built-in support for popular web frameworks.
-</li>
-<li>
- <a href="https://github.com/ramses-tech/ramses">
-  ramses
- </a>
- <span>
-  &#9733 219, pushed 32 days ago
- </span>
- - Generate a RESTful API using
+  <sup>
+   89 GitHub links in total 138 links, &#9733 312, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 312, pushed 1 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ramses-tech/ramses">
+   ramses
+  </a>
+  - Generate a RESTful API using
 RAML. It uses Nefertari which provides ElasticSearch-powered views.
-</li>
-<li>
- <a href="https://github.com/ramses-tech/nefertari">
-  nefertari
- </a>
- <span>
-  &#9733 38, pushed 2 days ago
- </span>
- -  Nefertari is a REST
+  <sup>
+   89 GitHub links in total 138 links, &#9733 219, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 219, pushed 32 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ramses-tech/nefertari">
+   nefertari
+  </a>
+  -  Nefertari is a REST
 API framework sitting on top of Pyramid and ElasticSearch
-</li>
-<li>
- <a href="https://github.com/striglia/pyramid_swagger">
-  pyramid_swagger
- </a>
- <span>
-  &#9733 33, pushed 7 days ago
- </span>
- - Convenient
+  <sup>
+   89 GitHub links in total 138 links, &#9733 38, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/striglia/pyramid_swagger">
+   pyramid
+  </a>
+  <sup>
+   &#9733 33, pushed 7 days ago
+  </sup>
+ </li>
+</p>
+swagger
+- Convenient
 tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
-</li>
+<sup>
+ 89 GitHub links in total 138 links, &#9733 33, pushed 7 days ago
+</sup>
 <h2>
  Search
 </h2>
@@ -935,11 +1101,14 @@ tools for using Swagger to define and validate your interfaces in a Pyramid weba
   <a href="https://github.com/Pylons/hypatia">
    hypatia
   </a>
-  <span>
-   &#9733 21, pushed 29 days ago
-  </span>
   - A Python indexing and
 searching system.
+  <sup>
+   89 GitHub links in total 138 links, ★ 21, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 29 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -958,11 +1127,14 @@ searching system.
   <a href="https://github.com/websauna/pyramid_sms">
    pyramid_sms
   </a>
-  <span>
-   &#9733 2, pushed 5 days ago
-  </span>
   -
 SMS services for Pyramid web framework.
+  <sup>
+   89 GitHub links in total 138 links, ★ 2, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -978,22 +1150,28 @@ SMS services for Pyramid web framework.
   <a href="https://github.com/Pylons/pyramid_zcml">
    pyramid_zcml
   </a>
-  <span>
-   &#9733 3, pushed 52 days ago
-  </span>
   - Zope Configuration
 Markup Language configuration support for Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 3, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mmerickel/pyramid_services">
    pyramid_services
   </a>
-  <span>
-   &#9733 39, pushed 90 days ago
-  </span>
   - defines a
 pattern and helper methods for accessing a pluggable service layer from
 within your Pyramid apps.
+  <sup>
+   89 GitHub links in total 138 links, ★ 39, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 90 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1010,19 +1188,19 @@ provide new storage backends.
   <a href="https://github.com/Pylons/pyramid_tm">
    pyramid_tm
   </a>
-  <span>
-   &#9733 24, pushed 8 days ago
-  </span>
   - Centralized transaction
 management for Pyramid applications (without middleware).
+  <sup>
+   89 GitHub links in total 138 links, ★ 24, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zopefoundation/zope.sqlalchemy">
    zope.sqlalchemy
   </a>
-  <span>
-   &#9733 17, pushed 8 days ago
-  </span>
   -
 Integration of SQLAlchemy with transaction management.
   <ul>
@@ -1033,46 +1211,64 @@ you)
     </a>
    </li>
   </ul>
+  <sup>
+   89 GitHub links in total 138 links, ★ 17, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wichert/pyramid_sqlalchemy">
    pyramid_sqlalchemy
   </a>
-  <span>
-   &#9733 21, pushed 5 days ago
-  </span>
   -
 provides some basic glue to facilitate using SQLAlchemy with Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 21, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_zodbconn">
    pyramid_zodbconn
   </a>
-  <span>
-   &#9733 4, pushed 131 days ago
-  </span>
   - ZODB
 Database connection management for Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 4, pushed 131 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 131 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marioidival/pyramid_mongoengine">
    pyramid_mongoengine
   </a>
-  <span>
-   &#9733 8, pushed 272 days ago
-  </span>
   -
 pyramid-mongoengine package based on flask-mongoengine
+  <sup>
+   89 GitHub links in total 138 links, ★ 8, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/niallo/pyramid_mongodb">
    pyramid_mongodb
   </a>
-  <span>
-   &#9733 39, pushed 872 days ago
-  </span>
   - 
 Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
+  <sup>
+   89 GitHub links in total 138 links, ★ 39, pushed 872 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 872 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1088,26 +1284,32 @@ Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid We
   <a href="https://github.com/sontek/pyramid_celery">
    pyramid_celery
   </a>
-  <span>
-   &#9733 71, pushed 155 days ago
-  </span>
   - Pyramid
 configuration with celery integration. Allows you to use pyramid .ini files
 to configure celery and have your pyramid configuration inside celery tasks.
+  <sup>
+   89 GitHub links in total 138 links, ★ 71, pushed 155 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 155 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wichert/pyramid_rq">
    pyramid_rq
   </a>
-  <span>
-   &#9733 8, pushed 410 days ago
-  </span>
   - Support using the rq
 queueing system with pyramid. The easiest way to monitor and use
   <a href="http://python-rq.org">
    RQ
   </a>
   in your Pyramid projects.
+  <sup>
+   89 GitHub links in total 138 links, ★ 8, pushed 410 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 410 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1118,41 +1320,53 @@ queueing system with pyramid. The easiest way to monitor and use
   <a href="https://github.com/Pylons/pyramid_mako">
    pyramid_mako
   </a>
-  <span>
-   &#9733 15, pushed 387 days ago
-  </span>
   - Mako templating
 system bindings for the Pyramid web framework.
+  <sup>
+   89 GitHub links in total 138 links, ★ 15, pushed 387 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 387 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_chameleon">
    pyramid_chameleon
   </a>
-  <span>
-   &#9733 7, pushed 22 days ago
-  </span>
   - Chameleon
 template compiler for pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 7, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_jinja2">
    pyramid_jinja2
   </a>
-  <span>
-   &#9733 63, pushed 101 days ago
-  </span>
   - Jinja2
 templating system bindings for the Pyramid web framework.
+  <sup>
+   89 GitHub links in total 138 links, ★ 63, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 101 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ztane/Tonnikala">
    Tonnikala
   </a>
-  <span>
-   &#9733 0, pushed 286 days ago
-  </span>
   - Python templating engine
 with Pyramid integration
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 286 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 286 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1168,12 +1382,15 @@ with Pyramid integration
   <a href="https://github.com/Pylons/webtest">
    webtest
   </a>
-  <span>
-   &#9733 150, pushed 21 days ago
-  </span>
   - Wraps any WSGI application and
 makes it easy to send test requests to that application, without starting up
 an HTTP server.
+  <sup>
+   89 GitHub links in total 138 links, ★ 150, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 150, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1189,13 +1406,16 @@ an HTTP server.
   <a href="https://github.com/wichert/lingua">
    lingua
   </a>
-  <span>
-   &#9733 36, pushed 25 days ago
-  </span>
   - Lingua is a package with tools
 to extract translatable texts from your code, and to check existing
 translations. It replaces the use of the xgettext command from gettext, or
 pybabel from Babel.
+  <sup>
+   89 GitHub links in total 138 links, ★ 36, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 25 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1217,42 +1437,54 @@ pybabel from Babel.
   <a href="https://github.com/Pylons/pyramid_layout">
    pyramid_layout
   </a>
-  <span>
-   &#9733 17, pushed 11 days ago
-  </span>
   - Pyramid add-on
 for managing UI layouts.
+  <sup>
+   89 GitHub links in total 138 links, ★ 17, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_skins">
    pyramid_skins
   </a>
-  <span>
-   &#9733 0, pushed 588 days ago
-  </span>
   - This package
 provides a simple framework to integrate code with templates and resources.
+  <sup>
+   89 GitHub links in total 138 links, ★ 0, pushed 588 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 588 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/waitress">
    waitress
   </a>
-  <span>
-   &#9733 254, pushed 18 days ago
-  </span>
   - Waitress is meant to be a
 production-quality pure-Python WSGI server with very acceptable performance.
 It has no dependencies except ones which live in the Python standard library.
+  <sup>
+   89 GitHub links in total 138 links, ★ 254, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 254, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_handlers">
    pyramid_handlers
   </a>
-  <span>
-   &#9733 9, pushed 1213 days ago
-  </span>
   - analogue of
 Pylons-style “controllers” for Pyramid.
+  <sup>
+   89 GitHub links in total 138 links, ★ 9, pushed 1213 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 1213 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/pyramid_rpc">
@@ -1261,74 +1493,105 @@ Pylons-style “controllers” for Pyramid.
     rpc
    </em>
   </a>
-  <span>
-   &#9733 20, pushed 20 days ago
-  </span>
   - RPC service add-on for
 Pyramid, supports XML-RPC in a more extensible manner than pyramid
+  <sup>
+   89 GitHub links in total 138 links, ★ 20, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 20 days ago
+  </sup>
  </li>
 </ul>
-xmlrpc
+<p>
+ xmlrpc
 with support for JSON-RPC and AMF.
-<li>
- <a href="https://github.com/SurveyMonkey/pyramid_autodoc">
-  pyramid_autodoc
- </a>
- <span>
-  &#9733 6, pushed 5 days ago
- </span>
- - Sphinx
+ <li>
+  <a href="https://github.com/SurveyMonkey/pyramid_autodoc">
+   pyramid
+   <em>
+    autodoc
+   </em>
+  </a>
+  - Sphinx
 extension for documenting your Pyramid APIs.
-</li>
-<li>
- <a href="https://github.com/uralbash/pyramid_pages">
-  pyramid_pages
- </a>
- <span>
-  &#9733 7, pushed 1 days ago
- </span>
- - Provides a
+  <sup>
+   89 GitHub links in total 138 links, &#9733 6, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 5 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/uralbash/pyramid_pages">
+   pyramid
+  </a>
+  <sup>
+   &#9733 7, pushed 1 days ago
+  </sup>
+ </li>
+</p>
+pages
+- Provides a
 collections of tree pages to your Pyramid application. This is very similar
 to django.contrib.flatpages but with a tree structure and traversal algorithm
 in URL dispath.
-</li>
+<sup>
+ 89 GitHub links in total 138 links, &#9733 7, pushed 1 days ago
+</sup>
 <li>
  <a href="https://github.com/Pylons/paginate">
   paginate
  </a>
- <span>
-  &#9733 20, pushed 10 days ago
- </span>
  - Python pagination module.
+ <sup>
+  89 GitHub links in total 138 links, &#9733 20, pushed 10 days ago
+ </sup>
+ <sup>
+  &#9733 20, pushed 10 days ago
+ </sup>
 </li>
 <li>
  <a href="https://github.com/lxneng/pyramid_tablib">
-  pyramid_tablib
+  pyramid
+  <em>
+   tablib
+  </em>
  </a>
- <span>
-  &#9733 6, pushed 418 days ago
- </span>
  - tablib renderer
 (xlsx, xls, csv) for pyramid
+ <sup>
+  89 GitHub links in total 138 links, &#9733 6, pushed 418 days ago
+ </sup>
+ <sup>
+  &#9733 6, pushed 418 days ago
+ </sup>
 </li>
 <li>
  <a href="https://github.com/sontek/tomb_routes">
-  tomb_routes
+  tomb
  </a>
- <span>
+ <sup>
   &#9733 1, pushed 314 days ago
- </span>
- - Simple utility library
-around pyramid routing
+ </sup>
 </li>
+routes
+- Simple utility library
+around pyramid routing
+<sup>
+ 89 GitHub links in total 138 links, &#9733 1, pushed 314 days ago
+</sup>
 <li>
  <a href="https://github.com/jenner/pyramid_extdirect">
   pyramid_extdirect
  </a>
- <span>
-  &#9733 11, pushed 30 days ago
- </span>
  - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
+ <sup>
+  89 GitHub links in total 138 links, &#9733 11, pushed 30 days ago
+ </sup>
+ <sup>
+  &#9733 11, pushed 30 days ago
+ </sup>
 </li>
 <h1>
  Projects
@@ -1359,35 +1622,44 @@ to build form based management or administration software.
   <a href="https://github.com/nive/nive_cms">
    nive_cms
   </a>
-  <span>
-   &#9733 11, pushed 53 days ago
-  </span>
   - Nive is professional out the
 box content management system for mobile and desktop websites based on python
 and the webframework pyramid. Please refer to the website cms.nive.co for
 detailed information.
+  <sup>
+   89 GitHub links in total 138 links, ★ 11, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/substanced">
    substanced
   </a>
-  <span>
-   &#9733 115, pushed 20 days ago
-  </span>
   - An application server
 built upon the Pyramid web framework. It provides a user interface for
 managing content as well as libraries and utilities which make it easy to
 create applications.
+  <sup>
+   89 GitHub links in total 138 links, ★ 115, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 115, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Kotti/Kotti">
    Kotti
   </a>
-  <span>
-   &#9733 292, pushed 13 days ago
-  </span>
   - A user-friendly, light-weight and
 extensible web content management system. Based on Pyramid and SQLAlchemy.
+  <sup>
+   89 GitHub links in total 138 links, ★ 292, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 292, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://karlproject.readthedocs.io/en/latest/">
@@ -1413,37 +1685,46 @@ details.
   <a href="https://github.com/Pylons/cluegun">
    cluegun
   </a>
-  <span>
-   &#9733 20, pushed 1539 days ago
-  </span>
   - A simple pastebin application
 based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
 the use of ZODB within a Pyramid application.
+  <sup>
+   89 GitHub links in total 138 links, ★ 20, pushed 1539 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 1539 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/shootout">
    shootout
   </a>
-  <span>
-   &#9733 94, pushed 943 days ago
-  </span>
   - An example “idea
 competition” application by Carlos de la Guardia and Lukasz Fidosz. It
 demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
 and pyramid_simpleform.
+  <sup>
+   89 GitHub links in total 138 links, ★ 94, pushed 943 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 943 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pylons/virginia">
    virginia
   </a>
-  <span>
-   &#9733 19, pushed 1539 days ago
-  </span>
   - A very simple dynamic
 file rendering application. It is willing to render structured text
 documents, HTML documents, and images from a filesystem directory. It’s also
 a good example of traversal. An earlier version of this application runs the
 repoze.org website.
+  <sup>
+   89 GitHub links in total 138 links, ★ 19, pushed 1539 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 1539 days ago
+  </sup>
  </li>
  <li>
   <a href="http://docs.pylonsproject.org/projects/akhet/en/latest/">
@@ -1467,22 +1748,28 @@ SQLAlchemy.
   <a href="https://github.com/ptahproject/ptah">
    Ptah
   </a>
-  <span>
-   &#9733 73, pushed 324 days ago
-  </span>
   - Ptah is a fast, fun, open
 source high-level Python web development environment.
+  <sup>
+   89 GitHub links in total 138 links, ★ 73, pushed 324 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 324 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pypa/warehouse">
    warehouse
   </a>
-  <span>
-   &#9733 522, pushed 0 days ago
-  </span>
   - Warehouse is a next
 generation Python Package Repository designed to replace the legacy code base
 that currently powers PyPI.
+  <sup>
+   89 GitHub links in total 138 links, ★ 522, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 522, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.travelcrm.org.ua/">

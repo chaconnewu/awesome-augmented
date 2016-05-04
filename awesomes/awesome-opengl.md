@@ -220,10 +220,13 @@
   <a href="https://github.com/dtrebilco/glintercept">
    GLIntercept
   </a>
-  <span>
-   &#9733 68, pushed 125 days ago
-  </span>
   - An OpenGL function call interceptor for Windows.
+  <sup>
+   8 GitHub links in total 74 links, ★ 68, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://software.intel.com/en-us/gpa">
@@ -241,10 +244,13 @@
   <a href="https://github.com/ValveSoftware/vogl">
    vogl
   </a>
-  <span>
-   &#9733 1233, pushed 6 days ago
-  </span>
   - OpenGL capture and playback debugger developed by Valve.
+  <sup>
+   8 GitHub links in total 74 links, ★ 1233, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1233, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -334,10 +340,13 @@
   <a href="https://github.com/mosra/magnum">
    Magnum
   </a>
-  <span>
-   &#9733 738, pushed 2 days ago
-  </span>
   - Magnum is 2D/3D graphics engine for modern OpenGL.
+  <sup>
+   8 GitHub links in total 74 links, ★ 738, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 738, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://newtondynamics.com/forum/newton.php">
@@ -387,37 +396,49 @@
   <a href="https://github.com/skaslev/gl3w">
    gl3w
   </a>
-  <span>
-   &#9733 192, pushed 4 days ago
-  </span>
   - A simple OpenGL core profile loader.
+  <sup>
+   8 GitHub links in total 74 links, ★ 192, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Dav1dde/glad">
    glad
   </a>
-  <span>
-   &#9733 198, pushed 3 days ago
-  </span>
   - A multi profile loader-generator based on the official specs.
+  <sup>
+   8 GitHub links in total 74 links, ★ 198, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 198, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nnesse/glbindify">
    glbindify
   </a>
-  <span>
-   &#9733 2, pushed 123 days ago
-  </span>
   - A commmand line tool to generate C bindings for OpenGL, wgl, and glX.
+  <sup>
+   8 GitHub links in total 74 links, ★ 2, pushed 123 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 123 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cginternals/glbinding">
    glbinding
   </a>
-  <span>
-   &#9733 294, pushed 8 days ago
-  </span>
   - A profile loader leveraging C++11 features to provide type safety.
+  <sup>
+   8 GitHub links in total 74 links, ★ 294, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 294, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://glew.sourceforge.net">
@@ -616,13 +637,16 @@
   <a href="https://github.com/McNopper/OpenGL">
    OpenGL Examples
   </a>
-  <span>
-   &#9733 486, pushed 3 days ago
-  </span>
   by
   <strong>
    Norbert Nopper
   </strong>
+  <sup>
+   8 GitHub links in total 74 links, ★ 486, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 486, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ogldev.atspace.co.uk">

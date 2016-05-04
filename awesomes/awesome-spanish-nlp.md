@@ -55,17 +55,23 @@
   <a href="https://github.com/ixa-ehu/ixa-pipe-pos">
    ixa-pipe-pos
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 50 links, ★ 5, pushed 11 days ago
+  </sup>
+  <sup>
    &#9733 5, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MaG21/estem">
    Ruby Snowball Implementation
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 50 links, ★ 3, pushed 1224 days ago
+  </sup>
+  <sup>
    &#9733 3, pushed 1224 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/spaghetti-tagger/">
@@ -184,17 +190,23 @@
   <a href="https://github.com/dav009/LatinamericanTextResources">
    Colombian Political Speeches
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 50 links, ★ 1, pushed 1012 days ago
+  </sup>
+  <sup>
    &#9733 1, pushed 1012 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dav009/LatinamericanTextResources">
    South American Slang Expressions/MTWE
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 50 links, ★ 1, pushed 1012 days ago
+  </sup>
+  <sup>
    &#9733 1, pushed 1012 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip">
@@ -290,9 +302,12 @@
   <a href="https://github.com/idio/wiki2vec">
    Word2Vec vectors for Wikipedia Spanish Articles
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 50 links, ★ 184, pushed 57 days ago
+  </sup>
+  <sup>
    &#9733 184, pushed 57 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2">

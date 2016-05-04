@@ -227,46 +227,61 @@
   <a href="https://github.com/ddanny/achartengine">
    AChartEngine
   </a>
-  <span>
-   &#9733 129, pushed 28 days ago
-  </span>
   - Charting Engine.
+  <sup>
+   109 GitHub links in total 201 links, ★ 129, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/blackfizz/EazeGraph">
    EazeGraph
   </a>
-  <span>
-   &#9733 1004, pushed 211 days ago
-  </span>
   - Chart and graph library.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1004, pushed 211 days ago
+  </sup>
+  <sup>
+   &#9733 1004, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/diogobernardino/WilliamChart">
    WilliamChart
   </a>
-  <span>
-   &#9733 2163, pushed 85 days ago
-  </span>
   - Chart library with good motion capabilities.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2163, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 2163, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lecho/hellocharts-android">
    HelloCharts
   </a>
-  <span>
-   &#9733 2475, pushed 20 days ago
-  </span>
   - Chart and graph library with support for scaling, scrolling and animations.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2475, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 2475, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PhilJay/MPAndroidChart">
    MPAndroidChart
   </a>
-  <span>
-   &#9733 8771, pushed 2 days ago
-  </span>
   - An Android chart and graph library supporting scaling and dragging by gesture.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8771, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 8771, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -277,19 +292,25 @@
   <a href="https://github.com/zserge/anvil">
    Anvil
   </a>
-  <span>
-   &#9733 519, pushed 9 days ago
-  </span>
   - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
+  <sup>
+   109 GitHub links in total 201 links, ★ 519, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 519, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RoboBinding/RoboBinding">
    RoboBinding
   </a>
-  <span>
-   &#9733 1155, pushed 22 days ago
-  </span>
   - A data-binding Presentation Model (MVVM) framework for the Android platform.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1155, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 1155, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="http://developer.android.com/tools/data-binding/guide.html">
@@ -306,28 +327,37 @@
   <a href="https://github.com/roboguice/roboguice">
    RoboGuice
   </a>
-  <span>
-   &#9733 3723, pushed 56 days ago
-  </span>
   - Dependency injection framework for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 3723, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 3723, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/square/Dagger">
    Dagger
   </a>
-  <span>
-   &#9733 5014, pushed 42 days ago
-  </span>
   - Dependency injection framework for Java and Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 5014, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 5014, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/dagger">
    Dagger 2
   </a>
-  <span>
-   &#9733 3472, pushed 7 days ago
-  </span>
   - A fast dependency injector for Android and Java.
+  <sup>
+   109 GitHub links in total 201 links, ★ 3472, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 3472, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jakewharton.github.io/butterknife/">
@@ -339,10 +369,13 @@
   <a href="https://github.com/excilys/androidannotations">
    AndroidAnnotations
   </a>
-  <span>
-   &#9733 7465, pushed 16 days ago
-  </span>
   - Java annotations with dependency injection at compile time.
+  <sup>
+   109 GitHub links in total 201 links, ★ 7465, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 7465, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -380,10 +413,13 @@
   <a href="https://github.com/Rajawali/Rajawali">
    Rajawali
   </a>
-  <span>
-   &#9733 927, pushed 10 days ago
-  </span>
   - Android OpenGL ES 2.0/3.0 Engine
+  <sup>
+   109 GitHub links in total 201 links, ★ 927, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 927, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -400,82 +436,109 @@
   <a href="https://github.com/gabrielemariotti/cardslib">
    Cardslib
   </a>
-  <span>
-   &#9733 4294, pushed 104 days ago
-  </span>
   - Android Library to build a UI Card.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4294, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 4294, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/etsy/AndroidStaggeredGrid">
    AndroidStaggeredGrid
   </a>
-  <span>
-   &#9733 4172, pushed 223 days ago
-  </span>
   - Grid view which supports multiple columns with rows of varying sizes.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4172, pushed 223 days ago
+  </sup>
+  <sup>
+   &#9733 4172, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/androidquery/androidquery">
    AndroidQuery
   </a>
-  <span>
-   &#9733 1888, pushed 588 days ago
-  </span>
   - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1888, pushed 588 days ago
+  </sup>
+  <sup>
+   &#9733 1888, pushed 588 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/square/flow">
    Flow
   </a>
-  <span>
-   &#9733 1630, pushed 21 days ago
-  </span>
   - Library that helps with describing an app as a collection of moderately independent screens.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1630, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1630, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/keyboardsurfer/Crouton">
    Crouton
   </a>
-  <span>
-   &#9733 2833, pushed 218 days ago
-  </span>
   - Context sensitive notifications for Android
+  <sup>
+   109 GitHub links in total 201 links, ★ 2833, pushed 218 days ago
+  </sup>
+  <sup>
+   &#9733 2833, pushed 218 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bauerca/drag-sort-listview">
    DragSortListView
   </a>
-  <span>
-   &#9733 2759, pushed 112 days ago
-  </span>
   - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+  <sup>
+   109 GitHub links in total 201 links, ★ 2759, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 2759, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DreaminginCodeZH/MaterialProgressBar">
    MaterialProgressBar
   </a>
-  <span>
-   &#9733 677, pushed 21 days ago
-  </span>
   - Material design ProgressBar with consistent appearance.
+  <sup>
+   109 GitHub links in total 201 links, ★ 677, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 677, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders">
    AndroidFillableLoaders
   </a>
-  <span>
-   &#9733 1255, pushed 182 days ago
-  </span>
   - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1255, pushed 182 days ago
+  </sup>
+  <sup>
+   &#9733 1255, pushed 182 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dkharrat/NexusDialog">
    NexusDialog
   </a>
-  <span>
-   &#9733 88, pushed 29 days ago
-  </span>
   - Allows you to easily and quickly create forms in Android with little code.
+  <sup>
+   109 GitHub links in total 201 links, ★ 88, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 88, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://prashantsolanki.com/Snap-RecyclerView-Utils/">
@@ -487,28 +550,37 @@
   <a href="https://github.com/michelelacorte/SwipeableCard">
    SwipeableCard
   </a>
-  <span>
-   &#9733 374, pushed 45 days ago
-  </span>
   - Implementation of swipe card like StreetView!!
+  <sup>
+   109 GitHub links in total 201 links, ★ 374, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 374, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/michelelacorte/ElasticProgressBar">
    ElasticProgressBar
   </a>
-  <span>
-   &#9733 211, pushed 94 days ago
-  </span>
   - Beautiful loading bar.
+  <sup>
+   109 GitHub links in total 201 links, ★ 211, pushed 94 days ago
+  </sup>
+  <sup>
+   &#9733 211, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kunall17/EntryScreenManager">
    EntryScreenManager
   </a>
-  <span>
-   &#9733 15, pushed 59 days ago
-  </span>
   - Intro/Entry/Walkthrough/Starting Screens.
+  <sup>
+   109 GitHub links in total 201 links, ★ 15, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JonatanSalas/material-calendar-view">
@@ -531,10 +603,13 @@
   <a href="https://github.com/ManuelPeinado/FadingActionBar">
    FadingActionBar
   </a>
-  <span>
-   &#9733 2645, pushed 613 days ago
-  </span>
   - Fading action bar effect that can be seen in the new Play Music app.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2645, pushed 613 days ago
+  </sup>
+  <sup>
+   &#9733 2645, pushed 613 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -545,46 +620,61 @@
   <a href="https://github.com/jfeinstein10/SlidingMenu">
    SlidingMenu
   </a>
-  <span>
-   &#9733 9293, pushed 64 days ago
-  </span>
   - Library to create applications with slide-in menus.
+  <sup>
+   109 GitHub links in total 201 links, ★ 9293, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 9293, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Cleveroad/slidingtutorial-android">
    SlidingTutorial
   </a>
-  <span>
-   &#9733 1170, pushed 11 days ago
-  </span>
   - Simple library that helps to create awesome sliding android app tutorials.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1170, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1170, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/astuetz/PagerSlidingTabStrip">
    PagerSlidingTabStrip
   </a>
-  <span>
-   &#9733 4895, pushed 59 days ago
-  </span>
   - An interactive indicator to navigate between the different pages of a ViewPager.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4895, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 4895, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JakeWharton/ViewPagerIndicator">
    Page View indicator
   </a>
-  <span>
-   &#9733 7341, pushed 29 days ago
-  </span>
   - Support for horizontally scrolling ViewPager.
+  <sup>
+   109 GitHub links in total 201 links, ★ 7341, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 7341, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mikepenz/MaterialDrawer">
    MaterialDrawer
   </a>
-  <span>
-   &#9733 4925, pushed 7 days ago
-  </span>
   - Simple take on a material design navigation drawer.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4925, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 4925, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -595,46 +685,61 @@
   <a href="https://github.com/JakeWharton/NineOldAndroids">
    NineOldAndroids
   </a>
-  <span>
-   &#9733 3443, pushed 10 days ago
-  </span>
   - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
+  <sup>
+   109 GitHub links in total 201 links, ★ 3443, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 3443, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/rebound">
    Rebound
   </a>
-  <span>
-   &#9733 3315, pushed 237 days ago
-  </span>
   - Rebound is a java library that models spring dynamics.
+  <sup>
+   109 GitHub links in total 201 links, ★ 3315, pushed 237 days ago
+  </sup>
+  <sup>
+   &#9733 3315, pushed 237 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/daimajia/AndroidViewAnimations">
    Android View Animations
   </a>
-  <span>
-   &#9733 4958, pushed 54 days ago
-  </span>
   - Cute view animation collection.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4958, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 4958, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kaichunlin/android-transition">
    Android-Transition
   </a>
-  <span>
-   &#9733 452, pushed 73 days ago
-  </span>
   - Allows the easy creation of view transitions that react to user inputs.
+  <sup>
+   109 GitHub links in total 201 links, ★ 452, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 452, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dtx12/AndroidAnimationsActions">
    Android-View-Actions
   </a>
-  <span>
-   &#9733 103, pushed 156 days ago
-  </span>
   - Makes creating complex animations for views easy.
+  <sup>
+   109 GitHub links in total 201 links, ★ 103, pushed 156 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 156 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -645,28 +750,37 @@
   <a href="https://github.com/jdamcd/android-crop">
    android-crop
   </a>
-  <span>
-   &#9733 2518, pushed 5 days ago
-  </span>
   - Library project for cropping images.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2518, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2518, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Pkmmte/CircularImageView">
    CircularImageView
   </a>
-  <span>
-   &#9733 992, pushed 38 days ago
-  </span>
   - Custom view for circular images while maintaining the best draw performance.
+  <sup>
+   109 GitHub links in total 201 links, ★ 992, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 992, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ragnraok/android-image-filter">
    Android-Image-Filter
   </a>
-  <span>
-   &#9733 407, pushed 183 days ago
-  </span>
   - Library project for applying image filters easily.
+  <sup>
+   109 GitHub links in total 201 links, ★ 407, pushed 183 days ago
+  </sup>
+  <sup>
+   &#9733 407, pushed 183 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -677,31 +791,40 @@
   <a href="https://github.com/hardik-trivedi/FloatingLabel">
    FloatingLabel
   </a>
-  <span>
-   &#9733 196, pushed 89 days ago
-  </span>
   - FloatingLabel Allows you to create a blow kind of EditText.
   <em>
    Doesn't have Gradle or Maven Support.
   </em>
+  <sup>
+   109 GitHub links in total 201 links, ★ 196, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 196, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rengwuxian/MaterialEditText">
    MaterialEditText
   </a>
-  <span>
-   &#9733 2942, pushed 8 days ago
-  </span>
   - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2942, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2942, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rockerhieu/emojicon">
    Emojicon
   </a>
-  <span>
-   &#9733 1880, pushed 5 days ago
-  </span>
   - Adds emoticons to your app
+  <sup>
+   109 GitHub links in total 201 links, ★ 1880, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1880, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -712,37 +835,49 @@
   <a href="https://github.com/square/picasso">
    Picasso
   </a>
-  <span>
-   &#9733 9738, pushed 7 days ago
-  </span>
   - A powerful image downloading and caching library for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 9738, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 9738, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nostra13/Android-Universal-Image-Loader">
    Universal Image Loader
   </a>
-  <span>
-   &#9733 12698, pushed 57 days ago
-  </span>
   - Asynchronous, out of the box loading and caching of images.
+  <sup>
+   109 GitHub links in total 201 links, ★ 12698, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 12698, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bumptech/glide">
    Glide
   </a>
-  <span>
-   &#9733 8099, pushed 5 days ago
-  </span>
   - An image loading and caching library for Android focused on smooth scrolling,Recommended by google.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8099, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 8099, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/fresco">
    Fresco
   </a>
-  <span>
-   &#9733 8991, pushed 4 days ago
-  </span>
   - An Android library for managing images and the memory they use.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8991, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 8991, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -753,19 +888,25 @@
   <a href="https://github.com/google/gson">
    Gson
   </a>
-  <span>
-   &#9733 4210, pushed 6 days ago
-  </span>
   - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4210, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 4210, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FasterXML/jackson">
    Jackson JSON Processor
   </a>
-  <span>
-   &#9733 1883, pushed 22 days ago
-  </span>
   - High-performance JSON processor.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1883, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 1883, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -805,46 +946,61 @@
   <a href="https://github.com/koush/ion">
    Ion
   </a>
-  <span>
-   &#9733 4397, pushed 22 days ago
-  </span>
   - Good networking library for android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4397, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 4397, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/square/okhttp">
    OkHttp
   </a>
-  <span>
-   &#9733 10831, pushed 1 days ago
-  </span>
   - An HTTP+SPDY client for Android and Java applications.
+  <sup>
+   109 GitHub links in total 201 links, ★ 10831, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 10831, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/loopj/android-async-http">
    Asynchronous Http Client
   </a>
-  <span>
-   &#9733 8691, pushed 5 days ago
-  </span>
   - An Asynchronous HTTP Library.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8691, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 8691, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stephanenicolas/robospice">
    RoboSpice
   </a>
-  <span>
-   &#9733 2823, pushed 21 days ago
-  </span>
   - Library that makes writing asynchronous network requests easy.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2823, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 2823, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anton46/IceNet">
    IceNet
   </a>
-  <span>
-   &#9733 60, pushed 532 days ago
-  </span>
   - Fast, Simple and Easy Networking for Android
+  <sup>
+   109 GitHub links in total 201 links, ★ 60, pushed 532 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 532 days ago
+  </sup>
  </li>
  <li>
   <a href="http://developer.android.com/training/volley/index.html">
@@ -856,37 +1012,49 @@
   <a href="https://github.com/AlexGilleran/IceSoap">
    IceSoap
   </a>
-  <span>
-   &#9733 46, pushed 12 days ago
-  </span>
   - Easy, asynchronous, annotation-based SOAP for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 46, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/InstantWebP2P/node-android">
    node-android
   </a>
-  <span>
-   &#9733 399, pushed 34 days ago
-  </span>
   - Run Node.js on Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 399, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 399, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/qiniu/happy-dns-android">
    HappyDns
   </a>
-  <span>
-   &#9733 45, pushed 59 days ago
-  </span>
   - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
+  <sup>
+   109 GitHub links in total 201 links, ★ 45, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andrzejchm/RESTMock">
    RESTMock
   </a>
-  <span>
-   &#9733 106, pushed 3 days ago
-  </span>
   - HTTP Web server for mocking API responses in Android Instrumentation tests.
+  <sup>
+   109 GitHub links in total 201 links, ★ 106, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -897,19 +1065,25 @@
   <a href="https://github.com/kaiwinter/android-remote-notifications">
    android-remote-notifications
   </a>
-  <span>
-   &#9733 43, pushed 301 days ago
-  </span>
   - Pulls notifications from a remote JSON file and shows them in your app.
+  <sup>
+   109 GitHub links in total 201 links, ★ 43, pushed 301 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joaopedronardari/AndroidHeartBeatFixer">
    Android HeartBeat Fixer
   </a>
-  <span>
-   &#9733 26, pushed 113 days ago
-  </span>
   - Way to set heartbeat interval and users receive PushNotifications from GCM.
+  <sup>
+   109 GitHub links in total 201 links, ★ 26, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 113 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -926,28 +1100,37 @@
   <a href="https://github.com/infinum/android_dbinspector">
    DbInspector
   </a>
-  <span>
-   &#9733 644, pushed 51 days ago
-  </span>
   - Provides a simple way to view the contents of the in-app database for debugging purposes.
+  <sup>
+   109 GitHub links in total 201 links, ★ 644, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 644, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/realm/realm-java">
    Realm
   </a>
-  <span>
-   &#9733 4443, pushed 1 days ago
-  </span>
   - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4443, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4443, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yaa110/RestorableSQLiteDatabase">
    RestorableSQLiteDatabase
   </a>
-  <span>
-   &#9733 12, pushed 91 days ago
-  </span>
   - A wrapper to replicate android's SQLiteDatabase with restoring capability.
+  <sup>
+   109 GitHub links in total 201 links, ★ 12, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 91 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -958,10 +1141,13 @@
   <a href="https://github.com/requery/requery">
    requery
   </a>
-  <span>
-   &#9733 985, pushed 0 days ago
-  </span>
   - Compile time ORM and SQL query library for Java & Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 985, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 985, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="http://greenrobot.org/greendao/">
@@ -991,37 +1177,49 @@
   <a href="https://github.com/Raizlabs/DBFlow">
    DBFlow
   </a>
-  <span>
-   &#9733 2271, pushed 0 days ago
-  </span>
   - Fast and powerful ORM with compile-time annotation processing.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2271, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 2271, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dkharrat/NexusData">
    NexusData
   </a>
-  <span>
-   &#9733 61, pushed 362 days ago
-  </span>
   - Object graph and persistence framework for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 61, pushed 362 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 362 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jearil/SimpleNoSQL">
    SimpleNoSQL
   </a>
-  <span>
-   &#9733 367, pushed 35 days ago
-  </span>
   - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
+  <sup>
+   109 GitHub links in total 201 links, ★ 367, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 367, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xmartlabs/RxSimpleNoSQL">
    RxSimpleNoSQL
   </a>
-  <span>
-   &#9733 23, pushed 35 days ago
-  </span>
   - Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.
+  <sup>
+   109 GitHub links in total 201 links, ★ 23, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1043,10 +1241,13 @@
   <a href="https://github.com/robotiumtech/robotium">
    Robotium
   </a>
-  <span>
-   &#9733 1548, pushed 31 days ago
-  </span>
   - Test automation framework for black-box UI tests.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1548, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 1548, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="http://robolectric.org/">
@@ -1058,10 +1259,13 @@
   <a href="https://github.com/square/assertj-android">
    AssertJ Android
   </a>
-  <span>
-   &#9733 1264, pushed 29 days ago
-  </span>
   - AssertJ assertions geared towards Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1264, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 1264, pushed 29 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1101,28 +1305,37 @@
   <a href="https://github.com/jd-alexander/Google-Directions-Android">
    Google-Directions-Android
   </a>
-  <span>
-   &#9733 493, pushed 12 days ago
-  </span>
   - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
+  <sup>
+   109 GitHub links in total 201 links, ★ 493, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 493, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mg6maciej/android-maps-extensions">
    Android Maps Extensions
   </a>
-  <span>
-   &#9733 282, pushed 58 days ago
-  </span>
   - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
+  <sup>
+   109 GitHub links in total 201 links, ★ 282, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 282, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twotoasters/clusterkraf">
    Clusterkraf
   </a>
-  <span>
-   &#9733 261, pushed 536 days ago
-  </span>
   - Clustering library for the Google Maps Android API v2
+  <sup>
+   109 GitHub links in total 201 links, ★ 261, pushed 536 days ago
+  </sup>
+  <sup>
+   &#9733 261, pushed 536 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1139,19 +1352,25 @@
   <a href="https://github.com/square/otto">
    Otto
   </a>
-  <span>
-   &#9733 4074, pushed 103 days ago
-  </span>
   - Event Bus for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4074, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 4074, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/badoo/android-weak-handler">
    Weak handler
   </a>
-  <span>
-   &#9733 760, pushed 49 days ago
-  </span>
   - Memory safer implementation of android.os.Handler.
+  <sup>
+   109 GitHub links in total 201 links, ★ 760, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 760, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bytebuddy.net">
@@ -1169,28 +1388,37 @@
   <a href="https://github.com/square/leakcanary">
    LeakCanary
   </a>
-  <span>
-   &#9733 8691, pushed 11 days ago
-  </span>
   - Catch memory leaks as they occur.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8691, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 8691, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coshx/drekkar">
    Drekkar
   </a>
-  <span>
-   &#9733 6, pushed 68 days ago
-  </span>
   - An Android event bus for WebView and JS.
+  <sup>
+   109 GitHub links in total 201 links, ★ 6, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sh4hin/Androl4b">
    Androl4b
   </a>
-  <span>
-   &#9733 172, pushed 87 days ago
-  </span>
   - A vm for assessing android applications.
+  <sup>
+   109 GitHub links in total 201 links, ★ 172, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 172, pushed 87 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1201,28 +1429,37 @@
   <a href="https://github.com/pedrovgs/Lynx">
    Linx
   </a>
-  <span>
-   &#9733 420, pushed 140 days ago
-  </span>
   - Show logcat inside the device for debug builds
+  <sup>
+   109 GitHub links in total 201 links, ★ 420, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 420, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JakeWharton/scalpel">
    Scalpel
   </a>
-  <span>
-   &#9733 1686, pushed 279 days ago
-  </span>
   - View the entire hierarchy in 3d in the phone.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1686, pushed 279 days ago
+  </sup>
+  <sup>
+   &#9733 1686, pushed 279 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/stetho">
    Stetho
   </a>
-  <span>
-   &#9733 4793, pushed 35 days ago
-  </span>
   - Debug hierarchy and network from chrome.
+  <sup>
+   109 GitHub links in total 201 links, ★ 4793, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 4793, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1233,10 +1470,13 @@
   <a href="https://github.com/movisens/SmartGattLib">
    SmartGattLib
   </a>
-  <span>
-   &#9733 159, pushed 111 days ago
-  </span>
   - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+  <sup>
+   109 GitHub links in total 201 links, ★ 159, pushed 111 days ago
+  </sup>
+  <sup>
+   &#9733 159, pushed 111 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1259,136 +1499,181 @@
   <a href="https://github.com/square/tape">
    Tape
   </a>
-  <span>
-   &#9733 1390, pushed 189 days ago
-  </span>
   - A lightning fast, transactional, file-based FIFO for Android and Java.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1390, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 1390, pushed 189 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/guava">
    Guava: Google Core Libraries for Java
   </a>
-  <span>
-   &#9733 8828, pushed 1 days ago
-  </span>
   - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8828, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 8828, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/damonkohler/sl4a">
    Android Scripting
   </a>
-  <span>
-   &#9733 910, pushed 28 days ago
-  </span>
   - Allows to run scripting languages on Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 910, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 910, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/path/android-priority-jobqueue">
    Android Priority Job Queue
   </a>
-  <span>
-   &#9733 2148, pushed 177 days ago
-  </span>
   - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2148, pushed 177 days ago
+  </sup>
+  <sup>
+   &#9733 2148, pushed 177 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Kopfgeldjaeger/RateMeMaybe">
    RateMeMaybe
   </a>
-  <span>
-   &#9733 85, pushed 1139 days ago
-  </span>
   - Asks the user if (s)he wants to open the Play Store to rate your application.
+  <sup>
+   109 GitHub links in total 201 links, ★ 85, pushed 1139 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 1139 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fernandodev/easy-rating-dialog">
    Easy Rating Dialog
   </a>
-  <span>
-   &#9733 74, pushed 4 days ago
-  </span>
   - Lib provides a simple way to display an alert dialog for rating app.
+  <sup>
+   109 GitHub links in total 201 links, ★ 74, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zxing/zxing">
    ZXing Android-Integration
   </a>
-  <span>
-   &#9733 8675, pushed 9 days ago
-  </span>
   - Integration with Barcode Scanner via Intent.
+  <sup>
+   109 GitHub links in total 201 links, ★ 8675, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 8675, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evant/gradle-retrolambda">
    Gradle Retrolambda Plugin
   </a>
-  <span>
-   &#9733 3017, pushed 88 days ago
-  </span>
   - Java 8 Lambdas on Android!
+  <sup>
+   109 GitHub links in total 201 links, ★ 3017, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 3017, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxJava">
    RxJava
   </a>
-  <span>
-   &#9733 13390, pushed 1 days ago
-  </span>
   - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  <sup>
+   109 GitHub links in total 201 links, ★ 13390, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 13390, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/percolate/caffeine">
    Caffeine
   </a>
-  <span>
-   &#9733 380, pushed 14 days ago
-  </span>
   - A collection of utility classes that help make Android development faster.
+  <sup>
+   109 GitHub links in total 201 links, ★ 380, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 380, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mikepenz/AboutLibraries">
    AboutLibraries
   </a>
-  <span>
-   &#9733 1320, pushed 22 days ago
-  </span>
   - Automatically generates an About this app section, with a list of used libraries.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1320, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 1320, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HugoMatilla/AudioPlayerView">
    AudioPlayerView
   </a>
-  <span>
-   &#9733 56, pushed 64 days ago
-  </span>
   - A view that loads audio from an url and have basic playback tools.
+  <sup>
+   109 GitHub links in total 201 links, ★ 56, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jintin/andle">
    andle
   </a>
-  <span>
-   &#9733 29, pushed 25 days ago
-  </span>
   - command line tool help you sync dependencies, sdk or build tool version.
+  <sup>
+   109 GitHub links in total 201 links, ★ 29, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/workarounds/typography">
    Typography
   </a>
-  <span>
-   &#9733 23, pushed 68 days ago
-  </span>
   - An Android library that makes it easy to use custom fonts in views.
+  <sup>
+   109 GitHub links in total 201 links, ★ 23, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jintin/transai">
    transai
   </a>
-  <span>
-   &#9733 22, pushed 13 days ago
-  </span>
   - command line tool help you manage localization string files.
+  <sup>
+   109 GitHub links in total 201 links, ★ 22, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 13 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1475,10 +1760,13 @@
   <a href="https://github.com/mbcrump/FirstGoogleWearableApp">
    Google Wear App
   </a>
-  <span>
-   &#9733 6, pushed 404 days ago
-  </span>
   - This is an open source Google Wear App that uses speech recognition to calculate a tip.
+  <sup>
+   109 GitHub links in total 201 links, ★ 6, pushed 404 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 404 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh">
@@ -1490,10 +1778,13 @@
   <a href="https://github.com/vbauer/android-blogs">
    android-blogs
   </a>
-  <span>
-   &#9733 238, pushed 14 days ago
-  </span>
   - List with blogs about Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 238, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 238, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1562,10 +1853,13 @@
   <a href="https://github.com/facebook/react-native">
    React Native
   </a>
-  <span>
-   &#9733 31533, pushed 1 days ago
-  </span>
   - A framework for building native apps with React by Facebook.
+  <sup>
+   109 GitHub links in total 201 links, ★ 31533, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 31533, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ionicframework.com">
@@ -1577,10 +1871,13 @@
   <a href="https://github.com/apache/cordova-android">
    Apache Cordova
   </a>
-  <span>
-   &#9733 1456, pushed 4 days ago
-  </span>
   - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1456, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1456, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://reapp.io/">
@@ -1614,19 +1911,25 @@
   <a href="https://github.com/pocorall/scaloid">
    Scaloid
   </a>
-  <span>
-   &#9733 1929, pushed 14 days ago
-  </span>
   - Library for less painful Android development with Scala.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1929, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 1929, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/47deg/macroid">
    Macroid
   </a>
-  <span>
-   &#9733 412, pushed 14 days ago
-  </span>
   - A modular functional UI language for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 412, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 412, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1643,19 +1946,25 @@
   <a href="https://github.com/groovy/groovy-android-gradle-plugin">
    Groovy Language Support for Android
   </a>
-  <span>
-   &#9733 556, pushed 26 days ago
-  </span>
   - Gradle Plugin for Compiling Groovy for Android.
+  <sup>
+   109 GitHub links in total 201 links, ★ 556, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 556, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Arasthel/SwissKnife">
    SwissKnife
   </a>
-  <span>
-   &#9733 233, pushed 160 days ago
-  </span>
   - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+  <sup>
+   109 GitHub links in total 201 links, ★ 233, pushed 160 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 160 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1666,37 +1975,49 @@
   <a href="https://github.com/Kotlin/anko">
    Anko
   </a>
-  <span>
-   &#9733 2653, pushed 3 days ago
-  </span>
   - DSL for Android written in Kotlin by JetBrains.
+  <sup>
+   109 GitHub links in total 201 links, ★ 2653, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2653, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JakeWharton/kotterknife">
    Kotterknife
   </a>
-  <span>
-   &#9733 710, pushed 35 days ago
-  </span>
   - Android view injection writen in Kotlin based on ButterKnife
+  <sup>
+   109 GitHub links in total 201 links, ★ 710, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 710, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/irontec/android-kotlin-samples">
    Android Kotlin Samples
   </a>
-  <span>
-   &#9733 137, pushed 166 days ago
-  </span>
   - Some basic Android code samples writen in Kotlin.
+  <sup>
+   109 GitHub links in total 201 links, ★ 137, pushed 166 days ago
+  </sup>
+  <sup>
+   &#9733 137, pushed 166 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pawegio/KAndroid">
    KAndroid
   </a>
-  <span>
-   &#9733 319, pushed 4 days ago
-  </span>
   - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+  <sup>
+   109 GitHub links in total 201 links, ★ 319, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 319, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1707,10 +2028,13 @@
   <a href="https://github.com/Juude/awesome-android-performance">
    awesome-android-performance
   </a>
-  <span>
-   &#9733 1589, pushed 18 days ago
-  </span>
   - A list of awesome Android tutorials, videos and tools for performance optimization.
+  <sup>
+   109 GitHub links in total 201 links, ★ 1589, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1589, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h1>

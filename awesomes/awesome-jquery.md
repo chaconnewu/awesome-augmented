@@ -211,10 +211,13 @@
   <a href="https://github.com/jquery-boilerplate/jquery-patterns">
    jQuery patterns
   </a>
-  <span>
-   &#9733 1498, pushed 94 days ago
-  </span>
   - A variety of jQuery plugin patterns for jump starting your plugin development.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1498, pushed 94 days ago
+  </sup>
+  <sup>
+   &#9733 1498, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="http://learn.jquery.com/">
@@ -282,10 +285,13 @@
   <a href="https://github.com/bocoup/jqfundamentals.com">
    jQuery fundamentals
   </a>
-  <span>
-   &#9733 77, pushed 14 days ago
-  </span>
   - Comfortable working through common problems you'll be called upon to solve using jQuery.
+  <sup>
+   99 GitHub links in total 152 links, ★ 77, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -398,14 +404,17 @@
   <a href="https://github.com/tastejs/todomvc">
    TodoMVC
   </a>
-  <span>
-   &#9733 16847, pushed 6 days ago
-  </span>
   - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including
   <a href="http://todomvc.com/examples/jquery/">
    jQuery
   </a>
   .
+  <sup>
+   99 GitHub links in total 152 links, ★ 16847, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 16847, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -469,37 +478,49 @@
   <a href="https://github.com/joaopereirawd/fakeLoader.js">
    fakeLoader.js
   </a>
-  <span>
-   &#9733 363, pushed 111 days ago
-  </span>
   - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
+  <sup>
+   99 GitHub links in total 152 links, ★ 363, pushed 111 days ago
+  </sup>
+  <sup>
+   &#9733 363, pushed 111 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rstacruz/jquery.transit">
    jQuery Transit
   </a>
-  <span>
-   &#9733 6923, pushed 328 days ago
-  </span>
   - Super-smooth CSS3 transformations and transitions for jQuery.
+  <sup>
+   99 GitHub links in total 152 links, ★ 6923, pushed 328 days ago
+  </sup>
+  <sup>
+   &#9733 6923, pushed 328 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aarondo/Material-Preloader">
    Material Design Preloader!s
   </a>
-  <span>
-   &#9733 348, pushed 27 days ago
-  </span>
   - Recreation of the Material Design preloader.
+  <sup>
+   99 GitHub links in total 152 links, ★ 348, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 348, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Aerolab/midnight.js">
    Midnight
   </a>
-  <span>
-   &#9733 2841, pushed 217 days ago
-  </span>
   - Switches fixed headers on the fly.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2841, pushed 217 days ago
+  </sup>
+  <sup>
+   &#9733 2841, pushed 217 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lukehaas/Scrollify/">
@@ -511,10 +532,13 @@
   <a href="https://github.com/fians/Waves">
    Waves
   </a>
-  <span>
-   &#9733 2250, pushed 20 days ago
-  </span>
   - Click effect inspired by Google's Material Design.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2250, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 2250, pushed 20 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -535,28 +559,37 @@
   <a href="https://github.com/froala/wysiwyg-editor">
    Froala WYSIWYG HTML Editor
   </a>
-  <span>
-   &#9733 604, pushed 6 days ago
-  </span>
   - jQuery WYSIWYG Rich Text Editor based on HTML5.
+  <sup>
+   99 GitHub links in total 152 links, ★ 604, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 604, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bergie/hallo">
    Hallo
   </a>
-  <span>
-   &#9733 2385, pushed 251 days ago
-  </span>
   - Simple rich text editor (contentEditable) for jQuery UI.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2385, pushed 251 days ago
+  </sup>
+  <sup>
+   &#9733 2385, pushed 251 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raphaelcruzeiro/jquery-notebook">
    jQuery Notebook
   </a>
-  <span>
-   &#9733 1673, pushed 98 days ago
-  </span>
   - A modern, simple and elegant WYSIWYG rich text editor.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1673, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 1673, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jqueryte.com/">
@@ -589,28 +622,37 @@
   <a href="https://github.com/davidstutz/bootstrap-multiselect">
    Bootstrap Multiselect
   </a>
-  <span>
-   &#9733 2101, pushed 4 days ago
-  </span>
   - Multiselect for Bootstrap.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2101, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2101, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/blueimp/jQuery-File-Upload">
    File Upload
   </a>
-  <span>
+  - File Upload widget with multiple file selection, drag&drop; support, progress bar, validation and preview images, audio and video.
+  <sup>
+   99 GitHub links in total 152 links, ★ 23480, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 23480, pushed 2 days ago
-  </span>
-  - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elclanrs/jq-idealforms">
    Ideal Forms
   </a>
-  <span>
-   &#9733 739, pushed 242 days ago
-  </span>
   - Framework for building and validating responsive HTML5 forms.
+  <sup>
+   99 GitHub links in total 152 links, ★ 739, pushed 242 days ago
+  </sup>
+  <sup>
+   &#9733 739, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/malsup/form/">
@@ -622,55 +664,73 @@
   <a href="https://github.com/claviska/jquery-minicolors">
    jquery-minicolors
   </a>
-  <span>
-   &#9733 721, pushed 46 days ago
-  </span>
   - A tiny color picker plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 721, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 721, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/miromannino/Justified-Gallery">
    Justified Gallery
   </a>
-  <span>
-   &#9733 740, pushed 11 days ago
-  </span>
   - Allows you to create a gallery with a justified grid.
+  <sup>
+   99 GitHub links in total 152 links, ★ 740, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 740, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fntneves/jquery-labelauty">
    Labelauty
   </a>
-  <span>
-   &#9733 708, pushed 312 days ago
-  </span>
   - A lightweight and beautiful plugin for radio and checkbox inputs.
+  <sup>
+   99 GitHub links in total 152 links, ★ 708, pushed 312 days ago
+  </sup>
+  <sup>
+   &#9733 708, pushed 312 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jondavidjohn/payform">
    Payform
   </a>
-  <span>
-   &#9733 265, pushed 14 days ago
-  </span>
   - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+  <sup>
+   99 GitHub links in total 152 links, ★ 265, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 265, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/amsul/pickadate.js">
    Pickadate
   </a>
-  <span>
-   &#9733 6170, pushed 8 days ago
-  </span>
   - The mobile-friendly, responsive, and lightweight date & time input picker.
+  <sup>
+   99 GitHub links in total 152 links, ★ 6170, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 6170, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/select2/select2">
    Select2
   </a>
-  <span>
-   &#9733 17038, pushed 0 days ago
-  </span>
   - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+  <sup>
+   99 GitHub links in total 152 links, ★ 17038, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 17038, pushed 0 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -691,103 +751,136 @@
   <a href="https://github.com/samizdatco/arbor">
    Arbor
   </a>
-  <span>
-   &#9733 2218, pushed 66 days ago
-  </span>
   - Graph visualization library using web workers and jQuery.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2218, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 2218, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fengyuanchen/cropper">
    Cropper
   </a>
-  <span>
-   &#9733 3481, pushed 4 days ago
-  </span>
   - A simple image cropping plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 3481, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3481, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gocom/dense">
    Dense.js
   </a>
-  <span>
-   &#9733 208, pushed 415 days ago
-  </span>
   - Serving retina-ready, high pixel ratio images with ease.
+  <sup>
+   99 GitHub links in total 152 links, ★ 208, pushed 415 days ago
+  </sup>
+  <sup>
+   &#9733 208, pushed 415 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/flot/flot">
    Flot
   </a>
-  <span>
-   &#9733 4961, pushed 11 days ago
-  </span>
   - Attractive charts.
+  <sup>
+   99 GitHub links in total 152 links, ★ 4961, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 4961, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oriongunning/gridder">
    Gridder
   </a>
-  <span>
-   &#9733 197, pushed 32 days ago
-  </span>
   - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
+  <sup>
+   99 GitHub links in total 152 links, ★ 197, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 197, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gwatts/jquery.sparkline">
    jquery.sparkline
   </a>
-  <span>
-   &#9733 943, pushed 17 days ago
-  </span>
   - Generate small sparkline charts.
+  <sup>
+   99 GitHub links in total 152 links, ★ 943, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 943, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boblemarin/jQuery.eraser">
    jQuery.eraser
   </a>
-  <span>
-   &#9733 191, pushed 57 days ago
-  </span>
   - Erasing image with mouse or touch movements.
+  <sup>
+   99 GitHub links in total 152 links, ★ 191, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 191, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/neveldo/jQuery-Mapael">
    jQuery Mapael
   </a>
-  <span>
-   &#9733 693, pushed 15 days ago
-  </span>
   - Plugin based on raphael.js that allows you to display dynamic vector maps.
+  <sup>
+   99 GitHub links in total 152 links, ★ 693, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 693, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robicch/jQueryGantt">
    jQueryGantt
   </a>
-  <span>
-   &#9733 986, pushed 43 days ago
-  </span>
   - Gantt editor.
+  <sup>
+   99 GitHub links in total 152 links, ★ 986, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 986, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gilbitron/Nivo-Slider">
    Nivo Slider
   </a>
-  <span>
-   &#9733 1022, pushed 56 days ago
-  </span>
   - Beautiful and easy to use image slider.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1022, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 1022, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benpickles/peity">
    Peity
   </a>
-  <span>
-   &#9733 3487, pushed 327 days ago
-  </span>
   - Progressive
   <svg>
    pie, donut, bar and line charts.
   </svg>
+  <sup>
+   99 GitHub links in total 152 links, ★ 3487, pushed 328 days ago
+  </sup>
+  <sup>
+   &#9733 3487, pushed 328 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vvvmax/unitegallery/">
@@ -799,10 +892,13 @@
   <a href="https://github.com/fengyuanchen/viewer">
    Viewer
   </a>
-  <span>
-   &#9733 223, pushed 53 days ago
-  </span>
   - A simple jQuery image viewing plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 223, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 53 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -823,82 +919,109 @@
   <a href="https://github.com/swisnl/jQuery-contextMenu">
    jQuery contextMenu
   </a>
-  <span>
-   &#9733 1090, pushed 1 days ago
-  </span>
   - Management facility for context menus.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1090, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1090, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/acolangelo/jPanelMenu">
    jPanelMenu
   </a>
-  <span>
-   &#9733 932, pushed 88 days ago
-  </span>
   - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
+  <sup>
+   99 GitHub links in total 152 links, ★ 932, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 932, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kamens/jQuery-menu-aim">
    jQuery-menu-aim
   </a>
-  <span>
-   &#9733 7185, pushed 109 days ago
-  </span>
   - Fires events when user's cursor aims at particular dropdown menu items.
+  <sup>
+   99 GitHub links in total 152 links, ★ 7185, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 7185, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FrDH/jQuery.mmenu">
    mmenu
   </a>
-  <span>
-   &#9733 1692, pushed 25 days ago
-  </span>
   - App look-alike on- and off-canvas menus with sliding submenus.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1692, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 1692, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adgsm/multi-level-push-menu">
    Multi-level push menu
   </a>
-  <span>
-   &#9733 672, pushed 77 days ago
-  </span>
   - Allows endless nesting of navigation elements.
+  <sup>
+   99 GitHub links in total 152 links, ★ 672, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 672, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adchsm/Slidebars">
    Slidebars
   </a>
-  <span>
-   &#9733 1081, pushed 140 days ago
-  </span>
   - jQuery framework for off-canvas menus and sidebars.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1081, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 1081, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LiranCohen/stickUp">
    stickUp
   </a>
-  <span>
-   &#9733 1305, pushed 5 days ago
-  </span>
   - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1305, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1305, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joeldbirch/superfish">
    Superfish
   </a>
-  <span>
-   &#9733 727, pushed 66 days ago
-  </span>
   - Adds usability enhancements to existing multi-level drop-down menus.
+  <sup>
+   99 GitHub links in total 152 links, ★ 727, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 727, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/geedmo/yamm3">
    Yamm
   </a>
-  <span>
-   &#9733 1007, pushed 221 days ago
-  </span>
   - Yet another megamenu for Bootstrap 3.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1007, pushed 221 days ago
+  </sup>
+  <sup>
+   &#9733 1007, pushed 221 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -919,95 +1042,125 @@
   <a href="https://github.com/joaopereirawd/animatedModal.js">
    animatedModal.js
   </a>
-  <span>
-   &#9733 591, pushed 19 days ago
-  </span>
   - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from
   <code>
    animate.css
   </code>
   or create your own.
+  <sup>
+   99 GitHub links in total 152 links, ★ 591, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 591, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/voronianski/jquery.avgrund.js">
    Avgrund
   </a>
-  <span>
-   &#9733 1766, pushed 91 days ago
-  </span>
   - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1766, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 1766, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jschr/bootstrap-modal">
    Bootstrap Modal
   </a>
-  <span>
-   &#9733 4742, pushed 314 days ago
-  </span>
   - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
+  <sup>
+   99 GitHub links in total 152 links, ★ 4742, pushed 314 days ago
+  </sup>
+  <sup>
+   &#9733 4742, pushed 314 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/StephanWagner/jBox">
    jBox
   </a>
-  <span>
-   &#9733 671, pushed 246 days ago
-  </span>
   - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
+  <sup>
+   99 GitHub links in total 152 links, ★ 671, pushed 246 days ago
+  </sup>
+  <sup>
+   &#9733 671, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kylefox/jquery-modal">
    jQuery Modal
   </a>
-  <span>
-   &#9733 1026, pushed 3 days ago
-  </span>
   - Simple and lightweight method of displaying modal windows.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1026, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1026, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vast-engineering/jquery-popup-overlay">
    jQuery Popup Overlay
   </a>
-  <span>
-   &#9733 314, pushed 28 days ago
-  </span>
   - Responsive and accessible modal windows and tooltips.
+  <sup>
+   99 GitHub links in total 152 links, ★ 314, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 314, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dimsemenov/Magnific-Popup">
    Magnific Popup
   </a>
-  <span>
-   &#9733 7984, pushed 29 days ago
-  </span>
   - Fast, light and responsive lightbox plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 7984, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 7984, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/t4t5/sweetalert">
    SweetAlert
   </a>
-  <span>
-   &#9733 13205, pushed 15 days ago
-  </span>
   - A beautiful replacement for JavaScript's alert.
+  <sup>
+   99 GitHub links in total 152 links, ★ 13205, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 13205, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/object505/tipso">
    tipso
   </a>
-  <span>
-   &#9733 184, pushed 131 days ago
-  </span>
   - A Lightweight Responsive jQuery Tooltip Plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 184, pushed 131 days ago
+  </sup>
+  <sup>
+   &#9733 184, pushed 131 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hubspot/vex">
    vex
   </a>
-  <span>
-   &#9733 5088, pushed 20 days ago
-  </span>
   - A modern dialog library which is highly configurable and easy to style.
+  <sup>
+   99 GitHub links in total 152 links, ★ 5088, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 5088, pushed 20 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1028,10 +1181,13 @@
   <a href="https://github.com/rstaib/jquery-bootgrid">
    Bootgrid
   </a>
-  <span>
-   &#9733 680, pushed 15 days ago
-  </span>
   - A grid control especially designed for bootstrap.
+  <sup>
+   99 GitHub links in total 152 links, ★ 680, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 680, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.datatables.net/">
@@ -1043,10 +1199,13 @@
   <a href="https://github.com/sunnywalker/jQuery.FilterTable">
    Filter Table
   </a>
-  <span>
-   &#9733 120, pushed 41 days ago
-  </span>
   - Live searching/filtering for HTML tables.
+  <sup>
+   99 GitHub links in total 152 links, ★ 120, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fooplugins/FooTable/">
@@ -1058,46 +1217,61 @@
   <a href="https://github.com/metafizzy/isotope">
    Isotope
   </a>
-  <span>
-   &#9733 6939, pushed 6 days ago
-  </span>
   - Filter & sort magical layouts.
+  <sup>
+   99 GitHub links in total 152 links, ★ 6939, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 6939, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/highchartTable/jquery-highchartTable-plugin">
    HighchartTable
   </a>
-  <span>
-   &#9733 216, pushed 149 days ago
-  </span>
   - Simple way to convert HTML data tables to Highcharts graphs.
+  <sup>
+   99 GitHub links in total 152 links, ★ 216, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 216, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tonytomov/jqGrid">
    jqGrid
   </a>
-  <span>
-   &#9733 1972, pushed 7 days ago
-  </span>
   - Grid plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1972, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1972, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ludo/jquery-treetable">
    jQuery treetable
   </a>
-  <span>
-   &#9733 485, pushed 57 days ago
-  </span>
   - Show a tree structure in a table.
+  <sup>
+   99 GitHub links in total 152 links, ★ 485, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 485, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tabalinas/jsgrid">
    jsGrid
   </a>
-  <span>
-   &#9733 503, pushed 33 days ago
-  </span>
   - Lightweight grid plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 503, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 503, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnpolacek/stacktable.js/">
@@ -1109,19 +1283,25 @@
   <a href="https://github.com/joequery/Stupid-Table-Plugin">
    Stupid Table Sort
   </a>
-  <span>
-   &#9733 528, pushed 7 days ago
-  </span>
   - A stupidly small and simple jQuery table sorter plugin.
+  <sup>
+   99 GitHub links in total 152 links, ★ 528, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 528, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hhurz/tableExport.jquery.plugin">
    tableExport.jquery.plugin
   </a>
-  <span>
-   &#9733 108, pushed 4 days ago
-  </span>
   - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+  <sup>
+   99 GitHub links in total 152 links, ★ 108, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1142,19 +1322,25 @@
   <a href="https://github.com/walmik/timer.jquery">
    jQuery Timer Plugin
   </a>
-  <span>
-   &#9733 140, pushed 89 days ago
-  </span>
   - Start/Stop/Resume/Remove pretty timer inside any HTML element.
+  <sup>
+   99 GitHub links in total 152 links, ★ 140, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 140, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rmm5t/jquery-timeago">
    Timeago
   </a>
-  <span>
-   &#9733 3349, pushed 43 days ago
-  </span>
   - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
+  <sup>
+   99 GitHub links in total 152 links, ★ 3349, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 3349, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1175,32 +1361,41 @@
   <a href="https://github.com/jquery-i18n-properties/jquery-i18n-properties">
    i18n properties
   </a>
-  <span>
-   &#9733 86, pushed 68 days ago
-  </span>
   - Lightweight plugin for providing internationalization to JavaScript from
   <a href="https://en.wikipedia.org/wiki/.properties">
    .properties
   </a>
   files
+  <sup>
+   99 GitHub links in total 152 links, ★ 86, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 86, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wikimedia/jquery.i18n">
    jquery.i18n
   </a>
-  <span>
-   &#9733 245, pushed 15 days ago
-  </span>
   - jQuery based Javascript internationalization library for easy internationalization of web application
+  <sup>
+   99 GitHub links in total 152 links, ★ 245, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 245, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coderifous/jquery-localize">
    jquery.localize.js
   </a>
-  <span>
-   &#9733 294, pushed 23 days ago
-  </span>
   - Easy internationalization of your static web site
+  <sup>
+   99 GitHub links in total 152 links, ★ 294, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 294, pushed 23 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1221,19 +1416,25 @@
   <a href="https://github.com/formvalidation/formvalidation">
    FormValidation
   </a>
-  <span>
-   &#9733 2413, pushed 88 days ago
-  </span>
   - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2413, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 2413, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ericelliott/h5Validate">
    h5Validate
   </a>
-  <span>
-   &#9733 535, pushed 140 days ago
-  </span>
   - An HTML5 form validation plugin for jQuery.
+  <sup>
+   99 GitHub links in total 152 links, ★ 535, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 535, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/victorjonsson/jQuery-Form-Validator/">
@@ -1251,10 +1452,13 @@
   <a href="https://github.com/posabsolute/jQuery-Validation-Engine">
    jQuery.validationEngine
   </a>
-  <span>
-   &#9733 2249, pushed 42 days ago
-  </span>
   - Validation of form fields in the browser.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2249, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 2249, pushed 42 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1275,10 +1479,13 @@
   <a href="https://github.com/jquery-boilerplate/jquery-boilerplate">
    Boilerplate
   </a>
-  <span>
-   &#9733 2377, pushed 17 days ago
-  </span>
   - A jump-start for jQuery plugins development.
+  <sup>
+   99 GitHub links in total 152 links, ★ 2377, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2377, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6">
@@ -1290,28 +1497,37 @@
   <a href="https://github.com/simsalabim/sisyphus">
    Sisyphus
   </a>
-  <span>
-   &#9733 1792, pushed 8 days ago
-  </span>
   - Gmail-like client-side drafts and bit more.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1792, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1792, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pmcelhaney/jQuery-Slugify-Plugin">
    Slugify
   </a>
-  <span>
-   &#9733 81, pushed 174 days ago
-  </span>
   - Creates a URL slug as you type a page title (like Django slugify()).
+  <sup>
+   99 GitHub links in total 152 links, ★ 81, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jedfoster/Readmore.js">
    Readmore.js
   </a>
-  <span>
-   &#9733 910, pushed 8 days ago
-  </span>
   - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
+  <sup>
+   99 GitHub links in total 152 links, ★ 910, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 910, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1338,19 +1554,25 @@
   <a href="https://github.com/VodkaBears/Interdimensional">
    Interdimensional
   </a>
-  <span>
-   &#9733 323, pushed 389 days ago
-  </span>
   - Spatial scrolling on mobile devices for your web pages.
+  <sup>
+   99 GitHub links in total 152 links, ★ 323, pushed 389 days ago
+  </sup>
+  <sup>
+   &#9733 323, pushed 389 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/justindomingue/ohSnap">
    OhSnap!.js
   </a>
-  <span>
-   &#9733 218, pushed 64 days ago
-  </span>
   - A simple jQuery/Zepto notification library designed to be used in mobile apps.
+  <sup>
+   99 GitHub links in total 152 links, ★ 218, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 64 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1371,10 +1593,13 @@
   <a href="https://github.com/bevacqua/dragula">
    Dragula
   </a>
-  <span>
-   &#9733 13165, pushed 16 days ago
-  </span>
   - Framework agnostic drag and drop library, supports jQuery integration.
+  <sup>
+   99 GitHub links in total 152 links, ★ 13165, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 13165, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jqueryui.com/">
@@ -1386,28 +1611,37 @@
   <a href="https://github.com/hiltonjanfield/jquery.enhsplitter">
    jQuery Enhanced Splitter
   </a>
-  <span>
-   &#9733 15, pushed 144 days ago
-  </span>
   - Create draggable content splitters to emulate frames and separate content.
+  <sup>
+   99 GitHub links in total 152 links, ★ 15, pushed 145 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 145 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aarondo/tabulous.js">
    tabulous.js
   </a>
-  <span>
-   &#9733 568, pushed 133 days ago
-  </span>
   - Tabs for todays web
+  <sup>
+   99 GitHub links in total 152 links, ★ 568, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 568, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vitalets/x-editable">
    X-editable
   </a>
-  <span>
-   &#9733 4967, pushed 11 days ago
-  </span>
   - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+  <sup>
+   99 GitHub links in total 152 links, ★ 4967, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 4967, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1434,10 +1668,13 @@
   <a href="https://github.com/jakerella/jquery-mockjax">
    Mockjax
   </a>
-  <span>
-   &#9733 1815, pushed 2 days ago
-  </span>
   - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
+  <sup>
+   99 GitHub links in total 152 links, ★ 1815, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1815, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1467,10 +1704,13 @@
     <a href="https://github.com/cheeriojs/cheerio">
      Cheerio
     </a>
-    <span>
-     &#9733 8316, pushed 3 days ago
-    </span>
     - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+    <sup>
+     99 GitHub links in total 152 links, ★ 8316, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 8316, pushed 3 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1487,10 +1727,13 @@
     <a href="https://github.com/ninsuo/symfony-collection">
      symfony-collection
     </a>
-    <span>
-     &#9733 56, pushed 69 days ago
-    </span>
     - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+    <sup>
+     99 GitHub links in total 152 links, ★ 56, pushed 69 days ago
+    </sup>
+    <sup>
+     &#9733 56, pushed 69 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1512,21 +1755,27 @@
     <a href="https://github.com/rails/jquery-rails">
      jquery-rails
     </a>
-    <span>
-     &#9733 624, pushed 42 days ago
-    </span>
     - A gem to automate using jQuery with Rails.
    </li>
    <li>
     <a href="https://github.com/joliss/jquery-ui-rails">
      jquery-ui-rails
     </a>
-    <span>
-     &#9733 949, pushed 45 days ago
-    </span>
     - jQuery UI for the Rails asset pipeline.
+    <sup>
+     99 GitHub links in total 152 links, ★ 949, pushed 45 days ago
+    </sup>
+    <sup>
+     &#9733 949, pushed 45 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   99 GitHub links in total 152 links, ★ 624, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 624, pushed 42 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -1620,37 +1869,43 @@
     <a href="https://github.com/sindresorhus/awesome">
      awesome
     </a>
-    <span>
-     &#9733 34522, pushed 2 days ago
-    </span>
     - Awesome lists
    </li>
    <li>
     <a href="https://github.com/bradoyler/awesome-all">
      awesome-all
     </a>
-    <span>
-     &#9733 63, pushed 189 days ago
-    </span>
     - Awesome lists
+    <sup>
+     99 GitHub links in total 152 links, ★ 63, pushed 189 days ago
+    </sup>
+    <sup>
+     &#9733 63, pushed 189 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/emijrp/awesome-awesome">
      emijrp/awesome-awesome
     </a>
-    <span>
-     &#9733 537, pushed 118 days ago
-    </span>
     - Awesome lists
+    <sup>
+     99 GitHub links in total 152 links, ★ 537, pushed 118 days ago
+    </sup>
+    <sup>
+     &#9733 537, pushed 118 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/erichs/awesome-awesome">
      erichs/awesome-awesome
     </a>
-    <span>
-     &#9733 68, pushed 176 days ago
-    </span>
     - Awesome lists
+    <sup>
+     99 GitHub links in total 152 links, ★ 68, pushed 176 days ago
+    </sup>
+    <sup>
+     &#9733 68, pushed 176 days ago
+    </sup>
    </li>
    <li>
     <a href="https://getawesomeness.herokuapp.com/">
@@ -1662,39 +1917,57 @@
     <a href="https://github.com/jnv/lists">
      lists
     </a>
-    <span>
-     &#9733 3765, pushed 2 days ago
-    </span>
     - Awesome lists
+    <sup>
+     99 GitHub links in total 152 links, ★ 3765, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 3765, pushed 2 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   99 GitHub links in total 152 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sorrycc/awesome-javascript">
    awesome-javascript
   </a>
-  <span>
-   &#9733 5882, pushed 4 days ago
-  </span>
   - Awesome JavaScript list
+  <sup>
+   99 GitHub links in total 152 links, ★ 5882, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5882, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/heatroom/awesome-javascript-books">
    awesome-javascript-books
   </a>
-  <span>
-   &#9733 60, pushed 406 days ago
-  </span>
   - Awesome JavaScript books
+  <sup>
+   99 GitHub links in total 152 links, ★ 60, pushed 406 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 406 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolshchikov/js-must-watch">
    js-must-watch
   </a>
-  <span>
-   &#9733 10625, pushed 3 days ago
-  </span>
   - List of must-watch videos devoted to JavaScript
+  <sup>
+   99 GitHub links in total 152 links, ★ 10625, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 10625, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Translations:

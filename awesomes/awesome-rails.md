@@ -606,12 +606,14 @@
   racing
  </a>
 </p>
-on_rails
+<p>
+ on_rails
 | Manage a bike racing association: riders, teams, calendars, competitions, and results |
-<a href="http://racingonrails.rocketsurgeryllc.com/">
- Live
-</a>
-|
+ <a href="http://racingonrails.rocketsurgeryllc.com/">
+  Live
+ </a>
+ |
+</p>
 <h3>
  Generators
 </h3>
@@ -967,10 +969,13 @@ on_rails
   <a href="https://github.com/jnv/lists">
    jnv/lists
   </a>
-  <span>
-   &#9733 3765, pushed 2 days ago
-  </span>
   - List of (awesome) lists curated on GitHub
+  <sup>
+   1 GitHub links in total 21 links, ★ 3765, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3765, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults">

@@ -88,10 +88,13 @@
   <a href="https://github.com/admc/wd">
    WD
   </a>
-  <span>
-   &#9733 965, pushed 52 days ago
-  </span>
   - WebDriver/Selenium 2 node.js client.
+  <sup>
+   12 GitHub links in total 51 links, ★ 965, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 965, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="http://webdriver.io">
@@ -133,10 +136,13 @@
   <a href="https://github.com/jlipps/yiewd">
    yiewd
   </a>
-  <span>
-   &#9733 81, pushed 627 days ago
-  </span>
   - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
+  <sup>
+   12 GitHub links in total 51 links, ★ 81, pushed 628 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 628 days ago
+  </sup>
  </li>
  <li>
   <a href="http://karma-runner.github.io/0.12/index.html">
@@ -159,10 +165,13 @@
   <a href="https://github.com/chriskite/anemone">
    Anemone
   </a>
-  <span>
-   &#9733 1487, pushed 106 days ago
-  </span>
   - Anemone web-spider framework.
+  <sup>
+   12 GitHub links in total 51 links, ★ 1487, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 1487, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="http://docs.seattlerb.org/mechanize/">
@@ -174,10 +183,13 @@
   <a href="https://github.com/postmodern/spidr">
    Spidr
   </a>
-  <span>
-   &#9733 388, pushed 120 days ago
-  </span>
   - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+  <sup>
+   12 GitHub links in total 51 links, ★ 388, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 388, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="https://rubygems.org/gems/cobweb">
@@ -194,19 +206,25 @@
   <a href="https://github.com/facebook/php-webdriver">
    Facebook WebDriver
   </a>
-  <span>
-   &#9733 1145, pushed 17 days ago
-  </span>
   - A PHP client for webdriver.
+  <sup>
+   12 GitHub links in total 51 links, ★ 1145, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 1145, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bogdananton/Selenium-Setup">
    Selenium Setup
   </a>
-  <span>
-   &#9733 15, pushed 59 days ago
-  </span>
   - A tool for PHP developers to start their own Selenium server.
+  <sup>
+   12 GitHub links in total 51 links, ★ 15, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 60 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -234,10 +252,13 @@
   <a href="https://github.com/darcy-framework/darcy-webdriver">
    darcy
   </a>
-  <span>
-   &#9733 10, pushed 35 days ago
-  </span>
   - Page object framework for structured, maintainable automation.
+  <sup>
+   12 GitHub links in total 51 links, ★ 10, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.thucydides.info/">
@@ -254,23 +275,29 @@
   <a href="https://github.com/Huddle/PhantomCSS">
    PhantomCSS
   </a>
-  <span>
-   &#9733 3664, pushed 6 days ago
-  </span>
   - Visual/CSS regression testing with PhantomJS.
+  <sup>
+   12 GitHub links in total 51 links, ★ 3664, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3664, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webdriverio/webdrivercss">
    WebdriverCSS
   </a>
-  <span>
-   &#9733 324, pushed 14 days ago
-  </span>
   - Regression testing tool for
   <a href="http://webdriver.io">
    WebdriverIO
   </a>
   .
+  <sup>
+   12 GitHub links in total 51 links, ★ 324, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 324, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -329,10 +356,13 @@
   <a href="https://github.com/2gis/Winium">
    Winium
   </a>
-  <span>
-   &#9733 51, pushed 173 days ago
-  </span>
   - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+  <sup>
+   12 GitHub links in total 51 links, ★ 51, pushed 173 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 173 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -343,10 +373,13 @@
   <a href="https://github.com/dzharii/swd-recorder">
    SWD Page Recorder
   </a>
-  <span>
-   &#9733 95, pushed 84 days ago
-  </span>
   - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
+  <sup>
+   12 GitHub links in total 51 links, ★ 95, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 84 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -406,14 +439,17 @@
   <a href="https://github.com/sylvinus/node-crawler">
    Node-Crawler
   </a>
-  <span>
-   &#9733 1733, pushed 93 days ago
-  </span>
   -
   <strong>
    Node.js
   </strong>
   Web Crawler/Spider for NodeJS + server-side jQuery.
+  <sup>
+   12 GitHub links in total 51 links, ★ 1733, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 1733, pushed 93 days ago
+  </sup>
  </li>
 </ul>
 <h3>

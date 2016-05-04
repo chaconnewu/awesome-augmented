@@ -454,7 +454,9 @@ git fetch --all && git reset --hard origin/master
 <p>
  <code>
   sh
-git ls-tree --name-only -r <commit-ish>
+git ls-tree --name-only -r
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -481,7 +483,9 @@ git diff --name-only --diff-filter=U
 <p>
  <code>
   sh
-git diff-tree --no-commit-id --name-only -r <commit-ish>
+git diff-tree --no-commit-id --name-only -r
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -562,7 +566,9 @@ git branch -u origin/mybranch
 <p>
  <code>
   sh
-git branch -d <local_branchname>
+git branch -d
+  <local_branchname>
+  </local_branchname>
  </code>
 </p>
 <h2>
@@ -571,7 +577,9 @@ git branch -d <local_branchname>
 <p>
  <code>
   sh
-git push origin --delete <remote_branchname>
+git push origin --delete
+  <remote_branchname>
+  </remote_branchname>
  </code>
 </p>
 <p>
@@ -580,7 +588,9 @@ git push origin --delete <remote_branchname>
  </strong>
  <code>
   sh
-git push origin :<remote_branchname>
+git push origin :
+  <remote_branchname>
+  </remote_branchname>
  </code>
 </p>
 <h2>
@@ -589,7 +599,9 @@ git push origin :<remote_branchname>
 <p>
  <code>
   sh
-git checkout -- <file_name>
+git checkout --
+  <file_name>
+  </file_name>
  </code>
 </p>
 <h2>
@@ -598,7 +610,9 @@ git checkout -- <file_name>
 <p>
  <code>
   sh
-git revert <commit-ish>
+git revert
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -607,7 +621,9 @@ git revert <commit-ish>
 <p>
  <code>
   sh
-git reset <commit-ish>
+git reset
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -625,7 +641,10 @@ git commit -v --amend
 <p>
  <code>
   sh
-git commit --amend --author='Author Name <email@address.com>'
+git commit --amend --author='Author Name
+  <email@address.com>
+   '
+  </email@address.com>
  </code>
 </p>
 <h2>
@@ -643,7 +662,9 @@ git commit --amend --reset-author --no-edit
 <p>
  <code>
   sh
-git remote set-url origin <URL>
+git remote set-url origin
+  <url>
+  </url>
  </code>
 </p>
 <h2>
@@ -724,7 +745,12 @@ git log --no-merges --stat --reverse master..
 <p>
  <code>
   sh
-git checkout <branch-name> && cherry-pick <commit-ish>
+git checkout
+  <branch-name>
+   && cherry-pick
+   <commit-ish>
+   </commit-ish>
+  </branch-name>
  </code>
 </p>
 <h2>
@@ -733,7 +759,9 @@ git checkout <branch-name> && cherry-pick <commit-ish>
 <p>
  <code>
   sh
-git branch -a --contains <commit-ish>
+git branch -a --contains
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <p>
@@ -742,7 +770,9 @@ git branch -a --contains <commit-ish>
  </strong>
  <code>
   sh
-git branch --contains <commit-ish>
+git branch --contains
+  <commit-ish>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -751,8 +781,12 @@ git branch --contains <commit-ish>
 <p>
  <code>
   sh
-git config --global alias.<handle> <command> 
-git config --global alias.st status
+git config --global alias.
+  <handle>
+   <command>
+    git config --global alias.st status
+   </command>
+  </handle>
  </code>
 </p>
 <h2>
@@ -806,7 +840,9 @@ git stash list
 <p>
  <code>
   sh
-git stash apply <stash@{n}>
+git stash apply
+  <stash@{n}>
+  </stash@{n}>
  </code>
 </p>
 <h2>
@@ -842,7 +878,9 @@ git stash clear
  </strong>
  <code>
   sh
-git stash drop <stash@{n}>
+git stash drop
+  <stash@{n}>
+  </stash@{n}>
  </code>
 </p>
 <h2>
@@ -851,7 +889,12 @@ git stash drop <stash@{n}>
 <p>
  <code>
   sh
-git checkout <stash@{n}> -- <file_path>
+git checkout
+  <stash@{n}>
+   --
+   <file_path>
+   </file_path>
+  </stash@{n}>
  </code>
 </p>
 <p>
@@ -860,7 +903,9 @@ git checkout <stash@{n}> -- <file_path>
  </strong>
  <code>
   sh
-git checkout stash@{0} -- <file_path>
+git checkout stash@{0} --
+  <file_path>
+  </file_path>
  </code>
 </p>
 <h2>
@@ -896,7 +941,13 @@ git ls-files --others -i --exclude-standard
 <p>
  <code>
   sh
-git worktree add -b <branch-name> <path> <start-point>
+git worktree add -b
+  <branch-name>
+   <path>
+    <start-point>
+    </start-point>
+   </path>
+  </branch-name>
  </code>
 </p>
 <h2>
@@ -905,7 +956,10 @@ git worktree add -b <branch-name> <path> <start-point>
 <p>
  <code>
   sh
-git worktree add --detach <path> HEAD
+git worktree add --detach
+  <path>
+   HEAD
+  </path>
  </code>
 </p>
 <h2>
@@ -914,7 +968,9 @@ git worktree add --detach <path> HEAD
 <p>
  <code>
   sh
-git rm --cached <file_path>
+git rm --cached
+  <file_path>
+  </file_path>
  </code>
 </p>
 <p>
@@ -923,7 +979,9 @@ git rm --cached <file_path>
  </strong>
  <code>
   sh
-git rm --cached -r <directory_path>
+git rm --cached -r
+  <directory_path>
+  </directory_path>
  </code>
 </p>
 <h2>
@@ -986,7 +1044,9 @@ git cherry -v master
  </strong>
  <code>
   sh
-git cherry -v master <branch-to-be-merged>
+git cherry -v master
+  <branch-to-be-merged>
+  </branch-to-be-merged>
  </code>
 </p>
 <h2>
@@ -995,7 +1055,9 @@ git cherry -v master <branch-to-be-merged>
 <p>
  <code>
   sh
-git branch -m <new-branch-name>
+git branch -m
+  <new-branch-name>
+  </new-branch-name>
  </code>
 </p>
 <p>
@@ -1004,7 +1066,12 @@ git branch -m <new-branch-name>
  </strong>
  <code>
   sh
-git branch -m [<old-branch-name>] <new-branch-name>
+git branch -m [
+  <old-branch-name>
+   ]
+   <new-branch-name>
+   </new-branch-name>
+  </old-branch-name>
  </code>
 </p>
 <h2>
@@ -1098,7 +1165,19 @@ git subtree push --prefix subfolder_name origin gh-pages
 <p>
  <code>
   sh
-git subtree add --prefix=<directory_name>/<project_name> --squash git@github.com:<username>/<project_name>.git master
+git subtree add --prefix=
+  <directory_name>
+   /
+   <project_name>
+    --squash git@github.com:
+    <username>
+     /
+     <project_name>
+      .git master
+     </project_name>
+    </username>
+   </project_name>
+  </directory_name>
  </code>
 </p>
 <h2>
@@ -1107,7 +1186,19 @@ git subtree add --prefix=<directory_name>/<project_name> --squash git@github.com
 <p>
  <code>
   sh
-git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.com:<username>/<project_name>.git master
+git subtree pull --prefix=
+  <directory_name>
+   /
+   <project_name>
+    --squash git@github.com:
+    <username>
+     /
+     <project_name>
+      .git master
+     </project_name>
+    </username>
+   </project_name>
+  </directory_name>
  </code>
 </p>
 <h2>
@@ -1116,7 +1207,11 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 <p>
  <code>
   sh
-git bundle create <file> <branch-name>
+git bundle create
+  <file>
+   <branch-name>
+   </branch-name>
+  </file>
  </code>
 </p>
 <h2>
@@ -1125,7 +1220,12 @@ git bundle create <file> <branch-name>
 <p>
  <code>
   sh
-git clone repo.bundle <repo-dir> -b <branch-name>
+git clone repo.bundle
+  <repo-dir>
+   -b
+   <branch-name>
+   </branch-name>
+  </repo-dir>
  </code>
 </p>
 <h2>
@@ -1161,7 +1261,12 @@ git rebase --autostash
 <p>
  <code>
   sh
-git fetch origin pull/<id>/head:<branch-name>
+git fetch origin pull/
+  <id>
+   /head:
+   <branch-name>
+   </branch-name>
+  </id>
  </code>
 </p>
 <p>
@@ -1170,7 +1275,12 @@ git fetch origin pull/<id>/head:<branch-name>
  </strong>
  <code>
   sh
-git pull origin pull/<id>/head:<branch-name>
+git pull origin pull/
+  <id>
+   /head:
+   <branch-name>
+   </branch-name>
+  </id>
  </code>
 </p>
 <h2>
@@ -1197,7 +1307,9 @@ git diff --word-diff
 <p>
  <code>
   sh
-git update-index --assume-unchanged <file_name>
+git update-index --assume-unchanged
+  <file_name>
+  </file_name>
  </code>
 </p>
 <h2>
@@ -1206,7 +1318,9 @@ git update-index --assume-unchanged <file_name>
 <p>
  <code>
   sh
-git update-index --no-assume-unchanged <file_name>
+git update-index --no-assume-unchanged
+  <file_name>
+  </file_name>
  </code>
 </p>
 <h2>
@@ -1228,7 +1342,12 @@ git clean -X -f
 <p>
  <code>
   sh
-git checkout <deleting_commit>^ -- <file_path>
+git checkout
+  <deleting_commit>
+   ^ --
+   <file_path>
+   </file_path>
+  </deleting_commit>
  </code>
 </p>
 <h2>
@@ -1237,7 +1356,12 @@ git checkout <deleting_commit>^ -- <file_path>
 <p>
  <code>
   sh
-git checkout <commit-ish> -- <file_path>
+git checkout
+  <commit-ish>
+   --
+   <file_path>
+   </file_path>
+  </commit-ish>
  </code>
 </p>
 <h2>
@@ -1282,7 +1406,9 @@ git config --global help.autocorrect 1
 <p>
  <code>
   sh
-git name-rev --name-only <SHA-1>
+git name-rev --name-only
+  <sha-1>
+  </sha-1>
  </code>
 </p>
 <h2>
@@ -1300,7 +1426,9 @@ git clean -fd --dry-run
 <p>
  <code>
   sh
-git commit --fixup <SHA-1>
+git commit --fixup
+  <sha-1>
+  </sha-1>
  </code>
 </p>
 <h2>
@@ -1318,7 +1446,9 @@ git rebase -i --autosquash
 <p>
  <code>
   sh
-git commit -am <commit message>
+git commit -am
+  <commit message="">
+  </commit>
  </code>
 </p>
 <h2>
@@ -1390,7 +1520,16 @@ git gc --prune=now --aggressive
 <p>
  <code>
   sh
-git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
+git instaweb [--local] [--httpd=
+  <httpd>
+   ] [--port=
+   <port>
+    ] [--browser=
+    <browser>
+     ]
+    </browser>
+   </port>
+  </httpd>
  </code>
 </p>
 <h2>
@@ -1408,7 +1547,9 @@ git log --show-signature
 <p>
  <code>
   sh
-git config --global --unset <entry-name>
+git config --global --unset
+  <entry-name>
+  </entry-name>
  </code>
 </p>
 <h2>
@@ -1417,7 +1558,9 @@ git config --global --unset <entry-name>
 <p>
  <code>
   sh
-git checkout --orphan <branch_name>
+git checkout --orphan
+  <branch_name>
+  </branch_name>
  </code>
 </p>
 <h2>
@@ -1435,7 +1578,12 @@ git diff --staged
 <p>
  <code>
   sh
-git show <banch_name>:<file_name>
+git show
+  <banch_name>
+   :
+   <file_name>
+   </file_name>
+  </banch_name>
  </code>
 </p>
 <p>

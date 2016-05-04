@@ -22,9 +22,12 @@
   <a href="https://github.com/marionettejs/backbone.marionette">
    Github repository
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 6835, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 6835, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://marionettejs.com/annotated-src/backbone.marionette">
@@ -51,25 +54,34 @@
   <a href="https://github.com/marionettejs/marionette.inspector">
    Marionette Inspector
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 153, pushed 32 days ago
+  </sup>
+  <sup>
    &#9733 153, pushed 32 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrichard/generator-marionette">
    Yeoman generator for Marionette.js
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 342, pushed 271 days ago
+  </sup>
+  <sup>
    &#9733 342, pushed 271 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/denar90/marionette-cli">
    Marionette CLI
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 16, pushed 41 days ago
+  </sup>
+  <sup>
    &#9733 16, pushed 41 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://atom.io/packages/atom-marionettejs-cli">
@@ -390,76 +402,100 @@
   <a href="https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate">
    Marionette Require Boilerplate
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 249, pushed 151 days ago
+  </sup>
+  <sup>
    &#9733 249, pushed 151 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmytroyarmak/marionette-contact-manager">
    Marionette Contact Manager
   </a>
-  <span>
-   &#9733 21, pushed 818 days ago
-  </span>
   - Continuation of development
   <a href="https://github.com/dmytroyarmak/backbone-contact-manager">
    Backbone Contact Manager
   </a>
   but using Marionette.js
+  <sup>
+   15 GitHub links in total 67 links, ★ 21, pushed 818 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 818 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate">
    Marionette, Require, and Gulp.js Boilerplate
   </a>
-  <span>
-   &#9733 15, pushed 349 days ago
-  </span>
   - A Lightweight boilerplate originally project based off
   <a href="https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate">
    Marionette Require Boilerplate
   </a>
   , with Gulp.js integration instead of Grunt.js
+  <sup>
+   15 GitHub links in total 67 links, ★ 15, pushed 349 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 349 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ajaxray/marionette-boilerplate">
    MarionetteJS + RequireJS + Twitter Bootstrap
   </a>
-  <span>
-   &#9733 59, pushed 667 days ago
-  </span>
   - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
+  <sup>
+   15 GitHub links in total 67 links, ★ 59, pushed 667 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 667 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidsulc/marionette-gentle-introduction">
    Marionette gentle introduction
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 354, pushed 294 days ago
+  </sup>
+  <sup>
    &#9733 354, pushed 294 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thejameskyle/marionette-wires">
    Marionette wires
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 315, pushed 158 days ago
+  </sup>
+  <sup>
    &#9733 315, pushed 158 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MarionetteLabs/marionette-cookbook">
    Marionette cookbook
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 100, pushed 361 days ago
+  </sup>
+  <sup>
    &#9733 100, pushed 361 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/denar90/brunch-with-marionettejs">
    MarionetteJS + Brunch + Babel/ES6
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 2, pushed 24 days ago
+  </sup>
+  <sup>
    &#9733 2, pushed 24 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -470,24 +506,33 @@
   <a href="https://github.com/Squareknot/marionette.state">
    Marionette state
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 97, pushed 99 days ago
+  </sup>
+  <sup>
    &#9733 97, pushed 99 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tiagorg/marionette-vdom">
    Marionette virtual dom
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 118, pushed 422 days ago
+  </sup>
+  <sup>
    &#9733 118, pushed 422 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/viverae/marionette.formview">
    Marionette Form View
   </a>
-  <span>
+  <sup>
+   15 GitHub links in total 67 links, ★ 80, pushed 267 days ago
+  </sup>
+  <sup>
    &#9733 80, pushed 267 days ago
-  </span>
+  </sup>
  </li>
 </ul>

@@ -174,46 +174,61 @@
   <a href="https://github.com/moul/advanced-ssh-config">
    advanced-ssh-config
   </a>
-  <span>
-   &#9733 434, pushed 4 days ago
-  </span>
   : a transparent wrapper (ProxyCommand) that adds regex, aliases, gateways, includes, dynamic hostnames to SSH and ssh-config.
+  <sup>
+   45 GitHub links in total 100 links, ★ 434, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 434, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emre/storm">
    storm
   </a>
-  <span>
-   &#9733 2342, pushed 38 days ago
-  </span>
   : Manage your SSH like a boss.
+  <sup>
+   45 GitHub links in total 100 links, ★ 2342, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 2342, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gaqzi/ansible-ssh-config">
    ansible-ssh-config
   </a>
-  <span>
-   &#9733 45, pushed 21 days ago
-  </span>
   : Letting Ansible manage ssh config.
+  <sup>
+   45 GitHub links in total 100 links, ★ 45, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mirakui/ec2ssh">
    ec2ssh
   </a>
-  <span>
-   &#9733 158, pushed 3 days ago
-  </span>
   : A ssh_config manager for AWS EC2.
+  <sup>
+   45 GitHub links in total 100 links, ★ 158, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dbrady/ssh-config">
    ssh-config
   </a>
-  <span>
-   &#9733 67, pushed 264 days ago
-  </span>
   : A tool to help manage your .ssh/config file.
+  <sup>
+   45 GitHub links in total 100 links, ★ 67, pushed 264 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 264 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -253,68 +268,89 @@
   <a href="https://github.com/moul/ssh2docker">
    ssh2docker
   </a>
-  <span>
-   &#9733 32, pushed 11 days ago
-  </span>
   : SSH server to Docker containers.
+  <sup>
+   45 GitHub links in total 100 links, ★ 32, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FiloSottile/whosthere">
    whosthere
   </a>
-  <span>
-   &#9733 1098, pushed 75 days ago
-  </span>
   : A ssh server that knows who you are.
   <code>
    $ ssh whoami.filippo.io
   </code>
   .
+  <sup>
+   45 GitHub links in total 100 links, ★ 1098, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 1098, pushed 75 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gliderlabs/sshfront">
    sshfront
   </a>
-  <span>
-   &#9733 136, pushed 293 days ago
-  </span>
   : Programmable SSH frontend
+  <sup>
+   45 GitHub links in total 100 links, ★ 136, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 136, pushed 293 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shazow/ssh-chat">
    ssh-chat
   </a>
-  <span>
-   &#9733 1920, pushed 80 days ago
-  </span>
   - Chat over SSH.
+  <sup>
+   45 GitHub links in total 100 links, ★ 1920, pushed 80 days ago
+  </sup>
+  <sup>
+   &#9733 1920, pushed 80 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dokku/sshcommand">
    sshcommand
   </a>
-  <span>
-   &#9733 243, pushed 30 days ago
-  </span>
   - Turn SSH into a thin client specifically for your app
+  <sup>
+   45 GitHub links in total 100 links, ★ 243, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 243, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joushou/sshmuxd">
    sshmuxd
   </a>
-  <span>
-   &#9733 638, pushed 19 days ago
-  </span>
   - sshmux frontend
+  <sup>
+   45 GitHub links in total 100 links, ★ 638, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 638, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jquast/x84">
    x84
   </a>
-  <span>
-   &#9733 202, pushed 106 days ago
-  </span>
   - A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity. http://x84.readthedocs.org/
+  <sup>
+   45 GitHub links in total 100 links, ★ 202, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 202, pushed 106 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -331,73 +367,97 @@
   <a href="https://github.com/libfuse/sshfs">
    sshfs
   </a>
-  <span>
-   &#9733 160, pushed 4 days ago
-  </span>
   : Filesystem client based on the SSH File Transfer Protocol.
+  <sup>
+   45 GitHub links in total 100 links, ★ 160, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 160, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/inconshreveable/ngrok">
    ngrok
   </a>
-  <span>
-   &#9733 6976, pushed 24 days ago
-  </span>
   : Introspected tunnels to localhost.
+  <sup>
+   45 GitHub links in total 100 links, ★ 6976, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 6976, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/progrium/localtunnel">
    localtunnel
   </a>
-  <span>
-   &#9733 2873, pushed 485 days ago
-  </span>
   : Expose localhost servers to the Internet.
+  <sup>
+   45 GitHub links in total 100 links, ★ 2873, pushed 485 days ago
+  </sup>
+  <sup>
+   &#9733 2873, pushed 485 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apenwarr/sshuttle">
    sshuttle
   </a>
-  <span>
-   &#9733 6763, pushed 10 days ago
-  </span>
   - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+  <sup>
+   45 GitHub links in total 100 links, ★ 6763, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 6763, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stealth/sshttp">
    sshttp
   </a>
-  <span>
-   &#9733 353, pushed 56 days ago
-  </span>
   - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
+  <sup>
+   45 GitHub links in total 100 links, ★ 353, pushed 56 days ago
+  </sup>
+  <sup>
+   &#9733 353, pushed 56 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jamescun/switcher">
    switcher
   </a>
-  <span>
-   &#9733 715, pushed 467 days ago
-  </span>
   - Run SSH and HTTP(S) on the same port
+  <sup>
+   45 GitHub links in total 100 links, ★ 715, pushed 467 days ago
+  </sup>
+  <sup>
+   &#9733 715, pushed 467 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yrutschle/sslh">
    sslh
   </a>
-  <span>
-   &#9733 813, pushed 5 days ago
-  </span>
   - Applicative Protocol Multiplexer (i.e: SSH + HTTPS)
+  <sup>
+   45 GitHub links in total 100 links, ★ 813, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 813, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aphyr/tund">
    tund
   </a>
-  <span>
-   &#9733 304, pushed 84 days ago
-  </span>
   - SSH reverse tunnel daemon
+  <sup>
+   45 GitHub links in total 100 links, ★ 304, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 304, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.harding.motd.ca/autossh/">
@@ -409,19 +469,25 @@
   <a href="https://github.com/aluzzardi/wssh">
    wssh
   </a>
-  <span>
-   &#9733 804, pushed 8 days ago
-  </span>
   - SSH to WebSockets Bridge
+  <sup>
+   45 GitHub links in total 100 links, ★ 804, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 804, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vieux/docker-volume-sshfs">
    docker-volume-sshfs
   </a>
-  <span>
-   &#9733 50, pushed 42 days ago
-  </span>
   - sshfs docker volume plugin.
+  <sup>
+   45 GitHub links in total 100 links, ★ 50, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 42 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -438,37 +504,49 @@
   <a href="https://github.com/duncs/clusterssh">
    clusterssh
   </a>
-  <span>
-   &#9733 286, pushed 2 days ago
-  </span>
   - Cluster Admin Via SSH
+  <sup>
+   45 GitHub links in total 100 links, ★ 286, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 286, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dennishafemann/tmux-cssh">
    tmux-cssh
   </a>
-  <span>
-   &#9733 210, pushed 26 days ago
-  </span>
   : TMUX with a "ClusterSSH"-like behaviour.
+  <sup>
+   45 GitHub links in total 100 links, ★ 210, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 210, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ganneff/tm">
    tm
   </a>
-  <span>
-   &#9733 15, pushed 4 days ago
-  </span>
   : tmux manager / helper
+  <sup>
+   45 GitHub links in total 100 links, ★ 15, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wouterdebie/i2cssh">
    i2cssh
   </a>
-  <span>
-   &#9733 228, pushed 74 days ago
-  </span>
   - csshX like ssh tool for iTerm2
+  <sup>
+   45 GitHub links in total 100 links, ★ 228, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 228, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/clusterssh/">
@@ -485,28 +563,37 @@
   <a href="https://github.com/authy/authy-ssh">
    authy-ssh
   </a>
-  <span>
-   &#9733 628, pushed 69 days ago
-  </span>
   - Easy two-factor authentication for ssh servers
+  <sup>
+   45 GitHub links in total 100 links, ★ 628, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 628, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chrishunt/github-auth">
    github-auth
   </a>
-  <span>
-   &#9733 334, pushed 279 days ago
-  </span>
   - SSH key management for GitHub users.
+  <sup>
+   45 GitHub links in total 100 links, ★ 334, pushed 279 days ago
+  </sup>
+  <sup>
+   &#9733 334, pushed 279 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/cipherhub">
    cipherhub
   </a>
-  <span>
-   &#9733 385, pushed 586 days ago
-  </span>
   - Encrypt messages based on SSH public keys with easy import from GitHub
+  <sup>
+   45 GitHub links in total 100 links, ★ 385, pushed 586 days ago
+  </sup>
+  <sup>
+   &#9733 385, pushed 586 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ryanbrink.com/slack-ssh-session-notifications/">
@@ -523,10 +610,13 @@
   <a href="https://github.com/ccontavalli/ssh-ident">
    ssh-ident
   </a>
-  <span>
-   &#9733 351, pushed 12 days ago
-  </span>
   - Different agents and different keys for different projects, with ssh.
+  <sup>
+   45 GitHub links in total 100 links, ★ 351, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 351, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/ssh-agent">
@@ -543,13 +633,16 @@
   <a href="https://github.com/Russell91/sshrc">
    sshrc
   </a>
-  <span>
-   &#9733 3240, pushed 2 days ago
-  </span>
   - bring your .bashrc, .vimrc, etc. with you when you
   <code>
    ssh
   </code>
+  <sup>
+   45 GitHub links in total 100 links, ★ 3240, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3240, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -560,19 +653,25 @@
   <a href="https://github.com/ansible/ansible">
    ansible
   </a>
-  <span>
-   &#9733 16550, pushed 2 days ago
-  </span>
   - App deployment, configuration management and orchestration over SSH.
+  <sup>
+   45 GitHub links in total 100 links, ★ 16550, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 16550, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rapidloop/rtop">
    rtop
   </a>
-  <span>
-   &#9733 1399, pushed 216 days ago
-  </span>
   - Interactive, remote system monitoring tool based on SSH.
+  <sup>
+   45 GitHub links in total 100 links, ★ 1399, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 1399, pushed 216 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.netfort.gr.jp/~dancer/software/dsh.html.en">
@@ -606,19 +705,25 @@
   <a href="https://github.com/liftoff/GateOne">
    GateOne
   </a>
-  <span>
-   &#9733 3811, pushed 8 days ago
-  </span>
   - HTML5-powered terminal emulator and SSH client
+  <sup>
+   45 GitHub links in total 100 links, ★ 3811, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 3811, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skavanagh/KeyBox">
    KeyBox
   </a>
-  <span>
-   &#9733 1078, pushed 9 days ago
-  </span>
   - web-based SSH console that centrally manages administrative access to systems.
+  <sup>
+   45 GitHub links in total 100 links, ★ 1078, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1078, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -629,28 +734,37 @@
   <a href="https://github.com/shazow/ssh-hammer">
    ssh-hammer
   </a>
-  <span>
-   &#9733 4, pushed 432 days ago
-  </span>
   - SSH load testing tool.
+  <sup>
+   45 GitHub links in total 100 links, ★ 4, pushed 432 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 432 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/desaster/kippo">
    kippo
   </a>
-  <span>
-   &#9733 628, pushed 195 days ago
-  </span>
   - SSH Honeypot
+  <sup>
+   45 GitHub links in total 100 links, ★ 628, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 628, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/micheloosterhof/cowrie">
    cowrie
   </a>
-  <span>
-   &#9733 384, pushed 4 days ago
-  </span>
   - SSH Honeypot (based on kippo)
+  <sup>
+   45 GitHub links in total 100 links, ★ 384, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 384, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://linux.die.net/man/8/sshmitm">
@@ -667,10 +781,13 @@
   <a href="https://github.com/yudai/gotty">
    GoTTY
   </a>
-  <span>
-   &#9733 6321, pushed 20 days ago
-  </span>
   : Share your terminal as web application
+  <sup>
+   45 GitHub links in total 100 links, ★ 6321, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 6321, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.telnet.org/htm/faq.htm">
@@ -702,10 +819,13 @@
     <a href="https://github.com/substack/libssh">
      substack/libssh
     </a>
-    <span>
-     &#9733 34, pushed 68 days ago
-    </span>
     : multiplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side.
+    <sup>
+     45 GitHub links in total 100 links, ★ 34, pushed 68 days ago
+    </sup>
+    <sup>
+     &#9733 34, pushed 68 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -722,19 +842,25 @@
     <a href="https://github.com/pkg/sftp">
      sftp
     </a>
-    <span>
-     &#9733 247, pushed 4 days ago
-    </span>
     - SFTP support for the go.crypto/ssh package.
+    <sup>
+     45 GitHub links in total 100 links, ★ 247, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 247, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/shazow/go-sshkit">
      go-sshkit
     </a>
-    <span>
-     &#9733 5, pushed 127 days ago
-    </span>
     - Toolkit for building SSH servers and clients in Go.
+    <sup>
+     45 GitHub links in total 100 links, ★ 5, pushed 127 days ago
+    </sup>
+    <sup>
+     &#9733 5, pushed 127 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -756,12 +882,15 @@
     <a href="https://github.com/mscdex/ssh2">
      ssh2
     </a>
-    <span>
-     &#9733 1945, pushed 3 days ago
-    </span>
     - SSH2 client and server modules written in pure JavaScript for node.js
    </li>
   </ul>
+  <sup>
+   45 GitHub links in total 100 links, ★ 1945, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1945, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Python
@@ -770,12 +899,15 @@
     <a href="https://github.com/paramiko/paramiko">
      paramiko
     </a>
-    <span>
-     &#9733 2553, pushed 4 days ago
-    </span>
     : Native Python SSHv2 protocol library.
    </li>
   </ul>
+  <sup>
+   45 GitHub links in total 100 links, ★ 2553, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2553, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Ruby
@@ -784,12 +916,15 @@
     <a href="https://github.com/net-ssh/net-ssh">
      net-ssh
     </a>
-    <span>
-     &#9733 475, pushed 2 days ago
-    </span>
     - Pure Ruby implementation of an SSH (protocol 2) client
    </li>
   </ul>
+  <sup>
+   45 GitHub links in total 100 links, ★ 475, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 475, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>

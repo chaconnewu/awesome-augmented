@@ -320,28 +320,37 @@
   <a href="https://github.com/webcomponents/sass-interop">
    Interop Sass
   </a>
-  <span>
-   &#9733 35, pushed 341 days ago
-  </span>
   A demo of interoperability between Sass and Polymer.
+  <sup>
+   16 GitHub links in total 86 links, ★ 35, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 341 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webcomponents/less-interop">
    Interop Less
   </a>
-  <span>
-   &#9733 16, pushed 341 days ago
-  </span>
   A demo of interoperability between Less and Polymer.
+  <sup>
+   16 GitHub links in total 86 links, ★ 16, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 341 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webcomponents/angular-interop">
    Interop Angular
   </a>
-  <span>
-   &#9733 35, pushed 522 days ago
-  </span>
   A demo of interoperability between Polymer and AngularJs.
+  <sup>
+   16 GitHub links in total 86 links, ★ 35, pushed 522 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 522 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.polymer-project.org/articles/polymer-xtag-vanilla.html">
@@ -358,10 +367,13 @@
   <a href="https://github.com/webcomponents/generator-element">
    Generator Elements
   </a>
-  <span>
-   &#9733 116, pushed 5 days ago
-  </span>
   A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
+  <sup>
+   16 GitHub links in total 86 links, ★ 116, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yeoman/generator-polymer/">
@@ -373,28 +385,37 @@
   <a href="https://github.com/x-tag/yo-x-tag-generator">
    Geneator X-Tag
   </a>
-  <span>
-   &#9733 6, pushed 754 days ago
-  </span>
   X-Tag generator for Yeoman
+  <sup>
+   16 GitHub links in total 86 links, ★ 6, pushed 754 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 754 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bosonic-labs/yeoman-bosonic">
    Generator Bosonic
   </a>
-  <span>
-   &#9733 2, pushed 234 days ago
-  </span>
   Yeoman Generator Bosonic
+  <sup>
+   16 GitHub links in total 86 links, ★ 2, pushed 234 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 234 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webcomponents/slush-element">
    Slush Element
   </a>
-  <span>
-   &#9733 30, pushed 332 days ago
-  </span>
   A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
+  <sup>
+   16 GitHub links in total 86 links, ★ 30, pushed 333 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 333 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -405,19 +426,25 @@
   <a href="https://github.com/PolymerElements/seed-element">
    Seed-Element
   </a>
-  <span>
-   &#9733 276, pushed 20 days ago
-  </span>
   Polymer element boilerplate Tests
+  <sup>
+   16 GitHub links in total 86 links, ★ 276, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 276, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Polymer/web-component-tester">
    Web Component Tester
   </a>
-  <span>
-   &#9733 316, pushed 3 days ago
-  </span>
   web-component-tester makes testing your web components a breeze!
+  <sup>
+   16 GitHub links in total 86 links, ★ 316, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 316, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -498,10 +525,13 @@
   <a href="https://github.com/GoogleWebComponents/style-guide">
    Google Web Components Style Guide
   </a>
-  <span>
-   &#9733 298, pushed 598 days ago
-  </span>
   This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
+  <sup>
+   16 GitHub links in total 86 links, ★ 298, pushed 598 days ago
+  </sup>
+  <sup>
+   &#9733 298, pushed 598 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -547,10 +577,13 @@
   <a href="https://github.com/skatejs/skatejs">
    Skate
   </a>
-  <span>
-   &#9733 589, pushed 4 days ago
-  </span>
   Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
+  <sup>
+   16 GitHub links in total 86 links, ★ 589, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 589, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -607,10 +640,13 @@
   <a href="https://github.com/polymer/vulcanize">
    Vulcanize
   </a>
-  <span>
-   &#9733 1035, pushed 12 days ago
-  </span>
   Concatenate a set of Web Components into one file
+  <sup>
+   16 GitHub links in total 86 links, ★ 1035, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1035, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -621,28 +657,37 @@
   <a href="https://github.com/webcomponents/polymer-boilerplate">
    Polymer Boilerplate
   </a>
-  <span>
-   &#9733 358, pushed 301 days ago
-  </span>
   A bare minimum custom element starter-kit using Polymer.
+  <sup>
+   16 GitHub links in total 86 links, ★ 358, pushed 301 days ago
+  </sup>
+  <sup>
+   &#9733 358, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webcomponents/xtag-boilerplate">
    X-Tag Boilerplate
   </a>
-  <span>
-   &#9733 45, pushed 341 days ago
-  </span>
   A bare minimum custom element starter-kit using X-Tag.
+  <sup>
+   16 GitHub links in total 86 links, ★ 45, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 341 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webcomponents/element-boilerplate">
    VanillaJS Boilerplate
   </a>
-  <span>
-   &#9733 166, pushed 341 days ago
-  </span>
   A bare minimum custom element starter-kit using VanillaJS.
+  <sup>
+   16 GitHub links in total 86 links, ★ 166, pushed 341 days ago
+  </sup>
+  <sup>
+   &#9733 166, pushed 341 days ago
+  </sup>
  </li>
 </ul>
 <h2>

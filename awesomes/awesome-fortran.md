@@ -167,10 +167,13 @@
    </em>
    IO
   </a>
-  <span>
-   &#9733 19, pushed 33 days ago
-  </span>
   - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
+  <sup>
+   14 GitHub links in total 56 links, ★ 19, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 33 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -231,19 +234,25 @@
   <a href="https://github.com/Unidata/netcdf-fortran">
    netCDF
   </a>
-  <span>
-   &#9733 37, pushed 4 days ago
-  </span>
   - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+  <sup>
+   14 GitHub links in total 56 links, ★ 37, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xianyi/OpenBLAS">
    OpenBLAS
   </a>
-  <span>
-   &#9733 896, pushed 4 days ago
-  </span>
   - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+  <sup>
+   14 GitHub links in total 56 links, ★ 896, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 896, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://paw.web.cern.ch/paw/">
@@ -265,19 +274,25 @@
   <a href="https://github.com/josephalevin/fson">
    FSON
   </a>
-  <span>
-   &#9733 27, pushed 27 days ago
-  </span>
   - Fortran 95 JSON Parser.
+  <sup>
+   14 GitHub links in total 56 links, ★ 27, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jacobwilliams/json-fortran">
    json-fortran
   </a>
-  <span>
-   &#9733 40, pushed 1 days ago
-  </span>
   - A Fortran 2008 JSON API.
+  <sup>
+   14 GitHub links in total 56 links, ★ 40, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -293,10 +308,13 @@
   <a href="https://github.com/andreww/fox">
    fox
   </a>
-  <span>
-   &#9733 27, pushed 126 days ago
-  </span>
   - Fortran XML library
+  <sup>
+   14 GitHub links in total 56 links, ★ 27, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 126 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/xml-fortran/">
@@ -318,10 +336,13 @@
   <a href="https://github.com/milancurcic/datetime-fortran">
    datetime-fortran
   </a>
-  <span>
-   &#9733 24, pushed 12 days ago
-  </span>
   - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
+  <sup>
+   14 GitHub links in total 56 links, ★ 24, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -365,10 +386,13 @@
   <a href="https://github.com/szaghi/BeFoR64">
    BeFoR64
   </a>
-  <span>
-   &#9733 8, pushed 34 days ago
-  </span>
   - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+  <sup>
+   14 GitHub links in total 56 links, ★ 8, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -400,19 +424,25 @@
   <a href="https://github.com/szaghi/FLAP">
    FLAP
   </a>
-  <span>
-   &#9733 17, pushed 25 days ago
-  </span>
   - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+  <sup>
+   14 GitHub links in total 56 links, ★ 17, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cngilbreth/optionsf90">
    options.f90
   </a>
-  <span>
-   &#9733 3, pushed 408 days ago
-  </span>
   - Options & input processing for modern Fortran.
+  <sup>
+   14 GitHub links in total 56 links, ★ 3, pushed 408 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 408 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -428,10 +458,13 @@
   <a href="https://github.com/szaghi/FoBiS">
    FoBiS
   </a>
-  <span>
-   &#9733 32, pushed 53 days ago
-  </span>
   - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+  <sup>
+   14 GitHub links in total 56 links, ★ 32, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 53 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -453,10 +486,13 @@
   <a href="https://github.com/szaghi/PreForM">
    PreForM
   </a>
-  <span>
-   &#9733 9, pushed 350 days ago
-  </span>
   - Preprocessor for Fortran poor Men.
+  <sup>
+   14 GitHub links in total 56 links, ★ 9, pushed 350 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 350 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -472,10 +508,13 @@
   <a href="https://github.com/cmacmackin/ford">
    FORD
   </a>
-  <span>
-   &#9733 49, pushed 6 days ago
-  </span>
   - An automatic documentation generator for modern Fortran programs.
+  <sup>
+   14 GitHub links in total 56 links, ★ 49, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>

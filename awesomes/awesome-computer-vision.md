@@ -1034,17 +1034,23 @@
   <a href="https://github.com/jesolem/PCV">
    Open source Python module for computer vision
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 845, pushed 654 days ago
+  </sup>
+  <sup>
    &#9733 845, pushed 654 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/liuliu/ccv">
    ccv: A Modern Computer Vision Library
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 5192, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 5192, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.vlfeat.org/">
@@ -1208,9 +1214,12 @@
   <a href="https://github.com/nourani/LBP">
    Local Binary Patterns
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 37, pushed 532 days ago
+  </sup>
+  <sup>
    &#9733 37, pushed 532 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1221,9 +1230,12 @@
   <a href="https://github.com/banterle/HDR_Toolbox">
    HDR_Toolbox
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 36, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 36, pushed 5 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1735,9 +1747,12 @@
   <a href="https://github.com/davidstutz/seeds-revised">
    SEEDS Revised
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 19, pushed 42 days ago
+  </sup>
+  <sup>
    &#9733 19, pushed 42 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/">
@@ -1748,9 +1763,12 @@
   <a href="https://github.com/pdollar/edges">
    Fast Edge Detection Using Structured Forests
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 174, pushed 115 days ago
+  </sup>
+  <sup>
    &#9733 174, pushed 115 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -1869,17 +1887,23 @@
   <a href="https://github.com/GerhardR/kfusion">
    KFusion: Implementation of KinectFusion
   </a>
-  <span>
-   &#9733 53, pushed 388 days ago
-  </span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 53, pushed 388 days ago
+  </sup>
+  <sup>
+   &#9733 53, pushed 389 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Nerei/kinfu_remake">
    kinfu_remake: Lightweight, reworked and optimized version of Kinfu.
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 48, pushed 49 days ago
+  </sup>
+  <sup>
    &#9733 48, pushed 49 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/">
@@ -1895,9 +1919,12 @@
   <a href="https://github.com/nachtmar/VoxelHashing">
    VoxelHashing: Large-scale KinectFusion
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 73, pushed 210 days ago
+  </sup>
+  <sup>
    &#9733 73, pushed 210 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/">
@@ -1908,17 +1935,23 @@
   <a href="https://github.com/uzh-rpg/rpg_svo">
    SVO: Semi-direct visual odometry
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 407, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 407, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tum-vision/dvo_slam">
    DVO: dense visual odometry
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 118, pushed 35 days ago
+  </sup>
+  <sup>
    &#9733 118, pushed 35 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/fovis/">
@@ -1940,9 +1973,12 @@
   <a href="https://github.com/RainerKuemmerle/g2o">
    G2O: General framework for graph optomization
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 216, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 216, pushed 9 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h6>
@@ -1977,17 +2013,23 @@
   <a href="https://github.com/tum-vision/lsd_slam">
    LSD-SLAM
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 595, pushed 42 days ago
+  </sup>
+  <sup>
    &#9733 595, pushed 42 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raulmur/ORB_SLAM">
    ORB-SLAM
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 285, pushed 61 days ago
+  </sup>
+  <sup>
    &#9733 285, pushed 61 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2016,10 +2058,13 @@
   <a href="https://github.com/arron2003/rgbd2full3d">
    RGBD2Full3D
   </a>
-  <span>
-   &#9733 7, pushed 619 days ago
-  </span>
   - Ruiqi Guo (UIUC)
+  <sup>
+   24 GitHub links in total 438 links, ★ 7, pushed 619 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 619 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2040,9 +2085,12 @@
   <a href="https://github.com/rbgirshick/voc-dpm">
    VOC-DPM
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 267, pushed 356 days ago
+  </sup>
+  <sup>
    &#9733 267, pushed 356 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.ics.uci.edu/~dramanan/software/sparse/">
@@ -2053,17 +2101,23 @@
   <a href="https://github.com/rbgirshick/rcnn">
    R-CNN: Regions with Convolutional Neural Network Features
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 670, pushed 88 days ago
+  </sup>
+  <sup>
    &#9733 670, pushed 88 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ShaoqingRen/SPP_net">
    SPP-Net
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 153, pushed 311 days ago
+  </sup>
+  <sup>
    &#9733 153, pushed 311 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://mmcheng.net/bing/comment-page-9/">
@@ -2074,17 +2128,23 @@
   <a href="https://github.com/pdollar/edges">
    Edge Boxes
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 174, pushed 115 days ago
+  </sup>
+  <sup>
    &#9733 174, pushed 115 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Russell91/ReInspect">
    ReInspect
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 123, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 123, pushed 4 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2133,9 +2193,12 @@
   <a href="https://github.com/fbesse/pmbp">
    PMBP: PatchMatch Belief Propagation
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 2, pushed 593 days ago
+  </sup>
+  <sup>
    &#9733 2, pushed 593 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar">
@@ -2286,9 +2349,12 @@
   <a href="https://github.com/kjw0612/awesome-deep-vision">
    Awesome Deep Vision
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 1273, pushed 8 days ago
+  </sup>
+  <sup>
    &#9733 1273, pushed 8 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -2299,9 +2365,12 @@
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    Awesome Machine Learning
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 12665, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 12665, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://idiap.github.io/bob/">
@@ -3038,17 +3107,23 @@
   <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
    awesome-deep-learning
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 1922, pushed 8 days ago
+  </sup>
+  <sup>
    &#9733 1922, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josephmisiti/awesome-machine-learning">
    awesome-maching-learning
   </a>
-  <span>
+  <sup>
+   24 GitHub links in total 438 links, ★ 12665, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 12665, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html">

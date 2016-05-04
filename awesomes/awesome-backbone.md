@@ -22,9 +22,12 @@
   <a href="https://github.com/jashkenas/backbone">
    Github repository
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 24692, pushed 3 days ago
+  </sup>
+  <sup>
    &#9733 24692, pushed 3 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://backbonejs.org/docs/backbone.html">
@@ -58,9 +61,12 @@
   <a href="https://github.com/yeoman/generator-backbone">
    Yeoman generator for Backbone.js
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 638, pushed 35 days ago
+  </sup>
+  <sup>
    &#9733 638, pushed 35 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -606,46 +612,61 @@
   <a href="https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate">
    Backbone Require Boilerplate
   </a>
-  <span>
-   &#9733 624, pushed 596 days ago
-  </span>
   - A Rad Backbone.js and Require.js Boilerplate Project
+  <sup>
+   22 GitHub links in total 111 links, ★ 624, pushed 596 days ago
+  </sup>
+  <sup>
+   &#9733 624, pushed 596 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/backbone-cellar">
    Wine Cellar Sample Application
   </a>
-  <span>
-   &#9733 929, pushed 1461 days ago
-  </span>
   - "Backbone Cellar" is a sample application built with Backbone.js
+  <sup>
+   22 GitHub links in total 111 links, ★ 929, pushed 1461 days ago
+  </sup>
+  <sup>
+   &#9733 929, pushed 1461 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ccoenraets/directory-backbone-bootstrap">
    Employee Directory
   </a>
-  <span>
-   &#9733 463, pushed 248 days ago
-  </span>
   - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
+  <sup>
+   22 GitHub links in total 111 links, ★ 463, pushed 248 days ago
+  </sup>
+  <sup>
+   &#9733 463, pushed 248 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmytroyarmak/backbone-contact-manager">
    Backbone Contact Manager
   </a>
-  <span>
-   &#9733 52, pushed 818 days ago
-  </span>
   - Simple Backbone.js example application
+  <sup>
+   22 GitHub links in total 111 links, ★ 52, pushed 818 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 818 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addyosmani/backbone-boilerplates">
    Backbone Boilerplates
   </a>
-  <span>
-   &#9733 494, pushed 1127 days ago
-  </span>
   - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
+  <sup>
+   22 GitHub links in total 111 links, ★ 494, pushed 1127 days ago
+  </sup>
+  <sup>
+   &#9733 494, pushed 1127 days ago
+  </sup>
  </li>
  <li>
   <a href="http://todomvc.com/examples/backbone/">
@@ -677,9 +698,12 @@
   <a href="https://github.com/hegdeashwin/Backbone">
    Structuring Your Web Apps via Backbone.js
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 69, pushed 66 days ago
+  </sup>
+  <sup>
    &#9733 69, pushed 66 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/">
@@ -710,112 +734,154 @@
   <a href="https://github.com/PaulUithol/Backbone-relational">
    Backbone.Relational
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 2414, pushed 8 days ago
+  </sup>
+  <sup>
    &#9733 2414, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/powmedia/backbone-forms">
    Backbone-forms
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 2214, pushed 13 days ago
+  </sup>
+  <sup>
    &#9733 2214, pushed 13 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wyuenho/backgrid">
    Backgrid.js
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 1937, pushed 13 days ago
+  </sup>
+  <sup>
    &#9733 1937, pushed 13 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/Backbone.localStorage">
    Backbone.localStorage
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 1927, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 1927, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NYTimes/backbone.stickit">
    Backbone.stickit
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 1646, pushed 43 days ago
+  </sup>
+  <sup>
    &#9733 1646, pushed 43 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/backbone-paginator/backbone.paginator">
    Backbone.paginator
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 1428, pushed 6 days ago
+  </sup>
+  <sup>
    &#9733 1428, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thedersen/backbone.validation">
    Backbone.validation
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 1354, pushed 45 days ago
+  </sup>
+  <sup>
    &#9733 1354, pushed 45 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulmillr/exoskeleton">
    Exoskeleton
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 931, pushed 16 days ago
+  </sup>
+  <sup>
    &#9733 931, pushed 16 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nilbus/Backbone.dualStorage">
    Backbone.dualstorage
   </a>
-  <span>
-   &#9733 819, pushed 14 days ago
-  </span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 819, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 819, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/noveogroup/backbone.iobind">
    Backbone.iobind
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 603, pushed 104 days ago
+  </sup>
+  <sup>
    &#9733 603, pushed 104 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dhruvaray/backbone-associations">
    Backbone-associations
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 519, pushed 669 days ago
+  </sup>
+  <sup>
    &#9733 519, pushed 669 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PaulUithol/backbone-tastypie">
    Backbone-tastypie
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 509, pushed 610 days ago
+  </sup>
+  <sup>
    &#9733 509, pushed 610 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marionettejs/backbone.radio">
    Backbone.Radio
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 437, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 437, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marionettejs/backbone.babysitter">
    Backbone.BabySitter
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 111 links, ★ 376, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 376, pushed 5 days ago
-  </span>
+  </sup>
  </li>
 </ul>

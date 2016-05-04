@@ -331,17 +331,23 @@
   <a href="https://github.com/mastastealth/sass-flex-mixin">
    Sass flex mixin
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 62 links, ★ 822, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 822, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/differui/stylus-flex-mixin">
    Stylus flex mixin
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 62 links, ★ 7, pushed 697 days ago
+  </sup>
+  <sup>
    &#9733 7, pushed 697 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h4>
@@ -352,26 +358,35 @@
   <a href="https://github.com/10up/flexibility">
    Flexibility
   </a>
-  <span>
-   &#9733 2190, pushed 4 days ago
-  </span>
   :metal:
+  <sup>
+   5 GitHub links in total 62 links, ★ 2190, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2190, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/doctyper/flexie">
    Flexie
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 62 links, ★ 1069, pushed 1127 days ago
+  </sup>
+  <sup>
    &#9733 1069, pushed 1127 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/doctyper/reflexie">
    Reflexie
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 62 links, ★ 244, pushed 1035 days ago
+  </sup>
+  <sup>
    &#9733 244, pushed 1035 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

@@ -584,83 +584,85 @@
   </ul>
  </li>
 </ul>
-bln
+<p>
+ bln
 )
-<li>
- @ Hamburg
- <ul>
-  <li>
-   <strong>
-    Hamburg on Ruby
-   </strong>
-   (web:
-   <a href="http://hamburg.onruby.de">
-    hamburg.onruby.de
-   </a>
-   )
-  </li>
- </ul>
-</li>
-<li>
- @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
- <ul>
-  <li>
-   <strong>
-    Kölsch.rb / Cologne.rb
-   </strong>
-   (web:
-   <a href="http://cologne.onruby.de">
-    cologne.onruby.de
-   </a>
-   )
-  </li>
- </ul>
-</li>
-<li>
- @ Dresden, Saxony / Sachsen
- <ul>
-  <li>
-   <strong>
-    Dresden on Ruby
-   </strong>
-   (web:
-   <a href="http://dresden.onruby.de">
-    dresden.onruby.de
-   </a>
-   )
-  </li>
- </ul>
-</li>
-<li>
- @ Leipzig, Saxony / Sachsen
- <ul>
-  <li>
-   <strong>
-    Leipzig on Rails
-   </strong>
-   (web:
-   <a href="http://leipzig.onruby.de">
-    leipzig.onruby.de
-   </a>
-   )
-  </li>
- </ul>
-</li>
-<li>
- @ Munich / München, Bavaria / Bayern
- <ul>
-  <li>
-   <strong>
-    Munich Rubyshift Ruby User Group
-   </strong>
-   (meetup:
-   <a href="http://meetup.com/Munich-Rubyshift-Ruby-User-Group">
-    Munich-Rubyshift-Ruby-User-Group
-   </a>
-   )
-  </li>
- </ul>
-</li>
+ <li>
+  @ Hamburg
+  <ul>
+   <li>
+    <strong>
+     Hamburg on Ruby
+    </strong>
+    (web:
+    <a href="http://hamburg.onruby.de">
+     hamburg.onruby.de
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Cologne / Köln, North Rhine-Westphalia / Nordrhein-Westfalen
+  <ul>
+   <li>
+    <strong>
+     Kölsch.rb / Cologne.rb
+    </strong>
+    (web:
+    <a href="http://cologne.onruby.de">
+     cologne.onruby.de
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Dresden, Saxony / Sachsen
+  <ul>
+   <li>
+    <strong>
+     Dresden on Ruby
+    </strong>
+    (web:
+    <a href="http://dresden.onruby.de">
+     dresden.onruby.de
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Leipzig, Saxony / Sachsen
+  <ul>
+   <li>
+    <strong>
+     Leipzig on Rails
+    </strong>
+    (web:
+    <a href="http://leipzig.onruby.de">
+     leipzig.onruby.de
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Munich / München, Bavaria / Bayern
+  <ul>
+   <li>
+    <strong>
+     Munich Rubyshift Ruby User Group
+    </strong>
+    (meetup:
+    <a href="http://meetup.com/Munich-Rubyshift-Ruby-User-Group">
+     Munich-Rubyshift-Ruby-User-Group
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+</p>
 <h4>
  Slovakia (sk)
 </h4>
@@ -1783,10 +1785,12 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
-<!--
-- [Ruby Developers of Ukraine - Chat @ ruby-ua](https://gitter.im/dev-ua/ruby-ua)
+<p>
+ <!-- new list; user groups -->
+ <!--
+- <a href="https://gitter.im/dev-ua/ruby-ua">Ruby Developers of Ukraine - Chat @ ruby-ua</a>
   -->
+</p>
 <ul>
  <li>
   @ Kyiv
@@ -2203,7 +2207,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Boston, Massachusetts
@@ -2287,7 +2293,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ New York, New York
@@ -2339,7 +2347,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Washington, D.C.
@@ -2381,7 +2391,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Orlando, Florida
@@ -2423,7 +2435,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Chicago, Illinois
@@ -2495,9 +2509,11 @@ bln
   </ul>
  </li>
 </ul>
-<!--  note: link - not workign for now; http://www.rubymidwest.com
+<p>
+ <!--  note: link - not workign for now; http://www.rubymidwest.com
   -->
-<!-- new list; user groups -->
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Kansas City, Missouri
@@ -2562,7 +2578,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Denver, Colorado
@@ -2666,7 +2684,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Austin, Texas
@@ -2753,7 +2773,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Seattle, Washington
@@ -2822,7 +2844,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Los Angeles, California
@@ -2927,7 +2951,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Mexico City / México, D.F.
@@ -2975,9 +3001,11 @@ bln
   </ul>
  </li>
 </ul>
-<!-- old groups; no longer exit 
-      **UNAM / National University** (meetup: [UNAM-Ruby-Group](http://meetup.com/UNAM-Ruby-Group))
+<p>
+ <!-- old groups; no longer exit 
+      <strong>UNAM / National University</strong> (meetup: <a href="http://meetup.com/UNAM-Ruby-Group">UNAM-Ruby-Group</a>)
   -->
+</p>
 <h3>
  South America
 </h3>
@@ -3093,7 +3121,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ São Paulo
@@ -3150,7 +3180,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Bogotá
@@ -3226,7 +3258,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Montevideo
@@ -3268,7 +3302,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   <strong>
@@ -3420,7 +3456,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Tokyo
@@ -3496,7 +3534,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Singapore
@@ -3738,7 +3778,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   @ Nairobi
@@ -3826,7 +3868,9 @@ bln
   </ul>
  </li>
 </ul>
-<!-- new list; user groups -->
+<p>
+ <!-- new list; user groups -->
+</p>
 <ul>
  <li>
   <strong>

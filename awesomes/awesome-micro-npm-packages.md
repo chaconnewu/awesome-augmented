@@ -36,9 +36,12 @@
   <a href="https://github.com/mattdesl/module-best-practices">
    Module best practices
   </a>
-  <span>
+  <sup>
+   90 GitHub links in total 98 links, ★ 603, pushed 200 days ago
+  </sup>
+  <sup>
    &#9733 603, pushed 200 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://bytearcher.com/articles/evaluating-packages-1-check-community/">
@@ -82,109 +85,145 @@
   <a href="https://github.com/dcousens/is-sorted">
    is-sorted
   </a>
-  <span>
-   &#9733 3, pushed 262 days ago
-  </span>
   - A small module to check if an Array is sorted.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 262 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 262 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/array-first">
    array-first
   </a>
-  <span>
-   &#9733 4, pushed 112 days ago
-  </span>
   - Get the first element or first n elements of an array.
+  <sup>
+   90 GitHub links in total 98 links, ★ 4, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/array-last">
    array-last
   </a>
-  <span>
-   &#9733 4, pushed 54 days ago
-  </span>
   - Return the last element in an array.
+  <sup>
+   90 GitHub links in total 98 links, ★ 4, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/arr-flatten">
    arr-flatten
   </a>
-  <span>
-   &#9733 13, pushed 114 days ago
-  </span>
   - Recursively flatten an array or arrays.
+  <sup>
+   90 GitHub links in total 98 links, ★ 13, pushed 114 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 114 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seriousManual/dedupe">
    dedupe
   </a>
-  <span>
-   &#9733 3, pushed 34 days ago
-  </span>
   - Remove duplicates from an array.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattdesl/array-range">
    array-range
   </a>
-  <span>
-   &#9733 12, pushed 541 days ago
-  </span>
   - Creates a new array with given range.
+  <sup>
+   90 GitHub links in total 98 links, ★ 12, pushed 541 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 541 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/arr-diff">
    arr-diff
   </a>
-  <span>
-   &#9733 11, pushed 149 days ago
-  </span>
   - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+  <sup>
+   90 GitHub links in total 98 links, ★ 11, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/filled-array">
    filled-array
   </a>
-  <span>
-   &#9733 25, pushed 26 days ago
-  </span>
   - Returns an array filled with the specified input
+  <sup>
+   90 GitHub links in total 98 links, ★ 25, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/parro-it/map-array">
    map-array
   </a>
-  <span>
-   &#9733 3, pushed 85 days ago
-  </span>
   - Map object keys and values into an array.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/in-array">
    in-array
   </a>
-  <span>
-   &#9733 9, pushed 37 days ago
-  </span>
   - Return true if any of passed values exists in array - faster than using indexOf.
+  <sup>
+   90 GitHub links in total 98 links, ★ 9, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mafintosh/unordered-array-remove">
    unordered-array-remove
   </a>
-  <span>
-   &#9733 84, pushed 34 days ago
-  </span>
   - Efficiently remove an element from an unordered array without doing a splice.
+  <sup>
+   90 GitHub links in total 98 links, ★ 84, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 84, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/michaelzoidl/swap-array">
    array-swap
   </a>
-  <span>
-   &#9733 1, pushed 11 days ago
-  </span>
   - Swap position of two items in an array.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -195,118 +234,157 @@
   <a href="https://github.com/sindresorhus/decamelize">
    decamelize
   </a>
-  <span>
-   &#9733 31, pushed 59 days ago
-  </span>
   - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
+  <sup>
+   90 GitHub links in total 98 links, ★ 31, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/pad-left">
    pad-left
   </a>
-  <span>
-   &#9733 15, pushed 41 days ago
-  </span>
   - Left pad a string with zeros or a specified string.
+  <sup>
+   90 GitHub links in total 98 links, ★ 15, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-camel-case">
    to-camel-case
   </a>
-  <span>
-   &#9733 8, pushed 103 days ago
-  </span>
   - Convert a string to a camel case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 8, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-capital-case">
    to-capital-case
   </a>
-  <span>
-   &#9733 1, pushed 103 days ago
-  </span>
   - Convert a string to a capital case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-constant-case">
    to-constant-case
   </a>
-  <span>
-   &#9733 0, pushed 103 days ago
-  </span>
   - Convert a string to a constant case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 0, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-dot-case">
    to-dot-case
   </a>
-  <span>
-   &#9733 2, pushed 103 days ago
-  </span>
   - Convert a string to a dot case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-no-case">
    to-no-case
   </a>
-  <span>
-   &#9733 5, pushed 33 days ago
-  </span>
   - Remove an existing case from a string.
+  <sup>
+   90 GitHub links in total 98 links, ★ 5, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-pascal-case">
    to-pascal-case
   </a>
-  <span>
-   &#9733 0, pushed 103 days ago
-  </span>
   - Convert a string to a pascal case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 0, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-sentence-case">
    to-sentence-case
   </a>
-  <span>
-   &#9733 1, pushed 103 days ago
-  </span>
   - Convert a string to a sentence case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-snake-case">
    to-snake-case
   </a>
-  <span>
-   &#9733 5, pushed 103 days ago
-  </span>
   - Convert a string to a snake case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 5, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-space-case">
    to-space-case
   </a>
-  <span>
-   &#9733 1, pushed 103 days ago
-  </span>
   - Convert a string to a space case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ianstormtaylor/to-title-case">
    to-title-case
   </a>
-  <span>
-   &#9733 7, pushed 103 days ago
-  </span>
   - Convert a string to a title case.
+  <sup>
+   90 GitHub links in total 98 links, ★ 7, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dodo/node-slug">
    node-slug
   </a>
-  <span>
-   &#9733 548, pushed 5 days ago
-  </span>
   - slugifies even utf-8 chars.
+  <sup>
+   90 GitHub links in total 98 links, ★ 548, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 548, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -317,46 +395,61 @@
   <a href="https://github.com/sindresorhus/pretty-ms">
    pretty-ms
   </a>
-  <span>
-   &#9733 172, pushed 171 days ago
-  </span>
   - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+  <sup>
+   90 GitHub links in total 98 links, ★ 172, pushed 171 days ago
+  </sup>
+  <sup>
+   &#9733 172, pushed 171 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/seriousManual/hirestime">
    hirestime
   </a>
-  <span>
-   &#9733 2, pushed 34 days ago
-  </span>
   - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timruffles/periods">
    periods
   </a>
-  <span>
-   &#9733 1, pushed 468 days ago
-  </span>
   - Defined time-periods constants for Javascript, in milliseconds.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 468 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 468 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/taylorhakes/fecha">
    fecha
   </a>
-  <span>
-   &#9733 539, pushed 14 days ago
-  </span>
   - Javascript Date formatting and parsing.
+  <sup>
+   90 GitHub links in total 98 links, ★ 539, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 539, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jucrouzet/akamai-time-reference">
    akamai-time-reference
   </a>
-  <span>
-   &#9733 0, pushed 97 days ago
-  </span>
   - Get reference time using Akamai's time reference service.
+  <sup>
+   90 GitHub links in total 98 links, ★ 0, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 97 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -367,174 +460,228 @@
   <a href="https://github.com/sindresorhus/map-obj">
    map-obj
   </a>
-  <span>
-   &#9733 18, pushed 118 days ago
-  </span>
   - Map object keys and values into a new object.
+  <sup>
+   90 GitHub links in total 98 links, ★ 18, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/filter-obj">
    filter-obj
   </a>
-  <span>
-   &#9733 15, pushed 120 days ago
-  </span>
   - Filter object keys and values into a new object.
+  <sup>
+   90 GitHub links in total 98 links, ★ 15, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/object-values">
    object-values
   </a>
-  <span>
-   &#9733 9, pushed 69 days ago
-  </span>
   - Get the values of an object.
+  <sup>
+   90 GitHub links in total 98 links, ★ 9, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 69 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eush77/object-pairs">
    object-pairs
   </a>
-  <span>
-   &#9733 2, pushed 344 days ago
-  </span>
   - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2, pushed 344 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 344 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/landau/zipmap">
    zipmap
   </a>
-  <span>
-   &#9733 4, pushed 524 days ago
-  </span>
   - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
+  <sup>
+   90 GitHub links in total 98 links, ★ 4, pushed 524 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 524 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jarofghosts/just-pluck">
    just-pluck
   </a>
-  <span>
-   &#9733 3, pushed 101 days ago
-  </span>
   - Pluck without the madness.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 101 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/node-deep-equal">
    deep-equal
   </a>
-  <span>
-   &#9733 124, pushed 29 days ago
-  </span>
   - Node's assert.deepEqual() algorithm as a standalone module.
+  <sup>
+   90 GitHub links in total 98 links, ★ 124, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 124, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/deep-assign">
    deep-assign
   </a>
-  <span>
-   &#9733 99, pushed 26 days ago
-  </span>
   - Recursive Object.assign().
+  <sup>
+   90 GitHub links in total 98 links, ★ 99, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/set-value">
    set-value
   </a>
-  <span>
-   &#9733 10, pushed 105 days ago
-  </span>
   - Create nested values and any intermediaries dot notation (
   <code>
    'a.b.c'
   </code>
   ) paths.
+  <sup>
+   90 GitHub links in total 98 links, ★ 10, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 105 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/get-value">
    get-value
   </a>
-  <span>
-   &#9733 17, pushed 37 days ago
-  </span>
   - Use property paths (a.b.c) to get a nested value from an object.
+  <sup>
+   90 GitHub links in total 98 links, ★ 17, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/has-value">
    has-value
   </a>
-  <span>
-   &#9733 3, pushed 37 days ago
-  </span>
   - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (
   <code>
    'a.b.c'
   </code>
   ) paths.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanaghdam/has-key-deep">
    has-key-deep
   </a>
-  <span>
-   &#9733 1, pushed 50 days ago
-  </span>
   - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ricardobeat/flatkeys">
    flatkeys
   </a>
-  <span>
-   &#9733 3, pushed 1027 days ago
-  </span>
   - Flatten object key hierarchies into a list of strings using a custom separator.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 1027 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 1027 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/watson/flatten-obj">
    flatten-obj
   </a>
-  <span>
-   &#9733 5, pushed 84 days ago
-  </span>
   - Converts an object literal with deeply nested nodes to a simple key/value object.
+  <sup>
+   90 GitHub links in total 98 links, ★ 5, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gummesson/is-empty-object">
    is-empty-object
   </a>
-  <span>
-   &#9733 9, pushed 225 days ago
-  </span>
   - Check if an object is empty.
+  <sup>
+   90 GitHub links in total 98 links, ★ 9, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yeoman/stringify-object">
    stringify-object
   </a>
-  <span>
-   &#9733 105, pushed 45 days ago
-  </span>
   - Stringify an object/array like JSON.stringify just without all the double-quotes.
+  <sup>
+   90 GitHub links in total 98 links, ★ 105, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/domenic/sorted-object">
    sorted-object
   </a>
-  <span>
-   &#9733 16, pushed 51 days ago
-  </span>
   - Returns a copy of an object with its keys sorted.
+  <sup>
+   90 GitHub links in total 98 links, ★ 16, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fibo/static-props">
    static-props
   </a>
-  <span>
-   &#9733 1, pushed 18 days ago
-  </span>
   - Defines static object attributes using
   <code>
    Object.defineProperties
   </code>
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -545,55 +692,73 @@
   <a href="https://github.com/stoeffel/compose-function">
    compose-function
   </a>
-  <span>
-   &#9733 14, pushed 211 days ago
-  </span>
   - Compose a new function from smaller functions `f(g(x)).
+  <sup>
+   90 GitHub links in total 98 links, ★ 14, pushed 211 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dominictarr/curry">
    curry
   </a>
-  <span>
-   &#9733 190, pushed 64 days ago
-  </span>
   - A curry function without anything too clever.
+  <sup>
+   90 GitHub links in total 98 links, ★ 190, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 190, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isaacs/once">
    once
   </a>
-  <span>
-   &#9733 89, pushed 72 days ago
-  </span>
   - Run a function exactly one time.
+  <sup>
+   90 GitHub links in total 98 links, ★ 89, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/deep-bind">
    deep-bind
   </a>
-  <span>
-   &#9733 5, pushed 68 days ago
-  </span>
   - Bind a context to all functions in an object, including deeply nested functions.
+  <sup>
+   90 GitHub links in total 98 links, ★ 5, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/identity-function">
    identity-function
   </a>
-  <span>
-   &#9733 5, pushed 153 days ago
-  </span>
   - Always return the input argument.
+  <sup>
+   90 GitHub links in total 98 links, ★ 5, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 154 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/mem">
    mem
   </a>
-  <span>
-   &#9733 175, pushed 91 days ago
-  </span>
   - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+  <sup>
+   90 GitHub links in total 98 links, ★ 175, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 175, pushed 91 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -604,14 +769,17 @@
   <a href="https://github.com/jonschlinkert/is-number">
    is-number
   </a>
-  <span>
-   &#9733 9, pushed 163 days ago
-  </span>
   - Returns
   <code>
    true
   </code>
   if the value is a number.
+  <sup>
+   90 GitHub links in total 98 links, ★ 9, pushed 163 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 163 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -622,64 +790,85 @@
   <a href="https://github.com/rvagg/through2">
    through2
   </a>
-  <span>
-   &#9733 784, pushed 85 days ago
-  </span>
   - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+  <sup>
+   90 GitHub links in total 98 links, ★ 784, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 784, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brycebaril/through2-filter">
    through2-filter
   </a>
-  <span>
-   &#9733 12, pushed 321 days ago
-  </span>
   - A through2 to create an Array.prototype.filter analog for streams.
+  <sup>
+   90 GitHub links in total 98 links, ★ 12, pushed 321 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 321 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brycebaril/through2-map">
    through2-map
   </a>
-  <span>
-   &#9733 39, pushed 321 days ago
-  </span>
   - A through2 to create an Array.prototype.map analog for streams.
+  <sup>
+   90 GitHub links in total 98 links, ★ 39, pushed 321 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 321 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brycebaril/node-stream-spigot">
    stream-spigot
   </a>
-  <span>
-   &#9733 13, pushed 466 days ago
-  </span>
   - A readable stream generator, useful for testing or converting simple functions into Readable streams.
+  <sup>
+   90 GitHub links in total 98 links, ★ 13, pushed 466 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 466 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/maxogden/concat-stream">
    concat-stream
   </a>
-  <span>
-   &#9733 330, pushed 12 days ago
-  </span>
   - writable stream that concatenates strings or data and calls a callback with the result.
+  <sup>
+   90 GitHub links in total 98 links, ★ 330, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 330, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dominictarr/JSONStream">
    JSONStream
   </a>
-  <span>
-   &#9733 962, pushed 62 days ago
-  </span>
   - streaming JSON.parse and stringify
+  <sup>
+   90 GitHub links in total 98 links, ★ 962, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 962, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RangerMauve/through2-map-promise">
    through2-map-promise
   </a>
-  <span>
-   &#9733 0, pushed 70 days ago
-  </span>
   - A small promise-based wrapper for through2.
+  <sup>
+   90 GitHub links in total 98 links, ★ 0, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -690,41 +879,53 @@
   <a href="https://github.com/sindresorhus/pify">
    pify
   </a>
-  <span>
-   &#9733 162, pushed 16 days ago
-  </span>
   - Promisify a callback-style function.
+  <sup>
+   90 GitHub links in total 98 links, ★ 162, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 162, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Siilwyn/promise-all-props">
    promise-all-props
   </a>
-  <span>
-   &#9733 1, pushed 4 days ago
-  </span>
   - Like
   <code>
    Promise.all
   </code>
   but for object properties.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brummelte/sleep-promise">
    sleep-promise
   </a>
-  <span>
-   &#9733 7, pushed 48 days ago
-  </span>
   - Resolves a promise after a specified delay.
+  <sup>
+   90 GitHub links in total 98 links, ★ 7, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/then/is-promise">
    is-promise
   </a>
-  <span>
-   &#9733 22, pushed 132 days ago
-  </span>
   - Test whether an object looks like a promises-a+ promise.
+  <sup>
+   90 GitHub links in total 98 links, ★ 22, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 132 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -735,55 +936,73 @@
   <a href="https://github.com/isaacs/rimraf">
    rimraf
   </a>
-  <span>
-   &#9733 914, pushed 24 days ago
-  </span>
   - A deep deletion module for node (like rm -rf).
+  <sup>
+   90 GitHub links in total 98 links, ★ 914, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 914, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/node-mkdirp">
    mkdirp
   </a>
-  <span>
-   &#9733 951, pushed 77 days ago
-  </span>
   - Recursively mkdir, like mkdir -p.
+  <sup>
+   90 GitHub links in total 98 links, ★ 951, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 951, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rvagg/node-du">
    du
   </a>
-  <span>
-   &#9733 13, pushed 790 days ago
-  </span>
   - A simple JavaScript implementation of du -sb.
+  <sup>
+   90 GitHub links in total 98 links, ★ 13, pushed 790 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 790 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Nijikokun/file-size">
    file-size
   </a>
-  <span>
-   &#9733 168, pushed 394 days ago
-  </span>
   - Lightweight filesize to human-readable / proportions w/o dependencies.
+  <sup>
+   90 GitHub links in total 98 links, ★ 168, pushed 394 days ago
+  </sup>
+  <sup>
+   &#9733 168, pushed 394 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raszi/node-tmp">
    tmp
   </a>
-  <span>
-   &#9733 186, pushed 21 days ago
-  </span>
   - Temporary file and directory creator for node.js.
+  <sup>
+   90 GitHub links in total 98 links, ★ 186, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 186, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kevinbeaty/fs-promise">
    fs-promise
   </a>
-  <span>
-   &#9733 55, pushed 63 days ago
-  </span>
   - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
+  <sup>
+   90 GitHub links in total 98 links, ★ 55, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 63 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -794,28 +1013,37 @@
   <a href="https://github.com/zenorocha/delegate">
    delegate
   </a>
-  <span>
-   &#9733 31, pushed 112 days ago
-  </span>
   - Lightweight event delegation.
+  <sup>
+   90 GitHub links in total 98 links, ★ 31, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/substack/insert-css">
    insert-css
   </a>
-  <span>
-   &#9733 125, pushed 165 days ago
-  </span>
   - Insert a string of css into the head
+  <sup>
+   90 GitHub links in total 98 links, ★ 125, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 165 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crysalead-js/dom-element-value">
    dom-element-value
   </a>
-  <span>
-   &#9733 2, pushed 349 days ago
-  </span>
   - DOM element value getter/setter.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2, pushed 349 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 349 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -826,28 +1054,37 @@
   <a href="https://github.com/npm/node-semver">
    semver
   </a>
-  <span>
-   &#9733 1215, pushed 27 days ago
-  </span>
   - The semantic version parser used by npm.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1215, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 1215, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eush77/semver-max">
    semver-max
   </a>
-  <span>
-   &#9733 1, pushed 288 days ago
-  </span>
   - Find maximum (or minimum) version according to semver.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 288 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 288 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/parro-it/semver-first-satisfied">
    semver-first-satisfied
   </a>
-  <span>
-   &#9733 3, pushed 95 days ago
-  </span>
   - Find minimum in an array of version that satisfies a semver range.
+  <sup>
+   90 GitHub links in total 98 links, ★ 3, pushed 95 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 95 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -858,28 +1095,37 @@
   <a href="https://github.com/isaacs/abbrev-js">
    abbrev
   </a>
-  <span>
-   &#9733 83, pushed 15 days ago
-  </span>
   - Calculate the set of unique abbreviations for a given set of strings.
+  <sup>
+   90 GitHub links in total 98 links, ★ 83, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isaacs/node-glob">
    glob
   </a>
-  <span>
-   &#9733 2122, pushed 11 days ago
-  </span>
   - Glob functionality for node.js.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2122, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 2122, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/username">
    username
   </a>
-  <span>
-   &#9733 33, pushed 38 days ago
-  </span>
   - Get the username of the current user.
+  <sup>
+   90 GitHub links in total 98 links, ★ 33, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 38 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -890,19 +1136,25 @@
   <a href="https://github.com/sindresorhus/pkg-conf">
    pkg-conf
   </a>
-  <span>
-   &#9733 25, pushed 26 days ago
-  </span>
   - Get namespaced config from the closest package.json.
+  <sup>
+   90 GitHub links in total 98 links, ★ 25, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/normalize-pkg">
    normalize-pkg
   </a>
-  <span>
-   &#9733 6, pushed 6 days ago
-  </span>
   - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
+  <sup>
+   90 GitHub links in total 98 links, ★ 6, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -913,10 +1165,13 @@
   <a href="https://github.com/blakeembrey/is-generator">
    is-generator
   </a>
-  <span>
-   &#9733 6, pushed 35 days ago
-  </span>
   - Check whether a given value is a generator function.
+  <sup>
+   90 GitHub links in total 98 links, ★ 6, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -927,32 +1182,41 @@
   <a href="https://github.com/broofa/node-uuid">
    node-uuid
   </a>
-  <span>
-   &#9733 2892, pushed 53 days ago
-  </span>
   - Generate RFC-compliant UUIDs in JavaScript.
+  <sup>
+   90 GitHub links in total 98 links, ★ 2892, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 2892, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/broofa/node-mime">
    node-mime
   </a>
-  <span>
-   &#9733 713, pushed 5 days ago
-  </span>
   - Comprehensive MIME type mapping API based on mime-db module.
+  <sup>
+   90 GitHub links in total 98 links, ★ 713, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 713, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fibo/not-defined">
    not-defined
   </a>
-  <span>
-   &#9733 1, pushed 88 days ago
-  </span>
   - Is a shortcut to
   <code>
    typeof foo === 'undefined'
   </code>
   .
+  <sup>
+   90 GitHub links in total 98 links, ★ 1, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 88 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -966,19 +1230,25 @@
   <a href="https://github.com/sindresorhus/awesome-nodejs">
    awesome-nodejs
   </a>
-  <span>
-   &#9733 11353, pushed 1 days ago
-  </span>
   - A curated list of delightful Node.js packages and resources.
+  <sup>
+   90 GitHub links in total 98 links, ★ 11353, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 11353, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome-npm">
    awesome-npm
   </a>
-  <span>
-   &#9733 1710, pushed 11 days ago
-  </span>
   - Awesome npm resources and tips.
+  <sup>
+   90 GitHub links in total 98 links, ★ 1710, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1710, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>

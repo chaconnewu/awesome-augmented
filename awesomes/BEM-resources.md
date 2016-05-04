@@ -260,9 +260,12 @@
   <a href="https://github.com/postcss/postcss-bem-linter">
    PostCSS BEM Linter
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 54 links, ★ 227, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 227, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -276,17 +279,23 @@
   <a href="https://github.com/danielguillan/bem-constructor">
    BEM Constructor
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 54 links, ★ 312, pushed 65 days ago
+  </sup>
+  <sup>
    &#9733 312, pushed 65 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/roikles/Wordpress-Bem-Menu">
    WordPress BEM Menu
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 54 links, ★ 54, pushed 75 days ago
+  </sup>
+  <sup>
    &#9733 54, pushed 75 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bem-incubator/bem-grid">
@@ -345,8 +354,11 @@
   <a href="https://github.com/sindresorhus/awesome">
    A curated list of awesome lists - @sindresorhus
   </a>
-  <span>
+  <sup>
+   5 GitHub links in total 54 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 34522, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>

@@ -197,10 +197,13 @@
   <a href="https://github.com/akwiatkowski/crystal_api">
    crystal_api
   </a>
-  <span>
-   &#9733 21, pushed 8 days ago
-  </span>
   - Simple PostgreSQL REST API with Rails devise-like auth
+  <sup>
+   114 GitHub links in total 162 links, ★ 21, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -211,19 +214,25 @@
   <a href="https://github.com/greyblake/crystal-bloom_filter">
    Bloom Filter
   </a>
-  <span>
-   &#9733 9, pushed 84 days ago
-  </span>
   - Implementation of Bloom filter
+  <sup>
+   114 GitHub links in total 162 links, ★ 9, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/comandeo/crystal-memcached">
    crystal-memcached
   </a>
-  <span>
-   &#9733 10, pushed 219 days ago
-  </span>
   - Implementation of a memcached client
+  <sup>
+   114 GitHub links in total 162 links, ★ 10, pushed 219 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 219 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -234,32 +243,41 @@
   <a href="https://github.com/meskyanichi/commander">
    commander
   </a>
-  <span>
-   &#9733 27, pushed 11 days ago
-  </span>
   - Command-line interface builder
+  <sup>
+   114 GitHub links in total 162 links, ★ 27, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/f/completion">
    completion
   </a>
-  <span>
-   &#9733 25, pushed 124 days ago
-  </span>
   - Easy command line completion engine
+  <sup>
+   114 GitHub links in total 162 links, ★ 25, pushed 124 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 124 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chenkovsky/docopt.cr">
    docopt
   </a>
-  <span>
-   &#9733 4, pushed 10 days ago
-  </span>
   - A
   <a href="http://docopt.org">
    docopt.org
   </a>
   port
+  <sup>
+   114 GitHub links in total 162 links, ★ 4, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -270,23 +288,29 @@
   <a href="https://github.com/vjdhama/ambience">
    ambience
   </a>
-  <span>
-   &#9733 5, pushed 2 days ago
-  </span>
   - Simple app configuration using
   <code>
    ENV
   </code>
   .
+  <sup>
+   114 GitHub links in total 162 links, ★ 5, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/crystal-toml">
    crystal-toml
   </a>
-  <span>
-   &#9733 13, pushed 21 days ago
-  </span>
   - TOML parser
+  <sup>
+   114 GitHub links in total 162 links, ★ 13, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -297,10 +321,13 @@
   <a href="https://github.com/askn/faker">
    faker
   </a>
-  <span>
-   &#9733 33, pushed 36 days ago
-  </span>
   - A library for generating fake data
+  <sup>
+   114 GitHub links in total 162 links, ★ 33, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scidom/random.cr">
@@ -317,55 +344,73 @@
   <a href="https://github.com/waterlink/crystal-mysql">
    crystal-mysql
   </a>
-  <span>
-   &#9733 31, pushed 31 days ago
-  </span>
   - Basic MySQL bindings
+  <sup>
+   114 GitHub links in total 162 links, ★ 31, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/will/crystal-pg">
    crystal-pg
   </a>
-  <span>
-   &#9733 85, pushed 2 days ago
-  </span>
   - A Postgres driver
+  <sup>
+   114 GitHub links in total 162 links, ★ 85, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 85, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stefanwille/crystal-redis">
    crystal-redis
   </a>
-  <span>
-   &#9733 91, pushed 14 days ago
-  </span>
   - Full featured Redis client
+  <sup>
+   114 GitHub links in total 162 links, ★ 91, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/crystal-sqlite3">
    crystal-sqlite3
   </a>
-  <span>
-   &#9733 27, pushed 21 days ago
-  </span>
   - SQLite3 bindings
+  <sup>
+   114 GitHub links in total 162 links, ★ 27, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/influxdb.cr">
    influxdb.cr
   </a>
-  <span>
-   &#9733 7, pushed 41 days ago
-  </span>
   - InfluxDB driver
+  <sup>
+   114 GitHub links in total 162 links, ★ 7, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/datanoise/mongo.cr">
    mongo.cr
   </a>
-  <span>
-   &#9733 26, pushed 49 days ago
-  </span>
   - Binding for MongoDB C driver
+  <sup>
+   114 GitHub links in total 162 links, ★ 26, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 49 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -387,67 +432,88 @@
   <a href="https://github.com/luislavena/beryl">
    beryl
   </a>
-  <span>
-   &#9733 15, pushed 106 days ago
-  </span>
   - Action-focused HTTP routing library
+  <sup>
+   114 GitHub links in total 162 links, ★ 15, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/porras/crul">
    crul
   </a>
-  <span>
-   &#9733 65, pushed 84 days ago
-  </span>
   - Command line HTTP client
+  <sup>
+   114 GitHub links in total 162 links, ★ 65, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Sdogruyol/cryload">
    cryload
   </a>
-  <span>
-   &#9733 76, pushed 23 days ago
-  </span>
   - HTTP benchmarking tool
+  <sup>
+   114 GitHub links in total 162 links, ★ 76, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bcardiff/crystal-routing">
    crystal-routing
   </a>
-  <span>
-   &#9733 13, pushed 222 days ago
-  </span>
   - Extensible library to deal with http request and string based routing
+  <sup>
+   114 GitHub links in total 162 links, ★ 13, pushed 222 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 222 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EvanHahn/crystal-helmet">
    helmet
   </a>
-  <span>
-   &#9733 2, pushed 23 days ago
-  </span>
   - Set security-related HTTP headers
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kostya/http_parser.cr">
    http_parser.cr
   </a>
-  <span>
-   &#9733 10, pushed 19 days ago
-  </span>
   - Wrapper for
   <a href="https://github.com/nodejs/http-parser">
    Http Parser lib
   </a>
+  <sup>
+   114 GitHub links in total 162 links, ★ 10, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/karupanerura/router-simple.cr">
    router-simple.cr
   </a>
-  <span>
-   &#9733 5, pushed 193 days ago
-  </span>
   - Simple path router
+  <sup>
+   114 GitHub links in total 162 links, ★ 5, pushed 193 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 193 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/porras/session.git">
@@ -464,10 +530,13 @@
   <a href="https://github.com/rhysd/Crisp">
    crisp
   </a>
-  <span>
-   &#9733 12, pushed 100 days ago
-  </span>
   - Lisp dialect implemented with Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 12, pushed 100 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 100 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/crystal">
@@ -484,234 +553,309 @@
   <a href="https://github.com/veelenga/aasm.cr">
    aasm.cr
   </a>
-  <span>
-   &#9733 9, pushed 63 days ago
-  </span>
   - Easy to use finite state machine for Crystal classes
+  <sup>
+   114 GitHub links in total 162 links, ★ 9, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ysbaddaden/artanis">
    artanis
   </a>
-  <span>
-   &#9733 24, pushed 10 days ago
-  </span>
   - Sinatra-like DSL for the Crystal language (abusing macros)
+  <sup>
+   114 GitHub links in total 162 links, ★ 24, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/azukiapp/crystal-chalk-box">
    chalk-box
   </a>
-  <span>
-   &#9733 2, pushed 14 days ago
-  </span>
   - Terminal color toolbox, check support and colorized (without String monkey patch)
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rhysd/crdoc">
    crdoc
   </a>
-  <span>
-   &#9733 2, pushed 101 days ago
-  </span>
   - CLI tool to search and open documentation
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 101 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kostya/cron_scheduler">
    cron_scheduler
   </a>
-  <span>
-   &#9733 11, pushed 181 days ago
-  </span>
   - Job scheduler with crontab patterns
+  <sup>
+   114 GitHub links in total 162 links, ★ 11, pushed 181 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 181 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MakeNowJust/crystal-diff">
    crystal-diff
   </a>
-  <span>
-   &#9733 9, pushed 102 days ago
-  </span>
   - A Crystal sequence differencing implementation
+  <sup>
+   114 GitHub links in total 162 links, ★ 9, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 102 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dhruvrajvanshi/crystal-futures">
    crystal-futures
   </a>
-  <span>
-   &#9733 23, pushed 86 days ago
-  </span>
   - Future type implementation
+  <sup>
+   114 GitHub links in total 162 links, ★ 23, pushed 86 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/whity/crystal-i18n">
    crystal-i18n
   </a>
-  <span>
-   &#9733 6, pushed 34 days ago
-  </span>
   - Internationalization library
+  <sup>
+   114 GitHub links in total 162 links, ★ 6, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spalger/crystal-mime">
    crystal-mime
   </a>
-  <span>
-   &#9733 11, pushed 129 days ago
-  </span>
   - Mimetypes for Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 11, pushed 129 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jtomschroeder/crystalline">
    crystalline
   </a>
-  <span>
-   &#9733 51, pushed 251 days ago
-  </span>
   - A collection of containers and algorithms
+  <sup>
+   114 GitHub links in total 162 links, ★ 51, pushed 251 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 251 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jessedoyle/duktape.cr">
    duktape.cr
   </a>
-  <span>
-   &#9733 29, pushed 18 days ago
-  </span>
   - Bindings for the
   <a href="https://github.com/svaarala/duktape">
    Duktape
   </a>
   javascript engine
+  <sup>
+   114 GitHub links in total 162 links, ★ 29, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/veelenga/emoji.cr">
    emoji.cr
   </a>
-  <span>
-   &#9733 7, pushed 35 days ago
-  </span>
   - Emoji library
+  <sup>
+   114 GitHub links in total 162 links, ★ 7, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/krisleech/evented">
    evented
   </a>
-  <span>
-   &#9733 23, pushed 85 days ago
-  </span>
   - A micro library to publish and subscribe for Crystal objects
+  <sup>
+   114 GitHub links in total 162 links, ★ 23, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/f/guardian">
    guardian
   </a>
-  <span>
-   &#9733 75, pushed 55 days ago
-  </span>
   - File change watcher for Crystal and Non-Crystal libs
+  <sup>
+   114 GitHub links in total 162 links, ★ 75, pushed 55 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 55 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sanata-/haikunator">
    haikunator
   </a>
-  <span>
-   &#9733 2, pushed 33 days ago
-  </span>
   - Heroku-like random name generator
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chenkovsky/heap.cr">
    heap.cr
   </a>
-  <span>
-   &#9733 0, pushed 32 days ago
-  </span>
   - Implementation of head data structure
+  <sup>
+   114 GitHub links in total 162 links, ★ 0, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crystal-lang/html_builder">
    html_builder
   </a>
-  <span>
-   &#9733 8, pushed 11 days ago
-  </span>
   - DSL for creating HTML
+  <sup>
+   114 GitHub links in total 162 links, ★ 8, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lucaong/immutable">
    immutable
   </a>
-  <span>
-   &#9733 45, pushed 37 days ago
-  </span>
   - Implementation of thread-safe, persistent, immutable collections
+  <sup>
+   114 GitHub links in total 162 links, ★ 45, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 45, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/f/lambda.cr">
    lambda.cr
   </a>
-  <span>
-   &#9733 18, pushed 38 days ago
-  </span>
   - Uniformed function call syntax
+  <sup>
+   114 GitHub links in total 162 links, ★ 18, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dkhofer/primes">
    primes
   </a>
-  <span>
-   &#9733 2, pushed 7 days ago
-  </span>
   - Library for testing if a number is prime and finding its prime factorization
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/askn/progress">
    progress
   </a>
-  <span>
-   &#9733 58, pushed 129 days ago
-  </span>
   - [==..] Progress bar
+  <sup>
+   114 GitHub links in total 162 links, ★ 58, pushed 129 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/askn/spinner">
    spinner
   </a>
-  <span>
-   &#9733 26, pushed 125 days ago
-  </span>
   - Terminal Spinner
+  <sup>
+   114 GitHub links in total 162 links, ★ 26, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kubo39/syscall.cr">
    syscall.cr
   </a>
-  <span>
-   &#9733 8, pushed 59 days ago
-  </span>
   - Raw syscall interface
+  <sup>
+   114 GitHub links in total 162 links, ★ 8, pushed 59 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 59 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andrewsuzuki/termbox-crystal">
    termbox-crystal
   </a>
-  <span>
-   &#9733 3, pushed 23 days ago
-  </span>
   - Bindings and extension library for
   <a href="https://github.com/nsf/termbox">
    termbox
   </a>
   (terminal UI library)
+  <sup>
+   114 GitHub links in total 162 links, ★ 3, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/datanoise/zlib.cr">
    zlib.cr
   </a>
-  <span>
-   &#9733 6, pushed 196 days ago
-  </span>
   - Bindings for ZLib library
+  <sup>
+   114 GitHub links in total 162 links, ★ 6, pushed 196 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 197 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -722,14 +866,17 @@
   <a href="https://github.com/BlaXpirit/crsfml">
    crsfml
   </a>
-  <span>
-   &#9733 57, pushed 13 days ago
-  </span>
   - Crystal bindings to
   <a href="http://www.sfml-dev.org/">
    Simple and Fast Multimedia Library
   </a>
   (through CSFML)
+  <sup>
+   114 GitHub links in total 162 links, ★ 57, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 13 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -740,46 +887,61 @@
   <a href="https://github.com/datanoise/amqp.cr">
    amqp.cr
   </a>
-  <span>
-   &#9733 11, pushed 102 days ago
-  </span>
   - AMQP 0.9.1 client with RabbitMQ extensions
+  <sup>
+   114 GitHub links in total 162 links, ★ 11, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 102 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/bson.cr">
    bson.cr
   </a>
-  <span>
-   &#9733 3, pushed 63 days ago
-  </span>
   - Native BSON implementation
+  <sup>
+   114 GitHub links in total 162 links, ★ 3, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/greyblake/crystal-jwt">
    jwt
   </a>
-  <span>
-   &#9733 17, pushed 93 days ago
-  </span>
   - Implementation of JWT (JSON Web Token)
+  <sup>
+   114 GitHub links in total 162 links, ★ 17, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 93 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benoist/msgpack-crystal">
    msgpack-crystal
   </a>
-  <span>
-   &#9733 24, pushed 4 days ago
-  </span>
   - MessagePack library
+  <sup>
+   114 GitHub links in total 162 links, ★ 24, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/datanoise/ssh2.cr">
    ssh2.cr
   </a>
-  <span>
-   &#9733 14, pushed 5 days ago
-  </span>
   - Library that provides binding for libssh2 library
+  <sup>
+   114 GitHub links in total 162 links, ★ 14, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -790,19 +952,25 @@
   <a href="https://github.com/waterlink/active_record.cr">
    active_record.cr
   </a>
-  <span>
-   &#9733 79, pushed 31 days ago
-  </span>
   - Active Record pattern implementation
+  <sup>
+   114 GitHub links in total 162 links, ★ 79, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 79, pushed 31 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/drujensen/amethyst-model">
    amethyst-model
   </a>
-  <span>
-   &#9733 7, pushed 75 days ago
-  </span>
   - ORM Model for the Amethyst Framework
+  <sup>
+   114 GitHub links in total 162 links, ★ 7, pushed 75 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 75 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -824,10 +992,13 @@
   <a href="https://github.com/generate-cr/generate">
    generate
   </a>
-  <span>
-   &#9733 16, pushed 388 days ago
-  </span>
   - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+  <sup>
+   114 GitHub links in total 162 links, ★ 16, pushed 388 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 388 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -838,10 +1009,13 @@
   <a href="https://github.com/Ragmaanir/soegen">
    soegen
   </a>
-  <span>
-   &#9733 4, pushed 37 days ago
-  </span>
   - Elasticsearch client for Crystal similar to the stretcher gem for ruby
+  <sup>
+   114 GitHub links in total 162 links, ★ 4, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 38 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -852,10 +1026,13 @@
   <a href="https://github.com/datanoise/openssl.cr">
    openssl.cr
   </a>
-  <span>
-   &#9733 11, pushed 77 days ago
-  </span>
   - Bindings for OpenSSL library
+  <sup>
+   114 GitHub links in total 162 links, ★ 11, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 77 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -866,19 +1043,25 @@
   <a href="https://github.com/MakeNowJust/crake">
    crake
   </a>
-  <span>
-   &#9733 23, pushed 30 days ago
-  </span>
   - Rake-like build utility library. It is just a library, so it does not provide CLI
+  <sup>
+   114 GitHub links in total 162 links, ★ 23, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adlerhsieh/lake">
    lake
   </a>
-  <span>
-   &#9733 6, pushed 188 days ago
-  </span>
   - Rake-like task management for Crystal programs
+  <sup>
+   114 GitHub links in total 162 links, ★ 6, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 188 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -889,50 +1072,65 @@
   <a href="https://github.com/samsheff/Bunny">
    Bunny
   </a>
-  <span>
-   &#9733 9, pushed 367 days ago
-  </span>
   - A simple HTML templating language for Crystal, same syntax as erb
+  <sup>
+   114 GitHub links in total 162 links, ★ 9, pushed 367 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 367 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MakeNowJust/crustache">
    crustache
   </a>
-  <span>
-   &#9733 21, pushed 40 days ago
-  </span>
   -
   <a href="https://mustache.github.io">
    {{Mustache}}
   </a>
   for Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 21, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/kilt">
    Kilt
   </a>
-  <span>
-   &#9733 14, pushed 39 days ago
-  </span>
   - Abstraction layer for template engines.
+  <sup>
+   114 GitHub links in total 162 links, ★ 14, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/slang">
    Slang
   </a>
-  <span>
-   &#9733 29, pushed 27 days ago
-  </span>
   - Lightweight, terse, templating language inspired by Ruby's Slim.
+  <sup>
+   114 GitHub links in total 162 links, ★ 29, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/f/temel">
    temel
   </a>
-  <span>
-   &#9733 25, pushed 119 days ago
-  </span>
   - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
+  <sup>
+   114 GitHub links in total 162 links, ★ 25, pushed 119 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 119 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -943,72 +1141,90 @@
   <a href="https://github.com/emancu/crotest">
    crotest
   </a>
-  <span>
-   &#9733 1, pushed 26 days ago
-  </span>
   - A tiny and simple test framework
+  <sup>
+   114 GitHub links in total 162 links, ★ 1, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fixcr/matchi">
    matchi
   </a>
-  <span>
-   &#9733 0, pushed 210 days ago
-  </span>
   - Collection of expectation matchers
+  <sup>
+   114 GitHub links in total 162 links, ★ 0, pushed 210 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 210 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ysbaddaden/minitest.cr">
    minitest.cr
   </a>
-  <span>
-   &#9733 22, pushed 11 days ago
-  </span>
   - Library for unit tests and assertions
+  <sup>
+   114 GitHub links in total 162 links, ★ 22, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/porras/mock">
    mock
   </a>
-  <span>
-   &#9733 4, pushed 86 days ago
-  </span>
   - Mocking library, inspired by the API of rspec-mocks
+  <sup>
+   114 GitHub links in total 162 links, ★ 4, pushed 86 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 86 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/waterlink/mocks.cr">
    mocks.cr
   </a>
-  <span>
-   &#9733 11, pushed 36 days ago
-  </span>
   - Mocking library for Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 11, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rosylilly/power_assert.cr">
    power_assert.cr
   </a>
-  <span>
-   &#9733 34, pushed 26 days ago
-  </span>
   - Powerful assertion for Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 34, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/waterlink/spec2.cr">
    spec2.cr
   </a>
-  <span>
-   &#9733 32, pushed 11 days ago
-  </span>
   - Enhanced testing library
+  <sup>
+   114 GitHub links in total 162 links, ★ 32, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/waterlink/timecop.cr">
    timecop.cr
   </a>
-  <span>
-   &#9733 7, pushed 307 days ago
-  </span>
   - Library for mocking with
   <code>
    Time.now
@@ -1017,19 +1233,28 @@
   <a href="https://github.com/travisjeffery/timecop">
    timecop ruby gem
   </a>
+  <sup>
+   114 GitHub links in total 162 links, ★ 7, pushed 307 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 307 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/webmock.cr">
    webmock.cr
   </a>
-  <span>
-   &#9733 16, pushed 3 days ago
-  </span>
   - Library for stubbing
   <code>
    HTTP::Client
   </code>
   requests
+  <sup>
+   114 GitHub links in total 162 links, ★ 16, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1040,49 +1265,64 @@
   <a href="https://github.com/kyrylo/airbrake-crystal">
    airbrake-crystal
   </a>
-  <span>
-   &#9733 6, pushed 223 days ago
-  </span>
   - A Crystal notifier for
   <a href="https://airbrake.io">
    Airbrake
   </a>
+  <sup>
+   114 GitHub links in total 162 links, ★ 6, pushed 223 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davydovanton/AnyBar_cr">
    AnyBar_cr
   </a>
-  <span>
-   &#9733 3, pushed 42 days ago
-  </span>
   - Simple crystal wrapper for AnyBar library
+  <sup>
+   114 GitHub links in total 162 links, ★ 3, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/crystal_brium">
    crystal_brium
   </a>
-  <span>
-   &#9733 1, pushed 21 days ago
-  </span>
   - Access Brium's API using Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 1, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/manastech/crystal_slack">
    crystal_slack
   </a>
-  <span>
-   &#9733 3, pushed 21 days ago
-  </span>
   - A tool that parses Slack slash commands or send incoming web hooks
+  <sup>
+   114 GitHub links in total 162 links, ★ 3, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeromegn/docker.cr">
    docker.cr
   </a>
-  <span>
-   &#9733 6, pushed 44 days ago
-  </span>
   - Docker API client
+  <sup>
+   114 GitHub links in total 162 links, ★ 6, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fridgerator/google_maps_api">
@@ -1092,10 +1332,13 @@
    </em>
    api
   </a>
-  <span>
-   &#9733 1, pushed 36 days ago
-  </span>
   - Google Maps API
+  <sup>
+   114 GitHub links in total 162 links, ★ 1, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fg/gravatar.cr.git">
@@ -1107,46 +1350,61 @@
   <a href="https://github.com/veelenga/shorturl.cr">
    shorturl.cr
   </a>
-  <span>
-   &#9733 5, pushed 63 days ago
-  </span>
   - A library to use URL shortening services
+  <sup>
+   114 GitHub links in total 162 links, ★ 5, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sferik/soundcloud-crystal">
    soundcloud-crystal
   </a>
-  <span>
-   &#9733 7, pushed 305 days ago
-  </span>
   - A library to access the SoundCloud API
+  <sup>
+   114 GitHub links in total 162 links, ★ 7, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 305 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marceloboeira/spotify.cr">
    spotify.cr
   </a>
-  <span>
-   &#9733 18, pushed 36 days ago
-  </span>
   - A library to access the Spotify API
+  <sup>
+   114 GitHub links in total 162 links, ★ 18, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hangyas/TelegramBot">
    TelegramBot
   </a>
-  <span>
-   &#9733 8, pushed 3 days ago
-  </span>
   - A wrapper for the Telegram Bot API
+  <sup>
+   114 GitHub links in total 162 links, ★ 8, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sferik/twitter-crystal">
    twitter-crystal
   </a>
-  <span>
-   &#9733 43, pushed 105 days ago
-  </span>
   - A library to access the Twitter API
+  <sup>
+   114 GitHub links in total 162 links, ★ 43, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 105 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1157,10 +1415,13 @@
   <a href="https://github.com/ddfreyne/rcpu">
    rcpu
   </a>
-  <span>
-   &#9733 19, pushed 18 days ago
-  </span>
   - A virtual machine emulator and assembler
+  <sup>
+   114 GitHub links in total 162 links, ★ 19, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1171,64 +1432,85 @@
   <a href="https://github.com/werner/amatista">
    amatista
   </a>
-  <span>
-   &#9733 40, pushed 131 days ago
-  </span>
   - A web framework to create quick applications
+  <sup>
+   114 GitHub links in total 162 links, ★ 40, pushed 131 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 131 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Codcore/Amethyst">
    amethyst
   </a>
-  <span>
-   &#9733 326, pushed 178 days ago
-  </span>
   - A Rails inspired web-framework
+  <sup>
+   114 GitHub links in total 162 links, ★ 326, pushed 178 days ago
+  </sup>
+  <sup>
+   &#9733 326, pushed 178 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benoist/carbon-crystal">
    carbon-crystal
   </a>
-  <span>
-   &#9733 33, pushed 19 days ago
-  </span>
   - A framework with Rails in mind
+  <sup>
+   114 GitHub links in total 162 links, ★ 33, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Grabli66/chocolate">
    chocolate
   </a>
-  <span>
-   &#9733 9, pushed 191 days ago
-  </span>
   - Simple web framework and template engine
+  <sup>
+   114 GitHub links in total 162 links, ★ 9, pushed 191 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 191 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ysbaddaden/frost">
    frost
   </a>
-  <span>
-   &#9733 61, pushed 18 days ago
-  </span>
   - Full featured MVC Web Framework, largely inspired by Ruby on Rails
+  <sup>
+   114 GitHub links in total 162 links, ★ 61, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sdogruyol/kemal">
    kemal
   </a>
-  <span>
-   &#9733 624, pushed 15 days ago
-  </span>
   - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+  <sup>
+   114 GitHub links in total 162 links, ★ 624, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 624, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dhruvrajvanshi/Moonshine">
    moonshine
   </a>
-  <span>
-   &#9733 122, pushed 143 days ago
-  </span>
   - A minimal web framework
+  <sup>
+   114 GitHub links in total 162 links, ★ 122, pushed 143 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 143 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1239,28 +1521,37 @@
   <a href="https://github.com/sdogruyol/fast-http-server">
    fast-http-server
   </a>
-  <span>
-   &#9733 60, pushed 52 days ago
-  </span>
   - Super fast, zero configuration command line HTTP Server.
+  <sup>
+   114 GitHub links in total 162 links, ★ 60, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/f/kamber">
    kamber
   </a>
-  <span>
-   &#9733 110, pushed 20 days ago
-  </span>
   - Blog server based on Kemal
+  <sup>
+   114 GitHub links in total 162 links, ★ 110, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ysbaddaden/prax.cr">
    prax.cr
   </a>
-  <span>
-   &#9733 38, pushed 9 days ago
-  </span>
   - Rack proxy server for development
+  <sup>
+   114 GitHub links in total 162 links, ★ 38, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1323,10 +1614,13 @@
   <a href="https://github.com/arktisklada/crank">
    Crank
   </a>
-  <span>
-   &#9733 13, pushed 50 days ago
-  </span>
   - A Procfile-based application manager (like Foreman)
+  <sup>
+   114 GitHub links in total 162 links, ★ 13, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://crystalshards.herokuapp.com/">
@@ -1338,10 +1632,13 @@
   <a href="https://github.com/jhass/DeBot">
    DeBot
   </a>
-  <span>
-   &#9733 21, pushed 25 days ago
-  </span>
   - IRC bot written in Crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 21, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="http://docrystal.org/">
@@ -1353,28 +1650,37 @@
   <a href="https://github.com/askn/fikri">
    fikri
   </a>
-  <span>
-   &#9733 38, pushed 139 days ago
-  </span>
   - Simple CLI To-Do App
+  <sup>
+   114 GitHub links in total 162 links, ★ 38, pushed 139 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 139 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/greyblake/crystal-icr">
    icr
   </a>
-  <span>
-   &#9733 50, pushed 30 days ago
-  </span>
   - Interactive console for Crystal (like IRB for Ruby)
+  <sup>
+   114 GitHub links in total 162 links, ★ 50, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/romeroadrian/nes.cr">
    nes
   </a>
-  <span>
-   &#9733 15, pushed 130 days ago
-  </span>
   - A NES emulator
+  <sup>
+   114 GitHub links in total 162 links, ★ 15, pushed 130 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 130 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/veelenga/vicr.git">
@@ -1394,10 +1700,13 @@
   <a href="https://github.com/vjdhama/crystal-cookbook">
    crystal-cookbook
   </a>
-  <span>
-   &#9733 2, pushed 9 days ago
-  </span>
   - Chef cookbook for installing crystal
+  <sup>
+   114 GitHub links in total 162 links, ★ 2, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1434,12 +1743,15 @@
     <a href="https://github.com/jpellerin/emacs-crystal-mode">
      emacs-crystal-mode
     </a>
-    <span>
-     &#9733 15, pushed 32 days ago
-    </span>
     - Crystal language support for Emacs
    </li>
   </ul>
+  <sup>
+   114 GitHub links in total 162 links, ★ 15, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 32 days ago
+  </sup>
  </li>
  <li>
   Sublime
@@ -1459,20 +1771,26 @@
     <a href="https://github.com/rhysd/vim-crystal">
      vim-crystal
     </a>
-    <span>
-     &#9733 98, pushed 71 days ago
-    </span>
     - Vim filetype support for Crystal
    </li>
    <li>
     <a href="https://github.com/isaacsloan/vim-slang">
      vim-slang
     </a>
-    <span>
-     &#9733 0, pushed 16 days ago
-    </span>
     - Vim filetype support for Slang Templating Engine
+    <sup>
+     114 GitHub links in total 162 links, ★ 0, pushed 16 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 16 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   114 GitHub links in total 162 links, ★ 98, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 71 days ago
+  </sup>
  </li>
 </ul>

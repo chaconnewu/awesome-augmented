@@ -19,85 +19,112 @@
   <a href="https://github.com/unixcharles/refinerycms-copywriting">
    refinerycms-copywriting
   </a>
-  <span>
-   &#9733 55, pushed 70 days ago
-  </span>
   - Write once, display at the infinite
+  <sup>
+   27 GitHub links in total 31 links, ★ 55, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinerycms-contrib/refinerycms-elasticsearch">
    refinerycms-elasticsearch
   </a>
-  <span>
-   &#9733 4, pushed 26 days ago
-  </span>
   - Fulltext search with
   <a href="https://github.com/elastic/elasticsearch-ruby">
    Elasticsearch
   </a>
+  <sup>
+   27 GitHub links in total 31 links, ★ 4, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-image-slideshows">
    refinerycms-image-slideshows
   </a>
-  <span>
-   &#9733 6, pushed 57 days ago
-  </span>
   - Display slideshows
+  <sup>
+   27 GitHub links in total 31 links, ★ 6, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-jobs">
    refinerycms-jobs
   </a>
-  <span>
-   &#9733 4, pushed 27 days ago
-  </span>
   - Job Posting and Job Applications
+  <sup>
+   27 GitHub links in total 31 links, ★ 4, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-products">
    refinerycms-products
   </a>
-  <span>
-   &#9733 4, pushed 83 days ago
-  </span>
   - Display products
+  <sup>
+   27 GitHub links in total 31 links, ★ 4, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-retailers">
    refinerycms-retailers
   </a>
-  <span>
-   &#9733 3, pushed 83 days ago
-  </span>
   - Display retailers
+  <sup>
+   27 GitHub links in total 31 links, ★ 3, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-teams">
    refinerycms-teams
   </a>
-  <span>
-   &#9733 3, pushed 20 days ago
-  </span>
   - Display teams
+  <sup>
+   27 GitHub links in total 31 links, ★ 3, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anitagraham/refinerycms-testimonials">
    refinerycms-testimonials
   </a>
-  <span>
-   &#9733 2, pushed 144 days ago
-  </span>
   - Manage and display testimonials
+  <sup>
+   27 GitHub links in total 31 links, ★ 2, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-videos">
    refinerycms-videos
   </a>
-  <span>
-   &#9733 1, pushed 83 days ago
-  </span>
   - Basic display of Youtube videos
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 83 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -108,58 +135,76 @@
   <a href="https://github.com/jfalameda/refinerycms-dynamicfields">
    refinerycms-dynamicfields
   </a>
-  <span>
-   &#9733 12, pushed 119 days ago
-  </span>
   - Create models dynamically and attach them to pages
+  <sup>
+   27 GitHub links in total 31 links, ★ 12, pushed 119 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/anitagraham/refinerycms-page-resources">
    refinerycms-page-resources
   </a>
-  <span>
-   &#9733 6, pushed 146 days ago
-  </span>
   - Attach resources (files) to a Page
+  <sup>
+   27 GitHub links in total 31 links, ★ 6, pushed 146 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 146 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rabid/refinerycms-redactor">
    refinerycms-redactor
   </a>
-  <span>
-   &#9733 1, pushed 364 days ago
-  </span>
   - WYSIWYG editor with
   <a href="https://imperavi.com/redactor/">
    Redactor
   </a>
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 364 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 364 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bisscomm/refinerycms-resource-categories">
    refinerycms-resource-categories
   </a>
-  <span>
-   &#9733 1, pushed 83 days ago
-  </span>
   - Categorize resources
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cleverlemming/refinerycms-snoods">
    refinerycms-snoods
   </a>
-  <span>
-   &#9733 1, pushed 51 days ago
-  </span>
   - Creating download pages and sending leads to Salesforce
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ghoppe/refinerycms-tinymce">
    refinerycms-tinymce
   </a>
-  <span>
-   &#9733 1, pushed 110 days ago
-  </span>
   - TinyMCE Visual Editing
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 110 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 110 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -173,10 +218,13 @@
   <a href="https://github.com/refinerycms-contrib/solidus-refinery-authentication">
    solidus-refinery-authentication
   </a>
-  <span>
-   &#9733 4, pushed 137 days ago
-  </span>
   - Shared auth between Solidus and Refinery
+  <sup>
+   27 GitHub links in total 31 links, ★ 4, pushed 137 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 137 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -194,19 +242,25 @@
    </em>
    resources
   </a>
-  <span>
-   &#9733 1, pushed 230 days ago
-  </span>
   - Attach resources (files) to a Spree::Product
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 230 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 230 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinerycms-contrib/spree-refinery-authentication">
    spree-refinery-authentication
   </a>
-  <span>
-   &#9733 3, pushed 138 days ago
-  </span>
   - Shared auth between Spree and Refinery
+  <sup>
+   27 GitHub links in total 31 links, ★ 3, pushed 138 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 138 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -245,62 +299,80 @@
   <a href="https://github.com/refinery/refinerycms-authentication-devise">
    refinerycms-authentication-devise
   </a>
-  <span>
-   &#9733 1, pushed 7 days ago
-  </span>
   - Devise based authentication
+  <sup>
+   27 GitHub links in total 31 links, ★ 1, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-blog">
    refinerycms-blog
   </a>
-  <span>
-   &#9733 292, pushed 33 days ago
-  </span>
   - Blog (more features than
   <a href="https://github.com/refinery/refinerycms-news">
    refinerycms-news
   </a>
   )
+  <sup>
+   27 GitHub links in total 31 links, ★ 292, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 292, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-inquiries">
    refinerycms-inquiries
   </a>
-  <span>
-   &#9733 103, pushed 11 days ago
-  </span>
   - Send contact forms
+  <sup>
+   27 GitHub links in total 31 links, ★ 103, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-news">
    refinerycms-news
   </a>
-  <span>
-   &#9733 122, pushed 9 days ago
-  </span>
   - Basic display of news
+  <sup>
+   27 GitHub links in total 31 links, ★ 122, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-portfolio">
    refinerycms-porfolio
   </a>
-  <span>
-   &#9733 129, pushed 96 days ago
-  </span>
   - Display portfolio images
+  <sup>
+   27 GitHub links in total 31 links, ★ 129, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-search">
    refinerycms-search
   </a>
-  <span>
-   &#9733 68, pushed 36 days ago
-  </span>
   - Fulltext search with
   <a href="https://github.com/dougal/acts_as_indexed">
    ActAsIndexed
   </a>
+  <sup>
+   27 GitHub links in total 31 links, ★ 68, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 36 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -311,19 +383,25 @@
   <a href="https://github.com/refinery/refinerycms-page-images">
    refinerycms-page-images
   </a>
-  <span>
-   &#9733 109, pushed 32 days ago
-  </span>
   - Attach images to a Page
+  <sup>
+   27 GitHub links in total 31 links, ★ 109, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 109, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/refinery/refinerycms-settings">
    refinerycms-settings
   </a>
-  <span>
-   &#9733 20, pushed 516 days ago
-  </span>
   - Change settings in the backoffice
+  <sup>
+   27 GitHub links in total 31 links, ★ 20, pushed 516 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 516 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -334,9 +412,12 @@
   <a href="https://github.com/refinery/refinerycms-forms">
    Forms
   </a>
-  <span>
+  <sup>
+   27 GitHub links in total 31 links, ★ 0, pushed 42 days ago
+  </sup>
+  <sup>
    &#9733 0, pushed 42 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <hr/>

@@ -277,7 +277,7 @@
  <p>
   Pro Tip: replace the field-value for a year not listed e.g.
   <code>
-   ?&cmd=getMakes&year=1969
+   ?&cmd;=getMakes&year;=1969
   </code>
   .
   You can also change the country e.g.
@@ -1311,9 +1311,6 @@
   <a href="https://github.com/Giphy/GiphyAPI">
    Giphy
   </a>
-  <span>
-   &#9733 1014, pushed 12 days ago
-  </span>
   <ul>
    <li>
     <a href="http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC">
@@ -1356,6 +1353,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   7 GitHub links in total 355 links, ★ 1014, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1014, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <blockquote>
@@ -2073,54 +2076,69 @@
   <a href="https://github.com/sindresorhus/awesome">
    Awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   <em>
    (The OG List)
   </em>
+  <sup>
+   7 GitHub links in total 355 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/burningtree/awesome-json">
    JSON
   </a>
-  <span>
-   &#9733 306, pushed 25 days ago
-  </span>
   (Libraries and Resources)
+  <sup>
+   7 GitHub links in total 355 links, ★ 306, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 306, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidsonfellipe/awesome-wpo">
    WPO
   </a>
-  <span>
-   &#9733 5366, pushed 14 days ago
-  </span>
   <em>
    (Web Performance Optimization)
   </em>
+  <sup>
+   7 GitHub links in total 355 links, ★ 5366, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 5366, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alebcay/awesome-shell">
    Shell
   </a>
-  <span>
-   &#9733 6673, pushed 17 days ago
-  </span>
   <em>
    (CLI Frameworks, Toolkits and Guides)
   </em>
+  <sup>
+   7 GitHub links in total 355 links, ★ 6673, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 6673, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/caesar0301/awesome-public-datasets">
    Public Datasets
   </a>
-  <span>
-   &#9733 13887, pushed 6 days ago
-  </span>
   <em>
    (Datasets beyond just JSON)
   </em>
+  <sup>
+   7 GitHub links in total 355 links, ★ 13887, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 13887, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kciter/awesome-style-guide">
@@ -2129,6 +2147,12 @@
   <em>
    (Programming Languages, Platforms, Frameworks)
   </em>
+  <sup>
+   7 GitHub links in total 355 links, ★ 364, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 364, pushed 0 days ago
+  </sup>
  </li>
 </ul>
 <h2>

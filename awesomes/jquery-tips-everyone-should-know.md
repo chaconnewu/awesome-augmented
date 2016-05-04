@@ -193,8 +193,10 @@ $('.top').click(function (e) {
 <p>
  <code>
   html
-<!-- Create an anchor tag -->
-<a class="top" href="#">Back to top</a>
+  <!-- Create an anchor tag -->
+  <a class="top" href="#">
+   Back to top
+  </a>
  </code>
 </p>
 <p>
@@ -271,6 +273,7 @@ $('img').load(function () {
  You can also check if one particular image has loaded by replacing the
  <code>
   <img>
+  </img>
  </code>
  tag with an ID or class.
 </p>

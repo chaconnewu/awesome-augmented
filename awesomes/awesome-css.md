@@ -116,10 +116,13 @@
   <a href="https://github.com/yosssi/gcss">
    GCSS
   </a>
-  <span>
-   &#9733 340, pushed 569 days ago
-  </span>
   - Pure Go CSS Preprocessor.
+  <sup>
+   18 GitHub links in total 181 links, ★ 340, pushed 569 days ago
+  </sup>
+  <sup>
+   &#9733 340, pushed 569 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lesscss.org/">
@@ -131,28 +134,37 @@
   <a href="https://github.com/segmentio/myth">
    Myth
   </a>
-  <span>
-   &#9733 4096, pushed 58 days ago
-  </span>
   - Pure CSS without having to worry about slow browser support.
+  <sup>
+   18 GitHub links in total 181 links, ★ 4096, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 4096, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/senko/pcss">
    PCSS
   </a>
-  <span>
-   &#9733 2, pushed 1049 days ago
-  </span>
   - Pure Python CSS Preprocessor.
+  <sup>
+   18 GitHub links in total 181 links, ★ 2, pushed 1049 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 1049 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/postcss/postcss">
    PostCSS
   </a>
-  <span>
-   &#9733 10074, pushed 2 days ago
-  </span>
   - Transforming CSS with JS plugins.
+  <sup>
+   18 GitHub links in total 181 links, ★ 10074, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 10074, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sass-lang.com/">
@@ -170,10 +182,13 @@
   <a href="https://github.com/morishitter/YACP">
    YACP
   </a>
-  <span>
-   &#9733 48, pushed 463 days ago
-  </span>
   - Yet Another CSS Preprocessor.
+  <sup>
+   18 GitHub links in total 181 links, ★ 48, pushed 463 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 463 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -303,10 +318,13 @@
   <a href="https://github.com/rstacruz/rscss">
    RSCSS
   </a>
-  <span>
-   &#9733 2960, pushed 90 days ago
-  </span>
   - Reasonable Standard for CSS Stylesheet Structure.
+  <sup>
+   18 GitHub links in total 181 links, ★ 2960, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 2960, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://twitter.com/itcss_io">
@@ -323,19 +341,25 @@
   <a href="https://github.com/necolas/normalize.css">
    Normalize
   </a>
-  <span>
-   &#9733 20960, pushed 15 days ago
-  </span>
   - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+  <sup>
+   18 GitHub links in total 181 links, ★ 20960, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 20960, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kennethormandy/normalize-opentype.css">
    Normalize-OpenType
   </a>
-  <span>
-   &#9733 701, pushed 32 days ago
-  </span>
   - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+  <sup>
+   18 GitHub links in total 181 links, ★ 701, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 701, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="http://meyerweb.com/eric/tools/css/reset/">
@@ -353,10 +377,13 @@
   <a href="https://github.com/Martin-Pitt/css-unstyle">
    unstyle.css
   </a>
-  <span>
-   &#9733 4, pushed 60 days ago
-  </span>
   - Specialised stylesheet for removing user agent styles, style the web with your baseline
+  <sup>
+   18 GitHub links in total 181 links, ★ 4, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 60 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -458,27 +485,33 @@
   <a href="https://github.com/necolas/idiomatic-css">
    idiomatic CSS
   </a>
-  <span>
-   &#9733 4578, pushed 274 days ago
-  </span>
   by
   <a href="https://twitter.com/necolas">
    Nicolas Gallagher
   </a>
   .
+  <sup>
+   18 GitHub links in total 181 links, ★ 4578, pushed 274 days ago
+  </sup>
+  <sup>
+   &#9733 4578, pushed 274 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/grvcoelho/css">
    CSS Styleguide
   </a>
-  <span>
-   &#9733 337, pushed 6 days ago
-  </span>
   by
   <a href="https://github.com/grvcoelho">
    Guilherme Rv Coelho
   </a>
   .
+  <sup>
+   18 GitHub links in total 181 links, ★ 337, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 337, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cssguidelin.es/">
@@ -557,10 +590,13 @@
   <a href="https://github.com/dropbox/css-style-guide">
    Dropbox (S)CSS Style Guide
   </a>
-  <span>
-   &#9733 418, pushed 81 days ago
-  </span>
   by Dropbox
+  <sup>
+   18 GitHub links in total 181 links, ★ 418, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 418, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="http://primercss.io">
@@ -685,9 +721,12 @@
   <a href="https://github.com/necolas/idiomatic-css">
    idiomatic-css
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 4578, pushed 274 days ago
+  </sup>
+  <sup>
    &#9733 4578, pushed 274 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://patternlab.io/resources.html">
@@ -718,41 +757,56 @@
   <a href="https://github.com/martinandert/babel-plugin-css-in-js">
    babel-plugin-css-in-js
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 124, pushed 6 days ago
+  </sup>
+  <sup>
    &#9733 124, pushed 6 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bloodyowl/react-styled">
    react-styled
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 26, pushed 337 days ago
+  </sup>
+  <sup>
    &#9733 26, pushed 337 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/inturn/classy">
    classy
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 18, pushed 189 days ago
+  </sup>
+  <sup>
    &#9733 18, pushed 189 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rtsao/csjs">
    csjs
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 227, pushed 16 days ago
+  </sup>
+  <sup>
    &#9733 227, pushed 16 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/webpack/css-loader">
    css-loader
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 784, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 784, pushed 14 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -769,9 +823,12 @@
   <a href="https://github.com/davidtheclark/scalable-css-reading-list">
    scalable-css-reading-list
   </a>
-  <span>
+  <sup>
+   18 GitHub links in total 181 links, ★ 1023, pushed 12 days ago
+  </sup>
+  <sup>
    &#9733 1023, pushed 12 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h1>

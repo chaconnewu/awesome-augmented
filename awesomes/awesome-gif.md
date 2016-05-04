@@ -215,33 +215,36 @@
   <a href="https://github.com/jclem/gifify">
    Gifify
   </a>
-  <span>
-   &#9733 623, pushed 13 days ago
-  </span>
   -
   <em>
    convert screen recording into GIF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 623, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 623, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pornel/giflossy">
    Gifsicle
   </a>
-  <span>
-   &#9733 271, pushed 28 days ago
-  </span>
   -
   <em>
    lossy gif compressor
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 271, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 271, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jglovier/gifs">
    Gifs
   </a>
-  <span>
-   &#9733 1347, pushed 147 days ago
-  </span>
   -
   <em>
    storage place for gifs
@@ -250,14 +253,17 @@
   <a href="http://gifs.joelglovier.com">
    demo
   </a>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1347, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 1347, pushed 147 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yahoo/gifshot">
    Gifshot
   </a>
-  <span>
-   &#9733 2464, pushed 92 days ago
-  </span>
   -
   <em>
    create animated GIFs from media by Yahoo
@@ -266,222 +272,282 @@
   <a href="http://yahoo.github.io/gifshot/">
    demo
   </a>
+  <sup>
+   71 GitHub links in total 122 links, ★ 2464, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 2464, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/videlalvaro/gifsockets">
    Gifsockets
   </a>
-  <span>
-   &#9733 1515, pushed 1322 days ago
-  </span>
   -
   <em>
    Real Time communication library using Animated Gifs as a transport
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1515, pushed 1322 days ago
+  </sup>
+  <sup>
+   &#9733 1515, pushed 1322 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/geelen/x-gif">
    X-gif
   </a>
-  <span>
-   &#9733 1804, pushed 188 days ago
-  </span>
   -
   <em>
    a web component for flexible GIF playback
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1804, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 1804, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/holman/gifme">
    gifme
   </a>
-  <span>
-   &#9733 323, pushed 795 days ago
-  </span>
   -
   <em>
    generate animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 323, pushed 795 days ago
+  </sup>
+  <sup>
+   &#9733 323, pushed 795 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yaronn/GifW00t">
    GifW00t
   </a>
-  <span>
-   &#9733 620, pushed 468 days ago
-  </span>
   -
   <em>
    javascript web recorder
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 620, pushed 468 days ago
+  </sup>
+  <sup>
+   &#9733 620, pushed 468 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lelandbatey/gif-machine">
    gif-machine
   </a>
-  <span>
-   &#9733 52, pushed 515 days ago
-  </span>
   -
   <em>
    gif creation from Youtube videos
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 52, pushed 515 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 515 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jbochi/gifstreaming">
    gifstreaming
   </a>
-  <span>
-   &#9733 106, pushed 882 days ago
-  </span>
   -
   <em>
    Live video streaming server
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 106, pushed 883 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 883 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dergachev/screengif">
    Screengif
   </a>
-  <span>
-   &#9733 623, pushed 1 days ago
-  </span>
   -
   <em>
    Create animated gif screencasts
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 623, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 623, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sidorares/vnc-over-gif">
    vnc-over-gif
   </a>
-  <span>
-   &#9733 512, pushed 882 days ago
-  </span>
   -
   <em>
    Serves screen updates as animated gif over http
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 512, pushed 882 days ago
+  </sup>
+  <sup>
+   &#9733 512, pushed 882 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jaipandya/gifdeck">
    gifdeck
   </a>
-  <span>
-   &#9733 90, pushed 326 days ago
-  </span>
   -
   <em>
    Convert your SlideShares into animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 90, pushed 326 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 326 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/schuyler/gifbot">
    Gifbot
   </a>
-  <span>
-   &#9733 39, pushed 879 days ago
-  </span>
   -
   <em>
    GIF search for Slack
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 39, pushed 879 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 879 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FuzzyWobble/GIF-Camera">
    Gif-camera
   </a>
-  <span>
-   &#9733 18, pushed 1033 days ago
-  </span>
   -
   <em>
    create animated GIFs using webcam
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 18, pushed 1033 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 1033 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zehfernandes/gifline">
    Gifline
   </a>
-  <span>
-   &#9733 48, pushed 350 days ago
-  </span>
   -
   <em>
    Chrome extension to put GIFs in your emails
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 48, pushed 350 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 350 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/markjaquith/gifdrop">
    Gifdrop
   </a>
-  <span>
-   &#9733 33, pushed 98 days ago
-  </span>
   -
   <em>
    Create a repository for your collection of gif images
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 33, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/node-gh/gh-gif">
    Gh-gif
   </a>
-  <span>
-   &#9733 20, pushed 249 days ago
-  </span>
   -
   <em>
    NodeGH plugin for commenting on pull requests/issues using GIF reactions
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 20, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 249 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/z24/tty2gif">
    Tty2gif
   </a>
-  <span>
-   &#9733 115, pushed 369 days ago
-  </span>
   -
   <em>
    record scripts and their outputs into both binary and gif formats
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 115, pushed 369 days ago
+  </sup>
+  <sup>
+   &#9733 115, pushed 369 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/desktoppr/giftoppr">
    Giftoppr
   </a>
-  <span>
-   &#9733 37, pushed 1016 days ago
-  </span>
   -
   <em>
    Sync your favourite gifs with Dropbox
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 37, pushed 1016 days ago
+  </sup>
+  <sup>
+   &#9733 37, pushed 1016 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Fauntleroy/GIFit">
    Gifit
   </a>
-  <span>
-   &#9733 74, pushed 99 days ago
-  </span>
   -
   <em>
    Chrome extension to make a GIF from a YouTube video
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 74, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spite/ccapture.js">
    Ccapture.js
   </a>
-  <span>
-   &#9733 446, pushed 14 days ago
-  </span>
   -
   <em>
    Capture animations created with HTML5 canvas
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 446, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 446, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -495,13 +561,16 @@
   <a href="https://github.com/theturtle32/Flash-Animated-GIF-Library">
    Flash Animated Gif Library
   </a>
-  <span>
-   &#9733 49, pushed 245 days ago
-  </span>
   -
   <em>
    AS3 library for playing Animated GIFs in Flash
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 49, pushed 245 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 245 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -512,37 +581,46 @@
   <a href="https://github.com/pkrumins/node-gif">
    Node-gif
   </a>
-  <span>
-   &#9733 132, pushed 286 days ago
-  </span>
   -
   <em>
    C++ library to make Gif
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 132, pushed 286 days ago
+  </sup>
+  <sup>
+   &#9733 132, pushed 286 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ginsweater/gif-h">
    Gif-h
   </a>
-  <span>
-   &#9733 75, pushed 754 days ago
-  </span>
   -
   <em>
    C++ one-header library for the creation of animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 75, pushed 754 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 754 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jesusgollonet/ofxGifEncoder">
    OfxGifEncoder
   </a>
-  <span>
-   &#9733 82, pushed 253 days ago
-  </span>
   -
   <em>
    C++ openframeworks addon to export animated gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 82, pushed 253 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 253 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -553,25 +631,31 @@
   <a href="https://github.com/thomaslevesque/WpfAnimatedGif">
    WpfAnimatedGif
   </a>
-  <span>
-   &#9733 16, pushed 83 days ago
-  </span>
   -
   <em>
    A simple library to display animated GIF images in WPF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 16, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thomaslevesque/XamlAnimatedGif">
    XamlAnimatedGif
   </a>
-  <span>
-   &#9733 9, pushed 14 days ago
-  </span>
   -
   <em>
    A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 9, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -582,13 +666,16 @@
   <a href="https://github.com/snowkit/gif">
    Gif
   </a>
-  <span>
-   &#9733 21, pushed 186 days ago
-  </span>
   -
   <em>
    Haxe gif encoder
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 21, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 186 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -599,109 +686,136 @@
   <a href="https://github.com/koral--/android-gif-drawable">
    Android-gif-drawable
   </a>
-  <span>
-   &#9733 2647, pushed 4 days ago
-  </span>
   -
   <em>
    Views and Drawable for displaying animated GIFs on Android
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 2647, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2647, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Hipmob/gifanimateddrawable">
    gifanimateddrawable
   </a>
-  <span>
-   &#9733 201, pushed 720 days ago
-  </span>
   -
   <em>
    Use an animated GIF as an Android Drawable
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 201, pushed 720 days ago
+  </sup>
+  <sup>
+   &#9733 201, pushed 720 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RoiSoleil/GifView">
    GifView
   </a>
-  <span>
-   &#9733 77, pushed 1045 days ago
-  </span>
   -
   <em>
    android library to deal with Gif
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 77, pushed 1045 days ago
+  </sup>
+  <sup>
+   &#9733 77, pushed 1045 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sbakhtiarov/gif-movie-view">
    Gif Movie View
   </a>
-  <span>
-   &#9733 380, pushed 9 days ago
-  </span>
   -
   <em>
    Android View widget for displaying GIF animations
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 380, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 380, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/felipecsl/GifImageView">
    GifImageView
   </a>
-  <span>
-   &#9733 566, pushed 41 days ago
-  </span>
   -
   <em>
    Android ImageView that handles animated GIF images
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 566, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 566, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/extrapixel/gif-animation">
    Gif-animation
   </a>
-  <span>
-   &#9733 73, pushed 104 days ago
-  </span>
   -
   <em>
    Processing library to play and export GIF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 73, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nbadal/android-gif-encoder">
    Android-gif-encoder
   </a>
-  <span>
-   &#9733 121, pushed 1483 days ago
-  </span>
   -
   <em>
    animated GIF encoder for Android
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 121, pushed 1483 days ago
+  </sup>
+  <sup>
+   &#9733 121, pushed 1483 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/quackware/GIFDroid">
    GIFDroid
   </a>
-  <span>
-   &#9733 57, pushed 271 days ago
-  </span>
   -
   <em>
    Android video to GIF converter
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 57, pushed 271 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 271 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CaptPhunkosis/Android-GifStitch">
    Android-GifStitch
   </a>
-  <span>
-   &#9733 36, pushed 1528 days ago
-  </span>
   -
   <em>
    create and share animated gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 36, pushed 1528 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 1528 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -712,132 +826,165 @@
   <a href="https://github.com/jnordberg/gif.js">
    Gif.js
   </a>
-  <span>
-   &#9733 1873, pushed 186 days ago
-  </span>
   - Javascript -
   <em>
    create GIF from the DOM
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1873, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 1873, pushed 186 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/deanm/omggif">
    Omggif
   </a>
-  <span>
-   &#9733 327, pushed 65 days ago
-  </span>
   - Javascript -
   <em>
    GIF 89a encoder and decoder
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 327, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 327, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sole/Animated_GIF">
    Animated_GIF
   </a>
-  <span>
-   &#9733 117, pushed 247 days ago
-  </span>
   -
   <em>
    Javascript library for creating animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 117, pushed 247 days ago
+  </sup>
+  <sup>
+   &#9733 117, pushed 247 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/krasimir/gifffer">
    Gifffer
   </a>
-  <span>
-   &#9733 446, pushed 104 days ago
-  </span>
   <em>
    JavaScript library that prevents the autoplaying of the animated Gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 446, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 446, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rubentd/gifplayer">
    Gifplayer
   </a>
-  <span>
-   &#9733 191, pushed 19 days ago
-  </span>
   -
   <em>
    jquery plugin to play and stop animated gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 191, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 191, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shachaf/jsgif">
    Jsgif
   </a>
-  <span>
-   &#9733 312, pushed 1675 days ago
-  </span>
   -
   <em>
    JavaScript GIF parser and player
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 312, pushed 1675 days ago
+  </sup>
+  <sup>
+   &#9733 312, pushed 1675 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tj/node-gify">
    node-gify
   </a>
-  <span>
-   &#9733 181, pushed 669 days ago
-  </span>
   -
   <em>
    Javascript convert videos to gifs using ffmpeg and gifsicle
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 181, pushed 669 days ago
+  </sup>
+  <sup>
+   &#9733 181, pushed 669 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eugeneware/gifencoder">
    Gifencoder
   </a>
-  <span>
-   &#9733 95, pushed 293 days ago
-  </span>
   -
   <em>
    Server side animated gif generation for node.js
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 95, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 95, pushed 293 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hughsk/gif-video">
    Gif-video
   </a>
-  <span>
-   &#9733 51, pushed 715 days ago
-  </span>
   -
   <em>
    Javascript Convert a GIF image into an HTML5-ready video
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 51, pushed 715 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 715 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apankrat/gif-player">
    Gif-player
   </a>
-  <span>
-   &#9733 55, pushed 684 days ago
-  </span>
   -
   <em>
    On-demand GIF loader/player in Javascript
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 55, pushed 684 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 684 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Viral-MediaLab/gifgifLab-face">
    GifgifLab-face
   </a>
-  <span>
-   &#9733 4, pushed 454 days ago
-  </span>
   -
   <em>
    Facial-emotion detectors
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 4, pushed 454 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 454 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -848,37 +995,46 @@
   <a href="https://github.com/Sybio/GifCreator">
    GifCreator
   </a>
-  <span>
-   &#9733 168, pushed 970 days ago
-  </span>
   -
   <em>
    PHP class that creates animated GIF from multiple images
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 168, pushed 970 days ago
+  </sup>
+  <sup>
+   &#9733 168, pushed 970 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/msng/spacer.gif">
    Spacer.gif
   </a>
-  <span>
-   &#9733 14, pushed 69 days ago
-  </span>
   -
   <em>
    PHP script offering spacer.gif 1x1
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 14, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Sybio/GifFrameExtractor">
    GifFrameExtractor
   </a>
-  <span>
-   &#9733 68, pushed 335 days ago
-  </span>
   -
   <em>
    PHP class that separates all the frames of an animated GIF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 68, pushed 335 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 335 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -889,157 +1045,196 @@
   <a href="https://github.com/mattt/AnimatedGIFImageSerialization">
    AnimatedGIFImageSerialization
   </a>
-  <span>
-   &#9733 919, pushed 27 days ago
-  </span>
   -
   <em>
    decodes an UIImage from Animated GIFs image data
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 919, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 919, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mayoff/uiimage-from-animated-gif">
    UIimage from GIF
   </a>
-  <span>
-   &#9733 682, pushed 133 days ago
-  </span>
   -
   <em>
    UIImage category that loads animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 682, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 682, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cyndibaby905/GIFRefreshControl">
    GIFRefreshControl
   </a>
-  <span>
-   &#9733 294, pushed 561 days ago
-  </span>
   -
   <em>
    "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 294, pushed 561 days ago
+  </sup>
+  <sup>
+   &#9733 294, pushed 561 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yfme/UIImageView-PlayGIF">
    UIImageView-PlayGIF
   </a>
-  <span>
-   &#9733 339, pushed 294 days ago
-  </span>
   -
   <em>
    UIImageView category/subclass for playing GIF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 339, pushed 294 days ago
+  </sup>
+  <sup>
+   &#9733 339, pushed 294 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Flipboard/FLAnimatedImage">
    FLAnimatedImage
   </a>
-  <span>
-   &#9733 4102, pushed 5 days ago
-  </span>
   -
   <em>
    Gif engine for iOS by FlipBoard
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 4102, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4102, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/arturogutierrez/Animated-GIF-iPhone">
    Animated-GIF-iPhone
   </a>
-  <span>
-   &#9733 133, pushed 431 days ago
-  </span>
   -
   <em>
    Support for Animated GIF on iOS
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 133, pushed 431 days ago
+  </sup>
+  <sup>
+   &#9733 133, pushed 431 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uzysjung/UzysAnimatedGifPullToRefresh">
    UzysAnimatedGifPullToRefresh
   </a>
-  <span>
-   &#9733 1289, pushed 6 days ago
-  </span>
   -
   <em>
    PullToRefresh using animated GIF to any scrollView
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1289, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1289, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scspijker/iOS_AnimatedGif">
    iOS AnimatedGif
   </a>
-  <span>
-   &#9733 103, pushed 638 days ago
-  </span>
   -
   <em>
    Animated GIF library for iPhone
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 103, pushed 638 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 638 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/smileEvday/SvGifView">
    SvGifView
   </a>
-  <span>
-   &#9733 73, pushed 728 days ago
-  </span>
   -
   <em>
    iOS load and display Gif
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 73, pushed 728 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 728 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cemolcay/GiFHUD">
    GifHUD
   </a>
-  <span>
-   &#9733 131, pushed 480 days ago
-  </span>
   -
   <em>
    iOS progress hud for displaying only animated gif images
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 131, pushed 480 days ago
+  </sup>
+  <sup>
+   &#9733 131, pushed 480 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ElvinJin/Video-Background-GIF">
    Video-Background GIF
   </a>
-  <span>
-   &#9733 123, pushed 210 days ago
-  </span>
   -
   <em>
    iOS Video Background GIF
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 123, pushed 210 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 210 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kasatani/AnimatedGifExample">
    AnimatedGifExample
   </a>
-  <span>
-   &#9733 41, pushed 2175 days ago
-  </span>
   -
   <em>
    iOS animated and transparent gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 41, pushed 2175 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 2175 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dtorres/OLImageView">
    OLImageView
   </a>
-  <span>
-   &#9733 772, pushed 194 days ago
-  </span>
   -
   <em>
    iOS OLImage and OLImageView support for animated GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 772, pushed 194 days ago
+  </sup>
+  <sup>
+   &#9733 772, pushed 194 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1050,25 +1245,31 @@
   <a href="https://github.com/kaishin/gifu">
    Gifu
   </a>
-  <span>
-   &#9733 1251, pushed 2 days ago
-  </span>
   -
   <em>
    animated GIF support for iOS in Swift
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 1251, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1251, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bahlo/SwiftGif">
    SwiftGif
   </a>
-  <span>
-   &#9733 331, pushed 19 days ago
-  </span>
   -
   <em>
    UIImage extension with gif support
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 331, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 331, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1093,37 +1294,46 @@
   <a href="https://github.com/orta/GIFs">
    GIFs
   </a>
-  <span>
-   &#9733 534, pushed 194 days ago
-  </span>
   -
   <em>
    Mac App for finding GIFs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 534, pushed 194 days ago
+  </sup>
+  <sup>
+   &#9733 534, pushed 194 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/esten/VineGifR">
    VineGifR
   </a>
-  <span>
-   &#9733 87, pushed 1185 days ago
-  </span>
   -
   <em>
    Mac app to turn Vine videos into gifs
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 87, pushed 1185 days ago
+  </sup>
+  <sup>
+   &#9733 87, pushed 1185 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/unixpickle/GifPro">
    GifPro
   </a>
-  <span>
-   &#9733 34, pushed 1626 days ago
-  </span>
   -
   <em>
    Gif encoder for Mac
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 34, pushed 1626 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 1626 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1228,13 +1438,16 @@
   <a href="https://github.com/LindseyB/starwars-dot-gif">
    Starwars-dot-gif
   </a>
-  <span>
-   &#9733 457, pushed 29 days ago
-  </span>
   -
   <em>
    Python script to generate gifs from star wars
   </em>
+  <sup>
+   71 GitHub links in total 122 links, ★ 457, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 457, pushed 29 days ago
+  </sup>
  </li>
 </ul>
 <h2>

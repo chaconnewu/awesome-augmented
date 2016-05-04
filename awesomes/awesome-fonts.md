@@ -56,40 +56,52 @@
     <a href="https://github.com/google/fonts">
      Files of Google Fonts
     </a>
-    <span>
-     &#9733 6685, pushed 17 days ago
-    </span>
     (
     <a href="https://github.com/googlefonts">
      sources
     </a>
     )
+    <sup>
+     40 GitHub links in total 75 links, ★ 6685, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 6685, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/qrpike/Web-Font-Load">
      Downloader for Google Fonts
     </a>
-    <span>
+    <sup>
+     40 GitHub links in total 75 links, ★ 952, pushed 355 days ago
+    </sup>
+    <sup>
      &#9733 952, pushed 355 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/google/roboto">
      Roboto
     </a>
-    <span>
-     &#9733 2267, pushed 26 days ago
-    </span>
     default font on Android/ ChromeOS, and the recommended for Material Design
+    <sup>
+     40 GitHub links in total 75 links, ★ 2267, pushed 26 days ago
+    </sup>
+    <sup>
+     &#9733 2267, pushed 27 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/googlei18n/noto-fonts">
      Noto Fonts
     </a>
-    <span>
-     &#9733 314, pushed 15 days ago
-    </span>
     Internationalized font for all languages, with rich support for CJK and emoji.
+    <sup>
+     40 GitHub links in total 75 links, ★ 314, pushed 15 days ago
+    </sup>
+    <sup>
+     &#9733 314, pushed 15 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -133,26 +145,35 @@
   <a href="https://github.com/christiannaths/Redacted-Font">
    Redacted
   </a>
-  <span>
-   &#9733 4168, pushed 228 days ago
-  </span>
   Keep your wireframes free of distracting Lorem Ipsum
+  <sup>
+   40 GitHub links in total 75 links, ★ 4168, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 4168, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/weiweihuanghuang/Work-Sans">
    WorkSans
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 590, pushed 22 days ago
+  </sup>
+  <sup>
    &#9733 590, pushed 22 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RoelN/SansBullshitSans">
    SansBullshitSans
   </a>
-  <span>
-   &#9733 171, pushed 353 days ago
-  </span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 171, pushed 353 days ago
+  </sup>
+  <sup>
+   &#9733 171, pushed 354 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -163,10 +184,13 @@
   <a href="https://github.com/sariina/appa-sariicon">
    Appa Sariicon
   </a>
-  <span>
-   &#9733 6, pushed 169 days ago
-  </span>
   147 8-bit retro style webfont icons form web and mobile
+  <sup>
+   40 GitHub links in total 75 links, ★ 6, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 169 days ago
+  </sup>
  </li>
  <li>
   <a href="http://evil-icons.io/">
@@ -178,10 +202,13 @@
   <a href="https://github.com/FontCustom/fontcustom">
    Font Custom
   </a>
-  <span>
-   &#9733 2900, pushed 34 days ago
-  </span>
   icon fonts generator
+  <sup>
+   40 GitHub links in total 75 links, ★ 2900, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 2900, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="http://fontawesome.io">
@@ -193,19 +220,25 @@
   <a href="https://github.com/fizzed/font-mfizz">
    font-mfizz
   </a>
-  <span>
-   &#9733 239, pushed 17 days ago
-  </span>
   Font Mfizz - Vector Icons for Technology and Software Geeks
+  <sup>
+   40 GitHub links in total 75 links, ★ 239, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 239, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PrideChung/FontAwesomeKit">
    FontAwesomeKit
   </a>
-  <span>
-   &#9733 1837, pushed 16 days ago
-  </span>
   Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
+  <sup>
+   40 GitHub links in total 75 links, ★ 1837, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 1837, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="http://fontello.com">
@@ -243,10 +276,13 @@
   <a href="https://github.com/somerandomdude/Iconic">
    Iconic
   </a>
-  <span>
-   &#9733 2429, pushed 246 days ago
-  </span>
   icon set in raster, vector and font formats
+  <sup>
+   40 GitHub links in total 75 links, ★ 2429, pushed 246 days ago
+  </sup>
+  <sup>
+   &#9733 2429, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="http://saeedalipoor.github.io/icono/">
@@ -264,19 +300,25 @@
   <a href="https://github.com/scottdejonge/map-icons">
    Map Icons
   </a>
-  <span>
-   &#9733 580, pushed 54 days ago
-  </span>
   font for use with Google Maps API and Google Places API using SVG markers and icon labels
+  <sup>
+   40 GitHub links in total 75 links, ★ 580, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 580, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/material-design-icons">
    Material design icons
   </a>
-  <span>
-   &#9733 23504, pushed 21 days ago
-  </span>
   official icon set from Google
+  <sup>
+   40 GitHub links in total 75 links, ★ 23504, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 23504, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="http://mfglabs.github.io/mfglabs-iconset/">
@@ -288,10 +330,13 @@
   <a href="https://github.com/xtoolkit/Micon">
    Micon
   </a>
-  <span>
-   &#9733 33, pushed 225 days ago
-  </span>
   Iconic Windows 10 font and CSS toolkit
+  <sup>
+   40 GitHub links in total 75 links, ★ 33, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://octicons.github.com/">
@@ -315,19 +360,25 @@
   <a href="https://github.com/jhogue/PE-Analog-Clock-icon-font">
    PE-Analog-Clock-icon-font
   </a>
-  <span>
-   &#9733 280, pushed 81 days ago
-  </span>
   A set of icons for displaying a visual ("analog") representation of time stamps
+  <sup>
+   40 GitHub links in total 75 links, ★ 280, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 280, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/parkerbennett/stackicons">
    stackicons
   </a>
-  <span>
-   &#9733 917, pushed 794 days ago
-  </span>
   Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
+  <sup>
+   40 GitHub links in total 75 links, ★ 917, pushed 794 days ago
+  </sup>
+  <sup>
+   &#9733 917, pushed 794 days ago
+  </sup>
  </li>
  <li>
   <a href="http://typicons.com">
@@ -345,29 +396,38 @@
   <a href="https://github.com/whhglyphs/webhostinghub-glyphs">
    WebHostingHub Glyphs
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 239, pushed 1009 days ago
+  </sup>
+  <sup>
    &#9733 239, pushed 1009 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adamstac/zocial">
    Zocial
   </a>
-  <span>
-   &#9733 208, pushed 1637 days ago
-  </span>
   Sass and Compass CSS3 social buttons framework
   <ul>
    <li>
     <a href="https://github.com/smcllns/css-social-buttons">
      CSS social buttons
     </a>
-    <span>
-     &#9733 1537, pushed 33 days ago
-    </span>
     Entirely vector-based social buttons
+    <sup>
+     40 GitHub links in total 75 links, ★ 1537, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 1537, pushed 33 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   40 GitHub links in total 75 links, ★ 208, pushed 1637 days ago
+  </sup>
+  <sup>
+   &#9733 208, pushed 1637 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -383,26 +443,35 @@
   <a href="https://github.com/chrissimpkins/codeface">
    Codeface
   </a>
-  <span>
-   &#9733 3139, pushed 28 days ago
-  </span>
   gallery of monospaced fonts for developers
+  <sup>
+   40 GitHub links in total 75 links, ★ 3139, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 3139, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/belluzj/fantasque-sans">
    Fantasque Sans Mono
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 2528, pushed 30 days ago
+  </sup>
+  <sup>
    &#9733 2528, pushed 30 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chrissimpkins/Hack">
    Hack
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 7840, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 7840, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://levien.com/type/myfonts/inconsolata.html">
@@ -419,27 +488,36 @@
   <a href="https://github.com/andreberg/Meslo-Font">
    Meslo-Font
   </a>
-  <span>
-   &#9733 1468, pushed 242 days ago
-  </span>
   Customized version of Apple's Menlo font
+  <sup>
+   40 GitHub links in total 75 links, ★ 1468, pushed 242 days ago
+  </sup>
+  <sup>
+   &#9733 1468, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/larsenwork/monoid">
    Monoid
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 3290, pushed 90 days ago
+  </sup>
+  <sup>
    &#9733 3290, pushed 90 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanoasis/nerd-fonts">
    Nerd Fonts
   </a>
-  <span>
-   &#9733 2536, pushed 14 days ago
-  </span>
   Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+  <sup>
+   40 GitHub links in total 75 links, ★ 2536, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 2536, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adobe-fonts">
@@ -455,17 +533,23 @@
     <a href="https://github.com/adobe-fonts/source-sans-pro">
      Source Sans Pro
     </a>
-    <span>
+    <sup>
+     40 GitHub links in total 75 links, ★ 1566, pushed 152 days ago
+    </sup>
+    <sup>
      &#9733 1566, pushed 152 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/adobe-fonts/source-serif-pro">
      Source Serif Pro
     </a>
-    <span>
+    <sup>
+     40 GitHub links in total 75 links, ★ 936, pushed 152 days ago
+    </sup>
+    <sup>
      &#9733 936, pushed 152 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -478,18 +562,24 @@
   <a href="https://github.com/tonsky/FiraCode">
    FiraCode
   </a>
-  <span>
-   &#9733 4871, pushed 13 days ago
-  </span>
   Monospaced font with programming ligatures
+  <sup>
+   40 GitHub links in total 75 links, ★ 4871, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 4871, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/i-tu/Hasklig">
    Hasklig
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 1233, pushed 47 days ago
+  </sup>
+  <sup>
    &#9733 1233, pushed 47 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.fsd.it/shop/fonts/pragmatapro">
@@ -511,36 +601,48 @@
   <a href="https://github.com/ecomfe/fontmin">
    fontmin
   </a>
-  <span>
-   &#9733 1511, pushed 4 days ago
-  </span>
   font minifier
+  <sup>
+   40 GitHub links in total 75 links, ★ 1511, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1511, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davatron5000/Lettering.js">
    Lettering.js
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 4436, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 4436, pushed 14 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jaicab/localFont">
    localFont
   </a>
-  <span>
-   &#9733 810, pushed 74 days ago
-  </span>
   save fonts in localStorage
+  <sup>
+   40 GitHub links in total 75 links, ★ 810, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 810, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidmerfield/typeset">
    Typeset.js
   </a>
-  <span>
-   &#9733 2104, pushed 29 days ago
-  </span>
   - HTML pre-processor for web typography.
+  <sup>
+   40 GitHub links in total 75 links, ★ 2104, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 2104, pushed 29 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -551,17 +653,23 @@
   <a href="https://github.com/bramstein/fontfaceobserver">
    Font Face Observer
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 1088, pushed 25 days ago
+  </sup>
+  <sup>
    &#9733 1088, pushed 25 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/typekit/webfontloader">
    Web Font Loader
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 4460, pushed 20 days ago
+  </sup>
+  <sup>
    &#9733 4460, pushed 20 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -572,9 +680,12 @@
   <a href="https://github.com/penman/font">
    Command line font-manager
   </a>
-  <span>
+  <sup>
+   40 GitHub links in total 75 links, ★ 11, pushed 961 days ago
+  </sup>
+  <sup>
    &#9733 11, pushed 961 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://www.fontsquirrel.com/tools/webfont-generator">
@@ -586,28 +697,37 @@
   <a href="https://github.com/Benvie/font">
    font
   </a>
-  <span>
-   &#9733 26, pushed 1487 days ago
-  </span>
   extracts metadata from otf/ttf font files
+  <sup>
+   40 GitHub links in total 75 links, ★ 26, pushed 1487 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 1487 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fontforge/fontforge">
    FontForge
   </a>
-  <span>
-   &#9733 992, pushed 3 days ago
-  </span>
   cross-platform font editor
+  <sup>
+   40 GitHub links in total 75 links, ★ 992, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 992, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/powerline/fonts">
    Powerline Fonts
   </a>
-  <span>
-   &#9733 5063, pushed 17 days ago
-  </span>
   - patched fonts for Powerline users
+  <sup>
+   40 GitHub links in total 75 links, ★ 5063, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 5063, pushed 17 days ago
+  </sup>
  </li>
 </ul>
 <h2>

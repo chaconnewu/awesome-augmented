@@ -357,10 +357,13 @@
   <a href="https://github.com/ruby/rake">
    Rake
   </a>
-  <span>
-   &#9733 591, pushed 14 days ago
-  </span>
   - Build automation tool similar to Make, written in and extensible in Ruby.
+  <sup>
+   46 GitHub links in total 448 links, ★ 591, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 591, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -394,14 +397,17 @@
   <a href="https://github.com/borgbackup/borg">
    BorgBackup
   </a>
-  <span>
-   &#9733 1106, pushed 1 days ago
-  </span>
   - A fork of
   <a href="https://attic-backup.org">
    Attic
   </a>
   deduplicating backup program written in Python.
+  <sup>
+   46 GitHub links in total 448 links, ★ 1106, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1106, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://brebisproject.org">
@@ -425,19 +431,25 @@
   <a href="https://github.com/elkarbackup/elkarbackup">
    Elkarbackup
   </a>
-  <span>
-   &#9733 39, pushed 3 days ago
-  </span>
   - Backup solution based on RSnapshot with a simple web interface
+  <sup>
+   46 GitHub links in total 448 links, ★ 39, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/axkibe/lsyncd">
    Lsyncd
   </a>
-  <span>
-   &#9733 1532, pushed 61 days ago
-  </span>
   - File Monitor which spawns a process to synchronize the changes (rsync by default).
+  <sup>
+   46 GitHub links in total 448 links, ★ 1532, pushed 61 days ago
+  </sup>
+  <sup>
+   &#9733 1532, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="http://obnam.org/">
@@ -473,10 +485,13 @@
   <a href="https://github.com/dojo4/drebs">
    DREBS
   </a>
-  <span>
-   &#9733 29, pushed 544 days ago
-  </span>
   - AWS EBS backup script that supports strategies.
+  <sup>
+   46 GitHub links in total 448 links, ★ 29, pushed 544 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 544 days ago
+  </sup>
  </li>
  <li>
   <a href="http://zbackup.org/">
@@ -530,10 +545,13 @@
   <a href="https://github.com/CloudBotIRC/CloudBot">
    CloudBot
   </a>
-  <span>
-   &#9733 120, pushed 3 days ago
-  </span>
   - The simple, fast, expandable Python IRC bot.
+  <sup>
+   46 GitHub links in total 448 links, ★ 120, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.eggheads.org/">
@@ -557,10 +575,13 @@
   <a href="https://github.com/djosephsen/lazlo">
    Lazlo
   </a>
-  <span>
-   &#9733 55, pushed 81 days ago
-  </span>
   - A chatops automation framework in Go.
+  <sup>
+   46 GitHub links in total 448 links, ★ 55, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.lita.io/">
@@ -649,10 +670,13 @@
   <a href="https://github.com/AppScale/appscale">
    AppScale
   </a>
-  <span>
-   &#9733 2146, pushed 0 days ago
-  </span>
   - Cloud software with Google App Engine compatibility.
+  <sup>
+   46 GitHub links in total 448 links, ★ 2146, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 2146, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://archipelproject.org/">
@@ -952,19 +976,25 @@
   <a href="https://github.com/allegro/ralph">
    Ralph
   </a>
-  <span>
-   &#9733 411, pushed 4 days ago
-  </span>
   - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
+  <sup>
+   46 GitHub links in total 448 links, ★ 411, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 411, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clusto/clusto">
    Clusto
   </a>
-  <span>
-   &#9733 140, pushed 147 days ago
-  </span>
   - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
+  <sup>
+   46 GitHub links in total 448 links, ★ 140, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 140, pushed 147 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tumblr.github.io/collins/">
@@ -1044,10 +1074,13 @@
   <a href="https://github.com/drone/drone">
    Drone
   </a>
-  <span>
-   &#9733 6750, pushed 0 days ago
-  </span>
   - Continuous integration server built on Docker and configured using YAML files.
+  <sup>
+   46 GitHub links in total 448 links, ★ 6750, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6750, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://about.gitlab.com/gitlab-ci/">
@@ -1119,10 +1152,13 @@
     <a href="https://github.com/odoucet/pdns-gui">
      PDNS Gui
     </a>
-    <span>
-     &#9733 12, pushed 104 days ago
-    </span>
     - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
+    <sup>
+     46 GitHub links in total 448 links, ★ 12, pushed 104 days ago
+    </sup>
+    <sup>
+     &#9733 12, pushed 104 days ago
+    </sup>
    </li>
    <li>
     <a href="http://www.poweradmin.org/">
@@ -1257,10 +1293,13 @@
   <a href="https://github.com/seattlerb/vlad">
    Vlad the Deployer
   </a>
-  <span>
-   &#9733 330, pushed 33 days ago
-  </span>
   - Deployment automation (rake based).
+  <sup>
+   46 GitHub links in total 448 links, ★ 330, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 330, pushed 33 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1458,10 +1497,13 @@
   <a href="https://github.com/jdleesmiller/jotgit">
    jotgit
   </a>
-  <span>
-   &#9733 141, pushed 649 days ago
-  </span>
   - Git-backed real-time collaborative code editing.
+  <sup>
+   46 GitHub links in total 448 links, ★ 141, pushed 649 days ago
+  </sup>
+  <sup>
+   &#9733 141, pushed 649 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.kdevelop.org/">
@@ -1744,10 +1786,13 @@
   <a href="https://github.com/guardian/alerta">
    Alerta
   </a>
-  <span>
-   &#9733 506, pushed 5 days ago
-  </span>
   - Distributed, scaleable and flexible monitoring system.
+  <sup>
+   46 GitHub links in total 448 links, ★ 506, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 506, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bosun.org/">
@@ -1785,9 +1830,6 @@
   <a href="https://github.com/google/cadvisor">
    cadvisor
   </a>
-  <span>
-   &#9733 3861, pushed 2 days ago
-  </span>
   - Analyzes resource usage and performance characteristics of running containers (
   <a href="https://github.com/google/cadvisor">
    Source Code
@@ -1799,6 +1841,12 @@
   <code>
    Go
   </code>
+  <sup>
+   46 GitHub links in total 448 links, ★ 3861, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3861, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://mathias-kettner.com/check_mk.html">
@@ -1810,10 +1858,13 @@
   <a href="https://github.com/afaqurk/linux-dash">
    Dash
   </a>
-  <span>
-   &#9733 6905, pushed 4 days ago
-  </span>
   - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+  <sup>
+   46 GitHub links in total 448 links, ★ 6905, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 6905, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://flapjack.io/">
@@ -1868,10 +1919,13 @@
   <a href="https://github.com/eleme/bell.js">
    Node-Bell
   </a>
-  <span>
-   &#9733 271, pushed 98 days ago
-  </span>
   - Real-time anomalies detection for periodic time series, metrics monitor.
+  <sup>
+   46 GitHub links in total 448 links, ★ 271, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 271, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.observium.org/">
@@ -1895,11 +1949,14 @@
   <a href="https://github.com/Jahaja/psdash">
    psdash
   </a>
-  <span>
-   &#9733 1724, pushed 153 days ago
-  </span>
   - A linux system information web dashboard using psut
 ils and flask.
+  <sup>
+   46 GitHub links in total 448 links, ★ 1724, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 1724, pushed 153 days ago
+  </sup>
  </li>
  <li>
   <a href="https://k3oni.github.io/pydash/">
@@ -1929,19 +1986,25 @@ ils and flask.
   <a href="https://github.com/BotoX/ServerStatus">
    ServerStatus BotoX
   </a>
-  <span>
-   &#9733 87, pushed 118 days ago
-  </span>
   - Display and monitor your servers statistics in a beatiful way.
+  <sup>
+   46 GitHub links in total 448 links, ★ 87, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 87, pushed 119 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mojeda/ServerStatus">
    ServerStatus moejda
   </a>
-  <span>
-   &#9733 215, pushed 61 days ago
-  </span>
   - Server Status website script, displays uptime (days), free RAM, free HDD
+  <sup>
+   46 GitHub links in total 448 links, ★ 215, pushed 61 days ago
+  </sup>
+  <sup>
+   &#9733 215, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.shinken-monitoring.org/">
@@ -1998,9 +2061,6 @@ ils and flask.
     <a href="https://github.com/BrightcoveOS/Diamond">
      Diamond
     </a>
-    <span>
-     &#9733 1258, pushed 20 days ago
-    </span>
     - Python based statistic collection daemon.
    </li>
    <li>
@@ -2028,6 +2088,12 @@ ils and flask.
     - System statistic collection daemon written in Python for OpenTSDB
    </li>
   </ul>
+  <sup>
+   46 GitHub links in total 448 links, ★ 1258, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 1258, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -2068,10 +2134,13 @@ ils and flask.
     <a href="https://github.com/Freeboard/freeboard">
      Freeboard
     </a>
-    <span>
-     &#9733 3054, pushed 7 days ago
-    </span>
     - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+    <sup>
+     46 GitHub links in total 448 links, ★ 3054, pushed 7 days ago
+    </sup>
+    <sup>
+     &#9733 3054, pushed 7 days ago
+    </sup>
    </li>
    <li>
     <a href="http://netdata.firehol.org/">
@@ -2096,10 +2165,13 @@ ils and flask.
     <a href="https://github.com/kairosdb/kairosdb">
      KairosDB
     </a>
-    <span>
-     &#9733 814, pushed 4 days ago
-    </span>
     - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+    <sup>
+     46 GitHub links in total 448 links, ★ 814, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 814, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://influxdb.com/">
@@ -2154,10 +2226,13 @@ ils and flask.
   <a href="https://github.com/ytti/oxidized">
    Oxidized
   </a>
-  <span>
-   &#9733 275, pushed 4 days ago
-  </span>
   - A modern take on network device configuration monitoring with web interface and GIT storage.
+  <sup>
+   46 GitHub links in total 448 links, ★ 275, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 275, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.shrubbery.net/rancid/">
@@ -2175,10 +2250,13 @@ ils and flask.
   <a href="https://github.com/trigger/trigger">
    trigger
   </a>
-  <span>
-   &#9733 308, pushed 5 days ago
-  </span>
   - Robust network automation toolkit written in Python.
+  <sup>
+   46 GitHub links in total 448 links, ★ 308, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 308, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2206,19 +2284,25 @@ ils and flask.
   <a href="https://github.com/averna-syd/LibreMailer">
    LibreMailer
   </a>
-  <span>
-   &#9733 6, pushed 611 days ago
-  </span>
   - Libre Mailer is a modest and simple web based email marketing application.
+  <sup>
+   46 GitHub links in total 448 links, ★ 6, pushed 611 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 611 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bborn/lewsnetter">
    Lewsnetter
   </a>
-  <span>
-   &#9733 273, pushed 22 days ago
-  </span>
   - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
+  <sup>
+   46 GitHub links in total 448 links, ★ 273, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 273, pushed 22 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2295,9 +2379,6 @@ ils and flask.
     <a href="https://github.com/twitter/flockdb">
      FlockDB
     </a>
-    <span>
-     &#9733 2814, pushed 216 days ago
-    </span>
     - Twitter's distributed, fault-tolerant graph database.
    </li>
    <li>
@@ -2307,6 +2388,12 @@ ils and flask.
     - Graph database.
    </li>
   </ul>
+  <sup>
+   46 GitHub links in total 448 links, ★ 2814, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 2814, pushed 216 days ago
+  </sup>
  </li>
  <li>
   Key-Value
@@ -2315,9 +2402,6 @@ ils and flask.
     <a href="https://github.com/google/leveldb">
      LevelDB
     </a>
-    <span>
-     &#9733 5683, pushed 4 days ago
-    </span>
     - Google's high performance key/value database.
    </li>
    <li>
@@ -2333,6 +2417,12 @@ ils and flask.
     - Another fault-tolerant key-value NoSQL database.
    </li>
   </ul>
+  <sup>
+   46 GitHub links in total 448 links, ★ 5683, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5683, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -2346,19 +2436,25 @@ ils and flask.
   <a href="https://github.com/jordansissel/fpm">
    fpm
   </a>
-  <span>
-   &#9733 6468, pushed 5 days ago
-  </span>
   - Versatile multi format package creator.
+  <sup>
+   46 GitHub links in total 448 links, ★ 6468, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 6468, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chef/omnibus">
    omnibus-ruby
   </a>
-  <span>
-   &#9733 727, pushed 6 days ago
-  </span>
   - Full stack, cross distro packaging software (Ruby).
+  <sup>
+   46 GitHub links in total 448 links, ★ 727, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 727, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://packman.readthedocs.org">
@@ -2370,10 +2466,13 @@ ils and flask.
   <a href="https://github.com/dgoodwin/tito">
    tito
   </a>
-  <span>
-   &#9733 177, pushed 10 days ago
-  </span>
   - Builds RPMs for git-based projects.
+  <sup>
+   46 GitHub links in total 448 links, ★ 177, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 177, pushed 10 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2532,10 +2631,13 @@ ils and flask.
   <a href="https://github.com/StackExchange/blackbox">
    Blackbox
   </a>
-  <span>
-   &#9733 2529, pushed 8 days ago
-  </span>
   - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
+  <sup>
+   46 GitHub links in total 448 links, ★ 2529, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2529, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.bro.org/">
@@ -2559,10 +2661,13 @@ ils and flask.
   <a href="https://github.com/certsocietegenerale/FIR">
    FIR
   </a>
-  <span>
-   &#9733 530, pushed 13 days ago
-  </span>
   - Fast Incident Response, a cybersecurity incident management platform.
+  <sup>
+   46 GitHub links in total 448 links, ★ 530, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 530, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.cipherdyne.org/fwknop/">
@@ -2580,10 +2685,13 @@ ils and flask.
   <a href="https://github.com/desaster/kippo">
    Kippo
   </a>
-  <span>
-   &#9733 628, pushed 195 days ago
-  </span>
   - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
+  <sup>
+   46 GitHub links in total 448 links, ★ 628, pushed 195 days ago
+  </sup>
+  <sup>
+   &#9733 628, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.rfxn.com/projects/linux-malware-detect/">
@@ -2648,19 +2756,25 @@ ils and flask.
   <a href="https://github.com/ha/doozerd">
    Doozerd
   </a>
-  <span>
-   &#9733 2663, pushed 48 days ago
-  </span>
   - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+  <sup>
+   46 GitHub links in total 448 links, ★ 2663, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 2663, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coreos/etcd">
    etcd
   </a>
-  <span>
-   &#9733 9440, pushed 2 days ago
-  </span>
   - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
+  <sup>
+   46 GitHub links in total 448 links, ★ 9440, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 9440, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://zookeeper.apache.org/">
@@ -2746,10 +2860,13 @@ ils and flask.
   <a href="https://github.com/cloudtools/ssh-cert-authority">
    ssh-cert-authority
   </a>
-  <span>
-   &#9733 123, pushed 4 days ago
-  </span>
   - A democratic SSH certificate authority.
+  <sup>
+   46 GitHub links in total 448 links, ★ 123, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 123, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cloudtools/ssh-ca/">
@@ -2767,10 +2884,13 @@ ils and flask.
   <a href="https://github.com/Russell91/sshrc">
    sshrc
   </a>
-  <span>
-   &#9733 3240, pushed 2 days ago
-  </span>
   - sources ~/.sshrc on your local computer after logging in remotely.
+  <sup>
+   46 GitHub links in total 448 links, ★ 3240, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3240, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://stormssh.readthedocs.org">
@@ -2849,10 +2969,13 @@ ils and flask.
   <a href="https://github.com/brendangregg/perf-tools">
    perf-tools
   </a>
-  <span>
-   &#9733 2243, pushed 13 days ago
-  </span>
   - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+  <sup>
+   46 GitHub links in total 448 links, ★ 2243, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 2243, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sysdig.org/">
@@ -3026,10 +3149,13 @@ ils and flask.
   <a href="https://github.com/apenwarr/sshuttle">
    sshuttle
   </a>
-  <span>
-   &#9733 6763, pushed 10 days ago
-  </span>
   - Poor man's VPN.
+  <sup>
+   46 GitHub links in total 448 links, ★ 6763, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 6763, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.strongswan.org/">
@@ -3235,7 +3361,7 @@ ils and flask.
   <a href="https://stackexchange.com/sites#technology">
    StackExchange Network
   </a>
-  – Q&A communities.
+  – Q&A; communities.
   <ul>
    <li>
     <a href="https://serverfault.com/">

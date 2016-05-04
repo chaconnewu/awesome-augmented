@@ -338,10 +338,13 @@
   <a href="https://github.com/jamesgpearce/confess">
    Confess
   </a>
-  <span>
-   &#9733 790, pushed 25 days ago
-  </span>
   - Uses PhantomJS to headlessly analyze web pages and generate manifests.
+  <sup>
+   111 GitHub links in total 227 links, ★ 790, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 790, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developers.google.com/speed/pagespeed/">
@@ -353,10 +356,13 @@
   <a href="https://github.com/marcelduran/yslow">
    YSlow
   </a>
-  <span>
-   &#9733 1695, pushed 209 days ago
-  </span>
   - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1695, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 1695, pushed 209 days ago
+  </sup>
  </li>
  <li>
   <a href="http://yslow.org/phantomjs/">
@@ -368,45 +374,57 @@
   <a href="https://github.com/sideroad/grunt-wpt">
    Grunt-WebPageTest
   </a>
-  <span>
-   &#9733 34, pushed 72 days ago
-  </span>
   - Grunt plugin for continuously measurement of WebPageTest. (
   <a href="http://sideroad.github.io/sample-wpt-page/">
    Demo
   </a>
   )
+  <sup>
+   111 GitHub links in total 227 links, ★ 34, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/andyshora/grunt-yslow">
    Grunt-yslow
   </a>
-  <span>
-   &#9733 91, pushed 72 days ago
-  </span>
   - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
+  <sup>
+   111 GitHub links in total 227 links, ★ 91, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tkadlec/grunt-perfbudget">
    Grunt-perfbudget
   </a>
-  <span>
-   &#9733 749, pushed 72 days ago
-  </span>
   - A Grunt.js task for enforcing a performance budget (
   <a href="https://timkadlec.com/2013/01/setting-a-performance-budget/">
    more on performance budgets
   </a>
   ).
+  <sup>
+   111 GitHub links in total 227 links, ★ 749, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 749, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/tracing-framework">
    Web Tracing Framework
   </a>
-  <span>
-   &#9733 2199, pushed 9 days ago
-  </span>
   - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
+  <sup>
+   111 GitHub links in total 227 links, ★ 2199, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 2199, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/">
@@ -418,10 +436,13 @@
   <a href="https://github.com/yandex/yandex-tank">
    Yandex.Tank
   </a>
-  <span>
-   &#9733 839, pushed 3 days ago
-  </span>
   - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
+  <sup>
+   111 GitHub links in total 227 links, ★ 839, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 839, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://yellowlab.tools">
@@ -451,19 +472,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jmervine/node-yslowjs">
    Node-yslowjs
   </a>
-  <span>
-   &#9733 6, pushed 73 days ago
-  </span>
   - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
+  <sup>
+   111 GitHub links in total 227 links, ★ 6, pushed 74 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 74 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addyosmani/psi">
    PSI
   </a>
-  <span>
-   &#9733 2125, pushed 25 days ago
-  </span>
   - PageSpeed Insights for Node - with reporting.
+  <sup>
+   111 GitHub links in total 227 links, ★ 2125, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 2125, pushed 25 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -474,10 +501,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/mdo/css-perf">
    CSS-perf
   </a>
-  <span>
-   &#9733 567, pushed 306 days ago
-  </span>
   - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+  <sup>
+   111 GitHub links in total 227 links, ★ 567, pushed 306 days ago
+  </sup>
+  <sup>
+   &#9733 567, pushed 306 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -505,55 +535,73 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/broofa/jslitmus">
    JSlitmus
   </a>
-  <span>
-   &#9733 149, pushed 2076 days ago
-  </span>
   - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
+  <sup>
+   111 GitHub links in total 227 links, ★ 149, pushed 2076 days ago
+  </sup>
+  <sup>
+   &#9733 149, pushed 2076 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/logicalparadox/matcha">
    Matcha
   </a>
-  <span>
-   &#9733 343, pushed 7 days ago
-  </span>
   - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+  <sup>
+   111 GitHub links in total 227 links, ★ 343, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 343, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addyosmani/timing.js">
    Timing.js
   </a>
-  <span>
-   &#9733 1045, pushed 65 days ago
-  </span>
   - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1045, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 1045, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mrdoob/stats.js">
    Stats.js
   </a>
-  <span>
-   &#9733 3060, pushed 13 days ago
-  </span>
   - This class provides a simple info box that will help you monitor your code performance.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3060, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 3060, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kogarashisan/PerfTests">
    PerfTests
   </a>
-  <span>
-   &#9733 1, pushed 367 days ago
-  </span>
   - Performance tests of JavaScript inheritance models.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1, pushed 367 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 367 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulirish/memory-stats.js">
    Memory-stats.js
   </a>
-  <span>
-   &#9733 1825, pushed 305 days ago
-  </span>
   - minimal monitor for JS Heap Size via performance memory.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1825, pushed 305 days ago
+  </sup>
+  <sup>
+   &#9733 1825, pushed 305 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -564,19 +612,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/mre/PHPench">
    PHPench
   </a>
-  <span>
-   &#9733 34, pushed 20 days ago
-  </span>
   - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
+  <sup>
+   111 GitHub links in total 227 links, ★ 34, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jacobbednarz/php-bench">
    php-bench
   </a>
-  <span>
-   &#9733 7, pushed 456 days ago
-  </span>
   - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
+  <sup>
+   111 GitHub links in total 227 links, ★ 7, pushed 456 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 456 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -603,19 +657,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/zeman/perfmap">
    PerfMap
   </a>
-  <span>
-   &#9733 3751, pushed 560 days ago
-  </span>
   - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3751, pushed 560 days ago
+  </sup>
+  <sup>
+   &#9733 3751, pushed 560 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madrobby/dom-monster">
    DOM Monster
   </a>
-  <span>
-   &#9733 543, pushed 886 days ago
-  </span>
   - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
+  <sup>
+   111 GitHub links in total 227 links, ★ 543, pushed 886 days ago
+  </sup>
+  <sup>
+   &#9733 543, pushed 886 days ago
+  </sup>
  </li>
  <li>
   <a href="http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling">
@@ -627,9 +687,6 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/micmro/performance-bookmarklet">
    Performance-Bookmarklet
   </a>
-  <span>
-   &#9733 546, pushed 149 days ago
-  </span>
   - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As
   <a href="https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en">
    Chrome Extension
@@ -639,6 +696,12 @@ It covers resources and code analysis as well as content and social audit.
    Firefox Add-on
   </a>
   under the name Performance-Analyser.
+  <sup>
+   111 GitHub links in total 227 links, ★ 546, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 546, pushed 149 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -658,10 +721,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jsdelivr/jsdelivr">
    jsDelivr
   </a>
-  <span>
-   &#9733 1719, pushed 1 days ago
-  </span>
   - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1719, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1719, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developers.google.com/speed/libraries/">
@@ -703,10 +769,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/MaxCDN/osscdn">
    OSSCDN
   </a>
-  <span>
-   &#9733 90, pushed 197 days ago
-  </span>
   - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
+  <sup>
+   111 GitHub links in total 227 links, ★ 90, pushed 197 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 197 days ago
+  </sup>
  </li>
  <li>
   <a href="https://cdnify.com/">
@@ -778,19 +847,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jsonmaur/cdnex">
    Cdnex
   </a>
-  <span>
-   &#9733 16, pushed 15 days ago
-  </span>
   - Prepends asset urls with custom CDN urls.
+  <sup>
+   111 GitHub links in total 227 links, ★ 16, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-google-cdn">
    Gulp-google-cdn
   </a>
-  <span>
-   &#9733 65, pushed 171 days ago
-  </span>
   - Replaces script references with Google CDN ones.
+  <sup>
+   111 GitHub links in total 227 links, ★ 65, pushed 171 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 171 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -806,19 +881,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/heldr/grunt-smushit">
    Grunt-smushit
   </a>
-  <span>
-   &#9733 94, pushed 37 days ago
-  </span>
   - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
+  <sup>
+   111 GitHub links in total 227 links, ★ 94, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/heldr/gulp-smushit">
    Gulp-smushit
   </a>
-  <span>
-   &#9733 11, pushed 37 days ago
-  </span>
   - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
+  <sup>
+   111 GitHub links in total 227 links, ★ 11, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.smushit.com/ysmush.it/">
@@ -830,37 +911,49 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/imagemin/imagemin">
    Imagemin
   </a>
-  <span>
-   &#9733 733, pushed 4 days ago
-  </span>
   - Minify images seamlessly with Node.js.
+  <sup>
+   111 GitHub links in total 227 links, ★ 733, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 733, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lovell/sharp">
    Sharp
   </a>
-  <span>
-   &#9733 3154, pushed 2 days ago
-  </span>
   - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3154, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3154, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/aheckmann/gm">
    Gm
   </a>
-  <span>
-   &#9733 3160, pushed 6 days ago
-  </span>
   - GraphicsMagick and ImageMagick for node.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3160, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3160, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/h4cc/awesome-elixir">
    Exexif
   </a>
-  <span>
-   &#9733 3654, pushed 2 days ago
-  </span>
   - Pure elixir library to extract tiff and exif metadata from jpeg files.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3654, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3654, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://optipng.sourceforge.net/">
@@ -872,37 +965,49 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/gruntjs/grunt-contrib-imagemin">
    Grunt-contrib-imagemin
   </a>
-  <span>
-   &#9733 1091, pushed 25 days ago
-  </span>
   - Minify PNG and JPEG images for Grunt.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1091, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 1091, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-imagemin">
    Gulp-imagemin
   </a>
-  <span>
-   &#9733 764, pushed 2 days ago
-  </span>
   - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
+  <sup>
+   111 GitHub links in total 227 links, ★ 764, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 764, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/somerandomdude/grunt-webp">
    Grunt-WebP
   </a>
-  <span>
-   &#9733 111, pushed 72 days ago
-  </span>
   - Convert your images to WebP format.
+  <sup>
+   111 GitHub links in total 227 links, ★ 111, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 111, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-webp">
    Gulp-WebP
   </a>
-  <span>
-   &#9733 63, pushed 25 days ago
-  </span>
   - Convert images to WebP for Gulp.
+  <sup>
+   111 GitHub links in total 227 links, ★ 63, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://imageoptim.com/">
@@ -914,19 +1019,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/JamieMason/grunt-imageoptim">
    Grunt-imageoptim
   </a>
-  <span>
-   &#9733 484, pushed 67 days ago
-  </span>
   - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
+  <sup>
+   111 GitHub links in total 227 links, ★ 484, pushed 67 days ago
+  </sup>
+  <sup>
+   &#9733 484, pushed 67 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JamieMason/ImageOptim-CLI">
    ImageOptim-CLI
   </a>
-  <span>
-   &#9733 1960, pushed 83 days ago
-  </span>
   - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1960, pushed 83 days ago
+  </sup>
+  <sup>
+   &#9733 1960, pushed 83 days ago
+  </sup>
  </li>
  <li>
   <a href="https://tinypng.com/">
@@ -950,28 +1061,37 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/mozilla/mozjpeg">
    mozjpeg
   </a>
-  <span>
-   &#9733 1949, pushed 37 days ago
-  </span>
   - Improved JPEG encoder.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1949, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 1949, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tjko/jpegoptim">
    Jpegoptim
   </a>
-  <span>
-   &#9733 390, pushed 39 days ago
-  </span>
   - Utility to optimize/compress JPEG files.
+  <sup>
+   111 GitHub links in total 227 links, ★ 390, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 390, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/zopfli">
    ZopfliPNG
   </a>
-  <span>
-   &#9733 961, pushed 2 days ago
-  </span>
   - A command line program to optimize PNG images.
+  <sup>
+   111 GitHub links in total 227 links, ★ 961, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 961, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.advancemame.it/doc-advpng.html">
@@ -983,10 +1103,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/JayXon/Leanify">
    Leanify
   </a>
-  <span>
-   &#9733 260, pushed 9 days ago
-  </span>
   - Lightweight lossless file minifier/optimizer.
+  <sup>
+   111 GitHub links in total 227 links, ★ 260, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 260, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://trimage.org/">
@@ -1003,10 +1126,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/vvo/lazyload">
    lazyload
   </a>
-  <span>
-   &#9733 787, pushed 34 days ago
-  </span>
   - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
+  <sup>
+   111 GitHub links in total 227 links, ★ 787, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 787, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1017,10 +1143,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/headjs/headjs">
    HeadJS
   </a>
-  <span>
-   &#9733 3949, pushed 312 days ago
-  </span>
   - The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3949, pushed 312 days ago
+  </sup>
+  <sup>
+   &#9733 3949, pushed 312 days ago
+  </sup>
  </li>
  <li>
   <a href="http://requirejs.org/">
@@ -1038,28 +1167,37 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/wessman/defer.js">
    Defer.js
   </a>
-  <span>
-   &#9733 63, pushed 1123 days ago
-  </span>
   - Async Everything: Make the meat of your pages load faster with this JS morsel.
+  <sup>
+   111 GitHub links in total 227 links, ★ 63, pushed 1123 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 1123 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dieulot/instantclick">
    InstantClick
   </a>
-  <span>
-   &#9733 4054, pushed 45 days ago
-  </span>
   - InstantClick makes following links in your website instant.
+  <sup>
+   111 GitHub links in total 227 links, ★ 4054, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 4054, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shootaroo/jit-grunt">
    JIT
   </a>
-  <span>
-   &#9733 465, pushed 70 days ago
-  </span>
   - A JIT (Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins.
+  <sup>
+   111 GitHub links in total 227 links, ★ 465, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 465, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1070,10 +1208,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/macbre/phantomas">
    Phantomas
   </a>
-  <span>
-   &#9733 1639, pushed 26 days ago
-  </span>
   - PhantomJS-based web performance metrics collector and monitoring tool.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1639, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 1639, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.showslow.com/">
@@ -1085,19 +1226,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jmervine/bench">
    Bench
   </a>
-  <span>
-   &#9733 24, pushed 226 days ago
-  </span>
   - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
+  <sup>
+   111 GitHub links in total 227 links, ★ 24, pushed 226 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 226 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/keepfast/keepfast">
    Keepfast
   </a>
-  <span>
-   &#9733 80, pushed 62 days ago
-  </span>
   - Tool to monitor indicators related to performance of a web page.
+  <sup>
+   111 GitHub links in total 227 links, ★ 80, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gtmetrix.com/">
@@ -1121,10 +1268,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/pitomba/libra">
    Libra
   </a>
-  <span>
-   &#9733 2, pushed 868 days ago
-  </span>
   - Libra is a service to measure the weight along the time, written in Python.
+  <sup>
+   111 GitHub links in total 227 links, ★ 2, pushed 868 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 868 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.webpagetest.org/">
@@ -1142,10 +1292,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/stefanjudis/grunt-phantomas">
    Grunt-phantomas
   </a>
-  <span>
-   &#9733 282, pushed 71 days ago
-  </span>
   - Grunt plugin wrapping phantomas to measure frontend performance.
+  <sup>
+   111 GitHub links in total 227 links, ★ 282, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 282, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/perfjankie">
@@ -1190,10 +1343,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/marcelduran/webpagetest-api">
    WebPageTest API Wrapper for NodeJS
   </a>
-  <span>
-   &#9733 803, pushed 99 days ago
-  </span>
   - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool.
+  <sup>
+   111 GitHub links in total 227 links, ★ 803, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 803, pushed 99 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1210,73 +1366,97 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/cobrateam/django-htmlmin">
    Django-htmlmin
   </a>
-  <span>
-   &#9733 266, pushed 16 days ago
-  </span>
   - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
+  <sup>
+   111 GitHub links in total 227 links, ★ 266, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 266, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kangax/html-minifier">
    HTMLMinifier
   </a>
-  <span>
-   &#9733 1505, pushed 2 days ago
-  </span>
   - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1505, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1505, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gruntjs/grunt-contrib-htmlmin">
    Grunt-contrib-htmlmin
   </a>
-  <span>
-   &#9733 385, pushed 14 days ago
-  </span>
   - A grunt plugin to minify HTML that uses HTMLMinifier.
+  <sup>
+   111 GitHub links in total 227 links, ★ 385, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 385, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonschlinkert/gulp-htmlmin">
    Gulp-htmlmin
   </a>
-  <span>
-   &#9733 280, pushed 3 days ago
-  </span>
   - A gulp plugin to minify HTML that uses HTMLMinifier.
+  <sup>
+   111 GitHub links in total 227 links, ★ 280, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 280, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jney/grunt-htmlcompressor">
    Grunt-htmlcompressor
   </a>
-  <span>
-   &#9733 34, pushed 869 days ago
-  </span>
   - Grunt plugin for html compression, using htmlcompressor.
+  <sup>
+   111 GitHub links in total 227 links, ★ 34, pushed 869 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 869 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stereobooster/html_minifier">
    HTML_minifier
   </a>
-  <span>
-   &#9733 5, pushed 1241 days ago
-  </span>
   - Ruby wrapper for kangax html-minifier.
+  <sup>
+   111 GitHub links in total 227 links, ★ 5, pushed 1241 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 1241 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stereobooster/html_press">
    HTML_press
   </a>
-  <span>
-   &#9733 31, pushed 20 days ago
-  </span>
   - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
+  <sup>
+   111 GitHub links in total 227 links, ★ 31, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/koajs/html-minifier">
    Koa HTML Minifier
   </a>
-  <span>
-   &#9733 16, pushed 98 days ago
-  </span>
   - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
+  <sup>
+   111 GitHub links in total 227 links, ★ 16, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kangax.github.io/html-minifier/">
@@ -1288,19 +1468,25 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/Swaagie/minimize">
    Minimize
   </a>
-  <span>
-   &#9733 111, pushed 113 days ago
-  </span>
   - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
+  <sup>
+   111 GitHub links in total 227 links, ★ 111, pushed 113 days ago
+  </sup>
+  <sup>
+   &#9733 111, pushed 113 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/deanhume/html-minifier">
    Html-minifier
   </a>
-  <span>
-   &#9733 44, pushed 14 days ago
-  </span>
   - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views
+  <sup>
+   111 GitHub links in total 227 links, ★ 44, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1311,28 +1497,37 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/yui/yuicompressor">
    YUI Compressor
   </a>
-  <span>
-   &#9733 2148, pushed 8 days ago
-  </span>
   - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
+  <sup>
+   111 GitHub links in total 227 links, ★ 2148, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2148, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mishoo/UglifyJS2">
    UglifyJS2
   </a>
-  <span>
-   &#9733 4720, pushed 2 days ago
-  </span>
   - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript.
+  <sup>
+   111 GitHub links in total 227 links, ★ 4720, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4720, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/css/csso">
    CSSO
   </a>
-  <span>
-   &#9733 1516, pushed 23 days ago
-  </span>
   - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1516, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 1516, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js">
@@ -1344,37 +1539,49 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/gruntjs/grunt-contrib-concat">
    Grunt-contrib-concat
   </a>
-  <span>
-   &#9733 722, pushed 12 days ago
-  </span>
   - A Grunt plugin to concatenate files.
+  <sup>
+   111 GitHub links in total 227 links, ★ 722, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 722, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gruntjs/grunt-contrib-uglify">
    Grunt-contrib-uglify
   </a>
-  <span>
-   &#9733 1218, pushed 24 days ago
-  </span>
   - A Grunt plugin to concatenate and minify Javascript files.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1218, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 1218, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jakubpawlowicz/clean-css">
    Clean-css
   </a>
-  <span>
-   &#9733 1847, pushed 3 days ago
-  </span>
   - A fast, efficient, and well tested CSS minifier for node.js.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1847, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1847, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/django-compressor/django-compressor">
    Django-compressor
   </a>
-  <span>
-   &#9733 1663, pushed 3 days ago
-  </span>
   - Compresses linked and inline javascript or CSS into a single cached file.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1663, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1663, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cyberdelia/django-pipeline">
@@ -1386,10 +1593,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/tedious/JShrink">
    JShrink
   </a>
-  <span>
-   &#9733 405, pushed 258 days ago
-  </span>
   - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
+  <sup>
+   111 GitHub links in total 227 links, ★ 405, pushed 258 days ago
+  </sup>
+  <sup>
+   &#9733 405, pushed 258 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jscompress.com/">
@@ -1401,73 +1611,97 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/stoyan/cssshrink">
    CSSshrink
   </a>
-  <span>
-   &#9733 1059, pushed 666 days ago
-  </span>
   - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
+  <sup>
+   111 GitHub links in total 227 links, ★ 1059, pushed 666 days ago
+  </sup>
+  <sup>
+   &#9733 1059, pushed 666 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JohnCashmore/grunt-cssshrink">
    Grunt-cssshrink
   </a>
-  <span>
-   &#9733 28, pushed 73 days ago
-  </span>
   - This is just a grunt wrapper for CSS Shrink.
+  <sup>
+   111 GitHub links in total 227 links, ★ 28, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/torrottum/gulp-cssshrink">
    Gulp-cssshrink
   </a>
-  <span>
-   &#9733 23, pushed 46 days ago
-  </span>
   - Shrinks CSS files using cssshrink for Gulp.
+  <sup>
+   111 GitHub links in total 227 links, ★ 23, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stoyan/prettyugly">
    Prettyugly
   </a>
-  <span>
-   &#9733 7, pushed 679 days ago
-  </span>
   - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
+  <sup>
+   111 GitHub links in total 227 links, ★ 7, pushed 679 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 679 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gruntjs/grunt-contrib-cssmin">
    Grunt-contrib-cssmin
   </a>
-  <span>
-   &#9733 701, pushed 4 days ago
-  </span>
   - CSS Minifier for Grunt.
+  <sup>
+   111 GitHub links in total 227 links, ★ 701, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 701, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chilijung/gulp-cssmin">
    Gulp-cssmin
   </a>
-  <span>
-   &#9733 40, pushed 374 days ago
-  </span>
   - CSS Minifier for Gulp.
+  <sup>
+   111 GitHub links in total 227 links, ★ 40, pushed 374 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 374 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addyosmani/grunt-uncss">
    Grunt-uncss
   </a>
-  <span>
-   &#9733 3793, pushed 6 days ago
-  </span>
   - A grunt task for removing unused CSS from your projects.
+  <sup>
+   111 GitHub links in total 227 links, ★ 3793, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3793, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ben-eb/gulp-uncss">
    Gulp-uncss
   </a>
-  <span>
-   &#9733 687, pushed 47 days ago
-  </span>
   - A gulp task for removing unused CSS from your projects.
+  <sup>
+   111 GitHub links in total 227 links, ★ 687, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 687, pushed 47 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1485,33 +1719,48 @@ It covers resources and code analysis as well as content and social audit.
    uCSS
   </a>
   - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1557, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1557, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jakutis/httpinvoke">
    HTTPinvoke
   </a>
-  <span>
-   &#9733 355, pushed 99 days ago
-  </span>
   - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
+  <sup>
+   111 GitHub links in total 227 links, ★ 355, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 355, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/addyosmani/critical">
    Critical
   </a>
-  <span>
-   &#9733 3120, pushed 13 days ago
-  </span>
   - Extract & Inline Critical-path CSS in HTML pages (alpha).
+  <sup>
+   111 GitHub links in total 227 links, ★ 3120, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 3120, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stoyan/csscolormin">
    Csscolormin
   </a>
-  <span>
-   &#9733 12, pushed 90 days ago
-  </span>
   - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
+  <sup>
+   111 GitHub links in total 227 links, ★ 12, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.stylestats.org/">
@@ -1523,10 +1772,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/aFarkas/lazysizes">
    Lazysizes
   </a>
-  <span>
-   &#9733 4552, pushed 2 days ago
-  </span>
   - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+  <sup>
+   111 GitHub links in total 227 links, ★ 4552, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4552, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://perf-tooling.today/">
@@ -1538,10 +1790,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/addyosmani/tmi">
    TMI
   </a>
-  <span>
-   &#9733 1653, pushed 317 days ago
-  </span>
   - TMI (Too Many Images) - discover your image weight on the web.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1653, pushed 317 days ago
+  </sup>
+  <sup>
+   &#9733 1653, pushed 317 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1552,28 +1807,37 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jorgebastida/glue">
    Glue
   </a>
-  <span>
-   &#9733 2477, pushed 2 days ago
-  </span>
   - Glue is a simple command line tool to generate sprites:
+  <sup>
+   111 GitHub links in total 227 links, ★ 2477, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2477, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pitomba/spriter">
    Pitomba-spriter
   </a>
-  <span>
-   &#9733 19, pushed 571 days ago
-  </span>
   - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
+  <sup>
+   111 GitHub links in total 227 links, ★ 19, pushed 571 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 571 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ensighten/grunt-spritesmith">
    Grunt-spritesmith
   </a>
-  <span>
-   &#9733 1096, pushed 45 days ago
-  </span>
   - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1096, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 1096, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/grunt-sprite-css-replace">
@@ -1591,37 +1855,49 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/aslansky/gulp-sprite">
    Gulp-sprite
   </a>
-  <span>
-   &#9733 13, pushed 165 days ago
-  </span>
   - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
+  <sup>
+   111 GitHub links in total 227 links, ★ 13, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 165 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shakyShane/gulp-svg-sprites">
    Gulp-svg-sprites
   </a>
-  <span>
-   &#9733 202, pushed 327 days ago
-  </span>
   - gulp task for creating svg sprites.
+  <sup>
+   111 GitHub links in total 227 links, ★ 202, pushed 327 days ago
+  </sup>
+  <sup>
+   &#9733 202, pushed 327 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kajyr/SvgToCSS">
    SvgToCSS
   </a>
-  <span>
-   &#9733 1, pushed 46 days ago
-  </span>
   - Optimizes and renders SVG files in css / sass sprites.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/assetgraph/assetgraph-sprite">
    Assetgraph-sprite
   </a>
-  <span>
-   &#9733 31, pushed 2 days ago
-  </span>
   - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
+  <sup>
+   111 GitHub links in total 227 links, ★ 31, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.spritecow.com/">
@@ -1651,10 +1927,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/sprity/sprity">
    Sprity
   </a>
-  <span>
-   &#9733 214, pushed 2 days ago
-  </span>
   - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
+  <sup>
+   111 GitHub links in total 227 links, ★ 214, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 214, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1665,10 +1944,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/svg/svgo">
    SVGO
   </a>
-  <span>
-   &#9733 4563, pushed 1 days ago
-  </span>
   - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
+  <sup>
+   111 GitHub links in total 227 links, ★ 4563, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4563, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://jakearchibald.github.io/svgomg/">
@@ -1680,10 +1962,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/sindresorhus/grunt-svgmin">
    Grunt-svgmin
   </a>
-  <span>
-   &#9733 424, pushed 25 days ago
-  </span>
   - Minify SVG using SVGO for Grunt.
+  <sup>
+   111 GitHub links in total 227 links, ★ 424, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 424, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/gulp-svgmin">
@@ -1701,10 +1986,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/RazrFalcon/SVGCleaner">
    SVG Cleaner
   </a>
-  <span>
-   &#9733 202, pushed 9 days ago
-  </span>
   - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
+  <sup>
+   111 GitHub links in total 227 links, ★ 202, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 202, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1715,28 +2003,37 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/Polymer/vulcanize">
    Vulcanize
   </a>
-  <span>
-   &#9733 1035, pushed 12 days ago
-  </span>
   - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
+  <sup>
+   111 GitHub links in total 227 links, ★ 1035, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1035, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Polymer/grunt-vulcanize">
    Grunt-vulcanize
   </a>
-  <span>
-   &#9733 56, pushed 249 days ago
-  </span>
   - Grunt task for Polymer's Vulcanize.
+  <sup>
+   111 GitHub links in total 227 links, ★ 56, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 249 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/gulp-vulcanize">
    Gulp-vulcanize
   </a>
-  <span>
-   &#9733 101, pushed 47 days ago
-  </span>
   - Concatenate a set of Web Components into one file that use Vulcanize.
+  <sup>
+   111 GitHub links in total 227 links, ★ 101, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 101, pushed 47 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1747,10 +2044,13 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/httperf/httperf">
    HTTPerf
   </a>
-  <span>
-   &#9733 218, pushed 33 days ago
-  </span>
   - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
+  <sup>
+   111 GitHub links in total 227 links, ★ 218, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jmeter.apache.org/download_jmeter.cgi">
@@ -1768,74 +2068,98 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/igrigorik/autoperf">
    Autoperf
   </a>
-  <span>
-   &#9733 182, pushed 566 days ago
-  </span>
   - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single end point, or through log replay.
+  <sup>
+   111 GitHub links in total 227 links, ★ 182, pushed 566 days ago
+  </sup>
+  <sup>
+   &#9733 182, pushed 566 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmervine/httperfrb">
    HTTPerf.rb
   </a>
-  <span>
-   &#9733 14, pushed 414 days ago
-  </span>
   - Simple Ruby interface for httperf, written in Ruby.
+  <sup>
+   111 GitHub links in total 227 links, ★ 14, pushed 414 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 414 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmervine/php-httperf">
    PHP-httperf
   </a>
-  <span>
-   &#9733 5, pushed 736 days ago
-  </span>
   - PHP Port of HTTPerf.rb.
+  <sup>
+   111 GitHub links in total 227 links, ★ 5, pushed 736 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 736 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmervine/httperfjs">
    HTTPerf.js
   </a>
-  <span>
-   &#9733 23, pushed 796 days ago
-  </span>
   - JS Port of HTTPerf.rb.
+  <sup>
+   111 GitHub links in total 227 links, ★ 23, pushed 796 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 796 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmervine/httperfpy">
    HTTPerf.py
   </a>
-  <span>
-   &#9733 9, pushed 503 days ago
-  </span>
   - Python Port of HTTPerf.rb.
+  <sup>
+   111 GitHub links in total 227 links, ★ 9, pushed 503 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 503 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmervine/gohttperf">
    Gohttperf
   </a>
-  <span>
-   &#9733 5, pushed 297 days ago
-  </span>
   - Go Port of HTTPerf.rb.
+  <sup>
+   111 GitHub links in total 227 links, ★ 5, pushed 297 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 297 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wg/wrk">
    wrk
   </a>
-  <span>
-   &#9733 8200, pushed 18 days ago
-  </span>
   - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
 processing, and custom reporting)
+  <sup>
+   111 GitHub links in total 227 links, ★ 8200, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 8200, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/newsapps/beeswithmachineguns">
    beeswithmachineguns
   </a>
-  <span>
-   &#9733 3139, pushed 3 days ago
-  </span>
   - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+  <sup>
+   111 GitHub links in total 227 links, ★ 3139, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 3139, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1852,10 +2176,13 @@ processing, and custom reporting)
   <a href="https://github.com/igrigorik/webp-detect">
    WebP-detect
   </a>
-  <span>
-   &#9733 136, pushed 515 days ago
-  </span>
   - WebP with Accept negotiation.
+  <sup>
+   111 GitHub links in total 227 links, ★ 136, pushed 515 days ago
+  </sup>
+  <sup>
+   &#9733 136, pushed 515 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1912,7 +2239,10 @@ processing, and custom reporting)
   <a href="http://www.w3.org/TR/resource-hints/">
    Resource Hints
   </a>
-  - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (<link>). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
+  - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (
+  <link>
+   ). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
+  </link>
  </li>
 </ul>
 <h1>
@@ -1945,19 +2275,25 @@ processing, and custom reporting)
   <a href="https://github.com/bayandin/awesome-awesomeness">
    bayandin/awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   .
+  <sup>
+   111 GitHub links in total 227 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome">
    sindresorhus/awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   .
+  <sup>
+   111 GitHub links in total 227 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h1>

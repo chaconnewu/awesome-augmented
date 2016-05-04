@@ -347,9 +347,12 @@
   <a href="https://github.com/apple/swift">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 29811, pushed 1 days ago
+  </sup>
+  <sup>
    &#9733 29811, pushed 1 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Download Swift
@@ -368,54 +371,72 @@
   <a href="https://github.com/apple/swift-corelibs-foundation">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1824, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 1824, pushed 5 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Core Libs Dispatch Repository
   <a href="https://github.com/apple/swift-corelibs-libdispatch">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 674, pushed 8 days ago
+  </sup>
+  <sup>
    &#9733 674, pushed 8 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Clang Repositroy
   <a href="https://github.com/apple/swift-clang">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 370, pushed 0 days ago
+  </sup>
+  <sup>
    &#9733 370, pushed 0 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift LLDB Repository
   <a href="https://github.com/apple/swift-lldb">
    :pencil2:
   </a>
-  <span>
-   &#9733 319, pushed 1 days ago
-  </span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 319, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 319, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Swift Packages
   <a href="https://github.com/donald-pinckney/swift-packages">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 86, pushed 118 days ago
+  </sup>
+  <sup>
    &#9733 86, pushed 118 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Compiler Crashes
   <a href="https://github.com/practicalswift/swift-compiler-crashes">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 771, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 771, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Latest Code changes in Swift
@@ -450,9 +471,12 @@
   <a href="https://github.com/CodaFi/functional-swift-style-guide">
    :book:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 36, pushed 537 days ago
+  </sup>
+  <sup>
    &#9733 36, pushed 537 days ago
-  </span>
+  </sup>
  </li>
  <li>
   The Official Swift Language Docs
@@ -465,12 +489,15 @@
   <a href="https://github.com/apple/swift-evolution">
    :book:
   </a>
-  <span>
-   &#9733 3723, pushed 0 days ago
-  </span>
   <a href="https://github.com/apple/swift/blob/master/docs/LibraryEvolution.rst">
    :book:
   </a>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 3723, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 3723, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Swift Style Rules
@@ -483,9 +510,12 @@
   <a href="https://github.com/realm/SwiftLint">
    :book:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 3811, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 3811, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Don'ts
@@ -498,18 +528,24 @@
   <a href="https://github.com/erica/SwiftStyle">
    :book:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 16, pushed 98 days ago
+  </sup>
+  <sup>
    &#9733 16, pushed 98 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Prolific Style Guide
   <a href="https://github.com/prolificinteractive/swift-style-guide">
    :book:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 108, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 108, pushed 14 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -567,65 +603,86 @@
     <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">
      :scroll:
     </a>
-    <span>
-     &#9733 406, pushed 10 days ago
-    </span>
    </li>
    <li>
     :fire: Awesome iOS
     <a href="https://github.com/vsouza/awesome-ios">
      :scroll:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 11176, pushed 4 days ago
+    </sup>
+    <sup>
      &#9733 11176, pushed 4 days ago
-    </span>
+    </sup>
    </li>
    <li>
     :fire: Awesome Swift
     <a href="https://github.com/matteocrippa/awesome-swift">
      :scroll:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 7959, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 7959, pushed 3 days ago
-    </span>
+    </sup>
    </li>
    <li>
     :fire: Another Awesome Swift
     <a href="https://github.com/Wolg/awesome-swift">
      :scroll:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2644, pushed 7 days ago
+    </sup>
+    <sup>
      &#9733 2644, pushed 7 days ago
-    </span>
+    </sup>
    </li>
    <li>
     :fire: Awesome Functional Programming
     <a href="https://github.com/xgrommx/awesome-functional-programming">
      :scroll:
     </a>
-    <span>
-     &#9733 422, pushed 3 days ago
-    </span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 422, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 422, pushed 4 days ago
+    </sup>
    </li>
    <li>
     :fire: Awesome iOS Security
     <a href="https://github.com/ashishb/osx-and-ios-security-awesome">
      :link:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 68, pushed 191 days ago
+    </sup>
+    <sup>
      &#9733 68, pushed 191 days ago
-    </span>
+    </sup>
    </li>
    <li>
     :fire: Awesome FRP Swift
     <a href="https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 43, pushed 58 days ago
+    </sup>
+    <sup>
      &#9733 43, pushed 58 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 406, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 406, pushed 10 days ago
+  </sup>
  </li>
  <li>
   Other
@@ -665,9 +722,12 @@
     <a href="https://github.com/futurice/ios-good-practices">
      :scroll:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4220, pushed 5 days ago
+    </sup>
+    <sup>
      &#9733 4220, pushed 5 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Little Bites of Cocoa
@@ -748,9 +808,12 @@
   <a href="https://github.com/ricardorauber/iOS-Swift">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 45, pushed 188 days ago
+  </sup>
+  <sup>
    &#9733 45, pushed 188 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Hacking With Swift
@@ -817,9 +880,12 @@
   <a href="https://github.com/dkhamsing/open-source-ios-apps">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 5505, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 5505, pushed 2 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -1009,92 +1075,94 @@
   </ul>
  </li>
 </ul>
-camera:
-<li>
- MobileKonf 2015
- <a href="https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos">
-  :video
-  <em>
-   camera:
-  </em>
- </a>
-</li>
-<li>
- Functional Swift Conf 2014
- <a href="https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g">
-  :video
- </a>
-</li>
-camera:
-<li>
- Functional Swift Conf 2015
- <a href="http://2015.funswiftconf.com/">
-  :video
-  <em>
-   camera:
-  </em>
- </a>
-</li>
-<li>
- CocoaConf Videos
- <a href="http://cocoaconf.com/videos">
-  :video
- </a>
-</li>
-camera:
-<li>
- All Presentations from 360iDev 2015
- <a href="https://vimeopro.com/360conferences/360idev-2015">
-  :video
-  <em>
-   camera:
-  </em>
- </a>
-</li>
-<li>
- NSSpain 2015 interviews
- <a href="https://www.youtube.com/playlist?list=PLKxa4AIfm4pU5xvPbQ1gaWkYXn7KANFz4">
-  :video
- </a>
-</li>
-camera:
-<li>
- Other Video
- <ul>
-  <li>
-   Cocoaheads.tv
-   <a href="http://cocoaheads.tv/">
-    :video
-    <em>
-     camera:
-    </em>
-   </a>
-  </li>
-  <li>
-   Swift Language Youtube Channel
-   <a href="https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig">
-    :video
-   </a>
-  </li>
- </ul>
-</li>
-camera:
-<li>
- Free Swift Lang Course
- <a href="https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu">
-  :video
-  <em>
-   camera:
-  </em>
- </a>
-</li>
-<li>
- Swift tutorial Video Series
- <a href="https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb">
-  :video
- </a>
-</li>
-camera:
+<p>
+ camera:
+ <li>
+  MobileKonf 2015
+  <a href="https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos">
+   :video
+   <em>
+    camera:
+   </em>
+  </a>
+ </li>
+ <li>
+  Functional Swift Conf 2014
+  <a href="https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g">
+   :video
+  </a>
+ </li>
+ camera:
+ <li>
+  Functional Swift Conf 2015
+  <a href="http://2015.funswiftconf.com/">
+   :video
+   <em>
+    camera:
+   </em>
+  </a>
+ </li>
+ <li>
+  CocoaConf Videos
+  <a href="http://cocoaconf.com/videos">
+   :video
+  </a>
+ </li>
+ camera:
+ <li>
+  All Presentations from 360iDev 2015
+  <a href="https://vimeopro.com/360conferences/360idev-2015">
+   :video
+   <em>
+    camera:
+   </em>
+  </a>
+ </li>
+ <li>
+  NSSpain 2015 interviews
+  <a href="https://www.youtube.com/playlist?list=PLKxa4AIfm4pU5xvPbQ1gaWkYXn7KANFz4">
+   :video
+  </a>
+ </li>
+ camera:
+ <li>
+  Other Video
+  <ul>
+   <li>
+    Cocoaheads.tv
+    <a href="http://cocoaheads.tv/">
+     :video
+     <em>
+      camera:
+     </em>
+    </a>
+   </li>
+   <li>
+    Swift Language Youtube Channel
+    <a href="https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig">
+     :video
+    </a>
+   </li>
+  </ul>
+ </li>
+ camera:
+ <li>
+  Free Swift Lang Course
+  <a href="https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu">
+   :video
+   <em>
+    camera:
+   </em>
+  </a>
+ </li>
+ <li>
+  Swift tutorial Video Series
+  <a href="https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb">
+   :video
+  </a>
+ </li>
+ camera:
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -1114,11 +1182,14 @@ camera:
     <a href="https://github.com/matthewpalmer/Charter">
      :pencil2:
     </a>
-    <span>
-     &#9733 233, pushed 31 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 233, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 31 days ago
+  </sup>
  </li>
  <li>
   Blogs
@@ -1128,9 +1199,6 @@ camera:
     <a href="https://github.com/orta/Swift-at-Artsy">
      :notebook:
     </a>
-    <span>
-     &#9733 223, pushed 72 days ago
-    </span>
    </li>
    <li>
     :raised_hands: Objc.io
@@ -1179,9 +1247,12 @@ camera:
     <a href="https://github.com/vandadnp/swift-weekly">
      :notebook:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 735, pushed 73 days ago
+    </sup>
+    <sup>
      &#9733 735, pushed 73 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Erica Sadun
@@ -1256,6 +1327,12 @@ camera:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 223, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 72 days ago
+  </sup>
  </li>
  <li>
   Conferences
@@ -1265,9 +1342,6 @@ camera:
     <a href="https://github.com/Lascorbe/CocoaConferences">
      :pencil2:
     </a>
-    <span>
-     &#9733 509, pushed 5 days ago
-    </span>
    </li>
    <li>
     7 of the Best Mac & iOS Dev Conferences in 2016
@@ -1280,6 +1354,12 @@ camera:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 509, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 509, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Forums
@@ -1960,9 +2040,12 @@ camera:
     <a href="https://github.com/natecook1000/Collections-in-Swift">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 5, pushed 38 days ago
+    </sup>
+    <sup>
      &#9733 5, pushed 38 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Collection Indices, Slices, and Generics
@@ -2171,9 +2254,12 @@ camera:
     <a href="https://github.com/oisdk/SwiftSequence">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 304, pushed 35 days ago
+    </sup>
+    <sup>
      &#9733 304, pushed 35 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -2205,9 +2291,12 @@ camera:
     <a href="https://github.com/slazyk/SINQ">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 221, pushed 38 days ago
+    </sup>
+    <sup>
      &#9733 221, pushed 38 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Creating a Set Type in Swift
@@ -2360,9 +2449,12 @@ camera:
   <a href="https://github.com/Zewo/Swift-Command-Line-Application-Template">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 26, pushed 16 days ago
+  </sup>
+  <sup>
    &#9733 26, pushed 16 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Using Swift As General Purpose Scripting Language
@@ -2379,18 +2471,24 @@ camera:
   <a href="https://github.com/Carthage/ReactiveTask">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 91, pushed 23 days ago
+  </sup>
+  <sup>
    &#9733 91, pushed 23 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift framework for parsing command-line arguments
   <a href="https://github.com/Carthage/Commandant">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 198, pushed 23 days ago
+  </sup>
+  <sup>
    &#9733 198, pushed 23 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Command Line Utilities in Swift
@@ -2466,186 +2564,197 @@ camera:
   </ul>
  </li>
 </ul>
-up:
-<li>
- GCD and Parallel Collections in Swift
- <a href="http://moreindirection.blogspot.com/2015/07/gcd-and-parallel-collections-in-swift.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- GCD convenience functions
- <a href="http://www.luby.info/2015/02/22/swift-GCD-convenience-functions.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- dispatch_after
- <a href="http://stackoverflow.com/questions/24034544/dispatch-after-gcd-in-swift/24318861#24318861">
-  :link:
- </a>
-</li>
-<li>
- NSOperation
- <ul>
-  <li>
-   NSOperationQueue Dependency Trick
-   <a href="http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   NSOperations and NSOperationQueues
-   <a href="https://medium.com/@raulriera/nsoperations-nsoperationqueue-oh-my-88b707f9ba2e#.ugnvgw9w5">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   NSOperation vc Grand Central Dispatch
-   <a href="http://bartjacobs.com/choosing-between-nsoperation-and-grand-central-dispatch/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   NSOperation Class Reference
-   <a href="https://developer.apple.com/library/ios/documentation/Cocoa/Reference/NSOperation_class/#//apple_ref/c/tdef/NSOperationQueuePriority">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Async
- <ul>
-  <li>
-   Async Await in Swift
-   <a href="https://gist.github.com/kylesluder/478bf8fd8232bc90eabd">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Asynchronous values as first-class citizens
-   <a href="http://www.thomasvisser.me/2015/11/26/async-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Actor Model
- <ul>
-  <li>
-   Actor Model Concurrency in Swift
-   <a href="https://github.com/tomekc/SwiftActors">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 31, pushed 617 days ago
-   </span>
-  </li>
- </ul>
-</li>
-<li>
- Coroutines
- <ul>
-  <li>
-   Coroutines in Swift
-   <a href="https://gist.github.com/mikeash/454f3ba5c2f575d63cb3">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   CSP (Coroutines, Channels, Select) for Swift
-   <a href="https://github.com/Zewo/Venice">
-    :pencil2:
-   </a>
-  </li>
-  <li>
-   True coroutines for Swift
-   <a href="https://github.com/aliceatlas/hexagen">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 154, pushed 304 days ago
-   </span>
-  </li>
- </ul>
-</li>
-<li>
- Locking and Threading
- <ul>
-  <li>
-   STM in Swift
-   <a href="https://github.com/f-dz-v/SwiftSTM">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 47, pushed 126 days ago
-   </span>
-  </li>
-  <li>
-   Threading with Closures
-   <a href="https://tetontech.wordpress.com/2014/06/30/swift-nsoperationqueues-and-threading/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Locking in Swift
-   <a href="https://www.bignerdranch.com/blog/locking-in-swift-helping-protect-me-from-myself/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Custom Threading Operator in Swift
-   <a href="http://ijoshsmith.com/2014/07/05/custom-threading-operator-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://github.com/ijoshsmith/swift-threading">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
+<p>
+ up:
+ <li>
+  GCD and Parallel Collections in Swift
+  <a href="http://moreindirection.blogspot.com/2015/07/gcd-and-parallel-collections-in-swift.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  GCD convenience functions
+  <a href="http://www.luby.info/2015/02/22/swift-GCD-convenience-functions.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  dispatch_after
+  <a href="http://stackoverflow.com/questions/24034544/dispatch-after-gcd-in-swift/24318861#24318861">
+   :link:
+  </a>
+ </li>
+ <li>
+  NSOperation
+  <ul>
+   <li>
+    NSOperationQueue Dependency Trick
+    <a href="http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    NSOperations and NSOperationQueues
+    <a href="https://medium.com/@raulriera/nsoperations-nsoperationqueue-oh-my-88b707f9ba2e#.ugnvgw9w5">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    NSOperation vc Grand Central Dispatch
+    <a href="http://bartjacobs.com/choosing-between-nsoperation-and-grand-central-dispatch/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    NSOperation Class Reference
+    <a href="https://developer.apple.com/library/ios/documentation/Cocoa/Reference/NSOperation_class/#//apple_ref/c/tdef/NSOperationQueuePriority">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Async
+  <ul>
+   <li>
+    Async Await in Swift
+    <a href="https://gist.github.com/kylesluder/478bf8fd8232bc90eabd">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Asynchronous values as first-class citizens
+    <a href="http://www.thomasvisser.me/2015/11/26/async-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Actor Model
+  <ul>
+   <li>
+    Actor Model Concurrency in Swift
+    <a href="https://github.com/tomekc/SwiftActors">
+     :pencil2:
+    </a>
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 31, pushed 617 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 617 days ago
+  </sup>
+ </li>
+ <li>
+  Coroutines
+  <ul>
+   <li>
+    Coroutines in Swift
+    <a href="https://gist.github.com/mikeash/454f3ba5c2f575d63cb3">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    CSP (Coroutines, Channels, Select) for Swift
+    <a href="https://github.com/Zewo/Venice">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    True coroutines for Swift
+    <a href="https://github.com/aliceatlas/hexagen">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 154, pushed 304 days ago
+    </sup>
+    <sup>
+     &#9733 154, pushed 304 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Locking and Threading
+  <ul>
+   <li>
+    STM in Swift
+    <a href="https://github.com/f-dz-v/SwiftSTM">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Threading with Closures
+    <a href="https://tetontech.wordpress.com/2014/06/30/swift-nsoperationqueues-and-threading/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Locking in Swift
+    <a href="https://www.bignerdranch.com/blog/locking-in-swift-helping-protect-me-from-myself/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Custom Threading Operator in Swift
+    <a href="http://ijoshsmith.com/2014/07/05/custom-threading-operator-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://github.com/ijoshsmith/swift-threading">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 47, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 126 days ago
+  </sup>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -2704,30 +2813,39 @@ up:
   <a href="https://github.com/NachoSoto/swift-genetics">
    :pencil2:
   </a>
-  <span>
-   &#9733 33, pushed 493 days ago
-  </span>
   <a href="https://github.com/saniul/Mendel">
    :pencil2:
   </a>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 33, pushed 493 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 494 days ago
+  </sup>
  </li>
  <li>
   Disjoint Sets
   <a href="https://github.com/antitypical/DisjointSet">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 5, pushed 183 days ago
+  </sup>
+  <sup>
    &#9733 5, pushed 183 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Metaprogrammable
   <a href="https://github.com/antitypical/Metaprogrammable">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 5, pushed 212 days ago
+  </sup>
+  <sup>
    &#9733 5, pushed 212 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Fisher-Yates Shuffle for Swift
@@ -2740,9 +2858,12 @@ up:
   <a href="https://github.com/robrix/Either">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 81, pushed 23 days ago
+  </sup>
+  <sup>
    &#9733 81, pushed 23 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Arrays
@@ -2783,14 +2904,17 @@ up:
     <a href="https://github.com/waynewbishop/SwiftStructures">
      :pencil2:
     </a>
-    <span>
-     &#9733 1322, pushed 4 days ago
-    </span>
     <a href="https://github.com/karan/Swift-Algorithms">
      :pencil2:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1322, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1322, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Graphs
@@ -2806,9 +2930,12 @@ up:
     <a href="https://github.com/davecom/SwiftGraph">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 216, pushed 26 days ago
+    </sup>
+    <sup>
      &#9733 216, pushed 26 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -2835,11 +2962,14 @@ up:
     <a href="https://github.com/skyfe79/SwiftImageProcessing">
      :pencil2:
     </a>
-    <span>
-     &#9733 321, pushed 49 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 321, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 321, pushed 49 days ago
+  </sup>
  </li>
  <li>
   Language Processing
@@ -2849,11 +2979,14 @@ up:
     <a href="https://github.com/fcanas/Bayes">
      :pencil2:
     </a>
-    <span>
-     &#9733 7, pushed 108 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 7, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 109 days ago
+  </sup>
  </li>
  <li>
   Lists
@@ -2907,36 +3040,42 @@ up:
     <a href="https://github.com/DeepLearningKit/DeepLearningKit">
      :pencil2:
     </a>
-    <span>
-     &#9733 429, pushed 65 days ago
-    </span>
    </li>
    <li>
     Neural Networks in Swift
     <a href="https://github.com/vlall/Swift-Brain">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 166, pushed 210 days ago
+    </sup>
+    <sup>
      &#9733 166, pushed 210 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Swift AI
     <a href="https://github.com/collinhundley/Swift-AI">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2758, pushed 10 days ago
+    </sup>
+    <sup>
      &#9733 2758, pushed 10 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Learning Machine Learning
     <a href="https://github.com/graceavery/LearningMachineLearning">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 3, pushed 269 days ago
+    </sup>
+    <sup>
      &#9733 3, pushed 269 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Standard implementation of an LRU Cache
@@ -2955,6 +3094,12 @@ up:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 429, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 429, pushed 65 days ago
+  </sup>
  </li>
  <li>
   Math
@@ -2973,27 +3118,36 @@ up:
     <a href="https://github.com/aleph7/Upsurge">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 49, pushed 1 days ago
+    </sup>
+    <sup>
      &#9733 49, pushed 1 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Abstract Algebraic Structures in Swift 2
     <a href="https://github.com/typelift/Algebra">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 28, pushed 42 days ago
+    </sup>
+    <sup>
      &#9733 28, pushed 42 days ago
-    </span>
+    </sup>
    </li>
    <li>
     SwiftGL Math Library
     <a href="https://github.com/SwiftGL/Math">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 7, pushed 64 days ago
+    </sup>
+    <sup>
      &#9733 7, pushed 64 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Sigma Swift Statistics
@@ -3006,9 +3160,12 @@ up:
     <a href="https://github.com/schwa/SwiftGenericGeometry">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2, pushed 32 days ago
+    </sup>
+    <sup>
      &#9733 2, pushed 32 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Darwin
@@ -3021,18 +3178,24 @@ up:
     <a href="https://github.com/taketo1024/SwiftyAlgebra">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 18, pushed 34 days ago
+    </sup>
+    <sup>
      &#9733 18, pushed 34 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Complex Numbers
     <a href="https://github.com/taketo1024/SwiftComplex">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 11, pushed 424 days ago
+    </sup>
+    <sup>
      &#9733 11, pushed 424 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -3055,9 +3218,6 @@ up:
     <a href="https://github.com/hollance/swift-algorithm-club">
      :pencil2:
     </a>
-    <span>
-     &#9733 5152, pushed 4 days ago
-    </span>
    </li>
    <li>
     Algorithms by CosmicMind
@@ -3070,11 +3230,20 @@ up:
     <a href="https://github.com/jindulys/HackerRankSolutions">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 143, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 143, pushed 3 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 5152, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5152, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Sorts
@@ -3090,9 +3259,12 @@ up:
     <a href="https://github.com/dsmatter/SwiftSortUtils">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 46, pushed 71 days ago
+    </sup>
+    <sup>
      &#9733 46, pushed 71 days ago
-    </span>
+    </sup>
    </li>
    <li>
     An analysis of sorts
@@ -3124,9 +3296,6 @@ up:
     <a href="https://github.com/davecom/SwiftPriorityQueue">
      :pencil2:
     </a>
-    <span>
-     &#9733 178, pushed 15 days ago
-    </span>
    </li>
    <li>
     Generic Stack in Swift
@@ -3146,9 +3315,12 @@ up:
     <a href="https://github.com/lorentey/Deque">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 19, pushed 27 days ago
+    </sup>
+    <sup>
      &#9733 19, pushed 27 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Queues
@@ -3171,6 +3343,12 @@ up:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 178, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 178, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Trees
@@ -3209,9 +3387,12 @@ up:
      </em>
      up:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 667, pushed 41 days ago
+    </sup>
+    <sup>
      &#9733 667, pushed 41 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Rose Tree in Swift
@@ -3224,9 +3405,12 @@ up:
     <a href="https://github.com/antitypical/BinaryTree">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 23, pushed 450 days ago
+    </sup>
+    <sup>
      &#9733 23, pushed 450 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Abstract Binding Trees
@@ -3255,9 +3439,12 @@ up:
     <a href="https://github.com/haveahennessy/Patrician">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 13, pushed 386 days ago
+    </sup>
+    <sup>
      &#9733 13, pushed 386 days ago
-    </span>
+    </sup>
    </li>
    <li>
     A Trie
@@ -3274,9 +3461,12 @@ up:
     <a href="https://github.com/tzukuri/SwiftForest">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2, pushed 43 days ago
+    </sup>
+    <sup>
      &#9733 2, pushed 43 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -3307,27 +3497,36 @@ up:
   <a href="https://github.com/malcommac/SwiftDate">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1365, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 1365, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   NSDateFormatter.com
   <a href="https://github.com/subdigital/nsdateformatter.com">
    :link:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 57, pushed 7 days ago
+  </sup>
+  <sup>
    &#9733 57, pushed 7 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Date.Swift
   <a href="https://github.com/devxoul/Date.swift">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 19, pushed 232 days ago
+  </sup>
+  <sup>
    &#9733 19, pushed 232 days ago
-  </span>
+  </sup>
  </li>
  <li>
   A Calendar
@@ -3346,12 +3545,15 @@ up:
   <a href="https://github.com/samhann/Every.swift">
    :oencil2:
   </a>
-  <span>
-   &#9733 209, pushed 102 days ago
-  </span>
   <a href="https://github.com/radex/SwiftyTimer">
    :pencil2:
   </a>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 209, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 209, pushed 102 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -3508,9 +3710,12 @@ up:
     <a href="https://github.com/facebook/chisel">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4811, pushed 5 days ago
+    </sup>
+    <sup>
      &#9733 4811, pushed 5 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Debugging with stack traces in Swift
@@ -3721,361 +3926,372 @@ up:
   </ul>
  </li>
 </ul>
-facing
-<em>
- up:
-</em>
-<li>
- Design Patterns Library in Swift
- <a href="https://github.com/ochococo/Design-Patterns-In-Swift">
-  :page
-  <em>
-   facing
-  </em>
+<p>
+ facing
+ <em>
   up:
+ </em>
+ <li>
+  Design Patterns Library in Swift
+  <a href="https://github.com/ochococo/Design-Patterns-In-Swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 5777, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 5777, pushed 7 days ago
+  </sup>
+ </li>
+ <li>
+  SOLID Design in Swift
+  <a href="https://github.com/ochococo/OOD-Principles-In-Swift">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 53, pushed 368 days ago
+  </sup>
+  <sup>
+   &#9733 53, pushed 368 days ago
+  </sup>
+ </li>
+ <li>
+  Allergies and Dependency Inversion
+  <a href="http://www.theswiftlearner.com/2015/05/17/dependency-inversion/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Template Method
+  <ul>
+   <li>
+    Template Method Pattern in Swift
+    <a href="http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Strategy
+  <ul>
+   <li>
+    Strategy Pattern in Swift
+    <a href="http://jangorman.github.io/blog/2014/11/09/design-patterns-in-swift-strategy/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Command
+  <ul>
+   <li>
+    Command Pattern in Swift
+    <a href="http://jangorman.github.io/blog/2014/11/17/design-patterns-in-swift-command/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Adapter
+  <ul>
+   <li>
+    Adapter Pattern in Swift
+    <a href="http://jangorman.github.io/blog/2014/12/01/design-patterns-in-swift-adapter-pattern/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Builder
+  <ul>
+   <li>
+    Lazy Properties + Builder Pattern
+    <a href="https://medium.com/ios-os-x-development/combining-swifts-lazy-properties-with-the-builder-pattern-211aabff1b40#.whauwyase">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    The Builder Pattern and Fluent Interface
+    <a href="https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Observer
+  <ul>
+   <li>
+    Creating a Cocoa Bindings Observable Pattern in Swift
+    <a href="http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Observer Pattern in Swift
+    <a href="http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    A Better NSNotificationCenter Observer Pattern
+    <a href="http://blog.matthewcheok.com/a-better-nsnotificationcenter/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://gist.github.com/erica/835ffc4c2107a99b6c3a">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Key Value Coding in Swift
+    <a href="http://owensd.io/2015/07/14/key-value-coding-in-swift.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://github.com/bradhilton/SwiftKVC">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Exploring KVO Alternatives in Swift
+    <a href="http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://www.splinter.com.au/2015/07/23/swift-kvo-alternative/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://github.com/slazyk/Observable-Swift">
+     :pencil2:
+    </a>
+    <a href="https://github.com/postmates/PMKVObserver">
+     :pencil2:
+    </a>
+    <a href="https://gist.github.com/correia/001923bc420b942f9865">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Typed Notification Observers
+    <a href="https://www.objc.io/blog/2015/01/19/functional-snippet-16-typed-notification-observers/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Functional Notification Pattern
+    <a href="http://www.jessesquires.com/functional-notifications/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    NSNotificationCenter, Swift, and Blocks
+    <a href="http://moreindirection.blogspot.com/2014/08/nsnotificationcenter-swift-and-blocks.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift KVC Collection Operators
+    <a href="http://andrewbatutin.github.io/swift/2014/12/06/swift-kvc.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Null Object
+  <ul>
+   <li>
+    The Null Object Pattern
+    <a href="https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Factory
+  <ul>
+   <li>
+    Functions as Factories
+    <a href="http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Calling a Swift class factory method with leading dot notation?
+    <a href="http://stackoverflow.com/questions/28794089/calling-a-swift-class-factory-method-with-leading-dot-notation">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Facade
+  <ul>
+   <li>
+    Facade Functions
+    <a href="https://tetontech.wordpress.com/2014/06/25/swift-facades-and-objects-with-collection-type-properties/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Singleton
+  <ul>
+   <li>
+    Swift Singleton
+    <a href="https://github.com/hpique/SwiftSingleton">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Using a dispatch
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 1009, pushed 159 days ago
+  </sup>
+  <sup>
+   &#9733 1009, pushed 159 days ago
+  </sup>
+ </li>
+ once singleton model
+ <a href="http://stackoverflow.com/questions/24024549/using-a-dispatch-once-singleton-model-in-swift">
+  :link:
  </a>
- <span>
-  &#9733 5777, pushed 7 days ago
- </span>
-</li>
-<li>
- SOLID Design in Swift
- <a href="https://github.com/ochococo/OOD-Principles-In-Swift">
-  :pencil2:
- </a>
- <span>
-  &#9733 53, pushed 368 days ago
- </span>
-</li>
-<li>
- Allergies and Dependency Inversion
- <a href="http://www.theswiftlearner.com/2015/05/17/dependency-inversion/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Template Method
- <ul>
-  <li>
-   Template Method Pattern in Swift
-   <a href="http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Strategy
- <ul>
-  <li>
-   Strategy Pattern in Swift
-   <a href="http://jangorman.github.io/blog/2014/11/09/design-patterns-in-swift-strategy/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Command
- <ul>
-  <li>
-   Command Pattern in Swift
-   <a href="http://jangorman.github.io/blog/2014/11/17/design-patterns-in-swift-command/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Adapter
- <ul>
-  <li>
-   Adapter Pattern in Swift
-   <a href="http://jangorman.github.io/blog/2014/12/01/design-patterns-in-swift-adapter-pattern/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Builder
- <ul>
-  <li>
-   Lazy Properties + Builder Pattern
-   <a href="https://medium.com/ios-os-x-development/combining-swifts-lazy-properties-with-the-builder-pattern-211aabff1b40#.whauwyase">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   The Builder Pattern and Fluent Interface
-   <a href="https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Observer
- <ul>
-  <li>
-   Creating a Cocoa Bindings Observable Pattern in Swift
-   <a href="http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Observer Pattern in Swift
-   <a href="http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   A Better NSNotificationCenter Observer Pattern
-   <a href="http://blog.matthewcheok.com/a-better-nsnotificationcenter/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://gist.github.com/erica/835ffc4c2107a99b6c3a">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Key Value Coding in Swift
-   <a href="http://owensd.io/2015/07/14/key-value-coding-in-swift.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://github.com/bradhilton/SwiftKVC">
-    :pencil2:
-   </a>
-  </li>
-  <li>
-   Exploring KVO Alternatives in Swift
-   <a href="http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://www.splinter.com.au/2015/07/23/swift-kvo-alternative/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://github.com/slazyk/Observable-Swift">
-    :pencil2:
-   </a>
-   <a href="https://github.com/postmates/PMKVObserver">
-    :pencil2:
-   </a>
-   <a href="https://gist.github.com/correia/001923bc420b942f9865">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Typed Notification Observers
-   <a href="https://www.objc.io/blog/2015/01/19/functional-snippet-16-typed-notification-observers/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Functional Notification Pattern
-   <a href="http://www.jessesquires.com/functional-notifications/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   NSNotificationCenter, Swift, and Blocks
-   <a href="http://moreindirection.blogspot.com/2014/08/nsnotificationcenter-swift-and-blocks.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift KVC Collection Operators
-   <a href="http://andrewbatutin.github.io/swift/2014/12/06/swift-kvc.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Null Object
- <ul>
-  <li>
-   The Null Object Pattern
-   <a href="https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Factory
- <ul>
-  <li>
-   Functions as Factories
-   <a href="http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Calling a Swift class factory method with leading dot notation?
-   <a href="http://stackoverflow.com/questions/28794089/calling-a-swift-class-factory-method-with-leading-dot-notation">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Facade
- <ul>
-  <li>
-   Facade Functions
-   <a href="https://tetontech.wordpress.com/2014/06/25/swift-facades-and-objects-with-collection-type-properties/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Singleton
- <ul>
-  <li>
-   Swift Singleton
-   <a href="https://github.com/hpique/SwiftSingleton">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 1009, pushed 159 days ago
-   </span>
-  </li>
-  <li>
-   Using a dispatch
-  </li>
- </ul>
-</li>
-once singleton model
-<a href="http://stackoverflow.com/questions/24024549/using-a-dispatch-once-singleton-model-in-swift">
- :link:
-</a>
-<li>
- Decorator
- <ul>
-  <li>
-   Decorator Pattern through composing functions in Swift
-   <a href="http://railsware.com/blog/2014/06/17/composing-functions-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Target Action
- <ul>
-  <li>
-   Target Action Pattern
-   <a href="https://www.mikeash.com/pyblog/friday-qa-2015-12-25-swifty-targetaction.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Class Cluster
- <ul>
-  <li>
-   Class Cluster
-   <a href="http://en.swifter.tips/class-cluster/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
+ <li>
+  Decorator
+  <ul>
+   <li>
+    Decorator Pattern through composing functions in Swift
+    <a href="http://railsware.com/blog/2014/06/17/composing-functions-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Target Action
+  <ul>
+   <li>
+    Target Action Pattern
+    <a href="https://www.mikeash.com/pyblog/friday-qa-2015-12-25-swifty-targetaction.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Class Cluster
+  <ul>
+   <li>
+    Class Cluster
+    <a href="http://en.swifter.tips/class-cluster/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -4152,9 +4368,12 @@ once singleton model
   <a href="https://github.com/alskipp/Swift-Diagram-Playgrounds">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 219, pushed 154 days ago
+  </sup>
+  <sup>
    &#9733 219, pushed 154 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift in Practice
@@ -4895,9 +5114,12 @@ once singleton model
     <a href="https://github.com/antitypical/Result">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 879, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 879, pushed 3 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -5025,24 +5247,30 @@ once singleton model
   <a href="https://github.com/pNre/ExSwift">
    :pencil2:
   </a>
-  <span>
-   &#9733 2866, pushed 14 days ago
-  </span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 2866, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 2866, pushed 15 days ago
+  </sup>
  </li>
  <li>
   Useful Swift Extensions
   <a href="https://github.com/yingogobot/Swift-Useful-Extensions">
    :pencil2:
   </a>
-  <span>
-   &#9733 176, pushed 609 days ago
-  </span>
   <a href="https://github.com/eonist/swift-utils">
    :pencil2:
   </a>
   <a href="https://github.com/goktugyil/EZSwiftExtensions">
    :pencil2:
   </a>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 176, pushed 609 days ago
+  </sup>
+  <sup>
+   &#9733 176, pushed 609 days ago
+  </sup>
  </li>
  <li>
   Public Extension
@@ -5095,18 +5323,24 @@ once singleton model
   <a href="https://github.com/RuiAAPeres/OptionalExtensions">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 146, pushed 22 days ago
+  </sup>
+  <sup>
    &#9733 146, pushed 22 days ago
-  </span>
+  </sup>
  </li>
  <li>
   String extensions
   <a href="https://github.com/amayne/SwiftString">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1094, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 1094, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift primitive value extension
@@ -5222,10 +5456,155 @@ once singleton model
   </ul>
  </li>
 </ul>
+<p>
+ disk:
+ <li>
+  Swiftly Methods
+  <a href="http://radex.io/swift/methods/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Improving your Existing Apps with Swift
+  <a href="http://devstreaming.apple.com/videos/wwdc/2015/403l7ohdidhmnkgx/403/403_improving_your_existing_apps_with_swift.pdf?dl=1">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+ </li>
+ <li>
+  How Swift makes clean code
+  <a href="http://ulrikdamm.logdown.com/posts/246079">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  % of top 100 apps using Swift
+  <a href="https://medium.com/@ryanolsonk/are-the-top-apps-using-swift-42e880e7727f#.jgaol4shg">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  10 Swift One Liners To Impress Your Friends
+  <a href="https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Interfaces vs Inheritance
+  <a href="http://mikebuss.com/2016/01/10/interfaces-vs-inheritance/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Why is there no base class in Swift
+  <a href="http://stackoverflow.com/questions/24137368/why-is-there-no-universal-base-class-in-swift?rq=1">
+   :liknk:
+  </a>
+ </li>
+ <li>
+  Open Source Swift
+  <ul>
+   <li>
+    Swift Brief
+    <a href="http://swiftweekly.github.io/">
+     :notebook:
+    </a>
+   </li>
+   <li>
+    Booleans
+    <a href="http://swiftunboxed.com/open-source/Bool/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Open Source Overview
+    <a href="http://www.jessesquires.com/swift-open-source/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Open Source Swift 3.0 Roadmap
+    <a href="https://realm.io/news/swift-opensource/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Building for Open Source
+    <a href="https://speakerdeck.com/kylef/building-for-open-source">
+     :floppy
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 disk:
 <li>
- Swiftly Methods
- <a href="http://radex.io/swift/methods/">
+ Creating a Swift Library
+ <a href="https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/">
+  :microphone:
+ </a>
+</li>
+<li>
+ Swift Android
+ <a href="https://github.com/SwiftAndroid/swift">
+  :pencil2:
+ </a>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 680, pushed 4 days ago
+ </sup>
+ <sup>
+  &#9733 680, pushed 4 days ago
+ </sup>
+</li>
+<li>
+ Swift Version Manager
+ <a href="https://github.com/kylef/swiftenv">
+  :pencil2:
+ </a>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 684, pushed 11 days ago
+ </sup>
+ <sup>
+  &#9733 684, pushed 11 days ago
+ </sup>
+</li>
+<li>
+ Properly Typed Selectors in Xcode 7.3 beta 4
+ <a href="http://flexmonkey.blogspot.co.uk/2016/02/properly-typed-selectors-in-xcode-73.html">
   :page
   <em>
    facing
@@ -5234,143 +5613,10 @@ disk:
  </a>
 </li>
 <li>
- Improving your Existing Apps with Swift
- <a href="http://devstreaming.apple.com/videos/wwdc/2015/403l7ohdidhmnkgx/403/403_improving_your_existing_apps_with_swift.pdf?dl=1">
-  :floppy_disk:
+ Swift [and the] Evolution
+ <a href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution">
+  :microphone:
  </a>
-</li>
-<li>
- How Swift makes clean code
- <a href="http://ulrikdamm.logdown.com/posts/246079">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- % of top 100 apps using Swift
- <a href="https://medium.com/@ryanolsonk/are-the-top-apps-using-swift-42e880e7727f#.jgaol4shg">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- 10 Swift One Liners To Impress Your Friends
- <a href="https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Interfaces vs Inheritance
- <a href="http://mikebuss.com/2016/01/10/interfaces-vs-inheritance/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Why is there no base class in Swift
- <a href="http://stackoverflow.com/questions/24137368/why-is-there-no-universal-base-class-in-swift?rq=1">
-  :liknk:
- </a>
-</li>
-<li>
- Open Source Swift
- <ul>
-  <li>
-   Swift Brief
-   <a href="http://swiftweekly.github.io/">
-    :notebook:
-   </a>
-  </li>
-  <li>
-   Booleans
-   <a href="http://swiftunboxed.com/open-source/Bool/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift Open Source Overview
-   <a href="http://www.jessesquires.com/swift-open-source/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Open Source Swift 3.0 Roadmap
-   <a href="https://realm.io/news/swift-opensource/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Building for Open Source
-   <a href="https://speakerdeck.com/kylef/building-for-open-source">
-    :floppy_disk:
-   </a>
-  </li>
-  <li>
-   Creating a Swift Library
-   <a href="https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Swift Android
-   <a href="https://github.com/SwiftAndroid/swift">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 680, pushed 4 days ago
-   </span>
-  </li>
-  <li>
-   Swift Version Manager
-   <a href="https://github.com/kylef/swiftenv">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 684, pushed 11 days ago
-   </span>
-  </li>
-  <li>
-   Properly Typed Selectors in Xcode 7.3 beta 4
-   <a href="http://flexmonkey.blogspot.co.uk/2016/02/properly-typed-selectors-in-xcode-73.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift [and the] Evolution
-   <a href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution">
-    :microphone:
-   </a>
-  </li>
- </ul>
 </li>
 <li>
  Opinions about Swift
@@ -5584,9 +5830,12 @@ disk:
   <a href="https://github.com/CaramelForSwift/Caramel">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 287, pushed 67 days ago
+  </sup>
+  <sup>
    &#9733 287, pushed 67 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Reading and Writing Files to the iOS File System
@@ -5628,158 +5877,455 @@ disk:
   </ul>
  </li>
 </ul>
-facing
-<em>
- up:
-</em>
-<a href="http://jamesonquave.com/blog/functional-programming-in-swift/">
- :page
-</a>
-facing
-<em>
- up:
-</em>
-<a href="https://speakerdeck.com/saloievgen/think-functionally-in-swift">
- :floppy
-</a>
-disk:
-<a href="https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/">
- :microphone:
-</a>
-<li>
- Functional Programming By Example
- <a href="http://caiorss.github.io/Functional-Programming/haskell/Functional_Programming_Concepts.html">
-  :pencil:
- </a>
-</li>
-<li>
- Make Swift More Functional
- <a href="http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
-</li>
-<li>
- Introduction to Functional Programming in Swift
- <a href="http://www.raywenderlich.com/114456/introduction-functional-programming-swift">
-  :page
-  <em>
-   facing
-  </em>
+<p>
+ facing
+ <em>
   up:
+ </em>
+ <a href="http://jamesonquave.com/blog/functional-programming-in-swift/">
+  :page
  </a>
- <a href="http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1">
+ facing
+ <em>
+  up:
+ </em>
+ <a href="https://speakerdeck.com/saloievgen/think-functionally-in-swift">
   :floppy
  </a>
-</li>
-disk:
-<li>
- Functional Programming in Swift Talks
- <a href="https://vimeo.com/107419503">
+ disk:
+ <a href="https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/">
   :microphone:
  </a>
- <a href="https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/">
-  :microphone:
- </a>
- <a href="http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
- <a href="https://www.youtube.com/watch?v=rJosPrqBqrA">
-  :microphone:
- </a>
- <a href="https://www.youtube.com/watch?v=estNbh2TF3E">
-  :microphone:
- </a>
-</li>
-<li>
- Proof in Functions
- <a href="http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://www.reddit.com/r/programming/comments/2rjnou/proof_in_functions_curryhoward_explained_through/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://jeremywsherman.com/blog/2015/10/02/when-is-proof-not-proof/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Functional Thinking
- <a href="https://prezi.com/pgqshla_nuoe/functional-thinking/">
-  :floppy
- </a>
-</li>
-disk:
-<li>
- 6 Killer Functional Swift Features
- <a href="http://ericasadun.com/2015/05/21/swift-six-killer-features/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Functional Programming in the Swift Language
- <a href="https://medium.com/swift-programming/2-functional-swift-c98be9533183">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Writing Compelling Functional Code with BananaKit
- <a href="https://realm.io/news/compelling-code/">
-  :microphone:
- </a>
-</li>
-<li>
- Practical Declarative
- <a href="https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
- and Functional
- <a href="https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015">
-  :floppy
- </a>
-</li>
-disk:
+ <li>
+  Functional Programming By Example
+  <a href="http://caiorss.github.io/Functional-Programming/haskell/Functional_Programming_Concepts.html">
+   :pencil:
+  </a>
+ </li>
+ <li>
+  Make Swift More Functional
+  <a href="http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+ </li>
+ <li>
+  Introduction to Functional Programming in Swift
+  <a href="http://www.raywenderlich.com/114456/introduction-functional-programming-swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1">
+   :floppy
+  </a>
+ </li>
+ disk:
+ <li>
+  Functional Programming in Swift Talks
+  <a href="https://vimeo.com/107419503">
+   :microphone:
+  </a>
+  <a href="https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/">
+   :microphone:
+  </a>
+  <a href="http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+  <a href="https://www.youtube.com/watch?v=rJosPrqBqrA">
+   :microphone:
+  </a>
+  <a href="https://www.youtube.com/watch?v=estNbh2TF3E">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  Proof in Functions
+  <a href="http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://www.reddit.com/r/programming/comments/2rjnou/proof_in_functions_curryhoward_explained_through/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://jeremywsherman.com/blog/2015/10/02/when-is-proof-not-proof/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Functional Thinking
+  <a href="https://prezi.com/pgqshla_nuoe/functional-thinking/">
+   :floppy
+  </a>
+ </li>
+ disk:
+ <li>
+  6 Killer Functional Swift Features
+  <a href="http://ericasadun.com/2015/05/21/swift-six-killer-features/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Functional Programming in the Swift Language
+  <a href="https://medium.com/swift-programming/2-functional-swift-c98be9533183">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Writing Compelling Functional Code with BananaKit
+  <a href="https://realm.io/news/compelling-code/">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  Practical Declarative
+  <a href="https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+  and Functional
+  <a href="https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015">
+   :floppy
+  </a>
+ </li>
+ disk:
 Swift
+ <li>
+  7 Habits for more functional Swift
+  <a href="http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+  <a href="https://gist.github.com/sketchytech/0ba6dfe2b197f188c64b">
+   :pencil:
+  </a>
+ </li>
+ <li>
+  Writing Pipe operators in Swift
+  <a href="http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Reccomended Functional Operators in Swift
+  <a href="https://github.com/typelift/Operadics">
+   :pencil:
+  </a>
+  <a href="http://sketchytech.blogspot.com/2015/06/functional-programming-understanding.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://gist.github.com/sketchytech/c02adc1b68fb1080ffc3">
+   :pencil:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 24, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 72 days ago
+  </sup>
+ </li>
+ <li>
+  Point-Free Style Swift
+  <a href="https://www.quora.com/Why-should-or-shouldnt-I-use-Swift-to-write-OS-X-or-iOS-apps-the-Functional-Programming-way">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Immutable State
+  <ul>
+   <li>
+    Embrace Immutability
+    <a href="https://realm.io/news/slug-keith-smiley-embrace-immutability/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Immutable Swift
+    <a href="http://nomothetis.svbtle.com/immutable-swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Dodging State
+    <a href="https://jeremywsherman.com/blog/2015/07/15/dodging-state/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Separating data from logic with Immutable State
+    <a href="http://www.marisibrothers.com/2015/12/separating-data-from-logic-in-swift.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Map / Filter / Reduce
+  <ul>
+   <li>
+    Reduce all the things
+    <a href="http://appventure.me/2015/11/30/reduce-all-the-things/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Map and FlatMap demystified
+    <a href="http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://robnapier.net/maps">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Understanding Reduce in Swift
+    <a href="http://ijoshsmith.com/2014/06/25/understanding-swifts-reduce-method/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Deriving higher order functions in Swift
+    <a href="http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Reduction in Force
+    <a href="http://robnapier.net/reduction-in-force">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Recursion and Infinite Streams
+  <ul>
+   <li>
+    Tail Call Optimization
+    <ul>
+     <li>
+      Does Swift implement tail call optimization? and in mutual recursion case?
+      <a href="http://stackoverflow.com/questions/24023580/does-swift-implement-tail-call-optimization-and-in-mutual-recursion-case">
+       :link:
+      </a>
+      <a href="https://devforums.apple.com/thread/247371?start=0&tstart=0">
+       :link:
+      </a>
+     </li>
+     <li>
+      (Tail)Recursion with nested functions in Swift 2.0
+      <a href="http://danielnagy.hu/?p=119">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+      <a href="http://natashatherobot.com/functional-swift-tail-recursion/">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+      <a href="https://gist.github.com/marcelofabri/4b41adb87a09ce86ff40">
+       :pencil:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Thunks
+    <ul>
+     <li>
+      Thunks in Swift
+      <a href="https://plus.google.com/+ShriramKrishnamurthi/posts/dXd71hueSvH">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+      <a href="https://www.reddit.com/r/swift/comments/2umog0/what_does_an_abstraction_thunk_helper_do/">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+      <a href="https://github.com/apple/swift/blob/master/test/DebugInfo/thunks.swift">
+       :pencil:
+      </a>
+     </li>
+     <li>
+      Wnat is an abstraction thunk helper?
+      <a href="https://www.reddit.com/r/swift/comments/2umog0/what_does_an_abstraction_thunk_helper_do/">
+       :link:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    CPS
+    <ul>
+     <li>
+      Continuation Passing Style in Swift
+      <a href="https://github.com/mbrandonw/mbrandonw.github.io/blob/master/_drafts/continuation-passing-in-swift.markdown">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+      <a href="https://medium.com/swift-programming/continuation-passing-style-in-swift-e4d825962803#.o41p6fw4j">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
+     <li>
+      Tying the Knot in Swift
+      <a href="http://stackoverflow.com/a/24026196/2855836">
+       :link:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Infinite
+    <ul>
+     <li>
+      FizzBuzz with infinite streams
+      <a href="http://cutting.io/posts/completely-overengineering-fizzbuzz-with-infinite-streams/">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
+     <li>
+      Aquifier Functional streaming abstractions in Swift
+      <a href="https://github.com/typelift/Aquifer">
+       :pencil2:
+      </a>
+      <sup>
+       209 GitHub links in total 1653 links, &#9733 42, pushed 68 days ago
+      </sup>
+      <sup>
+       &#9733 42, pushed 68 days ago
+      </sup>
+     </li>
+     <li>
+      Lazy infinite streams
+      <a href="https://github.com/antitypical/Stream">
+       :pencil2:
+      </a>
+      <sup>
+       209 GitHub links in total 1653 links, &#9733 74, pushed 183 days ago
+      </sup>
+      <sup>
+       &#9733 74, pushed 183 days ago
+      </sup>
+     </li>
+     <li>
+      Better Recursion with Swift
+      <a href="https://vimeo.com/138092644">
+       :microphone:
+      </a>
+      <a href="https://speakerdeck.com/ontherocks/better-recursion-with-swift">
+       :floppy
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</p>
+disk:
 <li>
- 7 Habits for more functional Swift
- <a href="http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift">
-  :floppy_disk:
- </a>
- <a href="https://gist.github.com/sketchytech/0ba6dfe2b197f188c64b">
-  :pencil:
- </a>
-</li>
-<li>
- Writing Pipe operators in Swift
- <a href="http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift/">
+ Does swift have a protocol for writing a stream of bytes?
+ <a href="http://stackoverflow.com/questions/24184429/does-swift-have-a-protocol-for-writing-a-stream-of-bytes">
   :page
   <em>
    facing
@@ -5788,298 +6334,16 @@ Swift
  </a>
 </li>
 <li>
- Reccomended Functional Operators in Swift
- <a href="https://github.com/typelift/Operadics">
-  :pencil:
- </a>
- <span>
-  &#9733 24, pushed 72 days ago
- </span>
- <a href="http://sketchytech.blogspot.com/2015/06/functional-programming-understanding.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://gist.github.com/sketchytech/c02adc1b68fb1080ffc3">
+ Infinite array
+ <a href="https://gist.github.com/kristopherjohnson/516b24ca19f6b9d247c3">
   :pencil:
  </a>
 </li>
 <li>
- Point-Free Style Swift
- <a href="https://www.quora.com/Why-should-or-shouldnt-I-use-Swift-to-write-OS-X-or-iOS-apps-the-Functional-Programming-way">
-  :page
-  <em>
-   facing
-  </em>
-  up:
+ Recursive structures in Swift without Box classes
+ <a href="https://gist.github.com/zats/c39dbd9b0017fb3b77dd37be744cf474">
+  :pencil:
  </a>
-</li>
-<li>
- Immutable State
- <ul>
-  <li>
-   Embrace Immutability
-   <a href="https://realm.io/news/slug-keith-smiley-embrace-immutability/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Immutable Swift
-   <a href="http://nomothetis.svbtle.com/immutable-swift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Dodging State
-   <a href="https://jeremywsherman.com/blog/2015/07/15/dodging-state/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Separating data from logic with Immutable State
-   <a href="http://www.marisibrothers.com/2015/12/separating-data-from-logic-in-swift.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Map / Filter / Reduce
- <ul>
-  <li>
-   Reduce all the things
-   <a href="http://appventure.me/2015/11/30/reduce-all-the-things/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Map and FlatMap demystified
-   <a href="http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://robnapier.net/maps">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Understanding Reduce in Swift
-   <a href="http://ijoshsmith.com/2014/06/25/understanding-swifts-reduce-method/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Deriving higher order functions in Swift
-   <a href="http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Reduction in Force
-   <a href="http://robnapier.net/reduction-in-force">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Recursion and Infinite Streams
- <ul>
-  <li>
-   Tail Call Optimization
-   <ul>
-    <li>
-     Does Swift implement tail call optimization? and in mutual recursion case?
-     <a href="http://stackoverflow.com/questions/24023580/does-swift-implement-tail-call-optimization-and-in-mutual-recursion-case">
-      :link:
-     </a>
-     <a href="https://devforums.apple.com/thread/247371?start=0&tstart=0">
-      :link:
-     </a>
-    </li>
-    <li>
-     (Tail)Recursion with nested functions in Swift 2.0
-     <a href="http://danielnagy.hu/?p=119">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-     <a href="http://natashatherobot.com/functional-swift-tail-recursion/">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-     <a href="https://gist.github.com/marcelofabri/4b41adb87a09ce86ff40">
-      :pencil:
-     </a>
-    </li>
-   </ul>
-  </li>
-  <li>
-   Thunks
-   <ul>
-    <li>
-     Thunks in Swift
-     <a href="https://plus.google.com/+ShriramKrishnamurthi/posts/dXd71hueSvH">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-     <a href="https://www.reddit.com/r/swift/comments/2umog0/what_does_an_abstraction_thunk_helper_do/">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-     <a href="https://github.com/apple/swift/blob/master/test/DebugInfo/thunks.swift">
-      :pencil:
-     </a>
-    </li>
-    <li>
-     Wnat is an abstraction thunk helper?
-     <a href="https://www.reddit.com/r/swift/comments/2umog0/what_does_an_abstraction_thunk_helper_do/">
-      :link:
-     </a>
-    </li>
-   </ul>
-  </li>
-  <li>
-   CPS
-   <ul>
-    <li>
-     Continuation Passing Style in Swift
-     <a href="https://github.com/mbrandonw/mbrandonw.github.io/blob/master/_drafts/continuation-passing-in-swift.markdown">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-     <a href="https://medium.com/swift-programming/continuation-passing-style-in-swift-e4d825962803#.o41p6fw4j">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-    </li>
-    <li>
-     Tying the Knot in Swift
-     <a href="http://stackoverflow.com/a/24026196/2855836">
-      :link:
-     </a>
-    </li>
-   </ul>
-  </li>
-  <li>
-   Infinite
-   <ul>
-    <li>
-     FizzBuzz with infinite streams
-     <a href="http://cutting.io/posts/completely-overengineering-fizzbuzz-with-infinite-streams/">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-    </li>
-    <li>
-     Aquifier Functional streaming abstractions in Swift
-     <a href="https://github.com/typelift/Aquifer">
-      :pencil2:
-     </a>
-     <span>
-      &#9733 42, pushed 68 days ago
-     </span>
-    </li>
-    <li>
-     Lazy infinite streams
-     <a href="https://github.com/antitypical/Stream">
-      :pencil2:
-     </a>
-     <span>
-      &#9733 74, pushed 183 days ago
-     </span>
-    </li>
-    <li>
-     Better Recursion with Swift
-     <a href="https://vimeo.com/138092644">
-      :microphone:
-     </a>
-     <a href="https://speakerdeck.com/ontherocks/better-recursion-with-swift">
-      :floppy_disk:
-     </a>
-    </li>
-    <li>
-     Does swift have a protocol for writing a stream of bytes?
-     <a href="http://stackoverflow.com/questions/24184429/does-swift-have-a-protocol-for-writing-a-stream-of-bytes">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-    </li>
-    <li>
-     Infinite array
-     <a href="https://gist.github.com/kristopherjohnson/516b24ca19f6b9d247c3">
-      :pencil:
-     </a>
-    </li>
-    <li>
-     Recursive structures in Swift without Box classes
-     <a href="https://gist.github.com/zats/c39dbd9b0017fb3b77dd37be744cf474">
-      :pencil:
-     </a>
-    </li>
-   </ul>
-  </li>
- </ul>
 </li>
 <li>
  Memoizations
@@ -6143,11 +6407,17 @@ Swift
   <li>
    Llama Calculus
    <a href="https://github.com/rnapier/llama-calculus">
-    :floppy_disk:
+    :floppy
+    <em>
+     disk:
+    </em>
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 12, pushed 388 days ago
+   </sup>
+   <sup>
     &#9733 12, pushed 388 days ago
-   </span>
+   </sup>
   </li>
  </ul>
 </li>
@@ -6245,20 +6515,21 @@ Swift
     :microphone:
    </a>
    <a href="https://github.com/gfontenot/talks/tree/master/Functors">
-    :floppy_disk:
-   </a>
-  </li>
-  <li>
-   The Missing Apply Function in Swift
-   <a href="https://www.drivenbycode.com/the-missing-apply-function-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
+    :floppy
    </a>
   </li>
  </ul>
+</li>
+disk:
+<li>
+ The Missing Apply Function in Swift
+ <a href="https://www.drivenbycode.com/the-missing-apply-function-in-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
 </li>
 <li>
  Arrows
@@ -6334,9 +6605,12 @@ Swift
      <a href="https://github.com/thoughtbot/Runes">
       :pencil2:
      </a>
-     <span>
+     <sup>
+      209 GitHub links in total 1653 links, &#9733 417, pushed 45 days ago
+     </sup>
+     <sup>
       &#9733 417, pushed 45 days ago
-     </span>
+     </sup>
     </li>
     <li>
      Monads & C# Tasks in Swift
@@ -6370,9 +6644,12 @@ facing_up:
  <a href="https://github.com/alskipp/Swift-Adventures-In-Monad-Land">
   :pencil2:
  </a>
- <span>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 136, pushed 128 days ago
+ </sup>
+ <sup>
   &#9733 136, pushed 128 days ago
- </span>
+ </sup>
 </li>
 <li>
  Paragons Of Perfunctory Programs
@@ -6473,9 +6750,12 @@ facing_up:
    <a href="https://github.com/alskipp/Monoid">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 39, pushed 111 days ago
+   </sup>
+   <sup>
     &#9733 39, pushed 111 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Swift's lack of Monoids
@@ -6539,9 +6819,6 @@ facing_up:
     </em>
     up:
    </a>
-   <span>
-    &#9733 21, pushed 94 days ago
-   </span>
    <a href="http://matt.might.net/articles/implementing-laziness/">
     :page
     <em>
@@ -6549,6 +6826,12 @@ facing_up:
     </em>
     up:
    </a>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 21, pushed 94 days ago
+   </sup>
+   <sup>
+    &#9733 21, pushed 94 days ago
+   </sup>
   </li>
   <li>
    Making flatMap lazy
@@ -6615,9 +6898,12 @@ facing_up:
    <a href="https://github.com/rnapier/array-zipper">
     :pencil2:
    </a>
-   <span>
-    &#9733 3, pushed 388 days ago
-   </span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 3, pushed 388 days ago
+   </sup>
+   <sup>
+    &#9733 3, pushed 389 days ago
+   </sup>
   </li>
   <li>
    zip(), zip3(), unzip(), and unzip3() for Swift
@@ -6635,9 +6921,6 @@ facing_up:
    <a href="https://github.com/FutureKit/FutureKit">
     :pencil2:
    </a>
-   <span>
-    &#9733 410, pushed 4 days ago
-   </span>
   </li>
   <li>
    A simple Promise in Swift
@@ -6650,24 +6933,30 @@ facing_up:
    <a href="https://github.com/mxcl/PromiseKit">
     :pencil2:
    </a>
-   <span>
-    &#9733 5026, pushed 7 days ago
-   </span>
    <a href="http://promisekit.org/">
     :link:
    </a>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 5026, pushed 7 days ago
+   </sup>
+   <sup>
+    &#9733 5026, pushed 7 days ago
+   </sup>
   </li>
   <li>
    BrightFutures Repository
    <a href="https://github.com/Thomvis/BrightFutures">
     :pencil2:
    </a>
-   <span>
-    &#9733 1062, pushed 2 days ago
-   </span>
    <a href="http://www.thomasvisser.me/2015/11/08/swiftsummit-execution-context/">
     :microphone:
    </a>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 1062, pushed 2 days ago
+   </sup>
+   <sup>
+    &#9733 1062, pushed 2 days ago
+   </sup>
   </li>
   <li>
    Back to the Futures with Swift
@@ -6695,6 +6984,12 @@ facing_up:
    </a>
   </li>
  </ul>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 410, pushed 4 days ago
+ </sup>
+ <sup>
+  &#9733 410, pushed 4 days ago
+ </sup>
 </li>
 disk:
 <li>
@@ -6721,9 +7016,12 @@ disk:
  <a href="https://github.com/ReactKit/SwiftTask">
   :pencil2:
  </a>
- <span>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 1403, pushed 43 days ago
+ </sup>
+ <sup>
   &#9733 1403, pushed 43 days ago
- </span>
+ </sup>
 </li>
 <li>
  Combinators
@@ -6768,18 +7066,24 @@ disk:
    <a href="https://github.com/inamiy/TryParsec">
     :pencil2:
    </a>
-   <span>
-    &#9733 1, pushed 40 days ago
-   </span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 1, pushed 41 days ago
+   </sup>
+   <sup>
+    &#9733 1, pushed 41 days ago
+   </sup>
   </li>
   <li>
    Swift recursive descendent parser combinator
    <a href="https://github.com/jadengeller/Parsley">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 1, pushed 19 days ago
+   </sup>
+   <sup>
     &#9733 1, pushed 19 days ago
-   </span>
+   </sup>
   </li>
  </ul>
 </li>
@@ -6810,9 +7114,12 @@ disk:
    <a href="https://github.com/typelift/Focus">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 66, pushed 4 days ago
+   </sup>
+   <sup>
     &#9733 66, pushed 4 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Creating a Lens to Provide a New Public Interface
@@ -6867,9 +7174,12 @@ disk:
    <a href="https://github.com/narfdotpl/lenso">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 56, pushed 11 days ago
+   </sup>
+   <sup>
     &#9733 56, pushed 11 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Covariance and Contravariance in Swift 2.1
@@ -6898,9 +7208,6 @@ disk:
    <a href="https://github.com/mbrandonw/naturally-swift">
     :pencil2:
    </a>
-   <span>
-    &#9733 1, pushed 596 days ago
-   </span>
   </li>
   <li>
    Categories in Swift
@@ -6915,6 +7222,12 @@ disk:
    </a>
   </li>
  </ul>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 1, pushed 596 days ago
+ </sup>
+ <sup>
+  &#9733 1, pushed 596 days ago
+ </sup>
 </li>
 <li>
  Funtional Frameworks
@@ -6930,36 +7243,48 @@ disk:
    <a href="https://github.com/47deg/second-bridge">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 65, pushed 32 days ago
+   </sup>
+   <sup>
     &#9733 65, pushed 32 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Swiftx Functional Data Types
    <a href="https://github.com/typelift/Swiftx">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 136, pushed 39 days ago
+   </sup>
+   <sup>
     &#9733 136, pushed 39 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Basis Pure Declarative Programming in Swift
    <a href="https://github.com/typelift/Basis">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 276, pushed 42 days ago
+   </sup>
+   <sup>
     &#9733 276, pushed 42 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Functional Concurrency Primitives
    <a href="https://github.com/typelift/Concurrent">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 100, pushed 68 days ago
+   </sup>
+   <sup>
     &#9733 100, pushed 68 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Prelude Library
@@ -6970,18 +7295,24 @@ disk:
     </em>
     up:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 222, pushed 89 days ago
+   </sup>
+   <sup>
     &#9733 222, pushed 89 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Funky Functional Programming Tools and Experiements
    <a href="https://github.com/brynbellomy/Funky">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 9, pushed 108 days ago
+   </sup>
+   <sup>
     &#9733 9, pushed 108 days ago
-   </span>
+   </sup>
   </li>
   <li>
    Dollar.Swift Functional Toolkit like Lodash and Underscore
@@ -6994,9 +7325,12 @@ disk:
    <a href="https://github.com/AlexanderKaraberov/SwiftLand">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 2, pushed 24 days ago
+   </sup>
+   <sup>
     &#9733 2, pushed 24 days ago
-   </span>
+   </sup>
   </li>
  </ul>
 </li>
@@ -7087,9 +7421,12 @@ disk:
      </em>
      up:
     </a>
-    <span>
-     &#9733 194, pushed 117 days ago
-    </span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 194, pushed 117 days ago
+    </sup>
+    <sup>
+     &#9733 194, pushed 118 days ago
+    </sup>
    </li>
    <li>
     Functional Reactive Intuition
@@ -7196,25 +7533,111 @@ disk:
   </ul>
  </li>
 </ul>
+<p>
+ disk:
+ <li>
+  FRP with RAC in Swift
+  <a href="https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+ </li>
+ <li>
+  MVVM + Rac 4
+  <a href="https://github.com/richeterre/SwiftGoal">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 116, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 116, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  RAC Schedulers
+  <a href="http://codeplease.io/2015/11/30/schedulers/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  RACNest: RAC + MVVM Examples
+  <a href="https://github.com/RuiAAPeres/RACNest">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 55, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 6 days ago
+  </sup>
+ </li>
+ <li>
+  Reactive Command Pattern
+  <a href="https://github.com/pepibumur/ReactiveCommander">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 17, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 109 days ago
+  </sup>
+ </li>
+ <li>
+  Rx
+  <ul>
+   <li>
+    Simple RxSwift
+    <a href="https://littlebitesofcocoa.com/162-reacting-with-rxswift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://littlebitesofcocoa.com/163-creating-observables-with-rxswift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Functional Rective Programming with RxSwift
+    <a href="https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift">
+     :floppy
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 disk:
 <li>
- FRP with RAC in Swift
- <a href="https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift">
-  :floppy_disk:
+ MVVM + RxSwift
+ <a href="https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/">
+  :microphone:
  </a>
-</li>
-<li>
- MVVM + Rac 4
- <a href="https://github.com/richeterre/SwiftGoal">
+ <a href="https://github.com/RxSwiftCommunity/RxViewModel">
   :pencil2:
  </a>
- <span>
-  &#9733 116, pushed 2 days ago
- </span>
-</li>
-<li>
- RAC Schedulers
- <a href="http://codeplease.io/2015/11/30/schedulers/">
+ ,
+ <a href="https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.k901myr5x">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ ,
+ <a href="http://tailec.com/blog/reactive-recipe-2">
   :page
   <em>
    facing
@@ -7223,147 +7646,79 @@ disk:
  </a>
 </li>
 <li>
- RACNest: RAC + MVVM Examples
- <a href="https://github.com/RuiAAPeres/RACNest">
-  :pencil2:
+ The Difference between RxSwift and ReactiveCocoa
+ <a href="http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons">
+  :page
+  <em>
+   facing
+  </em>
+  up:
  </a>
- <span>
-  &#9733 55, pushed 6 days ago
- </span>
+ <a href="https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="https://sideeffects.xyz/2015/from-rac-to-rxswift-the-survival-guide/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
 </li>
 <li>
- Reactive Command Pattern
- <a href="https://github.com/pepibumur/ReactiveCommander">
-  :pencil2:
+ Learning RxSwift
+ <a href="https://github.com/pepaslabs/LearningRxSwift">
+  :link:
  </a>
- <span>
-  &#9733 17, pushed 109 days ago
- </span>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 135, pushed 156 days ago
+ </sup>
+ <sup>
+  &#9733 135, pushed 156 days ago
+ </sup>
 </li>
 <li>
- Rx
- <ul>
-  <li>
-   Simple RxSwift
-   <a href="https://littlebitesofcocoa.com/162-reacting-with-rxswift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://littlebitesofcocoa.com/163-creating-observables-with-rxswift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Functional Rective Programming with RxSwift
-   <a href="https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift">
-    :floppy_disk:
-   </a>
-  </li>
-  <li>
-   MVVM + RxSwift
-   <a href="https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/">
-    :microphone:
-   </a>
-   <a href="https://github.com/RxSwiftCommunity/RxViewModel">
-    :pencil2:
-   </a>
-   ,
-   <a href="https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.k901myr5x">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   ,
-   <a href="http://tailec.com/blog/reactive-recipe-2">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   The Difference between RxSwift and ReactiveCocoa
-   <a href="http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://sideeffects.xyz/2015/from-rac-to-rxswift-the-survival-guide/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Learning RxSwift
-   <a href="https://github.com/pepaslabs/LearningRxSwift">
-    :link:
-   </a>
-   <span>
-    &#9733 135, pushed 156 days ago
-   </span>
-  </li>
-  <li>
-   Upgrading to RxSwift
-   <a href="http://artsy.github.io/blog/2015/12/08/reactive-cocoa-to-rxswift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   RxSwift Community Webpage
-   <a href="http://community.rxswift.org/">
-    :link:
-   </a>
-  </li>
-  <li>
-   Split laps timer with RxSwift and RxCocoa
-   <a href="http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://rx-marin.com/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Introduction to Rx
-   <a href="http://reactivex.io/documentation/operators.html">
-    :link:
-   </a>
-  </li>
- </ul>
+ Upgrading to RxSwift
+ <a href="http://artsy.github.io/blog/2015/12/08/reactive-cocoa-to-rxswift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ RxSwift Community Webpage
+ <a href="http://community.rxswift.org/">
+  :link:
+ </a>
+</li>
+<li>
+ Split laps timer with RxSwift and RxCocoa
+ <a href="http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="http://rx-marin.com/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Introduction to Rx
+ <a href="http://reactivex.io/documentation/operators.html">
+  :link:
+ </a>
 </li>
 <p>
  <a href="#index">
@@ -7997,12 +8352,15 @@ disk:
     <a href="https://github.com/AliSoftware/Dip">
      :pencil2:
     </a>
-    <span>
-     &#9733 192, pushed 2 days ago
-    </span>
     <a href="https://github.com/AliSoftware/Dip-UI">
      :pencil2:
     </a>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 192, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 192, pushed 2 days ago
+    </sup>
    </li>
    <li>
     Nuts and Bolts of Dependency Injection in Swift
@@ -8019,21 +8377,27 @@ disk:
     <a href="https://github.com/jgretz/CoreMeta">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 17, pushed 113 days ago
+    </sup>
+    <sup>
      &#9733 17, pushed 113 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Swift Dependency Injection Framework
     <a href="https://github.com/knightswhosaynil/Apodidae">
      :pencil2:
     </a>
-    <span>
-     &#9733 16, pushed 244 days ago
-    </span>
     <a href="https://github.com/Swinject/Swinject">
      :pencil2:
     </a>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 16, pushed 244 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 244 days ago
+    </sup>
    </li>
    <li>
     Swift Injection Wesite
@@ -8155,18 +8519,24 @@ disk:
     <a href="https://github.com/SwiftOnTheServer/CCurl">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 11, pushed 114 days ago
+    </sup>
+    <sup>
      &#9733 11, pushed 114 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Swift Wrappers Around CommonMark
     <a href="https://github.com/chriseidhof/commonmark-swift">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 44, pushed 18 days ago
+    </sup>
+    <sup>
      &#9733 44, pushed 18 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Swift Substring on a C String
@@ -8490,9 +8860,12 @@ disk:
     <a href="https://github.com/travisjeffery/ClangFormat-Xcode">
      :pencil:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2212, pushed 7 days ago
+    </sup>
+    <sup>
      &#9733 2212, pushed 7 days ago
-    </span>
+    </sup>
    </li>
    <li>
     fucking clang warnings
@@ -8556,515 +8929,526 @@ disk:
   </ul>
  </li>
 </ul>
-disk:
-<li>
- Using the LLVM API With Swift
- <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift/">
-  :page
-  <em>
-   facing
-  </em>
+<p>
+ disk:
+ <li>
+  Using the LLVM API With Swift
+  <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  LLVM and Swift
+  <a href="https://www.youtube.com/watch?v=Ntj8ab-5cvE">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  LLVM in Swift: Setup
+  <a href="http://dduan.net/post/2015/10/lets-play-llvm-in-swift-setup/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Kaleidoscope: Implementing a Parser and AST in LLVM
+  <a href="http://llvm.org/docs/tutorial/LangImpl1.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://github.com/matthewcheok/Kaleidoscope">
+   :pencil2:
+  </a>
+ </li>
+ <li>
+  Swift Object Name Demangling
+  <a href="https://www.securify.nl/blog/SFY20150302/hooking_swift_methods_for_fun_and_profit.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  How to use LLVM API with Swift
+  <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift-addendum/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Swift Compiler
+  <a href="https://www.accelebrate.com/blog/thinking-swift-part-ii/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Parsing Mach-O files
+  <a href="http://lowlevelbits.org/parse-mach-o-files/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  How to use LLVM C API with Swift
+  <a href="https://fosdem.org/2016/schedule/event/llvm_c_swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://github.com/AlexDenisov/swift_llvm">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Creating a Virtual Machine/Register VM
+  <a href="https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_Swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  What is LLVM and how does it differ from GCC?
+  <a href="https://www.quora.com/What-is-LLVM-and-how-it-is-different-from-GCC">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Swift wrapper around LLVM
+  <a href="https://github.com/bencochran/LLVM.swift">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 29, pushed 166 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 166 days ago
+  </sup>
+ </li>
+ <li>
+  Simple programming language written in Swift and compiled with LLVM
+  <a href="https://github.com/bencochran/Kaleidoscope">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 15, pushed 153 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 153 days ago
+  </sup>
+ </li>
+ <li>
+  Memory
+  <ul>
+   <li>
+    Exploring Swift's Dictionary Implementation
+    <a href="http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Memory Layout
+    <a href="https://www.mikeash.com/pyblog/friday-qa-2014-07-18-exploring-swift-memory-layout.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Struct Storage
+    <a href="https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Bitcode Demystified
+    <a href="http://lowlevelbits.org/bitcode-demystified/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Memory management using Swift and Objective-C
+    <a href="http://www.ibm.com/developerworks/library/mo-ios-memory/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Memory and Concurrency Model
+    <a href="http://fossies.org/linux/misc/swift-swift-2.2-SNAPSHOT-2015-12-01-b.tar.gz/swift-swift-2.2-SNAPSHOT-2015-12-01-b/docs/proposals/archive/Memory%20and%20Concurrency%20Model.rst">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Where is my variable being stored?
+    <a href="http://stackoverflow.com/questions/31987566/where-is-my-variable-being-stored-swift">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Optimizations
+  <ul>
+   <li>
+    The Importance of Being Final
+    <a href="http://blog.human-friendly.com/the-importance-of-being-final">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Switch Statement Optimizations
+    <a href="http://stackoverflow.com/questions/25284522/switch-statement-optimization-swift">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift Whole Module Optimization
+    <a href="http://useyourloaf.com/blog/swift-whole-module-optimization/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Increasing Performance by Reducing Dynamic Dispatch
+    <a href="https://developer.apple.com/swift/blog/?id=27">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Dynamic Dispatch and Whole Module Optimization
+    <a href="http://useyourloaf.com/blog/dynamic-dispatch-and-whole-module-optimization/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    How Swift uses introSort
+    <a href="http://stackoverflow.com/questions/27677026/swift-sorting-algorithm-implementation">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Opimizing Swift Performance
+    <a href="https://developer.apple.com/videos/play/wwdc2015-409/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Functional Style - 50x Speed boost from changing 1 Keyword
+    <a href="http://blog.human-friendly.com/optimising-swift-with-functional-style-50x-speed-boost-from-changing-1-keyword">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Launch time performance optimization
+    <a href="http://www.avanderlee.com/optimization/launch-time-performance-optimization/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Meaning of the LLVM Optimization Levels
+    <a href="http://stackoverflow.com/questions/21447377/meaning-of-the-llvm-optimization-levels">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Performance
+  <ul>
+   <li>
+    Swift Performance
+    <a href="http://blog.human-friendly.com/swift-performance-iosdevuk">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+    <a href="http://www.swift-studies.com/blog/2014/7/8/learning-about-swift-performance">
+     :page
+    </a>
+   </li>
+  </ul>
+ </li>
+ facing
+ <em>
   up:
- </a>
-</li>
-<li>
- LLVM and Swift
- <a href="https://www.youtube.com/watch?v=Ntj8ab-5cvE">
-  :microphone:
- </a>
-</li>
-<li>
- LLVM in Swift: Setup
- <a href="http://dduan.net/post/2015/10/lets-play-llvm-in-swift-setup/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Kaleidoscope: Implementing a Parser and AST in LLVM
- <a href="http://llvm.org/docs/tutorial/LangImpl1.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://github.com/matthewcheok/Kaleidoscope">
-  :pencil2:
- </a>
-</li>
-<li>
- Swift Object Name Demangling
- <a href="https://www.securify.nl/blog/SFY20150302/hooking_swift_methods_for_fun_and_profit.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- How to use LLVM API with Swift
- <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="http://lowlevelbits.org/how-to-use-llvm-api-with-swift-addendum/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Swift Compiler
- <a href="https://www.accelebrate.com/blog/thinking-swift-part-ii/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Parsing Mach-O files
- <a href="http://lowlevelbits.org/parse-mach-o-files/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- How to use LLVM C API with Swift
- <a href="https://fosdem.org/2016/schedule/event/llvm_c_swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://github.com/AlexDenisov/swift_llvm">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Creating a Virtual Machine/Register VM
- <a href="https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_Swift">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- What is LLVM and how does it differ from GCC?
- <a href="https://www.quora.com/What-is-LLVM-and-how-it-is-different-from-GCC">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Swift wrapper around LLVM
- <a href="https://github.com/bencochran/LLVM.swift">
-  :pencil2:
- </a>
- <span>
-  &#9733 29, pushed 166 days ago
- </span>
-</li>
-<li>
- Simple programming language written in Swift and compiled with LLVM
- <a href="https://github.com/bencochran/Kaleidoscope">
-  :pencil2:
- </a>
- <span>
-  &#9733 15, pushed 153 days ago
- </span>
-</li>
-<li>
- Memory
- <ul>
-  <li>
-   Exploring Swift's Dictionary Implementation
-   <a href="http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift Memory Layout
-   <a href="https://www.mikeash.com/pyblog/friday-qa-2014-07-18-exploring-swift-memory-layout.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift Struct Storage
-   <a href="https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Bitcode Demystified
-   <a href="http://lowlevelbits.org/bitcode-demystified/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Memory management using Swift and Objective-C
-   <a href="http://www.ibm.com/developerworks/library/mo-ios-memory/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift Memory and Concurrency Model
-   <a href="http://fossies.org/linux/misc/swift-swift-2.2-SNAPSHOT-2015-12-01-b.tar.gz/swift-swift-2.2-SNAPSHOT-2015-12-01-b/docs/proposals/archive/Memory%20and%20Concurrency%20Model.rst">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Where is my variable being stored?
-   <a href="http://stackoverflow.com/questions/31987566/where-is-my-variable-being-stored-swift">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Optimizations
- <ul>
-  <li>
-   The Importance of Being Final
-   <a href="http://blog.human-friendly.com/the-importance-of-being-final">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Switch Statement Optimizations
-   <a href="http://stackoverflow.com/questions/25284522/switch-statement-optimization-swift">
-    :link:
-   </a>
-  </li>
-  <li>
-   Swift Whole Module Optimization
-   <a href="http://useyourloaf.com/blog/swift-whole-module-optimization/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Increasing Performance by Reducing Dynamic Dispatch
-   <a href="https://developer.apple.com/swift/blog/?id=27">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Dynamic Dispatch and Whole Module Optimization
-   <a href="http://useyourloaf.com/blog/dynamic-dispatch-and-whole-module-optimization/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   How Swift uses introSort
-   <a href="http://stackoverflow.com/questions/27677026/swift-sorting-algorithm-implementation">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Opimizing Swift Performance
-   <a href="https://developer.apple.com/videos/play/wwdc2015-409/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Functional Style - 50x Speed boost from changing 1 Keyword
-   <a href="http://blog.human-friendly.com/optimising-swift-with-functional-style-50x-speed-boost-from-changing-1-keyword">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Launch time performance optimization
-   <a href="http://www.avanderlee.com/optimization/launch-time-performance-optimization/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Meaning of the LLVM Optimization Levels
-   <a href="http://stackoverflow.com/questions/21447377/meaning-of-the-llvm-optimization-levels">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Performance
- <ul>
-  <li>
-   Swift Performance
-   <a href="http://blog.human-friendly.com/swift-performance-iosdevuk">
-    :floppy
-    <em>
-     disk:
-    </em>
-   </a>
-   <a href="http://www.swift-studies.com/blog/2014/7/8/learning-about-swift-performance">
-    :page
-   </a>
-  </li>
- </ul>
-</li>
-facing
-<em>
- up:
-</em>
-<a href="https://github.com/koher/swift-performance-experiment">
- :pencil:
-</a>
-<li>
- Swift 2 Under the Hood
- <a href="https://speakerdeck.com/alblue/swift-2-under-the-hood-gotober-2015">
-  :floppy
- </a>
-</li>
-disk:
-<li>
- Swift Compiler Diagnostics
- <a href="http://oleb.net/blog/2015/08/swift-compiler-diagnostics/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Swift: Performance of Inline Code versus Instance Methods versus Class Methods
- <a href="http://flexmonkey.blogspot.com/2014/09/swift-performance-of-inline-code-versus.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Simple Swift.String Performance Test
- <a href="https://github.com/bnickel/Simple-Swift.String-Performance-Test">
-  :pencil2:
- </a>
- <span>
-  &#9733 0, pushed 447 days ago
- </span>
-</li>
-<li>
- Secret of Swift Performance
- <a href="https://medium.com/swift-programming/secret-of-swift-performance-fcc5d2a437a8#.q0cnnqxat">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="https://medium.com/swift-programming/secret-of-swift-performance-a8ee86060843#.i6p6554gk">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Writing High Performance Swift Code
- <a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">
-  :link:
- </a>
-</li>
-<li>
- Preprocessing
- <ul>
-  <li>
-   Preprocessing in Swift
-   <a href="http://stackoverflow.com/questions/24369272/swift-ios-deployment-target-command-line-flag">
-    :link:
-   </a>
-  </li>
-  <li>
-   Preprocessor Macros
-   <a href="http://stackoverflow.com/questions/24111854/in-absence-of-preprocessor-macros-is-there-a-way-to-define-practical-scheme-spe">
-    :link:
-   </a>
-  </li>
-  <li>
-   Parsing Mach-O Files
-   <a href="http://lowlevelbits.org/parse-mach-o-files/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   -Xfront
-   <a href="http://www.robertvojta.com/2015/06/30/swift-hidden-options/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- SIL and swiftc
- <ul>
-  <li>
-   Explorign SIL and swiftc
-   <a href="http://swiftc.io/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   swift vs swiftc
-   <a href="http://owensd.io/2015/01/14/swift-vs-swiftc.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   SIMD (Single Instruction Multiple Data)
-   <a href="http://www.russbishop.net/swift-2-simd">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   @convention
-   <a href="http://stackoverflow.com/questions/30740560/new-conventionc-in-swift-2-how-can-i-use-it">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Introspecting Swift
-   <a href="https://speakerdeck.com/jpsim/introspecting-swift">
-    :floppy
-    <em>
-     disk:
-    </em>
-   </a>
-  </li>
-  <li>
-   Unsafe Swift
-   <a href="https://speakerdeck.com/realm/unsafe-swift">
-    :floppy
-   </a>
-  </li>
- </ul>
-</li>
-disk:
-<li>
- Type Introspection and demangling
- <a href="http://ericasadun.com/2014/06/16/swift-more-than-you-probably-want-to-know-about-type-introspection/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- The mysterious builtin module
- <a href="http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- SIL Optimizations
- <a href="https://github.com/apple/swift/blob/master/docs/HighLevelSILOptimizations.rst">
+ </em>
+ <a href="https://github.com/koher/swift-performance-experiment">
   :pencil:
  </a>
-</li>
+ <li>
+  Swift 2 Under the Hood
+  <a href="https://speakerdeck.com/alblue/swift-2-under-the-hood-gotober-2015">
+   :floppy
+  </a>
+ </li>
+ disk:
+ <li>
+  Swift Compiler Diagnostics
+  <a href="http://oleb.net/blog/2015/08/swift-compiler-diagnostics/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Swift: Performance of Inline Code versus Instance Methods versus Class Methods
+  <a href="http://flexmonkey.blogspot.com/2014/09/swift-performance-of-inline-code-versus.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Simple Swift.String Performance Test
+  <a href="https://github.com/bnickel/Simple-Swift.String-Performance-Test">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 0, pushed 447 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 447 days ago
+  </sup>
+ </li>
+ <li>
+  Secret of Swift Performance
+  <a href="https://medium.com/swift-programming/secret-of-swift-performance-fcc5d2a437a8#.q0cnnqxat">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://medium.com/swift-programming/secret-of-swift-performance-a8ee86060843#.i6p6554gk">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Writing High Performance Swift Code
+  <a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">
+   :link:
+  </a>
+ </li>
+ <li>
+  Preprocessing
+  <ul>
+   <li>
+    Preprocessing in Swift
+    <a href="http://stackoverflow.com/questions/24369272/swift-ios-deployment-target-command-line-flag">
+     :link:
+    </a>
+   </li>
+   <li>
+    Preprocessor Macros
+    <a href="http://stackoverflow.com/questions/24111854/in-absence-of-preprocessor-macros-is-there-a-way-to-define-practical-scheme-spe">
+     :link:
+    </a>
+   </li>
+   <li>
+    Parsing Mach-O Files
+    <a href="http://lowlevelbits.org/parse-mach-o-files/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    -Xfront
+    <a href="http://www.robertvojta.com/2015/06/30/swift-hidden-options/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  SIL and swiftc
+  <ul>
+   <li>
+    Explorign SIL and swiftc
+    <a href="http://swiftc.io/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    swift vs swiftc
+    <a href="http://owensd.io/2015/01/14/swift-vs-swiftc.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    SIMD (Single Instruction Multiple Data)
+    <a href="http://www.russbishop.net/swift-2-simd">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    @convention
+    <a href="http://stackoverflow.com/questions/30740560/new-conventionc-in-swift-2-how-can-i-use-it">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Introspecting Swift
+    <a href="https://speakerdeck.com/jpsim/introspecting-swift">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+   </li>
+   <li>
+    Unsafe Swift
+    <a href="https://speakerdeck.com/realm/unsafe-swift">
+     :floppy
+    </a>
+   </li>
+  </ul>
+ </li>
+ disk:
+ <li>
+  Type Introspection and demangling
+  <a href="http://ericasadun.com/2014/06/16/swift-more-than-you-probably-want-to-know-about-type-introspection/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  The mysterious builtin module
+  <a href="http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  SIL Optimizations
+  <a href="https://github.com/apple/swift/blob/master/docs/HighLevelSILOptimizations.rst">
+   :pencil:
+  </a>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -9116,478 +9500,486 @@ disk:
   </ul>
  </li>
 </ul>
-disk:
-<a href="https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883">
- :microphone:
-</a>
-<li>
- What do Haskell developers think of Swift?
- <a href="https://www.quora.com/What-do-Haskell-developers-think-of-Swift">
-  :link:
+<p>
+ disk:
+ <a href="https://yow.eventer.com/yow-lambda-jam-2015-1305/functional-programming-in-a-stateful-world-by-manuel-chakravarty-1883">
+  :microphone:
  </a>
-</li>
-<li>
- A Swift intoduction to Haskell
- <a href="https://speakerdeck.com/johannesweiss/swift-london-meetup-introduction-to-haskell">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
-</li>
-<li>
- Hindley-Milner languages
- <a href="http://qr.ae/Rg3rFd">
-  :link:
- </a>
-</li>
-<li>
- Javascript
- <ul>
-  <li>
-   Comparing Swift and Javascript
-   <a href="http://www.mircozeiss.com/swift-for-javascript-developers">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   From JS to Swift
-   <a href="http://www.folio3.com/blog/swiftly-javascript-from-javascript-to-apples-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- C
- <ul>
-  <li>
-   Swift vs C speed test
-   <a href="http://stackoverflow.com/questions/24101718/swift-performance-sorting-arrays">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://www.quora.com/Is-Swift-programming-language-faster-than-C-or-C++-and-if-yes-why">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://medium.com/swift-programming/swifth-vs-c-5be7d0398f4f#.6ume737mt">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- C++
- <ul>
-  <li>
-   Swift vs C++ Benchmarks
-   <a href="http://www.primatelabs.com/blog/2014/12/swift-performance/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://github.com/primatelabs/geekbench-swift">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   C++ Advice to Swift Devs
-   <a href="http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Is Swift a viable alternative to C++ for performance critical code?
-   <a href="https://www.quora.com/Is-Swift-a-viable-alternative-to-C++-for-performance-critical-code?srid=xrLC&share=abc6caeb">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift vs Modern C++
-   <a href="https://www.youtube.com/watch?v=VxevGjZ8RuE">
-    :link:
-   </a>
-  </li>
-  <li>
-   Use a C++ Library from Swift
-   <a href="http://www.swiftprogrammer.info/swift_call_cpp.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- C#
- <ul>
-  <li>
-   Swift for C# Developers
-   <a href="https://developer.ibm.com/swift/2016/02/25/swift-for-c-developers/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift is a lot like C#
-   <a href="http://swiftcomparsion.qiniudn.com/">
-    :link:
-   </a>
-  </li>
-  <li>
-   Swift vs C#
-   <a href="http://www.sitharus.com/2014/06/swift-vs-csharp.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift vc C# reference guide
-   <a href="http://download.microsoft.com/download/4/6/9/469501F4-5F6B-4E51-897C-9A216CFB30A3/SwiftCSharpPoster.pdf">
-    :link:
-   </a>
-  </li>
-  <li>
-   Is something in Swift like LINQ in C#
-   <a href="http://stackoverflow.com/questions/29655304/is-something-in-swift-like-linq-in-c-sharp">
-    :link:
-   </a>
-  </li>
-  <li>
-   Are the Tuples in Swift complete alternative to Anonymous types as in C#
-   <a href="http://stackoverflow.com/questions/24080591/are-the-tuples-in-swift-complete-alternative-to-anonymous-types-as-in-c-sharp">
-    :link:
-   </a>
-  </li>
-  <li>
-   Swift Protocol Extensions and C# Abstract Classes
-   <a href="https://www.andrewcbancroft.com/2015/08/06/analyzing-swift-protocol-extensions-and-c-abstract-classes/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Java
- <ul>
-  <li>
-   Swift Protocols vs Java 8 Interfaces
-   <a href="http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift 2.0 Protocol Extensions vs Java Abstract Classes
-   <a href="http://stackoverflow.com/questions/30943209/is-there-a-difference-between-swift-2-0-protocol-extensions-and-java-c-abstract">
-    :link:
-   </a>
-  </li>
-  <li>
-   Swift vs Java Performance
-   <a href="https://www.quora.com/In-terms-of-performance-speed-is-Swift-faster-than-Java">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Making Abstract Classes in Swift
-   <a href="http://bartjacobs.com/how-to-create-an-abstract-class-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Why doesn't Apple Swift adopt the memory management method of garbage collection like in Java?
-   <a href="https://www.quora.com/Why-doesnt-Apple-Swift-adopt-the-memory-management-method-of-garbage-collection-like-in-Java">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Class level or struct level method in swift like static method in Java?
-   <a href="http://stackoverflow.com/questions/24107833/class-level-or-struct-level-method-in-swift-like-static-method-in-java">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Kotlin
- <ul>
-  <li>
-   Swift is like Kotlin
-   <a href="https://nilhcem.github.io/swift-is-like-kotlin/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Android
- <ul>
-  <li>
-   How to Start Android Development with an iOS Background
-   <a href="http://savvyapps.com/blog/how-to-start-android-development-with-an-ios-background">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Go
- <ul>
-  <li>
-   Swift vs Golang
-   <a href="http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1">
-    :floppy
-   </a>
-  </li>
- </ul>
-</li>
-disk:
-<li>
- Loops Go vs Swift
- <a href="http://lithium3141.com/blog/2015/11/26/variable-capture-in-go-vs-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Rust
- <ul>
-  <li>
-   Go vs Node vs Rust vs Swift
-   <a href="https://grigio.org/go-vs-node-vs-rust-vs-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Rust from Swift
-   <a href="http://faq.sealedabstract.com/rust/#a-word-on-design-philosophy">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Rust and Swift
-   <a href="http://www.chriskrycho.com/2015/rust-and-swift-i.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Observations from Rust’s original designer
-   <a href="http://graydon.livejournal.com/191100.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Differences between Rust and Swift
-   <a href="https://www.quora.com/Programming-Languages/What-are-the-differences-between-Rust-and-Swift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Ruby
- <ul>
-  <li>
-   Swift For Rubyists
-   <a href="https://realm.io/news/swift-for-rubyists/">
-    :microphone:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Scala
- <ul>
-  <li>
-   Swift vs Scala
-   <a href="https://www.reddit.com/r/programming/comments/27dmsb/swift_vs_scala/">
-    :floppy
-    <em>
-     disk:
-    </em>
-   </a>
-   <a href="http://www.cultivatehq.com/swift-design-influences/">
-    :page
-   </a>
-  </li>
- </ul>
-</li>
-facing_up:
-<li>
- Swift is a lot like Scala
- <a href="https://leverich.github.io/swiftislikescala/">
-  :link:
- </a>
-</li>
-<li>
- Ocaml
- <ul>
-  <li>
-   OCaml's Deferred in Swift
-   <a href="https://github.com/bignerdranch/Deferred">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <span>
-    &#9733 211, pushed 4 days ago
-   </span>
-  </li>
- </ul>
-</li>
-<li>
- Python
- <ul>
-  <li>
-   Pythonic Swift
-   <a href="https://github.com/practicalswift/Pythonic.swift">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 487, pushed 44 days ago
-   </span>
-  </li>
- </ul>
-</li>
-<li>
- Elixir
- <ul>
-  <li>
-   Comparing Protocols and Extensions in Swift and Elixir
-   <a href="http://blog.plataformatec.com.br/2014/06/comparing-protocols-and-extensions-in-swift-and-elixir/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- ObjC
- <ul>
-  <li>
-   How is Swift Faster than Objective-C?
-   <a href="https://www.quora.com/How-is-Swift-faster-than-Objective-C">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   A Eulogy for Objective C
-   <a href="https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   The best of Obj-C to Swift
-   <a href="https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/">
-    :microphone:
-   </a>
-   <a href="https://www.quora.com/What-are-the-best-code-examples-to-illustrate-the-benefits-of-Swift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
+ <li>
+  What do Haskell developers think of Swift?
+  <a href="https://www.quora.com/What-do-Haskell-developers-think-of-Swift">
+   :link:
+  </a>
+ </li>
+ <li>
+  A Swift intoduction to Haskell
+  <a href="https://speakerdeck.com/johannesweiss/swift-london-meetup-introduction-to-haskell">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+ </li>
+ <li>
+  Hindley-Milner languages
+  <a href="http://qr.ae/Rg3rFd">
+   :link:
+  </a>
+ </li>
+ <li>
+  Javascript
+  <ul>
+   <li>
+    Comparing Swift and Javascript
+    <a href="http://www.mircozeiss.com/swift-for-javascript-developers">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    From JS to Swift
+    <a href="http://www.folio3.com/blog/swiftly-javascript-from-javascript-to-apples-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  C
+  <ul>
+   <li>
+    Swift vs C speed test
+    <a href="http://stackoverflow.com/questions/24101718/swift-performance-sorting-arrays">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://www.quora.com/Is-Swift-programming-language-faster-than-C-or-C++-and-if-yes-why">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://medium.com/swift-programming/swifth-vs-c-5be7d0398f4f#.6ume737mt">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  C++
+  <ul>
+   <li>
+    Swift vs C++ Benchmarks
+    <a href="http://www.primatelabs.com/blog/2014/12/swift-performance/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://github.com/primatelabs/geekbench-swift">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    C++ Advice to Swift Devs
+    <a href="http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Is Swift a viable alternative to C++ for performance critical code?
+    <a href="https://www.quora.com/Is-Swift-a-viable-alternative-to-C++-for-performance-critical-code?srid=xrLC&share=abc6caeb">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift vs Modern C++
+    <a href="https://www.youtube.com/watch?v=VxevGjZ8RuE">
+     :link:
+    </a>
+   </li>
+   <li>
+    Use a C++ Library from Swift
+    <a href="http://www.swiftprogrammer.info/swift_call_cpp.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  C#
+  <ul>
+   <li>
+    Swift for C# Developers
+    <a href="https://developer.ibm.com/swift/2016/02/25/swift-for-c-developers/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift is a lot like C#
+    <a href="http://swiftcomparsion.qiniudn.com/">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift vs C#
+    <a href="http://www.sitharus.com/2014/06/swift-vs-csharp.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift vc C# reference guide
+    <a href="http://download.microsoft.com/download/4/6/9/469501F4-5F6B-4E51-897C-9A216CFB30A3/SwiftCSharpPoster.pdf">
+     :link:
+    </a>
+   </li>
+   <li>
+    Is something in Swift like LINQ in C#
+    <a href="http://stackoverflow.com/questions/29655304/is-something-in-swift-like-linq-in-c-sharp">
+     :link:
+    </a>
+   </li>
+   <li>
+    Are the Tuples in Swift complete alternative to Anonymous types as in C#
+    <a href="http://stackoverflow.com/questions/24080591/are-the-tuples-in-swift-complete-alternative-to-anonymous-types-as-in-c-sharp">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift Protocol Extensions and C# Abstract Classes
+    <a href="https://www.andrewcbancroft.com/2015/08/06/analyzing-swift-protocol-extensions-and-c-abstract-classes/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Java
+  <ul>
+   <li>
+    Swift Protocols vs Java 8 Interfaces
+    <a href="http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift 2.0 Protocol Extensions vs Java Abstract Classes
+    <a href="http://stackoverflow.com/questions/30943209/is-there-a-difference-between-swift-2-0-protocol-extensions-and-java-c-abstract">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift vs Java Performance
+    <a href="https://www.quora.com/In-terms-of-performance-speed-is-Swift-faster-than-Java">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Making Abstract Classes in Swift
+    <a href="http://bartjacobs.com/how-to-create-an-abstract-class-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Why doesn't Apple Swift adopt the memory management method of garbage collection like in Java?
+    <a href="https://www.quora.com/Why-doesnt-Apple-Swift-adopt-the-memory-management-method-of-garbage-collection-like-in-Java">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Class level or struct level method in swift like static method in Java?
+    <a href="http://stackoverflow.com/questions/24107833/class-level-or-struct-level-method-in-swift-like-static-method-in-java">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Kotlin
+  <ul>
+   <li>
+    Swift is like Kotlin
+    <a href="https://nilhcem.github.io/swift-is-like-kotlin/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Android
+  <ul>
+   <li>
+    How to Start Android Development with an iOS Background
+    <a href="http://savvyapps.com/blog/how-to-start-android-development-with-an-ios-background">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Go
+  <ul>
+   <li>
+    Swift vs Golang
+    <a href="http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1">
+     :floppy
+    </a>
+   </li>
+  </ul>
+ </li>
+ disk:
+ <li>
+  Loops Go vs Swift
+  <a href="http://lithium3141.com/blog/2015/11/26/variable-capture-in-go-vs-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Rust
+  <ul>
+   <li>
+    Go vs Node vs Rust vs Swift
+    <a href="https://grigio.org/go-vs-node-vs-rust-vs-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Rust from Swift
+    <a href="http://faq.sealedabstract.com/rust/#a-word-on-design-philosophy">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Rust and Swift
+    <a href="http://www.chriskrycho.com/2015/rust-and-swift-i.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Observations from Rust’s original designer
+    <a href="http://graydon.livejournal.com/191100.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Differences between Rust and Swift
+    <a href="https://www.quora.com/Programming-Languages/What-are-the-differences-between-Rust-and-Swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Ruby
+  <ul>
+   <li>
+    Swift For Rubyists
+    <a href="https://realm.io/news/swift-for-rubyists/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Scala
+  <ul>
+   <li>
+    Swift vs Scala
+    <a href="https://www.reddit.com/r/programming/comments/27dmsb/swift_vs_scala/">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+    <a href="http://www.cultivatehq.com/swift-design-influences/">
+     :page
+    </a>
+   </li>
+  </ul>
+ </li>
+ facing_up:
+ <li>
+  Swift is a lot like Scala
+  <a href="https://leverich.github.io/swiftislikescala/">
+   :link:
+  </a>
+ </li>
+ <li>
+  Ocaml
+  <ul>
+   <li>
+    OCaml's Deferred in Swift
+    <a href="https://github.com/bignerdranch/Deferred">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 211, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 211, pushed 4 days ago
+  </sup>
+ </li>
+ <li>
+  Python
+  <ul>
+   <li>
+    Pythonic Swift
+    <a href="https://github.com/practicalswift/Pythonic.swift">
+     :pencil2:
+    </a>
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 487, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 487, pushed 44 days ago
+  </sup>
+ </li>
+ <li>
+  Elixir
+  <ul>
+   <li>
+    Comparing Protocols and Extensions in Swift and Elixir
+    <a href="http://blog.plataformatec.com.br/2014/06/comparing-protocols-and-extensions-in-swift-and-elixir/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  ObjC
+  <ul>
+   <li>
+    How is Swift Faster than Objective-C?
+    <a href="https://www.quora.com/How-is-Swift-faster-than-Objective-C">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    A Eulogy for Objective C
+    <a href="https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    The best of Obj-C to Swift
+    <a href="https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/">
+     :microphone:
+    </a>
+    <a href="https://www.quora.com/What-are-the-best-code-examples-to-illustrate-the-benefits-of-Swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -9641,18 +10033,24 @@ facing_up:
   <a href="https://github.com/johnno1962/NSLinux">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 53, pushed 11 days ago
+  </sup>
+  <sup>
    &#9733 53, pushed 11 days ago
-  </span>
+  </sup>
  </li>
  <li>
   interact with Linux GPIO/SPI on ARM
   <a href="https://github.com/uraimo/SwiftyGPIO">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 182, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 182, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Concurrency on Linux
@@ -9847,116 +10245,127 @@ facing_up:
   </ul>
  </li>
 </ul>
-disk:
-<a href="https://www.youtube.com/watch?v=a3rR5XVA22w">
- :microphone:
-</a>
-<li>
- Implementing goto in Swift
- <a href="https://harlanhaskins.com/2016/01/09/goto-in-swift.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
+<p>
+ disk:
+ <a href="https://www.youtube.com/watch?v=a3rR5XVA22w">
+  :microphone:
  </a>
-</li>
-<li>
- Functional ASCII Art
- <a href="https://github.com/ijoshsmith/swift-ascii-art">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <span>
-  &#9733 125, pushed 169 days ago
- </span>
-</li>
-<li>
- Writing 2048 in Swift
- <a href="https://realm.io/news/swift-2048/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- FlappySwift
- <a href="https://github.com/fullstackio/FlappySwift">
-  :pencil2:
- </a>
- <span>
-  &#9733 7723, pushed 126 days ago
- </span>
-</li>
-<li>
- Parallel Mandelbrot Set in Swift
- <a href="http://blog.scottlogic.com/2014/10/29/concurrent-functional-swift.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Game of Life in Swift
- <a href="http://blog.scottlogic.com/2014/09/10/game-of-life-in-functional-swift.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Interview Questions
- <ul>
-  <li>
-   Ray Wenderlich
-   <a href="http://www.raywenderlich.com/110982/swift-interview-questions-answers">
-    :clipboard:
-   </a>
-  </li>
-  <li>
-   Toptal
-   <a href="http://www.toptal.com/swift/interview-questions">
-    :clipboard:
-   </a>
-  </li>
-  <li>
-   LeetCode
-   <a href="https://github.com/diwu/LeetCode-Solutions-in-Swift">
-    :clipboard:
-   </a>
-   <span>
-    &#9733 731, pushed 10 days ago
-   </span>
-  </li>
-  <li>
-   Coding Questions
-   <a href="https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code">
-    :clipboard:
-   </a>
-  </li>
-  <li>
-   :fire: Awesome Swift Interview Questions
-   <a href="https://github.com/MaximAbramchuck/awesome-interviews#swift">
-    :clipboard:
-   </a>
-  </li>
-  <li>
-   :fire: Awesome iOS Interview Questions
-   <a href="https://github.com/MaximAbramchuck/awesome-interviews#ios">
-    :clipboard:
-   </a>
-  </li>
- </ul>
-</li>
+ <li>
+  Implementing goto in Swift
+  <a href="https://harlanhaskins.com/2016/01/09/goto-in-swift.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Functional ASCII Art
+  <a href="https://github.com/ijoshsmith/swift-ascii-art">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 125, pushed 169 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 169 days ago
+  </sup>
+ </li>
+ <li>
+  Writing 2048 in Swift
+  <a href="https://realm.io/news/swift-2048/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  FlappySwift
+  <a href="https://github.com/fullstackio/FlappySwift">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 7723, pushed 126 days ago
+  </sup>
+  <sup>
+   &#9733 7723, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  Parallel Mandelbrot Set in Swift
+  <a href="http://blog.scottlogic.com/2014/10/29/concurrent-functional-swift.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Game of Life in Swift
+  <a href="http://blog.scottlogic.com/2014/09/10/game-of-life-in-functional-swift.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Interview Questions
+  <ul>
+   <li>
+    Ray Wenderlich
+    <a href="http://www.raywenderlich.com/110982/swift-interview-questions-answers">
+     :clipboard:
+    </a>
+   </li>
+   <li>
+    Toptal
+    <a href="http://www.toptal.com/swift/interview-questions">
+     :clipboard:
+    </a>
+   </li>
+   <li>
+    LeetCode
+    <a href="https://github.com/diwu/LeetCode-Solutions-in-Swift">
+     :clipboard:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 731, pushed 10 days ago
+    </sup>
+    <sup>
+     &#9733 731, pushed 10 days ago
+    </sup>
+   </li>
+   <li>
+    Coding Questions
+    <a href="https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code">
+     :clipboard:
+    </a>
+   </li>
+   <li>
+    :fire: Awesome Swift Interview Questions
+    <a href="https://github.com/MaximAbramchuck/awesome-interviews#swift">
+     :clipboard:
+    </a>
+   </li>
+   <li>
+    :fire: Awesome iOS Interview Questions
+    <a href="https://github.com/MaximAbramchuck/awesome-interviews#ios">
+     :clipboard:
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -9991,240 +10400,264 @@ disk:
   </ul>
  </li>
 </ul>
+<p>
+ disk:
+ <li>
+  Cocoapods
+  <ul>
+   <li>
+    Make a Cocoapods Framework
+    <a href="https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  SPM
+  <ul>
+   <li>
+    Using the Swift Package Manager
+    <a href="http://kostiakoval.github.io/posts/swift-package-manager">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://cjwirth.com/2016/03/07/using-xcode-and-spm-together/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    IBM Swift Package Catalog
+    <a href="https://swiftpkgs.ng.bluemix.net/">
+     :link:
+    </a>
+   </li>
+   <li>
+    Exclude folders in the SPM
+    <a href="http://kostiakoval.github.io/posts/exclude-folders-new-feature-in-swift-package-manager">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift, Frameworks & Modules, Learnings from CocoaPods
+    <a href="https://speakerdeck.com/realm/swift-frameworks-and-modules-learnings-from-cocoapods">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Package Manager
+    <a href="https://speakerdeck.com/neonichu/swift-package-manager">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Modules and frameworks
+  <ul>
+   <li>
+    Modules and Precompiled Headers
+    <a href="http://useyourloaf.com/blog/modules-and-precompiled-headers/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Building a Swift Framework
+    <a href="https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Docker
+  <ul>
+   <li>
+    Deploy and run Swift Kitura Applications with Docker
+    <a href="http://heidloff.net/article/swift-kitura-docker-bluemix">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Docker image that contains all dependencies for building and running the Kitura sample application
+    <a href="https://github.com/IBM-Swift/kitura-ubuntu-docker">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 3, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 3, pushed 5 days ago
+    </sup>
+   </li>
+   <li>
+    Docker for iOS Development
+    <a href="https://github.com/jkingyens/docker4xcode">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 112, pushed 317 days ago
+    </sup>
+    <sup>
+     &#9733 112, pushed 317 days ago
+    </sup>
+   </li>
+   <li>
+    How I'm dockerizing Swift web apps
+    <a href="https://blog.kida.io/dockerizing-swift-web-apps/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Docker containers used for spinning up different Swift web frameworks
+    <a href="https://github.com/joshdholtz/swift-webframeworks-docker">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 9, pushed 94 days ago
+    </sup>
+    <sup>
+     &#9733 9, pushed 94 days ago
+    </sup>
+   </li>
+   <li>
+    Easy Server Side Swift with Docker
+    <a href="https://medium.com/@LarsJK/easy-server-side-swift-with-docker-4c297feeeeb5#.p4xdbad2i">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift example to run on Kubernetes
+    <a href="https://github.com/fabric8io/swift">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 0, pushed 82 days ago
+    </sup>
+    <sup>
+     &#9733 0, pushed 82 days ago
+    </sup>
+   </li>
+   <li>
+    Run Linux Swift on your Mac or PC with Docker
+    <a href="https://medium.com/@LarsJK/run-linux-swift-on-your-mac-or-pc-c2ea3ffba80b#.8wtaudarb">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Other
+  <ul>
+   <li>
+    Naming assets
+    <a href="https://github.com/dkhamsing/ios-asset-names">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Xcode Snippets
+    <a href="https://github.com/burczyk/XcodeSwiftSnippets">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 972, pushed 100 days ago
+    </sup>
+    <sup>
+     &#9733 972, pushed 100 days ago
+    </sup>
+   </li>
+   <li>
+    Bottom Up Programming in Swift
+    <a href="https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Lessons from Production Swift
+    <a href="https://speakerdeck.com/ashfurrow/lessons-from-production-swift">
+     :floppy
+    </a>
+   </li>
+  </ul>
+  <sup>
+   &#9733 397, pushed 15 days ago
+  </sup>
+ </li>
+</p>
 disk:
 <li>
- Cocoapods
- <ul>
-  <li>
-   Make a Cocoapods Framework
-   <a href="https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/">
-    :microphone:
-   </a>
-  </li>
- </ul>
+ An Ansible playbook for Swift
+ <a href="https://akrabat.com/an-ansible-playbook-for-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
 </li>
 <li>
- SPM
- <ul>
-  <li>
-   Using the Swift Package Manager
-   <a href="http://kostiakoval.github.io/posts/swift-package-manager">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://cjwirth.com/2016/03/07/using-xcode-and-spm-together/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   IBM Swift Package Catalog
-   <a href="https://swiftpkgs.ng.bluemix.net/">
-    :link:
-   </a>
-  </li>
-  <li>
-   Exclude folders in the SPM
-   <a href="http://kostiakoval.github.io/posts/exclude-folders-new-feature-in-swift-package-manager">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift, Frameworks & Modules, Learnings from CocoaPods
-   <a href="https://speakerdeck.com/realm/swift-frameworks-and-modules-learnings-from-cocoapods">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift Package Manager
-   <a href="https://speakerdeck.com/neonichu/swift-package-manager">
-    :floppy_disk:
-   </a>
-  </li>
- </ul>
+ Ansible role to install Swift programming language in Ubuntu
+ <a href="https://galaxy.ansible.com/alexcoppe/swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
 </li>
-<li>
- Modules and frameworks
- <ul>
-  <li>
-   Modules and Precompiled Headers
-   <a href="http://useyourloaf.com/blog/modules-and-precompiled-headers/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Building a Swift Framework
-   <a href="https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/">
-    :microphone:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Docker
- <ul>
-  <li>
-   Deploy and run Swift Kitura Applications with Docker
-   <a href="http://heidloff.net/article/swift-kitura-docker-bluemix">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Docker image that contains all dependencies for building and running the Kitura sample application
-   <a href="https://github.com/IBM-Swift/kitura-ubuntu-docker">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 3, pushed 5 days ago
-   </span>
-  </li>
-  <li>
-   Docker for iOS Development
-   <a href="https://github.com/jkingyens/docker4xcode">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 112, pushed 317 days ago
-   </span>
-  </li>
-  <li>
-   How I'm dockerizing Swift web apps
-   <a href="https://blog.kida.io/dockerizing-swift-web-apps/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Docker containers used for spinning up different Swift web frameworks
-   <a href="https://github.com/joshdholtz/swift-webframeworks-docker">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <span>
-    &#9733 9, pushed 94 days ago
-   </span>
-  </li>
-  <li>
-   Easy Server Side Swift with Docker
-   <a href="https://medium.com/@LarsJK/easy-server-side-swift-with-docker-4c297feeeeb5#.p4xdbad2i">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift example to run on Kubernetes
-   <a href="https://github.com/fabric8io/swift">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 0, pushed 82 days ago
-   </span>
-  </li>
-  <li>
-   Run Linux Swift on your Mac or PC with Docker
-   <a href="https://medium.com/@LarsJK/run-linux-swift-on-your-mac-or-pc-c2ea3ffba80b#.8wtaudarb">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Other
- <ul>
-  <li>
-   Naming assets
-   <a href="https://github.com/dkhamsing/ios-asset-names">
-    :pencil:
-   </a>
-   <span>
-    &#9733 397, pushed 15 days ago
-   </span>
-  </li>
-  <li>
-   Xcode Snippets
-   <a href="https://github.com/burczyk/XcodeSwiftSnippets">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 972, pushed 100 days ago
-   </span>
-  </li>
-  <li>
-   Bottom Up Programming in Swift
-   <a href="https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Lessons from Production Swift
-   <a href="https://speakerdeck.com/ashfurrow/lessons-from-production-swift">
-    :floppy_disk:
-   </a>
-  </li>
-  <li>
-   An Ansible playbook for Swift
-   <a href="https://akrabat.com/an-ansible-playbook-for-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Ansible role to install Swift programming language in Ubuntu
-   <a href="https://galaxy.ansible.com/alexcoppe/swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
+<sup>
+ 209 GitHub links in total 1653 links, &#9733 397, pushed 15 days ago
+</sup>
 <p>
  <a href="#index">
   :arrow_up:
@@ -10280,99 +10713,104 @@ disk:
   </a>
  </li>
 </ul>
-facing_up:
-<a href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me">
- :microphone:
-</a>
-<li>
- Protocols in Swift
- <a href="http://austinzheng.com/2014/12/24/protocols-in-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
+<p>
+ facing_up:
+ <a href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me">
+  :microphone:
  </a>
-</li>
-<li>
- The Genius of Protocols
- <a href="https://www.wooji-juice.com/blog/swift-genius-of-protocols.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Swift Comparison Protocols
- <a href="http://nshipster.com/swift-comparison-protocols/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Protocols in Swift
- <a href="http://www.codingexplorer.com/protocols-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Raw​Option​Set​Type
- <a href="http://nshipster.com/rawoptionsettype/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Standard Template Protocols
- <a href="https://github.com/cconeil/Standard-Template-Protocols">
-  :pencil2:
- </a>
- <span>
-  &#9733 325, pushed 35 days ago
- </span>
-</li>
-<li>
- Properties of Types Conforming to Protocols
- <a href="http://ilya.puchka.me/properties-of-types-conforming-to-protocols-in-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Swift Default Protocol Implementations
- <a href="http://nshipster.com/swift-default-protocol-implementations/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Optional Protocol Methods
- <a href="http://useyourloaf.com/blog/swift-optional-protocol-methods.html">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
+ <li>
+  Protocols in Swift
+  <a href="http://austinzheng.com/2014/12/24/protocols-in-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  The Genius of Protocols
+  <a href="https://www.wooji-juice.com/blog/swift-genius-of-protocols.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Swift Comparison Protocols
+  <a href="http://nshipster.com/swift-comparison-protocols/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocols in Swift
+  <a href="http://www.codingexplorer.com/protocols-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Raw​Option​Set​Type
+  <a href="http://nshipster.com/rawoptionsettype/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Standard Template Protocols
+  <a href="https://github.com/cconeil/Standard-Template-Protocols">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 325, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 325, pushed 35 days ago
+  </sup>
+ </li>
+ <li>
+  Properties of Types Conforming to Protocols
+  <a href="http://ilya.puchka.me/properties-of-types-conforming-to-protocols-in-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Swift Default Protocol Implementations
+  <a href="http://nshipster.com/swift-default-protocol-implementations/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Optional Protocol Methods
+  <a href="http://useyourloaf.com/blog/swift-optional-protocol-methods.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -10398,172 +10836,178 @@ facing_up:
   disk:
  </li>
 </ul>
-<a href="https://gist.github.com/rbobbins/de5c75cf709f0109ee95">
- :pencil:
-</a>
-<a href="https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2#.b3vmjxbzy">
- :page
- <em>
-  facing
- </em>
- up:
-</a>
-<li>
- Beyond Crusty
- <a href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols">
-  :microphone:
- </a>
- <a href="https://gist.github.com/rnapier/e64e3938a787d789c2d4">
+<p>
+ <a href="https://gist.github.com/rbobbins/de5c75cf709f0109ee95">
   :pencil:
  </a>
-</li>
-<li>
- POP is OOP Thesis
- <a href="http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html">
+ <a href="https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2#.b3vmjxbzy">
   :page
   <em>
    facing
   </em>
   up:
  </a>
-</li>
-<li>
- Protocol Oriented MVVM
- <a href="http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- ,
- <a href="http://www.slideshare.net/natashatherobot/protocoloriented-mvvm-extended-edition">
-  :floppy_disk:
- </a>
- <a href="https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/">
-  :microphone:
- </a>
-</li>
-<li>
- Functional thinking via Protocol Extensions
- <a href="http://kelan.io/2015/approachable-functional-thinking-using-protocol-extensions/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Protocol Extensions vs Type Extensions
- <a href="https://gist.github.com/hsavit1/3337f80d9fe1396c44ce">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- What are the advantages?
- <a href="http://www.infoq.com/news/2015/06/protocol-oriented-swift">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Another look into the concept of P.O.P.
- <a href="http://willowtreeapps.com/blog/protocol-oriented-programming/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- If you're subclassing, you're doing it wrong. POP and VOP explained
- <a href="http://krakendev.io/blog/subclassing-can-suck-and-heres-why">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Protocol Oriented Programming through UIKit
- <a href="http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Protocols in Swift
- <a href="http://ashfurrow.com/blog/protocols-and-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Ray Wenderlich intro to POP
- <a href="http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Protocol Extensions and the death of the Pipe forward operator
- <a href="http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- How Protocol Oriented Programming could still improve
- <a href="https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- The Swift Protocol Proposal
- <a href="http://kickingbear.com/blog/archives/521">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- :raised
- <em>
-  hands: Mixins and Traits in Swift 2.0
-  <a href="http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/">
-   :page
+ <li>
+  Beyond Crusty
+  <a href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols">
+   :microphone:
   </a>
- </em>
- facing_up:
-</li>
+  <a href="https://gist.github.com/rnapier/e64e3938a787d789c2d4">
+   :pencil:
+  </a>
+ </li>
+ <li>
+  POP is OOP Thesis
+  <a href="http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocol Oriented MVVM
+  <a href="http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  ,
+  <a href="http://www.slideshare.net/natashatherobot/protocoloriented-mvvm-extended-edition">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+  <a href="https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  Functional thinking via Protocol Extensions
+  <a href="http://kelan.io/2015/approachable-functional-thinking-using-protocol-extensions/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocol Extensions vs Type Extensions
+  <a href="https://gist.github.com/hsavit1/3337f80d9fe1396c44ce">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  What are the advantages?
+  <a href="http://www.infoq.com/news/2015/06/protocol-oriented-swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Another look into the concept of P.O.P.
+  <a href="http://willowtreeapps.com/blog/protocol-oriented-programming/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  If you're subclassing, you're doing it wrong. POP and VOP explained
+  <a href="http://krakendev.io/blog/subclassing-can-suck-and-heres-why">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocol Oriented Programming through UIKit
+  <a href="http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocols in Swift
+  <a href="http://ashfurrow.com/blog/protocols-and-swift/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Ray Wenderlich intro to POP
+  <a href="http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Protocol Extensions and the death of the Pipe forward operator
+  <a href="http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  How Protocol Oriented Programming could still improve
+  <a href="https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  The Swift Protocol Proposal
+  <a href="http://kickingbear.com/blog/archives/521">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  :raised
+  <em>
+   hands: Mixins and Traits in Swift 2.0
+   <a href="http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/">
+    :page
+   </a>
+  </em>
+  facing
+ </li>
+</p>
+up:
 <li>
  Minimal Swift 2.1 Protocol Coformance
  <a href="http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/">
@@ -10619,9 +11063,12 @@ facing_up:
  <a href="https://github.com/tptee/Oriole">
   :pencil2:
  </a>
- <span>
+ <sup>
+  209 GitHub links in total 1653 links, &#9733 3, pushed 239 days ago
+ </sup>
+ <sup>
   &#9733 3, pushed 239 days ago
- </span>
+ </sup>
 </li>
 <li>
  Typesafe and Composable Data Sources in Swift
@@ -10731,9 +11178,12 @@ facing_up:
   <a href="https://github.com/RNCryptor/RNCryptor">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 2027, pushed 36 days ago
+  </sup>
+  <sup>
    &#9733 2027, pushed 36 days ago
-  </span>
+  </sup>
  </li>
  <li>
   CommonCrypto in Swift
@@ -10801,9 +11251,12 @@ facing_up:
   <a href="https://github.com/henrinormak/Heimdall">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 191, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 191, pushed 9 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -10864,18 +11317,18 @@ facing_up:
   <a href="https://github.com/swizzlr/swift-redis">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 33, pushed 37 days ago
+  </sup>
+  <sup>
    &#9733 33, pushed 37 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Sockets: TCP, UDP; Client, Server
   <a href="https://github.com/czechboy0/Socks">
    :pencil2:
   </a>
-  <span>
-   &#9733 242, pushed 6 days ago
-  </span>
   <a href="http://dev.iachieved.it/iachievedit/tcp-sockets-with-swift-on-linux/">
    :page
    <em>
@@ -10883,6 +11336,12 @@ facing_up:
    </em>
    up:
   </a>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 242, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 242, pushed 7 days ago
+  </sup>
  </li>
  <li>
   Zevo Server Side Swift Community
@@ -10926,18 +11385,24 @@ facing_up:
   <a href="https://github.com/necolt/Swifton">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1872, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 1872, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Swift Website Example
   <a href="https://github.com/kylef/Curassow-example-helloworld">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 50, pushed 75 days ago
+  </sup>
+  <sup>
    &#9733 50, pushed 75 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Write Web Server in Swift
@@ -10950,9 +11415,12 @@ facing_up:
   <a href="https://github.com/mpclarkson/perfect-swift-linux">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 23, pushed 15 days ago
+  </sup>
+  <sup>
    &#9733 23, pushed 15 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <p>
@@ -10997,9 +11465,12 @@ facing_up:
     <a href="https://github.com/erica/SwiftString">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 33, pushed 95 days ago
+    </sup>
+    <sup>
      &#9733 33, pushed 95 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Symbology in Swift
@@ -11088,18 +11559,24 @@ facing_up:
     <a href="https://github.com/davedelong/DDMathParser">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 579, pushed 40 days ago
+    </sup>
+    <sup>
      &#9733 579, pushed 40 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Madness: Parsing strings in simple context-free grammars
     <a href="https://github.com/robrix/Madness">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 209, pushed 8 days ago
+    </sup>
+    <sup>
      &#9733 209, pushed 8 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -11161,9 +11638,12 @@ facing_up:
     <a href="https://github.com/VerbalExpressions/SwiftVerbalExpressions">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 416, pushed 52 days ago
+    </sup>
+    <sup>
      &#9733 416, pushed 52 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -11363,9 +11843,12 @@ facing_up:
     <a href="https://github.com/SixFiveSoftware/BrowseOverflowSwift">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 0, pushed 520 days ago
+    </sup>
+    <sup>
      &#9733 0, pushed 520 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -11387,9 +11870,12 @@ facing_up:
     <a href="https://github.com/bppr/Swiftest">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 81, pushed 28 days ago
+    </sup>
+    <sup>
      &#9733 81, pushed 28 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Intro to Quick and Nimble
@@ -11415,9 +11901,6 @@ facing_up:
     <a href="https://github.com/Quick/Quick">
      :pencil2:
     </a>
-    <span>
-     &#9733 4606, pushed 2 days ago
-    </span>
     <a href="http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/">
      :page
      <em>
@@ -11425,15 +11908,24 @@ facing_up:
      </em>
      up:
     </a>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4606, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 4606, pushed 2 days ago
+    </sup>
    </li>
    <li>
     Nimble Matcher Framework
     <a href="https://github.com/Quick/Nimble">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 1193, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 1193, pushed 3 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -11582,11 +12074,14 @@ facing_up:
     <a href="https://github.com/facebook/ios-snapshot-test-case">
      :pencil2:
     </a>
-    <span>
-     &#9733 1784, pushed 1 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 1784, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1784, pushed 1 days ago
+  </sup>
  </li>
  <li>
   Profiling
@@ -11615,150 +12110,161 @@ facing_up:
   </ul>
  </li>
 </ul>
-disk:
-<li>
- Finding memory leaks with instruments
- <a href="http://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode/#.VqaGcF_w1AE.hackernews">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- What every iOS Developer should be doing with Instruments
- <a href="https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f#.961cmlvx3">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Xcode Instruments Documentation
- <a href="https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652-CH3-SW1">
-  :link:
- </a>
-</li>
-<li>
- Instruments Tutorial
- <a href="https://www.raywenderlich.com/97886/instruments-tutorial-with-swift-getting-started">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Functional Testing
- <ul>
-  <li>
-   SwiftCheck: QuickCheck for Swift
-   <a href="https://github.com/typelift/SwiftCheck">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 360, pushed 2 days ago
-   </span>
-  </li>
-  <li>
-   More functional testing
-   <a href="http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- iOS Testing
- <ul>
-  <li>
-   The state of iOS testing in 2015
-   <a href="http://www.mokacoding.com/blog/ios-testing-in-2015/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Framerate testing
-   <a href="https://github.com/tapwork/WatchdogInspector">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 380, pushed 40 days ago
-   </span>
-  </li>
-  <li>
-   Setting up KIF for iOS Acceptance Testing
-   <a href="http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   How to configure Travis CI for iOS Testing
-   <a href="http://www.mokacoding.com/blog/travis-ci-ios-testing/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Heap Inspector
-   <a href="https://github.com/tapwork/HeapInspector-for-iOS">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 1370, pushed 15 days ago
-   </span>
-  </li>
- </ul>
-</li>
-<li>
- Code Coverage
- <ul>
-  <li>
-   Xcode code coverage
-   <a href="http://useyourloaf.com/blog/xcode-code-coverage/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Code Injection
- <ul>
-  <li>
-   Code injection for Xcode
-   <a href="http://artsy.github.io/blog/2016/03/05/iOS-Code-Injection/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
+<p>
+ disk:
+ <li>
+  Finding memory leaks with instruments
+  <a href="http://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode/#.VqaGcF_w1AE.hackernews">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  What every iOS Developer should be doing with Instruments
+  <a href="https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f#.961cmlvx3">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Xcode Instruments Documentation
+  <a href="https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652-CH3-SW1">
+   :link:
+  </a>
+ </li>
+ <li>
+  Instruments Tutorial
+  <a href="https://www.raywenderlich.com/97886/instruments-tutorial-with-swift-getting-started">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Functional Testing
+  <ul>
+   <li>
+    SwiftCheck: QuickCheck for Swift
+    <a href="https://github.com/typelift/SwiftCheck">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    More functional testing
+    <a href="http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 360, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 360, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  iOS Testing
+  <ul>
+   <li>
+    The state of iOS testing in 2015
+    <a href="http://www.mokacoding.com/blog/ios-testing-in-2015/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Framerate testing
+    <a href="https://github.com/tapwork/WatchdogInspector">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 380, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 380, pushed 40 days ago
+    </sup>
+   </li>
+   <li>
+    Setting up KIF for iOS Acceptance Testing
+    <a href="http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    How to configure Travis CI for iOS Testing
+    <a href="http://www.mokacoding.com/blog/travis-ci-ios-testing/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Heap Inspector
+    <a href="https://github.com/tapwork/HeapInspector-for-iOS">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 1370, pushed 15 days ago
+    </sup>
+    <sup>
+     &#9733 1370, pushed 15 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Code Coverage
+  <ul>
+   <li>
+    Xcode code coverage
+    <a href="http://useyourloaf.com/blog/xcode-code-coverage/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Code Injection
+  <ul>
+   <li>
+    Code injection for Xcode
+    <a href="http://artsy.github.io/blog/2016/03/05/iOS-Code-Injection/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 <p>
  <a href="#index">
   :arrow_up:
@@ -11803,11 +12309,14 @@ disk:
     <a href="https://github.com/vsco/swift-benchmarks">
      :pencil2:
     </a>
-    <span>
-     &#9733 48, pushed 146 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 48, pushed 146 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 146 days ago
+  </sup>
  </li>
  <li>
   Continuous Integration
@@ -11897,9 +12406,6 @@ disk:
     <a href="https://github.com/realm/SwiftCov">
      :pencil2:
     </a>
-    <span>
-     &#9733 438, pushed 96 days ago
-    </span>
    </li>
    <li>
     Continuous Integration and Code Coverage In Xcode
@@ -11922,11 +12428,20 @@ disk:
     <a href="https://github.com/SlatherOrg/slather">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 495, pushed 1 days ago
+    </sup>
+    <sup>
      &#9733 495, pushed 1 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 438, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 438, pushed 96 days ago
+  </sup>
  </li>
  <li>
   Debugging Tools
@@ -11946,27 +12461,36 @@ disk:
     <a href="https://github.com/larslockefeer/xcpretty-profiler-formatter">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 18, pushed 106 days ago
+    </sup>
+    <sup>
      &#9733 18, pushed 106 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Atom Swift Debugger
     <a href="https://github.com/aciidb0mb3r/atom-swift-debugger">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 69, pushed 143 days ago
+    </sup>
+    <sup>
      &#9733 69, pushed 143 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Cocoalumberjack
     <a href="https://github.com/CocoaLumberjack/CocoaLumberjack">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 7131, pushed 3 days ago
+    </sup>
+    <sup>
      &#9733 7131, pushed 3 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -11994,9 +12518,12 @@ disk:
     <a href="https://github.com/beanieboi/codeship-ios">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4, pushed 210 days ago
+    </sup>
+    <sup>
      &#9733 4, pushed 210 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -12012,14 +12539,17 @@ disk:
      </em>
      up:
     </a>
-    <span>
-     &#9733 3083, pushed 6 days ago
-    </span>
     <a href="https://speakerdeck.com/jpsim/overview-of-jazzy-soulful-docs-for-swift">
      :floppy_disk:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 3083, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 3083, pushed 6 days ago
+  </sup>
  </li>
  <li>
   Docker Tools
@@ -12039,9 +12569,12 @@ disk:
     <a href="https://github.com/swiftdocker/docker-swift">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 204, pushed 7 days ago
+    </sup>
+    <sup>
      &#9733 204, pushed 7 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -12053,11 +12586,14 @@ disk:
     <a href="https://github.com/kylef/heroku-buildpack-swift">
      :pencil2:
     </a>
-    <span>
-     &#9733 278, pushed 71 days ago
-    </span>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 278, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 278, pushed 71 days ago
+  </sup>
  </li>
  <li>
   Swift Tools
@@ -12077,6 +12613,9 @@ disk:
     <a href="https://github.com/kylef/swiftenv">
      :pencil2:
     </a>
+    <sup>
+     &#9733 684, pushed 11 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -12088,9 +12627,6 @@ disk:
     <a href="https://github.com/alcatraz/Alcatraz">
      :pencil2:
     </a>
-    <span>
-     &#9733 8498, pushed 7 days ago
-    </span>
    </li>
    <li>
     Cocoa Layout Instrument
@@ -12107,36 +12643,48 @@ disk:
     <a href="https://github.com/JakeLin/IBAnimatable">
      :pencil2:
     </a>
-    <span>
-     &#9733 4049, pushed 1 days ago
-    </span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4049, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 4049, pushed 2 days ago
+    </sup>
    </li>
    <li>
     Draw in Interface Builder
     <a href="https://github.com/ipraba/EPShapes">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 276, pushed 77 days ago
+    </sup>
+    <sup>
      &#9733 276, pushed 77 days ago
-    </span>
+    </sup>
    </li>
    <li>
     VVDocumenter
     <a href="https://github.com/onevcat/VVDocumenter-Xcode">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 7166, pushed 42 days ago
+    </sup>
+    <sup>
      &#9733 7166, pushed 42 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Analytics workflow in Swift
     <a href="https://github.com/brianmichel/Swift-Analysis-Workflow">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 17, pushed 106 days ago
+    </sup>
+    <sup>
      &#9733 17, pushed 106 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Anarchy Swift Build Tools
@@ -12149,20 +12697,32 @@ disk:
     <a href="https://github.com/johnno1962/Refactorator">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 732, pushed 29 days ago
+    </sup>
+    <sup>
      &#9733 732, pushed 29 days ago
-    </span>
+    </sup>
    </li>
    <li>
     xcbuild Build Tool
     <a href="https://github.com/facebook/xcbuild">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 918, pushed 17 days ago
+    </sup>
+    <sup>
      &#9733 918, pushed 17 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 8498, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 8498, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -12226,22 +12786,657 @@ disk:
   </ul>
  </li>
 </ul>
+<p>
+ disk:
+ <li>
+  Category Theory and Progamming
+  <a href="http://yogsototh.github.io/Category-Theory-Presentation/categories.html">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  Awesome Math/Category Theory
+  <a href="https://github.com/rossant/awesome-math#category-theory">
+   :pencil:
+  </a>
+ </li>
+ <li>
+  Category Theory in Haskell
+  <a href="https://en.wikibooks.org/wiki/Haskell/Category_theory">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  The Category Design Pattern
+  <a href="http://www.haskellforall.com/2012/08/the-category-design-pattern.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Type Theory vs Category Theory
+  <a href="https://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="http://cs.stackexchange.com/questions/3028/is-category-theory-useful-for-learning-functional-programming/3256#3256">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  MIT Category Theory Class
+  <a href="http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/">
+   :link:
+  </a>
+ </li>
+ <li>
+  Functional Programming, Abstraction, and Naming Things
+  <a href="http://www.stephendiehl.com/posts/abstraction.html">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Monads defined
+  <a href="http://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem?rq=1">
+   :link:
+  </a>
+ </li>
+ <li>
+  Fantasy Land Specification
+  <a href="https://github.com/fantasyland/fantasy-land">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 1574, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 1574, pushed 16 days ago
+  </sup>
+ </li>
+ <li>
+  List of Functional Programming Topics
+  <a href="https://en.wikipedia.org/wiki/List_of_functional_programming_topics">
+   :link:
+  </a>
+ </li>
+ <li>
+  Reference Types (Classes)
+  <ul>
+   <li>
+    Class or Struct?
+    <a href="http://faq.sealedabstract.com/structs_or_classes/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://owensd.io/2015/07/05/re-struct-or-class.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    let vs var
+    <a href="http://stackoverflow.com/questions/24002092/what-is-the-difference-between-let-and-var-in-swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Weak, Strong, Unowned
+    <a href="https://speakerdeck.com/realm/weak-strong-unowned-hector-matos">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+   </li>
+   <li>
+    Is Swift Pass By Value or Pass By Reference
+    <a href="http://stackoverflow.com/questions/27364117/is-swift-pass-by-value-or-pass-by-reference/27366050#27366050">
+     :link:
+    </a>
+   </li>
+   <li>
+    How can I make a weak protocol reference in 'pure' Swift (w/o @objc)
+    <a href="http://stackoverflow.com/questions/24066304/how-can-i-make-a-weak-protocol-reference-in-pure-swift-w-o-objc">
+     :link:
+    </a>
+   </li>
+   <li>
+    When to use weak pointers with delgates
+    <a href="http://stackoverflow.com/questions/30056526/swift-delegation-when-to-use-weak-pointer-on-delegate">
+     :link:
+    </a>
+   </li>
+   <li>
+    Instance methods and type methods in Swift
+    <a href="http://www.codingexplorer.com/instance-methods-and-type-methods-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Value Types (Structs)
+  <ul>
+   <li>
+    Every Swift Value Type Should be Equatable
+    <a href="https://developer.apple.com/videos/wwdc/2015/?id=414">
+     :microphone:
+    </a>
+    <a href="https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Structs are 900x faster than classes
+    <a href="http://stackoverflow.com/questions/24232799/why-choose-struct-over-class/24243626#24243626">
+     :link:
+    </a>
+   </li>
+   <li>
+    How can I make a container with copy-on-write semantics?
+    <a href="http://stackoverflow.com/questions/32984258/how-can-i-make-a-container-with-copy-on-write-semantics-swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    When to use mutating functions in swift structs
+    <a href="https://www.natashatherobot.com/when-to-use-mutating-functions-in-swift-structs/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Mutating Funcs in Swift Structs
+    <a href="http://natashatherobot.com/mutating-functions-swift-structs/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Making Friends with Value Types
+    <a href="https://realm.io/news/andy-matuschak-controlling-complexity/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Safer Swift Code With Value Types
+    <a href="https://realm.io/news/altconf-benjamin-encz-safer-swift-code-with-value-types/">
+     :microphone:
+    </a>
+    <a href="https://gist.github.com/rbobbins/596bb6896141dca5934d">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift copy-on-write behaviour for a struct using HeapBuffer
+    <a href="https://gist.github.com/airspeedswift/71f15d1eb866be9e5ac7">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Swift pass struct by reference?
+    <a href="http://stackoverflow.com/questions/31495431/swift-pass-struct-by-reference">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Value Types
+    <a href="http://cjwirth.com/2016/02/09/value-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Fully Value-Typed Arrays in Swift
+    <a href="http://natecook.com/blog/2014/07/fully-value-typed-arrays-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Structs as Data Models
+    <a href="https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc#.rf1agoadg">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift and mutating struct
+    <a href="http://stackoverflow.com/questions/24035648/swift-and-mutating-struct">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Algebraic Types
+  <ul>
+   <li>
+    Sum Types
+    <ul>
+     <li>
+      See
+      <a href="#enums-and-pattern-matching">
+       Enums
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Product Types
+    <ul>
+     <li>
+      Tuples
+      <a href="https://medium.com/swift-programming/swift-tuple-328aecff50e7#.apsfyt2ky">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Compose Types
+  <ul>
+   <li>
+    Composing Types
+    <a href="https://gist.github.com/Ben-G/aa080de6d61f46bdc842">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Named Types and Compund Types
+    <a href="https://www.andrewcbancroft.com/2016/03/18/swift-functions-as-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Abstract Types
+  <ul>
+   <li>
+    Understanding Swift’s Abstract Types (Swift 2.2 & above)
+    <a href="http://blog.davidungar.net/2016/02/29/understanding-swifts-abstract-types-swift-2-2-above/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Understanding Abstract Types
+    <a href="http://blog.davidungar.net/2016/01/10/understanding-swifts-abstract-types-2#fn6">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Wrapper Types
+  <ul>
+   <li>
+    Wrapper Types
+    <a href="https://www.objc.io/blog/2014/11/24/functional-snippet-8-wrapper-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Type-Erased Wrappers in Swift
+    <a href="https://realm.io/news/type-erased-wrappers-in-swift/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Phantom Types
+  <ul>
+   <li>
+    What are Phantom Types good for?
+    <a href="https://angelovillegas.com/swift-phantom-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Phantom Types in Swift
+    <a href="https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://realm.io/news/swift-summit-johannes-weiss-leveraging-the-type-system/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Money with Phantom Types
+    <a href="https://www.natashatherobot.com/swift-money-phantom-types/#">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://gist.github.com/oisdk/569de8286f9f706749b7d0668836706a">
+     :pencil:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Dependent Types
+  <ul>
+   <li>
+    Dependent Types in Swift
+    <a href="https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    and why they matter
+    <a href="https://jeremywsherman.com/blog/2015/08/26/read-why-dependent-types-matter/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Can Swift have Dependent Types?
+    <a href="https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift">
+     :pencil:
+    </a>
+    <a href="https://github.com/oisdk/PretendDependSwift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    More Misunderstanding of Dependent Types
+    <a href="https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    An implementation of a dependently-typed intermediate language
+    <a href="https://github.com/antitypical/Manifold">
+     :pencil2:
+    </a>
+    <a href="https://github.com/oisdk/PretendDependSwift">
+     :pencil2:
+    </a>
+    <sup>
+     209 GitHub links in total 1653 links, &#9733 36, pushed 123 days ago
+    </sup>
+    <sup>
+     &#9733 36, pushed 123 days ago
+    </sup>
+   </li>
+   <li>
+    Dependent Types: I'm missing something
+    <a href="http://owensd.io/blog/dependent-types-im-missing-something/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Backwards Dependent Types
+    <a href="https://jeremywsherman.com/blog/2015/10/02/what-if-you-get-your-dependent-type-backwards/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Type-Level Assertions (or, almost-dependent types)
+    <a href="https://gist.github.com/JadenGeller/f39130616846f9bf9879">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Validated: A Swift μ-Library for Somewhat Dependent Types
+    <a href="http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Dynamic Types
+  <ul>
+   <li>
+    DynamicType and MultiMethods
+    <a href="http://en.swifter.tips/multi-method/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    DynamicTypes and Metatypes
+    <a href="https://medium.com/@NSomar/types-and-meta-types-in-swift-9cd59ba92295#.ucwjngqy5">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Nested Types
+  <ul>
+   <li>
+    Lazy Nested Types
+    <a href="https://littlebitesofcocoa.com/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Using a nested type in Swift
+    <a href="http://www.codingexplorer.com/using-nested-type-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Type Reflection and Casting
+  <ul>
+   <li>
+    Simple Reflection in Swift
+    <a href="http://freecake.angelodipaolo.org/simple-reflection-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Understanding Reflection in Swift and how to use it
+    <a href="http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://stackoverflow.com/questions/24060667/does-swift-support-reflection">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Basic Reflection in Swift
+    <a href="https://gist.github.com/mchambers/fb9da554898dae3e54f2">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Swift class introspection & generics
+    <a href="http://stackoverflow.com/questions/24049673/swift-class-introspection-generics?lq=1">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Typecasting and the Swift Runtime
+    <a href="https://github.com/vandadnp/swift-weekly/blob/master/issue08/README.md">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Advanced Type Safety in Swift
+    <a href="https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf">
+     :floppy
+    </a>
+   </li>
+  </ul>
+ </li>
+</p>
 disk:
+, and corresponding
+<a href="https://realm.io/news/altconf-justin-spahr-summers-type-safety/">
+ :microphone:
+</a>
 <li>
- Category Theory and Progamming
- <a href="http://yogsototh.github.io/Category-Theory-Presentation/categories.html">
-  :microphone:
- </a>
-</li>
-<li>
- Awesome Math/Category Theory
- <a href="https://github.com/rossant/awesome-math#category-theory">
-  :pencil:
- </a>
-</li>
-<li>
- Category Theory in Haskell
- <a href="https://en.wikibooks.org/wiki/Haskell/Category_theory">
+ Why doesn't Swift have implicit type conversion?
+ <a href="https://www.quora.com/Why-does-Swift-not-allow-implicit-type-conversion">
   :page
   <em>
    facing
@@ -12250,8 +13445,8 @@ disk:
  </a>
 </li>
 <li>
- The Category Design Pattern
- <a href="http://www.haskellforall.com/2012/08/the-category-design-pattern.html">
+ as? vs as!
+ <a href="http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type">
   :page
   <em>
    facing
@@ -12260,15 +13455,8 @@ disk:
  </a>
 </li>
 <li>
- Type Theory vs Category Theory
- <a href="https://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="http://cs.stackexchange.com/questions/3028/is-category-theory-useful-for-learning-functional-programming/3256#3256">
+ Understanding Downcasting Operators in Swift
+ <a href="http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type">
   :page
   <em>
    facing
@@ -12277,630 +13465,14 @@ disk:
  </a>
 </li>
 <li>
- MIT Category Theory Class
- <a href="http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/">
-  :link:
- </a>
-</li>
-<li>
- Functional Programming, Abstraction, and Naming Things
- <a href="http://www.stephendiehl.com/posts/abstraction.html">
+ Type check with switch statements
+ <a href="http://www.tekramer.com/using-switch-statements-for-type-checking-in-swift/">
   :page
   <em>
    facing
   </em>
   up:
  </a>
-</li>
-<li>
- Monads defined
- <a href="http://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem?rq=1">
-  :link:
- </a>
-</li>
-<li>
- Fantasy Land Specification
- <a href="https://github.com/fantasyland/fantasy-land">
-  :pencil2:
- </a>
- <span>
-  &#9733 1574, pushed 16 days ago
- </span>
-</li>
-<li>
- List of Functional Programming Topics
- <a href="https://en.wikipedia.org/wiki/List_of_functional_programming_topics">
-  :link:
- </a>
-</li>
-<li>
- Reference Types (Classes)
- <ul>
-  <li>
-   Class or Struct?
-   <a href="http://faq.sealedabstract.com/structs_or_classes/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://owensd.io/2015/07/05/re-struct-or-class.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   let vs var
-   <a href="http://stackoverflow.com/questions/24002092/what-is-the-difference-between-let-and-var-in-swift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Weak, Strong, Unowned
-   <a href="https://speakerdeck.com/realm/weak-strong-unowned-hector-matos">
-    :floppy_disk:
-   </a>
-  </li>
-  <li>
-   Is Swift Pass By Value or Pass By Reference
-   <a href="http://stackoverflow.com/questions/27364117/is-swift-pass-by-value-or-pass-by-reference/27366050#27366050">
-    :link:
-   </a>
-  </li>
-  <li>
-   How can I make a weak protocol reference in 'pure' Swift (w/o @objc)
-   <a href="http://stackoverflow.com/questions/24066304/how-can-i-make-a-weak-protocol-reference-in-pure-swift-w-o-objc">
-    :link:
-   </a>
-  </li>
-  <li>
-   When to use weak pointers with delgates
-   <a href="http://stackoverflow.com/questions/30056526/swift-delegation-when-to-use-weak-pointer-on-delegate">
-    :link:
-   </a>
-  </li>
-  <li>
-   Instance methods and type methods in Swift
-   <a href="http://www.codingexplorer.com/instance-methods-and-type-methods-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Value Types (Structs)
- <ul>
-  <li>
-   Every Swift Value Type Should be Equatable
-   <a href="https://developer.apple.com/videos/wwdc/2015/?id=414">
-    :microphone:
-   </a>
-   <a href="https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Structs are 900x faster than classes
-   <a href="http://stackoverflow.com/questions/24232799/why-choose-struct-over-class/24243626#24243626">
-    :link:
-   </a>
-  </li>
-  <li>
-   How can I make a container with copy-on-write semantics?
-   <a href="http://stackoverflow.com/questions/32984258/how-can-i-make-a-container-with-copy-on-write-semantics-swift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   When to use mutating functions in swift structs
-   <a href="https://www.natashatherobot.com/when-to-use-mutating-functions-in-swift-structs/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Mutating Funcs in Swift Structs
-   <a href="http://natashatherobot.com/mutating-functions-swift-structs/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Making Friends with Value Types
-   <a href="https://realm.io/news/andy-matuschak-controlling-complexity/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Safer Swift Code With Value Types
-   <a href="https://realm.io/news/altconf-benjamin-encz-safer-swift-code-with-value-types/">
-    :microphone:
-   </a>
-   <a href="https://gist.github.com/rbobbins/596bb6896141dca5934d">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift copy-on-write behaviour for a struct using HeapBuffer
-   <a href="https://gist.github.com/airspeedswift/71f15d1eb866be9e5ac7">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Swift pass struct by reference?
-   <a href="http://stackoverflow.com/questions/31495431/swift-pass-struct-by-reference">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Value Types
-   <a href="http://cjwirth.com/2016/02/09/value-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Fully Value-Typed Arrays in Swift
-   <a href="http://natecook.com/blog/2014/07/fully-value-typed-arrays-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Structs as Data Models
-   <a href="https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc#.rf1agoadg">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Swift and mutating struct
-   <a href="http://stackoverflow.com/questions/24035648/swift-and-mutating-struct">
-    :link:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Algebraic Types
- <ul>
-  <li>
-   Sum Types
-   <ul>
-    <li>
-     See
-     <a href="#enums-and-pattern-matching">
-      Enums
-     </a>
-    </li>
-   </ul>
-  </li>
-  <li>
-   Product Types
-   <ul>
-    <li>
-     Tuples
-     <a href="https://medium.com/swift-programming/swift-tuple-328aecff50e7#.apsfyt2ky">
-      :page
-      <em>
-       facing
-      </em>
-      up:
-     </a>
-    </li>
-   </ul>
-  </li>
- </ul>
-</li>
-<li>
- Compose Types
- <ul>
-  <li>
-   Composing Types
-   <a href="https://gist.github.com/Ben-G/aa080de6d61f46bdc842">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Named Types and Compund Types
-   <a href="https://www.andrewcbancroft.com/2016/03/18/swift-functions-as-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Abstract Types
- <ul>
-  <li>
-   Understanding Swift’s Abstract Types (Swift 2.2 & above)
-   <a href="http://blog.davidungar.net/2016/02/29/understanding-swifts-abstract-types-swift-2-2-above/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Understanding Abstract Types
-   <a href="http://blog.davidungar.net/2016/01/10/understanding-swifts-abstract-types-2#fn6">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Wrapper Types
- <ul>
-  <li>
-   Wrapper Types
-   <a href="https://www.objc.io/blog/2014/11/24/functional-snippet-8-wrapper-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Type-Erased Wrappers in Swift
-   <a href="https://realm.io/news/type-erased-wrappers-in-swift/">
-    :microphone:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Phantom Types
- <ul>
-  <li>
-   What are Phantom Types good for?
-   <a href="https://angelovillegas.com/swift-phantom-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Phantom Types in Swift
-   <a href="https://www.objc.io/blog/2014/12/29/functional-snippet-13-phantom-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://realm.io/news/swift-summit-johannes-weiss-leveraging-the-type-system/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Money with Phantom Types
-   <a href="https://www.natashatherobot.com/swift-money-phantom-types/#">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://gist.github.com/oisdk/569de8286f9f706749b7d0668836706a">
-    :pencil:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Dependent Types
- <ul>
-  <li>
-   Dependent Types in Swift
-   <a href="https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   and why they matter
-   <a href="https://jeremywsherman.com/blog/2015/08/26/read-why-dependent-types-matter/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Can Swift have Dependent Types?
-   <a href="https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift">
-    :pencil:
-   </a>
-   <a href="https://github.com/oisdk/PretendDependSwift">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   More Misunderstanding of Dependent Types
-   <a href="https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   An implementation of a dependently-typed intermediate language
-   <a href="https://github.com/antitypical/Manifold">
-    :pencil2:
-   </a>
-   <span>
-    &#9733 36, pushed 123 days ago
-   </span>
-   <a href="https://github.com/oisdk/PretendDependSwift">
-    :pencil2:
-   </a>
-  </li>
-  <li>
-   Dependent Types: I'm missing something
-   <a href="http://owensd.io/blog/dependent-types-im-missing-something/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Backwards Dependent Types
-   <a href="https://jeremywsherman.com/blog/2015/10/02/what-if-you-get-your-dependent-type-backwards/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Type-Level Assertions (or, almost-dependent types)
-   <a href="https://gist.github.com/JadenGeller/f39130616846f9bf9879">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Validated: A Swift μ-Library for Somewhat Dependent Types
-   <a href="http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Dynamic Types
- <ul>
-  <li>
-   DynamicType and MultiMethods
-   <a href="http://en.swifter.tips/multi-method/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   DynamicTypes and Metatypes
-   <a href="https://medium.com/@NSomar/types-and-meta-types-in-swift-9cd59ba92295#.ucwjngqy5">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Nested Types
- <ul>
-  <li>
-   Lazy Nested Types
-   <a href="https://littlebitesofcocoa.com/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Using a nested type in Swift
-   <a href="http://www.codingexplorer.com/using-nested-type-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
-</li>
-<li>
- Type Reflection and Casting
- <ul>
-  <li>
-   Simple Reflection in Swift
-   <a href="http://freecake.angelodipaolo.org/simple-reflection-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Understanding Reflection in Swift and how to use it
-   <a href="http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="http://stackoverflow.com/questions/24060667/does-swift-support-reflection">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Basic Reflection in Swift
-   <a href="https://gist.github.com/mchambers/fb9da554898dae3e54f2">
-    :pencil:
-   </a>
-  </li>
-  <li>
-   Swift class introspection & generics
-   <a href="http://stackoverflow.com/questions/24049673/swift-class-introspection-generics?lq=1">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Typecasting and the Swift Runtime
-   <a href="https://github.com/vandadnp/swift-weekly/blob/master/issue08/README.md">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Advanced Type Safety in Swift
-   <a href="https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf">
-    :floppy_disk:
-   </a>
-   , and corresponding
-   <a href="https://realm.io/news/altconf-justin-spahr-summers-type-safety/">
-    :microphone:
-   </a>
-  </li>
-  <li>
-   Why doesn't Swift have implicit type conversion?
-   <a href="https://www.quora.com/Why-does-Swift-not-allow-implicit-type-conversion">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   as? vs as!
-   <a href="http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Understanding Downcasting Operators in Swift
-   <a href="http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
-  <li>
-   Type check with switch statements
-   <a href="http://www.tekramer.com/using-switch-statements-for-type-checking-in-swift/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-  </li>
- </ul>
 </li>
 <li>
  Associated Types
@@ -12966,9 +13538,12 @@ disk:
    <a href="https://github.com/kballard/swift-tsao">
     :pencil2:
    </a>
-   <span>
+   <sup>
+    209 GitHub links in total 1653 links, &#9733 98, pushed 29 days ago
+   </sup>
+   <sup>
     &#9733 98, pushed 29 days ago
-   </span>
+   </sup>
   </li>
  </ul>
 </li>
@@ -13397,18 +13972,24 @@ disk:
     <a href="https://github.com/davidcairns/AppComponents">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 6, pushed 120 days ago
+    </sup>
+    <sup>
      &#9733 6, pushed 120 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Swift Elm
     <a href="https://github.com/momentumworks/swift-elm">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 70, pushed 41 days ago
+    </sup>
+    <sup>
      &#9733 70, pushed 41 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -13530,18 +14111,24 @@ disk:
     <a href="https://github.com/aschuch/AwesomeCache">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 728, pushed 23 days ago
+    </sup>
+    <sup>
      &#9733 728, pushed 23 days ago
-    </span>
+    </sup>
    </li>
    <li>
     SwiftyDB
     <a href="https://github.com/Oyvindkg/swiftydb">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 317, pushed 4 days ago
+    </sup>
+    <sup>
      &#9733 317, pushed 4 days ago
-    </span>
+    </sup>
    </li>
    <li>
     A Structy Model Layer
@@ -13558,9 +14145,12 @@ disk:
     <a href="https://github.com/hyperoslo/Cache">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 333, pushed 5 days ago
+    </sup>
+    <sup>
      &#9733 333, pushed 5 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -13596,9 +14186,12 @@ disk:
     <a href="https://github.com/marcinkuptel/clean-architecture">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 3, pushed 70 days ago
+    </sup>
+    <sup>
      &#9733 3, pushed 70 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Demystifying iOS Architecture Patterns
@@ -13660,18 +14253,24 @@ disk:
     <a href="https://github.com/aschuch/StatefulViewController">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 625, pushed 20 days ago
+    </sup>
+    <sup>
      &#9733 625, pushed 20 days ago
-    </span>
+    </sup>
    </li>
    <li>
     An MVP Framework
     <a href="https://github.com/Karumi/BothamUI">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 230, pushed 7 days ago
+    </sup>
+    <sup>
      &#9733 230, pushed 7 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Designing App Infrastructure
@@ -13828,24 +14427,30 @@ disk:
      </em>
      up:
     </a>
-    <span>
-     &#9733 431, pushed 104 days ago
-    </span>
     <a href="https://gist.github.com/rjchatfield/27e3d8ef2249a4298046#file-statereduce-swift">
      :pencil:
     </a>
     <a href="https://github.com/ReduxKit">
      :pencil2:
     </a>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 431, pushed 104 days ago
+    </sup>
+    <sup>
+     &#9733 431, pushed 104 days ago
+    </sup>
    </li>
    <li>
     Uber Jetstream
     <a href="https://github.com/uber/jetstream-ios">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 274, pushed 141 days ago
+    </sup>
+    <sup>
      &#9733 274, pushed 141 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Building a Unidirectional Data Flow app with Realm
@@ -13873,9 +14478,6 @@ disk:
     <a href="https://github.com/ReactKit/SwiftState">
      :pencil2:
     </a>
-    <span>
-     &#9733 461, pushed 43 days ago
-    </span>
     <a href="https://github.com/tangphillip/state-machine-talk">
      :floppy_disk:
     </a>
@@ -13902,9 +14504,12 @@ disk:
     <a href="https://github.com/DenHeadless/Transporter">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 225, pushed 8 days ago
+    </sup>
+    <sup>
      &#9733 225, pushed 8 days ago
-    </span>
+    </sup>
    </li>
    <li>
     FSMs in Swift and the State Pattern
@@ -13970,6 +14575,12 @@ disk:
     </a>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 461, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 461, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -14042,9 +14653,12 @@ disk:
      </em>
      up:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 83, pushed 71 days ago
+    </sup>
+    <sup>
      &#9733 83, pushed 71 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Moving from ObjC to Swift with Core Data
@@ -14211,179 +14825,187 @@ disk:
   </ul>
  </li>
 </ul>
-facing
-<em>
- up:
-</em>
-<li>
- A look into Realm's Core DB Engine
- <a href="https://realm.io/news/jp-simard-realm-core-database-engine/">
-  :microphone:
- </a>
-</li>
-<li>
- Designing a Database: Realm Threading Deep Dive
- <a href="https://realm.io/news/threading-deep-dive/">
-  :page
-  <em>
-   facing
-  </em>
+<p>
+ facing
+ <em>
   up:
- </a>
-</li>
-<li>
- Why Realm over Core Data?
- <a href="https://www.quora.com/Why-would-you-use-Realm-over-Core-Data">
-  :page
-  <em>
-   facing
-  </em>
+ </em>
+ <li>
+  A look into Realm's Core DB Engine
+  <a href="https://realm.io/news/jp-simard-realm-core-database-engine/">
+   :microphone:
+  </a>
+ </li>
+ <li>
+  Designing a Database: Realm Threading Deep Dive
+  <a href="https://realm.io/news/threading-deep-dive/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Why Realm over Core Data?
+  <a href="https://www.quora.com/Why-would-you-use-Realm-over-Core-Data">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="https://speakerdeck.com/realm/why-realm">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+  <a href="http://cjwirth.com/2015/05/13/why-realm/">
+   :page
+  </a>
+ </li>
+ facing
+ <em>
   up:
- </a>
- <a href="https://speakerdeck.com/realm/why-realm">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
- <a href="http://cjwirth.com/2015/05/13/why-realm/">
+ </em>
+ <a href="http://szulctomasz.com/ios-realm-instead-of-coredata/">
   :page
  </a>
-</li>
-facing
-<em>
- up:
-</em>
-<a href="http://szulctomasz.com/ios-realm-instead-of-coredata/">
- :page
-</a>
-facing
+ facing
 up:
-<li>
- Official Realm Introduction
- <a href="https://realm.io/news/introducing-realm/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Realm Tutorial
- <a href="http://www.raywenderlich.com/81615/introduction-to-realm">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Realm Best Practices
- <a href="http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Realm Repo
- <a href="https://github.com/realm/realm-cocoa">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <span>
-  &#9733 7132, pushed 2 days ago
- </span>
-</li>
-<li>
- Reddit Thread
- <a href="https://www.reddit.com/r/iOSProgramming/comments/2vmbv2/realm_or_coredata/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Working with Realm
- <a href="http://blog.matthewcheok.com/working-with-realm/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Testing Realm Apps
- <a href="http://www.mokacoding.com/blog/testing-realm-apps/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Looking at Realm's Core DB Engine
- <a href="https://speakerdeck.com/jpsim/a-look-into-realms-core-db-engine">
-  :floppy
-  <em>
-   disk:
-  </em>
- </a>
-</li>
-<li>
- Realm Incremental Store
- <a href="https://github.com/eure/RealmIncrementalStore">
-  :pencil2:
- </a>
- <span>
-  &#9733 198, pushed 64 days ago
- </span>
-</li>
-<li>
- Migrations in Realm
- <a href="http://stackoverflow.com/questions/30384884/adding-and-removing-realm-object-during-a-migration">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Migrating an app from Core Data to Realm
- <a href="https://realm.io/news/migrating-from-core-data-to-realm/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
-</li>
-<li>
- Realm + Alamofire + VIPER
- <a href="https://blog.hyphe.me/realm-and-alamofire-in-a-effective-harmony/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
- <a href="#index">
-  :arrow
- </a>
-</li>
-up:
+ <li>
+  Official Realm Introduction
+  <a href="https://realm.io/news/introducing-realm/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Realm Tutorial
+  <a href="http://www.raywenderlich.com/81615/introduction-to-realm">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Realm Best Practices
+  <a href="http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Realm Repo
+  <a href="https://github.com/realm/realm-cocoa">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 7132, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 7132, pushed 2 days ago
+  </sup>
+ </li>
+ <li>
+  Reddit Thread
+  <a href="https://www.reddit.com/r/iOSProgramming/comments/2vmbv2/realm_or_coredata/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Working with Realm
+  <a href="http://blog.matthewcheok.com/working-with-realm/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Testing Realm Apps
+  <a href="http://www.mokacoding.com/blog/testing-realm-apps/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Looking at Realm's Core DB Engine
+  <a href="https://speakerdeck.com/jpsim/a-look-into-realms-core-db-engine">
+   :floppy
+   <em>
+    disk:
+   </em>
+  </a>
+ </li>
+ <li>
+  Realm Incremental Store
+  <a href="https://github.com/eure/RealmIncrementalStore">
+   :pencil2:
+  </a>
+  <sup>
+   209 GitHub links in total 1653 links, &#9733 198, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 198, pushed 64 days ago
+  </sup>
+ </li>
+ <li>
+  Migrations in Realm
+  <a href="http://stackoverflow.com/questions/30384884/adding-and-removing-realm-object-during-a-migration">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Migrating an app from Core Data to Realm
+  <a href="https://realm.io/news/migrating-from-core-data-to-realm/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Realm + Alamofire + VIPER
+  <a href="https://blog.hyphe.me/realm-and-alamofire-in-a-effective-harmony/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+  <a href="#index">
+   :arrow
+  </a>
+ </li>
+ up:
+</p>
 <h4>
  <strong>
   Core Image
@@ -14449,9 +15071,12 @@ up:
     <a href="https://github.com/typelift/Tyro">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 44, pushed 11 days ago
+    </sup>
+    <sup>
      &#9733 44, pushed 11 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Efficient JSON Parsing with Functional Concepts
@@ -14539,9 +15164,12 @@ up:
   <a href="https://github.com/dankogai/swift-json">
    :pencil2:
   </a>
-  <span>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 556, pushed 43 days ago
+  </sup>
+  <sup>
    &#9733 556, pushed 43 days ago
-  </span>
+  </sup>
  </li>
  <li>
   Beyond JSON in Swift
@@ -14722,9 +15350,12 @@ up:
     <a href="https://github.com/robb/Cartography">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 4206, pushed 22 days ago
+    </sup>
+    <sup>
      &#9733 4206, pushed 22 days ago
-    </span>
+    </sup>
    </li>
    <li>
     How to configure a UIScrollView with Auto Layout in Interface Builder
@@ -14908,9 +15539,6 @@ up:
     <a href="https://github.com/unifiedh/Chameleon-Swift">
      :pencil2:
     </a>
-    <span>
-     &#9733 346, pushed 108 days ago
-    </span>
    </li>
    <li>
     Did Apple implement UIKit and Cocoa classes "Obj-C on Swift"
@@ -14942,6 +15570,12 @@ up:
     </someprotocol>
    </li>
   </ul>
+  <sup>
+   209 GitHub links in total 1653 links, ★ 346, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 346, pushed 108 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -14973,9 +15607,12 @@ up:
     <a href="https://github.com/rhodgkins/SwiftHTTPStatusCodes">
      :pencil:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 86, pushed 69 days ago
+    </sup>
+    <sup>
      &#9733 86, pushed 69 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Calling a REST Api in Swift
@@ -15019,9 +15656,12 @@ up:
      </em>
      up:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2182, pushed 8 days ago
+    </sup>
+    <sup>
      &#9733 2182, pushed 8 days ago
-    </span>
+    </sup>
    </li>
    <li>
     NSURLSession Basics
@@ -15072,9 +15712,12 @@ up:
     <a href="https://github.com/Moya/Moya">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2766, pushed 11 days ago
+    </sup>
+    <sup>
      &#9733 2766, pushed 11 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Network data as a Struct
@@ -15164,9 +15807,12 @@ up:
      </em>
      up:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 2523, pushed 5 days ago
+    </sup>
+    <sup>
      &#9733 2523, pushed 5 days ago
-    </span>
+    </sup>
    </li>
    <li>
     MagicalRecord loves Swift
@@ -15179,9 +15825,12 @@ up:
     <a href="https://github.com/Danappelxx/SwiftMongoDB">
      :pencil2:
     </a>
-    <span>
+    <sup>
+     209 GitHub links in total 1653 links, ★ 195, pushed 9 days ago
+    </sup>
+    <sup>
      &#9733 195, pushed 9 days ago
-    </span>
+    </sup>
    </li>
    <li>
     Caramel brings powerful, expressive I/O to Swift
@@ -15384,38 +16033,40 @@ up:
   @CodaFi
  </a>
 </p>
-, the
-<a href="https://github.com/typelift">
- TypeLift
-</a>
-, and the
-<a href="https://github.com/antitypical">
- AntiTypical
-</a>
-teams for promoting FP. Shoutout to
-<a href="https://twitter.com/czaplic?lang=en">
- Elm Trailblazers
-</a>
-. Shoutout to
-<a href="http://dev.stephendiehl.com/hask/">
- Haskell Devs
-</a>
-and
-<a href="https://ncatlab.org/nlab/show/computer+science">
- Category Theory legends
-</a>
-. Shoutout to
-<a href="https://github.com/FutureKit/FutureKit">
- FutureKit
-</a>
-, made by my coworker
-<a href="https://github.com/mishagray">
- @michaelgray
-</a>
-. And finally, Shoutout to all the Swift Programmers out there, this project is
-<strong>
- by you and for you!
-</strong>
+<p>
+ , the
+ <a href="https://github.com/typelift">
+  TypeLift
+ </a>
+ , and the
+ <a href="https://github.com/antitypical">
+  AntiTypical
+ </a>
+ teams for promoting FP. Shoutout to
+ <a href="https://twitter.com/czaplic?lang=en">
+  Elm Trailblazers
+ </a>
+ . Shoutout to
+ <a href="http://dev.stephendiehl.com/hask/">
+  Haskell Devs
+ </a>
+ and
+ <a href="https://ncatlab.org/nlab/show/computer+science">
+  Category Theory legends
+ </a>
+ . Shoutout to
+ <a href="https://github.com/FutureKit/FutureKit">
+  FutureKit
+ </a>
+ , made by my coworker
+ <a href="https://github.com/mishagray">
+  @michaelgray
+ </a>
+ . And finally, Shoutout to all the Swift Programmers out there, this project is
+ <strong>
+  by you and for you!
+ </strong>
+</p>
 <p>
  <a href="#index">
   :arrow_up:

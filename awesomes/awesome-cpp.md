@@ -362,10 +362,13 @@
   <a href="https://github.com/bloomberg/bde">
    BDE
   </a>
-  <span>
-   &#9733 545, pushed 7 days ago
-  </span>
   - The BDE Development Environment from Bloomberg Labs. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 545, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 545, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://libcinder.org/">
@@ -389,64 +392,85 @@
   <a href="https://github.com/electronicarts/EASTL">
    EASTL
   </a>
-  <span>
-   &#9733 1976, pushed 23 days ago
-  </span>
   - Electronic Arts Standard Template Library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1976, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 1976, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sumeetchhetri/ffead-cpp">
    ffead-cpp
   </a>
-  <span>
-   &#9733 163, pushed 19 days ago
-  </span>
   - Framework for Enterprise Application Development. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 163, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 163, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/folly">
    Folly
   </a>
-  <span>
-   &#9733 6548, pushed 3 days ago
-  </span>
   - An open-source C++ library developed and used at Facebook. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 6548, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 6548, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/julianstorer/JUCE">
    JUCE
   </a>
-  <span>
-   &#9733 290, pushed 4 days ago
-  </span>
   - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 290, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 290, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/libphenom">
    libPhenom
   </a>
-  <span>
-   &#9733 1316, pushed 97 days ago
-  </span>
   - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1316, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 1316, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sourcey/libsourcey">
    LibSourcey
   </a>
-  <span>
-   &#9733 225, pushed 24 days ago
-  </span>
   - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 225, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 225, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/koanlogic/libu">
    LibU
   </a>
-  <span>
-   &#9733 115, pushed 1478 days ago
-  </span>
   - A multiplatform utility library written in C. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 115, pushed 1478 days ago
+  </sup>
+  <sup>
+   &#9733 115, pushed 1478 days ago
+  </sup>
  </li>
  <li>
   <a href="http://loki-lib.sourceforge.net/">
@@ -464,10 +488,13 @@
   <a href="https://github.com/openframeworks/openFrameworks">
    OpenFrameworks
   </a>
-  <span>
-   &#9733 4318, pushed 1 days ago
-  </span>
   - A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 4318, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4318, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.qt.io">
@@ -521,10 +548,13 @@
   <a href="https://github.com/jll63/yomm11">
    Yomm11
   </a>
-  <span>
-   &#9733 68, pushed 311 days ago
-  </span>
   - Open multi-methods for C++11. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 68, pushed 311 days ago
+  </sup>
+  <sup>
+   &#9733 68, pushed 311 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -535,10 +565,13 @@
   <a href="https://github.com/aigamedev/btsk">
    btsk
   </a>
-  <span>
-   &#9733 151, pushed 213 days ago
-  </span>
   - Game Behavior Tree Starter Kit. [zlib]
+  <sup>
+   226 GitHub links in total 569 links, ★ 151, pushed 213 days ago
+  </sup>
+  <sup>
+   &#9733 151, pushed 213 days ago
+  </sup>
  </li>
  <li>
   <a href="http://eodev.sourceforge.net/">
@@ -550,10 +583,13 @@
   <a href="https://github.com/tensorflow/tensorflow">
    TensorFlow
   </a>
-  <span>
-   &#9733 22733, pushed 0 days ago
-  </span>
   - An open source software library for numerical computation using data flow graphs [Apache]
+  <sup>
+   226 GitHub links in total 569 links, ★ 22733, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 22733, pushed 0 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -582,10 +618,13 @@
   <a href="https://github.com/libuv/libuv">
    libuv
   </a>
-  <span>
-   &#9733 3793, pushed 4 days ago
-  </span>
   - Cross-platform asychronous I/O. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3793, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3793, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -607,10 +646,13 @@
   <a href="https://github.com/micknoise/Maximilian">
    Maximilian
   </a>
-  <span>
-   &#9733 337, pushed 40 days ago
-  </span>
   - C++ Audio and Music DSP Library. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 337, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 337, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openal.org/">
@@ -628,10 +670,13 @@
   <a href="https://github.com/sahaRatul/sela">
    SELA
   </a>
-  <span>
-   &#9733 176, pushed 34 days ago
-  </span>
   - SimplE Lossless Audio. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 176, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 176, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.speex.org/">
@@ -643,10 +688,13 @@
   <a href="https://github.com/TonicAudio/Tonic">
    Tonic
   </a>
-  <span>
-   &#9733 235, pushed 38 days ago
-  </span>
   - Easy and efficient audio synthesis in C++. [Unlicense]
+  <sup>
+   226 GitHub links in total 569 links, ★ 235, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 235, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="http://xiph.org/vorbis/">
@@ -686,10 +734,13 @@
   <a href="https://github.com/zeeev/wham">
    Wham
   </a>
-  <span>
-   &#9733 30, pushed 4 days ago
-  </span>
   - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 30, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -700,37 +751,49 @@
   <a href="https://github.com/jech/dht">
    jech/dht
   </a>
-  <span>
-   &#9733 262, pushed 148 days ago
-  </span>
   - BitTorrent DHT library in C. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 262, pushed 148 days ago
+  </sup>
+  <sup>
+   &#9733 262, pushed 148 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/arvidn/libtorrent">
    libtorrent
   </a>
-  <span>
-   &#9733 385, pushed 1 days ago
-  </span>
   (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 385, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 385, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rakshasa/libtorrent">
    LibTorrent
   </a>
-  <span>
-   &#9733 557, pushed 42 days ago
-  </span>
   (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 557, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 557, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bittorrent/libutp">
    libutp
   </a>
-  <span>
-   &#9733 444, pushed 7 days ago
-  </span>
   - uTorrent Transport Protocol library. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 444, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 444, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -752,10 +815,13 @@
   <a href="https://github.com/docopt/docopt.cpp">
    docopt.cpp
   </a>
-  <span>
-   &#9733 340, pushed 48 days ago
-  </span>
   - A library to generate option parser from docstring. [MIT/Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 340, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 340, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gflags.github.io/gflags/">
@@ -773,10 +839,13 @@
   <a href="https://github.com/nsf/termbox">
    termbox
   </a>
-  <span>
-   &#9733 816, pushed 49 days ago
-  </span>
   - A C library for writing text-based user interfaces. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 816, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 816, pushed 49 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -846,19 +915,25 @@
   <a href="https://github.com/nmoinvaz/minizip">
    Minizip
   </a>
-  <span>
-   &#9733 140, pushed 6 days ago
-  </span>
   - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
+  <sup>
+   226 GitHub links in total 569 links, ★ 140, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 140, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/antirez/smaz">
    smaz
   </a>
-  <span>
-   &#9733 446, pushed 94 days ago
-  </span>
   - Small strings compression library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 446, pushed 94 days ago
+  </sup>
+  <sup>
+   &#9733 446, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/snappy/">
@@ -876,10 +951,13 @@
   <a href="https://github.com/Dead2/zlib-ng">
    zlib-ng
   </a>
-  <span>
-   &#9733 290, pushed 5 days ago
-  </span>
   - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
+  <sup>
+   226 GitHub links in total 569 links, ★ 290, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 290, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://zziplib.sourceforge.net/">
@@ -901,46 +979,61 @@
   <a href="https://github.com/arrayfire/arrayfire">
    ArrayFire
   </a>
-  <span>
-   &#9733 1301, pushed 3 days ago
-  </span>
   - A general purpose GPU library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1301, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1301, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boostorg/compute">
    Boost.Compute
   </a>
-  <span>
-   &#9733 523, pushed 3 days ago
-  </span>
   - A C++ GPU Computing Library for OpenCL. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 523, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 523, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HSA-Libraries/Bolt">
    Bolt
   </a>
-  <span>
-   &#9733 219, pushed 82 days ago
-  </span>
   - A C++ template library optimized for GPUs. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 219, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 219, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/concurrencykit/ck">
    ck
   </a>
-  <span>
-   &#9733 887, pushed 46 days ago
-  </span>
   - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 887, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 887, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/schlangster/cpp.react">
    C++React
   </a>
-  <span>
-   &#9733 552, pushed 198 days ago
-  </span>
   - A reactive programming library for C++11. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 552, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 552, pushed 198 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.threadingbuildingblocks.org/">
@@ -952,28 +1045,37 @@
   <a href="https://github.com/preshing/junction">
    junction
   </a>
-  <span>
-   &#9733 449, pushed 50 days ago
-  </span>
   - A library of concurrent data structures in C++. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 449, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 449, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/khizmax/libcds">
    libcds
   </a>
-  <span>
-   &#9733 341, pushed 8 days ago
-  </span>
   - A C++ library of Concurrent Data Structures. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 341, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 341, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libclsph/libclsph">
    Libclsph
   </a>
-  <span>
-   &#9733 26, pushed 45 days ago
-  </span>
   - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 26, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.khronos.org/opencl/">
@@ -1003,10 +1105,13 @@
   <a href="https://github.com/ddemidov/vexcl">
    VexCL
   </a>
-  <span>
-   &#9733 332, pushed 4 days ago
-  </span>
   - A C++ vector expression template library for OpenCL/CUDA. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 332, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 332, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1023,19 +1128,25 @@
   <a href="https://github.com/goossaert/hashmap">
    Hashmaps
   </a>
-  <span>
-   &#9733 61, pushed 149 days ago
-  </span>
   - Implementation of open addressing hash table algorithms in C++. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 61, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RSIA-LIESMARS-WHU/LSHBOX">
    LSHBOX
   </a>
-  <span>
-   &#9733 43, pushed 69 days ago
-  </span>
   - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 43, pushed 69 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 69 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1102,19 +1213,25 @@
   <a href="https://github.com/jedisct1/libsodium">
    libsodium
   </a>
-  <span>
-   &#9733 2814, pushed 3 days ago
-  </span>
   - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2814, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2814, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libtom/libtomcrypt">
    LibTomCrypt
   </a>
-  <span>
-   &#9733 352, pushed 19 days ago
-  </span>
   - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 352, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 352, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.lysator.liu.se/~nisse/nettle/">
@@ -1126,37 +1243,49 @@
   <a href="https://github.com/openssl/openssl">
    OpenSSL
   </a>
-  <span>
-   &#9733 2546, pushed 1 days ago
-  </span>
   - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [websire](http://www.openssl.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 2546, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2546, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MaciejCzyzewski/retter">
    retter
   </a>
-  <span>
-   &#9733 1544, pushed 191 days ago
-  </span>
   - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+  <sup>
+   226 GitHub links in total 569 links, ★ 1544, pushed 191 days ago
+  </sup>
+  <sup>
+   &#9733 1544, pushed 191 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/s2n">
    s2n
   </a>
-  <span>
-   &#9733 2275, pushed 13 days ago
-  </span>
   - An implementation of the TLS/SSL protocols. [Apache]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2275, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 2275, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kokke/tiny-AES128-C">
    Tiny AES128 in C
   </a>
-  <span>
-   &#9733 264, pushed 15 days ago
-  </span>
   - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
+  <sup>
+   226 GitHub links in total 569 links, ★ 264, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 264, pushed 15 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1172,28 +1301,37 @@
   <a href="https://github.com/paulftw/hiberlite">
    hiberlite
   </a>
-  <span>
-   &#9733 217, pushed 140 days ago
-  </span>
   - C++ Object-relational mapping for sqlite3. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 217, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 217, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/redis/hiredis">
    Hiredis
   </a>
-  <span>
-   &#9733 1907, pushed 13 days ago
-  </span>
   - A minimalistic C client library for the Redis database. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1907, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 1907, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/leveldb">
    LevelDB
   </a>
-  <span>
-   &#9733 5683, pushed 4 days ago
-  </span>
   - A fast key-value storage library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 5683, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5683, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://symas.com/mdb/">
@@ -1205,37 +1343,49 @@
   <a href="https://github.com/bendiken/lmdbxx">
    LMDB++
   </a>
-  <span>
-   &#9733 60, pushed 7 days ago
-  </span>
   - C++11 wrapper for the LMDB embedded database library. [PublicDomain]
+  <sup>
+   226 GitHub links in total 569 links, ★ 60, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mongodb/mongo-c-driver">
    MongoDB C Driver
   </a>
-  <span>
-   &#9733 224, pushed 5 days ago
-  </span>
   - MongoDB client library for C. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 224, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 224, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mongodb/mongo-cxx-driver">
    MongoDB C++ Driver
   </a>
-  <span>
-   &#9733 261, pushed 5 days ago
-  </span>
   - C++ driver for MongoDB. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 261, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 261, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mongodb/libbson">
    MongoDB Libbson
   </a>
-  <span>
-   &#9733 188, pushed 7 days ago
-  </span>
   - A BSON utility library. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 188, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 188, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.tangentsoft.net/mysql++/">
@@ -1247,19 +1397,25 @@
   <a href="https://github.com/luca3m/redis3m">
    redis3m
   </a>
-  <span>
-   &#9733 83, pushed 28 days ago
-  </span>
   - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 83, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/rocksdb">
    RocksDB
   </a>
-  <span>
-   &#9733 5269, pushed 1 days ago
-  </span>
   - Embedded key-value store for fast storage from facebook. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 5269, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5269, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sqlite.org/">
@@ -1287,10 +1443,13 @@
   <a href="https://github.com/google/benchmark">
    benchmark
   </a>
-  <span>
-   &#9733 860, pushed 3 days ago
-  </span>
   - Google provided small microbenchmark support library. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 860, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 860, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html">
@@ -1302,19 +1461,25 @@
   <a href="https://github.com/philsquared/Catch">
    Catch
   </a>
-  <span>
-   &#9733 3040, pushed 5 days ago
-  </span>
   - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3040, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 3040, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DigitalInBlue/Celero">
    Celero
   </a>
-  <span>
-   &#9733 145, pushed 4 days ago
-  </span>
   - C++ Benchmarking Framework. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 145, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cute-test.com">
@@ -1350,28 +1515,37 @@
   <a href="https://github.com/google/googletest">
    Google Test
   </a>
-  <span>
-   &#9733 2090, pushed 6 days ago
-  </span>
   - Google C++ Testing Framework. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2090, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 2090, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/deplinenoise/ig-debugheap">
    ig-debugheap
   </a>
-  <span>
-   &#9733 79, pushed 176 days ago
-  </span>
   - Multiplatform debug heap useful for tracking down memory errors. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 79, pushed 176 days ago
+  </sup>
+  <sup>
+   &#9733 79, pushed 176 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zorgnax/libtap">
    libtap
   </a>
-  <span>
-   &#9733 90, pushed 84 days ago
-  </span>
   - Write tests in C. [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 90, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.almostinfinite.com/memtrack.html">
@@ -1401,19 +1575,25 @@
   <a href="https://github.com/Celtoys/Remotery">
    Remotery
   </a>
-  <span>
-   &#9733 409, pushed 21 days ago
-  </span>
   - Single C File Profiler with Web Viewer. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 409, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 409, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/unittest-cpp/unittest-cpp">
    UnitTest++
   </a>
-  <span>
-   &#9733 196, pushed 13 days ago
-  </span>
   - A lightweight unit testing framework for C++. [MIT/X Consortium license]
+  <sup>
+   226 GitHub links in total 569 links, ★ 196, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 196, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vld.codeplex.com/">
@@ -1448,19 +1628,25 @@
   <a href="https://github.com/gameplay3d/GamePlay">
    GamePlay
   </a>
-  <span>
-   &#9733 1790, pushed 36 days ago
-  </span>
   - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1790, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 1790, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/godotengine/godot">
    Godot
   </a>
-  <span>
-   &#9733 5706, pushed 1 days ago
-  </span>
   - A fully featured, open source, MIT licensed, game engine. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 5706, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5706, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.gritengine.com/">
@@ -1478,37 +1664,49 @@
   <a href="https://github.com/panda3d/panda3d">
    Panda3D
   </a>
-  <span>
-   &#9733 425, pushed 1 days ago
-  </span>
   - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 425, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 425, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ivansafrin/Polycode">
    Polycode
   </a>
-  <span>
-   &#9733 2262, pushed 10 days ago
-  </span>
   - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 2262, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2262, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GarageGames/Torque2D">
    Torque2D
   </a>
-  <span>
-   &#9733 1081, pushed 16 days ago
-  </span>
   - An open-source and cross-platform C++ engine built for 2D game development. [MIT] [website](https://www.garagegames.com/products/torque-2d)
+  <sup>
+   226 GitHub links in total 569 links, ★ 1081, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 1081, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GarageGames/Torque3D">
    Torque3D
   </a>
-  <span>
-   &#9733 2342, pushed 3 days ago
-  </span>
   - An open-source C++ engine built for 3D game development. [MIT] [website](https://www.garagegames.com/products/torque-3d)
+  <sup>
+   226 GitHub links in total 569 links, ★ 2342, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2342, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1536,10 +1734,13 @@
   <a href="https://github.com/vczh-libraries/GacUI">
    GacUI
   </a>
-  <span>
-   &#9733 436, pushed 3 days ago
-  </span>
   - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 436, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 436, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.gtk.org/">
@@ -1557,10 +1758,13 @@
   <a href="https://github.com/ocornut/imgui">
    imgui
   </a>
-  <span>
-   &#9733 3531, pushed 1 days ago
-  </span>
   - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3531, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 3531, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://librocket.com/">
@@ -1625,10 +1829,13 @@
   <a href="https://github.com/bkaradzic/bgfx">
    bgfx
   </a>
-  <span>
-   &#9733 1856, pushed 2 days ago
-  </span>
   - A cross-platform rendering library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1856, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1856, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cairographics.org/">
@@ -1640,19 +1847,25 @@
   <a href="https://github.com/glfw/glfw">
    GLFW
   </a>
-  <span>
-   &#9733 1895, pushed 2 days ago
-  </span>
   - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1895, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1895, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/horde3d/Horde3D">
    Horde3D
   </a>
-  <span>
-   &#9733 523, pushed 144 days ago
-  </span>
   - A small 3D rendering and animation engine. [EPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 523, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 523, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="http://irrlicht.sourceforge.net/">
@@ -1664,10 +1877,13 @@
   <a href="https://github.com/mosra/magnum">
    magnum
   </a>
-  <span>
-   &#9733 738, pushed 2 days ago
-  </span>
   - C++11 and OpenGL 2D/3D graphics engine. [MIT] [website](http://mosra.cz/blog/magnum.php)
+  <sup>
+   226 GitHub links in total 569 links, ★ 738, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 738, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ogre3d.org/">
@@ -1685,10 +1901,13 @@
   <a href="https://github.com/PixarAnimationStudios/OpenSubdiv">
    OpenSubdiv
   </a>
-  <span>
-   &#9733 1558, pushed 2 days ago
-  </span>
   - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. [Modified Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1558, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1558, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openvdb.org/">
@@ -1706,28 +1925,37 @@
   <a href="https://github.com/wdas/partio">
    Partio
   </a>
-  <span>
-   &#9733 150, pushed 7 days ago
-  </span>
   - Library for wrangling particle data, with support for most common file formats. [Modified BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 150, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 150, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/skia">
    Skia
   </a>
-  <span>
-   &#9733 847, pushed 2 days ago
-  </span>
   - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
+  <sup>
+   226 GitHub links in total 569 links, ★ 847, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 847, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/urho3d/Urho3D">
    urho3d
   </a>
-  <span>
-   &#9733 1107, pushed 2 days ago
-  </span>
   - Cross-platform rendering and game engine. [Many different, mostly MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1107, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1107, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1762,10 +1990,13 @@
   <a href="https://github.com/libgd/libgd">
    GD
   </a>
-  <span>
-   &#9733 131, pushed 2 days ago
-  </span>
   - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. [custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 131, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 131, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gdcm.sourceforge.net/wiki/index.php/Main_Page">
@@ -1783,10 +2014,13 @@
   <a href="https://github.com/jcupitt/libvips">
    libvips
   </a>
-  <span>
-   &#9733 730, pushed 1 days ago
-  </span>
   - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 730, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 730, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.imagemagick.org/script/api.php">
@@ -1816,10 +2050,13 @@
   <a href="https://github.com/OpenImageIO/oiio">
    OpenImageIO
   </a>
-  <span>
-   &#9733 424, pushed 2 days ago
-  </span>
   - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 424, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 424, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/tesseract-ocr/">
@@ -1831,19 +2068,25 @@
   <a href="https://github.com/matt-42/vpp">
    Video++
   </a>
-  <span>
-   &#9733 204, pushed 19 days ago
-  </span>
   - A C++14 high performance video and image processing library. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 204, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 204, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ukoethe/vigra">
    VIGRA
   </a>
-  <span>
-   &#9733 189, pushed 2 days ago
-  </span>
   - A generic C++ computer vision library for image analysis. [MIT X11]
+  <sup>
+   226 GitHub links in total 569 links, ★ 189, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 189, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.vtk.org/">
@@ -1895,37 +2138,49 @@
   <a href="https://github.com/grpc/grpc">
    gRPC
   </a>
-  <span>
-   &#9733 4853, pushed 2 days ago
-  </span>
   - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 4853, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4853, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cinemast/libjson-rpc-cpp">
    libjson-rpc-cpp
   </a>
-  <span>
-   &#9733 192, pushed 15 days ago
-  </span>
   - JSON-RPC framework for C++ servers and clients. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 192, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 192, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nanomsg/nanomsg">
    nanomsg
   </a>
-  <span>
-   &#9733 2742, pushed 2 days ago
-  </span>
   - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 2742, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2742, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pearu/simple-rpc-cpp">
    simple-rpc-cpp
   </a>
-  <span>
-   &#9733 7, pushed 272 days ago
-  </span>
   - A simple RPC wrapper generator to C/C++ functions. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 7, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="http://wamp.ws/">
@@ -1960,109 +2215,145 @@
   <a href="https://github.com/cesanta/frozen">
    frozen
   </a>
-  <span>
-   &#9733 131, pushed 42 days ago
-  </span>
   - JSON parser and generator for C/C++. [GPL & GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 131, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 131, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/akheron/jansson">
    Jansson
   </a>
-  <span>
-   &#9733 1080, pushed 1 days ago
-  </span>
   - C library for encoding, decoding and manipulating JSON data. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1080, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1080, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chrismanning/jbson">
    jbson
   </a>
-  <span>
-   &#9733 18, pushed 135 days ago
-  </span>
   - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 18, pushed 135 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 135 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jeaye/jeayeson">
    JeayeSON
   </a>
-  <span>
-   &#9733 73, pushed 78 days ago
-  </span>
   - A very sane (header only) C++ JSON library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 73, pushed 78 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nlohmann/json">
    json
   </a>
-  <span>
-   &#9733 2364, pushed 3 days ago
-  </span>
   :zap: - JSON for Modern C++. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2364, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2364, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hjiang/jsonxx">
    JSON++
   </a>
-  <span>
-   &#9733 224, pushed 145 days ago
-  </span>
   - A JSON parser in C++. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 224, pushed 145 days ago
+  </sup>
+  <sup>
+   &#9733 224, pushed 145 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/open-source-parsers/jsoncpp">
    JsonCpp
   </a>
-  <span>
-   &#9733 1210, pushed 6 days ago
-  </span>
   - A C++ library for interacting with JSON. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1210, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1210, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/udp/json-parser">
    json-parser
   </a>
-  <span>
-   &#9733 618, pushed 72 days ago
-  </span>
   - Very low footprint JSON parser written in portable ANSI C. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 618, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 618, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dropbox/json11">
    json11
   </a>
-  <span>
-   &#9733 956, pushed 6 days ago
-  </span>
   - A tiny JSON library for C++11. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 956, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 956, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tgockel/json-voorhees">
    json-voorhees
   </a>
-  <span>
-   &#9733 90, pushed 93 days ago
-  </span>
   - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 90, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/amir-s/jute">
    jute
   </a>
-  <span>
-   &#9733 7, pushed 1004 days ago
-  </span>
   - Very simple C++ JSON Parser. [PublicDomain]
+  <sup>
+   226 GitHub links in total 569 links, ★ 7, pushed 1004 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 1004 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vincenthz/libjson">
    libjson
   </a>
-  <span>
-   &#9733 145, pushed 14 days ago
-  </span>
   - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 145, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/libjson/">
@@ -2074,46 +2365,61 @@
   <a href="https://github.com/vstakhov/libucl">
    LIBUCL
   </a>
-  <span>
-   &#9733 628, pushed 5 days ago
-  </span>
   :zap: - Universal configuration library parser [?]
+  <sup>
+   226 GitHub links in total 569 links, ★ 628, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 628, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kazuho/picojson">
    PicoJSON
   </a>
-  <span>
-   &#9733 417, pushed 6 days ago
-  </span>
   - A header-file-only, JSON parser serializer in C++. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 417, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 417, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gaudecker/qt-json">
    qt-json
   </a>
-  <span>
-   &#9733 161, pushed 15 days ago
-  </span>
   - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
+  <sup>
+   226 GitHub links in total 569 links, ★ 161, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 161, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/flavio/qjson">
    QJson
   </a>
-  <span>
-   &#9733 124, pushed 15 days ago
-  </span>
   - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 124, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 124, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/miloyip/rapidjson">
    RapidJSON
   </a>
-  <span>
-   &#9733 2928, pushed 4 days ago
-  </span>
   :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2928, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2928, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/awangk/ujson">
@@ -2125,10 +2431,13 @@
   <a href="https://github.com/lloyd/yajl">
    YAJL
   </a>
-  <span>
-   &#9733 1454, pushed 24 days ago
-  </span>
   - A fast streaming JSON parsing library in C. [ISC]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1454, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 1454, pushed 24 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2139,10 +2448,13 @@
   <a href="https://github.com/3Hren/blackhole">
    Blackhole
   </a>
-  <span>
-   &#9733 40, pushed 12 days ago
-  </span>
   - Header only attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 40, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html">
@@ -2154,19 +2466,25 @@
   <a href="https://github.com/easylogging/easyloggingpp">
    easyloggingpp
   </a>
-  <span>
-   &#9733 759, pushed 11 days ago
-  </span>
   - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 759, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 759, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KjellKod/g3log">
    G3log
   </a>
-  <span>
-   &#9733 125, pushed 34 days ago
-  </span>
   - Asynchronous logger with Dynamic Sinks. [PublicDomain]
+  <sup>
+   226 GitHub links in total 569 links, ★ 125, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="http://log4cpp.sourceforge.net/">
@@ -2179,33 +2497,48 @@
    log4cplus
   </a>
   - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 217, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 217, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SergiusTheBest/plog">
    plog
   </a>
-  <span>
-   &#9733 130, pushed 28 days ago
-  </span>
   - Portable and simple C++ logging library. [MPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 130, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 130, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattiasflodin/reckless">
    reckless
   </a>
-  <span>
-   &#9733 75, pushed 2 days ago
-  </span>
   - Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 75, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gabime/spdlog">
    spdlog
   </a>
-  <span>
-   &#9733 1015, pushed 8 days ago
-  </span>
   - Super fast, header only, C++ logging library.
+  <sup>
+   226 GitHub links in total 569 links, ★ 1015, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1015, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.templog.org/">
@@ -2222,37 +2555,49 @@
   <a href="https://github.com/BVLC/caffe">
    Caffe
   </a>
-  <span>
-   &#9733 9967, pushed 2 days ago
-  </span>
   - A fast framework for neural networks. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 9967, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 9967, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/liuliu/ccv">
    CCV
   </a>
-  <span>
-   &#9733 5192, pushed 1 days ago
-  </span>
   - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 5192, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5192, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meta-toolkit/meta">
    MeTA
   </a>
-  <span>
-   &#9733 227, pushed 11 days ago
-  </span>
   - A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 227, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 227, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmlc/minerva">
    Minerva
   </a>
-  <span>
-   &#9733 537, pushed 49 days ago
-  </span>
   - A fast and flexible system for deep learning. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 537, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 537, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.mlpack.org/">
@@ -2264,28 +2609,37 @@
   <a href="https://github.com/Itseez/opencv">
    OpenCV
   </a>
-  <span>
-   &#9733 9324, pushed 1 days ago
-  </span>
   :zap: - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 9324, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 9324, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GHamrouni/Recommender">
    Recommender
   </a>
-  <span>
-   &#9733 82, pushed 1069 days ago
-  </span>
   - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 82, pushed 1069 days ago
+  </sup>
+  <sup>
+   &#9733 82, pushed 1069 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shogun-toolbox/shogun">
    SHOGUN
   </a>
-  <span>
-   &#9733 1048, pushed 7 days ago
-  </span>
   - The Shogun Machine Learning Toolbox. [GPLv3]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1048, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1048, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/sofia-ml/">
@@ -2302,10 +2656,13 @@
   <a href="https://github.com/b-k/apophenia">
    Apophenia
   </a>
-  <span>
-   &#9733 90, pushed 7 days ago
-  </span>
   - A C library for statistical and scientific computing [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 90, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://arma.sourceforge.net/">
@@ -2335,7 +2692,7 @@
   <a href="http://www.cgal.org/">
    CGal
   </a>
-  - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
+  - Collection of efficient and reliable geometric algorithms. [LGPL&GPL;]
  </li>
  <li>
   <a href="http://cmldev.net/">
@@ -2353,10 +2710,13 @@
   <a href="https://github.com/g-truc/glm">
    GLM
   </a>
-  <span>
-   &#9733 1035, pushed 2 days ago
-  </span>
   - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1035, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1035, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ggt.sourceforge.net/">
@@ -2380,28 +2740,37 @@
   <a href="https://github.com/jfalcou/nt2">
    NT2
   </a>
-  <span>
-   &#9733 224, pushed 4 days ago
-  </span>
   - A SIMD-optimized numerical template library that provides an interface with MATLAB-like syntax. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 224, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 224, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/libtom/libtommath">
    LibTomMath
   </a>
-  <span>
-   &#9733 133, pushed 9 days ago
-  </span>
   - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 133, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 133, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lballabio/quantlib">
    QuantLib
   </a>
-  <span>
-   &#9733 156, pushed 4 days ago
-  </span>
   - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 156, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 156, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://versor.mat.ucsb.edu/">
@@ -2436,10 +2805,13 @@
   <a href="https://github.com/wang-bin/QtAV">
    QtAv
   </a>
-  <span>
-   &#9733 749, pushed 2 days ago
-  </span>
   - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 749, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 749, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.libsdl.org/">
@@ -2474,19 +2846,25 @@
   <a href="https://github.com/Microsoft/cpprestsdk">
    C++ REST SDK
   </a>
-  <span>
-   &#9733 589, pushed 5 days ago
-  </span>
   - C++ REST SDK (previously named Casablanca). [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 589, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 589, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/corvusoft/restbed">
    Restbed
   </a>
-  <span>
-   &#9733 211, pushed 5 days ago
-  </span>
   - C++11 Asynchronous RESTful framework. [AGPL]
+  <sup>
+   226 GitHub links in total 569 links, ★ 211, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 211, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cpp-netlib.org/">
@@ -2498,19 +2876,25 @@
   <a href="https://github.com/whoshuu/cpr">
    cpr
   </a>
-  <span>
-   &#9733 481, pushed 4 days ago
-  </span>
   - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 481, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 481, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/dyad">
    Dyad.c
   </a>
-  <span>
-   &#9733 753, pushed 22 days ago
-  </span>
   - Asynchronous networking for C. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 753, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 753, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="http://curl.haxx.se/libcurl/">
@@ -2528,28 +2912,37 @@
   <a href="https://github.com/cesanta/mongoose">
    Mongoose
   </a>
-  <span>
-   &#9733 2638, pushed 4 days ago
-  </span>
   - Extremely lightweight webserver. [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2638, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2638, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chenshuo/muduo">
    Muduo
   </a>
-  <span>
-   &#9733 2194, pushed 10 days ago
-  </span>
   - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2194, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2194, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cesanta/fossa">
    net_skeleton
   </a>
-  <span>
-   &#9733 266, pushed 147 days ago
-  </span>
   - TCP client/server library for C/C++. [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 266, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 266, pushed 147 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/riolet/nope.c">
@@ -2561,10 +2954,13 @@
   <a href="https://github.com/davidmoreno/onion">
    Onion
   </a>
-  <span>
-   &#9733 1013, pushed 1 days ago
-  </span>
   - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1013, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1013, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pocoproject">
@@ -2576,19 +2972,25 @@
   <a href="https://github.com/facebook/proxygen">
    Proxygen
   </a>
-  <span>
-   &#9733 3878, pushed 2 days ago
-  </span>
   - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3878, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3878, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OculusVR/RakNet">
    RakNet
   </a>
-  <span>
-   &#9733 1766, pushed 42 days ago
-  </span>
   - A cross platform, open source, C++ networking engine for game programmers. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1766, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 1766, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="http://siliconframework.org">
@@ -2600,19 +3002,25 @@
   <a href="https://github.com/vinipsmaker/tufao">
    Tufão
   </a>
-  <span>
-   &#9733 234, pushed 9 days ago
-  </span>
   - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 234, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 234, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zaphoyd/websocketpp">
    WebSocket++
   </a>
-  <span>
-   &#9733 1177, pushed 6 days ago
-  </span>
   - C++/Boost Asio based websocket client/server library. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1177, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1177, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2628,70 +3036,91 @@
   <a href="https://github.com/erincatto/Box2D">
    Box2D
   </a>
-  <span>
-   &#9733 900, pushed 10 days ago
-  </span>
   - A 2D physics engine for games. [BSD-like]
+  <sup>
+   226 GitHub links in total 569 links, ★ 900, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 900, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bulletphysics/bullet3">
    Bullet
   </a>
-  <span>
-   &#9733 1665, pushed 2 days ago
-  </span>
   - A 3D physics engine for games. [zlib] [website](http://bulletphysics.org)
+  <sup>
+   226 GitHub links in total 569 links, ★ 1665, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1665, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slembcke/Chipmunk2D">
    Chipmunk
   </a>
-  <span>
-   &#9733 807, pushed 35 days ago
-  </span>
   - A fast and lightweight 2D game physics library. [MIT] [website](https://chipmunk-physics.net/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 807, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 807, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/liquidfun">
    LiquidFun
   </a>
-  <span>
-   &#9733 2466, pushed 98 days ago
-  </span>
   - A 2D physics engine for games. [BSD-like]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2466, pushed 98 days ago
+  </sup>
+  <sup>
+   &#9733 2466, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MADEAPPS/newton-dynamics">
    Newton Dynamics
   </a>
-  <span>
-   &#9733 158, pushed 0 days ago
-  </span>
   - An integrated solution for real time simulation of physics environments. [zlib]
+  <sup>
+   226 GitHub links in total 569 links, ★ 158, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ode.org/">
    ODE
   </a>
-  - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
+  - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL;]
  </li>
  <li>
   <a href="https://github.com/vanderlin/ofxBox2d">
    ofxBox2d
   </a>
-  <span>
-   &#9733 207, pushed 16 days ago
-  </span>
   - openFrameworks wrapper for Box2D. [BSD-like]
+  <sup>
+   226 GitHub links in total 569 links, ★ 207, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 207, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/simbody/simbody">
    Simbody
   </a>
-  <span>
-   &#9733 550, pushed 1 days ago
-  </span>
   - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 550, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 550, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2714,10 +3143,13 @@
   <a href="https://github.com/PointCloudLibrary/pcl">
    PCL
   </a>
-  <span>
-   &#9733 1105, pushed 6 days ago
-  </span>
   - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 1105, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1105, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.roboticslibrary.org/">
@@ -2775,10 +3207,13 @@
   <a href="https://github.com/dafrito/luacxx">
    luacxx
   </a>
-  <span>
-   &#9733 59, pushed 592 days ago
-  </span>
   - C++11 API for creating Lua bindings. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 59, pushed 592 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 592 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.swig.org/">
@@ -2790,10 +3225,13 @@
   <a href="https://github.com/cesanta/v7">
    V7
   </a>
-  <span>
-   &#9733 578, pushed 11 days ago
-  </span>
   - An embedded JavaScript engine. [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 578, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 578, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://code.google.com/p/v8/">
@@ -2810,64 +3248,85 @@
   <a href="https://github.com/USCiLab/cereal">
    cereal
   </a>
-  <span>
-   &#9733 735, pushed 2 days ago
-  </span>
   - A C++11 library for serialization. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 735, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 735, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tplgy/cppcodec">
    cppcodec
   </a>
-  <span>
-   &#9733 11, pushed 22 days ago
-  </span>
   - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 11, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/flatbuffers">
    FlatBuffers
   </a>
-  <span>
-   &#9733 5366, pushed 2 days ago
-  </span>
   - A Memory efficient serialization library. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 5366, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 5366, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/msgpack/msgpack-c">
    MessagePack
   </a>
-  <span>
-   &#9733 707, pushed 2 days ago
-  </span>
   - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 707, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 707, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/protobuf">
    protobuf
   </a>
-  <span>
-   &#9733 8709, pushed 2 days ago
-  </span>
   - Protocol Buffers - Google's data interchange format. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 8709, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 8709, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/protobuf-c/protobuf-c">
    protobuf-c
   </a>
-  <span>
-   &#9733 461, pushed 1 days ago
-  </span>
   - Protocol Buffers implementation in C. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 461, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 461, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/real-logic/simple-binary-encoding">
    SimpleBinaryEncoding
   </a>
-  <span>
-   &#9733 806, pushed 8 days ago
-  </span>
   - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 806, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 806, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2890,19 +3349,25 @@
   <a href="https://github.com/strukturag/libde265">
    libde265
   </a>
-  <span>
-   &#9733 426, pushed 4 days ago
-  </span>
   - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 426, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 426, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cisco/openh264">
    OpenH264
   </a>
-  <span>
-   &#9733 2138, pushed 5 days ago
-  </span>
   - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 2138, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 2138, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.theora.org/">
@@ -2919,28 +3384,37 @@
   <a href="https://github.com/tekknolagi/carp">
    CarpVM
   </a>
-  <span>
-   &#9733 888, pushed 36 days ago
-  </span>
   - "interesting" VM in C. Let's see how this goes. [GPLv3]
+  <sup>
+   226 GitHub links in total 569 links, ★ 888, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 888, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/micropython/micropython">
    MicroPython
   </a>
-  <span>
-   &#9733 3091, pushed 2 days ago
-  </span>
   - Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3091, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3091, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jakogut/tinyvm">
    TinyVM
   </a>
-  <span>
-   &#9733 989, pushed 436 days ago
-  </span>
   - A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 989, pushed 436 days ago
+  </sup>
+  <sup>
+   &#9733 989, pushed 437 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2951,10 +3425,13 @@
   <a href="https://github.com/civetweb/civetweb">
    Civetweb
   </a>
-  <span>
-   &#9733 348, pushed 6 days ago
-  </span>
   - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 348, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 348, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cppcms.com/">
@@ -2966,10 +3443,13 @@
   <a href="https://github.com/ipkn/crow">
    Crow
   </a>
-  <span>
-   &#9733 2174, pushed 27 days ago
-  </span>
   - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2174, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 2174, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://kore.io/">
@@ -3051,19 +3531,25 @@
   <a href="https://github.com/leethomason/tinyxml2">
    TinyXML2
   </a>
-  <span>
-   &#9733 1141, pushed 11 days ago
-  </span>
   - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. [zlib]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1141, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1141, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rjpcomputing/ticpp">
    TinyXML++
   </a>
-  <span>
-   &#9733 12, pushed 244 days ago
-  </span>
   - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 12, pushed 244 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 244 days ago
+  </sup>
  </li>
  <li>
   <a href="http://xerces.apache.org/xerces-c/">
@@ -3085,10 +3571,13 @@
   <a href="https://github.com/arvidn/access_profiler">
    access_profiler
   </a>
-  <span>
-   &#9733 44, pushed 876 days ago
-  </span>
   - A tool to count accesses to member variables in c++ programs. [GPL3]
+  <sup>
+   226 GitHub links in total 569 links, ★ 44, pushed 877 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 877 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lcamtuf.coredump.cx/afl/">
@@ -3100,10 +3589,13 @@
   <a href="https://github.com/aantron/better-enums">
    Better Enums
   </a>
-  <span>
-   &#9733 215, pushed 49 days ago
-  </span>
   - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 215, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 215, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bstring.sourceforge.net">
@@ -3139,37 +3631,49 @@
   <a href="https://github.com/VerbalExpressions/CppVerbalExpressions">
    CppVerbalExpressions
   </a>
-  <span>
-   &#9733 182, pushed 293 days ago
-  </span>
   - C++ regular expressions made easy. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 182, pushed 293 days ago
+  </sup>
+  <sup>
+   &#9733 182, pushed 293 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VerbalExpressions/QtVerbalExpressions">
    QtVerbalExpressions
   </a>
-  <span>
-   &#9733 18, pushed 450 days ago
-  </span>
   - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 18, pushed 450 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 450 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Snaipe/libcsptr">
    c-smart-pointers
   </a>
-  <span>
-   &#9733 547, pushed 118 days ago
-  </span>
   - Smart pointers for the (GNU) C programming language. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 547, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 547, pushed 118 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/louisdx/cxx-prettyprint">
    cxx-prettyprint
   </a>
-  <span>
-   &#9733 209, pushed 3 days ago
-  </span>
   - A pretty printing library for C++ containers. [Boost]
+  <sup>
+   226 GitHub links in total 569 links, ★ 209, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 209, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.dynaforms.com/">
@@ -3181,28 +3685,37 @@
   <a href="https://github.com/leafsr/gcc-poison">
    gcc-poison
   </a>
-  <span>
-   &#9733 105, pushed 881 days ago
-  </span>
   - A simple header file for developers to ban unsafe C/C++ functions from applications.
+  <sup>
+   226 GitHub links in total 569 links, ★ 105, pushed 881 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 881 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nodejs/http-parser">
    HTTP Parser
   </a>
-  <span>
-   &#9733 2639, pushed 8 days ago
-  </span>
   :zap: - A http request/response parser for C. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 2639, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 2639, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/attractivechaos/klib">
    Klib
   </a>
-  <span>
-   &#9733 1364, pushed 72 days ago
-  </span>
   - Small and lightweight implementations of common algorithms and data structures. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1364, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 1364, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="http://libsigc.sourceforge.net/">
@@ -3214,28 +3727,37 @@
   <a href="https://github.com/anrieff/libcpuid">
    libcpuid
   </a>
-  <span>
-   &#9733 51, pushed 5 days ago
-  </span>
   - A small C library for x86 CPU detection and feature extraction. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 51, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/avati/libevil">
    libevil
   </a>
-  <span>
-   &#9733 6, pushed 1565 days ago
-  </span>
   - The Evil License Manager. [GPLv3]
+  <sup>
+   226 GitHub links in total 569 links, ★ 6, pushed 1565 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 1565 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/keybuk/libnih">
    libnih
   </a>
-  <span>
-   &#9733 26, pushed 876 days ago
-  </span>
   - A lightweight library of C functions and structures. [GPL2.1]
+  <sup>
+   226 GitHub links in total 569 links, ★ 26, pushed 876 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 876 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.libusb.org/">
@@ -3247,10 +3769,13 @@
   <a href="https://github.com/solodon4/Mach7">
    Mach7
   </a>
-  <span>
-   &#9733 687, pushed 6 days ago
-  </span>
   - A Pattern-matching library for C++. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 687, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 687, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pcre.org/">
@@ -3262,19 +3787,25 @@
   <a href="https://github.com/google/re2">
    RE2
   </a>
-  <span>
-   &#9733 920, pushed 1 days ago
-  </span>
   - A software library for regular expressions via a finite-state machine using automata theory.
+  <sup>
+   226 GitHub links in total 569 links, ★ 920, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 920, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CopernicaMarketingSoftware/PHP-CPP">
    PHP-CPP
   </a>
-  <span>
-   &#9733 653, pushed 68 days ago
-  </span>
   - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
+  <sup>
+   226 GitHub links in total 569 links, ★ 653, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 653, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.deltavsoft.com/">
@@ -3292,28 +3823,37 @@
   <a href="https://github.com/antirez/sds">
    SDS
   </a>
-  <span>
-   &#9733 1563, pushed 45 days ago
-  </span>
   - Simple Dynamic Strings library for C. [BSD]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1563, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 1563, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/h2non/semver.c">
    semver.c
   </a>
-  <span>
-   &#9733 71, pushed 63 days ago
-  </span>
   - A semver parser and render in ANSI C. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 71, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wjwwood/serial">
    Serial Communication Library
   </a>
-  <span>
-   &#9733 223, pushed 79 days ago
-  </span>
   - Cross-platform, Serial Port library written in C++. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 223, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sigslot.sourceforge.net/">
@@ -3331,37 +3871,49 @@
   <a href="https://github.com/cesanta/slre">
    SLRE
   </a>
-  <span>
-   &#9733 269, pushed 40 days ago
-  </span>
   - Super Light Regexp engine for C/C++. [GPL2/Commercial]
+  <sup>
+   226 GitHub links in total 569 links, ★ 269, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 269, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rtv/Stage">
    Stage
   </a>
-  <span>
-   &#9733 114, pushed 173 days ago
-  </span>
   - Mobile robot simulator. [GPL2]
+  <sup>
+   226 GitHub links in total 569 links, ★ 114, pushed 173 days ago
+  </sup>
+  <sup>
+   &#9733 114, pushed 173 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nothings/stb">
    stb
   </a>
-  <span>
-   &#9733 3498, pushed 4 days ago
-  </span>
   - A range of single-file libraries for C/C++. [PublicDomain]
+  <sup>
+   226 GitHub links in total 569 links, ★ 3498, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3498, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/regehr/ub-canaries">
    ub-canaries
   </a>
-  <span>
-   &#9733 65, pushed 34 days ago
-  </span>
   - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+  <sup>
+   226 GitHub links in total 569 links, ★ 65, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://code.google.com/p/vartypes/">
@@ -3403,19 +3955,25 @@
   <a href="https://github.com/rui314/8cc">
    8cc
   </a>
-  <span>
-   &#9733 2232, pushed 120 days ago
-  </span>
   - A Small C Compiler.
+  <sup>
+   226 GitHub links in total 569 links, ★ 2232, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 2232, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanmjacobs/c">
    c
   </a>
-  <span>
-   &#9733 1345, pushed 85 days ago
-  </span>
   - Compile and execute C "scripts" in one go! [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 1345, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 1345, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="http://clang.llvm.org/">
@@ -3631,10 +4189,13 @@
   <a href="https://github.com/jeaye/color_coded">
    color_coded
   </a>
-  <span>
-   &#9733 460, pushed 6 days ago
-  </span>
   - A vim plugin for libclang-based highlighting. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 460, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 460, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/orwelldevcpp/">
@@ -3664,19 +4225,25 @@
   <a href="https://github.com/Sarcasm/irony-mode">
    Irony-mode
   </a>
-  <span>
-   &#9733 422, pushed 47 days ago
-  </span>
   - A C/C++ minor mode for Emacs powered by libclang.
+  <sup>
+   226 GitHub links in total 569 links, ★ 422, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 422, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cppit/jucipp">
    juCi++
   </a>
-  <span>
-   &#9733 318, pushed 2 days ago
-  </span>
   - Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
+  <sup>
+   226 GitHub links in total 569 links, ★ 318, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 318, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.kdevelop.org/">
@@ -3706,10 +4273,13 @@
   <a href="https://github.com/Andersbakken/rtags">
    rtags
   </a>
-  <span>
-   &#9733 571, pushed 4 days ago
-  </span>
   - A c/c++ client/server indexer with for integration with emacs based on clang.
+  <sup>
+   226 GitHub links in total 569 links, ★ 571, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 571, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developer.apple.com/xcode/">
@@ -3732,10 +4302,13 @@
   <a href="https://github.com/rizsotto/Bear">
    Bear
   </a>
-  <span>
-   &#9733 249, pushed 5 days ago
-  </span>
   - A tool to generate compilation database for clang tooling.
+  <sup>
+   226 GitHub links in total 569 links, ★ 249, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 249, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.biicode.com/">
@@ -3753,10 +4326,13 @@
   <a href="https://github.com/iauns/cpm">
    CPM
   </a>
-  <span>
-   &#9733 472, pushed 314 days ago
-  </span>
   - A C++ Package Manager based on CMake and Git.
+  <sup>
+   226 GitHub links in total 569 links, ★ 472, pushed 314 days ago
+  </sup>
+  <sup>
+   &#9733 472, pushed 314 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.fastbuild.org/docs/home.html">
@@ -3792,10 +4368,13 @@
   <a href="https://github.com/deplinenoise/tundra">
    tundra
   </a>
-  <span>
-   &#9733 185, pushed 2 days ago
-  </span>
   - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
+  <sup>
+   226 GitHub links in total 569 links, ★ 185, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 185, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gittup.org/tup/">
@@ -3882,10 +4461,13 @@
   <a href="https://github.com/bengardner/uncrustify">
    Uncrustify
   </a>
-  <span>
-   &#9733 2, pushed 46 days ago
-  </span>
   - Code beautifier.
+  <sup>
+   226 GitHub links in total 569 links, ★ 2, pushed 46 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 46 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -3924,55 +4506,73 @@
   <a href="https://github.com/CppCon/CppCon2015">
    CppCon 2015 Speaker Materials
   </a>
-  <span>
-   &#9733 960, pushed 159 days ago
-  </span>
   - Speaker materials from CppCon 2015.
+  <sup>
+   226 GitHub links in total 569 links, ★ 960, pushed 159 days ago
+  </sup>
+  <sup>
+   &#9733 960, pushed 159 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CppCon/CppCon2014">
    CppCon 2014 Speaker Materials
   </a>
-  <span>
-   &#9733 1617, pushed 114 days ago
-  </span>
   - Speaker materials from CppCon 2014.
+  <sup>
+   226 GitHub links in total 569 links, ★ 1617, pushed 114 days ago
+  </sup>
+  <sup>
+   &#9733 1617, pushed 114 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boostcon/cppnow_presentations_2015">
    C++Now 2015 Presentations
   </a>
-  <span>
-   &#9733 164, pushed 287 days ago
-  </span>
   - Presentation materials presented at C++Now 2015.
+  <sup>
+   226 GitHub links in total 569 links, ★ 164, pushed 287 days ago
+  </sup>
+  <sup>
+   &#9733 164, pushed 287 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boostcon/cppnow_presentations_2014">
    C++Now 2014 Presentations
   </a>
-  <span>
-   &#9733 372, pushed 694 days ago
-  </span>
   - Presentation materials presented at C++Now 2014.
+  <sup>
+   226 GitHub links in total 569 links, ★ 372, pushed 694 days ago
+  </sup>
+  <sup>
+   &#9733 372, pushed 694 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boostcon/cppnow_presentations_2013">
    C++Now 2013 Presentations
   </a>
-  <span>
-   &#9733 187, pushed 209 days ago
-  </span>
   - Presentation materials presented at C++Now 2013.
+  <sup>
+   226 GitHub links in total 569 links, ★ 187, pushed 209 days ago
+  </sup>
+  <sup>
+   &#9733 187, pushed 209 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boostcon/cppnow_presentations_2012">
    C++Now 2012 Presentations
   </a>
-  <span>
-   &#9733 152, pushed 1352 days ago
-  </span>
   - Presentation materials presented at C++Now 2012.
+  <sup>
+   226 GitHub links in total 569 links, ★ 152, pushed 1352 days ago
+  </sup>
+  <sup>
+   &#9733 152, pushed 1353 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4011,10 +4611,13 @@
   <a href="https://github.com/lefticus/cppbestpractices">
    cppbestpractices
   </a>
-  <span>
-   &#9733 393, pushed 53 days ago
-  </span>
   - Collaborative Collection of C++ Best Practices.
+  <sup>
+   226 GitHub links in total 569 links, ★ 393, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 393, pushed 53 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4025,10 +4628,13 @@
   <a href="https://github.com/isocpp/CppCoreGuidelines">
    C++ Core Guidelines
   </a>
-  <span>
-   &#9733 10731, pushed 5 days ago
-  </span>
   - "Official" set of C++ guidelines, reviewed by the author of C++.
+  <sup>
+   226 GitHub links in total 569 links, ★ 10731, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 10731, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.chromium.org/developers/coding-style/cpp-dos-and-donts">
@@ -4040,10 +4646,13 @@
   <a href="https://github.com/google/styleguide">
    google-styleguide
   </a>
-  <span>
-   &#9733 3879, pushed 2 days ago
-  </span>
   - Style guides for Google-originated open-source projects.
+  <sup>
+   226 GitHub links in total 569 links, ★ 3879, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3879, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
@@ -4080,18 +4689,24 @@
   <a href="https://github.com/SuperV1234/cppcon2014">
    Quick game development with C++11/C++14
   </a>
-  <span>
-   &#9733 60, pushed 106 days ago
-  </span>
   - CppCon 2014 talk by Vittorio Romeo.
+  <sup>
+   226 GitHub links in total 569 links, ★ 60, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 106 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ldionne/hana-cppnow-2015">
    Presentation on Hana for C++Now 2015
   </a>
-  <span>
+  <sup>
+   226 GitHub links in total 569 links, ★ 7, pushed 353 days ago
+  </sup>
+  <sup>
    &#9733 7, pushed 353 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4292,28 +4907,37 @@
   <a href="https://github.com/xtaci/algorithms">
    algorithms
   </a>
-  <span>
-   &#9733 926, pushed 7 days ago
-  </span>
   - Algorithms & Data Structures in C++.
+  <sup>
+   226 GitHub links in total 569 links, ★ 926, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 926, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fragglet/c-algorithms">
    c-algorithms
   </a>
-  <span>
-   &#9733 508, pushed 17 days ago
-  </span>
   - C algorithms library.
+  <sup>
+   226 GitHub links in total 569 links, ★ 508, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 508, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JunianNet/CppAwesomePack">
    C/C++ Awesome Pack
   </a>
-  <span>
-   &#9733 59, pushed 975 days ago
-  </span>
   - Contains some awesome c++ codes, packed in one.
+  <sup>
+   226 GitHub links in total 569 links, ★ 59, pushed 975 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 975 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -4329,28 +4953,37 @@
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <span>
-   &#9733 3765, pushed 2 days ago
-  </span>
   - List of (awesome) lists curated on GitHub.
+  <sup>
+   226 GitHub links in total 569 links, ★ 3765, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3765, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   - A curated list of awesome awesomeness.
+  <sup>
+   226 GitHub links in total 569 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome">
    awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   - A curated list of awesome lists.
+  <sup>
+   226 GitHub links in total 569 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://getawesomeness.com/get/cpp">
@@ -4362,10 +4995,13 @@
   <a href="https://github.com/vhf/free-programming-books">
    free-programming-books
   </a>
-  <span>
-   &#9733 54405, pushed 3 days ago
-  </span>
   - List of Freely Available Programming Books.
+  <sup>
+   226 GitHub links in total 569 links, ★ 54405, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 54405, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://inqlude.org/">
@@ -4377,37 +5013,49 @@
   <a href="https://github.com/papers-we-love/papers-we-love">
    papers-we-love
   </a>
-  <span>
-   &#9733 16161, pushed 12 days ago
-  </span>
   - Papers from the computer science community to read and discuss.
+  <sup>
+   226 GitHub links in total 569 links, ★ 16161, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 16161, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tayllan/awesome-algorithms">
    awesome-algorithms
   </a>
-  <span>
-   &#9733 1434, pushed 14 days ago
-  </span>
   - A curated list of awesome places to learn and/or practice algorithms.
+  <sup>
+   226 GitHub links in total 569 links, ★ 1434, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 1434, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JanVanRyswyck/awesome-talks">
    awesome-talks
   </a>
-  <span>
-   &#9733 1167, pushed 23 days ago
-  </span>
   - A lot of screencasts, recordings of user group gatherings and conference talks.
+  <sup>
+   226 GitHub links in total 569 links, ★ 1167, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 1167, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/karan/Projects">
    Projects
   </a>
-  <span>
-   &#9733 10475, pushed 41 days ago
-  </span>
   - A list of practical projects that anyone can solve in any programming language.
+  <sup>
+   226 GitHub links in total 569 links, ★ 10475, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 10475, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MaximAbramchuck/awesome-interviews">

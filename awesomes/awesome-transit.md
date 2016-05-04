@@ -148,14 +148,17 @@
   <a href="https://github.com/scascketta/CapMetrics">
    CapMetrics
   </a>
-  <span>
-   &#9733 7, pushed 2 days ago
-  </span>
   - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by
   <a href="https://github.com/scascketta/capmetricsd">
    capmetricsd
   </a>
   , a Go daemon.
+  <sup>
+   38 GitHub links in total 109 links, ★ 7, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ntdprogram.gov/">
@@ -235,13 +238,16 @@
   <a href="https://github.com/eskerda/pybikes">
    pyBikes
   </a>
-  <span>
-   &#9733 145, pushed 6 days ago
-  </span>
   - an API on worldwide bikeshare systems powering
   <a href="http://api.citybik.es">
    CityBikes
   </a>
+  <sup>
+   38 GitHub links in total 109 links, ★ 145, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joriswu/tripover/wiki">
@@ -295,10 +301,13 @@
   <a href="https://github.com/herrdragon/busTrackingGps">
    Bus Tracking GPS
   </a>
-  <span>
-   &#9733 3, pushed 63 days ago
-  </span>
   - Code for Miami prototype of a cheap open-source solution to track transit buses.
+  <sup>
+   38 GitHub links in total 109 links, ★ 3, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 63 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -326,46 +335,61 @@
   <a href="https://github.com/mecatran/OpenTripPlanner-client-gwt">
    OpenTripPlanner Client GWT
   </a>
-  <span>
-   &#9733 5, pushed 144 days ago
-  </span>
   - A Google Web Toolkit-based web interface for OpenTripPlanner
+  <sup>
+   38 GitHub links in total 109 links, ★ 5, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/conveyal/otp.js">
    OpenTripPlanner.js
   </a>
-  <span>
-   &#9733 11, pushed 43 days ago
-  </span>
   - A Javascript-based client for OpenTripPlanner
+  <sup>
+   38 GitHub links in total 109 links, ★ 11, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-service-alerts">
    GTFS-realtime Alerts Producer Web Application
   </a>
-  <span>
-   &#9733 1, pushed 1539 days ago
-  </span>
   - A Java-based web application for producing GTFS-realtime Service Alerts.
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 1539 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 1539 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Code4HR/hrt-bus-api">
    HRT BUS Web app
   </a>
-  <span>
-   &#9733 14, pushed 20 days ago
-  </span>
   - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
+  <sup>
+   38 GitHub links in total 109 links, ★ 14, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vasile/transit-map">
    Transit-Map
   </a>
-  <span>
-   &#9733 217, pushed 334 days ago
-  </span>
   - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+  <sup>
+   38 GitHub links in total 109 links, ★ 217, pushed 334 days ago
+  </sup>
+  <sup>
+   &#9733 217, pushed 334 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bikes.oobrien.com/">
@@ -463,13 +487,16 @@
   <a href="https://github.com/opentripplanner/OpenTripPlanner-iOS">
    OpenTripPlanner iOS
   </a>
-  <span>
-   &#9733 57, pushed 1223 days ago
-  </span>
   - An iOS app for
   <a href="http://www.opentripplanner.org/">
    OpenTripPlanner
   </a>
+  <sup>
+   38 GitHub links in total 109 links, ★ 57, pushed 1223 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 1223 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -590,19 +617,25 @@
   <a href="https://github.com/transitland/mapzen-gtfs">
    Mapzen GTFS
   </a>
-  <span>
-   &#9733 7, pushed 228 days ago
-  </span>
   - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+  <sup>
+   38 GitHub links in total 109 links, ★ 7, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OpenTransitTools/gtfsdb">
    gtfsdb
   </a>
-  <span>
-   &#9733 25, pushed 4 days ago
-  </span>
   - Python library for converting GTFS files into a relational database.
+  <sup>
+   38 GitHub links in total 109 links, ★ 25, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki">
@@ -614,49 +647,58 @@
   <a href="https://github.com/TransitFeeds/GtfsToSql">
    GTFS to SQL
   </a>
-  <span>
-   &#9733 6, pushed 497 days ago
-  </span>
   - Parses a GTFS feed into an SQL database (used in
   <a href="http://transitfeeds.com/">
    TransitFeeds.com
   </a>
   )
+  <sup>
+   38 GitHub links in total 109 links, ★ 6, pushed 498 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 498 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TransitFeeds/SqlToGtfs">
    SQL to GTFS
   </a>
-  <span>
-   &#9733 3, pushed 505 days ago
-  </span>
   - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.
+  <sup>
+   38 GitHub links in total 109 links, ★ 3, pushed 505 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 505 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/geops/gtfsparser">
    Go GTFS Parser
   </a>
-  <span>
-   &#9733 12, pushed 71 days ago
-  </span>
   - A GTFS parsing library for Go
+  <sup>
+   38 GitHub links in total 109 links, ★ 12, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OsmSharp/GTFS">
    GTFS Feed Parser
   </a>
-  <span>
-   &#9733 20, pushed 11 days ago
-  </span>
   - .Net/Mono implementation of a GTFS parser
+  <sup>
+   38 GitHub links in total 109 links, ★ 20, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brendannee/node-gtfs">
    Node-GTFS
   </a>
-  <span>
-   &#9733 164, pushed 17 days ago
-  </span>
   - Loads transit data in
   <a href="https://developers.google.com/transit/">
    GTFS format
@@ -666,41 +708,56 @@
    GTFS Data Exchange
   </a>
   , unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.
+  <sup>
+   38 GitHub links in total 109 links, ★ 164, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 164, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vasile/GTFS-viz">
    GTFS-viz
   </a>
-  <span>
-   &#9733 48, pushed 44 days ago
-  </span>
   - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the
   <a href="https://github.com/vasile/transit-map">
    Transit Map
   </a>
   web application)
+  <sup>
+   38 GitHub links in total 109 links, ★ 48, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CUTR-at-USF/gtfs-osm-sync">
    GTFS-OSM-Sync
   </a>
-  <span>
-   &#9733 38, pushed 89 days ago
-  </span>
   - A Java tool for syncrhonizing data in GTFS format with
   <a href="http://www.openstreetmap.org/">
    OpenStreetMap.org
   </a>
   .
+  <sup>
+   38 GitHub links in total 109 links, ★ 38, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bliksemlabs/bliksemintegration">
    Transmodel and IFF to GTFS
   </a>
-  <span>
-   &#9733 1, pushed 297 days ago
-  </span>
   - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 297 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 297 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Open-Transport/synthese/wiki">
@@ -718,9 +775,6 @@
   <a href="https://github.com/atlregional/bus-router">
    bus-router
   </a>
-  <span>
-   &#9733 15, pushed 243 days ago
-  </span>
   - Python script that generates missing shapes.txt for GTFS using routing from
   <a href="https://developers.google.com/maps/documentation/directions/">
    Google Maps Directions API
@@ -730,6 +784,12 @@
    OSRM
   </a>
   .
+  <sup>
+   38 GitHub links in total 109 links, ★ 15, pushed 243 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 243 days ago
+  </sup>
  </li>
  <li>
   <a href="http://transitwand.com/">
@@ -741,23 +801,29 @@
   <a href="https://github.com/evansiroky/gtfs-sequelize">
    gtfs-sequelize
   </a>
-  <span>
-   &#9733 7, pushed 6 days ago
-  </span>
   - Node.js library modeling the static GTFS using
   <a href="http://sequelizejs.com/">
    sequelize.js
   </a>
   .
+  <sup>
+   38 GitHub links in total 109 links, ★ 7, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/afimb/gtfslib-python">
    gtfslib-python
   </a>
-  <span>
-   &#9733 12, pushed 32 days ago
-  </span>
   -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+  <sup>
+   38 GitHub links in total 109 links, ★ 12, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 32 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -768,45 +834,57 @@
   <a href="https://github.com/google/gtfs-realtime-bindings">
    gtfs-realtime-bindings
   </a>
-  <span>
-   &#9733 59, pushed 97 days ago
-  </span>
   - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official
   <a href="https://github.com/google/gtfs-realtime-bindings/blob/master/gtfs-realtime.proto">
    GTFS-realtime protocol buffer specification
   </a>
   .
+  <sup>
+   38 GitHub links in total 109 links, ★ 59, pushed 97 days ago
+  </sup>
+  <sup>
+   &#9733 59, pushed 97 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattwigway/gtfsrdb">
    gtfsrdb
   </a>
-  <span>
-   &#9733 32, pushed 445 days ago
-  </span>
   - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+  <sup>
+   38 GitHub links in total 109 links, ★ 32, pushed 445 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 446 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TransitFeeds/GtfsRealTimeToSql">
    GTFS-realtime to SQL
   </a>
-  <span>
-   &#9733 8, pushed 280 days ago
-  </span>
   - Parses a GTFS-RealTime feed into an SQL database (used in
   <a href="http://transitfeeds.com/">
    TransitFeeds.com
   </a>
   )
+  <sup>
+   38 GitHub links in total 109 links, ★ 8, pushed 280 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 280 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CUTR-at-USF/gtfs-realtime-validator">
    GTFS-realtime Validator
   </a>
-  <span>
-   &#9733 5, pushed 198 days ago
-  </span>
   - A Java-based tool that validates GTFS-realtime feeds
+  <sup>
+   38 GitHub links in total 109 links, ★ 5, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 199 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki">
@@ -868,31 +946,34 @@
   <a href="https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator">
    Syncromatics API to GTFS-realtime
   </a>
-  <span>
-   &#9733 0, pushed 109 days ago
-  </span>
   - A Java-based command-line utility to convert from the
   <a href="http://www.syncromatics.com/">
    Syncromatics API
   </a>
   format to GTFS-realtime TripUpdates and VehiclePositons.
+  <sup>
+   38 GitHub links in total 109 links, ★ 0, pushed 109 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 109 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bliksemlabs/bliksemintegration-realtime">
    KV6,15,17, and ARNU to GTFS-realtime
   </a>
-  <span>
-   &#9733 0, pushed 544 days ago
-  </span>
   - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
+  <sup>
+   38 GitHub links in total 109 links, ★ 0, pushed 544 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 544 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kurtraschke/wmata-gtfsrealtime">
    WMATA BusPositions API to GTFS-realtime
   </a>
-  <span>
-   &#9733 11, pushed 447 days ago
-  </span>
   - Java-based tool to convert from WMATA's
   <a href="https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68">
    BusPositions API
@@ -902,14 +983,17 @@
    MetroAlerts
   </a>
   to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
+  <sup>
+   38 GitHub links in total 109 links, ★ 11, pushed 447 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 447 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kurtraschke/septa-gtfsrealtime">
    SEPTA API to GTFS-realtime
   </a>
-  <span>
-   &#9733 0, pushed 681 days ago
-  </span>
   - Java-based tool to convert
   <a href="http://www.septa.org/">
    SEPTA's
@@ -918,14 +1002,17 @@
    real-time bus and rail data
   </a>
   to GTFS-realtime
+  <sup>
+   38 GitHub links in total 109 links, ★ 0, pushed 681 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 682 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kurtraschke/ctatt-gtfsrealtime">
    CTA API to GTFS-realtime
   </a>
-  <span>
-   &#9733 1, pushed 857 days ago
-  </span>
   - Java-based tool to convert
   <a href="http://www.transitchicago.com/">
    CTA's
@@ -934,84 +1021,108 @@
    Train Tracker data
   </a>
   to GTFS-realtime.
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 857 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 857 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/prashtx/ddot-avl">
    Detroit DOT to GTFS-realtime
   </a>
-  <span>
-   &#9733 1, pushed 815 days ago
-  </span>
   - Extract real-time info from
   <a href="http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules">
    DDOT's
   </a>
   TransitMaster installation (database) and convert to GTFS-realtime
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 815 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 815 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ipublic/live_transit_event_trigger">
    Live Transit Event Trigger
   </a>
-  <span>
-   &#9733 3, pushed 1134 days ago
-  </span>
   - Extracts data from
   <a href="http://www.montgomerycountymd.gov/dot-transit/">
    Ride On's
   </a>
   OrbCAD database and export as GTFS-realtime.
+  <sup>
+   38 GitHub links in total 109 links, ★ 3, pushed 1134 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 1134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bdferris/onebusaway-sound-transit-realtime">
    SoundTransit to GTFS-realtime
   </a>
-  <span>
-   &#9733 2, pushed 1541 days ago
-  </span>
   - Convert text file feed from
   <a href="http://www.soundtransit.org/">
    Sound Transit
   </a>
   to GTFS-realtime
+  <sup>
+   38 GitHub links in total 109 links, ★ 2, pushed 1541 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 1541 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jestin/CivicTransit">
    Civic Transit
   </a>
-  <span>
-   &#9733 2, pushed 1066 days ago
-  </span>
   - Screen-scrapes
   <a href="http://www.kcata.org/">
    KCATA’s
   </a>
   TransitMaster WebWatch installation to produce a GTFS-realtime feed.
+  <sup>
+   38 GitHub links in total 109 links, ★ 2, pushed 1066 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 1066 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin">
    GTFS-realtime Munin Plugin
   </a>
-  <span>
-   &#9733 1, pushed 1403 days ago
-  </span>
   - Provides a
   <a href="http://munin-monitoring.org/">
    Munin
   </a>
   plugin for logging information about a GTFS-realtime feed.
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 1403 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 1403 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin">
    GTFS-realtime Nagio Plugin
   </a>
-  <span>
-   &#9733 1, pushed 1401 days ago
-  </span>
   - Provides a
   <a href="https://www.nagios.org/">
    Nagios
   </a>
   plugin for monitoring a GTFS-realtime feed
+  <sup>
+   38 GitHub links in total 109 links, ★ 1, pushed 1401 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 1401 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1032,14 +1143,17 @@
   <a href="https://github.com/laidig/siri-20-java">
    SIRI 2.0 API
   </a>
-  <span>
-   &#9733 0, pushed 89 days ago
-  </span>
   - Java classes generated from the v2.0
   <a href="http://user47094.vs.easily.co.uk/siri/">
    SIRI
   </a>
   schemas.
+  <sup>
+   38 GitHub links in total 109 links, ★ 0, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki">

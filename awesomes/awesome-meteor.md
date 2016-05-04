@@ -252,10 +252,13 @@
   <a href="https://github.com/englue/meteor-publish-composite">
    reywood:publish-composite
   </a>
-  <span>
-   &#9733 405, pushed 96 days ago
-  </span>
   - publish a set of related documents from various collections using a reactive join
+  <sup>
+   74 GitHub links in total 163 links, ★ 405, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 405, pushed 96 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -271,19 +274,25 @@
   <a href="https://github.com/stubailo/meteor-rest">
    simple:rest
   </a>
-  <span>
-   &#9733 218, pushed 25 days ago
-  </span>
   - automatically make your Meteor app accessible over HTTP and DDP alike.
+  <sup>
+   74 GitHub links in total 163 links, ★ 218, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kahmali/meteor-restivus">
    nimble:restivus
   </a>
-  <span>
-   &#9733 387, pushed 20 days ago
-  </span>
   - Make REST endpoints for your Meteor app with incredible ease.
+  <sup>
+   74 GitHub links in total 163 links, ★ 387, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 387, pushed 20 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -299,46 +308,61 @@
   <a href="https://github.com/aldeed/meteor-autoform">
    aldeed:autoform
   </a>
-  <span>
-   &#9733 1262, pushed 17 days ago
-  </span>
   - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+  <sup>
+   74 GitHub links in total 163 links, ★ 1262, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 1262, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DispatchMe/meteor-scrollview">
    dispatch:scrollview
   </a>
-  <span>
-   &#9733 21, pushed 211 days ago
-  </span>
   - A high performance infinite scrollview for meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 21, pushed 211 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 211 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/themeteorites/blaze-magic-events">
    themeteorites:blaze-magic-events
   </a>
-  <span>
-   &#9733 22, pushed 94 days ago
-  </span>
   - A new way of binding event handlers to html elements for Meteor's Blaze
+  <sup>
+   74 GitHub links in total 163 links, ★ 22, pushed 94 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 94 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ManuelDeLeon/viewmodel">
    manuel:viewmodel
   </a>
-  <span>
-   &#9733 180, pushed 7 days ago
-  </span>
   - MVVM for Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 180, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dandv/meteor-webix">
    webix:webix
   </a>
-  <span>
-   &#9733 317, pushed 159 days ago
-  </span>
   - Meteor.js - Webix UI integration
+  <sup>
+   74 GitHub links in total 163 links, ★ 317, pushed 159 days ago
+  </sup>
+  <sup>
+   &#9733 317, pushed 159 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -354,10 +378,13 @@
   <a href="https://github.com/alanning/meteor-roles">
    alanning:roles
   </a>
-  <span>
-   &#9733 705, pushed 11 days ago
-  </span>
   - Roles support for the built-in accounts packages.
+  <sup>
+   74 GitHub links in total 163 links, ★ 705, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 705, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -384,73 +411,97 @@
   <a href="https://github.com/meteorhacks/kadira">
    meteorhacks:kadira
   </a>
-  <span>
-   &#9733 159, pushed 53 days ago
-  </span>
   - Performance Monitoring for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 159, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 159, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/arunoda/meteor-up">
    meteor-up
   </a>
-  <span>
-   &#9733 2242, pushed 10 days ago
-  </span>
   – Meteor Deployments.
+  <sup>
+   74 GitHub links in total 163 links, ★ 2242, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2242, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidyaha/meteor-collection2-migrations">
    davidyaha:collection2-migrations
   </a>
-  <span>
-   &#9733 30, pushed 52 days ago
-  </span>
   - Auto DB migrations with collection2 and simple schema on Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 30, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/percolatestudio/meteor-migrations">
    percolate:migrations
   </a>
-  <span>
-   &#9733 165, pushed 12 days ago
-  </span>
   - Simple migration system for Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 165, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 165, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kadirahq/fast-render">
    meteorhacks:fast-render
   </a>
-  <span>
-   &#9733 550, pushed 2 days ago
-  </span>
   - Render you app even before the DDP connection is live
+  <sup>
+   74 GitHub links in total 163 links, ★ 550, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 550, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meteorhacks/cluster">
    meteorhacks:cluster
   </a>
-  <span>
-   &#9733 571, pushed 19 days ago
-  </span>
   - Clustering solution for Meteor with load balancing and service discovery
+  <sup>
+   74 GitHub links in total 163 links, ★ 571, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 571, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yogiben/meteor-admin">
    yogiben:admin
   </a>
-  <span>
-   &#9733 647, pushed 4 days ago
-  </span>
   - A complete admin dashboard solution
+  <sup>
+   74 GitHub links in total 163 links, ★ 647, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 647, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/onmodulus/demeteorizer">
    demeteorizer
   </a>
-  <span>
-   &#9733 643, pushed 5 days ago
-  </span>
   - Converts a Meteor app into a "standard" Node.js application
+  <sup>
+   74 GitHub links in total 163 links, ★ 643, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 643, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://allandequeiroz.com/2015/09/27/amazon-auto-scaling-and-meteor/">
@@ -472,19 +523,25 @@
   <a href="https://github.com/iron-meteor/iron-router">
    iron:router
   </a>
-  <span>
-   &#9733 1977, pushed 71 days ago
-  </span>
   - A client and server side router designed specifically for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 1977, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 1977, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kadirahq/flow-router">
    meteorhacks:flow-router
   </a>
-  <span>
-   &#9733 861, pushed 12 days ago
-  </span>
   - Client Side Router for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 861, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 861, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -500,10 +557,13 @@
   <a href="https://github.com/GroundMeteor/db">
    ground:db
   </a>
-  <span>
-   &#9733 448, pushed 27 days ago
-  </span>
   - GroundDB is a thin layer providing Meteor offline database and methods
+  <sup>
+   74 GitHub links in total 163 links, ★ 448, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 448, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -536,28 +596,37 @@
   <a href="https://github.com/xolvio/meteor-jasmine">
    sanjo:jasmine
   </a>
-  <span>
-   &#9733 135, pushed 20 days ago
-  </span>
   - Run Jasmine tests for all your Meteor code.
+  <sup>
+   74 GitHub links in total 163 links, ★ 135, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 135, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xolvio/meteor-cucumber">
    xolvio:cucumber
   </a>
-  <span>
-   &#9733 107, pushed 196 days ago
-  </span>
   - Reactive BDD for Meteor using Cucumber.js and Velocity.
+  <sup>
+   74 GitHub links in total 163 links, ★ 107, pushed 196 days ago
+  </sup>
+  <sup>
+   &#9733 107, pushed 196 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meteor-velocity/html-reporter">
    velocity:html-reporter
   </a>
-  <span>
-   &#9733 25, pushed 32 days ago
-  </span>
   - HTML reporter for Meteor velocity testing framework.
+  <sup>
+   74 GitHub links in total 163 links, ★ 25, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 32 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -573,19 +642,25 @@
   <a href="https://github.com/CollectionFS/Meteor-CollectionFS">
    Meteor-CollectionFS
   </a>
-  <span>
-   &#9733 1002, pushed 64 days ago
-  </span>
   - Meteor webbased filesystem handling up and downloads.
+  <sup>
+   74 GitHub links in total 163 links, ★ 1002, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 1002, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/netanelgilad/meteor-excel">
    netanelgilad:excel
   </a>
-  <span>
-   &#9733 33, pushed 137 days ago
-  </span>
   - Parsing and generating excel files (xlsx, xls).
+  <sup>
+   74 GitHub links in total 163 links, ★ 33, pushed 137 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 137 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -601,46 +676,61 @@
   <a href="https://github.com/percolatestudio/publish-counts">
    tmeasday:publish-counts
   </a>
-  <span>
-   &#9733 157, pushed 129 days ago
-  </span>
   - Publish the count of a cursor, in real time.
+  <sup>
+   74 GitHub links in total 163 links, ★ 157, pushed 129 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/versolearning/find-from-publication">
    percolate:find-from-publication
   </a>
-  <span>
-   &#9733 21, pushed 28 days ago
-  </span>
   - Enable finding all documents that have been published by a given publication.
+  <sup>
+   74 GitHub links in total 163 links, ★ 21, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meteorhacks/search-source">
    meteorhacks:search-source
   </a>
-  <span>
-   &#9733 132, pushed 85 days ago
-  </span>
   - Reactive Data Source for Search
+  <sup>
+   74 GitHub links in total 163 links, ★ 132, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 132, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matteodem/meteor-easy-search">
    matteodem:easy-search
   </a>
-  <span>
-   &#9733 380, pushed 3 days ago
-  </span>
   - Easy-to-use search with Blaze Components (+ Elastic Search Support
+  <sup>
+   74 GitHub links in total 163 links, ★ 380, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 380, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/alethes/meteor-pages">
    alethes:pages
   </a>
-  <span>
-   &#9733 388, pushed 14 days ago
-  </span>
   - Out of the box Meteor pagination
+  <sup>
+   74 GitHub links in total 163 links, ★ 388, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 388, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.discovermeteor.com/blog/pagination-problems-meteor/">
@@ -661,73 +751,97 @@
   <a href="https://github.com/meteoric/meteor-ionic">
    meteoric:ionic
   </a>
-  <span>
-   &#9733 1577, pushed 5 days ago
-  </span>
   - Ionic components for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 1577, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1577, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/driftyco/ionic">
    driftyco:ionic
   </a>
-  <span>
-   &#9733 23599, pushed 3 days ago
-  </span>
   - Official Ionic support for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 23599, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 23599, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/raix/push">
    raix:push
   </a>
-  <span>
-   &#9733 331, pushed 2 days ago
-  </span>
   - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
+  <sup>
+   74 GitHub links in total 163 links, ★ 331, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 331, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/martijnwalraven/meteor-ios">
    martijnwalraven:meteor-ios
   </a>
-  <span>
-   &#9733 706, pushed 11 days ago
-  </span>
   - Integrates native iOS apps with the Meteor platform through DDP.
+  <sup>
+   74 GitHub links in total 163 links, ★ 706, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 706, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/delight-im/Android-DDP">
    delight-im/Android-DDP
   </a>
-  <span>
-   &#9733 199, pushed 23 days ago
-  </span>
   - DDP for clients on Android.
+  <sup>
+   74 GitHub links in total 163 links, ★ 199, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 199, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/okland/accounts-phone">
    okland:accounts-phone
   </a>
-  <span>
-   &#9733 74, pushed 137 days ago
-  </span>
   - A login service based on mobile phone number for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 74, pushed 137 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 137 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/okland/camera-ui">
    okland:camera-ui
   </a>
-  <span>
-   &#9733 17, pushed 268 days ago
-  </span>
   - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
+  <sup>
+   74 GitHub links in total 163 links, ★ 17, pushed 268 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 268 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/percolatestudio/cordova-plugin-safe-reload">
    percolatestudio/cordova-plugin-safe-reload
   </a>
-  <span>
-   &#9733 12, pushed 82 days ago
-  </span>
   - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
+  <sup>
+   74 GitHub links in total 163 links, ★ 12, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 82 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -759,10 +873,13 @@
   <a href="https://github.com/percolatestudio/meteor-synced-cron">
    percolate:synced-cron
   </a>
-  <span>
-   &#9733 334, pushed 5 days ago
-  </span>
   - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
+  <sup>
+   74 GitHub links in total 163 links, ★ 334, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 334, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -784,19 +901,25 @@
   <a href="https://github.com/msavin/JetSetter">
    msavin:jetsetter
   </a>
-  <span>
-   &#9733 180, pushed 301 days ago
-  </span>
   - Visual Get/Set Tool for Meteor Session Variables.
+  <sup>
+   74 GitHub links in total 163 links, ★ 180, pushed 301 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kadirahq/meteor-debug">
    meteorhacks:kadira-debug
   </a>
-  <span>
-   &#9733 132, pushed 41 days ago
-  </span>
   - Full Stack Debugging Solution for Meteor.
+  <sup>
+   74 GitHub links in total 163 links, ★ 132, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 132, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/JackAdams/constellation-distro/">
@@ -836,10 +959,13 @@
   <a href="https://github.com/elidoran/cosmos-browserify">
    cosmos:browserify
   </a>
-  <span>
-   &#9733 76, pushed 70 days ago
-  </span>
   - Browserify npm modules for client side in Meteor packages.
+  <sup>
+   74 GitHub links in total 163 links, ★ 76, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -861,42 +987,57 @@
   <a href="https://github.com/iron-meteor/iron-cli">
    iron-cli
   </a>
-  <span>
-   &#9733 631, pushed 23 days ago
-  </span>
   - A scaffolding command line tool for Meteor applications
+  <sup>
+   74 GitHub links in total 163 links, ★ 631, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 631, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Differential/meteor-boilerplate">
    Differential - meteor-boilerplate
   </a>
-  <span>
+  <sup>
+   74 GitHub links in total 163 links, ★ 874, pushed 19 days ago
+  </sup>
+  <sup>
    &#9733 874, pushed 19 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matteodem/meteor-boilerplate">
    matteodem - meteor-boilerplate
   </a>
-  <span>
+  <sup>
+   74 GitHub links in total 163 links, ★ 822, pushed 14 days ago
+  </sup>
+  <sup>
    &#9733 822, pushed 14 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/radiegtya/meteoris2">
    meteoris2
   </a>
-  <span>
+  <sup>
+   74 GitHub links in total 163 links, ★ 265, pushed 190 days ago
+  </sup>
+  <sup>
    &#9733 265, pushed 190 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/themeteorchef/base">
    Base
   </a>
-  <span>
+  <sup>
+   74 GitHub links in total 163 links, ★ 372, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 372, pushed 4 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -918,46 +1059,61 @@
   <a href="https://github.com/TelescopeJS/Telescope">
    Telescope
   </a>
-  <span>
-   &#9733 4471, pushed 4 days ago
-  </span>
   - An open-source social news app built with Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 4471, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 4471, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DiscoverMeteor/Microscope">
    Microscope
   </a>
-  <span>
-   &#9733 840, pushed 12 days ago
-  </span>
   - The Discover Meteor book's example app
+  <sup>
+   74 GitHub links in total 163 links, ★ 840, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 840, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wekan/wekan">
    Wekan
   </a>
-  <span>
-   &#9733 6703, pushed 8 days ago
-  </span>
   - Open source Trello-like kanban
+  <sup>
+   74 GitHub links in total 163 links, ★ 6703, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 6703, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/reactioncommerce/reaction">
    Reaction Commerce
   </a>
-  <span>
-   &#9733 2260, pushed 2 days ago
-  </span>
   - Open source Commerce platform developed with Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 2260, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2260, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Crowducate/crowducate-platform">
    Crowducate Platform
   </a>
-  <span>
-   &#9733 153, pushed 57 days ago
-  </span>
   - Open source education platform Powered by meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 153, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 153, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="http://orionjs.org/">
@@ -989,19 +1145,25 @@
   <a href="https://github.com/Urigo/angular-meteor">
    Angular
   </a>
-  <span>
-   &#9733 1703, pushed 2 days ago
-  </span>
   - Working with Angular and Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 1703, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1703, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Urigo/angular2-meteor">
    Angular 2
   </a>
-  <span>
-   &#9733 201, pushed 1 days ago
-  </span>
   - Working with Angular 2 and Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 201, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 201, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -1016,29 +1178,38 @@
    <a href="https://github.com/frozeman/meteor-build-client">
     frozeman:build-client
    </a>
-   <span>
-    &#9733 154, pushed 15 days ago
-   </span>
    - A tool to bundle the client part of a Meteor app.
   </p>
+  <sup>
+   74 GitHub links in total 163 links, ★ 154, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 154, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mondora/asteroid">
    Asteroid
   </a>
-  <span>
-   &#9733 526, pushed 70 days ago
-  </span>
   - An alternative client for a Meteor backend
+  <sup>
+   74 GitHub links in total 163 links, ★ 526, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 526, pushed 70 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mondora/ddp.js">
    ddp.js
   </a>
-  <span>
-   &#9733 118, pushed 70 days ago
-  </span>
   - Isomorphic JavaScript DDP client
+  <sup>
+   74 GitHub links in total 163 links, ★ 118, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 118, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1052,28 +1223,37 @@
   <a href="https://github.com/numtel/meteor-pg">
    numtel:pg
   </a>
-  <span>
-   &#9733 297, pushed 265 days ago
-  </span>
   - Reactive PostgreSQL for Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 297, pushed 265 days ago
+  </sup>
+  <sup>
+   &#9733 297, pushed 265 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/numtel/meteor-mysql">
    numtel:mysql
   </a>
-  <span>
-   &#9733 283, pushed 5 days ago
-  </span>
   - Reactive MySQL for Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 283, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 283, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Slava/meteor-rethinkdb">
    simple:rethink
   </a>
-  <span>
-   &#9733 279, pushed 82 days ago
-  </span>
   - RethinkDB integration for Meteor
+  <sup>
+   74 GitHub links in total 163 links, ★ 279, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 279, pushed 82 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1150,10 +1330,13 @@
   <a href="https://github.com/ericdouglas/Meteor-Learning">
    Meteor Learning
   </a>
-  <span>
-   &#9733 1238, pushed 34 days ago
-  </span>
   - List of resources to learn
+  <sup>
+   74 GitHub links in total 163 links, ★ 1238, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 1238, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.yauh.de/best-learning-resources-for-meteorjs/">
@@ -1289,9 +1472,12 @@
   <a href="https://github.com/oortcloud/unofficial-meteor-faq">
    Unofficial Meteor FAQ
   </a>
-  <span>
+  <sup>
+   74 GitHub links in total 163 links, ★ 1001, pushed 294 days ago
+  </sup>
+  <sup>
    &#9733 1001, pushed 294 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://themeteorchef.com">

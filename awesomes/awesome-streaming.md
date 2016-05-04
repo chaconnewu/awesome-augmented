@@ -80,10 +80,13 @@
   <a href="https://github.com/apache/incubator-apex-core">
    Apache Apex
   </a>
-  <span>
-   &#9733 112, pushed 2 days ago
-  </span>
   [Java] - unified platform for big data stream and batch processing.
+  <sup>
+   33 GitHub links in total 63 links, ★ 112, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 112, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ci.apache.org/projects/flink/flink-docs-release-0.9/apis/streaming_guide.html">
@@ -122,10 +125,13 @@
   <a href="https://github.com/walmartlabs/mupd8">
    mupd8(muppet)
   </a>
-  <span>
-   &#9733 127, pushed 294 days ago
-  </span>
   [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
+  <sup>
+   33 GitHub links in total 63 links, ★ 127, pushed 294 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 294 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gopulsar.io/">
@@ -155,10 +161,13 @@
   <a href="https://github.com/ottogroup/SPQR">
    SPQR
   </a>
-  <span>
-   &#9733 20, pushed 92 days ago
-  </span>
   [Java] - dynamic framework for processing high volumn data streams through pipelines.
+  <sup>
+   33 GitHub links in total 63 links, ★ 20, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://storm.apache.org/">
@@ -170,19 +179,25 @@
   <a href="https://github.com/caskdata/tigon">
    tigon
   </a>
-  <span>
-   &#9733 221, pushed 213 days ago
-  </span>
   [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
+  <sup>
+   33 GitHub links in total 63 links, ★ 221, pushed 214 days ago
+  </sup>
+  <sup>
+   &#9733 221, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hailstorm-hs/hailstorm">
    hailstorm
   </a>
-  <span>
-   &#9733 64, pushed 692 days ago
-  </span>
   [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
+  <sup>
+   33 GitHub links in total 63 links, ★ 64, pushed 692 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 692 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -231,28 +246,37 @@
   <a href="https://github.com/twitter/summingbird">
    summingbird
   </a>
-  <span>
-   &#9733 1706, pushed 87 days ago
-  </span>
   [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
+  <sup>
+   33 GitHub links in total 63 links, ★ 1706, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 1706, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bkirwi/coast">
    coast
   </a>
-  <span>
-   &#9733 46, pushed 79 days ago
-  </span>
   [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
+  <sup>
+   33 GitHub links in total 63 links, ★ 46, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 46, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apache/incubator-beam">
    Apache Beam
   </a>
-  <span>
-   &#9733 151, pushed 0 days ago
-  </span>
   [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+  <sup>
+   33 GitHub links in total 63 links, ★ 151, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 151, pushed 0 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -263,19 +287,25 @@
   <a href="https://github.com/apache/kafka">
    Apache Kafka
   </a>
-  <span>
-   &#9733 3042, pushed 0 days ago
-  </span>
   [Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
+  <sup>
+   33 GitHub links in total 63 links, ★ 3042, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 3042, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/killme2008/Metamorphosis">
    metaq
   </a>
-  <span>
-   &#9733 796, pushed 415 days ago
-  </span>
   [Java] - Taobao's high available, high performance distributed messaging system
+  <sup>
+   33 GitHub links in total 63 links, ★ 796, pushed 415 days ago
+  </sup>
+  <sup>
+   &#9733 796, pushed 415 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bitly/nsq">
@@ -287,46 +317,61 @@
   <a href="https://github.com/linkedin/camus">
    camus
   </a>
-  <span>
-   &#9733 642, pushed 147 days ago
-  </span>
   [Java] - Linkedin's Kafka -> HDFS pipeline.
+  <sup>
+   33 GitHub links in total 63 links, ★ 642, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 642, pushed 147 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/linkedin/databus">
    databus
   </a>
-  <span>
-   &#9733 1009, pushed 4 days ago
-  </span>
   [Java] - Linkedin's source-agnostic distributed change data capture system.
+  <sup>
+   33 GitHub links in total 63 links, ★ 1009, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1009, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apache/flume">
    flume
   </a>
-  <span>
-   &#9733 619, pushed 8 days ago
-  </span>
   [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
+  <sup>
+   33 GitHub links in total 63 links, ★ 619, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 619, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/suro">
    suro
   </a>
-  <span>
-   &#9733 503, pushed 144 days ago
-  </span>
   [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+  <sup>
+   33 GitHub links in total 63 links, ★ 503, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 503, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/streamsets/datacollector">
    StreamSets Data Collector
   </a>
-  <span>
-   &#9733 98, pushed 1 days ago
-  </span>
   [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
+  <sup>
+   33 GitHub links in total 63 links, ★ 98, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -337,10 +382,13 @@
   <a href="https://github.com/huawei-noah/streamDM">
    streamDM
   </a>
-  <span>
-   &#9733 106, pushed 90 days ago
-  </span>
   [Scala] - mining Big Data streams using Spark Streaming from Huawei.
+  <sup>
+   33 GitHub links in total 63 links, ★ 106, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jubat.us/en/">
@@ -352,28 +400,37 @@
   <a href="https://github.com/yahoo/samoa">
    Apache Samoa
   </a>
-  <span>
-   &#9733 406, pushed 36 days ago
-  </span>
   [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
+  <sup>
+   33 GitHub links in total 63 links, ★ 406, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 406, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pmerienne/trident-ml">
    trident-ml
   </a>
-  <span>
-   &#9733 335, pushed 214 days ago
-  </span>
   [Java] - realtime online machine learning library based on Trident.
+  <sup>
+   33 GitHub links in total 63 links, ★ 335, pushed 214 days ago
+  </sup>
+  <sup>
+   &#9733 335, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sensorstorm/StormCV">
    StormCV
   </a>
-  <span>
-   &#9733 48, pushed 220 days ago
-  </span>
   [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
+  <sup>
+   33 GitHub links in total 63 links, ★ 48, pushed 220 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 220 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -384,28 +441,37 @@
   <a href="https://github.com/pipelinedb/pipelinedb">
    pipelinedb
   </a>
-  <span>
-   &#9733 864, pushed 5 days ago
-  </span>
   [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
+  <sup>
+   33 GitHub links in total 63 links, ★ 864, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 864, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/epfldata/squall">
    squall
   </a>
-  <span>
-   &#9733 208, pushed 9 days ago
-  </span>
   [Java] - Squall executes SQL queries on top of Storm for doing online processing.
+  <sup>
+   33 GitHub links in total 63 links, ★ 208, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 208, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HuaweiBigData/StreamCQL">
    StreamCQL
   </a>
-  <span>
-   &#9733 209, pushed 53 days ago
-  </span>
   [Java] - Continuous Query Language on RealTime Computation System.
+  <sup>
+   33 GitHub links in total 63 links, ★ 209, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 209, pushed 54 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -416,37 +482,49 @@
   <a href="https://github.com/intel-hadoop/storm-benchmark">
    storm-benchmark
   </a>
-  <span>
-   &#9733 24, pushed 14 days ago
-  </span>
   [Java] - a set of benchmarks to test Storm performance.
+  <sup>
+   33 GitHub links in total 63 links, ★ 24, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yahoo/storm-perf-test">
    storm-perf-test
   </a>
-  <span>
-   &#9733 56, pushed 6 days ago
-  </span>
   [Java] - a simple storm performance/stress test.
+  <sup>
+   33 GitHub links in total 63 links, ★ 56, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 56, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yahoo/streaming-benchmarks">
    streaming-benchmarks
   </a>
-  <span>
-   &#9733 146, pushed 19 days ago
-  </span>
   [Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+  <sup>
+   33 GitHub links in total 63 links, ★ 146, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 146, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tylertreat/Flotilla">
    flotilla
   </a>
-  <span>
-   &#9733 124, pushed 101 days ago
-  </span>
   [Go] - Automated message queue orchestration for scaled-up benchmarking.
+  <sup>
+   33 GitHub links in total 63 links, ★ 124, pushed 101 days ago
+  </sup>
+  <sup>
+   &#9733 124, pushed 101 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -469,37 +547,49 @@
   <a href="https://github.com/real-logic/Aeron">
    aeron
   </a>
-  <span>
-   &#9733 1743, pushed 8 days ago
-  </span>
   [Java/C++] - efficient reliable unicast and multicast message transport.
+  <sup>
+   33 GitHub links in total 63 links, ★ 1743, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1743, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lmco/streamflow">
    StreamFlow
   </a>
-  <span>
-   &#9733 182, pushed 132 days ago
-  </span>
   [Java] - stream processing tool designed to help build and monitor processing workflows.
+  <sup>
+   33 GitHub links in total 63 links, ★ 182, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 182, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/romseygeek/samza-luwak">
    samza-luwak
   </a>
-  <span>
-   &#9733 67, pushed 540 days ago
-  </span>
   [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
+  <sup>
+   33 GitHub links in total 63 links, ★ 67, pushed 540 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 540 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/Turbine">
    Turbine
   </a>
-  <span>
-   &#9733 395, pushed 104 days ago
-  </span>
   [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
+  <sup>
+   33 GitHub links in total 63 links, ★ 395, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 395, pushed 104 days ago
+  </sup>
  </li>
 </ul>
 <h3>

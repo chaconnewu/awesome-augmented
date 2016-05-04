@@ -17,46 +17,61 @@
   <a href="https://github.com/bodil/pulp">
    pulp
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 28 links, ★ 218, pushed 31 days ago
+  </sup>
+  <sup>
    &#9733 218, pushed 31 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/natefaubion/purescript-psa">
    purescript-psa
   </a>
-  <span>
-   &#9733 24, pushed 14 days ago
-  </span>
   - A pretty, flexible error/warning reporting frontend for
   <code>
    psc
   </code>
+  <sup>
+   19 GitHub links in total 28 links, ★ 24, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/purescript-contrib/grunt-purescript">
    grunt-purescript
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 28 links, ★ 11, pushed 171 days ago
+  </sup>
+  <sup>
    &#9733 11, pushed 171 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/purescript-contrib/gulp-purescript">
    gulp-purescript
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 28 links, ★ 27, pushed 157 days ago
+  </sup>
+  <sup>
    &#9733 27, pushed 157 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ethul/purs-loader">
    purs-loader
   </a>
-  <span>
-   &#9733 31, pushed 24 days ago
-  </span>
   for webpack
+  <sup>
+   19 GitHub links in total 28 links, ★ 31, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 24 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -67,28 +82,37 @@
   <a href="https://github.com/purescript/purescript-prelude">
    purescript-prelude
   </a>
-  <span>
-   &#9733 12, pushed 6 days ago
-  </span>
   - The standard Prelude.
+  <sup>
+   19 GitHub links in total 28 links, ★ 12, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paf31/purescript-preface">
    purescript-preface
   </a>
-  <span>
-   &#9733 10, pushed 249 days ago
-  </span>
   - A simpler alternative to the Prelude.
+  <sup>
+   19 GitHub links in total 28 links, ★ 10, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 249 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tfausak/purescript-batteries">
    purescript-batteries
   </a>
-  <span>
-   &#9733 20, pushed 11 days ago
-  </span>
   - A PureScript prelude with more features.
+  <sup>
+   19 GitHub links in total 28 links, ★ 20, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -99,59 +123,77 @@
   <a href="https://github.com/paf31/purescript-thermite">
    purescript-thermite
   </a>
-  <span>
-   &#9733 124, pushed 14 days ago
-  </span>
   - A simple wrapper for ReactJS inspired by
   <code>
    react-blaze
   </code>
   .
+  <sup>
+   19 GitHub links in total 28 links, ★ 124, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 124, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slamdata/purescript-halogen">
    purescript-halogen
   </a>
-  <span>
-   &#9733 331, pushed 1 days ago
-  </span>
   - A declarative, type-safe UI library.
+  <sup>
+   19 GitHub links in total 28 links, ★ 331, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 331, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joneshf/purescript-react-simple">
    purescript-react-simple
   </a>
-  <span>
-   &#9733 2, pushed 434 days ago
-  </span>
   - A simplified wrapper around react.
+  <sup>
+   19 GitHub links in total 28 links, ★ 2, pushed 434 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 434 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slamdata/purescript-css">
    purescript-css
   </a>
-  <span>
-   &#9733 23, pushed 6 days ago
-  </span>
   - A clean, type-safe library for describing, manipulating and rendering CSS.
+  <sup>
+   19 GitHub links in total 28 links, ★ 23, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zrho/purescript-optic-ui">
    purescript-optic-ui
   </a>
-  <span>
-   &#9733 70, pushed 72 days ago
-  </span>
   - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+  <sup>
+   19 GitHub links in total 28 links, ★ 70, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 70, pushed 72 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sharkdp/purescript-flare">
    purescript-flare
   </a>
-  <span>
-   &#9733 108, pushed 84 days ago
-  </span>
   - Applicative-style reactive user interfaces built on top of purescript-signal.
+  <sup>
+   19 GitHub links in total 28 links, ★ 108, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 108, pushed 84 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -162,19 +204,25 @@
   <a href="https://github.com/slamdata/purescript-aff">
    purescript-aff
   </a>
-  <span>
-   &#9733 66, pushed 23 days ago
-  </span>
   - An asynchronous effect monad for PureScript.
+  <sup>
+   19 GitHub links in total 28 links, ★ 66, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/slamdata/purescript-aff">
    purescript-affjax
   </a>
-  <span>
-   &#9733 66, pushed 23 days ago
-  </span>
   - An asynchronous AJAX library built using Aff.
+  <sup>
+   19 GitHub links in total 28 links, ★ 66, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 23 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -185,37 +233,49 @@
   <a href="https://github.com/bodil/purescript-test-unit">
    purescript-test-unit
   </a>
-  <span>
-   &#9733 23, pushed 9 days ago
-  </span>
   - An asynchronous unit test runner for PureScript.
+  <sup>
+   19 GitHub links in total 28 links, ★ 23, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/purescript/purescript-quickcheck">
    purescript-quickcheck
   </a>
-  <span>
-   &#9733 23, pushed 37 days ago
-  </span>
   - An implementation of QuickCheck in PureScript.
+  <sup>
+   19 GitHub links in total 28 links, ★ 23, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/garyb/purescript-quickcheck-laws">
    purescript-quickcheck-laws
   </a>
-  <span>
-   &#9733 2, pushed 92 days ago
-  </span>
   - Law tests for core classes.
+  <sup>
+   19 GitHub links in total 28 links, ★ 2, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hdgarrood/purescript-benchotron">
    purescript-benchotron
   </a>
-  <span>
-   &#9733 6, pushed 116 days ago
-  </span>
   - Straightforward benchmarking for PureScript/JavaScript.
+  <sup>
+   19 GitHub links in total 28 links, ★ 6, pushed 116 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 116 days ago
+  </sup>
  </li>
 </ul>
 <h2>

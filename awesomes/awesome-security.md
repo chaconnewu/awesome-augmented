@@ -144,10 +144,10 @@
   <a href="https://github.com/rapid7/metasploit-framework">
    Metasploit Framework
   </a>
-  <span>
-   &#9733 5688, pushed 3 days ago
-  </span>
   - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
+  <sup>
+   &#9733 5688, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.kali.org/">
@@ -159,19 +159,19 @@
   <a href="https://github.com/rafael-santiago/pig">
    pig
   </a>
-  <span>
-   &#9733 236, pushed 2 days ago
-  </span>
   - A Linux packet crafting tool.
+  <sup>
+   &#9733 236, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rfunix/Pompem">
    Pompem
   </a>
-  <span>
-   &#9733 220, pushed 226 days ago
-  </span>
   - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+  <sup>
+   &#9733 220, pushed 227 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -207,11 +207,11 @@
    <a href="https://github.com/gamelinux/passivedns">
     passivedns
    </a>
-   <span>
-    &#9733 655, pushed 78 days ago
-   </span>
    - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
   </p>
+  <sup>
+   &#9733 655, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <p>
@@ -270,10 +270,10 @@
   <a href="https://github.com/marshyski/sshwatch">
    sshwatch
   </a>
-  <span>
-   &#9733 12, pushed 1017 days ago
-  </span>
   - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
+  <sup>
+   &#9733 12, pushed 1017 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -296,10 +296,10 @@
   <a href="https://github.com/zeroq/amun">
    Amun
   </a>
-  <span>
-   &#9733 18, pushed 507 days ago
-  </span>
   - Amun Python-based low-interaction Honeypot.
+  <sup>
+   &#9733 18, pushed 507 days ago
+  </sup>
  </li>
  <li>
   <a href="http://glastopf.org/">
@@ -311,10 +311,10 @@
   <a href="https://github.com/desaster/kippo">
    Kippo
   </a>
-  <span>
-   &#9733 628, pushed 195 days ago
-  </span>
   - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
+  <sup>
+   &#9733 628, pushed 195 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kojoney.sourceforge.net/">
@@ -326,10 +326,10 @@
   <a href="https://github.com/tnich/honssh">
    HonSSH
   </a>
-  <span>
-   &#9733 50, pushed 89 days ago
-  </span>
   - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
+  <sup>
+   &#9733 50, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sourceforge.net/projects/bifrozt/">
@@ -358,10 +358,10 @@
   <a href="https://github.com/simsong/tcpflow">
    tcpflow
   </a>
-  <span>
-   &#9733 516, pushed 98 days ago
-  </span>
   - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
+  <sup>
+   &#9733 516, pushed 98 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.xplico.org/">
@@ -373,10 +373,10 @@
   <a href="https://github.com/aol/moloch">
    Moloch
   </a>
-  <span>
-   &#9733 1389, pushed 11 days ago
-  </span>
   - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
+  <sup>
+   &#9733 1389, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openfpc.org">
@@ -388,19 +388,19 @@
   <a href="https://github.com/USArmyResearchLab/Dshell">
    Dshell
   </a>
-  <span>
-   &#9733 4652, pushed 12 days ago
-  </span>
   - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
+  <sup>
+   &#9733 4652, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/stenographer">
    stenographer
   </a>
-  <span>
-   &#9733 836, pushed 1 days ago
-  </span>
   - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
+  <sup>
+   &#9733 836, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -462,10 +462,10 @@
   <a href="https://github.com/pfq/PFQ">
    PFQ
   </a>
-  <span>
-   &#9733 389, pushed 1 days ago
-  </span>
   - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
+  <sup>
+   &#9733 389, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.ntop.org/products/packet-capture/pf_ring/">
@@ -526,13 +526,13 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/google/google-authenticator">
    google-authenticator
   </a>
-  <span>
-   &#9733 1281, pushed 16 days ago
-  </span>
   - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238.
   <a href="http://xmodulo.com/two-factor-authentication-ssh-login-linux.html">
    Tutorials: How to set up two-factor authentication for SSH login on Linux
   </a>
+  <sup>
+   &#9733 1281, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -543,10 +543,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/ashishb/android-security-awesome">
    android-security-awesome
   </a>
-  <span>
-   &#9733 1007, pushed 5 days ago
-  </span>
   - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
+  <sup>
+   &#9733 1007, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://wiki.secmobi.com/">
@@ -563,10 +563,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/google/grr">
    grr
   </a>
-  <span>
-   &#9733 1180, pushed 11 days ago
-  </span>
   - GRR Rapid Response is an incident response framework focused on remote live forensics.
+  <sup>
+   &#9733 1180, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -648,10 +648,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/fireeye/iocs">
    FireEye OpenIOCs
   </a>
-  <span>
-   &#9733 168, pushed 64 days ago
-  </span>
   - FireEye Publicly Shared Indicators of Compromise (IOCs)
+  <sup>
+   &#9733 168, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openvas.org/openvas-nvt-feed.html">
@@ -685,10 +685,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/csirtgadgets/massive-octo-spice">
    CIFv2
   </a>
-  <span>
-   &#9733 97, pushed 3 days ago
-  </span>
   - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
+  <sup>
+   &#9733 97, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -719,10 +719,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/nbs-system/naxsi">
    NAXSI
   </a>
-  <span>
-   &#9733 1240, pushed 6 days ago
-  </span>
   - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
+  <sup>
+   &#9733 1240, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.ironbee.com/">
@@ -763,10 +763,10 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/trustedsec/ptf">
    PTF
   </a>
-  <span>
-   &#9733 538, pushed 7 days ago
-  </span>
   - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
+  <sup>
+   &#9733 538, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -777,19 +777,19 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/ClickSecurity/data_hacking">
    data_hacking
   </a>
-  <span>
-   &#9733 256, pushed 472 days ago
-  </span>
   - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
+  <sup>
+   &#9733 256, pushed 472 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RIPE-NCC/hadoop-pcap">
    hadoop-pcap
   </a>
-  <span>
-   &#9733 142, pushed 3 days ago
-  </span>
   - Hadoop library to read packet capture (PCAP) files.
+  <sup>
+   &#9733 142, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://workbench.readthedocs.org/">
@@ -801,19 +801,19 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/OpenSOC/opensoc">
    OpenSOC
   </a>
-  <span>
-   &#9733 338, pushed 246 days ago
-  </span>
   - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+  <sup>
+   &#9733 338, pushed 246 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/endgameinc/binarypig">
    binarypig
   </a>
-  <span>
-   &#9733 114, pushed 659 days ago
-  </span>
   - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
+  <sup>
+   &#9733 114, pushed 659 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -827,91 +827,91 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/ashishb/android-security-awesome">
    Android Security Awesome
   </a>
-  <span>
-   &#9733 1007, pushed 5 days ago
-  </span>
   - A collection of android security related resources.
+  <sup>
+   &#9733 1007, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/apsdehal/awesome-ctf">
    Awesome CTF
   </a>
-  <span>
-   &#9733 421, pushed 34 days ago
-  </span>
   - A curated list of CTF frameworks, libraries, resources and software.
+  <sup>
+   &#9733 421, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/carpedm20/awesome-hacking">
    Awesome Hacking
   </a>
-  <span>
-   &#9733 510, pushed 11 days ago
-  </span>
   - A curated list of awesome Hacking tutorials, tools and resources.
+  <sup>
+   &#9733 510, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paralax/awesome-honeypots">
    Awesome Honeypots
   </a>
-  <span>
-   &#9733 604, pushed 47 days ago
-  </span>
   - An awesome list of honeypot resources.
+  <sup>
+   &#9733 604, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rshipp/awesome-malware-analysis">
    Awesome Malware Analysis
   </a>
-  <span>
-   &#9733 968, pushed 6 days ago
-  </span>
   - A curated list of awesome malware analysis tools and resources.
+  <sup>
+   &#9733 968, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/caesar0301/awesome-pcaptools">
    Awesome PCAP Tools
   </a>
-  <span>
-   &#9733 378, pushed 4 days ago
-  </span>
   - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+  <sup>
+   &#9733 378, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/enaqx/awesome-pentest">
    Awesome Pentest
   </a>
-  <span>
-   &#9733 1859, pushed 10 days ago
-  </span>
   - A collection of awesome penetration testing resources, tools and other shiny things.
+  <sup>
+   &#9733 1859, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Friz-zy/awesome-linux-containers">
    Awesome Linux Containers
   </a>
-  <span>
-   &#9733 85, pushed 46 days ago
-  </span>
   - A curated list of awesome Linux Containers frameworks, libraries and software.
+  <sup>
+   &#9733 85, pushed 46 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meirwah/awesome-incident-response">
    Awesome Incident Response
   </a>
-  <span>
-   &#9733 471, pushed 11 days ago
-  </span>
   - A curated list of resources for incident response.
+  <sup>
+   &#9733 471, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/infoslack/awesome-web-hacking">
    Awesome Web Hacking
   </a>
-  <span>
-   &#9733 155, pushed 27 days ago
-  </span>
   - This list is for anyone wishing to learn about web application security but do not have a starting point.
+  <sup>
+   &#9733 155, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -925,19 +925,19 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   - awesome-* or *-awesome lists.
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jnv/lists">
    lists
   </a>
-  <span>
-   &#9733 3765, pushed 2 days ago
-  </span>
   - The definitive list of (awesome) lists curated on GitHub.
+  <sup>
+   &#9733 3765, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>

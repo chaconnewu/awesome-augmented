@@ -41,10 +41,13 @@
   <a href="https://github.com/zurb/foundation-emails">
    Foundation for Emails
   </a>
-  <span>
-   &#9733 5609, pushed 1 days ago
-  </span>
   - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+  <sup>
+   10 GitHub links in total 56 links, ★ 5609, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 5609, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://emailframe.work/">
@@ -61,10 +64,13 @@
   <a href="https://github.com/bevacqua/campaign">
    Campaign
   </a>
-  <span>
-   &#9733 555, pushed 35 days ago
-  </span>
   - Compose responsive email templates easily, fill them with models, and send them out.
+  <sup>
+   10 GitHub links in total 56 links, ★ 555, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 555, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.sendwithus.com/resources/templates">
@@ -76,10 +82,13 @@
   <a href="https://github.com/mailchimp/Email-Blueprints">
    Mailchimp Email Blueprints
   </a>
-  <span>
-   &#9733 5505, pushed 242 days ago
-  </span>
   - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+  <sup>
+   10 GitHub links in total 56 links, ★ 5505, pushed 242 days ago
+  </sup>
+  <sup>
+   &#9733 5505, pushed 242 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.campaignmonitor.com/email-templates/">
@@ -91,37 +100,49 @@
   <a href="https://github.com/mailgun/transactional-email-templates">
    Responsive Transactional HTML Email Templates
   </a>
-  <span>
-   &#9733 4610, pushed 79 days ago
-  </span>
   (Each template is responsive and each has been tested in all the popular email clients.)
+  <sup>
+   10 GitHub links in total 56 links, ★ 4610, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 4610, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TedGoas/Cerberus">
    Cerberus
   </a>
-  <span>
-   &#9733 1445, pushed 12 days ago
-  </span>
   - Few responsive email patterns.
+  <sup>
+   10 GitHub links in total 56 links, ★ 1445, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1445, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/internations/antwort">
    Antwort
   </a>
-  <span>
-   &#9733 2924, pushed 84 days ago
-  </span>
   - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
+  <sup>
+   10 GitHub links in total 56 links, ★ 2924, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 2924, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/charlesmudy/responsive-html-email-template">
    Responsive HTML Template
   </a>
-  <span>
-   &#9733 333, pushed 303 days ago
-  </span>
   - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+  <sup>
+   10 GitHub links in total 56 links, ★ 333, pushed 303 days ago
+  </sup>
+  <sup>
+   &#9733 333, pushed 303 days ago
+  </sup>
  </li>
  <li>
   <a href="https://litmus.com/resources/free-responsive-email-templates/">
@@ -133,10 +154,13 @@
   <a href="https://github.com/dwightjack/grunt-email-boilerplate">
    Grunt Email Boilerplate
   </a>
-  <span>
-   &#9733 292, pushed 87 days ago
-  </span>
   - A Grunt template to create emails.
+  <sup>
+   10 GitHub links in total 56 links, ★ 292, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 292, pushed 87 days ago
+  </sup>
  </li>
  <li>
   <a href="http://responsiveemailpatterns.com/">
@@ -177,19 +201,25 @@ VML and CSS.
   <a href="https://github.com/leemunroe/grunt-email-workflow">
    Lee Munroe's Grunt Email Design
   </a>
-  <span>
-   &#9733 2329, pushed 10 days ago
-  </span>
   - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+  <sup>
+   10 GitHub links in total 56 links, ★ 2329, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 2329, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/darylldoyle/Gulp-Email-Creator">
    Darylldoyle Gulp workflow
   </a>
-  <span>
-   &#9733 97, pushed 328 days ago
-  </span>
   - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+  <sup>
+   10 GitHub links in total 56 links, ★ 97, pushed 328 days ago
+  </sup>
+  <sup>
+   &#9733 97, pushed 328 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.sitepoint.com/my-current-html-email-development-workflow/">

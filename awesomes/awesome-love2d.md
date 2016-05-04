@@ -139,37 +139,49 @@
   <a href="https://github.com/excessive/anim9">
    anim9
   </a>
-  <span>
-   &#9733 6, pushed 165 days ago
-  </span>
   - 3D skeletal animation library (design to be used with IQM and IQE)
+  <sup>
+   79 GitHub links in total 122 links, ★ 6, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 165 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/excessive/iqe">
    IQE
   </a>
-  <span>
-   &#9733 10, pushed 250 days ago
-  </span>
   - Inter-Quake Export loader (text)
+  <sup>
+   79 GitHub links in total 122 links, ★ 10, pushed 250 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 250 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/excessive/iqm">
    IQM
   </a>
-  <span>
-   &#9733 8, pushed 123 days ago
-  </span>
   - Inter-Quake Model loader (binary)
+  <sup>
+   79 GitHub links in total 122 links, ★ 8, pushed 123 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 123 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/excessive/love3d">
    LÖVE3D
   </a>
-  <span>
-   &#9733 72, pushed 143 days ago
-  </span>
   - 3D extensions to LÖVE
+  <sup>
+   79 GitHub links in total 122 links, ★ 72, pushed 143 days ago
+  </sup>
+  <sup>
+   &#9733 72, pushed 143 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -185,10 +197,13 @@
   <a href="https://github.com/Yonaba/Jumper">
    Jumper
   </a>
-  <span>
-   &#9733 312, pushed 35 days ago
-  </span>
   - Grid-based pathfinding library
+  <sup>
+   79 GitHub links in total 122 links, ★ 312, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 312, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -204,49 +219,64 @@
   <a href="https://github.com/kikito/anim8">
    anim8
   </a>
-  <span>
-   &#9733 148, pushed 16 days ago
-  </span>
   - Animation library
+  <sup>
+   79 GitHub links in total 122 links, ★ 148, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 148, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bjornbytes/chiro">
    chiro
   </a>
-  <span>
-   &#9733 4, pushed 130 days ago
-  </span>
   - Convenience wrapper around
   <a href="http://esotericsoftware.com">
    Spine
   </a>
+  <sup>
+   79 GitHub links in total 122 links, ★ 4, pushed 130 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 130 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pelevesque/skeletor">
    skeletor
   </a>
-  <span>
-   &#9733 4, pushed 225 days ago
-  </span>
   - 2D skeletal animation system
+  <sup>
+   79 GitHub links in total 122 links, ★ 4, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tesselode/sodapop">
    Sodapop
   </a>
-  <span>
-   &#9733 8, pushed 73 days ago
-  </span>
   - Sprite and animation library
+  <sup>
+   79 GitHub links in total 122 links, ★ 8, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davisdude/Walt">
    Walt
   </a>
-  <span>
-   &#9733 11, pushed 326 days ago
-  </span>
   - Animation library
+  <sup>
+   79 GitHub links in total 122 links, ★ 11, pushed 326 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 326 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -262,28 +292,37 @@
   <a href="https://github.com/davisdude/Brady">
    Brady
   </a>
-  <span>
-   &#9733 12, pushed 296 days ago
-  </span>
   - Camera library with parallax scrolling
+  <sup>
+   79 GitHub links in total 122 links, ★ 12, pushed 296 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 297 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bakpakin/Editgrid">
    Editgrid
   </a>
-  <span>
-   &#9733 17, pushed 125 days ago
-  </span>
   - Gamera and HUMP compatible scaling grid
+  <sup>
+   79 GitHub links in total 122 links, ★ 17, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kikito/gamera">
    gamera
   </a>
-  <span>
-   &#9733 65, pushed 285 days ago
-  </span>
   - Camera system
+  <sup>
+   79 GitHub links in total 122 links, ★ 65, pushed 285 days ago
+  </sup>
+  <sup>
+   &#9733 65, pushed 285 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hump.readthedocs.io/en/latest/camera.html">
@@ -305,85 +344,112 @@
   <a href="https://github.com/icrawler/FPSGraph">
    FPSGraph
   </a>
-  <span>
-   &#9733 7, pushed 761 days ago
-  </span>
   - Small FPS graphing utility
+  <sup>
+   79 GitHub links in total 122 links, ★ 7, pushed 761 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 762 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Mechazawa/Love-Debug-Graph">
    debugGraph
   </a>
-  <span>
-   &#9733 5, pushed 129 days ago
-  </span>
   - Small OO FPS graphing utillity based on FPSGraph
+  <sup>
+   79 GitHub links in total 122 links, ★ 5, pushed 129 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rameshvarun/love-ide">
    love-ide
   </a>
-  <span>
-   &#9733 24, pushed 42 days ago
-  </span>
   - Tools for programming LÖVE games in Atom
+  <sup>
+   79 GitHub links in total 122 links, ★ 24, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/lovebird">
    Lovebird
   </a>
-  <span>
-   &#9733 89, pushed 233 days ago
-  </span>
   - Browser-based debug console
+  <sup>
+   79 GitHub links in total 122 links, ★ 89, pushed 233 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 233 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CoffeeKitty/lovecat">
    Lovecat
   </a>
-  <span>
-   &#9733 11, pushed 231 days ago
-  </span>
   - Edit your game parameters in a browser and see the changes in the running game in real time
+  <sup>
+   79 GitHub links in total 122 links, ★ 11, pushed 231 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 231 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ranguna/LOVEDEBUG">
    LoveDebug
   </a>
-  <span>
-   &#9733 20, pushed 5 days ago
-  </span>
   - Inline console-like debugger utility
+  <sup>
+   79 GitHub links in total 122 links, ★ 20, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/lurker">
    lurker
   </a>
-  <span>
-   &#9733 66, pushed 426 days ago
-  </span>
   - Auto-swaps changed Lua files in a running game
+  <sup>
+   79 GitHub links in total 122 links, ★ 66, pushed 426 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 426 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/love2d-community/love-api">
    LÖVE API
   </a>
-  <span>
-   &#9733 43, pushed 15 days ago
-  </span>
   - The complete API documentation of LÖVE in a Lua table
+  <sup>
+   79 GitHub links in total 122 links, ★ 43, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rm-code/love-atom">
    LÖVE Atom
   </a>
-  <span>
-   &#9733 10, pushed 8 days ago
-  </span>
   - Snippets and autocompletion for
   <a href="https://atom.io/">
    Atom
   </a>
+  <sup>
+   79 GitHub links in total 122 links, ★ 10, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gitlab.com/sdonalcreative/brackets-love-hints/">
@@ -398,25 +464,31 @@
   <a href="https://github.com/rm-code/love-IDEA-plugin">
    LÖVE IDEA
   </a>
-  <span>
-   &#9733 11, pushed 58 days ago
-  </span>
   - Snippets and code completion for
   <a href="https://www.jetbrains.com/idea/">
    IntelliJ IDEA
   </a>
+  <sup>
+   79 GitHub links in total 122 links, ★ 11, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davisdude/vim-love-docs">
    Vim LOVE Docs
   </a>
-  <span>
-   &#9733 4, pushed 27 days ago
-  </span>
   - Syntax highlighting for
   <a href="http://www.vim.org">
    Vim
   </a>
+  <sup>
+   79 GitHub links in total 122 links, ★ 4, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 28 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -432,19 +504,25 @@
   <a href="https://github.com/pelevesque/draft">
    draft
   </a>
-  <span>
-   &#9733 14, pushed 224 days ago
-  </span>
   - A module for drawing complex shapes
+  <sup>
+   79 GitHub links in total 122 links, ★ 14, pushed 224 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/unXedDani/Artal">
    Artal
   </a>
-  <span>
-   &#9733 10, pushed 36 days ago
-  </span>
   - A .PSD parsing library for LÖVE
+  <sup>
+   79 GitHub links in total 122 links, ★ 10, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 36 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -466,10 +544,13 @@
   <a href="https://github.com/bakpakin/tiny-ecs">
    tiny-ecs
   </a>
-  <span>
-   &#9733 48, pushed 6 days ago
-  </span>
   - Entity Component System for Lua that's simple, flexible, and useful
+  <sup>
+   79 GitHub links in total 122 links, ★ 48, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -487,28 +568,37 @@
   <a href="https://github.com/vrld/hump">
    hump
   </a>
-  <span>
-   &#9733 289, pushed 2 days ago
-  </span>
   - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
+  <sup>
+   79 GitHub links in total 122 links, ★ 289, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 289, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/airstruck/knife">
    knife
   </a>
-  <span>
-   &#9733 64, pushed 30 days ago
-  </span>
   - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+  <sup>
+   79 GitHub links in total 122 links, ★ 64, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Ulydev/lue">
    lue
   </a>
-  <span>
-   &#9733 4, pushed 3 days ago
-  </span>
   - lue is a LÖVE library that allows you to display hue color effects in your game.
+  <sup>
+   79 GitHub links in total 122 links, ★ 4, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/lume/">
@@ -520,28 +610,37 @@
   <a href="https://github.com/Ulydev/shack">
    shack
   </a>
-  <span>
-   &#9733 3, pushed 3 days ago
-  </span>
   - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation.
+  <sup>
+   79 GitHub links in total 122 links, ★ 3, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/karai17/Simple-Tiled-Implementation">
    Simple Tiled Implementation
   </a>
-  <span>
-   &#9733 175, pushed 2 days ago
-  </span>
   - Tiled map loader and renderer
+  <sup>
+   79 GitHub links in total 122 links, ★ 175, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 175, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/WetDesertRock/vivid">
    Vivid
   </a>
-  <span>
-   &#9733 25, pushed 273 days ago
-  </span>
   - Color math, manipulation and conversion library.
+  <sup>
+   79 GitHub links in total 122 links, ★ 25, pushed 273 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 273 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -557,19 +656,25 @@
   <a href="https://github.com/adonaac/boipushy">
    boipushy
   </a>
-  <span>
-   &#9733 31, pushed 218 days ago
-  </span>
   - A simple and easy to use input handler
+  <sup>
+   79 GitHub links in total 122 links, ★ 31, pushed 218 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 218 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tesselode/tactile">
    tactile
   </a>
-  <span>
-   &#9733 22, pushed 17 days ago
-  </span>
   - A straightforward and flexible input library
+  <sup>
+   79 GitHub links in total 122 links, ★ 22, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 17 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -585,10 +690,13 @@
   <a href="https://github.com/tanema/light_world.lua">
    Light World
   </a>
-  <span>
-   &#9733 74, pushed 3 days ago
-  </span>
   - A lighting model
+  <sup>
+   79 GitHub links in total 122 links, ★ 74, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -604,28 +712,37 @@
   <a href="https://github.com/excessive/cpml">
    Cirno's Perfect Math Library
   </a>
-  <span>
-   &#9733 53, pushed 19 days ago
-  </span>
   - Math/intersection library designed for games
+  <sup>
+   79 GitHub links in total 122 links, ★ 53, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 53, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yonaba/delaunay">
    delaunay
   </a>
-  <span>
-   &#9733 35, pushed 95 days ago
-  </span>
   - Delaunay triangulation for convex polygons
+  <sup>
+   79 GitHub links in total 122 links, ★ 35, pushed 95 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 95 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davisdude/mlib">
    MLib
   </a>
-  <span>
-   &#9733 28, pushed 34 days ago
-  </span>
   - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
+  <sup>
+   79 GitHub links in total 122 links, ★ 28, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hump.readthedocs.io/en/latest/vector.html">
@@ -653,10 +770,13 @@
   <a href="https://github.com/Overtorment/NoobHub">
    NoobHub
   </a>
-  <span>
-   &#9733 122, pushed 204 days ago
-  </span>
   - OpenSource multiplayer and network messaging
+  <sup>
+   79 GitHub links in total 122 links, ★ 122, pushed 204 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 204 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -677,10 +797,13 @@
   <a href="https://github.com/Yonaba/30log">
    30log
   </a>
-  <span>
-   &#9733 174, pushed 58 days ago
-  </span>
   - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
+  <sup>
+   79 GitHub links in total 122 links, ★ 174, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 174, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/classic/">
@@ -704,10 +827,13 @@
   <a href="https://github.com/kikito/middleclass">
    middleclass
   </a>
-  <span>
-   &#9733 659, pushed 44 days ago
-  </span>
   - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+  <sup>
+   79 GitHub links in total 122 links, ★ 659, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 659, pushed 44 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -723,10 +849,13 @@
   <a href="https://github.com/kikito/bump.lua">
    Bump
   </a>
-  <span>
-   &#9733 210, pushed 79 days ago
-  </span>
   - Collision detection library for Lua
+  <sup>
+   79 GitHub links in total 122 links, ★ 210, pushed 79 days ago
+  </sup>
+  <sup>
+   &#9733 210, pushed 79 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vrld.github.io/HC/">
@@ -754,10 +883,13 @@
   <a href="https://github.com/rxi/lovedos">
    LoveDos
   </a>
-  <span>
-   &#9733 350, pushed 675 days ago
-  </span>
   - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
+  <sup>
+   79 GitHub links in total 122 links, ★ 350, pushed 675 days ago
+  </sup>
+  <sup>
+   &#9733 350, pushed 675 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/T-BoneISS/l-veftw">
@@ -769,19 +901,25 @@
   <a href="https://github.com/VideahGams/LovePotion">
    LovePotion
   </a>
-  <span>
-   &#9733 75, pushed 2 days ago
-  </span>
   - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
+  <sup>
+   79 GitHub links in total 122 links, ★ 75, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 75, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/TannerRogalsky/love.js">
    Love.js
   </a>
-  <span>
-   &#9733 76, pushed 72 days ago
-  </span>
   - LÖVE ported to the web using Emscripten
+  <sup>
+   79 GitHub links in total 122 links, ★ 76, pushed 72 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 72 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -797,19 +935,25 @@
   <a href="https://github.com/bakpakin/binser">
    binser
   </a>
-  <span>
-   &#9733 27, pushed 19 days ago
-  </span>
   - Customizable Lua Serializer
+  <sup>
+   79 GitHub links in total 122 links, ★ 27, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/excessive/cdata">
    cdata
   </a>
-  <span>
-   &#9733 12, pushed 263 days ago
-  </span>
   - Serialize between Lua data and C data using LuaJIT's FFI
+  <sup>
+   79 GitHub links in total 122 links, ★ 12, pushed 263 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 263 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/airstruck/knife/blob/master/readme/serialize.md">
@@ -821,37 +965,49 @@
   <a href="https://github.com/gvx/Lady">
    Lady
   </a>
-  <span>
-   &#9733 26, pushed 77 days ago
-  </span>
   - Saving and loading savegames; based on Ser
+  <sup>
+   79 GitHub links in total 122 links, ★ 26, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gvx/Ser">
    Ser
   </a>
-  <span>
-   &#9733 44, pushed 77 days ago
-  </span>
   - Fast, robust, richly-featured table serialization library for Lua
+  <sup>
+   79 GitHub links in total 122 links, ★ 44, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 44, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gvx/Smallfolk">
    Smallfolk
   </a>
-  <span>
-   &#9733 10, pushed 77 days ago
-  </span>
   - A fast, robust, secure, richly-featured table serialization library for Lua
+  <sup>
+   79 GitHub links in total 122 links, ★ 10, pushed 77 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 77 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bjornbytes/trickle">
    trickle
   </a>
-  <span>
-   &#9733 8, pushed 129 days ago
-  </span>
   - A bitstream library focused on high compression for use in networking
+  <sup>
+   79 GitHub links in total 122 links, ★ 8, pushed 129 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 129 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -867,10 +1023,13 @@
   <a href="https://github.com/tsteinholz/LoveShaderConverter">
    LoveShaderConverter
   </a>
-  <span>
-   &#9733 12, pushed 105 days ago
-  </span>
   - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
+  <sup>
+   79 GitHub links in total 122 links, ★ 12, pushed 105 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 105 days ago
+  </sup>
  </li>
  <li>
   <a href="https://love2d.org/forums/viewtopic.php?f=5&t=80885">
@@ -882,10 +1041,13 @@
   <a href="https://github.com/vrld/shine">
    shine
   </a>
-  <span>
-   &#9733 80, pushed 123 days ago
-  </span>
   - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+  <sup>
+   79 GitHub links in total 122 links, ★ 80, pushed 123 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 123 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -913,14 +1075,17 @@
   <a href="https://github.com/Olivine-Labs/luassert">
    Luassert
   </a>
-  <span>
-   &#9733 35, pushed 4 days ago
-  </span>
   - Extends
   <code>
    assert()
   </code>
   with additional, customizable tests
+  <sup>
+   79 GitHub links in total 122 links, ★ 35, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://fperrad.github.io/lua-TestMore/">
@@ -936,19 +1101,25 @@
   <a href="https://github.com/silentbicycle/lunatest">
    Lunatest
   </a>
-  <span>
-   &#9733 58, pushed 319 days ago
-  </span>
   - xUnit-style randomized unit testing framework
+  <sup>
+   79 GitHub links in total 122 links, ★ 58, pushed 319 days ago
+  </sup>
+  <sup>
+   &#9733 58, pushed 319 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bjornbytes/lust">
    lust
   </a>
-  <span>
-   &#9733 5, pushed 107 days ago
-  </span>
   - Minimal test framework
+  <sup>
+   79 GitHub links in total 122 links, ★ 5, pushed 107 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 107 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gvvaughan.github.io/specl/">
@@ -971,14 +1142,17 @@
   <a href="https://github.com/adonaac/blog">
    adonaac's
   </a>
-  <span>
-   &#9733 425, pushed 87 days ago
-  </span>
   - A blog by
   <a href="https://github.com/adonaac">
    adonaac
   </a>
   with articles about game development using LÖVE
+  <sup>
+   79 GitHub links in total 122 links, ★ 425, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 425, pushed 87 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lua.space/gamedev/using-tiled-maps-in-love">
@@ -1000,10 +1174,13 @@
   <a href="https://github.com/rxi/flux">
    Flux
   </a>
-  <span>
-   &#9733 78, pushed 37 days ago
-  </span>
   - A fast, lightweight tweening library for Lua
+  <sup>
+   79 GitHub links in total 122 links, ★ 78, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hump.readthedocs.io/en/latest/timer.html">
@@ -1021,10 +1198,13 @@
   <a href="https://github.com/kikito/tween.lua">
    tween.lua
   </a>
-  <span>
-   &#9733 195, pushed 41 days ago
-  </span>
   - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
+  <sup>
+   79 GitHub links in total 122 links, ★ 195, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 195, pushed 41 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1040,55 +1220,73 @@
   <a href="https://github.com/tavuntu/gooi">
    GOOi
   </a>
-  <span>
-   &#9733 24, pushed 1 days ago
-  </span>
   - Android-oriented GUI library
+  <sup>
+   79 GitHub links in total 122 links, ★ 24, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KennyShields/LoveFrames">
    LoveFrames
   </a>
-  <span>
-   &#9733 225, pushed 45 days ago
-  </span>
   - GUI library
+  <sup>
+   79 GitHub links in total 122 links, ★ 225, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 225, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josefnpat/safeword">
    SafeWord
   </a>
-  <span>
-   &#9733 0, pushed 228 days ago
-  </span>
   - An overscan detection library for LÖVE
+  <sup>
+   79 GitHub links in total 122 links, ★ 0, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adonaac/thranduil">
    Thranduil
   </a>
-  <span>
-   &#9733 62, pushed 84 days ago
-  </span>
   - A highly customable and easy to use UI
+  <sup>
+   79 GitHub links in total 122 links, ★ 62, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 62, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pgimeno/Gspot">
    Gspöt
   </a>
-  <span>
-   &#9733 2, pushed 18 days ago
-  </span>
   - a stateful GUI lib for LÖVE
+  <sup>
+   79 GitHub links in total 122 links, ★ 2, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vrld/SUIT">
    SUIT
   </a>
-  <span>
-   &#9733 113, pushed 16 days ago
-  </span>
   - small immediate mode GUI library
+  <sup>
+   79 GitHub links in total 122 links, ★ 113, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 113, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1104,10 +1302,13 @@
   <a href="https://github.com/bjornbytes/cargo">
    cargo
   </a>
-  <span>
-   &#9733 19, pushed 130 days ago
-  </span>
   - Asset manager
+  <sup>
+   79 GitHub links in total 122 links, ★ 19, pushed 130 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 130 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ejmr.github.io/chance.lua/">
@@ -1119,73 +1320,97 @@
   <a href="https://github.com/excessive/i18n">
    i18n
   </a>
-  <span>
-   &#9733 1, pushed 248 days ago
-  </span>
   - Internationalization library designed to help localize your game
+  <sup>
+   79 GitHub links in total 122 links, ★ 1, pushed 248 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 248 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rxi/log.lua">
    log.lua
   </a>
-  <span>
-   &#9733 34, pushed 7 days ago
-  </span>
   - Library for configurable log output
+  <sup>
+   79 GitHub links in total 122 links, ★ 34, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kikito/love-loader">
    love-loader
   </a>
-  <span>
-   &#9733 55, pushed 348 days ago
-  </span>
   - Threaded resource loading
+  <sup>
+   79 GitHub links in total 122 links, ★ 55, pushed 348 days ago
+  </sup>
+  <sup>
+   &#9733 55, pushed 348 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yonaba/love2d-assets-loader">
    love2d-assets-loader
   </a>
-  <span>
-   &#9733 18, pushed 235 days ago
-  </span>
   - Assets Loader
+  <sup>
+   79 GitHub links in total 122 links, ★ 18, pushed 235 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 235 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ejmr/Luvent">
    Luvent
   </a>
-  <span>
-   &#9733 28, pushed 308 days ago
-  </span>
   - Simple event-driven programming
+  <sup>
+   79 GitHub links in total 122 links, ★ 28, pushed 308 days ago
+  </sup>
+  <sup>
+   &#9733 28, pushed 308 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/VideahGams/splashy">
    splashy
   </a>
-  <span>
-   &#9733 6, pushed 228 days ago
-  </span>
   - Splash Screen Library
+  <sup>
+   79 GitHub links in total 122 links, ★ 6, pushed 228 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 228 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tesselode/talkback">
    Talkback
   </a>
-  <span>
-   &#9733 4, pushed 20 days ago
-  </span>
   - Observer pattern library with two-way communication.
+  <sup>
+   79 GitHub links in total 122 links, ★ 4, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bjornbytes/tick">
    tick
   </a>
-  <span>
-   &#9733 6, pushed 130 days ago
-  </span>
   - Useful timing tweaks for LÖVE's run loop.
+  <sup>
+   79 GitHub links in total 122 links, ★ 6, pushed 130 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 130 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -1206,19 +1431,25 @@
   <a href="https://github.com/LewisJEllis/awesome-lua">
    awesome-lua
   </a>
-  <span>
-   &#9733 821, pushed 65 days ago
-  </span>
   - A list like this one, but more general and encompassing all of Lua's uses.
+  <sup>
+   79 GitHub links in total 122 links, ★ 821, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 821, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/karai17/awesome-love-shaders">
    awesome-love-shaders
   </a>
-  <span>
-   &#9733 10, pushed 203 days ago
-  </span>
   - A collection of shaders designed to work in LÖVE.
+  <sup>
+   79 GitHub links in total 122 links, ★ 10, pushed 203 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 203 days ago
+  </sup>
  </li>
 </ul>
 <p>

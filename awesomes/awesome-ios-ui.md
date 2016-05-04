@@ -197,303 +197,305 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/daltoniam/DCAnimationKit/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit"/>
- </a>
+<p>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/daltoniam/DCAnimationKit/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit"/>
+  </a>
   <br>
-   License:
-   <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    Apache v2
-   </a>
-   |
-   <img &gt;="" <a="" <img="" href="https://github.com/poetmountain/PMTween" src="/assets/DCAnimationKit2.gif" width="49%">
-    PMTween
-   </img>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="https://www.apache.org/licenses/LICENSE-2.0">
+     Apache v2
+    </a>
+    |
+    <img &gt;="" <a="" <img="" href="https://github.com/poetmountain/PMTween" src="/assets/DCAnimationKit2.gif" width="49%">
+     PMTween
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/poetmountain/PMTween/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/poetmountain/PMTween"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/poetmountain/PMTween/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/poetmountain/PMTween"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/PMTween1.gif">
-    <img src="/assets/PMTween2.gif">
-     <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController">
-      SAHistoryNavigationViewController
-     </a>
-     <br>
-      <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers">
-       <img alt="" src="http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController"/>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/PMTween1.gif">
+     <img src="/assets/PMTween2.gif">
+      <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController">
+       SAHistoryNavigationViewController
       </a>
       <br>
-       Language: Swift
+       <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers">
+        <img alt="" src="http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController"/>
+       </a>
+       <br>
+        Language: Swift
+        <br>
+         License:
+         <a href="http://opensource.org/licenses/MIT">
+          MIT
+         </a>
+         |
+         <img src="/assets/SAHistoryNavigationViewController1.gif">
+          <a href="https://github.com/inFullMobile/WobbleView">
+           WobbleView
+          </a>
+          <br>
+           <a href="https://github.com/inFullMobile/WobbleView/stargazers">
+            <img alt="" src="http://gh-btns.cjwirth.com/stars/inFullMobile/WobbleView"/>
+           </a>
+           <br>
+            Language: Swift
+            <br>
+             License:
+             <a href="http://opensource.org/licenses/MIT">
+              MIT
+             </a>
+             |
+             <img src="/assets/wobble-view.gif">
+              <a href="https://github.com/callumboddy/CBZSplashView">
+               CBZSplashView
+              </a>
+              <br>
+               <a href="https://github.com/callumboddy/CBZSplashView/stargazers">
+                <img alt="" src="http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView"/>
+               </a>
+               <br>
+                Language: Obj-C
+                <br>
+                 License:
+                 <a href="http://opensource.org/licenses/MIT">
+                  MIT
+                 </a>
+                 |
+                 <img &gt;&lt;="" p="" src="/assets/CBZSplashView1.gif" width="49%">
+                  <h1>
+                   Badges
+                  </h1>
+                  <p>
+                   Repo | Demo
+--- | ---
+                   <a href="https://github.com/cwRichardKim/RKNotificationHub">
+                    RKNotificationHub
+                   </a>
+                   <br>
+                    <a href="https://github.com/cwRichardKim/RKNotificationHub/stargazers">
+                     <img alt="" src="http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub"/>
+                    </a>
+                    <br>
+                     Language: Obj-C
+                     <br>
+                      License:
+                      <a href="http://opensource.org/licenses/MIT">
+                       MIT
+                      </a>
+                      |
+                      <img src="/assets/RKNotificationHub1.gif">
+                       <a href="https://github.com/TanguyAladenise/BBBadgeBarButtonItem">
+                        BBBadgeBarButtonItem
+                       </a>
+                       <br>
+                        <a href="https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers">
+                         <img alt="" src="http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem"/>
+                        </a>
+                        <br>
+                         Language: Obj-C
+                         <br>
+                          License:
+                          <a href="http://opensource.org/licenses/MIT">
+                           MIT
+                          </a>
+                          |
+                          <img src="/assets/BBBadgeBarButtonItem1.png">
+                           <a href="https://github.com/JaviSoto/JSBadgeView">
+                            JSBadgeView
+                           </a>
+                           <br>
+                            <a href="https://github.com/JaviSoto/JSBadgeView/stargazers">
+                             <img alt="" src="http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView"/>
+                            </a>
+                            <br>
+                             Language: Obj-C
+                             <br>
+                              License:
+                              <a href="http://opensource.org/licenses/MIT">
+                               MIT
+                              </a>
+                              |
+                              <img src="/assets/JSBadgeView1.png">
+                               <img src="/assets/JSBadgeView2.png"/>
+                              </img>
+                             </br>
+                            </br>
+                           </br>
+                          </img>
+                         </br>
+                        </br>
+                       </br>
+                      </img>
+                     </br>
+                    </br>
+                   </br>
+                  </p>
+                  <h1>
+                   Calendars
+                  </h1>
+                  <p>
+                   Repo | Demo
+--- | ---
+                   <a href="https://github.com/WenchaoIOS/FSCalendar">
+                    FSCalendar
+                   </a>
+                   <br>
+                    <a href="https://github.com/WenchaoIOS/FSCalendar/stargazers">
+                     <img alt="" src="http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar"/>
+                    </a>
+                    <br>
+                     Language: Obj-C
+                     <br>
+                      License:
+                      <a href="http://opensource.org/licenses/MIT">
+                       MIT
+                      </a>
+                      |
+                      <img src="/assets/FSCalendar1.jpg">
+                       <a href="https://github.com/Glow-Inc/GLCalendarView">
+                        GLCalendarView
+                       </a>
+                       <br>
+                        <a href="https://github.com/Glow-Inc/GLCalendarView/stargazers">
+                         <img alt="" src="http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView"/>
+                        </a>
+                        <br>
+                         Language: Obj-C
+                         <br>
+                          License:
+                          <a href="http://opensource.org/licenses/MIT">
+                           MIT
+                          </a>
+                          |
+                          <img src="/assets/GLCalendarView1.gif">
+                           <a href="https://github.com/jonathantribouharet/JTCalendar">
+                            JTCalendar
+                           </a>
+                           <br>
+                            <a href="https://github.com/jonathantribouharet/JTCalendar/stargazers">
+                             <img alt="" src="http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar"/>
+                            </a>
+                            <br>
+                             Language: Obj-C
+                             <br>
+                              License:
+                              <a href="http://opensource.org/licenses/MIT">
+                               MIT
+                              </a>
+                              |
+                              <img src="/assets/JTCalendar1.gif">
+                               <img src="/assets/JTCalendar2.png"/>
+                              </img>
+                             </br>
+                            </br>
+                           </br>
+                          </img>
+                         </br>
+                        </br>
+                       </br>
+                      </img>
+                     </br>
+                    </br>
+                   </br>
+                  </p>
+                  <h1>
+                   Effects
+                  </h1>
+                  <p>
+                   Repo | Demo
+--- | ---
+                   <a href="https://github.com/Flipboard/FLAnimatedImage">
+                    FLAnimatedImage
+                   </a>
+                   <br>
+                    <a href="https://github.com/Flipboard/FLAnimatedImage/stargazers">
+                     <img alt="" src="http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage"/>
+                    </a>
+                    <br>
+                     Language: Obj-C
+                     <br>
+                      License:
+                      <a href="http://opensource.org/licenses/MIT">
+                       MIT
+                      </a>
+                      |
+                      <img &gt;="" <a="" href="https://github.com/shu223/PulsingHalo" src="/assets/FLAnimatedImage1.gif" width="49%">
+                       PulsingHalo
+                      </img>
+                     </br>
+                    </br>
+                   </br>
+                  </p>
+                 </img>
+                </br>
+               </br>
+              </br>
+             </img>
+            </br>
+           </br>
+          </br>
+         </img>
+        </br>
+       </br>
+      </br>
+     </img>
+    </img>
+   </br>
+  </br>
+ </br>
+ <br>
+  <a href="https://github.com/shu223/PulsingHalo/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo"/>
+  </a>
+  <br>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/PulsingHalo1.gif">
+     <a href="https://github.com/andreamazz/UITextField-Shake">
+      UITextField-Shake
+     </a>
+     <br>
+      <a href="https://github.com/andreamazz/UITextField-Shake/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/andreamazz/UITextField-Shake"/>
+      </a>
+      <br>
+       Language: Obj-C
        <br>
         License:
         <a href="http://opensource.org/licenses/MIT">
          MIT
         </a>
         |
-        <img src="/assets/SAHistoryNavigationViewController1.gif">
-         <a href="https://github.com/inFullMobile/WobbleView">
-          WobbleView
-         </a>
-         <br>
-          <a href="https://github.com/inFullMobile/WobbleView/stargazers">
-           <img alt="" src="http://gh-btns.cjwirth.com/stars/inFullMobile/WobbleView"/>
-          </a>
-          <br>
-           Language: Swift
-           <br>
-            License:
-            <a href="http://opensource.org/licenses/MIT">
-             MIT
-            </a>
-            |
-            <img src="/assets/wobble-view.gif">
-             <a href="https://github.com/callumboddy/CBZSplashView">
-              CBZSplashView
-             </a>
-             <br>
-              <a href="https://github.com/callumboddy/CBZSplashView/stargazers">
-               <img alt="" src="http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView"/>
-              </a>
-              <br>
-               Language: Obj-C
-               <br>
-                License:
-                <a href="http://opensource.org/licenses/MIT">
-                 MIT
-                </a>
-                |
-                <img &gt;<="" p="" src="/assets/CBZSplashView1.gif" width="49%">
-                 <h1>
-                  Badges
-                 </h1>
-                 <p>
-                  Repo | Demo
---- | ---
-                  <a href="https://github.com/cwRichardKim/RKNotificationHub">
-                   RKNotificationHub
-                  </a>
-                  <br>
-                   <a href="https://github.com/cwRichardKim/RKNotificationHub/stargazers">
-                    <img alt="" src="http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub"/>
-                   </a>
-                   <br>
-                    Language: Obj-C
-                    <br>
-                     License:
-                     <a href="http://opensource.org/licenses/MIT">
-                      MIT
-                     </a>
-                     |
-                     <img src="/assets/RKNotificationHub1.gif">
-                      <a href="https://github.com/TanguyAladenise/BBBadgeBarButtonItem">
-                       BBBadgeBarButtonItem
-                      </a>
-                      <br>
-                       <a href="https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers">
-                        <img alt="" src="http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem"/>
-                       </a>
-                       <br>
-                        Language: Obj-C
-                        <br>
-                         License:
-                         <a href="http://opensource.org/licenses/MIT">
-                          MIT
-                         </a>
-                         |
-                         <img src="/assets/BBBadgeBarButtonItem1.png">
-                          <a href="https://github.com/JaviSoto/JSBadgeView">
-                           JSBadgeView
-                          </a>
-                          <br>
-                           <a href="https://github.com/JaviSoto/JSBadgeView/stargazers">
-                            <img alt="" src="http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView"/>
-                           </a>
-                           <br>
-                            Language: Obj-C
-                            <br>
-                             License:
-                             <a href="http://opensource.org/licenses/MIT">
-                              MIT
-                             </a>
-                             |
-                             <img src="/assets/JSBadgeView1.png">
-                              <img src="/assets/JSBadgeView2.png"/>
-                             </img>
-                            </br>
-                           </br>
-                          </br>
-                         </img>
-                        </br>
-                       </br>
-                      </br>
-                     </img>
-                    </br>
-                   </br>
-                  </br>
-                 </p>
-                 <h1>
-                  Calendars
-                 </h1>
-                 <p>
-                  Repo | Demo
---- | ---
-                  <a href="https://github.com/WenchaoIOS/FSCalendar">
-                   FSCalendar
-                  </a>
-                  <br>
-                   <a href="https://github.com/WenchaoIOS/FSCalendar/stargazers">
-                    <img alt="" src="http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar"/>
-                   </a>
-                   <br>
-                    Language: Obj-C
-                    <br>
-                     License:
-                     <a href="http://opensource.org/licenses/MIT">
-                      MIT
-                     </a>
-                     |
-                     <img src="/assets/FSCalendar1.jpg">
-                      <a href="https://github.com/Glow-Inc/GLCalendarView">
-                       GLCalendarView
-                      </a>
-                      <br>
-                       <a href="https://github.com/Glow-Inc/GLCalendarView/stargazers">
-                        <img alt="" src="http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView"/>
-                       </a>
-                       <br>
-                        Language: Obj-C
-                        <br>
-                         License:
-                         <a href="http://opensource.org/licenses/MIT">
-                          MIT
-                         </a>
-                         |
-                         <img src="/assets/GLCalendarView1.gif">
-                          <a href="https://github.com/jonathantribouharet/JTCalendar">
-                           JTCalendar
-                          </a>
-                          <br>
-                           <a href="https://github.com/jonathantribouharet/JTCalendar/stargazers">
-                            <img alt="" src="http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar"/>
-                           </a>
-                           <br>
-                            Language: Obj-C
-                            <br>
-                             License:
-                             <a href="http://opensource.org/licenses/MIT">
-                              MIT
-                             </a>
-                             |
-                             <img src="/assets/JTCalendar1.gif">
-                              <img src="/assets/JTCalendar2.png"/>
-                             </img>
-                            </br>
-                           </br>
-                          </br>
-                         </img>
-                        </br>
-                       </br>
-                      </br>
-                     </img>
-                    </br>
-                   </br>
-                  </br>
-                 </p>
-                 <h1>
-                  Effects
-                 </h1>
-                 <p>
-                  Repo | Demo
---- | ---
-                  <a href="https://github.com/Flipboard/FLAnimatedImage">
-                   FLAnimatedImage
-                  </a>
-                  <br>
-                   <a href="https://github.com/Flipboard/FLAnimatedImage/stargazers">
-                    <img alt="" src="http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage"/>
-                   </a>
-                   <br>
-                    Language: Obj-C
-                    <br>
-                     License:
-                     <a href="http://opensource.org/licenses/MIT">
-                      MIT
-                     </a>
-                     |
-                     <img &gt;="" <a="" href="https://github.com/shu223/PulsingHalo" src="/assets/FLAnimatedImage1.gif" width="49%">
-                      PulsingHalo
-                     </img>
-                    </br>
-                   </br>
-                  </br>
-                 </p>
-                </img>
-               </br>
-              </br>
-             </br>
-            </img>
-           </br>
-          </br>
-         </br>
-        </img>
+        <img src="/assets/UITextField-Shake1.gif"/>
        </br>
       </br>
      </br>
     </img>
-   </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/shu223/PulsingHalo/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo"/>
- </a>
- <br>
-  Language: Obj-C
-  <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/PulsingHalo1.gif">
-    <a href="https://github.com/andreamazz/UITextField-Shake">
-     UITextField-Shake
-    </a>
-    <br>
-     <a href="https://github.com/andreamazz/UITextField-Shake/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/andreamazz/UITextField-Shake"/>
-     </a>
-     <br>
-      Language: Obj-C
-      <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img src="/assets/UITextField-Shake1.gif"/>
-      </br>
-     </br>
-    </br>
-   </img>
-  </br>
- </br>
-</br>
+</p>
 <h1>
  Material Design
 </h1>
@@ -636,136 +638,138 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/KyoheiG3/SimpleAlert/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert"/>
- </a>
+<p>
  <br>
-  Language: Swift
+  <a href="https://github.com/KyoheiG3/SimpleAlert/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/SimpleAlert1.gif">
-    <a href="https://github.com/atljeremy/JFMinimalNotifications">
-     JFMinimalNotifications
+   Language: Swift
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
     </a>
-    <br>
-     <a href="https://github.com/atljeremy/JFMinimalNotifications/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications"/>
+    |
+    <img src="/assets/SimpleAlert1.gif">
+     <a href="https://github.com/atljeremy/JFMinimalNotifications">
+      JFMinimalNotifications
      </a>
      <br>
-      Language: Obj-C
+      <a href="https://github.com/atljeremy/JFMinimalNotifications/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications"/>
+      </a>
       <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img &gt;="" <img="" src="/assets/JFMinimalNotifications3.jpeg" width="49%">
-        <a href="https://github.com/matteogobbi/MGFashionMenuView">
-         MGFashionMenuView
+       Language: Obj-C
+       <br>
+        License:
+        <a href="http://opensource.org/licenses/MIT">
+         MIT
         </a>
-        <br>
-         <a href="https://github.com/matteogobbi/MGFashionMenuView/stargazers">
-          <img alt="" src="http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView"/>
+        |
+        <img &gt;="" <img="" src="/assets/JFMinimalNotifications3.jpeg" width="49%">
+         <a href="https://github.com/matteogobbi/MGFashionMenuView">
+          MGFashionMenuView
          </a>
          <br>
-          Language: Obj-C
+          <a href="https://github.com/matteogobbi/MGFashionMenuView/stargazers">
+           <img alt="" src="http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView"/>
+          </a>
           <br>
-           License:
-           <a href="http://opensource.org/licenses/MIT">
-            MIT
-           </a>
-           |
-           <img src="/assets/MGFashionMenuView1.gif">
-            <a href="https://github.com/jmascia/KLCPopup">
-             KLCPopup
+           Language: Obj-C
+           <br>
+            License:
+            <a href="http://opensource.org/licenses/MIT">
+             MIT
             </a>
-            <br>
-             <a href="https://github.com/jmascia/KLCPopup/stargazers">
-              <img alt="" src="http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup"/>
+            |
+            <img src="/assets/MGFashionMenuView1.gif">
+             <a href="https://github.com/jmascia/KLCPopup">
+              KLCPopup
              </a>
              <br>
-              Language: Obj-C
+              <a href="https://github.com/jmascia/KLCPopup/stargazers">
+               <img alt="" src="http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup"/>
+              </a>
               <br>
-               License:
-               <a href="http://opensource.org/licenses/MIT">
-                MIT
-               </a>
-               |
-               <img &gt;="" <a="" href="https://github.com/m1entus/MZFormSheetController" src="/assets/KLCPopup1.gif" width="49%">
-                MZFormSheetController
-               </img>
+               Language: Obj-C
+               <br>
+                License:
+                <a href="http://opensource.org/licenses/MIT">
+                 MIT
+                </a>
+                |
+                <img &gt;="" <a="" href="https://github.com/m1entus/MZFormSheetController" src="/assets/KLCPopup1.gif" width="49%">
+                 MZFormSheetController
+                </img>
+               </br>
               </br>
              </br>
-            </br>
-           </img>
+            </img>
+           </br>
           </br>
          </br>
-        </br>
-       </img>
+        </img>
+       </br>
       </br>
      </br>
-    </br>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/m1entus/MZFormSheetController/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/m1entus/MZFormSheetController/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;="" <a="" <img="" href="https://github.com/thii/Notie" src="/assets/MZFormSheetController2.gif" width="49%">
-    Notie
-   </img>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img &gt;="" <a="" <img="" href="https://github.com/thii/Notie" src="/assets/MZFormSheetController2.gif" width="49%">
+     Notie
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/thii/Notie/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/thii/Notie"/>
- </a>
  <br>
-  Language: Swift
+  <a href="https://github.com/thii/Notie/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/thii/Notie"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;="" <a="" href="https://github.com/LeoNatan/LNNotificationsUI" src="/assets/Notie1.gif" width="49%">
-    LNNotificationsUI
-   </img>
+   Language: Swift
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img &gt;="" <a="" href="https://github.com/LeoNatan/LNNotificationsUI" src="/assets/Notie1.gif" width="49%">
+     LNNotificationsUI
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/LeoNatan/LNNotificationsUI/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/LeoNatan/LNNotificationsUI"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/LeoNatan/LNNotificationsUI/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/LeoNatan/LNNotificationsUI"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/LNNotificationsUI1.gif"/>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/LNNotificationsUI1.gif"/>
+   </br>
   </br>
  </br>
-</br>
+</p>
 <h1>
  Onboarding and Tutorials
 </h1>
@@ -814,31 +818,71 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/mamaral/Onboard/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/mamaral/Onboard"/>
- </a>
+<p>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/mamaral/Onboard/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/mamaral/Onboard"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;<="" p="" src="/assets/Onboard1.gif" width="49%">
-    <h1>
-     Photo and Video
-    </h1>
-    <p>
-     Repo | Demo
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img &gt;&lt;="" p="" src="/assets/Onboard1.gif" width="49%">
+     <h1>
+      Photo and Video
+     </h1>
+     <p>
+      Repo | Demo
 --- | ---
-     <a href="https://github.com/mwaterfall/MWPhotoBrowser">
-      MWPhotoBrowser
+      <a href="https://github.com/mwaterfall/MWPhotoBrowser">
+       MWPhotoBrowser
+      </a>
+      <br>
+       <a href="https://github.com/mwaterfall/MWPhotoBrowser/stargazers">
+        <img alt="" src="http://gh-btns.cjwirth.com/stars/mwaterfall/MWPhotoBrowser"/>
+       </a>
+       <br>
+        Language: Obj-C
+        <br>
+         License:
+         <a href="http://opensource.org/licenses/MIT">
+          MIT
+         </a>
+         |
+         <img &gt;="" <a="" <img="" href="https://github.com/0xced/XCDYouTubeKit" src="/assets/MWPhotoBrowser4.png" width="49%">
+          XCDYouTubeKit
+         </img>
+        </br>
+       </br>
+      </br>
+     </p>
+    </img>
+   </br>
+  </br>
+ </br>
+ <br>
+  <a href="https://github.com/0xced/XCDYouTubeKit/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/0xced/XCDYouTubeKit"/>
+  </a>
+  <br>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/XCDYouTubeKit1.png">
+     <a href="https://github.com/mariohahn/MHVideoPhotoGallery">
+      MHVideoPhotoGallery
      </a>
      <br>
-      <a href="https://github.com/mwaterfall/MWPhotoBrowser/stargazers">
-       <img alt="" src="http://gh-btns.cjwirth.com/stars/mwaterfall/MWPhotoBrowser"/>
+      <a href="https://github.com/mariohahn/MHVideoPhotoGallery/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery"/>
       </a>
       <br>
        Language: Obj-C
@@ -848,111 +892,73 @@ Inspired by [wasabeef]'s excellent [Android Version].
          MIT
         </a>
         |
-        <img &gt;="" <a="" <img="" href="https://github.com/0xced/XCDYouTubeKit" src="/assets/MWPhotoBrowser4.png" width="49%">
-         XCDYouTubeKit
+        <img &gt;="" <a="" <img="" href="https://github.com/EddyBorja/EBPhotoPages" src="/assets/MHVideoPhotoGallery4.gif" width="49%">
+         EBPhotoPages
         </img>
        </br>
       </br>
      </br>
-    </p>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/0xced/XCDYouTubeKit/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/0xced/XCDYouTubeKit"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/EddyBorja/EBPhotoPages/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/XCDYouTubeKit1.png">
-    <a href="https://github.com/mariohahn/MHVideoPhotoGallery">
-     MHVideoPhotoGallery
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
     </a>
-    <br>
-     <a href="https://github.com/mariohahn/MHVideoPhotoGallery/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery"/>
-     </a>
-     <br>
-      Language: Obj-C
-      <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img &gt;="" <a="" <img="" href="https://github.com/EddyBorja/EBPhotoPages" src="/assets/MHVideoPhotoGallery4.gif" width="49%">
-        EBPhotoPages
-       </img>
-      </br>
-     </br>
-    </br>
-   </img>
+    |
+    <img &gt;="" <a="" <img="" href="https://github.com/autresphere/ASMediaFocusManager" src="/assets/EBPhotoPages4.png" width="49%">
+     ASMediaFocusManager
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/EddyBorja/EBPhotoPages/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/autresphere/ASMediaFocusManager/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/autresphere/ASMediaFocusManager"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;="" <a="" <img="" href="https://github.com/autresphere/ASMediaFocusManager" src="/assets/EBPhotoPages4.png" width="49%">
-    ASMediaFocusManager
-   </img>
-  </br>
- </br>
-</br>
-<br>
- <a href="https://github.com/autresphere/ASMediaFocusManager/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/autresphere/ASMediaFocusManager"/>
- </a>
- <br>
-  Language: Obj-C
-  <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/ASMediaFocusManager1.gif">
-    <img src="/assets/ASMediaFocusManager2.gif">
-     <a href="https://github.com/movielala/VideoSplashKit">
-      VideoSplashKit
-     </a>
-     <br>
-      <a href="https://github.com/movielala/VideoSplashKit/stargazers">
-       <img alt="" src="http://gh-btns.cjwirth.com/stars/movielala/VideoSplashKit"/>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/ASMediaFocusManager1.gif">
+     <img src="/assets/ASMediaFocusManager2.gif">
+      <a href="https://github.com/movielala/VideoSplashKit">
+       VideoSplashKit
       </a>
       <br>
-       Language: Swift
+       <a href="https://github.com/movielala/VideoSplashKit/stargazers">
+        <img alt="" src="http://gh-btns.cjwirth.com/stars/movielala/VideoSplashKit"/>
+       </a>
        <br>
-        License:
-        <a href="http://opensource.org/licenses/MIT">
-         MIT
-        </a>
-        |
-        <img src="/assets/VideoSplash1.gif"/>
+        Language: Swift
+        <br>
+         License:
+         <a href="http://opensource.org/licenses/MIT">
+          MIT
+         </a>
+         |
+         <img src="/assets/VideoSplash1.gif"/>
+        </br>
        </br>
       </br>
-     </br>
+     </img>
     </img>
-   </img>
+   </br>
   </br>
  </br>
-</br>
+</p>
 <h1>
  Progress Views
 </h1>
@@ -1285,62 +1291,64 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/twotoasters/TWTSideMenuViewController/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/twotoasters/TWTSideMenuViewController"/>
- </a>
+<p>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/twotoasters/TWTSideMenuViewController/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/twotoasters/TWTSideMenuViewController"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/TWTSideMenuViewController1.gif">
-    <a href="https://github.com/SocialObjects-Software/AMSlideMenu">
-     AMSlideMenu
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
     </a>
-    <br>
-     <a href="https://github.com/SocialObjects-Software/AMSlideMenu/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu"/>
+    |
+    <img src="/assets/TWTSideMenuViewController1.gif">
+     <a href="https://github.com/SocialObjects-Software/AMSlideMenu">
+      AMSlideMenu
      </a>
      <br>
-      Language: Obj-C
+      <a href="https://github.com/SocialObjects-Software/AMSlideMenu/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu"/>
+      </a>
       <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img src="/assets/AMSlideMenu1.gif">
-        <a href="https://github.com/arn00s/cariocamenu">
-         CariocaMenu
+       Language: Obj-C
+       <br>
+        License:
+        <a href="http://opensource.org/licenses/MIT">
+         MIT
         </a>
-        <br>
-         <a href="https://github.com/arn00s/CariocaMenu/stargazers">
-          <img alt="" src="http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu"/>
+        |
+        <img src="/assets/AMSlideMenu1.gif">
+         <a href="https://github.com/arn00s/cariocamenu">
+          CariocaMenu
          </a>
          <br>
-          Language: Swift
+          <a href="https://github.com/arn00s/CariocaMenu/stargazers">
+           <img alt="" src="http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu"/>
+          </a>
           <br>
-           License:
-           <a href="http://opensource.org/licenses/MIT">
-            MIT
-           </a>
-           |
-           <img src="/assets/cariocamenu.gif"/>
+           Language: Swift
+           <br>
+            License:
+            <a href="http://opensource.org/licenses/MIT">
+             MIT
+            </a>
+            |
+            <img src="/assets/cariocamenu.gif"/>
+           </br>
           </br>
          </br>
-        </br>
-       </img>
+        </img>
+       </br>
       </br>
      </br>
-    </br>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
+</p>
 <h1>
  Tab Bars
 </h1>
@@ -1475,156 +1483,158 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/Augustyniak/RATreeView/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/Augustyniak/RATreeView"/>
- </a>
+<p>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/Augustyniak/RATreeView/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/Augustyniak/RATreeView"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;="" <a="" href="https://github.com/betzerra/MosaicLayout" src="/assets/RATreeView1.gif" width="75%">
-    MosaicLayout
-   </img>
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img &gt;="" <a="" href="https://github.com/betzerra/MosaicLayout" src="/assets/RATreeView1.gif" width="75%">
+     MosaicLayout
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/betzerra/MosaicLayout/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/betzerra/MosaicLayout"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/betzerra/MosaicLayout/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/betzerra/MosaicLayout"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/MosaicLayout1.png">
-    <a href="https://github.com/damirstuhec/DSDynamicScrollView">
-     DSDynamicScrollView
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
     </a>
-    <br>
-     <a href="https://github.com/damirstuhec/DSDynamicScrollView/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/damirstuhec/DSDynamicScrollView"/>
+    |
+    <img src="/assets/MosaicLayout1.png">
+     <a href="https://github.com/damirstuhec/DSDynamicScrollView">
+      DSDynamicScrollView
      </a>
      <br>
-      Language: Obj-C
+      <a href="https://github.com/damirstuhec/DSDynamicScrollView/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/damirstuhec/DSDynamicScrollView"/>
+      </a>
       <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img src="/assets/DSDynamicScrollView1.gif">
-        <a href="https://github.com/jamztang/CSStickyHeaderFlowLayout">
-         CSStickyHeaderFlowLayout
+       Language: Obj-C
+       <br>
+        License:
+        <a href="http://opensource.org/licenses/MIT">
+         MIT
         </a>
-        <br>
-         <a href="https://github.com/jamztang/CSStickyHeaderFlowLayout/stargazers">
-          <img alt="" src="http://gh-btns.cjwirth.com/stars/jamztang/CSStickyHeaderFlowLayout"/>
+        |
+        <img src="/assets/DSDynamicScrollView1.gif">
+         <a href="https://github.com/jamztang/CSStickyHeaderFlowLayout">
+          CSStickyHeaderFlowLayout
          </a>
          <br>
-          Language: Obj-C
+          <a href="https://github.com/jamztang/CSStickyHeaderFlowLayout/stargazers">
+           <img alt="" src="http://gh-btns.cjwirth.com/stars/jamztang/CSStickyHeaderFlowLayout"/>
+          </a>
           <br>
-           License:
-           <a href="http://opensource.org/licenses/MIT">
-            MIT
-           </a>
-           |
-           <img &gt;="" <a="" <img="" href="https://github.com/bryankeller/BLKFlexibleHeightBar" src="/assets/CSStickyHeaderFlowLayout3.gif" width="49%">
-            BLKFlexibleHeightBar
-           </img>
+           Language: Obj-C
+           <br>
+            License:
+            <a href="http://opensource.org/licenses/MIT">
+             MIT
+            </a>
+            |
+            <img &gt;="" <a="" <img="" href="https://github.com/bryankeller/BLKFlexibleHeightBar" src="/assets/CSStickyHeaderFlowLayout3.gif" width="49%">
+             BLKFlexibleHeightBar
+            </img>
+           </br>
           </br>
          </br>
-        </br>
-       </img>
+        </img>
+       </br>
       </br>
      </br>
-    </br>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
-<br>
- <a href="https://github.com/bryankeller/BLKFlexibleHeightBar/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/bryankeller/BLKFlexibleHeightBar"/>
- </a>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/bryankeller/BLKFlexibleHeightBar/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/bryankeller/BLKFlexibleHeightBar"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img &gt;="" <a="" <img="" href="https://github.com/szk-atmosphere/SAParallaxViewControllerSwift" src="/assets/BLKFlexibleHeightBar2.gif" width="49%">
-    SAParallaxViewControllerSwift
-   </img>
-  </br>
- </br>
-</br>
-<br>
- <a href="https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift"/>
- </a>
- <br>
-  Language: Swift
-  <br>
-   License:
-   <a href="http://opensource.org/licenses/MIT">
-    MIT
-   </a>
-   |
-   <img src="/assets/SAParallaxViewControllerSwift1.gif">
-    <a href="https://github.com/matteogobbi/MGSpotyViewController">
-     MGSpotyViewController
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
     </a>
-    <br>
-     <a href="https://github.com/matteogobbi/MGSpotyViewController/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController"/>
+    |
+    <img &gt;="" <a="" <img="" href="https://github.com/szk-atmosphere/SAParallaxViewControllerSwift" src="/assets/BLKFlexibleHeightBar2.gif" width="49%">
+     SAParallaxViewControllerSwift
+    </img>
+   </br>
+  </br>
+ </br>
+ <br>
+  <a href="https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift"/>
+  </a>
+  <br>
+   Language: Swift
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/MIT">
+     MIT
+    </a>
+    |
+    <img src="/assets/SAParallaxViewControllerSwift1.gif">
+     <a href="https://github.com/matteogobbi/MGSpotyViewController">
+      MGSpotyViewController
      </a>
      <br>
-      Language: Obj-C
+      <a href="https://github.com/matteogobbi/MGSpotyViewController/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController"/>
+      </a>
       <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img src="/assets/MGSpotyViewController1.gif">
-        <a href="https://github.com/ra1028/RAReorderableLayout">
-         RAReorderableLayout
+       Language: Obj-C
+       <br>
+        License:
+        <a href="http://opensource.org/licenses/MIT">
+         MIT
         </a>
-        <br>
-         <a href="https://github.com/ra1028/RAReorderableLayout/stargazers">
-          <img alt="" src="http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout"/>
+        |
+        <img src="/assets/MGSpotyViewController1.gif">
+         <a href="https://github.com/ra1028/RAReorderableLayout">
+          RAReorderableLayout
          </a>
          <br>
-          Language: Swift
+          <a href="https://github.com/ra1028/RAReorderableLayout/stargazers">
+           <img alt="" src="http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout"/>
+          </a>
           <br>
-           License:
-           <a href="http://opensource.org/licenses/MIT">
-            MIT
-           </a>
-           |
-           <img src="/assets/RAReorderableLayout1.gif"/>
+           Language: Swift
+           <br>
+            License:
+            <a href="http://opensource.org/licenses/MIT">
+             MIT
+            </a>
+            |
+            <img src="/assets/RAReorderableLayout1.gif"/>
+           </br>
           </br>
          </br>
-        </br>
-       </img>
+        </img>
+       </br>
       </br>
      </br>
-    </br>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
+</p>
 <h1>
  User Input
 </h1>
@@ -1753,39 +1763,41 @@ Inspired by [wasabeef]'s excellent [Android Version].
   </br>
  </br>
 </p>
-<br>
- <a href="https://github.com/skywinder/ActionSheetPicker-3.0/stargazers">
-  <img alt="" src="http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0"/>
- </a>
+<p>
  <br>
-  Language: Obj-C
+  <a href="https://github.com/skywinder/ActionSheetPicker-3.0/stargazers">
+   <img alt="" src="http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0"/>
+  </a>
   <br>
-   License:
-   <a href="http://opensource.org/licenses/BSD-3-Clause">
-    BSD-3
-   </a>
-   |
-   <img src="/assets/ActionSheetPicker3.gif">
-    <a href="https://github.com/hanton/HTYTextField">
-     HTYTextField
+   Language: Obj-C
+   <br>
+    License:
+    <a href="http://opensource.org/licenses/BSD-3-Clause">
+     BSD-3
     </a>
-    <br>
-     <a href="https://github.com/hanton/HTYTextField/stargazers">
-      <img alt="" src="http://gh-btns.cjwirth.com/stars/hanton/HTYTextField"/>
+    |
+    <img src="/assets/ActionSheetPicker3.gif">
+     <a href="https://github.com/hanton/HTYTextField">
+      HTYTextField
      </a>
      <br>
-      Language: Swift
+      <a href="https://github.com/hanton/HTYTextField/stargazers">
+       <img alt="" src="http://gh-btns.cjwirth.com/stars/hanton/HTYTextField"/>
+      </a>
       <br>
-       License:
-       <a href="http://opensource.org/licenses/MIT">
-        MIT
-       </a>
-       |
-       <img src="/assets/HTYTextField1.gif"/>
+       Language: Swift
+       <br>
+        License:
+        <a href="http://opensource.org/licenses/MIT">
+         MIT
+        </a>
+        |
+        <img src="/assets/HTYTextField1.gif"/>
+       </br>
       </br>
      </br>
-    </br>
-   </img>
+    </img>
+   </br>
   </br>
  </br>
-</br>
+</p>

@@ -129,9 +129,9 @@
   <a href="https://github.com/adobe-accessibility/Accessible-Mega-Menu">
    Accessible Mega Menu
   </a>
-  <span>
+  <sup>
    &#9733 364, pushed 292 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://a11yweekly.com/">
@@ -354,9 +354,9 @@
   <a href="https://github.com/a11yproject/a11yproject.com">
    A11yProject
   </a>
-  <span>
+  <sup>
    &#9733 973, pushed 15 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://a11ywins.tumblr.com/">

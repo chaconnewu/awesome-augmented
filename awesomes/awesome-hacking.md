@@ -238,19 +238,25 @@
   <a href="https://github.com/rapid7/metasploit-framework">
    Metasploit
   </a>
-  <span>
-   &#9733 5688, pushed 3 days ago
-  </span>
   A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+  <sup>
+   9 GitHub links in total 99 links, ★ 5688, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 5688, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gentilkiwi/mimikatz">
    mimikatz
   </a>
-  <span>
-   &#9733 1826, pushed 3 days ago
-  </span>
   - A little tool to play with Windows security
+  <sup>
+   9 GitHub links in total 99 links, ★ 1826, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1826, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -318,10 +324,13 @@
   <a href="https://github.com/pxb1988/dex2jar">
    dex2jar
   </a>
-  <span>
-   &#9733 1628, pushed 9 days ago
-  </span>
   - Tools to work with android .dex and java .class files
+  <sup>
+   9 GitHub links in total 99 links, ★ 1628, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1628, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://jd.benow.ca/">
@@ -357,10 +366,13 @@
   <a href="https://github.com/radare/radare2">
    radare2
   </a>
-  <span>
-   &#9733 2602, pushed 1 days ago
-  </span>
   - A portable reversing framework
+  <sup>
+   9 GitHub links in total 99 links, ★ 2602, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2602, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <p>
@@ -396,10 +408,13 @@
   <a href="https://github.com/sqlmapproject/sqlmap">
    sqlmap
   </a>
-  <span>
-   &#9733 5899, pushed 4 days ago
-  </span>
   - Automatic SQL injection and database takeover tool
+  <sup>
+   9 GitHub links in total 99 links, ★ 5899, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5899, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tools.web-max.ca/encode_decode.php">
@@ -451,10 +466,13 @@
   <a href="https://github.com/rafael-santiago/pig">
    pig
   </a>
-  <span>
-   &#9733 236, pushed 2 days ago
-  </span>
   - A Linux packet crafting tool
+  <sup>
+   9 GitHub links in total 99 links, ★ 236, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 236, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">
@@ -472,10 +490,13 @@
   <a href="https://github.com/Akdeniz/mitmsocks4j">
    mitmsocks4j
   </a>
-  <span>
-   &#9733 16, pushed 1174 days ago
-  </span>
   - Man in the Middle SOCKS Proxy for JAVA
+  <sup>
+   9 GitHub links in total 99 links, ★ 16, pushed 1174 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 1174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://nmap.org/">
@@ -519,10 +540,13 @@
   <a href="https://github.com/sleuthkit/sleuthkit">
    sleuthkit
   </a>
-  <span>
-   &#9733 618, pushed 5 days ago
-  </span>
   - A library and collection of command line digital forensics tools
+  <sup>
+   9 GitHub links in total 99 links, ★ 618, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 618, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx">
@@ -572,10 +596,13 @@
   <a href="https://github.com/hellman/xortool">
    xortool
   </a>
-  <span>
-   &#9733 314, pushed 566 days ago
-  </span>
   - A tool to analyze multi-byte xor cipher
+  <sup>
+   9 GitHub links in total 99 links, ★ 314, pushed 566 days ago
+  </sup>
+  <sup>
+   &#9733 314, pushed 566 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openwall.com/john/">

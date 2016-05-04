@@ -623,55 +623,73 @@
   <a href="https://github.com/jveres/D500px">
    500px Gallery Demo
   </a>
-  <span>
-   &#9733 18, pushed 48 days ago
-  </span>
   - Nifty gallery demo app using 500px API.
+  <sup>
+   31 GitHub links in total 102 links, ★ 18, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sanderdan/CSGOTimer">
    CSGOTimer
   </a>
-  <span>
-   &#9733 0, pushed 58 days ago
-  </span>
   - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sanderdan/FormulaFuse">
    FormulaFuse
   </a>
-  <span>
-   &#9733 0, pushed 22 days ago
-  </span>
   - Formula 1 Fuse application.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fusepm">
    Fuse PM
   </a>
-  <span>
-   &#9733 2, pushed 23 days ago
-  </span>
   - A Fusetools package manager.
+  <sup>
+   31 GitHub links in total 102 links, ★ 2, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fusetools/fuse-samples">
    Fuse Samples
   </a>
-  <span>
-   &#9733 40, pushed 6 days ago
-  </span>
   - A collection of smaller examples using the various features of Fuse and FuseJS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 40, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/offwings/Fuse-Tags-with-Firebase">
    Fuse Tags with Firebase
   </a>
-  <span>
-   &#9733 5, pushed 50 days ago
-  </span>
   - Simple Tags app. Adds and retrieves tags from Firebase.
+  <sup>
+   31 GitHub links in total 102 links, ★ 5, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="http://tmn.github.io/FuseBus/">
@@ -683,46 +701,61 @@
   <a href="https://github.com/joms/gulp-fuse">
    Gulp Procedure
   </a>
-  <span>
-   &#9733 1, pushed 154 days ago
-  </span>
   - Gulp-procedure for Fuse compiling ES6 into ES5.
+  <sup>
+   31 GitHub links in total 102 links, ★ 1, pushed 154 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 154 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sebbert/fuse-gulp-rollup-babel">
    Gulp Rollup Babel
   </a>
-  <span>
-   &#9733 1, pushed 68 days ago
-  </span>
   - An alternative example of module bundling and ES6 -> ES5 transpiling.
+  <sup>
+   31 GitHub links in total 102 links, ★ 1, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fusetools/handbook-docs">
    Handbook
   </a>
-  <span>
-   &#9733 23, pushed 1 days ago
-  </span>
   - The official Fuse documentation repository.
+  <sup>
+   31 GitHub links in total 102 links, ★ 23, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elsassph/fusetools-haxe">
    Haxe
   </a>
-  <span>
-   &#9733 24, pushed 197 days ago
-  </span>
   - Haxe compiler for Fuse tools.
+  <sup>
+   31 GitHub links in total 102 links, ★ 24, pushed 197 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 197 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Syncano/syncano-fuse-example">
    Syncano
   </a>
-  <span>
-   &#9733 3, pushed 139 days ago
-  </span>
   - Simple example of integration Syncano with Fuse.
+  <sup>
+   31 GitHub links in total 102 links, ★ 3, pushed 139 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 139 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -733,127 +766,169 @@
   <a href="https://github.com/bolav/fuse-cachingimagesource">
    Caching Image Source
   </a>
-  <span>
-   &#9733 0, pushed 22 days ago
-  </span>
   - A caching image source package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-camerapanel">
    Camera Panel
   </a>
-  <span>
-   &#9733 6, pushed 21 days ago
-  </span>
   - A camera panel package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 6, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-contacts">
    Contacts
   </a>
-  <span>
-   &#9733 0, pushed 19 days ago
-  </span>
   - A package to use phones contacts on iOS and Android.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-cocoapods">
    CocoaPods
   </a>
-  <span>
-   &#9733 0, pushed 26 days ago
-  </span>
   - A CocoaPods package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-datepicker">
    Date Picker
   </a>
-  <span>
-   &#9733 0, pushed 22 days ago
-  </span>
   - A date picker component package for iOS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-facebook-login">
    Facebook Login
   </a>
-  <span>
-   &#9733 13, pushed 2 days ago
-  </span>
   - A Facebook login package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 13, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-gallery">
    Gallery
   </a>
-  <span>
-   &#9733 5, pushed 17 days ago
-  </span>
   - Package to get images from the gallery on Android and iOS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 5, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-homescreen">
    HomeScreen
   </a>
-  <span>
-   &#9733 0, pushed 10 days ago
-  </span>
   - An homescreen action package for the Android.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-modalview">
    Modal
   </a>
-  <span>
-   &#9733 2, pushed 22 days ago
-  </span>
   - A modal alert component package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 2, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/torial/fuse-community">
    One-time Password
   </a>
-  <span>
-   &#9733 4, pushed 59 days ago
-  </span>
   - A Sha1, HmacSha1, and OneTimePassword package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 4, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-sqlite">
    SQLite
   </a>
-  <span>
-   &#9733 19, pushed 20 days ago
-  </span>
   - A SQLite component package for preview, Android and iOS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 19, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-testfairy">
    TestFairy
   </a>
-  <span>
-   &#9733 0, pushed 21 days ago
-  </span>
   - A TestFairy package for iOS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-touchid">
    TouchID
   </a>
-  <span>
-   &#9733 4, pushed 21 days ago
-  </span>
   - A package to use TouchID on iOS.
+  <sup>
+   31 GitHub links in total 102 links, ★ 4, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-youtube">
    YouTube
   </a>
-  <span>
-   &#9733 0, pushed 16 days ago
-  </span>
   - A YouTube component package.
+  <sup>
+   31 GitHub links in total 102 links, ★ 0, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -864,55 +939,73 @@
   <a href="https://github.com/Hazealign/fuse-alfred-workflow">
    Alfred Workflow
   </a>
-  <span>
-   &#9733 1, pushed 62 days ago
-  </span>
   - Integrate Fuse on Alfred.
+  <sup>
+   31 GitHub links in total 102 links, ★ 1, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fusetools/Fuse.AtomPlugin">
    Atom
   </a>
-  <span>
-   &#9733 22, pushed 35 days ago
-  </span>
   - Atom Editor plugin for Fuse.
+  <sup>
+   31 GitHub links in total 102 links, ★ 22, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fusetools/UnoBashCompletion">
    Bash Completion
   </a>
-  <span>
-   &#9733 2, pushed 382 days ago
-  </span>
   - Simple bash completion script for UNO.
+  <sup>
+   31 GitHub links in total 102 links, ★ 2, pushed 382 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 382 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kristianhasselknippe/fuse-mode">
    Emacs
   </a>
-  <span>
-   &#9733 2, pushed 65 days ago
-  </span>
   - Emacs plugin for Fuse.
+  <sup>
+   31 GitHub links in total 102 links, ★ 2, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fusetools/Fuse.SublimePlugin">
    Sublime
   </a>
-  <span>
-   &#9733 18, pushed 19 days ago
-  </span>
   - Sublime Text 3 plugin for Fuse.
+  <sup>
+   31 GitHub links in total 102 links, ★ 18, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Hazealign/vscode-fuse">
    Visual Studio Code
   </a>
-  <span>
-   &#9733 23, pushed 198 days ago
-  </span>
   - Fuse Helper for Visual Studio Code.
+  <sup>
+   31 GitHub links in total 102 links, ★ 23, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 198 days ago
+  </sup>
  </li>
 </ul>
 <h2>

@@ -316,7 +316,6 @@ U+1F3FB | EMOJI MODIFIER FITZPATRICK TYPE-1-2 |
   NO-BREAK SPACE - force adjacent
 characters to stick together. Well known as
   <code>
-   &nbsp;
   </code>
   in HTML.
  </li>
@@ -326,7 +325,7 @@ characters to stick together. Well known as
   </a>
   SOFT HYPHEN - (in HTML:
   <code>
-   &shy;
+   ­
   </code>
   )
 like ZERO WIDTH SPACE, but show a hyphen if (and only if) a break occurs.
@@ -386,7 +385,9 @@ different types of whitespace.
   <a href="https://codepoints.net/U+0000">
    U+0000
   </a>
-  <control> - first code point.
+  <control>
+   - first code point.
+  </control>
  </li>
  <li>
   <a href="https://codepoints.net/U+EFFFF">

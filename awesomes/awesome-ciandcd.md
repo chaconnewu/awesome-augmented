@@ -503,10 +503,13 @@
   <a href="https://github.com/jedi4ever/veewee">
    veewee
   </a>
-  <span>
-   &#9733 3909, pushed 4 days ago
-  </span>
   Easing the building of vagrant boxes
+  <sup>
+   1 GitHub links in total 29 links, ★ 3909, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3909, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>

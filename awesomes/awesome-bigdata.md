@@ -243,10 +243,13 @@
   <a href="https://github.com/caskdata/tigon">
    Tigon
   </a>
-  <span>
-   &#9733 221, pushed 213 days ago
-  </span>
   - High Throughput Real-time Stream Processing Framework.
+  <sup>
+   96 GitHub links in total 480 links, ★ 221, pushed 214 days ago
+  </sup>
+  <sup>
+   &#9733 221, pushed 214 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -257,10 +260,13 @@
   <a href="https://github.com/addthis/hydra">
    AddThis Hydra
   </a>
-  <span>
-   &#9733 333, pushed 4 days ago
-  </span>
   - distributed data processing and storage system originally developed at AddThis.
+  <sup>
+   96 GitHub links in total 480 links, ★ 333, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 333, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://databricks.github.io/simr/">
@@ -386,19 +392,25 @@
   <a href="https://github.com/damballa/parkour">
    Damballa Parkour
   </a>
-  <span>
-   &#9733 249, pushed 41 days ago
-  </span>
   - MapReduce library for Clojure.
+  <sup>
+   96 GitHub links in total 480 links, ★ 249, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 249, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/datasalt/pangool">
    Datasalt Pangool
   </a>
-  <span>
-   &#9733 60, pushed 327 days ago
-  </span>
   - alternative MapReduce paradigm.
+  <sup>
+   96 GitHub links in total 480 links, ★ 60, pushed 327 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 327 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.datatorrent.com/">
@@ -464,10 +476,13 @@
   <a href="https://github.com/Netflix/PigPen">
    Netflix PigPen
   </a>
-  <span>
-   &#9733 419, pushed 8 days ago
-  </span>
   - map-reduce for Clojure which compiles to Apache Pig.
+  <sup>
+   96 GitHub links in total 480 links, ★ 419, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 419, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://discoproject.org/">
@@ -515,28 +530,37 @@
   <a href="https://github.com/UnderstandLingBV/Tuktu">
    Tuktu
   </a>
-  <span>
-   &#9733 17, pushed 2 days ago
-  </span>
   - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
+  <sup>
+   96 GitHub links in total 480 links, ★ 17, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/scalding">
    Twitter Scalding
   </a>
-  <span>
-   &#9733 2496, pushed 5 days ago
-  </span>
   - Scala library for Map Reduce jobs, built on Cascading.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2496, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2496, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/summingbird">
    Twitter Summingbird
   </a>
-  <span>
-   &#9733 1706, pushed 87 days ago
-  </span>
   - Streaming MapReduce with Scalding and Storm, by Twitter.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1706, pushed 87 days ago
+  </sup>
+  <sup>
+   &#9733 1706, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://blog.twitter.com/2014/tsar-a-timeseries-aggregator">
@@ -625,10 +649,13 @@
   <a href="https://github.com/chrislusf/seaweedfs">
    Seaweed-FS
   </a>
-  <span>
-   &#9733 2415, pushed 5 days ago
-  </span>
   - simple and highly scalable distributed file system.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2415, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 2415, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.alluxio.org/">
@@ -792,10 +819,13 @@
   <a href="https://github.com/caskdata/tephra">
    Tephra
   </a>
-  <span>
-   &#9733 125, pushed 7 days ago
-  </span>
   - Transactions for HBase.
+  <sup>
+   96 GitHub links in total 480 links, ★ 125, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 125, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale">
@@ -830,10 +860,13 @@
   <a href="https://github.com/nathanmarz/elephantdb">
    ElephantDB
   </a>
-  <span>
-   &#9733 491, pushed 676 days ago
-  </span>
   - Distributed database specialized in exporting data from Hadoop.
+  <sup>
+   96 GitHub links in total 480 links, ★ 491, pushed 676 days ago
+  </sup>
+  <sup>
+   &#9733 491, pushed 676 days ago
+  </sup>
  </li>
  <li>
   <a href="https://geteventstore.com/">
@@ -845,10 +878,13 @@
   <a href="https://github.com/griddb/griddb_nosql">
    GridDB
   </a>
-  <span>
-   &#9733 256, pushed 62 days ago
-  </span>
   - suitable for sensor data stored in a timeseries.
+  <sup>
+   96 GitHub links in total 480 links, ★ 256, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 256, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/linkedin-sna/sna-page/tree/master/krati">
@@ -878,46 +914,61 @@
   <a href="https://github.com/basho/riak">
    Riak
   </a>
-  <span>
-   &#9733 2467, pushed 4 days ago
-  </span>
   - a decentralized datastore.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2467, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2467, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/storehaus">
    Storehaus
   </a>
-  <span>
-   &#9733 369, pushed 14 days ago
-  </span>
   - library to work with asynchronous key value stores, by Twitter.
+  <sup>
+   96 GitHub links in total 480 links, ★ 369, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 369, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tarantool/tarantool">
    Tarantool
   </a>
-  <span>
-   &#9733 939, pushed 2 days ago
-  </span>
   - an efficient NoSQL database and a Lua application server.
+  <sup>
+   96 GitHub links in total 480 links, ★ 939, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 939, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pingcap/tikv">
    TiKV
   </a>
-  <span>
-   &#9733 600, pushed 1 days ago
-  </span>
   - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+  <sup>
+   96 GitHub links in total 480 links, ★ 600, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 600, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Treode/store">
    TreodeDB
   </a>
-  <span>
-   &#9733 157, pushed 185 days ago
-  </span>
   - key-value store that's replicated and sharded and provides atomic multirow writes.
+  <sup>
+   96 GitHub links in total 480 links, ★ 157, pushed 185 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 185 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -946,10 +997,13 @@
   <a href="https://github.com/dgraph-io/dgraph">
    DGraph
   </a>
-  <span>
-   &#9733 1137, pushed 1 days ago
-  </span>
   - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1137, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1137, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920">
@@ -961,19 +1015,25 @@
   <a href="https://github.com/GovernmentCommunicationsHeadquarters/Gaffer">
    GCHQ Gaffer
   </a>
-  <span>
-   &#9733 1163, pushed 2 days ago
-  </span>
   - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1163, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1163, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/cayley">
    Google Cayley
   </a>
-  <span>
-   &#9733 7409, pushed 8 days ago
-  </span>
   - open-source graph database.
+  <sup>
+   96 GitHub links in total 480 links, ★ 7409, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 7409, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kowshik.github.io/JPregel/pregel_paper.pdf">
@@ -997,19 +1057,25 @@
   <a href="https://github.com/tinkerpop/gremlin">
    Gremlin
   </a>
-  <span>
-   &#9733 1493, pushed 91 days ago
-  </span>
   - graph traversal Language.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1493, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 1493, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/paulhoule/infovore">
    Infovore
   </a>
-  <span>
-   &#9733 130, pushed 504 days ago
-  </span>
   - RDF-centric Map/Reduce framework.
+  <sup>
+   96 GitHub links in total 480 links, ★ 130, pushed 504 days ago
+  </sup>
+  <sup>
+   &#9733 130, pushed 504 days ago
+  </sup>
  </li>
  <li>
   <a href="https://01.org/graphbuilder/">
@@ -1039,10 +1105,13 @@
   <a href="https://github.com/xslogic/phoebus">
    Phoebus
   </a>
-  <span>
-   &#9733 363, pushed 1570 days ago
-  </span>
   - framework for large scale graph processing.
+  <sup>
+   96 GitHub links in total 480 links, ★ 363, pushed 1570 days ago
+  </sup>
+  <sup>
+   &#9733 363, pushed 1570 days ago
+  </sup>
  </li>
  <li>
   <a href="http://thinkaurelius.github.io/titan/">
@@ -1054,10 +1123,13 @@
   <a href="https://github.com/twitter/flockdb">
    Twitter FlockDB
   </a>
-  <span>
-   &#9733 2814, pushed 216 days ago
-  </span>
   - distributed graph database.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2814, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 2814, pushed 216 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1161,10 +1233,13 @@
   <a href="https://github.com/cockroachdb/cockroach">
    Cockroach
   </a>
-  <span>
-   &#9733 6802, pushed 1 days ago
-  </span>
   - Scalable, Geo-Replicated, Transactional Datastore.
+  <sup>
+   96 GitHub links in total 480 links, ★ 6802, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6802, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.datomic.com/">
@@ -1200,10 +1275,13 @@
   <a href="https://github.com/VCNC/haeinsa">
    Haeinsa
   </a>
-  <span>
-   &#9733 122, pushed 33 days ago
-  </span>
   - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
+  <sup>
+   96 GitHub links in total 480 links, ★ 122, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html">
@@ -1275,10 +1353,13 @@
   <a href="https://github.com/pingcap/tidb">
    TiDB
   </a>
-  <span>
-   &#9733 3878, pushed 3 days ago
-  </span>
   - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3878, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 3878, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://voltdb.com/">
@@ -1503,10 +1584,13 @@
   <a href="https://github.com/facebookarchive/scribe">
    Facebook Scribe
   </a>
-  <span>
-   &#9733 3236, pushed 707 days ago
-  </span>
   - streamed log data aggregator.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3236, pushed 707 days ago
+  </sup>
+  <sup>
+   &#9733 3236, pushed 707 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.fluentd.org">
@@ -1524,19 +1608,25 @@
   <a href="https://github.com/mozilla-services/heka">
    Heka
   </a>
-  <span>
-   &#9733 3045, pushed 3 days ago
-  </span>
   - open source stream processing software system.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3045, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3045, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sonalgoyal/hiho">
    HIHO
   </a>
-  <span>
-   &#9733 76, pushed 1118 days ago
-  </span>
   - framework for connecting disparate data sources with Hadoop.
+  <sup>
+   96 GitHub links in total 480 links, ★ 76, pushed 1118 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 1118 days ago
+  </sup>
  </li>
  <li>
   <a href="http://robey.github.io/kestrel/">
@@ -1554,19 +1644,25 @@
   <a href="https://github.com/linkedin/kamikaze">
    LinkedIn Kamikaze
   </a>
-  <span>
-   &#9733 19, pushed 788 days ago
-  </span>
   - utility package for compressing sorted integer arrays.
+  <sup>
+   96 GitHub links in total 480 links, ★ 19, pushed 788 days ago
+  </sup>
+  <sup>
+   &#9733 19, pushed 788 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/linkedin/white-elephant">
    LinkedIn White Elephant
   </a>
-  <span>
-   &#9733 171, pushed 917 days ago
-  </span>
   - log aggregator and dashboard.
+  <sup>
+   96 GitHub links in total 480 links, ★ 171, pushed 917 days ago
+  </sup>
+  <sup>
+   &#9733 171, pushed 917 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.elastic.co/products/logstash">
@@ -1578,46 +1674,61 @@
   <a href="https://github.com/Netflix/suro">
    Netflix Suro
   </a>
-  <span>
-   &#9733 503, pushed 144 days ago
-  </span>
   - log agregattor like Storm and Samza based on Chukwa.
+  <sup>
+   96 GitHub links in total 480 links, ★ 503, pushed 144 days ago
+  </sup>
+  <sup>
+   &#9733 503, pushed 144 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pinterest/secor">
    Pinterest Secor
   </a>
-  <span>
-   &#9733 615, pushed 1 days ago
-  </span>
   - is a service implementing Kafka log persistance.
+  <sup>
+   96 GitHub links in total 480 links, ★ 615, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 615, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/linkedin/gobblin">
    Linkedin Gobblin
   </a>
-  <span>
-   &#9733 545, pushed 0 days ago
-  </span>
   - linkedin's universal data ingestion framework.
+  <sup>
+   96 GitHub links in total 480 links, ★ 545, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 545, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skizzehq/skizze">
    Skizze
   </a>
-  <span>
-   &#9733 689, pushed 1 days ago
-  </span>
   - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
+  <sup>
+   96 GitHub links in total 480 links, ★ 689, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 689, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/streamsets/datacollector">
    StreamSets Data Collector
   </a>
-  <span>
-   &#9733 98, pushed 1 days ago
-  </span>
   - continuous big data ingest infrastructure with a simple to use IDE.
+  <sup>
+   96 GitHub links in total 480 links, ★ 98, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 98, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1688,28 +1799,37 @@
   <a href="https://github.com/spotify/luigi">
    Spotify Luigi
   </a>
-  <span>
-   &#9733 4510, pushed 1 days ago
-  </span>
   - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+  <sup>
+   96 GitHub links in total 480 links, ★ 4510, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4510, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spring-projects/spring-xd">
    Spring XD
   </a>
-  <span>
-   &#9733 366, pushed 27 days ago
-  </span>
   - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
+  <sup>
+   96 GitHub links in total 480 links, ★ 366, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 366, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/elephant-bird">
    Twitter Elephant Bird
   </a>
-  <span>
-   &#9733 962, pushed 29 days ago
-  </span>
   - libraries for working with LZOP-compressed data.
+  <sup>
+   96 GitHub links in total 480 links, ★ 962, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 962, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://twitter.github.io/finagle/">
@@ -1756,28 +1876,37 @@
   <a href="https://github.com/ottogroup/schedoscope">
    Schedoscope
   </a>
-  <span>
-   &#9733 36, pushed 4 days ago
-  </span>
   - Scala DSL for agile scheduling of Hadoop jobs.
+  <sup>
+   96 GitHub links in total 480 links, ★ 36, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/radlab/sparrow">
    Sparrow
   </a>
-  <span>
-   &#9733 197, pushed 907 days ago
-  </span>
   - scheduling platform.
+  <sup>
+   96 GitHub links in total 480 links, ★ 197, pushed 907 days ago
+  </sup>
+  <sup>
+   &#9733 197, pushed 907 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/airbnb/airflow">
    Airflow
   </a>
-  <span>
-   &#9733 2594, pushed 2 days ago
-  </span>
   -  a platform to programmatically author, schedule and monitor workflows.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2594, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2594, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1794,19 +1923,25 @@
   <a href="https://github.com/harthur/brain">
    brain
   </a>
-  <span>
-   &#9733 6952, pushed 186 days ago
-  </span>
   - Neural networks in JavaScript.
+  <sup>
+   96 GitHub links in total 480 links, ★ 6952, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 6952, pushed 186 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cloudera/oryx">
    Cloudera Oryx
   </a>
-  <span>
-   &#9733 1303, pushed 45 days ago
-  </span>
   - real-time large-scale machine learning.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1303, pushed 45 days ago
+  </sup>
+  <sup>
+   &#9733 1303, pushed 45 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cascading.org/projects/pattern/">
@@ -1818,19 +1953,25 @@
   <a href="https://github.com/karpathy/convnetjs">
    convnetjs
   </a>
-  <span>
-   &#9733 4672, pushed 51 days ago
-  </span>
   - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+  <sup>
+   96 GitHub links in total 480 links, ★ 4672, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 4672, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danielsdeleo/Decider">
    Decider
   </a>
-  <span>
-   &#9733 322, pushed 2438 days ago
-  </span>
   - Flexible and Extensible Machine Learning in Ruby.
+  <sup>
+   96 GitHub links in total 480 links, ★ 322, pushed 2438 days ago
+  </sup>
+  <sup>
+   &#9733 322, pushed 2438 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.heatonresearch.com/encog/">
@@ -1848,10 +1989,13 @@
   <a href="https://github.com/etsy/Conjecture">
    Etsy Conjecture
   </a>
-  <span>
-   &#9733 307, pushed 1 days ago
-  </span>
   - scalable Machine Learning in Scalding.
+  <sup>
+   96 GitHub links in total 480 links, ★ 307, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 307, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf">
@@ -1881,10 +2025,13 @@
   <a href="https://github.com/nikolaypavlov/MLPNeuralNet">
    MLPNeuralNet
   </a>
-  <span>
-   &#9733 807, pushed 225 days ago
-  </span>
   - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+  <sup>
+   96 GitHub links in total 480 links, ★ 807, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 807, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.monkeylearn.com/">
@@ -1896,10 +2043,13 @@
   <a href="https://github.com/numenta/nupic">
    nupic
   </a>
-  <span>
-   &#9733 4079, pushed 5 days ago
-  </span>
   - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
+  <sup>
+   96 GitHub links in total 480 links, ★ 4079, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4079, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://prediction.io/">
@@ -1917,10 +2067,13 @@
   <a href="https://github.com/scikit-learn/scikit-learn">
    scikit-learn
   </a>
-  <span>
-   &#9733 11149, pushed 1 days ago
-  </span>
   - scikit-learn: machine learning in Python.
+  <sup>
+   96 GitHub links in total 480 links, ★ 11149, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 11149, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://spark.apache.org/docs/0.9.0/mllib-guide.html">
@@ -1944,10 +2097,13 @@
   <a href="https://github.com/BIDData/BIDMach">
    BidMach
   </a>
-  <span>
-   &#9733 569, pushed 1 days ago
-  </span>
   - CPU and GPU-accelerated Machine Learning Library.
+  <sup>
+   96 GitHub links in total 480 links, ★ 569, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 569, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1970,10 +2126,13 @@
   <a href="https://github.com/intel-hadoop/HiBench">
    Intel HiBench
   </a>
-  <span>
-   &#9733 358, pushed 13 days ago
-  </span>
   - a Hadoop benchmark suite.
+  <sup>
+   96 GitHub links in total 480 links, ★ 358, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 358, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://issues.apache.org/jira/browse/MAPREDUCE-5116">
@@ -2037,10 +2196,13 @@
   <a href="https://github.com/apache/incubator-slider">
    Apache Slider
   </a>
-  <span>
-   &#9733 40, pushed 4 days ago
-  </span>
   - is a YARN application to deploy existing distributed applications on YARN.
+  <sup>
+   96 GitHub links in total 480 links, ★ 40, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 40, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://whirr.apache.org/">
@@ -2100,10 +2262,13 @@
   <a href="https://github.com/mesosphere/marathon">
    Marathon
   </a>
-  <span>
-   &#9733 2458, pushed 1 days ago
-  </span>
   - Mesos framework for long-running services.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2458, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2458, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2114,10 +2279,13 @@
   <a href="https://github.com/adobe-research/spindle">
    Adobe spindle
   </a>
-  <span>
-   &#9733 297, pushed 402 days ago
-  </span>
   - Next-generation web analytics processing with Scala, Spark, and Parquet.
+  <sup>
+   96 GitHub links in total 480 links, ★ 297, pushed 402 days ago
+  </sup>
+  <sup>
+   &#9733 297, pushed 402 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.kiji.org.s3-website-us-east-1.amazonaws.com">
@@ -2147,10 +2315,13 @@
   <a href="https://github.com/SalesforceEng/Argus">
    Argus
   </a>
-  <span>
-   &#9733 144, pushed 7 days ago
-  </span>
   - Time series monitoring and alerting platform.
+  <sup>
+   96 GitHub links in total 480 links, ★ 144, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 144, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://count.ly/">
@@ -2174,19 +2345,25 @@
   <a href="https://github.com/Codecademy/EventHub">
    Eventhub
   </a>
-  <span>
-   &#9733 1133, pushed 624 days ago
-  </span>
   - open source event analytics platform.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1133, pushed 624 days ago
+  </sup>
+  <sup>
+   &#9733 1133, pushed 624 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/allegro/hermes">
    Hermes
   </a>
-  <span>
-   &#9733 175, pushed 3 days ago
-  </span>
   - asynchronous message broker built on top of Kafka.
+  <sup>
+   96 GitHub links in total 480 links, ★ 175, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 175, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://hipi.cs.virginia.edu/">
@@ -2222,10 +2399,13 @@
   <a href="https://github.com/pivotalsoftware/PivotalR">
    PivotalR
   </a>
-  <span>
-   &#9733 89, pushed 272 days ago
-  </span>
   - R on Pivotal HD / HAWQ and PostgreSQL.
+  <sup>
+   96 GitHub links in total 480 links, ★ 89, pushed 272 days ago
+  </sup>
+  <sup>
+   &#9733 89, pushed 272 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.qubole.com/">
@@ -2243,19 +2423,25 @@
   <a href="https://github.com/SnappyDataInc/snappydata">
    SnappyData
   </a>
-  <span>
-   &#9733 264, pushed 2 days ago
-  </span>
   - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
+  <sup>
+   96 GitHub links in total 480 links, ★ 264, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 264, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/snowplow/snowplow">
    Snowplow
   </a>
-  <span>
-   &#9733 2650, pushed 2 days ago
-  </span>
   - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2650, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2650, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://amplab-extras.github.io/SparkR-pkg/">
@@ -2362,10 +2548,13 @@
   <a href="https://github.com/linkedin/cleo">
    LinkedIn Cleo
   </a>
-  <span>
-   &#9733 498, pushed 902 days ago
-  </span>
   - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
+  <sup>
+   96 GitHub links in total 480 links, ★ 498, pushed 902 days ago
+  </sup>
+  <sup>
+   &#9733 498, pushed 902 days ago
+  </sup>
  </li>
  <li>
   <a href="http://engineering.linkedin.com/search/did-you-mean-galene">
@@ -2377,10 +2566,13 @@
   <a href="https://github.com/senseidb/zoie">
    LinkedIn Zoie
   </a>
-  <span>
-   &#9733 330, pushed 805 days ago
-  </span>
   - is a realtime search/indexing system written in Java.
+  <sup>
+   96 GitHub links in total 480 links, ★ 330, pushed 805 days ago
+  </sup>
+  <sup>
+   &#9733 330, pushed 805 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sphinxsearch.com/">
@@ -2433,10 +2625,13 @@
   <a href="https://github.com/renecannao/proxysql">
    ProxySQL
   </a>
-  <span>
-   &#9733 7, pushed 128 days ago
-  </span>
   - High Performance Proxy for MySQL.
+  <sup>
+   96 GitHub links in total 480 links, ★ 7, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.percona.com/">
@@ -2512,28 +2707,37 @@
   <a href="https://github.com/twitter/twemproxy">
    Twemproxy
   </a>
-  <span>
-   &#9733 5286, pushed 35 days ago
-  </span>
   - A fast, light-weight proxy for memcached and redis.
+  <sup>
+   96 GitHub links in total 480 links, ★ 5286, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 5286, pushed 35 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/fatcache">
    Twitter Fatcache
   </a>
-  <span>
-   &#9733 1090, pushed 205 days ago
-  </span>
   - key/value cache for flash storage.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1090, pushed 205 days ago
+  </sup>
+  <sup>
+   &#9733 1090, pushed 205 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/twemcache">
    Twitter Twemcache
   </a>
-  <span>
-   &#9733 735, pushed 244 days ago
-  </span>
   - fork of Memcache.
+  <sup>
+   96 GitHub links in total 480 links, ★ 735, pushed 245 days ago
+  </sup>
+  <sup>
+   &#9733 735, pushed 245 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2556,19 +2760,25 @@
   <a href="https://github.com/krestenkrab/hanoidb">
    HanoiDB
   </a>
-  <span>
-   &#9733 234, pushed 38 days ago
-  </span>
   - Erlang LSM BTree Storage.
+  <sup>
+   96 GitHub links in total 480 links, ★ 234, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 234, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/leveldb">
    LevelDB
   </a>
-  <span>
-   &#9733 5683, pushed 4 days ago
-  </span>
   - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  <sup>
+   96 GitHub links in total 480 links, ★ 5683, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5683, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://symas.com/mdb/">
@@ -2680,28 +2890,37 @@
   <a href="https://github.com/airbnb/airpal">
    Airpal
   </a>
-  <span>
-   &#9733 1638, pushed 1 days ago
-  </span>
   - Web UI for PrestoDB.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1638, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1638, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/samizdatco/arbor">
    Arbor
   </a>
-  <span>
-   &#9733 2218, pushed 66 days ago
-  </span>
   - graph visualization library using web workers and jQuery.
+  <sup>
+   96 GitHub links in total 480 links, ★ 2218, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 2218, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/LucidWorks/banana">
    Banana
   </a>
-  <span>
-   &#9733 310, pushed 5 days ago
-  </span>
   - visualize logs and time-stamped data stored in Solr. Port of Kibana.
+  <sup>
+   96 GitHub links in total 480 links, ★ 310, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 310, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bokeh.pydata.org/en/latest/">
@@ -2719,10 +2938,13 @@
   <a href="https://github.com/CartoDB/cartodb">
    CartoDB
   </a>
-  <span>
-   &#9733 1127, pushed 4 days ago
-  </span>
   - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1127, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1127, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://chartd.co/">
@@ -2740,10 +2962,13 @@
   <a href="https://github.com/gionkunz/chartist-js">
    Chartist.js
   </a>
-  <span>
-   &#9733 8008, pushed 4 days ago
-  </span>
   - another open source HTML5 Charts visualization.
+  <sup>
+   96 GitHub links in total 480 links, ★ 8008, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 8008, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://square.github.io/crossfilter/">
@@ -2755,10 +2980,13 @@
   <a href="https://github.com/square/cubism">
    Cubism
   </a>
-  <span>
-   &#9733 4275, pushed 53 days ago
-  </span>
   - JavaScript library for time series visualization.
+  <sup>
+   96 GitHub links in total 480 links, ★ 4275, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 4275, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cytoscape.github.io/">
@@ -2782,10 +3010,13 @@
   <a href="https://github.com/CSNW/d3.compose">
    D3.compose
   </a>
-  <span>
-   &#9733 703, pushed 11 days ago
-  </span>
   - Compose complex, data-driven visualizations from reusable charts and components.
+  <sup>
+   96 GitHub links in total 480 links, ★ 703, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 703, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="http://d3plus.org">
@@ -2797,19 +3028,25 @@
   <a href="https://github.com/ecomfe/echarts">
    Echarts
   </a>
-  <span>
-   &#9733 11526, pushed 2 days ago
-  </span>
   - Baidus enterprise charts.
+  <sup>
+   96 GitHub links in total 480 links, ★ 11526, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 11526, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HumbleSoftware/envisionjs">
    Envisionjs
   </a>
-  <span>
-   &#9733 1501, pushed 1084 days ago
-  </span>
   - dynamic HTML5 visualization.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1501, pushed 1084 days ago
+  </sup>
+  <sup>
+   &#9733 1501, pushed 1084 days ago
+  </sup>
  </li>
  <li>
   <a href="http://fnordmetric.io/">
@@ -2821,19 +3058,25 @@
   <a href="https://github.com/Freeboard/freeboard">
    Freeboard
   </a>
-  <span>
-   &#9733 3054, pushed 7 days ago
-  </span>
   - pen source real-time dashboard builder for IOT and other web mashups.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3054, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 3054, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gephi/gephi">
    Gephi
   </a>
-  <span>
-   &#9733 1434, pushed 29 days ago
-  </span>
   - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1434, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 1434, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developers.google.com/chart/">
@@ -2875,10 +3118,13 @@
   <a href="https://github.com/matplotlib/matplotlib">
    Matplotlib
   </a>
-  <span>
-   &#9733 3567, pushed 1 days ago
-  </span>
   - plotting with Python.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3567, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 3567, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://metricsgraphicsjs.org/">
@@ -2896,10 +3142,13 @@
   <a href="https://github.com/benpickles/peity">
    Peity
   </a>
-  <span>
-   &#9733 3487, pushed 327 days ago
-  </span>
   - Progressive SVG bar, line and pie charts.
+  <sup>
+   96 GitHub links in total 480 links, ★ 3487, pushed 328 days ago
+  </sup>
+  <sup>
+   &#9733 3487, pushed 328 days ago
+  </sup>
  </li>
  <li>
   <a href="https://plot.ly/">
@@ -2911,28 +3160,37 @@
   <a href="https://github.com/plotly/plotly.js">
    Plotly.js
   </a>
-  <span>
-   &#9733 4590, pushed 2 days ago
-  </span>
   The open source javascript graphing library that powers plotly.
+  <sup>
+   96 GitHub links in total 480 links, ★ 4590, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4590, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/okfn/recline">
    Recline
   </a>
-  <span>
-   &#9733 1825, pushed 24 days ago
-  </span>
   - simple but powerful library for building data applications in pure Javascript and HTML.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1825, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 1825, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/getredash/redash">
    Redash
   </a>
-  <span>
-   &#9733 1629, pushed 2 days ago
-  </span>
   - open-source platform to query and visualize data.
+  <sup>
+   96 GitHub links in total 480 links, ★ 1629, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1629, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://shiny.rstudio.com/">
@@ -2944,28 +3202,37 @@
   <a href="https://github.com/jacomyal/sigma.js">
    Sigma.js
   </a>
-  <span>
-   &#9733 6131, pushed 5 days ago
-  </span>
   - JavaScript library dedicated to graph drawing.
+  <sup>
+   96 GitHub links in total 480 links, ★ 6131, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 6131, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/trifacta/vega">
    Vega
   </a>
-  <span>
-   &#9733 12, pushed 173 days ago
-  </span>
   - a visualization grammar.
+  <sup>
+   96 GitHub links in total 480 links, ★ 12, pushed 173 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 173 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NFLabs/zeppelin">
    Zeppelin
   </a>
-  <span>
-   &#9733 437, pushed 6 days ago
-  </span>
   - a notebook-style collaborative data analysis.
+  <sup>
+   96 GitHub links in total 480 links, ★ 437, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 437, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.zingchart.com/">
@@ -3505,49 +3772,64 @@ for Data Analytics at Twitter.
   <a href="https://github.com/bayandin/awesome-awesomeness">
    awesome-awesomeness
   </a>
-  <span>
-   &#9733 16107, pushed 7 days ago
-  </span>
   .
+  <sup>
+   96 GitHub links in total 480 links, ★ 16107, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 16107, pushed 7 days ago
+  </sup>
  </li>
  <li>
   Even more lists
   <a href="https://github.com/sindresorhus/awesome">
    awesome
   </a>
-  <span>
-   &#9733 34522, pushed 2 days ago
-  </span>
   .
+  <sup>
+   96 GitHub links in total 480 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Another list?
   <a href="https://github.com/jnv/lists">
    list
   </a>
-  <span>
-   &#9733 3765, pushed 2 days ago
-  </span>
   .
+  <sup>
+   96 GitHub links in total 480 links, ★ 3765, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 3765, pushed 2 days ago
+  </sup>
  </li>
  <li>
   WTF!
   <a href="https://github.com/t3chnoboy/awesome-awesome-awesome">
    awesome-awesome-awesome
   </a>
-  <span>
-   &#9733 608, pushed 216 days ago
-  </span>
   .
+  <sup>
+   96 GitHub links in total 480 links, ★ 608, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 608, pushed 216 days ago
+  </sup>
  </li>
  <li>
   Analytics
   <a href="https://github.com/onurakpolat/awesome-analytics">
    awesome-analytics
   </a>
-  <span>
-   &#9733 334, pushed 14 days ago
-  </span>
   .
+  <sup>
+   96 GitHub links in total 480 links, ★ 334, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 334, pushed 14 days ago
+  </sup>
  </li>
 </ul>

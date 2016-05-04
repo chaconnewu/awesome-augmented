@@ -2892,7 +2892,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Confluence | https://www.atlassian.com/software/confluence
  </li>
  <li>
-  Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
+  Confluence Questions (Q&A; for your team) | https://www.atlassian.com/software/confluence/questions
  </li>
  <li>
   SlimWiki | https://slimwiki.com |
@@ -3149,7 +3149,14 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Follow the addition format which is currently:
   <code>
    <ul>
-<li>Tool Name | https://toolname.com | <a href="https://twitter.com/toolname">@toolname</a> | cost | description
+    <li>
+     Tool Name | https://toolname.com |
+     <a href="https://twitter.com/toolname">
+      @toolname
+     </a>
+     | cost | description
+    </li>
+   </ul>
   </code>
  </li>
 </ul>

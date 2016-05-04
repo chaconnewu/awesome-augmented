@@ -650,10 +650,13 @@
   <a href="https://github.com/ligurio/Continuous-Integration-services">
    github.com
   </a>
-  <span>
-   &#9733 112, pushed 15 days ago
-  </span>
   — Comparison of Continuous Integration services
+  <sup>
+   3 GitHub links in total 452 links, ★ 112, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 112, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="http://ftploy.com/">
@@ -2924,19 +2927,25 @@
   <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">
    github.com - FOSS for Dev
   </a>
-  <span>
-   &#9733 115, pushed 54 days ago
-  </span>
   — A hub of free and Open Source software for developers
+  <sup>
+   3 GitHub links in total 452 links, ★ 115, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 115, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pborreli/free-for-nonprofit">
    github.com - Free for nonprofit
   </a>
-  <span>
-   &#9733 30, pushed 334 days ago
-  </span>
   — List of free services for nonprofit organizations
+  <sup>
+   3 GitHub links in total 452 links, ★ 30, pushed 334 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 334 days ago
+  </sup>
  </li>
  <li>
   <a href="https://getawesomeness.herokuapp.com">

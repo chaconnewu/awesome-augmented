@@ -558,10 +558,13 @@
   <a href="https://github.com/Pixen/Pixen">
    Pixen
   </a>
-  <span>
-   &#9733 938, pushed 215 days ago
-  </span>
   - OpenSource Pixel Art Editor for OSX
+  <sup>
+   22 GitHub links in total 303 links, ★ 938, pushed 215 days ago
+  </sup>
+  <sup>
+   &#9733 938, pushed 215 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -632,9 +635,12 @@
   <a href="https://github.com/guillaumechereau/goxel">
    goxel
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 579, pushed 32 days ago
+  </sup>
+  <sup>
    &#9733 579, pushed 32 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://voxel.codeplex.com/">
@@ -700,10 +706,13 @@
   <a href="https://github.com/bladecoder/bladecoder-adventure-engine">
    Bladecoder
   </a>
-  <span>
-   &#9733 88, pushed 6 days ago
-  </span>
   - Classic point and click adventure game engine and editor.
+  <sup>
+   22 GitHub links in total 303 links, ★ 88, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 88, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://box2d.org/">
@@ -715,10 +724,13 @@
   <a href="https://github.com/netonjm/ChipmunkSharp">
    Chipmunk C#
   </a>
-  <span>
-   &#9733 23, pushed 322 days ago
-  </span>
   - C# implementation of the Chipmunk2D lib.
+  <sup>
+   22 GitHub links in total 303 links, ★ 23, pushed 322 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 322 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chipmunk-physics.net/">
@@ -730,10 +742,13 @@
   <a href="https://github.com/los-cocos/cocos">
    Cocos2D
   </a>
-  <span>
-   &#9733 275, pushed 2 days ago
-  </span>
   - graphic library for games and multimedia, for python language
+  <sup>
+   22 GitHub links in total 303 links, ★ 275, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 275, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cocos2d-x.org/">
@@ -781,10 +796,13 @@
   <a href="https://github.com/ajhager/engi">
    ENGi
   </a>
-  <span>
-   &#9733 318, pushed 249 days ago
-  </span>
   - A multi-platform 2D game library for Go.
+  <sup>
+   22 GitHub links in total 303 links, ★ 318, pushed 249 days ago
+  </sup>
+  <sup>
+   &#9733 318, pushed 249 days ago
+  </sup>
  </li>
  <li>
   <a href="http://farseerphysics.codeplex.com">
@@ -832,10 +850,13 @@
   <a href="https://github.com/iioinc/iio.js">
    iio.js
   </a>
-  <span>
-   &#9733 427, pushed 133 days ago
-  </span>
   - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+  <sup>
+   22 GitHub links in total 303 links, ★ 427, pushed 133 days ago
+  </sup>
+  <sup>
+   &#9733 427, pushed 133 days ago
+  </sup>
  </li>
  <li>
   <a href="http://impactjs.com/">
@@ -853,10 +874,13 @@
   <a href="https://github.com/rxi/juno">
    Juno
   </a>
-  <span>
-   &#9733 42, pushed 11 days ago
-  </span>
   - Framework for making 2D games with chunky pixels in Lua
+  <sup>
+   22 GitHub links in total 303 links, ★ 42, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="http://kivy.org">
@@ -898,10 +922,13 @@
   <a href="https://github.com/lums-proj/Lums">
    Lums
   </a>
-  <span>
-   &#9733 9, pushed 214 days ago
-  </span>
   - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
+  <sup>
+   22 GitHub links in total 303 links, ★ 9, pushed 214 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lycheejs.org/index.html">
@@ -925,10 +952,13 @@
   <a href="https://github.com/GearChicken/MINX">
    MINX
   </a>
-  <span>
-   &#9733 6, pushed 452 days ago
-  </span>
   - Open Source 2D game framework written in C++ (to the style of XNA)
+  <sup>
+   22 GitHub links in total 303 links, ★ 6, pushed 452 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 452 days ago
+  </sup>
  </li>
  <li>
   <a href="http://getmoai.com/">
@@ -1113,10 +1143,13 @@
   <a href="https://github.com/bkaradzic/bgfx">
    bgfx
   </a>
-  <span>
-   &#9733 1856, pushed 2 days ago
-  </span>
   - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+  <sup>
+   22 GitHub links in total 303 links, ★ 1856, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1856, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://libcinder.org/">
@@ -1128,10 +1161,13 @@
   <a href="https://github.com/Circular-Studios/Dash">
    Dash
   </a>
-  <span>
-   &#9733 310, pushed 85 days ago
-  </span>
   - A free and open 3D game engine written in D.
+  <sup>
+   22 GitHub links in total 303 links, ★ 310, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 310, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="http://gameplay3d.io/">
@@ -1240,10 +1276,13 @@ with AWS and Twitch – with full source.
   <a href="https://github.com/Rajawali/Rajawali">
    Rajawali
   </a>
-  <span>
-   &#9733 927, pushed 10 days ago
-  </span>
   - Android OpenGL ES 2.0/3.0 Engine
+  <sup>
+   22 GitHub links in total 303 links, ★ 927, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 927, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="http://threejs.org/">
@@ -1758,10 +1797,13 @@ with AWS and Twitch – with full source.
   <a href="https://github.com/hzoo/awesome-gametalks">
    awesome-gametalks
   </a>
-  <span>
-   &#9733 274, pushed 34 days ago
-  </span>
   - A curated list of game talks (GDC, youtube, etc).
+  <sup>
+   22 GitHub links in total 303 links, ★ 274, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 274, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -1783,17 +1825,23 @@ with AWS and Twitch – with full source.
   <a href="https://github.com/id-Software/DOOM-3">
    Doom 3
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 1218, pushed 243 days ago
+  </sup>
+  <sup>
    &#9733 1218, pushed 243 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/DOOM">
    Doom
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 1551, pushed 338 days ago
+  </sup>
+  <sup>
    &#9733 1551, pushed 338 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://3drealms.com">
@@ -1804,49 +1852,67 @@ with AWS and Twitch – with full source.
   <a href="https://github.com/jmechner/Prince-of-Persia-Apple-II">
    Prince of Persia
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 3970, pushed 398 days ago
+  </sup>
+  <sup>
    &#9733 3970, pushed 398 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/Quake-2">
    Quake 2
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 601, pushed 1554 days ago
+  </sup>
+  <sup>
    &#9733 601, pushed 1554 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/Quake-III-Arena">
    Quake III Arena
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 1644, pushed 44 days ago
+  </sup>
+  <sup>
    &#9733 1644, pushed 44 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/Quake">
    Quake
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 1167, pushed 1554 days ago
+  </sup>
+  <sup>
    &#9733 1167, pushed 1554 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/simhacker/micropolis">
    SimCity
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 147, pushed 127 days ago
+  </sup>
+  <sup>
    &#9733 147, pushed 127 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/id-Software/wolf3d">
    Wolfenstein 3D
   </a>
-  <span>
+  <sup>
+   22 GitHub links in total 303 links, ★ 513, pushed 1548 days ago
+  </sup>
+  <sup>
    &#9733 513, pushed 1548 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

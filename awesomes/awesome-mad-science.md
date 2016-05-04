@@ -173,19 +173,25 @@
   <a href="https://github.com/DanielRapp/doppler">
    doppler
   </a>
-  <span>
-   &#9733 2105, pushed 104 days ago
-  </span>
   - detect motion with the doppler effect using only the microphone and speakers
+  <sup>
+   6 GitHub links in total 53 links, ★ 2105, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 2105, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mattytemple/speak-js">
    speak.js
   </a>
-  <span>
-   &#9733 180, pushed 106 days ago
-  </span>
   - text-to-speech on the web
+  <sup>
+   6 GitHub links in total 53 links, ★ 180, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 106 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -284,19 +290,25 @@
   <a href="https://github.com/dthree/vantage">
    vantage.js
   </a>
-  <span>
-   &#9733 3124, pushed 22 days ago
-  </span>
   - CLI + SSH + REPL for Node
+  <sup>
+   6 GitHub links in total 53 links, ★ 3124, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 3124, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dthree/cash">
    cash
   </a>
-  <span>
-   &#9733 6717, pushed 1 days ago
-  </span>
   - Cross-platform Linux commands in pure ES6
+  <sup>
+   6 GitHub links in total 53 links, ★ 6717, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6717, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -307,10 +319,13 @@
   <a href="https://github.com/fcambus/jsemu">
    jsemu
   </a>
-  <span>
-   &#9733 629, pushed 22 days ago
-  </span>
   - A list of emulators written in the JavaScript
+  <sup>
+   6 GitHub links in total 53 links, ★ 629, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 629, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/jslinux">
@@ -328,10 +343,13 @@
   <a href="https://github.com/plasma-umass/doppio">
    doppio
   </a>
-  <span>
-   &#9733 802, pushed 6 days ago
-  </span>
   - actively updated jvm in node.js, written in TypeScript
+  <sup>
+   6 GitHub links in total 53 links, ★ 802, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 802, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>

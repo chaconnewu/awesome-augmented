@@ -43,10 +43,13 @@
   <a href="https://github.com/polymer/project">
    Project
   </a>
-  <span>
-   &#9733 118, pushed 53 days ago
-  </span>
   All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
+  <sup>
+   19 GitHub links in total 91 links, ★ 118, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 118, pushed 54 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -275,9 +278,12 @@
   <a href="https://github.com/webcomponents/polymer-boilerplate">
    Polymer boilerplate
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 91 links, ★ 358, pushed 301 days ago
+  </sup>
+  <sup>
    &#9733 358, pushed 301 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://developers.google.com/web/tools/polymer-starter-kit/">
@@ -299,14 +305,17 @@
   <a href="https://github.com/yeoman/generator-polymer">
    Generator Polymer
   </a>
-  <span>
-   &#9733 955, pushed 25 days ago
-  </span>
   Yeoman generator for Polymer projects, based on the official
   <a href="https://developers.google.com/web/tools/polymer-starter-kit/">
    Starter kit
   </a>
   .
+  <sup>
+   19 GitHub links in total 91 links, ★ 955, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 955, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/generator-element">
@@ -408,37 +417,49 @@
   <a href="https://github.com/polymerlabs/polyserve">
    Polyserve
   </a>
-  <span>
-   &#9733 119, pushed 1 days ago
-  </span>
   A simple web server for using bower components locally.
+  <sup>
+   19 GitHub links in total 91 links, ★ 119, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 119, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polybuild">
    Polybuild
   </a>
-  <span>
-   &#9733 71, pushed 28 days ago
-  </span>
   An all-in-one build tool for Polymer apps.
+  <sup>
+   19 GitHub links in total 91 links, ★ 71, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polyup">
    Polyup
   </a>
-  <span>
-   &#9733 38, pushed 5 days ago
-  </span>
   A helpful assistant for migrating from Polymer v0.5 to 1.0.
+  <sup>
+   19 GitHub links in total 91 links, ★ 38, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/polylint">
    Polylint
   </a>
-  <span>
-   &#9733 102, pushed 12 days ago
-  </span>
   Detect errors in your code.
+  <sup>
+   19 GitHub links in total 91 links, ★ 102, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 102, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="http://polygit.org/">
@@ -454,10 +475,13 @@
   <a href="https://github.com/PolymerLabs/polydev">
    Polydev
   </a>
-  <span>
-   &#9733 62, pushed 39 days ago
-  </span>
   DevTool extension.
+  <sup>
+   19 GitHub links in total 91 links, ★ 62, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 62, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk">
@@ -475,19 +499,25 @@
   <a href="https://github.com/Polymer/vulcanize">
    Vulcanize
   </a>
-  <span>
-   &#9733 1035, pushed 12 days ago
-  </span>
   Build tool for HTMLimports and web components.
+  <sup>
+   19 GitHub links in total 91 links, ★ 1035, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 1035, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerLabs/crisper">
    Crisper
   </a>
-  <span>
-   &#9733 74, pushed 28 days ago
-  </span>
   Split inline scripts from an HTML file for CSP compliance.
+  <sup>
+   19 GitHub links in total 91 links, ★ 74, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 74, pushed 28 days ago
+  </sup>
  </li>
  <li>
   <a href="https://atom.io/packages/polymer-snippets">
@@ -508,37 +538,49 @@
   <a href="https://github.com/Polymer/web-component-tester">
    Web components tester
   </a>
-  <span>
-   &#9733 316, pushed 3 days ago
-  </span>
   Makes testing your web components a breeze!
+  <sup>
+   19 GitHub links in total 91 links, ★ 316, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 316, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thedeeno/web-component-tester-istanbul">
    Web components tester istambul
   </a>
-  <span>
-   &#9733 16, pushed 4 days ago
-  </span>
   Istanbul coverage plugin for web-component-tester.
+  <sup>
+   19 GitHub links in total 91 links, ★ 16, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerElements/test-fixture">
    test-fixture
   </a>
-  <span>
-   &#9733 11, pushed 20 days ago
-  </span>
   Element that can simplify the exercise of consistently resetting a test suite's DOM.
+  <sup>
+   19 GitHub links in total 91 links, ★ 11, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PolymerElements/iron-test-helpers">
    iron-test-helpers
   </a>
-  <span>
-   &#9733 11, pushed 7 days ago
-  </span>
   Utility classes to make testing easier.
+  <sup>
+   19 GitHub links in total 91 links, ★ 11, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -549,17 +591,23 @@
   <a href="https://github.com/meteorwebcomponents/mixin">
    Reactive meteor data source for polymer elementse
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 91 links, ★ 9, pushed 21 days ago
+  </sup>
+  <sup>
    &#9733 9, pushed 21 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/meteorwebcomponents/router">
    Two way bind polymer with Meteor Flowrouter
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 91 links, ★ 3, pushed 21 days ago
+  </sup>
+  <sup>
    &#9733 3, pushed 21 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>
@@ -603,9 +651,12 @@
   <a href="https://github.com/GoogleChrome/guitar-tuner">
    A web-based guitar tuner
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 91 links, ★ 496, pushed 53 days ago
+  </sup>
+  <sup>
    &#9733 496, pushed 53 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://d2armory.com/">
@@ -637,9 +688,12 @@
   <a href="https://github.com/HedCET/TorrentAlert">
    Torrent Alert
   </a>
-  <span>
+  <sup>
+   19 GitHub links in total 91 links, ★ 9, pushed 5 days ago
+  </sup>
+  <sup>
    &#9733 9, pushed 5 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

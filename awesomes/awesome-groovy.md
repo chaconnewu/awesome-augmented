@@ -130,10 +130,13 @@
   <a href="https://github.com/pledbrook/lazybones">
    Lazybones
   </a>
-  <span>
-   &#9733 336, pushed 6 days ago
-  </span>
   - A simple project creation tool that uses packaged project templates.
+  <sup>
+   36 GitHub links in total 85 links, ★ 336, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 336, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -162,10 +165,13 @@
   <a href="https://github.com/rundis/LightTable-Groovy">
    LightTable Plugin
   </a>
-  <span>
-   &#9733 25, pushed 3 days ago
-  </span>
   - LightTable Support
+  <sup>
+   36 GitHub links in total 85 links, ★ 25, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://gist.github.com/kdabir/2203530">
@@ -182,46 +188,61 @@
   <a href="https://github.com/grails/grails">
    Grails
   </a>
-  <span>
-   &#9733 449, pushed 2273 days ago
-  </span>
   - A powerful web application framework based on the Groovy language
+  <sup>
+   36 GitHub links in total 85 links, ★ 449, pushed 2273 days ago
+  </sup>
+  <sup>
+   &#9733 449, pushed 2274 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gaelyk/gaelyk">
    Gaelyk
   </a>
-  <span>
-   &#9733 225, pushed 3 days ago
-  </span>
   - A lightweight Groovy toolkit for Google App Engine Java
+  <sup>
+   36 GitHub links in total 85 links, ★ 225, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 225, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kdabir/glide">
    Glide
   </a>
-  <span>
-   &#9733 36, pushed 25 days ago
-  </span>
   - Create awesome apps on Google App Engine in a snap
+  <sup>
+   36 GitHub links in total 85 links, ★ 36, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ratpack/ratpack">
    Ratpack
   </a>
-  <span>
-   &#9733 1067, pushed 2 days ago
-  </span>
   - A toolkit for JVM web applications
+  <sup>
+   36 GitHub links in total 85 links, ★ 1067, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1067, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/javaConductor/gserv">
    gServ
   </a>
-  <span>
-   &#9733 31, pushed 13 days ago
-  </span>
   - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+  <sup>
+   36 GitHub links in total 85 links, ★ 31, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://projects.spring.io/spring-boot">
@@ -238,55 +259,73 @@
   <a href="https://github.com/poiati/gmongo">
    Gmongo
   </a>
-  <span>
-   &#9733 166, pushed 4 days ago
-  </span>
   - A Groovy wrapper to the mongodb Java driver
+  <sup>
+   36 GitHub links in total 85 links, ★ 166, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 166, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kdabir/gstorm">
    Gstorm
   </a>
-  <span>
-   &#9733 52, pushed 37 days ago
-  </span>
   - A simple ORM for simple databases and CSV files to be used in groovy scripts
+  <sup>
+   36 GitHub links in total 85 links, ★ 52, pushed 37 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 37 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/EqualExperts/Tayra">
    Tayra
   </a>
-  <span>
-   &#9733 120, pushed 354 days ago
-  </span>
   - Incremental backup tool for MongoDB
+  <sup>
+   36 GitHub links in total 85 links, ★ 120, pushed 354 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 354 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tlberglund/groovy-liquibase">
    Groovy-liquibase
   </a>
-  <span>
-   &#9733 67, pushed 162 days ago
-  </span>
   - Yet Another Groovy DSL for Liquibase
+  <sup>
+   36 GitHub links in total 85 links, ★ 67, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 67, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cjstehno/effigy">
    Effigy
   </a>
-  <span>
-   &#9733 3, pushed 68 days ago
-  </span>
   - Groovy annotation-driven JDBC row mapping framework
+  <sup>
+   36 GitHub links in total 85 links, ★ 3, pushed 68 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 68 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/elastic/elasticsearch-groovy">
    elasticsearch-groovy
   </a>
-  <span>
-   &#9733 24, pushed 90 days ago
-  </span>
   - Elasticsearch Groovy client
+  <sup>
+   36 GitHub links in total 85 links, ★ 24, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 24, pushed 90 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -314,28 +353,37 @@
   <a href="https://github.com/jgritman/httpbuilder">
    Http-Builder
   </a>
-  <span>
-   &#9733 138, pushed 140 days ago
-  </span>
   - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+  <sup>
+   36 GitHub links in total 85 links, ★ 138, pushed 140 days ago
+  </sup>
+  <sup>
+   &#9733 138, pushed 140 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eginez/AsyncRestClient">
    AsyncRestClient
   </a>
-  <span>
-   &#9733 4, pushed 150 days ago
-  </span>
   - Combine the power of RESTClient with RxGroovy for async http calls
+  <sup>
+   36 GitHub links in total 85 links, ★ 4, pushed 150 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 150 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jwagenleitner/groovy-wslite">
    Groovy-wslite
   </a>
-  <span>
-   &#9733 294, pushed 16 days ago
-  </span>
   - Lightweight SOAP and REST webservice clients for Groovy
+  <sup>
+   36 GitHub links in total 85 links, ★ 294, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 294, pushed 16 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -346,19 +394,25 @@
   <a href="https://github.com/spockframework/spock">
    Spock
   </a>
-  <span>
-   &#9733 1053, pushed 3 days ago
-  </span>
   - The Enterprise-ready testing and specification framework.
+  <sup>
+   36 GitHub links in total 85 links, ★ 1053, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1053, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/geb/geb">
    Geb
   </a>
-  <span>
-   &#9733 595, pushed 13 days ago
-  </span>
   - Very Groovy Browser Automation
+  <sup>
+   36 GitHub links in total 85 links, ★ 595, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 595, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://freeside.co/betamax/">
@@ -375,19 +429,25 @@
   <a href="https://github.com/GPars/GPars">
    GPars
   </a>
-  <span>
-   &#9733 103, pushed 47 days ago
-  </span>
   - The GPars concurrency and parallelism framework for the JVM
+  <sup>
+   36 GitHub links in total 85 links, ★ 103, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ReactiveX/RxGroovy">
    RxGroovy
   </a>
-  <span>
-   &#9733 80, pushed 66 days ago
-  </span>
   - RxJava bindings for Groovy
+  <sup>
+   36 GitHub links in total 85 links, ★ 80, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 66 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vertx.io/">
@@ -415,10 +475,13 @@
   <a href="https://github.com/chiquitinxx/grooscript">
    Grooscript
   </a>
-  <span>
-   &#9733 145, pushed 7 days ago
-  </span>
   - Converts your Groovy code to Javascript
+  <sup>
+   36 GitHub links in total 85 links, ★ 145, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 145, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -429,19 +492,25 @@
   <a href="https://github.com/sysgears/grain">
    Grain
   </a>
-  <span>
-   &#9733 113, pushed 9 days ago
-  </span>
   - Static Web Site Building Framework For Groovy
+  <sup>
+   36 GitHub links in total 85 links, ★ 113, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 113, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kobo/gaiden">
    Gaiden
   </a>
-  <span>
-   &#9733 103, pushed 425 days ago
-  </span>
   - Gaiden is a tool that makes it easy to create documentation with Markdown.
+  <sup>
+   36 GitHub links in total 85 links, ★ 103, pushed 425 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 425 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -452,46 +521,61 @@
   <a href="https://github.com/mperry/functionalgroovy">
    Functionalgroovy
   </a>
-  <span>
-   &#9733 50, pushed 254 days ago
-  </span>
   - Functional programming in Groovy
+  <sup>
+   36 GitHub links in total 85 links, ★ 50, pushed 254 days ago
+  </sup>
+  <sup>
+   &#9733 50, pushed 254 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timyates/groovy-stream">
    Groovy-stream
   </a>
-  <span>
-   &#9733 63, pushed 310 days ago
-  </span>
   - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+  <sup>
+   36 GitHub links in total 85 links, ★ 63, pushed 310 days ago
+  </sup>
+  <sup>
+   &#9733 63, pushed 310 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/johnnywey/flipside">
    Flipside
   </a>
-  <span>
-   &#9733 21, pushed 78 days ago
-  </span>
   - Simple Groovy options library
+  <sup>
+   36 GitHub links in total 85 links, ★ 21, pushed 78 days ago
+  </sup>
+  <sup>
+   &#9733 21, pushed 78 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timyates/groovy-common-extensions">
    groovy-common-extensions
   </a>
-  <span>
-   &#9733 48, pushed 497 days ago
-  </span>
   - Lets you add things commonly useful to the Groovy language via the extension system
+  <sup>
+   36 GitHub links in total 85 links, ★ 48, pushed 497 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 497 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dnahodil/groovy-extra-list-behaviour">
    groovy-extra-list-behaviour
   </a>
-  <span>
-   &#9733 1, pushed 157 days ago
-  </span>
   - Adds extra methods to Lists via the extension system
+  <sup>
+   36 GitHub links in total 85 links, ★ 1, pushed 157 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 157 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gperfutils">
@@ -503,19 +587,25 @@
     <a href="https://github.com/gperfutils/gprof">
      gprof
     </a>
-    <span>
-     &#9733 21, pushed 311 days ago
-    </span>
     - The profiling module for Groovy
+    <sup>
+     36 GitHub links in total 85 links, ★ 21, pushed 311 days ago
+    </sup>
+    <sup>
+     &#9733 21, pushed 311 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gperfutils/gbench">
      gbench
     </a>
-    <span>
-     &#9733 16, pushed 444 days ago
-    </span>
     - The benchmarking module for Groovy
+    <sup>
+     36 GitHub links in total 85 links, ★ 16, pushed 444 days ago
+    </sup>
+    <sup>
+     &#9733 16, pushed 444 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -528,19 +618,25 @@
   <a href="https://github.com/ysb33r/groovy-vfs">
    Groovy-Vfs
   </a>
-  <span>
-   &#9733 42, pushed 93 days ago
-  </span>
   - A DSL for Groovy on top of Apache VFS2
+  <sup>
+   36 GitHub links in total 85 links, ★ 42, pushed 93 days ago
+  </sup>
+  <sup>
+   &#9733 42, pushed 93 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kdabir/directree">
    Directree
   </a>
-  <span>
-   &#9733 8, pushed 294 days ago
-  </span>
   - A Simple DSL to create Directory Tree with Text Files
+  <sup>
+   36 GitHub links in total 85 links, ★ 8, pushed 294 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 294 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -551,19 +647,25 @@
   <a href="https://github.com/craigburke/document-builder">
    document-builder
   </a>
-  <span>
-   &#9733 71, pushed 7 days ago
-  </span>
   - A document builder for Groovy for PDF or Word documents.
+  <sup>
+   36 GitHub links in total 85 links, ★ 71, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 71, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MetadataRegistry/spreadsheet-builder">
    spreadsheet-builder
   </a>
-  <span>
-   &#9733 17, pushed 118 days ago
-  </span>
   - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+  <sup>
+   36 GitHub links in total 85 links, ★ 17, pushed 118 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 118 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -574,10 +676,13 @@
   <a href="https://github.com/aestasit/sshoogr">
    sshoogr
   </a>
-  <span>
-   &#9733 171, pushed 27 days ago
-  </span>
   - DSL library for working with remote servers through SSH.
+  <sup>
+   36 GitHub links in total 85 links, ★ 171, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 171, pushed 27 days ago
+  </sup>
  </li>
 </ul>
 <h1>

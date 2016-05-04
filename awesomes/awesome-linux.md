@@ -826,10 +826,13 @@
   <a href="https://github.com/baskerville/bspwm">
    bspwm
   </a>
-  <span>
-   &#9733 1180, pushed 5 days ago
-  </span>
   - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
+  <sup>
+   10 GitHub links in total 97 links, ★ 1180, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1180, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://launchpad.net/compiz">
@@ -954,9 +957,6 @@
   <a href="https://github.com/nvbn/thefuck">
    fuck
   </a>
-  <span>
-   &#9733 20095, pushed 3 days ago
-  </span>
   - A magnificent command line tool which corrects your previously mistyped command (see
   <a href="https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif">
    this
@@ -965,6 +965,12 @@
    </code>
   </a>
   ).
+  <sup>
+   10 GitHub links in total 97 links, ★ 20095, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 20095, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vim.org">
@@ -994,19 +1000,25 @@
   <a href="https://github.com/KittyKatt/screenFetch">
    screenFetch
   </a>
-  <span>
-   &#9733 1088, pushed 18 days ago
-  </span>
   - Fetches system/theme information in terminal for Linux desktop screenshots.
+  <sup>
+   10 GitHub links in total 97 links, ★ 1088, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 1088, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uoaerg/wavemon">
    wavemon
   </a>
-  <span>
-   &#9733 60, pushed 121 days ago
-  </span>
   - ncurses-based monitoring application for wireless network devices
+  <sup>
+   10 GitHub links in total 97 links, ★ 60, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.cgsecurity.org/wiki/TestDisk">
@@ -1170,10 +1182,13 @@
   <a href="https://github.com/aurapm/aura">
    Aura
   </a>
-  <span>
-   &#9733 502, pushed 7 days ago
-  </span>
   (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
+  <sup>
+   10 GitHub links in total 97 links, ★ 502, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 502, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1261,9 +1276,12 @@
   <a href="https://github.com/sindresorhus/awesome">
    awesome
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 97 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 34522, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sindresorhus/awesome#programming-languages">
@@ -1274,17 +1292,23 @@
   <a href="https://github.com/alebcay/awesome-shell">
    awesome-shell
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 97 links, ★ 6673, pushed 17 days ago
+  </sup>
+  <sup>
    &#9733 6673, pushed 17 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emacs-tw/awesome-emacs">
    awesome-emacs
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 97 links, ★ 1774, pushed 2 days ago
+  </sup>
+  <sup>
    &#9733 1774, pushed 2 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://vimawesome.com/">
@@ -1295,9 +1319,12 @@
   <a href="https://github.com/n1trux/awesome-sysadmin">
    awesome-sysadmin
   </a>
-  <span>
+  <sup>
+   10 GitHub links in total 97 links, ★ 3496, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 3496, pushed 4 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h2>

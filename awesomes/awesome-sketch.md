@@ -295,25 +295,34 @@
   <a href="https://github.com/timuric/Content-generator-sketch-plugin">
    Content Generator
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 3201, pushed 35 days ago
+  </sup>
+  <sup>
    &#9733 3201, pushed 35 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rodi01/RenameIt">
    RenameIt
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 396, pushed 297 days ago
+  </sup>
+  <sup>
    &#9733 396, pushed 297 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/utom/sketch-measure">
    Sketch Measure
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 3006, pushed 17 days ago
+  </sup>
+  <sup>
    &#9733 3006, pushed 17 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/getflourish/Sketch-Style-Inventory/">
@@ -324,25 +333,34 @@
   <a href="https://github.com/ddwht/sketch-dynamic-button">
    Dynamic Button
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 944, pushed 9 days ago
+  </sup>
+  <sup>
    &#9733 944, pushed 9 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mauehara/sketch-page-switch">
    Page Switch
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 52, pushed 662 days ago
+  </sup>
+  <sup>
    &#9733 52, pushed 662 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hrescak/Sketch-Flex-Layout">
    Sketch Flex Layout
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 1492, pushed 46 days ago
+  </sup>
+  <sup>
    &#9733 1492, pushed 46 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h6>
@@ -364,9 +382,12 @@
   <a href="https://github.com/abynim/UserFlows">
    User Flow
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 171, pushed 98 days ago
+  </sup>
+  <sup>
    &#9733 171, pushed 98 days ago
-  </span>
+  </sup>
  </li>
 </ul>
 <h5>
@@ -382,9 +403,12 @@
   <a href="https://github.com/sketchplugins/plugin-directory">
    Sketch Plugin Directory
   </a>
-  <span>
+  <sup>
+   13 GitHub links in total 65 links, ★ 1915, pushed 4 days ago
+  </sup>
+  <sup>
    &#9733 1915, pushed 4 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="http://sketchplugins.com/">
@@ -418,9 +442,6 @@
   <a href="https://github.com/luandro/sketch-responsive-design-template">
    Responsive Web Design Template
   </a>
-  <span>
-   &#9733 17, pushed 214 days ago
-  </span>
   , a template with
   <a href="https://fortawesome.github.io/Font-Awesome/">
    Font-Awesome
@@ -430,24 +451,36 @@
    Bootstrap UI Kit
   </a>
   as symbols for fast web design.
+  <sup>
+   13 GitHub links in total 65 links, ★ 17, pushed 214 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 214 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nvk/sketch-ios">
    Sketch iOS Templates
   </a>
-  <span>
-   &#9733 832, pushed 807 days ago
-  </span>
   , a collection of many iOS templates.
+  <sup>
+   13 GitHub links in total 65 links, ★ 832, pushed 807 days ago
+  </sup>
+  <sup>
+   &#9733 832, pushed 807 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/teracyhq/wireframe">
    Teracy Wireframe Kit
   </a>
-  <span>
-   &#9733 1073, pushed 505 days ago
-  </span>
   , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+  <sup>
+   13 GitHub links in total 65 links, ★ 1073, pushed 505 days ago
+  </sup>
+  <sup>
+   &#9733 1073, pushed 505 days ago
+  </sup>
  </li>
 </ul>
 <h2>

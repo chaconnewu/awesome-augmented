@@ -168,9 +168,12 @@
   <a href="https://github.com/jkroso/flowtype">
    A simple plugin to keep font-size in proportion with it's containers size
   </a>
-  <span>
+  <sup>
+   3 GitHub links in total 53 links, ★ 25, pushed 167 days ago
+  </sup>
+  <sup>
    &#9733 25, pushed 167 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://developers.google.com/fonts/docs/webfont_loader">
@@ -201,9 +204,12 @@
   <a href="https://github.com/kennethormandy/normalize-opentype.css">
    Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
   </a>
-  <span>
+  <sup>
+   3 GitHub links in total 53 links, ★ 701, pushed 32 days ago
+  </sup>
+  <sup>
    &#9733 701, pushed 32 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://blot.im/typeset/">
@@ -214,9 +220,12 @@
   <a href="https://github.com/alfredxing/brick">
    brick.im
   </a>
-  <span>
-   &#9733 2829, pushed 17 days ago
-  </span>
+  <sup>
+   3 GitHub links in total 53 links, ★ 2829, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 2829, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="http://devinhunt.github.io/typebase.css/">

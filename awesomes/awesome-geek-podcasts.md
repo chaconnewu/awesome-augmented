@@ -883,10 +883,13 @@ permalink: /
   <a href="https://github.com/bottiger/SoundWaves">
    Soundwaves
   </a>
-  <span>
-   &#9733 39, pushed 27 days ago
-  </span>
   - (Android and Open Source)
+  <sup>
+   1 GitHub links in total 136 links, ★ 39, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.doggcatcher.com">

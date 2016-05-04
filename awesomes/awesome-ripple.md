@@ -235,10 +235,13 @@
   <a href="https://github.com/ripple/ripple-rest">
    ripple-rest
   </a>
-  <span>
-   &#9733 66, pushed 166 days ago
-  </span>
   : A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+  <sup>
+   28 GitHub links in total 92 links, ★ 66, pushed 166 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 166 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple/ripple-lib/">
@@ -274,10 +277,13 @@
   <a href="https://github.com/rubblelabs/ripple">
    rubblelabs/ripple
   </a>
-  <span>
-   &#9733 22, pushed 21 days ago
-  </span>
   : Go packages to interact with the Ripple protocol
+  <sup>
+   28 GitHub links in total 92 links, ★ 22, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h6>
@@ -294,19 +300,25 @@
   <a href="https://github.com/ripple/ripple-client-desktop">
    ripple-client-desktop
   </a>
-  <span>
-   &#9733 25, pushed 5 days ago
-  </span>
   : Desktop client
+  <sup>
+   28 GitHub links in total 92 links, ★ 25, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple-unmaintained/ripple-client-ios">
    ripple-client-ios
   </a>
-  <span>
-   &#9733 30, pushed 693 days ago
-  </span>
   : iOS client
+  <sup>
+   28 GitHub links in total 92 links, ★ 30, pushed 693 days ago
+  </sup>
+  <sup>
+   &#9733 30, pushed 693 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple/ripplecharts/">
@@ -318,10 +330,13 @@
   <a href="https://github.com/ripple-unmaintained/ripple-graph">
    ripple-graph
   </a>
-  <span>
-   &#9733 22, pushed 573 days ago
-  </span>
   : Ripple graph
+  <sup>
+   28 GitHub links in total 92 links, ★ 22, pushed 573 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 573 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/dchapes/ripple/">
@@ -350,36 +365,48 @@
   <a href="https://github.com/ripple/ripple-blobvault">
    ripple-blobvault
   </a>
-  <span>
-   &#9733 32, pushed 32 days ago
-  </span>
   : Server for storing persistent data for Ripple clients
+  <sup>
+   28 GitHub links in total 92 links, ★ 32, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple/ripple-authd">
    ripple-authd
   </a>
-  <span>
-   &#9733 6, pushed 333 days ago
-  </span>
   : Ripple peer-assisted key derivation server
+  <sup>
+   28 GitHub links in total 92 links, ★ 6, pushed 333 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 333 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple/rippled-historical-database">
    rippled-historical-database
   </a>
-  <span>
-   &#9733 22, pushed 4 days ago
-  </span>
   : SQL database as a canonical source of historical data in Ripple
+  <sup>
+   28 GitHub links in total 92 links, ★ 22, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ripple/ripple-data-api">
    ripple-data-api
   </a>
-  <span>
+  <sup>
+   28 GitHub links in total 92 links, ★ 40, pushed 161 days ago
+  </sup>
+  <sup>
    &#9733 40, pushed 161 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="ripple-vault-client">
@@ -390,19 +417,25 @@
   <a href="https://github.com/ripple-unmaintained/federation-php">
    federation-php
   </a>
-  <span>
-   &#9733 9, pushed 907 days ago
-  </span>
   : Simple PHP federation endpoint with a static JSON dataset
+  <sup>
+   28 GitHub links in total 92 links, ★ 9, pushed 907 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 907 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/miracle2k/ripple-federation-python">
    federation-python
   </a>
-  <span>
-   &#9733 2, pushed 679 days ago
-  </span>
   : Python module for a simple federation endpoint.
+  <sup>
+   28 GitHub links in total 92 links, ★ 2, pushed 679 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 679 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/singpolyma/ripple-rails/">
@@ -418,10 +451,13 @@
   <a href="https://github.com/emschwartz/ripple-donate-widget">
    Ripple Checkout
   </a>
-  <span>
-   &#9733 6, pushed 822 days ago
-  </span>
   : An embeddable widget for paying with Ripple.
+  <sup>
+   28 GitHub links in total 92 links, ★ 6, pushed 822 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 823 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html">
@@ -432,10 +468,13 @@
   <a href="https://github.com/rubblelabs/tx">
    rubblelabs/tx
   </a>
-  <span>
-   &#9733 10, pushed 366 days ago
-  </span>
   : Tool for executing transactions on the Ripple network
+  <sup>
+   28 GitHub links in total 92 links, ★ 10, pushed 366 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 366 days ago
+  </sup>
  </li>
 </ul>
 <h4>
@@ -480,9 +519,12 @@
   <a href="https://github.com/pmarches/jStellarAPI">
    jRippleAPI
   </a>
-  <span>
+  <sup>
+   28 GitHub links in total 92 links, ★ 16, pushed 443 days ago
+  </sup>
+  <sup>
    &#9733 16, pushed 443 days ago
-  </span>
+  </sup>
  </li>
  <li>
   <a href="https://groups.google.com/forum/#!forum/ripple-server/">
@@ -544,10 +586,13 @@
   <a href="https://github.com/CodeShark/RippleGen">
    RippleGen
   </a>
-  <span>
-   &#9733 17, pushed 1118 days ago
-  </span>
   : A simple multithreaded vanity generator for the ripple p2p network.
+  <sup>
+   28 GitHub links in total 92 links, ★ 17, pushed 1118 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 1118 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dollero.com/">

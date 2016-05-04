@@ -71,10 +71,13 @@
   <a href="https://github.com/cpettitt/dagre-d3">
    dagre-d3
   </a>
-  <span>
-   &#9733 731, pushed 18 days ago
-  </span>
   - Layout directed graphs on the client-side
+  <sup>
+   59 GitHub links in total 107 links, ★ 731, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 731, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dc-js.github.io/dc.js/">
@@ -98,37 +101,49 @@
   <a href="https://github.com/q-m/d3.chart.sankey">
    d3.chart.sankey
   </a>
-  <span>
-   &#9733 17, pushed 99 days ago
-  </span>
   - Reusable D3 Sankey diagram
+  <sup>
+   59 GitHub links in total 107 links, ★ 17, pushed 99 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 99 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spiermar/d3-flame-graph">
    d3-flame-graph
   </a>
-  <span>
-   &#9733 105, pushed 47 days ago
-  </span>
   - Flame graphs from hierarchical data
+  <sup>
+   59 GitHub links in total 107 links, ★ 105, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 105, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/koudelka/d3-message-sequence">
    d3-message-sequence
   </a>
-  <span>
-   &#9733 43, pushed 159 days ago
-  </span>
   - A dynamic/static message sequence chart
+  <sup>
+   59 GitHub links in total 107 links, ★ 43, pushed 159 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 159 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/commodityvectors/d3-timeline">
    d3-timeline
   </a>
-  <span>
-   &#9733 442, pushed 44 days ago
-  </span>
   - responsive timeline charts
+  <sup>
+   59 GitHub links in total 107 links, ★ 442, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 442, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="http://scottlogic.github.io/d3fc/">
@@ -140,37 +155,49 @@
   <a href="https://github.com/jakezatecky/d3-funnel">
    D3Funnel
   </a>
-  <span>
-   &#9733 84, pushed 2 days ago
-  </span>
   - A funnel and pyramid chart library
+  <sup>
+   59 GitHub links in total 107 links, ★ 84, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 84, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kbroman/d3panels">
    d3panels
   </a>
-  <span>
-   &#9733 13, pushed 0 days ago
-  </span>
   - Interactive charts with linked brushing
+  <sup>
+   59 GitHub links in total 107 links, ★ 13, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 0 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/benkeen/d3pie">
    d3pie
   </a>
-  <span>
-   &#9733 203, pushed 122 days ago
-  </span>
   - A configurable pie chart lib and generator
+  <sup>
+   59 GitHub links in total 107 links, ★ 203, pushed 122 days ago
+  </sup>
+  <sup>
+   &#9733 203, pushed 122 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/NathanEpstein/D3xter">
    D3xter
   </a>
-  <span>
-   &#9733 340, pushed 48 days ago
-  </span>
   - Straight forward plotting
+  <sup>
+   59 GitHub links in total 107 links, ★ 340, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 340, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="http://mcaule.github.io/d3-timeseries/">
@@ -188,10 +215,13 @@
   <a href="https://github.com/ErikGartner/dTree">
    dTree
   </a>
-  <span>
-   &#9733 11, pushed 44 days ago
-  </span>
   - Family tree library
+  <sup>
+   59 GitHub links in total 107 links, ★ 11, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="http://epochjs.github.io/epoch/">
@@ -203,46 +233,61 @@
   <a href="https://github.com/marmelab/EventDrops">
    EventDrops
   </a>
-  <span>
-   &#9733 548, pushed 12 days ago
-  </span>
   - A time based/event series interactive visualization
+  <sup>
+   59 GitHub links in total 107 links, ★ 548, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 548, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ahoiin/Fancycharts.js">
    fancycharts
   </a>
-  <span>
-   &#9733 76, pushed 227 days ago
-  </span>
   - Library to visualize percentage values
+  <sup>
+   59 GitHub links in total 107 links, ★ 76, pushed 227 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 227 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/boundary/firespray">
    firespray
   </a>
-  <span>
-   &#9733 64, pushed 391 days ago
-  </span>
   - Streaming charts
+  <sup>
+   59 GitHub links in total 107 links, ★ 64, pushed 391 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 391 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/robinfhu/forest-d3">
    forest-d3
   </a>
-  <span>
-   &#9733 41, pushed 89 days ago
-  </span>
   - A time series charting library
+  <sup>
+   59 GitHub links in total 107 links, ★ 41, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 41, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dk8996/Gantt-Chart">
    Gantt-Chart
   </a>
-  <span>
-   &#9733 177, pushed 96 days ago
-  </span>
   - Gantt chart library
+  <sup>
+   59 GitHub links in total 107 links, ★ 177, pushed 96 days ago
+  </sup>
+  <sup>
+   &#9733 177, pushed 96 days ago
+  </sup>
  </li>
  <li>
   <a href="http://metricsgraphicsjs.org/">
@@ -296,19 +341,25 @@
   <a href="https://github.com/alangrafu/radar-chart-d3">
    radar chart
   </a>
-  <span>
-   &#9733 226, pushed 147 days ago
-  </span>
   - Radar chart module
+  <sup>
+   59 GitHub links in total 107 links, ★ 226, pushed 147 days ago
+  </sup>
+  <sup>
+   &#9733 226, pushed 147 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shutterstock/rickshaw">
    rickshaw
   </a>
-  <span>
-   &#9733 5718, pushed 25 days ago
-  </span>
   - Toolkit for creating interactive real-time graphs
+  <sup>
+   59 GitHub links in total 107 links, ★ 5718, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 5718, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/d3/d3-plugins/tree/master/sankey">
@@ -344,19 +395,25 @@
   <a href="https://github.com/Gapminder/vizabi">
    vizabi
   </a>
-  <span>
-   &#9733 86, pushed 2 days ago
-  </span>
   - A framework for building visual data exploration tools
+  <sup>
+   59 GitHub links in total 107 links, ★ 86, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 86, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/imkevinxu/xkcdgraphs">
    xkcdgraphs
   </a>
-  <span>
-   &#9733 246, pushed 248 days ago
-  </span>
   - Xkcd style graphs
+  <sup>
+   59 GitHub links in total 107 links, ★ 246, pushed 248 days ago
+  </sup>
+  <sup>
+   &#9733 246, pushed 248 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -373,10 +430,13 @@
   <a href="https://github.com/AnSavvides/d3act">
    d3act
   </a>
-  <span>
-   &#9733 223, pushed 5 days ago
-  </span>
   - d3 with React
+  <sup>
+   59 GitHub links in total 107 links, ★ 223, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 223, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://wordpress.org/plugins/d3-simplecharts/">
@@ -400,19 +460,25 @@
   <a href="https://github.com/esbullington/react-d3">
    react-d3
   </a>
-  <span>
-   &#9733 1111, pushed 25 days ago
-  </span>
   - Charts for React
+  <sup>
+   59 GitHub links in total 107 links, ★ 1111, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 1111, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/codesuki/react-d3-components">
    react-d3-components
   </a>
-  <span>
-   &#9733 915, pushed 13 days ago
-  </span>
   - D3 Components
+  <sup>
+   59 GitHub links in total 107 links, ★ 915, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 915, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="http://rrag.github.io/react-stockcharts">
@@ -436,10 +502,13 @@
   <a href="https://github.com/FormidableLabs/victory">
    victory
   </a>
-  <span>
-   &#9733 1038, pushed 7 days ago
-  </span>
   - A collection of composable React components for building interactive data visualizations
+  <sup>
+   59 GitHub links in total 107 links, ★ 1038, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1038, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -467,10 +536,13 @@
   <a href="https://github.com/emeeks/d3-carto-map">
    carto map
   </a>
-  <span>
-   &#9733 179, pushed 415 days ago
-  </span>
   - A mapping API that uses D3 geospatial functionality
+  <sup>
+   59 GitHub links in total 107 links, ★ 179, pushed 415 days ago
+  </sup>
+  <sup>
+   &#9733 179, pushed 415 days ago
+  </sup>
  </li>
  <li>
   <a href="http://rveciana.github.io/d3-composite-projections/">
@@ -494,10 +566,13 @@
   <a href="https://github.com/d3/d3-geo-projection">
    d3 geo projection
   </a>
-  <span>
-   &#9733 311, pushed 103 days ago
-  </span>
   - Extended geographic projections
+  <sup>
+   59 GitHub links in total 107 links, ★ 311, pushed 103 days ago
+  </sup>
+  <sup>
+   &#9733 311, pushed 103 days ago
+  </sup>
  </li>
  <li>
   <a href="http://d3-geomap.github.io/">
@@ -515,19 +590,25 @@
   <a href="https://github.com/floledermann/mapmap.js">
    mapmap.js
   </a>
-  <span>
-   &#9733 61, pushed 155 days ago
-  </span>
   - A data-driven API for interactive thematic maps
+  <sup>
+   59 GitHub links in total 107 links, ★ 61, pushed 155 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 155 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mapsense/mapsense.js">
    mapsense.js
   </a>
-  <span>
-   &#9733 78, pushed 230 days ago
-  </span>
   - Full resolution vector maps with D3
+  <sup>
+   59 GitHub links in total 107 links, ★ 78, pushed 230 days ago
+  </sup>
+  <sup>
+   &#9733 78, pushed 230 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -538,19 +619,25 @@
   <a href="https://github.com/Asymmetrik/leaflet-d3">
    leaflet-d3
   </a>
-  <span>
-   &#9733 103, pushed 231 days ago
-  </span>
   - Collection of plugins for using D3 with Leaflet
+  <sup>
+   59 GitHub links in total 107 links, ★ 103, pushed 231 days ago
+  </sup>
+  <sup>
+   &#9733 103, pushed 231 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/WikimapsAtlas/make-modules">
    Wikimaps-D3js Atlas
   </a>
-  <span>
-   &#9733 23, pushed 58 days ago
-  </span>
   - Command line utility and D3js based library to generate raster, topojson and svg maps
+  <sup>
+   59 GitHub links in total 107 links, ★ 23, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 58 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -573,46 +660,61 @@
   <a href="https://github.com/wbkd/d3-extended">
    d3-extended
   </a>
-  <span>
-   &#9733 236, pushed 39 days ago
-  </span>
   - Extends d3 with some common jQuery functions
+  <sup>
+   59 GitHub links in total 107 links, ★ 236, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 236, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bahmutov/d3-helpers">
    d3-helpers
   </a>
-  <span>
-   &#9733 23, pushed 525 days ago
-  </span>
   - Little utility functions
+  <sup>
+   59 GitHub links in total 107 links, ★ 23, pushed 525 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 525 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tomgp/d3-iconarray">
    d3-iconarray
   </a>
-  <span>
-   &#9733 34, pushed 61 days ago
-  </span>
   - A plug-in for aligning elements in grids
+  <sup>
+   59 GitHub links in total 107 links, ★ 34, pushed 61 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 61 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twitter/d3kit">
    d3-kit
   </a>
-  <span>
-   &#9733 216, pushed 26 days ago
-  </span>
   - A set of tools to speed D3 related project development
+  <sup>
+   59 GitHub links in total 107 links, ★ 216, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 216, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tinker10/D3-Labeler">
    d3-Labeler
   </a>
-  <span>
-   &#9733 117, pushed 225 days ago
-  </span>
   - Plug-in for automatic label placement
+  <sup>
+   59 GitHub links in total 107 links, ★ 117, pushed 225 days ago
+  </sup>
+  <sup>
+   &#9733 117, pushed 225 days ago
+  </sup>
  </li>
  <li>
   <a href="http://d3-legend.susielu.com/">
@@ -630,55 +732,73 @@
   <a href="https://github.com/1wheel/d3-starterkit">
    d3-starterkit
   </a>
-  <span>
-   &#9733 80, pushed 76 days ago
-  </span>
   - Helper functions simplifying common and verbose d3 patterns
+  <sup>
+   59 GitHub links in total 107 links, ★ 80, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 80, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Caged/d3-tip">
    d3-tip
   </a>
-  <span>
-   &#9733 746, pushed 26 days ago
-  </span>
   - Tooltips helper
+  <sup>
+   59 GitHub links in total 107 links, ★ 746, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 746, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bmschmidt/D3-trail">
    d3-trail
   </a>
-  <span>
-   &#9733 117, pushed 484 days ago
-  </span>
   - A layout for creating better path elements with d3
+  <sup>
+   59 GitHub links in total 107 links, ★ 117, pushed 484 days ago
+  </sup>
+  <sup>
+   &#9733 117, pushed 484 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MasterMaps/d3-slider">
    d3.slider
   </a>
-  <span>
-   &#9733 180, pushed 50 days ago
-  </span>
   - jQuery UI inspired slider
+  <sup>
+   59 GitHub links in total 107 links, ★ 180, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 180, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emeeks/d3.svg.circularbrush">
    d3.svg.circularbrush
   </a>
-  <span>
-   &#9733 38, pushed 125 days ago
-  </span>
   - A brush for selecting cyclical data
+  <sup>
+   59 GitHub links in total 107 links, ★ 38, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/emeeks/d3.svg.ribbon">
    d3.svg.ribbon
   </a>
-  <span>
-   &#9733 13, pushed 254 days ago
-  </span>
   - An area interpolator
+  <sup>
+   59 GitHub links in total 107 links, ★ 13, pushed 254 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 254 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kiernanmcgowan/d3-nelson-rules">
@@ -690,10 +810,13 @@
   <a href="https://github.com/efekarakus/d3-peaks">
    d3-peaks
   </a>
-  <span>
-   &#9733 32, pushed 39 days ago
-  </span>
   - Find peaks in a noisy signal
+  <sup>
+   59 GitHub links in total 107 links, ★ 32, pushed 39 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 39 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/1wheel/d3-starterkit">
@@ -711,10 +834,13 @@
   <a href="https://github.com/gka/d3-jetpack">
    jetpack
   </a>
-  <span>
-   &#9733 277, pushed 57 days ago
-  </span>
   - Nifty convenience wrappers that speed up your daily work
+  <sup>
+   59 GitHub links in total 107 links, ★ 277, pushed 57 days ago
+  </sup>
+  <sup>
+   &#9733 277, pushed 57 days ago
+  </sup>
  </li>
  <li>
   <a href="http://darkmarmot.github.io/kodama/">
@@ -726,19 +852,25 @@
   <a href="https://github.com/bizweekgraphics/swoopyarrows">
    swoopyarrows
   </a>
-  <span>
-   &#9733 34, pushed 43 days ago
-  </span>
   - Plugin to create swoopy arrows with d3
+  <sup>
+   59 GitHub links in total 107 links, ★ 34, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 34, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/1wheel/swoopy-drag">
    swoopyDrag
   </a>
-  <span>
-   &#9733 54, pushed 34 days ago
-  </span>
   - Artisanal label placement for d3 graphics
+  <sup>
+   59 GitHub links in total 107 links, ★ 54, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="http://riccardoscalco.github.io/textures/">
@@ -767,64 +899,85 @@
   <a href="https://github.com/balint42/comic.js">
    comic.js
   </a>
-  <span>
-   &#9733 90, pushed 128 days ago
-  </span>
   - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
+  <sup>
+   59 GitHub links in total 107 links, ★ 90, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 90, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/romsson/dragit">
    dragit
   </a>
-  <span>
-   &#9733 122, pushed 73 days ago
-  </span>
   - A toolkit to enable the manipulation of data graphics
+  <sup>
+   59 GitHub links in total 107 links, ★ 122, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 122, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mathisonian/d3moji">
    d3moji
   </a>
-  <span>
-   &#9733 96, pushed 365 days ago
-  </span>
   - First class emoji support
+  <sup>
+   59 GitHub links in total 107 links, ★ 96, pushed 365 days ago
+  </sup>
+  <sup>
+   &#9733 96, pushed 365 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jasondavies/d3-cloud">
    d3-cloud
   </a>
-  <span>
-   &#9733 1539, pushed 201 days ago
-  </span>
   - Word clouds
+  <sup>
+   59 GitHub links in total 107 links, ★ 1539, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 1539, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/patorjk/d3-context-menu">
    d3-context-menu
   </a>
-  <span>
-   &#9733 31, pushed 10 days ago
-  </span>
   - Helper to create context-menus
+  <sup>
+   59 GitHub links in total 107 links, ★ 31, pushed 10 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 10 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/glena/d3-resume">
    d3-resume
   </a>
-  <span>
-   &#9733 15, pushed 391 days ago
-  </span>
   - Resume visualizer
+  <sup>
+   59 GitHub links in total 107 links, ★ 15, pushed 391 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 391 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sebastian-meier/d3.sketchy">
    d3.sketchy
   </a>
-  <span>
-   &#9733 184, pushed 274 days ago
-  </span>
   - Creates sketchy backgrounds, shapes and lines
+  <sup>
+   59 GitHub links in total 107 links, ★ 184, pushed 274 days ago
+  </sup>
+  <sup>
+   &#9733 184, pushed 274 days ago
+  </sup>
  </li>
  <li>
   <a href="http://d3plus.org/">
@@ -836,10 +989,13 @@
   <a href="https://github.com/d3plus/d3plus-text">
    d3plus-text
   </a>
-  <span>
-   &#9733 7, pushed 4 days ago
-  </span>
   - Smart SVG text box with line wrapping and automatic font scaling
+  <sup>
+   59 GitHub links in total 107 links, ★ 7, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://1wheel.github.io/graph-scroll/">
@@ -851,10 +1007,13 @@
   <a href="https://github.com/amcmillan01/jsdoc2diagram">
    jsdocs2diagram
   </a>
-  <span>
-   &#9733 27, pushed 191 days ago
-  </span>
   - Create tree diagram from jsdoc
+  <sup>
+   59 GitHub links in total 107 links, ★ 27, pushed 191 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 191 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -865,18 +1024,24 @@
   <a href="https://github.com/fabriciotav/d3-snippets-for-sublime-text-2">
    D3.js snippets for Sublime Text 2
   </a>
-  <span>
-   &#9733 10, pushed 777 days ago
-  </span>
   - A Sublime Text 2 package with d3 snippets
+  <sup>
+   59 GitHub links in total 107 links, ★ 10, pushed 777 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 777 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/martgnz/d3-snippets">
    Atom D3 snippets
   </a>
-  <span>
-   &#9733 15, pushed 51 days ago
-  </span>
   - An Atom package with d3 snippets
+  <sup>
+   59 GitHub links in total 107 links, ★ 15, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 51 days ago
+  </sup>
  </li>
 </ul>

@@ -28,10 +28,13 @@
   <a href="https://github.com/auchenberg/chrome-devtools-app">
    Chrome DevTools App
   </a>
-  <span>
-   &#9733 1270, pushed 165 days ago
-  </span>
   - Standalone app which can inspect various targets.
+  <sup>
+   24 GitHub links in total 48 links, ★ 1270, pushed 165 days ago
+  </sup>
+  <sup>
+   &#9733 1270, pushed 165 days ago
+  </sup>
  </li>
  <li>
   <a href="https://devtoolsremote.com/">
@@ -43,10 +46,13 @@
   <a href="https://github.com/bahmutov/code-snippets">
    DevTools Snippets
   </a>
-  <span>
-   &#9733 888, pushed 63 days ago
-  </span>
   - Collection of snippets.
+  <sup>
+   24 GitHub links in total 48 links, ★ 888, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 888, pushed 63 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -57,14 +63,17 @@
   <a href="https://github.com/cyrus-and/chrome-remote-interface">
    chrome-remote-interface
   </a>
-  <span>
-   &#9733 293, pushed 4 days ago
-  </span>
   - The recommended Node.js API for the protocol. There are also
   <a href="https://github.com/DickvdBrink/chrome-debug-protocol">
    TypeScript-friendly alternatives
   </a>
   .
+  <sup>
+   24 GitHub links in total 48 links, ★ 293, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 293, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.npmjs.com/package/chrome-devtools-frontend">
@@ -82,19 +91,25 @@
   <a href="https://github.com/sidorares/crmux">
    crmux
   </a>
-  <span>
-   &#9733 64, pushed 85 days ago
-  </span>
   - Multiplexes protocol connections.
+  <sup>
+   24 GitHub links in total 48 links, ★ 64, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 64, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sidorares/crconsole">
    crconsole
   </a>
-  <span>
-   &#9733 106, pushed 19 days ago
-  </span>
   - Terminal based chrome console and debugger.
+  <sup>
+   24 GitHub links in total 48 links, ★ 106, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -111,37 +126,49 @@
   <a href="https://github.com/RemoteDebug/remotedebug-gateway">
    Remote Debug Gateway
   </a>
-  <span>
-   &#9733 51, pushed 181 days ago
-  </span>
   - Allows you to connect a client to multiple browsers at once.
+  <sup>
+   24 GitHub links in total 48 links, ★ 51, pushed 181 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 181 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RemoteDebug/remotedebug-firefox-adapter">
    Remote Debug Firefox adapter
   </a>
-  <span>
-   &#9733 94, pushed 146 days ago
-  </span>
   - Translates Firefox's devtools protocol to the CDP
+  <sup>
+   24 GitHub links in total 48 links, ★ 94, pushed 146 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 146 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/ios-webkit-debug-proxy">
    ios-webkit-debug-proxy
   </a>
-  <span>
-   &#9733 2012, pushed 2 days ago
-  </span>
   - Exposes Mobile Safari & UIWebView instances via the CDP.
+  <sup>
+   24 GitHub links in total 48 links, ★ 2012, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2012, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Microsoft/IEDiagnosticsAdapter">
    IE Diagnostics Adapter
   </a>
-  <span>
-   &#9733 490, pushed 50 days ago
-  </span>
   - Protocol adaptor for Microsoft IE 10/11 to CDP.
+  <sup>
+   24 GitHub links in total 48 links, ★ 490, pushed 50 days ago
+  </sup>
+  <sup>
+   &#9733 490, pushed 50 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Microsoft/edge-diagnostics-adaptor">
@@ -153,10 +180,13 @@
   <a href="https://github.com/artygus/devtools-compat-proxy">
    devtools-compat-proxy
   </a>
-  <span>
-   &#9733 11, pushed 222 days ago
-  </span>
   - Young effort to translate modern Safari debugging protocol to modern CDP.
+  <sup>
+   24 GitHub links in total 48 links, ★ 11, pushed 222 days ago
+  </sup>
+  <sup>
+   &#9733 11, pushed 222 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sidorares/crmux">
@@ -179,19 +209,25 @@
   <a href="https://github.com/square/PonyDebugger">
    PonyDebugger
   </a>
-  <span>
-   &#9733 4896, pushed 51 days ago
-  </span>
   - Remote network and data debugging iOS apps with Chrome DevTools
+  <sup>
+   24 GitHub links in total 48 links, ★ 4896, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 4896, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/facebook/stetho">
    Facebook Stetho
   </a>
-  <span>
-   &#9733 4793, pushed 35 days ago
-  </span>
   - Native Android debugging with Chrome DevTools
+  <sup>
+   24 GitHub links in total 48 links, ★ 4793, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 4793, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -202,19 +238,25 @@
   <a href="https://github.com/Jam3/devtool">
    devtool
   </a>
-  <span>
-   &#9733 2666, pushed 33 days ago
-  </span>
   - Debug & profile Node.js apps with Chrome DevTools (using Electron).
+  <sup>
+   24 GitHub links in total 48 links, ★ 2666, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 2666, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buggerjs/bugger">
    buggerJS
   </a>
-  <span>
-   &#9733 129, pushed 31 days ago
-  </span>
   - Provides Chrome DevTools bindings for node.
+  <sup>
+   24 GitHub links in total 48 links, ★ 129, pushed 31 days ago
+  </sup>
+  <sup>
+   &#9733 129, pushed 31 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -225,10 +267,13 @@
   <a href="https://github.com/andrewdavey/immutable-devtools">
    immutable-devtools
   </a>
-  <span>
-   &#9733 391, pushed 34 days ago
-  </span>
   - Custom formatter for Immutable-js values.
+  <sup>
+   24 GitHub links in total 48 links, ★ 391, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 391, pushed 34 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -239,10 +284,13 @@
   <a href="https://github.com/kdzwinel/betwixt">
    betwixt
   </a>
-  <span>
-   &#9733 2953, pushed 23 days ago
-  </span>
   - System level network proxy, providing inspection via Network panel
+  <sup>
+   24 GitHub links in total 48 links, ★ 2953, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 2953, pushed 23 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -262,27 +310,33 @@
   <a href="https://github.com/brendankenny/call-trace">
    call-trace
   </a>
-  <span>
-   &#9733 12, pushed 60 days ago
-  </span>
   - Can instrument your JS with hooks, and then generate a
   <code>
    .cpuprofile
   </code>
   of the of the complete (non-sampled) execution. View either time or call counts.
+  <sup>
+   24 GitHub links in total 48 links, ★ 12, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/thlorenz/cpuprofilify">
    cpuprofilify
   </a>
-  <span>
-   &#9733 94, pushed 65 days ago
-  </span>
   - Converts output of various profiling/sampling tools to the
   <code>
    .cpuprofile
   </code>
   format.
+  <sup>
+   24 GitHub links in total 48 links, ★ 94, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 94, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="http://wishbone.readthedocs.org/en/develop/miscellaneous.html#profiling">
@@ -303,10 +357,13 @@
   <a href="https://github.com/pmdartus/snapline">
    snapline
   </a>
-  <span>
-   &#9733 154, pushed 47 days ago
-  </span>
   - Converts timeline screenshots to gif.
+  <sup>
+   24 GitHub links in total 48 links, ★ 154, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 154, pushed 47 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -367,10 +424,13 @@
   <a href="https://github.com/vuejs/vue-devtools">
    VueJS Developer Tools
   </a>
-  <span>
-   &#9733 625, pushed 22 days ago
-  </span>
   - Inspect VueJS components and manipulate their data.
+  <sup>
+   24 GitHub links in total 48 links, ★ 625, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 625, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk">
@@ -418,14 +478,17 @@
   <a href="https://github.com/escaton/bem-chrome-devtools">
    BEM devtools
   </a>
-  <span>
-   &#9733 25, pushed 48 days ago
-  </span>
   - Inspect BEM entities expressed in
   <code>
    i-bem
   </code>
   framework.
+  <sup>
+   24 GitHub links in total 48 links, ★ 25, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 48 days ago
+  </sup>
  </li>
 </ul>
 <h3>

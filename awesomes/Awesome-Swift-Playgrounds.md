@@ -147,100 +147,133 @@
   <a href="https://github.com/nettlep/learn-swift">
    Learn Swift
   </a>
-  <span>
-   &#9733 652, pushed 128 days ago
-  </span>
   - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 652, pushed 128 days ago
+  </sup>
+  <sup>
+   &#9733 652, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danielpi/Swift-Playgrounds">
    The Swift Programming Language Playgrounds
   </a>
-  <span>
-   &#9733 76, pushed 42 days ago
-  </span>
   - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 76, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 76, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sivragav/swift-reference-pg">
    Swift Reference Playground
   </a>
-  <span>
-   &#9733 52, pushed 684 days ago
-  </span>
   - Reference playground with basic language syntax and examples.
+  <sup>
+   90 GitHub links in total 112 links, ★ 52, pushed 684 days ago
+  </sup>
+  <sup>
+   &#9733 52, pushed 684 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/austinzheng/swift-worksheets">
    Swift Eorksheets
   </a>
-  <span>
-   &#9733 1, pushed 649 days ago
-  </span>
   - Learn Swift by reading through and experimenting with playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 649 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 649 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kefbytes/Swift_Crash_Course">
    Swift Crash Course
   </a>
-  <span>
-   &#9733 6, pushed 43 days ago
-  </span>
   - A Swift crash course, with links explaining the language and a playground for each topic.
+  <sup>
+   90 GitHub links in total 112 links, ★ 6, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cnoon/Swift-Introduction">
    Swift-Introduction
   </a>
-  <span>
-   &#9733 51, pushed 23 days ago
-  </span>
   - Collection of playgrounds covering various aspect of the Swift language.
+  <sup>
+   90 GitHub links in total 112 links, ★ 51, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 51, pushed 23 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/developerY/Swift2_Playgrounds">
    Swift2 by Playgrounds
   </a>
-  <span>
-   &#9733 8, pushed 149 days ago
-  </span>
   - Learn Swift 2.0 from playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 8, pushed 149 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 149 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/GuildSA/SwiftHackPack">
    Swift Hack Pack
   </a>
-  <span>
-   &#9733 2, pushed 11 days ago
-  </span>
   - Collection of playgrounds that teaches Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds">
    SwiftStandardLibraryPlaygrounds
   </a>
-  <span>
-   &#9733 15, pushed 566 days ago
-  </span>
   - A collection of playground demonstrating the use of the Swift Standard Library.
+  <sup>
+   90 GitHub links in total 112 links, ★ 15, pushed 566 days ago
+  </sup>
+  <sup>
+   &#9733 15, pushed 566 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds">
    MPCS51030 UChicago iOS Course
   </a>
-  <span>
-   &#9733 2, pushed 256 days ago
-  </span>
   - Playgrounds from the 2015 iOS course of the University of Chicago.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 256 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 257 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jakarmy/swift-summary">
    The Swift Summary Book
   </a>
-  <span>
-   &#9733 1278, pushed 6 days ago
-  </span>
   - A summary of Apple's Swift language. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 1278, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1278, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -256,77 +289,101 @@
   <a href="https://github.com/andyshep/CoreDataPlayground">
    A Swift Introduction to Core Data
   </a>
-  <span>
-   &#9733 83, pushed 71 days ago
-  </span>
   - Learn Code Data experimenting directly in this playground. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 83, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 83, pushed 71 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jstart/Swiftly-Typed-Resources">
    Swiftly Typed Resources
   </a>
-  <span>
-   &#9733 70, pushed 245 days ago
-  </span>
   - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
+  <sup>
+   90 GitHub links in total 112 links, ★ 70, pushed 245 days ago
+  </sup>
+  <sup>
+   &#9733 70, pushed 245 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sshrpe/TDDSwiftPlayground">
    TDDSwiftPlayground
   </a>
-  <span>
-   &#9733 14, pushed 178 days ago
-  </span>
   - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
+  <sup>
+   90 GitHub links in total 112 links, ★ 14, pushed 178 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 178 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cfdrake/swift-dsl-example">
    Swift DSL Example
   </a>
-  <span>
-   &#9733 7, pushed 187 days ago
-  </span>
   - Implementation of a DSL in Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 7, pushed 187 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 187 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/rectalogic/KVOPlayground">
    Swift KVO Closures
   </a>
-  <span>
-   &#9733 7, pushed 628 days ago
-  </span>
   - Swift KVO playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 7, pushed 629 days ago
+  </sup>
+  <sup>
+   &#9733 7, pushed 629 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/liuyubobobo/Swift-NSDate-Tutorial">
    Swift Data Tutorial
   </a>
-  <span>
-   &#9733 5, pushed 120 days ago
-  </span>
   - Learn everythig about NSDate.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 120 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 120 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/MacMark/SwiftAndC">
    Swift And C
   </a>
-  <span>
-   &#9733 0, pushed 186 days ago
-  </span>
   - Examples about using C with Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 186 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 186 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ndethore/swift-memory-management">
    Swift Memory Management
   </a>
-  <span>
-   &#9733 0, pushed 102 days ago
-  </span>
   - How to avoid retain cycles, from
   <a href="http://detho.re/2016/01/21/writing-memory-efficient-swift-code/">
    this post
   </a>
   .
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 102 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -337,19 +394,25 @@
   <a href="https://github.com/ihrd/Design-Patterns-Playground">
    Design Patterns Playgrounds
   </a>
-  <span>
-   &#9733 25, pushed 47 days ago
-  </span>
   - Playground that show various traditional design patterns.
+  <sup>
+   90 GitHub links in total 112 links, ★ 25, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 25, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/edopelawi/DesignPatternsPlayground">
    Design Patterns Playground
   </a>
-  <span>
-   &#9733 5, pushed 18 days ago
-  </span>
   - Learning GoF's Design Patterns in Swift 2.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 18 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -360,28 +423,37 @@
   <a href="https://github.com/alskipp/Swift-Diagram-Playgrounds">
    Swift Diagram Playgrounds
   </a>
-  <span>
-   &#9733 219, pushed 154 days ago
-  </span>
   - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
+  <sup>
+   90 GitHub links in total 112 links, ★ 219, pushed 154 days ago
+  </sup>
+  <sup>
+   &#9733 219, pushed 154 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/davidahouse/SwiftProtocolExtensions">
    Swift Protocol Extensions
   </a>
-  <span>
-   &#9733 18, pushed 269 days ago
-  </span>
   - A playground to explore Protocol Extensions.
+  <sup>
+   90 GitHub links in total 112 links, ★ 18, pushed 269 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 269 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/vichudson1/Battleship-POP-Example">
    Battleship Example
   </a>
-  <span>
-   &#9733 3, pushed 90 days ago
-  </span>
   - An example of how to use Protocol Oriented Programming with the battleship game.
+  <sup>
+   90 GitHub links in total 112 links, ★ 3, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 90 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -392,19 +464,25 @@
   <a href="https://github.com/nikita-leonov/ReactiveCocoaPlayground">
    ReactiveCocoa Playground
   </a>
-  <span>
-   &#9733 84, pushed 81 days ago
-  </span>
   - The easiest way to get a taste of ReactiveCocoa.
+  <sup>
+   90 GitHub links in total 112 links, ★ 84, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 84, pushed 81 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ColinEberhardt/SwiftReactivePlayground">
    Swift Reactive Playground
   </a>
-  <span>
-   &#9733 23, pushed 608 days ago
-  </span>
   - Companion to the article: ReactiveCocoa made Simple With Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 23, pushed 608 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 608 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -420,10 +498,13 @@
   <a href="https://github.com/palmerc/Mandelbrot-Swift-Playground">
    Apple's Mandelbrot Playground
   </a>
-  <span>
-   &#9733 2, pushed 104 days ago
-  </span>
   - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 104 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 104 days ago
+  </sup>
  </li>
  <li>
   <a href="https://developer.apple.com/swift/blog/downloads/Balloons.zip">
@@ -451,28 +532,37 @@
   <a href="https://github.com/dasdom/InteractivePlayground">
    Interactive Playground
   </a>
-  <span>
-   &#9733 29, pushed 88 days ago
-  </span>
   - Exploring interactivity in Playgrounds in Xcode 7.3.
+  <sup>
+   90 GitHub links in total 112 links, ★ 29, pushed 88 days ago
+  </sup>
+  <sup>
+   &#9733 29, pushed 88 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Liquidsoul/XCTestPlayground">
    XCTest Playground
   </a>
-  <span>
-   &#9733 4, pushed 90 days ago
-  </span>
   - Better looking tests for playgrounds
+  <sup>
+   90 GitHub links in total 112 links, ★ 4, pushed 90 days ago
+  </sup>
+  <sup>
+   &#9733 4, pushed 90 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/timbellay/Mondrian">
    Mondrian
   </a>
-  <span>
-   &#9733 0, pushed 100 days ago
-  </span>
   - Make iOS app mockups in Swift 2.x playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 100 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 100 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -488,100 +578,133 @@
   <a href="https://github.com/mbrandonw/learn-transducers-playground">
    Learn about transducers
   </a>
-  <span>
-   &#9733 60, pushed 534 days ago
-  </span>
   - A little tutorial that explains transducers.
+  <sup>
+   90 GitHub links in total 112 links, ★ 60, pushed 534 days ago
+  </sup>
+  <sup>
+   &#9733 60, pushed 534 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground">
    Swift Functors, Applicatives, and Monads in Pictures
   </a>
-  <span>
-   &#9733 33, pushed 134 days ago
-  </span>
   - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
+  <sup>
+   90 GitHub links in total 112 links, ★ 33, pushed 134 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 134 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mokagio/Swift-Functor-Introduction-Playground">
    Functors in Swift
   </a>
-  <span>
-   &#9733 6, pushed 296 days ago
-  </span>
   - A playground to introduce Functors in Swift, and their practical usage.
+  <sup>
+   90 GitHub links in total 112 links, ★ 6, pushed 296 days ago
+  </sup>
+  <sup>
+   &#9733 6, pushed 296 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/oliverfoggin/DataStructuresPlayground">
    DataStructures Playground
   </a>
-  <span>
-   &#9733 13, pushed 308 days ago
-  </span>
   - Data Structures and Algorithms in Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 13, pushed 308 days ago
+  </sup>
+  <sup>
+   &#9733 13, pushed 308 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sketchytech/Swiftography">
    Swiftography
   </a>
-  <span>
-   &#9733 8, pushed 92 days ago
-  </span>
   - Standard cryptographic algorithms in a Swift Playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 8, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ashokgelal/AlgorithmsPlayground">
    Algorithms Playground
   </a>
-  <span>
-   &#9733 1, pushed 335 days ago
-  </span>
   - Various algorithm implementation in Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 335 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 335 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/evansjohnson/DynamicProgrammingWithSwift">
    Dynamic Programming With Swift
   </a>
-  <span>
-   &#9733 0, pushed 132 days ago
-  </span>
   - A set of three dynamic programming problems implemented in a Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 132 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hollance/swift-algorithm-club">
    Swift Algorithm Club
   </a>
-  <span>
-   &#9733 5152, pushed 4 days ago
-  </span>
   - Algorithms and data structures in Swift with explanations. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 5152, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5152, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/adrfer/Sort">
    Sorting Experiments
   </a>
-  <span>
-   &#9733 2, pushed 26 days ago
-  </span>
   - Alluring experiments with sorting algorithms in Swift, sort of.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kyleweiner/Jelly-Bean-Problem">
    The Jelly Bean Problem
   </a>
-  <span>
-   &#9733 2, pushed 54 days ago
-  </span>
   - The Jelly Bean problem from Wait But Why.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 54 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 54 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/modulusMathews/ReEuclid">
    Euclidean Strings
   </a>
-  <span>
-   &#9733 1, pushed 35 days ago
-  </span>
   - A playground leveraging ReSwift to generate Euclidean Strings
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 35 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 35 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -597,99 +720,126 @@
   <a href="https://github.com/dasdom/UIStackViewPlayground">
    UIStackView Playground
   </a>
-  <span>
-   &#9733 248, pushed 163 days ago
-  </span>
   - Interesting examples of use of UIStackViews.🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 248, pushed 163 days ago
+  </sup>
+  <sup>
+   &#9733 248, pushed 163 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DigitalLeaves/BezierPathPlaygrounds">
    Bezier Path Playgrounds
   </a>
-  <span>
-   &#9733 10, pushed 282 days ago
-  </span>
   - Some playgrounds to better understand UIBezierPaths.
+  <sup>
+   90 GitHub links in total 112 links, ★ 10, pushed 282 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 282 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/RobotsAndPencils/RPClarity">
    RPClarity
   </a>
-  <span>
-   &#9733 33, pushed 265 days ago
-  </span>
   - Shows a technique for blurring an image behind the characters behind one or more UILabels.
+  <sup>
+   90 GitHub links in total 112 links, ★ 33, pushed 265 days ago
+  </sup>
+  <sup>
+   &#9733 33, pushed 265 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nickoneill/swiftclock">
    Swift Clock
   </a>
-  <span>
-   &#9733 14, pushed 536 days ago
-  </span>
   - An animated clock in a swift playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 14, pushed 536 days ago
+  </sup>
+  <sup>
+   &#9733 14, pushed 536 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BilalReffas/CheckmarkButton">
    Checkmark Button
   </a>
-  <span>
-   &#9733 5, pushed 95 days ago
-  </span>
   - Animated check mark button.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 95 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 95 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ralfebert/uikit-playground">
    UIKit playground
   </a>
-  <span>
-   &#9733 5, pushed 206 days ago
-  </span>
   - Playgrounds to experiment interactively with UIKit views.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 206 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 206 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/cwimberger/WatchKitAssetPlayground">
    WatchKit Asset Playground
   </a>
-  <span>
-   &#9733 3, pushed 358 days ago
-  </span>
   - A swift playground for creating awesome animations for your WatchKit Apps.
+  <sup>
+   90 GitHub links in total 112 links, ★ 3, pushed 358 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 358 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jhurray/Swift2-Protocol-Extension-Example">
    Swift 2.0 Protocol Extension Example
   </a>
-  <span>
-   &#9733 39, pushed 219 days ago
-  </span>
   - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
+  <sup>
+   90 GitHub links in total 112 links, ★ 39, pushed 219 days ago
+  </sup>
+  <sup>
+   &#9733 39, pushed 219 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Jesse-calkin/tinting">
    Tinting
   </a>
-  <span>
-   &#9733 0, pushed 152 days ago
-  </span>
   - A small playground to demonstrate image tinting in UIKit.
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 152 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 152 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/danielrhammond/GIF-Playground">
    Animated GIF Playground
   </a>
-  <span>
-   &#9733 2, pushed 62 days ago
-  </span>
   - Swift playground for generating animated GIFs.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Swiftor/Raytracing">
    Ray tracing Playground
   </a>
-  <span>
-   &#9733 9, pushed 43 days ago
-  </span>
   - A playground and a series of articles on ray tracing, see also part
   <a href="https://github.com/Swiftor/Raytracing2">
    2
@@ -703,6 +853,12 @@
    4
   </a>
   🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 9, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -713,28 +869,37 @@
   <a href="https://github.com/FlexMonkey/Interpolation-Playground-">
    Interpolation Playground
   </a>
-  <span>
-   &#9733 22, pushed 64 days ago
-  </span>
   - Playground demonstrating lerp, smooth step, Catcall-Rom and others!
+  <sup>
+   90 GitHub links in total 112 links, ★ 22, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds">
    CoreImage for Swift Playgrounds
   </a>
-  <span>
-   &#9733 16, pushed 32 days ago
-  </span>
   - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 16, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mortenbrudvik/ImageProcessor">
    Image Processor
   </a>
-  <span>
-   &#9733 0, pushed 189 days ago
-  </span>
   - Implementing different image filter algorithms.
+  <sup>
+   90 GitHub links in total 112 links, ★ 0, pushed 189 days ago
+  </sup>
+  <sup>
+   &#9733 0, pushed 189 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -745,19 +910,25 @@
   <a href="https://github.com/haawa799/METAL_Playground">
    METAL Playground
   </a>
-  <span>
-   &#9733 31, pushed 663 days ago
-  </span>
   - Apple Metal framework playground. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 31, pushed 663 days ago
+  </sup>
+  <sup>
+   &#9733 31, pushed 663 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jtbandes/Metalbrot.playground">
    Metalbrot
   </a>
-  <span>
-   &#9733 22, pushed 71 days ago
-  </span>
   - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 22, pushed 71 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 71 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -768,37 +939,49 @@
   <a href="https://github.com/JakeLin/iOSAnimationSample">
    iOS Animation Samples
   </a>
-  <span>
-   &#9733 111, pushed 52 days ago
-  </span>
   - Experiment with iOS animations. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 111, pushed 52 days ago
+  </sup>
+  <sup>
+   &#9733 111, pushed 52 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/d-ronnqvist/Additive-Animations-Playground">
    Additive Animations
   </a>
-  <span>
-   &#9733 26, pushed 679 days ago
-  </span>
   - Experiment with multiple additive animations in Core Animation.
+  <sup>
+   90 GitHub links in total 112 links, ★ 26, pushed 679 days ago
+  </sup>
+  <sup>
+   &#9733 26, pushed 679 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/knightsc/CoreAnimationPlayground">
    Core Animation Playground
   </a>
-  <span>
-   &#9733 2, pushed 252 days ago
-  </span>
   - Companion to Apple's Core Animation Programming Guide.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 252 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 252 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground">
    Duet-Inspired Trail Effect
   </a>
-  <span>
-   &#9733 2, pushed 28 days ago
-  </span>
   - How to get a Duet style trailing effect in SpriteKit.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 28 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -809,19 +992,25 @@
   <a href="https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground">
    Sprite Kit Collisions
   </a>
-  <span>
-   &#9733 23, pushed 82 days ago
-  </span>
   - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
+  <sup>
+   90 GitHub links in total 112 links, ★ 23, pushed 82 days ago
+  </sup>
+  <sup>
+   &#9733 23, pushed 82 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/UCh/swift-scene-kit-playgrounds">
    SceneKit Examples
   </a>
-  <span>
-   &#9733 10, pushed 380 days ago
-  </span>
   - Experiment with SceneKit and Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 10, pushed 380 days ago
+  </sup>
+  <sup>
+   &#9733 10, pushed 380 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -837,19 +1026,25 @@
   <a href="https://github.com/dreamwieber/BachPlayground">
    Bach Playground
   </a>
-  <span>
-   &#9733 2, pushed 275 days ago
-  </span>
   - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 275 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 275 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/genedelisa/PlayerNodePlayground">
    PlayerNode Playground
   </a>
-  <span>
-   &#9733 1, pushed 106 days ago
-  </span>
   - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 106 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 106 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -865,28 +1060,37 @@
   <a href="https://github.com/henrinormak/lindenmayer">
    Lindenmayer Systems
   </a>
-  <span>
-   &#9733 2, pushed 95 days ago
-  </span>
   - A Swift playground exploring Lindemayer systems.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 95 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 95 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/haginile/SwiftAccelerate">
    Swift Accelerate
   </a>
-  <span>
-   &#9733 48, pushed 653 days ago
-  </span>
   - Using the Accelerate framework and Swift for Linear Algebra.
+  <sup>
+   90 GitHub links in total 112 links, ★ 48, pushed 653 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 653 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/DylanModesitt/swiftyMathematics">
    Swifty Mathematics
   </a>
-  <span>
-   &#9733 1, pushed 261 days ago
-  </span>
   - A collection of swift playground about mathematics.
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 261 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 261 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds">
@@ -898,10 +1102,13 @@
   <a href="https://github.com/jakebromberg/Swift-Natural-Numbers">
    Swift Natural Numbers
   </a>
-  <span>
-   &#9733 2, pushed 63 days ago
-  </span>
   - A playground for implementing the natural numbers and more concepts in number theory.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 63 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -917,28 +1124,37 @@
   <a href="https://github.com/renrawnalon/ArgoPlayground">
    Argo Playground
   </a>
-  <span>
-   &#9733 1, pushed 116 days ago
-  </span>
   - JSON decoding with Argo.
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 116 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 116 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ultrasaurus/ParsePlayground">
    Parse Playground
   </a>
-  <span>
-   &#9733 3, pushed 121 days ago
-  </span>
   - Experimenting with Parse.com in Swift.
+  <sup>
+   90 GitHub links in total 112 links, ★ 3, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/djromero/S3UploaderPlayground">
    S3Uploader
   </a>
-  <span>
-   &#9733 2, pushed 108 days ago
-  </span>
   - A playground to upload images to AWS S3.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 108 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 108 days ago
+  </sup>
  </li>
  <li>
   <a href="http://audiokit.io/playgrounds/">
@@ -960,95 +1176,125 @@
   <a href="https://github.com/Jasdev/Public-Extension">
    Public Extensions
   </a>
-  <span>
-   &#9733 81, pushed 2 days ago
-  </span>
   - A set of useful extensions from
   <a href="https://twitter.com/publicextension">
    @PublicExtension
   </a>
   . 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 81, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 81, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sketchytech/SwiftPlaygrounds">
    Sketchytech's Playgrounds
   </a>
-  <span>
-   &#9733 8, pushed 301 days ago
-  </span>
   - Various Playgrounds. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 8, pushed 301 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 301 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zwaldowski/ParksAndRecreation">
    Parks And Recreation
   </a>
-  <span>
-   &#9733 61, pushed 14 days ago
-  </span>
   - Great collection of interesting playgrounds, for fun and for profit. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 61, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 61, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madbat/Swift-fun-playgrounds">
    Swift fun playgrounds
   </a>
-  <span>
-   &#9733 5, pushed 413 days ago
-  </span>
   - A few playgrounds to showcase Swift peculiar features.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 413 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 413 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/BradLarson/PersonalSwiftPlaygrounds">
    BradLarson's Playgrounds
   </a>
-  <span>
-   &#9733 18, pushed 582 days ago
-  </span>
   - Various playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 18, pushed 582 days ago
+  </sup>
+  <sup>
+   &#9733 18, pushed 582 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dmikusa/swift_playgrounds">
    Dmikusa's Playgrounds
   </a>
-  <span>
-   &#9733 12, pushed 295 days ago
-  </span>
   - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
+  <sup>
+   90 GitHub links in total 112 links, ★ 12, pushed 295 days ago
+  </sup>
+  <sup>
+   &#9733 12, pushed 295 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Cananito/Playgrounds">
    Cananito's Playgrounds
   </a>
-  <span>
-   &#9733 2, pushed 254 days ago
-  </span>
   - Various playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 254 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 254 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mgrebenets/playgrounds">
    Mgrebenets's Playgrounds
   </a>
-  <span>
-   &#9733 3, pushed 64 days ago
-  </span>
   - Various playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 3, pushed 64 days ago
+  </sup>
+  <sup>
+   &#9733 3, pushed 64 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uberbruns/SwiftPlaygrounds">
    Uberbruns's Playgrounds
   </a>
-  <span>
-   &#9733 1, pushed 21 days ago
-  </span>
   - Various playgrounds.
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/uraimo/Swift-Playgrounds">
    URaimo's Playgrounds
   </a>
-  <span>
-   &#9733 49, pushed 25 days ago
-  </span>
   - My playgrounds, various topics.
+  <sup>
+   90 GitHub links in total 112 links, ★ 49, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 49, pushed 25 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1064,72 +1310,96 @@
   <a href="https://github.com/dimsumthinking/TurtlePlayground">
    Turtle Playground
   </a>
-  <span>
-   &#9733 118, pushed 73 days ago
-  </span>
   - A playground with Logo-like commands. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 118, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 118, pushed 73 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/joalbright/Gameboard">
    Game Boards
   </a>
-  <span>
-   &#9733 126, pushed 85 days ago
-  </span>
   - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 126, pushed 85 days ago
+  </sup>
+  <sup>
+   &#9733 126, pushed 85 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xavieryao/Swift-Brainfuck">
    Swift Brainfuck
   </a>
-  <span>
-   &#9733 5, pushed 696 days ago
-  </span>
   - Brainfuck interpreter written in Swift using Playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 5, pushed 696 days ago
+  </sup>
+  <sup>
+   &#9733 5, pushed 696 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tnantoka/IconCreator">
    Icon Creator
   </a>
-  <span>
-   &#9733 2, pushed 84 days ago
-  </span>
   - Create app icons on Swift playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 84 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 84 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jconkin/StarWarsSeals">
    StarWars Seals
   </a>
-  <span>
-   &#9733 2, pushed 111 days ago
-  </span>
   - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 111 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 111 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sketchytech/SwiftFiles">
    SwiftFiles
   </a>
-  <span>
-   &#9733 22, pushed 62 days ago
-  </span>
   - Save, Load and Delete files easily from within a Swift playground.
+  <sup>
+   90 GitHub links in total 112 links, ★ 22, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 22, pushed 62 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/brianhill/register-vm-in-swift">
    Register VM
   </a>
-  <span>
-   &#9733 2, pushed 91 days ago
-  </span>
   - A register-based VM in a Swift playground. 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 2, pushed 91 days ago
+  </sup>
+  <sup>
+   &#9733 2, pushed 91 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jtbandes/DSCOVR.playground">
    Earth photos
   </a>
-  <span>
-   &#9733 1, pushed 11 days ago
-  </span>
   - A slideshow of Earth photos taken by DSCOVR/EPIC 🌟
+  <sup>
+   90 GitHub links in total 112 links, ★ 1, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1, pushed 11 days ago
+  </sup>
  </li>
 </ul>

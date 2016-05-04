@@ -486,19 +486,25 @@
   <a href="https://github.com/qw3rtman/p">
    p
   </a>
-  <span>
-   &#9733 546, pushed 36 days ago
-  </span>
   - Dead simple interactive Python version management.
+  <sup>
+   347 GitHub links in total 782 links, ★ 546, pushed 36 days ago
+  </sup>
+  <sup>
+   &#9733 546, pushed 36 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yyuu/pyenv">
    pyenv
   </a>
-  <span>
-   &#9733 4411, pushed 2 days ago
-  </span>
   - Simple Python version management.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4411, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4411, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://docs.python.org/3/library/venv.html">
@@ -545,10 +551,13 @@
   <a href="https://github.com/nvie/pip-tools">
    pip-tools
   </a>
-  <span>
-   &#9733 1562, pushed 7 days ago
-  </span>
   - A set of tools to keep your pinned Python dependencies fresh.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1562, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1562, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/conda/conda/">
@@ -582,9 +591,6 @@
   <a href="https://github.com/pypa/warehouse">
    warehouse
   </a>
-  <span>
-   &#9733 522, pushed 0 days ago
-  </span>
   - Next generation Python Package Repository (PyPI).
   <ul>
    <li>
@@ -593,6 +599,12 @@
     </a>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 522, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 522, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/pypa/bandersnatch">
@@ -610,10 +622,13 @@
   <a href="https://github.com/mvantellingen/localshop">
    localshop
   </a>
-  <span>
-   &#9733 269, pushed 237 days ago
-  </span>
   - Local PyPI server (custom packages and auto-mirroring of pypi).
+  <sup>
+   347 GitHub links in total 782 links, ★ 269, pushed 237 days ago
+  </sup>
+  <sup>
+   &#9733 269, pushed 237 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -629,10 +644,13 @@
   <a href="https://github.com/pyinstaller/pyinstaller">
    PyInstaller
   </a>
-  <span>
-   &#9733 1698, pushed 3 days ago
-  </span>
   - Converts Python programs into stand-alone executables (cross-platform).
+  <sup>
+   347 GitHub links in total 782 links, ★ 1698, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1698, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dh-virtualenv.readthedocs.org/en/latest/">
@@ -690,19 +708,25 @@
   <a href="https://github.com/platformio/platformio">
    PlatformIO
   </a>
-  <span>
-   &#9733 996, pushed 2 days ago
-  </span>
   - A console tool to build code with different development platforms.
+  <sup>
+   347 GitHub links in total 782 links, ★ 996, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 996, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pybuilder/pybuilder">
    PyBuilder
   </a>
-  <span>
-   &#9733 609, pushed 18 days ago
-  </span>
   - A continuous build tool written in pure Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 609, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 609, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.scons.org/">
@@ -730,23 +754,29 @@
   <a href="https://github.com/bpython/bpython">
    bpython
   </a>
-  <span>
-   &#9733 508, pushed 14 days ago
-  </span>
   – A fancy interface to the Python interpreter.
+  <sup>
+   347 GitHub links in total 782 links, ★ 508, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 508, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jonathanslenders/ptpython">
    ptpython
   </a>
-  <span>
-   &#9733 1251, pushed 1 days ago
-  </span>
   - Advanced Python REPL built on top of the
   <a href="https://github.com/jonathanslenders/python-prompt-toolkit">
    python-prompt-toolkit
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 1251, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1251, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -774,14 +804,17 @@
   <a href="https://github.com/jaraco/path.py">
    path.py
   </a>
-  <span>
-   &#9733 604, pushed 17 days ago
-  </span>
   - A module wrapper for
   <a href="https://docs.python.org/2/library/os.path.html">
    os.path
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 604, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 604, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pathlib.readthedocs.org/en/pep428/">
@@ -793,28 +826,37 @@
   <a href="https://github.com/ahupp/python-magic">
    python-magic
   </a>
-  <span>
-   &#9733 626, pushed 42 days ago
-  </span>
   - A Python interface to the libmagic file type identification library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 626, pushed 42 days ago
+  </sup>
+  <sup>
+   &#9733 626, pushed 42 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mikeorr/Unipath">
    Unipath
   </a>
-  <span>
-   &#9733 353, pushed 444 days ago
-  </span>
   - An object-oriented approach to file/directory operations.
+  <sup>
+   347 GitHub links in total 782 links, ★ 353, pushed 444 days ago
+  </sup>
+  <sup>
+   &#9733 353, pushed 444 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gorakhargosh/watchdog">
    watchdog
   </a>
-  <span>
-   &#9733 2031, pushed 21 days ago
-  </span>
   - API and shell utilities to monitor file system events.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2031, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 2031, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -830,32 +872,41 @@
   <a href="https://github.com/crsmithdev/arrow">
    arrow
   </a>
-  <span>
-   &#9733 2987, pushed 2 days ago
-  </span>
   - Better dates & times for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2987, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2987, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/KoffeinFlummi/Chronyk">
    Chronyk
   </a>
-  <span>
-   &#9733 214, pushed 117 days ago
-  </span>
   - A Python 3 library for parsing human-written times and dates.
+  <sup>
+   347 GitHub links in total 782 links, ★ 214, pushed 117 days ago
+  </sup>
+  <sup>
+   &#9733 214, pushed 117 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dateutil/dateutil">
    dateutil
   </a>
-  <span>
-   &#9733 193, pushed 1 days ago
-  </span>
   - Extensions to the standard Python
   <a href="https://docs.python.org/2/library/datetime.html">
    datetime
   </a>
   module.
+  <sup>
+   347 GitHub links in total 782 links, ★ 193, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 193, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/myusuf3/delorean/">
@@ -867,23 +918,29 @@
   <a href="https://github.com/zachwill/moment">
    moment
   </a>
-  <span>
-   &#9733 281, pushed 581 days ago
-  </span>
   - A Python library for dealing with dates/times. Inspired by
   <a href="http://momentjs.com/">
    Moment.js
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 281, pushed 581 days ago
+  </sup>
+  <sup>
+   &#9733 281, pushed 581 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shinux/PyTime">
    PyTime
   </a>
-  <span>
-   &#9733 91, pushed 241 days ago
-  </span>
   - A easy-use Python module which aims to operate date/time/datetime by string.
+  <sup>
+   347 GitHub links in total 782 links, ★ 91, pushed 241 days ago
+  </sup>
+  <sup>
+   &#9733 91, pushed 241 days ago
+  </sup>
  </li>
  <li>
   <a href="https://launchpad.net/pytz">
@@ -899,10 +956,13 @@
   <a href="https://github.com/dirn/When.py">
    when.py
   </a>
-  <span>
-   &#9733 146, pushed 66 days ago
-  </span>
   - Providing user-friendly functions to help perform common date and time actions.
+  <sup>
+   347 GitHub links in total 782 links, ★ 146, pushed 66 days ago
+  </sup>
+  <sup>
+   &#9733 146, pushed 66 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -921,9 +981,6 @@
     <a href="https://github.com/chardet/chardet">
      chardet
     </a>
-    <span>
-     &#9733 499, pushed 47 days ago
-    </span>
     - Python 2/3 compatible character encoding detector.
    </li>
    <li>
@@ -936,19 +993,25 @@
     <a href="https://github.com/LuminosoInsight/python-ftfy">
      ftfy
     </a>
-    <span>
-     &#9733 1161, pushed 11 days ago
-    </span>
     - Makes Unicode text less broken and more consistent automagically.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1161, pushed 11 days ago
+    </sup>
+    <sup>
+     &#9733 1161, pushed 11 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/seatgeek/fuzzywuzzy">
      fuzzywuzzy
     </a>
-    <span>
-     &#9733 2355, pushed 33 days ago
-    </span>
     - Fuzzy String Matching.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2355, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 2355, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/ztane/python-Levenshtein/">
@@ -960,28 +1023,37 @@
     <a href="https://github.com/vinta/pangu.py">
      pangu.py
     </a>
-    <span>
-     &#9733 38, pushed 100 days ago
-    </span>
     - Spacing texts for CJK and alphanumerics.
+    <sup>
+     347 GitHub links in total 782 links, ★ 38, pushed 100 days ago
+    </sup>
+    <sup>
+     &#9733 38, pushed 100 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/pwaller/pyfiglet">
      pyfiglet
     </a>
-    <span>
-     &#9733 145, pushed 21 days ago
-    </span>
     - An implementation of figlet written in Python.
+    <sup>
+     347 GitHub links in total 782 links, ★ 145, pushed 21 days ago
+    </sup>
+    <sup>
+     &#9733 145, pushed 21 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/stochastic-technologies/shortuuid">
      shortuuid
     </a>
-    <span>
-     &#9733 574, pushed 111 days ago
-    </span>
     - A generator library for concise, unambiguous and URL-safe UUIDs.
+    <sup>
+     347 GitHub links in total 782 links, ★ 574, pushed 111 days ago
+    </sup>
+    <sup>
+     &#9733 574, pushed 111 days ago
+    </sup>
    </li>
    <li>
     <a href="https://pypi.python.org/pypi/Unidecode">
@@ -993,21 +1065,33 @@
     <a href="https://github.com/moskytw/uniout">
      uniout
     </a>
-    <span>
-     &#9733 90, pushed 608 days ago
-    </span>
     - Print readable chars instead of the escaped string.
+    <sup>
+     347 GitHub links in total 782 links, ★ 90, pushed 608 days ago
+    </sup>
+    <sup>
+     &#9733 90, pushed 608 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lxneng/xpinyin">
      xpinyin
     </a>
-    <span>
-     &#9733 319, pushed 50 days ago
-    </span>
     - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
+    <sup>
+     347 GitHub links in total 782 links, ★ 319, pushed 50 days ago
+    </sup>
+    <sup>
+     &#9733 319, pushed 50 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 499, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 499, pushed 47 days ago
+  </sup>
  </li>
  <li>
   Slugify
@@ -1016,30 +1100,39 @@
     <a href="https://github.com/dimka665/awesome-slugify">
      awesome-slugify
     </a>
-    <span>
-     &#9733 270, pushed 218 days ago
-    </span>
     - A Python slugify library that can preserve unicode.
    </li>
    <li>
     <a href="https://github.com/un33k/python-slugify">
      python-slugify
     </a>
-    <span>
-     &#9733 241, pushed 108 days ago
-    </span>
     - A Python slugify library that translates unicode to ASCII.
+    <sup>
+     347 GitHub links in total 782 links, ★ 241, pushed 108 days ago
+    </sup>
+    <sup>
+     &#9733 241, pushed 108 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mozilla/unicode-slugify">
      unicode-slugify
     </a>
-    <span>
-     &#9733 196, pushed 27 days ago
-    </span>
     - A slugifier that generates unicode slugs with Django as a dependency.
+    <sup>
+     347 GitHub links in total 782 links, ★ 196, pushed 27 days ago
+    </sup>
+    <sup>
+     &#9733 196, pushed 27 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 270, pushed 218 days ago
+  </sup>
+  <sup>
+   &#9733 270, pushed 218 days ago
+  </sup>
  </li>
  <li>
   Parser
@@ -1048,9 +1141,6 @@
     <a href="https://github.com/daviddrysdale/python-phonenumbers">
      phonenumbers
     </a>
-    <span>
-     &#9733 1200, pushed 11 days ago
-    </span>
     - Parsing, formatting, storing and validating international phone numbers.
    </li>
    <li>
@@ -1075,19 +1165,25 @@
     <a href="https://github.com/derek73/python-nameparser">
      python-nameparser
     </a>
-    <span>
-     &#9733 145, pushed 40 days ago
-    </span>
     - Parsing human names into their individual components.
+    <sup>
+     347 GitHub links in total 782 links, ★ 145, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 145, pushed 40 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/selwin/python-user-agents">
      python-user-agents
     </a>
-    <span>
-     &#9733 332, pushed 25 days ago
-    </span>
     - Browser user agent parser.
+    <sup>
+     347 GitHub links in total 782 links, ★ 332, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 332, pushed 25 days ago
+    </sup>
    </li>
    <li>
     <a href="https://sqlparse.readthedocs.org/en/latest/">
@@ -1096,6 +1192,12 @@
     - A non-validating SQL parser.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 1200, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1200, pushed 11 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1114,12 +1216,15 @@
     <a href="https://github.com/kennethreitz/tablib">
      tablib
     </a>
-    <span>
-     &#9733 1910, pushed 23 days ago
-    </span>
     - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 1910, pushed 23 days ago
+  </sup>
+  <sup>
+   &#9733 1910, pushed 23 days ago
+  </sup>
  </li>
  <li>
   Office
@@ -1128,9 +1233,6 @@
     <a href="https://github.com/brianray/mm">
      Marmir
     </a>
-    <span>
-     &#9733 118, pushed 70 days ago
-    </span>
     - Takes Python data structures and turns them into spreadsheets.
    </li>
    <li>
@@ -1149,10 +1251,13 @@
     <a href="https://github.com/python-openxml/python-docx">
      python-docx
     </a>
-    <span>
-     &#9733 522, pushed 4 days ago
-    </span>
     - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+    <sup>
+     347 GitHub links in total 782 links, ★ 522, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 522, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="http://relatorio.tryton.org/">
@@ -1164,10 +1269,13 @@
     <a href="https://github.com/dagwieers/unoconv">
      unoconv
     </a>
-    <span>
-     &#9733 699, pushed 42 days ago
-    </span>
     - Convert between any document format supported by LibreOffice/OpenOffice.
+    <sup>
+     347 GitHub links in total 782 links, ★ 699, pushed 42 days ago
+    </sup>
+    <sup>
+     &#9733 699, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://xlsxwriter.readthedocs.org/en/latest/">
@@ -1185,16 +1293,25 @@
     <a href="https://github.com/python-excel/xlwt">
      xlwt
     </a>
-    <span>
-     &#9733 508, pushed 24 days ago
-    </span>
     /
     <a href="https://github.com/python-excel/xlrd">
      xlrd
     </a>
     - Writing and reading data and formatting information from Excel files.
+    <sup>
+     347 GitHub links in total 782 links, ★ 508, pushed 24 days ago
+    </sup>
+    <sup>
+     &#9733 508, pushed 24 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 118, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 118, pushed 70 days ago
+  </sup>
  </li>
  <li>
   PDF
@@ -1203,19 +1320,19 @@
     <a href="https://github.com/euske/pdfminer">
      PDFMiner
     </a>
-    <span>
-     &#9733 1479, pushed 2 days ago
-    </span>
     - A tool for extracting information from PDF documents.
    </li>
    <li>
     <a href="https://github.com/mstamy2/PyPDF2">
      PyPDF2
     </a>
-    <span>
-     &#9733 951, pushed 15 days ago
-    </span>
     - A library capable of splitting, merging and transforming PDF pages.
+    <sup>
+     347 GitHub links in total 782 links, ★ 951, pushed 15 days ago
+    </sup>
+    <sup>
+     &#9733 951, pushed 15 days ago
+    </sup>
    </li>
    <li>
     <a href="http://www.reportlab.com/opensource/">
@@ -1224,6 +1341,12 @@
     - Allowing Rapid creation of rich PDF documents.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 1479, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1479, pushed 2 days ago
+  </sup>
  </li>
  <li>
   Markdown
@@ -1232,21 +1355,27 @@
     <a href="https://github.com/lepture/mistune">
      Mistune
     </a>
-    <span>
-     &#9733 640, pushed 21 days ago
-    </span>
     - Fastest and full featured pure Python parsers of Markdown.
    </li>
    <li>
     <a href="https://github.com/waylan/Python-Markdown">
      Python-Markdown
     </a>
-    <span>
-     &#9733 871, pushed 22 days ago
-    </span>
     - A Python implementation of John Gruber’s Markdown.
+    <sup>
+     347 GitHub links in total 782 links, ★ 871, pushed 22 days ago
+    </sup>
+    <sup>
+     &#9733 871, pushed 22 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 640, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 640, pushed 21 days ago
+  </sup>
  </li>
  <li>
   YAML
@@ -1266,12 +1395,15 @@
     <a href="https://github.com/wireservice/csvkit">
      csvkit
     </a>
-    <span>
-     &#9733 2047, pushed 9 days ago
-    </span>
     - Utilities for converting to and working with CSV.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 2047, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 2047, pushed 9 days ago
+  </sup>
  </li>
  <li>
   Archive
@@ -1280,12 +1412,15 @@
     <a href="https://github.com/mitsuhiko/unp">
      unp
     </a>
-    <span>
-     &#9733 219, pushed 237 days ago
-    </span>
     - A command line tool that can unpack archives easily.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 219, pushed 237 days ago
+  </sup>
+  <sup>
+   &#9733 219, pushed 237 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1313,19 +1448,25 @@
   <a href="https://github.com/fxsjy/jieba">
    Jieba
   </a>
-  <span>
-   &#9733 5061, pushed 48 days ago
-  </span>
   - Chinese text segmentation.
+  <sup>
+   347 GitHub links in total 782 links, ★ 5061, pushed 48 days ago
+  </sup>
+  <sup>
+   &#9733 5061, pushed 48 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/isnowfy/snownlp">
    SnowNLP
   </a>
-  <span>
-   &#9733 1294, pushed 216 days ago
-  </span>
   - A library for processing Chinese text.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1294, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 1294, pushed 216 days ago
+  </sup>
  </li>
  <li>
   <a href="https://spacy.io/">
@@ -1343,19 +1484,25 @@
   <a href="https://github.com/2shou/TextGrocery">
    TextGrocery
   </a>
-  <span>
-   &#9733 229, pushed 321 days ago
-  </span>
   - A simple, efficient short-text classification tool based on LibLinear and Jieba.
+  <sup>
+   347 GitHub links in total 782 links, ★ 229, pushed 321 days ago
+  </sup>
+  <sup>
+   &#9733 229, pushed 321 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/saffsd/langid.py">
    langid.py
   </a>
-  <span>
-   &#9733 559, pushed 28 days ago
-  </span>
   - Stand-alone language identification system.
+  <sup>
+   347 GitHub links in total 782 links, ★ 559, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 559, pushed 28 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1377,9 +1524,12 @@
     <a href="https://github.com/yoloseem/awesome-sphinxdoc">
      awesome-sphinxdoc
     </a>
-    <span>
-     &#9733 159, pushed 13 days ago
-    </span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 159, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 159, pushed 14 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1393,19 +1543,25 @@
   <a href="https://github.com/BurntSushi/pdoc">
    pdoc
   </a>
-  <span>
-   &#9733 172, pushed 24 days ago
-  </span>
   - Epydoc replacement to auto generate API documentation for Python libraries.
+  <sup>
+   347 GitHub links in total 782 links, ★ 172, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 172, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pycco-docs/pycco">
    Pycco
   </a>
-  <span>
-   &#9733 491, pushed 28 days ago
-  </span>
   - The literate-programming-style documentation generator.
+  <sup>
+   347 GitHub links in total 782 links, ★ 491, pushed 28 days ago
+  </sup>
+  <sup>
+   &#9733 491, pushed 28 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1449,10 +1605,13 @@
   <a href="https://github.com/henriquebastos/python-decouple">
    python-decouple
   </a>
-  <span>
-   &#9733 235, pushed 8 days ago
-  </span>
   - Strict separation of settings from code.
+  <sup>
+   347 GitHub links in total 782 links, ★ 235, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 235, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1471,9 +1630,6 @@
     <a href="https://github.com/peterbrittain/asciimatics">
      asciimatics
     </a>
-    <span>
-     &#9733 264, pushed 3 days ago
-    </span>
     - Cross-platform, full-screen terminal package (i.e.  mouse/keyboard input and coloured, positioned text output) complete with high-level API for complex animations and special effects.
    </li>
    <li>
@@ -1498,10 +1654,13 @@
     <a href="https://github.com/kennethreitz/clint">
      clint
     </a>
-    <span>
-     &#9733 1982, pushed 47 days ago
-    </span>
     - Python Command-line Application Tools.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1982, pushed 47 days ago
+    </sup>
+    <sup>
+     &#9733 1982, pushed 47 days ago
+    </sup>
    </li>
    <li>
     <a href="https://pypi.python.org/pypi/colorama">
@@ -1519,21 +1678,33 @@
     <a href="https://github.com/chriskiehl/Gooey">
      Gooey
     </a>
-    <span>
-     &#9733 3993, pushed 13 days ago
-    </span>
     - Turn command line programs into a full GUI application with one line
+    <sup>
+     347 GitHub links in total 782 links, ★ 3993, pushed 13 days ago
+    </sup>
+    <sup>
+     &#9733 3993, pushed 13 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jonathanslenders/python-prompt-toolkit">
      python-prompt-toolkit
     </a>
-    <span>
-     &#9733 2318, pushed 2 days ago
-    </span>
     - A Library for building powerful interactive command lines.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2318, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 2318, pushed 2 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 264, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 264, pushed 3 days ago
+  </sup>
  </li>
  <li>
   Productivity Tools
@@ -1542,129 +1713,171 @@
     <a href="https://github.com/aws/aws-cli">
      aws-cli
     </a>
-    <span>
-     &#9733 3799, pushed 4 days ago
-    </span>
     - A universal command-line interface for Amazon Web Services.
    </li>
    <li>
     <a href="https://github.com/glamp/bashplotlib">
      bashplotlib
     </a>
-    <span>
-     &#9733 395, pushed 87 days ago
-    </span>
     - Making basic plots in the terminal.
+    <sup>
+     347 GitHub links in total 782 links, ★ 395, pushed 87 days ago
+    </sup>
+    <sup>
+     &#9733 395, pushed 87 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/brettcannon/caniusepython3">
      caniusepython3
     </a>
-    <span>
-     &#9733 238, pushed 44 days ago
-    </span>
     - Determine what projects are blocking you from porting to Python 3.
+    <sup>
+     347 GitHub links in total 782 links, ★ 238, pushed 44 days ago
+    </sup>
+    <sup>
+     &#9733 238, pushed 44 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/audreyr/cookiecutter">
      cookiecutter
     </a>
-    <span>
-     &#9733 3246, pushed 2 days ago
-    </span>
     - A command-line utility that creates projects from cookiecutters (project templates).
+    <sup>
+     347 GitHub links in total 782 links, ★ 3246, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 3246, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/sloria/doitlive">
      doitlive
     </a>
-    <span>
-     &#9733 695, pushed 198 days ago
-    </span>
     - A tool for live presentations in the terminal.
+    <sup>
+     347 GitHub links in total 782 links, ★ 695, pushed 198 days ago
+    </sup>
+    <sup>
+     &#9733 695, pushed 198 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/gleitz/howdoi">
      howdoi
     </a>
-    <span>
-     &#9733 4355, pushed 8 days ago
-    </span>
     - Instant coding answers via the command line.
+    <sup>
+     347 GitHub links in total 782 links, ★ 4355, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 4355, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jkbrzt/httpie">
      httpie
     </a>
-    <span>
-     &#9733 22333, pushed 5 days ago
-    </span>
     - A command line HTTP client, a user-friendly cURL replacement.
+    <sup>
+     347 GitHub links in total 782 links, ★ 22333, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 22333, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/facebook/PathPicker">
      PathPicker
     </a>
-    <span>
-     &#9733 2853, pushed 17 days ago
-    </span>
     - Select files out of bash output.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2853, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 2853, pushed 17 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mooz/percol">
      percol
     </a>
-    <span>
-     &#9733 2022, pushed 100 days ago
-    </span>
     - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2022, pushed 100 days ago
+    </sup>
+    <sup>
+     &#9733 2022, pushed 100 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/donnemartin/saws">
      SAWS
     </a>
-    <span>
-     &#9733 2792, pushed 2 days ago
-    </span>
     - A Supercharged AWS CLI.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2792, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 2792, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nvbn/thefuck">
      thefuck
     </a>
-    <span>
-     &#9733 20095, pushed 3 days ago
-    </span>
     - Correcting your previous console command.
+    <sup>
+     347 GitHub links in total 782 links, ★ 20095, pushed 3 days ago
+    </sup>
+    <sup>
+     &#9733 20095, pushed 3 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/timofurrer/try">
      try
     </a>
-    <span>
-     &#9733 274, pushed 8 days ago
-    </span>
     - A dead simple CLI to try out python packages - It's never been easier.
+    <sup>
+     347 GitHub links in total 782 links, ★ 274, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 274, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dbcli/mycli">
      mycli
     </a>
-    <span>
-     &#9733 2635, pushed 8 days ago
-    </span>
     - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2635, pushed 8 days ago
+    </sup>
+    <sup>
+     &#9733 2635, pushed 8 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dbcli/pgcli">
      pgcli
     </a>
-    <span>
-     &#9733 4388, pushed 6 days ago
-    </span>
     - Postgres CLI with autocompletion and syntax highlighting.
+    <sup>
+     347 GitHub links in total 782 links, ★ 4388, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 4388, pushed 6 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 3799, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3799, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1680,19 +1893,25 @@
   <a href="https://github.com/s3tools/s3cmd">
    s3cmd
   </a>
-  <span>
-   &#9733 1840, pushed 7 days ago
-  </span>
   - A command line tool for managing Amazon S3 and CloudFront.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1840, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1840, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/bloomreach/s4cmd">
    s4cmd
   </a>
-  <span>
-   &#9733 388, pushed 25 days ago
-  </span>
   - Super S3 command line tool, good for higher performance.
+  <sup>
+   347 GitHub links in total 782 links, ★ 388, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 388, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.soimort.org/you-get/">
@@ -1730,10 +1949,13 @@
   <a href="https://github.com/rossgoodwin/hmap">
    hmap
   </a>
-  <span>
-   &#9733 106, pushed 690 days ago
-  </span>
   - Image histogram remapping.
+  <sup>
+   347 GitHub links in total 782 links, ★ 106, pushed 690 days ago
+  </sup>
+  <sup>
+   &#9733 106, pushed 690 days ago
+  </sup>
  </li>
  <li>
   <a href="https://sourceforge.net/projects/imgseek/">
@@ -1745,10 +1967,13 @@
   <a href="https://github.com/hhatto/nude.py">
    nude.py
   </a>
-  <span>
-   &#9733 349, pushed 216 days ago
-  </span>
   - Nudity detection.
+  <sup>
+   347 GitHub links in total 782 links, ★ 349, pushed 216 days ago
+  </sup>
+  <sup>
+   &#9733 349, pushed 216 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pythonhosted.org/pyBarcode/">
@@ -1760,28 +1985,37 @@
   <a href="https://github.com/ajkumar25/pygram">
    pygram
   </a>
-  <span>
-   &#9733 38, pushed 801 days ago
-  </span>
   - Instagram-like image filters.
+  <sup>
+   347 GitHub links in total 782 links, ★ 38, pushed 801 days ago
+  </sup>
+  <sup>
+   &#9733 38, pushed 801 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lincolnloop/python-qrcode">
    python-qrcode
   </a>
-  <span>
-   &#9733 850, pushed 49 days ago
-  </span>
   - A pure Python QR Code generator.
+  <sup>
+   347 GitHub links in total 782 links, ★ 850, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 850, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/fogleman/Quads">
    Quads
   </a>
-  <span>
-   &#9733 549, pushed 714 days ago
-  </span>
   - Computer art based on quadtrees.
+  <sup>
+   347 GitHub links in total 782 links, ★ 549, pushed 714 days ago
+  </sup>
+  <sup>
+   &#9733 549, pushed 714 days ago
+  </sup>
  </li>
  <li>
   <a href="http://scikit-image.org/">
@@ -1793,23 +2027,29 @@
   <a href="https://github.com/thumbor/thumbor">
    thumbor
   </a>
-  <span>
-   &#9733 3850, pushed 4 days ago
-  </span>
   - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3850, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3850, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dahlia/wand">
    wand
   </a>
-  <span>
-   &#9733 556, pushed 14 days ago
-  </span>
   - Python bindings for
   <a href="http://www.imagemagick.org/script/magick-wand.php">
    MagickWand
   </a>
   , C API for ImageMagick.
+  <sup>
+   347 GitHub links in total 782 links, ★ 556, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 556, pushed 14 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1825,23 +2065,29 @@
   <a href="https://github.com/jflesch/pyocr">
    pyocr
   </a>
-  <span>
-   &#9733 279, pushed 1 days ago
-  </span>
   - A wrapper for Tesseract and Cuneiform.
+  <sup>
+   347 GitHub links in total 782 links, ★ 279, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 279, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/madmaze/pytesseract">
    pytesseract
   </a>
-  <span>
-   &#9733 426, pushed 21 days ago
-  </span>
   - Another wrapper for
   <a href="https://github.com/tesseract-ocr">
    Google Tesseract OCR
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 426, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 426, pushed 21 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -1857,19 +2103,25 @@
   <a href="https://github.com/danilobellini/audiolazy">
    audiolazy
   </a>
-  <span>
-   &#9733 218, pushed 425 days ago
-  </span>
   - Expressive Digital Signal Processing (DSP) package for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 218, pushed 425 days ago
+  </sup>
+  <sup>
+   &#9733 218, pushed 425 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/beetbox/audioread">
    audioread
   </a>
-  <span>
-   &#9733 93, pushed 8 days ago
-  </span>
   - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+  <sup>
+   347 GitHub links in total 782 links, ★ 93, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 93, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://beets.io/">
@@ -1885,23 +2137,29 @@
   <a href="https://github.com/worldveil/dejavu">
    dejavu
   </a>
-  <span>
-   &#9733 2040, pushed 15 days ago
-  </span>
   - Audio fingerprinting and recognition.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2040, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 2040, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/StreetVoice/django-elastic-transcoder">
    django-elastic-transcoder
   </a>
-  <span>
-   &#9733 27, pushed 44 days ago
-  </span>
   - Django +
   <a href="http://aws.amazon.com/elastictranscoder/">
    Amazon Elastic Transcoder
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 27, pushed 44 days ago
+  </sup>
+  <sup>
+   &#9733 27, pushed 44 days ago
+  </sup>
  </li>
  <li>
   <a href="http://eyed3.nicfit.net/">
@@ -1919,10 +2177,13 @@
   <a href="https://github.com/globocom/m3u8">
    m3u8
   </a>
-  <span>
-   &#9733 165, pushed 65 days ago
-  </span>
   - A module for parsing m3u8 file.
+  <sup>
+   347 GitHub links in total 782 links, ★ 165, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 165, pushed 65 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/lazka/mutagen">
@@ -1934,23 +2195,29 @@
   <a href="https://github.com/jiaaro/pydub">
    pydub
   </a>
-  <span>
-   &#9733 1369, pushed 13 days ago
-  </span>
   - Manipulate audio with a simple and easy high level interface.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1369, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 1369, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/echonest/pyechonest">
    pyechonest
   </a>
-  <span>
-   &#9733 559, pushed 207 days ago
-  </span>
   - Python client for the
   <a href="http://developer.echonest.com/">
    Echo Nest
   </a>
   API.
+  <sup>
+   347 GitHub links in total 782 links, ★ 559, pushed 207 days ago
+  </sup>
+  <sup>
+   &#9733 559, pushed 207 days ago
+  </sup>
  </li>
  <li>
   <a href="http://scikits.appspot.com/talkbox">
@@ -1962,19 +2229,25 @@
   <a href="https://github.com/Parisson/TimeSide">
    TimeSide
   </a>
-  <span>
-   &#9733 162, pushed 5 days ago
-  </span>
   - Open web audio processing framework.
+  <sup>
+   347 GitHub links in total 782 links, ★ 162, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 162, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/devsnd/tinytag">
    tinytag
   </a>
-  <span>
-   &#9733 142, pushed 25 days ago
-  </span>
   - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+  <sup>
+   347 GitHub links in total 782 links, ★ 142, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 142, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="http://bspaans.github.io/python-mingus/">
@@ -2002,10 +2275,13 @@
   <a href="https://github.com/aizvorski/scikit-video">
    scikit-video
   </a>
-  <span>
-   &#9733 35, pushed 330 days ago
-  </span>
   - Video processing routines for SciPy.
+  <sup>
+   347 GitHub links in total 782 links, ★ 35, pushed 330 days ago
+  </sup>
+  <sup>
+   &#9733 35, pushed 330 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2027,46 +2303,61 @@
   <a href="https://github.com/maxmind/geoip-api-python">
    GeoIP
   </a>
-  <span>
-   &#9733 127, pushed 18 days ago
-  </span>
   - Python API for MaxMind GeoIP Legacy Database.
+  <sup>
+   347 GitHub links in total 782 links, ★ 127, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/frewsxcv/python-geojson">
    geojson
   </a>
-  <span>
-   &#9733 199, pushed 9 days ago
-  </span>
   - Python bindings and utilities for GeoJSON.
+  <sup>
+   347 GitHub links in total 782 links, ★ 199, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 199, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/geopy/geopy">
    geopy
   </a>
-  <span>
-   &#9733 1070, pushed 20 days ago
-  </span>
   - Python Geocoding Toolbox.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1070, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 1070, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/appliedsec/pygeoip">
    pygeoip
   </a>
-  <span>
-   &#9733 415, pushed 194 days ago
-  </span>
   - Pure Python GeoIP API.
+  <sup>
+   347 GitHub links in total 782 links, ★ 415, pushed 194 days ago
+  </sup>
+  <sup>
+   &#9733 415, pushed 194 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/SmileyChris/django-countries">
    django-countries
   </a>
-  <span>
-   &#9733 244, pushed 19 days ago
-  </span>
   - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models.
+  <sup>
+   347 GitHub links in total 782 links, ★ 244, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 244, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2088,37 +2379,49 @@
   <a href="https://github.com/kennethreitz/grequests">
    grequests
   </a>
-  <span>
-   &#9733 1375, pushed 41 days ago
-  </span>
   - requests + gevent for asynchronous HTTP requests.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1375, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 1375, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jcgregorio/httplib2">
    httplib2
   </a>
-  <span>
-   &#9733 356, pushed 22 days ago
-  </span>
   - Comprehensive HTTP client library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 356, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 356, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/twisted/treq">
    treq
   </a>
-  <span>
-   &#9733 263, pushed 4 days ago
-  </span>
   - Python requests like API built on top of Twisted's HTTP client.
+  <sup>
+   347 GitHub links in total 782 links, ★ 263, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 263, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/shazow/urllib3">
    urllib3
   </a>
-  <span>
-   &#9733 1031, pushed 3 days ago
-  </span>
   - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1031, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1031, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2146,10 +2449,13 @@
   <a href="https://github.com/msiemens/tinydb">
    TinyDB
   </a>
-  <span>
-   &#9733 983, pushed 8 days ago
-  </span>
   - A tiny, document-oriented database.
+  <sup>
+   347 GitHub links in total 782 links, ★ 983, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 983, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.zodb.org/en/latest/">
@@ -2183,10 +2489,13 @@
     <a href="https://github.com/PyMySQL/mysqlclient-python">
      mysqlclient
     </a>
-    <span>
-     &#9733 310, pushed 68 days ago
-    </span>
     - mysql-python fork supporting Python 3.
+    <sup>
+     347 GitHub links in total 782 links, ★ 310, pushed 68 days ago
+    </sup>
+    <sup>
+     &#9733 310, pushed 68 days ago
+    </sup>
    </li>
    <li>
     <a href="https://pythonhosted.org/oursql/">
@@ -2198,10 +2507,13 @@
     <a href="https://github.com/PyMySQL/PyMySQL">
      PyMySQL
     </a>
-    <span>
-     &#9733 1654, pushed 15 days ago
-    </span>
     - Pure Python MySQL driver compatible to mysql-python.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1654, pushed 15 days ago
+    </sup>
+    <sup>
+     &#9733 1654, pushed 15 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2218,10 +2530,13 @@
     <a href="https://github.com/gmr/queries">
      queries
     </a>
-    <span>
-     &#9733 139, pushed 33 days ago
-    </span>
     - A wrapper of the psycopg2 library for interacting with PostgreSQL.
+    <sup>
+     347 GitHub links in total 782 links, ★ 139, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 139, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="http://txpostgres.readthedocs.org/en/latest/">
@@ -2244,10 +2559,13 @@
     <a href="https://github.com/pudo/dataset">
      dataset
     </a>
-    <span>
-     &#9733 2223, pushed 6 days ago
-    </span>
     - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2223, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 2223, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="http://www.pymssql.org/en/latest/">
@@ -2264,9 +2582,6 @@
     <a href="https://github.com/datastax/python-driver">
      cassandra-python-driver
     </a>
-    <span>
-     &#9733 490, pushed 1 days ago
-    </span>
     - Python driver for Cassandra.
    </li>
    <li>
@@ -2291,10 +2606,13 @@
     <a href="https://github.com/pycassa/pycassa">
      pycassa
     </a>
-    <span>
-     &#9733 495, pushed 482 days ago
-    </span>
     - Python Thrift driver for Cassandra.
+    <sup>
+     347 GitHub links in total 782 links, ★ 495, pushed 482 days ago
+    </sup>
+    <sup>
+     &#9733 495, pushed 482 days ago
+    </sup>
    </li>
    <li>
     <a href="https://docs.mongodb.org/ecosystem/drivers/python/">
@@ -2306,30 +2624,45 @@
     <a href="https://github.com/andymccurdy/redis-py">
      redis-py
     </a>
-    <span>
-     &#9733 4080, pushed 35 days ago
-    </span>
     - The Redis Python Client.
+    <sup>
+     347 GitHub links in total 782 links, ★ 4080, pushed 35 days ago
+    </sup>
+    <sup>
+     &#9733 4080, pushed 35 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/driftx/Telephus">
      telephus
     </a>
-    <span>
-     &#9733 93, pushed 629 days ago
-    </span>
     - Twisted based client for Cassandra.
+    <sup>
+     347 GitHub links in total 782 links, ★ 93, pushed 629 days ago
+    </sup>
+    <sup>
+     &#9733 93, pushed 629 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/deldotdr/txRedis">
      txRedis
     </a>
-    <span>
-     &#9733 112, pushed 88 days ago
-    </span>
     - Twisted based client for Redis.
+    <sup>
+     347 GitHub links in total 782 links, ★ 112, pushed 89 days ago
+    </sup>
+    <sup>
+     &#9733 112, pushed 89 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 490, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 490, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2360,9 +2693,12 @@
       <a href="https://github.com/dahlia/awesome-sqlalchemy">
        awesome-sqlalchemy
       </a>
-      <span>
+      <sup>
+       347 GitHub links in total 782 links, ★ 1106, pushed 30 days ago
+      </sup>
+      <sup>
        &#9733 1106, pushed 30 days ago
-      </span>
+      </sup>
      </li>
     </ul>
    </li>
@@ -2370,10 +2706,13 @@
     <a href="https://github.com/coleifer/peewee">
      Peewee
     </a>
-    <span>
-     &#9733 2765, pushed 4 days ago
-    </span>
     - A small, expressive ORM.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2765, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 2765, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://ponyorm.com/">
@@ -2396,32 +2735,35 @@
     <a href="https://github.com/django-nonrel/mongodb-engine">
      django-mongodb-engine
     </a>
-    <span>
-     &#9733 631, pushed 21 days ago
-    </span>
     - Django MongoDB Backend.
    </li>
    <li>
     <a href="https://github.com/jlafon/PynamoDB">
      PynamoDB
     </a>
-    <span>
-     &#9733 177, pushed 4 days ago
-    </span>
     - A Pythonic interface for
     <a href="https://aws.amazon.com/dynamodb/">
      Amazon DynamoDB
     </a>
     .
+    <sup>
+     347 GitHub links in total 782 links, ★ 177, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 177, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mathcamp/flywheel">
      flywheel
     </a>
-    <span>
-     &#9733 57, pushed 18 days ago
-    </span>
     - Object mapper for Amazon DynamoDB.
+    <sup>
+     347 GitHub links in total 782 links, ★ 57, pushed 18 days ago
+    </sup>
+    <sup>
+     &#9733 57, pushed 18 days ago
+    </sup>
    </li>
    <li>
     <a href="http://mongoengine.org/">
@@ -2433,21 +2775,33 @@
     <a href="https://github.com/stephenmcd/hot-redis">
      hot-redis
     </a>
-    <span>
-     &#9733 180, pushed 20 days ago
-    </span>
     - Rich Python data types for Redis.
+    <sup>
+     347 GitHub links in total 782 links, ★ 180, pushed 20 days ago
+    </sup>
+    <sup>
+     &#9733 180, pushed 20 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kiddouk/redisco">
      redisco
     </a>
-    <span>
-     &#9733 297, pushed 86 days ago
-    </span>
     - A Python Library for Simple Models and Containers Persisted in Redis.
+    <sup>
+     347 GitHub links in total 782 links, ★ 297, pushed 86 days ago
+    </sup>
+    <sup>
+     &#9733 297, pushed 86 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 631, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 631, pushed 21 days ago
+  </sup>
  </li>
  <li>
   Others
@@ -2456,12 +2810,15 @@
     <a href="https://github.com/Widdershin/butterdb">
      butterdb
     </a>
-    <span>
-     &#9733 304, pushed 326 days ago
-    </span>
     - A Python ORM for Google Drive Spreadsheets.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 304, pushed 326 days ago
+  </sup>
+  <sup>
+   &#9733 304, pushed 326 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2483,9 +2840,12 @@
     <a href="https://github.com/rosarior/awesome-django">
      awesome-django
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 3650, pushed 25 days ago
+    </sup>
+    <sup>
      &#9733 3650, pushed 25 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -2499,9 +2859,12 @@
     <a href="https://github.com/humiaozuzu/awesome-flask">
      awesome-flask
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 2367, pushed 13 days ago
+    </sup>
+    <sup>
      &#9733 2367, pushed 13 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -2515,9 +2878,12 @@
     <a href="https://github.com/uralbash/awesome-pyramid">
      awesome-pyramid
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 248, pushed 1 days ago
+    </sup>
+    <sup>
      &#9733 248, pushed 1 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -2577,19 +2943,25 @@
   <a href="https://github.com/django-guardian/django-guardian">
    django-guardian
   </a>
-  <span>
-   &#9733 1102, pushed 8 days ago
-  </span>
   - Implementation of per object permissions for Django 1.2+
+  <sup>
+   347 GitHub links in total 782 links, ★ 1102, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 1102, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dfunckt/django-rules">
    django-rules
   </a>
-  <span>
-   &#9733 292, pushed 81 days ago
-  </span>
   - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
+  <sup>
+   347 GitHub links in total 782 links, ★ 292, pushed 81 days ago
+  </sup>
+  <sup>
+   &#9733 292, pushed 81 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2681,19 +3053,25 @@
   <a href="https://github.com/awesto/django-shop">
    django-shop
   </a>
-  <span>
-   &#9733 1035, pushed 1 days ago
-  </span>
   - A Django based shop system.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1035, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1035, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stephenmcd/cartridge">
    Cartridge
   </a>
-  <span>
-   &#9733 457, pushed 3 days ago
-  </span>
   - A shopping cart app built using the Mezzanine.
+  <sup>
+   347 GitHub links in total 782 links, ★ 457, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 457, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.shoop.io/en/">
@@ -2705,37 +3083,49 @@
   <a href="https://github.com/lxneng/alipay">
    alipay
   </a>
-  <span>
-   &#9733 127, pushed 121 days ago
-  </span>
   - Unofficial Alipay API for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 127, pushed 121 days ago
+  </sup>
+  <sup>
+   &#9733 127, pushed 121 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/agiliq/merchant">
    merchant
   </a>
-  <span>
-   &#9733 826, pushed 15 days ago
-  </span>
   - A Django app to accept payments from various payment processors.
+  <sup>
+   347 GitHub links in total 782 links, ★ 826, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 826, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/carlospalol/money">
    money
   </a>
-  <span>
-   &#9733 62, pushed 16 days ago
-  </span>
   - Money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
+  <sup>
+   347 GitHub links in total 782 links, ★ 62, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 62, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alir3z4/python-currencies">
    python-currencies
   </a>
-  <span>
-   &#9733 20, pushed 65 days ago
-  </span>
   - Display money format and its filthy currencies.
+  <sup>
+   347 GitHub links in total 782 links, ★ 20, pushed 65 days ago
+  </sup>
+  <sup>
+   &#9733 20, pushed 65 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2766,10 +3156,13 @@
     <a href="https://github.com/5monkeys/django-formapi">
      django-formapi
     </a>
-    <span>
-     &#9733 21, pushed 399 days ago
-    </span>
     - Create JSON APIs with Django's form validation.
+    <sup>
+     347 GitHub links in total 782 links, ★ 21, pushed 399 days ago
+    </sup>
+    <sup>
+     &#9733 21, pushed 399 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2798,19 +3191,25 @@
     <a href="https://github.com/marselester/flask-api-utils">
      flask-api-utils
     </a>
-    <span>
-     &#9733 28, pushed 201 days ago
-    </span>
     - Taking care of API representation and authentication for Flask.
+    <sup>
+     347 GitHub links in total 782 links, ★ 28, pushed 201 days ago
+    </sup>
+    <sup>
+     &#9733 28, pushed 201 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/nicolaiarocci/eve">
      eve
     </a>
-    <span>
-     &#9733 3188, pushed 2 days ago
-    </span>
     - REST API framework powered by Flask, MongoDB and good intentions.
+    <sup>
+     347 GitHub links in total 782 links, ★ 3188, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 3188, pushed 2 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2838,19 +3237,25 @@
     <a href="https://github.com/timothycrosley/hug">
      hug
     </a>
-    <span>
-     &#9733 3072, pushed 1 days ago
-    </span>
     - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
+    <sup>
+     347 GitHub links in total 782 links, ★ 3072, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 3072, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jeffknupp/sandman">
      sandman
     </a>
-    <span>
-     &#9733 2219, pushed 63 days ago
-    </span>
     - Automated REST APIs for existing database-driven systems.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2219, pushed 63 days ago
+    </sup>
+    <sup>
+     &#9733 2219, pushed 63 days ago
+    </sup>
    </li>
    <li>
     <a href="http://restless.readthedocs.org/en/latest/">
@@ -2862,10 +3267,13 @@
     <a href="https://github.com/vertical-knowledge/ripozo">
      ripozo
     </a>
-    <span>
-     &#9733 152, pushed 35 days ago
-    </span>
     - Quickly creating REST/HATEOAS/Hypermedia APIs.
+    <sup>
+     347 GitHub links in total 782 links, ★ 152, pushed 35 days ago
+    </sup>
+    <sup>
+     &#9733 152, pushed 35 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2908,82 +3316,109 @@
     <a href="https://github.com/pennersr/django-allauth">
      django-allauth
     </a>
-    <span>
-     &#9733 2323, pushed 4 days ago
-    </span>
     - Authentication app for Django that "just works."
+    <sup>
+     347 GitHub links in total 782 links, ★ 2323, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 2323, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/evonove/django-oauth-toolkit">
      django-oauth-toolkit
     </a>
-    <span>
-     &#9733 728, pushed 4 days ago
-    </span>
     - OAuth2 goodies for the Djangonauts.
+    <sup>
+     347 GitHub links in total 782 links, ★ 728, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 728, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/caffeinehit/django-oauth2-provider">
      django-oauth2-provider
     </a>
-    <span>
-     &#9733 293, pushed 55 days ago
-    </span>
     - Providing OAuth2 access to Django app.
+    <sup>
+     347 GitHub links in total 782 links, ★ 293, pushed 55 days ago
+    </sup>
+    <sup>
+     &#9733 293, pushed 55 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/lepture/flask-oauthlib">
      Flask-OAuthlib
     </a>
-    <span>
-     &#9733 690, pushed 1 days ago
-    </span>
     - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
+    <sup>
+     347 GitHub links in total 782 links, ★ 690, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 690, pushed 1 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/idan/oauthlib">
      OAuthLib
     </a>
-    <span>
-     &#9733 1115, pushed 2 days ago
-    </span>
     - A generic and thorough implementation of the OAuth request-signing logic.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1115, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 1115, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/joestump/python-oauth2">
      python-oauth2
     </a>
-    <span>
-     &#9733 2386, pushed 42 days ago
-    </span>
     - A fully tested, abstract interface to creating OAuth clients and servers.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2386, pushed 42 days ago
+    </sup>
+    <sup>
+     &#9733 2386, pushed 42 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/omab/python-social-auth">
      python-social-auth
     </a>
-    <span>
-     &#9733 2237, pushed 4 days ago
-    </span>
     - An easy-to-setup social authentication mechanism.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2237, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 2237, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/litl/rauth">
      rauth
     </a>
-    <span>
-     &#9733 1413, pushed 180 days ago
-    </span>
     - A Python library for OAuth 1.0/a, 2.0, and Ofly.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1413, pushed 180 days ago
+    </sup>
+    <sup>
+     &#9733 1413, pushed 180 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/demianbrecht/sanction">
      sanction
     </a>
-    <span>
-     &#9733 149, pushed 720 days ago
-    </span>
     - A dead simple OAuth2 client implementation.
+    <sup>
+     347 GitHub links in total 782 links, ★ 149, pushed 720 days ago
+    </sup>
+    <sup>
+     &#9733 149, pushed 720 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -2994,39 +3429,51 @@
     <a href="https://github.com/demonware/jose">
      jose
     </a>
-    <span>
-     &#9733 43, pushed 6 days ago
-    </span>
     - JavaScript Object Signing and Encryption draft implementation.
    </li>
    <li>
     <a href="https://github.com/jpadilla/pyjwt">
      PyJWT
     </a>
-    <span>
-     &#9733 753, pushed 61 days ago
-    </span>
     - Implementation of the JSON Web Token draft 01.
+    <sup>
+     347 GitHub links in total 782 links, ★ 753, pushed 61 days ago
+    </sup>
+    <sup>
+     &#9733 753, pushed 61 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/brianloveswords/python-jws">
      python-jws
     </a>
-    <span>
-     &#9733 40, pushed 169 days ago
-    </span>
     - Implementation of JSON Web Signatures draft 02.
+    <sup>
+     347 GitHub links in total 782 links, ★ 40, pushed 169 days ago
+    </sup>
+    <sup>
+     &#9733 40, pushed 169 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/davedoesdev/python-jwt">
      python-jwt
     </a>
-    <span>
-     &#9733 95, pushed 59 days ago
-    </span>
     - Module for generating and verifying JSON Web Tokens.
+    <sup>
+     347 GitHub links in total 782 links, ★ 95, pushed 59 days ago
+    </sup>
+    <sup>
+     &#9733 95, pushed 59 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 43, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 43, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3042,10 +3489,13 @@
   <a href="https://github.com/pallets/jinja">
    Jinja2
   </a>
-  <span>
-   &#9733 3247, pushed 1 days ago
-  </span>
   - A modern and designer friendly templating language.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3247, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 3247, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://chameleon.readthedocs.org/en/latest/">
@@ -3085,19 +3535,25 @@
   <a href="https://github.com/coleifer/huey">
    huey
   </a>
-  <span>
-   &#9733 875, pushed 8 days ago
-  </span>
   - Little multi-threaded task queue.
+  <sup>
+   347 GitHub links in total 782 links, ★ 875, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 875, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pricingassistant/mrq">
    mrq
   </a>
-  <span>
-   &#9733 370, pushed 5 days ago
-  </span>
   - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
+  <sup>
+   347 GitHub links in total 782 links, ★ 370, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 370, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://python-rq.org/">
@@ -3109,10 +3565,13 @@
   <a href="https://github.com/rdegges/simpleq">
    simpleq
   </a>
-  <span>
-   &#9733 101, pushed 351 days ago
-  </span>
   - A simple, infinitely scalable, Amazon SQS based queue.
+  <sup>
+   347 GitHub links in total 782 links, ★ 101, pushed 351 days ago
+  </sup>
+  <sup>
+   &#9733 101, pushed 351 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3128,10 +3587,13 @@
   <a href="https://github.com/django-haystack/django-haystack">
    django-haystack
   </a>
-  <span>
-   &#9733 1955, pushed 20 days ago
-  </span>
   - Modular search for Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1955, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 1955, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html">
@@ -3147,32 +3609,41 @@
   <a href="https://github.com/elastic/elasticsearch-dsl-py">
    elasticsearch-dsl-py
   </a>
-  <span>
-   &#9733 807, pushed 1 days ago
-  </span>
   - The official high-level Python client for Elasticsearch.
+  <sup>
+   347 GitHub links in total 782 links, ★ 807, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 807, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/catholabs/esengine">
    esengine
   </a>
-  <span>
-   &#9733 48, pushed 27 days ago
-  </span>
   - ElasticSearch ODM (Object Document Mapper) for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 48, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 48, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/edsu/solrpy">
    solrpy
   </a>
-  <span>
-   &#9733 17, pushed 38 days ago
-  </span>
   - A Python client for
   <a href="http://lucene.apache.org/solr/">
    solr
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 17, pushed 38 days ago
+  </sup>
+  <sup>
+   &#9733 17, pushed 38 days ago
+  </sup>
  </li>
  <li>
   <a href="http://whoosh.readthedocs.org/en/latest/">
@@ -3194,19 +3665,25 @@
   <a href="https://github.com/justquick/django-activity-stream">
    django-activity-stream
   </a>
-  <span>
-   &#9733 995, pushed 19 days ago
-  </span>
   - Generating generic activity streams from the actions on your site.
+  <sup>
+   347 GitHub links in total 782 links, ★ 995, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 995, pushed 19 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tschellenbach/Stream-Framework">
    Stream-Framework
   </a>
-  <span>
-   &#9733 2069, pushed 12 days ago
-  </span>
   - Building newsfeed and notification systems using Cassandra and Redis.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2069, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 2069, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3222,10 +3699,13 @@
   <a href="https://github.com/django-compressor/django-compressor">
    django-compressor
   </a>
-  <span>
-   &#9733 1663, pushed 3 days ago
-  </span>
   - Compresses linked and inline JavaScript or CSS into a single cached file.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1663, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1663, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="http://django-storages.readthedocs.org/en/latest/">
@@ -3255,10 +3735,13 @@
   <a href="https://github.com/jaysonsantos/jinja-assets-compressor">
    jinja-assets-compressor
   </a>
-  <span>
-   &#9733 36, pushed 4 days ago
-  </span>
   - A Jinja extension to compile and compress your assets.
+  <sup>
+   347 GitHub links in total 782 links, ★ 36, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://webassets.readthedocs.org/en/latest/">
@@ -3286,28 +3769,37 @@
   <a href="https://github.com/django-cache-machine/django-cache-machine">
    django-cache-machine
   </a>
-  <span>
-   &#9733 612, pushed 14 days ago
-  </span>
   - Automatic caching and invalidation for Django models.
+  <sup>
+   347 GitHub links in total 782 links, ★ 612, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 612, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Suor/django-cacheops">
    django-cacheops
   </a>
-  <span>
-   &#9733 538, pushed 20 days ago
-  </span>
   - A slick ORM cache with automatic granular event-driven invalidation.
+  <sup>
+   347 GitHub links in total 782 links, ★ 538, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 538, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/5monkeys/django-viewlet">
    django-viewlet
   </a>
-  <span>
-   &#9733 54, pushed 125 days ago
-  </span>
   - Render template parts with extended cache control.
+  <sup>
+   347 GitHub links in total 782 links, ★ 54, pushed 125 days ago
+  </sup>
+  <sup>
+   &#9733 54, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="http://dogpilecache.readthedocs.org/en/latest/">
@@ -3325,23 +3817,29 @@
   <a href="https://github.com/jmoiron/johnny-cache">
    johnny-cache
   </a>
-  <span>
-   &#9733 255, pushed 188 days ago
-  </span>
   - A caching framework for django applications.
+  <sup>
+   347 GitHub links in total 782 links, ★ 255, pushed 188 days ago
+  </sup>
+  <sup>
+   &#9733 255, pushed 188 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lericson/pylibmc">
    pylibmc
   </a>
-  <span>
-   &#9733 320, pushed 14 days ago
-  </span>
   - A Python wrapper around the
   <a href="http://libmemcached.org/libMemcached.html">
    libmemcached
   </a>
   interface.
+  <sup>
+   347 GitHub links in total 782 links, ★ 320, pushed 14 days ago
+  </sup>
+  <sup>
+   &#9733 320, pushed 14 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.grantjenks.com/docs/diskcache/">
@@ -3369,73 +3867,97 @@
   <a href="https://github.com/mailgun/flanker">
    flanker
   </a>
-  <span>
-   &#9733 912, pushed 8 days ago
-  </span>
   - A email address and Mime parsing library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 912, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 912, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/martinrusev/imbox">
    imbox
   </a>
-  <span>
-   &#9733 617, pushed 25 days ago
-  </span>
   - Python IMAP for Humans.
+  <sup>
+   347 GitHub links in total 782 links, ★ 617, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 617, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kennethreitz/inbox.py">
    inbox.py
   </a>
-  <span>
-   &#9733 1215, pushed 89 days ago
-  </span>
   - Python SMTP Server for Humans.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1215, pushed 89 days ago
+  </sup>
+  <sup>
+   &#9733 1215, pushed 89 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/zedshaw/lamson">
    lamson
   </a>
-  <span>
-   &#9733 539, pushed 1153 days ago
-  </span>
   - Pythonic SMTP Application Server.
+  <sup>
+   347 GitHub links in total 782 links, ★ 539, pushed 1153 days ago
+  </sup>
+  <sup>
+   &#9733 539, pushed 1153 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/marrow/mailer">
    Marrow Mailer
   </a>
-  <span>
-   &#9733 99, pushed 7 days ago
-  </span>
   - High-performance extensible mail delivery framework.
+  <sup>
+   347 GitHub links in total 782 links, ★ 99, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 99, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tonioo/modoboa">
    modoboa
   </a>
-  <span>
-   &#9733 516, pushed 3 days ago
-  </span>
   - A mail hosting and management platform including a modern and simplified Web UI.
+  <sup>
+   347 GitHub links in total 782 links, ★ 516, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 516, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nylas/sync-engine">
    Nylas Sync Engine
   </a>
-  <span>
-   &#9733 2897, pushed 4 days ago
-  </span>
   - Providing a RESTful API on top of a powerful email sync platform.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2897, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 2897, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/kootenpv/yagmail">
    yagmail
   </a>
-  <span>
-   &#9733 488, pushed 3 days ago
-  </span>
   - Yet another Gmail/SMTP client.
+  <sup>
+   347 GitHub links in total 782 links, ★ 488, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 488, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3477,46 +3999,61 @@
   <a href="https://github.com/gruns/furl">
    furl
   </a>
-  <span>
-   &#9733 898, pushed 12 days ago
-  </span>
   - A small Python library that makes manipulating URLs simple.
+  <sup>
+   347 GitHub links in total 782 links, ★ 898, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 898, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/codeinthehole/purl">
    purl
   </a>
-  <span>
-   &#9733 158, pushed 7 days ago
-  </span>
   - A simple, immutable URL class with a clean API for interrogation and manipulation.
+  <sup>
+   347 GitHub links in total 782 links, ★ 158, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 158, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ellisonleao/pyshorteners">
    pyshorteners
   </a>
-  <span>
-   &#9733 110, pushed 22 days ago
-  </span>
   - A pure Python URL shortening lib.
+  <sup>
+   347 GitHub links in total 782 links, ★ 110, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 110, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alir3z4/python-short_url">
    short_url
   </a>
-  <span>
-   &#9733 47, pushed 661 days ago
-  </span>
   - Python implementation for generating Tiny URL and bit.ly-like URLs.
+  <sup>
+   347 GitHub links in total 782 links, ★ 47, pushed 661 days ago
+  </sup>
+  <sup>
+   &#9733 47, pushed 661 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sloria/webargs">
    webargs
   </a>
-  <span>
-   &#9733 312, pushed 1 days ago
-  </span>
   - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, and Pyramid.
+  <sup>
+   347 GitHub links in total 782 links, ★ 312, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 312, pushed 1 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3550,10 +4087,13 @@
   <a href="https://github.com/html5lib/html5lib-python">
    html5lib
   </a>
-  <span>
-   &#9733 471, pushed 8 days ago
-  </span>
   - A standards-compliant library for parsing and serializing HTML documents and fragments.
+  <sup>
+   347 GitHub links in total 782 links, ★ 471, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 471, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="http://lxml.de/">
@@ -3565,46 +4105,61 @@
   <a href="https://github.com/pallets/markupsafe">
    MarkupSafe
   </a>
-  <span>
-   &#9733 120, pushed 22 days ago
-  </span>
   - Implements a XML/HTML/XHTML Markup safe string for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 120, pushed 22 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 22 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/gawel/pyquery">
    pyquery
   </a>
-  <span>
-   &#9733 922, pushed 21 days ago
-  </span>
   - A jQuery-like library for parsing HTML.
+  <sup>
+   347 GitHub links in total 782 links, ★ 922, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 922, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/stchris/untangle">
    untangle
   </a>
-  <span>
-   &#9733 157, pushed 112 days ago
-  </span>
   - Converts XML documents to Python objects for easy access.
+  <sup>
+   347 GitHub links in total 782 links, ★ 157, pushed 112 days ago
+  </sup>
+  <sup>
+   &#9733 157, pushed 112 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/xhtml2pdf/xhtml2pdf">
    xhtml2pdf
   </a>
-  <span>
-   &#9733 1126, pushed 1 days ago
-  </span>
   - HTML/CSS to PDF converter.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1126, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1126, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/martinblech/xmltodict">
    xmltodict
   </a>
-  <span>
-   &#9733 1972, pushed 4 days ago
-  </span>
   - Working with XML feel like you are working with JSON.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1972, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1972, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3626,19 +4181,25 @@
   <a href="https://github.com/chineking/cola">
    cola
   </a>
-  <span>
-   &#9733 891, pushed 33 days ago
-  </span>
   - A distributed crawling framework.
+  <sup>
+   347 GitHub links in total 782 links, ★ 891, pushed 33 days ago
+  </sup>
+  <sup>
+   &#9733 891, pushed 33 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/matiasb/demiurge">
    Demiurge
   </a>
-  <span>
-   &#9733 32, pushed 177 days ago
-  </span>
   - PyQuery-based scraping micro-framework.
+  <sup>
+   347 GitHub links in total 782 links, ★ 32, pushed 177 days ago
+  </sup>
+  <sup>
+   &#9733 32, pushed 177 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pythonhosted.org/feedparser/">
@@ -3656,37 +4217,49 @@
   <a href="https://github.com/hickford/MechanicalSoup">
    MechanicalSoup
   </a>
-  <span>
-   &#9733 1339, pushed 63 days ago
-  </span>
   - A Python library for automating interaction with websites.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1339, pushed 63 days ago
+  </sup>
+  <sup>
+   &#9733 1339, pushed 63 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/scrapinghub/portia">
    portia
   </a>
-  <span>
-   &#9733 4151, pushed 4 days ago
-  </span>
   - Visual scraping for Scrapy.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4151, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 4151, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/binux/pyspider">
    pyspider
   </a>
-  <span>
-   &#9733 6485, pushed 5 days ago
-  </span>
   - A powerful spider system.
+  <sup>
+   347 GitHub links in total 782 links, ★ 6485, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 6485, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jmcarp/robobrowser">
    RoboBrowser
   </a>
-  <span>
-   &#9733 1314, pushed 47 days ago
-  </span>
   - A simple, Pythonic library for browsing the web without a standalone web browser.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1314, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 1314, pushed 47 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3702,100 +4275,133 @@
   <a href="https://github.com/vinta/Haul">
    Haul
   </a>
-  <span>
-   &#9733 57, pushed 223 days ago
-  </span>
   - An Extensible Image Crawler.
+  <sup>
+   347 GitHub links in total 782 links, ★ 57, pushed 223 days ago
+  </sup>
+  <sup>
+   &#9733 57, pushed 223 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alir3z4/html2text">
    html2text
   </a>
-  <span>
-   &#9733 236, pushed 32 days ago
-  </span>
   - Convert HTML to Markdown-formatted text.
+  <sup>
+   347 GitHub links in total 782 links, ★ 236, pushed 32 days ago
+  </sup>
+  <sup>
+   &#9733 236, pushed 32 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/michaelhelmick/lassie">
    lassie
   </a>
-  <span>
-   &#9733 302, pushed 174 days ago
-  </span>
   - Web Content Retrieval for Humans.
+  <sup>
+   347 GitHub links in total 782 links, ★ 302, pushed 174 days ago
+  </sup>
+  <sup>
+   &#9733 302, pushed 174 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/coleifer/micawber">
    micawber
   </a>
-  <span>
-   &#9733 292, pushed 127 days ago
-  </span>
   - A small library for extracting rich content from URLs.
+  <sup>
+   347 GitHub links in total 782 links, ★ 292, pushed 127 days ago
+  </sup>
+  <sup>
+   &#9733 292, pushed 127 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/codelucas/newspaper">
    newspaper
   </a>
-  <span>
-   &#9733 3160, pushed 40 days ago
-  </span>
   - News extraction, article extraction and content curation in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3160, pushed 40 days ago
+  </sup>
+  <sup>
+   &#9733 3160, pushed 40 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/erikriver/opengraph">
    opengraph
   </a>
-  <span>
-   &#9733 66, pushed 4 days ago
-  </span>
   - A Python module to parse the Open Graph Protocol
+  <sup>
+   347 GitHub links in total 782 links, ★ 66, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 66, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/grangier/python-goose">
    python-goose
   </a>
-  <span>
-   &#9733 1884, pushed 43 days ago
-  </span>
   - HTML Content/Article Extractor.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1884, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1884, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/buriy/python-readability">
    python-readability
   </a>
-  <span>
-   &#9733 917, pushed 24 days ago
-  </span>
   - Fast Python port of arc90's readability tool.
+  <sup>
+   347 GitHub links in total 782 links, ★ 917, pushed 24 days ago
+  </sup>
+  <sup>
+   &#9733 917, pushed 24 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Alir3z4/python-sanitize">
    sanitize
   </a>
-  <span>
-   &#9733 16, pushed 574 days ago
-  </span>
   - Bringing sanity to world of messed-up data.
+  <sup>
+   347 GitHub links in total 782 links, ★ 16, pushed 574 days ago
+  </sup>
+  <sup>
+   &#9733 16, pushed 574 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/miso-belica/sumy">
    sumy
   </a>
-  <span>
-   &#9733 421, pushed 51 days ago
-  </span>
   - A module for automatic summarization of text documents and HTML pages.
+  <sup>
+   347 GitHub links in total 782 links, ★ 421, pushed 51 days ago
+  </sup>
+  <sup>
+   &#9733 421, pushed 51 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/deanmalmgren/textract">
    textract
   </a>
-  <span>
-   &#9733 1683, pushed 73 days ago
-  </span>
   - Extract text from any document, Word, PowerPoint, PDFs, etc.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1683, pushed 73 days ago
+  </sup>
+  <sup>
+   &#9733 1683, pushed 73 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3817,10 +4423,13 @@
   <a href="https://github.com/dyve/django-bootstrap3">
    django-bootstrap3
   </a>
-  <span>
-   &#9733 1356, pushed 7 days ago
-  </span>
   - Bootstrap 3 integration with Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1356, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1356, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://django-crispy-forms.readthedocs.org/en/latest/">
@@ -3832,10 +4441,13 @@
   <a href="https://github.com/WiserTogether/django-remote-forms">
    django-remote-forms
   </a>
-  <span>
-   &#9733 140, pushed 201 days ago
-  </span>
   - A platform independent Django form serializer.
+  <sup>
+   347 GitHub links in total 782 links, ★ 140, pushed 201 days ago
+  </sup>
+  <sup>
+   &#9733 140, pushed 201 days ago
+  </sup>
  </li>
  <li>
   <a href="http://wtforms.readthedocs.org/en/latest/">
@@ -3863,32 +4475,41 @@
   <a href="https://github.com/schematics/schematics">
    Schematics
   </a>
-  <span>
-   &#9733 1550, pushed 3 days ago
-  </span>
   - Data Structure Validation.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1550, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1550, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/keleshev/schema">
    schema
   </a>
-  <span>
-   &#9733 832, pushed 76 days ago
-  </span>
   - A library for validating Python data structures.
+  <sup>
+   347 GitHub links in total 782 links, ★ 832, pushed 76 days ago
+  </sup>
+  <sup>
+   &#9733 832, pushed 76 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Julian/jsonschema">
    jsonschema
   </a>
-  <span>
-   &#9733 804, pushed 95 days ago
-  </span>
   - An implementation of
   <a href="http://json-schema.org/">
    JSON Schema
   </a>
   for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 804, pushed 95 days ago
+  </sup>
+  <sup>
+   &#9733 804, pushed 95 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nicolaiarocci/cerberus/">
@@ -3906,19 +4527,25 @@
   <a href="https://github.com/alecthomas/voluptuous">
    voluptuous
   </a>
-  <span>
-   &#9733 590, pushed 2 days ago
-  </span>
   - A Python data validation library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 590, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 590, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/podio/valideer">
    valideer
   </a>
-  <span>
-   &#9733 164, pushed 135 days ago
-  </span>
   - Lightweight extensible data validation and adaptation library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 164, pushed 135 days ago
+  </sup>
+  <sup>
+   &#9733 164, pushed 135 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3934,19 +4561,25 @@
   <a href="https://github.com/mbi/django-simple-captcha">
    django-simple-captcha
   </a>
-  <span>
-   &#9733 354, pushed 25 days ago
-  </span>
   - A simple and highly customizable Django app to add captcha images to any Django form.
+  <sup>
+   347 GitHub links in total 782 links, ★ 354, pushed 25 days ago
+  </sup>
+  <sup>
+   &#9733 354, pushed 25 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/moqada/django-simple-spam-blocker">
    django-simple-spam-blocker
   </a>
-  <span>
-   &#9733 9, pushed 1230 days ago
-  </span>
   - Simple spam blocker for Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 9, pushed 1230 days ago
+  </sup>
+  <sup>
+   &#9733 9, pushed 1230 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3962,10 +4595,13 @@
   <a href="https://github.com/alex/django-taggit">
    django-taggit
   </a>
-  <span>
-   &#9733 1446, pushed 4 days ago
-  </span>
   - Simple tagging for Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1446, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 1446, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3981,10 +4617,13 @@
   <a href="https://github.com/Eugeny/ajenti">
    Ajenti
   </a>
-  <span>
-   &#9733 148, pushed 329 days ago
-  </span>
   - The admin panel your servers deserve.
+  <sup>
+   347 GitHub links in total 782 links, ★ 148, pushed 329 days ago
+  </sup>
+  <sup>
+   &#9733 148, pushed 329 days ago
+  </sup>
  </li>
  <li>
   <a href="http://djangosuit.com/">
@@ -3996,28 +4635,37 @@
   <a href="https://github.com/sshwsfc/xadmin">
    django-xadmin
   </a>
-  <span>
-   &#9733 1597, pushed 1 days ago
-  </span>
   - Drop-in replacement of Django admin comes with lots of goodies.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1597, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 1597, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/flask-admin/flask-admin">
    flask-admin
   </a>
-  <span>
-   &#9733 1673, pushed 1 days ago
-  </span>
   - Simple and extensible administrative interface framework for Flask.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1673, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1673, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mher/flower">
    flower
   </a>
-  <span>
-   &#9733 1673, pushed 3 days ago
-  </span>
   - Real-time monitor and web admin for Celery.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1673, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1673, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="http://grappelliproject.com">
@@ -4029,10 +4677,13 @@
   <a href="https://github.com/wooey/wooey">
    Wooey
   </a>
-  <span>
-   &#9733 634, pushed 20 days ago
-  </span>
   - A Django app which creates automatic web UIs for Python scripts.
+  <sup>
+   347 GitHub links in total 782 links, ★ 634, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 634, pushed 20 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4094,14 +4745,17 @@
   <a href="https://github.com/kennethreitz/envoy">
    envoy
   </a>
-  <span>
-   &#9733 1667, pushed 629 days ago
-  </span>
   - Python
   <a href="https://docs.python.org/2/library/subprocess.html">
    subprocess
   </a>
   for Humans™.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1667, pushed 629 days ago
+  </sup>
+  <sup>
+   &#9733 1667, pushed 629 days ago
+  </sup>
  </li>
  <li>
   <a href="http://sarge.readthedocs.org/en/latest/">
@@ -4113,10 +4767,13 @@
   <a href="https://github.com/amoffat/sh">
    sh
   </a>
-  <span>
-   &#9733 3321, pushed 19 days ago
-  </span>
   - A full-fledged subprocess replacement for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3321, pushed 19 days ago
+  </sup>
+  <sup>
+   &#9733 3321, pushed 19 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4160,10 +4817,13 @@
   <a href="https://github.com/madisonmay/Tomorrow">
    Tomorrow
   </a>
-  <span>
-   &#9733 1123, pushed 6 days ago
-  </span>
   - Magic decorator syntax for asynchronous code.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1123, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1123, pushed 6 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4191,19 +4851,25 @@
   <a href="https://github.com/quantmind/pulsar">
    pulsar
   </a>
-  <span>
-   &#9733 1241, pushed 5 days ago
-  </span>
   - Event-driven concurrent framework for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1241, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1241, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dieseldev/diesel">
    diesel
   </a>
-  <span>
-   &#9733 529, pushed 385 days ago
-  </span>
   - Greenlet-based event I/O Framework for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 529, pushed 385 days ago
+  </sup>
+  <sup>
+   &#9733 529, pushed 385 days ago
+  </sup>
  </li>
  <li>
   <a href="http://zeromq.github.io/pyzmq/">
@@ -4215,10 +4881,13 @@
   <a href="https://github.com/smira/txZMQ">
    txZMQ
   </a>
-  <span>
-   &#9733 120, pushed 263 days ago
-  </span>
   - Twisted based wrapper for the ZeroMQ message library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 120, pushed 263 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 263 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4234,14 +4903,17 @@
   <a href="https://github.com/crossbario/autobahn-python">
    AutobahnPython
   </a>
-  <span>
-   &#9733 1107, pushed 2 days ago
-  </span>
   - WebSocket & WAMP for Python on Twisted and
   <a href="https://docs.python.org/3/library/asyncio.html">
    asyncio
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 1107, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1107, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/crossbario/crossbar/">
@@ -4253,19 +4925,25 @@
   <a href="https://github.com/stephenmcd/django-socketio">
    django-socketio
   </a>
-  <span>
-   &#9733 882, pushed 27 days ago
-  </span>
   - WebSockets for Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 882, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 882, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Lawouach/WebSocket-for-Python">
    WebSocket-for-Python
   </a>
-  <span>
-   &#9733 660, pushed 70 days ago
-  </span>
   - WebSocket client and server library for Python 2 and 3 as well as PyPy.
+  <sup>
+   347 GitHub links in total 782 links, ★ 660, pushed 70 days ago
+  </sup>
+  <sup>
+   &#9733 660, pushed 70 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4311,10 +4989,13 @@
   <a href="https://github.com/hivesolutions/netius">
    netius
   </a>
-  <span>
-   &#9733 36, pushed 16 days ago
-  </span>
   - Asynchronous, very fast.
+  <sup>
+   347 GitHub links in total 782 links, ★ 36, pushed 16 days ago
+  </sup>
+  <sup>
+   &#9733 36, pushed 16 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pythonpaste.org/">
@@ -4366,9 +5047,6 @@
   <a href="https://github.com/0rpc/zerorpc-python">
    zeroRPC
   </a>
-  <span>
-   &#9733 1674, pushed 43 days ago
-  </span>
   - zerorpc is a flexible RPC implementation based on
   <a href="http://zeromq.org/">
    ZeroMQ
@@ -4378,6 +5056,12 @@
    MessagePack
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 1674, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 1674, pushed 43 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4394,14 +5078,17 @@
   <a href="https://github.com/davidaurelio/hashids-python">
    hashids
   </a>
-  <span>
-   &#9733 416, pushed 92 days ago
-  </span>
   - Implementation of
   <a href="http://hashids.org">
    hashids
   </a>
   in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 416, pushed 92 days ago
+  </sup>
+  <sup>
+   &#9733 416, pushed 92 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.paramiko.org/">
@@ -4425,10 +5112,13 @@
   <a href="https://github.com/pyca/pynacl">
    PyNacl
   </a>
-  <span>
-   &#9733 275, pushed 8 days ago
-  </span>
   - Python binding to the Networking and Cryptography (NaCl) library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 275, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 275, pushed 8 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4454,10 +5144,13 @@
   <a href="https://github.com/nucleic/enaml">
    enaml
   </a>
-  <span>
-   &#9733 449, pushed 17 days ago
-  </span>
   - Creating beautiful user-interfaces with Declaratic Syntax like QML.
+  <sup>
+   347 GitHub links in total 782 links, ★ 449, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 449, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="https://kivy.org/">
@@ -4501,10 +5194,13 @@
   <a href="https://github.com/pybee/toga">
    Toga
   </a>
-  <span>
-   &#9733 756, pushed 41 days ago
-  </span>
   - A Python native, OS native GUI toolkit.
+  <sup>
+   347 GitHub links in total 782 links, ★ 756, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 756, pushed 41 days ago
+  </sup>
  </li>
  <li>
   <a href="http://urwid.org/">
@@ -4528,10 +5224,13 @@
   <a href="https://github.com/zoofIO/flexx">
    Flexx
   </a>
-  <span>
-   &#9733 904, pushed 9 days ago
-  </span>
   - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
+  <sup>
+   347 GitHub links in total 782 links, ★ 904, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 904, pushed 9 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -4660,10 +5359,13 @@
     <a href="https://github.com/HypothesisWorks/hypothesis-python">
      hypothesis
     </a>
-    <span>
-     &#9733 1188, pushed 2 days ago
-    </span>
     - Hypothesis is an advanced Quickcheck style property based testing library.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1188, pushed 2 days ago
+    </sup>
+    <sup>
+     &#9733 1188, pushed 2 days ago
+    </sup>
    </li>
    <li>
     <a href="http://nestorsalceda.github.io/mamba/">
@@ -4675,10 +5377,13 @@
     <a href="https://github.com/robotframework/robotframework">
      Robot Framework
     </a>
-    <span>
-     &#9733 897, pushed 6 days ago
-    </span>
     - A generic test automation framework.
+    <sup>
+     347 GitHub links in total 782 links, ★ 897, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 897, pushed 6 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4695,10 +5400,13 @@
     <a href="https://github.com/CleanCut/green">
      green
     </a>
-    <span>
-     &#9733 340, pushed 17 days ago
-    </span>
     - A clean, colorful test runner.
+    <sup>
+     347 GitHub links in total 782 links, ★ 340, pushed 17 days ago
+    </sup>
+    <sup>
+     &#9733 340, pushed 17 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4719,19 +5427,25 @@
     <a href="https://github.com/locustio/locust">
      locust
     </a>
-    <span>
-     &#9733 3504, pushed 5 days ago
-    </span>
     - Scalable user load testing tool written in Python.
+    <sup>
+     347 GitHub links in total 782 links, ★ 3504, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 3504, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/seatgeek/sixpack">
      sixpack
     </a>
-    <span>
-     &#9733 1056, pushed 40 days ago
-    </span>
     - A language-agnostic A/B Testing framework.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1056, pushed 40 days ago
+    </sup>
+    <sup>
+     &#9733 1056, pushed 40 days ago
+    </sup>
    </li>
    <li>
     <a href="https://splinter.readthedocs.org/en/latest/">
@@ -4743,10 +5457,13 @@
     <a href="https://github.com/asweigart/pyautogui">
      PyAutoGUI
     </a>
-    <span>
-     &#9733 451, pushed 4 days ago
-    </span>
     - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    <sup>
+     347 GitHub links in total 782 links, ★ 451, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 451, pushed 4 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4769,19 +5486,25 @@
     <a href="https://github.com/spulec/freezegun">
      freezegun
     </a>
-    <span>
-     &#9733 731, pushed 10 days ago
-    </span>
     - Travel through time by mocking the datetime module.
+    <sup>
+     347 GitHub links in total 782 links, ★ 731, pushed 10 days ago
+    </sup>
+    <sup>
+     &#9733 731, pushed 10 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/patrys/httmock">
      httmock
     </a>
-    <span>
-     &#9733 242, pushed 33 days ago
-    </span>
     - A mocking library for requests for Python 2.6+ and 3.2+.
+    <sup>
+     347 GitHub links in total 782 links, ★ 242, pushed 33 days ago
+    </sup>
+    <sup>
+     &#9733 242, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="http://falcao.it/HTTPretty/">
@@ -4793,19 +5516,25 @@
     <a href="https://github.com/getsentry/responses">
      responses
     </a>
-    <span>
-     &#9733 1213, pushed 5 days ago
-    </span>
     - A utility library for mocking out the requests Python library.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1213, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 1213, pushed 5 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/kevin1024/vcrpy">
      VCR.py
     </a>
-    <span>
-     &#9733 679, pushed 1 days ago
-    </span>
     - Record and replay HTTP interactions on your tests.
+    <sup>
+     347 GitHub links in total 782 links, ★ 679, pushed 1 days ago
+    </sup>
+    <sup>
+     &#9733 679, pushed 1 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -4819,84 +5548,101 @@
       boy
      </em>
     </a>
-    <span>
-     &#9733 890, pushed 11 days ago
-    </span>
     - A test fixtures replacement for Python.
    </li>
    <li>
     <a href="https://github.com/klen/mixer">
      mixer
     </a>
-    <span>
-     &#9733 299, pushed 14 days ago
-    </span>
     - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
+    <sup>
+     347 GitHub links in total 782 links, ★ 299, pushed 14 days ago
+    </sup>
+    <sup>
+     &#9733 299, pushed 15 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vandersonmota/model_mommy">
      model
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 568, pushed 15 days ago
+    </sup>
+    <sup>
      &#9733 568, pushed 15 days ago
-    </span>
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 890, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 890, pushed 11 days ago
+  </sup>
+ </li>
+</ul>
+<p>
+ mommy
+- Creating random fixtures for testing in Django.
+ <li>
+  Code Coverage
+  <ul>
+   <li>
+    <a href="https://pypi.python.org/pypi/coverage">
+     coverage
+    </a>
+    - Code coverage measurement.
    </li>
   </ul>
  </li>
-</ul>
-mommy
-- Creating random fixtures for testing in Django.
-<li>
- Code Coverage
- <ul>
-  <li>
-   <a href="https://pypi.python.org/pypi/coverage">
-    coverage
-   </a>
-   - Code coverage measurement.
-  </li>
- </ul>
-</li>
-<li>
- Fake Data
- <ul>
-  <li>
-   <a href="http://www.joke2k.net/faker/">
-    faker
-   </a>
-   - A Python package that generates fake data.
-  </li>
-  <li>
-   <a href="https://github.com/emirozer/fake2db">
-    fake2db
-   </a>
-   <span>
-    &#9733 1643, pushed 135 days ago
-   </span>
-   - Fake database generator.
-  </li>
-  <li>
-   <a href="https://pypi.python.org/pypi/radar">
-    radar
-   </a>
-   - Generate random datetime / time.
-  </li>
- </ul>
-</li>
-<li>
- Error Handler
- <ul>
-  <li>
-   <a href="https://github.com/ajalt/fuckitpy">
-    FuckIt.py
-   </a>
-   <span>
-    &#9733 2037, pushed 18 days ago
-   </span>
-   - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
-  </li>
- </ul>
-</li>
+ <li>
+  Fake Data
+  <ul>
+   <li>
+    <a href="http://www.joke2k.net/faker/">
+     faker
+    </a>
+    - A Python package that generates fake data.
+   </li>
+   <li>
+    <a href="https://github.com/emirozer/fake2db">
+     fake2db
+    </a>
+    - Fake database generator.
+    <sup>
+     347 GitHub links in total 782 links, &#9733 1643, pushed 135 days ago
+    </sup>
+    <sup>
+     &#9733 1643, pushed 135 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://pypi.python.org/pypi/radar">
+     radar
+    </a>
+    - Generate random datetime / time.
+   </li>
+  </ul>
+ </li>
+ <li>
+  Error Handler
+  <ul>
+   <li>
+    <a href="https://github.com/ajalt/fuckitpy">
+     FuckIt.py
+    </a>
+    - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
+   </li>
+  </ul>
+  <sup>
+   347 GitHub links in total 782 links, &#9733 2037, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 2037, pushed 18 days ago
+  </sup>
+ </li>
+</p>
 <h2>
  Code Analysis and Linter
 </h2>
@@ -4913,28 +5659,31 @@ mommy
     <a href="https://github.com/scottrogowski/code2flow">
      code2flow
     </a>
-    <span>
-     &#9733 233, pushed 62 days ago
-    </span>
     - Turn your Python and JavaScript code into DOT flowcharts.
    </li>
    <li>
     <a href="https://github.com/gak/pycallgraph">
      pycallgraph
     </a>
-    <span>
-     &#9733 605, pushed 21 days ago
-    </span>
     - A library that visualises the flow (call graph) of your Python application.
+    <sup>
+     347 GitHub links in total 782 links, ★ 605, pushed 21 days ago
+    </sup>
+    <sup>
+     &#9733 605, pushed 21 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yinwang0/pysonar2">
      pysonar2
     </a>
-    <span>
-     &#9733 2068, pushed 6 days ago
-    </span>
     - A type inferencer and indexer for Python.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2068, pushed 6 days ago
+    </sup>
+    <sup>
+     &#9733 2068, pushed 6 days ago
+    </sup>
    </li>
    <li>
     <a href="http://coala-analyzer.org/">
@@ -4943,6 +5692,12 @@ mommy
     - Language independent and easily extendable code analysis application.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 233, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 233, pushed 62 days ago
+  </sup>
  </li>
  <li>
   Linter
@@ -5000,19 +5755,25 @@ mommy
     <a href="https://github.com/google/pyringe">
      pyringe
     </a>
-    <span>
-     &#9733 1354, pushed 724 days ago
-    </span>
     - Debugger capable of attaching to and injecting code into Python processes.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1354, pushed 724 days ago
+    </sup>
+    <sup>
+     &#9733 1354, pushed 724 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/Kozea/wdb">
      wdb
     </a>
-    <span>
-     &#9733 852, pushed 25 days ago
-    </span>
     - An improbable web debugger through WebSockets.
+    <sup>
+     347 GitHub links in total 782 links, ★ 852, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 852, pushed 25 days ago
+    </sup>
    </li>
    <li>
     <a href="http://winpdb.org/">
@@ -5028,28 +5789,37 @@ mommy
     <a href="https://github.com/django-debug-toolbar/django-debug-toolbar">
      django-debug-toolbar
     </a>
-    <span>
-     &#9733 3579, pushed 68 days ago
-    </span>
     - Display various debug information for Django.
+    <sup>
+     347 GitHub links in total 782 links, ★ 3579, pushed 68 days ago
+    </sup>
+    <sup>
+     &#9733 3579, pushed 68 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/dcramer/django-devserver">
      django-devserver
     </a>
-    <span>
-     &#9733 1139, pushed 4 days ago
-    </span>
     - A drop-in replacement for Django's runserver.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1139, pushed 4 days ago
+    </sup>
+    <sup>
+     &#9733 1139, pushed 4 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/mgood/flask-debugtoolbar">
      flask-debugtoolbar
     </a>
-    <span>
-     &#9733 455, pushed 244 days ago
-    </span>
     - A port of the django-debug-toolbar to flask.
+    <sup>
+     347 GitHub links in total 782 links, ★ 455, pushed 244 days ago
+    </sup>
+    <sup>
+     &#9733 455, pushed 244 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -5063,60 +5833,77 @@ mommy
       profiler
      </em>
     </a>
-    <span>
-     &#9733 788, pushed 8 days ago
-    </span>
     - Line-by-line profiling.
    </li>
    <li>
     <a href="https://github.com/fabianp/memory_profiler">
      memory
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 742, pushed 85 days ago
+    </sup>
+    <sup>
      &#9733 742, pushed 85 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 788, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 788, pushed 8 days ago
+  </sup>
  </li>
 </ul>
-profiler
+<p>
+ profiler
 - Monitor Memory usage of Python code.
-<li>
- <a href="https://github.com/what-studio/profiling">
-  profiling
- </a>
- <span>
-  &#9733 2389, pushed 41 days ago
- </span>
- - An interactive Python profiler.
-</li>
-<li>
- Others
- <ul>
-  <li>
-   <a href="https://github.com/eliben/pyelftools">
-    pyelftools
-   </a>
-   <span>
-    &#9733 315, pushed 62 days ago
-   </span>
-   - Parsing and analyzing ELF files and DWARF debugging information.
-  </li>
-  <li>
-   <a href="https://github.com/WoLpH/python-statsd">
-    python-statsd
-   </a>
-   <span>
-    &#9733 84, pushed 259 days ago
-   </span>
-   - Python Client for the
-   <a href="https://github.com/etsy/statsd/">
-    statsd
-   </a>
-   server.
-  </li>
- </ul>
-</li>
+ <li>
+  <a href="https://github.com/what-studio/profiling">
+   profiling
+  </a>
+  - An interactive Python profiler.
+  <sup>
+   347 GitHub links in total 782 links, &#9733 2389, pushed 41 days ago
+  </sup>
+  <sup>
+   &#9733 2389, pushed 41 days ago
+  </sup>
+ </li>
+ <li>
+  Others
+  <ul>
+   <li>
+    <a href="https://github.com/eliben/pyelftools">
+     pyelftools
+    </a>
+    - Parsing and analyzing ELF files and DWARF debugging information.
+   </li>
+   <li>
+    <a href="https://github.com/WoLpH/python-statsd">
+     python-statsd
+    </a>
+    - Python Client for the
+    <a href="https://github.com/etsy/statsd/">
+     statsd
+    </a>
+    server.
+    <sup>
+     347 GitHub links in total 782 links, &#9733 84, pushed 259 days ago
+    </sup>
+    <sup>
+     &#9733 84, pushed 259 days ago
+    </sup>
+   </li>
+  </ul>
+  <sup>
+   347 GitHub links in total 782 links, &#9733 315, pushed 62 days ago
+  </sup>
+  <sup>
+   &#9733 315, pushed 62 days ago
+  </sup>
+ </li>
+</p>
 <h2>
  Science and Data Analysis
 </h2>
@@ -5136,19 +5923,25 @@ profiler
   <a href="https://github.com/chapmanb/bcbio-nextgen">
    bcbio-nextgen
   </a>
-  <span>
-   &#9733 297, pushed 2 days ago
-  </span>
   - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis.
+  <sup>
+   347 GitHub links in total 782 links, ★ 297, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 297, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/chapmanb/bcbb">
    bccb
   </a>
-  <span>
-   &#9733 301, pushed 5 days ago
-  </span>
   - Collection of useful code related to biological analysis.
+  <sup>
+   347 GitHub links in total 782 links, ★ 301, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 301, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="http://biopython.org/wiki/Main_Page">
@@ -5208,10 +6001,13 @@ profiler
   <a href="https://github.com/mining/mining">
    Open Mining
   </a>
-  <span>
-   &#9733 556, pushed 60 days ago
-  </span>
   - Business Intelligence (BI) in Python (Pandas web interface)
+  <sup>
+   347 GitHub links in total 782 links, ★ 556, pushed 60 days ago
+  </sup>
+  <sup>
+   &#9733 556, pushed 60 days ago
+  </sup>
  </li>
  <li>
   <a href="http://orange.biolab.si/">
@@ -5235,10 +6031,13 @@ profiler
   <a href="https://github.com/pymc-devs/pymc3">
    PyMC
   </a>
-  <span>
-   &#9733 1440, pushed 6 days ago
-  </span>
   - Markov Chain Monte Carlo sampling toolkit.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1440, pushed 6 days ago
+  </sup>
+  <sup>
+   &#9733 1440, pushed 6 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.rdkit.org/">
@@ -5256,28 +6055,37 @@ profiler
   <a href="https://github.com/statsmodels/statsmodels">
    statsmodels
   </a>
-  <span>
-   &#9733 1418, pushed 2 days ago
-  </span>
   - Statistical modeling and econometrics in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1418, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1418, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sympy/sympy">
    SymPy
   </a>
-  <span>
-   &#9733 2825, pushed 2 days ago
-  </span>
   - A Python library for symbolic mathematics.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2825, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 2825, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/quantopian/zipline">
    zipline
   </a>
-  <span>
-   &#9733 3154, pushed 4 days ago
-  </span>
   - A Pythonic algorithmic trading library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3154, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 3154, pushed 4 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5303,19 +6111,25 @@ profiler
   <a href="https://github.com/bokeh/bokeh">
    bokeh
   </a>
-  <span>
-   &#9733 4131, pushed 2 days ago
-  </span>
   - Interactive Web Plotting for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4131, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 4131, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/yhat/ggplot">
    ggplot
   </a>
-  <span>
-   &#9733 2487, pushed 1 days ago
-  </span>
   - Same API as ggplot2 for R.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2487, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2487, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://plot.ly/python/">
@@ -5355,10 +6169,13 @@ profiler
   <a href="https://github.com/wrobstory/vincent">
    vincent
   </a>
-  <span>
-   &#9733 1843, pushed 102 days ago
-  </span>
   - A Python to Vega translator.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1843, pushed 102 days ago
+  </sup>
+  <sup>
+   &#9733 1843, pushed 102 days ago
+  </sup>
  </li>
  <li>
   <a href="http://vispy.org/">
@@ -5406,77 +6223,101 @@ profiler
   <a href="https://github.com/muricoca/crab">
    Crab
   </a>
-  <span>
-   &#9733 667, pushed 1524 days ago
-  </span>
   - A ﬂexible, fast recommender engine.
+  <sup>
+   347 GitHub links in total 782 links, ★ 667, pushed 1524 days ago
+  </sup>
+  <sup>
+   &#9733 667, pushed 1524 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/piskvorky/gensim">
    gensim
   </a>
-  <span>
-   &#9733 2482, pushed 1 days ago
-  </span>
   - Topic Modelling for Humans.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2482, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 2482, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/hannes-brt/hebel">
    hebel
   </a>
-  <span>
-   &#9733 1137, pushed 264 days ago
-  </span>
   - GPU-Accelerated Deep Learning Library in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1137, pushed 264 days ago
+  </sup>
+  <sup>
+   &#9733 1137, pushed 264 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/numenta/nupic">
    NuPIC
   </a>
-  <span>
-   &#9733 4079, pushed 5 days ago
-  </span>
   - Numenta Platform for Intelligent Computing.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4079, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4079, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/clips/pattern">
    pattern
   </a>
-  <span>
-   &#9733 4390, pushed 5 days ago
-  </span>
   - Web mining module for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4390, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 4390, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pybrain/pybrain">
    PyBrain
   </a>
-  <span>
-   &#9733 1775, pushed 53 days ago
-  </span>
   - Another Python Machine Learning Library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1775, pushed 53 days ago
+  </sup>
+  <sup>
+   &#9733 1775, pushed 53 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/lisa-lab/pylearn2">
    Pylearn2
   </a>
-  <span>
-   &#9733 2065, pushed 30 days ago
-  </span>
   - A Machine Learning library based on
   <a href="https://github.com/Theano/Theano">
    Theano
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 2065, pushed 30 days ago
+  </sup>
+  <sup>
+   &#9733 2065, pushed 30 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ocelma/python-recsys">
    python-recsys
   </a>
-  <span>
-   &#9733 561, pushed 139 days ago
-  </span>
   - A Python library for implementing a Recommender System.
+  <sup>
+   347 GitHub links in total 782 links, ★ 561, pushed 139 days ago
+  </sup>
+  <sup>
+   &#9733 561, pushed 139 days ago
+  </sup>
  </li>
  <li>
   <a href="http://scikit-learn.org/">
@@ -5488,36 +6329,45 @@ profiler
   <a href="https://github.com/andersbll/deeppy">
    pydeep
   </a>
-  <span>
-   &#9733 875, pushed 27 days ago
-  </span>
   -Deep learning in python
+  <sup>
+   347 GitHub links in total 782 links, ★ 875, pushed 27 days ago
+  </sup>
+  <sup>
+   &#9733 875, pushed 27 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/josephreisinger/vowpal_porpoise">
    vowpal_porpoise
   </a>
-  <span>
-   &#9733 120, pushed 288 days ago
-  </span>
   - A lightweight Python wrapper for
   <a href="https://github.com/JohnLangford/vowpal_wabbit/">
    Vowpal Wabbit
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 120, pushed 288 days ago
+  </sup>
+  <sup>
+   &#9733 120, pushed 288 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/tensorflow/skflow">
    skflow
   </a>
-  <span>
-   &#9733 2309, pushed 15 days ago
-  </span>
   - A simplified interface for
   <a href="https://github.com/tensorflow/tensorflow">
    TensorFlow
   </a>
   (mimicking scikit-learn).
+  <sup>
+   347 GitHub links in total 782 links, ★ 2309, pushed 15 days ago
+  </sup>
+  <sup>
+   &#9733 2309, pushed 15 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5533,37 +6383,49 @@ profiler
   <a href="https://github.com/douban/dpark">
    dpark
   </a>
-  <span>
-   &#9733 1735, pushed 49 days ago
-  </span>
   - Python clone of Spark, a MapReduce alike framework in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1735, pushed 49 days ago
+  </sup>
+  <sup>
+   &#9733 1735, pushed 49 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/klbostee/dumbo">
    dumbo
   </a>
-  <span>
-   &#9733 966, pushed 13 days ago
-  </span>
   - Python module that allows one to easily write and run Hadoop programs.
+  <sup>
+   347 GitHub links in total 782 links, ★ 966, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 966, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/spotify/luigi">
    luigi
   </a>
-  <span>
-   &#9733 4510, pushed 1 days ago
-  </span>
   - A module that helps you build complex pipelines of batch jobs.
+  <sup>
+   347 GitHub links in total 782 links, ★ 4510, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 4510, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Yelp/mrjob">
    mrjob
   </a>
-  <span>
-   &#9733 1786, pushed 2 days ago
-  </span>
   - Run MapReduce jobs on Hadoop or Amazon Web Services.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1786, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1786, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="http://spark.apache.org/docs/latest/programming-guide.html">
@@ -5575,14 +6437,17 @@ profiler
   <a href="https://github.com/Parsely/streamparse">
    streamparse
   </a>
-  <span>
-   &#9733 963, pushed 12 days ago
-  </span>
   - Run Python code against real-time streams of data. Integrates with
   <a href="http://storm.apache.org/">
    Apache Storm
   </a>
   .
+  <sup>
+   347 GitHub links in total 782 links, ★ 963, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 963, pushed 12 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5604,28 +6469,37 @@ profiler
   <a href="https://github.com/kachayev/fn.py">
    fn.py
   </a>
-  <span>
-   &#9733 1914, pushed 34 days ago
-  </span>
   - Functional programming in Python: implementation of missing features to enjoy FP.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1914, pushed 34 days ago
+  </sup>
+  <sup>
+   &#9733 1914, pushed 34 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Suor/funcy">
    funcy
   </a>
-  <span>
-   &#9733 1282, pushed 26 days ago
-  </span>
   - A fancy and practical functional tools.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1282, pushed 26 days ago
+  </sup>
+  <sup>
+   &#9733 1282, pushed 26 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pytoolz/toolz">
    Toolz
   </a>
-  <span>
-   &#9733 1085, pushed 7 days ago
-  </span>
   - A collection of functional utilities for iterators, functions, and dictionaries.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1085, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1085, pushed 7 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5651,10 +6525,13 @@ profiler
   <a href="https://github.com/boto/boto">
    boto
   </a>
-  <span>
-   &#9733 5447, pushed 4 days ago
-  </span>
   - Python interface to Amazon Web Services.
+  <sup>
+   347 GitHub links in total 782 links, ★ 5447, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 5447, pushed 4 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/sunlightlabs/django-wordpress/">
@@ -5666,55 +6543,73 @@ profiler
   <a href="https://github.com/mobolic/facebook-sdk">
    facebook-sdk
   </a>
-  <span>
-   &#9733 1642, pushed 7 days ago
-  </span>
   - Facebook Platform Python SDK.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1642, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 1642, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jgorset/facepy">
    facepy
   </a>
-  <span>
-   &#9733 455, pushed 43 days ago
-  </span>
   - Facepy makes it really easy to interact with Facebook's Graph API
+  <sup>
+   347 GitHub links in total 782 links, ★ 455, pushed 43 days ago
+  </sup>
+  <sup>
+   &#9733 455, pushed 43 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/charlierguo/gmail">
    gmail
   </a>
-  <span>
-   &#9733 1253, pushed 11 days ago
-  </span>
   - A Pythonic interface for Gmail.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1253, pushed 11 days ago
+  </sup>
+  <sup>
+   &#9733 1253, pushed 11 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/google/google-api-python-client">
    google-api-python-client
   </a>
-  <span>
-   &#9733 904, pushed 5 days ago
-  </span>
   - Google APIs Client Library for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 904, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 904, pushed 5 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/burnash/gspread">
    gspread
   </a>
-  <span>
-   &#9733 1646, pushed 9 days ago
-  </span>
   - Google Spreadsheets Python API.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1646, pushed 9 days ago
+  </sup>
+  <sup>
+   &#9733 1646, pushed 9 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanmcgrath/twython">
    twython
   </a>
-  <span>
-   &#9733 1158, pushed 3 days ago
-  </span>
   - A Python wrapper for the Twitter API.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1158, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1158, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5730,19 +6625,25 @@ profiler
   <a href="https://github.com/ansible/ansible">
    Ansible
   </a>
-  <span>
-   &#9733 16550, pushed 2 days ago
-  </span>
   - A radically simple IT automation platform.
+  <sup>
+   347 GitHub links in total 782 links, ★ 16550, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 16550, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/saltstack/salt">
    SaltStack
   </a>
-  <span>
-   &#9733 6489, pushed 1 days ago
-  </span>
   - Infrastructure automation and management system.
+  <sup>
+   347 GitHub links in total 782 links, ★ 6489, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 6489, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.openstack.org/">
@@ -5770,10 +6671,13 @@ profiler
   <a href="https://github.com/sebastien/cuisine">
    cuisine
   </a>
-  <span>
-   &#9733 1166, pushed 162 days ago
-  </span>
   - Chef-like functionality for Fabric.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1166, pushed 162 days ago
+  </sup>
+  <sup>
+   &#9733 1166, pushed 162 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.fabfile.org/">
@@ -5785,50 +6689,65 @@ profiler
   <a href="https://github.com/ronnix/fabtools">
    Fabtools
   </a>
-  <span>
-   &#9733 995, pushed 2 days ago
-  </span>
   - Tools for writing awesome Fabric files.
+  <sup>
+   347 GitHub links in total 782 links, ★ 995, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 995, pushed 2 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/nickstenning/honcho">
    honcho
   </a>
-  <span>
-   &#9733 754, pushed 20 days ago
-  </span>
   - A Python clone of
   <a href="https://github.com/ddollar/foreman">
    Foreman
   </a>
   , for managing Procfile-based applications.
+  <sup>
+   347 GitHub links in total 782 links, ★ 754, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 754, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pexpect/pexpect">
    pexpect
   </a>
-  <span>
-   &#9733 570, pushed 8 days ago
-  </span>
   - Controlling interactive programs in a pseudo-terminal like GNU expect.
+  <sup>
+   347 GitHub links in total 782 links, ★ 570, pushed 8 days ago
+  </sup>
+  <sup>
+   &#9733 570, pushed 8 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/giampaolo/psutil">
    psutil
   </a>
-  <span>
-   &#9733 1544, pushed 3 days ago
-  </span>
   - A cross-platform process and system utilities module.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1544, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1544, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/Supervisor/supervisor">
    supervisor
   </a>
-  <span>
-   &#9733 2461, pushed 3 days ago
-  </span>
   - Supervisor process control system for UNIX.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2461, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 2461, pushed 3 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -5850,10 +6769,13 @@ profiler
   <a href="https://github.com/thauber/django-schedule">
    django-schedule
   </a>
-  <span>
-   &#9733 622, pushed 17 days ago
-  </span>
   - A calendaring app for Django.
+  <sup>
+   347 GitHub links in total 782 links, ★ 622, pushed 17 days ago
+  </sup>
+  <sup>
+   &#9733 622, pushed 17 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pydoit.org/">
@@ -5865,10 +6787,13 @@ profiler
   <a href="https://github.com/gunnery/gunnery">
    gunnery
   </a>
-  <span>
-   &#9733 585, pushed 187 days ago
-  </span>
   - Multipurpose task execution tool for distributed systems with web-based interface.
+  <sup>
+   347 GitHub links in total 782 links, ★ 585, pushed 187 days ago
+  </sup>
+  <sup>
+   &#9733 585, pushed 187 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pythonhosted.org/joblib/index.html">
@@ -5880,28 +6805,37 @@ profiler
   <a href="https://github.com/fengsp/plan">
    Plan
   </a>
-  <span>
-   &#9733 875, pushed 47 days ago
-  </span>
   - Writing crontab file in Python like a charm.
+  <sup>
+   347 GitHub links in total 782 links, ★ 875, pushed 47 days ago
+  </sup>
+  <sup>
+   &#9733 875, pushed 47 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dbader/schedule">
    schedule
   </a>
-  <span>
-   &#9733 2126, pushed 58 days ago
-  </span>
   - Python job scheduling for humans.
+  <sup>
+   347 GitHub links in total 782 links, ★ 2126, pushed 58 days ago
+  </sup>
+  <sup>
+   &#9733 2126, pushed 58 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/knipknap/SpiffWorkflow">
    Spiff
   </a>
-  <span>
-   &#9733 322, pushed 127 days ago
-  </span>
   - A powerful workflow engine implemented in pure Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 322, pushed 127 days ago
+  </sup>
+  <sup>
+   &#9733 322, pushed 127 days ago
+  </sup>
  </li>
  <li>
   <a href="http://docs.openstack.org/developer/taskflow/">
@@ -5963,10 +6897,13 @@ profiler
   <a href="https://github.com/Maratyszcza/PeachPy">
    PeachPy
   </a>
-  <span>
-   &#9733 729, pushed 21 days ago
-  </span>
   - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
+  <sup>
+   347 GitHub links in total 782 links, ★ 729, pushed 21 days ago
+  </sup>
+  <sup>
+   &#9733 729, pushed 21 days ago
+  </sup>
  </li>
  <li>
   <a href="http://pypy.org/">
@@ -5978,10 +6915,13 @@ profiler
   <a href="https://github.com/dropbox/pyston">
    Pyston
   </a>
-  <span>
-   &#9733 3666, pushed 0 days ago
-  </span>
   - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance.
+  <sup>
+   347 GitHub links in total 782 links, ★ 3666, pushed 0 days ago
+  </sup>
+  <sup>
+   &#9733 3666, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://bitbucket.org/stackless-dev/stackless/overview">
@@ -6015,10 +6955,13 @@ profiler
   <a href="https://github.com/pythonnet/pythonnet">
    PythonNet
   </a>
-  <span>
-   &#9733 175, pushed 13 days ago
-  </span>
   - Python Integration with the .NET Common Language Runtime (CLR).
+  <sup>
+   347 GitHub links in total 782 links, ★ 175, pushed 13 days ago
+  </sup>
+  <sup>
+   &#9733 175, pushed 13 days ago
+  </sup>
  </li>
  <li>
   <a href="https://sourceforge.net/projects/pywin32/">
@@ -6052,10 +6995,13 @@ profiler
   <a href="https://github.com/noxrepo/pox">
    POX
   </a>
-  <span>
-   &#9733 302, pushed 29 days ago
-  </span>
   - An open source development platform for Python-based Software Defined Networking (SDN) control applications, such as OpenFlow SDN controllers.
+  <sup>
+   347 GitHub links in total 782 links, ★ 302, pushed 29 days ago
+  </sup>
+  <sup>
+   &#9733 302, pushed 29 days ago
+  </sup>
  </li>
  <li>
   <a href="http://frenetic-lang.org/pyretic/">
@@ -6067,10 +7013,13 @@ profiler
   <a href="https://github.com/sdn-ixp/internet2award">
    SDX Platform
   </a>
-  <span>
-   &#9733 8, pushed 888 days ago
-  </span>
   - SDN based IXP implementation that leverages Mininet, POX and Pyretic.
+  <sup>
+   347 GitHub links in total 782 links, ★ 8, pushed 888 days ago
+  </sup>
+  <sup>
+   &#9733 8, pushed 888 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -6102,19 +7051,25 @@ profiler
   <a href="https://github.com/SavinaRoja/PyUserInput">
    PyUserInput
   </a>
-  <span>
-   &#9733 425, pushed 12 days ago
-  </span>
   - A module for cross-platform control of the mouse and keyboard.
+  <sup>
+   347 GitHub links in total 782 links, ★ 425, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 425, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/secdev/scapy">
    scapy
   </a>
-  <span>
-   &#9733 367, pushed 1 days ago
-  </span>
   - A brilliant packet manipulation library.
+  <sup>
+   347 GitHub links in total 782 links, ★ 367, pushed 1 days ago
+  </sup>
+  <sup>
+   &#9733 367, pushed 1 days ago
+  </sup>
  </li>
  <li>
   <a href="https://wifi.readthedocs.org/en/latest/">
@@ -6148,10 +7103,13 @@ profiler
   <a href="https://github.com/mitsuhiko/python-modernize">
    Python-Modernize
   </a>
-  <span>
-   &#9733 401, pushed 198 days ago
-  </span>
   - Modernizes Python code for eventual Python 3 migration.
+  <sup>
+   347 GitHub links in total 782 links, ★ 401, pushed 198 days ago
+  </sup>
+  <sup>
+   &#9733 401, pushed 198 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pypi.python.org/pypi/six">
@@ -6173,37 +7131,49 @@ profiler
   <a href="https://github.com/jek/blinker">
    blinker
   </a>
-  <span>
-   &#9733 329, pushed 18 days ago
-  </span>
   - A fast Python in-process signal/event dispatching system.
+  <sup>
+   347 GitHub links in total 782 links, ★ 329, pushed 18 days ago
+  </sup>
+  <sup>
+   &#9733 329, pushed 18 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/pallets/itsdangerous">
    itsdangerous
   </a>
-  <span>
-   &#9733 874, pushed 20 days ago
-  </span>
   - Various helpers to pass trusted data to untrusted environments.
+  <sup>
+   347 GitHub links in total 782 links, ★ 874, pushed 20 days ago
+  </sup>
+  <sup>
+   &#9733 874, pushed 20 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/mitsuhiko/pluginbase">
    pluginbase
   </a>
-  <span>
-   &#9733 373, pushed 12 days ago
-  </span>
   - A simple but flexible plugin system for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 373, pushed 12 days ago
+  </sup>
+  <sup>
+   &#9733 373, pushed 12 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/PacketPerception/pychievements">
    Pychievements
   </a>
-  <span>
-   &#9733 73, pushed 318 days ago
-  </span>
   - A framework for creating and tracking achievements.
+  <sup>
+   347 GitHub links in total 782 links, ★ 73, pushed 318 days ago
+  </sup>
+  <sup>
+   &#9733 73, pushed 318 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.tryton.org/">
@@ -6225,19 +7195,25 @@ profiler
   <a href="https://github.com/nryoung/algorithms">
    algorithms
   </a>
-  <span>
-   &#9733 1424, pushed 3 days ago
-  </span>
   - A module of algorithms for Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1424, pushed 3 days ago
+  </sup>
+  <sup>
+   &#9733 1424, pushed 3 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/faif/python-patterns">
    python-patterns
   </a>
-  <span>
-   &#9733 8327, pushed 7 days ago
-  </span>
   - A collection of design patterns in Python.
+  <sup>
+   347 GitHub links in total 782 links, ★ 8327, pushed 7 days ago
+  </sup>
+  <sup>
+   &#9733 8327, pushed 7 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.grantjenks.com/docs/sortedcontainers/">
@@ -6262,12 +7238,15 @@ profiler
     <a href="https://github.com/jorgenschaefer/elpy">
      Elpy
     </a>
-    <span>
-     &#9733 693, pushed 4 days ago
-    </span>
     - Emacs Python Development Environment.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 693, pushed 4 days ago
+  </sup>
+  <sup>
+   &#9733 693, pushed 4 days ago
+  </sup>
  </li>
  <li>
   Sublime Text
@@ -6276,21 +7255,27 @@ profiler
     <a href="https://github.com/srusskih/SublimeJEDI">
      SublimeJEDI
     </a>
-    <span>
-     &#9733 622, pushed 132 days ago
-    </span>
     - A Sublime Text plugin to the awesome auto-complete library Jedi.
    </li>
    <li>
     <a href="https://github.com/DamnWidget/anaconda">
      Anaconda
     </a>
-    <span>
-     &#9733 1041, pushed 5 days ago
-    </span>
     - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
+    <sup>
+     347 GitHub links in total 782 links, ★ 1041, pushed 5 days ago
+    </sup>
+    <sup>
+     &#9733 1041, pushed 5 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 622, pushed 132 days ago
+  </sup>
+  <sup>
+   &#9733 622, pushed 132 days ago
+  </sup>
  </li>
  <li>
   Vim
@@ -6299,9 +7284,6 @@ profiler
     <a href="https://github.com/Valloric/YouCompleteMe">
      YouCompleteMe
     </a>
-    <span>
-     &#9733 10654, pushed 5 days ago
-    </span>
     - Includes
     <a href="https://github.com/davidhalter/jedi">
      Jedi
@@ -6312,21 +7294,33 @@ profiler
     <a href="https://github.com/davidhalter/jedi-vim">
      Jedi-vim
     </a>
-    <span>
-     &#9733 2311, pushed 25 days ago
-    </span>
     - Vim bindings for the Jedi auto-completion library for Python.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2311, pushed 25 days ago
+    </sup>
+    <sup>
+     &#9733 2311, pushed 25 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/klen/python-mode">
      Python-mode
     </a>
-    <span>
-     &#9733 2963, pushed 72 days ago
-    </span>
     - An all in one plugin for turning Vim into a Python IDE.
+    <sup>
+     347 GitHub links in total 782 links, ★ 2963, pushed 72 days ago
+    </sup>
+    <sup>
+     &#9733 2963, pushed 72 days ago
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 10654, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 10654, pushed 5 days ago
+  </sup>
  </li>
  <li>
   Visual Studio
@@ -6335,12 +7329,15 @@ profiler
     <a href="https://github.com/Microsoft/PTVS">
      PTVS
     </a>
-    <span>
-     &#9733 1023, pushed 5 days ago
-    </span>
     - Python Tools for Visual Studio.
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 1023, pushed 5 days ago
+  </sup>
+  <sup>
+   &#9733 1023, pushed 5 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -6368,10 +7365,13 @@ profiler
   <a href="https://github.com/spyder-ide/spyder">
    Spyder
   </a>
-  <span>
-   &#9733 1031, pushed 2 days ago
-  </span>
   - Open Source Python IDE.
+  <sup>
+   347 GitHub links in total 782 links, ★ 1031, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 1031, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -6579,25 +7579,34 @@ profiler
     <a href="https://github.com/checkcheckzz/python-github-projects">
      python-github-projects
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 205, pushed 62 days ago
+    </sup>
+    <sup>
      &#9733 205, pushed 62 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/rasbt/python_reference">
      python_reference
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 1519, pushed 23 days ago
+    </sup>
+    <sup>
      &#9733 1519, pushed 23 days ago
-    </span>
+    </sup>
    </li>
    <li>
     <a href="https://github.com/svaksha/pythonidae">
      pythonidae
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 372, pushed 2 days ago
+    </sup>
+    <sup>
      &#9733 372, pushed 2 days ago
-    </span>
+    </sup>
    </li>
   </ul>
  </li>
@@ -6608,19 +7617,25 @@ profiler
     <a href="https://github.com/sindresorhus/awesome">
      awesome
     </a>
-    <span>
-     &#9733 34522, pushed 2 days ago
-    </span>
    </li>
    <li>
     <a href="https://github.com/jnv/lists">
      lists
     </a>
-    <span>
+    <sup>
+     347 GitHub links in total 782 links, ★ 3765, pushed 2 days ago
+    </sup>
+    <sup>
      &#9733 3765, pushed 2 days ago
-    </span>
+    </sup>
    </li>
   </ul>
+  <sup>
+   347 GitHub links in total 782 links, ★ 34522, pushed 2 days ago
+  </sup>
+  <sup>
+   &#9733 34522, pushed 2 days ago
+  </sup>
  </li>
 </ul>
 <h1>
