@@ -97,8 +97,20 @@
   </a>
   - a free, cross-platform digital audio editor.
   <sup>
-   &#9733 349, pushed 2 days ago
+   &#9733 349, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://ardour.org/">
+   Ardour
+  </a>
+  - a cross-platform digital audio workstation emphasizing audio recording.
+ </li>
+ <li>
+  <a href="https://lmms.io/">
+   LMMS
+  </a>
+  - another cross-platform digital audio workstation, more oriented towards making beats.
  </li>
 </ul>
 <h2>
@@ -111,7 +123,7 @@
   </a>
   - audio.js is a drop-in javascript library that allows HTML5's <audio> tag to be used anywhere.
   <sup>
-   &#9733 1486, pushed 42 days ago
+   &#9733 1486, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -120,7 +132,7 @@
   </a>
   - a Javascript audio library for the modern web.
   <sup>
-   &#9733 4284, pushed 6 days ago
+   &#9733 4284, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -141,8 +153,14 @@
   </a>
   - a framework for creating web-based MIDI apps.
   <sup>
-   &#9733 1774, pushed 13 days ago
+   &#9733 1774, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/venturemedia/mxml">
+   mxml
+  </a>
+  - MusicXML parsing and layout library.
  </li>
  <li>
   <a href="http://www.portaudio.com/">
@@ -162,7 +180,7 @@
   </a>
   - a lightweight DSP library written in C.
   <sup>
-   &#9733 320, pushed 4 days ago
+   &#9733 320, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -182,7 +200,7 @@
   </a>
   - an open-source personal audio streaming server.
   <sup>
-   &#9733 6014, pushed 2 days ago
+   &#9733 6014, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -203,7 +221,7 @@
   </a>
   - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
   <sup>
-   &#9733 40, pushed 10 days ago
+   &#9733 40, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -223,7 +241,7 @@
   </a>
   - a collection of music typeset with lilypond (mostly chamber music and music for cello).
   <sup>
-   &#9733 40, pushed 6 days ago
+   &#9733 40, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +250,7 @@
   </a>
   - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
   <sup>
-   &#9733 4, pushed 35 days ago
+   &#9733 4, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -247,7 +265,7 @@
   </a>
   - baroque music scores (mainly French music), typeset using lilypond.
   <sup>
-   &#9733 16, pushed 126 days ago
+   &#9733 16, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -262,7 +280,7 @@
   </a>
   - sheet music based on editions in the public domain.
   <sup>
-   &#9733 76, pushed 8 days ago
+   &#9733 76, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +289,7 @@
   </a>
   - beautiful LilyPond scores under free licenses.
   <sup>
-   &#9733 16, pushed 32 days ago
+   &#9733 16, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -309,12 +327,18 @@
   - a free music notation editor based on Lilypond.
  </li>
  <li>
+  <a href="http://elbsound.studio/music_fonts.php">
+   Jan Angermüller's music fonts page
+  </a>
+  - A listing and visual comparison of different music fonts.
+ </li>
+ <li>
   <a href="https://github.com/wbsoft/frescobaldi">
    Frescobaldi
   </a>
   - a free Lilypond sheet music editor.
   <sup>
-   &#9733 184, pushed 2 days ago
+   &#9733 184, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +353,7 @@
   </a>
   - free, open source, browser based music notation and composition software.
   <sup>
-   &#9733 75, pushed 88 days ago
+   &#9733 75, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -338,7 +362,7 @@
   </a>
   - a C++ library for reading and writing MEI files.
   <sup>
-   &#9733 27, pushed 86 days ago
+   &#9733 27, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -371,7 +395,7 @@
   </a>
   - Lilypond version manager.
   <sup>
-   &#9733 2, pushed 120 days ago
+   &#9733 2, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -380,7 +404,7 @@
   </a>
   - a modern language for music notation, based on Lilypond.
   <sup>
-   &#9733 3, pushed 50 days ago
+   &#9733 3, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -389,7 +413,7 @@
   </a>
   - the lilypond package manager - install packages and manage multiple versions of lilypond.
   <sup>
-   &#9733 15, pushed 26 days ago
+   &#9733 15, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -398,8 +422,14 @@
   </a>
   - free open-source music notation and composition software.
   <sup>
-   &#9733 1026, pushed 2 days ago
+   &#9733 1026, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/venturemedia/musickit">
+   MusicKit
+  </a>
+  - Music sheet rendering for iOS and OSX.
  </li>
  <li>
   <a href="http://notat.io/">
@@ -426,12 +456,18 @@
   - DRY for Lilypond - generate scores and parts with minimal fuss.
  </li>
  <li>
+  <a href="http://scorelib.sapp.org/">
+   Scorelib
+  </a>
+  - a C++ library for parsing SCORE data files.
+ </li>
+ <li>
   <a href="https://github.com/tiredpixel/tunefl">
    Tunefl
   </a>
   - LilyPond mini-score engraving and sharing service for musicians.
   <sup>
-   &#9733 18, pushed 105 days ago
+   &#9733 18, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -440,7 +476,7 @@
   </a>
   - a library and a toolkit for engraving MEI music notation into SVG.
   <sup>
-   &#9733 44, pushed 1 days ago
+   &#9733 44, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -449,7 +485,7 @@
   </a>
   - a JavaScript library for rendering music notation and guitar tablature.
   <sup>
-   &#9733 1441, pushed 5 days ago
+   &#9733 1441, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -463,7 +499,7 @@
   </a>
   - a music programming language for musicians.
   <sup>
-   &#9733 2347, pushed 1 days ago
+   &#9733 2347, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -478,7 +514,7 @@
   </a>
   - strongly-timed, concurrent, and on-the-fly music programming language.
   <sup>
-   &#9733 132, pushed 4 days ago
+   &#9733 132, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -487,7 +523,7 @@
   </a>
   - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
   <sup>
-   &#9733 166, pushed 208 days ago
+   &#9733 166, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -514,7 +550,7 @@
   </a>
   - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
   <sup>
-   &#9733 113, pushed 21 days ago
+   &#9733 113, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -529,7 +565,7 @@
   </a>
   - a composition library for Overtone.
   <sup>
-   &#9733 239, pushed 17 days ago
+   &#9733 239, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -551,6 +587,12 @@
   - a sound synthesis and composition language.
  </li>
  <li>
+  <a href="http://repmus.ircam.fr/openmusic/home">
+   OpenMusic
+  </a>
+  - a visual programming language based on Lisp.
+ </li>
+ <li>
   <a href="https://github.com/overtone/overtone/">
    Overtone
   </a>
@@ -561,6 +603,12 @@
    Platonic Music Engine
   </a>
   - an open-source music generation framework written in Lua.
+ </li>
+ <li>
+  <a href="http://puredata.info/">
+   Pure Data
+  </a>
+  - a visual programming language for audio and other multimedia.
  </li>
  <li>
   <a href="http://sonic-pi.net/">
@@ -574,7 +622,7 @@
   </a>
   - a small stack based audio language.
   <sup>
-   &#9733 42, pushed 5 days ago
+   &#9733 42, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -637,7 +685,7 @@
   </a>
   - A curated list of software and resources to create music.
   <sup>
-   &#9733 2, pushed 50 days ago
+   &#9733 2, pushed 175 days ago
   </sup>
  </li>
 </ul>

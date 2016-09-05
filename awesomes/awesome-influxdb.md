@@ -58,7 +58,7 @@ Take a look at our page on
   </a>
   - Java client for InfluxDB
   <sup>
-   &#9733 146, pushed 4 days ago
+   &#9733 146, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -67,7 +67,7 @@ Take a look at our page on
   </a>
   - PHP client for InfluxDB
   <sup>
-   &#9733 69, pushed 12 days ago
+   &#9733 69, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -76,7 +76,7 @@ Take a look at our page on
   </a>
   - Python client for InfluxDB
   <sup>
-   &#9733 324, pushed 8 days ago
+   &#9733 324, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -85,7 +85,7 @@ Take a look at our page on
   </a>
   - Ruby client for InfluxDB
   <sup>
-   &#9733 167, pushed 9 days ago
+   &#9733 167, pushed 134 days ago
   </sup>
  </li>
 </ul>
@@ -99,7 +99,7 @@ Take a look at our page on
   </a>
   - A Clojure client for InfluxDB
   <sup>
-   &#9733 56, pushed 172 days ago
+   &#9733 56, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -108,7 +108,7 @@ Take a look at our page on
   </a>
   - Common Lisp interface to the Time Series Database InfluxDB
   <sup>
-   &#9733 10, pushed 230 days ago
+   &#9733 10, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -117,7 +117,7 @@ Take a look at our page on
   </a>
   - InfluxDB client for Erlang
   <sup>
-   &#9733 15, pushed 167 days ago
+   &#9733 15, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -126,7 +126,7 @@ Take a look at our page on
   </a>
   - An InfluxDB writer for Elixir
   <sup>
-   &#9733 7, pushed 2 days ago
+   &#9733 7, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -135,7 +135,7 @@ Take a look at our page on
   </a>
   - InfluxDB Javascript driver
   <sup>
-   &#9733 26, pushed 132 days ago
+   &#9733 26, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -144,7 +144,7 @@ Take a look at our page on
   </a>
   - InfluxDB Rust driver
   <sup>
-   &#9733 6, pushed 75 days ago
+   &#9733 6, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -153,7 +153,7 @@ Take a look at our page on
   </a>
   - LabVIEW client for InfluxDB
   <sup>
-   &#9733 0, pushed 242 days ago
+   &#9733 0, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -162,7 +162,7 @@ Take a look at our page on
   </a>
   - Haskell client library for InfluxDB
   <sup>
-   &#9733 23, pushed 20 days ago
+   &#9733 23, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -177,7 +177,7 @@ Take a look at our page on
   </a>
   - .NET client for InfluxDB
   <sup>
-   &#9733 58, pushed 65 days ago
+   &#9733 58, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -186,7 +186,7 @@ Take a look at our page on
   </a>
   - UDP/IP or HTTP adapters for read and write data
   <sup>
-   &#9733 61, pushed 22 days ago
+   &#9733 61, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -195,7 +195,7 @@ Take a look at our page on
   </a>
   - R library for InfluxDB
   <sup>
-   &#9733 11, pushed 28 days ago
+   &#9733 11, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -204,7 +204,7 @@ Take a look at our page on
   </a>
   - InfluxDB driver for Elixir
   <sup>
-   &#9733 40, pushed 3 days ago
+   &#9733 40, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -213,7 +213,7 @@ Take a look at our page on
   </a>
   - InfluxDB Node.js Client
   <sup>
-   &#9733 258, pushed 3 days ago
+   &#9733 258, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -222,7 +222,7 @@ Take a look at our page on
   </a>
   - Write to InfluxDB using its UDP interface
   <sup>
-   &#9733 13, pushed 174 days ago
+   &#9733 13, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -231,7 +231,7 @@ Take a look at our page on
   </a>
   - Asynchronous InfluxDB client for Scala
   <sup>
-   &#9733 21, pushed 40 days ago
+   &#9733 21, pushed 165 days ago
   </sup>
  </li>
 </ul>
@@ -254,7 +254,7 @@ Take a look at our page on
   </a>
   - Client/server collecting near realtime metrics from Linux hosts
   <sup>
-   &#9733 7, pushed 28 days ago
+   &#9733 7, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -267,7 +267,7 @@ Take a look at our page on
   </a>
   inspired metrics and event aggregation daemon for InfluxDB
   <sup>
-   &#9733 8, pushed 6 days ago
+   &#9733 8, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +276,7 @@ Take a look at our page on
   </a>
   - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
   <sup>
-   &#9733 35, pushed 48 days ago
+   &#9733 35, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -285,7 +285,7 @@ Take a look at our page on
   </a>
   - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
   <sup>
-   &#9733 25, pushed 5 days ago
+   &#9733 25, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -294,7 +294,7 @@ Take a look at our page on
   </a>
   - Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana
   <sup>
-   &#9733 8, pushed 59 days ago
+   &#9733 8, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -303,7 +303,7 @@ Take a look at our page on
   </a>
   - Poll network devices via SNMP and save the data in InfluxDB
   <sup>
-   &#9733 53, pushed 13 days ago
+   &#9733 53, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -316,7 +316,7 @@ Take a look at our page on
   </a>
   stats collector for InfluxDB
   <sup>
-   &#9733 7, pushed 2 days ago
+   &#9733 7, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +329,7 @@ Take a look at our page on
   </a>
   to influxdb forwarder
   <sup>
-   &#9733 16, pushed 75 days ago
+   &#9733 16, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -342,7 +342,7 @@ Take a look at our page on
   </a>
   devices to an InfluxDB instance
   <sup>
-   &#9733 0, pushed 238 days ago
+   &#9733 0, pushed 363 days ago
   </sup>
  </li>
  <li>
@@ -351,7 +351,7 @@ Take a look at our page on
   </a>
   - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
   <sup>
-   &#9733 1, pushed 8 days ago
+   &#9733 1, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -360,7 +360,7 @@ Take a look at our page on
   </a>
   - Collect and send system (linux) info to InfluxDB
   <sup>
-   &#9733 87, pushed 308 days ago
+   &#9733 87, pushed 433 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +369,7 @@ Take a look at our page on
   </a>
   - (Official) plugin-driven server agent for reporting metrics into InfluxDB
   <sup>
-   &#9733 1255, pushed 2 days ago
+   &#9733 1255, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -396,7 +396,7 @@ Take a look at our page on
   </a>
   - Analyzes resource usage and performance characteristics of running containers
   <sup>
-   &#9733 3861, pushed 2 days ago
+   &#9733 3861, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -408,7 +408,7 @@ Take a look at our page on
    Amazon Cloudwatch
   </a>
   <sup>
-   &#9733 36, pushed 204 days ago
+   &#9733 36, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +421,7 @@ Take a look at our page on
   </a>
   via SSE and push it into StatsD as a gauge or to InfluxDB
   <sup>
-   &#9733 3, pushed 70 days ago
+   &#9733 3, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -430,7 +430,7 @@ Take a look at our page on
   </a>
   - Async Scala-Akka-Netty based Stress Tool
   <sup>
-   &#9733 2375, pushed 7 days ago
+   &#9733 2375, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -439,7 +439,7 @@ Take a look at our page on
   </a>
   - Glances an Eye on your system
   <sup>
-   &#9733 4968, pushed 2 days ago
+   &#9733 4968, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -448,7 +448,7 @@ Take a look at our page on
   </a>
   - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
   <sup>
-   &#9733 212, pushed 40 days ago
+   &#9733 212, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -461,7 +461,7 @@ Take a look at our page on
   </a>
   cluster
   <sup>
-   &#9733 640, pushed 4 days ago
+   &#9733 640, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -470,7 +470,7 @@ Take a look at our page on
   </a>
   - General purpose data collection and processing tool
   <sup>
-   &#9733 3045, pushed 4 days ago
+   &#9733 3045, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -483,7 +483,7 @@ Take a look at our page on
   </a>
   - Python based application to pull data plan usage for different carriers such as Telus and Koodo
   <sup>
-   &#9733 1, pushed 165 days ago
+   &#9733 1, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -492,7 +492,7 @@ Take a look at our page on
   </a>
   - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
   <sup>
-   &#9733 896, pushed 2 days ago
+   &#9733 896, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -501,7 +501,7 @@ Take a look at our page on
   </a>
   - Collect and forward metrics using portable shell scripts
   <sup>
-   &#9733 25, pushed 70 days ago
+   &#9733 25, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -510,7 +510,7 @@ Take a look at our page on
   </a>
   - A network event stream processing system, in Clojure
   <sup>
-   &#9733 2818, pushed 13 days ago
+   &#9733 2818, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -519,7 +519,7 @@ Take a look at our page on
   </a>
   - Simple JVM Profiler Using StatsD
   <sup>
-   &#9733 177, pushed 39 days ago
+   &#9733 177, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -528,7 +528,7 @@ Take a look at our page on
   </a>
   - C implementation of statsd
   <sup>
-   &#9733 1295, pushed 10 days ago
+   &#9733 1295, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -545,7 +545,7 @@ Take a look at our page on
   </a>
   - small metrics collector for node servers
   <sup>
-   &#9733 15, pushed 75 days ago
+   &#9733 15, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -554,7 +554,7 @@ Take a look at our page on
   </a>
   - A reusable Django app that sends metrics about your project to InfluxDB
   <sup>
-   &#9733 27, pushed 9 days ago
+   &#9733 27, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -563,7 +563,7 @@ Take a look at our page on
   </a>
   - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
   <sup>
-   &#9733 153, pushed 90 days ago
+   &#9733 153, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -576,7 +576,7 @@ Take a look at our page on
   </a>
   and inserting it into InfluxDB
   <sup>
-   &#9733 2, pushed 63 days ago
+   &#9733 2, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -585,7 +585,7 @@ Take a look at our page on
   </a>
   - metric reporting for Go applications
   <sup>
-   &#9733 73, pushed 325 days ago
+   &#9733 73, pushed 449 days ago
   </sup>
  </li>
 </ul>
@@ -606,7 +606,7 @@ Take a look at our page on
   </a>
   which will post the metrics to InfluxDB
   <sup>
-   &#9733 11, pushed 24 days ago
+   &#9733 11, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -618,7 +618,7 @@ Take a look at our page on
    Logrus
   </a>
   <sup>
-   &#9733 5, pushed 4 days ago
+   &#9733 5, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -638,7 +638,7 @@ Take a look at our page on
    Embulk
   </a>
   <sup>
-   &#9733 0, pushed 230 days ago
+   &#9733 0, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -651,7 +651,7 @@ Take a look at our page on
   </a>
   reporter for InfluxDB
   <sup>
-   &#9733 12, pushed 32 days ago
+   &#9733 12, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -664,7 +664,7 @@ Take a look at our page on
   </a>
   and InfluxDB
   <sup>
-   &#9733 59, pushed 3 days ago
+   &#9733 59, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -677,8 +677,18 @@ Take a look at our page on
   </a>
   plugin for querying monitoring stats from InfluxDB
   <sup>
-   &#9733 20, pushed 195 days ago
+   &#9733 20, pushed 320 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jenkinsci/influxdb-plugin">
+   jenkinsci/influxdb-plugin
+  </a>
+  -
+  <a href="https://jenkins.io/index.html">
+   Jenkins
+  </a>
+  plugin to send build metrics into InfluxDB
  </li>
  <li>
   <a href="https://github.com/mre/kafka-influxdb">
@@ -690,7 +700,7 @@ Take a look at our page on
   </a>
   consumer for InfluxDB written in Python
   <sup>
-   &#9733 67, pushed 50 days ago
+   &#9733 67, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -703,7 +713,7 @@ Take a look at our page on
   </a>
   plugin to output metrics to InfluxDB
   <sup>
-   &#9733 15, pushed 13 days ago
+   &#9733 15, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -716,7 +726,7 @@ Take a look at our page on
   </a>
   metrics which announces measurements to an InfluxDB server
   <sup>
-   &#9733 129, pushed 21 days ago
+   &#9733 129, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -729,7 +739,7 @@ Take a look at our page on
   </a>
   module for exporting data to InfluxDB
   <sup>
-   &#9733 13, pushed 8 days ago
+   &#9733 13, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -742,7 +752,7 @@ Take a look at our page on
   </a>
   InfluxDB Plugins
   <sup>
-   &#9733 3, pushed 7 days ago
+   &#9733 3, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -751,7 +761,7 @@ Take a look at our page on
   </a>
   - A naive InfluxDB backend for StatsD
   <sup>
-   &#9733 143, pushed 14 days ago
+   &#9733 143, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -772,7 +782,7 @@ Take a look at our page on
   </a>
   file into InfluxDB
   <sup>
-   &#9733 12, pushed 12 days ago
+   &#9733 12, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -786,7 +796,7 @@ Take a look at our page on
   </a>
   - A tiny proxy server shim to ease the InfluxDB 0.8->0.9 transition
   <sup>
-   &#9733 0, pushed 99 days ago
+   &#9733 0, pushed 223 days ago
   </sup>
  </li>
 </ul>
@@ -809,7 +819,7 @@ Take a look at our page on
   </a>
   - Time series data visualization and graphing software
   <sup>
-   &#9733 811, pushed 27 days ago
+   &#9733 811, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -818,7 +828,7 @@ Take a look at our page on
   </a>
   - Terminal based InfluxDB dashboard
   <sup>
-   &#9733 5, pushed 34 days ago
+   &#9733 5, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -827,7 +837,7 @@ Take a look at our page on
   </a>
   - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
   <sup>
-   &#9733 9533, pushed 1 days ago
+   &#9733 9533, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -836,7 +846,7 @@ Take a look at our page on
   </a>
   - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
   <sup>
-   &#9733 61, pushed 4 days ago
+   &#9733 61, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -854,7 +864,7 @@ Take a look at our page on
   </a>
   and influxdb
   <sup>
-   &#9733 7, pushed 139 days ago
+   &#9733 7, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -863,7 +873,7 @@ Take a look at our page on
   </a>
   - A tool to query InfluxDB and send alerts based on a YAML config
   <sup>
-   &#9733 12, pushed 204 days ago
+   &#9733 12, pushed 328 days ago
   </sup>
  </li>
  <li>
@@ -872,7 +882,7 @@ Take a look at our page on
   </a>
   - Metric anomaly detection
   <sup>
-   &#9733 101, pushed 47 days ago
+   &#9733 101, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -889,7 +899,7 @@ Take a look at our page on
   </a>
   - Chef cookbook for InfluxDB
   <sup>
-   &#9733 40, pushed 1 days ago
+   &#9733 40, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -898,7 +908,7 @@ Take a look at our page on
   </a>
   - Puppet module for InfluxDB
   <sup>
-   &#9733 8, pushed 8 days ago
+   &#9733 8, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -907,7 +917,7 @@ Take a look at our page on
   </a>
   - Installs and configures the InfluxDB timeseries database
   <sup>
-   &#9733 3, pushed 375 days ago
+   &#9733 3, pushed 500 days ago
   </sup>
  </li>
  <li>
@@ -916,7 +926,7 @@ Take a look at our page on
   </a>
   - Experimental BOSH release for InfluxDB
   <sup>
-   &#9733 1, pushed 35 days ago
+   &#9733 1, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -925,7 +935,7 @@ Take a look at our page on
   </a>
   - Installs InfluxDB 0.9.X on Ansible
   <sup>
-   &#9733 4, pushed 32 days ago
+   &#9733 4, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -934,7 +944,7 @@ Take a look at our page on
   </a>
   - Docker image to run an out-of-the-box InfluxDB server
   <sup>
-   &#9733 183, pushed 22 days ago
+   &#9733 183, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -948,7 +958,7 @@ Take a look at our page on
   </a>
   - Doctrine DBAL for InfluxDB
   <sup>
-   &#9733 9, pushed 307 days ago
+   &#9733 9, pushed 432 days ago
   </sup>
  </li>
  <li>
@@ -957,7 +967,7 @@ Take a look at our page on
   </a>
   - Influxdb::Arel is a SQL AST manager for InfluxDB dialect. It simplifies the generation of complex SQL queries
   <sup>
-   &#9733 7, pushed 413 days ago
+   &#9733 7, pushed 537 days ago
   </sup>
  </li>
  <li>
@@ -966,7 +976,7 @@ Take a look at our page on
   </a>
   - InfluxDB ActiveRecord-style
   <sup>
-   &#9733 31, pushed 6 days ago
+   &#9733 31, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -982,7 +992,7 @@ Take a look at our page on
    awesome-bigdata
   </a>
   <sup>
-   &#9733 3106, pushed 12 days ago
+   &#9733 3106, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -990,7 +1000,7 @@ Take a look at our page on
    awesome-dashboard
   </a>
   <sup>
-   &#9733 152, pushed 119 days ago
+   &#9733 152, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -998,7 +1008,7 @@ Take a look at our page on
    awesome-data-engineering
   </a>
   <sup>
-   &#9733 467, pushed 24 days ago
+   &#9733 467, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1006,7 +1016,7 @@ Take a look at our page on
    awesome-db
   </a>
   <sup>
-   &#9733 209, pushed 30 days ago
+   &#9733 209, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1014,7 +1024,7 @@ Take a look at our page on
    awesome-go
   </a>
   <sup>
-   &#9733 12513, pushed 1 days ago
+   &#9733 12513, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +1032,7 @@ Take a look at our page on
    awesome-sysadmin
   </a>
   <sup>
-   &#9733 12207, pushed 4 days ago
+   &#9733 12207, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1035,7 +1045,7 @@ Take a look at our page on
    awesome
   </a>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1043,7 +1053,7 @@ Take a look at our page on
    lists
   </a>
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
 </ul>

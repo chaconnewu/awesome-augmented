@@ -11,7 +11,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** [33:46]
-* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg** [1:06:43]
+* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** [1:06:43]
 * [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** [27:35]
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
@@ -28,7 +28,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Object-Oriented Programming
 
-* [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
+* [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #####Functional Programming
@@ -101,6 +101,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
 * [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
+* [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** [54:55]
 
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
@@ -111,13 +112,13 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
 
 #####Cognitive Development
-* [A Lecture on Creativity](https://www.youtube.com/watch?v=Qby0ed4aVpo) by **John Cleese** [36:09]
+* [A Lecture on Creativity](https://www.youtube.com/watch?v=PQ0lck7oo4A) by **John Cleese** [36:09]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
+* [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** [35:26]
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
-
 
 ## License
 

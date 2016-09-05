@@ -12,6 +12,26 @@
 </h2>
 <ul>
  <li>
+  <a href="https://assist-software.net/blog/css-guideline-tutorial-bem-sass">
+   A CSS Guideline Tutorial: BEM with Sass
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@stowball/bemantic-dry-like-you-mean-it-133ea3843d98#.a2ivj7ny9">
+   BEMantic - DRY like you mean it
+  </a>
+ </li>
+ <li>
+  <a href="https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving">
+   BEM & Atomic Design: A CSS Architecture Worth Loving
+  </a>
+ </li>
+ <li>
+  <a href="https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/">
+   Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them
+  </a>
+ </li>
+ <li>
   <a href="http://www.sitepoint.com/bem-smacss-advice-from-developers/">
    BEM and SMACSS: Advice From Developers Who’ve Been There
   </a>
@@ -261,7 +281,7 @@
    PostCSS BEM Linter
   </a>
   <sup>
-   &#9733 227, pushed 2 days ago
+   &#9733 227, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -277,7 +297,7 @@
    BEM Constructor
   </a>
   <sup>
-   &#9733 312, pushed 65 days ago
+   &#9733 312, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -285,7 +305,7 @@
    WordPress BEM Menu
   </a>
   <sup>
-   &#9733 54, pushed 75 days ago
+   &#9733 54, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -346,7 +366,7 @@
    A curated list of awesome lists - @sindresorhus
   </a>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
 </ul>

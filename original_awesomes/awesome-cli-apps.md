@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+	<br>
+	<br>
+	<br>
+</h1>
+
 # Awesome CLI Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of command line apps.
@@ -50,11 +58,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
+- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 
 ### Video
 
@@ -68,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
+- [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
@@ -119,6 +131,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
+- [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
+- [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 
 ### OS X
 
@@ -192,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Gif Creation
 
+- [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 - [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 - [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif.
@@ -234,6 +250,7 @@ Some fine resources to write your own CLI App.
 - [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
 - [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
+- [listr](https://github.com/samverschueren/listr) - Terminal task list.
 
 ### String Manipulation
 
@@ -262,6 +279,7 @@ Some fine resources to write your own CLI App.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
+- [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
@@ -274,6 +292,7 @@ Some fine resources to write your own CLI App.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+-[emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 
 ## License
 

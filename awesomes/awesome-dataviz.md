@@ -46,11 +46,6 @@
       </a>
      </li>
      <li>
-      <a href="#dcjs">
-       dc.js
-      </a>
-     </li>
-     <li>
       <a href="#misc">
        Misc
       </a>
@@ -158,6 +153,15 @@
   - Responsive charts with great browser compatibility.
  </li>
  <li>
+  <a href="https://github.com/dc-js/dc.js">
+   dc.js
+  </a>
+  is an multi-Dimensional charting built to work natively with crossfilter.
+  <sup>
+   &#9733 4865, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
   <a href="http://dimplejs.org/">
    Dimple
   </a>
@@ -175,7 +179,7 @@
   </a>
   - Highly customizable and interactive charts ready for big datasets.
   <sup>
-   &#9733 11526, pushed 2 days ago
+   &#9733 11526, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -184,7 +188,7 @@
   </a>
   - Perfect to create real-time charts.
   <sup>
-   &#9733 4510, pushed 44 days ago
+   &#9733 4510, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -197,7 +201,7 @@
   </a>
   for non-profit projects.
   <sup>
-   &#9733 4955, pushed 4 days ago
+   &#9733 4955, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -207,18 +211,12 @@
   - Optimized for time-series data.
  </li>
  <li>
-  <a href="http://morrisjs.github.io/morris.js/">
-   Morris.js
-  </a>
-  - Pretty time-series line graphs.
- </li>
- <li>
   <a href="https://github.com/novus/nvd3">
    NVD3
   </a>
   - A reusable charting library written in d3.js.
   <sup>
-   &#9733 5002, pushed 4 days ago
+   &#9733 5002, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -227,7 +225,7 @@
   </a>
   - Create small inline svg charts.
   <sup>
-   &#9733 3487, pushed 328 days ago
+   &#9733 3487, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -281,7 +279,7 @@
   </a>
   - Graph drawing library for JavaScript.
   <sup>
-   &#9733 1898, pushed 34 days ago
+   &#9733 1898, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -295,7 +293,7 @@
   </a>
   - CartoDB is an open source tool that allows for the storage and visualization of geospatial data on the web.
   <sup>
-   &#9733 1127, pushed 4 days ago
+   &#9733 1127, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +302,7 @@
   </a>
   - WebGL virtual globe and map engine.
   <sup>
-   &#9733 1254, pushed 2 days ago
+   &#9733 1254, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +317,7 @@
   </a>
   - A framework designed to simplify data visualization and thematic mapping using Leaflet.
   <sup>
-   &#9733 370, pushed 35 days ago
+   &#9733 370, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -328,14 +326,8 @@
   </a>
   - jQuery plugin based on the.js to display vector maps.
   <sup>
-   &#9733 693, pushed 15 days ago
+   &#9733 693, pushed 139 days ago
   </sup>
- </li>
- <li>
-  <a href="http://mapsense.github.io/mapsense.js/">
-   Mapsense.js
-  </a>
-  - Combines d3.js with tile maps.
  </li>
  <li>
   <a href="http://modestmaps.com/">
@@ -355,45 +347,7 @@
   </a>
   .
   <sup>
-   &#9733 2786, pushed 8 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- dc.js
-</h3>
-<p>
- <a href="https://github.com/dc-js/dc.js">
-  dc.js
- </a>
- is an multi-Dimensional charting built to work natively with crossfilter.
-</p>
-<ul>
- <li>
-  <a href="https://github.com/TomNeyland/angular-dc">
-   angular-dc
-  </a>
-  - AngularJS directives for dc.js.
-  <sup>
-   &#9733 95, pushed 232 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/yurukov/dc.leaflet.js">
-   dc.leaflet.js
-  </a>
-  - dc.js charts using Leaflet maps.
-  <sup>
-   &#9733 39, pushed 138 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/andrewreedy/ember-dc">
-   ember-dc
-  </a>
-  - Ember Component Wrappers for dc.js.
-  <sup>
-   &#9733 154, pushed 623 days ago
+   &#9733 2786, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -413,14 +367,8 @@
   </a>
   - Pie charts in your favicon.
   <sup>
-   &#9733 2314, pushed 74 days ago
+   &#9733 2314, pushed 199 days ago
   </sup>
- </li>
- <li>
-  <a href="http://okfnlabs.org/recline/">
-   Recline.js
-  </a>
-  - Simple but powerful library for building data applications in pure JavaScript and HTML.
  </li>
  <li>
   <a href="http://riccardoscalco.github.io/textures/">
@@ -457,7 +405,7 @@
   </a>
   - Charting library for Android compatible with API 8+.
   <sup>
-   &#9733 2475, pushed 20 days ago
+   &#9733 2475, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -466,7 +414,7 @@
   </a>
   - A powerful & easy to use chart library.
   <sup>
-   &#9733 8771, pushed 2 days ago
+   &#9733 8771, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -491,7 +439,7 @@
   </a>
   - Basic charts in Go. Can render to ASCII, SVG and images.
   <sup>
-   &#9733 309, pushed 232 days ago
+   &#9733 309, pushed 357 days ago
   </sup>
  </li>
  <li>
@@ -500,7 +448,7 @@
   </a>
   - Go Language Library for SVG generation.
   <sup>
-   &#9733 722, pushed 36 days ago
+   &#9733 722, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -509,12 +457,21 @@
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/danielgindi/Charts">
+   Charts
+  </a>
+  -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
+  <sup>
+   &#9733 8814, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://github.com/Jawbone/JBChartView">
    JBChartView
   </a>
   - Charting library for both line and bar graphs.
   <sup>
-   &#9733 3182, pushed 6 days ago
+   &#9733 3182, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -523,14 +480,8 @@
   </a>
   - A simple and beautiful chart lib used in Piner and CoinsMan.
   <sup>
-   &#9733 6656, pushed 12 days ago
+   &#9733 6656, pushed 137 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/danielgindi/ios-charts">
-   ios-charts
-  </a>
-  -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
  </li>
 </ul>
 <h2>
@@ -544,12 +495,22 @@
   - Interactive Web Plotting for Python.
  </li>
  <li>
+  <a href="https://github.com/tehmaze/diagram">
+   diagram
+  </a>
+  - Text mode diagrams using UTF-8 characters
+ </li>
+ <li>
   <a href="https://github.com/yhat/ggplot">
    ggplot
   </a>
-  - Same API as ggplot2 for R.
+  - plotting system based on
+  <a href="#r-tools">
+   R's
+  </a>
+  ggplot2.
   <sup>
-   &#9733 2487, pushed 2 days ago
+   &#9733 2487, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -558,7 +519,7 @@
   </a>
   - OpenGL scientific visualizations library.
   <sup>
-   &#9733 141, pushed 46 days ago
+   &#9733 141, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -592,15 +553,6 @@
   - The kid-sized plotting toolkit for Python with grownup-sized goals.
  </li>
  <li>
-  <a href="https://github.com/wrobstory/vincent">
-   Vincent
-  </a>
-  - A Python to Vega translator.
-  <sup>
-   &#9733 1843, pushed 102 days ago
-  </sup>
- </li>
- <li>
   <a href="http://vispy.org/">
    VisPy
   </a>
@@ -618,6 +570,12 @@
   - A plotting system based on the grammar of graphics.
  </li>
  <li>
+  <a href="http://ggvis.rstudio.com/">
+   ggvis
+  </a>
+  - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
+ </li>
+ <li>
   <a href="http://lattice.r-forge.r-project.org">
    lattice
   </a>
@@ -629,7 +587,7 @@
   </a>
   - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
   <sup>
-   &#9733 478, pushed 2 days ago
+   &#9733 478, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -667,7 +625,7 @@
   </a>
   - Create charts with one line of Ruby.
   <sup>
-   &#9733 3592, pushed 4 days ago
+   &#9733 3592, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -684,7 +642,7 @@
   </a>
   - A charting tool that produces automatic, shareable charts from any data file.
   <sup>
-   &#9733 2540, pushed 67 days ago
+   &#9733 2540, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -693,7 +651,7 @@
   </a>
   - An open-source platform for visualizing and manipulating large graphs
   <sup>
-   &#9733 1434, pushed 29 days ago
+   &#9733 1434, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +676,7 @@
   </a>
   .
   <sup>
-   &#9733 4382, pushed 3 days ago
+   &#9733 4382, pushed 128 days ago
   </sup>
  </li>
  <li>

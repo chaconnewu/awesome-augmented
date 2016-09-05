@@ -23,8 +23,10 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Haskell] (#lib-haskell)
 	- [SQL](#lib-sql)
 	- [Lua](#lib-lua)
+	- [Elm](#lib-elm)
 - [Tools](#tools)
 - [Services](#services)
+- [Databases](#databases)
 - [Examples](#example)
 	- [Javascript](#example-js)
 	- [Ruby](#example-rb)
@@ -71,12 +73,16 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
+* [graphql-anywhere](https://github.com/stubailo/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
+* [graphql-tag](https://github.com/apollostack/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
+* [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 
 ##### Relay Related
 
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [sequelize-relay](https://github.com/MattMcFarland/sequelize-relay) - Serverside library that connects sequelize and graphql-relay-js together.
+* [babel-plugin-react-relay](https://github.com/graphcool/babel-plugin-react-relay) - Babel Plugin for Relay with support for JSON & graphql-js schemas and URL endpoints.
 * [babel-relay-plugin](https://www.npmjs.com/package/babel-relay-plugin) - Babel Relay Plugin for transpiling GraphQL queries for use with Relay.
 * [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
@@ -84,6 +90,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
+* [react-relay-network-layer](https://github.com/nodkz/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
 
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -102,6 +109,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/suribit/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
+* [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
+* [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
+* [graphql-wp](https://github.com/tim-field/graphql-wp) -. a WordPress plugin that exposes a GraphQL endpoint at /graphql
 
 <a name="lib-py" />
 ### Python Libraries
@@ -111,17 +121,20 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 * [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 * [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
+* [graphene-gae](https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (GAE).
 * [django-graphiql](https://github.com/graphql-python/django-graphiql) - Integrate GraphiQL easily into your Django project.
 * [flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
 
 <a name="lib-java" />
 ### Java Libraries
 
-* [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL Java implementation.
+* [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+* [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
+* [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 
-<a name="#lib-c" />
+<a name="lib-c" />
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
@@ -168,13 +181,18 @@ If you want to contribute to this list (please do), send me a pull request.
 ### SQL Libraries
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
-* [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
+* [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 * [PostGraphQL](https://github.com/calebmer/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
 
 <a name="lib-lua" />
 ### Lua Libraries
 
 * [graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
+
+<a name="lib-elm" />
+### Elm Libraries
+
+* [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
 
 <a name="tools" />
 ## Tools
@@ -193,10 +211,17 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
 * [eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 
+<a name="databases" />
+## Databases
+
+* [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+
 <a name="services" />
 ## Services
 
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
+* [Graphcool](https://graph.cool/) - Hosted GraphQL Backend for your React/Relay Apps.
+* [Scaphold](https://scaphold.io/) - GraphQL as a service.
 
 <a name="example" />
 ## Examples
@@ -228,13 +253,17 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 * [Apollo Client documentation](http://docs.apollostack.com/apollo-client/) - Documentation and example for building GraphQL apps using apollo client
 * [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
+* [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
+* [Modelizr Documentation](https://julienvincent.github.io/modelizr/) - Documentation and Usage Examples for modelizr
 
 <a name="example-rb" />
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
+* [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 
 <a name="example-go" />
 ### Go Examples
@@ -277,6 +306,10 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
 * [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
 * [GraphQL server tutorial for Node.js with SQL, MongoDB and REST](https://www.youtube.com/watch?v=PHabPhgRUuU)
+* [JavaScript Air Episode 023: Transitioning from REST to GraphQL](https://www.youtube.com/watch?v=ENqDNIp1Nd8)
+* [GraphQL Future at react-europe 2016](https://www.youtube.com/watch?v=ViXL0YQnioU)
+* [GraphQL at Facebook at react-europe 2016](https://www.youtube.com/watch?v=etax3aEe2dA)
+* [Building native mobile apps with GraphQL at react-europe 2016](https://www.youtube.com/watch?v=z5rz3saDPJ8)
 
 <a name="blogs" />
 ## Blogs
@@ -286,11 +319,13 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 <a name="post" />
 ## Posts
 
+* [Using DataLoader to batch GraphQL requests](http://gajus.com/blog/9/using-dataloader-to-batch-requests)
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
+* [4 Reasons you should try out GraphQL](https://medium.com/@guidsen/introduction-to-graphql-1d8011b80159)
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Start using GraphQL with Graffiti](https://blog.risingstack.com/start-using-graphql-with-graffiti/?utm_source=nodeweekly&utm_medium=email)
@@ -314,6 +349,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) has waived all copyright and related or neighboring rights to this work.

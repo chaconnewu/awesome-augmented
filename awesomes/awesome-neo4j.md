@@ -208,12 +208,12 @@
 </h1>
 <ul>
  <li>
-  <a href="http://neo4j.com/docs/stable/">
+  <a href="http://neo4j.com/docs/">
    Official documentation
   </a>
  </li>
  <li>
-  <a href="http://neo4j.com/docs/stable/cypher-refcard/">
+  <a href="http://neo4j.com/docs/cypher-refcard/current/">
    Cypher Refcard
   </a>
  </li>
@@ -252,45 +252,45 @@
   <a href="https://github.com/neo4j/neo4j-java-driver">
    neo4j-java-driver
   </a>
-  - [BETA] Java driver for Neo4j binary protocol.
+  - Java driver for Neo4j binary protocol.
   <sup>
-   &#9733 33, pushed 8 days ago
+   &#9733 33, pushed 133 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/neo4j/neo4j-python-driver">
    neo4j-python-driver
   </a>
-  - [BETA] Python driver for Neo4j binary protocol.
+  - Python driver for Neo4j binary protocol.
   <sup>
-   &#9733 28, pushed 11 days ago
+   &#9733 28, pushed 136 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/neo4j/neo4j-javascript-driver">
    neo4j-javascript-driver
   </a>
-  - [BETA] JavaScript driver for Neo4j binary protocol.
+  - JavaScript driver for Neo4j binary protocol.
   <sup>
-   &#9733 53, pushed 12 days ago
+   &#9733 53, pushed 137 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/neo4j/neo4j-dotnet-driver">
    neo4j-dotnet-driver
   </a>
-  - [BETA] .Net driver for Neo4j (Bolt).
+  - .Net driver for Neo4j (Bolt).
   <sup>
-   &#9733 9, pushed 12 days ago
+   &#9733 9, pushed 137 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/graphaware/neo4j-bolt-php">
    neo4j-bolt-php
   </a>
-  - [BETA] PHP driver for Neo4j binary protocol.
+  - PHP driver for Neo4j binary protocol.
   <sup>
-   &#9733 11, pushed 6 days ago
+   &#9733 11, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -299,8 +299,14 @@
   </a>
   - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
   <sup>
-   &#9733 9, pushed 5 days ago
+   &#9733 9, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/neo4j-contrib/neo4j-spark-connector">
+   neo4j-spark-connector
+  </a>
+  - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
  </li>
 </ul>
 <h2>
@@ -316,7 +322,7 @@
   </a>
   - Object-Graph Mapping Library for Neo4j.
   <sup>
-   &#9733 72, pushed 7 days ago
+   &#9733 72, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +331,7 @@
   </a>
   - Provides support to increase developer productivity in Java when using the neo4j graph database.
   <sup>
-   &#9733 409, pushed 19 days ago
+   &#9733 409, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -334,7 +340,7 @@
   </a>
   - Neo4j JDBC driver.
   <sup>
-   &#9733 74, pushed 42 days ago
+   &#9733 74, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -343,7 +349,7 @@
   </a>
   - Java access to Neo4J graph databases at multiple levels of abstraction.
   <sup>
-   &#9733 29, pushed 4 days ago
+   &#9733 29, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -357,7 +363,7 @@
   </a>
   - An active model wrapper for the Neo4j Graph Database for Ruby.
   <sup>
-   &#9733 1031, pushed 2 days ago
+   &#9733 1031, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -366,7 +372,7 @@
   </a>
   - A thin Ruby wrapper to the Neo4j Rest API.
   <sup>
-   &#9733 589, pushed 42 days ago
+   &#9733 589, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -380,7 +386,7 @@
   </a>
   - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
   <sup>
-   &#9733 452, pushed 5 days ago
+   &#9733 452, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -389,7 +395,7 @@
   </a>
   - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo.
   <sup>
-   &#9733 181, pushed 88 days ago
+   &#9733 181, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -398,7 +404,7 @@
   </a>
   - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
   <sup>
-   &#9733 555, pushed 555 days ago
+   &#9733 555, pushed 679 days ago
   </sup>
  </li>
 </ul>
@@ -407,12 +413,18 @@
 </h3>
 <ul>
  <li>
+  <a href="https://github.com/graphaware/neo4j-php-ogm">
+   Neo4j-PHP-OGM
+  </a>
+  - Doctrine style Object Graph Mapper for Neo4j
+ </li>
+ <li>
   <a href="https://github.com/jadell/neo4jphp">
    neo4jphp
   </a>
   - PHP wrapper of the Neo4j REST interface.
   <sup>
-   &#9733 513, pushed 52 days ago
+   &#9733 513, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +433,7 @@
   </a>
   - A Neo4j ORM - Based on Eloquent.
   <sup>
-   &#9733 193, pushed 12 days ago
+   &#9733 193, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -436,7 +448,7 @@
   </a>
   - A simple, flexible, and beautiful graph-data abstraction for php.
   <sup>
-   &#9733 18, pushed 23 days ago
+   &#9733 18, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -450,7 +462,7 @@
   </a>
   - REST API client for Node.
   <sup>
-   &#9733 804, pushed 20 days ago
+   &#9733 804, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -459,7 +471,7 @@
   </a>
   - .NET client binding.
   <sup>
-   &#9733 161, pushed 7 days ago
+   &#9733 161, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -468,7 +480,7 @@
   </a>
   - Client for Golang.
   <sup>
-   &#9733 246, pushed 81 days ago
+   &#9733 246, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -477,7 +489,7 @@
   </a>
   - A feature rich idiomatic Clojure client for the REST API.
   <sup>
-   &#9733 141, pushed 116 days ago
+   &#9733 141, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -486,7 +498,7 @@
   </a>
   - Driver for R.
   <sup>
-   &#9733 141, pushed 27 days ago
+   &#9733 141, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +507,7 @@
   </a>
   - Scala library based on Anorm in the Play Framework.
   <sup>
-   &#9733 104, pushed 5 days ago
+   &#9733 104, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -542,7 +554,7 @@ Neo4j graph database.
   </a>
   - Docker Images for the Neo4j Graph Database.
   <sup>
-   &#9733 45, pushed 6 days ago
+   &#9733 45, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -551,7 +563,7 @@ Neo4j graph database.
   </a>
   - Up & Running Neo4j cluster in no time.
   <sup>
-   &#9733 26, pushed 83 days ago
+   &#9733 26, pushed 208 days ago
   </sup>
  </li>
 </ul>
@@ -565,7 +577,7 @@ Neo4j graph database.
   </a>
   - GraphAware Framework Module for Integrating Neo4j with Elasticsearch.
   <sup>
-   &#9733 38, pushed 18 days ago
+   &#9733 38, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -574,7 +586,7 @@ Neo4j graph database.
   </a>
   - Elasticsearch plugin offering Neo4j integration for Personalized Search.
   <sup>
-   &#9733 12, pushed 5 days ago
+   &#9733 12, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -583,7 +595,7 @@ Neo4j graph database.
   </a>
   - Neo4j ElasticSearch Integration.
   <sup>
-   &#9733 40, pushed 33 days ago
+   &#9733 40, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -597,7 +609,7 @@ Neo4j graph database.
   </a>
   - Java importer skeleton for complicated, business-logic-heavy high-performance Neo4j imports directly from SQL databases, CSV files, etc.
   <sup>
-   &#9733 5, pushed 38 days ago
+   &#9733 5, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -610,7 +622,7 @@ Neo4j graph database.
   </code>
   Cypher command to load from other datasources as well.
   <sup>
-   &#9733 6, pushed 165 days ago
+   &#9733 6, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +631,7 @@ Neo4j graph database.
   </a>
   - An automatic importer for relational databases into Neo4j.
   <sup>
-   &#9733 18, pushed 187 days ago
+   &#9733 18, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -628,7 +640,7 @@ Neo4j graph database.
   </a>
   - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector.
   <sup>
-   &#9733 24, pushed 40 days ago
+   &#9733 24, pushed 165 days ago
   </sup>
  </li>
 </ul>
@@ -642,7 +654,7 @@ Neo4j graph database.
   </a>
   - Neo4J database profiling utility.
   <sup>
-   &#9733 20, pushed 510 days ago
+   &#9733 20, pushed 635 days ago
   </sup>
  </li>
 </ul>
@@ -656,7 +668,7 @@ Neo4j graph database.
   </a>
   - GraphAware Runtime Module that assigns a UUID to all nodes in the graph transparently.
   <sup>
-   &#9733 19, pushed 13 days ago
+   &#9733 19, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -665,7 +677,7 @@ Neo4j graph database.
   </a>
   - A GraphAware Framework Runtime Module allowing users to find out what were the latest changes performed on the graph.
   <sup>
-   &#9733 10, pushed 38 days ago
+   &#9733 10, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -674,7 +686,7 @@ Neo4j graph database.
   </a>
   - Java and REST APIs for working with time-representing tree in Neo4j.
   <sup>
-   &#9733 77, pushed 1 days ago
+   &#9733 77, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -683,7 +695,7 @@ Neo4j graph database.
   </a>
   - Neo4j-based recommendation engine module with real-time and pre-computed recommendations.
   <sup>
-   &#9733 118, pushed 38 days ago
+   &#9733 118, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -692,7 +704,7 @@ Neo4j graph database.
   </a>
   - GraphAware Timer-Driven Runtime Module that executes PageRank-like algorithm on the graph.
   <sup>
-   &#9733 15, pushed 38 days ago
+   &#9733 15, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -701,7 +713,7 @@ Neo4j graph database.
   </a>
   - Custom graph algorithms for Neo4j with own Java and REST APIs.
   <sup>
-   &#9733 26, pushed 38 days ago
+   &#9733 26, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -710,7 +722,7 @@ Neo4j graph database.
   </a>
   - Simple library that warms up Neo4j caches with a single REST call.
   <sup>
-   &#9733 9, pushed 3 days ago
+   &#9733 9, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -719,7 +731,7 @@ Neo4j graph database.
   </a>
   - GraphAware RestTest is a simple library for testing code that talks to Neo4j running in standalone server mode.
   <sup>
-   &#9733 4, pushed 3 days ago
+   &#9733 4, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -728,7 +740,7 @@ Neo4j graph database.
   </a>
   - GraphAware Expire is a simple library that automatically deletes nodes and relationships from the database when they've reached their expiration date or time-to-live (TTL).
   <sup>
-   &#9733 7, pushed 38 days ago
+   &#9733 7, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -737,7 +749,7 @@ Neo4j graph database.
   </a>
   - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
   <sup>
-   &#9733 436, pushed 8 days ago
+   &#9733 436, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -746,7 +758,7 @@ Neo4j graph database.
   </a>
   - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
   <sup>
-   &#9733 261, pushed 343 days ago
+   &#9733 261, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -755,7 +767,7 @@ Neo4j graph database.
   </a>
   - This is a Neo4j Server Extension to make Neo4j REST-API participate in transactions started by the transactional Cypher endpoint.
   <sup>
-   &#9733 3, pushed 345 days ago
+   &#9733 3, pushed 470 days ago
   </sup>
  </li>
 </ul>
@@ -769,7 +781,7 @@ Neo4j graph database.
   </a>
   - Collection of useful procedures for Neo4j 3.x
   <sup>
-   &#9733 46, pushed 2 days ago
+   &#9733 46, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -778,7 +790,7 @@ Neo4j graph database.
   </a>
   - Neo4j procedure for generating test data easily with Cypher
   <sup>
-   &#9733 3, pushed 1 days ago
+   &#9733 3, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -798,7 +810,7 @@ Neo4j graph database.
   </a>
   - GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
   <sup>
-   &#9733 104, pushed 3 days ago
+   &#9733 104, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -807,7 +819,7 @@ Neo4j graph database.
   </a>
   - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
   <sup>
-   &#9733 46, pushed 138 days ago
+   &#9733 46, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -816,7 +828,7 @@ Neo4j graph database.
   </a>
   - Database migrations management tool, based on how Liquibase works.
   <sup>
-   &#9733 26, pushed 6 days ago
+   &#9733 26, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -825,7 +837,7 @@ Neo4j graph database.
   </a>
   - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
   <sup>
-   &#9733 1196, pushed 91 days ago
+   &#9733 1196, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +846,7 @@ Neo4j graph database.
   </a>
   - Graph Application Platform based on Neo4j.
   <sup>
-   &#9733 365, pushed 1 days ago
+   &#9733 365, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -843,7 +855,7 @@ Neo4j graph database.
   </a>
   - Neo4j based Recommendation Engine Framework for PHP.
   <sup>
-   &#9733 25, pushed 8 days ago
+   &#9733 25, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -857,7 +869,7 @@ Neo4j graph database.
   </a>
   - Cypher plugin for Jetbrains-family IDE's.
   <sup>
-   &#9733 23, pushed 19 days ago
+   &#9733 23, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -866,7 +878,7 @@ Neo4j graph database.
   </a>
   - Very basic Vim syntax for Cypher.
   <sup>
-   &#9733 12, pushed 791 days ago
+   &#9733 12, pushed 916 days ago
   </sup>
  </li>
 </ul>
@@ -880,7 +892,7 @@ Neo4j graph database.
   </a>
   - A Command Line Interface for Cypher.
   <sup>
-   &#9733 123, pushed 8 days ago
+   &#9733 123, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -889,7 +901,7 @@ Neo4j graph database.
   </a>
   - A bunch of import/export tools for the neo4j-shell.
   <sup>
-   &#9733 138, pushed 19 days ago
+   &#9733 138, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -903,7 +915,7 @@ Neo4j graph database.
   </a>
   - Neoclipse is a tool to view, edit and explore Neo4j databases.
   <sup>
-   &#9733 153, pushed 587 days ago
+   &#9733 153, pushed 712 days ago
   </sup>
  </li>
  <li>
@@ -912,7 +924,7 @@ Neo4j graph database.
   </a>
   - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
   <sup>
-   &#9733 1434, pushed 29 days ago
+   &#9733 1434, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -938,7 +950,7 @@ Neo4j graph database.
   </a>
   - Utilities to compact, copy, fix, analyse Neo4j stores.
   <sup>
-   &#9733 32, pushed 32 days ago
+   &#9733 32, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -947,7 +959,7 @@ Neo4j graph database.
   </a>
   - A simple but useful Neo4j instance manager.
   <sup>
-   &#9733 12, pushed 20 days ago
+   &#9733 12, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -982,7 +994,7 @@ Neo4j graph database.
   </a>
   - A koan-style tutorial in Java for Neo4j.
   <sup>
-   &#9733 271, pushed 404 days ago
+   &#9733 271, pushed 529 days ago
   </sup>
  </li>
 </ul>
@@ -1002,47 +1014,13 @@ Neo4j graph database.
 </h2>
 <ul>
  <li>
-  <a href="http://neo4j.com/docs/3.0.0-SNAPSHOT/bolt.html">
-   Neo4j Bolt Protocol, Version 1
-  </a>
-  - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
- </li>
- <li>
   <a href="https://github.com/nigelsmall/bolt-howto">
    bolt-howto
   </a>
   - How to Build a Neo4j Bolt Protocol Driver.
   <sup>
-   &#9733 22, pushed 242 days ago
+   &#9733 22, pushed 367 days ago
   </sup>
- </li>
-</ul>
-<h2>
- Books
-</h2>
-<ul>
- <li>
-  <a href="http://graphdatabases.com/">
-   Graph Databases
-  </a>
-  - The Definitive Book on Graph Databases and Introduction to Neo4j.
- </li>
- <li>
-  <a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-neo4j-graph-databases">
-   Learning Neo4j
-  </a>
-  - Run blazingly fast queries on complex graph datasets with the power of the Neo4j graph database.
- </li>
- <li>
-  <a href="https://www.packtpub.com/big-data-and-business-intelligence/neo4j-high-performance/">
-   Neo4j High Performance
-  </a>
- </li>
- <li>
-  <a href="http://www.amazon.com/Programmatic-Introduction-Neo4j-Jim-Webber/dp/0321902904">
-   A Programmatic Introduction to Neo4j
-  </a>
-  - [NOT YET BEEN RELEASED]
  </li>
 </ul>
 <h2>

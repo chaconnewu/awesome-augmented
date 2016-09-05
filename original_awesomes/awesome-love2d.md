@@ -14,6 +14,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Input](#input)
 * [Lighting](#lighting)
 * [Math](#math)
+* [Music](#music)
 * [Networking](#networking)
 * [Object Orientation](#object)
 * [Physics](#physics)
@@ -21,10 +22,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Serialization](#serialization)
 * [Shaders](#shaders)
 * [Testing](#testing)
-* [Tutorials](#tutorials)
 * [Tweening](#tweening)
 * [UI](#ui)
 * [Utilities](#utilities)
+* [Tutorials](#tutorials)
+* [IDEs](#ides)
 
 ## 3D
 *3D-centric Libraries*
@@ -47,6 +49,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library
 * [Walt](https://github.com/davisdude/Walt) - Animation library
+* [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
 ## Camera
 *Viewport & Camera Libraries*
@@ -61,22 +64,18 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
-* [love-ide](https://github.com/rameshvarun/love-ide) - Tools for programming LÖVE games in Atom
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
-* [LÖVE Atom](https://github.com/rm-code/love-atom) - Snippets and autocompletion for [Atom](https://atom.io/)
-* [LÖVE Hints](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Snippets, code hints and autocompletion for [Brackets](http://brackets.io/)
-* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
+* [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
@@ -114,6 +113,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 
+## Music
+*Music related libraries*
+
+* [wave](https://github.com/Ulydev/wave) - a sound manager with audio parsing and rhythm functionalities
+* [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
+
 ## Networking
 *Networking & Online-Play Libraries*
 
@@ -134,7 +139,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HC/) - Collision detection with arbitrary polygons; allows rotation of objects
-* [Lope2D](https://bitbucket.org/erlimoen/lope2d-v2/wiki/Home) - Wrap for love.physics; makes dealing with the physics API easier and faster
 
 ##Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -174,11 +178,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 
-## Tutorials
-
-* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
-* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
-
 ## Tweening
 *Smoothing & Timer Libraries*
 
@@ -191,11 +190,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *User Interface Libraries*
 
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
-* [LoveFrames](https://github.com/KennyShields/LoveFrames) - GUI library
+* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
-* [Thranduil](https://github.com/adonaac/thranduil) - A highly customable and easy to use UI
 * [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
+* [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for the Löve2D
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
@@ -211,6 +210,25 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
+## Tutorials
+*Blogs and tutorials*
+
+* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
+* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
+
+## IDEs
+*Integrated Development Enviroments and text editor plugins*
+
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century
+	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package.
+	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom.
+		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
+	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support 
+* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
+
 # Contributing
 
 Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
@@ -219,5 +237,6 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more.
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

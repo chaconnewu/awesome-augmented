@@ -56,7 +56,7 @@
    ixa-pipe-pos
   </a>
   <sup>
-   &#9733 5, pushed 11 days ago
+   &#9733 5, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -64,7 +64,7 @@
    Ruby Snowball Implementation
   </a>
   <sup>
-   &#9733 3, pushed 1224 days ago
+   &#9733 3, pushed 1349 days ago
   </sup>
  </li>
  <li>
@@ -185,7 +185,7 @@
    Colombian Political Speeches
   </a>
   <sup>
-   &#9733 1, pushed 1012 days ago
+   &#9733 1, pushed 1136 days ago
   </sup>
  </li>
  <li>
@@ -193,7 +193,7 @@
    South American Slang Expressions/MTWE
   </a>
   <sup>
-   &#9733 1, pushed 1012 days ago
+   &#9733 1, pushed 1136 days ago
   </sup>
  </li>
  <li>
@@ -281,6 +281,11 @@
    Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS
   </a>
  </li>
+ <li>
+  <a href="http://crscardellino.me/SBWCE/">
+   Spanish Billion Words Corpus with word2vec Embeddings
+  </a>
+ </li>
 </ul>
 <h2>
  Misc
@@ -291,7 +296,7 @@
    Word2Vec vectors for Wikipedia Spanish Articles
   </a>
   <sup>
-   &#9733 184, pushed 57 days ago
+   &#9733 184, pushed 182 days ago
   </sup>
  </li>
  <li>

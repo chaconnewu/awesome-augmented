@@ -11,6 +11,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 :book:   [Docs](#documentation)
 
+:calendar:   [Events](#events)
+
+:couple:   [People](#people)
+
 :movie_camera:   [Talks](#talks)
 
 ## Tools
@@ -23,6 +27,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
+- [Extensions](#extensions)
 - [Image Optimizers](#image-optimizers)
 - [Lazyloaders](#lazyloaders)
 - [Loaders](#loaders)
@@ -33,39 +38,44 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Sprite Generators](#sprite-generators)
 - [SVG](#svg)
 - [Web Components](#web-components)
-- [Webserver Benchmarks](#webserver-benchmarks)
-- [Webserver Modules](#webserver-modules)
+- [Web server Benchmarks](#web-server-benchmarks)
+- [Web server Modules](#web-server-modules)
 - [Specs](#specs)
 - [Stats](#stats)
-- [Web Performance Meetup Groups](#web-performance-meetup-groups)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 
-
 ## Articles
 
-> For a better categorization of the articles, they were categorized into [ARTICLES.md](ARTICLES.md).
+> Go to [ARTICLES.md](ARTICLES.md).
 
 
 ## Blogs
 
-> For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
+> Go to [BLOGS](BLOGS.md).
+
 
 ## Books
 > Best books about WPO
 
+* [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
 * [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
+* [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - Steve Souders
 * [Getting Started with Web Performance](http://shop.oreilly.com/product/0636920032427.do) - Daniel Austin - early release
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
+* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) – Tom Barker
+* [Lean Websites](https://www.sitepoint.com/premium/books/lean-websites) – Barbara Bermes
+* [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) – Tammy Everts
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran - early release
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - Terrence Dorsey
 * [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - Stoyan Stefanov
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 * [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
+
 
 ## Case studies
 
@@ -79,6 +89,61 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 * [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
 
+
+## People
+
+> Go to [PEOPLE.md](PEOPLE.md).
+
+
+## Events
+
+> Because community matters!
+
+### Conferences
+
+* [Google I/O](https://events.google.com/io2016/) – Google I/O brings together developers for an immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.
+* [From the Front](https://fromthefront.it/) – The frontend guide to life, universe and everything is going to be an inspiring, formative, cutting edge gathering of some of the best frontend developers and UX people in the world.
+* [SmashingConf](http://smashingconf.com/) – Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away.
+* [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available websites and apps.
+
+### Meetups
+
+> Full list on meetup.com: [Web Performance Meetup Groups](http://web-performance.meetup.com/)
+
+* [Atlanta Web Performance Group](http://www.meetup.com/Atlanta-Web-Performance-Group/) – Atlanta (GA), US :us:
+* [Austin Web Performance Group](http://www.meetup.com/Austin-Web-Performance-Group/) – Austin (TX), US :us:
+* [Barcelona Web Performance Group](http://www.meetup.com/Barcelona-Web-Performance/) – Barcelona, Spain :es:
+* [Belgium Web Performance Group](http://www.meetup.com/Belgian-Web-Performance-Group/) – Brussels, Belgium
+* [Berlin Web Performance Group](http://www.meetup.com/Berlin-Web-Performance-Group/) – Berlin, Germany :de:
+* [Boston Web Performance Group](http://www.meetup.com/Web-Performance-Boston/) – Boston (MA), US :us:
+* [Bristol Web Performance Group](http://www.meetup.com/bristolwebperf/) – Bristol, UK :gb:
+* [Chicago Web Performance Meetup](http://www.meetup.com/Chicago-Web-Performance-Meetup/) – Chicago (IL), US :us:
+* [Cologne Web Performance Group](http://www.meetup.com/cologne-germany-high-performance-website-optimization-group/) – Cologne, Germany :de:
+* [Dutch Web Performance & Operations Meetup](http://www.meetup.com/Dutch-Web-Operations-Meetup/) – Nederland :nl:
+* [Hamburg Web Performance Group](http://www.meetup.com/Hamburg-Web-Performance-Group/) – Hamburg, Germany :de:
+* [Indianapolis Web Performance Group](http://www.meetup.com/IndyWebPerf/) – Carmel (IN), US :us:
+* [Israel Web Performance Group](http://www.meetup.com/wpo-il/) – Herzliya, Israel
+* [Karlsruhe Web Performance Group](http://www.meetup.com/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany :de:
+* [London Web Performance Group](http://www.meetup.com/London-Web-Performance-Group/) – London, UK :gb:
+* [Luxemburg Web Performance Meetup](http://www.meetup.com/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium
+* [Manchester Web Performance Group](http://www.meetup.com/Manchester-Web-Performance-Group/) – Manchester, UK :gb:
+* [Minneapolis Web Performance Group](http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/) – Minneapolis (MN), US :us:
+* [Melbourne Web Performance & Security Meetup](http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/) – Melbourne, Australia
+* [Munich Web Performance Group](http://www.meetup.com/Munchen-Web-Performance-Group/) – Munich, Germany :de:
+* [New York Web Performance Group](http://www.meetup.com/Web-Performance-NY/) – New York (NY), US :us:
+* [San Diego Web Performance Group](http://www.meetup.com/Web-Performance-SanDiego/) – San Diego (CA), US :us:
+* [San Francisco & Silicon Valley Web Performance Group](http://www.meetup.com/SF-Web-Performance-Group/) – San Francisco, US :us:
+* [Santa Cruz Web Performance Meetup](http://www.meetup.com/Santa-Cruz-Web-Performance-Meetup/) – Santa Cruz (CA), US :us:
+* [São Paulo Web Performance Group](http://www.meetup.com/Web-Performance-SP/) – São Paulo, Brazil
+* [Seattle Web Performance Group](http://www.meetup.com/Seattle-Web-Performance-Group/) – Seattle (WA), US :us:
+* [South Florida Web Performance Group](http://www.meetup.com/South-Florida-Web-Performance-Group/) – Fort Lauderdale (FL), US :us:
+* [Stockholm Web Performance Group](http://www.meetup.com/Stockholm-Web-Performance-Group/) – Stockholm, Sweden
+* [Sydney Web Performance & Security Meetup](http://www.meetup.com/Sydney-Web-Performance-Security-Meetup/) – Sydney, Australia
+* [Toronto Web Performance Group](http://www.meetup.com/Toronto-Web-Performance-Group/) – Toronto, Canada
+* [Turin Web Performance Group](http://www.meetup.com/Turin-Web-Performance-Group/) – Turin, Italy :it:
+* [Vancouver Web Performance Group](http://www.meetup.com/Vancouver-Web-Performance/) – Vancouver, Canada
+* [Vienna Web Performance Group](http://www.meetup.com/Vienna-Web-Performance-Group/) – Vienna, Austria
+* [Warsaw Web Performance Group](http://www.meetup.com/Warsaw-Web-Performance-Group/?chapter_analytics_code=UA-61243294-4) – Warsaw, Poland
 
 ## Talks
 
@@ -116,6 +181,7 @@ It covers resources and code analysis as well as content and social audit.
 
 * [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
+
 ## Benchmark - Javascript
 > A set of tools for creating test cases and compare different implementations in JavaScript.
 
@@ -128,10 +194,12 @@ It covers resources and code analysis as well as content and social audit.
 * [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 * [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
+
 ## Benchmark - PHP
 
 * [PHPench](https://github.com/mre/PHPench) - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
 * [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
+
 
 ## Bookmarklets
 
@@ -146,7 +214,7 @@ It covers resources and code analysis as well as content and social audit.
 ## CDN
 > A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
-* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites.
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 * [CDNjs](https://cdnjs.com/) - An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn) - Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.
@@ -156,8 +224,8 @@ It covers resources and code analysis as well as content and social audit.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 * :cn: [Baidu public CDN](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs) - Baidu public CDN serves stable, reliable, high-speed services, including all of the world's most popular open source JavaScript libraries.
-* :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provide by upyun.
-* :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provide by sinaapp.com.
+* :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
+* :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 * :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
@@ -175,7 +243,13 @@ It covers resources and code analysis as well as content and social audit.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 
+## Extensions
+
+* [Browser Calories](https://github.com/zenorocha/browser-calories-chrome) - The easiest way to measure your performance budget.
+
+
 ## Image Optimizers
+
 >  How to remove all this unnecessary data and give you a file without degrading quality.
 
 * [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
@@ -202,6 +276,7 @@ It covers resources and code analysis as well as content and social audit.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
+* [ImageEngine](https://web.wurfl.io/#image-engine) - Cloud service for optimizing, resizing and cacheing images on the fly with great mobile support.
 
 
 ## Lazyloaders
@@ -228,7 +303,7 @@ It covers resources and code analysis as well as content and social audit.
 * [GTmetrix](https://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks.
 * [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
-* [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight along the time, written in Python.
+* [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight at the time, written in Python.
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
@@ -303,7 +378,7 @@ It covers resources and code analysis as well as content and social audit.
 * [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
 * [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a stylesheet and then updates the references with the new sprite image and positions.
 * [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours.
-* [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
+* [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding stylesheets for Gulp.
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 * [SvgToCSS](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in css / sass sprites.
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
@@ -331,7 +406,7 @@ It covers resources and code analysis as well as content and social audit.
 * [Gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
 
 
-## Webserver Benchmarks
+## Web server Benchmarks
 
 * [HTTPerf](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 * [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
@@ -347,9 +422,9 @@ It covers resources and code analysis as well as content and social audit.
 * [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 
 
-## Webserver Modules
+## Web server Modules
 
-* [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
+* [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 * [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 
 
@@ -368,10 +443,6 @@ It covers resources and code analysis as well as content and social audit.
 # Stats
 
 * [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
-
-# Web Performance Meetup Groups
-
-* [Web Performance Meetup Groups](http://web-performance.meetup.com/) - Full list on www.meetup.com.
 
 
 # Other Awesome Lists

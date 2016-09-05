@@ -1,6 +1,4 @@
-## Awesome Streaming
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
 A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome). 
 
@@ -20,21 +18,24 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 ### Streaming Engine
 
 * [Apache Apex](https://github.com/apache/incubator-apex-core) [Java] - unified platform for big data stream and batch processing.
-* [flink-streaming](http://ci.apache.org/projects/flink/flink-docs-release-0.9/apis/streaming_guide.html) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-* [gearpump](https://github.com/intel-hadoop/gearpump) [Scala] - lightweight real-time distributed streaming engine built on Akka.
-* [heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter.
-* [Kafka Streams] [Java] (https://cwiki.apache.org/confluence/display/KAFKA/KIP-28+-+Add+a+processor+client) - lightweight stream processing library included in Apache Kafka (since 0.10 version).
+* [Apache Flink Streaming](http://ci.apache.org/projects/flink/flink-docs-release-0.9/apis/streaming_guide.html) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
+* [Apache Gearpump](https://github.com/intel-hadoop/gearpump) [Scala] - lightweight real-time distributed streaming engine built on Akka.
+* [Apache Ignite Streaming](https://ignite.apache.org/features/streaming.html) [Java] - Ignite streaming allows to process continuous never-ending streams of data in scalable and fault-tolerant fashion. 
+* [Apache Kafka Streams](https://cwiki.apache.org/confluence/display/KAFKA/KIP-28+-+Add+a+processor+client) [Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
+* [Apache Samza](http://samza.apache.org/) [Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
+* [Apache Spark Streaming](https://spark.apache.org/streaming/) [Scala] - makes it easy to build scalable fault-tolerant streaming applications.
+* [Apache Storm](https://storm.apache.org/) [Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing. 
+* [heron](http://heronstreaming.io/) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter.
 * [mantis](http://www.slideshare.net/g9yuayon/qcon-talk-on-netflix-mantis-a-stream-processing-system) - Netflix's event stream processing system.
 * [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
 * [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 * [pulsar](http://gopulsar.io/) [Java] - an open-source, real-time analytics platform and stream processing framework.
 * [s4](http://incubator.apache.org/s4/) [Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
-* [Apache Samza](http://samza.apache.org/) [Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
-* [spark-streaming](https://spark.apache.org/streaming/) [Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 * [SPQR](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
-* [Apache Storm](https://storm.apache.org/) [Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing. 
 * [tigon](https://github.com/caskdata/tigon) [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
 * [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
+* [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
+* [concord](http://concord.io/) [C++] - a distributed stream processing framework built in C++ on top of Apache Mesos, designed for high performance data processing jobs that require flexibility & control.
 
 ### IoT
 
@@ -68,6 +69,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Apache Samoa](https://github.com/yahoo/samoa) [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
 * [trident-ml](https://github.com/pmerienne/trident-ml) [Java] - realtime online machine learning library based on Trident.
 * [StormCV](https://github.com/sensorstorm/StormCV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
+* [DataSketches](https://github.com/DataSketches/sketches-core) [Java] - sketches library from Yahoo!.
 
 ### Stream SQL
 
@@ -96,39 +98,9 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Readings
 
-#### Blogs
-
-* [Confluent blog](http://blog.confluent.io/)
-* [Ingest Tips](http://ingest.tips/)
-
-#### Articles
-
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) by Tyler Akidau. 
-
-#### Streaming Algorithms and their applications 
-
-from [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
-
-Problem | Description | Application
-------- | ----------- | -----------
-Sampling | Obtain a representative set of the stream | A/B Testing
-Filtering | Extract elements which meet a certain criterion | Set membership
-Correlation | Find data subsets (subgraphs) in (graph) data stream which are highly correlated to a given data set | Fraud detection  
-Estimating Cardinality | Estimate the number of distinct elements | Site audience analysis
-Estimating Quantiles | Estimate quantiles of a data stream with small amount of memory | Network analysis
-Estimating Moments | Estimating distribution of frequencies of different elements | Databases
-Finding Frequent Elements | Identify items in a multiset with frequency more than a threshold θ | Trending Hashtags
-Counting Inversions | Estimate number of inversions | Measure sortedness
-Finding Subsequences | Find Longest Increasing Subsequences (LIS), Longest Common Subsequence (LCS), subsequences similar to a given query sequence | Traffic analysis
-Path Analysis | Determine whether there exists a path of length ≤ ` between two nodes in a dynamic graph | Web graph analysis
-Anomaly Detection | Detect anomalies in a data stream | Sensor networks
-Temporal Pattern Analysis | Detect patterns in a data stream | Traffic analysis
-Data Prediction | Predict missing values in a data stream | Sensor data analysis
-Clustering | Cluster a data stream | Medical imaging
-Graph analysis | Extract unweighted and weighted matching, vertex cover, independent sets, spanners, subgraphs (sparsification) and random walks, computing min-cut | Web graph analysis
-Basic Counting Estimate | `m'` of the number `m` of 1-bits in the sliding window (of size `n`) such that `|m'  − m| ≤ em` | Popularity Analysis
-Significant One Counting | Estimate `m'` of the number `m` of 1-bits in the sliding window (of size `n`) such that if `m ≥ θn`, then `|m' − m| ≤ em` | Traffic accounting
+3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 
 
 ## License 

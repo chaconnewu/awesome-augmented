@@ -1,15 +1,12 @@
 <h1>
  Awesome CSS
  <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
- </a>
- <a href="https://travis-ci.org/sotayamashita/awesome-css">
-  <img alt="Build Status" src="https://api.travis-ci.org/sotayamashita/awesome-css.svg"/>
+  <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
 </h1>
 <blockquote>
  <p>
-  A curated list of CSS lists
+  A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
  </p>
 </blockquote>
 <ul>
@@ -64,6 +61,16 @@
     </a>
    </li>
    <li>
+    <a href="#css-polyfills">
+     CSS Polyfills
+    </a>
+   </li>
+   <li>
+    <a href="#miscellaneous">
+     Miscellaneous
+    </a>
+   </li>
+   <li>
     <a href="#resources">
      Resources
     </a>
@@ -113,37 +120,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/yosssi/gcss">
-   GCSS
-  </a>
-  - Pure Go CSS Preprocessor.
-  <sup>
-   &#9733 340, pushed 569 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://lesscss.org/">
+  <a href="https://github.com/less/less.js">
    LESS
   </a>
   - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
- </li>
- <li>
-  <a href="https://github.com/segmentio/myth">
-   Myth
-  </a>
-  - Pure CSS without having to worry about slow browser support.
-  <sup>
-   &#9733 4096, pushed 58 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/senko/pcss">
-   PCSS
-  </a>
-  - Pure Python CSS Preprocessor.
-  <sup>
-   &#9733 2, pushed 1049 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/postcss/postcss">
@@ -151,11 +131,11 @@
   </a>
   - Transforming CSS with JS plugins.
   <sup>
-   &#9733 10074, pushed 2 days ago
+   &#9733 10074, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="http://sass-lang.com/">
+  <a href="https://github.com/sass/sass">
    Sass
   </a>
   - Mature, stable, and powerful professional grade CSS extension language.
@@ -166,22 +146,13 @@
   </a>
   - Expressive, robust, feature-rich CSS language built for nodejs.
  </li>
- <li>
-  <a href="https://github.com/morishitter/YACP">
-   YACP
-  </a>
-  - Yet Another CSS Preprocessor.
-  <sup>
-   &#9733 48, pushed 463 days ago
-  </sup>
- </li>
 </ul>
 <p>
- Here is also
- <a href="https://github.com/showcases/css-preprocessors">
-  CSS preprocessors curated list
- </a>
- by Github.
+ <em>
+  <a href="https://github.com/sotayamashita/awesome-css/wiki#preprocessors">
+   Find more CSS preprocessors on wiki
+  </a>
+ </em>
 </p>
 <h2>
  Frameworks
@@ -218,7 +189,7 @@
   - advanced responsive front-end framework.
  </li>
  <li>
-  <a href="http://www.getmdl.io/started/">
+  <a href="https://getmdl.io/started/">
    Material Design Lite
   </a>
   - Great framework to make cool Material Design websites.
@@ -305,7 +276,7 @@
   </a>
   - Reasonable Standard for CSS Stylesheet Structure.
   <sup>
-   &#9733 2960, pushed 90 days ago
+   &#9733 2960, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +296,7 @@
   </a>
   - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
   <sup>
-   &#9733 20960, pushed 16 days ago
+   &#9733 20960, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -334,7 +305,7 @@
   </a>
   - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
   <sup>
-   &#9733 701, pushed 32 days ago
+   &#9733 701, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +315,7 @@
   - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
  </li>
  <li>
-  <a href="https://10up.github.io/sanitize.css/">
+  <a href="https://github.com/jonathantneal/sanitize.css/">
    sanitize.css
   </a>
   - A set of CSS rules that style with today’s best practices out-of-the-box
@@ -355,7 +326,7 @@
   </a>
   - Specialised stylesheet for removing user agent styles, style the web with your baseline
   <sup>
-   &#9733 4, pushed 60 days ago
+   &#9733 4, pushed 185 days ago
   </sup>
  </li>
 </ul>
@@ -464,7 +435,7 @@
   </a>
   .
   <sup>
-   &#9733 4578, pushed 275 days ago
+   &#9733 4578, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -477,7 +448,7 @@
   </a>
   .
   <sup>
-   &#9733 337, pushed 7 days ago
+   &#9733 337, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -517,7 +488,7 @@
   by ThinkUp.
  </li>
  <li>
-  <a href="http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml">
+  <a href="https://google.github.io/styleguide/htmlcssguide.xml">
    Google HTML/CSS Style Guide
   </a>
   by Google.
@@ -559,7 +530,7 @@
   </a>
   by Dropbox
   <sup>
-   &#9733 418, pushed 82 days ago
+   &#9733 418, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -686,7 +657,7 @@
    idiomatic-css
   </a>
   <sup>
-   &#9733 4578, pushed 275 days ago
+   &#9733 4578, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -719,7 +690,7 @@
    babel-plugin-css-in-js
   </a>
   <sup>
-   &#9733 124, pushed 6 days ago
+   &#9733 124, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -727,7 +698,7 @@
    react-styled
   </a>
   <sup>
-   &#9733 26, pushed 337 days ago
+   &#9733 26, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +706,7 @@
    classy
   </a>
   <sup>
-   &#9733 18, pushed 189 days ago
+   &#9733 18, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -743,7 +714,7 @@
    csjs
   </a>
   <sup>
-   &#9733 227, pushed 16 days ago
+   &#9733 227, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -751,7 +722,7 @@
    css-loader
   </a>
   <sup>
-   &#9733 784, pushed 14 days ago
+   &#9733 784, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -762,6 +733,56 @@
  </a>
 </p>
 <h1>
+ CSS Polyfills
+</h1>
+<ul>
+ <li>
+  <a href="https://github.com/philipwalton/polyfill/">
+   polyfill.js
+  </a>
+  - A library to make creating CSS polyfills much easier.
+ </li>
+ <li>
+  <a href="https://github.com/LeaVerou/prefixfree">
+   prefixfree
+  </a>
+  - Break free from CSS prefix hell!
+ </li>
+ <li>
+  <a href="https://github.com/filamentgroup/fixed-sticky">
+   fixed-sticky
+  </a>
+  - A CSS position:sticky polyfill.
+ </li>
+ <li>
+  <a href="https://github.com/keithclark/selectivizr">
+   selectivizr
+  </a>
+  - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+ </li>
+ <li>
+  <a href="https://github.com/lojjic/PIE">
+   PIE
+  </a>
+  - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+ </li>
+</ul>
+<h1>
+ Miscellaneous
+</h1>
+<ul>
+ <li>
+  <a href="https://github.com/ManrajGrover/SingleDivProject">
+   Single Div Project
+  </a>
+  - One
+  <code>
+   <div>
+  </code>
+  . Many possibilities.
+ </li>
+</ul>
+<h1>
  References
 </h1>
 <ul>
@@ -770,7 +791,7 @@
    scalable-css-reading-list
   </a>
   <sup>
-   &#9733 1023, pushed 12 days ago
+   &#9733 1023, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -1599,14 +1620,7 @@
  Contributing
 </h1>
 <p>
- Contributions are very welcome!
-</p>
-<p>
- Please have a look at
- <a href="CONTRIBUTING.md">
-  CONTRIBUTING
- </a>
- for guidelines.
+ Fork, add your amazing nugget and send a PR.
 </p>
 <h1>
  License

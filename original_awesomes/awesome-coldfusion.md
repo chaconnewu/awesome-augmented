@@ -111,8 +111,8 @@ Pull requests very welcome.
 
 ## Resources
 * [CFRepo](http://www.gpickin.com/cfrepo/) - A repository of ColdFusion installers created by Gavin Pickin
-* [lucee-heroku](https://github.com/writecodedrinkcoffee/lucee-heroku) - Application template for deploying Lucee 4.5.x apps to Heroku by Mike Sprague
-* [Vagrant LEMTL](https://github.com/writecodedrinkcoffee/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
+* [lucee5-heroku](https://github.com/mikesprague/lucee5-heroku) - Application template for deploying Lucee 5 apps to Heroku by Mike Sprague
+* [Vagrant LEMTL](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
 
 ## Documentation
 

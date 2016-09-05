@@ -29,7 +29,7 @@
    cravendb
   </a>
   <sup>
-   &#9733 45, pushed 860 days ago
+   &#9733 45, pushed 985 days ago
   </sup>
  </li>
 </ul>
@@ -43,7 +43,7 @@
   </a>
   - Aerospike Database Server – flash-optimized, in-memory, nosql database
   <sup>
-   &#9733 1176, pushed 8 days ago
+   &#9733 1176, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -52,7 +52,7 @@
   </a>
   - AlchemyDB is now Aerospike
   <sup>
-   &#9733 170, pushed 1345 days ago
+   &#9733 170, pushed 1469 days ago
   </sup>
  </li>
  <li>
@@ -64,7 +64,7 @@
    website
   </a>
   <sup>
-   &#9733 632, pushed 4 days ago
+   &#9733 632, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -79,7 +79,7 @@
   </a>
   - Free & open source, high-performance, distributed memory object caching system
   <sup>
-   &#9733 4672, pushed 2 days ago
+   &#9733 4672, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -91,7 +91,7 @@
    website
   </a>
   <sup>
-   &#9733 3, pushed 971 days ago
+   &#9733 3, pushed 1096 days ago
   </sup>
  </li>
  <li>
@@ -100,7 +100,7 @@
   </a>
   - The Mongo Database http://www.mongodb.org/
   <sup>
-   &#9733 9221, pushed 1 days ago
+   &#9733 9221, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -109,7 +109,7 @@
   </a>
   - Facebook's branch of the Oracle MySQL v5.6 database
   <sup>
-   &#9733 414, pushed 1 days ago
+   &#9733 414, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -118,7 +118,7 @@
   </a>
   - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
   <sup>
-   &#9733 1464, pushed 323 days ago
+   &#9733 1464, pushed 448 days ago
   </sup>
  </li>
  <li>
@@ -126,7 +126,7 @@
    postgres
   </a>
   <sup>
-   &#9733 2037, pushed 1 days ago
+   &#9733 2037, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -138,7 +138,7 @@
    website
   </a>
   <sup>
-   &#9733 17733, pushed 3 days ago
+   &#9733 17733, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -153,7 +153,7 @@
   </a>
   - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
   <sup>
-   &#9733 13352, pushed 3 days ago
+   &#9733 13352, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -162,7 +162,7 @@
   </a>
   - Embedded key-value store for fast storage http://rocksdb.org
   <sup>
-   &#9733 5269, pushed 1 days ago
+   &#9733 5269, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -171,7 +171,7 @@
   </a>
   - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
   <sup>
-   &#9733 3417, pushed 4 days ago
+   &#9733 3417, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -192,7 +192,7 @@
   </a>
   - TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
   <sup>
-   &#9733 623, pushed 74 days ago
+   &#9733 623, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -212,7 +212,7 @@
   </a>
   - A linq enabled document database for .NET http://ayende.com/Blog/
   <sup>
-   &#9733 1498, pushed 15 days ago
+   &#9733 1498, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +232,7 @@
   </a>
   - Riak is a decentralized datastore from Basho Technologies.
   <sup>
-   &#9733 2467, pushed 4 days ago
+   &#9733 2467, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -252,7 +252,7 @@
   </a>
   - A low-level key/value database for Go.
   <sup>
-   &#9733 4094, pushed 9 days ago
+   &#9733 4094, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -261,7 +261,7 @@
   </a>
   - A home-grown disk-backed key-value store.
   <sup>
-   &#9733 346, pushed 29 days ago
+   &#9733 346, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +280,7 @@
   </a>
   key/value database in the Go.
   <sup>
-   &#9733 1026, pushed 9 days ago
+   &#9733 1026, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -289,7 +289,7 @@
   </a>
   - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
   <sup>
-   &#9733 4433, pushed 82 days ago
+   &#9733 4433, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +304,7 @@
   </a>
   - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
   <sup>
-   &#9733 1588, pushed 2 days ago
+   &#9733 1588, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +325,7 @@
   </a>
   - Your NoSQL database powered by Golang.
   <sup>
-   &#9733 1515, pushed 104 days ago
+   &#9733 1515, pushed 229 days ago
   </sup>
  </li>
 </ul>
@@ -339,7 +339,7 @@
   </a>
   - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
   <sup>
-   &#9733 2724, pushed 2 days ago
+   &#9733 2724, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -357,7 +357,7 @@
   </a>
   - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
   <sup>
-   &#9733 116, pushed 43 days ago
+   &#9733 116, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -366,7 +366,7 @@
   </a>
   - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
   <sup>
-   &#9733 1930, pushed 2 days ago
+   &#9733 1930, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -379,7 +379,7 @@
   </a>
   is the world’s leading Graph Database.
   <sup>
-   &#9733 2569, pushed 2 days ago
+   &#9733 2569, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +388,7 @@
   </a>
   - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
   <sup>
-   &#9733 2386, pushed 3 days ago
+   &#9733 2386, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -400,7 +400,7 @@
    website
   </a>
   <sup>
-   &#9733 1685, pushed 6 days ago
+   &#9733 1685, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -409,7 +409,7 @@
   </a>
   - Distributed Graph Database http://titandb.io
   <sup>
-   &#9733 3679, pushed 6 days ago
+   &#9733 3679, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -426,7 +426,7 @@
    website
   </a>
   <sup>
-   &#9733 2527, pushed 4 days ago
+   &#9733 2527, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -438,7 +438,7 @@
    website
   </a>
   <sup>
-   &#9733 9221, pushed 1 days ago
+   &#9733 9221, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -452,7 +452,7 @@
   </a>
   - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]    (http://blinkdb.cs.berkeley.edu/)
   <sup>
-   &#9733 476, pushed 817 days ago
+   &#9733 476, pushed 942 days ago
   </sup>
  </li>
 </ul>
@@ -466,7 +466,7 @@
   </a>
   - A list of papers essential to understanding databases and building new data systems
   <sup>
-   &#9733 4071, pushed 38 days ago
+   &#9733 4071, pushed 163 days ago
   </sup>
  </li>
 </ul>

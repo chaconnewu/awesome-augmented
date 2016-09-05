@@ -55,6 +55,18 @@
   </a>
  </li>
  <li>
+  <a href="#use-on-binding-instead-of-click">
+   Use
+   <code>
+    .on()
+   </code>
+   Binding Instead of
+   <code>
+    .click()
+   </code>
+  </a>
+ </li>
+ <li>
   <a href="#back-to-top-button">
    Back to Top Button
   </a>
@@ -70,14 +82,18 @@
   </a>
  </li>
  <li>
-  <a href="#fix-broken-images-automatically">
-   Fix Broken Images Automatically
-  </a>
+  <p>
+   <a href="#fix-broken-images-automatically">
+    Fix Broken Images Automatically
+   </a>
+  </p>
  </li>
  <li>
-  <a href="#toggle-classes-on-hover">
-   Toggle Classes on Hover
-  </a>
+  <p>
+   <a href="#toggle-classes-on-hover">
+    Toggle Classes on Hover
+   </a>
+  </p>
  </li>
  <li>
   <a href="#disabling-input-fields">
@@ -167,6 +183,59 @@ if (typeof jQuery == 'undefined') {
  </sup>
 </p>
 <h3>
+ Use
+ <code>
+  .on()
+ </code>
+ Binding Instead of
+ <code>
+  .click()
+ </code>
+</h3>
+<p>
+ Using
+ <code>
+  .on()
+ </code>
+ gives you several advantages over using
+ <code>
+  .click()
+ </code>
+ , such as the ability to add multiple events...
+</p>
+<p>
+ <code>
+  javascript
+.on('click tap hover')
+ </code>
+</p>
+<p>
+ ...a binding applies to dynamically created elements, as well (there's no need to manually bind every single element dynamically added to a DOM element)...
+</p>
+<p>
+ ...and the possibility to set a namespace:
+</p>
+<p>
+ <code>
+  javascript
+.on('click.menuOpening')
+ </code>
+</p>
+<p>
+ Namespaces give you the power to unbind a specific event (e.g.,
+ <code>
+  .off('click.menuOpening')
+ </code>
+ ).
+</p>
+<p>
+ <sup>
+  <a href="#table-of-contents">
+   back to table of contents
+  </a>
+ </sup>
+</p>
+<h3>
  Back to Top Button
 </h3>
 <p>
@@ -184,18 +253,23 @@ if (typeof jQuery == 'undefined') {
  <code>
   javascript
 // Back to top
-$('.top').click(function (e) {
+$('.container').on('click', '.back-to-top', function (e) {
   e.preventDefault();
   $('html, body').animate({scrollTop: 0}, 800);
 });
  </code>
 </p>
 <p>
- <code>
-  html
-<!-- Create an anchor tag -->
-<a class="top" href="#">Back to top</a>
- </code>
+ ```html
+ <!-- Create an anchor tag -->
+</p>
+<div class="container">
+ <a class="back-to-top" href="#">
+  Back to top
+ </a>
+</div>
+<p>
+ ```
 </p>
 <p>
  Changing the
@@ -262,7 +336,7 @@ $.preloadImages = function () {
 <p>
  <code>
   javascript
-$('img').load(function () {
+$('img').on('load', function () {
   console.log('image load successful');
 });
  </code>
@@ -298,7 +372,15 @@ $('img').on('error', function () {
  </code>
 </p>
 <p>
- Even if you don't have any broken links, adding this won't do any harm.
+ Alternatively, if you wish to simply hide broken images this snippet will take care of that for:
+</p>
+<p>
+ <code>
+  javascript
+$('img').on('error', function () {
+  $(this).hide();
+});
+ </code>
 </p>
 <p>
  <sup>
@@ -316,7 +398,7 @@ $('img').on('error', function () {
 <p>
  <code>
   javascript
-$('.btn').hover(function () {
+$('.btn').on('hover', function () {
   $(this).addClass('hover');
 }, function () {
   $(this).removeClass('hover');
@@ -337,7 +419,7 @@ $('.btn').hover(function () {
 <p>
  <code>
   javascript
-$('.btn').hover(function () {
+$('.btn').on('hover', function () {
   $(this).toggleClass('hover');
 });
  </code>
@@ -408,7 +490,7 @@ $('input[type="submit"]').prop('disabled', false);
 <p>
  <code>
   javascript
-$('a.no-link').click(function (e) {
+$('a.no-link').on('click', function (e) {
   e.preventDefault();
 });
  </code>
@@ -445,12 +527,12 @@ var blocks = $('#blocks').find('li');
 </p>
 <p>
  ```javascript
-$('#hideBlocks').click(function () {
+$('#hideBlocks').on('click', function () {
   blocks.fadeOut();
 });
 </p>
 <p>
- $('#showBlocks').click(function () {
+ $('#showBlocks').on('click', function () {
   blocks.fadeIn();
 });
 ```
@@ -482,13 +564,13 @@ $('#hideBlocks').click(function () {
 <p>
  ```javascript
 // Fade
-$('.btn').click(function () {
+$('.btn').on('click', function () {
   $('.element').fadeToggle('slow');
 });
 </p>
 <p>
  // Toggle
-$('.btn').click(function () {
+$('.btn').on('click', function () {
   $('.element').slideToggle('slow');
 });
 ```
@@ -513,7 +595,7 @@ $('#accordion').find('.content').hide();
 </p>
 <p>
  // Accordion
-$('#accordion').find('.accordion-header').click(function () {
+$('#accordion').find('.accordion-header').on('click', function () {
   var next = $(this).next();
   next.slideToggle('fast');
   $('.content').not(next).slideUp('fast');
@@ -578,6 +660,16 @@ $rows.each(function () {
   $(this).find('.column').height($(this).height());
 });
  </code>
+</p>
+<p>
+ <strong>
+  Note:
+ </strong>
+ This can be done several ways
+ <a href="http://codepen.io/AllThingsSmitty/pen/KMPqoO">
+  in CSS
+ </a>
+ but depending on what your needs are, knowing how to do this in jQuery is still worthwhile.
 </p>
 <p>
  <sup>
@@ -678,7 +770,7 @@ $(document).on('visibilitychange', function (e) {
 <p>
  <code>
   javascript
-$(document).ajaxError(function (e, xhr, settings, error) {
+$(document).on('ajaxError', function (e, xhr, settings, error) {
   console.log(error);
 });
  </code>
@@ -798,12 +890,17 @@ lis = $('li', ul).get();
  </li>
  <li>
   <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU">
-   русский
+   Pусский
   </a>
  </li>
  <li>
   <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN">
    简体中文
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW">
+   繁體中文
   </a>
  </li>
 </ul>

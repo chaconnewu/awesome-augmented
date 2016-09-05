@@ -210,7 +210,7 @@
   </a>
   — provides enhancements to the operations on Sidebar of Files and Folders.
   <sup>
-   &#9733 1572, pushed 46 days ago
+   &#9733 1572, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -219,7 +219,7 @@
   </a>
   — highlight trailing spaces and delete them in a flash.
   <sup>
-   &#9733 693, pushed 113 days ago
+   &#9733 693, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -228,7 +228,7 @@
   </a>
   — a plugin to see git diff in gutter.
   <sup>
-   &#9733 3098, pushed 1 days ago
+   &#9733 3098, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -237,7 +237,7 @@
   </a>
   — .editorconfig support.
   <sup>
-   &#9733 1230, pushed 82 days ago
+   &#9733 1230, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -246,7 +246,7 @@
   </a>
   — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
   <sup>
-   &#9733 1042, pushed 3 days ago
+   &#9733 1042, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -255,7 +255,7 @@
   </a>
   — an inline REPL for JavaScript, PHP, Ruby and more.
   <sup>
-   &#9733 335, pushed 984 days ago
+   &#9733 335, pushed 1109 days ago
   </sup>
  </li>
  <li>
@@ -264,7 +264,7 @@
   </a>
   — a simple key-binding for aligning multi-line and multiple selections.
   <sup>
-   &#9733 412, pushed 6 days ago
+   &#9733 412, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -273,7 +273,7 @@
   </a>
   — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
   <sup>
-   &#9733 255, pushed 16 days ago
+   &#9733 255, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -282,7 +282,7 @@
   </a>
   — extends the default autocomplete to find matches in all open files.
   <sup>
-   &#9733 612, pushed 337 days ago
+   &#9733 612, pushed 461 days ago
   </sup>
  </li>
  <li>
@@ -291,7 +291,7 @@
   </a>
   — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
   <sup>
-   &#9733 1628, pushed 108 days ago
+   &#9733 1628, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -300,7 +300,7 @@
   </a>
   — identify conflicting key mappings.
   <sup>
-   &#9733 109, pushed 23 days ago
+   &#9733 109, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -309,7 +309,7 @@
   </a>
   — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
   <sup>
-   &#9733 223, pushed 733 days ago
+   &#9733 223, pushed 858 days ago
   </sup>
  </li>
  <li>
@@ -318,7 +318,7 @@
   </a>
   — keyboard-friendly file navigator and manager.
   <sup>
-   &#9733 43, pushed 968 days ago
+   &#9733 43, pushed 1093 days ago
   </sup>
  </li>
  <li>
@@ -327,7 +327,7 @@
   </a>
   — a plugin for highlighting text with pretty colours.
   <sup>
-   &#9733 10, pushed 327 days ago
+   &#9733 10, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -336,7 +336,7 @@
   </a>
   — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
   <sup>
-   &#9733 20, pushed 547 days ago
+   &#9733 20, pushed 672 days ago
   </sup>
  </li>
  <li>
@@ -345,7 +345,7 @@
   </a>
   — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
   <sup>
-   &#9733 796, pushed 139 days ago
+   &#9733 796, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -354,7 +354,7 @@
   </a>
   — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
   <sup>
-   &#9733 117, pushed 3 days ago
+   &#9733 117, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -374,7 +374,7 @@
    Ruby on Rails Tutorial
   </a>
   <sup>
-   &#9733 753, pushed 66 days ago
+   &#9733 753, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +388,7 @@
   </a>
   — converts single to double or double to single quotes.
   <sup>
-   &#9733 102, pushed 14 days ago
+   &#9733 102, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -401,7 +401,7 @@
    RSpec plugin
   </a>
   <sup>
-   &#9733 109, pushed 95 days ago
+   &#9733 109, pushed 219 days ago
   </sup>
  </li>
  <li>
@@ -410,7 +410,7 @@
   </a>
   — beautifies Ruby code.
   <sup>
-   &#9733 204, pushed 175 days ago
+   &#9733 204, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -419,7 +419,7 @@
   </a>
   — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
   <sup>
-   &#9733 399, pushed 64 days ago
+   &#9733 399, pushed 188 days ago
   </sup>
  </li>
 </ul>
@@ -456,7 +456,7 @@
   </a>
   — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
   <sup>
-   &#9733 655, pushed 8 days ago
+   &#9733 655, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -465,7 +465,7 @@
   </a>
   — a Python refactoring library.
   <sup>
-   &#9733 244, pushed 4 days ago
+   &#9733 244, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -478,7 +478,7 @@
   </a>
   (docstring style checker).
   <sup>
-   &#9733 9, pushed 164 days ago
+   &#9733 9, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -487,7 +487,7 @@
   </a>
   — Django support.
   <sup>
-   &#9733 706, pushed 117 days ago
+   &#9733 706, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -500,7 +500,7 @@
   </a>
   integration.
   <sup>
-   &#9733 39, pushed 1148 days ago
+   &#9733 39, pushed 1273 days ago
   </sup>
  </li>
  <li>
@@ -509,7 +509,7 @@
   </a>
   — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
   <sup>
-   &#9733 1041, pushed 5 days ago
+   &#9733 1041, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -518,7 +518,7 @@
   </a>
   — Python autocompletion.
   <sup>
-   &#9733 622, pushed 132 days ago
+   &#9733 622, pushed 257 days ago
   </sup>
  </li>
 </ul>
@@ -532,7 +532,7 @@
   </a>
   — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
   <sup>
-   &#9733 1119, pushed 15 days ago
+   &#9733 1119, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -541,7 +541,7 @@
   </a>
   — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
   <sup>
-   &#9733 295, pushed 1251 days ago
+   &#9733 295, pushed 1376 days ago
   </sup>
  </li>
  <li>
@@ -550,7 +550,7 @@
   </a>
   — a JavaScript type inference engine integration.
   <sup>
-   &#9733 223, pushed 230 days ago
+   &#9733 223, pushed 354 days ago
   </sup>
  </li>
 </ul>
@@ -569,7 +569,7 @@
    HTMLPrettify
   </a>
   <sup>
-   &#9733 1190, pushed 12 days ago
+   &#9733 1190, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -578,7 +578,7 @@
   </a>
   — displays color sample in the gutter for each line in CSS containing color code.
   <sup>
-   &#9733 494, pushed 83 days ago
+   &#9733 494, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -598,7 +598,7 @@
   </a>
   — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
   <sup>
-   &#9733 1477, pushed 5 days ago
+   &#9733 1477, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -607,7 +607,7 @@
   </a>
   — preview and build your markdown files quickly in your web browser from Sublime Text.
   <sup>
-   &#9733 1760, pushed 108 days ago
+   &#9733 1760, pushed 232 days ago
   </sup>
  </li>
 </ul>
@@ -621,7 +621,7 @@
   </a>
   — a plugin to jump to documentation for the current word.
   <sup>
-   &#9733 120, pushed 327 days ago
+   &#9733 120, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -634,7 +634,7 @@
   </a>
   integration for Sublime Text.
   <sup>
-   &#9733 950, pushed 4 days ago
+   &#9733 950, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -647,7 +647,7 @@
   </a>
   .
   <sup>
-   &#9733 220, pushed 855 days ago
+   &#9733 220, pushed 980 days ago
   </sup>
  </li>
 </ul>
@@ -704,7 +704,7 @@
   </a>
   — a full featured Sublime Text blue theme
   <sup>
-   &#9733 1011, pushed 6 days ago
+   &#9733 1011, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -713,7 +713,7 @@
   </a>
   — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
   <sup>
-   &#9733 2742, pushed 184 days ago
+   &#9733 2742, pushed 309 days ago
   </sup>
  </li>
  <li>
@@ -740,7 +740,7 @@
   </a>
   — the precursor to Base16 Theme.
   <sup>
-   &#9733 9399, pushed 14 days ago
+   &#9733 9399, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -749,7 +749,7 @@
   </a>
   — carefully chosen syntax highlighting and a default set of sixteen colors.
   <sup>
-   &#9733 3933, pushed 102 days ago
+   &#9733 3933, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -786,7 +786,7 @@
    By Daniel Matarazzo
   </a>
   <sup>
-   &#9733 557, pushed 1014 days ago
+   &#9733 557, pushed 1138 days ago
   </sup>
  </li>
  <li>
@@ -799,7 +799,7 @@
    By Shi Yan Hui
   </a>
   <sup>
-   &#9733 5, pushed 864 days ago
+   &#9733 5, pushed 988 days ago
   </sup>
  </li>
  <li>
@@ -807,7 +807,7 @@
    By Tomas Sykora
   </a>
   <sup>
-   &#9733 13, pushed 734 days ago
+   &#9733 13, pushed 859 days ago
   </sup>
  </li>
  <li>
@@ -835,7 +835,7 @@
    Adobe Source Code Pro
   </a>
   <sup>
-   &#9733 8370, pushed 2 days ago
+   &#9733 8370, pushed 126 days ago
   </sup>
  </li>
  <li>

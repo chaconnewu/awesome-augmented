@@ -146,7 +146,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
   <a href="https://education.github.com/pack">
    GitHub
   </a>
-  -  Micro account (normally $7/month) with five private repositories while you're a student.
+  -  Micro account (normally $7/month) with unlimited private repositories while you're a student.
  </li>
 </ul>
 <h2>
@@ -263,7 +263,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
  </li>
 </ul>
 <h2>
- Emails
+ Email
 </h2>
 <ul>
  <li>
@@ -290,6 +290,15 @@ Once I have a good set of links in this README file, I'll look into a better lay
    Github Student Developer Pack
   </a>
   .
+ </li>
+ <li>
+  <a href="https://styleci.io/">
+   StyleCI
+  </a>
+  - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles upto 50% off all other plans
+  <a href="https://blog.alt-three.com/student-discount-scheme/">
+   support
+  </a>
  </li>
 </ul>
 <h2>

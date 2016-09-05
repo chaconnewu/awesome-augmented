@@ -84,8 +84,28 @@
     </a>
    </li>
    <li>
+    <a href="#firewall">
+     Firewall
+    </a>
+   </li>
+   <li>
+    <a href="#anti-spam">
+     Anti-Spam
+    </a>
+   </li>
+   <li>
+    <a href="#docker">
+     Docker
+    </a>
+   </li>
+   <li>
     <a href="#endpoint">
      Endpoint
+    </a>
+   </li>
+   <li>
+    <a href="#anti-virus--anti-malware">
+     Anti-Virus / Anti-Malware
     </a>
    </li>
    <li>
@@ -146,7 +166,7 @@
   </a>
   - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
   <sup>
-   &#9733 5688, pushed 3 days ago
+   &#9733 5688, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -161,7 +181,7 @@
   </a>
   - A Linux packet crafting tool.
   <sup>
-   &#9733 236, pushed 2 days ago
+   &#9733 236, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -170,14 +190,28 @@
   </a>
   - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
   <sup>
-   &#9733 220, pushed 227 days ago
+   &#9733 220, pushed 351 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://nmap.org">
+   Nmap
+  </a>
+  - Nmap is a free and open source utility for network discovery and security auditing.
  </li>
 </ul>
 <h3>
  Monitoring / Logging
 </h3>
 <ul>
+ <li>
+  <p>
+   <a href="https://snyk.io/">
+    snyk.io
+   </a>
+   -  Snyk is a opensource tool to scan for vulnerabilities. Find, fix and monitor for known vulnerabilities in Node.js npm package fixtures used for testing the patches of vulndb.
+  </p>
+ </li>
  <li>
   <p>
    <a href="http://justniffer.sourceforge.net/">
@@ -210,7 +244,7 @@
    - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
   </p>
   <sup>
-   &#9733 655, pushed 78 days ago
+   &#9733 655, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -236,6 +270,12 @@
    </a>
    - Ntopng is a network traffic probe that shows the network usage, similar to what the popular top Unix command does.
   </p>
+ </li>
+ <li>
+  <a href="https://github.com/rabbitstack/fibratus">
+   Fibratus
+  </a>
+  - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
  </li>
 </ul>
 <h3>
@@ -272,14 +312,47 @@
   </a>
   - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
   <sup>
-   &#9733 12, pushed 1017 days ago
+   &#9733 12, pushed 1141 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://bitbucket.org/camp0/aiengine">
+   AIEngine
+  </a>
+  - AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
+ </li>
+ <li>
+  <a href="http://denyhosts.sourceforge.net/">
+   Denyhosts
+  </a>
+  - Thwart SSH dictionary based attacks and brute force attacks.
+ </li>
+ <li>
+  <a href="http://www.fail2ban.org/wiki/index.php/Main_Page">
+   Fail2Ban
+  </a>
+  - Scans log files and takes action on IPs that show malicious behavior.
+ </li>
+ <li>
+  <a href="http://www.sshguard.net/">
+   SSHGuard
+  </a>
+  - A software to protect services in addition to SSH, written in C
  </li>
 </ul>
 <h3>
  Honey Pot / Honey Net
 </h3>
 <ul>
+ <li>
+  <a href="https://github.com/foospidy/HoneyPy">
+   HoneyPy
+  </a>
+  - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+  <sup>
+   &#9733 82, pushed 155 days ago
+  </sup>
+ </li>
  <li>
   <a href="http://dionaea.carnivore.it/">
    Dionaea
@@ -298,7 +371,7 @@
   </a>
   - Amun Python-based low-interaction Honeypot.
   <sup>
-   &#9733 18, pushed 507 days ago
+   &#9733 18, pushed 632 days ago
   </sup>
  </li>
  <li>
@@ -313,7 +386,7 @@
   </a>
   - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
   <sup>
-   &#9733 628, pushed 195 days ago
+   &#9733 628, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +401,7 @@
   </a>
   - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
   <sup>
-   &#9733 50, pushed 89 days ago
+   &#9733 50, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -360,7 +433,7 @@
   </a>
   - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
   <sup>
-   &#9733 516, pushed 99 days ago
+   &#9733 516, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -375,7 +448,7 @@
   </a>
   - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
   <sup>
-   &#9733 1389, pushed 11 days ago
+   &#9733 1389, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -390,7 +463,7 @@
   </a>
   - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
   <sup>
-   &#9733 4652, pushed 12 days ago
+   &#9733 4652, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -399,7 +472,7 @@
   </a>
   - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
   <sup>
-   &#9733 836, pushed 1 days ago
+   &#9733 836, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -436,6 +509,15 @@
   </a>
   - OSSIM provides all of the features that a security professional needs from a SIEM offering – event collection, normalization, and correlation.
  </li>
+ <li>
+  <a href="https://github.com/certsocietegenerale/FIR">
+   FIR
+  </a>
+  - Fast Incident Response, a cybersecurity incident management platform.
+  <sup>
+   &#9733 530, pushed 138 days ago
+  </sup>
+ </li>
 </ul>
 <h3>
  VPN
@@ -464,7 +546,7 @@
   </a>
   - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
   <sup>
-   &#9733 389, pushed 1 days ago
+   &#9733 389, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -504,9 +586,178 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
  </a>
  - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 </li>
+<h3>
+ Firewall
+</h3>
+<ul>
+ <li>
+  <a href="https://www.pfsense.org/">
+   pfSense
+  </a>
+  - Firewall and Router FreeBSD distribution.
+ </li>
+ <li>
+  <a href="https://www.cipherdyne.org/fwknop/">
+   fwknop
+  </a>
+  - Protects ports via Single Packet Authorization in your firewall.
+ </li>
+</ul>
+<h3>
+ Anti-Spam
+</h3>
+<ul>
+ <li>
+  <a href="https://spamassassin.apache.org/">
+   SpamAssassin
+  </a>
+  - A powerful and popular email spam filter employing a variety of detection technique.
+ </li>
+</ul>
+<h3>
+ Docker Images for Penetration Testing & Security
+</h3>
+<ul>
+ <li>
+  <code>
+   docker pull kalilinux/kali-linux-docker
+  </code>
+  <a href="https://hub.docker.com/r/kalilinux/kali-linux-docker/">
+   official Kali Linux
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull owasp/zap2docker-stable
+  </code>
+  -
+  <a href="https://github.com/zaproxy/zaproxy">
+   official OWASP ZAP
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull wpscanteam/wpscan
+  </code>
+  -
+  <a href="https://hub.docker.com/r/wpscanteam/wpscan/">
+   official WPScan
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull pandrew/metasploit
+  </code>
+  -
+  <a href="https://hub.docker.com/r/pandrew/metasploit/">
+   docker-metasploit
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull citizenstig/dvwa
+  </code>
+  -
+  <a href="https://hub.docker.com/r/citizenstig/dvwa/">
+   Damn Vulnerable Web Application (DVWA)
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull wpscanteam/vulnerablewordpress
+  </code>
+  -
+  <a href="https://hub.docker.com/r/wpscanteam/vulnerablewordpress/">
+   Vulnerable WordPress Installation
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull hmlio/vaas-cve-2014-6271
+  </code>
+  -
+  <a href="https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/">
+   Vulnerability as a service: Shellshock
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull hmlio/vaas-cve-2014-0160
+  </code>
+  -
+  <a href="https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/">
+   Vulnerability as a service: Heartbleed
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull opendns/security-ninjas
+  </code>
+  -
+  <a href="https://hub.docker.com/r/opendns/security-ninjas/">
+   Security Ninjas
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull usertaken/archlinux-pentest-lxde
+  </code>
+  -
+  <a href="https://hub.docker.com/r/usertaken/archlinux-pentest-lxde/">
+   Arch Linux Penetration Tester
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull diogomonica/docker-bench-security
+  </code>
+  -
+  <a href="https://hub.docker.com/r/diogomonica/docker-bench-security/">
+   Docker Bench for Security
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull ismisepaul/securityshepherd
+  </code>
+  -
+  <a href="https://hub.docker.com/r/ismisepaul/securityshepherd/">
+   OWASP Security Shepherd
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull danmx/docker-owasp-webgoat
+  </code>
+  -
+  <a href="https://hub.docker.com/r/danmx/docker-owasp-webgoat/">
+   OWASP WebGoat Project docker image
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull citizenstig/nowasp
+  </code>
+  -
+  <a href="https://hub.docker.com/r/citizenstig/nowasp/">
+   OWASP Mutillidae II Web Pen-Test Practice Application
+  </a>
+ </li>
+</ul>
 <h2>
  Endpoint
 </h2>
+<h3>
+ Anti-Virus / Anti-Malware
+</h3>
+<ul>
+ <li>
+  <a href="https://www.rfxn.com/projects/linux-malware-detect/">
+   Linux Malware Detect
+  </a>
+  - A malware scanner for Linux designed around the threats faced in shared hosted environments.
+ </li>
+</ul>
 <h3>
  Configuration Management
 </h3>
@@ -531,7 +782,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
    Tutorials: How to set up two-factor authentication for SSH login on Linux
   </a>
   <sup>
-   &#9733 1281, pushed 16 days ago
+   &#9733 1281, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -545,7 +796,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
   <sup>
-   &#9733 1007, pushed 5 days ago
+   &#9733 1007, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -565,7 +816,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - GRR Rapid Response is an incident response framework focused on remote live forensics.
   <sup>
-   &#9733 1180, pushed 11 days ago
+   &#9733 1180, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -650,7 +901,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - FireEye Publicly Shared Indicators of Compromise (IOCs)
   <sup>
-   &#9733 168, pushed 64 days ago
+   &#9733 168, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -687,7 +938,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
   <sup>
-   &#9733 97, pushed 3 days ago
+   &#9733 97, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -721,7 +972,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
   <sup>
-   &#9733 1240, pushed 6 days ago
+   &#9733 1240, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -765,7 +1016,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
   <sup>
-   &#9733 538, pushed 7 days ago
+   &#9733 538, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -779,7 +1030,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
   <sup>
-   &#9733 256, pushed 472 days ago
+   &#9733 256, pushed 597 days ago
   </sup>
  </li>
  <li>
@@ -788,7 +1039,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - Hadoop library to read packet capture (PCAP) files.
   <sup>
-   &#9733 142, pushed 3 days ago
+   &#9733 142, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +1054,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
   <sup>
-   &#9733 338, pushed 247 days ago
+   &#9733 338, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -812,8 +1063,25 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
   <sup>
-   &#9733 114, pushed 659 days ago
+   &#9733 114, pushed 784 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Datastores
+</h2>
+<ul>
+ <li>
+  <a href="https://www.vaultproject.io/">
+   Vault
+  </a>
+  - An encrypted datastore secure enough to hold environment and application secrets.
+ </li>
+ <li>
+  <a href="https://github.com/starkandwayne/safe">
+   Safe
+  </a>
+  - A Vault CLI that makes reading from and writing to the Vault easier to do.
  </li>
 </ul>
 <h2>
@@ -829,7 +1097,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A collection of android security related resources.
   <sup>
-   &#9733 1007, pushed 5 days ago
+   &#9733 1007, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -838,7 +1106,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A curated list of CTF frameworks, libraries, resources and software.
   <sup>
-   &#9733 421, pushed 34 days ago
+   &#9733 421, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -847,7 +1115,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A curated list of awesome Hacking tutorials, tools and resources.
   <sup>
-   &#9733 510, pushed 12 days ago
+   &#9733 510, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -856,7 +1124,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - An awesome list of honeypot resources.
   <sup>
-   &#9733 604, pushed 47 days ago
+   &#9733 604, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -865,7 +1133,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A curated list of awesome malware analysis tools and resources.
   <sup>
-   &#9733 968, pushed 6 days ago
+   &#9733 968, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -874,7 +1142,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A collection of tools developed by other researchers in the Computer Science area to process network traces.
   <sup>
-   &#9733 378, pushed 4 days ago
+   &#9733 378, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +1151,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A collection of awesome penetration testing resources, tools and other shiny things.
   <sup>
-   &#9733 1859, pushed 10 days ago
+   &#9733 1859, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -892,7 +1160,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A curated list of awesome Linux Containers frameworks, libraries and software.
   <sup>
-   &#9733 85, pushed 46 days ago
+   &#9733 85, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -901,7 +1169,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - A curated list of resources for incident response.
   <sup>
-   &#9733 471, pushed 11 days ago
+   &#9733 471, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -910,7 +1178,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - This list is for anyone wishing to learn about web application security but do not have a starting point.
   <sup>
-   &#9733 155, pushed 28 days ago
+   &#9733 155, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -927,7 +1195,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - awesome-* or *-awesome lists.
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -936,7 +1204,7 @@ RING ZC (Zero Copy) is a flexible packet processing framework that  allows you t
   </a>
   - The definitive list of (awesome) lists curated on GitHub.
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
 </ul>

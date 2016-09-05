@@ -35,7 +35,7 @@
      PuppetDB
     </a>
     <sup>
-     &#9733 190, pushed 4 days ago
+     &#9733 190, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -43,7 +43,7 @@
      Metabase
     </a>
     <sup>
-     &#9733 2578, pushed 4 days ago
+     &#9733 2578, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -51,7 +51,7 @@
      Avi (vim rewrite)
     </a>
     <sup>
-     &#9733 151, pushed 4 days ago
+     &#9733 151, pushed 128 days ago
     </sup>
    </li>
   </ul>
@@ -66,7 +66,7 @@
      jank
     </a>
     <sup>
-     &#9733 25, pushed 16 days ago
+     &#9733 25, pushed 141 days ago
     </sup>
    </li>
    <li>
@@ -74,12 +74,17 @@
      lux
     </a>
     <sup>
-     &#9733 446, pushed 2 days ago
+     &#9733 446, pushed 127 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/kanaka/mal/tree/master/clojure">
      mal
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/turbopape/scheje">
+     scheje
     </a>
    </li>
   </ul>
@@ -303,7 +308,7 @@
    Web Non-Framework
   </a>
   <sup>
-   &#9733 16, pushed 7 days ago
+   &#9733 16, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -316,7 +321,7 @@
    Joodo
   </a>
   <sup>
-   &#9733 3, pushed 797 days ago
+   &#9733 3, pushed 922 days ago
   </sup>
  </li>
  <li>
@@ -324,7 +329,7 @@
    Coils
   </a>
   <sup>
-   &#9733 237, pushed 5 days ago
+   &#9733 237, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -332,7 +337,7 @@
    Duct
   </a>
   <sup>
-   &#9733 329, pushed 39 days ago
+   &#9733 329, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -340,7 +345,7 @@
    Pedestal
   </a>
   <sup>
-   &#9733 1580, pushed 6 days ago
+   &#9733 1580, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -348,7 +353,7 @@
    Catalysis
   </a>
   <sup>
-   &#9733 28, pushed 8 days ago
+   &#9733 28, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -356,8 +361,13 @@
    yada
   </a>
   <sup>
-   &#9733 245, pushed 6 days ago
+   &#9733 245, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://hoplon.io/">
+   Hoplon
+  </a>
  </li>
 </ul>
 <h2>
@@ -374,7 +384,7 @@
    Component
   </a>
   <sup>
-   &#9733 1131, pushed 11 days ago
+   &#9733 1131, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -382,7 +392,7 @@
    System
   </a>
   <sup>
-   &#9733 350, pushed 2 days ago
+   &#9733 350, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -390,7 +400,7 @@
    mount
   </a>
   <sup>
-   &#9733 389, pushed 7 days ago
+   &#9733 389, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -408,7 +418,7 @@
    Leiningen
   </a>
   <sup>
-   &#9733 4780, pushed 4 days ago
+   &#9733 4780, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -416,7 +426,7 @@
    Boot
   </a>
   <sup>
-   &#9733 932, pushed 20 days ago
+   &#9733 932, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -434,7 +444,7 @@
    clj-time
   </a>
   <sup>
-   &#9733 469, pushed 28 days ago
+   &#9733 469, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -447,7 +457,7 @@
    fx-clj
   </a>
   <sup>
-   &#9733 68, pushed 100 days ago
+   &#9733 68, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -455,7 +465,7 @@
    seesaw
   </a>
   <sup>
-   &#9733 1039, pushed 70 days ago
+   &#9733 1039, pushed 194 days ago
   </sup>
  </li>
 </ul>
@@ -473,7 +483,7 @@
    Alda
   </a>
   <sup>
-   &#9733 2347, pushed 1 days ago
+   &#9733 2347, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -491,7 +501,7 @@
    clj-http
   </a>
   <sup>
-   &#9733 891, pushed 15 days ago
+   &#9733 891, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -504,8 +514,13 @@
    ring
   </a>
   <sup>
-   &#9733 1853, pushed 5 days ago
+   &#9733 1853, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nervous-systems/kvlt">
+   kvlt
+  </a>
  </li>
 </ul>
 <h2>
@@ -527,7 +542,7 @@
    clojure.jdbc
   </a>
   <sup>
-   &#9733 66, pushed 4 days ago
+   &#9733 66, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -535,7 +550,7 @@
    cravendb
   </a>
   <sup>
-   &#9733 45, pushed 860 days ago
+   &#9733 45, pushed 985 days ago
   </sup>
  </li>
  <li>
@@ -548,7 +563,7 @@
    RethinkDB
   </a>
   <sup>
-   &#9733 137, pushed 2 days ago
+   &#9733 137, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -566,7 +581,7 @@
    hikari-cp
   </a>
   <sup>
-   &#9733 107, pushed 6 days ago
+   &#9733 107, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -584,7 +599,7 @@
    Lobos
   </a>
   <sup>
-   &#9733 259, pushed 217 days ago
+   &#9733 259, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -592,7 +607,7 @@
    Ragtime
   </a>
   <sup>
-   &#9733 290, pushed 4 days ago
+   &#9733 290, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -600,7 +615,7 @@
    Joplin
   </a>
   <sup>
-   &#9733 211, pushed 33 days ago
+   &#9733 211, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -608,7 +623,7 @@
    Migratus
   </a>
   <sup>
-   &#9733 153, pushed 5 days ago
+   &#9733 153, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +631,7 @@
    Drift
   </a>
   <sup>
-   &#9733 103, pushed 380 days ago
+   &#9733 103, pushed 505 days ago
   </sup>
  </li>
 </ul>
@@ -629,7 +644,7 @@
    carmine
   </a>
   <sup>
-   &#9733 609, pushed 2 days ago
+   &#9733 609, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -642,7 +657,7 @@
    cheshire
   </a>
   <sup>
-   &#9733 777, pushed 21 days ago
+   &#9733 777, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -668,7 +683,7 @@
    stch-library/sql
   </a>
   <sup>
-   &#9733 18, pushed 622 days ago
+   &#9733 18, pushed 747 days ago
   </sup>
  </li>
  <li>
@@ -676,7 +691,7 @@
    sqlingvo
   </a>
   <sup>
-   &#9733 105, pushed 8 days ago
+   &#9733 105, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -684,7 +699,7 @@
    honeysql
   </a>
   <sup>
-   &#9733 432, pushed 19 days ago
+   &#9733 432, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -702,7 +717,7 @@
    Buddy
   </a>
   <sup>
-   &#9733 428, pushed 9 days ago
+   &#9733 428, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -710,7 +725,7 @@
    Friend
   </a>
   <sup>
-   &#9733 1022, pushed 29 days ago
+   &#9733 1022, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +733,7 @@
    bolt
   </a>
   <sup>
-   &#9733 122, pushed 286 days ago
+   &#9733 122, pushed 411 days ago
   </sup>
  </li>
 </ul>
@@ -741,8 +756,13 @@
    compojure-api
   </a>
   <sup>
-   &#9733 476, pushed 3 days ago
+   &#9733 476, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/friboo">
+   Friboo
+  </a>
  </li>
  <li>
   <a href="https://github.com/juxt/yada">
@@ -759,7 +779,7 @@
    postal
   </a>
   <sup>
-   &#9733 328, pushed 60 days ago
+   &#9733 328, pushed 184 days ago
   </sup>
  </li>
 </ul>
@@ -782,7 +802,7 @@
    hiccup
   </a>
   <sup>
-   &#9733 1338, pushed 28 days ago
+   &#9733 1338, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -790,7 +810,7 @@
    clostache
   </a>
   <sup>
-   &#9733 253, pushed 207 days ago
+   &#9733 253, pushed 332 days ago
   </sup>
  </li>
 </ul>
@@ -813,7 +833,7 @@
    Prismatic's schema
   </a>
   <sup>
-   &#9733 1544, pushed 4 days ago
+   &#9733 1544, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -821,7 +841,7 @@
    domaintypes
   </a>
   <sup>
-   &#9733 5, pushed 526 days ago
+   &#9733 5, pushed 651 days ago
   </sup>
  </li>
  <li>
@@ -829,7 +849,7 @@
    Bouncer
   </a>
   <sup>
-   &#9733 264, pushed 134 days ago
+   &#9733 264, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -837,7 +857,7 @@
    clova
   </a>
   <sup>
-   &#9733 5, pushed 4 days ago
+   &#9733 5, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -855,7 +875,7 @@
    core.typed
   </a>
   <sup>
-   &#9733 825, pushed 18 days ago
+   &#9733 825, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -868,7 +888,7 @@
    core.match
   </a>
   <sup>
-   &#9733 644, pushed 122 days ago
+   &#9733 644, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -876,7 +896,7 @@
    Verbal-Exprejon
   </a>
   <sup>
-   &#9733 81, pushed 105 days ago
+   &#9733 81, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -884,8 +904,18 @@
    defun
   </a>
   <sup>
-   &#9733 278, pushed 189 days ago
+   &#9733 278, pushed 314 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/cats.match">
+   cats.match
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/missingfaktor/akar">
+   Akar
+  </a>
  </li>
 </ul>
 <h2>
@@ -902,7 +932,7 @@
    pulsar
   </a>
   <sup>
-   &#9733 669, pushed 15 days ago
+   &#9733 669, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -910,7 +940,7 @@
    lamina
   </a>
   <sup>
-   &#9733 739, pushed 231 days ago
+   &#9733 739, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -918,7 +948,7 @@
    aleph
   </a>
   <sup>
-   &#9733 1602, pushed 2 days ago
+   &#9733 1602, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -931,7 +961,7 @@
    cats
   </a>
   <sup>
-   &#9733 362, pushed 6 days ago
+   &#9733 362, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -939,7 +969,7 @@
    algo.monads
   </a>
   <sup>
-   &#9733 281, pushed 122 days ago
+   &#9733 281, pushed 246 days ago
   </sup>
  </li>
 </ul>
@@ -952,7 +982,7 @@
    Sente
   </a>
   <sup>
-   &#9733 996, pushed 13 days ago
+   &#9733 996, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -970,7 +1000,7 @@
    Midje
   </a>
   <sup>
-   &#9733 1182, pushed 2 days ago
+   &#9733 1182, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -983,7 +1013,7 @@
    Slamhound
   </a>
   <sup>
-   &#9733 330, pushed 232 days ago
+   &#9733 330, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -991,7 +1021,7 @@
    eastwood
   </a>
   <sup>
-   &#9733 542, pushed 27 days ago
+   &#9733 542, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -999,7 +1029,7 @@
    kibit
   </a>
   <sup>
-   &#9733 1025, pushed 9 days ago
+   &#9733 1025, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1012,7 +1042,7 @@
    Incanter
   </a>
   <sup>
-   &#9733 1731, pushed 12 days ago
+   &#9733 1731, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1025,7 +1055,7 @@
    Onyx
   </a>
   <sup>
-   &#9733 1205, pushed 3 days ago
+   &#9733 1205, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1033,7 +1063,7 @@
    Neanderthal
   </a>
   <sup>
-   &#9733 148, pushed 8 days ago
+   &#9733 148, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1046,7 +1076,7 @@
    clj-ml
   </a>
   <sup>
-   &#9733 108, pushed 71 days ago
+   &#9733 108, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1054,7 +1084,7 @@
    clj-bigml
   </a>
   <sup>
-   &#9733 44, pushed 3 days ago
+   &#9733 44, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1062,7 +1092,7 @@
    Clatern
   </a>
   <sup>
-   &#9733 60, pushed 268 days ago
+   &#9733 60, pushed 392 days ago
   </sup>
  </li>
  <li>
@@ -1070,7 +1100,7 @@
    Deeplearning4j
   </a>
   <sup>
-   &#9733 2626, pushed 2 days ago
+   &#9733 2626, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1078,7 +1108,7 @@
    Enclog
   </a>
   <sup>
-   &#9733 118, pushed 745 days ago
+   &#9733 118, pushed 870 days ago
   </sup>
  </li>
  <li>
@@ -1086,7 +1116,7 @@
    Infer
   </a>
   <sup>
-   &#9733 147, pushed 126 days ago
+   &#9733 147, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -1094,7 +1124,7 @@
    k9
   </a>
   <sup>
-   &#9733 75, pushed 438 days ago
+   &#9733 75, pushed 563 days ago
   </sup>
  </li>
  <li>
@@ -1102,7 +1132,7 @@
    Statistiker
   </a>
   <sup>
-   &#9733 42, pushed 302 days ago
+   &#9733 42, pushed 427 days ago
   </sup>
  </li>
  <li>
@@ -1110,7 +1140,7 @@
    Synaptic
   </a>
   <sup>
-   &#9733 62, pushed 91 days ago
+   &#9733 62, pushed 216 days ago
   </sup>
  </li>
 </ul>
@@ -1123,7 +1153,7 @@
    clj-tesseract
   </a>
   <sup>
-   &#9733 33, pushed 1649 days ago
+   &#9733 33, pushed 1774 days ago
   </sup>
  </li>
  <li>
@@ -1141,7 +1171,7 @@
    clojure-opennlp
   </a>
   <sup>
-   &#9733 551, pushed 8 days ago
+   &#9733 551, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -1154,7 +1184,7 @@
    CIDER
   </a>
   <sup>
-   &#9733 1766, pushed 2 days ago
+   &#9733 1766, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1162,7 +1192,7 @@
    vim-fireplace
   </a>
   <sup>
-   &#9733 1063, pushed 15 days ago
+   &#9733 1063, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1170,7 +1200,7 @@
    vim-redl
   </a>
   <sup>
-   &#9733 96, pushed 434 days ago
+   &#9733 96, pushed 558 days ago
   </sup>
  </li>
  <li>
@@ -1178,7 +1208,7 @@
    vim-leiningen
   </a>
   <sup>
-   &#9733 121, pushed 196 days ago
+   &#9733 121, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -1186,7 +1216,7 @@
    rainbow_parentheses.vim
   </a>
   <sup>
-   &#9733 105, pushed 182 days ago
+   &#9733 105, pushed 307 days ago
   </sup>
  </li>
  <li>
@@ -1209,7 +1239,7 @@
    marginalia
   </a>
   <sup>
-   &#9733 592, pushed 48 days ago
+   &#9733 592, pushed 173 days ago
   </sup>
  </li>
 </ul>
@@ -1222,7 +1252,7 @@
    clj-tuple
   </a>
   <sup>
-   &#9733 168, pushed 306 days ago
+   &#9733 168, pushed 431 days ago
   </sup>
  </li>
  <li>
@@ -1230,7 +1260,7 @@
    slingshot
   </a>
   <sup>
-   &#9733 421, pushed 105 days ago
+   &#9733 421, pushed 229 days ago
   </sup>
  </li>
 </ul>
@@ -1243,7 +1273,7 @@
    debugger
   </a>
   <sup>
-   &#9733 0, pushed 690 days ago
+   &#9733 0, pushed 814 days ago
   </sup>
  </li>
  <li>
@@ -1251,7 +1281,7 @@
    debug-repl
   </a>
   <sup>
-   &#9733 131, pushed 988 days ago
+   &#9733 131, pushed 1113 days ago
   </sup>
  </li>
  <li>
@@ -1259,7 +1289,7 @@
    ritz
   </a>
   <sup>
-   &#9733 322, pushed 1083 days ago
+   &#9733 322, pushed 1208 days ago
   </sup>
  </li>
  <li>
@@ -1267,7 +1297,7 @@
    redl
   </a>
   <sup>
-   &#9733 29, pushed 640 days ago
+   &#9733 29, pushed 765 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1305,7 @@
    limit-break
   </a>
   <sup>
-   &#9733 16, pushed 1368 days ago
+   &#9733 16, pushed 1493 days ago
   </sup>
  </li>
  <li>
@@ -1283,7 +1313,7 @@
    spyscope
   </a>
   <sup>
-   &#9733 330, pushed 161 days ago
+   &#9733 330, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -1291,7 +1321,7 @@
    aprint
   </a>
   <sup>
-   &#9733 100, pushed 190 days ago
+   &#9733 100, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -1299,7 +1329,7 @@
    pretty
   </a>
   <sup>
-   &#9733 281, pushed 18 days ago
+   &#9733 281, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1307,7 +1337,7 @@
    prone
   </a>
   <sup>
-   &#9733 398, pushed 34 days ago
+   &#9733 398, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -1315,7 +1345,7 @@
    figwheel
   </a>
   <sup>
-   &#9733 1552, pushed 13 days ago
+   &#9733 1552, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -1328,7 +1358,7 @@
    lambdacd
   </a>
   <sup>
-   &#9733 208, pushed 14 days ago
+   &#9733 208, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -1346,7 +1376,7 @@
    clojure-cookbook
   </a>
   <sup>
-   &#9733 1544, pushed 146 days ago
+   &#9733 1544, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -1434,7 +1464,7 @@
    Wonderland Clojure Katas
   </a>
   <sup>
-   &#9733 417, pushed 19 days ago
+   &#9733 417, pushed 144 days ago
   </sup>
  </li>
  <li>

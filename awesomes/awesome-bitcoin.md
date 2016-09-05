@@ -82,7 +82,7 @@
   </a>
   Python-based Bitcoin and alt-coin utility library.
   <sup>
-   &#9733 302, pushed 4 days ago
+   &#9733 302, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -97,7 +97,7 @@
   </a>
   Bitcoin Command Line Tool
   <sup>
-   &#9733 60, pushed 12 days ago
+   &#9733 60, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -106,7 +106,7 @@
   </a>
   A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
   <sup>
-   &#9733 19, pushed 233 days ago
+   &#9733 19, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -115,7 +115,7 @@
   </a>
   A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
   <sup>
-   &#9733 155, pushed 522 days ago
+   &#9733 155, pushed 646 days ago
   </sup>
  </li>
  <li>
@@ -243,7 +243,7 @@
    Bitcoin Transaction Explorer
   </a>
   <sup>
-   &#9733 22, pushed 54 days ago
+   &#9733 22, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -251,7 +251,7 @@
    Blockexplorer.com
   </a>
   <sup>
-   &#9733 137, pushed 246 days ago
+   &#9733 137, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -269,7 +269,7 @@
    Awesome CryptoCoinJS
   </a>
   <sup>
-   &#9733 2, pushed 76 days ago
+   &#9733 2, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -277,7 +277,7 @@
    Bitcore Library
   </a>
   <sup>
-   &#9733 41, pushed 11 days ago
+   &#9733 41, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -285,7 +285,7 @@
    Bitcoinjs-lib
   </a>
   <sup>
-   &#9733 1057, pushed 3 days ago
+   &#9733 1057, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -293,7 +293,7 @@
    Cryptocoin
   </a>
   <sup>
-   &#9733 63, pushed 736 days ago
+   &#9733 63, pushed 861 days ago
   </sup>
  </li>
  <li>
@@ -301,7 +301,7 @@
    BlockTrail SDK NodeJS
   </a>
   <sup>
-   &#9733 13, pushed 47 days ago
+   &#9733 13, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -314,7 +314,7 @@
    PHP-OP_RETURN
   </a>
   <sup>
-   &#9733 29, pushed 61 days ago
+   &#9733 29, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -322,7 +322,7 @@
    BlockTrail PHP SDK
   </a>
   <sup>
-   &#9733 9, pushed 5 days ago
+   &#9733 9, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -335,7 +335,7 @@
    Bitcoin-ruby
   </a>
   <sup>
-   &#9733 567, pushed 39 days ago
+   &#9733 567, pushed 164 days ago
   </sup>
  </li>
 </ul>
@@ -348,7 +348,7 @@
    BlockTrail SDK Python
   </a>
   <sup>
-   &#9733 9, pushed 222 days ago
+   &#9733 9, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -357,7 +357,7 @@
   </a>
   simple library to store/retrieve information in bitcoin transactions using OP_RETURN
   <sup>
-   &#9733 3, pushed 128 days ago
+   &#9733 3, pushed 252 days ago
   </sup>
  </li>
 </ul>
@@ -381,7 +381,7 @@
   </a>
   Comprehensive Bitcoin library for the .NET framework.
   <sup>
-   &#9733 197, pushed 4 days ago
+   &#9733 197, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -390,7 +390,7 @@
   </a>
   The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
   <sup>
-   &#9733 102, pushed 128 days ago
+   &#9733 102, pushed 253 days ago
   </sup>
  </li>
  <li>
@@ -399,7 +399,7 @@
   </a>
   An Open Source and powerful blockchain API
   <sup>
-   &#9733 2, pushed 6 days ago
+   &#9733 2, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -450,7 +450,7 @@
   </a>
   A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
   <sup>
-   &#9733 12, pushed 60 days ago
+   &#9733 12, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -459,7 +459,7 @@
   </a>
   Fast, quick and dirty bitcoin blockchain parser
   <sup>
-   &#9733 30, pushed 945 days ago
+   &#9733 30, pushed 1070 days ago
   </sup>
  </li>
  <li>
@@ -468,7 +468,7 @@
   </a>
   Abe: block browser for Bitcoin and similar currencies
   <sup>
-   &#9733 440, pushed 44 days ago
+   &#9733 440, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -477,7 +477,7 @@
   </a>
   Scalable and fault-tolerant block chain indexer for Azure cloud platform.
   <sup>
-   &#9733 10, pushed 6 days ago
+   &#9733 10, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -491,7 +491,7 @@
   </a>
   Bitcoin network node in JavaScript using Node.js / LevelDB
   <sup>
-   &#9733 361, pushed 1088 days ago
+   &#9733 361, pushed 1213 days ago
   </sup>
  </li>
  <li>
@@ -500,7 +500,7 @@
   </a>
   bitcoin node based on bitcoin-ruby-blockchain
   <sup>
-   &#9733 13, pushed 10 days ago
+   &#9733 13, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -515,7 +515,7 @@
   </a>
   Javascript implementation of bitcoin
   <sup>
-   &#9733 2, pushed 40 days ago
+   &#9733 2, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -524,7 +524,7 @@
   </a>
   A bitcoin blockchain API for web wallets
   <sup>
-   &#9733 191, pushed 8 days ago
+   &#9733 191, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -533,7 +533,7 @@
   </a>
   bitcoind linked to node.js by BitPay
   <sup>
-   &#9733 41, pushed 277 days ago
+   &#9733 41, pushed 402 days ago
   </sup>
  </li>
  <li>
@@ -542,7 +542,7 @@
   </a>
   Formerly just a Nodejs library, now a full node
   <sup>
-   &#9733 1713, pushed 5 days ago
+   &#9733 1713, pushed 130 days ago
   </sup>
  </li>
 </ul>

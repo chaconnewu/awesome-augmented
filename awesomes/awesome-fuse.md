@@ -197,6 +197,27 @@
   .
  </li>
  <li>
+  <a href="https://sanntidsappen.9u.no/">
+   Sanntidsappen
+  </a>
+  - Great-looking overview of bus routes in Trondheim
+  <a href="https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8">
+   (​
+   <em>
+    iOS
+   </em>
+   ​)
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen">
+   (​
+   <em>
+    Android
+   </em>
+   ​)
+  </a>
+  .
+ </li>
+ <li>
   <a href="https://itunes.apple.com/us/app/spindice3d/id1082656455">
    SpinDice3D
   </a>
@@ -280,6 +301,20 @@
   </a>
   .
  </li>
+ <li>
+  <a href="http://getwonder.io/">
+   Wonder
+  </a>
+  - Vaka is a game for focused and stable mind
+  <a href="https://itunes.apple.com/us/app/vaka/id1077345742">
+   (​
+   <em>
+    iOS
+   </em>
+   ​)
+  </a>
+  .
+ </li>
 </ul>
 <h2>
  Articles
@@ -318,6 +353,16 @@
   .
  </li>
  <li>
+  <a href="http://7sharpnine.com/blog/Light-The-Fuse/">
+   Light the fuse, using F# to write Fuse apps
+  </a>
+  - Written by
+  <a href="https://github.com/7sharp9/">
+   7sharp9
+  </a>
+  .
+ </li>
+ <li>
   <a href="https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse">
    Making mobile apps using Fuse
   </a>
@@ -345,7 +390,7 @@
   - The official Fuse blog.
  </li>
  <li>
-  <a href="https://www.fusetools.com/learn/guides">
+  <a href="https://www.fusetools.com/docs">
    Developer Guides
   </a>
   - Getting up and running with Fuse is super easy.
@@ -387,13 +432,13 @@
   - Fuse Weekly is a weekly curated publication full of interesting news and articles.
  </li>
  <li>
-  <a href="https://www.fusetools.com/learn/guides/fuse-protocol">
+  <a href="https://www.fusetools.com/docs/technical-corner/fuse-protocol">
    Plugin API
   </a>
   - The official Fuse plugin API.
  </li>
  <li>
-  <a href="http://slackcommunity.fusetools.com/">
+  <a href="https://slackcommunity.fusetools.com/">
    Slack
   </a>
   - The official Slack channel.
@@ -434,6 +479,12 @@
   - Creating a loading button with different success and error animations.
  </li>
  <li>
+  <a href="https://github.com/LuisRodriguezLD/Fuse-Geolocation-Autocomplete">
+   Autocomplete Address
+  </a>
+  - Autocomplete form using GPS and Google Maps API.
+ </li>
+ <li>
   <a href="https://www.fusetools.com/examples/http-json">
    Basic JSON and HTTP usage
   </a>
@@ -456,6 +507,18 @@
    Custom Switch
   </a>
   - Style your controls using inline styles to make them unique.
+ </li>
+ <li>
+  <a href="https://www.fusetools.com/examples/day-night-switch">
+   Day-Night Switch
+  </a>
+  - Implementing a custom day-night switch.
+ </li>
+ <li>
+  <a href="https://www.fusetools.com/examples/dynamic-tab-bar">
+   Dynamic Tab Bar
+  </a>
+  - Making a cool animated tab bar.
  </li>
  <li>
   <a href="https://www.fusetools.com/examples/gallery">
@@ -492,6 +555,12 @@
    Navigation Animation
   </a>
   - A curly navigation animation.
+ </li>
+ <li>
+  <a href="https://www.fusetools.com/examples/overlay-menu">
+   Overlay Menu
+  </a>
+  - Creating an animated overlay menu.
  </li>
  <li>
   <a href="https://www.fusetools.com/examples/onboarding-with-pagecontrol">
@@ -625,7 +694,7 @@
   </a>
   - Nifty gallery demo app using 500px API.
   <sup>
-   &#9733 18, pushed 48 days ago
+   &#9733 18, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -634,7 +703,7 @@
   </a>
   - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
   <sup>
-   &#9733 0, pushed 58 days ago
+   &#9733 0, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +712,7 @@
   </a>
   - Formula 1 Fuse application.
   <sup>
-   &#9733 0, pushed 22 days ago
+   &#9733 0, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -652,7 +721,7 @@
   </a>
   - A Fusetools package manager.
   <sup>
-   &#9733 2, pushed 23 days ago
+   &#9733 2, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -661,17 +730,14 @@
   </a>
   - A collection of smaller examples using the various features of Fuse and FuseJS.
   <sup>
-   &#9733 40, pushed 6 days ago
+   &#9733 40, pushed 131 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/offwings/Fuse-Tags-with-Firebase">
+  <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase">
    Fuse Tags with Firebase
   </a>
   - Simple Tags app. Adds and retrieves tags from Firebase.
-  <sup>
-   &#9733 5, pushed 50 days ago
-  </sup>
  </li>
  <li>
   <a href="http://tmn.github.io/FuseBus/">
@@ -685,7 +751,7 @@
   </a>
   - Gulp-procedure for Fuse compiling ES6 into ES5.
   <sup>
-   &#9733 1, pushed 154 days ago
+   &#9733 1, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -694,7 +760,7 @@
   </a>
   - An alternative example of module bundling and ES6 -> ES5 transpiling.
   <sup>
-   &#9733 1, pushed 68 days ago
+   &#9733 1, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -703,7 +769,7 @@
   </a>
   - The official Fuse documentation repository.
   <sup>
-   &#9733 23, pushed 1 days ago
+   &#9733 23, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -712,8 +778,20 @@
   </a>
   - Haxe compiler for Fuse tools.
   <sup>
-   &#9733 24, pushed 197 days ago
+   &#9733 24, pushed 321 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://www.npmjs.com/package/slush-xfuse">
+   slush-xfuse
+  </a>
+  - Fuse slush generator with Gulp, Rollup and Babel integration.
+ </li>
+ <li>
+  <a href="https://bitbucket.org/uzeidurs/fuse-snake/">
+   Snake
+  </a>
+  - A proof-of-concept experimental game of snake made with Fusetools.
  </li>
  <li>
   <a href="https://github.com/Syncano/syncano-fuse-example">
@@ -721,8 +799,18 @@
   </a>
   - Simple example of integration Syncano with Fuse.
   <sup>
-   &#9733 3, pushed 139 days ago
+   &#9733 3, pushed 264 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fusetools/hikr">
+   Hikr
+  </a>
+  - An example app case to accompany
+  <a href="https://www.fusetools.com/docs/tutorial/tutorial">
+   Fuse's end-to-end tutorial
+  </a>
+  .
  </li>
 </ul>
 <h2>
@@ -730,12 +818,18 @@
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/bolav/fuse-barcodescanner">
+   Bar Code Scanner
+  </a>
+  - A bar code scanner package.
+ </li>
+ <li>
   <a href="https://github.com/bolav/fuse-cachingimagesource">
    Caching Image Source
   </a>
   - A caching image source package.
   <sup>
-   &#9733 0, pushed 22 days ago
+   &#9733 0, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -744,16 +838,7 @@
   </a>
   - A camera panel package.
   <sup>
-   &#9733 6, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bolav/fuse-contacts">
-   Contacts
-  </a>
-  - A package to use phones contacts on iOS and Android.
-  <sup>
-   &#9733 0, pushed 19 days ago
+   &#9733 6, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -762,7 +847,16 @@
   </a>
   - A CocoaPods package.
   <sup>
-   &#9733 0, pushed 26 days ago
+   &#9733 0, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bolav/fuse-contacts">
+   Contacts
+  </a>
+  - A package to use phones contacts on iOS and Android.
+  <sup>
+   &#9733 0, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -771,8 +865,14 @@
   </a>
   - A date picker component package for iOS.
   <sup>
-   &#9733 0, pushed 22 days ago
+   &#9733 0, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bolav/fuse-dropbox">
+   Dropbox
+  </a>
+  - A Dropbox SDK package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-facebook-login">
@@ -780,8 +880,14 @@
   </a>
   - A Facebook login package.
   <sup>
-   &#9733 13, pushed 2 days ago
+   &#9733 13, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/danmademe/fuse-fontawesome">
+   FontAwesome
+  </a>
+  - A FontAwesome Package for icons
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-gallery">
@@ -789,16 +895,16 @@
   </a>
   - Package to get images from the gallery on Android and iOS.
   <sup>
-   &#9733 5, pushed 17 days ago
+   &#9733 5, pushed 142 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-homescreen">
-   HomeScreen
+   Home Screen
   </a>
   - An homescreen action package for the Android.
   <sup>
-   &#9733 0, pushed 10 days ago
+   &#9733 0, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -807,7 +913,7 @@
   </a>
   - A modal alert component package.
   <sup>
-   &#9733 2, pushed 22 days ago
+   &#9733 2, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -816,8 +922,14 @@
   </a>
   - A Sha1, HmacSha1, and OneTimePassword package.
   <sup>
-   &#9733 4, pushed 60 days ago
+   &#9733 4, pushed 184 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zean00/fuse-qreader">
+   Qreader
+  </a>
+  - A QR code reader package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-sqlite">
@@ -825,7 +937,7 @@
   </a>
   - A SQLite component package for preview, Android and iOS.
   <sup>
-   &#9733 19, pushed 20 days ago
+   &#9733 19, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +946,7 @@
   </a>
   - A TestFairy package for iOS.
   <sup>
-   &#9733 0, pushed 21 days ago
+   &#9733 0, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -843,8 +955,14 @@
   </a>
   - A package to use TouchID on iOS.
   <sup>
-   &#9733 4, pushed 21 days ago
+   &#9733 4, pushed 146 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bolav/fuse-whilevisibleinscrollview">
+   WhileVisibleInScrollView
+  </a>
+  - A WhileVisibleInScrollView UX trigger package.
  </li>
  <li>
   <a href="https://github.com/bolav/fuse-youtube">
@@ -852,7 +970,7 @@
   </a>
   - A YouTube component package.
   <sup>
-   &#9733 0, pushed 16 days ago
+   &#9733 0, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -866,7 +984,7 @@
   </a>
   - Integrate Fuse on Alfred.
   <sup>
-   &#9733 1, pushed 62 days ago
+   &#9733 1, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -875,7 +993,7 @@
   </a>
   - Atom Editor plugin for Fuse.
   <sup>
-   &#9733 22, pushed 35 days ago
+   &#9733 22, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -884,7 +1002,7 @@
   </a>
   - Simple bash completion script for UNO.
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -893,7 +1011,7 @@
   </a>
   - Emacs plugin for Fuse.
   <sup>
-   &#9733 2, pushed 65 days ago
+   &#9733 2, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -902,7 +1020,7 @@
   </a>
   - Sublime Text 3 plugin for Fuse.
   <sup>
-   &#9733 18, pushed 19 days ago
+   &#9733 18, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -911,7 +1029,7 @@
   </a>
   - Fuse Helper for Visual Studio Code.
   <sup>
-   &#9733 23, pushed 198 days ago
+   &#9733 23, pushed 323 days ago
   </sup>
  </li>
 </ul>
@@ -930,7 +1048,7 @@
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

@@ -121,7 +121,7 @@
  </li>
  <li>
   <a href="#equal-width-table-cells">
-   Equal Width Table Cells
+   Equal-Width Table Cells
   </a>
  </li>
  <li>
@@ -179,6 +179,15 @@
     :root
    </code>
    for Flexible Type
+  </a>
+ </li>
+ <li>
+  <a href="#set-font-size-on-form-elements-for-a-better-mobile-experience">
+   Set
+   <code>
+    font-size
+   </code>
+   on Form Elements for a Better Mobile Experience
   </a>
  </li>
 </ol>
@@ -244,6 +253,13 @@
  the intent is very clear and the CSS selector defines the border the way a human would describe it.
 </p>
 <p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/LkymvO">
+  <strong>
+   Demo
+  </strong>
+ </a>
+</p>
+<p>
  <sup>
   <a href="#table-of-contents">
    back to table of contents
@@ -287,7 +303,7 @@
  <code>
   css
 body {
-  line-height: 1;
+  line-height: 1.5;
 }
  </code>
 </p>
@@ -297,6 +313,13 @@ body {
   body
  </code>
  easily.
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/VjbdYd">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -321,10 +344,8 @@ html, body {
 <p>
  body {
   -webkit-align-items: center;
- <br/>
- -ms-flex-align: center;
- <br/>
- align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   display: -webkit-flex;
   display: flex;
 }
@@ -346,6 +367,13 @@ html, body {
   buggy behavior
  </a>
  with flexbox in IE11.
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/GqmGqZ">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -437,6 +465,13 @@ li:not(:nth-child(-n+3)) {
  Well that was pretty easy.
 </p>
 <p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/WxjKZp">
+  <strong>
+   Demo
+  </strong>
+ </a>
+</p>
+<p>
  <sup>
   <a href="#table-of-contents">
    back to table of contents
@@ -524,6 +559,13 @@ li:not(:nth-child(-n+3)) {
   A List Apart
  </em>
  .
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/grRvWq">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -619,7 +661,7 @@ html {
  </sup>
 </p>
 <h3>
- Equal Width Table Cells
+ Equal-Width Table Cells
 </h3>
 <p>
  Tables can be a pain to work with so try using
@@ -638,6 +680,13 @@ html {
 </p>
 <p>
  Pain-free table layouts.
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/jALALm">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -715,6 +764,13 @@ a[href^="http"]:empty::before {
 </p>
 <p>
  That's pretty convenient.
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/zBzXRx">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -797,8 +853,7 @@ a[href]:not([class]) {
 <p>
  .container div {
   border: 2px dashed #ddd;
- <br/>
- height: 100%;
+  height: 100%;
   left: 0;
   position: absolute;
   top: 0;
@@ -808,6 +863,13 @@ a[href]:not([class]) {
 </p>
 <p>
  Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/jALZvE">
+  <strong>
+   Demo
+  </strong>
+ </a>
 </p>
 <p>
  <sup>
@@ -825,7 +887,7 @@ a[href]:not([class]) {
 <p>
  <code>
   css
-img {  
+img {
   display: block;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -843,16 +905,14 @@ img {
 <p>
  ```css
 img:before {
- <br/>
- content: "We're sorry, the image below is broken :(";
+  content: "We're sorry, the image below is broken :(";
   display: block;
   margin-bottom: 10px;
 }
 </p>
 <p>
  img:after {
- <br/>
- content: "(url: " attr(src) ")";
+  content: "(url: " attr(src) ")";
   display: block;
   font-size: 12px;
 }
@@ -900,7 +960,7 @@ img:before {
 </p>
 <p>
  ```css
-h2 { 
+h2 {
   font-size: 2em;
 }
 </p>
@@ -1006,9 +1066,59 @@ video[autoplay]:not([muted]) {
  <code>
   css
 body {
-  font: 1em/1.6rem sans-serif;
+  font: 1em/1.6 sans-serif;
 }
  </code>
+</p>
+<p>
+ <a href="http://codepen.io/AllThingsSmitty/pen/XKgOkR">
+  <strong>
+   Demo
+  </strong>
+ </a>
+</p>
+<p>
+ <sup>
+  <a href="#table-of-contents">
+   back to table of contents
+  </a>
+ </sup>
+</p>
+<h3>
+ Set
+ <code>
+  font-size
+ </code>
+ on Form Elements for a Better Mobile Experience
+</h3>
+<p>
+ To avoid mobile browsers (iOS Safari,
+ <em>
+  et al
+ </em>
+ .) from zooming in on HTML form elements when a
+ <code>
+  <select>
+ </code>
+ drop-down is tapped, add
+ <code>
+  font-size
+ </code>
+ to the selector rule:
+</p>
+<p>
+ <code>
+  css
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+  font-size: 16px;
+}
+ </code>
+</p>
+<p>
+ :dancer:
 </p>
 <p>
  <sup>
@@ -1038,8 +1148,23 @@ body {
   </a>
  </li>
  <li>
+  <a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT">
+   Italiano
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP">
+   日本語
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR">
+   Português do Brasil
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU">
-   русский
+   Русский
   </a>
  </li>
  <li>

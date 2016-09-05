@@ -1,7 +1,7 @@
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      align="right"/>
 
-# Awesome ClojureScript 
+# Awesome ClojureScript
 
 ##### A community driven list of ClojureScript frameworks, libraries and wrappers.
 
@@ -28,21 +28,22 @@
   - [Validation](#validation)
   - [Web Framework & Template](#web-framework--template)
   - [Web Socket](#web-socket)
- 
+
 
 - [Contributing](#contributing)
 - [License](#license)
 
-* * * 
+* * *
 
 
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
+- [Quamolit](https://github.com/Quamolit/quamolit) - A tiny declarative animation library , inspired by React.
 
 
 ### Client/Server Communication
+- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) - A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
-
 
 ### Data Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
@@ -115,8 +116,9 @@
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) -  Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
+- [Respo](https://github.com/mvc-works/respo) - A **Respo**nsive DOM library, inspired by React.
+- [Sepal.clj](https://github.com/Cirru/sepal.clj) - A library to generate Clojure code from a vector of strings and vectors with macro system.
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
-
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.

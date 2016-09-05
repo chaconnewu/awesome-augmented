@@ -30,10 +30,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Desktop](#desktop)
 - [Dotfiles](#dotfiles)
 - [Editors](#editors)
+  - [Atom](#atom)
   - [Sublime Text](#sublime)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Orchestration](#orchestration)
 - [Presentation](#presentation)
 - [Shell](#shell)
 - [Text](#text)
@@ -96,6 +98,18 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Editors
 *Only awesome tools and addons for your favorite editor*
 
+### Atom
+
+* [atom-beautify](https://github.com/Glavin001/atom-beautify) - Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.
+* [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping.
+* [highlight-selected](https://github.com/richrace/highlight-selected) - Double click on a word to highlight it throughout the open file.
+* [minimap](https://github.com/atom-minimap/minimap) - A graphical map (preview) of the full source code.
+* [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) - A minimap binding for the Atom git-diff package.
+* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
+* [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - Get easy access to all your projects and manage them with project specific settings and options.
+* [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) - Show the Git repository status in the Atom tree-view.
+* [atom-pigments](https://github.com/abe33/atom-pigments) - An Atom package to display colors in project and files.
+
 ### Vim
 
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
@@ -135,7 +149,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
+* [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
 
+## Orchestration
+*Tools for orchestrating awesome development environments*
+
+* [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 
 ## Presentation
 *Tools for presenting your work*
@@ -197,3 +216,4 @@ to `/home/Users/yourself/projects`.
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
+* [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.

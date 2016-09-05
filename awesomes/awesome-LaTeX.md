@@ -322,6 +322,13 @@
   - Commercial LaTeX editor with handwritten formula recognition, Excel importing and more nifty features.
   <img alt="Windows" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg"/>
  </li>
+ <li>
+  <a href="https://www.texpadapp.com">
+   Texpad
+  </a>
+  - Commercial LaTeX editor for OS X and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices...) that never get in the way of writing.
+  <img alt="Mac" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg"/>
+ </li>
 </ul>
 <h3>
  General purpose text editors
@@ -373,7 +380,7 @@
     - Free LaTeX plugin for Sublime Text.
     <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
     <sup>
-     &#9733 1172, pushed 2 days ago
+     &#9733 1172, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -422,7 +429,7 @@
     - Instantly previews your LaTeX document.
     <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
     <sup>
-     &#9733 127, pushed 48 days ago
+     &#9733 127, pushed 172 days ago
     </sup>
    </li>
   </ul>
@@ -529,6 +536,12 @@
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/Alexis-benoist/CaTeX">
+   CaTeX
+  </a>
+  - Concatenates LaTeX documents with attention for properly merging the preamble.
+ </li>
+ <li>
   <a href="http://pandoc.org">
    Pandoc
   </a>
@@ -596,7 +609,7 @@
   <img alt="Linux" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg"/>
   <img alt="foss" src="https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg"/>
   <sup>
-   &#9733 59, pushed 474 days ago
+   &#9733 59, pushed 599 days ago
   </sup>
  </li>
  <li>
@@ -723,6 +736,12 @@ Typically, it is easier to get to work with
    A very minimal introduction to TikZ (PDF)
   </a>
   - A short introductory document to the world of TikZ, written by Jacques Crémer.
+ </li>
+ <li>
+  <a href="https://github.com/PetarV-/TikZ">
+   PetarV-/TikZ
+  </a>
+  - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
  </li>
 </ul>
 <h2>

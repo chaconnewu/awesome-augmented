@@ -103,6 +103,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
   1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
+  1. [Async Remote](http://blog.arkency.com/async-remote/)
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
@@ -120,6 +121,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
+  1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
@@ -197,19 +199,22 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
-  1. [Close.io](http://close.io/) - CRM (python)
+  1. [Clevertech](https://clevertech.biz/) - We build incredible, game changing technology.
+  2. [Close.io](http://close.io/) - CRM (python)
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [Crossover] (https://www.crossover.com/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+  1. [Deeson] (https://www.deeson.co.uk/careers) - UK-based w/European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Doximity](https://doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Envato](http://www.envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
+  1. [Findify](http://findify.io/careers/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
   1. [Fire Engine Red](http://fire-engine-red.com/about/#careers) - SaaS for higher education. Maker of Fireworks.
   1. [Fog Creek](http://www.fogcreek.com/careers/) - NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT)
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
@@ -221,11 +226,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+  1. [Help Scout](https://www.helpscout.net/careers) - A help desk for teams that insist on a delightful customer experience.
   1. [HE:labs](http://helabs.com/us/)
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
   1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany
+  1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) - Cloud Monitoring.
@@ -249,7 +256,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
-  1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
+  1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
   1. [RightScale](http://www.rightscale.com/jobs)
@@ -259,7 +266,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Soostone](http://www.soostone.com/careers)
-  1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [Surevine](https://www.surevine.com/jobs)
@@ -298,6 +304,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Tools
 #### Communication
+  - [Zoom](http://zoom.us) high-quality group video and sharing screen, run on linux, record session and support telephone calls.
   - [Appear.in](https://appear.in/) browser-based, pluginless group video calls
   - [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
   - [Codeshare.io](http://codeshare.io/) browser-based mult-user live code sharing with optional video chat
@@ -311,7 +318,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Skype](http://www.skype.com/en/) video calls
   - [Slack](https://slack.com/) chat system with loads of integration options
-  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
 
 #### Project Management

@@ -1,6 +1,6 @@
-<p>
- ﻿# Awesome .NET!
-</p>
+<h1>
+ Awesome .NET!
+</h1>
 <p>
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
@@ -60,6 +60,11 @@
    </a>
   </p>
   <ul>
+   <li>
+    <a href="#algorithms-and-data-structures">
+     Algorithms and Data structures
+    </a>
+   </li>
    <li>
     <a href="#api">
      API
@@ -183,6 +188,11 @@
    <li>
     <a href="#documentation">
      Documentation
+    </a>
+   </li>
+   <li>
+    <a href="#exceptions">
+     Exceptions
     </a>
    </li>
    <li>
@@ -449,10 +459,26 @@
  </li>
  <li>
   <p>
-   <a href="#other-awesome-lists">
-    Other Awesome Lists
+   <a href="#resources">
+    Resources
    </a>
   </p>
+ </li>
+ <li>
+  <a href="#other-awesome-lists">
+   Other Awesome Lists
+  </a>
+ </li>
+</ul>
+<h2>
+ Algorithms and Data structures
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/SolutionsDesign/Algorithmia">
+   Algorithmia
+  </a>
+  - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
  </li>
 </ul>
 <h2>
@@ -465,7 +491,7 @@
   </a>
   - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
   <sup>
-   &#9733 4010, pushed 3 days ago
+   &#9733 4010, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -486,7 +512,7 @@
   </a>
   - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
   <sup>
-   &#9733 261, pushed 2 days ago
+   &#9733 261, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +521,7 @@
   </a>
   - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
   <sup>
-   &#9733 3335, pushed 4 days ago
+   &#9733 3335, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -504,7 +530,7 @@
   </a>
   - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
   <sup>
-   &#9733 50, pushed 38 days ago
+   &#9733 50, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +539,7 @@
   </a>
   - Collection of open source projects to help improve your work with ASP.NET Web API
   <sup>
-   &#9733 522, pushed 76 days ago
+   &#9733 522, pushed 200 days ago
   </sup>
  </li>
 </ul>
@@ -527,7 +553,7 @@
   </a>
   - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
   <sup>
-   &#9733 1361, pushed 2 days ago
+   &#9733 1361, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -536,7 +562,7 @@
   </a>
   - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
   <sup>
-   &#9733 1750, pushed 2 days ago
+   &#9733 1750, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -545,7 +571,7 @@
   </a>
   -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
   <sup>
-   &#9733 9608, pushed 2 days ago
+   &#9733 9608, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -554,7 +580,7 @@
   </a>
   - business layer development framework http://cslanet.com/
   <sup>
-   &#9733 301, pushed 4 days ago
+   &#9733 301, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -563,7 +589,7 @@
   </a>
   - Mono open source ECMA CLI, C# and .NET implementation
   <sup>
-   &#9733 4582, pushed 4 days ago
+   &#9733 4582, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -572,7 +598,7 @@
   </a>
   - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
   <sup>
-   &#9733 100, pushed 42 days ago
+   &#9733 100, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -581,7 +607,7 @@
   </a>
   - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
   <sup>
-   &#9733 135, pushed 17 days ago
+   &#9733 135, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -590,8 +616,14 @@
   </a>
   - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
   <sup>
-   &#9733 282, pushed 160 days ago
+   &#9733 282, pushed 285 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Azure/DotNetty">
+   DotNetty
+  </a>
+  - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
  </li>
 </ul>
 <h2>
@@ -599,12 +631,18 @@
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/kriasoft/aspnet-starter-kit">
+   ASP.NET Core Starter Kit
+  </a>
+  - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
+ </li>
+ <li>
   <a href="https://github.com/NonFactors/MVC5.Template">
    MVC.Template
   </a>
   - ASP.NET MVC 5 project starter template
   <sup>
-   &#9733 85, pushed 2 days ago
+   &#9733 85, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -613,7 +651,7 @@
   </a>
   - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
   <sup>
-   &#9733 313, pushed 4 days ago
+   &#9733 313, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -622,7 +660,7 @@
   </a>
   - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service based architecture. Serene is a starter template to build Serenity applications.
   <sup>
-   &#9733 261, pushed 3 days ago
+   &#9733 261, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -631,7 +669,7 @@
   </a>
   - Large collection of useful templates for Web and Desktop development.
   <sup>
-   &#9733 516, pushed 14 days ago
+   &#9733 516, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -640,7 +678,7 @@
   </a>
   - Windows 10 templates with design patterns.
   <sup>
-   &#9733 836, pushed 4 days ago
+   &#9733 836, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -671,7 +709,7 @@
   </a>
   - dnSpy is a .NET assembly editor, decompiler, and debugger forked from ILSpy.
   <sup>
-   &#9733 687, pushed 22 days ago
+   &#9733 687, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -680,7 +718,7 @@
   </a>
   - Extensible tool for weaving .net assemblies
   <sup>
-   &#9733 996, pushed 23 days ago
+   &#9733 996, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -689,7 +727,7 @@
   </a>
   - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
   <sup>
-   &#9733 646, pushed 3 days ago
+   &#9733 646, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -703,7 +741,7 @@
   </a>
   - Manages .NET web application assets (scripts, css and templates)
   <sup>
-   &#9733 506, pushed 217 days ago
+   &#9733 506, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -712,7 +750,7 @@
   </a>
   - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
   <sup>
-   &#9733 15, pushed 545 days ago
+   &#9733 15, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -731,7 +769,7 @@
   </a>
   - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
   <sup>
-   &#9733 250, pushed 57 days ago
+   &#9733 250, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -744,7 +782,7 @@
   </em>
   bundle some css and javascript
   <sup>
-   &#9733 469, pushed 5 days ago
+   &#9733 469, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -764,7 +802,7 @@
   </a>
   - A C# implementation of the OpenID, OAuth and InfoCard protocols
   <sup>
-   &#9733 1129, pushed 39 days ago
+   &#9733 1129, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -790,13 +828,16 @@
   - Extensible OAuth2 and OpenID Connect provider framework.
  </li>
  <li>
-  <a href="https://github.com/danielcrenna/oauth">
+  <a href="https://github.com/danielcrenna/vault/tree/master/oauth">
    OAuth
   </a>
   - A very lightweight library for generating OAuth 1.0a signatures written in C#
-  <sup>
-   &#9733 95, pushed 989 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="http://rimdev.io/stuntman/">
+   Stuntman
+  </a>
+  - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
  </li>
 </ul>
 <h2>
@@ -809,7 +850,7 @@
   </a>
   - .NET-based build automation tool written in PowerShell
   <sup>
-   &#9733 773, pushed 7 days ago
+   &#9733 773, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -818,7 +859,7 @@
   </a>
   - F# Make, a cross platform build automation system
   <sup>
-   &#9733 581, pushed 1 days ago
+   &#9733 581, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -827,7 +868,7 @@
   </a>
   - PowerShell build and test automation tool inspired by Psake.
   <sup>
-   &#9733 75, pushed 3 days ago
+   &#9733 75, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -836,7 +877,7 @@
   </a>
   - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
   <sup>
-   &#9733 2547, pushed 1 days ago
+   &#9733 2547, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -845,8 +886,14 @@
   </a>
   - Cake (C# Make) is a cross platform build automation system with a C# DSL.
   <sup>
-   &#9733 538, pushed 2 days ago
+   &#9733 538, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/yevhen/Nake">
+   Nake
+  </a>
+  - Magic script-based C# task runner
  </li>
 </ul>
 <h2>
@@ -859,7 +906,7 @@
   </a>
   - An ASP.NET Web API HTTP caching implementation both on client and server
   <sup>
-   &#9733 374, pushed 28 days ago
+   &#9733 374, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -868,7 +915,7 @@
   </a>
   - An asynchronous, persistent key-value store
   <sup>
-   &#9733 1156, pushed 27 days ago
+   &#9733 1156, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -877,8 +924,20 @@
   </a>
   - A common interface and abstraction layer for caching.
   <sup>
-   &#9733 249, pushed 29 days ago
+   &#9733 249, pushed 153 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://bitbucket.org/glav/cacheadapter">
+   CacheAdapter
+  </a>
+  - Another common cache abstraction layer for caching with enhanced cache API usage.
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Foundatio#caching">
+   Foundatio
+  </a>
+  - A common interface with in memory, redis and hybrid implementations.
  </li>
 </ul>
 <h2>
@@ -891,7 +950,7 @@
   </a>
   - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks
   <sup>
-   &#9733 854, pushed 15 days ago
+   &#9733 854, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -900,7 +959,7 @@
   </a>
   - A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface
   <sup>
-   &#9733 170, pushed 28 days ago
+   &#9733 170, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -909,17 +968,23 @@
   </a>
   - PowerArgs converts command line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
   <sup>
-   &#9733 198, pushed 9 days ago
+   &#9733 198, pushed 134 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/fsprojects/Argu">
-   UnionArgParser
+   Argu
   </a>
   - Declarative CLI argument & XML configuration parser for F# applications.
   <sup>
-   &#9733 102, pushed 21 days ago
+   &#9733 102, pushed 146 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.appccelerate.com/commandlineparser.html">
+   Appccelerate - Command Line Parser
+  </a>
+  - A command line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition
  </li>
 </ul>
 <h2>
@@ -932,7 +997,7 @@
   </a>
   - The coreclr repo contains the complete runtime implementation (called "CoreCLR") for .NET Core. It includes RyuJIT, the .NET GC, native interop and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
   <sup>
-   &#9733 6272, pushed 1 days ago
+   &#9733 6272, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -946,7 +1011,7 @@
   </a>
   - A web CMS that focus on UX and adaptability
   <sup>
-   &#9733 73, pushed 7 days ago
+   &#9733 73, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -967,7 +1032,7 @@
   </a>
   - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
   <sup>
-   &#9733 863, pushed 3 days ago
+   &#9733 863, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +1041,7 @@
   </a>
   - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. http://piranhacms.org
   <sup>
-   &#9733 289, pushed 74 days ago
+   &#9733 289, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -985,8 +1050,20 @@
   </a>
   - Umbraco is a free open source Content Management System built on the ASP.NET platform
   <sup>
-   &#9733 1190, pushed 3 days ago
+   &#9733 1190, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.bettercms.com">
+   BetterCMS
+  </a>
+  - Open Source .NET Intuitive User Interface for Developer and Publisher
+ </li>
+ <li>
+  <a href="http://www.dnnsoftware.com/community/download">
+   DotNetNuke
+  </a>
+  - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
  </li>
 </ul>
 <h2>
@@ -1011,17 +1088,14 @@
   </a>
   - Extensible rule-based tool to find problems in .NET applications and libraries
   <sup>
-   &#9733 49, pushed 1924 days ago
+   &#9733 49, pushed 2049 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/danielcrenna/metrics-net">
+  <a href="https://github.com/Recognos/Metrics.NET">
    Metrics-Net
   </a>
   - Capturing CLR and application-level metrics. So you know what's going on.
-  <sup>
-   &#9733 435, pushed 364 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/PerfDotNet/BenchmarkDotNet">
@@ -1029,7 +1103,7 @@
   </a>
   - Powerful .NET library for benchmarking.
   <sup>
-   &#9733 958, pushed 2 days ago
+   &#9733 958, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1043,7 +1117,7 @@
   </a>
   - Open Source C# to JavaScript Compiler http://bridge.net/
   <sup>
-   &#9733 478, pushed 2 days ago
+   &#9733 478, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1052,7 +1126,7 @@
   </a>
   - A port of Clojure to the CLR, part of the Clojure project
   <sup>
-   &#9733 702, pushed 100 days ago
+   &#9733 702, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -1073,7 +1147,7 @@
   </a>
   - R6RS Scheme compiler, runtime and many standard libraries
   <sup>
-   &#9733 98, pushed 14 days ago
+   &#9733 98, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1082,7 +1156,7 @@
   </a>
   - CIL to Javascript Compiler http://jsil.org/
   <sup>
-   &#9733 1158, pushed 1 days ago
+   &#9733 1158, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1091,7 +1165,7 @@
   </a>
   - Visual Basic Compiler and Runtime
   <sup>
-   &#9733 34, pushed 67 days ago
+   &#9733 34, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -1100,7 +1174,7 @@
   </a>
   - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system. http://nemerle.org/About
   <sup>
-   &#9733 361, pushed 29 days ago
+   &#9733 361, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -1109,7 +1183,7 @@
   </a>
   - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
   <sup>
-   &#9733 516, pushed 6 days ago
+   &#9733 516, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1118,7 +1192,7 @@
   </a>
   - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
   <sup>
-   &#9733 5030, pushed 2 days ago
+   &#9733 5030, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1127,17 +1201,20 @@
   </a>
   - The Visual F# compiler and tools
   <sup>
-   &#9733 706, pushed 2 days ago
+   &#9733 706, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fsprojects/Fable">
+  <a href="https://github.com/fable-compiler/Fable">
    Fable
   </a>
   - F# to JavaScript Compiler
-  <sup>
-   &#9733 211, pushed 0 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nessos/LinqOptimizer">
+   LinqOptimizer
+  </a>
+  - An automatic query optimizer-compiler for Sequential and Parallel LINQ
  </li>
 </ul>
 <h2>
@@ -1150,7 +1227,7 @@
   </a>
   - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
   <sup>
-   &#9733 233, pushed 26 days ago
+   &#9733 233, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -1166,7 +1243,7 @@
   </a>
   )
   <sup>
-   &#9733 69, pushed 1 days ago
+   &#9733 69, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1174,6 +1251,18 @@
    SharpZipLib
   </a>
   - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
+ </li>
+ <li>
+  <a href="https://snappy.angeloflogic.com">
+   Snappy for Windows
+  </a>
+  - Snappy compression library for .NET baked on PInvoke
+ </li>
+ <li>
+  <a href="https://github.com/jeffesp/Snappy.Sharp">
+   Snappy.Sharp
+  </a>
+  - An implementation of Google's Snappy compression algorithm in C#.
  </li>
 </ul>
 <h2>
@@ -1212,7 +1301,7 @@
   </strong>
  </li>
  <li>
-  <a href="http://www.appveyor.com/">
+  <a href="https://www.appveyor.com/">
    AppVeyor
   </a>
   - .NET Continuous Integration and Deployment as a service.
@@ -1246,8 +1335,14 @@
   </a>
   - libsodium for .NET - A secure cryptographic library
   <sup>
-   &#9733 124, pushed 14 days ago
+   &#9733 124, pushed 139 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Pkcs11Interop/Pkcs11Interop">
+   Pkcs11Interop
+  </a>
+  - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
  </li>
  <li>
   <a href="https://github.com/bitbeans/StreamCryptor">
@@ -1255,7 +1350,7 @@
   </a>
   - Stream encryption & decryption with libsodium and protobuf
   <sup>
-   &#9733 34, pushed 43 days ago
+   &#9733 34, pushed 168 days ago
   </sup>
  </li>
 </ul>
@@ -1269,7 +1364,7 @@
   </a>
   - BrightstarDB is a native .NET RDF triple store
   <sup>
-   &#9733 257, pushed 83 days ago
+   &#9733 257, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -1278,7 +1373,7 @@
   </a>
   - The open-source, functional database with Complex Event Processing in JavaScript. https://geteventstore.com
   <sup>
-   &#9733 1450, pushed 3 days ago
+   &#9733 1450, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1287,7 +1382,7 @@
   </a>
   - A .NET NoSQL Document Store in a single data file - http://www.litedb.org
   <sup>
-   &#9733 552, pushed 7 days ago
+   &#9733 552, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1296,8 +1391,26 @@
   </a>
   - A linq enabled document database for .NET
   <sup>
-   &#9733 1498, pushed 15 days ago
+   &#9733 1498, pushed 140 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JasperFx/marten">
+   Marten
+  </a>
+  - Postgresql as a Document Database and Event Store for .Net Applications
+ </li>
+ <li>
+  <a href="https://github.com/yevhen/Streamstone">
+   Streamstone
+  </a>
+  - Event store for Azure Table Storage
+ </li>
+ <li>
+  <a href="https://github.com/apache/ignite">
+   Ignite
+  </a>
+  - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
  </li>
 </ul>
 <h2>
@@ -1316,7 +1429,7 @@
   </a>
   - .Net data provider for Postgresql
   <sup>
-   &#9733 747, pushed 2 days ago
+   &#9733 747, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1325,7 +1438,7 @@
   </a>
   - Official MongoDB C# Driver
   <sup>
-   &#9733 1330, pushed 4 days ago
+   &#9733 1330, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1340,7 +1453,7 @@
   </a>
   - .NET's leading C# Redis Client
   <sup>
-   &#9733 997, pushed 1 days ago
+   &#9733 997, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1349,7 +1462,7 @@
   </a>
   - General purpose redis client from StackExchange
   <sup>
-   &#9733 1308, pushed 8 days ago
+   &#9733 1308, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1358,7 +1471,7 @@
   </a>
   - DataStax .NET Driver for Apache Cassandra
   <sup>
-   &#9733 171, pushed 4 days ago
+   &#9733 171, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1367,7 +1480,7 @@
   </a>
   - Official couchbase .NET client library, based on the Enyim memcached client
   <sup>
-   &#9733 141, pushed 7 days ago
+   &#9733 141, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1387,7 +1500,7 @@
   </a>
   - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. http://nodatime.org/
   <sup>
-   &#9733 319, pushed 3 days ago
+   &#9733 319, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1396,8 +1509,14 @@
   </a>
   - Common Date Time operations on the form of extensions to System.DateTime, including holidays and working days calculations on several culture locales.
   <sup>
-   &#9733 53, pushed 60 days ago
+   &#9733 53, pushed 184 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Exceptionless.DateTimeExtensions">
+   Exceptionless.DateTimeExtensions
+  </a>
+  - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
  </li>
 </ul>
 <h2>
@@ -1419,7 +1538,7 @@
    JustDecompile
   </a>
   <sup>
-   &#9733 622, pushed 6 days ago
+   &#9733 622, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -1433,7 +1552,7 @@
   </a>
   - Powershell-based deployment solution for .net web applications
   <sup>
-   &#9733 96, pushed 571 days ago
+   &#9733 96, pushed 696 days ago
   </sup>
  </li>
  <li>
@@ -1442,7 +1561,7 @@
   </a>
   - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
   <sup>
-   &#9733 317, pushed 5 days ago
+   &#9733 317, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -1462,7 +1581,7 @@
   </a>
   - SharpDX is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
   <sup>
-   &#9733 557, pushed 42 days ago
+   &#9733 557, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -1477,13 +1596,47 @@
   - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
  </li>
  <li>
+  <a href="https://github.com/OrleansContrib/Orleankka">
+   Orleankka
+  </a>
+  - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API avaiable for F# called Orleankka.FSharp.
+ </li>
+ <li>
   <a href="https://github.com/akkadotnet/akka.net">
    Akka.net
   </a>
   - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
   <sup>
-   &#9733 1672, pushed 2 days ago
+   &#9733 1672, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Abc-Arbitrage/Zebus">
+   Zebus
+  </a>
+  - Zebus is a lightweight, higlhy versatile, peer to peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
+ </li>
+ <li>
+  <a href="https://github.com/Prolucid/FsShelter">
+   FsShelter
+  </a>
+  - F# library for authoring
+  <a href="https://storm.apache.org">
+   Apache Storm
+  </a>
+  components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Foundatio">
+   Foundatio
+  </a>
+  - Pluggable foundation blocks for building distributed apps.
+ </li>
+ <li>
+  <a href="http://mbrace.io/">
+   MBrace
+  </a>
+  - Integrated Data Scripting for the Cloud
  </li>
 </ul>
 <h2>
@@ -1491,7 +1644,7 @@
 </h2>
 <ul>
  <li>
-  <a href="http://shfb.codeplex.com/">
+  <a href="https://github.com/EWSoftware/SHFB">
    Sandcastle
   </a>
   - Sandcastle Help File Builder similar to NDoc
@@ -1502,7 +1655,7 @@
   </a>
   - A c# documentation tool
   <sup>
-   &#9733 91, pushed 7 days ago
+   &#9733 91, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1511,7 +1664,7 @@
   </a>
   - Source browser website generator that powers http://referencesource.microsoft.com and http://source.roslyn.io
   <sup>
-   &#9733 217, pushed 18 days ago
+   &#9733 217, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1520,7 +1673,7 @@
   </a>
   - Seamlessly adds a swagger to WebApi projects!
   <sup>
-   &#9733 1009, pushed 5 days ago
+   &#9733 1009, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1535,8 +1688,25 @@
   </a>
   - Tools for building and publishing API documentation for .NET projects
   <sup>
-   &#9733 322, pushed 5 days ago
+   &#9733 322, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/FransBouma/DocNet">
+   DocNet
+  </a>
+  - Your friendly static documentation generator, using markdown files to build the content.
+ </li>
+</ul>
+<h2>
+ Exceptions
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/exceptionless/Exceptionless.Net">
+   Exceptionless
+  </a>
+  - Exceptionless .NET Client
  </li>
 </ul>
 <h2>
@@ -1549,11 +1719,11 @@
   </a>
   - Official Paypal Merchant SDK for .NET
   <sup>
-   &#9733 37, pushed 104 days ago
+   &#9733 37, pushed 229 days ago
   </sup>
  </li>
  <li>
-  <a href="https://nopcommerce.codeplex.com/">
+  <a href="https://github.com/nopSolutions/nopCommerce">
    NopCommerce
   </a>
   - nopCommerce. Free open-source ecommerce shopping cart (ASP.NET MVC)
@@ -1564,16 +1734,16 @@
   </a>
   - Typed .NET clients for stripe.com REST APIs
   <sup>
-   &#9733 57, pushed 12 days ago
+   &#9733 57, pushed 137 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/smartstoreag/SmartStoreNET">
    SmartStoreNET
   </a>
-  - Free ASP.NET MVC Ecommerce Shopping Cart Solution http://www.smartstore.com/net/en
+  - Free ASP.NET MVC Ecommerce Shopping Cart Solution https://www.smartstore.com/en/net
   <sup>
-   &#9733 504, pushed 1 days ago
+   &#9733 504, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1582,7 +1752,7 @@
   </a>
   - Stripe.net is a full service .net api for https://stripe.com/
   <sup>
-   &#9733 462, pushed 8 days ago
+   &#9733 462, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1591,17 +1761,14 @@
   </a>
   - BeYourMarket is a peer-to-peer marketplace framework http://beyourmarket.com
   <sup>
-   &#9733 113, pushed 76 days ago
+   &#9733 113, pushed 201 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/VirtoCommerce/vc-community">
+  <a href="https://github.com/VirtoCommerce/vc-platform">
    Virto Commerce
   </a>
-  - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. http://virtocommerce.com
-  <sup>
-   &#9733 344, pushed 5 days ago
-  </sup>
+  - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
  </li>
 </ul>
 <h2>
@@ -1609,13 +1776,10 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/aspnet/dnvm">
-   DNVM
+  <a href="https://github.com/dotnet/cli">
+   Dotnet CLI
   </a>
-  - The .NET SDK Manager, a set of command line utilities to update and configure which runtime (DNX) to use.
-  <sup>
-   &#9733 187, pushed 38 days ago
-  </sup>
+  - The cross-platform .NET Core command line toolchain utility.
  </li>
 </ul>
 <h2>
@@ -1634,13 +1798,10 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/mono/MonoGame">
+  <a href="https://github.com/MonoGame/MonoGame">
    MonoGame
   </a>
   - One framework for creating powerful cross-platform games
-  <sup>
-   &#9733 3434, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mono/CocosSharp">
@@ -1648,7 +1809,7 @@
   </a>
   - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
   <sup>
-   &#9733 332, pushed 15 days ago
+   &#9733 332, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1657,7 +1818,7 @@
   </a>
   - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
   <sup>
-   &#9733 531, pushed 2 days ago
+   &#9733 531, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1674,6 +1835,18 @@
   <strong>
    [Free][Proprietary]
   </strong>
+ </li>
+ <li>
+  <a href="https://github.com/xamarin/urho">
+   UrhoSharp
+  </a>
+  - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+ </li>
+ <li>
+  <a href="https://github.com/prime31/Nez">
+   Nez
+  </a>
+  - Nez is a free 2D focused framework that works with MonoGame and FNA
  </li>
 </ul>
 <h2>
@@ -1703,7 +1876,7 @@
   </a>
   - Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. https://bonobogitserver.com/
   <sup>
-   &#9733 840, pushed 6 days ago
+   &#9733 840, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1712,7 +1885,7 @@
   </a>
   - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. http://gitextensions.github.io/
   <sup>
-   &#9733 1630, pushed 2 days ago
+   &#9733 1630, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1721,7 +1894,7 @@
   </a>
   - let's users step through their code hosted on GitHub or BitBucket
   <sup>
-   &#9733 209, pushed 37 days ago
+   &#9733 209, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1730,7 +1903,7 @@
   </a>
   - Generate a Semantic Version Number based on the state of your Git Repository
   <sup>
-   &#9733 414, pushed 4 days ago
+   &#9733 414, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1739,7 +1912,7 @@
   </a>
   - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
   <sup>
-   &#9733 981, pushed 6 days ago
+   &#9733 981, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1748,7 +1921,7 @@
   </a>
   - NGit is a port of JGit to C#
   <sup>
-   &#9733 221, pushed 82 days ago
+   &#9733 221, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -1757,8 +1930,14 @@
   </a>
   - A PowerShell environment for Git
   <sup>
-   &#9733 1762, pushed 5 days ago
+   &#9733 1762, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Microsoft/Git-Credential-Manager-for-Windows">
+   Git Credential Manager for Windows
+  </a>
+  - Helps solving issues of credentials, made by Microsoft
  </li>
 </ul>
 <h2>
@@ -1783,8 +1962,14 @@
   </a>
   - NGraphics is a cross-platform library for rendering vector graphics on .NET
   <sup>
-   &#9733 238, pushed 78 days ago
+   &#9733 238, pushed 203 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/beto-rodriguez/Live-Charts">
+   Live-Charts
+  </a>
+  - An Animated, MVVM oriented and modern charting library
  </li>
 </ul>
 <h2>
@@ -1797,7 +1982,7 @@
   </a>
   - Toolkit for creating Metro styled WPF apps
   <sup>
-   &#9733 2273, pushed 2 days ago
+   &#9733 2273, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1806,7 +1991,7 @@
   </a>
   - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
   <sup>
-   &#9733 342, pushed 312 days ago
+   &#9733 342, pushed 437 days ago
   </sup>
  </li>
  <li>
@@ -1827,7 +2012,7 @@
   </a>
   - The WPF-based text editor component used in SharpDevelop
   <sup>
-   &#9733 261, pushed 8 days ago
+   &#9733 261, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1836,7 +2021,7 @@
   </a>
   - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
   <sup>
-   &#9733 716, pushed 4 days ago
+   &#9733 716, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1845,7 +2030,7 @@
   </a>
   - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
   <sup>
-   &#9733 190, pushed 2 days ago
+   &#9733 190, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1854,7 +2039,7 @@
   </a>
   - Toolkit for creating Material styled WPF apps
   <sup>
-   &#9733 1376, pushed 2 days ago
+   &#9733 1376, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1863,7 +2048,7 @@
   </a>
   - Cross platform GUI framework for desktop and mobile applications in .NET and Mono
   <sup>
-   &#9733 557, pushed 1 days ago
+   &#9733 557, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1872,7 +2057,7 @@
   </a>
   - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
   <sup>
-   &#9733 357, pushed 22 days ago
+   &#9733 357, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1881,17 +2066,20 @@
   </a>
   - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
   <sup>
-   &#9733 337, pushed 4 days ago
+   &#9733 337, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Perspex/Perspex">
+  <a href="http://officeribbon.codeplex.com/">
+   Office Ribbon
+  </a>
+  - A library that implements MS Office Ribbon for WinForms.
+ </li>
+ <li>
+  <a href="https://github.com/AvaloniaUI/Avalonia">
    Perspex
   </a>
   - A multi-platform .NET UI framework.
-  <sup>
-   &#9733 952, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/IgnaceMaes/MaterialSkin">
@@ -1899,7 +2087,7 @@
   </a>
   - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
   <sup>
-   &#9733 582, pushed 51 days ago
+   &#9733 582, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -1908,8 +2096,29 @@
   </a>
   - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
   <sup>
-   &#9733 489, pushed 2 days ago
+   &#9733 489, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MISoftware/SciterSharp">
+   SciterSharp
+  </a>
+  - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, <video>... Sciter is free for commercial use
+ </li>
+ <li>
+  <a href="http://emptykeys.com/ui_library">
+   Empty Keys UI
+  </a>
+  - Multi-platform and multi-engine XAML based user interface library
+  <strong>
+   [Free][Proprietary]
+  </strong>
+ </li>
+ <li>
+  <a href="https://github.com/Microsoft/UWPCommunityToolkit">
+   UWP Community Toolkit
+  </a>
+  - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
  </li>
 </ul>
 <h2>
@@ -1922,7 +2131,7 @@
   </a>
   - Complete HTML5 DOM and CSS3 OM construction
   <sup>
-   &#9733 742, pushed 5 days ago
+   &#9733 742, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1931,7 +2140,7 @@
   </a>
   - HTML5 parser with jQuery style DOM interaction
   <sup>
-   &#9733 832, pushed 105 days ago
+   &#9733 832, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -1940,7 +2149,7 @@
   </a>
   - .NET Port of the ruby Less CSS lib http://www.dotlesscss.org
   <sup>
-   &#9733 631, pushed 35 days ago
+   &#9733 631, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -1949,7 +2158,7 @@
   </a>
   - CSS3 parser Library for C#
   <sup>
-   &#9733 94, pushed 222 days ago
+   &#9733 94, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -1970,7 +2179,7 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/relentless/Http.fs">
+  <a href="https://github.com/haf/Http.fs">
    Http.fs
   </a>
   - A functional HTTP client for
@@ -1978,9 +2187,6 @@
    [F#]
   </code>
   .
-  <sup>
-   &#9733 98, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/restsharp/RestSharp">
@@ -1988,7 +2194,7 @@
   </a>
   - Simple REST and HTTP API Client for .NET
   <sup>
-   &#9733 3394, pushed 6 days ago
+   &#9733 3394, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2003,7 +2209,7 @@
   </a>
   - Http Library for C#
   <sup>
-   &#9733 331, pushed 27 days ago
+   &#9733 331, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2012,7 +2218,7 @@
   </a>
   - The automatic type-safe REST library for Xamarin and .NET
   <sup>
-   &#9733 812, pushed 22 days ago
+   &#9733 812, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2021,7 +2227,7 @@
   </a>
   - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
   <sup>
-   &#9733 37, pushed 22 days ago
+   &#9733 37, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -2035,7 +2241,7 @@
   </a>
   - A free IDE for .NET programming languages
   <sup>
-   &#9733 889, pushed 5 days ago
+   &#9733 889, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2044,7 +2250,7 @@
   </a>
   - MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
   <sup>
-   &#9733 1602, pushed 2 days ago
+   &#9733 1602, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2070,6 +2276,12 @@
    Visual Studio Code
   </a>
   - Excellent free editor from Microsoft, based on GitHub Atom.
+ </li>
+ <li>
+  <a href="http://ionide.io/">
+   Ionide
+  </a>
+  - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
  </li>
 </ul>
 <h2>
@@ -2100,7 +2312,7 @@
   </a>
   - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
   <sup>
-   &#9733 36, pushed 3 days ago
+   &#9733 36, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2115,8 +2327,14 @@
   </a>
   - Minimalistic .NET imaging portable platform
   <sup>
-   &#9733 145, pushed 17 days ago
+   &#9733 145, pushed 142 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://magick.codeplex.com">
+   Magick.NET
+  </a>
+  - .NET wrapper for the ImageMagick library.
  </li>
 </ul>
 <h2>
@@ -2135,7 +2353,7 @@
   </a>
   - Squirrel is both a set of tools and a library, to completely manage both installation and updating your Desktop Windows application.
   <sup>
-   &#9733 1806, pushed 3 days ago
+   &#9733 1806, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2144,7 +2362,7 @@
   </a>
   - like yum or apt-get, but for Windows.
   <sup>
-   &#9733 1926, pushed 2 days ago
+   &#9733 1926, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -2158,8 +2376,14 @@
   </a>
   - Smart internationalization for ASP.NET MVC
   <sup>
-   &#9733 321, pushed 43 days ago
+   &#9733 321, pushed 168 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jeffijoe/MessageFormat.NET">
+   MessageFormat.NET
+  </a>
+  - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
  </li>
 </ul>
 <h2>
@@ -2172,7 +2396,7 @@
   </a>
   - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
   <sup>
-   &#9733 1985, pushed 6 days ago
+   &#9733 1985, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2181,7 +2405,7 @@
   </a>
   - Tools to surface C++ APIs to C#
   <sup>
-   &#9733 472, pushed 12 days ago
+   &#9733 472, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2190,7 +2414,7 @@
   </a>
   - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
   <sup>
-   &#9733 173, pushed 250 days ago
+   &#9733 173, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -2199,7 +2423,7 @@
   </a>
   - C++ interop framework
   <sup>
-   &#9733 153, pushed 1599 days ago
+   &#9733 153, pushed 1724 days ago
   </sup>
  </li>
 </ul>
@@ -2213,7 +2437,7 @@
   </a>
   - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
   <sup>
-   &#9733 382, pushed 26 days ago
+   &#9733 382, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2222,7 +2446,7 @@
   </a>
   - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
   <sup>
-   &#9733 327, pushed 46 days ago
+   &#9733 327, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -2231,7 +2455,7 @@
   </a>
   - An addictive .NET IoC container
   <sup>
-   &#9733 976, pushed 4 days ago
+   &#9733 976, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2240,7 +2464,7 @@
   </a>
   - The ninja of .net dependency injectors
   <sup>
-   &#9733 1454, pushed 9 days ago
+   &#9733 1454, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2261,7 +2485,7 @@
   </a>
   - A ultra lightweight IoC container
   <sup>
-   &#9733 177, pushed 22 days ago
+   &#9733 177, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2270,7 +2494,7 @@
   </a>
   - Single-file, easy and cross-platform IoC container
   <sup>
-   &#9733 424, pushed 74 days ago
+   &#9733 424, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -2279,8 +2503,20 @@
   </a>
   - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
   <sup>
-   &#9733 224, pushed 2 days ago
+   &#9733 224, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aspnet/DependencyInjection">
+   Microsoft.Extensions.DependencyInjection
+  </a>
+  - The default IoC container for ASP.NET Core applications.
+ </li>
+ <li>
+  <a href="https://github.com/khellang/Scrutor">
+   Scrutor
+  </a>
+  - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
  </li>
 </ul>
 <h2>
@@ -2305,7 +2541,7 @@
   </a>
   - Open source nlog viewer for Windows
   <sup>
-   &#9733 6, pushed 143 days ago
+   &#9733 6, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -2320,7 +2556,7 @@
   </a>
   - Elmah for MVC
   <sup>
-   &#9733 209, pushed 124 days ago
+   &#9733 209, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -2341,7 +2577,7 @@
   </a>
   - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
   <sup>
-   &#9733 782, pushed 3 days ago
+   &#9733 782, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2350,7 +2586,7 @@
   </a>
   - Error handler used for the Stack Exchange network
   <sup>
-   &#9733 390, pushed 26 days ago
+   &#9733 390, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2358,6 +2594,18 @@
    Semantic Logging Application Block (SLAB)
   </a>
   - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Foundatio#logging">
+   Foundatio
+  </a>
+  - A fluent logging api that can be used to log messages throughout your application.
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Exceptionless.Net">
+   Exceptionless
+  </a>
+  - Exceptionless .NET Client
  </li>
 </ul>
 <h2>
@@ -2395,7 +2643,7 @@
   </a>
   - Advanced image processing and computer vision algorithms made as fluent extensions.
   <sup>
-   &#9733 124, pushed 188 days ago
+   &#9733 124, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -2422,7 +2670,7 @@
   </a>
   - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
   <sup>
-   &#9733 248, pushed 5 days ago
+   &#9733 248, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2460,8 +2708,14 @@
   </a>
   - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
   <sup>
-   &#9733 393, pushed 12 days ago
+   &#9733 393, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lunet-io/markdig">
+   markdig
+  </a>
+  - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
  </li>
 </ul>
 <h2>
@@ -2474,7 +2728,7 @@
   </a>
   - A Fluent Wrapper for System.Net.Mail with razor templating support.
   <sup>
-   &#9733 133, pushed 121 days ago
+   &#9733 133, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -2483,7 +2737,7 @@
   </a>
   - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
   <sup>
-   &#9733 832, pushed 1 days ago
+   &#9733 832, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2492,7 +2746,7 @@
   </a>
   - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
   <sup>
-   &#9733 411, pushed 1 days ago
+   &#9733 411, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2501,7 +2755,7 @@
   </a>
   - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
   <sup>
-   &#9733 221, pushed 1 days ago
+   &#9733 221, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2521,8 +2775,14 @@
   </a>
   - A set of tools for graph layout and viewing.
   <sup>
-   &#9733 310, pushed 16 days ago
+   &#9733 310, pushed 141 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Stratajet/UnitConversion">
+   UnitConversion
+  </a>
+  - Expansible Unit Conversion Library for .Net Core and .Net Framework
  </li>
 </ul>
 <h2>
@@ -2536,7 +2796,7 @@
   - TagLib# (aka taglib-sharp) is a library for reading and writing
 metadata in media files, including video, audio, and photo formats
   <sup>
-   &#9733 301, pushed 14 days ago
+   &#9733 301, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -2550,8 +2810,14 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - C# client for Etsy's StatsD
   <sup>
-   &#9733 66, pushed 5 days ago
+   &#9733 66, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Foundatio#metrics">
+   Foundatio
+  </a>
+  - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
  </li>
 </ul>
 <h2>
@@ -2564,7 +2830,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
   <sup>
-   &#9733 231, pushed 8 days ago
+   &#9733 231, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -2579,7 +2845,7 @@ metadata in media files, including video, audio, and photo formats
   - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
  </li>
  <li>
-  <a href="http://webmarkupmin.codeplex.com/">
+  <a href="https://github.com/Taritsyn/WebMarkupMin">
    Web Markup Minifier
   </a>
   - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
@@ -2607,7 +2873,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
   <sup>
-   &#9733 39, pushed 772 days ago
+   &#9733 39, pushed 896 days ago
   </sup>
  </li>
  <li>
@@ -2616,7 +2882,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - C# Bitcoin Node
   <sup>
-   &#9733 62, pushed 100 days ago
+   &#9733 62, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -2631,7 +2897,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
   <sup>
-   &#9733 905, pushed 6 days ago
+   &#9733 905, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2640,7 +2906,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A library to import and export data from and to plain text files in a Linq compatible way.
   <sup>
-   &#9733 10, pushed 46 days ago
+   &#9733 10, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -2649,7 +2915,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
   <sup>
-   &#9733 1325, pushed 15 days ago
+   &#9733 1325, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2658,7 +2924,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
   <sup>
-   &#9733 1926, pushed 1 days ago
+   &#9733 1926, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2673,7 +2939,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin)
   <sup>
-   &#9733 1403, pushed 11 days ago
+   &#9733 1403, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2682,7 +2948,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The Rant Procedural Text Generation DSL http://berkin.me/rant/
   <sup>
-   &#9733 1430, pushed 25 days ago
+   &#9733 1430, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -2691,7 +2957,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Write C# apps with a text editor, nuget and the power of Roslyn!
   <sup>
-   &#9733 1549, pushed 14 days ago
+   &#9733 1549, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2700,7 +2966,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Software Transactional Memory (STM) implementation for .NET
   <sup>
-   &#9733 88, pushed 38 days ago
+   &#9733 88, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -2709,7 +2975,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - a tiny and quick object mapper for .Net.
   <sup>
-   &#9733 116, pushed 6 days ago
+   &#9733 116, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2718,7 +2984,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Javascript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET plaftform.
   <sup>
-   &#9733 510, pushed 16 days ago
+   &#9733 510, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2726,6 +2992,24 @@ metadata in media files, including video, audio, and photo formats
    MSBuild ILMerge task
   </a>
   - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
+ </li>
+ <li>
+  <a href="https://github.com/reactjs/React.NET">
+   ReactJS.NET
+  </a>
+  - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
+ </li>
+ <li>
+  <a href="https://github.com/tjanczuk/edge">
+   Edge.js
+  </a>
+  - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+ </li>
+ <li>
+  <a href="https://github.com/warden-stack/Warden">
+   Warden
+  </a>
+  - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
  </li>
 </ul>
 <h2>
@@ -2738,7 +3022,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
   <sup>
-   &#9733 925, pushed 12 days ago
+   &#9733 925, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2777,7 +3061,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A cross-platform desktop and mobile MVVM development framework.
   <sup>
-   &#9733 753, pushed 2 days ago
+   &#9733 753, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2792,7 +3076,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
   <sup>
-   &#9733 1537, pushed 1 days ago
+   &#9733 1537, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2807,7 +3091,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
   <sup>
-   &#9733 273, pushed 7 days ago
+   &#9733 273, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -2821,7 +3105,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
   <sup>
-   &#9733 124, pushed 9 days ago
+   &#9733 124, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2848,7 +3132,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
   <sup>
-   &#9733 913, pushed 51 days ago
+   &#9733 913, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -2862,7 +3146,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
   <sup>
-   &#9733 3195, pushed 3 days ago
+   &#9733 3195, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2871,7 +3155,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Business Logic Toolkit for .NET
   <sup>
-   &#9733 221, pushed 61 days ago
+   &#9733 221, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -2883,7 +3167,7 @@ metadata in media files, including video, audio, and photo formats
    StackExchange
   </a>
   <sup>
-   &#9733 4181, pushed 5 days ago
+   &#9733 4181, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2892,7 +3176,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
   <sup>
-   &#9733 472, pushed 40 days ago
+   &#9733 472, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -2907,7 +3191,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
   <sup>
-   &#9733 1259, pushed 5 days ago
+   &#9733 1259, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2916,7 +3200,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Fluent Migrations framework for .net
   <sup>
-   &#9733 1173, pushed 3 days ago
+   &#9733 1173, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2935,7 +3219,7 @@ metadata in media files, including video, audio, and photo formats
    [$]
   </strong>
   <sup>
-   &#9733 700, pushed 2 days ago
+   &#9733 700, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2944,7 +3228,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A small, happy, data access tool that will love you forever.
   <sup>
-   &#9733 1531, pushed 97 days ago
+   &#9733 1531, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -2953,7 +3237,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
   <sup>
-   &#9733 386, pushed 1 days ago
+   &#9733 386, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2962,11 +3246,11 @@ metadata in media files, including video, audio, and photo formats
   </a>
   MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
   <sup>
-   &#9733 56, pushed 40 days ago
+   &#9733 56, pushed 164 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.toptensoftware.com/petapoco/">
+  <a href="https://github.com/CollaboratingPlatypus/PetaPoco">
    PetaPoco
   </a>
   - A tiny ORM-ish thing for your POCOs
@@ -2977,7 +3261,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A long-"awaited" fully asynchronous PetaPoco fork
   <sup>
-   &#9733 76, pushed 306 days ago
+   &#9733 76, pushed 430 days ago
   </sup>
  </li>
  <li>
@@ -2986,8 +3270,29 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
   <sup>
-   &#9733 327, pushed 2 days ago
+   &#9733 327, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Nick-Lucas/LimeBean">
+   Limebean
+  </a>
+  - Hybrid ORM which uses SQL fragments and doesn't require Model Classes.
+ </li>
+ <li>
+  <a href="https://www.llblgen.com">
+   LLBLGen Pro
+  </a>
+  - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework.
+  <strong>
+   [$][Free Lite version]
+  </strong>
+ </li>
+ <li>
+  <a href="https://github.com/jonwagner/Insight.Database">
+   Insight.Database
+  </a>
+  - Insight.Database is a fast, lightweight, micro-orm for .NET
  </li>
 </ul>
 <h2>
@@ -3022,7 +3327,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
   <sup>
-   &#9733 622, pushed 1 days ago
+   &#9733 622, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -3043,7 +3348,7 @@ metadata in media files, including video, audio, and photo formats
   </strong>
   [Free for OSS]
   <sup>
-   &#9733 193, pushed 4 days ago
+   &#9733 193, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3058,7 +3363,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A simple but effective mini-profiler for ASP.NET websites
   <sup>
-   &#9733 606, pushed 104 days ago
+   &#9733 606, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -3067,7 +3372,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The open source diagnostics platform for the web
   <sup>
-   &#9733 1683, pushed 19 days ago
+   &#9733 1683, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -3081,7 +3386,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
   <sup>
-   &#9733 3131, pushed 3 days ago
+   &#9733 3131, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -3095,7 +3400,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The most popular service bus for .NET
   <sup>
-   &#9733 918, pushed 1 days ago
+   &#9733 918, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3104,7 +3409,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
   <sup>
-   &#9733 1548, pushed 6 days ago
+   &#9733 1548, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3119,7 +3424,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - NetMQ is 100% native C# port of ZeroMQ
   <sup>
-   &#9733 683, pushed 6 days ago
+   &#9733 683, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3128,7 +3433,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
   <sup>
-   &#9733 688, pushed 4 days ago
+   &#9733 688, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3137,7 +3442,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
   <sup>
-   &#9733 359, pushed 4 days ago
+   &#9733 359, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3146,7 +3451,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A service oriented .NET messaging library for RabbitMQ.
   <sup>
-   &#9733 140, pushed 97 days ago
+   &#9733 140, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -3155,17 +3460,32 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - An easy to use .NET API for RabbitMQ
   <sup>
-   &#9733 743, pushed 1 days ago
+   &#9733 743, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Warewolf-ESB/Warewolf-ESB">
+  <a href="https://github.com/Warewolf-ESB/Warewolf">
    Warewolf ESB
   </a>
   - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
-  <sup>
-   &#9733 106, pushed 8 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Microsoft/CSharpClient-for-Kafka">
+   Kafka Client
+  </a>
+  - .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
+ </li>
+ <li>
+  <a href="https://github.com/exceptionless/Foundatio#queues">
+   Foundatio
+  </a>
+  - A common interface with in memory, redis and azure implementations.
+ </li>
+ <li>
+  <a href="https://github.com/jet/kafunk">
+   Kafunk
+  </a>
+  - F# Kafka client from Jet
  </li>
 </ul>
 <h2>
@@ -3178,7 +3498,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
   <sup>
-   &#9733 909, pushed 6 days ago
+   &#9733 909, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3187,7 +3507,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Reactive Extensions (Rx) for collections
   <sup>
-   &#9733 193, pushed 7 days ago
+   &#9733 193, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -3201,7 +3521,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Task scheduler with fluent interface that runs automated jobs from your application
   <sup>
-   &#9733 411, pushed 16 days ago
+   &#9733 411, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3214,7 +3534,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   expressions as well as calculating occurrences of time based on a crontab schedule
   <sup>
-   &#9733 27, pushed 50 days ago
+   &#9733 27, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -3223,8 +3543,20 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Quartz Enterprise Scheduler .NET
   <sup>
-   &#9733 1292, pushed 4 days ago
+   &#9733 1292, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/HangfireIO">
+   Hangfire
+  </a>
+  - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
+ </li>
+ <li>
+  <a href="https://github.com/leosperry/Chroniton">
+   Chroniton
+  </a>
+  - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
  </li>
 </ul>
 <h2>
@@ -3237,7 +3569,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
   <sup>
-   &#9733 412, pushed 5 days ago
+   &#9733 412, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3246,7 +3578,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
   <sup>
-   &#9733 439, pushed 2 days ago
+   &#9733 439, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3255,7 +3587,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A GitHub API client library for .NET
   <sup>
-   &#9733 932, pushed 2 days ago
+   &#9733 932, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3264,7 +3596,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Client Library for the Dropbox API
   <sup>
-   &#9733 409, pushed 383 days ago
+   &#9733 409, pushed 508 days ago
   </sup>
  </li>
 </ul>
@@ -3278,7 +3610,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Elasticsearch.Net & NEST
   <sup>
-   &#9733 1022, pushed 2 days ago
+   &#9733 1022, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3287,7 +3619,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Plain .Net client for ElasticSearch
   <sup>
-   &#9733 95, pushed 166 days ago
+   &#9733 95, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -3296,8 +3628,14 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Solr client for .Net
   <sup>
-   &#9733 511, pushed 6 days ago
+   &#9733 511, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/solr-express/solr-express">
+   SolrExpress
+  </a>
+  ) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
  </li>
  <li>
   <a href="http://lucenenet.apache.org/">
@@ -3316,7 +3654,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
   <sup>
-   &#9733 801, pushed 48 days ago
+   &#9733 801, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -3325,7 +3663,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Popular high-performance JSON framework for .NET
   <sup>
-   &#9733 3030, pushed 2 days ago
+   &#9733 3030, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3334,7 +3672,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - JSON, JSV and CSV Text Serializers used in servicestack.net
   <sup>
-   &#9733 702, pushed 8 days ago
+   &#9733 702, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3343,7 +3681,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - MessagePack implementation for Common Language Infrastructure
   <sup>
-   &#9733 338, pushed 17 days ago
+   &#9733 338, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -3352,7 +3690,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Fast .NET JSON Serializer, built on Sigil (used by StackOverflow)
   <sup>
-   &#9733 1183, pushed 20 days ago
+   &#9733 1183, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3361,7 +3699,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Generate C# code for protocol buffer serialization from a .proto specification.
   <sup>
-   &#9733 127, pushed 50 days ago
+   &#9733 127, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -3376,8 +3714,32 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
   <sup>
-   &#9733 1312, pushed 5 days ago
+   &#9733 1312, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/akkadotnet/Wire">
+   Wire
+  </a>
+  - A high performance polymorphic serializer for the .NET framework.
+ </li>
+ <li>
+  <a href="https://github.com/MarcosMeli/FileHelpers">
+   FileHelpers
+  </a>
+  - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
+ </li>
+ <li>
+  <a href="https://github.com/mbraceproject/FsPickler">
+   FsPickler
+  </a>
+  - A fast multi-format message serializer for .NET
+ </li>
+ <li>
+  <a href="https://github.com/antmicro/Migrant">
+   Migrant
+  </a>
+  - Fast and flexible serialization framework usable on undecorated classes.
  </li>
 </ul>
 <h2>
@@ -3390,7 +3752,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Create state machines and lightweight state machine-based workflows directly in .NET code
   <sup>
-   &#9733 516, pushed 35 days ago
+   &#9733 516, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -3399,8 +3761,14 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A state machine library for .Net - allows you to write fluent style state machines
   <sup>
-   &#9733 146, pushed 10 days ago
+   &#9733 146, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.appccelerate.com/statemachine.html">
+   Appccelerate - State Machine
+  </a>
+  - A powerful state machine library - configured with a fluent api and synchrounous and asynchronous state transition support
  </li>
 </ul>
 <h2>
@@ -3419,7 +3787,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A site generation tool (and then some) for .NET platforms
   <sup>
-   &#9733 446, pushed 80 days ago
+   &#9733 446, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -3428,7 +3796,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Jekyll inspired static site generation for .NET
   <sup>
-   &#9733 208, pushed 299 days ago
+   &#9733 208, pushed 424 days ago
   </sup>
  </li>
  <li>
@@ -3465,7 +3833,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Open source templating engine based on Microsoft's Razor parsing engine
   <sup>
-   &#9733 1078, pushed 13 days ago
+   &#9733 1078, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3474,8 +3842,14 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Open source library for logic-less templates
   <sup>
-   &#9733 377, pushed 28 days ago
+   &#9733 377, pushed 153 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/stubbleorg/stubble">
+   Stubble
+  </a>
+  - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
  </li>
  <li>
   <a href="https://github.com/dotliquid/dotliquid">
@@ -3483,7 +3857,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - C# port of the Ruby Liquid templating language
   <sup>
-   &#9733 277, pushed 22 days ago
+   &#9733 277, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -3497,7 +3871,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
   <sup>
-   &#9733 852, pushed 3 days ago
+   &#9733 852, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3506,7 +3880,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - BDDfy is the simplest BDD framework EVER!
   <sup>
-   &#9733 167, pushed 4 days ago
+   &#9733 167, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3515,7 +3889,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
   <sup>
-   &#9733 150, pushed 13 days ago
+   &#9733 150, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3524,16 +3898,16 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
   <sup>
-   &#9733 17, pushed 60 days ago
+   &#9733 17, pushed 185 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/FakeItEasy/FakeItEasy">
    FakeItEasy
   </a>
-  - The easy mocking library for .NET http://fakeiteasy.github.io
+  - The easy mocking library for .NET https://fakeiteasy.github.io
   <sup>
-   &#9733 504, pushed 2 days ago
+   &#9733 504, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3542,7 +3916,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
   <sup>
-   &#9733 562, pushed 8 days ago
+   &#9733 562, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3551,7 +3925,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Simple Fluent API for UI Automation
   <sup>
-   &#9733 191, pushed 48 days ago
+   &#9733 191, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -3560,7 +3934,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Random Testing for .NET.
   <sup>
-   &#9733 269, pushed 2 days ago
+   &#9733 269, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3569,7 +3943,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
   <sup>
-   &#9733 62, pushed 42 days ago
+   &#9733 62, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -3578,7 +3952,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
   <sup>
-   &#9733 607, pushed 35 days ago
+   &#9733 607, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -3587,7 +3961,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - The most popular and friendly mocking framework for .NET
   <sup>
-   &#9733 1220, pushed 22 days ago
+   &#9733 1220, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3596,7 +3970,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Rapid generation of test objects
   <sup>
-   &#9733 2, pushed 36 days ago
+   &#9733 2, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -3611,7 +3985,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A unit-testing framework for all .Net languages
   <sup>
-   &#9733 619, pushed 2 days ago
+   &#9733 619, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3620,7 +3994,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Dynamic Mocking Framework for .NET
   <sup>
-   &#9733 224, pushed 2310 days ago
+   &#9733 224, pushed 2435 days ago
   </sup>
  </li>
  <li>
@@ -3629,7 +4003,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
   <sup>
-   &#9733 386, pushed 6 days ago
+   &#9733 386, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3644,7 +4018,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A BDD/TDD framework based on xUnit.net and inspired by Gherkin. http://xbehave.github.io
   <sup>
-   &#9733 130, pushed 6 days ago
+   &#9733 130, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3653,8 +4027,14 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
   <sup>
-   &#9733 1003, pushed 11 days ago
+   &#9733 1003, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lefthandedgoat/canopy">
+   Canopy
+  </a>
+  - Canopy is a free, open source F# web automation and testing framework
  </li>
 </ul>
 <h2>
@@ -3662,12 +4042,18 @@ metadata in media files, including video, audio, and photo formats
 </h2>
 <ul>
  <li>
+  <a href="http://www.telerik.com/fiddler">
+   Fiddler
+  </a>
+  -  The free web debugging proxy for any browser, system or platform
+ </li>
+ <li>
   <a href="https://github.com/OpenLiveWriter/OpenLiveWriter">
    Open Live Writer
   </a>
   - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
   <sup>
-   &#9733 1773, pushed 14 days ago
+   &#9733 1773, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3676,7 +4062,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
   <sup>
-   &#9733 3262, pushed 9 days ago
+   &#9733 3262, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3685,7 +4071,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
   <sup>
-   &#9733 3511, pushed 2 days ago
+   &#9733 3511, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3694,7 +4080,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
   <sup>
-   &#9733 65, pushed 17 days ago
+   &#9733 65, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -3703,8 +4089,29 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Stack Exchange's Monitoring System
   <sup>
-   &#9733 2449, pushed 1 days ago
+   &#9733 2449, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://catlight.io">
+   CatLight
+  </a>
+  - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .Net Core and Electron.
+  <strong>
+   [Free][Proprietary]
+  </strong>
+ </li>
+ <li>
+  <a href="https://github.com/hallatore/Netling">
+   Netling
+  </a>
+  - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
+ </li>
+ <li>
+  <a href="https://github.com/Microsoft/VisualStudioUninstaller">
+   Visual Studio Uninstaller
+  </a>
+  - Uninstall and clean up all components of Visual Studio.
  </li>
 </ul>
 <h2>
@@ -3717,7 +4124,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://lean.quantconnect.com
   <sup>
-   &#9733 455, pushed 7 days ago
+   &#9733 455, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3726,7 +4133,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). http://stocksharp.com
   <sup>
-   &#9733 409, pushed 5 days ago
+   &#9733 409, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -3740,7 +4147,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
   <sup>
-   &#9733 964, pushed 27 days ago
+   &#9733 964, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -3749,7 +4156,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - VIM in Visual Studio
   <sup>
-   &#9733 1973, pushed 4 days ago
+   &#9733 1973, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3764,7 +4171,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
   <sup>
-   &#9733 516, pushed 14 days ago
+   &#9733 516, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3788,7 +4195,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Source code for the CodeContracts tools for .NET
   <sup>
-   &#9733 482, pushed 40 days ago
+   &#9733 482, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -3797,7 +4204,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
   <sup>
-   &#9733 92, pushed 5 days ago
+   &#9733 92, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3805,6 +4212,12 @@ metadata in media files, including video, audio, and photo formats
    Productivity Power Tools
   </a>
   - A set of extensions to Visual Studio Professional (and above) which improves developer productivity.
+ </li>
+ <li>
+  <a href="https://www.visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496">
+   VSColorOutput
+  </a>
+  - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
  </li>
 </ul>
 <h2>
@@ -3823,7 +4236,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A front-controller style MVC framework for .NET http://fubuworld.com/fubumvc/
   <sup>
-   &#9733 419, pushed 10 days ago
+   &#9733 419, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -3838,7 +4251,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Host NodeJS applications in IIS
   <sup>
-   &#9733 1133, pushed 19 days ago
+   &#9733 1133, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -3857,19 +4270,19 @@ metadata in media files, including video, audio, and photo formats
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/aspnet/KestrelHttpServer">
+   Kestrel
+  </a>
+  -  A web server for ASP.NET Core based on libuv
+ </li>
+ <li>
   <a href="https://github.com/unosquare/embedio">
    EmbedIO
   </a>
   - Web server built on Mono and cross-platform
   <sup>
-   &#9733 79, pushed 12 days ago
+   &#9733 79, pushed 136 days ago
   </sup>
- </li>
- <li>
-  <a href="http://www.jexus.org">
-   Jexus web server
-  </a>
-  - Web server for Linux
  </li>
  <li>
   <a href="https://github.com/mono/xsp">
@@ -3877,7 +4290,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
   <sup>
-   &#9733 136, pushed 67 days ago
+   &#9733 136, pushed 192 days ago
   </sup>
  </li>
 </ul>
@@ -3891,7 +4304,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
   <sup>
-   &#9733 470, pushed 58 days ago
+   &#9733 470, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -3900,7 +4313,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
   <sup>
-   &#9733 5674, pushed 4 days ago
+   &#9733 5674, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3909,7 +4322,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - SuperSocket is a light weight extensible socket application framework
   <sup>
-   &#9733 521, pushed 7 days ago
+   &#9733 521, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3918,7 +4331,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A C# implementation of the WebSocket protocol client and server
   <sup>
-   &#9733 769, pushed 8 days ago
+   &#9733 769, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3943,7 +4356,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
   <sup>
-   &#9733 98, pushed 3 days ago
+   &#9733 98, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -3957,7 +4370,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - An easy service hosting framework for building Windows services using .NET
   <sup>
-   &#9733 1327, pushed 4 days ago
+   &#9733 1327, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3971,7 +4384,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - Open Source .NET libraries that make your life easier
   <sup>
-   &#9733 118, pushed 26 days ago
+   &#9733 118, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -3980,7 +4393,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A curated collection of awesome LINQ libraries, tools, and more.
   <sup>
-   &#9733 96, pushed 28 days ago
+   &#9733 96, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3989,7 +4402,7 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
   <sup>
-   &#9733 4, pushed 169 days ago
+   &#9733 4, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -3998,8 +4411,35 @@ metadata in media files, including video, audio, and photo formats
   </a>
   - A list of algorithms and data structures implementations.
   <sup>
-   &#9733 604, pushed 2 days ago
+   &#9733 604, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/thangchung/awesome-dotnet-core">
+   Awesome .NET Core
+  </a>
+  - A collection of awesome .NET core libraries, tools, frameworks and software
+ </li>
+ <li>
+  <a href="https://github.com/jpsingleton/ANCLAFS">
+   ASP.NET Core Library and Framework Support
+  </a>
+  - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core (also at
+  <a href="https://anclafs.com/">
+   ANCLAFS.com
+  </a>
+  ).
+ </li>
+</ul>
+<h1>
+ Resources
+</h1>
+<ul>
+ <li>
+  <a href="http://csharpdigest.net/">
+   Weekly C# Digest
+  </a>
+  - Weekly email newsletter with manually curated top 5 links from the .NET community.
  </li>
 </ul>
 <h1>
@@ -4016,7 +4456,7 @@ metadata in media files, including video, audio, and photo formats
  License
 </h1>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

@@ -222,7 +222,7 @@
   </a>
   - An OpenGL function call interceptor for Windows.
   <sup>
-   &#9733 68, pushed 125 days ago
+   &#9733 68, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -243,7 +243,7 @@
   </a>
   - OpenGL capture and playback debugger developed by Valve.
   <sup>
-   &#9733 1233, pushed 6 days ago
+   &#9733 1233, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -336,8 +336,14 @@
   </a>
   - Magnum is 2D/3D graphics engine for modern OpenGL.
   <sup>
-   &#9733 738, pushed 2 days ago
+   &#9733 738, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://google.github.io/mathfu/">
+   MathFu
+  </a>
+  - A C++ math library developed primarily for games focused on simplicity and efficiency.
  </li>
  <li>
   <a href="http://newtondynamics.com/forum/newton.php">
@@ -389,7 +395,7 @@
   </a>
   - A simple OpenGL core profile loader.
   <sup>
-   &#9733 192, pushed 4 days ago
+   &#9733 192, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -398,7 +404,7 @@
   </a>
   - A multi profile loader-generator based on the official specs.
   <sup>
-   &#9733 198, pushed 3 days ago
+   &#9733 198, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -407,7 +413,7 @@
   </a>
   - A commmand line tool to generate C bindings for OpenGL, wgl, and glX.
   <sup>
-   &#9733 2, pushed 123 days ago
+   &#9733 2, pushed 247 days ago
   </sup>
  </li>
  <li>
@@ -416,7 +422,7 @@
   </a>
   - A profile loader leveraging C++11 features to provide type safety.
   <sup>
-   &#9733 294, pushed 8 days ago
+   &#9733 294, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -621,7 +627,7 @@
    Norbert Nopper
   </strong>
   <sup>
-   &#9733 486, pushed 3 days ago
+   &#9733 486, pushed 128 days ago
   </sup>
  </li>
  <li>

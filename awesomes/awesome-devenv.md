@@ -100,6 +100,11 @@
   </a>
   <ul>
    <li>
+    <a href="#atom">
+     Atom
+    </a>
+   </li>
+   <li>
     <a href="#sublime">
      Sublime Text
     </a>
@@ -119,6 +124,11 @@
  <li>
   <a href="#git">
    Git
+  </a>
+ </li>
+ <li>
+  <a href="#orchestration">
+   Orchestration
   </a>
  </li>
  <li>
@@ -188,7 +198,7 @@
    boom
   </a>
   <sup>
-   &#9733 4201, pushed 7 days ago
+   &#9733 4201, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -202,7 +212,7 @@
   </a>
   - website perf evaluation tool
   <sup>
-   &#9733 1639, pushed 26 days ago
+   &#9733 1639, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -215,7 +225,7 @@
    Vegeta
   </a>
   <sup>
-   &#9733 3779, pushed 3 days ago
+   &#9733 3779, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -223,7 +233,7 @@
    wrk
   </a>
   <sup>
-   &#9733 8200, pushed 18 days ago
+   &#9733 8200, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -248,7 +258,7 @@
   </a>
   - the S3 CLI tool for Amazon
   <sup>
-   &#9733 1840, pushed 7 days ago
+   &#9733 1840, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -266,7 +276,7 @@
    glances
   </a>
   <sup>
-   &#9733 4968, pushed 2 days ago
+   &#9733 4968, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +339,7 @@ presenting/casting
   </a>
   - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
   <sup>
-   &#9733 3777, pushed 8 days ago
+   &#9733 3777, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -338,7 +348,7 @@ presenting/casting
   </a>
   - .files, including ~/.osx — sensible hacker defaults for OS X
   <sup>
-   &#9733 14120, pushed 6 days ago
+   &#9733 14120, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -347,7 +357,7 @@ presenting/casting
   </a>
   - A set of vim, zsh, git, and tmux configuration files
   <sup>
-   &#9733 3321, pushed 7 days ago
+   &#9733 3321, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -356,7 +366,7 @@ presenting/casting
   </a>
   - Colourful & robust OS X configuration files and utilities
   <sup>
-   &#9733 535, pushed 132 days ago
+   &#9733 535, pushed 256 days ago
   </sup>
  </li>
 </ul>
@@ -368,6 +378,65 @@ presenting/casting
   Only awesome tools and addons for your favorite editor
  </em>
 </p>
+<h3>
+ Atom
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/Glavin001/atom-beautify">
+   atom-beautify
+  </a>
+  - Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.
+ </li>
+ <li>
+  <a href="https://github.com/DanBrooker/file-icons">
+   file-icons
+  </a>
+  - Adds file specific icons to atom for improved visual grepping.
+ </li>
+ <li>
+  <a href="https://github.com/richrace/highlight-selected">
+   highlight-selected
+  </a>
+  - Double click on a word to highlight it throughout the open file.
+ </li>
+ <li>
+  <a href="https://github.com/atom-minimap/minimap">
+   minimap
+  </a>
+  - A graphical map (preview) of the full source code.
+ </li>
+ <li>
+  <a href="https://github.com/atom-minimap/minimap-git-diff">
+   minimap-git-diff
+  </a>
+  - A minimap binding for the Atom git-diff package.
+ </li>
+ <li>
+  <a href="https://github.com/atom-minimap/minimap-highlight-selected">
+   minimap-highlight-selected
+  </a>
+  - A minimap binding for the highlight-selected package.
+ </li>
+ <li>
+  <a href="https://github.com/danielbrodin/atom-project-manager">
+   atom-project-manager
+  </a>
+  - Get easy access to all your projects and manage them with project specific settings and options.
+ </li>
+ <li>
+  <a href="https://github.com/subesokun/atom-tree-view-git-status">
+   atom-tree-view-git-status
+  </a>
+  - Show the Git repository status in the Atom tree-view.
+ </li>
+ <li>
+  <a href="https://github.com/abe33/atom-pigments">
+   atom-pigments
+  </a>
+  - An Atom package to display colors in project and files.
+ </li>
+</ul>
 <h3>
  Vim
 </h3>
@@ -384,7 +453,7 @@ presenting/casting
   </a>
   - textual snippets compatiable with Textmate snippets.
   <sup>
-   &#9733 1301, pushed 14 days ago
+   &#9733 1301, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -404,7 +473,7 @@ presenting/casting
   </a>
   - File creation plugin.
   <sup>
-   &#9733 542, pushed 165 days ago
+   &#9733 542, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -412,7 +481,7 @@ presenting/casting
    Emmet
   </a>
   <sup>
-   &#9733 4347, pushed 41 days ago
+   &#9733 4347, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +490,7 @@ presenting/casting
   </a>
   - display changed/added lines in the margin of the editor window.
   <sup>
-   &#9733 3098, pushed 1 days ago
+   &#9733 3098, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -430,7 +499,7 @@ presenting/casting
   </a>
   - Javascript formatting.
   <sup>
-   &#9733 1119, pushed 15 days ago
+   &#9733 1119, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -445,7 +514,7 @@ presenting/casting
   </a>
   - Markdown syntax understanding and good color schemes.
   <sup>
-   &#9733 1477, pushed 5 days ago
+   &#9733 1477, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -460,7 +529,7 @@ presenting/casting
   </a>
   - Plugin for running Ruby tests.
   <sup>
-   &#9733 747, pushed 342 days ago
+   &#9733 747, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -469,7 +538,7 @@ presenting/casting
   </a>
   - Enhancements to Sublime Text sidebar. Files and folders.
   <sup>
-   &#9733 1572, pushed 46 days ago
+   &#9733 1572, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -478,7 +547,7 @@ presenting/casting
   </a>
   - Git Integration for Sublime.
   <sup>
-   &#9733 2396, pushed 20 days ago
+   &#9733 2396, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -493,7 +562,7 @@ presenting/casting
   </a>
   - Highlight trailing spaces and delete them in a flash.
   <sup>
-   &#9733 693, pushed 113 days ago
+   &#9733 693, pushed 238 days ago
   </sup>
  </li>
 </ul>
@@ -523,7 +592,7 @@ presenting/casting
   </a>
   - Faraz Fallahi maintains a curated list of GitHub & Git resources.
   <sup>
-   &#9733 88, pushed 111 days ago
+   &#9733 88, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -532,7 +601,7 @@ presenting/casting
   </a>
   - Fast GitHub command line client (hub port to Go)
   <sup>
-   &#9733 743, pushed 416 days ago
+   &#9733 743, pushed 540 days ago
   </sup>
  </li>
  <li>
@@ -541,7 +610,7 @@ presenting/casting
   </a>
   - collected git helper scripts
   <sup>
-   &#9733 96, pushed 4 days ago
+   &#9733 96, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -556,7 +625,7 @@ presenting/casting
   </a>
   - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
   <sup>
-   &#9733 30, pushed 48 days ago
+   &#9733 30, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -565,7 +634,7 @@ presenting/casting
   </a>
   - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
   <sup>
-   &#9733 59, pushed 9 days ago
+   &#9733 59, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -574,7 +643,7 @@ presenting/casting
   </a>
   - safely removes branches that have been merged into the master
   <sup>
-   &#9733 1259, pushed 50 days ago
+   &#9733 1259, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -583,7 +652,7 @@ presenting/casting
   </a>
   - a better 'git pull'
   <sup>
-   &#9733 2800, pushed 4 days ago
+   &#9733 2800, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -598,8 +667,30 @@ presenting/casting
   </a>
   Streamline your git workflow
   <sup>
-   &#9733 1624, pushed 22 days ago
+   &#9733 1624, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://jonas.nitro.dk/tig/">
+   tig
+  </a>
+  - an ncurses-based text-mode interface for git
+ </li>
+</ul>
+<h2>
+ Orchestration
+</h2>
+<p>
+ <em>
+  Tools for orchestrating awesome development environments
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/azukiapp/azk">
+   azk
+  </a>
+  - a lightweight open source engine to orchestrate development environments
  </li>
 </ul>
 <h2>
@@ -623,7 +714,7 @@ presenting/casting
   </a>
   - presentation framework based on the power of CSS3 transforms and transitions
   <sup>
-   &#9733 27236, pushed 3 days ago
+   &#9733 27236, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -632,7 +723,7 @@ presenting/casting
   </a>
   - markdown based presentation on your browser
   <sup>
-   &#9733 4331, pushed 47 days ago
+   &#9733 4331, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -647,7 +738,7 @@ presenting/casting
   </a>
   - markdown based presentation on your browser
   <sup>
-   &#9733 4877, pushed 14 days ago
+   &#9733 4877, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -656,7 +747,7 @@ presenting/casting
   </a>
   - present inside your Vim
   <sup>
-   &#9733 939, pushed 133 days ago
+   &#9733 939, pushed 257 days ago
   </sup>
  </li>
 </ul>
@@ -683,7 +774,7 @@ presenting/casting
   </a>
   compatible zsh frameworks
   <sup>
-   &#9733 1464, pushed 3 days ago
+   &#9733 1464, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -692,7 +783,7 @@ presenting/casting
   </a>
   - The user-friendly command line shell
   <sup>
-   &#9733 5880, pushed 2 days ago
+   &#9733 5880, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -701,7 +792,7 @@ presenting/casting
   </a>
   - Framework for managing your fish shell configuration inspired by oh-my-zsh.
   <sup>
-   &#9733 952, pushed 5 days ago
+   &#9733 952, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -716,7 +807,7 @@ presenting/casting
   </a>
   - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
   <sup>
-   &#9733 508, pushed 26 days ago
+   &#9733 508, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -731,7 +822,7 @@ presenting/casting
   </a>
   - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
   <sup>
-   &#9733 3767, pushed 3 days ago
+   &#9733 3767, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -740,7 +831,7 @@ presenting/casting
   </a>
   - Quick intro for getting set up with zsh and zgen
   <sup>
-   &#9733 49, pushed 78 days ago
+   &#9733 49, pushed 202 days ago
   </sup>
  </li>
 </ul>
@@ -760,7 +851,7 @@ presenting/casting
   - the Perl based
 better-than-grep tool.
   <sup>
-   &#9733 988, pushed 87 days ago
+   &#9733 988, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -769,7 +860,7 @@ better-than-grep tool.
   </a>
   - A C based code-searching tool similar to ack, but faster
   <sup>
-   &#9733 8637, pushed 4 days ago
+   &#9733 8637, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -778,7 +869,7 @@ better-than-grep tool.
   </a>
   - interactive filtering, like interactive Grep
   <sup>
-   &#9733 2950, pushed 6 days ago
+   &#9733 2950, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -813,7 +904,7 @@ to
   </a>
   Command-line productivity booster, offers quick access to files and directories.
   <sup>
-   &#9733 2348, pushed 55 days ago
+   &#9733 2348, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -854,7 +945,7 @@ to
   - the
 incredible ZSH addon.
   <sup>
-   &#9733 36595, pushed 2 days ago
+   &#9733 36595, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -896,7 +987,7 @@ will emit FS events and you can run commands on demand with. Note -
   </a>
   - FS watch tool with a huge ecosystem of plugins
   <sup>
-   &#9733 4905, pushed 7 days ago
+   &#9733 4905, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -919,7 +1010,7 @@ will emit FS events and you can run commands on demand with. Note -
     </a>
     - Guard plugin compatible with LiveReload's browser extensions
     <sup>
-     &#9733 1735, pushed 46 days ago
+     &#9733 1735, pushed 171 days ago
     </sup>
    </li>
   </ul>
@@ -934,7 +1025,13 @@ will emit FS events and you can run commands on demand with. Note -
   </code>
   - note it works as a service.
   <sup>
-   &#9733 4033, pushed 15 days ago
+   &#9733 4033, pushed 140 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/zappr">
+   Zappr
+  </a>
+  - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
  </li>
 </ul>

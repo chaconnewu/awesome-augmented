@@ -375,7 +375,7 @@
    Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc
   </a>
   <sup>
-   &#9733 217, pushed 213 days ago
+   &#9733 217, pushed 337 days ago
   </sup>
  </li>
 </ul>
@@ -393,7 +393,7 @@
    An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass
   </a>
   <sup>
-   &#9733 349, pushed 51 days ago
+   &#9733 349, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -491,7 +491,7 @@
    LeetCode Problems' Solutions written in C++
   </a>
   <sup>
-   &#9733 3991, pushed 3 days ago
+   &#9733 3991, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -604,7 +604,7 @@
    Coding exercises in Clojure, handy practice for technical interview questions
   </a>
   <sup>
-   &#9733 2, pushed 1367 days ago
+   &#9733 2, pushed 1492 days ago
   </sup>
  </li>
  <li>
@@ -717,7 +717,7 @@
    Solutions for Elements of Programming Interviews problems written in Golang
   </a>
   <sup>
-   &#9733 15, pushed 137 days ago
+   &#9733 15, pushed 261 days ago
   </sup>
  </li>
  <li>
@@ -725,7 +725,7 @@
    Solutions for some basic coding interview tasks written in Go
   </a>
   <sup>
-   &#9733 8, pushed 327 days ago
+   &#9733 8, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +803,7 @@
    A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview
   </a>
   <sup>
-   &#9733 1068, pushed 209 days ago
+   &#9733 1068, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -846,7 +846,7 @@
    A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources
   </a>
   <sup>
-   &#9733 60, pushed 307 days ago
+   &#9733 60, pushed 431 days ago
   </sup>
  </li>
  <li>
@@ -854,7 +854,7 @@
    Data Structures and Algorithms in Java which can be useful in interview process
   </a>
   <sup>
-   &#9733 42, pushed 149 days ago
+   &#9733 42, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -947,7 +947,7 @@
    Some basic javascript coding challenges and interview questions
   </a>
   <sup>
-   &#9733 2955, pushed 51 days ago
+   &#9733 2955, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -955,7 +955,7 @@
    Some JavaScript interview exercises
   </a>
   <sup>
-   &#9733 3, pushed 641 days ago
+   &#9733 3, pushed 766 days ago
   </sup>
  </li>
  <li>
@@ -1083,7 +1083,7 @@
    Basic PHP interview questions
   </a>
   <sup>
-   &#9733 19, pushed 153 days ago
+   &#9733 19, pushed 278 days ago
   </sup>
  </li>
  <li>
@@ -1116,7 +1116,7 @@
    A listing of questions that could potentially be asked for a python job listing
   </a>
   <sup>
-   &#9733 32, pushed 328 days ago
+   &#9733 32, pushed 453 days ago
   </sup>
  </li>
  <li>
@@ -1174,7 +1174,7 @@
    A list of common questions with answers ask during interview of ruby on rails job
   </a>
   <sup>
-   &#9733 22, pushed 123 days ago
+   &#9733 22, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -1232,7 +1232,7 @@
    A list of questions about Ruby programming you can use to quiz yourself
   </a>
   <sup>
-   &#9733 785, pushed 80 days ago
+   &#9733 785, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1275,7 @@
    A list of helpful Scala related questions you can use to interview potential candidates
   </a>
   <sup>
-   &#9733 94, pushed 223 days ago
+   &#9733 94, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -1288,7 +1288,7 @@
    Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions
   </a>
   <sup>
-   &#9733 2, pushed 355 days ago
+   &#9733 2, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -1326,7 +1326,7 @@
    Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1
   </a>
   <sup>
-   &#9733 731, pushed 10 days ago
+   &#9733 731, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1507,7 +1507,7 @@
    Schema, Questions & Solutions for SQL Exercising
   </a>
   <sup>
-   &#9733 29, pushed 36 days ago
+   &#9733 29, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1608,7 +1608,7 @@
    Algorithms playground for common interview questions written in Ruby
   </a>
   <sup>
-   &#9733 2411, pushed 4 days ago
+   &#9733 2411, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1616,7 +1616,7 @@
    EKAlgorithms contains some well known CS algorithms & data structures
   </a>
   <sup>
-   &#9733 1970, pushed 29 days ago
+   &#9733 1970, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -1644,7 +1644,7 @@
    Common interview questions and puzzles solved in a number of languages
   </a>
   <sup>
-   &#9733 9, pushed 101 days ago
+   &#9733 9, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -1652,7 +1652,7 @@
    Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions
   </a>
   <sup>
-   &#9733 2410, pushed 11 days ago
+   &#9733 2410, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1660,7 +1660,7 @@
    Interview questions solved in python
   </a>
   <sup>
-   &#9733 42, pushed 132 days ago
+   &#9733 42, pushed 257 days ago
   </sup>
  </li>
 </ul>
@@ -1673,7 +1673,7 @@
    A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore
   </a>
   <sup>
-   &#9733 21118, pushed 11 days ago
+   &#9733 21118, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1686,7 +1686,7 @@
    Some simple questions to interview potential backend candidates
   </a>
   <sup>
-   &#9733 22, pushed 192 days ago
+   &#9733 22, pushed 317 days ago
   </sup>
  </li>
 </ul>

@@ -78,7 +78,7 @@
   </a>
   - Early linguistical analysis and natural language processing library for Haxe.
   <sup>
-   &#9733 11, pushed 120 days ago
+   &#9733 11, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -87,7 +87,7 @@
   </a>
   - General natural language tools for Node.js.
   <sup>
-   &#9733 4656, pushed 4 days ago
+   &#9733 4656, pushed 129 days ago
   </sup>
  </li>
  <li>

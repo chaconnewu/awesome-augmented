@@ -26,31 +26,26 @@
   </a>
  </li>
  <li>
-  <a href="#themes">
-   Themes
+  <a href="#build">
+   Build
+  </a>
+ </li>
+ <li>
+  <a href="#extensions">
+   Extensions
   </a>
   <ul>
    <li>
-    <a href="#atom-material-ui">
-     Atom Material UI
-    </a>
-   </li>
-   <li>
-    <a href="#seti-ui">
-     Seti UI
-    </a>
-   </li>
-   <li>
-    <a href="#atom-material-syntax">
-     Atom Material Syntax
-    </a>
-   </li>
-   <li>
-    <a href="#seti-syntax">
-     Seti Syntax
+    <a href="#nuclide">
+     Nuclide
     </a>
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="http://enrmarc.github.io/atom-theme-gallery/">
+   Themes
+  </a>
  </li>
  <li>
   <a href="#uncategorized">
@@ -75,6 +70,11 @@
    <li>
     <a href="#beautify">
      Beautify
+    </a>
+   </li>
+   <li>
+    <a href="#code-peek">
+     Code Peek
     </a>
    </li>
    <li>
@@ -203,6 +203,11 @@ snippets for a specific language or file format.
    Stylus
   </a>
  </li>
+ <li>
+  <a href="https://atom.io/packages/atom-typescript">
+   TypeScript
+  </a>
+ </li>
 </ul>
 <h2>
  Lint
@@ -252,58 +257,107 @@ snippets for a specific language or file format.
   — pylama
  </li>
  <li>
+  <a href="https://atom.io/packages/linter-sass-lint">
+   SASS
+  </a>
+  — sass-lint
+ </li>
+ <li>
   <a href="https://atom.io/packages/linter-stylint">
    Stylus
   </a>
   — stylint
  </li>
+ <li>
+  <p>
+   <a href="https://atom.io/packages/linter-tslint">
+    TypeScript
+   </a>
+   - tslint
+  </p>
+  <p>
+   <img alt="atom-linter" src="https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966"/>
+  </p>
+ </li>
 </ul>
-<p>
- <img alt="atom-linter" src="https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966"/>
-</p>
 <h2>
- Themes
+ Build
 </h2>
-<h3>
- UI
-</h3>
 <p>
- UI packages can change your atom editor's appearance.
+ To enable building, you'll need the general
+ <a href="https://atom.io/packages/build">
+  build
+ </a>
+ which provides the interface for the provider plugins for specific languages and adds integrates with
+ <a href="#lint">
+  lint
+ </a>
+ . The full list of current plugins can be found at
+ <a href="http://atombuild.github.io/">
+  atombuild.github.io
+ </a>
+ , a few examples being:
 </p>
+<ul>
+ <li>
+  <a href="https://atom.io/packages/build-applescript">
+   AppleScript
+  </a>
+  — oscompile
+ </li>
+ <li>
+  <a href="https://atom.io/packages/build-xcodebuild">
+   C/C++/Objective C
+  </a>
+  — xcodebuild
+ </li>
+ <li>
+  <a href="https://atom.io/packages/build-coffee">
+   CoffeeScript
+  </a>
+  - coffee
+ </li>
+ <li>
+  <a href="https://github.com/AtomBuild/atom-build-make">
+   GNU Make
+  </a>
+  - make
+ </li>
+ <li>
+  <a href="https://atom.io/packages/build-sass">
+   Sass
+  </a>
+  — sass
+ </li>
+ <li>
+  <p>
+   <a href="https://atom.io/packages/build-tsc">
+    TypeScript
+   </a>
+   - tsc
+  </p>
+  <p>
+   <img alt="atom-build" src="https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966"/>
+  </p>
+ </li>
+</ul>
+<h2>
+ Extensions
+</h2>
 <h4>
- <a href="https://atom.io/themes/atom-material-ui">
-  Atom Material UI
+ <a href="https://nuclide.io/">
+  Nuclide
  </a>
 </h4>
 <p>
- <img alt="" src="http://i.imgur.com/BbNSkFT.png"/>
-</p>
-<h4>
- <a href="https://atom.io/themes/seti-ui">
-  Seti UI
+ An open IDE for web and native mobile development, built on top of Atom maintained by
+ <a href="https://github.com/facebook/nuclide">
+  Facebook
  </a>
-</h4>
-<p>
- <img alt="" src="https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png"/>
+ .
 </p>
-<h3>
- Syntax
-</h3>
-<h4>
- <a href="https://atom.io/themes/atom-material-syntax">
-  Atom Material Syntax
- </a>
-</h4>
 <p>
- <img alt="" src="https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png"/>
-</p>
-<h4>
- <a href="https://atom.io/themes/seti-syntax">
-  Seti Syntax
- </a>
-</h4>
-<p>
- <img alt="" src="https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png"/>
+ <img alt="" src="https://nuclide.io/static/images/docs/promo-hack.png"/>
 </p>
 <h2>
  Uncategorized
@@ -381,6 +435,19 @@ snippets for a specific language or file format.
   JavaScript, and much more in Atom.
  </p>
 </blockquote>
+<h4>
+ <a href="https://atom.io/packages/code-peek">
+  Code Peek
+ </a>
+</h4>
+<blockquote>
+ <p>
+  Quickly peek and edit functions in separate files from the context of your current editor.
+ </p>
+</blockquote>
+<p>
+ <img alt="Code Peek Demo" src="https://github.com/DFreds/code-peek-atom/blob/master/code-peek.gif?raw=true"/>
+</p>
 <h4>
  <a href="https://atom.io/packages/color-picker">
   Color Picker

@@ -14,226 +14,267 @@
  </p>
 </blockquote>
 <p>
+ <a href="http://git.io/git-tips">
+  English
+ </a>
+ |
+ <a href="https://github.com/521xueweihan/git-tips">
+  中文
+ </a>
+</p>
+<h3>
+ <strong>
+  Tools:
+ </strong>
+</h3>
+<ul>
+ <li>
+  <a href="https://www.npmjs.com/package/git-tip">
+   git-tip
+  </a>
+  - A handy CLI to make optimum use of these tips.
+ </li>
+</ul>
+<p>
+ P.S: All these commands are tested on
+ <code>
+  git version 2.7.4 (Apple Git-66)
+ </code>
+ .
+</p>
+<p>
  <!-- @doxie.inject start toc -->
  <!-- Don’t remove or change the comment above – that can break automatic updates. -->
  *
- <a href="https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so">
+ <a href="#everyday-git-in-twenty-commands-or-so">
   Everyday Git in twenty commands or so
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-helpful-guides-that-come-with-git">
+ <a href="#show-helpful-guides-that-come-with-git">
   Show helpful guides that come with Git
  </a>
  *
- <a href="https://github.com/git-tips/tips#overwrite-pull">
+ <a href="#overwrite-pull">
   Overwrite pull
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-of-all-files-till-a-commit">
+ <a href="#list-of-all-files-till-a-commit">
   List of all files till a commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#git-reset-first-commit">
+ <a href="#git-reset-first-commit">
   Git reset first commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-all-the-conflicted-files">
+ <a href="#list-all-the-conflicted-files">
   List all the conflicted files
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-of-all-files-changed-in-a-commit">
+ <a href="#list-of-all-files-changed-in-a-commit">
   List of all files changed in a commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#unstaged-changes-since-last-commit">
+ <a href="#unstaged-changes-since-last-commit">
   Unstaged changes since last commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#changes-staged-for-commit">
+ <a href="#changes-staged-for-commit">
   Changes staged for commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-both-staged-and-unstaged-changes">
+ <a href="#show-both-staged-and-unstaged-changes">
   Show both staged and unstaged changes
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-all-branches-that-are-already-merged-into-master">
+ <a href="#list-all-branches-that-are-already-merged-into-master">
   List all branches that are already merged into master
  </a>
  *
- <a href="https://github.com/git-tips/tips#quickly-switch-to-the-previous-branch">
+ <a href="#quickly-switch-to-the-previous-branch">
   Quickly switch to the previous branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#remove-branches-that-have-already-been-merged-with-master">
+ <a href="#remove-branches-that-have-already-been-merged-with-master">
   Remove branches that have already been merged with master
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-all-branches-and-their-upstreams-as-well-as-last-commit-on-branch">
+ <a href="#list-all-branches-and-their-upstreams-as-well-as-last-commit-on-branch">
   List all branches and their upstreams, as well as last commit on branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#track-upstream-branch">
+ <a href="#track-upstream-branch">
   Track upstream branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#delete-local-branch">
+ <a href="#delete-local-branch">
   Delete local branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#delete-remote-branch">
+ <a href="#delete-remote-branch">
   Delete remote branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#undo-local-changes-with-the-last-content-in-head">
+ <a href="#delete-local-tag">
+  Delete local tag
+ </a>
+ *
+ <a href="#delete-remote-tag">
+  Delete remote tag
+ </a>
+ *
+ <a href="#undo-local-changes-with-the-last-content-in-head">
   Undo local changes with the last content in head
  </a>
  *
- <a href="https://github.com/git-tips/tips#revert-undo-a-commit-by-creating-a-new-commit">
+ <a href="#revert-undo-a-commit-by-creating-a-new-commit">
   Revert: Undo a commit by creating a new commit
  </a>
  *
- <a href="https://github.com/git-tips/tips#reset-discard-commits-advised-for-private-branch">
+ <a href="#reset-discard-commits-advised-for-private-branch">
   Reset: Discard commits, advised for private branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#reword-the-previous-commit-message">
+ <a href="#reword-the-previous-commit-message">
   Reword the previous commit message
  </a>
  *
- <a href="https://github.com/git-tips/tips#amend-author">
+ <a href="#see-commit-history-for-just-the-current-branch">
+  See commit history for just the current branch
+ </a>
+ *
+ <a href="#amend-author">
   Amend author.
  </a>
  *
- <a href="https://github.com/git-tips/tips#reset-author-after-author-has-been-changed-in-the-global-config">
+ <a href="#reset-author-after-author-has-been-changed-in-the-global-config">
   Reset author, after author has been changed in the global config.
  </a>
  *
- <a href="https://github.com/git-tips/tips#changing-a-remotes-url">
+ <a href="#changing-a-remotes-url">
   Changing a remote's URL
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-list-of-all-remote-references">
+ <a href="#get-list-of-all-remote-references">
   Get list of all remote references
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-list-of-all-local-and-remote-branches">
+ <a href="#get-list-of-all-local-and-remote-branches">
   Get list of all local and remote branches
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-only-remote-branches">
+ <a href="#get-only-remote-branches">
   Get only remote branches
  </a>
  *
- <a href="https://github.com/git-tips/tips#stage-parts-of-a-changed-file-instead-of-the-entire-file">
+ <a href="#stage-parts-of-a-changed-file-instead-of-the-entire-file">
   Stage parts of a changed file, instead of the entire file
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-git-bash-completion">
+ <a href="#get-git-bash-completion">
   Get git bash completion
  </a>
  *
- <a href="https://github.com/git-tips/tips#what-changed-since-two-weeks">
+ <a href="#what-changed-since-two-weeks">
   What changed since two weeks?
  </a>
  *
- <a href="https://github.com/git-tips/tips#see-all-commits-made-since-forking-from-master">
+ <a href="#see-all-commits-made-since-forking-from-master">
   See all commits made since forking from master
  </a>
  *
- <a href="https://github.com/git-tips/tips#pick-commits-across-branches-using-cherry-pick">
+ <a href="#pick-commits-across-branches-using-cherry-pick">
   Pick commits across branches using cherry-pick
  </a>
  *
- <a href="https://github.com/git-tips/tips#find-out-branches-containing-commit-hash">
+ <a href="#find-out-branches-containing-commit-hash">
   Find out branches containing commit-hash
  </a>
  *
- <a href="https://github.com/git-tips/tips#git-aliases">
+ <a href="#git-aliases">
   Git Aliases
  </a>
  *
- <a href="https://github.com/git-tips/tips#saving-current-state-of-tracked-files-without-commiting">
+ <a href="#saving-current-state-of-tracked-files-without-commiting">
   Saving current state of tracked files without commiting
  </a>
  *
- <a href="https://github.com/git-tips/tips#saving-current-state-including-untracked-files">
+ <a href="#saving-current-state-including-untracked-files">
   Saving current state including untracked files
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-list-of-all-saved-stashes">
+ <a href="#show-list-of-all-saved-stashes">
   Show list of all saved stashes
  </a>
  *
- <a href="https://github.com/git-tips/tips#apply-any-stash-without-deleting-from-the-stashed-list">
+ <a href="#apply-any-stash-without-deleting-from-the-stashed-list">
   Apply any stash without deleting from the stashed list
  </a>
  *
- <a href="https://github.com/git-tips/tips#apply-last-stashed-state-and-delete-it-from-stashed-list">
+ <a href="#apply-last-stashed-state-and-delete-it-from-stashed-list">
   Apply last stashed state and delete it from stashed list
  </a>
  *
- <a href="https://github.com/git-tips/tips#delete-all-stored-stashes">
+ <a href="#delete-all-stored-stashes">
   Delete all stored stashes
  </a>
  *
- <a href="https://github.com/git-tips/tips#grab-a-single-file-from-a-stash">
+ <a href="#grab-a-single-file-from-a-stash">
   Grab a single file from a stash
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-all-tracked-files">
+ <a href="#show-all-tracked-files">
   Show all tracked files
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-all-untracked-files">
+ <a href="#show-all-untracked-files">
   Show all untracked files
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-all-ignored-files">
+ <a href="#show-all-ignored-files">
   Show all ignored files
  </a>
  *
- <a href="https://github.com/git-tips/tips#create-new-working-tree-from-a-repository-git-25">
+ <a href="#create-new-working-tree-from-a-repository-git-25">
   Create new working tree from a repository (git 2.5)
  </a>
  *
- <a href="https://github.com/git-tips/tips#create-new-working-tree-from-head-state">
+ <a href="#create-new-working-tree-from-head-state">
   Create new working tree from HEAD state
  </a>
  *
- <a href="https://github.com/git-tips/tips#untrack-files-without-deleting">
+ <a href="#untrack-files-without-deleting">
   Untrack files without deleting
  </a>
  *
- <a href="https://github.com/git-tips/tips#before-deleting-untracked-filesdirectory-do-a-dry-run-to-get-the-list-of-these-filesdirectories">
+ <a href="#before-deleting-untracked-filesdirectory-do-a-dry-run-to-get-the-list-of-these-filesdirectories">
   Before deleting untracked files/directory, do a dry run to get the list of these files/directories
  </a>
  *
- <a href="https://github.com/git-tips/tips#forcefully-remove-untracked-files">
+ <a href="#forcefully-remove-untracked-files">
   Forcefully remove untracked files
  </a>
  *
- <a href="https://github.com/git-tips/tips#forcefully-remove-untracked-directory">
+ <a href="#forcefully-remove-untracked-directory">
   Forcefully remove untracked directory
  </a>
  *
- <a href="https://github.com/git-tips/tips#update-all-the-submodules">
+ <a href="#update-all-the-submodules">
   Update all the submodules
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-all-commits-in-the-current-branch-yet-to-be-merged-to-master">
+ <a href="#show-all-commits-in-the-current-branch-yet-to-be-merged-to-master">
   Show all commits in the current branch yet to be merged to master
  </a>
  *
- <a href="https://github.com/git-tips/tips#rename-a-branch">
+ <a href="#rename-a-branch">
   Rename a branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#rebases-feature-to-master-and-merges-it-in-to-master">
-  rebases 'feature' to 'master' and merges it in to master
+ <a href="#rebases-feature-to-master-and-merges-it-in-to-master">
+  Rebases 'feature' to 'master' and merges it in to master
  </a>
  *
- <a href="https://github.com/git-tips/tips#archive-the-master-branch">
+ <a href="#archive-the-master-branch">
   Archive the
   <code>
    master
@@ -241,75 +282,79 @@
   branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#modify-previous-commit-without-modifying-the-commit-message">
+ <a href="#modify-previous-commit-without-modifying-the-commit-message">
   Modify previous commit without modifying the commit message
  </a>
  *
- <a href="https://github.com/git-tips/tips#prunes-branches-that-have-been-deleted-in-the-remote">
-  Prunes branches that have been deleted in the remote.
+ <a href="#prunes-references-to-remote-branches-that-have-been-deleted-in-the-remote">
+  Prunes references to remote branches that have been deleted in the remote.
  </a>
  *
- <a href="https://github.com/git-tips/tips#retrieve-the-commit-hash-of-the-initial-revision">
+ <a href="#retrieve-the-commit-hash-of-the-initial-revision">
   Retrieve the commit hash of the initial revision.
  </a>
  *
- <a href="https://github.com/git-tips/tips#visualize-the-version-tree">
+ <a href="#visualize-the-version-tree">
   Visualize the version tree.
  </a>
  *
- <a href="https://github.com/git-tips/tips#deploying-git-tracked-subfolder-to-gh-pages">
+ <a href="#deploying-git-tracked-subfolder-to-gh-pages">
   Deploying git tracked subfolder to gh-pages
  </a>
  *
- <a href="https://github.com/git-tips/tips#adding-a-project-to-repo-using-subtree">
+ <a href="#adding-a-project-to-repo-using-subtree">
   Adding a project to repo using subtree
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-latest-changes-in-your-repo-for-a-linked-project-using-subtree">
+ <a href="#get-latest-changes-in-your-repo-for-a-linked-project-using-subtree">
   Get latest changes in your repo for a linked project using subtree
  </a>
  *
- <a href="https://github.com/git-tips/tips#export-a-branch-with-history-to-the-a-file">
-  Export a branch with history to the a file.
+ <a href="#export-a-branch-with-history-to-a-file">
+  Export a branch with history to a file.
  </a>
  *
- <a href="https://github.com/git-tips/tips#import-from-a-bundle">
+ <a href="#import-from-a-bundle">
   Import from a bundle
  </a>
  *
- <a href="https://github.com/git-tips/tips#get-the-name-of-current-branch">
+ <a href="#get-the-name-of-current-branch">
   Get the name of current branch.
  </a>
  *
- <a href="https://github.com/git-tips/tips#ignore-one-file-on-commit-eg-changelog">
+ <a href="#ignore-one-file-on-commit-eg-changelog">
   Ignore one file on commit (e.g. Changelog).
  </a>
  *
- <a href="https://github.com/git-tips/tips#stash-changes-before-rebasing">
+ <a href="#stash-changes-before-rebasing">
   Stash changes before rebasing
  </a>
  *
- <a href="https://github.com/git-tips/tips#fetch-pull-request-by-id-to-a-local-branch">
+ <a href="#fetch-pull-request-by-id-to-a-local-branch">
   Fetch pull request by ID to a local branch
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-the-most-recent-tag-on-the-current-branch">
+ <a href="#show-the-most-recent-tag-on-the-current-branch">
   Show the most recent tag on the current branch.
  </a>
  *
- <a href="https://github.com/git-tips/tips#show-inline-word-diff">
+ <a href="#show-inline-word-diff">
   Show inline word diff.
  </a>
  *
- <a href="https://github.com/git-tips/tips#dont-consider-changes-for-tracked-file">
+ <a href="#show-changes-using-common-diff-tools">
+  Show changes using common diff tools.
+ </a>
+ *
+ <a href="#dont-consider-changes-for-tracked-file">
   Don’t consider changes for tracked file.
  </a>
  *
- <a href="https://github.com/git-tips/tips#undo-assume-unchanged">
+ <a href="#undo-assume-unchanged">
   Undo assume-unchanged.
  </a>
  *
- <a href="https://github.com/git-tips/tips#clean-the-files-from-gitignore">
+ <a href="#clean-the-files-from-gitignore">
   Clean the files from
   <code>
    .gitignore
@@ -317,100 +362,208 @@
   .
  </a>
  *
- <a href="https://github.com/git-tips/tips#restore-deleted-file">
+ <a href="#restore-deleted-file">
   Restore deleted file.
  </a>
  *
- <a href="https://github.com/git-tips/tips#restore-file-to-a-specific-commit-hash">
+ <a href="#restore-file-to-a-specific-commit-hash">
   Restore file to a specific commit-hash
  </a>
  *
- <a href="https://github.com/git-tips/tips#always-rebase-instead-of-merge-on-pull">
+ <a href="#always-rebase-instead-of-merge-on-pull">
   Always rebase instead of merge on pull.
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-all-the-alias-and-configs">
+ <a href="#list-all-the-alias-and-configs">
   List all the alias and configs.
  </a>
  *
- <a href="https://github.com/git-tips/tips#make-git-case-sensitive">
+ <a href="#make-git-case-sensitive">
   Make git case sensitive.
  </a>
  *
- <a href="https://github.com/git-tips/tips#auto-correct-typos">
+ <a href="#add-custom-editors">
+  Add custom editors.
+ </a>
+ *
+ <a href="#auto-correct-typos">
   Auto correct typos.
  </a>
  *
- <a href="https://github.com/git-tips/tips#check-if-the-change-was-a-part-of-a-release">
+ <a href="#check-if-the-change-was-a-part-of-a-release">
   Check if the change was a part of a release.
  </a>
  *
- <a href="https://github.com/git-tips/tips#dry-run-any-command-that-supports-dry-run-flag-should-do">
+ <a href="#dry-run-any-command-that-supports-dry-run-flag-should-do">
   Dry run. (any command that supports dry-run flag should do.)
  </a>
  *
- <a href="https://github.com/git-tips/tips#marks-your-commit-as-a-fix-of-a-previous-commit">
+ <a href="#marks-your-commit-as-a-fix-of-a-previous-commit">
   Marks your commit as a fix of a previous commit.
  </a>
  *
- <a href="https://github.com/git-tips/tips#squash-fixup-commits-normal-commits">
-  squash fixup commits normal commits.
+ <a href="#squash-fixup-commits-normal-commits">
+  Squash fixup commits normal commits.
  </a>
  *
- <a href="https://github.com/git-tips/tips#skip-staging-area-during-commit">
-  skip staging area during commit.
+ <a href="#skip-staging-area-during-commit">
+  Skip staging area during commit.
  </a>
  *
- <a href="https://github.com/git-tips/tips#list-ignored-files">
+ <a href="#interactive-staging">
+  Interactive staging.
+ </a>
+ *
+ <a href="#list-ignored-files">
   List ignored files.
  </a>
  *
- <a href="https://github.com/git-tips/tips#status-of-ignored-files">
+ <a href="#status-of-ignored-files">
   Status of ignored files.
  </a>
  *
- <a href="https://github.com/git-tips/tips#commits-in-branch1-that-are-not-in-branch2">
+ <a href="#commits-in-branch1-that-are-not-in-branch2">
   Commits in Branch1 that are not in Branch2
  </a>
  *
- <a href="https://github.com/git-tips/tips#reuse-recorded-resolution-record-and-reuse-previous-conflicts-resolutions">
-  reuse recorded resolution, record and reuse previous conflicts resolutions.
+ <a href="#reuse-recorded-resolution-record-and-reuse-previous-conflicts-resolutions">
+  Reuse recorded resolution, record and reuse previous conflicts resolutions.
  </a>
  *
- <a href="https://github.com/git-tips/tips#open-all-conflicted-files-in-an-editor">
+ <a href="#open-all-conflicted-files-in-an-editor">
   Open all conflicted files in an editor.
  </a>
  *
- <a href="https://github.com/git-tips/tips#count-unpacked-number-of-objects-and-their-disk-consumption">
+ <a href="#count-unpacked-number-of-objects-and-their-disk-consumption">
   Count unpacked number of objects and their disk consumption.
  </a>
  *
- <a href="https://github.com/git-tips/tips#prune-all-unreachable-objects-from-the-object-database">
+ <a href="#prune-all-unreachable-objects-from-the-object-database">
   Prune all unreachable objects from the object database.
  </a>
  *
- <a href="https://github.com/git-tips/tips#instantly-browse-your-working-repository-in-gitweb">
+ <a href="#instantly-browse-your-working-repository-in-gitweb">
   Instantly browse your working repository in gitweb.
  </a>
  *
- <a href="https://github.com/git-tips/tips#view-the-gpg-signatures-in-the-commit-log">
+ <a href="#view-the-gpg-signatures-in-the-commit-log">
   View the GPG signatures in the commit log
  </a>
  *
- <a href="https://github.com/git-tips/tips#remove-entry-in-the-global-config">
+ <a href="#remove-entry-in-the-global-config">
   Remove entry in the global config.
  </a>
  *
- <a href="https://github.com/git-tips/tips#checkout-a-new-branch-without-any-history">
+ <a href="#checkout-a-new-branch-without-any-history">
   Checkout a new branch without any history
  </a>
  *
- <a href="https://github.com/git-tips/tips#file-diff-between-staging-and-the-last-file-version">
-  File diff between staging and the last file version.
+ <a href="#extract-file-from-another-branch">
+  Extract file from another branch.
  </a>
  *
- <a href="https://github.com/git-tips/tips#extract-file-from-another-branch">
-  Extract file from another branch.
+ <a href="#list-only-the-root-and-merge-commits">
+  List only the root and merge commits.
+ </a>
+ *
+ <a href="#change-previous-two-commits-with-an-interactive-rebase">
+  Change previous two commits with an interactive rebase.
+ </a>
+ *
+ <a href="#list-all-branch-is-wip">
+  List all branch is WIP
+ </a>
+ *
+ <a href="#find-guilty-with-binary-search">
+  Find guilty with binary search
+ </a>
+ *
+ <a href="#bypass-pre-commit-and-commit-msg-githooks">
+  Bypass pre-commit and commit-msg githooks
+ </a>
+ *
+ <a href="#list-commits-and-changes-to-a-specific-file-even-through-renaming">
+  List commits and changes to a specific file (even through renaming)
+ </a>
+ *
+ <a href="#clone-a-single-branch">
+  Clone a single branch
+ </a>
+ *
+ <a href="#create-and-switch-new-branch">
+  Create and switch new branch
+ </a>
+ *
+ <a href="#ignore-file-mode-changes-on-commits">
+  Ignore file mode changes on commits
+ </a>
+ *
+ <a href="#turn-off-git-colored-terminal-output">
+  Turn off git colored terminal output
+ </a>
+ *
+ <a href="#specific-color-settings">
+  Specific color settings
+ </a>
+ *
+ <a href="#show-all-local-branches-ordered-by-recent-commits">
+  Show all local branches ordered by recent commits
+ </a>
+ *
+ <a href="#find-lines-matching-the-pattern-regex-or-string-in-tracked-files">
+  Find lines matching the pattern (regex or string) in tracked files
+ </a>
+ *
+ <a href="#clone-a-shallow-copy-of-a-repository">
+  Clone a shallow copy of a repository
+ </a>
+ *
+ <a href="#search-commit-log-across-all-branches-for-given-text">
+  Search Commit log across all branches for given text
+ </a>
+ *
+ <a href="#get-first-commit-in-a-branch-from-master">
+  Get first commit in a branch (from master)
+ </a>
+ *
+ <a href="#unstaging-staged-file">
+  Unstaging Staged file
+ </a>
+ *
+ <a href="#force-push-to-remote-repository">
+  Force push to Remote Repository
+ </a>
+ *
+ <a href="#adding-remote-name">
+  Adding Remote name
+ </a>
+ *
+ <a href="#show-the-author-time-and-last-revision-made-to-each-line-of-a-given-file">
+  Show the author, time and last revision made to each line of a given file
+ </a>
+ *
+ <a href="#group-commits-by-authors-and-title">
+  Group commits by authors and title
+ </a>
+ *
+ <a href="#forced-push-but-still-ensure-you-dont-overwrite-others-work">
+  Forced push but still ensure you don't overwrite other's work
+ </a>
+ *
+ <a href="#show-how-many-lines-does-an-author-contribute">
+  Show how many lines does an author contribute
+ </a>
+ *
+ <a href="#revert-reverting-an-entire-merge">
+  Revert: Reverting an entire merge
+ </a>
+ *
+ <a href="#number-of-commits-in-a-branch">
+  Number of commits in a branch
+ </a>
+ *
+ <a href="#alias-git-undo">
+  Alias: git undo
  </a>
 </p>
 <p>
@@ -502,6 +655,15 @@ git diff
 git diff --cached
  </code>
 </p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git diff --staged
+ </code>
+</p>
 <h2>
  Show both staged and unstaged changes
 </h2>
@@ -517,7 +679,7 @@ git diff HEAD
 <p>
  <code>
   sh
-git checkout master && git branch --merged
+git branch --merged master
  </code>
 </p>
 <h2>
@@ -535,7 +697,16 @@ git checkout -
 <p>
  <code>
   sh
-git branch --merged | grep -v '\*' | xargs -n 1 git branch -d
+git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
+ </code>
+</p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git branch --merged master | grep -v '^\*\|  master' | xargs -n 1 git branch -d # will not delete master if master is not checked out
  </code>
 </p>
 <h2>
@@ -584,6 +755,24 @@ git push origin :<remote_branchname>
  </code>
 </p>
 <h2>
+ Delete local tag
+</h2>
+<p>
+ <code>
+  sh
+git tag -d <tag-name>
+ </code>
+</p>
+<h2>
+ Delete remote tag
+</h2>
+<p>
+ <code>
+  sh
+git push origin :refs/tags/<tag-name>
+ </code>
+</p>
+<h2>
  Undo local changes with the last content in head
 </h2>
 <p>
@@ -617,6 +806,15 @@ git reset <commit-ish>
  <code>
   sh
 git commit -v --amend
+ </code>
+</p>
+<h2>
+ See commit history for just the current branch
+</h2>
+<p>
+ <code>
+  sh
+git cherry -v master
  </code>
 </p>
 <h2>
@@ -706,6 +904,15 @@ curl http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-completio
 <p>
  <code>
   sh
+git log --no-merges --raw --since='2 weeks ago'
+ </code>
+</p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
 git whatchanged --since='2 weeks ago'
  </code>
 </p>
@@ -724,7 +931,7 @@ git log --no-merges --stat --reverse master..
 <p>
  <code>
   sh
-git checkout <branch-name> && cherry-pick <commit-ish>
+git checkout <branch-name> && git cherry-pick <commit-ish>
  </code>
 </p>
 <h2>
@@ -971,6 +1178,21 @@ git clean -df
 git submodule foreach git pull
  </code>
 </p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git submodule update --init --recursive
+ </code>
+</p>
+<p>
+ <code>
+  sh
+git submodule update --remote
+ </code>
+</p>
 <h2>
  Show all commits in the current branch yet to be merged to master
 </h2>
@@ -1008,12 +1230,12 @@ git branch -m [<old-branch-name>] <new-branch-name>
  </code>
 </p>
 <h2>
- rebases 'feature' to 'master' and merges it in to master
+ Rebases 'feature' to 'master' and merges it in to master
 </h2>
 <p>
  <code>
   sh
-git checkout feature && git rebase @{-1} && git checkout @{-2} && git merge @{-1}
+git rebase master feature && git checkout master && git merge -
  </code>
 </p>
 <h2>
@@ -1039,7 +1261,7 @@ git add --all && git commit --amend --no-edit
  </code>
 </p>
 <h2>
- Prunes branches that have been deleted in the remote.
+ Prunes references to remote branches that have been deleted in the remote.
 </h2>
 <p>
  <code>
@@ -1063,6 +1285,27 @@ git remote prune origin
  <code>
   sh
  git rev-list --reverse HEAD | head -1
+ </code>
+</p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git rev-list --max-parents=0 HEAD
+ </code>
+</p>
+<p>
+ <code>
+  sh
+git log --pretty=oneline | tail -1 | cut -c 1-40
+ </code>
+</p>
+<p>
+ <code>
+  sh
+git log --pretty=oneline --reverse | head -1 | cut -c 1-40
  </code>
 </p>
 <h2>
@@ -1111,7 +1354,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
  </code>
 </p>
 <h2>
- Export a branch with history to the a file.
+ Export a branch with history to a file.
 </h2>
 <p>
  <code>
@@ -1192,6 +1435,15 @@ git diff --word-diff
  </code>
 </p>
 <h2>
+ Show changes using common diff tools.
+</h2>
+<p>
+ <code>
+  sh
+git difftool -t <commit1> <commit2> <path>
+ </code>
+</p>
+<h2>
  Don’t consider changes for tracked file.
 </h2>
 <p>
@@ -1246,7 +1498,7 @@ git checkout <commit-ish> -- <file_path>
 <p>
  <code>
   sh
-git config --global branch.autosetuprebase always
+git config --global pull.rebase true
  </code>
 </p>
 <h2>
@@ -1265,6 +1517,15 @@ git config --list
  <code>
   sh
 git config --global core.ignorecase false
+ </code>
+</p>
+<h2>
+ Add custom editors.
+</h2>
+<p>
+ <code>
+  sh
+git config --global core.editor '$EDITOR'
  </code>
 </p>
 <h2>
@@ -1304,7 +1565,7 @@ git commit --fixup <SHA-1>
  </code>
 </p>
 <h2>
- squash fixup commits normal commits.
+ Squash fixup commits normal commits.
 </h2>
 <p>
  <code>
@@ -1313,12 +1574,21 @@ git rebase -i --autosquash
  </code>
 </p>
 <h2>
- skip staging area during commit.
+ Skip staging area during commit.
 </h2>
 <p>
  <code>
   sh
-git commit -am <commit message>
+git commit --only <file_path>
+ </code>
+</p>
+<h2>
+ Interactive staging.
+</h2>
+<p>
+ <code>
+  sh
+git add -i
  </code>
 </p>
 <h2>
@@ -1349,7 +1619,7 @@ git log Branch1 ^Branch2
  </code>
 </p>
 <h2>
- reuse recorded resolution, record and reuse previous conflicts resolutions.
+ Reuse recorded resolution, record and reuse previous conflicts resolutions.
 </h2>
 <p>
  <code>
@@ -1421,21 +1691,272 @@ git checkout --orphan <branch_name>
  </code>
 </p>
 <h2>
- File diff between staging and the last file version.
-</h2>
-<p>
- <code>
-  sh
-git diff --staged
- </code>
-</p>
-<h2>
  Extract file from another branch.
 </h2>
 <p>
  <code>
   sh
-git show <banch_name>:<file_name>
+git show <branch_name>:<file_name>
+ </code>
+</p>
+<h2>
+ List only the root and merge commits.
+</h2>
+<p>
+ <code>
+  sh
+git log --first-parent
+ </code>
+</p>
+<h2>
+ Change previous two commits with an interactive rebase.
+</h2>
+<p>
+ <code>
+  sh
+git rebase --interactive HEAD~2
+ </code>
+</p>
+<h2>
+ List all branch is WIP
+</h2>
+<p>
+ <code>
+  sh
+git checkout master && git branch --no-merged
+ </code>
+</p>
+<h2>
+ Find guilty with binary search
+</h2>
+<p>
+ ```sh
+git bisect start                    # Search start 
+git bisect bad                      # Set point to bad commit 
+git bisect good v2.6.13-rc2         # Set point to good commit|tag 
+git bisect bad                      # Say current state is bad 
+git bisect good                     # Say current state is good 
+git bisect reset                    # Finish search
+</p>
+<p>
+ ```
+</p>
+<h2>
+ Bypass pre-commit and commit-msg githooks
+</h2>
+<p>
+ <code>
+  sh
+git commit --no-verify
+ </code>
+</p>
+<h2>
+ List commits and changes to a specific file (even through renaming)
+</h2>
+<p>
+ <code>
+  sh
+git log --follow -p -- <file_path>
+ </code>
+</p>
+<h2>
+ Clone a single branch
+</h2>
+<p>
+ <code>
+  sh
+git clone -b <branch-name> --single-branch https://github.com/user/repo.git
+ </code>
+</p>
+<h2>
+ Create and switch new branch
+</h2>
+<p>
+ <code>
+  sh
+git checkout -b <branch-name>
+ </code>
+</p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git branch <branch-name> && git checkout <branch-name>
+ </code>
+</p>
+<h2>
+ Ignore file mode changes on commits
+</h2>
+<p>
+ <code>
+  sh
+git config core.fileMode false
+ </code>
+</p>
+<h2>
+ Turn off git colored terminal output
+</h2>
+<p>
+ <code>
+  sh
+git config --global color.ui false
+ </code>
+</p>
+<h2>
+ Specific color settings
+</h2>
+<p>
+ <code>
+  sh
+git config --global <specific command e.g branch, diff> <true, false or always>
+ </code>
+</p>
+<h2>
+ Show all local branches ordered by recent commits
+</h2>
+<p>
+ <code>
+  sh
+git for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads/
+ </code>
+</p>
+<h2>
+ Find lines matching the pattern (regex or string) in tracked files
+</h2>
+<p>
+ <code>
+  sh
+git grep --heading --line-number 'foo bar'
+ </code>
+</p>
+<h2>
+ Clone a shallow copy of a repository
+</h2>
+<p>
+ <code>
+  sh
+git clone https://github.com/user/repo.git --depth 1
+ </code>
+</p>
+<h2>
+ Search Commit log across all branches for given text
+</h2>
+<p>
+ <code>
+  sh
+git log --all --grep='<given-text>'
+ </code>
+</p>
+<h2>
+ Get first commit in a branch (from master)
+</h2>
+<p>
+ <code>
+  sh
+git log master..<branch-name> --oneline | tail -1
+ </code>
+</p>
+<h2>
+ Unstaging Staged file
+</h2>
+<p>
+ <code>
+  sh
+git reset HEAD <file-name>
+ </code>
+</p>
+<h2>
+ Force push to Remote Repository
+</h2>
+<p>
+ <code>
+  sh
+git push -f <remote-name> <branch-name>
+ </code>
+</p>
+<h2>
+ Adding Remote name
+</h2>
+<p>
+ <code>
+  sh
+git remote add <remote-nickname> <remote-url>
+ </code>
+</p>
+<h2>
+ Show the author, time and last revision made to each line of a given file
+</h2>
+<p>
+ <code>
+  sh
+git blame <file-name>
+ </code>
+</p>
+<h2>
+ Group commits by authors and title
+</h2>
+<p>
+ <code>
+  sh
+git shortlog
+ </code>
+</p>
+<h2>
+ Forced push but still ensure you don't overwrite other's work
+</h2>
+<p>
+ <code>
+  sh
+git push --force-with-lease <remote-name> <branch-name>
+ </code>
+</p>
+<h2>
+ Show how many lines does an author contribute
+</h2>
+<p>
+ <code>
+  sh
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | gawk '{ add += <!-- @doxie.inject start -->; subs += <!-- @doxie.inject end -->; loc += <!-- @doxie.inject start --> - <!-- @doxie.inject end --> } END { printf "added lines: %s removed lines: %s total lines: %s
+", add, subs, loc }' -
+ </code>
+</p>
+<p>
+ <strong>
+  Alternatives:
+ </strong>
+ <code>
+  sh
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += <!-- @doxie.inject start -->; subs += <!-- @doxie.inject end -->; loc += <!-- @doxie.inject start --> - <!-- @doxie.inject end --> } END { printf "added lines: %s, removed lines: %s, total lines: %s
+", add, subs, loc }' - # on Mac OSX
+ </code>
+</p>
+<h2>
+ Revert: Reverting an entire merge
+</h2>
+<p>
+ <code>
+  sh
+git revert -m 1 <commit-ish>
+ </code>
+</p>
+<h2>
+ Number of commits in a branch
+</h2>
+<p>
+ <code>
+  sh
+git rev-list --count <branch-name>
+ </code>
+</p>
+<h2>
+ Alias: git undo
+</h2>
+<p>
+ <code>
+  sh
+git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
  </code>
 </p>
 <p>

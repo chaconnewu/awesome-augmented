@@ -318,7 +318,7 @@
   </a>
   – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
   <sup>
-   &#9733 234, pushed 12 days ago
+   &#9733 234, pushed 137 days ago
   </sup>
  </li>
 </ul>

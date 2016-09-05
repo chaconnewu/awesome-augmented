@@ -40,6 +40,11 @@
     </a>
    </li>
    <li>
+    <a href="#augmented--virtual-reality">
+     Augmented & Virtual Reality
+    </a>
+   </li>
+   <li>
     <a href="#camera">
      Camera
     </a>
@@ -162,7 +167,7 @@
   </a>
   - A simple pixel perfect camera with scaling options for 2D Games.
   <sup>
-   &#9733 76, pushed 217 days ago
+   &#9733 76, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -170,6 +175,16 @@
    Spine (Paid)
   </a>
   - A skeletal animation editor with a Unity library.
+ </li>
+ <li>
+  <a href="https://github.com/nickgravelyn/UnityTiled">
+   UnityTiled
+  </a>
+  - An importer for
+  <a href="http://www.mapeditor.org">
+   Tiled
+  </a>
+  maps.
  </li>
 </ul>
 <h2>
@@ -196,6 +211,23 @@
  </li>
 </ul>
 <h2>
+ Augmented & Virtual Reality
+</h2>
+<ul>
+ <li>
+  <a href="http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about">
+   ARToolKit
+  </a>
+  - Augumented Reality SDK that includes libraries, utilities, and examples.
+ </li>
+ <li>
+  <a href="https://developers.google.com/vr/unity">
+   Google VR SDK
+  </a>
+  - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
+ </li>
+</ul>
+<h2>
  Camera
 </h2>
 <ul>
@@ -216,7 +248,7 @@
   </a>
   - A 2D controller that behaves very similarily to Unity's CharacterController component.
   <sup>
-   &#9733 362, pushed 5 days ago
+   &#9733 362, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -241,7 +273,7 @@
   </a>
   - An input manager that tames makes handler cross-platform. controller input easy.
   <sup>
-   &#9733 457, pushed 160 days ago
+   &#9733 457, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -250,7 +282,7 @@
   </a>
   - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
   <sup>
-   &#9733 3, pushed 341 days ago
+   &#9733 3, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -259,7 +291,7 @@
   </a>
   - Makes it easy to recognize gestures and other touch input.
   <sup>
-   &#9733 317, pushed 5 days ago
+   &#9733 317, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -268,7 +300,7 @@
   </a>
   - Makes handling complex gesture interactions on any touch surface much easier.
   <sup>
-   &#9733 629, pushed 6 days ago
+   &#9733 629, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -435,7 +467,7 @@
   </a>
   - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
   <sup>
-   &#9733 739, pushed 17 days ago
+   &#9733 739, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +476,7 @@
   </a>
   - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
   <sup>
-   &#9733 545, pushed 12 days ago
+   &#9733 545, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -542,6 +574,12 @@
    Ray Wenderlich's Tutorials
   </a>
   - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
+ </li>
+ <li>
+  <a href="https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview">
+   Unity in HoloLens
+  </a>
+  - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
  </li>
  <li>
   <a href="http://docs.unity3d.com/Manual/VROverview.html">

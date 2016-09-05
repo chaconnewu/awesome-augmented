@@ -118,6 +118,11 @@
     </a>
    </li>
    <li>
+    <a href="#job-schedulers--workload-automation">
+     Job Schedulers / Workload Automation
+    </a>
+   </li>
+   <li>
     <a href="#elasticity">
      Elasticity
     </a>
@@ -286,6 +291,11 @@
     </a>
    </li>
    <li>
+    <a href="#talks">
+     Talks
+    </a>
+   </li>
+   <li>
     <a href="#tutorials">
      Tutorials
     </a>
@@ -352,16 +362,7 @@
   <a href="http://fabric8.io/">
    Fabric8
   </a>
-  - Open source integration platform for deep management of Java Containers (JVMs).
- </li>
- <li>
-  <a href="https://github.com/hailocab/h2">
-   H2
-  </a>
-  - Hailo's microservices platform.
-  <sup>
-   &#9733 240, pushed 189 days ago
-  </sup>
+  - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
  </li>
  <li>
   <a href="https://hook.io/">
@@ -387,7 +388,7 @@
   </a>
   - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
   <sup>
-   &#9733 351, pushed 5 days ago
+   &#9733 351, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -419,7 +420,7 @@
   </a>
   - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
   <sup>
-   &#9733 4467, pushed 1 days ago
+   &#9733 4467, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -429,12 +430,21 @@
   - Extensible RPC system for the JVM, used to construct high-concurrency servers.
  </li>
  <li>
+  <a href="https://github.com/GPars/GPars">
+   GPars
+  </a>
+  - Concurrency and Parallelism framework for the JVM.
+  <sup>
+   &#9733 103, pushed 172 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://github.com/Netflix/karyon">
    Karyon
   </a>
   - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
   <sup>
-   &#9733 337, pushed 47 days ago
+   &#9733 337, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -443,7 +453,7 @@
   </a>
   - Reactive microservices for the JVM.
   <sup>
-   &#9733 612, pushed 1 days ago
+   &#9733 612, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -452,7 +462,7 @@
   </a>
   - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
   <sup>
-   &#9733 484, pushed 4 days ago
+   &#9733 484, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -460,6 +470,12 @@
    Orbit
   </a>
   - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+ </li>
+ <li>
+  <a href="https://github.com/puniverse/quasar">
+   Quasar
+  </a>
+  - Fibers, Channels and Actors for the JVM.
  </li>
  <li>
   <a href="http://scalecube.io">
@@ -472,6 +488,12 @@
    Vert.X
   </a>
   - Toolkit for building reactive applications on the JVM.
+ </li>
+ <li>
+  <a href="https://github.com/vert-x3/vertx-microservices-toolbox">
+   Vert.X Toolbox
+  </a>
+  - A set of Vert.x components to build reactive microservice applications.
  </li>
 </ul>
 <h2>
@@ -487,7 +509,7 @@
   </a>
   - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
   <sup>
-   &#9733 2443, pushed 3 days ago
+   &#9733 2443, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -537,7 +559,7 @@
   </a>
   - C library to create simple HTTP servers and web applications.
   <sup>
-   &#9733 1013, pushed 1 days ago
+   &#9733 1013, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -546,7 +568,7 @@
   </a>
   - Library which allows building high-performance internet serving systems.
   <sup>
-   &#9733 89, pushed 439 days ago
+   &#9733 89, pushed 563 days ago
   </sup>
  </li>
 </ul>
@@ -563,7 +585,7 @@
   </a>
   - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
   <sup>
-   &#9733 8, pushed 162 days ago
+   &#9733 8, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -590,7 +612,7 @@
   </a>
   - C++ framework for building lightweight HTTP interfaces.
   <sup>
-   &#9733 203, pushed 32 days ago
+   &#9733 203, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -599,7 +621,7 @@
   </a>
   - A high-performance REST toolkit written in C++.
   <sup>
-   &#9733 65, pushed 27 days ago
+   &#9733 65, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -614,7 +636,7 @@
   </a>
   - C++ library for building high-performance RESTful web servers.
   <sup>
-   &#9733 211, pushed 111 days ago
+   &#9733 211, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -623,7 +645,7 @@
   </a>
   - Highly optimized class framework for writing C++ applications.
   <sup>
-   &#9733 326, pushed 6 days ago
+   &#9733 326, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -657,7 +679,7 @@
   </a>
   - A specification and conveniences for composable modules between web applications.
   <sup>
-   &#9733 819, pushed 2 days ago
+   &#9733 819, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -671,7 +693,7 @@
   </a>
   - Small, fast, modular HTTP server written in Erlang.
   <sup>
-   &#9733 3131, pushed 3 days ago
+   &#9733 3131, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -680,7 +702,7 @@
   </a>
   - This library solves the problem of implementing microservices with Erlang.
   <sup>
-   &#9733 64, pushed 356 days ago
+   &#9733 64, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -689,7 +711,7 @@
   </a>
   - Erlang library for building lightweight HTTP servers.
   <sup>
-   &#9733 1367, pushed 6 days ago
+   &#9733 1367, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -697,6 +719,18 @@
  Go
 </h3>
 <ul>
+ <li>
+  <a href="https://github.com/sauerbraten/crudapi">
+   Crudapi
+  </a>
+  - Go implementation of a RESTful JSON API exposing CRUD functionality relying on a custom storage.
+ </li>
+ <li>
+  <a href="https://echo.labstack.com/">
+   Echo
+  </a>
+  - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
+ </li>
  <li>
   <a href="http://gin-gonic.github.io/gin/">
    Gin
@@ -709,7 +743,7 @@
   </a>
   - Design-based HTTP microservices in Go.
   <sup>
-   &#9733 738, pushed 3 days ago
+   &#9733 738, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +752,7 @@
   </a>
   - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
   <sup>
-   &#9733 1042, pushed 124 days ago
+   &#9733 1042, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -733,7 +767,22 @@
   </a>
   - Distributed programming toolkit for microservices in the modern enterprise.
   <sup>
-   &#9733 3967, pushed 6 days ago
+   &#9733 3967, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/micro/go-micro">
+   Go-micro
+  </a>
+  - A pluggable RPC microservice framework.
+ </li>
+ <li>
+  <a href="https://github.com/bndr/gopencils">
+   Gopencils
+  </a>
+  - Easily consume REST APIs with Go.
+  <sup>
+   &#9733 342, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -748,7 +797,7 @@
   </a>
   - Microservices framework in Go.
   <sup>
-   &#9733 1067, pushed 18 days ago
+   &#9733 1067, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -757,7 +806,7 @@
   </a>
   - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
   <sup>
-   &#9733 2011, pushed 148 days ago
+   &#9733 2011, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -772,7 +821,7 @@
   </a>
   - A microservices toolchain in Go.
   <sup>
-   &#9733 1822, pushed 2 days ago
+   &#9733 1822, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -781,7 +830,43 @@
   </a>
   - Idiomatic HTTP middleware for Golang.
   <sup>
-   &#9733 3592, pushed 14 days ago
+   &#9733 3592, pushed 139 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/neutrinoapp/neutrino">
+   Neutrino
+  </a>
+  - Realtime/REST backend service.
+ </li>
+ <li>
+  <a href="https://github.com/smallnest/rpcx">
+   RPCX
+  </a>
+  - A distributed RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan.
+ </li>
+ <li>
+  <a href="https://github.com/dougblack/sleepy">
+   Sleepy
+  </a>
+  - REST for go.
+  <sup>
+   &#9733 597, pushed 864 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/magneticio/vamp-router">
+   Vamp-router
+  </a>
+  - Service routing, load balancing and filtering application.
+ </li>
+ <li>
+  <a href="https://github.com/cosiner/zerver">
+   Zerver
+  </a>
+  - RESTful API framework.
+  <sup>
+   &#9733 127, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -795,8 +880,14 @@
   </a>
   - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
   <sup>
-   &#9733 893, pushed 14 days ago
+   &#9733 893, pushed 139 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/haskell-servant/servant">
+   Servant
+  </a>
+  - Type-level web DSL.
  </li>
  <li>
   <a href="https://github.com/yesodweb/yesod">
@@ -804,7 +895,7 @@
   </a>
   - The Haskell RESTful web framework.
   <sup>
-   &#9733 1458, pushed 1 days ago
+   &#9733 1458, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -821,7 +912,7 @@
   </a>
   - A concise routing library for Ring/Clojure.
   <sup>
-   &#9733 2883, pushed 57 days ago
+   &#9733 2883, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -830,8 +921,14 @@
   </a>
   - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
   <sup>
-   &#9733 329, pushed 39 days ago
+   &#9733 329, pushed 164 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/friboo">
+   Friboo
+  </a>
+  - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
  </li>
  <li>
   <a href="http://clojure-liberator.github.io/liberator/">
@@ -851,7 +948,7 @@
   </a>
   - Built on top of Stuart Sierra's component library, offers a set of readymade components.
   <sup>
-   &#9733 350, pushed 2 days ago
+   &#9733 350, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -860,7 +957,7 @@
   </a>
   - Common basis for some of Otto.de's Clojure microservices.
   <sup>
-   &#9733 119, pushed 20 days ago
+   &#9733 119, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -874,8 +971,14 @@
   </a>
   - Framework for building REST services in Java.
   <sup>
-   &#9733 151, pushed 4 days ago
+   &#9733 151, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/LMAX-Exchange/disruptor">
+   Disruptor
+  </a>
+  - A High Performance Inter-Thread Messaging Library.
  </li>
  <li>
   <a href="https://dropwizard.github.io/">
@@ -895,7 +998,7 @@
   </a>
   - High throughput & low memory footprint Java microservices framework.
   <sup>
-   &#9733 81, pushed 3 days ago
+   &#9733 81, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -904,7 +1007,7 @@
   </a>
   - Reactive programming library for building microservices.
   <sup>
-   &#9733 403, pushed 3 days ago
+   &#9733 403, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -942,7 +1045,7 @@
   </a>
   - I/O and microservice library for Scala.
   <sup>
-   &#9733 765, pushed 1 days ago
+   &#9733 765, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -969,7 +1072,7 @@
   </a>
   - Micro-web framework to build servlet applications in Scala.
   <sup>
-   &#9733 43, pushed 38 days ago
+   &#9733 43, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -995,7 +1098,7 @@
   </a>
   - To build and maintain scalable HATEOAS/Level 3 REST APIs.
   <sup>
-   &#9733 563, pushed 57 days ago
+   &#9733 563, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -1010,7 +1113,7 @@
   </a>
   - Full-stack javascript through microservices.
   <sup>
-   &#9733 202, pushed 276 days ago
+   &#9733 202, pushed 401 days ago
   </sup>
  </li>
  <li>
@@ -1018,6 +1121,12 @@
    Hapi
   </a>
   - A rich framework for building applications and services.
+ </li>
+ <li>
+  <a href="https://github.com/hudson-taylor/hudson-taylor">
+   Hudson Taylor
+  </a>
+  - Set of libraries for building automatically documented, well validated services.
  </li>
  <li>
   <a href="http://koajs.com/">
@@ -1043,7 +1152,7 @@
   </a>
   - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
   <sup>
-   &#9733 21, pushed 3 days ago
+   &#9733 21, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1064,7 +1173,7 @@
   </a>
   - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
   <sup>
-   &#9733 8016, pushed 2 days ago
+   &#9733 8016, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1090,6 +1199,12 @@
   - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
  </li>
  <li>
+  <a href="https://lumen.laravel.com/">
+   Lumen
+  </a>
+  - Stunningly fast micro-framework.
+ </li>
+ <li>
   <a href="https://phalconphp.com/">
    Phalcon
   </a>
@@ -1101,11 +1216,23 @@
   </a>
   - Micro-framework based on the Symfony components.
  </li>
+ <li>
+  <a href="http://www.slimframework.com/">
+   Slim
+  </a>
+  - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
+ </li>
 </ul>
 <h3>
  Python
 </h3>
 <ul>
+ <li>
+  <a href="http://www.celeryproject.org">
+   Celery
+  </a>
+  - An asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+ </li>
  <li>
   <a href="http://flask.pocoo.org/">
    Flask
@@ -1118,7 +1245,7 @@
   </a>
   - Python framework for building microservices.
   <sup>
-   &#9733 813, pushed 1 days ago
+   &#9733 813, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1126,6 +1253,12 @@
    Tornado
   </a>
   - Web framework and asynchronous networking library.
+ </li>
+ <li>
+  <a href="https://twistedmatrix.com/trac/">
+   Twisted
+  </a>
+  - An Event-Drive Network Programming Engine.
  </li>
  <li>
   <a href="http://webpy.org/">
@@ -1150,7 +1283,7 @@
   </a>
   - Framework for both designing and implementing APIs.
   <sup>
-   &#9733 240, pushed 49 days ago
+   &#9733 240, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1159,7 +1292,7 @@
   </a>
   - Light-weight web framework for Ruby.
   <sup>
-   &#9733 220, pushed 72 days ago
+   &#9733 220, pushed 196 days ago
   </sup>
  </li>
 </ul>
@@ -1182,7 +1315,7 @@
   </a>
   - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
   <sup>
-   &#9733 1874, pushed 6 days ago
+   &#9733 1874, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1203,7 +1336,7 @@
   </a>
   - Extensible software load balancer.
   <sup>
-   &#9733 176, pushed 25 days ago
+   &#9733 176, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1211,6 +1344,12 @@
    OpenResty
   </a>
   - Fast web application server built on top of Nginx.
+ </li>
+ <li>
+  <a href="https://github.com/zalando/skipper">
+   Skipper
+  </a>
+  - HTTP router useful for decoupling routing from service logic.
  </li>
  <li>
   <a href="http://tengine.taobao.org/">
@@ -1236,7 +1375,7 @@
   </a>
   - Programmatic load balancer backed by Etcd.
   <sup>
-   &#9733 1910, pushed 8 days ago
+   &#9733 1910, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1245,7 +1384,7 @@
   </a>
   - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
   <sup>
-   &#9733 964, pushed 27 days ago
+   &#9733 964, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -1265,7 +1404,7 @@
   </a>
   - Portably control DNS clouds using java or bash.
   <sup>
-   &#9733 226, pushed 144 days ago
+   &#9733 226, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -1274,7 +1413,7 @@
   </a>
   - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
   <sup>
-   &#9733 2663, pushed 49 days ago
+   &#9733 2663, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -1283,7 +1422,7 @@
   </a>
   - Highly-available key-value store for shared configuration and service discovery.
   <sup>
-   &#9733 9440, pushed 2 days ago
+   &#9733 9440, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1298,7 +1437,7 @@
   </a>
   - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, etcd and SkyDNS 2.
   <sup>
-   &#9733 2104, pushed 6 days ago
+   &#9733 2104, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1307,7 +1446,7 @@
   </a>
   - Small, lightweight, api-driven DNS server.
   <sup>
-   &#9733 24, pushed 77 days ago
+   &#9733 24, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1316,7 +1455,7 @@
   </a>
   - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
   <sup>
-   &#9733 1124, pushed 4 days ago
+   &#9733 1124, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1325,7 +1464,7 @@
   </a>
   - Airbnb's automated service discovery and registration framework.
   <sup>
-   &#9733 161, pushed 427 days ago
+   &#9733 161, pushed 552 days ago
   </sup>
  </li>
  <li>
@@ -1351,7 +1490,7 @@
   </a>
   - A public key backed client/server authentication system.
   <sup>
-   &#9733 65, pushed 60 days ago
+   &#9733 65, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -1360,7 +1499,7 @@
   </a>
   - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
   <sup>
-   &#9733 645, pushed 7 days ago
+   &#9733 645, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1375,7 +1514,7 @@
   </a>
   - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
   <sup>
-   &#9733 481, pushed 1 days ago
+   &#9733 481, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1396,7 +1535,7 @@
   </a>
   - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
   <sup>
-   &#9733 38, pushed 2 days ago
+   &#9733 38, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1413,7 +1552,7 @@
  </li>
 </ul>
 <h3>
- Elasticity
+ Job Schedulers / Workload Automation
 </h3>
 <ul>
  <li>
@@ -1422,7 +1561,7 @@
   </a>
   - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
   <sup>
-   &#9733 3185, pushed 3 days ago
+   &#9733 3185, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1431,9 +1570,38 @@
   </a>
   - Extensible scheduler for Mesos frameworks.
   <sup>
-   &#9733 291, pushed 18 days ago
+   &#9733 291, pushed 142 days ago
   </sup>
  </li>
+ <li>
+  <a href="http://www.sos-berlin.com/jobscheduler">
+   JobScheduler
+  </a>
+  - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
+ </li>
+ <li>
+  <a href="http://www.openlava.org/">
+   OpenLava
+  </a>
+  - Workload scheduler that supports a variety of HPC and analytic applications.
+ </li>
+ <li>
+  <a href="http://rundeck.org/">
+   Rundec
+  </a>
+  - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+ </li>
+ <li>
+  <a href="http://www.schedulix.org/en">
+   Schedulix
+  </a>
+  - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+ </li>
+</ul>
+<h3>
+ Elasticity
+</h3>
+<ul>
  <li>
   <a href="http://www.paralleluniverse.co/galaxy/">
    Galaxy
@@ -1488,7 +1656,7 @@
   </a>
   - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
   <sup>
-   &#9733 1205, pushed 3 days ago
+   &#9733 1205, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1497,7 +1665,7 @@
   </a>
   - Designed to spread persistent or long-lived workloads across several machines.
   <sup>
-   &#9733 348, pushed 490 days ago
+   &#9733 348, pushed 614 days ago
   </sup>
  </li>
  <li>
@@ -1506,7 +1674,7 @@
   </a>
   - Distributed and scalable Java data structures on top of Redis server.
   <sup>
-   &#9733 1135, pushed 2 days ago
+   &#9733 1135, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1538,7 +1706,7 @@
   </a>
   - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
   <sup>
-   &#9733 1743, pushed 8 days ago
+   &#9733 1743, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1553,7 +1721,7 @@
   </a>
   - Pub/sub library for Node.
   <sup>
-   &#9733 233, pushed 5 days ago
+   &#9733 233, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1568,7 +1736,7 @@
   </a>
   - Distributed message broker.
   <sup>
-   &#9733 5070, pushed 4 days ago
+   &#9733 5070, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1583,7 +1751,7 @@
   </a>
   - ZeroMQ enterprise messaging broker.
   <sup>
-   &#9733 142, pushed 5 days ago
+   &#9733 142, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1592,7 +1760,7 @@
   </a>
   - A distributed, tag-based pub/sub service.
   <sup>
-   &#9733 455, pushed 5 days ago
+   &#9733 455, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1649,12 +1817,18 @@
 </h3>
 <ul>
  <li>
+  <a href="https://avro.apache.org/">
+   Avro
+  </a>
+  - Apache data serialization system providing rich data structures in a compact, fast, binary data format.
+ </li>
+ <li>
   <a href="https://github.com/ochrons/boopickle">
    BooPickle
   </a>
   - Binary serialization library for efficient network communication. For Scala and Scala.js
   <sup>
-   &#9733 138, pushed 47 days ago
+   &#9733 138, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1681,7 +1855,7 @@
   </a>
   - Clojure JSON and JSON SMILE encoding/decoding.
   <sup>
-   &#9733 777, pushed 21 days ago
+   &#9733 777, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1696,7 +1870,7 @@
   </a>
   - Fast JSON Processor.
   <sup>
-   &#9733 4946, pushed 1 days ago
+   &#9733 4946, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1705,7 +1879,7 @@
   </a>
   - Faster JSON serialization for Go.
   <sup>
-   &#9733 1253, pushed 7 days ago
+   &#9733 1253, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1714,7 +1888,7 @@
   </a>
   - Fast java serialization drop in-replacemen.
   <sup>
-   &#9733 540, pushed 21 days ago
+   &#9733 540, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1723,7 +1897,7 @@
   </a>
   -  A multi-purpose Java library for processing JSON data format.
   <sup>
-   &#9733 1883, pushed 23 days ago
+   &#9733 1883, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1732,7 +1906,7 @@
   </a>
   - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
   <sup>
-   &#9733 82, pushed 29 days ago
+   &#9733 82, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -1741,7 +1915,7 @@
   </a>
   - Java serialization and cloning: fast, efficient, automatic.
   <sup>
-   &#9733 1847, pushed 9 days ago
+   &#9733 1847, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1762,7 +1936,7 @@
   </a>
   - Library for describing binary formats for Scala types.
   <sup>
-   &#9733 78, pushed 149 days ago
+   &#9733 78, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -1787,6 +1961,12 @@
    ArangoDB
   </a>
   - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
+ </li>
+ <li>
+  <a href="https://clickhouse.yandex/">
+   ClickHouse
+  </a>
+  - Column-oriented database management system that allows generating analytical data reports in real time.
  </li>
  <li>
   <a href="http://www.couchbase.com/">
@@ -1848,7 +2028,7 @@
   </a>
   - Distributed database fully compatible with redis protocol.
   <sup>
-   &#9733 507, pushed 53 days ago
+   &#9733 507, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -1863,7 +2043,7 @@
   </a>
   - P2P database of message-feeds.
   <sup>
-   &#9733 47, pushed 82 days ago
+   &#9733 47, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -1877,6 +2057,13 @@
  Reactivity
 </h3>
 <ul>
+ <li>
+  <a href="http://projectreactor.io">
+   Reactor.io
+  </a>
+  - A second-generation Reactive library for building non-blocking applications on
+the JVM based on the Reactive Streams Specification.
+ </li>
  <li>
   <a href="https://github.com/softwaremill/reactive-kafka">
    Reactive Kafka
@@ -1906,7 +2093,7 @@
   </a>
   - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
   <sup>
-   &#9733 5815, pushed 1 days ago
+   &#9733 5815, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1933,7 +2120,7 @@
   </a>
   - Causing deliberate network mayhem for better resilience.
   <sup>
-   &#9733 217, pushed 249 days ago
+   &#9733 217, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -1942,7 +2129,7 @@
   </a>
   - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
   <sup>
-   &#9733 3979, pushed 34 days ago
+   &#9733 3979, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -1968,7 +2155,7 @@
   </a>
   - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
   <sup>
-   &#9733 2930, pushed 5 days ago
+   &#9733 2930, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1977,7 +2164,7 @@
   </a>
   - Combined HTTP/HTTPS service stub and transparent proxy solution.
   <sup>
-   &#9733 10, pushed 6 days ago
+   &#9733 10, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2009,7 +2196,7 @@
   </a>
   - Easy & flexible alerting for Elasticsearch.
   <sup>
-   &#9733 1777, pushed 4 days ago
+   &#9733 1777, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2037,7 +2224,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
   <sup>
-   &#9733 326, pushed 10 days ago
+   &#9733 326, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2052,7 +2239,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
   <sup>
-   &#9733 715, pushed 119 days ago
+   &#9733 715, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -2073,7 +2260,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - A visualised stack trace platform designed for microservices.
   <sup>
-   &#9733 283, pushed 3 days ago
+   &#9733 283, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2146,7 +2333,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Docker container orchestration platform.
   <sup>
-   &#9733 1406, pushed 4 days ago
+   &#9733 1406, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2173,7 +2360,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Infrastructure automation and management system.
   <sup>
-   &#9733 6489, pushed 2 days ago
+   &#9733 6489, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2196,7 +2383,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - AWS immutable deployment framework for web services.
   <sup>
-   &#9733 143, pushed 22 days ago
+   &#9733 143, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2205,7 +2392,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Continuous integration server built on top of Jenkins and Hubot.
   <sup>
-   &#9733 2451, pushed 5 days ago
+   &#9733 2451, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2220,7 +2407,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Open toolkit supporting configuration, build and deployment of connected container sets.
   <sup>
-   &#9733 293, pushed 314 days ago
+   &#9733 293, pushed 439 days ago
   </sup>
  </li>
  <li>
@@ -2229,7 +2416,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
   <sup>
-   &#9733 21, pushed 175 days ago
+   &#9733 21, pushed 300 days ago
   </sup>
  </li>
  <li>
@@ -2238,7 +2425,7 @@ Graphite, InfluxDB & OpenTSDB.
   </a>
   - Open source platform for operating Docker in production.
   <sup>
-   &#9733 3327, pushed 3 days ago
+   &#9733 3327, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2288,7 +2475,7 @@ of the testing and deployment process.
   </a>
   - Packaging and deployment tool for JVM applications.
   <sup>
-   &#9733 910, pushed 11 days ago
+   &#9733 910, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2297,7 +2484,7 @@ of the testing and deployment process.
   </a>
   - Automated deploy for a Kafka cluster on AWS.
   <sup>
-   &#9733 98, pushed 1551 days ago
+   &#9733 98, pushed 1675 days ago
   </sup>
  </li>
  <li>
@@ -2306,7 +2493,7 @@ of the testing and deployment process.
   </a>
   - A library to define a continuous delivery pipeline in code.
   <sup>
-   &#9733 208, pushed 14 days ago
+   &#9733 208, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -2356,7 +2543,7 @@ of the testing and deployment process.
   </a>
   - The smallest, easiest way to run Docker in production at scale.
   <sup>
-   &#9733 2240, pushed 3 days ago
+   &#9733 2240, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -2373,7 +2560,7 @@ of the testing and deployment process.
   </a>
   - API Blueprint renderer with theme support that outputs static HTML.
   <sup>
-   &#9733 1850, pushed 4 days ago
+   &#9733 1850, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2388,7 +2575,7 @@ of the testing and deployment process.
   </a>
   - Beautiful documentation for REST services.
   <sup>
-   &#9733 127, pushed 5 days ago
+   &#9733 127, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2403,7 +2590,7 @@ of the testing and deployment process.
   </a>
   - Beautiful static documentation for your API.
   <sup>
-   &#9733 9557, pushed 4 days ago
+   &#9733 9557, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2671,7 +2858,7 @@ of the testing and deployment process.
   <a href="http://bsonspec.org/">
    BSON
   </a>
-  - Bin­ary JSON (BSON).
+  - Binary JSON (BSON).
  </li>
  <li>
   <a href="http://json-ld.org/">
@@ -2685,20 +2872,20 @@ of the testing and deployment process.
   </a>
   - Simple Binary Encoding (SBE).
   <sup>
-   &#9733 15, pushed 62 days ago
+   &#9733 15, pushed 186 days ago
   </sup>
- </li>
- <li>
-  <a href="http://wiki.fasterxml.com/SmileFormatSpec">
-   SMILE
-  </a>
-  - JSON-compatible binary data format.
  </li>
  <li>
   <a href="https://github.com/msgpack/msgpack/blob/master/spec.md">
    MSGPACK
   </a>
   - MessagePack Specification.
+ </li>
+ <li>
+  <a href="http://ubjson.org/">
+   UBJSON
+  </a>
+  - Universal Binary JSON Specification.
  </li>
 </ul>
 <h3>
@@ -2920,9 +3107,26 @@ a strategic modeling approach. :small
  </li>
 </ul>
 <h3>
+ Talks
+</h3>
+<ul>
+ <li>
+  <a href="http://jonasboner.com/bla-bla-microservices-bla-bla/">
+   Bla Bla Microservices Bla Bla
+  </a>
+  - A talk at the O’Reilly Software Architecture Conference, April 2016.
+ </li>
+</ul>
+<h3>
  Tutorials
 </h3>
 <ul>
+ <li>
+  <a href="http://www.skybert.net/python/developing-a-restful-micro-service-in-python/">
+   Developing a RESTful Microservice in Python
+  </a>
+  - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
+ </li>
  <li>
   <a href="https://game-on.org/">
    Game On!
@@ -2999,6 +3203,29 @@ a strategic modeling approach. :small
   </a>
   - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
  </li>
+ <li>
+  <a href="http://thenewstack.io/ebookseries/">
+   The New Stack eBook Series
+  </a>
+  - A Comprehensive Overview of the Docker and Container Ecosystem.
+  <ul>
+   <li>
+    Book 1: The Docker Container Ecosystem.
+   </li>
+   <li>
+    Book 2: Applications & Microservices with Docker & Containers.
+   </li>
+   <li>
+    Book 3: Automation & Orchestration with Docker & Containers.
+   </li>
+   <li>
+    Book 4: Network, Security & Storage with Docker & Containers.
+   </li>
+   <li>
+    Book 5: Monitoring & Management with Docker & Containers.
+   </li>
+  </ul>
+ </li>
 </ul>
 <h3>
  Sites
@@ -3015,6 +3242,12 @@ a strategic modeling approach. :small
    Microservice Patterns
   </a>
   - Microservice architecture patterns and best practices.
+ </li>
+ <li>
+  <a href="http://12factor.net">
+   The 12-Factors App
+  </a>
+  - A methodology for building software-as-a-service applications.
  </li>
 </ul>
 <h2>

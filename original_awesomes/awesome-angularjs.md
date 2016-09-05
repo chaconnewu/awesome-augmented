@@ -45,6 +45,7 @@ Table of contents:
 * [ziyasal/ng-espack-boilerplate](https://github.com/ziyasal/ng-espack-boilerplate) - AngularJS 1.4x and ES6 application boilerplate /w testing practices using Webpack
 * [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
 * [gusgard/angular-seed-es6](https://github.com/gusgard/angular-seed-es6) - AngularJS 1.5 starter repo using best practices + ES6 + SASS + Browserify + BrowserSync.
+* [simskij/angular-seed](https://github.com/simskij/angular-seed) AngularJS 1.5 Seed + Premade Gulp scripts and project directory layout.
 
 
 ## User Manager
@@ -123,6 +124,10 @@ Table of contents:
 * [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
 * [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 * [angular-slider/angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS. No dependencies and mobile friendly.
+* [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular.
+* [m00s/angular-photoswipe](https://github.com/m00s/angular-photoswipe) - An angular directive for PhotoSwipe image gallery.
+* [benjamincharity/angular-json-calendar](https://github.com/benjamincharity/angular-json-calendar) - An AngularJS module that generates calendar data as a JSON object and/or HTML.
+* [kirstein/angular-autodisable](https://github.com/kirstein/angular-autodisable) - An extension to angular ng-click directive that automatically sets the element to disabled if the handler would return a promise.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
@@ -154,13 +159,16 @@ Table of contents:
 * [matthieu-D/angular-lorem-image](https://github.com/matthieu-D/angular-lorem-image) - This directive provides lorem image generation for your website by using the great lorempixel service to generate images.
 * [ajoslin/angular-promise-tracker](https://github.com/ajoslin/angular-promise-tracker) - Easily add spinners or general request tracking to your AngularJS app.
 * [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS apps.
+* [dustinspecker/generator-ng-poly](https://github.com/dustinspecker/generator-ng-poly) - Yeoman generator for AngularJS apps with customizable tooling. Adheres to John Papa and Todd Motto style guides, and features many robust subgenerators.
 * [angular/angularjs-batarang](https://github.com/angular/batarang) - AngularJS WebInspector Extension for Chrome.
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps.
 * [outbrain/leonardo](https://github.com/outbrain/Leonardo) - Add-on tool for centralizing your client side mocking.
 * [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - A browser extension that displays an inspector panel showing the AngularJS scope hierarchy in the current page in real time.
 * [Linkurious/angular-performance](https://github.com/Linkurious/angular-performance) - A chrome extension aimed at monitoring angular application performance.
+* [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
 
 ## View
+* [Angular Material](https://material.angularjs.org) - A set of reusable, well-tested, and accessible UI components based on Material Design.
 * [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
 * [Angular UI](http://angular-ui.github.io/) - Angular UI is the companion suite(s) to the AngularJS framework.
 * [Augus/ngAnimate](https://github.com/Augus/ngAnimate) - ngAnimate is best effect solution made for AngularJS.
@@ -176,6 +184,7 @@ Table of contents:
 * [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications.
 * [Ciul/angular-facebook](https://github.com/Ciul/angular-facebook) - An AngularJS module based approach to the Facebook Javascript SDK.
 * [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
+* [Orange-OpenSource/angular-swagger-ui](https://github.com/Orange-OpenSource/angular-swagger-ui) - An AngularJS implementation of Swagger UI.
 
 ## Internationalization
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your AngularJS apps, made easy.
@@ -184,9 +193,11 @@ Table of contents:
 ## Chart
 * [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module.
+* [krispo/angular-nvd3](https://github.com/krispo/angular-nvd3) - angular directive using NVD3 charting library (based on d3). 
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3.
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your AngularJS application.
 * [stpa-co/angular-morris-chart](https://github.com/stewones/angular-morris-chart) - Create morris chart easily with this directives.
+* [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts using Chart.js
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates.

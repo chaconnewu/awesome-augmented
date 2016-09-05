@@ -111,6 +111,12 @@
 </h2>
 <ul>
  <li>
+  <a href="https://jolicode.com/blog/do-not-use-fosuserbundle">
+   Do not use FOSUserBundle
+  </a>
+  [2015]
+ </li>
+ <li>
   <a href="http://slides.com/marieminasyan/drop-ace-use-role-voters#/">
    Drop ACE, use voters
   </a>
@@ -193,8 +199,20 @@
 </h2>
 <ul>
  <li>
+  <a href="https://speakerdeck.com/hhamon/bringing-symfony-components-into-your-legacy-code">
+   Bringing Symfony Components into Your Legacy Code
+  </a>
+  [2016]
+ </li>
+ <li>
   <a href="https://speakerdeck.com/jakzal/eating-spaghetti-with-symfony">
    Eating spaghetti with Symfony
+  </a>
+  [2016]
+ </li>
+ <li>
+  <a href="https://stovepipe.systems/post/migrating-your-project-to-symfony">
+   Migrating your project to Symfony
   </a>
   [2016]
  </li>
@@ -227,6 +245,12 @@
 </h2>
 <ul>
  <li>
+  <a href="http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25">
+   Rich domain model with Symfony 2.5 and Doctrine 2.5
+  </a>
+  [2014]
+ </li>
+ <li>
   <a href="http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/">
    DDD with Symfony2: Folder Structure And Code First
   </a>
@@ -237,6 +261,12 @@
  General
 </h2>
 <ul>
+ <li>
+  <a href="http://www.thisprogrammingthing.com/2016/lessons-from-my-first-symfony-project/">
+   Lessons Learned from My First Symfony Project
+  </a>
+  [2016]
+ </li>
  <li>
   <a href="http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/">
    Symfony best practices

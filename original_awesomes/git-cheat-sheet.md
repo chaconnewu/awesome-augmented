@@ -1,4 +1,4 @@
-Git Cheat Sheet - git-flow [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Git and Git Flow Cheat Sheet[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 <hr>
 <p align="center">
@@ -6,13 +6,11 @@ Git Cheat Sheet - git-flow [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 </p>
 <hr>
 # Other Available Languages:
-1. [Chinese Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)
-2. [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md)
-3. [Turkish Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
-4. [Spanish Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
-
-## PDF versions:
-1. [English Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/pdf/git-cheat-sheet.pdf)
+1. [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md)
+2. [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)
+3. [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md)
+4. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
+5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 
 Git cheat sheet saves you from learning all the commands by heart.
 
@@ -42,7 +40,7 @@ Git Cheat Sheet English
 ```
 $ git config --list
 ```
-#####Show local configuration:
+#####Show repository configuration:
 ```
 $ git config --local --list
 ```
@@ -133,7 +131,7 @@ $ git diff
 
 #####Add all current changes to the next commit:
 ```
-$ git add
+$ git add .
 ```
 
 #####Add some changes in &lt;file&gt; to the next commit:
@@ -173,7 +171,7 @@ git commit --date="`date --date='n day ago'`" -am "Commit Message"
 $ git commit -a --amend
 ```
 
-#####Change commit date of last commit:
+#####Change committer date of last commit:
 ```
 GIT_COMMITTER_DATE="date" git commit --amend
 ```
@@ -606,5 +604,12 @@ git flow hotfix finish VERSION
 ###Commands
 <p align="center">
 	<img alt="Git" src="./Img/git-flow-commands.png" height="270" width="460">
+</p>
+<hr>
+
+###Git flow schema
+
+<p align="center">
+	<img alt="Git" src="Img/git-flow-commands-without-flow.png">
 </p>
 <hr>

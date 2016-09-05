@@ -96,6 +96,26 @@
 <h3>
  Tutorials
 </h3>
+<ul>
+ <li>
+  <a href="http://thenewstack.io/developers-need-know-mvi-model-view-intent/">
+   What Developers Need to Know about MVI (Model-View-Intent)
+  </a>
+  - Post on MVI architecture.
+ </li>
+ <li>
+  <a href="https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/">
+   Cycle.js: a reactive framework
+  </a>
+  - Introduction to Cycle.js with real time data example.
+ </li>
+ <li>
+  <a href="https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/">
+   Building realtime applications with CycleJS and RxJS
+  </a>
+  - Learn how to build realtime applications with CycleJS and RxJS
+ </li>
+</ul>
 <h3>
  Videos
 </h3>
@@ -105,6 +125,15 @@
    What if the user was a function?
   </a>
   - Presentation at JSConf BP2015 by
+  <a href="https://twitter.com/andrestaltz">
+   Andre Staltz
+  </a>
+ </li>
+ <li>
+  <a href="https://vimeo.com/168652278">
+   Unidirectional data flow architectures
+  </a>
+  - Presentation AtTheFrontend Conference by
   <a href="https://twitter.com/andrestaltz">
    Andre Staltz
   </a>
@@ -181,6 +210,24 @@
    CycleConf 2016
   </a>
  </li>
+ <li>
+  <a href="https://vimeo.com/175121069">
+   Reactive Programming with Cycle.js
+  </a>
+  - by Luca Mezzalira at
+  <a href="http://2016.jsday.it/">
+   JSDay 2016
+  </a>
+ </li>
+ <li>
+  <a href="https://youtu.be/31URmaeNHSs">
+   Learning how to ride: an introduction to Cycle.js
+  </a>
+  - by Fernando Macias Pereznieto at
+  <a href="http://www.meetup.com/js-monthly-london/">
+   JS Monthly London
+  </a>
+ </li>
 </ul>
 <h3>
  Slides
@@ -198,6 +245,24 @@
   </a>
   - by Arye Lukashevki
  </li>
+ <li>
+  <a href="http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs">
+   Reactive Programming with Cycle.js
+  </a>
+  - by Luca Mezzalira
+ </li>
+ <li>
+  <a href="http://lmatteis.github.io/cyclejs-slides/keynote/index.html">
+   Cycle.js - building apps with streams only
+  </a>
+  - by Luca Matteis
+ </li>
+ <li>
+  <a href="https://slides.com/artfuldev/frp-with-cycle-js">
+   Functional Reactive Programming with Cycle.js
+  </a>
+  - by Sudarsan Balaji
+ </li>
 </ul>
 <h3>
  Example Applications
@@ -206,39 +271,39 @@
  <li>
   <a href="https://github.com/cyclejs/examples">
    <strong>
-    cyclejs/cycle-examples ★141
+    cyclejs/cycle-examples ★180
    </strong>
   </a>
   - Official collection of small Cycle.js examples
   <sup>
-   &#9733 144, pushed 2 days ago
+   &#9733 144, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Widdershin/tricycle">
-   Widdershin/tricycle ★19
+   Widdershin/tricycle ★20
   </a>
   - Scratchpad for trying out Cycle.js, relies on Ace Editor with Cycle
   <sup>
-   &#9733 19, pushed 1 days ago
+   &#9733 19, pushed 125 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/cgeorg/todomvp">
-   cgeorg/todomvp ★17
+   cgeorg/todomvp ★18
   </a>
   - Minimum Viable Pizza, an example webapp written in Cycle.js
   <sup>
-   &#9733 17, pushed 322 days ago
+   &#9733 17, pushed 446 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/erykpiast/cyclejs-examples">
-   erykpiast/cyclejs-examples ★7
+   erykpiast/cyclejs-examples ★8
   </a>
   - Example web applications built with Cycle.js.
   <sup>
-   &#9733 8, pushed 328 days ago
+   &#9733 8, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -247,46 +312,46 @@
   </a>
   - Slack trend searching written in Cycle.js
   <sup>
-   &#9733 3, pushed 477 days ago
+   &#9733 3, pushed 602 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ivan-kleshnin/cyclejs-examples">
-   ivan-kleshnin/cyclejs-examples ★86
+   ivan-kleshnin/cyclejs-examples ★98
   </a>
   - Collection of CycleJS examples, ES6.
   <sup>
-   &#9733 87, pushed 6 days ago
+   &#9733 87, pushed 131 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ivan-kleshnin/tetris-game">
-   ivan-kleshnin/tetris-cyclejs ★7
+   ivan-kleshnin/tetris-cyclejs ★10
   </a>
   - Tetris game implemented in CycleJS, ES6
   <sup>
-   &#9733 8, pushed 145 days ago
+   &#9733 8, pushed 270 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/phadej/graafi">
-   phadej/graafi ★13
+   phadej/graafi ★17
   </a>
   - Cycle.js experiment with SVG and global undo/redo
 http://oleg.fi/graafi/
   <sup>
-   &#9733 14, pushed 351 days ago
+   &#9733 14, pushed 476 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/staltz/rxmarbles">
    <strong>
-    staltz/rxmarbles ★1,022
+    staltz/rxmarbles ★1,323
    </strong>
   </a>
   - Interactive diagrams of Rx Observables http://rxmarbles.com/
   <sup>
-   &#9733 1052, pushed 34 days ago
+   &#9733 1052, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -295,49 +360,36 @@ http://oleg.fi/graafi/
   </a>
   - Simple shopping cart of a magic creatures store.
   <sup>
-   &#9733 6, pushed 199 days ago
+   &#9733 6, pushed 323 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/foxdonut/cycle-todolist">
-   foxdonut/cycle-todolist ★9
+   foxdonut/cycle-todolist ★10
   </a>
   - demonstrates a simple Cycle.js TODO list app with CRUD.
   <sup>
-   &#9733 9, pushed 186 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/collardeau/kairos">
-   collardeau/kairos ★13
-  </a>
-  - Source code for
-  <a href="http://my-kairos.herokuapp.com/">
-   Kairos
-  </a>
-  , a weather app built in Cycle.js.
-  <sup>
-   &#9733 13, pushed 194 days ago
+   &#9733 9, pushed 310 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Mercateo/component-check">
    <strong>
-    Mercateo/component-check ★417
+    Mercateo/component-check ★437
    </strong>
   </a>
   - Common patterns for building Cycle.js components
   <sup>
-   &#9733 419, pushed 106 days ago
+   &#9733 419, pushed 231 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/edge/electron-cycle-media">
-   edge/electron-cycle-media ★23
+   edge/electron-cycle-media ★26
   </a>
   - Media player written with Cycle.js and Electron.
   <sup>
-   &#9733 23, pushed 152 days ago
+   &#9733 23, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -346,29 +398,63 @@ http://oleg.fi/graafi/
   </a>
   - Small example partly implements twitter’s who to follow box using github api.
   <sup>
-   &#9733 16, pushed 134 days ago
+   &#9733 16, pushed 259 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/SkaterDad/cycle-snabbdom-examples">
-   SkaterDad/cycle-snabbdom-examples ★4
+   SkaterDad/cycle-snabbdom-examples ★6
   </a>
   - Examples of nested components, using snabbdom-specific animations.
   <sup>
-   &#9733 4, pushed 77 days ago
+   &#9733 4, pushed 202 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/bahmutov/draw-cycle">
-   bahmutov/draw-cycle ★81
+   bahmutov/draw-cycle ★93
   </a>
   - Interactive visualization of counter application showing the data flow inside a MVI component
   <a href="https://glebbahmutov.com/draw-cycle/">
    glebbahmutov.com/draw-cycle
   </a>
   <sup>
-   &#9733 86, pushed 98 days ago
+   &#9733 86, pushed 222 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/andreloureiro/pomocycle">
+   andreloureiro/pomocycle ★10
+  </a>
+  - A simple Pomodoro timer.
+ </li>
+ <li>
+  <a href="https://github.com/laszlokorte/tams-tools">
+   laszlokorte/tams-tools ★18
+  </a>
+  - A set of tools for teaching and learning computer science built with cycle.js.
+ </li>
+ <li>
+  <a href="https://github.com/lucamezzalira/jsday-cycle-js">
+   lucamezzalira/jsday-cycle-js ★8
+  </a>
+  - Reactive Live London Tube trains status example built with Cycle.js.
+ </li>
+ <li>
+  <a href="https://github.com/cyclejs-community/built-with-cycle">
+   cyclejs-community/built-with-cycle ★4
+  </a>
+  -
+  <a href="http://cyclejs-community.github.io/built-with-cycle">
+   A website
+  </a>
+  to showcase the cool projects built with Cycle.js
+ </li>
+ <li>
+  <a href="https://github.com/class-ideas/cyclejs-hangman">
+   class-ideas/cyclejs-hangman ★7
+  </a>
+  A hangman game built with Cycle.js
  </li>
 </ul>
 <h2>
@@ -379,39 +465,27 @@ http://oleg.fi/graafi/
 </h3>
 <ul>
  <li>
-  <a href="https://github.com/TylorS/cycle-director">
-   tylors/cycle-director ★15
-  </a>
-  - Router driver using Director.
-  <sup>
-   &#9733 15, pushed 199 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/cyclejs/http">
-   cyclejs/cycle-http-driver ★51
+   cyclejs/cycle-http-driver ★58
   </a>
   - A Cycle.js Driver for making HTTP requests, based on superagent.
   <sup>
-   &#9733 52, pushed 14 days ago
+   &#9733 52, pushed 139 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/cyclejs/cycle-storage-driver">
-   cyclejs/cycle-storage-driver ★20
+  <a href="https://github.com/cyclejs/storage">
+   cyclejs/cycle-storage-driver ★21
   </a>
   - A Cycle.js Driver for using localStorage and sessionStorage.
-  <sup>
-   &#9733 21, pushed 152 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/cyclejs/cycle-notification-driver">
-   cyclejs/cycle-notification-driver ★15
+   cyclejs/cycle-notification-driver ★18
   </a>
   - A Cycle.js Driver for showing and responding to HTML5 Notifications.
   <sup>
-   &#9733 16, pushed 33 days ago
+   &#9733 16, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -420,41 +494,41 @@ http://oleg.fi/graafi/
   </a>
   - A router driver using Router5
   <sup>
-   &#9733 28, pushed 237 days ago
+   &#9733 28, pushed 362 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/cgeorg/cycle-socket.io">
-   cgeorg/cycle-socket.io ★15
+   cgeorg/cycle-socket.io ★16
   </a>
   - A Cycle driver for Socket.IO clients
   <sup>
-   &#9733 15, pushed 21 days ago
+   &#9733 15, pushed 146 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/cyclejs/dom">
    <strong>
-    cyclejs/cycle-dom ★141
+    cyclejs/cycle-dom ★162
    </strong>
   </a>
   - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
   <sup>
-   &#9733 143, pushed 1 days ago
+   &#9733 143, pushed 125 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/secobarbital/cycle-fetch-driver">
-   secobarbital/cycle-fetch-driver ★1
+   secobarbital/cycle-fetch-driver ★2
   </a>
   - A Cycle.js Driver for making HTTP requests, using the Fetch API.
   <sup>
-   &#9733 1, pushed 195 days ago
+   &#9733 1, pushed 320 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/r7kamura/cycle-fetcher-driver">
-   r7kamura/cycle-fetcher-driver ★12
+   r7kamura/cycle-fetcher-driver ★13
   </a>
   - A Cycle.js Driver for making HTTP requests using
   <a href="https://github.com/r7kamura/stackable-fetcher">
@@ -462,31 +536,31 @@ http://oleg.fi/graafi/
   </a>
   .
   <sup>
-   &#9733 12, pushed 208 days ago
+   &#9733 12, pushed 333 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/cyclejs/history">
-   cyclejs/cycle-history ★58
+   cyclejs/cycle-history ★62
   </a>
   - The standard Cycle driver for dealing with the
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/History_API">
    History API
   </a>
   <sup>
-   &#9733 60, pushed 3 days ago
+   &#9733 60, pushed 128 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/benji6/cycle-audio-graph">
-   benji6/cycle-audio-graph ★9
+   benji6/cycle-audio-graph ★11
   </a>
   - A Cycle.js Driver for manipulating the Web Audio API using
   <a href="https://github.com/benji6/virtual-audio-graph">
    virtual-audio-graph
   </a>
   <sup>
-   &#9733 9, pushed 14 days ago
+   &#9733 9, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -495,97 +569,85 @@ http://oleg.fi/graafi/
   </a>
   - A Cycle.js driver to wrap Hammer.js and detect touch gestures
   <sup>
-   &#9733 10, pushed 160 days ago
+   &#9733 10, pushed 285 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/jessaustin/cycle-sse-driver">
-   jessaustin/cycle-sse-driver ★4
+   jessaustin/cycle-sse-driver ★5
   </a>
   - Source driver for Server-Sent Events/EventSource.
   <sup>
-   &#9733 5, pushed 96 days ago
+   &#9733 5, pushed 221 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/TylorS/cycle-snabbdom">
-   tylors/cycle-snabbdom ★41
+   tylors/cycle-snabbdom ★42
   </a>
   - DOM driver using Snabbdom
   <sup>
-   &#9733 41, pushed 3 days ago
+   &#9733 41, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/TylorS/cycle-router">
-   TylorS/cycle-router ★31
-  </a>
-  - Router driver designed for Cycle.js
-  <sup>
-   &#9733 31, pushed 99 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TylorS/cyclic-router">
-   TylorS/cyclic-router ★34
+  <a href="https://github.com/cyclejs-community/cyclic-router">
+   cyclejs-community/cyclic-router ★43
   </a>
   - Router Driver built for Cycle.js
-  <sup>
-   &#9733 36, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/Widdershin/cycle-animation-driver">
-   Widdershin/cycle-animation-driver ★22
+   Widdershin/cycle-animation-driver ★25
   </a>
   - Cycle driver for requestAnimationFrame
   <sup>
-   &#9733 22, pushed 20 days ago
+   &#9733 22, pushed 145 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/dralletje/cycle-firebase">
-   dralletje/cycle-firebase ★15
+   dralletje/cycle-firebase ★17
   </a>
   - A Cycle.js Driver for Firebase
   <sup>
-   &#9733 15, pushed 51 days ago
+   &#9733 15, pushed 176 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/edge/cycle-blessed">
-   edge/cycle-blessed ★26
+   edge/cycle-blessed ★35
   </a>
   - A Cycle.js Driver for terminal applications
   <sup>
-   &#9733 27, pushed 18 days ago
+   &#9733 27, pushed 142 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/10clouds/cyclejs-cookie">
-   10clouds/cyclejs-cookie ★0
+   10clouds/cyclejs-cookie ★1
   </a>
   - Cookies Driver for Cycle.js
   <sup>
-   &#9733 0, pushed 19 days ago
+   &#9733 0, pushed 144 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/whitecolor/cycle-async-driver">
-   whitecolor/cycle-async-driver ★7
+   whitecolor/cycle-async-driver ★15
   </a>
   - Factory for creating async request/response cycle.js drivers
   <sup>
-   &#9733 7, pushed 4 days ago
+   &#9733 7, pushed 128 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/raquelxmoss/cycle-keys">
-   raquelxmoss/cycle-keys ★9
+   raquelxmoss/cycle-keys ★26
   </a>
   - Driver for keyboard events
   <sup>
-   &#9733 18, pushed 5 days ago
+   &#9733 18, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -594,8 +656,38 @@ http://oleg.fi/graafi/
   </a>
   - Readline driver
   <sup>
-   &#9733 0, pushed 70 days ago
+   &#9733 0, pushed 195 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/goodmind/cycle-telegram">
+   goodmind/cycle-telegram ★13
+  </a>
+  - A Cycle.js Driver for Telegram Bot API
+ </li>
+ <li>
+  <a href="https://github.com/apoco/cycle-electron-driver">
+   apoco/cycle-electron-driver ★14
+  </a>
+  - Driver to interact with Electron interface from Cycle.js application
+ </li>
+ <li>
+  <a href="https://github.com/rkrupinski/cyclejs-animated-localstorage">
+   rkrupinski/cyclejs-animated-localstorage ★4
+  </a>
+  - A Cycle.js driver for animating (srsly) localStorage.
+ </li>
+ <li>
+  <a href="https://github.com/cyclejs-community/cycle-keyboard">
+   cyclejs-community/cycle-keyboard ★1
+  </a>
+  - A keyboard driver for cycle.js
+ </li>
+ <li>
+  <a href="https://github.com/garrydzeng/cycle-page">
+   garrydzeng/cycle-page ★1
+  </a>
+  - A tiny client-side router for Cycle.js
  </li>
 </ul>
 <h3>
@@ -608,7 +700,7 @@ http://oleg.fi/graafi/
   </a>
   - Chai assertion helpers to test virtual-dom VTrees
   <sup>
-   &#9733 22, pushed 234 days ago
+   &#9733 22, pushed 359 days ago
   </sup>
  </li>
  <li>
@@ -617,7 +709,7 @@ http://oleg.fi/graafi/
   </a>
   - a dependency injection tool supporting Cycle's circular dependencies
   <sup>
-   &#9733 10, pushed 336 days ago
+   &#9733 10, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -626,47 +718,38 @@ http://oleg.fi/graafi/
   </a>
   - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
   <sup>
-   &#9733 19, pushed 286 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cyclejs/rx-injectable-observable">
-   erykpiast/cyclejs-stream ★25
-  </a>
-  - Observable (events stream) to which you can inject another streams.
-  <sup>
-   &#9733 26, pushed 256 days ago
+   &#9733 19, pushed 411 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/erykpiast/cyclejs-wc">
-   erykpiast/cyclejs-wc ★0
+   erykpiast/cyclejs-wc ★1
   </a>
   - Utility for creating Web Components based on Cycle.js
   <sup>
-   &#9733 0, pushed 307 days ago
+   &#9733 0, pushed 432 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ohanhi/hyperscript-helpers">
    <strong>
-    ohanhi/hyperscript-helpers ★237
+    ohanhi/hyperscript-helpers ★270
    </strong>
   </a>
   - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
   <sup>
-   &#9733 241, pushed 4 days ago
+   &#9733 241, pushed 129 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/pH200/cycle-react">
    <strong>
-    pH200/cycle-react ★234
+    pH200/cycle-react ★264
    </strong>
   </a>
   - use React instead of virtual-dom with a Cycle-like API
   <sup>
-   &#9733 238, pushed 43 days ago
+   &#9733 238, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -679,8 +762,14 @@ http://oleg.fi/graafi/
   </a>
   with Cycle.js.
   <sup>
-   &#9733 2, pushed 280 days ago
+   &#9733 2, pushed 404 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/WorldMaker/cycle-gear">
+   WorldMaker/cycle-gear ★1
+  </a>
+  - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern
  </li>
 </ul>
 <h3>
@@ -689,11 +778,11 @@ http://oleg.fi/graafi/
 <ul>
  <li>
   <a href="https://github.com/andreloureiro/cyclejs-starter">
-   andreloureiro/cyclejs-starter ★27
+   andreloureiro/cyclejs-starter ★37
   </a>
   - Cycle.js starter template with ES6 and Livereload.
   <sup>
-   &#9733 27, pushed 27 days ago
+   &#9733 27, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -702,34 +791,36 @@ http://oleg.fi/graafi/
   </a>
   - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
   <sup>
-   &#9733 1, pushed 233 days ago
+   &#9733 1, pushed 358 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/adicirstei/cycle-bp">
-   adicirstei/cycle-bp ★4
+   adicirstei/cycle-bp ★5
   </a>
   - Boilerplate template for building Cycle.js apps
   <sup>
-   &#9733 4, pushed 194 days ago
+   &#9733 4, pushed 319 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/edge/cyc">
-   edge/cyc ★82
+   <strong>
+    edge/cyc ★130
+   </strong>
   </a>
   - Scaffold an isomorphic Cycle.js app in seconds.
   <sup>
-   &#9733 86, pushed 18 days ago
+   &#9733 86, pushed 142 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Cmdv/cycle-webpack-boilerplate">
-   cmdv/cycle-webpack-boilerplate ★63
+   cmdv/cycle-webpack-boilerplate ★78
   </a>
   - Cycle app with routing, state handling and tests.
   <sup>
-   &#9733 65, pushed 11 days ago
+   &#9733 65, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -738,8 +829,26 @@ http://oleg.fi/graafi/
   </a>
   - A Cycle.js starter project with hot reloading using browserify-hmr
   <sup>
-   &#9733 25, pushed 45 days ago
+   &#9733 25, pushed 170 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mciparelli/cycle-hmr-example">
+   mciparelli/cycle-hmr-example ★0
+  </a>
+  - A Cycle.js starter project using browserify and cycle-hmr
+ </li>
+ <li>
+  <a href="https://github.com/cyclejs-community/typescript-starter-cycle">
+   cycle-community/typescript-starter-cycle ★2
+  </a>
+  - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
+ </li>
+ <li>
+  <a href="https://github.com/wyqydsyq/hapi-cycle">
+   wyqydsyq/hapi-cycle ★0
+  </a>
+  - A boilerplate isomorphic Cycle app running on a Hapi server with a simple CRUD skeleton to get you started
  </li>
 </ul>
 <h3>
@@ -748,11 +857,11 @@ http://oleg.fi/graafi/
 <ul>
  <li>
   <a href="https://github.com/erykpiast/cyclejs-mock">
-   erykpiast/cyclejs-mock ★16
+   erykpiast/cyclejs-mock ★20
   </a>
   - Utility for testing applications based on CycleJS framework.
   <sup>
-   &#9733 16, pushed 350 days ago
+   &#9733 16, pushed 474 days ago
   </sup>
  </li>
 </ul>
@@ -763,7 +872,7 @@ http://oleg.fi/graafi/
  <li>
   <a href="https://github.com/cyclejs/cycle-time-travel">
    <strong>
-    cyclejs/cycle-time-travel ★138
+    cyclejs/cycle-time-travel ★158
    </strong>
   </a>
   - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time. Try it online
@@ -772,7 +881,7 @@ http://oleg.fi/graafi/
   </a>
   .
   <sup>
-   &#9733 140, pushed 50 days ago
+   &#9733 140, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -786,12 +895,12 @@ http://oleg.fi/graafi/
   </a>
   - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
   <sup>
-   &#9733 9, pushed 358 days ago
+   &#9733 9, pushed 482 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/enten/cyclejs-calendar">
-   enten/cyclejs-calendar ★6
+   enten/cyclejs-calendar ★9
   </a>
   - Calendar component for Cycle.js. Try it online
   <a href="http://enten.github.io/cyclejs-calendar/example">
@@ -799,7 +908,7 @@ http://oleg.fi/graafi/
   </a>
   .
   <sup>
-   &#9733 6, pushed 106 days ago
+   &#9733 6, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -808,8 +917,32 @@ http://oleg.fi/graafi/
   </a>
   - Cycle.js component for rendering a gravatar profile image.
   <sup>
-   &#9733 0, pushed 100 days ago
+   &#9733 0, pushed 225 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tommy-the-runner/cyclejs-ace-editor">
+   tommy-the-runner/cyclejs-ace-editor ★0
+  </a>
+  - Cycle.js intergration with Ace Editor using
+  <a href="https://github.com/thlorenz/brace">
+   brace
+  </a>
+  . Check an example
+  <a href="https://tommy-the-runner.github.io/cyclejs-ace-editor/">
+   here
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/raquelxmoss/cycle-color-picker">
+   raquelxmoss/cycle-color-picker
+  </a>
+  - A Color Picker component for Cycle.js.
+  <a href="https://raquelxmoss.github.io/cycle-color-picker">
+   Check out the example
+  </a>
+  .
  </li>
 </ul>
 <h2>

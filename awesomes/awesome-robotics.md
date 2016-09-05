@@ -109,6 +109,14 @@
    Stanford University
   </strong>
  </li>
+ <li>
+  <a href="https://www.coursera.org/specializations/robotics">
+   Robotics Specialization by GRASP Lab
+  </a>
+  <strong>
+   University of Pennsylvania
+  </strong>
+ </li>
 </ul>
 <h3>
  Books
@@ -166,6 +174,11 @@
  <li>
   <a href="https://github.com/correll/Introduction-to-Autonomous-Robots/releases">
    Introduction to Autonomous Robots
+  </a>
+ </li>
+ <li>
+  <a href="https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275">
+   Principles of Robot Motion: Theory, Algorithms, and Implementations
   </a>
  </li>
 </ul>
@@ -268,6 +281,30 @@
  </a>
  Webots is a development environment used to model, program and simulate mobile robots.
 </p>
+<p>
+ <a href="http://drake.mit.edu/">
+  <strong>
+   Drake
+  </strong>
+ </a>
+ A planning, control and analysis toolbox for nonlinear dynamical systems.
+</p>
+<p>
+ <a href="http://131.159.60.234/fileadmin/platform/">
+  <strong>
+   Neurorobotics Platform (NRP)
+  </strong>
+ </a>
+ An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+</p>
+<p>
+ <a href="http://playerstage.sourceforge.net/">
+  <strong>
+   The Player Project
+  </strong>
+ </a>
+ Free Software tools for robot and sensor applications
+</p>
 <h3>
  Papers and Journals
 </h3>
@@ -291,6 +328,16 @@ Atlas Robot in the DARPA Robotics Challenge Finals
  <li>
   <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100">
    IEEE Xplore: Robotics & Automation
+  </a>
+ </li>
+ <li>
+  <a href="http://www.springer.com/engineering/robotics/journal/12369">
+   International Journal of Social Robotics
+  </a>
+ </li>
+ <li>
+  <a href="http://journal.frontiersin.org/journal/robotics-and-ai">
+   Frontiers in Robotics and AI
   </a>
  </li>
 </ul>
@@ -333,6 +380,16 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Eurobot
   </a>
   International Students Robotics Contest
+ </li>
+ <li>
+  <a href="http://www.robomasters.com/en/">
+   RoboMasters
+  </a>
+ </li>
+ <li>
+  <a href="http://www.robosoftca.eu/">
+   RoboSoft, Grand Challenge
+  </a>
  </li>
 </ul>
 <h3>
@@ -398,6 +455,24 @@ Atlas Robot in the DARPA Robotics Challenge Finals
   <a href="https://www.youtube.com/watch?v=fCML42boO8c">
    Baxter
   </a>
+ </li>
+ <li>
+  <a href="http://www.dji.com/">
+   DJI
+  </a>
+  industry leader in drones for both commerical and industrial needs.
+ </li>
+ <li>
+  <a href="http://www.theconstructsim.com/">
+   The construct sim
+  </a>
+  A cloud based tool for building modern, future-proof robot simulations.
+ </li>
+ <li>
+  <a href="http://www.fetchrobotics.com/">
+   Fetch Robotics
+  </a>
+  A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
  </li>
 </ul>
 <h3>
@@ -471,7 +546,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Artificial Intelligence
   </a>
   <sup>
-   &#9733 1518, pushed 27 days ago
+   &#9733 1518, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -479,7 +554,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Computer Vision
   </a>
   <sup>
-   &#9733 1254, pushed 46 days ago
+   &#9733 1254, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -487,7 +562,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Machine Learning
   </a>
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +570,20 @@ Atlas Robot in the DARPA Robotics Challenge Finals
    Awesome Deep Learning
   </a>
   <sup>
-   &#9733 1922, pushed 8 days ago
+   &#9733 1922, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kjw0612/awesome-deep-vision">
+   Awesome Deep Vision
+  </a>
+  <sup>
+   &#9733 1273, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aikorea/awesome-rl/">
+   Awesome Reinforcement Learning
+  </a>
  </li>
 </ul>

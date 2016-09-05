@@ -195,7 +195,7 @@
  </li>
  <li>
   <a href="#apis-data-and-ml">
-   APIs, Data, and ML
+   APIs, Data and ML
   </a>
  </li>
  <li>
@@ -257,12 +257,6 @@
   — Free for individuals, OSS and nonprofits organizations
  </li>
  <li>
-  <a href="https://www.assembla.com/repositories/">
-   assembla.com
-  </a>
-  — Free private Subversion, Git, and Perforce repositories
- </li>
- <li>
   <a href="https://cloud.google.com/tools/cloud-repositories/">
    cloud.google.com
   </a>
@@ -274,10 +268,22 @@
 </h2>
 <ul>
  <li>
+  <a href="http://scinote.net">
+   scinote.net
+  </a>
+  — Scientific data management & team collaboration. One Team with Unlimited number of users, backup and 1 GB storage space
+ </li>
+ <li>
   <a href="https://appear.in/">
    appear.in
   </a>
   — One click video conversations, for free
+ </li>
+ <li>
+  <a href="https://meet.jit.si/">
+   meet.jit.si
+  </a>
+  — One click video conversations, screen sharing, for free
  </li>
  <li>
   <a href="https://www.flowdock.com/">
@@ -403,7 +409,7 @@
   <a href="http://wistia.com/">
    wistia.com
   </a>
-  — Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
+  — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
  </li>
  <li>
   <a href="https://cnverg.com/">
@@ -500,7 +506,7 @@
  </li>
  <li>
   <a href="http://goreportcard.com/">
-   goreportcard.com/
+   goreportcard.com
   </a>
   — Code Quality for Go projects, free for Open Source
  </li>
@@ -569,6 +575,30 @@
    testanywhere.co
   </a>
   — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
+ </li>
+ <li>
+  <a href="https://srcclr.com/">
+   srcclr.com
+  </a>
+  — SourceClear to scan source code for vulnerabilities, multi-languages and OS
+ </li>
+ <li>
+  <a href="https://blamewarrior.com/">
+   blamewarrior.com
+  </a>
+  — Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source
+ </li>
+ <li>
+  <a href="https://review.gerrithub.io/">
+   gerrithub.io
+  </a>
+  — Gerrit code review for GitHub repositories - for free
+ </li>
+ <li>
+  <a href="https://reviewable.io/">
+   reviewable.io
+  </a>
+  — Code review for GitHub repositories - free for public or personal repos
  </li>
 </ul>
 <h2>
@@ -652,7 +682,7 @@
   </a>
   — Comparison of Continuous Integration services
   <sup>
-   &#9733 112, pushed 15 days ago
+   &#9733 112, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -680,22 +710,22 @@
   — Public GitHub repositories only
  </li>
  <li>
-  <a href="http://deploybot.com/">
-   deploybot.com
-  </a>
-  — Free for 1 repository, private or public. Supports any service you can throw at it
- </li>
- <li>
   <a href="https://www.bitrise.io/">
    bitrise.io
   </a>
-  — iOS CI/CD with 200 free builds/month
+  — An iOS CI/CD with 200 free builds/month
  </li>
  <li>
   <a href="https://saucelabs.com/">
    saucelabs.com
   </a>
   — CI with scalable testing for mobile and web apps, free for Open Source
+ </li>
+ <li>
+  <a href="https://www.buddybuild.com/">
+   buddybuild.com
+  </a>
+  — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
  </li>
 </ul>
 <h2>
@@ -716,7 +746,7 @@
  </li>
  <li>
   <a href="https://www.everystep-automation.com/">
-   EveryStep-Automation.com
+   everystep-automation.com
   </a>
   — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
  </li>
@@ -726,10 +756,22 @@
 </h2>
 <ul>
  <li>
+  <a href="https://www.threatconnect.com">
+   threatconnect.com
+  </a>
+  — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free upto 3 Users
+ </li>
+ <li>
   <a href="https://www.crypteron.com/">
    crypteron.com
   </a>
   — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
+ </li>
+ <li>
+  <a href="https://snyk.io">
+   snyk.io
+  </a>
+  — Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)
  </li>
  <li>
   <a href="http://vaddy.net/">
@@ -771,7 +813,7 @@
   <a href="https://stormpath.com/">
    stormpath.com
   </a>
-  — Free user management, authentication, social login, and SSO
+  — Free user management, authentication, social login and SSO
  </li>
  <li>
   <a href="https://auth0.com/">
@@ -837,7 +879,7 @@
   <a href="https://www.foxpass.com/">
    foxpass.com
   </a>
-  — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users
+  — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
  </li>
  <li>
   <a href="https://www.opswatgears.com/">
@@ -885,6 +927,12 @@
    visualops.io
   </a>
   — 3,600 instance hours/month free
+ </li>
+ <li>
+  <a href="https://www.bushel.com/">
+   bushel.com
+  </a>
+  —  Device management solution for iPads, iPhones and Macs, 3 devices free
  </li>
 </ul>
 <h2>
@@ -1137,7 +1185,7 @@
   <a href="https://www.appdynamics.com/">
    appdynamics.com
   </a>
-  — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
+  — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
  </li>
  <li>
   <a href="https://deadmanssnitch.com/">
@@ -1187,6 +1235,12 @@
   </a>
   — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
  </li>
+ <li>
+  <a href="https://healthchecks.io">
+   healthchecks.io
+  </a>
+  — Monitor your cron jobs and background tasks. Unlimited free checks.
+ </li>
 </ul>
 <h2>
  Crash and Exception Handling
@@ -1205,16 +1259,10 @@
   — Free for up to 2,000 errors/month after the initial trial
  </li>
  <li>
-  <a href="https://airbrake.io/">
-   airbrake.io
-  </a>
-  — Automatically groups, organizes and notifies you about your application errors. Free plan with 7,200 errors/day, 1 user, 1 project, 2 days retention
- </li>
- <li>
   <a href="https://getsentry.com/">
    getsentry.com
   </a>
-  — Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted
+  — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
  </li>
 </ul>
 <h2>
@@ -1262,6 +1310,12 @@
  Email
 </h2>
 <ul>
+ <li>
+  <a href="https://www.mailinator.com/">
+   mailinator.com
+  </a>
+  — Mailinator is Free, Public, Email system where you can use ANY inbox you want! ... Disposable Email
+ </li>
  <li>
   <a href="https://www.sparkpost.com/">
    sparkpost.com
@@ -1350,7 +1404,7 @@
   <a href="http://pawnmail.com">
    pawnmail.com
   </a>
-  — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
+  — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP and SMTP access. No paid plans or upgrades
  </li>
  <li>
   <a href="http://moosend.com/">
@@ -1386,7 +1440,7 @@
   <a href="http://kickbox.io/">
    kickbox.io
   </a>
-  — Verify 100 emails free, real time API available
+  — Verify 100 emails free, real-time API available
  </li>
  <li>
   <a href="http://inumbo.com/">
@@ -1423,24 +1477,6 @@
  CDN and Protection
 </h2>
 <ul>
- <li>
-  <a href="https://kloudsec.com">
-   kloudsec.com
-  </a>
-  — Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include
-  <code>
-   Page Optimization
-  </code>
-  (Pagespeed),
-  <code>
-   Service Doctor
-  </code>
-  (Website performance analytics and alerts) and
-  <code>
-   One-click Encryption
-  </code>
-  (Auto provision/renew LetsEncrypt certs for HTTPS)
- </li>
  <li>
   <a href="https://www.cloudflare.com/">
    cloudflare.com
@@ -1576,7 +1612,7 @@
   <a href="https://www.firebase.com/">
    firebase.com
   </a>
-  — Build realtime apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 100 GB hosting transfer
+  — Build real-time apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
  </li>
  <li>
   <a href="https://console.ng.bluemix.net/">
@@ -1640,7 +1676,7 @@
   <a href="http://pagodabox.io/">
    pagodabox.io
   </a>
-  — Small worker, web server, cache, and database for free
+  — Small worker, web server, cache and database for free
  </li>
  <li>
   <a href="https://www.cloudandheat.com/">
@@ -1652,7 +1688,19 @@
   <a href="https://zeit.co/now">
    zeit.co/now
   </a>
-  - Managed platform for Node.js deployments, featuring dynamic realtime scaling. Includes 20 free deploys/month limited to 1GB storage and 1GB bandwidth for OSS projects (source files are exposed on a public URL)
+  — Managed platform for Node.js deployments, featuring dynamic real-time scaling. Includes 20 free deploys/month limited to 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
+ </li>
+ <li>
+  <a href="https://sandstorm.io/">
+   sandstorm.io
+  </a>
+  — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
+ </li>
+ <li>
+  <a href="https://www.gearhost.com/pricing">
+   gearhost.com
+  </a>
+  — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources.
  </li>
 </ul>
 <h2>
@@ -1663,7 +1711,7 @@
   <a href="http://docs.apigee.com/api-baas">
    apigee.com
   </a>
-  — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK, and API
+  — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK and API
  </li>
  <li>
   <a href="http://appacitive.com/">
@@ -1705,7 +1753,7 @@
   <a href="http://quickblox.com/">
    quickblox.com
   </a>
-  — A communication backend for instant messaging, video and voice calling, and push notifications
+  — A communication backend for instant messaging, video and voice calling and push notifications
  </li>
  <li>
   <a href="https://pushbots.com/">
@@ -1735,7 +1783,7 @@
   <a href="https://tyk.io/">
    tyk.io
   </a>
-  — API management with authentication, quotas, monitoring, and analytics. Free cloud offering
+  — API management with authentication, quotas, monitoring and analytics. Free cloud offering
  </li>
  <li>
   <a href="http://www.iron.io/">
@@ -1783,7 +1831,7 @@
   <a href="https://stamplay.com/">
    stamplay.com
   </a>
-  — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer, and 1 GB storage for free
+  — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer and 1 GB storage for free
  </li>
 </ul>
 <h2>
@@ -1797,10 +1845,16 @@
   — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
  </li>
  <li>
+  <a href="https://sourceforge.net/">
+   sourceforge.net
+  </a>
+  — Find, Create and Publish Open Source software for free
+ </li>
+ <li>
   <a href="https://www.simplybuilt.com/">
    simplybuilt.com
   </a>
-  — SimplyBuilt offers free website building and hosting for {
+  — free website building and hosting for {
   <a href="http://www.simplybuilt.com/explore/free-websites-for-open-source-projects">
    Open Source projects
   </a>
@@ -1810,7 +1864,7 @@
   <a href="http://devport.co/">
    devport.co
   </a>
-  — Turn GitHub projects, apps, and websites into a personal developer portfolio
+  — Turn GitHub projects, apps and websites into a personal developer portfolio
  </li>
  <li>
   <a href="https://www.netlify.com/">
@@ -1822,7 +1876,7 @@
   <a href="https://pantheon.io/">
    pantheon.io
   </a>
-  — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies
+  — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
  </li>
  <li>
   <a href="https://www.acquia.com/">
@@ -1834,7 +1888,7 @@
   <a href="https://www.bitballoon.com/">
    bitballoon.com
   </a>
-  — BitBalloon offers hosting for static sites and apps. Free on a subdomain
+  — hosting for static sites and apps. Free on a subdomain
  </li>
  <li>
   <a href="https://readthedocs.org/">
@@ -1859,6 +1913,12 @@
    tilda.cc
   </a>
   — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
+ </li>
+ <li>
+  <a href="http://www.pubstorm.com">
+   pubstorm.com
+  </a>
+  — Free static content hosting with global CDN and custom domain support. 10 free sites, each with 2 past revisions
  </li>
 </ul>
 <h2>
@@ -1888,6 +1948,12 @@
    domain.yandex.com
   </a>
   — Free email and DNS hosting for up to 1,000 users
+ </li>
+ <li>
+  <a href="https://selectel.com/services/dns/">
+   selectel.com
+  </a>
+  — Free DNS hosting, anycast, 10 geo zones
  </li>
  <li>
   <a href="https://www.cloudns.net/">
@@ -1935,6 +2001,12 @@
    virtzone.net
   </a>
   — Free VPS. You must meet certain minor qualifications
+ </li>
+ <li>
+  <a href="https://backblaze.com/b2/">
+   backblaze.com
+  </a>
+  — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
  </li>
 </ul>
 <h2>
@@ -2043,10 +2115,16 @@
   — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100 K messages/day
  </li>
  <li>
-  stun:stun.l.google.com:19302 — Google STUN
+  <a href="stun:stun.l.google.com:19302">
+   stun:stun.l.google.com:19302
+  </a>
+  — Google STUN
  </li>
  <li>
-  stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN
+  <a href="stun:global.stun.twilio.com:3478?transport=udp">
+   stun:global.stun.twilio.com:3478?transport=udp
+  </a>
+  — Twilio STUN
  </li>
  <li>
   <a href="https://segment.com/">
@@ -2111,7 +2189,7 @@
   <a href="https://zenhub.io/">
    zenhub.io
   </a>
-  — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofits organizations
+  — The only project management solution inside GitHub. Free for public repos, OSS and nonprofits organizations
  </li>
  <li>
   <a href="https://trello.com/">
@@ -2187,7 +2265,7 @@
   <a href="https://cacoo.com/">
    cacoo.com
   </a>
-  — Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
+  — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
  </li>
  <li>
   <a href="https://www.draw.io/">
@@ -2280,7 +2358,7 @@
   <a href="http://cloudinary.com/">
    cloudinary.com
   </a>
-  — Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
+  — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
  </li>
  <li>
   <a href="https://plot.ly/">
@@ -2292,7 +2370,7 @@
   <a href="https://transloadit.com/">
    transloadit.com
   </a>
-  — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get one GB free for test driving
+  — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get 1 GB free for test driving
  </li>
  <li>
   <a href="https://podio.com/">
@@ -2310,7 +2388,7 @@
   <a href="http://imagefly.io/">
    imagefly.io
   </a>
-  — Responsive images on-demand. CDN fronted image resizing, transcoding, and optimizing. 100 MB/month for free
+  — Responsive images on-demand. CDN fronted image resizing, transcoding and optimizing. 100 MB/month for free
  </li>
  <li>
   <a href="https://kraken.io/">
@@ -2366,6 +2444,12 @@
   </a>
   — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
  </li>
+ <li>
+  <a href="https://packagecloud.io/">
+   packagecloud.io
+  </a>
+  — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
+ </li>
 </ul>
 <h2>
  Design and UI
@@ -2420,9 +2504,15 @@
 <ul>
  <li>
   <a href="https://geocoder.opencagedata.com/">
-   geocoder.opencagedata.com/
+   geocoder.opencagedata.com
   </a>
   — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
+ </li>
+ <li>
+  <a href="https://datamaps.co/">
+   datamaps.co
+  </a>
+  a free platform for creating visualizations with data maps.
  </li>
  <li>
   <a href="http://geocod.io/">
@@ -2452,13 +2542,13 @@
   <a href="https://latlon.io/">
    latlon.io
   </a>
-  — Geocoding API + school districts, census geography divisons, and other address based data. 2,500 free requests/month
+  — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
  </li>
  <li>
   <a href="https://mapbox.com/">
    mapbox.com
   </a>
-  — Maps, geospatial services, and SDKs for displaying map data
+  — Maps, geospatial services and SDKs for displaying map data
  </li>
 </ul>
 <h2>
@@ -2495,10 +2585,16 @@
   — IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
  </li>
  <li>
+  <a href="http://www.koding.com/">
+   koding.com
+  </a>
+  — Cloud-based development environment. You have a Ubuntu OS machine
+ </li>
+ <li>
   <a href="https://codeanywhere.com/">
    codeanywhere.com
   </a>
-  — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking
+  — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking
  </li>
  <li>
   <a href="https://codenvy.com/">
@@ -2556,7 +2652,7 @@
   <a href="https://jetbrains.com/products.html">
    jetbrains.com
   </a>
-  — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source, and user groups
+  — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups
  </li>
  <li>
   <a href="http://stackhive.com/">
@@ -2569,12 +2665,6 @@
    tadpoledb.com
   </a>
   — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
- </li>
- <li>
-  <a href="https://sourcelair.com/">
-   sourcelair.com
-  </a>
-  — In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
  </li>
  <li>
   <a href="https://codepen.io/">
@@ -2683,6 +2773,18 @@
   </a>
   — Expense reporting, free personal reporting approval workflow
  </li>
+ <li>
+  <a href="http://www.ironsrc.com/data-flow-management/">
+   ironSource atom
+  </a>
+  — Atom Data Flow Management is a data pipeline solution, 10M monthly events free
+ </li>
+ <li>
+  <a href="http://botan.io/">
+   botan.io
+  </a>
+  — Free analytics for your Telegram bot
+ </li>
 </ul>
 <h2>
  International Mobile Number Verification API and SDK
@@ -2692,11 +2794,7 @@
   <a href="https://cognalys.com/">
    cognalys.com
   </a>
-  — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 tries and 50 verifications/day. {
-  <a href="https://www.cognalys.com/signup/1">
-   Signup
-  </a>
-  }
+  — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 10 tries and 15 verifications/day
  </li>
  <li>
   <a href="https://numverify.com/">
@@ -2745,6 +2843,12 @@
 </h2>
 <ul>
  <li>
+  <a href="https://www.docker.com">
+   docker.com
+  </a>
+  — One free private repository,free managed node and Unlimited public repositories
+ </li>
+ <li>
   <a href="https://quay.io/">
    quay.io
   </a>
@@ -2754,7 +2858,7 @@
   <a href="https://tutum.co/">
    tutum.co
   </a>
-  — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
+  — The Docker Platform for Dev and Ops, build, deploy and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
  </li>
 </ul>
 <h2>
@@ -2783,6 +2887,12 @@
    apichangelog.com
   </a>
   — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
+ </li>
+ <li>
+  <a href="https://www.docsapp.io/">
+   docsapp.io
+  </a>
+  — Easiest way to publish documentation, free for Open Source
  </li>
  <li>
   <a href="http://www.instadiff.com/">
@@ -2834,7 +2944,7 @@
  </li>
 </ul>
 <h2>
- APIs, Data, and ML
+ APIs, Data and ML
 </h2>
 <ul>
  <li>
@@ -2895,7 +3005,7 @@
   <a href="https://www.dominodatalab.com">
    dominodatalab.com
   </a>
-  — Data science with support for Python, R, Spark, Hadoop, Matlab, and others
+  — Data science with support for Python, R, Spark, Hadoop, Matlab and others
  </li>
  <li>
   <a href="https://www.havenondemand.com">
@@ -2915,6 +3025,18 @@
   </a>
   — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
  </li>
+ <li>
+  <a href="https://context.io">
+   context.io
+  </a>
+  — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
+ </li>
+ <li>
+  <a href="https://cloudrail.com">
+   cloudrail.com
+  </a>
+  — API integration solution. Unified interfaces for multiple web APIs, API change management
+ </li>
 </ul>
 <h2>
  Other Free Resources
@@ -2926,7 +3048,7 @@
   </a>
   — A hub of free and Open Source software for developers
   <sup>
-   &#9733 115, pushed 54 days ago
+   &#9733 115, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -2935,7 +3057,7 @@
   </a>
   — List of free services for nonprofit organizations
   <sup>
-   &#9733 30, pushed 334 days ago
+   &#9733 30, pushed 459 days ago
   </sup>
  </li>
  <li>

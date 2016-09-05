@@ -58,6 +58,11 @@
      Movies
     </a>
    </li>
+   <li>
+    <a href="#commercials">
+     Commercials
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -120,6 +125,12 @@
   (1972)
  </li>
  <li>
+  <a href="https://www.youtube.com/watch?v=5WCTn4FljUQ">
+   KRON San Francisco: Primitive Internet report
+  </a>
+  (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
+ </li>
+ <li>
   <a href="https://www.youtube.com/watch?v=tc4ROCJYbm0">
    The UNIX System: Making Computers More Productive
   </a>
@@ -158,6 +169,12 @@
   </ul>
  </li>
  <li>
+  <a href="https://www.youtube.com/watch?v=nbJy0O4UFSM">
+   We Are Apple
+  </a>
+  (1984) - Corporate song that was used during the Macintosh rollout in January, 1984
+ </li>
+ <li>
   <a href="https://www.youtube.com/watch?v=xrIjfIjssLE">
    Erlang: The Movie
   </a>
@@ -182,6 +199,12 @@
     (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=VCz_SiPD_X0">
+   Steve Jobs: The Crazy Ones
+  </a>
+  (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
  </li>
 </ul>
 <h3>
@@ -498,6 +521,17 @@
     7.8/10
    </a>
   </sup>
+ </li>
+</ul>
+<h3>
+ Commercials
+</h3>
+<ul>
+ <li>
+  <a href="https://www.youtube.com/watch?v=2zfqw8nhUwA">
+   Apple 1984 Super Bowl Commercial
+  </a>
+  (1984) - Apple 1984 Super Bowl Commercial Introducing Macintosh Computer
  </li>
 </ul>
 <h2>

@@ -135,8 +135,14 @@
   </a>
   – A small ClojureScript library to make it easier to work with canvas and visuals.
   <sup>
-   &#9733 116, pushed 46 days ago
+   &#9733 116, pushed 170 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Quamolit/quamolit">
+   Quamolit
+  </a>
+  - A tiny declarative animation library , inspired by React.
  </li>
 </ul>
 <h3>
@@ -144,12 +150,23 @@
 </h3>
 <ul>
  <li>
+  Cumulo
+  <a href="https://github.com/Cumulo/cumulo-server">
+   server
+  </a>
+  /
+  <a href="https://github.com/Cumulo/cumulo-client">
+   client
+  </a>
+  - A pair of libries to sync data among clients, based on WebSocets and diff/patch.
+ </li>
+ <li>
   <a href="https://github.com/LightTable/fetch">
    Fetch
   </a>
   – A ClojureScript library that makes client/server interaction painless.
   <sup>
-   &#9733 188, pushed 294 days ago
+   &#9733 188, pushed 419 days ago
   </sup>
  </li>
 </ul>
@@ -163,7 +180,7 @@
   </a>
   –  Clojure/ClojureScript library for accelerated browser data deserialization.
   <sup>
-   &#9733 65, pushed 196 days ago
+   &#9733 65, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -172,7 +189,7 @@
   </a>
   –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
   <sup>
-   &#9733 170, pushed 133 days ago
+   &#9733 170, pushed 258 days ago
   </sup>
  </li>
 </ul>
@@ -197,7 +214,7 @@
   </a>
   – An immutable in-memory database and Datalog query engine in ClojureScript.
   <sup>
-   &#9733 2003, pushed 4 days ago
+   &#9733 2003, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -206,7 +223,7 @@
   </a>
   – A simple ClojureScript CouchDB client.
   <sup>
-   &#9733 10, pushed 1301 days ago
+   &#9733 10, pushed 1426 days ago
   </sup>
  </li>
  <li>
@@ -215,7 +232,7 @@
   </a>
   –  A clojuresque key-value/document store protocol with core.async.
   <sup>
-   &#9733 12, pushed 23 days ago
+   &#9733 12, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -229,7 +246,7 @@
   </a>
   — A ClojureScript REPL into iOS JavaScriptCore.
   <sup>
-   &#9733 425, pushed 114 days ago
+   &#9733 425, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -238,7 +255,7 @@
   </a>
   - Better presentation of ClojureScript values in Chrome Devtools.
   <sup>
-   &#9733 461, pushed 19 days ago
+   &#9733 461, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -247,7 +264,7 @@
   </a>
   — A Leiningen plugin to make ClojureScript development easy.
   <sup>
-   &#9733 824, pushed 57 days ago
+   &#9733 824, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -256,7 +273,7 @@
   </a>
   –  Leiningen plugin that pushes ClojureScript code changes to the client.
   <sup>
-   &#9733 1552, pushed 13 days ago
+   &#9733 1552, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +288,7 @@
   </a>
   – A ClojureScript build library capable of compiling multiple output files.
   <sup>
-   &#9733 89, pushed 38 days ago
+   &#9733 89, pushed 163 days ago
   </sup>
  </li>
 </ul>
@@ -285,7 +302,7 @@
   </a>
   – It binds html elements to ClojureScript functions.
   <sup>
-   &#9733 55, pushed 1295 days ago
+   &#9733 55, pushed 1420 days ago
   </sup>
  </li>
  <li>
@@ -294,7 +311,7 @@
   </a>
   –  A ClojureScript implementation of Hiccup.
   <sup>
-   &#9733 202, pushed 183 days ago
+   &#9733 202, pushed 307 days ago
   </sup>
  </li>
  <li>
@@ -303,7 +320,7 @@
   </a>
   – Virtual-Dom in ClojureScript.
   <sup>
-   &#9733 70, pushed 330 days ago
+   &#9733 70, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +329,7 @@
   </a>
   –  A no-nonsense ClojureScript templating and DOM manipulation library.
   <sup>
-   &#9733 702, pushed 111 days ago
+   &#9733 702, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -327,7 +344,7 @@
   </a>
   – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
   <sup>
-   &#9733 359, pushed 174 days ago
+   &#9733 359, pushed 298 days ago
   </sup>
  </li>
  <li>
@@ -336,7 +353,7 @@
   </a>
   – A ClojureScript port of the Hiccup.
   <sup>
-   &#9733 124, pushed 22 days ago
+   &#9733 124, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -345,7 +362,7 @@
   </a>
   – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
   <sup>
-   &#9733 205, pushed 44 days ago
+   &#9733 205, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -354,7 +371,7 @@
   </a>
   – Provide JSON and get a DOM node with a human representation of that JSON.
   <sup>
-   &#9733 65, pushed 47 days ago
+   &#9733 65, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -363,7 +380,7 @@
   </a>
   - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
   <sup>
-   &#9733 346, pushed 65 days ago
+   &#9733 346, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -372,7 +389,7 @@
   </a>
   –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
   <sup>
-   &#9733 471, pushed 7 days ago
+   &#9733 471, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -386,7 +403,7 @@
   </a>
   – A  2D/3D geometry toolkit for Clojure/Clojurescript.
   <sup>
-   &#9733 290, pushed 8 days ago
+   &#9733 290, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -400,7 +417,7 @@
   </a>
   – An HTTP remote procedure call handler for Clojure.
   <sup>
-   &#9733 64, pushed 15 days ago
+   &#9733 64, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -414,7 +431,7 @@
   </a>
   – A Clojure(Script) i18n & L10n library.
   <sup>
-   &#9733 231, pushed 54 days ago
+   &#9733 231, pushed 178 days ago
   </sup>
  </li>
 </ul>
@@ -434,7 +451,7 @@
   </a>
   – A ClojureScript wrapper for jQuery.
   <sup>
-   &#9733 385, pushed 322 days ago
+   &#9733 385, pushed 447 days ago
   </sup>
  </li>
  <li>
@@ -449,7 +466,7 @@
   </a>
   – A Javascript class system in 100% Clojurescript.
   <sup>
-   &#9733 33, pushed 1192 days ago
+   &#9733 33, pushed 1317 days ago
   </sup>
  </li>
 </ul>
@@ -463,7 +480,7 @@
   </a>
   – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
   <sup>
-   &#9733 354, pushed 85 days ago
+   &#9733 354, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -472,7 +489,7 @@
   </a>
   – A Clojure(Script) library for functional interpolation and transitions.
   <sup>
-   &#9733 78, pushed 180 days ago
+   &#9733 78, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -487,7 +504,7 @@
   </a>
   – It creates atoms from other atoms and links the data together.
   <sup>
-   &#9733 25, pushed 457 days ago
+   &#9733 25, pushed 582 days ago
   </sup>
  </li>
  <li>
@@ -496,7 +513,7 @@
   </a>
   – A library for rendering CSS in Clojure and ClojureScript.
   <sup>
-   &#9733 642, pushed 66 days ago
+   &#9733 642, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -505,7 +522,7 @@
   </a>
   – Rails-like inflection library for Clojure and ClojureScript.
   <sup>
-   &#9733 119, pushed 48 days ago
+   &#9733 119, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -514,7 +531,7 @@
   </a>
   – It aims to be the simplest way to build parsers in ClojureScript.
   <sup>
-   &#9733 76, pushed 8 days ago
+   &#9733 76, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -523,7 +540,7 @@
   </a>
   - Library for handling key bindings (shortcuts) in browser.
   <sup>
-   &#9733 23, pushed 166 days ago
+   &#9733 23, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -532,7 +549,7 @@
   </a>
   –  Markdown parser in Clojure/ClojureScript.
   <sup>
-   &#9733 277, pushed 2 days ago
+   &#9733 277, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -541,7 +558,7 @@
   </a>
   – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
   <sup>
-   &#9733 450, pushed 21 days ago
+   &#9733 450, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -550,7 +567,7 @@
   </a>
   – A processing and graphics programming library.
   <sup>
-   &#9733 1657, pushed 1 days ago
+   &#9733 1657, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -559,7 +576,7 @@
   </a>
   -  Beautiful Bootstrap 3 forms for Om and Reagent.
   <sup>
-   &#9733 134, pushed 149 days ago
+   &#9733 134, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -569,12 +586,28 @@
   – Bootstrap form components for Reagent.
  </li>
  <li>
+  <a href="https://github.com/mvc-works/respo">
+   Respo
+  </a>
+  - A
+  <strong>
+   Respo
+  </strong>
+  nsive DOM library, inspired by React.
+ </li>
+ <li>
+  <a href="https://github.com/Cirru/sepal.clj">
+   Sepal.clj
+  </a>
+  - A library to generate Clojure code from a vector of strings and vectors with macro system.
+ </li>
+ <li>
   <a href="https://github.com/ptaoussanis/truss">
    Truss
   </a>
   – An opinionated assertions API for Clojure/ClojureScript.
   <sup>
-   &#9733 128, pushed 43 days ago
+   &#9733 128, pushed 168 days ago
   </sup>
  </li>
 </ul>
@@ -591,7 +624,7 @@
   </a>
   – A simple and functional ClojureScript interface to React.
   <sup>
-   &#9733 114, pushed 190 days ago
+   &#9733 114, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -600,7 +633,7 @@
   </a>
   — A powerful interface to React, makes use of its object oriented structures.
   <sup>
-   &#9733 5384, pushed 1 days ago
+   &#9733 5384, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -609,7 +642,7 @@
   </a>
   — It favors functional style, fully stateless.
   <sup>
-   &#9733 528, pushed 1 days ago
+   &#9733 528, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -618,7 +651,7 @@
   </a>
   –  A ClojureScript library of reusable components for Reagent.
   <sup>
-   &#9733 289, pushed 1 days ago
+   &#9733 289, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -633,7 +666,7 @@
   </a>
   — Decomplected, extensible, simple.
   <sup>
-   &#9733 549, pushed 3 days ago
+   &#9733 549, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -647,7 +680,7 @@
   </a>
   – A Functional Reactive Programming library for ClojureScript.
   <sup>
-   &#9733 513, pushed 122 days ago
+   &#9733 513, pushed 247 days ago
   </sup>
  </li>
  <li>
@@ -656,7 +689,7 @@
   </a>
   – An FRP library for Clojure and ClojureScript, built on top of core.async.
   <sup>
-   &#9733 193, pushed 60 days ago
+   &#9733 193, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -665,7 +698,7 @@
   </a>
   – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
   <sup>
-   &#9733 32, pushed 1078 days ago
+   &#9733 32, pushed 1203 days ago
   </sup>
  </li>
  <li>
@@ -674,7 +707,7 @@
   </a>
   – A thin ClojureScript wrapper around bacon.js.
   <sup>
-   &#9733 43, pushed 848 days ago
+   &#9733 43, pushed 973 days ago
   </sup>
  </li>
 </ul>
@@ -688,7 +721,7 @@
   </a>
   – A Clojure(script) data driven routing library.
   <sup>
-   &#9733 514, pushed 6 days ago
+   &#9733 514, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -697,7 +730,7 @@
   </a>
   –  A client-side router for ClojureScript.
   <sup>
-   &#9733 547, pushed 28 days ago
+   &#9733 547, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -706,7 +739,7 @@
   </a>
   – An isomorphic routing library for Clojure & ClojureScript.
   <sup>
-   &#9733 188, pushed 82 days ago
+   &#9733 188, pushed 207 days ago
   </sup>
  </li>
 </ul>
@@ -726,7 +759,7 @@
   </a>
   –  Incrementally persists atom state to Local Storage in ClojureScript.
   <sup>
-   &#9733 24, pushed 509 days ago
+   &#9733 24, pushed 634 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +768,7 @@
   </a>
   –  ClojureScript atoms backed by HTML5 web storage.
   <sup>
-   &#9733 116, pushed 21 days ago
+   &#9733 116, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -744,7 +777,7 @@
   </a>
   – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
   <sup>
-   &#9733 93, pushed 1484 days ago
+   &#9733 93, pushed 1609 days ago
   </sup>
  </li>
 </ul>
@@ -758,7 +791,7 @@
   </a>
   – A maximal port of clojure.test to ClojureScript.
   <sup>
-   &#9733 175, pushed 160 days ago
+   &#9733 175, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -773,7 +806,7 @@
   </a>
   – A TDD/BDD framework for Clojure and ClojureScript.
   <sup>
-   &#9733 325, pushed 16 days ago
+   &#9733 325, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -782,7 +815,7 @@
   </a>
   – A generative property-based testing tool inspired by QuickCheck.
   <sup>
-   &#9733 589, pushed 16 days ago
+   &#9733 589, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -796,7 +829,7 @@
   </a>
   – A validation DSL for Clojure & Clojurescript applications.
   <sup>
-   &#9733 264, pushed 134 days ago
+   &#9733 264, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -816,7 +849,7 @@
   </a>
   – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
   <sup>
-   &#9733 41, pushed 494 days ago
+   &#9733 41, pushed 618 days ago
   </sup>
  </li>
  <li>
@@ -825,7 +858,7 @@
   </a>
   –  An Application template for ClojureScript/Om with live reloading.
   <sup>
-   &#9733 939, pushed 37 days ago
+   &#9733 939, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +867,7 @@
   </a>
   – An opinionated, full stack and easy to use web framework.
   <sup>
-   &#9733 107, pushed 18 days ago
+   &#9733 107, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -849,7 +882,7 @@
   </a>
   - A template for Web based desktop application with Electron.
   <sup>
-   &#9733 185, pushed 22 days ago
+   &#9733 185, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -858,7 +891,7 @@
   </a>
   - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
   <sup>
-   &#9733 66, pushed 49 days ago
+   &#9733 66, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -879,7 +912,7 @@
   </a>
   – A minimal ClojureScript project template.
   <sup>
-   &#9733 267, pushed 42 days ago
+   &#9733 267, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -888,7 +921,7 @@
   </a>
   – A Reagent Framework For Writing SPAs, in Clojurescript.
   <sup>
-   &#9733 1520, pushed 23 days ago
+   &#9733 1520, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -903,7 +936,7 @@
   </a>
   –  Client-Side Web Framework for ClojureScript.
   <sup>
-   &#9733 222, pushed 1189 days ago
+   &#9733 222, pushed 1314 days ago
   </sup>
  </li>
 </ul>
@@ -917,7 +950,7 @@
   </a>
   –  Clojure(Script) + core.async + WebSockets/Ajax.
   <sup>
-   &#9733 996, pushed 13 days ago
+   &#9733 996, pushed 138 days ago
   </sup>
  </li>
 </ul>

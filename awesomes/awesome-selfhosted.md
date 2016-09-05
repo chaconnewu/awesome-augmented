@@ -5,6 +5,9 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
+ <a href="https://chat.awesome-selfhosted.com">
+  <img alt="" src="https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667"/>
+ </a>
 </p>
 <p>
  Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
@@ -95,13 +98,8 @@
       </a>
      </li>
      <li>
-      <a href="#mailing-lists">
-       Mailing lists
-      </a>
-     </li>
-     <li>
-      <a href="#newsletter-management">
-       Newsletter management
+      <a href="#mailing-lists-and-newsletters">
+       Mailing lists and newsletters
       </a>
      </li>
      <li>
@@ -161,6 +159,11 @@
     </a>
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="#dns">
+   DNS
+  </a>
  </li>
  <li>
   <a href="#document-archiving">
@@ -257,8 +260,8 @@
   </ul>
  </li>
  <li>
-  <a href="#mind-maps">
-   Mind Maps
+  <a href="#miscother">
+   Misc/Other
   </a>
  </li>
  <li>
@@ -451,7 +454,7 @@
   </a>
   )
   <code>
-   AGPL
+   AGPLv3
   </code>
   <code>
    Javascript
@@ -499,7 +502,7 @@
   </a>
   )
   <code>
-   GPL
+   GPLv2
   </code>
   <code>
    PHP
@@ -519,6 +522,22 @@
   </code>
   <code>
    PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://serposcope.serphacker.com/">
+   Serposcope
+  </a>
+  - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. (
+  <a href="https://github.com/serphacker/serposcope">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Java
   </code>
  </li>
  <li>
@@ -547,22 +566,10 @@
   </a>
   )
   <code>
-   GPL
+   GPLv3
   </code>
   <code>
    PHP
-  </code>
- </li>
- <li>
-  <a href="http://www.webalizer.org/">
-   Webalizer
-  </a>
-  - Fast web server log file analysis.
-  <code>
-   GPL
-  </code>
-  <code>
-   C
   </code>
  </li>
 </ul>
@@ -582,10 +589,30 @@
   </a>
   )
   <code>
-   AGPL
+   AGPLv3
   </code>
   <code>
    Clojure
+  </code>
+ </li>
+ <li>
+  <a href="http://redash.io">
+   Redash
+  </a>
+  - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. (
+  <a href="https://demo.redash.io">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/getredash/redash">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
+  <code>
+   Python
   </code>
  </li>
 </ul>
@@ -637,6 +664,38 @@
   </code>
  </li>
  <li>
+  <a href="https://bip.io/">
+   bip.io
+  </a>
+  - Web Automation For People And Robots - Drag, Drop, and Connect The Services You Love. (
+  <a href="https://github.com/bipio-server/bipio">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="https://couchpota.to/">
+   CouchPotato
+  </a>
+  - CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. (
+  <a href="https://github.com/CouchPotato/CouchPotatoServer/">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
   <a href="https://github.com/rembo10/headphones">
    Headphones
   </a>
@@ -648,7 +707,7 @@
    Python
   </code>
   <sup>
-   &#9733 1930, pushed 9 days ago
+   &#9733 1930, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -679,7 +738,7 @@
    Ruby
   </code>
   <sup>
-   &#9733 13804, pushed 2 days ago
+   &#9733 13804, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -699,6 +758,69 @@
   </code>
  </li>
  <li>
+  <a href="https://github.com/pymedusa/SickRage">
+   Medusa
+  </a>
+  - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="http://nodered.org/">
+   Node RED
+  </a>
+  - A browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. (
+  <a href="https://github.com/node-red/node-red">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="http://www.openhab.org">
+   openHAB
+  </a>
+  - Vendor and technology agnostic open source software for home automation. (
+  <a href="https://github.com/openhab/openhab">
+   Source Code
+  </a>
+  )
+  <code>
+   EPLv1
+  </code>
+  <code>
+   Java
+  </code>
+ </li>
+ <li>
+  <a href="http://poffer.gabinaureche.com">
+   Poffer
+  </a>
+  <code>
+   ⚠
+  </code>
+  - A tool that makes it easier to share the content you like thanks to Pocket+Buffer. (
+  <a href="https://github.com/Zhouzi/Poffer">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
   <a href="https://github.com/sebsauvage/rss-bridge">
    RSS-Bridge
   </a>
@@ -710,8 +832,40 @@
    PHP
   </code>
   <sup>
-   &#9733 393, pushed 2 days ago
+   &#9733 393, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://sickrage.github.io/">
+   SickRage
+  </a>
+  - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. (
+  <a href="https://github.com/SickRage/SickRage/">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="https://sonarr.tv/">
+   Sonarr
+  </a>
+  - An automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. (
+  <a href="https://github.com/Sonarr/Sonarr">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   C#
+  </code>
  </li>
  <li>
   <a href="http://trigger-happy.eu/">
@@ -733,7 +887,10 @@
   <a href="https://github.com/jchampemont/WTFDYUM">
    WTFDYUM
   </a>
-  a.k.a Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. (
+  <code>
+   ⚠
+  </code>
+  - Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. (
   <a href="https://www.wtfdyu.me/">
    Demo
   </a>
@@ -749,8 +906,28 @@
    Java
   </code>
   <sup>
-   &#9733 24, pushed 22 days ago
+   &#9733 24, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://s8f.org/zenbot.html">
+   Zenbot 3
+  </a>
+  - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. (
+  <a href="https://zenbot.s8f.org/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/carlos8f/zenbot">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Node.js
+  </code>
  </li>
 </ul>
 <h2>
@@ -800,7 +977,7 @@
    Apache
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
  </li>
  <li>
@@ -831,7 +1008,7 @@
    PHP
   </code>
   <sup>
-   &#9733 189, pushed 2 days ago
+   &#9733 189, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -935,6 +1112,22 @@
   </code>
  </li>
  <li>
+  <a href="https://www.postleaf.org/">
+   Postleaf
+  </a>
+  - An open source blogging platform with inline editing, handlebar templates, and a beautiful user interface. (
+  <a href="https://github.com/Postleaf/postleaf">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://wagtail.io/">
    Wagtail
   </a>
@@ -962,6 +1155,9 @@
   <code>
    GPLv2
   </code>
+  <code>
+   PHP
+  </code>
  </li>
 </ul>
 <h2>
@@ -972,11 +1168,7 @@
   <a href="https://github.com/bookieio/Bookie">
    Bookie
   </a>
-  - Python based delicious.com replacement. (
-  <a href="http://bmark.us/">
-   Demo
-  </a>
-  )
+  - Python based delicious.com replacement.
   <code>
    AGPLv3
   </code>
@@ -984,14 +1176,41 @@
    Python
   </code>
   <sup>
-   &#9733 522, pushed 75 days ago
+   &#9733 522, pushed 200 days ago
   </sup>
  </li>
  <li>
   <a href="https://docs.services.mozilla.com/howtos/run-fxa.html">
-   Firefox Accounts Server
+   Firefox Auth Server
   </a>
+  - This project implements the core server-side API for Firefox Accounts. (
+  <a href="https://github.com/mozilla/fxa-auth-server/">
+   Source Code
+  </a>
+  )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   Nodejs
+  </code>
   <ul>
+   <li>
+    <a href="https://docs.services.mozilla.com/howtos/run-fxa.html">
+     Firefox Content Server
+    </a>
+    - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. (
+    <a href="https://github.com/mozilla/fxa-content-server/">
+     Source Code
+    </a>
+    )
+    <code>
+     MPLv2
+    </code>
+    <code>
+     Java
+    </code>
+   </li>
    <li>
     <a href="https://docs.services.mozilla.com/howtos/run-sync-1.5.html">
      Firefox Sync Server
@@ -1027,26 +1246,6 @@
   </code>
  </li>
  <li>
-  <a href="http://www.myyna.com/">
-   Myyna
-  </a>
-  - Open source alternative to Pinterest. (
-  <a href="http://demo.myyna.com/">
-   Demo
-  </a>
-  ,
-  <a href="https://github.com/cubettech/myyna">
-   Source Code
-  </a>
-  )
-  <code>
-   MIT
-  </code>
-  <code>
-   Nodejs
-  </code>
- </li>
- <li>
   <a href="http://nofussbm.herokuapp.com/signup.html">
    No Fuss Bookmarks
   </a>
@@ -1079,31 +1278,29 @@
   </code>
  </li>
  <li>
-  <a href="https://github.com/scronide/scuttle">
-   Scuttle
+  <a href="https://saveto.co/">
+   saveto.co
   </a>
-  - Web-based social bookmarking system. Allows multiple users to store, share and tag their favourite links.
+  - An open source, home for the best links on the web. (
+  <a href="https://github.com/saveto-co/saveto">
+   Source Code
+  </a>
+  )
   <code>
-   GPLv2
+   MIT
   </code>
   <code>
-   PHP
+   Nodejs
   </code>
-  <sup>
-   &#9733 118, pushed 1953 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/shaarli/Shaarli">
    Shaarli
   </a>
   - Personal, minimalist, super-fast, no-database bookmarking and link sharing plaform. (
-  <a href="http://shaarlidemo.tuxfamily.org/Shaarli/">
+  <a href="http://shaarlidemo.tuxfamily.org/#demo">
    Demo
   </a>
-  <code>
-   demo/demo
-  </code>
   )
   <code>
    Zlib
@@ -1112,7 +1309,7 @@
    PHP
   </code>
   <sup>
-   &#9733 298, pushed 19 days ago
+   &#9733 298, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1147,10 +1344,11 @@
   <a href="http://agendav.org/">
    AgenDAV
   </a>
-  - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support.
+  - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. (
   <a href="https://github.com/adobo/agendav">
    Source Code
   </a>
+  )
   <code>
    GPLv3
   </code>
@@ -1266,6 +1464,26 @@
    PHP
   </code>
  </li>
+ <li>
+  <a href="https://www.inf-it.com/open-source/clients/infcloud/">
+   InfCloud
+  </a>
+  - An open source CalDAV/CardDAV web client implementation. (
+  <a href="https://www.inf-it.com/infcloud/">
+   Demo
+  </a>
+  ,
+  <a href="https://www.inf-it.com/InfCloud_0.13.1.zip">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Javascript
+  </code>
+ </li>
 </ul>
 <h2>
  Communication systems
@@ -1274,6 +1492,26 @@
  Custom
 </h3>
 <ul>
+ <li>
+  <a href="https://actor.im/">
+   Actor
+  </a>
+  - Actor is a fast, open source messaging platform with rich mobile and web clients. (
+  <a href="https://app.actor.im">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/actorapp/actor-platform">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Scala
+  </code>
+ </li>
  <li>
   <a href="https://github.com/rafael-santiago/cherry">
    Cherry
@@ -1286,7 +1524,7 @@
    Go
   </code>
   <sup>
-   &#9733 87, pushed 24 days ago
+   &#9733 87, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1334,14 +1572,14 @@
    GPLv3
   </code>
   <code>
-   C/Java
+   C
   </code>
  </li>
  <li>
   <a href="https://jitsi.org/Projects/JitsiMeet">
    Jitsi Meet
   </a>
-  - Jitsi Meet is an OpenSource (MIT) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. (
+  - Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. (
   <a href="https://github.com/jitsi/jitsi-meet">
    Source Code
   </a>
@@ -1350,7 +1588,7 @@
    MIT
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
  </li>
  <li>
@@ -1398,7 +1636,23 @@
    MIT
   </code>
   <code>
-   JavaScript, NodeJS
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="http://livehelperchat.com/">
+   Live Helper Chat
+  </a>
+  - Live Support chat for your website. (
+  <a href="https://github.com/LiveHelperChat/livehelperchat">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -1415,7 +1669,7 @@
   </a>
   )
   <code>
-   AGPLv3/Apache 2.0
+   AGPLv3/Apache
   </code>
   <code>
    Go
@@ -1438,7 +1692,7 @@
    Apache
   </code>
   <code>
-   PHP/Javascript
+   PHP
   </code>
  </li>
  <li>
@@ -1483,7 +1737,7 @@
    Nodejs
   </code>
   <sup>
-   &#9733 259, pushed 242 days ago
+   &#9733 259, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -1539,11 +1793,11 @@
   </code>
   <ul>
    <li>
-    <a href="https://matrix.org/blog/project/vector/">
-     Vector
+    <a href="https://matrix.org/blog/project/matrix-console-web/">
+     Matrix Console Web
     </a>
-    - A glossy Matrix web client with an emphasis on performance and usability. (
-    <a href="https://github.com/vector-im/vector-web">
+    - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. (
+    <a href="https://github.com/matrix-org/matrix-angular-sdk">
      Source Code
     </a>
     )
@@ -1555,11 +1809,11 @@
     </code>
    </li>
    <li>
-    <a href="https://matrix.org/blog/project/matrix-console-web/">
-     Matrix Console Web
+    <a href="https://matrix.org/blog/project/vector/">
+     Vector
     </a>
-    - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. (
-    <a href="https://github.com/matrix-org/matrix-angular-sdk">
+    - A glossy Matrix web client with an emphasis on performance and usability. (
+    <a href="https://github.com/vector-im/vector-web">
      Source Code
     </a>
     )
@@ -1588,18 +1842,18 @@
   <a href="https://github.com/typpo/textbelt">
    TextBelt
   </a>
-  - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.
   <code>
    ⚠
   </code>
+  - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.
   <code>
    MIT
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
   <sup>
-   &#9733 890, pushed 48 days ago
+   &#9733 890, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1631,7 +1885,7 @@
    MIT
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
  </li>
  <li>
@@ -1644,10 +1898,10 @@
   </a>
   )
   <code>
-   Apache 2.0/Other
+   Apache/Other
   </code>
   <code>
-   Python/Django
+   Python
   </code>
  </li>
 </ul>
@@ -1664,31 +1918,19 @@
 </p>
 <ul>
  <li>
-  <a href="https://mailcow.email/">
-   Mailcow
+  <a href="http://www.citadel.org/">
+   Citadel
   </a>
-  - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. (
-  <a href="https://github.com/andryyy/mailcow">
+  - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture. (
+  <a href="http://code.citadel.org/?p=citadel.git;a=summary">
    Source Code
   </a>
   )
   <code>
-   GPLv2
+   GPLv3
   </code>
   <code>
-   PHP/Shell
-  </code>
- </li>
- <li>
-  <a href="https://mailinabox.email/">
-   Mail-in-a-Box
-  </a>
-  - Turns any Ubuntu server into a fully functional mail server with one command.
-  <code>
-   CC0
-  </code>
-  <code>
-   Shell/Other
+   C
   </code>
  </li>
  <li>
@@ -1708,14 +1950,36 @@
   </code>
  </li>
  <li>
-  <a href="http://www.citadel.org/">
-   Citadel
+  <a href="https://mailcow.email/">
+   Mailcow
   </a>
-  - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture. (
-  <a href="http://code.citadel.org/?p=citadel.git;a=summary">
+  - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. (
+  <a href="https://github.com/andryyy/mailcow">
    Source Code
   </a>
   )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://mailinabox.email/">
+   Mail-in-a-Box
+  </a>
+  - Turns any Ubuntu server into a fully functional mail server with one command. (
+  <a href="https://github.com/mail-in-a-box/mailinabox">
+   Source Code
+  </a>
+  )
+  <code>
+   CC0
+  </code>
+  <code>
+   Shell
+  </code>
  </li>
  <li>
   <a href="http://modoboa.org/en/">
@@ -1760,19 +2024,26 @@
   </code>
  </li>
  <li>
-  <a href="http://www.exim.org/">
+  <a href="https://www.exim.org/">
    Exim
   </a>
-  - Message transfer agent (MTA) developed at the University of Cambridge.
+  - Message transfer agent (MTA) developed at the University of Cambridge. (
+  <a href="http://git.exim.org/exim.git">
+   Source Code
+  </a>
+  )
   <code>
-   GPL
+   GPLv3
+  </code>
+  <code>
+   C
   </code>
  </li>
  <li>
   <a href="http://haraka.github.io/">
    Haraka
   </a>
-  - A high-performance, pluginable SMTP server written in JavaScript. (
+  - A high-performance, pluginable SMTP server written in Javascript. (
   <a href="https://github.com/haraka/Haraka">
    Source Code
   </a>
@@ -1812,16 +2083,38 @@
    Scala
   </code>
   <sup>
-   &#9733 489, pushed 273 days ago
+   &#9733 489, pushed 397 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mailhog/MailHog">
+   MailHog
+  </a>
+  - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
+  <sup>
+   &#9733 865, pushed 130 days ago
   </sup>
  </li>
  <li>
   <a href="https://opensmtpd.org/">
    OpenSMTPD
   </a>
-  - Secure SMTP server implementation from the OpenBSD project.
+  - Secure SMTP server implementation from the OpenBSD project. (
+  <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/">
+   Source Code
+  </a>
+  )
   <code>
    ISC
+  </code>
+  <code>
+   C
   </code>
  </li>
  <li>
@@ -1840,9 +2133,16 @@
   <a href="http://www.qmail.org/top.html">
    Qmail
   </a>
-  - Secure Sendmail replacement.
+  - Secure Sendmail replacement. (
+  <a href="https://sources.debian.net/src/netqmail/1.06-5/">
+   Source Code
+  </a>
+  )
   <code>
    CC0
+  </code>
+  <code>
+   C
   </code>
  </li>
  <li>
@@ -1850,6 +2150,12 @@
    Sendmail
   </a>
   - Message transfer agent (MTA).
+  <code>
+   SENDMAIL
+  </code>
+  <code>
+   C
+  </code>
  </li>
  <li>
   <a href="http://slimta.org">
@@ -1861,7 +2167,7 @@
   </a>
   )
   <code>
-   MIT License
+   MIT
   </code>
   <code>
    Python
@@ -1881,7 +2187,17 @@
   <a href="http://cyrusimap.org/">
    Cyrus IMAP/POP3
   </a>
-  - Intended to be run on sealed servers, where normal users are not permitted to log in.
+  - Intended to be run on sealed servers, where normal users are not permitted to log in. (
+  <a href="https://github.com/cyrusimap/cyrus-imapd ">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
+  <code>
+   C
+  </code>
  </li>
  <li>
   <a href="http://www.dovecot.org/">
@@ -1893,7 +2209,7 @@
   </a>
   )
   <code>
-   MIT / LGPLv2
+   MIT/LGPLv2
   </code>
   <code>
    C
@@ -1917,48 +2233,42 @@
  </li>
 </ul>
 <h4>
- Mailing lists
+ Mailing lists and Newsletters
 </h4>
 <p>
  <em>
-  Mailing lists servers.
+  Mailing lists servers and mass mailing software - one message to many recipients.
  </em>
 </p>
 <ul>
+ <li>
+  <a href="http://dadamailproject.com/">
+   Dada Mail
+  </a>
+  - A web-based list management system that can be used for announcement lists and/or discussion lists. (
+  <a href="https://github.com/justingit/dada-mail">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Perl
+  </code>
+ </li>
  <li>
   <a href="https://www.gnu.org/software/mailman/">
    Mailman
   </a>
   - The Gnu mailing list server.
   <code>
+   GPL
+  </code>
+  <code>
    Python
   </code>
-  <code>
-   GPL
-  </code>
  </li>
- <li>
-  <a href="https://www.sympa.org/">
-   Sympa
-  </a>
-  - A mailing list manager.
-  <code>
-   Perl
-  </code>
-  <code>
-   GPL
-  </code>
- </li>
-</ul>
-<h4>
- Newsletter management
-</h4>
-<p>
- <em>
-  Mass mailing software - one message to many recipients
- </em>
-</p>
-<ul>
  <li>
   <a href="https://mailtrain.org/">
    Mailtrain
@@ -1969,10 +2279,10 @@
   </a>
   )
   <code>
-   GPL-V3.0
+   GPLv3
   </code>
   <code>
-   Node.js
+   Nodejs
   </code>
  </li>
  <li>
@@ -2005,6 +2315,18 @@
   </code>
   <code>
    PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://www.sympa.org/">
+   Sympa
+  </a>
+  - A mailing list manager.
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Perl
   </code>
  </li>
 </ul>
@@ -2069,10 +2391,6 @@
    Roundcube
   </a>
   - Browser-based IMAP client with an application-like user interface. (
-  <a href="https://roundcube.net/screens/">
-   Screenshots
-  </a>
-  ) (
   <a href="https://github.com/roundcube/roundcubemail/">
    Source Code
   </a>
@@ -2159,7 +2477,7 @@
   </a>
   )
   <code>
-   JavaScript
+   GPLv2
   </code>
   <code>
    Nodejs
@@ -2182,15 +2500,31 @@
   </code>
  </li>
  <li>
-  <a href="http://shout-irc.com/">
-   Shout
+  <a href="https://robustirc.net/">
+   Robust IRC
+  </a>
+  - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. (
+  <a href="https://github.com/robustirc/robustirc">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
+ <li>
+  <a href="https://thelounge.github.io/">
+   The Lounge
   </a>
   - The self-hosted web IRC client. (
-  <a href="http://demo.shout-irc.com/">
+  <a href="https://avatar.playat.ch:1000/">
    Demo
   </a>
   ,
-  <a href="https://github.com/erming/shout">
+  <a href="https://github.com/thelounge/lounge">
    Source Code
   </a>
   )
@@ -2331,7 +2665,7 @@
   <a href="http://www.freepbx.org">
    Freepbx
   </a>
-  - Web-based open source GUI. (graphical user interface) that controls and manages Asterisk. (
+  - Web-based open source GUI that controls and manages Asterisk. (
   <a href="http://git.freepbx.org/projects/FREEPBX">
    Source Code
   </a>
@@ -2341,6 +2675,22 @@
   </code>
   <code>
    PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://2600hz.org/">
+   Kazoo
+  </a>
+  - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. (
+  <a href="https://github.com/2600hz/KAZOO">
+   Source Code
+  </a>
+  )
+  <code>
+   MPLv1.1
+  </code>
+  <code>
+   Erlang
   </code>
  </li>
  <li>
@@ -2370,13 +2720,13 @@
   </a>
   - Open Source Collaboration and Social Networking framework & platform.
   <code>
-   LGPL
+   LGPLv2
   </code>
   <code>
    Python
   </code>
   <sup>
-   &#9733 2, pushed 7 days ago
+   &#9733 2, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2421,10 +2771,10 @@
   </a>
   )
   <code>
-   Apache 2.0
+   Apache
   </code>
   <code>
-   Java/Javascript
+   Java
   </code>
  </li>
  <li>
@@ -2512,6 +2862,22 @@
   </code>
  </li>
  <li>
+  <a href="https://flaskbb.org/">
+   flaskbb
+  </a>
+  - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. (
+  <a href="https://github.com/sh4nks/flaskbb">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
   <a href="http://fluxbb.org/">
    FluxBB
   </a>
@@ -2539,10 +2905,13 @@
   <code>
    AGPLv3
   </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://gnu.io/social/">
-   Gnu Social
+   GNU social
   </a>
   - Social communication software for both public and private communications. (
   <a href="https://git.gnu.io/gnu/gnu-social">
@@ -2568,7 +2937,7 @@
    PHP
   </code>
   <sup>
-   &#9733 183, pushed 2 days ago
+   &#9733 183, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2591,7 +2960,7 @@
   <a href="http://posativ.org/isso/">
    Isso
   </a>
-  - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus. (
+  - A lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. (
   <a href="https://github.com/posativ/isso">
    Source Code
   </a>
@@ -2614,6 +2983,9 @@
   )
   <code>
    AGPLv3
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -2716,10 +3088,11 @@
   <a href="http://www.oxwall.org/">
    Oxwall
   </a>
-  Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. (
+  - Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions. (
   <a href="https://bitbucket.org/oxwall/public">
    Source Code
   </a>
+  )
   <code>
    CPALv1
   </code>
@@ -2747,15 +3120,15 @@
   <a href="https://github.com/pixelpark/ppnet">
    PPnet
   </a>
-  Create and host your own social network.
+  - Create and host your own social network.
   <code>
    MIT
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
   <sup>
-   &#9733 94, pushed 18 days ago
+   &#9733 94, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2771,7 +3144,7 @@
    Apache
   </code>
   <code>
-   JavaScript, NodeJS
+   Nodejs
   </code>
  </li>
  <li>
@@ -2806,7 +3179,7 @@
    PHP
   </code>
   <sup>
-   &#9733 46, pushed 32 days ago
+   &#9733 46, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2871,6 +3244,22 @@
   </code>
   <code>
    Erlang
+  </code>
+ </li>
+ <li>
+  <a href="http://kontalk.org/">
+   Kontalk
+  </a>
+  - Kontalk is an Open Source Messenger, similar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server. (
+  <a href="https://github.com/kontalk">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Java
   </code>
  </li>
  <li>
@@ -2943,6 +3332,9 @@
   </a>
   - XMPP server implementation in Java.
   <code>
+   GPLv3
+  </code>
+  <code>
    Java
   </code>
  </li>
@@ -2964,7 +3356,7 @@
    MIT
   </code>
   <code>
-   JavaScript
+   Javascript
   </code>
  </li>
  <li>
@@ -2996,20 +3388,7 @@
    MIT
   </code>
   <code>
-   Javascript, NodeJS
-  </code>
- </li>
- <li>
-  <a href="http://kontalk.org/">
-   Kontalk
-  </a>
-  – Kontalk is an Open Source Messenger, similar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server. (
-  <a href="https://github.com/kontalk">
-   Source Code
-  </a>
-  )
-  <code>
-   GPLv3
+   NodeJS
   </code>
  </li>
  <li>
@@ -3062,16 +3441,6 @@
 </p>
 <ul>
  <li>
-  <a href="http://www.99ko.org/">
-   99ko CMS
-  </a>
-  - 99ko allows you to create a website in minutes without knowledge of Web development. It does not use a database server but relies on simple text files (JSON format) to store your data. (
-  <a href="https://github.com/99ko-project/99ko-cms">
-   Source Code
-  </a>
-  )
- </li>
- <li>
   <a href="http://apostrophenow.org/">
    Apostrophe 2
   </a>
@@ -3088,7 +3457,7 @@
    MIT
   </code>
   <code>
-   NodeJS
+   Nodejs
   </code>
  </li>
  <li>
@@ -3117,23 +3486,7 @@
   </a>
   )
   <code>
-   LGPL
-  </code>
-  <code>
-   PHP
-  </code>
- </li>
- <li>
-  <a href="https://bolt.cm/">
-   Bolt
-  </a>
-  - Sophisticated, lightweight & simple CMS. (
-  <a href="https://github.com/bolt/bolt">
-   Source Code
-  </a>
-  )
-  <code>
-   MIT
+   LGPLv2
   </code>
   <code>
    PHP
@@ -3172,6 +3525,38 @@
   </code>
  </li>
  <li>
+  <a href="http://www.couchcms.com/">
+   CouchCMS
+  </a>
+  - Simple Open-Source CMS for designers. (
+  <a href="https://github.com/CouchCMS/CouchCMS">
+   Source Code
+  </a>
+  )
+  <code>
+   CPALv1
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://getdirectus.com/">
+   Directus
+  </a>
+  - Directus is a powerful and intuitive headless CMS for managing SQL databases with custom architectures. Built around a robust and extensible API, this decoupled content management framework is perfect for websites, apps, or multi-client projects. (
+  <a href="https://github.com/directus/directus">
+   Source Code
+  </a>
+  )
+  <code>
+   GPL
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://www.drupal.org/">
    Drupal
   </a>
@@ -3192,12 +3577,12 @@
    eLabFTW
   </a>
   - An online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…. (
-  <a href="https://github.com/elabftw/elabftw">
-   Source Code
-  </a>
-  ,
   <a href="https://demo.elabftw.net">
    Demo
+  </a>
+  ,
+  <a href="https://github.com/elabftw/elabftw">
+   Source Code
   </a>
   )
   <code>
@@ -3208,43 +3593,19 @@
   </code>
  </li>
  <li>
-  <a href="https://github.com/WhatCD/Gazelle">
-   Gazelle
+  <a href="http://get-simple.info/">
+   GetSimple CMS
   </a>
-  - Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs.
-  <code>
-   unlicensed
-  </code>
-  <code>
-   PHP
-  </code>
-  <sup>
-   &#9733 1026, pushed 19 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://getgrav.org/">
-   Grav
-  </a>
-  - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS. (
-  <a href="https://github.com/getgrav/grav">
+  - The Simplest Content Management System. Ever. (
+  <a href="https://github.com/GetSimpleCMS/GetSimpleCMS">
    Source Code
   </a>
   )
   <code>
-   MIT
+   GPLv3
   </code>
   <code>
    PHP
-  </code>
- </li>
- <li>
-  <a href="http://get-simple.info/">
-   GetSimple CMS
-  </a>
-  - The Simplest Content Management System. Ever.
-  <code>
-   GPLv3
   </code>
  </li>
  <li>
@@ -3261,11 +3622,7 @@
   </a>
   )
   <code>
-   GPLv3
-  </code>
-  /
-  <code>
-   MIT
+   GPLv3/MIT
   </code>
   <code>
    PHP
@@ -3304,7 +3661,7 @@
    MIT
   </code>
   <code>
-   NodeJS
+   Nodejs
   </code>
  </li>
  <li>
@@ -3350,6 +3707,26 @@
   )
   <code>
    MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://omeka.org">
+   Omeka
+  </a>
+  - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. (
+  <a href="http://omeka.org/showcase/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/omeka/Omeka">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
   </code>
   <code>
    PHP
@@ -3460,6 +3837,22 @@
   </code>
  </li>
  <li>
+  <a href="https://www.roadiz.io/">
+   Roadiz
+  </a>
+  -  Modern CMS based on a node system which can handle many types of services. (
+  <a href="https://github.com/roadiz/roadiz/">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://www.silverstripe.org">
    SilverStripe
   </a>
@@ -3512,6 +3905,26 @@
   </code>
  </li>
  <li>
+  <a href="http://www.subrion.org">
+   Subrion
+  </a>
+  - Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal. (
+  <a href="http://demos.subrion.com">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/intelliants/subrion">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="http://textpattern.com/">
    Textpattern
   </a>
@@ -3548,8 +3961,24 @@
   </code>
  </li>
  <li>
+  <a href="https://umbraco.com/">
+   Umbraco
+  </a>
+  - The friendly CMS. Free and open source with an amazing community. (
+  <a href="https://github.com/umbraco/Umbraco-CMS">
+   Source code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   .NET
+  </code>
+ </li>
+ <li>
   <a href="https://wordpress.org/">
-   Wordpress
+   WordPress
   </a>
   - The worlds most-used blogging and CMS engine. (
   <a href="https://github.com/WordPress/WordPress">
@@ -3558,6 +3987,9 @@
   )
   <code>
    GPLv2
+  </code>
+  <code>
+   PHP
   </code>
  </li>
 </ul>
@@ -3580,7 +4012,7 @@
    BSD
   </code>
   <code>
-   Python/Django
+   Python
   </code>
  </li>
 </ul>
@@ -3603,6 +4035,42 @@
   )
   <code>
    AAL
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://www.coreshop.org">
+   CoreShop
+  </a>
+  - CoreShop is a e-commerce plugin for Pimcore. (
+  <a href="https://github.com/coreshop/CoreShop">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://magento.com/">
+   Magento
+  </a>
+  - Leading provider of open omnichannel innovation. (
+  <a href="https://magento.com/schedule-a-demo">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/magento/magento2">
+   Source Code
+  </a>
+  )
+  <code>
+   OSLv3
   </code>
   <code>
    PHP
@@ -3677,6 +4145,26 @@
   </code>
  </li>
  <li>
+  <a href="http://oxidforge.org">
+   OXID eShop
+  </a>
+  - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. (
+  <a href="http://demoshop.oxid-esales.com/community-edition/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/OXID-eSales/oxideshop_ce">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://www.prestashop.com/">
    PrestaShop
   </a>
@@ -3690,7 +4178,7 @@
   </a>
   )
   <code>
-   OSL 3.0
+   OSLv3
   </code>
   <code>
    PHP
@@ -3721,6 +4209,46 @@
   </code>
  </li>
  <li>
+  <a href="http://sylius.org/">
+   Sylius
+  </a>
+  - Symfony2 powered open source full-stack platform for eCommerce. (
+  <a href="http://sylius.org/demo">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/Sylius/Sylius">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://thelia.net/">
+   Thelia
+  </a>
+  - Thelia is an open source and flexible e-commerce solution. (
+  <a href="http://demo.thelia.net/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/thelia/thelia">
+   Source Code
+  </a>
+  )
+  <code>
+   LGPL
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://www.woothemes.com/woocommerce/">
    WooCommerce
   </a>
@@ -3737,6 +4265,12 @@
   </code>
  </li>
 </ul>
+<h2>
+ DNS
+</h2>
+<p>
+ See https://github.com/n1trux/awesome-sysadmin#dns
+</p>
 <h2>
  Document Archiving
 </h2>
@@ -3769,7 +4303,7 @@
    Python
   </code>
   <sup>
-   &#9733 2757, pushed 3 days ago
+   &#9733 2757, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3850,127 +4384,20 @@
    GPLv3
   </code>
   <code>
-   Python/Javascript
+   Python
   </code>
  </li>
 </ul>
 <h2>
  Federated Identity/Authentication
 </h2>
-<ul>
- <li>
-  <a href="http://freeradius.org/">
-   FreeRADIUS
-  </a>
-  - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS. (
-  <a href="https://github.com/FreeRADIUS/freeradius-server">
-   Source Code
-  </a>
-  )
-  <code>
-   GPLv2
-  </code>
-  <code>
-   C
-  </code>
-  <ul>
-   <li>
-    <a href="http://www.daloradius.com">
-     daloRADIUS
-    </a>
-    - Open-source web management platform for FreeRADIUS-based deployments. (
-    <a href="https://github.com/lirantal/daloradius">
-     Source Code
-    </a>
-    )
-    <code>
-     GPLv2
-    </code>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="https://indieauth.com">
-   IndieAuth
-  </a>
-  - Sign in with your domain name (using the
-  <a href="http://microformats.org/wiki/relmeauth">
-   rel-me-auth
-  </a>
-  protocol).
-  <code>
-   Apache
-  </code>
-  <code>
-   Ruby
-  </code>
- </li>
- <li>
-  <a href="https://www.libravatar.org/">
-   Libravatar
-  </a>
-  - Libravatar is a service which delivers your avatar (profile picture) to other websites. (
-  <a href="https://www.libravatar.org/account/new/">
-   Demo
-  </a>
-  ,
-  <a href="https://github.com/libravatar/libravatar">
-   Source Code
-  </a>
-  )
-  <code>
-   AGPLv3
-  </code>
-  <code>
-   Python
-  </code>
- </li>
- <li>
-  <a href="https://pki.openca.org/projects/ocspd/">
-   OpenCA OCSPD
-  </a>
-  - An
-  <a href="https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol">
-   OCSP
-  </a>
-  Responder.
- </li>
- <li>
-  <a href="http://openid.net/developers/libraries/">
-   OpenID/OpenID Connect
-  </a>
-  - A Simple Identity layer on top of OAuth 2.0.
- </li>
- <li>
-  <a href="https://www.osiam.org">
-   OSIAM
-  </a>
-  - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. (
-  <a href="https://github.com/osiam/osiam">
-   Source Code
-  </a>
-  )
-  <code>
-   MIT
-  </code>
-  <code>
-   Java
-  </code>
- </li>
-</ul>
+<p>
+ See https://github.com/n1trux/awesome-sysadmin#identity-management
+</p>
 <h2>
  Feed Readers
 </h2>
 <ul>
- <li>
-  <a href="https://github.com/Cacodaimon/CacoCloud">
-   Cacocloud
-  </a>
-  - A simple, fast and secure PHP/AngularJS based feed and mail reader, password and bookmark manager.
-  <sup>
-   &#9733 84, pushed 391 days ago
-  </sup>
- </li>
  <li>
   <a href="https://www.commafeed.com/">
    CommaFeed
@@ -3980,15 +4407,28 @@
    Source Code
   </a>
   )
+  <code>
+   Apache
+  </code>
+  <code>
+   Java
+  </code>
  </li>
  <li>
-  <a href="https://github.com/piero-la-lune/Creaky-Coot">
+  <a href="http://bugs.derivoile.fr/Creaky-Coot/dashboard">
    Creaky Coot
   </a>
-  - Minimalist and responsive RSS reader and links saver
-  <sup>
-   &#9733 7, pushed 685 days ago
-  </sup>
+  - Minimalist and responsive RSS reader and links saver. (
+  <a href="https://github.com/piero-la-lune/Creaky-Coot">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://feedbin.com/">
@@ -3999,6 +4439,12 @@
    Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   Ruby
+  </code>
  </li>
  <li>
   <a href="https://feedhq.org/">
@@ -4009,6 +4455,12 @@
    Source Code
   </a>
   )
+  <code>
+   BSD
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://freshrss.org/">
@@ -4030,6 +4482,29 @@
   <code>
    AGPLv3
   </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://1pxsolidblack.pl/jarr-en.html">
+   JARR
+  </a>
+  - JARR (Just Another RSS Reader) is a web-based news aggregator and reader. (
+  <a href="https://jarr.info/login?next=%2F">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/jaesivsm/JARR">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://tontof.net/kriss/feed/">
@@ -4044,6 +4519,9 @@
    Source Code
   </a>
   )
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://leed.idleman.fr">
@@ -4054,14 +4532,26 @@
    Source Code
   </a>
   )
+  <code>
+   CCBYNCSAv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://github.com/socketubs/leselys">
    Leselys
   </a>
-  - Your very elegant RSS reader
+  - Your very elegant RSS reader.
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Python
+  </code>
   <sup>
-   &#9733 207, pushed 89 days ago
+   &#9733 207, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -4073,6 +4563,12 @@
    Source Code
   </a>
   )
+  <code>
+   BSD
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://moonmoon.org/">
@@ -4099,15 +4595,28 @@
    Source Code
   </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
-  <a href="https://github.com/samuelclay/NewsBlur">
+  <a href="http://www.newsblur.com/">
    NewsBlur
   </a>
-  - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument
-  <sup>
-   &#9733 4232, pushed 11 days ago
-  </sup>
+  - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. (
+  <a href="https://github.com/samuelclay/NewsBlur">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://reader.nunux.org/">
@@ -4129,42 +4638,33 @@
   <a href="http://readerself.com/">
    Reader-Self
   </a>
-  Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative. (
+  - Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative. (
   <a href="https://github.com/readerself/readerself">
    Source Code
   </a>
   )
- </li>
- <li>
-  <a href="https://github.com/pabloprieto/Readr">
-   Readr
-  </a>
-  - A clean & simple, self-hosted RSS reader
-  <sup>
-   &#9733 28, pushed 905 days ago
-  </sup>
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://www.allthingsrss.com/rss2email/">
    RSS2EMail
   </a>
-  - Fetches RSS/Atom-feeds and pushes new Content to any email-reciever, supports OPML
+  - Fetches RSS/Atom-feeds and pushes new Content to any email-reciever, supports OPML. (
+  <a href="https://github.com/wking/rss2email">
+   Source Code
+  </a>
+  )
   <code>
-   GPL
+   GPLv2
   </code>
   <code>
    Python
   </code>
- </li>
- <li>
-  <a href="http://www.rssminer.net/">
-   RSSminer
-  </a>
-  -An online rss reader written in clojure & javascript & java. (
-  <a href="https://github.com/shenfeng/rssminer">
-   Source Code
-  </a>
-  )
  </li>
  <li>
   <a href="https://github.com/pietheinstrengholt/rssmonster">
@@ -4178,7 +4678,7 @@
    PHP
   </code>
   <sup>
-   &#9733 111, pushed 4 days ago
+   &#9733 111, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4193,7 +4693,7 @@
    PHP
   </code>
   <sup>
-   &#9733 60, pushed 68 days ago
+   &#9733 60, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -4224,7 +4724,7 @@
    Ruby
   </code>
   <sup>
-   &#9733 2497, pushed 15 days ago
+   &#9733 2497, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4233,7 +4733,7 @@
   </a>
   - Open source web-based news feed (RSS/Atom) reader and aggregator. (
   <a href="http://framanews.org/">
-   Public instance
+   Demo
   </a>
   )
   <code>
@@ -4271,8 +4771,20 @@
      Nodejs
     </code>
     <sup>
-     &#9733 172, pushed 96 days ago
+     &#9733 172, pushed 221 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kucrut/ttrss-reader">
+     ttrss-reader
+    </a>
+    - Light and responsive client for TTRSS.
+    <code>
+     GPLv2
+    </code>
+    <code>
+     Javascript
+    </code>
    </li>
   </ul>
  </li>
@@ -4295,7 +4807,7 @@
   <a href="https://camlistore.org/">
    Camlistore
   </a>
-  - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem. (
+  - Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files, objects, tweets, or 5TB videos. (
   <a href="https://github.com/camlistore/camlistore">
    Source Code
   </a>
@@ -4308,6 +4820,22 @@
   </code>
  </li>
  <li>
+  <a href="https://www.gluster.org">
+   GlusterFS
+  </a>
+  - GlusterFS is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks. (
+  <a href="https://github.com/gluster/glusterfs">
+   Source Code
+  </a>
+  )
+  <code>
+   LGPLv3/GPLv2
+  </code>
+  <code>
+   C
+  </code>
+ </li>
+ <li>
   <a href="https://github.com/ipfs/go-ipfs">
    Go IPFS
   </a>
@@ -4315,9 +4843,15 @@
   <a href="http://ipfs.io/">
    IPFS
   </a>
-  , a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.
+  , a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
   <sup>
-   &#9733 1831, pushed 3 days ago
+   &#9733 1831, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4340,13 +4874,33 @@
   <a href="http://docs.openstack.org/developer/swift/">
    Swift
   </a>
-  - A highly available, distributed, eventually consistent object/blob store.
+  - A highly available, distributed, eventually consistent object/blob store. (
+  <a href="https://github.com/openstack/swift">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="https://www.tahoe-lafs.org/trac/tahoe-lafs">
    Tahoe-LAFS
   </a>
-  - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
+  - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. If some of the servers fail or are taken over, the entire file store continues to function correctly, preserving privacy and security. (
+  <a href="https://github.com/tahoe-lafs/tahoe-lafs">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Python
+  </code>
  </li>
 </ul>
 <h4>
@@ -4354,10 +4908,20 @@
 </h4>
 <ul>
  <li>
-  <a href="http://git-annex.branchable.com/assistant/quickstart/">
+  <a href="http://git-annex.branchable.com">
    Git Annex
   </a>
-  - File synchronization between computers, servers, external drives
+  - File synchronization between computers, servers, external drives. (
+  <a href="https://github.com/joeyh/git-annex">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Haskell
+  </code>
  </li>
  <li>
   <a href="https://kinto.readthedocs.org">
@@ -4369,10 +4933,26 @@
   </a>
   )
   <code>
-   Apache 2.0
+   Apache
   </code>
   <code>
    Python
+  </code>
+ </li>
+ <li>
+  <a href="https://nextcloud.com/">
+   Nextcloud
+  </a>
+  - Access & share your files, calendars, contacts, mail & more from any device, on your terms. (
+  <a href="https://github.com/nextcloud/server">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -4389,6 +4969,38 @@
   </code>
   <code>
    C
+  </code>
+ </li>
+ <li>
+  <a href="https://owncloud.org/">
+   ownCloud
+  </a>
+  - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. (
+  <a href="https://github.com/owncloud/core">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://pydio.com/">
+   Pydio
+  </a>
+  - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers. (
+  <a href="https://github.com/pydio/pydio-core">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -4415,22 +5027,39 @@
   <a href="https://seacloud.cc/demo">
    Demo
   </a>
+  ,
+  <a href="https://github.com/haiwen/seafile">
+   Source Code
+  </a>
   )
   <code>
    GPLv2
+  </code>
+  <code>
+   C
   </code>
  </li>
  <li>
   <a href="http://sparkleshare.org/">
    SparkleShare
   </a>
-  - Self hosted, instant, secure file sync
+  - Self hosted, instant, secure file sync. (
+  <a href="https://github.com/hbons/SparkleShare">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   C#
+  </code>
  </li>
  <li>
   <a href="https://www.syncany.org/">
    Syncany
   </a>
-  - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!
+  - Secure file sync software for arbitrary storage backends - An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage.
   <code>
    GPLv3
   </code>
@@ -4455,32 +5084,36 @@
   </code>
  </li>
  <li>
-  <a href="https://z-push.org/">
+  <a href="https://www.cis.upenn.edu/~bcpierce/unison/">
+   Unison
+  </a>
+  - Unison is a file-synchronization tool for OSX, Unix, and Windows.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   OCaml
+  </code>
+ </li>
+ <li>
+  <a href="http://z-push.org/">
    Z-Push
   </a>
   - An implementation of Microsoft’s
   <a href="https://en.wikipedia.org/wiki/ActiveSync">
    ActiveSync
   </a>
-  protocol
- </li>
- <li>
-  <a href="https://owncloud.org/">
-   ownCloud
+  protocol. (
+  <a href="https://stash.z-hub.io/projects/ZP/repos/z-push">
+   Source Code
   </a>
-  - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more -
+  )
   <code>
    AGPLv3
   </code>
   <code>
    PHP
   </code>
- </li>
- <li>
-  <a href="https://pydio.com/">
-   Pydio
-  </a>
-  - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
  </li>
 </ul>
 <h4>
@@ -4511,6 +5144,7 @@
   <a href="https://github.com/elima/FileTea">
    Source Code
   </a>
+  )
   <code>
    AGPLv3
   </code>
@@ -4534,7 +5168,7 @@
    Nodejs
   </code>
   <sup>
-   &#9733 926, pushed 4 days ago
+   &#9733 926, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4545,8 +5179,9 @@
   <a href="http://erdgeist.org/gitweb/opentracker/">
    Source Code
   </a>
+  )
   <code>
-   Public domain
+   Beerware
   </code>
   <code>
    C
@@ -4562,13 +5197,13 @@
   </a>
   )
   <code>
-   Apache 2.0
+   Apache
   </code>
   <code>
    Nodejs
   </code>
   <sup>
-   &#9733 1345, pushed 76 days ago
+   &#9733 1345, pushed 201 days ago
   </sup>
  </li>
 </ul>
@@ -4588,23 +5223,40 @@
    PHP
   </code>
   <sup>
-   &#9733 128, pushed 9 days ago
+   &#9733 128, pushed 134 days ago
   </sup>
  </li>
  <li>
   <a href="https://coquelicot.potager.org/">
    Coquelicot
   </a>
-  - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. -
+  - Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy. (
+  <a href="https://coquelicot.potager.org/gitweb/?p=coquelicot.git">
+   Source Code
+  </a>
+  )
   <code>
    AGPLv3
+  </code>
+  <code>
+   Ruby
   </code>
  </li>
  <li>
   <a href="http://projet.idleman.fr/dropcenter/">
    Dropcenter
   </a>
-  - Upload files by simple drag-n-drop.
+  - Upload files by simple drag-n-drop. (
+  <a href="https://github.com/ldleman/dropcenter">
+   Source Code
+  </a>
+  )
+  <code>
+   CCBYNCSAv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://github.com/silverwind/droppy">
@@ -4622,7 +5274,7 @@
    Nodejs
   </code>
   <sup>
-   &#9733 139, pushed 2 days ago
+   &#9733 139, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4637,7 +5289,7 @@
    Nodejs
   </code>
   <sup>
-   &#9733 173, pushed 110 days ago
+   &#9733 173, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -4650,14 +5302,14 @@
   </a>
   )
   <code>
-   AGPL
+   AGPLv3
   </code>
   <code>
    PHP
   </code>
  </li>
  <li>
-  <a href="https://gitlab.com/mojo42/Jirafeau/wikis/home">
+  <a href="https://gitlab.com/mojo42/Jirafeau">
    Jirafeau
   </a>
   - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (
@@ -4665,12 +5317,28 @@
    Demo
   </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://home.gna.org/jyraphe/">
    Jyraphe
   </a>
-  - Jyraphe is a web application of file repository, easy to install and easy to use.
+  - Jyraphe is a web application of file repository, easy to install and easy to use. (
+  <a href="http://svn.gna.org/viewcvs/jyraphe/">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://github.com/andreimarcu/linx-server">
@@ -4688,7 +5356,7 @@
    Go
   </code>
   <sup>
-   &#9733 149, pushed 78 days ago
+   &#9733 149, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -4715,26 +5383,50 @@
   <a href="https://github.com/ldidry/lutim">
    lutim
   </a>
-  - Let's Upload That Image !
+  - Let's Upload That Image.
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Perl
+  </code>
   <sup>
-   &#9733 122, pushed 33 days ago
+   &#9733 122, pushed 158 days ago
   </sup>
  </li>
  <li>
-  <a href="https://mediacru.sh/">
+  <a href="https://github.com/MediaCrush/MediaCrush">
    Mediacrush
   </a>
-  - A website you can upload images, audio, and video to, and receive a link to share it with your friends. (
-  <a href="https://github.com/MediaCrush/MediaCrush">
+  - A website you can upload images, audio, and video to, and receive a link to share it with your friends.
+  <code>
+   MIT
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="https://minio.io/">
+   Minio
+  </a>
+  - Store photos, videos, VMs, containers, log files, or any blob of data as objects. (
+  <a href="https://github.com/minio/minio">
    Source Code
   </a>
   )
+  <code>
+   Apache
+  </code>
+  <code>
+   Go
+  </code>
  </li>
  <li>
   <a href="https://github.com/ethanal/nimbus">
    Nimbus
   </a>
-  - A drag-and-drop shortlink file sharer for OS X -
+  - A drag-and-drop shortlink file sharer for OS X.
   <code>
    MIT
   </code>
@@ -4742,14 +5434,20 @@
    Python
   </code>
   <sup>
-   &#9733 55, pushed 78 days ago
+   &#9733 55, pushed 202 days ago
   </sup>
  </li>
  <li>
-  <a href="https://onionshare.org/">
+  <a href="https://github.com/micahflee/onionshare">
    OnionShare
   </a>
   - Securely and anonymously share a file of any size.
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="https://www.pictshare.net/">
@@ -4768,11 +5466,11 @@
    Apache
   </code>
   <code>
-   PHP/JavaScript
+   PHP
   </code>
  </li>
  <li>
-  <a href="https://github.com/nokonoko/Pomf">
+  <a href="https://github.com/Pomf/Pomf">
    Pomf
   </a>
   - Simple file uploading and sharing, source for the now shut down site Pomf.se.
@@ -4780,11 +5478,8 @@
    MIT
   </code>
   <code>
-   PHP/Nodejs
+   PHP
   </code>
-  <sup>
-   &#9733 402, pushed 35 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.projectsend.org/">
@@ -4797,6 +5492,42 @@
   )
   <code>
    GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://transfer.sh">
+   transfer.sh
+  </a>
+  - Easy file sharing from the command line. (
+  <a href="https://transfer.sh">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/dutchcoders/transfer.sh">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
+ <li>
+  <a href="https://uguu.se/">
+   Uguu
+  </a>
+  - Stores files and deletes after X amount of time. (
+  <a href="https://github.com/nokonoko/uguu">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
   </code>
   <code>
    PHP
@@ -4818,7 +5549,7 @@
    Nodejs
   </code>
   <sup>
-   &#9733 384, pushed 14 days ago
+   &#9733 384, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -4871,17 +5602,95 @@
    Source Code
   </a>
   <code>
-   Public domain
+   Unlicense
   </code>
   <code>
-   CSS
+   HTML
   </code>
  </li>
  <li>
-  <a href="http://extplorer.sourceforge.net/">
+  <a href="http://www.directorylister.com/">
+   DirectoryLister
+  </a>
+  - A simple PHP based directory lister that lists a directory and all it's sub-directories and allows you to navigate there within. (
+  <a href="https://github.com/DirectoryLister/DirectoryLister">
+   Source code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://encode-explorer.siineiolekala.net/">
+   Encode Explorer
+  </a>
+  - Encode Explorer is a single page file browser, it is simple and functional. (
+  <a href="http://encode-explorer.siineiolekala.net/explorer/index.php">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/marekrei/encode-explorer">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/soyuka/explorer">
+   explorer
+  </a>
+  - Highly-configurable directory listing made with nodejs. (
+  <a href="https://github.com/soyuka/explorer">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="https://extplorer.net/">
    eXtplorer
   </a>
-  - A PHP and JavaScript based File Manager
+  - A PHP and Javascript based File Manager. (
+  <a href="https://extplorer.net/projects/extplorer/repository">
+   Source Code
+  </a>
+  )
+  <code>
+   MPLv1.1/GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/xataz/gobrowser">
+   goBrowser
+  </a>
+  Simple http file browser. (
+  <a href="https://github.com/xataz/gobrowser">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Go
+  </code>
  </li>
  <li>
   <a href="https://larsjung.de/h5ai/">
@@ -4900,7 +5709,47 @@
    MIT
   </code>
   <code>
-   PHP/Javascript
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://www.monstaftp.com/">
+   Monsta FTP
+  </a>
+  - Open source PHP/Ajax cloudware that puts FTP file management right in your browser, anywhere, any time. (
+  <a href="http://mftp.live/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/MonstaApps/Monsta-FTP">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://www.resourcespace.org">
+   ResourceSpace
+  </a>
+  - ResourceSpace open source digital asset management software is the simple, fast, & free way to organise your digital assets. (
+  <a href="http://www.resourcespace.org/trial">
+   Demo
+  </a>
+  ,
+  <a href="http://www.resourcespace.org/svn">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD/Other
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -4929,37 +5778,127 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/jatekos101/20euros">
-   20euros
+  <a href="https://github.com/Q42/0hh1">
+   0hh1
   </a>
-  - Clone of 2048 game with euros. - Unlicensed
+  - A lovely little logic game by Q42. (
+  <a href="http://0hh1.com/">
+   Demo
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   HTML5
+  </code>
   <sup>
-   &#9733 8, pushed 264 days ago
+   &#9733 469, pushed 177 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/doublespeakgames/adarkroom">
+   A Dark Room
+  </a>
+  - A minimalist text adventure game for your browser. (
+  <a href="http://adarkroom.doublespeakgames.com/">
+   Demo
+  </a>
+  )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   HTML5
+  </code>
  </li>
  <li>
   <a href="https://github.com/huytd/agar.io-clone">
    Agar.IO Clone
   </a>
-  - Agar.io clone written with Socket.IO and HTML5 canvas -
+  - Agar.io clone written with Socket.IO and HTML5 canvas.
   <code>
    MIT
   </code>
+  <code>
+   Nodejs
+  </code>
   <sup>
-   &#9733 1248, pushed 65 days ago
+   &#9733 1248, pushed 189 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ellisonleao/clumsy-bird">
+   Clumsy Bird
+  </a>
+  - A MelonJS port of the famous Flappy Bird Game. (
+  <a href="http://www.ellison.rocks/clumsy-bird/">
+   Demo
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
+  <sup>
+   &#9733 956, pushed 202 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Kshitij-Banerjee/Cubiks-2048">
    Cubiks-2048
   </a>
-  - Clone of 2048 game in 3D. -
+  - Clone of 2048 game in 3D. (
+  <a href="https://kshitij-banerjee.github.io/Cubiks-2048/">
+   Demo
+  </a>
+  )
   <code>
-   CCANC 4.0
+   CCBYNCv4
+  </code>
+  <code>
+   HTML5
   </code>
   <sup>
-   &#9733 15, pushed 276 days ago
+   &#9733 15, pushed 401 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Hextris/hextris">
+   Hextris
+  </a>
+  - Fast paced HTML5 puzzle game inspired by Tetris. (
+  <a href="http://hextris.io/">
+   Demo
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   HTML5
+  </code>
+  <sup>
+   &#9733 972, pushed 235 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/abrenaut/posio/">
+   Posio
+  </a>
+  - A geography multiplayer game. (
+  <a href="https://posio.abrenaut.com/">
+   Demo
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://tournamentmango.com/">
@@ -4983,12 +5922,19 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/liftoff/GateOne/">
+  <a href="http://liftoffsoftware.com/Products/GateOne">
    GateOne
   </a>
-  - Gate One is an HTML5 web-based terminal emulator and SSH client. -
+  - Gate One is an HTML5 web-based terminal emulator and SSH client. (
+  <a href="https://github.com/liftoff/GateOne/">
+   Source Code
+  </a>
+  )
   <code>
    AGPLv3
+  </code>
+  <code>
+   Python
   </code>
  </li>
  <li>
@@ -5001,7 +5947,7 @@
   </a>
   )
   <code>
-   MIT
+   Apache
   </code>
   <code>
    Java/C
@@ -5048,30 +5994,73 @@
   <a href="http://www.egroupware.org/">
    egroupware
   </a>
-  - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
+  - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. (
+  <a href="https://github.com/EGroupware/egroupware">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://www.horde.org/">
    Horde
   </a>
-  - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. -
+  - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. (
+  <a href="http://demo.horde.org/login.php">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/horde/horde">
+   Source Code
+  </a>
+  )
   <code>
-   GPL
+   GPLv2
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
   <a href="https://kolab.org/">
    Kolab
   </a>
-  - Kolab community is a unified communication and collaboration system -
-  <code>
-   Various FLOSS Licenses
-  </code>
-  (
+  - Kolab community is a unified communication and collaboration system. (
   <a href="https://git.kolab.org/">
    Source Code
   </a>
   )
+  <code>
+   Multiple
+  </code>
+  <code>
+   C++/Python/PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://kopano.com/">
+   Kopano
+  </a>
+  - Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync. (
+  <a href="http://demo.kopano.com">
+   Demo
+  </a>
+  ,
+  <a href="https://stash.kopano.io">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   C/Python/PHP
+  </code>
  </li>
  <li>
   <a href="http://www.mayan-edms.com">
@@ -5090,20 +6079,20 @@
    Apache
   </code>
   <code>
-   Python/Django
+   Python
   </code>
  </li>
  <li>
   <a href="https://openmeetings.apache.org/index.html">
    Openmeetings
   </a>
-  . (
-  <a href="https://svn.apache.org/viewvc/openmeetings/trunk/singlewebapp/">
+  - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. (
+  <a href="https://openmeetings.apache.org/source-repository.html">
    Source Code
   </a>
-  ) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.
+  )
   <code>
-   Apache 2.0
+   Apache
   </code>
   <code>
    Java
@@ -5114,11 +6103,11 @@
    Sogo
   </a>
   - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and web interface. (
-  <a href="http://www.sogo.nu/tour/online_demo.html">
+  <a href="http://demo.sogo.nu/SOGo/">
    Demo
   </a>
   ,
-  <a href="http://www.sogo.nu/development/source_code.html">
+  <a href="https://github.com/inverse-inc/sogo">
    Source Code
   </a>
   )
@@ -5131,23 +6120,30 @@
  </li>
  <li>
   <a href="https://www.tine20.org">
-   Tine 2.0org
+   Tine 2.0
   </a>
   - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker. (
   <a href="https://demo.tine20.net">
    Demo
   </a>
+  ,
+  <a href="https://packages.tine20.com/maintenance/source/">
+   Source Code
+  </a>
   )
   <code>
-   AGPLv3
+   AGPLv3/Other
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
   <a href="https://www.zimbra.com/downloads/">
    Zimbra Collaboration
   </a>
-  - Email, calendar, collaboration server with web interface and lots of integrations.  (
-  <a href="https://www.zimbra.com/open-source-email-overview/">
+  - Email, calendar, collaboration server with web interface and lots of integrations. (
+  <a href="https://git.zimbra.com/repos/zimbra-foss/">
    Source Code
   </a>
   )
@@ -5285,6 +6281,22 @@
    Java
   </code>
  </li>
+ <li>
+  <a href="http://schooltool.org/">
+   SchoolTool
+  </a>
+  - SchoolTool is free administrative software for schools. It includes demographics, gradebook, attendance, calendaring, reporting and more for primary and secondary schools. (
+  <a href="http://bazaar.launchpad.net/~schooltool-owners/schooltool/2.8/files">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
 </ul>
 <h2>
  Maps & GPS
@@ -5299,12 +6311,18 @@
    Source Code
   </a>
   )
+  <code>
+   Apache
+  </code>
+  <code>
+   Java
+  </code>
  </li>
  <li>
   <a href="https://github.com/MapBBCode/share.mapbbcode.org">
    MapBBCodeShare
   </a>
-  - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks... (
+  - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. (
   <a href="http://share.mapbbcode.org/">
    Demo
   </a>
@@ -5313,11 +6331,31 @@
    WTFPL/Other
   </code>
   <code>
-   PHP/Javascript
+   PHP
   </code>
   <sup>
-   &#9733 23, pushed 138 days ago
+   &#9733 23, pushed 263 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.opengts.org/">
+   OpenGTS
+  </a>
+  - Entry-level fleet tracking system. Supports variety of tracking devices and protocols. Comes with rich web-interface and reporting features. (
+  <a href="http://track.opengts.org/track/Track">
+   Demo
+  </a>
+  ,
+  <a href="https://sourceforge.net/projects/opengts/files/server-base/">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Java
+  </code>
  </li>
  <li>
   <a href="http://www.openstreetmap.org/">
@@ -5328,6 +6366,12 @@
    Source Code
   </a>
   )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Ruby
+  </code>
  </li>
  <li>
   <a href="https://www.traccar.org/">
@@ -5345,6 +6389,9 @@
   <code>
    Apache
   </code>
+  <code>
+   Java
+  </code>
  </li>
  <li>
   <a href="https://umap.openstreetmap.fr/en/">
@@ -5359,7 +6406,7 @@
    WTFPL
   </code>
   <code>
-   Python/Django
+   Python
   </code>
  </li>
 </ul>
@@ -5435,15 +6482,18 @@
   <a href="https://github.com/jkbrzt/cloudtunes">
    cloudtunes
   </a>
+  <code>
+   ⚠
+  </code>
   - Web-based music player for the cloud.
   <code>
    MIT
   </code>
   <code>
-   Python/Javascript
+   Python
   </code>
   <sup>
-   &#9733 2126, pushed 72 days ago
+   &#9733 2126, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -5456,7 +6506,7 @@
   </a>
   )
   <code>
-   GPLv3
+   AGPLv3
   </code>
   <code>
    PHP
@@ -5466,7 +6516,7 @@
   <a href="http://groovebasin.com/">
    Groove Basin
   </a>
-  - A music player server with a web-based user interface inspired by Amarok 1.4 (
+  - A music player server with a web-based user interface inspired by Amarok 1.4. (
   <a href="https://github.com/andrewrk/groovebasin">
    Source Code
   </a>
@@ -5482,7 +6532,7 @@
   <a href="http://www.icecast.org/">
    Icecast 2
   </a>
-  - streaming audio server which can be used to create an Internet radio station or a privately running jukebox and many things in between. (
+  - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. (
   <a href="https://git.xiph.org/?p=icecast-server.git;a=summary">
    Source Code
   </a>
@@ -5511,6 +6561,18 @@
   </code>
  </li>
  <li>
+  <a href="http://libresonic.org/">
+   Libresonic
+  </a>
+  - Open-source web-based media streamer and jukebox. A fork of Subsonic's last open-source release, before it switched licenses.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Java
+  </code>
+ </li>
+ <li>
   <a href="http://mopidy.readthedocs.org/">
    Mopidy
   </a>
@@ -5525,6 +6587,44 @@
   <code>
    Python
   </code>
+  <ul>
+   <li>
+    <a href="https://github.com/martijnboland/moped">
+     Moped
+    </a>
+    - Responisve HTML5 + Javascript client for the Mopidy music server.
+    <code>
+     MIT
+    </code>
+    <code>
+     HTML5
+    </code>
+   </li>
+   <li>
+    <a href="https://github.com/pimusicbox/mopidy-musicbox-webclient">
+     Mopidy MusicBox
+    </a>
+    - Web Client for Mopidy Music Server.
+    <code>
+     Apache
+    </code>
+    <code>
+     HTML5
+    </code>
+   </li>
+   <li>
+    <a href="https://github.com/Lesterpig/mopidy-party">
+     Mopidy-Party
+    </a>
+    - Mopidy web extension designed for party! Let your guests manage the sound.
+    <code>
+     Apache
+    </code>
+    <code>
+     Python
+    </code>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="http://www.musicpd.org/">
@@ -5537,6 +6637,24 @@
   <code>
    C++
   </code>
+  <ul>
+   <li>
+    <a href="http://www.ympd.org/">
+     ympd
+    </a>
+    - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. (
+    <a href="https://github.com/notandy/ympd">
+     Source Code
+    </a>
+    )
+    <code>
+     GPLv2
+    </code>
+    <code>
+     C
+    </code>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://www.sonerezh.bzh/">
@@ -5545,10 +6663,6 @@
   - A self-hosted, web-based application for stream your music, everywhere. (
   <a href="https://www.sonerezh.bzh/demo/">
    Demo
-  </a>
-  ,
-  <a href="https://www.sonerezh.bzh/docs/">
-   Documentation
   </a>
   ,
   <a href="https://github.com/sonerezh/sonerezh">
@@ -5560,26 +6674,6 @@
   </code>
   <code>
    PHP
-  </code>
- </li>
- <li>
-  <a href="http://subsonic.org/">
-   Subsonic
-  </a>
-  - Open-source web-based media streamer and jukebox. (
-  <a href="http://demo.subsonic.org/login.view?user=guest4&password=guest">
-   Demo
-  </a>
-  ,
-  <a href="https://github.com/EugeneKay/subsonic">
-   Source Code
-  </a>
-  )
-  <code>
-   GPLv3
-  </code>
-  <code>
-   Java
   </code>
  </li>
 </ul>
@@ -5603,20 +6697,24 @@
    Nodejs
   </code>
   <sup>
-   &#9733 369, pushed 5 days ago
+   &#9733 369, pushed 130 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/MediaBrowser/Emby">
+  <a href="http://emby.media/">
    Emby
   </a>
-  - A home media server built using other popular open source technologies. -
+  - A home media server built using other popular open source technologies. (
+  <a href="https://github.com/MediaBrowser/Emby">
+   Source Code
+  </a>
+  )
   <code>
    GPLv2
   </code>
-  <sup>
-   &#9733 833, pushed 2 days ago
-  </sup>
+  <code>
+   C#
+  </code>
  </li>
  <li>
   <a href="http://flumotion.net/">
@@ -5635,12 +6733,35 @@
   </code>
  </li>
  <li>
-  <a href="http://htpc.io/">
-   HTPC Manager
+  <a href="https://github.com/Hellowlol/HTPC-Manager">
+   Hellowlol HTPC Manager fork
   </a>
-  - A fully responsive interface to manage all your favorite media on your HTPC. -
+  - A fully responsive interface to manage all your favorite media on your HTPC. (
+  <a href="https://github.com/styxit/HTPC-Manager">
+   Source Code
+  </a>
+  )
   <code>
    MIT
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="http://www.icecast.org/">
+   Icecast 2
+  </a>
+  - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. (
+  <a href="https://git.xiph.org/?p=icecast-server.git;a=summary">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   C
   </code>
  </li>
  <li>
@@ -5675,7 +6796,7 @@
   <a href="https://wiki.gnome.org/action/show/Projects/Rygel">
    Rygel
   </a>
-  - Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices. Additionally, media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller.
+  - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller.
   <code>
    GPLv3
   </code>
@@ -5687,7 +6808,7 @@
   <a href="https://github.com/dularion/streama">
    Streama
   </a>
-  - Self-hosted Netflix alternative. -
+  - Self-hosted Netflix alternative.
   <code>
    MIT
   </code>
@@ -5695,7 +6816,7 @@
    Java
   </code>
   <sup>
-   &#9733 2678, pushed 2 days ago
+   &#9733 2678, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5710,14 +6831,82 @@
    PHP
   </code>
   <sup>
-   &#9733 727, pushed 2 days ago
+   &#9733 727, pushed 127 days ago
   </sup>
  </li>
 </ul>
 <h2>
- Mind Maps
+ Misc/Other
 </h2>
 <ul>
+ <li>
+  <a href="http://easybook-project.org/">
+   EasyBook Project
+  </a>
+  - Book publishing as easy as it should be. (
+  <a href="https://github.com/javiereguiluz/easybook">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://www.fusio-project.org/">
+   Fusio
+  </a>
+  - Fusio is an open source API management platform which helps to build and manage REST APIs. (
+  <a href="http://demo.fusio-project.org/backend.htm">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/apioo/fusio">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://geneweb.tuxfamily.org/wiki/GeneWeb">
+   GeneWeb
+  </a>
+  - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. (
+  <a href="https://demo.geneweb.tuxfamily.org/gw7/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/geneweb/geneweb">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   OCAML
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/securestate/king-phisher">
+   King Phisher
+  </a>
+  - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks.
+  <code>
+   BSD
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
  <li>
   <a href="https://github.com/drichard/mindmaps">
    Mindmaps
@@ -5727,9 +6916,71 @@
    Demo
   </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   HTML5
+  </code>
   <sup>
-   &#9733 862, pushed 140 days ago
+   &#9733 862, pushed 264 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.paraio.org">
+   Para
+  </a>
+  - Para is a flexible and modular backend framework/server for object persistence, API development and authentication. (
+  <a href="https://github.com/erudika/para">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Java
+  </code>
+ </li>
+ <li>
+  <a href="https://skygear.io">
+   Skygear
+  </a>
+  - A complete backend server for web, mobile and iOT applcations. (
+  <a href="https://portal.skygear.io">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/SkygearIO/skygear-server">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
+ <li>
+  <a href="https://www.webtrees.net">
+   webtrees
+  </a>
+  - webtrees is the web's leading on-line collaborative genealogy application. (
+  <a href="https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/fisharebest/webtrees">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
 </ul>
 <h2>
@@ -5748,7 +6999,7 @@
    Python
   </code>
   <sup>
-   &#9733 219, pushed 14 days ago
+   &#9733 219, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -5760,6 +7011,30 @@
    Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/gaynetdinov/ex_money">
+   ExMoney
+  </a>
+  - A [work-in-progress] self-hosted personal finance app.
+  <code>
+   ISC
+  </code>
+  <code>
+   Elixir
+  </code>
+ </li>
+ <li>
+  <a href="https://jc5.github.io/firefly-iii/">
+   Firefly III
+  </a>
+  - Firefly III is a financial manager. It helps you keeping track of your money and make budget forecasts. It supports credit cards, shared household accounts and savings accounts. Very modern, it's powered by Laravel and requires PHP7.
   <code>
    MIT
   </code>
@@ -5804,13 +7079,9 @@
    GRR
   </a>
   - Assets management and booking for small/medium companies. (
-  <a href="http://grr.devome.com/demo/week_all.php?year=2015&month=07&day=28&area=94">
-   demo
+  <a href="https://github.com/JeromeDevome/GRR">
+   Source Code
   </a>
-  ,
-  <em>
-   administrateur/azerty
-  </em>
   )
   <code>
    GPLv2
@@ -5836,7 +7107,7 @@
    GPLv3
   </code>
   <code>
-   Nodejs/Ember
+   Nodejs
   </code>
  </li>
  <li>
@@ -5856,7 +7127,7 @@
   </code>
  </li>
  <li>
-  <a href="https://www.invoiceninja.com/">
+  <a href="https://www.invoiceninja.org/">
    Invoice Ninja
   </a>
   - A powerful tool to invoice clients online. (
@@ -5891,6 +7162,9 @@
   <code>
    MIT
   </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://ihatemoney.org/">
@@ -5903,26 +7177,6 @@
   )
   <code>
    BSD
-  </code>
-  <code>
-   Python
-  </code>
- </li>
- <li>
-  <a href="http://www.tryton.org/">
-   Tryton
-  </a>
-  - Core base of a complete business solution (ERP). (
-  <a href="http://demo.tryton.org">
-   Demo
-  </a>
-  admin/admin,
-  <a href="https://hg.tryton.org">
-   Source Code
-  </a>
-  )
-  <code>
-   GPLv3
   </code>
   <code>
    Python
@@ -5945,12 +7199,52 @@
   </code>
  </li>
  <li>
+  <a href="https://www.partkeepr.org">
+   PartKeepr
+  </a>
+  - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. (
+  <a href="https://demo.partkeepr.org/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/partkeepr/PartKeepr">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="https://dev.sigpipe.me/dashie/StockazNG">
    StockazNG
   </a>
   - Asset Management System.
   <code>
    MIT
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="http://www.tryton.org/">
+   Tryton
+  </a>
+  - Core base of a complete business solution (ERP). (
+  <a href="http://demo.tryton.org">
+   Demo
+  </a>
+  admin/admin,
+  <a href="https://hg.tryton.org">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
   </code>
   <code>
    Python
@@ -5991,20 +7285,22 @@
   <a href="http://tools.yosko.net/demos/jotter/">
    Demo
   </a>
-  -
-  <code>
-   demo/demo
-  </code>
   )
+  <code>
+   LGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
   <sup>
-   &#9733 27, pushed 775 days ago
+   &#9733 27, pushed 900 days ago
   </sup>
  </li>
  <li>
   <a href="https://laverna.cc/">
    Laverna
   </a>
-  - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. (
+  - Laverna is a Javascript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. (
   <a href="https://laverna.cc/index.html#notes">
    Demo
   </a>
@@ -6013,6 +7309,48 @@
    Source Code
   </a>
   )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="http://leanote.org/">
+   Leanote
+  </a>
+  - Leanote, Not Just A Notepad! Open source cloud notepad. (
+  <a href="https://leanote.com/note">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/leanote/leanote">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
+ <li>
+  <a href="http://georgeosddev.github.com/markdown-edit/">
+   Markdown Edit
+  </a>
+  - Online markdown editor/viewer. (
+  <a href="https://github.com/georgeOsdDev/markdown-edit">
+   Source code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   HTML5
+  </code>
  </li>
  <li>
   <a href="https://github.com/pereorga/minimalist-web-notepad">
@@ -6026,7 +7364,7 @@
    PHP
   </code>
   <sup>
-   &#9733 35, pushed 335 days ago
+   &#9733 35, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -6041,16 +7379,26 @@
    PHP
   </code>
   <sup>
-   &#9733 5, pushed 18 days ago
+   &#9733 5, pushed 143 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/FoxUSA/OpenNote">
    OpenNote
   </a>
-  - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+  - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. (
+  <a href="https://foxusa.github.io/OpenNote/OpenNote/#/folder">
+   Demo
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   HTML5
+  </code>
   <sup>
-   &#9733 972, pushed 53 days ago
+   &#9733 972, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -6062,6 +7410,12 @@
    Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://www.sharelatex.com/">
@@ -6104,18 +7458,36 @@
   <a href="https://ethercalc.org/">
    EtherCalc
   </a>
-  - Web spreadsheet. -
+  - Web spreadsheet. (
+  <a href="https://github.com/audreyt/ethercalc">
+   Source Code
+  </a>
+  )
   <code>
-   CPALv1
+   CPALv1/Other
+  </code>
+  <code>
+   Nodejs
   </code>
  </li>
  <li>
   <a href="http://etherpad.org/">
    Etherpad
   </a>
-  - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. -
+  - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. (
+  <a href="https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/ether/etherpad-lite">
+   Source Code
+  </a>
+  )
   <code>
    Apache
+  </code>
+  <code>
+   Nodejs
   </code>
  </li>
  <li>
@@ -6155,6 +7527,22 @@
   </code>
  </li>
  <li>
+  <a href="https://doc.owncloud.org/server/8.2/user_manual/documents.html">
+   ownCloud documents
+  </a>
+  - Collaborative editing and sharing of rich-text documents. (
+  <a href="https://github.com/owncloud/documents">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
   <a href="http://phpoffice.github.io/">
    PHPOffice
   </a>
@@ -6179,23 +7567,7 @@
    AGPLv3
   </code>
   <code>
-   Javascript
-  </code>
- </li>
- <li>
-  <a href="https://doc.owncloud.org/server/8.2/user_manual/documents.html">
-   ownCloud documents
-  </a>
-  - Collaborative editing and sharing of rich-text documents. (
-  <a href="https://github.com/owncloud/documents">
-   Source Code
-  </a>
-  )
-  <code>
-   AGPLv3
-  </code>
-  <code>
-   PHP
+   HTML5
   </code>
  </li>
 </ul>
@@ -6204,11 +7576,11 @@
 </h2>
 <ul>
  <li>
-  <a href="https://antelle.github.io/keeweb/">
+  <a href="https://keeweb.info/">
    keeweb
   </a>
   - This webapp is a browser and desktop password manager compatible with KeePass databases. (
-  <a href="https://github.com/antelle/keeweb">
+  <a href="https://github.com/keeweb/keeweb">
    Source Code
   </a>
   )
@@ -6216,7 +7588,7 @@
    MIT
   </code>
   <code>
-   JavaScript
+   HTML5
   </code>
  </li>
  <li>
@@ -6240,14 +7612,40 @@
    RatticDB
   </a>
   - Password Management for Humans. (
-  <a href="https://github.com/tildaslash/RatticWeb">
-   Source Code
-  </a>
-  ,
   <a href="https://demo.rattic.org/cred/list/">
    Demo
   </a>
+  ,
+  <a href="https://github.com/tildaslash/RatticWeb">
+   Source Code
+  </a>
   )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="http://www.syspass.org/">
+   sysPass
+  </a>
+  - Multiuser password management system. (
+  <a href="http://demo.syspass.org/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/nuxsmin/sysPass">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://teampass.net/">
@@ -6282,7 +7680,7 @@
    Python
   </code>
   <sup>
-   &#9733 501, pushed 116 days ago
+   &#9733 501, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -6307,10 +7705,10 @@
   </a>
   - GIST is an open-source application to share code.
   <code>
-   PHP
+   GPLv3
   </code>
   <code>
-   GPLv3
+   PHP
   </code>
  </li>
  <li>
@@ -6327,17 +7725,17 @@
   </a>
   )
   <code>
-   Nodejs
+   MIT
   </code>
   <code>
-   MIT
+   Nodejs
   </code>
  </li>
  <li>
   <a href="https://github.com/petermaloney/localpaste">
-   LocalPaste
+   localpaste
   </a>
-  - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images(no extensions on returned url).
+  - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images (no extensions on returned url).
   <code>
    GPLv2
   </code>
@@ -6345,8 +7743,68 @@
    Python
   </code>
   <sup>
-   &#9733 9, pushed 250 days ago
+   &#9733 9, pushed 375 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://search.cpan.org/dist/App-mojopaste/">
+   mojopaste
+  </a>
+  - Perl based pastebin. (
+  <a href="http://p.thorsen.pm/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/jhthorsen/app-mojopaste">
+   Source Code
+  </a>
+  )
+  <code>
+   ARTv2
+  </code>
+  <code>
+   Perl
+  </code>
+ </li>
+ <li>
+  <a href="https://notehub.org">
+   NoteHub
+  </a>
+  - Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link. (
+  <a href="https://notehub.org">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/chmllr/NoteHub">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="https://p.pantsu.cat">
+   Pastebin
+  </a>
+  - Modern self-hosted pastebin service with a restful API. (
+  <a href="https://p.pantsu.cat">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/ewhal/Pastebin">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
  </li>
  <li>
   <a href="http://pastedown.ctrl-c.us/">
@@ -6377,11 +7835,23 @@
    GPLv3
   </code>
   <code>
-   Python/Flask
+   Python
   </code>
   <sup>
-   &#9733 130, pushed 27 days ago
+   &#9733 130, pushed 152 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bhanderson/pbnh">
+   pbnh
+  </a>
+  - Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend.
+  <code>
+   MIT
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="https://pste.pw">
@@ -6393,17 +7863,37 @@
   </a>
   )
   <code>
-   PHP
+   AGPLv3
   </code>
   <code>
-   AGPLv3
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://privatebin.info/">
+   PrivateBin
+  </a>
+  - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. (
+  <a href="https://privatebin.net/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/PrivateBin/PrivateBin">
+   Source Code
+  </a>
+  )
+  <code>
+   Zlib
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
   <a href="https://snipt.net/">
    snipt
   </a>
-  - Long-term memory for coders. Share and store code snippets  (
+  - Long-term memory for coders. Share and store code snippets. (
   <a href="https://github.com/nicksergeant/snipt/">
    Source Code
   </a>
@@ -6419,7 +7909,14 @@
   <a href="http://sayakb.github.io/sticky-notes/">
    Sticky Notes
   </a>
-  - A powerful open-source pastebin application for effortless code sharing.
+  - A powerful open-source pastebin application for effortless code sharing. (
+  <a href="https://github.com/sayakb/sticky-notes">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
   <code>
    PHP
   </code>
@@ -6430,13 +7927,13 @@
   </a>
   - An advanced and beautiful pastebin.
   <code>
-   PHP
-  </code>
-  <code>
    GPLv3
   </code>
+  <code>
+   PHP
+  </code>
   <sup>
-   &#9733 457, pushed 18 days ago
+   &#9733 457, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -6451,28 +7948,8 @@
    Nodejs
   </code>
   <sup>
-   &#9733 11, pushed 94 days ago
+   &#9733 11, pushed 218 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/elrido/ZeroBin/wiki">
-   ZeroBin
-  </a>
-  - ZeroBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. (
-  <a href="https://zerobin.dssr.ch/">
-   Demo
-  </a>
-  ,
-  <a href="https://github.com/elrido/ZeroBin">
-   Source Code
-  </a>
-  )
-  <code>
-   Zlib
-  </code>
-  <code>
-   PHP
-  </code>
  </li>
 </ul>
 <h2>
@@ -6503,7 +7980,7 @@
   <a href="https://github.com/foxmask/dj-diabetes">
    Dj Diabetes
   </a>
-  - My Glucose Manager - follow your daily health
+  - My Glucose Manager - follow your daily health.
   <code>
    BSD
   </code>
@@ -6511,7 +7988,7 @@
    Python
   </code>
   <sup>
-   &#9733 8, pushed 11 days ago
+   &#9733 8, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -6591,8 +8068,14 @@
    Source Code
   </a>
   )
+  <code>
+   Apache
+  </code>
+  <code>
+   Nodejs
+  </code>
   <sup>
-   &#9733 2377, pushed 196 days ago
+   &#9733 2377, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -6647,7 +8130,7 @@
    Python
   </code>
   <sup>
-   &#9733 398, pushed 2 days ago
+   &#9733 398, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -6656,43 +8139,33 @@
 </h2>
 <ul>
  <li>
-  <a href="http://cumulusclips.org/">
-   CumulusClips
+  <a href="https://github.com/Chevereto/Chevereto-2.X">
+   Chevereto 2.X
   </a>
-  - Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.
-  <code>
-   GPLv2
-  </code>
-  <code>
-   PHP
-  </code>
-  (
-  <a href="https://tube.devosi.org/">
-   Demo
-  </a>
-  )
- </li>
- <li>
-  <a href="http://galleryproject.org/">
-   Gallery
-  </a>
-  - The simplest, most intuitive way to host your photos on your website. (
-  <a href="https://github.com/gallery/gallery3">
+  - Open source one-click image hosting script. (
+  <a href="https://github.com/Chevereto/Chevereto-2.X">
    Source Code
   </a>
   )
   <code>
-   GPLv2
+   MIT
   </code>
   <code>
    PHP
   </code>
  </li>
  <li>
-  <a href="http://koken.me/">
-   Koken
+  <a href="http://cumulusclips.org/">
+   CumulusClips
   </a>
-  - Content management and web site publishing for photographers.
+  - Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.  (
+  <a href="https://tube.devosi.org/">
+   Demo
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
   <code>
    PHP
   </code>
@@ -6745,31 +8218,19 @@
   <a href="https://github.com/sebsauvage/MinigalNano">
    MinigalNano
   </a>
-  - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP) (
+  - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP). (
   <a href="http://boards.tomcanac.com/">
    Demo
   </a>
   )
   <code>
-   CC BY-SA 3.0
+   GPLv3/CCBYNCNDv4
   </code>
   <code>
    PHP
   </code>
   <sup>
-   &#9733 65, pushed 242 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hillman/phog">
-   phog
-  </a>
-  - Static photo gallery generator with S3 uploader.
-  <code>
-   Python
-  </code>
-  <sup>
-   &#9733 66, pushed 799 days ago
+   &#9733 65, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -6782,10 +8243,10 @@
   </a>
   )
   <code>
-   Javascript
+   GPLv2
   </code>
   <code>
-   GPLv2
+   Python
   </code>
  </li>
  <li>
@@ -6794,13 +8255,13 @@
   </a>
   - The easiest photo gallery there is.
   <code>
-   PHP
-  </code>
-  <code>
    GPLv3
   </code>
+  <code>
+   PHP
+  </code>
   <sup>
-   &#9733 10, pushed 1051 days ago
+   &#9733 10, pushed 1176 days ago
   </sup>
  </li>
  <li>
@@ -6813,17 +8274,17 @@
   </a>
   )
   <code>
-   Javascript
+   GPLv3
   </code>
   <code>
-   GPLv3
+   PHP
   </code>
  </li>
  <li>
   <a href="http://piwigo.org/">
    Piwigo
   </a>
-  - Photo gallery software for the web, built by an active community of users and developers. -
+  - Photo gallery software for the web, built by an active community of users and developers.
   <code>
    GPLv2
   </code>
@@ -6848,22 +8309,10 @@
   </code>
  </li>
  <li>
-  <a href="https://github.com/dmpop/pygmyfoto">
-   Pygmyfoto
-  </a>
-  - A crude solution for publishing a photo roll on the web.
-  <code>
-   PHP
-  </code>
-  <sup>
-   &#9733 9, pushed 652 days ago
-  </sup>
- </li>
- <li>
   <a href="http://shot.io/">
    Shot.io
   </a>
-  - Mobile optimised photo publishing platform (self-hosted Flickr alternative) (
+  - Mobile optimised photo publishing platform (self-hosted Flickr alternative). (
   <a href="https://github.com/AliasIO/Shot.io">
    Source Code
   </a>
@@ -6887,7 +8336,7 @@
    Python
   </code>
   <sup>
-   &#9733 243, pushed 2 days ago
+   &#9733 243, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6948,6 +8397,26 @@
 </h2>
 <ul>
  <li>
+  <a href="http://calagator.org/">
+   Calagator
+  </a>
+  - An event aggregator. (
+  <a href="http://calagator.org/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/calagator/calagator">
+   Source code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Ruby
+  </code>
+ </li>
+ <li>
   <a href="http://primelife.ercim.eu/results/opensource/63-dudle">
    dudle
   </a>
@@ -6996,6 +8465,12 @@
    Source Code
   </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://www.limesurvey.org">
@@ -7006,6 +8481,12 @@
    Demo
   </a>
   )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://github.com/nearbycoder/materialpoll">
@@ -7020,8 +8501,14 @@
    Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
   <sup>
-   &#9733 15, pushed 302 days ago
+   &#9733 15, pushed 426 days ago
   </sup>
  </li>
  <li>
@@ -7037,7 +8524,27 @@
    GPLv3
   </code>
   <code>
-   Python/Django
+   Python
+  </code>
+ </li>
+ <li>
+  <a href="https://tellform.com">
+   TellForm
+  </a>
+  - A beautiful online form and survey creator. (
+  <a href="https://stage.tellform.com/#!/forms/57196d592601ed12074eecc0">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/whitef0x0/tellform">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Nodejs
   </code>
  </li>
 </ul>
@@ -7046,11 +8553,27 @@
 </h2>
 <ul>
  <li>
-  <a href="http://www.scotty-transporter.org/">
-   scotty
+  <a href="https://github.com/thekvs/microproxy">
+   microproxy
   </a>
-  - Scotty is a free opensource proxy software for bypassing filter and censorship systems. (
-  <a href="https://github.com/SSilence/scotty">
+  - lightweight non-caching HTTP/HTTPS proxy server. (
+  <a href="https://github.com/thekvs/microproxy">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/joshdick/miniProxy/">
+   miniProxy
+  </a>
+  - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. (
+  <a href="https://github.com/joshdick/miniProxy/">
    Source Code
   </a>
   )
@@ -7058,7 +8581,7 @@
    GPLv3
   </code>
   <code>
-   Java
+   PHP
   </code>
  </li>
  <li>
@@ -7078,6 +8601,22 @@
   </code>
  </li>
  <li>
+  <a href="http://www.apsis.ch/pound/">
+   Pound
+  </a>
+  - Light-weight reverse proxy and load balancer for HTTP/HTTPS. (
+  <a href="http://www.apsis.ch/pound/">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   C
+  </code>
+ </li>
+ <li>
   <a href="http://www.privoxy.org">
    Privoxy
   </a>
@@ -7087,6 +8626,22 @@
   </code>
   <code>
    C
+  </code>
+ </li>
+ <li>
+  <a href="http://www.scotty-transporter.org/">
+   scotty
+  </a>
+  - Scotty is a free opensource proxy software for bypassing filter and censorship systems. (
+  <a href="https://github.com/SSilence/scotty">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Java
   </code>
  </li>
  <li>
@@ -7121,13 +8676,16 @@
   <code>
    MIT
   </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="https://banu.com/tinyproxy/">
    Tinyproxy
   </a>
   - Light-weight HTTP/HTTPS proxy daemon. (
-  <a href="https://git.banu.com/tinyproxy/">
+  <a href="https://github.com/tinyproxy/tinyproxy">
    Source Code
   </a>
   )
@@ -7139,19 +8697,19 @@
   </code>
  </li>
  <li>
-  <a href="http://www.apsis.ch/pound/">
-   Pound
+  <a href="https://traefik.io/">
+   Traefik
   </a>
-  - Light-weight reverse proxy and load balancer for HTTP/HTTPS. (
-  <a href="http://www.apsis.ch/pound/">
+  - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. (
+  <a href="https://github.com/containous/traefik">
    Source Code
   </a>
   )
   <code>
-   GPLv2
+   MIT
   </code>
   <code>
-   C
+   Go
   </code>
  </li>
 </ul>
@@ -7191,11 +8749,11 @@
    PHP
   </code>
   <sup>
-   &#9733 24, pushed 665 days ago
+   &#9733 24, pushed 790 days ago
   </sup>
  </li>
  <li>
-  <a href="https://www.wallabag.org/?lang=fr_fr">
+  <a href="https://www.wallabag.org">
    Wallabag
   </a>
   - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (
@@ -7203,13 +8761,10 @@
    Demo
   </a>
   ,
-  <a href="http://www.framabag.org/">
-   Public instance
-  </a>
-  ,
   <a href="https://github.com/wallabag/wallabag">
    Source Code
   </a>
+  )
   <code>
    MIT
   </code>
@@ -7223,6 +8778,26 @@
 </h2>
 <ul>
  <li>
+  <a href="http://www.gigablast.com/">
+   Gigablast
+  </a>
+  - open source search engine. (
+  <a href="http://www.gigablast.com/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/gigablast/open-source-search-engine">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   C++
+  </code>
+ </li>
+ <li>
   <a href="https://github.com/asciimoo/searx">
    Searx
   </a>
@@ -7230,13 +8805,15 @@
   <a href="https://searx.me/">
    Demo
   </a>
-  ,
-  <a href="https://github.com/asciimoo/searx/wiki/Searx-instances">
-   Public instances
-  </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Python
+  </code>
   <sup>
-   &#9733 634, pushed 3 days ago
+   &#9733 634, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7298,13 +8875,23 @@
   <a href="https://www.casebox.org">
    CaseBox
   </a>
-  - Manage all your organisation's information in one system.
+  - Manage all your organisation's information in one system. (
+  <a href="https://github.com/KETSE/casebox">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   PHP/Java
+  </code>
  </li>
  <li>
   <a href="https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki">
    Fossil
   </a>
-  - Distributed version control system featuring wiki and bug tracker -
+  - Distributed version control system featuring wiki and bug tracker.
   <code>
    BSD
   </code>
@@ -7316,21 +8903,37 @@
   <a href="https://gitbucket.github.io/gitbucket-news/">
    gitbucket
   </a>
-  - The easily installable GitHub clone powered by Scala (
+  - The easily installable GitHub clone powered by Scala. (
   <a href="https://github.com/gitbucket/gitbucket">
    Source Code
   </a>
   )
+  <code>
+   Apache
+  </code>
+  <code>
+   Scala/Java
+  </code>
  </li>
  <li>
   <a href="http://gitlab.org/">
    GitLab
   </a>
-  - Self Hosted Git Management Application - GitLab is open source software to collaborate on code. Manage git repositories with fine grained access controls that keep your code secure. Perform code reviews and enhance collaboration with merge requests. Each project can also have an issue tracker and a wiki. (
-  <a href="https://git.framasoft.org/">
-   Public instance
+  - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. (
+  <a href="https://gitlab.com/">
+   Demo
+  </a>
+  ,
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce">
+   Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   Ruby
+  </code>
  </li>
  <li>
   <a href="http://gitlist.org/">
@@ -7341,6 +8944,12 @@
    Source Code
   </a>
   )
+  <code>
+   BSD
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://gitprep.yukikimoto.com/">
@@ -7355,6 +8964,12 @@
    Demo
   </a>
   )
+  <code>
+   GPL
+  </code>
+  <code>
+   Perl
+  </code>
  </li>
  <li>
   <a href="https://github.com/gogits/gogs">
@@ -7365,8 +8980,14 @@
    Demo
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
   <sup>
-   &#9733 13592, pushed 2 days ago
+   &#9733 13592, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -7402,10 +9023,32 @@
   </code>
  </li>
  <li>
+  <a href="http://lavagna.io">
+   Lavagna
+  </a>
+  - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. (
+  <a href="https://github.com/digitalfondue/lavagna">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Java
+  </code>
+ </li>
+ <li>
   <a href="https://www.openproject.org">
    OpenProject
   </a>
-  - Project collaboration.
+  - OpenProject is a web-based project management system.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Ruby
+  </code>
  </li>
  <li>
   <a href="http://phabricator.org/">
@@ -7431,12 +9074,20 @@
   <a href="http://www.redmine.org/">
    Redmine
   </a>
-  - Redmine is a flexible project management web application.
-  <code>
-   Ruby
-  </code>
+  - Redmine is a flexible project management web application. (
+  <a href="http://demo.redmine.org/">
+   Demo
+  </a>
+  ,
+  <a href="https://svn.redmine.org/redmine/">
+   Source Code
+  </a>
+  )
   <code>
    GPLv2
+  </code>
+  <code>
+   Ruby
   </code>
  </li>
  <li>
@@ -7448,18 +9099,40 @@
    Source Code
   </a>
   )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://www.thebuggenie.com/">
    The Bug Genie
   </a>
-  - Written in PHP.
+  - The Bug Genie is a friendly project management and issue tracking tool. (
+  <a href="https://github.com/thebuggenie/thebuggenie">
+   Source Code
+  </a>
+  )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://trac.edgewall.org/">
    Trac
   </a>
-  - Written in python.
+  - Trac is an enhanced wiki and issue tracking system for software development projects.
+  <code>
+   BSD
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="http://www.phproject.org/">
@@ -7476,6 +9149,9 @@
   )
   <code>
    GPLv3
+  </code>
+  <code>
+   PHP
   </code>
  </li>
 </ul>
@@ -7503,6 +9179,48 @@
    Source Code
   </a>
   )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://www.eclipse.org/che/">
+   Eclipse Che
+  </a>
+  - Open source workspace server and cloud IDE. (
+  <a href="https://github.com/eclipse/che">
+   Source Code
+  </a>
+  )
+  <code>
+   EPLv1
+  </code>
+  <code>
+   Docker/Java
+  </code>
+ </li>
+ <li>
+  <a href="https://icecoder.net/">
+   ICEcoder
+  </a>
+  - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. (
+  <a href="http://demo.icecoder.net/ICEcoder/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/mattpass/ICEcoder">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://jsbin.com/">
@@ -7515,6 +9233,22 @@
   )
   <code>
    MIT
+  </code>
+  <code>
+   Nodejs
+  </code>
+ </li>
+ <li>
+  <a href="http://www.koding.com/">
+   Koding
+  </a>
+  - The simplest way to manage your entire Dev Infrastructure. (
+  <a href="https://github.com/koding/koding">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
   </code>
   <code>
    Nodejs
@@ -7537,7 +9271,7 @@
    AGPLv3
   </code>
   <code>
-   Javascript
+   Nodejs
   </code>
  </li>
  <li>
@@ -7572,11 +9306,47 @@
    Java/C++
   </code>
  </li>
+ <li>
+  <a href="https://github.com/b3log/wide">
+   Wide
+  </a>
+  - A Web-based IDE for Teams using Go programming language/Golang. (
+  <a href="http://wide.b3log.org/signup">
+   Demo
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
 </ul>
 <h3>
  Continuous Integration
 </h3>
 <ul>
+ <li>
+  <a href="https://concourse.ci/">
+   Concourse
+  </a>
+  - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (
+  <a href="https://ci.concourse.ci/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/concourse/concourse">
+   Source Code
+  </a>
+  )
+  <code>
+   Apache
+  </code>
+  <code>
+   Go
+  </code>
+ </li>
  <li>
   <a href="https://drone.io/">
    drone
@@ -7654,41 +9424,25 @@
    BSD
   </code>
   <code>
-   Node.js
+   Nodejs
   </code>
  </li>
 </ul>
 <h3>
  Documentation Generators
 </h3>
+<p>
+ See also
+ <a href="#static-site-generators">
+  Static site generators
+ </a>
+</p>
 <ul>
- <li>
-  <a href="https://github.com/justinwalsh/daux.io">
-   daux.io
-  </a>
-  - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-  <code>
-   MIT
-  </code>
-  <sup>
-   &#9733 3946, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://haldean.org/">
-   Docstore
-  </a>
-  - A basic site for hosting static documents - docstore is a simple way to serve Markdown files without any server-side processing, and without requiring you (as the author) to recompile every time you change an article. It consists of a very simple JS script that makes an ajax request to your server, runs a Markdown processor on what it finds, and then displays the results. Clone the repository and add articles in the text/ directory to get started. (
-  <a href="https://github.com/haldean/docstore">
-   Source Code
-  </a>
-  )
- </li>
  <li>
   <a href="http://ricostacruz.com/flatdoc/">
    Flatdoc
   </a>
-  - A small JavaScript file that fetches Markdown files and renders them as full pages.
+  - A small Javascript file that fetches Markdown files and renders them as full pages.
   <code>
    MIT
   </code>
@@ -7700,20 +9454,16 @@
   <a href="https://github.com/mil/markdown-tree">
    markdown-tree
   </a>
-  - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown
+  - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
+  <code>
+   MIT
+  </code>
+  <code>
+   Ruby
+  </code>
   <sup>
-   &#9733 60, pushed 465 days ago
+   &#9733 60, pushed 590 days ago
   </sup>
- </li>
- <li>
-  <a href="https://dynalon.github.io/mdwiki/#!index.md">
-   MdWiki
-  </a>
-  - A Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client. (
-  <a href="https://github.com/Dynalon/mdwiki">
-   Source Code
-  </a>
-  )
  </li>
  <li>
   <a href="https://docs.readthedocs.org/en/latest/install.html">
@@ -7771,7 +9521,7 @@
    HTML5
   </code>
   <sup>
-   &#9733 110, pushed 1361 days ago
+   &#9733 110, pushed 1485 days ago
   </sup>
  </li>
  <li>
@@ -7783,19 +9533,26 @@
    MIT
   </code>
   <code>
-   Javascript/Others
+   Nodejs
   </code>
   <sup>
-   &#9733 44, pushed 115 days ago
+   &#9733 44, pushed 240 days ago
   </sup>
  </li>
  <li>
   <a href="http://kanboard.net/">
    Kanboard
   </a>
-  - A simple and open source visual task board.
+  - A simple and open source visual task board. (
+  <a href="https://github.com/kanboard/kanboard">
+   Source Code
+  </a>
+  )
   <code>
-   AGPLv3
+   MIT
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -7804,7 +9561,10 @@
   </a>
   - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant.
   <code>
-   GPL
+   GPLv2
+  </code>
+  <code>
+   PHP
   </code>
  </li>
  <li>
@@ -7823,7 +9583,7 @@
    ClojureScript
   </code>
   <sup>
-   &#9733 1, pushed 51 days ago
+   &#9733 1, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -7840,7 +9600,7 @@
   </a>
   )
   <code>
-   OSL v3.0
+   OSLv3
   </code>
   <code>
    PHP
@@ -7858,6 +9618,9 @@
   <code>
    MIT
   </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://www.taskfreak.com/original">
@@ -7868,6 +9631,24 @@
    Demo
   </a>
   )
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/thewhitetulip/Tasks">
+   Tasks
+  </a>
+  - Kanban based to-do list manager written in Go.
+  <code>
+   MIT
+  </code>
+  <code>
+   Go
+  </code>
  </li>
  <li>
   <a href="https://github.com/RaymiiOrg/tasks.php">
@@ -7877,8 +9658,11 @@
   <code>
    MIT
   </code>
+  <code>
+   PHP
+  </code>
   <sup>
-   &#9733 29, pushed 1063 days ago
+   &#9733 29, pushed 1187 days ago
   </sup>
  </li>
  <li>
@@ -7909,7 +9693,7 @@
    PHP
   </code>
   <sup>
-   &#9733 19, pushed 5 days ago
+   &#9733 19, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -7949,7 +9733,7 @@
    MIT
   </code>
   <code>
-   JavaScript/Meteor
+   Nodejs
   </code>
  </li>
 </ul>
@@ -7969,24 +9753,6 @@
  </em>
 </p>
 <ul>
- <li>
-  <a href="http://osticket.com/">
-   osTicket
-  </a>
-  - Simple support ticket system.
- </li>
- <li>
-  <a href="http://www.otrs.com/">
-   OTRS
-  </a>
-  - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
- </li>
- <li>
-  <a href="https://www.bestpractical.com/rt/">
-   Request Tracker
-  </a>
-  - Ticket-tracking system written in Perl.
- </li>
  <li>
   <a href="https://www.bugzilla.org/">
    Bugzilla
@@ -8019,7 +9785,53 @@
   <a href="http://www.cerberusweb.com/">
    Cerb
   </a>
-  - Group-based e-mail management project.
+  - Group-based e-mail management project. (
+  <a href="https://github.com/wgm/cerb">
+   Source Code
+  </a>
+  )
+  <code>
+   DPL
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://github.com/Taskulu/deskulu">
+   Deskulu
+  </a>
+  - Opensource helpdesk and ticketing system based on Drupal 7. (
+  <a href="https://help.taskulu.com">
+   Demo
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://diamantedesk.com/">
+   DiamanteDesk
+  </a>
+  - DiamanteDesk is FREE Open Source easy-to-use help-desk solution. (
+  <a href="http://diamantedesk.com/demo/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/eltrino/diamantedesk-application">
+   Source Code
+  </a>
+  )
+  <code>
+   OSLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://www.flyspray.org/">
@@ -8033,6 +9845,9 @@
   <code>
    GPLv2
   </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="https://github.com/bkeepers/gaskit">
@@ -8042,8 +9857,11 @@
   <code>
    GPL
   </code>
+  <code>
+   Ruby
+  </code>
   <sup>
-   &#9733 942, pushed 782 days ago
+   &#9733 942, pushed 907 days ago
   </sup>
  </li>
  <li>
@@ -8053,7 +9871,7 @@
   <code>
    ⚠
   </code>
-  – Instant project management for your GitHub issues (Connects directly GitHub API)
+  – Instant project management for your GitHub issues (Connects directly GitHub API).
   <code>
    MIT
   </code>
@@ -8061,7 +9879,7 @@
    Ruby
   </code>
   <sup>
-   &#9733 1653, pushed 11 days ago
+   &#9733 1653, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -8080,12 +9898,73 @@
   <code>
    GPLv2
   </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
-  <a href="http://www.thebuggenie.com">
+  <a href="http://osticket.com/">
+   osTicket
+  </a>
+  -  Manage, organize and archive all your support requests and responses in one place. (
+  <a href="https://github.com/osTicket/osTicket">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
+ </li>
+ <li>
+  <a href="http://www.otrs.com/">
+   OTRS
+  </a>
+  - Trouble ticket system for assigning tickets to incoming queries and tracking further communications. (
+  <a href="https://github.com/OTRS/otrs">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Perl
+  </code>
+ </li>
+ <li>
+  <a href="https://www.bestpractical.com/rt/">
+   Request Tracker
+  </a>
+  -  An enterprise-grade issue tracking system. (
+  <a href="https://github.com/bestpractical/rt">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Perl
+  </code>
+ </li>
+ <li>
+  <a href="http://www.thebuggenie.org">
    TheBugGenie
   </a>
-  - Ticket system with extensive user rights system.
+  - Ticket system with extensive user rights system. (
+  <a href="https://github.com/thebuggenie/thebuggenie">
+   Source Code
+  </a>
+  )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
 </ul>
 <h2>
@@ -8100,16 +9979,22 @@
   <em>
    Let's SHorten That Url
   </em>
-  - Lightweight URL shortener
+  - Lightweight URL shortener.
+  <code>
+   WTFPL
+  </code>
+  <code>
+   Perl
+  </code>
   <sup>
-   &#9733 40, pushed 36 days ago
+   &#9733 40, pushed 160 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ethanal/nimbus">
    Nimbus
   </a>
-  - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface -
+  - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface.
   <code>
    MIT
   </code>
@@ -8126,6 +10011,12 @@
    Source Code
   </a>
   )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://yourls.org/">
@@ -8135,13 +10026,12 @@
   <a href="https://github.com/YOURLS/YOURLS/">
    Source Code
   </a>
-  ,
-  <a href="https://github.com/YOURLS/YOURLS/wiki">
-   Documentation
-  </a>
   )
   <code>
    MIT
+  </code>
+  <code>
+   PHP
   </code>
  </li>
 </ul>
@@ -8185,16 +10075,20 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/ldleman/blazekiss">
+  <a href="http://projet.idleman.fr/blazekiss/">
    Blazekiss
   </a>
-  - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all.
+  - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all. (
+  <a href="https://github.com/ldleman/blazekiss">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv3
+  </code>
   <code>
    PHP
   </code>
-  <sup>
-   &#9733 4, pushed 611 days ago
-  </sup>
  </li>
  <li>
   <a href="https://www.bookstackapp.com/">
@@ -8217,37 +10111,10 @@
   </code>
  </li>
  <li>
-  <a href="https://github.com/codex-project/codex">
-   Codex
-  </a>
-  - Codex is a simple file-based Markdown documentation platform built on top of Laravel. -
-  <code>
-   MIT
-  </code>
-  <code>
-   PHP
-  </code>
-  <sup>
-   &#9733 15, pushed 107 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fredoliveira/commonplace">
-   commonplace
-  </a>
-  - A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
-  <code>
-   Ruby
-  </code>
-  <sup>
-   &#9733 174, pushed 522 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://www.splitbrain.org/projects/dokuwiki">
+  <a href="https://www.dokuwiki.org/DokuWiki">
    Dokuwiki
   </a>
-  - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. -
+  - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required.
   <code>
    GPL
   </code>
@@ -8259,12 +10126,19 @@
   <a href="https://github.com/jgm/gitit">
    Gitit
   </a>
-  - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. Supported markups include pandoc's extended version of markdown, reStructuredText, LaTeX, and HTML. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Other features include: plugins, syntax highlighting, caching, ATOM feeds.
+  - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. (
+  <a href="http://gitit.johnmacfarlane.net/">
+   Demo
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
   <code>
    Haskell
   </code>
   <sup>
-   &#9733 1106, pushed 20 days ago
+   &#9733 1106, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -8272,8 +10146,14 @@
    Gollum
   </a>
   - A simple, Git-powered wiki with a sweet API and local frontend.
+  <code>
+   MIT
+  </code>
+  <code>
+   Ruby
+  </code>
   <sup>
-   &#9733 6913, pushed 17 days ago
+   &#9733 6913, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8286,14 +10166,11 @@
   </a>
   )
   <code>
+   GPLv3
+  </code>
+  <code>
    PHP
   </code>
- </li>
- <li>
-  <a href="http://ikiwiki.info/">
-   ikiwiki
-  </a>
-  - A wiki compiler.
  </li>
  <li>
   <a href="https://github.com/claudioc/jingo">
@@ -8315,13 +10192,21 @@
    NodeJS
   </code>
   <sup>
-   &#9733 526, pushed 10 days ago
+   &#9733 526, pushed 135 days ago
   </sup>
  </li>
  <li>
   <a href="https://www.mediawiki.org/wiki/MediaWiki">
    Mediawiki
   </a>
+  - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. (
+  <a href="https://phabricator.wikimedia.org/diffusion/MW/">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
   <code>
    PHP
   </code>
@@ -8330,7 +10215,17 @@
   <a href="https://moinmo.in/">
    MoinMoin
   </a>
-  - An advanced, easy to use and extensible WikiEngine with a large community of users.
+  - An advanced, easy to use and extensible WikiEngine with a large community of users. (
+  <a href="http://hg.moinmo.in/moin">
+   Source code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
+  <code>
+   Python
+  </code>
  </li>
  <li>
   <a href="https://github.com/minad/olelo">
@@ -8348,20 +10243,42 @@
    Ruby
   </code>
   <sup>
-   &#9733 222, pushed 605 days ago
+   &#9733 222, pushed 729 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sbrl/Pepperminty-Wiki/">
+   Pepperminty Wiki
+  </a>
+  - A complete markdown-powered wiki contained in a single PHP file. (
+  <a href="https://starbeamrainbowlabs.com/labs/peppermint/build/">
+   Demo
+  </a>
+  )
+  <code>
+   MPLv2
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://www.pmwiki.org">
    PmWiki
   </a>
   - Wiki-based system for collaborative creation and maintenance of websites.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   PHP
+  </code>
  </li>
  <li>
   <a href="http://raneto.com/">
    Raneto
   </a>
-  - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase -
+  - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase.
   <code>
    MIT
   </code>
@@ -8370,24 +10287,32 @@
   </code>
  </li>
  <li>
-  <a href="https://github.com/scragg0x/realms-wiki">
+  <a href="http://realms.io/">
    Realms
   </a>
-  - A git-backed wiki inspired by Gollum.
+  - A git-backed wiki inspired by Gollum. (
+  <a href="https://github.com/scragg0x/realms-wiki">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
   <code>
    Python
   </code>
-  <sup>
-   &#9733 510, pushed 9 days ago
-  </sup>
  </li>
  <li>
   <a href="http://redaxscript.com/">
    Redaxscript
   </a>
-  - Ultra lightweight website engine.
+  - Ultra lightweight website engine. (
+  <a href="https://github.com/redaxmedia/redaxscript">
+   Source Code
+  </a>
+  )
   <code>
-   GPL
+   GPLv3
   </code>
   <code>
    PHP
@@ -8406,7 +10331,7 @@
    BSD
   </code>
   <code>
-   Javascript/Nodejs
+   Nodejs
   </code>
  </li>
  <li>
@@ -8423,35 +10348,61 @@
   </a>
   )
   <code>
-   LGPLv2.1
+   LGPLv2
   </code>
   <code>
    PHP
+  </code>
+ </li>
+ <li>
+  <a href="https://www.wikifeat.org/app/wikis/wikifeat/pages/welcome">
+   Wikifeat
+  </a>
+  - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. (
+  <a href="https://github.com/rhinoman/wikifeat">
+   Source Code
+  </a>
+  )
+  <code>
+   BSD
+  </code>
+  <code>
+   GO
   </code>
  </li>
  <li>
   <a href="http://wikiss.tuxfamily.org/">
    WiKiss
   </a>
-  - A Wiki, simple to use and install.
+  - A Wiki, simple to use and install. (
+  <a href="https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0">
+   Source Code
+  </a>
+  )
+  <code>
+   GPLv2
+  </code>
   <code>
    PHP
   </code>
  </li>
  <li>
-  <a href="https://github.com/victorstanciu/Wikitten">
+  <a href="http://wikitten.vizuina.com/">
    Wikitten
   </a>
-  - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
+  - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. (
+  <a href="https://github.com/victorstanciu/Wikitten">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
   <code>
    PHP
   </code>
-  <sup>
-   &#9733 395, pushed 43 days ago
-  </sup>
  </li>
 </ul>
-<hr/>
 <h2>
  Self-hosting Solutions
 </h2>
@@ -8476,6 +10427,38 @@
   </code>
  </li>
  <li>
+  <a href="https://cloudron.io">
+   Cloudron
+  </a>
+  - Effortlessly self-host web apps on your server. (
+  <a href="https://git.cloudron.io/groups/cloudron">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Nodejs/Docker
+  </code>
+ </li>
+ <li>
+  <a href="https://dfabric.github.io/DPlatform-ShellCore/">
+   DPlatform
+  </a>
+  - Deploy self-hosted apps easily: simple, bloat-free, independent installation. (
+  <a href="https://github.com/j8r/DPlatform">
+   Source code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   Shell
+  </code>
+ </li>
+ <li>
   <a href="https://github.com/bashrc/freedombone">
    FreedomBone
   </a>
@@ -8487,7 +10470,7 @@
    Shell
   </code>
   <sup>
-   &#9733 63, pushed 2 days ago
+   &#9733 63, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -8516,6 +10499,26 @@
   </code>
   <code>
    Python/Other
+  </code>
+ </li>
+ <li>
+  <a href="http://puffin.rocks/">
+   Puffin
+  </a>
+  - Lightweight webapp catalog based on containers, with user interface à la mobile app store. (
+  <a href="http://puffin.rocks/">
+   Demo
+  </a>
+  ,
+  <a href="https://github.com/puffinrocks/puffin">
+   Source Code
+  </a>
+  )
+  <code>
+   AGPLv3
+  </code>
+  <code>
+   Python/Docker
   </code>
  </li>
  <li>
@@ -8550,14 +10553,14 @@
    YAML/Other
   </code>
   <sup>
-   &#9733 5242, pushed 2 days ago
+   &#9733 5242, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="http://ubos.net/">
    UBOS
   </a>
-  - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, Wordpress, etc., - and other
+  - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., - and other
   <a href="http://ubos.net/about/">
    features
   </a>
@@ -8570,6 +10573,22 @@
   </code>
  </li>
  <li>
+  <a href="http://WikiSuite.org">
+   WikiSuite
+  </a>
+  - The most comprehensive and integrated Free / Libre / Open Source software suite ever developed. (
+  <a href="http://wikisuite.org/Source">
+   Source Code
+  </a>
+  )
+  <code>
+   Multiple
+  </code>
+  <code>
+   ClearOS
+  </code>
+ </li>
+ <li>
   <a href="https://yunohost.org/">
    yunohost
   </a>
@@ -8579,7 +10598,7 @@
   </a>
   )
   <code>
-   AGPL
+   AGPLv3
   </code>
   <code>
    Python/Other
@@ -8636,11 +10655,70 @@
  </li>
  <li>
   <code>
+   Beerware
+  </code>
+  -
+  <a href="https://spdx.org/licenses/Beerware.html">
+   Beerware License
+  </a>
+ </li>
+ <li>
+  <code>
    BSD
   </code>
   -
   <a href="https://www.freebsd.org/copyright/license.html">
    FreeBSD License
+  </a>
+ </li>
+ <li>
+  <code>
+   BSD
+  </code>
+  -
+  <a href="https://opensource.org/licenses/BSD-3-Clause">
+   BSD 2-Clause
+  </a>
+  or
+  <a href="https://opensource.org/licenses/BSD-3-Clause">
+   BSD 3-Clause
+  </a>
+  license
+ </li>
+ <li>
+  <code>
+   CCBYNCNDv4
+  </code>
+  -
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+   Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+  </a>
+ </li>
+ <li>
+  <code>
+   CCBYNCSAv2
+  </code>
+  -
+  <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">
+   Creative Commons Attribution-NonCommercial-ShareAlike 2.0
+  </a>
+ </li>
+ <li>
+  <code>
+   CCBYNCSAv3
+  </code>
+  -
+  <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">
+   Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+  </a>
+ </li>
+ <li>
+  <code>
+   CCBYNCv4
+  </code>
+  -
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">
+   Creative Commons Attribution-NonCommercial 4.0 International
   </a>
  </li>
  <li>
@@ -8672,11 +10750,29 @@
  </li>
  <li>
   <code>
+   DPL
+  </code>
+  -
+  <a href="http://www.cerberusweb.com/license">
+   Devblocks Public License 1.0
+  </a>
+ </li>
+ <li>
+  <code>
    ECLv2
   </code>
   -
   <a href="http://opensource.org/licenses/ECL-2.0">
    Educational Community License, Version 2.0
+  </a>
+ </li>
+ <li>
+  <code>
+   EPLv1
+  </code>
+  -
+  <a href="https://www.eclipse.org/legal/epl-v10.html">
+   Eclipse Public License, Version 1.0
   </a>
  </li>
  <li>
@@ -8726,7 +10822,7 @@
  </li>
  <li>
   <code>
-   LGPLv2.1
+   LGPLv2
   </code>
   -
   <a href="http://opensource.org/licenses/LGPL-2.1">
@@ -8753,11 +10849,65 @@
  </li>
  <li>
   <code>
+   MPLv1.1
+  </code>
+  -
+  <a href="https://www.mozilla.org/media/MPL/1.1/index.txt">
+   Mozilla Public License Version 1.1
+  </a>
+ </li>
+ <li>
+  <code>
    MPLv2
   </code>
   -
   <a href="https://www.mozilla.org/MPL/2.0/index.txt">
    Mozilla Public License
+  </a>
+ </li>
+ <li>
+  <code>
+   OSLv3
+  </code>
+  -
+  <a href="https://opensource.org/licenses/osl-3.0.php">
+   Open Software License 3.0
+  </a>
+ </li>
+ <li>
+  <code>
+   SENDMAIL
+  </code>
+  -
+  <a href="https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf">
+   Sendmail License
+  </a>
+ </li>
+ <li>
+  <code>
+   Unlicense
+  </code>
+  -
+  <a href="http://unlicense.org/">
+   The Unlicense
+  </a>
+ </li>
+ <li>
+  <code>
+   WTFPL
+  </code>
+  -
+  <a href="http://www.wtfpl.net/about/">
+   Do What the Fuck You Want to Public License
+  </a>
+ </li>
+ <li>
+  <code>
+   Zlib
+  </code>
+  -
+  <a href="https://opensource.org/licenses/Zlib">
+   Zlib/libpng License
   </a>
  </li>
  <li>
@@ -8776,12 +10926,18 @@
 </h2>
 <ul>
  <li>
+  <a href="https://chat.awesome-selfhosted.com">
+   Awesome Selfhosted Chat
+  </a>
+  - A rocket.chat instance setup for the awesome selfhosted community.
+ </li>
+ <li>
   <a href="https://github.com/onurakpolat/awesome-bigdata">
    Awesome Big Data
   </a>
   - A curated list of awesome big data frameworks, resources and other awesomeness.
   <sup>
-   &#9733 3106, pushed 12 days ago
+   &#9733 3106, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -8790,7 +10946,7 @@
   </a>
   - A curated list of amazingly awesome open source sysadmin resources.
   <sup>
-   &#9733 3496, pushed 4 days ago
+   &#9733 3496, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -8804,6 +10960,10 @@
   ,
   <a href="https://redecentralize.github.io/alternative-internet/">
    Alternative Internet
+  </a>
+  ,
+  <a href="http://libreprojects.net/">
+   Libre Projects
   </a>
   - Lists of software aimed at privacy and decentralization (in some form).
  </li>
@@ -8832,99 +10992,23 @@
 <h2>
  Contributing
 </h2>
-<ul>
- <li>
-  To
-  <strong>
-   add an entry
-  </strong>
-  : clone/
-  <a href="https://github.com/Kickball/awesome-selfhosted/archive/master.zip">
-   download
-  </a>
-  and enter the repository, run
-  <code>
-   make add
-  </code>
-  and follow the instructions; or
-  <a href="https://github.com/Kickball/awesome-selfhosted/edit/master/README.md">
-   edit the README.md file
-  </a>
-  directly. See
-  <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">
-   Editing files in another user's repository
-  </a>
-  ,
-  <a href="https://help.github.com/articles/creating-a-pull-request/">
-   Creating Pull Requests
-  </a>
-  ,
-  <a href="https://help.github.com/articles/using-pull-requests/">
-   Using Pull Requests
-  </a>
-  for help on sending your patch.
- </li>
- <li>
-  The
-  <strong>
-   syntax
-  </strong>
-  for links is
-  <code>
-   [Name](http://homepage/) - Short description. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code)) `License` `Language`
-  </code>
-  . All projects should have their
-  <strong>
-   license
-  </strong>
-  and main server-side
-  <strong>
-   language
-  </strong>
-  /platform/requirement listed, and a description at most 250 characters long.
- </li>
- <li>
-  Non-
-  <a href="https://en.wikipedia.org/wiki/Free_software">
-   Free
-  </a>
-  software must be marked
-  <code>
-   ⊘ Proprietary
-  </code>
-  next to the title, and added to
-  <a href="non-free.md">
-   non-free.md
-  </a>
- </li>
- <li>
-  Software with no development activity for 6-12 months may be removed from the list.
- </li>
- <li>
-  Check current
-  <a href="https://github.com/Kickball/awesome-selfhosted/issues">
-   issues
-  </a>
-  and
-  <a href="https://github.com/Kickball/awesome-selfhosted/pulls">
-   Pull Requests
-  </a>
-  , as well as
-  <a href="https://github.com/Kickball/awesome-selfhosted/pulls?utf8=%E2%9C%93&q=is%3Aclosed+">
-   closed issues/PRs
-  </a>
- </li>
- <li>
-  The list of contributors can be updated with
-  <code>
-   make contrib
-  </code>
-  . Several checks are available:
-  <code>
-   make noexternallink; make missinglicenselanguage; make nofullstop
-  </code>
- </li>
-</ul>
+<p>
+ Contributing guidelines can be found
+ <a href=".github/CONTRIBUTING.md">
+  here
+ </a>
+ .
+</p>
+<h2>
+ Authors
+</h2>
+<p>
+ The list of authors can be found
+ <a href="AUTHORS">
+  here
+ </a>
+ .
+</p>
 <h2>
  License
 </h2>
@@ -8935,187 +11019,3 @@
  </a>
  License.
 </p>
-<p>
- The list of contributors can be found below
-</p>
-<pre><code>245 nodiscc <nodiscc@gmail.com>
-222 Edward D <ed.kickball@hotmail.com>
-42  Andrew <AndyR207@users.noreply.github.com>
-31  Kovah <mail@kovah.de>
-22  Kickball <ed.kickball@hotmail.com>
-13  jungle-boogie <sean@jungleboogie.me>
-10  Thomas Dalichow <2012-02-05.github.com@thomasdalichow.de>
-10  cave beat <cave@cavebeat.org>
-9   Joubert RedRat <eu+github@redrat.com.br>
-7   Andrew Peng <pengc99@gmail.com>
-7   Hammy Havoc <hammy@splitanatom.com>
-7   Thomas Dalichow <info@thomasdalichow.de>
-7   n1trux <n1trux@users.noreply.github.com>
-7   phre4k <me@phre4k.at>
-7   édouard u. <mail@edouard.us>
-6   Per Guth <mail@perguth.de>
-5   Jean Champémont <jchampemont@users.noreply.github.com>
-5   Moti Korets <moti.kor@gmail.com>
-5   cave <cavebeat@users.noreply.github.com>
-4   Andrew <andrew@rylatt.me>
-4   Andrew Rylatt <AndyR207@users.noreply.github.com>
-4   AndrewCz <smacz42@users.noreply.github.com>
-4   Cory Gibbons <hello@corygibbons.com>
-4   Dominik Pfaffenbauer <dominik@lineofcode.at>
-4   Dr. Azrael Tod <github.com@g33ky.de>
-4   Ilya Sevostyanov <d3th@zeen.ru>
-4   Jean Elchinger <jinformatique@riseup.net>
-4   Joshua Westerheide <dev@jdoubleu.de>
-4   Marius Voila <marius.voila@gmail.com>
-4   Valmik <mail@valmik.in>
-4   dattaz <taz@dattaz.fr>
-4   paddo <mail@patrickrichter.net>
-3   Akhyar Amarullah <akhyrul@gmail.com>
-3   Chris McCormick <chris@mccormick.cx>
-3   Conor O'Callaghan <brioscaibriste@users.noreply.github.com>
-3   Cédric Krier <cedk@users.noreply.github.com>
-3   Ethan Lowman <ethanal@users.noreply.github.com>
-3   FoxMaSk <foxmask@users.noreply.github.com>
-3   George C. Privon <privong@users.noreply.github.com>
-3   Görkem Çetin <gc@count.ly>
-3   Jan Vlnas <jnv@users.noreply.github.com>
-3   Lee Watson <rev@revthefox.co.uk>
-3   Leo Gaggl <leo@brightcookie.com.au>
-3   Marc Picaud <picaud.marc@gmail.com>
-3   Mariusz Kozakowski <11mariom+wordpress@gmail.com>
-3   Martin Gontovnikas <martin@gon.to>
-3   Mathieu Leplatre <mathieu@leplat.re>
-3   Pavan Yara <yarapavan@gmail.com>
-3   Tobi Schäfer <interface@p3k.org>
-3   Ye Lin Aung <me@yelinaung.com>
-3   jungle-boogie <sean@rastasean.net>
-3   rett gerst <rettgerst@users.noreply.github.com>
-2   Adminrezo (Nico Dewaele) <nico@adminrezo.fr>
-2   Albert Cervera i Areny <albert@nan-tic.com>
-2   Alexander Ryzhov <gtihub@ryzhov-al.ru>
-2   Alexis Metaireau <alexis@notmyidea.org>
-2   Andrew Hayworth <hayworth@meraki.net>
-2   Bartłomiej Kurzeja <B3QL@users.noreply.github.com>
-2   Brendan Abolivier <contact@brendanabolivier.com>
-2   Charles Farence III <charles@charlessite90.com>
-2   Chris Missal <chris.missal@gmail.com>
-2   Costin Moise <necenzurat@gmail.com>
-2   David Leonard <david@appliedtrust.com>
-2   David Wayne Baxter <dbxt@users.noreply.github.com>
-2   Deryck <dhenson02@users.noreply.github.com>
-2   Greg V <greg@unrelenting.technology>
-2   Henry Ruhs <info@redaxmedia.com>
-2   Jason Robinson <mail@jasonrobinson.me>
-2   Joseph Dykstra <josephdykstra@gmail.com>
-2   Julien Bisconti <veggiemonk@users.noreply.github.com>
-2   Kevin Vandenborne <kevin.vandenborne@gmail.com>
-2   Marien Fressinaud <dev@marienfressinaud.fr>
-2   Massimo Santini <massimo.santini@gmail.com>
-2   Matthieu Aubry <matt@piwik.org>
-2   Michael Tunnell <MichaelTunnell@users.noreply.github.com>
-2   Mikael Peigney <Mika56@users.noreply.github.com>
-2   Nicolas Carlier <n.carlier@nunux.org>
-2   Patrik Ragnarsson <patrik@starkast.net>
-2   Peter Ivanov <peter@microweber.com>
-2   Peter Thaleikis <spekulatius@users.noreply.github.com>
-2   Poorchop <Poorchop@users.noreply.github.com>
-2   ReadmeCritic <frankensteinbot@gmail.com>
-2   Ricardo Torres <ricardo@rictorres.com.br>
-2   Roland Geider <roland@geider.net>
-2   Sam Tuke <mail@samtuke.com>
-2   Sameer Al-Sakran <salsakran@users.noreply.github.com>
-2   Simon Vieille <simon@deblan.fr>
-2   Stefane Fermigier <sf@fermigier.com>
-2   Stefano <sabas88@gmail.com>
-2   Thomas Citharel <tcit@tcit.fr>
-2   Vadim Rutkovsky <vrutkovs@redhat.com>
-2   cornerot <cornerot@gmail.com>
-2   cron410 <cron410@gmail.com>
-2   jimykk <JimyKK@users.noreply.github.com>
-2   rafael-santiago <voidbrainvoid@gmail.com>
-2   thomasfrivold <thomas.frivold@gmail.com>
-2   tillarnold <throwable42@gmail.com>
-2   tomc3 <wordoftheday003@gmail.com>
-2   yuche <i@yuche.me>
-1   Alys <alice.harris@oldgods.net>
-1   Andrew Murray <radarhere@gmail.com>
-1   Angel Velasquez <angvp@archlinux.org>
-1   Bob Mottram <bob@robotics.uk.to>
-1   Brett <brettex@hotmail.com>
-1   Burung Hantu <privacytoolsIO@users.noreply.github.com>
-1   Caleb Xu <calebcenter@live.com>
-1   Calle Wolff <carl@wolff.se>
-1   Chanchal Kumar Ghosh <chanchal_ghosh1987@yahoo.co.in>
-1   Chema <neo22s@gmail.com>
-1   Craig Davison <craig@davison.io>
-1   Dan <rocks.in.the.cloud@gmail.com>
-1   Dirk Krause <dirkk0@googlemail.com>
-1   Dmitriy Volkov <wldhx+vcs+github_com@wldhx.me>
-1   Doğan Çelik <dogancelik@users.noreply.github.com>
-1   Dražen Lučanin <kermit666@gmail.com>
-1   Eren Hatırnaz <erenhatirnaz@hotmail.com.tr>
-1   Florian Kaiser <florian.kaiser@fnkr.net>
-1   Florian Wilhelm <f.wilhelm@tarent.de>
-1   Gabriel Cossette <gabriel.cossette@gmail.com>
-1   Igor Antun <IgorAntun@users.noreply.github.com>
-1   Izac Lorimer <izaclorimer@users.noreply.github.com>
-1   Jan <jayphizzle@users.noreply.github.com>
-1   Jean Menezes da Rocha <jean@menezesdarocha.info>
-1   Jeremiah Marks <jeremiah@jlmarks.org>
-1   Joel Calado <joelcalado@gmail.com>
-1   Josh Harmon <me@joshharmon.me>
-1   Joshua Hamilton <joshua.hamilton@fabricut.com>
-1   José Castro <cogurov@gmail.com>
-1   Julien Bisconti <julien.bisconti@gmail.com>
-1   Justin O'Reilly <justin@oreilly.me>
-1   Keith Thibodeaux <kthib89+github@gmail.com>
-1   Keith Thibodeaux <kthibodeaux@peachtreebilling.com>
-1   Keyhaku <jones@bious.fr>
-1   Kyle Stetz <kylestetz@gmail.com>
-1   Liran Tal <liran.tal@gmail.com>
-1   Madhu GB <github@madhugb.com>
-1   Madhu GB <me@madhugb.com>
-1   Marcin Karpezo <m.karpezo@nencki.gov.pl>
-1   Marcus Ramberg <marcus@nordaaker.com>
-1   Mark Ide <mark@cranstonide.com>
-1   MatFluor <MatFluor@users.noreply.github.com>
-1   Matt Hazinski <matt@matthazinski.com>
-1   Michael Burns <michael@mirwin.net>
-1   Mike Steele <mike@steel.fm>
-1   Morris Jobke <hey@morrisjobke.de>
-1   Murdoc Bates <trockenasche@gmail.com>
-1   NicolasCARPi <nicolas.carpi@curie.fr>
-1   Norman Xu <im@norm.im>
-1   Oliver Kopp <kopp.dev@gmail.com>
-1   Paul <paul@rosanbo.com>
-1   Pavel Lobashov <ShockwaveNN@gmail.com>
-1   Pavel Lobashov <shockwavenn@gmail.com>
-1   Peter van den Hurk <runical1991@gmail.com>
-1   Phill <phill@formbet.co.uk>
-1   Remy Adriaanse <remy@adriaanse.it>
-1   Remy Honig <remyhonig@users.noreply.github.com>
-1   Riddler <Iamjithin@live.com>
-1   Roberto Rosario <roberto.rosario.gonzalez@gmail.com>
-1   Ryan Halliday <ry167@ry167.com>
-1   Stefan Bohacek <stefan.bohacek@gmail.com>
-1   Stefan Bohacek <stefan@fourtonfish.com>
-1   Stefan Weil <sw@weilnetz.de>
-1   Sylvain Boily <sylvainboilydroid@gmail.com>
-1   Tobias Zeising <tobias.zeising@aditu.de>
-1   benmaynard11 <allowin-217941-github@vhost244.maynardnetworks.com>
-1   bricej13 <bricej13@gmail.com>
-1   cbdev <cb@cbcdn.com>
-1   dimqua <dimqua@lavabit.com>
-1   florianl <florianl@users.noreply.github.com>
-1   hebbet <pascal.herbert@gmail.com>
-1   lachlan-00 <lachlan.00@gmail.com>
-1   littleguga <littleguga@users.noreply.github.com>
-1   memorex258 <phillip.a.brown@live.com>
-1   mertinop <martin.santibanez.a@gmail.com>
-1   sc0repi0 <sc0repi0@gmx.de>
-1   skarphet <skarphet@users.noreply.github.com>
-1   steven jacobs <stjacobs@fastmail.fm>
-1   stevesbrain <stevesbrain@users.noreply.github.com>
-1   ttoups <ich@timotoups.de>
-1   wxcafé <wxcafe@wxcafe.net>
-</code></pre>

@@ -1,5 +1,5 @@
 <p>
- <img align="center" src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Awesome%20butterfly.png" width="1200"/>
+ <img align="center" src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Screen%20Shot%202016-07-27%20at%203.34.27%20PM.png" width="1200"/>
 </p>
 <p>
  <a href="https://github.com/sindresorhus/awesome">
@@ -271,6 +271,23 @@
  </img>
 </p>
 <h3>
+ Salesforce Custom Search Engines
+</h3>
+<ul>
+ <li>
+  <a href="http://findsf.info">
+   findsf
+  </a>
+  : Google Custom Search of Salesforce related sites
+ </li>
+ <li>
+  <a href="http://searchtheforce.com">
+   Search The Force.com
+  </a>
+  : Google custom search of Salesforce related sites with OpenSearch support
+ </li>
+</ul>
+<h3>
  Browser extensions for Salesforce
 </h3>
 <p>
@@ -299,7 +316,7 @@
    </a>
   </p>
   <sup>
-   &#9733 54, pushed 35 days ago
+   &#9733 54, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -327,7 +344,7 @@
    <img align="right" src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" width="220"/>
   </p>
   <sup>
-   &#9733 137, pushed 38 days ago
+   &#9733 137, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -349,7 +366,7 @@
    </img>
   </a>
   <sup>
-   &#9733 36, pushed 47 days ago
+   &#9733 36, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -365,7 +382,7 @@
    </a>
   </p>
   <sup>
-   &#9733 196, pushed 16 days ago
+   &#9733 196, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -422,7 +439,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 9, pushed 225 days ago
+   &#9733 9, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +454,7 @@
    </a>
   </p>
   <sup>
-   &#9733 22, pushed 473 days ago
+   &#9733 22, pushed 598 days ago
   </sup>
  </li>
  <li>
@@ -449,7 +466,7 @@
    <br/>
   </p>
   <sup>
-   &#9733 0, pushed 216 days ago
+   &#9733 0, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -459,8 +476,14 @@
   - Create UML diagrams from Apex code using the Tooling API
   <br/>
   <sup>
-   &#9733 27, pushed 332 days ago
+   &#9733 27, pushed 457 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://force-code.com/category/sfapexdoc/">
+   SfApexDoc
+  </a>
+  - A full-featured Apex documentation generator, similar to JavaDoc.
  </li>
 </ul>
 <h3>
@@ -493,7 +516,7 @@
    -Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
   </p>
   <sup>
-   &#9733 43, pushed 419 days ago
+   &#9733 43, pushed 544 days ago
   </sup>
  </li>
  <li>
@@ -504,7 +527,7 @@
    - Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
   </p>
   <sup>
-   &#9733 1, pushed 358 days ago
+   &#9733 1, pushed 482 days ago
   </sup>
  </li>
  <li>
@@ -515,7 +538,7 @@
    -Salesforce1-Dev-Guide-Setup-Package
   </p>
   <sup>
-   &#9733 33, pushed 550 days ago
+   &#9733 33, pushed 675 days ago
   </sup>
  </li>
  <li>
@@ -526,7 +549,7 @@
    - Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
   </p>
   <sup>
-   &#9733 52, pushed 6 days ago
+   &#9733 52, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -537,7 +560,7 @@
    - Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
   </p>
   <sup>
-   &#9733 92, pushed 33 days ago
+   &#9733 92, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -556,8 +579,24 @@
    - SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
   </p>
   <sup>
-   &#9733 108, pushed 49 days ago
+   &#9733 108, pushed 173 days ago
   </sup>
+ </li>
+ <li>
+  <p>
+   <a href="https://github.com/amtrack/force-dev-tool">
+    force-dev-tool
+   </a>
+   - Command line tool supporting the Force.com development lifecycle.
+  </p>
+ </li>
+ <li>
+  <p>
+   <a href="https://www.adminbooster.com">
+    AdminBooster
+   </a>
+   - A command line tool designed for admins and developers to interact with Salesforce using the Windows console.
+  </p>
  </li>
 </ul>
 <h3>
@@ -569,7 +608,7 @@
   <a href="https://github.com/mailtoharshit/gitignore">
    GitIgnore for Salesforce
   </a>
-  - SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+  - Reusable .gitIgnore file for Salesforce or Force.com Projects
  </img>
 </p>
 <h3>
@@ -595,7 +634,7 @@
   </a>
   - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
   <sup>
-   &#9733 237, pushed 96 days ago
+   &#9733 237, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -604,7 +643,7 @@
   </a>
   - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
   <sup>
-   &#9733 18, pushed 194 days ago
+   &#9733 18, pushed 319 days ago
   </sup>
  </li>
 </ul>
@@ -625,7 +664,7 @@
   </a>
   - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
   <sup>
-   &#9733 3, pushed 22 days ago
+   &#9733 3, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -640,7 +679,7 @@
   </a>
   - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
   <sup>
-   &#9733 209, pushed 23 days ago
+   &#9733 209, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -649,7 +688,7 @@
   </a>
   -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
   <sup>
-   &#9733 131, pushed 243 days ago
+   &#9733 131, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -658,7 +697,7 @@
   </a>
   - ForceTK - a minimal Force.com REST API for JavaScript apps
   <sup>
-   &#9733 251, pushed 13 days ago
+   &#9733 251, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -667,7 +706,7 @@
   </a>
   - Micro-Library to use Salesforce REST API in AngularJS apps
   <sup>
-   &#9733 41, pushed 98 days ago
+   &#9733 41, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -679,8 +718,14 @@
    See Demo
   </a>
   <sup>
-   &#9733 1, pushed 19 days ago
+   &#9733 1, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://www.adminbooster.com/tool/scripting-toolkit">
+   Scripting Toolkit
+  </a>
+  - Windows based toolkit to run native Javascript to access Salesforce data.
  </li>
 </ul>
 <h2>
@@ -706,7 +751,7 @@ to showcase, usage of
   - Library
  </li>
  <li>
-  <a href="http://stomita.github.io/react-lightning-design-system/">
+  <a href="http://mashmatrix.github.io/react-lightning-design-system/">
    React Components for Saleforce Lighting Design System
   </a>
   - Salesforce Lightning Design System components built with React
@@ -717,7 +762,7 @@ to showcase, usage of
   </a>
   - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
   <sup>
-   &#9733 15, pushed 433 days ago
+   &#9733 15, pushed 558 days ago
   </sup>
  </li>
  <li>
@@ -726,7 +771,7 @@ to showcase, usage of
   </a>
   - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
   <sup>
-   &#9733 5, pushed 82 days ago
+   &#9733 5, pushed 206 days ago
   </sup>
  </li>
 </ul>
@@ -785,7 +830,7 @@ to showcase, usage of
   </a>
   : Awesome Contents for Salesforce Lightning Framework
   <sup>
-   &#9733 7, pushed 150 days ago
+   &#9733 7, pushed 275 days ago
   </sup>
  </li>
 </ul>
@@ -799,7 +844,7 @@ to showcase, usage of
   </a>
   : Collection of Awesome Browser Extensions for Salesforce
   <sup>
-   &#9733 4, pushed 41 days ago
+   &#9733 4, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -818,7 +863,7 @@ to showcase, usage of
    -If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
   </p>
   <sup>
-   &#9733 323, pushed 4 days ago
+   &#9733 323, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -829,7 +874,7 @@ to showcase, usage of
    -Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
   </p>
   <sup>
-   &#9733 8, pushed 5 days ago
+   &#9733 8, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -840,7 +885,7 @@ to showcase, usage of
    - Source repository for the Salesforce Mobile SDK for Android.
   </p>
   <sup>
-   &#9733 186, pushed 4 days ago
+   &#9733 186, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -1091,12 +1136,21 @@ Get Mobile Pack for Knockout and create mobile apps with responsive design that 
 <h3>
  Learning Salesforce Platform
 </h3>
+<h2>
+ Online Resources
+</h2>
 <ul>
  <li>
   <a href="https://developer.salesforce.com/trailhead">
    Trailhead
   </a>
   - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
+ </li>
+ <li>
+  <a href="https://www.pluralsight.com/search?q=salesforce&categories=course">
+   Pluralsight Courses
+  </a>
+  - A rapidly growing collection of courses covering Apex, Lightning, Integration and more. Authored by Salesforce MVPs and Certified Advanced Developers like Dan Appleman, David Liu, Don Robins, Sara Morgan and others.
  </li>
  <li>
   <a href="https://www.udemy.com/salesforce-training/">
@@ -1109,6 +1163,23 @@ Get Mobile Pack for Knockout and create mobile apps with responsive design that 
    Udacity Course
   </a>
   - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+ </li>
+</ul>
+<h3>
+ Books
+</h3>
+<ul>
+ <li>
+  <a href="https://www.amazon.com/Force-com-Enterprise-Architecture-Andrew-Fawcett/dp/1782172998">
+   Force.com Enterprise Architecture
+  </a>
+  - Learn enterprise application development on the Force.com platform, by Andrew Fawcett.
+ </li>
+ <li>
+  <a href="http://advancedapex.com">
+   Advanced Apex Programming
+  </a>
+  - Learn advanced Apex programming fundamentals and design patterns, by Dan Appleman.
  </li>
 </ul>
 <h3>

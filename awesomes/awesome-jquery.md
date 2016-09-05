@@ -197,6 +197,12 @@
   </a>
   - Useful and indepth articles about jQuery.
  </li>
+ <li>
+  <a href="https://github.com/voorhoede/jquery-style-guide">
+   jQuery guide for teams
+  </a>
+  - Tips to write consistent jQuery code, easy to use and understand by your team.
+ </li>
 </ul>
 <h3>
  Tutorials
@@ -213,8 +219,14 @@
   </a>
   - A variety of jQuery plugin patterns for jump starting your plugin development.
   <sup>
-   &#9733 1498, pushed 94 days ago
+   &#9733 1498, pushed 219 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns">
+   Learning jQuery Design Patterns
+  </a>
+  - jQuery Plugin Design Patterns
  </li>
  <li>
   <a href="http://learn.jquery.com/">
@@ -284,7 +296,7 @@
   </a>
   - Comfortable working through common problems you'll be called upon to solve using jQuery.
   <sup>
-   &#9733 77, pushed 15 days ago
+   &#9733 77, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -303,7 +315,7 @@
   .
  </li>
  <li>
-  <a href="http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/">
+  <a href="https://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/">
    jQuery: Novice to Ninja: New Kicks And Tricks
   </a>
   - fast track to mastering jQuery,
@@ -350,7 +362,7 @@
   - Official jQuery UI blog.
  </li>
  <li>
-  <a href="http://www.sitepoint.com/javascript/jquery/">
+  <a href="https://www.sitepoint.com/javascript/jquery/">
    Sitepoint
   </a>
   - Sitepoint's jQuery category section with useful articles.
@@ -395,6 +407,12 @@
   - Browser of jQuery method implementations.
  </li>
  <li>
+  <a href="http://jqapi.com/">
+   Alternative jQuery Documentation Browser
+  </a>
+  - Faster way to browse the jQuery documentation.
+ </li>
+ <li>
   <a href="https://github.com/tastejs/todomvc">
    TodoMVC
   </a>
@@ -404,7 +422,7 @@
   </a>
   .
   <sup>
-   &#9733 16847, pushed 6 days ago
+   &#9733 16847, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -471,7 +489,7 @@
   </a>
   - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
   <sup>
-   &#9733 363, pushed 111 days ago
+   &#9733 363, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +498,7 @@
   </a>
   - Super-smooth CSS3 transformations and transitions for jQuery.
   <sup>
-   &#9733 6923, pushed 328 days ago
+   &#9733 6923, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -489,7 +507,7 @@
   </a>
   - Recreation of the Material Design preloader.
   <sup>
-   &#9733 348, pushed 27 days ago
+   &#9733 348, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -498,7 +516,7 @@
   </a>
   - Switches fixed headers on the fly.
   <sup>
-   &#9733 2841, pushed 217 days ago
+   &#9733 2841, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +531,7 @@
   </a>
   - Click effect inspired by Google's Material Design.
   <sup>
-   &#9733 2250, pushed 20 days ago
+   &#9733 2250, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -537,7 +555,7 @@
   </a>
   - jQuery WYSIWYG Rich Text Editor based on HTML5.
   <sup>
-   &#9733 604, pushed 6 days ago
+   &#9733 604, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -546,7 +564,7 @@
   </a>
   - Simple rich text editor (contentEditable) for jQuery UI.
   <sup>
-   &#9733 2385, pushed 251 days ago
+   &#9733 2385, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -555,7 +573,7 @@
   </a>
   - A modern, simple and elegant WYSIWYG rich text editor.
   <sup>
-   &#9733 1673, pushed 98 days ago
+   &#9733 1673, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -591,7 +609,7 @@
   </a>
   - Multiselect for Bootstrap.
   <sup>
-   &#9733 2101, pushed 4 days ago
+   &#9733 2101, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -600,7 +618,7 @@
   </a>
   - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
   <sup>
-   &#9733 23480, pushed 2 days ago
+   &#9733 23480, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -609,7 +627,7 @@
   </a>
   - Framework for building and validating responsive HTML5 forms.
   <sup>
-   &#9733 739, pushed 243 days ago
+   &#9733 739, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -624,7 +642,7 @@
   </a>
   - A tiny color picker plugin.
   <sup>
-   &#9733 721, pushed 46 days ago
+   &#9733 721, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -633,7 +651,7 @@
   </a>
   - Allows you to create a gallery with a justified grid.
   <sup>
-   &#9733 740, pushed 11 days ago
+   &#9733 740, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -642,7 +660,7 @@
   </a>
   - A lightweight and beautiful plugin for radio and checkbox inputs.
   <sup>
-   &#9733 708, pushed 312 days ago
+   &#9733 708, pushed 437 days ago
   </sup>
  </li>
  <li>
@@ -651,7 +669,7 @@
   </a>
   - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
   <sup>
-   &#9733 265, pushed 15 days ago
+   &#9733 265, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -660,7 +678,7 @@
   </a>
   - The mobile-friendly, responsive, and lightweight date & time input picker.
   <sup>
-   &#9733 6170, pushed 8 days ago
+   &#9733 6170, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -669,7 +687,7 @@
   </a>
   - Select box with support for searching, tagging, remote data sets, infinite scrolling.
   <sup>
-   &#9733 17038, pushed 1 days ago
+   &#9733 17038, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -693,7 +711,7 @@
   </a>
   - Graph visualization library using web workers and jQuery.
   <sup>
-   &#9733 2218, pushed 66 days ago
+   &#9733 2218, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -702,7 +720,7 @@
   </a>
   - A simple image cropping plugin.
   <sup>
-   &#9733 3481, pushed 4 days ago
+   &#9733 3481, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -711,7 +729,7 @@
   </a>
   - Serving retina-ready, high pixel ratio images with ease.
   <sup>
-   &#9733 208, pushed 415 days ago
+   &#9733 208, pushed 540 days ago
   </sup>
  </li>
  <li>
@@ -720,7 +738,7 @@
   </a>
   - Attractive charts.
   <sup>
-   &#9733 4961, pushed 11 days ago
+   &#9733 4961, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -729,7 +747,7 @@
   </a>
   - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
   <sup>
-   &#9733 197, pushed 32 days ago
+   &#9733 197, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -738,7 +756,7 @@
   </a>
   - Generate small sparkline charts.
   <sup>
-   &#9733 943, pushed 17 days ago
+   &#9733 943, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -747,7 +765,7 @@
   </a>
   - Erasing image with mouse or touch movements.
   <sup>
-   &#9733 191, pushed 57 days ago
+   &#9733 191, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -756,7 +774,7 @@
   </a>
   - Plugin based on raphael.js that allows you to display dynamic vector maps.
   <sup>
-   &#9733 693, pushed 15 days ago
+   &#9733 693, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -765,7 +783,7 @@
   </a>
   - Gantt editor.
   <sup>
-   &#9733 986, pushed 43 days ago
+   &#9733 986, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -774,7 +792,7 @@
   </a>
   - Beautiful and easy to use image slider.
   <sup>
-   &#9733 1022, pushed 56 days ago
+   &#9733 1022, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -786,7 +804,7 @@
    pie, donut, bar and line charts.
   </svg>
   <sup>
-   &#9733 3487, pushed 328 days ago
+   &#9733 3487, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -801,7 +819,7 @@
   </a>
   - A simple jQuery image viewing plugin.
   <sup>
-   &#9733 223, pushed 53 days ago
+   &#9733 223, pushed 178 days ago
   </sup>
  </li>
 </ul>
@@ -825,7 +843,7 @@
   </a>
   - Management facility for context menus.
   <sup>
-   &#9733 1090, pushed 1 days ago
+   &#9733 1090, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +852,7 @@
   </a>
   - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
   <sup>
-   &#9733 932, pushed 88 days ago
+   &#9733 932, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -843,7 +861,7 @@
   </a>
   - Fires events when user's cursor aims at particular dropdown menu items.
   <sup>
-   &#9733 7185, pushed 109 days ago
+   &#9733 7185, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -852,7 +870,7 @@
   </a>
   - App look-alike on- and off-canvas menus with sliding submenus.
   <sup>
-   &#9733 1692, pushed 25 days ago
+   &#9733 1692, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -861,7 +879,7 @@
   </a>
   - Allows endless nesting of navigation elements.
   <sup>
-   &#9733 672, pushed 77 days ago
+   &#9733 672, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -870,7 +888,7 @@
   </a>
   - jQuery framework for off-canvas menus and sidebars.
   <sup>
-   &#9733 1081, pushed 140 days ago
+   &#9733 1081, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -879,7 +897,7 @@
   </a>
   - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
   <sup>
-   &#9733 1305, pushed 5 days ago
+   &#9733 1305, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -888,7 +906,7 @@
   </a>
   - Adds usability enhancements to existing multi-level drop-down menus.
   <sup>
-   &#9733 727, pushed 67 days ago
+   &#9733 727, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -897,7 +915,7 @@
   </a>
   - Yet another megamenu for Bootstrap 3.
   <sup>
-   &#9733 1007, pushed 221 days ago
+   &#9733 1007, pushed 346 days ago
   </sup>
  </li>
 </ul>
@@ -925,7 +943,7 @@
   </code>
   or create your own.
   <sup>
-   &#9733 591, pushed 20 days ago
+   &#9733 591, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -934,7 +952,7 @@
   </a>
   - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
   <sup>
-   &#9733 1766, pushed 91 days ago
+   &#9733 1766, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -943,7 +961,7 @@
   </a>
   - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
   <sup>
-   &#9733 4742, pushed 314 days ago
+   &#9733 4742, pushed 438 days ago
   </sup>
  </li>
  <li>
@@ -952,7 +970,7 @@
   </a>
   - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
   <sup>
-   &#9733 671, pushed 246 days ago
+   &#9733 671, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -961,7 +979,7 @@
   </a>
   - Simple and lightweight method of displaying modal windows.
   <sup>
-   &#9733 1026, pushed 3 days ago
+   &#9733 1026, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -970,7 +988,7 @@
   </a>
   - Responsive and accessible modal windows and tooltips.
   <sup>
-   &#9733 314, pushed 28 days ago
+   &#9733 314, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -979,7 +997,7 @@
   </a>
   - Fast, light and responsive lightbox plugin.
   <sup>
-   &#9733 7984, pushed 29 days ago
+   &#9733 7984, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -988,7 +1006,7 @@
   </a>
   - A beautiful replacement for JavaScript's alert.
   <sup>
-   &#9733 13205, pushed 15 days ago
+   &#9733 13205, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -997,7 +1015,7 @@
   </a>
   - A Lightweight Responsive jQuery Tooltip Plugin.
   <sup>
-   &#9733 184, pushed 131 days ago
+   &#9733 184, pushed 255 days ago
   </sup>
  </li>
  <li>
@@ -1006,7 +1024,7 @@
   </a>
   - A modern dialog library which is highly configurable and easy to style.
   <sup>
-   &#9733 5088, pushed 20 days ago
+   &#9733 5088, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -1030,8 +1048,14 @@
   </a>
   - A grid control especially designed for bootstrap.
   <sup>
-   &#9733 680, pushed 16 days ago
+   &#9733 680, pushed 140 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://bootstrap-table.wenzhixin.net.cn/">
+   Bootstrap table
+  </a>
+  - A powerful table control designed for bootstrap.
  </li>
  <li>
   <a href="https://www.datatables.net/">
@@ -1040,12 +1064,18 @@
   - Advanced interaction controls for HTML tables.
  </li>
  <li>
+  <a href="http://fancygrid.com">
+   FancyGrid
+  </a>
+  - JavaScript grid library with charts integration and server communication.
+ </li>
+ <li>
   <a href="https://github.com/sunnywalker/jQuery.FilterTable">
    Filter Table
   </a>
   - Live searching/filtering for HTML tables.
   <sup>
-   &#9733 120, pushed 42 days ago
+   &#9733 120, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1060,7 +1090,7 @@
   </a>
   - Filter & sort magical layouts.
   <sup>
-   &#9733 6939, pushed 6 days ago
+   &#9733 6939, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1069,7 +1099,7 @@
   </a>
   - Simple way to convert HTML data tables to Highcharts graphs.
   <sup>
-   &#9733 216, pushed 149 days ago
+   &#9733 216, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -1078,7 +1108,7 @@
   </a>
   - Grid plugin.
   <sup>
-   &#9733 1972, pushed 7 days ago
+   &#9733 1972, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1087,7 +1117,7 @@
   </a>
   - Show a tree structure in a table.
   <sup>
-   &#9733 485, pushed 57 days ago
+   &#9733 485, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -1096,7 +1126,7 @@
   </a>
   - Lightweight grid plugin.
   <sup>
-   &#9733 503, pushed 33 days ago
+   &#9733 503, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1111,7 +1141,7 @@
   </a>
   - A stupidly small and simple jQuery table sorter plugin.
   <sup>
-   &#9733 528, pushed 7 days ago
+   &#9733 528, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1120,7 +1150,7 @@
   </a>
   - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
   <sup>
-   &#9733 108, pushed 4 days ago
+   &#9733 108, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1144,7 +1174,7 @@
   </a>
   - Start/Stop/Resume/Remove pretty timer inside any HTML element.
   <sup>
-   &#9733 140, pushed 89 days ago
+   &#9733 140, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -1153,7 +1183,7 @@
   </a>
   - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
   <sup>
-   &#9733 3349, pushed 43 days ago
+   &#9733 3349, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -1181,7 +1211,7 @@
   </a>
   files
   <sup>
-   &#9733 86, pushed 68 days ago
+   &#9733 86, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1190,7 +1220,7 @@
   </a>
   - jQuery based Javascript internationalization library for easy internationalization of web application
   <sup>
-   &#9733 245, pushed 15 days ago
+   &#9733 245, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1199,7 +1229,7 @@
   </a>
   - Easy internationalization of your static web site
   <sup>
-   &#9733 294, pushed 23 days ago
+   &#9733 294, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -1223,7 +1253,7 @@
   </a>
   - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
   <sup>
-   &#9733 2413, pushed 88 days ago
+   &#9733 2413, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -1232,7 +1262,7 @@
   </a>
   - An HTML5 form validation plugin for jQuery.
   <sup>
-   &#9733 535, pushed 140 days ago
+   &#9733 535, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -1253,7 +1283,7 @@
   </a>
   - Validation of form fields in the browser.
   <sup>
-   &#9733 2249, pushed 42 days ago
+   &#9733 2249, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -1277,7 +1307,7 @@
   </a>
   - A jump-start for jQuery plugins development.
   <sup>
-   &#9733 2377, pushed 18 days ago
+   &#9733 2377, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1292,7 +1322,7 @@
   </a>
   - Gmail-like client-side drafts and bit more.
   <sup>
-   &#9733 1792, pushed 8 days ago
+   &#9733 1792, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1301,7 +1331,7 @@
   </a>
   - Creates a URL slug as you type a page title (like Django slugify()).
   <sup>
-   &#9733 81, pushed 174 days ago
+   &#9733 81, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -1310,7 +1340,7 @@
   </a>
   - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
   <sup>
-   &#9733 910, pushed 8 days ago
+   &#9733 910, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -1340,7 +1370,7 @@
   </a>
   - Spatial scrolling on mobile devices for your web pages.
   <sup>
-   &#9733 323, pushed 389 days ago
+   &#9733 323, pushed 514 days ago
   </sup>
  </li>
  <li>
@@ -1349,7 +1379,7 @@
   </a>
   - A simple jQuery/Zepto notification library designed to be used in mobile apps.
   <sup>
-   &#9733 218, pushed 64 days ago
+   &#9733 218, pushed 189 days ago
   </sup>
  </li>
 </ul>
@@ -1373,7 +1403,7 @@
   </a>
   - Framework agnostic drag and drop library, supports jQuery integration.
   <sup>
-   &#9733 13165, pushed 16 days ago
+   &#9733 13165, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1388,7 +1418,7 @@
   </a>
   - Create draggable content splitters to emulate frames and separate content.
   <sup>
-   &#9733 15, pushed 145 days ago
+   &#9733 15, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -1397,7 +1427,7 @@
   </a>
   - Tabs for todays web
   <sup>
-   &#9733 568, pushed 133 days ago
+   &#9733 568, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -1406,7 +1436,7 @@
   </a>
   - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
   <sup>
-   &#9733 4967, pushed 12 days ago
+   &#9733 4967, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1436,7 +1466,7 @@
   </a>
   - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
   <sup>
-   &#9733 1815, pushed 2 days ago
+   &#9733 1815, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1458,7 +1488,7 @@
   Node.js:
   <ul>
    <li>
-    <a href="http://bower.io/">
+    <a href="https://bower.io/">
      Bower
     </a>
     - Useful package manager optimized for the front-end.
@@ -1469,7 +1499,7 @@
     </a>
     - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
     <sup>
-     &#9733 8316, pushed 3 days ago
+     &#9733 8316, pushed 128 days ago
     </sup>
    </li>
   </ul>
@@ -1478,7 +1508,7 @@
   PHP:
   <ul>
    <li>
-    <a href="http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/">
+    <a href="https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/">
      PHP front end setup without Node
     </a>
     - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
@@ -1489,7 +1519,7 @@
     </a>
     - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
     <sup>
-     &#9733 56, pushed 69 days ago
+     &#9733 56, pushed 193 days ago
     </sup>
    </li>
   </ul>
@@ -1520,12 +1550,12 @@
     </a>
     - jQuery UI for the Rails asset pipeline.
     <sup>
-     &#9733 949, pushed 45 days ago
+     &#9733 949, pushed 170 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 624, pushed 42 days ago
+   &#9733 624, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -1628,7 +1658,7 @@
     </a>
     - Awesome lists
     <sup>
-     &#9733 63, pushed 189 days ago
+     &#9733 63, pushed 314 days ago
     </sup>
    </li>
    <li>
@@ -1637,7 +1667,7 @@
     </a>
     - Awesome lists
     <sup>
-     &#9733 537, pushed 118 days ago
+     &#9733 537, pushed 243 days ago
     </sup>
    </li>
    <li>
@@ -1646,7 +1676,7 @@
     </a>
     - Awesome lists
     <sup>
-     &#9733 68, pushed 177 days ago
+     &#9733 68, pushed 301 days ago
     </sup>
    </li>
    <li>
@@ -1661,12 +1691,12 @@
     </a>
     - Awesome lists
     <sup>
-     &#9733 3765, pushed 2 days ago
+     &#9733 3765, pushed 126 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1675,7 +1705,7 @@
   </a>
   - Awesome JavaScript list
   <sup>
-   &#9733 5882, pushed 4 days ago
+   &#9733 5882, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1684,7 +1714,7 @@
   </a>
   - Awesome JavaScript books
   <sup>
-   &#9733 60, pushed 406 days ago
+   &#9733 60, pushed 530 days ago
   </sup>
  </li>
  <li>
@@ -1693,7 +1723,7 @@
   </a>
   - List of must-watch videos devoted to JavaScript
   <sup>
-   &#9733 10625, pushed 3 days ago
+   &#9733 10625, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1728,7 +1758,7 @@
  who have helped to build this list.
 </p>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

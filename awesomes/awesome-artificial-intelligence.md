@@ -174,6 +174,12 @@
   - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
  </li>
  <li>
+  <a href="https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html">
+   Reinforcement Learning: An Introduction
+  </a>
+  - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
+ </li>
+ <li>
   <a href="http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915">
    The Cambridge Handbook Of Artificial Intelligence
   </a>
@@ -256,6 +262,18 @@
   </a>
   - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
  </li>
+ <li>
+  <a href="http://cogprints.org/7150/1/10.1.1.83.5248.pdf">
+   Minds, Brains, And Programs
+  </a>
+  - The 1980 paper by philospher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind.
+ </li>
+ <li>
+  <a href="http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567">
+   Gödel, Escher, Bach: An Eternal Golden Braid
+  </a>
+  - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
+ </li>
 </ul>
 <h1>
  Free Content
@@ -324,10 +342,10 @@
 </h1>
 <ul>
  <li>
-  <a href="http://aima.cs.berkeley.edu/lisp/doc/overview.html">
-   AIMA Lisp Source Code
+  <a href="https://github.com/aimacode">
+   AIMACode
   </a>
-  - Common Lisp source code for "Artificial Intelligence A Modern Approach"
+  - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
  </li>
  <li>
   <a href="http://leenissen.dk/fann/wp/">
@@ -417,7 +435,7 @@
   </a>
   - Like this Github, but ML-focused
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -441,6 +459,16 @@
  <li>
   <a href="https://intelligence.org/research-guide/">
    Machine Intelligence Research Institute
+  </a>
+ </li>
+ <li>
+  <a href="https://openai.com/about/">
+   OpenAI
+  </a>
+ </li>
+ <li>
+  <a href="http://www.aaai.org/home.html">
+   Association For The Advancement of Artificial Intelligence
   </a>
  </li>
 </ul>

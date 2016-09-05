@@ -31,7 +31,7 @@
   </a>
   - source code, issues discussion and collaboration.
   <sup>
-   &#9733 11932, pushed 3 days ago
+   &#9733 11932, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -122,7 +122,7 @@
   </a>
   - autoupdate VirtualBox guest additions (according to VB version).
   <sup>
-   &#9733 1705, pushed 39 days ago
+   &#9733 1705, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -131,7 +131,7 @@
   </a>
   - adds an entry to your /etc/hosts file on the host system.
   <sup>
-   &#9733 717, pushed 4 days ago
+   &#9733 717, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -146,7 +146,7 @@
   </a>
   - a vagrant provisioner to run commands on the host when a VM boots.
   <sup>
-   &#9733 76, pushed 161 days ago
+   &#9733 76, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -155,7 +155,7 @@
   </a>
   allow provisioning your VM with ansible playbooks directly from the guest VM.
   <sup>
-   &#9733 57, pushed 460 days ago
+   &#9733 57, pushed 585 days ago
   </sup>
  </li>
  <li>
@@ -164,7 +164,7 @@
   </a>
   - easy manage VM state (commit/rollback while experimenting with software stack).
   <sup>
-   &#9733 663, pushed 177 days ago
+   &#9733 663, pushed 302 days ago
   </sup>
  </li>
 </ul>
@@ -184,7 +184,7 @@
   </a>
   - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
   <sup>
-   &#9733 3909, pushed 4 days ago
+   &#9733 3909, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -338,7 +338,7 @@ for any IP address.
   </a>
   - development environment for creating and modifying WordPress sites.
   <sup>
-   &#9733 729, pushed 60 days ago
+   &#9733 729, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -347,7 +347,7 @@ for any IP address.
   </a>
   - An open source Vagrant configuration focused on WordPress development.
   <sup>
-   &#9733 3015, pushed 4 days ago
+   &#9733 3015, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -356,7 +356,7 @@ for any IP address.
   </a>
   .
   <sup>
-   &#9733 106, pushed 6 days ago
+   &#9733 106, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -377,7 +377,7 @@ for any IP address.
   </a>
   - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
   <sup>
-   &#9733 39, pushed 140 days ago
+   &#9733 39, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -386,7 +386,7 @@ for any IP address.
   </a>
   - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
   <sup>
-   &#9733 532, pushed 349 days ago
+   &#9733 532, pushed 474 days ago
   </sup>
  </li>
  <li>
@@ -395,7 +395,7 @@ for any IP address.
   </a>
   .
   <sup>
-   &#9733 203, pushed 190 days ago
+   &#9733 203, pushed 314 days ago
   </sup>
  </li>
  <li>

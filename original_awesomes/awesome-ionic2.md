@@ -30,6 +30,7 @@ An "awesome" list of the Ionic 2 resources
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 * [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 * [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
+* [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
 
 #### Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
@@ -50,10 +51,12 @@ An "awesome" list of the Ionic 2 resources
 
 #### Unit Testing
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)
+* [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 
 #### Cordova Plugins
 * [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)
 * [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/)
+* [10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)
 * [How to Use Google Maps & Geolocation ](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
 * [Determine Network Availability](https://www.thepolyglotdeveloper.com/2016/01/determine-network-availability-in-an-ionic-2-mobile-app/)
 * [Monetize With Google Admob In An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/02/monetize-google-admob-ionic-2-mobile-app/)
@@ -82,6 +85,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)
 * [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
 * [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
+* [Ionic 2 in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)
 
 #### Books
 * [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)

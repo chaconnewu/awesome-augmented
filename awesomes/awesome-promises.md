@@ -73,7 +73,7 @@
   </a>
   - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
   <sup>
-   &#9733 810, pushed 166 days ago
+   &#9733 810, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -116,7 +116,7 @@
   </a>
   workshop
   <sup>
-   &#9733 161, pushed 23 days ago
+   &#9733 161, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +232,7 @@
   </em>
   small implementation.
   <sup>
-   &#9733 97, pushed 92 days ago
+   &#9733 97, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -241,7 +241,7 @@
   </a>
   - Polyfill. Browser and node-compatible.
   <sup>
-   &#9733 454, pushed 39 days ago
+   &#9733 454, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -250,7 +250,7 @@
   </a>
   - Opt-in polyfill. A strict-spec subset of rsvp.js.
   <sup>
-   &#9733 2999, pushed 5 days ago
+   &#9733 2999, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -259,7 +259,7 @@
   </a>
   - Small, browserifyable with an opt-in polyfill.
   <sup>
-   &#9733 428, pushed 3 days ago
+   &#9733 428, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -276,7 +276,7 @@
   </a>
   - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
   <sup>
-   &#9733 10820, pushed 6 days ago
+   &#9733 10820, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -291,7 +291,7 @@
   </a>
   - One of the original implementations. Long stack traces and other goodies.
   <sup>
-   &#9733 11547, pushed 20 days ago
+   &#9733 11547, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +312,7 @@
   </code>
   additions.
   <sup>
-   &#9733 1116, pushed 54 days ago
+   &#9733 1116, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -321,7 +321,7 @@
   </a>
   - Packed with control flow, functional, and utility methods.
   <sup>
-   &#9733 2925, pushed 5 days ago
+   &#9733 2925, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -345,7 +345,7 @@
   </code>
   . Great for node library authors.
   <sup>
-   &#9733 69, pushed 23 days ago
+   &#9733 69, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -354,7 +354,7 @@
   </a>
   - Loads the first available implementation. Safe for browserify.
   <sup>
-   &#9733 50, pushed 1 days ago
+   &#9733 50, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -375,7 +375,7 @@
   </a>
   - Promisify ("denodify") a callback-style function.
   <sup>
-   &#9733 162, pushed 16 days ago
+   &#9733 162, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +388,7 @@
   </code>
   . Execute one after the other sequentially.
   <sup>
-   &#9733 10, pushed 211 days ago
+   &#9733 10, pushed 336 days ago
   </sup>
  </li>
  <li>
@@ -401,7 +401,7 @@
   </code>
   . Filter an array to a promise.
   <sup>
-   &#9733 6, pushed 298 days ago
+   &#9733 6, pushed 422 days ago
   </sup>
  </li>
  <li>
@@ -414,7 +414,7 @@
   </code>
   . Execute a handler unconditionally after others have been handled.
   <sup>
-   &#9733 2, pushed 91 days ago
+   &#9733 2, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -427,7 +427,7 @@
   </code>
   . Map an array to a promise.
   <sup>
-   &#9733 7, pushed 298 days ago
+   &#9733 7, pushed 422 days ago
   </sup>
  </li>
  <li>
@@ -440,7 +440,7 @@
   </code>
   . Turn a synchronously-returning method into a promise-returning one.
   <sup>
-   &#9733 1, pushed 227 days ago
+   &#9733 1, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +456,7 @@
    RSVP.hash
   </code>
   <sup>
-   &#9733 3, pushed 338 days ago
+   &#9733 3, pushed 463 days ago
   </sup>
  </li>
  <li>
@@ -469,7 +469,7 @@
   </code>
   . Reduce an array to a promise.
   <sup>
-   &#9733 6, pushed 287 days ago
+   &#9733 6, pushed 412 days ago
   </sup>
  </li>
  <li>
@@ -482,7 +482,7 @@
   </code>
   . Check if an element passes the predicate, return a promise.
   <sup>
-   &#9733 4, pushed 298 days ago
+   &#9733 4, pushed 422 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +495,7 @@
   </code>
   . Execute a synchronously-returning function and return a promise.
   <sup>
-   &#9733 2, pushed 227 days ago
+   &#9733 2, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -504,7 +504,7 @@
   </a>
   - Determine if something looks like a Promise.
   <sup>
-   &#9733 22, pushed 132 days ago
+   &#9733 22, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +513,7 @@
   </a>
   - Resolve when a stream ends. Optional buffering (be careful with this!)
   <sup>
-   &#9733 10, pushed 132 days ago
+   &#9733 10, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -526,7 +526,7 @@
   </code>
   .
   <sup>
-   &#9733 1492, pushed 887 days ago
+   &#9733 1492, pushed 1012 days ago
   </sup>
  </li>
  <li>
@@ -543,7 +543,7 @@
   </code>
   , but supports thunks too.
   <sup>
-   &#9733 5252, pushed 6 days ago
+   &#9733 5252, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -562,7 +562,7 @@
   </code>
   .
   <sup>
-   &#9733 37, pushed 26 days ago
+   &#9733 37, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -571,7 +571,7 @@
   </a>
   - Delay a promise a specified amount of time.
   <sup>
-   &#9733 82, pushed 124 days ago
+   &#9733 82, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -580,7 +580,7 @@
   </a>
   - Calls a function repeatedly if and while a condition returns true and then resolves the promise.
   <sup>
-   &#9733 15, pushed 26 days ago
+   &#9733 15, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -589,7 +589,7 @@
   </a>
   - Make unhandled promise rejections fail loudly instead of the default silent fail.
   <sup>
-   &#9733 89, pushed 25 days ago
+   &#9733 89, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -598,7 +598,7 @@
   </a>
   - Calls a function repeatedly if a condition returns false and until the condition returns true and then resolves the promise.
   <sup>
-   &#9733 0, pushed 160 days ago
+   &#9733 0, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -607,7 +607,7 @@
   </a>
   - Calls a function repeatedly until a condition returns true and then resolves the promise.
   <sup>
-   &#9733 0, pushed 160 days ago
+   &#9733 0, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +616,7 @@
   </a>
   - Calls a function repeatedly while a condition returns true and then resolves the promise.
   <sup>
-   &#9733 0, pushed 160 days ago
+   &#9733 0, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -625,7 +625,7 @@
   </a>
   - Push a set of work to be done in a configurable serial fashion
   <sup>
-   &#9733 22, pushed 72 days ago
+   &#9733 22, pushed 197 days ago
   </sup>
  </li>
 </ul>

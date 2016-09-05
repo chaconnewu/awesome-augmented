@@ -35,6 +35,18 @@
  </a>
 </p>
 <p>
+ :calendar:
+ <a href="#events">
+  Events
+ </a>
+</p>
+<p>
+ :couple:
+ <a href="#people">
+  People
+ </a>
+</p>
+<p>
  :movie_camera:
  <a href="#talks">
   Talks
@@ -90,6 +102,11 @@
   </a>
  </li>
  <li>
+  <a href="#extensions">
+   Extensions
+  </a>
+ </li>
+ <li>
   <a href="#image-optimizers">
    Image Optimizers
   </a>
@@ -140,13 +157,13 @@
   </a>
  </li>
  <li>
-  <a href="#webserver-benchmarks">
-   Webserver Benchmarks
+  <a href="#web-server-benchmarks">
+   Web server Benchmarks
   </a>
  </li>
  <li>
-  <a href="#webserver-modules">
-   Webserver Modules
+  <a href="#web-server-modules">
+   Web server Modules
   </a>
  </li>
  <li>
@@ -157,11 +174,6 @@
  <li>
   <a href="#stats">
    Stats
-  </a>
- </li>
- <li>
-  <a href="#web-performance-meetup-groups">
-   Web Performance Meetup Groups
   </a>
  </li>
  <li>
@@ -180,7 +192,7 @@
 </h2>
 <blockquote>
  <p>
-  For a better categorization of the articles, they were categorized into
+  Go to
   <a href="ARTICLES.md">
    ARTICLES.md
   </a>
@@ -192,7 +204,7 @@
 </h2>
 <blockquote>
  <p>
-  For a better categorization of the Blogs, they were categorized into
+  Go to
   <a href="BLOGS.md">
    BLOGS
   </a>
@@ -209,10 +221,22 @@
 </blockquote>
 <ul>
  <li>
+  <a href="https://www.manning.com/books/web-performance-in-action">
+   Web Performance in Action by Jeremy Wagner
+  </a>
+  - Jeremy L. Wagner
+ </li>
+ <li>
   <a href="http://www.bookofspeed.com/">
    Book of Speed
   </a>
   - Stoyan Stefanov
+ </li>
+ <li>
+  <a href="http://designingforperformance.com/">
+   Designing for Performance: Weighing Aesthetics and Speed
+  </a>
+  - Lara Callender Hogan
  </li>
  <li>
   <a href="http://shop.oreilly.com/product/9780596522315.do">
@@ -243,6 +267,24 @@
    High Performance Web Sites: Essential Knowledge for Front-End Engineers
   </a>
   - Steve Souders
+ </li>
+ <li>
+  <a href="http://shop.oreilly.com/product/0636920033103.do">
+   High Performance Responsive Design: Building Faster Sites Across Devices
+  </a>
+  – Tom Barker
+ </li>
+ <li>
+  <a href="https://www.sitepoint.com/premium/books/lean-websites">
+   Lean Websites
+  </a>
+  – Barbara Bermes
+ </li>
+ <li>
+  <a href="http://shop.oreilly.com/product/0636920041450.do">
+   Time Is Money: The Business Value of Web Performance
+  </a>
+  – Tammy Everts
  </li>
  <li>
   <a href="http://shop.oreilly.com/product/0636920033592.do">
@@ -316,6 +358,272 @@
  </li>
 </ul>
 <h2>
+ People
+</h2>
+<blockquote>
+ <p>
+  Go to
+  <a href="PEOPLE.md">
+   PEOPLE.md
+  </a>
+  .
+ </p>
+</blockquote>
+<h2>
+ Events
+</h2>
+<blockquote>
+ <p>
+  Because community matters!
+ </p>
+</blockquote>
+<h3>
+ Conferences
+</h3>
+<ul>
+ <li>
+  <a href="https://events.google.com/io2016/">
+   Google I/O
+  </a>
+  – Google I/O brings together developers for an immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.
+ </li>
+ <li>
+  <a href="https://fromthefront.it/">
+   From the Front
+  </a>
+  – The frontend guide to life, universe and everything is going to be an inspiring, formative, cutting edge gathering of some of the best frontend developers and UX people in the world.
+ </li>
+ <li>
+  <a href="http://smashingconf.com/">
+   SmashingConf
+  </a>
+  – Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away.
+ </li>
+ <li>
+  <a href="http://conferences.oreilly.com/velocity">
+   Velocity
+  </a>
+  – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available websites and apps.
+ </li>
+</ul>
+<h3>
+ Meetups
+</h3>
+<blockquote>
+ <p>
+  Full list on meetup.com:
+  <a href="http://web-performance.meetup.com/">
+   Web Performance Meetup Groups
+  </a>
+ </p>
+</blockquote>
+<ul>
+ <li>
+  <a href="http://www.meetup.com/Atlanta-Web-Performance-Group/">
+   Atlanta Web Performance Group
+  </a>
+  – Atlanta (GA), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Austin-Web-Performance-Group/">
+   Austin Web Performance Group
+  </a>
+  – Austin (TX), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Barcelona-Web-Performance/">
+   Barcelona Web Performance Group
+  </a>
+  – Barcelona, Spain :es:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Belgian-Web-Performance-Group/">
+   Belgium Web Performance Group
+  </a>
+  – Brussels, Belgium
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Berlin-Web-Performance-Group/">
+   Berlin Web Performance Group
+  </a>
+  – Berlin, Germany :de:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Web-Performance-Boston/">
+   Boston Web Performance Group
+  </a>
+  – Boston (MA), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/bristolwebperf/">
+   Bristol Web Performance Group
+  </a>
+  – Bristol, UK :gb:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Chicago-Web-Performance-Meetup/">
+   Chicago Web Performance Meetup
+  </a>
+  – Chicago (IL), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/cologne-germany-high-performance-website-optimization-group/">
+   Cologne Web Performance Group
+  </a>
+  – Cologne, Germany :de:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Dutch-Web-Operations-Meetup/">
+   Dutch Web Performance & Operations Meetup
+  </a>
+  – Nederland :nl:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Hamburg-Web-Performance-Group/">
+   Hamburg Web Performance Group
+  </a>
+  – Hamburg, Germany :de:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/IndyWebPerf/">
+   Indianapolis Web Performance Group
+  </a>
+  – Carmel (IN), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/wpo-il/">
+   Israel Web Performance Group
+  </a>
+  – Herzliya, Israel
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Karlsruhe-Web-Performance-Group/">
+   Karlsruhe Web Performance Group
+  </a>
+  – Karlsruhe, Germany :de:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/London-Web-Performance-Group/">
+   London Web Performance Group
+  </a>
+  – London, UK :gb:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Luxemburg-Web-Performance-Meetup/">
+   Luxemburg Web Performance Meetup
+  </a>
+  – Bruxelles, Belgium
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Manchester-Web-Performance-Group/">
+   Manchester Web Performance Group
+  </a>
+  – Manchester, UK :gb:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/">
+   Minneapolis Web Performance Group
+  </a>
+  – Minneapolis (MN), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/">
+   Melbourne Web Performance & Security Meetup
+  </a>
+  – Melbourne, Australia
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Munchen-Web-Performance-Group/">
+   Munich Web Performance Group
+  </a>
+  – Munich, Germany :de:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Web-Performance-NY/">
+   New York Web Performance Group
+  </a>
+  – New York (NY), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Web-Performance-SanDiego/">
+   San Diego Web Performance Group
+  </a>
+  – San Diego (CA), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/SF-Web-Performance-Group/">
+   San Francisco & Silicon Valley Web Performance Group
+  </a>
+  – San Francisco, US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Santa-Cruz-Web-Performance-Meetup/">
+   Santa Cruz Web Performance Meetup
+  </a>
+  – Santa Cruz (CA), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Web-Performance-SP/">
+   São Paulo Web Performance Group
+  </a>
+  – São Paulo, Brazil
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Seattle-Web-Performance-Group/">
+   Seattle Web Performance Group
+  </a>
+  – Seattle (WA), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/South-Florida-Web-Performance-Group/">
+   South Florida Web Performance Group
+  </a>
+  – Fort Lauderdale (FL), US :us:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Stockholm-Web-Performance-Group/">
+   Stockholm Web Performance Group
+  </a>
+  – Stockholm, Sweden
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Sydney-Web-Performance-Security-Meetup/">
+   Sydney Web Performance & Security Meetup
+  </a>
+  – Sydney, Australia
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Toronto-Web-Performance-Group/">
+   Toronto Web Performance Group
+  </a>
+  – Toronto, Canada
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Turin-Web-Performance-Group/">
+   Turin Web Performance Group
+  </a>
+  – Turin, Italy :it:
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Vancouver-Web-Performance/">
+   Vancouver Web Performance Group
+  </a>
+  – Vancouver, Canada
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Vienna-Web-Performance-Group/">
+   Vienna Web Performance Group
+  </a>
+  – Vienna, Austria
+ </li>
+ <li>
+  <a href="http://www.meetup.com/Warsaw-Web-Performance-Group/?chapter_analytics_code=UA-61243294-4">
+   Warsaw Web Performance Group
+  </a>
+  – Warsaw, Poland
+ </li>
+</ul>
+<h2>
  Talks
 </h2>
 <blockquote>
@@ -340,7 +648,7 @@
   </a>
   - Uses PhantomJS to headlessly analyze web pages and generate manifests.
   <sup>
-   &#9733 790, pushed 25 days ago
+   &#9733 790, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -355,7 +663,7 @@
   </a>
   - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
   <sup>
-   &#9733 1695, pushed 210 days ago
+   &#9733 1695, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -374,7 +682,7 @@
   </a>
   )
   <sup>
-   &#9733 34, pushed 72 days ago
+   &#9733 34, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -383,7 +691,7 @@
   </a>
   - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
   <sup>
-   &#9733 91, pushed 72 days ago
+   &#9733 91, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -396,7 +704,7 @@
   </a>
   ).
   <sup>
-   &#9733 749, pushed 72 days ago
+   &#9733 749, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -405,7 +713,7 @@
   </a>
   - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
   <sup>
-   &#9733 2199, pushed 9 days ago
+   &#9733 2199, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -420,7 +728,7 @@
   </a>
   - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
   <sup>
-   &#9733 839, pushed 3 days ago
+   &#9733 839, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -453,7 +761,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
   <sup>
-   &#9733 6, pushed 74 days ago
+   &#9733 6, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -462,7 +770,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - PageSpeed Insights for Node - with reporting.
   <sup>
-   &#9733 2125, pushed 25 days ago
+   &#9733 2125, pushed 150 days ago
   </sup>
  </li>
 </ul>
@@ -476,7 +784,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
   <sup>
-   &#9733 567, pushed 306 days ago
+   &#9733 567, pushed 431 days ago
   </sup>
  </li>
 </ul>
@@ -507,7 +815,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
   <sup>
-   &#9733 149, pushed 2076 days ago
+   &#9733 149, pushed 2201 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +824,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
   <sup>
-   &#9733 343, pushed 7 days ago
+   &#9733 343, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -525,7 +833,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
   <sup>
-   &#9733 1045, pushed 65 days ago
+   &#9733 1045, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -534,7 +842,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - This class provides a simple info box that will help you monitor your code performance.
   <sup>
-   &#9733 3060, pushed 13 days ago
+   &#9733 3060, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -543,7 +851,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Performance tests of JavaScript inheritance models.
   <sup>
-   &#9733 1, pushed 367 days ago
+   &#9733 1, pushed 492 days ago
   </sup>
  </li>
  <li>
@@ -552,7 +860,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - minimal monitor for JS Heap Size via performance memory.
   <sup>
-   &#9733 1825, pushed 305 days ago
+   &#9733 1825, pushed 430 days ago
   </sup>
  </li>
 </ul>
@@ -566,7 +874,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
   <sup>
-   &#9733 34, pushed 20 days ago
+   &#9733 34, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -575,7 +883,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
   <sup>
-   &#9733 7, pushed 457 days ago
+   &#9733 7, pushed 581 days ago
   </sup>
  </li>
 </ul>
@@ -605,7 +913,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
   <sup>
-   &#9733 3751, pushed 560 days ago
+   &#9733 3751, pushed 685 days ago
   </sup>
  </li>
  <li>
@@ -614,7 +922,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
   <sup>
-   &#9733 543, pushed 886 days ago
+   &#9733 543, pushed 1011 days ago
   </sup>
  </li>
  <li>
@@ -637,7 +945,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   under the name Performance-Analyser.
   <sup>
-   &#9733 546, pushed 149 days ago
+   &#9733 546, pushed 274 days ago
   </sup>
  </li>
 </ul>
@@ -658,9 +966,9 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/jsdelivr/jsdelivr">
    jsDelivr
   </a>
-  - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+  - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites.
   <sup>
-   &#9733 1719, pushed 2 days ago
+   &#9733 1719, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -705,7 +1013,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
   <sup>
-   &#9733 90, pushed 197 days ago
+   &#9733 90, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -726,14 +1034,14 @@ It covers resources and code analysis as well as content and social audit.
   <a href="http://jscdn.upai.com/">
    UpYun CDN
   </a>
-  - CDN provide by upyun.
+  - CDN provided by upyun.
  </li>
  <li>
   :cn:
   <a href="http://lib.sinaapp.com/">
    Sina Public Resources
   </a>
-  - CDN provide by sinaapp.com.
+  - CDN provided by sinaapp.com.
  </li>
  <li>
   :cn:
@@ -780,7 +1088,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Prepends asset urls with custom CDN urls.
   <sup>
-   &#9733 16, pushed 15 days ago
+   &#9733 16, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -789,8 +1097,19 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Replaces script references with Google CDN ones.
   <sup>
-   &#9733 65, pushed 171 days ago
+   &#9733 65, pushed 296 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Extensions
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/zenorocha/browser-calories-chrome">
+   Browser Calories
+  </a>
+  - The easiest way to measure your performance budget.
  </li>
 </ul>
 <h2>
@@ -808,7 +1127,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
   <sup>
-   &#9733 94, pushed 37 days ago
+   &#9733 94, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -817,7 +1136,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
   <sup>
-   &#9733 11, pushed 37 days ago
+   &#9733 11, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -832,7 +1151,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Minify images seamlessly with Node.js.
   <sup>
-   &#9733 733, pushed 4 days ago
+   &#9733 733, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -841,7 +1160,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
   <sup>
-   &#9733 3154, pushed 2 days ago
+   &#9733 3154, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -850,7 +1169,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - GraphicsMagick and ImageMagick for node.
   <sup>
-   &#9733 3160, pushed 6 days ago
+   &#9733 3160, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -859,7 +1178,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Pure elixir library to extract tiff and exif metadata from jpeg files.
   <sup>
-   &#9733 3654, pushed 2 days ago
+   &#9733 3654, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -874,7 +1193,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Minify PNG and JPEG images for Grunt.
   <sup>
-   &#9733 1091, pushed 25 days ago
+   &#9733 1091, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +1202,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
   <sup>
-   &#9733 764, pushed 2 days ago
+   &#9733 764, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -892,7 +1211,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Convert your images to WebP format.
   <sup>
-   &#9733 111, pushed 72 days ago
+   &#9733 111, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -901,7 +1220,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Convert images to WebP for Gulp.
   <sup>
-   &#9733 63, pushed 25 days ago
+   &#9733 63, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -916,7 +1235,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
   <sup>
-   &#9733 484, pushed 67 days ago
+   &#9733 484, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -925,7 +1244,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
   <sup>
-   &#9733 1960, pushed 83 days ago
+   &#9733 1960, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -952,7 +1271,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Improved JPEG encoder.
   <sup>
-   &#9733 1949, pushed 37 days ago
+   &#9733 1949, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -961,7 +1280,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Utility to optimize/compress JPEG files.
   <sup>
-   &#9733 390, pushed 40 days ago
+   &#9733 390, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -970,7 +1289,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A command line program to optimize PNG images.
   <sup>
-   &#9733 961, pushed 2 days ago
+   &#9733 961, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -985,7 +1304,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Lightweight lossless file minifier/optimizer.
   <sup>
-   &#9733 260, pushed 9 days ago
+   &#9733 260, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -993,6 +1312,12 @@ It covers resources and code analysis as well as content and social audit.
    Trimage
   </a>
   - A cross-platform tool for losslessly optimizing PNG and JPG files.
+ </li>
+ <li>
+  <a href="https://web.wurfl.io/#image-engine">
+   ImageEngine
+  </a>
+  - Cloud service for optimizing, resizing and cacheing images on the fly with great mobile support.
  </li>
 </ul>
 <h2>
@@ -1005,7 +1330,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
   <sup>
-   &#9733 787, pushed 34 days ago
+   &#9733 787, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -1019,7 +1344,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
   <sup>
-   &#9733 3949, pushed 312 days ago
+   &#9733 3949, pushed 437 days ago
   </sup>
  </li>
  <li>
@@ -1040,7 +1365,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Async Everything: Make the meat of your pages load faster with this JS morsel.
   <sup>
-   &#9733 63, pushed 1123 days ago
+   &#9733 63, pushed 1248 days ago
   </sup>
  </li>
  <li>
@@ -1049,7 +1374,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - InstantClick makes following links in your website instant.
   <sup>
-   &#9733 4054, pushed 45 days ago
+   &#9733 4054, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -1058,7 +1383,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A JIT (Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins.
   <sup>
-   &#9733 465, pushed 70 days ago
+   &#9733 465, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -1072,7 +1397,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - PhantomJS-based web performance metrics collector and monitoring tool.
   <sup>
-   &#9733 1639, pushed 26 days ago
+   &#9733 1639, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1087,7 +1412,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
   <sup>
-   &#9733 24, pushed 226 days ago
+   &#9733 24, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -1096,7 +1421,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Tool to monitor indicators related to performance of a web page.
   <sup>
-   &#9733 80, pushed 62 days ago
+   &#9733 80, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -1121,9 +1446,9 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/pitomba/libra">
    Libra
   </a>
-  - Libra is a service to measure the weight along the time, written in Python.
+  - Libra is a service to measure the weight at the time, written in Python.
   <sup>
-   &#9733 2, pushed 868 days ago
+   &#9733 2, pushed 993 days ago
   </sup>
  </li>
  <li>
@@ -1144,7 +1469,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Grunt plugin wrapping phantomas to measure frontend performance.
   <sup>
-   &#9733 282, pushed 71 days ago
+   &#9733 282, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1192,7 +1517,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool.
   <sup>
-   &#9733 803, pushed 99 days ago
+   &#9733 803, pushed 224 days ago
   </sup>
  </li>
 </ul>
@@ -1212,7 +1537,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
   <sup>
-   &#9733 266, pushed 16 days ago
+   &#9733 266, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1221,7 +1546,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
   <sup>
-   &#9733 1505, pushed 2 days ago
+   &#9733 1505, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1230,7 +1555,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A grunt plugin to minify HTML that uses HTMLMinifier.
   <sup>
-   &#9733 385, pushed 14 days ago
+   &#9733 385, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1239,7 +1564,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A gulp plugin to minify HTML that uses HTMLMinifier.
   <sup>
-   &#9733 280, pushed 3 days ago
+   &#9733 280, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1248,7 +1573,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Grunt plugin for html compression, using htmlcompressor.
   <sup>
-   &#9733 34, pushed 869 days ago
+   &#9733 34, pushed 994 days ago
   </sup>
  </li>
  <li>
@@ -1257,7 +1582,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Ruby wrapper for kangax html-minifier.
   <sup>
-   &#9733 5, pushed 1241 days ago
+   &#9733 5, pushed 1366 days ago
   </sup>
  </li>
  <li>
@@ -1266,7 +1591,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
   <sup>
-   &#9733 31, pushed 20 days ago
+   &#9733 31, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1600,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
   <sup>
-   &#9733 16, pushed 98 days ago
+   &#9733 16, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -1290,7 +1615,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
   <sup>
-   &#9733 111, pushed 113 days ago
+   &#9733 111, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -1299,7 +1624,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views
   <sup>
-   &#9733 44, pushed 14 days ago
+   &#9733 44, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -1313,7 +1638,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
   <sup>
-   &#9733 2148, pushed 8 days ago
+   &#9733 2148, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1322,7 +1647,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript.
   <sup>
-   &#9733 4720, pushed 2 days ago
+   &#9733 4720, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1331,7 +1656,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
   <sup>
-   &#9733 1516, pushed 23 days ago
+   &#9733 1516, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1346,7 +1671,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A Grunt plugin to concatenate files.
   <sup>
-   &#9733 722, pushed 13 days ago
+   &#9733 722, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1355,7 +1680,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A Grunt plugin to concatenate and minify Javascript files.
   <sup>
-   &#9733 1218, pushed 24 days ago
+   &#9733 1218, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1364,7 +1689,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A fast, efficient, and well tested CSS minifier for node.js.
   <sup>
-   &#9733 1847, pushed 3 days ago
+   &#9733 1847, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1373,7 +1698,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Compresses linked and inline javascript or CSS into a single cached file.
   <sup>
-   &#9733 1663, pushed 3 days ago
+   &#9733 1663, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1388,7 +1713,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
   <sup>
-   &#9733 405, pushed 258 days ago
+   &#9733 405, pushed 382 days ago
   </sup>
  </li>
  <li>
@@ -1403,7 +1728,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
   <sup>
-   &#9733 1059, pushed 666 days ago
+   &#9733 1059, pushed 791 days ago
   </sup>
  </li>
  <li>
@@ -1412,7 +1737,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - This is just a grunt wrapper for CSS Shrink.
   <sup>
-   &#9733 28, pushed 73 days ago
+   &#9733 28, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1421,7 +1746,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Shrinks CSS files using cssshrink for Gulp.
   <sup>
-   &#9733 23, pushed 46 days ago
+   &#9733 23, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1430,7 +1755,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
   <sup>
-   &#9733 7, pushed 679 days ago
+   &#9733 7, pushed 803 days ago
   </sup>
  </li>
  <li>
@@ -1439,7 +1764,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - CSS Minifier for Grunt.
   <sup>
-   &#9733 701, pushed 4 days ago
+   &#9733 701, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1448,7 +1773,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - CSS Minifier for Gulp.
   <sup>
-   &#9733 40, pushed 375 days ago
+   &#9733 40, pushed 499 days ago
   </sup>
  </li>
  <li>
@@ -1457,7 +1782,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A grunt task for removing unused CSS from your projects.
   <sup>
-   &#9733 3793, pushed 6 days ago
+   &#9733 3793, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1466,7 +1791,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A gulp task for removing unused CSS from your projects.
   <sup>
-   &#9733 687, pushed 47 days ago
+   &#9733 687, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -1486,7 +1811,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS.
   <sup>
-   &#9733 1557, pushed 2 days ago
+   &#9733 1557, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1495,7 +1820,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
   <sup>
-   &#9733 355, pushed 99 days ago
+   &#9733 355, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -1504,7 +1829,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Extract & Inline Critical-path CSS in HTML pages (alpha).
   <sup>
-   &#9733 3120, pushed 13 days ago
+   &#9733 3120, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1513,7 +1838,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
   <sup>
-   &#9733 12, pushed 90 days ago
+   &#9733 12, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -1528,7 +1853,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
   <sup>
-   &#9733 4552, pushed 2 days ago
+   &#9733 4552, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1543,7 +1868,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - TMI (Too Many Images) - discover your image weight on the web.
   <sup>
-   &#9733 1653, pushed 317 days ago
+   &#9733 1653, pushed 442 days ago
   </sup>
  </li>
 </ul>
@@ -1557,7 +1882,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Glue is a simple command line tool to generate sprites:
   <sup>
-   &#9733 2477, pushed 2 days ago
+   &#9733 2477, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1566,7 +1891,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
   <sup>
-   &#9733 19, pushed 571 days ago
+   &#9733 19, pushed 696 days ago
   </sup>
  </li>
  <li>
@@ -1575,7 +1900,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
   <sup>
-   &#9733 1096, pushed 45 days ago
+   &#9733 1096, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -1594,9 +1919,9 @@ It covers resources and code analysis as well as content and social audit.
   <a href="https://github.com/aslansky/gulp-sprite">
    Gulp-sprite
   </a>
-  - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
+  - gulp task for creating an image sprite and the corresponding stylesheets for Gulp.
   <sup>
-   &#9733 13, pushed 165 days ago
+   &#9733 13, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -1605,7 +1930,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - gulp task for creating svg sprites.
   <sup>
-   &#9733 202, pushed 327 days ago
+   &#9733 202, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -1614,7 +1939,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Optimizes and renders SVG files in css / sass sprites.
   <sup>
-   &#9733 1, pushed 46 days ago
+   &#9733 1, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1623,7 +1948,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
   <sup>
-   &#9733 31, pushed 2 days ago
+   &#9733 31, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1656,7 +1981,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
   <sup>
-   &#9733 214, pushed 2 days ago
+   &#9733 214, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1670,7 +1995,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
   <sup>
-   &#9733 4563, pushed 2 days ago
+   &#9733 4563, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1685,7 +2010,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Minify SVG using SVGO for Grunt.
   <sup>
-   &#9733 424, pushed 25 days ago
+   &#9733 424, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1706,7 +2031,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
   <sup>
-   &#9733 202, pushed 9 days ago
+   &#9733 202, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1720,7 +2045,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
   <sup>
-   &#9733 1035, pushed 12 days ago
+   &#9733 1035, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1729,7 +2054,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Grunt task for Polymer's Vulcanize.
   <sup>
-   &#9733 56, pushed 249 days ago
+   &#9733 56, pushed 373 days ago
   </sup>
  </li>
  <li>
@@ -1738,12 +2063,12 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Concatenate a set of Web Components into one file that use Vulcanize.
   <sup>
-   &#9733 101, pushed 47 days ago
+   &#9733 101, pushed 172 days ago
   </sup>
  </li>
 </ul>
 <h2>
- Webserver Benchmarks
+ Web server Benchmarks
 </h2>
 <ul>
  <li>
@@ -1752,7 +2077,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
   <sup>
-   &#9733 218, pushed 33 days ago
+   &#9733 218, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1773,7 +2098,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single end point, or through log replay.
   <sup>
-   &#9733 182, pushed 566 days ago
+   &#9733 182, pushed 691 days ago
   </sup>
  </li>
  <li>
@@ -1782,7 +2107,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Simple Ruby interface for httperf, written in Ruby.
   <sup>
-   &#9733 14, pushed 414 days ago
+   &#9733 14, pushed 538 days ago
   </sup>
  </li>
  <li>
@@ -1791,7 +2116,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - PHP Port of HTTPerf.rb.
   <sup>
-   &#9733 5, pushed 736 days ago
+   &#9733 5, pushed 861 days ago
   </sup>
  </li>
  <li>
@@ -1800,7 +2125,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - JS Port of HTTPerf.rb.
   <sup>
-   &#9733 23, pushed 796 days ago
+   &#9733 23, pushed 920 days ago
   </sup>
  </li>
  <li>
@@ -1809,7 +2134,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Python Port of HTTPerf.rb.
   <sup>
-   &#9733 9, pushed 503 days ago
+   &#9733 9, pushed 628 days ago
   </sup>
  </li>
  <li>
@@ -1818,7 +2143,7 @@ It covers resources and code analysis as well as content and social audit.
   </a>
   - Go Port of HTTPerf.rb.
   <sup>
-   &#9733 5, pushed 297 days ago
+   &#9733 5, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -1828,7 +2153,7 @@ It covers resources and code analysis as well as content and social audit.
   - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
 processing, and custom reporting)
   <sup>
-   &#9733 8200, pushed 18 days ago
+   &#9733 8200, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1837,19 +2162,19 @@ processing, and custom reporting)
   </a>
   - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
   <sup>
-   &#9733 3139, pushed 3 days ago
+   &#9733 3139, pushed 128 days ago
   </sup>
  </li>
 </ul>
 <h2>
- Webserver Modules
+ Web server Modules
 </h2>
 <ul>
  <li>
   <a href="https://developers.google.com/speed/pagespeed/module/download">
    PageSpeed Module
   </a>
-  - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
+  - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
  </li>
  <li>
   <a href="https://github.com/igrigorik/webp-detect">
@@ -1857,7 +2182,7 @@ processing, and custom reporting)
   </a>
   - WebP with Accept negotiation.
   <sup>
-   &#9733 136, pushed 516 days ago
+   &#9733 136, pushed 640 days ago
   </sup>
  </li>
 </ul>
@@ -1930,17 +2255,6 @@ processing, and custom reporting)
  </li>
 </ul>
 <h1>
- Web Performance Meetup Groups
-</h1>
-<ul>
- <li>
-  <a href="http://web-performance.meetup.com/">
-   Web Performance Meetup Groups
-  </a>
-  - Full list on www.meetup.com.
- </li>
-</ul>
-<h1>
  Other Awesome Lists
 </h1>
 <ul>
@@ -1950,7 +2264,7 @@ processing, and custom reporting)
   </a>
   .
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1959,7 +2273,7 @@ processing, and custom reporting)
   </a>
   .
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
 </ul>

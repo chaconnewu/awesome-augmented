@@ -34,6 +34,11 @@
     </a>
    </li>
    <li>
+    <a href="#caching">
+     Caching
+    </a>
+   </li>
+   <li>
     <a href="#cluster-management">
      Cluster Management
     </a>
@@ -46,6 +51,11 @@
    <li>
     <a href="#code-coverage">
      Code Coverage
+    </a>
+   </li>
+   <li>
+    <a href="#code-generators">
+     Code Generators
     </a>
    </li>
    <li>
@@ -194,6 +204,11 @@
     </a>
    </li>
    <li>
+    <a href="#microservice">
+     Microservice
+    </a>
+   </li>
+   <li>
     <a href="#miscellaneous">
      Miscellaneous
     </a>
@@ -224,13 +239,23 @@
     </a>
    </li>
    <li>
-    <a href="#performance-analysis">
-     Performance analysis
+    <a href="#paas">
+     PaaS
     </a>
    </li>
    <li>
     <a href="#pdf">
      PDF
+    </a>
+   </li>
+   <li>
+    <a href="#performance-analysis">
+     Performance analysis
+    </a>
+   </li>
+   <li>
+    <a href="#platform">
+     Platform
     </a>
    </li>
    <li>
@@ -306,6 +331,11 @@
     </a>
    </li>
    <li>
+    <a href="#frontends">
+     Frontends
+    </a>
+   </li>
+   <li>
     <a href="#influential-books">
      Influential Books
     </a>
@@ -349,13 +379,28 @@
   - Build process management with XML.
  </li>
  <li>
-  <a href="https://github.com/cglib/cglib">
-   cglib
+  <a href="http://hadoop.apache.org/">
+   Apache Hadoop
   </a>
-  - Bytecode generation library.
-  <sup>
-   &#9733 641, pushed 22 days ago
-  </sup>
+  - Storage and large-scale processing of data-sets on clusters of commodity hardware.
+ </li>
+ <li>
+  <a href="https://opennlp.apache.org/">
+   Apache OpenNLP
+  </a>
+  - Toolkit for common tasks like tokenization.
+ </li>
+ <li>
+  <a href="http://velocity.apache.org/">
+   Apache Velocity
+  </a>
+  - Templates for HTML pages, emails or source code generation in general.
+ </li>
+ <li>
+  <a href="http://freemarker.org/">
+   FreeMarker
+  </a>
+  - General templating engine without any heavyweight or opinionated dependencies.
  </li>
  <li>
   <a href="https://glassfish.java.net/">
@@ -364,10 +409,34 @@
   - Application server and reference implementation for Java EE sponsored by Oracle.
  </li>
  <li>
+  <a href="http://www.gwtproject.org/">
+   GWT
+  </a>
+  - Toolbox which includes a Java-to-JavaScript compiler for client-side code, XML parser, API for RPC, JUnit integration, internationalization support and widgets for the GUI.
+ </li>
+ <li>
+  <a href="http://hornetq.jboss.org/">
+   HornetQ
+  </a>
+  - Clear, concise, modular and made to be embedded.
+ </li>
+ <li>
   <a href="http://hudson-ci.org/">
    Hudson
   </a>
   - Continuous integration server still in active development.
+ </li>
+ <li>
+  <a href="http://www.eecs.ucf.edu/~leavens/JML/">
+   Java Modeling Language (JML)
+  </a>
+  - Behavioral interface specification language that can be used to specify the behavior of code modules. It combines the design by contract approach of Eiffel and the model-based specification approach of the Larch family of interface specification languages, with some elements of the refinement calculus. Used by several other verification tools.
+ </li>
+ <li>
+  <a href="https://javacc.java.net/">
+   JavaCC
+  </a>
+  - More specific and slightly easier to learn. Has syntactic lookahead.
  </li>
  <li>
   <a href="https://javaserverfaces.java.net/">
@@ -380,6 +449,36 @@
    JavaServer Pages
   </a>
   - Common templating for websites with custom tag libraries.
+ </li>
+ <li>
+  <a href="http://junit.org/">
+   JUnit
+  </a>
+  - Common testing framework.
+ </li>
+ <li>
+  <a href="http://launch4j.sourceforge.net/">
+   Launch4j
+  </a>
+  - Wraps JARs in lightweight and native Windows executables.
+ </li>
+ <li>
+  <a href="https://github.com/quartz-scheduler/quartz">
+   Quartz
+  </a>
+  - Open-source job scheduler library with Apache 2.0 license.
+ </li>
+ <li>
+  <a href="http://testng.org/">
+   TestNG
+  </a>
+  - Testing framework.
+ </li>
+ <li>
+  <a href="http://trove.starlight-systems.com/">
+   Trove
+  </a>
+  - Primitive collections.
  </li>
 </ul>
 <h2>
@@ -398,12 +497,18 @@
   - Mapper that copies data from one object to another, using annotations, API or XML configuration.
  </li>
  <li>
+  <a href="http://jmapper-framework.github.io/jmapper-core/">
+   JMapper
+  </a>
+  - Using byte code manipulation for lightning fast mapping. Supporting annotations, API or XML configuration.
+ </li>
+ <li>
   <a href="https://github.com/mapstruct/mapstruct">
    MapStruct
   </a>
   - Code generator which simplifies mappings between different bean types, based on a convention over configuration approach.
   <sup>
-   &#9733 350, pushed 21 days ago
+   &#9733 350, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -412,11 +517,11 @@
   </a>
   - ModelMapper is an intelligent object mapping library that automatically maps objects to each other.
   <sup>
-   &#9733 348, pushed 7 days ago
+   &#9733 348, pushed 131 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/orika-mapper">
+  <a href="https://github.com/orika-mapper/orika">
    Orika
   </a>
   - Orika is a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another.
@@ -427,7 +532,7 @@
   </a>
   - Stupid Simple Statically Linked Mapper. Selma is an Annotation Processor Based bean mapper.
   <sup>
-   &#9733 41, pushed 14 days ago
+   &#9733 41, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -487,10 +592,44 @@
   - Manipulate bytecode at runtime via DSL (rules) mainly for testing/troubleshooting.
  </li>
  <li>
+  <a href="https://github.com/cglib/cglib">
+   cglib
+  </a>
+  - Bytecode generation library.
+  <sup>
+   &#9733 641, pushed 147 days ago
+  </sup>
+ </li>
+ <li>
   <a href="http://jboss-javassist.github.io/javassist/">
    Javassist
   </a>
   - Tries to simplify the editing of bytecode.
+ </li>
+</ul>
+<h2>
+ Caching
+</h2>
+<p>
+ <em>
+  Libraries which provide caching facilities.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/ben-manes/caffeine">
+   Caffeine
+  </a>
+  - High performance, near optimal caching library.
+  <sup>
+   &#9733 1295, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.ehcache.org/">
+   Ehcache
+  </a>
+  - Distributed general purpose cache.
  </li>
 </ul>
 <h2>
@@ -507,6 +646,12 @@
    Apache Aurora
   </a>
   - Apache Aurora is a Mesos framework for long-running services and cron jobs.
+ </li>
+ <li>
+  <a href="http://mesos.apache.org/">
+   Apache Mesos
+  </a>
+  -  Abstracts CPU, memory, storage, and other compute resources away from machines.
  </li>
  <li>
   <a href="http://getsingularity.com/">
@@ -530,7 +675,7 @@
   </a>
   - Static analysis of coding conventions and standards.
   <sup>
-   &#9733 1037, pushed 1 days ago
+   &#9733 1037, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -545,7 +690,7 @@
   </a>
   - Catches common programming mistakes as compile-time errors.
   <sup>
-   &#9733 917, pushed 6 days ago
+   &#9733 917, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -566,7 +711,7 @@
   </a>
   - Source code analysis for finding bad coding practices.
   <sup>
-   &#9733 487, pushed 1 days ago
+   &#9733 487, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -603,11 +748,60 @@
   </a>
   - Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation; prominently used by EclEmma, the Eclipse code-coverage plugin.
  </li>
+</ul>
+<h2>
+ Code Generators
+</h2>
+<p>
+ <em>
+  Tools that generate patterns for repetitive code in order to reduce verbosity and error-proneness.
+ </em>
+</p>
+<ul>
  <li>
-  <a href="https://wiki.openjdk.java.net/display/CodeTools/jcov">
-   JCov
+  <a href="https://github.com/sviperll/adt4j">
+   ADT4J
   </a>
-  - Code coverage tool used in the OpenJDK project's development toolchain.
+  - JSR-269 code generator for algebraic data types.
+  <sup>
+   &#9733 71, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/google/auto">
+   Auto
+  </a>
+  - Generates factory, service, and value classes.
+  <sup>
+   &#9733 2749, pushed 144 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/google/FreeBuilder">
+   FreeBuilder
+  </a>
+  - Automatic generation of the Builder pattern.
+ </li>
+ <li>
+  <a href="http://immutables.github.io/">
+   Immutables
+  </a>
+  - Java annotation processors to generate simple, safe and consistent value objects.
+ </li>
+ <li>
+  <a href="https://github.com/jhipster/generator-jhipster">
+   JHipster
+  </a>
+  - Yeoman source code generator for Spring Boot and AngularJS.
+  <sup>
+   &#9733 3989, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://projectlombok.org/">
+   Lombok
+  </a>
+  - Code generator which aims to reduce verbosity.
  </li>
 </ul>
 <h2>
@@ -620,6 +814,12 @@
 </p>
 <ul>
  <li>
+  <a href="https://github.com/airlift/airline">
+   Airline
+  </a>
+  - Annotation-based framework for parsing Git like command line arguments.
+ </li>
+ <li>
   <a href="http://args4j.kohsuke.org/">
    args4j
   </a>
@@ -630,12 +830,6 @@
    JCommander
   </a>
   - Command line arguments parsing framework with custom types and validation via implementing interfaces.
- </li>
- <li>
-  <a href="http://jewelcli.lexicalscope.com/">
-   JewelCLI
-  </a>
-  - Uses annotations to automatically parse and inject the values with regex validation and Enum support.
  </li>
  <li>
   <a href="http://pholser.github.io/jopt-simple/">
@@ -660,10 +854,10 @@
   - Complex full-featured framework for top-down parsing.
  </li>
  <li>
-  <a href="https://javacc.java.net/">
-   JavaCC
+  <a href="http://jflex.de/">
+   JFlex
   </a>
-  - More specific and slightly easier to learn. Has syntactic lookahead.
+  - A lexical analyzer generator.
  </li>
 </ul>
 <h2>
@@ -681,7 +875,7 @@
   </a>
   - Configuration library for JVM languages.
   <sup>
-   &#9733 1925, pushed 27 days ago
+   &#9733 1925, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -690,7 +884,7 @@
   </a>
   - Reduces boilerplate of properties.
   <sup>
-   &#9733 356, pushed 78 days ago
+   &#9733 356, pushed 203 days ago
   </sup>
  </li>
 </ul>
@@ -721,12 +915,6 @@
   </a>
   - Business planning and resource scheduling optimization solver.
  </li>
- <li>
-  <a href="http://www.sat4j.org/">
-   Sat4J
-  </a>
-  - State-of-the-art SAT solver for boolean and optimization problems.
- </li>
 </ul>
 <h2>
  Continuous Integration
@@ -742,18 +930,6 @@
    Bamboo
   </a>
   - Atlassian's solution with good integration of their other products. You can either apply for an open-source license or buy it.
- </li>
- <li>
-  <a href="https://circleci.com/">
-   CircleCI
-  </a>
-  - Hosted service that offers a free plan for small needs. Open source projects are given a free bigger plan. Designed to integrate with GitHub.
- </li>
- <li>
-  <a href="https://codeship.com/features">
-   Codeship
-  </a>
-  - Hosted services with a limited free plan.
  </li>
  <li>
   <a href="http://fabric8.io/">
@@ -799,7 +975,7 @@
   <a href="http://opencsv.sourceforge.net">
    opencsv
   </a>
-  - Simple CSV parser with a commercial-friendly license.
+  - Simple CSV parser.
  </li>
  <li>
   <a href="http://super-csv.github.io/super-csv/">
@@ -813,7 +989,7 @@
   </a>
   - One of the fastest and most feature-complete CSV. Also comes with parsers for TSV and fixed width records.
   <sup>
-   &#9733 191, pushed 3 days ago
+   &#9733 191, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -839,10 +1015,10 @@
   - High performance relational database layer over HBase for low latency applications.
  </li>
  <li>
-  <a href="https://crate.io/">
-   Crate
+  <a href="https://github.com/OpenHFT/Chronicle-Map">
+   Chronicle Map
   </a>
-  - Distributed data store that implements data synchronization, sharding, scaling, and replication. In addition, it provides a SQL-based syntax to execute queries across a cluster.
+  - Efficient in-memory (opt. persisted to disk) off-heap key-value store.
  </li>
  <li>
   <a href="https://github.com/eXist-db/exist">
@@ -850,7 +1026,7 @@
   </a>
   - A NoSQL document database and application platform.
   <sup>
-   &#9733 124, pushed 2 days ago
+   &#9733 124, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -859,7 +1035,7 @@
   </a>
   - Brings metrics and failover strategies to the most common connection pooling solutions.
   <sup>
-   &#9733 178, pushed 120 days ago
+   &#9733 178, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +1056,7 @@
   </a>
   - High performance JDBC connection pool.
   <sup>
-   &#9733 2652, pushed 3 days ago
+   &#9733 2652, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -895,7 +1071,7 @@
   </a>
   - A small client for interaction with redis, with methods for commands.
   <sup>
-   &#9733 3576, pushed 1 days ago
+   &#9733 3576, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -922,7 +1098,7 @@
   </a>
   - Distributed SQL query engine for big data.
   <sup>
-   &#9733 4708, pushed 2 days ago
+   &#9733 4708, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -932,12 +1108,21 @@
   - Typesafe unified queries.
  </li>
  <li>
+  <a href="https://github.com/realm/realm-java">
+   Realm
+  </a>
+  - Mobile database to run directly inside phones, tablets or wearables.
+  <sup>
+   &#9733 4443, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://github.com/mrniko/redisson">
    Redisson
   </a>
   - Allows for distributed and scalable data structures on top of a Redis server.
   <sup>
-   &#9733 1135, pushed 2 days ago
+   &#9733 1135, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -946,7 +1131,7 @@
   </a>
   - A database access library that utilizes the Java 8 Stream API for querying.
   <sup>
-   &#9733 520, pushed 4 days ago
+   &#9733 520, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1001,7 +1186,7 @@
   </a>
   - Google's data interchange format.
   <sup>
-   &#9733 8709, pushed 2 days ago
+   &#9733 8709, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1010,7 +1195,7 @@
   </a>
   - Simple Binary Encoding, one of the fastest message formats around.
   <sup>
-   &#9733 806, pushed 8 days ago
+   &#9733 806, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1019,7 +1204,7 @@
   </a>
   - Clean, lightweight protocol buffers.
   <sup>
-   &#9733 1447, pushed 18 days ago
+   &#9733 1447, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -1038,7 +1223,7 @@
   </a>
   - Simple conversion between different calendar systems.
   <sup>
-   &#9733 6, pushed 69 days ago
+   &#9733 6, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -1053,7 +1238,7 @@
   </a>
   - Port of JSR 310 (java.time package) by the author of Joda-Time.
   <sup>
-   &#9733 197, pushed 8 days ago
+   &#9733 197, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1062,7 +1247,7 @@
   </a>
   - Advanced date and time library.
   <sup>
-   &#9733 76, pushed 1 days ago
+   &#9733 76, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -1097,7 +1282,7 @@
   </a>
   - Lightweight but powerful framework that completes Dagger.
   <sup>
-   &#9733 3221, pushed 57 days ago
+   &#9733 3221, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -1117,28 +1302,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/sviperll/adt4j">
-   ADT4J
-  </a>
-  - JSR-269 code generator for algebraic data types.
-  <sup>
-   &#9733 71, pushed 6 days ago
-  </sup>
- </li>
- <li>
   <a href="https://eclipse.org/aspectj/">
    AspectJ
   </a>
   - Seamless aspect-oriented programming extension.
- </li>
- <li>
-  <a href="https://github.com/google/auto">
-   Auto
-  </a>
-  - Collection of source code generators.
-  <sup>
-   &#9733 2749, pushed 19 days ago
-  </sup>
  </li>
  <li>
   <a href="http://dcevm.github.io/">
@@ -1147,40 +1314,25 @@
   - Modification of the JVM that allows unlimited redefinition of loaded classes at runtime.
  </li>
  <li>
+  <a href="https://github.com/zalando/faux-pas">
+   Faux Pas
+  </a>
+  - Library that simplifies error handling by circumventing the issue that none of the functional interfaces in the Java Runtime is allowed by default to throw checked exceptions.
+ </li>
+ <li>
   <a href="https://github.com/HotswapProjects/HotswapAgent">
    HotswapAgent
   </a>
   - Unlimited runtime class and resource redefinition.
   <sup>
-   &#9733 408, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://immutables.github.io/">
-   Immutables
-  </a>
-  - Scala-like case classes.
- </li>
- <li>
-  <a href="https://github.com/jhipster/generator-jhipster">
-   JHipster
-  </a>
-  - Yeoman source code generator to create applications based on Spring Boot and AngularJS.
-  <sup>
-   &#9733 3989, pushed 2 days ago
+   &#9733 408, pushed 131 days ago
   </sup>
  </li>
  <li>
   <a href="http://zeroturnaround.com/software/jrebel/">
-   JRebel
+   JRebel ![c]
   </a>
-  - Commercial software that instantly reloads code and configuration changes without redeploys.
- </li>
- <li>
-  <a href="https://projectlombok.org/">
-   Lombok
-  </a>
-  - Code-generator which aims to reduce the verbosity.
+  - Instantly reloads code and configuration changes without redeploys.
  </li>
  <li>
   <a href="https://github.com/spring-projects/spring-loaded">
@@ -1188,7 +1340,7 @@
   </a>
   - Class reloading agent.
   <sup>
-   &#9733 1149, pushed 22 days ago
+   &#9733 1149, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -1220,10 +1372,22 @@
   - Coordination service with distributed configuration, synchronization, and naming registry for large distributed systems.
  </li>
  <li>
+  <a href="http://atomix.io/atomix/">
+   Atomix
+  </a>
+  - Fault-tolerant distributed coordination framework.
+ </li>
+ <li>
   <a href="http://www.axonframework.org/">
    Axon Framework
   </a>
   - Framework for creating CQRS applications.
+ </li>
+ <li>
+  <a href="http://atomix.io/copycat/">
+   Copycat
+  </a>
+  - Fault-tolerant state machine replication framework.
  </li>
  <li>
   <a href="http://hazelcast.org/">
@@ -1237,7 +1401,7 @@
   </a>
   - Provides latency and fault tolerance.
   <sup>
-   &#9733 5815, pushed 1 days ago
+   &#9733 5815, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1247,13 +1411,7 @@
   - Toolkit for reliable messaging and creating clusters.
  </li>
  <li>
-  <a href="https://www.lightbend.com/lagom">
-   Lagom
-  </a>
-  - Framework for creating microservice-based systems.
- </li>
- <li>
-  <a href="http://orbit.bioware.com/">
+  <a href="http://www.orbit.cloud/">
    Orbit
   </a>
   - Virtual Actors, adding another level of abstraction to traditional actors.
@@ -1351,12 +1509,6 @@
   - Easy to use package repository for GitHub. Builds Maven/Gradle projects on demand and publishes ready-to-use packages.
  </li>
  <li>
-  <a href="http://launch4j.sourceforge.net/">
-   Launch4j
-  </a>
-  - Wraps JARs in lightweight and native Windows executables.
- </li>
- <li>
   <a href="http://www.sonatype.com/nexus/solution-overview">
    Nexus
   </a>
@@ -1367,6 +1519,12 @@
    packr
   </a>
   - Packs JARs, assets and the JVM for native distribution on Windows, Linux and Mac OS X.
+ </li>
+ <li>
+  <a href="https://github.com/brianm/really-executable-jars-maven-plugin">
+   really-executable-jars-maven-plugin
+  </a>
+  - Maven plugin for making self-executing JARs.
  </li>
 </ul>
 <h2>
@@ -1391,10 +1549,10 @@
   - API for document format conversion using third-party converters such as MS Word.
  </li>
  <li>
-  <a href="http://www.jopendocument.org/">
-   jOpenDocument
+  <a href="http://www.docx4java.org/trac/docx4j">
+   docx4j
   </a>
-  - Processes the OpenDocument format.
+  - Creating and manipulating Microsoft Open XML files.
  </li>
 </ul>
 <h2>
@@ -1412,7 +1570,7 @@
   </a>
   - Concolic unit testing engine. Automatically generates unit tests using formal methods.
   <sup>
-   &#9733 31, pushed 187 days ago
+   &#9733 31, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -1428,25 +1586,10 @@
   - Daikon detects likely program invariants and can generate JML specs based on those invariats.
  </li>
  <li>
-  <a href="http://www.eecs.ucf.edu/~leavens/JML/">
-   Java Modeling Language (JML)
-  </a>
-  - Behavioral interface specification language that can be used to specify the behavior of code modules. It combines the design by contract approach of Eiffel and the model-based specification approach of the Larch family of interface specification languages, with some elements of the refinement calculus. Used by several other verification tools.
- </li>
- <li>
   <a href="http://babelfish.arc.nasa.gov/trac/jpf">
    Java Path Finder (JPF)
   </a>
   - JVM formal verification tool containing a model checker and more. Created by NASA.
- </li>
- <li>
-  <a href="https://github.com/osl/jcute">
-   jCUTE
-  </a>
-  - Concolic unit testing engine that automatically generates unit tests. Concolic execution combines randomized concrete execution with symbolic execution and automatic constraint solving.
-  <sup>
-   &#9733 23, pushed 670 days ago
-  </sup>
  </li>
  <li>
   <a href="http://massoni.computacao.ufcg.edu.br/home/jmlok">
@@ -1459,16 +1602,6 @@
    KeY
   </a>
   - The KeY System is a formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification.
- </li>
- <li>
-  <a href="http://krakatoa.lri.fr/">
-   Krakatoa
-  </a>
-  - Krakatoa is a front-end of the
-  <a href="http://why.lri.fr/">
-   Why
-  </a>
-  platform for deductive program verification. Krakatoa deals with Java programs annotated in a variant of the Java Modeling Language (JML).
  </li>
  <li>
   <a href="http://openjml.github.io/">
@@ -1492,7 +1625,7 @@
   </a>
   - Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
   <sup>
-   &#9733 389, pushed 11 days ago
+   &#9733 389, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1501,7 +1634,7 @@
   </a>
   - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, morphisms.
   <sup>
-   &#9733 110, pushed 75 days ago
+   &#9733 110, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -1528,8 +1661,14 @@
   </a>
   - Extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
   <sup>
-   &#9733 554, pushed 9 days ago
+   &#9733 554, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/poetix/protonpack">
+   protonpack
+  </a>
+  - Collection of stream utilities.
  </li>
 </ul>
 <h2>
@@ -1594,6 +1733,12 @@
   - Library that provides tools for geospatial data.
  </li>
  <li>
+  <a href="https://github.com/graphhopper/graphhopper">
+   GraphHopper
+  </a>
+  - Road routing engine. Used as Java library or standalone web service.
+ </li>
+ <li>
   <a href="http://www.h2gis.org/">
    H2GIS
   </a>
@@ -1604,12 +1749,6 @@
    Jgeohash
   </a>
   - Library that can assist Java developers in using the GeoHash algorithm.
- </li>
- <li>
-  <a href="http://www.vividsolutions.com/jts/JTSHome.htm">
-   JTS Topology Suite
-  </a>
-  - An API of 2D spatial predicates and functions.
  </li>
  <li>
   <a href="https://github.com/mapsforge/mapsforge/">
@@ -1667,7 +1806,7 @@
   </a>
   - Data structures and utility methods that are common in high-performance applications.
   <sup>
-   &#9733 400, pushed 3 days ago
+   &#9733 400, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1688,7 +1827,7 @@
   </a>
   - Collection framework inspired by Smalltalk.
   <sup>
-   &#9733 1518, pushed 50 days ago
+   &#9733 1518, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1698,18 +1837,12 @@
   - Primitive collections.
  </li>
  <li>
-  <a href="http://javolution.org/">
-   Javolution
-  </a>
-  - Library for real-time and embedded systems.
- </li>
- <li>
   <a href="https://github.com/JCTools/JCTools">
    JCTools
   </a>
   - Concurrency tools currently missing from the JDK.
   <sup>
-   &#9733 605, pushed 3 days ago
+   &#9733 605, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1718,14 +1851,8 @@
   </a>
   - Hash sets and hash maps.
   <sup>
-   &#9733 466, pushed 9 days ago
+   &#9733 466, pushed 133 days ago
   </sup>
- </li>
- <li>
-  <a href="http://trove.starlight-systems.com/">
-   Trove
-  </a>
-  - Primitive collections.
  </li>
 </ul>
 <h2>
@@ -1771,14 +1898,14 @@
   </a>
   - Simple and efficient hardware-accelerated image-scaling library implemented in pure Java 2D.
   <sup>
-   &#9733 613, pushed 300 days ago
+   &#9733 613, pushed 425 days ago
   </sup>
  </li>
  <li>
-  <a href="http://square.github.io/picasso/">
-   Picasso
+  <a href="https://github.com/nguyenq/tess4j">
+   Tess4J
   </a>
-  - Image downloading and caching library for Android.
+  - A JNA wrapper for Tesseract OCR API.
  </li>
  <li>
   <a href="https://github.com/coobird/thumbnailator">
@@ -1786,8 +1913,14 @@
   </a>
   - Thumbnailator is a high-quality thumbnail generation library for Java.
   <sup>
-   &#9733 293, pushed 144 days ago
+   &#9733 293, pushed 269 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/haraldk/TwelveMonkeys">
+   TwelveMonkeys
+  </a>
+  - Collection of plugins which extend the number of supported image file formats.
  </li>
  <li>
   <a href="https://github.com/zxing/zxing">
@@ -1795,7 +1928,7 @@
   </a>
   - Multi-format 1D/2D barcode image processing library.
   <sup>
-   &#9733 8675, pushed 9 days ago
+   &#9733 8675, pushed 134 days ago
   </sup>
  </li>
 </ul>
@@ -1820,8 +1953,14 @@
   </a>
   - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
   <sup>
-   &#9733 4210, pushed 6 days ago
+   &#9733 4210, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/jackson-datatype-money">
+   Jackson-datatype-money
+  </a>
+  - Open-source Jackson module to support JSON serialization and deserialization of JavaMoney data types.
  </li>
  <li>
   <a href="http://wiki.fasterxml.com/JacksonHome">
@@ -1835,16 +1974,16 @@
   </a>
   - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
   <sup>
-   &#9733 157, pushed 5 days ago
+   &#9733 157, pushed 129 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/bluelinelabs/LoganSquare">
    LoganSquare
   </a>
-  - JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
+  - JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
   <sup>
-   &#9733 2211, pushed 37 days ago
+   &#9733 2211, pushed 162 days ago
   </sup>
  </li>
 </ul>
@@ -1863,7 +2002,7 @@
   </a>
   - Very fast processor with no additional dependencies and full data binding.
   <sup>
-   &#9733 4946, pushed 1 days ago
+   &#9733 4946, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1872,7 +2011,7 @@
   </a>
   - JSON to JSON transformation tool.
   <sup>
-   &#9733 157, pushed 54 days ago
+   &#9733 157, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -1881,7 +2020,7 @@
   </a>
   - Extract data from JSON using XPATH like syntax.
   <sup>
-   &#9733 869, pushed 35 days ago
+   &#9733 869, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -1890,7 +2029,7 @@
   </a>
   - Streaming JsonPath processor dedicated to processing big and complicated JSON data.
   <sup>
-   &#9733 13, pushed 173 days ago
+   &#9733 13, pushed 298 days ago
   </sup>
  </li>
 </ul>
@@ -1909,7 +2048,7 @@
   </a>
   - JVM with both a JIT & AOT modes. Includes an iOS port.
   <sup>
-   &#9733 716, pushed 5 days ago
+   &#9733 716, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1960,13 +2099,13 @@
  </li>
  <li>
   <a href="https://www.graylog.org/">
-   graylog
+   Graylog
   </a>
   - Open-source aggregator suited for extended role and permission management.
  </li>
  <li>
   <a href="https://www.elastic.co/products/kibana">
-   kibana
+   Kibana
   </a>
   - Analyzes and visualizes log files. Some features require payment.
  </li>
@@ -1977,8 +2116,14 @@
   - Robust logging library with interesting configuration options via Groovy.
  </li>
  <li>
+  <a href="https://github.com/zalando/logbook">
+   Logbook
+  </a>
+  - Extensible, open-source library for HTTP request and response logging.
+ </li>
+ <li>
   <a href="https://www.elastic.co/products/logstash">
-   logstash
+   Logstash
   </a>
   - Tool for managing log files.
  </li>
@@ -1993,6 +2138,12 @@
    tinylog
   </a>
   - Lightweight logging framework with static logger class.
+ </li>
+ <li>
+  <a href="https://github.com/zalando/tracer">
+   Tracer
+  </a>
+  - Call tracing and log correlation in distributed systems.
  </li>
 </ul>
 <h2>
@@ -2009,12 +2160,6 @@
    Apache Flink
   </a>
   - Fast and reliable large-scale data processing engine.
- </li>
- <li>
-  <a href="http://hadoop.apache.org/">
-   Apache Hadoop
-  </a>
-  - Storage and large-scale processing of data-sets on clusters of commodity hardware.
  </li>
  <li>
   <a href="https://mahout.apache.org/">
@@ -2052,7 +2197,7 @@
   </a>
   - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
   <sup>
-   &#9733 149, pushed 5 days ago
+   &#9733 149, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2061,7 +2206,7 @@
   </a>
   - A framework for building real-time large scale machine learning applications, which also includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
   <sup>
-   &#9733 777, pushed 9 days ago
+   &#9733 777, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2092,7 +2237,7 @@
   </a>
   - Efficient reliable unicast and multicast message transport.
   <sup>
-   &#9733 1743, pushed 8 days ago
+   &#9733 1743, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2120,19 +2265,25 @@
   - Fast and reliable message broker built on top of Kafka.
  </li>
  <li>
-  <a href="http://hornetq.jboss.org/">
-   JBoss HornetQ
-  </a>
-  - Clear, concise, modular and made to be embedded.
- </li>
- <li>
   <a href="https://github.com/zeromq/jeromq">
    JeroMQ
   </a>
   - Implementation of ZeroMQ.
   <sup>
-   &#9733 1011, pushed 29 days ago
+   &#9733 1011, pushed 154 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zalando/nakadi">
+   Nakadi
+  </a>
+  - Provides a RESTful API on top of Kafka.
+ </li>
+ <li>
+  <a href="https://github.com/alibaba/RocketMQ">
+   RocketMQ
+  </a>
+  - A fast, reliable, and scalable distributed messaging platform.
  </li>
  <li>
   <a href="https://github.com/igniterealtime/Smack/">
@@ -2162,8 +2313,14 @@
   </a>
   - Implementation and explanation of the most common design patterns.
   <sup>
-   &#9733 11219, pushed 9 days ago
+   &#9733 11219, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jhalterman/failsafe">
+   Failsafe
+  </a>
+  - Simple failure handling with retries and circuit breakers.
  </li>
  <li>
   <a href="https://github.com/google/j2objc">
@@ -2171,7 +2328,7 @@
   </a>
   - Java to Objective-C translator for porting Android libraries to iOS.
   <sup>
-   &#9733 4055, pushed 5 days ago
+   &#9733 4055, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2180,8 +2337,20 @@
   </a>
   - Java Version Manager inspired by nvm.
   <sup>
-   &#9733 78, pushed 6 days ago
+   &#9733 78, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/javaslang/javaslang-circuitbreaker">
+   javaslang-circuitbreaker
+  </a>
+  - Functional fault tolerance library.
+ </li>
+ <li>
+  <a href="http://jbake.org">
+   JBake
+  </a>
+  - Static website generator.
  </li>
  <li>
   <a href="https://github.com/google/jimfs">
@@ -2189,8 +2358,14 @@
   </a>
   - In-memory file system.
   <sup>
-   &#9733 957, pushed 32 days ago
+   &#9733 957, pushed 157 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://jpad.io/">
+   JPad
+  </a>
+  - Snippet runner.
  </li>
  <li>
   <a href="https://github.com/mabe02/lanterna">
@@ -2198,7 +2373,7 @@
   </a>
   - Easy console text GUI library similar to curses.
   <sup>
-   &#9733 266, pushed 15 days ago
+   &#9733 266, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2213,14 +2388,54 @@
   </a>
   - Popular Java 8 guide.
   <sup>
-   &#9733 5356, pushed 42 days ago
+   &#9733 5356, pushed 167 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/andrewgaul/modernizer-maven-plugin">
+   Modernizer
+  </a>
+  - Detect uses of legacy Java APIs.
  </li>
  <li>
   <a href="http://openrefine.org/">
    OpenRefine
   </a>
   - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+ </li>
+ <li>
+  <a href="https://github.com/jhalterman/typetools">
+   TypeTools
+  </a>
+  - Tools for resolving generic types.
+ </li>
+</ul>
+<h2>
+ Microservice
+</h2>
+<p>
+ <em>
+  Tools for managing microservices, i.e. creation, coordination or discovery.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://spotify.github.io/apollo/">
+   Apollo
+  </a>
+  -  Libraries for writing composable microservices.
+ </li>
+ <li>
+  <a href="https://www.lightbend.com/lagom">
+   Lagom
+  </a>
+  - Framework for creating microservice-based systems.
+ </li>
+ <li>
+  <a href="https://github.com/ivargrimstad/snoop">
+   SnopEE
+  </a>
+  - Discovery service for Java EE microservices.
  </li>
 </ul>
 <h2>
@@ -2234,9 +2449,15 @@
 <ul>
  <li>
   <a href="https://www.appdynamics.com/">
-   AppDynamics
+   AppDynamics ![c]
   </a>
-  - Commercial performance monitor.
+  - Performance monitor.
+ </li>
+ <li>
+  <a href="https://glowroot.org/">
+   Glowroot
+  </a>
+  - Open source Java APM.
  </li>
  <li>
   <a href="https://github.com/javamelody/javamelody">
@@ -2244,7 +2465,7 @@
   </a>
   - Performance monitoring and profiling.
   <sup>
-   &#9733 356, pushed 3 days ago
+   &#9733 356, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2273,21 +2494,39 @@
  </li>
  <li>
   <a href="http://newrelic.com/">
-   New Relic
+   New Relic ![c]
   </a>
-  - Commercial performance monitor.
+  - Performance monitor.
+ </li>
+ <li>
+  <a href="https://www.overops.com/">
+   OverOps ![c]
+  </a>
+  - In-Production error monitoring and debugging.
+ </li>
+ <li>
+  <a href="https://github.com/naver/pinpoint">
+   Pinpoint
+  </a>
+  - Open source APM tool.
+ </li>
+ <li>
+  <a href="https://prometheus.io/">
+   Prometheus
+  </a>
+  - Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
  </li>
  <li>
   <a href="https://sematext.com/spm/">
-   SPM
+   SPM ![c]
   </a>
-  - Commercial performance monitor with distributing transaction tracing for JVM apps.
+  - Performance monitor with distributing transaction tracing for JVM apps.
  </li>
  <li>
-  <a href="https://www.takipi.com/">
-   Takipi
+  <a href="https://github.com/stagemonitor/stagemonitor">
+   Stagemonitor
   </a>
-  - Commercial in-production error monitoring and debugging.
+  - Open source performance monitoring and transaction tracing for JVM apps.
  </li>
 </ul>
 <h2>
@@ -2305,7 +2544,7 @@
   </a>
   - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
   <sup>
-   &#9733 2273, pushed 4 days ago
+   &#9733 2273, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2318,7 +2557,7 @@
   </a>
   .
   <sup>
-   &#9733 260, pushed 50 days ago
+   &#9733 260, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -2332,28 +2571,22 @@
 </p>
 <ul>
  <li>
-  <a href="https://opennlp.apache.org/">
-   Apache OpenNLP
-  </a>
-  - Toolkit for common tasks like tokenization.
- </li>
- <li>
   <a href="http://nlp.stanford.edu/software/corenlp.shtml">
    CoreNLP
   </a>
   - Stanford's CoreNLP provides a set of fundamental tools for tasks like tagging, named entity recognition, sentiment analysis and many more.
  </li>
  <li>
+  <a href="https://dkpro.github.io/">
+   DKPro
+  </a>
+  - A collection of re-usable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
+ </li>
+ <li>
   <a href="http://alias-i.com/lingpipe/">
    LingPipe
   </a>
   - Toolkit for a variety of tasks ranging from POS tagging to sentiment analysis.
- </li>
- <li>
-  <a href="http://mallet.cs.umass.edu/">
-   Mallet
-  </a>
-  - Statistical natural language processing, document classification, clustering, topic modeling and more.
  </li>
 </ul>
 <h2>
@@ -2371,7 +2604,7 @@
   </a>
   - Asynchronous HTTP and WebSocket client library.
   <sup>
-   &#9733 2829, pushed 2 days ago
+   &#9733 2829, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2380,7 +2613,7 @@
   </a>
   - Integrates standard Java web-related APIs with Quasar fibers and actors.
   <sup>
-   &#9733 292, pushed 7 days ago
+   &#9733 292, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2389,7 +2622,7 @@
   </a>
   - Extensible RPC system used to construct high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol agnostic, which simplifies the implementation of new protocols.
   <sup>
-   &#9733 4567, pushed 2 days ago
+   &#9733 4567, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2397,6 +2630,18 @@
    Grizzly
   </a>
   - NIO framework. Used as a network layer in Glassfish.
+ </li>
+ <li>
+  <a href="https://github.com/grpc/grpc-java">
+   gRPC
+  </a>
+  - RPC framework based on protobuf and HTTP/2.
+ </li>
+ <li>
+  <a href="https://mina.apache.org/">
+   MINA
+  </a>
+  - Abstract event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
  </li>
  <li>
   <a href="http://netty.io/">
@@ -2410,7 +2655,7 @@
   </a>
   - Implementation of Thrift clients and servers on Netty.
   <sup>
-   &#9733 496, pushed 48 days ago
+   &#9733 496, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -2418,6 +2663,12 @@
    OkHttp
   </a>
   - HTTP+SPDY client.
+ </li>
+ <li>
+  <a href="https://github.com/zalando/riptide">
+   Riptide
+  </a>
+  - Client-side response routing for Spring's RestTemplate.
  </li>
  <li>
   <a href="http://undertow.io/">
@@ -2431,7 +2682,7 @@
   </a>
   - Java library for representing, parsing and encoding URNs as in RFC 2141.
   <sup>
-   &#9733 1, pushed 38 days ago
+   &#9733 1, pushed 163 days ago
   </sup>
  </li>
 </ul>
@@ -2468,11 +2719,51 @@
   </a>
   - Couples objects with stored procedures or SQL statements.
  </li>
+</ul>
+<h2>
+ PaaS
+</h2>
+<p>
+ <em>
+  Java platform as a service.
+ </em>
+</p>
+<ul>
  <li>
-  <a href="http://ormlite.com/">
-   OrmLite
+  <a href="https://aws.amazon.com/elasticbeanstalk/">
+   AWS Elastic Beanstalk ![c]
   </a>
-  - Lightweight package avoiding the complexity and overhead of other ORM products.
+  - AWS-based with support for Tomcat and Jetty.
+ </li>
+ <li>
+  <a href="https://aws.amazon.com/lambda/">
+   AWS Lambda ![c]
+  </a>
+  - Serverless computation.
+ </li>
+ <li>
+  <a href="https://cloud.google.com/">
+   Google App Engine ![c]
+  </a>
+  - PaaS on Google's infrastructure.
+ </li>
+ <li>
+  <a href="https://www.heroku.com/">
+   Heroku ![c]
+  </a>
+  - Abstract computing environments.
+ </li>
+ <li>
+  <a href="https://jelastic.com/">
+   Jelastic ![c]
+  </a>
+  - Supports Tomcat, Jetty, GlassFish, JBoss, TomEE and WildFly.
+ </li>
+ <li>
+  <a href="https://www.openshift.com/">
+   OpenShift Enterprise ![c]
+  </a>
+  - On premise solution.
  </li>
 </ul>
 <h2>
@@ -2497,6 +2788,12 @@
   - Toolbox for creating and manipulating PDF.
  </li>
  <li>
+  <a href="http://dynamicjasper.com/">
+   Dynamic Jasper
+  </a>
+  - Abstraction layer to JasperReports.
+ </li>
+ <li>
   <a href="http://dynamicreports.org/">
    DynamicReports
   </a>
@@ -2508,7 +2805,7 @@
   </a>
   - XML/XHTML and CSS 2.1 renderer.
   <sup>
-   &#9733 640, pushed 21 days ago
+   &#9733 640, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2539,7 +2836,7 @@
   </a>
   - An low-overhead, bias-free sampling profiler.
   <sup>
-   &#9733 380, pushed 7 days ago
+   &#9733 380, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2548,20 +2845,14 @@
   </a>
   - Logs and records platform JVM stalls.
   <sup>
-   &#9733 253, pushed 47 days ago
+   &#9733 253, pushed 171 days ago
   </sup>
  </li>
  <li>
-  <a href="http://openjdk.java.net/projects/code-tools/jmh/">
-   JMH
-  </a>
-  - Microbenchmarking tool for the JVM.
- </li>
- <li>
   <a href="https://www.ej-technologies.com/products/jprofiler/overview.html">
-   JProfiler
+   JProfiler ![c]
   </a>
-  - Commercial profiler.
+  - Profiler.
  </li>
  <li>
   <a href="https://github.com/LatencyUtils/LatencyUtils">
@@ -2569,26 +2860,36 @@
   </a>
   - Utilities for latency measurement and reporting.
   <sup>
-   &#9733 229, pushed 140 days ago
+   &#9733 229, pushed 265 days ago
   </sup>
  </li>
  <li>
-  <a href="http://visualvm.java.net/">
-   VisualVM
-  </a>
-  - Visual interface for detailed information about running applications.
- </li>
- <li>
   <a href="http://zeroturnaround.com/software/xrebel/">
-   XRebel
+   XRebel ![c]
   </a>
-  - A commercial profiler for Java Web applications.
+  - Profiler for web applications.
  </li>
  <li>
   <a href="https://www.yourkit.com/features/">
-   YourKit Java Profiler
+   YourKit Java Profiler ![c]
   </a>
-  - Commercial profiler.
+  - Profiler.
+ </li>
+</ul>
+<h2>
+ Platform
+</h2>
+<p>
+ <em>
+  Frameworks that are suites of multiple libraries encompassing several categories.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://projects.spring.io/spring-framework/">
+   Spring
+  </a>
+  - Provides many packages ranging from dependency injection to aspect-oriented programming to security.
  </li>
 </ul>
 <h2>
@@ -2618,7 +2919,7 @@
   </a>
   - Library for composing asynchronous and event-based programs using observable sequences from the JVM.
   <sup>
-   &#9733 13390, pushed 1 days ago
+   &#9733 13390, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2649,7 +2950,7 @@
   </a>
   - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
   <sup>
-   &#9733 951, pushed 4 days ago
+   &#9733 951, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2664,7 +2965,7 @@
   </a>
   — A convenient extensible Microservices plugin system for Spring & Spring Boot, with over 30 plugins and growing, that supports both micro-monolith and pure microservices styles.
   <sup>
-   &#9733 484, pushed 4 days ago
+   &#9733 484, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2685,7 +2986,7 @@
   </a>
   - Framework for building robust, scalable RESTful architectures using type-safe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform interface design and consistent data modeling.
   <sup>
-   &#9733 1259, pushed 4 days ago
+   &#9733 1259, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2700,7 +3001,7 @@
   </a>
   - Thin wrapper on the JBoss Netty HTTP stack to provide scaling and performance.
   <sup>
-   &#9733 597, pushed 4 days ago
+   &#9733 597, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2708,12 +3009,6 @@
    Restlet Framework
   </a>
   - Pioneering framework with powerful routing and filtering capabilities, unified client and server API.
- </li>
- <li>
-  <a href="http://restx.io">
-   RestX
-  </a>
-  - Framework based on annotation processing and compile-time source generation.
  </li>
  <li>
   <a href="http://square.github.io/retrofit/">
@@ -2750,12 +3045,6 @@
   - Environment for scientific computation, data analysis and data visualization.
  </li>
  <li>
-  <a href="http://jscience.org/">
-   JScience
-  </a>
-  - Provides a set of classes to work with scientific measurements and units.
- </li>
- <li>
   <a href="http://graphstream-project.org/">
    GraphStream
   </a>
@@ -2767,7 +3056,7 @@
   </a>
   - Graph library that provides mathematical graph-theory objects and algorithms.
   <sup>
-   &#9733 655, pushed 6 days ago
+   &#9733 655, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2776,7 +3065,7 @@
   </a>
   - Library for visualisation (mainly Swing) and interaction with node-edge graphs.
   <sup>
-   &#9733 283, pushed 18 days ago
+   &#9733 283, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -2789,6 +3078,12 @@
  </em>
 </p>
 <ul>
+ <li>
+  <a href="https://lucene.apache.org/">
+   Apache Lucene
+  </a>
+  - High-performance, full-featured cross-platform text search engine library.
+ </li>
  <li>
   <a href="http://lucene.apache.org/solr/">
    Apache Solr
@@ -2835,7 +3130,7 @@
   </a>
   - Easy to use, yet safe encryption framework with key versioning.
   <sup>
-   &#9733 510, pushed 2 days ago
+   &#9733 510, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2843,6 +3138,18 @@
    Keycloak
   </a>
   - Integrated SSO and IDM for browser apps and RESTful web services.
+ </li>
+ <li>
+  <a href="http://oaccframework.org/">
+   OACC
+  </a>
+  - Provides permission-based authorization services.
+ </li>
+ <li>
+  <a href="https://github.com/pac4j/pac4j">
+   pac4j
+  </a>
+  - Security engine.
  </li>
  <li>
   <a href="http://picketlink.org/">
@@ -2866,7 +3173,7 @@
   </a>
   - Memory efficient serialization library that can access serialized data without unpacking and parsing it.
   <sup>
-   &#9733 5366, pushed 2 days ago
+   &#9733 5366, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2875,7 +3182,7 @@
   </a>
   - JDK compatible high performance object graph serialization.
   <sup>
-   &#9733 540, pushed 21 days ago
+   &#9733 540, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2884,7 +3191,7 @@
   </a>
   - Fast and efficient object graph serialization framework.
   <sup>
-   &#9733 1847, pushed 9 days ago
+   &#9733 1847, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2893,7 +3200,7 @@
   </a>
   - Efficient binary serialization format.
   <sup>
-   &#9733 573, pushed 6 days ago
+   &#9733 573, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -2925,6 +3232,12 @@
   - Lightweight, small server, often embedded in projects.
  </li>
  <li>
+  <a href="https://github.com/NanoHttpd/nanohttpd">
+   nanohttpd
+  </a>
+  - Tiny, easily embeddable HTTP server.
+ </li>
+ <li>
   <a href="https://developer.ibm.com/wasdev/">
    WebSphere Liberty
   </a>
@@ -2946,18 +3259,6 @@
  </em>
 </p>
 <ul>
- <li>
-  <a href="http://velocity.apache.org/">
-   Apache Velocity
-  </a>
-  - Templates for HTML pages, emails or source code generation in general.
- </li>
- <li>
-  <a href="http://freemarker.org/">
-   FreeMarker
-  </a>
-  - General templating engine without any heavyweight or opinionated dependencies.
- </li>
  <li>
   <a href="http://jknack.github.io/handlebars.java/">
    Handlebars.java
@@ -3004,7 +3305,7 @@
   </a>
   - DSL for synchronizing asynchronous operations.
   <sup>
-   &#9733 291, pushed 23 days ago
+   &#9733 291, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -3014,13 +3315,25 @@
   - Integration testing framework with focus on client- and serverside messaging.
  </li>
  <li>
+  <a href="https://github.com/jhalterman/concurrentunit">
+   ConcurrentUnit
+  </a>
+  - Toolkit for testing multi-threaded and asynchronous applications.
+ </li>
+ <li>
   <a href="https://github.com/cucumber/cucumber-jvm">
    Cucumber
   </a>
   - BDD testing framework.
   <sup>
-   &#9733 1254, pushed 3 days ago
+   &#9733 1254, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ctco/cukes-rest">
+   Cukes-REST
+  </a>
+  - A collection of Gherkin steps for REST-service testing using Cucumber.
  </li>
  <li>
   <a href="http://gatling.io/">
@@ -3041,6 +3354,18 @@
   - Matchers that can be combined to create flexible expressions of intent.
  </li>
  <li>
+  <a href="https://github.com/j8spec/j8spec/">
+   J8Spec
+  </a>
+  - J8Spec is a library that allows tests written in Java to follow the BDD style introduced by RSpec and Jasmine.
+ </li>
+ <li>
+  <a href="http://jbehave.org/">
+   JBehave
+  </a>
+  - Framework for Behavioural Driven Development.
+ </li>
+ <li>
   <a href="http://jgiven.org">
    JGiven
   </a>
@@ -3053,18 +3378,12 @@
   - Mocks static, final methods and more.
  </li>
  <li>
-  <a href="http://junit.org/">
-   JUnit
-  </a>
-  - Common testing framework.
- </li>
- <li>
   <a href="https://github.com/TNG/junit-dataprovider">
    junit-dataprovider
   </a>
   - A TestNG like dataprovider runner for JUnit.
   <sup>
-   &#9733 81, pushed 21 days ago
+   &#9733 81, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3074,12 +3393,18 @@
   - Creation of readable and maintainable parametrised tests.
  </li>
  <li>
+  <a href="https://github.com/RichardWarburton/lambda-behave">
+   Lamdba Behave
+  </a>
+  - Descriptive behavioural specification framework.
+ </li>
+ <li>
   <a href="https://github.com/mockito/mockito">
    Mockito
   </a>
   - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
   <sup>
-   &#9733 2416, pushed 9 days ago
+   &#9733 2416, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3088,7 +3413,7 @@
   </a>
   - Concise web services for stubs and mocks, Duke's Choice Award 2013.
   <sup>
-   &#9733 1227, pushed 2 days ago
+   &#9733 1227, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3103,7 +3428,7 @@
   </a>
   -  Enables mocking of static methods, constructors, final classes and methods, private methods and removal of static initializers.
   <sup>
-   &#9733 565, pushed 1 days ago
+   &#9733 565, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3112,7 +3437,7 @@
   </a>
   - Java DSL for easy testing for REST/HTTP services.
   <sup>
-   &#9733 1075, pushed 3 days ago
+   &#9733 1075, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3134,37 +3459,19 @@
   - JUnit-compatible framework featuring an expressive Groovy-derived specification language.
  </li>
  <li>
-  <a href="http://testng.org/">
-   TestNG
-  </a>
-  - Testing framework.
- </li>
- <li>
   <a href="https://github.com/google/truth">
    Truth
   </a>
   - Google's assertion and proposition framework.
   <sup>
-   &#9733 609, pushed 8 days ago
+   &#9733 609, pushed 133 days ago
   </sup>
- </li>
- <li>
-  <a href="http://www.unitils.org/">
-   Unitils
-  </a>
-  - Modular testing library for unit and integration testing.
  </li>
  <li>
   <a href="http://wiremock.org/">
    WireMock
   </a>
   - Stubbs and mocks web services.
- </li>
- <li>
-  <a href="https://github.com/j8spec/j8spec/">
-   J8Spec
-  </a>
-  - J8Spec is a library that allows tests written in Java to follow the BDD style introduced by RSpec and Jasmine.
  </li>
 </ul>
 <h2>
@@ -3189,19 +3496,19 @@
   - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others.
  </li>
  <li>
-  <a href="https://github.com/gephi/gephi/">
-   Gephi
-  </a>
-  - Cross-platform for visualizing and manipulating large graph networks.
- </li>
- <li>
   <a href="https://github.com/PatMartin/Dex">
    Dex
   </a>
   - Java/JavaFX tool capable of powerful ETL and data visualization.
   <sup>
-   &#9733 46, pushed 3 days ago
+   &#9733 46, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gephi/gephi/">
+   Gephi
+  </a>
+  - Cross-platform for visualizing and manipulating large graph networks.
  </li>
  <li>
   <a href="https://github.com/google/guava">
@@ -3209,7 +3516,7 @@
   </a>
   - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
   <sup>
-   &#9733 8828, pushed 1 days ago
+   &#9733 8828, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3219,18 +3526,12 @@
   - Framework and environment for building and to debugging multi-agent systems.
  </li>
  <li>
-  <a href="http://www.javatuples.org/">
-   javatuples
-  </a>
-  - Tuples.
- </li>
- <li>
   <a href="https://github.com/VerbalExpressions/JavaVerbalExpressions">
    JavaVerbalExpressions
   </a>
   - A library that helps to construct difficult regular expressions.
   <sup>
-   &#9733 1161, pushed 28 days ago
+   &#9733 1161, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3261,7 +3562,7 @@
   </a>
   - Simple and lightweight web crawler.
   <sup>
-   &#9733 980, pushed 4 days ago
+   &#9733 980, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3293,25 +3594,31 @@
   - Component-based web application framework similar to Tapestry with a stateful GUI.
  </li>
  <li>
+  <a href="http://baratine.io">
+   Baratine
+  </a>
+  - Toolkit for building distributed and reactive applications for multiple environments, either standalone or embedded.
+ </li>
+ <li>
   <a href="https://github.com/biezhi/blade">
    Blade
   </a>
   - Lightweight, modular framework which aims to be elegant and simple.
   <sup>
-   &#9733 1407, pushed 7 days ago
+   &#9733 1407, pushed 132 days ago
   </sup>
- </li>
- <li>
-  <a href="http://www.gwtproject.org/">
-   Google Web Toolkit
-  </a>
-  - Toolbox which includes a Java-to-JavaScript compiler for client-side code, XML parser, API for RPC, JUnit integration, internationalization support and widgets for the GUI.
  </li>
  <li>
   <a href="https://grails.org/">
    Grails
   </a>
   - Groovy framework with the aim to provide a highly productive environment by favoring convention over configuration, no XML and support for mixins.
+ </li>
+ <li>
+  <a href="http://jooby.org">
+   Jooby
+  </a>
+  - Scalable, fast and modular micro framework which offers multiple programming models.
  </li>
  <li>
   <a href="http://www.ninjaframework.org/">
@@ -3350,12 +3657,6 @@
   - Microframework which simplifies the development of new Spring applications.
  </li>
  <li>
-  <a href="http://projects.spring.io/spring-framework/">
-   Spring
-  </a>
-  - Provides many packages ranging from dependency injection to aspect-oriented programming to security.
- </li>
- <li>
   <a href="https://vaadin.com/home">
    Vaadin
   </a>
@@ -3391,6 +3692,21 @@
    vJUG
   </a>
   - Virtual Java User Group.
+ </li>
+</ul>
+<h2>
+ Frontends
+</h2>
+<p>
+ <em>
+  Websites that provide a frontend for this list. Please note, there won't be an official website. We don't associate with a particular website and everybody is allowed to create one.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://java.libhunt.com/">
+   java.libhunt.com
+  </a>
  </li>
 </ul>
 <h2>
@@ -3535,7 +3851,7 @@
   <a href="https://twitter.com/lukaseder">
    Lukas Eder
   </a>
-  - Founder and CEO Data Geekery (jOOQ).
+  - Java Champion, speaker, JUG.ch co-leader, Founder and CEO Data Geekery (jOOQ).
  </li>
  <li>
   <a href="https://twitter.com/mariofusco">
@@ -3614,12 +3930,7 @@
 </p>
 <ul>
  <li>
-  <a href="https://android-arsenal.com">
-   Android Arsenal
-  </a>
- </li>
- <li>
-  <a href="http://google-styleguide.googlecode.com/svn/trunk/javaguide.html">
+  <a href="https://google.github.io/styleguide/javaguide.html">
    Google Java Style
   </a>
  </li>
@@ -3629,13 +3940,13 @@
   </a>
  </li>
  <li>
-  <a href="http://blog.jooq.org/">
-   Java, SQL, and jOOQ
+  <a href="http://algs4.cs.princeton.edu/code/">
+   Java Algorithms and Clients
   </a>
  </li>
  <li>
-  <a href="http://algs4.cs.princeton.edu/code/">
-   Java Algorithms and Clients
+  <a href="http://blog.jooq.org/">
+   Java, SQL, and jOOQ
   </a>
  </li>
  <li>
@@ -3674,7 +3985,7 @@
   </a>
  </li>
  <li>
-  <a href="http://vanillajava.blogspot.ch/">
+  <a href="https://vanilla-java.github.io/">
    Vanilla Java
   </a>
  </li>

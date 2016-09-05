@@ -43,6 +43,11 @@
     </a>
    </li>
    <li>
+    <a href="#docker">
+     Docker
+    </a>
+   </li>
+   <li>
     <a href="#system-general">
      General
     </a>
@@ -240,7 +245,7 @@
   </a>
   A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
   <sup>
-   &#9733 5688, pushed 3 days ago
+   &#9733 5688, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -249,7 +254,7 @@
   </a>
   - A little tool to play with Windows security
   <sup>
-   &#9733 1826, pushed 3 days ago
+   &#9733 1826, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -320,7 +325,7 @@
   </a>
   - Tools to work with android .dex and java .class files
   <sup>
-   &#9733 1628, pushed 9 days ago
+   &#9733 1628, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -328,6 +333,12 @@
    JD-GUI
   </a>
   - A standalone graphical utility that displays Java source codes of “.class” files
+ </li>
+ <li>
+  <a href="https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler">
+   procyon
+  </a>
+  - A modern open-source Java decompiler
  </li>
  <li>
   <a href="https://code.google.com/p/androguard/">
@@ -339,7 +350,7 @@
   <a href="http://varaneckas.com/jad/">
    JAD
   </a>
-  - JAD Java Decompiler
+  - JAD Java Decompiler (closed-source, unmaintained)
  </li>
  <li>
   <a href="https://www.jetbrains.com/decompiler/">
@@ -359,8 +370,23 @@
   </a>
   - A portable reversing framework
   <sup>
-   &#9733 2602, pushed 2 days ago
+   &#9733 2602, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joelpx/plasma">
+   plasma
+  </a>
+  - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+  <sup>
+   &#9733 1346, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://www.hopperapp.com">
+   Hopper
+  </a>
+  - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
  </li>
 </ul>
 <p>
@@ -398,7 +424,7 @@
   </a>
   - Automatic SQL injection and database takeover tool
   <sup>
-   &#9733 5899, pushed 4 days ago
+   &#9733 5899, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -453,7 +479,7 @@
   </a>
   - A Linux packet crafting tool
   <sup>
-   &#9733 236, pushed 2 days ago
+   &#9733 236, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +500,7 @@
   </a>
   - Man in the Middle SOCKS Proxy for JAVA
   <sup>
-   &#9733 16, pushed 1174 days ago
+   &#9733 16, pushed 1299 days ago
   </sup>
  </li>
  <li>
@@ -488,6 +514,12 @@
    Aircrack-ng
   </a>
   - An 802.11 WEP and WPA-PSK keys cracking program
+ </li>
+ <li>
+  <a href="https://charlesproxy.com">
+   Charles Proxy
+  </a>
+  - A cross platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.
  </li>
 </ul>
 <p>
@@ -521,7 +553,7 @@
   </a>
   - A library and collection of command line digital forensics tools
   <sup>
-   &#9733 618, pushed 5 days ago
+   &#9733 618, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -574,7 +606,7 @@
   </a>
   - A tool to analyze multi-byte xor cipher
   <sup>
-   &#9733 314, pushed 566 days ago
+   &#9733 314, pushed 691 days ago
   </sup>
  </li>
  <li>
@@ -588,6 +620,140 @@
    Aircrack
   </a>
   - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
+ </li>
+</ul>
+<p>
+ <a name="docker">
+ </a>
+</p>
+<h3>
+ Docker Images for Penetration Testing & Security
+</h3>
+<ul>
+ <li>
+  <code>
+   docker pull kalilinux/kali-linux-docker
+  </code>
+  <a href="https://hub.docker.com/r/kalilinux/kali-linux-docker/">
+   official Kali Linux
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull owasp/zap2docker-stable
+  </code>
+  -
+  <a href="https://github.com/zaproxy/zaproxy">
+   official OWASP ZAP
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull wpscanteam/wpscan
+  </code>
+  -
+  <a href="https://hub.docker.com/r/wpscanteam/wpscan/">
+   official WPScan
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull pandrew/metasploit
+  </code>
+  -
+  <a href="https://hub.docker.com/r/pandrew/metasploit/">
+   docker-metasploit
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull citizenstig/dvwa
+  </code>
+  -
+  <a href="https://hub.docker.com/r/citizenstig/dvwa/">
+   Damn Vulnerable Web Application (DVWA)
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull wpscanteam/vulnerablewordpress
+  </code>
+  -
+  <a href="https://hub.docker.com/r/wpscanteam/vulnerablewordpress/">
+   Vulnerable WordPress Installation
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull hmlio/vaas-cve-2014-6271
+  </code>
+  -
+  <a href="https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/">
+   Vulnerability as a service: Shellshock
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull hmlio/vaas-cve-2014-0160
+  </code>
+  -
+  <a href="https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/">
+   Vulnerability as a service: Heartbleed
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull opendns/security-ninjas
+  </code>
+  -
+  <a href="https://hub.docker.com/r/opendns/security-ninjas/">
+   Security Ninjas
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull usertaken/archlinux-pentest-lxde
+  </code>
+  -
+  <a href="https://hub.docker.com/r/usertaken/archlinux-pentest-lxde/">
+   Arch Linux Penetration Tester
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull diogomonica/docker-bench-security
+  </code>
+  -
+  <a href="https://hub.docker.com/r/diogomonica/docker-bench-security/">
+   Docker Bench for Security
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull ismisepaul/securityshepherd
+  </code>
+  -
+  <a href="https://hub.docker.com/r/ismisepaul/securityshepherd/">
+   OWASP Security Shepherd
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull danmx/docker-owasp-webgoat
+  </code>
+  -
+  <a href="https://hub.docker.com/r/danmx/docker-owasp-webgoat/">
+   OWASP WebGoat Project docker image
+  </a>
+ </li>
+ <li>
+  <code>
+   docker pull citizenstig/nowasp
+  </code>
+  -
+  <a href="https://hub.docker.com/r/citizenstig/nowasp/">
+   OWASP Mutillidae II Web Pen-Test Practice Application
+  </a>
  </li>
 </ul>
 <p>
@@ -662,6 +828,12 @@
    simples.kr
   </a>
   - (Korean)
+ </li>
+ <li>
+  <a href="http://crackmes.de/">
+   Crackmes.de
+  </a>
+  - The world first and largest community website for crackmes and reversemes.
  </li>
 </ul>
 <p>
@@ -810,8 +982,9 @@
   - Top 125 Network Security Tools
  </li>
  <li>
-  <a href="http://www.backtrack-linux.org/">
-   BackTrack
+  <a href="https://www.kali.org/">
+   Kali Linux
   </a>
+  - Pen-Testing Linux Distribution
  </li>
 </ul>

@@ -15,18 +15,18 @@
 </h2>
 <ul>
  <li>
-  <a href="#systems">
-   Systems
-  </a>
- </li>
- <li>
-  <a href="#programming-languages--compilers">
-   Programming Languages / Compilers
-  </a>
- </li>
- <li>
   <a href="#algorithms">
    Algorithms
+  </a>
+ </li>
+ <li>
+  <a href="#artificial-intelligence">
+   Artificial Intelligence
+  </a>
+ </li>
+ <li>
+  <a href="#computer-graphics">
+   Computer Graphics
   </a>
  </li>
  <li>
@@ -45,23 +45,23 @@
   </a>
  </li>
  <li>
+  <a href="#misc">
+   Misc
+  </a>
+ </li>
+ <li>
+  <a href="#programming-languages--compilers">
+   Programming Languages / Compilers
+  </a>
+ </li>
+ <li>
   <a href="#security">
    Security
   </a>
  </li>
  <li>
-  <a href="#artificial-intelligence">
-   Artificial Intelligence
-  </a>
- </li>
- <li>
-  <a href="#computer-graphics">
-   Computer Graphics
-  </a>
- </li>
- <li>
-  <a href="#misc">
-   Misc
+  <a href="#systems">
+   Systems
   </a>
  </li>
 </ul>
@@ -202,16 +202,21 @@
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
   <ul>
    <li>
-    Operating Systems course by the Chair of EECS, UC Berkeley
-    <a href="http://www.cs.berkeley.edu/~culler/">
-     David Culler
-    </a>
-   </li>
-   <li>
-    <a href="https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa">
-     Youtube Playlist
-    </a>
-    Fall 2014 lectures
+    The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
+    <ul>
+     <li>
+      Operating Systems course by the Chair of EECS, UC Berkeley
+      <a href="http://www.cs.berkeley.edu/~culler/">
+       David Culler
+      </a>
+     </li>
+     <li>
+      <a href="https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c">
+       Youtube Playlist
+      </a>
+      Spring 2015 lectures
+     </li>
+    </ul>
    </li>
   </ul>
  </li>
@@ -244,7 +249,7 @@
   </ul>
  </li>
  <li>
-  <a href="https://sites.google.com/site/cs186fall2013/home">
+  <a href="https://sites.google.com/site/cs186spring2015/">
    CS 186
   </a>
   <strong>
@@ -268,6 +273,34 @@
    <li>
     <a href="https://sites.google.com/site/cs186fall2013/homeworks">
      Projects
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://courses.cms.caltech.edu/cs179/">
+   CS 179
+  </a>
+  <strong>
+   GPU Programming
+  </strong>
+  <em>
+   Caltech
+  </em>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
+  <ul>
+   <li>
+    This course will cover programming techniques for the GPU. The course will introduce NVIDIA's parallel computing language, CUDA. Beyond covering the CUDA programming model and syntax, the course will also discuss GPU architecture, high performance computing on GPUs, parallel algorithms, CUDA libraries, and applications of GPU computing.
+   </li>
+   <li>
+    <a href="http://courses.cms.caltech.edu/cs179/">
+     Assignments
+    </a>
+   </li>
+   <li>
+    <a href="http://courses.cms.caltech.edu/cs179/">
+     Lecture Notes
     </a>
    </li>
   </ul>
@@ -315,7 +348,6 @@
   <em>
    Univ of Illinois, Urbana-Champaign
   </em>
-  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
   <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
   <ul>
@@ -619,7 +651,7 @@
     Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
    </li>
    <li>
-    <a href="http://patricklam.ca/p4p/notes/">
+    <a href="https://github.com/patricklam/p4p-2015/tree/master/lectures">
      Lecture slides
     </a>
    </li>
@@ -775,6 +807,7 @@
   <em>
    Carnegie-Mellon University
   </em>
+  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
   <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
   <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
   <ul>
@@ -782,11 +815,16 @@
     The ICS course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation.
    </li>
    <li>
-    This is the must-have course for everyone in CMU who wants to learn some computer scienve no matter what major are you in. Because it's CMU (The course number is as same as the zip code of CMU)!
+    This is the must-have course for everyone in CMU who wants to learn some computer science no matter what major are you in. Because it's CMU (The course number is as same as the zip code of CMU)!
    </li>
    <li>
     <a href="http://www.cs.cmu.edu/~213/schedule.html">
      Lecture Notes
+    </a>
+   </li>
+   <li>
+    <a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22">
+     Videos
     </a>
    </li>
    <li>
@@ -820,6 +858,40 @@
   </ul>
  </li>
  <li>
+  <a href="http://15721.courses.cs.cmu.edu/spring2016/">
+   15-721
+  </a>
+  <strong>
+   Database Systems
+  </strong>
+  <em>
+   Carnegie-Mellon University
+  </em>
+  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
+  <ul>
+   <li>
+    This course is a comprehensive study of the internals of modern database management systems. It will cover the core concepts and fundamentals of the components that are used in both high-performance transaction processing systems (OLTP) and large-scale analytical systems (OLAP). The class will stress both efficiency and correctness of the implementation of these ideas. All class projects will be in the context of a real in-memory, multi-core database system. The course is appropriate for graduate students in software systems and for advanced undergraduates with strong systems programming skills.
+   </li>
+   <li>
+    <a href="http://15721.courses.cs.cmu.edu/spring2016/syllabus.html">
+     Assignments
+    </a>
+   </li>
+   <li>
+    <a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O">
+     Lecture Videos
+    </a>
+   </li>
+   <li>
+    <a href="http://15721.courses.cs.cmu.edu/spring2016/schedule.html">
+     Readings
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
   <a href="http://www.andrew.cmu.edu/course/15-749/">
    15-749
   </a>
@@ -830,8 +902,11 @@
    Carnegie-Mellon University
   </em>
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
-  - A project focused course on Distributed Systems with an awesome list of readings
+  <br/>
   <ul>
+   <li>
+    A project focused course on Distributed Systems with an awesome list of readings
+   </li>
    <li>
     <a href="http://www.andrew.cmu.edu/course/15-749/READINGS/">
      Readings
@@ -1063,7 +1138,7 @@
      Assignments
     </a>
     <sup>
-     &#9733 17, pushed 7 days ago
+     &#9733 17, pushed 131 days ago
     </sup>
    </li>
   </ul>
@@ -1297,7 +1372,7 @@
   </ul>
  </li>
  <li>
-  <a href="https://www.classes.cs.uchicago.edu/current/22300-1/Home.html">
+  <a href="https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/">
    CS223
   </a>
   <strong>
@@ -1313,12 +1388,12 @@
     This course teaches functional reactive programming and purely functional data structures based on Chris Okazaki's book and using the Elm programming language.
    </li>
    <li>
-    <a href="https://www.classes.cs.uchicago.edu/current/22300-1/Schedule.html">
+    <a href="https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Schedule.html">
      Lectures
     </a>
    </li>
    <li>
-    <a href="https://www.classes.cs.uchicago.edu/current/22300-1/Schedule.html">
+    <a href="https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Schedule.html">
      Assignments
     </a>
    </li>
@@ -1404,7 +1479,7 @@
     This is a course on the study, design, and implementation of programming languages.
    </li>
    <li>
-    The course works at two simultaneous levels: first, we will use a programming language that can   demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
+    The course works at two simultaneous levels: first, we will use a programming language that can demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
    </li>
    <li>
     <a href="https://pl.barzilay.org/syllabus.html">
@@ -1757,6 +1832,36 @@
    </li>
   </ul>
  </li>
+ <li>
+  <a href="https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html">
+   6.945
+  </a>
+  <strong>
+   Adventures in Advanced Symbolic Programming
+  </strong>
+  <em>
+   MIT
+  </em>
+  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
+  <ul>
+   <li>
+    Taught by Gerald Sussman of SICP fame, this class deals with concepts and techniques for the design an implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications.
+   </li>
+   <li>
+    <a href="https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html">
+     Assignments
+    </a>
+    : Extensive programming assignments, using MIT/GNU Scheme. Students should have significant programming experience in Scheme, Common Lisp, Haskell, CAML or other "functional" language.
+   </li>
+   <li>
+    <a href="https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/">
+     Readings
+    </a>
+   </li>
+  </ul>
+ </li>
 </ul>
 <hr/>
 <h3>
@@ -1849,7 +1954,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 70, pushed 1 days ago
+   &#9733 70, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2265,6 +2370,138 @@
    </li>
   </ul>
  </li>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm">
+   6.006
+  </a>
+  <strong>
+   Introduction to Algorithms
+  </strong>
+  <em>
+   MIT
+  </em>
+  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
+  <ul>
+   <li>
+    This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/">
+     Lecture Videos
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/">
+     Assignments
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/">
+     Readings
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/download-course-materials/">
+     Resources
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/">
+     Old Exams
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm">
+   6.046J/18.410J
+  </a>
+  <strong>
+   Design and Analysis of Algorithms
+  </strong>
+  <em>
+   MIT
+  </em>
+  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
+  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
+  <ul>
+   <li>
+    This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/">
+     6.006
+    </a>
+    . It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/">
+     Lecture Videos
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/">
+     Lecture Notes
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/">
+     Assignments
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/download-course-materials/">
+     Resources
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/exams/">
+     Old Exams
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm">
+   6.854J/18.415J
+  </a>
+  <strong>
+   Advanced Algorithms
+  </strong>
+  <em>
+   MIT
+  </em>
+  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
+  <ul>
+   <li>
+    This course is a first-year graduate course in algorithms. Emphasis is placed on fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms, network optimization, parallel algorithms, computational geometry, online algorithms, external memory, cache, and streaming algorithms, and data structures. The need for efficient algorithms arises in nearly every area of computer science. But the type of problem to be solved, the notion of what algorithms are "efficient,'' and even the model of computation can vary widely from area to area. In this second class in algorithms, we will survey many of the techniques that apply broadly in the design of efficient algorithms, and study their application in a wide range of application domains and computational models. The goal is for the class to be broad rather than deep. Our plan is to touch upon the following areas. This is a tentative list of topics that might be covered in the class; we will select material adaptively based on the background, interests, and rate of progress of the students.
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/">
+     Lecture Notes
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/assignments/">
+     Assignments
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/">
+     Readings
+    </a>
+   </li>
+   <li>
+    <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/">
+     Resources
+    </a>
+   </li>
+  </ul>
+ </li>
 </ul>
 <hr/>
 <h3>
@@ -2385,7 +2622,7 @@
   <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
   <ul>
    <li>
-    An graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
+    A graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
    </li>
   </ul>
  </li>
@@ -2966,7 +3203,7 @@
   <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
   <ul>
    <li>
-    This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the commmand line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
+    This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the command line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
    </li>
    <li>
     <a href="http://otfried.org/courses/cs109/index.html">
@@ -3300,40 +3537,6 @@
   </ul>
  </li>
  <li>
-  <a href="http://www.csce.uark.edu/~jgauch/2014/S14/index.html">
-   CSCE 2014
-  </a>
-  <strong>
-   Programming Foundations 2
-  </strong>
-  <em>
-   University of Arkansas (Fayetteville)
-  </em>
-  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
-  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
-  <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
-  <ul>
-   <li>
-    This course continues developing problem solving techniques by focusing on fundamental data structures and associated algorithms. Topics include: abstract data types, introduction to object-oriented programming, linked lists, stacks, queues, hash tables, binary trees, graphs, recursion, and searching and sorting algorithms. Using C++ in a UNIX environment.
-   </li>
-   <li>
-    <a href="http://www.csce.uark.edu/~jgauch/2014/S14/handouts/syllabus.html">
-     Syllabus
-    </a>
-   </li>
-   <li>
-    <a href="http://www.csce.uark.edu/~jgauch/2014/S14/index.html">
-     Assignments
-    </a>
-   </li>
-   <li>
-    <a href="http://www.csce.uark.edu/~jgauch/2014/S14/index.html">
-     Practice Exams
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
   <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm">
    6.001
   </a>
@@ -3562,7 +3765,7 @@
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
   <ul>
    <li>
-    Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides an unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+    Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides a unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
    </li>
    <li>
     <a href="http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html">
@@ -4046,7 +4249,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
   <ul>
    <li>
-    This graduate level research class focuses on deep learning techniques for vision and natural language processing problems. It gives an overview of the various deep learning models and techniques, and surveys recent advances in the related fields. This course uses Theano as the main programminging tool. GPU programming experiences are preferred although not required. Frequent paper presentations and a heavy programming workload are expected.
+    This graduate level research class focuses on deep learning techniques for vision and natural language processing problems. It gives an overview of the various deep learning models and techniques, and surveys recent advances in the related fields. This course uses Theano as the main programming tool. GPU programming experiences are preferred although not required. Frequent paper presentations and a heavy programming workload are expected.
    </li>
    <li>
     <a href="http://llcao.net/cu-deeplearning15/reading.html">
@@ -4144,7 +4347,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
   <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
   <ul>
    <li>
-    Emphasis on applied cryptography and may include: basic notion of systems security, crypotographic hash functions, symmetric crypotography (one-time pad, stream ciphers, block ciphers), cryptanalysis, secret-sharing, authentication codes, public-key cryptography (encryption, digital signatures), public-key attacks, web browser security, biometrics, electronic cash, viruses, electronic voting, Assignments include a group final project. Topics may vary year to year.
+    Emphasis on applied cryptography and may include: basic notion of systems security, cryptographic hash functions, symmetric cryptography (one-time pad, stream ciphers, block ciphers), cryptanalysis, secret-sharing, authentication codes, public-key cryptography (encryption, digital signatures), public-key attacks, web browser security, biometrics, electronic cash, viruses, electronic voting, Assignments include a group final project. Topics may vary year to year.
     <a href="http://courses.csail.mit.edu/6.857/2015/handouts">
      Lecture Notes
     </a>
@@ -4409,7 +4612,7 @@ skills in vulnerability research, reverse engineering, and binary exploitation.
    </li>
   </ul>
   <sup>
-   &#9733 1215, pushed 28 days ago
+   &#9733 1215, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -4460,7 +4663,7 @@ and anti-analysis techniques.
    </li>
   </ul>
   <sup>
-   &#9733 1126, pushed 110 days ago
+   &#9733 1126, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -4763,7 +4966,7 @@ and anti-analysis techniques.
    </li>
   </ul>
   <sup>
-   &#9733 56, pushed 441 days ago
+   &#9733 56, pushed 566 days ago
   </sup>
  </li>
  <li>
@@ -4979,7 +5182,7 @@ and anti-analysis techniques.
      Github Page
     </a>
     <sup>
-     &#9733 239, pushed 188 days ago
+     &#9733 239, pushed 313 days ago
     </sup>
    </li>
    <li>
@@ -4989,7 +5192,7 @@ and anti-analysis techniques.
    </li>
   </ul>
   <sup>
-   &#9733 239, pushed 188 days ago
+   &#9733 239, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -5007,6 +5210,44 @@ and anti-analysis techniques.
   <ul>
    <li>
     Software design and construction in the context of large OOP libraries. Taught in Java. Topics: OOP design, design patterns, testing, graphical user interface (GUI) OOP libraries, software engineering strategies, approaches to programming in teams.
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://web.stanford.edu/class/cs193a/lectures.shtml">
+   CS 193a
+  </a>
+  <strong>
+   Android App Development, Spring 2016
+  </strong>
+  <em>
+   Stanford University
+  </em>
+  <img alt="Lecture Videos" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" title="Lecture Videos" width="20"/>
+  <img alt="Assignments" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" title="Assignments" width="20"/>
+  <img alt="Lecture Notes" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" title="Lecture Notes" width="20"/>
+  <ul>
+   <li>
+    Course Description: This course provides an introduction to developing applications for the Android mobile platform.
+   </li>
+   <li>
+    Prerequisite: CS 106B or equivalent. Java experience highly recommended. OOP highly recommmended.
+   </li>
+   <li>
+    Devices: Access to an Android phone and/or tablet recommended but not required.
+   </li>
+   <li>
+    Videos: Videos list can be found
+    <a href="http://web.stanford.edu/class/cs193a/videos.shtml">
+     here
+    </a>
+   </li>
+   <li>
+    Other materials: Some codes, handsout, homework ..... and lecture notes are not downloadable on the site due to login requirement. Please head to my Github repo
+    <a href="https://github.com/VoLuong/Materials-CS193A-Android-App-Development-Standford">
+     here
+    </a>
+    to download them.
    </li>
   </ul>
  </li>
@@ -5039,6 +5280,11 @@ and anti-analysis techniques.
    <li>
     <a href="https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099">
      Updated courses for iOS8 - Swift
+    </a>
+   </li>
+   <li>
+    <a href="https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961">
+     Updated courses for iOS9 - Swift
     </a>
    </li>
   </ul>
@@ -5446,7 +5692,7 @@ and anti-analysis techniques.
   <img alt="Readings" height="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" title="Readings" width="20"/>
   <ul>
    <li>
-    CS6630 is an introduction to physics-based rendering at the graduate level. Starting from the fundamentals of light transport we will look at formulations of the Rendering Equation, and a series of Monte Carlo methods, from sequential sampling to multiple importance sampling to Markov Chains, for solving the equation to make pictures. We'll look at light reflection from surfaces and scattering in volumes, illumination from luminaires and environments, and diffusion models for translucent materials. We will build working implementations of many of the algorithms we study, and learn how to make sure they are actually working correctly. It's fun to watch integrals and probability distributions transform into photographs of a slightly too perfect synthetic world.
+    CS6630 is an introduction to physics-based rendering at the graduate level. Starting from the fundamentals of light transport we will look at formulations of the Rendering Equation, and a series of Monte Carlo methods, from sequential sampling to multiple importance sampling to Markov Chains, for solving the equation to make pictures. We'll look at light reflection from surfaces and scattering in volumes, illumination from luminaries and environments, and diffusion models for translucent materials. We will build working implementations of many of the algorithms we study, and learn how to make sure they are actually working correctly. It's fun to watch integrals and probability distributions transform into photographs of a slightly too perfect synthetic world.
    </li>
    <li>
     <a href="http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm">

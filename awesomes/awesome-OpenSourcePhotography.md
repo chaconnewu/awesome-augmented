@@ -100,8 +100,13 @@
   </a>
  </li>
  <li>
-  <a href="#community">
+  <a href="#communities">
    Communities
+  </a>
+ </li>
+ <li>
+  <a href="#resources">
+   Resources
   </a>
  </li>
  <li>
@@ -161,7 +166,7 @@
    A non-destructive photo retouching program including RAW image development.
   </em>
   <sup>
-   &#9733 72, pushed 2 days ago
+   &#9733 72, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -214,7 +219,7 @@
    Compilation of hacks for GoPro Cameras.
   </em>
   <sup>
-   &#9733 288, pushed 90 days ago
+   &#9733 288, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -235,6 +240,15 @@
    Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.
   </em>
  </li>
+ <li>
+  <a href="https://github.com/PJanisio/Xiaomi_Yi_autoexec">
+   Xiaomi Yi Autoexec
+  </a>
+  -
+  <em>
+   Compilation of autoexec scripts and mods for Xiaomi Yi camera.
+  </em>
+ </li>
 </ul>
 <h2>
  Libraries
@@ -252,7 +266,7 @@
    OpenFrameworks addon for the Canon EDSK.
   </em>
   <sup>
-   &#9733 36, pushed 1642 days ago
+   &#9733 36, pushed 1767 days ago
   </sup>
  </li>
  <li>
@@ -264,7 +278,7 @@
    Canon SDK for Java.
   </em>
   <sup>
-   &#9733 39, pushed 326 days ago
+   &#9733 39, pushed 451 days ago
   </sup>
  </li>
 </ul>
@@ -281,7 +295,7 @@
    API for controlling GoPro Hero 3 Camera from Node.js.
   </em>
   <sup>
-   &#9733 114, pushed 1078 days ago
+   &#9733 114, pushed 1202 days ago
   </sup>
  </li>
  <li>
@@ -293,7 +307,7 @@
    GoPro Hero 4 - Python API.
   </em>
   <sup>
-   &#9733 41, pushed 382 days ago
+   &#9733 41, pushed 506 days ago
   </sup>
  </li>
  <li>
@@ -305,7 +319,7 @@
    a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.
   </em>
   <sup>
-   &#9733 170, pushed 475 days ago
+   &#9733 170, pushed 600 days ago
   </sup>
  </li>
  <li>
@@ -317,7 +331,7 @@
    a lightweight c# library to access and control GoPro HERO.
   </em>
   <sup>
-   &#9733 37, pushed 783 days ago
+   &#9733 37, pushed 907 days ago
   </sup>
  </li>
 </ul>
@@ -334,7 +348,7 @@
    Python module for Sony Camera Remote API.
   </em>
   <sup>
-   &#9733 6, pushed 862 days ago
+   &#9733 6, pushed 986 days ago
   </sup>
  </li>
 </ul>
@@ -351,7 +365,7 @@
    Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
   </em>
   <sup>
-   &#9733 38, pushed 35 days ago
+   &#9733 38, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -363,17 +377,8 @@
    Control your Canon or Nikon DSLR camera from your Android device through USB.
   </em>
   <sup>
-   &#9733 44, pushed 1045 days ago
+   &#9733 44, pushed 1170 days ago
   </sup>
- </li>
- <li>
-  <a href="http://koken.me">
-   Koken
-  </a>
-  -
-  <em>
-   Content management and web site publishing for photographers
-  </em>
  </li>
 </ul>
 <h2>
@@ -416,7 +421,7 @@
    Read and manipulate RAW images from digital cameras.
   </em>
   <sup>
-   &#9733 23, pushed 66 days ago
+   &#9733 23, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -469,7 +474,7 @@
    A complete workflow for HDR imaging
   </em>
   <sup>
-   &#9733 133, pushed 42 days ago
+   &#9733 133, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -543,6 +548,15 @@
   -
   <em>
    A program and library framework that lets users download pictures from their digital cameras.
+  </em>
+ </li>
+ <li>
+  <a href="http://lychee.electerious.com/">
+   Lychee
+  </a>
+  -
+  <em>
+   A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
   </em>
  </li>
 </ul>
@@ -667,6 +681,49 @@
    Community about Free open source software for Photography on reddit.
   </em>
  </li>
+ <li>
+  <a href="https://plus.google.com/u/0/communities/110647644928874455108">
+   Open Source Photography Community on Google+
+  </a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/groups/326042310770868/">
+   Open Source Photography Group on Facebook
+  </a>
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/opensourcephotography">
+   Open Source Photography Sub on Reddit
+  </a>
+ </li>
+ <li>
+  <a href="https://500px.com/groups/open-source-photography">
+   Open Source Photography Group on 500px
+  </a>
+ </li>
+ <li>
+  <a href="https://pixls.us">
+   PIXLS.US
+  </a>
+  -
+  <em>
+   Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
+  </em>
+ </li>
+</ul>
+<h2>
+ Resources
+</h2>
+<ul>
+ <li>
+  <a href="https://unsplash.com/">
+   Unsplash.com
+  </a>
+  -
+  <em>
+   Free (do whatever you want) high-resolution photos.
+  </em>
+ </li>
 </ul>
 <h2>
  Video
@@ -708,7 +765,7 @@ record, convert and stream audio and video.
    A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
   </em>
   <sup>
-   &#9733 570, pushed 2 days ago
+   &#9733 570, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -720,7 +777,7 @@ record, convert and stream audio and video.
    A simple, user-friendly and open source compositing software.
   </em>
   <sup>
-   &#9733 57, pushed 94 days ago
+   &#9733 57, pushed 219 days ago
   </sup>
  </li>
  <li>
@@ -741,7 +798,7 @@ record, convert and stream audio and video.
    A free, open source, cross-platform video editor.
   </em>
   <sup>
-   &#9733 825, pushed 2 days ago
+   &#9733 825, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -767,7 +824,7 @@ record, convert and stream audio and video.
    An image processing framework based on OpenFX plugin format.
   </em>
   <sup>
-   &#9733 94, pushed 7 days ago
+   &#9733 94, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -780,7 +837,7 @@ record, convert and stream audio and video.
   </em>
   .
   <sup>
-   &#9733 131, pushed 125 days ago
+   &#9733 131, pushed 250 days ago
   </sup>
  </li>
 </ul>

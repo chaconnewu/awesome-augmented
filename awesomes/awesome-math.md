@@ -316,6 +316,11 @@
    Wikibooks
   </a>
  </li>
+ <li>
+  <a href="https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html">
+   Online Mathematics Textbooks
+  </a>
+ </li>
 </ul>
 <h2>
  Misc
@@ -372,7 +377,7 @@
 </h3>
 <ul>
  <li>
-  <a href="http://logic.stanford.edu/intrologic/chapters/cover.html">
+  <a href="http://logic.stanford.edu/intrologic/secondary/index.html">
    Introduction to Logic
   </a>
   - Michael Genesereth, Eric Kao (Stanford University)
@@ -1297,6 +1302,18 @@
    Glossary of Data Modeling
   </a>
   - AI Access
+ </li>
+ <li>
+  <a href="http://www.ats.ucla.edu/stat/papers/">
+   Statistics Papers
+  </a>
+  - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
+ </li>
+ <li>
+  <a href="http://itl.nist.gov/div898/handbook/index.htm">
+   NIST Handbook of Statistical Methods
+  </a>
+  - Resource on practical statistics directed towards scientists and engineers.
  </li>
 </ul>
 <h3>

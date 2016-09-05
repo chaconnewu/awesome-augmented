@@ -101,7 +101,7 @@
   </a>
   A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
   <sup>
-   &#9733 4103, pushed 153 days ago
+   &#9733 4103, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -110,7 +110,7 @@
   </a>
   An Android template with navigation drawer for material design.
   <sup>
-   &#9733 681, pushed 407 days ago
+   &#9733 681, pushed 532 days ago
   </sup>
  </li>
  <li>
@@ -119,7 +119,7 @@
   </a>
   Boilerplate for mobile web apps.
   <sup>
-   &#9733 3956, pushed 289 days ago
+   &#9733 3956, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -128,7 +128,7 @@
   </a>
   Android Studio / Eclipse ADT template for material-design-icons resources.
   <sup>
-   &#9733 330, pushed 473 days ago
+   &#9733 330, pushed 597 days ago
   </sup>
  </li>
  <li>
@@ -137,7 +137,7 @@
   </a>
   Framework kickstarts development which help you focus on coding.
   <sup>
-   &#9733 594, pushed 971 days ago
+   &#9733 594, pushed 1096 days ago
   </sup>
  </li>
  <li>
@@ -146,7 +146,7 @@
   </a>
   Fast Android Development. Easy maintainance.
   <sup>
-   &#9733 7465, pushed 16 days ago
+   &#9733 7465, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -155,7 +155,7 @@
   </a>
   Collected code examples from the O'Reilly Android Cookbook.
   <sup>
-   &#9733 536, pushed 2 days ago
+   &#9733 536, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -164,7 +164,7 @@
   </a>
   Mostly game oriented samples.
   <sup>
-   &#9733 655, pushed 56 days ago
+   &#9733 655, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -173,7 +173,7 @@
   </a>
   Webview Sample App
   <sup>
-   &#9733 55, pushed 1688 days ago
+   &#9733 55, pushed 1813 days ago
   </sup>
  </li>
  <li>
@@ -182,7 +182,7 @@
   </a>
   Quickstart application showing the Google Drive API for Android.
   <sup>
-   &#9733 125, pushed 17 days ago
+   &#9733 125, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -207,7 +207,7 @@
   </a>
   Boilerplate by Gimeno.
   <sup>
-   &#9733 2942, pushed 1526 days ago
+   &#9733 2942, pushed 1651 days ago
   </sup>
  </li>
  <li>
@@ -216,7 +216,7 @@
   </a>
   Featureful iOS Boilerplate.
   <sup>
-   &#9733 323, pushed 60 days ago
+   &#9733 323, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -225,7 +225,7 @@
   </a>
   Boilerplate by openaphid.
   <sup>
-   &#9733 7, pushed 1203 days ago
+   &#9733 7, pushed 1328 days ago
   </sup>
  </li>
 </ul>
@@ -255,7 +255,7 @@
     </a>
     Yeomans node generator
     <sup>
-     &#9733 314, pushed 7 days ago
+     &#9733 314, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -264,7 +264,7 @@
     </a>
     Boilerplate to kickstart creating a node module
     <sup>
-     &#9733 231, pushed 50 days ago
+     &#9733 231, pushed 175 days ago
     </sup>
    </li>
    <li>
@@ -273,7 +273,7 @@
     </a>
     Boilerplate generator for Express.js Projects
     <sup>
-     &#9733 386, pushed 20 days ago
+     &#9733 386, pushed 144 days ago
     </sup>
    </li>
   </ul>
@@ -289,7 +289,7 @@
     </a>
     An opinionated kickstarter for AngularJS projects.
     <sup>
-     &#9733 4080, pushed 72 days ago
+     &#9733 4080, pushed 197 days ago
     </sup>
    </li>
    <li>
@@ -297,7 +297,7 @@
      Yeoman Angular Generator
     </a>
     <sup>
-     &#9733 5076, pushed 4 days ago
+     &#9733 5076, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -306,7 +306,7 @@
     </a>
     Angular Laravel CouchDB Boilerplate
     <sup>
-     &#9733 4, pushed 499 days ago
+     &#9733 4, pushed 624 days ago
     </sup>
    </li>
    <li>
@@ -328,7 +328,7 @@
     </a>
     Boilerplate for creating a React npm package
     <sup>
-     &#9733 534, pushed 142 days ago
+     &#9733 534, pushed 267 days ago
     </sup>
    </li>
    <li>
@@ -343,7 +343,7 @@
     </a>
     A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
     <sup>
-     &#9733 3149, pushed 13 days ago
+     &#9733 3149, pushed 138 days ago
     </sup>
    </li>
    <li>
@@ -352,7 +352,7 @@
     </a>
     An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
     <sup>
-     &#9733 336, pushed 65 days ago
+     &#9733 336, pushed 190 days ago
     </sup>
    </li>
    <li>
@@ -361,7 +361,7 @@
     </a>
     Isomorphic starterkit with server-side React rendering having many features
     <sup>
-     &#9733 1843, pushed 14 days ago
+     &#9733 1843, pushed 138 days ago
     </sup>
    </li>
    <li>
@@ -370,7 +370,7 @@
     </a>
     Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
     <sup>
-     &#9733 240, pushed 37 days ago
+     &#9733 240, pushed 162 days ago
     </sup>
    </li>
    <li>
@@ -379,7 +379,7 @@
     </a>
     Flask and react Boilerplate
     <sup>
-     &#9733 100, pushed 19 days ago
+     &#9733 100, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -388,7 +388,7 @@
     </a>
     Boilerplate project for Reactjs with webpack, gulp and stylus
     <sup>
-     &#9733 43, pushed 108 days ago
+     &#9733 43, pushed 233 days ago
     </sup>
    </li>
    <li>
@@ -403,7 +403,7 @@
     </a>
     A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     <sup>
-     &#9733 5387, pushed 3 days ago
+     &#9733 5387, pushed 128 days ago
     </sup>
    </li>
   </ul>
@@ -419,7 +419,7 @@
     </a>
     Backbone Boilerplates by Addy Osmani.
     <sup>
-     &#9733 494, pushed 1127 days ago
+     &#9733 494, pushed 1251 days ago
     </sup>
    </li>
    <li>
@@ -428,7 +428,7 @@
     </a>
     Yeoman generator for Backbone.
     <sup>
-     &#9733 638, pushed 36 days ago
+     &#9733 638, pushed 160 days ago
     </sup>
    </li>
   </ul>
@@ -444,7 +444,7 @@
     </a>
     Yeoman Generator for jQuery Boilerplate.
     <sup>
-     &#9733 141, pushed 248 days ago
+     &#9733 141, pushed 372 days ago
     </sup>
    </li>
   </ul>
@@ -460,7 +460,7 @@
     </a>
     A starting point for Polymer 1.0 apps.
     <sup>
-     &#9733 2069, pushed 4 days ago
+     &#9733 2069, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -469,7 +469,7 @@
     </a>
     An element providing a starting point for your own reusable Polymer elements.
     <sup>
-     &#9733 276, pushed 20 days ago
+     &#9733 276, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -478,7 +478,7 @@
     </a>
     Yeoman's polymer Generator
     <sup>
-     &#9733 955, pushed 25 days ago
+     &#9733 955, pushed 150 days ago
     </sup>
    </li>
   </ul>
@@ -494,7 +494,7 @@
     </a>
     Boilerplate for electron-node
     <sup>
-     &#9733 275, pushed 14 days ago
+     &#9733 275, pushed 139 days ago
     </sup>
    </li>
   </ul>
@@ -594,7 +594,7 @@
   </a>
   Laravel Angular CouchDB Boilerplate
   <sup>
-   &#9733 4, pushed 499 days ago
+   &#9733 4, pushed 624 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +619,7 @@
   </a>
   Rails and Angular Tempate.
   <sup>
-   &#9733 519, pushed 74 days ago
+   &#9733 519, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -628,7 +628,7 @@
   </a>
   Angular Sinatra Bootstrap template.
   <sup>
-   &#9733 12, pushed 1189 days ago
+   &#9733 12, pushed 1313 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +643,7 @@
   </a>
   Starter App for Rails and Bootstrap
   <sup>
-   &#9733 378, pushed 46 days ago
+   &#9733 378, pushed 170 days ago
   </sup>
  </li>
 </ul>
@@ -662,7 +662,7 @@
   </a>
   ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
   <sup>
-   &#9733 1361, pushed 2 days ago
+   &#9733 1361, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -681,7 +681,7 @@
   </a>
   Yeoman generator for chrome app
   <sup>
-   &#9733 291, pushed 98 days ago
+   &#9733 291, pushed 222 days ago
   </sup>
  </li>
 </ul>
@@ -746,7 +746,7 @@
   </a>
   A template system for Emacs.
   <sup>
-   &#9733 1223, pushed 2 days ago
+   &#9733 1223, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -755,7 +755,7 @@
   </a>
   Simple Vim Templates plugin.
   <sup>
-   &#9733 148, pushed 14 days ago
+   &#9733 148, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -769,10 +769,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/cez-aug/github-project-boilerplate">
-   GitHub Project Boilerplate
+  <a href="https://github.com/cezaraugusto/github-template-guidelines">
+   GitHub Template Guidelines
   </a>
-  Collection of template files for writing maintanable GitHub projects.
+  Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
  </li>
 </ul>
 <h1>

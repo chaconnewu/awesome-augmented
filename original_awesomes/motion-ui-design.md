@@ -1,12 +1,13 @@
 # Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
-Feel free to [add something interesting](contributing.md) by pull request!
+Feel free to [add something interesting](contributing.md) (todo inside) by pull request!
 
 ## Table of Contents
 1. Resources for inspiration
 	* [Sites](#sites)
 	* [Pinterest boards](#pinterest-boards)
 	* [Processing](#processing-and-other-weird-but-funny-stuff)
+2. [Articles](#articles)
 2. Software
 	* [Video, gif, presentation](#video-gif-presentation)
 	* [Visual programming](#visual-programming)
@@ -38,7 +39,8 @@ Feel free to [add something interesting](contributing.md) by pull request!
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) – animations in software user interfaces;
 * [sixux.com](http://sixux.com/) – vines with awesome transitions and animations;
 * [hoverstat.es](http://hoverstat.es/) – a collection of interesting web sites curated by Animade studio;
-* [appealing.](http://app-ealing.com/) – a collection of mobile transitions and animations.
+* [appealing.](http://app-ealing.com/) – a collection of mobile transitions and animations;
+* [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov;
@@ -52,6 +54,9 @@ Feel free to [add something interesting](contributing.md) by pull request!
 * [PATAKK](http://patakk.tumblr.com/) – processing experiments by Paolo Zagreb;
 * [dvdp](http://dvdp.tumblr.com/) – visual chinatown by davidope;
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
+
+## Articles
+* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 
 ## Software
 List of all possible software that can produce UI animations separated by using technologies and result format (video, prototype, code etc) with links of must-see tutorials and plugins.
@@ -115,7 +120,11 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) – collection;
 * [UI buttons](http://uibuttons.com/) – a collection of buttons;
 * [Hover.css](http://ianlunn.github.io/Hover/) – hover effects;
-* [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions.
+* [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions;
+* [Awesome CSS3 animations](http://pavlyukpetr.com/awesome/) – a library of animations;
+* [All Animation](http://all-animation.github.io/) – a set of fun animations to make your project sexier;
+* [CSS Animate](http://cssanimate.com/) – tool for easy and fast creating CSS3 keyframes animation;
+* [Mantra](http://jeremyckahn.github.io/mantra/) – tool for creating keyframes animation.
 
 ### JS
 * [GreenSock](http://greensock.com/) – ultra high-performance, professional-grade animation for the modern web;
@@ -130,14 +139,16 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
 * [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
-*  [Gravitas.js](https://github.com/iamralpht/gravitas.js) - Super fast physics simulations for JavaScript.
+* [Gravitas.js](https://github.com/iamralpht/gravitas.js) - super fast physics simulations for JavaScript;
+* [Popmotion](https://popmotion.io/guides/basics/get-started/) – js motion engine that makes creating engaging user interactions quick and simple;
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
 * [BonsaiJS](https://bonsaijs.org/) – lightweight graphics library with an intuitive graphics API and an SVG renderer;
 * [Vivus.js](http://maxwellito.github.io/vivus/) – allows you to animate SVGs, giving them the appearence of being drawn;
-* [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements.
+* [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements;
+* [Transformicons](http://www.transformicons.com/) – animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
 * [Jankfree.org](http://jankfree.org/) – collection of articles and presentations about browser performance;
@@ -156,6 +167,8 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (:movie_camera: video);
 * [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (:movie_camera: video);
 * [Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan)](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (:movie_camera: video);
+* [Animating the User Experience (Rachel Nabors)](https://www.youtube.com/watch?v=bM4qJpg7KhI) (:movie_camera: video);
+* [Designing meaningful animation (Val Head)](https://vimeo.com/165995133) (:movie_camera: video);
 * [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
 
 ## Newsletters, podcasts, screencasts
@@ -197,4 +210,4 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Collected with :heart: by Artur Kornakov**
+**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**

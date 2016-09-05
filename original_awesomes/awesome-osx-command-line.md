@@ -4,7 +4,7 @@
 >
 > _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/herrbischoff/awesome-osx-command-line)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
@@ -19,6 +19,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [App Store](#app-store)
     - [Apple Remote Desktop](#apple-remote-desktop)
     - [Contacts](#contacts)
+    - [Google](#google)
     - [iTunes](#itunes)
     - [Mail](#mail)
     - [Safari](#safari)
@@ -59,6 +60,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Hostname](#hostname)
     - [Network Preferences](#network-preferences)
     - [Networking Tools](#networking-tools)
+    - [SSH](#ssh)
     - [TCP/IP](#tcpip)
     - [Wi-Fi](#wi-fi)
 - [Package Managers](#package-managers)
@@ -80,6 +82,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
 	- [Date and Time](#date-and-time)
     - [FileVault](#filevault)
     - [Information/Reports](#informationreports)
+    - [Install OS](#install-os)
     - [Kernel Extensions](#kernel-extensions)
     - [LaunchAgents](#launchagents)
     - [LaunchServices](#launchservices)
@@ -167,6 +170,13 @@ defaults write com.apple.addressbook ABShowDebugMenu -bool true
 
 # Disable (Default)
 defaults write com.apple.addressbook ABShowDebugMenu -bool false
+```
+
+### Google
+
+#### Uninstall Google Update
+```bash
+~/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/Resources/ksinstall --nuke
 ```
 
 ### iTunes
@@ -305,7 +315,7 @@ brew install macvim --HEAD --with-cscope --with-lua --with-override-system-vim -
 Install the development version of this modern Vim drop-in alternative via Homebrew.
 ```bash
 brew tap neovim/neovim && \
-brew install --HEAD neovim
+brew install neovim
 ```
 
 ### Xcode
@@ -686,6 +696,12 @@ atsutil server -shutdown && \
 atsutil server -ping
 ```
 
+#### Get SF Mono Fonts
+You need to download and install Xcode 8 beta for this to work. Afterwards they should be available in all applications.
+```bash
+cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/Fonts/SFMono-* ~/Library/Fonts
+```
+
 
 ## Functions
 
@@ -958,6 +974,18 @@ ping -o github.com
 traceroute github.com
 ```
 
+### SSH
+
+#### Remote Login
+```bash
+# Enable remote login
+sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist
+
+# Disable remote login
+sudo launchctl unload -w /System/Library/LaunchDaemons/ssh.plist
+```
+
+
 ### TCP/IP
 
 #### Show Application Using a Certain Port
@@ -1016,9 +1044,9 @@ networksetup -setairportpower en0 on
 
 ## Package Managers
 
-- [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin.
-- [Homebrew](http://brew.sh) - The missing package manager for OS X.
-- [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
+- [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin. A little outdated.
+- [Homebrew](http://brew.sh) - The missing package manager for OS X. The most popular choice.
+- [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software. Very clean, it's what I use.
 
 
 ## Printing
@@ -1076,9 +1104,8 @@ spctl --remove /path/to/Application.app
 ### Passwords
 
 #### Generate Secure Password and Copy to Clipboard
-First, install `pwgen` via Homebrew, etc.
 ```bash
-pwgen -Cs 20 1 | tr -d ' ' | tr -d '\n' | pbcopy
+tr -dc A-Za-z0-9_ < /dev/urandom | head -c 20 | pbcopy
 ```
 
 ### Physical Access
@@ -1182,6 +1209,17 @@ osascript /path/to/script.scpt
 
 ### Basics
 
+#### Compare Two Folders
+```bash
+diff -qr /path/to/folder1 /path/to/folder2
+```
+
+#### Restore Sane Shell
+In case your shell session went insane (some script or application turned it into a garbled mess).
+```bash
+stty sane
+```
+
 #### Restart
 ```bash
 sudo reboot
@@ -1255,6 +1293,20 @@ sudo fdestatus disable
 #### Generate Advanced System and Performance Report
 ```bash
 sudo sysdiagnose -f ~/Desktop/
+```
+
+### Install OS
+
+#### Create Bootable Installer
+```bash
+# El Capitan
+sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
+
+# Yosemite
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+
+# Mavericks
+sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Mavericks.app
 ```
 
 ### Kernel Extensions
@@ -1509,8 +1561,7 @@ tput bel
 
 ### Alternative Terminals
 
-- [iTerm 2](https://iterm2.com) - A better Terminal.app.
-- [TotalTerminal](http://totalterminal.binaryage.com) - A system-wide terminal available on a hot-key.
+- [iTerm2](https://iterm2.com) - A better Terminal.app.
 
 ### Shells
 
@@ -1537,6 +1588,7 @@ chsh -s $(brew --prefix)/bin/fish
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](http://fisherman.sh) - A blazing fast, modern plugin manager for Fish.
 - [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
+- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
 
 #### Zsh
 Install the latest version and set as current users' default shell:

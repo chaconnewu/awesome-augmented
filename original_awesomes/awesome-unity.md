@@ -12,6 +12,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
   - [AI](#ai)
+  - [Augmented & Virtual Reality](#augmented--virtual-reality)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
   - [Frameworks](#frameworks)
@@ -38,12 +39,18 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
+* [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## AI
 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
 * [Rain](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
+
+
+## Augmented & Virtual Reality
+* [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augumented Reality SDK that includes libraries, utilities, and examples.
+* [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 
 ## Camera
 
@@ -135,6 +142,7 @@ A list of awesome projects made using Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
 * [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
+* [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 
 # Contributing

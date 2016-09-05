@@ -26,7 +26,7 @@
    Task::Kensho
   </a>
   <sup>
-   &#9733 36, pushed 214 days ago
+   &#9733 36, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -1733,7 +1733,7 @@
    bayandin/awesome-awesomeness
   </a>
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1741,7 +1741,7 @@
    emijrp/awesome-awesome
   </a>
   <sup>
-   &#9733 537, pushed 118 days ago
+   &#9733 537, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -1749,7 +1749,7 @@
    fleveque/awesome-awesomes
   </a>
   <sup>
-   &#9733 384, pushed 13 days ago
+   &#9733 384, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1757,7 +1757,7 @@
    sindresorhus/awesome
   </a>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1765,7 +1765,7 @@
    t3chnoboy/awesome-awesome-awesome
   </a>
   <sup>
-   &#9733 608, pushed 216 days ago
+   &#9733 608, pushed 341 days ago
   </sup>
  </li>
 </ul>

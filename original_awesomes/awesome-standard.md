@@ -10,9 +10,9 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 ## usage stats
 
-- **[modules that use standard](https://gist.github.com/feross/e0882df2fe673d6ce064)** - stats from the npm registry
-- **[npm-stat.com](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - download count graphs
-- **[standard-packages](https://npmjs.com/package/standard-packages)** - List of packages that use `standard`
+- **[modules that use standard (standard-packages)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
+- **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - npm registry download count
+- **[modules that use standard (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - out-of-date, current stats are higher
 
 ## packages used by standard
 
@@ -30,6 +30,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## editor snippets
  - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
  - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
+ - Visual Studio Code: **[vscode-react-standard](https://github.com/TimonVS/vscode-react-standard)**
  
 ## pretty terminal output (reporters)
 
@@ -37,6 +38,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-tap](https://www.npmjs.com/package/standard-tap)** - Format JavaScript Standard Style as TAP output
 - **[standard-json](https://www.npmjs.com/package/standard-json)** - Format JavaScript Standard Style output to a JSON array
 - **[standard-reporter](https://www.npmjs.com/package/standard-reporter)** - Reporters for feross/standard via unix pipes, many options
+- **[standard-summary](https://www.npmjs.com/package/standard-summary)** - Display output as a list of errors, ordered by count
 
 ## build tools
 
@@ -46,6 +48,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
+- **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 
 ## forks
 

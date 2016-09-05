@@ -37,30 +37,30 @@
 <ul>
  <li>
   <strong>
-   <a href="https://gist.github.com/feross/e0882df2fe673d6ce064">
-    modules that use standard
-   </a>
-  </strong>
-  - stats from the npm registry
- </li>
- <li>
-  <strong>
-   <a href="http://npm-stat.com/charts.html?package=standard&author=&from=&to=">
-    npm-stat.com
-   </a>
-  </strong>
-  - download count graphs
- </li>
- <li>
-  <strong>
-   <a href="https://npmjs.com/package/standard-packages">
-    standard-packages
+   <a href="https://github.com/feross/standard-packages/blob/master/all.json">
+    modules that use standard (standard-packages)
    </a>
   </strong>
   - List of packages that use
   <code>
    standard
   </code>
+ </li>
+ <li>
+  <strong>
+   <a href="http://npm-stat.com/charts.html?package=standard&author=&from=&to=">
+    download graphs of standard (npm-stat.com)
+   </a>
+  </strong>
+  - npm registry download count
+ </li>
+ <li>
+  <strong>
+   <a href="https://gist.github.com/feross/e0882df2fe673d6ce064">
+    modules that use standard (gist)
+   </a>
+  </strong>
+  - out-of-date, current stats are higher
  </li>
 </ul>
 <h2>
@@ -141,7 +141,7 @@
    </a>
   </strong>
   <sup>
-   &#9733 383, pushed 262 days ago
+   &#9733 383, pushed 387 days ago
   </sup>
  </li>
  <li>
@@ -149,6 +149,14 @@
   <strong>
    <a href="https://atom.io/packages/standardjs-snippets">
     standardjs-snippets
+   </a>
+  </strong>
+ </li>
+ <li>
+  Visual Studio Code:
+  <strong>
+   <a href="https://github.com/TimonVS/vscode-react-standard">
+    vscode-react-standard
    </a>
   </strong>
  </li>
@@ -188,6 +196,14 @@
    </a>
   </strong>
   - Reporters for feross/standard via unix pipes, many options
+ </li>
+ <li>
+  <strong>
+   <a href="https://www.npmjs.com/package/standard-summary">
+    standard-summary
+   </a>
+  </strong>
+  - Display output as a list of errors, ordered by count
  </li>
 </ul>
 <h2>
@@ -241,6 +257,14 @@
    </a>
   </strong>
   - Yeoman generator for new packages with babel and standard
+ </li>
+ <li>
+  <strong>
+   <a href="https://www.npmjs.com/package/standard-markdown">
+    standard-markdown
+   </a>
+  </strong>
+  - Lint all the javascript code blocks in your markdown files
  </li>
 </ul>
 <h2>

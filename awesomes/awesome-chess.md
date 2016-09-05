@@ -119,7 +119,7 @@
   </a>
   - A parser for Forsyth-Edwards Notation wriitten in Python.
   <sup>
-   &#9733 0, pushed 300 days ago
+   &#9733 0, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -128,7 +128,7 @@
   </a>
   - A Rust Forsyth-Edwards notation parser with proper error handling.
   <sup>
-   &#9733 0, pushed 272 days ago
+   &#9733 0, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -137,7 +137,7 @@
   </a>
   - Javascript script for generating chess diagrams using Forsyth-Edwards notation.
   <sup>
-   &#9733 2, pushed 1017 days ago
+   &#9733 2, pushed 1142 days ago
   </sup>
  </li>
 </ul>
@@ -156,7 +156,7 @@
   </a>
   - A simple chess bot in Python.
   <sup>
-   &#9733 3, pushed 356 days ago
+   &#9733 3, pushed 481 days ago
   </sup>
  </li>
  <li>
@@ -165,7 +165,7 @@
   </a>
   - Bot written in Java.
   <sup>
-   &#9733 0, pushed 1125 days ago
+   &#9733 0, pushed 1249 days ago
   </sup>
  </li>
 </ul>
@@ -184,7 +184,7 @@
   </a>
   - chess.js, Structured code for chess Authentication.
   <sup>
-   &#9733 697, pushed 22 days ago
+   &#9733 697, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -273,7 +273,7 @@
   </a>
   - A web component for displaying chess positions.It takes FEN string as input and renders the board as output.
   <sup>
-   &#9733 9, pushed 3 days ago
+   &#9733 9, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -282,7 +282,7 @@
   </a>
   - A jQuery based javascript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
   <sup>
-   &#9733 85, pushed 279 days ago
+   &#9733 85, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -291,7 +291,7 @@
   </a>
   - A responsive mobile-first javascript chessboard library.
   <sup>
-   &#9733 6, pushed 740 days ago
+   &#9733 6, pushed 865 days ago
   </sup>
  </li>
 </ul>
@@ -423,11 +423,5 @@
   <a href="https://www.youtube.com/watch?v=p027ysBt0_M">
    Chess Peeps
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=A3yDvM8aplY">
-   How Chess Can Revolutionize Learning
-  </a>
-  - Talk on How Chess Can Revolutionize Learning by Cody Pomeranz
  </li>
 </ul>

@@ -67,6 +67,11 @@
    Graphics
   </a>
  </li>
+ <li>
+  <a href="#other">
+   Other
+  </a>
+ </li>
 </ul>
 <hr/>
 <h2>
@@ -400,6 +405,25 @@
 <p>
  <a href="http://www.saver.is/#screensson">
   <img alt="" src="screenshots/screensson.png"/>
+ </a>
+</p>
+<h2>
+ Other
+</h2>
+<h3>
+ Google Trends
+</h3>
+<blockquote>
+ <p>
+  Shows the latest hot searches for all regions or specific countries.
+ </p>
+</blockquote>
+<p>
+ Free
+</p>
+<p>
+ <a href="https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5">
+  <img alt="" src="screenshots/googleTrends.png"/>
  </a>
 </p>
 <hr/>

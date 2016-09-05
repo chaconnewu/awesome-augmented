@@ -1,9 +1,12 @@
 <h1>
- Awesome Linux Resources
+ Awesome Linux
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
 </h1>
+<p>
+ <img alt="linux graphic" src="http://i.imgur.com/3F0xXh8.jpg"/>
+</p>
 <h2>
  Table of Content
 </h2>
@@ -185,8 +188,8 @@
     </a>
    </li>
    <li>
-    <a href="#based-on-other-desktop-environments">
-     Based on Other Desktop Environments
+    <a href="#not-based-on-any-desktop-environment">
+     Not based on any desktop environment
     </a>
    </li>
    <li>
@@ -202,8 +205,8 @@
   </a>
  </li>
  <li>
-  <a href="#other-useful-awesome-lists">
-   Other Useful Awesome Lists
+  <a href="#related-awesome-lists">
+   Related Awesome Lists
   </a>
  </li>
  <li>
@@ -272,7 +275,7 @@
  <strong>
   Latest version:
  </strong>
- Fedora Twenty Three (23)
+ Fedora Twenty Four (24)
 </p>
 <p>
  <strong>
@@ -302,7 +305,7 @@
  <strong>
   Latest version:
  </strong>
- Rebecca (17.1)
+ Rosa (17.3)
 </p>
 <p>
  <strong>
@@ -332,7 +335,7 @@
  <strong>
   Latest version:
  </strong>
- Ubuntu 15.10 (Wily Werewolf)
+ Ubuntu 16.04 (Xenial Xerus)
 </p>
 <p>
  <strong>
@@ -365,7 +368,7 @@
  <strong>
   Latest version:
  </strong>
- CentOS 7.1
+ CentOS 7.1602
 </p>
 <p>
  <strong>
@@ -395,7 +398,7 @@
  <strong>
   Latest version:
  </strong>
- Debian Jessie (8.0)
+ Debian Jessie (8.5)
 </p>
 <p>
  <strong>
@@ -556,7 +559,7 @@
  <strong>
   Latest version:
  </strong>
- CoreOS 845.0.0
+ CoreOS 1032.1.0
 </p>
 <h4>
  <a href="http://www.kali.org/">
@@ -578,7 +581,7 @@
  <strong>
   Latest version:
  </strong>
- Kali Linux 2.0
+ Kali Linux 2016.1 (first Rolling Release version)
 </p>
 <h4>
  <a href="http://puppylinux.org/">
@@ -622,7 +625,7 @@
  <strong>
   Latest version:
  </strong>
- Ubuntu Studio 15.10
+ Ubuntu Studio 16.04
 </p>
 <h2>
  Learning Resources
@@ -634,14 +637,10 @@
  <a href="https://www.goodreads.com/book/show/11724436-the-linux-command-line">
   The Linux Command Line
  </a>
- [4.34]
+ [4.34] [[FREE](http://linuxcommand.org/tlcl.php)]
 </h4>
 <p>
- This is a great introduction to the Linux command line. It's also
- <a href="http://linuxcommand.org/tlcl.php">
-  freely available online
- </a>
- . -
+ This is a great introduction to the Linux command line. -
  <a href="https://github.com/4iar/">
   @4iar
  </a>
@@ -649,6 +648,23 @@
 <blockquote>
  <p>
   You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
+ </p>
+</blockquote>
+<h4>
+ <a href="https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas">
+  The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery
+ </a>
+ [4.8] [[FREE](https://debian-handbook.info/get/now/)]
+</h4>
+<p>
+ Good book that teaches you the basics of Debian GNU/Linux administration. -
+ <a href="https://github.com/elninosi">
+  @elninosi
+ </a>
+</p>
+<blockquote>
+ <p>
+  It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
  </p>
 </blockquote>
 <h3>
@@ -811,7 +827,7 @@
   - 9wm is an X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
  </li>
  <li>
-  <a href="http://awesome.naquadah.org/">
+  <a href="https://awesomewm.org/">
    awesome
   </a>
   - awesome is a highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license.
@@ -828,14 +844,14 @@
   </a>
   - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
   <sup>
-   &#9733 1180, pushed 5 days ago
+   &#9733 1180, pushed 130 days ago
   </sup>
  </li>
  <li>
   <a href="https://launchpad.net/compiz">
    Compiz
   </a>
-  - OpenGL compositing window manager. It has a plug-in system to be changed at runtime
+  - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
  </li>
  <li>
   <a href="http://dwm.suckless.org/">
@@ -847,7 +863,7 @@
   <a href="http://www.enlightenment.org/">
    Enlightenment
   </a>
-  - Enlightenment is not just a window manager for Linux/X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits, not to mention a traditional window manager
+  - Enlightenment is not just a window manager for Linux/X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits, not to mention a traditional window manager.
  </li>
  <li>
   <a href="http://www.fluxbox.org/">
@@ -859,7 +875,7 @@
   <a href="http://fvwm.org/">
    FVWM
   </a>
-  - FVWM is an extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X  Window system
+  - FVWM is an extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X  Window system.
  </li>
  <li>
   <a href="http://i3wm.org/">
@@ -939,16 +955,10 @@
 </h3>
 <ul>
  <li>
-  <a href="https://git-scm.com/">
-   git
+  <a href="https://cmus.github.io/">
+   cmus
   </a>
-  -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
- </li>
- <li>
-  <a href="http://www.nano-editor.org">
-   nano
-  </a>
-  - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+  - Small, fast and powerful console music player for Unix-like operating systems.
  </li>
  <li>
   <a href="https://github.com/nvbn/thefuck">
@@ -963,8 +973,78 @@
   </a>
   ).
   <sup>
-   &#9733 20095, pushed 3 days ago
+   &#9733 20095, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://git-scm.com/">
+   git
+  </a>
+  -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+ </li>
+ <li>
+  <a href="https://nicolargo.github.io/glances/">
+   glances
+  </a>
+  - A cross-platform curses-based system monitoring tool written in Python.
+ </li>
+ <li>
+  <a href="http://hisham.hm/htop/">
+   htop
+  </a>
+  - nice looking, customizable TUI task manager.
+ </li>
+ <li>
+  <a href="http://www.nano-editor.org">
+   nano
+  </a>
+  - A text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+ </li>
+ <li>
+  <a href="http://www.cgsecurity.org/wiki/PhotoRec">
+   photorec
+  </a>
+  - A useful tool for restoring deleted files.
+ </li>
+ <li>
+  <a href="https://github.com/ranger/ranger">
+   ranger
+  </a>
+  - A VIM-inspired filemanager for the console.
+ </li>
+ <li>
+  <a href="https://github.com/KittyKatt/screenFetch">
+   screenFetch
+  </a>
+  - Fetches system/theme information in terminal for Linux desktop screenshots.
+  <sup>
+   &#9733 1088, pushed 143 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sindresorhus/speed-test">
+   speed-test
+  </a>
+  - Test your Internet connection speed and ping using
+  <a href="http://www.speedtest.net/">
+   speedtest.net
+  </a>
+  from the CLI.
+  <sup>
+   &#9733 1530, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.cgsecurity.org/wiki/TestDisk">
+   testdisk
+  </a>
+  - A tool for disk partition recovery.
+ </li>
+ <li>
+  <a href="http://jonas.nitro.dk/tig/">
+   tig
+  </a>
+  - An ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
  </li>
  <li>
   <a href="http://vim.org">
@@ -979,75 +1059,28 @@
   - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
  </li>
  <li>
-  <a href="http://jonas.nitro.dk/tig/">
-   tig
-  </a>
-  - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
- </li>
- <li>
-  <a href="https://cmus.github.io/">
-   cmus
-  </a>
-  - Small, fast and powerful console music player for Unix-like operating systems.
- </li>
- <li>
-  <a href="https://github.com/KittyKatt/screenFetch">
-   screenFetch
-  </a>
-  - Fetches system/theme information in terminal for Linux desktop screenshots.
-  <sup>
-   &#9733 1088, pushed 19 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/uoaerg/wavemon">
    wavemon
   </a>
-  - ncurses-based monitoring application for wireless network devices
+  - An ncurses-based monitoring application for wireless network devices.
   <sup>
-   &#9733 60, pushed 121 days ago
+   &#9733 60, pushed 245 days ago
   </sup>
- </li>
- <li>
-  <a href="http://www.cgsecurity.org/wiki/TestDisk">
-   testdisk
-  </a>
-  - recover lost partitions
- </li>
- <li>
-  <a href="http://www.cgsecurity.org/wiki/PhotoRec">
-   photorec
-  </a>
-  - recover deleted files
- </li>
- <li>
-  <a href="http://hisham.hm/htop/">
-   htop
-  </a>
-  - nice looking, customizable TUI task manager.
- </li>
- <li>
-  <a href="https://nicolargo.github.io/glances/">
-   glances
-  </a>
-  - cross-platform curses-based system monitoring tool written in Python.
  </li>
 </ul>
 <h3>
  GUI-based Applications
 </h3>
-<ul>
- <li>
-  <a href="https://pwmt.org/projects/zathura/">
-   Zathura
-  </a>
-  - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
- </li>
-</ul>
 <h4>
  GNOME-based
 </h4>
 <ul>
+ <li>
+  <a href="http://geany.org">
+   Geany
+  </a>
+  - A really small GTK IDE and versatile text editor, extendable with plugins.
+ </li>
  <li>
   <a href="https://wiki.gnome.org/Apps/Gedit">
    Gedit
@@ -1056,19 +1089,13 @@
  </li>
  <li>
   <a href="https://wiki.gnome.org/Apps/Builder">
-   Gnome Builder
+   GNOME Builder
   </a>
   - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
  </li>
- <li>
-  <a href="http://geany.org">
-   Geany
-  </a>
-  - really small GTK IDE and versatile text editor, extendable with plugins.
- </li>
 </ul>
 <p>
- for general gnome apps, visit: https://wiki.gnome.org/Apps
+ For general GNOME apps, visit: https://wiki.gnome.org/Apps
 </p>
 <h4>
  KDE-based
@@ -1079,22 +1106,31 @@
  </em>
 </p>
 <p>
- To add new content to this page, please refer to
+ To add new content to this section, please refer to the
  <code>
   CONTRIBUTING.md
  </code>
  file.
 </p>
 <h4>
- Based on other desktop environments
+ Not based on any desktop environment
 </h4>
+<ul>
+ <li>
+  <a href="http://gparted.sourceforge.net/">
+   GParted
+  </a>
+  - The most popular disk partitioning software out there.
+ </li>
+ <li>
+  <a href="https://pwmt.org/projects/zathura/">
+   Zathura
+  </a>
+  - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
+ </li>
+</ul>
 <p>
- <em>
-  Empty for now.
- </em>
-</p>
-<p>
- To add new content to this page, please refer to
+ To add new content to this section, please refer to the
  <code>
   CONTRIBUTING.md
  </code>
@@ -1126,19 +1162,23 @@
   <a href="http://www.nongnu.org/synaptic/">
    Synaptics
   </a>
-  (Debian and .deb users) - Synaptic is a graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
+  (Debian and
+  <code>
+   .deb
+  </code>
+  users) - A graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
  </li>
  <li>
   <a href="https://en.opensuse.org/YaST_Software_Management">
    YaST
   </a>
-  (openSUSE) - YaST is the main package management tool on openSUSE.
+  (openSUSE) - The main package management tool on openSUSE.
  </li>
  <li>
   <a href="https://fedorahosted.org/yumex/">
    YumEx
   </a>
-  (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
+  (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI components.
  </li>
  <li>
   <a href="https://wiki.archlinux.org/index.php/Yaourt">
@@ -1172,7 +1212,7 @@
   </a>
   (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
   <sup>
-   &#9733 502, pushed 7 days ago
+   &#9733 502, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -1254,7 +1294,7 @@
  </p>
 </blockquote>
 <h2>
- Other Useful Awesome Lists
+ Related Awesome Lists
 </h2>
 <ul>
  <li>
@@ -1262,7 +1302,7 @@
    awesome
   </a>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1315,7 @@
    awesome-shell
   </a>
   <sup>
-   &#9733 6673, pushed 17 days ago
+   &#9733 6673, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1283,7 +1323,7 @@
    awesome-emacs
   </a>
   <sup>
-   &#9733 1774, pushed 2 days ago
+   &#9733 1774, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1296,7 +1336,7 @@
    awesome-sysadmin
   </a>
   <sup>
-   &#9733 3496, pushed 4 days ago
+   &#9733 3496, pushed 129 days ago
   </sup>
  </li>
 </ul>

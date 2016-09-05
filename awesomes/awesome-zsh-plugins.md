@@ -591,7 +591,7 @@
   </a>
   - Covers customizing ZSH without a framework.
   <sup>
-   &#9733 56, pushed 1740 days ago
+   &#9733 56, pushed 1865 days ago
   </sup>
  </li>
  <li>
@@ -614,7 +614,7 @@
  </li>
  <li>
   <a href="http://commandlinepoweruser.com/">
-   http://commandlinepoweruser.com/
+   http://commandlinepoweruser.com
   </a>
   - Wes Bos' videos introducing ZSH and oh-my-zsh.
  </li>
@@ -637,7 +637,7 @@
 <ul>
  <li>
   <a href="http://mgdm.net/weblog/zsh-antigen/">
-   http://mgdm.net/weblog/zsh-antigen/
+   http://mgdm.net/weblog/zsh-antigen
   </a>
   - Michael Maclean's article about switching from oh-my-zsh to antigen.
  </li>
@@ -689,9 +689,9 @@
   <a href="https://github.com/unixorn/zsh-quickstart-kit">
    zsh-quickstart-kit
   </a>
-  - A simple quickstart for using zsh with zgen. This includes a curated collection of plugins, and will automatically configure zsh to use zgen to load them.
+  - A simple quickstart for using zsh with zgen. This includes a curated collection of plugins, and will automatically configure zsh to use zgen to load them, configures zgen to periodically automatically update itself, the plugins, and the quickstart kit itself.
   <sup>
-   &#9733 49, pushed 78 days ago
+   &#9733 49, pushed 202 days ago
   </sup>
  </li>
 </ul>
@@ -705,7 +705,7 @@
   </a>
   - ZSH plugin for accurev.
   <sup>
-   &#9733 0, pushed 461 days ago
+   &#9733 0, pushed 586 days ago
   </sup>
  </li>
  <li>
@@ -714,7 +714,7 @@
   </a>
   - An oh-my-zsh plugin to help remembering those aliases you defined once.
   <sup>
-   &#9733 101, pushed 6 days ago
+   &#9733 101, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -723,7 +723,7 @@
   </a>
   - A collection of custom zsh plugins to use with antigen
   <sup>
-   &#9733 0, pushed 66 days ago
+   &#9733 0, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -732,7 +732,7 @@
   </a>
   - Clears previous command output every time before new command executed in shell. Insipred by alwaysontop plugin for bash
   <sup>
-   &#9733 9, pushed 14 days ago
+   &#9733 9, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -741,7 +741,7 @@
   </a>
   - Weather in your terminal, with ANSI colors and Unicode symbols
   <sup>
-   &#9733 1195, pushed 2 days ago
+   &#9733 1195, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -750,7 +750,7 @@
   </a>
   - Antigen/zsh script to aid with Git rebasing
   <sup>
-   &#9733 0, pushed 375 days ago
+   &#9733 0, pushed 500 days ago
   </sup>
  </li>
  <li>
@@ -765,8 +765,20 @@
   </a>
   - A peco/percol/fzf wrapper plugin for zsh.
   <sup>
-   &#9733 64, pushed 253 days ago
+   &#9733 64, pushed 378 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/apache2.plugin.zsh">
+   apache2.plugin.zsh
+  </a>
+  - Adds aliases and functions for managing Apache2
+ </li>
+ <li>
+  <a href="https://github.com/kingsj/atom_plugin.zsh">
+   atom_plugin.zsh
+  </a>
+  - A plugin for the Atom editor on OS X
  </li>
  <li>
   <a href="https://github.com/hchbaw/auto-fu.zsh">
@@ -777,7 +789,7 @@
    .
   </y-fujii>
   <sup>
-   &#9733 274, pushed 196 days ago
+   &#9733 274, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -786,7 +798,7 @@
   </a>
   - Extended version of the zsh-autoenv plugin.
   <sup>
-   &#9733 16, pushed 102 days ago
+   &#9733 16, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -795,16 +807,16 @@
   </a>
   - Antigen doesn't do automatic updates like oh-my-zsh. This plugin adds auto updating for antigen, both of antigen and the bundles loaded in your configuration.
   <sup>
-   &#9733 7, pushed 528 days ago
+   &#9733 7, pushed 652 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh">
    bitbucket-git-helpers
   </a>
-  - Helper scripts to allow you to create bitbucket PRs from a shell session.
+  - Helper scripts to allow you to create bitbucket PRs or open a directory in the current branch.
   <sup>
-   &#9733 0, pushed 17 days ago
+   &#9733 0, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -813,8 +825,14 @@
   </a>
   - Stack Exchange's toolkit for storing keys/credentials securely in a git repository.
   <sup>
-   &#9733 2529, pushed 8 days ago
+   &#9733 2529, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/elstgav/branch-manager">
+   branch-manager
+  </a>
+  - A plugin for managing git branches
  </li>
  <li>
   <a href="https://github.com/adolfoabegg/browse-commit">
@@ -822,16 +840,16 @@
   </a>
   - A plugin that lets you open any commit in your browser from the command line.
   <sup>
-   &#9733 7, pushed 15 days ago
+   &#9733 7, pushed 140 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/arzzen/calc.plugin.zsh">
    calc.plugin.zsh
   </a>
-  - calculator for zsh
+  - A calculator for zsh
   <sup>
-   &#9733 10, pushed 57 days ago
+   &#9733 10, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -844,16 +862,16 @@
   </a>
   support to ZSH.
   <sup>
-   &#9733 9, pushed 15 days ago
+   &#9733 9, pushed 140 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/mollifier/cd-gitroot">
    cd-gitroot
   </a>
-  - A zsh plugin to cd to git repository root directory.
+  - A zsh plugin to cd to the git repository root directory.
   <sup>
-   &#9733 15, pushed 41 days ago
+   &#9733 15, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -862,7 +880,7 @@
   </a>
   - A ZSH plugin to allow easy named directory creation - shortcuts to any directory you want.
   <sup>
-   &#9733 4, pushed 449 days ago
+   &#9733 4, pushed 574 days ago
   </sup>
  </li>
  <li>
@@ -871,7 +889,7 @@
   </a>
   - Easy setup of cdr for zsh.
   <sup>
-   &#9733 1, pushed 236 days ago
+   &#9733 1, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +898,7 @@
   </a>
   - A ZSH plugin to copy your shell configuration to another machine over ssh.
   <sup>
-   &#9733 3, pushed 377 days ago
+   &#9733 3, pushed 502 days ago
   </sup>
  </li>
  <li>
@@ -889,7 +907,7 @@
   </a>
   - ZSH syntax highlighting for the Crayon Plugin for Wordpress
   <sup>
-   &#9733 0, pushed 894 days ago
+   &#9733 0, pushed 1018 days ago
   </sup>
  </li>
  <li>
@@ -901,7 +919,7 @@
    Crystal
   </a>
   <sup>
-   &#9733 5, pushed 42 days ago
+   &#9733 5, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -910,7 +928,7 @@
   </a>
   - A simple http server written in 99.9% pure zsh.
   <sup>
-   &#9733 15, pushed 92 days ago
+   &#9733 15, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -923,7 +941,7 @@
   </a>
   .
   <sup>
-   &#9733 114, pushed 110 days ago
+   &#9733 114, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -936,1247 +954,34 @@
   </em>
   tools in your path automatically.
   <sup>
-   &#9733 0, pushed 1051 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gusaiani/elixir-oh-my-zsh">
-   elixir-oh-my-zsh
-  </a>
-  - oh-my-zsh plugin for Elixir, IEX, Mix and Phoenix
-  <sup>
-   &#9733 38, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/b4b4r07/emoji-cli">
-   emoji-cli
-  </a>
-  - :scream: Emoji completion on the command line
-  <sup>
-   &#9733 48, pushed 150 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/b4b4r07/enhancd">
-   enhancd
-  </a>
-  - A simple tool that provides enhanced
-  <code>
-   cd
-  </code>
-  command
-  <sup>
-   &#9733 339, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/uvaes/fzf-marks">
-   fzf-marks
-  </a>
-  - Little script to create, navigate and delete bookmarks in Bash and Zsh, using the fuzzy finder
-  <a href="https://github.com/junegunn/fzf">
-   fzf
-  </a>
-  .
- </li>
- <li>
-  <a href="https://github.com/voronkovich/get-jquery.plugin.zsh">
-   get-jquery
-  </a>
-  - Plugin for fast downloading jQuery library from code.jquery.com
-  <sup>
-   &#9733 0, pushed 533 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fontno/ghost_zeus">
-   ghost-zeus
-  </a>
-  - Lets you use zeus with normal rails commands.
-  <sup>
-   &#9733 1, pushed 579 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/caarlos0/git-add-remote">
-   git-add-remote
-  </a>
-  - Easily add the upstream remote to your git fork.
-  <sup>
-   &#9733 4, pushed 58 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/peterhurford/git-aliases.zsh">
-   git-aliases.zsh
-  </a>
-  - Creates a lot of useful aliases for combinations of commonly used git commands.
-  <sup>
-   &#9733 14, pushed 37 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/unixorn/git-extra-commands">
-   git-extra-commands
-  </a>
-  - Extra git helper scripts packaged as a plugin.
-  <sup>
-   &#9733 96, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/peterhurford/git-it-on.zsh">
-   git-it-on.zsh
-  </a>
-  - Adds ability to open a folder in your current branch on GitHub.
-  <sup>
-   &#9733 30, pushed 48 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Seinh/git-prune">
-   git-prune
-  </a>
-  - Plugin that simplifies deleting merged branches.
-  <sup>
-   &#9733 7, pushed 34 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sobolevn/git-secret">
-   git-secret
-  </a>
-  - A bash-tool to store your private data inside a git repository.
-  <sup>
-   &#9733 79, pushed 23 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tevren/gitfast-zsh-plugin">
-   gitfast
-  </a>
-  - Updated fork of oh-my-zsh gitfast plugin.
-  <sup>
-   &#9733 1, pushed 413 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/voronkovich/gitignore.plugin.zsh">
-   gitignore.plugin.zsh
-  </a>
-  - Plugin for creating
-  <code>
-   .gitignore
-  </code>
-  files.
-  <sup>
-   &#9733 9, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/denysdovhan/gitio-zsh">
-   gitio-zsh
-  </a>
-  - A zsh plugin for generating a GitHub short URL using
-  <a href="https://git.io">
-   git.io
-  </a>
-  .
-  <sup>
-   &#9733 6, pushed 56 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bbenne10/goenv">
-   goenv
-  </a>
-  - Antigen plugin to manage $GOPATH similarly to Python's virtualenvwrapper.
-  <sup>
-   &#9733 3, pushed 346 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/or17191/going_places">
-   going_places
-  </a>
-  - A plugin that helps to use, create and maintain a list of shell locations
-  <sup>
-   &#9733 0, pushed 270 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/joepvd/grep2awk">
-   grep2awk
-  </a>
-  - ZLE widget to transform grep command into awk command.
-  <sup>
-   &#9733 9, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/robertzk/hipchat.zsh">
-   hipchat
-  </a>
-  - Send hipchat messages from the shell.
-  <sup>
-   &#9733 15, pushed 210 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/willghatch/zsh-hooks">
-   hooks
-  </a>
-  - Add missing hooks - for plugins and personal use.
-  <sup>
-   &#9733 6, pushed 202 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/raymondjcox/hub-ci-zsh-plugin">
-   hub-ci-zsh-plugin
-  </a>
-  - A simple plugin for adding hub ci-status to your zsh theme.
-  <sup>
-   &#9733 0, pushed 229 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mgryszko/jvm">
-   jvm
-  </a>
-  - Allows selection of JDK on OS X.
-  <sup>
-   &#9733 1, pushed 469 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rimraf/k">
-   k
-  </a>
-  - Directory listings for zsh with git features.
- </li>
- <li>
-  <a href="https://github.com/d12frosted/kitsunebook.plugin.zsh">
-   kitsunebook.plugin.zsh
-  </a>
-  - KitsuneBook plugin for oh-my-zsh.
-  <sup>
-   &#9733 0, pushed 565 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lesaint/lesaint-mvn">
-   lesaint-mvn
-  </a>
-  - Maven plugins for Oh-My-Zsh.
-  <sup>
-   &#9733 0, pushed 384 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Temikus/mac-packaging">
-   mac-packaging
-  </a>
-  - A set of common functions used for enterprise Mac packaging with Munki
-  <sup>
-   &#9733 1, pushed 346 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hlohm/mfunc">
-   mfunc
-  </a>
-  - Allows you to define persistent functions on-the-fly, without the need to add them to your config files. These functions are permanently available until you delete them.
-  <sup>
-   &#9733 1, pushed 213 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/horosgrisa/mysql-colorize">
-   mysql-colorize
-  </a>
-  - Colors for mysql tables.
-  <sup>
-   &#9733 5, pushed 130 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/voronkovich/mysql.plugin.zsh">
-   mysql.plugin.zsh
-  </a>
-  - Adds some functions for dealing with mysql.
-  <sup>
-   &#9733 6, pushed 392 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bric3/nice-exit-code">
-   nice-exit-code
-  </a>
-  - Maps exit status code to human readable string.
-  <sup>
-   &#9733 7, pushed 603 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/srijanshetty/node.plugin.zsh">
-   node.plugin.zsh
-  </a>
-  - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
-  <sup>
-   &#9733 3, pushed 377 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/keithhamilton/oh-my-dogesh">
-   oh-my-dogesh
-  </a>
-  - Dogification plugin.
-  <sup>
-   &#9733 3, pushed 770 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gepoch/oh-my-zsh-dirstack">
-   oh-my-zsh-dirstack
-  </a>
-  - Plugin for displaying dirstack info on a single line.
-  <sup>
-   &#9733 0, pushed 370 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sandstorm/oh-my-zsh-flow3-plugin">
-   oh-my-zsh-flow3-plugin
-  </a>
-  - This plugin makes the flow command available inside every subdirectory of the TYPO3 Flow distribution.
-  <sup>
-   &#9733 24, pushed 298 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gerges/oh-my-zsh-jira-plus">
-   oh-my-zsh-jira-plus
-  </a>
-  - Create JIRAs from the command line.
-  <sup>
-   &#9733 0, pushed 472 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/AlexisBRENON/oh-my-zsh-reminder">
-   oh-my-zsh-reminder
-  </a>
-  - A plugin which displays reminders above every prompt
-  <sup>
-   &#9733 2, pushed 477 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt">
-   oh-my-zsh-virtualenv-prompt
-  </a>
-  - A fork of the virtualenv plugin from upstream. It adds support for customizing the virtualenv prompt in oh-my-zsh themes.
-  <sup>
-   &#9733 25, pushed 784 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hchbaw/opp.zsh">
-   opp.zsh
-  </a>
-  - Vim's text-objects-ish for zsh.
-  <sup>
-   &#9733 224, pushed 300 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/marshallmick007/osx-dev-zsh-plugin">
-   osx-dev-zsh-plugin
-  </a>
-  - This plugin adds some commands for maintaining various server programs on my OSX install.
-  <sup>
-   &#9733 4, pushed 150 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/allanhortle/otter">
-   otter
-  </a>
-  - Combination theme and plugin by Allan Hortle.
-  <sup>
-   &#9733 1, pushed 255 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin">
-   pantheon-terminal-notify-zsh-plugin
-  </a>
-  - Background notifications for long running commands. Supports Elementary OS Freya
-  <sup>
-   &#9733 8, pushed 370 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/benclark/parallels-zsh-plugin">
-   parallels-zsh-plugin
-  </a>
-  - Parallels desktop plugin
-  <sup>
-   &#9733 5, pushed 1004 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sharat87/pip-app">
-   pip-app
-  </a>
-  - Makes it easy to install python applications into distinct virtualenvs so they don't conflict with any other python requirements on your system.
-  <sup>
-   &#9733 18, pushed 148 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sindresorhus/pretty-time-zsh">
-   pretty-time-zsh
-  </a>
-  - Convert seconds to a human readable string: 165392 → 1d 21h 56m 32s.
-  <sup>
-   &#9733 26, pushed 281 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/shengyou/robo-zsh-plugin">
-   robo-zsh-plugin
-  </a>
-  - A ZSH plugin for
-  <a href="http://codegyre.github.io/Robo/">
-   Robo
-  </a>
-  <sup>
-   &#9733 1, pushed 793 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aperezdc/rockz">
-   rockz
-  </a>
-  - Lua+LuaRocks virtual environment manager based upon VirtualZ.
-  <sup>
-   &#9733 0, pushed 51 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/johnhamelink/rvm-zsh">
-   rvm-zsh
-  </a>
-  - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's $PATH
-  <sup>
-   &#9733 1, pushed 1102 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/oz/safe-paste">
-   safe-paste
-  </a>
-  - safe-paste plugin. See
-  <a href="http://cirw.in/blog/bracketed-paste">
-   http://cirw.in/blog/bracketed-paste
-  </a>
-  <sup>
-   &#9733 4, pushed 468 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/willghatch/zsh-saneopt">
-   saneopt
-  </a>
-  - Sane defaults for zsh options, in the spirit of vim-sensible.
-  <sup>
-   &#9733 3, pushed 236 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/robertzk/send.zsh">
-   send.zsh
-  </a>
-  - Shortcut script for zsh.
-  <sup>
-   &#9733 3, pushed 212 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kalpakrg/setenv">
-   setenv
-  </a>
-  - Runs a script when you change directories
-  <sup>
-   &#9733 0, pushed 69 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/voronkovich/sf2.plugin.zsh">
-   sf2.plugin.zsh
-  </a>
-  - ZSH plugin for Symfony2.
-  <sup>
-   &#9733 1, pushed 1074 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dbkaplun/smart-cd">
-   smart-cd
-  </a>
-  - Runs
-  <code>
-   ls
-  </code>
-  and
-  <code>
-   git status
-  </code>
-  after chpwd.
-  <sup>
-   &#9733 8, pushed 344 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/willghatch/zsh-snippets">
-   snippets
-  </a>
-  - Command line snippet expansion.
-  <sup>
-   &#9733 7, pushed 37 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zlsun/solarized-man">
-   solarized-man
-  </a>
-  - A modified version of oh-my-zsh's plugin colored-man-pages, optimized for solarized dark theme in terminal
-  <sup>
-   &#9733 2, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vladmrnv/statify">
-   statify
-  </a>
-  - Plugin that does basic statistical analysis
-  <sup>
-   &#9733 2, pushed 97 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/skx/sysadmin-util">
-   sysadmin-util
-  </a>
-  - Steve Kemp's collection of tool scripts for sysadmins.
-  <sup>
-   &#9733 338, pushed 128 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/unixorn/tumult.plugin.zsh">
-   tumult
-  </a>
-  - Adds tools for OS X
-  <sup>
-   &#9733 5, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/yonchu/vimman">
-   vimman
-  </a>
-  - View vim plugin manuals (help) like man in zsh
-  <sup>
-   &#9733 8, pushed 623 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aperezdc/virtualz">
-   virtualz
-  </a>
-  - Python virtualenv manager inspired by Virtualfish, replaces virtualenvwrapper.
-  <sup>
-   &#9733 1, pushed 35 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wbinglee/zsh-wakatime">
-   wakatime
-  </a>
-  - Automatic time tracking for commands in ZSH using
-  <a href="https://wakatime.com/">
-   wakatime
-  </a>
-  <sup>
-   &#9733 8, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bcho/Watson.zsh">
-   watson.zsh
-  </a>
-  - A plugin for
-  <a href="https://github.com/TailorDev/Watson">
-   watson
-  </a>
-  <sup>
-   &#9733 1, pushed 191 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mfaerevaag/wd">
-   wd
-  </a>
-  - Warp directory lets you jump to custom directories in zsh, without using cd. Why? Because cd seems ineffecient when the folder is frequently visited or has a long path.
-  <sup>
-   &#9733 95, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/edouard-lopez/yeoman-zsh-plugin">
-   yeoman-zsh-plugin
-  </a>
-  - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion)
-  <sup>
-   &#9733 29, pushed 335 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zsh-users/zaw">
-   zaw
-  </a>
-  - ZSH anything.el-like widget.
-  <sup>
-   &#9733 304, pushed 55 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hchbaw/zce.zsh">
-   zce
-  </a>
-  - Vim’s EasyMotion / Emacs’s ace-jump-mode for zsh.
-  <sup>
-   &#9733 15, pushed 54 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/arlimus/zero.zsh">
-   zero
-  </a>
-  - Zero is both a plugin and a theme. See the github page for installation details.
-  <sup>
-   &#9733 10, pushed 270 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kmhjs/zinfo_line">
-   zinfo_line
-  </a>
-  - Makes more information available to zsh themes
-  <sup>
-   &#9733 1, pushed 362 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chrissicool/zsh-256color">
-   zsh-256color
-  </a>
-  - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
-  <sup>
-   &#9733 12, pushed 188 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mafredri/zsh-async">
-   zsh-async
-  </a>
-  - Library for running asynchronous tasks in zsh without requiring any external tools.
-  <sup>
-   &#9733 70, pushed 119 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Tarrasch/zsh-autoenv">
-   zsh-autoenv
-  </a>
-  - If a directory contains a .env file, it will automatically be executed when you cd into it.
-  <sup>
-   &#9733 115, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hlissner/zsh-autopair">
-   zsh-autopair
-  </a>
-  - A ZSH plugin for auto-closing, deleting and skipping over matching delimiters.
-  <sup>
-   &#9733 18, pushed 16 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tarruda/zsh-autosuggestions">
-   zsh-autosuggestions
-  </a>
-  -
-  <a href="http://fishshell.com/">
-   Fish
-  </a>
-  -like fast/unobtrusive autosuggestions for zsh.
- </li>
- <li>
-  <a href="https://github.com/dirkk/zsh-basex">
-   zsh-basex
-  </a>
-  - Adds several
-  <a href="http://basex.org/">
-   BaseX
-  </a>
-  aliases for simplified usage.
-  <sup>
-   &#9733 1, pushed 569 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chrissicool/zsh-bash">
-   zsh-bash
-  </a>
-  - Makes ZSH more Bash compatible. It redefines the source command to act more like Bash does. It also enables Bash completions.
-  <sup>
-   &#9733 7, pushed 551 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Tarrasch/zsh-bd">
-   zsh-bd
-  </a>
-  - Jump back to a specific directory, without doing
-  <code>
-   cd ../../..
-  </code>
-  <sup>
-   &#9733 147, pushed 221 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/psprint/zsh-cmd-architect">
-   zsh-cmd-architect
-  </a>
-  - build commands from what's in history and at prompt, move, delete, add command segments and search history with multi-word queries
-  <sup>
-   &#9733 15, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Tarrasch/zsh-colors">
-   zsh-colors
-  </a>
-  - Makes it easier to colorize text from the CLI.
-  <code>
-   red foo
-  </code>
-  just works.
-  <sup>
-   &#9733 14, pushed 64 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/joel-porquet/zsh-dircolors-solarized">
-   zsh-dircolors-solarized
-  </a>
-  - Solarized dircolors plugin.
-  <sup>
-   &#9733 9, pushed 106 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tymm/zsh-directory-history">
-   zsh-directory-history
-  </a>
-  - A per directory history for zsh.
-  <sup>
-   &#9733 59, pushed 22 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/oknowton/zsh-dwim">
-   zsh-dwim
-  </a>
-  - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
-  <sup>
-   &#9733 55, pushed 326 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/psprint/zsh-editing-workbench">
-   zsh-editing-workbench
-  </a>
-  - sane, complex command line editing (e.g. incremental history
-  <em>
-   word
-  </em>
-  completion)
-  <sup>
-   &#9733 8, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Tarrasch/zsh-functional">
-   zsh-functional
-  </a>
-  - ZSH higher order functions.
-  <sup>
-   &#9733 65, pushed 435 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/s7anley/zsh-geeknote">
-   zsh-geeknote
-  </a>
-  - Geeknote plugin for zsh.
-  <sup>
-   &#9733 9, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/caarlos0/zsh-git-sync">
-   zsh-git-sync
-  </a>
-  - A ZSH plugin to sync git repositories and clean them up.
-  <sup>
-   &#9733 12, pushed 95 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/clauswitt/zsh-grunt-plugin">
-   zsh-grunt-plugin
-  </a>
-  - Add autocompletion for grunt.
-  <sup>
-   &#9733 9, pushed 1369 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/horosgrisa/zsh-gvm">
-   zsh-gvm (horosgrisa)
-  </a>
-  - Go version manager plugin for zsh.
-  <sup>
-   &#9733 0, pushed 352 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/yerinle/zsh-gvm">
-   zsh-gvm (yerinle)
-  </a>
-  - Provides autocompletion for gvm (Groovy enVironment Manager)
-  <sup>
-   &#9733 0, pushed 998 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/joepvd/zsh-hints">
-   zsh-hints
-  </a>
-  - Display glob and parameter flags and other non completable info right under your editing buffer.
-  <sup>
-   &#9733 13, pushed 765 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zsh-users/zsh-history-substring-search">
-   zsh-history-substring-search
-  </a>
-  - Needs to be loaded after zsh-syntax-highlighting, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md
-  <sup>
-   &#9733 440, pushed 57 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/horosgrisa/zsh-konsole-theme-changer">
-   zsh-konsole-theme-changer
-  </a>
-  - Toggle konsole theme from zsh.
-  <sup>
-   &#9733 0, pushed 197 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/knu/zsh-manydots-magic">
-   zsh-manydots-magic
-  </a>
-  - A zle tweak for emulating
-  <code>
-   ...'==
-  </code>
-  ../..' etc.
-  <sup>
-   &#9733 16, pushed 926 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/KyleChamberlin/zsh_maven_plugin">
-   zsh-maven-plugin
-  </a>
-  - fork of the oh-my-zsh maven plugin
-  <sup>
-   &#9733 0, pushed 237 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/psprint/zsh-navigation-tools">
-   zsh-navigation-tools
-  </a>
-  -
-  <code>
-   htop
-  </code>
-  -like
-  <code>
-   kill
-  </code>
-  , directory bookmarks browser, multi-word incremental history searcher and more
-  <sup>
-   &#9733 57, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/marzocchi/zsh-notify">
-   zsh-notify
-  </a>
-  - A plugin for the Z shell (on OS X and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the command's terminal tab is inactive).
-  <sup>
-   &#9733 127, pushed 111 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/caarlos0/zsh-open-pr">
-   zsh-open-pr
-  </a>
-  - A ZSH plugin to open pull requests from command line.
-  <sup>
-   &#9733 10, pushed 95 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jreese/zsh-opt-path">
-   zsh-opt-path
-  </a>
-  - Automatically add
-  <code>
-   ~/opt
-  </code>
-  subpaths to your
-  <code>
-   $PATH
-  </code>
-  .
-  <sup>
-   &#9733 1, pushed 183 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mwilliammyers/plugin-osx">
-   zsh-osx
-  </a>
-  - Add some common OS X related aliases and functions
-  <sup>
-   &#9733 5, pushed 124 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jimeh/zsh-peco-history">
-   zsh-peco-history
-  </a>
-  - Search shell history with Peco when pressing ctrl+r.
-  <sup>
-   &#9733 1, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/caarlos0/zsh-pg">
-   zsh-pg
-  </a>
-  Utility functions to work with PosgreSQL
-  <sup>
-   &#9733 7, pushed 97 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RudthMael/zsh-plugin-ibtool">
-   zsh-plugin-ibtool
-  </a>
-  - ibtool shortcuts to generate localized XIB files
-  <sup>
-   &#9733 0, pushed 939 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/paraqles/zsh-plugin-rails">
-   zsh-plugin-rails
-  </a>
-  - ZSH plugin for Rails
-  <sup>
-   &#9733 2, pushed 441 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wuotr/zsh-plugin-vscode">
-   zsh-plugin-vscode
-  </a>
-  - Plugin for Visual Studio Code, a text editor for Mac OS X, Windows, and Linux
-  <sup>
-   &#9733 1, pushed 103 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RobSis/zsh-reentry-hook">
-   zsh-reentry-hook
-  </a>
-  - Plugin that re-enters working directory if it has been removed and re-created.
-  <sup>
-   &#9733 2, pushed 29 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/srijanshetty/zsh-suffix-alias">
-   zsh-suffix-alias
-  </a>
-  : Directly open files in the shell using ZSH's suffix aliases.
-  <sup>
-   &#9733 0, pushed 342 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zsh-users/zsh-syntax-highlighting">
-   zsh-syntax-highlighting
-  </a>
-  - Add syntax highlighting to your zsh. Make sure you load this
-  <em>
-   before
-  </em>
-  zsh-users/zsh-history-substring-search or they will both break.
-  <sup>
-   &#9733 2351, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chrissicool/zsh-t32">
-   zsh-t32
-  </a>
-  - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
-  <sup>
-   &#9733 1, pushed 702 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/the8/zsh-terminal-app">
-   zsh-terminal-app
-  </a>
-  - plugin for integrating with the new El Capitan Terminal.app features
- </li>
- <li>
-  <a href="https://github.com/jreese/zsh-titles">
-   zsh-titles
-  </a>
-  - Automatic window and tab titles for tmux and xterm-compatible terminals.
-  <sup>
-   &#9733 8, pushed 182 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/denolfe/zsh-travis">
-   zsh-travis
-  </a>
-  - Open's Travis CI page for the current repo if one exists.
-  <sup>
-   &#9733 0, pushed 98 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TBSliver/zsh-plugin-tmux-simple">
-   zsh-tmux-simple
-  </a>
-  - Simple plugin for using tmux with zsh
-  <sup>
-   &#9733 1, pushed 494 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ascii-soup/zsh-url-highlighter">
-   zsh-url-highlighter
-  </a>
-  - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
-  <sup>
-   &#9733 9, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sharat87/zsh-vim-mode">
-   zsh-vim-mode
-  </a>
-  - Shrikant Sharat's bindings for zsh's vi mode so it behaves more vim-like
-  <sup>
-   &#9733 23, pushed 1213 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jocelynmallon/zshmarks">
-   zshmarks
-  </a>
-  - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh
-  <sup>
-   &#9733 102, pushed 84 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/psprint/zsnapshot">
-   zsnapshot
-  </a>
-  - command which dumps current Zsh state into a file, for restoration by sourcing the file
-  <sup>
-   &#9733 1, pushed 77 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Even more completions
-</h2>
-<p>
- These plugins add tab completion without adding extra functions or aliases.
-</p>
-<ul>
- <li>
-  <a href="https://github.com/fuzzylogiq/autopkg-zsh-completion">
-   autopkg-zsh-completion
-  </a>
-  - Completions for autopkg
-  <sup>
-   &#9733 6, pushed 176 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/berkshelf/berkshelf-zsh-plugin">
-   berkshelf-zsh-plugin
-  </a>
-  - Adds tab completion for berkshelf
-  <sup>
-   &#9733 14, pushed 526 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/krujos/bosh-zsh-autocompletion">
-   bosh-zsh-autocompletion
-  </a>
-  - Adds BOSH autocompletion
-  <sup>
-   &#9733 1, pushed 508 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vasyharan/zsh-brew-services">
-   brew-services
-  </a>
-  - Completion plugin for homebrew services
-  <sup>
-   &#9733 4, pushed 320 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/d12frosted/cabal.plugin.zsh">
-   cabal
-  </a>
-  - Adds autocompletion for cabal
-  <sup>
-   &#9733 0, pushed 560 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/frodenas/cf-zsh-autocomplete-plugin">
-   cf-zsh-autocomplete-plugin
-  </a>
-  - Adds autocomplete for all
-  <a href="http://docs.cloudfoundry.org/devguide/installcf/">
-   Cloud Foundry CLI
-  </a>
-  commands
- </li>
- <li>
-  <a href="https://github.com/shengyou/codeception-zsh-plugin">
-   codeception-zsh-plugin
-  </a>
-  - Adds command completion for the Codeception Testing Framework
-  <sup>
-   &#9733 8, pushed 218 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine">
-   codemachine
-  </a>
-  - Displays git info, whether you're logged in via ssh, return code of last command
-  <sup>
-   &#9733 2, pushed 769 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lejeunerenard/dbic-migration-env">
-   dbic
-  </a>
-  - Automatically sets up Environment variables for DBIx::Class::Migration's script and Dancer
-  <sup>
-   &#9733 0, pushed 774 days ago
+   &#9733 0, pushed 1175 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/sroze/docker-compose-zsh-plugin">
    docker-compose
   </a>
-  Show docker container status in your prompt
+  Show docker container status in your prompt.
   <sup>
-   &#9733 8, pushed 70 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/primait/docker-enter-completion">
-   docker-enter-completion
-  </a>
-  - Command completion for
-  <a href="https://github.com/jpetazzo/nsenter">
-   docker-enter
-  </a>
-  <sup>
-   &#9733 7, pushed 425 days ago
+   &#9733 8, pushed 195 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/johnlabarge/docker_fun">
    docker-fun
   </a>
-  - docker convenience functions
+  - Adds docker convenience functions.
   <sup>
-   &#9733 0, pushed 135 days ago
+   &#9733 0, pushed 260 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/unixorn/docker-helpers.zshplugin">
    docker-helpers
   </a>
-  - A collection of docker helper scripts
+  - A collection of docker helper scripts.
   <sup>
-   &#9733 6, pushed 289 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/felixr/docker-zsh-completion">
-   docker-zsh-completion
-  </a>
-  - Add completions for docker
-  <sup>
-   &#9733 121, pushed 63 days ago
+   &#9733 6, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -2193,41 +998,38 @@
   </code>
   commands.
   <sup>
-   &#9733 5, pushed 193 days ago
+   &#9733 5, pushed 318 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/webflo/drush_zsh_completion">
-   drush
-   <em>
-    zsh
-   </em>
-   completion
+  <a href="https://github.com/gusaiani/elixir-oh-my-zsh">
+   elixir-oh-my-zsh
   </a>
-  - Drush autocomplete awesomeness for zsh
+  - A plugin for Elixir, IEX, Mix and Phoenix
   <sup>
-   &#9733 38, pushed 95 days ago
+   &#9733 38, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jcxavier/oh-my-zsh-duell">
-   duell
+  <a href="https://github.com/b4b4r07/emoji-cli">
+   emoji-cli
   </a>
-  - A zsh plugin for
-  <a href="https://github.com/gameduell/duell">
-   duell
-  </a>
+  - :scream: Emoji completion on the command line
   <sup>
-   &#9733 2, pushed 339 days ago
+   &#9733 48, pushed 275 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sheax0r/etcdctl-zsh">
-   etcdctl-zsh
+  <a href="https://github.com/b4b4r07/enhancd">
+   enhancd
   </a>
-  - etcdctl autocomplete plugin for oh-my-zsh
+  - A simple tool that provides enhanced
+  <code>
+   cd
+  </code>
+  command
   <sup>
-   &#9733 2, pushed 583 days ago
+   &#9733 339, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2238,78 +1040,286 @@
   <a href="http://exercism.io/">
    exercism.io
   </a>
+  .
   <sup>
-   &#9733 0, pushed 272 days ago
+   &#9733 0, pushed 396 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin">
-   fly-zsh-autocomplete-plugin
+  <a href="https://github.com/zsmizzle/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh">
+   fixnumpad-osx.plugin.zsh
   </a>
-  - adds autocompletion options for all
-  <a href="http://concourse.ci/fly-cli.html">
-   Concourse CLI
+  - Enables numpad keys of Apple keyboards to be recognized in zsh
+ </li>
+ <li>
+  <a href="https://github.com/uvaes/fzf-marks">
+   fzf-marks
   </a>
-  commands.
+  - Little script to create, navigate and delete bookmarks in Bash and Zsh, using the fuzzy finder
+  <a href="https://github.com/junegunn/fzf">
+   fzf
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/andrewferrier/fzf-z">
+   fzf-z
+  </a>
+  - Brings together the
+  <em>
+   z
+  </em>
+  plugin and
+  <em>
+   fzf
+  </em>
+  to allow you to easily browse recently used directories at any point on the command line.
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/get-jquery.plugin.zsh">
+   get-jquery
+  </a>
+  - Plugin for fast downloading jQuery library from code.jquery.com
   <sup>
-   &#9733 0, pushed 15 days ago
+   &#9733 0, pushed 658 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/bobthecow/git-flow-completion">
-   git-flow-completion
+  <a href="https://github.com/fontno/ghost_zeus">
+   ghost-zeus
   </a>
-  - ZSH completion support for git-flow
+  - Lets you use zeus with normal rails commands.
   <sup>
-   &#9733 1506, pushed 35 days ago
+   &#9733 1, pushed 703 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/pmorillon/grid5000-zsh-plugin">
-   grid5000-zsh-plugin
+  <a href="https://github.com/caarlos0/git-add-remote">
+   git-add-remote
   </a>
-  - Grid 5000 plugin - adds theme, autocompletions
+  - Easily add the upstream remote to your git fork.
   <sup>
-   &#9733 2, pushed 1355 days ago
+   &#9733 4, pushed 182 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/akoenig/gulp.plugin.zsh">
-   gulp
+  <a href="https://github.com/peterhurford/git-aliases.zsh">
+   git-aliases.zsh
   </a>
-  - Autocompletion for your gulp.js tasks in the Z-Shell (zsh).
+  - Creates a lot of useful aliases for combinations of commonly used git commands.
   <sup>
-   &#9733 19, pushed 88 days ago
+   &#9733 14, pushed 161 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/srijanshetty/gulp-autocompletion-zsh">
-   gulp-autocompletion-zsh
+  <a href="https://github.com/unixorn/git-extra-commands">
+   git-extra-commands
   </a>
-  - Autocompletion for gulp
+  - Extra git helper scripts packaged as a plugin.
   <sup>
-   &#9733 6, pushed 352 days ago
+   &#9733 96, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/netresearch/jumpstorm-zsh-plugin">
-   jumpstorm-zsh-plugin
+  <a href="https://github.com/peterhurford/git-it-on.zsh">
+   git-it-on.zsh
   </a>
-  - Adds autocompletion for
-  <a href="https://github.com/netresearch/jumpstorm">
-   jumpstorm
-  </a>
+  - Adds ability to open a folder in your current branch on GitHub.
   <sup>
-   &#9733 1, pushed 1426 days ago
+   &#9733 30, pushed 173 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/nojhan/liquidprompt">
-   liquidprompt
+  <a href="https://github.com/Seinh/git-prune">
+   git-prune
   </a>
-  - A full-featured & carefully designed adaptive prompt for Bash & ZSH
+  - Plugin that simplifies deleting merged branches.
   <sup>
-   &#9733 2238, pushed 2 days ago
+   &#9733 7, pushed 159 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sobolevn/git-secret">
+   git-secret
+  </a>
+  - A bash-tool to store your private data inside a git repository.
+  <sup>
+   &#9733 79, pushed 148 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tevren/gitfast-zsh-plugin">
+   gitfast
+  </a>
+  - Updated fork of oh-my-zsh gitfast plugin.
+  <sup>
+   &#9733 1, pushed 538 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/gitignore.plugin.zsh">
+   gitignore.plugin.zsh
+  </a>
+  - Plugin for creating
+  <code>
+   .gitignore
+  </code>
+  files.
+  <sup>
+   &#9733 9, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/denysdovhan/gitio-zsh">
+   gitio-zsh
+  </a>
+  - A zsh plugin for generating a GitHub short URL using
+  <a href="https://git.io">
+   git.io
+  </a>
+  .
+  <sup>
+   &#9733 6, pushed 181 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/washtubs/gitsync">
+   gitsync
+  </a>
+  - zsh plugin to improve workflows for one person developing on the same repository on multiple machines
+ </li>
+ <li>
+  <a href="https://github.com/bbenne10/goenv">
+   goenv
+  </a>
+  - Antigen plugin to manage
+  <code>
+   $GOPATH
+  </code>
+  similarly to Python's virtualenvwrapper.
+  <sup>
+   &#9733 3, pushed 471 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/or17191/going_places">
+   going_places
+  </a>
+  - A plugin that helps to use, create and maintain a list of shell locations.
+  <sup>
+   &#9733 0, pushed 395 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/axtl/gpg-agent.zsh">
+   gpg-agent
+  </a>
+  - Plugin that tries to do the right thing when it comes to setting up the GPG agent to act as an SSH agent as well on OS X.
+ </li>
+ <li>
+  <a href="https://github.com/joepvd/grep2awk">
+   grep2awk
+  </a>
+  - ZLE widget to transform grep command into awk command.
+  <sup>
+   &#9733 9, pushed 146 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/robertzk/hipchat.zsh">
+   hipchat
+  </a>
+  - Send hipchat messages from the shell.
+  <sup>
+   &#9733 15, pushed 335 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/history-search-multi-word">
+   history-search-multi-word
+  </a>
+  - multi-word history searcher for Zsh, bound to Ctrl-R
+ </li>
+ <li>
+  <a href="https://github.com/wulfgarpro/history-sync">
+   history-sync
+  </a>
+  - An Oh My Zsh plugin for GPG encrypted, Internet synchronized Zsh history using Git.
+ </li>
+ <li>
+  <a href="https://github.com/willghatch/zsh-hooks">
+   hooks
+  </a>
+  - Add missing hooks - for plugins and personal use.
+  <sup>
+   &#9733 6, pushed 327 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/LockonS/host-switch">
+   host-switch
+  </a>
+  - Make it easier to switch in different
+  <code>
+   /etc/hosts
+  </code>
+  files during development
+ </li>
+ <li>
+  <a href="https://github.com/raymondjcox/hub-ci-zsh-plugin">
+   hub-ci-zsh-plugin
+  </a>
+  - A simple plugin for adding hub ci-status to your zsh theme.
+  <sup>
+   &#9733 0, pushed 353 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Xetius/java-zsh-plugin">
+   java-zsh-plugin
+  </a>
+  - Adds a setjdk command so you can switch easily between different versions of the jdk
+ </li>
+ <li>
+  <a href="https://github.com/jhipster/jhipster-oh-my-zsh-plugin">
+   jhipster-oh-my-zsh-plugin
+  </a>
+  - Adds commands for
+  <a href="http://jhipster.github.io/">
+   jHipster
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mgryszko/jvm">
+   jvm
+  </a>
+  - Allows selection of JDK on OS X.
+  <sup>
+   &#9733 1, pushed 594 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rimraf/k">
+   k
+  </a>
+  - Directory listings for zsh with git features.
+ </li>
+ <li>
+  <a href="https://github.com/d12frosted/kitsunebook.plugin.zsh">
+   kitsunebook.plugin.zsh
+  </a>
+  - KitsuneBook plugin for oh-my-zsh.
+  <sup>
+   &#9733 0, pushed 690 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lesaint/lesaint-mvn">
+   lesaint-mvn
+  </a>
+  - Maven plugins for Oh-My-Zsh.
+  <sup>
+   &#9733 0, pushed 509 days ago
   </sup>
  </li>
  <li>
@@ -2318,45 +1328,80 @@
   </a>
   - Allows searching for Sublime Text projects and opens them in Sublime.
   <sup>
-   &#9733 0, pushed 146 days ago
+   &#9733 0, pushed 271 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dotcode/multi-shell-repo-prompt">
-   multi-shell-repo-prompt
+  <a href="https://github.com/Temikus/mac-packaging">
+   mac-packaging
   </a>
-  - Provides useful information (in your prompt) about the repository that you are in. It currently works for
-  <a href="http://git-scm.com/">
-   Git
-  </a>
-  and
-  <a href="http://mercurial.selenic.com/">
-   Mercurial
-  </a>
-  , under
-  <a href="http://en.wikipedia.org/wiki/Zsh">
-   zsh
-  </a>
-  as well as
-  <a href="http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29">
-   bash
-  </a>
+  - A set of common functions used for enterprise Mac packaging with Munki
   <sup>
-   &#9733 9, pushed 403 days ago
+   &#9733 1, pushed 471 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/akoenig/npm-run.plugin.zsh">
-   npm-run.plugin.zsh
+  <a href="https://github.com/hlohm/mfunc">
+   mfunc
   </a>
-  -
-  <code>
-   npm run
-  </code>
-  autocompletion
+  - Allows you to define persistent functions on-the-fly, without the need to add them to your config files. These functions are permanently available until you delete them.
   <sup>
-   &#9733 15, pushed 129 days ago
+   &#9733 1, pushed 338 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/KasperChristensen/mylocation">
+   mylocation
+  </a>
+  - A plugin to show your current location based on your IP address.
+ </li>
+ <li>
+  <a href="https://github.com/horosgrisa/mysql-colorize">
+   mysql-colorize
+  </a>
+  - Colors for mysql tables.
+  <sup>
+   &#9733 5, pushed 255 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/mysql.plugin.zsh">
+   mysql.plugin.zsh
+  </a>
+  - Adds some functions for dealing with mysql.
+  <sup>
+   &#9733 6, pushed 517 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bric3/nice-exit-code">
+   nice-exit-code
+  </a>
+  - Maps exit status code to human readable string.
+  <sup>
+   &#9733 7, pushed 727 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/srijanshetty/node.plugin.zsh">
+   node.plugin.zsh
+  </a>
+  - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
+  <sup>
+   &#9733 3, pushed 502 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jsahlen/nodenv.plugin.zsh">
+   nodenv.plugin.zsh
+  </a>
+  - Auto-load nodenv and its completions into the shell.
+ </li>
+ <li>
+  <a href="https://github.com/eventi/noreallyjustfuckingstopalready">
+   noreallyjustfuckingstopalready
+  </a>
+  - OS X users know the pain of trying to figure out what command actually flushes the DNS cache on their version of OS X, and this plugin makes that annoyance go away.
  </li>
  <li>
   <a href="https://github.com/tomsquest/nvm-auto-use.zsh">
@@ -2372,8 +1417,1191 @@
   </code>
   file with a string telling nvm which node to use
   <sup>
-   &#9733 0, pushed 3 days ago
+   &#9733 0, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dijitalmunky/nvm-auto">
+   nvm-auto
+  </a>
+  - Aims to alleviate needing to type
+  <code>
+   nvm use
+  </code>
+  as much as possible, especially if you often switch between versions of node.js and use
+  <code>
+   .nvmrc
+  </code>
+  files in your project to manage what version of node your project needs
+ </li>
+ <li>
+  <a href="https://github.com/keithhamilton/oh-my-dogesh">
+   oh-my-dogesh
+  </a>
+  - Dogification plugin.
+  <sup>
+   &#9733 3, pushed 895 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gepoch/oh-my-zsh-dirstack">
+   oh-my-zsh-dirstack
+  </a>
+  - Plugin for displaying dirstack info on a single line.
+  <sup>
+   &#9733 0, pushed 495 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sandstorm/oh-my-zsh-flow-plugin">
+   oh-my-zsh-flow-plugin
+  </a>
+  - This plugin makes the flow command available inside every subdirectory of the TYPO3 Flow distribution.
+ </li>
+ <li>
+  <a href="https://github.com/gerges/oh-my-zsh-jira-plus">
+   oh-my-zsh-jira-plus
+  </a>
+  - Create JIRAs from the command line.
+  <sup>
+   &#9733 0, pushed 596 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/AlexisBRENON/oh-my-zsh-reminder">
+   oh-my-zsh-reminder
+  </a>
+  - A plugin which displays reminders above every prompt
+  <sup>
+   &#9733 2, pushed 602 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt">
+   oh-my-zsh-virtualenv-prompt
+  </a>
+  - A fork of the virtualenv plugin from upstream. It adds support for customizing the virtualenv prompt in oh-my-zsh themes.
+  <sup>
+   &#9733 25, pushed 908 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hchbaw/opp.zsh">
+   opp.zsh
+  </a>
+  - Vim's text-objects-ish for zsh.
+  <sup>
+   &#9733 224, pushed 424 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/marshallmick007/osx-dev-zsh-plugin">
+   osx-dev-zsh-plugin
+  </a>
+  - This plugin adds some commands for maintaining various server programs on my OSX install.
+  <sup>
+   &#9733 4, pushed 275 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin">
+   pantheon-terminal-notify-zsh-plugin
+  </a>
+  - Background notifications for long running commands. Supports Elementary OS Freya
+  <sup>
+   &#9733 8, pushed 495 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/benclark/parallels-zsh-plugin">
+   parallels-zsh-plugin
+  </a>
+  - Parallels desktop plugin
+  <sup>
+   &#9733 5, pushed 1129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/phpunit.plugin.zsh">
+   phpunit.plugin.zsh
+  </a>
+  - Plugin for
+  <a href="https://phpunit.de/">
+   PHPUnit
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/sharat87/pip-app">
+   pip-app
+  </a>
+  - Makes it easy to install python applications into distinct virtualenvs so they don't conflict with any other python requirements on your system.
+  <sup>
+   &#9733 18, pushed 273 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hellodarren/plugin">
+   plugin
+  </a>
+  - Creates custom oh-my-zsh plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks
+ </li>
+ <li>
+  <a href="https://github.com/sindresorhus/pretty-time-zsh">
+   pretty-time-zsh
+  </a>
+  - Convert seconds to a human readable string: 165392 → 1d 21h 56m 32s.
+  <sup>
+   &#9733 26, pushed 406 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/shengyou/robo-zsh-plugin">
+   robo-zsh-plugin
+  </a>
+  - A ZSH plugin for
+  <a href="http://robo.li/">
+   Robo
+  </a>
+  <sup>
+   &#9733 1, pushed 918 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aperezdc/rockz">
+   rockz
+  </a>
+  - Lua + LuaRocks virtual environment manager based upon VirtualZ.
+  <sup>
+   &#9733 0, pushed 175 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/johnhamelink/rvm-zsh">
+   rvm-zsh
+  </a>
+  - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's $PATH
+  <sup>
+   &#9733 1, pushed 1226 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/oz/safe-paste">
+   safe-paste
+  </a>
+  - A safe-paste plugin. See
+  <a href="http://cirw.in/blog/bracketed-paste">
+   http://cirw.in/blog/bracketed-paste
+  </a>
+  <sup>
+   &#9733 4, pushed 592 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/willghatch/zsh-saneopt">
+   saneopt
+  </a>
+  - Sane defaults for zsh options, in the spirit of vim-sensible.
+  <sup>
+   &#9733 3, pushed 361 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/robertzk/send.zsh">
+   send.zsh
+  </a>
+  - Single command to git add, git commit, and git push for much faster git workflow.
+  <sup>
+   &#9733 3, pushed 337 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kalpakrg/setenv">
+   setenv
+  </a>
+  - Runs a script when you change directories
+  <sup>
+   &#9733 0, pushed 194 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dbkaplun/smart-cd">
+   smart-cd
+  </a>
+  - Runs
+  <code>
+   ls
+  </code>
+  and
+  <code>
+   git status
+  </code>
+  after chpwd.
+  <sup>
+   &#9733 8, pushed 468 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/willghatch/zsh-snippets">
+   snippets
+  </a>
+  - Command line snippet expansion.
+  <sup>
+   &#9733 7, pushed 162 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zlsun/solarized-man">
+   solarized-man
+  </a>
+  - A modified version of oh-my-zsh's plugin colored-man-pages, optimized for solarized dark theme in terminal
+  <sup>
+   &#9733 2, pushed 166 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vladmrnv/statify">
+   statify
+  </a>
+  - Plugin that does basic statistical analysis
+  <sup>
+   &#9733 2, pushed 221 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aphelionz/strerror.plugin.zsh">
+   sterror.plugin.zsh
+  </a>
+  - Interprets error messages from programs and displays a human readable error message when available
+ </li>
+ <li>
+  <a href="https://github.com/voronkovich/symfony.plugin.zsh">
+   symfony.plugin.zsh
+  </a>
+  - ZSH plugin for Symfony 2 and 3.
+ </li>
+ <li>
+  <a href="https://github.com/skx/sysadmin-util">
+   sysadmin-util
+  </a>
+  - Steve Kemp's collection of tool scripts for sysadmins.
+  <sup>
+   &#9733 338, pushed 253 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/LockonS/terminal-workload-report">
+   terminal-workload-report
+  </a>
+  - A plugin that calculates and displays how many commands have been run via terminal.
+ </li>
+ <li>
+  <a href="https://github.com/unixorn/tumult.plugin.zsh">
+   tumult
+  </a>
+  - Adds tools for OS X
+  <sup>
+   &#9733 5, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/peterhurford/up.zsh">
+   up.zsh
+  </a>
+  - Adds an up command to cd multiple levels up
+ </li>
+ <li>
+  <a href="https://github.com/yonchu/vimman">
+   vimman
+  </a>
+  - View vim plugin manuals (help) like man in zsh
+  <sup>
+   &#9733 8, pushed 748 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aperezdc/virtualz">
+   virtualz
+  </a>
+  - Python virtualenv manager inspired by Virtualfish, replaces virtualenvwrapper.
+  <sup>
+   &#9733 1, pushed 160 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/andrewbonnington/vox.plugin.zsh">
+   vox
+  </a>
+  - An oh-my-zsh plugin to control
+  <a href="http://coppertino.com/vox/mac">
+   VOX
+  </a>
+  , a lightweight full-featured audio player for OS X that can play a variety of formats including FLAC and Ogg Vorbis
+  <sup>
+   &#9733 2, pushed 219 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/wbinglee/zsh-wakatime">
+   wakatime
+  </a>
+  - Automatic time tracking for commands in ZSH using
+  <a href="https://wakatime.com/">
+   wakatime
+  </a>
+  <sup>
+   &#9733 8, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/unixorn/warhol.plugin.zsh">
+   warhol
+  </a>
+  - Configures colorization with
+  <a href="https://github.com/garabik/grc">
+   grc
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/bcho/Watson.zsh">
+   watson.zsh
+  </a>
+  - A plugin for
+  <a href="https://github.com/TailorDev/Watson">
+   watson
+  </a>
+  <sup>
+   &#9733 1, pushed 316 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mfaerevaag/wd">
+   wd
+  </a>
+  - Warp directory lets you jump to custom directories in zsh, without using cd. Why? Because cd seems ineffecient when the folder is frequently visited or has a long path.
+  <sup>
+   &#9733 95, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/edouard-lopez/yeoman-zsh-plugin">
+   yeoman-zsh-plugin
+  </a>
+  - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion)
+  <sup>
+   &#9733 29, pushed 460 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zsh-users/zaw">
+   zaw
+  </a>
+  - ZSH anything.el-like widget.
+  <sup>
+   &#9733 304, pushed 180 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hchbaw/zce.zsh">
+   zce
+  </a>
+  - Vim’s EasyMotion / Emacs’s ace-jump-mode for zsh.
+  <sup>
+   &#9733 15, pushed 178 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/arlimus/zero.zsh">
+   zero
+  </a>
+  - Zero is both a plugin and a theme. See the github page for installation details.
+  <sup>
+   &#9733 10, pushed 395 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kmhjs/zinfo_line">
+   zinfo_line
+  </a>
+  - Makes more information available to zsh themes
+  <sup>
+   &#9733 1, pushed 487 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/chrissicool/zsh-256color">
+   zsh-256color
+  </a>
+  - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
+  <sup>
+   &#9733 12, pushed 313 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mafredri/zsh-async">
+   zsh-async
+  </a>
+  - Library for running asynchronous tasks in zsh without requiring any external tools.
+  <sup>
+   &#9733 70, pushed 244 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Tarrasch/zsh-autoenv">
+   zsh-autoenv
+  </a>
+  - If a directory contains a .env file, it will automatically be executed when you cd into it.
+  <sup>
+   &#9733 115, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hlissner/zsh-autopair">
+   zsh-autopair
+  </a>
+  - A ZSH plugin for auto-closing, deleting and skipping over matching delimiters.
+  <sup>
+   &#9733 18, pushed 141 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zsh-users/zsh-autosuggestions">
+   zsh-autosuggestions
+  </a>
+  -
+  <a href="http://fishshell.com/">
+   Fish
+  </a>
+  -like fast/unobtrusive autosuggestions for zsh.
+  <sup>
+   &#9733 1059, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv">
+   zsh-autoswitch-virtualenv
+  </a>
+  - Zsh plugin to automatically switch python virtualenvs when traversing directories
+ </li>
+ <li>
+  <a href="https://github.com/dirkk/zsh-basex">
+   zsh-basex
+  </a>
+  - Adds several
+  <a href="http://basex.org/">
+   BaseX
+  </a>
+  aliases for simplified usage.
+  <sup>
+   &#9733 1, pushed 694 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/chrissicool/zsh-bash">
+   zsh-bash
+  </a>
+  - Makes ZSH more Bash compatible. It redefines the source command to act more like Bash does. It also enables Bash completions.
+  <sup>
+   &#9733 7, pushed 676 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Tarrasch/zsh-bd">
+   zsh-bd
+  </a>
+  - Jump back to a specific directory, without doing
+  <code>
+   cd ../../..
+  </code>
+  <sup>
+   &#9733 147, pushed 346 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsh-cmd-architect">
+   zsh-cmd-architect
+  </a>
+  - build commands from what's in history and at prompt, move, delete, add command segments and search history with multi-word queries
+  <sup>
+   &#9733 15, pushed 138 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Tarrasch/zsh-colors">
+   zsh-colors
+  </a>
+  - Makes it easier to colorize text from the CLI.
+  <code>
+   red foo
+  </code>
+  just works.
+  <sup>
+   &#9733 14, pushed 188 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RobSis/zsh-completion-generator">
+   zsh-completion-generator
+  </a>
+  - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator.
+  <sup>
+   &#9733 37, pushed 161 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joel-porquet/zsh-dircolors-solarized">
+   zsh-dircolors-solarized
+  </a>
+  - Solarized dircolors plugin.
+  <sup>
+   &#9733 9, pushed 231 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tymm/zsh-directory-history">
+   zsh-directory-history
+  </a>
+  - A per directory history for zsh.
+  <sup>
+   &#9733 59, pushed 146 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/oknowton/zsh-dwim">
+   zsh-dwim
+  </a>
+  - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
+  <sup>
+   &#9733 55, pushed 451 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsh-editing-workbench">
+   zsh-editing-workbench
+  </a>
+  - Adds sane, complex command line editing (e.g. incremental history
+  <em>
+   word
+  </em>
+  completion).
+  <sup>
+   &#9733 8, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Tarrasch/zsh-functional">
+   zsh-functional
+  </a>
+  - ZSH higher order functions.
+  <sup>
+   &#9733 65, pushed 559 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/seletskiy/zsh-fuzzy-search-and-edit">
+   zsh-fuzzy-search-and-edit
+  </a>
+  - ZSH plugin for fuzzy searching files and instantly opening a matched file on matched line.
+ </li>
+ <li>
+  <a href="https://github.com/s7anley/zsh-geeknote">
+   zsh-geeknote
+  </a>
+  - Geeknote plugin for zsh.
+  <sup>
+   &#9733 9, pushed 150 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rcruzper/zsh-git-plugin">
+   zsh-git-plugin
+  </a>
+  - Adds some functions for git
+ </li>
+ <li>
+  <a href="https://github.com/caarlos0/zsh-git-sync">
+   zsh-git-sync
+  </a>
+  - A ZSH plugin to sync git repositories and clean them up.
+  <sup>
+   &#9733 12, pushed 220 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/clauswitt/zsh-grunt-plugin">
+   zsh-grunt-plugin
+  </a>
+  - Add autocompletion for grunt.
+  <sup>
+   &#9733 9, pushed 1494 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/yerinle/zsh-gvm">
+   zsh-gvm (yerinle)
+  </a>
+  - Provides autocompletion for gvm (Groovy enVironment Manager)
+  <sup>
+   &#9733 0, pushed 1122 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joepvd/zsh-hints">
+   zsh-hints
+  </a>
+  - Display glob and parameter flags and other non completable info right under your editing buffer.
+  <sup>
+   &#9733 13, pushed 890 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zsh-users/zsh-history-substring-search">
+   zsh-history-substring-search
+  </a>
+  - Needs to be loaded after zsh-syntax-highlighting, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md
+  <sup>
+   &#9733 440, pushed 181 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rocknrollMarc/zsh-konsole-theme-changer">
+   zsh-konsole-theme-changer
+  </a>
+  - Toggle konsole theme from zsh.
+ </li>
+ <li>
+  <a href="https://github.com/knu/zsh-manydots-magic">
+   zsh-manydots-magic
+  </a>
+  - A zle tweak for emulating
+  <code>
+   ...'==
+  </code>
+  ../..' etc.
+  <sup>
+   &#9733 16, pushed 1051 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/KyleChamberlin/zsh_maven_plugin">
+   zsh-maven-plugin
+  </a>
+  - A fork of the oh-my-zsh maven plugin
+  <sup>
+   &#9733 0, pushed 362 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hcgraf/zsh-mercurial">
+   zsh-mercurial
+  </a>
+  - extracted from oh-my-zsh so you can use it without omz
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsh-morpho">
+   zsh-morpho
+  </a>
+  - terminal screen savers written in pure Zsh, and also screen saver framework
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsh-navigation-tools">
+   zsh-navigation-tools
+  </a>
+  - Adds
+  <code>
+   htop
+  </code>
+  -like
+  <code>
+   kill
+  </code>
+  , directory bookmarks browser, multi-word incremental history searcher and more.
+  <sup>
+   &#9733 57, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/marzocchi/zsh-notify">
+   zsh-notify
+  </a>
+  - A plugin for the Z shell (on OS X and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the command's terminal tab is inactive).
+  <sup>
+   &#9733 127, pushed 236 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lukechilds/zsh-nvm">
+   zsh-nvm
+  </a>
+  - Zsh plugin for installing, updating and loading nvm.
+ </li>
+ <li>
+  <a href="https://github.com/caarlos0/zsh-open-pr">
+   zsh-open-pr
+  </a>
+  - A ZSH plugin to open pull requests from command line.
+  <sup>
+   &#9733 10, pushed 220 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jreese/zsh-opt-path">
+   zsh-opt-path
+  </a>
+  - Automatically add
+  <code>
+   ~/opt
+  </code>
+  subpaths to your
+  <code>
+   $PATH
+  </code>
+  .
+  <sup>
+   &#9733 1, pushed 307 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mwilliammyers/plugin-osx">
+   zsh-osx
+  </a>
+  - Add some common OS X related aliases and functions
+  <sup>
+   &#9733 5, pushed 249 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jimeh/zsh-peco-history">
+   zsh-peco-history
+  </a>
+  - Search shell history with Peco when pressing ctrl+r.
+  <sup>
+   &#9733 1, pushed 138 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/caarlos0/zsh-pg">
+   zsh-pg
+  </a>
+  - Utility functions to work with PosgreSQL
+  <sup>
+   &#9733 7, pushed 222 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RudthMael/zsh-plugin-ibtool">
+   zsh-plugin-ibtool
+  </a>
+  - Adds ibtool shortcuts to generate localized XIB files
+  <sup>
+   &#9733 0, pushed 1064 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/paraqles/zsh-plugin-rails">
+   zsh-plugin-rails
+  </a>
+  - ZSH plugin for Rails
+  <sup>
+   &#9733 2, pushed 566 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/wuotr/zsh-plugin-vscode">
+   zsh-plugin-vscode
+  </a>
+  - Plugin for Visual Studio Code, a text editor for Mac OS X, Windows, and Linux
+  <sup>
+   &#9733 1, pushed 228 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RobSis/zsh-reentry-hook">
+   zsh-reentry-hook
+  </a>
+  - Plugin that re-enters working directory if it has been removed and re-created.
+  <sup>
+   &#9733 2, pushed 154 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsh-select">
+   zsh-select
+  </a>
+  - multi-term searched selection list with approximate matching and uniq mode
+ </li>
+ <li>
+  <a href="https://github.com/hcgraf/zsh-sudo">
+   zsh-sudo
+  </a>
+  - the sudo plugin from oh-my-zsh, extracted to a standalone. Toggles "sudo" before the current/previous command by pressing
+  <em>
+   ESC-ESC
+  </em>
+  in emacs-mode or vi-command mode.
+ </li>
+ <li>
+  <a href="https://github.com/srijanshetty/zsh-suffix-alias">
+   zsh-suffix-alias
+  </a>
+  - Directly open files in the shell using ZSH's suffix aliases.
+  <sup>
+   &#9733 0, pushed 467 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zsh-users/zsh-syntax-highlighting">
+   zsh-syntax-highlighting
+  </a>
+  - Add syntax highlighting to your zsh. Make sure you load this
+  <em>
+   before
+  </em>
+  zsh-users/zsh-history-substring-search or they will both break.
+  <sup>
+   &#9733 2351, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/chrissicool/zsh-t32">
+   zsh-t32
+  </a>
+  - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
+  <sup>
+   &#9733 1, pushed 827 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/the8/zsh-terminal-app">
+   zsh-terminal-app
+  </a>
+  - A plugin for integrating with the new El Capitan Terminal.app features
+ </li>
+ <li>
+  <a href="https://github.com/jreese/zsh-titles">
+   zsh-titles
+  </a>
+  - Automatic window and tab titles for tmux and xterm-compatible terminals.
+  <sup>
+   &#9733 8, pushed 306 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/TBSliver/zsh-plugin-tmux-simple">
+   zsh-tmux-simple
+  </a>
+  - Simple plugin for using tmux with zsh.
+  <sup>
+   &#9733 1, pushed 619 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/denolfe/zsh-travis">
+   zsh-travis
+  </a>
+  - Opens the Travis CI page for the current repo if one exists.
+  <sup>
+   &#9733 0, pushed 222 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ascii-soup/zsh-url-highlighter">
+   zsh-url-highlighter
+  </a>
+  - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
+  <sup>
+   &#9733 9, pushed 136 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sharat87/zsh-vim-mode">
+   zsh-vim-mode
+  </a>
+  - Shrikant Sharat's bindings for zsh's vi mode so it behaves more vim-like.
+  <sup>
+   &#9733 23, pushed 1338 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jocelynmallon/zshmarks">
+   zshmarks
+  </a>
+  - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh.
+  <sup>
+   &#9733 102, pushed 209 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/zsnapshot">
+   zsnapshot
+  </a>
+  - Adds command to dump the current Zsh state into a file, for later restoration by sourcing the snapshot file.
+  <sup>
+   &#9733 1, pushed 202 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/psprint/ztrace">
+   Ztrace
+  </a>
+  - Catches output of commands, allows to reuse that output, glue it with history content.
+ </li>
+</ul>
+<h2>
+ Even more completions
+</h2>
+<p>
+ These plugins add tab completion without adding extra functions or aliases.
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/fuzzylogiq/autopkg-zsh-completion">
+   autopkg-zsh-completion
+  </a>
+  - Completions for autopkg.
+  <sup>
+   &#9733 6, pushed 301 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/EslamElHusseiny/aws_manager_plugin">
+   aws
+   <em>
+    manager
+   </em>
+   plugin
+  </a>
+  - Add completions for the aws_manager CLI
+ </li>
+ <li>
+  <a href="https://github.com/berkshelf/berkshelf-zsh-plugin">
+   berkshelf-zsh-plugin
+  </a>
+  - Adds tab completion for berkshelf.
+  <sup>
+   &#9733 14, pushed 651 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/krujos/bosh-zsh-autocompletion">
+   bosh-zsh-autocompletion
+  </a>
+  - Adds BOSH autocompletion.
+  <sup>
+   &#9733 1, pushed 632 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vasyharan/zsh-brew-services">
+   brew-services
+  </a>
+  - Completion plugin for homebrew services.
+  <sup>
+   &#9733 4, pushed 445 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/d12frosted/cabal.plugin.zsh">
+   cabal
+  </a>
+  - Adds autocompletion for cabal.
+  <sup>
+   &#9733 0, pushed 685 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/frodenas/cf-zsh-autocomplete-plugin">
+   cf-zsh-autocomplete-plugin
+  </a>
+  - Adds autocomplete for all
+  <a href="http://docs.cloudfoundry.org/devguide/installcf/">
+   Cloud Foundry CLI
+  </a>
+  commands.
+ </li>
+ <li>
+  <a href="https://github.com/shengyou/codeception-zsh-plugin">
+   codeception-zsh-plugin
+  </a>
+  - Adds command completion for the Codeception Testing Framework.
+  <sup>
+   &#9733 8, pushed 343 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine">
+   codemachine
+  </a>
+  - Displays git info, whether you're logged in via ssh, return code of last command.
+  <sup>
+   &#9733 2, pushed 893 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lejeunerenard/dbic-migration-env">
+   dbic
+  </a>
+  - Automatically sets up Environment variables for DBIx::Class::Migration's script and Dancer.
+  <sup>
+   &#9733 0, pushed 899 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/primait/docker-enter-completion">
+   docker-enter-completion
+  </a>
+  - Command completion for
+  <a href="https://github.com/jpetazzo/nsenter">
+   docker-enter
+  </a>
+  .
+  <sup>
+   &#9733 7, pushed 550 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/felixr/docker-zsh-completion">
+   docker-zsh-completion
+  </a>
+  - Add completions for docker.
+  <sup>
+   &#9733 121, pushed 188 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/horosgrisa/zsh-dropbox">
+   dropbox
+  </a>
+  - A dropbox plugin for Zsh that provides
+  <code>
+   dropbox-cli
+  </code>
+  and
+  <code>
+   dropbox-uploader
+  </code>
+  commands.
+ </li>
+ <li>
+  <a href="https://github.com/webflo/drush_zsh_completion">
+   drush
+   <em>
+    zsh
+   </em>
+   completion
+  </a>
+  - Drush autocomplete awesomeness for zsh
+  <sup>
+   &#9733 38, pushed 220 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jcxavier/oh-my-zsh-duell">
+   duell
+  </a>
+  - A zsh plugin for
+  <a href="https://github.com/gameduell/duell">
+   duell
+  </a>
+  <sup>
+   &#9733 2, pushed 464 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sheax0r/etcdctl-zsh">
+   etcdctl-zsh
+  </a>
+  - Adds etcdctl tab completions.
+  <sup>
+   &#9733 2, pushed 707 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fabiokiatkowski/exercism.plugin.zsh">
+   exercism
+  </a>
+  - A plugin for
+  <a href="http://exercism.io/">
+   exercism.io
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin">
+   fly-zsh-autocomplete-plugin
+  </a>
+  - Adds autocompletion options for all
+  <a href="http://concourse.ci/fly-cli.html">
+   Concourse CLI
+  </a>
+  commands.
+  <sup>
+   &#9733 0, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bobthecow/git-flow-completion">
+   git-flow-completion
+  </a>
+  - ZSH completion support for git-flow
+  <sup>
+   &#9733 1506, pushed 160 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pmorillon/grid5000-zsh-plugin">
+   grid5000-zsh-plugin
+  </a>
+  - Grid 5000 plugin - adds theme, autocompletions
+  <sup>
+   &#9733 2, pushed 1480 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/srijanshetty/gulp-autocompletion-zsh">
+   gulp-autocompletion-zsh
+  </a>
+  - Autocompletion for gulp.
+  <sup>
+   &#9733 6, pushed 477 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/akoenig/gulp.plugin.zsh">
+   gulp
+  </a>
+  - Autocompletion for your gulp.js tasks in the Z-Shell (zsh).
+  <sup>
+   &#9733 19, pushed 213 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/netresearch/jumpstorm-zsh-plugin">
+   jumpstorm-zsh-plugin
+  </a>
+  - Adds autocompletion for
+  <a href="https://github.com/netresearch/jumpstorm">
+   jumpstorm
+  </a>
+  <sup>
+   &#9733 1, pushed 1551 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/spwhitt/nix-zsh-completions">
+   nix-zsh-completions
+  </a>
+  - Completions for
+  <a href="https://nixos.org/nix/">
+   nix
+  </a>
+  ,
+  <a href="https://nixos.org/">
+   NixOS
+  </a>
+  , and
+  <a href="http://nixos.org/nixops/">
+   NixOps
+  </a>
+  .
  </li>
  <li>
   <a href="https://github.com/nsetyo/octopress-zsh-completion">
@@ -2381,25 +2609,16 @@
   </a>
   - completions for Octopress
   <sup>
-   &#9733 0, pushed 36 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/arialdomartini/oh-my-git">
-   oh-my-git
-  </a>
-  - An opinionated prompt for bash and zsh
-  <sup>
-   &#9733 1999, pushed 4 days ago
+   &#9733 0, pushed 161 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/rbirnie/oh-my-zsh-nova">
    oh-my-zsh-nova
   </a>
-  - Provides auto-complete for the nova so you don't need to remember all those pesky arguments
+  - Provides auto-complete for nova
   <sup>
-   &#9733 6, pushed 403 days ago
+   &#9733 6, pushed 528 days ago
   </sup>
  </li>
  <li>
@@ -2408,16 +2627,7 @@
   </a>
   - Ole Sunde's nvm plugin for zsh
   <sup>
-   &#9733 0, pushed 409 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/robbl/oh-my-zsh-config">
-   oh-my-zsh-robbl
-  </a>
-  - shows git/svn status including time since last commit, rvm status in prompt.
-  <sup>
-   &#9733 5, pushed 1452 days ago
+   &#9733 0, pushed 534 days ago
   </sup>
  </li>
  <li>
@@ -2430,7 +2640,7 @@
   </a>
   commands
   <sup>
-   &#9733 6, pushed 164 days ago
+   &#9733 6, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -2446,7 +2656,7 @@
    Razor
   </a>
   <sup>
-   &#9733 0, pushed 755 days ago
+   &#9733 0, pushed 880 days ago
   </sup>
  </li>
  <li>
@@ -2459,7 +2669,7 @@
   </a>
   .
   <sup>
-   &#9733 0, pushed 11 days ago
+   &#9733 0, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2468,7 +2678,7 @@
   </a>
   - Add fast tab completion for rakefile targets
   <sup>
-   &#9733 5, pushed 273 days ago
+   &#9733 5, pushed 398 days ago
   </sup>
  </li>
  <li>
@@ -2477,8 +2687,14 @@
   </a>
   - Add completions for surf
   <sup>
-   &#9733 1, pushed 33 days ago
+   &#9733 1, pushed 158 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://gist.github.com/blueyed/6856354">
+   tmux pane words
+  </a>
+  - Key bindings to complete words from your tmux pane.
  </li>
  <li>
   <a href="https://github.com/DimitriSteyaert/Zsh-tugboat">
@@ -2490,7 +2706,7 @@
   </a>
   command
   <sup>
-   &#9733 4, pushed 372 days ago
+   &#9733 4, pushed 497 days ago
   </sup>
  </li>
  <li>
@@ -2499,8 +2715,33 @@
   </a>
   - Tab completion for Ubuntu umake
   <sup>
-   &#9733 0, pushed 73 days ago
+   &#9733 0, pushed 198 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/davidafsilva/vert.x-omz-plugin">
+   vert.x-omz-plugin
+  </a>
+  - Provides autocomplete features for the
+  <a href="http://vertx.io/">
+   vertx
+  </a>
+  command.
+ </li>
+ <li>
+  <a href="https://github.com/Valodim/zsh-_url-httplink">
+   zsh-_url-httplink
+  </a>
+  - Extends zsh's _urls completion, allowing it to complete urls from html pages.
+ </li>
+ <li>
+  <a href="https://github.com/lukechilds/zsh-better-npm-completion">
+   zsh-better-npm-completion
+  </a>
+  - Better completion for
+  <code>
+   npm
+  </code>
  </li>
  <li>
   <a href="https://github.com/ehamberg/zsh-cabal-completion">
@@ -2508,16 +2749,7 @@
   </a>
   - Add tab completion for cabal
   <sup>
-   &#9733 0, pushed 370 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RobSis/zsh-completion-generator">
-   zsh-completion-generator
-  </a>
-  - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically.
-  <sup>
-   &#9733 37, pushed 36 days ago
+   &#9733 0, pushed 495 days ago
   </sup>
  </li>
  <li>
@@ -2526,7 +2758,7 @@
   </a>
   - A collection of extra completions for ZSH.
   <sup>
-   &#9733 1206, pushed 2 days ago
+   &#9733 1206, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2534,33 +2766,20 @@
    zsh-ipfs
   </a>
   - Completions for the
-  <a href="http://ipfs.io/">
+  <a href="https://ipfs.io">
    Interplanetary File System
   </a>
   <sup>
-   &#9733 2, pushed 125 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/willghatch/zsh-megaprompt">
-   zsh-megaprompt
-  </a>
-  - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the
-  <a href="https://github.com/willghatch/zsh-hooks">
-   hooks
-  </a>
-  plugin.
-  <sup>
-   &#9733 2, pushed 17 days ago
+   &#9733 2, pushed 250 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/wakeful/zsh-packer">
    zsh-packer
   </a>
-  tab completion for packer
+  - Adds tab completion for packer
   <sup>
-   &#9733 0, pushed 123 days ago
+   &#9733 0, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -2569,7 +2788,7 @@
   </a>
   - Pandoc completion plugin
   <sup>
-   &#9733 6, pushed 205 days ago
+   &#9733 6, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -2578,8 +2797,14 @@
   </a>
   - Autocompletion plugin for pip
   <sup>
-   &#9733 6, pushed 377 days ago
+   &#9733 6, pushed 502 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tong/zsh.plugin.haxelib">
+   zsh.plugin.haxelib
+  </a>
+  - Completions for haxelib
  </li>
 </ul>
 <h2>
@@ -2610,6 +2835,18 @@
 </p>
 <ul>
  <li>
+  <a href="https://github.com/aaronjamesyoung/aaron-zsh-theme">
+   aaron-zsh-theme
+  </a>
+  - Based on the Sorin theme
+ </li>
+ <li>
+  <a href="https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme">
+   adlee
+  </a>
+  - OS X theme, requires Powerline font
+ </li>
+ <li>
   <a href="https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme">
    af-magic-mod
   </a>
@@ -2633,7 +2870,7 @@
   </a>
   .
   <sup>
-   &#9733 3, pushed 671 days ago
+   &#9733 3, pushed 795 days ago
   </sup>
  </li>
  <li>
@@ -2642,7 +2879,7 @@
   </a>
   - Shows git information in right hand prompt.
   <sup>
-   &#9733 1, pushed 1153 days ago
+   &#9733 1, pushed 1277 days ago
   </sup>
  </li>
  <li>
@@ -2659,7 +2896,7 @@
   </a>
   .
   <sup>
-   &#9733 2, pushed 470 days ago
+   &#9733 2, pushed 595 days ago
   </sup>
  </li>
  <li>
@@ -2668,8 +2905,14 @@
   </a>
   - Based on the existing theme blinks.
   <sup>
-   &#9733 0, pushed 374 days ago
+   &#9733 0, pushed 499 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/yardnsm/blox-zsh-theme">
+   blox-zsh-theme
+  </a>
+  - A minimal and fast ZSH theme that shows you what you need. It consists of blocks: each block is shown inside a pair of [square brackets], and you can add blocks by simply creating a function.
  </li>
  <li>
   <a href="https://github.com/apbarrero/bluelines">
@@ -2677,7 +2920,7 @@
   </a>
   - Clear and blue theme.
   <sup>
-   &#9733 1, pushed 730 days ago
+   &#9733 1, pushed 854 days ago
   </sup>
  </li>
  <li>
@@ -2686,7 +2929,7 @@
   </a>
   - Brunty theme
   <sup>
-   &#9733 3, pushed 259 days ago
+   &#9733 3, pushed 383 days ago
   </sup>
  </li>
  <li>
@@ -2695,7 +2938,7 @@
   </a>
   - Inspired by the Powerline Vim plugin. It aims for simplicity, showing information only when it's relevant.
   <sup>
-   &#9733 712, pushed 6 days ago
+   &#9733 712, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2704,7 +2947,7 @@
   </a>
   - A clear and informative two-lined prompt. Includes git status optimized for large repositories.
   <sup>
-   &#9733 5, pushed 98 days ago
+   &#9733 5, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -2713,7 +2956,7 @@
   </a>
   - Light version of the candy theme.
   <sup>
-   &#9733 1, pushed 811 days ago
+   &#9733 1, pushed 936 days ago
   </sup>
  </li>
  <li>
@@ -2722,7 +2965,7 @@
   </a>
   - A zsh prompt optimized for the solarized dark terminal theme.
   <sup>
-   &#9733 2, pushed 711 days ago
+   &#9733 2, pushed 836 days ago
   </sup>
  </li>
  <li>
@@ -2731,7 +2974,7 @@
   </a>
   - A zsh theme optimized for iTerm users on OS X
   <sup>
-   &#9733 1, pushed 111 days ago
+   &#9733 1, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -2740,7 +2983,7 @@
   </a>
   - Wes Bos' Cobalt 2 theme for ZSH and iTerm 2.
   <sup>
-   &#9733 294, pushed 252 days ago
+   &#9733 294, pushed 377 days ago
   </sup>
  </li>
  <li>
@@ -2750,12 +2993,18 @@
   - Codemachine theme.
  </li>
  <li>
+  <a href="https://github.com/stevelacy/cordial-zsh-theme">
+   cordial
+  </a>
+  - Clean and effective zsh theme with git and npm support
+ </li>
+ <li>
   <a href="https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme">
    cute-theme
   </a>
   - An OSX oh-my-zsh shell theme with Cute emoji based on the Powerline Vim plugin.
   <sup>
-   &#9733 5, pushed 383 days ago
+   &#9733 5, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -2768,14 +3017,14 @@
   </a>
   theme has been enhanced with a near complete rewrite enabling modularity and a few new features.
   <sup>
-   &#9733 0, pushed 509 days ago
+   &#9733 0, pushed 633 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sroze/docker-compose-zsh-plugin">
-   docker-compose
+  <a href="https://github.com/cusxio/delta-prompt">
+   delta-prompt
   </a>
-  Show docker container status in your prompt.
+  - A minimal Zsh prompt
  </li>
  <li>
   <a href="https://github.com/zenorocha/dracula-theme">
@@ -2783,22 +3032,8 @@
   </a>
   - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, Zsh.
   <sup>
-   &#9733 1906, pushed 3 days ago
+   &#9733 1906, pushed 128 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/horosgrisa/zsh-dropbox">
-   dropbox
-  </a>
-  - A dropbox plugin for Zsh that provides
-  <code>
-   dropbox-cli
-  </code>
-  and
-  <code>
-   dropbox-uploader
-  </code>
-  commands.
  </li>
  <li>
   <a href="https://github.com/davydovanton/excess.zsh-theme">
@@ -2806,18 +3041,8 @@
   </a>
   - Simple zsh color theme.
   <sup>
-   &#9733 0, pushed 259 days ago
+   &#9733 0, pushed 383 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/fabiokiatkowski/exercism.plugin.zsh">
-   exercism
-  </a>
-  - A plugin for
-  <a href="http://exercism.io/">
-   exercism.io
-  </a>
-  .
  </li>
  <li>
   <a href="https://github.com/BakeRolls/frisk-arrow">
@@ -2829,7 +3054,7 @@
   </a>
   oh-my-zsh-theme.
   <sup>
-   &#9733 0, pushed 1009 days ago
+   &#9733 0, pushed 1134 days ago
   </sup>
  </li>
  <li>
@@ -2844,7 +3069,7 @@
   </a>
   - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.
   <sup>
-   &#9733 0, pushed 1196 days ago
+   &#9733 0, pushed 1320 days ago
   </sup>
  </li>
  <li>
@@ -2853,7 +3078,7 @@
   </a>
   - Fork of the Cloud oh-my-zsh theme. with different colors and emojis.
   <sup>
-   &#9733 6, pushed 594 days ago
+   &#9733 6, pushed 719 days ago
   </sup>
  </li>
  <li>
@@ -2862,8 +3087,14 @@
   </a>
   - Nicola Racco's theme. Requires rvm & git plugins.
   <sup>
-   &#9733 2, pushed 1518 days ago
+   &#9733 2, pushed 1643 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/frmendes/geometry">
+   geometry
+  </a>
+  - A minimal ZSH theme
  </li>
  <li>
   <a href="https://github.com/mdentremont/girazz">
@@ -2871,7 +3102,7 @@
   </a>
   - A modification to the gnzh theme which adds VI mode to the right prompt.
   <sup>
-   &#9733 0, pushed 97 days ago
+   &#9733 0, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -2884,7 +3115,7 @@
   </a>
   color scheme.
   <sup>
-   &#9733 40, pushed 1114 days ago
+   &#9733 40, pushed 1239 days ago
   </sup>
  </li>
  <li>
@@ -2903,16 +3134,16 @@
   </a>
   - Includes git branch, time and user@host.
   <sup>
-   &#9733 0, pushed 310 days ago
+   &#9733 0, pushed 434 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/oldratlee/hacker-quotes">
-   hackerquotes
+   hacker-quotes
   </a>
   - Outputs a hacker quote randomly when you open a terminal
   <sup>
-   &#9733 5, pushed 140 days ago
+   &#9733 5, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -2925,7 +3156,7 @@
   </a>
   .
   <sup>
-   &#9733 3, pushed 401 days ago
+   &#9733 3, pushed 525 days ago
   </sup>
  </li>
  <li>
@@ -2934,7 +3165,7 @@
   </a>
   - Honukai theme and colors for oh-my-zsh and iTerm
   <sup>
-   &#9733 306, pushed 168 days ago
+   &#9733 306, pushed 293 days ago
   </sup>
  </li>
  <li>
@@ -2943,8 +3174,14 @@
   </a>
   - A very minimal brown/red zsh theme.
   <sup>
-   &#9733 0, pushed 415 days ago
+   &#9733 0, pushed 540 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tylerreckart/hyperzsh">
+   hyperzsh
+  </a>
+  - Gives you a comprehensive overview of the branch you're working on and the status of your repository without cluttering your terminal.
  </li>
  <li>
   <a href="https://github.com/zyphrus/intheloop-powerline">
@@ -2952,7 +3189,7 @@
   </a>
   - An extension of the intheloop theme to use powerline fonts.
   <sup>
-   &#9733 0, pushed 600 days ago
+   &#9733 0, pushed 725 days ago
   </sup>
  </li>
  <li>
@@ -2961,7 +3198,7 @@
   </a>
   - itsthatguy's theme.
   <sup>
-   &#9733 25, pushed 224 days ago
+   &#9733 25, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -2970,7 +3207,7 @@
   </a>
   - Loosely based on the ys theme.
   <sup>
-   &#9733 2, pushed 986 days ago
+   &#9733 2, pushed 1111 days ago
   </sup>
  </li>
  <li>
@@ -2979,7 +3216,7 @@
   </a>
   - Minimalist prompt.
   <sup>
-   &#9733 0, pushed 368 days ago
+   &#9733 0, pushed 493 days ago
   </sup>
  </li>
  <li>
@@ -2988,7 +3225,7 @@
   </a>
   - Theme with nifty colors on the git info.
   <sup>
-   &#9733 0, pushed 661 days ago
+   &#9733 0, pushed 786 days ago
   </sup>
  </li>
  <li>
@@ -2997,8 +3234,14 @@
   </a>
   - Uses Powerline iconsolas.
   <sup>
-   &#9733 0, pushed 293 days ago
+   &#9733 0, pushed 418 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/noplay/lagune">
+   lagune
+  </a>
+  - a minimal zsh theme
  </li>
  <li>
   <a href="https://github.com/halfo/lambda-mod-zsh-theme/">
@@ -3012,7 +3255,7 @@
   </a>
   - Simple standalone Zsh theme.
   <sup>
-   &#9733 5, pushed 22 days ago
+   &#9733 5, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3020,14 +3263,23 @@
    liquidprompt
   </a>
   - A full-featured & carefully designed adaptive prompt for Bash & ZSH.
+  <sup>
+   &#9733 2238, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/IOsonoTAN/magico">
+   magico
+  </a>
+  - IOsonoTAN's magico theme
  </li>
  <li>
   <a href="https://github.com/MaxUlysse/myzsh">
    maxulysse/myzsh
   </a>
-  Maxime Garcia's myzsh theme.
+  - Maxime Garcia's myzsh theme.
   <sup>
-   &#9733 1, pushed 463 days ago
+   &#9733 1, pushed 588 days ago
   </sup>
  </li>
  <li>
@@ -3040,7 +3292,7 @@
   </a>
   plugin.
   <sup>
-   &#9733 2, pushed 17 days ago
+   &#9733 2, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -3049,7 +3301,7 @@
   </a>
   - ZSH theme with space in mind.
   <sup>
-   &#9733 3, pushed 505 days ago
+   &#9733 3, pushed 630 days ago
   </sup>
  </li>
  <li>
@@ -3058,7 +3310,7 @@
   </a>
   - S1ck94's minimal theme.
   <sup>
-   &#9733 40, pushed 298 days ago
+   &#9733 40, pushed 423 days ago
   </sup>
  </li>
  <li>
@@ -3067,7 +3319,7 @@
   </a>
   - misalabs' zsh theme.
   <sup>
-   &#9733 0, pushed 922 days ago
+   &#9733 0, pushed 1047 days ago
   </sup>
  </li>
  <li>
@@ -3080,8 +3332,38 @@
   </a>
   .
   <sup>
-   &#9733 3, pushed 27 days ago
+   &#9733 3, pushed 151 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dotcode/multi-shell-repo-prompt">
+   multi-shell-repo-prompt
+  </a>
+  - Provides useful information (in your prompt) about the repository that you are in. It currently works for
+  <a href="http://git-scm.com/">
+   Git
+  </a>
+  and
+  <a href="http://www.selenic.com/">
+   Mercurial
+  </a>
+  , under
+  <a href="http://en.wikipedia.org/wiki/Zsh">
+   zsh
+  </a>
+  as well as
+  <a href="http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29">
+   bash
+  </a>
+  <sup>
+   &#9733 9, pushed 528 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nksoff/muslim">
+   muslim
+  </a>
+  - A simple minimal zsh prompt theme.
  </li>
  <li>
   <a href="https://github.com/tweekmonster/nanofish">
@@ -3089,7 +3371,7 @@
   </a>
   - Adds fish-style directory prompt to nanotech theme.
   <sup>
-   &#9733 0, pushed 359 days ago
+   &#9733 0, pushed 484 days ago
   </sup>
  </li>
  <li>
@@ -3098,8 +3380,14 @@
   </a>
   - Based on af-magic.
   <sup>
-   &#9733 0, pushed 495 days ago
+   &#9733 0, pushed 620 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aanc/oh-my-zsh-nknu-theme">
+   nknu
+  </a>
+  - A simple OMZ theme.
  </li>
  <li>
   <a href="https://github.com/tylerreckart/odin">
@@ -3107,7 +3395,7 @@
   </a>
   - Odin is a git-flavored zsh theme.
   <sup>
-   &#9733 26, pushed 13 days ago
+   &#9733 26, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3115,13 +3403,16 @@
    oh-my-git
   </a>
   - An opinionated prompt for bash and zsh.
+  <sup>
+   &#9733 1999, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/skuridin/oh-my-zsh-node-theme">
    oh-my-zsh-node-theme
   </a>
   <sup>
-   &#9733 12, pushed 145 days ago
+   &#9733 12, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -3129,6 +3420,9 @@
    oh-my-zsh-robbl
   </a>
   - Shows the git/svn status including the time since last commit, rvm status in prompt.
+  <sup>
+   &#9733 5, pushed 1577 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eproxus/pad.zsh-theme">
@@ -3136,7 +3430,7 @@
   </a>
   - A concise and colorful oh-my-zsh theme.
   <sup>
-   &#9733 2, pushed 327 days ago
+   &#9733 2, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -3145,7 +3439,7 @@
   </a>
   - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
   <sup>
-   &#9733 0, pushed 581 days ago
+   &#9733 0, pushed 706 days ago
   </sup>
  </li>
  <li>
@@ -3154,7 +3448,7 @@
   </a>
   - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc.
   <sup>
-   &#9733 534, pushed 1 days ago
+   &#9733 534, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -3167,7 +3461,7 @@
   </a>
   .
   <sup>
-   &#9733 5, pushed 383 days ago
+   &#9733 5, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -3176,7 +3470,7 @@
   </a>
   - Prezto port of oh-my-zsh's cloud prompt.
   <sup>
-   &#9733 0, pushed 590 days ago
+   &#9733 0, pushed 715 days ago
   </sup>
  </li>
  <li>
@@ -3185,7 +3479,7 @@
   </a>
   - theme for prezto
   <sup>
-   &#9733 0, pushed 385 days ago
+   &#9733 0, pushed 510 days ago
   </sup>
  </li>
  <li>
@@ -3194,7 +3488,7 @@
   </a>
   - Powerline for prezto. Shows git information, RVM version.
   <sup>
-   &#9733 72, pushed 216 days ago
+   &#9733 72, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -3203,7 +3497,7 @@
   </a>
   - Pretty, minimal and fast ZSH prompt.
   <sup>
-   &#9733 1746, pushed 19 days ago
+   &#9733 1746, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -3212,7 +3506,7 @@
   </a>
   - Based on af-magic and posh-git.
   <sup>
-   &#9733 5, pushed 149 days ago
+   &#9733 5, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -3221,7 +3515,7 @@
   </a>
   - Based on agnoster, optimized for solarized terminal themes.
   <sup>
-   &#9733 4, pushed 1157 days ago
+   &#9733 4, pushed 1282 days ago
   </sup>
  </li>
  <li>
@@ -3230,7 +3524,7 @@
   </a>
   Rummik's theme.
   <sup>
-   &#9733 0, pushed 55 days ago
+   &#9733 0, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -3239,8 +3533,14 @@
   </a>
   - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
   <sup>
-   &#9733 36, pushed 77 days ago
+   &#9733 36, pushed 202 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/simnalamburt/shellder">
+   shellder
+  </a>
+  - Minimal theme with git branch display. Requires a powerline font.
  </li>
  <li>
   <a href="https://github.com/k-kinzal/oh-my-zsh-sinon-theme">
@@ -3248,7 +3548,7 @@
   </a>
   - k-kinzal's sinon theme.
   <sup>
-   &#9733 0, pushed 580 days ago
+   &#9733 0, pushed 704 days ago
   </sup>
  </li>
  <li>
@@ -3257,7 +3557,7 @@
   </a>
   - Skeiter9's zsh theme.
   <sup>
-   &#9733 0, pushed 391 days ago
+   &#9733 0, pushed 516 days ago
   </sup>
  </li>
  <li>
@@ -3266,7 +3566,7 @@
   </a>
   - Theme collection for Atom, Prism and Zsh inspired by Skeletor from He-Man and the Masters of the Universe.
   <sup>
-   &#9733 8, pushed 76 days ago
+   &#9733 8, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -3275,7 +3575,7 @@
   </a>
   - A prompt with happy and sad faces.
   <sup>
-   &#9733 3, pushed 860 days ago
+   &#9733 3, pushed 985 days ago
   </sup>
  </li>
  <li>
@@ -3288,7 +3588,7 @@
   </a>
   .
   <sup>
-   &#9733 2, pushed 1402 days ago
+   &#9733 2, pushed 1526 days ago
   </sup>
  </li>
  <li>
@@ -3297,8 +3597,14 @@
   </a>
   - A zsh theme with git, nvm, rvm/rbenv/chruby, python, ssh and other useful indicators.
   <sup>
-   &#9733 48, pushed 18 days ago
+   &#9733 48, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/radiopetushki/spelljammer">
+   spelljammer
+  </a>
+  - Minimal theme for oh-my-zsh and prezto
  </li>
  <li>
   <a href="https://mbauhardt.github.io/spowerline/">
@@ -3312,7 +3618,7 @@
   </a>
   - A responsive zsh theme that provides informational segments when you need them
   <sup>
-   &#9733 14, pushed 7 days ago
+   &#9733 14, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3329,7 +3635,7 @@
   </a>
   themes.
   <sup>
-   &#9733 0, pushed 372 days ago
+   &#9733 0, pushed 497 days ago
   </sup>
  </li>
  <li>
@@ -3338,16 +3644,16 @@
   </a>
   - Zsh theme for Arch Linux.
   <sup>
-   &#9733 0, pushed 176 days ago
+   &#9733 0, pushed 300 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/jhwhite/the-time-lord">
    the-time-lord
   </a>
-  - Based on gallifrey.
+  - A theme based on gallifrey.
   <sup>
-   &#9733 0, pushed 482 days ago
+   &#9733 0, pushed 606 days ago
   </sup>
  </li>
  <li>
@@ -3360,7 +3666,7 @@
   </a>
   , adds powerline font enhancements.
   <sup>
-   &#9733 0, pushed 338 days ago
+   &#9733 0, pushed 463 days ago
   </sup>
  </li>
  <li>
@@ -3369,20 +3675,7 @@
   </a>
   - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
   <sup>
-   &#9733 6, pushed 873 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/andrewbonnington/vox.plugin.zsh">
-   vox
-  </a>
-  - An oh-my-zsh plugin to control
-  <a href="http://coppertino.com/vox/mac">
-   VOX
-  </a>
-  , a lightweight full-featured audio player for OS X that can play a variety of formats including FLAC and Ogg Vorbis
-  <sup>
-   &#9733 2, pushed 94 days ago
+   &#9733 6, pushed 998 days ago
   </sup>
  </li>
  <li>
@@ -3391,7 +3684,7 @@
   </a>
   - A fairy-tale inspired theme for Zsh, iTerm, Sublime, Atom, & Mou
   <sup>
-   &#9733 161, pushed 21 days ago
+   &#9733 161, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3400,7 +3693,7 @@
   </a>
   - An oh-my-zsh shell theme based on the Jreese theme plugin
   <sup>
-   &#9733 0, pushed 137 days ago
+   &#9733 0, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -3415,7 +3708,7 @@
   </a>
   - Based on sindresorhus' pure theme.
   <sup>
-   &#9733 0, pushed 424 days ago
+   &#9733 0, pushed 549 days ago
   </sup>
  </li>
  <li>
@@ -3424,7 +3717,7 @@
   </a>
   - Customized version of oh-my-zsh blinks with mercurial support and other changes.
   <sup>
-   &#9733 8, pushed 608 days ago
+   &#9733 8, pushed 732 days ago
   </sup>
  </li>
  <li>
@@ -3432,6 +3725,25 @@
    zero
   </a>
   - Zero's theme & plugin
+ </li>
+ <li>
+  <a href="https://github.com/skylerlee/zeta-zsh-theme">
+   zeta
+  </a>
+  - Shows username, git information, machine name, current working directory
+ </li>
+ <li>
+  <a href="https://github.com/willghatch/zsh-megaprompt">
+   zsh-megaprompt
+  </a>
+  - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the
+  <a href="https://github.com/willghatch/zsh-hooks">
+   hooks
+  </a>
+  plugin.
+  <sup>
+   &#9733 2, pushed 142 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/eugenk/zsh-prompt-iggy">
@@ -3443,7 +3755,7 @@
   </strong>
   theme.
   <sup>
-   &#9733 7, pushed 367 days ago
+   &#9733 7, pushed 492 days ago
   </sup>
  </li>
  <li>
@@ -3452,8 +3764,14 @@
   </a>
   - A fairly heavyweight zsh prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background.
   <sup>
-   &#9733 47, pushed 5 days ago
+   &#9733 47, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nyarla/zsh-theme-nerdish">
+   zsh-theme-nerdish
+  </a>
+  - prompt theme for zsh with Nerd Fonts
  </li>
  <li>
   <a href="https://github.com/maverick2000/zsh2000">
@@ -3461,7 +3779,7 @@
   </a>
   - Powerline looking ZSH theme with rvm prompt, git status and branch, current time, user, hostname, pwd, exit status, root and background job status.
   <sup>
-   &#9733 31, pushed 119 days ago
+   &#9733 31, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -3470,7 +3788,7 @@
   </a>
   - A ZSH theme, comrade!
   <sup>
-   &#9733 3, pushed 1314 days ago
+   &#9733 3, pushed 1439 days ago
   </sup>
  </li>
 </ul>
@@ -3487,7 +3805,7 @@
   </a>
   - A family of fonts that includes some nice monospaced Icons.
   <sup>
-   &#9733 479, pushed 88 days ago
+   &#9733 479, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -3496,7 +3814,7 @@
   </a>
   - A nice monospaced font, patched with Font-Awesome, Octoicons and Powerline-Glyphs.
   <sup>
-   &#9733 7, pushed 438 days ago
+   &#9733 7, pushed 563 days ago
   </sup>
  </li>
  <li>
@@ -3505,7 +3823,7 @@
   </a>
   - Another powerline font.
   <sup>
-   &#9733 2528, pushed 30 days ago
+   &#9733 2528, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -3532,7 +3850,7 @@
   </a>
   - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
   <sup>
-   &#9733 2536, pushed 15 days ago
+   &#9733 2536, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3541,8 +3859,14 @@
   </a>
   - A collection of a dozen or so fonts patched to include powerline gylphs.
   <sup>
-   &#9733 5063, pushed 17 days ago
+   &#9733 5063, pushed 142 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://files.ax86.net/terminus-ttf/">
+   Terminus
+  </a>
+  - TTF version of Terminus that includes powerline glyphs
  </li>
 </ul>
 <h2>
@@ -3681,7 +4005,7 @@
   </a>
   - A ZSH debugger
   <sup>
-   &#9733 81, pushed 136 days ago
+   &#9733 81, pushed 261 days ago
   </sup>
  </li>
 </ul>
@@ -3695,16 +4019,16 @@
   </a>
   - A curated list of awesome tools, resources and workflow tips making an awesome development environment
   <sup>
-   &#9733 388, pushed 14 days ago
+   &#9733 388, pushed 139 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kahun/awesome-sysadmin">
+  <a href="https://github.com/n1trux/awesome-sysadmin">
    awesome-sysadmin
   </a>
   - A curated list of awesome open source sysadmin resources
   <sup>
-   &#9733 12207, pushed 4 days ago
+   &#9733 3496, pushed 129 days ago
   </sup>
  </li>
 </ul>

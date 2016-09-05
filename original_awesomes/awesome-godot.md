@@ -21,8 +21,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
-- [Ninja-Training
-](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
+- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
@@ -59,23 +58,28 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Stuff integrated into Godot core (C++).*
 
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
-- [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker) and [Attila](https://github.com/r-lyeh/attila)
+- [Auto Tile Layer](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
 - [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
+- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
-- [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
+- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
@@ -83,7 +87,9 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) with all features supported.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
+- [Simple Adventure API](https://github.com/Qudware/godot-adventure-api) - Create Adventure/VN/IF games with a simple API
 
 ## GDScript syntax highlighting
 
@@ -94,6 +100,14 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Gedit](https://github.com/haimat/GDScript-gedit)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
+
+## Godot text editor color themes
+
+*Alternative themes for built-in text editor.*
+
+- [Chester, Google code light and Monokai](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
+
 
 ## Unofficial builds of Godot
 

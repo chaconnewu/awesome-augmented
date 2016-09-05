@@ -7,6 +7,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-coords](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
 * [geojson-flatten](https://github.com/mapbox/geojson-flatten): flatten multi geometries into normal geometries
+* [geojson-multiply](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 * [geojson-normalize](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
@@ -81,6 +82,11 @@ GeoJSON utilities that will make your life easier.
 * [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+
+### resources
+
+* [GeoJSON.org](http://geojson.org/): the specification, defining all the rules for GeoJSON structures
+* [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
 
 ## License
 

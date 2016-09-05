@@ -42,6 +42,22 @@
  -
 </p>
 <h3>
+ 2016
+</h3>
+<ol>
+ <li>
+  <a href="https://www.youtube.com/watch?v=9AG35HCBpo4">
+   <strong>
+    CSS in 2016 and Beyond
+   </strong>
+  </a>
+  : Christian Vuerings, SFHTML5
+  <code>
+   17:15
+  </code>
+ </li>
+</ol>
+<h3>
  2015
 </h3>
 <ol>
@@ -131,6 +147,17 @@
   : Michelle Bu, TXJS
   <code>
    18:11
+  </code>
+ </li>
+ <li>
+  <a href="https://vimeo.com/140641366">
+   <strong>
+    CSS for Software Engineers for CSS Developers
+   </strong>
+  </a>
+  : Harry Roberts, SmashingConf Freiburg
+  <code>
+   51:14
   </code>
  </li>
  <li>
@@ -293,17 +320,6 @@
   </code>
  </li>
  <li>
-  <a href="https://www.youtube.com/watch?v=1OKZOV-iLj4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA">
-   <strong>
-    Managing CSS Projects with ITCSS
-   </strong>
-  </a>
-  : Harry Roberts, DaFED
-  <code>
-   1:13:51
-  </code>
- </li>
- <li>
   <a href="https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA">
    <strong>
     Thinking Beyond "Scalable CSS"
@@ -413,7 +429,7 @@
     CSS Application Architecture
    </strong>
   </a>
-  : Nicolas Gallagher, SmashingConf
+  : Nicolas Gallagher, SmashingConf Freiburg
   <code>
    38:36
   </code>

@@ -114,7 +114,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 #### Identity Verification
 
-* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 #### Browser/Email Testing
 
@@ -160,15 +160,14 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Trajectory | https://www.apptrajectory.com | [@apptrajectory](https://twitter.com/apptrajectory) | $25/mo - $100/mo | Agile planning software that helps teams discuss and plan their projects in a realistic, structured way. | Trajectory helps you stay focused on what matters. Ideas are where you discuss the goals for your project. Based on that discussion, you create stories for the implementation. Trajectory makes it easy to see all the stories for an Idea and track progress toward your goal.
 * Redmine | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * JIRA Agile | https://www.atlassian.com/software/jira/agile | [@atlassian](https://twitter.com/atlassian) | $10/mo - $30/mo | Dream big, work smart, deliver fast | Makers of @JIRA, @Confluence, @Bitbucket, @HipChat, and more. Software to plan, collaborate, code, and support. Built for teams
-* Tom's Planner | http://www.tomsplanner.com | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
-* LeanKit | http://leankit.com | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
+* Tom's Planner | https://www.tomsplanner.com | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
+* LeanKit | https://leankit.com | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
 * Breeze | https://www.breeze.pm | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took.
 * Sandglaz | https://www.sandglaz.com | [@Sandglaz](https://twitter.com/sandglaz) | $5/mo | Simplest project management for agile teams. Sandglaz combines the simplicity of a todo list with the planning ability of Gantt charts. It's the last tool  you'll try.
 
 #### App Developer Tools
 
 * App Annie | https://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
-* Flurry Analytics | http://www.flurry.com/solutions/analytics | free | Industry Standard for free user insights in your mobile app
 * App Figures | https://appfigures.com | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers.
 
 #### Localization & Internationalization
@@ -189,7 +188,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Segment | https://segment.com |  | $29/mo - $349/mo | The right way to manage your tools. | The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration.
 * Clicky | https://clicky.com | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics | Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history.
 * Google Analytics | http://www.google.com/analytics/ | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
-* Piwik | http://piwik.org | [@piwik](https://twitter.com/piwik) |  | Liberating Web Analytics | Whether you are an individual blogger, a small business, or a large corporation, Piwik helps you gain valuable insights to help your business or readership grow.
+* Piwik | https://piwik.org | [@piwik](https://twitter.com/piwik) |  | Liberating Web Analytics | Whether you are an individual blogger, a small business, or a large corporation, Piwik helps you gain valuable insights to help your business or readership grow.
 * Chartio | https://chartio.com | [@chartio](https://twitter.com/chartio) |  | Visualize and explore your data with Chartio. | Create interactive charts and perfect dashboards through an intuitive drag and drop interface. Switch from basic tables to sophisticated data visualizations in a single click. Powerful filters let you slice and dice your data, and you can drill down into most charts without configuring a thing.
 * Chartbeat | https://chartbeat.com | [@chartbeat](https://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. | Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters.
 * Calq | https://calq.io | [@CalqAnalytics](https://twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
@@ -222,7 +221,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 #### Payroll
 
 * Gusto | https://gusto.com | [@gustohq](https://twitter.com/gustohq) | $29/mo + $6/user | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support.
-* WagePoint | http://wagepoint.com | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
+* WagePoint | https://wagepoint.com | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
 
 #### Continuous Integration/Code Quality
 
@@ -264,7 +263,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Atatus | https://www.atatus.com | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking | Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime.
 * Rollbar | https://rollbar.com | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors | Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
-* Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant.
+* Errbit | OSS | http://errbit.com | The open source error catcher that's Airbrake API compliant.
 * Takipi | https://www.takipi.com | [@takipid](https://twitter.com/takipid) | God Mode in Production Code for java and scala applications.
 
 #### Application Distribution
@@ -283,13 +282,13 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Papertrail | https://papertrailapp.com | [@papertrailapp](https://twitter.com/papertrailapp) | $7/mo - $230/mo | Frustration-free log management. Get started in seconds. | Use Papertrail's time-saving log tools, flexible system groups, team-wide access, long-term archives, charts and analytics exports, monitoring webhooks, and 45-second setup.
 * Stackify | http://stackify.com | [@Stackify](https://twitter.com/Stackify) | $15/ mo | Connecting the dots for you | Stackify focuses on application health, magnifying critical insights for developers, operations, and support teams.
 * statsd | https://github.com/etsy/statsd/
-* Sumo Logic | http://www.sumologic.com | [@#!/SumoLogic](https://twitter.com/#!/SumoLogic) |  | Log Data is Big Data | Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic  provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts.
+* Sumo Logic | https://www.sumologic.com | [@SumoLogic](https://twitter.com/SumoLogic) |  | Log Data is Big Data | Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic  provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts.
 
 #### Application Performance
 
 * AppNeta | https://www.appneta.com | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps | Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more.
 * DripStat | https://dripstat.com | [@DripStat](https://twitter.com/dripstat) | $20/ mo | Application monitoring for Java | Next gen Java APM. Full visibility across your stack.  Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra.
-* New Relic | http://newrelic.com | [@NewRelic](https://twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
+* New Relic | https://newrelic.com | [@NewRelic](https://twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
 * AppSignal | https://appsignal.com | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. | Get detailled statistics on your site's performance with mean and 90th percentile measurements.
 * Instrumental | https://instrumentalapp.com | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime | Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat
 
@@ -298,7 +297,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Blitz | https://www.blitz.io | [@blitz_io](https://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
 * Flood.io | https://flood.io | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min.
-* Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@#!/Neustar](https://twitter.com/#!/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
+* Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | http://loader.io | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
 * Locust.io | http://locust.io | [@locustio](https://twitter.com/locustio) | Open Source
 
@@ -325,7 +324,7 @@ your customers.
 * Enchant | http://www.enchant.com | [@enchanthq](https://twitter.com/enchanthq) | $9/ mo | It's like gmail on steroids! | Enchant is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | https://freshdesk.com | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver Exceptional Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
 * UserDeck | https://userdeck.com | [@user_deck](https://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website.
-* Sirportly | http://sirportly.com | [@sirportly](https://twitter.com/sirportly) | £0 - £15/mo | Grow your business and provide world class customer support. Simply setup your helpdesk in less than a few minutes. Integrate with your other software tools and take advantage of the automated rules and macros to scale your customer support to a new level, become more professional and customer focused and turn your customers into raving fans with Sirportly.
+* Sirportly | https://sirportly.com | [@sirportly](https://twitter.com/sirportly) | £0 - £15/mo | Grow your business and provide world class customer support. Simply setup your helpdesk in less than a few minutes. Integrate with your other software tools and take advantage of the automated rules and macros to scale your customer support to a new level, become more professional and customer focused and turn your customers into raving fans with Sirportly.
 * Olark | https://www.olark.com/
 * SnapEngage | https://snapengage.com/
 * Get Satisfaction! | https://getsatisfaction.com/corp/ | Customer communities for social support, social marketing & customer feedback - online community software | Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community.
@@ -349,7 +348,6 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 * Filepicker | https://www.filestack.com | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
 * Zapier | https://zapier.com | [Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
-* BlockScore
 * Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
 currency conversion JSON API | A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation.
 
@@ -377,7 +375,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * Unbounce | http://unbounce.com | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo |  | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend.
 * KickoffLabs | https://kickofflabs.com | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages.
 Start building smarter campaigns. | Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals.
-* Launch Effect | http://launcheffectapp.com | [@#!/LaunchEffect](https://twitter.com/#!/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
+* Launch Effect | http://launcheffectapp.com | [@LaunchEffect](https://twitter.com/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
 VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme that lets you create a viral campaign in minutes
 * Prefinery | https://www.prefinery.com | [@prefinery](https://twitter.com/prefinery) | $19/mo-  $399/mo | Stress-free Beta Invitation and Management | Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery!
 * LaunchGator | http://launch.deskgator.com | [@fizzysoftware](https://twitter.com/fizzysoftware) |  | Create a Viral Launching Soon page | Create awesome coming soon pages for your upcoming website. Log In and add your website information. Add custom colors and backgrounds that highlight your service.
@@ -431,7 +429,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 #### Prototyping/Mockups
 
 * Creately | http://creately.com | [@creately](https://twitter.com/creately) | Free - $750/mo | Creately | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster.
-* Keynote | http://www.apple.com/in/mac/keynote/ | [@keynote](https://twitter.com/keynote) | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes](http://keynotopia.com/) to get all the common UI elements for iOS, Android etc.
+* Keynote | http://www.apple.com/in/mac/keynote/ | $19.99 | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes](http://keynotopia.com/) to get all the common UI elements for iOS, Android etc.
 * OmniGraffle | https://www.omnigroup.com/omniGraffle | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Diagramming Worth a Thousand Words | Need a diagram, process chart, quick page-layout, website wireframe or graphic design? OmniGraffle can help you make eye-popping graphic documents quickly by keeping lines connected to shapes even when they're moved, providing powerful styling tools, and magically organizing diagrams with just one click. Whether you need a quick 
 * moqups | https://moqups.com | [@moqups](https://twitter.com/moqups) | $9/mo-  $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes
 depending on how you like to call them. | The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project.
@@ -452,6 +450,7 @@ your goals and take your project to the next level.
 
 * PickFu | https://www.pickfu.com | [@pickfu](https://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
+* Promoter.io | https://www.promoter.io | [@Promoter_io](https://twitter.com/promoter_io) | $50/mo - $500/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn.
 
 #### Data
 
@@ -506,7 +505,7 @@ your app or website | Braintree handles transactions for some of the fastest gro
 * Dwolla | https://www.dwolla.com | [@dwolla](https://twitter.com/dwolla) | 25¢ per transaction | The best way to move money. | Dwolla, Inc. is an agent of Veridian Credit Union and all funds associated with your account in the Dwolla network are held in a pooled account at Veridian Credit Union. These funds are not eligible for individual insurance, and may not be eligible for share insurance by the National Credit Union Share Insurance Fund. Dwolla, Inc. is the operator of a software platform that communicates user instructions for funds transfers to Veridian Credit Union.
 * Stripe | https://stripe.com | [@stripe](https://twitter.com/stripe) | 2.9% + 30¢
 per successful charge. | Feature-packed payments | No need to design payment forms from scratch. Stripe Checkout offers a beautiful, customizable payment flow that works great across desktop and mobile. When you use Checkout, you’re always up-to-date, with no extra code required.
-* Pin | http://pin.net.au | [@pin_payments](https://twitter.com/pin_payments) | 2.9% + 30¢
+* Pin | https://pin.net.au | [@pin_payments](https://twitter.com/pin_payments) | 2.9% + 30¢
 per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant acount. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
 * PayMill | https://www.paymill.com | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy | Make payments personal by customising the checkout according to the flow of your website
 * Recurly | https://recurly.com | [@Recurly](https://twitter.com/Recurly) | $99/mo - $299/mo | Subscription Billing Automation | As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time.
@@ -546,7 +545,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Bonsai | https://bonsai.io/
 * WebSolr | https://websolr.com/
 * Searchify | http://www.searchify.com/
-* CloudSearch | http://aws.amazon.com/cloudsearch/
 * SearchBlox | http://www.searchblox.com/
 
 #### Security
@@ -580,6 +578,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
+* OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
 
 #### Group Communication/Chat Tools
 
@@ -592,7 +591,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Campfire | https://campfirenow.com/
 * Skype | http://www.skype.com
 * Google Hangouts
-* GoToMeeting | http://www.gotomeeting.com/default
+* GoToMeeting | https://www.gotomeeting.com
 * IRCCloud | https://www.irccloud.com/
 * Buddycloud | http://buddycloud.com
 * Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
@@ -614,7 +613,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * DynDNS | https://dyn.com/dns/
 * Cloudflare | https://www.cloudflare.com/
-* Amazon Route 53 | http://aws.amazon.com/route53/
+* Amazon Route 53 | https://aws.amazon.com/route53/
 * DNSimple | https://dnsimple.com/
 * ClouDNS | https://www.cloudns.net/
 * FreeDNS | http://freedns.afraid.org
@@ -645,7 +644,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Codeplex | https://www.codeplex.com
 * Gitorious | https://www.gitorious.org/
 * SSHControl | http://sshcontrol.com/
-* TuxFamily | https://tuxfamily.org
+* TuxFamily | https://www.tuxfamily.org
 * KForge | https://pypi.python.org/pypi/kforge
 * VersionShelf | https://www.versionshelf.com | 30-day Free trial, [free for students/teachers](https://www.versionshelf.com/about_free_plan).
 * Assembla | https://www.assembla.com/home | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase.
@@ -695,7 +694,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * HumongouS.io | https://www.humongous.io | HumongouS.io is a web-based user interface (GUI) for MongoDB.
 * mLab | https://mlab.com |
 * Orchestrate | https://orchestrate.io | [@OrchestrateIO](https://twitter.com/OrchestrateIO) | $0/mo - $749/mo | One API for search, key/value, graph, and events.
-* Compose | https://compose.io | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
+* Compose | https://www.compose.com | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
 * RedisLabs | https://redislabs.com | [@RedisLabsInc](https://twitter.com/RedisLabsInc) | free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance.
 
 #### Backend-aaS
@@ -725,7 +724,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Video Hosting
 
-* Wistia | http://wistia.com |
+* Wistia | https://wistia.com |
 
 #### Knowledge Tracking/Wiki
 
@@ -741,14 +740,14 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Personal Machine Backups
 
-* Crashplan | https://www.code42.com/crashplan/
+* Crashplan | https://www.crashplan.com
 * Arq + S3/Glacier |
 
 #### Remote Workers
 
 * oDesk | https://www.upwork.com
 * Freelancer | https://www.freelancer.com/
-* TaskArmy | http://taskarmy.com
+* TaskArmy | https://taskarmy.com
 * 99Designs | https://99designs.com/
 * Fiverr | https://www.fiverr.com/
 
@@ -759,7 +758,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Puppet | https://puppet.com
 * Ansible | https://www.ansible.com/
 * Vagrant | https://www.vagrantup.com/
-* Salt | http://saltstack.com/community/
+* Salt | https://saltstack.com/community/
 * Prelang | http://prelang.com | Free | Automatic Rails Development
 
 #### SEO Tools
@@ -772,7 +771,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### API Builder
 
-* Deployd | http://deployd.com/
+* Deployd | http://deployd.com | [@deploydapp](https://twitter.com/deploydapp) | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days.
+* Apiary | https://apiary.io | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. | Work together to quickly design, prototype, document and test APIs.
 
 #### Password Management
 
@@ -824,6 +824,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 - **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
 - Ideally the tool should be hosted as this is stated in the background of the list.
 - Descriptions should be concise, descriptive and not marketing-focused.
+- Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
 - Follow the addition format which is currently:
 ```
  * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description

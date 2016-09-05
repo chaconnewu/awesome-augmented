@@ -164,7 +164,7 @@
    Lelylan
   </a>
   <sup>
-   &#9733 621, pushed 58 days ago
+   &#9733 621, pushed 182 days ago
   </sup>
  </li>
 </ul>
@@ -197,7 +197,7 @@
    nw.js
   </a>
   <sup>
-   &#9733 28183, pushed 4 days ago
+   &#9733 28183, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -300,7 +300,7 @@
    Cordova / Phonegap iBeacon plugin
   </a>
   <sup>
-   &#9733 492, pushed 10 days ago
+   &#9733 492, pushed 135 days ago
   </sup>
  </li>
 </ul>

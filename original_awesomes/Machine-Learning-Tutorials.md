@@ -1,8 +1,13 @@
-# Machine Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
+- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
 
-If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
+- If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
+
+- [Curated list of R tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR).
+
+- [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
+
 
 ##Table of Contents
 - [Miscellaneous](#general)
@@ -26,7 +31,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
     - [Recurrent Neural Nets, LSTM, GRU](#rnn)
     - [Restricted Boltzmann Machine, DBNs](#rbm)
     - [Autoencoders](#auto)
-    - [Convolution Neural Nets](#cnn)
+    - [Convolutional Neural Nets](#cnn)
 - [Natural Language Processing](#nlp)
     - [Topic Modeling, LDA](#topic)
     - [Word2Vec](#word2vec)
@@ -62,6 +67,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [Machine Learning mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
+- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 <a name="interview" />
 ##Interview Resources
@@ -101,6 +107,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [What is an Unbiased Estimator?](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/)
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - Free PDF textbook
 
 <a name="blogs" />
 ##Useful Blogs
@@ -112,7 +119,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [Alex Minnaar's Blog](http://alexminnaar.com/) - A blog about Machine Learning and Software Engineering
 - [Statistically Significant](http://andland.github.io/) - Andrew Landgraf's Data Science Blog
 - [Simply Statistics](http://simplystatistics.org/) - A blog by three biostatistics professors
-- [Yanir Seroussi's Blog](http://yanirseroussi.com/) - A blog about Data Science and beyond
+- [Yanir Seroussi's Blog](https://yanirseroussi.com/) - A blog about Data Science and beyond
 - [fastML](http://fastml.com/) - Machine learning made easy
 - [Trevor Stephens Blog](http://trevorstephens.com/) - Trevor Stephens Personal Page
 - [no free hunch | kaggle](http://blog.kaggle.com/) - The Kaggle Blog about all things Data Science
@@ -135,10 +142,11 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 
 <a name="kaggle" />
 ##Kaggle Competitions WriteUp
-- [How to almost win Kaggle Competitions](http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
+- [How to almost win Kaggle Competitions](https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 - [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
+- [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 
 <a name="cs" />
 ##Cheat Sheets
@@ -151,7 +159,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [What is Deviance?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 - [When to choose which machine learning classifier?](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
 - [What are the advantages of different classification algorithms?](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
-- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/) ([related video](https://youtu.be/OAl6eAyP-yo))
 - [An introduction to ROC analysis](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
@@ -164,10 +172,10 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
     - [Applying and Interpreting Linear Regression](http://www.dataschool.io/applying-and-interpreting-linear-regression/)
     - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
-    - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
+    - [Is linear regression valid when the dependant variable is not normally distributed?](https://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
 - Multicollinearity and VIF
     - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
-    - [Dealing with multicollinearity using VIFs](http://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/)
+    - [Dealing with multicollinearity using VIFs](https://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/)
 
 - [Residual Analysis](#residuals-)
     - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
@@ -189,6 +197,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Residuals in logistic regression](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
+- [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 
 <a name="validation" />
 ##Model Validation using Resampling
@@ -230,8 +239,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
 - [Interesting Deep Learning and NLP Projects (Stanford)](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
-- [Core Concepts of Deep Learning](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
-- [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+- [Core Concepts of Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+- [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 - [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Deep Learning FAQs on Quora](https://www.quora.com/topic/Deep-Learning/faq)
 - [Google+ Deep Learning Page](https://plus.google.com/communities/112866381580457264725)
@@ -247,7 +256,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Awesome Deep Learning Reading List](http://deeplearning.net/reading-list/)
 - [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
 - [deeplearning Tutorials](http://deeplearning4j.org/)
-- [AWESOME! Deep Learning Tutorial](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+- [AWESOME! Deep Learning Tutorial](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
 - [Train, Validation & Test in Artificial Neural Networks](http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ)
@@ -257,8 +266,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) 
 
 - Neural Machine Translation
-    - [Introduction to Neural Machine Translation with GPUs (part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
-    - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
+    - [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
+    - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
 
 <a name="frame" />
 - Deep Learning Frameworks
@@ -279,7 +288,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
         - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
         - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
-        - [Deep Learning Implementation Tutorials - Keras and Lasagne](http://github.com/vict0rsch/deep_learning/)
+        - [Deep Learning Implementation Tutorials - Keras and Lasagne](https://github.com/vict0rsch/deep_learning/)
         
     - [Torch](http://torch.ch/)
         - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
@@ -292,7 +301,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
         
     - Caffe
-        - [Deep Learning for Computer Vision with Caffe and cuDNN](http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
+        - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
     
     - TensorFlow 
         - [Website](http://tensorflow.org/)
@@ -300,10 +309,12 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Simplified Scikit-learn Style Interface to TensorFlow](https://github.com/tensorflow/skflow)
         - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
+        - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
         
 
 <a name="feed" />
 - Feed Forward Networks
+    - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
     - [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
@@ -326,7 +337,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [An application of RNN](http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/)
     - [Optimizing RNN Performance](http://svail.github.io/)
     - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
-    - [Auto-Generating Clickbait with RNN](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+    - [Auto-Generating Clickbait with RNN](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
     - [Sequence Learning using RNN (Slides)](http://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml)
     - [Machine Translation using RNN (Paper)](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf)
     - [Music generation using RNNs (Keras)](https://github.com/MattVitelli/GRUV)
@@ -372,7 +383,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     
 
 <a name="cnn" />
-- Convolution Networks
+- Convolutional Neural Networks
+    - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
     - [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
     - [Understanding CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
@@ -403,7 +415,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Original LDA Paper](https://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf)
     - [alpha and beta in LDA](http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a)
     - [Intuitive explanation of the Dirichlet distribution](https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution)
-    - [Topic modeling made just simple enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
+    - [Topic modeling made just simple enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
     - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
     - [Segmentation of Twitter Timelines via Topic Modeling](http://alexperrier.github.io/jekyll/update/2015/09/16/segmentation_twitter_timelines_lda_vs_lsa.html)
@@ -411,7 +423,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 
 <a name="word2vec" />
 - word2vec
-    - [Google word2vec](https://code.google.com/p/word2vec/)
+    - [Google word2vec](https://code.google.com/archive/p/word2vec)
     - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
     - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
     - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
@@ -487,7 +499,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [What is entropy and information gain in the context of building decision trees?](http://stackoverflow.com/questions/1859554/what-is-entropy-and-information-gain)
 - [Slides Related to Decision Trees](http://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
 - [How do decision tree learning algorithms deal with missing values?](http://stats.stackexchange.com/questions/96025/how-do-decision-tree-learning-algorithms-deal-with-missing-values-under-the-hoo)
-- [Using Surrogates to Improve Datasets with Missing Values](http://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values)
+- [Using Surrogates to Improve Datasets with Missing Values](https://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values)
 - [Good Article](https://www.mindtools.com/dectree.html)
 - [Are decision trees almost always binary trees?](http://stats.stackexchange.com/questions/12187/are-decision-trees-almost-always-binary-trees)
 - [Pruning Decision Trees](https://en.wikipedia.org/wiki/Pruning_(decision_trees)), [Grafting of Decision Trees](https://en.wikipedia.org/wiki/Grafting_(decision_trees))
@@ -525,7 +537,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Measures of variable importance in random forests](http://stats.stackexchange.com/questions/12605/measures-of-variable-importance-in-random-forests)
 - [Compare R-squared from two different Random Forest models](http://stats.stackexchange.com/questions/13869/compare-r-squared-from-two-different-random-forest-models)
 - [OOB Estimate Explained | RF vs LDA](https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf)
-- [Evaluating Random Forests for Survival Analysis Using Prediction Error Curve](http://www.jstatsoft.org/article/view/v050i11)
+- [Evaluating Random Forests for Survival Analysis Using Prediction Error Curve](https://www.jstatsoft.org/index.php/jss/article/view/v050i11)
 - [Why doesn't Random Forest handle missing values in predictors?](http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors)
 - [How to build random forests in R with missing (NA) values?](http://stackoverflow.com/questions/8370455/how-to-build-random-forests-in-r-with-missing-na-values)
 - [FAQs about Random Forest](http://stats.stackexchange.com/questions/tagged/random-forest), [More FAQs](http://stackoverflow.com/questions/tagged/random-forest)
@@ -550,6 +562,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
     - [xgboost vs gbm](https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13012/question-to-experienced-kagglers-and-anyone-who-wants-to-take-a-shot/68296#post68296)
     - [xgboost survey](https://www.kaggle.com/c/higgs-boson/forums/t/10335/xgboost-post-competition-survey)
+    - [Practical XGBoost in Python online course (free)](http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python)
 - AdaBoost
     - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
     - [AdaBoost Sparse Input Support](http://hamzehal.blogspot.com/2014/06/adaboost-sparse-input-support.html)
@@ -575,7 +588,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 ##Stacking Models 
 - [Stacking, Blending and Stacked Generalization](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
 - [Stacked Generalization (Stacking)](http://machine-learning.martinsewell.com/ensembles/stacking/)
-- [Stacked Generalization: when does it work?](http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf)
+- [Stacked Generalization: when does it work?](http://www.ijcai.org/Proceedings/97-2/011.pdf)
 - [Stacked Generalization Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1533&rep=rep1&type=pdf)
 
 <a name="vc" />
@@ -594,7 +607,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Should all Machine Learning be Bayesian?](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
-- [Bayesian Statistics Made Simple](http://greenteapress.com/thinkbayes/)
+- [Bayesian Statistics Made Simple](http://greenteapress.com/wp/think-bayes/)
 - [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Markov Chain Wikipedia Page](https://en.wikipedia.org/wiki/Markov_chain)
 
@@ -625,3 +638,4 @@ Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/s
 <a name="other" />
 ##Other Tutorials
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
+- For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).

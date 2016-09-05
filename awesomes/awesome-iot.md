@@ -181,6 +181,12 @@
 </h4>
 <ul>
  <li>
+  <a href="https://mynewt.apache.org/">
+   Apache Mynewt
+  </a>
+  - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
+ </li>
+ <li>
   <a href="http://www.mbed.com/">
    ARM mbed
   </a>
@@ -368,7 +374,7 @@
   </a>
   - Huginn is a system for building agents that perform automated tasks for you online.
   <sup>
-   &#9733 13804, pushed 2 days ago
+   &#9733 13804, pushed 127 days ago
   </sup>
  </li>
  <li>

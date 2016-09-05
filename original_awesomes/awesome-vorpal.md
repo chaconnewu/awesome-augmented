@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes.
 - [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
 - [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
+- [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 
 ## Extensions
 

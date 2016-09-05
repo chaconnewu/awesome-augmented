@@ -140,6 +140,13 @@
 </h2>
 <ul>
  <li>
+  <a href="https://aws.amazon.com/ecs/">
+   Amazon EC2 Container Service
+  </a>
+  <br/>
+  Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
+ </li>
+ <li>
   <a href="https://www.dotcloud.com/">
    Developer Cloud Platform
   </a>
@@ -154,11 +161,18 @@
   Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Container Engine actively schedules your containers, based on declared needs, on a managed cluster of virtual machines.
  </li>
  <li>
-  <a href="https://mesosphere.com/">
-   Mesosphere
+  <a href="http://jelastic.com/">
+   Jelastic
   </a>
   <br/>
-  The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
+  Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
+ </li>
+ <li>
+  <a href="https://www.joyent.com/">
+   Joyent
+  </a>
+  <br/>
+  High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
  </li>
  <li>
   <a href="http://kubernetes.io/">
@@ -168,11 +182,22 @@
   Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
  </li>
  <li>
-  <a href="http://jelastic.com/">
-   Jelastic
+  <a href="https://mesosphere.com/">
+   Mesosphere
   </a>
   <br/>
-  Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
+  The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
+ </li>
+ <li>
+  <a href="https://www.openshift.org/">
+   OpenShift Origin
+  </a>
+  <br/>
+  OpenShift Origin is a distribution of
+  <a href="http://kubernetes.io/">
+   Kubernetes
+  </a>
+  optimized for continuous application development and multi-tenant deployment. Origin adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
  </li>
  <li>
   <a href="https://github.com/cloudfoundry/warden">
@@ -181,22 +206,15 @@
   <br/>
   Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
   <sup>
-   &#9733 268, pushed 21 days ago
+   &#9733 268, pushed 146 days ago
   </sup>
  </li>
  <li>
-  <a href="https://aws.amazon.com/ecs/">
-   Amazon EC2 Container Service
+  <a href="https://virtuozzo.com/products/DevOps/">
+   Virtuozzo DevOps
   </a>
   <br/>
-  Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
- </li>
- <li>
-  <a href="https://www.joyent.com/">
-   Joyent
-  </a>
-  <br/>
-  High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
+  A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
  </li>
 </ul>
 <h2>
@@ -221,7 +239,7 @@
   <br/>
   Daemon based on liblxc offering a REST API to manage LXC containers.
   <sup>
-   &#9733 940, pushed 2 days ago
+   &#9733 940, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -243,7 +261,7 @@
   <br/>
   runc is a CLI tool for spawning and running containers according to the OCS specification.
   <sup>
-   &#9733 2738, pushed 2 days ago
+   &#9733 2738, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -253,7 +271,7 @@
   <br/>
   Docker implemented in around 100 lines of bash.
   <sup>
-   &#9733 3260, pushed 251 days ago
+   &#9733 3260, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -263,7 +281,7 @@
   <br/>
   rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
   <sup>
-   &#9733 5451, pushed 2 days ago
+   &#9733 5451, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -273,7 +291,7 @@
   <br/>
   LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
   <sup>
-   &#9733 1433, pushed 2 days ago
+   &#9733 1433, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -283,7 +301,7 @@
   <br/>
   Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
   <sup>
-   &#9733 785, pushed 2 days ago
+   &#9733 785, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -293,7 +311,7 @@
   <br/>
   Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
   <sup>
-   &#9733 85, pushed 173 days ago
+   &#9733 85, pushed 298 days ago
   </sup>
  </li>
  <li>
@@ -321,7 +339,7 @@
   <br/>
   The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
   <sup>
-   &#9733 92, pushed 21 days ago
+   &#9733 92, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -343,7 +361,7 @@
   <br/>
   NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
   <sup>
-   &#9733 276, pushed 8 days ago
+   &#9733 276, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -353,7 +371,7 @@
   <br/>
   Securing the Linux desktop with Docker.
   <sup>
-   &#9733 508, pushed 6 days ago
+   &#9733 508, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -403,7 +421,7 @@
   <br/>
   This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
   <sup>
-   &#9733 32, pushed 116 days ago
+   &#9733 32, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -420,7 +438,7 @@
   <br/>
   Works with Linux namespaces through glibc with pure python.
   <sup>
-   &#9733 51, pushed 261 days ago
+   &#9733 51, pushed 386 days ago
   </sup>
  </li>
  <li>
@@ -457,7 +475,7 @@
   <br/>
   The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
   <sup>
-   &#9733 1313, pushed 3 days ago
+   &#9733 1313, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +492,7 @@
   <br/>
   Custom AppArmor profile generator for docker containers.
   <sup>
-   &#9733 279, pushed 2 days ago
+   &#9733 279, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -484,7 +502,7 @@
   <br/>
   The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
   <sup>
-   &#9733 113, pushed 250 days ago
+   &#9733 113, pushed 375 days ago
   </sup>
  </li>
 </ul>
@@ -872,7 +890,7 @@
   <br/>
   The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
   <sup>
-   &#9733 50, pushed 28 days ago
+   &#9733 50, pushed 153 days ago
   </sup>
  </li>
  <li>

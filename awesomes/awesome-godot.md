@@ -40,7 +40,7 @@
   </a>
   -  Adventure platformer using only text based (DOS ANSi) characters
   <sup>
-   &#9733 1, pushed 215 days ago
+   &#9733 1, pushed 340 days ago
   </sup>
  </li>
  <li>
@@ -49,7 +49,7 @@
   </a>
   - Simple top-down moving platforms game.
   <sup>
-   &#9733 6, pushed 482 days ago
+   &#9733 6, pushed 607 days ago
   </sup>
  </li>
  <li>
@@ -58,7 +58,7 @@
   </a>
   - A simple Breakout clone.
   <sup>
-   &#9733 11, pushed 234 days ago
+   &#9733 11, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -67,7 +67,7 @@
   </a>
   - Simple mobile game. You need to touch bombs to diffuse them.
   <sup>
-   &#9733 9, pushed 22 days ago
+   &#9733 9, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -76,7 +76,7 @@
   </a>
   - platformer game made for the A Game By It's Cover 2015 Game Jam
   <sup>
-   &#9733 19, pushed 23 days ago
+   &#9733 19, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -85,7 +85,7 @@
   </a>
   - Bomberman clone in a fantasy universe.
   <sup>
-   &#9733 43, pushed 90 days ago
+   &#9733 43, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -94,7 +94,7 @@
   </a>
   - Ludum Dare 33 entry made in 48 hours.
   <sup>
-   &#9733 0, pushed 254 days ago
+   &#9733 0, pushed 378 days ago
   </sup>
  </li>
  <li>
@@ -103,7 +103,7 @@
   </a>
   - A pinball game.
   <sup>
-   &#9733 5, pushed 244 days ago
+   &#9733 5, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -112,7 +112,7 @@
   </a>
   - A Minesweeper clone
   <sup>
-   &#9733 4, pushed 27 days ago
+   &#9733 4, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -127,7 +127,7 @@
   </a>
   - Game made on Theater Game Jam (PGA 2015)
   <sup>
-   &#9733 2, pushed 201 days ago
+   &#9733 2, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -136,7 +136,7 @@
   </a>
   - Small running game done as 1 hour challenge.
   <sup>
-   &#9733 16, pushed 69 days ago
+   &#9733 16, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -145,7 +145,7 @@
   </a>
   - Ludum Dare 33 entry made in 48 hours.
   <sup>
-   &#9733 3, pushed 229 days ago
+   &#9733 3, pushed 354 days ago
   </sup>
  </li>
  <li>
@@ -154,7 +154,7 @@
   </a>
   - 2D physics parkour game in an alien environment.
   <sup>
-   &#9733 7, pushed 182 days ago
+   &#9733 7, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -163,7 +163,7 @@
   </a>
   - A 2D shooter game.
   <sup>
-   &#9733 9, pushed 2 days ago
+   &#9733 9, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -178,7 +178,7 @@
   </a>
   - Free turn-based isometric strategy game.
   <sup>
-   &#9733 174, pushed 5 days ago
+   &#9733 174, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -187,7 +187,7 @@
   </a>
   - Breakout game with mice made for the Godot Engine Jam 03/2016
   <sup>
-   &#9733 0, pushed 31 days ago
+   &#9733 0, pushed 156 days ago
   </sup>
  </li>
 </ul>
@@ -201,7 +201,7 @@
   </a>
   - A Game for Godot Engine Jam 03/2016
   <sup>
-   &#9733 1, pushed 43 days ago
+   &#9733 1, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -210,7 +210,7 @@
   </a>
   - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
   <sup>
-   &#9733 1, pushed 33 days ago
+   &#9733 1, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -219,7 +219,7 @@
   </a>
   - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
   <sup>
-   &#9733 12, pushed 88 days ago
+   &#9733 12, pushed 213 days ago
   </sup>
  </li>
 </ul>
@@ -244,7 +244,7 @@
   </a>
   - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
   <sup>
-   &#9733 21, pushed 227 days ago
+   &#9733 21, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -253,7 +253,7 @@
   </a>
   - A HTTP 1.0 file server.
   <sup>
-   &#9733 7, pushed 70 days ago
+   &#9733 7, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -262,7 +262,7 @@
   </a>
   - A demo project demonstrating pathfinding using a tilemap.
   <sup>
-   &#9733 13, pushed 305 days ago
+   &#9733 13, pushed 429 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +271,7 @@
   </a>
   - Lets you connect to a server and view networked physics.
   <sup>
-   &#9733 19, pushed 326 days ago
+   &#9733 19, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +280,7 @@
   </a>
   - A more efficient networking demo than the snapshot interpolation one.
   <sup>
-   &#9733 27, pushed 326 days ago
+   &#9733 27, pushed 450 days ago
   </sup>
  </li>
  <li>
@@ -289,7 +289,7 @@
   </a>
   - MineCraft like voxel terrain
   <sup>
-   &#9733 12, pushed 27 days ago
+   &#9733 12, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -308,7 +308,7 @@
   </a>
   - A clean, modern dark theme.
   <sup>
-   &#9733 13, pushed 243 days ago
+   &#9733 13, pushed 367 days ago
   </sup>
  </li>
 </ul>
@@ -327,15 +327,7 @@
   </a>
   - An ENet wrapper for Godot.
   <sup>
-   &#9733 30, pushed 102 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/laverneth/WaterSplash">
-   WaterSplash 2D node
-  </a>
-  <sup>
-   &#9733 5, pushed 312 days ago
+   &#9733 30, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -343,8 +335,13 @@
    Head tracking using OpenCV
   </a>
   <sup>
-   &#9733 0, pushed 509 days ago
+   &#9733 0, pushed 633 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/oamldev/oamlGodotModule">
+   Open Adaptive Music Library
+  </a>
  </li>
  <li>
   <a href="https://github.com/jrimclean/rawpacker">
@@ -352,7 +349,15 @@
   </a>
   - Simple binary packing/unpacking for RawArray.
   <sup>
-   &#9733 4, pushed 250 days ago
+   &#9733 4, pushed 375 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/laverneth/WaterSplash">
+   WaterSplash 2D node
+  </a>
+  <sup>
+   &#9733 5, pushed 437 days ago
   </sup>
  </li>
 </ul>
@@ -371,8 +376,27 @@
   </a>
   - Add cylinders, spheres, cubes easily.
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer">
+   Atlas importer
+  </a>
+  - The plugin to import packed atlas from
+  <a href="https://www.codeandweb.com/texturepacker">
+   TexturePacker
+  </a>
+  and
+  <a href="https://github.com/r-lyeh/attila">
+   Attila
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/leezh/autotile">
+   Auto Tile Layer
+  </a>
+  -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
  </li>
  <li>
   <a href="http://godotengine.org/qa/438/camera2d-screen-shake-extension">
@@ -386,7 +410,7 @@
   </a>
   - Plugin to generate Godot tilesets based on atlas images
   <sup>
-   &#9733 26, pushed 68 days ago
+   &#9733 26, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -395,8 +419,14 @@
   </a>
   - Godot shader that simulates CRT Displays.
   <sup>
-   &#9733 16, pushed 77 days ago
+   &#9733 16, pushed 201 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/impmja/godot-easing">
+   Easing Script
+  </a>
+  - A port of the Robert Penner's equations for easing
  </li>
  <li>
   <a href="https://github.com/TheHX/godot_examples">
@@ -404,7 +434,7 @@
   </a>
   - A script that imports models with inverted normals (proof of concept).
   <sup>
-   &#9733 4, pushed 367 days ago
+   &#9733 4, pushed 492 days ago
   </sup>
  </li>
  <li>
@@ -413,7 +443,7 @@
   </a>
   - A notification center for Godot.
   <sup>
-   &#9733 5, pushed 46 days ago
+   &#9733 5, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -422,7 +452,7 @@
   </a>
   - Text Interface Engine to control text output (like in a RPG dialogue)
   <sup>
-   &#9733 15, pushed 55 days ago
+   &#9733 15, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -431,11 +461,17 @@
   </a>
   - A plugin to handle huge amount of grass, foliages and other vegetations
   <sup>
-   &#9733 13, pushed 121 days ago
+   &#9733 13, pushed 246 days ago
   </sup>
  </li>
  <li>
-  <a href="https://bitbucket.org/bitwes/gut/overview">
+  <a href="https://github.com/TeddyDD/gterm">
+   gterm
+  </a>
+  - GUI Control that draws something similar to *nix terminal emulators
+ </li>
+ <li>
+  <a href="https://github.com/bitwes/Gut">
    GUT
   </a>
   - Utility for writing unit tests in GDScript.
@@ -458,7 +494,7 @@
   </a>
   - Merge polygons.
   <sup>
-   &#9733 2, pushed 445 days ago
+   &#9733 2, pushed 570 days ago
   </sup>
  </li>
  <li>
@@ -467,7 +503,7 @@
   </a>
   - Switch resolutions easily, for testing.
   <sup>
-   &#9733 26, pushed 68 days ago
+   &#9733 26, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -476,7 +512,7 @@
   </a>
   - Simplex deterministic noise functions.
   <sup>
-   &#9733 4, pushed 93 days ago
+   &#9733 4, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -495,14 +531,30 @@
   </a>
   .
   <sup>
-   &#9733 37, pushed 101 days ago
+   &#9733 37, pushed 226 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer">
+   Tiled importer
+  </a>
+  - The plugin to import tile maps from
+  <a href="http://www.mapeditor.org/">
+   Tiled
+  </a>
+  with all features supported.
  </li>
  <li>
   <a href="https://gist.github.com/Calinou/27e979ab0a35500c3381">
    Tileset Builder
   </a>
   - Build tilesets.
+ </li>
+ <li>
+  <a href="https://github.com/Qudware/godot-adventure-api">
+   Simple Adventure API
+  </a>
+  - Create Adventure/VN/IF games with a simple API
  </li>
 </ul>
 <h2>
@@ -524,7 +576,7 @@
    Geany
   </a>
   <sup>
-   &#9733 6, pushed 777 days ago
+   &#9733 6, pushed 901 days ago
   </sup>
  </li>
  <li>
@@ -532,7 +584,7 @@
    Gedit
   </a>
   <sup>
-   &#9733 8, pushed 777 days ago
+   &#9733 8, pushed 901 days ago
   </sup>
  </li>
  <li>
@@ -540,7 +592,7 @@
    Sublime Text
   </a>
   <sup>
-   &#9733 12, pushed 44 days ago
+   &#9733 12, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -548,8 +600,29 @@
    Vim
   </a>
   <sup>
-   &#9733 15, pushed 101 days ago
+   &#9733 15, pushed 226 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Godot text editor color themes
+</h2>
+<p>
+ <em>
+  Alternative themes for built-in text editor.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/Geequlim/godot-code/tree/master/styles/syntax">
+   Chester, Google code light and Monokai
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/Calinou/godot-syntax-themes">
+   Syntax themes by Calinou
+  </a>
+  - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
  </li>
 </ul>
 <h2>
@@ -604,7 +677,7 @@
   </a>
   - Tool to generate gamepad mappings for all supported platforms.
   <sup>
-   &#9733 2, pushed 75 days ago
+   &#9733 2, pushed 200 days ago
   </sup>
  </li>
  <li>

@@ -174,11 +174,6 @@
    </li>
   </ul>
  </li>
- <li>
-  <a href="#other-awesome-lists">
-   Other Awesome Lists
-  </a>
- </li>
 </ul>
 <h2>
  Graphics
@@ -421,12 +416,6 @@
   - Charas is a charset generator for RPG Maker.
  </li>
  <li>
-  <a href="http://www.famitsu.com/freegame/tool/chibi/index1.html">
-   Famistu Chibi Maker
-  </a>
-  - A tool to make the famous chibi chars and use in your game.
- </li>
- <li>
   <a href="http://www.geocities.jp/kurororo4/looseleaf/">
    Loose Leaf
   </a>
@@ -558,9 +547,9 @@
   <a href="https://github.com/Pixen/Pixen">
    Pixen
   </a>
-  - OpenSource Pixel Art Editor for OSX
+  - Pixel Art Editor for OSX
   <sup>
-   &#9733 938, pushed 215 days ago
+   &#9733 938, pushed 339 days ago
   </sup>
  </li>
 </ul>
@@ -633,7 +622,7 @@
    goxel
   </a>
   <sup>
-   &#9733 579, pushed 32 days ago
+   &#9733 579, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -702,7 +691,7 @@
   </a>
   - Classic point and click adventure game engine and editor.
   <sup>
-   &#9733 88, pushed 6 days ago
+   &#9733 88, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -717,7 +706,7 @@
   </a>
   - C# implementation of the Chipmunk2D lib.
   <sup>
-   &#9733 23, pushed 322 days ago
+   &#9733 23, pushed 447 days ago
   </sup>
  </li>
  <li>
@@ -732,7 +721,7 @@
   </a>
   - graphic library for games and multimedia, for python language
   <sup>
-   &#9733 275, pushed 2 days ago
+   &#9733 275, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -783,7 +772,7 @@
   </a>
   - A multi-platform 2D game library for Go.
   <sup>
-   &#9733 318, pushed 249 days ago
+   &#9733 318, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +823,7 @@
   </a>
   - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
   <sup>
-   &#9733 427, pushed 133 days ago
+   &#9733 427, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -855,7 +844,7 @@
   </a>
   - Framework for making 2D games with chunky pixels in Lua
   <sup>
-   &#9733 42, pushed 11 days ago
+   &#9733 42, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -900,7 +889,7 @@
   </a>
   - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
   <sup>
-   &#9733 9, pushed 215 days ago
+   &#9733 9, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -927,7 +916,7 @@
   </a>
   - Open Source 2D game framework written in C++ (to the style of XNA)
   <sup>
-   &#9733 6, pushed 452 days ago
+   &#9733 6, pushed 577 days ago
   </sup>
  </li>
  <li>
@@ -989,6 +978,12 @@
    PICO-8
   </a>
   - A fantasy console for making, sharing and playing tiny games and other computer programs.
+ </li>
+ <li>
+  <a href="https://twitter.com/PixelVision8">
+   Pixel Vision 8
+  </a>
+  - a framework designed to simulate your favorite 8-bit consoles.
  </li>
  <li>
   <a href="http://www.pixijs.com/">
@@ -1115,7 +1110,7 @@
   </a>
   - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
   <sup>
-   &#9733 1856, pushed 2 days ago
+   &#9733 1856, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1125,12 +1120,18 @@
   - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
  </li>
  <li>
+  <a href="https://github.com/CRYTEK-CRYENGINE/CRYENGINE">
+   CRYENGINE
+  </a>
+  - A pay what you want next gen 3D game engine written in C++.
+ </li>
+ <li>
   <a href="https://github.com/Circular-Studios/Dash">
    Dash
   </a>
   - A free and open 3D game engine written in D.
   <sup>
-   &#9733 310, pushed 85 days ago
+   &#9733 310, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -1242,7 +1243,7 @@ with AWS and Twitch – with full source.
   </a>
   - Android OpenGL ES 2.0/3.0 Engine
   <sup>
-   &#9733 927, pushed 10 days ago
+   &#9733 927, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1515,7 +1516,7 @@ with AWS and Twitch – with full source.
   </a>
  </li>
  <li>
-  <a href="www.html5gamedevs.com/">
+  <a href="http://www.html5gamedevs.com/">
    HTML5 Game Devs Forum
   </a>
  </li>
@@ -1760,7 +1761,7 @@ with AWS and Twitch – with full source.
   </a>
   - A curated list of game talks (GDC, youtube, etc).
   <sup>
-   &#9733 274, pushed 34 days ago
+   &#9733 274, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -1784,7 +1785,7 @@ with AWS and Twitch – with full source.
    Doom 3
   </a>
   <sup>
-   &#9733 1218, pushed 243 days ago
+   &#9733 1218, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -1792,7 +1793,7 @@ with AWS and Twitch – with full source.
    Doom
   </a>
   <sup>
-   &#9733 1551, pushed 338 days ago
+   &#9733 1551, pushed 463 days ago
   </sup>
  </li>
  <li>
@@ -1805,7 +1806,7 @@ with AWS and Twitch – with full source.
    Prince of Persia
   </a>
   <sup>
-   &#9733 3970, pushed 398 days ago
+   &#9733 3970, pushed 522 days ago
   </sup>
  </li>
  <li>
@@ -1813,7 +1814,7 @@ with AWS and Twitch – with full source.
    Quake 2
   </a>
   <sup>
-   &#9733 601, pushed 1554 days ago
+   &#9733 601, pushed 1679 days ago
   </sup>
  </li>
  <li>
@@ -1821,7 +1822,7 @@ with AWS and Twitch – with full source.
    Quake III Arena
   </a>
   <sup>
-   &#9733 1644, pushed 44 days ago
+   &#9733 1644, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -1829,7 +1830,7 @@ with AWS and Twitch – with full source.
    Quake
   </a>
   <sup>
-   &#9733 1167, pushed 1554 days ago
+   &#9733 1167, pushed 1678 days ago
   </sup>
  </li>
  <li>
@@ -1837,7 +1838,7 @@ with AWS and Twitch – with full source.
    SimCity
   </a>
   <sup>
-   &#9733 147, pushed 127 days ago
+   &#9733 147, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -1845,7 +1846,7 @@ with AWS and Twitch – with full source.
    Wolfenstein 3D
   </a>
   <sup>
-   &#9733 513, pushed 1548 days ago
+   &#9733 513, pushed 1673 days ago
   </sup>
  </li>
 </ul>
@@ -1859,7 +1860,10 @@ with AWS and Twitch – with full source.
 </p>
 <ul>
  <li>
-  [AdMob by Google] - Google's Ads and monetization service for mobile.
+  <a href="https://www.google.com.br/admob/">
+   AdMob by Google
+  </a>
+  - Google's Ads and monetization service for mobile.
  </li>
  <li>
   <a href="http://www.adcolony.com/">

@@ -143,6 +143,36 @@
  Posts
 </h2>
 <p>
+ <a href="https://chrisruppel.com/blog/service-worker-offline-content/">
+  Offline Content with Service Worker
+ </a>
+ (Chris Ruppel - Jun 6, 2016)
+</p>
+<p>
+ <a href="https://adactio.com/journal/10754">
+  Taking an online book offline
+ </a>
+ (Jeremy Keith - Jun 3, 2016)
+</p>
+<p>
+ <a href="https://medium.com/@boopathi/service-workers-gotchas-44bec65eab3f#.4q0ncllos">
+  Service Workers — Gotchas
+ </a>
+ (Boopathi Rajaa - May 9, 2016)
+</p>
+<p>
+ <a href="https://developer.ibm.com/clouddataservices/2016/05/05/offline-first-qr-code-badge-scanner/">
+  Offline-first QR-code Badge Scanner
+ </a>
+ (Glynn Bird - May 5, 2016)
+</p>
+<p>
+ <a href="https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/">
+  Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”
+ </a>
+ (Alex Russell- May 4, 2016)
+</p>
+<p>
  <a href="https://medium.com/@torgo/progressive-web-apps-eating-your-cake-c0a79797220f#.jp6qup8xg">
   Progressive Web Apps: Eating your Cake
  </a>
@@ -377,6 +407,12 @@
  (Roman Liutikov - Oct 26, 2015)
 </p>
 <p>
+ <a href="https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7">
+  The offline experience (or, saying goodbye to imperative data fetching)
+ </a>
+ (Dario Gieselaar - Oct 25, 2015)
+</p>
+<p>
  <a href="https://ponyfoo.com/articles/serviceworker-revolution">
   ServiceWorker: Revolution of the Web Platform
  </a>
@@ -401,7 +437,7 @@
  (Kenneth Ormandy - Oct 14, 2015)
 </p>
 <p>
- <a href="https://developers.google.com/web/showcase/case-study/service-workers-iowa">
+ <a href="https://developers.google.com/web/showcase/2015/service-workers-iowa">
   Service Workers in Production
  </a>
  (Jeff Posnick - Oct 01, 2015)
@@ -449,7 +485,7 @@
  (Ian Devlin - Jun 1, 2015)
 </p>
 <p>
- <a href="http://www.infoq.com/articles/mobile-apps-offline-support">
+ <a href="https://www.infoq.com/articles/mobile-apps-offline-support">
   Mobile Apps Offline Support
  </a>
  (Gustavo Machado - May 29, 2015)
@@ -473,7 +509,7 @@
  (Assaf Weinberg - Mar, 2015)
 </p>
 <p>
- <a href="https://medium.com/user-experience-design-1/offline-93c2f8396124">
+ <a href="https://uxdesign.cc/offline-93c2f8396124">
   Offline: When Your Apps Can’t Connect to the Internet
  </a>
  (Daniel Sauble - Mar 29, 2015)
@@ -509,7 +545,7 @@
  (Gabor Lenard - Jan 25, 2015)
 </p>
 <p>
- <a href="http://blog.ae.be/offline-first-simple-unplug-play/">
+ <a href="http://www.ae.be/blog-en/offline-first-simple-unplug-play/">
   Offline first: as simple as unplug & play?
  </a>
  (Thomas Anciaux - Jan 15, 2015)
@@ -683,7 +719,7 @@
  (Christian Heilmann - Mar 23rd, 2014)
 </p>
 <p>
- <a href="http://www.sitepoint.com/building-offline-first-app-pouchdb/">
+ <a href="https://www.sitepoint.com/building-offline-first-app-pouchdb/">
   Building an Offline First App with PouchDB
  </a>
  (Tiffany Brown - Mar 10, 2014)
@@ -725,7 +761,7 @@
  (Dan Lash - Nov 5, 2013)
 </p>
 <p>
- <a href="http://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/">
+ <a href="https://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/">
   Offline First: Your Next Progressive Enhancement Technique?
  </a>
  (Craig Buckler - Oct 30, 2013)
@@ -741,12 +777,6 @@
   Using HTML5 AppCache with Single Page Applications
  </a>
  (Sergei Dorogin - Mar 29, 2013)
-</p>
-<p>
- <a href="http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/">
-  Offline First – A better HTML5 User Experience
- </a>
- (Joe Lambert - Nov 26, 2012)
 </p>
 <p>
  <a href="http://alistapart.com/article/application-cache-is-a-douchebag">
@@ -777,7 +807,7 @@
  (Michiel B. de Jong - 2011)
 </p>
 <p>
- <a href="http://www.sitepoint.com/killer-offline-web-applications/">
+ <a href="https://www.sitepoint.com/killer-offline-web-applications/">
   5 Reasons Why There are no Killer Offline Web Applications
  </a>
  (Craig Buckler - Feb 16, 2010
@@ -800,6 +830,30 @@
 <h3>
  Videos
 </h3>
+<p>
+ <a href="https://vimeo.com/171317290">
+  Offline is the new black
+ </a>
+ (Max Stoiber - Jun 19, 2016)
+</p>
+<p>
+ <a href="https://www.youtube.com/watch?v=fGTUIlEM0m8&feature=youtu.be&t=2200">
+  Service workers at scale with Facebook and Flipkart
+ </a>
+ (Owen Campbell-Moore, Aditya Punjani and Nate Schloss - May 20, 2016)
+</p>
+<p>
+ <a href="https://www.youtube.com/watch?v=cmGr0RszHc8">
+  Instant Loading: Building offline-first Progressive Web Apps
+ </a>
+ (Jake Archibald - May 20, 2016)
+</p>
+<p>
+ <a href="https://www.youtube.com/watch?v=NEferkZOGV4&feature=youtu.be">
+  Offline First – the good parts
+ </a>
+ (Gregor Martynus - May 12, 2016)
+</p>
 <p>
  <a href="https://www.udacity.com/course/offline-web-applications--ud899">
   Offline Web Applications: Using IndexedDB & Service Worker
@@ -1037,6 +1091,12 @@
  Slides
 </h3>
 <p>
+ <a href="https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-jsconf-budapest-may-2016">
+  Building an Offline Page for theguardian.com
+ </a>
+ (Oliver Joseph Ash - May 14, 2016)
+</p>
+<p>
  <a href="https://docs.google.com/presentation/d/1crh5m2aDdZPAL07Zo1FtuAliwwghW6FMOEtXviA_BZo/edit#slide=id.p">
   Go offline with Service Workers
  </a>
@@ -1193,13 +1253,13 @@
  (Joan Touzet - Sep 16, 2014)
 </p>
 <p>
- <a href="http://www.infoq.com/presentations/status-web-offline">
+ <a href="https://www.infoq.com/presentations/status-web-offline">
   Status Web Offline
  </a>
  (Caolan McMahon -  Aug 21, 2014)
 </p>
 <p>
- <a href="http://www.infoq.com/presentations/html5-offline-storage">
+ <a href="https://www.infoq.com/presentations/html5-offline-storage">
   Look Ma, No Connections! Building Offline-capable Web Apps with HTML5
  </a>
  (Bijan Vaez -  Aug 1, 2014)
@@ -1343,6 +1403,12 @@ See the
   Offline States
  </a>
  : What show applications when we have not internet connection.
+</p>
+<p>
+ <a href="https://github.com/gr2m/appcache-nanny">
+  appCache Nanny
+ </a>
+ :  JavaScript APIs for appCache
 </p>
 <h2>
  Books

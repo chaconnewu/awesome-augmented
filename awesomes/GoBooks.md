@@ -211,7 +211,23 @@ and may be conveniently fetched, built, and installed using the
  </a>
 </p>
 <p>
- Learn Go is a beginner-friendly introduction to the Go language. You'll get expert guidance as you work through hands-on exercises. First, you'll walk through basic constructs of the language while building a spaceline ticket generator. Next you'll move on to the type system, decoding text messages from space, and making calculations. You'll discover functions, methods, and collections. And then you'll dive into more advanced topics like nitty-gritty memory management with pointers and Go's concurrency primitives. The last few chapters cover code management in larger projects and automated testing.
+ <em>
+  Learn Go
+ </em>
+ is a beginner’s guide to the Go programming language, aimed squarely at hobbyists and new developers. It’s chock-full of exercises that you can tackle with nothing more than a web browser. Move forward each day with succinctly written chapters punctuated by elaborate challenges. By the end you will have cracked ancient ciphers, discovered the wonders of cellular automatons, planned a vacation on Mars, and directed rovers to gather weather data. This is just the beginning. What you build next is up to you.
+</p>
+<h3>
+ <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ">
+  Go Programming by Example
+ </a>
+</h3>
+<p>
+ <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/>
+ </a>
+</p>
+<p>
+ Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
 </p>
 <h2>
  <strong>
@@ -309,7 +325,7 @@ and may be conveniently fetched, built, and installed using the
  </em>
 </h3>
 <p>
- <img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
+ <img src="https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
 </p>
 <p>
  A good resource for start Building Web Apps with Go. Free to
@@ -335,7 +351,7 @@ and may be conveniently fetched, built, and installed using the
  </em>
 </h3>
 <p>
- <img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
+ <img src="https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
 </p>
 <p>
  Another awesome book for learning Web Development in Golang. Free to
@@ -388,7 +404,7 @@ and may be conveniently fetched, built, and installed using the
  </em>
 </h3>
 <p>
- <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/blob/master/cover.jpg" width="120px"/>
+ <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 </p>
 <p>
  This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
@@ -407,6 +423,19 @@ and may be conveniently fetched, built, and installed using the
  <a href="https://www.gitbook.com/download/mobi/book/thewhitetulip/webapp-with-golang-anti-textbook">
   Download mobi
  </a>
+</p>
+<h3>
+ <a href="https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797">
+  Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React
+ </a>
+</h3>
+<p>
+ <a href="https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/>
+ </a>
+</p>
+<p>
+ Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
 </p>
 <h1>
  Resources

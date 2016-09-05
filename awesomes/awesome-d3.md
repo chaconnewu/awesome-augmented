@@ -73,7 +73,7 @@
   </a>
   - Layout directed graphs on the client-side
   <sup>
-   &#9733 731, pushed 18 days ago
+   &#9733 731, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -100,8 +100,38 @@
   </a>
   - Reusable D3 Sankey diagram
   <sup>
-   &#9733 17, pushed 99 days ago
+   &#9733 17, pushed 224 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-bar">
+   d3-bar
+  </a>
+  - Bar chart
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-circle">
+   d3-circle
+  </a>
+  - Circle chart
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-dot">
+   d3-dot
+  </a>
+  - Dot chart
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-heatmap">
+   d3-heatmap
+  </a>
+  - Heatmap
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-line">
+   d3-line
+  </a>
+  - Line chart
  </li>
  <li>
   <a href="https://github.com/spiermar/d3-flame-graph">
@@ -109,7 +139,7 @@
   </a>
   - Flame graphs from hierarchical data
   <sup>
-   &#9733 105, pushed 47 days ago
+   &#9733 105, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -118,7 +148,7 @@
   </a>
   - A dynamic/static message sequence chart
   <sup>
-   &#9733 43, pushed 159 days ago
+   &#9733 43, pushed 283 days ago
   </sup>
  </li>
  <li>
@@ -127,7 +157,7 @@
   </a>
   - responsive timeline charts
   <sup>
-   &#9733 442, pushed 44 days ago
+   &#9733 442, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -142,7 +172,7 @@
   </a>
   - A funnel and pyramid chart library
   <sup>
-   &#9733 84, pushed 3 days ago
+   &#9733 84, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -151,7 +181,7 @@
   </a>
   - Interactive charts with linked brushing
   <sup>
-   &#9733 13, pushed 1 days ago
+   &#9733 13, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -160,7 +190,7 @@
   </a>
   - A configurable pie chart lib and generator
   <sup>
-   &#9733 203, pushed 122 days ago
+   &#9733 203, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -169,7 +199,7 @@
   </a>
   - Straight forward plotting
   <sup>
-   &#9733 340, pushed 48 days ago
+   &#9733 340, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -190,7 +220,7 @@
   </a>
   - Family tree library
   <sup>
-   &#9733 11, pushed 44 days ago
+   &#9733 11, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +235,7 @@
   </a>
   - A time based/event series interactive visualization
   <sup>
-   &#9733 548, pushed 12 days ago
+   &#9733 548, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -214,7 +244,7 @@
   </a>
   - Library to visualize percentage values
   <sup>
-   &#9733 76, pushed 227 days ago
+   &#9733 76, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -223,7 +253,7 @@
   </a>
   - Streaming charts
   <sup>
-   &#9733 64, pushed 391 days ago
+   &#9733 64, pushed 516 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +262,7 @@
   </a>
   - A time series charting library
   <sup>
-   &#9733 41, pushed 89 days ago
+   &#9733 41, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -241,8 +271,14 @@
   </a>
   - Gantt chart library
   <sup>
-   &#9733 177, pushed 96 days ago
+   &#9733 177, pushed 221 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ignacioola/insights">
+   insights
+  </a>
+  -  Library to visualize and navigate graphs
  </li>
  <li>
   <a href="http://metricsgraphicsjs.org/">
@@ -298,7 +334,7 @@
   </a>
   - Radar chart module
   <sup>
-   &#9733 226, pushed 147 days ago
+   &#9733 226, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -307,7 +343,7 @@
   </a>
   - Toolkit for creating interactive real-time graphs
   <sup>
-   &#9733 5718, pushed 25 days ago
+   &#9733 5718, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -346,7 +382,7 @@
   </a>
   - A framework for building visual data exploration tools
   <sup>
-   &#9733 86, pushed 2 days ago
+   &#9733 86, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -355,7 +391,7 @@
   </a>
   - Xkcd style graphs
   <sup>
-   &#9733 246, pushed 248 days ago
+   &#9733 246, pushed 373 days ago
   </sup>
  </li>
 </ul>
@@ -375,7 +411,7 @@
   </a>
   - d3 with React
   <sup>
-   &#9733 223, pushed 5 days ago
+   &#9733 223, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -402,7 +438,7 @@
   </a>
   - Charts for React
   <sup>
-   &#9733 1111, pushed 25 days ago
+   &#9733 1111, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -411,8 +447,14 @@
   </a>
   - D3 Components
   <sup>
-   &#9733 915, pushed 14 days ago
+   &#9733 915, pushed 138 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://react-d3-library.github.io/">
+   react-d3-library
+  </a>
+  - Library that allows developers the ability to use D3 in React
  </li>
  <li>
   <a href="http://rrag.github.io/react-stockcharts">
@@ -438,7 +480,7 @@
   </a>
   - A collection of composable React components for building interactive data visualizations
   <sup>
-   &#9733 1038, pushed 7 days ago
+   &#9733 1038, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -469,7 +511,7 @@
   </a>
   - A mapping API that uses D3 geospatial functionality
   <sup>
-   &#9733 179, pushed 416 days ago
+   &#9733 179, pushed 540 days ago
   </sup>
  </li>
  <li>
@@ -491,12 +533,18 @@
   - Cartograms with D3 & TopoJSON
  </li>
  <li>
+  <a href="http://bsouthga.github.io/d3-exploder/">
+   d3 exploder
+  </a>
+  - Lets you easily move and resize geographic features
+ </li>
+ <li>
   <a href="https://github.com/d3/d3-geo-projection">
    d3 geo projection
   </a>
   - Extended geographic projections
   <sup>
-   &#9733 311, pushed 103 days ago
+   &#9733 311, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -506,18 +554,12 @@
   - Library for creating geographic maps
  </li>
  <li>
-  <a href="http://code.minnpost.com/simple-map-d3/">
-   simple map
-  </a>
-  - Easy choropleth style maps
- </li>
- <li>
   <a href="https://github.com/floledermann/mapmap.js">
    mapmap.js
   </a>
   - A data-driven API for interactive thematic maps
   <sup>
-   &#9733 61, pushed 155 days ago
+   &#9733 61, pushed 280 days ago
   </sup>
  </li>
  <li>
@@ -526,8 +568,26 @@
   </a>
   - Full resolution vector maps with D3
   <sup>
-   &#9733 78, pushed 230 days ago
+   &#9733 78, pushed 354 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Packet-Clearing-House/maptable">
+   maptable
+  </a>
+  - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
+ </li>
+ <li>
+  <a href="http://code.minnpost.com/simple-map-d3/">
+   simple map
+  </a>
+  - Easy choropleth style maps
+ </li>
+ <li>
+  <a href="https://github.com/newsappsio/spam">
+   spam
+  </a>
+  - Create maps with D3 and Canvas, easily
  </li>
 </ul>
 <h5>
@@ -540,8 +600,14 @@
   </a>
   - Collection of plugins for using D3 with Leaflet
   <sup>
-   &#9733 103, pushed 231 days ago
+   &#9733 103, pushed 356 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://map.reactd3.org/">
+   React D3 Map
+  </a>
+  - Library For Building Composable And Declarative Maps
  </li>
  <li>
   <a href="https://github.com/WikimapsAtlas/make-modules">
@@ -549,7 +615,7 @@
   </a>
   - Command line utility and D3js based library to generate raster, topojson and svg maps
   <sup>
-   &#9733 23, pushed 58 days ago
+   &#9733 23, pushed 183 days ago
   </sup>
  </li>
 </ul>
@@ -575,7 +641,7 @@
   </a>
   - Extends d3 with some common jQuery functions
   <sup>
-   &#9733 236, pushed 39 days ago
+   &#9733 236, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -584,8 +650,14 @@
   </a>
   - Little utility functions
   <sup>
-   &#9733 23, pushed 525 days ago
+   &#9733 23, pushed 649 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vijithassar/d3-history">
+   d3-history
+  </a>
+  - Proper URL bar history
  </li>
  <li>
   <a href="https://github.com/tomgp/d3-iconarray">
@@ -593,7 +665,7 @@
   </a>
   - A plug-in for aligning elements in grids
   <sup>
-   &#9733 34, pushed 61 days ago
+   &#9733 34, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -602,7 +674,7 @@
   </a>
   - A set of tools to speed D3 related project development
   <sup>
-   &#9733 216, pushed 26 days ago
+   &#9733 216, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -611,7 +683,7 @@
   </a>
   - Plug-in for automatic label placement
   <sup>
-   &#9733 117, pushed 225 days ago
+   &#9733 117, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -619,66 +691,6 @@
    d3-legend
   </a>
   - Legend helper
- </li>
- <li>
-  <a href="http://d3plus.org/">
-   d3-plus
-  </a>
-  - An extension to the D3 library that allows fast and easy creation of data visualizations
- </li>
- <li>
-  <a href="https://github.com/1wheel/d3-starterkit">
-   d3-starterkit
-  </a>
-  - Helper functions simplifying common and verbose d3 patterns
-  <sup>
-   &#9733 80, pushed 76 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Caged/d3-tip">
-   d3-tip
-  </a>
-  - Tooltips helper
-  <sup>
-   &#9733 746, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bmschmidt/D3-trail">
-   d3-trail
-  </a>
-  - A layout for creating better path elements with d3
-  <sup>
-   &#9733 117, pushed 484 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MasterMaps/d3-slider">
-   d3.slider
-  </a>
-  - jQuery UI inspired slider
-  <sup>
-   &#9733 180, pushed 50 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/emeeks/d3.svg.circularbrush">
-   d3.svg.circularbrush
-  </a>
-  - A brush for selecting cyclical data
-  <sup>
-   &#9733 38, pushed 125 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/emeeks/d3.svg.ribbon">
-   d3.svg.ribbon
-  </a>
-  - An area interpolator
-  <sup>
-   &#9733 13, pushed 254 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kiernanmcgowan/d3-nelson-rules">
@@ -692,14 +704,53 @@
   </a>
   - Find peaks in a noisy signal
   <sup>
-   &#9733 32, pushed 40 days ago
+   &#9733 32, pushed 164 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://d3plus.org/">
+   d3-plus
+  </a>
+  - An extension to the D3 library that allows fast and easy creation of data visualizations
+ </li>
+ <li>
+  <a href="https://github.com/armollica/d3-ring-note">
+   d3-ring-note
+  </a>
+  - Plugin for placing circle and text annotations
  </li>
  <li>
   <a href="https://github.com/1wheel/d3-starterkit">
    d3-starterkit
   </a>
-  - Snippets and conventions for d3
+  - Helper functions simplifying common and verbose d3 patterns
+  <sup>
+   &#9733 80, pushed 201 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Caged/d3-tip">
+   d3-tip
+  </a>
+  - Tooltips helper
+  <sup>
+   &#9733 746, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tj/d3-tipy">
+   d3-tipy
+  </a>
+  - Tooltip helper module
+ </li>
+ <li>
+  <a href="https://github.com/bmschmidt/D3-trail">
+   d3-trail
+  </a>
+  - A layout for creating better path elements
+  <sup>
+   &#9733 117, pushed 608 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.vijithassar.com/d3-xray">
@@ -708,12 +759,45 @@
   - Bookmarklet which logs the results of the data joins as you mouse over
  </li>
  <li>
+  <a href="https://github.com/MasterMaps/d3-slider">
+   d3.slider
+  </a>
+  - jQuery UI inspired slider
+  <sup>
+   &#9733 180, pushed 175 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/emeeks/d3.svg.circularbrush">
+   d3.svg.circularbrush
+  </a>
+  - A brush for selecting cyclical data
+  <sup>
+   &#9733 38, pushed 249 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/emeeks/d3.svg.ribbon">
+   d3.svg.ribbon
+  </a>
+  - An area interpolator
+  <sup>
+   &#9733 13, pushed 379 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://iop.io/iopctrl">
+   iopctrl
+  </a>
+  - Lib for making simple user interface controls
+ </li>
+ <li>
   <a href="https://github.com/gka/d3-jetpack">
    jetpack
   </a>
   - Nifty convenience wrappers that speed up your daily work
   <sup>
-   &#9733 277, pushed 57 days ago
+   &#9733 277, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -726,9 +810,9 @@
   <a href="https://github.com/bizweekgraphics/swoopyarrows">
    swoopyarrows
   </a>
-  - Plugin to create swoopy arrows with d3
+  - Plugin to create swoopy arrows
   <sup>
-   &#9733 34, pushed 43 days ago
+   &#9733 34, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -737,7 +821,7 @@
   </a>
   - Artisanal label placement for d3 graphics
   <sup>
-   &#9733 54, pushed 35 days ago
+   &#9733 54, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -769,7 +853,7 @@
   </a>
   - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
   <sup>
-   &#9733 90, pushed 128 days ago
+   &#9733 90, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -778,7 +862,7 @@
   </a>
   - A toolkit to enable the manipulation of data graphics
   <sup>
-   &#9733 122, pushed 73 days ago
+   &#9733 122, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -787,7 +871,7 @@
   </a>
   - First class emoji support
   <sup>
-   &#9733 96, pushed 365 days ago
+   &#9733 96, pushed 490 days ago
   </sup>
  </li>
  <li>
@@ -796,7 +880,7 @@
   </a>
   - Word clouds
   <sup>
-   &#9733 1539, pushed 201 days ago
+   &#9733 1539, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -805,8 +889,14 @@
   </a>
   - Helper to create context-menus
   <sup>
-   &#9733 31, pushed 10 days ago
+   &#9733 31, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sohamkamani/d3-force-gravity">
+   d3-force-gravity
+  </a>
+  - Implement gravitational attraction (or force-field-like repulsion) using d3-force
  </li>
  <li>
   <a href="https://github.com/glena/d3-resume">
@@ -814,7 +904,7 @@
   </a>
   - Resume visualizer
   <sup>
-   &#9733 15, pushed 391 days ago
+   &#9733 15, pushed 516 days ago
   </sup>
  </li>
  <li>
@@ -823,7 +913,7 @@
   </a>
   - Creates sketchy backgrounds, shapes and lines
   <sup>
-   &#9733 184, pushed 274 days ago
+   &#9733 184, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -838,14 +928,14 @@
   </a>
   - Smart SVG text box with line wrapping and automatic font scaling
   <sup>
-   &#9733 7, pushed 4 days ago
+   &#9733 7, pushed 129 days ago
   </sup>
  </li>
  <li>
   <a href="http://1wheel.github.io/graph-scroll/">
    graph-scroll
   </a>
-  - Simple scrolling events for d3 graphics
+  - Simple scrolling events
  </li>
  <li>
   <a href="https://github.com/amcmillan01/jsdoc2diagram">
@@ -853,8 +943,20 @@
   </a>
   - Create tree diagram from jsdoc
   <sup>
-   &#9733 27, pushed 192 days ago
+   &#9733 27, pushed 316 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://knsv.github.io/mermaid/">
+   mermaid
+  </a>
+  - Generation of diagrams and flowcharts from text in a similar manner as markdown
+ </li>
+ <li>
+  <a href="https://github.com/dborzov/netvis">
+   netvis
+  </a>
+  - Tool to visualize network communication for arbitrary protocols
  </li>
 </ul>
 <h2>
@@ -862,21 +964,19 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/fabriciotav/d3-snippets-for-sublime-text-2">
-   D3.js snippets for Sublime Text 2
+  <a href="https://github.com/martgnz/d3-snippets">
+   Snippets for Atom
   </a>
-  - A Sublime Text 2 package with d3 snippets
   <sup>
-   &#9733 10, pushed 777 days ago
+   &#9733 15, pushed 176 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/martgnz/d3-snippets">
-   Atom D3 snippets
+  <a href="https://github.com/fabriciotav/d3-snippets-for-sublime-text-2">
+   Snippets for Sublime Text 2
   </a>
-  - An Atom package with d3 snippets
   <sup>
-   &#9733 15, pushed 51 days ago
+   &#9733 10, pushed 901 days ago
   </sup>
  </li>
 </ul>

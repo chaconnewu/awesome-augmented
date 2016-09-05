@@ -35,7 +35,7 @@ Table of Contents
 ## Source Code Repos
 
   * [Bitbucket](https://bitbucket.org/) - Free unlimited public and private repositories for academic users and teams.
-  * [GitHub](https://education.github.com/pack) -  Micro account (normally $7/month) with five private repositories while you're a student.
+  * [GitHub](https://education.github.com/pack) -  Micro account (normally $7/month) with unlimited private repositories while you're a student.
 
 
 ## IDE and Code Editing
@@ -70,13 +70,14 @@ Table of Contents
 
   * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
-## Emails
+## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles upto 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
 
 ## Payments
 

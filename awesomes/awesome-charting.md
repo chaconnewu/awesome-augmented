@@ -21,40 +21,34 @@
   <img alt="Build Status" src="https://travis-ci.org/zingchart/awesome-charting.svg?branch=master"/>
  </a>
 </p>
+<p>
+ <strong>
+  Table of Contents
+ </strong>
+ *
+ <a href="#commercial-libraries">
+  Commercial Libraries
+ </a>
+ *
+ <a href="#free-and-open-source-libraries">
+  Free and Open Source Libraries
+ </a>
+ *
+ <a href="#free-libraries">
+  Free Libraries
+ </a>
+ *
+ <a href="#framework-specific-libraries">
+  Framework-Specific Libraries
+ </a>
+ *
+ <a href="#data-visualization-resources">
+  Data Visualization Resources
+ </a>
+</p>
 <h2>
- Table of Contents
-</h2>
-<ul>
- <li>
-  <a href="#commercial-libraries">
-   Commercial Libraries
-  </a>
- </li>
- <li>
-  <a href="#free-and-open-source-libraries">
-   Free and Open Source Libraries
-  </a>
- </li>
- <li>
-  <a href="#free-libraries">
-   Free Libraries
-  </a>
- </li>
- <li>
-  <a href="#framework-specific-libraries">
-   Framework-Specific Libraries
-  </a>
- </li>
- <li>
-  <a href="#data-visualization-resources">
-   Data Visualization Resources
-  </a>
- </li>
-</ul>
-<hr/>
-<h3>
  Commercial Libraries
-</h3>
+</h2>
 <ul>
  <li>
   <a href="https://www.amcharts.com/">
@@ -93,10 +87,9 @@
   - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
  </li>
 </ul>
-<hr/>
-<h3>
+<h2>
  Free and Open Source Libraries
-</h3>
+</h2>
 <ul>
  <li>
   <a href="http://c3js.org/">
@@ -122,7 +115,7 @@
   </a>
   - JavaScript charts with one line of Ruby.
   <sup>
-   &#9733 3592, pushed 4 days ago
+   &#9733 3592, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -147,7 +140,7 @@
   </a>
   - Interactive zoomable time series charts.
   <sup>
-   &#9733 1852, pushed 48 days ago
+   &#9733 1852, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -156,7 +149,7 @@
   </a>
   - A powerful charting and visualization library for browser.
   <sup>
-   &#9733 11526, pushed 2 days ago
+   &#9733 11526, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -165,7 +158,7 @@
   </a>
   - enterprise ready charting library.
   <sup>
-   &#9733 8, pushed 90 days ago
+   &#9733 8, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -174,7 +167,7 @@
   </a>
   - 3D graph viewer powered by WebGL (three.js)
   <sup>
-   &#9733 202, pushed 19 days ago
+   &#9733 202, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -189,7 +182,7 @@
   </a>
   - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
   <sup>
-   &#9733 4590, pushed 2 days ago
+   &#9733 4590, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -198,7 +191,7 @@
   </a>
   - Library with OOP style syntax to build charts.
   <sup>
-   &#9733 983, pushed 4 days ago
+   &#9733 983, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -213,7 +206,7 @@
   </a>
   - Graphs / Network diagram library built with canvas.
   <sup>
-   &#9733 6131, pushed 5 days ago
+   &#9733 6131, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -222,7 +215,7 @@
   </a>
   - JavaScript charts for realtime streaming data.
   <sup>
-   &#9733 1460, pushed 69 days ago
+   &#9733 1460, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -237,7 +230,7 @@
   </a>
   - JavaScript Charting library built using d3.js
   <sup>
-   &#9733 178, pushed 13 days ago
+   &#9733 178, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -247,10 +240,9 @@
   - Network diagrams, descriptive timelines with labels, and has 3D graphs.
  </li>
 </ul>
-<hr/>
-<h3>
+<h2>
  Free Libraries
-</h3>
+</h2>
 <ul>
  <li>
   <a href="https://developers.google.com/chart/">
@@ -259,13 +251,12 @@
   - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
  </li>
 </ul>
-<hr/>
-<h3>
+<h2>
  Framework-Specific Libraries
-</h3>
-<h4>
+</h2>
+<h3>
  Angular
-</h4>
+</h3>
 <ul>
  <li>
   <a href="http://jtblin.github.io/angular-chart.js">
@@ -279,13 +270,13 @@
   </a>
   - Easy to use library written with AngularJS, rendering charts with D3.
   <sup>
-   &#9733 1142, pushed 4 days ago
+   &#9733 1142, pushed 129 days ago
   </sup>
  </li>
 </ul>
-<h4>
+<h3>
  Ember
-</h4>
+</h3>
 <ul>
  <li>
   <a href="http://addepar.github.io/ember-charts/#/overview">
@@ -294,9 +285,9 @@
   - Five basic chart types ready to go in Ember.js projects.
  </li>
 </ul>
-<h4>
+<h3>
  jQuery
-</h4>
+</h3>
 <ul>
  <li>
   <a href="http://www.flotcharts.org/">
@@ -311,9 +302,9 @@
   - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
  </li>
 </ul>
-<h4>
+<h3>
  React
-</h4>
+</h3>
 <ul>
  <li>
   <a href="https://github.com/FormidableLabs/victory">
@@ -321,7 +312,7 @@
   </a>
   - A collection of composable React components for building interactive data visualizations
   <sup>
-   &#9733 1038, pushed 7 days ago
+   &#9733 1038, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -330,7 +321,7 @@
   </a>
   - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
   <sup>
-   &#9733 1111, pushed 25 days ago
+   &#9733 1111, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -346,10 +337,9 @@
   - Redefined chart library built with React and D3
  </li>
 </ul>
-<hr/>
-<h3>
+<h2>
  Data Visualization Resources
-</h3>
+</h2>
 <ul>
  <li>
   <a href="http://datavizcatalogue.com">

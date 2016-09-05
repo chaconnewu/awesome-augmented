@@ -48,8 +48,10 @@ The theory for continuous integration and continuous deliver
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
+* [Concourse](https://concourse.ci) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
-* [ElectricCommander](http://electric-cloud.com/products/electricflow/)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
+* [ElectricFlow](http://electric-cloud.com/products/electricflow/)  ElectricFlow/ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible  
 and developer-friendly build server out of the box  
 * [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
@@ -64,7 +66,9 @@ and developer-friendly build server out of the box
 * [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems  
 * [quickbuild](http://www.pmease.com/)  GitHub integration. Perforce shelve support. Coverity report rendering. Subversion external change retrieval. Resource access info. Display reasons for waiting steps. Custom build and request columns. Favorite dash board list. Inheritable environment variables.And much more...  
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
-* [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
+* [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
+* [pulse](http://zutubi.com) no free version.  
+* [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
 Online build release system  
@@ -80,7 +84,6 @@ Online build release system
 * [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows  
 * [snap-ci](https://snap-ci.com) Easy builds, deployed when you want   
 * [codeship](https://codeship.com)  Continuous Integration and Delivery made simple  
-* [solanolabs](https://www.solanolabs.com)  Hosted continuous integration and deployment  
 * [githost](https://githost.io)  Painless GitLab CE & CI Hosting  
 * [testling](https://ci.testling.com) Automatic browser tests on every push  
 * [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
@@ -89,6 +92,7 @@ Online build release system
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories. 
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
+* [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.  
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
@@ -129,6 +133,7 @@ Code review tools
 * [getbarkeep](http://getbarkeep.org) a fast, fun way to review code  
 * [gerrit](https://code.google.com/p/gerrit/) Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system  
 * [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.  
+* [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
 
 ## Build
 Build tools  
@@ -142,6 +147,7 @@ Build tools
 * [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
 * [gradle](http://gradle.org/)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
+* [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
 
 ## Static Check
 Software static check tools  
@@ -156,6 +162,7 @@ Software static check tools
 ## Dynamic Check
 Software dynamic check tools  
 * [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page  
+* [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail  
 
 ## Performance Analysis
 Software performance analysis tools  
@@ -173,6 +180,7 @@ Software testing framework and tools
 * [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions   
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
+* [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 
 ## Package
 The tools for software package and installation  
@@ -254,12 +262,11 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)  
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact
-To add new items about continuous integration and continuous delivery:  
-1) pull;  
-2) add issue;  
-3) send me by email itech001@126.com;  
-4) qq group 172758282;  
+Welcome To add new items about continuous integration and continuous delivery.  
+my email is: itech001@126.com.  
+  
 
 

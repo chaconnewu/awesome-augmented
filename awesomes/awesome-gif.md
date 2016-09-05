@@ -212,15 +212,33 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/jclem/gifify">
+  <a href="https://github.com/lukechilds/gifgen">
+   Gifgen
+  </a>
+  -
+  <em>
+   Simple high quality GIF encoding
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/vvo/gifify">
    Gifify
+  </a>
+  -
+  <em>
+   Convert any video file to an optimized animated GIF
+  </em>
+ </li>
+ <li>
+  <a href="https://github.com/jclem/gifify">
+   Gifify (not the same)
   </a>
   -
   <em>
    convert screen recording into GIF
   </em>
   <sup>
-   &#9733 623, pushed 13 days ago
+   &#9733 623, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +250,7 @@
    lossy gif compressor
   </em>
   <sup>
-   &#9733 271, pushed 28 days ago
+   &#9733 271, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -248,7 +266,7 @@
    demo
   </a>
   <sup>
-   &#9733 1347, pushed 147 days ago
+   &#9733 1347, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -264,7 +282,7 @@
    demo
   </a>
   <sup>
-   &#9733 2464, pushed 92 days ago
+   &#9733 2464, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +294,7 @@
    Real Time communication library using Animated Gifs as a transport
   </em>
   <sup>
-   &#9733 1515, pushed 1322 days ago
+   &#9733 1515, pushed 1447 days ago
   </sup>
  </li>
  <li>
@@ -288,7 +306,7 @@
    a web component for flexible GIF playback
   </em>
   <sup>
-   &#9733 1804, pushed 188 days ago
+   &#9733 1804, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -300,7 +318,7 @@
    generate animated GIFs
   </em>
   <sup>
-   &#9733 323, pushed 795 days ago
+   &#9733 323, pushed 919 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +330,7 @@
    javascript web recorder
   </em>
   <sup>
-   &#9733 620, pushed 468 days ago
+   &#9733 620, pushed 592 days ago
   </sup>
  </li>
  <li>
@@ -324,7 +342,7 @@
    gif creation from Youtube videos
   </em>
   <sup>
-   &#9733 52, pushed 515 days ago
+   &#9733 52, pushed 640 days ago
   </sup>
  </li>
  <li>
@@ -336,7 +354,7 @@
    Live video streaming server
   </em>
   <sup>
-   &#9733 106, pushed 883 days ago
+   &#9733 106, pushed 1007 days ago
   </sup>
  </li>
  <li>
@@ -348,7 +366,7 @@
    Create animated gif screencasts
   </em>
   <sup>
-   &#9733 623, pushed 1 days ago
+   &#9733 623, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -360,7 +378,7 @@
    Serves screen updates as animated gif over http
   </em>
   <sup>
-   &#9733 512, pushed 882 days ago
+   &#9733 512, pushed 1007 days ago
   </sup>
  </li>
  <li>
@@ -372,7 +390,7 @@
    Convert your SlideShares into animated GIFs
   </em>
   <sup>
-   &#9733 90, pushed 326 days ago
+   &#9733 90, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -384,7 +402,7 @@
    GIF search for Slack
   </em>
   <sup>
-   &#9733 39, pushed 879 days ago
+   &#9733 39, pushed 1004 days ago
   </sup>
  </li>
  <li>
@@ -396,7 +414,7 @@
    create animated GIFs using webcam
   </em>
   <sup>
-   &#9733 18, pushed 1033 days ago
+   &#9733 18, pushed 1157 days ago
   </sup>
  </li>
  <li>
@@ -408,7 +426,7 @@
    Chrome extension to put GIFs in your emails
   </em>
   <sup>
-   &#9733 48, pushed 350 days ago
+   &#9733 48, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -420,7 +438,7 @@
    Create a repository for your collection of gif images
   </em>
   <sup>
-   &#9733 33, pushed 98 days ago
+   &#9733 33, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -432,7 +450,7 @@
    NodeGH plugin for commenting on pull requests/issues using GIF reactions
   </em>
   <sup>
-   &#9733 20, pushed 249 days ago
+   &#9733 20, pushed 373 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +462,7 @@
    record scripts and their outputs into both binary and gif formats
   </em>
   <sup>
-   &#9733 115, pushed 369 days ago
+   &#9733 115, pushed 493 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +474,7 @@
    Sync your favourite gifs with Dropbox
   </em>
   <sup>
-   &#9733 37, pushed 1016 days ago
+   &#9733 37, pushed 1141 days ago
   </sup>
  </li>
  <li>
@@ -468,7 +486,7 @@
    Chrome extension to make a GIF from a YouTube video
   </em>
   <sup>
-   &#9733 74, pushed 100 days ago
+   &#9733 74, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +498,7 @@
    Capture animations created with HTML5 canvas
   </em>
   <sup>
-   &#9733 446, pushed 14 days ago
+   &#9733 446, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -500,7 +518,7 @@
    AS3 library for playing Animated GIFs in Flash
   </em>
   <sup>
-   &#9733 49, pushed 245 days ago
+   &#9733 49, pushed 370 days ago
   </sup>
  </li>
 </ul>
@@ -517,7 +535,7 @@
    C++ library to make Gif
   </em>
   <sup>
-   &#9733 132, pushed 286 days ago
+   &#9733 132, pushed 411 days ago
   </sup>
  </li>
  <li>
@@ -529,7 +547,7 @@
    C++ one-header library for the creation of animated GIFs
   </em>
   <sup>
-   &#9733 75, pushed 754 days ago
+   &#9733 75, pushed 879 days ago
   </sup>
  </li>
  <li>
@@ -541,7 +559,7 @@
    C++ openframeworks addon to export animated gifs
   </em>
   <sup>
-   &#9733 82, pushed 253 days ago
+   &#9733 82, pushed 378 days ago
   </sup>
  </li>
 </ul>
@@ -549,6 +567,15 @@
  C#
 </h3>
 <ul>
+ <li>
+  <a href="https://github.com/Speisaa/dot-screencap">
+   dot-screencap
+  </a>
+  -
+  <em>
+   A simple libary to record your screen and save it as animated gif
+  </em>
+ </li>
  <li>
   <a href="https://github.com/thomaslevesque/WpfAnimatedGif">
    WpfAnimatedGif
@@ -558,7 +585,7 @@
    A simple library to display animated GIF images in WPF
   </em>
   <sup>
-   &#9733 16, pushed 83 days ago
+   &#9733 16, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -570,7 +597,7 @@
    A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)
   </em>
   <sup>
-   &#9733 9, pushed 14 days ago
+   &#9733 9, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -587,7 +614,7 @@
    Haxe gif encoder
   </em>
   <sup>
-   &#9733 21, pushed 186 days ago
+   &#9733 21, pushed 311 days ago
   </sup>
  </li>
 </ul>
@@ -604,7 +631,7 @@
    Views and Drawable for displaying animated GIFs on Android
   </em>
   <sup>
-   &#9733 2647, pushed 5 days ago
+   &#9733 2647, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +643,7 @@
    Use an animated GIF as an Android Drawable
   </em>
   <sup>
-   &#9733 201, pushed 720 days ago
+   &#9733 201, pushed 844 days ago
   </sup>
  </li>
  <li>
@@ -628,7 +655,7 @@
    android library to deal with Gif
   </em>
   <sup>
-   &#9733 77, pushed 1045 days ago
+   &#9733 77, pushed 1170 days ago
   </sup>
  </li>
  <li>
@@ -640,7 +667,7 @@
    Android View widget for displaying GIF animations
   </em>
   <sup>
-   &#9733 380, pushed 9 days ago
+   &#9733 380, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -652,7 +679,7 @@
    Android ImageView that handles animated GIF images
   </em>
   <sup>
-   &#9733 566, pushed 41 days ago
+   &#9733 566, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -664,7 +691,7 @@
    Processing library to play and export GIF
   </em>
   <sup>
-   &#9733 73, pushed 104 days ago
+   &#9733 73, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -676,7 +703,7 @@
    animated GIF encoder for Android
   </em>
   <sup>
-   &#9733 121, pushed 1483 days ago
+   &#9733 121, pushed 1607 days ago
   </sup>
  </li>
  <li>
@@ -688,7 +715,7 @@
    Android video to GIF converter
   </em>
   <sup>
-   &#9733 57, pushed 271 days ago
+   &#9733 57, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -700,7 +727,7 @@
    create and share animated gifs
   </em>
   <sup>
-   &#9733 36, pushed 1528 days ago
+   &#9733 36, pushed 1652 days ago
   </sup>
  </li>
 </ul>
@@ -717,7 +744,7 @@
    create GIF from the DOM
   </em>
   <sup>
-   &#9733 1873, pushed 186 days ago
+   &#9733 1873, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -729,7 +756,7 @@
    GIF 89a encoder and decoder
   </em>
   <sup>
-   &#9733 327, pushed 65 days ago
+   &#9733 327, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -741,7 +768,7 @@
    Javascript library for creating animated GIFs
   </em>
   <sup>
-   &#9733 117, pushed 247 days ago
+   &#9733 117, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -752,7 +779,7 @@
    JavaScript library that prevents the autoplaying of the animated Gifs
   </em>
   <sup>
-   &#9733 446, pushed 104 days ago
+   &#9733 446, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -764,7 +791,7 @@
    jquery plugin to play and stop animated gifs
   </em>
   <sup>
-   &#9733 191, pushed 19 days ago
+   &#9733 191, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -776,7 +803,7 @@
    JavaScript GIF parser and player
   </em>
   <sup>
-   &#9733 312, pushed 1676 days ago
+   &#9733 312, pushed 1800 days ago
   </sup>
  </li>
  <li>
@@ -788,7 +815,7 @@
    Javascript convert videos to gifs using ffmpeg and gifsicle
   </em>
   <sup>
-   &#9733 181, pushed 669 days ago
+   &#9733 181, pushed 793 days ago
   </sup>
  </li>
  <li>
@@ -800,7 +827,7 @@
    Server side animated gif generation for node.js
   </em>
   <sup>
-   &#9733 95, pushed 293 days ago
+   &#9733 95, pushed 418 days ago
   </sup>
  </li>
  <li>
@@ -812,7 +839,7 @@
    Javascript Convert a GIF image into an HTML5-ready video
   </em>
   <sup>
-   &#9733 51, pushed 715 days ago
+   &#9733 51, pushed 840 days ago
   </sup>
  </li>
  <li>
@@ -824,7 +851,7 @@
    On-demand GIF loader/player in Javascript
   </em>
   <sup>
-   &#9733 55, pushed 684 days ago
+   &#9733 55, pushed 809 days ago
   </sup>
  </li>
  <li>
@@ -836,8 +863,17 @@
    Facial-emotion detectors
   </em>
   <sup>
-   &#9733 4, pushed 454 days ago
+   &#9733 4, pushed 579 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/javascipt/node-youtube">
+   node-youtube
+  </a>
+  -
+  <em>
+   Youtube to snapshots and GIFs.
+  </em>
  </li>
 </ul>
 <h3>
@@ -853,7 +889,7 @@
    PHP class that creates animated GIF from multiple images
   </em>
   <sup>
-   &#9733 168, pushed 970 days ago
+   &#9733 168, pushed 1095 days ago
   </sup>
  </li>
  <li>
@@ -865,7 +901,7 @@
    PHP script offering spacer.gif 1x1
   </em>
   <sup>
-   &#9733 14, pushed 70 days ago
+   &#9733 14, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -877,7 +913,7 @@
    PHP class that separates all the frames of an animated GIF
   </em>
   <sup>
-   &#9733 68, pushed 335 days ago
+   &#9733 68, pushed 460 days ago
   </sup>
  </li>
 </ul>
@@ -894,7 +930,7 @@
    decodes an UIImage from Animated GIFs image data
   </em>
   <sup>
-   &#9733 919, pushed 27 days ago
+   &#9733 919, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -906,7 +942,7 @@
    UIImage category that loads animated GIFs
   </em>
   <sup>
-   &#9733 682, pushed 133 days ago
+   &#9733 682, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -918,7 +954,7 @@
    "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
   </em>
   <sup>
-   &#9733 294, pushed 562 days ago
+   &#9733 294, pushed 686 days ago
   </sup>
  </li>
  <li>
@@ -930,7 +966,7 @@
    UIImageView category/subclass for playing GIF
   </em>
   <sup>
-   &#9733 339, pushed 294 days ago
+   &#9733 339, pushed 419 days ago
   </sup>
  </li>
  <li>
@@ -942,7 +978,7 @@
    Gif engine for iOS by FlipBoard
   </em>
   <sup>
-   &#9733 4102, pushed 5 days ago
+   &#9733 4102, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -954,7 +990,7 @@
    Support for Animated GIF on iOS
   </em>
   <sup>
-   &#9733 133, pushed 431 days ago
+   &#9733 133, pushed 556 days ago
   </sup>
  </li>
  <li>
@@ -966,7 +1002,7 @@
    PullToRefresh using animated GIF to any scrollView
   </em>
   <sup>
-   &#9733 1289, pushed 6 days ago
+   &#9733 1289, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -978,7 +1014,7 @@
    Animated GIF library for iPhone
   </em>
   <sup>
-   &#9733 103, pushed 638 days ago
+   &#9733 103, pushed 763 days ago
   </sup>
  </li>
  <li>
@@ -990,7 +1026,7 @@
    iOS load and display Gif
   </em>
   <sup>
-   &#9733 73, pushed 728 days ago
+   &#9733 73, pushed 853 days ago
   </sup>
  </li>
  <li>
@@ -1002,7 +1038,7 @@
    iOS progress hud for displaying only animated gif images
   </em>
   <sup>
-   &#9733 131, pushed 480 days ago
+   &#9733 131, pushed 605 days ago
   </sup>
  </li>
  <li>
@@ -1014,7 +1050,7 @@
    iOS Video Background GIF
   </em>
   <sup>
-   &#9733 123, pushed 210 days ago
+   &#9733 123, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -1026,7 +1062,7 @@
    iOS animated and transparent gifs
   </em>
   <sup>
-   &#9733 41, pushed 2175 days ago
+   &#9733 41, pushed 2300 days ago
   </sup>
  </li>
  <li>
@@ -1038,7 +1074,7 @@
    iOS OLImage and OLImageView support for animated GIFs
   </em>
   <sup>
-   &#9733 772, pushed 194 days ago
+   &#9733 772, pushed 319 days ago
   </sup>
  </li>
 </ul>
@@ -1055,7 +1091,7 @@
    animated GIF support for iOS in Swift
   </em>
   <sup>
-   &#9733 1251, pushed 2 days ago
+   &#9733 1251, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1067,7 +1103,7 @@
    UIImage extension with gif support
   </em>
   <sup>
-   &#9733 331, pushed 19 days ago
+   &#9733 331, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -1098,7 +1134,7 @@
    Mac App for finding GIFs
   </em>
   <sup>
-   &#9733 534, pushed 194 days ago
+   &#9733 534, pushed 319 days ago
   </sup>
  </li>
  <li>
@@ -1110,7 +1146,7 @@
    Mac app to turn Vine videos into gifs
   </em>
   <sup>
-   &#9733 87, pushed 1185 days ago
+   &#9733 87, pushed 1310 days ago
   </sup>
  </li>
  <li>
@@ -1122,7 +1158,7 @@
    Gif encoder for Mac
   </em>
   <sup>
-   &#9733 34, pushed 1626 days ago
+   &#9733 34, pushed 1750 days ago
   </sup>
  </li>
 </ul>
@@ -1233,7 +1269,7 @@
    Python script to generate gifs from star wars
   </em>
   <sup>
-   &#9733 457, pushed 29 days ago
+   &#9733 457, pushed 154 days ago
   </sup>
  </li>
 </ul>

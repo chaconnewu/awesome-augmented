@@ -4,6 +4,17 @@
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
 </h1>
+<p>
+ <a href="http://ipn.io">
+  <img alt="" src="https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square"/>
+ </a>
+ <a href="http://ipfs.io/">
+  <img alt="" src="https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square"/>
+ </a>
+ <a href="http://webchat.freenode.net/?channels=%23ipfs">
+  <img alt="" src="https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square"/>
+ </a>
+</p>
 <blockquote>
  <p>
   Useful resources for using
@@ -70,6 +81,16 @@ place to ask about it might be in
    Discussions
   </a>
  </li>
+ <li>
+  <a href="#contribute">
+   Contribute
+  </a>
+ </li>
+ <li>
+  <a href="#license">
+   License
+  </a>
+ </li>
 </ul>
 <h2>
  Use Cases
@@ -84,11 +105,11 @@ place to ask about it might be in
   </a>
   - Beets has a plugin which allows for easy sharing of music libraries using IPFS
   <sup>
-   &#9733 4666, pushed 2 days ago
+   &#9733 4666, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="http://ipfs.ydns.eu/ipns/boards.ydns.eu/">
+  <a href="http://boards.tech/">
    Boards
   </a>
   - Distributed social platform that runs in the browser.
@@ -102,7 +123,7 @@ place to ask about it might be in
   </a>
   - A golang app to preset a threejs interface and get all of its assets out of IPFS.
   <sup>
-   &#9733 8, pushed 358 days ago
+   &#9733 8, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -111,7 +132,7 @@ place to ask about it might be in
   </a>
   - A script to rehost your git repos in ipfs.
   <sup>
-   &#9733 44, pushed 90 days ago
+   &#9733 44, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -120,7 +141,7 @@ place to ask about it might be in
   </a>
   - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
   <sup>
-   &#9733 90, pushed 6 days ago
+   &#9733 90, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -129,7 +150,7 @@ place to ask about it might be in
   </a>
   - Wiki built on top of IPFS
   <sup>
-   &#9733 25, pushed 192 days ago
+   &#9733 25, pushed 317 days ago
   </sup>
  </li>
  <li>
@@ -138,7 +159,7 @@ place to ask about it might be in
   </a>
   - An app that allows for improved visualization of ipfs events.
   <sup>
-   &#9733 4, pushed 441 days ago
+   &#9733 4, pushed 566 days ago
   </sup>
  </li>
  <li>
@@ -147,7 +168,7 @@ place to ask about it might be in
   </a>
   - Pastebin/Image host/File sharing application
   <sup>
-   &#9733 9, pushed 433 days ago
+   &#9733 9, pushed 558 days ago
   </sup>
  </li>
  <li>
@@ -156,7 +177,7 @@ place to ask about it might be in
   </a>
   -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
   <sup>
-   &#9733 2, pushed 217 days ago
+   &#9733 2, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -164,7 +185,7 @@ place to ask about it might be in
    ipfs.pics
   </a>
   - Upload and share pics.
-  <a href="https://github.com/ipfspics/server">
+  <a href="https://github.com/ipfspics/ipfspics-server">
    GitHub
   </a>
  </li>
@@ -186,7 +207,7 @@ place to ask about it might be in
    Example
   </a>
   <sup>
-   &#9733 7, pushed 179 days ago
+   &#9733 7, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -195,7 +216,7 @@ place to ask about it might be in
   </a>
   - Distributed, peer-to-peer chat application on IPFS.
   <sup>
-   &#9733 103, pushed 6 days ago
+   &#9733 103, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -248,6 +269,15 @@ place to ask about it might be in
   </a>
   - IPFS based code bin. (Read only for now)
  </li>
+ <li>
+  <a href="https://github.com/keorn/ipfs-gorilla-repl">
+   Gorilla REPL viewer
+  </a>
+  -
+  <a href="https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j">
+   example
+  </a>
+ </li>
 </ul>
 <h2>
  Tools
@@ -259,7 +289,7 @@ place to ask about it might be in
   </a>
   - Donate ipfs gateways to cache other people's content
   <sup>
-   &#9733 8, pushed 231 days ago
+   &#9733 8, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -268,7 +298,7 @@ place to ask about it might be in
   </a>
   - push/pull repositories from/to IPFS
   <sup>
-   &#9733 63, pushed 179 days ago
+   &#9733 63, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -277,7 +307,7 @@ place to ask about it might be in
   </a>
   - This is a simple webtool to add URLs to an IPFS node.
   <sup>
-   &#9733 10, pushed 162 days ago
+   &#9733 10, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -286,7 +316,7 @@ place to ask about it might be in
   </a>
   - :cat2: Retrieve IPFS object data and send it to stdout.
   <sup>
-   &#9733 1, pushed 178 days ago
+   &#9733 1, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -295,7 +325,7 @@ place to ask about it might be in
   </a>
   - Chrome extension to redirect ipfs.io traffic to local gateway
   <sup>
-   &#9733 39, pushed 15 days ago
+   &#9733 39, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +334,7 @@ place to ask about it might be in
   </a>
   - Firefox addon to provide access to IPFS via local gateway
   <sup>
-   &#9733 45, pushed 4 days ago
+   &#9733 45, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -313,7 +343,7 @@ place to ask about it might be in
   </a>
   - IPFS Linux Init Daemon
   <sup>
-   &#9733 19, pushed 378 days ago
+   &#9733 19, pushed 503 days ago
   </sup>
  </li>
  <li>
@@ -322,7 +352,7 @@ place to ask about it might be in
   </a>
   - Paste stdin and clipboard to IPFS
   <sup>
-   &#9733 13, pushed 167 days ago
+   &#9733 13, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -331,7 +361,7 @@ place to ask about it might be in
   </a>
   - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
   <sup>
-   &#9733 17, pushed 272 days ago
+   &#9733 17, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -340,7 +370,7 @@ place to ask about it might be in
   </a>
   - Scrape a webpage with all assets and put it in IPFS
   <sup>
-   &#9733 54, pushed 74 days ago
+   &#9733 54, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -349,7 +379,7 @@ place to ask about it might be in
   </a>
   - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
   <sup>
-   &#9733 30, pushed 12 days ago
+   &#9733 30, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -358,7 +388,7 @@ place to ask about it might be in
   </a>
   - Tool for hosting web apps and static websites in IPFS
   <sup>
-   &#9733 72, pushed 2 days ago
+   &#9733 72, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -367,7 +397,7 @@ place to ask about it might be in
   </a>
   - Pin content via IRC
   <sup>
-   &#9733 12, pushed 69 days ago
+   &#9733 12, pushed 194 days ago
   </sup>
  </li>
 </ul>
@@ -398,6 +428,12 @@ place to ask about it might be in
  Press
 </h3>
 <ul>
+ <li>
+  2016-05-20:
+  <a href="https://changelog.com/204">
+   Changelog Podcast
+  </a>
+ </li>
  <li>
   2015-09-10:
   <a href="https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/">
@@ -454,6 +490,24 @@ place to ask about it might be in
   </a>
  </li>
 </ul>
+<h2>
+ Contribute
+</h2>
+<p>
+ Please add (or remove) stuff from this list if you see anything awesome!
+ <a href="https://github.com/ipfs/awesome-ipfs/issues">
+  Open an issue
+ </a>
+ or a PR.
+</p>
+<h3>
+ Want to hack on IPFS?
+</h3>
+<p>
+ <a href="https://github.com/ipfs/community/blob/master/contributing.md">
+  <img alt="" src="https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif"/>
+ </a>
+</p>
 <h2>
  License
 </h2>

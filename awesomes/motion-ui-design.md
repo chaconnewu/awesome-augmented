@@ -10,7 +10,7 @@ Feel free to
  <a href="contributing.md">
   add something interesting
  </a>
- by pull request!
+ (todo inside) by pull request!
 </p>
 <h2>
  Table of Contents
@@ -35,6 +35,11 @@ Feel free to
     </a>
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="#articles">
+   Articles
+  </a>
  </li>
  <li>
   Software
@@ -202,7 +207,13 @@ Feel free to
   <a href="http://app-ealing.com/">
    appealing.
   </a>
-  – a collection of mobile transitions and animations.
+  – a collection of mobile transitions and animations;
+ </li>
+ <li>
+  <a href="https://uiinteractions.com/">
+   UI Interactions
+  </a>
+  – UI interactions for your inspiration, every day.
  </li>
 </ul>
 <h3>
@@ -267,6 +278,17 @@ Feel free to
    Misha Kvakin
   </a>
   – Cinema4D and UI experiments.
+ </li>
+</ul>
+<h2>
+ Articles
+</h2>
+<ul>
+ <li>
+  <a href="http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/">
+   How fast should your UI animations be?
+  </a>
+  by @valhead.
  </li>
 </ul>
 <h2>
@@ -338,7 +360,7 @@ camera: video);
  </a>
  – converter from AE to SVG/canvas;
  <sup>
-  &#9733 708, pushed 10 days ago
+  &#9733 708, pushed 134 days ago
  </sup>
 </li>
 <li>
@@ -601,7 +623,31 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="http://www.joelambert.co.uk/morf/">
    Morf
   </a>
-  – transitions with custom easing functions.
+  – transitions with custom easing functions;
+ </li>
+ <li>
+  <a href="http://pavlyukpetr.com/awesome/">
+   Awesome CSS3 animations
+  </a>
+  – a library of animations;
+ </li>
+ <li>
+  <a href="http://all-animation.github.io/">
+   All Animation
+  </a>
+  – a set of fun animations to make your project sexier;
+ </li>
+ <li>
+  <a href="http://cssanimate.com/">
+   CSS Animate
+  </a>
+  – tool for easy and fast creating CSS3 keyframes animation;
+ </li>
+ <li>
+  <a href="http://jeremyckahn.github.io/mantra/">
+   Mantra
+  </a>
+  – tool for creating keyframes animation.
  </li>
 </ul>
 <h3>
@@ -656,7 +702,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   </a>
   – prototyping tool for designing UI, interaction and animation;
   <sup>
-   &#9733 3875, pushed 2 days ago
+   &#9733 3875, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -671,7 +717,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   </a>
   – motion graphics toolbelt for the web;
   <sup>
-   &#9733 6944, pushed 1 days ago
+   &#9733 6944, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -686,17 +732,23 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   </a>
   – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
   <sup>
-   &#9733 2006, pushed 60 days ago
+   &#9733 2006, pushed 185 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/iamralpht/gravitas.js">
    Gravitas.js
   </a>
-  - Super fast physics simulations for JavaScript.
+  - super fast physics simulations for JavaScript;
   <sup>
-   &#9733 105, pushed 339 days ago
+   &#9733 105, pushed 463 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://popmotion.io/guides/basics/get-started/">
+   Popmotion
+  </a>
+  – js motion engine that makes creating engaging user interactions quick and simple;
  </li>
 </ul>
 <h3>
@@ -732,7 +784,13 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   <a href="http://connoratherton.com/walkway">
    Walkway.js
   </a>
-  – an easy way to animate SVG images consisting of line, path, and polyline elements.
+  – an easy way to animate SVG images consisting of line, path, and polyline elements;
+ </li>
+ <li>
+  <a href="http://www.transformicons.com/">
+   Transformicons
+  </a>
+  – animated icons, symbols and buttons using SVG and CSS.
  </li>
 </ul>
 <h2>
@@ -825,6 +883,18 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
  <li>
   <a href="https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA">
    Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan)
+  </a>
+  (:movie_camera: video);
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=bM4qJpg7KhI">
+   Animating the User Experience (Rachel Nabors)
+  </a>
+  (:movie_camera: video);
+ </li>
+ <li>
+  <a href="https://vimeo.com/165995133">
+   Designing meaningful animation (Val Head)
   </a>
   (:movie_camera: video);
  </li>
@@ -1016,6 +1086,9 @@ camera: video)
 </p>
 <p>
  <strong>
-  Collected with :heart: by Artur Kornakov
+  Collected with :heart: by Artur Kornakov and
+  <a href="https://github.com/fliptheweb/motion-ui-design/graphs/contributors">
+   these awesome guys
+  </a>
  </strong>
 </p>

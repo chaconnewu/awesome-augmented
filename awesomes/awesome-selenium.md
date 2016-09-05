@@ -90,7 +90,7 @@
   </a>
   - WebDriver/Selenium 2 node.js client.
   <sup>
-   &#9733 965, pushed 53 days ago
+   &#9733 965, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -135,7 +135,7 @@
   </a>
   - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
   <sup>
-   &#9733 81, pushed 628 days ago
+   &#9733 81, pushed 752 days ago
   </sup>
  </li>
  <li>
@@ -161,7 +161,7 @@
   </a>
   - Anemone web-spider framework.
   <sup>
-   &#9733 1487, pushed 106 days ago
+   &#9733 1487, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -176,7 +176,7 @@
   </a>
   - web spidering library that can spider a site, multiple domains, certain links or infinitely.
   <sup>
-   &#9733 388, pushed 121 days ago
+   &#9733 388, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -196,7 +196,7 @@
   </a>
   - A PHP client for webdriver.
   <sup>
-   &#9733 1145, pushed 17 days ago
+   &#9733 1145, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +205,7 @@
   </a>
   - A tool for PHP developers to start their own Selenium server.
   <sup>
-   &#9733 15, pushed 60 days ago
+   &#9733 15, pushed 184 days ago
   </sup>
  </li>
 </ul>
@@ -236,7 +236,7 @@
   </a>
   - Page object framework for structured, maintainable automation.
   <sup>
-   &#9733 10, pushed 35 days ago
+   &#9733 10, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -256,7 +256,7 @@
   </a>
   - Visual/CSS regression testing with PhantomJS.
   <sup>
-   &#9733 3664, pushed 6 days ago
+   &#9733 3664, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -269,7 +269,7 @@
   </a>
   .
   <sup>
-   &#9733 324, pushed 14 days ago
+   &#9733 324, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -331,7 +331,7 @@
   </a>
   - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
   <sup>
-   &#9733 51, pushed 174 days ago
+   &#9733 51, pushed 298 days ago
   </sup>
  </li>
 </ul>
@@ -345,7 +345,7 @@
   </a>
   - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
   <sup>
-   &#9733 95, pushed 84 days ago
+   &#9733 95, pushed 209 days ago
   </sup>
  </li>
 </ul>
@@ -412,7 +412,7 @@
   </strong>
   Web Crawler/Spider for NodeJS + server-side jQuery.
   <sup>
-   &#9733 1733, pushed 93 days ago
+   &#9733 1733, pushed 217 days ago
   </sup>
  </li>
 </ul>

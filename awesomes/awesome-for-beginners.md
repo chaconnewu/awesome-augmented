@@ -315,6 +315,61 @@
    A bundler for javascript and friends.
   </br>
  </li>
+ <li>
+  <a href="https://github.com/tessel/t2-cli/labels/contribution-starter">
+   Tessel 2 CLI
+  </a>
+  <em>
+   (label: contribution-starter)
+  </em>
+  <br>
+   Command line interface to Tessel 2.
+  </br>
+ </li>
+ <li>
+  <a href="https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors">
+   Ember.js
+  </a>
+  <em>
+   (label: Good for New Contributors)
+  </em>
+  <br>
+   A JavaScript framework for creating ambitious web applications.
+  </br>
+ </li>
+ <li>
+  <a href="https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors">
+   Ember.js Data
+  </a>
+  <em>
+   (label: Good for New Contributors)
+  </em>
+  <br>
+   A data persistence library for Ember.js.
+  </br>
+ </li>
+ <li>
+  <a href="https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only">
+   FreeCodeCamp
+  </a>
+  <em>
+   (label: first-timers-only)
+  </em>
+  <br>
+   Open source codebase and curriculum. Learn to code and help nonprofits.
+  </br>
+ </li>
+ <li>
+  <a href="https://github.com/TryGhost/Ghost/labels/beginner">
+   Ghost
+  </a>
+  <em>
+   (label: beginner)
+  </em>
+  <br>
+   Just a blogging platform
+  </br>
+ </li>
 </ul>
 <h2>
  PHP
@@ -451,6 +506,17 @@
    Classy web-development dressed in a DSL.
   </br>
  </li>
+ <li>
+  <a href="https://github.com/nskins/goby">
+   Goby
+  </a>
+  <em>
+   (label: beginner)
+  </em>
+  <br>
+   Framework for developing text-RPGs.
+  </br>
+ </li>
 </ul>
 <h2>
  Rust
@@ -498,6 +564,22 @@
   </em>
   <br>
    An extensible, concurrent web framework for Rust
+  </br>
+ </li>
+</ul>
+<h2>
+ Scala
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/twitter/util/labels/Starter">
+   Twitter Util
+  </a>
+  <em>
+   (label: Starter)
+  </em>
+  <br>
+   Wonderful reusable code from Twitter
   </br>
  </li>
 </ul>

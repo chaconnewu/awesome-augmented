@@ -384,7 +384,7 @@
   </a>
   or later.
   <sup>
-   &#9733 181, pushed 6 days ago
+   &#9733 181, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -466,7 +466,7 @@
   </a>
   .
   <sup>
-   &#9733 2814, pushed 3 days ago
+   &#9733 2814, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -475,7 +475,7 @@
   </a>
   - A fairly comprehensive, modular and portable cryptographic toolkit. Public domain.
   <sup>
-   &#9733 352, pushed 19 days ago
+   &#9733 352, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +516,7 @@
   </a>
   .
   <sup>
-   &#9733 1907, pushed 13 days ago
+   &#9733 1907, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -553,7 +553,7 @@
   </a>
   .
   <sup>
-   &#9733 224, pushed 5 days ago
+   &#9733 224, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -596,7 +596,7 @@
   </a>
   .
   <sup>
-   &#9733 1265, pushed 5 days ago
+   &#9733 1265, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -809,7 +809,7 @@
   </a>
   .
   <sup>
-   &#9733 508, pushed 17 days ago
+   &#9733 508, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -868,7 +868,7 @@
   </a>
   only.
   <sup>
-   &#9733 26, pushed 876 days ago
+   &#9733 26, pushed 1001 days ago
   </sup>
  </li>
  <li>
@@ -909,7 +909,7 @@
   </a>
   ).
   <sup>
-   &#9733 181, pushed 138 days ago
+   &#9733 181, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -918,7 +918,7 @@
   </a>
   - A range of single-file libraries for C. Public domain.
   <sup>
-   &#9733 3498, pushed 5 days ago
+   &#9733 3498, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -942,7 +942,7 @@
   </a>
   .
   <sup>
-   &#9733 436, pushed 3 days ago
+   &#9733 436, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -965,7 +965,7 @@
   </a>
   only.
   <sup>
-   &#9733 509, pushed 17 days ago
+   &#9733 509, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -988,7 +988,7 @@
   </a>
   only.
   <sup>
-   &#9733 1167, pushed 1554 days ago
+   &#9733 1167, pushed 1678 days ago
   </sup>
  </li>
  <li>
@@ -1001,7 +1001,7 @@
   </a>
   only.
   <sup>
-   &#9733 601, pushed 1554 days ago
+   &#9733 601, pushed 1679 days ago
   </sup>
  </li>
  <li>
@@ -1014,7 +1014,7 @@
   </a>
   or later.
   <sup>
-   &#9733 49, pushed 7 days ago
+   &#9733 49, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -1045,7 +1045,7 @@
   </a>
   .
   <sup>
-   &#9733 807, pushed 35 days ago
+   &#9733 807, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -1072,7 +1072,7 @@
   </a>
   .
   <sup>
-   &#9733 118, pushed 72 days ago
+   &#9733 118, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1095,7 +1095,7 @@
   </a>
   or later.
   <sup>
-   &#9733 3, pushed 1045 days ago
+   &#9733 3, pushed 1170 days ago
   </sup>
  </li>
  <li>
@@ -1112,7 +1112,7 @@
   </a>
   only.
   <sup>
-   &#9733 1082, pushed 2 days ago
+   &#9733 1082, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1149,7 +1149,7 @@
   </a>
   .
   <sup>
-   &#9733 1364, pushed 72 days ago
+   &#9733 1364, pushed 197 days ago
   </sup>
  </li>
 </ul>
@@ -1209,7 +1209,7 @@
   </a>
   .
   <sup>
-   &#9733 259, pushed 161 days ago
+   &#9733 259, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -1222,7 +1222,7 @@
   </a>
   .
   <sup>
-   &#9733 51, pushed 36 days ago
+   &#9733 51, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1275,7 @@
   </a>
   .
   <sup>
-   &#9733 1949, pushed 37 days ago
+   &#9733 1949, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -1777,7 +1777,7 @@
    MPL2.0
   </a>
   <sup>
-   &#9733 466, pushed 4 days ago
+   &#9733 466, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1820,7 +1820,7 @@
   </a>
   .
   <sup>
-   &#9733 3650, pushed 152 days ago
+   &#9733 3650, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -1833,7 +1833,7 @@
   </a>
   .
   <sup>
-   &#9733 2639, pushed 8 days ago
+   &#9733 2639, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1865,7 +1865,7 @@
   </a>
   .
   <sup>
-   &#9733 381, pushed 2 days ago
+   &#9733 381, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1948,7 +1948,7 @@
   </a>
   only.
   <sup>
-   &#9733 3389, pushed 1 days ago
+   &#9733 3389, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1961,7 +1961,7 @@
   </a>
   only.
   <sup>
-   &#9733 2638, pushed 4 days ago
+   &#9733 2638, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1974,7 +1974,7 @@
   </a>
   .
   <sup>
-   &#9733 2742, pushed 2 days ago
+   &#9733 2742, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1987,7 +1987,7 @@
   </a>
   .
   <sup>
-   &#9733 1013, pushed 1 days ago
+   &#9733 1013, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2019,7 +2019,7 @@
   </a>
   .
   <sup>
-   &#9733 236, pushed 2 days ago
+   &#9733 236, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2032,7 +2032,7 @@
   </a>
   .
   <sup>
-   &#9733 2275, pushed 13 days ago
+   &#9733 2275, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2045,7 +2045,7 @@
   </a>
   .
   <sup>
-   &#9733 71, pushed 196 days ago
+   &#9733 71, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -2058,7 +2058,7 @@
   </a>
   only.
   <sup>
-   &#9733 7849, pushed 1 days ago
+   &#9733 7849, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2071,7 +2071,7 @@
   </a>
   .
   <sup>
-   &#9733 17, pushed 466 days ago
+   &#9733 17, pushed 591 days ago
   </sup>
  </li>
 </ul>
@@ -2089,7 +2089,7 @@
   </a>
   only.
   <sup>
-   &#9733 42, pushed 135 days ago
+   &#9733 42, pushed 260 days ago
   </sup>
  </li>
 </ul>
@@ -2107,7 +2107,7 @@
   </a>
   only.
   <sup>
-   &#9733 90, pushed 8 days ago
+   &#9733 90, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2312,7 +2312,7 @@
   </a>
   .
   <sup>
-   &#9733 887, pushed 46 days ago
+   &#9733 887, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -2351,7 +2351,7 @@
   </a>
   .
   <sup>
-   &#9733 171, pushed 1 days ago
+   &#9733 171, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2430,7 +2430,7 @@
   </a>
   only.
   <sup>
-   &#9733 269, pushed 40 days ago
+   &#9733 269, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -2458,7 +2458,7 @@
   </a>
   .
   <sup>
-   &#9733 51, pushed 6 days ago
+   &#9733 51, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2475,7 +2475,7 @@
   </a>
   .
   <sup>
-   &#9733 102, pushed 21 days ago
+   &#9733 102, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2502,7 +2502,7 @@
   </a>
   .
   <sup>
-   &#9733 34, pushed 2 days ago
+   &#9733 34, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2515,7 +2515,7 @@
   </a>
   .
   <sup>
-   &#9733 461, pushed 1 days ago
+   &#9733 461, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2556,7 +2556,7 @@
   </a>
   .
   <sup>
-   &#9733 2051, pushed 29 days ago
+   &#9733 2051, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -2589,7 +2589,7 @@
   </a>
   .
   <sup>
-   &#9733 252, pushed 2 days ago
+   &#9733 252, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2693,7 +2693,7 @@
   </a>
   .
   <sup>
-   &#9733 1563, pushed 46 days ago
+   &#9733 1563, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -2706,7 +2706,7 @@
   </a>
   .
   <sup>
-   &#9733 104, pushed 58 days ago
+   &#9733 104, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -2719,7 +2719,7 @@
   </a>
   .
   <sup>
-   &#9733 446, pushed 94 days ago
+   &#9733 446, pushed 219 days ago
   </sup>
  </li>
 </ul>
@@ -2737,7 +2737,7 @@
   </a>
   .
   <sup>
-   &#9733 120, pushed 372 days ago
+   &#9733 120, pushed 497 days ago
   </sup>
  </li>
  <li>
@@ -2760,7 +2760,7 @@
   </a>
   .
   <sup>
-   &#9733 84, pushed 12 days ago
+   &#9733 84, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2783,7 +2783,7 @@
   </a>
   .
   <sup>
-   &#9733 277, pushed 6 days ago
+   &#9733 277, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2806,7 +2806,7 @@
   </a>
   .
   <sup>
-   &#9733 14, pushed 211 days ago
+   &#9733 14, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -2819,7 +2819,7 @@
   </a>
   .
   <sup>
-   &#9733 101, pushed 9 days ago
+   &#9733 101, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2832,7 +2832,7 @@
   </a>
   .
   <sup>
-   &#9733 340, pushed 6 days ago
+   &#9733 340, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2866,7 +2866,7 @@
   </a>
   or later.
   <sup>
-   &#9733 989, pushed 3 days ago
+   &#9733 989, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2879,7 +2879,7 @@
   </a>
   or later.
   <sup>
-   &#9733 1223, pushed 2 days ago
+   &#9733 1223, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2897,7 +2897,7 @@
   </a>
   .
   <sup>
-   &#9733 6546, pushed 1 days ago
+   &#9733 6546, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2942,7 +2942,7 @@
   </a>
   .
   <sup>
-   &#9733 547, pushed 20 days ago
+   &#9733 547, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -2965,7 +2965,7 @@
   </a>
   .
   <sup>
-   &#9733 1345, pushed 85 days ago
+   &#9733 1345, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -2978,7 +2978,7 @@
   </a>
   .
   <sup>
-   &#9733 28, pushed 226 days ago
+   &#9733 28, pushed 351 days ago
   </sup>
  </li>
  <li>
@@ -2997,7 +2997,7 @@
   </a>
   - An online service to translate C declarations into English and vice versa. Public domain.
   <sup>
-   &#9733 3378, pushed 2 days ago
+   &#9733 3378, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3015,6 +3015,16 @@
    GNU GPL3
   </a>
   or later.
+ </li>
+ <li>
+  <a href="http://www.spinellis.gr/cscout/">
+   CScout
+  </a>
+  - a source code analyzer and refactoring browser for collections of C programs.
+  <a href="http://www.gnu.org/licenses/gpl.html">
+   GNU GPL3
+  </a>
+  only.
  </li>
  <li>
   <a href="https://www.gnu.org/software/ddd/ddd.html">
@@ -3096,7 +3106,7 @@
   </a>
   .
   <sup>
-   &#9733 428, pushed 2 days ago
+   &#9733 428, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3129,7 +3139,7 @@
   </a>
   .
   <sup>
-   &#9733 229, pushed 160 days ago
+   &#9733 229, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -3214,7 +3224,7 @@
   </a>
   .
   <sup>
-   &#9733 5192, pushed 1 days ago
+   &#9733 5192, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3245,7 +3255,7 @@
   </a>
   .
   <sup>
-   &#9733 3053, pushed 28 days ago
+   &#9733 3053, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3258,7 +3268,7 @@
   </a>
   .
   <sup>
-   &#9733 33, pushed 14 days ago
+   &#9733 33, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3271,7 +3281,7 @@
   </a>
   .
   <sup>
-   &#9733 191, pushed 9 days ago
+   &#9733 191, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3358,7 +3368,7 @@
   </a>
   .
   <sup>
-   &#9733 668, pushed 18 days ago
+   &#9733 668, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -3371,7 +3381,7 @@
   </a>
   only.
   <sup>
-   &#9733 140, pushed 68 days ago
+   &#9733 140, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -3386,7 +3396,7 @@
   </a>
   - A minimal Huffman encoder and decoder. Public domain.
   <sup>
-   &#9733 32, pushed 1054 days ago
+   &#9733 32, pushed 1179 days ago
   </sup>
  </li>
  <li>
@@ -3399,7 +3409,7 @@
   </a>
   .
   <sup>
-   &#9733 203, pushed 6 days ago
+   &#9733 203, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3422,7 +3432,7 @@
   </a>
   .
   <sup>
-   &#9733 184, pushed 349 days ago
+   &#9733 184, pushed 473 days ago
   </sup>
  </li>
  <li>
@@ -3435,7 +3445,7 @@
   </a>
   .
   <sup>
-   &#9733 58, pushed 167 days ago
+   &#9733 58, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -3468,7 +3478,7 @@
   </a>
   .
   <sup>
-   &#9733 188, pushed 7 days ago
+   &#9733 188, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3501,7 +3511,7 @@
   </a>
   .
   <sup>
-   &#9733 516, pushed 2 days ago
+   &#9733 516, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3528,7 +3538,7 @@
   </a>
   or later (tools).
   <sup>
-   &#9733 926, pushed 4 days ago
+   &#9733 926, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3545,7 +3555,7 @@
   </a>
   or later.
   <sup>
-   &#9733 3378, pushed 2 days ago
+   &#9733 3378, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3558,7 +3568,7 @@
   </a>
   only.
   <sup>
-   &#9733 108, pushed 5 days ago
+   &#9733 108, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3581,7 +3591,7 @@
   </a>
   .
   <sup>
-   &#9733 404, pushed 2 days ago
+   &#9733 404, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3594,7 +3604,7 @@
   </a>
   .
   <sup>
-   &#9733 628, pushed 5 days ago
+   &#9733 628, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3607,7 +3617,7 @@
   </a>
   .
   <sup>
-   &#9733 3793, pushed 4 days ago
+   &#9733 3793, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3640,7 +3650,7 @@
   </a>
   .
   <sup>
-   &#9733 907, pushed 14 days ago
+   &#9733 907, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3663,7 +3673,7 @@
   </a>
   only.
   <sup>
-   &#9733 497, pushed 115 days ago
+   &#9733 497, pushed 239 days ago
   </sup>
  </li>
  <li>
@@ -3676,7 +3686,7 @@
   </a>
   .
   <sup>
-   &#9733 697, pushed 41 days ago
+   &#9733 697, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -3693,7 +3703,7 @@
   </a>
   .
   <sup>
-   &#9733 487, pushed 12 days ago
+   &#9733 487, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3725,7 +3735,7 @@
   </a>
   .
   <sup>
-   &#9733 32, pushed 475 days ago
+   &#9733 32, pushed 599 days ago
   </sup>
  </li>
  <li>
@@ -3738,7 +3748,7 @@
   </a>
   .
   <sup>
-   &#9733 545, pushed 23 days ago
+   &#9733 545, pushed 148 days ago
   </sup>
  </li>
 </ul>

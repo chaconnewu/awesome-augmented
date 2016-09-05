@@ -21,7 +21,7 @@
   </a>
   - Write once, display at the infinite
   <sup>
-   &#9733 55, pushed 70 days ago
+   &#9733 55, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -33,7 +33,7 @@
    Elasticsearch
   </a>
   <sup>
-   &#9733 4, pushed 26 days ago
+   &#9733 4, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -42,7 +42,7 @@
   </a>
   - Display slideshows
   <sup>
-   &#9733 6, pushed 57 days ago
+   &#9733 6, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -51,7 +51,7 @@
   </a>
   - Job Posting and Job Applications
   <sup>
-   &#9733 4, pushed 27 days ago
+   &#9733 4, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -60,7 +60,7 @@
   </a>
   - Display products
   <sup>
-   &#9733 4, pushed 83 days ago
+   &#9733 4, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -69,7 +69,7 @@
   </a>
   - Display retailers
   <sup>
-   &#9733 3, pushed 83 days ago
+   &#9733 3, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -78,7 +78,7 @@
   </a>
   - Display teams
   <sup>
-   &#9733 3, pushed 20 days ago
+   &#9733 3, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -87,7 +87,7 @@
   </a>
   - Manage and display testimonials
   <sup>
-   &#9733 2, pushed 144 days ago
+   &#9733 2, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -96,7 +96,7 @@
   </a>
   - Basic display of Youtube videos
   <sup>
-   &#9733 1, pushed 83 days ago
+   &#9733 1, pushed 208 days ago
   </sup>
  </li>
 </ul>
@@ -110,7 +110,7 @@
   </a>
   - Create models dynamically and attach them to pages
   <sup>
-   &#9733 12, pushed 119 days ago
+   &#9733 12, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -119,7 +119,7 @@
   </a>
   - Attach resources (files) to a Page
   <sup>
-   &#9733 6, pushed 146 days ago
+   &#9733 6, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -131,7 +131,7 @@
    Redactor
   </a>
   <sup>
-   &#9733 1, pushed 364 days ago
+   &#9733 1, pushed 489 days ago
   </sup>
  </li>
  <li>
@@ -140,7 +140,7 @@
   </a>
   - Categorize resources
   <sup>
-   &#9733 1, pushed 83 days ago
+   &#9733 1, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -149,7 +149,7 @@
   </a>
   - Creating download pages and sending leads to Salesforce
   <sup>
-   &#9733 1, pushed 51 days ago
+   &#9733 1, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -158,7 +158,7 @@
   </a>
   - TinyMCE Visual Editing
   <sup>
-   &#9733 1, pushed 110 days ago
+   &#9733 1, pushed 235 days ago
   </sup>
  </li>
 </ul>
@@ -175,7 +175,7 @@
   </a>
   - Shared auth between Solidus and Refinery
   <sup>
-   &#9733 4, pushed 137 days ago
+   &#9733 4, pushed 262 days ago
   </sup>
  </li>
 </ul>
@@ -196,7 +196,7 @@
   </a>
   - Attach resources (files) to a Spree::Product
   <sup>
-   &#9733 1, pushed 230 days ago
+   &#9733 1, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +205,7 @@
   </a>
   - Shared auth between Spree and Refinery
   <sup>
-   &#9733 3, pushed 138 days ago
+   &#9733 3, pushed 263 days ago
   </sup>
  </li>
 </ul>
@@ -247,7 +247,7 @@
   </a>
   - Devise based authentication
   <sup>
-   &#9733 1, pushed 7 days ago
+   &#9733 1, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -260,7 +260,7 @@
   </a>
   )
   <sup>
-   &#9733 292, pushed 34 days ago
+   &#9733 292, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -269,7 +269,7 @@
   </a>
   - Send contact forms
   <sup>
-   &#9733 103, pushed 11 days ago
+   &#9733 103, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -278,7 +278,7 @@
   </a>
   - Basic display of news
   <sup>
-   &#9733 122, pushed 10 days ago
+   &#9733 122, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -287,7 +287,7 @@
   </a>
   - Display portfolio images
   <sup>
-   &#9733 129, pushed 96 days ago
+   &#9733 129, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -299,7 +299,7 @@
    ActAsIndexed
   </a>
   <sup>
-   &#9733 68, pushed 37 days ago
+   &#9733 68, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -313,7 +313,7 @@
   </a>
   - Attach images to a Page
   <sup>
-   &#9733 109, pushed 33 days ago
+   &#9733 109, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -322,7 +322,7 @@
   </a>
   - Change settings in the backoffice
   <sup>
-   &#9733 20, pushed 516 days ago
+   &#9733 20, pushed 640 days ago
   </sup>
  </li>
 </ul>
@@ -335,7 +335,7 @@
    Forms
   </a>
   <sup>
-   &#9733 0, pushed 43 days ago
+   &#9733 0, pushed 167 days ago
   </sup>
  </li>
 </ul>

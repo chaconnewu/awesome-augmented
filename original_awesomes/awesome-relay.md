@@ -78,6 +78,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection`](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
 - [`relay-composite-network-layer`](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
+- [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
@@ -89,7 +90,8 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
-- [Isomorphic Material Relay Starter Kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
+- [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate)
+Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
 - [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 - [Relay Fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 

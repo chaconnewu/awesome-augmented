@@ -1,5 +1,5 @@
 <h1>
- Awesome-kubernetes
+ Awesome-Kubernetes
 </h1>
 <p>
  <a href="https://github.com/sindresorhus/awesome">
@@ -23,8 +23,10 @@
 </p>
 <blockquote>
  <p>
-  "Talent wins games, but teamwork and intelligence wins championships." 
-  by Michael Jordan
+  "Talent wins games, but teamwork and intelligence wins championships."
+ </p>
+ <p>
+  -- Michael Jordan
  </p>
 </blockquote>
 <p>
@@ -33,16 +35,21 @@
   amazing contributors
  </a>
  ,
-building this awesome-repo would never has been possible.Thank You very much guys !!
+building this awesome-repo would never has been possible, Thank You very much guys !!
 </p>
-<h4>
- <em>
+<p>
+ <strong>
+  Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book.Check it out -->  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !!
+ </strong>
+</p>
+<p>
+ <strong>
   If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
- </em>
-</h4>
-<h1>
- What is Kubernetes ? :ship:
-</h1>
+ </strong>
+</p>
+<h2>
+ What is Kubernetes? :ship:
+</h2>
 <blockquote>
  <p>
   Kubernetes is an open source orchestration system for Docker containers. It handles scheduling onto nodes in a compute cluster and actively manages workloads to ensure that their state matches the users declared intentions. Using the concepts of "labels" and "pods", it groups the containers which make up an application into logical units for easy management and discovery.
@@ -56,16 +63,233 @@ building this awesome-repo would never has been possible.Thank You very much guy
   What is Kubernetes
  </a>
 </p>
-<h1>
- Roadmap:
-</h1>
+<h2>
+ History:
+</h2>
 <p>
- The awesome-kubernetes will now soon be available in the form of different releases and package bundles.It means that you can 
-download the awesome kubernetes release upto a certain period of time.The release for awesome kubernetes 2015 bundle is going to be 
-released soon.Stay tuned for more updates.
+ <strong>
+  Kubernetes is known to be a descendant of Google's system BORG
+ </strong>
 </p>
+<blockquote>
+ <p>
+  The first unified container-management system developed at Google was the system we internally call Borg.
+  It was built to manage both long-running services and batch jobs, which had previously been handled by two separate
+  systems: Babysitter and the Global Work Queue. The latter’s architecture strongly influenced Borg, but was focused on
+  batch jobs; both predated Linux control groups.
+ </p>
+</blockquote>
+<p>
+ <em>
+  Source:
+ </em>
+ <a href="http://research.google.com/pubs/archive/44843.pdf">
+  Kubernetes Past
+ </a>
+</p>
+<h2>
+ Date of Birth:
+</h2>
+<p>
+ Kubernetes celebrates its birthday every year on 21st July.The project was born in the year 2015.
+</p>
+<h2>
+ Roadmap
+</h2>
+<p>
+ The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
+download the awesome kubernetes release up to a certain period of time, The release for awesome kubernetes 2015 bundle is released.Checkout the releases column for more info.Stay tuned for more updates.
+</p>
+<hr/>
 <h1>
- Starting point:
+ Menu
+</h1>
+<ul>
+ <li>
+  <a href="#starting-point">
+   Starting Point
+  </a>
+ </li>
+ <li>
+  <a href="#main-resources">
+   Main Resources
+  </a>
+ </li>
+ <li>
+  <a href="#useful-articles">
+   Useful Articles
+  </a>
+ </li>
+ <li>
+  <a href="#cloud-providers">
+   Cloud Providers
+  </a>
+ </li>
+ <li>
+  <a href="#components">
+   Components
+  </a>
+ </li>
+ <li>
+  <a href="#related-projects">
+   Related Projects
+  </a>
+  <ul>
+   <li>
+    <a href="#related-software">
+     Related Software
+    </a>
+   </li>
+   <li>
+    <a href="#hypernetes">
+     Hypervisor-Agnostic Docker Engine
+    </a>
+   </li>
+   <li>
+    <a href="#helm-package-manager">
+     Helm Package Manager
+    </a>
+   </li>
+   <li>
+    <a href="#ubernetes">
+     Ubernetes
+    </a>
+   </li>
+   <li>
+    <a href="#fabric8">
+     Fabric8
+    </a>
+   </li>
+   <li>
+    <a href="#kmachine">
+     kmachine
+    </a>
+   </li>
+   <li>
+    <a href="#spread">
+     spread
+    </a>
+   </li>
+   <li>
+    <a href="#supergiant">
+     Supergiant
+    </a>
+   </li>
+   <li>
+    <a href="#monitoring-services">
+     Monitoring Services
+    </a>
+   </li>
+   <li>
+    <a href="#paasproviders">
+     Paas Providers
+    </a>
+   </li>
+   <li>
+    <a href="#openshift">
+     OpenShift
+    </a>
+   </li>
+   <li>
+    <a href="#deis">
+     Deis
+    </a>
+   </li>
+   <li>
+    <a href="#continuousdelivery">
+     Continuous Delivery
+    </a>
+   </li>
+   <li>
+    <a href="#fabric8">
+     Fabric8
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#container-support">
+   Container Support
+  </a>
+ </li>
+ <li>
+  <a href="#raspberry-pi">
+   Raspberry Pi
+  </a>
+ </li>
+ <li>
+  <a href="#books">
+   Books
+  </a>
+  :books:
+ </li>
+ <li>
+  <a href="#slide-presentations">
+   Slide Presentations
+  </a>
+ </li>
+ <li>
+  <a href="#videos">
+   Videos
+  </a>
+  :tv:
+  <ul>
+   <li>
+    <a href="#main-account">
+     Main Account
+    </a>
+   </li>
+   <li>
+    <a href="#other-useful-videos">
+     Other Useful videos
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#interactive-learning-environments">
+   Interactive Learning Environments
+  </a>
+ </li>
+ <li>
+  <a href="#interesting-twitter-accounts">
+   Interesting Twitter Accounts
+  </a>
+ </li>
+ <li>
+  <a href="#amazing-people">
+   Amazing People
+  </a>
+ </li>
+ <li>
+  <a href="#connecting-with-kubernetes">
+   Connecting with Kubernetes
+  </a>
+ </li>
+ <li>
+  <a href="#companies">
+   Companies
+  </a>
+ </li>
+ <li>
+  <a href="#conferences">
+   Conferences
+  </a>
+ </li>
+ <li>
+  <a href="#contributing">
+   Contributing
+  </a>
+ </li>
+ <li>
+  <a href="#license">
+   License
+  </a>
+ </li>
+</ul>
+<hr/>
+<h1>
+ Starting Point
 </h1>
 <p>
  <em>
@@ -146,118 +370,61 @@ released soon.Stay tuned for more updates.
    Omer Dawelbeit
   </a>
  </li>
+ <li>
+  <a href="https://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now">
+   Top Reasons Businesses Should Move to Kubernetes Now
+  </a>
+  by
+  <a href="https://github.com/gopherstein">
+   Mike Johnston
+  </a>
+ </li>
+ <li>
+  <a href="https://deis.com/blog/2016/kubernetes-illustrated-guide/">
+   The Children's Illustrated Guide to Kubernetes
+  </a>
+  by
+  <a href="https://github.com/deis">
+   Deis
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o">
+   The ‘kubectl run’ command
+  </a>
+  by
+  <a href="https://twitter.com/mhausenblas">
+   Michael Hausenblas
+  </a>
+ </li>
 </ul>
 <h1>
- Menu:
+ Main Resources
 </h1>
+<p>
+ <em>
+  Official resources from the Kubernetes team
+ </em>
+</p>
 <ul>
  <li>
-  <a href="#useful-articles">
-   Useful Articles
+  <a href="http://kubernetes.io/docs/">
+   Kubernetes Documentation
   </a>
  </li>
  <li>
-  <a href="#main-resources">
-   Main Resources
+  <a href="https://github.com/kubernetes/kubernetes/">
+   Kubernetes Source
   </a>
  </li>
  <li>
-  <a href="#monitoring">
-   Monitoring Services
-  </a>
- </li>
- <li>
-  <a href="#helm-package-manager">
-   Helm Package Manager
-  </a>
- </li>
- <li>
-  <a href="#ubernetes">
-   Ubernetes
-  </a>
- </li>
- <li>
-  <a href="#fabric8">
-   fabric8
-  </a>
- </li>
- <li>
-  <a href="#kmachine">
-   kmachine
-  </a>
- </li>
- <li>
-  <a href="#paasproviders">
-   Paas Providers
-  </a>
- </li>
- <li>
-  <a href="#continousdelivery">
-   Continous Delivery
-  </a>
- </li>
- <li>
-  <a href="#books">
-   Books
-  </a>
-  :books:
- </li>
- <li>
-  <a href="#slide-presentations">
-   Slide Presentations
-  </a>
- </li>
- <li>
-  <a href="#videos">
-   Videos
-  </a>
-  :tv:
-  <ul>
-   <li>
-    <a href="#main-account">
-     Main Account
-    </a>
-   </li>
-   <li>
-    <a href="#useful-videos">
-     Useful videos
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#interesting-twitter-accounts">
-   Interesting Twitter Accounts
-  </a>
- </li>
- <li>
-  <a href="#amazing-people">
-   Amazing People
-  </a>
- </li>
- <li>
-  <a href="#connecting-with-kubernetes">
-   Connecting with Kubernetes
-  </a>
- </li>
- <li>
-  <a href="#conferences">
-   Conferences
-  </a>
- </li>
- <li>
-  <a href="#contributing">
-   Contributing
-  </a>
- </li>
- <li>
-  <a href="#license">
-   License
+  <a href="http://kubernetes.io/docs/troubleshooting/">
+   Kubernetes Troubleshooting
   </a>
  </li>
 </ul>
 <h1>
- Useful Articles:
+ Useful Articles
 </h1>
 <p>
  <em>
@@ -583,160 +750,196 @@ released soon.Stay tuned for more updates.
    Comparison of Networking Solutions for Kubernetes
   </a>
  </li>
+ <li>
+  <a href="https://www.sdxcentral.com/articles/news/why-docker-and-google-kubernetes-are-like-paas-done-right/2015/08/">
+   Why Docker and Google Kubernetes Are Like PaaS Done Right
+  </a>
+ </li>
+ <li>
+  <a href="http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/">
+   Kubernetes Authentication plugins and kubeconfig
+  </a>
+  by
+  <a href="https://twitter.com/blinken_lichten">
+   Jon Langemak
+  </a>
+ </li>
+ <li>
+  <a href="http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/">
+   Kubernetes with SaltStack revisited
+  </a>
+  by
+  <a href="https://twitter.com/blinken_lichten">
+   Jon Langemak
+  </a>
+ </li>
+ <li>
+  <a href="http://www.devoperandi.com/kubernetes-authentication-openid-connect/">
+   Kubernetes Authentication - OpenID Connect
+  </a>
+  by
+  <a href="https://twitter.com/DevoperandI">
+   Michael Ward
+  </a>
+ </li>
+ <li>
+  <a href="http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/">
+   Logging - Kafka topic by namespace
+  </a>
+  by
+  <a href="https://twitter.com/DevoperandI">
+   Michael Ward
+  </a>
+ </li>
+ <li>
+  <a href="http://theremotelab.com/blog/achieving-ci-cd-with-k8s/">
+   Achieving CI/CD with Kubernetes
+  </a>
+  by
+  <a href="https://twitter.com/ramitsurana">
+   Ramit Surana
+  </a>
+ </li>
 </ul>
-<h2>
- Main Resources:
-</h2>
-<h2>
- Monitoring:
-</h2>
+<h1>
+ Cloud Providers
+</h1>
 <p>
  <em>
-  To maintain regular surveillance over kubernetes
+  Coming Soon
  </em>
 </p>
 <ul>
  <li>
-  <a href="https://github.com/kubernetes/dashboard">
-   Console
+  <a href="https://cloud.google.com/compute/">
+   GCE
   </a>
-  :
-It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
-  <sup>
-   &#9733 213, pushed 2 days ago
-  </sup>
+  - Google Compute Engine [default]
  </li>
  <li>
-  <a href="https://www.datadoghq.com/">
-   Datadog
-  </a>
-  :
-Datadog is a hosted monitoring and metrics platform, with built in support for Kubernetes and Docker.  Their Kubernetes integration pulls in Docker and Kubernetes events, converts labels and pod names into tags, as well as pulls metrics from Docker and CAdvisor.  This allows you to build application dashboards and alerts that display data across pods, Nodes, and services.
+  [GKE] - Google Container Engine
  </li>
  <li>
-  <a href="https://github.com/kubernetes/heapster">
-   Heapster
+  <a href="aws.amazon.com/ec2‎">
+   AWS
   </a>
-  : 
-Heapster enables Container Cluster Monitoring and Performance Analysis.
-Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
-  <sup>
-   &#9733 640, pushed 4 days ago
-  </sup>
+  - Amazon EC2
  </li>
  <li>
-  <a href="https://github.com/kubernetes/kubedash">
-   Kubedash
+  <a href="https://azure.microsoft.com/en-in/">
+   Azure
   </a>
-  :
-Performance analytics UI for Kubernetes Clusters.
-The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
-  <sup>
-   &#9733 130, pushed 33 days ago
-  </sup>
+  - Microsoft Azure
  </li>
  <li>
-  <a href="https://github.com/kubernetes/kube-ui">
-   Kube-ui
+  <a href="http://www.vmware.com/products/vsphere.html">
+   Vsphere
   </a>
-  :
-Container Cluster Manager from Google Web UI
-  <sup>
-   &#9733 123, pushed 71 days ago
-  </sup>
+  - VMWare VSphere
  </li>
  <li>
-  <a href="http://prometheus.io">
-   Prometheus
+  <a href="https://www.rackspace.com/en-in">
+   Rackspace
   </a>
-  :
-Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
- </li>
- <li>
-  <a href="http://www.sysdig.org/">
-   Sysdig
-  </a>
-  :
-Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI,csysdig, that runs in your terminal.
+  - Rackspace
  </li>
 </ul>
+<h1>
+ Components
+</h1>
+<p>
+ <em>
+  Comprehensive list of Components of Kubernetes
+ </em>
+</p>
+<h3>
+ <a href="http://kubernetes.io/docs/user-guide/prereqs/">
+  Kubectl
+ </a>
+</h3>
+<p>
+ It is a command-line tool. It lets you inspect your cluster resources, create, delete, and update components, and much more.
+</p>
+<p>
+ <em>
+  More Info
+  <a href="http://kubernetes.io/docs/user-guide/kubectl-cheatsheet/">
+   Kubectl Cheatsheet
+  </a>
+ </em>
+</p>
+<p>
+ <em>
+  Coming Soon
+ </em>
+</p>
+<h1>
+ Related Projects
+</h1>
+<p>
+ <em>
+  Kubernetes-related projects that you might find helpful
+ </em>
+</p>
 <h2>
- Hypervisor-agnostic Docker Engine:
+ Related Software
 </h2>
 <p>
- Hyper is a Hypervisor-agnostic Docker Engine that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).
-Technically speaking,
+ <em>
+  Projects built to make life with Kubernetes even better, more powerful, more scalable
+ </em>
+</p>
+<h3>
+ <a href="https://github.com/hyperhq/hypernetes">
+  Hypernetes
+ </a>
+</h3>
+<p>
+ Hypernetes is a secure, multi-tenant Kubernetes distro. Simply put,
 </p>
 <p>
- Hyper = Hypervisor + Kernel + Docker Image
+ Hypernetes = Bare-metal + Hyper + Kubernetes + KeyStone + Cinder + Neutron.
 </p>
 <p>
- By containing applications within separate VM instances and kernel spaces, Hyper is able to offer an excellent Hardware-enforced Isolation, which is much needed in multi-tenant environments.
+ It envisions a future of "Container-as-a-Service without IaaS". The idea is to combine the orchestration power in Kubernetes and the runtime isolation in Hyper to build the truly secure multi-tenant CaaS platform.
 </p>
+<h3>
+ <a href="https://deis.com/blog/2015/introducing-helm-for-kubernetes">
+  Helm Package Manager
+ </a>
+</h3>
 <p>
- Hyper also promises Immutable Infrastructure by eliminating the middle layer of Guest OS, along with the hassle to configure and manage them.
+ Built by Deis and Inspired by Homebrew, apt, and NPM. Helm is a tool for working with Kubernetes-powered applications. Helm makes it easy run apps and services inside Kubernetes.
 </p>
-<ul>
- <li>
-  <a href="https://hyper.sh/blog/post/2015/10/27/announcing-hypernetes-the-multitenant-kubernetes-distribution.html">
-   Announcing Hypernetes - The Multitenant Kubernetes Distribution
-  </a>
-  by
-  <a href="https://twitter.com/tbronchain">
-   Thibault Bronchain
-  </a>
- </li>
-</ul>
-<h2>
- Helm Package manager:
-</h2>
-<p>
- Built by Deis and Inspired by Homebrew, apt, and npm, Helm is a tool for working with Kubernetes-powered applications.Helm makes it easy run apps and services inside Kubernetes.
-</p>
-<ul>
- <li>
-  <a href="https://deis.com/blog/2015/introducing-helm-for-kubernetes">
-   Introducing Helm, The Kubernetes Package Manager
-  </a>
- </li>
-</ul>
-<h2>
- Ubernetes:
-</h2>
+<h3>
+ <a href="https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md">
+  Ubernetes
+ </a>
+</h3>
 <p>
  A central design concept in Kubernetes to cluster Kubernetes across several regions.
 </p>
-<ul>
- <li>
-  <a href="https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md">
-   Introducing Kubernetes Cluster Federation a.k.a Ubernetes
-  </a>
- </li>
-</ul>
-<h2>
- <a href="http://fabric8.io/">
-  Fabric8
+<h3>
+ <a href="http://github.com/kubernetes/minikube/">
+  Minikube
  </a>
- :
-</h2>
+</h3>
 <p>
- An integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey.
+ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
 </p>
-<h2>
+<h3>
  <a href="https://github.com/skippbox/kmachine">
-  Kmachine
+  kmachine
  </a>
- :
-</h2>
+</h3>
 <p>
  kmachine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them just like docker-machine
 </p>
-<h2>
+<h3>
  <a href="https://github.com/redspread/spread">
   spread
  </a>
- :
-</h2>
+</h3>
 <p>
  spread is a command line tool that builds and deploys a Docker project to a Kubernetes cluster in one command. The project's goals are to:
 </p>
@@ -751,42 +954,283 @@ Technically speaking,
   Work well for a single developer or an entire team (no more broken bash scripts!)
  </li>
 </ul>
+<h3>
+ <a href="https://supergiant.io">
+  Supergiant
+ </a>
+</h3>
+<p>
+ Supergiant is open-source and built on Kubernetes. It provisions "cost-based" server resources, load balancers, and block-level storage automatically to support stateful apps at scale with less hardware expense. The goals of the project are to make launching, managing, and scaling Kubernetes as easy as possible.
+</p>
+<h3>
+ <a href="https://opencredo.com/introducing-kubefuse-file-system-kubernetes/">
+  Kubefuse
+ </a>
+</h3>
+<p>
+ Kubernetes as a Filesystem.Its written in Python, because Python is still cool and has a solid FUSE library available for it. The fusepy library has some simple examples showing how to implement loopback and memory file systems.
+</p>
+<h3>
+ <a href="https://docs.kubespray.io/">
+  KubeSpray
+ </a>
+</h3>
+<p>
+ KubeSpray is a tool to deploy a kubernetes cluster with Ansible.
+</p>
+<h3>
+ <a href="https://github.com/coreos/bootkube">
+  Bootkube
+ </a>
+</h3>
+<p>
+ Bootkube is a helper tool for launching self-hosted Kubernetes clusters.When launched, bootkube will act as a temporary Kubernetes control-plane (api-server, scheduler, controller-manager), which operates long enough to bootstrap a replacement self-hosted control-plane.Additionally, bootkube can be used to generate all of the necessary assets for use in bootstrapping a new cluster. These assets can then be modified to support any additional configuration options.
+</p>
+<h3>
+ <a href="https://github.com/redspread/localkube">
+  Localkube
+ </a>
+</h3>
+<p>
+ It provides a Kubernetes cluster configured to run locally and optimized for rapid development.It is a single executable container process built for usage with
+ <a href="https://github.com/redspread/spread">
+  spread
+ </a>
+ .
+</p>
+<h3>
+ <a href="https://github.com/dtan4/k8sec">
+  K8sec
+ </a>
+</h3>
+<p>
+ CLI tool to manage Kubernetes Secrets easily
+</p>
+<h3>
+ <a href="https://github.com/openai/kubernetes-ec2-autoscaler">
+  Kubernetes Ec2 Autoscaler
+ </a>
+</h3>
+<p>
+ Node-level autoscaler for Kubernetes on AWS EC2 that is designed for batch jobs.
+</p>
 <h2>
- PaaS Providers:
+ Monitoring Services
 </h2>
+<p>
+ <em>
+  To maintain regular surveillance over kubernetes
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/kubernetes/dashboard">
+   Console
+  </a>
+  :
+It is a general purpose, web-based UI for Kubernetes clusters. It allows to manage applications running in the cluster, troubleshoot them, as well as, manage the cluster itself.
+  <sup>
+   &#9733 213, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://www.datadoghq.com/">
+   Datadog
+  </a>
+  :
+Datadog is a hosted monitoring and metrics platform, with built in support for Kubernetes and Docker.  Their Kubernetes integration pulls in Docker and Kubernetes events, converts labels and pod names into tags, as well as pulls metrics from Docker and CAdvisor.  This allows you to build application dashboards and alerts that display data across pods, Nodes, and services.
+ </li>
+ <li>
+  <a href="https://github.com/kubernetes/heapster">
+   Heapster
+  </a>
+  :
+Heapster enables Container Cluster Monitoring and Performance Analysis.
+Heapster currently supports Kubernetes and CoreOS natively. It can be extended to support other cluster management solutions easily. Heapster collects and interprets various signals like compute resource usage, lifecycle events, etc, and exports cluster metrics via REST endpoints.
+  <sup>
+   &#9733 640, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kubernetes/kubedash">
+   Kubedash
+  </a>
+  :
+Performance analytics UI for Kubernetes Clusters.
+The goal of Kubedash is to allow the user or an administrator of a Kubernetes cluster to easily verify and understand the performance of a cluster and jobs running within it through intuitive visualizations of aggregated metrics, derived stats and event patterns. It is not intended to be a general-purpose Kubernetes UI. Instead, kubedash uses multiple sources of information to summarize and provide high-level analytic information to users and to the cluster administrator.
+  <sup>
+   &#9733 130, pushed 158 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kubernetes/kube-ui">
+   Kube-ui
+  </a>
+  :
+Container Cluster Manager from Google Web UI
+  <sup>
+   &#9733 123, pushed 196 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://prometheus.io">
+   Prometheus
+  </a>
+  :
+Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company.
+ </li>
+ <li>
+  <a href="http://www.sysdig.org/">
+   Sysdig
+  </a>
+  :
+Sysdig is open source, system-level exploration: capture system state and activity from a running Linux instance, then save,  filter and analyze. Sysdig is scriptable in Lua and includes a command line interface and a powerful interactive UI, csysdig, that runs in your terminal.
+ </li>
+ <li>
+  <a href="https://www.weave.works/products/weave-scope/">
+   Weave Scope
+  </a>
+  :
+Weave Scope is a visualization, and monitoring tool for Docker and Kubernetes. It provides a top down view into your app as well as your entire infrastructure, and allows you to diagnose any problems with your distributed containerized app, in real time, as it being deployed to a cloud provider.
+ </li>
+</ul>
+<h2>
+ PaaS Providers
+</h2>
+<p>
+ <em>
+  Kubernetes Platform as a Service providers
+ </em>
+</p>
 <h3>
  <a href="https://www.openshift.com/">
-  Openshift
+  OpenShift
  </a>
- :
 </h3>
 <p>
  OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment. With OpenShift you have a choice of offerings, including online, on premise, and open source project options.
 </p>
 <h3>
- <a href="http://deis.io/">
-  Deis
+ <a href="https://deis.com/">
+  Deis Workflow
  </a>
- :
 </h3>
 <p>
- Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon Docker and CoreOS to provide a lightweight PaaS with a Heroku-inspired workflow.
+ Deis Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Workflow builds upon Kubernetes and Docker to provide a lightweight PaaS with a Heroku-inspired workflow.
 </p>
 <h2>
- Continous Delivery:
+ Continuous Delivery
 </h2>
+<p>
+ <em>
+  Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers
+ </em>
+</p>
 <h3>
  <a href="http://fabric8.io">
   Fabric8
  </a>
+</h3>
+<p>
+ Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment, The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
+</p>
+<h3>
+ <a href="https://jenkins.io">
+  Jenkins
+ </a>
+</h3>
+<p>
+ Jenkins is an automation engine with an unparalleled plugin ecosystem to support all of your favorite tools in your delivery pipelines, whether your goal is continuous integration, automated testing, or continuous delivery.
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/jenkinsci/kubernetes-plugin">
+   Jenkins-Kubernetes Plugin
+  </a>
+  by
+  <a href="https://www.twitter.com/csanchez">
+   Carlos Sanchez
+  </a>
+ </li>
+ <li>
+  <a href="https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture">
+   Automated Image Builds with Jenkins, Packer, and Kubernetes
+  </a>
+ </li>
+ <li>
+  <a href="https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine">
+   On-demand Jenkins slaves with Kubernetes and the Google Container Engine
+  </a>
+ </li>
+ <li>
+  <a href="http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html">
+   Jenkins setups for Kubernetes and Docker Workflow
+  </a>
+ </li>
+</ul>
+<h1>
+ Container Support
+</h1>
+<p>
+ <em>
+  A list of linux containers supported by kubernetes.
+ </em>
+</p>
+<h3>
+ <a href="http://docker.com">
+  Docker
+ </a>
  :
 </h3>
 <p>
- Fabric8 DevOps provides a completely integrated open source DevOps platform which works out of the box on any Kubernetes or OpenShift environment.The entire platform is modular and based on microservices so you can use as much or as little of Fabric8 DevOps as you wish!
+ Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.Check out
+ <a href="https://github.com/veggiemonk/awesome-docker/">
+  awesome-docker
+ </a>
+ for more info.
 </p>
-<h2>
- Books:
-</h2>
+<h3>
+ <a href="http://coreos.com/rkt">
+  Rkt
+ </a>
+ :
+</h3>
+<p>
+ rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
+</p>
+<ul>
+ <li>
+  <a href="http://kubernetes.io/docs/getting-started-guides/rkt/">
+   Rktnetes
+  </a>
+ </li>
+</ul>
+<h1>
+ Raspberry Pi
+</h1>
+<p>
+ <em>
+  Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.Checkout
+  <a href="http://kubecloud.io">
+   Kubecloud
+  </a>
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://kubecloud.io/kubernetes-on-arm-cluster/">
+   Setting up a Kubernetes on ARM cluster
+  </a>
+ </li>
+ <li>
+  <a href="http://kubecloud.io/kubernetes-on-arm-registry/">
+   Local registry in Kubernetes on ARM
+  </a>
+ </li>
+</ul>
+<h1>
+ Books
+</h1>
 <p>
  <em>
   A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide
@@ -822,10 +1266,19 @@ us with information
    Dave K. Rensin
   </a>
  </li>
+ <li>
+  <a href="https://www.manning.com/books/kubernetes-in-action">
+   Kubernetes in Action
+  </a>
+  by
+  <a href="https://twitter.com/markoluksa">
+   Marko Lukša
+  </a>
+ </li>
 </ul>
-<h2>
- Slide Presentations:
-</h2>
+<h1>
+ Slide Presentations
+</h1>
 <p>
  <em>
   A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.
@@ -940,17 +1393,26 @@ us with information
    Mist.io
   </a>
  </li>
+ <li>
+  <a href="http://www.slideshare.net/ramitsurana/achieving-cicd-with-kubernetes">
+   Achieving CI/CD with Kubernetes
+  </a>
+  by
+  <a href="https://twitter.com/ramitsurana">
+   Ramit Surana
+  </a>
+ </li>
 </ul>
-<h2>
- Videos:
-</h2>
+<h1>
+ Videos
+</h1>
 <p>
  <em>
   A recording of moving visual images made digitally or on videotape.
  </em>
 </p>
 <h3>
- Main Account:
+ Main Account
 </h3>
 <ul>
  <li>
@@ -965,7 +1427,7 @@ us with information
  </li>
 </ul>
 <h3>
- Useful Videos:
+ Other Useful Videos
 </h3>
 <ul>
  <li>
@@ -1050,14 +1512,29 @@ us with information
   </a>
  </li>
 </ul>
-<h2>
- Interesting Twitter Accounts:
-</h2>
-<h4>
+<h1>
+ Interactive Learning Environments
+</h1>
+<p>
  <em>
-  "Twitter is quick, it’s easy to communicate on, and is a very valuable social channel for a brand or business if you use it to its full potential.By following these news aggregators, rolling news channels, and companies, you can get the inside scoop of a story long before it hits the mainstream news outlets."
+  Learn Kubernetes using an interactive environment without requiring downloads or configuration
  </em>
-</h4>
+</p>
+<ul>
+ <li>
+  <a href="https://www.katacoda.com/courses/kubernetes">
+   Katacoda
+  </a>
+ </li>
+</ul>
+<h1>
+ Interesting Twitter Accounts
+</h1>
+<p>
+ <em>
+  Twitter is quick, it’s easy to communicate on, and is a very valuable social channel for a brand or business if you use it to its full potential, By following these news aggregators, rolling news channels, and companies, you can get the inside scoop of a story long before it hits the mainstream news outlets.
+ </em>
+</p>
 <ul>
  <li>
   <a href="https://twitter.com/kubernetesio">
@@ -1115,68 +1592,74 @@ us with information
   </a>
  </li>
 </ul>
-<h2>
- Amazing People:
-</h2>
+<h1>
+ Amazing People
+</h1>
 <ul>
  <li>
   <a href="https://twitter.com/brendandburns">
    Bredan Burns
   </a>
-  ,Senior Staff Software Engineer at Google
+  , Partner Architect at Microsoft
  </li>
  <li>
   <a href="https://twitter.com/kelseyhightower">
    Kelsey Hightower
   </a>
-  ,Staff Developer Advocate at Google
+  , Staff Developer Advocate at Google
  </li>
  <li>
   <a href="https://twitter.com/arungupta">
    Arun Gupta
   </a>
-  ,Vice President, Developer Relations at Couchbase
+  , Vice President, Developer Relations at Couchbase
  </li>
  <li>
   <a href="https://www.twitter.com/csanchez">
    Carlos Sanchez
   </a>
-  ,Senior Software Engineer,CloudBees
- </li>
- <li>
-  <a href="https://www.twitter.com/satnamsingh">
-   Satnam Singh
-  </a>
-  ,Software Engineer at Facebook
+  , Senior Software Engineer, CloudBees
  </li>
  <li>
   <a href="https://twitter.com/asynchio">
    Joseph Jacks
   </a>
-  ,VP, Technology Strategy at Kismatic, Inc
+  , VP, Technology Strategy at Kismatic, Inc
  </li>
  <li>
   <a href="https://twitter.com/jbeda">
    Joe Beda
   </a>
-  ,Co-founder and Technical Lead for Kubernetes
+  , Co-founder and Technical Lead for Kubernetes
  </li>
  <li>
   <a href="https://twitter.com/preillyme">
    Patrick Reilly
   </a>
-  ,CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
+  , CEO at Kismatic, Inc. / Advisor at Mesosphere, Inc
  </li>
  <li>
   <a href="https://twitter.com/BrandonPhilips">
    Brandon Philips
   </a>
-  ,CTO at CoreOS
+  , CTO at CoreOS
+ </li>
+ <li>
+  <a href="https://twitter.com/eric_tune">
+   Eric Tune
+  </a>
+  , Senior Staff Engineer at Google
+ </li>
+ <li>
+  <a href="https://twitter.com/thockin">
+   Tim Hockin
+  </a>
+  , Senior Staff SW Engineer / Engineering Manager at Google
  </li>
 </ul>
-<h2>
- Connecting with Kubernetes:
-</h2>
+<h1>
+ Connecting with Kubernetes
+</h1>
 <ul>
  <li>
   <a href="http://webchat.freenode.net/?channels=google-containers">
@@ -1217,10 +1700,55 @@ us with information
    Kismatic
   </a>
  </li>
+ <li>
+  <a href="https://www.reddit.com/r/kubernetes/">
+   Reddit
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/kubernetes/community">
+   Community
+  </a>
+ </li>
 </ul>
-<h2>
- Conferences:
-</h2>
+<h1>
+ Companies
+</h1>
+<p>
+ <em>
+  A list of companies supporting Kubernetes
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://google.com">
+   Google
+  </a>
+ </li>
+ <li>
+  <a href="https://coreos.com/">
+   Coreos
+  </a>
+ </li>
+ <li>
+  <a href="https://redhat.com">
+   Red Hat
+  </a>
+ </li>
+ <li>
+  <a href="https://apprenda.com/">
+   Apprenda
+  </a>
+ </li>
+ <li>
+  <a href="http://redspread.com/">
+   RedSpread
+  </a>
+ </li>
+</ul>
+<h1>
+ Conferences
+</h1>
 <p>
  <em>
   Some must to go and attend conferences on kubernetes
@@ -1228,7 +1756,7 @@ us with information
 </p>
 <ul>
  <li>
-  <a href="https://kubecon.io/">
+  <a href="http://events.linuxfoundation.org/events/kubecon">
    Kubecon
   </a>
  </li>
@@ -1242,10 +1770,20 @@ us with information
    GCP Next
   </a>
  </li>
+ <li>
+  <a href="http://dockercon.com">
+   Docker Con
+  </a>
+ </li>
+ <li>
+  <a href="http://devoxx.com">
+   Devoxx
+  </a>
+ </li>
 </ul>
-<h2>
- Contributing:
-</h2>
+<h1>
+ Contributing
+</h1>
 <p>
  Contributions are most welcome!
 </p>
@@ -1259,9 +1797,9 @@ us with information
  </a>
  .
 </p>
-<h2>
- License:
-</h2>
+<h1>
+ License
+</h1>
 <p>
  <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">
   <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" style="border-width:0"/>

@@ -122,7 +122,7 @@
   </a>
   - Cross-platform Linux commands without the suck.
   <sup>
-   &#9733 6717, pushed 2 days ago
+   &#9733 6717, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -150,7 +150,7 @@
    Trended on (you guessed it) Product Hunt.
   </em>
   <sup>
-   &#9733 68, pushed 107 days ago
+   &#9733 68, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -163,7 +163,7 @@
   </a>
   on the CLI.
   <sup>
-   &#9733 32, pushed 49 days ago
+   &#9733 32, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -172,7 +172,7 @@
   </a>
   - Community-built docs for every language, platform and library.
   <sup>
-   &#9733 266, pushed 32 days ago
+   &#9733 266, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -181,7 +181,7 @@
   </a>
   - A live metronome on the CLI.
   <sup>
-   &#9733 4, pushed 201 days ago
+   &#9733 4, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -190,7 +190,7 @@
   </a>
   - A zero-config tool that makes developing client-side apps easy.
   <sup>
-   &#9733 25, pushed 97 days ago
+   &#9733 25, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -205,7 +205,7 @@
   </a>
   - View stock exchange quotes.
   <sup>
-   &#9733 40, pushed 6 days ago
+   &#9733 40, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -226,7 +226,7 @@
   </code>
   for your live Node app.
   <sup>
-   &#9733 3124, pushed 22 days ago
+   &#9733 3124, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -239,8 +239,14 @@
   </a>
   CLI.
   <sup>
-   &#9733 12, pushed 6 days ago
+   &#9733 12, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Glavin001/tv-remote-cli">
+   tv-remote-cli
+  </a>
+  - CLI for remotely controlling your Smart TV.
  </li>
 </ul>
 <h2>
@@ -265,7 +271,7 @@
   </code>
   command.
   <sup>
-   &#9733 8, pushed 89 days ago
+   &#9733 8, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -278,7 +284,7 @@
   </code>
   command.
   <sup>
-   &#9733 4, pushed 22 days ago
+   &#9733 4, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -292,7 +298,7 @@
   </a>
   - Drops your CLI into a REPL within your app's context.
   <sup>
-   &#9733 8, pushed 253 days ago
+   &#9733 8, pushed 378 days ago
   </sup>
  </li>
  <li>
@@ -301,7 +307,7 @@
   </a>
   - Build an interactive tour for your Vorpal app.
   <sup>
-   &#9733 4, pushed 206 days ago
+   &#9733 4, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -310,7 +316,7 @@
   </a>
   - Updates your live Vorpal extensions in realtime.
   <sup>
-   &#9733 2, pushed 274 days ago
+   &#9733 2, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +325,7 @@
   </a>
   - Advanced logging utility.
   <sup>
-   &#9733 1, pushed 116 days ago
+   &#9733 1, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +334,7 @@
   </a>
   - Easily set / get arguments with commands.
   <sup>
-   &#9733 1, pushed 183 days ago
+   &#9733 1, pushed 308 days ago
   </sup>
  </li>
 </ul>
@@ -342,7 +348,7 @@
   </a>
   - Import Vorpal extensions live: while your app is running.
   <sup>
-   &#9733 5, pushed 253 days ago
+   &#9733 5, pushed 378 days ago
   </sup>
  </li>
 </ul>
@@ -356,7 +362,7 @@
   </a>
   - Pulls the top trending items from Hacker News.
   <sup>
-   &#9733 5, pushed 253 days ago
+   &#9733 5, pushed 378 days ago
   </sup>
  </li>
 </ul>
@@ -370,7 +376,7 @@
   </a>
   - Simple .rc file support.
   <sup>
-   &#9733 5, pushed 12 days ago
+   &#9733 5, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -379,7 +385,7 @@
   </a>
   - Bash-like comment support.
   <sup>
-   &#9733 3, pushed 11 days ago
+   &#9733 3, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +394,7 @@
   </a>
   - Triggers Vorpal task in case it runs without any specificly defined task.
   <sup>
-   &#9733 1, pushed 6 days ago
+   &#9733 1, pushed 131 days ago
   </sup>
  </li>
 </ul>

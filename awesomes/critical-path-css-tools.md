@@ -44,7 +44,7 @@
   </a>
   - by Jonas Ohlsson generates critical-path CSS
   <sup>
-   &#9733 1212, pushed 5 days ago
+   &#9733 1212, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -57,7 +57,7 @@
   </a>
   and inline-styles)
   <sup>
-   &#9733 3120, pushed 13 days ago
+   &#9733 3120, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -66,7 +66,7 @@
   </a>
   - by FilamentGroup finds & outputs critical CSS
   <sup>
-   &#9733 679, pushed 22 days ago
+   &#9733 679, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -80,7 +80,7 @@
   </a>
   - Apache module for automatic PageSpeed optimization
   <sup>
-   &#9733 225, pushed 4 days ago
+   &#9733 225, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -89,7 +89,7 @@
   </a>
   - Nginx module for automatic PageSpeed optimization
   <sup>
-   &#9733 3011, pushed 4 days ago
+   &#9733 3011, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -102,7 +102,7 @@
    grunt-penthouse
   </a>
   <sup>
-   &#9733 64, pushed 72 days ago
+   &#9733 64, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -110,7 +110,7 @@
    grunt-critical-css
   </a>
   <sup>
-   &#9733 506, pushed 85 days ago
+   &#9733 506, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -118,7 +118,7 @@
    grunt-critical
   </a>
   <sup>
-   &#9733 81, pushed 128 days ago
+   &#9733 81, pushed 252 days ago
   </sup>
  </li>
 </ul>
@@ -132,7 +132,7 @@
   </a>
   - CasperJS script to pull critical CSS information from pages
   <sup>
-   &#9733 68, pushed 763 days ago
+   &#9733 68, pushed 888 days ago
   </sup>
  </li>
 </ul>
@@ -146,7 +146,7 @@
   </a>
   - PhantomJS script to inline above-the-fold CSS on a page.
   <sup>
-   &#9733 58, pushed 602 days ago
+   &#9733 58, pushed 727 days ago
   </sup>
  </li>
 </ul>
@@ -168,7 +168,7 @@
   </code>
   tags + inlines CSS url() calls with data URIs
   <sup>
-   &#9733 21, pushed 652 days ago
+   &#9733 21, pushed 777 days ago
   </sup>
  </li>
  <li>
@@ -189,7 +189,7 @@
   </code>
   tags with their inline content
   <sup>
-   &#9733 97, pushed 282 days ago
+   &#9733 97, pushed 407 days ago
   </sup>
  </li>
  <li>
@@ -201,7 +201,7 @@
    loadCSS
   </code>
   <sup>
-   &#9733 39, pushed 4 days ago
+   &#9733 39, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -232,7 +232,7 @@
   </a>
   that led to this is also available.
   <sup>
-   &#9733 3130, pushed 19 days ago
+   &#9733 3130, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -247,7 +247,7 @@
   </a>
   - async script/stylesheet loader
   <sup>
-   &#9733 0, pushed 495 days ago
+   &#9733 0, pushed 620 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +304,7 @@
   </a>
   by ndreckshage
   <sup>
-   &#9733 33, pushed 965 days ago
+   &#9733 33, pushed 1089 days ago
   </sup>
  </li>
 </ul>
@@ -332,7 +332,7 @@
   </a>
   is available.
   <sup>
-   &#9733 2125, pushed 25 days ago
+   &#9733 2125, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -370,7 +370,7 @@
   </a>
   build tools.
   <sup>
-   &#9733 3684, pushed 5 days ago
+   &#9733 3684, pushed 130 days ago
   </sup>
  </li>
 </ul>

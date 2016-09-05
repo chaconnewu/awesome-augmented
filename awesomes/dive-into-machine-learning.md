@@ -308,7 +308,7 @@
   </a>
   )
   <sup>
-   &#9733 169, pushed 151 days ago
+   &#9733 169, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -349,7 +349,7 @@
   </a>
   . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
   <sup>
-   &#9733 5541, pushed 4 days ago
+   &#9733 5541, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -484,6 +484,17 @@
   )
  </li>
  <li>
+  Kevin Markham's video series,
+  <a href="http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/">
+   Intro to Machine Learning with scikit-learn
+  </a>
+  , starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's
+  <a href="https://github.com/justmarkham/DAT8">
+   General Assembly's Data Science course.
+  </a>
+  Interactive. Markham's course is also offered in-person in Washington, DC.
+ </li>
+ <li>
   Data science courses as IPython Notebooks:
   <ul>
    <li>
@@ -503,37 +514,10 @@
     </a>
     . "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
     <sup>
-     &#9733 5541, pushed 4 days ago
+     &#9733 5541, pushed 129 days ago
     </sup>
    </li>
   </ul>
- </li>
- <li>
-  Kevin Markham's video series,
-  <a href="http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/">
-   Intro to Machine Learning with scikit-learn
-  </a>
-  , starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's
-  <a href="https://github.com/justmarkham/DAT8">
-   General Assembly's Data Science course.
-  </a>
-  Interactive. (Older versions:
-  <a href="https://github.com/justmarkham/DAT7">
-   7
-  </a>
-  ,
-  <a href="https://github.com/justmarkham/DAT5">
-   5
-  </a>
-  ,
-  <a href="https://github.com/justmarkham/DAT4">
-   4
-  </a>
-  ,
-  <a href="https://github.com/justmarkham/DAT3">
-   3
-  </a>
-  .) Markham's course is also offered in-person in Washington, DC.
  </li>
  <li>
   Prof. Mark A. Girolami's
@@ -542,7 +526,7 @@
   </a>
   Good for people with a strong mathematics background.
   <sup>
-   &#9733 258, pushed 1833 days ago
+   &#9733 258, pushed 1957 days ago
   </sup>
  </li>
  <li>
@@ -750,7 +734,7 @@
 </h3>
 <p>
  From
- <a href="https://www.metacademy.org/roadmaps/rgrosse/bayesian_machine_learning">
+ <a href="https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning">
   the "Bayesian Machine Learning" overview on Metacademy
  </a>
  :
@@ -943,7 +927,15 @@ data." Pedro Domingos, in
  . These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 </p>
 <p>
- Competitions and challenges are one way to practice. You shouldn't limit yourself, though.
+ Competitions and challenges are one way to practice. You shouldn't limit yourself, though - and you should also understand that
+ <a href="http://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions">
+  Machine Learning isn't
+  <strong>
+   all
+  </strong>
+  about Kaggle competitions
+ </a>
+ .
 </p>
 <p>
  Here's a complementary way to practice:
@@ -1130,9 +1122,40 @@ data." Pedro Domingos, in
  </a>
  Equally relevant to InfoSec and AppSec.
 </p>
-<h2>
- Big Data?
-</h2>
+<h3>
+ Deep Learning
+</h3>
+<p>
+ In early editions of this guide, there was no specific "Deep Learning" section. I omitted it intentionally. I think it is not effective for us to jump too far ahead. I also know that if you become an expert in traditional Machine Learning, you'll be capable of moving onto advanced subjects like Deep Learning, whether or not I've put that in this guide. We're just trying to get you started here!
+</p>
+<p>
+ Maybe this is a way to check your progress: ask yourself, does Deep Learning seem like magic? If so, take that as a sign that you aren't ready to work with it professionally. Let the fascination motivate you to learn more. I have read some argue you can learn Deep Learning in isolation; I have read others recommend it's best to master traditional Machine Learning first. Why not start with traditional Machine Learning, and develop your reasoning and intuition there? You'll only have an easier time learning Deep Learning after that. After all of it, you'll able to tackle all sorts of interesting problems.
+</p>
+<p>
+ In any case, when you decide you're ready to dive into Deep Learning, here are some helpful resources.
+</p>
+<ul>
+ <li>
+  <strong>
+   <a href="http://www.deeplearningbook.org/">
+    <em>
+     Deep Learning
+    </em>
+   </a>
+   , a free book published MIT Press.
+  </strong>
+  By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+ </li>
+ <li>
+  <a href="https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer">
+   Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"
+  </a>
+  — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
+ </li>
+</ul>
+<h3>
+ "Big" Data?
+</h3>
 <p>
  Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it.
  <a href="http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype">
@@ -1185,11 +1208,53 @@ data." Pedro Domingos, in
  </li>
 </ul>
 <p>
- Also:
- <a href="http://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/">
-  10 things statistics taught us about big data analysis
- </a>
+ And here are some things to read and listen to:
 </p>
+<ul>
+ <li>
+  <a href="http://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/">
+   10 things statistics taught us about big data analysis
+  </a>
+  (and some more food for thought:
+  <a href="http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists">
+   "What Statisticians think about Data Scientists"
+  </a>
+  )
+ </li>
+ <li>
+  <a href="http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data">
+   "Talking Machines" #12
+  </a>
+  : Interviews Prof. Andrew Ng (from
+  <a href="https://www.coursera.org/learn/machine-learning">
+   our main course, which has its own module on big data
+  </a>
+  ); this episode covers some problems relevant to
+  <em>
+   high-dimensional
+  </em>
+  data
+ </li>
+ <li>
+  <a href="http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business">
+   "Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"
+  </a>
+ </li>
+ <li>
+  Free eBook,
+  <a href="http://www.tamr.com/landing-pages/getting-data-right/">
+   <em>
+    Getting Data Right: Tackling the Challenges of
+Big Data Volume and Variety
+   </em>
+  </a>
+  by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can
+  <a href="https://soundcloud.com/oreilly-radar/the-future-of-data-at-scale">
+   listen to an accompanying podcast
+  </a>
+  too.
+ </li>
+</ul>
 <h2>
  Finding Open-Source Libraries
 </h2>
@@ -1207,8 +1272,30 @@ data." Pedro Domingos, in
   </a>
   Machine Learning libraries and software.
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  Bookmark
+  <a href="https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning">
+   Pythonidae
+  </a>
+  , a curated list of
+  <a href="https://github.com/bayandin/awesome-awesomeness">
+   awesome
+  </a>
+  libraries and software in the Python language - with a section on Machine Learning.
+ </li>
+ <li>
+  Bookmark
+  <a href="https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning">
+   Julia.jl
+  </a>
+  , a curated list of
+  <a href="https://github.com/bayandin/awesome-awesomeness">
+   awesome
+  </a>
+  libraries and software in the Julia language - with a section on Machine Learning.
  </li>
  <li>
   <a href="http://www.tensorflow.org/">
@@ -1236,29 +1323,7 @@ data." Pedro Domingos, in
   <a href="https://github.com/nlintz/TensorFlow-Tutorials">
    nlintz/TensorFlow-Tutorials
   </a>
-  .
- </li>
- <li>
-  Bookmark
-  <a href="https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning">
-   Pythonidae
-  </a>
-  , a curated list of
-  <a href="https://github.com/bayandin/awesome-awesomeness">
-   awesome
-  </a>
-  libraries and software in the Python language - with a section on Machine Learning.
- </li>
- <li>
-  Bookmark
-  <a href="https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning">
-   Julia.jl
-  </a>
-  , a curated list of
-  <a href="https://github.com/bayandin/awesome-awesomeness">
-   awesome
-  </a>
-  libraries and software in the Julia language - with a section on Machine Learning.
+  . See also the section on Deep Learning above.
  </li>
  <li>
   For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's
@@ -1266,6 +1331,16 @@ data." Pedro Domingos, in
    MLOSS (Machine Learning Open Source Software)
   </a>
   . Seems to feature many academic libraries.
+ </li>
+ <li>
+  <a href="http://www.creativeai.net/">
+   CreativeAi.net
+  </a>
+  . OK not exactly about
+  <em>
+   libraries
+  </em>
+  , but this is often intriguing, and worth subscribing to  ... warning, it's easy to get sucked in :)
  </li>
 </ul>
 <h2>
@@ -1276,10 +1351,23 @@ data." Pedro Domingos, in
 </p>
 <ul>
  <li>
-  <a href="http://xyclade.github.io/MachineLearning/">
-   Machine Learning for Developers
+  <a href="http://sebastianraschka.com/faq/docs/ml-curriculum.html">
+   "How would your curriculum for a machine learning beginner look like?"
   </a>
-  is another good introduction. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
+  by Sebastian Raschka. A selection of the core online courses and books for getting started with machine learning and gaining expert knowledge. It contextualizes Raschka's own book,
+  <a href="https://github.com/rasbt/python-machine-learning-book">
+   <em>
+    Python Machine Learning
+   </em>
+  </a>
+  (which I would have linked to anyway!) See also
+  <a href="https://github.com/rasbt/pattern_classification">
+   <code>
+    pattern_classification
+   </code>
+   GitHub repository
+  </a>
+  maintained by the author, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
  </li>
  <li>
   <a href="http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/">
@@ -1288,13 +1376,10 @@ data." Pedro Domingos, in
   by Jack Simpson
  </li>
  <li>
-  <a href="https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit">
-   How to Machine Learn
+  <a href="http://xyclade.github.io/MachineLearning/">
+   Machine Learning for Developers
   </a>
-  by
-  <a href="http://gwulfs.github.io/">
-   Gideon Wulfsohn
-  </a>
+  is another good introduction, perhaps better if you're more familiar with Java or Scala. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
  </li>
  <li>
   <a href="https://gist.github.com/hangtwenty/a15c8bed5b120eebf352">
@@ -1307,25 +1392,6 @@ data." Pedro Domingos, in
    Example Machine Learning notebook, exercise, and guide
   </a>
   by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
- </li>
- <li>
-  <a href="http://sebastianraschka.com/faq/docs/ml-curriculum.html">
-   "How would your curriculum for a machine learning beginner look like?"
-  </a>
-  by Sebastian Raschka. A selection of the core online courses and books for getting started with machine learning and gaining expert knowledge.
- </li>
- <li>
-  The
-  <a href="https://github.com/rasbt/pattern_classification">
-   <code>
-    pattern_classification
-   </code>
-   GitHub repository
-  </a>
-  maintained by Sebastian Raschka, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
-  <sup>
-   &#9733 1661, pushed 58 days ago
-  </sup>
  </li>
  <li>
   [Your guide here]

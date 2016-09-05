@@ -19,6 +19,7 @@
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Other Awesome Lists](#other-awesome-lists)
+* [Comics](#comics)
 
 
 ## Motivation
@@ -67,11 +68,13 @@ Preview | Description
 ## COLLEGES
 
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-* [Data Science Degree @ Berkeley](datascience.berkeley.edu)
+* [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
 * [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
+* [MS in Computer Information Systems @ Boston University](https://cisonline.bu.edu/)
 * [MS in Business Analytics @ ASU Online] (http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+* [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
 
 ## MOOC's
 
@@ -134,6 +137,7 @@ Preview | Description
 * [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 * [GHDx](http://ghdx.healthdata.org/catalog) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 * [St. Louis Federal Reserve Economic Data - FRED](http://research.stlouisfed.org/fred2/)
+* [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 * [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/data_classic_sources.html)
 * [Open Data Sources](https://github.com/datasciencemasters/data)
 * [UNICEF Statistics and Monitoring](http://www.unicef.org/statistics/)
@@ -146,7 +150,6 @@ Preview | Description
 * [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
-* [Google Public Data](https://www.google.com/publicdata)
 * [Open data Index](http://index.okfn.org/)
 
 ## Bloggers
@@ -231,6 +234,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](http://springboard.com/blog) - A blog with resources for data science learners
+- [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
 
 ## Facebook Accounts
 
@@ -255,6 +259,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
 - [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
+- [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 ## Twitter Accounts
 
@@ -289,6 +294,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
 - [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) - Organizer of http://sddatascience.com
+- [Kevin Markham](https://twitter.com/justmarkham) - Data science instructor, and founder of [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees) - Interactive data visualization and tools. Data flaneur.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
@@ -434,6 +440,9 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 
+## Comics
+* [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
+
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
@@ -444,3 +453,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets). – An awesome list of high-quality open datasets in public domains
+ - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

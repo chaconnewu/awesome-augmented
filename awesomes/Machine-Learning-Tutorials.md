@@ -1,23 +1,51 @@
 <h1>
- Machine Learning Tutorials
+ Machine Learning & Deep Learning Tutorials
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
 </h1>
-<p>
- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this
- <a href="https://github.com/sindresorhus/awesome">
-  list
- </a>
- .
-</p>
-<p>
- If you want to contribute to this list, please read
- <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md">
-  Contributing Guidelines
- </a>
- .
-</p>
+<ul>
+ <li>
+  <p>
+   This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this
+   <a href="https://github.com/sindresorhus/awesome">
+    list
+   </a>
+   .
+  </p>
+  <sup>
+   &#9733 34522, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <p>
+   If you want to contribute to this list, please read
+   <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md">
+    Contributing Guidelines
+   </a>
+   .
+  </p>
+ </li>
+ <li>
+  <p>
+   <a href="https://github.com/ujjwalkarn/DataScienceR">
+    Curated list of R tutorials for Data Science, NLP and Machine Learning
+   </a>
+   .
+  </p>
+  <sup>
+   &#9733 15, pushed 143 days ago
+  </sup>
+ </li>
+ <li>
+  <p>
+   <a href="https://github.com/ujjwalkarn/DataSciencePython">
+    Curated list of Python tutorials for Data Science, NLP and Machine Learning
+   </a>
+   .
+  </p>
+ </li>
+</ul>
 <h2>
  Table of Contents
 </h2>
@@ -131,7 +159,7 @@
    </li>
    <li>
     <a href="#cnn">
-     Convolution Neural Nets
+     Convolutional Neural Nets
     </a>
    </li>
   </ul>
@@ -232,7 +260,7 @@
    A curated list of awesome Machine Learning frameworks, libraries and software
   </a>
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -240,7 +268,7 @@
    A curated list of awesome data visualization libraries and resources.
   </a>
   <sup>
-   &#9733 431, pushed 11 days ago
+   &#9733 431, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -248,7 +276,7 @@
    An awesome Data Science repository to learn and apply for real world problems
   </a>
   <sup>
-   &#9733 2359, pushed 8 days ago
+   &#9733 2359, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -316,8 +344,13 @@
    TheAnalyticsEdge edX Notes and Codes
   </a>
   <sup>
-   &#9733 6, pushed 386 days ago
+   &#9733 6, pushed 511 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">
+   In-depth introduction to machine learning in 15 hours of expert videos
+  </a>
  </li>
 </ul>
 <p>
@@ -362,7 +395,7 @@
    Awesome Artificial Intelligence (GitHub Repo)
   </a>
   <sup>
-   &#9733 1518, pushed 27 days ago
+   &#9733 1518, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -423,7 +456,7 @@
      Genetic Programming in Python (GitHub)
     </a>
     <sup>
-     &#9733 250, pushed 11 days ago
+     &#9733 250, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -458,7 +491,7 @@
   </a>
   - Learn Statistics using an application-centric programming approach
   <sup>
-   &#9733 327, pushed 193 days ago
+   &#9733 327, pushed 317 days ago
   </sup>
  </li>
  <li>
@@ -512,6 +545,12 @@
   <a href="http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html">
    What are QQ Plots?
   </a>
+ </li>
+ <li>
+  <a href="https://www.openintro.org/stat/textbook.php?stat_book=os">
+   OpenIntro Statistics
+  </a>
+  - Free PDF textbook
  </li>
 </ul>
 <p>
@@ -571,7 +610,7 @@
   - A blog by three biostatistics professors
  </li>
  <li>
-  <a href="http://yanirseroussi.com/">
+  <a href="https://yanirseroussi.com/">
    Yanir Seroussi's Blog
   </a>
   - A blog about Data Science and beyond
@@ -683,7 +722,7 @@
 </h2>
 <ul>
  <li>
-  <a href="http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/">
+  <a href="https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/">
    How to almost win Kaggle Competitions
   </a>
  </li>
@@ -700,6 +739,11 @@
  <li>
   <a href="http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/">
    Predicting CTR with Online ML
+  </a>
+ </li>
+ <li>
+  <a href="https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/">
+   How to Rank 10% in Your First Kaggle Competition
   </a>
  </li>
 </ul>
@@ -725,7 +769,7 @@
    Machine Learning Cheat Sheet
   </a>
   <sup>
-   &#9733 1234, pushed 20 days ago
+   &#9733 1234, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -761,6 +805,11 @@
   <a href="http://www.dataschool.io/roc-curves-and-auc-explained/">
    ROC and AUC Explained
   </a>
+  (
+  <a href="https://youtu.be/OAl6eAyP-yo">
+   related video
+  </a>
+  )
  </li>
  <li>
   <a href="https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf">
@@ -816,7 +865,7 @@
     </a>
    </li>
    <li>
-    <a href="http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed">
+    <a href="https://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed">
      Is linear regression valid when the dependant variable is not normally distributed?
     </a>
    </li>
@@ -833,7 +882,7 @@
     </a>
    </li>
    <li>
-    <a href="http://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/">
+    <a href="https://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/">
      Dealing with multicollinearity using VIFs
     </a>
    </li>
@@ -945,6 +994,11 @@ Elastic Net
   ,
   <a href="http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm">
    Other Details
+  </a>
+ </li>
+ <li>
+  <a href="http://www.dataschool.io/guide-to-logistic-regression/">
+   Guide to an in-depth understanding of logistic regression
   </a>
  </li>
 </ul>
@@ -1079,7 +1133,7 @@ Performance Evaluation
    A curated list of awesome Deep Learning tutorials, projects and communities
   </a>
   <sup>
-   &#9733 1922, pushed 8 days ago
+   &#9733 1922, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1097,12 +1151,12 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/">
+  <a href="https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/">
    Core Concepts of Deep Learning
   </a>
  </li>
  <li>
-  <a href="http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">
+  <a href="https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">
    Understanding Natural Language with Deep Neural Networks Using Torch
   </a>
  </li>
@@ -1149,7 +1203,7 @@ Performance Evaluation
    Good Introduction Slides
   </a>
   <sup>
-   &#9733 49, pushed 181 days ago
+   &#9733 49, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -1201,7 +1255,7 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks">
+  <a href="https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks">
    AWESOME! Deep Learning Tutorial
   </a>
  </li>
@@ -1248,20 +1302,20 @@ Performance Evaluation
   </p>
   <ul>
    <li>
-    <a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/">
+    <a href="https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/">
      Introduction to Neural Machine Translation with GPUs (part 1)
     </a>
     ,
-    <a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/">
+    <a href="https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/">
      Part 2
     </a>
     ,
-    <a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/">
+    <a href="https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/">
      Part 3
     </a>
    </li>
    <li>
-    <a href="http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/">
+    <a href="https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/">
      Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning
     </a>
    </li>
@@ -1298,7 +1352,7 @@ Performance Evaluation
     - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
     - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
     - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
-    - [Deep Learning Implementation Tutorials - Keras and Lasagne](http://github.com/vict0rsch/deep_learning/)
+    - [Deep Learning Implementation Tutorials - Keras and Lasagne](https://github.com/vict0rsch/deep_learning/)
 
 - [Torch](http://torch.ch/)
     - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
@@ -1311,7 +1365,7 @@ Performance Evaluation
     - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
 - Caffe
-    - [Deep Learning for Computer Vision with Caffe and cuDNN](http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
+    - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
 
 - TensorFlow 
     - [Website](http://tensorflow.org/)
@@ -1319,12 +1373,17 @@ Performance Evaluation
     - [Simplified Scikit-learn Style Interface to TensorFlow](https://github.com/tensorflow/skflow)
     - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
     - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
+    - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
 </code></pre>
 <p>
  <a name="feed">
  </a>
  - Feed Forward Networks
     -
+ <a href="https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/">
+  A Quick Introduction to Neural Networks
+ </a>
+ -
  <a href="http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/">
   Implementing a Neural Network from scratch
  </a>
@@ -1446,7 +1505,7 @@ Performance Evaluation
   Simple RNN
  </a>
  -
- <a href="http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/">
+ <a href="https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/">
   Auto-Generating Clickbait with RNN
  </a>
  -
@@ -1610,8 +1669,12 @@ Performance Evaluation
 <p>
  <a name="cnn">
  </a>
- - Convolution Networks
+ - Convolutional Neural Networks
     -
+ <a href="https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/">
+  An Intuitive Explanation of Convolutional Neural Networks
+ </a>
+ -
  <a href="https://github.com/kjw0612/awesome-deep-vision">
   Awesome Deep Vision: List of Resources (GitHub)
  </a>
@@ -1669,7 +1732,7 @@ Performance Evaluation
    A curated list of speech and natural language processing resources
   </a>
   <sup>
-   &#9733 1193, pushed 106 days ago
+   &#9733 1193, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -1768,7 +1831,7 @@ Performance Evaluation
     </a>
    </li>
    <li>
-    <a href="http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/">
+    <a href="https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/">
      Topic modeling made just simple enough
     </a>
    </li>
@@ -1808,7 +1871,7 @@ Performance Evaluation
  </a>
  - word2vec
     -
- <a href="https://code.google.com/p/word2vec/">
+ <a href="https://code.google.com/archive/p/word2vec">
   Google word2vec
  </a>
  -
@@ -1943,7 +2006,7 @@ Performance Evaluation
    Awesome computer vision (github)
   </a>
   <sup>
-   &#9733 1254, pushed 46 days ago
+   &#9733 1254, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1951,7 +2014,7 @@ Performance Evaluation
    Awesome deep vision (github)
   </a>
   <sup>
-   &#9733 1273, pushed 8 days ago
+   &#9733 1273, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -2122,7 +2185,7 @@ Performance Evaluation
    Awesome Reinforcement Learning (GitHub)
   </a>
   <sup>
-   &#9733 225, pushed 23 days ago
+   &#9733 225, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2194,7 +2257,7 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values">
+  <a href="https://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values">
    Using Surrogates to Improve Datasets with Missing Values
   </a>
  </li>
@@ -2365,7 +2428,7 @@ Performance Evaluation
    Awesome Random Forest (GitHub)**
   </a>
   <sup>
-   &#9733 212, pushed 209 days ago
+   &#9733 212, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -2389,7 +2452,7 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://www.jstatsoft.org/article/view/v050i11">
+  <a href="https://www.jstatsoft.org/index.php/jss/article/view/v050i11">
    Evaluating Random Forests for Survival Analysis Using Prediction Error Curve
   </a>
  </li>
@@ -2524,6 +2587,11 @@ Performance Evaluation
      xgboost survey
     </a>
    </li>
+   <li>
+    <a href="http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python">
+     Practical XGBoost in Python online course (free)
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -2652,7 +2720,7 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf">
+  <a href="http://www.ijcai.org/Proceedings/97-2/011.pdf">
    Stacked Generalization: when does it work?
   </a>
  </li>
@@ -2714,7 +2782,7 @@ Performance Evaluation
    Bayesian Methods for Hackers (using pyMC)
   </a>
   <sup>
-   &#9733 9693, pushed 6 days ago
+   &#9733 9693, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2737,7 +2805,7 @@ Performance Evaluation
   </a>
  </li>
  <li>
-  <a href="http://greenteapress.com/thinkbayes/">
+  <a href="http://greenteapress.com/wp/think-bayes/">
    Bayesian Statistics Made Simple
   </a>
  </li>
@@ -2746,7 +2814,7 @@ Performance Evaluation
    Kalman & Bayesian Filters in Python
   </a>
   <sup>
-   &#9733 1511, pushed 10 days ago
+   &#9733 1511, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2871,7 +2939,14 @@ Learning
   </a>
   .
   <sup>
-   &#9733 15, pushed 18 days ago
+   &#9733 15, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  For a collection of Data Science Tutorials using Python, please refer to
+  <a href="https://github.com/ujjwalkarn/DataSciencePython">
+   this list
+  </a>
+  .
  </li>
 </ul>

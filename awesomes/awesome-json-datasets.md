@@ -87,6 +87,11 @@
   </a>
  </li>
  <li>
+  <a href="#nasa">
+   NASA
+  </a>
+ </li>
+ <li>
   <a href="#nodejs-api">
    Node.js API
   </a>
@@ -114,6 +119,16 @@
  <li>
   <a href="#weather">
    Weather
+  </a>
+ </li>
+ <li>
+  <a href="#open-source-licenses">
+   Open Source Licenses
+  </a>
+ </li>
+ <li>
+  <a href="#other">
+   Other
   </a>
  </li>
  <li>
@@ -1354,7 +1369,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 1014, pushed 12 days ago
+   &#9733 1014, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1369,6 +1384,49 @@
    q=cartman+brah
   </code>
   .
+ </p>
+</blockquote>
+<h2>
+ NASA
+</h2>
+<ul>
+ <li>
+  <a href="http://www.nasa.gov/digitalstrategy/costsavings.json">
+   Cost Savings
+  </a>
+ </li>
+ <li>
+  <a href="http://www.nasa.gov/digitalstrategy/bureaudirectory.json">
+   Bureau Directory
+  </a>
+ </li>
+ <li>
+  <a href="https://data.nasa.gov/api/views/eiwv-s7fe">
+   Electric Arc Shock Tube (EAST) Test 52 Data
+  </a>
+ </li>
+ <li>
+  <a href="https://data.nasa.gov/api/views/jh9h-68aq">
+   Realized Cost Savings and Avoidance Decisions
+  </a>
+ </li>
+ <li>
+  <a href="https://data.nasa.gov/api/views/njat-edii">
+   NASA Educational Resources
+  </a>
+ </li>
+ <li>
+  <a href="https://data.nasa.gov/api/views/vdbj-basa">
+   ISS Expedition 01 Press Kit
+  </a>
+ </li>
+</ul>
+<blockquote>
+ <p>
+  Find more NASA datasets
+  <a href="https://data.nasa.gov/data?category=&search=&type=href">
+   here
+  </a>
  </p>
 </blockquote>
 <h2>
@@ -1551,6 +1609,79 @@
   </a>
  </li>
 </ul>
+<h2>
+ Open Source Licenses
+</h2>
+<ul>
+ <li>
+  <a href="https://api.opensource.org/licenses/">
+   All
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/copyleft">
+   Copyleft
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/osi-approved">
+   OSI Approved
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/redundant">
+   Redundant
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/permissive">
+   Permissive
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/obsolete">
+   Obsolete
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/miscellaneous">
+   Misc
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/popular">
+   Popular
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/discouraged">
+   Discouraged
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/non-reusable">
+   Non-reusable
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/special-purpose">
+   Special Purpose
+  </a>
+ </li>
+ <li>
+  <a href="https://api.opensource.org/licenses/retired">
+   Retired
+  </a>
+ </li>
+</ul>
+<blockquote>
+ <p>
+  Become an OSI member
+  <a href="https://opensource.org/civicrm/contribute/transact?reset=1&id=1">
+   here
+  </a>
+ </p>
+</blockquote>
 <h2>
  Population
 </h2>
@@ -1921,150 +2052,82 @@
 </h2>
 <ul>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Los_Angeles">
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Los%20Angeles%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
    Los Angeles
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=New_York">
-   New York
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Atlanta">
-   Atlanta
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=chicago">
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Chicago%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
    Chicago
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=miami">
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22New%20York%2C%20NY%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   New York
+  </a>
+ </li>
+ <li>
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Miami%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
    Miami
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=San_Francisco">
-   San Francisco
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22London%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   London
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Charleston">
-   Charleston
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Paris%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Paris
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Las_Vegas">
-   Las Vegas
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Berlin%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Berlin
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Seattle">
-   Seattle
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Moscow%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Moscow
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Washington_DC">
-   Washington DC
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Jerusalem%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Jerusalem
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=New_Orleans">
-   New Orleans
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Tokyo%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Tokyo
   </a>
  </li>
  <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Louisville">
-   Louisville
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Portland">
-   Portland
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Ashburn">
-   Ashburn
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Nashville">
-   Nashville
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Austin">
-   Austin
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Saint_Louis">
-   Saint Louis
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Sedona">
-   Sedona
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Honolulu">
-   Honolulu
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Branson">
-   Branson
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Boston">
-   Boston
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Savannah">
-   Savannah
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Orlando">
-   Orlando
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Lahaina">
-   Lahaina
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Saint_Augustine">
-   Saint Augustine
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=San_Antonio">
-   San Antonio
-  </a>
- </li>
- <li>
-  <a href="http://api.openweathermap.org/data/2.5/weather?q=Dallas">
-   Dallas
+  <a href="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Sydney%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys">
+   Sydney
   </a>
  </li>
 </ul>
 <blockquote>
  <p>
-  Pro Tip: replace the field-value for a city not listed e.g.
-  <code>
-   weather?q=city_name
-  </code>
-  .
+  Pro Tip: generate URLs for any location at
+  <a href="https://developer.yahoo.com/weather/">
+   Yahoo Weather API
+  </a>
  </p>
 </blockquote>
+<h2>
+ Other
+</h2>
+<ul>
+ <li>
+  <a href="https://dumps.wikimedia.org/other/wikidata/">
+   Wikidata
+  </a>
+  <em>
+   Gigabytes of Gzipped JSON
+  </em>
+ </li>
+</ul>
 <h2>
  More Awesome Lists
 </h2>
@@ -2077,16 +2140,26 @@
    (The OG List)
   </em>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jdorfman/awesome-help-wanted">
+   Help Wanted
+  </a>
+  <em>
+   (Open Source projects looking for Help)
+  </em>
  </li>
  <li>
   <a href="https://github.com/burningtree/awesome-json">
    JSON
   </a>
-  (Libraries and Resources)
+  <em>
+   (Libraries and Resources)
+  </em>
   <sup>
-   &#9733 306, pushed 25 days ago
+   &#9733 306, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -2097,7 +2170,7 @@
    (Web Performance Optimization)
   </em>
   <sup>
-   &#9733 5366, pushed 14 days ago
+   &#9733 5366, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -2108,7 +2181,7 @@
    (CLI Frameworks, Toolkits and Guides)
   </em>
   <sup>
-   &#9733 6673, pushed 17 days ago
+   &#9733 6673, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -2119,7 +2192,7 @@
    (Datasets beyond just JSON)
   </em>
   <sup>
-   &#9733 13887, pushed 6 days ago
+   &#9733 13887, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2130,7 +2203,7 @@
    (Programming Languages, Platforms, Frameworks)
   </em>
   <sup>
-   &#9733 364, pushed 0 days ago
+   &#9733 364, pushed 125 days ago
   </sup>
  </li>
 </ul>

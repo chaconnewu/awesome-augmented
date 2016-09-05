@@ -20,7 +20,8 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Monitor Color Correction](#monitor-color-correction)
 - [Alternative Image Viewers](#alternative-image-viewers)
 - [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#community)
+- [Communities](#communities)
+- [Resources](#resources)
 - [Video](#video)
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
@@ -42,6 +43,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.*
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
+- [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.*
 
 ## Libraries
 
@@ -64,7 +66,6 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
-- [Koken](http://koken.me) - *Content management and web site publishing for photographers*
 
 
 ## RAW image developers
@@ -93,6 +94,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Shotwell](http://yorba.org/shotwell/) - *A photo manager for GNOME 3*
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
+- [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
 
 ## EXIF Editors
 
@@ -124,7 +126,14 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Communities
 - [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
 - [/r/FOSSPhotography](http://reddit.com/r/fossphotography) - *Community about Free open source software for Photography on reddit.*
+- [Open Source Photography Community on Google+](https://plus.google.com/u/0/communities/110647644928874455108)
+- [Open Source Photography Group on Facebook](https://www.facebook.com/groups/326042310770868/)
+- [Open Source Photography Sub on Reddit](https://www.reddit.com/r/opensourcephotography)
+- [Open Source Photography Group on 500px](https://500px.com/groups/open-source-photography)
+- [PIXLS.US](https://pixls.us) - *Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools*
 
+## Resources
+- [Unsplash.com](https://unsplash.com/) - *Free (do whatever you want) high-resolution photos.*
 
 ## Video 
 

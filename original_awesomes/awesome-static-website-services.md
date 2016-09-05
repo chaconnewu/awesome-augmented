@@ -11,9 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Android Editors](#android-editors)
   - [Markdown Editors](#markdown-editors)
 - [Command Line Tools](#command-line-tools)
-- [Themes](#themes)
-  - [Jekyll Themes](#jekyll-themes)
-- [Static Site Generators](#static-site-generators)
 - [Embeddable Content](#embeddable-content)
   - [Audio](#audio)
   - [Books](#books)
@@ -36,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [E-Commerce](#e-commerce)
 - [Search](#search)
 - [Analytics](#analytics)
+- [Showcases](#showcases)
 
 ---
 
@@ -45,11 +43,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Appernetic] (https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
-- [Content Editor](https://github.com/mushishi78/content-editor)- A web interface for editing documents on GitHub.
+- [Content Editor](https://github.com/mushishi78/content-editor) - A web interface for editing documents on GitHub.
 - [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
 - [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
-- [Siteleaf](http://www.siteleaf.com/)- Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
+- [Siteleaf](http://www.siteleaf.com/) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - [Surreal CMS](http://www.surrealcms.com/) - Hosted CMS for static sites over FTP or Amazon S3.
 
 ### Android Editors
@@ -60,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Git2Go](https://github.com/herrbischoff/awesome-osx-command-line) - A git client for iPhone and iPad.
 - [Working Copy](http://workingcopyapp.com/) - A powerful git client for iOS.
+- [Editorial](http://omz-software.com/editorial/) - Plaintext/Markdown editor, programmable workflows, templates, can post to GitHub Pages and other platforms.
 
 ### Markdown Editors
 
@@ -77,25 +76,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 - [jtasks](https://github.com/pavdmyt/jtasks) - A set of configurable tasks for Jekyll projects.
 
-## Themes
-
-### Jekyll Themes
-
-- [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
-- [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes)- List of themes on the Jekyll wiki.
-- [JekyllThemes.io](http://jekyllthemes.io/) - Premium and Free Jekyll Themes.
-
-## Static Site Generators
-
-- [StaticGen](http://www.staticgen.com/)- Website showing static site generators and a lot of info about them.
-
 ## Embeddable Content
 
 ### Audio
 
 - [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
 - [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
-- [Spotify](https://www.spotify.com/)- You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
+- [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
 
 ### Books
 
@@ -141,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Codepen](http://codepen.io/) - A playground of embeddable front-end code examples.
 - [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
+- [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 
 ## Community
 
@@ -159,12 +147,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Formspree](http://formspree.io/) - Receive emails from a form on your static website.
 - [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
 - [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
-- [MailThis](http://mailthis.to/)- Simple form submissions via email with optional attachments.
+- [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
+- [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
 #### Normal Forms
 
-- [Google Forms](https://www.google.com/forms/about/)- Saves results into Google Sheets and can email you when there is a submission.
+- [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
 - [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
 - [FormAssembly](http://www.formassembly.com/)
@@ -222,6 +211,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
 - [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
 - [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
+- [GitLab Pages](https://pages.gitlab.io/) - Free static hosting from GitLab.
+- [Aerobatic](https://www.aerobatic.com) - Free hosting with SSL, CDN, Automatic Builds, and CORS proxy
 
 ### Hosting Tools
 
@@ -232,15 +223,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ecwid](www.ecwid.com) - Embeddable shopping cart.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
+- [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 
 ## Search
 
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
 - [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
+- [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 
 ## Analytics
 
 - [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
+
+## Showcases
+
+- [Static Showdown](https://staticshowdown.com) - Worldwide 48-hour virtual hackathon for progressive web apps.
+
+----
 
 ## License
 

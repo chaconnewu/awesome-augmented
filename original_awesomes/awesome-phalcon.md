@@ -11,7 +11,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors); you rock!
 
-[Join us on Slack](http://chat.phalcontip.com) to chat with other awesome-phalcon maintainers!
+[Join us on Slack](https://slack.phalconphp.com) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
@@ -86,6 +86,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Slayer](https://github.com/phalconslayer/slayer) - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
+* [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service 
+
+
 
 ## Authentication & OAuth
 
@@ -93,7 +96,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 * [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
-
 
 ## CMS & Blogs
 
@@ -133,7 +135,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](http://filp.github.io/whoops/) with Phalcon
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
@@ -215,7 +217,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *These libraries were placed here because none of the other categories seemed to fit*
 
 * [Breadcrumbs](https://github.com/phalcongelist/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+* [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
+* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework
 * [phalcon-demo](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
@@ -258,7 +262,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/softdream/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 
 ## Scaffolding
@@ -285,6 +289,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
 * [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
+* [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
 
 ## SMS
 
@@ -332,7 +337,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 # Server Applications
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
+* [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
+* [phalcon-ansible](https://github.com/ch3k1/phalcon-ansible) - Install Phalcon using Vagrant and Ansible playbook
+* [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
 * [phalcon-compose](https://github.com/sergeyklay/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
@@ -370,10 +378,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ### Tutorials
 
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2)
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2))
 * [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [StackOverflow](http://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
+* [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](http://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses

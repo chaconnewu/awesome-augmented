@@ -103,12 +103,8 @@
   </a>
  </li>
  <li>
-  <a href="http://cssconf.com">
+  <a href="http://cssconf.org">
    CSSConf
-  </a>
-  //
-  <a href="https://twitter.com/CSSConf">
-   @CSSConf
   </a>
  </li>
  <li>
@@ -127,15 +123,6 @@
   //
   <a href="https://twitter.com/Future_Insights">
    @Future_Insights
-  </a>
- </li>
- <li>
-  <a href="https://futureofwebdesign.com/">
-   Future of Web Design
-  </a>
-  //
-  <a href="https://twitter.com/fowd">
-   @FOWD
   </a>
  </li>
  <li>
@@ -187,7 +174,7 @@
    love
   </a>
   <sup>
-   &#9733 16161, pushed 12 days ago
+   &#9733 16161, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -295,6 +282,15 @@
   </a>
  </li>
  <li>
+  <a href="http://cssconf.com">
+   CSSConf US
+  </a>
+  //
+  <a href="https://twitter.com/CSSConf">
+   @CSSConf US
+  </a>
+ </li>
+ <li>
   <a href="http://CSSdevconf.com/">
    CSSDevConf
   </a>
@@ -340,6 +336,15 @@
   //
   <a href="https://twitter.com/djangocon">
    @djangocon
+  </a>
+ </li>
+ <li>
+  <a href="http://2016.dockercon.com/">
+   Dockerconf
+  </a>
+  //
+  <a href="https://twitter.com/dockercon">
+   @dockercon
   </a>
  </li>
  <li>
@@ -435,6 +440,15 @@
   //
   <a href="https://twitter.com/JSConfUS">
    @JSConfUS
+  </a>
+ </li>
+ <li>
+  <a href="http://www.kcdc.info/">
+   KCDC
+  </a>
+  //
+  <a href="https://twitter.com/kc_dc">
+   @kc_dc
   </a>
  </li>
  <li>
@@ -564,12 +578,26 @@
   </a>
  </li>
  <li>
+  <a href="http://phillyemergingtech.com">
+   Philly ETE
+  </a>
+ </li>
+ <li>
   <a href="http://us.pycon.org/">
    PyCon
   </a>
   //
   <a href="https://twitter.com/pycon">
    @pycon
+  </a>
+ </li>
+ <li>
+  <a href="http://www.reactrally.com">
+   React Rally
+  </a>
+  //
+  <a href="https://twitter.com/ReactRally">
+   @ReactRally
   </a>
  </li>
  <li>
@@ -597,6 +625,15 @@
   //
   <a href="https://twitter.com/sassconf">
    @SassConf
+  </a>
+ </li>
+ <li>
+  <a href="http://selfconference.org/">
+   Self Conference
+  </a>
+  //
+  <a href="https://twitter.com/selfconference">
+   @selfconference
   </a>
  </li>
  <li>
@@ -636,12 +673,12 @@
   </a>
  </li>
  <li>
-  <a href="http://www.writespeakcode.com/conference/">
-   Write/Speak/Code Conference
+  <a href="conf.utahjs.com">
+   UtahJS
   </a>
   //
-  <a href="https://twitter.com/writespeakcode">
-   @WriteSpeakCode
+  <a href="https://twitter.com/utjs">
+   @utjs
   </a>
  </li>
  <li>
@@ -736,17 +773,25 @@
   </a>
  </li>
  <li>
+  <a href="http://cssconfar.com">
+   CSSConf Argentina
+  </a>
+  //
+  <a href="https://twitter.com/Css_Conf_AR">
+   @Css
+   <em>
+    Conf
+   </em>
+   AR
+  </a>
+ </li>
+ <li>
   <a href="http://www.frontinaracaju.com.br/">
    Front in Aracaju
   </a>
   //
   <a href="https://twitter.com/frontinaracaju">
    @frontinaracaju
-  </a>
- </li>
- <li>
-  <a href="http://www.frontinbahia.com.br/">
-   Front in Bahia
   </a>
  </li>
  <li>
@@ -849,15 +894,6 @@
   </a>
  </li>
  <li>
-  <a href="http://riojs.org/">
-   Rio.JS
-  </a>
-  //
-  <a href="https://twitter.com/riodejaneirojs">
-   @riodejaneirojs
-  </a>
- </li>
- <li>
   <a href="http://rsjs.org/">
    RSJS
   </a>
@@ -891,6 +927,15 @@
   //
   <a href="https://twitter.com/RubyConfCo">
    @RubyConfCo
+  </a>
+ </li>
+ <li>
+  <a href="http://www.startechconf.com/">
+   StarTechConf Chile
+  </a>
+  //
+  <a href="https://twitter.com/startechconf">
+   @startechconf
   </a>
  </li>
  <li>
@@ -989,12 +1034,30 @@
   </a>
  </li>
  <li>
+  <a href="http://cssconfbp.rocks/">
+   CSSconf Budapest
+  </a>
+  //
+  <a href="https://twitter.com/cssconfbudapest">
+   @cssconfbudapest
+  </a>
+ </li>
+ <li>
   <a href="http://cssconf.eu">
    CSSconf EU
   </a>
   //
   <a href="https://twitter.com/CSSconfeu">
    @CSSconfeu
+  </a>
+ </li>
+ <li>
+  <a href="http://cssconf.no/">
+   CSSconf Nordic
+  </a>
+  //
+  <a href="https://twitter.com/cssconfno">
+   @cssconfno
   </a>
  </li>
  <li>
@@ -1088,12 +1151,8 @@
   </a>
  </li>
  <li>
-  <a href="https://devcon.ethereum.org/">
-   Ethereum Devcon
-  </a>
-  //
-  <a href="https://twitter.com/ethereumproject">
-   @ethereumproject
+  <a href="http://ethereumfoundation.org/devcon/">
+   Ethereum Devcon2
   </a>
  </li>
  <li>
@@ -1169,6 +1228,15 @@
   </a>
  </li>
  <li>
+  <a href="http://www.jfokus.se">
+   JFokus
+  </a>
+  //
+  <a href="https://twitter.com/Jfokus">
+   @Jfokus
+  </a>
+ </li>
+ <li>
   <a href="http://jrubyconf.eu">
    JRubyConf.EU
   </a>
@@ -1230,6 +1298,15 @@
   </a>
  </li>
  <li>
+  <a href="http://humantalks.com/">
+   HumanTalks
+  </a>
+  //
+  <a href="https://twitter.com/HumanTalks">
+   @humantalks
+  </a>
+ </li>
+ <li>
   <a href="http://lxjs.org">
    LXJS
   </a>
@@ -1257,7 +1334,7 @@
   </a>
  </li>
  <li>
-  <a href="http://ngeurope.org/">
+  <a href="https://ngeurope.org">
    ng-europe
   </a>
   //
@@ -1266,12 +1343,48 @@
   </a>
  </li>
  <li>
-  <a href="http://nodeconfeu.com/">
+  <a href="http://ng-nl.org/">
+   ng-nl
+  </a>
+  //
+  <a href="https://twitter.com/ngnlconf">
+   @ngnlconf
+  </a>
+ </li>
+ <li>
+  <a href="http://oscal.openlabs.cc">
+   oscal
+  </a>
+  //
+  <a href="https://twitter.com/openlabsalbania">
+   @openlabsalbania
+  </a>
+ </li>
+ <li>
+  <a href="http://www.nodeconf.eu/">
    NodeConf Europe
   </a>
   //
   <a href="https://twitter.com/nodeconfeu">
    @nodeconfeu
+  </a>
+ </li>
+ <li>
+  <a href="http://www.paris-web.fr/">
+   Paris-Web
+  </a>
+  //
+  <a href="https://twitter.com/ParisWeb">
+   @parisweb
+  </a>
+ </li>
+ <li>
+  <a href="http://polyconf.com/">
+   PolyConf
+  </a>
+  //
+  <a href="https://twitter.com/polyconfhq">
+   @polyconfhq
   </a>
  </li>
  <li>
@@ -1329,12 +1442,17 @@
   </a>
  </li>
  <li>
-  <a href="http://squatconf.eu/">
-   Squatconf
+  <a href="http://sfk.flossk.org/">
+   SFK
   </a>
   //
-  <a href="https://twitter.com/squatconf">
-   @squatconf
+  <a href="https://twitter.com/flosskosova">
+   @FLOSSKosova
+  </a>
+ </li>
+ <li>
+  <a href="http://squatconf.eu/">
+   Squatconf
   </a>
  </li>
  <li>
@@ -1351,6 +1469,15 @@
  Asian
 </h3>
 <ul>
+ <li>
+  <a href="http://cssconf.asia/">
+   CSSConf Asia
+  </a>
+  //
+  <a href="https://twitter.com/cssconfasia">
+   @CSSconfasia
+  </a>
+ </li>
  <li>
   <a href="http://jsconf.cn">
    Jing JS (京JS)
@@ -1510,7 +1637,7 @@
    AndroidStudyGroup
   </a>
   <sup>
-   &#9733 551, pushed 14 days ago
+   &#9733 551, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1525,7 +1652,7 @@
   </a>
   List of cocoa conferences for iOS & OSX developers.
   <sup>
-   &#9733 509, pushed 5 days ago
+   &#9733 509, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1559,7 +1686,7 @@
   </a>
   . A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
   <sup>
-   &#9733 167, pushed 19 days ago
+   &#9733 167, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1578,7 +1705,7 @@
    awesome-speaking
   </a>
   <sup>
-   &#9733 360, pushed 112 days ago
+   &#9733 360, pushed 237 days ago
   </sup>
  </li>
  <li>

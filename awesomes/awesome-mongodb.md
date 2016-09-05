@@ -140,6 +140,11 @@
     </a>
    </li>
    <li>
+    <a href="#r">
+     R
+    </a>
+   </li>
+   <li>
     <a href="#ruby">
      Ruby
     </a>
@@ -253,6 +258,11 @@
    Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.)
   </a>
  </li>
+ <li>
+  <a href="https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/">
+   Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)
+  </a>
+ </li>
 </ul>
 <h3>
  Talks
@@ -303,7 +313,7 @@
    MongoDB source code
   </a>
   <sup>
-   &#9733 9221, pushed 1 days ago
+   &#9733 9221, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +354,7 @@
   </a>
   - Official C driver
   <sup>
-   &#9733 224, pushed 5 days ago
+   &#9733 224, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -358,7 +368,7 @@
   </a>
   - Official C++ driver
   <sup>
-   &#9733 261, pushed 5 days ago
+   &#9733 261, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -372,7 +382,7 @@
   </a>
   - Official C# driver
   <sup>
-   &#9733 1330, pushed 4 days ago
+   &#9733 1330, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -381,7 +391,7 @@
   </a>
   - C# message queue backed by MongoDB
   <sup>
-   &#9733 21, pushed 202 days ago
+   &#9733 21, pushed 327 days ago
   </sup>
  </li>
  <li>
@@ -390,7 +400,7 @@
   </a>
   - Lightweight queue pub/sub processing library
   <sup>
-   &#9733 11, pushed 7 days ago
+   &#9733 11, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -399,7 +409,7 @@
   </a>
   - Repository abstraction layer on top of the C# driver
   <sup>
-   &#9733 84, pushed 33 days ago
+   &#9733 84, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -413,7 +423,7 @@
   </a>
   - Minimal community Delphi driver
   <sup>
-   &#9733 51, pushed 46 days ago
+   &#9733 51, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -427,7 +437,7 @@
   </a>
   - Community Erlang driver
   <sup>
-   &#9733 215, pushed 26 days ago
+   &#9733 215, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -441,7 +451,7 @@
   </a>
   - Community Go driver
   <sup>
-   &#9733 776, pushed 1 days ago
+   &#9733 776, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -466,7 +476,7 @@
   </a>
   - Query in Java as in Mongo shell
   <sup>
-   &#9733 381, pushed 1 days ago
+   &#9733 381, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -475,7 +485,7 @@
   </a>
   - The power and simplicity of JPA for NoSQL datastores
   <sup>
-   &#9733 189, pushed 5 days ago
+   &#9733 189, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -484,7 +494,7 @@
   </a>
   - Official Java driver
   <sup>
-   &#9733 1485, pushed 4 days ago
+   &#9733 1485, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -493,7 +503,7 @@
   </a>
   - Java message queue backed by MongoDB
   <sup>
-   &#9733 15, pushed 1015 days ago
+   &#9733 15, pushed 1139 days ago
   </sup>
  </li>
  <li>
@@ -502,7 +512,7 @@
   </a>
   - An enhancement of MongoDB's GridFS to allow for more features and capabilities
   <sup>
-   &#9733 11, pushed 5 days ago
+   &#9733 11, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -511,7 +521,7 @@
   </a>
   - Based on Jackson, allows you to easily handle your mongo objects as POJOs
   <sup>
-   &#9733 133, pushed 10 days ago
+   &#9733 133, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -520,7 +530,7 @@
   </a>
   - Official Java ODM
   <sup>
-   &#9733 927, pushed 16 days ago
+   &#9733 927, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -529,7 +539,7 @@
   </a>
   - Java ODM and caching layer
   <sup>
-   &#9733 30, pushed 5 days ago
+   &#9733 30, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -538,7 +548,7 @@
   </a>
   - Community driver for languages running on the JVM
   <sup>
-   &#9733 22, pushed 1655 days ago
+   &#9733 22, pushed 1780 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +557,7 @@
   </a>
   - Spring based, object-document support and repositories for MongoDB
   <sup>
-   &#9733 494, pushed 1 days ago
+   &#9733 494, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -561,7 +571,7 @@
   </a>
   - Class-based ES6 ODM for Mongo-like databases
   <sup>
-   &#9733 168, pushed 3 days ago
+   &#9733 168, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -570,7 +580,7 @@
   </a>
   - Full-Stack based on MongoDB, Express, AngularJS, and Node.js
   <sup>
-   &#9733 3341, pushed 2 days ago
+   &#9733 3341, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -579,7 +589,7 @@
   </a>
   - Full-Stack based on MongoDB, Express, React and Node.js
   <sup>
-   &#9733 2048, pushed 4 days ago
+   &#9733 2048, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -588,7 +598,7 @@
   </a>
   - Node.js asynchronous ODM
   <sup>
-   &#9733 9271, pushed 2 days ago
+   &#9733 9271, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -597,7 +607,7 @@
   </a>
   - Node.js migration framework
   <sup>
-   &#9733 20, pushed 7 days ago
+   &#9733 20, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -606,7 +616,7 @@
   </a>
   - Framework with live querying on top of Mongoose and socket.io
   <sup>
-   &#9733 49, pushed 35 days ago
+   &#9733 49, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -615,7 +625,7 @@
   </a>
   - Official Node.js driver
   <sup>
-   &#9733 4675, pushed 2 days ago
+   &#9733 4675, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -629,7 +639,7 @@
   </a>
   - Bindings on MongoDB official C driver
   <sup>
-   &#9733 20, pushed 131 days ago
+   &#9733 20, pushed 256 days ago
   </sup>
  </li>
 </ul>
@@ -643,7 +653,7 @@
   </a>
   - Community Common Lisp interface
   <sup>
-   &#9733 103, pushed 9 days ago
+   &#9733 103, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -652,7 +662,7 @@
   </a>
   Community Common Lisp driver
   <sup>
-   &#9733 28, pushed 341 days ago
+   &#9733 28, pushed 466 days ago
   </sup>
  </li>
  <li>
@@ -661,7 +671,7 @@
   </a>
   - Community Emacs Lisp driver
   <sup>
-   &#9733 36, pushed 415 days ago
+   &#9733 36, pushed 540 days ago
   </sup>
  </li>
 </ul>
@@ -675,7 +685,7 @@
   </a>
   - Community Mathematica driver
   <sup>
-   &#9733 8, pushed 58 days ago
+   &#9733 8, pushed 183 days ago
   </sup>
  </li>
 </ul>
@@ -689,7 +699,7 @@
   </a>
   - Official Perl driver
   <sup>
-   &#9733 181, pushed 5 days ago
+   &#9733 181, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -703,7 +713,7 @@
   </a>
   - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
   <sup>
-   &#9733 243, pushed 5 days ago
+   &#9733 243, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -712,7 +722,7 @@
   </a>
   - Repository implementation built on top of laravel-mongodb
   <sup>
-   &#9733 3, pushed 3 days ago
+   &#9733 3, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -721,7 +731,7 @@
   </a>
   - Eloquent model and query builder for Laravel
   <sup>
-   &#9733 1722, pushed 4 days ago
+   &#9733 1722, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -730,7 +740,7 @@
   </a>
   - Repository implementation
   <sup>
-   &#9733 4, pushed 3 days ago
+   &#9733 4, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -739,7 +749,7 @@
   </a>
   - Official PHP driver
   <sup>
-   &#9733 183, pushed 4 days ago
+   &#9733 183, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -753,7 +763,7 @@
   </a>
   - PyMongo support for Flask applications
   <sup>
-   &#9733 239, pushed 99 days ago
+   &#9733 239, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -762,7 +772,7 @@
   </a>
   - Python ODM on top of PyMongo
   <sup>
-   &#9733 1290, pushed 4 days ago
+   &#9733 1290, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -771,7 +781,7 @@
   </a>
   - MongoDB logging handler
   <sup>
-   &#9733 91, pushed 1091 days ago
+   &#9733 91, pushed 1215 days ago
   </sup>
  </li>
  <li>
@@ -780,7 +790,7 @@
   </a>
   - Non-blocking Python driver for Tornado applications
   <sup>
-   &#9733 597, pushed 29 days ago
+   &#9733 597, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -789,8 +799,14 @@
   </a>
   - Official (and recommended) Python driver
   <sup>
-   &#9733 1697, pushed 7 days ago
+   &#9733 1697, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slacy/minimongo">
+   minimongo
+  </a>
+  - A lightweight, schemaless, Pythonic Object-Oriented interface
  </li>
  <li>
   <a href="https://github.com/sebdah/scrapy-mongodb">
@@ -798,7 +814,27 @@
   </a>
   - MongoDB pipeline for Scrapy
   <sup>
-   &#9733 168, pushed 52 days ago
+   &#9733 168, pushed 177 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Scille/umongo">
+   μMongo
+  </a>
+  - Driver-independent (async/sync) ODM based on marshmallow
+ </li>
+</ul>
+<h3>
+ R
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/jeroenooms/mongolite">
+   mongolite
+  </a>
+  - Fast and Simple MongoDB Client for R
+  <sup>
+   &#9733 51, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -812,7 +848,7 @@
   </a>
   - Official Ruby driver
   <sup>
-   &#9733 1251, pushed 4 days ago
+   &#9733 1251, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -821,7 +857,7 @@
   </a>
   - Ruby ODM framework
   <sup>
-   &#9733 3349, pushed 4 days ago
+   &#9733 3349, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -835,7 +871,7 @@
   </a>
   - Prototype driver written for Rust 1.x and MongoDB 3.0.x
   <sup>
-   &#9733 100, pushed 5 days ago
+   &#9733 100, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -849,7 +885,7 @@
   </a>
   - Official Scala driver
   <sup>
-   &#9733 90, pushed 6 days ago
+   &#9733 90, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -858,7 +894,7 @@
   </a>
   - Non-blocking Scala driver
   <sup>
-   &#9733 643, pushed 6 days ago
+   &#9733 643, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -867,7 +903,7 @@
   </a>
   - Read/write data with Spark SQL
   <sup>
-   &#9733 198, pushed 4 days ago
+   &#9733 198, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -884,7 +920,7 @@
   </a>
   - PostgreSQL foreign data wrapper for MongoDB
   <sup>
-   &#9733 58, pushed 95 days ago
+   &#9733 58, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -893,7 +929,7 @@
   </a>
   - Manage MongoDB servers and replica sets using JSON configurations
   <sup>
-   &#9733 141, pushed 3 days ago
+   &#9733 141, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -902,7 +938,7 @@
   </a>
   - Generate randomized datasets and benchmark your MongoDB setup
   <sup>
-   &#9733 9, pushed 43 days ago
+   &#9733 9, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -911,7 +947,7 @@
   </a>
   - Three neat Python scripts to work with collections and indexes
   <sup>
-   &#9733 172, pushed 141 days ago
+   &#9733 172, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +956,7 @@
   </a>
   - Multi-Master MongoDB replication
   <sup>
-   &#9733 45, pushed 1390 days ago
+   &#9733 45, pushed 1515 days ago
   </sup>
  </li>
  <li>
@@ -929,7 +965,7 @@
   </a>
   - MongoDB to PostgreSQL streaming replication
   <sup>
-   &#9733 1223, pushed 88 days ago
+   &#9733 1223, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -938,7 +974,7 @@
   </a>
   - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
   <sup>
-   &#9733 616, pushed 33 days ago
+   &#9733 616, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -947,7 +983,7 @@
   </a>
   - Nginx module for serving files from MongoDB's GridFS
   <sup>
-   &#9733 705, pushed 875 days ago
+   &#9733 705, pushed 1000 days ago
   </sup>
  </li>
  <li>
@@ -956,8 +992,14 @@
   </a>
   - MongoDB REST client written as an Nginx module
   <sup>
-   &#9733 29, pushed 1884 days ago
+   &#9733 29, pushed 2009 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/variety/variety">
+   Variety
+  </a>
+  - Schema analyzer: see what fields are in your collection and what's their content
  </li>
 </ul>
 <h3>
@@ -970,7 +1012,7 @@
   </a>
   - MongoDB connector for Hadoop
   <sup>
-   &#9733 1106, pushed 5 days ago
+   &#9733 1106, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -994,12 +1036,18 @@
   - Cross-platform MongoDB manager, stable and powerful
  </li>
  <li>
+  <a href="http://www.mongobooster.com">
+   MongoBooster
+  </a>
+  - Feature-rich but easy-to-use cross-platform MongoDB manager
+ </li>
+ <li>
   <a href="https://github.com/jeromelebel/MongoHub-Mac">
    MongoHub
   </a>
   - Mac native client
   <sup>
-   &#9733 1951, pushed 181 days ago
+   &#9733 1951, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -1008,7 +1056,7 @@
   </a>
   - Native and cross-platform MongoDB manager
   <sup>
-   &#9733 4047, pushed 4 days ago
+   &#9733 4047, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1022,7 +1070,7 @@
   </a>
   - MongoDB shell enhancements
   <sup>
-   &#9733 954, pushed 37 days ago
+   &#9733 954, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -1036,7 +1084,7 @@
   </a>
   - Web-based user interface to handle connections and databases needs
   <sup>
-   &#9733 339, pushed 2 days ago
+   &#9733 339, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1045,7 +1093,7 @@
   </a>
   - Web-based admin interface written with Node.js, Express and Bootstrap3
   <sup>
-   &#9733 1400, pushed 2 days ago
+   &#9733 1400, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1054,7 +1102,7 @@
   </a>
   - Admin interface for MongoDB built using Django and Bootstrap
   <sup>
-   &#9733 260, pushed 1436 days ago
+   &#9733 260, pushed 1560 days ago
   </sup>
  </li>
  <li>
@@ -1063,7 +1111,7 @@
   </a>
   - Web-based user interface for MongoDB (written in JavaScript)
   <sup>
-   &#9733 60, pushed 205 days ago
+   &#9733 60, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -1072,7 +1120,7 @@
   </a>
   - PHPMyAdmin for MongoDB, sort of
   <sup>
-   &#9733 631, pushed 144 days ago
+   &#9733 631, pushed 268 days ago
   </sup>
  </li>
 </ul>
@@ -1086,7 +1134,7 @@
   </a>
   - Ansible role
   <sup>
-   &#9733 59, pushed 6 days ago
+   &#9733 59, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1095,7 +1143,7 @@
   </a>
   - Chef cookbook
   <sup>
-   &#9733 362, pushed 36 days ago
+   &#9733 362, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -1104,7 +1152,7 @@
   </a>
   - Puppet module
   <sup>
-   &#9733 72, pushed 6 days ago
+   &#9733 72, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1112,7 +1160,7 @@
    Dockerfile
   </a>
   <sup>
-   &#9733 142, pushed 146 days ago
+   &#9733 142, pushed 271 days ago
   </sup>
  </li>
 </ul>
@@ -1121,12 +1169,18 @@
 </h3>
 <ul>
  <li>
+  <a href="https://github.com/dalenys/check_mongodb">
+   check_mongodb
+  </a>
+  - Nagios plugin (in Bash)
+ </li>
+ <li>
   <a href="https://github.com/Lujeni/mongoop">
    Mongoop
   </a>
   - Long operations monitoring and alerting
   <sup>
-   &#9733 27, pushed 40 days ago
+   &#9733 27, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1135,7 +1189,7 @@
   </a>
   - MongoDB top clone
   <sup>
-   &#9733 46, pushed 264 days ago
+   &#9733 46, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -1144,7 +1198,7 @@
   </a>
   - Another top clone
   <sup>
-   &#9733 48, pushed 399 days ago
+   &#9733 48, pushed 524 days ago
   </sup>
  </li>
  <li>
@@ -1153,7 +1207,7 @@
   </a>
   - Collection of Munin plugins
   <sup>
-   &#9733 144, pushed 1531 days ago
+   &#9733 144, pushed 1655 days ago
   </sup>
  </li>
  <li>
@@ -1162,16 +1216,16 @@
   </a>
   - More Munin plugins
   <sup>
-   &#9733 22, pushed 707 days ago
+   &#9733 22, pushed 832 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/mzupan/nagios-plugin-mongodb">
    nagios-plugin-mongodb
   </a>
-  - Nagios plugin
+  - Nagios plugin (in Python)
   <sup>
-   &#9733 277, pushed 33 days ago
+   &#9733 277, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -1185,7 +1239,7 @@
   </a>
   - Evernote clone built with Go and MongoDB
   <sup>
-   &#9733 3189, pushed 17 days ago
+   &#9733 3189, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1200,7 +1254,7 @@
   </a>
   - Remote monitoring application using Node.js, MongoDB, and Bootstrap
   <sup>
-   &#9733 3047, pushed 129 days ago
+   &#9733 3047, pushed 253 days ago
   </sup>
  </li>
 </ul>

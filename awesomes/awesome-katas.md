@@ -369,7 +369,7 @@
    .Net Code Katas
   </a>
   <sup>
-   &#9733 5, pushed 330 days ago
+   &#9733 5, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +387,7 @@
    Racing Car Katas
   </a>
   <sup>
-   &#9733 57, pushed 23 days ago
+   &#9733 57, pushed 148 days ago
   </sup>
  </li>
  <li>

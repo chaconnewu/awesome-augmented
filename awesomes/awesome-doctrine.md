@@ -209,7 +209,7 @@
   </a>
   - Doctrine Database Migrations Library
   <sup>
-   &#9733 360, pushed 22 days ago
+   &#9733 360, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -218,7 +218,7 @@
   </a>
   - Doctrine2 ORM Data Fixtures Extensions
   <sup>
-   &#9733 317, pushed 119 days ago
+   &#9733 317, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -236,7 +236,7 @@
    fzaninotto\Faker
   </a>
   <sup>
-   &#9733 1007, pushed 4 days ago
+   &#9733 1007, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -250,7 +250,7 @@
   </a>
   - Doctrine 2 ORM integration into Nette Framework
   <sup>
-   &#9733 89, pushed 3 days ago
+   &#9733 89, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -259,7 +259,7 @@
   </a>
   - Port of KnpLabs/DoctrineBehaviors to Nette
   <sup>
-   &#9733 9, pushed 51 days ago
+   &#9733 9, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -268,7 +268,7 @@
   </a>
   - Implementation of Doctrine Migrations to Nette
   <sup>
-   &#9733 21, pushed 162 days ago
+   &#9733 21, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -277,7 +277,7 @@
   </a>
   - Hydrates presenter methods from parameters to entities
   <sup>
-   &#9733 15, pushed 182 days ago
+   &#9733 15, pushed 307 days ago
   </sup>
  </li>
  <li>
@@ -286,7 +286,7 @@
   </a>
   - Doctrine Fixtures, Faker and Alice integration to Nette
   <sup>
-   &#9733 8, pushed 182 days ago
+   &#9733 8, pushed 307 days ago
   </sup>
  </li>
 </ul>
@@ -300,7 +300,7 @@
   </a>
   - A Symfony2 bundle to help load Doctrine Fixtures with Alice
   <sup>
-   &#9733 193, pushed 43 days ago
+   &#9733 193, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -329,7 +329,7 @@
   </a>
   , built on Nette
   <sup>
-   &#9733 24, pushed 518 days ago
+   &#9733 24, pushed 642 days ago
   </sup>
  </li>
 </ul>

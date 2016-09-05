@@ -72,6 +72,7 @@ A curated list of awesome mathematics resources.
 
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
+* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 ## Misc
 
@@ -92,7 +93,7 @@ A curated list of awesome mathematics resources.
 
 ### Logic
 
-* [Introduction to Logic](http://logic.stanford.edu/intrologic/chapters/cover.html) - Michael Genesereth, Eric Kao (Stanford University)
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (Stanford University)
 * [An Introduction to Formal Logic](https://textbookequity.org/oct/Textbooks/Magnus_forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
 * [Language, Proof, and Logic](http://ssdi.di.fct.unl.pt/~pb/cadeiras/lc/0102/lpl%20textbook.pdf) - Jon Barwise, John Etchemendy
@@ -314,6 +315,8 @@ A curated list of awesome mathematics resources.
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - http://mason.gmu.edu/~jgentle/books/MathStat.pdf
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
+* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
+* [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 
 ### Statistical Learning
 

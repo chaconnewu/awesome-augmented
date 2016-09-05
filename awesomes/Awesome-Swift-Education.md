@@ -146,6 +146,11 @@
     </a>
    </li>
    <li>
+    <a href="#foundation">
+     Foundation
+    </a>
+   </li>
+   <li>
     <a href="#functional-programming">
      Functional Programming
     </a>
@@ -348,7 +353,7 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 29811, pushed 2 days ago
+   &#9733 29811, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +374,7 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 1824, pushed 5 days ago
+   &#9733 1824, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -378,16 +383,16 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 674, pushed 8 days ago
+   &#9733 674, pushed 133 days ago
   </sup>
  </li>
  <li>
-  Swift Clang Repositroy
+  Swift Clang Repository
   <a href="https://github.com/apple/swift-clang">
    :pencil2:
   </a>
   <sup>
-   &#9733 370, pushed 1 days ago
+   &#9733 370, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -396,7 +401,7 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 319, pushed 2 days ago
+   &#9733 319, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -405,7 +410,7 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 86, pushed 118 days ago
+   &#9733 86, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -414,13 +419,19 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 771, pushed 2 days ago
+   &#9733 771, pushed 127 days ago
   </sup>
  </li>
  <li>
   Latest Code changes in Swift
   <a href="https://developer.apple.com/library/ios/releasenotes/General/iOS93APIDiffs/Swift/Swift.html">
    :link:
+  </a>
+ </li>
+ <li>
+  Diving into the Swift Ecosystem
+  <a href="https://realm.io/news/tryswift-syo-ikeda-swift-ecosystem/">
+   :microphone:
   </a>
  </li>
 </ul>
@@ -451,7 +462,7 @@
    :book:
   </a>
   <sup>
-   &#9733 36, pushed 537 days ago
+   &#9733 36, pushed 662 days ago
   </sup>
  </li>
  <li>
@@ -469,7 +480,7 @@
    :book:
   </a>
   <sup>
-   &#9733 3723, pushed 1 days ago
+   &#9733 3723, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -484,7 +495,7 @@
    :book:
   </a>
   <sup>
-   &#9733 3811, pushed 4 days ago
+   &#9733 3811, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -499,7 +510,7 @@
    :book:
   </a>
   <sup>
-   &#9733 16, pushed 98 days ago
+   &#9733 16, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -508,7 +519,7 @@
    :book:
   </a>
   <sup>
-   &#9733 108, pushed 14 days ago
+   &#9733 108, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -574,7 +585,7 @@
      :scroll:
     </a>
     <sup>
-     &#9733 11176, pushed 4 days ago
+     &#9733 11176, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -583,7 +594,7 @@
      :scroll:
     </a>
     <sup>
-     &#9733 7959, pushed 3 days ago
+     &#9733 7959, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -592,7 +603,7 @@
      :scroll:
     </a>
     <sup>
-     &#9733 2644, pushed 7 days ago
+     &#9733 2644, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -601,7 +612,7 @@
      :scroll:
     </a>
     <sup>
-     &#9733 422, pushed 4 days ago
+     &#9733 422, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -610,7 +621,7 @@
      :link:
     </a>
     <sup>
-     &#9733 68, pushed 191 days ago
+     &#9733 68, pushed 316 days ago
     </sup>
    </li>
    <li>
@@ -619,12 +630,12 @@
      :pencil2:
     </a>
     <sup>
-     &#9733 43, pushed 58 days ago
+     &#9733 43, pushed 183 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 406, pushed 10 days ago
+   &#9733 406, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -666,7 +677,7 @@
      :scroll:
     </a>
     <sup>
-     &#9733 4220, pushed 5 days ago
+     &#9733 4220, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -749,7 +760,7 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 45, pushed 188 days ago
+   &#9733 45, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -783,8 +794,8 @@
   </a>
  </li>
  <li>
-  CS193P: Developing iOS 8 Apps with Swift
-  <a href="https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099">
+  CS193P: Developing iOS 9 Apps with Swift
+  <a href="https://itunes.apple.com/au/course/developing-ios-9-apps-swift/id1104579961">
    :mortar_board:
   </a>
  </li>
@@ -795,7 +806,7 @@
   </a>
  </li>
  <li>
-  Funcitonal Reactive Programming iOS Learning Resources
+  Functional Reactive Programming iOS Learning Resources
   <a href="https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6">
    :mortar_board:
   </a>
@@ -818,8 +829,39 @@
    :pencil2:
   </a>
   <sup>
-   &#9733 5505, pushed 2 days ago
+   &#9733 5505, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  A summary of swift in playgrounds
+  <a href="https://github.com/jakarmy/swift-summary">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 1278, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  New stuff from WWDC 2016
+  <a href="https://gist.github.com/mackuba/e8fb4219c7ef611f47cdb66b93986d85">
+   :pencil2:
+  </a>
+ </li>
+ <li>
+  WWDC16 Video Transcripts
+  <a href="https://developer.apple.com/news/?id=07082016a">
+   :link:
+  </a>
+ </li>
+ <li>
+  WWDC 2016 Viewing Guide
+  <a href="http://useyourloaf.com/blog/wwdc-2016-viewing-guide/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
  </li>
 </ul>
 <p>
@@ -1062,8 +1104,8 @@ camera:
  Other Video
  <ul>
   <li>
-   Cocoaheads.tv
-   <a href="http://cocoaheads.tv/">
+   Swift Talk
+   <a href="https://talk.objc.io">
     :video
     <em>
      camera:
@@ -1071,8 +1113,8 @@ camera:
    </a>
   </li>
   <li>
-   Swift Language Youtube Channel
-   <a href="https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig">
+   Cocoaheads.tv
+   <a href="http://cocoaheads.tv/">
     :video
    </a>
   </li>
@@ -1080,8 +1122,8 @@ camera:
 </li>
 camera:
 <li>
- Free Swift Lang Course
- <a href="https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu">
+ Swift Language Youtube Channel
+ <a href="https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig">
   :video
   <em>
    camera:
@@ -1089,12 +1131,18 @@ camera:
  </a>
 </li>
 <li>
- Swift tutorial Video Series
- <a href="https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb">
+ Free Swift Lang Course
+ <a href="https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu">
   :video
  </a>
 </li>
 camera:
+<li>
+ Swift tutorial Video Series
+ <a href="https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb">
+  :video_camera:
+ </a>
+</li>
 <p>
  <a href="#index">
   :arrow_up:
@@ -1117,7 +1165,7 @@ camera:
    </li>
   </ul>
   <sup>
-   &#9733 233, pushed 31 days ago
+   &#9733 233, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -1177,7 +1225,7 @@ camera:
      :notebook:
     </a>
     <sup>
-     &#9733 735, pushed 73 days ago
+     &#9733 735, pushed 198 days ago
     </sup>
    </li>
    <li>
@@ -1254,7 +1302,7 @@ camera:
    </li>
   </ul>
   <sup>
-   &#9733 223, pushed 72 days ago
+   &#9733 223, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1278,7 +1326,7 @@ camera:
    </li>
   </ul>
   <sup>
-   &#9733 509, pushed 5 days ago
+   &#9733 509, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1460,6 +1508,28 @@ camera:
   Audio
  </strong>
 </h4>
+<ul>
+ <li>
+  AudioKit
+  <a href="https://github.com/audiokit/AudioKit">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 1890, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  Wrap Core Audio
+  <a href="https://github.com/rnine/AMCoreAudio">
+   :pencil2:
+  </a>
+ </li>
+</ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   Closures and Functions
@@ -1467,7 +1537,7 @@ camera:
 </h4>
 <ul>
  <li>
-  @autoclosure, @noescape
+  @autoclosure, @noescape, @noreturn, @nonnmutating
   <ul>
    <li>
     @autoclosure, @inline, @noescape, and @noreturn Keywords
@@ -1500,8 +1570,31 @@ camera:
     </a>
    </li>
    <li>
-    How to use @autoclosure parameter in an async block
+    How to use @autoclosure parameter in an asynchronous block
     <a href="http://stackoverflow.com/questions/30385467/how-to-use-autoclosure-parameter-in-async-block-in-swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    @noreturn
+    <a href="http://stackoverflow.com/questions/27829132/convincing-swift-that-a-function-will-never-return-due-to-a-thrown-exception">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift's @nonmutating Keyword
+    <a href="http://jasdev.me/nonmutating">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://medium.com/swift-programming/the-why-of-nonmutating-7ecd2cf17ecf#.dmgzda6xn">
      :page
      <em>
       facing
@@ -1745,6 +1838,32 @@ camera:
      up:
     </a>
    </li>
+   <li>
+    Mutexes and closure capture in Swift
+    <a href="http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Understanding Threads Swift
+    <a href="http://stackoverflow.com/questions/35149538/understanding-threads-swift?lq=1">
+     :link:
+    </a>
+   </li>
+   <li>
+    Closures Capture Semantics
+    <a href="http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -1780,6 +1899,18 @@ camera:
      up:
     </a>
    </li>
+   <li>
+    Abstract functions in Swift Language
+    <a href="http://stackoverflow.com/questions/24110362/abstract-functions-in-swift-language">
+     :link:
+    </a>
+   </li>
+   <li>
+    Any difference between Closures and First-Class Functions?
+    <a href="http://stackoverflow.com/questions/37531840/swift-any-difference-between-closures-and-first-class-functions">
+     :link:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -1788,6 +1919,16 @@ camera:
    <li>
     Swift: Selector syntax sugar
     <a href="https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3#.4zfq3wimr">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Hannibal #selector
+    <a href="https://www.bignerdranch.com/blog/hannibal-selector/">
      :page
      <em>
       facing
@@ -1940,6 +2081,12 @@ camera:
      up:
     </a>
    </li>
+   <li>
+    Check if an element is in an array
+    <a href="http://stackoverflow.com/questions/24102024/how-to-check-if-an-element-is-in-an-array">
+     :link:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -1961,7 +2108,7 @@ camera:
      :pencil2:
     </a>
     <sup>
-     &#9733 5, pushed 38 days ago
+     &#9733 5, pushed 162 days ago
     </sup>
    </li>
    <li>
@@ -2052,6 +2199,16 @@ camera:
      :link:
     </a>
    </li>
+   <li>
+    Implementing Dictionary In Swift
+    <a href="http://khanlou.com/2016/07/implementing-dictionary-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -2082,6 +2239,12 @@ camera:
  <li>
   SequenceType / GeneratorType
   <ul>
+   <li>
+    SequenceType vs GeneratorType vs CollectionType
+    <a href="http://stackoverflow.com/questions/30565875/what-is-the-difference-between-sequencetype-and-collectiontype-in-swift">
+     :link:
+    </a>
+   </li>
    <li>
     A quick guide to SequenceType
     <a href="https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc">
@@ -2147,6 +2310,12 @@ camera:
     </a>
    </li>
    <li>
+    Grokking Lazy Sequences & Collections
+    <a href="https://realm.io/news/slug-brandon-kase-grokking-lazy-sequences-collections/">
+     :microphone:
+    </a>
+   </li>
+   <li>
     The Fibonacci SequenceType
     <a href="http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/">
      :page
@@ -2172,8 +2341,26 @@ camera:
      :pencil2:
     </a>
     <sup>
-     &#9733 304, pushed 35 days ago
+     &#9733 304, pushed 160 days ago
     </sup>
+   </li>
+   <li>
+    yield implemented in Swift
+    <a href="https://github.com/kristopherjohnson/KJYield">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Return a sequence with Swift
+    <a href="http://stackoverflow.com/questions/24137062/how-do-i-return-a-sequence-in-swift">
+     :link:
+    </a>
+   </li>
+   <li>
+    Turn a sequence into a stream
+    <a href="https://github.com/oisdk/SwiftStream">
+     :pencil2:
+    </a>
    </li>
   </ul>
  </li>
@@ -2206,7 +2393,7 @@ camera:
      :pencil2:
     </a>
     <sup>
-     &#9733 221, pushed 38 days ago
+     &#9733 221, pushed 163 days ago
     </sup>
    </li>
    <li>
@@ -2218,9 +2405,6 @@ camera:
      </em>
      up:
     </a>
-   </li>
-   <li>
-    Set Type Follow-up
     <a href="http://natecook.com/blog/2014/08/set-type-follow-up/">
      :page
      <em>
@@ -2361,7 +2545,7 @@ camera:
    :pencil2:
   </a>
   <sup>
-   &#9733 26, pushed 16 days ago
+   &#9733 26, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2380,7 +2564,7 @@ camera:
    :pencil2:
   </a>
   <sup>
-   &#9733 91, pushed 23 days ago
+   &#9733 91, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2389,7 +2573,7 @@ camera:
    :pencil2:
   </a>
   <sup>
-   &#9733 198, pushed 23 days ago
+   &#9733 198, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2400,6 +2584,21 @@ camera:
     facing
    </em>
    up:
+  </a>
+ </li>
+ <li>
+  Make command line applications in Swift
+  <a href="https://github.com/jatoben/CommandLine">
+   :pencil:
+  </a>
+  <sup>
+   &#9733 586, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  SwiftingBridge
+  <a href="https://github.com/garrett-davidson/SwiftingBridge">
+   ::
   </a>
  </li>
 </ul>
@@ -2417,6 +2616,26 @@ camera:
  <li>
   GCD
   <ul>
+   <li>
+    The GCD Handbook
+    <a href="http://khanlou.com/2016/04/the-GCD-handbook/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Apple Concurrency Programming Guide
+    <a href="https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ThreadMigration/ThreadMigration.html#//apple_ref/doc/uid/TP40008091-CH105-SW1">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Basics of GCD
     <a href="https://littlebitesofcocoa.com/85-grand-central-dispatch-basics">
@@ -2488,9 +2707,63 @@ up:
  </a>
 </li>
 <li>
- dispatch_after
- <a href="http://stackoverflow.com/questions/24034544/dispatch-after-gcd-in-swift/24318861#24318861">
+ dispatch
+ <em>
+  after
+  <a href="http://stackoverflow.com/questions/24034544/dispatch-after-gcd-in-swift/24318861#24318861">
+   :link:
+  </a>
+ </em>
+</li>
+<li>
+ Does Swift have constructs for parallel programming through Grand Central Dispatch's dispatch
+</li>
+async?
+<a href="http://stackoverflow.com/questions/24072538/does-swift-have-constructs-for-parallel-programming-through-grand-central-dispat">
+ :link:
+</a>
+<li>
+ GCD in Linux and OSX
+ <a href="https://github.com/elliottminns/echo">
+  :pencil2:
+ </a>
+</li>
+<li>
+ GCD DSL
+ <a href="https://github.com/mitchtreece/Threader">
+  :pencil2:
+ </a>
+</li>
+<li>
+ GCD's Main Queue vs. Main Thread
+ <a href="http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Use of the terms “queues”, “multicore”, and “threads” in Grand Central Dispatch
+ <a href="http://stackoverflow.com/questions/21202789/use-of-the-terms-queues-multicore-and-threads-in-grand-central-dispatch">
   :link:
+ </a>
+</li>
+<li>
+ Grand Central Dispatch vs. NSThread
+ <a href="http://stackoverflow.com/questions/5653522/grand-central-dispatch-vs-nsthread?rq=1">
+  :link:
+ </a>
+</li>
+<li>
+ GCD in Swift 3
+ <a href="https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838#.3qr095pi3">
+  :page
+  <em>
+   facing
+  </em>
+  up:
  </a>
 </li>
 <li>
@@ -2532,6 +2805,12 @@ up:
     :link:
    </a>
   </li>
+  <li>
+   Advanced NSOperations Framework
+   <a href="https://github.com/danthorpe/Operations">
+    :pencil2:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -2542,6 +2821,9 @@ up:
    <a href="https://gist.github.com/kylesluder/478bf8fd8232bc90eabd">
     :pencil:
    </a>
+   <a href="https://github.com/jyopp/Swift-Async">
+    :pencil2:
+   </a>
   </li>
   <li>
    Asynchronous values as first-class citizens
@@ -2551,6 +2833,12 @@ up:
      facing
     </em>
     up:
+   </a>
+  </li>
+  <li>
+   A non-blocking I/O, asynchronous ODM
+   <a href="https://github.com/elliottminns/orca">
+    :pencil2:
    </a>
   </li>
  </ul>
@@ -2564,9 +2852,18 @@ up:
     :pencil2:
    </a>
   </li>
+  <li>
+   Swift Actors
+   <a href="https://github.com/tomekc/SwiftActors">
+    :pencil:
+   </a>
+   <sup>
+    &#9733 31, pushed 742 days ago
+   </sup>
+  </li>
  </ul>
  <sup>
-  &#9733 31, pushed 617 days ago
+  &#9733 31, pushed 742 days ago
  </sup>
 </li>
 <li>
@@ -2590,7 +2887,7 @@ up:
     :pencil2:
    </a>
    <sup>
-    &#9733 154, pushed 304 days ago
+    &#9733 154, pushed 429 days ago
    </sup>
   </li>
  </ul>
@@ -2641,9 +2938,21 @@ up:
     up:
    </a>
   </li>
+  <li>
+   Swift Posix
+   <a href="https://github.com/josh/swift-posix">
+    :pencil2:
+   </a>
+  </li>
+  <li>
+   Thread vs Queue
+   <a href="http://stackoverflow.com/questions/23166246/what-is-the-difference-between-thread-and-queue-in-ios-development">
+    :link:
+   </a>
+  </li>
  </ul>
  <sup>
-  &#9733 47, pushed 126 days ago
+  &#9733 47, pushed 251 days ago
  </sup>
 </li>
 <p>
@@ -2700,48 +3009,65 @@ up:
 </h4>
 <ul>
  <li>
-  Evolutionary/Genetic Programming in Swift
-  <a href="https://github.com/NachoSoto/swift-genetics">
-   :pencil2:
-  </a>
-  <a href="https://github.com/saniul/Mendel">
-   :pencil2:
-  </a>
+  Algorithms
+  <ul>
+   <li>
+    Evolutionary/Genetic Programming in Swift
+    <a href="https://github.com/NachoSoto/swift-genetics">
+     :pencil2:
+    </a>
+    <a href="https://github.com/saniul/Mendel">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Disjoint Sets
+    <a href="https://github.com/antitypical/DisjointSet">
+     :pencil2:
+    </a>
+    <sup>
+     &#9733 5, pushed 308 days ago
+    </sup>
+   </li>
+   <li>
+    Metaprogrammable
+    <a href="https://github.com/antitypical/Metaprogrammable">
+     :pencil2:
+    </a>
+    <sup>
+     &#9733 5, pushed 337 days ago
+    </sup>
+   </li>
+   <li>
+    Fisher-Yates Shuffle for Swift
+    <a href="https://gist.github.com/kballard/8738524e0243a93376ed">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Either Types micro-framework
+    <a href="https://github.com/robrix/Either">
+     :pencil2:
+    </a>
+    <sup>
+     &#9733 81, pushed 148 days ago
+    </sup>
+   </li>
+   <li>
+    Cellular Automaton
+    <a href="https://github.com/slightair/SwiftCA2D">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Swift Automata
+    <a href="https://github.com/mikidep/SwiftAutomata">
+     :pencil2:
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 33, pushed 494 days ago
-  </sup>
- </li>
- <li>
-  Disjoint Sets
-  <a href="https://github.com/antitypical/DisjointSet">
-   :pencil2:
-  </a>
-  <sup>
-   &#9733 5, pushed 183 days ago
-  </sup>
- </li>
- <li>
-  Metaprogrammable
-  <a href="https://github.com/antitypical/Metaprogrammable">
-   :pencil2:
-  </a>
-  <sup>
-   &#9733 5, pushed 212 days ago
-  </sup>
- </li>
- <li>
-  Fisher-Yates Shuffle for Swift
-  <a href="https://gist.github.com/kballard/8738524e0243a93376ed">
-   :pencil:
-  </a>
- </li>
- <li>
-  Either Types micro-framework
-  <a href="https://github.com/robrix/Either">
-   :pencil2:
-  </a>
-  <sup>
-   &#9733 81, pushed 23 days ago
+   &#9733 33, pushed 618 days ago
   </sup>
  </li>
  <li>
@@ -2758,7 +3084,7 @@ up:
     </a>
    </li>
    <li>
-    NSArrays are implemente with Circular Buffers
+    NSArrays are implemented with Circular Buffers
     <a href="https://en.wikipedia.org/wiki/Circular_buffer">
      :page
      <em>
@@ -2776,7 +3102,18 @@ up:
   </ul>
  </li>
  <li>
-  Data Strucutres
+  Backtracking
+  <ul>
+   <li>
+    Backtracking problem
+    <a href="https://github.com/davecom/SwiftCSP">
+     :link:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Data Structures
   <ul>
    <li>
     Commonly used data structures and algorithms
@@ -2787,9 +3124,21 @@ up:
      :pencil2:
     </a>
    </li>
+   <li>
+    Buckets Swift Collection Data Structures Library
+    <a href="https://github.com/mauriciosantos/Buckets-Swift/">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Collection data structures in Swift
+    <a href="https://github.com/lucaslouca/CollectionsKit">
+     :pencil2:
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 1322, pushed 5 days ago
+   &#9733 1322, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2800,6 +3149,13 @@ up:
     <a href="https://gist.github.com/davbeck/e96b543bc0184b04353e">
      :pencil:
     </a>
+    <a href="http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
    </li>
    <li>
     SwiftGraph
@@ -2807,7 +3163,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 216, pushed 27 days ago
+     &#9733 216, pushed 151 days ago
     </sup>
    </li>
   </ul>
@@ -2838,7 +3194,7 @@ up:
    </li>
   </ul>
   <sup>
-   &#9733 321, pushed 49 days ago
+   &#9733 321, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -2850,9 +3206,15 @@ up:
      :pencil2:
     </a>
    </li>
+   <li>
+    Linguistics Toolkit
+    <a href="https://github.com/ayanonagon/Parsimmon">
+     :pencil2:
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 7, pushed 109 days ago
+   &#9733 7, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -2914,7 +3276,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 166, pushed 210 days ago
+     &#9733 166, pushed 335 days ago
     </sup>
    </li>
    <li>
@@ -2923,7 +3285,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 2758, pushed 10 days ago
+     &#9733 2758, pushed 135 days ago
     </sup>
    </li>
    <li>
@@ -2931,8 +3293,11 @@ up:
     <a href="https://github.com/graceavery/LearningMachineLearning">
      :pencil2:
     </a>
+    <a href="https://github.com/yconst/YCML">
+     :pencil2:
+    </a>
     <sup>
-     &#9733 3, pushed 269 days ago
+     &#9733 3, pushed 393 days ago
     </sup>
    </li>
    <li>
@@ -2951,9 +3316,50 @@ up:
      :pencil2:
     </a>
    </li>
+   <li>
+    The iOS and OS X neural network framework
+    <a href="https://github.com/aleph7/BrainCore">
+     :pencil2:
+    </a>
+    <sup>
+     &#9733 47, pushed 126 days ago
+    </sup>
+   </li>
+   <li>
+    Machine Learning for iOS Explained
+    <a href="http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Layered Neural Network in Swift
+    <a href="http://codereview.stackexchange.com/questions/95224/layered-neural-network-in-swift">
+     :link:
+    </a>
+   </li>
+   <li>
+    A back-propagation neural network written in Swift
+    <a href="https://github.com/acavanag/SwiftNeuralNetwork">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Neural Networks in iOS 10 and macOS
+    <a href="https://www.bignerdranch.com/blog/neural-networks-in-ios-10-and-macos/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 429, pushed 65 days ago
+   &#9733 429, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -2974,7 +3380,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 49, pushed 1 days ago
+     &#9733 49, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -2983,7 +3389,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 28, pushed 42 days ago
+     &#9733 28, pushed 166 days ago
     </sup>
    </li>
    <li>
@@ -2992,7 +3398,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 7, pushed 64 days ago
+     &#9733 7, pushed 188 days ago
     </sup>
    </li>
    <li>
@@ -3007,7 +3413,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 2, pushed 32 days ago
+     &#9733 2, pushed 157 days ago
     </sup>
    </li>
    <li>
@@ -3022,7 +3428,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 18, pushed 35 days ago
+     &#9733 18, pushed 159 days ago
     </sup>
    </li>
    <li>
@@ -3031,8 +3437,38 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 11, pushed 424 days ago
+     &#9733 11, pushed 549 days ago
     </sup>
+   </li>
+   <li>
+    Linear Algebra Swift Extensions
+    <a href="https://github.com/damienpontifex/LinearAlgebraExtensions">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Matrix Examples Swift
+    <a href="https://gist.github.com/JadenGeller/8c758cbb218a9c4615dd">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Linear Algebra in Swift
+    <a href="https://github.com/apexskier/SKLinearAlgebra">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Protocol Oriented Number System
+    <a href="https://github.com/dankogai/swift-pons">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Examples of Computational Statistics in Swift
+    <a href="https://realm.io/news/trySwift-diana-zmuda-how-to-train-your-swift-computational-statistics/">
+     :microphone:
+    </a>
    </li>
   </ul>
  </li>
@@ -3052,7 +3488,7 @@ up:
   <ul>
    <li>
     Swift Algorithm Club
-    <a href="https://github.com/hollance/swift-algorithm-club">
+    <a href="https://github.com/raywenderlich/swift-algorithm-club">
      :pencil2:
     </a>
    </li>
@@ -3068,13 +3504,10 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 143, pushed 3 days ago
+     &#9733 143, pushed 128 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 5152, pushed 4 days ago
-  </sup>
  </li>
  <li>
   Sorts
@@ -3091,7 +3524,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 46, pushed 71 days ago
+     &#9733 46, pushed 196 days ago
     </sup>
    </li>
    <li>
@@ -3144,7 +3577,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 19, pushed 27 days ago
+     &#9733 19, pushed 152 days ago
     </sup>
    </li>
    <li>
@@ -3169,12 +3602,22 @@ up:
    </li>
   </ul>
   <sup>
-   &#9733 178, pushed 15 days ago
+   &#9733 178, pushed 140 days ago
   </sup>
  </li>
  <li>
   Trees
   <ul>
+   <li>
+    Swift Tree Data Structures
+    <a href="https://www.raywenderlich.com/138190/swift-algorithm-club-swift-tree-data-structure">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Finger Trees in Swift
     <a href="https://github.com/lazytype/FingerTree/tree/master">
@@ -3210,7 +3653,7 @@ up:
      up:
     </a>
     <sup>
-     &#9733 667, pushed 41 days ago
+     &#9733 667, pushed 166 days ago
     </sup>
    </li>
    <li>
@@ -3225,7 +3668,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 23, pushed 451 days ago
+     &#9733 23, pushed 575 days ago
     </sup>
    </li>
    <li>
@@ -3256,7 +3699,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 13, pushed 386 days ago
+     &#9733 13, pushed 510 days ago
     </sup>
    </li>
    <li>
@@ -3275,7 +3718,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 2, pushed 43 days ago
+     &#9733 2, pushed 168 days ago
     </sup>
    </li>
   </ul>
@@ -3308,7 +3751,7 @@ up:
    :pencil2:
   </a>
   <sup>
-   &#9733 1365, pushed 4 days ago
+   &#9733 1365, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3317,7 +3760,7 @@ up:
    :link:
   </a>
   <sup>
-   &#9733 57, pushed 7 days ago
+   &#9733 57, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3326,7 +3769,7 @@ up:
    :pencil2:
   </a>
   <sup>
-   &#9733 19, pushed 233 days ago
+   &#9733 19, pushed 357 days ago
   </sup>
  </li>
  <li>
@@ -3350,7 +3793,7 @@ up:
    :pencil2:
   </a>
   <sup>
-   &#9733 209, pushed 102 days ago
+   &#9733 209, pushed 227 days ago
   </sup>
  </li>
 </ul>
@@ -3419,6 +3862,18 @@ up:
      up:
     </a>
    </li>
+   <li>
+    How do I print the type or class of a variable in Swift?
+    <a href="http://stackoverflow.com/questions/24006165/how-do-i-print-the-type-or-class-of-a-variable-in-swift/25345480#25345480">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift Compiler Integration in LLDB
+    <a href="https://realm.io/news/tryswift-novall-khan-swift-compiler-lldb/">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -3459,6 +3914,26 @@ up:
    <li>
     Another Look at Swift Logging
     <a href="http://dev.iachieved.it/iachievedit/another-look-at-swift-logging/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Pretty Print
+    <a href="https://medium.com/swift-programming/swift-pretty-in-print-pt-2-640cea920653#.j7vrtvyxz">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Logging in Swift
+    <a href="http://merowing.info/2016/07/logging-in-swift/">
      :page
      <em>
       facing
@@ -3509,7 +3984,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 4811, pushed 5 days ago
+     &#9733 4811, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -3526,6 +4001,16 @@ up:
     Debugging the Swift Compiler
     <a href="http://apple-swift.readthedocs.org/en/latest/DebuggingTheCompiler.html">
      :link:
+    </a>
+   </li>
+   <li>
+    Compile Time vs Run Time Checking
+    <a href="http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
    <li>
@@ -3548,6 +4033,18 @@ up:
     Debugging Magic
     <a href="https://developer.apple.com/library/ios/technotes/tn2239/_index.html">
      :microphone:
+    </a>
+   </li>
+   <li>
+    Debugging the Swift Compiler
+    <a href="https://github.com/apple/swift/blob/master/docs/DebuggingTheCompiler.rst">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Swift Trace
+    <a href="https://github.com/johnno1962/SwiftTrace">
+     :pencil:
     </a>
    </li>
   </ul>
@@ -3705,7 +4202,7 @@ up:
     Overview
     <ul>
      <li>
-      Swift Design Patterns
+      Swift Design Patqerns
       <a href="http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7">
        :floppy
        <em>
@@ -3735,7 +4232,7 @@ facing
   up:
  </a>
  <sup>
-  &#9733 5777, pushed 7 days ago
+  &#9733 5777, pushed 132 days ago
  </sup>
 </li>
 <li>
@@ -3744,12 +4241,75 @@ facing
   :pencil2:
  </a>
  <sup>
-  &#9733 53, pushed 368 days ago
+  &#9733 53, pushed 493 days ago
  </sup>
 </li>
 <li>
  Allergies and Dependency Inversion
  <a href="http://www.theswiftlearner.com/2015/05/17/dependency-inversion/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Swift Design Patterns Story
+ <a href="http://audreyli.me/archives/">
+  :link:
+ </a>
+</li>
+<li>
+ Functional Design Patterns
+ <a href="https://www.quora.com/Are-design-patterns-also-applicable-to-functional-programming-If-they-are-what-are-examples-in-Haskell">
+  :link:
+ </a>
+</li>
+<li>
+ SOLID Design on Android
+ <a href="">
+  S
+ </a>
+ <a href="">
+  O
+ </a>
+ <a href="https://realm.io/news/donn-felker-solid-part-3/?utm_source=Videos&utm_campaign=d307270584-SOLID_for_Android_Devs_3">
+  L
+ </a>
+ <a href="">
+  I
+ </a>
+ <a href="">
+  D
+ </a>
+</li>
+<li>
+ Discovering Native Swift Patterns
+ <a href="https://realm.io/news/slug-nick-oneill-native-swift-patterns/">
+  :microphone:
+ </a>
+</li>
+<li>
+ Native Swift Patterns
+ <a href="https://realm.io/news/slug-nick-oneill-native-swift-patterns/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Swifty?
+ <a href="https://speakerdeck.com/dcutting/swifty">
+  :floppy
+ </a>
+</li>
+disk:
+<li>
+ Swift emerging patterns and idioms
+ <a href="http://cutting.io/posts/swifty-emerging-patterns-and-idioms/">
   :page
   <em>
    facing
@@ -3793,6 +4353,16 @@ facing
   <li>
    Command Pattern in Swift
    <a href="http://jangorman.github.io/blog/2014/11/17/design-patterns-in-swift-command/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Undo History in Swift
+   <a href="http://chris.eidhof.nl/post/undo-history-in-swift/">
     :page
     <em>
      facing
@@ -3946,10 +4516,42 @@ facing
     </em>
     up:
    </a>
+   <a href="http://derpturkey.com/nsnotificationcenter-with-swift/">
+    :pencil2:
+   </a>
   </li>
   <li>
    Swift KVC Collection Operators
    <a href="http://andrewbatutin.github.io/swift/2014/12/06/swift-kvc.html">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Observer + Iterator + Push = Observable
+   <a href="https://sideeffects.xyz/2016/the-reactive-revolution-of-swift/">
+    :floppy
+    <em>
+     disk:
+    </em>
+   </a>
+  </li>
+  <li>
+   Swift: NSNotificationCenter protocol
+   <a href="https://medium.com/swift-programming/swift-nsnotificationcenter-protocol-c527e67d93a1#.7ramm0o2c">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Swift NSNotificationCenter with userInfo (Producer/Consumer)
+   <a href="http://www.xappsoftware.com/wordpress/2016/02/15/swift-nsnotificationcenter-with-userinfo-producerconsumer/">
     :page
     <em>
      facing
@@ -3993,6 +4595,12 @@ facing
     :link:
    </a>
   </li>
+  <li>
+   Factory method with Leading Dot Notation
+   <a href="http://stackoverflow.com/questions/28794089/calling-a-swift-class-factory-method-with-leading-dot-notation">
+    :link:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -4024,7 +4632,7 @@ facing
   </li>
  </ul>
  <sup>
-  &#9733 1009, pushed 159 days ago
+  &#9733 1009, pushed 284 days ago
  </sup>
 </li>
 once singleton model
@@ -4067,6 +4675,21 @@ once singleton model
   <li>
    Class Cluster
    <a href="http://en.swifter.tips/class-cluster/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ Responder Chain
+ <ul>
+  <li>
+   Swifty Responder Chain
+   <a href="http://roopc.net/posts/2016/swifty-responder-chain/">
     :page
     <em>
      facing
@@ -4153,7 +4776,7 @@ once singleton model
    :pencil2:
   </a>
   <sup>
-   &#9733 219, pushed 154 days ago
+   &#9733 219, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -4205,6 +4828,12 @@ once singleton model
   </a>
  </li>
  <li>
+  Object oriented Swift
+  <a href="https://github.com/JohnSundell/Flow">
+   :pencil2:
+  </a>
+ </li>
+ <li>
   Aspect Oriented Programming with Swift
   <a href="https://gist.github.com/JadenGeller/f8ad2574590f956fee92">
    :pencil:
@@ -4218,6 +4847,54 @@ once singleton model
   </a>
   <a href="https://github.com/MrAlek/Swiftalytics">
    :pencil2:
+  </a>
+ </li>
+ <li>
+  Entity Component System
+  <a href="https://github.com/mzaks/Entitas-Swift">
+   :pencil2:
+  </a>
+ </li>
+ <li>
+  Data Driven Design in Swift
+  <a href="http://www.slideshare.net/maximzaks/uikonf-app-data-driven-desing">
+   :floppy_disk:
+  </a>
+ </li>
+ <li>
+  Robotics with Swift
+  <a href="http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Framework oriented Programming
+  <a href="https://medium.com/@pepibumur/framework-oriented-programming-11c10a2ebc39#.s3ut3glv5">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Boundaries in Practice
+  <a href="https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Compiler Driven Development
+  <a href="https://www.skilled.io/nikitalutsenko/compile-time-guaranteed">
+   :microphone:
   </a>
  </li>
 </ul>
@@ -4262,7 +4939,7 @@ once singleton model
     </a>
    </li>
    <li>
-    Simplfied Login with Swift Enums
+    Simplified Login with Swift Enums
     <a href="https://realm.io/news/david-east-simplifying-login-swift-enums/">
      :page
      <em>
@@ -4464,6 +5141,58 @@ once singleton model
      up:
     </a>
    </li>
+   <li>
+    How can enums be recursive?
+    <a href="https://www.quora.com/How-can-enumerations-in-Swift-be-recursive">
+     :link:
+    </a>
+   </li>
+   <li>
+    Swift enums - the not so good parts
+    <a href="http://kostiakoval.github.io/posts/swift-enums-the-not-so-good-parts">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Keeping Designers Happy via Enums
+    <a href="https://realm.io/news/slug-patrick-reynolds-keeping-designers-happy-enums/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    No-case Enums?
+    <a href="http://ericasadun.com/2016/07/18/dear-erica-no-case-enums/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Either Enum
+    <a href="http://www.mokacoding.com/blog/swift-either/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Enums as configuration: the anti-pattern
+    <a href="http://www.jessesquires.com/enums-as-configs/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -4473,6 +5202,37 @@ once singleton model
     Official Docs
     <a href="https://github.com/apple/swift/blob/master/docs/PatternMatching.rst">
      :pencil:
+    </a>
+   </li>
+   <li>
+    Pattern Matching
+    <a href="http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
    <li>
@@ -4615,6 +5375,28 @@ once singleton model
      up:
     </a>
    </li>
+   <li>
+    URL Pattern Matching
+    <a href="http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <ul>
+     <li>
+      Using Custom Types as Enumeration Case Raw Values in Swift
+      <a href="http://andybargh.com/custom-enumeration-raw-values/">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
+    </ul>
+   </li>
   </ul>
  </li>
 </ul>
@@ -4687,6 +5469,16 @@ once singleton model
     </a>
     RE
     <a href="http://owensd.io/blog/re-why-swift-guard-should-be-avoided/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Three tips for concise Swift using the Guard statement
+    <a href="https://appventure.me/2016/03/29/three-tips-for-clean-swift-code">
      :page
      <em>
       facing
@@ -4820,6 +5612,16 @@ once singleton model
   Asserts
   <ul>
    <li>
+    Swift assertions
+    <a href="http://andybargh.com/swift-assertions/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
     Using the
     <em>
      assert()
@@ -4896,7 +5698,7 @@ once singleton model
      :pencil2:
     </a>
     <sup>
-     &#9733 879, pushed 3 days ago
+     &#9733 879, pushed 128 days ago
     </sup>
    </li>
   </ul>
@@ -4904,6 +5706,15 @@ once singleton model
  <li>
   Other
   <ul>
+   <li>
+    Error Handling in Swift
+    <a href="http://andybargh.com/error-handling-in-swift/">
+     :floppy
+     <em>
+      disk:
+     </em>
+    </a>
+   </li>
    <li>
     Easy Error Handing
     <a href="https://littlebitesofcocoa.com/108-error-handling">
@@ -4939,6 +5750,13 @@ once singleton model
     </a>
     <a href="https://gist.github.com/nicklockwood/21495c2015fd2dda56cf">
      :pencil:
+    </a>
+    <a href="https://www.bignerdranch.com/blog/error-handling-in-swift-2/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
    <li>
@@ -4977,22 +5795,37 @@ once singleton model
      up:
     </a>
     <a href="https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015">
-     :floppy_disk:
-    </a>
-   </li>
-   <li>
-    Errors: unexpected, composite, non-pure, external
-    <a href="http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html">
-     :page
-     <em>
-      facing
-     </em>
-     up:
+     :floppy
     </a>
    </li>
   </ul>
  </li>
 </ul>
+disk:
+<li>
+ Errors: unexpected, composite, non-pure, external
+ <a href="http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Swift 2 Error Handling vs Result
+ <t, e="">
+  <a href="https://speakerdeck.com/inamiy/swift-2-error-handling-vs-result-t-e">
+   :floppy_disk:
+  </a>
+ </t,>
+</li>
+<li>
+ Three Stories of Error Handling in Swift
+ <a href="https://realm.io/news/tryswift-yuta-koshizawa-error-handling-swift/">
+  :microphone:
+ </a>
+</li>
 <p>
  <a href="#index">
   :arrow_up:
@@ -5026,7 +5859,7 @@ once singleton model
    :pencil2:
   </a>
   <sup>
-   &#9733 2866, pushed 15 days ago
+   &#9733 2866, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -5041,7 +5874,7 @@ once singleton model
    :pencil2:
   </a>
   <sup>
-   &#9733 176, pushed 609 days ago
+   &#9733 176, pushed 734 days ago
   </sup>
  </li>
  <li>
@@ -5096,7 +5929,7 @@ once singleton model
    :pencil2:
   </a>
   <sup>
-   &#9733 146, pushed 22 days ago
+   &#9733 146, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -5105,7 +5938,7 @@ once singleton model
    :pencil2:
   </a>
   <sup>
-   &#9733 1094, pushed 2 days ago
+   &#9733 1094, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5282,7 +6115,17 @@ disk:
 <li>
  Why is there no base class in Swift
  <a href="http://stackoverflow.com/questions/24137368/why-is-there-no-universal-base-class-in-swift?rq=1">
-  :liknk:
+  :link:
+ </a>
+</li>
+<li>
+ Thinking in Swift
+ <a href="https://www.accelebrate.com/blog/thinking-swift-part-i/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
  </a>
 </li>
 <li>
@@ -5315,8 +6158,28 @@ disk:
    </a>
   </li>
   <li>
-   Open Source Swift 3.0 Roadmap
+   Swift 3.0
    <a href="https://realm.io/news/swift-opensource/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+   <a href="http://swift.ayaka.me/posts/2016/6/18/favorite-swift-30-features">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+   <a href="https://realm.io/news/appbuilders-daniel-steinberg-whats-new-swift-3/">
+    :microphone:
+   </a>
+  </li>
+  <li>
+   Migrating to Swift 3
+   <a href="http://www.jessesquires.com/migrating-to-swift-3/">
     :page
     <em>
      facing
@@ -5342,7 +6205,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 680, pushed 4 days ago
+    &#9733 680, pushed 129 days ago
    </sup>
   </li>
   <li>
@@ -5351,7 +6214,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 684, pushed 11 days ago
+    &#9733 684, pushed 136 days ago
    </sup>
   </li>
   <li>
@@ -5368,6 +6231,36 @@ disk:
    Swift [and the] Evolution
    <a href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution">
     :microphone:
+   </a>
+  </li>
+  <li>
+   3.0 API Pruning
+   <a href="http://ericasadun.com/2016/04/08/preparing-for-3-0-api-pruning">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Swift 3 Features
+   <a href="https://medium.com/the-traveled-ios-developers-guide/swift-3-feature-highlight-c38f94359731#.96n3quaoy">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   ABI Compatibility: Whoopdty Do, What Does It All Mean?
+   <a href="http://www.bensnider.com/abi-compatibility-whoopdty-do-what-does-it-all-mean.html">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
@@ -5545,52 +6438,13 @@ disk:
 </p>
 <h4>
  <strong>
-  IO
+  Foundation
  </strong>
 </h4>
 <ul>
  <li>
-  Basic File Reading and Writing Using Swift
-  <a href="http://peterwitham.com/swift/intermediate/basic-file-reading-and-writing-in-ios-8/">
-   :page
-   <em>
-    facing
-   </em>
-   up:
-  </a>
- </li>
- <li>
-  Read and write data from text file
-  <a href="http://stackoverflow.com/questions/24097826/read-and-write-data-from-text-file">
-   :page
-   <em>
-    facing
-   </em>
-   up:
-  </a>
- </li>
- <li>
-  Working with Files in Swift
-  <a href="http://www.techotopia.com/index.php/Working_with_Files_in_Swift_on_iOS_8">
-   :page
-   <em>
-    facing
-   </em>
-   up:
-  </a>
- </li>
- <li>
-  A portable I/O framework for Swift
-  <a href="https://github.com/CaramelForSwift/Caramel">
-   :pencil2:
-  </a>
-  <sup>
-   &#9733 287, pushed 67 days ago
-  </sup>
- </li>
- <li>
-  Reading and Writing Files to the iOS File System
-  <a href="http://www.timdietrich.me/blog/swift-reading-and-writing-files-to-ios-file-system/">
+  Measurements and Units in Foundation
+  <a href="http://oleb.net/blog/2016/07/measurements-and-units/">
    :page
    <em>
     facing
@@ -5613,6 +6467,16 @@ disk:
  <li>
   Declarative Programming
   <ul>
+   <li>
+    Modern Declarative Programming in Swift
+    <a href="https://wiki.mq.edu.au/display/plrg/James+Moss%3A+Modern+Declarative+Programming+in+Swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     What is Functional Programming in Swift?
     <a href="http://media.monkey-robot.com/docs/thoughtworks-swift.pdf">
@@ -5803,7 +6667,7 @@ Swift
   :pencil:
  </a>
  <sup>
-  &#9733 24, pushed 72 days ago
+  &#9733 24, pushed 197 days ago
  </sup>
 </li>
 <li>
@@ -6008,9 +6872,16 @@ Swift
      </a>
     </li>
     <li>
-     Tying the Knot in Swift
-     <a href="http://stackoverflow.com/a/24026196/2855836">
-      :link:
+     Tying the Knot in Swift [:link:](http://stackoverflow.com/a/24026196/2855836
+    </li>
+    <li>
+     Chaining with Continuations
+     <a href="http://www.overtakenbyevents.com/Swift-continuations/">
+      :page
+      <em>
+       facing
+      </em>
+      up:
      </a>
     </li>
    </ul>
@@ -6034,7 +6905,7 @@ Swift
       :pencil2:
      </a>
      <sup>
-      &#9733 42, pushed 68 days ago
+      &#9733 42, pushed 193 days ago
      </sup>
     </li>
     <li>
@@ -6043,7 +6914,7 @@ Swift
       :pencil2:
      </a>
      <sup>
-      &#9733 74, pushed 183 days ago
+      &#9733 74, pushed 308 days ago
      </sup>
     </li>
     <li>
@@ -6075,6 +6946,16 @@ Swift
      Recursive structures in Swift without Box classes
      <a href="https://gist.github.com/zats/c39dbd9b0017fb3b77dd37be744cf474">
       :pencil:
+     </a>
+    </li>
+    <li>
+     Swift Infinite Lists
+     <a href="http://rosslebeau.com/2016/swift-infinite-lists">
+      :page
+      <em>
+       facing
+      </em>
+      up:
      </a>
     </li>
    </ul>
@@ -6116,6 +6997,12 @@ Swift
  Lambda Calculus
  <ul>
   <li>
+   Swift Lambda Calculus Functions
+   <a href="https://github.com/JadenGeller/Calcula">
+    :pencil:
+   </a>
+  </li>
+  <li>
    Church Encoding
    <a href="https://gist.github.com/CodaFi/b9ca5bcee6d7ea9ff158">
     :pencil:
@@ -6146,7 +7033,7 @@ Swift
     :floppy_disk:
    </a>
    <sup>
-    &#9733 12, pushed 388 days ago
+    &#9733 12, pushed 513 days ago
    </sup>
   </li>
  </ul>
@@ -6200,6 +7087,13 @@ Swift
    </a>
    <a href="https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151214/002739.html">
     :link:
+   </a>
+   <a href="http://www.russbishop.net/monoids-monads-and-functors">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
   <li>
@@ -6258,6 +7152,12 @@ Swift
     up:
    </a>
   </li>
+  <li>
+   Avoid consecutive “if let” declarations in Swift
+   <a href="http://stackoverflow.com/questions/26671833/avoid-consecutive-if-let-declarations-in-swift/26673847#26673847">
+    :link:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -6302,6 +7202,15 @@ Swift
      <a href="https://gist.github.com/Ben-G/542982cc102aaa1a4d4b">
       :pencil:
      </a>
+     <a href="https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/">
+      :microphone:
+     </a>
+     <a href="https://speakerdeck.com/bontojr/monads-are-not-monsters-uikonf-2015">
+      :floppy
+      <em>
+       disk:
+      </em>
+     </a>
     </li>
     <li>
      Applicatives in Swift
@@ -6335,7 +7244,7 @@ Swift
       :pencil2:
      </a>
      <sup>
-      &#9733 417, pushed 45 days ago
+      &#9733 417, pushed 170 days ago
      </sup>
     </li>
     <li>
@@ -6364,14 +7273,15 @@ Swift
   </li>
  </ul>
 </li>
-facing_up:
+facing
+up:
 <li>
  Swift Adventures in Monad Land
  <a href="https://github.com/alskipp/Swift-Adventures-In-Monad-Land">
   :pencil2:
  </a>
  <sup>
-  &#9733 136, pushed 128 days ago
+  &#9733 136, pushed 253 days ago
  </sup>
 </li>
 <li>
@@ -6474,7 +7384,7 @@ facing_up:
     :pencil2:
    </a>
    <sup>
-    &#9733 39, pushed 111 days ago
+    &#9733 39, pushed 235 days ago
    </sup>
   </li>
   <li>
@@ -6547,7 +7457,7 @@ facing_up:
     up:
    </a>
    <sup>
-    &#9733 21, pushed 94 days ago
+    &#9733 21, pushed 219 days ago
    </sup>
   </li>
   <li>
@@ -6616,7 +7526,7 @@ facing_up:
     :pencil2:
    </a>
    <sup>
-    &#9733 3, pushed 389 days ago
+    &#9733 3, pushed 513 days ago
    </sup>
   </li>
   <li>
@@ -6631,9 +7541,15 @@ facing_up:
  Promises / Futures
  <ul>
   <li>
-   FutureKit Repostory
+   FutureKit Repository
    <a href="https://github.com/FutureKit/FutureKit">
     :pencil2:
+   </a>
+  </li>
+  <li>
+   You're missing the point of promises
+   <a href="https://gist.github.com/domenic/3889970">
+    :pencil:
    </a>
   </li>
   <li>
@@ -6651,7 +7567,7 @@ facing_up:
     :link:
    </a>
    <sup>
-    &#9733 5026, pushed 7 days ago
+    &#9733 5026, pushed 132 days ago
    </sup>
   </li>
   <li>
@@ -6663,7 +7579,7 @@ facing_up:
     :microphone:
    </a>
    <sup>
-    &#9733 1062, pushed 2 days ago
+    &#9733 1062, pushed 127 days ago
    </sup>
   </li>
   <li>
@@ -6693,7 +7609,7 @@ facing_up:
   </li>
  </ul>
  <sup>
-  &#9733 410, pushed 4 days ago
+  &#9733 410, pushed 129 days ago
  </sup>
 </li>
 disk:
@@ -6722,16 +7638,38 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 1403, pushed 43 days ago
+  &#9733 1403, pushed 167 days ago
  </sup>
+</li>
+<li>
+ Composability with Swift
+ <a href="https://speakerdeck.com/bontojr/composability-with-swift">
+  :floppy_disk:
+ </a>
 </li>
 <li>
  Combinators
  <ul>
   <li>
+   Parser Combinators in Swift
+   <a href="https://realm.io/news/tryswift-yasuhiro-inami-parser-combinator/">
+    :microphone:
+   </a>
+  </li>
+  <li>
    Y Combinators in Swift
    <a href="https://gist.github.com/kongtomorrow/e95bea13162ca0e29d4b#file-gistfile1-swift">
     :pencil:
+   </a>
+   <a href="https://gist.github.com/kongtomorrow/e95bea13162ca0e29d4b">
+    :pencil:
+   </a>
+   <a href="https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.7z8p7rbu7">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
   <li>
@@ -6769,7 +7707,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 1, pushed 41 days ago
+    &#9733 1, pushed 165 days ago
    </sup>
   </li>
   <li>
@@ -6778,8 +7716,14 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 1, pushed 20 days ago
+    &#9733 1, pushed 144 days ago
    </sup>
+  </li>
+  <li>
+   Fixed point combinators and recursive closures
+   <a href="http://stackoverflow.com/a/34566264/2855836">
+    :link:
+   </a>
   </li>
  </ul>
 </li>
@@ -6811,7 +7755,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 66, pushed 4 days ago
+    &#9733 66, pushed 128 days ago
    </sup>
   </li>
   <li>
@@ -6868,24 +7812,13 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 56, pushed 11 days ago
+    &#9733 56, pushed 136 days ago
    </sup>
   </li>
   <li>
-   Covariance and Contravariance in Swift 2.1
-   <a href="http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/">
-    :page
-    <em>
-     facing
-    </em>
-    up:
-   </a>
-   <a href="https://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html">
-    :page
-    <em>
-     facing
-    </em>
-    up:
+   Lens Parser
+   <a href="https://github.com/KarlHarnois/LensParser">
+    :pencil2:
    </a>
   </li>
  </ul>
@@ -6911,13 +7844,42 @@ disk:
     :pencil:
    </a>
   </li>
+  <li>
+   Top, Any, and Bottom Type
+   <a href="http://stackoverflow.com/questions/34150907/bottom-type-in-swift">
+    :link:
+   </a>
+  </li>
+  <li>
+   Covariance and Contravariance in Swift 2.1
+   <a href="http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+   <a href="https://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Category Theory Practice
+   <a href="https://github.com/ashfurrow/category-theory-exercises">
+    :pencil2:
+   </a>
+  </li>
  </ul>
  <sup>
-  &#9733 1, pushed 596 days ago
+  &#9733 1, pushed 721 days ago
  </sup>
 </li>
 <li>
- Funtional Frameworks
+ Functional Frameworks
  <ul>
   <li>
    Swiftz Functional Programming Library
@@ -6931,7 +7893,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 65, pushed 32 days ago
+    &#9733 65, pushed 156 days ago
    </sup>
   </li>
   <li>
@@ -6940,7 +7902,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 136, pushed 39 days ago
+    &#9733 136, pushed 163 days ago
    </sup>
   </li>
   <li>
@@ -6949,7 +7911,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 276, pushed 42 days ago
+    &#9733 276, pushed 166 days ago
    </sup>
   </li>
   <li>
@@ -6958,7 +7920,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 100, pushed 68 days ago
+    &#9733 100, pushed 193 days ago
    </sup>
   </li>
   <li>
@@ -6971,7 +7933,7 @@ disk:
     up:
    </a>
    <sup>
-    &#9733 222, pushed 89 days ago
+    &#9733 222, pushed 213 days ago
    </sup>
   </li>
   <li>
@@ -6980,7 +7942,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 9, pushed 108 days ago
+    &#9733 9, pushed 233 days ago
    </sup>
   </li>
   <li>
@@ -6995,7 +7957,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 2, pushed 24 days ago
+    &#9733 2, pushed 149 days ago
    </sup>
   </li>
  </ul>
@@ -7014,6 +7976,16 @@ disk:
  <li>
   FRP
   <ul>
+   <li>
+    What I wished younger me knew about FRP
+    <a href="http://codeplease.io/2016/04/04/what-i-wished-younger-me-knew/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Why FRP
     <a href="http://codeplease.io/2016/01/08/why-frp/">
@@ -7088,7 +8060,7 @@ disk:
      up:
     </a>
     <sup>
-     &#9733 194, pushed 118 days ago
+     &#9733 194, pushed 242 days ago
     </sup>
    </li>
    <li>
@@ -7105,6 +8077,32 @@ disk:
     What is Functional Reactive Programming?
     <a href="http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming/1030631#1030631">
      :link:
+    </a>
+   </li>
+   <li>
+    The Non-Reactive Solution
+    <a href="http://inessential.com/2016/04/04/the_non-reactive_solution">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Simple Reactive Programming
+    <a href="https://gist.github.com/monyschuk/07be2c45c2a7157522f7">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    The Reactive Revolution of Swift
+    <a href="https://sideeffects.xyz/2016/03/29/the-reactive-revolution-of-swift.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
   </ul>
@@ -7149,10 +8147,26 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    Reactive Learning Curve
+    <a href="https://medium.com/@clozach/climbing-the-reactive-learning-curve-4a03fa8d17ae#.uy89014wo">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Reddit MVVM Benchmark
+    <a href="https://github.com/ivanbruel/Reddit-MVVM-Benchmark">
+     :pencil2:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
-  RAC
+  RAC / ReactiveCocoa
   <ul>
    <li>
     Introduction
@@ -7209,7 +8223,7 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 116, pushed 2 days ago
+  &#9733 116, pushed 126 days ago
  </sup>
 </li>
 <li>
@@ -7228,7 +8242,7 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 55, pushed 6 days ago
+  &#9733 55, pushed 131 days ago
  </sup>
 </li>
 <li>
@@ -7237,12 +8251,31 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 17, pushed 109 days ago
+  &#9733 17, pushed 234 days ago
  </sup>
 </li>
 <li>
- Rx
+ Simple Asynchronous Swift code with ReactiveCocoa 4
+ <a href="https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4">
+  :microphone:
+ </a>
+</li>
+<li>
+ RxSwift
  <ul>
+  <li>
+   Introduction to Rx
+   <a href="http://reactivex.io/documentation/operators.html">
+    :link:
+   </a>
+   <a href="https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
   <li>
    Simple RxSwift
    <a href="https://littlebitesofcocoa.com/162-reacting-with-rxswift">
@@ -7258,6 +8291,12 @@ disk:
      facing
     </em>
     up:
+   </a>
+  </li>
+  <li>
+   Reactive programming with RxSwift
+   <a href="https://realm.io/news/altconf-scott-gardner-reactive-programming-with-rxswift/">
+    :microphone:
    </a>
   </li>
   <li>
@@ -7321,7 +8360,7 @@ disk:
     :link:
    </a>
    <sup>
-    &#9733 135, pushed 157 days ago
+    &#9733 135, pushed 281 days ago
    </sup>
   </li>
   <li>
@@ -7355,12 +8394,6 @@ disk:
      facing
     </em>
     up:
-   </a>
-  </li>
-  <li>
-   Introduction to Rx
-   <a href="http://reactivex.io/documentation/operators.html">
-    :link:
    </a>
   </li>
  </ul>
@@ -7477,6 +8510,16 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    What are Generic Protocols good for?
+    <a href="https://dzone.com/articles/swift-generic-protocols-what-are-they-good-for">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -7485,6 +8528,12 @@ disk:
    <li>
     Swift “where” keyword
     <a href="http://stackoverflow.com/questions/25336079/swift-where-key-word/25336571#25336571">
+     :link:
+    </a>
+   </li>
+   <li>
+    Multiple Type constraints with where
+    <a href="http://stackoverflow.com/questions/24089145/multiple-type-constraints-in-swift">
      :link:
     </a>
    </li>
@@ -7585,6 +8634,23 @@ disk:
  <li>
   Initialization
   <ul>
+   <li>
+    Initialization in Swift 2 part series
+    <a href="https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Swift Initializers
     <a href="http://ashfurrow.com/blog/swift-initializers/">
@@ -7739,16 +8805,26 @@ disk:
      :link:
     </a>
    </li>
+   <li>
+    Common Initializer Patterns in Swift
+    <a href="http://basememara.com/common-initializer-patterns-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
   Properties
   <ul>
    <li>
-    Stored Properties
+    Type Properties
     <ul>
      <li>
-      Class Properties in Swift
+      Instance property vs static type property vs computed type property
       <a href="http://stackoverflow.com/questions/24087936/how-do-i-make-class-methods-properties-in-swift">
        :page
        <em>
@@ -7757,6 +8833,21 @@ disk:
        up:
       </a>
      </li>
+     <li>
+      About Type properties
+      <a href="http://stackoverflow.com/a/24138580/2855836">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Stored Properties
+    <ul>
      <li>
       Stored Properties
       <a href="https://www.quora.com/Apple-Swift-programming-language/What-is-a-stored-property">
@@ -7914,6 +9005,16 @@ disk:
        up:
       </a>
      </li>
+     <li>
+      Turn Computed Property into Lazy Property
+      <a href="http://kostiakoval.github.io/posts/turn-computed-property-into-lazy-roperty">
+       :page
+       <em>
+        facing
+       </em>
+       up:
+      </a>
+     </li>
     </ul>
    </li>
    <li>
@@ -7937,6 +9038,34 @@ disk:
         facing
        </em>
        up:
+      </a>
+     </li>
+     <li>
+      Static vs class functions/variables in Swift classes?
+      <a href="http://stackoverflow.com/questions/29636633/static-vs-class-functions-variables-in-swift-classes">
+       :link:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Read-only
+    <ul>
+     <li>
+      Read-only and non-computed variable properties
+      <a href="http://stackoverflow.com/questions/24081194/read-only-and-non-computed-variable-properties-in-swift">
+       :link:
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    Atomicity
+    <ul>
+     <li>
+      Nonatomic in Swift
+      <a href="https://forums.developer.apple.com/thread/25642">
+       :link:
       </a>
      </li>
     </ul>
@@ -8001,7 +9130,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 192, pushed 2 days ago
+     &#9733 192, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -8020,7 +9149,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 17, pushed 113 days ago
+     &#9733 17, pushed 238 days ago
     </sup>
    </li>
    <li>
@@ -8032,7 +9161,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 16, pushed 244 days ago
+     &#9733 16, pushed 368 days ago
     </sup>
    </li>
    <li>
@@ -8061,6 +9190,12 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    DIY: Build Your Own Dependency Injection Library
+    <a href="https://realm.io/news/android-pierre-yves-ricau-build-own-dependency-injection/">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
 </ul>
@@ -8078,6 +9213,16 @@ disk:
  <li>
   C
   <ul>
+   <li>
+    Swift And C: Everything You Need to Know
+    <a href="https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Swift and C
     <a href="https://realm.io/news/pragma-chris-eidhof-swift-c/">
@@ -8156,7 +9301,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 11, pushed 114 days ago
+     &#9733 11, pushed 239 days ago
     </sup>
    </li>
    <li>
@@ -8165,7 +9310,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 44, pushed 18 days ago
+     &#9733 44, pushed 143 days ago
     </sup>
    </li>
    <li>
@@ -8182,6 +9327,16 @@ disk:
     Swift can now partially import C aggregate
     <a href="http://stackoverflow.com/questions/24622475/using-glkmath-from-glkit-in-swift/24622846#24622846">
      :link:
+    </a>
+   </li>
+   <li>
+    Compiling and Interpolating C with the spm
+    <a href="http://ankit.im/swift/2016/04/06/compiling-and-interpolating-C-using-swift-package-manager/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
   </ul>
@@ -8228,7 +9383,10 @@ disk:
    <li>
     Wrapping Objc Frameworks in Swift
     <a href="https://speakerdeck.com/jpsim/wrapping-objective-c-frameworks-in-swift">
-     :floppy_disk:
+     :floppy
+     <em>
+      disk:
+     </em>
     </a>
    </li>
    <li>
@@ -8298,9 +9456,40 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    A dynamic foundation
+    <a href="http://roopc.net/posts/2016/a-dynamic-foundation/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift and Dynamism
+    <a href="http://blog.wilshipley.com/2016/05/pimp-my-code-book-2-swift-and-dynamism.html">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Illustrated history of objc
+    <em>
+     msgSend
+     <a href="http://sealiesoftware.com/msg/">
+      :page
+     </a>
+    </em>
+    facing
+   </li>
   </ul>
  </li>
 </ul>
+up:
 <p>
  <a href="#index">
   :arrow_up:
@@ -8345,16 +9534,6 @@ disk:
      up:
     </a>
     <a href="https://sectionfive.net/blog/2015/06/12/arc-in-depth-part-ii/">
-     :page
-     <em>
-      facing
-     </em>
-     up:
-    </a>
-   </li>
-   <li>
-    ARC + Swift
-    <a href="https://medium.com/the-traveled-ios-developers-guide/arc-swift-d323535baecb#.31lclj25s">
      :page
      <em>
       facing
@@ -8428,6 +9607,22 @@ disk:
      :link:
     </a>
    </li>
+   <li>
+    How does Swift implement ARC in property attributes?
+    <a href="http://stackoverflow.com/questions/24387634/how-does-swift-implement-arc-in-property-attributes">
+     :link:
+    </a>
+   </li>
+   <li>
+    Will ARC always make Swift slower than a language without any type of garbage collector like C++ or C?
+    <a href="https://www.quora.com/Will-ARC-always-make-Swift-slower-than-a-language-without-any-type-of-garbage-collector-like-C++-or-C?srid=xrLC&share=e61ad115">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -8446,6 +9641,26 @@ disk:
    <li>
     iOS Assembly Tutorial: Understanding ARM
     <a href="https://www.raywenderlich.com/37181/ios-assembly-tutorial">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    An ARM Build Farm with Jenkins
+    <a href="http://dev.iachieved.it/iachievedit/an-arm-build-farm-with-jenkins/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift for ARM Systems
+    <a href="http://dev.iachieved.it/iachievedit/swift-for-arm-systems/">
      :page
      <em>
       facing
@@ -8474,6 +9689,26 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    Swift Byte Packing
+    <a href="http://www.russbishop.net/packing-bytes-in-swift">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Compilation Reporting at Tumblr
+    <a href="https://engineering.tumblr.com/post/144151794436/swift-compilation-reporting-at-tumblr">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -8491,7 +9726,7 @@ disk:
      :pencil:
     </a>
     <sup>
-     &#9733 2212, pushed 7 days ago
+     &#9733 2212, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -8518,6 +9753,23 @@ disk:
       facing
      </em>
      up:
+    </a>
+   </li>
+   <li>
+    A C++ to Swift Bridge implemented as a Clang Tool
+    <a href="https://github.com/sandym/swiftpp">
+     :pencil:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Grammar
+  <ul>
+   <li>
+    Implicit Member Expression
+    <a href="http://stackoverflow.com/a/35387593/2855836">
+     :link:
     </a>
    </li>
   </ul>
@@ -8597,13 +9849,19 @@ disk:
  </a>
 </li>
 <li>
- Swift Object Name Demangling
+ Swift Object Name De-mangling
  <a href="https://www.securify.nl/blog/SFY20150302/hooking_swift_methods_for_fun_and_profit.html">
   :page
   <em>
    facing
   </em>
   up:
+ </a>
+</li>
+<li>
+ Hopper Swift Demangler
+ <a href="https://github.com/keith/hopper-swift-demangle">
+  :pencil:
  </a>
 </li>
 <li>
@@ -8686,7 +9944,7 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 29, pushed 166 days ago
+  &#9733 29, pushed 291 days ago
  </sup>
 </li>
 <li>
@@ -8695,7 +9953,16 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 15, pushed 153 days ago
+  &#9733 15, pushed 278 days ago
+ </sup>
+</li>
+<li>
+ Swift wrapper around LLVM-C
+ <a href="https://github.com/bencochran/LLVM.swift">
+  :pencil:
+ </a>
+ <sup>
+  &#9733 29, pushed 291 days ago
  </sup>
 </li>
 <li>
@@ -8732,6 +9999,12 @@ disk:
    </a>
   </li>
   <li>
+   Storage for Structs Opinionated Serialization With Generics
+   <a href="https://www.skilled.io/nickoneill/lets-code-storage-for-structs">
+    :microphone:
+   </a>
+  </li>
+  <li>
    Bitcode Demystified
    <a href="http://lowlevelbits.org/bitcode-demystified/">
     :page
@@ -8765,6 +10038,16 @@ disk:
    Where is my variable being stored?
    <a href="http://stackoverflow.com/questions/31987566/where-is-my-variable-being-stored-swift">
     :link:
+   </a>
+  </li>
+  <li>
+   Minimizing your app's Memory Footprint
+   <a href="ttps://developer.apple.com/library/ios/technotes/tn2434/_index.html">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
@@ -8825,7 +10108,7 @@ disk:
    </a>
   </li>
   <li>
-   Opimizing Swift Performance
+   Optimizing Swift Performance
    <a href="https://developer.apple.com/videos/play/wwdc2015-409/">
     :microphone:
    </a>
@@ -8854,6 +10137,28 @@ disk:
    Meaning of the LLVM Optimization Levels
    <a href="http://stackoverflow.com/questions/21447377/meaning-of-the-llvm-optimization-levels">
     :link:
+   </a>
+  </li>
+  <li>
+   ARC Optimization for Swift
+   <a href="https://github.com/apple/swift/blob/master/docs/ARCOptimization.rst">
+    :pencil:
+   </a>
+  </li>
+  <li>
+   High Level SIL Optimizations
+   <a href="https://github.com/apple/swift/blob/master/docs/HighLevelSILOptimizations.rst">
+    :pencil:
+   </a>
+  </li>
+  <li>
+   The Effect of Dependency Structure on iOS Launch Times
+   <a href="https://engineering.tumblr.com/post/144507330193/peeking-into-a-black-box-the-effect-of">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
@@ -8915,7 +10220,7 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 0, pushed 447 days ago
+  &#9733 0, pushed 572 days ago
  </sup>
 </li>
 <li>
@@ -8939,6 +10244,28 @@ disk:
  Writing High Performance Swift Code
  <a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">
   :link:
+ </a>
+</li>
+<li>
+ Swift Single Soutce
+ <a href="https://github.com/apple/swift/tree/master/benchmark/single-source">
+  :pencil:
+ </a>
+</li>
+<li>
+ 10 thousand times faster Swift
+ <a href="https://medium.com/@icex33/10-thousand-times-faster-swift-737b1accd973#.92zevwqyq">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Why Swift is swift
+ <a href="https://www.skilled.io/purpleyay/why-swift-is-swift">
+  :microphone:
  </a>
 </li>
 <li>
@@ -8976,13 +10303,42 @@ disk:
     up:
    </a>
   </li>
+  <li>
+   Change your API endpoint/environment using Xcode Configurations in Swift
+   <a href="https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e#.a1lggp7pb">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
  SIL and swiftc
  <ul>
   <li>
-   Explorign SIL and swiftc
+   Official SIL Page
+   <a href="https://github.com/apple/swift/blob/master/docs/SIL.rst">
+    :pencil:
+   </a>
+  </li>
+  <li>
+   <ul>
+    <li>
+     🖇Introduction to Swift Intermediate Language
+     <a href="https://www.youtube.com/watch?feature=youtu.be&utm_medium=email&v=NH-qIKOoKgA">
+      :video
+      <em>
+       camera:
+      </em>
+     </a>
+    </li>
+   </ul>
+  </li>
+  <li>
+   Exploring SIL and swiftc
    <a href="http://swiftc.io/">
     :page
     <em>
@@ -9025,20 +10381,17 @@ disk:
    Introspecting Swift
    <a href="https://speakerdeck.com/jpsim/introspecting-swift">
     :floppy
-    <em>
-     disk:
-    </em>
-   </a>
-  </li>
-  <li>
-   Unsafe Swift
-   <a href="https://speakerdeck.com/realm/unsafe-swift">
-    :floppy
    </a>
   </li>
  </ul>
 </li>
 disk:
+<li>
+ Unsafe Swift
+ <a href="https://speakerdeck.com/realm/unsafe-swift">
+  :floppy_disk:
+ </a>
+</li>
 <li>
  Type Introspection and demangling
  <a href="http://ericasadun.com/2014/06/16/swift-more-than-you-probably-want-to-know-about-type-introspection/">
@@ -9065,6 +10418,108 @@ disk:
   :pencil:
  </a>
 </li>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
+<h4>
+ <strong>
+  IO
+ </strong>
+</h4>
+<ul>
+ <li>
+  Basic File Reading and Writing Using Swift
+  <a href="http://peterwitham.com/swift/intermediate/basic-file-reading-and-writing-in-ios-8/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Read and write data from text file
+  <a href="http://stackoverflow.com/questions/24097826/read-and-write-data-from-text-file">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Working with Files in Swift
+  <a href="http://www.techotopia.com/index.php/Working_with_Files_in_Swift_on_iOS_8">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  A portable I/O framework for Swift
+  <a href="https://github.com/CaramelForSwift/Caramel">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 287, pushed 191 days ago
+  </sup>
+ </li>
+ <li>
+  Reading and Writing Files to the iOS File System
+  <a href="http://www.timdietrich.me/blog/swift-reading-and-writing-files-to-ios-file-system/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Write large files to disk on background thread
+  <a href="http://stackoverflow.com/questions/31965566/how-to-efficiently-write-large-files-to-disk-on-background-thread-swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Zip and unzip files with Swift
+  <a href="https://github.com/marmelroy/Zip">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 575, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  NSData extension enables gzip/gunzip using zlib
+  <a href="https://github.com/1024jp/NSData-GZIP">
+   :pencil2:
+  </a>
+ </li>
+ <li>
+  FileKit
+  <a href="https://github.com/Dschee/FileKit">
+   :pencil:
+  </a>
+ </li>
+ <li>
+  Zipping and unzipping files in your Swift app
+  <a href="https://medium.com/swift-and-ios-writing/zipping-and-unzipping-files-in-your-swift-app-1b33a82b4b88#.p8zg1o9yp">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+</ul>
 <p>
  <a href="#index">
   :arrow_up:
@@ -9127,7 +10582,7 @@ disk:
  </a>
 </li>
 <li>
- A Swift intoduction to Haskell
+ A Swift introduction to Haskell
  <a href="https://speakerdeck.com/johannesweiss/swift-london-meetup-introduction-to-haskell">
   :floppy
   <em>
@@ -9141,6 +10596,19 @@ disk:
   :link:
  </a>
 </li>
+<li>
+ Quicksort in Swift with Haskell style
+ <a href="http://stackoverflow.com/questions/26310136/quicksort-in-swift-with-haskell-style/26310566#26310566">
+  :link:
+ </a>
+</li>
+<li>
+ Lesson In Swift Through Haskell
+ <a href="http://www.slideshare.net/JoeBurgess1/lesson-in-swift-through-haskell">
+  :floppy
+ </a>
+</li>
+disk:
 <li>
  Javascript
  <ul>
@@ -9162,6 +10630,22 @@ disk:
      facing
     </em>
     up:
+   </a>
+  </li>
+  <li>
+   Swift vs React Native
+   <a href="https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.h7kbylshm">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Creating a Swift-ReactNative project
+   <a href="https://gist.github.com/boopathi/27d21956fefcb5b168fe">
+    :pencil2:
    </a>
   </li>
  </ul>
@@ -9306,6 +10790,16 @@ disk:
     up:
    </a>
   </li>
+  <li>
+   C# like async in Swift
+   <a href="https://alastairs-place.net/blog/2014/06/09/c-number-like-async-in-swift/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -9346,6 +10840,13 @@ disk:
     </em>
     up:
    </a>
+   <a href="http://stackoverflow.com/questions/24110396/abstract-classes-in-swift-language">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
   </li>
   <li>
    Why doesn't Apple Swift adopt the memory management method of garbage collection like in Java?
@@ -9361,6 +10862,16 @@ disk:
    Class level or struct level method in swift like static method in Java?
    <a href="http://stackoverflow.com/questions/24107833/class-level-or-struct-level-method-in-swift-like-static-method-in-java">
     :link:
+   </a>
+  </li>
+  <li>
+   Difference between Swift 2.0 protocol extensions and Java/C# abstract classes?
+   <a href="http://stackoverflow.com/questions/30943209/is-there-a-difference-between-swift-2-0-protocol-extensions-and-java-c-abstract/30945263#30945263">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
@@ -9393,29 +10904,57 @@ disk:
     up:
    </a>
   </li>
- </ul>
-</li>
-<li>
- Go
- <ul>
+  <li>
+   Faceoff: Android vs. iOS
+   <a href="https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/">
+    :microphone:
+   </a>
+   <ul>
+    <li>
+     Using JNI in Swift to put an app into the Android Play Store
+     <a href="https://medium.com/@ephemer/using-jni-in-swift-to-put-an-app-into-the-android-play-store-732e542a99dd#.i66lhd5at">
+      :page
+      <em>
+       facing
+      </em>
+      up:
+     </a>
+    </li>
+    <li>
+     How we put an app in the Android Play Store using Swift
+     <a href="https://medium.com/@ephemer/how-we-put-an-app-in-the-android-play-store-using-swift-67bd99573e3c#.3n77wcutr">
+      :page
+      <em>
+       facing
+      </em>
+      up:
+     </a>
+    </li>
+   </ul>
+  </li>
+  <li>
+   Go
+  </li>
   <li>
    Swift vs Golang
    <a href="http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1">
     :floppy
+    <em>
+     disk:
+    </em>
+   </a>
+  </li>
+  <li>
+   Loops Go vs Swift
+   <a href="http://lithium3141.com/blog/2015/11/26/variable-capture-in-go-vs-swift/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
-</li>
-disk:
-<li>
- Loops Go vs Swift
- <a href="http://lithium3141.com/blog/2015/11/26/variable-capture-in-go-vs-swift/">
-  :page
-  <em>
-   facing
-  </em>
-  up:
- </a>
 </li>
 <li>
  Rust
@@ -9500,7 +11039,8 @@ disk:
   </li>
  </ul>
 </li>
-facing_up:
+facing
+up:
 <li>
  Swift is a lot like Scala
  <a href="https://leverich.github.io/swiftislikescala/">
@@ -9508,7 +11048,7 @@ facing_up:
  </a>
 </li>
 <li>
- Ocaml
+ OCaml
  <ul>
   <li>
    OCaml's Deferred in Swift
@@ -9522,7 +11062,7 @@ facing_up:
   </li>
  </ul>
  <sup>
-  &#9733 211, pushed 4 days ago
+  &#9733 211, pushed 129 days ago
  </sup>
 </li>
 <li>
@@ -9536,7 +11076,7 @@ facing_up:
   </li>
  </ul>
  <sup>
-  &#9733 487, pushed 44 days ago
+  &#9733 487, pushed 168 days ago
  </sup>
 </li>
 <li>
@@ -9545,6 +11085,46 @@ facing_up:
   <li>
    Comparing Protocols and Extensions in Swift and Elixir
    <a href="http://blog.plataformatec.com.br/2014/06/comparing-protocols-and-extensions-in-swift-and-elixir/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ Groovy
+ <ul>
+  <li>
+   Apple's Swift programming language inspired by Groovy
+   <a href="http://glaforge.appspot.com/article/apple-s-swift-programming-language-inspired-by-groovy">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ React Native
+ <ul>
+  <li>
+   Tutorial: Custom React Native Components in Swift
+   <a href="http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Bridge a Swift view in React Native
+   <a href="http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/">
     :page
     <em>
      facing
@@ -9584,6 +11164,12 @@ facing_up:
      facing
     </em>
     up:
+   </a>
+  </li>
+  <li>
+   Swift vs Objective-C Fibonacci Sequence Speed Comparison
+   <a href="http://stackoverflow.com/questions/28161197/swift-vs-objective-c-fibonacci-sequence-speed-comparison">
+    :link:
    </a>
   </li>
  </ul>
@@ -9642,7 +11228,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 53, pushed 11 days ago
+   &#9733 53, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -9651,7 +11237,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 182, pushed 2 days ago
+   &#9733 182, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -9682,6 +11268,12 @@ facing_up:
     facing
    </em>
    up:
+  </a>
+ </li>
+ <li>
+  Practical Cross-Platform Swift
+  <a href="https://realm.io/news/tryswift-jp-simard-practical-cross-platform-swift/">
+   :microphone:
   </a>
  </li>
 </ul>
@@ -9871,7 +11463,7 @@ disk:
   up:
  </a>
  <sup>
-  &#9733 125, pushed 170 days ago
+  &#9733 125, pushed 294 days ago
  </sup>
 </li>
 <li>
@@ -9890,7 +11482,7 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 7723, pushed 126 days ago
+  &#9733 7723, pushed 251 days ago
  </sup>
 </li>
 <li>
@@ -9914,6 +11506,19 @@ disk:
  </a>
 </li>
 <li>
+ Random number generators in Swift
+ <a href="http://www.cocoawithlove.com/blog/2016/05/19/random-numbers.html">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="https://gist.github.com/rnapier/bb6616871ed749542e542732c7386970">
+  :pencil:
+ </a>
+</li>
+<li>
  Interview Questions
  <ul>
   <li>
@@ -9933,8 +11538,11 @@ disk:
    <a href="https://github.com/diwu/LeetCode-Solutions-in-Swift">
     :clipboard:
    </a>
+   <a href="https://www.guiguan.net/swift/">
+    :link:
+   </a>
    <sup>
-    &#9733 731, pushed 10 days ago
+    &#9733 731, pushed 135 days ago
    </sup>
   </li>
   <li>
@@ -9953,6 +11561,12 @@ disk:
    :fire: Awesome iOS Interview Questions
    <a href="https://github.com/MaximAbramchuck/awesome-interviews#ios">
     :clipboard:
+   </a>
+  </li>
+  <li>
+   Swift Computer Science Problems
+   <a href="https://github.com/Cananito/SwiftComputerScience">
+    :pencil2:
    </a>
   </li>
  </ul>
@@ -9999,6 +11613,16 @@ disk:
    Make a Cocoapods Framework
    <a href="https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/">
     :microphone:
+   </a>
+  </li>
+  <li>
+   Swift, Frameworks & Modules, Learnings from CocoaPods
+   <a href="https://speakerdeck.com/realm/swift-frameworks-and-modules-learnings-from-cocoapods">
+    :page
+    <em>
+     facing
+    </em>
+    up:
    </a>
   </li>
  </ul>
@@ -10104,7 +11728,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 3, pushed 5 days ago
+    &#9733 3, pushed 129 days ago
    </sup>
   </li>
   <li>
@@ -10113,7 +11737,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 112, pushed 317 days ago
+    &#9733 112, pushed 442 days ago
    </sup>
   </li>
   <li>
@@ -10136,7 +11760,7 @@ disk:
     up:
    </a>
    <sup>
-    &#9733 9, pushed 94 days ago
+    &#9733 9, pushed 218 days ago
    </sup>
   </li>
   <li>
@@ -10155,7 +11779,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 0, pushed 82 days ago
+    &#9733 0, pushed 207 days ago
    </sup>
   </li>
   <li>
@@ -10185,7 +11809,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 972, pushed 100 days ago
+    &#9733 972, pushed 225 days ago
    </sup>
   </li>
   <li>
@@ -10220,9 +11844,15 @@ disk:
     up:
    </a>
   </li>
+  <li>
+   Danger
+   <a href="http://danger.systems">
+    :link:
+   </a>
+  </li>
  </ul>
  <sup>
-  &#9733 397, pushed 15 days ago
+  &#9733 397, pushed 140 days ago
  </sup>
 </li>
 <p>
@@ -10340,7 +11970,7 @@ facing_up:
   :pencil2:
  </a>
  <sup>
-  &#9733 325, pushed 35 days ago
+  &#9733 325, pushed 160 days ago
  </sup>
 </li>
 <li>
@@ -10373,6 +12003,66 @@ facing_up:
   up:
  </a>
 </li>
+<li>
+ Using the Hashable Protocol
+ <a href="http://samuelmullen.com/2014/10/implementing_swifts_hashable_protocol/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="http://stackoverflow.com/questions/31438210/how-to-implement-the-hashable-protocol-in-swift-for-an-int-array-a-custom-strin">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Swift Protocol Naming Conventions
+ <a href="http://programmers.stackexchange.com/questions/263521/swift-protocol-naming-conventions">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ A default CustomStringConvertible implementation for Swift types
+ <a href="https://github.com/jessesquires/DefaultStringConvertible">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ A protocol that allows any class to be printed as if it were a struct
+ <a href="https://github.com/mattcomi/ReflectedStringConvertible">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <sup>
+  &#9733 23, pushed 132 days ago
+ </sup>
+</li>
+<li>
+ Implementing Equatable for Protocols in Swift
+ <a href="https://www.natashatherobot.com/implementing-equatable-for-protocols-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
 <p>
  <a href="#index">
   :arrow_up:
@@ -10380,7 +12070,7 @@ facing_up:
 </p>
 <h4>
  <strong>
-  Protocol Oriented Programming in Swift 2
+  Protocol Oriented Programming
  </strong>
 </h4>
 <ul>
@@ -10428,6 +12118,12 @@ facing_up:
  </a>
 </li>
 <li>
+ Protocol Extensions: A History
+ <a href="https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/">
+  :microphone:
+ </a>
+</li>
+<li>
  Protocol Oriented MVVM
  <a href="http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/">
   :page
@@ -10452,6 +12148,12 @@ facing_up:
    facing
   </em>
   up:
+ </a>
+</li>
+<li>
+ Practical Protocol-Oriented-Programming
+ <a href="https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/">
+  :microphone:
  </a>
 </li>
 <li>
@@ -10585,6 +12287,16 @@ facing_up:
  </a>
 </li>
 <li>
+ Stateful mixins in Swift
+ <a href="http://cutting.io/posts/stateful-mixins-in-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
  Use Protocol Composition
  <a href="http://natashatherobot.com/swift-protocol-composition/">
   :page
@@ -10595,7 +12307,7 @@ facing_up:
  </a>
 </li>
 <li>
- Current Recommmended Protocol Usage
+ Current Recommended Protocol Usage
  <a href="http://owensd.io/2015/08/06/protocols.html">
   :page
   <em>
@@ -10620,7 +12332,7 @@ facing_up:
   :pencil2:
  </a>
  <sup>
-  &#9733 3, pushed 240 days ago
+  &#9733 3, pushed 364 days ago
  </sup>
 </li>
 <li>
@@ -10661,12 +12373,6 @@ facing_up:
  </a>
 </li>
 <li>
- Protocol-Oriented Programming in Networking
- <a href="https://speakerdeck.com/ishkawa/protocol-oriented-programming-in-networking">
-  :floppy_disk:
- </a>
-</li>
-<li>
  Improved Protocol-Oriented Programming with Untyped Type Aliases
  <a href="https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-1-625484ca1f9d#.g0i8pfjvj">
   :page
@@ -10676,6 +12382,66 @@ facing_up:
   up:
  </a>
  <a href="https://medium.com/@michikono/3f0e2eadee73#.dvk6ubezg">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Protocol-Oriented Problems and the Immutable 'self' Error
+ <a href="https://www.bignerdranch.com/blog/protocol-oriented-problems-and-the-immutable-self-error/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Multiple Inheritance vs. Traits or Protocol Extensions
+ <a href="https://www.dzombak.com/blog/2015/06/Multiple-Inheritance-vs--Traits-or-Protocol-Extensions.html">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Protocol Oriented Networking
+ <a href="http://khanlou.com/2016/05/protocol-oriented-programming/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="https://www.natashatherobot.com/protocol-oriented-networking-in-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+ <a href="https://speakerdeck.com/ishkawa/protocol-oriented-programming-in-networking">
+  :floppy_disk:
+ </a>
+</li>
+<li>
+ Protocol-Oriented Views in Swift
+ <a href="https://www.natashatherobot.com/protocol-oriented-views-in-swift/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Protocol oriented loading of resources from a network service in Swift
+ <a href="http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html">
   :page
   <em>
    facing
@@ -10711,6 +12477,11 @@ facing_up:
   </a>
  </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   Security
@@ -10732,7 +12503,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 2027, pushed 36 days ago
+   &#9733 2027, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -10773,6 +12544,9 @@ facing_up:
    </em>
    up:
   </a>
+  <a href="https://github.com/iosdevzone/IDZSwiftCommonCrypto">
+   :pencil2:
+  </a>
  </li>
  <li>
   Reverse Engineering iOS Apps
@@ -10797,12 +12571,21 @@ facing_up:
   </a>
  </li>
  <li>
-  Security Framaework Wrapper
+  Security Framework Wrapper
   <a href="https://github.com/henrinormak/Heimdall">
    :pencil2:
   </a>
   <sup>
-   &#9733 191, pushed 9 days ago
+   &#9733 191, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  SwCrypt
+  <a href="https://github.com/soyersoyer/SwCrypt">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 260, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -10819,6 +12602,9 @@ facing_up:
 <ul>
  <li>
   Hello Server Side Swift
+  <a href="https://realm.io/news/slug-edward-jiang-server-side-swift/">
+   :microphone:
+  </a>
   <a href="https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.vitoriti4">
    :page
    <em>
@@ -10835,6 +12621,22 @@ facing_up:
     facing
    </em>
    up:
+  </a>
+ </li>
+ <li>
+  Server Side Swift vs. The Other Guys: Speed
+  <a href="https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505#.vljkdtawv">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  IBM's Swift on the Server
+  <a href="http://www.infoq.com/articles/Ibm-swift">
+   :microphone:
   </a>
  </li>
  <li>
@@ -10865,7 +12667,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 33, pushed 38 days ago
+   &#9733 33, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -10881,7 +12683,7 @@ facing_up:
    up:
   </a>
   <sup>
-   &#9733 242, pushed 7 days ago
+   &#9733 242, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -10927,7 +12729,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 1872, pushed 2 days ago
+   &#9733 1872, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -10936,7 +12738,7 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 50, pushed 75 days ago
+   &#9733 50, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -10951,8 +12753,14 @@ facing_up:
    :pencil2:
   </a>
   <sup>
-   &#9733 23, pushed 15 days ago
+   &#9733 23, pushed 140 days ago
   </sup>
+ </li>
+ <li>
+  Caramel brings powerful, expressive I/O to Server Side Swift
+  <a href="https://realm.io/news/steve-streza-caramel-for-swift/">
+   :microphone:
+  </a>
  </li>
 </ul>
 <p>
@@ -10998,7 +12806,7 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 33, pushed 95 days ago
+     &#9733 33, pushed 220 days ago
     </sup>
    </li>
    <li>
@@ -11040,6 +12848,15 @@ facing_up:
      </em>
      up:
     </a>
+   </li>
+   <li>
+    DSL for Attributed Strings
+    <a href="https://github.com/delba/TextAttributes">
+     :pencil2:
+    </a>
+    <sup>
+     &#9733 1423, pushed 128 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -11089,7 +12906,7 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 579, pushed 40 days ago
+     &#9733 579, pushed 165 days ago
     </sup>
    </li>
    <li>
@@ -11098,7 +12915,26 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 209, pushed 8 days ago
+     &#9733 209, pushed 133 days ago
+    </sup>
+   </li>
+   <li>
+    Swift version of the Coco/R Compiler Generator
+    <a href="https://github.com/mgriebling/Coco">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    CSV Parser
+    <a href="https://github.com/Daniel1of1/CSwiftV">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <sup>
+     &#9733 66, pushed 139 days ago
     </sup>
    </li>
   </ul>
@@ -11162,7 +12998,7 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 416, pushed 52 days ago
+     &#9733 416, pushed 177 days ago
     </sup>
    </li>
   </ul>
@@ -11175,7 +13011,7 @@ facing_up:
 </p>
 <h4>
  <strong>
-  Testing Swift Code
+  Testing
  </strong>
 </h4>
 <ul>
@@ -11282,10 +13118,34 @@ facing_up:
      up:
     </a>
    </li>
+   <li>
+    What's the difference between unit, functional, acceptance, and integration tests?
+    <a href="http://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test">
+     :link:
+    </a>
+   </li>
+   <li>
+    Testing with Swift – Approaches & Useful Libraries
+    <a href="https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
   Mocking
+  <ul>
+   <li>
+    Real world mocking in Swift
+    <a href="https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   Stubbing
@@ -11364,8 +13224,14 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 0, pushed 520 days ago
+     &#9733 0, pushed 645 days ago
     </sup>
+   </li>
+   <li>
+    Good TDD Stuff
+    <a href="https://github.com/paweldudek/good-tdd-stuff">
+     :pencil:
+    </a>
    </li>
   </ul>
  </li>
@@ -11388,7 +13254,7 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 81, pushed 28 days ago
+     &#9733 81, pushed 153 days ago
     </sup>
    </li>
    <li>
@@ -11423,7 +13289,7 @@ facing_up:
      up:
     </a>
     <sup>
-     &#9733 4606, pushed 2 days ago
+     &#9733 4606, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -11432,7 +13298,7 @@ facing_up:
      :pencil2:
     </a>
     <sup>
-     &#9733 1193, pushed 3 days ago
+     &#9733 1193, pushed 128 days ago
     </sup>
    </li>
   </ul>
@@ -11585,7 +13451,7 @@ facing_up:
    </li>
   </ul>
   <sup>
-   &#9733 1784, pushed 1 days ago
+   &#9733 1784, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -11619,6 +13485,16 @@ disk:
 <li>
  Finding memory leaks with instruments
  <a href="http://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode/#.VqaGcF_w1AE.hackernews">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Automatic memory leak detection on iOS
+ <a href="https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/">
   :page
   <em>
    facing
@@ -11673,7 +13549,7 @@ disk:
   </li>
  </ul>
  <sup>
-  &#9733 360, pushed 3 days ago
+  &#9733 360, pushed 127 days ago
  </sup>
 </li>
 <li>
@@ -11695,7 +13571,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 380, pushed 40 days ago
+    &#9733 380, pushed 165 days ago
    </sup>
   </li>
   <li>
@@ -11724,8 +13600,24 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 1370, pushed 15 days ago
+    &#9733 1370, pushed 140 days ago
    </sup>
+  </li>
+  <li>
+   Using Xcode's Schemes to run a subset of your tests
+   <a href="http://artsy.github.io/blog/2016/04/06/Testing-Schemes/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Testing Robots
+   <a href="https://realm.io/news/kau-jake-wharton-testing-robots/">
+    :microphone:
+   </a>
   </li>
  </ul>
 </li>
@@ -11755,6 +13647,12 @@ disk:
      facing
     </em>
     up:
+   </a>
+  </li>
+  <li>
+   Code Injection Vulnerabilities
+   <a href="http://stackoverflow.com/questions/28548248/is-swift-vulnerable-to-code-injection/28549095#28549095">
+    :link:
    </a>
   </li>
  </ul>
@@ -11806,7 +13704,7 @@ disk:
    </li>
   </ul>
   <sup>
-   &#9733 48, pushed 146 days ago
+   &#9733 48, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -11859,7 +13757,7 @@ disk:
     <a href="https://medium.com/@hello_paja/self-hosted-ci-for-ios-mac-development-f273606ca767#.jd7up9ujd">
      :page
      <em>
-      Facing
+      facing
      </em>
      up:
     </a>
@@ -11884,7 +13782,7 @@ disk:
    <li>
     Continuous Integrations for iOS Apps
     <a href="https://vimeo.com/158290425">
-     :video:
+     :video_camera:
     </a>
    </li>
   </ul>
@@ -11920,17 +13818,27 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 495, pushed 1 days ago
+     &#9733 495, pushed 126 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 438, pushed 96 days ago
+   &#9733 438, pushed 221 days ago
   </sup>
  </li>
  <li>
   Debugging Tools
   <ul>
+   <li>
+    Xcode Visual Memory Debugger
+    <a href="http://useyourloaf.com/blog/xcode-visual-memory-debugger/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
    <li>
     Profiling Swift Tool
     <a href="http://irace.me/swift-profiling">
@@ -11947,7 +13855,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 18, pushed 106 days ago
+     &#9733 18, pushed 230 days ago
     </sup>
    </li>
    <li>
@@ -11956,8 +13864,18 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 69, pushed 143 days ago
+     &#9733 69, pushed 268 days ago
     </sup>
+   </li>
+   <li>
+    Debugger Optimizers
+    <a href="http://indiestack.com/2016/05/a-tale-of-two-optimizers/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
    </li>
    <li>
     Cocoalumberjack
@@ -11965,7 +13883,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 7131, pushed 3 days ago
+     &#9733 7131, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -11977,6 +13895,16 @@ disk:
     Continuous Delivery with Fastlane
     <a href="https://vimeo.com/146505670">
      :microphone:
+    </a>
+   </li>
+   <li>
+    Using Fastlane
+    <a href="https://github.com/jacobvanorder/FastlaneCocoaConf2016/blob/master/Speeding_Up_Your_iOS_Development_With_Fastlane.pdf">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
    <li>
@@ -11995,7 +13923,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 4, pushed 211 days ago
+     &#9733 4, pushed 335 days ago
     </sup>
    </li>
   </ul>
@@ -12018,7 +13946,7 @@ disk:
    </li>
   </ul>
   <sup>
-   &#9733 3083, pushed 6 days ago
+   &#9733 3083, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -12040,7 +13968,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 204, pushed 7 days ago
+     &#9733 204, pushed 131 days ago
     </sup>
    </li>
   </ul>
@@ -12056,7 +13984,7 @@ disk:
    </li>
   </ul>
   <sup>
-   &#9733 278, pushed 71 days ago
+   &#9733 278, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -12073,9 +14001,34 @@ disk:
     </a>
    </li>
    <li>
+    Swift Snippets
+    <a href="https://github.com/hyperoslo/SwiftSnippets">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
     Swift Environment
     <a href="https://github.com/kylef/swiftenv">
      :pencil2:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Xcode Extensions
+  <ul>
+   <li>
+    Xcode Extensions
+    <a href="https://medium.com/appnroll-publication/xcode-extensions-db289d8230b#.2ziveqysb">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
   </ul>
@@ -12105,7 +14058,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 4049, pushed 2 days ago
+     &#9733 4049, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -12114,7 +14067,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 276, pushed 77 days ago
+     &#9733 276, pushed 202 days ago
     </sup>
    </li>
    <li>
@@ -12123,7 +14076,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 7166, pushed 43 days ago
+     &#9733 7166, pushed 167 days ago
     </sup>
    </li>
    <li>
@@ -12132,7 +14085,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 17, pushed 106 days ago
+     &#9733 17, pushed 230 days ago
     </sup>
    </li>
    <li>
@@ -12147,7 +14100,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 732, pushed 29 days ago
+     &#9733 732, pushed 154 days ago
     </sup>
    </li>
    <li>
@@ -12156,12 +14109,28 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 918, pushed 18 days ago
+     &#9733 918, pushed 142 days ago
     </sup>
+   </li>
+   <li>
+    Speeding Up Slow Swift Build Times
+    <a href="https://medium.com/swift-programming/speeding-up-slow-swift-build-times-922feeba5780#.96anpx7tq">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    SwiftCompilationPerformanceReporter
+    <a href="https://github.com/tumblr/SwiftCompilationPerformanceReporter">
+     :pencil2:
+    </a>
    </li>
   </ul>
   <sup>
-   &#9733 8498, pushed 7 days ago
+   &#9733 8498, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -12228,7 +14197,7 @@ disk:
 </ul>
 disk:
 <li>
- Category Theory and Progamming
+ Category Theory and Programming
  <a href="http://yogsototh.github.io/Category-Theory-Presentation/categories.html">
   :microphone:
  </a>
@@ -12304,13 +14273,23 @@ disk:
   :pencil2:
  </a>
  <sup>
-  &#9733 1574, pushed 16 days ago
+  &#9733 1574, pushed 141 days ago
  </sup>
 </li>
 <li>
  List of Functional Programming Topics
  <a href="https://en.wikipedia.org/wiki/List_of_functional_programming_topics">
   :link:
+ </a>
+</li>
+<li>
+ Using types to keep yourself honest
+ <a href="http://matthijshollemans.com/2016/03/25/using-types-to-keep-yourself-honest/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
  </a>
 </li>
 <li>
@@ -12458,7 +14437,7 @@ disk:
    </a>
   </li>
   <li>
-   Swift copy-on-write behaviour for a struct using HeapBuffer
+   Swift copy-on-write behavior for a struct using HeapBuffer
    <a href="https://gist.github.com/airspeedswift/71f15d1eb866be9e5ac7">
     :pencil:
    </a>
@@ -12509,8 +14488,36 @@ disk:
     :link:
    </a>
   </li>
+  <li>
+   Safer swift code with value types
+   <a href="https://speakerdeck.com/benjamin_encz/safer-swift-code-with-value-types-i-altconf-2015">
+    :floppy
+    <em>
+     disk:
+    </em>
+   </a>
+  </li>
+  <li>
+   Value oriented Architecture
+   <a href="https://speakerdeck.com/benjamin_encz/safer-swift-code-with-value-types-ii-360idev-2015">
+    :floppy
+   </a>
+  </li>
  </ul>
 </li>
+disk:
+<ul>
+ <li>
+  Reference and Value Types in Swift
+  <a href="https://medium.com/capital-one-developers/reference-and-value-types-in-swift-de792db330b2#.jqmgucbcn">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+</ul>
 <li>
  Algebraic Types
  <ul>
@@ -12552,7 +14559,7 @@ disk:
    </a>
   </li>
   <li>
-   Named Types and Compund Types
+   Named Types and Compound Types
    <a href="https://www.andrewcbancroft.com/2016/03/18/swift-functions-as-types/">
     :page
     <em>
@@ -12703,7 +14710,7 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 36, pushed 123 days ago
+    &#9733 36, pushed 248 days ago
    </sup>
   </li>
   <li>
@@ -12760,6 +14767,16 @@ disk:
   <li>
    DynamicTypes and Metatypes
    <a href="https://medium.com/@NSomar/types-and-meta-types-in-swift-9cd59ba92295#.ucwjngqy5">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   A Definition of Dynamic Programming in the Cocoa World
+   <a href="http://inessential.com/2016/05/26/a_definition_of_dynamic_programming_in_t">
     :page
     <em>
      facing
@@ -12861,6 +14878,16 @@ disk:
    </a>
   </li>
   <li>
+   WWDC 2016: Increased Safety in Swift 3.0
+   <a href="https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
    Why doesn't Swift have implicit type conversion?
    <a href="https://www.quora.com/Why-does-Swift-not-allow-implicit-type-conversion">
     :page
@@ -12900,6 +14927,16 @@ disk:
     up:
    </a>
   </li>
+  <li>
+   Increased Safety in Swift 3.0
+   <a href="https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -12913,6 +14950,18 @@ disk:
    <a href="https://www.youtube.com/watch?v=XWoNjiSPqI8">
     :microphone:
    </a>
+   <ul>
+    <li>
+     Swift: What are Protocols with Associated Types?
+     <a href="https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/">
+      :page
+      <em>
+       facing
+      </em>
+      up:
+     </a>
+    </li>
+   </ul>
   </li>
   <li>
    Associated Types in Swift Explained
@@ -12967,8 +15016,28 @@ disk:
     :pencil2:
    </a>
    <sup>
-    &#9733 98, pushed 29 days ago
+    &#9733 98, pushed 153 days ago
    </sup>
+  </li>
+  <li>
+   Associated Types Considered Weird
+   <a href="https://schani.wordpress.com/2014/06/11/associated-types-considered-weird/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Swift Associated Types, cont
+   <a href="http://www.russbishop.net/swift-associated-types-cont">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
   </li>
  </ul>
 </li>
@@ -12978,6 +15047,16 @@ disk:
   <li>
    Generic Typealiases
    <a href="http://ericasadun.com/2016/03/08/generic-typealiases-are-a-thing/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+  <li>
+   Swift Type Aliases: Use Early and Often
+   <a href="http://artsy.github.io/blog/2016/06/24/typealias-for-great-good/">
     :page
     <em>
      facing
@@ -13063,6 +15142,27 @@ disk:
     up:
    </a>
   </li>
+  <li>
+   Bridging Existentials and Generics in Swift 2
+   <a href="http://blog.benjamin-encz.de/post/bridging-existentials-generics-swift-2/">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ MirrorTypes
+ <ul>
+  <li>
+   Using a Mirror Struct to get an object's type
+   <a href="http://stackoverflow.com/a/33001534/2855836">
+    :link:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -13099,6 +15199,16 @@ disk:
     :link:
    </a>
   </li>
+  <li>
+   Swift Type Inference Closure Constraints
+   <a href="http://rosslebeau.com/2016/swift-type-inference-closure-constraints">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
  </ul>
 </li>
 <li>
@@ -13107,6 +15217,32 @@ disk:
   <li>
    Type Variance in Swift
    <a href="http://nomothetis.svbtle.com/type-variance-in-swift">
+    :page
+    <em>
+     facing
+    </em>
+    up:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ Type Erasures
+ <ul>
+  <li>
+   Type Erasures
+   <a href="https://realm.io/news/tryswift-gwendolyn-weston-type-erasure/">
+    :microphone:
+   </a>
+  </li>
+ </ul>
+</li>
+<li>
+ Type Checking
+ <ul>
+  <li>
+   Exponential time complexity in the Swift type checker
+   <a href="https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html">
     :page
     <em>
      facing
@@ -13228,6 +15364,12 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    If a function returns an UnsafeMutablePointer is it our responsibility to destroy and dealloc?
+    <a href="http://stackoverflow.com/questions/25605658/if-a-function-returns-an-unsafemutablepointer-is-it-our-responsibility-to-destro">
+     :link:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -13261,6 +15403,9 @@ disk:
      </em>
      up:
     </a>
+    <a href="https://realm.io/news/tryswift-hector-matos-hipster-swift/">
+     :microphone:
+    </a>
    </li>
    <li>
     Namespaces in Swift
@@ -13272,6 +15417,23 @@ disk:
      up:
     </a>
     <a href="http://andybargh.com/lifetime-scope-and-namespaces-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://stackoverflow.com/questions/24002821/how-to-use-namespaces-in-swift/24012981">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Swift Enums as namespace
+    <a href="https://medium.com/swift-programming/swift-enums-as-namespace-7df63a17f36f#.u656hot7j">
      :page
      <em>
       facing
@@ -13345,6 +15507,41 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    ObjectiveCBridgeable
+    <a href="http://www.russbishop.net/bridges-of-siracusa-county">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    Bitmasks in Swift
+    <a href="https://github.com/brynbellomy/SwiftBitmask">
+     :pencil:
+    </a>
+    <sup>
+     &#9733 23, pushed 233 days ago
+    </sup>
+   </li>
+   <li>
+    Falsiness In Swift
+    <a href="http://khanlou.com/2016/06/falsiness-in-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    SourceKit
+    <a href="https://realm.io/news/appbuilders-jp-simard-sourcekit/">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
 </ul>
@@ -13383,7 +15580,7 @@ disk:
   Elm Like Architecture
   <ul>
    <li>
-    Elmification of Swift
+    "Elmification" of Swift
     <a href="https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.k1njpy7sn">
      :page
      <em>
@@ -13393,12 +15590,12 @@ disk:
     </a>
    </li>
    <li>
-    Simple model for elm-like composable programs
+    Simple model for Elm-like composable programs
     <a href="https://github.com/davidcairns/AppComponents">
      :pencil2:
     </a>
     <sup>
-     &#9733 6, pushed 120 days ago
+     &#9733 6, pushed 245 days ago
     </sup>
    </li>
    <li>
@@ -13407,7 +15604,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 70, pushed 41 days ago
+     &#9733 70, pushed 166 days ago
     </sup>
    </li>
   </ul>
@@ -13510,6 +15707,40 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    Clean Swift iOS Architecture for Fixing Massive View Controller
+    <a href="http://clean-swift.com/clean-swift-ios-architecture/">
+     :pencil2:
+    </a>
+    <a href="https://github.com/Clean-Swift">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    Model-View-Controller (MVC) in iOS: A Modern Approach
+    <a href="https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Microservices
+  <ul>
+   <li>
+    Micro Feature Architecture
+    <a href="https://medium.com/@pepibumur/micro-features-architecture-for-ios-f81ca18f03ac#.lkus6qpvb">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -13531,7 +15762,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 728, pushed 23 days ago
+     &#9733 728, pushed 148 days ago
     </sup>
    </li>
    <li>
@@ -13540,7 +15771,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 317, pushed 4 days ago
+     &#9733 317, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -13559,7 +15790,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 333, pushed 5 days ago
+     &#9733 333, pushed 130 days ago
     </sup>
    </li>
   </ul>
@@ -13592,12 +15823,17 @@ disk:
     </a>
    </li>
    <li>
+    <a href="http://blog.prolificinteractive.com/2016/06/10/themes-in-modern-ios-architectures/">
+     Themes in Modern iOS Architectures
+    </a>
+   </li>
+   <li>
     Clean Architecture in Swift
     <a href="https://github.com/marcinkuptel/clean-architecture">
      :pencil2:
     </a>
     <sup>
-     &#9733 3, pushed 70 days ago
+     &#9733 3, pushed 195 days ago
     </sup>
    </li>
    <li>
@@ -13656,12 +15892,21 @@ disk:
     </a>
    </li>
    <li>
+    MVVM-C
+    <a href="https://speakerdeck.com/macdevnet/mvvm-c-in-practice">
+     :floppy_disk:
+    </a>
+    <a href="https://github.com/macdevnet/mvvmc-demo">
+     :pencil2:
+    </a>
+   </li>
+   <li>
     Stateful View Controller
     <a href="https://github.com/aschuch/StatefulViewController">
      :pencil2:
     </a>
     <sup>
-     &#9733 625, pushed 20 days ago
+     &#9733 625, pushed 145 days ago
     </sup>
    </li>
    <li>
@@ -13670,7 +15915,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 230, pushed 7 days ago
+     &#9733 230, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -13694,7 +15939,7 @@ disk:
     </a>
    </li>
    <li>
-    Service Oriented Archiecture in Swift with MVVM
+    Service Oriented Architecture in Swift with MVVM
     <a href="https://realm.io/news/modular-ios-apps/">
      :microphone:
     </a>
@@ -13717,6 +15962,25 @@ disk:
       facing
      </em>
      up:
+    </a>
+   </li>
+   <li>
+    Cloud based View Models
+    <a href="https://github.com/hyperoslo/Spots#origin-story">
+     :pencil2:
+    </a>
+    <a href="https://medium.com/@zenangst/hitting-the-sweet-spot-of-inspiration-637d387bc629#.tkm4b9s6p">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    React-Like Views
+    <a href="https://github.com/sahandnayebaziz/StateView">
+     :pencil2:
     </a>
    </li>
   </ul>
@@ -13747,6 +16011,18 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    VIPER architecture for iOS applications
+    <a href="https://medium.com/brigade-engineering/brigades-experience-using-an-mvc-alternative-36ef1601a41f#.rvj3cxose">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    ARCHITECTING MOBILE APPS WITH (B)VIPER MODULES
+    <a href="http://www.mttnow.com/blog/architecting-mobile-apps-with-bviper-modules">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -13766,6 +16042,13 @@ disk:
     One Way Data Flow Architecture in Swift
     <a href="https://www.youtube.com/watch?v=4cP1p5VOrSI">
      :microphone:
+    </a>
+    <a href="http://subjc.com/going-with-the-flow">
+     :page
+     <em>
+      facing
+     </em>
+     up:
     </a>
    </li>
    <li>
@@ -13820,6 +16103,16 @@ disk:
     </a>
    </li>
    <li>
+    Real World Flux Architecture on iOS
+    <a href="http://blog.benjamin-encz.de/post/real-world-flux-ios/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
     ReduxKit is a predictable state container for Swift apps
     <a href="https://github.com/ReduxKit/ReduxKit">
      :page
@@ -13835,7 +16128,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 431, pushed 104 days ago
+     &#9733 431, pushed 229 days ago
     </sup>
    </li>
    <li>
@@ -13844,7 +16137,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 274, pushed 141 days ago
+     &#9733 274, pushed 266 days ago
     </sup>
    </li>
    <li>
@@ -13863,6 +16156,18 @@ disk:
      :pencil:
     </a>
    </li>
+   <li>
+    React like Swift
+    <a href="https://github.com/alexdrone/Render">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    MVVM, RxSwift and DataControllers
+    <a href="https://skillsmatter.com/skillscasts/7863-mvvm-rxswift-and-datacontrollers">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -13875,6 +16180,9 @@ disk:
     </a>
     <a href="https://github.com/tangphillip/state-machine-talk">
      :floppy_disk:
+    </a>
+    <a href="https://gist.github.com/monyschuk/e2c5609599195a30cc66">
+     :pencil:
     </a>
    </li>
    <li>
@@ -13900,7 +16208,7 @@ disk:
      :pencil2:
     </a>
     <sup>
-     &#9733 225, pushed 8 days ago
+     &#9733 225, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -13913,6 +16221,9 @@ disk:
      up:
     </a>
     <a href="https://github.com/ctarda/Turnstile">
+     :pencil2:
+    </a>
+    <a href="https://github.com/cipriancaba/SwiftFSM">
      :pencil2:
     </a>
    </li>
@@ -13966,9 +16277,21 @@ disk:
      :pencil:
     </a>
    </li>
+   <li>
+    Simple State Machine in Swift
+    <a href="https://github.com/egeniq/EFStateMachine">
+     :pencil2:
+    </a>
+   </li>
+   <li>
+    A composable pattern for pure state machines with effects
+    <a href="https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2">
+     :pencil:
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 461, pushed 43 days ago
+   &#9733 461, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -14043,7 +16366,7 @@ disk:
      up:
     </a>
     <sup>
-     &#9733 83, pushed 71 days ago
+     &#9733 83, pushed 196 days ago
     </sup>
    </li>
    <li>
@@ -14184,6 +16507,12 @@ disk:
      up:
     </a>
    </li>
+   <li>
+    Modern Core Data
+    <a href="https://realm.io/news/tryswift-daniel-eggert-modern-core-data/">
+     :microphone:
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -14299,7 +16628,7 @@ up:
   up:
  </a>
  <sup>
-  &#9733 7132, pushed 2 days ago
+  &#9733 7132, pushed 127 days ago
  </sup>
 </li>
 <li>
@@ -14335,10 +16664,7 @@ up:
 <li>
  Looking at Realm's Core DB Engine
  <a href="https://speakerdeck.com/jpsim/a-look-into-realms-core-db-engine">
-  :floppy
-  <em>
-   disk:
-  </em>
+  :floppy_disk:
  </a>
 </li>
 <li>
@@ -14347,7 +16673,7 @@ up:
   :pencil2:
  </a>
  <sup>
-  &#9733 198, pushed 65 days ago
+  &#9733 198, pushed 189 days ago
  </sup>
 </li>
 <li>
@@ -14379,11 +16705,44 @@ up:
   </em>
   up:
  </a>
- <a href="#index">
-  :arrow
+</li>
+<li>
+ How Realm kills C++ STL Binary Search
+ <a href="https://realm.io/news/how-we-beat-cpp-stl-binary-search/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
  </a>
 </li>
-up:
+<li>
+ App state with Realm and RxSwift
+ <a href="http://rx-marin.com/post/rxswift-realm-reactive-app-settings/">
+  :page
+  <em>
+   facing
+  </em>
+  up:
+ </a>
+</li>
+<li>
+ Migrating to Realm on iOS
+ <a href="https://realm.io/news/alex-leffelman-migrating-to-realm-ios/">
+  :microphone:
+ </a>
+</li>
+<li>
+ RxRealm
+ <a href="https://realm.io/news/marin-todorov-realm-rxswift/">
+  :microphone:
+ </a>
+</li>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   Core Image
@@ -14396,7 +16755,37 @@ up:
    :books:
   </a>
  </li>
+ <li>
+  GPU Image Library in Swift
+  <a href="https://github.com/BradLarson/GPUImage2">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 1988, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  Introducing GPUImage 2, redesigned in Swift
+  <a href="http://sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
+ <li>
+  Advanced Image Processing with Core Image
+  <a href="https://realm.io/news/tryswift-gladman-simon-advanced-core-image/">
+   :microphone:
+  </a>
+ </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   iOS
@@ -14421,7 +16810,24 @@ up:
    :link:
   </a>
  </li>
+ <li>
+  Top SDKs used by App Store Top 200 Free Apps
+  <a href="http://mightysignal.com/top-ios-sdks">
+   :link:
+  </a>
+ </li>
+ <li>
+  Introduction to SiriKit
+  <a href="https://developer.apple.com/library/prerelease/content/documentation/Intents/Conceptual/SiriIntegrationGuide/index.html#//apple_ref/doc/uid/TP40016875">
+   :link:
+  </a>
+ </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   JSON
@@ -14445,12 +16851,21 @@ up:
     </a>
    </li>
    <li>
+    Functional JSON parsing, mapping to objects, and serialize to JSON
+    <a href="https://github.com/ra1028/Alembic">
+     :pencil:
+    </a>
+    <sup>
+     &#9733 9, pushed 128 days ago
+    </sup>
+   </li>
+   <li>
     Functional JSON Parsing with Tyro
     <a href="https://github.com/typelift/Tyro">
      :pencil2:
     </a>
     <sup>
-     &#9733 44, pushed 11 days ago
+     &#9733 44, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -14540,7 +16955,7 @@ up:
    :pencil2:
   </a>
   <sup>
-   &#9733 556, pushed 43 days ago
+   &#9733 556, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -14559,7 +16974,37 @@ up:
    up:
   </a>
  </li>
+ <li>
+  Flat Buffers (an efficient cross platform serialization library) in Swift
+  <a href="https://github.com/mzaks/FlatBuffersSwift">
+   :pencil2:
+  </a>
+  <a href="http://www.slideshare.net/maximzaks/beyond-json-mobilewarsaw">
+   :floppy_disk:
+  </a>
+ </li>
+ <li>
+  Unpacking JSON with Swift
+  <a href="https://vimeo.com/165920052">
+   :video_camera:
+  </a>
+ </li>
+ <li>
+  An easy way to convert Swift structs to JSON
+  <a href="http://codelle.com/blog/2016/5/an-easy-way-to-convert-swift-structs-to-json/">
+   :page
+   <em>
+    facing
+   </em>
+   up:
+  </a>
+ </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   Persistence
@@ -14633,7 +17078,33 @@ up:
    up:
   </a>
  </li>
+ <li>
+  Access SQLite DB in Swift
+  <a href="http://stackoverflow.com/questions/24102775/accessing-an-sqlite-database-in-swift">
+   :link:
+  </a>
+ </li>
+ <li>
+  Simple Object Persistence
+  <a href="https://github.com/mattcomi/PersistentObject">
+   :pencil2:
+  </a>
+ </li>
+ <li>
+  A versatile SQLite toolkit for Swift
+  <a href="https://github.com/groue/GRDB.swift">
+   :pencil2:
+  </a>
+  <sup>
+   &#9733 248, pushed 127 days ago
+  </sup>
+ </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h4>
  <strong>
   UI
@@ -14723,7 +17194,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 4206, pushed 22 days ago
+     &#9733 4206, pushed 147 days ago
     </sup>
    </li>
    <li>
@@ -14751,6 +17222,23 @@ up:
     Advanced Collection Views
     <a href="http://devstreaming.apple.com/videos/wwdc/2014/232xxz8gxpbstio/232/232_advanced_user_interfaces_with_collection_views.pdf">
      :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Core Animation
+  <ul>
+   <li>
+    Advanced Graphics with Core Animation
+    <a href="https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    CALayer.com
+    <a href="http://calayer.com/">
+     :link:
     </a>
    </li>
   </ul>
@@ -14793,8 +17281,72 @@ up:
   </ul>
  </li>
  <li>
+  SpriteKit and Metal
+  <ul>
+   <li>
+    Mixing SpriteKit with UIKit in iOS 9
+    <a href="https://littlebitesofcocoa.com/8-mixing-spritekit-into-uikit">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    SpriteKit as an intro to SceneKit
+    <a href="https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal">
+     :floppy_disk:
+    </a>
+   </li>
+   <li>
+    Metal and Swift
+    <a href="https://realm.io/news/swift-summit-simon-gladman-metal/">
+     :microphone:
+    </a>
+   </li>
+   <li>
+    Why use SpriteKit?
+    <a href="https://www.quora.com/Which-tools-are-you-using-with-SpriteKit">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+   <li>
+    3D Graphics with Metal in Swift
+    <a href="https://realm.io/news/3d-graphics-metal-swift/">
+     :microphone:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Stack View
+  <ul>
+   <li>
+    Stack View Rotation
+    <a href="https://www.natashatherobot.com/magical-view-rotation-with-stackview/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
   TableViews
   <ul>
+   <li>
+    Table View Controllers in Swift
+    <a href="https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/">
+     :microphone:
+    </a>
+   </li>
    <li>
     Advanced UITableViews
     <a href="https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/">
@@ -14855,47 +17407,14 @@ up:
      up:
     </a>
    </li>
-  </ul>
- </li>
- <li>
-  SpriteKit and Metal
-  <ul>
    <li>
-    Mixing SpriteKit with UIKit in iOS 9
-    <a href="https://littlebitesofcocoa.com/8-mixing-spritekit-into-uikit">
+    Upgrade your TableViews with Loading State in Swift
+    <a href="https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77#.bg6wbtkzc">
      :page
      <em>
       facing
      </em>
      up:
-    </a>
-   </li>
-   <li>
-    SpriteKit as an intro to SceneKit
-    <a href="https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal">
-     :floppy_disk:
-    </a>
-   </li>
-   <li>
-    Metal and Swift
-    <a href="https://realm.io/news/swift-summit-simon-gladman-metal/">
-     :microphone:
-    </a>
-   </li>
-   <li>
-    Why use SpriteKit?
-    <a href="https://www.quora.com/Which-tools-are-you-using-with-SpriteKit">
-     :page
-     <em>
-      facing
-     </em>
-     up:
-    </a>
-   </li>
-   <li>
-    3D Graphics with Metal in Swift
-    <a href="https://realm.io/news/3d-graphics-metal-swift/">
-     :microphone:
     </a>
    </li>
   </ul>
@@ -14938,9 +17457,27 @@ up:
      </a>
     </someprotocol>
    </li>
+   <li>
+    Cross Platform UIKit
+    <a href="https://github.com/PureSwift/Cacao">
+     :pencil:
+    </a>
+   </li>
+   <li>
+    Turning UIKit inside out
+    <a href="https://speakerdeck.com/benjamin_encz/turning-uikit-inside-out">
+     :floppy_disk:
+    </a>
+   </li>
+   <li>
+    Cocoa APIs in a Swifty world
+    <a href="https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world">
+     :microphone:
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 346, pushed 108 days ago
+   &#9733 346, pushed 233 days ago
   </sup>
  </li>
 </ul>
@@ -14959,6 +17496,12 @@ up:
   Networking
   <ul>
    <li>
+    Networking in Swift
+    <a href="https://talk.objc.io/episodes/S01E01-networking">
+     :microphone:
+    </a>
+   </li>
+   <li>
     AlamoFire Tutorial
     <a href="http://www.raywenderlich.com/121540/alamofire-tutorial-getting-started">
      :page
@@ -14974,7 +17517,7 @@ up:
      :pencil:
     </a>
     <sup>
-     &#9733 86, pushed 69 days ago
+     &#9733 86, pushed 193 days ago
     </sup>
    </li>
    <li>
@@ -14990,6 +17533,13 @@ up:
    <li>
     How to Make REST API Calls and Parse JSON with Swift
     <a href="http://devdactic.com/rest-api-parse-json-swift/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
+    <a href="http://stackoverflow.com/questions/24162051/best-architectural-approaches-for-building-ios-networking-applications-rest-cli">
      :page
      <em>
       facing
@@ -15020,7 +17570,7 @@ up:
      up:
     </a>
     <sup>
-     &#9733 2182, pushed 8 days ago
+     &#9733 2182, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -15058,6 +17608,12 @@ up:
     </a>
    </li>
    <li>
+    Background Transfer Services
+    <a href="https://realm.io/news/gwendolyn-weston-ios-background-networking/">
+     :microphone:
+    </a>
+   </li>
+   <li>
     An introduction to using Alamofire
     <a href="http://nshipster.com/alamofire/">
      :page
@@ -15073,7 +17629,7 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 2766, pushed 11 days ago
+     &#9733 2766, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -15093,7 +17649,10 @@ up:
     </a>
    </li>
    <li>
-    Tiny Networking [:microphone:]](http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift)
+    Tiny Networking
+    <a href="http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift">
+     :microphone:
+    </a>
    </li>
   </ul>
  </li>
@@ -15119,6 +17678,13 @@ up:
      </em>
      up:
     </a>
+    <a href="https://grokswift.com/router/">
+     :page
+     <em>
+      facing
+     </em>
+     up:
+    </a>
    </li>
    <li>
     Write Your Own API Clients
@@ -15137,7 +17703,7 @@ up:
   <ul>
    <li>
     CloudKit Introduction
-    <a href="http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s">
+    <a href="http://szulctomasz.com/2015/10/27/cloudkit-introduction-and-lets-build-an-app.html">
      :page
      <em>
       facing
@@ -15165,7 +17731,7 @@ up:
      up:
     </a>
     <sup>
-     &#9733 2523, pushed 5 days ago
+     &#9733 2523, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -15180,14 +17746,8 @@ up:
      :pencil2:
     </a>
     <sup>
-     &#9733 195, pushed 9 days ago
+     &#9733 195, pushed 134 days ago
     </sup>
-   </li>
-   <li>
-    Caramel brings powerful, expressive I/O to Swift
-    <a href="https://realm.io/news/steve-streza-caramel-for-swift/">
-     :microphone:
-    </a>
    </li>
   </ul>
  </li>
@@ -15207,6 +17767,14 @@ up:
   WatchOS Programming with Swift
  </strong>
 </h2>
+<ul>
+ <li>
+  IBM Wearables SDK
+  <a href="https://github.com/ibm-wearables-sdk-for-mobile/ibm-wearables-swift-sdk">
+   :pencil2:
+  </a>
+ </li>
+</ul>
 <h2>
  <strong>
   tvOS Programming With Swift
@@ -15214,12 +17782,16 @@ up:
 </h2>
 <ul>
  <li>
-  Creating a Client Server tvOS app
-  <a href="https://developer.apple.com/library/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html">
-   :link:
+  <a href="https://github.com/hsavit1/Awesome-tvOS">
+   Awesome tvOS
   </a>
  </li>
 </ul>
+<p>
+ <a href="#index">
+  :arrow_up:
+ </a>
+</p>
 <h2>
  <strong>
   Xcode
@@ -15236,7 +17808,7 @@ up:
      <em>
       facing
      </em>
-     ups:
+     up:
     </a>
    </li>
   </ul>
@@ -15379,7 +17951,11 @@ up:
  <a href="https://twitter.com/ashfurrow">
   @ashfurrow
  </a>
- and @Ben-Evolently](https://github.com/Ben-Evolently) for being so incredibly helpful. Shoutout to
+ and
+ <a href="https://github.com/Ben-Evolently">
+  @Ben-Evolently
+ </a>
+ for being so incredibly helpful. Shoutout to
  <a href="https://twitter.com/CodaFi_">
   @CodaFi
  </a>
@@ -15408,7 +17984,7 @@ and
 <a href="https://github.com/FutureKit/FutureKit">
  FutureKit
 </a>
-, made by my coworker
+, made by my former coworker
 <a href="https://github.com/mishagray">
  @michaelgray
 </a>

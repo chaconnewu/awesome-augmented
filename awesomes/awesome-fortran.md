@@ -169,7 +169,7 @@
   </a>
   - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
   <sup>
-   &#9733 19, pushed 33 days ago
+   &#9733 19, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -233,7 +233,7 @@
   </a>
   - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
   <sup>
-   &#9733 37, pushed 4 days ago
+   &#9733 37, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -242,7 +242,7 @@
   </a>
   - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
   <sup>
-   &#9733 896, pushed 4 days ago
+   &#9733 896, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -267,7 +267,7 @@
   </a>
   - Fortran 95 JSON Parser.
   <sup>
-   &#9733 27, pushed 28 days ago
+   &#9733 27, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +276,7 @@
   </a>
   - A Fortran 2008 JSON API.
   <sup>
-   &#9733 40, pushed 2 days ago
+   &#9733 40, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -295,7 +295,7 @@
   </a>
   - Fortran XML library
   <sup>
-   &#9733 27, pushed 126 days ago
+   &#9733 27, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -320,7 +320,7 @@
   </a>
   - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
   <sup>
-   &#9733 24, pushed 12 days ago
+   &#9733 24, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -367,7 +367,7 @@
   </a>
   - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
   <sup>
-   &#9733 8, pushed 34 days ago
+   &#9733 8, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -402,7 +402,7 @@
   </a>
   - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
   <sup>
-   &#9733 17, pushed 25 days ago
+   &#9733 17, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -411,7 +411,7 @@
   </a>
   - Options & input processing for modern Fortran.
   <sup>
-   &#9733 3, pushed 408 days ago
+   &#9733 3, pushed 532 days ago
   </sup>
  </li>
 </ul>
@@ -430,7 +430,7 @@
   </a>
   - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
   <sup>
-   &#9733 32, pushed 53 days ago
+   &#9733 32, pushed 178 days ago
   </sup>
  </li>
 </ul>
@@ -455,7 +455,7 @@
   </a>
   - Preprocessor for Fortran poor Men.
   <sup>
-   &#9733 9, pushed 350 days ago
+   &#9733 9, pushed 475 days ago
   </sup>
  </li>
 </ul>
@@ -474,7 +474,7 @@
   </a>
   - An automatic documentation generator for modern Fortran programs.
   <sup>
-   &#9733 49, pushed 6 days ago
+   &#9733 49, pushed 130 days ago
   </sup>
  </li>
 </ul>

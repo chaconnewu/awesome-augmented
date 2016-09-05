@@ -26,22 +26,22 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 
 Places to ask questions and find other community resources.
 
-- [TransitWiki](http://transitwiki.org) - 
-- [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
-- [OneBusAway Slack](https://onebusaway.herokuapp.com/) - Slack chat for the OneBusAway project.
-- OneBusAway Mailing Lists
-  - [OneBusAway Users](http://groups.google.com/group/onebusaway-users)
-  - [OneBusAway Developers](http://groups.google.com/group/onebusaway-developers)
-  - [OneBusAway API](http://groups.google.com/group/onebusaway-api)
+- [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
+- [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
+- OneBusAway
+  - [OneBusAway User mailing list](http://groups.google.com/group/onebusaway-users)
+  - [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
+  - [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
+  - [OneBusAway Slack chat](https://onebusaway.herokuapp.com/)
 
 ### Data
 
-- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Links to many transit agency GTFS datasets.
+- [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 - [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
-- [Transitland](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 - [TransitFeeds](http://transitfeeds.com/) - List of GTFS and GTFS-RT feeds. [Archives and validates](http://transitfeeds.com/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](http://transitfeeds.com/p/capital-metro/24/20151015) and [GTFS-RT](http://transitfeeds.com/p/capital-metro/495) through the browser. 
 - [TransLoc OpenAPI](https://www.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
+- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Used to be the definitive list of GTFS links. Shutdown in 2016. But 93G of data from 2008 to 2016 is available upon request.
 
 ### APIs
 
@@ -51,7 +51,6 @@ Software that provides an API to transit data.
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [TransiTime](http://www.transitime.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.
 - [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)  
-- [tripover](https://github.com/joriswu/tripover/wiki) - A journey planner good at broad searches. Like "from Cairns to Perth, depart any day next week". Aiming at the longer distance traveller searching for good trip options.  Used by the [Time & Wheel](http://timeandwheel.com/) webapp.
 - [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
 - [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
 
@@ -79,7 +78,7 @@ Experimental and production transit hardware.
 - [Transit-Map](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 - [Bikeshare Map](http://bikes.oobrien.com/) - Status of all worldwide bikeshare stations
 - [Bongo](http://ebongo.org) - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Awesome because it combines three disparate transit systems into one UI.
-- [Time & Wheel](http://timeandwheel.com/) - Travel country-wide in the USA with train, bus, plane or ferry.  Uses the open-source [tripover routing engine](https://github.com/joriswu/tripover).
+- [Transitive.js](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
  
 ### Native Apps (open source)
 
@@ -103,10 +102,12 @@ Experimental and production transit hardware.
 - [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 - [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 - [Muni, this moment](http://allthebuses.com/) - Realtime map of all the buses in San Francisco.
+- [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 
 ### Resources
 
-- [TransitWiki](http://www.transitwiki.org/) - A wiki for transit planners to find cost-effective strategies to improve transit service.
+- [When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems ](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf) - Paper that does an amazing job answering the question of how do we communicate uncertainty in transit predictions? The paper explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
+- [When(ish) is my bus? Data and code](https://github.com/mjskay/when-ish-is-my-bus) - The data and code (R) behind Whenish is my bus? Data includes three days of historical vehicle positions and the survey results.
 - ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - Good discussion of options for transforming legacy AVL system data into the GTFS-realtime format.
 - [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - APTA's discussion of the benefits and challenges of open transit data (a short summary of the below TCRP report).
 - [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) - A comprehensive report looking at the benefits and challenges of open transit data.
@@ -136,6 +137,7 @@ Software that makes it easy to consume GTFS data.
 ### GTFS-realtime
 
 - [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/gtfs-realtime-bindings/blob/master/gtfs-realtime.proto).
+- [gtfs-rt-dump](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
 - [gtfsrdb](https://github.com/mattwigway/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 - [GTFS-realtime to SQL](https://github.com/TransitFeeds/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
 - [GTFS-realtime Validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A Java-based tool that validates GTFS-realtime feeds

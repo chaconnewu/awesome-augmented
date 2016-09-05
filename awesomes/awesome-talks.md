@@ -71,7 +71,7 @@
   [33:46]
  </li>
  <li>
-  <a href="https://www.youtube.com/watch?v=csyL9EC0S0c">
+  <a href="https://www.youtube.com/watch?v=AUYPnxv0yss">
    Programming is terrible - Lessons learned from a life wasted
   </a>
   by
@@ -216,14 +216,14 @@
 </h5>
 <ul>
  <li>
-  <a href="http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/">
+  <a href="https://www.youtube.com/watch?v=oiFYPAel-KY">
    Functional is cool, but do you know OO
   </a>
   by
   <strong>
    Sandro Mancuso
   </strong>
-  [54:41]
+  [54:17]
  </li>
  <li>
   <a href="http://pyvideo.org/video/880/stop-writing-classes">
@@ -820,6 +820,16 @@
   </strong>
   [53:03]
  </li>
+ <li>
+  <a href="https://vimeo.com/79866978">
+   Implementing Programmer Anarchy
+  </a>
+  by
+  <strong>
+   Fred George
+  </strong>
+  [54:55]
+ </li>
 </ul>
 <h5>
  Computer History
@@ -876,7 +886,7 @@
 </h5>
 <ul>
  <li>
-  <a href="https://www.youtube.com/watch?v=Qby0ed4aVpo">
+  <a href="https://www.youtube.com/watch?v=PQ0lck7oo4A">
    A Lecture on Creativity
   </a>
   by
@@ -904,6 +914,16 @@
    Cory House
   </strong>
   [59:12]
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=9zc4DSTRGeM">
+   Surviving the Framework Hype Cycle
+  </a>
+  by
+  <strong>
+   Brandon Hays
+  </strong>
+  [35:26]
  </li>
  <li>
   <a href="https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750">

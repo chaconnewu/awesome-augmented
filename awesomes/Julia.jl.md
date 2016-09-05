@@ -122,12 +122,6 @@
   :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
  </li>
  <li>
-  <a href="https://github.com/svaksha/Julia.jl/blob/master/Community.md">
-   Community.md
-  </a>
-  :: List of community and development links, including events, (un)conferences, forums/ meetup groups, NEWS, etc..
- </li>
- <li>
   <a href="https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md">
    Computer-Graphics.md
   </a>
@@ -203,7 +197,13 @@
   <a href="https://github.com/svaksha/Julia.jl/blob/master/Resources.md">
    Resources.md
   </a>
-  :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other non-standard resources.
+  :: List of community resources, development links, including events, (un)conferences, forums/ meetup groups, NEWS, blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other useful resources.
+ </li>
+ <li>
+  <a href="https://github.com/svaksha/Julia.jl/blob/master/Server.md">
+   Server.md
+  </a>
+  :: HTTP/Web, Networking, and other server-side utils...
  </li>
  <li>
   <a href="https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md">
@@ -232,12 +232,6 @@
    Utilities.md
   </a>
   :: Handy toolkits and other general utilities for your Desktop.
- </li>
- <li>
-  <a href="https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md">
-   Web-Server.md
-  </a>
-  :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc...
  </li>
 </ul>
 <p>
@@ -395,6 +389,21 @@
    alphabetical order
   </em>
   , with notes (if any) in the markdown files.
+ </li>
+ <li>
+  Then, type
+  <code>
+   julia src/scrape.jl
+  </code>
+  to run the
+  <a href="https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl">
+   scraper
+  </a>
+  file and commit the
+  <code>
+   db.csv
+  </code>
+  file too.
  </li>
  <li>
   For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.

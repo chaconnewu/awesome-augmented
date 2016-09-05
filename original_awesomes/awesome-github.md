@@ -26,7 +26,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 ## Infomation for people who are new to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
-- [Bingo Board]() -- Play bingo :boom: by sending pull requests!
+- [Bingo Board](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
 - [GitHubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
 - [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
@@ -55,7 +55,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [Github Project Boilerplate](https://github.com/cez-aug/github-project-boilerplate) - Collection of template files for authoring a GitHub project.
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.

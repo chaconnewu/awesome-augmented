@@ -15,9 +15,6 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
- <a href="https://gitter.im/herrbischoff/awesome-osx-command-line">
-  <img alt="Gitter" src="https://badges.gitter.im/Join%20Chat.svg"/>
- </a>
 </p>
 <p>
  If you want to contribute, you are highly encouraged to do so. Please read the
@@ -72,6 +69,11 @@
    <li>
     <a href="#contacts">
      Contacts
+    </a>
+   </li>
+   <li>
+    <a href="#google">
+     Google
     </a>
    </li>
    <li>
@@ -291,6 +293,11 @@
     </a>
    </li>
    <li>
+    <a href="#ssh">
+     SSH
+    </a>
+   </li>
+   <li>
     <a href="#tcpip">
      TCP/IP
     </a>
@@ -399,6 +406,11 @@
    <li>
     <a href="#informationreports">
      Information/Reports
+    </a>
+   </li>
+   <li>
+    <a href="#install-os">
+     Install OS
     </a>
    </li>
    <li>
@@ -620,6 +632,18 @@ rm -r ~/Library/Containers/com.apple.RemoteDesktop
 <p>
  defaults write com.apple.addressbook ABShowDebugMenu -bool false
 ```
+</p>
+<h3>
+ Google
+</h3>
+<h4>
+ Uninstall Google Update
+</h4>
+<p>
+ <code>
+  bash
+~/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/Resources/ksinstall --nuke
+ </code>
 </p>
 <h3>
  iTunes
@@ -862,7 +886,7 @@ brew install macvim --HEAD --with-cscope --with-lua --with-override-system-vim -
  <code>
   bash
 brew tap neovim/neovim && \
-brew install --HEAD neovim
+brew install neovim
  </code>
 </p>
 <h3>
@@ -1565,6 +1589,16 @@ atsutil server -shutdown && \
 atsutil server -ping
  </code>
 </p>
+<h4>
+ Get SF Mono Fonts
+</h4>
+<p>
+ You need to download and install Xcode 8 beta for this to work. Afterwards they should be available in all applications.
+ <code>
+  bash
+cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/Fonts/SFMono-* ~/Library/Fonts
+ </code>
+</p>
 <h2>
  Functions
 </h2>
@@ -2047,6 +2081,28 @@ traceroute github.com
  </code>
 </p>
 <h3>
+ SSH
+</h3>
+<h4>
+ Remote Login
+</h4>
+<p>
+ ```bash
+</p>
+<h1>
+ Enable remote login
+</h1>
+<p>
+ sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist
+</p>
+<h1>
+ Disable remote login
+</h1>
+<p>
+ sudo launchctl unload -w /System/Library/LaunchDaemons/ssh.plist
+```
+</p>
+<h3>
  TCP/IP
 </h3>
 <h4>
@@ -2149,19 +2205,19 @@ networksetup -setairportpower en0 on
   <a href="http://www.finkproject.org">
    Fink
   </a>
-  - The full world of Unix Open Source software for Darwin.
+  - The full world of Unix Open Source software for Darwin. A little outdated.
  </li>
  <li>
   <a href="http://brew.sh">
    Homebrew
   </a>
-  - The missing package manager for OS X.
+  - The missing package manager for OS X. The most popular choice.
  </li>
  <li>
   <a href="https://www.macports.org">
    MacPorts
   </a>
-  - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
+  - Compile, install and upgrade either command-line, X11 or Aqua based open-source software. Very clean, it's what I use.
  </li>
 </ul>
 <h2>
@@ -2263,14 +2319,9 @@ spctl --remove /path/to/Application.app
  Generate Secure Password and Copy to Clipboard
 </h4>
 <p>
- First, install
- <code>
-  pwgen
- </code>
- via Homebrew, etc.
  <code>
   bash
-pwgen -Cs 20 1 | tr -d ' ' | tr -d '\n' | pbcopy
+tr -dc A-Za-z0-9_ < /dev/urandom | head -c 20 | pbcopy
  </code>
 </p>
 <h3>
@@ -2459,6 +2510,25 @@ osascript /path/to/script.scpt
  Basics
 </h3>
 <h4>
+ Compare Two Folders
+</h4>
+<p>
+ <code>
+  bash
+diff -qr /path/to/folder1 /path/to/folder2
+ </code>
+</p>
+<h4>
+ Restore Sane Shell
+</h4>
+<p>
+ In case your shell session went insane (some script or application turned it into a garbled mess).
+ <code>
+  bash
+stty sane
+ </code>
+</p>
+<h4>
  Restart
 </h4>
 <p>
@@ -2592,6 +2662,34 @@ sudo fdesetup authrestart
   bash
 sudo sysdiagnose -f ~/Desktop/
  </code>
+</p>
+<h3>
+ Install OS
+</h3>
+<h4>
+ Create Bootable Installer
+</h4>
+<p>
+ ```bash
+</p>
+<h1>
+ El Capitan
+</h1>
+<p>
+ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
+</p>
+<h1>
+ Yosemite
+</h1>
+<p>
+ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+</p>
+<h1>
+ Mavericks
+</h1>
+<p>
+ sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Mavericks.app
+```
 </p>
 <h3>
  Kernel Extensions
@@ -3124,15 +3222,9 @@ tput bel
 <ul>
  <li>
   <a href="https://iterm2.com">
-   iTerm 2
+   iTerm2
   </a>
   - A better Terminal.app.
- </li>
- <li>
-  <a href="http://totalterminal.binaryage.com">
-   TotalTerminal
-  </a>
-  - A system-wide terminal available on a hot-key.
  </li>
 </ul>
 <h3>
@@ -3163,7 +3255,7 @@ chsh -s $(brew --prefix)/bin/bash
   </a>
   - Community Bash framework, like Oh My Zsh for Bash.
   <sup>
-   &#9733 4477, pushed 4 days ago
+   &#9733 4477, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3199,8 +3291,14 @@ shell for OS X, Linux, and the rest of the family.
   </a>
   - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
   <sup>
-   &#9733 952, pushed 5 days ago
+   &#9733 952, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ellerbrock/fish-shell-setup-osx">
+   Installation & Configuration Tutorial
+  </a>
+  - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
  </li>
 </ul>
 <h4>
@@ -3234,7 +3332,7 @@ chsh -s $(brew --prefix)/bin/zsh
   </a>
   - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
   <sup>
-   &#9733 6108, pushed 6 days ago
+   &#9733 6108, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3243,7 +3341,7 @@ chsh -s $(brew --prefix)/bin/zsh
   </a>
   - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
   <sup>
-   &#9733 508, pushed 26 days ago
+   &#9733 508, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -3263,7 +3361,7 @@ chsh -s $(brew --prefix)/bin/zsh
   </a>
   - A gallery and repository of monospaced fonts for developers.
   <sup>
-   &#9733 3139, pushed 28 days ago
+   &#9733 3139, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3296,7 +3394,7 @@ chsh -s $(brew --prefix)/bin/zsh
   </a>
   - Customized version of Apple's Menlo font.
   <sup>
-   &#9733 1468, pushed 242 days ago
+   &#9733 1468, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -3305,7 +3403,7 @@ chsh -s $(brew --prefix)/bin/zsh
   </a>
   - Repo of patched fonts for the Powerline plugin.
   <sup>
-   &#9733 5063, pushed 17 days ago
+   &#9733 5063, pushed 142 days ago
   </sup>
  </li>
  <li>

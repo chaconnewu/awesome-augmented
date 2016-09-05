@@ -11,7 +11,6 @@ A curated list of awesome data visualizations frameworks, libraries and software
 		- [Charting libraries for graphs](#charting-libraries-for-graphs)
 		- [Maps](#maps)
 		- [d3](#d3)
-		- [dc.js](#dcjs)
 		- [Misc](#misc)
 	- [Android tools](#android-tools)
 	- [C++ tools](#c-tools)
@@ -34,13 +33,13 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [C3](http://c3js.org/) - a D3-based reusable chart library.
 - [Chart.js](http://www.chartjs.org/) - Charts with the canvas tag.
 - [Chartist.js](http://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
+- [dc.js](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
 - [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets.
 - [Epoch](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [Highcharts](https://github.com/highcharts/highcharts) - A charting library based on SVG and VML rendering. Free ([CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) for non-profit projects.
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/) - Optimized for time-series data.
-- [Morris.js](http://morrisjs.github.io/morris.js/) - Pretty time-series line graphs.
 - [NVD3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 - [Peity](https://github.com/benpickles/peity) - Create small inline svg charts.
 - [Plotly.js](https://github.com/plotly/plotly.js/) - Powerful declarative library with support for 20 chart types.
@@ -59,24 +58,14 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
 - [Mapael](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on the.js to display vector maps.
-- [Mapsense.js](http://mapsense.github.io/mapsense.js/) - Combines d3.js with tile maps.
 - [Modest Maps](http://modestmaps.com/) - BSD-licensed display and interaction library for tile-based maps in Javascript.
 
 ### d3
 - See [Awesome D3](https://github.com/wbkd/awesome-d3).
 
-### dc.js
-[dc.js](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
-
-- [angular-dc](https://github.com/TomNeyland/angular-dc) - AngularJS directives for dc.js.
-- [dc.leaflet.js](https://github.com/yurukov/dc.leaflet.js) - dc.js charts using Leaflet maps.
-- [ember-dc](https://github.com/andrewreedy/ember-dc) - Ember Component Wrappers for dc.js.
-
-
 ### Misc
 - [Chroma.js](http://gka.github.io/chroma.js/) - A small library for color manipulation.
 - [Piecon](https://github.com/lipka/piecon) - Pie charts in your favicon.
-- [Recline.js](http://okfnlabs.org/recline/) - Simple but powerful library for building data applications in pure JavaScript and HTML.
 - [Textures.js](http://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 - [Timeline.js](http://timeline.knightlab.com/) -  Create interactive timelines.
 - [Vega](http://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
@@ -93,25 +82,27 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Charts for Go](https://github.com/vdobler/chart) - Basic charts in Go. Can render to ASCII, SVG and images.
 - [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
+
 ## iOS tools
+- [Charts](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
 - [JBChartView](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
 - [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
-- [ios-charts](https://github.com/danielgindi/ios-charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
 
 ## Python tools
 - [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
-- [ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R.
+- [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
+- [ggplot](https://github.com/yhat/ggplot) - plotting system based on [R's](#r-tools) ggplot2.
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
 - [pygal](http://www.pygal.org/en/latest/) - A dynamic SVG charting library.
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - A library for making attractive and informative statistical graphics.
 - [toyplot](http://toyplot.readthedocs.org/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
-- [Vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator.
 - [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
 
 ## R tools
 - [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
+- [ggvis](http://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
 - [lattice](http://lattice.r-forge.r-project.org) - trellis graphics for R
 - [plotly](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 - [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to Bokeh.

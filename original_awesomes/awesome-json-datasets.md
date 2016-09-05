@@ -15,12 +15,15 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Government](#government)
 * [HTTP](#http)
 * [Media](#media)
+* [NASA](#nasa)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
+* [Open Source Licenses](#open-source-licenses)
+* [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -274,6 +277,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
 
+## NASA
+* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
+* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
+* [Electric Arc Shock Tube (EAST) Test 52 Data](https://data.nasa.gov/api/views/eiwv-s7fe)
+* [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
+* [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
+* [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
+
+> Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
+
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
 * [Crypto](https://nodejs.org/api/crypto.json)
@@ -310,6 +323,22 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Addons](https://nodejs.org/api/addons.json)
 * [Child Process](https://nodejs.org/api/child_process.json)
 * [Cluster](https://nodejs.org/api/cluster.json)
+
+## Open Source Licenses
+* [All](https://api.opensource.org/licenses/)
+* [Copyleft](https://api.opensource.org/licenses/copyleft)
+* [OSI Approved](https://api.opensource.org/licenses/osi-approved)
+* [Redundant](https://api.opensource.org/licenses/redundant)
+* [Permissive](https://api.opensource.org/licenses/permissive)
+* [Obsolete](https://api.opensource.org/licenses/obsolete)
+* [Misc](https://api.opensource.org/licenses/miscellaneous)
+* [Popular](https://api.opensource.org/licenses/popular)
+* [Discouraged](https://api.opensource.org/licenses/discouraged)
+* [Non-reusable](https://api.opensource.org/licenses/non-reusable)
+* [Special Purpose](https://api.opensource.org/licenses/special-purpose)
+* [Retired](https://api.opensource.org/licenses/retired)
+
+> Become an OSI member [here](https://opensource.org/civicrm/contribute/transact?reset=1&id=1)
 
 ## Population
 
@@ -392,39 +421,27 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Weather
-* [Los Angeles](http://api.openweathermap.org/data/2.5/weather?q=Los_Angeles)
-* [New York](http://api.openweathermap.org/data/2.5/weather?q=New_York)
-* [Atlanta](http://api.openweathermap.org/data/2.5/weather?q=Atlanta)
-* [Chicago](http://api.openweathermap.org/data/2.5/weather?q=chicago)
-* [Miami](http://api.openweathermap.org/data/2.5/weather?q=miami)
-* [San Francisco](http://api.openweathermap.org/data/2.5/weather?q=San_Francisco)
-* [Charleston](http://api.openweathermap.org/data/2.5/weather?q=Charleston)
-* [Las Vegas](http://api.openweathermap.org/data/2.5/weather?q=Las_Vegas)
-* [Seattle](http://api.openweathermap.org/data/2.5/weather?q=Seattle)
-* [Washington DC](http://api.openweathermap.org/data/2.5/weather?q=Washington_DC)
-* [New Orleans](http://api.openweathermap.org/data/2.5/weather?q=New_Orleans)
-* [Louisville](http://api.openweathermap.org/data/2.5/weather?q=Louisville)
-* [Portland](http://api.openweathermap.org/data/2.5/weather?q=Portland)
-* [Ashburn](http://api.openweathermap.org/data/2.5/weather?q=Ashburn)
-* [Nashville](http://api.openweathermap.org/data/2.5/weather?q=Nashville)
-* [Austin](http://api.openweathermap.org/data/2.5/weather?q=Austin)
-* [Saint Louis](http://api.openweathermap.org/data/2.5/weather?q=Saint_Louis)
-* [Sedona](http://api.openweathermap.org/data/2.5/weather?q=Sedona)
-* [Honolulu](http://api.openweathermap.org/data/2.5/weather?q=Honolulu)
-* [Branson](http://api.openweathermap.org/data/2.5/weather?q=Branson)
-* [Boston](http://api.openweathermap.org/data/2.5/weather?q=Boston)
-* [Savannah](http://api.openweathermap.org/data/2.5/weather?q=Savannah)
-* [Orlando](http://api.openweathermap.org/data/2.5/weather?q=Orlando)
-* [Lahaina](http://api.openweathermap.org/data/2.5/weather?q=Lahaina)
-* [Saint Augustine](http://api.openweathermap.org/data/2.5/weather?q=Saint_Augustine)
-* [San Antonio](http://api.openweathermap.org/data/2.5/weather?q=San_Antonio)
-* [Dallas](http://api.openweathermap.org/data/2.5/weather?q=Dallas)
+* [Los Angeles](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Los%20Angeles%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Chicago](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Chicago%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [New York](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22New%20York%2C%20NY%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Miami](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Miami%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [London](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22London%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Paris](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Paris%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Berlin](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Berlin%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Moscow](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Moscow%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Jerusalem](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Jerusalem%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Tokyo](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Tokyo%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Sydney](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Sydney%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 
-> Pro Tip: replace the field-value for a city not listed e.g. `weather?q=city_name`.
+> Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
+
+## Other
+* [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
-* [JSON](https://github.com/burningtree/awesome-json) (Libraries and Resources)
+* [Help Wanted](https://github.com/jdorfman/awesome-help-wanted) *(Open Source projects looking for Help)*
+* [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 * [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*

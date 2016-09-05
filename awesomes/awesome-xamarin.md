@@ -147,7 +147,7 @@
   </a>
   - A convention-based object-object mapper in .NET
   <sup>
-   &#9733 3428, pushed 2 days ago
+   &#9733 3428, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -158,7 +158,7 @@
   </a>
   - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
   <sup>
-   &#9733 1926, pushed 1 days ago
+   &#9733 1926, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -169,7 +169,7 @@
   </a>
   - Fluent interface and lambda expressions for building validation rules
   <sup>
-   &#9733 1325, pushed 15 days ago
+   &#9733 1325, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -186,7 +186,7 @@
   </a>
   - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
   <sup>
-   &#9733 1403, pushed 11 days ago
+   &#9733 1403, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -200,7 +200,7 @@
   </a>
   - Xamarin component for locking an app with a passcode
   <sup>
-   &#9733 5, pushed 461 days ago
+   &#9733 5, pushed 585 days ago
   </sup>
  </li>
 </ul>
@@ -214,7 +214,7 @@
   </a>
   - A means of adding common and reusable interactivity to your Xamarin applications with minimal code
   <sup>
-   &#9733 19, pushed 84 days ago
+   &#9733 19, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -225,7 +225,7 @@
   </a>
   - State Machines
   <sup>
-   &#9733 516, pushed 35 days ago
+   &#9733 516, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -239,7 +239,7 @@
   </a>
   - A helper library for async/await
   <sup>
-   &#9733 410, pushed 12 days ago
+   &#9733 410, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -248,7 +248,7 @@
   </a>
   - A Task-based LINQ designed to work with async/await
   <sup>
-   &#9733 80, pushed 430 days ago
+   &#9733 80, pushed 554 days ago
   </sup>
  </li>
 </ul>
@@ -268,7 +268,7 @@
   </a>
   - Firebase REST API wrapper
   <sup>
-   &#9733 163, pushed 46 days ago
+   &#9733 163, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -284,7 +284,7 @@
   </a>
   - Extensible tool for weaving .net assemblies
   <sup>
-   &#9733 996, pushed 23 days ago
+   &#9733 996, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -293,7 +293,7 @@
   </a>
   - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
   <sup>
-   &#9733 26, pushed 16 days ago
+   &#9733 26, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +319,7 @@
   </a>
   - Collection of abstracted mobile functionalities
   <sup>
-   &#9733 77, pushed 690 days ago
+   &#9733 77, pushed 814 days ago
   </sup>
  </li>
 </ul>
@@ -333,7 +333,7 @@
   </a>
   - C# implementation of the Cocos2D and Cocos3D APIs
   <sup>
-   &#9733 332, pushed 15 days ago
+   &#9733 332, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +344,7 @@
   </a>
   - Open source implementation of the Microsoft XNA 4.x Framework
   <sup>
-   &#9733 3434, pushed 2 days ago
+   &#9733 3434, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -355,7 +355,7 @@
   </a>
   - Paradox3D + Silicon Studio .NET
   <sup>
-   &#9733 857, pushed 5 days ago
+   &#9733 857, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -375,7 +375,7 @@
   </a>
   - Xamarin library to load images quickly & easily
   <sup>
-   &#9733 135, pushed 4 days ago
+   &#9733 135, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -384,7 +384,7 @@
   </a>
   - Cross platform library for rendering vector graphics
   <sup>
-   &#9733 238, pushed 78 days ago
+   &#9733 238, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -399,7 +399,7 @@
   </a>
   - Cross platform image loading, colors and stuff
   <sup>
-   &#9733 405, pushed 17 days ago
+   &#9733 405, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -408,7 +408,7 @@
   </a>
   - A simple image stream compression plugin for Xamarin
   <sup>
-   &#9733 3, pushed 56 days ago
+   &#9733 3, pushed 181 days ago
   </sup>
  </li>
 </ul>
@@ -423,7 +423,7 @@
   - Access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
   <sup>
-   &#9733 2, pushed 13 days ago
+   &#9733 2, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -432,7 +432,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - consistent, portable set of local file IO APIs for .NET
   <sup>
-   &#9733 109, pushed 2 days ago
+   &#9733 109, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -448,7 +448,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - An addictive .NET IoC container
   <sup>
-   &#9733 976, pushed 4 days ago
+   &#9733 976, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -463,7 +463,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories
   <sup>
-   &#9733 0, pushed 721 days ago
+   &#9733 0, pushed 846 days ago
   </sup>
  </li>
  <li>
@@ -472,7 +472,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Light, simple and stunningly fast IoC container for .NET
   <sup>
-   &#9733 177, pushed 22 days ago
+   &#9733 177, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -483,11 +483,11 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - The ninja of .net dependency injectors
   <sup>
-   &#9733 1454, pushed 9 days ago
+   &#9733 1454, pushed 133 days ago
   </sup>
  </li>
  <li>
-  <a href="http://stiletto.bendb.com">
+  <a href="https://github.com/benjamin-bader/stiletto">
    Stiletto
   </a>
   - .NET port of Dagger, the lightweight Android dependency injector from Square
@@ -498,7 +498,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Single-class easy IoC container
   <sup>
-   &#9733 424, pushed 74 days ago
+   &#9733 424, pushed 199 days ago
   </sup>
  </li>
 </ul>
@@ -512,7 +512,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - tool to generate automatically several platform-dependent resource files from a single RESX file.
   <sup>
-   &#9733 5, pushed 412 days ago
+   &#9733 5, pushed 537 days ago
   </sup>
  </li>
  <li>
@@ -521,7 +521,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Cross Platform Localisation, tools to convert standard strings formats
   <sup>
-   &#9733 158, pushed 156 days ago
+   &#9733 158, pushed 281 days ago
   </sup>
  </li>
 </ul>
@@ -560,7 +560,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
      </li>
     </ul>
     <sup>
-     &#9733 65, pushed 88 days ago
+     &#9733 65, pushed 213 days ago
     </sup>
    </li>
    <li>
@@ -569,7 +569,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
     </a>
     - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
     <sup>
-     &#9733 43, pushed 110 days ago
+     &#9733 43, pushed 235 days ago
     </sup>
    </li>
    <li>
@@ -578,7 +578,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
     </a>
     - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
     <sup>
-     &#9733 14, pushed 54 days ago
+     &#9733 14, pushed 179 days ago
     </sup>
    </li>
    <li>
@@ -589,12 +589,12 @@ mobile-optimized libs (NSURLSession / OkHttp)
     </a>
     - Rx MVVM framework
     <sup>
-     &#9733 2264, pushed 2 days ago
+     &#9733 2264, pushed 127 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1537, pushed 1 days ago
+   &#9733 1537, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -603,7 +603,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Bind gives you easy two-way data binding between properties of objects.
   <sup>
-   &#9733 112, pushed 256 days ago
+   &#9733 112, pushed 381 days ago
   </sup>
  </li>
  <li>
@@ -612,7 +612,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Injects INotifyPropertyChanged code into properties at compile time
   <sup>
-   &#9733 304, pushed 36 days ago
+   &#9733 304, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -626,7 +626,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
   <sup>
-   &#9733 212, pushed 2 days ago
+   &#9733 212, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +635,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
   <sup>
-   &#9733 129, pushed 188 days ago
+   &#9733 129, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -650,7 +650,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
   <sup>
-   &#9733 384, pushed 7 days ago
+   &#9733 384, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -665,7 +665,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Online/offline connected check
   <sup>
-   &#9733 7, pushed 353 days ago
+   &#9733 7, pushed 477 days ago
   </sup>
  </li>
  <li>
@@ -676,7 +676,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - The automatic type-safe REST library for Xamarin and .NET
   <sup>
-   &#9733 812, pushed 22 days ago
+   &#9733 812, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -685,7 +685,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Refit on steroids, simpler auth, parsing...
   <sup>
-   &#9733 37, pushed 22 days ago
+   &#9733 37, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -694,7 +694,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - An abstraction over the socket helper classes of .NET and WinRT
   <sup>
-   &#9733 70, pushed 24 days ago
+   &#9733 70, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -710,7 +710,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - An Asynchronous Key-Value Store for Native Applications
   <sup>
-   &#9733 1156, pushed 27 days ago
+   &#9733 1156, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +735,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Simple Flow Control Library with Rx(Reactive Extensions)
   <sup>
-   &#9733 10, pushed 432 days ago
+   &#9733 10, pushed 557 days ago
   </sup>
  </li>
 </ul>
@@ -749,7 +749,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
   <sup>
-   &#9733 43, pushed 118 days ago
+   &#9733 43, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -758,7 +758,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Xamarin and MvvMCross plugin for accessing the fingerprint sensor
   <sup>
-   &#9733 18, pushed 2 days ago
+   &#9733 18, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -767,7 +767,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Cryptography for portable class libraries (MD5,...)
   <sup>
-   &#9733 90, pushed 19 days ago
+   &#9733 90, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -789,7 +789,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Popular high-performance JSON framework for .NET
   <sup>
-   &#9733 3030, pushed 2 days ago
+   &#9733 3030, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -811,7 +811,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Cross-platform settings storage that uses Akavache as a storage backend
   <sup>
-   &#9733 1, pushed 537 days ago
+   &#9733 1, pushed 662 days ago
   </sup>
  </li>
  <li>
@@ -822,7 +822,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - "wrapper" for your DB tables and uses System.Dynamic extensively
   <sup>
-   &#9733 1531, pushed 97 days ago
+   &#9733 1531, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -831,7 +831,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Cross platform settings plugin for Xamarin and Windows
   <sup>
-   &#9733 11, pushed 16 days ago
+   &#9733 11, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -840,7 +840,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - SQLite 3 databases support, PCL, async
   <sup>
-   &#9733 241, pushed 5 days ago
+   &#9733 241, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -860,7 +860,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - framework for Behaviour-Driven Development
   <sup>
-   &#9733 36, pushed 523 days ago
+   &#9733 36, pushed 648 days ago
   </sup>
  </li>
 </ul>
@@ -874,7 +874,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Visual Studio extension, for referencing gradle libs in Android projects
   <sup>
-   &#9733 39, pushed 273 days ago
+   &#9733 39, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +883,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Xamarin Studio & Visual Studio plugin, for adding material icons to android project
   <sup>
-   &#9733 8, pushed 32 days ago
+   &#9733 8, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -894,7 +894,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
   <sup>
-   &#9733 3131, pushed 3 days ago
+   &#9733 3131, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -903,7 +903,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Productivity plugin for Xamarin Studio
   <sup>
-   &#9733 7, pushed 48 days ago
+   &#9733 7, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -912,7 +912,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Visual Studio extension, opens *.axml files in Android Studio
   <sup>
-   &#9733 17, pushed 109 days ago
+   &#9733 17, pushed 234 days ago
   </sup>
  </li>
 </ul>
@@ -926,7 +926,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Communication between Watch and iDevice
   <sup>
-   &#9733 23, pushed 389 days ago
+   &#9733 23, pushed 514 days ago
   </sup>
  </li>
 </ul>
@@ -940,7 +940,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms
   <sup>
-   &#9733 192, pushed 69 days ago
+   &#9733 192, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -949,7 +949,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Timer object and its methods are implemented for extended support for timers.
   <sup>
-   &#9733 9, pushed 123 days ago
+   &#9733 9, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -958,7 +958,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
   <sup>
-   &#9733 28, pushed 106 days ago
+   &#9733 28, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -985,7 +985,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Xamarin.Forms control for NGraphics
   <sup>
-   &#9733 89, pushed 10 days ago
+   &#9733 89, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -994,7 +994,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - MVVMCross plugin for using Xamarin.Forms
   <sup>
-   &#9733 7, pushed 352 days ago
+   &#9733 7, pushed 477 days ago
   </sup>
  </li>
  <li>
@@ -1003,7 +1003,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - set of helpful extensions to the Xamarin Forms framework
   <sup>
-   &#9733 18, pushed 312 days ago
+   &#9733 18, pushed 437 days ago
   </sup>
  </li>
  <li>
@@ -1012,7 +1012,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Rate app popup
   <sup>
-   &#9733 3, pushed 482 days ago
+   &#9733 3, pushed 607 days ago
   </sup>
  </li>
  <li>
@@ -1027,7 +1027,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - A simple way of showing some notifications inside your Xamarin.Forms application
   <sup>
-   &#9733 81, pushed 20 days ago
+   &#9733 81, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1036,7 +1036,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - FastCell, FastImage, FastGridCell
   <sup>
-   &#9733 97, pushed 22 days ago
+   &#9733 97, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1047,7 +1047,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Powerful and cross platform set of controls and helpers
   <sup>
-   &#9733 762, pushed 7 days ago
+   &#9733 762, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1056,7 +1056,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Monogame wrapper for Xamarin.Forms
   <sup>
-   &#9733 6, pushed 387 days ago
+   &#9733 6, pushed 512 days ago
   </sup>
  </li>
 </ul>
@@ -1073,7 +1073,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
   <sup>
-   &#9733 4, pushed 233 days ago
+   &#9733 4, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -1082,7 +1082,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - (Fingerprint Sensor) For Xamarin (iOS & Android)
   <sup>
-   &#9733 2, pushed 132 days ago
+   &#9733 2, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -1091,7 +1091,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
   <sup>
-   &#9733 9, pushed 16 days ago
+   &#9733 9, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1106,7 +1106,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Cross platform implementation of the estimote library for beacons.
   <sup>
-   &#9733 12, pushed 13 days ago
+   &#9733 12, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1115,7 +1115,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
   <sup>
-   &#9733 18, pushed 2 days ago
+   &#9733 18, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1124,7 +1124,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
   <sup>
-   &#9733 6, pushed 427 days ago
+   &#9733 6, pushed 552 days ago
   </sup>
  </li>
  <li>
@@ -1139,7 +1139,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
   <sup>
-   &#9733 4, pushed 464 days ago
+   &#9733 4, pushed 589 days ago
   </sup>
  </li>
  <li>
@@ -1148,7 +1148,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
   <sup>
-   &#9733 26, pushed 9 days ago
+   &#9733 26, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1157,7 +1157,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Notifications plugin for Xamarin and Windows
   <sup>
-   &#9733 5, pushed 18 days ago
+   &#9733 5, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1166,7 +1166,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Email, sms, voice and video call functionality
   <sup>
-   &#9733 8, pushed 337 days ago
+   &#9733 8, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -1175,7 +1175,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Standard user dialogs from a shared/portable library.
   <sup>
-   &#9733 99, pushed 4 days ago
+   &#9733 99, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1190,7 +1190,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Simple cross platform plugin to work with application badge
   <sup>
-   &#9733 15, pushed 303 days ago
+   &#9733 15, pushed 427 days ago
   </sup>
  </li>
  <li>
@@ -1199,7 +1199,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Simple cross platform plugin to work with mobile local notifications
   <sup>
-   &#9733 23, pushed 91 days ago
+   &#9733 23, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -1208,7 +1208,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Reading the user's address book and using the camera
   <sup>
-   &#9733 184, pushed 188 days ago
+   &#9733 184, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -1217,7 +1217,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Device Motion, Geofencing, Push Notifications (Beta)
   <sup>
-   &#9733 14, pushed 25 days ago
+   &#9733 14, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1226,7 +1226,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
   <sup>
-   &#9733 479, pushed 10 days ago
+   &#9733 479, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1235,7 +1235,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
   </a>
   - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
   <sup>
-   &#9733 247, pushed 8 days ago
+   &#9733 247, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1243,7 +1243,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

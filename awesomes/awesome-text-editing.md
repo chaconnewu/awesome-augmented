@@ -17,7 +17,7 @@
   </a>
   - Basecamp's rich text editor
   <sup>
-   &#9733 6684, pushed 3 days ago
+   &#9733 6684, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -32,7 +32,7 @@
   </a>
   - HTML5 rich text editor
   <sup>
-   &#9733 3354, pushed 2 days ago
+   &#9733 3354, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -51,7 +51,7 @@
   </a>
   team
   <sup>
-   &#9733 3388, pushed 2 days ago
+   &#9733 3388, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -117,7 +117,7 @@
   </a>
   - Collaborative web-based rich text editor
   <sup>
-   &#9733 648, pushed 245 days ago
+   &#9733 648, pushed 370 days ago
   </sup>
  </li>
  <li>
@@ -150,7 +150,7 @@
   </a>
   - Open Source HTML editor
   <sup>
-   &#9733 700, pushed 33 days ago
+   &#9733 700, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -159,7 +159,7 @@
   </a>
   - Simple rich text editor (contentEditable) for jQuery UI
   <sup>
-   &#9733 2385, pushed 251 days ago
+   &#9733 2385, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -198,7 +198,7 @@
   </a>
   - WYSIWYG jQuery Plugin
   <sup>
-   &#9733 236, pushed 293 days ago
+   &#9733 236, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -252,7 +252,7 @@
   </a>
   - A Markdown parser for javascript
   <sup>
-   &#9733 4619, pushed 6 days ago
+   &#9733 4619, pushed 131 days ago
   </sup>
  </li>
  <li>

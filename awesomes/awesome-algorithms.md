@@ -96,6 +96,12 @@ Lots and lots of well explained and implemented algorithms.
   - A dense article on Algorithms Visualization.
  </li>
  <li>
+  <a href="https://workshape.github.io/visual-graph-algorithms/">
+   A Visual Guide to Graph Traversal Algorithms
+  </a>
+  - Interactive visualisations for learning how graph traversal algorithms work
+ </li>
+ <li>
   <a href="http://bigocheatsheet.com/">
    Big-O Cheat Sheet
   </a>
@@ -108,7 +114,7 @@ Lots and lots of well explained and implemented algorithms.
   - Some algorithms nicely explained.
  </li>
  <li>
-  <a href="http://www.comp.nus.edu.sg/~stevenha/visualization/index.html">
+  <a href="http://visualgo.net">
    VisuAlgo
   </a>
   - Visualising data structures and algorithms through animation.
@@ -136,6 +142,12 @@ Lots and lots of well explained and implemented algorithms.
    Sorting Algorithms
   </a>
   - Nice and simple animations of sorting algorithms. With short codes and discussions.
+ </li>
+ <li>
+  <a href="http://algo-visualizer.jasonpark.me/">
+   Algorithm Visualizer
+  </a>
+  - Dozens of animated algorithms (with code), and you can also create your own.
  </li>
 </ul>
 <h2>
@@ -238,7 +250,7 @@ Similar to the previous one, but with different algorithms.
   </a>
   - An awesome book about algorithms and data structures.
   <sup>
-   &#9733 1894, pushed 9 days ago
+   &#9733 1894, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +292,7 @@ Similar to the previous one, but with different algorithms.
    C
   </a>
   <sup>
-   &#9733 508, pushed 17 days ago
+   &#9733 508, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -288,7 +300,7 @@ Similar to the previous one, but with different algorithms.
    CoffeeScript
   </a>
   <sup>
-   &#9733 31, pushed 642 days ago
+   &#9733 31, pushed 767 days ago
   </sup>
  </li>
  <li>
@@ -304,20 +316,30 @@ Similar to the previous one, but with different algorithms.
      by @aalhour
     </a>
     <sup>
-     &#9733 604, pushed 2 days ago
+     &#9733 604, pushed 127 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 5, pushed 827 days ago
+   &#9733 5, pushed 952 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/xtaci/algorithms">
-   C++
-  </a>
+  C++
+  <ul>
+   <li>
+    <a href="https://github.com/xtaci/algorithms">
+     by @xtaci
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/PetarV-/Algorithms">
+     by @PetarV-
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 926, pushed 7 days ago
+   &#9733 926, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +347,7 @@ Similar to the previous one, but with different algorithms.
    Erlang
   </a>
   <sup>
-   &#9733 51, pushed 45 days ago
+   &#9733 51, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +355,7 @@ Similar to the previous one, but with different algorithms.
    Go
   </a>
   <sup>
-   &#9733 879, pushed 456 days ago
+   &#9733 879, pushed 580 days ago
   </sup>
  </li>
  <li>
@@ -349,7 +371,7 @@ Similar to the previous one, but with different algorithms.
      by @asmolich
     </a>
     <sup>
-     &#9733 3, pushed 661 days ago
+     &#9733 3, pushed 785 days ago
     </sup>
    </li>
    <li>
@@ -357,7 +379,7 @@ Similar to the previous one, but with different algorithms.
      by @psjava
     </a>
     <sup>
-     &#9733 25, pushed 377 days ago
+     &#9733 25, pushed 502 days ago
     </sup>
    </li>
    <li>
@@ -365,7 +387,7 @@ Similar to the previous one, but with different algorithms.
      by @jeandersonbc
     </a>
     <sup>
-     &#9733 5, pushed 551 days ago
+     &#9733 5, pushed 675 days ago
     </sup>
    </li>
    <li>
@@ -373,12 +395,12 @@ Similar to the previous one, but with different algorithms.
      by @pedrovgs
     </a>
     <sup>
-     &#9733 1505, pushed 66 days ago
+     &#9733 1505, pushed 191 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 726, pushed 110 days ago
+   &#9733 726, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -394,7 +416,7 @@ Similar to the previous one, but with different algorithms.
      by @nzakas
     </a>
     <sup>
-     &#9733 3713, pushed 22 days ago
+     &#9733 3713, pushed 146 days ago
     </sup>
    </li>
    <li>
@@ -402,7 +424,7 @@ Similar to the previous one, but with different algorithms.
      by @duereg
     </a>
     <sup>
-     &#9733 272, pushed 107 days ago
+     &#9733 272, pushed 232 days ago
     </sup>
    </li>
    <li>
@@ -410,12 +432,12 @@ Similar to the previous one, but with different algorithms.
      by @mgechev
     </a>
     <sup>
-     &#9733 1783, pushed 24 days ago
+     &#9733 1783, pushed 149 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 2099, pushed 3 days ago
+   &#9733 2099, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -428,7 +450,7 @@ Similar to the previous one, but with different algorithms.
    </li>
   </ul>
   <sup>
-   &#9733 1970, pushed 29 days ago
+   &#9733 1970, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +466,7 @@ Similar to the previous one, but with different algorithms.
      by @prakhar1989
     </a>
     <sup>
-     &#9733 1363, pushed 26 days ago
+     &#9733 1363, pushed 151 days ago
     </sup>
    </li>
    <li>
@@ -452,12 +474,17 @@ Similar to the previous one, but with different algorithms.
      by @laurentluce
     </a>
     <sup>
-     &#9733 157, pushed 155 days ago
+     &#9733 157, pushed 280 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/nelson-brochado/ands">
+     by @nelson-brochado
+    </a>
    </li>
   </ul>
   <sup>
-   &#9733 1424, pushed 3 days ago
+   &#9733 1424, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -473,7 +500,7 @@ Similar to the previous one, but with different algorithms.
      by @sagivo
     </a>
     <sup>
-     &#9733 2411, pushed 4 days ago
+     &#9733 2411, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -481,12 +508,12 @@ Similar to the previous one, but with different algorithms.
      by @kumar91gopi
     </a>
     <sup>
-     &#9733 1, pushed 7 days ago
+     &#9733 1, pushed 131 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1865, pushed 42 days ago
+   &#9733 1865, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -494,7 +521,7 @@ Similar to the previous one, but with different algorithms.
    Scala
   </a>
   <sup>
-   &#9733 602, pushed 39 days ago
+   &#9733 602, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -510,7 +537,7 @@ Similar to the previous one, but with different algorithms.
      by @waynewbishop
     </a>
     <sup>
-     &#9733 1322, pushed 5 days ago
+     &#9733 1322, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -518,12 +545,12 @@ Similar to the previous one, but with different algorithms.
      by @hollance
     </a>
     <sup>
-     &#9733 5152, pushed 4 days ago
+     &#9733 5152, pushed 128 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 15, pushed 316 days ago
+   &#9733 15, pushed 441 days ago
   </sup>
  </li>
  <li>
@@ -539,7 +566,7 @@ Similar to the previous one, but with different algorithms.
      by @indy256
     </a>
     <sup>
-     &#9733 291, pushed 41 days ago
+     &#9733 291, pushed 165 days ago
     </sup>
    </li>
    <li>
@@ -552,12 +579,12 @@ Similar to the previous one, but with different algorithms.
      by @patmorin
     </a>
     <sup>
-     &#9733 365, pushed 13 days ago
+     &#9733 365, pushed 138 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1698, pushed 5 days ago
+   &#9733 1698, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -719,7 +746,7 @@ A tool that allows you to create flowcharts that can simulate real algorithms.
   </a>
   - Interactive, test-driven coding challenges (algorithms and data structures).
   <sup>
-   &#9733 2410, pushed 11 days ago
+   &#9733 2410, pushed 135 days ago
   </sup>
  </li>
 </ul>

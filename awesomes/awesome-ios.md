@@ -11,6 +11,15 @@
  <a href="https://travis-ci.org/vsouza/awesome-ios">
   <img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master"/>
  </a>
+ <a href="">
+  <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/swift"/>
+ </a>
+ <a href="">
+  <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/objc"/>
+ </a>
+ <a href="http://makeapullrequest.com">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+ </a>
 </p>
 <h5>
  About
@@ -105,6 +114,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     <a href="#code-quality">
      Code Quality
     </a>
+    <ul>
+     <li>
+      <a href="#linter">
+       Linter
+      </a>
+     </li>
+    </ul>
    </li>
    <li>
     <a href="#color">
@@ -114,6 +130,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    <li>
     <a href="#command-line">
      Command Line
+    </a>
+   </li>
+   <li>
+    <a href="#concurrency">
+     Concurrency
     </a>
    </li>
    <li>
@@ -157,6 +178,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     </a>
    </li>
    <li>
+    <a href="#games">
+     Games
+    </a>
+   </li>
+   <li>
     <a href="#gesture">
      Gesture
     </a>
@@ -182,6 +208,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
+      <a href="#force-touch">
+       Force Touch
+      </a>
+     </li>
+     <li>
       <a href="#ibeacon">
        iBeacon
       </a>
@@ -197,11 +228,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
     </ul>
-   </li>
-   <li>
-    <a href="#json">
-     JSON
-    </a>
    </li>
    <li>
     <a href="#layout">
@@ -239,18 +265,28 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
-      <a href="#image">
-       Image
-      </a>
-     </li>
-     <li>
       <a href="#gif">
        GIF
       </a>
      </li>
      <li>
+      <a href="#image">
+       Image
+      </a>
+     </li>
+     <li>
+      <a href="#media-processing">
+       Media Processing
+      </a>
+     </li>
+     <li>
       <a href="#pdf">
        PDF
+      </a>
+     </li>
+     <li>
+      <a href="#streaming">
+       Streaming
       </a>
      </li>
      <li>
@@ -288,6 +324,33 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     </ul>
    </li>
    <li>
+    <a href="#parsing">
+     Parsing
+    </a>
+    <ul>
+     <li>
+      <a href="#csv">
+       CSV
+      </a>
+     </li>
+     <li>
+      <a href="#json">
+       JSON
+      </a>
+     </li>
+     <li>
+      <a href="#xml--html">
+       XML & HTML
+      </a>
+     </li>
+     <li>
+      <a href="#other-parsing">
+       Other Parsing
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
     <a href="#passbook">
      Passbook
     </a>
@@ -313,6 +376,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     </a>
    </li>
    <li>
+    <a href="#reflection">
+     Reflection
+    </a>
+   </li>
+   <li>
     <a href="#regex">
      Regex
     </a>
@@ -321,6 +389,18 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     <a href="#security">
      Security
     </a>
+    <ul>
+     <li>
+      <a href="#encryption">
+       Encryption
+      </a>
+     </li>
+     <li>
+      <a href="#keychain">
+       Keychain
+      </a>
+     </li>
+    </ul>
    </li>
    <li>
     <a href="#text">
@@ -355,6 +435,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
+      <a href="#badge">
+       Badge
+      </a>
+     </li>
+     <li>
       <a href="#button">
        Button
       </a>
@@ -365,8 +450,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
-      <a href="#form">
-       Form
+      <a href="#form--settings">
+       Form & Settings
       </a>
      </li>
      <li>
@@ -390,6 +475,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
+      <a href="#navigation-bar">
+       Navigation Bar
+      </a>
+     </li>
+     <li>
       <a href="#popup">
        Popup
       </a>
@@ -410,6 +500,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
+      <a href="#splash-view">
+       Splash View
+      </a>
+     </li>
+     <li>
       <a href="#stepper">
        Stepper
       </a>
@@ -425,8 +520,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
       </a>
      </li>
      <li>
-      <a href="#table-view">
-       Table View
+      <a href="#table-view--collection-view">
+       Table View / Collection View
       </a>
      </li>
      <li>
@@ -437,6 +532,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      <li>
       <a href="#textfield--textview">
        TextField & TextView
+      </a>
+     </li>
+     <li>
+      <a href="#web--view">
+       Web View
       </a>
      </li>
     </ul>
@@ -459,11 +559,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    <li>
     <a href="#websocket">
      Websocket
-    </a>
-   </li>
-   <li>
-    <a href="#xml--html--csv">
-     XML / HTML / CSV
     </a>
    </li>
   </ul>
@@ -575,6 +670,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     </a>
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="#reference">
+   Reference
+  </a>
  </li>
  <li>
   <a href="#style-guides">
@@ -757,7 +857,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An extensible iOS and OS X animation library, useful for physics-based interactions.
   <sup>
-   &#9733 15140, pushed 5 days ago
+   &#9733 15140, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -766,7 +866,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Easily build advanced custom animations on iOS.
   <sup>
-   &#9733 904, pushed 164 days ago
+   &#9733 904, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -775,7 +875,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Collection of Animation projects
   <sup>
-   &#9733 421, pushed 175 days ago
+   &#9733 421, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -784,7 +884,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A library of custom iOS View Controller Animations and Interactions.
   <sup>
-   &#9733 1326, pushed 36 days ago
+   &#9733 1326, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -793,7 +893,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A collection of animations for iOS. Simple, just add water animations.
   <sup>
-   &#9733 563, pushed 84 days ago
+   &#9733 563, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -802,7 +902,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A library to simplify iOS animations in Swift.
   <sup>
-   &#9733 7784, pushed 2 days ago
+   &#9733 7784, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -811,7 +911,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Animate in Xcode without code http://canvaspod.io
   <sup>
-   &#9733 4704, pushed 244 days ago
+   &#9733 4704, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -824,7 +924,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 247, pushed 240 days ago
+   &#9733 247, pushed 365 days ago
   </sup>
  </li>
  <li>
@@ -837,7 +937,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 400, pushed 40 days ago
+   &#9733 400, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -850,7 +950,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 13, pushed 165 days ago
+   &#9733 13, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -859,7 +959,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A project tutorial in how to use Pop animation framework by example.
   <sup>
-   &#9733 102, pushed 282 days ago
+   &#9733 102, pushed 407 days ago
   </sup>
  </li>
  <li>
@@ -878,7 +978,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1832, pushed 3 days ago
+   &#9733 1832, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -891,7 +991,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 74, pushed 64 days ago
+   &#9733 74, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -900,11 +1000,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A framework for creating unique animations.
   <sup>
-   &#9733 32, pushed 12 days ago
+   &#9733 32, pushed 137 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/JakeLin/IBAnimatable">
+  <a href="https://github.com/IBAnimatable/IBAnimatable">
    IBAnimatable
   </a>
   - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. :large
@@ -912,9 +1012,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 4049, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/CezaryKopacz/CKWaveCollectionViewTransition">
@@ -926,7 +1023,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1212, pushed 142 days ago
+   &#9733 1212, pushed 267 days ago
   </sup>
  </li>
  <li>
@@ -939,7 +1036,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 10, pushed 89 days ago
+   &#9733 10, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -952,7 +1049,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 19, pushed 44 days ago
+   &#9733 19, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -961,7 +1058,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS Component for creating a pulsing animation.
   <sup>
-   &#9733 1280, pushed 42 days ago
+   &#9733 1280, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -974,7 +1071,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 1480, pushed 22 days ago
+   &#9733 1480, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -987,7 +1084,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 323, pushed 25 days ago
+   &#9733 323, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1000,7 +1097,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 3368, pushed 27 days ago
+   &#9733 3368, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1009,7 +1106,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - UIView category that adds shake animation
   <sup>
-   &#9733 385, pushed 43 days ago
+   &#9733 385, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +1119,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 45, pushed 37 days ago
+   &#9733 45, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -1035,7 +1132,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 27, pushed 39 days ago
+   &#9733 27, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1048,7 +1145,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 2, pushed 99 days ago
+   &#9733 2, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -1057,7 +1154,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An easy way to add a simple, shimmering effect to any view in an iOS app.
   <sup>
-   &#9733 6602, pushed 5 days ago
+   &#9733 6602, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1070,7 +1167,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 572, pushed 15 days ago
+   &#9733 572, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1083,7 +1180,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 148, pushed 77 days ago
+   &#9733 148, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -1096,7 +1193,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 321, pushed 14 days ago
+   &#9733 321, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1109,7 +1206,136 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 11, pushed 0 days ago
+   &#9733 11, pushed 125 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Antondomashnev/ADPuzzleAnimation">
+   ADPuzzleAnimation
+  </a>
+  - Custom animation for UIView inspired by Fabric - Answers animation. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/Wave">
+   Wave
+  </a>
+  - 🏄 Declarative chainable animations in Swift
+ </li>
+ <li>
+  <a href="https://github.com/AugustRush/Stellar">
+   Stellar
+  </a>
+  - A fantastic Physical animation library for swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/poetmountain/MotionMachine">
+   MotionMachine
+  </a>
+  - A powerful, elegant, and modular animation library for Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/carleihar/JRMFloatingAnimation">
+   JRMFloatingAnimation
+  </a>
+  - An Objective-C animation library used to create floating image views.
+ </li>
+ <li>
+  <a href="https://github.com/fastred/AHKBendableView">
+   AHKBendableView
+  </a>
+  - UIView subclass that bends its edges when its position changes :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/AntonTheDev/FlightAnimator">
+   FlightAnimator
+  </a>
+  - Advanced Natural Motion Animations, Simple Blocks Based Syntax :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/WorldDownTown/ZoomTransitioning">
+   ZoomTransitioning
+  </a>
+  - A custom transition with image zooming animation. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/RobinFalko/Ubergang">
+   Ubergang
+  </a>
+  - A tweening engine for iOS written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jhurray/JHChainableAnimations">
+   JHChainableAnimations
+  </a>
+  - Easy to read and write chainable animations in Objective-C
+ </li>
+ <li>
+  <a href="https://github.com/DavdRoman/Popsicle">
+   Popsicle
+  </a>
+  - Delightful, extensible Swift value interpolation framework :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1080, pushed 199 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/WelkinXie/WXWaveView">
+   WXWaveView
+  </a>
+  - Add a pretty water wave to your view.
+ </li>
+ <li>
+  <a href="https://github.com/piemonte/Twinkle">
+   Twinkle
+  </a>
+  - :sparkles: Swift and easy way to make elements in your iOS and tvOS app twinkle :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 326, pushed 246 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fastred/MotionBlur">
+   MotionBlur
+  </a>
+  - MotionBlur allows you to add motion blur effect to iOS animations.
+  <sup>
+   &#9733 1305, pushed 520 days ago
   </sup>
  </li>
 </ul>
@@ -1123,7 +1349,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
   <sup>
-   &#9733 411, pushed 80 days ago
+   &#9733 411, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1132,7 +1358,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - YouTube video player for iOS, tvOS and OS X
   <sup>
-   &#9733 1673, pushed 11 days ago
+   &#9733 1673, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1145,7 +1371,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 26, pushed 37 days ago
+   &#9733 26, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1158,29 +1384,29 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 179, pushed 120 days ago
+   &#9733 179, pushed 244 days ago
   </sup>
  </li>
  <li>
-  <p>
-   <a href="https://github.com/analytics-pros/Swift-GA-Tracker-for-Apple-tvOS">
-    Swift-GA-Tracker-for-Apple-tvOS
-   </a>
-   - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV. :large
-   <em>
-    orange
-   </em>
-   diamond:
-  </p>
-  <h3>
-   Authentication
-  </h3>
+  <a href="https://github.com/analytics-pros/Swift-GA-Tracker-for-Apple-tvOS">
+   Swift-GA-Tracker-for-Apple-tvOS
+  </a>
+  - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV. :large
+  <em>
+   orange
+  </em>
+  diamond:
   <sup>
-   &#9733 34, pushed 15 days ago
+   &#9733 34, pushed 140 days ago
   </sup>
  </li>
+</ul>
+<h3>
+ Authentication
+</h3>
+<ul>
  <li>
-  <a href="https://github.com/rheinfabrik/Heimdallr.swift">
+  <a href="https://github.com/trivago/Heimdallr.swift">
    Heimdallr.swift
   </a>
   - Easy to use OAuth 2 library for iOS, written in Swift. :large
@@ -1188,9 +1414,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 157, pushed 14 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/hyperoslo/OhMyAuth">
@@ -1202,7 +1425,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 18, pushed 13 days ago
+   &#9733 18, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1215,7 +1438,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 204, pushed 83 days ago
+   &#9733 204, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -1228,7 +1451,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 368, pushed 4 days ago
+   &#9733 368, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1241,7 +1464,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1094, pushed 5 days ago
+   &#9733 1094, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1250,7 +1473,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Simple social authentication for iOS
   <sup>
-   &#9733 1046, pushed 103 days ago
+   &#9733 1046, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1263,8 +1486,38 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 40, pushed 8 days ago
+   &#9733 40, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/delba/SwiftyOAuth">
+   SwiftyOAuth
+  </a>
+  - A small OAuth library with a built-in set of providers :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/SimplicityMobile/Simplicity">
+   Simplicity
+  </a>
+  - A simple way to implement Facebook and Google login in your iOS and OS X apps. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Isuru-Nanayakkara/InstagramAuthViewController">
+   InstagramAuthViewController
+  </a>
+  - A ViewController for Instagram authentication. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -1301,7 +1554,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
   <sup>
-   &#9733 84, pushed 312 days ago
+   &#9733 84, pushed 436 days ago
   </sup>
  </li>
  <li>
@@ -1310,7 +1563,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Analytics abstraction library offering a sane API for tracking events and user data.
   <sup>
-   &#9733 1380, pushed 8 days ago
+   &#9733 1380, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1319,7 +1572,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - The hassle-free way to integrate analytics into any iOS application.
   <sup>
-   &#9733 158, pushed 27 days ago
+   &#9733 158, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -1340,7 +1593,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
   <sup>
-   &#9733 0, pushed 2 days ago
+   &#9733 0, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1360,7 +1613,22 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
   <sup>
-   &#9733 5360, pushed 6 days ago
+   &#9733 5360, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/marcuswestin/WebViewJavascriptBridge">
+   WebViewJavascriptBridge
+  </a>
+  - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
+ </li>
+ <li>
+  <a href="https://github.com/MichaelBuckley/MAIKit">
+   MAIKit
+  </a>
+  - A framework for sharing code between iOS and OS X
+  <sup>
+   &#9733 116, pushed 357 days ago
   </sup>
  </li>
 </ul>
@@ -1378,7 +1646,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 728, pushed 23 days ago
+   &#9733 728, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1391,7 +1659,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 347, pushed 67 days ago
+   &#9733 347, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -1404,7 +1672,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 228, pushed 5 days ago
+   &#9733 228, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1417,7 +1685,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 3368, pushed 12 days ago
+   &#9733 3368, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1426,7 +1694,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - High performance cache framework for iOS.
   <sup>
-   &#9733 757, pushed 27 days ago
+   &#9733 757, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1439,7 +1707,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 333, pushed 5 days ago
+   &#9733 333, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1448,7 +1716,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A delightful iOS Networking Cache Managing Class.
   <sup>
-   &#9733 1, pushed 18 days ago
+   &#9733 1, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1457,8 +1725,40 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify
   <sup>
-   &#9733 964, pushed 3 days ago
+   &#9733 964, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/maquannene/Track">
+   Track
+  </a>
+  - Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Kilograpp/UITableView-Cache">
+   UITableView Cache
+  </a>
+  - UITableView cache that cures scroll-lags on a cell instantiating
+ </li>
+ <li>
+  <a href="https://github.com/linkedin/RocketData">
+   RocketData
+  </a>
+  - A caching and consistency solution for immutable models. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/pinterest/PINCache">
+   PINCache
+  </a>
+  - Fast, non-deadlocking parallel object cache for iOS and OS X
  </li>
 </ul>
 <h3>
@@ -1471,7 +1771,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS project bootstrap aimed at high quality coding.
   <sup>
-   &#9733 1609, pushed 21 days ago
+   &#9733 1609, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1480,7 +1780,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
   <sup>
-   &#9733 94, pushed 189 days ago
+   &#9733 94, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -1495,7 +1795,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An in-app debugging and exploration tool for iOS.
   <sup>
-   &#9733 6054, pushed 64 days ago
+   &#9733 6054, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1504,14 +1804,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Collection of LLDB commands to assist debugging iOS apps.
   <sup>
-   &#9733 4811, pushed 5 days ago
+   &#9733 4811, pushed 130 days ago
   </sup>
- </li>
- <li>
-  <a href="http://oclint.org/">
-   OCLint
-  </a>
-  - Static code analysis tool for improving quality and reducing defects.
  </li>
  <li>
   <a href="https://github.com/Cue/ocstyle">
@@ -1519,20 +1813,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Objective-C style checker.
   <sup>
-   &#9733 222, pushed 1037 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/realm/SwiftLint">
-   SwiftLint
-  </a>
-  - An experimental tool to enforce Swift style and conventions. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 3811, pushed 4 days ago
+   &#9733 222, pushed 1161 days ago
   </sup>
  </li>
  <li>
@@ -1541,7 +1822,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Commit fully-formatted Objective-C code as a team without even trying.
   <sup>
-   &#9733 615, pushed 33 days ago
+   &#9733 615, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1550,7 +1831,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Optimizing UITableViewCell For Fast Scrolling.
   <sup>
-   &#9733 519, pushed 204 days ago
+   &#9733 519, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -1559,7 +1840,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
   <sup>
-   &#9733 651, pushed 2 days ago
+   &#9733 651, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1572,7 +1853,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 403, pushed 21 days ago
+   &#9733 403, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1585,7 +1866,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 93, pushed 4 days ago
+   &#9733 93, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1594,7 +1875,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Find memory leaks in your iOS app at develop time.
   <sup>
-   &#9733 609, pushed 48 days ago
+   &#9733 609, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1603,7 +1884,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Find memory issues & leaks in your iOS app without instruments
   <sup>
-   &#9733 1370, pushed 15 days ago
+   &#9733 1370, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1612,7 +1893,80 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS tool that helps with profiling iOS Memory usage.
   <sup>
-   &#9733 1480, pushed 2 days ago
+   &#9733 1480, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/facebook/FBRetainCycleDetector">
+   FBRetainCycleDetector
+  </a>
+  - iOS library to help detecting retain cycles in runtime.
+ </li>
+ <li>
+  <a href="https://github.com/Buglife/Buglife-iOS">
+   Buglife
+  </a>
+  - Awesome bug reporting for iOS apps
+ </li>
+ <li>
+  <a href="https://github.com/boredzo/Warnings-xcconfig">
+   Warnings-xcconfig
+  </a>
+  - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
+ </li>
+ <li>
+  <a href="https://github.com/square/Aardvark">
+   Aardvark
+  </a>
+  - Aardvark is a library that makes it dead simple to create actionable bug reports.
+ </li>
+ <li>
+  <a href="https://github.com/shu223/Stats">
+   Stats
+  </a>
+  - In-app memory usage monitoring.
+ </li>
+ <li>
+  <a href="https://github.com/Legoless/Alpha">
+   Alpha
+  </a>
+  - Next generation debugging framework for iOS.
+ </li>
+</ul>
+<h5>
+ Linter
+</h5>
+<ul>
+ <li>
+  <a href="http://oclint.org/">
+   OCLint
+  </a>
+  - Static code analysis tool for improving quality and reducing defects.
+ </li>
+ <li>
+  <a href="https://github.com/yopeso/Taylor">
+   Taylor
+  </a>
+  - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 44, pushed 139 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/realm/SwiftLint">
+   Swiftlint
+  </a>
+  - A tool to enforce Swift style and conventions. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 3811, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1630,7 +1984,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 5880, pushed 7 days ago
+   &#9733 5880, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1643,7 +1997,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 37, pushed 196 days ago
+   &#9733 37, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -1652,7 +2006,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - extract dominant colors from image like iTunes 11.
   <sup>
-   &#9733 116, pushed 11 days ago
+   &#9733 116, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1665,7 +2019,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 1181, pushed 41 days ago
+   &#9733 1181, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1678,7 +2032,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 342, pushed 30 days ago
+   &#9733 342, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1687,7 +2041,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.
   <sup>
-   &#9733 2581, pushed 70 days ago
+   &#9733 2581, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -1700,7 +2054,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 529, pushed 36 days ago
+   &#9733 529, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1709,7 +2063,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An Xcode plugin to improve dealing with colors in your project
   <sup>
-   &#9733 447, pushed 32 days ago
+   &#9733 447, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1718,7 +2072,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Hue is the all-in-one coloring utility that you'll ever need.
   <sup>
-   &#9733 1354, pushed 36 days ago
+   &#9733 1354, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -1731,7 +2085,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 92, pushed 114 days ago
+   &#9733 92, pushed 239 days ago
   </sup>
  </li>
  <li>
@@ -1744,7 +2098,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 338, pushed 229 days ago
+   &#9733 338, pushed 353 days ago
   </sup>
  </li>
  <li>
@@ -1757,7 +2111,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 6, pushed 238 days ago
+   &#9733 6, pushed 363 days ago
   </sup>
  </li>
  <li>
@@ -1770,7 +2124,44 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 358, pushed 15 days ago
+   &#9733 358, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/XcodeColorSense">
+   XcodeColorSense
+  </a>
+  - :balloon: An Xcode plugin that makes working with color easier :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/Draveness/DKNightVersion">
+   DKNightVersion
+  </a>
+  - Manage Colors, Integrate Night/Multiple Themes
+ </li>
+ <li>
+  <a href="https://github.com/jdhealy/PrettyColors">
+   PrettyColors
+  </a>
+  - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs
+  <a href="https://en.wikipedia.org/wiki/ANSI_escape_code">
+   ANSI escape codes
+  </a>
+  and conforms to
+  <a href="http://www.ecma-international.org/publications/standards/Ecma-048.htm">
+   ECMA Standard 48
+  </a>
+  . :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 119, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -1788,7 +2179,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 743, pushed 22 days ago
+   &#9733 743, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1801,7 +2192,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 586, pushed 2 days ago
+   &#9733 586, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1814,7 +2205,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 61, pushed 71 days ago
+   &#9733 61, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1827,8 +2218,72 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 514, pushed 25 days ago
+   &#9733 514, pushed 150 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mtynior/ColorizeSwift">
+   ColorizeSwift
+  </a>
+  - Terminal string styling for Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h3>
+ Concurrency
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/VeniceX/Venice">
+   Venice
+  </a>
+  - CSP (Coroutines, Channels, Select) for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 961, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tidwall/Safe">
+   Safe
+  </a>
+  - Modern Concurrency and Synchronization for Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 291, pushed 237 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/typelift/Concurrent">
+   Concurrent
+  </a>
+  - Functional Concurrency Primitives :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 100, pushed 193 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JohnSundell/Flow">
+   Flow
+  </a>
+  - Operation Oriented Programming in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -1849,7 +2304,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 8814, pushed 4 days ago
+   &#9733 8814, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1858,7 +2313,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - JTChartView is the new lightweight and fully customizable solution to draw a chart.
   <sup>
-   &#9733 89, pushed 279 days ago
+   &#9733 89, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -1867,7 +2322,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
   <sup>
-   &#9733 6656, pushed 12 days ago
+   &#9733 6656, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1876,7 +2331,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Elegant Line Graphs for iOS (charting library).
   <sup>
-   &#9733 2101, pushed 54 days ago
+   &#9733 2101, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -1885,7 +2340,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS-based charting library for both line and bar graphs.
   <sup>
-   &#9733 3182, pushed 6 days ago
+   &#9733 3182, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1894,7 +2349,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Chart library for iOS.
   <sup>
-   &#9733 1406, pushed 77 days ago
+   &#9733 1406, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1903,7 +2358,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A simple and animated Pie Chart for your iOS app.
   <sup>
-   &#9733 1532, pushed 46 days ago
+   &#9733 1532, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1912,7 +2367,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
   <sup>
-   &#9733 975, pushed 24 days ago
+   &#9733 975, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1921,7 +2376,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
   <sup>
-   &#9733 553, pushed 87 days ago
+   &#9733 553, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -1930,7 +2385,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A line chart library for iOS.
   <sup>
-   &#9733 612, pushed 46 days ago
+   &#9733 612, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -1939,7 +2394,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - a charting library for mobile platforms.
   <sup>
-   &#9733 670, pushed 131 days ago
+   &#9733 670, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -1948,7 +2403,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - ANDLineChartView is easy to use view-based class for displaying animated line chart.
   <sup>
-   &#9733 347, pushed 390 days ago
+   &#9733 347, pushed 515 days ago
   </sup>
  </li>
  <li>
@@ -1957,7 +2412,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
   <sup>
-   &#9733 334, pushed 673 days ago
+   &#9733 334, pushed 797 days ago
   </sup>
  </li>
  <li>
@@ -1970,7 +2425,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 863, pushed 3 days ago
+   &#9733 863, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1983,8 +2438,56 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 3, pushed 12 days ago
+   &#9733 3, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/philackm/Scrollable-GraphView">
+   Scrollable-GraphView
+  </a>
+  - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Zomato/DR-charts">
+   Dr-Charts
+  </a>
+  - Dr-Charts is a highly customisable, easy to use and interactive chart / graph framework in Objective-C.
+ </li>
+ <li>
+  <a href="https://github.com/recruit-mtl/Graphs">
+   Graphs
+  </a>
+  - Light weight charts view generater for iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/ArthurGuibert/FSInteractiveMap">
+   FSInteractiveMap
+  </a>
+  - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!
+ </li>
+ <li>
+  <a href="https://github.com/johnnywjy/JYRadarChart">
+   JYRadarChart
+  </a>
+  - An iOS open source Radar Chart implementation.
+ </li>
+ <li>
+  <a href="https://github.com/TBXark/TKRadarChart">
+   TKRadarChart
+  </a>
+  - A customizable radar chart in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -1997,7 +2500,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Additions and utilities to make it concurrency easier with the Core Data framework.
   <sup>
-   &#9733 70, pushed 295 days ago
+   &#9733 70, pushed 420 days ago
   </sup>
  </li>
  <li>
@@ -2006,7 +2509,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - ActiveRecord for Objective-C.
   <sup>
-   &#9733 1255, pushed 38 days ago
+   &#9733 1255, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -2015,7 +2518,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Eliminate your Core Data boilerplate code.
   <sup>
-   &#9733 462, pushed 5 days ago
+   &#9733 462, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2024,7 +2527,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data.
   <sup>
-   &#9733 240, pushed 245 days ago
+   &#9733 240, pushed 370 days ago
   </sup>
  </li>
  <li>
@@ -2033,7 +2536,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A synchronization framework for Core Data.
   <sup>
-   &#9733 1265, pushed 18 days ago
+   &#9733 1265, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2042,7 +2545,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Objc naming conventions, autogenerated accessors at runtime, URL substitutions and intelligent attribute mapping.
   <sup>
-   &#9733 187, pushed 630 days ago
+   &#9733 187, pushed 755 days ago
   </sup>
  </li>
  <li>
@@ -2051,7 +2554,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Automatic Core Data code generation.
   <sup>
-   &#9733 2751, pushed 26 days ago
+   &#9733 2751, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2060,7 +2563,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - CoreData stack and controller that will never block UI thread.
   <sup>
-   &#9733 191, pushed 321 days ago
+   &#9733 191, pushed 446 days ago
   </sup>
  </li>
  <li>
@@ -2069,7 +2572,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Core Data encrypted SQLite store using SQLCipher.
   <sup>
-   &#9733 540, pushed 32 days ago
+   &#9733 540, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2078,7 +2581,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Super Awesome Easy Fetching for Core Data.
   <sup>
-   &#9733 9253, pushed 2 days ago
+   &#9733 9253, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2091,7 +2594,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1145, pushed 65 days ago
+   &#9733 1145, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -2104,7 +2607,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 787, pushed 2 days ago
+   &#9733 787, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2117,7 +2620,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 15, pushed 2 days ago
+   &#9733 15, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2130,7 +2633,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 511, pushed 2 days ago
+   &#9733 511, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2143,7 +2646,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 4 days ago
+   &#9733 32, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2156,7 +2659,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1484, pushed 1 days ago
+   &#9733 1484, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2169,7 +2672,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 616, pushed 5 days ago
+   &#9733 616, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2182,8 +2685,64 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 223, pushed 46 days ago
+   &#9733 223, pushed 171 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bignerdranch/CoreDataStack">
+   CoreDataStack
+  </a>
+  - The Big Nerd Ranch Core Data Stack :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jessesquires/JSQCoreDataKit">
+   JSQCoreDataKit
+  </a>
+  - A swifter Core Data stack :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 277, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/albertodebortoli/Skopelos">
+   Skopelos
+  </a>
+  - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data. Swift flavour. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jmfieldman/cadmium">
+   Cadmium
+  </a>
+  - A complete swift framework that wraps CoreData and helps facilitate best practices. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 42, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mrdekk/DataKernel">
+   DataKernel
+  </a>
+  - Simple CoreData wrapper to ease operations. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -2196,7 +2755,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - The alternative to CoreData and SQLite: Simple, modern and fast.
   <sup>
-   &#9733 7132, pushed 2 days ago
+   &#9733 7132, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2205,7 +2764,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - YapDatabase is an extensible database for iOS & Mac.
   <sup>
-   &#9733 2523, pushed 5 days ago
+   &#9733 2523, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2220,7 +2779,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A Cocoa / Objective-C wrapper around SQLite.
   <sup>
-   &#9733 9592, pushed 6 days ago
+   &#9733 9592, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2229,7 +2788,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - a Swifty Key-value store for archiving NSObject in only one line of code. Class properties are automatically mapped and archived under the hood.
   <sup>
-   &#9733 4, pushed 11 days ago
+   &#9733 4, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2238,7 +2797,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An alternative to Core Data for people who like having direct SQL access.
   <sup>
-   &#9733 1539, pushed 12 days ago
+   &#9733 1539, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2251,7 +2810,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 295, pushed 22 days ago
+   &#9733 295, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2264,7 +2823,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 343, pushed 35 days ago
+   &#9733 343, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2277,7 +2836,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 34, pushed 79 days ago
+   &#9733 34, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -2290,7 +2849,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1413, pushed 11 days ago
+   &#9733 1413, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2303,11 +2862,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 317, pushed 4 days ago
+   &#9733 317, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/pepibumur/SugarRecord">
+  <a href="https://github.com/carambalabs/SugarRecord">
    SugarRecord
   </a>
   - Data persistence management library written in Swift 2.0 :large
@@ -2315,9 +2874,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 1427, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/stephencelis/SQLite.swift">
@@ -2329,7 +2885,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 2838, pushed 12 days ago
+   &#9733 2838, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2342,7 +2898,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 248, pushed 2 days ago
+   &#9733 248, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2355,11 +2911,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 474, pushed 22 days ago
+   &#9733 474, pushed 147 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/qutheory/fluent">
+  <a href="https://github.com/vapor/fluent">
    Fluent
   </a>
   - Simple ActiveRecord implementation for working with your database in Swift. :large
@@ -2367,9 +2923,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 433, pushed 35 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/eure/RealmIncrementalStore">
@@ -2381,7 +2934,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 198, pushed 65 days ago
+   &#9733 198, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -2394,7 +2947,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 116, pushed 2 days ago
+   &#9733 116, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2403,8 +2956,116 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A collaborative list of Parse alternative backend service providers.
   <sup>
-   &#9733 2053, pushed 7 days ago
+   &#9733 2053, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tasanobu/TypedDefaults">
+   TypedDefaults
+  </a>
+  - TypedDefaults is a utility library to type-safely use NSUserDefaults. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/realm/realm-cocoa-converter">
+   realm-cocoa-converter
+  </a>
+  - A library that provides the ability to import/export Realm files from a variety of data container formats. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/danthorpe/YapDatabaseExtensions">
+   YapDatabaseExtensions
+  </a>
+  - YapDatabase extensions for use with Swift :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/mhergon/RealmGeoQueries">
+   RealmGeoQueries
+  </a>
+  - RealmGeoQueries simplifies spatial queries with Realm Cocoa. In the absence of and official functions, this library provide the possibility to do proximity search.  :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/Danappelxx/SwiftMongoDB">
+   SwiftMongoDB
+  </a>
+  - A MongoDB interface for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 195, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/iabudiab/ObjectiveRocks">
+   ObjectiveRocks
+  </a>
+  - An Objective-C wrapper of Facebook's RocksDB - A Persistent Key-Value Store for Flash and RAM Storage.
+ </li>
+ <li>
+  <a href="https://github.com/oleghnidets/OHMySQL">
+   OHMySQL
+  </a>
+  - An Objective-C wrapper of MySQL C API.
+ </li>
+ <li>
+  <a href="https://github.com/faunadb/faunadb-swift">
+   faunadb-swift
+  </a>
+  - Swift client for FaunaDB :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/hemantasapkota/SwiftStore">
+   SwiftStore
+  </a>
+  - Key-Value store for Swift backed by LevelDB :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 19, pushed 159 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/arvindhsukumar/PredicateEditor">
+   PredicateEditor
+  </a>
+  - A visual editor for dynamically creating NSPredicates to query data in your iOS app. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/muukii/OneStore">
+   OneStore
+  </a>
+  - A single value proxy for NSUserDefaults, with clean API. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -2421,7 +3082,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 3, pushed 13 days ago
+   &#9733 3, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2430,7 +3091,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Minimal edits from one collection to another
   <sup>
-   &#9733 424, pushed 52 days ago
+   &#9733 424, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -2443,7 +3104,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 667, pushed 41 days ago
+   &#9733 667, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -2456,7 +3117,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1322, pushed 5 days ago
+   &#9733 1322, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2469,7 +3130,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 49, pushed 18 days ago
+   &#9733 49, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2482,7 +3143,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 19, pushed 7 days ago
+   &#9733 19, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2495,7 +3156,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 306, pushed 2 days ago
+   &#9733 306, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2508,8 +3169,49 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 35, pushed 59 days ago
+   &#9733 35, pushed 184 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ankurp/Dollar">
+   Dollar
+  </a>
+  - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript http://www.dollarswift.org. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 3092, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/antitypical/Result">
+   Result
+  </a>
+  - Swift type modelling the success/failure of arbitrary operations. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 879, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/EvgenyKarkan/EKAlgorithms">
+   EKAlgorithms
+  </a>
+  - Some well known CS algorithms & data structures in Objective-C.
+  <sup>
+   &#9733 1970, pushed 154 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/naru-jpn/Monaka">
+   Monaka
+  </a>
+  - Convert custom struct and fundamental values to NSData.
  </li>
 </ul>
 <h3>
@@ -2526,7 +3228,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 209, pushed 102 days ago
+   &#9733 209, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -2539,7 +3241,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 1151, pushed 7 days ago
+   &#9733 1151, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2552,7 +3254,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1365, pushed 4 days ago
+   &#9733 1365, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2565,7 +3267,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1210, pushed 25 days ago
+   &#9733 1210, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2574,7 +3276,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Dates and times made easy in Objective-C
   <sup>
-   &#9733 4349, pushed 7 days ago
+   &#9733 4349, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2587,7 +3289,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 278, pushed 147 days ago
+   &#9733 278, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -2600,7 +3302,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 566, pushed 23 days ago
+   &#9733 566, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2613,7 +3315,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 564, pushed 26 days ago
+   &#9733 564, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2626,8 +3328,14 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 144, pushed 342 days ago
+   &#9733 144, pushed 467 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/boredzo/iso-8601-date-formatter">
+   iso-8601-date-formatter
+  </a>
+  - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
  </li>
 </ul>
 <h3>
@@ -2644,7 +3352,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 77, pushed 50 days ago
+   &#9733 77, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -2657,7 +3365,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 330, pushed 300 days ago
+   &#9733 330, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -2666,7 +3374,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Promises for iOS and OS X.
   <sup>
-   &#9733 5026, pushed 7 days ago
+   &#9733 5026, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2675,7 +3383,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
   <sup>
-   &#9733 4563, pushed 19 days ago
+   &#9733 4563, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2688,7 +3396,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1403, pushed 43 days ago
+   &#9733 1403, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -2701,11 +3409,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 33, pushed 5 days ago
+   &#9733 33, pushed 130 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/s4cha/then">
+  <a href="https://github.com/freshOS/then">
    then🎬
   </a>
   - Elegant Async code in Swift. :large
@@ -2713,9 +3421,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 299, pushed 10 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/BoltsFramework/Bolts-Swift">
@@ -2727,7 +3432,46 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 376, pushed 7 days ago
+   &#9733 376, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/deput/RWPromiseKit">
+   RWPromiseKit
+  </a>
+  - A light-weighted Promise library for Objective-C
+ </li>
+ <li>
+  <a href="https://github.com/couchdeveloper/FutureLib">
+   FutureLib
+  </a>
+  - FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/100mango/SwiftNotificationCenter">
+   SwiftNotificationCenter
+  </a>
+  - A Protocol-Oriented NotificationCenter which is type safe, thread safe and with memory safety :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/FutureKit/FutureKit">
+   FutureKit
+  </a>
+  - A Swift based Future/Promises Library for IOS and OS X. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 410, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -2745,7 +3489,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 463, pushed 36 days ago
+   &#9733 463, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -2758,7 +3502,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 575, pushed 4 days ago
+   &#9733 575, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2771,7 +3515,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 689, pushed 40 days ago
+   &#9733 689, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -2784,8 +3528,28 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 92, pushed 91 days ago
+   &#9733 92, pushed 216 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/amosavian/FileProvider">
+   FileProvider
+  </a>
+  - NSFileManager replacement for local and remote (WebDAV/Dropbox/SMB2) files on iOS and macOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/krzysztofzablocki/KZFileWatchers">
+   KZFileWatchers
+  </a>
+  - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -2802,7 +3566,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 33, pushed 7 days ago
+   &#9733 33, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2815,7 +3579,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 9, pushed 108 days ago
+   &#9733 9, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -2828,7 +3592,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 632, pushed 305 days ago
+   &#9733 632, pushed 430 days ago
   </sup>
  </li>
  <li>
@@ -2841,7 +3605,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 3, pushed 240 days ago
+   &#9733 3, pushed 364 days ago
   </sup>
  </li>
  <li>
@@ -2854,7 +3618,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 222, pushed 89 days ago
+   &#9733 222, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -2867,7 +3631,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 136, pushed 39 days ago
+   &#9733 136, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -2880,20 +3644,20 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 2575, pushed 10 days ago
+   &#9733 2575, pushed 135 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/RuiAAPeres/OptionalExtensions">
    OptionalExtensions
   </a>
-  - Swift µframework with extensions for the Optional Type. :large
+  - Swift µframework with extensions for the  Optional Type. :large
   <em>
    orange
   </em>
   diamond:[e]
   <sup>
-   &#9733 146, pushed 22 days ago
+   &#9733 146, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2906,7 +3670,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 47, pushed 22 days ago
+   &#9733 47, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2919,8 +3683,33 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 2288, pushed 11 days ago
+   &#9733 2288, pushed 136 days ago
   </sup>
+ </li>
+</ul>
+<h3>
+ Games
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/nvzqz/Sage">
+   Sage
+  </a>
+  - A cross-platform chess library for Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/codelynx/ShogibanKit">
+   ShogibanKit
+  </a>
+  - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -2937,7 +3726,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 512, pushed 5 days ago
+   &#9733 512, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2950,7 +3739,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:[e]
   <sup>
-   &#9733 96, pushed 62 days ago
+   &#9733 96, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -2963,7 +3752,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 932, pushed 31 days ago
+   &#9733 932, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -2976,7 +3765,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 328, pushed 30 days ago
+   &#9733 328, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -2994,7 +3783,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 17, pushed 151 days ago
+   &#9733 17, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -3003,7 +3792,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.
   <sup>
-   &#9733 130, pushed 243 days ago
+   &#9733 130, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -3012,7 +3801,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - An Objective-C wrapper for CoreGraphics CGContext
   <sup>
-   &#9733 90, pushed 319 days ago
+   &#9733 90, pushed 444 days ago
   </sup>
  </li>
  <li>
@@ -3025,7 +3814,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 13, pushed 132 days ago
+   &#9733 13, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -3038,7 +3827,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 535, pushed 9 days ago
+   &#9733 535, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3051,35 +3840,30 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 210, pushed 21 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- Encryption
-</h3>
-<ul>
- <li>
-  <a href="https://github.com/Gurpartap/AESCrypt-ObjC">
-   AESCrypt-ObjC
-  </a>
-  - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
-  <sup>
-   &#9733 489, pushed 218 days ago
+   &#9733 210, pushed 146 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/iosdevzone/IDZSwiftCommonCrypto">
-   IDZSwiftCommonCrypto
+  <a href="https://github.com/ibireme/YYAsyncLayer">
+   YYAsyncLayer
   </a>
-  - A wrapper for Apple's Common Crypto library written in Swift. :large
+  - iOS utility classes for asynchronous rendering and display.
+ </li>
+ <li>
+  <a href="https://github.com/Nicejinux/NXDrawKit">
+   NXDrawKit
+  </a>
+  - NXDrawKit is a simple and easy but useful drawing kit for iPhone :large
   <em>
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 200, pushed 27 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/IFTTT/jot">
+   jot
+  </a>
+  - An iOS framework for easily adding drawings and text to images.
  </li>
 </ul>
 <h3>
@@ -3095,17 +3879,14 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
   <sup>
-   &#9733 306, pushed 77 days ago
+   &#9733 306, pushed 201 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/l0gg3r/LGBluetooth">
+  <a href="https://github.com/LGBluetooth/LGBluetooth">
    LGBluetooth
   </a>
   - Simple, block-based, lightweight library over CoreBluetooth. Will clean up your Core Bluetooth related code.
-  <sup>
-   &#9733 82, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jpsim/PeerKit">
@@ -3117,7 +3898,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 548, pushed 126 days ago
+   &#9733 548, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -3126,11 +3907,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Easy Proximity-based Bluetooth LE Sharing for iOS.
   <sup>
-   &#9733 109, pushed 805 days ago
+   &#9733 109, pushed 929 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/rasmusth/BluetoothKit">
+  <a href="https://github.com/rhummelmose/BluetoothKit">
    BluetoothKit
   </a>
   - Easily communicate between iOS/OSX devices using BLE. :large
@@ -3138,9 +3919,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 1008, pushed 82 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/manavgabhawala/CocoaMultipeer">
@@ -3152,7 +3930,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 69, pushed 194 days ago
+   &#9733 69, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -3165,7 +3943,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 71, pushed 78 days ago
+   &#9733 71, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -3178,7 +3956,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 230, pushed 2 days ago
+   &#9733 230, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -3192,7 +3970,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
   <sup>
-   &#9733 1120, pushed 81 days ago
+   &#9733 1120, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -3201,7 +3979,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - iOS camera engine, features touch-to-record video, slow motion video, and photo capture.
   <sup>
-   &#9733 1406, pushed 14 days ago
+   &#9733 1406, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3210,7 +3988,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - A fully customisable and modern camera implementation for iOS made with AVFoundation.
   <sup>
-   &#9733 963, pushed 157 days ago
+   &#9733 963, pushed 281 days ago
   </sup>
  </li>
  <li>
@@ -3219,7 +3997,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - Camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing.
   <sup>
-   &#9733 1818, pushed 10 days ago
+   &#9733 1818, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -3232,7 +4010,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 918, pushed 13 days ago
+   &#9733 918, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3245,7 +4023,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 1350, pushed 4 days ago
+   &#9733 1350, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3258,7 +4036,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </em>
   diamond:
   <sup>
-   &#9733 345, pushed 14 days ago
+   &#9733 345, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3270,7 +4048,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
   </a>
   - 1D and 2D barcodes reader and generators for iOS 8 with delightful controls. Now Swift. :large
   <sup>
-   &#9733 389, pushed 36 days ago
+   &#9733 389, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -3281,9 +4059,65 @@ orange_diamond:
  </a>
  - A simple, customizable camera control - video recorder for iOS.
  <sup>
-  &#9733 807, pushed 11 days ago
+  &#9733 807, pushed 136 days ago
  </sup>
 </li>
+<li>
+ <a href="https://github.com/ytakzk/Fusuma">
+  Fusuma
+ </a>
+ - Instagram-like photo browser and a camera feature with a few line of code in Swift. :large
+ <em>
+  orange
+ </em>
+ diamond:
+ <sup>
+  &#9733 694, pushed 142 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/hyperoslo/BarcodeScanner">
+  BarcodeScanner
+ </a>
+ - 🔎 Simple and beautiful barcode scanner. :large
+ <em>
+  orange
+ </em>
+ diamond:
+</li>
+<li>
+ <a href="https://github.com/mcmatan/JVTImageFilePicker">
+  JVTImageFilePicker
+ </a>
+ - Easy and beautiful way for a user to pick content, files or images. Written in Objective C.
+</li>
+<li>
+ <a href="https://github.com/HorizonCamera/HorizonSDK-iOS">
+  HorizonSDK-iOS
+ </a>
+ - State of the art real-time video recording / photo shooting iOS library.
+</li>
+<li>
+ <a href="https://github.com/IFTTT/FastttCamera">
+  FastttCamera
+ </a>
+ - Fasttt and easy camera framework for iOS with customizable filters
+</li>
+<h5>
+ Force Touch
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/ricardopereira/QuickActions">
+   QuickActions
+  </a>
+  - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
 <h5>
  iBeacon
 </h5>
@@ -3294,7 +4128,7 @@ orange_diamond:
   </a>
   - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
   <sup>
-   &#9733 8, pushed 340 days ago
+   &#9733 8, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -3303,7 +4137,7 @@ orange_diamond:
   </a>
   - iBeacons + CoreBluetooth.
   <sup>
-   &#9733 342, pushed 891 days ago
+   &#9733 342, pushed 1016 days ago
   </sup>
  </li>
  <li>
@@ -3312,7 +4146,7 @@ orange_diamond:
   </a>
   - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy bluetooth devices in the background.
   <sup>
-   &#9733 330, pushed 143 days ago
+   &#9733 330, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -3321,7 +4155,7 @@ orange_diamond:
   </a>
   - Turn your Mac as an iBeacon.
   <sup>
-   &#9733 762, pushed 657 days ago
+   &#9733 762, pushed 782 days ago
   </sup>
  </li>
  <li>
@@ -3329,6 +4163,12 @@ orange_diamond:
    MOCA Proximity
   </a>
   - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
+ </li>
+ <li>
+  <a href="https://github.com/izotx/JMCBeaconManager">
+   JMCBeaconManager
+  </a>
+  - An iBeacon Manager class that is responsible for detecting beacons nearby. 🔶
  </li>
 </ul>
 <h5>
@@ -3341,7 +4181,7 @@ orange_diamond:
   </a>
   - Always-On Location monitoring framework for iOS.
   <sup>
-   &#9733 51, pushed 5 days ago
+   &#9733 51, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3350,7 +4190,7 @@ orange_diamond:
   </a>
   - Provides a block-based asynchronous API to request the current location, either once or continuously.
   <sup>
-   &#9733 1605, pushed 49 days ago
+   &#9733 1605, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -3369,7 +4209,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 406, pushed 2 days ago
+   &#9733 406, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3378,7 +4218,7 @@ orange_diamond:
   </a>
   - Simple library to detect motion. Based on location updates and acceleration.
   <sup>
-   &#9733 856, pushed 17 days ago
+   &#9733 856, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -3391,7 +4231,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 141, pushed 8 days ago
+   &#9733 141, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -3405,7 +4245,7 @@ orange_diamond:
   </a>
   - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
   <sup>
-   &#9733 714, pushed 11 days ago
+   &#9733 714, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3414,7 +4254,7 @@ orange_diamond:
   </a>
   -Simply the fastest way to transmit data between iOS and OSX
   <sup>
-   &#9733 77, pushed 36 days ago
+   &#9733 77, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -3423,366 +4263,7 @@ orange_diamond:
   </a>
   - Simply library to detect the device on which the app is running (and some properties) 🔶
   <sup>
-   &#9733 3, pushed 26 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- JSON
-</h3>
-<ul>
- <li>
-  <a href="https://github.com/johnezang/JSONKit">
-   JSONKit
-  </a>
-  - Objective-C JSON.
-  <sup>
-   &#9733 5733, pushed 20 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TouchCode/TouchJSON">
-   TouchJSON
-  </a>
-  - A humane JSON Objective-C un-framework.
-  <sup>
-   &#9733 816, pushed 227 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/stig/json-framework">
-   JSON-Framework
-  </a>
-  -  This framework implements a strict JSON parser and generator in Objective-C.
-  <sup>
-   &#9733 3712, pushed 214 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Mantle/Mantle">
-   Mantle
-  </a>
-  - Model framework for Cocoa and Cocoa Touch.
-  <sup>
-   &#9733 9301, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gonzalezreal/Groot">
-   Groot
-  </a>
-  - Convert JSON dictionaries and arrays to and from Core Data managed objects.
-  <sup>
-   &#9733 390, pushed 189 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/krzysztofzablocki/KZPropertyMapper">
-   KZPropertyMapper
-  </a>
-  - Data mapping and validation with minimal amount of code.
-  <sup>
-   &#9733 1052, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/icanzilb/JSONModel">
-   JSONModel
-  </a>
-  - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
-  <sup>
-   &#9733 5127, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/SwiftyJSON/SwiftyJSON">
-   SwiftyJSON
-  </a>
-  - The better way to deal with JSON data in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 9902, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Yalantis/FastEasyMapping">
-   FastEasyMapping
-  </a>
-  - Serialize & deserialize JSON fast.
-  <sup>
-   &#9733 394, pushed 40 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aryaxt/OCMapper">
-   OCMapper
-  </a>
-  - Objective-C & Swift library to easily map NSDictionary to model objects. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 310, pushed 104 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Hearst-DD/ObjectMapper">
-   ObjectMapper
-  </a>
-  - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 3056, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/delba/JASON">
-   JASON
-  </a>
-  - JSON parsing with outstanding performances and convenient operators. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 679, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hkellaway/Gloss">
-   Gloss
-  </a>
-  - A shiny JSON parsing library in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 782, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Weebly/Cereal">
-   Cereal
-  </a>
-  - Swift object serialization :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 307, pushed 22 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/insanoid/SwiftyJSONAccelerator">
-   SwiftyJSONAccelerator
-  </a>
-  - Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 189, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/matthewcheok/JSONCodable">
-   JSONCodable
-  </a>
-  - Hassle-free JSON encoding and decoding in Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 483, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nixzhu/Coolie">
-   Coolie
-  </a>
-  - Coolie helps you to create models (& their constructors) from JSON file. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 369, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zenangst/Tailor">
-   Tailor
-  </a>
-  - A super fast & convenient object mapper tailored for your needs. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 104, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hodinkee/alexander">
-   alexander
-  </a>
-  - An extremely simple JSON helper written in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 35, pushed 35 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bignerdranch/Freddy">
-   Freddy
-  </a>
-  - A reusable framework for parsing JSON in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 846, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/evermeer/EVReflection">
-   EVReflection
-  </a>
-  - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 314, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lyft/mapper">
-   mapper
-  </a>
-  - Another JSON deserialization library for Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 592, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/evermeer/AlamofireJsonToObjects">
-   AlamofireJsonToObjects
-  </a>
-  - An Alamofire extension which converts JSON response data into swift objects using EVReflection :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 86, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/czechboy0/Jay">
-   Jay
-  </a>
-  - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 59, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ibireme/YYModel">
-   YYModel
-  </a>
-  - High performance model framework for iOS/OSX.
-  <sup>
-   &#9733 1539, pushed 19 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ra1028/Alembic">
-   Alembic
-  </a>
-  - Functional JSON parsing, mapping to objects, and serialize to JSON :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 9, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/JohnSundell/Wrap">
-   Wrap
-  </a>
-  - The easy to use Swift JSON encoder :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 132, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/s4cha/Arrow">
-   Arrow 🏹
-  </a>
-  - Elegant JSON Parsing in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 125, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Anviking/Decodable">
-   Decodable
-  </a>
-  - Swift 2 JSON parsing done (more) right :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 788, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/LoganWright/Genome">
-   Genome
-  </a>
-  - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 657, pushed 6 days ago
+   &#9733 3, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -3800,7 +4281,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 63, pushed 22 days ago
+   &#9733 63, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3809,7 +4290,7 @@ orange_diamond:
   </a>
   - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.
   <sup>
-   &#9733 11462, pushed 18 days ago
+   &#9733 11462, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -3818,7 +4299,7 @@ orange_diamond:
   </a>
   - UIView category which makes it easy to create layout constraints in code.
   <sup>
-   &#9733 1415, pushed 16 days ago
+   &#9733 1415, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3827,7 +4308,7 @@ orange_diamond:
   </a>
   - Programmatic view layout for the rest of us - an autolayout alternative.
   <sup>
-   &#9733 679, pushed 35 days ago
+   &#9733 679, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -3836,7 +4317,7 @@ orange_diamond:
   </a>
   - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
   <sup>
-   &#9733 5288, pushed 73 days ago
+   &#9733 5288, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -3849,7 +4330,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 5754, pushed 3 days ago
+   &#9733 5754, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3862,7 +4343,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4206, pushed 22 days ago
+   &#9733 4206, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3875,7 +4356,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 15, pushed 81 days ago
+   &#9733 15, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -3888,11 +4369,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3019, pushed 24 days ago
+   &#9733 3019, pushed 148 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/szk-atmosphere/MisterFusion">
+  <a href="https://github.com/marty-suzuki/MisterFusion">
    MisterFusion
   </a>
   - A Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C. :large
@@ -3900,9 +4381,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 185, pushed 22 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/joshaber/SwiftBox">
@@ -3914,7 +4392,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 651, pushed 105 days ago
+   &#9733 651, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -3927,7 +4405,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 223, pushed 81 days ago
+   &#9733 223, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -3940,7 +4418,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1733, pushed 11 days ago
+   &#9733 1733, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3953,7 +4431,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 69, pushed 79 days ago
+   &#9733 69, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -3962,7 +4440,7 @@ orange_diamond:
   </a>
   - Template auto layout cell for automatically UITableViewCell height calculating
   <sup>
-   &#9733 5209, pushed 18 days ago
+   &#9733 5209, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -3975,7 +4453,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 596, pushed 76 days ago
+   &#9733 596, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -3988,7 +4466,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 42, pushed 81 days ago
+   &#9733 42, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -4001,7 +4479,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 10, pushed 43 days ago
+   &#9733 10, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -4014,7 +4492,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 59, pushed 4 days ago
+   &#9733 59, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4027,7 +4505,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2407, pushed 13 days ago
+   &#9733 2407, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -4040,7 +4518,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 65, pushed 229 days ago
+   &#9733 65, pushed 353 days ago
   </sup>
  </li>
  <li>
@@ -4053,8 +4531,54 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1032, pushed 9 days ago
+   &#9733 1032, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://akordadev.github.io/AutoLayoutMagic/">
+   Auto Layout Magic
+  </a>
+  - Build 1 scene, let Auto Layout Magic generate the  constraints for you!  Scenes look great across all devices! :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/mergesort/Anchorman">
+   Anchorman
+  </a>
+  - An autolayout library for the damn fine citizens of San Diego. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/linkedin/LayoutKit">
+   LayoutKit
+  </a>
+  - LayoutKit is a fast view layout library for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/gk-brown/MarkupKit">
+   MarkupKit
+  </a>
+  - Declarative UI for iOS applications
+ </li>
+ <li>
+  <a href="https://github.com/stevestreza/Relayout">
+   Relayout
+  </a>
+  - Swift microframework for declaring Auto Layout constraints functionally :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -4067,7 +4591,7 @@ orange_diamond:
   </a>
   - Simple solution to localize your iOS App.
   <sup>
-   &#9733 360, pushed 105 days ago
+   &#9733 360, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -4080,7 +4604,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 342, pushed 34 days ago
+   &#9733 342, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -4089,20 +4613,20 @@ orange_diamond:
   </a>
   - Check the format and consistency of Localizable.strings files
   <sup>
-   &#9733 23, pushed 414 days ago
+   &#9733 23, pushed 538 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Flinesoft/BartyCrouch">
    BartyCrouch
   </a>
-  - Incrementally update your Storyboard localizations with ease. :large
+  - Incrementally update/translate your Strings files from Code and Storyboards/XIBs. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 21, pushed 2 days ago
+   &#9733 21, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4111,7 +4635,7 @@ orange_diamond:
   </a>
   - Xcode plugin that provides auto-completion for NSLocalizedString.
   <sup>
-   &#9733 1083, pushed 34 days ago
+   &#9733 1083, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -4124,7 +4648,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 726, pushed 4 days ago
+   &#9733 726, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4133,7 +4657,7 @@ orange_diamond:
   </a>
   - Setting up application specific localized string within Xib file.
   <sup>
-   &#9733 4, pushed 13 days ago
+   &#9733 4, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -4142,8 +4666,39 @@ orange_diamond:
   </a>
   - command line tool help you manage localization string files.
   <sup>
-   &#9733 22, pushed 13 days ago
+   &#9733 22, pushed 138 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://lokalise.co/en ">
+   lokalise
+  </a>
+  - Translation platform for software developers. Free for open source projects
+ </li>
+ <li>
+  <a href="https://github.com/metasmile/strsync">
+   Strsync
+  </a>
+  - Automatically translate and synchronize .strings files from base language.
+  <sup>
+   &#9733 75, pushed 185 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/PiXeL16/IBLocalizable">
+   IBLocalizable
+  </a>
+  - Localize your views directly in Interface Builder with IBLocalizable :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/viniciusmo/extract-localizable-string-plugin-xcode">
+   extract-localizable-string-plugin-xcode
+  </a>
+  - Xcode plugin for quickly creating localized strings
  </li>
 </ul>
 <h3>
@@ -4160,7 +4715,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 714, pushed 42 days ago
+   &#9733 714, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -4169,7 +4724,7 @@ orange_diamond:
   </a>
   - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
   <sup>
-   &#9733 7131, pushed 3 days ago
+   &#9733 7131, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4178,14 +4733,8 @@ orange_diamond:
   </a>
   - a high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
   <sup>
-   &#9733 3428, pushed 8 days ago
+   &#9733 3428, pushed 133 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/square/Aardvark/">
-   Aardvark
-  </a>
-  - A performant logging framework that makes it dead simple to create actionable bug reports on iOS.
  </li>
  <li>
   <a href="https://github.com/conradev/BlockTypeDescription">
@@ -4193,7 +4742,7 @@ orange_diamond:
   </a>
   - Show type signatures when logging blocks.
   <sup>
-   &#9733 266, pushed 1142 days ago
+   &#9733 266, pushed 1267 days ago
   </sup>
  </li>
  <li>
@@ -4206,7 +4755,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 482, pushed 6 days ago
+   &#9733 482, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4219,7 +4768,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 426, pushed 4 days ago
+   &#9733 426, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4232,7 +4781,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 531, pushed 41 days ago
+   &#9733 531, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -4245,20 +4794,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 733, pushed 32 days ago
+   &#9733 733, pushed 157 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/SwiftyBeaver/SwiftyBeaver">
    SwiftyBeaver
   </a>
-  - Colorful, lightweight & fast logging in Swift 2 :large
+  - Convenient logging during development & release in Swift 2 & 3 :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 1053, pushed 2 days ago
+   &#9733 1053, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4271,7 +4820,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 38, pushed 39 days ago
+   &#9733 38, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -4284,7 +4833,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1103, pushed 10 days ago
+   &#9733 1103, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -4297,7 +4846,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1584, pushed 8 days ago
+   &#9733 1584, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4310,7 +4859,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 105, pushed 19 days ago
+   &#9733 105, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -4319,7 +4868,7 @@ orange_diamond:
   </a>
   - AFNetworking 2.0 Extension for Network Request Logging
   <sup>
-   &#9733 411, pushed 22 days ago
+   &#9733 411, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -4332,7 +4881,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 16, pushed 303 days ago
+   &#9733 16, pushed 428 days ago
   </sup>
  </li>
  <li>
@@ -4353,7 +4902,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 245, pushed 4 days ago
+   &#9733 245, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4366,7 +4915,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 48, pushed 42 days ago
+   &#9733 48, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -4379,7 +4928,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3, pushed 17 days ago
+   &#9733 3, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -4392,7 +4941,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 17 days ago
+   &#9733 32, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -4405,8 +4954,72 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 23, pushed 7 days ago
+   &#9733 23, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/viWiD/Evergreen">
+   Evergreen
+  </a>
+  - Most natural Swift logging :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/logkit/logkit">
+   Logkit
+  </a>
+  - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/johnno1962/SwiftTrace">
+   SwiftTrace
+  </a>
+  - Trace Swift and Objective-C method invocations :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Nike-Inc/Willow">
+   Willow
+  </a>
+  - Willow is a powerful, yet lightweight logging library written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/bugfender/BugfenderSDK-iOS">
+   Bugfender
+  </a>
+  - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
+ </li>
+ <li>
+  <a href="https://github.com/DeveloperLx/LxDBAnything">
+   LxDBAnything
+  </a>
+  - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
+ </li>
+ <li>
+  <a href="https://github.com/xareelee/XLTestLog">
+   XLTestLog
+  </a>
+  - Styling and coloring your XCTest logs on Xcode Console
+ </li>
+ <li>
+  <a href="https://github.com/swisspol/XLFacility">
+   XLFacility
+  </a>
+  - Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)
  </li>
 </ul>
 <h3>
@@ -4419,7 +5032,7 @@ orange_diamond:
   </a>
   - Open source map library for iOS.
   <sup>
-   &#9733 1245, pushed 1297 days ago
+   &#9733 1245, pushed 1421 days ago
   </sup>
  </li>
  <li>
@@ -4428,7 +5041,7 @@ orange_diamond:
   </a>
   - Allows you to use custom maps in iphone applications and attempts to mimics some of the behaviour of the MapKit framework.
   <sup>
-   &#9733 240, pushed 3 days ago
+   &#9733 240, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4437,7 +5050,7 @@ orange_diamond:
   </a>
   - An OpenGL renderer for Mapbox Vector Tiles with SDK bindings for iOS.
   <sup>
-   &#9733 1232, pushed 4 days ago
+   &#9733 1232, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4446,7 +5059,7 @@ orange_diamond:
   </a>
   - iOS library that makes it quick and easy to show directions in various mapping applications.
   <sup>
-   &#9733 160, pushed 55 days ago
+   &#9733 160, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -4459,7 +5072,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 655, pushed 22 days ago
+   &#9733 655, pushed 147 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/poulpix/PXGoogleDirections">
+   PXGoogleDirections
+  </a>
+  - Google Directions API helper for iOS, written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 103, pushed 183 days ago
   </sup>
  </li>
 </ul>
@@ -4477,7 +5103,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 717, pushed 193 days ago
+   &#9733 717, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -4490,7 +5116,7 @@ orange_diamond:
   </em>
   orange_diamond:
   <sup>
-   &#9733 102, pushed 159 days ago
+   &#9733 102, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -4503,7 +5129,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 148 days ago
+   &#9733 32, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -4516,7 +5142,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2922, pushed 27 days ago
+   &#9733 2922, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -4529,7 +5155,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 49, pushed 1 days ago
+   &#9733 49, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4542,8 +5168,57 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 12, pushed 9 days ago
+   &#9733 12, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kostub/iosMath">
+   iosMath
+  </a>
+  - A library for displaying beautifully rendered math equations. Enables typesetting LaTeX math formulae in iOS.
+ </li>
+ <li>
+  <a href="https://github.com/dankogai/swift-pons">
+   swift-pons
+  </a>
+  - Protocol-Oriented Number System in Pure Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/lorentey/BigInt">
+   BigInt
+  </a>
+  - Arbitrary-precision arithmetic in pure Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/evgenyneu/SigmaSwiftStatistics">
+   SigmaSwiftStatistics
+  </a>
+  - A collection of functions for statistical calculation. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 319, pushed 144 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nicklockwood/VectorMath">
+   VectorMath
+  </a>
+  - A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -4565,7 +5240,7 @@ orange_diamond:
   </a>
   - A powerful toolkit for synthesizing, processing, and analyzing sounds.
   <sup>
-   &#9733 1890, pushed 2 days ago
+   &#9733 1890, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4574,7 +5249,7 @@ orange_diamond:
   </a>
   - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
   <sup>
-   &#9733 3289, pushed 21 days ago
+   &#9733 3289, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -4583,7 +5258,7 @@ orange_diamond:
   </a>
   - Painless high-performance audio on iOS and Mac OS X.
   <sup>
-   &#9733 1835, pushed 413 days ago
+   &#9733 1835, pushed 537 days ago
   </sup>
  </li>
  <li>
@@ -4592,16 +5267,7 @@ orange_diamond:
   </a>
   - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
   <sup>
-   &#9733 5, pushed 61 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tumtumtum/StreamingKit">
-   StreamingKit
-  </a>
-  - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
-  <sup>
-   &#9733 1110, pushed 8 days ago
+   &#9733 5, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -4614,7 +5280,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 41, pushed 41 days ago
+   &#9733 41, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -4627,7 +5293,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 281, pushed 4 days ago
+   &#9733 281, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4640,20 +5306,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 48, pushed 112 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/teodorpatras/Jukebox">
-   Jukebox
-  </a>
-  - Player for streaming local and remote audio files. Written in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 107, pushed 80 days ago
+   &#9733 48, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -4666,7 +5319,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 25, pushed 9 days ago
+   &#9733 25, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -4679,11 +5332,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 109, pushed 2 days ago
+   &#9733 109, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/comyarzaheri/TuningFork">
+  <a href="https://github.com/comyar/TuningFork">
    TuningFork
   </a>
   - A Simple Tuner for iOS :large
@@ -4691,9 +5344,6 @@ orange_diamond:
    orange
   </em>
   diamond::black_circle:
-  <sup>
-   &#9733 298, pushed 59 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/benzguo/MusicKit">
@@ -4705,7 +5355,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 341, pushed 205 days ago
+   &#9733 341, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -4718,7 +5368,182 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 433, pushed 27 days ago
+   &#9733 433, pushed 152 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bartolsthoorn/NVDSP">
+   NVDSP
+  </a>
+  - iOS/OSX DSP for audio (with Novocaine)
+ </li>
+ <li>
+  <a href="https://github.com/SRGSSR/SRGMediaPlayer-iOS">
+   SRGMediaPlayer-iOS
+  </a>
+  - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
+ </li>
+ <li>
+  <a href="https://github.com/hackiftekhar/IQAudioRecorderController">
+   IQAudioRecorderController
+  </a>
+  - A drop-in universal library allows to record audio within the app with a nice User Interface.
+ </li>
+ <li>
+  <a href="https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2">
+   TheAmazingAudioEngine2
+  </a>
+  - The Amazing Audio Engine is a sophisticated framework for iOS audio applications, built so you don't have to.
+ </li>
+ <li>
+  <a href="https://github.com/AhmettKeskin/InteractivePlayerView">
+   InteractivePlayerView
+  </a>
+  - Custom iOS music player view :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 141, pushed 148 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Aufree/ESTMusicIndicator">
+   ESTMusicIndicator
+  </a>
+  - Cool Animated music indicator view written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 258, pushed 238 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ GIF
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/liyong03/YLGIFImage">
+   YLGIFImage
+  </a>
+  - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
+  <sup>
+   &#9733 1366, pushed 262 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Flipboard/FLAnimatedImage">
+   FLAnimatedImage
+  </a>
+  - Performant animated GIF engine for iOS
+  <sup>
+   &#9733 4102, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kaishin/gifu">
+   gifu
+  </a>
+  - Highly performant animated GIF support for iOS in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1251, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mattt/AnimatedGIFImageSerialization">
+   AnimatedGIFImageSerialization
+  </a>
+  - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling
+  <sup>
+   &#9733 919, pushed 152 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/khaledmtaha/XAnimatedImage">
+   XAnimatedImage
+  </a>
+  - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 536, pushed 144 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bahlo/SwiftGif">
+   SwiftGif
+  </a>
+  - :sparkles: A small UIImage extension with gif support :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 331, pushed 144 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/onevcat/APNGKit">
+   APNGKit
+  </a>
+  - High performance and delightful way to play with APNG format in iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 854, pushed 195 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ibireme/YYImage">
+   YYImage
+  </a>
+  - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
+  <sup>
+   &#9733 511, pushed 137 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/wangjwchn/AImage">
+   AImage
+  </a>
+  - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.:large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/metasmile/NSGIF2">
+   NSGIF2
+  </a>
+  - Simplify creation of a GIF from the provided video file url.
+  <sup>
+   &#9733 2, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kirualex/SwiftyGif">
+   SwiftyGif
+  </a>
+  - High performance GIF engine :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 345, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -4732,7 +5557,7 @@ orange_diamond:
   </a>
   - An open source iOS framework for GPU-based image and video processing.
   <sup>
-   &#9733 12319, pushed 5 days ago
+   &#9733 12319, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -4741,14 +5566,8 @@ orange_diamond:
   </a>
   - IOS UIImage processing functions using the vDSP/Accelerate framework for speed.
   <sup>
-   &#9733 361, pushed 1190 days ago
+   &#9733 361, pushed 1314 days ago
   </sup>
- </li>
- <li>
-  <a href="http://www.appcoda.com/qr-code-ios-programming-tutorial/">
-   QR Code Scanner
-  </a>
-  - QR Code implementation.
  </li>
  <li>
   <a href="https://github.com/nicklockwood/AsyncImageView">
@@ -4756,7 +5575,7 @@ orange_diamond:
   </a>
   - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
   <sup>
-   &#9733 858, pushed 359 days ago
+   &#9733 858, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -4765,7 +5584,7 @@ orange_diamond:
   </a>
   - Asynchronous image downloader with cache support with an UIImageView category.
   <sup>
-   &#9733 14106, pushed 8 days ago
+   &#9733 14106, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4774,7 +5593,7 @@ orange_diamond:
   </a>
   - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
   <sup>
-   &#9733 1158, pushed 33 days ago
+   &#9733 1158, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -4787,7 +5606,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 126, pushed 18 days ago
+   &#9733 126, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -4796,7 +5615,7 @@ orange_diamond:
   </a>
   - Slideshow and image viewer.
   <sup>
-   &#9733 1476, pushed 2 days ago
+   &#9733 1476, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4805,7 +5624,7 @@ orange_diamond:
   </a>
   - Photo Browser / Viewer.
   <sup>
-   &#9733 1804, pushed 8 days ago
+   &#9733 1804, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4814,7 +5633,7 @@ orange_diamond:
   </a>
   - Interactive iOS image viewer.
   <sup>
-   &#9733 1893, pushed 13 days ago
+   &#9733 1893, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -4829,7 +5648,7 @@ orange_diamond:
   </a>
   - A view controller that allows users to crop UIImage objects.
   <sup>
-   &#9733 821, pushed 11 days ago
+   &#9733 821, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4838,7 +5657,7 @@ orange_diamond:
   </a>
   - A custom image view that implements device motion scrolling.
   <sup>
-   &#9733 57, pushed 292 days ago
+   &#9733 57, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -4847,11 +5666,11 @@ orange_diamond:
   </a>
   - A thread safe, performant, feature rich image fetcher.
   <sup>
-   &#9733 2200, pushed 8 days ago
+   &#9733 2200, pushed 132 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/szk-atmosphere/SABlurImageView">
+  <a href="https://github.com/marty-suzuki/SABlurImageView">
    SABlurImageView
   </a>
   - Easily Adding Animated Blur/Unblur Effects To An Image. :large
@@ -4859,9 +5678,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 328, pushed 85 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/path/FastImageCache">
@@ -4869,7 +5685,7 @@ orange_diamond:
   </a>
   - iOS library for quickly displaying images while scrolling.
   <sup>
-   &#9733 6652, pushed 18 days ago
+   &#9733 6652, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -4878,7 +5694,7 @@ orange_diamond:
   </a>
   - A library to render UIImage as ASCII art
   <sup>
-   &#9733 371, pushed 375 days ago
+   &#9733 371, pushed 499 days ago
   </sup>
  </li>
  <li>
@@ -4891,7 +5707,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1443, pushed 15 days ago
+   &#9733 1443, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4904,7 +5720,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1494, pushed 18 days ago
+   &#9733 1494, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -4917,7 +5733,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1130, pushed 11 days ago
+   &#9733 1130, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4926,7 +5742,7 @@ orange_diamond:
   </a>
   - Asynchronous image loading framework (supports WebP, APNG, GIF).
   <sup>
-   &#9733 2046, pushed 13 days ago
+   &#9733 2046, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -4935,7 +5751,7 @@ orange_diamond:
   </a>
   - An image cropper for iOS like in the Contacts app with support for landscape orientation.
   <sup>
-   &#9733 1103, pushed 79 days ago
+   &#9733 1103, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -4948,7 +5764,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 6, pushed 119 days ago
+   &#9733 6, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -4961,7 +5777,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 25, pushed 119 days ago
+   &#9733 25, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -4974,7 +5790,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 13, pushed 133 days ago
+   &#9733 13, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -4987,7 +5803,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 54, pushed 196 days ago
+   &#9733 54, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -5000,7 +5816,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4432, pushed 2 days ago
+   &#9733 4432, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5009,7 +5825,7 @@ orange_diamond:
   </a>
   - A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.
   <sup>
-   &#9733 1422, pushed 22 days ago
+   &#9733 1422, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -5022,7 +5838,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 283, pushed 186 days ago
+   &#9733 283, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -5035,7 +5851,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 284, pushed 201 days ago
+   &#9733 284, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -5048,7 +5864,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1533, pushed 81 days ago
+   &#9733 1533, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -5061,7 +5877,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 207, pushed 2 days ago
+   &#9733 207, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5074,7 +5890,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 754, pushed 93 days ago
+   &#9733 754, pushed 218 days ago
   </sup>
  </li>
  <li>
@@ -5087,20 +5903,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 74, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ytakzk/Fusuma">
-   Fusuma
-  </a>
-  - Instagram-like photo browser and a camera feature with a few line of code in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 694, pushed 17 days ago
+   &#9733 74, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5113,7 +5916,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 72, pushed 16 days ago
+   &#9733 72, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -5126,7 +5929,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 143, pushed 114 days ago
+   &#9733 143, pushed 239 days ago
   </sup>
  </li>
  <li>
@@ -5139,7 +5942,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 87, pushed 36 days ago
+   &#9733 87, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -5152,7 +5955,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 8, pushed 4 days ago
+   &#9733 8, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -5165,7 +5968,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 125, pushed 14 days ago
+   &#9733 125, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -5174,7 +5977,7 @@ orange_diamond:
   </a>
   - A simple iOS photo and video browser with grid view, captions and selections
   <sup>
-   &#9733 5664, pushed 7 days ago
+   &#9733 5664, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -5187,7 +5990,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 1163, pushed 17 days ago
+   &#9733 1163, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -5196,7 +5999,7 @@ orange_diamond:
   </a>
   - A view that takes a set of images, make transition from one to another by using flipping effects.
   <sup>
-   &#9733 78, pushed 5 days ago
+   &#9733 78, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5209,8 +6012,157 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1988, pushed 2 days ago
+   &#9733 1988, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/taglia3/TGLParallaxCarousel">
+   TGLParallaxCarousel
+  </a>
+  - A lightweight 3D Linear Carousel with parallax effect :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/dollarshaveclub/ImageButter">
+   ImageButter
+  </a>
+  - Makes dealing with images buttery smooth :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/suzuki-0000/SKPhotoBrowser">
+   SKPhotoBrowser
+  </a>
+  - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 722, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/YuAo/YUCIHighPassSkinSmoothing">
+   YUCIHighPassSkinSmoothing
+  </a>
+  - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
+ </li>
+ <li>
+  <a href="https://github.com/vinbhai4u/CLImageViewPopup/">
+   CLImageViewPopup
+  </a>
+  - A simple Image full screen pop up :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Alterplay/APKenBurnsView">
+   APKenBurnsView
+  </a>
+  - Ken Burns effect with face recognition :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/evgenyneu/moa">
+   Moa
+  </a>
+  - An image download extension of the image view for iOS, tvOS and macOS. :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/izotx/JMCMarchingAnts">
+   JMCMarchingAnts
+  </a>
+  - Library that lets you add marching ants (animated) selection to the edges of the images. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/MailOnline/ImageViewer">
+   ImageViewer
+  </a>
+  - An image viewer à la Twitter :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/BeauNouvelle/AspectFillFaceAware">
+   AspectFillFaceAware
+  </a>
+  - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/dkalaitzidis/SwiftyAvatar">
+   SwiftyAvatar
+  </a>
+  - A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard
+ </li>
+ <li>
+  <a href="https://github.com/FlexMonkey/ShinpuruImage">
+   ShinpuruImage
+  </a>
+  - Syntactic Sugar for Accelerate/vImage and Core Image Filters :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/lbrndnr/ImagePickerSheetController">
+   ImagePickerSheetController
+  </a>
+  - ImagePickerSheetController is like the custom photo action sheet in iMessage just without the glitches. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Media Processing
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/garnele007/SwiftOCR">
+   SwiftOCR
+  </a>
+  - Fast and simple OCR library written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 373, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://www.appcoda.com/qr-code-ios-programming-tutorial/">
+   QR Code Scanner
+  </a>
+  - QR Code implementation.
  </li>
  <li>
   <a href="https://github.com/aschuch/QRCode">
@@ -5222,136 +6174,139 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 205, pushed 15 days ago
+   &#9733 205, pushed 140 days ago
   </sup>
  </li>
 </ul>
 <h5>
- GIF
+ PDF
 </h5>
 <ul>
  <li>
-  <a href="https://github.com/liyong03/YLGIFImage">
-   YLGIFImage
+  <a href="https://github.com/vfr/Reader">
+   Reader
   </a>
-  - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
+  - PDF Reader Core for iOS.
   <sup>
-   &#9733 1366, pushed 137 days ago
+   &#9733 3224, pushed 171 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Flipboard/FLAnimatedImage">
-   FLAnimatedImage
+  <a href="https://github.com/RobertAPhillips/UIView_2_PDF">
+   UIView 2 PDF
   </a>
-  - Performant animated GIF engine for iOS
+  - PDF generator using UIViews or UIViews with an associated XIB
   <sup>
-   &#9733 4102, pushed 5 days ago
+   &#9733 18, pushed 341 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kaishin/gifu">
-   gifu
+  <a href="https://github.com/FolioReader/FolioReaderKit">
+   FolioReaderKit
   </a>
-  - Highly performant animated GIF support for iOS in Swift :large
+  - A Swift ePub reader and parser framework for iOS. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 1251, pushed 2 days ago
+   &#9733 890, pushed 133 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mattt/AnimatedGIFImageSerialization">
-   AnimatedGIFImageSerialization
+  <a href="https://github.com/sgr-ksmt/PDFGenerator">
+   PDFGenerator
   </a>
-  - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling
-  <sup>
-   &#9733 919, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/khaledmtaha/XAnimatedImage">
-   XAnimatedImage
-  </a>
-  - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large
+  - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s). :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 536, pushed 19 days ago
+   &#9733 54, pushed 155 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/bahlo/SwiftGif">
-   SwiftGif
+  <a href="https://github.com/nRewik/SimplePDF">
+   SimplePDF
   </a>
-  - :sparkles: A small UIImage extension with gif support :large
+  - Create a simple PDF effortlessly. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 331, pushed 19 days ago
+   &#9733 19, pushed 199 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/onevcat/APNGKit">
-   APNGKit
+  <a href="https://github.com/kayoslab/SwiftPDFGenerator">
+   SwiftPDFGenerator
   </a>
-  - High performance and delightful way to play with APNG format in iOS. :large
+  - PDF generator using UIViews; Swift Version of 'UIView 2 PDF'. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://pspdfkit.com/">
+   PSPDFKit
+  </a>
+  - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
+ </li>
+ <li>
+  <a href="https://github.com/Techprimate/TPPDF">
+   TPPDF
+  </a>
+  - Generate PDF using commands and automatic layout. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Streaming
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/shogo4405/lf.swift">
+   lf.swift
+  </a>
+  - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/tumtumtum/StreamingKit">
+   StreamingKit
+  </a>
+  - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
+  <sup>
+   &#9733 1110, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/teodorpatras/Jukebox">
+   Jukebox
+  </a>
+  - Player for streaming local and remote audio files. Written in Swift. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 854, pushed 70 days ago
+   &#9733 107, pushed 205 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ibireme/YYImage">
-   YYImage
+  <a href="https://github.com/LaiFengiOS/LFLiveKit">
+   LFLiveKit
   </a>
-  - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
-  <sup>
-   &#9733 511, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wangjwchn/JWAnimatedImage">
-   JWAnimatedImage
-  </a>
-  - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.:large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 303, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/metasmile/NSGIF2">
-   NSGIF2
-  </a>
-  - Simplify creation of a GIF from the provided video file url.
-  <sup>
-   &#9733 2, pushed 26 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kirualex/SwiftyGif">
-   SwiftyGif
-  </a>
-  - High performance GIF engine :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 345, pushed 11 days ago
-  </sup>
+  - H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate
  </li>
 </ul>
 <h5>
@@ -5364,7 +6319,7 @@ orange_diamond:
   </a>
   - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
   <sup>
-   &#9733 131, pushed 13 days ago
+   &#9733 131, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -5373,7 +6328,7 @@ orange_diamond:
   </a>
   - A powerful and completely customizable media player for iOS.
   <sup>
-   &#9733 1482, pushed 12 days ago
+   &#9733 1482, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -5398,7 +6353,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 275, pushed 21 days ago
+   &#9733 275, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -5407,7 +6362,7 @@ orange_diamond:
   </a>
   - A video player that support both local and network resource.
   <sup>
-   &#9733 139, pushed 3 days ago
+   &#9733 139, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5416,7 +6371,7 @@ orange_diamond:
   </a>
   - A Photo and Video Gallery
   <sup>
-   &#9733 1728, pushed 4 days ago
+   &#9733 1728, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5429,69 +6384,52 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 27, pushed 13 days ago
-  </sup>
- </li>
-</ul>
-<h5>
- PDF
-</h5>
-<ul>
- <li>
-  <a href="https://github.com/vfr/Reader">
-   Reader
-  </a>
-  - PDF Reader Core for iOS.
-  <sup>
-   &#9733 3224, pushed 46 days ago
+   &#9733 27, pushed 137 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RobertAPhillips/UIView_2_PDF">
-   UIView 2 PDF
+  <a href="https://github.com/SRGSSR/SRGMediaPlayer-iOS">
+   SRGMediaPlayer-iOS
   </a>
-  - PDF generator using UIViews or UIViews with an associated XIB
-  <sup>
-   &#9733 18, pushed 216 days ago
-  </sup>
+  - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
  </li>
  <li>
-  <a href="https://github.com/FolioReader/FolioReaderKit">
-   FolioReaderKit
+  <a href="https://github.com/mhergon/AVPlayerViewController-Subtitles">
+   AVPlayerViewController-Subtitles
   </a>
-  - A Swift ePub reader and parser framework for iOS. :large
+  - AVPlayerViewController-Subtitles is a library to display subtitles on iOS. It's built as a Swift extension and it's very easy to integrate. :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/mhergon/MPMoviePlayerController-Subtitles">
+   MPMoviePlayerController-Subtitles
+  </a>
+  - MPMoviePlayerController-Subtitles is a library to display subtitles on iOS. It's built as a Swift extension and it's very easy to integrate. :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/renzifeng/ZFPlayer">
+   ZFPlayer
+  </a>
+  - Based on AVPlayer, support for the horizontal screen, vertical screen (full screen playback can also lock the screen direction), the upper and lower slide to adjust the volume, the screen brightness, or so slide to adjust the playback progress.
+ </li>
+ <li>
+  <a href="https://github.com/piemonte/Player">
+   Player
+  </a>
+  - ▶️ video player in Swift, simple way to play and stream media in your iOS or tvOS app :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 890, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sgr-ksmt/PDFGenerator">
-   PDFGenerator
-  </a>
-  - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s). :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 54, pushed 31 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nRewik/SimplePDF">
-   SimplePDF
-  </a>
-  - Create a simple PDF effortlessly. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 19, pushed 75 days ago
+   &#9733 415, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -5511,7 +6449,7 @@ orange_diamond:
   </a>
   - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
   <sup>
-   &#9733 106, pushed 14 days ago
+   &#9733 106, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -5532,7 +6470,7 @@ orange_diamond:
   </a>
   - An XMPP Framework in Objective-C for Mac and iOS.
   <sup>
-   &#9733 4289, pushed 16 days ago
+   &#9733 4289, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -5545,7 +6483,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1850, pushed 11 days ago
+   &#9733 1850, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -5554,7 +6492,7 @@ orange_diamond:
   </a>
   - An elegant messages UI library for iOS.
   <sup>
-   &#9733 7981, pushed 2 days ago
+   &#9733 7981, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5569,7 +6507,46 @@ orange_diamond:
   </a>
   - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
   <sup>
-   &#9733 6124, pushed 6 days ago
+   &#9733 6124, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MessageKit/MessageKit-iOS">
+   MessageKit
+  </a>
+  - Eventually, a Swift re-write of JSQMessagesViewController :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/little2s/NoChat">
+   NoChat
+  </a>
+  - A lightweight chat UI framework for iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/eBay/NMessenger">
+   NMessenger
+  </a>
+  - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/layerhq/Atlas-iOS">
+   Atlas
+  </a>
+  - A library of native iOS messaging user interface components for Layer.
+  <sup>
+   &#9733 2828, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -5587,7 +6564,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2758, pushed 10 days ago
+   &#9733 2758, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -5600,7 +6577,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 166, pushed 210 days ago
+   &#9733 166, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -5613,7 +6590,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 318, pushed 4 days ago
+   &#9733 318, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -5627,7 +6604,7 @@ orange_diamond:
   </a>
   - A delightful iOS and OS X networking framework.
   <sup>
-   &#9733 24783, pushed 2 days ago
+   &#9733 24783, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5636,7 +6613,7 @@ orange_diamond:
   </a>
   - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
   <sup>
-   &#9733 9485, pushed 2 days ago
+   &#9733 9485, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5645,7 +6622,7 @@ orange_diamond:
   </a>
   - Foursquare iOS networking library.
   <sup>
-   &#9733 397, pushed 287 days ago
+   &#9733 397, pushed 412 days ago
   </sup>
  </li>
  <li>
@@ -5654,7 +6631,7 @@ orange_diamond:
   </a>
   - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
   <sup>
-   &#9733 5693, pushed 169 days ago
+   &#9733 5693, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -5663,7 +6640,7 @@ orange_diamond:
   </a>
   - Small but powerful library that makes creating REST clients simple and fun.
   <sup>
-   &#9733 1021, pushed 14 days ago
+   &#9733 1021, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -5672,22 +6649,8 @@ orange_diamond:
   </a>
   - Attributed-oriented approach for interacting with web services. The framework has built-in json and xml serialization for requests and responses and can be easily extensible.
   <sup>
-   &#9733 45, pushed 226 days ago
+   &#9733 45, pushed 351 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkMonitor.h">
-   MBNetworkMonitor
-  </a>
-  - A modern replacement for Apple's
-  <code>
-   Reachability
-  </code>
-  class that uses CoreTelephony to report more
-  <a href="https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkMonitor.html">
-   information about the user's network connection
-  </a>
-  .
  </li>
  <li>
   <a href="https://github.com/Alamofire/Alamofire">
@@ -5699,7 +6662,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 16353, pushed 2 days ago
+   &#9733 16353, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5712,7 +6675,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 365, pushed 103 days ago
+   &#9733 365, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -5721,7 +6684,7 @@ orange_diamond:
   </a>
   - Easy-to-use ICMP Ping.
   <sup>
-   &#9733 38, pushed 694 days ago
+   &#9733 38, pushed 818 days ago
   </sup>
  </li>
  <li>
@@ -5730,7 +6693,7 @@ orange_diamond:
   </a>
   - Map client-side objects/classes to remote rest api objects/orm
   <sup>
-   &#9733 539, pushed 621 days ago
+   &#9733 539, pushed 746 days ago
   </sup>
  </li>
  <li>
@@ -5743,7 +6706,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 9, pushed 10 days ago
+   &#9733 9, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -5752,7 +6715,7 @@ orange_diamond:
   </a>
   - Asynchronous socket networking library for Mac and iOS.
   <sup>
-   &#9733 6257, pushed 20 days ago
+   &#9733 6257, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -5775,7 +6738,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2182, pushed 8 days ago
+   &#9733 2182, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -5784,7 +6747,7 @@ orange_diamond:
   </a>
   - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
   <sup>
-   &#9733 697, pushed 88 days ago
+   &#9733 697, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -5797,7 +6760,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1765, pushed 18 days ago
+   &#9733 1765, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -5806,7 +6769,7 @@ orange_diamond:
   </a>
   - A simplicity but graceful solution for invoke RESTful web service APIs.
   <sup>
-   &#9733 1, pushed 105 days ago
+   &#9733 1, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -5819,7 +6782,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2766, pushed 11 days ago
+   &#9733 2766, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -5828,7 +6791,7 @@ orange_diamond:
   </a>
   - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
   <sup>
-   &#9733 231, pushed 192 days ago
+   &#9733 231, pushed 317 days ago
   </sup>
  </li>
  <li>
@@ -5837,11 +6800,11 @@ orange_diamond:
   </a>
   - A Dns library, support custom dns server, dnspod httpdns. Only support A record.
   <sup>
-   &#9733 119, pushed 80 days ago
+   &#9733 119, pushed 204 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/rawrjustin/Bridge">
+  <a href="https://github.com/BridgeNetworking/Bridge">
    Bridge
   </a>
   - A simple extensible typed networking library. Intercept and process/alter requests and responses easily. :large
@@ -5849,9 +6812,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 89, pushed 26 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/MLSDev/TRON">
@@ -5863,7 +6823,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 188, pushed 9 days ago
+   &#9733 188, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -5876,7 +6836,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 410, pushed 2 days ago
+   &#9733 410, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5889,7 +6849,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 182, pushed 7 days ago
+   &#9733 182, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -5902,7 +6862,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 859, pushed 4 days ago
+   &#9733 859, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5915,7 +6875,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 710, pushed 4 days ago
+   &#9733 710, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5928,7 +6888,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 691, pushed 25 days ago
+   &#9733 691, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -5941,7 +6901,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 617, pushed 24 days ago
+   &#9733 617, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -5954,7 +6914,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 340, pushed 23 days ago
+   &#9733 340, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -5967,7 +6927,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1388, pushed 21 days ago
+   &#9733 1388, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -5976,7 +6936,7 @@ orange_diamond:
   </a>
   - A network diagnosis library. Support Ping/TcpPing/Rtmp/TraceRoute/DNS/external IP/external DNS.
   <sup>
-   &#9733 15, pushed 55 days ago
+   &#9733 15, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -5985,7 +6945,7 @@ orange_diamond:
   </a>
   - A custom wrapper over AFNetworking library that we use inside RC extensively
   <sup>
-   &#9733 12, pushed 546 days ago
+   &#9733 12, pushed 671 days ago
   </sup>
  </li>
  <li>
@@ -5998,7 +6958,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4, pushed 18 days ago
+   &#9733 4, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -6007,7 +6967,7 @@ orange_diamond:
   </a>
   - We need to observe the REAL reachability of network. That's what RealReachability do.
   <sup>
-   &#9733 1589, pushed 8 days ago
+   &#9733 1589, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -6020,7 +6980,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1149, pushed 36 days ago
+   &#9733 1149, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -6033,7 +6993,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 29, pushed 19 days ago
+   &#9733 29, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -6046,11 +7006,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 638, pushed 2 days ago
+   &#9733 638, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/s4cha/ws">
+  <a href="https://github.com/freshOS/ws">
    ws ☁️
   </a>
   - Elegant JSON WebService in Swift.:large
@@ -6058,9 +7018,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 122, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/spotify/SPTDataLoader">
@@ -6072,8 +7029,88 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 507, pushed 6 days ago
+   &#9733 507, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/skywite/SWNetworking">
+   SWNetworking
+  </a>
+  - Powerful high-level iOS, OS X and tvOS networking library.
+ </li>
+ <li>
+  <a href="https://github.com/3lvis/Networking">
+   Networking
+  </a>
+  - Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/priore/SOAPEngine">
+   SOAPEngine
+  </a>
+  - This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app
+ </li>
+ <li>
+  <a href="https://github.com/thoughtbot/Swish">
+   Swish
+  </a>
+  - Nothing but Net(working) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/hyperoslo/Malibu">
+   Malibu
+  </a>
+  - Networking library built on promises :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/yuantiku/YTKNetwork">
+   YTKNetwork
+  </a>
+  - YTKNetwork is a high level request util based on AFNetworking.
+ </li>
+ <li>
+  <a href="https://github.com/serejahh/UnboxedAlamofire">
+   UnboxedAlamofire
+  </a>
+  - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/mavris/MMLanScan">
+   MMLanScan
+  </a>
+  - An iOS LAN Network Scanner library
+ </li>
+ <li>
+  <a href="https://github.com/FelixLinBH/Domainer">
+   Domainer
+  </a>
+  - Manage multi-domain url auto mapping ip address table
+ </li>
+ <li>
+  <a href="https://github.com/Restofire/Restofire">
+   Restofire
+  </a>
+  - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h4>
@@ -6086,8 +7123,18 @@ orange_diamond:
   </a>
   - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
   <sup>
-   &#9733 1269, pushed 2 days ago
+   &#9733 1269, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/snipsco/Postal">
+   Postal
+  </a>
+  - A swift framework providing simple access to common email providers. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -6100,7 +7147,7 @@ orange_diamond:
   </a>
   - Push Notification Registration for iOS.
   <sup>
-   &#9733 679, pushed 497 days ago
+   &#9733 679, pushed 621 days ago
   </sup>
  </li>
  <li>
@@ -6115,7 +7162,7 @@ orange_diamond:
   </a>
   - The debug application for Apple Push Notification Service (APNS).
   <sup>
-   &#9733 2822, pushed 95 days ago
+   &#9733 2822, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -6124,8 +7171,20 @@ orange_diamond:
   </a>
   - Facebook Analytics In-App Notifications Framework https://developers.facebook.com/docs/analytics/push-campaigns
   <sup>
-   &#9733 305, pushed 8 days ago
+   &#9733 305, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/noodlewerk/NWPusher">
+   NWPusher
+  </a>
+  - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+ </li>
+ <li>
+  <a href="https://github.com/acoomans/SimulatorRemoteNotifications">
+   SimulatorRemoteNotifications
+  </a>
+  - Library to send mock remote notifications to the iOS simulator
  </li>
 </ul>
 <h4>
@@ -6136,7 +7195,7 @@ orange_diamond:
 </p>
 <ul>
  <li>
-  <a href="https://www.urbanairship.com/products/engage#push-messages">
+  <a href="https://www.urbanairship.com/products/mobile-app-engagement ">
    Urban Airship
   </a>
  </li>
@@ -6177,7 +7236,7 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="https://www.onesignal.com">
+  <a href="https://onesignal.com">
    OneSignal
   </a>
   - Free.
@@ -6198,8 +7257,641 @@ orange_diamond:
   </a>
   - Free and open-source.
   <sup>
-   &#9733 45, pushed 12 days ago
+   &#9733 45, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://pusher.com">
+   Pusher
+  </a>
+ </li>
+</ul>
+<h3>
+ Parsing
+</h3>
+<h5>
+ CSV
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/Daniel1of1/CSwiftV">
+   CSwiftV
+  </a>
+  - A csv parser written in swift conforming to rfc4180 :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 66, pushed 139 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/naoty/SwiftCSV">
+   SwiftCSV
+  </a>
+  - CSV parser for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 203, pushed 135 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ JSON
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/johnezang/JSONKit">
+   JSONKit
+  </a>
+  - Objective-C JSON.
+  <sup>
+   &#9733 5733, pushed 145 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/TouchCode/TouchJSON">
+   TouchJSON
+  </a>
+  - A humane JSON Objective-C un-framework.
+  <sup>
+   &#9733 816, pushed 352 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/stig/json-framework">
+   JSON-Framework
+  </a>
+  -  This framework implements a strict JSON parser and generator in Objective-C.
+  <sup>
+   &#9733 3712, pushed 339 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Mantle/Mantle">
+   Mantle
+  </a>
+  - Model framework for Cocoa and Cocoa Touch.
+  <sup>
+   &#9733 9301, pushed 137 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gonzalezreal/Groot">
+   Groot
+  </a>
+  - Convert JSON dictionaries and arrays to and from Core Data managed objects.
+  <sup>
+   &#9733 390, pushed 314 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/krzysztofzablocki/KZPropertyMapper">
+   KZPropertyMapper
+  </a>
+  - Data mapping and validation with minimal amount of code.
+  <sup>
+   &#9733 1052, pushed 136 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JSONModel/JSONModel">
+   JSONModel
+  </a>
+  - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
+ </li>
+ <li>
+  <a href="https://github.com/SwiftyJSON/SwiftyJSON">
+   SwiftyJSON
+  </a>
+  - The better way to deal with JSON data in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 9902, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/FastEasyMapping">
+   FastEasyMapping
+  </a>
+  - Serialize & deserialize JSON fast.
+  <sup>
+   &#9733 394, pushed 165 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aryaxt/OCMapper">
+   OCMapper
+  </a>
+  - Objective-C & Swift library to easily map NSDictionary to model objects. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 310, pushed 228 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Hearst-DD/ObjectMapper">
+   ObjectMapper
+  </a>
+  - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 3056, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/delba/JASON">
+   JASON
+  </a>
+  - JSON parsing with outstanding performances and convenient operators. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 679, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hkellaway/Gloss">
+   Gloss
+  </a>
+  - A shiny JSON parsing library in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 782, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Weebly/Cereal">
+   Cereal
+  </a>
+  - Swift object serialization :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 307, pushed 146 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/insanoid/SwiftyJSONAccelerator">
+   SwiftyJSONAccelerator
+  </a>
+  - Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 189, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/matthewcheok/JSONCodable">
+   JSONCodable
+  </a>
+  - Hassle-free JSON encoding and decoding in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 483, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nixzhu/Coolie">
+   Coolie
+  </a>
+  - Coolie helps you to create models (& their constructors) from JSON file. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 369, pushed 165 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zenangst/Tailor">
+   Tailor
+  </a>
+  - A super fast & convenient object mapper tailored for your needs. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 104, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hodinkee/alexander">
+   alexander
+  </a>
+  - An extremely simple JSON helper written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 35, pushed 160 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bignerdranch/Freddy">
+   Freddy
+  </a>
+  - A reusable framework for parsing JSON in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 846, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lyft/mapper">
+   mapper
+  </a>
+  - Another JSON deserialization library for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 592, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/evermeer/AlamofireJsonToObjects">
+   AlamofireJsonToObjects
+  </a>
+  - An Alamofire extension which converts JSON response data into swift objects using EVReflection :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 86, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/czechboy0/Jay">
+   Jay
+  </a>
+  - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 59, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ibireme/YYModel">
+   YYModel
+  </a>
+  - High performance model framework for iOS/OSX.
+  <sup>
+   &#9733 1539, pushed 143 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ra1028/Alembic">
+   Alembic
+  </a>
+  - Functional JSON parsing, mapping to objects, and serialize to JSON :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 9, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JohnSundell/Wrap">
+   Wrap
+  </a>
+  - The easy to use Swift JSON encoder :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 132, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/freshOS/Arrow">
+   Arrow 🏹
+  </a>
+  - Elegant JSON Parsing in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Anviking/Decodable">
+   Decodable
+  </a>
+  - Swift 2 JSON parsing done (more) right :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 788, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/LoganWright/Genome">
+   Genome
+  </a>
+  - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 657, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/typelift/Tyro">
+   Tyro
+  </a>
+  - Functional JSON parsing and encoding :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 44, pushed 136 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JohnSundell/Unbox">
+   Unbox
+  </a>
+  - The easy to use Swift JSON decoder :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 624, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/daltoniam/JSONJoy-Swift">
+   JSONJoy-Swift
+  </a>
+  - Convert JSON to Swift objects. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/iwasrobbed/LazyObject">
+   LazyObject
+  </a>
+  - Lazily deserialize JSON into strongly typed Swift objects :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Ahmed-Ali/JSONExport">
+   JSONExport
+  </a>
+  - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Nike-Inc/Elevate">
+   Elevate
+  </a>
+  - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/CoderMJLee/MJExtension">
+   MJExtension
+  </a>
+  - A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file.
+ </li>
+ <li>
+  <a href="https://github.com/tristanhimmelman/AlamofireObjectMapper">
+   AlamofireObjectMapper
+  </a>
+  - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 734, pushed 158 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ XML & HTML
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/tadija/AEXML">
+   AEXML
+  </a>
+  - Simple and lightweight XML parser written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 460, pushed 160 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/honghaoz/Ji">
+   Ji
+  </a>
+  - XML/HTML parser for Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 526, pushed 160 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mattt/Ono">
+   Ono
+  </a>
+  - A sensible way to deal with XML & HTML for iOS & OS X
+  <sup>
+   &#9733 1852, pushed 166 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/evermeer/AlamofireXmlToObjects">
+   AlamofireXmlToObjects
+  </a>
+  - Fetch a XML feed and parse it into objects :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 39, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cezheng/Fuzi">
+   Fuzi
+  </a>
+  - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 228, pushed 150 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tid-kijyun/Kanna">
+   Kanna
+  </a>
+  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 527, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/yahoojapan/SwiftyXMLParser">
+   SwiftyXMLParer
+  </a>
+  - Simple XML Parser implemented in Swift  :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/iabudiab/HTMLKit">
+   HTMLKit
+  </a>
+  - An Objective-C framework for your everyday HTML needs.
+ </li>
+ <li>
+  <a href="https://github.com/drmohundro/SWXMLHash">
+   SWXMLHash
+  </a>
+  - Simple XML parsing in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 499, pushed 148 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ Other Parsing
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/mkoehnke/WKZombie">
+   WKZombie
+  </a>
+  - WKZombie is a Swift framework for iOS/OSX to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 545, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/itsmeichigo/URLPreview">
+   URLPreview
+  </a>
+  - An NSURL extension for showing preview info of webpages :large
+  <em>
+   orange
+  </em>
+  diamond: [e]
+ </li>
+ <li>
+  <a href="https://github.com/nmdias/FeedKit">
+   FeedKit
+  </a>
+  - An RSS and Atom feed parser written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/phimage/Erik">
+   Erik
+  </a>
+  - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 144, pushed 143 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/marty-suzuki/URLEmbeddedView">
+   URLEmbeddedView
+  </a>
+  - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -6212,7 +7904,7 @@ orange_diamond:
   </a>
   - Passbook gem let's you create pkpass for passbook iOS 6+.
   <sup>
-   &#9733 194, pushed 89 days ago
+   &#9733 194, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -6221,7 +7913,7 @@ orange_diamond:
   </a>
   - Generate and Preview Passbook Passes.
   <sup>
-   &#9733 290, pushed 64 days ago
+   &#9733 290, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -6245,7 +7937,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2467, pushed 7 days ago
+   &#9733 2467, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -6258,7 +7950,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 639, pushed 36 days ago
+   &#9733 639, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -6271,7 +7963,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 65, pushed 228 days ago
+   &#9733 65, pushed 353 days ago
   </sup>
  </li>
  <li>
@@ -6280,7 +7972,7 @@ orange_diamond:
   </a>
   - A visual permission manager for iOS.
   <sup>
-   &#9733 104, pushed 143 days ago
+   &#9733 104, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -6289,7 +7981,7 @@ orange_diamond:
   </a>
   - A unified way for iOS apps to request user permissions.
   <sup>
-   &#9733 455, pushed 160 days ago
+   &#9733 455, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -6298,7 +7990,7 @@ orange_diamond:
   </a>
   - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
   <sup>
-   &#9733 354, pushed 112 days ago
+   &#9733 354, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -6307,20 +7999,20 @@ orange_diamond:
   </a>
   - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
   <sup>
-   &#9733 1072, pushed 78 days ago
+   &#9733 1072, pushed 202 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/delba/Permission">
    Permission
   </a>
-  - Ask for iOS permissions through a single, uniform interface. :large
+  - A unified API to ask for permissions on iOS :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 1540, pushed 7 days ago
+   &#9733 1540, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -6333,7 +8025,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 408, pushed 4 days ago
+   &#9733 408, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -6351,7 +8043,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 405, pushed 2 days ago
+   &#9733 405, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -6372,7 +8064,7 @@ orange_diamond:
   </a>
   Make and accept payments in your iOS app via Venmo.
   <sup>
-   &#9733 106, pushed 41 days ago
+   &#9733 106, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -6391,7 +8083,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 41, pushed 15 days ago
+   &#9733 41, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -6404,7 +8096,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 827, pushed 2 days ago
+   &#9733 827, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6417,7 +8109,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 20, pushed 74 days ago
+   &#9733 20, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -6430,8 +8122,57 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 13, pushed 84 days ago
+   &#9733 13, pushed 209 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gabrielgarza/monza">
+   monza
+  </a>
+  - Ruby Gem for Rails - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions
+ </li>
+ <li>
+  <a href="https://github.com/alvinvarghese/EasyIAPs">
+   EasyIAPs
+  </a>
+  - An easy way to manage In App Purchases
+ </li>
+ <li>
+  <a href="https://github.com/paypal/PayPal-iOS-SDK">
+   PayPal
+  </a>
+  - Accept payments in your iOS app via PayPal.
+  <sup>
+   &#9733 636, pushed 147 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/card-io/card.io-iOS-SDK">
+   card.io-iOS-SDK
+  </a>
+  - card.io provides fast, easy credit card scanning in mobile apps
+ </li>
+ <li>
+  <a href="https://github.com/MaxKramer/SwiftLuhn">
+   SwiftLuhn
+  </a>
+  - Debit/Credit card validation port of the Luhn Algorithm in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/MaxKramer/ObjectiveLuhn">
+   ObjectiveLuhn
+  </a>
+  - Luhn Credit Card Validation Algorithm
+ </li>
+ <li>
+  <a href="https://github.com/robotmedia/RMStore">
+   RMStore
+  </a>
+  - A lightweight iOS library for In-App Purchases
  </li>
 </ul>
 <h3>
@@ -6450,6 +8191,12 @@ orange_diamond:
   </a>
   - Build social products and a activity feed with a few lines of code.
  </li>
+ <li>
+  <a href="https://github.com/openshopio/openshop.io-ios">
+   OpenShop.io
+  </a>
+  - mobile e-commerce solution connected to Facebook Ads and Google.
+ </li>
 </ul>
 <h3>
  Reactive Programming
@@ -6465,7 +8212,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4419, pushed 1 days ago
+   &#9733 4419, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -6478,7 +8225,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 0, pushed 48 days ago
+   &#9733 0, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -6491,7 +8238,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 91, pushed 23 days ago
+   &#9733 91, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -6504,7 +8251,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 13712, pushed 2 days ago
+   &#9733 13712, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6517,7 +8264,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 17, pushed 70 days ago
+   &#9733 17, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -6526,7 +8273,7 @@ orange_diamond:
   </a>
   - ReactiveCoreData (RCD) is an attempt to bring Core Data into the ReactiveCocoa (RAC) world.
   <sup>
-   &#9733 278, pushed 34 days ago
+   &#9733 278, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -6539,7 +8286,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1879, pushed 3 days ago
+   &#9733 1879, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -6552,7 +8299,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 403, pushed 7 days ago
+   &#9733 403, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -6565,7 +8312,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 10 days ago
+   &#9733 32, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -6578,7 +8325,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 222, pushed 18 days ago
+   &#9733 222, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -6591,7 +8338,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 39, pushed 2 days ago
+   &#9733 39, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6604,7 +8351,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 12, pushed 2 days ago
+   &#9733 12, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -6617,7 +8364,121 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 192, pushed 6 days ago
+   &#9733 192, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RxSwiftCommunity/RxGesture">
+   RxGesture
+  </a>
+  - RxSwift reactive wrapper for view gestures :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/RxSwiftCommunity/NSObject-Rx">
+   NSObject-Rx
+  </a>
+  - Handy RxSwift extensions on NSObject, including rx
+  <em>
+   disposeBag. :large
+  </em>
+  orange_diamond:
+ </li>
+ <li>
+  <a href="https://github.com/RxSwiftCommunity/RxCoreData">
+   RxCoreData
+  </a>
+  - RxSwift extensions for Core Data :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/alexdrone/Render">
+   Render
+  </a>
+  - Swift and UIKit a la React. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/inamiy/RxAutomaton">
+   RxAutomaton
+  </a>
+  - RxSwift + State Machine, inspired by Redux and Elm. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h3>
+ Reflection
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/Zewo/Reflection">
+   Reflection
+  </a>
+  - Reflection provides an API for advanced reflection at runtime including dynamic construction of types. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/CharlinFeng/Reflect">
+   Reflect
+  </a>
+  - Reflection, Dict2Model, Model2Dict, Archive :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/evermeer/EVReflection">
+   EVReflection
+  </a>
+  - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 314, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/johnlui/JSONNeverDie">
+   JSONNeverDie
+  </a>
+  - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 380, pushed 294 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bradhilton/SwiftKVC">
+   SwiftKVC
+  </a>
+  - Key-Value Coding (KVC) for native Swift classes and structs :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 37, pushed 324 days ago
   </sup>
  </li>
 </ul>
@@ -6635,7 +8496,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 307, pushed 3 days ago
+   &#9733 307, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -6648,7 +8509,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 107, pushed 222 days ago
+   &#9733 107, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -6661,7 +8522,33 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 137, pushed 40 days ago
+   &#9733 137, pushed 165 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/crossroadlabs/Regex">
+   Regex
+  </a>
+  - Regular expressions for swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 22, pushed 150 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/brynbellomy/Regex">
+   Regex
+  </a>
+  - Regex class for Swift. Wraps NSRegularExpression. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 44, pushed 233 days ago
   </sup>
  </li>
 </ul>
@@ -6670,43 +8557,12 @@ orange_diamond:
 </h3>
 <ul>
  <li>
-  <a href="https://github.com/kishikawakatsumi/UICKeyChainStore">
-   UICKeyChainStore
-  </a>
-  - UICKeyChainStore is a simple wrapper for Keychain on iOS.
-  <sup>
-   &#9733 1926, pushed 88 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/orta/cocoapods-keys">
    cocoapods-keys
   </a>
   - A key value store for storing environment and application keys.
   <sup>
-   &#9733 599, pushed 24 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/square/Valet">
-   Valet
-  </a>
-  - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
-  <sup>
-   &#9733 1559, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/matthewpalmer/Locksmith">
-   Locksmith
-  </a>
-  - A powerful, protocol-oriented library for working with the keychain in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 1641, pushed 19 days ago
+   &#9733 599, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -6715,64 +8571,7 @@ orange_diamond:
   </a>
   - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
   <sup>
-   &#9733 74, pushed 194 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pjebs/Obfuscator-iOS">
-   Obfuscator-iOS
-  </a>
-  - String Obfuscation for app's executable file
-  <sup>
-   &#9733 140, pushed 76 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kishikawakatsumi/KeychainAccess">
-   KeychainAccess
-  </a>
-  - Simple Swift wrapper for Keychain that works on iOS and OS X :large
-  <em>
-   orange
-  </em>
-  diamond:[e]
-  <sup>
-   &#9733 1612, pushed 10 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cossacklabs/themis">
-   Themis
-  </a>
-  - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/OS X, Android and different server side platforms.
-  <sup>
-   &#9733 143, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hyperoslo/Keychain">
-   Keychain
-  </a>
-  - Because you should care... about the security... of your shit. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 14, pushed 62 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/krzyzanowskim/CryptoSwift">
-   CryptoSwift
-  </a>
-  - Crypto related functions and helpers for Swift implemented in Swift programming language :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 2035, pushed 2 days ago
+   &#9733 74, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -6785,55 +8584,99 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 339, pushed 7 days ago
+   &#9733 339, pushed 131 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/SwiftP2P/SwiftSSL">
-   SwiftSSL
+  <a href="https://github.com/recruit-lifestyle/Smile-Lock">
+   Smile-Lock
   </a>
-  - An Elegant crypto toolkit in Swift. :large
+  - A library for make a beautiful Passcode Lock View.
+ </li>
+ <li>
+  <a href="https://github.com/dropbox/zxcvbn-ios">
+   zxcvbn-ios
+  </a>
+  - A realistic password strength estimator.
+ </li>
+ <li>
+  <a href="https://github.com/Techprimate/TPObfuscatedString">
+   TPObfuscatedString
+  </a>
+  - Simple String obfuscation using core Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Encryption
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/Gurpartap/AESCrypt-ObjC">
+   AESCrypt-ObjC
+  </a>
+  - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
+  <sup>
+   &#9733 489, pushed 343 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/iosdevzone/IDZSwiftCommonCrypto">
+   IDZSwiftCommonCrypto
+  </a>
+  - A wrapper for Apple's Common Crypto library written in Swift. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 165, pushed 122 days ago
+   &#9733 200, pushed 151 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/TakeScoop/SwiftyRSA">
-   SwiftyRSA
+  <a href="https://github.com/onmyway133/Arcane">
+   Arcane
   </a>
-  - RSA public/private key encryption in Swift :large
+  - 🔱 Lightweight wrapper around CommonCrypto in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/mpurland/SwiftMD5">
+   SwiftMD5
+  </a>
+  - A pure Swift implementation of MD5 :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/SwiftHash">
+   SwiftHash
+  </a>
+  - Hash in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jancassio/SweetHMAC">
+   SweetHMAC
+  </a>
+  - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 154, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mikaoj/EnigmaKit">
-   EnigmaKit
-  </a>
-  - Enigma encryption in Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 86, pushed 129 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/soffes/sskeychain">
-   SSKeychain
-  </a>
-  - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
-  <sup>
-   &#9733 3374, pushed 18 days ago
+   &#9733 23, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -6846,7 +8689,64 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 260, pushed 7 days ago
+   &#9733 260, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/SwiftP2P/SwiftSSL">
+   SwiftSSL
+  </a>
+  - An Elegant crypto toolkit in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 165, pushed 247 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/TakeScoop/SwiftyRSA">
+   SwiftyRSA
+  </a>
+  - RSA public/private key encryption in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 154, pushed 136 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mikaoj/EnigmaKit">
+   EnigmaKit
+  </a>
+  - Enigma encryption in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 86, pushed 254 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cossacklabs/themis">
+   Themis
+  </a>
+  - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/OS X, Android and different server side platforms.
+  <sup>
+   &#9733 143, pushed 130 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pjebs/Obfuscator-iOS">
+   Obfuscator-iOS
+  </a>
+  - String Obfuscation for app's executable file
+  <sup>
+   &#9733 140, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -6859,20 +8759,117 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 78, pushed 0 days ago
+   &#9733 78, pushed 125 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jancassio/SweetHMAC">
-   SweetHMAC
+  <a href="https://github.com/krzyzanowskim/CryptoSwift">
+   CryptoSwift
   </a>
-  - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms :large
+  - Crypto related functions and helpers for Swift implemented in Swift programming language :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 23, pushed 10 days ago
+   &#9733 2035, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sgl0v/SCrypto">
+   SCrypto
+  </a>
+  - Elegant Swift interface to access the CommonCrypto routines :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Keychain
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/kishikawakatsumi/UICKeyChainStore">
+   UICKeyChainStore
+  </a>
+  - UICKeyChainStore is a simple wrapper for Keychain on iOS.
+  <sup>
+   &#9733 1926, pushed 213 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/square/Valet">
+   Valet
+  </a>
+  - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
+  <sup>
+   &#9733 1559, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/matthewpalmer/Locksmith">
+   Locksmith
+  </a>
+  - A powerful, protocol-oriented library for working with the keychain in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1641, pushed 144 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kishikawakatsumi/KeychainAccess">
+   KeychainAccess
+  </a>
+  - Simple Swift wrapper for Keychain that works on iOS and OS X :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+  <sup>
+   &#9733 1612, pushed 135 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hyperoslo/Keychain">
+   Keychain
+  </a>
+  - Because you should care... about the security... of your shit. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 14, pushed 187 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/granoff/Lockbox">
+   Lockbox
+  </a>
+  - Objective-C utility class for storing data securely in the key chain.
+ </li>
+ <li>
+  <a href="https://github.com/soffes/SAMKeychain">
+   SAMKeychain
+  </a>
+  - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
+ </li>
+ <li>
+  <a href="https://github.com/jrendel/SwiftKeychainWrapper">
+   SwiftKeychainWrapper
+  </a>
+  - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 226, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -6886,7 +8883,7 @@ orange_diamond:
   </a>
   - An Objective-C implementation of Twitter's text processing library.
   <sup>
-   &#9733 1134, pushed 43 days ago
+   &#9733 1134, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -6895,7 +8892,7 @@ orange_diamond:
   </a>
   - Nimbus is a toolkit for experienced iOS software designers.
   <sup>
-   &#9733 5895, pushed 7 days ago
+   &#9733 5895, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -6904,7 +8901,7 @@ orange_diamond:
   </a>
   - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
   <sup>
-   &#9733 458, pushed 33 days ago
+   &#9733 458, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -6913,7 +8910,7 @@ orange_diamond:
   </a>
   - An Objective-C static library for converting Markdown to HTML.
   <sup>
-   &#9733 862, pushed 15 days ago
+   &#9733 862, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -6922,7 +8919,7 @@ orange_diamond:
   </a>
   - Methods to allow using HTML code with CoreText.
   <sup>
-   &#9733 4236, pushed 26 days ago
+   &#9733 4236, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -6931,7 +8928,7 @@ orange_diamond:
   </a>
   - A rich-text editor for iOS.
   <sup>
-   &#9733 251, pushed 165 days ago
+   &#9733 251, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -6940,7 +8937,7 @@ orange_diamond:
   </a>
   - A searchable emoji dropdown view that can be integrated with a text control
   <sup>
-   &#9733 58, pushed 309 days ago
+   &#9733 58, pushed 433 days ago
   </sup>
  </li>
  <li>
@@ -6953,7 +8950,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 75, pushed 80 days ago
+   &#9733 75, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -6966,7 +8963,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 552, pushed 12 days ago
+   &#9733 552, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -6979,7 +8976,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 513, pushed 41 days ago
+   &#9733 513, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -6992,7 +8989,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 924, pushed 4 days ago
+   &#9733 924, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -7001,7 +8998,7 @@ orange_diamond:
   </a>
   - Powerful text framework for iOS to display and edit rich text.
   <sup>
-   &#9733 4725, pushed 12 days ago
+   &#9733 4725, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -7014,7 +9011,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 956, pushed 37 days ago
+   &#9733 956, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -7027,7 +9024,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 36, pushed 46 days ago
+   &#9733 36, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -7040,7 +9037,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 55, pushed 82 days ago
+   &#9733 55, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -7053,7 +9050,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 20, pushed 100 days ago
+   &#9733 20, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -7066,7 +9063,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1704, pushed 28 days ago
+   &#9733 1704, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -7075,7 +9072,7 @@ orange_diamond:
   </a>
   - Paranoid text spacing in Objective-C.
   <sup>
-   &#9733 94, pushed 265 days ago
+   &#9733 94, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -7088,7 +9085,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 1094, pushed 2 days ago
+   &#9733 1094, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7101,7 +9098,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 56, pushed 116 days ago
+   &#9733 56, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -7114,7 +9111,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 395, pushed 10 days ago
+   &#9733 395, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -7125,9 +9122,9 @@ orange_diamond:
   <em>
    orange
   </em>
-  diamond:
+  diamond:[e]
   <sup>
-   &#9733 1423, pushed 3 days ago
+   &#9733 1423, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -7140,7 +9137,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 139, pushed 3 days ago
+   &#9733 139, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -7153,7 +9150,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 34, pushed 43 days ago
+   &#9733 34, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -7166,7 +9163,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 538, pushed 22 days ago
+   &#9733 538, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -7175,7 +9172,7 @@ orange_diamond:
   </a>
   - Library to help handle mentions
   <sup>
-   &#9733 4, pushed 42 days ago
+   &#9733 4, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -7184,8 +9181,88 @@ orange_diamond:
   </a>
   - Library to help handle mentions, written in Swift 🔶
   <sup>
-   &#9733 6, pushed 42 days ago
+   &#9733 6, pushed 166 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/henrinormak/Heimdall">
+   Heimdall
+  </a>
+  - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 191, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/T-Pham/NoOptionalInterpolation">
+   NoOptionalInterpolation
+  </a>
+  - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.🔶[e]
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/Smile">
+   Smile
+  </a>
+  😄 Emoji in Swift
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/iso8601">
+   ISO8601
+  </a>
+  Super lightweight ISO8601 Date Formatter in Swift 🔶[e]
+ </li>
+ <li>
+  <a href="https://github.com/Ekhoo/Translucid">
+   Translucid
+  </a>
+  - Lightweight library to set an Image as text background. Written in swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/mattt/FormatterKit">
+   FormatterKit
+  </a>
+  -
+  <code>
+   stringWithFormat:
+  </code>
+  for the sophisticated hacker set
+ </li>
+ <li>
+  <a href="https://github.com/Raizlabs/BonMot">
+   BonMot
+  </a>
+  - Beautiful, easy attributed strings for iOS
+ </li>
+ <li>
+  <a href="https://github.com/gkaimakas/SwiftValidators">
+   SwiftValidators
+  </a>
+  - String validation for iOS developed in Swift. Inspired by
+  <a href="https://www.npmjs.com/package/validator">
+   validator.js
+  </a>
+  .
+  <sup>
+   &#9733 31, pushed 180 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kazuhiro4949/StringStylizer">
+   StringStylizer
+  </a>
+  - Type strict builder class for NSAttributedString. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -7202,7 +9279,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 568, pushed 6 days ago
+   &#9733 568, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -7215,7 +9292,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 87, pushed 75 days ago
+   &#9733 87, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -7224,7 +9301,7 @@ orange_diamond:
   </a>
   - NSString+FontAwesome.
   <sup>
-   &#9733 1538, pushed 74 days ago
+   &#9733 1538, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -7237,7 +9314,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 470, pushed 2 days ago
+   &#9733 470, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7250,7 +9327,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 73, pushed 198 days ago
+   &#9733 73, pushed 323 days ago
   </sup>
  </li>
  <li>
@@ -7264,7 +9341,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 65, pushed 15 days ago
+   &#9733 65, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -7273,7 +9350,30 @@ orange_diamond:
   </a>
   - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
   <sup>
-   &#9733 1837, pushed 16 days ago
+   &#9733 1837, pushed 141 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dzenbot/Iconic">
+   Iconic
+  </a>
+  - Auto-generated icon font library for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/dekatotoro/GoogleMaterialDesignIcons">
+   GoogleMaterialDesignIcons
+  </a>
+  - Google Material Design Icons Font for iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 313, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -7287,7 +9387,7 @@ orange_diamond:
   </a>
   - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
   <sup>
-   &#9733 457, pushed 25 days ago
+   &#9733 457, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -7296,7 +9396,7 @@ orange_diamond:
   </a>
   - A splendid route-matching, block-based way to handle your deep links.
   <sup>
-   &#9733 2432, pushed 13 days ago
+   &#9733 2432, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -7305,7 +9405,7 @@ orange_diamond:
   </a>
   - An easier way to handle third-party URL schemes in iOS apps.
   <sup>
-   &#9733 1629, pushed 61 days ago
+   &#9733 1629, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -7314,7 +9414,7 @@ orange_diamond:
   </a>
   - URL routing library for iOS with a simple block-based API.
   <sup>
-   &#9733 2218, pushed 18 days ago
+   &#9733 2218, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -7327,7 +9427,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 73, pushed 185 days ago
+   &#9733 73, pushed 309 days ago
   </sup>
  </li>
  <li>
@@ -7340,7 +9440,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 278, pushed 106 days ago
+   &#9733 278, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -7353,7 +9453,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 616, pushed 26 days ago
+   &#9733 616, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -7366,7 +9466,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 655, pushed 7 days ago
+   &#9733 655, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -7386,7 +9486,7 @@ orange_diamond:
   </a>
   - A collection of awesome flat UI components for iOS.
   <sup>
-   &#9733 6884, pushed 82 days ago
+   &#9733 6884, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -7395,7 +9495,7 @@ orange_diamond:
   </a>
   - A robust drag-and-drop framework for iOS.
   <sup>
-   &#9733 231, pushed 103 days ago
+   &#9733 231, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -7404,20 +9504,7 @@ orange_diamond:
   </a>
   - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
   <sup>
-   &#9733 1956, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/devxoul/JLToast">
-   JLToast
-  </a>
-  - Toast for iOS with very simple interface. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 465, pushed 20 days ago
+   &#9733 1956, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -7426,7 +9513,7 @@ orange_diamond:
   </a>
   - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
   <sup>
-   &#9733 2367, pushed 104 days ago
+   &#9733 2367, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -7435,7 +9522,7 @@ orange_diamond:
   </a>
   - A lightweight and customizable JSON stylesheet framework for iOS.
   <sup>
-   &#9733 639, pushed 39 days ago
+   &#9733 639, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -7443,15 +9530,6 @@ orange_diamond:
    AsyncDisplayKit
   </a>
   - AsyncDisplayKit is an iOS framework that keeps even the most complex user interfaces smooth and responsive.
- </li>
- <li>
-  <a href="https://github.com/fastred/MotionBlur">
-   MotionBlur
-  </a>
-  - MotionBlur allows you to add motion blur effect to iOS animations.
-  <sup>
-   &#9733 1305, pushed 395 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/skywinder/GaugeKit">
@@ -7463,29 +9541,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 757, pushed 33 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TransitApp/SVWebViewController">
-   SVWebViewController
-  </a>
-  - A drop-in inline browser for your iOS app.
-  <sup>
-   &#9733 2225, pushed 167 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/meismyles/SwiftWebVC">
-   SwiftWebVC
-  </a>
-  - A Swift implementation of SVWebViewController - a drop-in inline browser for your iOS app. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 24, pushed 34 days ago
+   &#9733 757, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -7494,16 +9550,7 @@ orange_diamond:
   </a>
   - Subclass of UIControls and UIButton to mimic Ripple effect of Material Design concept.
   <sup>
-   &#9733 36, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/layerhq/Atlas-iOS">
-   Atlas
-  </a>
-  - A library of native iOS messaging user interface components for Layer.
-  <sup>
-   &#9733 2828, pushed 5 days ago
+   &#9733 36, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -7516,11 +9563,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 470, pushed 26 days ago
+   &#9733 470, pushed 151 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/szk-atmosphere/SAHistoryNavigationViewController">
+  <a href="https://github.com/marty-suzuki/SAHistoryNavigationViewController">
    SAHistoryNavigationViewController
   </a>
   - SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller,3D Touch Compatible. :large
@@ -7528,12 +9575,9 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 1175, pushed 37 days ago
-  </sup>
  </li>
  <li>
-  <a href="https://github.com/szk-atmosphere/SAInboxViewController">
+  <a href="https://github.com/marty-suzuki/SAInboxViewController">
    SAInboxViewController
   </a>
   - UIViewController subclass inspired by "Inbox by google" animated transitioning. :large
@@ -7541,36 +9585,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 192, pushed 103 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/telly/TLYShyNavBar">
-   TLYShyNavBar
-  </a>
-  - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
-  <sup>
-   &#9733 2408, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/m1entus/MZFormSheetPresentationController">
-   MZFormSheetPresentationController
-  </a>
-  - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
-  <sup>
-   &#9733 484, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/shu223/AnimatedTransitionGallery">
-   AnimatedTransitionGallery
-  </a>
-  - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
-  <sup>
-   &#9733 1713, pushed 96 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/nicklockwood/iCarousel">
@@ -7578,7 +9592,7 @@ orange_diamond:
   </a>
   - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS.
   <sup>
-   &#9733 7185, pushed 4 days ago
+   &#9733 7185, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -7586,15 +9600,6 @@ orange_diamond:
    Cocoa Controls
   </a>
   - Open source UI components for iOS and OS X.
- </li>
- <li>
-  <a href="https://github.com/ra1028/RAReorderableLayout">
-   RAReorderableLayout
-  </a>
-  - A UICollectionView layout whitch can move item with drag and drop.
-  <sup>
-   &#9733 540, pushed 27 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/suzuki-0000/HoneycombView">
@@ -7606,7 +9611,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 135, pushed 42 days ago
+   &#9733 135, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -7615,7 +9620,7 @@ orange_diamond:
   </a>
   - tap + haiku = tapku, a well crafted open source iOS framework.
   <sup>
-   &#9733 3958, pushed 38 days ago
+   &#9733 3958, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -7628,20 +9633,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 34, pushed 75 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aryaxt/ScrollPager">
-   ScrollPager
-  </a>
-  - A scroll pager similar to the one in Flipboard :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 334, pushed 9 days ago
+   &#9733 34, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -7656,7 +9648,7 @@ orange_diamond:
   </a>
   - An elegant and flexible tweening library for iOS.
   <sup>
-   &#9733 299, pushed 3 days ago
+   &#9733 299, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7669,16 +9661,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1953, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/callumboddy/CBZSplashView">
-   CBZSplashView
-  </a>
-  - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
-  <sup>
-   &#9733 1150, pushed 217 days ago
+   &#9733 1953, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -7687,7 +9670,7 @@ orange_diamond:
   </a>
   - Make any UIView a full fledged notification center.
   <sup>
-   &#9733 2018, pushed 10 days ago
+   &#9733 2018, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -7696,20 +9679,7 @@ orange_diamond:
   </a>
   - Eat fit is a component for attractive data representation inspired by Google Fit
   <sup>
-   &#9733 145, pushed 152 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rob-nash/CollapsableOptions">
-   CollapsableOptions
-  </a>
-  - Collapsable table view sections with custom section header views. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 126, pushed 27 days ago
+   &#9733 145, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -7722,20 +9692,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 96, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/AhmettKeskin/InteractivePlayerView">
-   InteractivePlayerView
-  </a>
-  - Custom iOS music player view :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 141, pushed 23 days ago
+   &#9733 96, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -7748,7 +9705,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 70, pushed 36 days ago
+   &#9733 70, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -7757,7 +9714,7 @@ orange_diamond:
   </a>
   - BouncyView is an implementation of a recently popular bouncy effect for any view.
   <sup>
-   &#9733 30, pushed 235 days ago
+   &#9733 30, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -7766,20 +9723,7 @@ orange_diamond:
   </a>
   - Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.
   <sup>
-   &#9733 112, pushed 16 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kciter/KCSelectionDialog">
-   KCSelectionDialog
-  </a>
-  - Simple selection dialog. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 32, pushed 35 days ago
+   &#9733 112, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -7788,7 +9732,7 @@ orange_diamond:
   </a>
   - UICollectionViewLayout with focused content.
   <sup>
-   &#9733 1147, pushed 11 days ago
+   &#9733 1147, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -7801,7 +9745,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 632, pushed 100 days ago
+   &#9733 632, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -7816,7 +9760,7 @@ orange_diamond:
   </a>
   - Simple horizontal progress bar with animation
   <sup>
-   &#9733 80, pushed 187 days ago
+   &#9733 80, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -7825,7 +9769,7 @@ orange_diamond:
   </a>
   - UISplitViewController with adaptative layouts
   <sup>
-   &#9733 20, pushed 134 days ago
+   &#9733 20, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -7838,7 +9782,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1243, pushed 86 days ago
+   &#9733 1243, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -7851,7 +9795,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 595, pushed 7 days ago
+   &#9733 595, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -7864,7 +9808,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 375, pushed 6 days ago
+   &#9733 375, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -7881,7 +9825,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 398, pushed 26 days ago
+   &#9733 398, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -7890,7 +9834,7 @@ orange_diamond:
   </a>
   - A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right.
   <sup>
-   &#9733 3466, pushed 32 days ago
+   &#9733 3466, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -7903,7 +9847,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2114, pushed 4 days ago
+   &#9733 2114, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -7916,16 +9860,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 960, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rob-nash/FooterPull">
-   FooterPull
-  </a>
-  - Add paging to your table views with a cool animation.
-  <sup>
-   &#9733 17, pushed 43 days ago
+   &#9733 960, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -7938,7 +9873,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 22, pushed 110 days ago
+   &#9733 22, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -7951,7 +9886,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 38, pushed 224 days ago
+   &#9733 38, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -7960,33 +9895,7 @@ orange_diamond:
   </a>
   - Curry is a framework built to enhance and compliment Foundation and UIKit.
   <sup>
-   &#9733 11, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MoZhouqi/KMNavigationBarTransition">
-   KMNavigationBarTransition
-  </a>
-  - A drop-in universal library makes transition animations smooth between different navigation bar styles while pushing or popping a view controller. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 1122, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lkzhao/ElasticTransition">
-   ElasticTransition
-  </a>
-  - A UIKit custom transition that simulates an elastic drag. Written in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 1044, pushed 33 days ago
+   &#9733 11, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -7999,20 +9908,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 214, pushed 74 days ago
+   &#9733 214, pushed 199 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Karumi/BothamUI">
    BothamUI
   </a>
-  - Model View Presenter Framework written in Swift. http://karumi.com :large
+  - Model View Presenter Framework written in Swift. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 230, pushed 7 days ago
+   &#9733 230, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8025,7 +9934,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 414, pushed 125 days ago
+   &#9733 414, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -8038,7 +9947,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 68, pushed 21 days ago
+   &#9733 68, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -8047,16 +9956,7 @@ orange_diamond:
   </a>
   - GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide.
   <sup>
-   &#9733 16, pushed 56 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/muukii/NextGrowingTextView">
-   NextGrowingTextView
-  </a>
-  - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
-  <sup>
-   &#9733 542, pushed 3 days ago
+   &#9733 16, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -8069,7 +9969,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 25, pushed 108 days ago
+   &#9733 25, pushed 232 days ago
   </sup>
  </li>
  <li>
@@ -8078,7 +9978,7 @@ orange_diamond:
   </a>
   - UIView that simulates a 2D view of a fluid in motion
   <sup>
-   &#9733 1016, pushed 43 days ago
+   &#9733 1016, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -8087,20 +9987,7 @@ orange_diamond:
   </a>
   - :hammer: Showing status for switching between viewControllers
   <sup>
-   &#9733 407, pushed 133 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/DianQK/TransitionTreasury">
-   TransitionTreasury
-  </a>
-  - Easier way to push your viewController. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 1311, pushed 2 days ago
+   &#9733 407, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -8113,33 +10000,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 13, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mustafaibrahim989/MIBadgeButton-Swift">
-   MIBadgeButton
-  </a>
-  - Notification badge for UIButtons. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 116, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/matbeich/StickyCollectionView-Swift">
-   StickyCollectionView-Swift
-  </a>
-  - UICollectionView layout for presenting of the overlapping cells. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 65, pushed 89 days ago
+   &#9733 13, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -8148,7 +10009,7 @@ orange_diamond:
   </a>
   - This is an advanced navigation control center on iOS that can allow you to navigate to whichever view controller you want
   <sup>
-   &#9733 328, pushed 68 days ago
+   &#9733 328, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -8157,7 +10018,7 @@ orange_diamond:
   </a>
   - :clipboard: An iOS native implementation of a Trello Animated Navagation.
   <sup>
-   &#9733 610, pushed 82 days ago
+   &#9733 610, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -8166,7 +10027,7 @@ orange_diamond:
   </a>
   - UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
   <sup>
-   &#9733 4217, pushed 28 days ago
+   &#9733 4217, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -8175,7 +10036,7 @@ orange_diamond:
   </a>
   - A tiny category on UIView that allows you to set one property: "parallaxIntensity" to achieve a parallax effect with UIMotionEffect
   <sup>
-   &#9733 648, pushed 298 days ago
+   &#9733 648, pushed 423 days ago
   </sup>
  </li>
  <li>
@@ -8188,7 +10049,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 276, pushed 77 days ago
+   &#9733 276, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -8197,7 +10058,7 @@ orange_diamond:
   </a>
   - A CocoaPod that simplifies creation of the particle effects
   <sup>
-   &#9733 320, pushed 46 days ago
+   &#9733 320, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -8210,7 +10071,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 341, pushed 3 days ago
+   &#9733 341, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -8219,20 +10080,7 @@ orange_diamond:
   </a>
   - Easy access to iOS address book
   <sup>
-   &#9733 1167, pushed 97 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/JellyDevelopment/JDSlider">
-   JDSlider
-  </a>
-  - An iOS Slider written in Swift. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 25, pushed 25 days ago
+   &#9733 1167, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -8245,7 +10093,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 31, pushed 75 days ago
+   &#9733 31, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -8254,7 +10102,7 @@ orange_diamond:
   </a>
   - Full aspect ratio grid layout for iOS
   <sup>
-   &#9733 674, pushed 12 days ago
+   &#9733 674, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -8267,7 +10115,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 137, pushed 37 days ago
+   &#9733 137, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -8276,7 +10124,7 @@ orange_diamond:
   </a>
   - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
   <sup>
-   &#9733 26, pushed 57 days ago
+   &#9733 26, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -8289,7 +10137,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3760, pushed 11 days ago
+   &#9733 3760, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -8302,7 +10150,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1125, pushed 19 days ago
+   &#9733 1125, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -8315,33 +10163,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 272, pushed 33 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rehatkathuria/SnappingSlider">
-   SnappingSlider
-  </a>
-  - A beautiful slider control for iOS built purely upon Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 467, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fruitcoder/ReplaceAnimation">
-   ReplaceAnimation
-  </a>
-  - UICollectionView with a sticky header flow layout, written in Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 565, pushed 18 days ago
+   &#9733 272, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -8350,7 +10172,7 @@ orange_diamond:
   </a>
   - Backwards-compatible Peek and Pop.
   <sup>
-   &#9733 1392, pushed 4 days ago
+   &#9733 1392, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -8359,7 +10181,7 @@ orange_diamond:
   </a>
   - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 🔶
   <sup>
-   &#9733 34, pushed 39 days ago
+   &#9733 34, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -8372,7 +10194,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 100, pushed 6 days ago
+   &#9733 100, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -8381,20 +10203,7 @@ orange_diamond:
   </a>
   - [iOS] Stop using context menus. Drag and drop instead, even between apps!
   <sup>
-   &#9733 616, pushed 34 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/szk-atmosphere/URLEmbeddedView">
-   URLEmbeddedView
-  </a>
-  - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 235, pushed 18 days ago
+   &#9733 616, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -8407,7 +10216,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 8, pushed 177 days ago
+   &#9733 8, pushed 301 days ago
   </sup>
  </li>
  <li>
@@ -8420,7 +10229,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 177, pushed 191 days ago
+   &#9733 177, pushed 316 days ago
   </sup>
  </li>
  <li>
@@ -8433,20 +10242,338 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 22, pushed 12 days ago
+   &#9733 22, pushed 136 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Yalantis/DisplaySwitcher">
-   DisplaySwitcher
+  <a href="https://github.com/wangshengjia/LeeGo">
+   LeeGo
   </a>
-  - Custom transition between two collection view layouts :large
+  - Declarative, configurable & highly reusable UI development as making Lego bricks. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/manuelescrig/MEVHorizontalContacts">
+   MEVHorizontalContacts
+  </a>
+  - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable menu items.
+ </li>
+ <li>
+  <a href="https://github.com/RamonGilabert/Ripple">
+   Ripple
+  </a>
+  - Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/kronik/ScalePicker">
+   ScalePicker
+  </a>
+  - Generic scale and a handy float-value picker for any iOS app
+ </li>
+ <li>
+  <a href="https://github.com/efremidze/VisualEffectView">
+   VisualEffectView
+  </a>
+  - UIVisualEffectView subclass with tint color. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/efremidze/NumPad">
+   NumPad
+  </a>
+  - Number Pad (inspired by Square's design). :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Ramotion/expanding-collection">
+   expanding-collection
+  </a>
+  - ExpandingCollection is a card peek/pop controller :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/PureSwift/Cacao">
+   Cacao
+  </a>
+  - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/awesome-labs/LFTimePicker">
+   LFTimePicker
+  </a>
+  - Custom Time Picker ViewController with Selection of start and end times in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/sahandnayebaziz/StateView">
+   StateView
+  </a>
+  - Views that automatically update themselves. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jaydee3/JDFlipNumberView">
+   JDFlipNumberView
+  </a>
+  - Representing analog flip numbers like airport/trainstation displays.
+ </li>
+ <li>
+  <a href="https://github.com/josejuanqm/JQSwiftIcon">
+   JQSwiftIcon
+  </a>
+  - Icon Fonts on iOS using string interpolation written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jakelawson1/FlickToDismiss">
+   FlickToDismiss
+  </a>
+  - A basic UIViewController class that presents a UIView which can be dismissed by flicking it off the screen. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/instant-solutions/ISTimeline">
+   ISTimeline
+  </a>
+  - Simple timeline view written in Swift 2.2 :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/atljeremy/JFCardSelectionViewController">
+   JFCardSelectionViewController
+  </a>
+  - A fancy collection style view controller :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/andrew8712/DCKit">
+   DCKit
+  </a>
+  - Set of
+  <code>
+   @IBDesignable
+  </code>
+  iOS controls, which have useful
+  <code>
+   @IBInspectable
+  </code>
+  properties (border width and color, corner radius and much more) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Guzlan/BackgroundVideoiOS">
+   BackgroundVideoiOS
+  </a>
+  - A swift and objective-C object that lets you add a background video to iOS views :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Draveness/NightNight">
+   NightNight
+  </a>
+  - Elegant way to integrate night mode to swift projects :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jiecao-fm/SwiftTheme">
+   SwiftTheme
+  </a>
+  - Powerful theme/skin manager for iOS 7+ :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Lickability/PinpointKit">
+   PinpointKit
+  </a>
+  - Let your testers and users send feedback with annotated screenshots and logs using a simple gesture. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/forkingdog/FDStackView">
+   FDStackView
+  </a>
+  - Use UIStackView directly in iOS6+
+ </li>
+ <li>
+  <a href="https://github.com/corin8823/Popover">
+   Popover
+  </a>
+  - Popover is a balloon library like Facebook app :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/yahoo/YangMingShan">
+   YangMingShan
+  </a>
+  - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
+ </li>
+ <li>
+  <a href="https://github.com/TimOliver/TOActionSheet">
+   TOActionSheet
+  </a>
+  - A custom-designed reimplementation of the UIActionSheet control for iOS
+ </li>
+ <li>
+  <a href="https://github.com/awesome-labs/LFLoginController">
+   LFLoginController
+  </a>
+  - Customizable login screen, written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/tombenner/nui">
+   nui
+  </a>
+  - Style iOS apps with a stylesheet, similar to CSS
+ </li>
+ <li>
+  <a href="http://www.redbeard.io/">
+   RedBeard
+  </a>
+  - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
+ </li>
+ <li>
+  <a href="https://github.com/CosmicMind/Material">
+   Material
+  </a>
+  - Material is an animation and graphics framework that allows developers to easily create beautiful applications. :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 777, pushed 18 days ago
+   &#9733 5014, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/FlexMonkey/Blurable">
+   Blurable
+  </a>
+  - Apply a Gaussian Blur to any UIView with Swift Protocol Extensions :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 602, pushed 342 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/shashankpali/EZYGradientView">
+   EZYGradientView
+  </a>
+  - Create gradients and blur gradients without a single line of code :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/qmathe/DistancePicker">
+   DistancePicker
+  </a>
+  - Custom control to select a distance with a pan gesture, written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/oarrabi/OAStackView">
+   OAStackView
+  </a>
+  - OAStackView tries to port back the stackview to iOS 7+. OAStackView aims at replicating all the features in UIStackView.
+ </li>
+ <li>
+  <a href="https://github.com/146BC/StyleKit">
+   StyleKit
+  </a>
+  - StyleKit is a microframework that enables you to style your applications using a simple JSON file. Behind the scenes, StyleKit uses UIAppearance and some selector magic to apply the styles. You can also customize the parser for greater flexibility. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/kwallet/planet">
+   planet
+  </a>
+  - A country picker :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/hirohisa/PageController">
+   PageController
+  </a>
+  - Infinite paging controller, scrolling through contents and title bar scrolls with a delay. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 119, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -8464,7 +10591,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2920, pushed 18 days ago
+   &#9733 2920, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -8477,7 +10604,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 773, pushed 130 days ago
+   &#9733 773, pushed 255 days ago
   </sup>
  </li>
  <li>
@@ -8490,7 +10617,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 115, pushed 202 days ago
+   &#9733 115, pushed 327 days ago
   </sup>
  </li>
  <li>
@@ -8503,7 +10630,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 644, pushed 77 days ago
+   &#9733 644, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -8516,7 +10643,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 240, pushed 22 days ago
+   &#9733 240, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -8525,7 +10652,7 @@ orange_diamond:
   </a>
   - iOS Circle Progress Bar
   <sup>
-   &#9733 209, pushed 22 days ago
+   &#9733 209, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -8538,7 +10665,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 11, pushed 149 days ago
+   &#9733 11, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -8551,7 +10678,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 93, pushed 70 days ago
+   &#9733 93, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -8564,7 +10691,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 16, pushed 21 days ago
+   &#9733 16, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -8573,7 +10700,7 @@ orange_diamond:
   </a>
   - iOS 7 radial animated progress view.
   <sup>
-   &#9733 67, pushed 81 days ago
+   &#9733 67, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -8582,7 +10709,7 @@ orange_diamond:
   </a>
   - Amazing animated switch activity indicator written in swift
   <sup>
-   &#9733 67, pushed 78 days ago
+   &#9733 67, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -8591,7 +10718,7 @@ orange_diamond:
   </a>
   - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
   <sup>
-   &#9733 10917, pushed 17 days ago
+   &#9733 10917, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8600,7 +10727,7 @@ orange_diamond:
   </a>
   - A clean and lightweight progress HUD for your iOS app.
   <sup>
-   &#9733 7724, pushed 5 days ago
+   &#9733 7724, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -8609,7 +10736,7 @@ orange_diamond:
   </a>
   - ProgressHUD is a lightweight and easy-to-use HUD.
   <sup>
-   &#9733 744, pushed 57 days ago
+   &#9733 744, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -8618,7 +10745,7 @@ orange_diamond:
   </a>
   - A suite containing many tools to display progress information on iOS.
   <sup>
-   &#9733 2772, pushed 50 days ago
+   &#9733 2772, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -8631,7 +10758,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 64, pushed 292 days ago
+   &#9733 64, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -8644,7 +10771,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1324, pushed 4 days ago
+   &#9733 1324, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -8657,7 +10784,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 354, pushed 7 days ago
+   &#9733 354, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8666,7 +10793,7 @@ orange_diamond:
   </a>
   - FFCircularProgressView - An iOS 7-inspired blue circular progress view
   <sup>
-   &#9733 923, pushed 98 days ago
+   &#9733 923, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -8675,7 +10802,7 @@ orange_diamond:
   </a>
   - Collection of iOS drop-in components to visualize progress
   <sup>
-   &#9733 2243, pushed 80 days ago
+   &#9733 2243, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -8688,7 +10815,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 410, pushed 5 days ago
+   &#9733 410, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -8701,7 +10828,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 143, pushed 26 days ago
+   &#9733 143, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -8714,7 +10841,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 329, pushed 27 days ago
+   &#9733 329, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -8723,7 +10850,7 @@ orange_diamond:
   </a>
   - DACircularProgress is a UIView subclass with circular UIProgressView properties.
   <sup>
-   &#9733 1743, pushed 85 days ago
+   &#9733 1743, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -8736,7 +10863,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 108, pushed 113 days ago
+   &#9733 108, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -8749,7 +10876,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 437, pushed 81 days ago
+   &#9733 437, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -8758,7 +10885,7 @@ orange_diamond:
   </a>
   - A progress interface library for UIWebView. You can implement progress bar for your in-app browser using this module.
   <sup>
-   &#9733 2691, pushed 12 days ago
+   &#9733 2691, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -8767,7 +10894,7 @@ orange_diamond:
   </a>
   - A beautiful ring/circular progress view similar to Activity app on Apple Watch, written in Swift. 🔶
   <sup>
-   &#9733 297, pushed 24 days ago
+   &#9733 297, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -8776,7 +10903,7 @@ orange_diamond:
   </a>
   - A new way to display content in your app like the Apple Watch SpringBoard, written in Swift. 🔶
   <sup>
-   &#9733 98, pushed 2 days ago
+   &#9733 98, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -8789,8 +10916,79 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 280, pushed 4 days ago
+   &#9733 280, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/BalestraPatrick/ParticlesLoadingView">
+   ParticlesLoadingView
+  </a>
+  - A customizable SpriteKit particles animation on the border of a view. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/iwasrobbed/RPCircularProgress">
+   RPCircularProgress
+  </a>
+  - Circular progress UIView subclass with UIProgressView properties :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/MatiBot/MBCircularProgressBar">
+   MBCircularProgressBar
+  </a>
+  -  A circular, animatable & highly customizable progress bar, editable from the Interface Builder using IBDesignable.
+ </li>
+ <li>
+  <a href="https://github.com/devSC/WSProgressHUD">
+   WSProgressHUD
+  </a>
+  - This is a beauful hud view for iPhone & iPad
+ </li>
+ <li>
+  <a href="https://github.com/dabing1022/DBMetaballLoading">
+   DBMetaballLoading
+  </a>
+  - A metaball loading written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/poolqf/FillableLoaders">
+   FillableLoaders
+  </a>
+  - Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1278, pushed 150 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Liquicit/LilithProgressHUD">
+   LilithProgressHUD
+  </a>
+  - A elegant and simple progress hud, written in Swift. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/popwarsweet/PageControls">
+   PageControls
+  </a>
+  - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -8803,7 +11001,7 @@ orange_diamond:
   </a>
   - Simple and intuitive alert view. Similar to push notification effect.
   <sup>
-   &#9733 654, pushed 363 days ago
+   &#9733 654, pushed 488 days ago
   </sup>
  </li>
  <li>
@@ -8812,7 +11010,7 @@ orange_diamond:
   </a>
   - A cool AlertView.
   <sup>
-   &#9733 1173, pushed 83 days ago
+   &#9733 1173, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -8825,7 +11023,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1176, pushed 56 days ago
+   &#9733 1176, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -8834,7 +11032,7 @@ orange_diamond:
   </a>
   - Highly configurable iOS Alert Views with custom content views.
   <sup>
-   &#9733 363, pushed 95 days ago
+   &#9733 363, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -8847,7 +11045,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2594, pushed 3 days ago
+   &#9733 2594, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -8860,7 +11058,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 49, pushed 16 days ago
+   &#9733 49, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -8869,7 +11067,7 @@ orange_diamond:
   </a>
   - Show notification views on top of screen such as success, error, warning or messages for iOS.
   <sup>
-   &#9733 4369, pushed 11 days ago
+   &#9733 4369, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -8878,7 +11076,7 @@ orange_diamond:
   </a>
   - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility.
   <sup>
-   &#9733 4, pushed 303 days ago
+   &#9733 4, pushed 427 days ago
   </sup>
  </li>
  <li>
@@ -8891,7 +11089,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 607, pushed 40 days ago
+   &#9733 607, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -8904,7 +11102,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 543, pushed 4 days ago
+   &#9733 543, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -8917,7 +11115,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 121, pushed 13 days ago
+   &#9733 121, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -8930,7 +11128,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 93, pushed 18 days ago
+   &#9733 93, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -8939,7 +11137,7 @@ orange_diamond:
   </a>
   - Emulates the native Notification Banner UI for any alert.
   <sup>
-   &#9733 180, pushed 166 days ago
+   &#9733 180, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -8948,7 +11146,7 @@ orange_diamond:
   </a>
   - Easy, customizable notifications displayed on top of the statusbar.
   <sup>
-   &#9733 2471, pushed 14 days ago
+   &#9733 2471, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -8961,7 +11159,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 38, pushed 26 days ago
+   &#9733 38, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -8974,7 +11172,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 197, pushed 33 days ago
+   &#9733 197, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -8987,7 +11185,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 49, pushed 158 days ago
+   &#9733 49, pushed 283 days ago
   </sup>
  </li>
  <li>
@@ -9000,7 +11198,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 78, pushed 28 days ago
+   &#9733 78, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -9013,7 +11211,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 14, pushed 36 days ago
+   &#9733 14, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -9026,7 +11224,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 22, pushed 120 days ago
+   &#9733 22, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -9035,7 +11233,7 @@ orange_diamond:
   </a>
   - A picker view shown as a popup for iOS.
   <sup>
-   &#9733 317, pushed 18 days ago
+   &#9733 317, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -9044,7 +11242,7 @@ orange_diamond:
   </a>
   - Extremely simple UIAlertView alternative.
   <sup>
-   &#9733 1076, pushed 55 days ago
+   &#9733 1076, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -9057,7 +11255,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 302, pushed 102 days ago
+   &#9733 302, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -9070,7 +11268,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1744, pushed 12 days ago
+   &#9733 1744, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -9083,7 +11281,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 202, pushed 207 days ago
+   &#9733 202, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -9096,7 +11294,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 280, pushed 11 days ago
+   &#9733 280, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -9109,7 +11307,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 321, pushed 41 days ago
+   &#9733 321, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -9122,7 +11320,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 291, pushed 7 days ago
+   &#9733 291, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -9135,7 +11333,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 374, pushed 64 days ago
+   &#9733 374, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -9148,7 +11346,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 34, pushed 1 days ago
+   &#9733 34, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -9161,7 +11359,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 227, pushed 47 days ago
+   &#9733 227, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -9174,8 +11372,148 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 75, pushed 11 days ago
+   &#9733 75, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/scalessec/Toast-Swift">
+   Toast-Swift
+  </a>
+  - A Swift extension that adds toast notifications to the UIView object class. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Codeido/PMAlertController">
+   PMAlertController
+  </a>
+  - PMAlertController is a great and customizable substitute to UIAlertController. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/dimillian/PopupViewController">
+   PopupViewController
+  </a>
+  - UIAlertController drop in replacement with much more customization. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/PhilippeBoisney/AlertViewLoveNotification">
+   AlertViewLoveNotification
+  </a>
+  - A simple and attractive AlertView to ask permission to your users for Push Notification. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/cruffenach/CRToast">
+   CRToast
+  </a>
+  - A modern iOS toast view that can fit your notification needs
+ </li>
+ <li>
+  <a href="https://github.com/devxoul/JLToast">
+   JLToast
+  </a>
+  - Toast for iOS with very simple interface. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 465, pushed 145 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/singcodes/CuckooAlert">
+   CuckooAlert
+  </a>
+  - Multiple use of presentViewController for UIAlertController. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/krimpedance/KRAlertController">
+   KRAlertController
+  </a>
+  - A colored alert view for your iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/marketplacer/Dodo">
+   Dodo
+  </a>
+  - A message bar for iOS written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 600, pushed 156 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ntnhon/MaterialActionSheetController">
+   MaterialActionSheetController
+  </a>
+  - A Google like action sheet for iOS written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/SwiftKickMobile/SwiftMessages">
+   SwiftMessages
+  </a>
+  - A very flexible message bar for iOS written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Badge
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/mustafaibrahim989/MIBadgeButton-Swift">
+   MIBadgeButton
+  </a>
+  - Notification badge for UIButtons. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 116, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Minitour/EasyNotificationBadge">
+   EasyNotificationBadge
+  </a>
+  - UIView extension that adds a notification badge. :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/gemr/Sheriff">
+   Sheriff
+  </a>
+  - Add badges to anything.
+ </li>
+ <li>
+  <a href="https://github.com/marketplacer/swift-badge">
+   swift-badge
+  </a>
+  - Badge view for iOS written in swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -9188,7 +11526,7 @@ orange_diamond:
   </a>
   - iOS7-style bouncy button UI component.
   <sup>
-   &#9733 251, pushed 11 days ago
+   &#9733 251, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -9201,7 +11539,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2135, pushed 20 days ago
+   &#9733 2135, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -9214,7 +11552,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 23, pushed 288 days ago
+   &#9733 23, pushed 413 days ago
   </sup>
  </li>
  <li>
@@ -9227,7 +11565,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 11, pushed 104 days ago
+   &#9733 11, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -9236,17 +11574,14 @@ orange_diamond:
   </a>
   - Flat button with 9 different states animated using Facebook POP.
   <sup>
-   &#9733 2343, pushed 80 days ago
+   &#9733 2343, pushed 205 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/herinkc/HTPressableButton">
+  <a href="https://github.com/Famolus/HTPressableButton">
    HTPressableButton
   </a>
   - Flat design pressable button.
-  <sup>
-   &#9733 724, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/yoavlt/LiquidFloatingActionButton">
@@ -9254,7 +11589,7 @@ orange_diamond:
   </a>
   - Material Design Floating Action Button in liquid state
   <sup>
-   &#9733 2277, pushed 28 days ago
+   &#9733 2277, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -9263,7 +11598,7 @@ orange_diamond:
   </a>
   - An UIButton-based view with fade in/out animation features.
   <sup>
-   &#9733 91, pushed 216 days ago
+   &#9733 91, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -9276,7 +11611,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 132, pushed 26 days ago
+   &#9733 132, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -9289,7 +11624,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 96, pushed 187 days ago
+   &#9733 96, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -9302,7 +11637,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 716, pushed 43 days ago
+   &#9733 716, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -9315,7 +11650,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 84, pushed 141 days ago
+   &#9733 84, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -9328,7 +11663,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 37, pushed 42 days ago
+   &#9733 37, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -9337,7 +11672,7 @@ orange_diamond:
   </a>
   - A Floating Action Button just like Google inbox for iOS
   <sup>
-   &#9733 209, pushed 235 days ago
+   &#9733 209, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -9350,7 +11685,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 120, pushed 92 days ago
+   &#9733 120, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -9359,7 +11694,7 @@ orange_diamond:
   </a>
   - UIButton Inspired by Apple’s download progress buttons in the app store
   <sup>
-   &#9733 408, pushed 27 days ago
+   &#9733 408, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -9372,7 +11707,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1077, pushed 169 days ago
+   &#9733 1077, pushed 293 days ago
   </sup>
  </li>
  <li>
@@ -9385,7 +11720,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 74, pushed 76 days ago
+   &#9733 74, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -9398,7 +11733,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 136, pushed 31 days ago
+   &#9733 136, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -9407,7 +11742,7 @@ orange_diamond:
   </a>
   - Custom button that opens a popover with more buttons, similar to the new 'Like' button of Facebook
   <sup>
-   &#9733 12, pushed 26 days ago
+   &#9733 12, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -9420,7 +11755,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 27, pushed 60 days ago
+   &#9733 27, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -9433,7 +11768,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 588, pushed 1 days ago
+   &#9733 588, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -9446,7 +11781,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 187, pushed 0 days ago
+   &#9733 187, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -9464,7 +11799,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1720, pushed 31 days ago
+   &#9733 1720, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -9473,7 +11808,7 @@ orange_diamond:
   </a>
   - iOS 7+ Calendar with Infinite Scrolling.
   <sup>
-   &#9733 653, pushed 16 days ago
+   &#9733 653, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -9486,20 +11821,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 42, pushed 55 days ago
+   &#9733 42, pushed 180 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/WenchaoD/FSCalendar">
    FSCalendar
   </a>
-  - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 https://www.cocoacontrols.com/controls/fscalendar :large
+  - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 :large
   <em>
    orange
   </em>
   diamond:
   <sup>
-   &#9733 1280, pushed 5 days ago
+   &#9733 1280, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -9508,7 +11843,7 @@ orange_diamond:
   </a>
   - A fully customizable calendar view acting as a date range picker
   <sup>
-   &#9733 641, pushed 196 days ago
+   &#9733 641, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -9517,12 +11852,44 @@ orange_diamond:
   </a>
   - A customizable calendar view for iOS.
   <sup>
-   &#9733 1797, pushed 45 days ago
+   &#9733 1797, pushed 170 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/patchthecode/JTAppleCalendar">
+   JTAppleCalendar
+  </a>
+  - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/unixzii/Daysquare">
+   Daysquare
+  </a>
+  - An elegant calendar control for iOS.
+ </li>
+ <li>
+  <a href="https://github.com/scamps88/ASCalendar">
+   ASCalendar
+  </a>
+  - A calendar control for iOS written in swift with mvvm pattern :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jumartin/Calendar">
+   Calendar
+  </a>
+  - A set of views and controllers for displaying and scheduling events on iOS
  </li>
 </ul>
 <h5>
- Form
+ Form & Settings
 </h5>
 <ul>
  <li>
@@ -9531,7 +11898,7 @@ orange_diamond:
   </a>
   - The most flexible and powerful way to build a form on iOS
   <sup>
-   &#9733 1335, pushed 11 days ago
+   &#9733 1335, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -9540,7 +11907,7 @@ orange_diamond:
   </a>
   - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
   <sup>
-   &#9733 3544, pushed 4 days ago
+   &#9733 3544, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -9553,7 +11920,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3057, pushed 1 days ago
+   &#9733 3057, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -9562,7 +11929,7 @@ orange_diamond:
   </a>
   - Custom Field component with validation for creating easier form-like UI from interface builder.
   <sup>
-   &#9733 322, pushed 183 days ago
+   &#9733 322, pushed 308 days ago
   </sup>
  </li>
  <li>
@@ -9575,7 +11942,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 592, pushed 12 days ago
+   &#9733 592, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -9588,7 +11955,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 883, pushed 1 days ago
+   &#9733 883, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -9597,7 +11964,58 @@ orange_diamond:
   </a>
   - Codeless solution for form validation in iOS!
   <sup>
-   &#9733 23, pushed 13 days ago
+   &#9733 23, pushed 138 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/seedco/Formalist">
+   Formalist
+  </a>
+  - Declarative form building framework for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/neoneye/SwiftyFORM">
+   SwiftyFORM
+  </a>
+  - Framework for creating forms with validation rules :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 369, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nicklockwood/FXForms">
+   FXForms
+  </a>
+  - FXForms is an Objective-C library for easily creating table-based forms on iOS. It is ideal for settings pages, or user data entry tasks.
+ </li>
+ <li>
+  <a href="https://github.com/jpotts18/SwiftValidator">
+   SwiftValidator
+  </a>
+  - A rule-based validation library for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 574, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/m1entus/MZFormSheetPresentationController">
+   MZFormSheetPresentationController
+  </a>
+  - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
+  <sup>
+   &#9733 484, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -9611,7 +12029,7 @@ orange_diamond:
   </a>
   - Showing / dismissing keyboard animation in simple UIViewController category.
   <sup>
-   &#9733 11, pushed 166 days ago
+   &#9733 11, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -9620,7 +12038,7 @@ orange_diamond:
   </a>
   - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
   <sup>
-   &#9733 355, pushed 494 days ago
+   &#9733 355, pushed 619 days ago
   </sup>
  </li>
  <li>
@@ -9629,7 +12047,7 @@ orange_diamond:
   </a>
   - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
   <sup>
-   &#9733 5351, pushed 11 days ago
+   &#9733 5351, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -9638,7 +12056,7 @@ orange_diamond:
   </a>
   - Objective-C library for tracking keyboard in iOS apps.
   <sup>
-   &#9733 689, pushed 81 days ago
+   &#9733 689, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -9647,7 +12065,7 @@ orange_diamond:
   </a>
   - A simple keyboard to use with numbers and, optionally, a decimal point.
   <sup>
-   &#9733 692, pushed 34 days ago
+   &#9733 692, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -9660,7 +12078,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 50, pushed 27 days ago
+   &#9733 50, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -9669,7 +12087,7 @@ orange_diamond:
   </a>
   - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
   <sup>
-   &#9733 4387, pushed 19 days ago
+   &#9733 4387, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -9678,7 +12096,7 @@ orange_diamond:
   </a>
   - iOS utility class allows you to access keyboard view and track keyboard animation.
   <sup>
-   &#9733 222, pushed 49 days ago
+   &#9733 222, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -9691,8 +12109,14 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 246, pushed 36 days ago
+   &#9733 246, pushed 161 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/makemoji/MakemojiSDK">
+   MakemojiSDK
+  </a>
+  - Emoji Keyboard SDK (iOS)
  </li>
 </ul>
 <h5>
@@ -9709,7 +12133,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4269, pushed 40 days ago
+   &#9733 4269, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -9722,7 +12146,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 946, pushed 2 days ago
+   &#9733 946, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -9731,7 +12155,7 @@ orange_diamond:
   </a>
   - A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.
   <sup>
-   &#9733 947, pushed 172 days ago
+   &#9733 947, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -9744,7 +12168,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 43, pushed 23 days ago
+   &#9733 43, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -9757,7 +12181,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 11, pushed 9 days ago
+   &#9733 11, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -9766,7 +12190,7 @@ orange_diamond:
   </a>
   - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
   <sup>
-   &#9733 5929, pushed 4 days ago
+   &#9733 5929, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -9779,7 +12203,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 830, pushed 15 days ago
+   &#9733 830, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -9792,8 +12216,58 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 420, pushed 3 days ago
+   &#9733 420, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tomknig/TOMSMorphingLabel">
+   TOMSMorphingLabel
+  </a>
+  - Configurable morphing transitions between text values of a label.
+ </li>
+ <li>
+  <a href="https://github.com/tobihagemann/THLabel">
+   THLabel
+  </a>
+  - UILabel subclass, which additionally allows shadow blur, inner shadow, stroke text and fill gradient.
+ </li>
+ <li>
+  <a href="https://github.com/zipme/RQShineLabel">
+   RQShineLabel
+  </a>
+  - Secret app like text animation
+ </li>
+ <li>
+  <a href="https://github.com/overboming/ZCAnimatedLabel">
+   ZCAnimatedLabel
+  </a>
+  - UILabel replacement with fine-grain appear/disappear animation
+ </li>
+ <li>
+  <a href="https://github.com/mukeshthawani/TriLabelView">
+   TriLabelView
+  </a>
+  - A triangle shaped corner label view for iOS written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/Preloader.Ophiuchus">
+   Preloader.Ophiuchus
+  </a>
+  - Custom Label to apply animations on whole text or letters.
+ </li>
+ <li>
+  <a href="https://github.com/recruit-mtl/MTLLinkLabel">
+   MTLLinkLabel
+  </a>
+  - MTLLinkLabel is linkable UILabel. Written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -9810,7 +12284,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1463, pushed 21 days ago
+   &#9733 1463, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -9819,7 +12293,7 @@ orange_diamond:
   </a>
   - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
   <sup>
-   &#9733 6021, pushed 20 days ago
+   &#9733 6021, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -9832,7 +12306,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 449, pushed 13 days ago
+   &#9733 449, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -9845,7 +12319,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 946, pushed 1 days ago
+   &#9733 946, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -9858,7 +12332,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 222, pushed 29 days ago
+   &#9733 222, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -9871,7 +12345,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 357, pushed 25 days ago
+   &#9733 357, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -9880,7 +12354,7 @@ orange_diamond:
   </a>
   - Context menu similar to the one in the Pinterest iOS app
   <sup>
-   &#9733 133, pushed 217 days ago
+   &#9733 133, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -9893,7 +12367,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2002, pushed 16 days ago
+   &#9733 2002, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -9906,20 +12380,16 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 215, pushed 1 days ago
+   &#9733 215, pushed 125 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/hossamghareeb/SwiftySideMenu">
    SwiftySideMenu
   </a>
-  - a lightweight, fully customizable side menu for iOS inspired from
-  <a href="https://itunes.apple.com/us/app/timeline-news-in-context/id948867534?mt=8&ign-mpt=uo%3D4">
-   TimeLine app
-  </a>
-  . Built with spring animations using Facebook Pop.
+  - SwiftySideMenu is a lightweight and easy to use side menu controller to add left menu and center view controllers with scale animation based on Pop framework.
   <sup>
-   &#9733 56, pushed 251 days ago
+   &#9733 56, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -9928,7 +12398,7 @@ orange_diamond:
   </a>
   - This is a spring slide menu for iOS apps
   <sup>
-   &#9733 342, pushed 155 days ago
+   &#9733 342, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -9941,7 +12411,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 20, pushed 197 days ago
+   &#9733 20, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -9954,7 +12424,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 268, pushed 42 days ago
+   &#9733 268, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -9967,7 +12437,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1416, pushed 5 days ago
+   &#9733 1416, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -9980,7 +12450,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 18, pushed 25 days ago
+   &#9733 18, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -9993,7 +12463,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 90, pushed 15 days ago
+   &#9733 90, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -10006,7 +12476,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1288, pushed 27 days ago
+   &#9733 1288, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -10019,7 +12489,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1441, pushed 5 days ago
+   &#9733 1441, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -10032,7 +12502,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 113, pushed 6 days ago
+   &#9733 113, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -10041,7 +12511,7 @@ orange_diamond:
   </a>
   - slider view for choosing categories. add any UIView type as category item view. Fully customisable
   <sup>
-   &#9733 307, pushed 82 days ago
+   &#9733 307, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -10050,7 +12520,7 @@ orange_diamond:
   </a>
   - A Dropdown Menu for iOS with many customizable parameters to suit any needs.
   <sup>
-   &#9733 17, pushed 24 days ago
+   &#9733 17, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -10063,11 +12533,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 118, pushed 65 days ago
+   &#9733 118, pushed 190 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/HighBay/PageMenu">
+  <a href="https://github.com/uacaps/PageMenu">
    PageMenu
   </a>
   - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) :large
@@ -10075,9 +12545,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 2653, pushed 13 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/zsy78191/XXXRoundMenuButton">
@@ -10085,8 +12552,142 @@ orange_diamond:
   </a>
   - A simple circle style menu.
   <sup>
-   &#9733 156, pushed 14 days ago
+   &#9733 156, pushed 139 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sunilsharma08/IGCMenu">
+   IGCMenu
+  </a>
+  - Grid and Circular menu with animation.Easy to customise.
+ </li>
+ <li>
+  <a href="https://github.com/eejahromi/EEJSelectMenu">
+   EEJSelectMenu
+  </a>
+  - Single selection menu with cool animations, responsive with all screen sizes.
+ </li>
+ <li>
+  <a href="https://github.com/bestwnh/IGLDropDownMenu">
+   IGLDropDownMenu
+  </a>
+  - An iOS drop down menu with pretty animation and easy to customize.
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/Side-Menu.iOS">
+   Side-Menu.iOS
+  </a>
+  - Animated side menu with customizable UI :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/xhzengAIB/PopMenu">
+   PopMenu
+  </a>
+  - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
+ </li>
+ <li>
+  <a href="https://github.com/yannickl/FlowingMenu">
+   FlowingMenu
+  </a>
+  - Interactive view transition to display menus with flowing and bouncing effects in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/Persei">
+   Persei
+  </a>
+  - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 2004, pushed 277 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/AssistoLab/DropDown">
+   DropDown
+  </a>
+  - A Material Design drop down for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/KittenYang/KYGooeyMenu">
+   KYGooeyMenu
+  </a>
+  - A not bad gooey effects menu.
+ </li>
+ <li>
+  <a href="https://github.com/teodorpatras/SideMenuController">
+   SideMenuController
+  </a>
+  - A side menu controller written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/Context-Menu.iOS">
+   Context-Menu.iOS
+  </a>
+  - You can easily add awesome animated context menu to your app.
+ </li>
+ <li>
+  <a href="https://github.com/ViewDeck/ViewDeck">
+   ViewDeck
+  </a>
+  - An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
+ </li>
+ <li>
+  <a href="https://github.com/edekhayser/FrostedSidebar">
+   FrostedSidebar
+  </a>
+  - Hamburger Menu using Swift and iOS 8 API's :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 366, pushed 304 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Nightonke/VHBoomMenuButton">
+   VHBoomMenuButton
+  </a>
+  - A menu which can ... BOOM!
+ </li>
+ <li>
+  <a href="https://github.com/qmathe/DropDownMenuKit">
+   DropDownMenuKit
+  </a>
+  - A simple, modular and highly customizable UIKit menu, that can be attached to the navigation bar or toolbar, written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/anatoliyv/RevealMenuController">
+   RevealMenuController
+  </a>
+  - Expandable item groups, custom position and appearance animation. Similar to ActionSheet style. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -10099,7 +12700,7 @@ orange_diamond:
   </a>
   - A custom modal segue for providing a blurred overlay effect.
   <sup>
-   &#9733 866, pushed 82 days ago
+   &#9733 866, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -10112,7 +12713,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 409, pushed 113 days ago
+   &#9733 409, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -10125,7 +12726,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1865, pushed 43 days ago
+   &#9733 1865, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -10142,7 +12743,177 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 51, pushed 210 days ago
+   &#9733 51, pushed 335 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/recruit-mp/RMPZoomTransitionAnimator">
+   RMPZoomTransitionAnimator
+  </a>
+  - A custom zooming transition animation for UIViewController
+ </li>
+ <li>
+  <a href="https://github.com/lkzhao/ElasticTransition">
+   ElasticTransition
+  </a>
+  - A UIKit custom transition that simulates an elastic drag. Written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1044, pushed 157 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/taglia3/ElasticTransition-ObjC">
+   ElasticTransition-ObjC
+  </a>
+  - A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao
+ </li>
+ <li>
+  <a href="https://github.com/zoonooz/ZFDragableModalTransition">
+   ZFDragableModalTransition
+  </a>
+  - Custom animation transition for present modal view controller
+ </li>
+ <li>
+  <a href="https://github.com/mcmatan/ImageOpenTransition">
+   ImageOpenTransition
+  </a>
+  - Beautiful and precise transitions between ViewControllers images written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition">
+   ZOZolaZoomTransition
+  </a>
+  - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
+ </li>
+ <li>
+  <a href="https://github.com/jonathantribouharet/JTMaterialTransition">
+   JTMaterialTransition
+  </a>
+  - An iOS transition for controllers based on material design.
+ </li>
+ <li>
+  <a href="https://github.com/shu223/AnimatedTransitionGallery">
+   AnimatedTransitionGallery
+  </a>
+  - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
+  <sup>
+   &#9733 1713, pushed 220 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/DianQK/TransitionTreasury">
+   TransitionTreasury
+  </a>
+  - Easier way to push your viewController. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1311, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/muukii/Presenter">
+   Presenter
+  </a>
+  - Screen transition with safe and clean code.  :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/bannzai/Kaeru">
+   Kaeru
+  </a>
+  - Switch viewcontroller like ios task manager :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/naru-jpn/View2ViewTransition">
+   View2ViewTransition
+  </a>
+  - Custom interactive view controller transition from one view to another view. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Navigation Bar
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/tristanhimmelman/HidingNavigationBar">
+   HidingNavigationBar
+  </a>
+  - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/telly/TLYShyNavBar">
+   TLYShyNavBar
+  </a>
+  - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
+  <sup>
+   &#9733 2408, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MoZhouqi/KMNavigationBarTransition">
+   KMNavigationBarTransition
+  </a>
+  - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
+  <sup>
+   &#9733 1122, pushed 140 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ltebean/LTNavigationBar">
+   LTNavigationBar
+  </a>
+  - UINavigationBar Category which allows you to change its appearance dynamically
+ </li>
+ <li>
+  <a href="https://github.com/gmertk/BusyNavigationBar">
+   BusyNavigationBar
+  </a>
+  - A UINavigationBar extension to show loading effects :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 625, pushed 227 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kingiol/KDInteractiveNavigationController">
+   KDInteractiveNavigationController
+  </a>
+  - A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 45, pushed 196 days ago
   </sup>
  </li>
 </ul>
@@ -10156,7 +12927,7 @@ orange_diamond:
   </a>
   - A simple and flexible class for presenting custom views as a popup in iOS.
   <sup>
-   &#9733 1355, pushed 19 days ago
+   &#9733 1355, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -10165,7 +12936,7 @@ orange_diamond:
   </a>
   - Pop-up based view(e.g. alert sheet), can easily customize.
   <sup>
-   &#9733 1008, pushed 14 days ago
+   &#9733 1008, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -10174,7 +12945,7 @@ orange_diamond:
   </a>
   - STPopup provides a UINavigationController in popup style, for both iPhone and iPad.
   <sup>
-   &#9733 1348, pushed 20 days ago
+   &#9733 1348, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -10187,7 +12958,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 118, pushed 80 days ago
+   &#9733 118, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -10196,7 +12967,56 @@ orange_diamond:
   </a>
   - Simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.
   <sup>
-   &#9733 1240, pushed 37 days ago
+   &#9733 1240, pushed 162 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/daisuke310vvv/PopupController">
+   PopupController
+  </a>
+  - A customizable controller for showing temporary popup view.
+ </li>
+ <li>
+  <a href="https://github.com/Binur/SubscriptionPrompt">
+   SubscriptionPrompt
+  </a>
+  - Subscription View Controller like the Tinder uses :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/IcaliaLabs/Presentr">
+   Presentr
+  </a>
+  - Wrapper for custom ViewController presentations in iOS 8+ :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Orderella/PopupDialog">
+   PopupDialog
+  </a>
+  - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/kciter/KCSelectionDialog">
+   KCSelectionDialog
+  </a>
+  - Simple selection dialog. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 32, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -10214,7 +13034,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1875, pushed 4 days ago
+   &#9733 1875, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -10227,7 +13047,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1217, pushed 192 days ago
+   &#9733 1217, pushed 316 days ago
   </sup>
  </li>
  <li>
@@ -10236,7 +13056,7 @@ orange_diamond:
   </a>
   - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
   <sup>
-   &#9733 4218, pushed 3 days ago
+   &#9733 4218, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -10245,7 +13065,7 @@ orange_diamond:
   </a>
   - Add PullToRefresh using animated GIF to any scrollView with just simple code
   <sup>
-   &#9733 1289, pushed 6 days ago
+   &#9733 1289, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -10254,7 +13074,7 @@ orange_diamond:
   </a>
   - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
   <sup>
-   &#9733 275, pushed 152 days ago
+   &#9733 275, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -10263,21 +13083,27 @@ orange_diamond:
   </a>
   - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
   <sup>
-   &#9733 853, pushed 476 days ago
+   &#9733 853, pushed 601 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/coolbeet/CBStoreHouseRefreshControl">
    CBStoreHouseRefreshControl
   </a>
-  - Fully customizable pull-to-refresh control inspired by Storehouse iOS app :large
+  - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
+  <sup>
+   &#9733 3228, pushed 136 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/peiweichen/SurfingRefreshControl">
+   SurfingRefreshControl
+  </a>
+  - Inspired by CBStoreHouseRefreshControl.Customizable pull-to-refresh control,written in pure Swift :large
   <em>
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 3228, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mentionapp/mntpulltoreact">
@@ -10285,16 +13111,80 @@ orange_diamond:
   </a>
   - One gesture, many actions. An evolution of Pull to Refresh.
   <sup>
-   &#9733 744, pushed 370 days ago
+   &#9733 744, pushed 495 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Antondomashnev/ADChromePullToRefresh">
+   ADChromePullToRefresh
+  </a>
+  - Chrome iOS app style pull to refresh with multiple actions.
+ </li>
+ <li>
+  <a href="https://github.com/dasdom/BreakOutToRefresh">
+   BreakOutToRefresh
+  </a>
+  - A playable pull to refresh view using SpriteKit. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1819, pushed 152 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/CoderMJLee/MJRefresh">
    MJRefresh
   </a>
-  - An easy way to use pull-to-refresh..
+  An easy way to use pull-to-refresh.
   <sup>
-   &#9733 7397, pushed 7 days ago
+   &#9733 7397, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hoang-tran/HTPullToRefresh">
+   HTPullToRefresh
+  </a>
+  - Easily add vertical and horizontal pull to refresh to any UIScrollView. Can also add multiple pull-to-refesh views at once.
+ </li>
+ <li>
+  <a href="https://github.com/dekatotoro/PullToRefreshSwift">
+   PullToRefreshSwift
+  </a>
+  - iOS Simple Cool PullToRefresh Library. It is written in pure swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 328, pushed 139 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/delannoyk/GIFRefreshControl">
+   GIFRefreshControl
+  </a>
+  - GIFRefreshControl is a pull to refresh that supports GIF images as track animations. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 82, pushed 158 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fruitcoder/ReplaceAnimation">
+   ReplaceAnimation
+  </a>
+  - Pull-to-refresh animation in UICollectionView with a sticky header flow layout, written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 565, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -10312,7 +13202,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 239, pushed 237 days ago
+   &#9733 239, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -10325,7 +13215,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 135, pushed 33 days ago
+   &#9733 135, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -10334,7 +13224,7 @@ orange_diamond:
   </a>
   - iOS GUI library for displaying and editing ratings
   <sup>
-   &#9733 82, pushed 81 days ago
+   &#9733 82, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -10347,8 +13237,24 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 200, pushed 20 days ago
+   &#9733 200, pushed 145 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hsousa/HCSStarRatingView">
+   HCSStarRatingView
+  </a>
+  - Simple star rating view for iOS written in Objective-C
+ </li>
+ <li>
+  <a href="https://github.com/MatiBot/MBRateApp">
+   MBRateApp
+  </a>
+  - A groovy app rate stars screen for iOS written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -10361,7 +13267,7 @@ orange_diamond:
   </a>
   - Custom volume control for iPhone featuring a well-designed round slider.
   <sup>
-   &#9733 37, pushed 166 days ago
+   &#9733 37, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -10370,7 +13276,7 @@ orange_diamond:
   </a>
   - Simple and light weight slider with chapter management
   <sup>
-   &#9733 59, pushed 61 days ago
+   &#9733 59, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -10383,7 +13289,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 34, pushed 211 days ago
+   &#9733 34, pushed 336 days ago
   </sup>
  </li>
  <li>
@@ -10396,7 +13302,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 39, pushed 45 days ago
+   &#9733 39, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -10409,7 +13315,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 57, pushed 17 days ago
+   &#9733 57, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -10418,7 +13324,7 @@ orange_diamond:
   </a>
   - A custom reusable slider control with 2 thumbs (range slider).
   <sup>
-   &#9733 74, pushed 96 days ago
+   &#9733 74, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -10427,7 +13333,7 @@ orange_diamond:
   </a>
   - A UISlider subclass that displays the slider value in a popup view
   <sup>
-   &#9733 1354, pushed 5 days ago
+   &#9733 1354, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -10436,7 +13342,7 @@ orange_diamond:
   </a>
   - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
   <sup>
-   &#9733 395, pushed 17 days ago
+   &#9733 395, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -10445,7 +13351,7 @@ orange_diamond:
   </a>
   - An easy-to-use customizable animated segment slider for iOS
   <sup>
-   &#9733 1, pushed 11 days ago
+   &#9733 1, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -10454,8 +13360,74 @@ orange_diamond:
   </a>
   - StepSlider its custom implementation of slider such as UISlider for preset integer values.
   <sup>
-   &#9733 32, pushed 67 days ago
+   &#9733 32, pushed 192 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JellyDevelopment/JDSlider">
+   JDSlider
+  </a>
+  - An iOS Slider written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 25, pushed 149 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rehatkathuria/SnappingSlider">
+   SnappingSlider
+  </a>
+  - A beautiful slider control for iOS built purely upon Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 467, pushed 137 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/EranBoudjnah/MTCircularSlider">
+   MTCircularSlider
+  </a>
+  - A feature-rich circular slider control. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Splash View
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/callumboddy/CBZSplashView">
+   CBZSplashView
+  </a>
+  - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
+  <sup>
+   &#9733 1150, pushed 342 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sachinkesiraju/SKSplashView">
+   SKSplashView
+  </a>
+  - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
+ </li>
+ <li>
+  <a href="https://github.com/PiXeL16/RevealingSplashView">
+   RevealingSplashView
+  </a>
+  - A Splash view that animates and reveals its content, inspired by Twitter splash :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -10472,7 +13444,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 17, pushed 132 days ago
+   &#9733 17, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -10485,7 +13457,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 131, pushed 41 days ago
+   &#9733 131, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -10498,8 +13470,28 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 371, pushed 12 days ago
+   &#9733 371, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/arn00s/barceloneta">
+   barceloneta
+  </a>
+  - The right way to increment/decrement values with a simple gesture on iOS. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/yannickl/SnappingStepper">
+   SnappingStepper
+  </a>
+  - An elegant alternative to the UIStepper written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -10516,7 +13508,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 72, pushed 4 days ago
+   &#9733 72, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -10525,7 +13517,7 @@ orange_diamond:
   </a>
   - A UISwitch that infects its superview with its tint color.
   <sup>
-   &#9733 283, pushed 82 days ago
+   &#9733 283, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -10534,7 +13526,7 @@ orange_diamond:
   </a>
   - A customizable switch UI with ripple effect and bounce animations, inspired from Google's Material Design.
   <sup>
-   &#9733 116, pushed 148 days ago
+   &#9733 116, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -10547,7 +13539,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 338, pushed 182 days ago
+   &#9733 338, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -10560,7 +13552,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 644, pushed 54 days ago
+   &#9733 644, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -10573,7 +13565,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1513, pushed 5 days ago
+   &#9733 1513, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -10586,7 +13578,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 23, pushed 33 days ago
+   &#9733 23, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -10599,7 +13591,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 134, pushed 133 days ago
+   &#9733 134, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -10612,8 +13604,59 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 472, pushed 9 days ago
+   &#9733 472, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Ramotion/paper-switch">
+   RAMPaperSwitch
+  </a>
+  - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/KittenYang/DynamicMaskSegmentSwitch">
+   DynamicMaskSegmentSwitch
+  </a>
+  - A segment switcher with dynamic text mask effect :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/LunApps/LUNSegmentedControl">
+   LUNSegmentedControl
+  </a>
+  - Customizable segmented control with interactive animation.
+ </li>
+ <li>
+  <a href="https://github.com/alikaragoz/AKASegmentedControl">
+   AKASegmentedControl
+  </a>
+  - :chocolate_bar: Fully customizable Segmented Control for iOS
+ </li>
+ <li>
+  <a href="https://github.com/cocoatoucher/AIFlatSwitch">
+   AIFlatSwitch
+  </a>
+  - A flat component alternative to UISwitch on iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 469, pushed 314 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/T-Pham/Switch">
+   Switch
+  </a>
+  - An iOS switch control implemented in Swift with full Interface Builder support.🔶
  </li>
 </ul>
 <h5>
@@ -10626,7 +13669,7 @@ orange_diamond:
   </a>
   - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
   <sup>
-   &#9733 52, pushed 11 days ago
+   &#9733 52, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -10639,7 +13682,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 420, pushed 168 days ago
+   &#9733 420, pushed 293 days ago
   </sup>
  </li>
  <li>
@@ -10652,7 +13695,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 5297, pushed 5 days ago
+   &#9733 5297, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -10661,7 +13704,7 @@ orange_diamond:
   </a>
   - Folding Tab Bar and Tab Bar Controller
   <sup>
-   &#9733 2408, pushed 55 days ago
+   &#9733 2408, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -10670,7 +13713,7 @@ orange_diamond:
   </a>
   - Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.
   <sup>
-   &#9733 134, pushed 81 days ago
+   &#9733 134, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -10679,7 +13722,7 @@ orange_diamond:
   </a>
   - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements
   <sup>
-   &#9733 1364, pushed 92 days ago
+   &#9733 1364, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -10692,7 +13735,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 74, pushed 39 days ago
+   &#9733 74, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -10705,7 +13748,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2460, pushed 23 days ago
+   &#9733 2460, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -10714,7 +13757,7 @@ orange_diamond:
   </a>
   - Paging view controller and scroll tab view. 🔶
   <sup>
-   &#9733 128, pushed 17 days ago
+   &#9733 128, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -10723,12 +13766,61 @@ orange_diamond:
   </a>
   - Customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, written in Swift 🔶
   <sup>
-   &#9733 291, pushed 2 days ago
+   &#9733 291, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fortmarek/SwipeViewController">
+   SwipeViewController
+  </a>
+  - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/ColorMatchTabs">
+   ColorMatchTabs
+  </a>
+  - Interesting way to display tabs :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/antiguab/BATabBarController">
+   BATabBarController
+  </a>
+  - A TabBarController with a unique animation for selection
+ </li>
+ <li>
+  <a href="https://github.com/aryaxt/ScrollPager">
+   ScrollPager
+  </a>
+  - A scroll pager similar to the one in Flipboard :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 334, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/Segmentio">
+   Segmentio
+  </a>
+  - Animated top/bottom segmented control written in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
- Table View
+ Table View / Collection View
 </h5>
 <ul>
  <li>
@@ -10737,7 +13829,7 @@ orange_diamond:
   </a>
   - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
   <sup>
-   &#9733 3494, pushed 20 days ago
+   &#9733 3494, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -10746,7 +13838,7 @@ orange_diamond:
   </a>
   - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
   <sup>
-   &#9733 971, pushed 9 days ago
+   &#9733 971, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -10755,7 +13847,7 @@ orange_diamond:
   </a>
   - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
   <sup>
-   &#9733 34, pushed 292 days ago
+   &#9733 34, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -10764,7 +13856,7 @@ orange_diamond:
   </a>
   - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
   <sup>
-   &#9733 5130, pushed 6 days ago
+   &#9733 5130, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -10777,7 +13869,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 190, pushed 116 days ago
+   &#9733 190, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -10790,7 +13882,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3753, pushed 116 days ago
+   &#9733 3753, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -10803,7 +13895,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2875, pushed 18 days ago
+   &#9733 2875, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -10812,7 +13904,7 @@ orange_diamond:
   </a>
   - A declarative api for working with UITableView.
   <sup>
-   &#9733 15, pushed 443 days ago
+   &#9733 15, pushed 568 days ago
   </sup>
  </li>
  <li>
@@ -10825,7 +13917,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 752, pushed 18 days ago
+   &#9733 752, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -10834,7 +13926,7 @@ orange_diamond:
   </a>
   - Configurable yet easy to use stretchy header view for UITableView and UICollectionView.
   <sup>
-   &#9733 27, pushed 22 days ago
+   &#9733 27, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -10843,7 +13935,7 @@ orange_diamond:
   </a>
   - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
   <sup>
-   &#9733 182, pushed 11 days ago
+   &#9733 182, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -10856,7 +13948,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2030, pushed 55 days ago
+   &#9733 2030, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -10869,7 +13961,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 483, pushed 37 days ago
+   &#9733 483, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -10878,7 +13970,7 @@ orange_diamond:
   </a>
   - A kit for building tableviews with a collapsable animation, for each section.
   <sup>
-   &#9733 4, pushed 43 days ago
+   &#9733 4, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -10887,7 +13979,7 @@ orange_diamond:
   </a>
   - A kit for building tableviews with a paging animation.
   <sup>
-   &#9733 3, pushed 45 days ago
+   &#9733 3, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -10900,7 +13992,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 95, pushed 293 days ago
+   &#9733 95, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -10909,7 +14001,7 @@ orange_diamond:
   </a>
   - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
   <sup>
-   &#9733 5914, pushed 71 days ago
+   &#9733 5914, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -10922,8 +14014,209 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 619, pushed 26 days ago
+   &#9733 619, pushed 151 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bitwit/BWSwipeRevealCell">
+   BWSwipeRevealCell
+  </a>
+  - A Swift library for swipeable table cells :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Ramotion/preview-transition">
+   preview-transition
+  </a>
+  - PreviewTransition is a simple preview gallery controller :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/bcylin/QuickTableViewController">
+   QuickTableViewController
+  </a>
+  - A quick way to create settings tableview with switches, tap buttons, icons and more :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/maxsokolov/TableKit">
+   TableKit
+  </a>
+  - Type-safe declarative table views :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/kean/Preheat">
+   Preheat
+  </a>
+  - Automates prefetching of content in UITableView and UICollectionView :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/v-braun/VBPiledView">
+   VBPiledView
+  </a>
+  - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu
+ </li>
+ <li>
+  <a href="https://github.com/Yalantis/DisplaySwitcher">
+   DisplaySwitcher
+  </a>
+  - Custom transition between two collection view layouts :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 777, pushed 143 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/chiahsien/CHTCollectionViewWaterfallLayout">
+   CHTCollectionViewWaterfallLayout
+  </a>
+  - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
+ </li>
+ <li>
+  <a href="https://github.com/fmitech/FMMosaicLayout">
+   FMMosaicLayout
+  </a>
+  - A drop-in mosaic collection view layout with a focus on simple customizations.
+ </li>
+ <li>
+  <a href="https://github.com/vinnyoodles/TRMosaicLayout">
+   TRMosaicLayout
+  </a>
+  - A mosaic collection view layout inspired by Lightbox's Algorithm, written in Swift 🔶
+ </li>
+ <li>
+  <a href="https://github.com/AliSoftware/Reusable">
+   Reusable
+  </a>
+  - A Swift mixin for UITableViewCells and UICollectionViewCells :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 317, pushed 187 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tianzhuo112/VTMagic">
+   VTMagic
+  </a>
+  - VTMagic is a page container library for iOS.
+ </li>
+ <li>
+  <a href="https://github.com/alikaragoz/MCSwipeTableViewCell">
+   MCSwipeTableViewCell
+  </a>
+  - :point
+  <em>
+   up
+  </em>
+  2: Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).
+ </li>
+ <li>
+  <a href="https://github.com/nghialv/Sapporo">
+   Sapporo
+  </a>
+  - Cellmodel-driven collectionview manager :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 158, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mindz-eye/MYTableViewIndex">
+   MYTableViewIndex
+  </a>
+  - A pixel perfect replacement for UITableView section index, written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/ra1028/RAReorderableLayout">
+   RAReorderableLayout
+  </a>
+  - A UICollectionView layout whitch can move item with drag and drop.
+  <sup>
+   &#9733 540, pushed 152 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rob-nash/CollapsableOptions">
+   CollapsableOptions
+  </a>
+  - Collapsable table view sections with custom section header views. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 126, pushed 152 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rob-nash/FooterPull">
+   FooterPull
+  </a>
+  - Add paging to your table views with a cool animation.
+  <sup>
+   &#9733 17, pushed 168 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/matbeich/StickyCollectionView-Swift">
+   StickyCollectionView-Swift
+  </a>
+  - UICollectionView layout for presenting of the overlapping cells. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 65, pushed 213 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/palmin/ios-dragable-table-cells">
+   ios-dragable-table-cells
+  </a>
+  - Support for drag-n-drop of UITableViewCells in a navigation hierarchy of view controllers. You drag cells by tapping and holding them.
+ </li>
+ <li>
+  <a href="https://github.com/wtmoose/TLLayoutTransitioning">
+   TLLayoutTransitioning
+  </a>
+  - Enhanced transitioning between UICollectionView layouts in iOS.
+ </li>
+ <li>
+  <a href="https://github.com/DavdRoman/Bohr">
+   Bohr
+  </a>
+  - Bohr allows you to set up a settings screen for your app with three principles in mind: ease, customization and extensibility.
  </li>
 </ul>
 <h5>
@@ -10936,7 +14229,7 @@ orange_diamond:
   </a>
   - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
   <sup>
-   &#9733 156, pushed 34 days ago
+   &#9733 156, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -10945,7 +14238,7 @@ orange_diamond:
   </a>
   - UIScrollView subclass that allows to add a list of highly customizable tags.
   <sup>
-   &#9733 548, pushed 82 days ago
+   &#9733 548, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -10958,7 +14251,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 35, pushed 148 days ago
+   &#9733 35, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -10967,7 +14260,7 @@ orange_diamond:
   </a>
   - Show simple text tags or custom tag views in a vertical scrollable view.
   <sup>
-   &#9733 132, pushed 75 days ago
+   &#9733 132, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -10980,7 +14273,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 564, pushed 2 days ago
+   &#9733 564, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -10989,8 +14282,18 @@ orange_diamond:
   </a>
   - Highly customizable iOS tags view (like NSTokenField). Supports editing, multiple selection, Auto Layout and much more.
   <sup>
-   &#9733 219, pushed 9 days ago
+   &#9733 219, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/whitesmith/WSTagsField">
+   WSTagsField
+  </a>
+  - An iOS text field that represents different Tags :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h5>
@@ -11003,7 +14306,7 @@ orange_diamond:
   </a>
   - UITextField subclass with floating labels.
   <sup>
-   &#9733 5302, pushed 7 days ago
+   &#9733 5302, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -11012,7 +14315,7 @@ orange_diamond:
   </a>
   - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
   <sup>
-   &#9733 243, pushed 217 days ago
+   &#9733 243, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -11021,7 +14324,7 @@ orange_diamond:
   </a>
   - TextField with DropDown support using UIPickerView
   <sup>
-   &#9733 146, pushed 11 days ago
+   &#9733 146, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -11038,7 +14341,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 598, pushed 79 days ago
+   &#9733 598, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -11051,7 +14354,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 85, pushed 164 days ago
+   &#9733 85, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -11060,7 +14363,7 @@ orange_diamond:
   </a>
   - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
   <sup>
-   &#9733 33, pushed 185 days ago
+   &#9733 33, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -11073,7 +14376,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 567, pushed 162 days ago
+   &#9733 567, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -11086,7 +14389,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 304, pushed 120 days ago
+   &#9733 304, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -11099,7 +14402,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 20, pushed 41 days ago
+   &#9733 20, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -11112,7 +14415,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 625, pushed 20 days ago
+   &#9733 625, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -11121,7 +14424,7 @@ orange_diamond:
   </a>
   - An auto-layout base UITextView subclass which automatically grows with user input and can be constrained by maximal and minimal height - all without a single line of code
   <sup>
-   &#9733 96, pushed 81 days ago
+   &#9733 96, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -11134,7 +14437,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2706, pushed 30 days ago
+   &#9733 2706, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -11147,7 +14450,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 944, pushed 27 days ago
+   &#9733 944, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -11156,7 +14459,7 @@ orange_diamond:
   </a>
   - a subclass of UITextField that behaves like a typical UITextField with one notable exception: it manages a drop down table of autocomplete suggestions that update as the user types.
   <sup>
-   &#9733 871, pushed 57 days ago
+   &#9733 871, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -11169,7 +14472,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 997, pushed 11 days ago
+   &#9733 997, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -11178,7 +14481,7 @@ orange_diamond:
   </a>
   - VMaskTextField is a library which create an input mask for iOS.
   <sup>
-   &#9733 291, pushed 56 days ago
+   &#9733 291, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -11191,8 +14494,149 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 15, pushed 121 days ago
+   &#9733 15, pushed 246 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/muukii/NextGrowingTextView">
+   NextGrowingTextView
+  </a>
+  - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+  <sup>
+   &#9733 542, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/iwasrobbed/RPFloatingPlaceholders">
+   RPFloatingPlaceholders
+  </a>
+  - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
+ </li>
+ <li>
+  <a href="https://github.com/sag333ar/SRKControls">
+   SRKControls
+  </a>
+  - A Custom control which turns UITextfield to item-picker & date-picker. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/richa008/CurrencyTextField">
+   CurrencyTextField
+  </a>
+  - UITextField that automatically formats text to display in the currency format. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/T-Pham/UITextField-Navigation">
+   UITextField-Navigation
+  </a>
+  - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.🔶[e]
+ </li>
+ <li>
+  <a href="https://github.com/nferocious76/AutoCompleteTextField">
+   AutoCompleteTextField
+  </a>
+  - Auto complete with suggestion textfield :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/fastred/EmojiTextView">
+   EmojiTextView
+  </a>
+  - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/nonameplum/PLCurrencyTextField">
+   PLCurrencyTextField
+  </a>
+  - UITextField that support currency in the right way. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/PiXeL16/PasswordTextField">
+   PasswordTextField
+  </a>
+  - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/jobandtalent/AnimatedTextInput">
+   AnimatedTextInput
+  </a>
+  - Animated UITextField and UITextView replacement for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+</ul>
+<h5>
+ Web View
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/tasanobu/Otafuku">
+   Otafuku
+  </a>
+  - Otafuku provides utility classes to use WKWebView in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 30, pushed 161 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/meismyles/SwiftWebVC">
+   SwiftWebVC
+  </a>
+  - A drop-in inline browser for your Swift iOS app. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 24, pushed 159 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/TransitApp/SVWebViewController">
+   SVWebViewController
+  </a>
+  - A drop-in inline browser for your iOS app.
+  <sup>
+   &#9733 2225, pushed 291 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pjocprac/PTPopupWebView">
+   PTPopupWebView
+  </a>
+  - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -11205,7 +14649,7 @@ orange_diamond:
   </a>
   - A DSL for Data Manipulation.
   <sup>
-   &#9733 1456, pushed 48 days ago
+   &#9733 1456, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -11214,7 +14658,7 @@ orange_diamond:
   </a>
   - Generate a constants file by grabbing identifiers from storyboards in a project.
   <sup>
-   &#9733 255, pushed 27 days ago
+   &#9733 255, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -11223,7 +14667,7 @@ orange_diamond:
   </a>
   - Easier sharing of structured data between iOS applications and share extensions.
   <sup>
-   &#9733 66, pushed 236 days ago
+   &#9733 66, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -11232,16 +14676,7 @@ orange_diamond:
   </a>
   - Reflection for enumerations in Objective-C.
   <sup>
-   &#9733 311, pushed 331 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/EvgenyKarkan/EKAlgorithms">
-   EKAlgorithms
-  </a>
-  - Some well known CS algorithms & data structures in Objective-C.
-  <sup>
-   &#9733 1970, pushed 29 days ago
+   &#9733 311, pushed 456 days ago
   </sup>
  </li>
  <li>
@@ -11250,7 +14685,7 @@ orange_diamond:
   </a>
   - ObjectiveC additions for humans. Ruby style.
   <sup>
-   &#9733 2060, pushed 56 days ago
+   &#9733 2060, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -11259,7 +14694,7 @@ orange_diamond:
   </a>
   - Remote configuration for iOS.
   <sup>
-   &#9733 1858, pushed 195 days ago
+   &#9733 1858, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -11268,7 +14703,7 @@ orange_diamond:
   </a>
   - Because Objective-C should have inherited more from Smalltalk.
   <sup>
-   &#9733 39, pushed 110 days ago
+   &#9733 39, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -11281,7 +14716,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 358, pushed 17 days ago
+   &#9733 358, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -11300,7 +14735,7 @@ orange_diamond:
   </a>
   - Getting square objects down round holes.
   <sup>
-   &#9733 583, pushed 8 days ago
+   &#9733 583, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -11313,7 +14748,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 975, pushed 10 days ago
+   &#9733 975, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -11326,7 +14761,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 516, pushed 32 days ago
+   &#9733 516, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -11339,7 +14774,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 50, pushed 7 days ago
+   &#9733 50, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -11352,7 +14787,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 39, pushed 28 days ago
+   &#9733 39, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -11377,7 +14812,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 29, pushed 82 days ago
+   &#9733 29, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -11386,7 +14821,7 @@ orange_diamond:
   </a>
   - An Objective-C collection of useful classes to develop Apps faster.
   <sup>
-   &#9733 636, pushed 18 days ago
+   &#9733 636, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -11399,7 +14834,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 339, pushed 18 days ago
+   &#9733 339, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -11412,7 +14847,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 252, pushed 3 days ago
+   &#9733 252, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -11425,7 +14860,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 325, pushed 35 days ago
+   &#9733 325, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -11454,7 +14889,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1, pushed 12 days ago
+   &#9733 1, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -11463,7 +14898,7 @@ orange_diamond:
   </a>
   - Monitor iOS app version easily.
   <sup>
-   &#9733 154, pushed 57 days ago
+   &#9733 154, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -11476,7 +14911,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 559, pushed 5 days ago
+   &#9733 559, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -11489,7 +14924,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 673, pushed 16 days ago
+   &#9733 673, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -11502,20 +14937,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 114, pushed 126 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/AliSoftware/Reusable">
-   Reusable
-  </a>
-  - A Swift mixin for UITableViewCells and UICollectionViewCells :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 317, pushed 63 days ago
+   &#9733 114, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -11528,7 +14950,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 136 days ago
+   &#9733 32, pushed 260 days ago
   </sup>
  </li>
  <li>
@@ -11541,7 +14963,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 477, pushed 3 days ago
+   &#9733 477, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -11550,7 +14972,7 @@ orange_diamond:
   </a>
   - A Cocoa library to extend the Objective-C programming language.
   <sup>
-   &#9733 2878, pushed 18 days ago
+   &#9733 2878, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -11563,7 +14985,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 27, pushed 9 days ago
+   &#9733 27, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -11577,17 +14999,14 @@ orange_diamond:
   diamond:
  </li>
  <li>
-  <a href="https://github.com/hollance/swift-algorithm-club">
+  <a href="https://github.com/raywenderlich/swift-algorithm-club">
    swift-algorithm-club
   </a>
-  - Some well known CS algorithms & data structures in Swift with explanations. :large
+  - Algorithms and data structures in Swift, with explanations! :large
   <em>
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 5152, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/tadija/AEAppVersion">
@@ -11599,7 +15018,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2, pushed 81 days ago
+   &#9733 2, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -11608,7 +15027,157 @@ orange_diamond:
   </a>
   - The Objective-C block utilities you always wish you had.
   <sup>
-   &#9733 5135, pushed 56 days ago
+   &#9733 5135, pushed 181 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tbaranes/swiftyutils">
+   SwiftyUtils
+  </a>
+  - All the reusable code that we need in each project. :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/soffes/RateLimit">
+   RateLimit
+  </a>
+  - Simple utility for only executing code every so often. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/phatblat/Outlets">
+   Outlets
+  </a>
+  - Utility functions for validating IBOutlet and IBAction connections :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/JARMourato/EasyAbout">
+   EasyAbout
+  </a>
+  - A way to easily add Cocoapod licenses and App Version to your iOS App using the Settings Bundle
+ </li>
+ <li>
+  <a href="https://github.com/Ben-G/Validated">
+   Validated
+  </a>
+  - A Swift μ-Library for Somewhat Dependent Types :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/ankurp/Cent">
+   Cent
+  </a>
+  - Extensions for Swift Standard Types and Classes :large
+  <em>
+   orange
+  </em>
+  diamond:[e]
+ </li>
+ <li>
+  <a href="https://github.com/anatoliyv/AssistantKit">
+   AssistantKit
+  </a>
+  - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/LeonardoCardoso/SwiftLinkPreview">
+   SwiftLinkPreview
+  </a>
+  - It makes a preview from an url, grabbing all the information such as title, relevant texts and images. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/singcodes/BundleInfos">
+   BundleInfos
+  </a>
+  - Simple getter for Bundle informations. like short version from bundle. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/mirek/YAML.framework">
+   YAML.framework
+  </a>
+  - Proper YAML support for Objective-C based on
+  <code>
+   LibYAML
+  </code>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/exyte/ReadabilityKit">
+   ReadabilityKit
+  </a>
+  - Metadata extractor for news, articles and full-texts in Swift. 🔶
+ </li>
+ <li>
+  <a href="https://github.com/appculture/MissionControl-iOS">
+   MissionControl-iOS
+  </a>
+  - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, OSX) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/Khan/SwiftTweaks">
+   SwiftTweaks
+  </a>
+  - Tweak your iOS app without recompiling! :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/caloon/UnsupportedOSVersionAlert">
+   UnsupportedOSVersionAlert
+  </a>
+  - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/skyline75489/SwiftRouter">
+   SwiftRouter
+  </a>
+  - A URL Router for iOS, written in Swift 2.2 :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 68, pushed 151 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dsmatter/SwiftSortUtils">
+   SwiftSortUtils
+  </a>
+  - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 46, pushed 196 days ago
   </sup>
  </li>
 </ul>
@@ -11626,7 +15195,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 21, pushed 105 days ago
+   &#9733 21, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -11635,7 +15204,7 @@ orange_diamond:
   </a>
   - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
   <sup>
-   &#9733 776, pushed 6 days ago
+   &#9733 776, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -11648,7 +15217,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 31, pushed 71 days ago
+   &#9733 31, pushed 196 days ago
   </sup>
  </li>
 </ul>
@@ -11662,7 +15231,7 @@ orange_diamond:
   </a>
   - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
   <sup>
-   &#9733 3751, pushed 10 days ago
+   &#9733 3751, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -11671,7 +15240,7 @@ orange_diamond:
   </a>
   - Highly customizable drop-in solution for introduction views.
   <sup>
-   &#9733 2826, pushed 2 days ago
+   &#9733 2826, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -11680,7 +15249,7 @@ orange_diamond:
   </a>
   - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
   <sup>
-   &#9733 1430, pushed 376 days ago
+   &#9733 1430, pushed 501 days ago
   </sup>
  </li>
  <li>
@@ -11693,7 +15262,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1994, pushed 28 days ago
+   &#9733 1994, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -11702,7 +15271,7 @@ orange_diamond:
   </a>
   - A UICollectionView backed drop-in component for introduction views.
   <sup>
-   &#9733 712, pushed 195 days ago
+   &#9733 712, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -11711,7 +15280,7 @@ orange_diamond:
   </a>
   - A nice tutorial like the one introduced in the Path 3.X App.
   <sup>
-   &#9733 818, pushed 182 days ago
+   &#9733 818, pushed 307 days ago
   </sup>
  </li>
  <li>
@@ -11720,7 +15289,7 @@ orange_diamond:
   </a>
   - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
   <sup>
-   &#9733 5340, pushed 167 days ago
+   &#9733 5340, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -11733,7 +15302,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1969, pushed 11 days ago
+   &#9733 1969, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -11746,7 +15315,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1959, pushed 1 days ago
+   &#9733 1959, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -11759,7 +15328,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 121, pushed 69 days ago
+   &#9733 121, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -11772,7 +15341,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1158, pushed 8 days ago
+   &#9733 1158, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -11785,7 +15354,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 789, pushed 55 days ago
+   &#9733 789, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -11798,7 +15367,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1448, pushed 14 days ago
+   &#9733 1448, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -11807,7 +15376,7 @@ orange_diamond:
   </a>
   - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
   <sup>
-   &#9733 1314, pushed 14 days ago
+   &#9733 1314, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -11820,7 +15389,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 29, pushed 5 days ago
+   &#9733 29, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -11833,8 +15402,28 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 856, pushed 11 days ago
+   &#9733 856, pushed 135 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Ramotion/paper-onboarding">
+   paper-onboarding
+  </a>
+  - PaperOnboarding is a material design slider :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/anatoliyv/InfoView">
+   InfoView
+  </a>
+  - Swift based simple information view with pointed arrow. :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -11842,13 +15431,10 @@ orange_diamond:
 </h3>
 <ul>
  <li>
-  <a href="https://github.com/square/SocketRocket">
+  <a href="https://github.com/facebook/SocketRocket">
    SocketRocket
   </a>
   - A conforming Objective-C WebSocket client library.
-  <sup>
-   &#9733 4936, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/socketio/socket.io-client-swift">
@@ -11860,7 +15446,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1264, pushed 6 days ago
+   &#9733 1264, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -11873,7 +15459,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 439, pushed 10 days ago
+   &#9733 439, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -11886,7 +15472,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1743, pushed 33 days ago
+   &#9733 1743, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -11899,7 +15485,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 260, pushed 39 days ago
+   &#9733 260, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -11912,8 +15498,28 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 242, pushed 7 days ago
+   &#9733 242, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Swiftrien/SwifterSockets">
+   SwifterSockets
+  </a>
+  - A collection of socket utilities in Swift for OS-X and iO :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/czechboy0/SecretSocks">
+   SecretSocks
+  </a>
+  - Secure Sockets for Socks :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h4>
@@ -11930,7 +15536,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 226, pushed 2 days ago
+   &#9733 226, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -11943,7 +15549,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3264, pushed 34 days ago
+   &#9733 3264, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -11956,7 +15562,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 64, pushed 52 days ago
+   &#9733 64, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -11965,7 +15571,7 @@ orange_diamond:
   </a>
   - iOS utility class to manage global dispatch queue.
   <sup>
-   &#9733 169, pushed 66 days ago
+   &#9733 169, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -11978,7 +15584,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 37, pushed 7 days ago
+   &#9733 37, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -11991,113 +15597,34 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 21, pushed 5 days ago
+   &#9733 21, pushed 129 days ago
   </sup>
  </li>
-</ul>
-<h3>
- XML / HTML / CSV
-</h3>
-<ul>
  <li>
-  <a href="https://github.com/tadija/AEXML">
-   AEXML
+  <a href="https://github.com/mitchtreece/Threader">
+   Threader
   </a>
-  - Simple and lightweight XML parser written in Swift. :large
+  - Pretty GCD calls and easier code execution.
+ </li>
+ <li>
+  <a href="https://github.com/Swiftification/Dispatch">
+   Dispatch
+  </a>
+  - Just a tiny library to make using GCD easier and intuitive :large
   <em>
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 460, pushed 35 days ago
-  </sup>
  </li>
  <li>
-  <a href="https://github.com/honghaoz/Ji">
-   Ji
+  <a href="https://github.com/hemantasapkota/GCDTimer">
+   GCDTimer
   </a>
-  - XML/HTML parser for Swift. :large
+  - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large
   <em>
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 526, pushed 35 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mattt/Ono">
-   Ono
-  </a>
-  - A sensible way to deal with XML & HTML for iOS & OS X
-  <sup>
-   &#9733 1852, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/evermeer/AlamofireXmlToObjects">
-   AlamofireXmlToObjects
-  </a>
-  - Fetch a XML feed and parse it into objects :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 39, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cezheng/Fuzi">
-   Fuzi
-  </a>
-  - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 228, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tid-kijyun/Kanna">
-   Kanna
-  </a>
-  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 527, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Daniel1of1/CSwiftV">
-   CSwiftV
-  </a>
-  - A csv parser written in swift conforming to rfc4180 :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 66, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/naoty/SwiftCSV">
-   SwiftCSV
-  </a>
-  - CSV parser for Swift :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 203, pushed 10 days ago
-  </sup>
  </li>
 </ul>
 <h1>
@@ -12110,7 +15637,7 @@ orange_diamond:
   </a>
   - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
   <sup>
-   &#9733 474, pushed 120 days ago
+   &#9733 474, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -12119,7 +15646,7 @@ orange_diamond:
   </a>
   - Another CLI for creating iOS projects.
   <sup>
-   &#9733 1385, pushed 134 days ago
+   &#9733 1385, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -12128,7 +15655,7 @@ orange_diamond:
   </a>
   - iOS Boilerplate full of delights.
   <sup>
-   &#9733 323, pushed 60 days ago
+   &#9733 323, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -12137,7 +15664,7 @@ orange_diamond:
   </a>
   - Swap around your iOS Simulator Documents
   <sup>
-   &#9733 227, pushed 361 days ago
+   &#9733 227, pushed 486 days ago
   </sup>
  </li>
 </ul>
@@ -12155,7 +15682,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 7038, pushed 5 days ago
+   &#9733 7038, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -12168,7 +15695,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1635, pushed 3 days ago
+   &#9733 1635, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12177,7 +15704,7 @@ orange_diamond:
   </a>
   - A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
   <sup>
-   &#9733 3404, pushed 133 days ago
+   &#9733 3404, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -12190,7 +15717,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 354, pushed 18 days ago
+   &#9733 354, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -12203,11 +15730,11 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 970, pushed 7 days ago
+   &#9733 970, pushed 132 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/qutheory/vapor">
+  <a href="https://github.com/vapor/vapor">
    Vapor
   </a>
   - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu. :large
@@ -12215,9 +15742,6 @@ orange_diamond:
    orange
   </em>
   diamond:
-  <sup>
-   &#9733 3639, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/takebayashi/swiftra">
@@ -12229,7 +15753,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 275, pushed 64 days ago
+   &#9733 275, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -12242,7 +15766,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 892, pushed 13 days ago
+   &#9733 892, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -12255,7 +15779,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 448, pushed 11 days ago
+   &#9733 448, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -12268,7 +15792,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 43, pushed 52 days ago
+   &#9733 43, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -12281,20 +15805,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 660, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/paulofaria/Aeon">
-   Aeon
-  </a>
-  - Aeon is a GCD based HTTP server for Swift 2. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 71, pushed 46 days ago
+   &#9733 660, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -12307,16 +15818,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 831, pushed 2 days ago
+   &#9733 831, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/nestproject/Frank">
    Frank
   </a>
-  - Frank is a DSL for quickly writing web applications in Swift
+  - Frank is a DSL for quickly writing web applications in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
   <sup>
-   &#9733 276, pushed 59 days ago
+   &#9733 276, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -12329,7 +15844,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2935, pushed 2 days ago
+   &#9733 2935, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12342,7 +15857,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1872, pushed 2 days ago
+   &#9733 1872, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12355,7 +15870,30 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 51, pushed 70 days ago
+   &#9733 51, pushed 195 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/czechboy0/Redbird">
+   Redbird
+  </a>
+  - Pure-Swift Redis client implemented from the original protocol spec. OS X + Linux compatible. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/colemancda/NetworkObjects">
+   NetworkObjects
+  </a>
+  - Swift backend / server framework (Pure Swift, Supports Linux) :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 249, pushed 342 days ago
   </sup>
  </li>
 </ul>
@@ -12385,7 +15923,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 6692, pushed 7 days ago
+   &#9733 6692, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -12398,7 +15936,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 48, pushed 507 days ago
+   &#9733 48, pushed 632 days ago
   </sup>
  </li>
  <li>
@@ -12413,7 +15951,7 @@ orange_diamond:
   </a>
   - Git Submodule Alternative for Cocoa.
   <sup>
-   &#9733 246, pushed 70 days ago
+   &#9733 246, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -12422,7 +15960,7 @@ orange_diamond:
   </a>
   - A simple tool to bundle any Cocoapod and its dependencies into frameworks.
   <sup>
-   &#9733 6, pushed 136 days ago
+   &#9733 6, pushed 261 days ago
   </sup>
  </li>
  <li>
@@ -12435,7 +15973,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3977, pushed 2 days ago
+   &#9733 3977, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -12452,7 +15990,7 @@ orange_diamond:
   </a>
   - A behavior-driven development library for iOS development.
   <sup>
-   &#9733 3206, pushed 7 days ago
+   &#9733 3206, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -12461,7 +15999,7 @@ orange_diamond:
   </a>
   - A light-weight TDD / BDD framework for Objective-C & Cocoa.
   <sup>
-   &#9733 1671, pushed 39 days ago
+   &#9733 1671, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -12470,7 +16008,7 @@ orange_diamond:
   </a>
   - A behavior-driven development framework for Swift and Objective-C.
   <sup>
-   &#9733 4606, pushed 2 days ago
+   &#9733 4606, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12479,7 +16017,7 @@ orange_diamond:
   </a>
   - Code coverage for Xcode projects.
   <sup>
-   &#9733 614, pushed 64 days ago
+   &#9733 614, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -12488,7 +16026,7 @@ orange_diamond:
   </a>
   - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
   <sup>
-   &#9733 2231, pushed 16 days ago
+   &#9733 2231, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -12497,7 +16035,7 @@ orange_diamond:
   </a>
   - Dixie is an open source Objective-C testing framework for altering object behaviours.
   <sup>
-   &#9733 195, pushed 145 days ago
+   &#9733 195, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -12506,7 +16044,7 @@ orange_diamond:
   </a>
   - Test Framework for Objective-C.
   <sup>
-   &#9733 1897, pushed 77 days ago
+   &#9733 1897, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -12519,7 +16057,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1193, pushed 3 days ago
+   &#9733 1193, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -12533,7 +16071,7 @@ orange_diamond:
   </a>
   - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.
   <sup>
-   &#9733 205, pushed 63 days ago
+   &#9733 205, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -12542,7 +16080,7 @@ orange_diamond:
   </a>
   - Multivariate & A/B Testing for iOS and Mac
   <sup>
-   &#9733 640, pushed 614 days ago
+   &#9733 640, pushed 739 days ago
   </sup>
  </li>
  <li>
@@ -12551,8 +16089,18 @@ orange_diamond:
   </a>
   - Remote configuration and A/B Testing framework for iOS
   <sup>
-   &#9733 80, pushed 953 days ago
+   &#9733 80, pushed 1077 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/recruit-mp/ABKit">
+   ABKit
+  </a>
+  - AB testing framework for iOS :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h3>
@@ -12565,7 +16113,7 @@ orange_diamond:
   </a>
   - Monkey Test Tool For iOS.
   <sup>
-   &#9733 124, pushed 232 days ago
+   &#9733 124, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -12575,13 +16123,10 @@ orange_diamond:
   - Appium is an open source test automation framework for use with native and hybrid mobile apps.
  </li>
  <li>
-  <a href="https://github.com/jollychang/robotframework-appiumlibrary">
+  <a href="https://github.com/serhatbolsu/robotframework-appiumlibrary">
    robotframework-appiumlibrary
   </a>
   - AppiumLibrary is an appium testing library for RobotFramework.
-  <sup>
-   &#9733 71, pushed 18 days ago
-  </sup>
  </li>
  <li>
   <a href="https://cucumber.io/">
@@ -12595,7 +16140,7 @@ orange_diamond:
   </a>
   - An iOS Functional Testing Framework.
   <sup>
-   &#9733 4141, pushed 5 days ago
+   &#9733 4141, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -12604,7 +16149,7 @@ orange_diamond:
   </a>
   - An understated approach to iOS integration testing.
   <sup>
-   &#9733 788, pushed 173 days ago
+   &#9733 788, pushed 298 days ago
   </sup>
  </li>
  <li>
@@ -12625,7 +16170,7 @@ orange_diamond:
   </a>
   - A visual iOS testing framework that loves your apps.
   <sup>
-   &#9733 163, pushed 712 days ago
+   &#9733 163, pushed 836 days ago
   </sup>
  </li>
  <li>
@@ -12634,7 +16179,7 @@ orange_diamond:
   </a>
   - Control your iPhone from inside Xcode for end-to-end testing.
   <sup>
-   &#9733 539, pushed 43 days ago
+   &#9733 539, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -12647,7 +16192,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 388, pushed 3 days ago
+   &#9733 388, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12656,7 +16201,7 @@ orange_diamond:
   </a>
   - iOS UI Automation Test Framework by Google
   <sup>
-   &#9733 2635, pushed 3 days ago
+   &#9733 2635, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -12669,10 +16214,19 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 407, pushed 74 days ago
+   &#9733 407, pushed 199 days ago
   </sup>
  </li>
+ <li>
+  <a href="https://github.com/Buglife/Floater_">
+   Floater
+   <em>
+   </em>
+  </a>
+  - Add a floating fingertip to your app demo :large
+ </li>
 </ul>
+orange_diamond:
 <h3>
  Other Testing
 </h3>
@@ -12683,7 +16237,7 @@ orange_diamond:
   </a>
   - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
   <sup>
-   &#9733 543, pushed 237 days ago
+   &#9733 543, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -12692,7 +16246,7 @@ orange_diamond:
   </a>
   - Remote network and data debugging for your native iOS app using Chrome Developer Tools
   <sup>
-   &#9733 4896, pushed 52 days ago
+   &#9733 4896, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -12701,7 +16255,7 @@ orange_diamond:
   </a>
   - Snapshot view unit tests for iOS.
   <sup>
-   &#9733 1784, pushed 1 days ago
+   &#9733 1784, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -12714,7 +16268,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 401, pushed 12 days ago
+   &#9733 401, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -12727,7 +16281,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 400, pushed 30 days ago
+   &#9733 400, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -12740,7 +16294,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 205, pushed 42 days ago
+   &#9733 205, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -12753,7 +16307,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 371, pushed 13 days ago
+   &#9733 371, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -12766,7 +16320,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 167, pushed 34 days ago
+   &#9733 167, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -12775,8 +16329,66 @@ orange_diamond:
   </a>
   - Mock paging data with a variable fetch time interval.
   <sup>
-   &#9733 1, pushed 42 days ago
+   &#9733 1, pushed 166 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sabirvirtuoso/Mockit">
+   Mockit
+  </a>
+  - A simple mocking framework for Swift, inspired by the famous Mockito for Java :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/bugfender/BugfenderLive-iOS">
+   Bugfender Live
+  </a>
+  - Stream the screen of an iOS device for live debugging.
+ </li>
+ <li>
+  <a href="https://github.com/maxsokolov/Cribble">
+   Cribble
+  </a>
+  - Swifty tool for visual testing iPhone and iPad apps :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/ashfurrow/second_curtain">
+   second_curtain
+  </a>
+  - Upload failing iOS snapshot tests cases to S3
+ </li>
+ <li>
+  <a href="https://github.com/KrauseFx/trainer">
+   trainer
+  </a>
+  - Convert xcodebuild plist files to JUnit reports
+ </li>
+ <li>
+  <a href="https://github.com/buildasaurs/Buildasaur">
+   Buildasaur
+  </a>
+  - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/devlucky/Kakapo">
+   Kakapo
+  </a>
+  - 🐤Dynamically Mock server behaviors and responses in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
  </li>
 </ul>
 <h1>
@@ -12793,7 +16405,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 239, pushed 29 days ago
+   &#9733 239, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -12806,7 +16418,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1903, pushed 2 days ago
+   &#9733 1903, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -12819,7 +16431,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1881, pushed 15 days ago
+   &#9733 1881, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -12828,7 +16440,7 @@ orange_diamond:
   </a>
   - Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
   <sup>
-   &#9733 685, pushed 208 days ago
+   &#9733 685, pushed 333 days ago
   </sup>
  </li>
  <li>
@@ -12837,7 +16449,7 @@ orange_diamond:
   </a>
   - A super simple retina (2x, 3x) image converter.
   <sup>
-   &#9733 40, pushed 3 days ago
+   &#9733 40, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -12846,16 +16458,7 @@ orange_diamond:
   </a>
   - A Quick Look plug-in to preview .mobileprovision files.
   <sup>
-   &#9733 1005, pushed 504 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/metasmile/strsync">
-   Strsync
-  </a>
-  - Automatically translate and synchronize .strings files from base language.
-  <sup>
-   &#9733 75, pushed 60 days ago
+   &#9733 1005, pushed 628 days ago
   </sup>
  </li>
  <li>
@@ -12868,7 +16471,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3083, pushed 6 days ago
+   &#9733 3083, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -12877,20 +16480,7 @@ orange_diamond:
   </a>
   - ObjectiveC code Apple style documentation set generator.
   <sup>
-   &#9733 3270, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/yopeso/Taylor">
-   Taylor
-  </a>
-  - Measure Swift code metrics. :large
-  <em>
-   orange
-  </em>
-  diamond:
-  <sup>
-   &#9733 44, pushed 14 days ago
+   &#9733 3270, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -12903,7 +16493,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 60, pushed 112 days ago
+   &#9733 60, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -12916,7 +16506,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 786, pushed 40 days ago
+   &#9733 786, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -12929,7 +16519,7 @@ orange_diamond:
   </em>
   orange_diamond:
   <sup>
-   &#9733 188, pushed 108 days ago
+   &#9733 188, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -12938,7 +16528,7 @@ orange_diamond:
   </a>
   - Xcode storyboards diff and merge tool.
   <sup>
-   &#9733 152, pushed 181 days ago
+   &#9733 152, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -12947,7 +16537,7 @@ orange_diamond:
   </a>
   - Creating AppIcon sets from Adobe Illustrator (all supported formats).
   <sup>
-   &#9733 54, pushed 60 days ago
+   &#9733 54, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -12960,7 +16550,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 607, pushed 179 days ago
+   &#9733 607, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -12973,7 +16563,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 32, pushed 83 days ago
+   &#9733 32, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -12986,7 +16576,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 684, pushed 11 days ago
+   &#9733 684, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -12999,7 +16589,7 @@ orange_diamond:
   </em>
   orange_diamond:
   <sup>
-   &#9733 572, pushed 73 days ago
+   &#9733 572, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -13012,7 +16602,7 @@ orange_diamond:
   </em>
   diamond:[e]
   <sup>
-   &#9733 95, pushed 36 days ago
+   &#9733 95, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -13021,7 +16611,7 @@ orange_diamond:
   </a>
   - A Git plugin for versioning workflow of real-world Xcode project. fastlane's best friend.
   <sup>
-   &#9733 8, pushed 17 days ago
+   &#9733 8, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -13030,7 +16620,7 @@ orange_diamond:
   </a>
   - Shows your current framerate (fps) in the status bar of your iOS app
   <sup>
-   &#9733 380, pushed 40 days ago
+   &#9733 380, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -13043,7 +16633,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 224, pushed 25 days ago
+   &#9733 224, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -13056,7 +16646,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 194, pushed 118 days ago
+   &#9733 194, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -13069,7 +16659,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 117, pushed 15 days ago
+   &#9733 117, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -13082,7 +16672,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 199, pushed 16 days ago
+   &#9733 199, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -13095,7 +16685,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 68, pushed 8 days ago
+   &#9733 68, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -13108,7 +16698,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 22, pushed 7 days ago
+   &#9733 22, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -13117,7 +16707,7 @@ orange_diamond:
   </a>
   - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click
   <sup>
-   &#9733 21, pushed 4 days ago
+   &#9733 21, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -13130,7 +16720,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 961, pushed 1 days ago
+   &#9733 961, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -13143,8 +16733,133 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 571, pushed 8 days ago
+   &#9733 571, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/athiercelin/localizations">
+   Localizations
+  </a>
+  - OS X app that manages localizations of Xcode projects. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/facebook/xcbuild">
+   xcbuild
+  </a>
+  - Xcode-compatible build tool.
+  <sup>
+   &#9733 918, pushed 142 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/doubleencore/XcodeIssueGenerator">
+   XcodeIssueGenerator
+  </a>
+  - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/tumblr/SwiftCompilationPerformanceReporter">
+   SwiftCompilationPerformanceReporter
+  </a>
+  - Generate automated reports for slow Swift compilation paths in specific targets :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode">
+   BuildTimeAnalyzer
+  </a>
+  - Build Time Analyzer for Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/SwiftStudies/Duration">
+   Duration
+  </a>
+  - A simple Swift package for measuring and reporting the time taken for operations :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 236, pushed 168 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/WorldDownTown/Benchmark">
+   Benchmark
+  </a>
+  - The Benchmark⏲ module provides methods to measure and report the time used to execute Swift code. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/MatiBot/MBAssetsImporter">
+   MBAssetsImporter
+  </a>
+  - Import assets from Panoramio or from your OS X file system with their metadata to your iOS simulator (Swift 2.0) :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/realm/realm-browser-osx">
+   Realm Browser
+  </a>
+  - Realm Browser is a Mac OS X utility to open and modify realm database files.
+ </li>
+ <li>
+  <a href="https://github.com/square/SuperDelegate">
+   SuperDelegate
+  </a>
+  – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
+ </li>
+ <li>
+  <a href="https://github.com/neonichu/fastlane-plugin-appicon">
+   fastlane-plugin-appicon
+  </a>
+  - Generate required icon sizes and iconset from a master application icon.
+ </li>
+ <li>
+  <a href="https://github.com/facebook/infer">
+   infer
+  </a>
+  - A static analyzer for Java, C and Objective-C.
+  <sup>
+   &#9733 5107, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/marcboquet/PlayNow">
+   PlayNow
+  </a>
+  - Small app that creates empty Swift playground files and opens them with Xcode. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/johnno1962/Xtrace">
+   Xtrace
+  </a>
+  - Trace Objective-C method calls by class or instance
  </li>
 </ul>
 <h1>
@@ -13157,7 +16872,7 @@ orange_diamond:
   </a>
   - Playgrounds for Objective-C for extremely fast prototyping / learning.
   <sup>
-   &#9733 1980, pushed 137 days ago
+   &#9733 1980, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -13166,16 +16881,7 @@ orange_diamond:
   </a>
   - Runtime configurable local server for iOS apps.
   <sup>
-   &#9733 317, pushed 340 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/colemancda/NetworkObjects">
-   NetworkObjects
-  </a>
-  - Generate RESTful server from your Core Data Model.
-  <sup>
-   &#9733 249, pushed 217 days ago
+   &#9733 317, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -13195,7 +16901,7 @@ orange_diamond:
   </a>
   - Code injection tool.
   <sup>
-   &#9733 952, pushed 146 days ago
+   &#9733 952, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -13204,7 +16910,7 @@ orange_diamond:
   </a>
   - Code injection including Swift.
   <sup>
-   &#9733 3337, pushed 16 days ago
+   &#9733 3337, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -13213,7 +16919,7 @@ orange_diamond:
   </a>
   - Dependency injection framework for Swift
   <sup>
-   &#9733 674, pushed 7 days ago
+   &#9733 674, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -13222,7 +16928,32 @@ orange_diamond:
   </a>
   - Nonintrusive Objective-C dependency injection.
   <sup>
-   &#9733 48, pushed 1 days ago
+   &#9733 48, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sabirvirtuoso/Kraken">
+   Kraken
+  </a>
+  - A Dependency Injection Container for Swift with easy-to-use syntax.
+ </li>
+ <li>
+  <a href="https://github.com/square/Cleanse">
+   Cleanse
+  </a>
+  - Lightweight Swift Dependency Injection Framework by Square. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/appsquickly/Typhoon">
+   Typhoon
+  </a>
+  - Powerful dependency injection (Objective-C & Swift).
+  <sup>
+   &#9733 1793, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -13236,7 +16967,7 @@ orange_diamond:
   </a>
   - Connect all iOS deployment tools into one streamlined workflow.
   <sup>
-   &#9733 7444, pushed 2 days ago
+   &#9733 7444, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -13293,7 +17024,7 @@ orange_diamond:
   </a>
   - Instantly create a simple signup page for TestFlight beta testers.
   <sup>
-   &#9733 365, pushed 6 days ago
+   &#9733 365, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -13302,8 +17033,14 @@ orange_diamond:
   </a>
   - A software update kit.
   <sup>
-   &#9733 2173, pushed 285 days ago
+   &#9733 2173, pushed 410 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://boombox.io/">
+   Boombox.io
+  </a>
+  - Sign up TestFlight beta testers on your website. Embeddable and hosted TestFlight beta sign-up forms
  </li>
 </ul>
 <h1>
@@ -13340,7 +17077,7 @@ orange_diamond:
   </a>
   - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
   <sup>
-   &#9733 2000, pushed 4 days ago
+   &#9733 2000, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -13349,8 +17086,33 @@ orange_diamond:
   </a>
   - A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching.
   <sup>
-   &#9733 3466, pushed 23 days ago
+   &#9733 3466, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/arashpayan/appirater">
+   appirater
+  </a>
+  - A utility that reminds your iPhone app's users to review the app.
+ </li>
+ <li>
+  <a href="https://github.com/ArtSabintsev/Siren">
+   Siren
+  </a>
+  - Notify users when a new version of your app is available and prompt them to upgrade. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 945, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aashishtamsya/Appstore-Review-Guidelines">
+   Appstore Review Guidelines
+  </a>
+  - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
  </li>
 </ul>
 <h1>
@@ -13366,7 +17128,7 @@ orange_diamond:
   </a>
   Spotify iOS SDK.
   <sup>
-   &#9733 550, pushed 12 days ago
+   &#9733 550, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -13375,8 +17137,14 @@ orange_diamond:
   </a>
   Facebook iOS SDK.
   <sup>
-   &#9733 5410, pushed 1 days ago
+   &#9733 5410, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/facebook/facebook-sdk-swift">
+   Facebook Swift
+  </a>
+  Integrate your iOS apps in Swift with Facebook Platform.
  </li>
  <li>
   <a href="https://developers.google.com/analytics/devguides/collection/ios/v3/">
@@ -13390,7 +17158,7 @@ orange_diamond:
   </a>
   The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
   <sup>
-   &#9733 636, pushed 22 days ago
+   &#9733 636, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -13399,7 +17167,7 @@ orange_diamond:
   </a>
   SDK for saving stuff to Pocket.
   <sup>
-   &#9733 183, pushed 76 days ago
+   &#9733 183, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -13408,7 +17176,7 @@ orange_diamond:
   </a>
   Library for easily integrating Tumblr data into your iOS or OS X application.
   <sup>
-   &#9733 318, pushed 15 days ago
+   &#9733 318, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -13417,7 +17185,7 @@ orange_diamond:
   </a>
   Evernote SDK for iOS.
   <sup>
-   &#9733 173, pushed 8 days ago
+   &#9733 173, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -13426,7 +17194,7 @@ orange_diamond:
   </a>
   iOS + OS X SDK for the Box API.
   <sup>
-   &#9733 27, pushed 7 days ago
+   &#9733 27, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -13435,7 +17203,7 @@ orange_diamond:
   </a>
   Live SDK for iOS.
   <sup>
-   &#9733 33, pushed 11 days ago
+   &#9733 33, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -13444,7 +17212,7 @@ orange_diamond:
   </a>
   Stripe bindings for iOS and OS X.
   <sup>
-   &#9733 587, pushed 1 days ago
+   &#9733 587, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -13458,7 +17226,7 @@ orange_diamond:
   </a>
   Amazon Web Services Mobile SDK for iOS.
   <sup>
-   &#9733 529, pushed 1 days ago
+   &#9733 529, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -13467,7 +17235,7 @@ orange_diamond:
   </a>
   Zendesk Mobile SDK for iOS.
   <sup>
-   &#9733 35, pushed 4 days ago
+   &#9733 35, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -13483,7 +17251,7 @@ orange_diamond:
   SDKs for Drop-ins and Dropbox Core API.
  </li>
  <li>
-  <a href="https://docs.fabric.io/ios/index.html">
+  <a href="https://docs.fabric.io/apple/fabric/overview.html">
    Fabric by Twitter
   </a>
   Fabric Twitter Kit for iOS.
@@ -13494,7 +17262,7 @@ orange_diamond:
   </a>
   Identify behaviours through Analytics and react with real-time Personalization.
   <sup>
-   &#9733 20, pushed 13 days ago
+   &#9733 20, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -13503,7 +17271,7 @@ orange_diamond:
   </a>
   ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
   <sup>
-   &#9733 4547, pushed 4 days ago
+   &#9733 4547, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -13524,7 +17292,7 @@ orange_diamond:
   </a>
   - Client library for accessing Azure Storage on an iOS device
   <sup>
-   &#9733 24, pushed 6 days ago
+   &#9733 24, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -13533,7 +17301,7 @@ orange_diamond:
   </a>
   - 1Password Extension for iOS Apps
   <sup>
-   &#9733 2004, pushed 6 days ago
+   &#9733 2004, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -13546,8 +17314,20 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 888, pushed 1 days ago
+   &#9733 888, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Shopify/mobile-buy-sdk-ios">
+   Shopify
+  </a>
+  - Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app.
+ </li>
+ <li>
+  <a href="https://github.com/pinterest/ios-pdk">
+   Pinterest
+  </a>
+  - Pinterest iOS SDK
  </li>
 </ul>
 <h2>
@@ -13560,7 +17340,7 @@ orange_diamond:
   </a>
   A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1
   <sup>
-   &#9733 965, pushed 32 days ago
+   &#9733 965, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -13569,7 +17349,7 @@ orange_diamond:
   </a>
   Twitter API for Cocoa developers.
   <sup>
-   &#9733 209, pushed 68 days ago
+   &#9733 209, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -13578,7 +17358,7 @@ orange_diamond:
   </a>
   Giphy API client for iOS in Objective-C.
   <sup>
-   &#9733 32, pushed 437 days ago
+   &#9733 32, pushed 561 days ago
   </sup>
  </li>
  <li>
@@ -13587,7 +17367,7 @@ orange_diamond:
   </a>
   - A simple, easy-to-use Objective-C wrapper for the Uber API.
   <sup>
-   &#9733 89, pushed 80 days ago
+   &#9733 89, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -13596,7 +17376,7 @@ orange_diamond:
   </a>
   - Instagram iOS SDK.
   <sup>
-   &#9733 767, pushed 13 days ago
+   &#9733 767, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -13605,7 +17385,7 @@ orange_diamond:
   </a>
   - Dribbble iOS SDK.
   <sup>
-   &#9733 62, pushed 109 days ago
+   &#9733 62, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -13614,7 +17394,7 @@ orange_diamond:
   </a>
   - ObjectiveFlickr, a Flickr API framework for Objective-C.
   <sup>
-   &#9733 722, pushed 172 days ago
+   &#9733 722, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -13623,7 +17403,7 @@ orange_diamond:
   </a>
   - Twitter & Facebook Integration.
   <sup>
-   &#9733 134, pushed 77 days ago
+   &#9733 134, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -13636,7 +17416,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 129, pushed 42 days ago
+   &#9733 129, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -13645,7 +17425,7 @@ orange_diamond:
   </a>
   - SocialLib handles sharing message to multiple social media.
   <sup>
-   &#9733 3, pushed 68 days ago
+   &#9733 3, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -13658,7 +17438,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 11, pushed 42 days ago
+   &#9733 11, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13667,7 +17447,56 @@ orange_diamond:
   </a>
   - A Dropbox v2 client library written in Objective-C
   <sup>
-   &#9733 17, pushed 3 days ago
+   &#9733 17, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/genadyo/Lyft">
+   Lyft
+  </a>
+  - Some pink mustache company forgot to build that SDK. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/onmyway133/github.swift">
+   Github.swift
+  </a>
+  - :octocat: Unofficial GitHub API client in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/CloudRail/cloudrail-si-ios-sdk">
+   CloudRail SI
+  </a>
+  - Abstraction layer / unified API for multiple API providers. Interfaces eg for Cloud Storage (Dropbox, Google, ...), Social Networks (Facebook, Twitter, ...) and more.
+ </li>
+ <li>
+  <a href="https://github.com/96-problems/medium-sdk-swift">
+   Medium SDK - Swift
+  </a>
+  - Unofficial Medium API SDK in Swift with sample project :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/mattdonnelly/Swifter">
+   Swifter
+  </a>
+  - :bird: A Twitter framework for iOS & OS X written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1577, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -13684,7 +17513,7 @@ orange_diamond:
   </a>
   - A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching.
   <sup>
-   &#9733 3312, pushed 42 days ago
+   &#9733 3312, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13693,7 +17522,7 @@ orange_diamond:
   </a>
   - SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode.
   <sup>
-   &#9733 988, pushed 42 days ago
+   &#9733 988, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -13702,7 +17531,7 @@ orange_diamond:
   </a>
   - Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
   <sup>
-   &#9733 236, pushed 23 days ago
+   &#9733 236, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -13711,7 +17540,7 @@ orange_diamond:
   </a>
   - Xcode plugin for showing all issue content in the issue navigator.
   <sup>
-   &#9733 243, pushed 112 days ago
+   &#9733 243, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -13720,7 +17549,7 @@ orange_diamond:
   </a>
   - Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
   <sup>
-   &#9733 686, pushed 42 days ago
+   &#9733 686, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13729,7 +17558,7 @@ orange_diamond:
   </a>
   - SCXcodeSwitchExpander is a small Xcode plugin that expands switch statements by inserting missing cases.
   <sup>
-   &#9733 614, pushed 7 days ago
+   &#9733 614, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -13738,7 +17567,7 @@ orange_diamond:
   </a>
   - Xcode plug-in which helps you write Javadoc style documents easier.
   <sup>
-   &#9733 7166, pushed 43 days ago
+   &#9733 7166, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13747,7 +17576,7 @@ orange_diamond:
   </a>
   - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
   <sup>
-   &#9733 2319, pushed 39 days ago
+   &#9733 2319, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -13756,7 +17585,7 @@ orange_diamond:
   </a>
   - Dependency management helper for your CocoaPods, right in Xcode.
   <sup>
-   &#9733 2165, pushed 42 days ago
+   &#9733 2165, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -13765,7 +17594,7 @@ orange_diamond:
   </a>
   - Xcode plug-in that provides autocomplete for imageNamed: calls.
   <sup>
-   &#9733 4024, pushed 42 days ago
+   &#9733 4024, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13774,7 +17603,7 @@ orange_diamond:
   </a>
   - Plugin for Xcode to make working with colors more visual.
   <sup>
-   &#9733 2816, pushed 42 days ago
+   &#9733 2816, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13783,7 +17612,7 @@ orange_diamond:
   </a>
   - Highlights the current editing line in Xcode
   <sup>
-   &#9733 408, pushed 15 days ago
+   &#9733 408, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -13792,7 +17621,7 @@ orange_diamond:
   </a>
   - An Xcode plugin to build and run an app across multiple iOS devices with one click.
   <sup>
-   &#9733 320, pushed 33 days ago
+   &#9733 320, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -13801,7 +17630,7 @@ orange_diamond:
   </a>
   - Plugin for Xcode to integrate the Reveal App to your project automatic.
   <sup>
-   &#9733 213, pushed 42 days ago
+   &#9733 213, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13824,7 +17653,7 @@ orange_diamond:
   </code>
   .
   <sup>
-   &#9733 236, pushed 16 days ago
+   &#9733 236, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -13839,7 +17668,7 @@ orange_diamond:
   </a>
   - "Alfred for Xcode" plugin.
   <sup>
-   &#9733 1215, pushed 42 days ago
+   &#9733 1215, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13848,7 +17677,7 @@ orange_diamond:
   </a>
   - Quick code navigation for Xcode.
   <sup>
-   &#9733 20, pushed 33 days ago
+   &#9733 20, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -13857,7 +17686,7 @@ orange_diamond:
   </a>
   - Plugin for creating beautiful CAMediaTimingFunction curve.
   <sup>
-   &#9733 649, pushed 40 days ago
+   &#9733 649, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -13866,7 +17695,7 @@ orange_diamond:
   </a>
   - An Xcode plugin that makes navigating to many places easier (available via Alcatraz).
   <sup>
-   &#9733 75, pushed 2 days ago
+   &#9733 75, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -13875,7 +17704,7 @@ orange_diamond:
   </a>
   - Highlights deltas against git repo in Xcode.
   <sup>
-   &#9733 764, pushed 43 days ago
+   &#9733 764, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -13884,7 +17713,7 @@ orange_diamond:
   </a>
   - Xcode plugin for filtering the console area.
   <sup>
-   &#9733 502, pushed 35 days ago
+   &#9733 502, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -13893,7 +17722,7 @@ orange_diamond:
   </a>
   - Dialog with list of all TODO, FIXME, ??? and !!! in the project.
   <sup>
-   &#9733 1475, pushed 41 days ago
+   &#9733 1475, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -13902,7 +17731,7 @@ orange_diamond:
   </a>
   - Makes Copy Xcode Issue Description Easy.
   <sup>
-   &#9733 160, pushed 33 days ago
+   &#9733 160, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -13911,7 +17740,7 @@ orange_diamond:
   </a>
   - A Xcode plugin to automatically generate all the App icons needed.
   <sup>
-   &#9733 2035, pushed 41 days ago
+   &#9733 2035, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -13920,7 +17749,7 @@ orange_diamond:
   </a>
   - Xcode plugin to format source code using ClangFormat or Uncrustify.
   <sup>
-   &#9733 1139, pushed 40 days ago
+   &#9733 1139, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -13929,7 +17758,7 @@ orange_diamond:
   </a>
   - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
   <sup>
-   &#9733 21, pushed 31 days ago
+   &#9733 21, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -13938,7 +17767,7 @@ orange_diamond:
   </a>
   - Navigate your code files with numbered bookmarks.
   <sup>
-   &#9733 26, pushed 33 days ago
+   &#9733 26, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -13947,7 +17776,7 @@ orange_diamond:
   </a>
   - An Xcode Plugin to upload code snippets directly into Slack and Gist.
   <sup>
-   &#9733 88, pushed 21 days ago
+   &#9733 88, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -13956,7 +17785,7 @@ orange_diamond:
   </a>
   - Add #import-s from anywhere in the code.
   <sup>
-   &#9733 657, pushed 4 days ago
+   &#9733 657, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -13965,7 +17794,7 @@ orange_diamond:
   </a>
   - Xcode plugin, Re-Intent, make you write code more quickly.
   <sup>
-   &#9733 170, pushed 163 days ago
+   &#9733 170, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -13974,7 +17803,7 @@ orange_diamond:
   </a>
   - A Xcode plugin to add highlight to the instances of selected symbol.
   <sup>
-   &#9733 55, pushed 35 days ago
+   &#9733 55, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -13983,7 +17812,7 @@ orange_diamond:
   </a>
   - Xcode plugin to let you jump to GitHub History, Blame, PRs, Issues, Notifications of any GitHub repo with one shortcut.
   <sup>
-   &#9733 260, pushed 19 days ago
+   &#9733 260, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -13992,7 +17821,7 @@ orange_diamond:
   </a>
   - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
   <sup>
-   &#9733 52, pushed 37 days ago
+   &#9733 52, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -14001,7 +17830,7 @@ orange_diamond:
   </a>
   - The Xcode Plugin that helps you write lighter view controllers
   <sup>
-   &#9733 173, pushed 1 days ago
+   &#9733 173, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -14010,7 +17839,7 @@ orange_diamond:
   </a>
   - Is learning a new language getting you down? Worry not, this Xcode plugin will keep you motivated.
   <sup>
-   &#9733 198, pushed 28 days ago
+   &#9733 198, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -14019,7 +17848,7 @@ orange_diamond:
   </a>
   - Make Xcode code coverage more informative
   <sup>
-   &#9733 156, pushed 33 days ago
+   &#9733 156, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -14028,7 +17857,7 @@ orange_diamond:
   </a>
   Xcode plugin which indent the source code when save
   <sup>
-   &#9733 36, pushed 7 days ago
+   &#9733 36, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -14041,7 +17870,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 732, pushed 29 days ago
+   &#9733 732, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -14054,7 +17883,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 987, pushed 40 days ago
+   &#9733 987, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -14063,7 +17892,7 @@ orange_diamond:
   </a>
   - A Xcode plugin. Recording you copy-and-paste history easily to write the code
   <sup>
-   &#9733 26, pushed 125 days ago
+   &#9733 26, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -14072,7 +17901,7 @@ orange_diamond:
   </a>
   - Plugin for Xcode to submit github issues directly from within Xcode.
   <sup>
-   &#9733 2, pushed 41 days ago
+   &#9733 2, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -14081,7 +17910,7 @@ orange_diamond:
   </a>
   - An Xcode formatter plug-in to format your swift code.
   <sup>
-   &#9733 371, pushed 7 days ago
+   &#9733 371, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -14090,7 +17919,7 @@ orange_diamond:
   </a>
   - The awesome Fastlane tools brought into your Xcode.
   <sup>
-   &#9733 26, pushed 25 days ago
+   &#9733 26, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -14098,6 +17927,91 @@ orange_diamond:
    Gradle Xcode plugin
   </a>
   - Build iOS or Mac OS X Projects using Gradle.
+ </li>
+ <li>
+  <a href="https://github.com/dvkch/SYXcodeIconVersion">
+   SYXcodeIconVersion
+  </a>
+  - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/openbakery/gradle-xcodePlugin">
+   Gradle
+  </a>
+  - makes it easier to build Xcode projects by specifying the build settings in a single configuration file :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/holtwick/HOStringSense-for-Xcode">
+   HOStringSense-for-Xcode
+  </a>
+  - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
+ </li>
+ <li>
+  <a href="https://github.com/BalestraPatrick/CleanClosureXcode">
+   CleanClosureXcode
+  </a>
+  - An Xcode Source Editor extension to clean the closure syntax. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/cyanzhong/xTextHandler">
+   xTextHandler
+  </a>
+  - Xcode 8 Source Editor Extension Toolset
+ </li>
+ <li>
+  <a href="https://github.com/music4kid/FastStub-Xcode">
+   FastStub-Xcode
+  </a>
+  - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
+ </li>
+ <li>
+  <a href="https://github.com/bang590/JSPatchX">
+   JSPatchX
+  </a>
+  - A XCode plugin that provides autocompletion for JSPatch
+ </li>
+ <li>
+  <a href="https://kapeli.com/dash">
+   Dash
+  </a>
+  - Dash is a great documentation browser which integrates closely into Xcode with its plugin.
+ </li>
+ <li>
+  <a href="https://github.com/sferrini/SFJumpToLine">
+   SFJumpToLine
+  </a>
+  - Xcode plugin that moves the instruction pointer to the selected line
+ </li>
+ <li>
+  <a href="https://github.com/travisjeffery/ClangFormat-Xcode">
+   ClangFormat-Xcode
+  </a>
+  - An Xcode plug-in to format your code using Clang's format tools.
+  <sup>
+   &#9733 2212, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/inket/update_xcode_plugins">
+   update
+   <em>
+    xcode
+   </em>
+   plugins
+  </a>
+  - No more messing with plugin UUIDs; Plugins on Xcode 8!
  </li>
 </ul>
 <h3>
@@ -14110,7 +18024,7 @@ orange_diamond:
   </a>
   - A dark theme for Xcode.
   <sup>
-   &#9733 1906, pushed 3 days ago
+   &#9733 1906, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -14119,7 +18033,7 @@ orange_diamond:
   </a>
   - Color themes for Xcode.
   <sup>
-   &#9733 1183, pushed 13 days ago
+   &#9733 1183, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -14128,18 +18042,30 @@ orange_diamond:
   </a>
   - Solarized Dark Theme for Xcode 5.
  </li>
+ <li>
+  <a href="https://github.com/cargath/WWDC2016-Xcode-Color-Scheme">
+   WWDC2016 Xcode Color Scheme
+  </a>
+  - A color scheme for Xcode based on the WWDC 2016 invitation.
+ </li>
 </ul>
 <h3>
  Other Xcode
 </h3>
 <ul>
  <li>
+  <a href="https://github.com/aashishtamsya/awesome-xcode-scripts">
+   awesome-xcode-scripts
+  </a>
+  - A curated list of useful xcode scripts 📝.
+ </li>
+ <li>
   <a href="https://github.com/venmo/synx">
    Synx
   </a>
   - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
   <sup>
-   &#9733 3991, pushed 25 days ago
+   &#9733 3991, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -14148,7 +18074,7 @@ orange_diamond:
   </a>
   - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
   <sup>
-   &#9733 7, pushed 307 days ago
+   &#9733 7, pushed 432 days ago
   </sup>
  </li>
  <li>
@@ -14157,8 +18083,41 @@ orange_diamond:
   </a>
   - 3D Touch shortcuts in the Simulator
   <sup>
-   &#9733 1517, pushed 217 days ago
+   &#9733 1517, pushed 341 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/aashishtamsya/awesome-gitignore-templates">
+   awesome-gitignore-templates
+  </a>
+  - A collection of swift, objective-c, android and many more langugages .gitignore templates 📝.
+ </li>
+</ul>
+<h1>
+ Reference
+</h1>
+<ul>
+ <li>
+  <a href="https://github.com/iwasrobbed/Swift-CheatSheet">
+   Swift Cheat Sheet
+  </a>
+  - A quick reference cheat sheet for common, high level topics in Swift. :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/iwasrobbed/Objective-C-CheatSheet">
+   Objective-C Cheat Sheet
+  </a>
+  - A quick reference cheat sheet for common, high level topics in Objective-C.
+ </li>
+ <li>
+  <a href="https://github.com/hyperoslo/SwiftSnippets">
+   SwiftSnippets
+  </a>
+  - A collection of Swift snippets to be used in Xcode
  </li>
 </ul>
 <h1>
@@ -14171,7 +18130,7 @@ orange_diamond:
   </a>
   - The Objective-C Style Guide used by The New York Times.
   <sup>
-   &#9733 4007, pushed 57 days ago
+   &#9733 4007, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -14180,7 +18139,7 @@ orange_diamond:
   </a>
   - A style guide that outlines the coding conventions for raywenderlich.com.
   <sup>
-   &#9733 2119, pushed 41 days ago
+   &#9733 2119, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -14189,7 +18148,7 @@ orange_diamond:
   </a>
   - Style guide & coding conventions for Objective-C projects.
   <sup>
-   &#9733 1530, pushed 124 days ago
+   &#9733 1530, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -14208,7 +18167,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4519, pushed 5 days ago
+   &#9733 4519, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -14217,7 +18176,7 @@ orange_diamond:
   </a>
   - Guidelines for iOS development in use at Spotify.
   <sup>
-   &#9733 162, pushed 25 days ago
+   &#9733 162, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -14236,7 +18195,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 3128, pushed 25 days ago
+   &#9733 3128, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -14249,7 +18208,7 @@ orange_diamond:
   </a>
   .
   <sup>
-   &#9733 4220, pushed 5 days ago
+   &#9733 4220, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -14282,7 +18241,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 108, pushed 14 days ago
+   &#9733 108, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -14344,11 +18303,6 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="https://iosdevweekly.com/">
-   iOS Dev Weekly
-  </a>
- </li>
- <li>
   <a href="https://github.com/shinobicontrols/iOS8-day-by-day">
    iOS8-day-by-day
   </a>
@@ -14358,7 +18312,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 2529, pushed 180 days ago
+   &#9733 2529, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -14417,7 +18371,7 @@ orange_diamond:
   </a>
   - A small guide to help those looking to hire a developer or designer for iOS work.
   <sup>
-   &#9733 1068, pushed 209 days ago
+   &#9733 1068, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -14430,13 +18384,29 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 1262, pushed 155 days ago
+   &#9733 1262, pushed 280 days ago
   </sup>
  </li>
  <li>
   <a href="https://code.facebook.com/ios/">
    Code Facebook
   </a>
+ </li>
+ <li>
+  <a href="http://www.ioscookies.com/">
+   iOS Cookies
+  </a>
+  - A hand curated collection of iOS libraries written in Swift :large
+  <em>
+   orange
+  </em>
+  diamond:
+ </li>
+ <li>
+  <a href="https://github.com/rgnlax/Feeds-for-iOS-Developer">
+   Feeds for iOS Developer
+  </a>
+  - The list of RSS feeds for iOS developers.
  </li>
 </ul>
 <h3>
@@ -14609,7 +18579,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 4475, pushed 23 days ago
+   &#9733 4475, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -14622,7 +18592,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 406, pushed 10 days ago
+   &#9733 406, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -14635,7 +18605,7 @@ orange_diamond:
   </em>
   diamond:
   <sup>
-   &#9733 652, pushed 128 days ago
+   &#9733 652, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -14644,16 +18614,24 @@ orange_diamond:
   </a>
   - Topics for beginner and advanced developers in both Objective-C and Swift.
  </li>
+ <li>
+  <a href="https://github.com/jakarmy/swift-summary">
+   The Swift Summary Book
+  </a>
+  - A summary of Apple's Swift language written on Playgrounds. :large
+  <em>
+   orange
+  </em>
+  diamond:
+  <sup>
+   &#9733 1278, pushed 131 days ago
+  </sup>
+ </li>
 </ul>
 <h3>
  iOS UI Template
 </h3>
 <ul>
- <li>
-  <a href="https://appicontemplate.com/ios8/">
-   App Icon Template
-  </a>
- </li>
  <li>
   <a href="http://www.teehanlax.com/tools/iphone/">
    iOS 8 GUI PSD Template
@@ -14665,8 +18643,13 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="http://iosdesign.ivomynttinen.com/">
+  <a href="http://ivomynttinen.com/blog/ios-design-guidelines">
    iOS Design Guidelines
+  </a>
+ </li>
+ <li>
+  <a href="http://facebook.design/">
+   iOS GUI by Facebook Design Resources
   </a>
  </li>
 </ul>
@@ -14685,7 +18668,7 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="http://framerjs.com/">
+  <a href="https://framerjs.com/">
    Framer
   </a>
  </li>
@@ -14755,6 +18738,27 @@ orange_diamond:
    Indie iOS Focus Weekly
   </a>
   - Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday.
+ </li>
+ <li>
+  <a href="https://iosdevweekly.com/">
+   iOS Dev Weekly
+  </a>
+  - Subscribe to a hand-picked round up of the best iOS development links every week. Free.
+ </li>
+ <li>
+  <a href="http://swiftweekly.github.io/">
+   Swift Weekly Brief
+  </a>
+  - A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday
+ </li>
+ <li>
+  <a href="https://www.serverswift.tech">
+   Server-Side Swift Weekly
+  </a>
+  - A weekly newsletter with the best links related to server-side Swift and cross-platform developer tools. Curated by
+  <a href="https://twitter.com/maxdesiatov">
+   @maxdesiatov
+  </a>
  </li>
 </ul>
 <h3>
@@ -14884,6 +18888,31 @@ orange_diamond:
    iPhreaks
   </a>
  </li>
+ <li>
+  <a href="https://www.relay.fm/radar">
+   Under the Radar
+  </a>
+ </li>
+ <li>
+  <a href="http://www.coreint.org/">
+   Core Intuition
+  </a>
+ </li>
+ <li>
+  <a href="http://www.swiftplayhouse.com/">
+   Swift Playhouse
+  </a>
+ </li>
+ <li>
+  <a href="https://releasenotes.tv/">
+   Release Notes
+  </a>
+ </li>
+ <li>
+  <a href="http://mtjc.fm/">
+   More Than Just Code
+  </a>
+ </li>
 </ul>
 <h1>
  Books
@@ -14915,7 +18944,7 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607">
+  <a href="https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607">
    Programming in Objective-C by Stephen G. Kochan
   </a>
  </li>
@@ -14930,12 +18959,12 @@ orange_diamond:
   </a>
  </li>
  <li>
-  <a href="http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426">
+  <a href="https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426">
    Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch
   </a>
  </li>
  <li>
-  <a href="http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022">
+  <a href="https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022">
    Cocoa Design Patterns
   </a>
  </li>
@@ -14945,63 +18974,63 @@ orange_diamond:
 </h1>
 <p>
  Other amazingly awesome lists can be found in the
- *
+*
  <a href="https://github.com/bayandin/awesome-awesomeness">
   awesome-awesomeness
  </a>
  list.
- *
+*
  <a href="https://github.com/dkhamsing/open-source-ios-apps">
   Open Source apps
  </a>
  list of open source ios apps
- * Awesome-swift
-   *
+* Awesome-swift
+  *
  <a href="https://github.com/matteocrippa/awesome-swift">
   @matteocrippa
  </a>
  - A collaborative list of awesome swift resources.
-   *
+  *
  <a href="https://github.com/Wolg/awesome-swift">
   @Wolg
  </a>
  - A curated list of awesome Swift frameworks, libraries and software.
-   *
+  *
  <a href="https://github.com/hsavit1/Awesome-Swift-Education">
   Education
  </a>
  - All the resources you need to learn Swift
- *
+*
  <a href="https://github.com/sanketfirodiya/sample-watchkit-apps">
   awesome watchkit apps
  </a>
  curated list of sample watchkit apps and tutorials. :watch:
- *
+*
  <a href="https://github.com/sanketfirodiya/iOS-learning-resources">
   iOS Learning Resources
  </a>
- Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
- *
+ Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+*
  <a href="https://github.com/sxyx2008/awesome-ios-animation">
   awesome-ios-animation
  </a>
  - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
- *
+*
  <a href="https://github.com/sxyx2008/awesome-ios-chart">
   awesome-ios-chart
  </a>
  - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
- *
+*
  <a href="https://github.com/vsouza/awesome-gists#ios">
   awesome-gists
  </a>
  - A list of amazing gists (iOS section).
- *
+*
  <a href="https://github.com/cjwirth/awesome-ios-ui">
   awesome-ios-ui
  </a>
  - A curated list of awesome iOS UI/UX libraries.
- *
+*
  <a href="https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift">
   Awesome Reactive Programming in Swift
  </a>
@@ -15019,14 +19048,5 @@ orange_diamond:
  License
 </h1>
 <p>
- <a href="http://creativecommons.org/publicdomain/mark/1.0/" rel="license">
-  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png" style="border-style: none;"/>
- </a>
-</p>
-<p>
- To the extent possible under law,
- <a href="https://github.com/vsouza">
-  Vinicius Souza
- </a>
- has waived all copyright and related or neighboring rights to this work.
+ Distributed under the MIT license. See LICENSE for more information.
 </p>

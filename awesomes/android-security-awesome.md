@@ -20,18 +20,8 @@
   </a>
  </li>
  <li>
-  <a href="http://copperdroid.isg.rhul.ac.uk/copperdroid/">
-   CopperDroid
-  </a>
- </li>
- <li>
   <a href="https://dexter.dexlabs.org/">
    Dexter
-  </a>
- </li>
- <li>
-  <a href="http://sanddroid.xjtu.edu.cn/">
-   Sandroid
   </a>
  </li>
  <li>
@@ -93,6 +83,20 @@
    Fraunhofer App-ray
   </a>
   - not free
+ </li>
+ <li>
+  ~~
+  <a href="http://copperdroid.isg.rhul.ac.uk/copperdroid/">
+   CopperDroid
+  </a>
+  ~~
+ </li>
+ <li>
+  ~~
+  <a href="http://sanddroid.xjtu.edu.cn/">
+   SandDroid
+  </a>
+  ~~
  </li>
  <li>
   ~~
@@ -166,7 +170,7 @@
    ApkAnalyser
   </a>
   <sup>
-   &#9733 654, pushed 1146 days ago
+   &#9733 654, pushed 1270 days ago
   </sup>
  </li>
  <li>
@@ -180,6 +184,11 @@
   </a>
  </li>
  <li>
+  <a href="https://bitbucket.org/srl/droidlegacy">
+   DroidLegacy
+  </a>
+ </li>
+ <li>
   <a href="http://siis.cse.psu.edu/tools.html">
    Several tools from PSU
   </a>
@@ -189,7 +198,7 @@
    Smali CFG generator
   </a>
   <sup>
-   &#9733 33, pushed 668 days ago
+   &#9733 33, pushed 793 days ago
   </sup>
  </li>
  <li>
@@ -220,7 +229,7 @@
   </a>
   - Smali Static Code Analysis
   <sup>
-   &#9733 139, pushed 235 days ago
+   &#9733 139, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -229,7 +238,7 @@
   </a>
   - Scans and compares CFG against CFG of malicious applications
   <sup>
-   &#9733 15, pushed 343 days ago
+   &#9733 15, pushed 468 days ago
   </sup>
  </li>
  <li>
@@ -238,7 +247,7 @@
   </a>
   - extracts actionable data like C&C, phone number etc.
   <sup>
-   &#9733 42, pushed 362 days ago
+   &#9733 42, pushed 487 days ago
   </sup>
  </li>
  <li>
@@ -256,7 +265,7 @@
   </a>
   - Performs a combination of symoblic + concrete execution of the app
   <sup>
-   &#9733 2, pushed 56 days ago
+   &#9733 2, pushed 181 days ago
   </sup>
  </li>
 </ol>
@@ -275,8 +284,13 @@
    AndroBugs
   </a>
   <sup>
-   &#9733 224, pushed 174 days ago
+   &#9733 224, pushed 298 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/google/nogotofail">
+   Nogotofail
+  </a>
  </li>
 </ol>
 <h2>
@@ -289,13 +303,28 @@
   </a>
  </li>
  <li>
+  <a href="https://github.com/sh4hin/Androl4b">
+   Androl4b
+  </a>
+  - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+  <sup>
+   &#9733 172, pushed 212 days ago
+  </sup>
+ </li>
+ <li>
   <a href="http://www.mobilemalware.com.br/amat/download.html">
    Android Malware Analysis Toolkit
   </a>
   - (linux distro) Earlier it use to be an
-  <a href="http://dunkelheit.com.br/amat/analysis/index_en.html">
+  <a href="http://dunkelheit.com.br/amat/analysis/index_en.php">
    online analyzer
   </a>
+ </li>
+ <li>
+  <a href="https://github.com/ajinabraham/Mobile-Security-Framework-MobSF">
+   Mobile-Security-Framework MobSF
+  </a>
+  - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
  </li>
  <li>
   <a href="https://appsec-labs.com/AppUse/">
@@ -319,11 +348,11 @@
    Droidbox
   </a>
   <sup>
-   &#9733 148, pushed 221 days ago
+   &#9733 148, pushed 346 days ago
   </sup>
  </li>
  <li>
-  <a href="http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/">
+  <a href="https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/">
    Mercury
   </a>
  </li>
@@ -331,12 +360,6 @@
   <a href="https://labs.mwrinfosecurity.com/tools/drozer/">
    Drozer
   </a>
- </li>
- <li>
-  <a href="https://appanalysis.org/download.html">
-   Taintdroid
-  </a>
-  - requires AOSP compilation
  </li>
  <li>
   <a href="https://forum.xda-developers.com/showthread.php?t=1574401">
@@ -348,22 +371,28 @@
   <a href="https://github.com/AndroidHooker/hooker">
    Android Hooker
   </a>
-  - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
+  - Dynamic Java code instrumentation (requires the Substrate Framework)
   <sup>
-   &#9733 192, pushed 96 days ago
+   &#9733 192, pushed 221 days ago
   </sup>
  </li>
  <li>
-  <a href="https://androidtamer.com/">
-   Android tamer
+  <a href="https://github.com/ZSShen/ProbeDroid">
+   ProbeDroid
   </a>
-  - custom image
+  - Dynamic Java code instrumentation
  </li>
  <li>
-  <a href="https://code.google.com/p/decaf-platform/wiki/DroidScope">
-   Droidscope
+  <a href="https://androidtamer.com/">
+   Android Tamer
   </a>
-  - custom image for dynamic analysis
+  - Virtual / Live Platform for Android Security Professionals
+ </li>
+ <li>
+  <a href="https://github.com/sycurelab/DECAF">
+   DECAF
+  </a>
+  - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
  </li>
  <li>
   <a href="https://github.com/idanr1986/cuckoo-droid">
@@ -371,7 +400,7 @@
   </a>
   - Android extension for Cuckoo sandbox
   <sup>
-   &#9733 130, pushed 214 days ago
+   &#9733 130, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -380,7 +409,7 @@
   </a>
   - Memory analysis of Android (root required)
   <sup>
-   &#9733 16, pushed 326 days ago
+   &#9733 16, pushed 451 days ago
   </sup>
  </li>
  <li>
@@ -395,7 +424,7 @@
   </a>
   – android port of auditd, not under active development anymore
   <sup>
-   &#9733 23, pushed 1090 days ago
+   &#9733 23, pushed 1215 days ago
   </sup>
  </li>
  <li>
@@ -416,16 +445,15 @@
   </a>
   – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
   <sup>
-   &#9733 12, pushed 471 days ago
+   &#9733 12, pushed 596 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/strazzere/android-lkms">
    Android Linux Kernel modules
   </a>
-  *
   <sup>
-   &#9733 54, pushed 600 days ago
+   &#9733 54, pushed 724 days ago
   </sup>
  </li>
  <li>
@@ -440,7 +468,7 @@
   </a>
   - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
   <sup>
-   &#9733 2, pushed 401 days ago
+   &#9733 2, pushed 526 days ago
   </sup>
  </li>
  <li>
@@ -449,7 +477,7 @@
   </a>
   - incomplete
   <sup>
-   &#9733 14, pushed 356 days ago
+   &#9733 14, pushed 481 days ago
   </sup>
  </li>
  <li>
@@ -458,8 +486,21 @@
   </a>
   - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
   <sup>
-   &#9733 29, pushed 8 days ago
+   &#9733 29, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/xtiankisutsa/MARA_Framework">
+   MARA
+  </a>
+  - Mobile Application Reverse engineering and Analysis Framework
+ </li>
+ <li>
+  ~~
+  <a href="https://appanalysis.org/download.html">
+   Taintdroid
+  </a>
+  ~~ - requires AOSP compilation
  </li>
 </ol>
 <h2>
@@ -472,7 +513,7 @@
   </a>
   – apk decompilation
   <sup>
-   &#9733 801, pushed 10 days ago
+   &#9733 801, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +521,7 @@
    emacs syntax coloring for smali files
   </a>
   <sup>
-   &#9733 17, pushed 27 days ago
+   &#9733 17, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -493,7 +534,7 @@
    AndBug
   </a>
   <sup>
-   &#9733 289, pushed 569 days ago
+   &#9733 289, pushed 693 days ago
   </sup>
  </li>
  <li>
@@ -502,7 +543,7 @@
   </a>
   – powerful, integrates well with other tools
   <sup>
-   &#9733 905, pushed 42 days ago
+   &#9733 905, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +557,7 @@
    Android Framework for Exploitation
   </a>
   <sup>
-   &#9733 93, pushed 219 days ago
+   &#9733 93, pushed 344 days ago
   </sup>
  </li>
  <li>
@@ -524,7 +565,7 @@
    Bypass signature and permission checks for IPCs
   </a>
   <sup>
-   &#9733 27, pushed 867 days ago
+   &#9733 27, pushed 991 days ago
   </sup>
  </li>
  <li>
@@ -533,7 +574,7 @@
   </a>
   – make any application on device debuggable (using cydia substrate).
   <sup>
-   &#9733 34, pushed 871 days ago
+   &#9733 34, pushed 996 days ago
   </sup>
  </li>
  <li>
@@ -548,7 +589,7 @@
   </a>
   - dex to jar converter
   <sup>
-   &#9733 1628, pushed 9 days ago
+   &#9733 1628, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -557,7 +598,7 @@
   </a>
   - dex to jar converter from Google
   <sup>
-   &#9733 1314, pushed 8 days ago
+   &#9733 1314, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -570,8 +611,18 @@
    Fino
   </a>
   <sup>
-   &#9733 64, pushed 556 days ago
+   &#9733 64, pushed 681 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.frida.re/">
+   Frida
+  </a>
+  - inject javascript to explore applications and a
+  <a href="https://github.com/antojoseph/diff-gui">
+   GUI tool
+  </a>
+  for it
  </li>
  <li>
   <a href="https://bitbucket.org/aseemjakhar/indroid">
@@ -589,7 +640,7 @@
    Introspy
   </a>
   <sup>
-   &#9733 192, pushed 841 days ago
+   &#9733 192, pushed 966 days ago
   </sup>
  </li>
  <li>
@@ -604,7 +655,7 @@
   </a>
   - Java decompiler
   <sup>
-   &#9733 1781, pushed 40 days ago
+   &#9733 1781, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +670,7 @@
   </a>
   - Java decompiler
   <sup>
-   &#9733 527, pushed 4 days ago
+   &#9733 527, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -634,7 +685,7 @@
   </a>
   - Java decompiler
   <sup>
-   &#9733 451, pushed 8 days ago
+   &#9733 451, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +694,7 @@
   </a>
   – apk manipulation
   <sup>
-   &#9733 66, pushed 47 days ago
+   &#9733 66, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -652,20 +703,22 @@
   </a>
  </li>
  <li>
+  ~~
   <a href="https://github.com/BaiduSecurityLabs/ZjDroid">
    ZjDroid
   </a>
-  (no longer available),
+  ~~, ~~
   <a href="https://github.com/yangbean9/ZjDroid">
    fork/mirror
   </a>
+  ~~
  </li>
  <li>
   <a href="https://github.com/CalebFenton/simplify">
    Simplify Android deobfuscator
   </a>
   <sup>
-   &#9733 403, pushed 41 days ago
+   &#9733 403, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -673,7 +726,7 @@
    Bytecode viewer
   </a>
   <sup>
-   &#9733 1095, pushed 52 days ago
+   &#9733 1095, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -681,7 +734,7 @@
    Radare2
   </a>
   <sup>
-   &#9733 2602, pushed 2 days ago
+   &#9733 2602, pushed 126 days ago
   </sup>
  </li>
 </ol>
@@ -699,7 +752,7 @@
    Radamsa Fuzzer
   </a>
   <sup>
-   &#9733 16, pushed 104 days ago
+   &#9733 16, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -707,7 +760,7 @@
    Honggfuzz
   </a>
   <sup>
-   &#9733 263, pushed 3 days ago
+   &#9733 263, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -715,7 +768,7 @@
    An Android port of the melkor ELF fuzzer
   </a>
   <sup>
-   &#9733 31, pushed 622 days ago
+   &#9733 31, pushed 746 days ago
   </sup>
  </li>
  <li>
@@ -723,8 +776,13 @@
    Media Fuzzing Framework for Android
   </a>
   <sup>
-   &#9733 139, pushed 32 days ago
+   &#9733 139, pushed 157 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jonmetz/AndroFuzz">
+   AndroFuzz
+  </a>
  </li>
 </ol>
 <h2>
@@ -737,18 +795,17 @@
   </a>
   - a tool for detection of repackaged Android applications based on app resources hash comparison.
   <sup>
-   &#9733 23, pushed 71 days ago
+   &#9733 23, pushed 196 days ago
   </sup>
  </li>
 </ol>
 <h2>
- Exploitable Vulnerabilties
+ EXPLOITABLE VULNERABILITIES
 </h2>
 <ol>
  <li>
   <a href="https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html">
-   Vulnerability Google
-doc
+   Vulnerability Google Doc
   </a>
  </li>
  <li>
@@ -763,15 +820,15 @@ doc
 <ol>
  <li>
   <a href="http://contagiominidump.blogspot.com">
-   contagio mini dump
+   Contagio Mini Dump
   </a>
  </li>
  <li>
   <a href="https://github.com/ashishb/android-malware">
-   Android malware github repo
+   Android Malware Github repo
   </a>
   <sup>
-   &#9733 1, pushed 5 days ago
+   &#9733 1, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +860,7 @@ doc
  </li>
 </ol>
 <h2>
- Reading material
+ READING MATERIAL
 </h2>
 <ol>
  <li>
@@ -816,7 +873,7 @@ doc
    Android security related presentations
   </a>
   <sup>
-   &#9733 47, pushed 534 days ago
+   &#9733 47, pushed 659 days ago
   </sup>
  </li>
  <li>
@@ -834,7 +891,7 @@ doc
    Google play crawler (Java)
   </a>
   <sup>
-   &#9733 242, pushed 816 days ago
+   &#9733 242, pushed 940 days ago
   </sup>
  </li>
  <li>
@@ -842,7 +899,7 @@ doc
    Google play crawler (Python)
   </a>
   <sup>
-   &#9733 489, pushed 211 days ago
+   &#9733 489, pushed 336 days ago
   </sup>
  </li>
  <li>
@@ -851,7 +908,7 @@ doc
   </a>
   - get app details and download apps from official Google Play Store.
   <sup>
-   &#9733 36, pushed 32 days ago
+   &#9733 36, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -860,7 +917,7 @@ doc
   </a>
   - download apps from Aptoide third-party Android market
   <sup>
-   &#9733 9, pushed 277 days ago
+   &#9733 9, pushed 402 days ago
   </sup>
  </li>
  <li>
@@ -869,7 +926,7 @@ doc
   </a>
   - download apps from Appland third-party Android market
   <sup>
-   &#9733 3, pushed 279 days ago
+   &#9733 3, pushed 403 days ago
   </sup>
  </li>
 </ol>
@@ -894,7 +951,7 @@ doc
   - to convert binary XML files to human-readable XML files
  </li>
  <li>
-  <a href="https://romannurik-code.googlecode.com/git/bash_completion/adb">
+  <a href="https://github.com/mbrubeck/android-completion">
    adb autocomplete
   </a>
  </li>
@@ -920,7 +977,7 @@ doc
   </a>
   - for practice
   <sup>
-   &#9733 116, pushed 645 days ago
+   &#9733 116, pushed 769 days ago
   </sup>
  </li>
  <li>
@@ -928,7 +985,7 @@ doc
    mitmproxy
   </a>
   <sup>
-   &#9733 4870, pushed 1 days ago
+   &#9733 4870, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -936,18 +993,21 @@ doc
    dockerfile/androguard
   </a>
   <sup>
-   &#9733 18, pushed 58 days ago
+   &#9733 18, pushed 182 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/nowsecure/android-vts">
+  <a href="https://github.com/AndroidVTS/android-vts">
    Android Vulnerability Test Suite
   </a>
   - android-vts scans a device for set of vulnerabilities
+  <sup>
+   &#9733 676, pushed 137 days ago
+  </sup>
  </li>
 </ol>
 <h2>
- Good Tutorials
+ TUTORIALS
 </h2>
 <ol>
  <li>

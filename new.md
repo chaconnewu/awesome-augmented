@@ -30,22 +30,26 @@
   <a href="create-list.md">
    Creating a list
   </a>
-  <br>
-   <sup>
-    Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...
-   </sup>
-  </br>
  </li>
  <li>
   <a href="https://www.stickermule.com/marketplace/10034-awesome">
    Buy a sticker
   </a>
  </li>
+ <li>
+  <a href="https://gitter.im/sindresorhus/awesome">
+   Chat
+  </a>
+ </li>
 </ul>
 <p>
- <a href="https://gitter.im/sindresorhus/awesome">
-  <img alt="Awesome chat" src="https://badges.gitter.im/sindresorhus/awesome.svg"/>
+ Just type
+ <a href="https://awesome.re">
+  <code>
+   awesome.re
+  </code>
  </a>
+ to go here. ✨
 </p>
 <p>
  -
@@ -62,7 +66,7 @@
  .
 </p>
 <h2>
- Table of Contents
+ Contents
 </h2>
 <ul>
  <li>
@@ -77,12 +81,12 @@
  </li>
  <li>
   <a href="#front-end-development">
-   Front-end Development
+   Front-End Development
   </a>
  </li>
  <li>
   <a href="#back-end-development">
-   Back-end Development
+   Back-End Development
   </a>
  </li>
  <li>
@@ -218,8 +222,8 @@
   </ul>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-osx.md">
-   OS X
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-macOS.md">
+   macOS
   </a>
   <ul>
    <li>
@@ -255,7 +259,7 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-windows.md">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome.md">
    Windows
   </a>
  </li>
@@ -323,7 +327,7 @@
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/maintenance-modules.md">
      Maintenance Modules
     </a>
-    - For npm packages
+    - For npm packages.
    </li>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-npm.md">
@@ -334,11 +338,21 @@
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ava.md">
      AVA
     </a>
-    - Test runner
+    - Test runner.
    </li>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-eslint.md">
      ESLint
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fp-js.md">
+     Functional Programming
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-observables.md">
+     Observables
     </a>
    </li>
   </ul>
@@ -501,7 +515,7 @@
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-coldfusion.md">
-   Coldfusion
+   ColdFusion
   </a>
  </li>
  <li>
@@ -513,11 +527,25 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dotnet.md">
    .NET
   </a>
+  <ul>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dotnet-core.md">
+     Core
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-php.md">
    PHP
   </a>
+  <ul>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-composer.md">
+     Composer
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-delphi.md">
@@ -551,7 +579,7 @@
  </li>
 </ul>
 <h2>
- Front-end Development
+ Front-End Development
 </h2>
 <ul>
  <li>
@@ -749,7 +777,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-aframe.md">
    A-Frame VR
   </a>
-  - Virtual reality
+  - Virtual reality.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cyclejs.md">
@@ -796,9 +824,42 @@
    Chrome DevTools
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-postcss.md">
+   PostCSS
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-draft-js.md">
+   Draft.js
+  </a>
+  - Rich text editor framework for React.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-service-workers.md">
+   Service Workers
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-progressive-web-apps.md">
+   Progressive Web Apps
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-choo.md">
+   choo
+  </a>
+  - App framework.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-redux.md">
+   Redux
+  </a>
+  - State container for JavaScript apps.
+ </li>
 </ul>
 <h2>
- Back-end Development
+ Back-End Development
 </h2>
 <ul>
  <li>
@@ -906,6 +967,23 @@
    Lumen
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-serverless.md">
+   Serverless Framework
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-wicket.md">
+   Apache Wicket
+  </a>
+  - Java web app framework.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/vertx-awesome.md">
+   Vert.x
+  </a>
+  - Toolkit for building reactive apps on the JVM.
+ </li>
 </ul>
 <h2>
  Computer Science
@@ -951,7 +1029,7 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/retter.md">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-cryptography.md">
    Cryptography
   </a>
  </li>
@@ -964,7 +1042,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-deep-learning.md">
    Deep Learning
   </a>
-  - Neural networks
+  - Neural networks.
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tensorflow.md">
@@ -1157,7 +1235,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-godot.md">
    Godot
   </a>
-  - Game engine
+  - Game engine.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/games.md">
@@ -1168,7 +1246,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-unity.md">
    Unity
   </a>
-  - Game engine
+  - Game engine.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-chess.md">
@@ -1179,13 +1257,13 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-love2d.md">
    LÖVE
   </a>
-  - Game engine
+  - Game engine.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-PICO-8.md">
    PICO-8
   </a>
-  - Fantasy console
+  - Fantasy console.
  </li>
 </ul>
 <h2>
@@ -1196,7 +1274,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/quick-look-plugins.md">
    Quick Look Plugins
   </a>
-  - OS X
+  - For macOS.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-devenv.md">
@@ -1211,6 +1289,11 @@
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-shell.md">
    Shell
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fish.md">
+   Fish
   </a>
  </li>
  <li>
@@ -1265,6 +1348,11 @@
    FOSS for Developers
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hyperterm.md">
+   HyperTerm
+  </a>
+ </li>
 </ul>
 <h2>
  Entertainment
@@ -1274,7 +1362,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-scifi.md">
    Science Fiction
   </a>
-  - Scifi
+  - Scifi.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-fantasy.md">
@@ -1325,12 +1413,23 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-doctrine.md">
    Doctrine
   </a>
-  - PHP ORM
+  - PHP ORM.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mongodb.md">
    MongoDB
   </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-rethinkdb.md">
+   RethinkDB
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tinkerpop.md">
+   TinkerPop
+  </a>
+  - Graph computing framework.
  </li>
 </ul>
 <h2>
@@ -1351,7 +1450,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/codeface.md">
    Codeface
   </a>
-  - Text editor fonts
+  - Text editor fonts.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-stock-resources.md">
@@ -1378,6 +1477,11 @@
    Audio Visualization
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-broadcasting.md">
+   Broadcasting
+  </a>
+ </li>
 </ul>
 <h2>
  Learn
@@ -1387,7 +1491,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-workshopper.md">
    CLI Workshoppers
   </a>
-  - Interactive tutorials
+  - Interactive tutorials.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/learn-to-program.md">
@@ -1414,6 +1518,11 @@
    Computer History
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-programming-for-kids.md">
+   Programming for Kids
+  </a>
+ </li>
 </ul>
 <h2>
  Security
@@ -1433,7 +1542,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ctf.md">
    CTF
   </a>
-  - Capture The Flag
+  - Capture The Flag.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-malware-analysis.md">
@@ -1460,6 +1569,11 @@
    Incident Response
   </a>
  </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vehicle-security.md">
+   Vehicle Security and Car Hacking
+  </a>
+ </li>
 </ul>
 <h2>
  Content Management System
@@ -1484,6 +1598,18 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-json.md">
    JSON
   </a>
+  <ul>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-geojson.md">
+     GeoJSON
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-json-datasets.md">
+     Datasets
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/discount-for-student-dev.md">
@@ -1505,11 +1631,6 @@
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-conferences.md">
    Conferences
-  </a>
- </li>
- <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-geojson.md">
-   GeoJSON
   </a>
  </li>
  <li>
@@ -1548,6 +1669,12 @@
   </a>
  </li>
  <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-appium.md">
+   Appium
+  </a>
+  - Test automation tool for apps.
+ </li>
+ <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/endangered-languages.md">
    Endangered Languages
   </a>
@@ -1576,13 +1703,13 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-answers.md">
    Answers
   </a>
-  - Stack Overflow, Quora, etc
+  - Stack Overflow, Quora, etc.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sketch.md">
    Sketch
   </a>
-  - OS X design app
+  - Design app for macOS.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/PlacesToPostYourStartup.md">
@@ -1648,7 +1775,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/amas.md">
    AMA
   </a>
-  - Ask Me Anything
+  - Ask Me Anything.
   <ul>
    <li>
     <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ama-answers.md">
@@ -1703,19 +1830,22 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-json-datasets.md">
-   JSON Datasets
-  </a>
- </li>
- <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-microservices.md">
    Microservices
   </a>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-codepoints.md">
-   Unicode Code Points
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome-Unicode.md">
+   Unicode
   </a>
+  - Unicode standards, quirks, packages and resources.
+  <ul>
+   <li>
+    <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-codepoints.md">
+     Code Points
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-iot.md">
@@ -1733,7 +1863,7 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-interviews.md">
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-interview-questions.md">
    Programming Interviews
   </a>
  </li>
@@ -1741,7 +1871,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-ripple.md">
    Ripple
   </a>
-  - Open source distributed settlement network
+  - Open source distributed settlement network.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-katas.md">
@@ -1754,10 +1884,16 @@
   </a>
  </li>
  <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/citizen-science.md">
+   Citizen Science
+  </a>
+  - Resources for community-based and non-institutional scientists.
+ </li>
+ <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-tap.md">
    TAP
   </a>
-  - Test Anything Protocol
+  - Test Anything Protocol.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-robotics.md">
@@ -1768,7 +1904,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-mqtt.md">
    MQTT
   </a>
-  - "Internet of Things" connectivity protocol
+  - "Internet of Things" connectivity protocol.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-hacking-spots.md">
@@ -1784,13 +1920,13 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vorpal.md">
    Vorpal
   </a>
-  - Node.js CLI framework
+  - Node.js CLI framework.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-okr.md">
    OKR Methodology
   </a>
-  - Goal setting &amp; communication best practices
+  - Goal setting &amp; communication best practices.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-vulkan.md">
@@ -1801,7 +1937,7 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-LaTeX.md">
    LaTeX
   </a>
-  - Typesetting language
+  - Typesetting language.
  </li>
  <li>
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-network-analysis.md">
@@ -1812,7 +1948,76 @@
   <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-economics.md">
    Economics
   </a>
-  - An economist's starter kit
+  - An economist's starter kit.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/guitarspecs.md">
+   Electric Guitar Specifications
+  </a>
+  - Checklist for building your own electric guitar.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-funny-markov.md">
+   Funny Markov Chains
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Awesome-Bioinformatics.md">
+   Bioinformatics
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/Colorful.md">
+   Colorful
+  </a>
+  - Resources to choose your next color scheme.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-steam.md">
+   Steam
+  </a>
+  - Digital distribution platform.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/bots.md">
+   Bots
+  </a>
+  - Building bots.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-sre.md">
+   Site Reliability Engineering
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/empathy-in-engineering.md">
+   Empathy in Engineering
+  </a>
+  - Building and promoting more compassionate engineering cultures.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-dtrace.md">
+   DTrace
+  </a>
+  - Dynamic tracing framework.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-userscripts.md">
+   Userscripts
+  </a>
+  - Enhance your browsing experience.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-pokemon.md">
+   Pokémon
+  </a>
+  - Pokémon and Pokémon GO resources and tools.
+ </li>
+ <li>
+  <a href="https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-chatops.md">
+   ChatOps
+  </a>
+  - Managing technical and business operations through a chat.
  </li>
 </ul>
 <h2>

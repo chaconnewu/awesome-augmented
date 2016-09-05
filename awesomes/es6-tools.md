@@ -15,7 +15,7 @@
   </a>
   - Turn ES6+ code into vanilla ES5 with no runtime
   <sup>
-   &#9733 15314, pushed 2 days ago
+   &#9733 15314, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -24,7 +24,7 @@
   </a>
   - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
   <sup>
-   &#9733 6538, pushed 4 days ago
+   &#9733 6538, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -37,7 +37,7 @@
   </a>
   v2 transform
   <sup>
-   &#9733 602, pushed 330 days ago
+   &#9733 602, pushed 455 days ago
   </sup>
  </li>
  <li>
@@ -50,7 +50,7 @@
   </a>
   transform
   <sup>
-   &#9733 988, pushed 7 days ago
+   &#9733 988, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -59,7 +59,7 @@
   </a>
   - ES6 > ES5. Includes classes, destructuring, default parameters, spread
   <sup>
-   &#9733 223, pushed 289 days ago
+   &#9733 223, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -69,7 +69,7 @@
   </a>
   - ES6 modules to AMD or CJS
   <sup>
-   &#9733 1205, pushed 197 days ago
+   &#9733 1205, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -79,7 +79,7 @@
   </a>
   - transform ES6 yield/generator functions to ES5
   <sup>
-   &#9733 1570, pushed 22 days ago
+   &#9733 1570, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -89,7 +89,7 @@
   </a>
   - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
   <sup>
-   &#9733 410, pushed 144 days ago
+   &#9733 410, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -98,7 +98,7 @@
   </a>
   - ES6 block-scoped const and let variables to ES3 vars
   <sup>
-   &#9733 115, pushed 207 days ago
+   &#9733 115, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -111,7 +111,7 @@
   </a>
   - ES6 Modules in the Rails Asset Pipeline
   <sup>
-   &#9733 89, pushed 511 days ago
+   &#9733 89, pushed 636 days ago
   </sup>
  </li>
  <li>
@@ -120,7 +120,7 @@
   </a>
   that compile from ES6 to ES5
   <sup>
-   &#9733 217, pushed 669 days ago
+   &#9733 217, pushed 794 days ago
   </sup>
  </li>
  <li>
@@ -130,7 +130,7 @@
   </a>
   - Converts ES6 to AMD, CJS, and StealJS.
   <sup>
-   &#9733 15, pushed 19 days ago
+   &#9733 15, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -139,7 +139,7 @@
   </a>
   — Transform Unicode-aware ES6 regular expressions to ES5
   <sup>
-   &#9733 78, pushed 19 days ago
+   &#9733 78, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -148,7 +148,7 @@
   </a>
   - Transformations for ES5 code to ES6 (approximates)
   <sup>
-   &#9733 1549, pushed 15 days ago
+   &#9733 1549, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -165,7 +165,7 @@
    gulp-babel
   </a>
   <sup>
-   &#9733 665, pushed 13 days ago
+   &#9733 665, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -174,7 +174,7 @@
    gulp-traceur
   </a>
   <sup>
-   &#9733 179, pushed 13 days ago
+   &#9733 179, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -183,7 +183,7 @@
    gulp-regenerator
   </a>
   <sup>
-   &#9733 17, pushed 13 days ago
+   &#9733 17, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -192,7 +192,7 @@
    gulp-es6-module-transpiler
   </a>
   <sup>
-   &#9733 57, pushed 52 days ago
+   &#9733 57, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -202,7 +202,7 @@
   </a>
   - ES6 → ES5
   <sup>
-   &#9733 48, pushed 171 days ago
+   &#9733 48, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -215,7 +215,7 @@
    jstransform
   </a>
   <sup>
-   &#9733 14, pushed 82 days ago
+   &#9733 14, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -224,7 +224,7 @@
    gulp-regexpu
   </a>
   <sup>
-   &#9733 3, pushed 443 days ago
+   &#9733 3, pushed 568 days ago
   </sup>
  </li>
  <li>
@@ -233,7 +233,7 @@
    gulp-typescript
   </a>
   <sup>
-   &#9733 364, pushed 6 days ago
+   &#9733 364, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -248,7 +248,7 @@
   </a>
   - Turn ES6+ code into vanilla ES5 with no runtime
   <sup>
-   &#9733 280, pushed 13 days ago
+   &#9733 280, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -261,7 +261,7 @@
    grunt-traceur-build
   </a>
   <sup>
-   &#9733 229, pushed 28 days ago
+   &#9733 229, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -270,7 +270,7 @@
    grunt-es6-module-transpiler
   </a>
   <sup>
-   &#9733 90, pushed 73 days ago
+   &#9733 90, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +280,7 @@
   </a>
   - ES6 generator functions to ES5
   <sup>
-   &#9733 20, pushed 13 days ago
+   &#9733 20, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -293,7 +293,7 @@
   </a>
   )
   <sup>
-   &#9733 29, pushed 1020 days ago
+   &#9733 29, pushed 1144 days ago
   </sup>
  </li>
  <li>
@@ -302,7 +302,7 @@
   </a>
   - ES6 block scoped const and let variables, to ES3
   <sup>
-   &#9733 4, pushed 55 days ago
+   &#9733 4, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +312,7 @@
   </a>
   - ES6 → ES5
   <sup>
-   &#9733 12, pushed 171 days ago
+   &#9733 12, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -322,7 +322,7 @@
   </a>
   - ES6+ > ES5/ES3 transpilation
   <sup>
-   &#9733 220, pushed 37 days ago
+   &#9733 220, pushed 162 days ago
   </sup>
  </li>
 </ul>
@@ -336,7 +336,7 @@
    broccoli-babel-transpiler
   </a>
   <sup>
-   &#9733 34, pushed 27 days ago
+   &#9733 34, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -345,7 +345,7 @@
    broccoli-traceur
   </a>
   <sup>
-   &#9733 29, pushed 13 days ago
+   &#9733 29, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -354,7 +354,7 @@
    broccoli-regenerator
   </a>
   <sup>
-   &#9733 6, pushed 13 days ago
+   &#9733 6, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -363,7 +363,7 @@
    broccoli-transpiler
   </a>
   <sup>
-   &#9733 10, pushed 13 days ago
+   &#9733 10, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -372,7 +372,7 @@
    broccoli-es6-module-transpiler
   </a>
   <sup>
-   &#9733 5, pushed 504 days ago
+   &#9733 5, pushed 629 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +387,7 @@
    broccoli-tsc
   </a>
   <sup>
-   &#9733 1, pushed 349 days ago
+   &#9733 1, pushed 474 days ago
   </sup>
  </li>
 </ul>
@@ -401,7 +401,7 @@
    babel-brunch
   </a>
   <sup>
-   &#9733 33, pushed 7 days ago
+   &#9733 33, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -410,7 +410,7 @@
    es6-module-transpiler-brunch
   </a>
   <sup>
-   &#9733 9, pushed 890 days ago
+   &#9733 9, pushed 1015 days ago
   </sup>
  </li>
  <li>
@@ -419,7 +419,7 @@
    typescript-brunch
   </a>
   <sup>
-   &#9733 5, pushed 769 days ago
+   &#9733 5, pushed 894 days ago
   </sup>
  </li>
 </ul>
@@ -433,7 +433,7 @@
    babel-loader
   </a>
   <sup>
-   &#9733 966, pushed 15 days ago
+   &#9733 966, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -442,7 +442,7 @@
    traceur-compiler-loader
   </a>
   <sup>
-   &#9733 4, pushed 422 days ago
+   &#9733 4, pushed 546 days ago
   </sup>
  </li>
  <li>
@@ -451,7 +451,7 @@
    awesome-typescript-loader
   </a>
   <sup>
-   &#9733 151, pushed 9 days ago
+   &#9733 151, pushed 134 days ago
   </sup>
  </li>
 </ul>
@@ -465,7 +465,7 @@
    duo-babel
   </a>
   <sup>
-   &#9733 15, pushed 23 days ago
+   &#9733 15, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +474,7 @@
    duo-typescript
   </a>
   <sup>
-   &#9733 0, pushed 328 days ago
+   &#9733 0, pushed 452 days ago
   </sup>
  </li>
 </ul>
@@ -488,7 +488,7 @@
    babel-connect
   </a>
   <sup>
-   &#9733 19, pushed 160 days ago
+   &#9733 19, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -497,7 +497,7 @@
    typescript-middleware
   </a>
   <sup>
-   &#9733 8, pushed 104 days ago
+   &#9733 8, pushed 229 days ago
   </sup>
  </li>
 </ul>
@@ -511,7 +511,7 @@
    gobble-babel
   </a>
   <sup>
-   &#9733 7, pushed 98 days ago
+   &#9733 7, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -520,7 +520,7 @@
    gobble-es6-transpiler
   </a>
   <sup>
-   &#9733 1, pushed 478 days ago
+   &#9733 1, pushed 602 days ago
   </sup>
  </li>
 </ul>
@@ -534,7 +534,7 @@
    jade-babel
   </a>
   <sup>
-   &#9733 38, pushed 100 days ago
+   &#9733 38, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -554,7 +554,7 @@
    babel-jest
   </a>
   <sup>
-   &#9733 116, pushed 60 days ago
+   &#9733 116, pushed 184 days ago
   </sup>
  </li>
 </ul>
@@ -568,7 +568,7 @@
    karma-babel-preprocessor
   </a>
   <sup>
-   &#9733 83, pushed 92 days ago
+   &#9733 83, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -577,7 +577,7 @@
    karma-traceur-preprocessor
   </a>
   <sup>
-   &#9733 16, pushed 197 days ago
+   &#9733 16, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -586,7 +586,7 @@
    karma-typescript-preprocessor
   </a>
   <sup>
-   &#9733 29, pushed 3 days ago
+   &#9733 29, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -606,7 +606,7 @@
    sprockets-traceur
   </a>
   <sup>
-   &#9733 23, pushed 209 days ago
+   &#9733 23, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -615,7 +615,7 @@
    typescript-rails
   </a>
   <sup>
-   &#9733 131, pushed 216 days ago
+   &#9733 131, pushed 341 days ago
   </sup>
  </li>
 </ul>
@@ -629,7 +629,7 @@
   </a>
   - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
   <sup>
-   &#9733 288, pushed 68 days ago
+   &#9733 288, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -638,7 +638,7 @@
   </a>
   - Yeoman generator for TypeScript apps
   <sup>
-   &#9733 19, pushed 236 days ago
+   &#9733 19, pushed 361 days ago
   </sup>
  </li>
 </ul>
@@ -652,7 +652,7 @@
   </a>
   - A simple plugin for Mocha to pass JS files through the Traceur compiler
   <sup>
-   &#9733 14, pushed 502 days ago
+   &#9733 14, pushed 626 days ago
   </sup>
  </li>
 </ul>
@@ -667,7 +667,7 @@
   </a>
   (compat with latest spec and Traceur)
   <sup>
-   &#9733 1648, pushed 5 days ago
+   &#9733 1648, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -676,7 +676,7 @@
   </a>
   - Mozilla's spec-compliant loader prototype
   <sup>
-   &#9733 55, pushed 795 days ago
+   &#9733 55, pushed 919 days ago
   </sup>
  </li>
  <li>
@@ -690,7 +690,7 @@
    Babel Module Loader
   </a>
   <sup>
-   &#9733 966, pushed 15 days ago
+   &#9733 966, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -699,7 +699,7 @@
   </a>
   - toolkit for ES6 Module Loader pipelines, shim for legacy environments
   <sup>
-   &#9733 5, pushed 868 days ago
+   &#9733 5, pushed 992 days ago
   </sup>
  </li>
 </ul>
@@ -713,7 +713,7 @@
   </a>
   - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
   <sup>
-   &#9733 82, pushed 668 days ago
+   &#9733 82, pushed 792 days ago
   </sup>
  </li>
  <li>
@@ -722,7 +722,7 @@
   </a>
   - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
   <sup>
-   &#9733 118, pushed 82 days ago
+   &#9733 118, pushed 207 days ago
   </sup>
  </li>
 </ul>
@@ -736,7 +736,7 @@
   </a>
   - Yeoman generator for Traceur apps
   <sup>
-   &#9733 4, pushed 532 days ago
+   &#9733 4, pushed 657 days ago
   </sup>
  </li>
  <li>
@@ -745,7 +745,7 @@
   </a>
   - Yeoman generator for Babel apps
   <sup>
-   &#9733 9, pushed 241 days ago
+   &#9733 9, pushed 365 days ago
   </sup>
  </li>
  <li>
@@ -765,7 +765,7 @@
    Gulp
   </a>
   <sup>
-   &#9733 2, pushed 144 days ago
+   &#9733 2, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -779,7 +779,7 @@
    Loom generators with ES6 ember modules
   </a>
   <sup>
-   &#9733 15, pushed 885 days ago
+   &#9733 15, pushed 1010 days ago
   </sup>
  </li>
  <li>
@@ -804,7 +804,7 @@
   </a>
   .
   <sup>
-   &#9733 1674, pushed 1 days ago
+   &#9733 1674, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -813,7 +813,7 @@
   </a>
   - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
   <sup>
-   &#9733 1704, pushed 37 days ago
+   &#9733 1704, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -821,7 +821,7 @@
    WeakMap, Map, Set, HashMap - ES6 Collections
   </a>
   <sup>
-   &#9733 140, pushed 319 days ago
+   &#9733 140, pushed 444 days ago
   </sup>
  </li>
  <li>
@@ -830,7 +830,7 @@
    WeakMap shim
   </a>
   <sup>
-   &#9733 38, pushed 567 days ago
+   &#9733 38, pushed 691 days ago
   </sup>
  </li>
  <li>
@@ -840,7 +840,7 @@
    </code>
   </a>
   <sup>
-   &#9733 41, pushed 529 days ago
+   &#9733 41, pushed 654 days ago
   </sup>
  </li>
  <li>
@@ -850,7 +850,7 @@
    </code>
   </a>
   <sup>
-   &#9733 17, pushed 529 days ago
+   &#9733 17, pushed 654 days ago
   </sup>
  </li>
  <li>
@@ -860,7 +860,7 @@
    </code>
   </a>
   <sup>
-   &#9733 32, pushed 593 days ago
+   &#9733 32, pushed 718 days ago
   </sup>
  </li>
  <li>
@@ -870,7 +870,7 @@
    </code>
   </a>
   <sup>
-   &#9733 21, pushed 232 days ago
+   &#9733 21, pushed 357 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +880,7 @@
    </code>
   </a>
   <sup>
-   &#9733 44, pushed 290 days ago
+   &#9733 44, pushed 415 days ago
   </sup>
  </li>
  <li>
@@ -890,7 +890,7 @@
    </code>
   </a>
   <sup>
-   &#9733 26, pushed 529 days ago
+   &#9733 26, pushed 654 days ago
   </sup>
  </li>
  <li>
@@ -900,7 +900,7 @@
    </code>
   </a>
   <sup>
-   &#9733 25, pushed 529 days ago
+   &#9733 25, pushed 654 days ago
   </sup>
  </li>
  <li>
@@ -910,7 +910,7 @@
    </code>
   </a>
   <sup>
-   &#9733 17, pushed 13 days ago
+   &#9733 17, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +920,7 @@
    </code>
   </a>
   <sup>
-   &#9733 18, pushed 75 days ago
+   &#9733 18, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -930,7 +930,7 @@
    </code>
   </a>
   <sup>
-   &#9733 32, pushed 35 days ago
+   &#9733 32, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -940,7 +940,7 @@
    </code>
   </a>
   <sup>
-   &#9733 11, pushed 119 days ago
+   &#9733 11, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -950,7 +950,7 @@
    </code>
   </a>
   <sup>
-   &#9733 413, pushed 5 days ago
+   &#9733 413, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -960,7 +960,7 @@
    </code>
   </a>
   <sup>
-   &#9733 7, pushed 13 days ago
+   &#9733 7, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -970,7 +970,7 @@
    </code>
   </a>
   <sup>
-   &#9733 6, pushed 13 days ago
+   &#9733 6, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -980,7 +980,7 @@
    </code>
   </a>
   <sup>
-   &#9733 8, pushed 653 days ago
+   &#9733 8, pushed 778 days ago
   </sup>
  </li>
  <li>
@@ -990,7 +990,7 @@
    </code>
   </a>
   <sup>
-   &#9733 5, pushed 653 days ago
+   &#9733 5, pushed 778 days ago
   </sup>
  </li>
  <li>
@@ -1005,7 +1005,7 @@
   </a>
   - destructive shim that follows the latest specification as closely as possible.
   <sup>
-   &#9733 17, pushed 569 days ago
+   &#9733 17, pushed 694 days ago
   </sup>
  </li>
  <li>
@@ -1015,7 +1015,7 @@
    </code>
   </a>
   <sup>
-   &#9733 6, pushed 1172 days ago
+   &#9733 6, pushed 1296 days ago
   </sup>
  </li>
  <li>
@@ -1028,7 +1028,7 @@
    ES6 Symbol polyfill
   </a>
   <sup>
-   &#9733 55, pushed 2 days ago
+   &#9733 55, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1036,7 +1036,7 @@
    ES6 Map, Set, WeakMap
   </a>
   <sup>
-   &#9733 5, pushed 176 days ago
+   &#9733 5, pushed 301 days ago
   </sup>
  </li>
  <li>
@@ -1053,7 +1053,7 @@
   </a>
   )
   <sup>
-   &#9733 291, pushed 14 days ago
+   &#9733 291, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1073,7 +1073,7 @@
    Sublime Text and TextMate
   </a>
   <sup>
-   &#9733 456, pushed 13 days ago
+   &#9733 456, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1097,7 +1097,7 @@
   </a>
   for Traceur
   <sup>
-   &#9733 2, pushed 265 days ago
+   &#9733 2, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -1110,8 +1110,14 @@
    Atom
   </a>
   <sup>
-   &#9733 104, pushed 2 days ago
+   &#9733 104, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  Learn ES6 transpilation options in Webstorm
+  <a href="http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/">
+   Read Blog Post
+  </a>
  </li>
 </ul>
 <h2>
@@ -1138,7 +1144,7 @@
   </a>
   format.
   <sup>
-   &#9733 1591, pushed 4 days ago
+   &#9733 1591, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1147,7 +1153,7 @@
   </a>
   - ES6 parser written in ES6.
   <sup>
-   &#9733 91, pushed 25 days ago
+   &#9733 91, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1171,7 +1177,7 @@
   </a>
   - real-world usage examples of ES6 features
   <sup>
-   &#9733 304, pushed 13 days ago
+   &#9733 304, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1180,7 +1186,7 @@
   </a>
   - static analysis tools for ES6
   <sup>
-   &#9733 13, pushed 940 days ago
+   &#9733 13, pushed 1064 days ago
   </sup>
  </li>
  <li>
@@ -1198,7 +1204,7 @@
   </a>
   - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
   <sup>
-   &#9733 15, pushed 578 days ago
+   &#9733 15, pushed 703 days ago
   </sup>
  </li>
  <li>
@@ -1211,7 +1217,7 @@
   </a>
   - validate matching named/default import statements in ES6 modules.
   <sup>
-   &#9733 6, pushed 718 days ago
+   &#9733 6, pushed 843 days ago
   </sup>
  </li>
  <li>
@@ -1224,7 +1230,7 @@
   </a>
   (not accepted into ES6) into either ES3 or ES6
   <sup>
-   &#9733 79, pushed 553 days ago
+   &#9733 79, pushed 678 days ago
   </sup>
  </li>
  <li>
@@ -1241,7 +1247,7 @@
   </a>
   .
   <sup>
-   &#9733 886, pushed 19 days ago
+   &#9733 886, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1250,7 +1256,7 @@
   </a>
   -  Minimalist examples of ES6 functionalities.
   <sup>
-   &#9733 240, pushed 69 days ago
+   &#9733 240, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -1265,7 +1271,7 @@
   </a>
   - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
   <sup>
-   &#9733 5, pushed 587 days ago
+   &#9733 5, pushed 712 days ago
   </sup>
  </li>
  <li>
@@ -1273,7 +1279,7 @@
    Isparta
   </a>
   <sup>
-   &#9733 490, pushed 38 days ago
+   &#9733 490, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -1304,7 +1310,7 @@
   </code>
   support.
   <sup>
-   &#9733 27, pushed 394 days ago
+   &#9733 27, pushed 519 days ago
   </sup>
  </li>
  <li>

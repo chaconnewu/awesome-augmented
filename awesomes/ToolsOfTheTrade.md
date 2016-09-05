@@ -478,7 +478,7 @@
   <a href="https://twitter.com/getblockscore">
    @getblockscore
   </a>
-  | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+  | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
  </li>
 </ul>
 <h4>
@@ -712,14 +712,14 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
   | $10/mo - $30/mo | Dream big, work smart, deliver fast | Makers of @JIRA, @Confluence, @Bitbucket, @HipChat, and more. Software to plan, collaborate, code, and support. Built for teams
  </li>
  <li>
-  Tom's Planner | http://www.tomsplanner.com |
+  Tom's Planner | https://www.tomsplanner.com |
   <a href="https://twitter.com/tomsplanner">
    @tomsplanner
   </a>
   | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
  </li>
  <li>
-  LeanKit | http://leankit.com |
+  LeanKit | https://leankit.com |
   <a href="https://twitter.com/leankit">
    @leankit
   </a>
@@ -750,9 +750,6 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
    @appannie/
   </a>
   | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
- </li>
- <li>
-  Flurry Analytics | http://www.flurry.com/solutions/analytics | free | Industry Standard for free user insights in your mobile app
  </li>
  <li>
   App Figures | https://appfigures.com |
@@ -833,7 +830,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
   Google Analytics | http://www.google.com/analytics/ | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
  </li>
  <li>
-  Piwik | http://piwik.org |
+  Piwik | https://piwik.org |
   <a href="https://twitter.com/piwik">
    @piwik
   </a>
@@ -984,7 +981,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
   | $29/mo + $6/user | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support.
  </li>
  <li>
-  WagePoint | http://wagepoint.com |
+  WagePoint | https://wagepoint.com |
   <a href="https://twitter.com/wagepoint">
    @wagepoint
   </a>
@@ -1220,7 +1217,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
   | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
  </li>
  <li>
-  Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant.
+  Errbit | OSS | http://errbit.com | The open source error catcher that's Airbrake API compliant.
  </li>
  <li>
   Takipi | https://www.takipi.com |
@@ -1305,9 +1302,9 @@ don't have time for analytics | We take your data and present in a beautiful tim
   statsd | https://github.com/etsy/statsd/
  </li>
  <li>
-  Sumo Logic | http://www.sumologic.com |
-  <a href="https://twitter.com/#!/SumoLogic">
-   @#!/SumoLogic
+  Sumo Logic | https://www.sumologic.com |
+  <a href="https://twitter.com/SumoLogic">
+   @SumoLogic
   </a>
   |  | Log Data is Big Data | Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic  provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts.
  </li>
@@ -1331,7 +1328,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
   | $20/ mo | Application monitoring for Java | Next gen Java APM. Full visibility across your stack.  Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra.
  </li>
  <li>
-  New Relic | http://newrelic.com |
+  New Relic | https://newrelic.com |
   <a href="https://twitter.com/NewRelic">
    @NewRelic
   </a>
@@ -1375,8 +1372,8 @@ don't have time for analytics | We take your data and present in a beautiful tim
  </li>
  <li>
   Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing |
-  <a href="https://twitter.com/#!/Neustar">
-   @#!/Neustar
+  <a href="https://twitter.com/Neustar">
+   @Neustar
   </a>
   | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
  </li>
@@ -1505,7 +1502,7 @@ your customers.
   | $0 - $25/mo | Customer support software that embeds into your existing website.
  </li>
  <li>
-  Sirportly | http://sirportly.com |
+  Sirportly | https://sirportly.com |
   <a href="https://twitter.com/sirportly">
    @sirportly
   </a>
@@ -1611,9 +1608,6 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
    Zapier
   </a>
   | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
- </li>
- <li>
-  BlockScore
  </li>
  <li>
   Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
@@ -1724,8 +1718,8 @@ Start building smarter campaigns. | Send customers to a tailored page that speak
  </li>
  <li>
   Launch Effect | http://launcheffectapp.com |
-  <a href="https://twitter.com/#!/LaunchEffect">
-   @#!/LaunchEffect
+  <a href="https://twitter.com/LaunchEffect">
+   @LaunchEffect
   </a>
   | $35/mo-  $65/mo | A WORDPRESS THEME FOR
 VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme that lets you create a viral campaign in minutes
@@ -1954,11 +1948,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
   | Free - $750/mo | Creately | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster.
  </li>
  <li>
-  Keynote | http://www.apple.com/in/mac/keynote/ |
-  <a href="https://twitter.com/keynote">
-   @keynote
-  </a>
-  | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the
+  Keynote | http://www.apple.com/in/mac/keynote/ | $19.99 | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the
   <a href="http://keynotopia.com/">
    Keynotopia Themes
   </a>
@@ -2043,6 +2033,13 @@ your goals and take your project to the next level.
   </a>
   | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
+ </li>
+ <li>
+  Promoter.io | https://www.promoter.io |
+  <a href="https://twitter.com/promoter_io">
+   @Promoter_io
+  </a>
+  | $50/mo - $500/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn.
  </li>
 </ul>
 <h4>
@@ -2259,7 +2256,7 @@ your app or website | Braintree handles transactions for some of the fastest gro
 per successful charge. | Feature-packed payments | No need to design payment forms from scratch. Stripe Checkout offers a beautiful, customizable payment flow that works great across desktop and mobile. When you use Checkout, you’re always up-to-date, with no extra code required.
  </li>
  <li>
-  Pin | http://pin.net.au |
+  Pin | https://pin.net.au |
   <a href="https://twitter.com/pin_payments">
    @pin_payments
   </a>
@@ -2393,9 +2390,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Searchify | http://www.searchify.com/
  </li>
  <li>
-  CloudSearch | http://aws.amazon.com/cloudsearch/
- </li>
- <li>
   SearchBlox | http://www.searchblox.com/
  </li>
 </ul>
@@ -2474,6 +2468,13 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
  <li>
   Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
  </li>
+ <li>
+  OneNote | http://www.onenote.com/ |
+  <a href="https://twitter.com/msonenote">
+   @msonenote
+  </a>
+  | free | The digital note-taking app for your devices
+ </li>
 </ul>
 <h4>
  Group Communication/Chat Tools
@@ -2507,7 +2508,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Google Hangouts
  </li>
  <li>
-  GoToMeeting | http://www.gotomeeting.com/default
+  GoToMeeting | https://www.gotomeeting.com
  </li>
  <li>
   IRCCloud | https://www.irccloud.com/
@@ -2564,7 +2565,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Cloudflare | https://www.cloudflare.com/
  </li>
  <li>
-  Amazon Route 53 | http://aws.amazon.com/route53/
+  Amazon Route 53 | https://aws.amazon.com/route53/
  </li>
  <li>
   DNSimple | https://dnsimple.com/
@@ -2657,7 +2658,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   SSHControl | http://sshcontrol.com/
  </li>
  <li>
-  TuxFamily | https://tuxfamily.org
+  TuxFamily | https://www.tuxfamily.org
  </li>
  <li>
   KForge | https://pypi.python.org/pypi/kforge
@@ -2799,7 +2800,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   | $0/mo - $749/mo | One API for search, key/value, graph, and events.
  </li>
  <li>
-  Compose | https://compose.io | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
+  Compose | https://www.compose.com | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
  </li>
  <li>
   RedisLabs | https://redislabs.com |
@@ -2881,7 +2882,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 </h4>
 <ul>
  <li>
-  Wistia | http://wistia.com |
+  Wistia | https://wistia.com |
  </li>
 </ul>
 <h4>
@@ -2921,7 +2922,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 </h4>
 <ul>
  <li>
-  Crashplan | https://www.code42.com/crashplan/
+  Crashplan | https://www.crashplan.com
  </li>
  <li>
   Arq + S3/Glacier |
@@ -2938,7 +2939,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Freelancer | https://www.freelancer.com/
  </li>
  <li>
-  TaskArmy | http://taskarmy.com
+  TaskArmy | https://taskarmy.com
  </li>
  <li>
   99Designs | https://99designs.com/
@@ -2967,7 +2968,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
   Vagrant | https://www.vagrantup.com/
  </li>
  <li>
-  Salt | http://saltstack.com/community/
+  Salt | https://saltstack.com/community/
  </li>
  <li>
   Prelang | http://prelang.com | Free | Automatic Rails Development
@@ -3010,7 +3011,18 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 </h4>
 <ul>
  <li>
-  Deployd | http://deployd.com/
+  Deployd | http://deployd.com |
+  <a href="https://twitter.com/deploydapp">
+   @deploydapp
+  </a>
+  | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days.
+ </li>
+ <li>
+  Apiary | https://apiary.io |
+  <a href="https://twitter.com/apiaryio">
+   @apiary
+  </a>
+  | Free - $99/mo | Powerful API Design Stack. Built for Developers. | Work together to quickly design, prototype, document and test APIs.
  </li>
 </ul>
 <h4>
@@ -3144,6 +3156,17 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
  </li>
  <li>
   Descriptions should be concise, descriptive and not marketing-focused.
+ </li>
+ <li>
+  Avoid links prepended with
+  <code>
+   /en
+  </code>
+  ,
+  <code>
+   gb
+  </code>
+  etc. so that the link will redirect to the user's own language/location.
  </li>
  <li>
   Follow the addition format which is currently:

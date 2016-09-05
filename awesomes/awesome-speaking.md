@@ -27,7 +27,7 @@
   </a>
   - a collection of awesome tech talks
   <sup>
-   &#9733 1167, pushed 23 days ago
+   &#9733 1167, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -212,7 +212,7 @@
    Sindre Sorhus
   </strong>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -224,7 +224,7 @@
    Peter Kokot
   </strong>
   <sup>
-   &#9733 32, pushed 54 days ago
+   &#9733 32, pushed 178 days ago
   </sup>
  </li>
 </ul>

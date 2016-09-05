@@ -275,6 +275,11 @@
        BlogEngine
       </a>
      </li>
+     <li>
+      <a href="#testing">
+       Testing
+      </a>
+     </li>
     </ul>
    </li>
   </ul>
@@ -366,7 +371,7 @@
   <em>
    Modern C++ Design
   </em>
-  . With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively evangelizing D in the organization.
+  . With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
  </li>
  <li>
   <strong>
@@ -466,6 +471,12 @@
    Video Enchanser
   </a>
   from C/C++ to D.
+ </li>
+ <li>
+  <a href="https://github.com/libmir">
+   libmir
+  </a>
+  - D's numeric library development team
  </li>
 </ul>
 <h2>
@@ -594,6 +605,12 @@
 </p>
 <ul>
  <li>
+  <a href="http://arsdnet.net/this-week-in-d">
+   This week in D
+  </a>
+  - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language.
+ </li>
+ <li>
   <a href="http://planet.dsource.org">
    Planet D
   </a>
@@ -633,7 +650,7 @@
   </a>
   - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
   <sup>
-   &#9733 21, pushed 745 days ago
+   &#9733 21, pushed 870 days ago
   </sup>
  </li>
  <li>
@@ -641,6 +658,11 @@
    D is for Data Science
   </a>
   - A great post about how D is suitable for data science, particularly, replacing the role of python scripts for fast prototyping.
+ </li>
+ <li>
+  <a href="https://garden.dlang.io/">
+   D Functional Garden
+  </a>
  </li>
 </ul>
 <h2>
@@ -686,7 +708,7 @@
   </a>
   - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
   <sup>
-   &#9733 448, pushed 2 days ago
+   &#9733 448, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -695,7 +717,7 @@
   </a>
   - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
   <sup>
-   &#9733 266, pushed 2 days ago
+   &#9733 266, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -704,7 +726,7 @@
   </a>
   - The Stupid D Compiler. Written in D. Grows Smarter every day.
   <sup>
-   &#9733 123, pushed 2 days ago
+   &#9733 123, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -735,6 +757,52 @@
   </a>
   - Scons has built-in support for building D projects, thanks to Russel Winder.
  </li>
+ <li>
+  <a href="https://github.com/premake/premake-dlang">
+   premake
+  </a>
+  - Premake has built-in support for D projects
+ </li>
+ <li>
+  <a href="https://github.com/atilaneves/reggae">
+   reggae
+  </a>
+  - meta build system in D
+ </li>
+ <li>
+  <a href="https://github.com/bioinfornatics/MakefileForD">
+   Makefile
+  </a>
+  - Makefile template for D projects
+ </li>
+ <li>
+  <a href="https://github.com/dcarp/cmake-d">
+   cmake-d
+  </a>
+  - CMake D Projects
+ </li>
+ <li>
+  <a href="https://github.com/gecko0307/Cook2">
+   cook2
+  </a>
+  - Fast incremental build tool intended for projects in D
+ </li>
+ <li>
+  <a href="http://jasonwhite.github.io/button/">
+   button
+  </a>
+  - A universal build system to build your software at the push of a button.
+ </li>
+ <li>
+  <a href="https://github.com/Vild/Wild">
+   wild
+  </a>
+  - Wild build system, used to build the
+  <a href="https://github.com/Vild/PowerNex">
+   PowerNex
+  </a>
+  kernel
+ </li>
 </ul>
 <h2>
  IDE
@@ -759,7 +827,7 @@
   </a>
   . With dub support.
   <sup>
-   &#9733 92, pushed 65 days ago
+   &#9733 92, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -784,7 +852,7 @@
   </a>
   .
   <sup>
-   &#9733 179, pushed 6 days ago
+   &#9733 179, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -793,7 +861,7 @@
   </a>
   - Multiplatform IDE for the D programming language.
   <sup>
-   &#9733 58, pushed 4 days ago
+   &#9733 58, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -806,7 +874,7 @@
   </a>
   . This is a pure D implementation.
   <sup>
-   &#9733 105, pushed 6 days ago
+   &#9733 105, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -820,7 +888,7 @@
   </a>
   - A D language lexer and parser, (possibly) future standard D parser/lexer.
   <sup>
-   &#9733 36, pushed 5 days ago
+   &#9733 36, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -829,7 +897,7 @@
   </a>
   - A lexer generator.
   <sup>
-   &#9733 6, pushed 716 days ago
+   &#9733 6, pushed 841 days ago
   </sup>
  </li>
  <li>
@@ -838,7 +906,7 @@
   </a>
   - A D parser written in C# and used in Mono-D.
   <sup>
-   &#9733 20, pushed 90 days ago
+   &#9733 20, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -847,7 +915,7 @@
   </a>
   - A Parsing Expression Grammar (PEG) module written in D.
   <sup>
-   &#9733 219, pushed 35 days ago
+   &#9733 219, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -862,7 +930,7 @@
   </a>
   - Compile-Time Parser (with converter) Generator written in D.
   <sup>
-   &#9733 36, pushed 363 days ago
+   &#9733 36, pushed 488 days ago
   </sup>
  </li>
  <li>
@@ -871,7 +939,7 @@
   </a>
   - LALR(1) Parser Generator written in D.
   <sup>
-   &#9733 5, pushed 423 days ago
+   &#9733 5, pushed 548 days ago
   </sup>
  </li>
 </ul>
@@ -885,7 +953,7 @@
   </a>
   - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
   <sup>
-   &#9733 406, pushed 182 days ago
+   &#9733 406, pushed 307 days ago
   </sup>
  </li>
 </ul>
@@ -899,7 +967,7 @@
   </a>
   -  Higgs JavaScript Virtual Machine, implemented in D.
   <sup>
-   &#9733 726, pushed 55 days ago
+   &#9733 726, pushed 180 days ago
   </sup>
  </li>
 </ul>
@@ -913,8 +981,26 @@
   </a>
   -  Containers that do not use the GC
   <sup>
-   &#9733 54, pushed 11 days ago
+   &#9733 54, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/etcimon/memutils">
+   memutils
+  </a>
+  - Overhead allocators, allocator-aware containers and lifetime management for D objects
+ </li>
+ <li>
+  <a href="https://github.com/gecko0307/dlib">
+   dlib.container
+  </a>
+  - generic data structures (GC-free dynamic and associative arrays and more)
+ </li>
+ <li>
+  <a href="https://github.com/burner/std.rcstring">
+   std.rcstring
+  </a>
+  - A reference counted string implementation for D's build in string construct
  </li>
 </ul>
 <h2>
@@ -973,7 +1059,7 @@
   </a>
   - Serialisation library for D
   <sup>
-   &#9733 45, pushed 65 days ago
+   &#9733 45, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -982,7 +1068,7 @@
   </a>
   - Google Protocol Buffer support in D.
   <sup>
-   &#9733 25, pushed 2 days ago
+   &#9733 25, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1002,7 +1088,7 @@
   </a>
   -  A library for D that aims to provide the fastest possible implementation of some every day routines.
   <sup>
-   &#9733 62, pushed 157 days ago
+   &#9733 62, pushed 281 days ago
   </sup>
  </li>
  <li>
@@ -1017,8 +1103,40 @@
   </a>
   - Convert between D types and std.json.
   <sup>
-   &#9733 11, pushed 19 days ago
+   &#9733 11, pushed 144 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/s-ludwig/std_data_json">
+   std.data.join
+  </a>
+  - Phobos candidate for JSON serialization (based on Vibed)
+ </li>
+ <li>
+  <a href="https://github.com/tamediadigital/asdf">
+   asdf
+  </a>
+  - Cache oriented string based JSON representation for fast read & writes.
+ </li>
+</ul>
+<h3>
+ XML
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/jacob-carlborg/orange">
+   orange
+  </a>
+  - General purpose serializer (currently only supports XML)
+ </li>
+ <li>
+  <a href="https://github.com/lodo1995/experimental.xml">
+   std.experimental.xml
+  </a>
+  - Phobos candidate for a XML serialization
+ </li>
+ <li>
+  [dom.d] - an xml/html DOM based on what Javascript provides in browsers
  </li>
 </ul>
 <h2>
@@ -1036,7 +1154,7 @@
   </a>
   - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
   <sup>
-   &#9733 740, pushed 1 days ago
+   &#9733 740, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1045,7 +1163,7 @@
   </a>
   - A MySQL client implemented in native D.
   <sup>
-   &#9733 42, pushed 19 days ago
+   &#9733 42, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1054,7 +1172,7 @@
   </a>
   - Database access for D2. Currently only supports PostgreSQL.
   <sup>
-   &#9733 35, pushed 76 days ago
+   &#9733 35, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1063,7 +1181,7 @@
   </a>
   - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
   <sup>
-   &#9733 234, pushed 7 days ago
+   &#9733 234, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1072,7 +1190,7 @@
   </a>
   - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
   <sup>
-   &#9733 34, pushed 18 days ago
+   &#9733 34, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1085,7 +1203,7 @@
   </a>
   ).
   <sup>
-   &#9733 51, pushed 34 days ago
+   &#9733 51, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -1094,7 +1212,7 @@
   </a>
   - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
   <sup>
-   &#9733 17, pushed 341 days ago
+   &#9733 17, pushed 466 days ago
   </sup>
  </li>
  <li>
@@ -1114,7 +1232,7 @@
   </a>
   -  A tiling terminal emulator for Linux using GTK+ 3.
   <sup>
-   &#9733 392, pushed 3 days ago
+   &#9733 392, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1123,7 +1241,7 @@
   </a>
   - Utility library to aid writing script-like programs in D.
   <sup>
-   &#9733 40, pushed 120 days ago
+   &#9733 40, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -1136,7 +1254,7 @@
   </a>
   .
   <sup>
-   &#9733 8, pushed 263 days ago
+   &#9733 8, pushed 388 days ago
   </sup>
  </li>
  <li>
@@ -1171,7 +1289,7 @@
   </a>
   -  A processor for command-line arguments, an alternative to Getopt, written in D.
   <sup>
-   &#9733 8, pushed 30 days ago
+   &#9733 8, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -1194,7 +1312,7 @@
   </a>
   .
   <sup>
-   &#9733 214, pushed 4 days ago
+   &#9733 214, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1203,7 +1321,7 @@
   </a>
   - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
   <sup>
-   &#9733 151, pushed 2 days ago
+   &#9733 151, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1212,7 +1330,7 @@
   </a>
   - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
   <sup>
-   &#9733 65, pushed 19 days ago
+   &#9733 65, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1221,7 +1339,7 @@
   </a>
   - GUI toolkit for the D programming language based on Tcl/Tk.
   <sup>
-   &#9733 73, pushed 27 days ago
+   &#9733 73, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1230,7 +1348,7 @@
   </a>
   -  Qt Qml bindings for the D programming language.
   <sup>
-   &#9733 16, pushed 23 days ago
+   &#9733 16, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1243,8 +1361,17 @@
   </a>
   - crossplatform HTML/CSS/script desktop UI toolkit.
   <sup>
-   &#9733 16, pushed 11 days ago
+   &#9733 16, pushed 135 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Extrawurst/DerelictLibui">
+   LibUI
+  </a>
+  - Dynamic Binding for
+  <a href="https://github.com/andlabs/libui">
+   libui
+  </a>
  </li>
 </ul>
 <p>
@@ -1272,7 +1399,7 @@
   </a>
   -  A kernel written in D
   <sup>
-   &#9733 75, pushed 2 days ago
+   &#9733 75, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1371,7 +1498,7 @@
   </a>
   .
   <sup>
-   &#9733 48, pushed 238 days ago
+   &#9733 48, pushed 363 days ago
   </sup>
  </li>
  <li>
@@ -1384,7 +1511,7 @@
   </a>
   .
   <sup>
-   &#9733 98, pushed 3 days ago
+   &#9733 98, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1397,7 +1524,7 @@
   </a>
   .
   <sup>
-   &#9733 310, pushed 85 days ago
+   &#9733 310, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -1410,7 +1537,7 @@
   </a>
   .
   <sup>
-   &#9733 66, pushed 6 days ago
+   &#9733 66, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1430,7 +1557,7 @@
   </a>
   - A 3d multiplayer deathmatch space game written in D 2.0.
   <sup>
-   &#9733 13, pushed 692 days ago
+   &#9733 13, pushed 817 days ago
   </sup>
  </li>
  <li>
@@ -1439,7 +1566,7 @@
   </a>
   - Robot Tank Battle Game.
   <sup>
-   &#9733 8, pushed 96 days ago
+   &#9733 8, pushed 220 days ago
   </sup>
  </li>
 </ul>
@@ -1466,6 +1593,30 @@
   </a>
   -  A simple Windows app for viewing photos and preparing them for a blog.
  </li>
+ <li>
+  <a href="https://github.com/gecko0307/dlib">
+   dlib.image
+  </a>
+  - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+ </li>
+ <li>
+  <a href="https://github.com/adamdruppe/arsd/blob/master/color.d">
+   color.d
+  </a>
+  +
+  <a href="https://github.com/adamdruppe/arsd/blob/master/bmp.d">
+   bmp.d
+  </a>
+  ,
+  <a href="https://github.com/adamdruppe/arsd/blob/master/jpg.d">
+   jpg.d
+  </a>
+  ,
+  <a href="https://github.com/adamdruppe/arsd/blob/master/png.d">
+   png.d
+  </a>
+  - basic color struct, HSL functions and reading and writing image files
+ </li>
 </ul>
 <h2>
  Scientific
@@ -1482,7 +1633,7 @@
   </a>
   -  Scientific library for the D programming language
   <sup>
-   &#9733 68, pushed 39 days ago
+   &#9733 68, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1491,14 +1642,18 @@
   </a>
   -  A statistics library for D.
   <sup>
-   &#9733 10, pushed 36 days ago
+   &#9733 10, pushed 160 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/DlangScience/mir">
    mir
   </a>
-  -  Generic Numeric Library. Include the ndslice package that is comming into std.
+  -  Generic Numeric Library for Science and Machine Learning. Development version of the
+  <a href="http://dlang.org/phobos/std_experimental_ndslice.html">
+   std.experimental.ndslice
+  </a>
+  module and work-in-progress hub for future numerical additions to Phobos.
  </li>
 </ul>
 <h2>
@@ -1511,7 +1666,7 @@
   </a>
   Command line utilities for tab-separated value files written in the D programming language. Very fast.
   <sup>
-   &#9733 33, pushed 3 days ago
+   &#9733 33, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -1525,13 +1680,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/burner/logger">
-   logger
+  <a href="https://dlang.org/phobos/std_experimental_logger.html">
+   std.experimenatal.logger
   </a>
-  - Phobos logger proposal.
-  <sup>
-   &#9733 6, pushed 285 days ago
-  </sup>
+  - Phobos's upcoming standard logging facility
  </li>
  <li>
   <a href="https://github.com/NCrashed/dlogg">
@@ -1543,7 +1695,7 @@
   </a>
   support.
   <sup>
-   &#9733 11, pushed 431 days ago
+   &#9733 11, pushed 556 days ago
   </sup>
  </li>
 </ul>
@@ -1562,7 +1714,7 @@
   </a>
   - An SDL (Simple Declarative Language) library for D.
   <sup>
-   &#9733 33, pushed 14 days ago
+   &#9733 33, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1571,8 +1723,14 @@
   </a>
   - YAML parser and emitter for the D programming language.
   <sup>
-   &#9733 61, pushed 3 days ago
+   &#9733 61, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/burner/inifiled">
+   inifile-D
+  </a>
+  - A compile time ini file parser and writter generator for D
  </li>
 </ul>
 <h2>
@@ -1590,8 +1748,25 @@
   </a>
   - simple vibe.d based blog engine
   <sup>
-   &#9733 35, pushed 51 days ago
+   &#9733 35, pushed 175 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Testing
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/nomad-software/dunit">
+   dunit
+  </a>
+  - Advanced unit testing & mocking toolkit
+ </li>
+ <li>
+  <a href="https://github.com/atilaneves/unit-threaded">
+   unit-threaded
+  </a>
+  - Multi-threaded unit test framework
  </li>
 </ul>
 <h2>

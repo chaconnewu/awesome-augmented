@@ -45,7 +45,7 @@
   </a>
  </li>
  <li>
-  <a href="http://www.w3.org/wiki/Typography_on_the_Web">
+  <a href="https://www.w3.org/wiki/Typography_on_the_Web">
    W3C Typography on the Web
   </a>
  </li>
@@ -114,6 +114,26 @@
    Typeface Mechanics
   </a>
  </li>
+ <li>
+  <a href="https://www.smashingmagazine.com/2016/05/fluid-typography/">
+   Truly Fluid Typography With vh And vw Units
+  </a>
+ </li>
+ <li>
+  <a href="http://zellwk.com/blog/viewport-based-typography/">
+   Viewport Based Typography
+  </a>
+ </li>
+ <li>
+  <a href="https://www.supremo.tv/typeterms/">
+   Animated Typographic Cheat Sheet
+  </a>
+ </li>
+ <li>
+  <a href="https://viljamis.com/2016/typography-for-user-interfaces/">
+   Typography for User Interfaces
+  </a>
+ </li>
 </ul>
 <h2>
  Web Fonts & Web Performance
@@ -159,6 +179,11 @@
    Using Web Fonts the Best Way (in 2015)
   </a>
  </li>
+ <li>
+  <a href="http://bramstein.com/writing/web-font-loading-patterns.html">
+   Web Font Loading Patterns
+  </a>
+ </li>
 </ul>
 <h2>
  Tools
@@ -169,7 +194,7 @@
    A simple plugin to keep font-size in proportion with it's containers size
   </a>
   <sup>
-   &#9733 25, pushed 167 days ago
+   &#9733 25, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -202,7 +227,7 @@
    Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
   </a>
   <sup>
-   &#9733 701, pushed 32 days ago
+   &#9733 701, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -215,12 +240,17 @@
    brick.im
   </a>
   <sup>
-   &#9733 2829, pushed 18 days ago
+   &#9733 2829, pushed 142 days ago
   </sup>
  </li>
  <li>
   <a href="http://devinhunt.github.io/typebase.css/">
    Typebase.css
+  </a>
+ </li>
+ <li>
+  <a href="https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin">
+   Google WebFonts Helper
   </a>
  </li>
 </ul>
@@ -239,7 +269,7 @@
   </a>
  </li>
  <li>
-  <a href="https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063/276-3263060-1517824?ie=UTF8&*Version*=1&*entries*=0">
+  <a href="https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063">
    The Elements of Typographic Style
   </a>
  </li>
@@ -251,6 +281,16 @@
  <li>
   <a href="http://practicaltypography.com/">
    Practical Typography
+  </a>
+ </li>
+ <li>
+  <a href="http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/">
+   Combining Typefaces: Free guide to great typography
+  </a>
+ </li>
+ <li>
+  <a href="http://typographyhandbook.com/">
+   The Typography Handbook
   </a>
  </li>
 </ul>
@@ -303,6 +343,11 @@
    Google Web Font inspiration in HTML & CSS
   </a>
  </li>
+ <li>
+  <a href="http://www.ourownthing.co.uk/fontpairing/">
+   Google Font Pairing Tool
+  </a>
+ </li>
 </ul>
 <h2>
  Featured
@@ -310,7 +355,7 @@
 <ul>
  <li>
   This
-  <a href="http://deanhume.github.io/typography/">
+  <a href="https://deanhume.github.io/typography/">
    site
   </a>
   was featured on the
@@ -327,7 +372,7 @@
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/licenses/by/4.0/">
+ <a href="https://creativecommons.org/licenses/by/4.0/">
   <img alt="CC0" src="https://licensebuttons.net/l/by/4.0/88x31.png"/>
  </a>
 </p>

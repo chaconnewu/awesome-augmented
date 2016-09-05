@@ -6,6 +6,9 @@
  <a href="https://travis-ci.org/neutraltone/awesome-stock-resources">
   <img alt="Build Status" src="https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master"/>
  </a>
+ <a href="https://www.paypal.me/tonyphipps">
+  <img alt="Support" src="https://img.shields.io/badge/Donate-PayPal-green.svg"/>
+ </a>
 </h1>
 <p>
  <img alt="Introductory images" src="/img/splash.jpg"/>
@@ -157,10 +160,10 @@
 </p>
 <ul>
  <li>
-  <a href="http://alana.io/">
-   Alana
+  <a href="http://absfreepic.com/">
+   ABSFreePic
   </a>
-  - Free “use how you want” stock photos.
+  - A high-resolution and absolutely free photos stock site.
  </li>
  <li>
   <a href="http://barnimages.com/">
@@ -169,7 +172,7 @@
   - Barn Images offers you a collection of free high-resolution non-stock photography.
  </li>
  <li>
-  <a href="http://bossfight.co">
+  <a href="https://bossfight.co">
    Boss Fight!
   </a>
   - 10–20 new images added daily.
@@ -233,6 +236,12 @@
   - Create something awesome with free CC0 images.
  </li>
  <li>
+  <a href="http://freelyphotos.com/">
+   Freely Photos
+  </a>
+  - Totally free high quality Christian stock photography.
+ </li>
+ <li>
   <a href="http://furiouscamera.com/">
    Furious Camera
   </a>
@@ -255,6 +264,12 @@
    Jéshoots
   </a>
   - Photos for business or personal use in high resolution for free.
+ </li>
+ <li>
+  <a href="http://libreshot.com/">
+   LibreShot
+  </a>
+  - A collection of hundreds of high quality free stock images for personal or commercial use.
  </li>
  <li>
   <a href="http://www.lifeofpix.com/">
@@ -285,7 +300,13 @@
   .
  </li>
  <li>
-  <a href="http://mmt.li/">
+  <a href="http://minimography.com/">
+   Minimography
+  </a>
+  - Royalty-Free Minimalist Photos.
+ </li>
+ <li>
+  <a href="http://mmtstock.com/">
    MMT
   </a>
   - New photos by
@@ -331,10 +352,22 @@
   - High-resolution images of everyday india. One new image every day.
  </li>
  <li>
+  <a href="http://pickupimage.com/">
+   Pickupimage
+  </a>
+  - Free download high quality premium free stock images, public domain photos.
+ </li>
+ <li>
   <a href="https://pixabay.com">
    Pixabay
   </a>
   - Stock photos, illustrations, vectors and videos.
+ </li>
+ <li>
+  <a href="https://realgraphy.org/">
+   Realgraphy
+  </a>
+  - Authentic Non-Stock Photos for Free. Forever.
  </li>
  <li>
   <a href="http://realisticshots.com/">
@@ -349,13 +382,25 @@
   - Public domain pictures and stock photos for commercial use.
  </li>
  <li>
+  <a href="http://skuawk.com/">
+   Skuawk
+  </a>
+  - Skuawk public domain photos, free, beautiful and artistically loud.
+ </li>
+ <li>
+  <a href="http://snappygoat.com/">
+   Snappy Goat
+  </a>
+  - Over 12 million public domain & CC0 licensed images.
+ </li>
+ <li>
   <a href="http://snapwiresnaps.tumblr.com/">
    Snapwire Snaps
   </a>
   - Commissioned photos from 170,000 of the world's most talented photographers.
  </li>
  <li>
-  <a href="https://www.flickr.com/photos/spacexphotos/">
+  <a href="https://www.flickr.com/photos/spacex/">
    SpaceX Photos
   </a>
   - Promotional SpaceX stock photography.
@@ -373,6 +418,16 @@
   - Free stock photos. 20 pictures added every month.
  </li>
  <li>
+  <a href="https://www.stockified.com/">
+   Stockified
+  </a>
+  - Free pictures taken in India by Kiran BV and
+  <a href="http://ab-dz.com/">
+   Aditya G Bharadwaj
+  </a>
+  .
+ </li>
+ <li>
   <a href="https://stocksnap.io/">
    Stocksnap
   </a>
@@ -383,6 +438,12 @@
    Stokpic
   </a>
   - Free Stock Photos For Commercial Use.
+ </li>
+ <li>
+  <a href="http://streetwill.co/">
+   Streetwill
+  </a>
+  - Free hi-res vintage photos to use any way you want.
  </li>
  <li>
   <a href="https://thepicpac.com/">
@@ -425,17 +486,27 @@
   The world always needs high quality photography! Here they are for you, so make something awesome out of them.
  </li>
  <li>
+  <a href="http://www.compfight.com">
+   Compfight.com
+  </a>
+  -
+  <a href="https://www.flickr.com/creativecommons/">
+   :copyright:
+  </a>
+  An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
+ </li>
+ <li>
   <a href="http://join.deathtothestockphoto.com/">
    Death to the Stock Photo
   </a>
   -
-  <a href="http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf">
+  <a href="http://www.mediafire.com/download/2ifplcw682487nz/">
    :copyright:
   </a>
   Free monthly photos for all your creative needs.
  </li>
  <li>
-  <a href="http://www.designerspics.com/">
+  <a href="http://www.designerspics.com">
    Designer Pics
   </a>
   -
@@ -457,6 +528,16 @@
    :copyright:
   </a>
   .
+ </li>
+ <li>
+  <a href="https://freerangestock.com/">
+   Freerange
+  </a>
+  -
+  <a href="https://freerangestock.com/licensing.php">
+   :copyright:
+  </a>
+  Quality stock photos for commercial and non-commercial use. For free.
  </li>
  <li>
   <a href="https://goodstock.photos/">
@@ -489,14 +570,24 @@
   Great place to get breathtaking Free Pictures for business or personal projects.
  </li>
  <li>
-  <a href="https://www.morguefile.com/archive">
+  <a href="http://morguefile.com/">
    morgueFile
   </a>
   -
-  <a href="https://www.morguefile.com/terms">
+  <a href="http://morguefile.com/terms">
    :copyright:
   </a>
   Free photo archive by creatives, for creatives.
+ </li>
+ <li>
+  <a href="http://www.photober.com/">
+   Photober
+  </a>
+  -
+  <a href="http://www.photober.com/terms/">
+   :copyright:
+  </a>
+  Free of charge photo downloading site for personal or commercial use.
  </li>
  <li>
   <a href="http://photostockeditor.com">
@@ -527,6 +618,16 @@
    :copyright:
   </a>
   Free hi-resolution photos. Use them however you like.
+ </li>
+ <li>
+  <a href="https://www.rawpixel.com/">
+   Rawpixel
+  </a>
+  -
+  <a href="https://www.rawpixel.com/free-image-license">
+   :copyright:
+  </a>
+  Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
  </li>
  <li>
   <a href="http://shutteroo.com/">
@@ -577,15 +678,15 @@
 </p>
 <ul>
  <li>
-  <a href="http://www.goodfreephotos.com">
+  <a href="https://www.goodfreephotos.com">
    Good Free Photos
   </a>
   -
-  <a href="http://www.goodfreephotos.com/pages/creative-commons-license-terms">
+  <a href="https://www.goodfreephotos.com/pages/creative-commons-license-terms">
    :copyright:
   </a>
   A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by
-  <a href="http://www.goodfreephotos.com/pages/about-me">
+  <a href="https://www.goodfreephotos.com/pages/about-me">
    the website owner
   </a>
   .
@@ -615,11 +716,11 @@
    NYPL Digital Collections
   </a>
   -
-  <a href="http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions">
+  <a href="https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions">
    :copyright:
   </a>
   180.000 items are Public Domain since January 6th 2016
-  <a href="http://www.nypl.org/research/collections/digital-collections/public-domain">
+  <a href="https://www.nypl.org/research/collections/digital-collections/public-domain">
    Public Domain Collections: Free to Share & Reuse
   </a>
  </li>
@@ -686,6 +787,16 @@
    :copyright:
   </a>
   Graphics and photos of space and spaceflight.
+ </li>
+ <li>
+  <a href="http://photoeverywhere.co.uk/">
+   PhotoEverywhere
+  </a>
+  -
+  <a href="http://creativecommons.org/licenses/by/2.5/">
+   :copyright:
+  </a>
+  Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
  </li>
  <li>
   <a href="http://raumrot.com/">
@@ -822,11 +933,11 @@
 </p>
 <ul>
  <li>
-  <a href="https://facebook.github.io/design/">
+  <a href="http://facebook.design/">
    Facebook Design Resource
   </a>
   -
-  <a href="https://facebook.github.io/design/disclaimer.html">
+  <a href="http://facebook.design/disclaimer.html">
    :copyright:
   </a>
   A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
@@ -840,6 +951,16 @@
    :copyright:
   </a>
   Find free vectors, PSD, icons and photos.
+ </li>
+ <li>
+  <a href="http://www.freeVectors.net">
+   FreeVectors.net
+  </a>
+  -
+  <a href="http://www.freevectors.net/terms">
+   :copyright:
+  </a>
+  A fun little community of vector lovers who share free vector graphics.
  </li>
  <li>
   <a href="http://logodust.com/">
@@ -860,6 +981,26 @@
    :copyright:
   </a>
   original logos, icons, characters, illustrations and mobile game designs.
+ </li>
+ <li>
+  <a href="https://sketchrepo.com/">
+   Sketch Repo
+  </a>
+  -
+  <a href="https://sketchrepo.com/about/">
+   :copyright
+  </a>
+  Sketch Repo is a great place to discover Sketch App resources for your next design project.
+ </li>
+ <li>
+  <a href="https://vecteezy.com">
+   Vecteezy
+  </a>
+  -
+  <a href="http://vecteezy.com/terms/">
+   :copyright:
+  </a>
+  Discover & download free vector art from a community of Illustrators.
  </li>
 </ul>
 <h2>
@@ -910,6 +1051,23 @@
    :copyright:
   </a>
   Completely free, CC0 licensed stock videos.
+ </li>
+ <li>
+  <a href="https://www.pond5.com/free">
+   Pond5
+  </a>
+  - Download thousands of historic media files (videos, audio, images and 3d models) for your creative projects.
+completely free.
+ </li>
+ <li>
+  <a href="https://www.videezy.com">
+   Videezy
+  </a>
+  -
+  <a href="https://www.videezy.com/terms">
+   :copyright:
+  </a>
+  Free stock videos, 4k footage, and free HD video clips.
  </li>
  <li>
   <a href="http://www.vidsplay.com/">
@@ -973,18 +1131,8 @@
   </a>
   - Webfonts that actually look good.
   <sup>
-   &#9733 2829, pushed 18 days ago
+   &#9733 2829, pushed 142 days ago
   </sup>
- </li>
- <li>
-  <a href="http://fonts.debian.net">
-   Debian Fonts
-  </a>
-  -
-  <a href="https://www.debian.org/social_contract#guidelines">
-   :copyright:
-  </a>
-  TTF fonts from the Debian repositories.
  </li>
  <li>
   <a href="http://www.fontfabric.com/category/free/">
@@ -993,7 +1141,7 @@
   - Font Fabric's free fonts.
  </li>
  <li>
-  <a href="http://www.fontsquirrel.com">
+  <a href="https://www.fontsquirrel.com">
    Font Squirrel
   </a>
   - Handpicked fonts free for commercial use.
@@ -1051,7 +1199,7 @@
   <a href="http://code.sariina.com/appa-sariicon/">
    Appa Sariicon
   </a>
-  <a href="http://scripts.sil.org/OFL">
+  <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL">
    :copyright:
   </a>
   147 8-bit retro style webfont icons for web and mobile
@@ -1071,20 +1219,20 @@
   .
  </li>
  <li>
+  <a href="http://vorillaz.github.io/devicons/#/main">
+   Devicons
+  </a>
+  -
+  <a href="http://choosealicense.com/licenses/mit/">
+   :copyright:
+  </a>
+  Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
+ </li>
+ <li>
   <a href="https://www.iconfinder.com/">
    Iconfinder
   </a>
   - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
- </li>
- <li>
-  <a href="http://www.flaticon.com/">
-   Flaticon
-  </a>
-  -
-  <a href="http://cdn.flaticon.com/license/license.pdf">
-   :copyright:
-  </a>
-  - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
  </li>
  <li>
   <a href="http://fontawesome.io/">
@@ -1223,7 +1371,7 @@
   </a>
   .
   <sup>
-   &#9733 246, pushed 812 days ago
+   &#9733 246, pushed 937 days ago
   </sup>
  </li>
  <li>
@@ -1303,7 +1451,7 @@
   </a>
   Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
   <sup>
-   &#9733 1722, pushed 449 days ago
+   &#9733 1722, pushed 574 days ago
   </sup>
  </li>
  <li>
@@ -1322,7 +1470,7 @@
   </a>
   SVG icons for popular brands.
   <sup>
-   &#9733 3123, pushed 18 days ago
+   &#9733 3123, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1398,12 +1546,6 @@
   - The super fast color schemes generator for cool designers.
  </li>
  <li>
-  <a href="http://www.flatuicolorpicker.com/">
-   Flat UI Color Picker
-  </a>
-  - A copy and paste resource for colors commonly found in 'flat' designs.
- </li>
- <li>
   <a href="https://flatuicolors.com/">
    Flat UI Colors
   </a>
@@ -1416,7 +1558,7 @@
   - A nice curated color palette inspiration resource.
  </li>
  <li>
-  <a href="http://www.materialui.co/colors">
+  <a href="https://www.materialui.co/colors">
    Material Design Colors
   </a>
   - Material ui color palette for Android, Web & iOS.
@@ -1454,7 +1596,7 @@
   - Search engine for stock photo websites.
  </li>
  <li>
-  <a href="http://www.sitebuilderreport.com/stock-up">
+  <a href="https://www.sitebuilderreport.com/stock-up">
    Stock Up
   </a>
   - Searching 9,301 (and counting) free stock photos across 25 websites.
@@ -1484,24 +1626,34 @@
   Free themes for Bootstrap.
  </li>
  <li>
-  <a href="http://html5up.net/">
+  <a href="https://html5up.net/">
    HTML5 Up
   </a>
   -
-  <a href="http://html5up.net/license">
+  <a href="http://creativecommons.org/licenses/by/3.0/">
    :copyright:
   </a>
   HTML5 UP makes spiffy HTML5 site templates.
  </li>
  <li>
-  <a href="http://templated.co/">
+  <a href="https://templated.co/">
    Templated
   </a>
   -
-  <a href="http://templated.co/license">
+  <a href="https://templated.co/license">
    :copyright:
   </a>
   A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+ </li>
+ <li>
+  <a href="https://themezy.com">
+   Themezy
+  </a>
+  -
+  <a href="https://themezy.com/terms">
+   :copyright:
+  </a>
+  Free WordPress themes and website templates.
  </li>
 </ul>
 <h2>
@@ -1520,6 +1672,16 @@
    :copyright:
   </a>
   Royalty free music by Bensound.
+ </li>
+ <li>
+  <a href="http://ccmixter.org/">
+   ccMixter
+  </a>
+  -
+  <a href="http://ccmixter.org/how-to-attribute-ccmixter-tracks">
+   :copyright:
+  </a>
+  ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
  </li>
  <li>
   <a href="http://free-loops.com">
@@ -1586,14 +1748,24 @@
   Machine learning powered royalty-free original music.
  </li>
  <li>
-  <a href="http://www.sectionz.com/cc.asp">
-   Opsound
+  <a href="http://ourmusicbox.com/">
+   Our Music Box
   </a>
   -
-  <a href="http://creativecommons.org/">
+  <a href="https://creativecommons.org/licenses/by/4.0/">
    :copyright:
   </a>
-  Free music from a community of musicians.
+  free royalty free music by Jay Man.
+ </li>
+ <li>
+  <a href="http://soundimage.org/">
+   Sound Image
+  </a>
+  -
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+   :copyright:
+  </a>
+  Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
  </li>
  <li>
   <a href="http://soundbible.com">
@@ -1659,7 +1831,7 @@
 </h2>
 <ul>
  <li>
-  <a href="https://twitter.com/home?status=https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%0AAwesome+Stock+Resources">
+  <a href="https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design">
    Share on Twitter
   </a>
  </li>
@@ -1683,11 +1855,11 @@
  Donate :heart:
 </h2>
 <p>
- And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
+ And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
 </p>
 <p>
- <a href="https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n">
-  <img alt="Support" src="https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n"/>
+ <a href="https://www.paypal.me/tonyphipps">
+  <img alt="Support" src="https://img.shields.io/badge/Donate-PayPal-green.svg"/>
  </a>
 </p>
 <h2>

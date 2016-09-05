@@ -308,6 +308,24 @@
 <p>
  Starting with time series analysis, you will also learn how to optimize portfolios and how asset pricing models work. The book then covers fixed income securities and derivatives such as credit risk management.
 </p>
+<h4>
+ Mastering R for Quantitative Finance
+ <a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-r-quantitative-finance">
+  [Packt]
+ </a>
+</h4>
+<p>
+ <img src="http://ecx.images-amazon.com/images/I/5197WMSfufL._SX403_BO1,204,203,200_.jpg" width="200px"/>
+</p>
+<p>
+ R is a powerful open source functional programming language that provides high level graphics and interfaces to other languages. Its strength lies in data analysis, graphics, visualization, and data manipulation. R is becoming a widely used modeling tool in science, engineering, and business.
+</p>
+<p>
+ The book is organized as a step-by-step practical guide to using R. Starting with time series analysis, you will also learn how to forecast the volume for VWAP Trading. Among other topics, the book covers FX derivatives, interest rate derivatives, and optimal hedging. The last chapters provide an overview on liquidity risk management, risk measures, and more.
+</p>
+<p>
+ The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
+</p>
 <h2>
  Machine Learning
 </h2>

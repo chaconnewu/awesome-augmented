@@ -276,6 +276,12 @@
   </a>
   A discussion surrounding the history and future of Web Components in modern web development.
  </li>
+ <li>
+  <a href="https://medium.com/the-ui-files/understanding-web-components-d051baa66019">
+   Understanding Web Components
+  </a>
+  Another overview of web components specs and explanation of their advantages: composability, encapsulation, reusability.
+ </li>
 </ul>
 <h2>
  Getting Started
@@ -322,7 +328,7 @@
   </a>
   A demo of interoperability between Sass and Polymer.
   <sup>
-   &#9733 35, pushed 341 days ago
+   &#9733 35, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -331,7 +337,7 @@
   </a>
   A demo of interoperability between Less and Polymer.
   <sup>
-   &#9733 16, pushed 341 days ago
+   &#9733 16, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -340,7 +346,7 @@
   </a>
   A demo of interoperability between Polymer and AngularJs.
   <sup>
-   &#9733 35, pushed 522 days ago
+   &#9733 35, pushed 646 days ago
   </sup>
  </li>
  <li>
@@ -360,7 +366,7 @@
   </a>
   A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
   <sup>
-   &#9733 116, pushed 5 days ago
+   &#9733 116, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -375,7 +381,7 @@
   </a>
   X-Tag generator for Yeoman
   <sup>
-   &#9733 6, pushed 754 days ago
+   &#9733 6, pushed 879 days ago
   </sup>
  </li>
  <li>
@@ -384,7 +390,7 @@
   </a>
   Yeoman Generator Bosonic
   <sup>
-   &#9733 2, pushed 234 days ago
+   &#9733 2, pushed 359 days ago
   </sup>
  </li>
  <li>
@@ -393,7 +399,7 @@
   </a>
   A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
   <sup>
-   &#9733 30, pushed 333 days ago
+   &#9733 30, pushed 457 days ago
   </sup>
  </li>
 </ul>
@@ -407,7 +413,7 @@
   </a>
   Polymer element boilerplate Tests
   <sup>
-   &#9733 276, pushed 20 days ago
+   &#9733 276, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -416,7 +422,7 @@
   </a>
   web-component-tester makes testing your web components a breeze!
   <sup>
-   &#9733 316, pushed 3 days ago
+   &#9733 316, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -500,7 +506,7 @@
   </a>
   This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
   <sup>
-   &#9733 298, pushed 598 days ago
+   &#9733 298, pushed 723 days ago
   </sup>
  </li>
 </ul>
@@ -549,7 +555,7 @@
   </a>
   Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
   <sup>
-   &#9733 589, pushed 4 days ago
+   &#9733 589, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -609,7 +615,7 @@
   </a>
   Concatenate a set of Web Components into one file
   <sup>
-   &#9733 1035, pushed 12 days ago
+   &#9733 1035, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -623,7 +629,7 @@
   </a>
   A bare minimum custom element starter-kit using Polymer.
   <sup>
-   &#9733 358, pushed 301 days ago
+   &#9733 358, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -632,7 +638,7 @@
   </a>
   A bare minimum custom element starter-kit using X-Tag.
   <sup>
-   &#9733 45, pushed 341 days ago
+   &#9733 45, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -641,7 +647,7 @@
   </a>
   A bare minimum custom element starter-kit using VanillaJS.
   <sup>
-   &#9733 166, pushed 341 days ago
+   &#9733 166, pushed 465 days ago
   </sup>
  </li>
 </ul>

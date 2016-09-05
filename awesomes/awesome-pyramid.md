@@ -222,7 +222,7 @@ based on
   -
 provides a CRUD interface for pyramid based on FormAlchemy.
   <sup>
-   &#9733 51, pushed 1107 days ago
+   &#9733 51, pushed 1232 days ago
   </sup>
  </li>
  <li>
@@ -236,7 +236,7 @@ provides a CRUD interface for pyramid based on FormAlchemy.
 Provides an administration web interface for Pyramid.
 Unlike classic CRUD, pyramid
   <sup>
-   &#9733 33, pushed 46 days ago
+   &#9733 33, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -257,7 +257,7 @@ built on the resources and mechanism traversal, allows to use it in various case
   </a>
   - extension for pyramid
   <sup>
-   &#9733 3, pushed 6 days ago
+   &#9733 3, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -275,7 +275,7 @@ which provides SQLAlchemy models.
   pyramid
  </a>
  <sup>
-  &#9733 0, pushed 298 days ago
+  &#9733 0, pushed 423 days ago
  </sup>
 </li>
 sacrud
@@ -307,7 +307,7 @@ a list of records as tree. This works fine with models from
   - Pyramid
 extension for working with the webassets library.
   <sup>
-   &#9733 60, pushed 335 days ago
+   &#9733 60, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -317,7 +317,7 @@ extension for working with the webassets library.
   -
 integration of Bowerstatic in Pyramid
   <sup>
-   &#9733 12, pushed 482 days ago
+   &#9733 12, pushed 606 days ago
   </sup>
  </li>
 </ul>
@@ -332,7 +332,7 @@ integration of Bowerstatic in Pyramid
   - Run pyramid using
 asyncio.
   <sup>
-   &#9733 44, pushed 75 days ago
+   &#9733 44, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +344,7 @@ gevent-socketio is a Python implementation of the Socket.IO protocol,
 developed originally for Node.js by LearnBoost and then ported to other
 languages.
   <sup>
-   &#9733 1021, pushed 8 days ago
+   &#9733 1021, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -355,8 +355,14 @@ languages.
 adding WebSockets support to pyramid applications using the excellent
 eventlet library for long running connections.
   <sup>
-   &#9733 35, pushed 1376 days ago
+   &#9733 35, pushed 1501 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/AppEnlight/channelstream">
+   channelstream
+  </a>
+  - websocket communication server (gevent).
  </li>
 </ul>
 <h2>
@@ -375,7 +381,7 @@ eventlet library for long running connections.
   - an LDAP
 authentication policy for Pyramid.
   <sup>
-   &#9733 8, pushed 1021 days ago
+   &#9733 8, pushed 1146 days ago
   </sup>
  </li>
  <li>
@@ -385,7 +391,7 @@ authentication policy for Pyramid.
   - Authentication policy
 for pyramid using repoze.who 2.0 API.
   <sup>
-   &#9733 10, pushed 1492 days ago
+   &#9733 10, pushed 1616 days ago
   </sup>
  </li>
  <li>
@@ -399,7 +405,7 @@ authentication for web applications. it supports most of auth
   </a>
   .
   <sup>
-   &#9733 244, pushed 272 days ago
+   &#9733 244, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -413,7 +419,7 @@ to use
   </a>
   for authentication.
   <sup>
-   &#9733 24, pushed 235 days ago
+   &#9733 24, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -423,7 +429,7 @@ to use
   - session
 based authentication and role based security for Pyramid application
   <sup>
-   &#9733 25, pushed 7 days ago
+   &#9733 25, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +443,7 @@ authentication/registration mechanism with support for a large number of
   </a>
   .
   <sup>
-   &#9733 2237, pushed 4 days ago
+   &#9733 2237, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -447,7 +453,7 @@ authentication/registration mechanism with support for a large number of
   -  Simple yet powerful
 authorization / authentication client library for Python web applications.
   <sup>
-   &#9733 671, pushed 7 days ago
+   &#9733 671, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -458,7 +464,7 @@ authorization / authentication client library for Python web applications.
 to add Authentication and Authorization using Velruse (OAuth) and/or a local
 database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
   <sup>
-   &#9733 88, pushed 535 days ago
+   &#9733 88, pushed 659 days ago
   </sup>
  </li>
  <li>
@@ -469,7 +475,7 @@ database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
 That will make it simpler to have a secure authentication policy with an easy
 to use backend.
   <sup>
-   &#9733 5, pushed 17 days ago
+   &#9733 5, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -481,7 +487,7 @@ implements an authentication policy for Pyramid that using [JSON Web Tokens].
 This standard ([RFC 7519]) is often used to secure backens APIs. The
 excellent [PyJWT] library is used for the JWT encoding / decoding logic.
   <sup>
-   &#9733 6, pushed 37 days ago
+   &#9733 6, pushed 162 days ago
   </sup>
  </li>
 </ul>
@@ -502,7 +508,7 @@ excellent [PyJWT] library is used for the JWT encoding / decoding logic.
 Framework agnostic set of sqlalchemy classes that make building applications
 that require permissions an easy task.
   <sup>
-   &#9733 26, pushed 6 days ago
+   &#9733 26, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +519,7 @@ that require permissions an easy task.
 An authentication policy for Pyramid that proxies to a stack of other
 authentication policies.
   <sup>
-   &#9733 29, pushed 82 days ago
+   &#9733 29, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -523,7 +529,7 @@ authentication policies.
   -  Use
 multiple authentication policies with Pyramid.
   <sup>
-   &#9733 7, pushed 997 days ago
+   &#9733 7, pushed 1121 days ago
   </sup>
  </li>
  <li>
@@ -533,7 +539,7 @@ multiple authentication policies with Pyramid.
   - User registration and login system
 for the Pyramid Web Framework.
   <sup>
-   &#9733 12, pushed 727 days ago
+   &#9733 12, pushed 852 days ago
   </sup>
  </li>
 </ul>
@@ -561,7 +567,7 @@ dogpile.cache
    </li>
   </ul>
   <sup>
-   &#9733 49, pushed 304 days ago
+   &#9733 49, pushed 429 days ago
   </sup>
  </li>
  <li>
@@ -575,7 +581,7 @@ dogpile.cache
   -
 Pyramid web framework session factory backed by Redis.
   <sup>
-   &#9733 36, pushed 169 days ago
+   &#9733 36, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -589,7 +595,7 @@ Pyramid web framework session factory backed by Redis.
   -
 dogpile.cache configuration package for Pyramid
   <sup>
-   &#9733 3, pushed 592 days ago
+   &#9733 3, pushed 716 days ago
   </sup>
  </li>
  <li>
@@ -599,7 +605,7 @@ dogpile.cache configuration package for Pyramid
   - Multiple
 session support for the Pyramid Web Framework
   <sup>
-   &#9733 0, pushed 480 days ago
+   &#9733 0, pushed 605 days ago
   </sup>
  </li>
  <li>
@@ -618,7 +624,7 @@ defines an encrypting, pickle-based cookie serializer, using
   to generate the
 symmetric encryption for the cookie state.
   <sup>
-   &#9733 5, pushed 77 days ago
+   &#9733 5, pushed 202 days ago
   </sup>
  </li>
 </ul>
@@ -639,7 +645,7 @@ symmetric encryption for the cookie state.
 provides a debug toolbar useful while you're developing your Pyramid
 application.
   <sup>
-   &#9733 77, pushed 10 days ago
+   &#9733 77, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -649,7 +655,7 @@ application.
   - a package which
 logs exceptions from Pyramid applications.
   <sup>
-   &#9733 20, pushed 28 days ago
+   &#9733 20, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -663,7 +669,7 @@ logs exceptions from Pyramid applications.
   -
 dogpile caching support for pyramid_debugtoolbar
   <sup>
-   &#9733 1, pushed 172 days ago
+   &#9733 1, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -673,7 +679,7 @@ dogpile caching support for pyramid_debugtoolbar
   - IPython
 bindings for Pyramid's pshell
   <sup>
-   &#9733 0, pushed 195 days ago
+   &#9733 0, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -683,7 +689,7 @@ bindings for Pyramid's pshell
   - bpython
 bindings for Pyramid's pshell
   <sup>
-   &#9733 0, pushed 195 days ago
+   &#9733 0, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -692,7 +698,7 @@ bindings for Pyramid's pshell
   </a>
   - Pyramid tween to generate a callgraph image for every request
   <sup>
-   &#9733 0, pushed 134 days ago
+   &#9733 0, pushed 259 days ago
   </sup>
  </li>
 </ul>
@@ -712,7 +718,7 @@ bindings for Pyramid's pshell
   - A package for
 sending email from your Pyramid application.
   <sup>
-   &#9733 41, pushed 239 days ago
+   &#9733 41, pushed 364 days ago
   </sup>
  </li>
  <li>
@@ -722,7 +728,7 @@ sending email from your Pyramid application.
   -
 Pyramid integration package for marrow.mailer, formerly known as TurboMail
   <sup>
-   &#9733 4, pushed 488 days ago
+   &#9733 4, pushed 613 days ago
   </sup>
  </li>
  <li>
@@ -732,7 +738,7 @@ Pyramid integration package for marrow.mailer, formerly known as TurboMail
   -
 Pyramid integration package for marrow.mailer, formerly known as TurboMail
   <sup>
-   &#9733 0, pushed 97 days ago
+   &#9733 0, pushed 221 days ago
   </sup>
  </li>
 </ul>
@@ -752,7 +758,7 @@ Pyramid integration package for marrow.mailer, formerly known as TurboMail
   - is a Python HTML form generation
 library.
   <sup>
-   &#9733 170, pushed 18 days ago
+   &#9733 170, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -763,7 +769,7 @@ library.
 serialization/deserialization/validation library for strings, mappings and
 lists.
   <sup>
-   &#9733 239, pushed 10 days ago
+   &#9733 239, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -773,7 +779,7 @@ lists.
   - is a flexible forms
 validation and rendering library for python web development.
   <sup>
-   &#9733 507, pushed 9 days ago
+   &#9733 507, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -784,7 +790,7 @@ validation and rendering library for python web development.
 helps you to auto-generate Colander schemas that are based on SQLAlchemy
 mapped classes.
   <sup>
-   &#9733 53, pushed 123 days ago
+   &#9733 53, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +801,7 @@ mapped classes.
 lightweight library for converting complex objects to and from simple Python
 datatypes (i.e. (de)serialization and validation).
   <sup>
-   &#9733 1082, pushed 5 days ago
+   &#9733 1082, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -810,7 +816,7 @@ datatypes (i.e. (de)serialization and validation).
   - This is
 conector for elfinder file manager, written for pyramid framework.
   <sup>
-   &#9733 0, pushed 294 days ago
+   &#9733 0, pushed 419 days ago
   </sup>
  </li>
  <li>
@@ -819,7 +825,7 @@ conector for elfinder file manager, written for pyramid framework.
   </a>
   - This is a package for handling file uploads in your Pyramid framework application.
   <sup>
-   &#9733 8, pushed 75 days ago
+   &#9733 8, pushed 200 days ago
   </sup>
  </li>
 </ul>
@@ -841,7 +847,7 @@ build & document REST-ish Web Services with Pyramid, with decent default
 behaviors. It takes care of following the HTTP specification in an automated
 way where possible.
   <sup>
-   &#9733 274, pushed 5 days ago
+   &#9733 274, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -856,7 +862,7 @@ which provides a very convenient way to build REST servers. It is build on
 top of Pyramid, but you do not need to know much about Pyramid to use
 rest
   <sup>
-   &#9733 27, pushed 20 days ago
+   &#9733 27, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -868,7 +874,7 @@ toolkit.
  - Royal is a
 pyramid extension which eases writing RESTful web applications.
  <sup>
-  &#9733 22, pushed 165 days ago
+  &#9733 22, pushed 290 days ago
  </sup>
 </li>
 <li>
@@ -879,7 +885,7 @@ pyramid extension which eases writing RESTful web applications.
 to ease the implementation of HTTP microservices, such as data-driven REST
 APIs.
  <sup>
-  &#9733 68, pushed 1 days ago
+  &#9733 68, pushed 126 days ago
  </sup>
 </li>
 <li>
@@ -889,7 +895,7 @@ APIs.
  - A friendly library for parsing
 HTTP request arguments, with built-in support for popular web frameworks.
  <sup>
-  &#9733 312, pushed 1 days ago
+  &#9733 312, pushed 126 days ago
  </sup>
 </li>
 <li>
@@ -899,7 +905,7 @@ HTTP request arguments, with built-in support for popular web frameworks.
  - Generate a RESTful API using
 RAML. It uses Nefertari which provides ElasticSearch-powered views.
  <sup>
-  &#9733 219, pushed 32 days ago
+  &#9733 219, pushed 157 days ago
  </sup>
 </li>
 <li>
@@ -909,7 +915,7 @@ RAML. It uses Nefertari which provides ElasticSearch-powered views.
  -  Nefertari is a REST
 API framework sitting on top of Pyramid and ElasticSearch
  <sup>
-  &#9733 38, pushed 2 days ago
+  &#9733 38, pushed 127 days ago
  </sup>
 </li>
 <li>
@@ -919,7 +925,7 @@ API framework sitting on top of Pyramid and ElasticSearch
  - Convenient
 tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
  <sup>
-  &#9733 33, pushed 7 days ago
+  &#9733 33, pushed 132 days ago
  </sup>
 </li>
 <h2>
@@ -938,7 +944,7 @@ tools for using Swagger to define and validate your interfaces in a Pyramid weba
   - A Python indexing and
 searching system.
   <sup>
-   &#9733 21, pushed 29 days ago
+   &#9733 21, pushed 154 days ago
   </sup>
  </li>
 </ul>
@@ -961,7 +967,7 @@ searching system.
   -
 SMS services for Pyramid web framework.
   <sup>
-   &#9733 2, pushed 5 days ago
+   &#9733 2, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -981,7 +987,7 @@ SMS services for Pyramid web framework.
   - Zope Configuration
 Markup Language configuration support for Pyramid.
   <sup>
-   &#9733 3, pushed 52 days ago
+   &#9733 3, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -992,7 +998,7 @@ Markup Language configuration support for Pyramid.
 pattern and helper methods for accessing a pluggable service layer from
 within your Pyramid apps.
   <sup>
-   &#9733 39, pushed 90 days ago
+   &#9733 39, pushed 214 days ago
   </sup>
  </li>
 </ul>
@@ -1013,7 +1019,7 @@ provide new storage backends.
   - Centralized transaction
 management for Pyramid applications (without middleware).
   <sup>
-   &#9733 24, pushed 8 days ago
+   &#9733 24, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1031,7 +1037,7 @@ you)
    </li>
   </ul>
   <sup>
-   &#9733 17, pushed 8 days ago
+   &#9733 17, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1041,7 +1047,7 @@ you)
   -
 provides some basic glue to facilitate using SQLAlchemy with Pyramid.
   <sup>
-   &#9733 21, pushed 5 days ago
+   &#9733 21, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1051,7 +1057,7 @@ provides some basic glue to facilitate using SQLAlchemy with Pyramid.
   - ZODB
 Database connection management for Pyramid.
   <sup>
-   &#9733 4, pushed 131 days ago
+   &#9733 4, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -1061,7 +1067,7 @@ Database connection management for Pyramid.
   -
 pyramid-mongoengine package based on flask-mongoengine
   <sup>
-   &#9733 8, pushed 272 days ago
+   &#9733 8, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -1071,8 +1077,18 @@ pyramid-mongoengine package based on flask-mongoengine
   - 
 Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
   <sup>
-   &#9733 39, pushed 872 days ago
+   &#9733 39, pushed 996 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pyexcel/pyramid-excel">
+   pyramid-excel
+  </a>
+  - pyramid-excel is based on
+  <a href="https://github.com/pyexcel/pyexcel">
+   pyexcel
+  </a>
+  and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
  </li>
 </ul>
 <h2>
@@ -1092,7 +1108,7 @@ Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid We
 configuration with celery integration. Allows you to use pyramid .ini files
 to configure celery and have your pyramid configuration inside celery tasks.
   <sup>
-   &#9733 71, pushed 155 days ago
+   &#9733 71, pushed 280 days ago
   </sup>
  </li>
  <li>
@@ -1106,7 +1122,7 @@ queueing system with pyramid. The easiest way to monitor and use
   </a>
   in your Pyramid projects.
   <sup>
-   &#9733 8, pushed 410 days ago
+   &#9733 8, pushed 535 days ago
   </sup>
  </li>
 </ul>
@@ -1121,7 +1137,7 @@ queueing system with pyramid. The easiest way to monitor and use
   - Mako templating
 system bindings for the Pyramid web framework.
   <sup>
-   &#9733 15, pushed 388 days ago
+   &#9733 15, pushed 512 days ago
   </sup>
  </li>
  <li>
@@ -1131,7 +1147,7 @@ system bindings for the Pyramid web framework.
   - Chameleon
 template compiler for pyramid.
   <sup>
-   &#9733 7, pushed 22 days ago
+   &#9733 7, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1141,7 +1157,7 @@ template compiler for pyramid.
   - Jinja2
 templating system bindings for the Pyramid web framework.
   <sup>
-   &#9733 63, pushed 101 days ago
+   &#9733 63, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -1151,8 +1167,17 @@ templating system bindings for the Pyramid web framework.
   - Python templating engine
 with Pyramid integration
   <sup>
-   &#9733 0, pushed 286 days ago
+   &#9733 0, pushed 411 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nandoflorestan/kajiki">
+   Kajiki
+  </a>
+  - provides fast well-formed XML templates, with
+  <a href="https://github.com/nandoflorestan/kajiki/blob/master/kajiki/integration/pyramid.py">
+   Pyramid integration
+  </a>
  </li>
 </ul>
 <h2>
@@ -1172,7 +1197,7 @@ with Pyramid integration
 makes it easy to send test requests to that application, without starting up
 an HTTP server.
   <sup>
-   &#9733 150, pushed 21 days ago
+   &#9733 150, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -1194,7 +1219,7 @@ to extract translatable texts from your code, and to check existing
 translations. It replaces the use of the xgettext command from gettext, or
 pybabel from Babel.
   <sup>
-   &#9733 36, pushed 25 days ago
+   &#9733 36, pushed 150 days ago
   </sup>
  </li>
 </ul>
@@ -1220,7 +1245,7 @@ pybabel from Babel.
   - Pyramid add-on
 for managing UI layouts.
   <sup>
-   &#9733 17, pushed 11 days ago
+   &#9733 17, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1230,7 +1255,7 @@ for managing UI layouts.
   - This package
 provides a simple framework to integrate code with templates and resources.
   <sup>
-   &#9733 0, pushed 588 days ago
+   &#9733 0, pushed 713 days ago
   </sup>
  </li>
  <li>
@@ -1241,7 +1266,7 @@ provides a simple framework to integrate code with templates and resources.
 production-quality pure-Python WSGI server with very acceptable performance.
 It has no dependencies except ones which live in the Python standard library.
   <sup>
-   &#9733 254, pushed 18 days ago
+   &#9733 254, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1251,7 +1276,7 @@ It has no dependencies except ones which live in the Python standard library.
   - analogue of
 Pylons-style “controllers” for Pyramid.
   <sup>
-   &#9733 9, pushed 1214 days ago
+   &#9733 9, pushed 1338 days ago
   </sup>
  </li>
  <li>
@@ -1264,7 +1289,7 @@ Pylons-style “controllers” for Pyramid.
   - RPC service add-on for
 Pyramid, supports XML-RPC in a more extensible manner than pyramid
   <sup>
-   &#9733 20, pushed 20 days ago
+   &#9733 20, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -1277,7 +1302,7 @@ with support for JSON-RPC and AMF.
  - Sphinx
 extension for documenting your Pyramid APIs.
  <sup>
-  &#9733 6, pushed 5 days ago
+  &#9733 6, pushed 130 days ago
  </sup>
 </li>
 <li>
@@ -1289,7 +1314,7 @@ collections of tree pages to your Pyramid application. This is very similar
 to django.contrib.flatpages but with a tree structure and traversal algorithm
 in URL dispath.
  <sup>
-  &#9733 7, pushed 1 days ago
+  &#9733 7, pushed 126 days ago
  </sup>
 </li>
 <li>
@@ -1298,7 +1323,7 @@ in URL dispath.
  </a>
  - Python pagination module.
  <sup>
-  &#9733 20, pushed 10 days ago
+  &#9733 20, pushed 135 days ago
  </sup>
 </li>
 <li>
@@ -1308,7 +1333,7 @@ in URL dispath.
  - tablib renderer
 (xlsx, xls, csv) for pyramid
  <sup>
-  &#9733 6, pushed 418 days ago
+  &#9733 6, pushed 543 days ago
  </sup>
 </li>
 <li>
@@ -1318,7 +1343,7 @@ in URL dispath.
  - Simple utility library
 around pyramid routing
  <sup>
-  &#9733 1, pushed 314 days ago
+  &#9733 1, pushed 439 days ago
  </sup>
 </li>
 <li>
@@ -1327,7 +1352,7 @@ around pyramid routing
  </a>
  - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
  <sup>
-  &#9733 11, pushed 30 days ago
+  &#9733 11, pushed 155 days ago
  </sup>
 </li>
 <h1>
@@ -1364,7 +1389,7 @@ box content management system for mobile and desktop websites based on python
 and the webframework pyramid. Please refer to the website cms.nive.co for
 detailed information.
   <sup>
-   &#9733 11, pushed 53 days ago
+   &#9733 11, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -1376,7 +1401,7 @@ built upon the Pyramid web framework. It provides a user interface for
 managing content as well as libraries and utilities which make it easy to
 create applications.
   <sup>
-   &#9733 115, pushed 20 days ago
+   &#9733 115, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1386,7 +1411,7 @@ create applications.
   - A user-friendly, light-weight and
 extensible web content management system. Based on Pyramid and SQLAlchemy.
   <sup>
-   &#9733 292, pushed 13 days ago
+   &#9733 292, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1417,7 +1442,7 @@ details.
 based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
 the use of ZODB within a Pyramid application.
   <sup>
-   &#9733 20, pushed 1539 days ago
+   &#9733 20, pushed 1663 days ago
   </sup>
  </li>
  <li>
@@ -1429,7 +1454,7 @@ competition” application by Carlos de la Guardia and Lukasz Fidosz. It
 demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
 and pyramid_simpleform.
   <sup>
-   &#9733 94, pushed 943 days ago
+   &#9733 94, pushed 1067 days ago
   </sup>
  </li>
  <li>
@@ -1442,7 +1467,7 @@ documents, HTML documents, and images from a filesystem directory. It’s also
 a good example of traversal. An earlier version of this application runs the
 repoze.org website.
   <sup>
-   &#9733 19, pushed 1539 days ago
+   &#9733 19, pushed 1663 days ago
   </sup>
  </li>
  <li>
@@ -1470,7 +1495,7 @@ SQLAlchemy.
   - Ptah is a fast, fun, open
 source high-level Python web development environment.
   <sup>
-   &#9733 73, pushed 324 days ago
+   &#9733 73, pushed 449 days ago
   </sup>
  </li>
  <li>
@@ -1481,7 +1506,7 @@ source high-level Python web development environment.
 generation Python Package Repository designed to replace the legacy code base
 that currently powers PyPI.
   <sup>
-   &#9733 522, pushed 1 days ago
+   &#9733 522, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1527,6 +1552,14 @@ Stay Finished Framework. Official website.
 <h2>
  Conferences
 </h2>
+<ul>
+ <li>
+  <a href="https://2016.ploneconf.org/">
+   PloneConf 2016
+  </a>
+  - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
+ </li>
+</ul>
 <h2>
  Videos
 </h2>
@@ -1564,16 +1597,11 @@ development and the features unique to Pyramid.
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/Pylons/pyramid/wiki/Companies-and-organizations-that-use-Pyramid">
-   Companies and organizations that use
+  <a href="https://trypyramid.com/community-powered-by-pyramid.html">
+   Projects, Websites, Companies and Organizations that use
 Pyramid
   </a>
- </li>
- <li>
-  <a href="https://github.com/Pylons/pyramid/wiki/Projects-that-use-Pyramid">
-   Projects that use
-Pyramid
-  </a>
+  - add your project to the list
  </li>
 </ul>
 <h1>
@@ -1587,7 +1615,7 @@ resources.
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

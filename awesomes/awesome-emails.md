@@ -43,7 +43,7 @@
   </a>
   - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
   <sup>
-   &#9733 5609, pushed 1 days ago
+   &#9733 5609, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -63,7 +63,7 @@
   </a>
   - Compose responsive email templates easily, fill them with models, and send them out.
   <sup>
-   &#9733 555, pushed 35 days ago
+   &#9733 555, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -78,7 +78,7 @@
   </a>
   - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
   <sup>
-   &#9733 5505, pushed 242 days ago
+   &#9733 5505, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -93,7 +93,7 @@
   </a>
   (Each template is responsive and each has been tested in all the popular email clients.)
   <sup>
-   &#9733 4610, pushed 79 days ago
+   &#9733 4610, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -102,7 +102,7 @@
   </a>
   - Few responsive email patterns.
   <sup>
-   &#9733 1445, pushed 12 days ago
+   &#9733 1445, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -111,7 +111,7 @@
   </a>
   - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
   <sup>
-   &#9733 2924, pushed 84 days ago
+   &#9733 2924, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -120,7 +120,7 @@
   </a>
   - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
   <sup>
-   &#9733 333, pushed 303 days ago
+   &#9733 333, pushed 428 days ago
   </sup>
  </li>
  <li>
@@ -135,7 +135,7 @@
   </a>
   - A Grunt template to create emails.
   <sup>
-   &#9733 292, pushed 87 days ago
+   &#9733 292, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -149,6 +149,12 @@
  Tools
 </h2>
 <ul>
+ <li>
+  <a href="http://freshinbox.com/tools/rollover/">
+   Rollover
+  </a>
+  - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
+ </li>
  <li>
   <a href="http://buttons.cm/">
    Bulletproof Email Buttons
@@ -179,7 +185,7 @@ VML and CSS.
   </a>
   - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
   <sup>
-   &#9733 2329, pushed 10 days ago
+   &#9733 2329, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -188,7 +194,7 @@ VML and CSS.
   </a>
   - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
   <sup>
-   &#9733 97, pushed 328 days ago
+   &#9733 97, pushed 453 days ago
   </sup>
  </li>
  <li>

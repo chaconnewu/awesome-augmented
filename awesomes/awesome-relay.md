@@ -279,7 +279,7 @@
   </a>
   - The classic TODO example app, written with Relay.
   <sup>
-   &#9733 73, pushed 13 days ago
+   &#9733 73, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -290,7 +290,7 @@
   </a>
   - Relay with routing and pagination.
   <sup>
-   &#9733 71, pushed 142 days ago
+   &#9733 71, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -311,7 +311,7 @@
   </code>
   .
   <sup>
-   &#9733 24, pushed 4 days ago
+   &#9733 24, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -322,7 +322,7 @@
   </a>
   - Relay TodoMVC app, driven by a Golang GraphQL backend.
   <sup>
-   &#9733 15, pushed 167 days ago
+   &#9733 15, pushed 291 days ago
   </sup>
  </li>
 </ul>
@@ -355,7 +355,7 @@
   </code>
   .
   <sup>
-   &#9733 460, pushed 8 days ago
+   &#9733 460, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -406,12 +406,12 @@
     </code>
     .
     <sup>
-     &#9733 64, pushed 2 days ago
+     &#9733 64, pushed 127 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 356, pushed 2 days ago
+   &#9733 356, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -426,7 +426,7 @@
   </code>
   syntax)
   <sup>
-   &#9733 2, pushed 62 days ago
+   &#9733 2, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -445,7 +445,7 @@
   </a>
   - Use a local schema; no need for a remote GraphQL server.
   <sup>
-   &#9733 91, pushed 22 days ago
+   &#9733 91, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -465,7 +465,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 56, pushed 40 days ago
+   &#9733 56, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -476,7 +476,7 @@
   </a>
   - Use Relay to fetch and store data outside of a React component.
   <sup>
-   &#9733 107, pushed 148 days ago
+   &#9733 107, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -491,7 +491,7 @@
   </a>
   types into Relay fragments.
   <sup>
-   &#9733 10, pushed 5 days ago
+   &#9733 10, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -508,7 +508,7 @@
   </a>
   .
   <sup>
-   &#9733 41, pushed 99 days ago
+   &#9733 41, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -519,7 +519,7 @@
   </a>
   - Create Relay connections from MongoDB cursors.
   <sup>
-   &#9733 4, pushed 169 days ago
+   &#9733 4, pushed 293 days ago
   </sup>
  </li>
  <li>
@@ -530,8 +530,16 @@
   </a>
   - Compose your Relay Network Layer of many different Network Layers each with their own schema.
   <sup>
-   &#9733 28, pushed 127 days ago
+   &#9733 28, pushed 251 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nodkz/react-relay-network-layer">
+   <code>
+    react-relay-network-layer
+   </code>
+  </a>
+  - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
  </li>
 </ul>
 <h2>
@@ -550,12 +558,12 @@
     </a>
     - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
     <sup>
-     &#9733 186, pushed 76 days ago
+     &#9733 186, pushed 201 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1295, pushed 4 days ago
+   &#9733 1295, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -583,7 +591,7 @@
   </a>
   - Relay project skeleton.
   <sup>
-   &#9733 94, pushed 71 days ago
+   &#9733 94, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -592,7 +600,7 @@
   </a>
   - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
   <sup>
-   &#9733 667, pushed 1 days ago
+   &#9733 667, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -605,16 +613,16 @@
   </a>
   .
   <sup>
-   &#9733 86, pushed 27 days ago
+   &#9733 86, pushed 152 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/codefoundries/isomorphic-material-relay-starter-kit">
-   Isomorphic Material Relay Starter Kit
+  <a href="https://github.com/codefoundries/UniversalRelayBoilerplate">
+   UniversalRelayBoilerplate
   </a>
-  - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
+  Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
   <sup>
-   &#9733 169, pushed 13 days ago
+   &#9733 12, pushed 124 days ago
   </sup>
  </li>
  <li>
@@ -623,7 +631,7 @@
   </a>
   - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
   <sup>
-   &#9733 19, pushed 187 days ago
+   &#9733 19, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -632,7 +640,7 @@
   </a>
   - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
   <sup>
-   &#9733 333, pushed 2 days ago
+   &#9733 333, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -649,7 +657,7 @@
   </a>
   - A Go/Golang library to help construct a graphql-go server supporting react-relay.
   <sup>
-   &#9733 63, pushed 55 days ago
+   &#9733 63, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -698,7 +706,7 @@
   </code>
   .
   <sup>
-   &#9733 61, pushed 196 days ago
+   &#9733 61, pushed 320 days ago
   </sup>
  </li>
 </ul>
@@ -714,7 +722,7 @@
   </a>
   - Relay helpers for GraphQL & Ruby.
   <sup>
-   &#9733 77, pushed 4 days ago
+   &#9733 77, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -757,7 +765,7 @@
   </a>
   .
   <sup>
-   &#9733 30, pushed 2 days ago
+   &#9733 30, pushed 127 days ago
   </sup>
  </li>
 </ul>

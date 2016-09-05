@@ -36,7 +36,7 @@
   </a>
   - Android specific bindings for RxJava.
   <sup>
-   &#9733 6595, pushed 2 days ago
+   &#9733 6595, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -45,7 +45,7 @@
   </a>
   - RxJava binding APIs for Android UI widgets from the platform and support libraries.
   <sup>
-   &#9733 2582, pushed 27 days ago
+   &#9733 2582, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -58,7 +58,7 @@
   </code>
   for Android.
   <sup>
-   &#9733 689, pushed 87 days ago
+   &#9733 689, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -67,7 +67,7 @@
   </a>
   - Android M runtime permissions powered by RxJava.
   <sup>
-   &#9733 1090, pushed 12 days ago
+   &#9733 1090, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -76,7 +76,7 @@
   </a>
   - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
   <sup>
-   &#9733 2472, pushed 5 days ago
+   &#9733 2472, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -85,7 +85,7 @@
   </a>
   - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
   <sup>
-   &#9733 1196, pushed 42 days ago
+   &#9733 1196, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -94,7 +94,7 @@
   </a>
   - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
   <sup>
-   &#9733 582, pushed 3 days ago
+   &#9733 582, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -103,7 +103,7 @@
   </a>
   - Android library monitoring hardware sensors with RxJava Observables.
   <sup>
-   &#9733 71, pushed 78 days ago
+   &#9733 71, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -112,7 +112,7 @@
   </a>
   - RxJava bindings for the Palette library on Android.
   <sup>
-   &#9733 172, pushed 52 days ago
+   &#9733 172, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -121,7 +121,7 @@
   </a>
   - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
   <sup>
-   &#9733 308, pushed 27 days ago
+   &#9733 308, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -130,7 +130,7 @@
   </a>
   - RxJava observables for files including NIO events.
   <sup>
-   &#9733 33, pushed 120 days ago
+   &#9733 33, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -139,7 +139,7 @@
   </a>
   - Simple tuples to use with RxJava.
   <sup>
-   &#9733 84, pushed 148 days ago
+   &#9733 84, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -148,7 +148,7 @@
   </a>
   - RxJava binding APIs for Android's animations.
   <sup>
-   &#9733 53, pushed 73 days ago
+   &#9733 53, pushed 198 days ago
   </sup>
  </li>
 </ul>
@@ -162,7 +162,7 @@
   </a>
   - Async utilities for RxJava.
   <sup>
-   &#9733 60, pushed 146 days ago
+   &#9733 60, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -171,7 +171,7 @@
   </a>
   - Joins operators for RxJava.
   <sup>
-   &#9733 37, pushed 410 days ago
+   &#9733 37, pushed 535 days ago
   </sup>
  </li>
  <li>
@@ -180,7 +180,7 @@
   </a>
   - Math operators for RxJava.
   <sup>
-   &#9733 32, pushed 311 days ago
+   &#9733 32, pushed 436 days ago
   </sup>
  </li>
  <li>
@@ -190,7 +190,7 @@
   - 
 String and Byte operators for RxJava.
   <sup>
-   &#9733 72, pushed 46 days ago
+   &#9733 72, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -199,7 +199,7 @@ String and Byte operators for RxJava.
   </a>
   - Computation expressions for RxJava.
   <sup>
-   &#9733 31, pushed 196 days ago
+   &#9733 31, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -208,7 +208,7 @@ String and Byte operators for RxJava.
   </a>
   - Utilities for use with RxJava.
   <sup>
-   &#9733 112, pushed 6 days ago
+   &#9733 112, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -217,7 +217,7 @@ String and Byte operators for RxJava.
   </a>
   - Simple ActionN composition to use with RxJava.
   <sup>
-   &#9733 27, pushed 142 days ago
+   &#9733 27, pushed 267 days ago
   </sup>
  </li>
  <li>
@@ -226,7 +226,7 @@ String and Byte operators for RxJava.
   </a>
   - RxJava types that are both an Observable and an Action1.
   <sup>
-   &#9733 616, pushed 23 days ago
+   &#9733 616, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -235,7 +235,7 @@ String and Byte operators for RxJava.
   </a>
   - Android Library for Logging RxJava Observables and Subscribers.
   <sup>
-   &#9733 698, pushed 9 days ago
+   &#9733 698, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -244,7 +244,7 @@ String and Byte operators for RxJava.
   </a>
   - Simple partial application for FuncN and ActionN on RxJava.
   <sup>
-   &#9733 22, pushed 21 days ago
+   &#9733 22, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -253,7 +253,7 @@ String and Byte operators for RxJava.
   </a>
   - Simple currying for FuncN and ActionN on RxJava.
   <sup>
-   &#9733 22, pushed 20 days ago
+   &#9733 22, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -262,7 +262,7 @@ String and Byte operators for RxJava.
   </a>
   - Either type for RxJava.
   <sup>
-   &#9733 66, pushed 42 days ago
+   &#9733 66, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +271,7 @@ String and Byte operators for RxJava.
   </a>
   - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
   <sup>
-   &#9733 215, pushed 34 days ago
+   &#9733 215, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +280,7 @@ String and Byte operators for RxJava.
   </a>
   - Advanced Function composition to use with RxJava.
   <sup>
-   &#9733 42, pushed 21 days ago
+   &#9733 42, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -288,6 +288,12 @@ String and Byte operators for RxJava.
    rxlint
   </a>
   - An Android lint rule for RxJava code.
+ </li>
+ <li>
+  <a href="https://github.com/pakoito/RxComprehensions">
+   RxComprehensions
+  </a>
+  - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps.
  </li>
 </ul>
 <h2>
@@ -300,7 +306,7 @@ String and Byte operators for RxJava.
   </a>
   - AssertJ assertions for RxJava Observables.
   <sup>
-   &#9733 137, pushed 4 days ago
+   &#9733 137, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -309,7 +315,7 @@ String and Byte operators for RxJava.
   </a>
   - Easy Espresso UI testing for Android applications using RxJava.
   <sup>
-   &#9733 296, pushed 249 days ago
+   &#9733 296, pushed 374 days ago
   </sup>
  </li>
 </ul>
@@ -323,7 +329,7 @@ String and Byte operators for RxJava.
   </a>
   - Learning RxJava for Android by example.
   <sup>
-   &#9733 2956, pushed 1 days ago
+   &#9733 2956, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -332,7 +338,7 @@ String and Byte operators for RxJava.
   </a>
   - An extensive tutorial on RxJava.
   <sup>
-   &#9733 418, pushed 29 days ago
+   &#9733 418, pushed 154 days ago
   </sup>
  </li>
 </ul>

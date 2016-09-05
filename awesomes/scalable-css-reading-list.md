@@ -51,6 +51,12 @@
 </p>
 <ul>
  <li>
+  <a href="http://snook.ca/archives/html_and_css/more-meaningful-css">
+   More Meaningful CSS
+  </a>
+  , by Jonathan Snook (5/17/16)
+ </li>
+ <li>
   <a href="http://mrmrs.io/writing/2016/03/24/scalable-css/">
    CSS and Scalability
   </a>

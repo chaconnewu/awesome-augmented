@@ -21,12 +21,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Schema Specifications](#schema-specifications)
   * [Services](#services)
   * [Supersets](#supersets)
-  * [References](#references)
   * [Related formats](#related-formats)
   * [Templates](#templates)
   * [Testing](#testing)
   * [Text Editor Plugins](#text-editor-plugins)
   * [Transformations](#transformations)
+  * [Tutorials](#tutorials)
   * [Queries](#queries)
   * [JSON Schema Frontend components](#json-schema-frontend-components)
   * [JSON Schema Tools](#json-schema-tools)
@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 
 ## Databases
-* [MongoDB](https://www.mongodb.org/) - an open-source document database, and the leading NoSQL database.
+* [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](http://www.rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
 * [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
@@ -111,7 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
-* [JSON Resume](http://jsonresume.org/) - The open source initiative to create standard for resumes.
+* [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](http://jsonapi.org/) - A standard for building APIs.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
@@ -158,6 +158,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
 * [SBJson](http://www.sbjson.org/) - Parse one or more chunks of data.
 
+**Perl**
+* [JSON::Tiny](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
+
 **PL/SQL**
 * [PL/JSON](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
@@ -171,6 +174,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Ruby**
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
+* [MultiJSON](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
@@ -178,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
 * [circle](http://circe.io) - Yet another JSON library for Scala.
+* [scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
@@ -223,7 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation.
 * [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (draft).
 
-## References
+## Tutorials
 * [Introducing JSON](http://json.org/)
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
@@ -260,7 +265,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
-* [JsonMapper](https://github.com/netresearch/jsonmapper) - Map nested structures onto PHP classes (PHP)
+* [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
@@ -268,6 +273,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Pinch](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
+* [json-transforms](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
@@ -278,6 +284,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
+* [json-rel](https://github.com/slurmulon/json-rel) - Transparent references in JSON.
 
 ## JSON Schema Frontend components
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)

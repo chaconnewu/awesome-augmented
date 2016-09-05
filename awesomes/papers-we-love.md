@@ -92,8 +92,8 @@
   </a>
  </li>
  <li>
-  <a href="http://www.meetup.com/Papers-We-Love-Chicago">
-   Chicago
+  <a href="http://www.meetup.com/Papers-We-Love-Chattanooga/">
+   Chattanooga
   </a>
  </li>
  <li>
@@ -167,6 +167,11 @@
   </a>
  </li>
  <li>
+  <a href="http://www.meetup.com/Papers-We-Love-PDX/">
+   Portland
+  </a>
+ </li>
+ <li>
   <a href="http://www.meetup.com/Doo-Things">
    Pune
   </a>
@@ -212,6 +217,11 @@
   </a>
  </li>
  <li>
+  <a href="http://www.meetup.com/Papers-We-Love-DC-NoVA/">
+   Washington, DC
+  </a>
+ </li>
+ <li>
   <a href="http://www.meetup.com/Papers-We-Love-Winnipeg/">
    Winnipeg
   </a>
@@ -228,11 +238,7 @@
  Past Presentations
 </h3>
 <p>
- View a complete list of
- <a href="https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations">
-  past presentations
- </a>
- or check out our
+ Check out our
  <a href="https://www.youtube.com/user/PapersWeLove">
   Youtube
  </a>
@@ -243,34 +249,11 @@
  (audio-only format) channels.
 </p>
 <h2>
- Search this Repo!
-</h2>
-<p>
- <a href="https://github.com/polyfractal">
-  @polyfractal
- </a>
- indexed this repository with Elastic Search. Find papers
- <a href="http://findpaperswelove.com">
-  here
- </a>
- !
-</p>
-<h2>
  Info
 </h2>
 <p>
  We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 </p>
-<h3>
- Other Good Places to Discuss Papers
-</h3>
-<ul>
- <li>
-  <a href="https://www.reddit.com/r/paperswelove">
-   Papers We Love reddit
-  </a>
- </li>
-</ul>
 <h3>
  Other Good Places to Find Papers
 </h3>
@@ -346,7 +329,7 @@
    Services Engineering Reading List
   </a>
   <sup>
-   &#9733 2107, pushed 270 days ago
+   &#9733 2107, pushed 395 days ago
   </sup>
  </li>
  <li>
@@ -417,6 +400,17 @@
  <li>
   <a href="https://www.youtube.com/watch?v=8eRx5Wo3xYA">
    The Refreshingly Rewarding Realm of Research Papers
+  </a>
+ </li>
+</ul>
+<h3>
+ Applications/Ideas built around Papers We Love
+</h3>
+<ul>
+ <li>
+  Love a Paper -
+  <a href="https://twitter.com/loveapaper">
+   @loveapaper
   </a>
  </li>
 </ul>

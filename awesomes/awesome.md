@@ -1,144 +1,153 @@
-<h1 align="center">
- <br>
-  <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" width="400">
-   <br>
-    <br>
-     <br>
-     </br>
-    </br>
-   </br>
-  </img>
- </br>
+<h1>
+ <img alt="awesome windows" src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400"/>
 </h1>
+<p>
+ <a href="https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+  <img alt="Join the chat at https://gitter.im/Awesome-Windows/Awesome" src="https://badges.gitter.im/Awesome-Windows/Awesome.svg"/>
+ </a>
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+ </a>
+ <a href="https://ghit.me/repo/Awesome-Windows/Awesome">
+  <img alt="ghit.me" src="https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome"/>
+ </a>
+</p>
 <blockquote>
  <p>
-  A curated list of awesome lists
+  An awesome & curated list of best applications and tools for Windows.
+ </p>
+ <p>
+  <em>
+   This Awesome Repository is highly inspired from ichait's
+   <a href="https://github.com/iCHAIT/awesome-osx" title="Awesome osx">
+    Awesome osx.
+   </a>
+  </em>
+  <em>
+   Special thanks to
+   <a href="https://github.com/egeerardyn">
+    egeerardyn
+   </a>
+   .
+  </em>
+ </p>
+ <p>
+  <em>
+   Items marked with
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+   are open-source software. Items marked with
+   <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+   are free.
+  </em>
  </p>
 </blockquote>
+<h1>
+ <img alt="table of contents" src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png"/>
+</h1>
 <ul>
  <li>
-  <a href="awesome.md">
-   What is an awesome list?
+  <a href="#applications">
+   Applications
   </a>
+  <ul>
+   <li>
+    <a href="#audio">
+     Audio
+    </a>
+   </li>
+   <li>
+    <a href="#chat-clients">
+     Chat Clients
+    </a>
+   </li>
+   <li>
+    <a href="#compression">
+     Compression
+    </a>
+   </li>
+   <li>
+    <a href="#data-recovery">
+     Data Recovery
+    </a>
+   </li>
+   <li>
+    <a href="#developer-tools">
+     Developer Tools
+    </a>
+   </li>
+   <li>
+    <a href="#documents">
+     Documents
+    </a>
+   </li>
+   <li>
+    <a href="#e-book-utilities">
+     E-Book Utilities
+    </a>
+   </li>
+   <li>
+    <a href="#email">
+     Email
+    </a>
+   </li>
+   <li>
+    <a href="#games">
+     Games
+    </a>
+   </li>
+   <li>
+    <a href="#graphics">
+     Graphics
+    </a>
+   </li>
+   <li>
+    <a href="#online-storage">
+     Online Storage
+    </a>
+   </li>
+   <li>
+    <a href="#productivity">
+     Productivity
+    </a>
+   </li>
+   <li>
+    <a href="#terminal">
+     Terminal
+    </a>
+   </li>
+   <li>
+    <a href="#text-editors">
+     Text Editors
+    </a>
+   </li>
+   <li>
+    <a href="#utilities">
+     Utilities
+    </a>
+   </li>
+   <li>
+    <a href="#video">
+     Video
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
-  <a href="contributing.md">
-   Contribution guide
+  <a href="#setup">
+   Setup
   </a>
- </li>
- <li>
-  <a href="create-list.md">
-   Creating a list
-  </a>
-  <br>
-   <sup>
-    Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...
-   </sup>
-  </br>
- </li>
- <li>
-  <a href="https://www.stickermule.com/marketplace/10034-awesome">
-   Buy a sticker
-  </a>
- </li>
-</ul>
-<p>
- <a href="https://gitter.im/sindresorhus/awesome">
-  <img alt="Awesome chat" src="https://badges.gitter.im/sindresorhus/awesome.svg"/>
- </a>
-</p>
-<p>
- -
-</p>
-<p>
- Check out my
- <a href="https://blog.sindresorhus.com">
-  blog
- </a>
- and follow me on
- <a href="https://twitter.com/sindresorhus">
-  Twitter
- </a>
- .
-</p>
-<h2>
- Table of Contents
-</h2>
-<ul>
- <li>
-  <a href="#platforms">
-   Platforms
-  </a>
- </li>
- <li>
-  <a href="#programming-languages">
-   Programming Languages
-  </a>
- </li>
- <li>
-  <a href="#front-end-development">
-   Front-end Development
-  </a>
- </li>
- <li>
-  <a href="#back-end-development">
-   Back-end Development
-  </a>
- </li>
- <li>
-  <a href="#computer-science">
-   Computer Science
-  </a>
- </li>
- <li>
-  <a href="#big-data">
-   Big Data
-  </a>
- </li>
- <li>
-  <a href="#theory">
-   Theory
-  </a>
- </li>
- <li>
-  <a href="#books">
-   Books
-  </a>
- </li>
- <li>
-  <a href="#editors">
-   Editors
-  </a>
- </li>
- <li>
-  <a href="#gaming">
-   Gaming
-  </a>
- </li>
- <li>
-  <a href="#development-environment">
-   Development Environment
-  </a>
- </li>
- <li>
-  <a href="#entertainment">
-   Entertainment
-  </a>
- </li>
- <li>
-  <a href="#databases">
-   Databases
-  </a>
- </li>
- <li>
-  <a href="#media">
-   Media
-  </a>
- </li>
- <li>
-  <a href="#learn">
-   Learn
-  </a>
+  <ul>
+   <li>
+    <a href="#windows-10-setup">
+     Windows 10
+    </a>
+   </li>
+   <li>
+    <a href="#windows-81-setup">
+     Windows 8.1 setup
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="#security">
@@ -146,1933 +155,956 @@
   </a>
  </li>
  <li>
-  <a href="#content-management-system">
-   Content Management System
-  </a>
- </li>
- <li>
   <a href="#miscellaneous">
    Miscellaneous
   </a>
  </li>
-</ul>
-<h2>
- Platforms
-</h2>
-<ul>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-nodejs">
-   Node.js
-  </a>
-  <sup>
-   &#9733 11353, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dypsilon/frontend-dev-bookmarks">
-   Frontend Development
-  </a>
-  <sup>
-   &#9733 18696, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vsouza/awesome-ios">
-   iOS
-  </a>
-  <sup>
-   &#9733 11176, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/JStumpp/awesome-android">
-   Android
-  </a>
-  <sup>
-   &#9733 2328, pushed 9 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/weblancaster/awesome-IoT-hybrid">
-   IoT & Hybrid Apps
-  </a>
-  <sup>
-   &#9733 186, pushed 89 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sindresorhus/awesome-electron">
-   Electron
-  </a>
-  <sup>
-   &#9733 5761, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/busterc/awesome-cordova">
-   Cordova
-  </a>
-  <sup>
-   &#9733 103, pushed 116 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jondot/awesome-react-native">
-   React Native
-  </a>
-  <sup>
-   &#9733 4339, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/benoitjadinon/awesome-xamarin">
-   Xamarin
-  </a>
-  <sup>
-   &#9733 100, pushed 9 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aleksandar-todorovic/awesome-linux">
-   Linux
+  <a href="#discussion-forums">
+   Discussion Forums
   </a>
   <ul>
    <li>
-    <a href="https://github.com/Friz-zy/awesome-linux-containers">
-     Containers
+    <a href="#windows">
+     Windows
     </a>
-    <sup>
-     &#9733 85, pushed 46 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 331, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/iCHAIT/awesome-osx">
-   OS X
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/herrbischoff/awesome-osx-command-line">
-     Command-Line
-    </a>
-    <sup>
-     &#9733 7528, pushed 1 days ago
-    </sup>
    </li>
    <li>
-    <a href="https://github.com/aharris88/awesome-osx-screensavers">
-     Screensavers
+    <a href="#irc-channels">
+     IRC channels
     </a>
-    <sup>
-     &#9733 192, pushed 25 days ago
-    </sup>
+   </li>
+   <li>
+    <a href="#reddit">
+     Reddit
+    </a>
    </li>
   </ul>
-  <sup>
-   &#9733 3920, pushed 2 days ago
-  </sup>
  </li>
  <li>
-  <a href="https://github.com/yenchenlin1994/awesome-watchos">
-   watchOS
+  <a href="#contribute">
+   Contribute
   </a>
-  <sup>
-   &#9733 162, pushed 77 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/deephacks/awesome-jvm">
-   JVM
-  </a>
-  <sup>
-   &#9733 122, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mailtoharshit/awesome-salesforce">
-   Salesforce
-  </a>
-  <sup>
-   &#9733 55, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/donnemartin/awesome-aws">
-   Amazon Web Services
-  </a>
-  <sup>
-   &#9733 1859, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RiseLedger/awesome-windows">
-   Windows
-  </a>
-  <sup>
-   &#9733 63, pushed 54 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ipfs/awesome-ipfs">
-   IPFS
-  </a>
-  <sup>
-   &#9733 177, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vinkla/awesome-fuse">
-   Fuse
-  </a>
-  <sup>
-   &#9733 112, pushed 19 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ianstormtaylor/awesome-heroku">
-   Heroku
-  </a>
-  <sup>
-   &#9733 13, pushed 28 days ago
-  </sup>
  </li>
 </ul>
 <h2>
- Programming Languages
+ Applications
 </h2>
+<h3>
+ Audio
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/sorrycc/awesome-javascript">
-   JavaScript
+  <a href="http://www.aimp.ru/">
+   AIMP
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/wbinnssmith/awesome-promises">
-     Promises
-    </a>
-    <sup>
-     &#9733 573, pushed 10 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/feross/awesome-standard">
-     Standard Style
-    </a>
-    <sup>
-     &#9733 119, pushed 19 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/bolshchikov/js-must-watch">
-     Must Watch Talks
-    </a>
-    <sup>
-     &#9733 10625, pushed 3 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/loverajoel/jstips">
-     Tips
-    </a>
-    <sup>
-     &#9733 9516, pushed 6 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/Kikobeats/awesome-network-js">
-     Network Layer
-    </a>
-    <sup>
-     &#9733 218, pushed 45 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/parro-it/awesome-micro-npm-packages">
-     Micro npm Packages
-    </a>
-    <sup>
-     &#9733 234, pushed 5 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/feross/awesome-mad-science">
-     Mad Science npm Packages
-    </a>
-    <sup>
-     &#9733 452, pushed 69 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/maxogden/maintenance-modules">
-     Maintenance Modules
-    </a>
-    - For npm packages
-    <sup>
-     &#9733 230, pushed 104 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/sindresorhus/awesome-npm">
-     npm
-    </a>
-    <sup>
-     &#9733 1710, pushed 11 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/sindresorhus/awesome-ava">
-     AVA
-    </a>
-    - Test runner
-    <sup>
-     &#9733 99, pushed 1 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/dustinspecker/awesome-eslint">
-     ESLint
-    </a>
-    <sup>
-     &#9733 213, pushed 4 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 5882, pushed 4 days ago
-  </sup>
+  - 32 bit audio processing and multi-format playback.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/matteocrippa/awesome-swift">
-   Swift
+  <a href="http://audacityteam.org/">
+   Audacity
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/hsavit1/Awesome-Swift-Education">
-     Education
-    </a>
-    <sup>
-     &#9733 4475, pushed 23 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">
-     Playgrounds
-    </a>
-    <sup>
-     &#9733 406, pushed 10 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 7959, pushed 3 days ago
-  </sup>
+  - Free, open source, cross-platform software for recording and editing sounds.
+  <a href="https://github.com/audacity/audacity">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/vinta/awesome-python">
-   Python
+  <a href="http://qtractor.sourceforge.net/qtractor-index.html#Downloads">
+   Qtractor
   </a>
-  <sup>
-   &#9733 20412, pushed 3 days ago
-  </sup>
+  - An Audio/MIDI multi-track sequencer.
+  <a href="http://qtractor.sourceforge.net/qtractor-downloads.html#Git">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/kud1ing/awesome-rust">
-   Rust
+  <a href="http://www.reaper.fm/download.php">
+   Reaper
   </a>
-  <sup>
-   &#9733 2097, pushed 6 days ago
-  </sup>
+  - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
  </li>
  <li>
-  <a href="https://github.com/krispo/awesome-haskell">
-   Haskell
+  <a href="http://www.winamp.com/">
+   Winamp
   </a>
-  <sup>
-   &#9733 732, pushed 24 days ago
-  </sup>
+  - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/passy/awesome-purescript">
-   PureScript
+  <a href="http://mixxx.org/">
+   Mixxx
   </a>
-  <sup>
-   &#9733 62, pushed 71 days ago
-  </sup>
+  - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
+  <a href="https://github.com/mixxxdj/mixxx">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/avelino/awesome-go">
-   Go
+  <a href="http://getmusicbee.com/">
+   Musicbee
   </a>
-  <sup>
-   &#9733 12513, pushed 1 days ago
-  </sup>
+  - Like iTunes but better than iTunes.
  </li>
  <li>
-  <a href="https://github.com/lauris/awesome-scala">
-   Scala
+  <a href="http://www.videolan.org/vlc/index.html">
+   VLC
   </a>
-  <sup>
-   &#9733 3388, pushed 5 days ago
-  </sup>
+  - Free media player, works pretty well.
  </li>
  <li>
-  <a href="https://github.com/markets/awesome-ruby">
-   Ruby
+  <a href="http://www.foobar2000.org/">
+   Foobar2000
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/planetruby/awesome-events">
-     Events
-    </a>
-    <sup>
-     &#9733 167, pushed 19 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 5648, pushed 5 days ago
-  </sup>
+  - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
  </li>
  <li>
-  <a href="https://github.com/razum2um/awesome-clojure">
-   Clojure
+  <a href="http://www.exactaudiocopy.de/">
+   Exact Audio Copy
   </a>
-  <sup>
-   &#9733 683, pushed 13 days ago
-  </sup>
+  - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
  </li>
  <li>
-  <a href="https://github.com/emrehan/awesome-clojurescript">
-   ClojureScript
+  <a href="https://kodi.tv/">
+   Kodi
   </a>
-  <sup>
-   &#9733 250, pushed 42 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/h4cc/awesome-elixir">
-   Elixir
-  </a>
-  <sup>
-   &#9733 3654, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/isRuslan/awesome-elm">
-   Elm
-  </a>
-  <sup>
-   &#9733 595, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/drobakowski/awesome-erlang">
-   Erlang
-  </a>
-  <sup>
-   &#9733 422, pushed 23 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/svaksha/Julia.jl">
-   Julia
-  </a>
-  <sup>
-   &#9733 327, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/LewisJEllis/awesome-lua">
-   Lua
-  </a>
-  <sup>
-   &#9733 821, pushed 65 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aleksandar-todorovic/awesome-c">
-   C
-  </a>
-  <sup>
-   &#9733 214, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fffaraz/awesome-cpp">
-   C/C++
-  </a>
-  <sup>
-   &#9733 4935, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/qinwf/awesome-R">
-   R
-  </a>
-  <sup>
-   &#9733 1317, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zhaopuming/awesome-d">
-   D
-  </a>
-  <sup>
-   &#9733 123, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/CodyReichert/awesome-cl">
-   Common Lisp
-  </a>
-  <sup>
-   &#9733 276, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hachiojipm/awesome-perl">
-   Perl
-  </a>
-  <sup>
-   &#9733 268, pushed 88 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kdabir/awesome-groovy">
-   Groovy
-  </a>
-  <sup>
-   &#9733 261, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/yissachar/awesome-dart">
-   Dart
-  </a>
-  <sup>
-   &#9733 136, pushed 126 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/akullpp/awesome-java">
-   Java
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/eleventigers/awesome-rxjava">
-     RxJava
-    </a>
-    <sup>
-     &#9733 27, pushed 8 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 6775, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/JavaBy/awesome-kotlin">
-   Kotlin
-  </a>
- </li>
- <li>
-  <a href="https://github.com/rizo/awesome-ocaml">
-   OCaml
-  </a>
-  <sup>
-   &#9733 601, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/seancoyne/awesome-coldfusion">
-   Coldfusion
-  </a>
-  <sup>
-   &#9733 29, pushed 106 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rabbiabram/awesome-fortran">
-   Fortran
-  </a>
-  <sup>
-   &#9733 65, pushed 110 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/quozd/awesome-dotnet">
-   .NET
-  </a>
-  <sup>
-   &#9733 1717, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ziadoz/awesome-php">
-   PHP
-  </a>
-  <sup>
-   &#9733 11659, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Fr0sT-Brutal/awesome-delphi">
-   Delphi
-  </a>
-  <sup>
-   &#9733 128, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mat0thew/awesome-asm">
-   Assembler
-  </a>
- </li>
- <li>
-  <a href="https://github.com/ahkscript/awesome-AutoHotkey">
-   AutoHotkey
-  </a>
-  <sup>
-   &#9733 234, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/J2TeaM/awesome-AutoIt">
-   AutoIt
-  </a>
-  <sup>
-   &#9733 34, pushed 62 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/veelenga/awesome-crystal">
-   Crystal
-  </a>
-  <sup>
-   &#9733 301, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dzharii/awesome-typescript">
-   TypeScript
-  </a>
-  <sup>
-   &#9733 105, pushed 2 days ago
-  </sup>
+  - Free and Open Source home theatre software.
  </li>
 </ul>
-<h2>
- Front-end Development
-</h2>
+<h3>
+ Chat Clients
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/addyosmani/es6-tools">
-   ES6 Tools
+  <a href="http://dedg3.com/wao/">
+   Waow
   </a>
-  <sup>
-   &#9733 3009, pushed 67 days ago
-  </sup>
+  - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/davidsonfellipe/awesome-wpo">
-   Web Performance Optimization
+  <a href="http://limechat.net">
+   LimeChat
   </a>
-  <sup>
-   &#9733 5366, pushed 14 days ago
-  </sup>
+  - Instant messaging application.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/lvwzhen/tools">
-   Web Tools
+  <a href="http://messengerfordesktop.com/">
+   Messenger for Desktop
   </a>
-  <sup>
-   &#9733 188, pushed 64 days ago
-  </sup>
+  - An app for Facebook messenger.
+  <a href="https://github.com/Aluxian/Facebook-Messenger-Desktop">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/sotayamashita/awesome-css">
-   CSS
+  <a href="http://www.mirc.com/">
+   mIRC
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/addyosmani/critical-path-css-tools">
-     Critical-Path Tools
-    </a>
-    <sup>
-     &#9733 572, pushed 67 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/davidtheclark/scalable-css-reading-list">
-     Scalability
-    </a>
-    <sup>
-     &#9733 1023, pushed 12 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/AllThingsSmitty/must-watch-css">
-     Must-Watch Talks
-    </a>
-    <sup>
-     &#9733 1997, pushed 63 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/AllThingsSmitty/css-protips">
-     Protips
-    </a>
-    <sup>
-     &#9733 6715, pushed 2 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 411, pushed 8 days ago
-  </sup>
+  - An Internet Relay Chat (IRC) client.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/enaqx/awesome-react">
-   React
+  <a href="https://desktop.telegram.org/">
+   Telegram
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/expede/awesome-relay">
-     Relay
-    </a>
-    <sup>
-     &#9733 60, pushed 49 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 13197, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mateusortiz/webcomponents-the-right-way">
-   Web Components
-  </a>
-  <sup>
-   &#9733 797, pushed 171 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Granze/awesome-polymer">
-   Polymer
-  </a>
-  <sup>
-   &#9733 207, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/AngularClass/awesome-angular2">
-   Angular 2
-  </a>
-  <sup>
-   &#9733 1444, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gianarb/awesome-angularjs">
-   Angular
-  </a>
-  <sup>
-   &#9733 1490, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sadcitizen/awesome-backbone">
-   Backbone
-  </a>
-  <sup>
-   &#9733 319, pushed 37 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/diegocard/awesome-html5">
-   HTML5
-  </a>
-  <sup>
-   &#9733 472, pushed 76 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/willianjusten/awesome-svg">
-   SVG
-  </a>
-  <sup>
-   &#9733 2861, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/raphamorim/awesome-canvas">
-   Canvas
-  </a>
-  <sup>
-   &#9733 97, pushed 75 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dnbard/awesome-knockout">
-   KnockoutJS
-  </a>
-  <sup>
-   &#9733 36, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/peterkokot/awesome-dojo">
-   Dojo Toolkit
-  </a>
-  <sup>
-   &#9733 46, pushed 138 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/NoahBuscher/Inspire">
-   Inspiration
-  </a>
-  <sup>
-   &#9733 372, pushed 146 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nmec/awesome-ember">
-   Ember
-  </a>
-  <sup>
-   &#9733 125, pushed 18 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wasabeef/awesome-android-ui">
-   Android UI
-  </a>
-  <sup>
-   &#9733 13918, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cjwirth/awesome-ios-ui">
-   iOS UI
-  </a>
-  <sup>
-   &#9733 7875, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Urigo/awesome-meteor">
-   Meteor
-  </a>
-  <sup>
-   &#9733 547, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sturobson/BEM-resources">
-   BEM
-  </a>
-  <sup>
-   &#9733 147, pushed 31 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/afonsopacifer/awesome-flexbox">
-   Flexbox
-  </a>
-  <sup>
-   &#9733 340, pushed 19 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/deanhume/typography">
-   Web Typography
-  </a>
-  <sup>
-   &#9733 144, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/brunopulis/awesome-a11y">
-   Web Accessibility
-  </a>
-  <sup>
-   &#9733 126, pushed 22 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sachin1092/awesome-material">
-   Material Design
-  </a>
-  <sup>
-   &#9733 337, pushed 103 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wbkd/awesome-d3">
-   D3
-  </a>
-  <sup>
-   &#9733 2786, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jonathandion/awesome-emails">
-   Emails
-  </a>
-  <sup>
-   &#9733 78, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/peterkokot/awesome-jquery">
-   jQuery
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">
-     Tips
-    </a>
-    <sup>
-     &#9733 3683, pushed 1 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 188, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/notthetup/awesome-webaudio">
-   Web Audio
-  </a>
-  <sup>
-   &#9733 149, pushed 23 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pazguille/offline-first">
-   Offline-First
-  </a>
-  <sup>
-   &#9733 1410, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aharris88/awesome-static-website-services">
-   Static Website Services
-  </a>
-  <sup>
-   &#9733 178, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aframevr/awesome-aframe">
-   A-Frame VR
-  </a>
-  - Virtual reality
-  <sup>
-   &#9733 228, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vic/awesome-cyclejs">
-   Cycle.js
-  </a>
-  <sup>
-   &#9733 315, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dok/awesome-text-editing">
-   Text Editing
-  </a>
-  <sup>
-   &#9733 8, pushed 55 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fliptheweb/motion-ui-design">
-   Motion UI Design
-  </a>
-  <sup>
-   &#9733 244, pushed 33 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vuejs/awesome-vue">
-   Vue.js
-  </a>
-  <sup>
-   &#9733 2411, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sadcitizen/awesome-marionette">
-   Marionette.js
-  </a>
-  <sup>
-   &#9733 104, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/behzad888/awesome-aurelia">
-   Aurelia
-  </a>
-  <sup>
-   &#9733 20, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/zingchart/awesome-charting">
-   Charting
-  </a>
-  <sup>
-   &#9733 560, pushed 9 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/candelibas/awesome-ionic2">
-   Ionic Framework 2
-  </a>
-  <sup>
-   &#9733 50, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">
-   Chrome DevTools
-  </a>
-  <sup>
-   &#9733 1354, pushed 14 days ago
-  </sup>
+  - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
 </ul>
-<h2>
- Back-end Development
-</h2>
+<h3>
+ Compression
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/rosarior/awesome-django">
-   Django
+  <a href="http://www.7-zip.org/">
+   7-Zip
   </a>
-  <sup>
-   &#9733 3650, pushed 25 days ago
-  </sup>
+  - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/humiaozuzu/awesome-flask">
-   Flask
+  <a href="http://www.peazip.org/">
+   PeaZip
   </a>
-  <sup>
-   &#9733 2367, pushed 13 days ago
-  </sup>
+  - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/veggiemonk/awesome-docker">
-   Docker
+  <a href="http://luci.criosweb.ro/riot/">
+   Riot
   </a>
-  <sup>
-   &#9733 3116, pushed 2 days ago
-  </sup>
+  - Compress images either by file size or by many other image attributes.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/iJackUA/awesome-vagrant">
-   Vagrant
+  <a href="http://www.rarlab.com/">
+   WinRAR
   </a>
-  <sup>
-   &#9733 177, pushed 68 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/uralbash/awesome-pyramid">
-   Pyramid
-  </a>
-  <sup>
-   &#9733 248, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/PerfectCarl/awesome-play1">
-   Play1 Framework
-  </a>
-  <sup>
-   &#9733 23, pushed 113 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/friendsofcake/awesome-cakephp">
-   CakePHP
-  </a>
-  <sup>
-   &#9733 393, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sitepoint/awesome-symfony">
-   Symfony
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/Symfonisti/awesome-symfony-education">
-     Education
-    </a>
-    <sup>
-     &#9733 131, pushed 51 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 697, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chiraggude/awesome-laravel">
-   Laravel
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md">
-     Education
-    </a>
-   </li>
-  </ul>
-  <sup>
-   &#9733 2725, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ekremkaraca/awesome-rails">
-   Rails
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/hothero/awesome-rails-gem">
-     Gems
-    </a>
-    <sup>
-     &#9733 1621, pushed 34 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 829, pushed 48 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sergeyklay/awesome-phalcon">
-   Phalcon
-  </a>
-  <sup>
-   &#9733 181, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/phanan/htaccess">
-   Useful
-   <code>
-    .htaccess
-   </code>
-   Snippets
-  </a>
-  <sup>
-   &#9733 9219, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fcambus/nginx-resources">
-   nginx
-  </a>
-  <sup>
-   &#9733 1628, pushed 66 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/stve/awesome-dropwizard">
-   Dropwizard
-  </a>
-  <sup>
-   &#9733 12, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ramitsurana/awesome-kubernetes">
-   Kubernetes
-  </a>
-  <sup>
-   &#9733 149, pushed 26 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/unicodeveloper/awesome-lumen">
-   Lumen
-  </a>
-  <sup>
-   &#9733 62, pushed 38 days ago
-  </sup>
+  -  A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
  </li>
 </ul>
-<h2>
- Computer Science
-</h2>
+<h3>
+ Data Recovery
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/prakhar1989/awesome-courses">
-   University Courses
+  <a href="https://www.prosofteng.com/datarescuepc3/">
+   Data Rescue
   </a>
-  <sup>
-   &#9733 14954, pushed 14 days ago
-  </sup>
+  - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
  </li>
  <li>
-  <a href="https://github.com/okulbilisim/awesome-datascience">
-   Data Science
+  <a href="http://www.krollontrack.com/data-recovery/recovery-software/">
+   Ontrach EasyRecovery
   </a>
-  <sup>
-   &#9733 2359, pushed 8 days ago
-  </sup>
+  - Has filtering tools to help sort the large amount of data the software can recover.
  </li>
  <li>
-  <a href="https://github.com/josephmisiti/awesome-machine-learning">
-   Machine Learning
+  <a href="http://www.stellarinfo.com/windows-data-recovery.php">
+   Stellar Phoenix Windows Data Recovery
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">
-     Tutorials
-    </a>
-    <sup>
-     &#9733 2204, pushed 79 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 12665, pushed 4 days ago
-  </sup>
+  - Remote recovery option to recover data from another computer over a network.
  </li>
  <li>
-  <a href="https://github.com/edobashira/speech-language-processing">
-   Speech and Natural Language Processing
+  <a href="https://www.piriform.com/recuva">
+   Recuva
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/dav009/awesome-spanish-nlp">
-     Spanish
-    </a>
-    <sup>
-     &#9733 46, pushed 145 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 1193, pushed 106 days ago
-  </sup>
+  - Recover your deleted files quickly and easily.
  </li>
  <li>
-  <a href="https://github.com/theimpossibleastronaut/awesome-linguistics">
-   Linguistics
+  <a href="http://www.cgsecurity.org/wiki/TestDisk">
+   TestDisk
   </a>
-  <sup>
-   &#9733 40, pushed 270 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MaciejCzyzewski/retter">
-   Cryptography
-  </a>
-  <sup>
-   &#9733 1544, pushed 191 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jbhuang0604/awesome-computer-vision">
-   Computer Vision
-  </a>
-  <sup>
-   &#9733 1254, pushed 46 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">
-   Deep Learning
-  </a>
-  - Neural networks
-  <ul>
-   <li>
-    <a href="https://github.com/jtoy/awesome-tensorflow">
-     TensorFlow
-    </a>
-    <sup>
-     &#9733 27, pushed 8 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 1922, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kjw0612/awesome-deep-vision">
-   Deep Vision
-  </a>
-  <sup>
-   &#9733 1273, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/open-source-society/computer-science">
-   Open Source Society University
-  </a>
-  <sup>
-   &#9733 13722, pushed 9 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lucasviola/awesome-functional-programming">
-   Functional Programming
-  </a>
-  <sup>
-   &#9733 115, pushed 64 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mre/awesome-static-analysis">
-   Static Analysis & Code Quality
-  </a>
-  <sup>
-   &#9733 76, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sdnds-tw/awesome-sdn">
-   Software-Defined Networking
-  </a>
-  <sup>
-   &#9733 20, pushed 48 days ago
-  </sup>
+  -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
  </li>
 </ul>
-<h2>
- Big Data
-</h2>
+<h3>
+ Developer Tools
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/onurakpolat/awesome-bigdata">
-   Big Data
+  <a href="http://www.razorsql.com/">
+   RazorSQL
   </a>
-  <sup>
-   &#9733 3106, pushed 12 days ago
-  </sup>
+  - A GUI for managing SQLite databases which requires major work.
  </li>
  <li>
-  <a href="https://github.com/caesar0301/awesome-public-datasets">
-   Public Datasets
+  <a href="https://windows.github.com/">
+   GitHub Desktop
   </a>
-  <sup>
-   &#9733 13887, pushed 6 days ago
-  </sup>
+  - A GUI for using GitHub.
  </li>
  <li>
-  <a href="https://github.com/youngwookim/awesome-hadoop">
-   Hadoop
+  <a href="https://pngquant.org/">
+   pngquant
   </a>
-  <sup>
-   &#9733 325, pushed 4 days ago
-  </sup>
+  - Apply lossy compression on PNG files with or without transparency for more efficient files.
  </li>
  <li>
-  <a href="https://github.com/igorbarinov/awesome-data-engineering">
-   Data Engineering
+  <a href="http://www.swensensoftware.com/im-only-resting">
+   I'm Only Resting
   </a>
-  <sup>
-   &#9733 467, pushed 24 days ago
-  </sup>
+  -A feature-rich WinForms-based HTTP client
+  <a href="https://github.com/swensensoftware/im-only-resting">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
  </li>
  <li>
-  <a href="https://github.com/manuzhang/awesome-streaming">
-   Streaming
+  <a href="http://insomnia.rest">
+   Insomnia
   </a>
-  <sup>
-   &#9733 45, pushed 9 days ago
-  </sup>
+  - A modern REST client with an beautiful interface.
+ </li>
+ <li>
+  <a href="http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools">
+   PostgreSQL Database
+  </a>
+  - A comprehensive list of tools.
+ </li>
+ <li>
+  <a href="http://www.valentina-db.com/en/sqlwave">
+   Sql Wave
+  </a>
+  - A MySQL database manager.
+ </li>
+ <li>
+  <a href="http://www.nattyware.com/pixie.php">
+   Pixie
+  </a>
+  - A simple color picker for developers.
+ </li>
+ <li>
+  <a href="https://www.sourcetreeapp.com/">
+   SourceTree
+  </a>
+  - A free Git & Mercurial client.
+ </li>
+ <li>
+  <a href="http://www.zsh.org/">
+   Zsh
+  </a>
+  -  A powerful command line shell.
+  <a href="http://sourceforge.net/p/zsh/code/ci/master/tree/">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="http://redisdesktop.com/">
+   Redis Desktop Manager
+  </a>
+  Cross-platform open source Redis DB management tool.
+ </li>
+ <li>
+  <a href="https://protonail.com/products/keylord">
+   Keylord
+  </a>
+  Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
+ </li>
+ <li>
+  <a href="https://www.visualstudio.com/">
+   Visual Studio
+  </a>
+  - Ultimate Microsoft Developer Tool.
+ </li>
+ <li>
+  <a href="http://www.telerik.com/fiddler">
+   Fiddler
+  </a>
+  - Web debugging proxy.
+ </li>
+ <li>
+  <a href="https://filezilla-project.org/">
+   FileZilla
+  </a>
+  - FTP, FTPS and SFTP client.
+ </li>
+ <li>
+  <a href="http://www.heidisql.com/">
+   HeidiSQL
+  </a>
+  - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+ </li>
+ <li>
+  <a href="http://processhacker.sourceforge.net/">
+   Process Hacker
+  </a>
+  - Excellent full blown task manager.
+ </li>
+ <li>
+  <a href="http://www.wampserver.com/en/">
+   Wamp
+  </a>
+  - Web development environment.
  </li>
 </ul>
-<h2>
- Theory
-</h2>
+<h3>
+ Documents
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/papers-we-love/papers-we-love">
-   Papers We Love
+  <a href="https://www.libreoffice.org/">
+   LibreOffice
   </a>
-  <sup>
-   &#9733 16161, pushed 12 days ago
-  </sup>
+  - Open source office suite.
+  <a href="https://www.libreoffice.org/about-us/source-code/">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/JanVanRyswyck/awesome-talks">
-   Talks
+  <a href="http://www.office.com">
+   Microsoft Office
   </a>
-  <sup>
-   &#9733 1167, pushed 23 days ago
-  </sup>
+  - Microsoft's own productivity suite.
  </li>
  <li>
-  <a href="https://github.com/tayllan/awesome-algorithms">
-   Algorithms
+  <a href="https://www.openoffice.org/">
+   OpenOffice
   </a>
-  <sup>
-   &#9733 1434, pushed 14 days ago
-  </sup>
+  - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
+  <a href="http://openoffice.apache.org/source.html">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/enjalot/algovis">
-   Algorithm Visualizations
+  <a href="https://www.gonitro.com/pdf-reader">
+   NitroPDF
   </a>
-  <sup>
-   &#9733 500, pushed 93 days ago
-  </sup>
+  - The best PDF Reader you'll ever get.
  </li>
  <li>
-  <a href="https://github.com/owainlewis/awesome-artificial-intelligence">
-   Artificial Intelligence
+  <a href="http://www.sumatrapdfreader.org/free-pdf-reader.html">
+   Sumatra PDF
   </a>
-  <sup>
-   &#9733 1518, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/marcobiedermann/search-engine-optimization">
-   Search Engine Optimization
-  </a>
-  <sup>
-   &#9733 222, pushed 65 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lnishan/awesome-competitive-programming">
-   Competitive Programming
-  </a>
-  <sup>
-   &#9733 139, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/rossant/awesome-math">
-   Math
-  </a>
-  <sup>
-   &#9733 151, pushed 7 days ago
-  </sup>
+  - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
 </ul>
-<h2>
- Books
-</h2>
+<h3>
+ E-Book Utilities
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/vhf/free-programming-books">
-   Free Programming Books
+  <a href="http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f">
+   Bookviser
   </a>
-  <sup>
-   &#9733 54405, pushed 3 days ago
-  </sup>
+  - Awesome application for Windows 8 devices to read eBooks in a simple way.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md">
-   Free Software Testing Books
+  <a href="http://calibre-ebook.com/">
+   Calibre
   </a>
+  - Powerful software for e-book management and conversion.
+  <a href="http://calibre-ebook.com/get-involved">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/dariubs/GoBooks">
-   Go Books
+  <a href="https://www.kobo.com/desktop">
+   kobo
   </a>
-  <sup>
-   &#9733 2107, pushed 39 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RomanTsegelskyi/rbooks">
-   R Books
-  </a>
-  <sup>
-   &#9733 29, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hackerkid/Mind-Expanding-Books">
-   Mind Expanding Books
-  </a>
-  <sup>
-   &#9733 344, pushed 18 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TalAter/awesome-book-authoring">
-   Book Authoring
-  </a>
-  <sup>
-   &#9733 2, pushed 2 days ago
-  </sup>
+  - Incredibly ugly but powerful software for ebook management and conversion.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
 </ul>
-<h2>
- Editors
-</h2>
+<h3>
+ Email
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/dreikanter/sublime-bookmarks">
-   Sublime Text
+  <a href="https://www.mailbird.com/">
+   MailBird
   </a>
-  <sup>
-   &#9733 380, pushed 81 days ago
-  </sup>
+  - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
  </li>
  <li>
-  <a href="https://github.com/mhinz/vim-galore">
-   Vim
+  <a href="https://www.mozilla.org/en-US/thunderbird/">
+   Thunderbird
   </a>
-  <sup>
-   &#9733 4633, pushed 10 days ago
-  </sup>
+  - Email client with minimalistic design.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
-  <a href="https://github.com/emacs-tw/awesome-emacs">
-   Emacs
+  <a href="https://www.nylas.com/download/">
+   Nylas N1
   </a>
-  <sup>
-   &#9733 1774, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mehcode/awesome-atom">
-   Atom
+  - An extensible desktop mail app built on the modern web.
+  <a href="https://github.com/nylas/N1">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
   </a>
-  <sup>
-   &#9733 326, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/viatsko/awesome-vscode">
-   Visual Studio Code
-  </a>
-  <sup>
-   &#9733 114, pushed 10 days ago
-  </sup>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
 </ul>
-<h2>
- Gaming
-</h2>
+<h3>
+ Games
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/ellisonleao/magictools">
-   Game Development
+  <a href="https://www.warsow.net/">
+   Warsow
   </a>
-  <sup>
-   &#9733 2890, pushed 39 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hzoo/awesome-gametalks">
-   Game Talks
-  </a>
-  <sup>
-   &#9733 274, pushed 34 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Calinou/awesome-godot">
-   Godot
-  </a>
-  - Game engine
-  <sup>
-   &#9733 131, pushed 22 days ago
-  </sup>
+  - Free & fast-paced FPS game for Windows.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
  </li>
  <li>
   <a href="https://github.com/leereilly/games">
-   Open Source Games
+   Awesome Games
   </a>
+  - List of games hosted on Github.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
   <sup>
-   &#9733 2592, pushed 19 days ago
+   &#9733 2592, pushed 143 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/RyanNielson/awesome-unity">
+  <a href="https://unity3d.com/">
    Unity
   </a>
-  - Game engine
+  - Free game engine. Easy to pick up and use with a number of tutorials.
+ </li>
+ <li>
+  <a href="https://www.unrealengine.com/what-is-unreal-engine-4">
+   Unreal Engine
+  </a>
+  - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
+ </li>
+ <li>
+  <a href="http://store.steampowered.com/">
+   Steam
+  </a>
+  -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
+ </li>
+ <li>
+  <a href="https://www.origin.com/en-in/store/">
+   Origin
+  </a>
+  - Like Steam, but for EA.
+ </li>
+</ul>
+<h3>
+ Graphics
+</h3>
+<ul>
+ <li>
+  <a href="https://www.blender.org/">
+   Blender
+  </a>
+  - Fully-featured extensible cross-platform 3D content suite.
+  <a href="https://developer.blender.org/">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://www.gimp.org/">
+   Gimp
+  </a>
+  - Open source image editor.
+  <a href="http://www.gimp.org/source/">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://www.getpaint.net/index.html">
+   Paint.net
+  </a>
+  - how can you live without paint.net?
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="https://inkscape.org/en/">
+   Inkscape
+  </a>
+  - Free vector-based graphic design software.
+ </li>
+ <li>
+  <a href="https://krita.org/">
+   Krita
+  </a>
+  - Free drawing software with a bunch of cool features.
+ </li>
+</ul>
+<h3>
+ Text Editors
+</h3>
+<ul>
+ <li>
+  <a href="https://atom.io/">
+   Atom
+  </a>
+  - A hackable text editor for the 21st Century.
+  <a href="https://github.com/atom/atom">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://brackets.io/">
+   Brackets
+  </a>
+  - A modern, open source text editor that understands web design.
+  <a href="https://github.com/adobe/brackets">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="https://eclipse.org/downloads/">
+   Eclipse
+  </a>
+  - A powerful IDE.
+ </li>
+ <li>
+  <a href="http://www.vim.org/download.php#pc">
+   GVim
+  </a>
+  - (G)Vim is a highly configurable text editor built to enable efficient text editing.
+ </li>
+ <li>
+  <a href="http://lighttable.com/">
+   Light Table
+  </a>
+  - A customizable editor with instant feedback and showing data values flow through your code.
+  <a href="https://github.com/LightTable/LightTable">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="https://notepad-plus-plus.org/">
+   Notepad++
+  </a>
+  - A source code editor which supports several programming languages.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://www.sublimetext.com/3">
+   Sublime Text 3
+  </a>
+  - The sophisticated text editor.
+ </li>
+ <li>
+  <a href="https://code.visualstudio.com/">
+   Visual Studio Code
+  </a>
+  - Build and debug modern web and cloud applications.
+  <a href="https://github.com/Microsoft/vscode">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+</ul>
+<h3>
+ Online Storage
+</h3>
+<ul>
+ <li>
+  <a href="https://www.dropbox.com/install">
+   Dropbox
+  </a>
+  -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+ </li>
+ <li>
+  <a href="https://www.google.com/drive/download/">
+   Google Drive
+  </a>
+  - Cloud storage solution deeply integrated in the Google ecosystem.
+ </li>
+ <li>
+  <a href="https://onedrive.live.com/about/en-us/download/">
+   OneDrive
+  </a>
+  - Best cloud storage solution for Windows users.
+ </li>
+ <li>
+  <a href="https://mozy.com/product/download">
+   Mozy
+  </a>
+ </li>
+ <li>
+  <a href="https://app.box.com/services/browse/43/box_sync_for_windows">
+   Box
+  </a>
+  - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
+ </li>
+</ul>
+<h3>
+ Productivity
+</h3>
+<ul>
+ <li>
+  <a href="https://chocolatey.org/">
+   Chocolatey
+  </a>
+  - A package manager for Windows.
+ </li>
+ <li>
+  <a href="http://ditto-cp.sourceforge.net/">
+   Ditto
+  </a>
+  - Clipboard manager.
+ </li>
+ <li>
+  <a href="http://www.voidtools.com/">
+   Everything
+  </a>
+  - The fastest file/folder search tool by name.
+ </li>
+ <li>
+  <a href="http://stereopsis.com/flux/">
+   f.lux
+  </a>
+  - Automatically adjust your computer screen to match lighting.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://www.launchy.net/">
+   Launchy
+  </a>
+  - The Open Source Keystroke Launcher.
+  <a href="https://github.com/OpenNingia/Launchy">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="http://www.listary.com/">
+   Listary
+  </a>
+  - Keep files at your fingertips. An unique search utility.
+ </li>
+ <li>
+  <a href="https://ninite.com/">
+   Ninite
+  </a>
+  - The easiest, fastest way to update or install software.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="https://github.com/lukesampson/scoop">
+   Scoop
+  </a>
+  - A command-line installer for Windows.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
   <sup>
-   &#9733 536, pushed 5 days ago
+   &#9733 1351, pushed 130 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hkirat/awesome-chess">
-   Chess
+  <a href="http://www.getwox.com/">
+   Wox
   </a>
+  - An effective launcher for windows.
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+</ul>
+<h3>
+ Terminal
+</h3>
+<ul>
+ <li>
+  <a href="http://babun.github.io/">
+   Babun
+  </a>
+  - Alternative Windows shell based on Cygwin.
+ </li>
+ <li>
+  <a href="https://github.com/cmderdev/cmder">
+   Cmder
+  </a>
+  - Console emulator package.
   <sup>
-   &#9733 19, pushed 11 days ago
+   &#9733 7075, pushed 144 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/JanWerder/awesome-love2d">
-   LÖVE
+  <a href="https://github.com/Maximus5/ConEmu">
+   ConEmu
   </a>
-  - Game engine
+  - Customizable terminal with tabs, splits, quake-style and more.
+  <sup>
+   &#9733 2217, pushed 129 days ago
+  </sup>
  </li>
  <li>
-  <a href="https://github.com/felipebueno/awesome-PICO-8">
-   PICO-8
+  <a href="https://github.com/cbucher/console">
+   ConsoleZ
   </a>
-  - Fantasy console
+  - Modified version of Console 2 for a better experience and a better visual rendering.
   <sup>
-   &#9733 88, pushed 33 days ago
+   &#9733 1556, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://mobaxterm.mobatek.net/">
+   MobaXterm
+  </a>
+  - Xserver and tabbed SSH client.
+ </li>
+ <li>
+  <a href="http://ttyplus.com/multi-tabbed-putty/">
+   MTPuTTY
+  </a>
+  - Multi-Tabbed PuTTY.
+ </li>
+ <li>
+  <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">
+   Putty
+  </a>
+  - SSH and telnet client.
+ </li>
+ <li>
+  <a href="http://www.9bis.net/kitty/">
+   Kitty
+  </a>
+  - advanced Putty (SSH and telnet client).
+ </li>
+</ul>
+<h3>
+ Utilities
+</h3>
+<ul>
+ <li>
+  <a href="http://ss64.com/nt/">
+   A-Z of Windows Terminal Commands
+  </a>
+ </li>
+ <li>
+  <a href="http://code52.org/carnac/">
+   Carnac
+  </a>
+  - The easiest way to record keystrokes during any screen recording.
+ </li>
+ <li>
+  <a href="https://www.piriform.com/ccleaner/download">
+   Ccleaner
+  </a>
+  - System cleaning utility which is more easy to understand and use for beginners.
+ </li>
+ <li>
+  <a href="http://www.farmanager.com/index.php?l=en">
+   Far
+  </a>
+  - File and Archive manager. Clone of the Norton Commander.
+  <a href="http://sourceforge.net/projects/farmanager/">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="http://www.fraps.com/">
+   Fraps
+  </a>
+  - Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
+ </li>
+ <li>
+  <a href="http://www.freefilesync.org/">
+   FreeFileSync
+  </a>
+  - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+ </li>
+ <li>
+  <a href="http://www.glarysoft.com/">
+   Glary Utilities
+  </a>
+  - Provides many more advanced features which are non existent in ccleaner.
+ </li>
+ <li>
+  <a href="https://www.httrack.com/page/2/en/index.html">
+   HTTrack
+  </a>
+  - Offline browser utility, allowing you to download a website from the Internet to a local directory.
+  <a href="https://github.com/xroche/httrack/tree/master">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="http://www.cockos.com/licecap/">
+   LICEcap
+  </a>
+  - Animated screen captures and save them directly to .GIF
+ </li>
+ <li>
+  <a href="https://www.npmjs.com/package/rimraf">
+   rimraf
+  </a>
+  - A deep deletion module for node. Help to delete files and folders with very long paths
+ </li>
+ <li>
+  <a href="https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx">
+   SDelete
+  </a>
+  -  A command line utility that can securely delete a file, or clean the slack space.
+ </li>
+ <li>
+  <a href="https://www.piriform.com/speccy">
+   Speccy
+  </a>
+  -Detailed statistics on every piece of hardware in your computer.
+ </li>
+ <li>
+  <a href="https://getsharex.com/">
+   ShareX
+  </a>
+  - Lets you take screenshots or screencasts of any selected area with a single key.
+  <a href="https://github.com/ShareX/ShareX">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+  <img alt="Freeware" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg"/>
+ </li>
+ <li>
+  <a href="https://technet.microsoft.com/en-us/sysinternals/bb842062">
+   Sysinternals Suite
+  </a>
+  - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+ </li>
+ <li>
+  <a href="http://softorino.com/waltr/">
+   Waltr
+  </a>
+  - Transfer any movie or music file to your iPhone w/o iTunes.
+ </li>
+ <li>
+  <a href="https://windirstat.info/">
+   WinDirStat
+  </a>
+  - It is a disk usage statistics viewer and cleanup too.
+ </li>
+ <li>
+  <a href="https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/">
+   Windows 10 Login Screen Changer
+  </a>
+  - Changes the Windows 10 Login Screen Background.
+  <a href="https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+</ul>
+<h3>
+ Video
+</h3>
+<ul>
+ <li>
+  <a href="http://www.codecguide.com/download_kl.htm">
+   K-Lite Codecs
+  </a>
+  - Collection of DirectShow filters, VFW/ACM codecs, and tools.
+ </li>
+ <li>
+  <a href="http://mpv.io/">
+   mpv
+  </a>
+  - Media player.
+  <a href="https://github.com/mpv-player/mpv">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="http://handbrake.fr/">
+   HandBrake
+  </a>
+  - High performance video encoding and conversion tools with a nice GUI.
+  <a href="https://github.com/HandBrake/HandBrake">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="http://www.videolan.org/vlc/index.html">
+   VLC
+  </a>
+  - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
  </li>
 </ul>
 <h2>
- Development Environment
+ Setup
 </h2>
+<h3>
+ Windows 10 Setup
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/sindresorhus/quick-look-plugins">
-   Quick Look Plugins
-  </a>
-  - OS X
-  <sup>
-   &#9733 5950, pushed 4 days ago
-  </sup>
+  http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
  </li>
  <li>
-  <a href="https://github.com/jondot/awesome-devenv">
-   Dev Env
-  </a>
-  <sup>
-   &#9733 388, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/webpro/awesome-dotfiles">
-   Dotfiles
-  </a>
-  <sup>
-   &#9733 1061, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/alebcay/awesome-shell">
-   Shell
-  </a>
-  <sup>
-   &#9733 6673, pushed 17 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/aharris88/awesome-cli-apps">
-   Command-Line Apps
-  </a>
-  <sup>
-   &#9733 398, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/unixorn/awesome-zsh-plugins">
-   ZSH Plugins
-  </a>
-  <sup>
-   &#9733 1464, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/phillipadsmith/awesome-github">
-   GitHub
-  </a>
-  <ul>
-   <li>
-    <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">
-     Browser Extensions
-    </a>
-    <sup>
-     &#9733 450, pushed 3 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/tiimgreen/github-cheat-sheet">
-     Cheat Sheet
-    </a>
-    <sup>
-     &#9733 18492, pushed 27 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 187, pushed 44 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/arslanbilal/git-cheat-sheet">
-   Git Cheat Sheet & Git Flow
-  </a>
-  <sup>
-   &#9733 1138, pushed 50 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/git-tips/tips">
-   Git Tips
-  </a>
-  <sup>
-   &#9733 515, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/stevemao/awesome-git-addons">
-   Git Add-ons
-  </a>
-  <sup>
-   &#9733 227, pushed 10 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/moul/awesome-ssh">
-   SSH
-  </a>
-  <sup>
-   &#9733 315, pushed 46 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">
-   FOSS for Developers
-  </a>
-  <sup>
-   &#9733 115, pushed 54 days ago
-  </sup>
+  http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
  </li>
 </ul>
-<h2>
- Entertainment
-</h2>
+<h3>
+ Windows 8.1 Setup
+</h3>
 <ul>
  <li>
-  <a href="https://github.com/sindresorhus/awesome-scifi">
-   Science Fiction
-  </a>
-  - Scifi
-  <sup>
-   &#9733 997, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RichardLitt/awesome-fantasy">
-   Fantasy
-  </a>
-  <sup>
-   &#9733 167, pushed 75 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/guipdutra/awesome-geek-podcasts">
-   Podcasts
-  </a>
-  <sup>
-   &#9733 602, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vredniy/awesome-newsletters">
-   Email Newsletters
-  </a>
-  <sup>
-   &#9733 293, pushed 20 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Databases
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/numetriclabz/awesome-db">
-   Database
-  </a>
-  <sup>
-   &#9733 209, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md">
-   MySQL
-  </a>
- </li>
- <li>
-  <a href="https://github.com/dahlia/awesome-sqlalchemy">
-   SQLAlchemy
-  </a>
-  <sup>
-   &#9733 1106, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mark-rushakoff/awesome-influxdb">
-   InfluxDB
-  </a>
-  <sup>
-   &#9733 98, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Neueda4j/awesome-neo4j">
-   Neo4j
-  </a>
-  <sup>
-   &#9733 73, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/TomasVotruba/awesome-doctrine">
-   Doctrine
-  </a>
-  - PHP ORM
-  <sup>
-   &#9733 91, pushed 22 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ramnes/awesome-mongodb">
-   MongoDB
-  </a>
-  <sup>
-   &#9733 200, pushed 6 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Media
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/shime/creative-commons-media">
-   Creative Commons Media
-  </a>
-  <sup>
-   &#9733 109, pushed 102 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/brabadu/awesome-fonts">
-   Fonts
-  </a>
-  <sup>
-   &#9733 115, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chrissimpkins/codeface">
-   Codeface
-  </a>
-  - Text editor fonts
-  <sup>
-   &#9733 3139, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/neutraltone/awesome-stock-resources">
-   Stock Resources
-  </a>
-  <sup>
-   &#9733 5175, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ibaaj/awesome-gif">
-   GIF
-  </a>
-  <sup>
-   &#9733 90, pushed 83 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ciconia/awesome-music">
-   Music
-  </a>
-  <sup>
-   &#9733 84, pushed 38 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nacyot/awesome-opensource-documents">
-   Open Source Documents
-  </a>
- </li>
- <li>
-  <a href="https://github.com/willianjusten/awesome-audio-visualization">
-   Audio Visualization
-  </a>
-  <sup>
-   &#9733 258, pushed 3 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Learn
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/therebelrobot/awesome-workshopper">
-   CLI Workshoppers
-  </a>
-  - Interactive tutorials
-  <sup>
-   &#9733 128, pushed 88 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/karlhorky/learn-to-program">
-   Learn to Program
-  </a>
-  <sup>
-   &#9733 174, pushed 6 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/matteofigus/awesome-speaking">
-   Speaking
-  </a>
-  <sup>
-   &#9733 360, pushed 112 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lucasviola/awesome-tech-videos">
-   Tech Videos
-  </a>
-  <sup>
-   &#9733 116, pushed 115 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hangtwenty/dive-into-machine-learning">
-   Dive into Machine Learning
-  </a>
-  <sup>
-   &#9733 5160, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/watson/awesome-computer-history">
-   Computer History
-  </a>
-  <sup>
-   &#9733 588, pushed 21 days ago
-  </sup>
+  http://windows.microsoft.com/en-IN/windows-8/clean-install
  </li>
 </ul>
 <h2>
@@ -2080,90 +1112,66 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/paragonie/awesome-appsec">
-   Application Security
+  <a href="https://toolslib.net/downloads/viewdownload/1-adwcleaner/">
+   AdwCleaner
   </a>
-  <sup>
-   &#9733 1668, pushed 24 days ago
-  </sup>
+  - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
  </li>
  <li>
-  <a href="https://github.com/sbilly/awesome-security">
-   Security
+  <a href="http://www.bitdefender.com/">
+   Bitdefender
   </a>
-  <sup>
-   &#9733 523, pushed 50 days ago
-  </sup>
+  - Best outright protection against malware.
  </li>
  <li>
-  <a href="https://github.com/apsdehal/awesome-ctf">
-   CTF
+  <a href="https://www.piriform.com/ccleaner">
+   CCleaner
   </a>
-  - Capture The Flag
-  <sup>
-   &#9733 421, pushed 34 days ago
-  </sup>
+  - For PC Optmization and cleaning computer.
  </li>
  <li>
-  <a href="https://github.com/rshipp/awesome-malware-analysis">
-   Malware Analysis
+  <a href="https://www.safer-networking.org/">
+   SpyBot
   </a>
-  <sup>
-   &#9733 968, pushed 6 days ago
-  </sup>
+  - Search and destroy malware, spyware and viruses.
  </li>
  <li>
-  <a href="https://github.com/ashishb/android-security-awesome">
-   Android Security
+  <a href="https://unchecky.com/">
+   UnChecky
   </a>
-  <sup>
-   &#9733 1007, pushed 5 days ago
-  </sup>
+  - automatically unchecks unrelated offers from installers.
  </li>
  <li>
-  <a href="https://github.com/carpedm20/awesome-hacking">
-   Hacking
+  <a href="https://www.malwarebytes.org/">
+   Malwarebytes
   </a>
-  <sup>
-   &#9733 510, pushed 12 days ago
-  </sup>
+  - protects from dangerous threats that antivirus doesn't.
  </li>
  <li>
-  <a href="https://github.com/paralax/awesome-honeypots">
-   Honeypots
+  <a href="https://www.torproject.org/">
+   Tor Project
   </a>
-  <sup>
-   &#9733 604, pushed 47 days ago
-  </sup>
+  - Enable anonymous communication.
+  <a href="https://github.com/TheTorProject">
+   <img alt="Open-Source Software" src="https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg"/>
+  </a>
  </li>
  <li>
-  <a href="https://github.com/meirwah/awesome-incident-response">
-   Incident Response
+  <a href="http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/">
+   Windows 10 Paranoid's Guide
   </a>
-  <sup>
-   &#9733 471, pushed 11 days ago
-  </sup>
- </li>
-</ul>
-<h2>
- Content Management System
-</h2>
-<ul>
- <li>
-  <a href="https://github.com/leekelleher/awesome-umbraco">
-   Umbraco
-  </a>
-  <sup>
-   &#9733 52, pushed 67 days ago
-  </sup>
  </li>
  <li>
-  <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">
-   Refinery CMS
+  <a href="https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10">
+   Disable Data Logging
   </a>
-  <sup>
-   &#9733 10, pushed 26 days ago
-  </sup>
+  - Make Windows 10 more private and safe.
+ </li>
+ <li>
+  <a href="https://www.sparklabs.com/viscosity/">
+   Viscosity
+  </a>
+  - Fully-featured OpenVPN client, ready for enterprise deployment.
  </li>
 </ul>
 <h2>
@@ -2171,532 +1179,108 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/burningtree/awesome-json">
-   JSON
-  </a>
-  <sup>
-   &#9733 306, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/najela/discount-for-student-dev">
-   Discounts for Student Developers
+  <a href="http://www.windows.microsoft.com/en-in/windows/show-hidden-files">
+   Show hidden files
   </a>
  </li>
  <li>
-  <a href="https://github.com/matiassingers/awesome-slack">
-   Slack
+  <a href="http://imgur.com/a/TIXvm">
+   list of Shortcut keys
   </a>
-  <ul>
-   <li>
-    <a href="https://github.com/filipelinhares/awesome-slack">
-     Communities
-    </a>
-    <sup>
-     &#9733 133, pushed 48 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 218, pushed 104 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RichardLitt/awesome-conferences">
-   Conferences
-  </a>
-  <sup>
-   &#9733 407, pushed 34 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/tmcw/awesome-geojson">
-   GeoJSON
-  </a>
-  <sup>
-   &#9733 270, pushed 66 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/n1trux/awesome-sysadmin">
-   Sysadmin
-  </a>
-  <sup>
-   &#9733 3496, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kyleterry/awesome-radio">
-   Radio
-  </a>
-  <sup>
-   &#9733 73, pushed 270 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sindresorhus/awesome">
-   Awesome
-  </a>
-  <sup>
-   &#9733 34522, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/onurakpolat/awesome-analytics">
-   Analytics
-  </a>
-  <sup>
-   &#9733 334, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/opencompany/awesome-open-company">
-   Open Companies
-  </a>
-  <sup>
-   &#9733 93, pushed 119 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/marmelab/awesome-rest">
-   REST
-  </a>
-  <sup>
-   &#9733 636, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/christian-bromann/awesome-selenium">
-   Selenium
-  </a>
-  <sup>
-   &#9733 99, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RichardLitt/endangered-languages">
-   Endangered Languages
-  </a>
-  <sup>
-   &#9733 81, pushed 38 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ciandcd/awesome-ciandcd">
-   Continuous Delivery
-  </a>
-  <sup>
-   &#9733 167, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mmcgrana/services-engineering">
-   Services Engineering
-  </a>
-  <sup>
-   &#9733 2107, pushed 270 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ripienaar/free-for-dev">
-   Free for Developers
-  </a>
-  <sup>
-   &#9733 13074, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/igorbarinov/awesome-bitcoin">
-   Bitcoin
-  </a>
-  <sup>
-   &#9733 83, pushed 24 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jugoncalves/awesome-answers">
-   Answers
-  </a>
-  - Stack Overflow, Quora, etc
- </li>
- <li>
-  <a href="https://github.com/diessica/awesome-sketch">
-   Sketch
-  </a>
-  - OS X design app
-  <sup>
-   &#9733 413, pushed 12 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mmccaff/PlacesToPostYourStartup">
-   Places to Post Your Startup
-  </a>
-  <sup>
-   &#9733 851, pushed 99 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/caesar0301/awesome-pcaptools">
-   PCAPTools
-  </a>
-  <sup>
-   &#9733 378, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/lukasz-madon/awesome-remote-job">
-   Remote Jobs
-  </a>
-  <sup>
-   &#9733 5439, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/melvin0008/awesome-projects-boilerplates">
-   Boilerplate Projects
-  </a>
-  <sup>
-   &#9733 199, pushed 71 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/matiassingers/awesome-readme">
-   Readme
-  </a>
-  <sup>
-   &#9733 360, pushed 41 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cjbarber/ToolsOfTheTrade">
-   Tools
-  </a>
-  <sup>
-   &#9733 6277, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RichardLitt/awesome-styleguides">
-   Styleguides
-  </a>
-  <sup>
-   &#9733 291, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/NARKOZ/guides">
-   Design and Development Guides
-  </a>
-  <sup>
-   &#9733 1097, pushed 37 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/kilimchoi/engineering-blogs">
-   Software Engineering Blogs
-  </a>
-  <sup>
-   &#9733 7780, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Kickball/awesome-selfhosted">
-   Self Hosted
-  </a>
-  <sup>
-   &#9733 6801, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jwaterfaucett/awesome-foss-apps">
-   FOSS Production Apps
-  </a>
-  <sup>
-   &#9733 82, pushed 157 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/alferov/awesome-gulp">
-   Gulp
-  </a>
-  <sup>
-   &#9733 142, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sindresorhus/amas">
-   AMA
-  </a>
-  - Ask Me Anything
-  <ul>
-   <li>
-    <a href="https://github.com/stoeffel/awesome-ama-answers">
-     Answers
-    </a>
-    <sup>
-     &#9733 86, pushed 224 days ago
-    </sup>
-   </li>
-  </ul>
-  <sup>
-   &#9733 527, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">
-   Open Source Photography
-  </a>
-  <sup>
-   &#9733 44, pushed 56 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/eug/awesome-opengl">
-   OpenGL
-  </a>
-  <sup>
-   &#9733 267, pushed 24 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jyguyomarch/awesome-productivity">
-   Productivity
-  </a>
-  <sup>
-   &#9733 67, pushed 112 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/chentsulin/awesome-graphql">
-   GraphQL
-  </a>
-  <sup>
-   &#9733 1179, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/luqmaan/awesome-transit">
-   Transit
-  </a>
-  <sup>
-   &#9733 91, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/emptymalei/awesome-research">
-   Research Tools
-  </a>
-  <sup>
-   &#9733 95, pushed 33 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/wfhio/awesome-job-boards">
-   Niche Job Boards
-  </a>
-  <sup>
-   &#9733 30, pushed 34 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/fasouto/awesome-dataviz">
-   Data Visualization
-  </a>
-  <sup>
-   &#9733 431, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vinkla/share-links">
-   Social Media Share Links
-  </a>
- </li>
- <li>
-  <a href="https://github.com/jdorfman/awesome-json-datasets">
-   JSON Datasets
-  </a>
-  <sup>
-   &#9733 88, pushed 141 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mfornos/awesome-microservices">
-   Microservices
-  </a>
-  <sup>
-   &#9733 883, pushed 5 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Codepoints/awesome-codepoints">
-   Unicode Code Points
-  </a>
-  <sup>
-   &#9733 80, pushed 78 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/HQarroum/awesome-iot">
-   Internet of Things
-  </a>
-  <sup>
-   &#9733 212, pushed 74 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MunGell/awesome-for-beginners">
-   Beginner-Friendly Projects
-  </a>
-  <sup>
-   &#9733 304, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/beaconinside/awesome-beacon">
-   Bluetooth Beacons
-  </a>
-  <sup>
-   &#9733 131, pushed 56 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MaximAbramchuck/awesome-interviews">
-   Programming Interviews
-  </a>
- </li>
- <li>
-  <a href="https://github.com/vhpoet/awesome-ripple">
-   Ripple
-  </a>
-  - Open source distributed settlement network
-  <sup>
-   &#9733 32, pushed 103 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gmontalvoriv/awesome-katas">
-   Katas
-  </a>
-  <sup>
-   &#9733 32, pushed 75 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/drewrwilson/toolsforactivism">
-   Tools for Activism
-  </a>
-  <sup>
-   &#9733 152, pushed 84 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sindresorhus/awesome-tap">
-   TAP
-  </a>
-  - Test Anything Protocol
-  <sup>
-   &#9733 197, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Kiloreux/awesome-robotics">
-   Robotics
-  </a>
-  <sup>
-   &#9733 162, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hobbyquaker/awesome-mqtt">
-   MQTT
-  </a>
-  - "Internet of Things" connectivity protocol
-  <sup>
-   &#9733 41, pushed 31 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/diasdavid/awesome-hacking-spots">
-   Hacking Spots
-  </a>
-  <sup>
-   &#9733 245, pushed 16 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cristianoliveira/awesome4girls">
-   For Girls
-  </a>
-  <sup>
-   &#9733 95, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vorpaljs/awesome-vorpal">
-   Vorpal
-  </a>
-  - Node.js CLI framework
-  <sup>
-   &#9733 54, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/domenicosolazzo/awesome-okr">
-   OKR Methodology
-  </a>
-  - Goal setting & communication best practices
-  <sup>
-   &#9733 33, pushed 88 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/vinjn/awesome-vulkan">
-   Vulkan
-  </a>
-  <sup>
-   &#9733 186, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/egeerardyn/awesome-LaTeX">
-   LaTeX
-  </a>
-  - Typesetting language
-  <sup>
-   &#9733 19, pushed 28 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/briatte/awesome-network-analysis">
-   Network Analysis
-  </a>
-  <sup>
-   &#9733 179, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/antontarasenko/awesome-economics">
-   Economics
-  </a>
-  - An economist's starter kit
-  <sup>
-   &#9733 33, pushed 7 days ago
-  </sup>
  </li>
 </ul>
+<h2>
+ Discussion Forums
+</h2>
+<h4>
+ Windows
+</h4>
+<ul>
+ <li>
+  <a href="http://answers.microsoft.com/en-us/windows">
+   Windows Support Communities
+  </a>
+ </li>
+ <li>
+  <a href="http://stackoverflow.com/questions/tagged/windows">
+   Stackoverflow
+  </a>
+ </li>
+</ul>
+<h4>
+ IRC channels
+</h4>
+<ul>
+ <li>
+  <a href="https://webchat.freenode.net/?channels=windows">
+   #Windows
+  </a>
+ </li>
+ <li>
+  <a href="https://webchat.freenode.net/?channels=microsoft">
+   #microsoft
+  </a>
+ </li>
+</ul>
+<h4>
+ Reddit
+</h4>
+<ul>
+ <li>
+  <a href="https://www.reddit.com/r/windows/">
+   /r/windows
+  </a>
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/windowsapps">
+   /r/windowsapps
+  </a>
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/Microsoft">
+   /r/microsoft
+  </a>
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/sysadmin">
+   /r/sysadmin
+  </a>
+ </li>
+ <li>
+  <a href="https://www.reddit.com/r/microsoftsoftwareswap">
+   /r/microsoftsoftwareswap
+  </a>
+ </li>
+</ul>
+<h2>
+ Contribute
+</h2>
+<p>
+ Contributions are most welcome, please adhere to the
+ <a href="contributing.md">
+  contribution guidelines
+ </a>
+ .
+</p>
+<p>
+ <strong>
+  <a href="#applications">
+   ⬆ back to top
+  </a>
+ </strong>
+</p>
 <h2>
  License
 </h2>
 <p>
- <a href="https://creativecommons.org/publicdomain/zero/1.0/">
-  <img alt="CC0" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg"/>
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/4.0/88x31.png"/>
  </a>
 </p>
 <p>
- To the extent possible under law,
- <a href="http://sindresorhus.com">
-  Sindre Sorhus
+ This work is licensed under a
+ <a href="http://creativecommons.org/licenses/by/4.0/">
+  Creative Commons Attribution 4.0 International License
  </a>
- has waived all copyright and related or neighboring rights to this work.
+ .
 </p>

@@ -430,12 +430,19 @@
   is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
  </li>
  <li>
+  <a href="http://fabricjs.com">
+   fabric.js
+  </a>
+  provides interactive object model on top of canvas element
+and also has SVG-to-canvas (and canvas-to-SVG) parser
+ </li>
+ <li>
   <a href="https://github.com/iioinc/iio.js">
    iio.js
   </a>
   - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
   <sup>
-   &#9733 427, pushed 133 days ago
+   &#9733 427, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +451,7 @@
   </a>
   - JS Lib to redesign canvas API interface
   <sup>
-   &#9733 478, pushed 22 days ago
+   &#9733 478, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -453,7 +460,7 @@
   </a>
   - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
   <sup>
-   &#9733 6346, pushed 12 days ago
+   &#9733 6346, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -486,7 +493,7 @@
   </a>
   - Cross-Platform JavaScript Creative Coding Framework
   <sup>
-   &#9733 2106, pushed 146 days ago
+   &#9733 2106, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +523,7 @@
   </a>
   is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
   <sup>
-   &#9733 348, pushed 397 days ago
+   &#9733 348, pushed 521 days ago
   </sup>
  </li>
 </ul>
@@ -533,7 +540,7 @@
    rendering for React components.
   </canvas>
   <sup>
-   &#9733 8289, pushed 16 days ago
+   &#9733 8289, pushed 141 days ago
   </sup>
  </li>
 </ul>

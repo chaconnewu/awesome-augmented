@@ -1,6 +1,6 @@
 <h1>
  Awesome PICO-8
- <a href="#awesome-PICO-8">
+ <a href="https://github.com/sindresorhus/awesome#gaming">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
 </h1>
@@ -53,6 +53,21 @@
  <li>
   <a href="#tools">
    Tools
+  </a>
+ </li>
+ <li>
+  <a href="#hacks">
+   Hacks
+  </a>
+ </li>
+ <li>
+  <a href="#articles--posts">
+   Articles & Posts
+  </a>
+ </li>
+ <li>
+  <a href="#podcasts">
+   Podcasts
   </a>
  </li>
  <li>
@@ -133,9 +148,22 @@
   </a>
  </li>
  <li>
-  <a href="http://catgirl.goddess.moe:3000/">
-   Slack team
+  <a href="https://slofile.com/slack/pico-8">
+   Slack Team
   </a>
+  - PICO-8 Slack chat.
+  <ul>
+   <li>
+    <a href="http://catgirl.goddess.moe:3000/">
+     Alternative Link
+    </a>
+    - Original invite form running at
+    <a href="http://www.lexaloffle.com/bbs/?uid=2836">
+     JTE
+    </a>
+    's server.
+   </li>
+  </ul>
  </li>
 </ul>
 <h2>
@@ -149,12 +177,12 @@
   - Placeholder dump of pico-8.txt! (Proper manual coming soon).
  </li>
  <li>
-  <a href="https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html">
+  <a href="http://neko250.github.io/pico8-api/">
    Cheat Sheet
   </a>
   - by
-  <a href="http://twitter.com/yellowafterlife">
-   YellowAfterlife
+  <a href="https://neko250.github.io">
+   Neko250
   </a>
   . Based on the official manual, with edits where found appropriate.
  </li>
@@ -166,9 +194,13 @@
   <a href="http://sectordub.itch.io/pico-8-fanzine-2">
    #2
   </a>
-  and
+  ,
   <a href="http://sectordub.itch.io/pico-8-fanzine-3">
    #3
+  </a>
+  and
+  <a href="https://sectordub.itch.io/-pico-8-zine-4">
+   #4
   </a>
   - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
  </li>
@@ -177,6 +209,12 @@
    Going from Lua 5.2 to PICO-8's Lua
   </a>
   - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
+ </li>
+ <li>
+  <a href="https://ztiromoritz.github.io/pico-8-spick/">
+   Cheat Sheet (printable)
+  </a>
+  - A reduced cheat sheet in a printable format. German and Englisch version available.
  </li>
 </ul>
 <h2>
@@ -187,13 +225,19 @@
   <a href="https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg">
    Music Tracker Tutorial Series
   </a>
-  - Making audio with PICO-8
+  - Making audio with PICO-8.
  </li>
  <li>
   <a href="https://youtu.be/ZuaLuMhwcc8">
    Tron Lightcycle game from scratch
   </a>
-  - A quick introduction to PICO-8 writing a game from scratch
+  - A quick introduction to PICO-8 writing a game from scratch.
+ </li>
+ <li>
+  <a href="https://ztiromoritz.github.io/pico-8-shooter/">
+   A PICO-8 Spaceshooter in 16 GIFs
+  </a>
+  - Screencaptures of writing a Spaceshooter game step by step.
  </li>
 </ul>
 <h2>
@@ -201,13 +245,10 @@
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/ftsf/picolove">
+  <a href="https://github.com/gamax92/picolove">
    PicoLove
   </a>
   - Pico-8 Reimplementation in LÖVE.
-  <sup>
-   &#9733 62, pushed 121 days ago
-  </sup>
  </li>
  <li>
   <a href="http://www.lexaloffle.com/bbs/?tid=2462">
@@ -221,7 +262,7 @@
   </a>
   - Spritesheet extraction written in perl.
   <sup>
-   &#9733 7, pushed 204 days ago
+   &#9733 7, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -236,7 +277,7 @@
   </a>
   - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
   <sup>
-   &#9733 9, pushed 190 days ago
+   &#9733 9, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -245,7 +286,7 @@
   </a>
   -  Tools and Python libraries for manipulating Pico-8 game files.
   <sup>
-   &#9733 26, pushed 172 days ago
+   &#9733 26, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -254,7 +295,7 @@
   </a>
   - Downloads cartridges into the correct folder (looks at your config.txt).
   <sup>
-   &#9733 3, pushed 167 days ago
+   &#9733 3, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -263,8 +304,88 @@
   </a>
   - Python script that makes your HTML export page responsive.
   <sup>
-   &#9733 3, pushed 33 days ago
+   &#9733 3, pushed 158 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.romanzolotarev.com/pico-8-color-palette/">
+   Color Palette
+  </a>
+  - Hex and RGB colors codes for web.
+ </li>
+ <li>
+  <a href="https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view">
+   PICO-8 font
+  </a>
+  - by
+  <a href="http://www.lexaloffle.com/bbs/?uid=11704">
+   RhythmLynx
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/jozanza/pico-test">
+   pico-test
+  </a>
+  - PICO-8 testing framework.
+ </li>
+ <li>
+  <a href="https://github.com/clowerweb/Lib-Pico8">
+   Lib-Pico8
+  </a>
+  - A Pico-8 library of useful common functions.
+ </li>
+ <li>
+  <a href="https://github.com/adamscott/pico8-missing-builtins">
+   pico8-missing-builtins
+  </a>
+  - Provides Lua built-in functions to pico8.
+ </li>
+ <li>
+  <a href="https://packagecontrol.io/packages/PICO-8">
+   Sublime PICO-8
+  </a>
+  - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
+ </li>
+ <li>
+  <a href="http://blog.thrill-project.com/p8coder-pico-8-programming-tool/">
+   P8Coder
+  </a>
+  - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+ </li>
+</ul>
+<h2>
+ Hacks - undocumented PICO-8 features
+</h2>
+<ul>
+ <li>
+  <a href="http://www.lexaloffle.com/bbs/?tid=3549">
+   Mouse
+  </a>
+  - How to retrieve mouse coordinates (with demo).
+ </li>
+ <li>
+  <a href="https://github.com/dppc/p8keyboard.js">
+   p8keyboard.js
+  </a>
+  - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+ </li>
+ <li>
+  <a href="http://www.lexaloffle.com/bbs/?tid=3256">
+   Pico-8 Networking
+  </a>
+  - Play multiplayer PICO-8 games over the internet (up to 8 players).
+ </li>
+</ul>
+<h2>
+ Hardware
+</h2>
+<ul>
+ <li>
+  <a href="https://getchip.com/pages/pocketchip">
+   PocketC.H.I.P
+  </a>
+  - A portable mini-computer, a game console, a portable synthesizer and a Linux field terminal with PICO-8 pre-installed.
  </li>
 </ul>
 <h2>
@@ -286,6 +407,17 @@
    Clear Code
   </a>
   - 3 part series on how to write better pico-8 code.
+ </li>
+</ul>
+<h2>
+ Podcasts
+</h2>
+<ul>
+ <li>
+  <a href="http://pico.electrobureau.com/">
+   pico chat
+  </a>
+  - A bite-sized podcast about Pico-8 and other tiny games.
  </li>
 </ul>
 <h2>

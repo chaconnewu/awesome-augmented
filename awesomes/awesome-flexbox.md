@@ -332,7 +332,7 @@
    Sass flex mixin
   </a>
   <sup>
-   &#9733 822, pushed 5 days ago
+   &#9733 822, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -340,7 +340,7 @@
    Stylus flex mixin
   </a>
   <sup>
-   &#9733 7, pushed 697 days ago
+   &#9733 7, pushed 822 days ago
   </sup>
  </li>
 </ul>
@@ -354,7 +354,7 @@
   </a>
   :metal:
   <sup>
-   &#9733 2190, pushed 4 days ago
+   &#9733 2190, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -362,7 +362,7 @@
    Flexie
   </a>
   <sup>
-   &#9733 1069, pushed 1127 days ago
+   &#9733 1069, pushed 1252 days ago
   </sup>
  </li>
  <li>
@@ -370,7 +370,7 @@
    Reflexie
   </a>
   <sup>
-   &#9733 244, pushed 1035 days ago
+   &#9733 244, pushed 1159 days ago
   </sup>
  </li>
 </ul>
@@ -413,6 +413,10 @@
  *
  <a href="https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/">
   Laying Out A Flexible Future For Web Design With Flexbox
+ </a>
+ *
+ <a href="http://jonibologna.com/flexbox-cheatsheet/">
+  Flexbox Cheatsheet
  </a>
 </p>
 <h2>
@@ -489,6 +493,50 @@
   </a>
  </li>
 </ul>
+<h3>
+ <a href="http://www.sketchingwithcss.com">
+  Sketching with CSS
+ </a>
+ Flexbox Guide by
+ <a href="https://github.com/sfioritto">
+  @sfioritto
+ </a>
+</h3>
+<h4>
+ Read Materials
+</h4>
+<ul>
+ <li>
+  <a href="http://www.sketchingwithcss.com/flexbox-tutorial/">
+   Access 20+ Page Guide on Flexbox
+  </a>
+ </li>
+</ul>
+<h4>
+ Video Materials
+</h4>
+<ul>
+ <li>
+  <a href="http://www.sketchingwithcss.com/flex-container">
+   Flex-Container Pt. 1: Position Items within a flexbox container
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sketchingwithcss.com/flex-container-2/">
+   Flex-Container Pt. 2: Rows and Columns
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sketchingwithcss.com/grow-shrink/">
+   Grow and Shrink Flex Items
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sketchingwithcss.com/flex-layouts/">
+   Implementing the Sticky Footer and Holy Grail layout
+  </a>
+ </li>
+</ul>
 <h4>
  Slides and Notes
 </h4>
@@ -533,6 +581,11 @@
    RWD flexbox
   </a>
  </li>
+ <li>
+  <a href="https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox">
+   CSS Layout: from Table to Flexbox
+  </a>
+ </li>
 </ul>
 <h2>
  Tools
@@ -541,6 +594,10 @@
  <em>
   Have a little help to create their projects :D
  </em>
+ *
+ <a href="http://flexbox.buildwithreact.com/">
+  Build with Flexbox
+ </a>
  *
  <a href="http://demo.agektmr.com/flexbox/">
   CSS flexbox please
@@ -661,6 +718,11 @@
  </a>
  - Understand how to calculate the width of flex items.
 *
+ <a href="https://github.com/google/flexbox-layout">
+  Flexbox layout
+ </a>
+ - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
+*
  <a href="https://github.com/afonsopacifer/post-apocalypse-flexbox">
   Post Apocalypse Flexbox
  </a>
@@ -742,6 +804,10 @@
  * Sara Soueidan
  <a href="https://twitter.com/SaraSoueidan">
   @SaraSoueidan
+ </a>
+ * Sean Fioritto
+ <a href="https://twitter.com/sfioritto">
+  @sfioritto
  </a>
 </p>
 <h2>

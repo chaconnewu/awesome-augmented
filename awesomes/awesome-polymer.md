@@ -45,7 +45,7 @@
   </a>
   All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
   <sup>
-   &#9733 118, pushed 54 days ago
+   &#9733 118, pushed 178 days ago
   </sup>
  </li>
 </ul>
@@ -276,7 +276,7 @@
    Polymer boilerplate
   </a>
   <sup>
-   &#9733 358, pushed 301 days ago
+   &#9733 358, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -288,6 +288,23 @@
  <li>
   <a href="https://github.com/polymerlabs/seed-element">
    Seed element
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/akveo/polymer-admin">
+   Polymer Admin
+  </a>
+  Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
+ </li>
+ <li>
+  <a href="https://github.com/aruntk/kickstart-meteor-polymer">
+   Meteor-Polymer Starter Kit
+  </a>
+  Kickstart a Meteor - Polymer project with MWC packages
+ </li>
+ <li>
+  <a href="https://github.com/aruntk/kickstart-meteor-polymer-with-auth">
+   Meteor-Polymer Starter Kit Including Auth
   </a>
  </li>
 </ul>
@@ -305,7 +322,7 @@
   </a>
   .
   <sup>
-   &#9733 955, pushed 25 days ago
+   &#9733 955, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -410,7 +427,7 @@
   </a>
   A simple web server for using bower components locally.
   <sup>
-   &#9733 119, pushed 1 days ago
+   &#9733 119, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -419,7 +436,7 @@
   </a>
   An all-in-one build tool for Polymer apps.
   <sup>
-   &#9733 71, pushed 28 days ago
+   &#9733 71, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -428,7 +445,7 @@
   </a>
   A helpful assistant for migrating from Polymer v0.5 to 1.0.
   <sup>
-   &#9733 38, pushed 6 days ago
+   &#9733 38, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +454,7 @@
   </a>
   Detect errors in your code.
   <sup>
-   &#9733 102, pushed 12 days ago
+   &#9733 102, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +473,7 @@
   </a>
   DevTool extension.
   <sup>
-   &#9733 62, pushed 39 days ago
+   &#9733 62, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -477,7 +494,7 @@
   </a>
   Build tool for HTMLimports and web components.
   <sup>
-   &#9733 1035, pushed 12 days ago
+   &#9733 1035, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -486,7 +503,7 @@
   </a>
   Split inline scripts from an HTML file for CSP compliance.
   <sup>
-   &#9733 74, pushed 28 days ago
+   &#9733 74, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -499,6 +516,18 @@
    Snippets for Sublime Text editor
   </a>
  </li>
+ <li>
+  <a href="https://github.com/meteorwebcomponents/synthesis">
+   Synthesis
+  </a>
+  Use Polymer as the view Layer of Meteor.js
+ </li>
+ <li>
+  <a href="https://github.com/meteorwebcomponents/layout">
+   MWC-Layout
+  </a>
+  Control rendering of polymer components.
+ </li>
 </ul>
 <h2>
  Testing
@@ -510,7 +539,7 @@
   </a>
   Makes testing your web components a breeze!
   <sup>
-   &#9733 316, pushed 3 days ago
+   &#9733 316, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -519,7 +548,7 @@
   </a>
   Istanbul coverage plugin for web-component-tester.
   <sup>
-   &#9733 16, pushed 4 days ago
+   &#9733 16, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -528,7 +557,7 @@
   </a>
   Element that can simplify the exercise of consistently resetting a test suite's DOM.
   <sup>
-   &#9733 11, pushed 20 days ago
+   &#9733 11, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -537,28 +566,30 @@
   </a>
   Utility classes to make testing easier.
   <sup>
-   &#9733 11, pushed 7 days ago
+   &#9733 11, pushed 131 days ago
   </sup>
  </li>
 </ul>
 <h2>
- Behaviours
+ Behaviors
 </h2>
 <ul>
  <li>
   <a href="https://github.com/meteorwebcomponents/mixin">
-   Reactive meteor data source for polymer elementse
+   MWC-Mixin
   </a>
+  Reactive meteor data source for polymer elements
   <sup>
-   &#9733 9, pushed 21 days ago
+   &#9733 9, pushed 146 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/meteorwebcomponents/router">
-   Two way bind polymer with Meteor Flowrouter
+   MWC-Router
   </a>
+  Two way bind polymer with Meteor Flowrouter.
   <sup>
-   &#9733 3, pushed 21 days ago
+   &#9733 3, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -588,60 +619,12 @@
 <h2>
  Notable projects
 </h2>
-<ul>
- <li>
-  <a href="https://translate.google.com/community">
-   Google Translate Community
-  </a>
- </li>
- <li>
-  <a href="https://gaming.youtube.com/">
-   Youtube Gaming
-  </a>
- </li>
- <li>
-  <a href="https://github.com/GoogleChrome/guitar-tuner">
-   A web-based guitar tuner
-  </a>
-  <sup>
-   &#9733 496, pushed 53 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://d2armory.com/">
-   Dota 2 armory
-  </a>
- </li>
- <li>
-  <a href="https://santatracker.google.com/">
-   Google Santa Tracker
-  </a>
- </li>
- <li>
-  <a href="https://lightsaber.withgoogle.com/">
-   Star Wars Lightsaber Experience
-  </a>
- </li>
- <li>
-  <a href="https://events.google.com/io2015/">
-   Google I/O 2015
-  </a>
-  :warning:
- </li>
- <li>
-  <a href="https://play.google.com/">
-   Google Music
-  </a>
- </li>
- <li>
-  <a href="https://github.com/HedCET/TorrentAlert">
-   Torrent Alert
-  </a>
-  <sup>
-   &#9733 9, pushed 5 days ago
-  </sup>
- </li>
-</ul>
+<p>
+ <a href="https://github.com/abdonrd/PolymerProjects">
+  Polymer Projects
+ </a>
+ A list of websites and apps built with Polymer
+</p>
 <h2>
  Other awesome resources
 </h2>

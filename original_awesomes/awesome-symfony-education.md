@@ -34,6 +34,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Security
 
+* [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
 * [Drop ACE, use voters](http://slides.com/marieminasyan/drop-ace-use-role-voters#/) [2013]
     * How to use simple yet powerful Voters instead of ACE/ACL overkill.
 * [The new Voter Class](http://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
@@ -60,7 +61,9 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Legacy
 
+* [Bringing Symfony Components into Your Legacy Code](https://speakerdeck.com/hhamon/bringing-symfony-components-into-your-legacy-code) [2016]
 * [Eating spaghetti with Symfony](https://speakerdeck.com/jakzal/eating-spaghetti-with-symfony) [2016]
+* [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) [2016]
 
 
 ## Performance
@@ -72,11 +75,13 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## DDD
 
+* [Rich domain model with Symfony 2.5 and Doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 
 ## General
 
+* [Lessons Learned from My First Symfony Project](http://www.thisprogrammingthing.com/2016/lessons-from-my-first-symfony-project/) [2016]
 * [Symfony best practices](http://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
 * [Symfony tips and tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]

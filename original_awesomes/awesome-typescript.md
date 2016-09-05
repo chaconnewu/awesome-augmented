@@ -17,36 +17,39 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* :octocat: [Typings](https://github.com/typings/typings), the TypeScript definition manager
 
 ### IDE
 #### Offline
 ##### Visual Studio
-* :arrow_double_down: [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
-* :arrow_double_down: [Download TypeScript addons for Visual Studio 2013](http://blogs.msdn.com/b/typescript/)
-* :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
+  * [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
+* [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 
 ##### Other (Plugins || Cross-platform || OSS || Free)
-* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
-* :arrow_double_down: [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
-* :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
-* :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-* :arrow_double_down: [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
-* :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
-* :arrow_double_down: [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
+* [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+* [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+* [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
+* [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+* [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+* [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
+* [TypeScript IDE for Eclipse](http://typecsdev.com/)
+* [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 
 #### Online
 
 ##### Playground
-* :arrow_double_down: [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
-* :arrow_double_down: [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
-* :arrow_double_down: [JS Bin](http://jsbin.com/?js) (Select TypeScript)
-* :arrow_double_down: [Codepen](http://codepen.io/) (Select TypeScript)
-* :arrow_double_down: [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
-* :arrow_double_down: [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
+* [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
+* [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+* [JS Bin](http://jsbin.com/?js) (Select TypeScript)
+* [Codepen](http://codepen.io/) (Select TypeScript)
+* [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+* [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
 ##### Chrome Extension
-* :arrow_double_down: [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
+* [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
+* [OctoLinker](https://github.com/OctoLinker/browser-extension)
 
 ### Awesome TypeScript Videos
 
@@ -76,6 +79,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
@@ -83,6 +87,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React](https://github.com/alm-tools/alm)
 
 # Video Courses
 
@@ -96,6 +101,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
 * [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
 
+### Badges
+* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)  
+[![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)  
 
 ### Social
  * [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter

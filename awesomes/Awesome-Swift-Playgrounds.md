@@ -149,7 +149,7 @@
   </a>
   - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
   <sup>
-   &#9733 652, pushed 128 days ago
+   &#9733 652, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -158,7 +158,7 @@
   </a>
   - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
   <sup>
-   &#9733 76, pushed 42 days ago
+   &#9733 76, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -167,16 +167,16 @@
   </a>
   - Reference playground with basic language syntax and examples.
   <sup>
-   &#9733 52, pushed 685 days ago
+   &#9733 52, pushed 809 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/austinzheng/swift-worksheets">
-   Swift Eorksheets
+   Swift Worksheets
   </a>
   - Learn Swift by reading through and experimenting with playgrounds.
   <sup>
-   &#9733 1, pushed 649 days ago
+   &#9733 1, pushed 774 days ago
   </sup>
  </li>
  <li>
@@ -185,7 +185,7 @@
   </a>
   - A Swift crash course, with links explaining the language and a playground for each topic.
   <sup>
-   &#9733 6, pushed 43 days ago
+   &#9733 6, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -194,7 +194,7 @@
   </a>
   - Collection of playgrounds covering various aspect of the Swift language.
   <sup>
-   &#9733 51, pushed 24 days ago
+   &#9733 51, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -203,17 +203,14 @@
   </a>
   - Learn Swift 2.0 from playgrounds.
   <sup>
-   &#9733 8, pushed 149 days ago
+   &#9733 8, pushed 273 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/GuildSA/SwiftHackPack">
+  <a href="https://github.com/GuildSA/swift-hack-pack">
    Swift Hack Pack
   </a>
   - Collection of playgrounds that teaches Swift.
-  <sup>
-   &#9733 2, pushed 12 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds">
@@ -221,7 +218,7 @@
   </a>
   - A collection of playground demonstrating the use of the Swift Standard Library.
   <sup>
-   &#9733 15, pushed 566 days ago
+   &#9733 15, pushed 690 days ago
   </sup>
  </li>
  <li>
@@ -230,7 +227,7 @@
   </a>
   - Playgrounds from the 2015 iOS course of the University of Chicago.
   <sup>
-   &#9733 2, pushed 257 days ago
+   &#9733 2, pushed 381 days ago
   </sup>
  </li>
  <li>
@@ -239,8 +236,14 @@
   </a>
   - A summary of Apple's Swift language. 🌟
   <sup>
-   &#9733 1278, pushed 6 days ago
+   &#9733 1278, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/swifter-tips/Playground">
+   Swifter Tips
+  </a>
+  - Examples for every feature of the Swift language.
  </li>
 </ul>
 <h2>
@@ -253,13 +256,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/andyshep/CoreDataPlayground">
+  <a href="https://github.com/andyshep/CoreDataPlaygrounds">
    A Swift Introduction to Core Data
   </a>
   - Learn Code Data experimenting directly in this playground. 🌟
-  <sup>
-   &#9733 83, pushed 71 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/jstart/Swiftly-Typed-Resources">
@@ -267,7 +267,7 @@
   </a>
   - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
   <sup>
-   &#9733 70, pushed 246 days ago
+   &#9733 70, pushed 370 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +276,7 @@
   </a>
   - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
   <sup>
-   &#9733 14, pushed 178 days ago
+   &#9733 14, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -285,7 +285,7 @@
   </a>
   - Implementation of a DSL in Swift.
   <sup>
-   &#9733 7, pushed 188 days ago
+   &#9733 7, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -294,7 +294,7 @@
   </a>
   - Swift KVO playground.
   <sup>
-   &#9733 7, pushed 629 days ago
+   &#9733 7, pushed 753 days ago
   </sup>
  </li>
  <li>
@@ -303,7 +303,7 @@
   </a>
   - Learn everythig about NSDate.
   <sup>
-   &#9733 5, pushed 120 days ago
+   &#9733 5, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +312,7 @@
   </a>
   - Examples about using C with Swift.
   <sup>
-   &#9733 0, pushed 186 days ago
+   &#9733 0, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -325,8 +325,14 @@
   </a>
   .
   <sup>
-   &#9733 0, pushed 103 days ago
+   &#9733 0, pushed 227 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sammyd/iOSConcurrency">
+   Concurrency on iOS
+  </a>
+  - Concurrency and Parallelism in iOS.
  </li>
 </ul>
 <h3>
@@ -339,7 +345,7 @@
   </a>
   - Playground that show various traditional design patterns.
   <sup>
-   &#9733 25, pushed 47 days ago
+   &#9733 25, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -348,7 +354,7 @@
   </a>
   - Learning GoF's Design Patterns in Swift 2.
   <sup>
-   &#9733 5, pushed 18 days ago
+   &#9733 5, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -362,7 +368,7 @@
   </a>
   - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
   <sup>
-   &#9733 219, pushed 154 days ago
+   &#9733 219, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -371,7 +377,7 @@
   </a>
   - A playground to explore Protocol Extensions.
   <sup>
-   &#9733 18, pushed 269 days ago
+   &#9733 18, pushed 393 days ago
   </sup>
  </li>
  <li>
@@ -380,7 +386,7 @@
   </a>
   - An example of how to use Protocol Oriented Programming with the battleship game.
   <sup>
-   &#9733 3, pushed 90 days ago
+   &#9733 3, pushed 215 days ago
   </sup>
  </li>
 </ul>
@@ -394,7 +400,7 @@
   </a>
   - The easiest way to get a taste of ReactiveCocoa.
   <sup>
-   &#9733 84, pushed 81 days ago
+   &#9733 84, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -403,7 +409,7 @@
   </a>
   - Companion to the article: ReactiveCocoa made Simple With Swift.
   <sup>
-   &#9733 23, pushed 608 days ago
+   &#9733 23, pushed 733 days ago
   </sup>
  </li>
 </ul>
@@ -422,7 +428,7 @@
   </a>
   - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
   <sup>
-   &#9733 2, pushed 104 days ago
+   &#9733 2, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -436,6 +442,18 @@
    Interactive Playgrounds
   </a>
   - Playground that presents the interactive playgrounds feature with a UIKit dynamics Newton's cradle. 🌟
+ </li>
+ <li>
+  <a href="https://developer.apple.com/sample-code/wwdc/2015/downloads/Crustacean.zip">
+   Apple's Crustacean Playground
+  </a>
+  - Protocol-Oriented Programming with Value Types
+ </li>
+ <li>
+  <a href="https://developer.apple.com/sample-code/swift/downloads/Standard-Library.zip">
+   Apple's Swift Standard Library Playground
+  </a>
+  - experiment with Swift standard library types and high-level concepts using visualizations and practical examples.
  </li>
 </ul>
 <h2>
@@ -453,7 +471,7 @@
   </a>
   - Exploring interactivity in Playgrounds in Xcode 7.3.
   <sup>
-   &#9733 29, pushed 88 days ago
+   &#9733 29, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -462,7 +480,7 @@
   </a>
   - Better looking tests for playgrounds
   <sup>
-   &#9733 4, pushed 90 days ago
+   &#9733 4, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -471,7 +489,7 @@
   </a>
   - Make iOS app mockups in Swift 2.x playgrounds.
   <sup>
-   &#9733 0, pushed 100 days ago
+   &#9733 0, pushed 225 days ago
   </sup>
  </li>
 </ul>
@@ -490,7 +508,7 @@
   </a>
   - A little tutorial that explains transducers.
   <sup>
-   &#9733 60, pushed 534 days ago
+   &#9733 60, pushed 659 days ago
   </sup>
  </li>
  <li>
@@ -499,7 +517,7 @@
   </a>
   - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
   <sup>
-   &#9733 33, pushed 134 days ago
+   &#9733 33, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -508,7 +526,7 @@
   </a>
   - A playground to introduce Functors in Swift, and their practical usage.
   <sup>
-   &#9733 6, pushed 297 days ago
+   &#9733 6, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -517,7 +535,7 @@
   </a>
   - Data Structures and Algorithms in Swift.
   <sup>
-   &#9733 13, pushed 308 days ago
+   &#9733 13, pushed 433 days ago
   </sup>
  </li>
  <li>
@@ -526,7 +544,7 @@
   </a>
   - Standard cryptographic algorithms in a Swift Playground.
   <sup>
-   &#9733 8, pushed 92 days ago
+   &#9733 8, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -535,7 +553,7 @@
   </a>
   - Various algorithm implementation in Swift.
   <sup>
-   &#9733 1, pushed 336 days ago
+   &#9733 1, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -544,17 +562,14 @@
   </a>
   - A set of three dynamic programming problems implemented in a Swift.
   <sup>
-   &#9733 0, pushed 132 days ago
+   &#9733 0, pushed 256 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/hollance/swift-algorithm-club">
+  <a href="https://github.com/raywenderlich/swift-algorithm-club">
    Swift Algorithm Club
   </a>
   - Algorithms and data structures in Swift with explanations. 🌟
-  <sup>
-   &#9733 5152, pushed 4 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/adrfer/Sort">
@@ -562,7 +577,7 @@
   </a>
   - Alluring experiments with sorting algorithms in Swift, sort of.
   <sup>
-   &#9733 2, pushed 26 days ago
+   &#9733 2, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -571,16 +586,16 @@
   </a>
   - The Jelly Bean problem from Wait But Why.
   <sup>
-   &#9733 2, pushed 54 days ago
+   &#9733 2, pushed 179 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/modulusMathews/ReEuclid">
    Euclidean Strings
   </a>
-  - A playground leveraging ReSwift to generate Euclidean Strings
+  - A playground leveraging ReSwift to generate Euclidean Strings.
   <sup>
-   &#9733 1, pushed 36 days ago
+   &#9733 1, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -599,7 +614,7 @@
   </a>
   - Interesting examples of use of UIStackViews.🌟
   <sup>
-   &#9733 248, pushed 163 days ago
+   &#9733 248, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -608,7 +623,7 @@
   </a>
   - Some playgrounds to better understand UIBezierPaths.
   <sup>
-   &#9733 10, pushed 282 days ago
+   &#9733 10, pushed 406 days ago
   </sup>
  </li>
  <li>
@@ -617,7 +632,7 @@
   </a>
   - Shows a technique for blurring an image behind the characters behind one or more UILabels.
   <sup>
-   &#9733 33, pushed 265 days ago
+   &#9733 33, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -626,7 +641,7 @@
   </a>
   - An animated clock in a swift playground.
   <sup>
-   &#9733 14, pushed 536 days ago
+   &#9733 14, pushed 661 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +650,7 @@
   </a>
   - Animated check mark button.
   <sup>
-   &#9733 5, pushed 95 days ago
+   &#9733 5, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -644,7 +659,7 @@
   </a>
   - Playgrounds to experiment interactively with UIKit views.
   <sup>
-   &#9733 5, pushed 206 days ago
+   &#9733 5, pushed 331 days ago
   </sup>
  </li>
  <li>
@@ -653,7 +668,7 @@
   </a>
   - A swift playground for creating awesome animations for your WatchKit Apps.
   <sup>
-   &#9733 3, pushed 358 days ago
+   &#9733 3, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -662,7 +677,7 @@
   </a>
   - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
   <sup>
-   &#9733 39, pushed 219 days ago
+   &#9733 39, pushed 343 days ago
   </sup>
  </li>
  <li>
@@ -671,7 +686,7 @@
   </a>
   - A small playground to demonstrate image tinting in UIKit.
   <sup>
-   &#9733 0, pushed 152 days ago
+   &#9733 0, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -680,7 +695,7 @@
   </a>
   - Swift playground for generating animated GIFs.
   <sup>
-   &#9733 2, pushed 62 days ago
+   &#9733 2, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -699,10 +714,26 @@
   <a href="https://github.com/Swiftor/Raytracing4">
    4
   </a>
+  ,
+  <a href="https://github.com/Swiftor/Raytracing5">
+   5
+  </a>
   🌟
   <sup>
-   &#9733 9, pushed 43 days ago
+   &#9733 9, pushed 167 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/krutarth/WWDC16Logo">
+   WWDC16 Logo Playground
+  </a>
+  - Drawing the WWDC16 logo in a playground.
+ </li>
+ <li>
+  <a href="https://github.com/tototti/wwdc16_typography_playground">
+   WWDC16 Typography
+  </a>
+  🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.
  </li>
 </ul>
 <h3>
@@ -715,7 +746,7 @@
   </a>
   - Playground demonstrating lerp, smooth step, Catcall-Rom and others!
   <sup>
-   &#9733 22, pushed 64 days ago
+   &#9733 22, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -724,7 +755,7 @@
   </a>
   - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟
   <sup>
-   &#9733 16, pushed 32 days ago
+   &#9733 16, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -733,7 +764,7 @@
   </a>
   - Implementing different image filter algorithms.
   <sup>
-   &#9733 0, pushed 189 days ago
+   &#9733 0, pushed 313 days ago
   </sup>
  </li>
 </ul>
@@ -747,7 +778,7 @@
   </a>
   - Apple Metal framework playground. 🌟
   <sup>
-   &#9733 31, pushed 663 days ago
+   &#9733 31, pushed 788 days ago
   </sup>
  </li>
  <li>
@@ -756,7 +787,7 @@
   </a>
   - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
   <sup>
-   &#9733 22, pushed 72 days ago
+   &#9733 22, pushed 196 days ago
   </sup>
  </li>
 </ul>
@@ -770,7 +801,7 @@
   </a>
   - Experiment with iOS animations. 🌟
   <sup>
-   &#9733 111, pushed 52 days ago
+   &#9733 111, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -779,7 +810,7 @@
   </a>
   - Experiment with multiple additive animations in Core Animation.
   <sup>
-   &#9733 26, pushed 679 days ago
+   &#9733 26, pushed 804 days ago
   </sup>
  </li>
  <li>
@@ -788,7 +819,7 @@
   </a>
   - Companion to Apple's Core Animation Programming Guide.
   <sup>
-   &#9733 2, pushed 252 days ago
+   &#9733 2, pushed 377 days ago
   </sup>
  </li>
  <li>
@@ -797,7 +828,7 @@
   </a>
   - How to get a Duet style trailing effect in SpriteKit.
   <sup>
-   &#9733 2, pushed 28 days ago
+   &#9733 2, pushed 153 days ago
   </sup>
  </li>
 </ul>
@@ -811,7 +842,7 @@
   </a>
   - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
   <sup>
-   &#9733 23, pushed 82 days ago
+   &#9733 23, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -820,7 +851,7 @@
   </a>
   - Experiment with SceneKit and Swift.
   <sup>
-   &#9733 10, pushed 380 days ago
+   &#9733 10, pushed 505 days ago
   </sup>
  </li>
 </ul>
@@ -839,7 +870,7 @@
   </a>
   - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
   <sup>
-   &#9733 2, pushed 275 days ago
+   &#9733 2, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -848,7 +879,7 @@
   </a>
   - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
   <sup>
-   &#9733 1, pushed 106 days ago
+   &#9733 1, pushed 231 days ago
   </sup>
  </li>
 </ul>
@@ -867,7 +898,7 @@
   </a>
   - A Swift playground exploring Lindemayer systems.
   <sup>
-   &#9733 2, pushed 95 days ago
+   &#9733 2, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -876,7 +907,7 @@
   </a>
   - Using the Accelerate framework and Swift for Linear Algebra.
   <sup>
-   &#9733 48, pushed 654 days ago
+   &#9733 48, pushed 778 days ago
   </sup>
  </li>
  <li>
@@ -885,11 +916,11 @@
   </a>
   - A collection of swift playground about mathematics.
   <sup>
-   &#9733 1, pushed 261 days ago
+   &#9733 1, pushed 385 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds">
+  <a href="https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds">
    Numerical Algorithms
   </a>
   - Numerical argorithms playground from Ray Wenderlich.
@@ -900,7 +931,7 @@
   </a>
   - A playground for implementing the natural numbers and more concepts in number theory.
   <sup>
-   &#9733 2, pushed 63 days ago
+   &#9733 2, pushed 188 days ago
   </sup>
  </li>
 </ul>
@@ -919,7 +950,7 @@
   </a>
   - JSON decoding with Argo.
   <sup>
-   &#9733 1, pushed 116 days ago
+   &#9733 1, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -928,7 +959,7 @@
   </a>
   - Experimenting with Parse.com in Swift.
   <sup>
-   &#9733 3, pushed 121 days ago
+   &#9733 3, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -937,7 +968,7 @@
   </a>
   - A playground to upload images to AWS S3.
   <sup>
-   &#9733 2, pushed 108 days ago
+   &#9733 2, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -945,6 +976,18 @@
    100 AudioKit Playgrounds
   </a>
   - Audio synthesis and processing with AudioKit.
+ </li>
+ <li>
+  <a href="https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds">
+   AIToolbox
+  </a>
+  - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
+ </li>
+ <li>
+  <a href="https://github.com/willowtreeapps/RealmSwiftPlayground">
+   Realm Swift Playground
+  </a>
+  - A playground that demos the basic features of Realm in swift.
  </li>
 </ul>
 <h2>
@@ -966,7 +1009,7 @@
   </a>
   . 🌟
   <sup>
-   &#9733 81, pushed 2 days ago
+   &#9733 81, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -975,7 +1018,7 @@
   </a>
   - Various Playgrounds. 🌟
   <sup>
-   &#9733 8, pushed 301 days ago
+   &#9733 8, pushed 426 days ago
   </sup>
  </li>
  <li>
@@ -984,7 +1027,7 @@
   </a>
   - Great collection of interesting playgrounds, for fun and for profit. 🌟
   <sup>
-   &#9733 61, pushed 15 days ago
+   &#9733 61, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -993,7 +1036,7 @@
   </a>
   - A few playgrounds to showcase Swift peculiar features.
   <sup>
-   &#9733 5, pushed 413 days ago
+   &#9733 5, pushed 537 days ago
   </sup>
  </li>
  <li>
@@ -1002,7 +1045,7 @@
   </a>
   - Various playgrounds.
   <sup>
-   &#9733 18, pushed 582 days ago
+   &#9733 18, pushed 707 days ago
   </sup>
  </li>
  <li>
@@ -1011,7 +1054,7 @@
   </a>
   - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
   <sup>
-   &#9733 12, pushed 296 days ago
+   &#9733 12, pushed 420 days ago
   </sup>
  </li>
  <li>
@@ -1020,7 +1063,7 @@
   </a>
   - Various playgrounds.
   <sup>
-   &#9733 2, pushed 255 days ago
+   &#9733 2, pushed 379 days ago
   </sup>
  </li>
  <li>
@@ -1029,7 +1072,7 @@
   </a>
   - Various playgrounds.
   <sup>
-   &#9733 3, pushed 64 days ago
+   &#9733 3, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1038,7 +1081,7 @@
   </a>
   - Various playgrounds.
   <sup>
-   &#9733 1, pushed 21 days ago
+   &#9733 1, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1047,8 +1090,14 @@
   </a>
   - My playgrounds, various topics.
   <sup>
-   &#9733 49, pushed 25 days ago
+   &#9733 49, pushed 150 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/manuelCarlos/Swift-Playgrounds">
+   ManuelCarlos's Playgrouds
+  </a>
+  - Various playgrounds.
  </li>
 </ul>
 <h2>
@@ -1066,7 +1115,7 @@
   </a>
   - A playground with Logo-like commands. 🌟
   <sup>
-   &#9733 118, pushed 73 days ago
+   &#9733 118, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1075,7 +1124,7 @@
   </a>
   - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
   <sup>
-   &#9733 126, pushed 85 days ago
+   &#9733 126, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -1084,7 +1133,7 @@
   </a>
   - Brainfuck interpreter written in Swift using Playground.
   <sup>
-   &#9733 5, pushed 696 days ago
+   &#9733 5, pushed 821 days ago
   </sup>
  </li>
  <li>
@@ -1093,7 +1142,7 @@
   </a>
   - Create app icons on Swift playground.
   <sup>
-   &#9733 2, pushed 84 days ago
+   &#9733 2, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -1102,7 +1151,7 @@
   </a>
   - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
   <sup>
-   &#9733 2, pushed 111 days ago
+   &#9733 2, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -1111,7 +1160,7 @@
   </a>
   - Save, Load and Delete files easily from within a Swift playground.
   <sup>
-   &#9733 22, pushed 62 days ago
+   &#9733 22, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -1120,16 +1169,22 @@
   </a>
   - A register-based VM in a Swift playground. 🌟
   <sup>
-   &#9733 2, pushed 91 days ago
+   &#9733 2, pushed 215 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/jtbandes/DSCOVR.playground">
    Earth photos
   </a>
-  - A slideshow of Earth photos taken by DSCOVR/EPIC 🌟
+  - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟
   <sup>
-   &#9733 1, pushed 11 days ago
+   &#9733 1, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/robin/2048_Playground">
+   2048 Playground
+  </a>
+  - The 2048 game implemented with a playground.
  </li>
 </ul>

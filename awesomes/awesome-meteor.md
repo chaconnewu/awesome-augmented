@@ -142,6 +142,11 @@
   </ul>
  </li>
  <li>
+  <a href="#boilerplate">
+   Boilerplate
+  </a>
+ </li>
+ <li>
   <a href="#resources">
    Resources
   </a>
@@ -215,10 +220,18 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/awatson1978/meteor-cookbook">
-   Meteor-Cookbook
+  <a href="http://guide.meteor.com/">
+   Official Guide
   </a>
-  - Meteor Cookbook
+ </li>
+ <li>
+  <a href="https://wiki.dandascalescu.com/essays/why_meteor">
+   Why Meteor
+  </a>
+  to begin with, and
+  <a href="https://wiki.dandascalescu.com/essays/meteor_js_vs_the_mean_stack">
+   Meteor vs. the MEAN stack
+  </a>
  </li>
 </ul>
 <h2>
@@ -254,7 +267,7 @@
   </a>
   - publish a set of related documents from various collections using a reactive join
   <sup>
-   &#9733 405, pushed 96 days ago
+   &#9733 405, pushed 221 days ago
   </sup>
  </li>
 </ul>
@@ -273,7 +286,7 @@
   </a>
   - automatically make your Meteor app accessible over HTTP and DDP alike.
   <sup>
-   &#9733 218, pushed 25 days ago
+   &#9733 218, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -282,7 +295,7 @@
   </a>
   - Make REST endpoints for your Meteor app with incredible ease.
   <sup>
-   &#9733 387, pushed 20 days ago
+   &#9733 387, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -301,7 +314,7 @@
   </a>
   - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
   <sup>
-   &#9733 1262, pushed 17 days ago
+   &#9733 1262, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -310,7 +323,7 @@
   </a>
   - A high performance infinite scrollview for meteor
   <sup>
-   &#9733 21, pushed 211 days ago
+   &#9733 21, pushed 336 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +332,7 @@
   </a>
   - A new way of binding event handlers to html elements for Meteor's Blaze
   <sup>
-   &#9733 22, pushed 94 days ago
+   &#9733 22, pushed 218 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +341,7 @@
   </a>
   - MVVM for Meteor
   <sup>
-   &#9733 180, pushed 7 days ago
+   &#9733 180, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -337,7 +350,7 @@
   </a>
   - Meteor.js - Webix UI integration
   <sup>
-   &#9733 317, pushed 159 days ago
+   &#9733 317, pushed 284 days ago
   </sup>
  </li>
 </ul>
@@ -356,7 +369,7 @@
   </a>
   - Roles support for the built-in accounts packages.
   <sup>
-   &#9733 705, pushed 11 days ago
+   &#9733 705, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -386,7 +399,7 @@
   </a>
   - Performance Monitoring for Meteor.
   <sup>
-   &#9733 159, pushed 53 days ago
+   &#9733 159, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -395,7 +408,7 @@
   </a>
   – Meteor Deployments.
   <sup>
-   &#9733 2242, pushed 10 days ago
+   &#9733 2242, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -404,7 +417,7 @@
   </a>
   - Auto DB migrations with collection2 and simple schema on Meteor
   <sup>
-   &#9733 30, pushed 52 days ago
+   &#9733 30, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -413,7 +426,7 @@
   </a>
   - Simple migration system for Meteor
   <sup>
-   &#9733 165, pushed 12 days ago
+   &#9733 165, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -422,7 +435,7 @@
   </a>
   - Render you app even before the DDP connection is live
   <sup>
-   &#9733 550, pushed 2 days ago
+   &#9733 550, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -431,7 +444,7 @@
   </a>
   - Clustering solution for Meteor with load balancing and service discovery
   <sup>
-   &#9733 571, pushed 19 days ago
+   &#9733 571, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -440,7 +453,7 @@
   </a>
   - A complete admin dashboard solution
   <sup>
-   &#9733 647, pushed 4 days ago
+   &#9733 647, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -449,11 +462,11 @@
   </a>
   - Converts a Meteor app into a "standard" Node.js application
   <sup>
-   &#9733 643, pushed 5 days ago
+   &#9733 643, pushed 130 days ago
   </sup>
  </li>
  <li>
-  <a href="http://allandequeiroz.com/2015/09/27/amazon-auto-scaling-and-meteor/">
+  <a href="https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/">
    Amazon auto scaling and Meteor
   </a>
   - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
@@ -474,7 +487,7 @@
   </a>
   - A client and server side router designed specifically for Meteor.
   <sup>
-   &#9733 1977, pushed 71 days ago
+   &#9733 1977, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -483,7 +496,7 @@
   </a>
   - Client Side Router for Meteor.
   <sup>
-   &#9733 861, pushed 12 days ago
+   &#9733 861, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -502,7 +515,7 @@
   </a>
   - GroundDB is a thin layer providing Meteor offline database and methods
   <sup>
-   &#9733 448, pushed 27 days ago
+   &#9733 448, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -538,7 +551,7 @@
   </a>
   - Run Jasmine tests for all your Meteor code.
   <sup>
-   &#9733 135, pushed 21 days ago
+   &#9733 135, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +560,7 @@
   </a>
   - Reactive BDD for Meteor using Cucumber.js and Velocity.
   <sup>
-   &#9733 107, pushed 196 days ago
+   &#9733 107, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -556,7 +569,7 @@
   </a>
   - HTML reporter for Meteor velocity testing framework.
   <sup>
-   &#9733 25, pushed 32 days ago
+   &#9733 25, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -575,7 +588,7 @@
   </a>
   - Meteor webbased filesystem handling up and downloads.
   <sup>
-   &#9733 1002, pushed 64 days ago
+   &#9733 1002, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -584,7 +597,7 @@
   </a>
   - Parsing and generating excel files (xlsx, xls).
   <sup>
-   &#9733 33, pushed 137 days ago
+   &#9733 33, pushed 262 days ago
   </sup>
  </li>
 </ul>
@@ -603,7 +616,7 @@
   </a>
   - Publish the count of a cursor, in real time.
   <sup>
-   &#9733 157, pushed 129 days ago
+   &#9733 157, pushed 254 days ago
   </sup>
  </li>
  <li>
@@ -612,7 +625,7 @@
   </a>
   - Enable finding all documents that have been published by a given publication.
   <sup>
-   &#9733 21, pushed 28 days ago
+   &#9733 21, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -621,7 +634,7 @@
   </a>
   - Reactive Data Source for Search
   <sup>
-   &#9733 132, pushed 85 days ago
+   &#9733 132, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -630,7 +643,7 @@
   </a>
   - Easy-to-use search with Blaze Components (+ Elastic Search Support
   <sup>
-   &#9733 380, pushed 3 days ago
+   &#9733 380, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -639,7 +652,7 @@
   </a>
   - Out of the box Meteor pagination
   <sup>
-   &#9733 388, pushed 14 days ago
+   &#9733 388, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -663,7 +676,7 @@
   </a>
   - Ionic components for Meteor.
   <sup>
-   &#9733 1577, pushed 6 days ago
+   &#9733 1577, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -672,7 +685,7 @@
   </a>
   - Official Ionic support for Meteor.
   <sup>
-   &#9733 23599, pushed 3 days ago
+   &#9733 23599, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -681,7 +694,7 @@
   </a>
   - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
   <sup>
-   &#9733 331, pushed 2 days ago
+   &#9733 331, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -690,7 +703,7 @@
   </a>
   - Integrates native iOS apps with the Meteor platform through DDP.
   <sup>
-   &#9733 706, pushed 11 days ago
+   &#9733 706, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -699,7 +712,7 @@
   </a>
   - DDP for clients on Android.
   <sup>
-   &#9733 199, pushed 23 days ago
+   &#9733 199, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -708,7 +721,7 @@
   </a>
   - A login service based on mobile phone number for Meteor.
   <sup>
-   &#9733 74, pushed 137 days ago
+   &#9733 74, pushed 261 days ago
   </sup>
  </li>
  <li>
@@ -717,7 +730,7 @@
   </a>
   - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
   <sup>
-   &#9733 17, pushed 268 days ago
+   &#9733 17, pushed 393 days ago
   </sup>
  </li>
  <li>
@@ -726,7 +739,7 @@
   </a>
   - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
   <sup>
-   &#9733 12, pushed 82 days ago
+   &#9733 12, pushed 207 days ago
   </sup>
  </li>
 </ul>
@@ -761,7 +774,7 @@
   </a>
   - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
   <sup>
-   &#9733 334, pushed 5 days ago
+   &#9733 334, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -786,7 +799,7 @@
   </a>
   - Visual Get/Set Tool for Meteor Session Variables.
   <sup>
-   &#9733 180, pushed 301 days ago
+   &#9733 180, pushed 426 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +808,7 @@
   </a>
   - Full Stack Debugging Solution for Meteor.
   <sup>
-   &#9733 132, pushed 41 days ago
+   &#9733 132, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -838,7 +851,7 @@
   </a>
   - Browserify npm modules for client side in Meteor packages.
   <sup>
-   &#9733 76, pushed 70 days ago
+   &#9733 76, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -863,7 +876,7 @@
   </a>
   - A scaffolding command line tool for Meteor applications
   <sup>
-   &#9733 631, pushed 23 days ago
+   &#9733 631, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -871,7 +884,7 @@
    Differential - meteor-boilerplate
   </a>
   <sup>
-   &#9733 874, pushed 19 days ago
+   &#9733 874, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -879,7 +892,7 @@
    matteodem - meteor-boilerplate
   </a>
   <sup>
-   &#9733 822, pushed 14 days ago
+   &#9733 822, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -887,7 +900,7 @@
    meteoris2
   </a>
   <sup>
-   &#9733 265, pushed 190 days ago
+   &#9733 265, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -895,7 +908,7 @@
    Base
   </a>
   <sup>
-   &#9733 372, pushed 5 days ago
+   &#9733 372, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -911,6 +924,16 @@
  </li>
 </ul>
 <h2>
+ Boilerplate
+</h2>
+<ul>
+ <li>
+  <a href="http://julian.io/react-with-webpack-meteor-as-a-backend/">
+   React with Webpack + Meteor as a backend
+  </a>
+ </li>
+</ul>
+<h2>
  Open source apps
 </h2>
 <ul>
@@ -920,7 +943,7 @@
   </a>
   - An open-source social news app built with Meteor
   <sup>
-   &#9733 4471, pushed 5 days ago
+   &#9733 4471, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -929,7 +952,7 @@
   </a>
   - The Discover Meteor book's example app
   <sup>
-   &#9733 840, pushed 12 days ago
+   &#9733 840, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -938,7 +961,7 @@
   </a>
   - Open source Trello-like kanban
   <sup>
-   &#9733 6703, pushed 8 days ago
+   &#9733 6703, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -947,7 +970,7 @@
   </a>
   - Open source Commerce platform developed with Meteor
   <sup>
-   &#9733 2260, pushed 2 days ago
+   &#9733 2260, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -956,7 +979,7 @@
   </a>
   - Open source education platform Powered by meteor
   <sup>
-   &#9733 153, pushed 57 days ago
+   &#9733 153, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -991,7 +1014,7 @@
   </a>
   - Working with Angular and Meteor
   <sup>
-   &#9733 1703, pushed 2 days ago
+   &#9733 1703, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1000,15 +1023,21 @@
   </a>
   - Working with Angular 2 and Meteor
   <sup>
-   &#9733 201, pushed 1 days ago
+   &#9733 201, pushed 126 days ago
   </sup>
  </li>
  <li>
+  <a href="https://github.com/gadicc/meteor-famous-views/">
+   Famo.us
+  </a>
+  - Famo.us and Meteor
+ </li>
+ <li>
   <p>
-   <a href="https://github.com/gadicc/meteor-famous-views/">
-    Famo.us
+   <a href="https://github.com/Akryum/meteor-vue-component">
+    Vue
    </a>
-   - Famo.us and Meteor
+   - Working with Vue and Meteor (plus single-file components & apollo support)
   </p>
  </li>
  <li>
@@ -1019,7 +1048,7 @@
    - A tool to bundle the client part of a Meteor app.
   </p>
   <sup>
-   &#9733 154, pushed 15 days ago
+   &#9733 154, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1028,7 +1057,7 @@
   </a>
   - An alternative client for a Meteor backend
   <sup>
-   &#9733 526, pushed 70 days ago
+   &#9733 526, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -1037,7 +1066,7 @@
   </a>
   - Isomorphic JavaScript DDP client
   <sup>
-   &#9733 118, pushed 70 days ago
+   &#9733 118, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -1054,7 +1083,7 @@
   </a>
   - Reactive PostgreSQL for Meteor
   <sup>
-   &#9733 297, pushed 265 days ago
+   &#9733 297, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -1063,7 +1092,7 @@
   </a>
   - Reactive MySQL for Meteor
   <sup>
-   &#9733 283, pushed 5 days ago
+   &#9733 283, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1072,7 +1101,7 @@
   </a>
   - RethinkDB integration for Meteor
   <sup>
-   &#9733 279, pushed 82 days ago
+   &#9733 279, pushed 207 days ago
   </sup>
  </li>
 </ul>
@@ -1094,6 +1123,11 @@
  <li>
   <a href="http://meteortips.com/">
    Meteor Tips
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/awatson1978/meteor-cookbook">
+   Meteor Cookbook
   </a>
  </li>
 </ul>
@@ -1152,7 +1186,7 @@
   </a>
   - List of resources to learn
   <sup>
-   &#9733 1238, pushed 34 days ago
+   &#9733 1238, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1171,8 +1205,8 @@
 </h2>
 <ul>
  <li>
-  <a href="http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation">
-   Blog about Optimistic UIi With Meteor Latency Compensation
+  <a href="http://info.meteor.com/blog">
+   Official Meteor blog
   </a>
  </li>
  <li>
@@ -1196,6 +1230,11 @@
    Meteor club podcast
   </a>
  </li>
+ <li>
+  <a href="http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation">
+   Blog about Optimistic UIs With Meteor Latency Compensation
+  </a>
+ </li>
 </ul>
 <h2>
  Websites
@@ -1203,12 +1242,11 @@
 <ul>
  <li>
   <a href="https://www.meteor.com/">
-   Official Meteor
+   Official website
   </a>
-  - Official website
  </li>
  <li>
-  <a href="http://docs.meteor.com/#/full/">
+  <a href="http://docs.meteor.com/">
    Official Documentation
   </a>
  </li>
@@ -1218,37 +1256,26 @@
   </a>
  </li>
  <li>
-  <a href="http://manual.meteor.com/">
-   Meteor Manual
-  </a>
- </li>
- <li>
-  <a href="https://forums.meteor.com/">
-   Meteor forums
-  </a>
- </li>
- <li>
   <a href="https://atmospherejs.com/">
    Atmosphere
   </a>
-  - A catalog for Meteor packages, resources and tools.
+  - The catalog of Meteor packages, resources and tools.
  </li>
  <li>
   <a href="https://bulletproofmeteor.com/">
-   Bullet Proof Meteor
+   BulletProof Meteor
   </a>
-  - Online course for Meteor performance in production
- </li>
- <li>
-  <a href="https://github.com/awatson1978/meteor-cookbook">
-   Meteor-Cookbook
-  </a>
-  - Meteor Cookbook
+  - Online course for Meteor performance in production, by Arunoda Susiripala
  </li>
  <li>
   <a href="http://www.meteorpedia.com">
    Meteorpedia
   </a>
+  (
+  <a href="http://www.meteorpedia.com/special/RecentChanges/">
+   infrequently
+  </a>
+  updated)
  </li>
  <li>
   <a href="https://www.discovermeteor.com/encyclopedia">
@@ -1266,11 +1293,6 @@
   </a>
  </li>
  <li>
-  <a href="http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15">
-   Stack Overflow
-  </a>
- </li>
- <li>
   <a href="https://www.reddit.com/r/meteor">
    Reddit
   </a>
@@ -1279,24 +1301,48 @@
   <a href="https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw">
    YouTube
   </a>
- </li>
- <li>
-  <a href="http://madewith.meteor.com/">
-   Made With Meteor
-  </a>
+  videos from meetups around the world
  </li>
  <li>
   <a href="https://github.com/oortcloud/unofficial-meteor-faq">
    Unofficial Meteor FAQ
   </a>
   <sup>
-   &#9733 1001, pushed 294 days ago
+   &#9733 1001, pushed 419 days ago
   </sup>
  </li>
  <li>
   <a href="https://themeteorchef.com">
    The Meteor Chef
   </a>
+ </li>
+</ul>
+<h3>
+ Q&A
+</h3>
+<ul>
+ <li>
+  <a href="http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15">
+   Stack Overflow
+  </a>
+ </li>
+ <li>
+  <a href="https://forums.meteor.com/">
+   Meteor forums
+  </a>
+ </li>
+ <li>
+  <a href="https://gitter.im/meteor/meteor">
+   Gitter IM channel
+  </a>
+ </li>
+ <li>
+  <a href="https://themeteorchef.slack.com">
+   The Meteor Chef Slack channel
+  </a>
+ </li>
+ <li>
+  IRC - #meteor on freenode
  </li>
 </ul>
 <h2>
@@ -1341,16 +1387,6 @@
  <li>
   <a href="https://www.weworkmeteor.com/">
    We Work Meteor
-  </a>
- </li>
-</ul>
-<h2>
- Slack Channels
-</h2>
-<ul>
- <li>
-  <a href="https://themeteorchef.slack.com">
-   The Meteor Chef
   </a>
  </li>
 </ul>

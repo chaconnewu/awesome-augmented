@@ -88,27 +88,27 @@
   <a href="#papers">
    Papers
   </a>
+ </li>
+ <li>
+  <a href="#imagenet-classification">
+   ImageNet Classification
+  </a>
+ </li>
+ <li>
+  <a href="#object-detection">
+   Object Detection
+  </a>
+ </li>
+ <li>
+  <a href="#object-tracking">
+   Object Tracking
+  </a>
+ </li>
+ <li>
+  <a href="#low-level-vision">
+   Low-Level Vision
+  </a>
   <ul>
-   <li>
-    <a href="#imagenet-classification">
-     ImageNet Classification
-    </a>
-   </li>
-   <li>
-    <a href="#object-detection">
-     Object Detection
-    </a>
-   </li>
-   <li>
-    <a href="#object-tracking">
-     Object Tracking
-    </a>
-   </li>
-   <li>
-    <a href="#low-level-vision">
-     Low-Level Vision
-    </a>
-   </li>
    <li>
     <a href="#super-resolution">
      Super-Resolution
@@ -119,36 +119,38 @@
      Other Applications
     </a>
    </li>
-   <li>
-    <a href="#edge-detection">
-     Edge Detection
-    </a>
-   </li>
-   <li>
-    <a href="#semantic-segmentation">
-     Semantic Segmentation
-    </a>
-   </li>
-   <li>
-    <a href="#visual-attention-and-saliency">
-     Visual Attention and Saliency
-    </a>
-   </li>
-   <li>
-    <a href="#object-recognition">
-     Object Recognition
-    </a>
-   </li>
-   <li>
-    <a href="#understanding-cnn">
-     Understanding CNN
-    </a>
-   </li>
-   <li>
-    <a href="#image-and-language">
-     Image and Language
-    </a>
-   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#edge-detection">
+   Edge Detection
+  </a>
+ </li>
+ <li>
+  <a href="#semantic-segmentation">
+   Semantic Segmentation
+  </a>
+ </li>
+ <li>
+  <a href="#visual-attention-and-saliency">
+   Visual Attention and Saliency
+  </a>
+ </li>
+ <li>
+  <a href="#object-recognition">
+   Object Recognition
+  </a>
+ </li>
+ <li>
+  <a href="#understanding-cnn">
+   Understanding CNN
+  </a>
+ </li>
+ <li>
+  <a href="#image-and-language">
+   Image and Language
+  </a>
+  <ul>
    <li>
     <a href="#image-captioning">
      Image Captioning
@@ -164,12 +166,17 @@
      Question Answering
     </a>
    </li>
-   <li>
-    <a href="#other-topics">
-     Other Topics
-    </a>
-   </li>
   </ul>
+ </li>
+ <li>
+  <a href="#image-generation">
+   Image Generation
+  </a>
+ </li>
+ <li>
+  <a href="#other-topics">
+   Other Topics
+  </a>
  </li>
  <li>
   <a href="#courses">
@@ -190,18 +197,16 @@
   <a href="#software">
    Software
   </a>
-  <ul>
-   <li>
-    <a href="#framework">
-     Framework
-    </a>
-   </li>
-   <li>
-    <a href="#applications">
-     Applications
-    </a>
-   </li>
-  </ul>
+ </li>
+ <li>
+  <a href="#framework">
+   Framework
+  </a>
+ </li>
+ <li>
+  <a href="#applications">
+   Applications
+  </a>
  </li>
  <li>
   <a href="#tutorials">
@@ -223,7 +228,7 @@
 <p>
  <img alt="classification" src="https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG"/>
  (from Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.)
-  * Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015
+* Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015
  <em>
   deep
  </em>
@@ -232,23 +237,23 @@
   learning
  </em>
  kaiminghe.pdf)]
-    * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-  * Microsoft (PReLu/Weight Initialization)
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
+* Microsoft (PReLu/Weight Initialization)
  <a href="http://arxiv.org/pdf/1502.01852">
   [Paper]
  </a>
  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
-  * Batch Normalization
+* Batch Normalization
  <a href="http://arxiv.org/pdf/1502.03167">
   [Paper]
  </a>
  * Sergey Ioffe, Christian Szegedy, Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, arXiv:1502.03167.
-  * GoogLeNet
+* GoogLeNet
  <a href="http://arxiv.org/pdf/1409.4842">
   [Paper]
  </a>
  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
-  * VGG-Net
+* VGG-Net
  <a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">
   [Web]
  </a>
@@ -256,7 +261,7 @@
   [Paper]
  </a>
  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
-  * AlexNet
+* AlexNet
  <a href="http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012">
   [Paper]
  </a>
@@ -384,10 +389,21 @@
   </ul>
  </li>
  <li>
-  Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning
-  <a href="http://arxiv.org/pdf/1503.00949.pdf">
+  Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
+ </li>
+ <li>
+  R-FCN
+  <a href="https://arxiv.org/abs/1605.06409">
    [Paper]
   </a>
+  <a href="https://github.com/daijifeng001/R-FCN">
+   [Code]
+  </a>
+  <ul>
+   <li>
+    Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -424,28 +440,29 @@
   </a>
  </li>
  <li>
-  Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, Hierarchical Convolutional Features for Visual Tracking, ICCV 2015
-  <a href="https://github.com/jbhuang0604/CF2">
-   [GitHub]
-  </a>
-  <sup>
-   &#9733 61, pushed 33 days ago
-  </sup>
+  Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, Hierarchical Convolutional Features for Visual Tracking, ICCV 2015 [[Paper](http://www.cv-foundation.org/openaccess/content
+  <em>
+   iccv
+  </em>
+  2015/papers/Ma
+  <em>
+   Hierarchical
+  </em>
+  Convolutional
+  <em>
+   Features
+  </em>
+  ICCV
+  <em>
+   2015
+  </em>
+  paper.pdf)] [[Code](https://github.com/jbhuang0604/CF2)]
  </li>
  <li>
-  Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, Visual Tracking with fully Convolutional Networks, ICCV 2015
-  <a href="https://github.com/scott89/FCNT">
-   [GitHub]
-  </a>
-  <a href="http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf">
-   [Paper]
-  </a>
-  <sup>
-   &#9733 20, pushed 143 days ago
-  </sup>
+  Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, Visual Tracking with fully Convolutional Networks, ICCV 2015  [[Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)] [[Code](https://github.com/scott89/FCNT)]
  </li>
  <li>
-  Hyeonseob Nam    and Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [[Paper](http://arxiv.org/pdf/1510.07945.pdf)] [[Code](https://github.com/HyeonseobNam/MDNet)] [[Project Page](http://cvlab.postech.ac.kr/research/mdnet/)]
+  Hyeonseob Namand Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [[Paper](http://arxiv.org/pdf/1510.07945.pdf)] [[Code](https://github.com/HyeonseobNam/MDNet)] [[Project Page](http://cvlab.postech.ac.kr/research/mdnet/)]
  </li>
 </ul>
 <h3>
@@ -493,6 +510,34 @@
     Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, Deeply-Recursive Convolutional Network for Image Super-Resolution, arXiv:1511.04491, 2015.
     <a href="http://arxiv.org/abs/1511.04491">
      [Paper]
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Casade-Sparse-Coding-Network
+  <ul>
+   <li>
+    Zhaowen Wang, Ding Liu, Wei Han, Jianchao Yang and Thomas S. Huang, Deep Networks for Image Super-Resolution with Sparse Prior. ICCV, 2015.
+    <a href="http://www.ifp.illinois.edu/~dingliu2/iccv15/iccv15.pdf">
+     [Paper]
+    </a>
+    <a href="http://www.ifp.illinois.edu/~dingliu2/iccv15/">
+     [Code]
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  Perceptual Losses for Super-Resolution
+  <ul>
+   <li>
+    Justin Johnson, Alexandre Alahi, Li Fei-Fei, Perceptual Losses for Real-Time Style Transfer and Super-Resolution, arXiv:1603.08155, 2016.
+    <a href="http://arxiv.org/abs/1603.08155">
+     [Paper]
+    </a>
+    <a href="http://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf">
+     [Supplementary]
     </a>
    </li>
   </ul>
@@ -602,6 +647,9 @@
   <a href="http://arxiv.org/pdf/1504.06375">
    [Paper]
   </a>
+  <a href="https://github.com/s9xie/hed">
+   [Code]
+  </a>
   <ul>
    <li>
     Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375.
@@ -637,72 +685,73 @@
 <p>
  <img alt="semantic<em>segmantation" src="https://cloud.githubusercontent.com/assets/5226447/8452076/0ba8340c-2023-11e5-88bc-bebf4509b6bb.PNG"/>
  (from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)
-  * PASCAL VOC2012 Challenge Leaderboard (02 Dec. 2015)
- <img alt="VOC2012</em>top<em>rankings" src="https://cloud.githubusercontent.com/assets/7778428/11551711/23ab9b46-99bf-11e5-85f4-35b27c5d6eaf.png"/>
+* PASCAL VOC2012 Challenge Leaderboard (01 Sep. 2016)
+ <img alt="VOC2012</em>top<em>rankings" src="https://cloud.githubusercontent.com/assets/3803777/18164608/c3678488-7038-11e6-9ec1-74a1542dce13.png"/>
  (from PASCAL VOC2012
  <a href="http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6">
   leaderboards
  </a>
  )
-  * Adelaide
-   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013.
+* Adelaide
+  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013.
  <a href="http://arxiv.org/pdf/1504.01013">
   [Paper]
  </a>
  (1st ranked in VOC2012)
-   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108.
+  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108.
  <a href="http://arxiv.org/pdf/1506.02108">
   [Paper]
  </a>
  (4th ranked in VOC2012)
-  * Deep Parsing Network (DPN)
-   * Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang, Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015
+* Deep Parsing Network (DPN)
+  * Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang, Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015
  <a href="http://arxiv.org/pdf/1509.02634.pdf">
   [Paper]
  </a>
  (2nd ranked in VOC 2012)
-  * CentraleSuperBoundaries, INRIA
+* CentraleSuperBoundaries, INRIA
  <a href="http://arxiv.org/pdf/1511.07386">
   [Paper]
  </a>
  * Iasonas Kokkinos, Surpassing Humans in Boundary Detection using Deep Learning, arXiv:1411.07386 (4th ranked in VOC 2012)
-  * BoxSup
+* BoxSup
  <a href="http://arxiv.org/pdf/1503.01640">
   [Paper]
  </a>
  * Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640. (6th ranked in VOC2012)
-  * POSTECH
-   * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366.
+* POSTECH
+  * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366.
  <a href="http://arxiv.org/pdf/1505.04366">
   [Paper]
  </a>
  (7th ranked in VOC2012)
-   * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924.
+  * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924.
  <a href="http://arxiv.org/pdf/1506.04924">
   [Paper]
  </a>
- * Conditional Random Fields as Recurrent Neural Networks
+ * Seunghoon Hong,Junhyuk Oh,  Bohyung Han, and    Honglak Lee, Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
+* Conditional Random Fields as Recurrent Neural Networks
  <a href="http://arxiv.org/pdf/1502.03240">
   [Paper]
  </a>
  * Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, Philip H. S. Torr, Conditional Random Fields as Recurrent Neural Networks, arXiv:1502.03240. (8th ranked in VOC2012)
-  * DeepLab
-   *  Liang-Chieh Chen, George Papandreou, Kevin Murphy, Alan L. Yuille, Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734.
+* DeepLab
+  * Liang-Chieh Chen, George Papandreou, Kevin Murphy, Alan L. Yuille, Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734.
  <a href="http://arxiv.org/pdf/1502.02734">
   [Paper]
  </a>
  (9th ranked in VOC2012)
-  * Zoom-out
+* Zoom-out
  <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf">
   [Paper]
  </a>
  * Mohammadreza Mostajabi, Payman Yadollahpour, Gregory Shakhnarovich, Feedforward Semantic Segmentation With Zoom-Out Features, CVPR, 2015
-  * Joint Calibration
+* Joint Calibration
  <a href="http://arxiv.org/pdf/1507.01581">
   [Paper]
  </a>
  * Holger Caesar, Jasper Uijlings, Vittorio Ferrari, Joint Calibration for Semantic Segmentation, arXiv:1507.01581.
-  * Fully Convolutional Networks for Semantic Segmentation
+* Fully Convolutional Networks for Semantic Segmentation
  <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">
   [Paper-CVPR15]
  </a>
@@ -710,13 +759,13 @@
   [Paper-arXiv15]
  </a>
  * Jonathan Long, Evan Shelhamer, Trevor Darrell, Fully Convolutional Networks for Semantic Segmentation, CVPR, 2015.
-  * Hypercolumn
+* Hypercolumn
  <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf">
   [Paper]
  </a>
  * Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik, Hypercolumns for Object Segmentation and Fine-Grained Localization, CVPR, 2015.
-  * Deep Hierarchical Parsing
-   * Abhishek Sharma, Oncel Tuzel, David W. Jacobs, Deep Hierarchical Parsing for Semantic Segmentation, CVPR, 2015.
+* Deep Hierarchical Parsing
+  * Abhishek Sharma, Oncel Tuzel, David W. Jacobs, Deep Hierarchical Parsing for Semantic Segmentation, CVPR, 2015.
  <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf">
   [Paper]
  </a>
@@ -728,8 +777,8 @@
   [Paper-PAMI13]
  </a>
  * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.
-   * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
-  * University of Cambridge
+  * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
+* University of Cambridge
  <a href="http://mi.eng.cam.ac.uk/projects/segnet/">
   [Web]
  </a>
@@ -741,29 +790,26 @@
  <a href="http://arxiv.org/abs/1511.00561">
   [Paper]
  </a>
- * POSTECH
-   * Seunghoon Hong,    Junhyuk Oh, Bohyung Han, and    Honglak Lee, Learning Transferrable Knowledge for Semantic Segmentation 
-with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
-  * Princeton
-   * Fisher Yu, Vladlen Koltun, "Multi-Scale Context Aggregation by Dilated Convolutions", ICLR 2016, [
+ * Princeton
+  * Fisher Yu, Vladlen Koltun, "Multi-Scale Context Aggregation by Dilated Convolutions", ICLR 2016, [
  <a href="http://arxiv.org/pdf/1511.07122v2.pdf">
   Paper
  </a>
  ]
-  * Univ. of Washington, Allen AI
-   * Hamid Izadinia, Fereshteh Sadeghi, Santosh Kumar Divvala, Yejin Choi, Ali Farhadi, "Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing", ICCV, 2015, [
+* Univ. of Washington, Allen AI
+  * Hamid Izadinia, Fereshteh Sadeghi, Santosh Kumar Divvala, Yejin Choi, Ali Farhadi, "Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing", ICCV, 2015, [
  <a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf">
   Paper
  </a>
  ]
-  * INRIA
-   * Iasonas Kokkinos, "Pusing the Boundaries of Boundary Detection Using deep Learning", ICLR 2016, [
+* INRIA
+  * Iasonas Kokkinos, "Pusing the Boundaries of Boundary Detection Using deep Learning", ICLR 2016, [
  <a href="http://arxiv.org/pdf/1511.07386v2.pdf">
   Paper
  </a>
  ]
-  * UCSB
-   * Niloufar Pourian, S. Karthikeyan, and B.S. Manjunath, "Weakly supervised graph based semantic segmentation by learning communities of image-parts", ICCV, 2015, [[Paper](http://www.cv-foundation.org/openaccess/content
+* UCSB
+  * Niloufar Pourian, S. Karthikeyan, and B.S. Manjunath, "Weakly supervised graph based semantic segmentation by learning communities of image-parts", ICCV, 2015, [[Paper](http://www.cv-foundation.org/openaccess/content
 </p>
 iccv
 <em>
@@ -867,70 +913,40 @@ Graph
 </p>
 <ul>
  <li>
-  Equivariance and Equivalence of Representations
+  Karel Lenc, Andrea Vedaldi, Understanding image representations by measuring their equivariance and equivalence, CVPR, 2015.
   <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf">
    [Paper]
   </a>
-  <ul>
-   <li>
-    Karel Lenc, Andrea Vedaldi, Understanding image representations by measuring their equivariance and equivalence, CVPR, 2015.
-   </li>
-  </ul>
  </li>
  <li>
-  Deep Neural Networks Are Easily Fooled
+  Anh Nguyen, Jason Yosinski, Jeff Clune, Deep Neural Networks are Easily Fooled:High Confidence Predictions for Unrecognizable Images, CVPR, 2015.
   <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf">
    [Paper]
   </a>
-  <ul>
-   <li>
-    Anh Nguyen, Jason Yosinski, Jeff Clune, Deep Neural Networks are Easily Fooled:High Confidence Predictions for Unrecognizable Images, CVPR, 2015.
-   </li>
-  </ul>
  </li>
  <li>
-  Understanding Deep Image Representations by Inverting Them
+  Aravindh Mahendran, Andrea Vedaldi, Understanding Deep Image Representations by Inverting Them, CVPR, 2015.
   <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf">
    [Paper]
   </a>
-  <ul>
-   <li>
-    Aravindh Mahendran, Andrea Vedaldi, Understanding Deep Image Representations by Inverting Them, CVPR, 2015.
-   </li>
-  </ul>
  </li>
  <li>
-  Object Detectors Emerge in Deep Scene CNNs
+  Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, Object Detectors Emerge in Deep Scene CNNs, ICLR, 2015.
   <a href="http://arxiv.org/abs/1412.6856">
+   [arXiv Paper]
+  </a>
+ </li>
+ <li>
+  Alexey Dosovitskiy, Thomas Brox, Inverting Visual Representations with Convolutional Networks, arXiv, 2015.
+  <a href="http://arxiv.org/abs/1506.02753">
    [Paper]
   </a>
-  <ul>
-   <li>
-    Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, Object Detectors Emerge in Deep Scene CNNs, ICLR, 2015.
-   </li>
-  </ul>
  </li>
  <li>
-  Inverting Convolutional Networks with Convolutional Networks
-  <ul>
-   <li>
-    Alexey Dosovitskiy, Thomas Brox, Inverting Convolutional Networks with Convolutional Networks, arXiv, 2015.
-    <a href="http://arxiv.org/abs/1506.02753">
-     [Paper]
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  Visualizing and Understanding CNN
-  <ul>
-   <li>
-    Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
-    <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">
-     [Paper]
-    </a>
-   </li>
-  </ul>
+  Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
+  <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">
+   [Paper]
+  </a>
  </li>
 </ul>
 <h3>
@@ -1352,6 +1368,109 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
  </li>
 </ul>
 <h3>
+ Image Generation
+</h3>
+<ul>
+ <li>
+  Convolutional / Recurrent Networks
+  <ul>
+   <li>
+    Aäron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu. "Conditional Image Generation with PixelCNN Decoders"
+    <a href="https://arxiv.org/pdf/1606.05328v2.pdf">
+     [Paper]
+    </a>
+    <a href="https://github.com/kundan2510/pixelCNN">
+     [Code]
+    </a>
+   </li>
+   <li>
+    Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, "Learning to Generate Chairs with Convolutional Neural Networks", CVPR, 2015.
+    <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf">
+     [Paper]
+    </a>
+   </li>
+   <li>
+    Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, "DRAW: A Recurrent Neural Network For Image Generation", ICML, 2015. [
+    <a href="https://arxiv.org/pdf/1502.04623v2.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+  </ul>
+ </li>
+ <li>
+  Adversarial Networks
+  <ul>
+   <li>
+    Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio, Generative Adversarial Networks, NIPS, 2014.
+    <a href="http://arxiv.org/abs/1406.2661">
+     [Paper]
+    </a>
+   </li>
+   <li>
+    Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015.
+    <a href="http://arxiv.org/abs/1506.05751">
+     [Paper]
+    </a>
+   </li>
+   <li>
+    Lucas Theis, Aäron van den Oord, Matthias Bethge, "A note on the evaluation of generative models", ICLR 2016. [
+    <a href="http://arxiv.org/abs/1511.01844">
+     Paper
+    </a>
+    ]
+   </li>
+   <li>
+    Zhenwen Dai, Andreas Damianou, Javier Gonzalez, Neil Lawrence, "Variationally Auto-Encoded Deep Gaussian Processes", ICLR 2016. [
+    <a href="http://arxiv.org/pdf/1511.06455v2.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+   <li>
+    Elman Mansimov, Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, "Generating Images from Captions with Attention", ICLR 2016, [
+    <a href="http://arxiv.org/pdf/1511.02793v2.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+   <li>
+    Jost Tobias Springenberg, "Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks", ICLR 2016, [
+    <a href="http://arxiv.org/pdf/1511.06390v1.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+   <li>
+    Harrison Edwards, Amos Storkey, "Censoring Representations with an Adversary", ICLR 2016, [
+    <a href="http://arxiv.org/pdf/1511.05897v3.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+   <li>
+    Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Ken Nakae, Shin Ishii, "Distributional Smoothing with Virtual Adversarial Training", ICLR 2016, [
+    <a href="http://arxiv.org/pdf/1507.00677v8.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+  </ul>
+ </li>
+ <li>
+  Mixing Convolutional and Adversarial Networks
+  <ul>
+   <li>
+    Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. [
+    <a href="http://arxiv.org/pdf/1511.06434v2.pdf">
+     Paper
+    </a>
+    ]
+   </li>
+  </ul>
+ </li>
+</ul>
+<h3>
  Other Topics
 </h3>
 <ul>
@@ -1412,84 +1531,11 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
   </ul>
  </li>
  <li>
-  Generate image
-  <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf">
-   [Paper]
-  </a>
-  <ul>
-   <li>
-    Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, Learning to Generate Chairs with Convolutional Neural Networks, CVPR, 2015.
-   </li>
-  </ul>
- </li>
- <li>
   Weakly-supervised Classification
   <ul>
    <li>
     Samaneh Azadi, Jiashi Feng, Stefanie Jegelka, Trevor Darrell, "Auxiliary Image Regularization for Deep CNNs with Noisy Labels", ICLR 2016, [
     <a href="http://arxiv.org/pdf/1511.07069v2.pdf">
-     Paper
-    </a>
-    ]
-   </li>
-  </ul>
- </li>
- <li>
-  Weakly-supervised Object Detection
- </li>
- <li>
-  Generate Image with Adversarial Network
-  <ul>
-   <li>
-    Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio, Generative Adversarial Networks, NIPS, 2014.
-    <a href="http://arxiv.org/abs/1406.2661">
-     [Paper]
-    </a>
-   </li>
-   <li>
-    Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015.
-    <a href="http://arxiv.org/abs/1506.05751">
-     [Paper]
-    </a>
-   </li>
-   <li>
-    Lucas Theis, Aäron van den Oord, Matthias Bethge, "A note on the evaluation of generative models", ICLR 2016. [
-    <a href="http://arxiv.org/abs/1511.01844">
-     Paper
-    </a>
-    ]
-   </li>
-   <li>
-    Zhenwen Dai, Andreas Damianou, Javier Gonzalez, Neil Lawrence, "Variationally Auto-Encoded Deep Gaussian Processes", ICLR 2016. [
-    <a href="http://arxiv.org/pdf/1511.06455v2.pdf">
-     Paper
-    </a>
-    ]
-   </li>
-   <li>
-    Elman Mansimov, Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, "Generating Images from Captions with Attention", ICLR 2016, [
-    <a href="http://arxiv.org/pdf/1511.02793v2.pdf">
-     Paper
-    </a>
-    ]
-   </li>
-   <li>
-    Jost Tobias Springenberg, "Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks", ICLR 2016, [
-    <a href="http://arxiv.org/pdf/1511.06390v1.pdf">
-     Paper
-    </a>
-    ]
-   </li>
-   <li>
-    Harrison Edwards, Amos Storkey, "Censoring Representations with an Adversary", ICLR 2016, [
-    <a href="http://arxiv.org/pdf/1511.05897v3.pdf">
-     Paper
-    </a>
-    ]
-   </li>
-   <li>
-    Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Ken Nakae, Shin Ishii, "Distributional Smoothing with Virtual Adversarial Training", ICLR 2016, [
-    <a href="http://arxiv.org/pdf/1507.00677v8.pdf">
      Paper
     </a>
     ]
@@ -1547,6 +1593,20 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
    </li>
   </ul>
  </li>
+ <li>
+  Facial Landmark Detection
+  <ul>
+   <li>
+    Yue Wu, Tal Hassner, KangGeon Kim, Gerard Medioni, Prem Natarajan, Facial Landmark Detection with Tweaked Convolutional Neural Networks, 2015.
+    <a href="http://arxiv.org/abs/1511.04031">
+     [Paper]
+    </a>
+    <a href="http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/">
+     [Project]
+    </a>
+   </li>
+  </ul>
+ </li>
 </ul>
 <h2>
  Courses
@@ -1587,7 +1647,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
   <ul>
    <li>
     <a href="http://www.iro.umontreal.ca/~bengioy/dlbook/">
-     Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville
+     Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
     </a>
    </li>
    <li>
@@ -1654,7 +1714,20 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
   Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
  </li>
  <li>
-  Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
+  Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [
+  <a href="http://torch.ch/">
+   Web
+  </a>
+  ]
+  <ul>
+   <li>
+    Torch-based deep learning libraries: [
+    <a href="https://github.com/torchnet/torchnet">
+     torchnet
+    </a>
+    ],
+   </li>
+  </ul>
  </li>
  <li>
   Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
@@ -1709,7 +1782,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
    </li>
   </ul>
   <sup>
-   &#9733 146, pushed 677 days ago
+   &#9733 146, pushed 802 days ago
   </sup>
  </li>
  <li>
@@ -1723,7 +1796,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
    </li>
   </ul>
   <sup>
-   &#9733 75, pushed 62 days ago
+   &#9733 75, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -1743,7 +1816,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
    </li>
   </ul>
   <sup>
-   &#9733 670, pushed 88 days ago
+   &#9733 670, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -1757,7 +1830,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
    </li>
   </ul>
   <sup>
-   &#9733 5700, pushed 11 days ago
+   &#9733 5700, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1769,9 +1842,15 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
      [Web]
     </a>
    </li>
+   <li>
+    Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015.
+    <a href="https://github.com/s9xie/hed">
+     [Web]
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 16, pushed 372 days ago
+   &#9733 16, pushed 497 days ago
   </sup>
  </li>
 </ul>
@@ -1783,7 +1862,7 @@ with Ranking Canonical Correlation Analysis", ICCV, 2015
   [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
  </li>
  <li>
-  [CVPR 2015] [Applied Deep Learning for Computer Vision with Torch](http://torch.ch/docs/cvpr15.html)
+  [CVPR 2015] [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
  </li>
 </ul>
 <h2>

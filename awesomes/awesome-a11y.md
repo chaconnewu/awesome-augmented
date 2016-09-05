@@ -69,6 +69,11 @@
     </a>
    </li>
    <li>
+    <a href="#webcomponents">
+     Webcomponents
+    </a>
+   </li>
+   <li>
     <a href="#other-resources">
      Other Resources
     </a>
@@ -130,7 +135,7 @@
    Accessible Mega Menu
   </a>
   <sup>
-   &#9733 364, pushed 292 days ago
+   &#9733 364, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -141,6 +146,11 @@
  <li>
   <a href="http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html">
    ARIA Cheatsheet
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/bbc/bbc-a11y">
+   BBC Accessibility Standards Checker
   </a>
  </li>
  <li>
@@ -169,6 +179,21 @@
 </h2>
 <ul>
  <li>
+  <a href="http://babich.biz/10-rules-for-efficient-form-design/">
+   10 rules for efficient form design
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=HtTyRajRuyY">
+   A11ycasts
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/edenspiekermann/a11y-dialog">
+   A11Y Dialog
+  </a>
+ </li>
+ <li>
   <a href="http://www.sitepoint.com/15-rules-making-accessible-links/">
    15 Rules to Making Accessible Links
   </a>
@@ -194,8 +219,18 @@
   </a>
  </li>
  <li>
-  <a href="http://staging.substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/">
-   How I Audit a Website for Accessibility
+  <a href="https://vimeo.com/117614181">
+   Improving Single Page App Accessibility with a11y_kit
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf">
+   Lesson from building mobile frindly accessible data tables
+  </a>
+ </li>
+ <li>
+  <a href="https://marcysutton.com/links-vs-buttons-in-modern-web-applications/">
+   Links vs Buttons in modern web applications
   </a>
  </li>
  <li>
@@ -264,6 +299,11 @@
   </a>
  </li>
  <li>
+  <a href="http://accesslint.com/">
+   Access Lint
+  </a>
+ </li>
+ <li>
   <a href="http://www.acessibilidade.gov.pt/accessmonitor/">
    Access Monitor - (pt)
   </a>
@@ -288,6 +328,11 @@
    Colour Contrast Analyser
   </a>
   – to test the contrast of your text against its background
+ </li>
+ <li>
+  <a href="http://chromelens.xyz/">
+   Chromelens - Extension Google Chrome
+  </a>
  </li>
  <li>
   <a href="http://www.dasilva.org.br/">
@@ -316,12 +361,6 @@
   </a>
  </li>
  <li>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/screen-reader-simulator/?src=search">
-   Screen Reader Simulator
-  </a>
-  - A Firefox add-on that allows you to simulate an on-screen displazyed screen reader. Step through your web page and read what a blind user would hear if they were using Firefox for Android with TalkBack, or a Firefox OS device with the screen reader turned on.
- </li>
- <li>
   <a href="http://wave.webaim.org/">
    WAVE
   </a>
@@ -342,6 +381,20 @@
  </li>
 </ul>
 <h2>
+ Webcomponents
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/afonsopacifer/skip-to-content">
+   skip-to-content
+  </a>
+  - A Polymer element for Skip to Content. by
+  <a href="https://github.com/afonsopacifer">
+   @afonsopacifer
+  </a>
+ </li>
+</ul>
+<h2>
  Other Resources
 </h2>
 <ul>
@@ -355,7 +408,7 @@
    A11yProject
   </a>
   <sup>
-   &#9733 973, pushed 15 days ago
+   &#9733 973, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -383,6 +436,15 @@
   </a>
  </li>
  <li>
+  <a href="http://a11y.nicolas-hoffmann.net/">
+   Accessibility section - jQuery Plugins using ARIA
+  </a>
+  - Plugins and demos by
+  <a href="https://twitter.com/Nico3333fr">
+   @Nico3333fr
+  </a>
+ </li>
+ <li>
   <a href="http://khan.github.io/tota11y/">
    Tota11y
   </a>
@@ -394,11 +456,33 @@
   </a>
   - A parody video showing accessibility problems using Mario Bros. games
  </li>
+ <li>
+  <a href="http://accessibility.voxmedia.com/">
+   Vox accessibility guidelines
+  </a>
+  - Vox accessibility checklist for every team member
+ </li>
+ <li>
+  <a href="https://github.com/obetomuniz/autocomplete-semantic-web">
+   Semantic Web Autocomplete for Atom
+  </a>
+  - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+ </li>
 </ul>
 <h2>
  Presentations
 </h2>
 <ul>
+ <li>
+  <a href="https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles">
+   WCAG is not scary anymore - A progressive approach to Website Accessibility
+  </a>
+ </li>
+ <li>
+  <a href="http://marcysutton.github.io/a11y-automated-testing/">
+   30 Minutes or Less: The Magic of Automated Accessibility Testing
+  </a>
+ </li>
  <li>
   <a href="http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible">
    10 Simples Rules for Making My Site Accessible
@@ -458,12 +542,30 @@
   </a>
  </li>
  <li>
+  <a href="http://www.slideshare.net/reinaldoferraz/html-acessvel">
+   HTML Acessível
+  </a>
+  by
+  <a href="https://twitter.com/reinaldoferraz">
+   Reinaldo Ferraz
+  </a>
+ </li>
+ <li>
   <a href="http://slides.com/talitapagani/wcag-aria-webbr2015#/16">
    Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)
   </a>
   by
   <a href="https://github.com/talitapagani">
    Talita Pagani
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=BViy4ToaJZs">
+   Accessibility Debt
+  </a>
+  by
+  <a href="github.com/Robdel12">
+   Robert DeLuca
   </a>
  </li>
 </ul>

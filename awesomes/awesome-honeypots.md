@@ -63,7 +63,7 @@
   </a>
   , useful in network traffic analysis
   <sup>
-   &#9733 378, pushed 4 days ago
+   &#9733 378, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -72,7 +72,7 @@
   </a>
   , with some overlap here for artifact analysis
   <sup>
-   &#9733 968, pushed 6 days ago
+   &#9733 968, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -99,7 +99,7 @@
     </a>
     - A mysql honeypot, still very very early stage
     <sup>
-     &#9733 7, pushed 1297 days ago
+     &#9733 7, pushed 1422 days ago
     </sup>
    </li>
    <li>
@@ -108,7 +108,7 @@
     </a>
     - The NoSQL Honeypot Framework.
     <sup>
-     &#9733 56, pushed 257 days ago
+     &#9733 56, pushed 382 days ago
     </sup>
    </li>
    <li>
@@ -117,12 +117,12 @@
     </a>
     - ElasticSearch Honeypot
     <sup>
-     &#9733 4, pushed 617 days ago
+     &#9733 4, pushed 742 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 67, pushed 294 days ago
+   &#9733 67, pushed 419 days ago
   </sup>
  </li>
  <li>
@@ -142,7 +142,7 @@
     </a>
     - - A simple and effective phpMyAdmin honeypot
     <sup>
-     &#9733 23, pushed 305 days ago
+     &#9733 23, pushed 430 days ago
     </sup>
    </li>
    <li>
@@ -151,7 +151,7 @@
     </a>
     - Web application Honeypot
     <sup>
-     &#9733 4, pushed 1087 days ago
+     &#9733 4, pushed 1212 days ago
     </sup>
    </li>
    <li>
@@ -160,7 +160,7 @@
     </a>
     - A nodejs web application honeypot
     <sup>
-     &#9733 12, pushed 254 days ago
+     &#9733 12, pushed 379 days ago
     </sup>
    </li>
    <li>
@@ -169,7 +169,7 @@
     </a>
     bap - http Basic Authentication honeyPot
     <sup>
-     &#9733 6, pushed 474 days ago
+     &#9733 6, pushed 599 days ago
     </sup>
    </li>
    <li>
@@ -184,7 +184,7 @@
     </a>
     - Web application Honeypot
     <sup>
-     &#9733 4, pushed 1087 days ago
+     &#9733 4, pushed 1212 days ago
     </sup>
    </li>
    <li>
@@ -199,7 +199,7 @@
     </a>
     - PHP Script demonstrating a smart honey pot
     <sup>
-     &#9733 6, pushed 746 days ago
+     &#9733 6, pushed 870 days ago
     </sup>
    </li>
    <li>
@@ -208,8 +208,14 @@
     </a>
     - A WordPress login honeypot for collection and analysis of failed login attempts.
     <sup>
-     &#9733 16, pushed 143 days ago
+     &#9733 16, pushed 267 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/dustyfresh/HoneyPress">
+     HoneyPress
+    </a>
+    - python based WordPress honeypot in a docker container
    </li>
    <li>
     <a href="https://github.com/freak3dot/wp-smart-honeypot">
@@ -217,7 +223,7 @@
     </a>
     - WordPress plugin to reduce comment spam with a smarter honeypot
     <sup>
-     &#9733 11, pushed 36 days ago
+     &#9733 11, pushed 161 days ago
     </sup>
    </li>
    <li>
@@ -226,7 +232,7 @@
     </a>
     - A WordPress Honeypot
     <sup>
-     &#9733 67, pushed 322 days ago
+     &#9733 67, pushed 447 days ago
     </sup>
    </li>
    <li>
@@ -235,7 +241,7 @@
     </a>
     Honeypot - A honeypot plugin for Bukkit
     <sup>
-     &#9733 6, pushed 1793 days ago
+     &#9733 6, pushed 1918 days ago
     </sup>
    </li>
    <li>
@@ -244,7 +250,7 @@
     </a>
     - Honeypot - Simple spam prevention package for Laravel applications
     <sup>
-     &#9733 227, pushed 93 days ago
+     &#9733 227, pushed 217 days ago
     </sup>
    </li>
    <li>
@@ -253,7 +259,7 @@
     </a>
     - Inserts a trap for spam bots into responses
     <sup>
-     &#9733 15, pushed 824 days ago
+     &#9733 15, pushed 949 days ago
     </sup>
    </li>
    <li>
@@ -262,7 +268,7 @@
     </a>
     - Honeypot type for Symfony2 forms
     <sup>
-     &#9733 17, pushed 6 days ago
+     &#9733 17, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -271,7 +277,7 @@
     </a>
     - WebApp Honeypot for detecting Shell Shock exploit attempts
     <sup>
-     &#9733 36, pushed 138 days ago
+     &#9733 36, pushed 263 days ago
     </sup>
    </li>
    <li>
@@ -280,12 +286,12 @@
     </a>
     - A fake Django admin login screen to notify admins of attempted unauthorized access.
     <sup>
-     &#9733 274, pushed 81 days ago
+     &#9733 274, pushed 205 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 198, pushed 59 days ago
+   &#9733 198, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +325,7 @@
     </a>
     - NTP logger/honeypot
     <sup>
-     &#9733 23, pushed 768 days ago
+     &#9733 23, pushed 893 days ago
     </sup>
    </li>
    <li>
@@ -328,7 +334,7 @@
     </a>
     - observation camera honeypot
     <sup>
-     &#9733 20, pushed 320 days ago
+     &#9733 20, pushed 445 days ago
     </sup>
    </li>
    <li>
@@ -343,7 +349,7 @@
     </a>
     - A simple low-interaction port monitoring honeypot
     <sup>
-     &#9733 3, pushed 1021 days ago
+     &#9733 3, pushed 1146 days ago
     </sup>
    </li>
    <li>
@@ -352,7 +358,7 @@
     </a>
     - A low interaction honeypot
     <sup>
-     &#9733 82, pushed 31 days ago
+     &#9733 82, pushed 155 days ago
     </sup>
    </li>
    <li>
@@ -361,7 +367,7 @@
     </a>
     - Easy to deploy Ruby honeypot
     <sup>
-     &#9733 63, pushed 586 days ago
+     &#9733 63, pushed 710 days ago
     </sup>
    </li>
    <li>
@@ -370,7 +376,7 @@
     </a>
     - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
     <sup>
-     &#9733 442, pushed 170 days ago
+     &#9733 442, pushed 295 days ago
     </sup>
    </li>
    <li>
@@ -379,7 +385,7 @@
     </a>
     - SMTP honeypot, Open Relay, Cred Harvester written in python.
     <sup>
-     &#9733 67, pushed 200 days ago
+     &#9733 67, pushed 325 days ago
     </sup>
    </li>
    <li>
@@ -388,7 +394,7 @@
     </a>
     - Printer honeypot
     <sup>
-     &#9733 0, pushed 96 days ago
+     &#9733 0, pushed 221 days ago
     </sup>
    </li>
    <li>
@@ -397,12 +403,12 @@
     </a>
     - Medium interaction SSH Honeypot
     <sup>
-     &#9733 10, pushed 213 days ago
+     &#9733 10, pushed 338 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 628, pushed 195 days ago
+   &#9733 628, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -418,7 +424,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 11, pushed 510 days ago
+   &#9733 11, pushed 635 days ago
   </sup>
  </li>
  <li>
@@ -438,7 +444,7 @@
     </a>
     - Open source tools for realistic-behaving electric grid honeynets
     <sup>
-     &#9733 18, pushed 407 days ago
+     &#9733 18, pushed 532 days ago
     </sup>
    </li>
    <li>
@@ -453,9 +459,15 @@
     </a>
     - Building Honeypots for Industrial Networks
    </li>
+   <li>
+    <a href="https://github.com/sjhilt/GasPot">
+     GasPot
+    </a>
+    - Veeder Root Gaurdian AST, common in the oil and gas industry.
+   </li>
   </ul>
   <sup>
-   &#9733 226, pushed 151 days ago
+   &#9733 226, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -475,7 +487,7 @@
     </a>
     - Script for turning a Raspberry Pi into a Honey Pot Pi
     <sup>
-     &#9733 6, pushed 507 days ago
+     &#9733 6, pushed 631 days ago
     </sup>
    </li>
   </ul>
@@ -497,7 +509,7 @@
     </a>
     - Mojolicious app to display statistics for your kippo SSH honeypot
     <sup>
-     &#9733 16, pushed 1826 days ago
+     &#9733 16, pushed 1951 days ago
     </sup>
    </li>
   </ul>
@@ -525,7 +537,7 @@
     </a>
     - Shellcode emulation library, useful for shellcode detection.
     <sup>
-     &#9733 9, pushed 27 days ago
+     &#9733 9, pushed 152 days ago
     </sup>
    </li>
    <li>
@@ -534,7 +546,7 @@
     </a>
     - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     <sup>
-     &#9733 2, pushed 1214 days ago
+     &#9733 2, pushed 1339 days ago
     </sup>
    </li>
    <li>
@@ -543,12 +555,12 @@
     </a>
     - Modular and decentralised honeypot
     <sup>
-     &#9733 109, pushed 50 days ago
+     &#9733 109, pushed 174 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 24, pushed 449 days ago
+   &#9733 24, pushed 573 days ago
   </sup>
  </li>
  <li>
@@ -564,7 +576,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 8, pushed 316 days ago
+   &#9733 8, pushed 440 days ago
   </sup>
  </li>
  <li>
@@ -580,7 +592,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 56, pushed 1498 days ago
+   &#9733 56, pushed 1623 days ago
   </sup>
  </li>
  <li>
@@ -648,7 +660,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 27, pushed 504 days ago
+   &#9733 27, pushed 629 days ago
   </sup>
  </li>
  <li>
@@ -703,7 +715,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 2, pushed 875 days ago
+   &#9733 2, pushed 1000 days ago
   </sup>
  </li>
  <li>
@@ -723,7 +735,7 @@
     </a>
     - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management
     <sup>
-     &#9733 741, pushed 3 days ago
+     &#9733 741, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -799,7 +811,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 4, pushed 817 days ago
+   &#9733 4, pushed 942 days ago
   </sup>
  </li>
  <li>
@@ -841,7 +853,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 3, pushed 85 days ago
+   &#9733 3, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -854,6 +866,12 @@
      Sysdig
     </a>
     - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze
+   </li>
+   <li>
+    <a href="https://github.com/rabbitstack/fibratus">
+     Fibratus
+    </a>
+    - tool for exploration and tracing of the Windows kernel
    </li>
   </ul>
  </li>
@@ -870,7 +888,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 30, pushed 406 days ago
+   &#9733 30, pushed 531 days ago
   </sup>
  </li>
  <li>
@@ -905,7 +923,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 272 days ago
+   &#9733 7, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -951,12 +969,12 @@ High-Interaction Honeypots
     </a>
     - A debugger backend and LUA wrapper for PIN
     <sup>
-     &#9733 27, pushed 909 days ago
+     &#9733 27, pushed 1034 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 127, pushed 174 days ago
+   &#9733 127, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +994,7 @@ High-Interaction Honeypots
     </a>
     - Reverse engineering, Malware and goodware analysis of Android applications ... and more
     <sup>
-     &#9733 905, pushed 42 days ago
+     &#9733 905, pushed 167 days ago
     </sup>
    </li>
   </ul>
@@ -1045,7 +1063,7 @@ High-Interaction Honeypots
      more honeyd tools
     </a>
     <sup>
-     &#9733 1, pushed 417 days ago
+     &#9733 1, pushed 541 days ago
     </sup>
    </li>
    <li>
@@ -1056,11 +1074,11 @@ High-Interaction Honeypots
    </li>
    <li>
     <a href="https://github.com/jekil/UDPot">
-     DNS Honeypot
+     UDPot Honeypot
     </a>
-    - Simple UDP honeypot scripts
+    - Simple UDP / DNS honeypot scripts
     <sup>
-     &#9733 12, pushed 777 days ago
+     &#9733 12, pushed 901 days ago
     </sup>
    </li>
    <li>
@@ -1105,8 +1123,26 @@ High-Interaction Honeypots
     </a>
     - A simple telnet honeypot
     <sup>
-     &#9733 0, pushed 104 days ago
+     &#9733 0, pushed 229 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/stamparm/hontel">
+     Hontel
+    </a>
+    - Telnet Honeypot
+   </li>
+   <li>
+    <a href="https://github.com/johnnykv/heralding">
+     Heralding
+    </a>
+    - A credentials catching honeypot
+   </li>
+   <li>
+    <a href="https://github.com/SepehrHml/VNC-Pot">
+     VNC-Pot
+    </a>
+    - A low interaction VNC honeypot
    </li>
   </ul>
  </li>
@@ -1123,7 +1159,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 33, pushed 29 days ago
+   &#9733 33, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -1207,7 +1243,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 65, pushed 174 days ago
+   &#9733 65, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -1230,7 +1266,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 58, pushed 156 days ago
+   &#9733 58, pushed 281 days ago
   </sup>
  </li>
  <li>
@@ -1248,7 +1284,7 @@ High-Interaction Honeypots
      Afterglow Cloud
     </a>
     <sup>
-     &#9733 14, pushed 1095 days ago
+     &#9733 14, pushed 1220 days ago
     </sup>
    </li>
    <li>
@@ -1258,7 +1294,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 15, pushed 141 days ago
+   &#9733 15, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -1297,7 +1333,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 104, pushed 7 days ago
+   &#9733 104, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1390,12 +1426,12 @@ High-Interaction Honeypots
      Acapulco
     </a>
     <sup>
-     &#9733 8, pushed 212 days ago
+     &#9733 8, pushed 336 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 1176 days ago
+   &#9733 7, pushed 1300 days ago
   </sup>
  </li>
  <li>
@@ -1430,7 +1466,7 @@ High-Interaction Honeypots
      Capture-HPC-NG
     </a>
     <sup>
-     &#9733 7, pushed 1597 days ago
+     &#9733 7, pushed 1722 days ago
     </sup>
    </li>
    <li>
@@ -1463,7 +1499,7 @@ High-Interaction Honeypots
      PhoneyC
     </a>
     <sup>
-     &#9733 6, pushed 347 days ago
+     &#9733 6, pushed 472 days ago
     </sup>
    </li>
    <li>
@@ -1471,7 +1507,7 @@ High-Interaction Honeypots
      Jsunpack-n
     </a>
     <sup>
-     &#9733 38, pushed 398 days ago
+     &#9733 38, pushed 522 days ago
     </sup>
    </li>
    <li>
@@ -1506,7 +1542,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 12, pushed 896 days ago
+   &#9733 12, pushed 1021 days ago
   </sup>
  </li>
  <li>
@@ -1521,7 +1557,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 41, pushed 1107 days ago
+   &#9733 41, pushed 1232 days ago
   </sup>
  </li>
  <li>
@@ -1556,7 +1592,7 @@ High-Interaction Honeypots
      IMHoneypot
     </a>
     <sup>
-     &#9733 8, pushed 42 days ago
+     &#9733 8, pushed 167 days ago
     </sup>
    </li>
    <li>
@@ -1578,7 +1614,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 121, pushed 2 days ago
+   &#9733 121, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1657,7 +1693,7 @@ High-Interaction Honeypots
     </a>
     - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     <sup>
-     &#9733 17, pushed 483 days ago
+     &#9733 17, pushed 608 days ago
     </sup>
    </li>
    <li>
@@ -1666,7 +1702,7 @@ High-Interaction Honeypots
     </a>
     - Cowrie SSH Honeypot (based on kippo)
     <sup>
-     &#9733 384, pushed 4 days ago
+     &#9733 384, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -1687,7 +1723,7 @@ High-Interaction Honeypots
     </a>
     - Docker container running cowrie with DShield output enabled.
     <sup>
-     &#9733 2, pushed 50 days ago
+     &#9733 2, pushed 175 days ago
     </sup>
    </li>
   </ul>
@@ -1745,7 +1781,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 13, pushed 4 days ago
+   &#9733 13, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1838,7 +1874,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 50, pushed 89 days ago
+   &#9733 50, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -1909,7 +1945,7 @@ High-Interaction Honeypots
     </a>
     - The Project Honey Pot un-official PHP SDK
     <sup>
-     &#9733 0, pushed 102 days ago
+     &#9733 0, pushed 226 days ago
     </sup>
    </li>
   </ul>
@@ -1949,7 +1985,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 97 days ago
+   &#9733 7, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -1985,7 +2021,7 @@ High-Interaction Honeypots
     </a>
     A docker based honeypot.
     <sup>
-     &#9733 73, pushed 364 days ago
+     &#9733 73, pushed 489 days ago
     </sup>
    </li>
    <li>
@@ -1994,12 +2030,12 @@ High-Interaction Honeypots
     </a>
     Several Honeynet tools set up for Docker containers
     <sup>
-     &#9733 6, pushed 499 days ago
+     &#9733 6, pushed 623 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 6, pushed 409 days ago
+   &#9733 6, pushed 534 days ago
   </sup>
  </li>
  <li>
@@ -2062,7 +2098,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 1297 days ago
+   &#9733 7, pushed 1422 days ago
   </sup>
  </li>
  <li>
@@ -2090,7 +2126,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 24, pushed 48 days ago
+   &#9733 24, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -2106,7 +2142,7 @@ High-Interaction Honeypots
    </li>
   </ul>
   <sup>
-   &#9733 302, pushed 8 days ago
+   &#9733 302, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -2217,7 +2253,7 @@ the honeyd daemon and generate configuration files
     </a>
     - A malware/botnet analysis framework written in Ruby
     <sup>
-     &#9733 148, pushed 471 days ago
+     &#9733 148, pushed 596 days ago
     </sup>
    </li>
    <li>
@@ -2282,7 +2318,7 @@ the honeyd daemon and generate configuration files
     </a>
     - Django App for kippo SSH Honeypot
     <sup>
-     &#9733 10, pushed 1394 days ago
+     &#9733 10, pushed 1519 days ago
     </sup>
    </li>
    <li>
@@ -2296,7 +2332,7 @@ the honeyd daemon and generate configuration files
     </a>
     - a full featured script to visualize statistics from a Shockpot honeypot
     <sup>
-     &#9733 0, pushed 145 days ago
+     &#9733 0, pushed 270 days ago
     </sup>
    </li>
    <li>
@@ -2305,7 +2341,7 @@ the honeyd daemon and generate configuration files
     </a>
     - A flask website which displays data I've gathered with my SSH Honeypot
     <sup>
-     &#9733 1, pushed 89 days ago
+     &#9733 1, pushed 213 days ago
     </sup>
    </li>
    <li>
@@ -2314,12 +2350,12 @@ the honeyd daemon and generate configuration files
     </a>
     - Simplified UI for showing honeypot alarms
     <sup>
-     &#9733 2, pushed 56 days ago
+     &#9733 2, pushed 181 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 173, pushed 40 days ago
+   &#9733 173, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -2339,12 +2375,12 @@ the honeyd daemon and generate configuration files
     </a>
     - Maltego tranforms for mapping Honeypot systems
     <sup>
-     &#9733 9, pushed 505 days ago
+     &#9733 9, pushed 630 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 137, pushed 30 days ago
+   &#9733 137, pushed 154 days ago
   </sup>
  </li>
 </ul>

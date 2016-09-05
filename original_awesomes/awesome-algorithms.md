@@ -23,13 +23,15 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     Lots and lots of well explained and implemented algorithms.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
-* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
+* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 * [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 * [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers. 
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
+* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 
 ## Online Courses
 
@@ -70,7 +72,9 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
-* [C++](https://github.com/xtaci/algorithms)
+* C++
+    * [by @xtaci](https://github.com/xtaci/algorithms)
+    * [by @PetarV-](https://github.com/PetarV-/Algorithms)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
 * Java
@@ -90,6 +94,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
+    * [by @nelson-brochado](https://github.com/nelson-brochado/ands)
 * Ruby
     * [by @kanwei] (https://github.com/kanwei/algorithms)
     * [by @sagivo] (https://github.com/sagivo/algorithms)

@@ -122,6 +122,11 @@
    Ionic 2 and External Libraries
   </a>
  </li>
+ <li>
+  <a href="http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/">
+   Understanding Zones and Change Detection in Ionic 2 & Angular 2
+  </a>
+ </li>
 </ul>
 <h4>
  Theming
@@ -202,6 +207,11 @@
    Ionic 2 Unit Testing
   </a>
  </li>
+ <li>
+  <a href="http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/">
+   How to Unit Test an Ionic 2 Application
+  </a>
+ </li>
 </ul>
 <h4>
  Cordova Plugins
@@ -215,6 +225,11 @@
  <li>
   <a href="http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/">
    How to Work With Cordova Plugins
+  </a>
+ </li>
+ <li>
+  <a href="http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/">
+   10 Minutes with Ionic 2: Using the Camera with Ionic Native
   </a>
  </li>
  <li>
@@ -342,6 +357,11 @@
    Ionic 2: How to Use Google Maps & Geolocation
   </a>
  </li>
+ <li>
+  <a href="http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238">
+   Ionic 2 in One Hour
+  </a>
+ </li>
 </ul>
 <h4>
  Books
@@ -362,7 +382,7 @@
    Ionic Conference App
   </a>
   <sup>
-   &#9733 432, pushed 1 days ago
+   &#9733 432, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -370,7 +390,7 @@
    IonicRealty
   </a>
   <sup>
-   &#9733 90, pushed 28 days ago
+   &#9733 90, pushed 152 days ago
   </sup>
  </li>
 </ul>

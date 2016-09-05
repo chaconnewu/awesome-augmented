@@ -1,6 +1,6 @@
 # Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources and softwares.
+A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 
 ### Contributing
 
@@ -18,6 +18,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Awesome CTF](#awesome-ctf)
   - [Create](#create)
     - [Forensics](#forensics)
+    - [Platforms](#platforms)
+    - [Steganography](#steganography)
     - [Web](#web)
   - [Solve](#solve)
     - [Attacks](#attacks)
@@ -47,6 +49,22 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for creating Forensics challenges*
 
 - [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
+
+## Platforms
+
+*Projects that can be used to host a CTF*
+
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
+- [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
+- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
+- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
+
+## Steganography
+
+*Tools used to create stego challenges*
+
+Check solve section for steganography.
+
 
 ## Web
 
@@ -90,6 +108,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for solving Exploits challenges*
 
 - [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 - [qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
@@ -110,6 +129,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
+- [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
 - [fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
@@ -132,12 +152,15 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
+- [angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
+- [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
+- [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
@@ -167,6 +190,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Steganography challenges*
 
+- [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters
+- [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
 - [pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
@@ -209,11 +234,15 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
+- [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
+- [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
+- [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 
 ## Websites
@@ -229,6 +258,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
+- [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
 
 ## Writeups Collections
 
@@ -243,4 +273,4 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 ### LICENSE
 
-MIT :)
+CC0 :)

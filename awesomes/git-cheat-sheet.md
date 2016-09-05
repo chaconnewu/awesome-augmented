@@ -1,5 +1,5 @@
 <h1>
- Git Cheat Sheet - git-flow
+ Git and Git Flow Cheat Sheet
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
@@ -15,7 +15,12 @@
   </h1>
   <ol>
    <li>
-    <a href="https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-zh.md">
+    <a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md">
+     Arabic Git Cheat Sheet
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md">
      Chinese Git Cheat Sheet
     </a>
    </li>
@@ -25,23 +30,13 @@
     </a>
    </li>
    <li>
-    <a href="https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-tr.md">
+    <a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md">
      Turkish Git Cheat Sheet
     </a>
    </li>
    <li>
-    <a href="https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-es.md">
+    <a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md">
      Spanish Git Cheat Sheet
-    </a>
-   </li>
-  </ol>
-  <h2>
-   PDF versions:
-  </h2>
-  <ol>
-   <li>
-    <a href="https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/pdf/git-cheat-sheet.pdf">
-     English Cheat Sheet
     </a>
    </li>
   </ol>
@@ -128,7 +123,7 @@
     </code>
    </p>
    <h5>
-    Show local configuration:
+    Show repository configuration:
    </h5>
    <p>
     <code>
@@ -270,7 +265,7 @@
      </h5>
      <p>
       <code>
-       $ git add
+       $ git add .
       </code>
      </p>
      <h5>
@@ -338,7 +333,7 @@
       </code>
      </p>
      <h5>
-      Change commit date of last commit:
+      Change committer date of last commit:
      </h5>
      <p>
       <code>
@@ -1096,6 +1091,15 @@ $ git commit -m "remove xyz file"
          </img>
         </p>
         <hr>
+         <h3>
+          Git flow schema
+         </h3>
+         <p align="center">
+          <img alt="Git" src="Img/git-flow-commands-without-flow.png">
+          </img>
+         </p>
+         <hr>
+         </hr>
         </hr>
        </hr>
       </hr>

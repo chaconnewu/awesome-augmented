@@ -7,25 +7,25 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [YARN](#yarn)
 	- [NoSQL](#nosql)
 	- [SQL on Hadoop](#sql-on-hadoop)
-	- [Data Management](#data_management)
-	- [Workflow, Lifecycle and Governance](#workflow_lifecycle_and_Governance)
+	- [Data Management](#data-management)
+	- [Workflow, Lifecycle and Governance](#workflow-lifecycle-and-governance)
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
 	- [Realtime Data Processing](#realtime-data-processing)
-	- [Distributed Computing and Programming](#distributed_computing_and_programming)
+	- [Distributed Computing and Programming](#distributed-computing-and-programming)
 	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
 	- [Monitoring](#monitoring)
 	- [Search](#search)
 	- [Security](#security)
 	- [Benchmark](#benchmark)
-	- [Machine learning and Big Data analytics](#machine_learning_and_big_data_analytics)
+	- [Machine learning and Big Data analytics](#machine-learning-and-big-data-analytics)
 	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Presentations](#presentations)
 	- [Books](#books)
-	- [Hadoop & Big Data Events](#hadoop & big data events)
+	- [Hadoop and Big Data Events](#hadoop-and-big-data-events)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
@@ -69,14 +69,15 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## SQL on Hadoop
 *SQL on Hadoop*
 
-* [Apache Hive](http://hive.apache.org)
+* [Apache Hive](http://hive.apache.org) - The Apache Hive data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
 * [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
-* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hdb) - Parallel Postgres on Hadoop
+* [Apache HAWQ (incubating)](http://hawq.incubator.apache.org/) - Apache HAWQ is a Hadoop native SQL query engine that combines the key technological advantages of MPP database with the scalability and convenience of Hadoop
 * [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
 * [Cloudera Impala](http://impala.io/)
 * [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
-* [Apache Drill](http://incubator.apache.org/)
+* [Apache Drill](https://drill.apache.org/) - Schema-free SQL Query Engine
+* [Apache Trafodion](http://trafodion.apache.org/)
 
 ## Data Management
 
@@ -89,7 +90,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [AirFlow](https://github.com/airbnb/airflow) - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -124,6 +125,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
 * [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
+* snakebite
 
 ## Realtime Data Processing
 
@@ -189,6 +191,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 * [RHive](https://github.com/nexr/RHive) RHive, for launching Hive queries from R
 * [Apache Lens](http://lens.apache.org/)
+* [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
 
 ## Misc.
 
@@ -282,6 +285,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 * [AWS BigData Blog](http://blogs.aws.amazon.com/bigdata/)
 * [Hadoop360](http://www.hadoop360.com/)
+* [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
 ## Presentations
 
@@ -304,7 +308,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
 * [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
 
-## Hadoop & Big Data Events
+## Hadoop and Big Data Events
 * [ApacheCon](http://www.apachecon.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 * [Hadoop Summit](http://hadoopsummit.org/)

@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -53,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
+ - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
@@ -143,7 +145,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
+ - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+ - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+
+### R
+ - [mongolite](https://github.com/jeroenooms/mongolite) - Fast and Simple MongoDB Client for R
 
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
@@ -168,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module
+ - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
@@ -176,6 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 #### GUI
  - [HumongouS.io](https://www.humongous.io) - Web based GUI
  - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
+ - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
 
@@ -196,12 +205,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Dockerfile](https://github.com/dockerfile/mongodb)
 
 ### Monitoring
+ - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
  - [mtop](https://github.com/beaufour/mtop) - Another top clone
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
- - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin
+ - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## Applications
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB

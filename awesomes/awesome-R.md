@@ -14,7 +14,17 @@
  .
 </p>
 <p>
- For better navigation, see https://aws-r.com
+ For better navigation, see https://awesome-r.com
+</p>
+<p>
+ <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20">
+  for
+  <a href="https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages">
+   Top 50
+  </a>
+  CRAN downloaded packages or repos with 400+
+  <img align="absmiddle" alt="star" class="emoji" height="20" src="https://awesome-r.com/star.png" width="20"/>
+ </img>
 </p>
 <ul>
  <li>
@@ -123,6 +133,11 @@
     </a>
    </li>
    <li>
+    <a href="#data-packages">
+     Data Packages
+    </a>
+   </li>
+   <li>
     <a href="#other-tools">
      Other Tools
     </a>
@@ -152,6 +167,11 @@
    <li>
     <a href="#books">
      Books
+    </a>
+   </li>
+   <li>
+    <a href="#podcasts">
+     Podcasts
     </a>
    </li>
    <li>
@@ -194,6 +214,7 @@
  <li>
   <a href="http://www.rstudio.org/">
    RStudio
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
  </li>
@@ -215,7 +236,7 @@
   </a>
   - Add-on package for TextMate 1/2.
   <sup>
-   &#9733 21, pushed 354 days ago
+   &#9733 21, pushed 479 days ago
   </sup>
  </li>
  <li>
@@ -237,10 +258,11 @@
   - A package that provides a basic graphical user interface.
  </li>
  <li>
-  <a href="http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic">
-   IPython
+  <a href="https://github.com/IRkernel/IRkernel">
+   IRkernel
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
-  - An interactive Python interpreter, and it supports execution of R code while capturing both output and figures.
+  - R kernel for Jupyter.
  </li>
  <li>
   <a href="http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage">
@@ -260,7 +282,7 @@
   </a>
   - Vim plugin for R.
   <sup>
-   &#9733 101, pushed 48 days ago
+   &#9733 101, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -269,7 +291,7 @@
   </a>
   - Neovim plugin for R.
   <sup>
-   &#9733 54, pushed 1 days ago
+   &#9733 54, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -303,10 +325,11 @@
  <li>
   <a href="https://github.com/smbache/magrittr">
    magrittr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Let's pipe it.
   <sup>
-   &#9733 367, pushed 59 days ago
+   &#9733 367, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -315,7 +338,7 @@
   </a>
   - Multi-paradigm Pipeline Implementation.
   <sup>
-   &#9733 100, pushed 29 days ago
+   &#9733 100, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -324,7 +347,7 @@
   </a>
   - Functional programming and simple pattern matching in R.
   <sup>
-   &#9733 78, pushed 411 days ago
+   &#9733 78, pushed 535 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +356,7 @@
   </a>
   - A FP package for R in the spirit of underscore.js.
   <sup>
-   &#9733 249, pushed 3 days ago
+   &#9733 249, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -349,28 +372,31 @@
  <li>
   <a href="https://github.com/hadley/dplyr">
    dplyr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Fast data frames manipulation and database query.
   <sup>
-   &#9733 1188, pushed 2 days ago
+   &#9733 1188, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Rdatatable/data.table">
    data.table
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Fast data manipulation in a short and flexible syntax.
   <sup>
-   &#9733 655, pushed 2 days ago
+   &#9733 655, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/hadley/reshape">
    reshape2
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Flexible rearrange, reshape and aggregate data.
   <sup>
-   &#9733 130, pushed 27 days ago
+   &#9733 130, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -379,7 +405,7 @@
   </a>
   - A fast and friendly way to read tabular data into R.
   <sup>
-   &#9733 378, pushed 4 days ago
+   &#9733 378, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +414,7 @@
   </a>
   - Improved methods to import SPSS, Stata and SAS files in R.
   <sup>
-   &#9733 147, pushed 35 days ago
+   &#9733 147, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -397,7 +423,7 @@
   </a>
   - Easily tidy data with spread and gather functions.
   <sup>
-   &#9733 294, pushed 13 days ago
+   &#9733 294, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -406,7 +432,7 @@
   </a>
   - Convert statistical analysis objects into tidy data frames.
   <sup>
-   &#9733 381, pushed 6 days ago
+   &#9733 381, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -415,7 +441,7 @@
   </a>
   - A toolbox for non-tabular data manipulation with lists.
   <sup>
-   &#9733 67, pushed 29 days ago
+   &#9733 67, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -424,7 +450,7 @@
   </a>
   - A robust and quick way to parse JSON files in R.
   <sup>
-   &#9733 102, pushed 13 days ago
+   &#9733 102, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -442,16 +468,18 @@
  <li>
   <a href="http://www.rexamine.com/resources/stringi/">
    stringi
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - ICU based string processing package.
  </li>
  <li>
   <a href="https://github.com/hadley/stringr">
    stringr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Consistent API for string processing, built on top of stringi.
   <sup>
-   &#9733 129, pushed 180 days ago
+   &#9733 129, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +502,7 @@
   </a>
   - Join tables together on inexact matching.
   <sup>
-   &#9733 104, pushed 18 days ago
+   &#9733 104, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -490,10 +518,11 @@
  <li>
   <a href="https://github.com/hadley/ggplot2">
    ggplot2
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - An implementation of the Grammar of Graphics.
   <sup>
-   &#9733 1787, pushed 4 days ago
+   &#9733 1787, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -502,7 +531,7 @@
   </a>
   - A unified interface to ggplot2 popular statistical packages using one line of code.
   <sup>
-   &#9733 180, pushed 10 days ago
+   &#9733 180, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -511,7 +540,7 @@
   </a>
   - Repel overlapping text labels away from each other.
   <sup>
-   &#9733 219, pushed 49 days ago
+   &#9733 219, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -520,8 +549,14 @@
   </a>
   - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
   <sup>
-   &#9733 120, pushed 16 days ago
+   &#9733 120, pushed 141 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/GuangchuangYu/ggtree">
+   ggtree
+  </a>
+  - Visualization and annotation of phylogenetic tree.
  </li>
  <li>
   <a href="https://ggplot2-exts.github.io/ggiraph.html">
@@ -534,6 +569,12 @@
    lattice
   </a>
   - A powerful and elegant high-level data visualization system.
+ </li>
+ <li>
+  <a href="https://github.com/taiyun/corrplot">
+   corrplot
+  </a>
+  - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/rgl/index.html">
@@ -553,7 +594,7 @@
   </a>
   - Tools for using fonts in R graphics.
   <sup>
-   &#9733 83, pushed 125 days ago
+   &#9733 83, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -562,7 +603,7 @@
   </a>
   - Enable R graphics device to show text using system fonts.
   <sup>
-   &#9733 81, pushed 187 days ago
+   &#9733 81, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -581,7 +622,7 @@
   </a>
   - Create easy animations with ggplot2.
   <sup>
-   &#9733 227, pushed 85 days ago
+   &#9733 227, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -618,7 +659,7 @@
   </a>
   - Interactive heatmaps with D3.
   <sup>
-   &#9733 127, pushed 4 days ago
+   &#9733 127, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -630,10 +671,11 @@
  <li>
   <a href="https://github.com/rich-iannone/DiagrammeR">
    DiagrammeR
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Create JS graph diagrams and flowcharts in R.
   <sup>
-   &#9733 499, pushed 2 days ago
+   &#9733 499, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -642,7 +684,7 @@
   </a>
   - Charting time-series data in R.
   <sup>
-   &#9733 145, pushed 4 days ago
+   &#9733 145, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -657,7 +699,7 @@
   </a>
   - Interactive grammar of graphics for R.
   <sup>
-   &#9733 530, pushed 197 days ago
+   &#9733 530, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -684,12 +726,13 @@
   </a>
   - Interactive scatterplots with D3.
   <sup>
-   &#9733 51, pushed 28 days ago
+   &#9733 51, pushed 153 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ropensci/plotly">
    plotly
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Interactive ggplot2 and Shiny plotting with
   <a href="https://plot.ly">
@@ -697,16 +740,17 @@
   </a>
   .
   <sup>
-   &#9733 478, pushed 2 days ago
+   &#9733 478, pushed 126 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ramnathv/rCharts">
    rCharts
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Interactive JS Charts from R.
   <sup>
-   &#9733 964, pushed 7 days ago
+   &#9733 964, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -725,8 +769,20 @@
   </a>
   - Interactive 3D scatter plots and globes.
   <sup>
-   &#9733 100, pushed 3 days ago
+   &#9733 100, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/daattali/timevis">
+   timevis
+  </a>
+  - Create fully interactive timeline visualizations.
+ </li>
+ <li>
+  <a href="https://github.com/datastorm-open/visNetwork">
+   visNetwork
+  </a>
+  - Using vis.js library for network visualization.
  </li>
 </ul>
 <h2>
@@ -741,6 +797,7 @@
  <li>
   <a href="http://yihui.name/knitr/">
    knitr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Easy dynamic report generation in R.
  </li>
@@ -759,6 +816,7 @@
  <li>
   <a href="http://rmarkdown.rstudio.com/">
    rmarkdown
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Dynamic documents for R.
  </li>
@@ -768,7 +826,7 @@
   </a>
   - Generate reproducible html5 slides from R markdown.
   <sup>
-   &#9733 686, pushed 65 days ago
+   &#9733 686, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -784,7 +842,7 @@
   - Formatting statistical models in LaTex and HTML.
  </li>
  <li>
-  <a href="http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/">
+  <a href="https://github.com/RevolutionAnalytics/checkpoint">
    checkpoint
   </a>
   - Install packages from snapshots on the checkpoint server.
@@ -807,6 +865,12 @@
   </a>
   - Authoring Books with R Markdown.
  </li>
+ <li>
+  <a href="https://github.com/daattali/ezknitr">
+   ezknitr
+  </a>
+  - Avoid the typical working directory pain when using 'knitr'
+ </li>
 </ul>
 <h2>
  Web Technologies and Services
@@ -823,16 +887,17 @@
   </a>
   - Information about how to use R and the world wide web together.
   <sup>
-   &#9733 100, pushed 5 days ago
+   &#9733 100, pushed 130 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/rstudio/shiny">
    shiny
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Easy interactive web applications with R.
   <sup>
-   &#9733 1715, pushed 1 days ago
+   &#9733 1715, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -844,10 +909,11 @@
  <li>
   <a href="https://github.com/hadley/httr">
    httr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - User-friendly RCurl wrapper.
   <sup>
-   &#9733 509, pushed 23 days ago
+   &#9733 509, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -856,27 +922,30 @@
   </a>
   - HTTP and WebSocket server library.
   <sup>
-   &#9733 56, pushed 34 days ago
+   &#9733 56, pushed 159 days ago
   </sup>
  </li>
  <li>
   <a href="http://cran.r-project.org/web/packages/XML/index.html">
    XML
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Tools for parsing and generating XML within R.
  </li>
  <li>
   <a href="https://github.com/hadley/rvest">
    rvest
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Simple web scraping for R, using CSSSelect or XPath syntax.
   <sup>
-   &#9733 547, pushed 14 days ago
+   &#9733 547, pushed 138 days ago
   </sup>
  </li>
  <li>
   <a href="https://www.opencpu.org/">
    OpenCPU
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - HTTP API for R.
  </li>
@@ -886,8 +955,14 @@
   </a>
   - Access to Facebook API via R.
   <sup>
-   &#9733 128, pushed 18 days ago
+   &#9733 128, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/randyzwitch/RSiteCatalyst">
+   RSiteCatalyst
+  </a>
+  - R client library for the Adobe Analytics.
  </li>
 </ul>
 <h2>
@@ -922,16 +997,18 @@
  <li>
   <a href="http://cran.r-project.org/web/packages/foreach/index.html">
    foreach
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Executing the loop in parallel.
  </li>
  <li>
   <a href="https://github.com/amplab-extras/SparkR-pkg">
    SparkR
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - R frontend for Spark.
   <sup>
-   &#9733 588, pushed 44 days ago
+   &#9733 588, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -940,7 +1017,7 @@
   </a>
   - A scalable high-performance platform from  HP Vertica Analytics Team.
   <sup>
-   &#9733 121, pushed 138 days ago
+   &#9733 121, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -949,7 +1026,7 @@
   </a>
   - Provides distributed data structures and simplifies distributed computing in R.
   <sup>
-   &#9733 75, pushed 111 days ago
+   &#9733 75, pushed 235 days ago
   </sup>
  </li>
 </ul>
@@ -965,6 +1042,7 @@
  <li>
   <a href="http://rcpp.org/">
    Rcpp
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Rcpp provides a powerful API on top of R, make function in R extremely faster.
  </li>
@@ -974,7 +1052,7 @@
   </a>
   - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
   <sup>
-   &#9733 62, pushed 54 days ago
+   &#9733 62, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -1005,7 +1083,7 @@
   </a>
   - Integration of R, Java, and Scala.
   <sup>
-   &#9733 10, pushed 612 days ago
+   &#9733 10, pushed 736 days ago
   </sup>
  </li>
  <li>
@@ -1026,7 +1104,7 @@
   </a>
   - Run Julia and Bash from R.
   <sup>
-   &#9733 44, pushed 64 days ago
+   &#9733 44, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1035,7 +1113,7 @@
   </a>
   - R package Call Julia.
   <sup>
-   &#9733 94, pushed 126 days ago
+   &#9733 94, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -1056,7 +1134,7 @@
   </a>
   - Seamless Interface to Octave and Matlab.
   <sup>
-   &#9733 8, pushed 112 days ago
+   &#9733 8, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -1071,7 +1149,7 @@
   </a>
   - Embedded JavaScript Engine.
   <sup>
-   &#9733 52, pushed 20 days ago
+   &#9733 52, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1108,7 +1186,7 @@
   </a>
   - Defines a common interface between the R and database management systems.
   <sup>
-   &#9733 55, pushed 3 days ago
+   &#9733 55, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1117,7 +1195,7 @@
   </a>
   - Wrapper for the Elasticsearch HTTP API
   <sup>
-   &#9733 91, pushed 16 days ago
+   &#9733 91, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1126,7 +1204,7 @@
   </a>
   - Streaming Mongo Client for R
   <sup>
-   &#9733 51, pushed 12 days ago
+   &#9733 51, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1165,7 +1243,7 @@
   </a>
   - R driver for MongoDB.
   <sup>
-   &#9733 55, pushed 43 days ago
+   &#9733 55, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -1186,7 +1264,7 @@
   </a>
   - R extension facilitating distributed computing via Apache Hive.
   <sup>
-   &#9733 108, pushed 275 days ago
+   &#9733 108, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -1195,7 +1273,7 @@
   </a>
   - Neo4j graph database driver.
   <sup>
-   &#9733 141, pushed 27 days ago
+   &#9733 141, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -1211,10 +1289,11 @@
  <li>
   <a href="https://github.com/twitter/AnomalyDetection">
    AnomalyDetection
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - AnomalyDetection R package from Twitter.
   <sup>
-   &#9733 1440, pushed 3 days ago
+   &#9733 1440, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1261,7 +1340,7 @@ cases)
   </a>
   - Breakout Detection via Robust E-Statistics from Twitter.
   <sup>
-   &#9733 472, pushed 385 days ago
+   &#9733 472, pushed 509 days ago
   </sup>
  </li>
  <li>
@@ -1276,7 +1355,7 @@ cases)
   </a>
   - Causal inference using Bayesian structural time-series models.
   <sup>
-   &#9733 481, pushed 13 days ago
+   &#9733 481, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1288,6 +1367,7 @@ cases)
  <li>
   <a href="http://cran.r-project.org/web/packages/caret/index.html">
    caret
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Classification and Regression Training
  </li>
@@ -1296,7 +1376,7 @@ cases)
    Clever Algorithms For Machine Learning
   </a>
   <sup>
-   &#9733 176, pushed 1115 days ago
+   &#9733 176, pushed 1239 days ago
   </sup>
  </li>
  <li>
@@ -1353,6 +1433,18 @@ Friedman
   - Evolutionary Learning of Globally Optimal Trees
  </li>
  <li>
+  <a href="http://cran.r-project.org/web/packages/forecast/index.html">
+   forecast
+  </a>
+  - Timeseries forecasting using ARIMA, ETS, STLM, TBATS, and neural network models
+ </li>
+ <li>
+  <a href="http://cran.r-project.org/web/packages/forecastHybrid/index.html">
+   forecastHybrid
+  </a>
+  - Automatic ensemble and cross validation of ARIMA, ETS, STLM, TBATS, and neural network models from the "forecast" package
+ </li>
+ <li>
   <a href="https://cran.r-project.org/web/packages/FSelector/index.html">
    FSelector
   </a>
@@ -1386,6 +1478,7 @@ boosting
  <li>
   <a href="http://cran.r-project.org/web/packages/glmnet/index.html">
    glmnet
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Lasso and elastic-net regularized generalized linear models
  </li>
@@ -1418,6 +1511,7 @@ covariates
  <li>
   <a href="http://cran.r-project.org/web/packages/h2o/index.html">
    h2o
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
  </li>
@@ -1470,6 +1564,13 @@ covariates
   - Linear Predictive Models Based On The Liblinear C/C++ Library
  </li>
  <li>
+  <a href="https://github.com/lme4/lme4">
+   lme4
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
+  </a>
+  - Mixed-effects models
+ </li>
+ <li>
   <a href="http://cran.r-project.org/web/packages/LogicReg/index.html">
    LogicReg
   </a>
@@ -1492,7 +1593,7 @@ covariates
    Machine Learning For Hackers
   </a>
   <sup>
-   &#9733 2309, pushed 56 days ago
+   &#9733 2309, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -1504,6 +1605,7 @@ covariates
  <li>
   <a href="https://github.com/dmlc/mxnet/tree/master/R-package">
    MXNet
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - MXNet brings flexible and efficient GPU computing and state-of-art deep learning to R.
  </li>
@@ -1704,7 +1806,7 @@ Angle Regression
   </a>
   - Multi-algorithm ensemble learning packages.
   <sup>
-   &#9733 55, pushed 22 days ago
+   &#9733 55, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1734,6 +1836,7 @@ Angle Regression
  <li>
   <a href="https://github.com/tqchen/xgboost/tree/master/R-package">
    xgboost
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
  </li>
@@ -1753,7 +1856,7 @@ Angle Regression
   </a>
   - Fast Text Mining Framework for Vectorization and Word Embeddings.
   <sup>
-   &#9733 91, pushed 33 days ago
+   &#9733 91, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1781,18 +1884,6 @@ Angle Regression
   - Statistical models for word frequency distributions.
  </li>
  <li>
-  <a href="http://jliblog.com/app/tmcn">
-   tmcn
-  </a>
-  - A Text mining toolkit for international characters especially for Chinese.
- </li>
- <li>
-  <a href="http://jliblog.com/app/rwordseg">
-   Rwordseg
-  </a>
-  - Chinese word segmentation.
- </li>
- <li>
   <a href="http://cran.r-project.org/web/packages/NLP/index.html">
    NLP
   </a>
@@ -1804,7 +1895,7 @@ Angle Regression
   </a>
   - Interactive visualization of topic models.
   <sup>
-   &#9733 193, pushed 116 days ago
+   &#9733 193, pushed 240 days ago
   </sup>
  </li>
  <li>
@@ -1831,7 +1922,7 @@ Angle Regression
   </a>
   - R functions for Quantitative Analysis of Textual Data.
   <sup>
-   &#9733 133, pushed 2 days ago
+   &#9733 133, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1840,7 +1931,7 @@ Angle Regression
   </a>
   - Topic Models learning and R related resources.
   <sup>
-   &#9733 46, pushed 94 days ago
+   &#9733 46, pushed 218 days ago
   </sup>
  </li>
  <li>
@@ -1899,6 +1990,7 @@ Angle Regression
  <li>
   <a href="http://mc-stan.org/interfaces/rstan.html">
    rstan
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - R interface to the Stan MCMC software.
  </li>
@@ -1947,6 +2039,7 @@ Angle Regression
  <li>
   <a href="http://www.quantmod.com/">
    quantmod
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Quantitative Financial Modelling & Trading Framework for R.
  </li>
@@ -1965,6 +2058,7 @@ Angle Regression
  <li>
   <a href="http://cran.r-project.org/web/packages/zoo/index.html">
    zoo
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - S3 Infrastructure for Regular and Irregular Time Series.
  </li>
@@ -1999,6 +2093,7 @@ Angle Regression
  <li>
   <a href="http://www.bioconductor.org/">
    Bioconductor
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Tools for the analysis and comprehension of high-throughput genomic data.
  </li>
@@ -2026,6 +2121,12 @@ Angle Regression
   </a>
   - Pretty heatmaps made easy.
  </li>
+ <li>
+  <a href="https://github.com/daattali/ddpcr">
+   ddpcr
+  </a>
+  - Analysis and visualization of Droplet Digital PCR data.
+ </li>
 </ul>
 <h2>
  Network Analysis
@@ -2042,12 +2143,13 @@ Angle Regression
   </a>
   - Network Analysis related resources.
   <sup>
-   &#9733 179, pushed 1 days ago
+   &#9733 179, pushed 126 days ago
   </sup>
  </li>
  <li>
   <a href="http://igraph.org/r/">
    igraph
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - A collection of network analysis tools.
  </li>
@@ -2062,6 +2164,12 @@ Angle Regression
    sna
   </a>
   - Basic network measures and visualization tools.
+ </li>
+ <li>
+  <a href="https://github.com/USCCANA/netdiffuseR">
+   netdiffuseR
+  </a>
+  - Tools for Analysis of Network Diffusion.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/networkDynamic/">
@@ -2108,7 +2216,7 @@ Angle Regression
    GEXF
   </a>
   , for manipulation with network software like
-  <a href="https://gephi.github.io/">
+  <a href="https://gephi.org/">
    Gephi
   </a>
   or
@@ -2118,13 +2226,10 @@ Angle Regression
   .
  </li>
  <li>
-  <a href="https://github.com/DataKnowledge/visNetwork">
+  <a href="https://github.com/datastorm-open/visNetwork">
    visNetwork
   </a>
   - Using vis.js library for network visualization.
-  <sup>
-   &#9733 0, pushed 41 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -2142,52 +2247,57 @@ Angle Regression
   </a>
   - R packages to improve package development.
   <sup>
-   &#9733 11, pushed 5 days ago
+   &#9733 11, pushed 130 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/hadley/devtools">
    devtools
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Tools to make an R developer's life easier.
   <sup>
-   &#9733 1246, pushed 2 days ago
+   &#9733 1246, pushed 126 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/hadley/testthat">
    testthat
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - An R package to make testing fun.
   <sup>
-   &#9733 317, pushed 2 days ago
+   &#9733 317, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/wch/R6">
    R6
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - simpler, faster, lighter-weight alternative to R's built-in classes.
   <sup>
-   &#9733 107, pushed 61 days ago
+   &#9733 107, pushed 185 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/hadley/pryr">
    pryr
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Make it easier to understand what's going on in R.
   <sup>
-   &#9733 81, pushed 176 days ago
+   &#9733 81, pushed 300 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/klutometis/roxygen">
    roxygen
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - Describe your functions in comments next to their definitions.
   <sup>
-   &#9733 170, pushed 25 days ago
+   &#9733 170, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2196,7 +2306,7 @@ Angle Regression
   </a>
   - Visualise line profiling results in R.
   <sup>
-   &#9733 88, pushed 172 days ago
+   &#9733 88, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -2205,7 +2315,7 @@ Angle Regression
   </a>
   - Make your R projects more isolated, portable, and reproducible.
   <sup>
-   &#9733 155, pushed 1 days ago
+   &#9733 155, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2221,8 +2331,15 @@ Angle Regression
   - An import mechanism for R.
  </li>
  <li>
+  <a href="https://github.com/klmr/modules">
+   modules
+  </a>
+  - An alternative (Python style) module system for R.
+ </li>
+ <li>
   <a href="https://github.com/rocker-org">
    Rocker
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
   - R configurations for
   <a href="https://www.docker.com/">
@@ -2242,7 +2359,7 @@ Angle Regression
   </a>
   - Creation and use of R repositories on GitHub or other repos.
   <sup>
-   &#9733 47, pushed 53 days ago
+   &#9733 47, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -2259,7 +2376,7 @@ Angle Regression
   </a>
   .
   <sup>
-   &#9733 113, pushed 4 days ago
+   &#9733 113, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2268,8 +2385,14 @@ Angle Regression
   </a>
   - Static code analysis for R to enforce code style.
   <sup>
-   &#9733 165, pushed 18 days ago
+   &#9733 165, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hadley/staticdocs">
+   staticdocs
+  </a>
+  - Generate static html documentation for an R package.
  </li>
 </ul>
 <h2>
@@ -2287,7 +2410,7 @@ Angle Regression
   </a>
   - A logging package in R similar to log4j
   <sup>
-   &#9733 45, pushed 88 days ago
+   &#9733 45, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -2296,7 +2419,7 @@ Angle Regression
   </a>
   - A log4j derivative for R
   <sup>
-   &#9733 32, pushed 575 days ago
+   &#9733 32, pushed 700 days ago
   </sup>
  </li>
  <li>
@@ -2304,6 +2427,28 @@ Angle Regression
    logging
   </a>
   - A logging package emulating the python logging package.
+ </li>
+</ul>
+<h2>
+ Data Packages
+</h2>
+<p>
+ <em>
+  Handy Data Packages
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/jalapic/engsoccerdata">
+   engsoccerdata
+  </a>
+  - English and European soccer results 1871-2016.
+ </li>
+ <li>
+  <a href="http://github.com/jennybc/gapminder">
+   gapminder
+  </a>
+  - Excerpt from the Gapminder dataset (data about countries throught the paste 50 years).
  </li>
 </ul>
 <h2>
@@ -2321,7 +2466,7 @@ Angle Regression
   </a>
   - Gives you programmatic access to Git repositories from R.
   <sup>
-   &#9733 81, pushed 13 days ago
+   &#9733 81, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -2352,7 +2497,7 @@ Angle Regression
   </a>
   - Clojure-based, R-like statistical computing and graphics environment for the JVM with Lisp spirit.
   <sup>
-   &#9733 1731, pushed 12 days ago
+   &#9733 1731, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2373,7 +2518,7 @@ Angle Regression
   </a>
   - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
   <sup>
-   &#9733 42, pushed 1 days ago
+   &#9733 42, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2382,7 +2527,7 @@ Angle Regression
   </a>
   - a fast interpreter and JIT for R.
   <sup>
-   &#9733 67, pushed 222 days ago
+   &#9733 67, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -2412,6 +2557,15 @@ Angle Regression
    swirl
   </a>
   - An interactive R tutorial directly in your R console.
+ </li>
+ <li>
+  <a href="https://github.com/ujjwalkarn/DataScienceR">
+   DataScienceR
+  </a>
+  - a list of R tutorials for Data Science, NLP and Machine Learning.
+  <sup>
+   &#9733 15, pushed 143 days ago
+  </sup>
  </li>
 </ul>
 <h1>
@@ -2451,8 +2605,15 @@ Angle Regression
  <li>
   <a href="http://adv-r.had.co.nz/">
    Advanced R
+   <img align="absmiddle" alt="heart" class="emoji" height="20" src="https://awesome-r.com/heart.png" width="20"/>
   </a>
-  - An in-progress book site for Advanced R.
+  - An online version of the Advanced R book.
+ </li>
+ <li>
+  <a href="https://csgillespie.github.io/efficientR/">
+   Efficient R Programming
+  </a>
+  - An online home of the O’Reilly book: Efficient R Programming.
  </li>
  <li>
   <a href="http://cran.r-project.org/web/views/">
@@ -2499,7 +2660,7 @@ Angle Regression
   </a>
   - List of R Books.
   <sup>
-   &#9733 29, pushed 5 days ago
+   &#9733 29, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2591,6 +2752,88 @@ Angle Regression
  </li>
 </ul>
 <h2>
+ Podcasts
+</h2>
+<ul>
+ <li>
+  <a href="https://soundcloud.com/nssd-podcast">
+   Not So Standard Deviations
+  </a>
+  - The Data Science Podcast.
+  <ul>
+   <li>
+    <a href="https://twitter.com/rdpeng">
+     @Roger Peng
+    </a>
+    and
+    <a href="https://twitter.com/hspter">
+     @Hilary Parker
+    </a>
+    .
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://www.rworld.news/blog/">
+   R World News
+  </a>
+  - R World News helps you keep up with happenings within the R community.
+  <br/>
+  <ul>
+   <li>
+    <a href="https://twitter.com/hrbrmstr">
+     @Bob Rudis
+    </a>
+    and
+    <a href="https://twitter.com/jayjacobs">
+     @Jay Jacobs
+    </a>
+    .
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://r-podcast.org/">
+   The R-Podcast
+  </a>
+  - Giving practical advice on how to use R.
+  <ul>
+   <li>
+    <a href="https://r-podcast.org/stories/contact.html">
+     @Eric Nantz
+    </a>
+    .
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://rtalk.org">
+   R Talk
+  </a>
+  - News and discussions of statistical software and language R.
+  <ul>
+   <li>
+    <a href="https://twitter.com/quominus">
+     @Oliver Keyes
+    </a>
+    ,
+    <a href="https://twitter.com/jasdumas">
+     @Jasmine Dumas
+    </a>
+    ,
+    <a href="https://twitter.com/emhrt_">
+     @Ted Hart
+    </a>
+    and
+    <a href="https://twitter.com/bearloga">
+     @Mikhail Popov
+    </a>
+    .
+   </li>
+  </ul>
+ </li>
+</ul>
+<h2>
  Reference Cards
 </h2>
 <ul>
@@ -2599,12 +2842,6 @@ Angle Regression
    R Reference Card 2.0
   </a>
   - Material from R for Beginners by permission of Emmanuel Paradis (Version 2 by Matt Baggott).
- </li>
- <li>
-  <a href="http://www.rdatamining.com/docs/R-refcard-data-mining.pdf">
-   Data Mining Refcard
-  </a>
-  - R Reference Card for Data Mining.
  </li>
  <li>
   <a href="http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf">
@@ -2692,8 +2929,14 @@ Angle Regression
   </a>
   - List of R Books.
   <sup>
-   &#9733 29, pushed 5 days ago
+   &#9733 29, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ujjwalkarn/DataScienceR">
+   DataScienceR
+  </a>
+  - a list of R tutorials for Data Science, NLP and Machine Learning.
  </li>
  <li>
   <a href="https://ggplot2-exts.github.io/ggiraph.html">
@@ -2714,7 +2957,7 @@ Angle Regression
   </a>
   - Network Analysis related resources.
   <sup>
-   &#9733 179, pushed 1 days ago
+   &#9733 179, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2723,7 +2966,7 @@ Angle Regression
   </a>
   - Using R to obtain, parse, manipulate, create, and share open data.
   <sup>
-   &#9733 38, pushed 5 days ago
+   &#9733 38, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2738,7 +2981,7 @@ Angle Regression
   </a>
   - R packages to improve package development.
   <sup>
-   &#9733 11, pushed 5 days ago
+   &#9733 11, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2753,14 +2996,17 @@ Angle Regression
   </a>
   - A guide to some of the most useful R packages, organized by workflow.
   <sup>
-   &#9733 23, pushed 4 days ago
+   &#9733 23, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/daattali/rstudio-addins">
+  <a href="https://github.com/daattali/addinslist">
    RStudio Addins
   </a>
   - List of RStudio addins.
+  <sup>
+   &#9733 139, pushed 125 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/trinker/topicmodels_learning">
@@ -2768,7 +3014,7 @@ Angle Regression
   </a>
   - Topic Models learning and R related resources.
   <sup>
-   &#9733 46, pushed 94 days ago
+   &#9733 46, pushed 218 days ago
   </sup>
  </li>
  <li>
@@ -2777,7 +3023,7 @@ Angle Regression
   </a>
   - Information about how to use R and the world wide web together.
   <sup>
-   &#9733 100, pushed 5 days ago
+   &#9733 100, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2790,7 +3036,7 @@ Angle Regression
    awesome-awesomeness
   </a>
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2798,7 +3044,7 @@ Angle Regression
    lists
   </a>
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
 </ul>

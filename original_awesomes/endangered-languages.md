@@ -3,6 +3,10 @@ Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 
 There is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
 
+**Publication**
+
+A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the `papers` folder. Download the raw paper here: [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/endangered-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
+
 ## Contribute
 
 To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
@@ -97,7 +101,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ##Single language lexicography projects and utilities
 ###Utilities
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
-* [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
+* [Webonary](http://www.webonary.org/) Site which hosts digital dictionaries for single languages.
 * [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
 
 ###Interactions and presentations of data
@@ -152,7 +156,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts). 
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks 
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
-* [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
+* [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Mozilla/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
 * [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models. 
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
@@ -193,7 +197,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://www.nltk.org/
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
-* [norma ![GitHub stars](https://img.shields.io/github/stars/fpetran/norma.svg)](https://github.com/fpetran/norma)  A tool for automatic spelling normalization
+* [norma ![GitHub stars](https://img.shields.io/github/stars/comphist/norma.svg)](https://github.com/comphist/norma)  A tool for automatic spelling normalization
 * [nplm](https://github.com/moses-smt/nplm) Fork of http://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
 * [octothorpe ![GitHub stars](https://img.shields.io/github/stars/FieldDB/octothorpe.svg)](https://github.com/FieldDB/octothorpe)  CouchDB-powered wiki thing
 * [OdtXslt](https://github.com/sillsdev/OdtXslt) Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
@@ -206,7 +210,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [pepper ![GitHub stars](https://img.shields.io/github/stars/korpling/pepper.svg)](https://github.com/korpling/pepper)  Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [poio-analyzer ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-analyzer.svg)](https://github.com/cidles/poio-analyzer)  Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
-* [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api/
+* [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://www.poio.eu/
 * [poio-doc ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-doc.svg)](https://github.com/cidles/poio-doc)  Documentation of the Poio project.http://www.poio.eu
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language. 
@@ -247,6 +251,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [WSI4URLang ![GitHub stars](https://img.shields.io/github/stars/mohammadnasiruddin/WSI4URLang.svg)](https://github.com/mohammadnasiruddin/WSI4URLang)  Word Sense Induction (WSI) for Under-resourced Languages (URLang)
 * [XDXF_Makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict)  XDXF dictionary format and "makedict" dictionary converting software (official repository)
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
+
+# Format Specifications
+
+* [dlx-spec ![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/dlx-spec.svg)](https://github.com/digitallinguistics/dlx-spec) The official specification for the DLx linguistic data format. https://digitallinguistics.github.io/dlx-spec/
+* [FoLiA ![GitHub stars](https://img.shields.io/github/stars/proycon/folio.svg)](https://github.com/proycon/folia/) FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/
 
 # i18n-related Repositories
 
@@ -353,7 +362,7 @@ _FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFie
 ## FieldDB Webservices/Components/Plugins
 
 * [AndroidLanguageLearningClientForFieldDB-sikuli ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli.svg)](https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli)  Sikuli tests for AndroidLanguageLearningClientForFieldDB
-* [AuthenticationWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AuthenticationWebService.svg)](https://github.com/FieldDB/AuthenticationWebService)  A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
+* [AuthenticationWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AuthenticationWebService.svg)](https://github.com/FieldDB/AuthenticationWebService)  A node.js web service which mananges users and corpora creation and authentication.
 * [bower-fielddb-angular ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb-angular.svg)](https://github.com/FieldDB/bower-fielddb-angular)  A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
 * [bower-fielddb ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb.svg)](https://github.com/FieldDB/bower-fielddb)  A bower repository which hosts fielddb core components, bower install fielddb --save
 * [fielddb-spreadsheet-sikuli ![GitHub stars](https://img.shields.io/github/stars/FieldDB/fielddb-spreadsheet-sikuli.svg)](https://github.com/FieldDB/fielddb-spreadsheet-sikuli)  sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
@@ -423,6 +432,12 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 # Language Specific Projects
 
+###Albanian
+
+_sqi :: shqip_
+
+* [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg)](https://github.com/substack/out-of-copyright-albanian-authors) authors scraped from the albanian language wikipedia who are out of copyright
+
 ###Amharic
 
 _amh :: አማርኛ_
@@ -476,6 +491,28 @@ _kat :: ქართული_
 * [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 * [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
+#### Fonts
+
+ - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+ - [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
+ - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+
+#### Internationalization and Localization (i18n/l10n)
+
+ - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
+ - [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) - Convert numbers to localized strings (JavaScript).
+ - [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) - Convert numbers to localized strings (PHP).
+ - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
+ - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
+ - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
+ - [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](https://laravel.com/) Georgian Language Pack.
+
+ - **Other localized packages**
+   - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+   - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+ - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
+
 ###Guarani
 
 _grn :: Guarani_
@@ -513,7 +550,7 @@ _gle :: Gaeilge_
 
 * [aimsigh ![GitHub stars](https://img.shields.io/github/stars/kscanne/aimsigh.svg)](https://github.com/kscanne/aimsigh)  Source for the now-defunct aimsigh.com Irish search engine
 * [caighdean ![GitHub stars](https://img.shields.io/github/stars/kscanne/caighdean.svg)](https://github.com/kscanne/caighdean)  Code for standardizing Irish language text
-* [fleiscin ![GitHub stars](https://img.shields.io/github/stars/kscanne/fleiscin.svg)](https://github.com/kscanne/fleiscin)  Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
+* [fleiscin ![GitHub stars](https://img.shields.io/github/stars/hyphenation/fleiscin.svg)](https://github.com/hyphenation/fleiscin)  Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
 * [GaelSpell ![GitHub stars](https://img.shields.io/github/stars/kscanne/gaelspell.svg)](https://github.com/kscanne/gaelspell)  Sources for an Irish language spell checker
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial ![GitHub stars](https://img.shields.io/github/stars/kscanne/tesseract-gle-uncial.svg)](https://github.com/kscanne/tesseract-gle-uncial)  OCR for old Irish fonts
@@ -546,6 +583,12 @@ _lin :: Lingála_
 
 * [Lingala NLP](https://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Lushootseed
+
+_lut :: Lushootseed_
+
+* [Lushootseed](https://github.com/LowResourceLanguages/lushootseed) Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
+
 ###Malay
 
 * [MorfoMalayu ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis of Malay words
@@ -560,7 +603,7 @@ _mlg :: Malagasy_
 
 _mic :: Mi'kmaq_
 
-* [migmaqLessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/migmaqLessons.svg)](https://github.com/FieldDB/migmaqLessons) 
+* [migmaq-lessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/migmaq-lessons.svg)](https://github.com/FieldDB/migmaq-lessons) Repository for website building Mi'gmaq language lessons.
 
 ###Minderico
 

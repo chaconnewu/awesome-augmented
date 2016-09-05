@@ -148,11 +148,6 @@ Something awesome happens!
   </a>
  </li>
  <li>
-  <a href="#git-fu">
-   Git Fu
-  </a>
- </li>
- <li>
   <a href="#git-blame-someone-else">
    Git blame-someone-else
   </a>
@@ -175,6 +170,21 @@ Something awesome happens!
  <li>
   <a href="#apply-pr">
    apply-pr
+  </a>
+ </li>
+ <li>
+  <a href="#git-fixup">
+   git-fixup
+  </a>
+ </li>
+ <li>
+  <a href="#git-recent">
+   git-recent
+  </a>
+ </li>
+ <li>
+  <a href="#git-fiddle">
+   git-fiddle
   </a>
  </li>
 </ul>
@@ -1896,14 +1906,6 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
  TBD
 </p>
 <h2>
- <a href="https://github.com/divoxx/git-fu">
-  git-fu
- </a>
-</h2>
-<p>
- TBD
-</p>
-<h2>
  <a href="https://github.com/jayphelps/git-blame-someone-else">
   git-blame-someone-else
  </a>
@@ -2015,6 +2017,84 @@ done. all 1 files are revealed.
 </h2>
 <p>
  TBD
+</p>
+<h2>
+ <a href="https://github.com/keis/git-fixup">
+  git-fixup
+ </a>
+</h2>
+<p>
+ <code>
+  $ git diff --cached -U0
+diff --git a/README.md b/README.md
+index 0c700d1..7a57cef 100644
+--- a/README.md
++++ b/README.md
+@@ -1330 +1330 @@ $ git secret hide
+-done. all 1 files are hidden.
++done. all 3 files are hidden.
+$ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
+24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F] add screenshot of git-stats <maochenyan@gmail.com>
+6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
+ </code>
+</p>
+<h2>
+ <a href="https://github.com/paulirish/git-recent">
+  git-recent
+ </a>
+</h2>
+<p>
+ <code>
+  $ git recent
+ </code>
+</p>
+<p>
+ <img alt="git-recent screenshot" src="https://cloud.githubusercontent.com/assets/39191/17446638/039d4cee-5aff-11e6-9e11-4294f0020513.png"/>
+</p>
+<h2>
+ <a href="https://github.com/felixSchl/git-fiddle">
+  git-fiddle
+ </a>
+</h2>
+<p>
+ ```
+$ git fiddle -h
+git-fiddle
+</p>
+<p>
+ Edit commit meta information during an
+ <em>
+  interactive
+ </em>
+ rebase.
+</p>
+<p>
+ <code>
+  git-fiddle(1)' is a lightweight wrapper around
+ </code>
+ git-rebase(1)' that
+annotates each commit with it's
+ <em>
+  author
+ </em>
+ date, the author name, as well
+as the commit message. Changes to any of these will then be applied
+using an 'exec' script during the git-rebase sequence.
+</p>
+<p>
+ Usage:
+  $SCRIPT [--[no-]-fiddle-messages] [args...]
+</p>
+<p>
+ Options:
+  --[no-]fiddle-messages Do not edit commit messages. Useful for quick edits
+                         to author or date. This value can also be set using
+ <code>
+  git config fiddle.messages
+ </code>
+ .
+  [args...]              These arguments are passed verbatim to git-rebase.
+```
 </p>
 <h2>
  License

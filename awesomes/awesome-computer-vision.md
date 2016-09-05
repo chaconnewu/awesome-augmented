@@ -143,6 +143,12 @@
   </a>
   - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
  </li>
+ <li>
+  <a href="https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf">
+   Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics
+  </a>
+  - Justin Solomon 2015
+ </li>
 </ul>
 <h4>
  OpenCV Programming
@@ -1035,7 +1041,7 @@
    Open source Python module for computer vision
   </a>
   <sup>
-   &#9733 845, pushed 654 days ago
+   &#9733 845, pushed 778 days ago
   </sup>
  </li>
  <li>
@@ -1043,7 +1049,7 @@
    ccv: A Modern Computer Vision Library
   </a>
   <sup>
-   &#9733 5192, pushed 1 days ago
+   &#9733 5192, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1209,7 +1215,7 @@
    Local Binary Patterns
   </a>
   <sup>
-   &#9733 37, pushed 532 days ago
+   &#9733 37, pushed 657 days ago
   </sup>
  </li>
 </ul>
@@ -1222,8 +1228,18 @@
    HDR_Toolbox
   </a>
   <sup>
-   &#9733 36, pushed 5 days ago
+   &#9733 36, pushed 130 days ago
   </sup>
+ </li>
+</ul>
+<h4>
+ Semantic Segmentation
+</h4>
+<ul>
+ <li>
+  <a href="http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/">
+   List of Semantic Segmentation algorithms
+  </a>
  </li>
 </ul>
 <h4>
@@ -1736,7 +1752,7 @@
    SEEDS Revised
   </a>
   <sup>
-   &#9733 19, pushed 42 days ago
+   &#9733 19, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -1749,7 +1765,7 @@
    Fast Edge Detection Using Structured Forests
   </a>
   <sup>
-   &#9733 174, pushed 115 days ago
+   &#9733 174, pushed 240 days ago
   </sup>
  </li>
 </ul>
@@ -1870,7 +1886,7 @@
    KFusion: Implementation of KinectFusion
   </a>
   <sup>
-   &#9733 53, pushed 389 days ago
+   &#9733 53, pushed 513 days ago
   </sup>
  </li>
  <li>
@@ -1878,7 +1894,7 @@
    kinfu_remake: Lightweight, reworked and optimized version of Kinfu.
   </a>
   <sup>
-   &#9733 48, pushed 49 days ago
+   &#9733 48, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1896,7 +1912,7 @@
    VoxelHashing: Large-scale KinectFusion
   </a>
   <sup>
-   &#9733 73, pushed 211 days ago
+   &#9733 73, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -1909,7 +1925,7 @@
    SVO: Semi-direct visual odometry
   </a>
   <sup>
-   &#9733 407, pushed 4 days ago
+   &#9733 407, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1917,7 +1933,7 @@
    DVO: dense visual odometry
   </a>
   <sup>
-   &#9733 118, pushed 35 days ago
+   &#9733 118, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -1941,7 +1957,7 @@
    G2O: General framework for graph optomization
   </a>
   <sup>
-   &#9733 216, pushed 9 days ago
+   &#9733 216, pushed 134 days ago
   </sup>
  </li>
 </ul>
@@ -1978,7 +1994,7 @@
    LSD-SLAM
   </a>
   <sup>
-   &#9733 595, pushed 43 days ago
+   &#9733 595, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -1986,7 +2002,7 @@
    ORB-SLAM
   </a>
   <sup>
-   &#9733 285, pushed 61 days ago
+   &#9733 285, pushed 186 days ago
   </sup>
  </li>
 </ul>
@@ -2018,7 +2034,7 @@
   </a>
   - Ruiqi Guo (UIUC)
   <sup>
-   &#9733 7, pushed 619 days ago
+   &#9733 7, pushed 744 days ago
   </sup>
  </li>
 </ul>
@@ -2041,7 +2057,7 @@
    VOC-DPM
   </a>
   <sup>
-   &#9733 267, pushed 356 days ago
+   &#9733 267, pushed 481 days ago
   </sup>
  </li>
  <li>
@@ -2054,7 +2070,7 @@
    R-CNN: Regions with Convolutional Neural Network Features
   </a>
   <sup>
-   &#9733 670, pushed 88 days ago
+   &#9733 670, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -2062,7 +2078,7 @@
    SPP-Net
   </a>
   <sup>
-   &#9733 153, pushed 311 days ago
+   &#9733 153, pushed 436 days ago
   </sup>
  </li>
  <li>
@@ -2075,7 +2091,7 @@
    Edge Boxes
   </a>
   <sup>
-   &#9733 174, pushed 115 days ago
+   &#9733 174, pushed 240 days ago
   </sup>
  </li>
  <li>
@@ -2083,7 +2099,7 @@
    ReInspect
   </a>
   <sup>
-   &#9733 123, pushed 4 days ago
+   &#9733 123, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -2134,7 +2150,7 @@
    PMBP: PatchMatch Belief Propagation
   </a>
   <sup>
-   &#9733 2, pushed 593 days ago
+   &#9733 2, pushed 717 days ago
   </sup>
  </li>
  <li>
@@ -2222,6 +2238,11 @@
    CF2: Hierarchical Convolutional Features for Visual Tracking
   </a>
  </li>
+ <li>
+  <a href="http://webdocs.cs.ualberta.ca/~vis/mtf/index.html">
+   Modular Tracking Framework
+  </a>
+ </li>
 </ul>
 <h4>
  Saliency Detection
@@ -2287,7 +2308,7 @@
    Awesome Deep Vision
   </a>
   <sup>
-   &#9733 1273, pushed 8 days ago
+   &#9733 1273, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -2300,7 +2321,7 @@
    Awesome Machine Learning
   </a>
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3039,7 +3060,7 @@
    awesome-deep-learning
   </a>
   <sup>
-   &#9733 1922, pushed 8 days ago
+   &#9733 1922, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3047,7 +3068,7 @@
    awesome-maching-learning
   </a>
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>

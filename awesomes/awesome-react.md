@@ -44,21 +44,6 @@
     </a>
    </li>
    <li>
-    <a href="#building-robust-web-apps-with-react">
-     Building Robust Web Apps with React
-    </a>
-   </li>
-   <li>
-    <a href="#comprehensive-guide-to-building-apps-with-react">
-     Comprehensive Guide to Building Apps with React
-    </a>
-   </li>
-   <li>
-    <a href="#scotchio-react-tutorials-series">
-     Scotch.io React tutorials series
-    </a>
-   </li>
-   <li>
     <a href="#react-styling">
      React styling
     </a>
@@ -69,8 +54,8 @@
     </a>
    </li>
    <li>
-    <a href="#react-and-backbone">
-     React and Backbone
+    <a href="#react-and-meteor">
+     React and Meteor
     </a>
    </li>
    <li>
@@ -139,28 +124,23 @@
     </a>
    </li>
    <li>
-    <a href="#react-internals">
-     React Internals
-    </a>
-   </li>
-   <li>
     <a href="#react-tools">
      React Tools
     </a>
    </li>
    <li>
-    <a href="#fundamental-react-tools">
-     Fundamental React Tools
+    <a href="#boilerplates">
+     Boilerplates
+    </a>
+   </li>
+   <li>
+    <a href="#routing">
+     Routing
     </a>
    </li>
    <li>
     <a href="#react-projects">
      React Projects
-    </a>
-   </li>
-   <li>
-    <a href="#boilerplates">
-     Boilerplates
     </a>
    </li>
    <li>
@@ -282,16 +262,6 @@
      JSX Resources
     </a>
    </li>
-   <li>
-    <a href="#jsx-tutorials">
-     JSX Tutorials
-    </a>
-   </li>
-   <li>
-    <a href="#jsx-alternatives">
-     JSX Alternatives
-    </a>
-   </li>
   </ul>
  </li>
  <li>
@@ -314,9 +284,48 @@
      Flux Tutorials
     </a>
    </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#redux">
+   Redux
+  </a>
+  <ul>
+   <li>
+    <a href="#redux-general-resources">
+     Redux General Resources
+    </a>
+   </li>
+   <li>
+    <a href="#redux-tools">
+     Redux Tools
+    </a>
+   </li>
    <li>
     <a href="#redux-tutorials">
      Redux Tutorials
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#mobx">
+   MobX
+  </a>
+  <ul>
+   <li>
+    <a href="#mobx-general-resources">
+     MobX General Resources
+    </a>
+   </li>
+   <li>
+    <a href="#mobx-tools">
+     MobX Tools
+    </a>
+   </li>
+   <li>
+    <a href="#mobx-tutorials">
+     MobX Tutorials
     </a>
    </li>
   </ul>
@@ -326,11 +335,6 @@
    Testing
   </a>
   <ul>
-   <li>
-    <a href="#jest-general-resources">
-     Jest General Resources
-    </a>
-   </li>
    <li>
     <a href="#testing-utilities">
      Testing Utilities
@@ -500,7 +504,7 @@
    React GitHub
   </a>
   <sup>
-   &#9733 41396, pushed 2 days ago
+   &#9733 41396, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -533,22 +537,6 @@
    React Twitter
   </a>
  </li>
- <li>
-  <a href="https://www.reddit.com/r/reactjs/">
-   React Subreddit
-  </a>
- </li>
- <li>
-  <a href="http://reactpodcast.com/">
-   React Podcast
-  </a>
- </li>
- <li>
-  <code>
-   #reactjs
-  </code>
-  channel on Freenode IRC Server
- </li>
 </ul>
 <h4>
  React Online Playground
@@ -565,13 +553,8 @@
   </a>
  </li>
  <li>
-  <a href="http://codepen.io/bradleyboy/pen/OPBpGw">
-   React CodePen Integration with ES6 and JSX
-  </a>
- </li>
- <li>
-  <a href="http://jsbin.com/basitofoqo/1/edit?html,js,output">
-   React JSBin Integration with JSX
+  <a href="https://babeljs.io/repl/">
+   Babel REPL
   </a>
  </li>
  <li>
@@ -598,6 +581,19 @@
   </a>
  </li>
  <li>
+  <a href="http://courses.reactjsprogram.com/courses/reactjsfundamentals">
+   React.js Fundamentals
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mikechau/react-primer-draft">
+   React Primer
+  </a>
+  <sup>
+   &#9733 3610, pushed 189 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component">
    ReactJS: Keep Simple. Everything can be a component!
   </a>
@@ -607,20 +603,7 @@
    React.js Koans: Practical exercises that will help you learn React.js from square one
   </a>
   <sup>
-   &#9733 2619, pushed 10 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.stanleycyang.com/tutorials/the-reactjs-bible">
-   The ReactJS Bible
-  </a>
- </li>
- <li>
-  <a href="https://github.com/mikechau/react-primer-draft">
-   React Primer
-  </a>
-  <sup>
-   &#9733 3610, pushed 64 days ago
+   &#9733 2619, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -629,8 +612,18 @@
   </a>
  </li>
  <li>
-  <a href="http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/">
-   Boiling React Down to a Few Lines of jQuery
+  <a href="https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b">
+   LearnCode React Tutorials
+  </a>
+ </li>
+ <li>
+  <a href="https://thinkster.io/topics/react">
+   Thinkster React topics
+  </a>
+ </li>
+ <li>
+  <a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">
+   React tutorial - Cloning Yelp
   </a>
  </li>
  <li>
@@ -638,102 +631,12 @@
    Learn React by building the Hacker News front page
   </a>
   <sup>
-   &#9733 290, pushed 15 days ago
+   &#9733 290, pushed 140 days ago
   </sup>
  </li>
  <li>
-  <a href="https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750">
-   Mixins Are Dead. Long Live Composition
-  </a>
- </li>
- <li>
-  <a href="https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f">
-   The Future of Drag and Drop APIs
-  </a>
- </li>
- <li>
-  <a href="https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459">
-   A gentle introduction to React Motion
-  </a>
- </li>
- <li>
-  <a href="http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/">
-   Building Isomorphic Webapps on the JVM with React.js and Spring Boot
-  </a>
- </li>
-</ul>
-<h5>
- Building robust web apps with React
-</h5>
-<ul>
- <li>
-  <a href="http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html">
-   Building robust web apps with React: Part 1
-  </a>
- </li>
- <li>
-  <a href="http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html">
-   Building robust web apps with React: Part 2
-  </a>
- </li>
- <li>
-  <a href="http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html">
-   Building robust web apps with React: Part 3
-  </a>
- </li>
- <li>
-  <a href="http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html">
-   Building robust web apps with React: Part 4
-  </a>
- </li>
-</ul>
-<h5>
- Comprehensive Guide to Building Apps with React
-</h5>
-<ul>
- <li>
-  <a href="http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/">
-   Part 1 - Comprehensive Guide to Building Apps with React
-  </a>
- </li>
- <li>
-  <a href="http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/">
-   Part 2 - Building React Applications with Gulp and Browserify
-  </a>
- </li>
- <li>
-  <a href="http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/">
-   Part 3 - Architecting React.js Apps with Flux
-  </a>
- </li>
-</ul>
-<h5>
- Scotch.io React tutorials series
-</h5>
-<ul>
- <li>
-  <a href="https://scotch.io/tutorials/learning-react-getting-started-and-concepts">
-   Learning React.js: Getting Started and Concepts
-  </a>
- </li>
- <li>
-  <a href="https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js">
-   Build A Real-Time Twitter Stream with Node and React.js
-  </a>
- </li>
- <li>
-  <a href="https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture">
-   Getting To Know Flux, the React.js Architecture
-  </a>
- </li>
- <li>
-  <a href="https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux">
-   Creating A Simple Shopping Cart with React.js and Flux
-  </a>
- </li>
- <li>
-  <a href="https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes">
-   Make a Mobile App with ReactJS in 30 Minutes
+  <a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns">
+   React.js in patterns
   </a>
  </li>
 </ul>
@@ -747,11 +650,19 @@
   </a>
  </li>
  <li>
+  <a href="https://github.com/MicheleBertoli/css-in-js">
+   React: CSS in JS techniques comparison
+  </a>
+  <sup>
+   &#9733 673, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://github.com/FormidableLabs/radium">
    Radium
   </a>
   <sup>
-   &#9733 3371, pushed 2 days ago
+   &#9733 3371, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -759,58 +670,16 @@
    jsxstyle
   </a>
   <sup>
-   &#9733 1103, pushed 27 days ago
+   &#9733 1103, pushed 152 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/js-next/react-style">
-   React Style
-  </a>
-  <sup>
-   &#9733 1541, pushed 80 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/martinandert/react-inline">
-   React Inline
-  </a>
-  <sup>
-   &#9733 390, pushed 151 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://glenmaddern.com/articles/interoperable-css">
-   Interoperable CSS
-  </a>
  </li>
  <li>
   <a href="https://github.com/casesandberg/reactcss">
    ReactCSS
   </a>
   <sup>
-   &#9733 990, pushed 4 days ago
+   &#9733 990, pushed 128 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/maxguzenski/react-easy-style">
-   React Easy Style
-  </a>
-  <sup>
-   &#9733 74, pushed 151 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/MicheleBertoli/css-in-js">
-   React: CSS in JS techniques comparison
-  </a>
-  <sup>
-   &#9733 673, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284">
-   The End of Global CSS
-  </a>
  </li>
 </ul>
 <h5>
@@ -833,23 +702,18 @@
 </h5>
 <ul>
  <li>
+  <a href="http://guide.meteor.com/react.html">
+   Meteor official Guide
+  </a>
+ </li>
+ <li>
+  <a href="https://www.meteor.com/tutorials/react/creating-an-app">
+   Meteor with React Tutorial
+  </a>
+ </li>
+ <li>
   <a href="http://blog.differential.com/react-for-meteor-developers/">
    React for Meteor developers
-  </a>
- </li>
-</ul>
-<h5>
- React and Backbone
-</h5>
-<ul>
- <li>
-  <a href="http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html">
-   Using React components as Backbone Views
-  </a>
- </li>
- <li>
-  <a href="https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone">
-   Chicago Backbone Meetup: React + Backbone slides
   </a>
  </li>
 </ul>
@@ -928,7 +792,7 @@
 </h5>
 <ul>
  <li>
-  <a href="http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/">
+  <a href="http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs">
    The Future of JavaScript MVC Frameworks
   </a>
  </li>
@@ -942,7 +806,7 @@
    A Reagent Framework For Writing SPAs
   </a>
   <sup>
-   &#9733 1520, pushed 23 days ago
+   &#9733 1520, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -960,7 +824,7 @@
    React patterns - Mostly reasonable patterns for writing React in CoffeeScript
   </a>
   <sup>
-   &#9733 806, pushed 116 days ago
+   &#9733 806, pushed 241 days ago
   </sup>
  </li>
 </ul>
@@ -973,7 +837,7 @@
    React and Datatables
   </a>
   <sup>
-   &#9733 4, pushed 112 days ago
+   &#9733 4, pushed 236 days ago
   </sup>
  </li>
 </ul>
@@ -991,7 +855,7 @@
    stackage-view, built with Yesod and GHCJS+React
   </a>
   <sup>
-   &#9733 19, pushed 199 days ago
+   &#9733 19, pushed 324 days ago
   </sup>
  </li>
  <li>
@@ -999,7 +863,7 @@
    TodoMVC example with Shade (Haste+React)
   </a>
   <sup>
-   &#9733 10, pushed 677 days ago
+   &#9733 10, pushed 802 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +886,7 @@
   </a>
   )
   <sup>
-   &#9733 89, pushed 141 days ago
+   &#9733 89, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -1035,7 +899,7 @@
   </a>
   )
   <sup>
-   &#9733 160, pushed 44 days ago
+   &#9733 160, pushed 169 days ago
   </sup>
  </li>
 </ul>
@@ -1088,7 +952,7 @@
    Super-basic example of how server rendering works
   </a>
   <sup>
-   &#9733 166, pushed 142 days ago
+   &#9733 166, pushed 267 days ago
   </sup>
  </li>
  <li>
@@ -1101,7 +965,7 @@
    React Server Rendering
   </a>
   <sup>
-   &#9733 1065, pushed 24 days ago
+   &#9733 1065, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1129,7 +993,7 @@
    Server-rendered React + Flux in Rails
   </a>
   <sup>
-   &#9733 109, pushed 380 days ago
+   &#9733 109, pushed 505 days ago
   </sup>
  </li>
  <li>
@@ -1137,7 +1001,7 @@
    Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit
   </a>
   <sup>
-   &#9733 906, pushed 4 days ago
+   &#9733 906, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1145,7 +1009,7 @@
    Serverside rendering with React + Hapi
   </a>
   <sup>
-   &#9733 105, pushed 22 days ago
+   &#9733 105, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1163,7 +1027,7 @@
    Webpack Howto by Pete Hunt
   </a>
   <sup>
-   &#9733 6379, pushed 14 days ago
+   &#9733 6379, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1171,7 +1035,7 @@
    React Webpack Cookbook
   </a>
   <sup>
-   &#9733 26, pushed 31 days ago
+   &#9733 26, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -1179,7 +1043,7 @@
    AMD and CommonJS examples with Webpack
   </a>
   <sup>
-   &#9733 5, pushed 546 days ago
+   &#9733 5, pushed 671 days ago
   </sup>
  </li>
  <li>
@@ -1211,6 +1075,14 @@
   <a href="http://www.garysieling.com/blog/trace-logging-react">
    Trace Logging with React
   </a>
+ </li>
+ <li>
+  <a href="https://github.com/skellock/reactotron">
+   Reactotron: Control, monitor, and instrument
+  </a>
+  <sup>
+   &#9733 1354, pushed 127 days ago
+  </sup>
  </li>
 </ul>
 <h5>
@@ -1247,98 +1119,51 @@
    react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API
   </a>
   <sup>
-   &#9733 35, pushed 184 days ago
+   &#9733 35, pushed 309 days ago
   </sup>
- </li>
-</ul>
-<h5>
- React Internals
-</h5>
-<ul>
- <li>
-  <a href="http://calendar.perfplanet.com/2013/diff/">
-   React’s diff algorithm
-  </a>
- </li>
- <li>
-  <a href="http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf">
-   An Optimal Decomposition Algorithm for Tree Edit Distance
-  </a>
  </li>
 </ul>
 <h4>
  React Tools
 </h4>
 <h5>
- Fundamental React Tools
-</h5>
-<ul>
- <li>
-  <a href="https://babeljs.io/">
-   babel - JavaScript compiler
-  </a>
- </li>
- <li>
-  <a href="https://github.com/rackt/react-router">
-   react-router - A complete routing solution for React.js
-  </a>
- </li>
- <li>
-  <a href="https://github.com/reactjs/redux">
-   redux - Predictable state container for JavaScript apps
-  </a>
-  <sup>
-   &#9733 17710, pushed 2 days ago
-  </sup>
- </li>
-</ul>
-<h5>
- React Projects
-</h5>
-<ul>
- <li>
-  <a href="https://github.com/ipselon/structor">
-   structor - User interface builder for React
-  </a>
-  <sup>
-   &#9733 2985, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gatsbyjs/gatsby">
-   gatsby - Transform plain text into dynamic blogs and websites using React.js
-  </a>
-  <sup>
-   &#9733 2702, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Yomguithereal/react-blessed">
-   react-blessed - A react renderer for blessed terminal interface library
-  </a>
-  <sup>
-   &#9733 1167, pushed 60 days ago
-  </sup>
- </li>
-</ul>
-<h5>
  Boilerplates
 </h5>
 <ul>
  <li>
+  <a href="https://github.com/facebookincubator/create-react-app">
+   Create React App
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/kriasoft/react-app">
+   React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/kriasoft/react-starter-kit">
-   React Starter Kit - a skeleton of an "isomorphic" web application
+   React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)
   </a>
   <sup>
-   &#9733 8040, pushed 3 days ago
+   &#9733 8040, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kriasoft/aspnet-starter-kit">
+   ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/kriasoft/fsharp-starter-kit">
+   ASP.NET Core Starter Kit (F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#
+  </a>
  </li>
  <li>
   <a href="https://github.com/erikras/react-redux-universal-hot-example">
    React Redux Universal Hot Example
   </a>
   <sup>
-   &#9733 5387, pushed 3 days ago
+   &#9733 5387, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1346,7 +1171,7 @@
    React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app
   </a>
   <sup>
-   &#9733 3124, pushed 2 days ago
+   &#9733 3124, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1355,51 +1180,16 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/gaearon/react-transform-boilerplate">
-   react-transform-boilerplate - Webpack boilerplate with hot reloading React components
+  <a href="https://github.com/tj/frontend-boilerplate">
+   frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate
   </a>
-  <sup>
-   &#9733 3149, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pheuter/essential-react">
-   essential-react - A minimal skeleton for building testable React apps using ES6
-  </a>
-  <sup>
-   &#9733 1892, pushed 17 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RickWong/react-isomorphic-starterkit">
-   react-isomorphic-starterkit - somorphic starterkit with server-side React rendering
-  </a>
-  <sup>
-   &#9733 1843, pushed 14 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/webpack/react-starter">
-   react-starter - Starter template for React with webpack
-  </a>
-  <sup>
-   &#9733 2088, pushed 123 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gaearon/react-hot-boilerplate">
-   react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project
-  </a>
-  <sup>
-   &#9733 2080, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/paypal/react-engine">
    react-engine - A composite render engine for isomorphic express apps
   </a>
   <sup>
-   &#9733 886, pushed 3 days ago
+   &#9733 886, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1407,7 +1197,7 @@
    react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux
   </a>
   <sup>
-   &#9733 1012, pushed 2 days ago
+   &#9733 1012, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1415,19 +1205,71 @@
    react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code
   </a>
   <sup>
-   &#9733 2696, pushed 7 days ago
+   &#9733 2696, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/FredericHeem/starhackit">
+   StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/unimonkiez/react-cordova-boilerplate">
+   react-cordova-boilerplate - TodoMVC example for React to build a Cordova application
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/codefoundries/UniversalRelayBoilerplate">
+   UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra
+  </a>
+  <sup>
+   &#9733 12, pushed 124 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ Routing
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/reactjs/react-router">
+   react-router - A complete routing library for React
+  </a>
+  <sup>
+   &#9733 12599, pushed 126 days ago
+  </sup>
+ </li>
+</ul>
+<h5>
+ React Projects
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/gatsbyjs/gatsby">
+   gatsby - Transform plain text into dynamic blogs and websites using React.js
+  </a>
+  <sup>
+   &#9733 2702, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Yomguithereal/react-blessed">
+   react-blessed - A react renderer for blessed terminal interface library
+  </a>
+  <sup>
+   &#9733 1167, pushed 185 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://mjml.io">
+   MJML - The only framework that makes responsive-email easy. Based on React
+  </a>
  </li>
 </ul>
 <h5>
  Components
 </h5>
 <ul>
- <li>
-  <a href="http://react-components.com/">
-   React Components
-  </a>
- </li>
  <li>
   <a href="http://dvemac.github.io/react-component-list/">
    React Component List
@@ -1436,6 +1278,11 @@
  <li>
   <a href="http://react.parts/">
    React.parts - A catalog of React components
+  </a>
+ </li>
+ <li>
+  <a href="http://ireact.cn/">
+   iReact: Fantastic React Components and Libraries!
   </a>
  </li>
  <li>
@@ -1453,7 +1300,7 @@
    React Topcoat UI components
   </a>
   <sup>
-   &#9733 81, pushed 335 days ago
+   &#9733 81, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -1466,23 +1313,53 @@
    material-ui - A CSS Framework and a Set of React Components for Material Design
   </a>
   <sup>
-   &#9733 15878, pushed 2 days ago
+   &#9733 15878, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kennetpostigo/react-google-login-component">
+   react-google-login-component
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/kennetpostigo/react-facebook-login-component">
+   react-facebook-login-component
+  </a>
+ </li>
+ <li>
+  <a href="http://react-component.github.io/badgeboard/">
+   react-component - A Collection of React UI Components
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/ant-design/ant-design">
+   Ant Design - An enterprise-class UI design language and React-based implementation
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/uxcore/uxcore">
+   UXCore - A React UI Component Set living for enterprise backend application
+  </a>
  </li>
  <li>
   <a href="https://github.com/gabrielbull/react-desktop">
    react-desktop - OS X and Windows UI components built with React
   </a>
   <sup>
-   &#9733 4491, pushed 19 days ago
+   &#9733 4491, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gabrielbull/react-aim">
+   react-aim - Determine the cursor aim for triggering mouse events
+  </a>
  </li>
  <li>
   <a href="https://github.com/petehunt/react-touch">
    react-touch - React photo viewer for mobile
   </a>
   <sup>
-   &#9733 408, pushed 142 days ago
+   &#9733 408, pushed 267 days ago
   </sup>
  </li>
  <li>
@@ -1495,7 +1372,7 @@
    react-grid - Data grid for React
   </a>
   <sup>
-   &#9733 65, pushed 306 days ago
+   &#9733 65, pushed 431 days ago
   </sup>
  </li>
  <li>
@@ -1503,7 +1380,7 @@
    React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons
   </a>
   <sup>
-   &#9733 76, pushed 6 days ago
+   &#9733 76, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1511,7 +1388,7 @@
    react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React
   </a>
   <sup>
-   &#9733 460, pushed 4 days ago
+   &#9733 460, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1519,7 +1396,7 @@
    react-async - Async rendering for React components
   </a>
   <sup>
-   &#9733 395, pushed 311 days ago
+   &#9733 395, pushed 436 days ago
   </sup>
  </li>
  <li>
@@ -1527,15 +1404,20 @@
    react-async-input - Inputs that behave properly with async set{State,Props} calls
   </a>
   <sup>
-   &#9733 5, pushed 420 days ago
+   &#9733 5, pushed 545 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/glennreyes/react-countup">
+   react-countup - A React component wrapper around CountUp.js
+  </a>
  </li>
  <li>
   <a href="https://github.com/matthewwithanm/react-mediaswitch">
    react-mediaswitch - Choose your DOM based on media queries
   </a>
   <sup>
-   &#9733 53, pushed 76 days ago
+   &#9733 53, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1543,7 +1425,7 @@
    react-frame-component - Render your React app to an iFrame
   </a>
   <sup>
-   &#9733 160, pushed 6 days ago
+   &#9733 160, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1551,7 +1433,7 @@
    react-gravatar - React component for rendering a gravatar profile image
   </a>
   <sup>
-   &#9733 46, pushed 4 days ago
+   &#9733 46, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1559,7 +1441,7 @@
    markdown-react - React Render for Standard Markdown
   </a>
   <sup>
-   &#9733 44, pushed 608 days ago
+   &#9733 44, pushed 732 days ago
   </sup>
  </li>
  <li>
@@ -1567,7 +1449,7 @@
    react-component-gallery — React component for creating an evenly spaced components
   </a>
   <sup>
-   &#9733 62, pushed 316 days ago
+   &#9733 62, pushed 440 days ago
   </sup>
  </li>
  <li>
@@ -1575,7 +1457,7 @@
    react-markdown-textarea - Component to create textareas for entering Markdown
   </a>
   <sup>
-   &#9733 92, pushed 128 days ago
+   &#9733 92, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -1583,7 +1465,7 @@
    react-markdown-area - Github flavored markdown editor with live preview
   </a>
   <sup>
-   &#9733 25, pushed 120 days ago
+   &#9733 25, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -1591,7 +1473,7 @@
    react-textarea-autosize - Textarea component for React which grows with content
   </a>
   <sup>
-   &#9733 261, pushed 4 days ago
+   &#9733 261, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1599,7 +1481,7 @@
    react-spinner - Zero configuration loading spinner
   </a>
   <sup>
-   &#9733 82, pushed 15 days ago
+   &#9733 82, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1607,7 +1489,7 @@
    react-treeview - Easy, light, flexible tree view made with React
   </a>
   <sup>
-   &#9733 413, pushed 15 days ago
+   &#9733 413, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1615,7 +1497,7 @@
    react-tree-menu - A stateless tree menu component built with the Flux architecture in mind
   </a>
   <sup>
-   &#9733 75, pushed 85 days ago
+   &#9733 75, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -1623,7 +1505,7 @@
    react-tween-state - React animation tween state
   </a>
   <sup>
-   &#9733 1407, pushed 5 days ago
+   &#9733 1407, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1631,7 +1513,7 @@
    react-stripe-checkout - Easily load Stripe Checkout as a React component
   </a>
   <sup>
-   &#9733 92, pushed 43 days ago
+   &#9733 92, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -1644,7 +1526,7 @@
    react-smart-time-ago - Show relative "time ago" dates
   </a>
   <sup>
-   &#9733 17, pushed 482 days ago
+   &#9733 17, pushed 607 days ago
   </sup>
  </li>
  <li>
@@ -1655,7 +1537,7 @@
    </time>
   </a>
   <sup>
-   &#9733 13, pushed 161 days ago
+   &#9733 13, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -1665,7 +1547,7 @@
    </time>
   </a>
   <sup>
-   &#9733 109, pushed 24 days ago
+   &#9733 109, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1673,7 +1555,7 @@
    react-crouton - A message component for reactjs
   </a>
   <sup>
-   &#9733 82, pushed 207 days ago
+   &#9733 82, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -1681,7 +1563,7 @@
    react-ago-component - Renders the approximate time ago in words from a specific past date
   </a>
   <sup>
-   &#9733 13, pushed 119 days ago
+   &#9733 13, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -1689,7 +1571,7 @@
    react-translate-component - Provides multi-lingual/localized text content
   </a>
   <sup>
-   &#9733 179, pushed 41 days ago
+   &#9733 179, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1697,7 +1579,7 @@
    react-lorem-component - Renders lorem ipsum placeholder text
   </a>
   <sup>
-   &#9733 24, pushed 187 days ago
+   &#9733 24, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -1705,7 +1587,7 @@
    react-interpolate-component - Renders elements into a format string
   </a>
   <sup>
-   &#9733 27, pushed 57 days ago
+   &#9733 27, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -1713,7 +1595,7 @@
    react-proxy-loader - Hot Module Replacement and Code Splitting
   </a>
   <sup>
-   &#9733 156, pushed 49 days ago
+   &#9733 156, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1721,7 +1603,7 @@
    RCSS - Turn your JavaScript objects into CSS classes
   </a>
   <sup>
-   &#9733 276, pushed 179 days ago
+   &#9733 276, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -1729,7 +1611,7 @@
    ReactiveElements - Allows to use React.js component as HTML element
   </a>
   <sup>
-   &#9733 472, pushed 12 days ago
+   &#9733 472, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1737,7 +1619,7 @@
    react-chosen - React wrapper for Chosen jQuery
   </a>
   <sup>
-   &#9733 76, pushed 153 days ago
+   &#9733 76, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -1745,7 +1627,7 @@
    react-inlinesvg - An SVG loader component for React
   </a>
   <sup>
-   &#9733 158, pushed 14 days ago
+   &#9733 158, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1753,7 +1635,7 @@
    react-imageloader - A React component for wrangling image loading
   </a>
   <sup>
-   &#9733 180, pushed 2 days ago
+   &#9733 180, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1761,7 +1643,7 @@
    expose - A React mixin for lazy loading
   </a>
   <sup>
-   &#9733 1, pushed 232 days ago
+   &#9733 1, pushed 357 days ago
   </sup>
  </li>
  <li>
@@ -1769,7 +1651,7 @@
    react-loadqueueloader - A React component for managing loads with a load queue
   </a>
   <sup>
-   &#9733 8, pushed 652 days ago
+   &#9733 8, pushed 777 days ago
   </sup>
  </li>
  <li>
@@ -1777,15 +1659,7 @@
    react-loadermixin - A React mixin for giving components loading behavior
   </a>
   <sup>
-   &#9733 10, pushed 579 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hzdg/react-controlfacades">
-   react-controlfacades - Style form controls but use their default behavior
-  </a>
-  <sup>
-   &#9733 11, pushed 180 days ago
+   &#9733 10, pushed 704 days ago
   </sup>
  </li>
  <li>
@@ -1793,7 +1667,7 @@
    react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events
   </a>
   <sup>
-   &#9733 12, pushed 300 days ago
+   &#9733 12, pushed 424 days ago
   </sup>
  </li>
  <li>
@@ -1801,7 +1675,7 @@
    react-google-analytics - Google analytics component
   </a>
   <sup>
-   &#9733 59, pushed 357 days ago
+   &#9733 59, pushed 482 days ago
   </sup>
  </li>
  <li>
@@ -1809,7 +1683,7 @@
    react-layers - A library for layering components in React
   </a>
   <sup>
-   &#9733 46, pushed 602 days ago
+   &#9733 46, pushed 727 days ago
   </sup>
  </li>
  <li>
@@ -1817,7 +1691,7 @@
    react-gcal-events-list - A Reusable component that pulls events from your google calendar
   </a>
   <sup>
-   &#9733 6, pushed 690 days ago
+   &#9733 6, pushed 815 days ago
   </sup>
  </li>
  <li>
@@ -1825,7 +1699,7 @@
    reactdi - Dependency injection for ReactJS components
   </a>
   <sup>
-   &#9733 27, pushed 804 days ago
+   &#9733 27, pushed 929 days ago
   </sup>
  </li>
  <li>
@@ -1836,7 +1710,7 @@
    component for use with React
   </a>
   <sup>
-   &#9733 97, pushed 20 days ago
+   &#9733 97, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1844,7 +1718,7 @@
    react-swf - Shockwave Flash Player component for React
   </a>
   <sup>
-   &#9733 29, pushed 50 days ago
+   &#9733 29, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1852,7 +1726,7 @@
    react-unmount-listener-mixin - React mixin for listenable componentWillUnmount
   </a>
   <sup>
-   &#9733 2, pushed 620 days ago
+   &#9733 2, pushed 745 days ago
   </sup>
  </li>
  <li>
@@ -1860,7 +1734,7 @@
    react-sortable - A sortable list component built \w React
   </a>
   <sup>
-   &#9733 281, pushed 5 days ago
+   &#9733 281, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1868,7 +1742,7 @@
    react-anything-sortable - A sortable component with IE8 compatibility
   </a>
   <sup>
-   &#9733 162, pushed 1 days ago
+   &#9733 162, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1876,7 +1750,7 @@
    react-controllables - Easily create controllable components
   </a>
   <sup>
-   &#9733 190, pushed 260 days ago
+   &#9733 190, pushed 384 days ago
   </sup>
  </li>
  <li>
@@ -1887,7 +1761,7 @@
    </datalist>
   </a>
   <sup>
-   &#9733 23, pushed 187 days ago
+   &#9733 23, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -1895,7 +1769,7 @@
    react-pad - Authoring tool for React components
   </a>
   <sup>
-   &#9733 2, pushed 894 days ago
+   &#9733 2, pushed 1019 days ago
   </sup>
  </li>
  <li>
@@ -1903,7 +1777,7 @@
    ogre.js - Object graph manager, built with ReactJS in mind
   </a>
   <sup>
-   &#9733 4, pushed 449 days ago
+   &#9733 4, pushed 573 days ago
   </sup>
  </li>
  <li>
@@ -1911,7 +1785,7 @@
    react-scroll-components - A set of components that react to page scrolling
   </a>
   <sup>
-   &#9733 93, pushed 251 days ago
+   &#9733 93, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -1919,7 +1793,7 @@
    react-fullscreen-component - Create fullscreen toggles
   </a>
   <sup>
-   &#9733 21, pushed 329 days ago
+   &#9733 21, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -1927,7 +1801,7 @@
    react-frozenhead - Make your whole page a React component and render it on the server
   </a>
   <sup>
-   &#9733 49, pushed 475 days ago
+   &#9733 49, pushed 599 days ago
   </sup>
  </li>
  <li>
@@ -1935,7 +1809,7 @@
    react-document-title - declarative, nested, stateful document.title
   </a>
   <sup>
-   &#9733 488, pushed 50 days ago
+   &#9733 488, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1943,7 +1817,7 @@
    react-tags - A simple wrapper around React.DOM
   </a>
   <sup>
-   &#9733 5, pushed 827 days ago
+   &#9733 5, pushed 952 days ago
   </sup>
  </li>
  <li>
@@ -1951,7 +1825,7 @@
    react-datepicker by @misino - Datepicker component for application using Facebook React
   </a>
   <sup>
-   &#9733 17, pushed 709 days ago
+   &#9733 17, pushed 834 days ago
   </sup>
  </li>
  <li>
@@ -1959,23 +1833,7 @@
    react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React
   </a>
   <sup>
-   &#9733 538, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/hedgerwang/react-styles">
-   react-styles - Utility to manage styles for React JS components
-  </a>
-  <sup>
-   &#9733 52, pushed 948 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/andreypopp/react-stylesheet">
-   react-stylesheet - A component for React to declare stylesheet dependencies
-  </a>
-  <sup>
-   &#9733 43, pushed 27 days ago
+   &#9733 538, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1983,7 +1841,7 @@
    react-table-sorter-demo - A React.js Table Sorter Component
   </a>
   <sup>
-   &#9733 95, pushed 852 days ago
+   &#9733 95, pushed 976 days ago
   </sup>
  </li>
  <li>
@@ -1996,7 +1854,7 @@
    react-input-placeholder - Input is a small wrapper around React.DOM.input
   </a>
   <sup>
-   &#9733 21, pushed 208 days ago
+   &#9733 21, pushed 333 days ago
   </sup>
  </li>
  <li>
@@ -2004,7 +1862,7 @@
    react-infinite-scroll - An infinite scroll component for React
   </a>
   <sup>
-   &#9733 276, pushed 119 days ago
+   &#9733 276, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -2012,7 +1870,7 @@
    react-ellipsis - Ellipsis component for React
   </a>
   <sup>
-   &#9733 8, pushed 315 days ago
+   &#9733 8, pushed 439 days ago
   </sup>
  </li>
  <li>
@@ -2020,7 +1878,7 @@
    react-pillbox - Pillbox component for React
   </a>
   <sup>
-   &#9733 2, pushed 627 days ago
+   &#9733 2, pushed 752 days ago
   </sup>
  </li>
  <li>
@@ -2028,7 +1886,7 @@
    react-intl - React Internationalization Component
   </a>
   <sup>
-   &#9733 2191, pushed 0 days ago
+   &#9733 2191, pushed 124 days ago
   </sup>
  </li>
  <li>
@@ -2046,7 +1904,7 @@
    react-ladda - React wrapper for Ladda buttons
   </a>
   <sup>
-   &#9733 133, pushed 22 days ago
+   &#9733 133, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2054,7 +1912,7 @@
    react-list - A versatile infinite scroll React component
   </a>
   <sup>
-   &#9733 486, pushed 19 days ago
+   &#9733 486, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -2062,7 +1920,7 @@
    olay-react - Olay implemented as a React component
   </a>
   <sup>
-   &#9733 8, pushed 15 days ago
+   &#9733 8, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2070,7 +1928,7 @@
    reactable - Fast, flexible, and simple data tables in React
   </a>
   <sup>
-   &#9733 847, pushed 4 days ago
+   &#9733 847, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2083,7 +1941,7 @@
    react-simpletabs - Just a simple tabs component
   </a>
   <sup>
-   &#9733 130, pushed 162 days ago
+   &#9733 130, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -2091,7 +1949,7 @@
    react-draggable - React draggable component
   </a>
   <sup>
-   &#9733 700, pushed 13 days ago
+   &#9733 700, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2099,7 +1957,7 @@
    react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control
   </a>
   <sup>
-   &#9733 2924, pushed 6 days ago
+   &#9733 2924, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2110,7 +1968,7 @@
    component for React-based apps
   </a>
   <sup>
-   &#9733 238, pushed 7 days ago
+   &#9733 238, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2118,7 +1976,7 @@
    js-object-to-table - JavaScript objects drawing themselves into a table using React
   </a>
   <sup>
-   &#9733 4, pushed 619 days ago
+   &#9733 4, pushed 744 days ago
   </sup>
  </li>
  <li>
@@ -2126,7 +1984,7 @@
    react-kaomoji - A React component for displaying Japanese emoticons
   </a>
   <sup>
-   &#9733 1, pushed 622 days ago
+   &#9733 1, pushed 746 days ago
   </sup>
  </li>
  <li>
@@ -2134,7 +1992,7 @@
    react-calendar - Calendar that inspired by React philosophy
   </a>
   <sup>
-   &#9733 8, pushed 779 days ago
+   &#9733 8, pushed 904 days ago
   </sup>
  </li>
  <li>
@@ -2142,7 +2000,7 @@
    react-element-pan - React component for allowing panning of DOM-elements
   </a>
   <sup>
-   &#9733 26, pushed 132 days ago
+   &#9733 26, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -2150,7 +2008,7 @@
    react-anchor - Functional factory to create react anchor components
   </a>
   <sup>
-   &#9733 3, pushed 561 days ago
+   &#9733 3, pushed 686 days ago
   </sup>
  </li>
  <li>
@@ -2158,7 +2016,7 @@
    react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)
   </a>
   <sup>
-   &#9733 163, pushed 14 days ago
+   &#9733 163, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2166,7 +2024,7 @@
    react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap
   </a>
   <sup>
-   &#9733 232, pushed 12 days ago
+   &#9733 232, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2174,7 +2032,7 @@
    react-bootstrap-multiselect - A multiselect component for react (with bootstrap)
   </a>
   <sup>
-   &#9733 49, pushed 21 days ago
+   &#9733 49, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2182,7 +2040,7 @@
    react-colorpicker - Colorpicker for React
   </a>
   <sup>
-   &#9733 62, pushed 331 days ago
+   &#9733 62, pushed 456 days ago
   </sup>
  </li>
  <li>
@@ -2195,7 +2053,7 @@
    react-layout - Dynamic subview layout for React
   </a>
   <sup>
-   &#9733 59, pushed 63 days ago
+   &#9733 59, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -2203,7 +2061,7 @@
    react-weather - Example React weather app using forecast.io's API
   </a>
   <sup>
-   &#9733 66, pushed 231 days ago
+   &#9733 66, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -2211,7 +2069,7 @@
    react-sparkline - React component for rendering simple sparklines
   </a>
   <sup>
-   &#9733 92, pushed 207 days ago
+   &#9733 92, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2077,7 @@
    react-component-width-mixin - React mixin which sets width
   </a>
   <sup>
-   &#9733 26, pushed 78 days ago
+   &#9733 26, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -2227,7 +2085,7 @@
    react-micro-bar-chart - React component for micro bar-charts rendered with D3
   </a>
   <sup>
-   &#9733 69, pushed 207 days ago
+   &#9733 69, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -2235,7 +2093,7 @@
    react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only
   </a>
   <sup>
-   &#9733 6, pushed 28 days ago
+   &#9733 6, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -2243,7 +2101,7 @@
    react-infinity - A UITableView Inspired list and grid display
   </a>
   <sup>
-   &#9733 319, pushed 6 days ago
+   &#9733 319, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2251,15 +2109,7 @@
    react-timeago - A simple time-ago component for React
   </a>
   <sup>
-   &#9733 155, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/nmn/react-stylePrefixr">
-   react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes
-  </a>
-  <sup>
-   &#9733 46, pushed 474 days ago
+   &#9733 155, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2267,15 +2117,7 @@
    react-spinkit - A collection of loading indicators animated with CSS for React
   </a>
   <sup>
-   &#9733 208, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/KyleAMathews/react-html-elements-styleguide">
-   react-html-elements-styleguide -React styleguide component
-  </a>
-  <sup>
-   &#9733 5, pushed 609 days ago
+   &#9733 208, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2283,7 +2125,7 @@
    react.animate - State animation plugin for react.js
   </a>
   <sup>
-   &#9733 164, pushed 243 days ago
+   &#9733 164, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -2291,7 +2133,7 @@
    react-animate - React animation mixin
   </a>
   <sup>
-   &#9733 246, pushed 76 days ago
+   &#9733 246, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2299,7 +2141,7 @@
    react-star-rating-input - React.js component for entering 0-5 stars
   </a>
   <sup>
-   &#9733 26, pushed 95 days ago
+   &#9733 26, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -2312,7 +2154,7 @@
    react-data-components - React components and mixins for manipulating data
   </a>
   <sup>
-   &#9733 165, pushed 165 days ago
+   &#9733 165, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -2320,7 +2162,7 @@
    react-number-editor - Number editor (textfield) component for react
   </a>
   <sup>
-   &#9733 39, pushed 5 days ago
+   &#9733 39, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2328,7 +2170,7 @@
    react-localstorage - Simple localstorage mixin for react
   </a>
   <sup>
-   &#9733 158, pushed 97 days ago
+   &#9733 158, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -2336,7 +2178,7 @@
    react-sortable-data React Mixin to sort data easily
   </a>
   <sup>
-   &#9733 9, pushed 382 days ago
+   &#9733 9, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -2349,7 +2191,7 @@
    react-select - Rich Select Component
   </a>
   <sup>
-   &#9733 3342, pushed 2 days ago
+   &#9733 3342, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2357,7 +2199,7 @@
    react-video - React component to load video from Vimeo or Youtube
   </a>
   <sup>
-   &#9733 120, pushed 146 days ago
+   &#9733 120, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -2365,7 +2207,7 @@
    react-captcha - A react.js reCAPTCHA for Google
   </a>
   <sup>
-   &#9733 33, pushed 4 days ago
+   &#9733 33, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2373,7 +2215,7 @@
    react-cassette-player - Vector-based HTML5 Audio Player
   </a>
   <sup>
-   &#9733 68, pushed 23 days ago
+   &#9733 68, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2381,7 +2223,7 @@
    react-tagsinput - A simple react component for inputing tags.
   </a>
   <sup>
-   &#9733 399, pushed 10 days ago
+   &#9733 399, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2389,7 +2231,7 @@
    react-autolink - An autolink mixin for React
   </a>
   <sup>
-   &#9733 22, pushed 170 days ago
+   &#9733 22, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -2397,7 +2239,7 @@
    react-emoji - An emoji mixin for React
   </a>
   <sup>
-   &#9733 81, pushed 31 days ago
+   &#9733 81, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -2405,7 +2247,7 @@
    react-portal - A transportation of (not just) modals and lightboxes to document.body
   </a>
   <sup>
-   &#9733 337, pushed 4 days ago
+   &#9733 337, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2413,15 +2255,20 @@
    react-hotkeys - Declarative hotkey and focus area management for React
   </a>
   <sup>
-   &#9733 324, pushed 8 days ago
+   &#9733 324, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/adazzle/react-data-grid">
+   react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste
+  </a>
  </li>
  <li>
   <a href="https://github.com/zippyui/react-datagrid">
    react-datagrid - A carefully crafted DataGrid for React
   </a>
   <sup>
-   &#9733 659, pushed 4 days ago
+   &#9733 659, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2429,15 +2276,7 @@
    react-panels - A multipurpose tabbed panel with many features
   </a>
   <sup>
-   &#9733 67, pushed 345 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ryanflorence/react-magic-move">
-   react-magic-move - A utility that creates the effect of moving DOM nodes, based upon portals
-  </a>
-  <sup>
-   &#9733 398, pushed 43 days ago
+   &#9733 67, pushed 469 days ago
   </sup>
  </li>
  <li>
@@ -2455,7 +2294,7 @@
    react-input-color - React input color component with hsv color picker
   </a>
   <sup>
-   &#9733 109, pushed 165 days ago
+   &#9733 109, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -2463,7 +2302,7 @@
    react-medium-editor - React wrapper for medium-editor
   </a>
   <sup>
-   &#9733 173, pushed 21 days ago
+   &#9733 173, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2471,7 +2310,7 @@
    react-progress-label - Progress label component
   </a>
   <sup>
-   &#9733 38, pushed 167 days ago
+   &#9733 38, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -2479,15 +2318,20 @@
    react-input-slider - React input slider component
   </a>
   <sup>
-   &#9733 16, pushed 32 days ago
+   &#9733 16, pushed 157 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jpuri/react-range-slider">
+   react-range-slider - Collection of react slider components
+  </a>
  </li>
  <li>
   <a href="https://github.com/pqx/react-ui-tree">
    react-ui-tree - React tree component with drag and drop support
   </a>
   <sup>
-   &#9733 208, pushed 112 days ago
+   &#9733 208, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -2495,15 +2339,7 @@
    react-frame - React components within an iframe for isolated css styling
   </a>
   <sup>
-   &#9733 16, pushed 111 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/broucz/react-inline-grid">
-   react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js
-  </a>
-  <sup>
-   &#9733 137, pushed 115 days ago
+   &#9733 16, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -2516,7 +2352,7 @@
    react-scrollbar - Simple ScrollArea component built for React
   </a>
   <sup>
-   &#9733 83, pushed 28 days ago
+   &#9733 83, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -2524,7 +2360,7 @@
    react-experiments - Implement A/B tests with randomized parameterizations of your components
   </a>
   <sup>
-   &#9733 155, pushed 18 days ago
+   &#9733 155, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2532,7 +2368,7 @@
    react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks
   </a>
   <sup>
-   &#9733 21, pushed 76 days ago
+   &#9733 21, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2540,7 +2376,7 @@
    react-resizable-box - Resizable component for React
   </a>
   <sup>
-   &#9733 19, pushed 19 days ago
+   &#9733 19, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2548,7 +2384,7 @@
    react-ios-switch - React switch component
   </a>
   <sup>
-   &#9733 31, pushed 10 days ago
+   &#9733 31, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2556,7 +2392,7 @@
    react-listview-sticky-header - Turn listview with section headers that stick to the top
   </a>
   <sup>
-   &#9733 24, pushed 3 days ago
+   &#9733 24, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2564,7 +2400,7 @@
    react-expandable-listview - Create listview with expandable section headers
   </a>
   <sup>
-   &#9733 7, pushed 76 days ago
+   &#9733 7, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2572,7 +2408,7 @@
    react-keydown - Lightweight keydown wrapper for React components
   </a>
   <sup>
-   &#9733 77, pushed 35 days ago
+   &#9733 77, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2580,7 +2416,7 @@
    searchkit  - Components to build user interfaces for elasticsearch
   </a>
   <sup>
-   &#9733 2035, pushed 4 days ago
+   &#9733 2035, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2588,7 +2424,7 @@
    grommet - The most advanced UX framework for enterprise applications
   </a>
   <sup>
-   &#9733 455, pushed 0 days ago
+   &#9733 455, pushed 124 days ago
   </sup>
  </li>
  <li>
@@ -2596,7 +2432,7 @@
    react-resizable-and-movable - Resizable and movable component for React
   </a>
   <sup>
-   &#9733 53, pushed 5 days ago
+   &#9733 53, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2609,7 +2445,7 @@
    react-motion - An spring-based animation library, similar to Rebound.js
   </a>
   <sup>
-   &#9733 4652, pushed 13 days ago
+   &#9733 4652, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2617,7 +2453,7 @@
    react-motion-menu - Motion menu component powered by React Motion
   </a>
   <sup>
-   &#9733 88, pushed 18 days ago
+   &#9733 88, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2625,7 +2461,7 @@
    sweetalert-react - Using sweetalert in React
   </a>
   <sup>
-   &#9733 34, pushed 7 days ago
+   &#9733 34, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2638,7 +2474,7 @@
    react-file-reader-input - Complete control over styling + abstraction from file reading
   </a>
   <sup>
-   &#9733 11, pushed 70 days ago
+   &#9733 11, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -2646,7 +2482,7 @@
    react-sortable-pane - Resizable and sortable pane component for React
   </a>
   <sup>
-   &#9733 70, pushed 10 days ago
+   &#9733 70, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2654,8 +2490,63 @@
    react-DnR - Dragable and Resizable window build with React.js
   </a>
   <sup>
-   &#9733 17, pushed 81 days ago
+   &#9733 17, pushed 206 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mbasso/react-http-request">
+   react-http-request - React component exposes network request functionality
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mbasso/react-https-redirect">
+   react-https-redirect - Force a redirect to HTTPS when not on a local web server
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mbasso/react-browser-detection">
+   react-browser-detection - React component to detect browser
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/text-mask/text-mask">
+   react-text-mask - React input mask
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/jxnblk/rebass">
+   rebass - Configurable React Stateless Functional UI Components
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/hustcc/echarts-for-react">
+   echarts-for-react - baidu Echarts(v3.0) components for React
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/cauealves/react-pagespeed-score">
+   react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/markafoni/react-livestamp">
+   react-livestamp - A simple and html date countdown component for React
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/vutran/react-offcanvas">
+   react-offcanvas - Off-canvas menus for React
+  </a>
+ </li>
+</ul>
+<h5>
+ Containers
+</h5>
+<ul>
+ <li>
+  <a href="https://github.com/LouisBarranqueiro/reapop">
+   Reapop - A React & Redux notifications system
+  </a>
  </li>
 </ul>
 <h5>
@@ -2667,15 +2558,20 @@
    react-magic - Automatically AJAXify plain HTML with the power of React
   </a>
   <sup>
-   &#9733 404, pushed 4 days ago
+   &#9733 404, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.react-toolbox.com">
+   react-toolbox - A set of React components implementing Google's Material Design specification
+  </a>
  </li>
  <li>
   <a href="https://github.com/gcanti/tcomb-react">
    tcomb-react -  Library allowing you to check all the props of your React components
   </a>
   <sup>
-   &#9733 126, pushed 21 days ago
+   &#9733 126, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2688,7 +2584,7 @@
    react-cursor - Functional state management abstraction for use with Facebook React
   </a>
   <sup>
-   &#9733 988, pushed 75 days ago
+   &#9733 988, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -2696,7 +2592,7 @@
    Omniscient.js - Abstracting React components for fast top down render of immutable data
   </a>
   <sup>
-   &#9733 998, pushed 25 days ago
+   &#9733 998, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2714,7 +2610,7 @@
    StateTrooper - Centrally manage state for React applications with CSP
   </a>
   <sup>
-   &#9733 9, pushed 91 days ago
+   &#9733 9, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -2732,7 +2628,7 @@
    Maple.js - Bringing the concept of web-components to React
   </a>
   <sup>
-   &#9733 381, pushed 242 days ago
+   &#9733 381, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -2740,7 +2636,7 @@
    react-i13n - A performant, scalable and pluggable approach to instrumenting your React application
   </a>
   <sup>
-   &#9733 191, pushed 18 days ago
+   &#9733 191, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2748,8 +2644,13 @@
    react-icons - svg react icons of popular icon packs
   </a>
   <sup>
-   &#9733 250, pushed 6 days ago
+   &#9733 250, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Wildhoney/Keo">
+   Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...
+  </a>
  </li>
 </ul>
 <h5>
@@ -2759,6 +2660,11 @@
  <li>
   <a href="http://reactjs.net/">
    ReactJS.NET
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/pauldotknopf/react-aspnet-boilerplate">
+   React ASP.NET Boilerplate
   </a>
  </li>
  <li>
@@ -2776,7 +2682,7 @@
    React Rails
   </a>
   <sup>
-   &#9733 2925, pushed 4 days ago
+   &#9733 2925, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2794,7 +2700,7 @@
    quiescent - A lightweight ClojureScript abstraction over React
   </a>
   <sup>
-   &#9733 528, pushed 1 days ago
+   &#9733 528, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2802,7 +2708,7 @@
    Reagent - A minimalistic ClojureScript interface to React.js
   </a>
   <sup>
-   &#9733 1938, pushed 2 days ago
+   &#9733 1938, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2810,7 +2716,7 @@
    react-haskell - React bindings for Haskell
   </a>
   <sup>
-   &#9733 231, pushed 276 days ago
+   &#9733 231, pushed 400 days ago
   </sup>
  </li>
  <li>
@@ -2818,7 +2724,7 @@
    Express React views
   </a>
   <sup>
-   &#9733 902, pushed 3 days ago
+   &#9733 902, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2826,7 +2732,7 @@
    Express Coffee-React views - render coffee-react on the server
   </a>
   <sup>
-   &#9733 3, pushed 517 days ago
+   &#9733 3, pushed 641 days ago
   </sup>
  </li>
  <li>
@@ -2849,7 +2755,7 @@
    React PHP
   </a>
   <sup>
-   &#9733 590, pushed 58 days ago
+   &#9733 590, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -2857,7 +2763,7 @@
    React Laravel
   </a>
   <sup>
-   &#9733 455, pushed 21 days ago
+   &#9733 455, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2870,7 +2776,7 @@
    Coffee React
   </a>
   <sup>
-   &#9733 419, pushed 16 days ago
+   &#9733 419, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2878,7 +2784,7 @@
    react-coffee - Build React components using natural CoffeeScript syntax
   </a>
   <sup>
-   &#9733 17, pushed 532 days ago
+   &#9733 17, pushed 657 days ago
   </sup>
  </li>
  <li>
@@ -2886,7 +2792,7 @@
    coffee-react-transform - Provides React JSX support for Coffeescript
   </a>
   <sup>
-   &#9733 420, pushed 5 days ago
+   &#9733 420, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2894,7 +2800,7 @@
    sprockets-coffee-react - Sprockets preprocessor for CJSX
   </a>
   <sup>
-   &#9733 85, pushed 16 days ago
+   &#9733 85, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2902,7 +2808,7 @@
    react-kup -  A simple, non-intrusive alternative to jsx for coffeescript
   </a>
   <sup>
-   &#9733 21, pushed 13 days ago
+   &#9733 21, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2910,7 +2816,7 @@
    turbo-react - Combine Turbolinks and React to apply DOM diffs
   </a>
   <sup>
-   &#9733 187, pushed 189 days ago
+   &#9733 187, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -2918,7 +2824,7 @@
    react-bacon - A little module for using React with Bacon.js
   </a>
   <sup>
-   &#9733 116, pushed 244 days ago
+   &#9733 116, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -2926,7 +2832,7 @@
    msx - React's JSX Transformer, tweaked to output calls to Mithril
   </a>
   <sup>
-   &#9733 323, pushed 262 days ago
+   &#9733 323, pushed 387 days ago
   </sup>
  </li>
  <li>
@@ -2934,7 +2840,7 @@
    Backbone React Component
   </a>
   <sup>
-   &#9733 788, pushed 104 days ago
+   &#9733 788, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -2942,15 +2848,20 @@
    react-backbone - Backbone-aware mixins for react
   </a>
   <sup>
-   &#9733 123, pushed 283 days ago
+   &#9733 123, pushed 407 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Volicon/NestedReact/">
+   NestedReact - transparent integration with Backbone Views and NestedTypes models
+  </a>
  </li>
  <li>
   <a href="https://github.com/jhudson8/backbone-reaction">
    backbone-reaction - React, Backbone and then some
   </a>
   <sup>
-   &#9733 18, pushed 523 days ago
+   &#9733 18, pushed 648 days ago
   </sup>
  </li>
  <li>
@@ -2963,7 +2874,7 @@
    reactbone - React extensions for Backbone
   </a>
   <sup>
-   &#9733 40, pushed 629 days ago
+   &#9733 40, pushed 754 days ago
   </sup>
  </li>
  <li>
@@ -2971,7 +2882,7 @@
    backbone-react-ui - React components for use with backbone and backbone paginator
   </a>
   <sup>
-   &#9733 12, pushed 472 days ago
+   &#9733 12, pushed 596 days ago
   </sup>
  </li>
  <li>
@@ -2979,7 +2890,7 @@
    react-events - Declarative managed event bindings for react components
   </a>
   <sup>
-   &#9733 69, pushed 333 days ago
+   &#9733 69, pushed 458 days ago
   </sup>
  </li>
  <li>
@@ -2987,7 +2898,7 @@
    react-mixin-manager - React mixin registration manager
   </a>
   <sup>
-   &#9733 28, pushed 343 days ago
+   &#9733 28, pushed 468 days ago
   </sup>
  </li>
  <li>
@@ -2995,7 +2906,7 @@
    gsap-react-plugin - A GSAP plugin for tweening React.js component state
   </a>
   <sup>
-   &#9733 89, pushed 634 days ago
+   &#9733 89, pushed 759 days ago
   </sup>
  </li>
  <li>
@@ -3003,7 +2914,7 @@
    react-topcoat by @plaxdan - Topcoat CSS components built with the React library
   </a>
   <sup>
-   &#9733 34, pushed 659 days ago
+   &#9733 34, pushed 784 days ago
   </sup>
  </li>
  <li>
@@ -3011,7 +2922,7 @@
    react-topcoat by @arnemart - A collection of React components for Topcoat
   </a>
   <sup>
-   &#9733 8, pushed 575 days ago
+   &#9733 8, pushed 700 days ago
   </sup>
  </li>
  <li>
@@ -3019,7 +2930,7 @@
    reactdown - Write React components using markdown syntax
   </a>
   <sup>
-   &#9733 53, pushed 8 days ago
+   &#9733 53, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3032,7 +2943,7 @@
    jade-react - Compile Jade templates to React.DOM expressions
   </a>
   <sup>
-   &#9733 148, pushed 807 days ago
+   &#9733 148, pushed 932 days ago
   </sup>
  </li>
  <li>
@@ -3040,7 +2951,7 @@
    gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp
   </a>
   <sup>
-   &#9733 23, pushed 794 days ago
+   &#9733 23, pushed 919 days ago
   </sup>
  </li>
  <li>
@@ -3048,7 +2959,7 @@
    react-semantic-ui - React components for Semantic UI
   </a>
   <sup>
-   &#9733 175, pushed 410 days ago
+   &#9733 175, pushed 535 days ago
   </sup>
  </li>
  <li>
@@ -3056,7 +2967,7 @@
    semantic-react - React wrappers for Semantic UI
   </a>
   <sup>
-   &#9733 3, pushed 778 days ago
+   &#9733 3, pushed 903 days ago
   </sup>
  </li>
  <li>
@@ -3064,7 +2975,7 @@
    sbt-reactjs - React SBT Plugin using npm
   </a>
   <sup>
-   &#9733 59, pushed 26 days ago
+   &#9733 59, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -3072,7 +2983,7 @@
    scalajs-react - A guilty affair between Scala.js and Facebook's React
   </a>
   <sup>
-   &#9733 562, pushed 12 days ago
+   &#9733 562, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3080,7 +2991,7 @@
    rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React
   </a>
   <sup>
-   &#9733 0, pushed 702 days ago
+   &#9733 0, pushed 826 days ago
   </sup>
  </li>
  <li>
@@ -3093,7 +3004,7 @@
    jreact - React on server-side Java (with Rhino or Nashorn)
   </a>
   <sup>
-   &#9733 98, pushed 43 days ago
+   &#9733 98, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -3101,20 +3012,15 @@
    React.hiccup - A complete replacement for JSX written in sweet.js
   </a>
   <sup>
-   &#9733 50, pushed 811 days ago
+   &#9733 50, pushed 936 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/SanderSpies/react-style">
-   react-style - Integrate CSS into your React.js components
-  </a>
  </li>
  <li>
   <a href="https://github.com/ssorallen/react-play">
    react-play - Rendering React components in the Play Framework with JDK8's Nashorn
   </a>
   <sup>
-   &#9733 130, pushed 394 days ago
+   &#9733 130, pushed 519 days ago
   </sup>
  </li>
  <li>
@@ -3122,7 +3028,7 @@
    rx-react - Utilitiels to works with React in a RxJS
   </a>
   <sup>
-   &#9733 429, pushed 9 days ago
+   &#9733 429, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3130,7 +3036,7 @@
    react-typescript - Wrapper to make react play nicely with typescript
   </a>
   <sup>
-   &#9733 48, pushed 483 days ago
+   &#9733 48, pushed 608 days ago
   </sup>
  </li>
  <li>
@@ -3138,7 +3044,7 @@
    react-with-di - A hacked prototype of React.js with DI
   </a>
   <sup>
-   &#9733 29, pushed 784 days ago
+   &#9733 29, pushed 908 days ago
   </sup>
  </li>
  <li>
@@ -3146,7 +3052,7 @@
    reactfire - ReactJS mixin for easy Firebase integration
   </a>
   <sup>
-   &#9733 420, pushed 11 days ago
+   &#9733 420, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3164,7 +3070,7 @@
    react-masonry-mixin - Standalone mixin for Masonry (@desandro)
   </a>
   <sup>
-   &#9733 138, pushed 167 days ago
+   &#9733 138, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -3172,7 +3078,7 @@
    react-packery-mixin - Standalone mixin for Packery (Metafizzy)
   </a>
   <sup>
-   &#9733 20, pushed 167 days ago
+   &#9733 20, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -3185,7 +3091,7 @@
    aframe-react - A-Frame VR + React
   </a>
   <sup>
-   &#9733 1, pushed 5 days ago
+   &#9733 1, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3203,15 +3109,20 @@
    react-forms - Forms library for React
   </a>
   <sup>
-   &#9733 782, pushed 34 days ago
+   &#9733 782, pushed 159 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Volicon/valuelink">
+   valuelink - full-featured two-way data binding with extended React links
+  </a>
  </li>
  <li>
   <a href="https://github.com/wingspan/wingspan-forms">
    wingspan-forms - A dynamic form library for Facebook React
   </a>
   <sup>
-   &#9733 265, pushed 140 days ago
+   &#9733 265, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -3219,7 +3130,7 @@
    newforms - Isomorphic form-handling for React
   </a>
   <sup>
-   &#9733 580, pushed 175 days ago
+   &#9733 580, pushed 300 days ago
   </sup>
  </li>
  <li>
@@ -3227,7 +3138,7 @@
    formjs - A form generator for Reactjs
   </a>
   <sup>
-   &#9733 38, pushed 774 days ago
+   &#9733 38, pushed 898 days ago
   </sup>
  </li>
  <li>
@@ -3235,7 +3146,7 @@
    react-form-builder - A Form Builder for React.js
   </a>
   <sup>
-   &#9733 38, pushed 71 days ago
+   &#9733 38, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -3243,7 +3154,7 @@
    plexus-form - A dynamic form component for react using JSON-Schema
   </a>
   <sup>
-   &#9733 113, pushed 189 days ago
+   &#9733 113, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -3256,7 +3167,7 @@
    formsy-react - A form input builder and validator for React JS
   </a>
   <sup>
-   &#9733 1091, pushed 12 days ago
+   &#9733 1091, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3269,7 +3180,7 @@
    Winterfell - Generate complex, validated and extendable JSON-based forms in React
   </a>
   <sup>
-   &#9733 356, pushed 57 days ago
+   &#9733 356, pushed 182 days ago
   </sup>
  </li>
 </ul>
@@ -3282,7 +3193,7 @@
    react-typeahead-search by @tonyspiro
   </a>
   <sup>
-   &#9733 7, pushed 266 days ago
+   &#9733 7, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -3295,7 +3206,7 @@
    react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component
   </a>
   <sup>
-   &#9733 739, pushed 2 days ago
+   &#9733 739, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3303,7 +3214,7 @@
    react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS
   </a>
   <sup>
-   &#9733 85, pushed 665 days ago
+   &#9733 85, pushed 790 days ago
   </sup>
  </li>
  <li>
@@ -3311,15 +3222,7 @@
    react-autocomplete by @prometheusresearch - Autocomplete widget based on React
   </a>
   <sup>
-   &#9733 28, pushed 27 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/JedWatson/react-select">
-   react-select by @JedWatson - Like Selectize / Chosen / Select2 etc, work in progress
-  </a>
-  <sup>
-   &#9733 3342, pushed 2 days ago
+   &#9733 28, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -3327,7 +3230,7 @@
    instatype by @gragland - Simple react autocomplete component
   </a>
   <sup>
-   &#9733 33, pushed 97 days ago
+   &#9733 33, pushed 222 days ago
   </sup>
  </li>
 </ul>
@@ -3340,7 +3243,7 @@
    react-docgen - Extract information from React component files for documentation generation
   </a>
   <sup>
-   &#9733 510, pushed 23 days ago
+   &#9733 510, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -3348,7 +3251,7 @@
    react-styleguide-generator - Easily generate a good-looking styleguide
   </a>
   <sup>
-   &#9733 384, pushed 24 days ago
+   &#9733 384, pushed 149 days ago
   </sup>
  </li>
 </ul>
@@ -3369,7 +3272,7 @@
    </canvas>
   </a>
   <sup>
-   &#9733 8289, pushed 16 days ago
+   &#9733 8289, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3377,7 +3280,7 @@
    react-famous - Complex 3D animations UI at 60 FPS with Famo.us
   </a>
   <sup>
-   &#9733 144, pushed 229 days ago
+   &#9733 144, pushed 354 days ago
   </sup>
  </li>
  <li>
@@ -3385,7 +3288,7 @@
    react-kinetic - HTML5 Canvas via KineticJS using React
   </a>
   <sup>
-   &#9733 60, pushed 530 days ago
+   &#9733 60, pushed 655 days ago
   </sup>
  </li>
  <li>
@@ -3393,7 +3296,7 @@
    react-svg-morph - morph your svg components one into another
   </a>
   <sup>
-   &#9733 139, pushed 4 days ago
+   &#9733 139, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3406,15 +3309,20 @@
    mori - ClojureScript's persistent data structures and supporting API
   </a>
   <sup>
-   &#9733 2073, pushed 65 days ago
+   &#9733 2073, pushed 190 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Volicon/NestedTypes">
+   NestedTypes - fast mutable models with "pure render" support
+  </a>
  </li>
  <li>
   <a href="https://github.com/gritzko/swarm">
    swarm - JavaScript replicated model (M of MVC) library
   </a>
   <sup>
-   &#9733 1814, pushed 53 days ago
+   &#9733 1814, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -3432,7 +3340,7 @@
    Immutable.js - Immutable Data Collections for Javascript
   </a>
   <sup>
-   &#9733 12697, pushed 5 days ago
+   &#9733 12697, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3440,7 +3348,7 @@
    cortex - A javascript library for centrally managing data with React
   </a>
   <sup>
-   &#9733 980, pushed 156 days ago
+   &#9733 980, pushed 281 days ago
   </sup>
  </li>
  <li>
@@ -3448,7 +3356,7 @@
    avers - A modern client-side model abstraction library
   </a>
   <sup>
-   &#9733 39, pushed 71 days ago
+   &#9733 39, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -3461,7 +3369,7 @@
    morearty.js - Better state management for React in pure JavaScript
   </a>
   <sup>
-   &#9733 648, pushed 184 days ago
+   &#9733 648, pushed 309 days ago
   </sup>
  </li>
  <li>
@@ -3469,7 +3377,7 @@
    valuable - An immutable data store for React
   </a>
   <sup>
-   &#9733 100, pushed 426 days ago
+   &#9733 100, pushed 551 days ago
   </sup>
  </li>
  <li>
@@ -3477,7 +3385,7 @@
    react-resolver - Isomorphic library to recursively lazy-load data for React components
   </a>
   <sup>
-   &#9733 1063, pushed 22 days ago
+   &#9733 1063, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3485,12 +3393,12 @@
    freezer-js - Lightweight and reactive immutable data structure for React
   </a>
   <sup>
-   &#9733 548, pushed 6 days ago
+   &#9733 548, pushed 131 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mweststrate/MOBservable">
-   mobservable - Observable data structures for building reactive React apps
+  <a href="https://mobxjs.github.io/mobx">
+   MobX - Simple, scalable state management
   </a>
  </li>
  <li>
@@ -3498,7 +3406,7 @@
    baobab - JavaScript persistent and optionally immutable data tree with cursors
   </a>
   <sup>
-   &#9733 2040, pushed 102 days ago
+   &#9733 2040, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -3506,7 +3414,7 @@
    baobab-react - React integration for Baobab
   </a>
   <sup>
-   &#9733 225, pushed 12 days ago
+   &#9733 225, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3514,7 +3422,7 @@
    datascript - Immutable database and Datalog query engine in ClojureScript
   </a>
   <sup>
-   &#9733 2003, pushed 4 days ago
+   &#9733 2003, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3522,7 +3430,7 @@
    immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React
   </a>
   <sup>
-   &#9733 332, pushed 138 days ago
+   &#9733 332, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -3530,8 +3438,13 @@
    seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects
   </a>
   <sup>
-   &#9733 1666, pushed 4 days ago
+   &#9733 1666, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://tydel.js.org">
+   tydel - Typed Models and Collections, with React bindings
+  </a>
  </li>
 </ul>
 <h5>
@@ -3543,7 +3456,7 @@
    react-devtools - React Chrome Developer Tools
   </a>
   <sup>
-   &#9733 2369, pushed 3 days ago
+   &#9733 2369, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3551,7 +3464,7 @@
    react-transform-hmr - A React Transform that enables hot reloading React
   </a>
   <sup>
-   &#9733 530, pushed 15 days ago
+   &#9733 530, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -3564,7 +3477,7 @@
    babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions
   </a>
   <sup>
-   &#9733 1658, pushed 24 days ago
+   &#9733 1658, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -3572,7 +3485,7 @@
    babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime
   </a>
   <sup>
-   &#9733 110, pushed 5 days ago
+   &#9733 110, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3585,7 +3498,7 @@
    vim-jsx - Vim JSX Syntax
   </a>
   <sup>
-   &#9733 584, pushed 8 days ago
+   &#9733 584, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3593,7 +3506,7 @@
    vim-react-snippets - Vim version of the snippets from sublime-react
   </a>
   <sup>
-   &#9733 80, pushed 90 days ago
+   &#9733 80, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -3601,7 +3514,7 @@
    vim-babel - Wrapper around babel.js for vim
   </a>
   <sup>
-   &#9733 25, pushed 49 days ago
+   &#9733 25, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -3614,7 +3527,7 @@
    eslint-plugin-react - React specific linting rules for ESLint
   </a>
   <sup>
-   &#9733 1220, pushed 4 days ago
+   &#9733 1220, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3622,7 +3535,7 @@
    generator-react-webpack - Yeoman generator for ReactJS and Webpack
   </a>
   <sup>
-   &#9733 1350, pushed 5 days ago
+   &#9733 1350, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3630,16 +3543,36 @@
    generator-react-gulp-browserify - Yeoman generator for React
   </a>
   <sup>
-   &#9733 405, pushed 30 days ago
+   &#9733 405, pushed 155 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Jackong/generator-reactapp">
+   generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.
+  </a>
  </li>
  <li>
   <a href="https://github.com/markdalgleish/static-site-generator-webpack-plugin">
    static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML
   </a>
   <sup>
-   &#9733 339, pushed 1 days ago
+   &#9733 339, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kadirahq/react-storybook">
+   React Storybook - Build React components isolately inside a sandbox environment.
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/SUI-Components/generator-sui-react">
+   generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/mohebifar/racket">
+   Racket - A yeoman generator for creating a universal react/redux web application
+  </a>
  </li>
 </ul>
 <h5>
@@ -3651,7 +3584,7 @@
    react-templates - Lightweight templates for React
   </a>
   <sup>
-   &#9733 1393, pushed 2 days ago
+   &#9733 1393, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3659,7 +3592,7 @@
    teact - A JSX alternative based on composing functions in the Markaby / CoffeeKup / Teacup tradition
   </a>
   <sup>
-   &#9733 7, pushed 112 days ago
+   &#9733 7, pushed 237 days ago
   </sup>
  </li>
 </ul>
@@ -3672,7 +3605,7 @@
    react-googlemaps - React interface to Google maps
   </a>
   <sup>
-   &#9733 184, pushed 59 days ago
+   &#9733 184, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -3680,7 +3613,7 @@
    react-maps - A map component for React
   </a>
   <sup>
-   &#9733 40, pushed 531 days ago
+   &#9733 40, pushed 656 days ago
   </sup>
  </li>
  <li>
@@ -3688,7 +3621,7 @@
    react-google-maps - React.js Google Maps integration component
   </a>
   <sup>
-   &#9733 875, pushed 6 days ago
+   &#9733 875, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3696,7 +3629,7 @@
    react-gmaps - A Google Maps component for React.js
   </a>
   <sup>
-   &#9733 101, pushed 6 days ago
+   &#9733 101, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3704,7 +3637,7 @@
    react-map-gl - A React wrapper for MapboxGL-js plus overlay API
   </a>
   <sup>
-   &#9733 1412, pushed 2 days ago
+   &#9733 1412, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3712,8 +3645,13 @@
    google-map-react - Isomorphic google map React component
   </a>
   <sup>
-   &#9733 838, pushed 9 days ago
+   &#9733 838, pushed 134 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alex3165/react-mapbox-gl">
+   react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly
+  </a>
  </li>
 </ul>
 <h5>
@@ -3725,7 +3663,7 @@
    react-d3 - Modular React charts made with d3.js
   </a>
   <sup>
-   &#9733 1111, pushed 25 days ago
+   &#9733 1111, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -3733,7 +3671,7 @@
    react-chartjs - Common react charting components using chart.js
   </a>
   <sup>
-   &#9733 595, pushed 14 days ago
+   &#9733 595, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3741,7 +3679,7 @@
    react-stockcharts - Highly customizable stock charts with ReactJS and d3
   </a>
   <sup>
-   &#9733 294, pushed 2 days ago
+   &#9733 294, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3749,7 +3687,7 @@
    VictoryJS - A collection of composable React components for building interactive data visualizations
   </a>
   <sup>
-   &#9733 1038, pushed 7 days ago
+   &#9733 1038, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -3776,7 +3714,7 @@
    React Native GitHub
   </a>
   <sup>
-   &#9733 31533, pushed 2 days ago
+   &#9733 31533, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3794,22 +3732,12 @@
    React Native Awesome List
   </a>
   <sup>
-   &#9733 4339, pushed 2 days ago
+   &#9733 4339, pushed 126 days ago
   </sup>
  </li>
-</ul>
-<h4>
- React Native Community
-</h4>
-<ul>
  <li>
   <a href="http://stackoverflow.com/questions/tagged/react-native">
    React Native StackOverflow
-  </a>
- </li>
- <li>
-  <a href="https://www.reddit.com/r/reactnative">
-   React Native Subreddit
   </a>
  </li>
  <li>
@@ -3828,6 +3756,11 @@
   </a>
  </li>
  <li>
+  <a href="http://makeitopen.com/">
+   Building the F8 2016 App
+  </a>
+ </li>
+ <li>
   <a href="http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript">
    Introducing React Native: Building Apps with JavaScript
   </a>
@@ -3835,11 +3768,6 @@
  <li>
   <a href="http://www.appcoda.com/react-native-introduction/">
    Introduction to React Native: Building iOS Apps with JavaScript
-  </a>
- </li>
- <li>
-  <a href="https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love">
-   Handcrafting an iOS Application in React Native with love
   </a>
  </li>
  <li>
@@ -3863,8 +3791,28 @@
   </a>
  </li>
  <li>
-  <a href="http://browniefed.com/blog/archives/">
-   JavaScript Without Grammar blog
+  <a href="https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/">
+   The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)
+  </a>
+ </li>
+ <li>
+  <a href="https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/">
+   The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6">
+   A Mini-Course on React Native Flexbox
+  </a>
+ </li>
+ <li>
+  <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">
+   A Complete Guide to Flexbox
+  </a>
+ </li>
+ <li>
+  <a href="http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/">
+   Test driving react native applications
   </a>
  </li>
 </ul>
@@ -3877,7 +3825,7 @@
    react-native-webpack-server - Build React Native apps with Webpack
   </a>
   <sup>
-   &#9733 732, pushed 7 days ago
+   &#9733 732, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3885,8 +3833,13 @@
    react-native-code-push - React Native plugin for the CodePush service
   </a>
   <sup>
-   &#9733 976, pushed 1 days ago
+   &#9733 976, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/">
+   Preview your React Native apps in your Github Pull Request
+  </a>
  </li>
 </ul>
 <h4>
@@ -3898,7 +3851,7 @@
    HackerNews
   </a>
   <sup>
-   &#9733 1897, pushed 46 days ago
+   &#9733 1897, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -3906,7 +3859,7 @@
    Ziliun
   </a>
   <sup>
-   &#9733 146, pushed 123 days ago
+   &#9733 146, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -3914,8 +3867,18 @@
    FinanceReactNative
   </a>
   <sup>
-   &#9733 553, pushed 38 days ago
+   &#9733 553, pushed 163 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nashvail/SplashWalls">
+   SplashWalls
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/jbkuczma/NBAreact">
+   NBAreact
+  </a>
  </li>
 </ul>
 <h4>
@@ -3927,7 +3890,7 @@
    Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)
   </a>
   <sup>
-   &#9733 1456, pushed 27 days ago
+   &#9733 1456, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -3940,7 +3903,7 @@
    react-native-fbsdk - A wrapper around the iOS Facebook SDK
   </a>
   <sup>
-   &#9733 507, pushed 5 days ago
+   &#9733 507, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3953,7 +3916,7 @@
    react-native-mapbox-gl - A Mapbox GL react native module
   </a>
   <sup>
-   &#9733 420, pushed 4 days ago
+   &#9733 420, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3961,7 +3924,7 @@
    react-native-icons - Quick and easy icons in React Native
   </a>
   <sup>
-   &#9733 964, pushed 70 days ago
+   &#9733 964, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -3969,7 +3932,7 @@
    react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar
   </a>
   <sup>
-   &#9733 1310, pushed 8 days ago
+   &#9733 1310, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3977,7 +3940,7 @@
    react-native-google-signin - Google Signin for React Native
   </a>
   <sup>
-   &#9733 128, pushed 4 days ago
+   &#9733 128, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -4000,81 +3963,14 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/facebook/jsx">
-   JSX Spec on GitHub
-  </a>
-  <sup>
-   &#9733 351, pushed 51 days ago
-  </sup>
- </li>
- <li>
   <a href="http://facebook.github.io/react/docs/jsx-in-depth.html">
    JSX in Depth
-  </a>
- </li>
-</ul>
-<h5>
- JSX Tutorials
-</h5>
-<ul>
- <li>
-  <a href="http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables">
-   Compiling JSX with Sweet.js using Readtables
-  </a>
- </li>
- <li>
-  <a href="http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html">
-   JSX for the real DOM
-  </a>
- </li>
- <li>
-  <a href="http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html">
-   JSX: E4X The Good Parts
-  </a>
- </li>
- <li>
-  <a href="https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48">
-   Lint Like It’s 2015
-  </a>
- </li>
- <li>
-  <a href="https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98">
-   React’s JSX: The Other Side of the Coin
   </a>
  </li>
  <li>
   <a href="https://github.com/Microsoft/TypeScript/wiki/JSX">
    JSX in TypeScript
   </a>
- </li>
-</ul>
-<h5>
- JSX Alternatives
-</h5>
-<ul>
- <li>
-  <a href="https://github.com/uber/r-dom">
-   r-dom - A simple React DOM wrapper
-  </a>
-  <sup>
-   &#9733 116, pushed 23 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mlmorg/react-hyperscript">
-   react-hyperscript - Hyperscript syntax for React.js markup
-  </a>
-  <sup>
-   &#9733 224, pushed 25 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/jussi-kalliokoski/react-no-jsx">
-   react-no-jsx - A pure JS DSL to be used instead of JSX
-  </a>
-  <sup>
-   &#9733 66, pushed 164 days ago
-  </sup>
  </li>
 </ul>
 <hr/>
@@ -4100,7 +3996,7 @@
    Flux GitHub
   </a>
   <sup>
-   &#9733 11340, pushed 4 days ago
+   &#9733 11340, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -4113,13 +4009,8 @@
    Flux Comparision
   </a>
   <sup>
-   &#9733 2250, pushed 48 days ago
+   &#9733 2250, pushed 172 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/gaearon/redux">
-   Redux
-  </a>
  </li>
  <li>
   <a href="https://github.com/spoike/refluxjs">
@@ -4131,7 +4022,7 @@
    Fluxxor
   </a>
   <sup>
-   &#9733 1638, pushed 85 days ago
+   &#9733 1638, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -4139,7 +4030,7 @@
    Marty
   </a>
   <sup>
-   &#9733 1126, pushed 96 days ago
+   &#9733 1126, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -4147,7 +4038,7 @@
    McFly
   </a>
   <sup>
-   &#9733 764, pushed 104 days ago
+   &#9733 764, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -4155,7 +4046,7 @@
    Alt
   </a>
   <sup>
-   &#9733 2914, pushed 7 days ago
+   &#9733 2914, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4163,7 +4054,7 @@
    Fluxible
   </a>
   <sup>
-   &#9733 1546, pushed 2 days ago
+   &#9733 1546, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4171,7 +4062,7 @@
    NuclearJS
   </a>
   <sup>
-   &#9733 1284, pushed 77 days ago
+   &#9733 1284, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -4179,7 +4070,7 @@
    Flummox
   </a>
   <sup>
-   &#9733 1555, pushed 120 days ago
+   &#9733 1555, pushed 245 days ago
   </sup>
  </li>
 </ul>
@@ -4202,7 +4093,7 @@
    Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo
   </a>
   <sup>
-   &#9733 1141, pushed 138 days ago
+   &#9733 1141, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -4224,14 +4115,6 @@
   <a href="https://medium.com/@garychambers108/understanding-flux-f93e9f650af7">
    Understanding Flux
   </a>
- </li>
- <li>
-  <a href="https://github.com/gaearon/flux-react-router-example">
-   A sample app showcasing Flux with React Router
-  </a>
-  <sup>
-   &#9733 1339, pushed 213 days ago
-  </sup>
  </li>
  <li>
   <a href="http://davidandsuzi.com/yo-in-flux/">
@@ -4314,24 +4197,138 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/xgrommx/awesome-redux">
-   Awesome Redux
-  </a>
-  <sup>
-   &#9733 4517, pushed 4 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/MIJOTHY/FOR_FLUX_SAKE">
    FOR FLUX SAKE! - a beginners tutorial
   </a>
   <sup>
-   &#9733 26, pushed 277 days ago
+   &#9733 26, pushed 402 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md">
    Simple Counter App with React and Nuclear JS
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9">
+   LearnCode.academy Flux Tutorial Series
+  </a>
+ </li>
+</ul>
+<hr/>
+<h3>
+ Redux
+</h3>
+<blockquote>
+ <p>
+  Predictable State Container for JavaScript Apps
+ </p>
+</blockquote>
+<h4>
+ Redux General Resources
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/reactjs/redux">
+   Redux GitHub
+  </a>
+  <sup>
+   &#9733 17710, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="http://redux.js.org/">
+   Redux Official Site
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/xgrommx/awesome-redux">
+   Awesome Redux List
+  </a>
+  <sup>
+   &#9733 4517, pushed 129 days ago
+  </sup>
+ </li>
+</ul>
+<h4>
+ Redux Tools
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/reactjs/react-redux">
+   react-redux - Official React bindings for Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/gaearon/redux-devtools">
+   redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/reactjs/react-router-redux">
+     react-router-redux - Bindings to keep react-router and redux in sync
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://github.com/erikras/redux-form">
+   redux-form - A Higher Order Component using react-redux to keep form state
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/gaearon/redux-thunk">
+   redux-thunk - Thunk middleware for redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/theaqua/redux-logger">
+   redux-logger - Logger middleware for redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/reactjs/reselect">
+   reselect - Selector library for Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/paularmstrong/normalizr">
+   normalizr - Normalizes nested JSON according to a schema
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/yelouafi/redux-saga">
+   redux-saga - An alternative side effect model for Redux apps
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/redux-observable/redux-observable">
+   redux-observable - RxJS middleware for Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/markdalgleish/redux-analytics">
+   redux-analytics - Analytics middleware for Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/omnidan/redux-undo">
+   redux-undo - Higher order reducer to add undo/redo functionality to redux state containers
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/treasure-data/redux-search">
+   redux-search - Redux bindings for client-side search
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/arnaudbenard/redux-mock-store">
+   redux-mock-store - A mock store for your testing your redux async action creators and middleware
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/gajus/redux-immutable">
+   redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state
   </a>
  </li>
 </ul>
@@ -4340,26 +4337,133 @@
 </h4>
 <ul>
  <li>
+  <a href="https://egghead.io/series/getting-started-with-redux">
+   Getting Started with Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://egghead.io/series/building-react-applications-with-idiomatic-redux">
+   Building React Applications with Idiomatic Redux
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/happypoulp/redux-tutorial">
    Redux Tutorial
   </a>
   <sup>
-   &#9733 1957, pushed 19 days ago
+   &#9733 1957, pushed 144 days ago
   </sup>
  </li>
  <li>
-  <a href="https://egghead.io/series/getting-started-with-redux">
-   Free Egghead.io Redux lessons from its creator - Dan Abramov
+  <a href="http://vulgairedev.fr/blog/article/intro-Redux-ReactJS">
+   Redux with React introduction for beginners
   </a>
  </li>
  <li>
-  <a href="https://www.stanleycyang.com/tutorials/mastering-react-redux">
-   Mastering React Redux Basics
+  <a href="http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/">
+   Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1
+  </a>
+ </li>
+ <li>
+  <a href="http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/">
+   Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2
   </a>
  </li>
  <li>
   <a href="https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app">
    Server-Side Rendering with Redux and React-Router
+  </a>
+ </li>
+ <li>
+  <a href="https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros">
+   Deep Introduction to Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking">
+   Unit Testing Redux Apps
+  </a>
+ </li>
+ <li>
+  <a href="https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/">
+   Secure Your React and Redux App with JWT Authentication
+  </a>
+ </li>
+ <li>
+  <a href="http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga">
+   Build an Image Gallery Using React, Redux and redux-saga
+  </a>
+ </li>
+ <li>
+  <a href="http://www.sohamkamani.com/blog/2016/06/05/redux-apis/">
+   A simplified approach to calling APIs with redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/smanne/reduxnor">
+   React Redux based blood donor demo application
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15">
+   LearnCode.academy Redux Tutorials Series
+  </a>
+ </li>
+</ul>
+<hr/>
+<h3>
+ MobX
+</h3>
+<blockquote>
+ <p>
+  Simple, scalable state management for JavaScript Apps
+ </p>
+</blockquote>
+<h4>
+ MobX General Resources
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/mobxjs/mobx">
+   MobX GitHub
+  </a>
+  <sup>
+   &#9733 1677, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://mobxjs.github.io/mobx/">
+   MobX Official Site
+  </a>
+ </li>
+</ul>
+<h4>
+ MobX Tools
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/mobxjs/mobx-react">
+   mobx-react - React component wrapper for combining React with MobX
+  </a>
+ </li>
+</ul>
+<h4>
+ MobX Tutorials
+</h4>
+<ul>
+ <li>
+  <a href="https://mobxjs.github.io/mobx/getting-started.html">
+   Ten minute introduction to MobX and React
+  </a>
+ </li>
+ <li>
+  <a href="https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx">
+   Manage Complex State in React Apps with MobX
+  </a>
+ </li>
+ <li>
+  <a href="http://www.robinwieruch.de/mobx-react">
+   Refactor from Redux to MobX in real world SoundCloud Client in React
   </a>
  </li>
 </ul>
@@ -4369,45 +4473,24 @@
 </h3>
 <blockquote>
  <p>
-  React Unit Testing
+  React Testing
  </p>
 </blockquote>
-<h4>
- Jest General Resources
-</h4>
-<ul>
- <li>
-  <a href="http://facebook.github.io/jest/">
-   Jest Official Site
-  </a>
- </li>
- <li>
-  <a href="https://github.com/facebook/jest">
-   Jest GitHub
-  </a>
-  <sup>
-   &#9733 3953, pushed 4 days ago
-  </sup>
- </li>
-</ul>
 <h4>
  Testing Utilities
 </h4>
 <ul>
  <li>
+  <a href="http://facebook.github.io/jest/">
+   Jest - Painless JavaScript Unit Testing
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/airbnb/enzyme">
    enzyme - JavaScript Testing utilities for React
   </a>
   <sup>
-   &#9733 4682, pushed 0 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/craigbilner/react-component-tester">
-   react-component-tester
-  </a>
-  <sup>
-   &#9733 11, pushed 4 days ago
+   &#9733 4682, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -4416,8 +4499,8 @@
 </h5>
 <ul>
  <li>
-  <a href="https://egghead.io/series/react-testing-cookbook">
-   React Testing Cookbook - video lessons
+  <a href="http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/">
+   Approaches to testing React components - an overview
   </a>
  </li>
  <li>
@@ -4426,13 +4509,8 @@
   </a>
  </li>
  <li>
-  <a href="http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/">
-   Approaches to testing React components - an overview
-  </a>
- </li>
- <li>
-  <a href="http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/">
-   Testing React Components with Teaspoon & Unexpected
+  <a href="https://medium.com/@bruderstein/the-missing-piece-to-the-react-testing-puzzle-c51cd30df7a0">
+   The missing piece to the React testing puzzle
   </a>
  </li>
 </ul>
@@ -4459,7 +4537,7 @@
    GraphQL Specification Repository
   </a>
   <sup>
-   &#9733 2783, pushed 8 days ago
+   &#9733 2783, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -4512,6 +4590,11 @@
    Building a GraphQL Server with Node.js and SQL
   </a>
  </li>
+ <li>
+  <a href="https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy">
+   GraphQL Tour: Variables
+  </a>
+ </li>
 </ul>
 <h4>
  GraphQL Implementations
@@ -4525,7 +4608,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 3499, pushed 5 days ago
+   &#9733 3499, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -4536,7 +4619,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 1037, pushed 44 days ago
+   &#9733 1037, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -4548,7 +4631,7 @@
    implementation of Facebook's GraphQL
   </a>
   <sup>
-   &#9733 682, pushed 4 days ago
+   &#9733 682, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4560,7 +4643,7 @@
    implementation
   </a>
   <sup>
-   &#9733 400, pushed 3 days ago
+   &#9733 400, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4581,7 +4664,7 @@
    port of GraphQL reference implementation
   </a>
   <sup>
-   &#9733 222, pushed 2 days ago
+   &#9733 222, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4601,7 +4684,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 157, pushed 161 days ago
+   &#9733 157, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -4612,7 +4695,15 @@
    </strong>
   </a>
   <sup>
-   &#9733 214, pushed 7 days ago
+   &#9733 214, pushed 132 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/graphql-go/graphql">
+   graphql-go - GraphQL for Go/Golang
+  </a>
+  <sup>
+   &#9733 403, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -4628,7 +4719,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 748, pushed 2 days ago
+   &#9733 748, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -4641,7 +4732,7 @@
    graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models
   </a>
   <sup>
-   &#9733 85, pushed 38 days ago
+   &#9733 85, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -4652,7 +4743,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 858, pushed 292 days ago
+   &#9733 858, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -4660,7 +4751,7 @@
    graffiti - Node.js GraphQL ORM
   </a>
   <sup>
-   &#9733 665, pushed 3 days ago
+   &#9733 665, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4668,7 +4759,7 @@
    sql-to-graphql - Generate a GraphQL API based on your SQL database structure
   </a>
   <sup>
-   &#9733 142, pushed 132 days ago
+   &#9733 142, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -4676,7 +4767,7 @@
    graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize
   </a>
   <sup>
-   &#9733 222, pushed 4 days ago
+   &#9733 222, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -4703,7 +4794,7 @@
    Relay GitHub
   </a>
   <sup>
-   &#9733 6271, pushed 2 days ago
+   &#9733 6271, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -4741,7 +4832,7 @@
    graphql-relay-js - A library to help construct a graphql-js server supporting react-relay
   </a>
   <sup>
-   &#9733 460, pushed 8 days ago
+   &#9733 460, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4749,7 +4840,7 @@
    react-router-relay - Relay integration for React Router
   </a>
   <sup>
-   &#9733 356, pushed 2 days ago
+   &#9733 356, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4757,7 +4848,7 @@
    relay-local-schema - Use Relay without a GraphQL server
   </a>
   <sup>
-   &#9733 91, pushed 22 days ago
+   &#9733 91, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -4765,7 +4856,7 @@
    relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs
   </a>
   <sup>
-   &#9733 918, pushed 2 days ago
+   &#9733 918, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -4792,7 +4883,7 @@
    Flow GitHub
   </a>
   <sup>
-   &#9733 7083, pushed 3 days ago
+   &#9733 7083, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -5006,6 +5097,21 @@
  </a>
 </h4>
 <h4>
+ <a href="https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU">
+  React Amsterdam 2016 Playlist
+ </a>
+</h4>
+<h4>
+ <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa">
+  ReactEurope Conf 2016 Day 1 Playlist
+ </a>
+</h4>
+<h4>
+ <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof">
+  ReactEurope Conf 2016 Day 2 Playlist
+ </a>
+</h4>
+<h4>
  Video Tutorials
 </h4>
 <ul>
@@ -5099,6 +5205,11 @@
    React Testing Cookbook - video lessons
   </a>
  </li>
+ <li>
+  <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p">
+   React For Everyone
+  </a>
+ </li>
 </ul>
 <hr/>
 <h3>
@@ -5106,13 +5217,13 @@
 </h3>
 <ul>
  <li>
-  <a href="http://survivejs.com/">
-   SurviveJS - Webpack and React
+  <a href="https://reactspeed.com">
+   React Speed Coding - React ES6, Redux, Webpack, Enzyme, Flexbox, Firebase
   </a>
  </li>
  <li>
-  <a href="http://christianalfoni.github.io/react-webpack-cookbook">
-   react-webpack-cookbook - A cookbook for using Webpack with React JS
+  <a href="http://survivejs.com/">
+   SurviveJS - Webpack and React
   </a>
  </li>
 </ul>
@@ -5131,7 +5242,7 @@
    react-hn - A React & react-router-powered implementation of Hacker News
   </a>
   <sup>
-   &#9733 439, pushed 7 days ago
+   &#9733 439, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -5139,7 +5250,7 @@
    react-pokemon - A React component for displaying Pokémon
   </a>
   <sup>
-   &#9733 35, pushed 740 days ago
+   &#9733 35, pushed 864 days ago
   </sup>
  </li>
  <li>
@@ -5148,11 +5259,16 @@
   </a>
  </li>
  <li>
+  <a href="https://github.com/gaperton/todomvc-nestedreact">
+   React + NestedTypes TodoMVC
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/fdecampredon/react-rxjs-todomvc">
    react-rxjs-todomvc - TodoMVC implementation with React and RxJS
   </a>
   <sup>
-   &#9733 271, pushed 421 days ago
+   &#9733 271, pushed 546 days ago
   </sup>
  </li>
  <li>
@@ -5160,7 +5276,7 @@
    react-mvc - A sample chat application written with React and pure MVC
   </a>
   <sup>
-   &#9733 23, pushed 101 days ago
+   &#9733 23, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -5168,7 +5284,7 @@
    react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe
   </a>
   <sup>
-   &#9733 23, pushed 792 days ago
+   &#9733 23, pushed 917 days ago
   </sup>
  </li>
  <li>
@@ -5176,7 +5292,7 @@
    react-lights-out - Simple demo of the React framework's power and flexibility
   </a>
   <sup>
-   &#9733 19, pushed 898 days ago
+   &#9733 19, pushed 1023 days ago
   </sup>
  </li>
  <li>
@@ -5184,7 +5300,7 @@
    todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration
   </a>
   <sup>
-   &#9733 270, pushed 502 days ago
+   &#9733 270, pushed 627 days ago
   </sup>
  </li>
  <li>
@@ -5192,7 +5308,7 @@
    reactodo - Multiple localStorage TODO lists, built with React
   </a>
   <sup>
-   &#9733 20, pushed 455 days ago
+   &#9733 20, pushed 580 days ago
   </sup>
  </li>
  <li>
@@ -5200,7 +5316,7 @@
    lifequote - React port of a life insurance quick quoting application
   </a>
   <sup>
-   &#9733 14, pushed 178 days ago
+   &#9733 14, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -5208,7 +5324,7 @@
    reactor-demo - Isomorphic Javascript app with React
   </a>
   <sup>
-   &#9733 16, pushed 718 days ago
+   &#9733 16, pushed 842 days ago
   </sup>
  </li>
  <li>
@@ -5216,7 +5332,7 @@
    imgsible - React-based Imgur-like isomorphic demo app
   </a>
   <sup>
-   &#9733 39, pushed 771 days ago
+   &#9733 39, pushed 896 days ago
   </sup>
  </li>
  <li>
@@ -5224,7 +5340,7 @@
    wow-realm-status-react - WoW Realm Status: React Edition
   </a>
   <sup>
-   &#9733 2, pushed 801 days ago
+   &#9733 2, pushed 926 days ago
   </sup>
  </li>
  <li>
@@ -5237,7 +5353,7 @@
    react-todos - Backbone's example TODO app with React JS for views
   </a>
   <sup>
-   &#9733 17, pushed 344 days ago
+   &#9733 17, pushed 469 days ago
   </sup>
  </li>
  <li>
@@ -5245,7 +5361,7 @@
    github-issues-viewer - A gitub issues viewer build in react + backbone
   </a>
   <sup>
-   &#9733 226, pushed 849 days ago
+   &#9733 226, pushed 974 days ago
   </sup>
  </li>
  <li>
@@ -5253,15 +5369,7 @@
    wolfenstein3D-react - Wolfenstein with the rendering layer written in React
   </a>
   <sup>
-   &#9733 40, pushed 21 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gaearon/flux-react-router-example">
-   flux-react-router-example - Sample Flux app with routing and pagination using Github API
-  </a>
-  <sup>
-   &#9733 1339, pushed 213 days ago
+   &#9733 40, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -5269,7 +5377,7 @@
    catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins
   </a>
   <sup>
-   &#9733 62, pushed 554 days ago
+   &#9733 62, pushed 679 days ago
   </sup>
  </li>
  <li>
@@ -5277,7 +5385,7 @@
    Flux ImmutableJS TodoList
   </a>
   <sup>
-   &#9733 43, pushed 125 days ago
+   &#9733 43, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -5285,7 +5393,7 @@
    Hapi+React+Flux user management system
   </a>
   <sup>
-   &#9733 434, pushed 70 days ago
+   &#9733 434, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -5296,6 +5404,11 @@
  <li>
   <a href="https://github.com/arcseldon/react-babel-webpack-starter-app.git">
    react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap
+  </a>
+ </li>
+ <li>
+  <a href="http://madewithreact.com/">
+   Made with React - Collection of websites and applications using ReactJS
   </a>
  </li>
 </ul>
@@ -5309,16 +5422,31 @@
    isomorphic500 - Isomorphic JS app built with React and Fluxible
   </a>
   <sup>
-   &#9733 932, pushed 62 days ago
+   &#9733 932, pushed 187 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/fatiherikli/fil">
-   Fil: A playground for in-browser interpreters (Redux)
+   fil -  A playground for in-browser interpreters (Redux)
   </a>
   <sup>
-   &#9733 500, pushed 82 days ago
+   &#9733 500, pushed 207 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/andrewngu/sound-redux">
+   sound-redux - A Soundcloud client built with React / Redux
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/afonsopacifer/react-pomodoro">
+   react-pomodoro - A Pomodoro timer for developers
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/1ven/do">
+   Do - Notes management application built with React and Redux
+  </a>
  </li>
 </ul>
 <hr/>
@@ -5331,7 +5459,7 @@
    reddit/reddit-mobile
   </a>
   <sup>
-   &#9733 773, pushed 4 days ago
+   &#9733 773, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -5339,7 +5467,7 @@
    khan/perseus
   </a>
   <sup>
-   &#9733 570, pushed 0 days ago
+   &#9733 570, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -5347,20 +5475,20 @@
    mozilla/payments-ui
   </a>
   <sup>
-   &#9733 80, pushed 2 days ago
+   &#9733 80, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/webbylab/itsquiz-wall">
-   webbylab/itsquiz-wal
+   webbylab/itsquiz-wall
   </a>
   <sup>
-   &#9733 163, pushed 4 days ago
+   &#9733 163, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/getsentry/sentry/">
-   getsentry/sentry
+  <a href="https://github.com/brainfock/brainfock">
+   brainfock/brainfock
   </a>
  </li>
 </ul>

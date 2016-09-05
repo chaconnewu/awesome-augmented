@@ -74,6 +74,9 @@
 </h2>
 <ul>
  <li>
+  [2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (Blizzard)
+ </li>
+ <li>
   [2015] [How to Make Your Game Just Completely Hilarious: The Stanley Parable](http://www.gdcvault.com/play/1022057/): William Pugh (Roberts & Co Bunsen Outlet Limited)
  </li>
  <li>
@@ -486,6 +489,9 @@
 <ul>
  <li>
   [2015, University of Texas] [John D. Carmack at UT Dallas](https://vimeo.com/126275510): John D. Carmack (Oculus)
+ </li>
+ <li>
+  [2014, Nordic Game] [Making of Monument Valley in Unity](https://www.youtube.com/watch?v=mCCC9hQm6MM): Peter Pashley (ustwo)
  </li>
  <li>
   [2014, PRACTICE 2014] [On Trying to Make Idea-Rich Games](https://vimeo.com/125149688): Jonathan Blow (Number None, Inc.)

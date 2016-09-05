@@ -232,7 +232,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 2433, pushed 3 days ago
+   &#9733 2433, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -299,7 +299,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 1852, pushed 41 days ago
+   &#9733 1852, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +444,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 2148, pushed 5 days ago
+   &#9733 2148, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +456,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 957, pushed 151 days ago
+   &#9733 957, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -468,7 +468,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 145, pushed 2 days ago
+   &#9733 145, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +495,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 817, pushed 482 days ago
+   &#9733 817, pushed 607 days ago
   </sup>
  </li>
  <li>
@@ -564,7 +564,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 482, pushed 6 days ago
+   &#9733 482, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -633,7 +633,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 3127, pushed 30 days ago
+   &#9733 3127, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -730,7 +730,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 1620, pushed 2 days ago
+   &#9733 1620, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -815,7 +815,7 @@
   </a>
   - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
   <sup>
-   &#9733 5950, pushed 4 days ago
+   &#9733 5950, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1043,7 +1043,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 789, pushed 30 days ago
+   &#9733 789, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1126,7 +1126,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 400, pushed 152 days ago
+   &#9733 400, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -1193,7 +1193,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 2116, pushed 95 days ago
+   &#9733 2116, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -1223,7 +1223,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 972, pushed 3 days ago
+   &#9733 972, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1241,7 +1241,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 6305, pushed 15 days ago
+   &#9733 6305, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1301,7 +1301,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 373, pushed 222 days ago
+   &#9733 373, pushed 347 days ago
   </sup>
  </li>
  <li>
@@ -1367,7 +1367,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 54, pushed 120 days ago
+   &#9733 54, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -1388,7 +1388,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 1150, pushed 10 days ago
+   &#9733 1150, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1445,7 +1445,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 4628, pushed 5 days ago
+   &#9733 4628, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1475,7 +1475,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 28, pushed 234 days ago
+   &#9733 28, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -1544,7 +1544,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 2770, pushed 49 days ago
+   &#9733 2770, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1766,7 +1766,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 5651, pushed 20 days ago
+   &#9733 5651, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1787,7 +1787,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 602, pushed 90 days ago
+   &#9733 602, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -1832,7 +1832,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 820, pushed 357 days ago
+   &#9733 820, pushed 481 days ago
   </sup>
  </li>
  <li>
@@ -1870,7 +1870,7 @@
   </a>
   - Use your OS X terminal shell to do awesome things.
   <sup>
-   &#9733 7528, pushed 1 days ago
+   &#9733 7528, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1903,7 +1903,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 104, pushed 911 days ago
+   &#9733 104, pushed 1035 days ago
   </sup>
  </li>
  <li>
@@ -1915,7 +1915,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 4968, pushed 2 days ago
+   &#9733 4968, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1998,7 +1998,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 774, pushed 223 days ago
+   &#9733 774, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -2009,7 +2009,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 4041, pushed 5 days ago
+   &#9733 4041, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2021,7 +2021,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 2578, pushed 33 days ago
+   &#9733 2578, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2033,7 +2033,7 @@
    <img alt="Open-Source Software" src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg"/>
   </a>
   <sup>
-   &#9733 547, pushed 22 days ago
+   &#9733 547, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2090,7 +2090,7 @@
    Awesome Screensavers
   </a>
   <sup>
-   &#9733 192, pushed 25 days ago
+   &#9733 192, pushed 149 days ago
   </sup>
  </li>
 </ul>

@@ -33,6 +33,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
+ - [Git History] (#githistory)
+ - [Path IntelliSense] (#path-intellisense)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
  - [Libraries](#libraries)
@@ -63,7 +65,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
-- [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
@@ -75,12 +76,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
-#### React JSX
-Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
-
-### Salsa Preview
-Alternatively, instead of JS to JSX + ESLint, for javascript, since the January release, you can use *[Salsa Preview](https://github.com/Microsoft/TypeScript/issues/4789)*. [Follow the official documentation](https://github.com/Microsoft/vscode-docs/blob/master/release-notes/latest.md#enabling-salsa) in order to enable it.
-
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
@@ -90,6 +85,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### C++
 
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 
 ### CSS
@@ -225,11 +221,30 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
 
+### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+> Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
+
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
 > Scaffold projects using [Yeoman](http://yeoman.io/)
 
 ![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
+
+### [Git History] (https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+> View git log, file or line History
+
+![] (https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
+
+### [Path Intellisense] (https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+> Visual Studio Code plugin that autocompletes filenames
+
+![] (https://i.giphy.com/iaHeUiDeTUZuo.gif)
+
 
 
 ## Resources for extension developers

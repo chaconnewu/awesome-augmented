@@ -146,6 +146,11 @@
     </a>
    </li>
    <li>
+    <a href="#serverless-frameworks">
+     Serverless Frameworks
+    </a>
+   </li>
+   <li>
     <a href="#permissions">
      Permissions
     </a>
@@ -371,6 +376,11 @@
     </a>
    </li>
    <li>
+    <a href="#chatops-tools">
+     ChatOps Tools
+    </a>
+   </li>
+   <li>
     <a href="#job-scheduler">
      Job Scheduler
     </a>
@@ -459,6 +469,11 @@
      Twitter
     </a>
    </li>
+   <li>
+    <a href="#podcasts">
+     Podcasts
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -488,7 +503,7 @@
   </a>
   - Dead simple interactive Python version management.
   <sup>
-   &#9733 546, pushed 37 days ago
+   &#9733 546, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -497,7 +512,7 @@
   </a>
   - Simple Python version management.
   <sup>
-   &#9733 4411, pushed 2 days ago
+   &#9733 4411, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +562,7 @@
   </a>
   - A set of tools to keep your pinned Python dependencies fresh.
   <sup>
-   &#9733 1562, pushed 7 days ago
+   &#9733 1562, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -591,7 +606,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 522, pushed 1 days ago
+   &#9733 522, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -612,7 +627,7 @@
   </a>
   - Local PyPI server (custom packages and auto-mirroring of pypi).
   <sup>
-   &#9733 269, pushed 237 days ago
+   &#9733 269, pushed 361 days ago
   </sup>
  </li>
 </ul>
@@ -631,11 +646,11 @@
   </a>
   - Converts Python programs into stand-alone executables (cross-platform).
   <sup>
-   &#9733 1698, pushed 3 days ago
+   &#9733 1698, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="http://dh-virtualenv.readthedocs.org/en/latest/">
+  <a href="https://github.com/spotify/dh-virtualenv">
    dh-virtualenv
   </a>
   - Build and distribute a virtualenv as a Debian package.
@@ -659,7 +674,7 @@
   - Freezes Python scripts (Windows).
  </li>
  <li>
-  <a href="http://pynsist.readthedocs.org/en/latest/">
+  <a href="http://pynsist.readthedocs.io/">
    pynsist
   </a>
   - A tool to build Windows installers, installers bundle Python itself.
@@ -692,7 +707,7 @@
   </a>
   - A console tool to build code with different development platforms.
   <sup>
-   &#9733 996, pushed 2 days ago
+   &#9733 996, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -701,7 +716,7 @@
   </a>
   - A continuous build tool written in pure Python.
   <sup>
-   &#9733 609, pushed 18 days ago
+   &#9733 609, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -732,7 +747,7 @@
   </a>
   – A fancy interface to the Python interpreter.
   <sup>
-   &#9733 508, pushed 14 days ago
+   &#9733 508, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -745,7 +760,7 @@
   </a>
   .
   <sup>
-   &#9733 1251, pushed 1 days ago
+   &#9733 1251, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -780,7 +795,7 @@
   </a>
   .
   <sup>
-   &#9733 604, pushed 17 days ago
+   &#9733 604, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +810,7 @@
   </a>
   - A Python interface to the libmagic file type identification library.
   <sup>
-   &#9733 626, pushed 42 days ago
+   &#9733 626, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -804,7 +819,7 @@
   </a>
   - An object-oriented approach to file/directory operations.
   <sup>
-   &#9733 353, pushed 444 days ago
+   &#9733 353, pushed 569 days ago
   </sup>
  </li>
  <li>
@@ -813,7 +828,7 @@
   </a>
   - API and shell utilities to monitor file system events.
   <sup>
-   &#9733 2031, pushed 21 days ago
+   &#9733 2031, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -832,7 +847,7 @@
   </a>
   - Better dates & times for Python.
   <sup>
-   &#9733 2987, pushed 2 days ago
+   &#9733 2987, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -841,7 +856,7 @@
   </a>
   - A Python 3 library for parsing human-written times and dates.
   <sup>
-   &#9733 214, pushed 117 days ago
+   &#9733 214, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -854,7 +869,7 @@
   </a>
   module.
   <sup>
-   &#9733 193, pushed 1 days ago
+   &#9733 193, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -873,7 +888,7 @@
   </a>
   .
   <sup>
-   &#9733 281, pushed 581 days ago
+   &#9733 281, pushed 706 days ago
   </sup>
  </li>
  <li>
@@ -882,7 +897,7 @@
   </a>
   - A easy-use Python module which aims to operate date/time/datetime by string.
   <sup>
-   &#9733 91, pushed 241 days ago
+   &#9733 91, pushed 366 days ago
   </sup>
  </li>
  <li>
@@ -901,7 +916,7 @@
   </a>
   - Providing user-friendly functions to help perform common date and time actions.
   <sup>
-   &#9733 146, pushed 66 days ago
+   &#9733 146, pushed 190 days ago
   </sup>
  </li>
 </ul>
@@ -935,7 +950,7 @@
     </a>
     - Makes Unicode text less broken and more consistent automagically.
     <sup>
-     &#9733 1161, pushed 11 days ago
+     &#9733 1161, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -944,7 +959,7 @@
     </a>
     - Fuzzy String Matching.
     <sup>
-     &#9733 2355, pushed 34 days ago
+     &#9733 2355, pushed 158 days ago
     </sup>
    </li>
    <li>
@@ -959,7 +974,7 @@
     </a>
     - Spacing texts for CJK and alphanumerics.
     <sup>
-     &#9733 38, pushed 100 days ago
+     &#9733 38, pushed 225 days ago
     </sup>
    </li>
    <li>
@@ -968,7 +983,7 @@
     </a>
     - An implementation of figlet written in Python.
     <sup>
-     &#9733 145, pushed 21 days ago
+     &#9733 145, pushed 146 days ago
     </sup>
    </li>
    <li>
@@ -977,7 +992,7 @@
     </a>
     - A generator library for concise, unambiguous and URL-safe UUIDs.
     <sup>
-     &#9733 574, pushed 111 days ago
+     &#9733 574, pushed 235 days ago
     </sup>
    </li>
    <li>
@@ -992,7 +1007,7 @@
     </a>
     - Print readable chars instead of the escaped string.
     <sup>
-     &#9733 90, pushed 608 days ago
+     &#9733 90, pushed 733 days ago
     </sup>
    </li>
    <li>
@@ -1001,12 +1016,12 @@
     </a>
     - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
     <sup>
-     &#9733 319, pushed 50 days ago
+     &#9733 319, pushed 175 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 499, pushed 47 days ago
+   &#9733 499, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1024,7 +1039,7 @@
     </a>
     - A Python slugify library that translates unicode to ASCII.
     <sup>
-     &#9733 241, pushed 108 days ago
+     &#9733 241, pushed 233 days ago
     </sup>
    </li>
    <li>
@@ -1033,12 +1048,12 @@
     </a>
     - A slugifier that generates unicode slugs with Django as a dependency.
     <sup>
-     &#9733 196, pushed 27 days ago
+     &#9733 196, pushed 152 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 270, pushed 218 days ago
+   &#9733 270, pushed 343 days ago
   </sup>
  </li>
  <li>
@@ -1074,7 +1089,7 @@
     </a>
     - Parsing human names into their individual components.
     <sup>
-     &#9733 145, pushed 40 days ago
+     &#9733 145, pushed 165 days ago
     </sup>
    </li>
    <li>
@@ -1083,18 +1098,18 @@
     </a>
     - Browser user agent parser.
     <sup>
-     &#9733 332, pushed 25 days ago
+     &#9733 332, pushed 150 days ago
     </sup>
    </li>
    <li>
-    <a href="https://sqlparse.readthedocs.org/en/latest/">
+    <a href="https://github.com/andialbrecht/sqlparse">
      sqlparse
     </a>
     - A non-validating SQL parser.
    </li>
   </ul>
   <sup>
-   &#9733 1200, pushed 11 days ago
+   &#9733 1200, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1118,7 +1133,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 1910, pushed 23 days ago
+   &#9733 1910, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1131,13 +1146,13 @@
     - Takes Python data structures and turns them into spreadsheets.
    </li>
    <li>
-    <a href="https://openpyxl.readthedocs.org/en/latest/">
+    <a href="https://openpyxl.readthedocs.io/">
      openpyxl
     </a>
     - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
    </li>
    <li>
-    <a href="http://pyexcel.readthedocs.org/en/latest/">
+    <a href="https://github.com/pyexcel/pyexcel">
      pyexcel
     </a>
     - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
@@ -1148,7 +1163,7 @@
     </a>
     - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     <sup>
-     &#9733 522, pushed 4 days ago
+     &#9733 522, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -1163,11 +1178,11 @@
     </a>
     - Convert between any document format supported by LibreOffice/OpenOffice.
     <sup>
-     &#9733 699, pushed 42 days ago
+     &#9733 699, pushed 166 days ago
     </sup>
    </li>
    <li>
-    <a href="https://xlsxwriter.readthedocs.org/en/latest/">
+    <a href="https://xlsxwriter.readthedocs.io">
      XlsxWriter
     </a>
     - A Python module for creating Excel .xlsx files.
@@ -1188,12 +1203,12 @@
     </a>
     - Writing and reading data and formatting information from Excel files.
     <sup>
-     &#9733 508, pushed 24 days ago
+     &#9733 508, pushed 149 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 118, pushed 70 days ago
+   &#9733 118, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -1211,7 +1226,7 @@
     </a>
     - A library capable of splitting, merging and transforming PDF pages.
     <sup>
-     &#9733 951, pushed 16 days ago
+     &#9733 951, pushed 140 days ago
     </sup>
    </li>
    <li>
@@ -1222,7 +1237,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 1479, pushed 2 days ago
+   &#9733 1479, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1240,12 +1255,12 @@
     </a>
     - A Python implementation of John Gruber’s Markdown.
     <sup>
-     &#9733 871, pushed 22 days ago
+     &#9733 871, pushed 146 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 640, pushed 21 days ago
+   &#9733 640, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1270,7 +1285,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 2047, pushed 9 days ago
+   &#9733 2047, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1284,7 +1299,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 219, pushed 237 days ago
+   &#9733 219, pushed 362 days ago
   </sup>
  </li>
 </ul>
@@ -1315,7 +1330,7 @@
   </a>
   - Chinese text segmentation.
   <sup>
-   &#9733 5061, pushed 49 days ago
+   &#9733 5061, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -1324,7 +1339,7 @@
   </a>
   - A library for processing Chinese text.
   <sup>
-   &#9733 1294, pushed 216 days ago
+   &#9733 1294, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -1334,7 +1349,7 @@
   - A library for industrial-strength natural language processing in Python and Cython.
  </li>
  <li>
-  <a href="http://textblob.readthedocs.org/en/latest/">
+  <a href="https://github.com/sloria/TextBlob">
    TextBlob
   </a>
   - Providing a consistent API for diving into common NLP tasks.
@@ -1345,7 +1360,7 @@
   </a>
   - A simple, efficient short-text classification tool based on LibLinear and Jieba.
   <sup>
-   &#9733 229, pushed 321 days ago
+   &#9733 229, pushed 446 days ago
   </sup>
  </li>
  <li>
@@ -1354,7 +1369,7 @@
   </a>
   - Stand-alone language identification system.
   <sup>
-   &#9733 559, pushed 28 days ago
+   &#9733 559, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -1378,7 +1393,7 @@
      awesome-sphinxdoc
     </a>
     <sup>
-     &#9733 159, pushed 14 days ago
+     &#9733 159, pushed 138 days ago
     </sup>
    </li>
   </ul>
@@ -1395,7 +1410,7 @@
   </a>
   - Epydoc replacement to auto generate API documentation for Python libraries.
   <sup>
-   &#9733 172, pushed 24 days ago
+   &#9733 172, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1404,7 +1419,7 @@
   </a>
   - The literate-programming-style documentation generator.
   <sup>
-   &#9733 491, pushed 29 days ago
+   &#9733 491, pushed 153 days ago
   </sup>
  </li>
 </ul>
@@ -1451,7 +1466,7 @@
   </a>
   - Strict separation of settings from code.
   <sup>
-   &#9733 235, pushed 9 days ago
+   &#9733 235, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1497,7 +1512,7 @@
     </a>
     - Python Command-line Application Tools.
     <sup>
-     &#9733 1982, pushed 47 days ago
+     &#9733 1982, pushed 172 days ago
     </sup>
    </li>
    <li>
@@ -1518,7 +1533,7 @@
     </a>
     - Turn command line programs into a full GUI application with one line
     <sup>
-     &#9733 3993, pushed 13 days ago
+     &#9733 3993, pushed 138 days ago
     </sup>
    </li>
    <li>
@@ -1527,12 +1542,12 @@
     </a>
     - A Library for building powerful interactive command lines.
     <sup>
-     &#9733 2318, pushed 2 days ago
+     &#9733 2318, pushed 127 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 264, pushed 3 days ago
+   &#9733 264, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1550,7 +1565,7 @@
     </a>
     - Making basic plots in the terminal.
     <sup>
-     &#9733 395, pushed 87 days ago
+     &#9733 395, pushed 211 days ago
     </sup>
    </li>
    <li>
@@ -1559,7 +1574,7 @@
     </a>
     - Determine what projects are blocking you from porting to Python 3.
     <sup>
-     &#9733 238, pushed 44 days ago
+     &#9733 238, pushed 169 days ago
     </sup>
    </li>
    <li>
@@ -1568,7 +1583,7 @@
     </a>
     - A command-line utility that creates projects from cookiecutters (project templates).
     <sup>
-     &#9733 3246, pushed 2 days ago
+     &#9733 3246, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -1577,7 +1592,7 @@
     </a>
     - A tool for live presentations in the terminal.
     <sup>
-     &#9733 695, pushed 198 days ago
+     &#9733 695, pushed 322 days ago
     </sup>
    </li>
    <li>
@@ -1586,7 +1601,7 @@
     </a>
     - Instant coding answers via the command line.
     <sup>
-     &#9733 4355, pushed 9 days ago
+     &#9733 4355, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -1595,7 +1610,7 @@
     </a>
     - A command line HTTP client, a user-friendly cURL replacement.
     <sup>
-     &#9733 22333, pushed 5 days ago
+     &#9733 22333, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -1604,7 +1619,7 @@
     </a>
     - Select files out of bash output.
     <sup>
-     &#9733 2853, pushed 17 days ago
+     &#9733 2853, pushed 142 days ago
     </sup>
    </li>
    <li>
@@ -1613,7 +1628,7 @@
     </a>
     - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     <sup>
-     &#9733 2022, pushed 100 days ago
+     &#9733 2022, pushed 225 days ago
     </sup>
    </li>
    <li>
@@ -1622,7 +1637,7 @@
     </a>
     - A Supercharged AWS CLI.
     <sup>
-     &#9733 2792, pushed 2 days ago
+     &#9733 2792, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -1631,7 +1646,7 @@
     </a>
     - Correcting your previous console command.
     <sup>
-     &#9733 20095, pushed 3 days ago
+     &#9733 20095, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -1640,7 +1655,7 @@
     </a>
     - A dead simple CLI to try out python packages - It's never been easier.
     <sup>
-     &#9733 274, pushed 8 days ago
+     &#9733 274, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -1649,7 +1664,7 @@
     </a>
     - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
     <sup>
-     &#9733 2635, pushed 8 days ago
+     &#9733 2635, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -1658,12 +1673,12 @@
     </a>
     - Postgres CLI with autocompletion and syntax highlighting.
     <sup>
-     &#9733 4388, pushed 6 days ago
+     &#9733 4388, pushed 131 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 3799, pushed 4 days ago
+   &#9733 3799, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -1682,7 +1697,7 @@
   </a>
   - A command line tool for managing Amazon S3 and CloudFront.
   <sup>
-   &#9733 1840, pushed 7 days ago
+   &#9733 1840, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1691,7 +1706,7 @@
   </a>
   - Super S3 command line tool, good for higher performance.
   <sup>
-   &#9733 388, pushed 25 days ago
+   &#9733 388, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1717,7 +1732,7 @@
 </p>
 <ul>
  <li>
-  <a href="http://pillow.readthedocs.org/en/latest/">
+  <a href="https://github.com/python-pillow/Pillow">
    pillow
   </a>
   - Pillow is the friendly
@@ -1732,7 +1747,7 @@
   </a>
   - Image histogram remapping.
   <sup>
-   &#9733 106, pushed 691 days ago
+   &#9733 106, pushed 815 days ago
   </sup>
  </li>
  <li>
@@ -1747,7 +1762,7 @@
   </a>
   - Nudity detection.
   <sup>
-   &#9733 349, pushed 216 days ago
+   &#9733 349, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -1762,7 +1777,7 @@
   </a>
   - Instagram-like image filters.
   <sup>
-   &#9733 38, pushed 801 days ago
+   &#9733 38, pushed 926 days ago
   </sup>
  </li>
  <li>
@@ -1771,7 +1786,7 @@
   </a>
   - A pure Python QR Code generator.
   <sup>
-   &#9733 850, pushed 49 days ago
+   &#9733 850, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1780,7 +1795,7 @@
   </a>
   - Computer art based on quadtrees.
   <sup>
-   &#9733 549, pushed 715 days ago
+   &#9733 549, pushed 839 days ago
   </sup>
  </li>
  <li>
@@ -1795,7 +1810,7 @@
   </a>
   - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
   <sup>
-   &#9733 3850, pushed 4 days ago
+   &#9733 3850, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1808,7 +1823,7 @@
   </a>
   , C API for ImageMagick.
   <sup>
-   &#9733 556, pushed 15 days ago
+   &#9733 556, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -1827,7 +1842,7 @@
   </a>
   - A wrapper for Tesseract and Cuneiform.
   <sup>
-   &#9733 279, pushed 1 days ago
+   &#9733 279, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1840,7 +1855,7 @@
   </a>
   .
   <sup>
-   &#9733 426, pushed 21 days ago
+   &#9733 426, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -1859,7 +1874,7 @@
   </a>
   - Expressive Digital Signal Processing (DSP) package for Python.
   <sup>
-   &#9733 218, pushed 425 days ago
+   &#9733 218, pushed 550 days ago
   </sup>
  </li>
  <li>
@@ -1868,7 +1883,7 @@
   </a>
   - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
   <sup>
-   &#9733 93, pushed 8 days ago
+   &#9733 93, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1887,7 +1902,7 @@
   </a>
   - Audio fingerprinting and recognition.
   <sup>
-   &#9733 2040, pushed 15 days ago
+   &#9733 2040, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1900,7 +1915,7 @@
   </a>
   .
   <sup>
-   &#9733 27, pushed 44 days ago
+   &#9733 27, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -1921,7 +1936,7 @@
   </a>
   - A module for parsing m3u8 file.
   <sup>
-   &#9733 165, pushed 65 days ago
+   &#9733 165, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -1936,7 +1951,7 @@
   </a>
   - Manipulate audio with a simple and easy high level interface.
   <sup>
-   &#9733 1369, pushed 13 days ago
+   &#9733 1369, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1949,7 +1964,7 @@
   </a>
   API.
   <sup>
-   &#9733 559, pushed 207 days ago
+   &#9733 559, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -1964,7 +1979,7 @@
   </a>
   - Open web audio processing framework.
   <sup>
-   &#9733 162, pushed 5 days ago
+   &#9733 162, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1973,7 +1988,7 @@
   </a>
   - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
   <sup>
-   &#9733 142, pushed 25 days ago
+   &#9733 142, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2004,7 +2019,7 @@
   </a>
   - Video processing routines for SciPy.
   <sup>
-   &#9733 35, pushed 330 days ago
+   &#9733 35, pushed 455 days ago
   </sup>
  </li>
 </ul>
@@ -2029,7 +2044,7 @@
   </a>
   - Python API for MaxMind GeoIP Legacy Database.
   <sup>
-   &#9733 127, pushed 18 days ago
+   &#9733 127, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2038,7 +2053,7 @@
   </a>
   - Python bindings and utilities for GeoJSON.
   <sup>
-   &#9733 199, pushed 9 days ago
+   &#9733 199, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2047,7 +2062,7 @@
   </a>
   - Python Geocoding Toolbox.
   <sup>
-   &#9733 1070, pushed 20 days ago
+   &#9733 1070, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -2056,7 +2071,7 @@
   </a>
   - Pure Python GeoIP API.
   <sup>
-   &#9733 415, pushed 194 days ago
+   &#9733 415, pushed 319 days ago
   </sup>
  </li>
  <li>
@@ -2065,7 +2080,7 @@
   </a>
   - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models.
   <sup>
-   &#9733 244, pushed 19 days ago
+   &#9733 244, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -2090,7 +2105,7 @@
   </a>
   - requests + gevent for asynchronous HTTP requests.
   <sup>
-   &#9733 1375, pushed 41 days ago
+   &#9733 1375, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -2099,7 +2114,7 @@
   </a>
   - Comprehensive HTTP client library.
   <sup>
-   &#9733 356, pushed 22 days ago
+   &#9733 356, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2108,7 +2123,7 @@
   </a>
   - Python requests like API built on top of Twisted's HTTP client.
   <sup>
-   &#9733 263, pushed 4 days ago
+   &#9733 263, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2117,7 +2132,7 @@
   </a>
   - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
   <sup>
-   &#9733 1031, pushed 3 days ago
+   &#9733 1031, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -2148,7 +2163,7 @@
   </a>
   - A tiny, document-oriented database.
   <sup>
-   &#9733 983, pushed 8 days ago
+   &#9733 983, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2185,7 +2200,7 @@
     </a>
     - mysql-python fork supporting Python 3.
     <sup>
-     &#9733 310, pushed 68 days ago
+     &#9733 310, pushed 193 days ago
     </sup>
    </li>
    <li>
@@ -2200,7 +2215,7 @@
     </a>
     - Pure Python MySQL driver compatible to mysql-python.
     <sup>
-     &#9733 1654, pushed 15 days ago
+     &#9733 1654, pushed 139 days ago
     </sup>
    </li>
   </ul>
@@ -2220,11 +2235,11 @@
     </a>
     - A wrapper of the psycopg2 library for interacting with PostgreSQL.
     <sup>
-     &#9733 139, pushed 33 days ago
+     &#9733 139, pushed 157 days ago
     </sup>
    </li>
    <li>
-    <a href="http://txpostgres.readthedocs.org/en/latest/">
+    <a href="https://github.com/wulczer/txpostgres">
      txpostgres
     </a>
     - Twisted based asynchronous driver for PostgreSQL.
@@ -2246,7 +2261,7 @@
     </a>
     - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     <sup>
-     &#9733 2223, pushed 6 days ago
+     &#9733 2223, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -2267,13 +2282,16 @@
     - Python driver for Cassandra.
    </li>
    <li>
-    <a href="http://happybase.readthedocs.org/en/latest/">
+    <a href="https://github.com/wbolster/happybase">
      HappyBase
     </a>
     - A developer-friendly library for Apache HBase.
+    <sup>
+     &#9733 242, pushed 155 days ago
+    </sup>
    </li>
    <li>
-    <a href="https://plyvel.readthedocs.org/en/latest/">
+    <a href="https://github.com/wbolster/plyvel">
      Plyvel
     </a>
     - A fast and feature-rich Python interface to LevelDB.
@@ -2290,7 +2308,7 @@
     </a>
     - Python Thrift driver for Cassandra.
     <sup>
-     &#9733 495, pushed 482 days ago
+     &#9733 495, pushed 606 days ago
     </sup>
    </li>
    <li>
@@ -2305,7 +2323,7 @@
     </a>
     - The Redis Python Client.
     <sup>
-     &#9733 4080, pushed 35 days ago
+     &#9733 4080, pushed 160 days ago
     </sup>
    </li>
    <li>
@@ -2314,7 +2332,7 @@
     </a>
     - Twisted based client for Cassandra.
     <sup>
-     &#9733 93, pushed 629 days ago
+     &#9733 93, pushed 754 days ago
     </sup>
    </li>
    <li>
@@ -2323,12 +2341,12 @@
     </a>
     - Twisted based client for Redis.
     <sup>
-     &#9733 112, pushed 89 days ago
+     &#9733 112, pushed 213 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 490, pushed 1 days ago
+   &#9733 490, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -2361,7 +2379,7 @@
        awesome-sqlalchemy
       </a>
       <sup>
-       &#9733 1106, pushed 30 days ago
+       &#9733 1106, pushed 155 days ago
       </sup>
      </li>
     </ul>
@@ -2372,7 +2390,7 @@
     </a>
     - A small, expressive ORM.
     <sup>
-     &#9733 2765, pushed 4 days ago
+     &#9733 2765, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -2408,7 +2426,7 @@
     </a>
     .
     <sup>
-     &#9733 177, pushed 4 days ago
+     &#9733 177, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -2417,7 +2435,7 @@
     </a>
     - Object mapper for Amazon DynamoDB.
     <sup>
-     &#9733 57, pushed 18 days ago
+     &#9733 57, pushed 143 days ago
     </sup>
    </li>
    <li>
@@ -2432,7 +2450,7 @@
     </a>
     - Rich Python data types for Redis.
     <sup>
-     &#9733 180, pushed 20 days ago
+     &#9733 180, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -2441,12 +2459,12 @@
     </a>
     - A Python Library for Simple Models and Containers Persisted in Redis.
     <sup>
-     &#9733 297, pushed 86 days ago
+     &#9733 297, pushed 211 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 631, pushed 21 days ago
+   &#9733 631, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2460,7 +2478,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 304, pushed 326 days ago
+   &#9733 304, pushed 451 days ago
   </sup>
  </li>
 </ul>
@@ -2484,7 +2502,7 @@
      awesome-django
     </a>
     <sup>
-     &#9733 3650, pushed 25 days ago
+     &#9733 3650, pushed 150 days ago
     </sup>
    </li>
   </ul>
@@ -2500,7 +2518,7 @@
      awesome-flask
     </a>
     <sup>
-     &#9733 2367, pushed 13 days ago
+     &#9733 2367, pushed 137 days ago
     </sup>
    </li>
   </ul>
@@ -2516,7 +2534,7 @@
      awesome-pyramid
     </a>
     <sup>
-     &#9733 248, pushed 1 days ago
+     &#9733 248, pushed 126 days ago
     </sup>
    </li>
   </ul>
@@ -2559,6 +2577,44 @@
  </li>
 </ul>
 <h2>
+ Serverless Frameworks
+</h2>
+<p>
+ <em>
+  Frameworks for developing serverless Python code.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/apex/apex">
+   apex
+  </a>
+  - Build, deploy, and manage
+  <a href="https://aws.amazon.com/lambda/">
+   AWS Lambda
+  </a>
+  functions with ease.
+  <sup>
+   &#9733 2443, pushed 127 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Miserlou/Zappa">
+   Zappa
+  </a>
+  - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+  <sup>
+   &#9733 586, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nficano/python-lambda">
+   python-lambda
+  </a>
+  - A toolkit for developing and deploying Python code in AWS Lambda.
+ </li>
+</ul>
+<h2>
  Permissions
 </h2>
 <p>
@@ -2579,7 +2635,7 @@
   </a>
   - Implementation of per object permissions for Django 1.2+
   <sup>
-   &#9733 1102, pushed 8 days ago
+   &#9733 1102, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2588,7 +2644,7 @@
   </a>
   - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
   <sup>
-   &#9733 292, pushed 81 days ago
+   &#9733 292, pushed 206 days ago
   </sup>
  </li>
 </ul>
@@ -2683,7 +2739,7 @@
   </a>
   - A Django based shop system.
   <sup>
-   &#9733 1035, pushed 1 days ago
+   &#9733 1035, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2692,7 +2748,7 @@
   </a>
   - A shopping cart app built using the Mezzanine.
   <sup>
-   &#9733 457, pushed 3 days ago
+   &#9733 457, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2707,7 +2763,7 @@
   </a>
   - Unofficial Alipay API for Python.
   <sup>
-   &#9733 127, pushed 121 days ago
+   &#9733 127, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -2716,7 +2772,7 @@
   </a>
   - A Django app to accept payments from various payment processors.
   <sup>
-   &#9733 826, pushed 15 days ago
+   &#9733 826, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2725,7 +2781,7 @@
   </a>
   - Money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
   <sup>
-   &#9733 62, pushed 16 days ago
+   &#9733 62, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2734,7 +2790,7 @@
   </a>
   - Display money format and its filthy currencies.
   <sup>
-   &#9733 20, pushed 65 days ago
+   &#9733 20, pushed 189 days ago
   </sup>
  </li>
 </ul>
@@ -2768,7 +2824,7 @@
     </a>
     - Create JSON APIs with Django's form validation.
     <sup>
-     &#9733 21, pushed 399 days ago
+     &#9733 21, pushed 524 days ago
     </sup>
    </li>
   </ul>
@@ -2783,16 +2839,22 @@
     - Browsable Web APIs for Flask.
    </li>
    <li>
-    <a href="http://flask-restful.readthedocs.org/en/latest/">
+    <a href="https://github.com/flask-restful/flask-restful">
      flask-restful
     </a>
     - Quickly building REST APIs for Flask.
+    <sup>
+     &#9733 1954, pushed 131 days ago
+    </sup>
    </li>
    <li>
-    <a href="https://flask-restless.readthedocs.org/en/latest/">
+    <a href="https://github.com/jfinkels/flask-restless">
      flask-restless
     </a>
     - Generating RESTful APIs for database models defined with SQLAlchemy.
+    <sup>
+     &#9733 626, pushed 126 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/marselester/flask-api-utils">
@@ -2800,7 +2862,7 @@
     </a>
     - Taking care of API representation and authentication for Flask.
     <sup>
-     &#9733 28, pushed 201 days ago
+     &#9733 28, pushed 326 days ago
     </sup>
    </li>
    <li>
@@ -2809,7 +2871,7 @@
     </a>
     - REST API framework powered by Flask, MongoDB and good intentions.
     <sup>
-     &#9733 3188, pushed 2 days ago
+     &#9733 3188, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -2818,12 +2880,15 @@
   Pyramid
   <ul>
    <li>
-    <a href="https://cornice.readthedocs.org/en/latest/">
+    <a href="https://github.com/mozilla-services/cornice">
      cornice
     </a>
-    - A REST framework for Pyramid.
+    - A RESTful framework for Pyramid.
    </li>
   </ul>
+  <sup>
+   &#9733 274, pushed 130 days ago
+  </sup>
  </li>
  <li>
   Framework agnostic
@@ -2840,7 +2905,7 @@
     </a>
     - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
     <sup>
-     &#9733 3072, pushed 2 days ago
+     &#9733 3072, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -2849,11 +2914,11 @@
     </a>
     - Automated REST APIs for existing database-driven systems.
     <sup>
-     &#9733 2219, pushed 63 days ago
+     &#9733 2219, pushed 188 days ago
     </sup>
    </li>
    <li>
-    <a href="http://restless.readthedocs.org/en/latest/">
+    <a href="https://github.com/toastdriven/restless">
      restless
     </a>
     - Framework agnostic REST framework based on lessons learned from Tastypie.
@@ -2864,7 +2929,7 @@
     </a>
     - Quickly creating REST/HATEOAS/Hypermedia APIs.
     <sup>
-     &#9733 152, pushed 36 days ago
+     &#9733 152, pushed 160 days ago
     </sup>
    </li>
   </ul>
@@ -2880,10 +2945,13 @@
 </p>
 <ul>
  <li>
-  <a href="http://marshmallow.readthedocs.org/en/latest/">
+  <a href="https://github.com/marshmallow-code/marshmallow">
    marshmallow
   </a>
   - marshmallow is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
+  <sup>
+   &#9733 1082, pushed 129 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2910,7 +2978,7 @@
     </a>
     - Authentication app for Django that "just works."
     <sup>
-     &#9733 2323, pushed 4 days ago
+     &#9733 2323, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -2919,7 +2987,7 @@
     </a>
     - OAuth2 goodies for the Djangonauts.
     <sup>
-     &#9733 728, pushed 4 days ago
+     &#9733 728, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -2928,7 +2996,7 @@
     </a>
     - Providing OAuth2 access to Django app.
     <sup>
-     &#9733 293, pushed 55 days ago
+     &#9733 293, pushed 180 days ago
     </sup>
    </li>
    <li>
@@ -2937,7 +3005,7 @@
     </a>
     - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
     <sup>
-     &#9733 690, pushed 2 days ago
+     &#9733 690, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -2946,7 +3014,7 @@
     </a>
     - A generic and thorough implementation of the OAuth request-signing logic.
     <sup>
-     &#9733 1115, pushed 2 days ago
+     &#9733 1115, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -2955,7 +3023,7 @@
     </a>
     - A fully tested, abstract interface to creating OAuth clients and servers.
     <sup>
-     &#9733 2386, pushed 42 days ago
+     &#9733 2386, pushed 167 days ago
     </sup>
    </li>
    <li>
@@ -2964,7 +3032,7 @@
     </a>
     - An easy-to-setup social authentication mechanism.
     <sup>
-     &#9733 2237, pushed 4 days ago
+     &#9733 2237, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -2973,7 +3041,7 @@
     </a>
     - A Python library for OAuth 1.0/a, 2.0, and Ofly.
     <sup>
-     &#9733 1413, pushed 180 days ago
+     &#9733 1413, pushed 305 days ago
     </sup>
    </li>
    <li>
@@ -2982,7 +3050,7 @@
     </a>
     - A dead simple OAuth2 client implementation.
     <sup>
-     &#9733 149, pushed 720 days ago
+     &#9733 149, pushed 845 days ago
     </sup>
    </li>
   </ul>
@@ -3002,7 +3070,7 @@
     </a>
     - Implementation of the JSON Web Token draft 01.
     <sup>
-     &#9733 753, pushed 62 days ago
+     &#9733 753, pushed 186 days ago
     </sup>
    </li>
    <li>
@@ -3011,7 +3079,7 @@
     </a>
     - Implementation of JSON Web Signatures draft 02.
     <sup>
-     &#9733 40, pushed 169 days ago
+     &#9733 40, pushed 293 days ago
     </sup>
    </li>
    <li>
@@ -3020,12 +3088,12 @@
     </a>
     - Module for generating and verifying JSON Web Tokens.
     <sup>
-     &#9733 95, pushed 59 days ago
+     &#9733 95, pushed 184 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 43, pushed 6 days ago
+   &#9733 43, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -3044,14 +3112,8 @@
   </a>
   - A modern and designer friendly templating language.
   <sup>
-   &#9733 3247, pushed 1 days ago
+   &#9733 3247, pushed 126 days ago
   </sup>
- </li>
- <li>
-  <a href="https://chameleon.readthedocs.org/en/latest/">
-   Chameleon
-  </a>
-  - An HTML/XML template engine. Modeled after ZPT, optimized for speed.
  </li>
  <li>
   <a href="https://genshi.edgewall.org/">
@@ -3087,7 +3149,7 @@
   </a>
   - Little multi-threaded task queue.
   <sup>
-   &#9733 875, pushed 8 days ago
+   &#9733 875, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3096,7 +3158,7 @@
   </a>
   - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
   <sup>
-   &#9733 370, pushed 5 days ago
+   &#9733 370, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3111,7 +3173,7 @@
   </a>
   - A simple, infinitely scalable, Amazon SQS based queue.
   <sup>
-   &#9733 101, pushed 351 days ago
+   &#9733 101, pushed 476 days ago
   </sup>
  </li>
 </ul>
@@ -3130,7 +3192,7 @@
   </a>
   - Modular search for Django.
   <sup>
-   &#9733 1955, pushed 20 days ago
+   &#9733 1955, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3149,7 +3211,7 @@
   </a>
   - The official high-level Python client for Elasticsearch.
   <sup>
-   &#9733 807, pushed 1 days ago
+   &#9733 807, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -3158,7 +3220,7 @@
   </a>
   - ElasticSearch ODM (Object Document Mapper) for Python.
   <sup>
-   &#9733 48, pushed 27 days ago
+   &#9733 48, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -3171,11 +3233,11 @@
   </a>
   .
   <sup>
-   &#9733 17, pushed 38 days ago
+   &#9733 17, pushed 163 days ago
   </sup>
  </li>
  <li>
-  <a href="http://whoosh.readthedocs.org/en/latest/">
+  <a href="http://whoosh.readthedocs.io/">
    Whoosh
   </a>
   - A fast, pure Python search engine library.
@@ -3196,7 +3258,7 @@
   </a>
   - Generating generic activity streams from the actions on your site.
   <sup>
-   &#9733 995, pushed 19 days ago
+   &#9733 995, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -3205,7 +3267,7 @@
   </a>
   - Building newsfeed and notification systems using Cassandra and Redis.
   <sup>
-   &#9733 2069, pushed 12 days ago
+   &#9733 2069, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -3224,11 +3286,20 @@
   </a>
   - Compresses linked and inline JavaScript or CSS into a single cached file.
   <sup>
-   &#9733 1663, pushed 3 days ago
+   &#9733 1663, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="http://django-storages.readthedocs.org/en/latest/">
+  <a href="https://github.com/jazzband/django-pipeline">
+   django-pipeline
+  </a>
+  - An asset packaging library for Django.
+  <sup>
+   &#9733 1026, pushed 138 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jschneier/django-storages">
    django-storages
   </a>
   - A collection of custom storage back ends for Django.
@@ -3241,15 +3312,18 @@
  </li>
  <li>
   <a href="http://fileconveyor.org/">
-   File Conveyor
+   fileconveyor
   </a>
   - A daemon to detect and sync files to CDNs, S3 and FTP.
  </li>
  <li>
-  <a href="http://flask-assets.readthedocs.org/en/latest/">
-   Flask-Assets
+  <a href="https://github.com/miracle2k/flask-assets">
+   flask-assets
   </a>
   - Helps you integrate webassets into your Flask app.
+  <sup>
+   &#9733 262, pushed 265 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jaysonsantos/jinja-assets-compressor">
@@ -3257,11 +3331,11 @@
   </a>
   - A Jinja extension to compile and compress your assets.
   <sup>
-   &#9733 36, pushed 4 days ago
+   &#9733 36, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="http://webassets.readthedocs.org/en/latest/">
+  <a href="https://github.com/miracle2k/webassets">
    webassets
   </a>
   - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
@@ -3277,7 +3351,7 @@
 </p>
 <ul>
  <li>
-  <a href="http://beaker.readthedocs.org/en/latest/">
+  <a href="https://github.com/bbangert/beaker">
    Beaker
   </a>
   - A library for caching and sessions for use with web applications and stand-alone Python scripts and applications.
@@ -3288,7 +3362,7 @@
   </a>
   - Automatic caching and invalidation for Django models.
   <sup>
-   &#9733 612, pushed 14 days ago
+   &#9733 612, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3297,7 +3371,7 @@
   </a>
   - A slick ORM cache with automatic granular event-driven invalidation.
   <sup>
-   &#9733 538, pushed 20 days ago
+   &#9733 538, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3306,11 +3380,11 @@
   </a>
   - Render template parts with extended cache control.
   <sup>
-   &#9733 54, pushed 125 days ago
+   &#9733 54, pushed 250 days ago
   </sup>
  </li>
  <li>
-  <a href="http://dogpilecache.readthedocs.org/en/latest/">
+  <a href="http://dogpilecache.readthedocs.io/">
    dogpile.cache
   </a>
   - dogpile.cache is next generation replacement for Beaker made by same authors.
@@ -3327,7 +3401,7 @@
   </a>
   - A caching framework for django applications.
   <sup>
-   &#9733 255, pushed 188 days ago
+   &#9733 255, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -3340,7 +3414,7 @@
   </a>
   interface.
   <sup>
-   &#9733 320, pushed 14 days ago
+   &#9733 320, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3371,7 +3445,7 @@
   </a>
   - A email address and Mime parsing library.
   <sup>
-   &#9733 912, pushed 8 days ago
+   &#9733 912, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3380,7 +3454,7 @@
   </a>
   - Python IMAP for Humans.
   <sup>
-   &#9733 617, pushed 25 days ago
+   &#9733 617, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -3389,7 +3463,7 @@
   </a>
   - Python SMTP Server for Humans.
   <sup>
-   &#9733 1215, pushed 89 days ago
+   &#9733 1215, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -3398,7 +3472,7 @@
   </a>
   - Pythonic SMTP Application Server.
   <sup>
-   &#9733 539, pushed 1153 days ago
+   &#9733 539, pushed 1278 days ago
   </sup>
  </li>
  <li>
@@ -3407,7 +3481,7 @@
   </a>
   - High-performance extensible mail delivery framework.
   <sup>
-   &#9733 99, pushed 7 days ago
+   &#9733 99, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3416,7 +3490,7 @@
   </a>
   - A mail hosting and management platform including a modern and simplified Web UI.
   <sup>
-   &#9733 516, pushed 3 days ago
+   &#9733 516, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3425,7 +3499,7 @@
   </a>
   - Providing a RESTful API on top of a powerful email sync platform.
   <sup>
-   &#9733 2897, pushed 4 days ago
+   &#9733 2897, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3434,7 +3508,7 @@
   </a>
   - Yet another Gmail/SMTP client.
   <sup>
-   &#9733 488, pushed 3 days ago
+   &#9733 488, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -3454,14 +3528,14 @@
   - An internationalization library for Python.
  </li>
  <li>
-  <a href="https://korean.readthedocs.org/en/latest/">
-   Korean
+  <a href="https://github.com/ovalhub/pyicu">
+   PyICU
   </a>
-  - A library for
-  <a href="https://en.wikipedia.org/wiki/Korean_language">
-   Korean
+  - A wrapper of International Components for Unicode C++ library (
+  <a href="http://site.icu-project.org/">
+   ICU
   </a>
-  morphology.
+  ).
  </li>
 </ul>
 <h2>
@@ -3479,7 +3553,7 @@
   </a>
   - A small Python library that makes manipulating URLs simple.
   <sup>
-   &#9733 898, pushed 12 days ago
+   &#9733 898, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3488,7 +3562,7 @@
   </a>
   - A simple, immutable URL class with a clean API for interrogation and manipulation.
   <sup>
-   &#9733 158, pushed 7 days ago
+   &#9733 158, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3497,7 +3571,7 @@
   </a>
   - A pure Python URL shortening lib.
   <sup>
-   &#9733 110, pushed 22 days ago
+   &#9733 110, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3506,7 +3580,7 @@
   </a>
   - Python implementation for generating Tiny URL and bit.ly-like URLs.
   <sup>
-   &#9733 47, pushed 661 days ago
+   &#9733 47, pushed 786 days ago
   </sup>
  </li>
  <li>
@@ -3515,7 +3589,7 @@
   </a>
   - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, and Pyramid.
   <sup>
-   &#9733 312, pushed 1 days ago
+   &#9733 312, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -3535,7 +3609,7 @@
   - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
  </li>
  <li>
-  <a href="http://bleach.readthedocs.org/en/latest/">
+  <a href="https://github.com/mozilla/bleach">
    bleach
   </a>
   - A whitelist-based HTML sanitization and text linkification library.
@@ -3552,7 +3626,7 @@
   </a>
   - A standards-compliant library for parsing and serializing HTML documents and fragments.
   <sup>
-   &#9733 471, pushed 9 days ago
+   &#9733 471, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3567,7 +3641,7 @@
   </a>
   - Implements a XML/HTML/XHTML Markup safe string for Python.
   <sup>
-   &#9733 120, pushed 22 days ago
+   &#9733 120, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3576,7 +3650,7 @@
   </a>
   - A jQuery-like library for parsing HTML.
   <sup>
-   &#9733 922, pushed 21 days ago
+   &#9733 922, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -3585,7 +3659,7 @@
   </a>
   - Converts XML documents to Python objects for easy access.
   <sup>
-   &#9733 157, pushed 112 days ago
+   &#9733 157, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -3594,8 +3668,14 @@
   </a>
   - HTML/CSS to PDF converter.
   <sup>
-   &#9733 1126, pushed 1 days ago
+   &#9733 1126, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://xmldataset.readthedocs.io">
+   xmldataset
+  </a>
+  - Simple XML Parsing.
  </li>
  <li>
   <a href="https://github.com/martinblech/xmltodict">
@@ -3603,7 +3683,7 @@
   </a>
   - Working with XML feel like you are working with JSON.
   <sup>
-   &#9733 1972, pushed 4 days ago
+   &#9733 1972, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3628,7 +3708,7 @@
   </a>
   - A distributed crawling framework.
   <sup>
-   &#9733 891, pushed 34 days ago
+   &#9733 891, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -3637,7 +3717,7 @@
   </a>
   - PyQuery-based scraping micro-framework.
   <sup>
-   &#9733 32, pushed 177 days ago
+   &#9733 32, pushed 301 days ago
   </sup>
  </li>
  <li>
@@ -3658,7 +3738,7 @@
   </a>
   - A Python library for automating interaction with websites.
   <sup>
-   &#9733 1339, pushed 63 days ago
+   &#9733 1339, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -3667,7 +3747,7 @@
   </a>
   - Visual scraping for Scrapy.
   <sup>
-   &#9733 4151, pushed 4 days ago
+   &#9733 4151, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3676,7 +3756,7 @@
   </a>
   - A powerful spider system.
   <sup>
-   &#9733 6485, pushed 5 days ago
+   &#9733 6485, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3685,7 +3765,7 @@
   </a>
   - A simple, Pythonic library for browsing the web without a standalone web browser.
   <sup>
-   &#9733 1314, pushed 47 days ago
+   &#9733 1314, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -3704,7 +3784,7 @@
   </a>
   - An Extensible Image Crawler.
   <sup>
-   &#9733 57, pushed 223 days ago
+   &#9733 57, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -3713,7 +3793,7 @@
   </a>
   - Convert HTML to Markdown-formatted text.
   <sup>
-   &#9733 236, pushed 32 days ago
+   &#9733 236, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -3722,7 +3802,7 @@
   </a>
   - Web Content Retrieval for Humans.
   <sup>
-   &#9733 302, pushed 174 days ago
+   &#9733 302, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -3731,7 +3811,7 @@
   </a>
   - A small library for extracting rich content from URLs.
   <sup>
-   &#9733 292, pushed 127 days ago
+   &#9733 292, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -3740,7 +3820,7 @@
   </a>
   - News extraction, article extraction and content curation in Python.
   <sup>
-   &#9733 3160, pushed 40 days ago
+   &#9733 3160, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -3749,7 +3829,7 @@
   </a>
   - A Python module to parse the Open Graph Protocol
   <sup>
-   &#9733 66, pushed 4 days ago
+   &#9733 66, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3758,7 +3838,7 @@
   </a>
   - HTML Content/Article Extractor.
   <sup>
-   &#9733 1884, pushed 43 days ago
+   &#9733 1884, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -3767,7 +3847,7 @@
   </a>
   - Fast Python port of arc90's readability tool.
   <sup>
-   &#9733 917, pushed 24 days ago
+   &#9733 917, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -3776,7 +3856,7 @@
   </a>
   - Bringing sanity to world of messed-up data.
   <sup>
-   &#9733 16, pushed 574 days ago
+   &#9733 16, pushed 699 days ago
   </sup>
  </li>
  <li>
@@ -3785,7 +3865,7 @@
   </a>
   - A module for automatic summarization of text documents and HTML pages.
   <sup>
-   &#9733 421, pushed 51 days ago
+   &#9733 421, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -3794,7 +3874,7 @@
   </a>
   - Extract text from any document, Word, PowerPoint, PDFs, etc.
   <sup>
-   &#9733 1683, pushed 73 days ago
+   &#9733 1683, pushed 198 days ago
   </sup>
  </li>
 </ul>
@@ -3808,10 +3888,13 @@
 </p>
 <ul>
  <li>
-  <a href="http://deform.readthedocs.org/en/latest/">
+  <a href="https://github.com/Pylons/deform">
    Deform
   </a>
   - Python HTML form generation library influenced by the formish form generation library.
+  <sup>
+   &#9733 170, pushed 143 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/dyve/django-bootstrap3">
@@ -3819,11 +3902,11 @@
   </a>
   - Bootstrap 3 integration with Django.
   <sup>
-   &#9733 1356, pushed 7 days ago
+   &#9733 1356, pushed 132 days ago
   </sup>
  </li>
  <li>
-  <a href="http://django-crispy-forms.readthedocs.org/en/latest/">
+  <a href="https://github.com/maraujop/django-crispy-forms">
    django-crispy-forms
   </a>
   - A Django app which lets you create beautiful forms in a very elegant and DRY way.
@@ -3834,20 +3917,17 @@
   </a>
   - A platform independent Django form serializer.
   <sup>
-   &#9733 140, pushed 201 days ago
+   &#9733 140, pushed 326 days ago
   </sup>
  </li>
  <li>
-  <a href="http://wtforms.readthedocs.org/en/latest/">
+  <a href="https://github.com/wtforms/wtforms">
    WTForms
   </a>
   - A flexible forms validation and rendering library.
- </li>
- <li>
-  <a href="http://wtforms-json.readthedocs.org/en/latest/">
-   WTForms-JSON
-  </a>
-  - A WTForms extension for JSON data handling.
+  <sup>
+   &#9733 507, pushed 134 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -3865,7 +3945,7 @@
   </a>
   - Data Structure Validation.
   <sup>
-   &#9733 1550, pushed 3 days ago
+   &#9733 1550, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3874,7 +3954,7 @@
   </a>
   - A library for validating Python data structures.
   <sup>
-   &#9733 832, pushed 76 days ago
+   &#9733 832, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -3887,7 +3967,7 @@
   </a>
   for Python.
   <sup>
-   &#9733 804, pushed 95 days ago
+   &#9733 804, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -3908,7 +3988,7 @@
   </a>
   - A Python data validation library.
   <sup>
-   &#9733 590, pushed 2 days ago
+   &#9733 590, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3917,7 +3997,7 @@
   </a>
   - Lightweight extensible data validation and adaptation library.
   <sup>
-   &#9733 164, pushed 135 days ago
+   &#9733 164, pushed 260 days ago
   </sup>
  </li>
 </ul>
@@ -3936,7 +4016,7 @@
   </a>
   - A simple and highly customizable Django app to add captcha images to any Django form.
   <sup>
-   &#9733 354, pushed 26 days ago
+   &#9733 354, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -3945,7 +4025,7 @@
   </a>
   - Simple spam blocker for Django.
   <sup>
-   &#9733 9, pushed 1231 days ago
+   &#9733 9, pushed 1355 days ago
   </sup>
  </li>
 </ul>
@@ -3964,7 +4044,7 @@
   </a>
   - Simple tagging for Django.
   <sup>
-   &#9733 1446, pushed 4 days ago
+   &#9733 1446, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3983,7 +4063,7 @@
   </a>
   - The admin panel your servers deserve.
   <sup>
-   &#9733 148, pushed 329 days ago
+   &#9733 148, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -3998,7 +4078,7 @@
   </a>
   - Drop-in replacement of Django admin comes with lots of goodies.
   <sup>
-   &#9733 1597, pushed 2 days ago
+   &#9733 1597, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4007,7 +4087,7 @@
   </a>
   - Simple and extensible administrative interface framework for Flask.
   <sup>
-   &#9733 1673, pushed 2 days ago
+   &#9733 1673, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4016,7 +4096,7 @@
   </a>
   - Real-time monitor and web admin for Celery.
   <sup>
-   &#9733 1673, pushed 4 days ago
+   &#9733 1673, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4031,7 +4111,7 @@
   </a>
   - A Django app which creates automatic web UIs for Python scripts.
   <sup>
-   &#9733 634, pushed 20 days ago
+   &#9733 634, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -4100,11 +4180,11 @@
   </a>
   for Humans™.
   <sup>
-   &#9733 1667, pushed 629 days ago
+   &#9733 1667, pushed 754 days ago
   </sup>
  </li>
  <li>
-  <a href="http://sarge.readthedocs.org/en/latest/">
+  <a href="http://sarge.readthedocs.io/">
    sarge
   </a>
   - Yet another wrapper for subprocess.
@@ -4115,7 +4195,7 @@
   </a>
   - A full-fledged subprocess replacement for Python.
   <sup>
-   &#9733 3321, pushed 19 days ago
+   &#9733 3321, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -4162,8 +4242,14 @@
   </a>
   - Magic decorator syntax for asynchronous code.
   <sup>
-   &#9733 1123, pushed 6 days ago
+   &#9733 1123, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MagicStack/uvloop">
+   uvloop
+  </a>
+  - Ultra fast implementation of asyncio event loop on top of libuv.
  </li>
 </ul>
 <h2>
@@ -4193,7 +4279,7 @@
   </a>
   - Event-driven concurrent framework for Python.
   <sup>
-   &#9733 1241, pushed 5 days ago
+   &#9733 1241, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -4202,7 +4288,7 @@
   </a>
   - Greenlet-based event I/O Framework for Python.
   <sup>
-   &#9733 529, pushed 385 days ago
+   &#9733 529, pushed 510 days ago
   </sup>
  </li>
  <li>
@@ -4217,7 +4303,7 @@
   </a>
   - Twisted based wrapper for the ZeroMQ message library.
   <sup>
-   &#9733 120, pushed 263 days ago
+   &#9733 120, pushed 388 days ago
   </sup>
  </li>
 </ul>
@@ -4240,7 +4326,7 @@
   </a>
   .
   <sup>
-   &#9733 1107, pushed 2 days ago
+   &#9733 1107, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4255,7 +4341,7 @@
   </a>
   - WebSockets for Django.
   <sup>
-   &#9733 882, pushed 28 days ago
+   &#9733 882, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -4264,7 +4350,7 @@
   </a>
   - WebSocket client and server library for Python 2 and 3 as well as PyPy.
   <sup>
-   &#9733 660, pushed 71 days ago
+   &#9733 660, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -4284,7 +4370,7 @@
   - Pre-forked, partly written in C.
  </li>
  <li>
-  <a href="https://uwsgi-docs.readthedocs.org/en/latest/">
+  <a href="https://uwsgi-docs.readthedocs.io/">
    uwsgi
   </a>
   - A project aims at developing a full stack for building hosting services, written in C.
@@ -4313,7 +4399,7 @@
   </a>
   - Asynchronous, very fast.
   <sup>
-   &#9733 36, pushed 16 days ago
+   &#9733 36, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -4329,7 +4415,7 @@
   - Multi-threaded.
  </li>
  <li>
-  <a href="https://waitress.readthedocs.org/en/latest/">
+  <a href="https://waitress.readthedocs.io/">
    waitress
   </a>
   - Multi-threaded, poweres Pyramid.
@@ -4376,7 +4462,7 @@
   </a>
   .
   <sup>
-   &#9733 1674, pushed 43 days ago
+   &#9733 1674, pushed 168 days ago
   </sup>
  </li>
 </ul>
@@ -4400,7 +4486,7 @@
   </a>
   in Python.
   <sup>
-   &#9733 416, pushed 92 days ago
+   &#9733 416, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -4427,7 +4513,7 @@
   </a>
   - Python binding to the Networking and Cryptography (NaCl) library.
   <sup>
-   &#9733 275, pushed 8 days ago
+   &#9733 275, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -4456,7 +4542,7 @@
   </a>
   - Creating beautiful user-interfaces with Declaratic Syntax like QML.
   <sup>
-   &#9733 449, pushed 17 days ago
+   &#9733 449, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -4503,7 +4589,7 @@
   </a>
   - A Python native, OS native GUI toolkit.
   <sup>
-   &#9733 756, pushed 41 days ago
+   &#9733 756, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -4530,7 +4616,7 @@
   </a>
   - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
   <sup>
-   &#9733 904, pushed 9 days ago
+   &#9733 904, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -4574,7 +4660,7 @@
   - Python ctypes bindings for OpenGL and it's related APIs.
  </li>
  <li>
-  <a href="http://pysdl2.readthedocs.org/en/latest/">
+  <a href="http://pysdl2.readthedocs.io/">
    PySDL2
   </a>
   - A ctypes based wrapper for the SDL2 library.
@@ -4608,16 +4694,19 @@
   - Logging replacement for Python.
  </li>
  <li>
-  <a href="https://eliot.readthedocs.org/en/latest/">
+  <a href="https://github.com/ClusterHQ/eliot">
    Eliot
   </a>
   - Logging for complex & distributed systems.
  </li>
  <li>
-  <a href="http://raven.readthedocs.org/en/latest/">
+  <a href="https://github.com/getsentry/raven-python">
    Raven
   </a>
   - The Python client for Sentry.
+  <sup>
+   &#9733 942, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://pypi.python.org/pypi/sentry">
@@ -4645,10 +4734,14 @@
     - (Python standard library) Unit testing framework.
    </li>
    <li>
-    <a href="https://nose.readthedocs.org/en/latest/">
+    <a href="https://github.com/nose-devs/nose">
      nose
     </a>
-    - nose extends unittest.
+    - A nicer
+    <code>
+     unittest
+    </code>
+    for Python.
    </li>
    <li>
     <a href="http://pytest.org/latest/">
@@ -4662,7 +4755,7 @@
     </a>
     - Hypothesis is an advanced Quickcheck style property based testing library.
     <sup>
-     &#9733 1188, pushed 2 days ago
+     &#9733 1188, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -4677,7 +4770,7 @@
     </a>
     - A generic test automation framework.
     <sup>
-     &#9733 897, pushed 6 days ago
+     &#9733 897, pushed 131 days ago
     </sup>
    </li>
   </ul>
@@ -4686,7 +4779,7 @@
   Test Runners
   <ul>
    <li>
-    <a href="https://tox.readthedocs.org/en/latest/">
+    <a href="https://tox.readthedocs.io/">
      tox
     </a>
     - Auto builds and tests distributions in multiple Python versions
@@ -4697,7 +4790,7 @@
     </a>
     - A clean, colorful test runner.
     <sup>
-     &#9733 340, pushed 18 days ago
+     &#9733 340, pushed 142 days ago
     </sup>
    </li>
   </ul>
@@ -4721,7 +4814,7 @@
     </a>
     - Scalable user load testing tool written in Python.
     <sup>
-     &#9733 3504, pushed 5 days ago
+     &#9733 3504, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -4730,11 +4823,11 @@
     </a>
     - A language-agnostic A/B Testing framework.
     <sup>
-     &#9733 1056, pushed 40 days ago
+     &#9733 1056, pushed 165 days ago
     </sup>
    </li>
    <li>
-    <a href="https://splinter.readthedocs.org/en/latest/">
+    <a href="https://github.com/cobrateam/splinter">
      splinter
     </a>
     - Open source tool for testing web applications.
@@ -4745,7 +4838,7 @@
     </a>
     - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     <sup>
-     &#9733 451, pushed 4 days ago
+     &#9733 451, pushed 129 days ago
     </sup>
    </li>
   </ul>
@@ -4771,7 +4864,7 @@
     </a>
     - Travel through time by mocking the datetime module.
     <sup>
-     &#9733 731, pushed 10 days ago
+     &#9733 731, pushed 134 days ago
     </sup>
    </li>
    <li>
@@ -4780,11 +4873,11 @@
     </a>
     - A mocking library for requests for Python 2.6+ and 3.2+.
     <sup>
-     &#9733 242, pushed 33 days ago
+     &#9733 242, pushed 158 days ago
     </sup>
    </li>
    <li>
-    <a href="http://falcao.it/HTTPretty/">
+    <a href="https://github.com/gabrielfalcao/HTTPretty">
      httpretty
     </a>
     - HTTP request mock tool for Python.
@@ -4795,7 +4888,7 @@
     </a>
     - A utility library for mocking out the requests Python library.
     <sup>
-     &#9733 1213, pushed 5 days ago
+     &#9733 1213, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -4804,7 +4897,7 @@
     </a>
     - Record and replay HTTP interactions on your tests.
     <sup>
-     &#9733 679, pushed 2 days ago
+     &#9733 679, pushed 126 days ago
     </sup>
    </li>
   </ul>
@@ -4827,7 +4920,7 @@
     </a>
     - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
     <sup>
-     &#9733 299, pushed 15 days ago
+     &#9733 299, pushed 139 days ago
     </sup>
    </li>
    <li>
@@ -4835,12 +4928,12 @@
      model
     </a>
     <sup>
-     &#9733 568, pushed 15 days ago
+     &#9733 568, pushed 140 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 890, pushed 11 days ago
+   &#9733 890, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -4861,7 +4954,7 @@ mommy
  Fake Data
  <ul>
   <li>
-   <a href="http://www.joke2k.net/faker/">
+   <a href="https://github.com/joke2k/faker">
     faker
    </a>
    - A Python package that generates fake data.
@@ -4872,7 +4965,7 @@ mommy
    </a>
    - Fake database generator.
    <sup>
-    &#9733 1643, pushed 135 days ago
+    &#9733 1643, pushed 260 days ago
    </sup>
   </li>
   <li>
@@ -4894,7 +4987,7 @@ mommy
   </li>
  </ul>
  <sup>
-  &#9733 2037, pushed 18 days ago
+  &#9733 2037, pushed 143 days ago
  </sup>
 </li>
 <h2>
@@ -4921,7 +5014,7 @@ mommy
     </a>
     - A library that visualises the flow (call graph) of your Python application.
     <sup>
-     &#9733 605, pushed 21 days ago
+     &#9733 605, pushed 145 days ago
     </sup>
    </li>
    <li>
@@ -4930,7 +5023,7 @@ mommy
     </a>
     - A type inferencer and indexer for Python.
     <sup>
-     &#9733 2068, pushed 6 days ago
+     &#9733 2068, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -4941,7 +5034,7 @@ mommy
    </li>
   </ul>
   <sup>
-   &#9733 233, pushed 63 days ago
+   &#9733 233, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -4960,7 +5053,7 @@ mommy
     - A Fully customizable source code analyzer.
    </li>
    <li>
-    <a href="https://pylama.readthedocs.org/en/latest/">
+    <a href="https://github.com/klen/pylama">
      pylama
     </a>
     - Code audit tool for Python and JavaScript.
@@ -5002,7 +5095,7 @@ mommy
     </a>
     - Debugger capable of attaching to and injecting code into Python processes.
     <sup>
-     &#9733 1354, pushed 724 days ago
+     &#9733 1354, pushed 849 days ago
     </sup>
    </li>
    <li>
@@ -5011,7 +5104,7 @@ mommy
     </a>
     - An improbable web debugger through WebSockets.
     <sup>
-     &#9733 852, pushed 25 days ago
+     &#9733 852, pushed 150 days ago
     </sup>
    </li>
    <li>
@@ -5030,7 +5123,7 @@ mommy
     </a>
     - Display various debug information for Django.
     <sup>
-     &#9733 3579, pushed 68 days ago
+     &#9733 3579, pushed 193 days ago
     </sup>
    </li>
    <li>
@@ -5039,7 +5132,7 @@ mommy
     </a>
     - A drop-in replacement for Django's runserver.
     <sup>
-     &#9733 1139, pushed 4 days ago
+     &#9733 1139, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -5048,7 +5141,7 @@ mommy
     </a>
     - A port of the django-debug-toolbar to flask.
     <sup>
-     &#9733 455, pushed 244 days ago
+     &#9733 455, pushed 369 days ago
     </sup>
    </li>
   </ul>
@@ -5070,12 +5163,12 @@ mommy
      memory
     </a>
     <sup>
-     &#9733 742, pushed 85 days ago
+     &#9733 742, pushed 210 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 788, pushed 8 days ago
+   &#9733 788, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -5087,7 +5180,7 @@ profiler
  </a>
  - An interactive Python profiler.
  <sup>
-  &#9733 2389, pushed 41 days ago
+  &#9733 2389, pushed 166 days ago
  </sup>
 </li>
 <li>
@@ -5109,12 +5202,12 @@ profiler
    </a>
    server.
    <sup>
-    &#9733 84, pushed 259 days ago
+    &#9733 84, pushed 384 days ago
    </sup>
   </li>
  </ul>
  <sup>
-  &#9733 315, pushed 62 days ago
+  &#9733 315, pushed 187 days ago
  </sup>
 </li>
 <h2>
@@ -5138,7 +5231,7 @@ profiler
   </a>
   - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis.
   <sup>
-   &#9733 297, pushed 2 days ago
+   &#9733 297, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5147,7 +5240,7 @@ profiler
   </a>
   - Collection of useful code related to biological analysis.
   <sup>
-   &#9733 301, pushed 5 days ago
+   &#9733 301, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5157,10 +5250,13 @@ profiler
   - Biopython is a set of freely available tools for biological computation.
  </li>
  <li>
-  <a href="http://blaze.readthedocs.org/en/latest/index.html">
+  <a href="https://github.com/blaze/blaze">
    blaze
   </a>
   - NumPy and Pandas interface to Big Data.
+  <sup>
+   &#9733 1445, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="http://cclib.github.io/">
@@ -5210,7 +5306,7 @@ profiler
   </a>
   - Business Intelligence (BI) in Python (Pandas web interface)
   <sup>
-   &#9733 556, pushed 60 days ago
+   &#9733 556, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -5237,7 +5333,7 @@ profiler
   </a>
   - Markov Chain Monte Carlo sampling toolkit.
   <sup>
-   &#9733 1440, pushed 7 days ago
+   &#9733 1440, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -5258,7 +5354,7 @@ profiler
   </a>
   - Statistical modeling and econometrics in Python.
   <sup>
-   &#9733 1418, pushed 2 days ago
+   &#9733 1418, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5267,7 +5363,7 @@ profiler
   </a>
   - A Python library for symbolic mathematics.
   <sup>
-   &#9733 2825, pushed 2 days ago
+   &#9733 2825, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5276,7 +5372,7 @@ profiler
   </a>
   - A Pythonic algorithmic trading library.
   <sup>
-   &#9733 3154, pushed 4 days ago
+   &#9733 3154, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -5305,7 +5401,7 @@ profiler
   </a>
   - Interactive Web Plotting for Python.
   <sup>
-   &#9733 4131, pushed 2 days ago
+   &#9733 4131, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5314,7 +5410,7 @@ profiler
   </a>
   - Same API as ggplot2 for R.
   <sup>
-   &#9733 2487, pushed 2 days ago
+   &#9733 2487, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5357,7 +5453,7 @@ profiler
   </a>
   - A Python to Vega translator.
   <sup>
-   &#9733 1843, pushed 102 days ago
+   &#9733 1843, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -5408,7 +5504,7 @@ profiler
   </a>
   - A ﬂexible, fast recommender engine.
   <sup>
-   &#9733 667, pushed 1524 days ago
+   &#9733 667, pushed 1649 days ago
   </sup>
  </li>
  <li>
@@ -5417,7 +5513,7 @@ profiler
   </a>
   - Topic Modelling for Humans.
   <sup>
-   &#9733 2482, pushed 1 days ago
+   &#9733 2482, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5426,7 +5522,7 @@ profiler
   </a>
   - GPU-Accelerated Deep Learning Library in Python.
   <sup>
-   &#9733 1137, pushed 264 days ago
+   &#9733 1137, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -5435,7 +5531,7 @@ profiler
   </a>
   - Numenta Platform for Intelligent Computing.
   <sup>
-   &#9733 4079, pushed 5 days ago
+   &#9733 4079, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5444,7 +5540,7 @@ profiler
   </a>
   - Web mining module for Python.
   <sup>
-   &#9733 4390, pushed 5 days ago
+   &#9733 4390, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5453,7 +5549,7 @@ profiler
   </a>
   - Another Python Machine Learning Library.
   <sup>
-   &#9733 1775, pushed 53 days ago
+   &#9733 1775, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -5466,7 +5562,7 @@ profiler
   </a>
   .
   <sup>
-   &#9733 2065, pushed 30 days ago
+   &#9733 2065, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -5475,7 +5571,7 @@ profiler
   </a>
   - A Python library for implementing a Recommender System.
   <sup>
-   &#9733 561, pushed 139 days ago
+   &#9733 561, pushed 264 days ago
   </sup>
  </li>
  <li>
@@ -5488,9 +5584,9 @@ profiler
   <a href="https://github.com/andersbll/deeppy">
    pydeep
   </a>
-  -Deep learning in python
+  - Deep learning in python
   <sup>
-   &#9733 875, pushed 27 days ago
+   &#9733 875, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -5503,7 +5599,7 @@ profiler
   </a>
   .
   <sup>
-   &#9733 120, pushed 288 days ago
+   &#9733 120, pushed 413 days ago
   </sup>
  </li>
  <li>
@@ -5516,7 +5612,7 @@ profiler
   </a>
   (mimicking scikit-learn).
   <sup>
-   &#9733 2309, pushed 15 days ago
+   &#9733 2309, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -5535,7 +5631,7 @@ profiler
   </a>
   - Python clone of Spark, a MapReduce alike framework in Python.
   <sup>
-   &#9733 1735, pushed 49 days ago
+   &#9733 1735, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -5544,7 +5640,7 @@ profiler
   </a>
   - Python module that allows one to easily write and run Hadoop programs.
   <sup>
-   &#9733 966, pushed 13 days ago
+   &#9733 966, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -5553,7 +5649,7 @@ profiler
   </a>
   - A module that helps you build complex pipelines of batch jobs.
   <sup>
-   &#9733 4510, pushed 1 days ago
+   &#9733 4510, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -5562,7 +5658,7 @@ profiler
   </a>
   - Run MapReduce jobs on Hadoop or Amazon Web Services.
   <sup>
-   &#9733 1786, pushed 2 days ago
+   &#9733 1786, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5581,7 +5677,7 @@ profiler
   </a>
   .
   <sup>
-   &#9733 963, pushed 13 days ago
+   &#9733 963, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -5606,7 +5702,7 @@ profiler
   </a>
   - Functional programming in Python: implementation of missing features to enjoy FP.
   <sup>
-   &#9733 1914, pushed 34 days ago
+   &#9733 1914, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -5615,7 +5711,7 @@ profiler
   </a>
   - A fancy and practical functional tools.
   <sup>
-   &#9733 1282, pushed 27 days ago
+   &#9733 1282, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -5624,7 +5720,7 @@ profiler
   </a>
   - A collection of functional utilities for iterators, functions, and dictionaries.
   <sup>
-   &#9733 1085, pushed 7 days ago
+   &#9733 1085, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -5653,7 +5749,7 @@ profiler
   </a>
   - Python interface to Amazon Web Services.
   <sup>
-   &#9733 5447, pushed 4 days ago
+   &#9733 5447, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5668,7 +5764,7 @@ profiler
   </a>
   - Facebook Platform Python SDK.
   <sup>
-   &#9733 1642, pushed 7 days ago
+   &#9733 1642, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -5677,7 +5773,7 @@ profiler
   </a>
   - Facepy makes it really easy to interact with Facebook's Graph API
   <sup>
-   &#9733 455, pushed 43 days ago
+   &#9733 455, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -5686,7 +5782,7 @@ profiler
   </a>
   - A Pythonic interface for Gmail.
   <sup>
-   &#9733 1253, pushed 11 days ago
+   &#9733 1253, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -5695,7 +5791,7 @@ profiler
   </a>
   - Google APIs Client Library for Python.
   <sup>
-   &#9733 904, pushed 5 days ago
+   &#9733 904, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5704,7 +5800,7 @@ profiler
   </a>
   - Google Spreadsheets Python API.
   <sup>
-   &#9733 1646, pushed 9 days ago
+   &#9733 1646, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -5713,7 +5809,7 @@ profiler
   </a>
   - A Python wrapper for the Twitter API.
   <sup>
-   &#9733 1158, pushed 3 days ago
+   &#9733 1158, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -5732,7 +5828,7 @@ profiler
   </a>
   - A radically simple IT automation platform.
   <sup>
-   &#9733 16550, pushed 2 days ago
+   &#9733 16550, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5741,7 +5837,7 @@ profiler
   </a>
   - Infrastructure automation and management system.
   <sup>
-   &#9733 6489, pushed 2 days ago
+   &#9733 6489, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5761,7 +5857,7 @@ profiler
   .
  </li>
  <li>
-  <a href="http://cloudinit.readthedocs.org/en/latest/">
+  <a href="http://cloudinit.readthedocs.io/">
    Cloud-Init
   </a>
   - A multi-distribution package that handles early initialization of a cloud instance.
@@ -5772,7 +5868,7 @@ profiler
   </a>
   - Chef-like functionality for Fabric.
   <sup>
-   &#9733 1166, pushed 162 days ago
+   &#9733 1166, pushed 287 days ago
   </sup>
  </li>
  <li>
@@ -5787,7 +5883,7 @@ profiler
   </a>
   - Tools for writing awesome Fabric files.
   <sup>
-   &#9733 995, pushed 2 days ago
+   &#9733 995, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5800,7 +5896,7 @@ profiler
   </a>
   , for managing Procfile-based applications.
   <sup>
-   &#9733 754, pushed 20 days ago
+   &#9733 754, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -5809,7 +5905,7 @@ profiler
   </a>
   - Controlling interactive programs in a pseudo-terminal like GNU expect.
   <sup>
-   &#9733 570, pushed 8 days ago
+   &#9733 570, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -5818,7 +5914,7 @@ profiler
   </a>
   - A cross-platform process and system utilities module.
   <sup>
-   &#9733 1544, pushed 4 days ago
+   &#9733 1544, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -5827,8 +5923,24 @@ profiler
   </a>
   - Supervisor process control system for UNIX.
   <sup>
-   &#9733 2461, pushed 3 days ago
+   &#9733 2461, pushed 128 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ ChatOps Tools
+</h2>
+<p>
+ <em>
+  Libraries for chatbot development.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://errbot.io/">
+   Errbot
+  </a>
+  - The easiest and most popular chatbot to implement ChatOps.
  </li>
 </ul>
 <h2>
@@ -5841,7 +5953,7 @@ profiler
 </p>
 <ul>
  <li>
-  <a href="http://apscheduler.readthedocs.org/en/latest/">
+  <a href="http://apscheduler.readthedocs.io/">
    APScheduler
   </a>
   - A light but powerful in-process task scheduler that lets you schedule functions.
@@ -5852,7 +5964,7 @@ profiler
   </a>
   - A calendaring app for Django.
   <sup>
-   &#9733 622, pushed 17 days ago
+   &#9733 622, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -5867,7 +5979,7 @@ profiler
   </a>
   - Multipurpose task execution tool for distributed systems with web-based interface.
   <sup>
-   &#9733 585, pushed 187 days ago
+   &#9733 585, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -5882,7 +5994,7 @@ profiler
   </a>
   - Writing crontab file in Python like a charm.
   <sup>
-   &#9733 875, pushed 48 days ago
+   &#9733 875, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -5891,7 +6003,7 @@ profiler
   </a>
   - Python job scheduling for humans.
   <sup>
-   &#9733 2126, pushed 58 days ago
+   &#9733 2126, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -5900,7 +6012,7 @@ profiler
   </a>
   - A powerful workflow engine implemented in pure Python.
   <sup>
-   &#9733 322, pushed 127 days ago
+   &#9733 322, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -5965,7 +6077,7 @@ profiler
   </a>
   - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
   <sup>
-   &#9733 729, pushed 21 days ago
+   &#9733 729, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -5980,7 +6092,7 @@ profiler
   </a>
   - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance.
   <sup>
-   &#9733 3666, pushed 1 days ago
+   &#9733 3666, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -6017,7 +6129,7 @@ profiler
   </a>
   - Python Integration with the .NET Common Language Runtime (CLR).
   <sup>
-   &#9733 175, pushed 13 days ago
+   &#9733 175, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -6054,7 +6166,7 @@ profiler
   </a>
   - An open source development platform for Python-based Software Defined Networking (SDN) control applications, such as OpenFlow SDN controllers.
   <sup>
-   &#9733 302, pushed 29 days ago
+   &#9733 302, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -6069,7 +6181,7 @@ profiler
   </a>
   - SDN based IXP implementation that leverages Mininet, POX and Pyretic.
   <sup>
-   &#9733 8, pushed 889 days ago
+   &#9733 8, pushed 1013 days ago
   </sup>
  </li>
 </ul>
@@ -6104,7 +6216,7 @@ profiler
   </a>
   - A module for cross-platform control of the mouse and keyboard.
   <sup>
-   &#9733 425, pushed 13 days ago
+   &#9733 425, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -6113,11 +6225,11 @@ profiler
   </a>
   - A brilliant packet manipulation library.
   <sup>
-   &#9733 367, pushed 1 days ago
+   &#9733 367, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="https://wifi.readthedocs.org/en/latest/">
+  <a href="https://github.com/rockymeza/wifi">
    wifi
   </a>
   - A Python library and command line tool for working with WiFi on Linux.
@@ -6150,7 +6262,7 @@ profiler
   </a>
   - Modernizes Python code for eventual Python 3 migration.
   <sup>
-   &#9733 401, pushed 198 days ago
+   &#9733 401, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -6175,7 +6287,7 @@ profiler
   </a>
   - A fast Python in-process signal/event dispatching system.
   <sup>
-   &#9733 329, pushed 19 days ago
+   &#9733 329, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -6184,7 +6296,7 @@ profiler
   </a>
   - Various helpers to pass trusted data to untrusted environments.
   <sup>
-   &#9733 874, pushed 20 days ago
+   &#9733 874, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -6193,7 +6305,7 @@ profiler
   </a>
   - A simple but flexible plugin system for Python.
   <sup>
-   &#9733 373, pushed 12 days ago
+   &#9733 373, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -6202,7 +6314,7 @@ profiler
   </a>
   - A framework for creating and tracking achievements.
   <sup>
-   &#9733 73, pushed 318 days ago
+   &#9733 73, pushed 443 days ago
   </sup>
  </li>
  <li>
@@ -6227,7 +6339,7 @@ profiler
   </a>
   - A module of algorithms for Python.
   <sup>
-   &#9733 1424, pushed 3 days ago
+   &#9733 1424, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -6236,7 +6348,7 @@ profiler
   </a>
   - A collection of design patterns in Python.
   <sup>
-   &#9733 8327, pushed 7 days ago
+   &#9733 8327, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -6266,7 +6378,7 @@ profiler
    </li>
   </ul>
   <sup>
-   &#9733 693, pushed 4 days ago
+   &#9733 693, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -6284,12 +6396,12 @@ profiler
     </a>
     - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
     <sup>
-     &#9733 1041, pushed 5 days ago
+     &#9733 1041, pushed 130 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 622, pushed 132 days ago
+   &#9733 622, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -6311,7 +6423,7 @@ profiler
     </a>
     - Vim bindings for the Jedi auto-completion library for Python.
     <sup>
-     &#9733 2311, pushed 25 days ago
+     &#9733 2311, pushed 150 days ago
     </sup>
    </li>
    <li>
@@ -6320,12 +6432,12 @@ profiler
     </a>
     - An all in one plugin for turning Vim into a Python IDE.
     <sup>
-     &#9733 2963, pushed 72 days ago
+     &#9733 2963, pushed 196 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 10654, pushed 6 days ago
+   &#9733 10654, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -6339,7 +6451,7 @@ profiler
    </li>
   </ul>
   <sup>
-   &#9733 1023, pushed 5 days ago
+   &#9733 1023, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -6370,7 +6482,7 @@ profiler
   </a>
   - Open Source Python IDE.
   <sup>
-   &#9733 1031, pushed 2 days ago
+   &#9733 1031, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -6427,10 +6539,22 @@ profiler
 </h2>
 <ul>
  <li>
+  <a href="https://codecov.io/">
+   Codecov
+  </a>
+  - Code coverage dashboard.
+ </li>
+ <li>
   <a href="https://www.codacy.com/">
    Codacy
   </a>
   - Automated Code Review to ship better code, faster. Free for Open Source.
+ </li>
+ <li>
+  <a href="https://landscape.io/">
+   Landscape
+  </a>
+  - Hosted continuous Python code metrics.
  </li>
  <li>
   <a href="https://www.quantifiedcode.com/">
@@ -6455,8 +6579,8 @@ profiler
   </a>
  </li>
  <li>
-  <a href="https://www.coolgithubprojects.com/">
-   CoolGithubProjects
+  <a href="https://www.reddit.com/r/coolgithubprojects/">
+   /r/CoolGithubProjects
   </a>
  </li>
  <li>
@@ -6494,11 +6618,21 @@ profiler
    PyPI Ranking
   </a>
  </li>
+ <li>
+  <a href="http://python.libhunt.com">
+   Awesome Python @LibHunt
+  </a>
+ </li>
 </ul>
 <h2>
  Weekly
 </h2>
 <ul>
+ <li>
+  <a href="http://weekly.codetengu.com/">
+   CodeTengu Weekly
+  </a>
+ </li>
  <li>
   <a href="http://importpython.com/newsletter/">
    Import Python Newsletter
@@ -6560,6 +6694,21 @@ profiler
   </a>
  </li>
 </ul>
+<h2>
+ Podcasts
+</h2>
+<ul>
+ <li>
+  <a href="http://podcastinit.com/">
+   Podcast.init
+  </a>
+ </li>
+ <li>
+  <a href="https://talkpython.fm/">
+   Talk Python To Me
+  </a>
+ </li>
+</ul>
 <h1>
  Other Awesome Lists
 </h1>
@@ -6571,7 +6720,7 @@ profiler
   Python
   <ul>
    <li>
-    <a href="https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md">
+    <a href="https://github.com/kirang89/pycrumbs">
      pycrumbs
     </a>
    </li>
@@ -6580,7 +6729,7 @@ profiler
      python-github-projects
     </a>
     <sup>
-     &#9733 205, pushed 62 days ago
+     &#9733 205, pushed 186 days ago
     </sup>
    </li>
    <li>
@@ -6588,7 +6737,7 @@ profiler
      python_reference
     </a>
     <sup>
-     &#9733 1519, pushed 23 days ago
+     &#9733 1519, pushed 147 days ago
     </sup>
    </li>
    <li>
@@ -6596,7 +6745,7 @@ profiler
      pythonidae
     </a>
     <sup>
-     &#9733 372, pushed 2 days ago
+     &#9733 372, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -6614,12 +6763,12 @@ profiler
      lists
     </a>
     <sup>
-     &#9733 3765, pushed 2 days ago
+     &#9733 3765, pushed 126 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -6634,9 +6783,13 @@ profiler
  first.
 </p>
 <p>
- I would keep some pull requests open if I'm not sure whether the libraries are awesome, you could
+ I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could
  <a href="https://github.com/vinta/awesome-python/pulls">
   vote for them
  </a>
- by adding :+1: to them.
+ by adding :+1: to them. Pull requests will be merged when their votes reach
+ <strong>
+  20
+ </strong>
+ .
 </p>

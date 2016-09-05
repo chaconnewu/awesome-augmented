@@ -1,9 +1,17 @@
 <h1>
  Awesome AutoIt
+</h1>
+<p>
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
-</h1>
+ <a href="https://junookyo.blogspot.com/">
+  <img alt="Creator" src="https://img.shields.io/badge/Creator-Juno__okyo-blue.svg"/>
+ </a>
+ <a href="https://twitter.com/juno_okyo">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000"/>
+ </a>
+</p>
 <blockquote>
  <p>
   A curated list of awesome UDFs, example scripts, tools and useful resources for
@@ -280,7 +288,7 @@
   </a>
   - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
   <sup>
-   &#9733 5, pushed 288 days ago
+   &#9733 5, pushed 412 days ago
   </sup>
  </li>
 </ul>
@@ -1489,7 +1497,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   - An AutoIt UDF to help you upload images using Imgur API.
   <sup>
-   &#9733 2, pushed 289 days ago
+   &#9733 2, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -1874,7 +1882,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
   <sup>
-   &#9733 0, pushed 624 days ago
+   &#9733 0, pushed 749 days ago
   </sup>
  </li>
  <li>
@@ -1883,7 +1891,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   - Micro is a xUnit style testing framework design for use with AutoIt.
   <sup>
-   &#9733 5, pushed 96 days ago
+   &#9733 5, pushed 221 days ago
   </sup>
  </li>
 </ul>
@@ -2060,11 +2068,11 @@ Printer.au3 - Printing RichEdit in the background.
   by Hai The Luong.
  </li>
  <li>
-  <a href="https://www.youtube.com/playlist?list=PLmih97dpVwH5n-SEw-IIBZsbw4-B-9dSE">
+  <a href="https://www.youtube.com/playlist?list=PL_-NI9iPtoB741rTw1hjNPirk3jTMKtrQ">
    Advanced AutoIt Tutorials
   </a>
   by Juno_okyo [
-  <a href="http://goo.gl/J92rsc">
+  <a href="https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1">
    Subscribe
   </a>
   ].
@@ -2130,18 +2138,24 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   (WordPress Plugin) - based on GeSHi.
  </li>
+ <li>
+  <a href="http://prismjs.com/">
+   PrismJS
+  </a>
+  - Added AutoIt since version 1.1.0
+ </li>
 </ul>
 <h2>
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/licenses/by/4.0/">
+ <a href="https://creativecommons.org/licenses/by/4.0/">
   <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/4.0/88x31.png"/>
  </a>
 </p>
 <p>
  This work is licensed under a
- <a href="http://creativecommons.org/licenses/by/4.0/">
+ <a href="https://creativecommons.org/licenses/by/4.0/">
   Creative Commons Attribution 4.0 International License
  </a>
  .
@@ -2157,7 +2171,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @sindresorhus
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2166,7 +2180,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @bradoyler
   <sup>
-   &#9733 63, pushed 189 days ago
+   &#9733 63, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -2175,7 +2189,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @emijrp
   <sup>
-   &#9733 537, pushed 118 days ago
+   &#9733 537, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -2184,7 +2198,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @erichs
   <sup>
-   &#9733 68, pushed 177 days ago
+   &#9733 68, pushed 301 days ago
   </sup>
  </li>
  <li>
@@ -2193,7 +2207,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @oyvindrobertsen
   <sup>
-   &#9733 45, pushed 179 days ago
+   &#9733 45, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -2202,7 +2216,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @bayandin
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2211,7 +2225,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @fleveque
   <sup>
-   &#9733 384, pushed 13 days ago
+   &#9733 384, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2220,7 +2234,7 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @flyhigher139
   <sup>
-   &#9733 88, pushed 247 days ago
+   &#9733 88, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -2229,10 +2243,10 @@ Printer.au3 - Printing RichEdit in the background.
   </a>
   by @jnv
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
 </ul>
 <p>
- [[Back to Top](#awesome-autoit-)]
+ [[Back to Top](#awesome-autoit)]
 </p>

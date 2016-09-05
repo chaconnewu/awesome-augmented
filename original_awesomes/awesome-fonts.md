@@ -9,7 +9,7 @@ Curated list of fonts and everything
 ## Free fonts
 
 #### Collections
-* [Font Squirrel](http://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
+* [Font Squirrel](https://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) Open Source Modern DIN
 * [Google Fonts](https://www.google.com/fonts)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
@@ -52,6 +52,7 @@ Curated list of fonts and everything
 * [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
+* [svg-icon](http://leungwensen.github.io/svg-icon/) An ultimate SVG icons collection done right
 * [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
@@ -66,7 +67,7 @@ Curated list of fonts and everything
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
-* [Monoid](https://github.com/larsenwork/monoid)
+* [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Adobe Fonts](https://github.com/adobe-fonts)
   * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
@@ -76,29 +77,38 @@ Curated list of fonts and everything
 #### Programming fonts with ligatures:
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig)
+* [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
+* [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontmin](https://github.com/ecomfe/fontmin) font minifier
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) save fonts in localStorage
-* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography.
+* [opentype.js](https://github.com/nodebox/opentype.js) parser and writer for TrueType and OpenType fonts
+* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+* [Typr.js](https://github.com/photopea/Typr.js) parser and utility for working with fonts (TTF, OTF)
 
 #### Event listener for fonts loading on a web page:
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
 * [Web Font Loader](https://github.com/typekit/webfontloader)
 
+## GitHub Showcases
+* [Fonts](https://github.com/showcases/fonts)
+* [Icon Fonts](https://github.com/showcases/icon-fonts)
+* [Design Essentials](https://github.com/showcases/design-essentials)
+
 ## Other
 * [Command line font-manager](https://github.com/penman/font)
-* [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
+* [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
 * [font](https://github.com/Benvie/font) extracts metadata from otf/ttf font files
 * [FontForge](https://github.com/fontforge/fontforge) cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - patched fonts for Powerline users
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contribution
 

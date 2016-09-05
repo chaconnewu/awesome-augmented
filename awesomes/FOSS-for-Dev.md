@@ -1,8 +1,5 @@
 <h1>
  FOSS-for-Dev
- <a href="https://github.party/item?id=107">
-  <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
- </a>
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
@@ -98,11 +95,8 @@
    Gogs
   </a>
   - A painless self-hosted Git Service
-  <a href="https://github.party/item?id=14">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 13592, pushed 2 days ago
+   &#9733 13592, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -110,11 +104,8 @@
    GitLab
   </a>
   - Version control for your server
-  <a href="https://github.party/item?id=91">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 17745, pushed 6 days ago
+   &#9733 17745, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -122,11 +113,8 @@
    Package Drone
   </a>
   - A package manager repository for OSGi, Java and more
-  <a href="https://github.party/item?id=113">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 35, pushed 48 days ago
+   &#9733 35, pushed 173 days ago
   </sup>
  </li>
 </ul>
@@ -139,11 +127,8 @@
    CodeBox
   </a>
   - Open source cloud & desktop IDE
-  <a href="https://github.party/item?id=103">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 3384, pushed 293 days ago
+   &#9733 3384, pushed 417 days ago
   </sup>
  </li>
 </ul>
@@ -156,11 +141,8 @@
    SparkleShare
   </a>
   - An Open Source collaboration and sharing tool
-  <a href="https://github.party/item?id=94">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 3606, pushed 5 days ago
+   &#9733 3606, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -168,11 +150,8 @@
    ssh chat
   </a>
   - Chat over SSH
-  <a href="https://github.party/item?id=75">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 1920, pushed 80 days ago
+   &#9733 1920, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -180,11 +159,8 @@
    lets chat
   </a>
   - Self-hosted chat app for small teams
-  <a href="https://github.party/item?id=92">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 7962, pushed 23 days ago
+   &#9733 7962, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -203,11 +179,8 @@
    sonarqube
   </a>
   - Put your technical debt under control
-  <a href="https://github.party/item?id=96">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 1063, pushed 3 days ago
+   &#9733 1063, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -215,18 +188,12 @@
    gerrit
   </a>
   - Code Review
-  <a href="https://github.party/item?id=97">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
  </li>
  <li>
   <a href="https://codecov.io/">
    Codecov
   </a>
   - Continuous Code Coverage
-  <a href="https://github.party/item?id=137">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
  </li>
 </ul>
 <h2>
@@ -238,11 +205,8 @@
    Jenkins
   </a>
   - open-source continuous integration server
-  <a href="https://github.party/item?id=101">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 5715, pushed 2 days ago
+   &#9733 5715, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -250,11 +214,8 @@
    Travis CI
   </a>
   - Free continuous integration platform for GitHub projects
-  <a href="https://github.party/item?id=102">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 4513, pushed 163 days ago
+   &#9733 4513, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -262,11 +223,8 @@
    cucumber
   </a>
   - Simple, human collaboration
-  <a href="https://github.party/item?id=93">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 351, pushed 18 days ago
+   &#9733 351, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -279,20 +237,14 @@
    Ralasafe
   </a>
   - Access Control Middleware
-  <a href="https://github.party/item?id=98">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
  </li>
  <li>
   <a href="https://github.com/openxpki/openxpki">
    OpenXPKI
   </a>
   - an enterprise-grade PKI/Trustcenter software
-  <a href="https://github.party/item?id=99">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 49, pushed 1 days ago
+   &#9733 49, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -305,11 +257,8 @@
    Bugzilla
   </a>
   - web-based bug-tracking software
-  <a href="https://github.party/item?id=104">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 54, pushed 5 days ago
+   &#9733 54, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -317,11 +266,8 @@
    Mantis
   </a>
   - issue tracker that provides a delicate balance between simplicity and power
-  <a href="https://github.party/item?id=106">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 586, pushed 2 days ago
+   &#9733 586, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -334,11 +280,8 @@
    Redmine
   </a>
   - a flexible project management web application written using Ruby on Rails
-  <a href="https://github.party/item?id=105">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 1865, pushed 9 days ago
+   &#9733 1865, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -346,11 +289,8 @@
    Phabricator
   </a>
   - an open source collection of web applications which help software companies build better software
-  <a href="https://github.party/item?id=109">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 6872, pushed 2 days ago
+   &#9733 6872, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -358,9 +298,6 @@
    Taiga.io
   </a>
   - Your Agile, Free and Open Source Project Management Tool
-  <a href="https://github.party/item?id=110">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
  </li>
 </ul>
 <h2>
@@ -372,11 +309,8 @@
    OpenShift
   </a>
   - build, deploy, and manage your applications with Docker and Kubernetes
-  <a href="https://github.party/item?id=100">
-   <img alt="Comment-on-Github.Party" src="https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg"/>
-  </a>
   <sup>
-   &#9733 1265, pushed 2 days ago
+   &#9733 1265, pushed 126 days ago
   </sup>
  </li>
 </ul>

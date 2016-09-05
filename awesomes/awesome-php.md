@@ -412,7 +412,7 @@
   </a>
   - A  multi framework Composer library installer.
   <sup>
-   &#9733 541, pushed 9 days ago
+   &#9733 541, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +437,7 @@
   </a>
   - A PHP extension installer.
   <sup>
-   &#9733 745, pushed 29 days ago
+   &#9733 745, pushed 154 days ago
   </sup>
  </li>
 </ul>
@@ -456,7 +456,7 @@
   </a>
   - A library to parse your project's Composer environment at runtime.
   <sup>
-   &#9733 10, pushed 69 days ago
+   &#9733 10, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -465,7 +465,7 @@
   </a>
   - A tool to validate Composer configurations.
   <sup>
-   &#9733 8, pushed 580 days ago
+   &#9733 8, pushed 705 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +474,7 @@
   </a>
   - A composer plugin to merge several composer.json files.
   <sup>
-   &#9733 120, pushed 9 days ago
+   &#9733 120, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -483,7 +483,7 @@
   </a>
   - A library to check your Composer environment at runtime.
   <sup>
-   &#9733 93, pushed 46 days ago
+   &#9733 93, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -492,7 +492,7 @@
   </a>
   - A library to convert from underscores to namespaces.
   <sup>
-   &#9733 54, pushed 1156 days ago
+   &#9733 54, pushed 1280 days ago
   </sup>
  </li>
  <li>
@@ -501,7 +501,7 @@
   </a>
   - A library to install patches using Composer.
   <sup>
-   &#9733 47, pushed 1109 days ago
+   &#9733 47, pushed 1234 days ago
   </sup>
  </li>
  <li>
@@ -510,7 +510,7 @@
   </a>
   - A composer plugin which enables parallel install process.
   <sup>
-   &#9733 1698, pushed 4 days ago
+   &#9733 1698, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -519,7 +519,7 @@
   </a>
   - A static Composer repository generator.
   <sup>
-   &#9733 1072, pushed 12 days ago
+   &#9733 1072, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -587,7 +587,7 @@
   - Another PHP framework.
  </li>
  <li>
-  <a href="http://framework.zend.com">
+  <a href="https://framework.zend.com">
    Zend Framework 2
   </a>
   - Another framework comprised of individual components (ZF2).
@@ -598,11 +598,11 @@
   </a>
   - An Action-Domain-Responder implementation for PHP.
   <sup>
-   &#9733 37, pushed 28 days ago
+   &#9733 37, pushed 153 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.iceframework.org/">
+  <a href="https://www.iceframework.org/">
    Ice
   </a>
   - Another simple and fast PHP framework delivered as C-extension.
@@ -623,7 +623,7 @@
   </a>
   - A Rapid Application Development (RAD) plugin for CakePHP.
   <sup>
-   &#9733 220, pushed 2 days ago
+   &#9733 220, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -638,7 +638,7 @@
   </a>
   - A Content Management Framework to create custom CMS.
   <sup>
-   &#9733 705, pushed 10 days ago
+   &#9733 705, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -709,7 +709,7 @@
   </a>
   - A StackPHP compatible micro framework
   <sup>
-   &#9733 241, pushed 126 days ago
+   &#9733 241, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -740,7 +740,7 @@
   </a>
   - A project skeleton for Silex.
   <sup>
-   &#9733 663, pushed 137 days ago
+   &#9733 663, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -749,7 +749,7 @@
   </a>
   - A web debug toolbar for Silex.
   <sup>
-   &#9733 166, pushed 21 days ago
+   &#9733 166, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -758,7 +758,7 @@
   </a>
   - A skeleton for Slim.
   <sup>
-   &#9733 375, pushed 22 days ago
+   &#9733 375, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -767,7 +767,7 @@
   </a>
   - A collection of custom views for Slim.
   <sup>
-   &#9733 278, pushed 176 days ago
+   &#9733 278, pushed 301 days ago
   </sup>
  </li>
 </ul>
@@ -786,7 +786,7 @@
   </a>
   - A fast routing library.
   <sup>
-   &#9733 1604, pushed 3 days ago
+   &#9733 1604, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +795,7 @@
   </a>
   - A flexible router.
   <sup>
-   &#9733 1765, pushed 68 days ago
+   &#9733 1765, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -804,7 +804,7 @@
   </a>
   - Another fast routing library.
   <sup>
-   &#9733 1155, pushed 9 days ago
+   &#9733 1155, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -813,7 +813,7 @@
   </a>
   - A routing library built on top of Fast Route.
   <sup>
-   &#9733 196, pushed 3 days ago
+   &#9733 196, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -832,7 +832,7 @@
   </a>
   - Another native PHP templating library.
   <sup>
-   &#9733 78, pushed 51 days ago
+   &#9733 78, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -841,7 +841,7 @@
   </a>
   - A lightweight template parser.
   <sup>
-   &#9733 80, pushed 628 days ago
+   &#9733 80, pushed 753 days ago
   </sup>
  </li>
  <li>
@@ -850,7 +850,7 @@
   </a>
   - A PHP implementation of the HAML template language.
   <sup>
-   &#9733 296, pushed 138 days ago
+   &#9733 296, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -859,7 +859,7 @@
   </a>
   - A PHP implementation of the Mustache template language.
   <sup>
-   &#9733 2306, pushed 25 days ago
+   &#9733 2306, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -868,7 +868,7 @@
   </a>
   - Another PHP implementation of the Mustache template language.
   <sup>
-   &#9733 126, pushed 244 days ago
+   &#9733 126, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -900,7 +900,7 @@
   - A comprehensive templating language.
  </li>
  <li>
-  <a href="http://jade.talesoft.io/">
+  <a href="https://github.com/Talesoft/tale-jade">
    Tale Jade
   </a>
   - A PHP implementation of the Jade template language.
@@ -927,7 +927,7 @@
   </a>
   - Another tool that converts Textile, Markdown and Twig into HTML.
   <sup>
-   &#9733 484, pushed 613 days ago
+   &#9733 484, pushed 738 days ago
   </sup>
  </li>
  <li>
@@ -958,7 +958,7 @@
   </a>
   - Another HTTP client.
   <sup>
-   &#9733 1233, pushed 26 days ago
+   &#9733 1233, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -967,7 +967,7 @@
   </a>
   - A comprehensive HTTP client.
   <sup>
-   &#9733 6799, pushed 4 days ago
+   &#9733 6799, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +976,7 @@
   </a>
   - A chainable HTTP client.
   <sup>
-   &#9733 1039, pushed 12 days ago
+   &#9733 1039, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -991,7 +991,7 @@
   </a>
   - A simple HTTP library.
   <sup>
-   &#9733 2057, pushed 14 days ago
+   &#9733 2057, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1000,7 +1000,7 @@
   </a>
   - A library to ease creation of REST API clients.
   <sup>
-   &#9733 65, pushed 18 days ago
+   &#9733 65, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1009,7 +1009,7 @@
   </a>
   - PSR-7 HTTP Message implementation.
   <sup>
-   &#9733 269, pushed 5 days ago
+   &#9733 269, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -1028,7 +1028,7 @@
   </a>
   - An information extractor from any web service or page.
   <sup>
-   &#9733 768, pushed 5 days ago
+   &#9733 768, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1037,7 +1037,7 @@
   </a>
   - A simple web scraper.
   <sup>
-   &#9733 3930, pushed 29 days ago
+   &#9733 3930, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -1046,7 +1046,7 @@
   </a>
   - A configurable and extensible PHP web spider.
   <sup>
-   &#9733 401, pushed 90 days ago
+   &#9733 401, pushed 214 days ago
   </sup>
  </li>
 </ul>
@@ -1060,12 +1060,18 @@
 </p>
 <ul>
  <li>
+  <a href="https://zendframework.github.io/zend-expressive/">
+   Expressive
+  </a>
+  - PSR-7 Middleware framework from Zend
+ </li>
+ <li>
   <a href="https://github.com/oscarotero/psr7-middlewares">
    PSR7-Middlewares
   </a>
   - Inspiring collection of handy middlewares.
   <sup>
-   &#9733 285, pushed 12 days ago
+   &#9733 285, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1074,7 +1080,7 @@
   </a>
   - A PHP 5.5 PSR-7 middleware dispatcher
   <sup>
-   &#9733 155, pushed 133 days ago
+   &#9733 155, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -1083,7 +1089,7 @@
   </a>
   - A collection of custom middleware for Slim.
   <sup>
-   &#9733 35, pushed 958 days ago
+   &#9733 35, pushed 1082 days ago
   </sup>
  </li>
  <li>
@@ -1098,7 +1104,7 @@
   </a>
   - Middleware for PHP built on top of PSR-7
   <sup>
-   &#9733 134, pushed 6 days ago
+   &#9733 134, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -1117,7 +1123,7 @@
   </a>
   - A domain suffix parser library.
   <sup>
-   &#9733 350, pushed 77 days ago
+   &#9733 350, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1126,7 +1132,7 @@
   </a>
   - A URL manipulation library.
   <sup>
-   &#9733 573, pushed 19 days ago
+   &#9733 573, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1135,7 +1141,7 @@
   </a>
   - A functional URI manipulation library.
   <sup>
-   &#9733 90, pushed 49 days ago
+   &#9733 90, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1144,7 +1150,7 @@
   </a>
   - Another URL manipulation library.
   <sup>
-   &#9733 118, pushed 2 days ago
+   &#9733 118, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1163,7 +1169,7 @@
   </a>
   - A library to inline CSS in email templates.
   <sup>
-   &#9733 621, pushed 20 days ago
+   &#9733 621, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1172,7 +1178,7 @@
   </a>
   - An email reply parser library.
   <sup>
-   &#9733 385, pushed 68 days ago
+   &#9733 385, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1181,7 +1187,7 @@
   </a>
   - A small email address validation library.
   <sup>
-   &#9733 41, pushed 140 days ago
+   &#9733 41, pushed 264 days ago
   </sup>
  </li>
  <li>
@@ -1190,7 +1196,7 @@
   </a>
   - An IMAP library.
   <sup>
-   &#9733 353, pushed 6 days ago
+   &#9733 353, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1199,7 +1205,7 @@
   </a>
   - Email marketing automation
   <sup>
-   &#9733 661, pushed 4 days ago
+   &#9733 661, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1208,7 +1214,7 @@
   </a>
   - Another mailer solution.
   <sup>
-   &#9733 6090, pushed 1 days ago
+   &#9733 6090, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1233,7 +1239,7 @@
   </a>
   .
   <sup>
-   &#9733 22, pushed 223 days ago
+   &#9733 22, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -1258,7 +1264,7 @@
   </a>
   - A library that parses Apache MIME types.
   <sup>
-   &#9733 34, pushed 802 days ago
+   &#9733 34, pushed 926 days ago
   </sup>
  </li>
  <li>
@@ -1267,7 +1273,7 @@
   </a>
   - A library to determine internet media types.
   <sup>
-   &#9733 23, pushed 1085 days ago
+   &#9733 23, pushed 1210 days ago
   </sup>
  </li>
  <li>
@@ -1276,7 +1282,7 @@
   </a>
   - A CSV data manipulation library.
   <sup>
-   &#9733 825, pushed 6 days ago
+   &#9733 825, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1285,7 +1291,7 @@
   </a>
   - A MIME detection library.
   <sup>
-   &#9733 14, pushed 536 days ago
+   &#9733 14, pushed 661 days ago
   </sup>
  </li>
  <li>
@@ -1294,7 +1300,7 @@
   </a>
   - Another filesystem abstraction layer.
   <sup>
-   &#9733 2771, pushed 5 days ago
+   &#9733 2771, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1303,7 +1309,7 @@
   </a>
   - A filesystem abstraction layer.
   <sup>
-   &#9733 1667, pushed 18 days ago
+   &#9733 1667, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1312,7 +1318,7 @@
   </a>
   - Another MIME detection library.
   <sup>
-   &#9733 60, pushed 110 days ago
+   &#9733 60, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -1321,7 +1327,7 @@
   </a>
   - A resource tracking library.
   <sup>
-   &#9733 4, pushed 189 days ago
+   &#9733 4, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -1350,7 +1356,7 @@
   </a>
   - A simple object-orientated stream wrapper library.
   <sup>
-   &#9733 177, pushed 295 days ago
+   &#9733 177, pushed 420 days ago
   </sup>
  </li>
 </ul>
@@ -1369,7 +1375,7 @@
   </a>
   - A common interface to dependency injection containers and service locators.
   <sup>
-   &#9733 150, pushed 61 days ago
+   &#9733 150, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -1378,7 +1384,7 @@
   </a>
   - A recursive dependency injector.
   <sup>
-   &#9733 347, pushed 50 days ago
+   &#9733 347, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1387,7 +1393,7 @@
   </a>
   - Another flexible dependency injection container.
   <sup>
-   &#9733 184, pushed 18 days ago
+   &#9733 184, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1408,7 +1414,7 @@
   </a>
   - A dependency injection container component (SF2).
   <sup>
-   &#9733 78, pushed 4 days ago
+   &#9733 78, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1427,7 +1433,7 @@
   </a>
   - A library for extracting colours from images.
   <sup>
-   &#9733 475, pushed 19 days ago
+   &#9733 475, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1436,7 +1442,7 @@
   </a>
   - A library to create GIF animations from multiple images.
   <sup>
-   &#9733 168, pushed 970 days ago
+   &#9733 168, pushed 1095 days ago
   </sup>
  </li>
  <li>
@@ -1445,7 +1451,7 @@
   </a>
   - A library to extract GIF animation frame information.
   <sup>
-   &#9733 68, pushed 335 days ago
+   &#9733 68, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -1454,7 +1460,7 @@
   </a>
   - An on-demand image manipulation library.
   <sup>
-   &#9733 737, pushed 27 days ago
+   &#9733 737, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -1463,7 +1469,7 @@
   </a>
   - A library for generating perceptual image hashes.
   <sup>
-   &#9733 438, pushed 70 days ago
+   &#9733 438, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -1472,7 +1478,7 @@
   </a>
   - A library for optimizing images.
   <sup>
-   &#9733 149, pushed 108 days ago
+   &#9733 149, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -1481,7 +1487,7 @@
   </a>
   - A library for embedding text into images.
   <sup>
-   &#9733 67, pushed 895 days ago
+   &#9733 67, pushed 1020 days ago
   </sup>
  </li>
  <li>
@@ -1496,7 +1502,7 @@
   </a>
   - Another image manipulation library.
   <sup>
-   &#9733 3485, pushed 7 days ago
+   &#9733 3485, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1505,7 +1511,7 @@
   </a>
   - Another image manipulation library.
   <sup>
-   &#9733 694, pushed 99 days ago
+   &#9733 694, pushed 224 days ago
   </sup>
  </li>
 </ul>
@@ -1524,7 +1530,7 @@
   </a>
   - An expressive fixture generation library.
   <sup>
-   &#9733 1007, pushed 4 days ago
+   &#9733 1007, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1533,7 +1539,7 @@
   </a>
   - A mocking framework for PHPUnit/Codeception.
   <sup>
-   &#9733 413, pushed 26 days ago
+   &#9733 413, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1542,7 +1548,7 @@
   </a>
   - A simple testing library.
   <sup>
-   &#9733 837, pushed 2 days ago
+   &#9733 837, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1557,7 +1563,7 @@
   </a>
   - A full stack testing framework.
   <sup>
-   &#9733 2132, pushed 1 days ago
+   &#9733 2132, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1566,7 +1572,7 @@
   </a>
   - A database testing library for PHPUnit.
   <sup>
-   &#9733 144, pushed 49 days ago
+   &#9733 144, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1575,7 +1581,7 @@
   </a>
   - A fake data generator library.
   <sup>
-   &#9733 8400, pushed 1 days ago
+   &#9733 8400, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1584,7 +1590,7 @@
   </a>
   - A library for mocking HTTP requests in unit tests.
   <sup>
-   &#9733 232, pushed 5 days ago
+   &#9733 232, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1593,7 +1599,7 @@
   </a>
   - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
   <sup>
-   &#9733 357, pushed 2 days ago
+   &#9733 357, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1608,7 +1614,7 @@
   </a>
   - A mock object library for testing.
   <sup>
-   &#9733 1889, pushed 3 days ago
+   &#9733 1889, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1617,7 +1623,7 @@
   </a>
   - A parallel testing library for PHPUnit.
   <sup>
-   &#9733 360, pushed 20 days ago
+   &#9733 360, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1626,7 +1632,7 @@
   </a>
   - An event driven test framework.
   <sup>
-   &#9733 162, pushed 11 days ago
+   &#9733 162, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1635,7 +1641,7 @@
   </a>
   - Another mock object library for testing.
   <sup>
-   &#9733 376, pushed 32 days ago
+   &#9733 376, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1644,7 +1650,7 @@
   </a>
   - Another behaviour driven development testing framework.
   <sup>
-   &#9733 240, pushed 40 days ago
+   &#9733 240, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -1653,8 +1659,14 @@
   </a>
   - A design by specification unit testing library.
   <sup>
-   &#9733 979, pushed 7 days ago
+   &#9733 979, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://qa.php.net/write-test.php">
+   PHPT
+  </a>
+  - A test tool used by PHP itself.
  </li>
  <li>
   <a href="https://github.com/sebastianbergmann/phpunit">
@@ -1662,7 +1674,7 @@
   </a>
   - A unit testing framework.
   <sup>
-   &#9733 5159, pushed 4 days ago
+   &#9733 5159, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1671,7 +1683,7 @@
   </a>
   - A highly opinionated mocking framework.
   <sup>
-   &#9733 689, pushed 4 days ago
+   &#9733 689, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1680,7 +1692,7 @@
   </a>
   - Another fake data generator library.
   <sup>
-   &#9733 29, pushed 623 days ago
+   &#9733 29, pushed 748 days ago
   </sup>
  </li>
  <li>
@@ -1689,7 +1701,7 @@
   </a>
   - A virtual filesystem stream wrapper for testing.
   <sup>
-   &#9733 596, pushed 24 days ago
+   &#9733 596, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1698,7 +1710,7 @@
   </a>
   - Another virtual filesystem for testing.
   <sup>
-   &#9733 275, pushed 8 days ago
+   &#9733 275, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1711,6 +1723,12 @@
  </em>
 </p>
 <ul>
+ <li>
+  <a href="https://circleci.com">
+   CircleCI
+  </a>
+  - A continuous integration platform.
+ </li>
  <li>
   <a href="https://about.gitlab.com/gitlab-ci/">
    GitlabCi
@@ -1733,7 +1751,7 @@
   </a>
   - A continuous integration client written in PHP and powered by Docker.
   <sup>
-   &#9733 529, pushed 72 days ago
+   &#9733 529, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1788,7 +1806,7 @@
   </a>
   - Another API documentation generator.
   <sup>
-   &#9733 1202, pushed 52 days ago
+   &#9733 1202, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -1797,7 +1815,7 @@
   </a>
   - A documentation generator which uses Markdown files.
   <sup>
-   &#9733 3946, pushed 2 days ago
+   &#9733 3946, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1806,7 +1824,7 @@
   </a>
   - A documentation generator.
   <sup>
-   &#9733 1692, pushed 10 days ago
+   &#9733 1692, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1821,7 +1839,7 @@
   </a>
   - An API documentation generator.
   <sup>
-   &#9733 1139, pushed 13 days ago
+   &#9733 1139, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -1850,7 +1868,7 @@
   </a>
   - A standards compliant HTML filter.
   <sup>
-   &#9733 700, pushed 33 days ago
+   &#9733 700, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1859,7 +1877,7 @@
   </a>
   - A tool that scans PHP INI files for security.
   <sup>
-   &#9733 1016, pushed 40 days ago
+   &#9733 1016, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -1868,7 +1886,7 @@
   </a>
   - Id obfuscation based on Knuth's multiplicative hashing method.
   <sup>
-   &#9733 447, pushed 73 days ago
+   &#9733 447, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1877,7 +1895,7 @@
   </a>
   - Secure PHP Encryption Library.
   <sup>
-   &#9733 655, pushed 3 days ago
+   &#9733 655, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1886,7 +1904,7 @@
   </a>
   - A structured PHP security layer.
   <sup>
-   &#9733 451, pushed 242 days ago
+   &#9733 451, pushed 366 days ago
   </sup>
  </li>
  <li>
@@ -1895,7 +1913,7 @@
   </a>
   - An experimental object orientated SSH wrapper library.
   <sup>
-   &#9733 220, pushed 214 days ago
+   &#9733 220, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -1910,7 +1928,7 @@
   </a>
   - A library for generating random numbers and strings.
   <sup>
-   &#9733 452, pushed 71 days ago
+   &#9733 452, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1919,7 +1937,7 @@
   </a>
   - A PHP security library.
   <sup>
-   &#9733 108, pushed 181 days ago
+   &#9733 108, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -1934,7 +1952,7 @@
   </a>
   - A simple encrypted key-value storage library.
   <sup>
-   &#9733 48, pushed 151 days ago
+   &#9733 48, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -1947,11 +1965,11 @@
   </a>
   .
   <sup>
-   &#9733 35, pushed 1014 days ago
+   &#9733 35, pushed 1139 days ago
   </sup>
  </li>
  <li>
-  <a href="http://vaddy.net">
+  <a href="https://vaddy.net/">
    VAddy
   </a>
   - A continuous security testing platform for web applications.
@@ -1978,7 +1996,7 @@
   </a>
   - A library for generating secure random passphrases.
   <sup>
-   &#9733 34, pushed 151 days ago
+   &#9733 34, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -1987,7 +2005,7 @@
   </a>
   - A compatibility library for the new PHP 5.5 password functions.
   <sup>
-   &#9733 1685, pushed 21 days ago
+   &#9733 1685, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1996,7 +2014,7 @@
   </a>
   - A password policy library for PHP and JavaScript.
   <sup>
-   &#9733 37, pushed 34 days ago
+   &#9733 37, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -2005,7 +2023,7 @@
   </a>
   - A library for validating and upgrading password hashes.
   <sup>
-   &#9733 127, pushed 55 days ago
+   &#9733 127, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -2014,7 +2032,7 @@
   </a>
   - PHP library to generate random passwords.
   <sup>
-   &#9733 37, pushed 1 days ago
+   &#9733 37, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2023,7 +2041,7 @@
   </a>
   - A library for generating and validating passwords.
   <sup>
-   &#9733 330, pushed 454 days ago
+   &#9733 330, pushed 579 days ago
   </sup>
  </li>
  <li>
@@ -2038,7 +2056,7 @@
   </a>
   - A realistic PHP password strength estimate library based on Zxcvbn JS.
   <sup>
-   &#9733 217, pushed 20 days ago
+   &#9733 217, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -2057,7 +2075,7 @@
   </a>
   - An annotation based benchmark framework.
   <sup>
-   &#9733 299, pushed 22 days ago
+   &#9733 299, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2072,14 +2090,17 @@
   </a>
   - A set of tools for lexical and syntactical analysis.
   <sup>
-   &#9733 166, pushed 404 days ago
+   &#9733 166, pushed 529 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.exakat.io">
+  <a href="https://github.com/exakat/exakat">
    Exakat
   </a>
   - A static analysis engine for PHP.
+  <sup>
+   &#9733 9, pushed 128 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/phpro/grumphp">
@@ -2087,7 +2108,7 @@
   </a>
   - A composer plugin to defend code quality.
   <sup>
-   &#9733 957, pushed 1 days ago
+   &#9733 957, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2096,7 +2117,7 @@
   </a>
   - A code analysis tool using Graph Theory.
   <sup>
-   &#9733 292, pushed 251 days ago
+   &#9733 292, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -2105,7 +2126,7 @@
   </a>
   - A library for analysing PHP code to find bugs and errors.
   <sup>
-   &#9733 443, pushed 364 days ago
+   &#9733 443, pushed 489 days ago
   </sup>
  </li>
  <li>
@@ -2114,7 +2135,7 @@
   </a>
   - A library that detects PHP, CSS and JS coding standard violations.
   <sup>
-   &#9733 2270, pushed 5 days ago
+   &#9733 2270, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2123,7 +2144,7 @@
   </a>
   - A coding standards fixer library.
   <sup>
-   &#9733 3204, pushed 2 days ago
+   &#9733 3204, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2132,7 +2153,7 @@
   </a>
   - A library for analysing and modifying PHP Source Code.
   <sup>
-   &#9733 102, pushed 584 days ago
+   &#9733 102, pushed 709 days ago
   </sup>
  </li>
  <li>
@@ -2147,7 +2168,7 @@
   </a>
   - A static metric library.
   <sup>
-   &#9733 793, pushed 28 days ago
+   &#9733 793, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -2156,7 +2177,7 @@
   </a>
   - A PHP parser written in PHP.
   <sup>
-   &#9733 2252, pushed 13 days ago
+   &#9733 2252, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2165,7 +2186,7 @@
   </a>
   - A command line utility for refactoring PHP code.
   <sup>
-   &#9733 494, pushed 385 days ago
+   &#9733 494, pushed 510 days ago
   </sup>
  </li>
  <li>
@@ -2174,7 +2195,16 @@
   </a>
   - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
   <sup>
-   &#9733 312, pushed 82 days ago
+   &#9733 312, pushed 207 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/etsy/phan">
+   phan
+  </a>
+  - A static analyzer based on PHP 7+ and the php-ast extension.
+  <sup>
+   &#9733 926, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2183,7 +2213,7 @@
   </a>
   - A tool to help adhere to certain coding conventions.
   <sup>
-   &#9733 55, pushed 297 days ago
+   &#9733 55, pushed 422 days ago
   </sup>
  </li>
  <li>
@@ -2192,7 +2222,7 @@
   </a>
   - A library that detects copied and pasted code.
   <sup>
-   &#9733 992, pushed 16 days ago
+   &#9733 992, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2201,7 +2231,7 @@
   </a>
   - A tool to create customisable dependency graphs.
   <sup>
-   &#9733 173, pushed 67 days ago
+   &#9733 173, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -2210,7 +2240,7 @@
   </a>
   - A tool for quickly measuring the size of a PHP project.
   <sup>
-   &#9733 897, pushed 7 days ago
+   &#9733 897, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2249,7 @@
   </a>
   - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
   <sup>
-   &#9733 25, pushed 4 days ago
+   &#9733 25, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2228,17 +2258,20 @@
   </a>
   - A PHP VM implementation in PHP.
   <sup>
-   &#9733 596, pushed 292 days ago
+   &#9733 596, pushed 416 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fieryprophet/php-sandbox">
+  <a href="https://github.com/Corveda/PHPSandbox">
    PHPSandbox
   </a>
   - A PHP sandbox environment.
-  <sup>
-   &#9733 196, pushed 83 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Qafoo/QualityAnalyzer">
+   Qafoo Quality Analyzer
+  </a>
+  - A tool to visualize metrics and source code.
  </li>
  <li>
   <a href="https://scrutinizer-ci.com/">
@@ -2252,7 +2285,7 @@
   </a>
   - A simple micro benchmark library.
   <sup>
-   &#9733 352, pushed 336 days ago
+   &#9733 352, pushed 461 days ago
   </sup>
  </li>
 </ul>
@@ -2271,7 +2304,7 @@
   </a>
   - A function composition library.
   <sup>
-   &#9733 67, pushed 813 days ago
+   &#9733 67, pushed 937 days ago
   </sup>
  </li>
  <li>
@@ -2280,7 +2313,7 @@
   </a>
   - A repository of software patterns implemented in PHP.
   <sup>
-   &#9733 9377, pushed 26 days ago
+   &#9733 9377, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2295,7 +2328,7 @@
   </a>
   - A functional programming library.
   <sup>
-   &#9733 655, pushed 19 days ago
+   &#9733 655, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2304,7 +2337,7 @@
   </a>
   - Evolutionary language transformation.
   <sup>
-   &#9733 9, pushed 423 days ago
+   &#9733 9, pushed 547 days ago
   </sup>
  </li>
  <li>
@@ -2313,7 +2346,7 @@
   </a>
   - A library that provides iteration primitives using generators.
   <sup>
-   &#9733 460, pushed 195 days ago
+   &#9733 460, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -2322,7 +2355,7 @@
   </a>
   - A simple Monad library.
   <sup>
-   &#9733 172, pushed 236 days ago
+   &#9733 172, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -2337,7 +2370,7 @@
   </a>
   - An option type library.
   <sup>
-   &#9733 437, pushed 78 days ago
+   &#9733 437, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -2346,7 +2379,7 @@
   </a>
   - A pipeline pattern implementation.
   <sup>
-   &#9733 215, pushed 34 days ago
+   &#9733 215, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -2355,7 +2388,7 @@
   </a>
   - A simple stateless production rules engine.
   <sup>
-   &#9733 657, pushed 342 days ago
+   &#9733 657, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -2364,7 +2397,7 @@
   </a>
   - A powerful rule engine and implementation of the Specification pattern.
   <sup>
-   &#9733 308, pushed 14 days ago
+   &#9733 308, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -2389,7 +2422,7 @@
   </a>
   - Another web debugging console using Google Chrome.
   <sup>
-   &#9733 782, pushed 74 days ago
+   &#9733 782, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -2404,7 +2437,7 @@
   </a>
   - A debugging and profiling tool.
   <sup>
-   &#9733 1489, pushed 8 days ago
+   &#9733 1489, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2413,7 +2446,7 @@
   </a>
   - A web debugging console.
   <sup>
-   &#9733 363, pushed 109 days ago
+   &#9733 363, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -2428,7 +2461,7 @@
   </a>
   - A benchmarking Framework.
   <sup>
-   &#9733 320, pushed 6 days ago
+   &#9733 320, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2449,7 +2482,7 @@
   </a>
   - A simple error detection, logging and time measuring library.
   <sup>
-   &#9733 437, pushed 12 days ago
+   &#9733 437, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2458,7 +2491,7 @@
   </a>
   - A debug and profile tool for PHP.
   <sup>
-   &#9733 838, pushed 3 days ago
+   &#9733 838, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2467,7 +2500,7 @@
   </a>
   - A profiling tool originally developed by Facebook.
   <sup>
-   &#9733 1569, pushed 62 days ago
+   &#9733 1569, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -2492,7 +2525,7 @@
   </a>
   - A simple project automation tool.
   <sup>
-   &#9733 90, pushed 887 days ago
+   &#9733 90, pushed 1012 days ago
   </sup>
  </li>
  <li>
@@ -2501,7 +2534,7 @@
   </a>
   - A utility to build PHAR files.
   <sup>
-   &#9733 826, pushed 3 days ago
+   &#9733 826, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2510,11 +2543,11 @@
   </a>
   - A rake PHP clone library.
   <sup>
-   &#9733 377, pushed 397 days ago
+   &#9733 377, pushed 522 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.phing.info/">
+  <a href="https://www.phing.info/">
    Phing
   </a>
   - A PHP project build system inspired by Apache Ant.
@@ -2541,17 +2574,14 @@
   </a>
   - A PHP cron job manager without modifying crontab.
   <sup>
-   &#9733 411, pushed 18 days ago
+   &#9733 411, pushed 143 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/Codegyre/Robo">
+  <a href="https://github.com/consolidation-org/Robo">
    Robo
   </a>
   - A PHP Task runner with object-orientated configurations.
-  <sup>
-   &#9733 1108, pushed 5 days ago
-  </sup>
  </li>
  <li>
   <a href="http://taskphp.github.io/">
@@ -2575,7 +2605,7 @@
   </a>
   - A sitemap generation library.
   <sup>
-   &#9733 270, pushed 55 days ago
+   &#9733 270, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -2584,7 +2614,7 @@
   </a>
   - A menu library.
   <sup>
-   &#9733 402, pushed 116 days ago
+   &#9733 402, pushed 241 days ago
   </sup>
  </li>
 </ul>
@@ -2603,7 +2633,7 @@
   </a>
   - An asset manager pipeline library.
   <sup>
-   &#9733 3270, pushed 12 days ago
+   &#9733 3270, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2612,7 +2642,7 @@
   </a>
   - A JavaScript minifier library.
   <sup>
-   &#9733 405, pushed 258 days ago
+   &#9733 405, pushed 382 days ago
   </sup>
  </li>
  <li>
@@ -2621,7 +2651,7 @@
   </a>
   - An asset optimiser library.
   <sup>
-   &#9733 740, pushed 5 days ago
+   &#9733 740, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2630,7 +2660,7 @@
   </a>
   - Another asset manager pipeline library.
   <sup>
-   &#9733 119, pushed 832 days ago
+   &#9733 119, pushed 957 days ago
   </sup>
  </li>
  <li>
@@ -2639,7 +2669,7 @@
   </a>
   - A library for determining assets absolute paths.
   <sup>
-   &#9733 413, pushed 88 days ago
+   &#9733 413, pushed 213 days ago
   </sup>
  </li>
 </ul>
@@ -2664,7 +2694,7 @@
   </a>
   - A GeoJSON implementation.
   <sup>
-   &#9733 102, pushed 21 days ago
+   &#9733 102, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2673,7 +2703,7 @@
   </a>
   - A library of geo-related tools.
   <sup>
-   &#9733 634, pushed 50 days ago
+   &#9733 634, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -2682,7 +2712,7 @@
   </a>
   - A simple geo library.
   <sup>
-   &#9733 624, pushed 15 days ago
+   &#9733 624, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -2707,7 +2737,16 @@
   </a>
   - A simple DateTime API extension.
   <sup>
-   &#9733 4251, pushed 1 days ago
+   &#9733 4251, pushed 125 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cakephp/chronos">
+   Chronos
+  </a>
+  - A DateTime API extension supporting both mutable and immutable date/time.
+  <sup>
+   &#9733 132, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2716,7 +2755,7 @@
   </a>
   - Another DateTime API extension.
   <sup>
-   &#9733 242, pushed 264 days ago
+   &#9733 242, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -2725,7 +2764,7 @@
   </a>
   - Moment.js inspired PHP DateTime handler with i18n support.
   <sup>
-   &#9733 267, pushed 1 days ago
+   &#9733 267, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2744,7 +2783,7 @@
   </a>
   - An event driven non-blocking I/O library.
   <sup>
-   &#9733 318, pushed 25 days ago
+   &#9733 318, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2753,7 +2792,7 @@
   </a>
   - An event source and CQRS library.
   <sup>
-   &#9733 640, pushed 12 days ago
+   &#9733 640, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2762,7 +2801,7 @@
   </a>
   - An event dispatcher library (CP).
   <sup>
-   &#9733 9, pushed 9 days ago
+   &#9733 9, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2771,7 +2810,7 @@
   </a>
   - Yet another web socket library.
   <sup>
-   &#9733 747, pushed 27 days ago
+   &#9733 747, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2780,7 +2819,7 @@
   </a>
   - An event dispatcher library.
   <sup>
-   &#9733 447, pushed 36 days ago
+   &#9733 447, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -2789,7 +2828,7 @@
   </a>
   - An event library with a focus on domain events.
   <sup>
-   &#9733 190, pushed 43 days ago
+   &#9733 190, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -2798,7 +2837,7 @@
   </a>
   - An event source library.
   <sup>
-   &#9733 58, pushed 110 days ago
+   &#9733 58, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -2807,7 +2846,7 @@
   </a>
   - Another web socket library.
   <sup>
-   &#9733 184, pushed 5 days ago
+   &#9733 184, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2816,7 +2855,7 @@
   </a>
   - An asynchronous library with coroutines, non-blocking I/O, and multithreading.
   <sup>
-   &#9733 827, pushed 33 days ago
+   &#9733 827, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -2825,7 +2864,7 @@
   </a>
   - An event source component to persist event messages
   <sup>
-   &#9733 108, pushed 11 days ago
+   &#9733 108, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2834,7 +2873,7 @@
   </a>
   - A web socket library.
   <sup>
-   &#9733 2855, pushed 8 days ago
+   &#9733 2855, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2843,7 +2882,7 @@
   </a>
   - An event driven non-blocking I/O library.
   <sup>
-   &#9733 4174, pushed 202 days ago
+   &#9733 4174, pushed 327 days ago
   </sup>
  </li>
  <li>
@@ -2852,7 +2891,7 @@
   </a>
   - A reactive extension library.
   <sup>
-   &#9733 206, pushed 101 days ago
+   &#9733 206, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -2861,7 +2900,7 @@
   </a>
   - An event driven non-blocking I/O library.
   <sup>
-   &#9733 2391, pushed 23 days ago
+   &#9733 2391, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -2880,7 +2919,7 @@
   </a>
   - A closure-based micro logging package.
   <sup>
-   &#9733 222, pushed 35 days ago
+   &#9733 222, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2889,7 +2928,7 @@
   </a>
   - An easy-to-use PSR-3 compliant logging class.
   <sup>
-   &#9733 646, pushed 180 days ago
+   &#9733 646, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -2898,7 +2937,7 @@
   </a>
   - A comprehensive logger.
   <sup>
-   &#9733 4660, pushed 8 days ago
+   &#9733 4660, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -2917,7 +2956,7 @@
   </a>
   - A PHP implementation of Fowler's money pattern.
   <sup>
-   &#9733 798, pushed 8 days ago
+   &#9733 798, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2926,7 +2965,7 @@
   </a>
   - A framework agnostic multi-gateway payment processing library.
   <sup>
-   &#9733 2805, pushed 12 days ago
+   &#9733 2805, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2935,16 +2974,7 @@
   </a>
   - A payment abstraction library.
   <sup>
-   &#9733 648, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/sebastianbergmann/money">
-   Sebastian Money
-  </a>
-  - Another library for working with monetary values.
-  <sup>
-   &#9733 620, pushed 16 days ago
+   &#9733 648, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2953,7 +2983,7 @@
   </a>
   - Highly customizable e-commerce software
   <sup>
-   &#9733 427, pushed 4 days ago
+   &#9733 427, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2962,7 +2992,7 @@
   </a>
   - An exchange rates library.
   <sup>
-   &#9733 438, pushed 13 days ago
+   &#9733 438, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2987,7 +3017,7 @@
   </a>
   - A HTML to PDF converter.
   <sup>
-   &#9733 2679, pushed 2 days ago
+   &#9733 2679, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2996,7 +3026,7 @@
   </a>
   - A library for generating PDFs and images from XML.
   <sup>
-   &#9733 261, pushed 58 days ago
+   &#9733 261, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -3005,7 +3035,7 @@
   </a>
   - A PDF and image generation library.
   <sup>
-   &#9733 1889, pushed 32 days ago
+   &#9733 1889, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -3014,7 +3044,7 @@
   </a>
   - A tool to convert HTML to PDF.
   <sup>
-   &#9733 4050, pushed 4 days ago
+   &#9733 4050, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3033,7 +3063,7 @@
   </a>
   - A library for manipulating Microsoft Excel documents.
   <sup>
-   &#9733 45, pushed 756 days ago
+   &#9733 45, pushed 881 days ago
   </sup>
  </li>
  <li>
@@ -3042,7 +3072,7 @@
   </a>
   - A library for working with Microsoft Excel documents.
   <sup>
-   &#9733 5973, pushed 5 days ago
+   &#9733 5973, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3051,7 +3081,7 @@
   </a>
   - A library for working with Microsoft PowerPoint Presentations.
   <sup>
-   &#9733 397, pushed 20 days ago
+   &#9733 397, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3060,7 +3090,7 @@
   </a>
   - A library for working with Microsoft Word documents.
   <sup>
-   &#9733 1596, pushed 7 days ago
+   &#9733 1596, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -3079,7 +3109,7 @@
   </a>
   - A nested set implementation for Eloquent.
   <sup>
-   &#9733 965, pushed 40 days ago
+   &#9733 965, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -3088,7 +3118,7 @@
   </a>
   - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
   <sup>
-   &#9733 105, pushed 9 days ago
+   &#9733 105, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3097,7 +3127,7 @@
   </a>
   - A collection of Doctrine behavioural extensions.
   <sup>
-   &#9733 1556, pushed 2 days ago
+   &#9733 1556, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3112,17 +3142,14 @@
   </a>
   - A simple ORM (L5).
   <sup>
-   &#9733 729, pushed 3 days ago
+   &#9733 729, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/c9s/LazyRecord">
+  <a href="https://github.com/corneltek/LazyRecord">
    LazyRecord
   </a>
   - A fast ORM designed for simplicity, extendability and performance.
-  <sup>
-   &#9733 140, pushed 9 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/chanmix51/Pomm">
@@ -3130,7 +3157,7 @@
   </a>
   - An Object Model Manager for PostgreSQL.
   <sup>
-   &#9733 158, pushed 209 days ago
+   &#9733 158, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -3145,7 +3172,7 @@
   </a>
   - A set of utilities to generate proxy objects for data mappers.
   <sup>
-   &#9733 550, pushed 49 days ago
+   &#9733 550, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -3160,7 +3187,7 @@
   </a>
   - A MySQL datamapper ORM.
   <sup>
-   &#9733 347, pushed 4 days ago
+   &#9733 347, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3183,7 +3210,7 @@
   </a>
   - A migration management library.
   <sup>
-   &#9733 36, pushed 37 days ago
+   &#9733 36, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -3192,7 +3219,7 @@
   </a>
   - Another database migration library.
   <sup>
-   &#9733 2092, pushed 5 days ago
+   &#9733 2092, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3201,7 +3228,7 @@
   </a>
   - Another migration management library.
   <sup>
-   &#9733 379, pushed 11 days ago
+   &#9733 379, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3210,7 +3237,7 @@
   </a>
   - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
   <sup>
-   &#9733 445, pushed 57 days ago
+   &#9733 445, pushed 181 days ago
   </sup>
  </li>
 </ul>
@@ -3229,7 +3256,7 @@
   </a>
   - A MongoDB abstraction library.
   <sup>
-   &#9733 239, pushed 18 days ago
+   &#9733 239, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -3238,7 +3265,7 @@
   </a>
   - A MongoDB query builder library.
   <sup>
-   &#9733 182, pushed 295 days ago
+   &#9733 182, pushed 420 days ago
   </sup>
  </li>
  <li>
@@ -3247,7 +3274,7 @@
   </a>
   - A MongoDB ORM.
   <sup>
-   &#9733 104, pushed 6 days ago
+   &#9733 104, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3256,7 +3283,7 @@
   </a>
   - A feature complete Redis library.
   <sup>
-   &#9733 2662, pushed 5 days ago
+   &#9733 2662, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -3275,7 +3302,7 @@
   </a>
   - A multibackend abstraction library.
   <sup>
-   &#9733 497, pushed 1 days ago
+   &#9733 497, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3284,7 +3311,7 @@
   </a>
   - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
   <sup>
-   &#9733 165, pushed 13 days ago
+   &#9733 165, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3293,7 +3320,7 @@
   </a>
   - A Beanstalkd client library.
   <sup>
-   &#9733 931, pushed 11 days ago
+   &#9733 931, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3302,7 +3329,7 @@
   </a>
   - A pure PHP AMQP library.
   <sup>
-   &#9733 1164, pushed 6 days ago
+   &#9733 1164, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3311,7 +3338,7 @@
   </a>
   - PHP bindings for Tarantool Queue.
   <sup>
-   &#9733 20, pushed 92 days ago
+   &#9733 20, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -3320,7 +3347,7 @@
   </a>
   - A RabbitMQ pattern library.
   <sup>
-   &#9733 182, pushed 6 days ago
+   &#9733 182, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -3339,7 +3366,7 @@
   </a>
   - A client library for ElasticSearch.
   <sup>
-   &#9733 1217, pushed 5 days ago
+   &#9733 1217, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3352,7 +3379,7 @@
   </a>
   .
   <sup>
-   &#9733 1070, pushed 4 days ago
+   &#9733 1070, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3371,7 +3398,7 @@
   </a>
   - Sphinx Search library provides SphinxQL indexing and searching features
   <sup>
-   &#9733 37, pushed 5 days ago
+   &#9733 37, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3400,7 +3427,7 @@
   </a>
   - A tiny PHP REPL.
   <sup>
-   &#9733 2100, pushed 193 days ago
+   &#9733 2100, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -3409,7 +3436,7 @@
   </a>
   - A micro framework for building command line tools.
   <sup>
-   &#9733 484, pushed 43 days ago
+   &#9733 484, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -3418,7 +3445,7 @@
   </a>
   - A library for building CLI menus.
   <sup>
-   &#9733 512, pushed 41 days ago
+   &#9733 512, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -3427,7 +3454,7 @@
   </a>
   - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
   <sup>
-   &#9733 230, pushed 46 days ago
+   &#9733 230, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -3436,7 +3463,7 @@
   </a>
   - A library for outputting colours and special formatting.
   <sup>
-   &#9733 997, pushed 28 days ago
+   &#9733 997, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3445,7 +3472,7 @@
   </a>
   - Another simple command line opt parser.
   <sup>
-   &#9733 383, pushed 55 days ago
+   &#9733 383, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -3454,7 +3481,7 @@
   </a>
   - A library to calculate cron run dates.
   <sup>
-   &#9733 830, pushed 6 days ago
+   &#9733 830, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3463,7 +3490,7 @@
   </a>
   - A command line opt parser.
   <sup>
-   &#9733 108, pushed 40 days ago
+   &#9733 108, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -3472,7 +3499,7 @@
   </a>
   - Another command line opt parser.
   <sup>
-   &#9733 79, pushed 77 days ago
+   &#9733 79, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -3481,7 +3508,7 @@
   </a>
   - Another command line library.
   <sup>
-   &#9733 193, pushed 69 days ago
+   &#9733 193, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -3490,7 +3517,7 @@
   </a>
   - Another command line opt parser.
   <sup>
-   &#9733 14, pushed 1199 days ago
+   &#9733 14, pushed 1324 days ago
   </sup>
  </li>
  <li>
@@ -3499,7 +3526,7 @@
   </a>
   - An event-driven, non-blocking shell.
   <sup>
-   &#9733 37, pushed 599 days ago
+   &#9733 37, pushed 724 days ago
   </sup>
  </li>
  <li>
@@ -3508,7 +3535,7 @@
   </a>
   - Another PHP REPL.
   <sup>
-   &#9733 1354, pushed 3 days ago
+   &#9733 1354, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3517,7 +3544,7 @@
   </a>
   - A simple command line wrapper library.
   <sup>
-   &#9733 576, pushed 539 days ago
+   &#9733 576, pushed 664 days ago
   </sup>
  </li>
  <li>
@@ -3526,7 +3553,7 @@
   </a>
   - A library for running commands in parallel on multiple remote machines.
   <sup>
-   &#9733 403, pushed 323 days ago
+   &#9733 403, pushed 448 days ago
   </sup>
  </li>
 </ul>
@@ -3545,7 +3572,7 @@
   </a>
   - A Hawk HTTP authentication library.
   <sup>
-   &#9733 52, pushed 187 days ago
+   &#9733 52, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -3554,7 +3581,7 @@
   </a>
   - An open source social sign on library.
   <sup>
-   &#9733 2120, pushed 3 days ago
+   &#9733 2120, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3563,7 +3590,7 @@
   </a>
   - Json Tokens to authenticate and transmit information.
   <sup>
-   &#9733 585, pushed 17 days ago
+   &#9733 585, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3572,7 +3599,7 @@
   </a>
   - A library for implementing Access Control Lists (ACL) systems.
   <sup>
-   &#9733 875, pushed 189 days ago
+   &#9733 875, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -3581,7 +3608,7 @@
   </a>
   - An OAuth 1.0 client library.
   <sup>
-   &#9733 101, pushed 8 days ago
+   &#9733 101, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3590,7 +3617,7 @@
   </a>
   - An OAuth 2.0 client library.
   <sup>
-   &#9733 1182, pushed 4 days ago
+   &#9733 1182, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3611,7 +3638,7 @@
   </a>
   - A multi-provider authentication framework.
   <sup>
-   &#9733 1387, pushed 83 days ago
+   &#9733 1387, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -3620,7 +3647,7 @@
   </a>
   - Another OAuth library.
   <sup>
-   &#9733 877, pushed 9 days ago
+   &#9733 877, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3641,7 +3668,7 @@
   </a>
   - A Twitter OAuth library.
   <sup>
-   &#9733 55, pushed 693 days ago
+   &#9733 55, pushed 818 days ago
   </sup>
  </li>
  <li>
@@ -3650,7 +3677,7 @@
   </a>
   - A fully tested Twitter SDK.
   <sup>
-   &#9733 36, pushed 466 days ago
+   &#9733 36, pushed 591 days ago
   </sup>
  </li>
 </ul>
@@ -3669,7 +3696,7 @@
   </a>
   - An fast and extensible Markdown parser.
   <sup>
-   &#9733 478, pushed 46 days ago
+   &#9733 478, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -3678,7 +3705,7 @@
   </a>
   - Another Markdown parser that supports Github flavoured Markdown.
   <sup>
-   &#9733 366, pushed 56 days ago
+   &#9733 366, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -3691,7 +3718,7 @@
   </a>
   .
   <sup>
-   &#9733 680, pushed 37 days ago
+   &#9733 680, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -3700,7 +3727,7 @@
   </a>
   - A lightweight markup parser library.
   <sup>
-   &#9733 159, pushed 62 days ago
+   &#9733 159, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -3709,7 +3736,7 @@
   </a>
   - A library that converts unicode characters and names into emoji images.
   <sup>
-   &#9733 22, pushed 332 days ago
+   &#9733 22, pushed 457 days ago
   </sup>
  </li>
  <li>
@@ -3718,7 +3745,7 @@
   </a>
   - Converts HTML into Markdown.
   <sup>
-   &#9733 365, pushed 10 days ago
+   &#9733 365, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3727,7 +3754,7 @@
   </a>
   - An HTML5 parser and serializer library.
   <sup>
-   &#9733 351, pushed 11 days ago
+   &#9733 351, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3736,7 +3763,7 @@
   </a>
   - Another Markdown parser.
   <sup>
-   &#9733 3180, pushed 51 days ago
+   &#9733 3180, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -3745,7 +3772,7 @@
   </a>
   - A Markdown parser.
   <sup>
-   &#9733 2122, pushed 51 days ago
+   &#9733 2122, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -3764,7 +3791,7 @@
   </a>
   - A PHP desktop/mobile user agent parser, based on Mobiledetect.
   <sup>
-   &#9733 911, pushed 55 days ago
+   &#9733 911, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -3773,7 +3800,7 @@
   </a>
   - An ANSI to HTML5 converter library.
   <sup>
-   &#9733 89, pushed 287 days ago
+   &#9733 89, pushed 411 days ago
   </sup>
  </li>
  <li>
@@ -3782,7 +3809,7 @@
   </a>
   - A library for manipulating and converting colours.
   <sup>
-   &#9733 190, pushed 126 days ago
+   &#9733 190, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -3791,7 +3818,7 @@
   </a>
   - Another library for parsing user agent strings.
   <sup>
-   &#9733 429, pushed 6 days ago
+   &#9733 429, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3800,7 +3827,7 @@
   </a>
   - Another UTF-8 string library.
   <sup>
-   &#9733 5, pushed 113 days ago
+   &#9733 5, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -3809,7 +3836,7 @@
   </a>
   - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
   <sup>
-   &#9733 135, pushed 47 days ago
+   &#9733 135, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -3818,7 +3845,7 @@
   </a>
   - A lightweight PHP class for detecting mobile devices (including tablets).
   <sup>
-   &#9733 5874, pushed 6 days ago
+   &#9733 5874, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3827,7 +3854,7 @@
   </a>
   - A portable library for working with UTF-8 strings.
   <sup>
-   &#9733 43, pushed 140 days ago
+   &#9733 43, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -3836,7 +3863,7 @@
   </a>
   - A library to convert strings to slugs.
   <sup>
-   &#9733 760, pushed 3 days ago
+   &#9733 760, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3851,7 +3878,7 @@
   </a>
   - A string manipulation library with multibyte support.
   <sup>
-   &#9733 1411, pushed 2 days ago
+   &#9733 1411, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3860,7 +3887,7 @@
   </a>
   - A text manipulation library.
   <sup>
-   &#9733 37, pushed 982 days ago
+   &#9733 37, pushed 1107 days ago
   </sup>
  </li>
  <li>
@@ -3875,7 +3902,7 @@
   </a>
   - A PHP port of Django's URLify.js.
   <sup>
-   &#9733 464, pushed 148 days ago
+   &#9733 464, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -3884,7 +3911,7 @@
   </a>
   - A library for generating UUIDs.
   <sup>
-   &#9733 1567, pushed 6 days ago
+   &#9733 1567, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -3903,7 +3930,7 @@
   </a>
   - A library to parse, format and convert byte units in binary and metric systems.
   <sup>
-   &#9733 32, pushed 131 days ago
+   &#9733 32, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -3912,7 +3939,7 @@
   </a>
   - A PHP implementation of Google's phone number handling library.
   <sup>
-   &#9733 1367, pushed 3 days ago
+   &#9733 1367, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3921,7 +3948,7 @@
   </a>
   - A library for working with large numbers.
   <sup>
-   &#9733 74, pushed 143 days ago
+   &#9733 74, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -3930,7 +3957,7 @@
   </a>
   - A library for working with numbers.
   <sup>
-   &#9733 145, pushed 19 days ago
+   &#9733 145, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -3939,7 +3966,7 @@
   </a>
   - Another library for converting between units of measure.
   <sup>
-   &#9733 57, pushed 57 days ago
+   &#9733 57, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -3948,7 +3975,7 @@
   </a>
   - A library for converting between units of measure.
   <sup>
-   &#9733 2, pushed 132 days ago
+   &#9733 2, pushed 256 days ago
   </sup>
  </li>
 </ul>
@@ -3967,7 +3994,7 @@
   </a>
   - Another validation library (CP).
   <sup>
-   &#9733 11, pushed 9 days ago
+   &#9733 11, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3976,7 +4003,7 @@
   </a>
   - An annotation filtering library.
   <sup>
-   &#9733 68, pushed 63 days ago
+   &#9733 68, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -3985,16 +4012,16 @@
   </a>
   - A simple PHP filtering library.
   <sup>
-   &#9733 315, pushed 15 days ago
+   &#9733 315, pushed 140 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ronanguilloux/IsoCodes">
    ISO-codes
   </a>
-  - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+  - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
   <sup>
-   &#9733 267, pushed 6 days ago
+   &#9733 267, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4003,7 +4030,7 @@
   </a>
   - A schema validation library that supports YAML, JSON and XML.
   <sup>
-   &#9733 45, pushed 64 days ago
+   &#9733 45, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -4012,7 +4039,7 @@
   </a>
   - A simple validation library.
   <sup>
-   &#9733 3049, pushed 2 days ago
+   &#9733 3049, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4021,7 +4048,7 @@
   </a>
   - A library for handling file uploads and validation.
   <sup>
-   &#9733 1093, pushed 61 days ago
+   &#9733 1093, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -4030,7 +4057,7 @@
   </a>
   - Another validation library.
   <sup>
-   &#9733 637, pushed 39 days ago
+   &#9733 637, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -4039,7 +4066,7 @@
   </a>
   - Another simplified validation library.
   <sup>
-   &#9733 23, pushed 60 days ago
+   &#9733 23, pushed 185 days ago
   </sup>
  </li>
 </ul>
@@ -4064,7 +4091,7 @@
   </a>
   - An API builder built with Zend Framework 2.
   <sup>
-   &#9733 431, pushed 34 days ago
+   &#9733 431, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -4073,7 +4100,7 @@
   </a>
   - A library for exposing Doctrine entities as REST resource endpoints.
   <sup>
-   &#9733 71, pushed 56 days ago
+   &#9733 71, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -4082,7 +4109,7 @@
   </a>
   - A Hypertext Application Language (HAL) builder library.
   <sup>
-   &#9733 164, pushed 36 days ago
+   &#9733 164, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -4091,7 +4118,7 @@
   </a>
   - A HATEOAS REST web service library.
   <sup>
-   &#9733 628, pushed 35 days ago
+   &#9733 628, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -4100,7 +4127,7 @@
   </a>
   - A content negotiation library.
   <sup>
-   &#9733 319, pushed 56 days ago
+   &#9733 319, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -4109,7 +4136,7 @@
   </a>
   - A lightweight framework to expose PHP methods as RESTful web API.
   <sup>
-   &#9733 1074, pushed 4 days ago
+   &#9733 1074, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4118,7 +4145,7 @@
   </a>
   - A tool to generate PHP classes from SOAP WSDL files.
   <sup>
-   &#9733 426, pushed 6 days ago
+   &#9733 426, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -4143,7 +4170,7 @@
   </a>
   - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
   <sup>
-   &#9733 26, pushed 43 days ago
+   &#9733 26, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -4152,7 +4179,7 @@
   </a>
   - A tool to clear APC/opcode caches from the command line.
   <sup>
-   &#9733 179, pushed 5 days ago
+   &#9733 179, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -4161,7 +4188,7 @@
   </a>
   - A caching library (CP).
   <sup>
-   &#9733 7, pushed 9 days ago
+   &#9733 7, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4170,7 +4197,7 @@
   </a>
   - A caching library.
   <sup>
-   &#9733 240, pushed 15 days ago
+   &#9733 240, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4179,7 +4206,7 @@
   </a>
   - Another library for caching.
   <sup>
-   &#9733 634, pushed 73 days ago
+   &#9733 634, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -4188,7 +4215,7 @@
   </a>
   - Another caching library (ZF2).
   <sup>
-   &#9733 16, pushed 11 days ago
+   &#9733 16, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -4207,7 +4234,7 @@
   </a>
   - A library of data structures.
   <sup>
-   &#9733 539, pushed 161 days ago
+   &#9733 539, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -4216,7 +4243,7 @@
   </a>
   - A simple collections library (CP).
   <sup>
-   &#9733 18, pushed 9 days ago
+   &#9733 18, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4225,7 +4252,7 @@
   </a>
   - Collections Abstraction library for PHP.
   <sup>
-   &#9733 38, pushed 2 days ago
+   &#9733 38, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4234,7 +4261,7 @@
   </a>
   - A library for converting complex data structures to JSON output.
   <sup>
-   &#9733 1351, pushed 15 days ago
+   &#9733 1351, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4243,7 +4270,7 @@
   </a>
   - Another PHP library based on .NET's LINQ.
   <sup>
-   &#9733 135, pushed 150 days ago
+   &#9733 135, pushed 275 days ago
   </sup>
  </li>
  <li>
@@ -4252,8 +4279,14 @@
   </a>
   - A library that maps nested JSON structures onto PHP classes.
   <sup>
-   &#9733 399, pushed 19 days ago
+   &#9733 399, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/DusanKasan/Knapsack">
+   Knapsack
+  </a>
+  - Collection library inspired by Clojure's sequences.
  </li>
  <li>
   <a href="https://github.com/schmittjoh/php-collection">
@@ -4261,7 +4294,7 @@
   </a>
   - A simple collections library.
   <sup>
-   &#9733 219, pushed 352 days ago
+   &#9733 219, pushed 477 days ago
   </sup>
  </li>
  <li>
@@ -4270,7 +4303,7 @@
   </a>
   - A PHP library based on .NET's LINQ (Language Integrated Query).
   <sup>
-   &#9733 289, pushed 125 days ago
+   &#9733 289, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -4279,7 +4312,7 @@
   </a>
   - A library for serialising and de-serialising data.
   <sup>
-   &#9733 468, pushed 4 days ago
+   &#9733 468, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4288,7 +4321,7 @@
   </a>
   - A library to manage and create data changesets.
   <sup>
-   &#9733 61, pushed 91 days ago
+   &#9733 61, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -4297,7 +4330,7 @@
   </a>
   - Yet Another LINQ to Objects for PHP.
   <sup>
-   &#9733 196, pushed 61 days ago
+   &#9733 196, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -4306,7 +4339,7 @@
   </a>
   - Another library for serialising and de-serialising data (ZF2).
   <sup>
-   &#9733 3, pushed 15 days ago
+   &#9733 3, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -4325,7 +4358,7 @@
   </a>
   - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
   <sup>
-   &#9733 600, pushed 38 days ago
+   &#9733 600, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -4334,7 +4367,7 @@
   </a>
   - A notification library (e.g., Growl).
   <sup>
-   &#9733 43, pushed 1343 days ago
+   &#9733 43, pushed 1468 days ago
   </sup>
  </li>
  <li>
@@ -4343,7 +4376,7 @@
   </a>
   - A standalone library for device push notifications.
   <sup>
-   &#9733 716, pushed 7 days ago
+   &#9733 716, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4352,7 +4385,7 @@
   </a>
   - A library for handling push notifications.
   <sup>
-   &#9733 175, pushed 82 days ago
+   &#9733 175, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -4361,7 +4394,7 @@
   </a>
   - A lightweight notification library.
   <sup>
-   &#9733 113, pushed 135 days ago
+   &#9733 113, pushed 260 days ago
   </sup>
  </li>
  <li>
@@ -4370,7 +4403,7 @@
   </a>
   - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
   <sup>
-   &#9733 34, pushed 53 days ago
+   &#9733 34, pushed 178 days ago
   </sup>
  </li>
 </ul>
@@ -4389,7 +4422,7 @@
   </a>
   - A deployment tool.
   <sup>
-   &#9733 2332, pushed 1 days ago
+   &#9733 2332, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4398,7 +4431,7 @@
   </a>
   - A tool to run SSH tasks with PHP.
   <sup>
-   &#9733 739, pushed 7 days ago
+   &#9733 739, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4407,7 +4440,7 @@
   </a>
   - A deployer library.
   <sup>
-   &#9733 90, pushed 112 days ago
+   &#9733 90, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -4416,7 +4449,7 @@
   </a>
   - A deployment tool for PHP applications.
   <sup>
-   &#9733 197, pushed 46 days ago
+   &#9733 197, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -4425,7 +4458,7 @@
   </a>
   - A fast and easy deployer for the PHP world.
   <sup>
-   &#9733 2005, pushed 10 days ago
+   &#9733 2005, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -4443,7 +4476,7 @@
    Aura Intl
   </a>
   <sup>
-   &#9733 47, pushed 60 days ago
+   &#9733 47, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -4452,7 +4485,7 @@
   </a>
   - Message translation and localization for dates and numbers (CP)
   <sup>
-   &#9733 6, pushed 9 days ago
+   &#9733 6, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -4471,7 +4504,7 @@
   </a>
   - The official PHP AWS SDK library.
   <sup>
-   &#9733 1981, pushed 4 days ago
+   &#9733 1981, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4486,7 +4519,7 @@
   </a>
   - A library to interface with the Digital Ocean API.
   <sup>
-   &#9733 150, pushed 503 days ago
+   &#9733 150, pushed 627 days ago
   </sup>
  </li>
  <li>
@@ -4495,7 +4528,7 @@
   </a>
   - The official PHP Dropbox SDK library.
   <sup>
-   &#9733 174, pushed 66 days ago
+   &#9733 174, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -4504,7 +4537,7 @@
   </a>
   - A library to interface with the Github API.
   <sup>
-   &#9733 60, pushed 1011 days ago
+   &#9733 60, pushed 1136 days ago
   </sup>
  </li>
  <li>
@@ -4513,7 +4546,7 @@
   </a>
   The official Mailgun PHP API.
   <sup>
-   &#9733 370, pushed 13 days ago
+   &#9733 370, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -4522,7 +4555,7 @@
   </a>
   - Another library to interface with the Github API.
   <sup>
-   &#9733 838, pushed 2 days ago
+   &#9733 838, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4531,7 +4564,7 @@
   </a>
   - A stream wrapper library for Amazon S3.
   <sup>
-   &#9733 15, pushed 896 days ago
+   &#9733 15, pushed 1021 days ago
   </sup>
  </li>
  <li>
@@ -4540,7 +4573,7 @@
   </a>
   - The official Stripe PHP library.
   <sup>
-   &#9733 847, pushed 18 days ago
+   &#9733 847, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -4549,7 +4582,7 @@
   </a>
   - The official Twilio PHP REST API.
   <sup>
-   &#9733 688, pushed 8 days ago
+   &#9733 688, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4558,7 +4591,7 @@
   </a>
   - A library to interface with Twitter's OAuth workflow.
   <sup>
-   &#9733 6, pushed 816 days ago
+   &#9733 6, pushed 940 days ago
   </sup>
  </li>
  <li>
@@ -4567,7 +4600,7 @@
   </a>
   - A library to interact with Twitter's REST API.
   <sup>
-   &#9733 21, pushed 816 days ago
+   &#9733 21, pushed 940 days ago
   </sup>
  </li>
 </ul>
@@ -4592,7 +4625,7 @@
   </a>
   - A compiled language between PHP and C++ for developing PHP extensions.
   <sup>
-   &#9733 1445, pushed 2 days ago
+   &#9733 1445, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -4611,7 +4644,7 @@
   </a>
   - An annotations library (part of Doctrine).
   <sup>
-   &#9733 137, pushed 31 days ago
+   &#9733 137, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -4620,7 +4653,7 @@
   </a>
   - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
   <sup>
-   &#9733 24, pushed 9 days ago
+   &#9733 24, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4629,7 +4662,7 @@
   </a>
   - A command bus library.
   <sup>
-   &#9733 29, pushed 48 days ago
+   &#9733 29, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -4638,7 +4671,7 @@
   </a>
   - A library for optimising autoloading.
   <sup>
-   &#9733 197, pushed 100 days ago
+   &#9733 197, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -4647,7 +4680,7 @@
   </a>
   - A list of all countries with names and ISO 3166-1 codes.
   <sup>
-   &#9733 2347, pushed 38 days ago
+   &#9733 2347, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -4656,7 +4689,7 @@
   </a>
   - An Oembed consumer library.
   <sup>
-   &#9733 98, pushed 12 days ago
+   &#9733 98, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4665,7 +4698,7 @@
   </a>
   - A library for extracting web media.
   <sup>
-   &#9733 513, pushed 79 days ago
+   &#9733 513, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -4674,7 +4707,7 @@
   </a>
   - A regular expression building library.
   <sup>
-   &#9733 296, pushed 147 days ago
+   &#9733 296, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -4683,7 +4716,7 @@
   </a>
   - A Graphviz library.
   <sup>
-   &#9733 30, pushed 200 days ago
+   &#9733 30, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -4692,7 +4725,7 @@
   </a>
   - A very newbility RPC Library, support 25+ languages now.
   <sup>
-   &#9733 274, pushed 22 days ago
+   &#9733 274, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -4701,7 +4734,7 @@
   </a>
   - A JSON lint utility.
   <sup>
-   &#9733 190, pushed 12 days ago
+   &#9733 190, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4710,7 +4743,7 @@
   </a>
   - A library for validating JSONP callbacks.
   <sup>
-   &#9733 37, pushed 68 days ago
+   &#9733 37, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -4719,7 +4752,7 @@
   </a>
   - A remote service executor library.
   <sup>
-   &#9733 36, pushed 774 days ago
+   &#9733 36, pushed 899 days ago
   </sup>
  </li>
  <li>
@@ -4728,7 +4761,7 @@
   </a>
   - A dumper library.
   <sup>
-   &#9733 373, pushed 132 days ago
+   &#9733 373, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -4737,7 +4770,7 @@
   </a>
   - A Lambda calculus interpreter in PHP.
   <sup>
-   &#9733 17, pushed 708 days ago
+   &#9733 17, pushed 833 days ago
   </sup>
  </li>
  <li>
@@ -4746,7 +4779,7 @@
   </a>
   - A CQRS (Command Query Responsibility Separation) library.
   <sup>
-   &#9733 395, pushed 611 days ago
+   &#9733 395, pushed 736 days ago
   </sup>
  </li>
  <li>
@@ -4755,7 +4788,16 @@
   </a>
   - A simple metrics API library.
   <sup>
-   &#9733 153, pushed 90 days ago
+   &#9733 153, pushed 215 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ARCANEDEV/noCAPTCHA">
+   noCAPTCHA
+  </a>
+  - Helper for Google's noCAPTCHA (reCAPTCHA).
+  <sup>
+   &#9733 82, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -4768,7 +4810,7 @@
   </a>
   .
   <sup>
-   &#9733 50, pushed 64 days ago
+   &#9733 50, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -4777,7 +4819,7 @@
   </a>
   - An opengraph library.
   <sup>
-   &#9733 70, pushed 106 days ago
+   &#9733 70, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -4786,7 +4828,7 @@
   </a>
   - A pagination library.
   <sup>
-   &#9733 548, pushed 8 days ago
+   &#9733 548, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4795,7 +4837,7 @@
   </a>
   - A PHP expression language.
   <sup>
-   &#9733 27, pushed 974 days ago
+   &#9733 27, pushed 1099 days ago
   </sup>
  </li>
  <li>
@@ -4804,7 +4846,7 @@
   </a>
   - A PHP library for iOS PassBook.
   <sup>
-   &#9733 137, pushed 9 days ago
+   &#9733 137, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -4813,7 +4855,7 @@
   </a>
   - A library for playing with the Raspberry PI's GPIO pins.
   <sup>
-   &#9733 155, pushed 90 days ago
+   &#9733 155, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -4822,7 +4864,7 @@
   </a>
   - A PHP port of the Java Content Repository (JCR).
   <sup>
-   &#9733 352, pushed 63 days ago
+   &#9733 352, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -4837,7 +4879,7 @@
   </a>
   - An object graph visualizer.
   <sup>
-   &#9733 53, pushed 12 days ago
+   &#9733 53, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -4846,7 +4888,7 @@
   </a>
   - A library for running time consuming tasks.
   <sup>
-   &#9733 38, pushed 278 days ago
+   &#9733 38, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -4855,7 +4897,7 @@
   </a>
   - Lightweight message bus supporting CQRS and Micro Services
   <sup>
-   &#9733 90, pushed 2 days ago
+   &#9733 90, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4864,7 +4906,7 @@
   </a>
   - A library for versioning and releasing software.
   <sup>
-   &#9733 284, pushed 15 days ago
+   &#9733 284, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4873,7 +4915,7 @@
   </a>
   - A library for parsing VCard and iCalendar objects.
   <sup>
-   &#9733 271, pushed 7 days ago
+   &#9733 271, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4882,7 +4924,7 @@
   </a>
   - An easy dumper tool for MySQL.
   <sup>
-   &#9733 9, pushed 109 days ago
+   &#9733 9, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -4891,7 +4933,7 @@
   </a>
   - A process forking library.
   <sup>
-   &#9733 558, pushed 47 days ago
+   &#9733 558, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -4900,7 +4942,7 @@
   </a>
   - A library that makes dealing with SSL suck less.
   <sup>
-   &#9733 57, pushed 362 days ago
+   &#9733 57, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -4909,7 +4951,7 @@
   </a>
   - A library that allows Closures to be serialized.
   <sup>
-   &#9733 502, pushed 64 days ago
+   &#9733 502, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -4930,7 +4972,7 @@
   </a>
   - A pretty error handling library.
   <sup>
-   &#9733 3137, pushed 26 days ago
+   &#9733 3137, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -4957,7 +4999,7 @@
   </a>
   - A PHP tap for HomeBrew.
   <sup>
-   &#9733 1980, pushed 2 days ago
+   &#9733 1980, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4972,7 +5014,7 @@
   </a>
   - A PHP version manager and installer.
   <sup>
-   &#9733 2224, pushed 2 days ago
+   &#9733 2224, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4981,7 +5023,7 @@
   </a>
   - Another PHP version installer.
   <sup>
-   &#9733 574, pushed 4 days ago
+   &#9733 574, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4990,7 +5032,7 @@
   </a>
   - Another PHP version manager.
   <sup>
-   &#9733 460, pushed 109 days ago
+   &#9733 460, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -5005,7 +5047,7 @@
   </a>
   - Another version manager.
   <sup>
-   &#9733 90, pushed 608 days ago
+   &#9733 90, pushed 732 days ago
   </sup>
  </li>
  <li>
@@ -5082,7 +5124,7 @@
   </a>
   - A Virtual Machine, Runtime and JIT for PHP by Facebook.
   <sup>
-   &#9733 13515, pushed 1 days ago
+   &#9733 13515, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -5091,7 +5133,7 @@
   </a>
   - Another PHP virtual machine.
   <sup>
-   &#9733 860, pushed 6 days ago
+   &#9733 860, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -5150,7 +5192,7 @@
   </a>
   - An application for managing queueing backends.
   <sup>
-   &#9733 498, pushed 81 days ago
+   &#9733 498, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -5159,7 +5201,7 @@
   </a>
   - A web tool for capturing and viewing emails.
   <sup>
-   &#9733 3287, pushed 10 days ago
+   &#9733 3287, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -5168,8 +5210,14 @@
   </a>
   - The open source status page system.
   <sup>
-   &#9733 4168, pushed 2 days ago
+   &#9733 4168, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mnapoli/phpBeanstalkdAdmin">
+   phpBeanstalkdAdmin
+  </a>
+  - Monitoring and administration interface for Beanstalkd.
  </li>
  <li>
   <a href="https://github.com/ErikDubbelboer/phpRedisAdmin">
@@ -5181,7 +5229,7 @@
   </a>
   databases.
   <sup>
-   &#9733 1109, pushed 9 days ago
+   &#9733 1109, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -5190,7 +5238,7 @@
   </a>
   - A web-based administration tool for PostgreSQL.
   <sup>
-   &#9733 164, pushed 20 days ago
+   &#9733 164, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -5199,7 +5247,7 @@
   </a>
   - A web interface for MySQL/MariaDB.
   <sup>
-   &#9733 1640, pushed 4 days ago
+   &#9733 1640, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5214,7 +5262,7 @@
   </a>
   - A modern flat-file CMS.
   <sup>
-   &#9733 4241, pushed 3 days ago
+   &#9733 4241, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -5239,7 +5287,7 @@
   </a>
   - A process manager, supercharger and load balancer for PHP applications.
   <sup>
-   &#9733 1963, pushed 2 days ago
+   &#9733 1963, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -5429,7 +5477,7 @@
   - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
  </li>
  <li>
-  <a href="http://daylerees.com/php-pandas/">
+  <a href="https://daylerees.com/php-pandas/">
    PHP Pandas
   </a>
   - A book about learning to write PHP by Dayle Rees.
@@ -5505,7 +5553,7 @@
   - A book about the Linux command line by William Shotts.
  </li>
  <li>
-  <a href="http://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886">
+  <a href="https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886">
    The Tangled Web — Securing Web Applications
   </a>
   - A book about securing web applications by Michal Zalewski.
@@ -5551,7 +5599,7 @@
   - A video series by Anthony Ferrara.
  </li>
  <li>
-  <a href="http://www.infoq.com/presentations/php-history">
+  <a href="https://www.infoq.com/presentations/php-history">
    Taking PHP Seriously
   </a>
   - A talk outlining PHP's strengths by Keith Adams of Facebook.
@@ -5567,7 +5615,7 @@
 </p>
 <ul>
  <li>
-  <a href="http://daylerees.com/composer-primer/">
+  <a href="https://daylerees.com/composer-primer/">
    Composer Primer
   </a>
   - A Composer primer.

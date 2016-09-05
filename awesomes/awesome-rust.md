@@ -3,7 +3,6 @@
 </h1>
 <p>
  A curated list of Rust code and resources, inspired by other awesome lists.
-The goal is to have only projects that are mostly stable and useful to users.
 </p>
 <p>
  If you want to contribute, please read
@@ -12,35 +11,23 @@ The goal is to have only projects that are mostly stable and useful to users.
  </a>
  .
 </p>
+<h2>
+ Table of Contents
+</h2>
 <ul>
  <li>
-  <a href="#awesome-rust">
-   Awesome Rust
+  <a href="#applications-written-in-rust">
+   Applications written in Rust
+  </a>
+ </li>
+ <li>
+  <a href="#development-tools">
+   Development Tools
   </a>
   <ul>
    <li>
-    <a href="#applications-written-in-rust">
-     Applications written in Rust
-    </a>
-   </li>
-   <li>
-    <a href="#games">
-     Games
-    </a>
-   </li>
-   <li>
-    <a href="#operating-systems">
-     Operating systems
-    </a>
-   </li>
-   <li>
-    <a href="#system-tools">
-     System tools
-    </a>
-   </li>
-   <li>
-    <a href="#development-tools">
-     Development Tools
+    <a href="#build-system">
+     Build system
     </a>
    </li>
    <li>
@@ -73,11 +60,13 @@ The goal is to have only projects that are mostly stable and useful to users.
      Testing
     </a>
    </li>
-   <li>
-    <a href="#libraries">
-     Libraries
-    </a>
-   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#libraries">
+   Libraries
+  </a>
+  <ul>
    <li>
     <a href="#astronomy">
      Astronomy
@@ -101,11 +90,6 @@ The goal is to have only projects that are mostly stable and useful to users.
    <li>
     <a href="#bioinformatics">
      Bioinformatics
-    </a>
-   </li>
-   <li>
-    <a href="#build-system">
-     Build system
     </a>
    </li>
    <li>
@@ -179,18 +163,23 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
    </li>
    <li>
+    <a href="#filesystem">
+     Filesystem
+    </a>
+   </li>
+   <li>
     <a href="#game-development">
      Game development
     </a>
    </li>
    <li>
-    <a href="#games">
-     Games
+    <a href="#geospatial">
+     Geospatial
     </a>
    </li>
    <li>
-    <a href="#geospatial">
-     Geospatial
+    <a href="#graphics">
+     Graphics
     </a>
    </li>
    <li>
@@ -253,23 +242,39 @@ The goal is to have only projects that are mostly stable and useful to users.
      Web programming
     </a>
    </li>
-   <li>
-    <a href="#resources">
-     Resources
-    </a>
-   </li>
-   <li>
-    <a href="#license">
-     License
-    </a>
-   </li>
   </ul>
+ </li>
+ <li>
+  <a href="#resources">
+   Resources
+  </a>
+ </li>
+ <li>
+  <a href="#license">
+   License
+  </a>
  </li>
 </ul>
 <h2>
  Applications written in Rust
 </h2>
+<p>
+ See also
+ <a href="https://www.rust-lang.org/friends.html">
+  Friends of Rust
+ </a>
+ (organizations running Rust in production).
+</p>
 <ul>
+ <li>
+  <a href="https://github.com/andschwa/rust-genetic-algorithm">
+   andschwa/rust-genetic-algorithm
+  </a>
+  — a genetic algorithm for academic benchmark problems
+  <a href="https://travis-ci.org/andschwa/rust-genetic-algorithm">
+   <img src="https://travis-ci.org/andschwa/rust-genetic-algorithm.svg?branch=master"/>
+  </a>
+ </li>
  <li>
   <a href="https://github.com/azerupi/mdBook">
    azerupi/mdBook
@@ -279,7 +284,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/azerupi/mdBook.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 168, pushed 6 days ago
+   &#9733 168, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -291,7 +296,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/bluejekyll/trust-dns.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 95, pushed 3 days ago
+   &#9733 95, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -303,37 +308,17 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/BurntSushi/xsv.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 622, pushed 5 days ago
+   &#9733 622, pushed 129 days ago
   </sup>
  </li>
  <li>
-  Emulators
-  <ul>
-   <li>
-    <a href="https://github.com/simias/rustation">
-     simias/rustation
-    </a>
-    — a Playstation emulator
-    <a href="https://travis-ci.org/simias/rustation">
-     <img src="https://travis-ci.org/simias/rustation.svg?branch=master"/>
-    </a>
-   </li>
-  </ul>
-  <sup>
-   &#9733 233, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/gchp/iota">
-   gchp/iota
+  <a href="https://github.com/ivanceras/curtain">
+   ivanceras/curtain
   </a>
-  — a simple text editor
-  <a href="https://travis-ci.org/gchp/iota">
-   <img src="https://travis-ci.org/gchp/iota.svg?branch=master"/>
+  - a database administration tool for postgresql
+  <a href="https://travis-ci.org/ivanceras/curtain">
+   <img src="https://api.travis-ci.org/ivanceras/curtain.svg"/>
   </a>
-  <sup>
-   &#9733 808, pushed 15 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/dlecan/generic-dns-update">
@@ -344,14 +329,14 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/dlecan/generic-dns-update.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 1, pushed 3 days ago
+   &#9733 1, pushed 128 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/snowplow/factotum">
    Factotum
   </a>
-  -
+  —
   <a href="http://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/">
    A system to programmatically run data pipelines
   </a>
@@ -359,7 +344,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/snowplow/factotum.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -368,7 +353,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — Flow-based Programming environment.
   <sup>
-   &#9733 24, pushed 42 days ago
+   &#9733 24, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -377,7 +362,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — an experimental HTTP load testing application
   <sup>
-   &#9733 52, pushed 200 days ago
+   &#9733 52, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -386,7 +371,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — a fast, simple and lightweight data collector
   <sup>
-   &#9733 104, pushed 25 days ago
+   &#9733 104, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -398,7 +383,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/kbknapp/docli-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 22, pushed 54 days ago
+   &#9733 22, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -416,19 +401,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/qmx/limonite.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 7, pushed 85 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/seppo0010/rsedis">
-   seppo0010/rsedis
-  </a>
-  — a Redis reimplementation
-  <a href="https://travis-ci.org/seppo0010/rsedis">
-   <img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 952, pushed 191 days ago
+   &#9733 7, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +410,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — a prototype web browser engine
   <sup>
-   &#9733 6619, pushed 2 days ago
+   &#9733 6619, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -454,181 +427,356 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 785, pushed 2 days ago
+   &#9733 785, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/cristianoliveira/funzzy">
-   cristianoliveira/funzzy
-  </a>
-  — a configurable watcher inspired in
-  <a href="http://entrproject.org/">
-   entr
-  </a>
-  <a href="https://travis-ci.org/cristianoliveira/funzzy">
-   <img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master"/>
-  </a>
+  <p>
+   <a href="https://github.com/cristianoliveira/funzzy">
+    cristianoliveira/funzzy
+   </a>
+   — a configurable watcher inspired in
+   <a href="http://entrproject.org/">
+    entr
+   </a>
+   <a href="https://travis-ci.org/cristianoliveira/funzzy">
+    <img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master"/>
+   </a>
+  </p>
   <sup>
-   &#9733 16, pushed 8 days ago
+   &#9733 16, pushed 133 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/google/xi-editor">
-   xi-editor
-  </a>
-  - A modern editor with a backend written in Rust.
-  <sup>
-   &#9733 3218, pushed 2 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- Games
-</h3>
-<p>
- See also
- <a href="https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston">
-  Games Made With Piston
- </a>
- .
-</p>
-<ul>
- <li>
-  <a href="https://github.com/lifthrasiir/angolmois-rust">
-   lifthrasiir/angolmois-rust
-  </a>
-  — a minimalistic music video game which supports the BMS format
-  <a href="https://travis-ci.org/lifthrasiir/angolmois-rust">
-   <img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 63, pushed 288 days ago
-  </sup>
+  <p>
+   <strong>
+    Audio
+   </strong>
+  </p>
+  <ul>
+   <li>
+    <a href="https://github.com/indiscipline/zrtstr">
+     indiscipline/zrtstr
+    </a>
+    — a command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono.
+    <a href="https://travis-ci.org/indiscipline/zrtstr">
+     <img src="https://travis-ci.org/indiscipline/zrtstr.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
-  <a href="https://github.com/swatteau/sokoban-rs">
-   swatteau/sokoban-rs
-  </a>
-  — a Sokoban implementation
+  <strong>
+   Database
+  </strong>
+  <ul>
+   <li>
+    <a href="https://github.com/pingcap/tikv">
+     pingcap/tikv
+    </a>
+    — a distributed KV database in Rust
+    <a href="https://travis-ci.org/pingcap/tikv">
+     <img src="https://travis-ci.org/pingcap/tikv.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/seppo0010/rsedis">
+     seppo0010/rsedis
+    </a>
+    — a Redis reimplementation in Rust
+    <a href="https://travis-ci.org/seppo0010/rsedis">
+     <img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 952, pushed 316 days ago
+    </sup>
+   </li>
+  </ul>
   <sup>
-   &#9733 56, pushed 16 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ozkriff/zoc">
-   Zone of Control
-  </a>
-  — a turn-based hexagonal strategy game
-  <a href="https://travis-ci.org/ozkriff/zoc">
-   <img src="https://travis-ci.org/ozkriff/zoc.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 48, pushed 41 days ago
+   &#9733 600, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dpc/rhex">
-   rhex
+  <strong>
+   Emulators
+  </strong>
+  [
+  <a href="https://crates.io/keywords/emulator">
+   emulator
   </a>
-  — hexagonal ascii roguelike
+  ]
+  <ul>
+   <li>
+    Commodore 64
+   </li>
+   <li>
+    <a href="https://github.com/kondrak/rust64">
+     kondrak/rust64
+    </a>
+    —
+    <a href="https://travis-ci.org/kondrak/rust64">
+     <img src="https://travis-ci.org/kondrak/rust64.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    Gameboy
+   </li>
+   <li>
+    <a href="https://github.com/Gekkio/mooneye-gb">
+     Gekkio/mooneye-gb
+    </a>
+    —
+    <a href="https://travis-ci.org/Gekkio/mooneye-gb">
+     <img src="https://travis-ci.org/Gekkio/mooneye-gb.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/mvdnes/rboy">
+     mvdnes/rboy
+    </a>
+    —
+    <a href="https://travis-ci.org/mvdnes/rboy">
+     <img src="https://travis-ci.org/mvdnes/rboy.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    NES
+   </li>
+   <li>
+    <a href="https://github.com/iamsix/oxidenes">
+     iamsix/oxidenes
+    </a>
+    —
+    <a href="https://travis-ci.org/iamsix/oxidenes">
+     <img src="https://travis-ci.org/iamsix/oxidenes.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/pcwalton/sprocketnes">
+     pcwalton/sprocketnes
+    </a>
+    —
+    <a href="https://travis-ci.org/pcwalton/sprocketnes">
+     <img src="https://travis-ci.org/pcwalton/sprocketnes.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    Playstation
+   </li>
+   <li>
+    <a href="https://github.com/simias/rustation">
+     simias/rustation
+    </a>
+    —
+    <a href="https://travis-ci.org/simias/rustation">
+     <img src="https://travis-ci.org/simias/rustation.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 233, pushed 128 days ago
+    </sup>
+   </li>
+   <li>
+    ZX Spectrum
+   </li>
+   <li>
+    <a href="https://github.com/pacmancoder/rustzx">
+     pacmancoder/rustzx
+    </a>
+    —
+    <a href="https://travis-ci.org/pacmancoder/rustzx">
+     <img src="https://travis-ci.org/pacmancoder/rustzx.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <strong>
+   Games
+  </strong>
+  , see also
+  <a href="https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston">
+   Games Made With Piston
+  </a>
+  .
+  <ul>
+   <li>
+    <a href="https://github.com/lifthrasiir/angolmois-rust">
+     lifthrasiir/angolmois-rust
+    </a>
+    — a minimalistic music video game which supports the BMS format
+    <a href="https://travis-ci.org/lifthrasiir/angolmois-rust">
+     <img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 63, pushed 413 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/swatteau/sokoban-rs">
+     swatteau/sokoban-rs
+    </a>
+    — a Sokoban implementation
+    <sup>
+     &#9733 56, pushed 141 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/ozkriff/zoc">
+     Zone of Control
+    </a>
+    — a turn-based hexagonal strategy game
+    <a href="https://travis-ci.org/ozkriff/zoc">
+     <img src="https://travis-ci.org/ozkriff/zoc.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 48, pushed 166 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/dpc/rhex">
+     rhex
+    </a>
+    — hexagonal ascii roguelike
+    <sup>
+     &#9733 44, pushed 129 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <strong>
+   Operating systems
+  </strong>
+  , see also
+  <a href="https://github.com/flosse/rust-os-comparison">
+   A comparison of operating systems written in Rust
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/redox-os/redox">
+     redox-os/redox
+    </a>
+    —
+    <a href="https://travis-ci.org/redox-os/redox">
+     <img src="https://travis-ci.org/redox-os/redox.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 4010, pushed 127 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/thepowersgang/rust_os">
+     thepowersgang/rust_os
+    </a>
+    —
+    <a href="https://travis-ci.org/thepowersgang/rust_os">
+     <img src="https://travis-ci.org/thepowersgang/rust_os.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 153, pushed 133 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <strong>
+   System tools
+  </strong>
+  <ul>
+   <li>
+    <a href="https://github.com/Aaronepower/tokei">
+     Aaronepower/tokei
+    </a>
+    — counts the lines of code
+    <a href="https://travis-ci.org/Aaronepower/tokei">
+     <img src="https://img.shields.io/travis/Aaronepower/tokei.svg"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/buster/rrun">
+     buster/rrun
+    </a>
+    — a command launcher for Linux, similar to gmrun
+    <a href="https://travis-ci.org/buster/rrun">
+     <img src="https://travis-ci.org/buster/rrun.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 28, pushed 155 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/ogham/exa">
+     ogham/exa
+    </a>
+    — a replacement for 'ls' written in Rust
+    <a href="https://travis-ci.org/ogham/exa">
+     <img src="https://travis-ci.org/ogham/exa.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 694, pushed 125 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/mmstick/systemd-manager">
+     mmstick/systemd-manager
+    </a>
+    — a systemd service manager written in Rust using GTK-rs.
+    <sup>
+     &#9733 16, pushed 143 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/mmstick/tv-renamer">
+     mmstick/tv-renamer
+    </a>
+    — a tv series renaming application with an optional GTK3 frontend.
+    <a href="https://travis-ci.org/mmstick/tv-renamer">
+     <img src="https://travis-ci.org/mmstick/tv-renamer.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/uutils/coreutils">
+     uutils/coreutils
+    </a>
+    — a cross-platform Rust rewrite of the GNU coreutils
+    <a href="https://travis-ci.org/uutils/coreutils">
+     <img src="https://travis-ci.org/uutils/coreutils.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 2813, pushed 127 days ago
+    </sup>
+   </li>
+  </ul>
   <sup>
-   &#9733 44, pushed 4 days ago
+   &#9733 48, pushed 127 days ago
   </sup>
  </li>
-</ul>
-<h3>
- Operating systems
-</h3>
-<p>
- <a href="https://github.com/flosse/rust-os-comparison">
-  A comparison of operating systems written in Rust
- </a>
-</p>
-<ul>
  <li>
-  <a href="https://github.com/redox-os/redox">
-   redox-os/redox
-  </a>
-  —
-  <a href="https://travis-ci.org/redox-os/redox">
-   <img src="https://travis-ci.org/redox-os/redox.svg?branch=master"/>
-  </a>
+  <strong>
+   Text editors
+  </strong>
+  <ul>
+   <li>
+    <a href="https://github.com/gchp/iota">
+     gchp/iota
+    </a>
+    — a simple text editor
+    <a href="https://travis-ci.org/gchp/iota">
+     <img src="https://travis-ci.org/gchp/iota.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/google/xi-editor">
+     xi-editor
+    </a>
+    — a modern editor with a backend written in Rust.
+    <sup>
+     &#9733 3218, pushed 126 days ago
+    </sup>
+   </li>
+  </ul>
   <sup>
-   &#9733 4010, pushed 3 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/thepowersgang/rust_os">
-   thepowersgang/rust_os
-  </a>
-  —
-  <a href="https://travis-ci.org/thepowersgang/rust_os">
-   <img src="https://travis-ci.org/thepowersgang/rust_os.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 153, pushed 9 days ago
-  </sup>
- </li>
-</ul>
-<h3>
- System tools
-</h3>
-<ul>
- <li>
-  <a href="https://github.com/Aaronepower/tokei">
-   Aaronepower/tokei
-  </a>
-  — counts the lines of code
-  <a href="https://travis-ci.org/Aaronepower/tokei">
-   <img src="https://img.shields.io/travis/Aaronepower/tokei.svg"/>
-  </a>
-  <sup>
-   &#9733 48, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/buster/rrun">
-   buster/rrun
-  </a>
-  — a command launcher for Linux, similar to gmrun
-  <a href="https://travis-ci.org/buster/rrun">
-   <img src="https://travis-ci.org/buster/rrun.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 28, pushed 30 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/ogham/exa">
-   ogham/exa
-  </a>
-  — a replacement for 'ls' written in Rust
-  <a href="https://travis-ci.org/ogham/exa">
-   <img src="https://travis-ci.org/ogham/exa.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 694, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mmstick/systemd-manager">
-   mmstick/systemd-manager
-  </a>
-  -- a systemd service manager written in Rust using GTK-rs.
-  <sup>
-   &#9733 16, pushed 18 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/uutils/coreutils">
-   uutils/coreutils
-  </a>
-  — a cross-platform Rust rewrite of the GNU coreutils
-  <a href="https://travis-ci.org/uutils/coreutils">
-   <img src="https://travis-ci.org/uutils/coreutils.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 2813, pushed 2 days ago
+   &#9733 808, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -640,12 +788,16 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/Manishearth/rust-clippy">
    Clippy
   </a>
-  — Rust lints
+  [
+  <a href="https://crates.io/crates/clippy">
+   clippy
+  </a>
+  ] — Rust lints
   <a href="https://travis-ci.org/Manishearth/rust-clippy">
    <img src="https://travis-ci.org/Manishearth/rust-clippy.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 619, pushed 2 days ago
+   &#9733 619, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -661,7 +813,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/clog-tool/clog-cli.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 195, pushed 28 days ago
+   &#9733 195, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -673,7 +825,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/dan-t/rusty-tags.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 73, pushed 18 days ago
+   &#9733 73, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -682,34 +834,17 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — generates images of dependency graphs for crates hosted on crates.io
   <sup>
-   &#9733 12, pushed 184 days ago
+   &#9733 12, pushed 308 days ago
   </sup>
  </li>
  <li>
-  Multirust — manage multiple Rust installations
-  <ul>
-   <li>
-    <a href="https://github.com/brson/multirust">
-     brson/multirust
-    </a>
-    — the original multirust as shell scripts
-    <a href="https://travis-ci.org/brson/multirust">
-     <img src="https://travis-ci.org/brson/multirust.svg?branch=master"/>
-    </a>
-   </li>
-   <li>
-    <a href="https://github.com/Diggsey/multirust-rs">
-     Diggsey/multirust-rs
-    </a>
-    — multirust reimplementation in Rust
-    <a href="https://travis-ci.org/Diggsey/multirust-rs">
-     <img src="https://travis-ci.org/Diggsey/multirust-rs.svg?branch=master"/>
-    </a>
-   </li>
-  </ul>
-  <sup>
-   &#9733 692, pushed 19 days ago
-  </sup>
+  <a href="https://github.com/killercup/rustfix">
+   killercup/rustfix
+  </a>
+  — automatically applies the suggestions made by rustc
+  <a href="https://travis-ci.org/killercup/rustfix">
+   <img src="https://travis-ci.org/killercup/rustfix.svg?branch=master"/>
+  </a>
  </li>
  <li>
   <a href="https://github.com/phildawes/racer">
@@ -720,7 +855,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/phildawes/racer.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 1498, pushed 6 days ago
+   &#9733 1498, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -732,7 +867,252 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 692, pushed 2 days ago
+   &#9733 692, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rust-lang-nursery/rustup.rs">
+   Rustup
+  </a>
+  — the Rust toolchain installer
+  <a href="https://travis-ci.org/rust-lang-nursery/rustup.rs">
+   <img src="https://travis-ci.org/rust-lang-nursery/rustup.rs.svg?branch=master"/>
+  </a>
+  <sup>
+   &#9733 231, pushed 125 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vitiral/rst">
+   rst
+  </a>
+  — the requirements tracking tool made for developers
+  <a href="https://travis-ci.org/vitiral/rst">
+   <img src="https://travis-ci.org/vitiral/rst.svg?branch=master"/>
+  </a>
+ </li>
+</ul>
+<h3>
+ Build system
+</h3>
+<ul>
+ <li>
+  <a href="https://crates.io/">
+   Cargo
+  </a>
+  — the Rust package manager
+  <ul>
+   <li>
+    <a href="https://github.com/rsolomo/cargo-check">
+     rsolomo/cargo-check
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-check">
+     cargo-check
+    </a>
+    ] — a wrapper around
+    <code>
+     cargo rustc -- -Zno-trans
+    </code>
+    which can be helpful for running a faster compile if you only need correctness checks
+    <a href="https://travis-ci.org/rsolomo/cargo-check">
+     <img src="https://travis-ci.org/rsolomo/cargo-check.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 61, pushed 238 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-count">
+     kbknapp/cargo-count
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-count">
+     cargo-count
+    </a>
+    ] — lists source code counts and details about cargo projects, including unsafe statistics
+    <a href="https://travis-ci.org/kbknapp/cargo-count">
+     <img src="https://travis-ci.org/kbknapp/cargo-count.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 42, pushed 158 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/pwoolcoc/cargo-do">
+     pwoolcoc/cargo-do
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-do">
+     cargo-do
+    </a>
+    ] — run multiple cargo commands in a row
+    <sup>
+     &#9733 7, pushed 173 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/maxsnew/cargo-dot">
+     maxsnew/cargo-dot
+    </a>
+    — generate graphs of a Cargo project's dependencies
+    <a href="https://travis-ci.org/maxsnew/cargo-dot">
+     <img src="https://travis-ci.org/maxsnew/cargo-dot.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 34, pushed 290 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/killercup/cargo-edit">
+     killercup/cargo-edit
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-edit">
+     cargo-edit
+    </a>
+    ] — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
+    <a href="https://travis-ci.org/killercup/cargo-edit">
+     <img src="https://travis-ci.org/killercup/cargo-edit.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 101, pushed 148 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-graph">
+     kbknapp/cargo-graph
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-graph">
+     cargo-graph
+    </a>
+    ] — updated fork of
+    <code>
+     cargo-dot
+    </code>
+    with additional features
+    <a href="https://travis-ci.org/kbknapp/cargo-graph">
+     <img src="https://travis-ci.org/kbknapp/cargo-graph.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 23, pushed 165 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://gitlab.com/imp/cargo-info">
+     imp/cargo-info
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-info">
+     cargo-info
+    </a>
+    ] — queries crates.io for crates details from command line
+    <a href="https://travis-ci.org/imp/cargo-info">
+     <img src="https://travis-ci.org/imp/cargo-info.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/regexident/cargo-modules">
+     regexident/cargo-modules
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-modules">
+     cargo-modules
+    </a>
+    ] — A cargo plugin for showing a tree-like overview of a crate's modules.
+    <a href="https://travis-ci.org/regexident/cargo-modules">
+     <img src="https://travis-ci.org/regexident/cargo-modules.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/imp/cargo-multi">
+     imp/cargo-multi
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-multi">
+     cargo-multi
+    </a>
+    ] — runs specified cargo command on multiple crates
+    <a href="https://travis-ci.org/imp/cargo-multi">
+     <img src="https://travis-ci.org/imp/cargo-multi.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 0, pushed 149 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/kbknapp/cargo-outdated">
+     kbknapp/cargo-outdated
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-outdated">
+     cargo-outdated
+    </a>
+    ] — displays when newer versions of Rust dependencies are available, or out of date
+    <a href="https://travis-ci.org/kbknapp/cargo-outdated">
+     <img src="https://travis-ci.org/kbknapp/cargo-outdated.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 39, pushed 166 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/sunng87/cargo-release">
+     sunng87/cargo-release
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-release">
+     cargo-release
+    </a>
+    ] — tool for releasing git-managed cargo project, build, tag, publish, doc and push
+   </li>
+   <li>
+    <a href="https://github.com/DanielKeep/cargo-script">
+     DanielKeep/cargo-script
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-script">
+     cargo-script
+    </a>
+    ] — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
+    <sup>
+     &#9733 67, pushed 136 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/passcod/cargo-watch">
+     passcod/cargo-watch
+    </a>
+    [
+    <a href="https://crates.io/crates/cargo-watch">
+     cargo-watch
+    </a>
+    ] — utility for cargo to compile projects when sources change
+    <a href="https://travis-ci.org/passcod/cargo-watch">
+     <img src="https://travis-ci.org/passcod/cargo-watch.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 109, pushed 218 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  CMake
+  <ul>
+   <li>
+    <a href="https://github.com/SiegeLord/RustCMake">
+     SiegeLord/RustCMake
+    </a>
+    — an example project showing usage of CMake with Rust
+    <a href="https://travis-ci.org/SiegeLord/RustCMake">
+     <img src="https://travis-ci.org/SiegeLord/RustCMake.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   &#9733 45, pushed 317 days ago
   </sup>
  </li>
 </ul>
@@ -780,7 +1160,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 232, pushed 4 days ago
+   &#9733 232, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -794,7 +1174,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 155, pushed 18 days ago
+   &#9733 155, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -834,12 +1214,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 85, pushed 1 days ago
+     &#9733 85, pushed 126 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 488, pushed 7 days ago
+   &#9733 488, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -849,14 +1229,14 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/hansihe/Rustler">
      hansihe/Rustler
     </a>
-    - Safe Rust bridge for creating Erlang NIF functions
+    — safe Rust bridge for creating Erlang NIF functions
     <a href="https://travis-ci.org/hansihe/Rustler">
      <img src="https://travis-ci.org/hansihe/Rustler.svg?branch=master"/>
     </a>
    </li>
   </ul>
   <sup>
-   &#9733 181, pushed 15 days ago
+   &#9733 181, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -873,8 +1253,49 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 119, pushed 339 days ago
+   &#9733 119, pushed 464 days ago
   </sup>
+ </li>
+ <li>
+  Lua
+  <ul>
+   <li>
+    <a href="https://github.com/jcmoyer/rust-lua53">
+     jcmoyer/rust-lua53
+    </a>
+    — Lua 5.3 bindings for Rust
+    <a href="https://travis-ci.org/jcmoyer/rust-lua53">
+     <img src="https://travis-ci.org/jcmoyer/rust-lua53.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/kballard/rust-lua">
+     kballard/rust-lua
+    </a>
+    — Safe Rust bindings to Lua 5.1
+    <a href="https://travis-ci.org/kballard/rust-lua">
+     <img src="https://travis-ci.org/kballard/rust-lua.svg"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/tickbh/td_rlua">
+     tickbh/td_rlua
+    </a>
+    — Zero-cost high-level lua 5.3 wrapper for Rust
+    <a href="https://travis-ci.org/tickbh/td_rlua">
+     <img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/tomaka/hlua">
+     tomaka/hlua
+    </a>
+    — Rust library to interface with Lua
+    <a href="https://travis-ci.org/tomaka/hlua">
+     <img src="https://travis-ci.org/tomaka/hlua.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   mruby
@@ -883,14 +1304,14 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/anima-engine/mrusty">
      anima-engine/mrusty
     </a>
-    - mruby safe bindings for Rust
+    — mruby safe bindings for Rust
     <a href="https://travis-ci.org/anima-engine/mrusty">
      <img src="https://travis-ci.org/anima-engine/mrusty.svg?branch=master"/>
     </a>
    </li>
   </ul>
   <sup>
-   &#9733 119, pushed 3 days ago
+   &#9733 119, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -907,7 +1328,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 840, pushed 6 days ago
+   &#9733 840, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -921,7 +1342,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 67, pushed 3 days ago
+   &#9733 67, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -945,12 +1366,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/lukemetz/rustpy.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 56, pushed 43 days ago
+     &#9733 56, pushed 168 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 174, pushed 3 days ago
+   &#9733 174, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -967,8 +1388,22 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 29, pushed 17 days ago
+   &#9733 29, pushed 142 days ago
   </sup>
+ </li>
+ <li>
+  Ruby
+  <ul>
+   <li>
+    <a href="https://github.com/rustbridge/helix">
+     rustbridge/helix
+    </a>
+    — write Ruby classes in Rust
+    <a href="https://travis-ci.org/rustbridge/helix">
+     <img src="https://travis-ci.org/rustbridge/helix.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -987,32 +1422,78 @@ The goal is to have only projects that are mostly stable and useful to users.
 </p>
 <ul>
  <li>
-  <a href="https://github.com/intellij-rust/intellij-rust">
-   intellij-rust
+  <a href="https://atom.io/">
+   Atom
   </a>
-  — an
+  <ul>
+   <li>
+    <a href="https://github.com/zargony/atom-language-rust">
+     zargony/atom-language-rust
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://eclipse.org/">
+   Eclipse
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/RustDT/RustDT">
+     RustDT
+    </a>
+    —
+    <a href="https://travis-ci.org/RustDT/RustDT">
+     <img src="https://travis-ci.org/RustDT/RustDT.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 247, pushed 128 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://netbeans.org/">
+   NetBeans
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/drrb/rust-netbeans">
+     drrb/rust-netbeans
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
   <a href="https://www.jetbrains.com/idea/">
    IntelliJ
   </a>
-  -based IDE for Rust
-  <a href="https://travis-ci.org/intellij-rust/intellij-rust">
-   <img src="https://travis-ci.org/intellij-rust/intellij-rust.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 572, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/PistonDevelopers/VisualRust">
-   PistonDevelopers/VisualRust
-  </a>
-  — a Visual Studio extension for Rust
-  <a href="https://travis-ci.org/PistonDevelopers/VisualRust">
-   <img src="https://travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 404, pushed 2 days ago
-  </sup>
+  <ul>
+   <li>
+    <a href="https://github.com/intellij-rust/intellij-rust">
+     intellij-rust/intellij-rust
+    </a>
+    —
+    <a href="https://travis-ci.org/intellij-rust/intellij-rust">
+     <img src="https://travis-ci.org/intellij-rust/intellij-rust.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 572, pushed 127 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/intellij-rust/intellij-toml">
+     intellij-rust/intellij-toml
+    </a>
+    — basic Toml support
+   </li>
+   <li>
+    <a href="https://github.com/JustSid/AfterglowIntelliJ">
+     JustSid/AfterglowIntelliJ
+    </a>
+    — custom icons
+   </li>
+  </ul>
  </li>
  <li>
   <a href="https://github.com/madeso/ride">
@@ -1023,23 +1504,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/madeso/ride.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 98, pushed 125 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RustDT/RustDT">
-   RustDT
-  </a>
-  — an
-  <a href="https://eclipse.org/">
-   Eclipse
-  </a>
-  -based IDE for Rust
-  <a href="https://travis-ci.org/RustDT/RustDT">
-   <img src="https://travis-ci.org/RustDT/RustDT.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 247, pushed 3 days ago
+   &#9733 98, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -1051,13 +1516,37 @@ The goal is to have only projects that are mostly stable and useful to users.
    Neovim
   </a>
   <sup>
-   &#9733 644, pushed 45 days ago
+   &#9733 644, pushed 170 days ago
+  </sup>
+ </li>
+ <li>
+  Visual Studio
+  <ul>
+   <li>
+    <a href="https://github.com/PistonDevelopers/VisualRust">
+     PistonDevelopers/VisualRust
+    </a>
+    — a Visual Studio extension for Rust
+    <a href="https://travis-ci.org/PistonDevelopers/VisualRust">
+     <img src="https://travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+  <sup>
+   &#9733 404, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://code.visualstudio.com/">
    Visual Studio Code
   </a>
+  <ul>
+   <li>
+    <a href="https://github.com/saviorisdead/RustyCode">
+     saviorisdead/RustyCode
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -1073,28 +1562,49 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 17, pushed 305 days ago
+   &#9733 17, pushed 430 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mrhooray/torch">
-   mrhooray/torch
-  </a>
-  — generates FlameGraphs based on DWARF Debug Info
+  FlameGraphs
+  <ul>
+   <li>
+    <a href="https://github.com/mrhooray/torch">
+     mrhooray/torch
+    </a>
+    — generates FlameGraphs based on DWARF Debug Info
+   </li>
+   <li>
+    <a href="https://github.com/TyOverby/flame">
+     TyOverby/flame
+    </a>
+    —
+    <a href="https://travis-ci.org/TyOverby/flame">
+     <img src="https://travis-ci.org/TyOverby/flame.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 64, pushed 249 days ago
+   &#9733 64, pushed 374 days ago
   </sup>
  </li>
 </ul>
 <h3>
  Testing
 </h3>
+<p>
+ [[testing](https://crates.io/keywords/testing)]
+</p>
 <ul>
  <li>
   <a href="https://github.com/BurntSushi/quickcheck">
    BurntSushi/quickcheck
   </a>
-  — a Rust implementation of
+  [
+  <a href="https://crates.io/crates/quickcheck">
+   quickcheck
+  </a>
+  ] — a Rust implementation of
   <a href="https://wiki.haskell.org/Introduction_to_QuickCheck1">
    QuickCheck
   </a>
@@ -1102,7 +1612,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/BurntSushi/quickcheck.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 324, pushed 51 days ago
+   &#9733 324, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -1114,7 +1624,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/farcaller/shiny.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 71, pushed 225 days ago
+   &#9733 71, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -1129,8 +1639,21 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://api.travis-ci.org/frewsxcv/afl.rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 194, pushed 3 days ago
+   &#9733 194, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/reem/stainless">
+   reem/stainless
+  </a>
+  [
+  <a href="https://crates.io/crates/stainless">
+   stainless
+  </a>
+  ] — Organized, flexible testing framework
+  <a href="https://travis-ci.org/reem/stainless">
+   <img src="https://travis-ci.org/reem/stainless.svg?branch=master"/>
+  </a>
  </li>
 </ul>
 <h2>
@@ -1139,6 +1662,9 @@ The goal is to have only projects that are mostly stable and useful to users.
 <h3>
  Astronomy
 </h3>
+<p>
+ [[astronomy](https://crates.io/keywords/astronomy)]
+</p>
 <ul>
  <li>
   <a href="https://github.com/saurvs/astro-rust">
@@ -1149,8 +1675,17 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/saurvs/astro-rust.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 20, pushed 8 days ago
+   &#9733 20, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/flosse/rust-sun">
+   flosse/rust-sun
+  </a>
+  — A rust port of the JS library suncalc
+  <a href="https://travis-ci.org/flosse/rust-sun">
+   <img src="https://travis-ci.org/flosse/rust-sun.svg?branch=master"/>
+  </a>
  </li>
 </ul>
 <h3>
@@ -1166,7 +1701,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 225, pushed 1 days ago
+   &#9733 225, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1178,13 +1713,43 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/thehydroimpulse/tangle.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 9, pushed 35 days ago
+   &#9733 9, pushed 160 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dpc/mioco">
+   dpc/mioco
+  </a>
+  — Scalable, coroutine-based, asynchronous IO handling library
+  <a href="https://travis-ci.org/dpc/mioco">
+   <img alt="Travis CI Build Status" src="https://img.shields.io/travis/dpc/mioco/master.svg?style=flat-square"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/alexcrichton/futures-rs">
+   alexcrichton/futures-rs
+  </a>
+  — Zero-cost futures in Rust
+  <a href="https://travis-ci.org/alexcrichton/futures-rs">
+   <img alt="Travis CI Build Status" src="https://travis-ci.org/alexcrichton/futures-rs.svg?branch=master"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/carllerche/mio">
+   carllerche/mio
+  </a>
+  — MIO is a lightweight IO library for Rust with a focus on adding as little overhead as possible over the OS abstractions
+  <a href="https://travis-ci.org/carllerche/mio">
+   <img src="https://travis-ci.org/carllerche/mio.svg?branch=master"/>
+  </a>
  </li>
 </ul>
 <h3>
  Audio
 </h3>
+<p>
+ [[audio](https://crates.io/keywords/audio)]
+</p>
 <ul>
  <li>
   <a href="https://github.com/GuillaumeGomez/rust-fmod">
@@ -1199,23 +1764,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 8, pushed 92 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/RustAudio/rust-portaudio">
-   RustAudio/rust-portaudio
-  </a>
-  —
-  <a href="http://www.portaudio.com/">
-   PortAudio
-  </a>
-  bindings
-  <a href="https://travis-ci.org/RustAudio/rust-portaudio">
-   <img src="https://travis-ci.org/RustAudio/rust-portaudio.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 74, pushed 4 days ago
+   &#9733 8, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -1227,7 +1776,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/jhasse/ears.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 6, pushed 67 days ago
+   &#9733 6, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -1243,13 +1792,8 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/jpernst/openal-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 13, pushed 93 days ago
+   &#9733 13, pushed 217 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/RustAudio">
-   RustAudio
-  </a>
  </li>
  <li>
   <a href="https://github.com/musitdev/portmidi-rs">
@@ -1264,8 +1808,31 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/musitdev/portmidi-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 24, pushed 37 days ago
+   &#9733 24, pushed 162 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/RustAudio">
+   RustAudio
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/RustAudio/rust-portaudio">
+     RustAudio/rust-portaudio
+    </a>
+    —
+    <a href="http://www.portaudio.com/">
+     PortAudio
+    </a>
+    bindings
+    <a href="https://travis-ci.org/RustAudio/rust-portaudio">
+     <img src="https://travis-ci.org/RustAudio/rust-portaudio.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 74, pushed 128 days ago
+    </sup>
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -1285,7 +1852,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://api.travis-ci.org/Keats/rust-jwt.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 20, pushed 8 days ago
+   &#9733 20, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1301,162 +1868,6 @@ The goal is to have only projects that are mostly stable and useful to users.
  </li>
 </ul>
 <h3>
- Build system
-</h3>
-<ul>
- <li>
-  <a href="https://crates.io/">
-   Cargo
-  </a>
-  — the Rust package manager
-  <ul>
-   <li>
-    <a href="https://github.com/rsolomo/cargo-check">
-     rsolomo/cargo-check
-    </a>
-    — a wrapper around
-    <code>
-     cargo rustc -- -Zno-trans
-    </code>
-    which can be helpful for running a faster compile if you only need correctness checks
-    <a href="https://travis-ci.org/rsolomo/cargo-check">
-     <img src="https://travis-ci.org/rsolomo/cargo-check.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 61, pushed 113 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/kbknapp/cargo-count">
-     kbknapp/cargo-count
-    </a>
-    — lists source code counts and details about cargo projects, including unsafe statistics
-    <a href="https://travis-ci.org/kbknapp/cargo-count">
-     <img src="https://travis-ci.org/kbknapp/cargo-count.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 42, pushed 33 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/pwoolcoc/cargo-do">
-     pwoolcoc/cargo-do
-    </a>
-    — run multiple cargo commands in a row
-    <sup>
-     &#9733 7, pushed 48 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/maxsnew/cargo-dot">
-     maxsnew/cargo-dot
-    </a>
-    — generate graphs of a Cargo project's dependencies
-    <a href="https://travis-ci.org/maxsnew/cargo-dot">
-     <img src="https://travis-ci.org/maxsnew/cargo-dot.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 34, pushed 166 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/killercup/cargo-edit">
-     killercup/cargo-edit
-    </a>
-    — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
-    <a href="https://travis-ci.org/killercup/cargo-edit">
-     <img src="https://travis-ci.org/killercup/cargo-edit.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 101, pushed 23 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/kbknapp/cargo-graph">
-     kbknapp/cargo-graph
-    </a>
-    — updated fork of
-    <code>
-     cargo-dot
-    </code>
-    with additional features
-    <a href="https://travis-ci.org/kbknapp/cargo-graph">
-     <img src="https://travis-ci.org/kbknapp/cargo-graph.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 23, pushed 41 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/kbknapp/cargo-outdated">
-     kbknapp/cargo-outdated
-    </a>
-    — displays when newer versions of Rust dependencies are available, or out of date
-    <a href="https://travis-ci.org/kbknapp/cargo-outdated">
-     <img src="https://travis-ci.org/kbknapp/cargo-outdated.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 39, pushed 42 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/imp/cargo-multi">
-     imp/cargo-multi
-    </a>
-    [
-    <a href="https://crates.io/crates/cargo-multi/">
-     cargo-multi
-    </a>
-    ] — runs specified cargo command on multiple crates
-    <a href="https://travis-ci.org/imp/cargo-multi">
-     <img src="https://travis-ci.org/imp/cargo-multi.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 0, pushed 24 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/DanielKeep/cargo-script">
-     DanielKeep/cargo-script
-    </a>
-    — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
-    <sup>
-     &#9733 67, pushed 11 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/passcod/cargo-watch">
-     passcod/cargo-watch
-    </a>
-    — utility for cargo to compile projects when sources change
-    <a href="https://travis-ci.org/passcod/cargo-watch">
-     <img src="https://travis-ci.org/passcod/cargo-watch.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 109, pushed 94 days ago
-    </sup>
-   </li>
-  </ul>
- </li>
- <li>
-  CMake
-  <ul>
-   <li>
-    <a href="https://github.com/SiegeLord/RustCMake">
-     SiegeLord/RustCMake
-    </a>
-    — an example project showing usage of CMake with Rust
-    <a href="https://travis-ci.org/SiegeLord/RustCMake">
-     <img src="https://travis-ci.org/SiegeLord/RustCMake.svg?branch=master"/>
-    </a>
-   </li>
-  </ul>
-  <sup>
-   &#9733 45, pushed 192 days ago
-  </sup>
- </li>
-</ul>
-<h3>
  Caching
 </h3>
 <ul>
@@ -1464,12 +1875,12 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/jaysonsantos/bmemcached-rs">
    jaysonsantos/bmemcached-rs
   </a>
-  - Memcached library written in pure rust
+  — Memcached library written in pure rust
   <a href="https://travis-ci.org/jaysonsantos/bmemcached-rs">
    <img src="https://travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 3, pushed 7 days ago
+   &#9733 3, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -1486,7 +1897,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/aturon/crossbeam.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 390, pushed 2 days ago
+   &#9733 390, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1498,8 +1909,26 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/nikomatsakis/rayon.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 354, pushed 10 days ago
+   &#9733 354, pushed 135 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rustcc/coroutine-rs">
+   rustcc/coroutine-rs
+  </a>
+  – Coroutine Library in Rust
+  <a href="https://travis-ci.org/rustcc/coroutine-rs">
+   <img src="https://img.shields.io/travis/rustcc/coroutine-rs.svg"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/zonyitoo/coio-rs">
+   zonyitoo/coio-rs
+  </a>
+  – Coroutine I/O for Rust
+  <a href="https://travis-ci.org/zonyitoo/coio-rs">
+   <img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master"/>
+  </a>
  </li>
 </ul>
 <h3>
@@ -1507,7 +1936,11 @@ The goal is to have only projects that are mostly stable and useful to users.
 </h3>
 <ul>
  <li>
-  AWS
+  AWS [
+  <a href="https://crates.io/keywords/aws">
+   aws
+  </a>
+  ]
   <ul>
    <li>
     <a href="https://github.com/rusoto/rusoto">
@@ -1517,6 +1950,9 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://travis-ci.org/rusoto/rusoto">
      <img src="https://travis-ci.org/rusoto/rusoto.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 100, pushed 127 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/thommay/aws-rs">
@@ -1527,13 +1963,10 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/thommay/aws-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 4, pushed 286 days ago
+     &#9733 4, pushed 411 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 100, pushed 2 days ago
-  </sup>
  </li>
  <li>
   DigitalOcean
@@ -1549,7 +1982,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 13, pushed 2 days ago
+   &#9733 13, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1569,7 +2002,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/docopt/docopt.rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 348, pushed 4 days ago
+   &#9733 348, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1581,7 +2014,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/kbknapp/clap-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 456, pushed 1 days ago
+   &#9733 456, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -1593,21 +2026,21 @@ The goal is to have only projects that are mostly stable and useful to users.
   <a href="https://github.com/kkawakam/rustyline">
    kkawakam/rustyline
   </a>
-  - Readline Implementation in Rust
+  — Readline Implementation in Rust
   <a href="https://travis-ci.org/kkawakam/rustyline">
    <img alt="Build Status" src="https://travis-ci.org/kkawakam/rustyline.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 10, pushed 2 days ago
+   &#9733 10, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/srijs/rust-copperline">
    srijs/rust-copperline
   </a>
-  - Pure-Rust Command Line Editing Library
+  — pure-Rust Command Line Editing Library
   <sup>
-   &#9733 10, pushed 58 days ago
+   &#9733 10, pushed 183 days ago
   </sup>
  </li>
 </ul>
@@ -1616,88 +2049,124 @@ The goal is to have only projects that are mostly stable and useful to users.
 </h3>
 <ul>
  <li>
-  <a href="https://github.com/alexcrichton/bzip2-rs">
-   alexcrichton/bzip2-rs
-  </a>
-  —
-  <a href="http://www.bzip.org">
-   libbz2
-  </a>
-  bindings
-  <a href="https://travis-ci.org/alexcrichton/bzip2-rs">
-   <img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master"/>
-  </a>
+  brotli
+  <ul>
+   <li>
+    <a href="https://github.com/ende76/brotli-rs">
+     ende76/brotli-rs
+    </a>
+    — implementation of
+    <a href="http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html">
+     Brotli
+    </a>
+    compression
+   </li>
+   <li>
+    <a href="https://github.com/dropbox/rust-brotli">
+     dropbox/rust-brotli
+    </a>
+    — Brotli decompressor in Rust that optionally avoids the stdlib
+   </li>
+  </ul>
   <sup>
-   &#9733 6, pushed 2 days ago
+   &#9733 29, pushed 141 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/alexcrichton/flate2-rs">
-   alexcrichton/flate2-rs
-  </a>
-  —
-  <a href="https://code.google.com/p/miniz/">
-   miniz
-  </a>
-  bindings
-  <a href="https://travis-ci.org/alexcrichton/flate2-rs">
-   <img src="https://travis-ci.org/alexcrichton/flate2-rs.svg?branch=master"/>
-  </a>
+  bzip2
+  <ul>
+   <li>
+    <a href="https://github.com/alexcrichton/bzip2-rs">
+     alexcrichton/bzip2-rs
+    </a>
+    —
+    <a href="http://www.bzip.org">
+     libbz2
+    </a>
+    bindings
+    <a href="https://travis-ci.org/alexcrichton/bzip2-rs">
+     <img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 46, pushed 1 days ago
+   &#9733 6, pushed 126 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/alexcrichton/tar-rs">
-   alexcrichton/tar-rs
-  </a>
-  — tar archive reading/writing in Rust
-  <a href="https://travis-ci.org/alexcrichton/tar-rs">
-   <img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master"/>
-  </a>
+  miniz
+  <ul>
+   <li>
+    <a href="https://github.com/alexcrichton/flate2-rs">
+     alexcrichton/flate2-rs
+    </a>
+    —
+    <a href="https://code.google.com/p/miniz/">
+     miniz
+    </a>
+    bindings
+    <a href="https://travis-ci.org/alexcrichton/flate2-rs">
+     <img src="https://travis-ci.org/alexcrichton/flate2-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 33, pushed 2 days ago
+   &#9733 46, pushed 125 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ende76/brotli-rs">
-   ende76/brotli-rs
-  </a>
-  — implementation of
-  <a href="http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html">
-   Brotli
-  </a>
-  compression
+  snappy
+  <ul>
+   <li>
+    <a href="https://github.com/JeffBelgum/rust-snappy">
+     JeffBelgum/rust-snappy
+    </a>
+    —
+    <a href="https://github.com/google/snappy">
+     snappy
+    </a>
+    bindings
+    <a href="https://travis-ci.org/JeffBelgum/rust-snappy">
+     <img src="https://travis-ci.org/JeffBelgum/rust-snappy.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 29, pushed 16 days ago
+   &#9733 4, pushed 211 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/JeffBelgum/rust-snappy">
-   JeffBelgum/rust-snappy
-  </a>
-  —
-  <a href="https://github.com/google/snappy">
-   snappy
-  </a>
-  bindings
-  <a href="https://travis-ci.org/JeffBelgum/rust-snappy">
-   <img src="https://travis-ci.org/JeffBelgum/rust-snappy.svg?branch=master"/>
-  </a>
+  tar
+  <ul>
+   <li>
+    <a href="https://github.com/alexcrichton/tar-rs">
+     alexcrichton/tar-rs
+    </a>
+    — tar archive reading/writing in Rust
+    <a href="https://travis-ci.org/alexcrichton/tar-rs">
+     <img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 4, pushed 86 days ago
+   &#9733 33, pushed 127 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/slackito/zip">
-   slackito/zip
-  </a>
-  — read and write ZIP archives
-  <a href="https://travis-ci.org/slackito/zip">
-   <img src="https://travis-ci.org/slackito/zip.svg?branch=master"/>
-  </a>
+  zip
+  <ul>
+   <li>
+    <a href="https://github.com/slackito/zip">
+     slackito/zip
+    </a>
+    — read and write ZIP archives
+    <a href="https://travis-ci.org/slackito/zip">
+     <img src="https://travis-ci.org/slackito/zip.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
   <sup>
-   &#9733 9, pushed 409 days ago
+   &#9733 9, pushed 534 days ago
   </sup>
  </li>
 </ul>
@@ -1706,7 +2175,10 @@ The goal is to have only projects that are mostly stable and useful to users.
 </h3>
 <ul>
  <li>
-  BLAS [
+  <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
+   BLAS
+  </a>
+  [
   <a href="https://crates.io/keywords/blas">
    blas
   </a>
@@ -1716,66 +2188,54 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/mikkyang/rust-blas">
      mikkyang/rust-blas
     </a>
-    —
-    <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
-     BLAS
-    </a>
-    bindings
+    — BLAS bindings
     <sup>
-     &#9733 42, pushed 58 days ago
+     &#9733 42, pushed 183 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/stainless-steel/blas">
      stainless-steel/blas
     </a>
-    —
-    <a href="https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms">
-     BLAS
-    </a>
-    bindings
+    — BLAS bindings
     <a href="https://travis-ci.org/stainless-steel/blas">
      <img src="https://travis-ci.org/stainless-steel/blas.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 10, pushed 1 days ago
+     &#9733 10, pushed 126 days ago
     </sup>
    </li>
   </ul>
  </li>
  <li>
-  GMP
+  <a href="https://gmplib.org/">
+   GMP
+  </a>
   <ul>
    <li>
     <a href="https://github.com/thestinger/rust-gmp">
      thestinger/rust-gmp
     </a>
-    —
-    <a href="https://gmplib.org/">
-     libgmp
-    </a>
-    bindings
+    — libgmp bindings
     <a href="https://travis-ci.org/thestinger/rust-gmp">
      <img src="https://travis-ci.org/thestinger/rust-gmp.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 28, pushed 464 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 28, pushed 339 days ago
-  </sup>
  </li>
  <li>
-  GSL
+  <a href="http://www.gnu.org/software/gsl/">
+   GSL
+  </a>
   <ul>
    <li>
     <a href="https://github.com/GuillaumeGomez">
      GuillaumeGomez/rust-GSL
     </a>
-    —
-    <a href="http://www.gnu.org/software/gsl/">
-     GSL
-    </a>
-    bindings
+    — GSL bindings
     <a href="https://travis-ci.org/GuillaumeGomez/rust-GSL">
      <img src="https://travis-ci.org/GuillaumeGomez/rust-GSL.svg?branch=master"/>
     </a>
@@ -1783,28 +2243,26 @@ The goal is to have only projects that are mostly stable and useful to users.
   </ul>
  </li>
  <li>
-  LAPACK
+  <a href="https://en.wikipedia.org/wiki/LAPACK">
+   LAPACK
+  </a>
   <ul>
    <li>
     <a href="https://github.com/stainless-steel/lapack">
      stainless-steel/lapack
     </a>
-    —
-    <a href="https://en.wikipedia.org/wiki/LAPACK">
-     LAPACK
-    </a>
-    bindings
+    — LAPACK bindings
     <a href="https://travis-ci.org/stainless-steel/lapack">
      <img src="https://travis-ci.org/stainless-steel/lapack.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 10, pushed 127 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 10, pushed 2 days ago
-  </sup>
  </li>
  <li>
-  OpenCL
+  Parallel
   <ul>
    <li>
     <a href="https://github.com/arrayfire/arrayfire-rust">
@@ -1815,6 +2273,15 @@ The goal is to have only projects that are mostly stable and useful to users.
      Arrayfire
     </a>
     bindings
+   </li>
+   <li>
+    <a href="https://github.com/autumnai/collenchyma">
+     autumnai/collenchyma
+    </a>
+    — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
+    <a href="https://travis-ci.org/autumnai/collenchyma">
+     <img src="https://travis-ci.org/autumnai/collenchyma.svg?branch=master"/>
+    </a>
    </li>
    <li>
     <a href="https://github.com/luqmana/rust-opencl">
@@ -1829,12 +2296,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/luqmana/rust-opencl.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 109, pushed 56 days ago
+     &#9733 109, pushed 181 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 73, pushed 5 days ago
+   &#9733 73, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1851,7 +2318,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 57, pushed 227 days ago
+   &#9733 57, pushed 352 days ago
   </sup>
  </li>
 </ul>
@@ -1871,7 +2338,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/briansmith/ring.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 145, pushed 4 days ago
+   &#9733 145, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1883,8 +2350,14 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/briansmith/webpki.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 38, pushed 65 days ago
+   &#9733 38, pushed 190 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ctz/rustls">
+   ctz/rustls
+  </a>
+  — a Rust implementation of TLS
  </li>
  <li>
   <a href="https://github.com/DaGenix/rust-crypto">
@@ -1895,7 +2368,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/DaGenix/rust-crypto.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 385, pushed 2 days ago
+   &#9733 385, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1911,7 +2384,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/dnaq/sodiumoxide.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 147, pushed 10 days ago
+   &#9733 147, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1923,7 +2396,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    TLS 1.2
   </a>
   <sup>
-   &#9733 120, pushed 106 days ago
+   &#9733 120, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -1935,20 +2408,14 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 97, pushed 13 days ago
+   &#9733 97, pushed 138 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/seb-m/common.rs">
-   seb-m/common.rs
+  <a href="https://github.com/sfackler/rust-native-tls">
+   sfackler/rust-native-tls
   </a>
-  — Common Rust crypto utilities
-  <a href="https://travis-ci.org/seb-m/common.rs">
-   <img src="https://travis-ci.org/seb-m/common.rs.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 1, pushed 495 days ago
-  </sup>
+  — Bindings for native TLS libraries
  </li>
  <li>
   <a href="https://github.com/sfackler/rust-openssl">
@@ -1963,8 +2430,20 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/sfackler/rust-openssl.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 169, pushed 2 days ago
+   &#9733 169, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sfackler/rust-security-framework">
+   sfackler/rust-security-framework
+  </a>
+  — Bindings for Security Framework (OSX native crypto)
+ </li>
+ <li>
+  <a href="https://github.com/steffengy/schannel-rs">
+   steffengy/schannel-rs
+  </a>
+  — Bindings for Schannel (Windows native TLS)
  </li>
 </ul>
 <h3>
@@ -1975,18 +2454,6 @@ The goal is to have only projects that are mostly stable and useful to users.
 </p>
 <ul>
  <li>
-  <a href="https://github.com/pingcap/tikv">
-   pingcap/tikv
-  </a>
-  — TiKV is a distributed KV database powered by Rust
-  <a href="https://travis-ci.org/pingcap/tikv">
-   <img src="https://travis-ci.org/pingcap/tikv.svg?branch=master"/>
-  </a>
-  <sup>
-   &#9733 600, pushed 2 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/sfackler/r2d2">
    sfackler/r2d2
   </a>
@@ -1995,7 +2462,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/sfackler/r2d2.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 77, pushed 19 days ago
+   &#9733 77, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2026,7 +2493,7 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
     bindings
     <sup>
-     &#9733 23, pushed 50 days ago
+     &#9733 23, pushed 174 days ago
     </sup>
    </li>
    <li>
@@ -2041,7 +2508,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      couchdb-rs/couchdb
     </a>
     [
-    <a href="https://crates.io/crates/couchdb/">
+    <a href="https://crates.io/crates/couchdb">
      couchdb
     </a>
     ] — a Rust client for the CouchDB REST API
@@ -2049,7 +2516,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/couchdb-rs/couchdb.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 6, pushed 38 days ago
+     &#9733 6, pushed 163 days ago
     </sup>
    </li>
    <li>
@@ -2064,7 +2531,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      benashford/rs-es
     </a>
     [
-    <a href="https://crates.io/crates/rs-es/">
+    <a href="https://crates.io/crates/rs-es">
      rs-es
     </a>
     ] — a Rust client for the
@@ -2076,7 +2543,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/benashford/rs-es.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 68, pushed 22 days ago
+     &#9733 68, pushed 147 days ago
     </sup>
    </li>
    <li>
@@ -2087,7 +2554,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      jimmycuadra/rust-etcd
     </a>
     [
-    <a href="https://crates.io/crates/etcd/">
+    <a href="https://crates.io/crates/etcd">
      etcd
     </a>
     ] — A client library for CoreOS's etcd.
@@ -2095,7 +2562,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 42, pushed 19 days ago
+     &#9733 42, pushed 143 days ago
     </sup>
    </li>
    <li>
@@ -2114,7 +2581,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/vhbit/sherwood.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 0, pushed 313 days ago
+     &#9733 0, pushed 438 days ago
     </sup>
    </li>
    <li>
@@ -2129,7 +2596,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      vhbit/lmdb-rs
     </a>
     [
-    <a href="https://crates.io/crates/lmdb-rs/">
+    <a href="https://crates.io/crates/lmdb-rs">
      lmdb-rs
     </a>
     ] —
@@ -2141,7 +2608,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/vhbit/lmdb-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 45, pushed 61 days ago
+     &#9733 45, pushed 186 days ago
     </sup>
    </li>
    <li>
@@ -2156,7 +2623,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      mongodb-labs/mongo-rust-driver-prototype
     </a>
     [
-    <a href="https://crates.io/crates/mongodb/">
+    <a href="https://crates.io/crates/mongodb">
      mongodb
     </a>
     ] —
@@ -2168,7 +2635,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg"/>
     </a>
     <sup>
-     &#9733 100, pushed 5 days ago
+     &#9733 100, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -2202,8 +2669,38 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/mitsuhiko/redis-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 420, pushed 1 days ago
+     &#9733 420, pushed 125 days ago
     </sup>
+   </li>
+   <li>
+    <a href="http://rocksdb.org/">
+     RocksDB
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/spacejam/rust-rocksdb">
+     spacejam/rust-rocksdb
+    </a>
+    — RocksDB bindings
+    <a href="https://travis-ci.org/spacejam/rust-rocksdb">
+     <img src="https://travis-ci.org/spacejam/rust-rocksdb.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    UnQLite
+   </li>
+   <li>
+    <a href="https://github.com/zitsen/unqlite.rs">
+     zitsen/unqlite.rs
+    </a>
+    —
+    <a href="http://unqlite.org">
+     UnQLite
+    </a>
+    — An Embeddable NoSQL Database Engine library wrapper for Rust
+    <a href="https://travis-ci.org/zitsen/unqlite.rs">
+     <img src="https://travis-ci.org/zitsen/unqlite.rs.svg?branch=master"/>
+    </a>
    </li>
   </ul>
  </li>
@@ -2214,6 +2711,18 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   ]
   <ul>
+   <li>
+    Microsoft SQL
+   </li>
+   <li>
+    <a href="https://github.com/steffengy/tiberius">
+     steffengy/tiberius
+    </a>
+    —
+    <a href="https://travis-ci.org/steffengy/tiberius">
+     <img src="https://travis-ci.org/steffengy/tiberius.svg?branch=master"/>
+    </a>
+   </li>
    <li>
     MySql [
     <a href="https://crates.io/keywords/mysql">
@@ -2234,7 +2743,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 91, pushed 25 days ago
+     &#9733 91, pushed 150 days ago
     </sup>
    </li>
    <li>
@@ -2253,7 +2762,19 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img alt="Build Status" src="https://travis-ci.org/deuterium-orm/deuterium.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 155, pushed 335 days ago
+     &#9733 155, pushed 460 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/diesel-rs/diesel">
+     diesel-rs/diesel
+    </a>
+    — an ORM and Query builder for Rust
+    <a href="https://travis-ci.org/diesel-rs/diesel">
+     <img alt="Build Status" src="https://api.travis-ci.org/diesel-rs/diesel.svg"/>
+    </a>
+    <sup>
+     &#9733 840, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -2265,7 +2786,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img alt="Build Status" src="https://api.travis-ci.org/ivanceras/rustorm.svg"/>
     </a>
     <sup>
-     &#9733 123, pushed 17 days ago
+     &#9733 123, pushed 142 days ago
     </sup>
    </li>
    <li>
@@ -2274,17 +2795,8 @@ The goal is to have only projects that are mostly stable and useful to users.
     </a>
     — an ORM for Rust
     <sup>
-     &#9733 42, pushed 269 days ago
+     &#9733 42, pushed 393 days ago
     </sup>
-   </li>
-   <li>
-    <a href="https://github.com/sgrif/diesel">
-     sgrif/diesel
-    </a>
-    — an ORM and Query builder for Rust
-    <a href="https://travis-ci.org/sgrif/diesel">
-     <img alt="Build Status" src="https://api.travis-ci.org/sgrif/diesel.svg"/>
-    </a>
    </li>
    <li>
     PostgreSql [
@@ -2302,7 +2814,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      sfackler/rust-postgres
     </a>
     [
-    <a href="https://crates.io/crates/postgres/">
+    <a href="https://crates.io/crates/postgres">
      postgres
     </a>
     ] — a native
@@ -2314,7 +2826,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/sfackler/rust-postgres.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 524, pushed 1 days ago
+     &#9733 524, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -2337,7 +2849,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/dckc/rust-sqlite3.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 43, pushed 11 days ago
+     &#9733 43, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -2353,7 +2865,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/jgallagher/rusqlite.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 88, pushed 4 days ago
+     &#9733 88, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -2369,7 +2881,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/linuxfood/rustsqlite.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 78, pushed 394 days ago
+     &#9733 78, pushed 518 days ago
     </sup>
    </li>
   </ul>
@@ -2388,8 +2900,14 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/bluss/rust-itertools.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 138, pushed 2 days ago
+   &#9733 138, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/contain-rs">
+   contain-rs
+  </a>
+  — Extension of Rust's std::collections
  </li>
  <li>
   <a href="https://github.com/fizyk20/generic-array">
@@ -2400,7 +2918,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/fizyk20/generic-array.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 9, pushed 3 days ago
+   &#9733 9, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2412,7 +2930,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/Nemo157/roaring-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 27, pushed 22 days ago
+   &#9733 27, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2424,7 +2942,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/reem/rust-typemap.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 45, pushed 75 days ago
+   &#9733 45, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -2436,7 +2954,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://api.travis-ci.org/serde-rs/serde.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 369, pushed 2 days ago
+   &#9733 369, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -2456,7 +2974,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/lifthrasiir/rust-chrono.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 164, pushed 12 days ago
+   &#9733 164, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2468,7 +2986,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/rust-lang-deprecated/time.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 65, pushed 2 days ago
+   &#9733 65, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2490,7 +3008,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 99, pushed 6 days ago
+   &#9733 99, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2511,7 +3029,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 11, pushed 113 days ago
+   &#9733 11, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -2528,7 +3046,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 14, pushed 208 days ago
+   &#9733 14, pushed 333 days ago
   </sup>
  </li>
 </ul>
@@ -2548,7 +3066,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/gsquire/sendgrid-rs.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 4, pushed 1 days ago
+   &#9733 4, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2560,8 +3078,21 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/lettre/lettre.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 74, pushed 2 days ago
+   &#9733 74, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/staktrace/mailparse">
+   staktrace/mailparse
+  </a>
+  [
+  <a href="https://crates.io/crates/mailparse">
+   mailparse
+  </a>
+  ] — a library for parsing real-world email files
+  <a href="https://travis-ci.org/staktrace/mailparse">
+   <img src="https://travis-ci.org/staktrace/mailparse.svg?branch=master"/>
+  </a>
  </li>
 </ul>
 <h3>
@@ -2585,7 +3116,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 18, pushed 29 days ago
+   &#9733 18, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -2606,7 +3137,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 19, pushed 179 days ago
+   &#9733 19, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -2630,12 +3161,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/TyOverby/bincode.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 110, pushed 12 days ago
+     &#9733 110, pushed 137 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 21, pushed 261 days ago
+   &#9733 21, pushed 385 days ago
   </sup>
  </li>
  <li>
@@ -2652,7 +3183,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 89, pushed 1 days ago
+   &#9733 89, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2669,7 +3200,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 297, pushed 9 days ago
+   &#9733 297, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2686,7 +3217,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 39, pushed 239 days ago
+   &#9733 39, pushed 364 days ago
   </sup>
  </li>
  <li>
@@ -2703,7 +3234,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 97, pushed 71 days ago
+   &#9733 97, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -2720,7 +3251,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 10, pushed 259 days ago
+   &#9733 10, pushed 383 days ago
   </sup>
  </li>
  <li>
@@ -2737,7 +3268,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 169, pushed 12 days ago
+   &#9733 169, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2754,7 +3285,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 296, pushed 7 days ago
+   &#9733 296, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2765,7 +3296,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      serde-rs/json
     </a>
     [
-    <a href="https://crates.io/crates/serde_json/">
+    <a href="https://crates.io/crates/serde_json">
      serde_json
     </a>
     ] — JSON support for
@@ -2777,9 +3308,22 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/serde-rs/json.svg?branch=master"/>
     </a>
    </li>
+   <li>
+    <a href="https://github.com/maciejhirsz/json-rust">
+     maciejhirsz/json-rust
+    </a>
+    [
+    <a href="https://crates.io/crates/json">
+     json
+    </a>
+    ] — JSON implementation in Rust
+    <a href="https://travis-ci.org/maciejhirsz/json-rust">
+     <img src="https://travis-ci.org/maciejhirsz/json-rust.svg?branch=master"/>
+    </a>
+   </li>
   </ul>
   <sup>
-   &#9733 48, pushed 2 days ago
+   &#9733 48, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2796,7 +3340,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 16, pushed 237 days ago
+   &#9733 16, pushed 362 days ago
   </sup>
  </li>
  <li>
@@ -2820,12 +3364,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/3Hren/msgpack-rust.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 72, pushed 31 days ago
+     &#9733 72, pushed 156 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 96, pushed 18 days ago
+   &#9733 96, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2842,7 +3386,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 243, pushed 15 days ago
+   &#9733 243, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2859,7 +3403,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 63, pushed 361 days ago
+   &#9733 63, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -2876,7 +3420,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 13, pushed 539 days ago
+   &#9733 13, pushed 664 days ago
   </sup>
  </li>
  <li>
@@ -2893,7 +3437,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 157, pushed 2 days ago
+   &#9733 157, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2917,7 +3461,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/shepmaster/sxd-document.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 49, pushed 2 days ago
+     &#9733 49, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -2929,7 +3473,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/shepmaster/sxd-xpath.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 19, pushed 2 days ago
+     &#9733 19, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -2941,12 +3485,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/netvl/xml-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 98, pushed 4 days ago
+     &#9733 98, pushed 129 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 53, pushed 62 days ago
+   &#9733 53, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -2966,7 +3510,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      dtolnay/serde-yaml
     </a>
     [
-    <a href="https://crates.io/crates/serde_yaml/">
+    <a href="https://crates.io/crates/serde_yaml">
      serde_yaml
     </a>
     ] — YAML support for
@@ -2978,7 +3522,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/dtolnay/serde-yaml.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 6, pushed 13 days ago
+     &#9733 6, pushed 137 days ago
     </sup>
    </li>
    <li>
@@ -2994,13 +3538,44 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/kimhyunkang/libyaml-rust.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 14, pushed 188 days ago
+     &#9733 14, pushed 313 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 80, pushed 20 days ago
+   &#9733 80, pushed 144 days ago
   </sup>
+ </li>
+</ul>
+<h3>
+ Filesystem
+</h3>
+<p>
+ [[filesystem](https://crates.io/keywords/filesystem)]
+</p>
+<ul>
+ <li>
+  Temporary Files
+  <ul>
+   <li>
+    <a href="https://github.com/rust-lang-nursery/tempdir">
+     rust-lang-nursery/tempdir
+    </a>
+    — temporary directory library
+    <a href="https://travis-ci.org/rust-lang-nursery/tempdir">
+     <img src="https://travis-ci.org/rust-lang-nursery/tempdir.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/Stebalien/tempfile">
+     Stebalien/tempfile
+    </a>
+    — temporary file library
+    <a href="https://travis-ci.org/Stebalien/tempfile">
+     <img src="https://travis-ci.org/Stebalien/tempfile.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -3025,7 +3600,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 27, pushed 1 days ago
+   &#9733 27, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3042,8 +3617,21 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 4, pushed 22 days ago
+   &#9733 4, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vityafx/challonge-rs">
+   vityafx/challonge-rs
+  </a>
+  [
+  <a href="https://crates.io/crates/challonge">
+   challonge
+  </a>
+  ] — Client library for the Challonge REST API. Helps to organize tournaments.
+  <a href="https://travis-ci.org/vityafx/challonge-rs">
+   <img src="https://travis-ci.org/vityafx/challonge-rs.svg?branch=master"/>
+  </a>
  </li>
  <li>
   Corange
@@ -3060,8 +3648,22 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 18, pushed 135 days ago
+   &#9733 18, pushed 260 days ago
   </sup>
+ </li>
+ <li>
+  Entity-Component Systems (ECS)
+  <ul>
+   <li>
+    <a href="https://github.com/slide-rs/specs">
+     slide-rs/specs
+    </a>
+    — Specs Parallel ECS
+    <a href="httpsL//github.com/travis-ci.org/slide-rs/specs">
+     <img src="https://travis-ci.org/slide-rs/specs.svg"/>
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   Piston
@@ -3097,7 +3699,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/AngryLawyer/rust-sdl2.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 350, pushed 1 days ago
+     &#9733 350, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -3113,7 +3715,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/brson/rust-sdl.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 159, pushed 335 days ago
+     &#9733 159, pushed 460 days ago
     </sup>
    </li>
   </ul>
@@ -3136,7 +3738,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 192, pushed 3 days ago
+   &#9733 192, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3154,7 +3756,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 9, pushed 556 days ago
+   &#9733 9, pushed 681 days ago
   </sup>
  </li>
 </ul>
@@ -3170,6 +3772,122 @@ The goal is to have only projects that are mostly stable and useful to users.
    Georust
   </a>
   — geospatial tools and libraries written in Rust
+ </li>
+</ul>
+<h3>
+ Graphics
+</h3>
+<p>
+ [[graphics](https://crates.io.keywords/graphics)]
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/gfx-rs/gfx">
+   gfx-rs/gfx
+  </a>
+  — A high-performance, bindless graphics API for Rust.
+  <a href="https://travis-ci.org/gfx-rs/gfx">
+   <img src="https://img.shields.io/travis/gfx-rs/gfx/master.svg"/>
+  </a>
+ </li>
+ <li>
+  Font
+  <ul>
+   <li>
+    <a href="https://github.com/dylanede/rusttype">
+     dylanede/rusttype
+    </a>
+    — a pure Rust alternative to libraries like FreeType
+    <a href="https://travis-ci.org/dylanede/rusttype">
+     <img src="https://img.shields.io/travis/dylanede/rusttype/master.svg"/>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  OpenGL [
+  <a href="https://crates.io/keywords/opengl">
+   opengl
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/brendanzab/gl-rs">
+     brendanzab/gl-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/brendanzab/gl-rs">
+     <img src="https://travis-ci.org/brendanzab/gl-rs.svg?branch=master"/>
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/PistonDevelopers/glfw-rs">
+     PistonDevelopers/glfw-rs
+    </a>
+    —
+    <a href="https://travis-ci.org/PistonDevelopers/glfw-rs">
+     <img src="https://travis-ci.org/PistonDevelopers/glfw-rs.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 213, pushed 141 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/tomaka/glium">
+     tomaka/glium
+    </a>
+    — safe OpenGL wrapper for the Rust language.
+    <a href="https://travis-ci.org/tomaka/glium">
+     <img src="https://travis-ci.org/tomaka/glium.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 780, pushed 137 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/tomaka/glutin">
+     tomaka/glutin
+    </a>
+    — Rust alternative to
+    <a href="http://www.glfw.org/">
+     GLFW
+    </a>
+    <a href="https://travis-ci.org/tomaka/glutin">
+     <img src="https://travis-ci.org/tomaka/glutin.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 428, pushed 125 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://www.khronos.org/vulkan/">
+   Vulkan
+  </a>
+  [
+  <a href="https://crates.io/keywords/vulkan">
+   vulkan
+  </a>
+  ]
+  <ul>
+   <li>
+    <a href="https://github.com/tomaka/vulkano">
+     tomaka/vulkano
+    </a>
+    [
+    <a href="https://crates.io/crates/vulkano">
+     vulkano
+    </a>
+    ] —
+    <a href="https://travis-ci.org/tomaka/vulkano">
+     <img src="https://travis-ci.org/tomaka/vulkano.svg?branch=master"/>
+    </a>
+    <sup>
+     &#9733 291, pushed 127 days ago
+    </sup>
+   </li>
+  </ul>
  </li>
 </ul>
 <h3>
@@ -3189,45 +3907,34 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
  </li>
  <li>
-  <a href="https://github.com/pravic/rust-sciter">
-   pravic/rust-sciter
-  </a>
-  — Rust bindings for the Sciter, embeddable HTML/CSS/script engine (cross-platform desktop GUI toolkit).
-  <a href="https://ci.appveyor.com/project/pravic/rust-sciter">
-   <img src="https://ci.appveyor.com/api/projects/status/github/pravic/rust-sciter?svg=true"/>
-  </a>
-  <sup>
-   &#9733 16, pushed 15 days ago
-  </sup>
- </li>
- <li>
   Cocoa
   <ul>
    <li>
     <a href="https://github.com/servo/cocoa-rs">
-     servo/rust-cocoa
+     servo/cocoa-rs
     </a>
    </li>
   </ul>
   <sup>
-   &#9733 182, pushed 5 days ago
+   &#9733 182, pushed 129 days ago
   </sup>
  </li>
  <li>
-  IUP
+  <a href="http://webserver2.tecgraf.puc-rio.br/iup/">
+   IUP
+  </a>
   <ul>
    <li>
     <a href="https://github.com/dcampbell24/iup-rust">
      dcampbell24/iup-rust
     </a>
-    —
-    <a href="http://webserver2.tecgraf.puc-rio.br/iup/">
-     IUP
-    </a>
-    bindings
+    — IUP bindings
     <a href="https://travis-ci.org/dcampbell24/iup-rust">
      <img src="https://travis-ci.org/dcampbell24/iup-rust.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 16, pushed 311 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/KISS-UI/kiss-ui">
@@ -3238,16 +3945,16 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img alt="Build Status" src="https://travis-ci.org/cybergeek94/kiss-ui.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 247, pushed 150 days ago
+     &#9733 247, pushed 275 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 16, pushed 186 days ago
-  </sup>
  </li>
  <li>
-  GTK+ [
+  <a href="http://www.gtk.org">
+   GTK+
+  </a>
+  [
   <a href="https://crates.io/keywords/gtk">
    gtk
   </a>
@@ -3257,22 +3964,37 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/gtk-rs/gtk">
      gtk-rs/gtk
     </a>
-    —
-    <a href="http://www.gtk.org">
-     GTK+
-    </a>
-    bindings
+    — GTK+ bindings
     <a href="https://travis-ci.org/gtk-rs/gtk">
      <img src="https://travis-ci.org/gtk-rs/gtk.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 272, pushed 2 days ago
+     &#9733 272, pushed 127 days ago
     </sup>
    </li>
   </ul>
  </li>
  <li>
-  ncurses [
+  <a href="https://github.com/andlabs/libui">
+   libui
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/pcwalton/libui-rs">
+     pcwalton/libui-rs
+    </a>
+    — libui bindings
+    <a href="https://travis-ci.org/pcwalton/libui-rs">
+     <img src="https://travis-ci.org/pcwalton/libui-rs.svg?branch=master"/>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="http://www.gnu.org/software/ncurses/">
+   ncurses
+  </a>
+  [
   <a href="https://crates.io/keywords/ncurses">
    ncurses
   </a>
@@ -3282,119 +4004,80 @@ The goal is to have only projects that are mostly stable and useful to users.
     <a href="https://github.com/jeaye/ncurses-rs">
      jeaye/ncurses-rs
     </a>
-    —
-    <a href="http://www.gnu.org/software/ncurses/">
-     ncurses
-    </a>
-    bindings
+    — ncurses bindings
     <a href="https://travis-ci.org/jeaye/ncurses-rs">
      <img src="https://travis-ci.org/jeaye/ncurses-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 163, pushed 12 days ago
+     &#9733 163, pushed 137 days ago
     </sup>
    </li>
   </ul>
  </li>
  <li>
-  OpenGL [
-  <a href="https://crates.io/keywords/opengl">
-   opengl
+  <a href="https://github.com/saurvs/nfd-rs">
+   saurvs/nfd-rs
   </a>
-  ]
-  <ul>
-   <li>
-    <a href="https://github.com/bjz/gl-rs">
-     bjz/gl-rs
-    </a>
-    —
-    <a href="https://travis-ci.org/bjz/gl-rs">
-     <img src="https://travis-ci.org/bjz/gl-rs.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 215, pushed 40 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/PistonDevelopers/glfw-rs">
-     bjz/glfw-rs
-    </a>
-    —
-    <a href="https://travis-ci.org/bjz/glfw-rs">
-     <img src="https://travis-ci.org/bjz/glfw-rs.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 213, pushed 16 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/tomaka/glium">
-     tomaka/glium
-    </a>
-    — safe OpenGL wrapper for the Rust language.
-    <a href="https://travis-ci.org/tomaka/glium">
-     <img src="https://travis-ci.org/tomaka/glium.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 780, pushed 12 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/tomaka/glutin">
-     tomaka/glutin
-    </a>
-    — Rust alternative to
-    <a href="http://www.glfw.org/">
-     GLFW
-    </a>
-    <a href="https://travis-ci.org/tomaka/glutin">
-     <img src="https://travis-ci.org/tomaka/glutin.svg?branch=master"/>
-    </a>
-    <sup>
-     &#9733 428, pushed 1 days ago
-    </sup>
-   </li>
-  </ul>
+  — Open native UI file dialogs in Linux, OS X and Windows
  </li>
  <li>
-  Qt
+  <a href="http://doc.qt.io">
+   Qt
+  </a>
   <ul>
    <li>
     <a href="https://github.com/cyndis/qmlrs">
      cyndis/qmlrs
     </a>
-    —
-    <a href="http://doc.qt.io">
-     QtQuick
-    </a>
-    bindings
+    — QtQuick bindings
     <a href="https://travis-ci.org/cyndis/qmlrs">
      <img src="https://travis-ci.org/cyndis/qmlrs.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 233, pushed 154 days ago
+    </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 233, pushed 29 days ago
-  </sup>
  </li>
  <li>
-  Termbox
+  <a href="http://sciter.com/">
+   Sciter
+  </a>
+  <ul>
+   <li>
+    <a href="https://github.com/pravic/rust-sciter">
+     pravic/rust-sciter
+    </a>
+    — Sciter bindings
+    <a href="https://ci.appveyor.com/project/pravic/rust-sciter">
+     <img src="https://ci.appveyor.com/api/projects/status/github/pravic/rust-sciter?svg=true"/>
+    </a>
+    <sup>
+     &#9733 16, pushed 140 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://github.com/nsf/termbox">
+   Termbox
+  </a>
   <ul>
    <li>
     <a href="https://github.com/gchp/rustbox">
      gchp/rustbox
     </a>
-    — a Rust implementation of
-    <a href="https://github.com/nsf/termbox">
-     termbox
-    </a>
+    — a Rust implementation of Termbox
     <a href="https://travis-ci.org/gchp/rustbox">
      <img src="https://travis-ci.org/gchp/rustbox.svg?branch=master"/>
     </a>
+    <sup>
+     &#9733 180, pushed 135 days ago
+    </sup>
    </li>
   </ul>
   <sup>
-   &#9733 180, pushed 10 days ago
+   &#9733 816, pushed 174 days ago
   </sup>
  </li>
 </ul>
@@ -3411,7 +4094,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://travis-ci.org/chyh1990/imageproc.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 33, pushed 103 days ago
+   &#9733 33, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -3420,7 +4103,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — Perceptual image hashing and comparison for equality and similarity.
   <sup>
-   &#9733 31, pushed 190 days ago
+   &#9733 31, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -3432,14 +4115,36 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/PistonDevelopers/image.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 296, pushed 12 days ago
+   &#9733 296, pushed 137 days ago
   </sup>
  </li>
 </ul>
 <h3>
  Machine learning
 </h3>
+<p>
+ [[machine learning](https://crates.io/keywords/machine-learning)]
+</p>
+<p>
+ See also
+ <a href="https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f">
+  About Rust’s Machine Learning Community
+ </a>
+ .
+</p>
 <ul>
+ <li>
+  <a href="https://github.com/AtheMathmo/rusty-machine">
+   AtheMathmo/rusty-machine
+  </a>
+  — Machine learning library for Rust
+  <a href="https://travis-ci.org/AtheMathmo/rusty-machine">
+   <img alt="Build Status" src="https://travis-ci.org/AtheMathmo/rusty-machine.svg?branch=master"/>
+  </a>
+  <sup>
+   &#9733 129, pushed 129 days ago
+  </sup>
+ </li>
  <li>
   <a href="https://github.com/autumnai/leaf">
    autumnai/leaf
@@ -3449,7 +4154,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://travis-ci.org/autumnai/leaf.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 4007, pushed 3 days ago
+   &#9733 4007, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3461,7 +4166,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Circle CI" src="https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg"/>
   </a>
   <sup>
-   &#9733 142, pushed 63 days ago
+   &#9733 142, pushed 188 days ago
   </sup>
  </li>
 </ul>
@@ -3484,13 +4189,22 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 199, pushed 21 days ago
+   &#9733 199, pushed 146 days ago
   </sup>
  </li>
 </ul>
 <h3>
  Mobile
 </h3>
+<p>
+ <a href="https://github.com/Geal/rust_on_mobile">
+  Geal/rust
+  <em>
+   on
+  </em>
+  mobile
+ </a>
+</p>
 <ul>
  <li>
   Android
@@ -3506,7 +4220,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 238, pushed 7 days ago
+   &#9733 238, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3530,12 +4244,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/vhbit/ObjCrust.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 35, pushed 304 days ago
+     &#9733 35, pushed 429 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 35 days ago
+   &#9733 7, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -3549,7 +4263,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 27, pushed 167 days ago
+   &#9733 27, pushed 292 days ago
   </sup>
  </li>
 </ul>
@@ -3575,7 +4289,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 11, pushed 20 days ago
+   &#9733 11, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3590,9 +4304,15 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/libpnet/libpnet.svg?branch=master"/>
     </a>
    </li>
+   <li>
+    <a href="https://github.com/tokio-rs/tokio">
+     tokio-rs/tokio
+    </a>
+    — a network application framework for rapid development and highly scalable production deployments of clients and servers.
+   </li>
   </ul>
   <sup>
-   &#9733 283, pushed 2 days ago
+   &#9733 283, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3613,7 +4333,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 157, pushed 56 days ago
+   &#9733 157, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -3634,7 +4354,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 3, pushed 113 days ago
+   &#9733 3, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -3655,7 +4375,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 3, pushed 2 days ago
+   &#9733 3, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3676,7 +4396,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 47, pushed 2 days ago
+   &#9733 47, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3697,7 +4417,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 35, pushed 70 days ago
+   &#9733 35, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -3718,7 +4438,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 30, pushed 117 days ago
+   &#9733 30, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -3739,7 +4459,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 170, pushed 10 days ago
+   &#9733 170, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -3747,6 +4467,15 @@ The goal is to have only projects that are mostly stable and useful to users.
  Parser
 </h3>
 <ul>
+ <li>
+  <a href="https://github.com/dragostis/pest">
+   dragostis/pest
+  </a>
+  — Elegant, efficient grammars [
+  <img alt="Build Status" src="https://travis-ci.org/dragostis/pest.svg?branch=master"/>
+  ]
+(https://travis-ci.org/dragostis/pest)
+ </li>
  <li>
   <a href="https://github.com/Geal/nom">
    Geal/nom
@@ -3756,7 +4485,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/Geal/nom.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 768, pushed 20 days ago
+   &#9733 768, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3768,7 +4497,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://travis-ci.org/ivanceras/inquerest.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 14, pushed 24 days ago
+   &#9733 14, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -3777,7 +4506,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — Parsing Expression Grammar (PEG) parser generator
   <sup>
-   &#9733 261, pushed 7 days ago
+   &#9733 261, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3789,7 +4518,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/m4rw3r/chomp.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 98, pushed 33 days ago
+   &#9733 98, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -3801,19 +4530,19 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/Marwes/combine.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 139, pushed 16 days ago
+   &#9733 139, pushed 141 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/nikomatsakis/lalrpop">
    nikomatsakis/lalrpop
   </a>
-  - LR(1) parser generator for Rust
+  — LR(1) parser generator for Rust
   <a href="https://travis-ci.org/nikomatsakis/lalrpop">
    <img alt="Build status" src="https://travis-ci.org/nikomatsakis/lalrpop.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 224, pushed 13 days ago
+   &#9733 224, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3822,7 +4551,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — a typed PEG parser generator (compiler plugin)
   <sup>
-   &#9733 76, pushed 16 days ago
+   &#9733 76, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3834,7 +4563,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img alt="Build Status" src="https://travis-ci.org/rustless/queryst.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 18, pushed 2 days ago
+   &#9733 18, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -3860,19 +4589,19 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 37, pushed 89 days ago
+   &#9733 37, pushed 214 days ago
   </sup>
  </li>
  <li>
   Unix-like
   <ul>
    <li>
-    <a href="https://github.com/carllerche/nix-rust">
-     carllerche/nix-rust
+    <a href="https://github.com/nix-rust/nix">
+     nix-rust/nix
     </a>
     — Unix-like API bindings
-    <a href="https://travis-ci.org/carllerche/nix-rust">
-     <img src="https://travis-ci.org/carllerche/nix-rust.svg?branch=master"/>
+    <a href="https://travis-ci.org/nix-rust/nix">
+     <img src="https://travis-ci.org/nix-rust/nix.svg?branch=master"/>
     </a>
    </li>
    <li>
@@ -3886,10 +4615,13 @@ The goal is to have only projects that are mostly stable and useful to users.
     bindings
     <img src="https://travis-ci.org/zargony/rust-fuse.svg?branch=master"/>
     <sup>
-     &#9733 128, pushed 35 days ago
+     &#9733 128, pushed 160 days ago
     </sup>
    </li>
   </ul>
+  <sup>
+   &#9733 299, pushed 126 days ago
+  </sup>
  </li>
  <li>
   Windows
@@ -3905,7 +4637,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 158, pushed 4 days ago
+   &#9733 158, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -3927,7 +4659,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 104, pushed 9 days ago
+   &#9733 104, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3951,12 +4683,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 35, pushed 37 days ago
+     &#9733 35, pushed 162 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 106, pushed 7 days ago
+   &#9733 106, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3973,7 +4705,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 129, pushed 205 days ago
+   &#9733 129, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -3982,7 +4714,7 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
   — Compiler for Jade-like template language to cito.js-based virtual dom
   <sup>
-   &#9733 3, pushed 239 days ago
+   &#9733 3, pushed 363 days ago
   </sup>
  </li>
 </ul>
@@ -3999,7 +4731,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/BurntSushi/suffix.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 32, pushed 247 days ago
+   &#9733 32, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -4011,7 +4743,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/BurntSushi/tabwriter.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 28, pushed 108 days ago
+   &#9733 28, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -4027,7 +4759,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/pwoolcoc/ngrams.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 2, pushed 67 days ago
+   &#9733 2, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -4039,7 +4771,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    <img src="https://travis-ci.org/rust-lang-nursery/regex.svg?branch=master"/>
   </a>
   <sup>
-   &#9733 178, pushed 2 days ago
+   &#9733 178, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -4048,12 +4780,27 @@ The goal is to have only projects that are mostly stable and useful to users.
 </h3>
 <ul>
  <li>
+  <a href="https://github.com/beneills/quantum">
+   beneills/quantum
+  </a>
+  — Advanced Rust quantum computer simulator
+  <a href="https://travis-ci.org/beneills/quantum">
+   <img src="https://travis-ci.org/beneills/quantum.svg?branch=master"/>
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/ekse/unicorn-rs">
+   ekse/unicorn-rs
+  </a>
+  — Rust bindings for the unicorn CPU emulator
+ </li>
+ <li>
   <a href="https://github.com/saurvs/hypervisor-rs">
    saurvs/hypervisor-rs
   </a>
   — Hardware-accelerated virtualization on OS X
   <sup>
-   &#9733 1, pushed 30 days ago
+   &#9733 1, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -4072,16 +4819,16 @@ The goal is to have only projects that are mostly stable and useful to users.
   HTTP Client
   <ul>
    <li>
-    <a href="https://github.com/carllerche/curl-rust">
-     carllerche/curl-rust
+    <a href="https://github.com/alexcrichton/curl-rust">
+     alexcrichton/curl-rust
     </a>
     —
     <a href="http://curl.haxx.se/libcurl/">
      libcurl
     </a>
     bindings
-    <a href="https://travis-ci.org/carllerche/curl-rust">
-     <img src="https://travis-ci.org/carllerche/curl-rust.svg?branch=master"/>
+    <a href="https://travis-ci.org/alexcrichton/curl-rust">
+     <img src="https://travis-ci.org/alexcrichton/curl-rust.svg?branch=master"/>
     </a>
    </li>
    <li>
@@ -4093,7 +4840,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/hyperium/hyper.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 1626, pushed 4 days ago
+     &#9733 1626, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -4109,13 +4856,10 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/vhbit/curl-rs.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 1, pushed 613 days ago
+     &#9733 1, pushed 738 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 192, pushed 4 days ago
-  </sup>
  </li>
  <li>
   HTTP Server
@@ -4147,7 +4891,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/iron/iron.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 2838, pushed 7 days ago
+     &#9733 2838, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -4163,7 +4907,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/sunng87/handlebars-iron.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 68, pushed 1 days ago
+     &#9733 68, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -4187,7 +4931,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/Ogeon/rustful.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 737, pushed 20 days ago
+     &#9733 737, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -4206,7 +4950,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/rustless/rustless.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 247, pushed 12 days ago
+     &#9733 247, pushed 137 days ago
     </sup>
    </li>
    <li>
@@ -4218,12 +4962,12 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/frewsxcv/tiny-http.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 172, pushed 153 days ago
+     &#9733 172, pushed 278 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 587, pushed 28 days ago
+   &#9733 587, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -4240,8 +4984,21 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/cyderize/rust-websocket.svg?branch=master"/>
     </a>
     <sup>
-     &#9733 191, pushed 11 days ago
+     &#9733 191, pushed 136 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/vityafx/urlshortener-rs">
+     vityafx/urlshortener-rs
+    </a>
+    [
+    <a href="https://crates.io/crates/urlshortener">
+     urlshortener
+    </a>
+    ] — A very simple urlshortener library for Rust.
+    <a href="https://travis-ci.org/vityafx/urlshortener-rs">
+     <img src="https://travis-ci.org/vityafx/urlshortener-rs.svg?branch=master"/>
+    </a>
    </li>
    <li>
     <a href="https://github.com/housleyjk/ws-rs">
@@ -4252,7 +5009,7 @@ The goal is to have only projects that are mostly stable and useful to users.
      <img src="https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable"/>
     </a>
     <sup>
-     &#9733 127, pushed 5 days ago
+     &#9733 127, pushed 129 days ago
     </sup>
    </li>
   </ul>
@@ -4279,8 +5036,42 @@ The goal is to have only projects that are mostly stable and useful to users.
    </li>
   </ul>
   <sup>
-   &#9733 14, pushed 6 days ago
+   &#9733 14, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  Learning
+  <ul>
+   <li>
+    <a href="http://exercism.io/languages/rust">
+     exercism.io
+    </a>
+    — programming exercises that help you learn new concepts in Rust.
+   </li>
+   <li>
+    <a href="http://rustbyexample.com/">
+     Rust by Example
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/ctjhoa/rust-learning">
+     rust-learning
+    </a>
+    — a collection of useful resources to learn Rust
+    <sup>
+     &#9733 611, pushed 140 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/carols10cents/rustlings">
+     Rustlings
+    </a>
+    — small exercises to get you used to reading and writing Rust code
+    <sup>
+     &#9733 1151, pushed 139 days ago
+    </sup>
+   </li>
+  </ul>
  </li>
  <li>
   Podcasts
@@ -4300,11 +5091,6 @@ The goal is to have only projects that are mostly stable and useful to users.
   </ul>
  </li>
  <li>
-  <a href="http://rustbyexample.com/">
-   Rust by Example
-  </a>
- </li>
- <li>
   <a href="http://confreaks.tv/events/rustcamp2015">
    RustCamp 2015 Talks
   </a>
@@ -4314,7 +5100,7 @@ The goal is to have only projects that are mostly stable and useful to users.
    Rust Design Patterns
   </a>
   <sup>
-   &#9733 386, pushed 119 days ago
+   &#9733 386, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -4323,22 +5109,10 @@ The goal is to have only projects that are mostly stable and useful to users.
   </a>
  </li>
  <li>
-  <a href="https://github.com/ctjhoa/rust-learning">
-   rust-learning
+  <a href="https://github.com/sger/RustBooks">
+   RustBooks
   </a>
-  — a collection of useful resources to learn Rust
-  <sup>
-   &#9733 611, pushed 15 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/carols10cents/rustlings">
-   Rustlings
-  </a>
-  — small exercises to get you used to reading and writing Rust code
-  <sup>
-   &#9733 1151, pushed 14 days ago
-  </sup>
+  — list of RustBooks
  </li>
 </ul>
 <h2>

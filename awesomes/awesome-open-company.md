@@ -162,174 +162,311 @@ inspired by the many
  <em>
   (in alphabetical order, with optional announcement blog posts)
  </em>
- -
+</p>
+<p>
+ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Channel | Open Finance
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
  <img alt="Aleph Objects" src="http://www.google.com/s2/favicons?domain=alephobjects.com"/>
  <a href="https://www.alephobjects.com/">
   <strong>
    Aleph Objects
   </strong>
  </a>
- -
+ |
+ <a href="https://www.alephobjects.com/">
+  link
+ </a>
+ | N/A |  |  |  |
  <img alt="Arduino LLC" src="http://www.google.com/s2/favicons?domain=arduino.cc"/>
- <a href="http://www.arduino.cc/en/Guide/Introduction">
+ <a href="http://www.arduino.cc">
   <strong>
    Arduino LLC
   </strong>
  </a>
- -
+ |
+ <a href="http://www.arduino.cc/en/Guide/Introduction">
+  Arduino - Introduction
+ </a>
+ | :octocat:
+ <a href="https://github.com/arduino/Arduino/">
+  Arduino
+ </a>
+ |  |  |  |
  <img alt="Atlassian" src="http://www.google.com/s2/favicons?domain=atlassian.com"/>
- <a href="https://www.atlassian.com/company/about/values">
+ <a href="https://www.atlassian.com/">
   <strong>
    Atlassian
   </strong>
  </a>
- -
+ |
+ <a href="https://www.atlassian.com/company/about/values">
+  Company values \| Atlassian
+ </a>
+ | N/A |  |  |  |
  <img alt="Balsamiq" src="http://www.google.com/s2/favicons?domain=balsamiq.com"/>
- <a href="https://balsamiq.com/company/#goodcitizen">
+ <a href="https://balsamiq.com/">
   <strong>
    Balsamiq
   </strong>
  </a>
- -
+ |
+ <a href="https://balsamiq.com/company/#goodcitizen">
+  Company \| Balsamiq
+ </a>
+ | N/A |  |  |  |
  <img alt="Bevry" src="http://www.google.com/s2/favicons?domain=bevry.me"/>
  <a href="https://bevry.me">
   <strong>
    Bevry
   </strong>
  </a>
- -
+ |
+ <a href="https://bevry.me">
+  Bevry
+ </a>
+ |
+ <a href="https://github.com/docpad/docpad">
+  DocPad
+ </a>
+ |  |  |  |
  <img alt="Buffer" src="http://www.google.com/s2/favicons?domain=buffer.com"/>
- <a href="https://buffer.com/transparency">
+ <a href="https://buffer.com/">
   <strong>
    Buffer
   </strong>
  </a>
+ |
+ <a href="https://buffer.com/transparency">
+  Buffer's transparency dashboard: Public salaries, equity and more
+ </a>
+ | :octocat:
+ <a href="https://github.com/bufferapp/">
+  Misc
+ </a>
+ |  |
  <em>
-  ("
   <a href="http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/">
    Why we have a core value of transparency at our startup
   </a>
-  ")
  </em>
- -
+ |  |
+ <a href="https://open.buffer.com/buffer-public-revenue-dashboard/">
+  Revenue
+ </a>
  <img alt="CodeCombat" src="http://www.google.com/s2/favicons?domain=codecombat.com/"/>
- <a href="http://codecombat.com/legal">
+ <a href="http://codecombat.com/">
   <strong>
    CodeCombat
   </strong>
  </a>
+ |
+ <a href="http://codecombat.com/legal">
+  CodeCombat - Learn how to code by playing a game
+ </a>
+ | :octocat:
+ <a href="https://github.com/codecombat/codecombat">
+  CodeCombat
+ </a>
+ |  |
  <em>
-  ("
   <a href="http://blog.codecombat.com/why-you-should-open-source-your-startup">
    Why you should open-source your startup
   </a>
-  ")
  </em>
- -
+ |  |
  <img alt="Couchbase" src="http://www.google.com/s2/favicons?domain=couchbase.com"/>
- <a href="http://www.couchbase.com/open-source">
+ <a href="http://www.couchbase.com/">
   <strong>
    Couchbase
   </strong>
  </a>
- -
+ |
+ <a href="http://www.couchbase.com/open-source">
+  Open Source Projects
+ </a>
+ | :octocat:
+ <a href="https://github.com/couchbase">
+  All Products
+ </a>
+ |  |  |  |
  <img alt="Dangerous Prototypes" src="http://www.google.com/s2/favicons?domain=dangerousprototypes.com"/>
- <a href="http://dangerousprototypes.com/docs/About">
+ <a href="http://dangerousprototypes.com/">
   <strong>
    Dangerous Prototypes
   </strong>
  </a>
- -
+ |
+ <a href="http://dangerousprototypes.com/docs/About">
+  About - DP
+ </a>
+ |
+ <a href="https://code.google.com/archive/p/dangerous-prototypes-open-hardware/">
+  Projects
+ </a>
+ |  |  |  |
  <img alt="Dreamwidth" src="http://www.google.com/s2/favicons?domain=dreamwidth.org"/>
- <a href="http://www.dreamwidth.org/about">
+ <a href="http://www.dreamwidth.org/">
   <strong>
    Dreamwidth
   </strong>
  </a>
- -
+ |
+ <a href="http://www.dreamwidth.org/about">
+  About Dreamwidth Studios
+ </a>
+ | :octocat:
+ <a href="https://github.com/dreamwidth/">
+  Dreamwidth
+ </a>
+ |  |  |  |
  <img alt="Gitlab" src="http://www.google.com/s2/favicons?domain=gitlab.com"/>
- <a href="https://about.gitlab.com/about/">
+ <a href="https://about.gitlab.com/">
   <strong>
    GitLab
   </strong>
  </a>
- -
+ |
+ <a href="https://about.gitlab.com/about/">
+  About Us \| GitLab
+ </a>
+ |
+ <a href="https://gitlab.com/groups/gitlab-org">
+  GitLab
+ </a>
+ |  |  |  |
  <img alt="Gratipay" src="http://www.google.com/s2/favicons?domain=gratipay.com"/>
- <a href="http://inside.gratipay.com/big-picture/welcome">
+ <a href="https://gratipay.com/">
   <strong>
    Gratipay
   </strong>
  </a>
+ |
+ <a href="http://inside.gratipay.com/big-picture/welcome">
+  Welcome to Gratipay
+ </a>
+ | :octocat:
+ <a href="https://github.com/gratipay">
+  All Products
+ </a>
+ |  |
  <em>
-  ("
   <a href="http://blog.gittip.com/post/26350459746/the-first-open-company/">
    The first open company
   </a>
-  ")
  </em>
- -
+ |  |
+ <a href="https://github.com/gratipay/finances#readme">
+  Finance
+ </a>
  <img alt="Growstuff" src="http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico"/>
- <a href="http://wiki.growstuff.org/index.php/Values">
+ <a href="http://www.growstuff.org/">
   <strong>
    Growstuff
   </strong>
  </a>
+ |
+ <a href="http://web.archive.org/web/20150906064358/http://wiki.growstuff.org/index.php/Values">
+  (archive) Values - Growstuff Wiki
+ </a>
+ | :octocat:
+ <a href="https://github.com/Growstuff/growstuff">
+  Growstuff
+ </a>
+ |  |
  <em>
-  ("
   <a href="http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/">
    Why Growstuff is open source
   </a>
-  ")
  </em>
- -
+ |  |
  <img alt="MapBox" src="http://www.google.com/s2/favicons?domain=mapbox.com"/>
- <a href="http://mapbox.com/about/open">
+ <a href="http://mapbox.com/">
   <strong>
    MapBox
   </strong>
  </a>
- -
+ |
+ <a href="http://mapbox.com/about/open">
+  Open Source - MapBox
+ </a>
+ | :octocat:
+ <a href="https://github.com/mapbox">
+  Misc
+ </a>
+ |  |  |  |
  <img alt="Neocities" src="http://www.google.com/s2/favicons?domain=neocities.org"/>
- <a href="https://neocities.org/stats">
+ <a href="https://neocities.org/">
   <strong>
    Neocities
   </strong>
  </a>
+ |
+ <a href="http://wayback.archive.org/web/20150907143713id_/https://neocities.org/stats">
+  (archive) Neocities - stats
+ </a>
+ | :octocat:
+ <a href="https://github.com/neocities/neocities">
+  Neocities.org
+ </a>
+ |  |
  <em>
-  ("
   <a href="https://neocities.org/blog/open-company-progress-report-2014">
    The first Neocities Open Company report
   </a>
-  ")
  </em>
- -
+ |  |
  <img alt="The Open Company" src="http://www.google.com/s2/favicons?domain=theopencompany.net"/>
- <a href="http://theopencompany.net/pages/about-us">
+ <a href="http://theopencompany.net/">
   <strong>
    The Open Company
   </strong>
  </a>
- -
+ |
+ <a href="http://theopencompany.net/pages/about-us">
+  The Open Company
+ </a>
+ | N/A |  |  |  |
  <img alt="OpenCraft" src="http://www.google.com/s2/favicons?domain=opencraft.com"/>
  <a href="http://opencraft.com/">
   <strong>
    OpenCraft
   </strong>
  </a>
- -
+ |
+ <a href="http://opencraft.com/">
+  OpenCraft \| Open edX Development & Hosting Services
+ </a>
+ | N/A |  |  |  |
  <img alt="Red Hat" src="http://www.google.com/s2/favicons?domain=redhat.com"/>
- <a href="http://jobs.redhat.com/life-at-red-hat/our-culture/">
+ <a href="https://www.redhat.com/">
   <strong>
    Red Hat
   </strong>
  </a>
- -
+ |
+ <a href="https://www.redhat.com/en/jobs/life/culture">
+  Red Hat Jobs - Our culture
+ </a>
+ |
+ <a href="https://www.redhat.com/en/open-source/communities">
+  Mics
+ </a>
+ |  |  |  |
  <img alt="Tessel" src="http://i.imgur.com/Xe9AYlw.png"/>
- <a href="https://tessel.io/opensource">
+ <a href="https://tessel.io/">
   <strong>
    Tessel
   </strong>
  </a>
+ |
+ <a href="https://tessel.io/opensource">
+  Open Source - Tessel
+ </a>
+ | :octocat:
+ <a href="https://github.com/tessel/project">
+  Tessel
+ </a>
+ |  |  |  |
 </p>
 <h2>
  Resources
@@ -364,7 +501,7 @@ inspired by the many
  <li>
   Roger Clarke:
   <a href="http://www.rogerclarke.com/EC/Bled04.html">
-   Open source software and open content as models for ebusiness
+   Open source software and open content as models for eBusiness
   </a>
  </li>
  <li>
@@ -396,7 +533,7 @@ inspired by the many
  </li>
  <li>
   Shereef Bishay:
-  <a href="http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/">
+  <a href="http://www.opencompany.org/resources/whitepaper.pdf">
    The open enterprise manifesto
   </a>
  </li>
@@ -476,13 +613,20 @@ A group of companies which adopted the OCI pledge
    </li>
   </ul>
  </li>
+ <li>
+  <a href="https://github.com/paulhendricks/awesome-open">
+   Awesome Open
+  </a>
+  :
+A curated list of organizations, projects and initiatives that maintain open codebases and datasets
+ </li>
 </ul>
 <h2>
  License
 </h2>
 <p>
  <em>
-  This work and all contrubitions to it are released into the public domain under the terms of the
+  This work and all contributions to it are released into the public domain under the terms of the
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">
    CC0 1.0
   </a>

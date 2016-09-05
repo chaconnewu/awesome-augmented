@@ -60,7 +60,7 @@
   </a>
  </li>
  <li>
-  <a href="http://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/">
+  <a href="https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/">
    conf.d like directories for zsh/bash dotfiles
   </a>
  </li>
@@ -130,7 +130,7 @@
   </a>
  </li>
  <li>
-  <a href="http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible/">
+  <a href="http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible">
    Manage a development machine with Ansible
   </a>
  </li>
@@ -258,7 +258,7 @@
   </a>
   - Development environment provisioning using Ansible.
   <sup>
-   &#9733 366, pushed 119 days ago
+   &#9733 366, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -267,7 +267,7 @@
   </a>
   - Bash DSL for config management.
   <sup>
-   &#9733 119, pushed 31 days ago
+   &#9733 119, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +276,7 @@
   </a>
   - Tool that bootstraps your dotfiles.
   <sup>
-   &#9733 639, pushed 9 days ago
+   &#9733 639, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -291,7 +291,7 @@
   </a>
   - A package manager for dotfiles.
   <sup>
-   &#9733 51, pushed 23 days ago
+   &#9733 51, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +312,7 @@
   </a>
   - Git dotfile synchronizer written in Bash.
   <sup>
-   &#9733 874, pushed 191 days ago
+   &#9733 874, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +325,7 @@
   </a>
   ).
   <sup>
-   &#9733 1717, pushed 103 days ago
+   &#9733 1717, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -334,7 +334,7 @@
   </a>
   - Keep your application settings in sync (OS X/Linux).
   <sup>
-   &#9733 4628, pushed 5 days ago
+   &#9733 4628, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -343,26 +343,7 @@
   </a>
   - rc file (dotfile) management
   <sup>
-   &#9733 1158, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.npmjs.com/package/remote-dotfiles">
-   remote-dotfiles
-  </a>
-  - Describe your dotfiles configuration, tuned for and deploy to all your servers.
- </li>
- <li>
-  <a href="https://github.com/NorfairKing/super-user-spark">
-   Super User Spark
-  </a>
-  - Tool that allows you to manage your beautiful and precious system configuration accross multiple systems and failures (
-  <a href="http://cs-syd.eu/posts/2015-09-27-super-user-spark-getting-started">
-   post
-  </a>
-  ).
-  <sup>
-   &#9733 36, pushed 32 days ago
+   &#9733 1158, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -371,7 +352,7 @@
   </a>
   - Version Control System for $HOME, multiple Git repositories in $HOME.
   <sup>
-   &#9733 1092, pushed 38 days ago
+   &#9733 1092, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -380,7 +361,7 @@
   </a>
   - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
   <sup>
-   &#9733 81, pushed 4 days ago
+   &#9733 81, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -394,7 +375,7 @@
   </a>
   - Cider is a simple wrapper for Homebrew and Homebrew Cask that allows you to save your setup across different machines.
   <sup>
-   &#9733 684, pushed 43 days ago
+   &#9733 684, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -403,7 +384,7 @@
   </a>
   - Command line tool for managing dock items
   <sup>
-   &#9733 354, pushed 235 days ago
+   &#9733 354, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -412,7 +393,7 @@
   </a>
   - Dotfiles runner/manager written in node
   <sup>
-   &#9733 24, pushed 54 days ago
+   &#9733 24, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -448,7 +429,7 @@
   </a>
   .
   <sup>
-   &#9733 239, pushed 210 days ago
+   &#9733 239, pushed 334 days ago
   </sup>
  </li>
 </ul>
@@ -462,7 +443,7 @@
   </a>
   - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
   <sup>
-   &#9733 6673, pushed 17 days ago
+   &#9733 6673, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -471,7 +452,7 @@
   </a>
   - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
   <sup>
-   &#9733 1464, pushed 3 days ago
+   &#9733 1464, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +461,7 @@
   </a>
   - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
   <sup>
-   &#9733 388, pushed 14 days ago
+   &#9733 388, pushed 139 days ago
   </sup>
  </li>
 </ul>

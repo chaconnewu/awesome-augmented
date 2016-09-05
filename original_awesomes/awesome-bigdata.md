@@ -55,10 +55,12 @@ Your contributions are always welcome!
 
 * [AddThis Hydra](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 * [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
+* [Apache APEX](https://apex.apache.org/) - a unified, enterprise platform for big data stream and batch processing.
 * [Apache Beam](http://incubator.apache.org/projects/beam.html) - an unified model and set of language-specific SDKs for defining and executing data processing workflows.
 * [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 * [Apache Flink](http://flink.apache.org/) - high-performance runtime, and automatic program optimization.
+* [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 * [Apache Gora](http://gora.apache.org/) - framework for in-memory data model and persistence.
 * [Apache Hama](http://hama.apache.org/) - BSP (Bulk Synchronous Parallel) computing framework.
 * [Apache MapReduce](http://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
@@ -95,12 +97,14 @@ Your contributions are always welcome!
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
 * [Tuktu](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
+* [Twitter Heron](https://github.com/twitter/heron) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter replacing Storm.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
 
 ## Distributed Filesystem
 
+* [Ambry](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.beegfs.com/content/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
@@ -157,10 +161,13 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
+* [Bolt](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
+* [BuntDB](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
 * [GridDB](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
+* [HyperDex](https://github.com/rescrv/HyperDex) - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
@@ -202,6 +209,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 * [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
+* [ClickHouse](https://clickhouse.yandex/) - an open-source column-oriented database management system that allows generating analytical data reports in real time.
+* [EventQL](http://eventql.io/) - a distributed, column-oriented database built for large-scale event collection and analytics.
 * [MonetDB](https://www.monetdb.org/) - column store database.
 * [Parquet](http://parquet.apache.org/) - columnar storage format for Hadoop.
 * [Pivotal Greenplum](https://pivotal.io/big-data/pivotal-greenplum) - purpose-built, dedicated analytic data warehouse that offers a columnar engine as well as a traditional row-based one.
@@ -238,14 +247,16 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Time-Series Databases
 
-* [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) - distributed time series database on top of HBase. Includes built-in Rule Engine, data forecasting and visualization.
+* [Chronix](http://chronix.io/) - a time series storage built to store time series highly compressed and for fast access times.
+* [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Heroic](https://spotify.github.io/heroic/#!/index) - is a scalable time series database based on Cassandra and Elasticsearch.
 * [InfluxDB](https://influxdata.com) - distributed time series database.
-* [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
+* [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
+* [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
-* [Prometheus](http://prometheus.io) - a time series database and service monitoring system
-* [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra
+* [Prometheus](http://prometheus.io) - a time series database and service monitoring system.
+* [TrailDB](http://traildb.io/) - an efficient tool for storing and querying series of events.
 
 ## SQL-like processing
 
@@ -253,7 +264,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
 * [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
-* [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
+* [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
 * [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/projects/lingual/) - SQL-like query language for Cascading.
@@ -337,6 +348,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+* [MOA](http://moa.cms.waikato.ac.nz) - MOA performs big data stream mining in real time, and large scale machine learning.
 * [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](https://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
@@ -346,6 +358,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 * [BidMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+* [Velox](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - Open source software library from Google for machine learning using data flow graphs.
 
 ## Benchmarking
 
@@ -357,6 +371,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Security
 
+* [Apache Eagle](https://eagle.incubator.apache.org/) - real time monitoring solution
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 
@@ -382,6 +397,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Adobe spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 * [Apache Kiji](http://www.kiji.org.s3-website-us-east-1.amazonaws.com) - framework to collect and analyze data in real-time, based on HBase.
+* [Apache Metron](https://metron.incubator.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
@@ -389,12 +405,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
+* [ElastAert](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
+* [Kapacitor](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
 * [Kylin](http://kylin.apache.org/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
@@ -468,12 +486,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [BIME Analytics](http://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
+* [GoodData](http://www.gooddata.com/) - platform for data products and embedded analytics.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
+* [Redash](http://redash.io/) - Open source business intelligence platform, supporting multiple data sources and planned queries.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
 * [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
@@ -483,8 +503,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Visualization
 
 * [Airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
+* [AnyChart](http://www.anychart.com) - fast, simple and flexible JavaScript (HTML5) charting library featuring pure JS API.
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
+* [Bloomery](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 * [Bokeh](http://bokeh.pydata.org/en/latest/) - A powerful Python interactive visualization library that targets modern web browsers for presentation, with the goal of providing elegant, concise construction of novel graphics in the style of D3.js, but also delivering this capability with high-performance interactivity over very large or streaming datasets.
 * [C3](http://c3js.org/) - D3-based reusable chart library
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
@@ -517,6 +539,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Plotly.js](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/getredash/redash) - open-source platform to query and visualize data.
+* [ReCharts](http://recharts.org/) - A composable charting library built on React components
 * [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.

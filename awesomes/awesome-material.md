@@ -21,7 +21,7 @@
   </a>
   — Material Design icons by Google.
   <sup>
-   &#9733 23504, pushed 21 days ago
+   &#9733 23504, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -30,7 +30,7 @@
   </a>
   — Material Design Iconic Font and CSS toolkit.
   <sup>
-   &#9733 727, pushed 169 days ago
+   &#9733 727, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -39,7 +39,7 @@
   </a>
   — Material Design Fonticons is a font converted version of the Google Material Design Icon set.
   <sup>
-   &#9733 76, pushed 547 days ago
+   &#9733 76, pushed 671 days ago
   </sup>
  </li>
  <li>
@@ -48,7 +48,7 @@
   </a>
   — Colors of Google's Material Design made available to coders.
   <sup>
-   &#9733 105, pushed 47 days ago
+   &#9733 105, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -57,7 +57,7 @@
   </a>
   — The colour palette, based on Google's Material Design, for use in your project.
   <sup>
-   &#9733 74, pushed 71 days ago
+   &#9733 74, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -66,7 +66,7 @@
   </a>
   — A .less file with al the Google material design colors.
   <sup>
-   &#9733 6, pushed 580 days ago
+   &#9733 6, pushed 705 days ago
   </sup>
  </li>
  <li>
@@ -75,7 +75,7 @@
   </a>
   — An easy way to use Google's Material Design colors in your Sass/Scss project.
   <sup>
-   &#9733 39, pushed 501 days ago
+   &#9733 39, pushed 626 days ago
   </sup>
  </li>
  <li>
@@ -84,7 +84,7 @@
   </a>
   — Font Icon based on Google Material Design Icon set.
   <sup>
-   &#9733 5, pushed 321 days ago
+   &#9733 5, pushed 446 days ago
   </sup>
  </li>
  <li>
@@ -113,7 +113,7 @@
     </a>
     — Android's Material Design hamburger animation built in CSS.
     <sup>
-     &#9733 86, pushed 451 days ago
+     &#9733 86, pushed 575 days ago
     </sup>
    </li>
    <li>
@@ -122,7 +122,7 @@
     </a>
     — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
     <sup>
-     &#9733 348, pushed 27 days ago
+     &#9733 348, pushed 152 days ago
     </sup>
    </li>
    <li>
@@ -131,12 +131,12 @@
     </a>
     — jQuery plugin recreates ripple and focus effect.
     <sup>
-     &#9733 12, pushed 650 days ago
+     &#9733 12, pushed 775 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 2250, pushed 20 days ago
+   &#9733 2250, pushed 145 days ago
   </sup>
  </li>
 </ul>
@@ -150,7 +150,7 @@
   </a>
   — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
   <sup>
-   &#9733 1988, pushed 124 days ago
+   &#9733 1988, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -159,7 +159,7 @@
   </a>
   — A Material Design Color Picker.
   <sup>
-   &#9733 10, pushed 329 days ago
+   &#9733 10, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -168,7 +168,7 @@
   </a>
   — Material Design Color Palette: LESS/CSS toolkit.
   <sup>
-   &#9733 97, pushed 45 days ago
+   &#9733 97, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -177,7 +177,7 @@
   </a>
   — A Polymer Timepicker element in Material Design.
   <sup>
-   &#9733 12, pushed 69 days ago
+   &#9733 12, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -186,7 +186,7 @@
   </a>
   — A Date-Time picker based on Googles Material Design Spec.
   <sup>
-   &#9733 180, pushed 232 days ago
+   &#9733 180, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -195,7 +195,7 @@
   </a>
   — Material design floating menu with action buttons implemented as an Angularjs directive.
   <sup>
-   &#9733 333, pushed 252 days ago
+   &#9733 333, pushed 376 days ago
   </sup>
  </li>
 </ul>
@@ -209,7 +209,7 @@
   </a>
   — A lightweight, CSS only framework based on Material Design.
   <sup>
-   &#9733 109, pushed 69 days ago
+   &#9733 109, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -218,7 +218,7 @@
   </a>
   — A CSS Framework and a Set of React Components that Implement Google's Material Design.
   <sup>
-   &#9733 15878, pushed 2 days ago
+   &#9733 15878, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -227,7 +227,7 @@
   </a>
   — Material design theme for Bootstrap 3.
   <sup>
-   &#9733 15247, pushed 4 days ago
+   &#9733 15247, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -236,7 +236,7 @@
   </a>
   — Materialize, a CSS Framework based on Material Design.
   <sup>
-   &#9733 18157, pushed 2 days ago
+   &#9733 18157, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -245,7 +245,7 @@
   </a>
   — Twitter Bootstrap theme for Google material design.
   <sup>
-   &#9733 72, pushed 230 days ago
+   &#9733 72, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -254,7 +254,7 @@
   </a>
   — Polymer material design playground.
   <sup>
-   &#9733 240, pushed 18 days ago
+   &#9733 240, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -263,7 +263,7 @@
   </a>
   — An easy to use material design based framework.
   <sup>
-   &#9733 192, pushed 212 days ago
+   &#9733 192, pushed 337 days ago
   </sup>
  </li>
 </ul>
@@ -277,7 +277,7 @@
   </a>
   — Material design for Angular.
   <sup>
-   &#9733 13393, pushed 2 days ago
+   &#9733 13393, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -286,7 +286,7 @@
   </a>
   — The Ember approach to Material Design.
   <sup>
-   &#9733 486, pushed 1 days ago
+   &#9733 486, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -301,7 +301,7 @@
   </a>
   — Material design components written with React.js and React Style.
   <sup>
-   &#9733 353, pushed 264 days ago
+   &#9733 353, pushed 389 days ago
   </sup>
  </li>
 </ul>
@@ -315,7 +315,7 @@
   </a>
   — Material Design color palette for your Sass projects.
   <sup>
-   &#9733 33, pushed 27 days ago
+   &#9733 33, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -324,7 +324,7 @@
   </a>
   — Material Design drop shadows for your Sass projects.
   <sup>
-   &#9733 33, pushed 574 days ago
+   &#9733 33, pushed 698 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +333,7 @@
   </a>
   — Small SASS library inspired by google material design guidelines.
   <sup>
-   &#9733 14, pushed 638 days ago
+   &#9733 14, pushed 763 days ago
   </sup>
  </li>
 </ul>
@@ -347,7 +347,7 @@
   </a>
   — MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy.
   <sup>
-   &#9733 108, pushed 416 days ago
+   &#9733 108, pushed 541 days ago
   </sup>
  </li>
  <li>
@@ -356,7 +356,7 @@
   </a>
   — Material Design WordPress Theme.
   <sup>
-   &#9733 271, pushed 27 days ago
+   &#9733 271, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -374,7 +374,7 @@
   </a>
   — Material Design Collaborative Chinese translation
   <sup>
-   &#9733 2001, pushed 262 days ago
+   &#9733 2001, pushed 386 days ago
   </sup>
  </li>
  <li>
@@ -383,7 +383,7 @@
   </a>
   — Sublime Text syntax theme based off the Material Design color palette.
   <sup>
-   &#9733 63, pushed 117 days ago
+   &#9733 63, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -392,7 +392,7 @@
   </a>
   — A Framework to create Material Design projects.
   <sup>
-   &#9733 38, pushed 202 days ago
+   &#9733 38, pushed 327 days ago
   </sup>
  </li>
  <li>

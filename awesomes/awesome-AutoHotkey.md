@@ -6,9 +6,6 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
- <a href="https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-  <img alt="Gitter" src="https://badges.gitter.im/Join%20Chat.svg"/>
- </a>
 </h1>
 <p>
  A curated list of awesome
@@ -38,12 +35,6 @@
  </a>
  <a href="https://github.com/dkhamsing/awesome_bot">
   <img alt="awesome_bot" src="https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg"/>
- </a>
- <a href="https://waffle.io/ahkscript/awesome-AutoHotkey">
-  <img alt="Stories in Ready" src="https://badge.waffle.io/ahkscript/awesome-AutoHotkey.svg?label=ready&title=Ready"/>
- </a>
- <a href="http://waffle.io/ahkscript/awesome-AutoHotkey">
-  <img alt="Stories in Progress" src="https://badge.waffle.io/ahkscript/awesome-AutoHotkey.svg?label=In%20Progress&title=In%20Progress"/>
  </a>
 </p>
 <p>
@@ -279,7 +270,7 @@
   </a>
   .
   <sup>
-   &#9733 7, pushed 411 days ago
+   &#9733 7, pushed 536 days ago
   </sup>
  </li>
  <li>
@@ -292,7 +283,7 @@
   </a>
   .
   <sup>
-   &#9733 26, pushed 148 days ago
+   &#9733 26, pushed 273 days ago
   </sup>
  </li>
 </ul>
@@ -312,7 +303,7 @@
   </a>
   .
   <sup>
-   &#9733 24, pushed 15 days ago
+   &#9733 24, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -331,7 +322,7 @@
   </a>
   .
   <sup>
-   &#9733 2, pushed 593 days ago
+   &#9733 2, pushed 718 days ago
   </sup>
  </li>
  <li>
@@ -359,7 +350,7 @@
   </a>
   .
   <sup>
-   &#9733 25, pushed 421 days ago
+   &#9733 25, pushed 546 days ago
   </sup>
  </li>
  <li>
@@ -372,7 +363,7 @@
   </a>
   .
   <sup>
-   &#9733 8, pushed 35 days ago
+   &#9733 8, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -425,6 +416,20 @@
  GUI
 </h3>
 <h4>
+ Combobox
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/pulover/cbautocomplete">
+   CbAutoComplete
+  </a>
+  - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread:
+  <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=15002">
+   link
+  </a>
+ </li>
+</ul>
+<h4>
  Custom Controls
 </h4>
 <ul>
@@ -437,7 +442,7 @@
    link
   </a>
   <sup>
-   &#9733 1, pushed 29 days ago
+   &#9733 1, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -449,7 +454,7 @@
    link
   </a>
   <sup>
-   &#9733 2, pushed 44 days ago
+   &#9733 2, pushed 169 days ago
   </sup>
  </li>
 </ul>
@@ -472,7 +477,7 @@
    link
   </a>
   <sup>
-   &#9733 2, pushed 585 days ago
+   &#9733 2, pushed 710 days ago
   </sup>
  </li>
  <li>
@@ -481,6 +486,20 @@
   </a>
   - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=6463">
+   link
+  </a>
+ </li>
+</ul>
+<h4>
+ ListBox
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/AHK-just-me/Class_TransparentListBox">
+   TransparentListBox
+  </a>
+  - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread:
+  <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=108">
    link
   </a>
  </li>
@@ -507,7 +526,7 @@
    link
   </a>
   <sup>
-   &#9733 2, pushed 5 days ago
+   &#9733 2, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -524,11 +543,11 @@
    LV_Rows
   </a>
   - by Pulover - Additional functions for AHK ListView controls. Forum thread:
-  <a href="Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=137">
+  <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=137">
    link
   </a>
   <sup>
-   &#9733 0, pushed 4 days ago
+   &#9733 0, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -606,11 +625,11 @@
   - math expression evaluation incl brackets
  </li>
  <li>
-  <a href="Https://github.Com/pulover/eval">
+  <a href="https://github.com/pulover/eval">
    Eval
   </a>
   - by Pulover - Evaluate expressions in strings. Forum thread:
-  <a href="Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=13565">
+  <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=13565">
    link
   </a>
  </li>
@@ -634,7 +653,7 @@
    link
   </a>
   <sup>
-   &#9733 12, pushed 215 days ago
+   &#9733 12, pushed 340 days ago
   </sup>
  </li>
  <li>
@@ -646,14 +665,14 @@
    link
   </a>
   <sup>
-   &#9733 11, pushed 1186 days ago
+   &#9733 11, pushed 1310 days ago
   </sup>
  </li>
  <li>
   <a href="https://autohotkey.com/board/topic/94376-">
    Socket Class (überarbeitet)
   </a>
-  - by Bentschi -  Class based sockets library. Supports TCP and UDP.
+  - by Bentschi - Class based sockets library. Supports TCP and UDP.
  </li>
 </ul>
 <h3>
@@ -666,7 +685,7 @@
   <a href="https://autohotkey.com/board/topic/82959-barchart/">
    BarChart
   </a>
-  - by Learning One - Library for making bar charts.  Download
+  - by Learning One - Library for making bar charts. Download
   <a href="https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip">
    link
   </a>
@@ -718,7 +737,7 @@
   </a>
   .
   <sup>
-   &#9733 29, pushed 156 days ago
+   &#9733 29, pushed 281 days ago
   </sup>
  </li>
 </ul>
@@ -740,7 +759,7 @@
   </a>
   - Ryan Shipp's collection of libraries.
   <sup>
-   &#9733 59, pushed 52 days ago
+   &#9733 59, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -757,7 +776,7 @@
   </a>
   .
   <sup>
-   &#9733 19, pushed 76 days ago
+   &#9733 19, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -766,7 +785,7 @@
   </a>
   - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
   <sup>
-   &#9733 8, pushed 196 days ago
+   &#9733 8, pushed 320 days ago
   </sup>
  </li>
 </ul>
@@ -822,7 +841,7 @@
   </a>
   .
   <sup>
-   &#9733 103, pushed 884 days ago
+   &#9733 103, pushed 1008 days ago
   </sup>
  </li>
 </ul>
@@ -898,7 +917,7 @@
   <a href="https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/">
    Radial Menu
   </a>
-  -  Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread:
+  - Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread:
   <a href="https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/">
    link
   </a>
@@ -918,7 +937,7 @@
   </a>
   .
   <sup>
-   &#9733 37, pushed 135 days ago
+   &#9733 37, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -934,7 +953,7 @@
   <a href="http://lintalist.github.io/">
    Lintalist
   </a>
-  -  Searchable interactive lists to copy & paste text with plugins. Forum thread:
+  - Searchable interactive lists to copy & paste text with plugins. Forum thread:
   <a href="https://autohotkey.com/boards/viewtopic.php?f=6&t=3378">
    link
   </a>
@@ -987,7 +1006,7 @@
    link
   </a>
   <sup>
-   &#9733 444, pushed 8 days ago
+   &#9733 444, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1015,7 +1034,7 @@
   <a href="https://github.com/hoppfrosch/WindowPadX">
    WindowPadX
   </a>
-  -  tool which provides some useful functionality within multi monitor environments.
+  - tool which provides some useful functionality within multi monitor environments.
   <em>
    WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread:
    <a href="https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/">
@@ -1023,7 +1042,7 @@
    </a>
   </em>
   <sup>
-   &#9733 122, pushed 343 days ago
+   &#9733 122, pushed 468 days ago
   </sup>
  </li>
  <li>
@@ -1039,7 +1058,7 @@
    by Paul Troiano
   </em>
   <sup>
-   &#9733 6, pushed 145 days ago
+   &#9733 6, pushed 270 days ago
   </sup>
  </li>
 </ul>
@@ -1102,7 +1121,7 @@
   </em>
   .
   <sup>
-   &#9733 248, pushed 1626 days ago
+   &#9733 248, pushed 1750 days ago
   </sup>
  </li>
 </ul>
@@ -1132,7 +1151,7 @@
   </a>
   - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
   <sup>
-   &#9733 11, pushed 12 days ago
+   &#9733 11, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1205,7 +1224,7 @@
   </a>
   - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
   <sup>
-   &#9733 66, pushed 10 days ago
+   &#9733 66, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1273,7 +1292,7 @@
   </a>
   - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
   <sup>
-   &#9733 3, pushed 637 days ago
+   &#9733 3, pushed 762 days ago
   </sup>
  </li>
 </ul>
@@ -1342,7 +1361,7 @@
   </a>
   .
   <sup>
-   &#9733 25, pushed 358 days ago
+   &#9733 25, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -1397,7 +1416,7 @@
    PYAHK
   </a>
   - Documentation
-  <a href="https://pyahk.readthedocs.org/en/latest/">
+  <a href="https://pyahk.readthedocs.io/en/latest/">
    link
   </a>
   .

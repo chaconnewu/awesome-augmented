@@ -112,7 +112,7 @@
    </space>
   </p>
   <sup>
-   &#9733 2805, pushed 118 days ago
+   &#9733 2805, pushed 243 days ago
   </sup>
  </li>
 </ul>
@@ -153,7 +153,7 @@
    Charts
   </h3>
   <sup>
-   &#9733 419, pushed 137 days ago
+   &#9733 419, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -171,7 +171,7 @@
    </space>
   </p>
   <sup>
-   &#9733 296, pushed 85 days ago
+   &#9733 296, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -189,7 +189,7 @@
    </space>
   </p>
   <sup>
-   &#9733 218, pushed 81 days ago
+   &#9733 218, pushed 205 days ago
   </sup>
  </li>
 </ul>
@@ -266,7 +266,7 @@
   </a>
   - A radial bar chart generator for apple watch.
   <sup>
-   &#9733 350, pushed 48 days ago
+   &#9733 350, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -275,7 +275,7 @@
   </a>
   - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
   <sup>
-   &#9733 350, pushed 204 days ago
+   &#9733 350, pushed 329 days ago
   </sup>
  </li>
 </ul>
@@ -321,7 +321,7 @@
    </space>
   </p>
   <sup>
-   &#9733 338, pushed 328 days ago
+   &#9733 338, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -362,7 +362,7 @@
    - A Hacker News reader written in Swift.
   </p>
   <sup>
-   &#9733 1050, pushed 126 days ago
+   &#9733 1050, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -380,7 +380,7 @@
    </space>
   </p>
   <sup>
-   &#9733 494, pushed 240 days ago
+   &#9733 494, pushed 365 days ago
   </sup>
  </li>
  <li>
@@ -398,7 +398,7 @@
    </space>
   </p>
   <sup>
-   &#9733 80, pushed 292 days ago
+   &#9733 80, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -420,7 +420,7 @@
    </space>
   </p>
   <sup>
-   &#9733 341, pushed 343 days ago
+   &#9733 341, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -438,7 +438,7 @@
    </space>
   </p>
   <sup>
-   &#9733 37, pushed 213 days ago
+   &#9733 37, pushed 337 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +456,7 @@
    </space>
   </p>
   <sup>
-   &#9733 74, pushed 187 days ago
+   &#9733 74, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +474,7 @@
    </space>
   </p>
   <sup>
-   &#9733 76, pushed 478 days ago
+   &#9733 76, pushed 603 days ago
   </sup>
  </li>
  <li>
@@ -485,7 +485,7 @@
    - Tutorials app for WatchKit.
   </p>
   <sup>
-   &#9733 992, pushed 150 days ago
+   &#9733 992, pushed 275 days ago
   </sup>
  </li>
  <li>
@@ -496,7 +496,7 @@
    - Code examples for new features of watchOS 2.
   </p>
   <sup>
-   &#9733 920, pushed 27 days ago
+   &#9733 920, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -514,7 +514,7 @@
    </space>
   </p>
   <sup>
-   &#9733 64, pushed 186 days ago
+   &#9733 64, pushed 310 days ago
   </sup>
  </li>
 </ul>

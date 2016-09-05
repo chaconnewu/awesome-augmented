@@ -101,6 +101,7 @@ def main():
             else:
                 visited.add(a[0])
                 a[0]['href'] = regenerate_hrefs(url)
+                status
                 a[0].insert_after(tag)
                 # li.insert(len(li.contents), tag)
 

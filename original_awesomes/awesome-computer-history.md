@@ -12,6 +12,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Reflective interviews](#reflective-interviews)
   - [Talks](#talks)
   - [Movies](#movies)
+  - [Commercials](#commercials)
 - [Texts](#texts)
   - [Folklore](#folklore)
   - [Announcements](#announcements)
@@ -26,16 +27,19 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Timesharing: A Solution to Computer Bottlenecks](https://www.youtube.com/watch?v=Q07PhW5sCEk) (1963)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
+- [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
 - [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A) (1983-2002) - All episodes. A few of the notable episodes are:
   - [Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
   - [The Internet](https://www.youtube.com/watch?v=U_o8gerare0) (1993)
+- [We Are Apple](https://www.youtube.com/watch?v=nbJy0O4UFSM) (1984) - Corporate song that was used during the Macintosh rollout in January, 1984
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
 - [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes. A few of the notable episodes are:
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
   - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
+- [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
 
 ### Documentaries
 
@@ -81,6 +85,10 @@ _Dramatized versions of real events_
 - [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](http://www.imdb.com/title/tt0168122/)</sup>
 - [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](http://www.imdb.com/title/tt1459467/)</sup>
 - [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network) (2010) - The history of the birth of Facebook <sup>[7.8/10](http://www.imdb.com/title/tt1285016/)</sup>
+
+### Commercials
+
+- [Apple 1984 Super Bowl Commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA) (1984) - Apple 1984 Super Bowl Commercial Introducing Macintosh Computer
 
 ## Texts
 

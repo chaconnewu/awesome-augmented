@@ -1,40 +1,36 @@
 <p>
- <a href="https://github.com/sindresorhus/awesome">
-  <img alt="vim-galore" src="https://cdn.rawgit.com/mhinz/vim-galore/master/media/badge-awesome.svg"/>
- </a>
- <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/LICENSE">
-  <img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-lightgrey.svg"/>
- </a>
  <a href="https://travis-ci.org/mhinz/vim-galore">
   <img alt="Build Status" src="https://travis-ci.org/mhinz/vim-galore.svg?branch=master"/>
  </a>
+ <a href="http://postd.cc/?s=vim-galore">
+  <img alt="badge-translation-japanese" src="https://img.shields.io/badge/Translation-Japanese-lightgrey.svg"/>
+ </a>
+ <a href="https://github.com/sindresorhus/awesome">
+  <img alt="vim-galore" src="https://cdn.rawgit.com/mhinz/vim-galore/master/contents/images/badge-awesome.svg"/>
+ </a>
 </p>
 <p>
- <img alt="vim-galore" src="https://raw.githubusercontent.com/mhinz/vim-galore/master/media/vim-galore.png"/>
+ <img alt="vim-galore" src="https://raw.githubusercontent.com/mhinz/vim-galore/master/contents/images/logo-vim-galore.png"/>
 </p>
 <hr/>
 <p>
- Want me to write about a certain topic? Create an
- <a href="https://github.com/mhinz/vim-galore/issues">
-  issue
+ Ask me anything on
+ <a href="https://twitter.com/_mhinz_">
+  Twitter
  </a>
- for it! ∴ My
+ .
+My
  <a href="https://github.com/mhinz/dotfiles/blob/master/vim/vimrc">
   vimrc
- </a>
- . ∴
- <a href="https://twitter.com/_mhinz_">
-  Me on
-Twitter
  </a>
  .
 </p>
 <hr/>
-<h4>
+<h2>
  <a href="#intro-1">
   Intro
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#what-is-vim">
@@ -67,11 +63,11 @@ Twitter
   </a>
  </li>
 </ul>
-<h4>
+<h2>
  <a href="#basics-1">
   Basics
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#buffers-windows-tabs">
@@ -169,11 +165,11 @@ Twitter
   </a>
  </li>
 </ul>
-<h4>
+<h2>
  <a href="#usage-1">
   Usage
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#getting-help-offline">
@@ -189,6 +185,23 @@ Twitter
   <a href="#getting-help-online">
    Getting help online
   </a>
+ </li>
+ <li>
+  <a href="#autocmds-in-practice">
+   Autocmds in practice
+  </a>
+  <ul>
+   <li>
+    <a href="#user-events">
+     User events
+    </a>
+   </li>
+   <li>
+    <a href="#nested-autocmds">
+     Nested autocmds
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="#clipboard">
@@ -248,11 +261,11 @@ Twitter
   </a>
  </li>
 </ul>
-<h4>
+<h2>
  <a href="#tips-1">
   Tips
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#saner-behavior-of-n-and-n">
@@ -324,12 +337,17 @@ Twitter
    Faster keyword completion
   </a>
  </li>
+ <li>
+  <a href="#cosmetic-changes-to-colorschemes">
+   Cosmetic changes to colorschemes
+  </a>
+ </li>
 </ul>
-<h4>
+<h2>
  <a href="#commands-1">
   Commands
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#global">
@@ -350,15 +368,20 @@ Twitter
   - Redirect messages.
  </li>
 </ul>
-<h4>
+<h2>
  <a href="#debugging-1">
   Debugging
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#general-tips">
    General tips
+  </a>
+ </li>
+ <li>
+  <a href="#verbosity">
+   Verbosity
   </a>
  </li>
  <li>
@@ -372,11 +395,6 @@ Twitter
   </a>
  </li>
  <li>
-  <a href="#verbosity">
-   Verbosity
-  </a>
- </li>
- <li>
   <a href="#debugging-vim-scripts">
    Debugging Vim scripts
   </a>
@@ -387,11 +405,11 @@ Twitter
   </a>
  </li>
 </ul>
-<h4>
+<h2>
  <a href="#miscellaneous-1">
   Miscellaneous
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#additional-resources">
@@ -424,11 +442,11 @@ Twitter
   </a>
  </li>
 </ul>
-<h4>
- <a href="#quirks-1">
-  Quirks
+<h2>
+ <a href="#common-problems-1">
+  Common problems
  </a>
-</h4>
+</h2>
 <ul>
  <li>
   <a href="#editing-small-files-is-slow">
@@ -441,11 +459,6 @@ Twitter
   </a>
  </li>
  <li>
-  <a href="#newline-used-for-nul">
-   Newline used for NUL
-  </a>
- </li>
- <li>
   <a href="#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time">
    Bracketed paste (or why do I have to set 'paste' all the time?)
   </a>
@@ -455,29 +468,41 @@ Twitter
    Delays when using escape key in terminal
   </a>
  </li>
+ <li>
+  <a href="#function-search-undo">
+   Function search undo
+  </a>
+ </li>
 </ul>
-<h4>
+<h2>
+ <a href="#technical-quirks-1">
+  Technical quirks
+ </a>
+</h2>
+<ul>
+ <li>
+  <a href="#newline-used-for-nul">
+   Newline used for NUL
+  </a>
+ </li>
+</ul>
+<h2>
  <a href="#list-of-colorschemes-1">
   List of colorschemes
  </a>
-</h4>
-<h4>
- <a href="content/plugins.md">
+</h2>
+<h2>
+ <a href="contents/plugins.md">
   List of plugins
  </a>
-</h4>
-<h4>
- <a href="content/neovim.md">
-  Neovim
- </a>
-</h4>
-<hr/>
-<h2>
- Intro
 </h2>
-<h4>
+<hr/>
+<h1>
+ Intro
+</h1>
+<h2>
  What is Vim?
-</h4>
+</h2>
 <p>
  <a href="http://www.vim.org">
   Vim
@@ -545,9 +570,9 @@ vi?
  to see common misconceptions about
 Vim explained.
 </p>
-<h4>
+<h2>
  The Vim Philosophy
-</h4>
+</h2>
 <p>
  Vim adheres to the modal editing philosophy. This means that it provides
 multiple modes and the meaning of keys changes according to the mode. You
@@ -622,12 +647,12 @@ over already. This reduces
   cognitive
 load
  </a>
- and helps focusing on the
+ and helps to focus on the
 actual task.
 </p>
-<h4>
+<h2>
  First steps
-</h4>
+</h2>
 <p>
  Vim comes bundled with an interactive tutorial that teaches the most basic
 things you need to know about. You can start it from the shell:
@@ -717,9 +742,9 @@ kinds of hyped
  that only implement features that
 Vim already supports natively.
 </p>
-<h4>
+<h2>
  Minimal vimrc
-</h4>
+</h2>
 <p>
  The user vimrc can be put into
  <code>
@@ -744,7 +769,7 @@ for yourself. :-)
 </p>
 <p>
  So here it is:
- <a href="content/minimal-vimrc.vim">
+ <a href="contents/minimal-vimrc.vim">
   minimal-vimrc
  </a>
 </p>
@@ -765,9 +790,9 @@ vimrc on Github (often in a repository called "vim-config" or "dotfiles"), so
 whenever you find a plugin you like, look up its maintainer's Github page and
 look through the repositories.
 </p>
-<h4>
+<h2>
  What kind of Vim am I running?
-</h4>
+</h2>
 <p>
  Looking at
  <code>
@@ -783,7 +808,7 @@ One of the next lines states
   Included patches: 1-1051
  </code>
  , which is the patch
-level. Thus your exact Vim version is 7.4.1051.
+level. Thus, your exact Vim version is 7.4.1051.
 </p>
 <p>
  Another line states something like
@@ -907,12 +932,9 @@ endif
 :h has-patch
  </code>
 </p>
-<h4>
+<h2>
  Cheatsheets
-</h4>
-<p>
- To avoid copyright issues, I'll just link external URLs:
-</p>
+</h2>
 <ul>
  <li>
   http://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
@@ -938,12 +960,19 @@ endif
   http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png
  </li>
 </ul>
-<h2>
+<p>
+ Or quickly open a cheatsheet from within Vim:
+ <a href="https://github.com/lifepillar/vim-cheat40">
+  vim-cheat40
+ </a>
+ .
+</p>
+<h1>
  Basics
-</h2>
-<h4>
+</h1>
+<h2>
  Buffers, windows, tabs?
-</h4>
+</h2>
 <p>
  Vim is a text editor. Every time text is shown, the text is part of a
  <strong>
@@ -982,7 +1011,7 @@ that doesn't make them
 </p>
 <p>
  Windows can be split vertically or horizontally and the heights and widths of
-existing windows can be altered, too. Therefore you can use whatever window
+existing windows can be altered, too. Therefore, you can use whatever window
 layout you prefer.
 </p>
 <p>
@@ -1001,9 +1030,9 @@ tab page that holds one window that shows one buffer.
  By the way, the buffer list is global and you can access any buffer from any
 tab.
 </p>
-<h4>
+<h2>
  Active, loaded, listed, named buffers?
-</h4>
+</h2>
 <p>
  Run Vim like this
  <code>
@@ -1075,9 +1104,9 @@ some text and write it to disk via
  , and it will become a named
 buffer.
 </p>
-<h4>
+<h2>
  Argument list?
-</h4>
+</h2>
 <p>
  The
  <a href="#buffers-windows-tabs">
@@ -1138,7 +1167,7 @@ a matter of taste. My impression is that most people use the buffer list
 exclusively.
 </p>
 <p>
- Nevertheless there is one huge use case for the argument list: batch processing
+ Nevertheless, there is one huge use case for the argument list: batch processing
 via
  <code>
   :argdo
@@ -1162,9 +1191,9 @@ from the current directory and below.
   :h argument-list
  </code>
 </p>
-<h4>
+<h2>
  Mappings?
-</h4>
+</h2>
 <p>
  You can define your own mappings with the
  <code>
@@ -1383,9 +1412,9 @@ the mapleader.
 :h mapping
 :h 05.3
 </code></pre>
-<h4>
+<h2>
  Mapleader?
-</h4>
+</h2>
 <p>
  The mapleader is simply a placeholder than can be used with custom mappings and
 is set to
@@ -1458,9 +1487,9 @@ already, so use it to double-check your mappings.
  </code>
  for more.
 </p>
-<h4>
+<h2>
  Registers?
-</h4>
+</h2>
 <p>
  Registers are slots that save text. Copying text into a register is called
  <strong>
@@ -1794,8 +1823,7 @@ the current line with
  .
 </p>
 <p>
- I suggest playing around with with all these registers a bit and constantly
-checking
+ I suggest playing around with all these registers a bit and constantly checking
  <code>
   :reg
  </code>
@@ -1812,9 +1840,9 @@ killed text
  </em>
  ) not copying.
 </p>
-<h4>
+<h2>
  Ranges?
-</h4>
+</h2>
 <p>
  Ranges are pretty easy to understand, but many Vimmers don't know about their
 full potential.
@@ -2068,9 +2096,9 @@ paragraph with the output of ls by using
 :h 10.3
  </code>
 </p>
-<h4>
+<h2>
  Marks?
-</h4>
+</h2>
 <p>
  You use marks to remember a position, that is line number and column, in a file.
 </p>
@@ -2224,7 +2252,7 @@ buffer and switch back via
  <code>
   ``
  </code>
- | Position before latest jump. |
+ | Position before the latest jump. |
 |
  <code>
   '"
@@ -2318,13 +2346,12 @@ would get a range that denotes the visual selection.
  </code>
  .
 </p>
-<h4>
+<h2>
  Completion?
-</h4>
+</h2>
 <p>
- Vim provides many different kinds of insert mode completions. If there are
-multiple matches, a popup menu will let you navigate to the match of your
-choice.
+ Vim provides many kinds of insert mode completions. If there are multiple
+matches, a popup menu will let you navigate to the match of your choice.
 </p>
 <p>
  Typical kinds of completion are tags, functions from imported modules or
@@ -2518,9 +2545,9 @@ popup menu. The default is quite sane, but I prefer adding "noselect" as well.
 :h new-omni-completion
  </code>
 </p>
-<h4>
+<h2>
  Motions? Operators? Text objects?
-</h4>
+</h2>
 <p>
  <strong>
   Motions
@@ -2703,21 +2730,21 @@ and everything in between.
  </code>
  for all available text objects.
 </p>
-<h4>
+<h2>
  Autocmds?
-</h4>
+</h2>
 <p>
  On many occasions, Vim emits events. You hook into these events by using
 autocmds.
 </p>
 <p>
  You wouldn't use Vim if there weren't autocmds. They're used all the time, even
-if you don't even know it. Don't believe me? Check
+if you don't notice it. Don't believe me? Check
  <code>
   :au
  </code>
- , but don't let the
-output overwhelm you. These are all the autocmds that are in effect right now!
+ , but don't let the output
+overwhelm you. These are all the autocmds that are in effect right now!
 </p>
 <p>
  See
@@ -2750,17 +2777,17 @@ triggered the
  event.
 </p>
 <p>
- One of the first things everyone adds to his vimrc is
+ One of the first things everyone adds to their vimrc is
  <code>
   filetype on
  </code>
- . This simply
-means that
+ . This
+simply means that
  <code>
   filetype.vim
  </code>
- is read at startup which sets autocmds for almost all
-filetypes under the sun.
+ is read at startup which sets autocmds for
+almost all filetypes under the sun.
 </p>
 <p>
  If you're brave enough, have a look at it:
@@ -2819,9 +2846,15 @@ tested for.
 exposes a clean interface to hook into that event-driven system for
 customization.
 </p>
-<h4>
+<p>
+ Related:
+ <code>
+  :h autocommand
+ </code>
+</p>
+<h2>
  Changelist? Jumplist?
-</h4>
+</h2>
 <p>
  The positions of the last 100 changes are kept in the
  <strong>
@@ -2997,9 +3030,9 @@ viminfo file and
 :h jumplist
  </code>
 </p>
-<h4>
+<h2>
  Undo tree?
-</h4>
+</h2>
 <p>
  The latest changes to the text state are remembered. You can use
  <em>
@@ -3106,7 +3139,7 @@ branch.
  <code>
   g+
  </code>
- work time-wise. Thus
+ work time-wise. Thus,
  <code>
   g-
  </code>
@@ -3156,7 +3189,7 @@ on. Thus,
  <code>
   U
  </code>
- | Undo all all changes to the line of the latest change. |
+ | Undo all changes to the line of the latest change. |
 |
  <code>
   [count]g-
@@ -3182,7 +3215,7 @@ on. Thus,
  <code>
   :later [count]?
  </code>
- | Same as as above, but other direction. |
+ | Same as above, but other direction. |
 </p>
 <p>
  The undo tree is kept in memory and will be lost when Vim quits. See
@@ -3211,9 +3244,9 @@ it.
 :h usr_32
  </code>
 </p>
-<h4>
+<h2>
  Quickfix and location lists?
-</h4>
+</h2>
 <p>
  Every time an action has to return a list of locations,
  <em>
@@ -3235,7 +3268,7 @@ external grep tool assembled in a location list.
 get a nice uniform interface for browsing the entries.
 </p>
 <p>
- At all time there's only one quickfix list, but every window can has its own
+ At all time there's only one quickfix list, but every window can have its own
 location list. Both type of lists
  <em>
   feel
@@ -3307,7 +3340,7 @@ commands for navigation.
 <p>
  See
  <code>
-  :cc
+  :h :cc
  </code>
  and everything below for all commands.
 </p>
@@ -3339,9 +3372,9 @@ list.
  Assuming any files contained the string "foo", it should be shown now in the
 quickfix window.
 </p>
-<h4>
+<h2>
  Macros?
-</h4>
+</h2>
 <p>
  Vim allows
  <em>
@@ -3491,9 +3524,9 @@ are the bomb!
 :h 'lazyredraw'
  </code>
 </p>
-<h4>
+<h2>
  Colorschemes?
-</h4>
+</h2>
 <p>
  Colorschemes are the way to style your Vim. Vim consists of many components and
 each of those can be customized with different colors for the foreground,
@@ -3552,14 +3585,23 @@ chances are that the colorscheme only defined colors for the GUI.
  for the terminal.
 </p>
 <p>
- More colorschemes:
- <a href="#list-of-colorschemes-1">
-  here
- </a>
+ Related:
 </p>
-<h4>
+<ul>
+ <li>
+  <a href="#list-of-colorschemes-1">
+   List of colorschemes
+  </a>
+ </li>
+ <li>
+  <a href="#cosmetic-changes-to-colorschemes">
+   Cosmetic changes to colorschemes
+  </a>
+ </li>
+</ul>
+<h2>
  Folding?
-</h4>
+</h2>
 <p>
  Every text (or source code) has a certain structure. If you have a structure, it
 means you have regions of logically separated text. Folding allows to "fold"
@@ -3624,9 +3666,9 @@ updating folds when it's not needed.
 :h folds
  </code>
 </p>
-<h4>
+<h2>
  Sessions?
-</h4>
+</h2>
 <p>
  If you save a
  <strong>
@@ -3724,9 +3766,9 @@ in the internal variable
 :h v:this_session
  </code>
 </p>
-<h4>
+<h2>
  Locality?
-</h4>
+</h2>
 <p>
  Many of the concepts mentioned above also have
  <em>
@@ -3810,12 +3852,12 @@ in the internal variable
  </a>
  .
 </p>
-<h2>
+<h1>
  Usage
-</h2>
-<h4>
+</h1>
+<h2>
  Getting help offline
-</h4>
+</h2>
 <p>
  Vim comes with great documentation in the form of single text files with a
 special layout. Vim uses a system based on tags for accessing certain parts of
@@ -3946,9 +3988,9 @@ navigate to an entry and hit
  for
 the whole truth.
 </p>
-<h4>
+<h2>
  Getting help offline (alternative)
-</h4>
+</h2>
 <p>
  This list was compiled by @chrisbra, one of the most active Vim developers, and
 posted to
@@ -3963,10 +4005,10 @@ posted to
 <hr/>
 <p>
  If you know what you are looking for, it is usually easier to search for it
-using the help system. Because the subjects follow a certain style guide.
+using the help system, because the subjects follow a certain style guide.
 </p>
 <p>
- Also the help has the advantage of belonging to your particular Vim version, so
+ Also, the help has the advantage of belonging to your particular Vim version, so
 that obsolete topics or topics that have been added later won't turn up.
 </p>
 <p>
@@ -4049,7 +4091,7 @@ e.g.
    <code>
     :h CTRL-A
    </code>
-   . In contrast
+   . In contrast,
    <code>
     :h c_CTRL-R
    </code>
@@ -4230,7 +4272,7 @@ friendly way. Start at
     :h usr_toc.txt
    </code>
    to find the table of content (as you
-might have guessed). Skimming over that help finding certain topics, .e.g
+might have guessed). Skimming over that help to find certain topics, .e.g
 you will find an entry "Digraphs" and "Entering special characters" in
 chapter 24 (so use
    <code>
@@ -4273,7 +4315,7 @@ usually start with ":l".
    <code>
     :h BufWinLeave
    </code>
-   talks about the BufWinLeave autocmd. Also
+   talks about the BufWinLeave autocmd. Also,
    <code>
     :h
 autocommands-events
@@ -4347,7 +4389,7 @@ ft-php-omni
  </li>
 </ol>
 <p>
- Also a link to the user documentation (which describes certain commands more
+ Also, a link to the user documentation (which describes certain commands more
 from a user perspective and less detailed) will be mentioned at the top of help
 pages if they are available. So
  <code>
@@ -4363,9 +4405,9 @@ pages if they are available. So
  </code>
  .
 </p>
-<h4>
+<h2>
  Getting help online
-</h4>
+</h2>
 <p>
  If you have an issue you can't resolve or are in need of general guidance, see
 the
@@ -4394,9 +4436,128 @@ Another great resource is using
  </a>
  mailing list.
 </p>
-<h4>
+<h2>
+ Autocmds in practice
+</h2>
+<p>
+ You can trigger any event right now:
+ <code>
+  :doautocmd BufRead
+ </code>
+ .
+</p>
+<h3>
+ User events
+</h3>
+<p>
+ Especially for plugins it's useful to create your own "User" events:
+</p>
+<p>
+ <code>
+  vim
+function! Chibby()
+  " A lot of stuff is happening here.
+  " And at last..
+  doautocmd User ChibbyExit
+endfunction
+ </code>
+</p>
+<p>
+ Now users of your plugin can execute anything when Chibby finishes running:
+</p>
+<p>
+ <code>
+  vim
+autocmd User CheebyExit call ChibbyCleanup()
+ </code>
+</p>
+<p>
+ By the way, if there's no "catching" :autocmd, :doautocmd will output a pesky
+"No matching autocommands" message. That's why many plugins use
+ <code>
+  silent
+doautocmd ...
+ </code>
+ instead. But this has the disadvantage, that you can't simply use
+ <code>
+  echo "foo"
+ </code>
+ in the :autocmd, you have to use
+ <code>
+  unsilent echo "foo"
+ </code>
+ instead..
+</p>
+<p>
+ That's why it's better to check if there even is a receiving autocmd and not
+bothering emitting the event otherwise:
+</p>
+<p>
+ <code>
+  vim
+if exists('#User#ChibbyExit')
+  doautocmd User ChibbyExit
+endif
+ </code>
+</p>
+<p>
+ Related:
+ <code>
+  :h User
+ </code>
+</p>
+<h3>
+ Nested autocmds
+</h3>
+<p>
+ By default, autocmds do not nest! If an autocmd executes a command, which in
+turn would usually trigger another event, it won't happen.
+</p>
+<p>
+ Let's say every time you start Vim, you want to automatically open your vimrc:
+</p>
+<p>
+ <code>
+  vim
+autocmd VimEnter * edit $MYVIMRC
+ </code>
+</p>
+<p>
+ When you now start Vim, it will open your vimrc, but the first thing you'll
+notice is that there won't be any highlighting although usually there would be.
+</p>
+<p>
+ The problem is that
+ <code>
+  :edit
+ </code>
+ in your non-nested autocmd won't trigger the
+"BufRead" event, so the filetype never gets set to "vim" and
+ <code>
+  $VIMRUNTIME/syntax/vim.vim
+ </code>
+ never sourced. See
+ <code>
+  :au BufRead *.vim
+ </code>
+ . Use this
+instead:
+</p>
+<p>
+ <code>
+  vim
+autocmd VimEnter * nested edit $MYVIMRC
+ </code>
+</p>
+<p>
+ Related:
+ <code>
+  :h autocmd-nested
+ </code>
+</p>
+<h2>
  Clipboard
-</h4>
+</h2>
 <p>
  Required
  <a href="#what-kind-of-vim-am-i-running">
@@ -4434,9 +4595,9 @@ with a Vim that doesn't have GUI support.
 time?)
  </a>
 </p>
-<h5>
+<h3>
  Clipboard usage (Windows, OSX)
-</h5>
+</h3>
 <p>
  Windows comes with a
  <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms649012(v=vs.85).aspx">
@@ -4553,9 +4714,9 @@ set guioptions+=a
 :h 'go_a'
  </code>
 </p>
-<h5>
+<h3>
  Clipboard usage (Linux, BSD, ...)
-</h5>
+</h3>
 <p>
  If your OS uses
  <a href="http://www.x.org/wiki">
@@ -4581,7 +4742,7 @@ buffers
   clipboard
  </em>
  as in copied text was
-actually hold by X and it was accessible by all ofter applications. This
+actually held by X and it was accessible by all ofter applications. This
 mechanism still exists in X, but its use is deprecated now and most software
 doesn't use it anymore.
 </p>
@@ -4647,7 +4808,7 @@ Program B: receives data from Program A and inserts it into the window
   NOTE
  </strong>
  : Selections (no, not even the CLIPBOARD selection) are never kept in
-the X server! Thus you lose the data copied with
+the X server! Thus, you lose the data copied with
  <code>
   ctrl+c
  </code>
@@ -4723,9 +4884,9 @@ your chosen X selection.
 :h clipboard-unnamedplus
  </code>
 </p>
-<h4>
+<h2>
  Restore cursor position when opening file
-</h4>
+</h2>
 <p>
  Without this, you will always be at line 1 when opening a file. With this, you
 will be at the position where you left off.
@@ -4758,9 +4919,9 @@ it was altered by another program).
  </code>
  .
 </p>
-<h4>
+<h2>
  Handling backup, swap, undo, and viminfo files
-</h4>
+</h2>
 <p>
  Depending on the options, Vim creates up to 4 kinds of working files.
 </p>
@@ -4772,7 +4933,7 @@ it was altered by another program).
 </p>
 <p>
  You can tell Vim to keep a backup of the original file before writing to it. By
-default Vim keeps a backup but immediately removes it when writing to the file
+default, Vim keeps a backup but immediately removes it when writing to the file
 was successful (
  <code>
   :set writebackup
@@ -4835,13 +4996,13 @@ noswapfile
  in your vimrc.
 </p>
 <p>
- By default the swap file is created in the same directory as the edited file and
-called something like
+ By default, the swap file is created in the same directory as the edited file
+and called something like
  <code>
   .file.swp
  </code>
- , updated either all 200 characters or when you
-haven't typed anything for 4 seconds, and deleted when you stop editing the
+ , updated either all 200 characters or when
+you haven't typed anything for 4 seconds, and deleted when you stop editing the
 file. You can change these numbers with
  <code>
   :h 'updatecount'
@@ -4921,7 +5082,7 @@ The viminfo file keeps histories (command line, search, input), registers,
 marks, buffer list, global variables etc.
 </p>
 <p>
- By default the viminfo is written to
+ By default, the viminfo is written to
  <code>
   ~/.viminfo
  </code>
@@ -4981,9 +5142,9 @@ file already exists, it probably means that someone else is editing the file at
 the moment. You lose this "feature" when you save your swap files in the home
 directory.
 </p>
-<h4>
+<h2>
  Editing remote files
-</h4>
+</h2>
 <p>
  Vim comes with the netrw plugin that enables editing remote files. Actually it
 transfers the remote file to a local temporary file via scp, opens a buffer
@@ -5060,9 +5221,9 @@ ssh'ing into a server and use whatever the admins want you to use.
  to
 mount a remote filesystem into your local filesystem.
 </p>
-<h4>
+<h2>
  Managing plugins
-</h4>
+</h2>
 <p>
  <a href="https://github.com/tpope/vim-pathogen">
   Pathogen
@@ -5081,9 +5242,9 @@ include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
 </p>
 <p>
- Real plugin managers expose commands that help you installing and updating
-plugins from within Vim. Hereinafter is a list of commonly used plugin managers
-in alphabetic sequence:
+ Real plugin managers expose commands that help you to install and update plugins
+from within Vim. Hereinafter is a list of commonly used plugin managers in
+alphabetic sequence:
 </p>
 <ul>
  <li>
@@ -5091,7 +5252,7 @@ in alphabetic sequence:
    neobundle
   </a>
   <sup>
-   &#9733 1918, pushed 12 days ago
+   &#9733 1918, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -5099,7 +5260,7 @@ in alphabetic sequence:
    plug
   </a>
   <sup>
-   &#9733 4336, pushed 4 days ago
+   &#9733 4336, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5107,7 +5268,7 @@ in alphabetic sequence:
    vim-addon-manager
   </a>
   <sup>
-   &#9733 501, pushed 72 days ago
+   &#9733 501, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -5115,20 +5276,20 @@ in alphabetic sequence:
    vundle
   </a>
   <sup>
-   &#9733 11432, pushed 7 days ago
+   &#9733 11432, pushed 132 days ago
   </sup>
  </li>
 </ul>
 <p>
  Plug is my favorite, but your mileage may vary.
 </p>
-<h4>
+<h2>
  Block insert
-</h4>
+</h2>
 <p>
  This is a technique to insert the same text on multiple consecutive lines at the
 same time. See this
- <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/media/block_insert.gif">
+ <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/contents/images/content-block_insert.gif">
   demo
  </a>
  .
@@ -5209,9 +5370,9 @@ but quickly becomes second nature.
  </a>
  .
 </p>
-<h4>
+<h2>
  Running external programs and using filters
-</h4>
+</h2>
 <p>
  Disclaimer: Vim is single-threaded, so running an external program in the
 foreground will block everything else. Sure, you can use one of Vim's
@@ -5326,9 +5487,9 @@ which is fine for scripts, but when doing it on the fly, I find it easier to use
 <pre><code>:h filter
 :h :read!
 </code></pre>
-<h4>
+<h2>
  Cscope
-</h4>
+</h2>
 <p>
  <a href="http://cscope.sourceforge.net/">
   Cscope
@@ -5376,9 +5537,9 @@ knows much more about your data:
   What files include this header file?
  </li>
 </ul>
-<h5>
+<h3>
  1. Build the database
-</h5>
+</h3>
 <p>
  Do this in the root of your project:
 </p>
@@ -5415,9 +5576,9 @@ $ find . -name "*.java" > cscope.files
 $ cscope -bq
  </code>
 </p>
-<h5>
+<h3>
  2. Add the database
-</h5>
+</h3>
 <p>
  Open a connection to your freshly built database:
 </p>
@@ -5439,9 +5600,9 @@ $ cscope -bq
 <p>
  (Yes, you can add multiple connections.)
 </p>
-<h5>
+<h3>
  3. Query the database
-</h5>
+</h3>
 <p>
  <code>
   vim
@@ -5554,9 +5715,9 @@ convenient if you already have tag-related mappings.
   :h cscope
  </code>
 </p>
-<h4>
+<h2>
  MatchIt
-</h4>
+</h2>
 <p>
  Since Vim is written in C, a lot of features assume C-like syntax. By default,
 if your cursor is on
@@ -5656,12 +5817,12 @@ autocmd FileType python let b:match_words = '\<if\>:\<elif\>:\<else\>'
 :h b:match_words
  </code>
 </p>
-<h2>
+<h1>
  Tips
-</h2>
-<h4>
+</h1>
+<h2>
  Saner behavior of n and N
-</h4>
+</h2>
 <p>
  The direction of
  <code>
@@ -5700,9 +5861,9 @@ nnoremap <expr> n  'Nn'[v:searchforward]
 nnoremap <expr> N  'nN'[v:searchforward]
  </code>
 </p>
-<h4>
+<h2>
  Saner command-line history
-</h4>
+</h2>
 <p>
  If you're anything like me, you're used to going to next and previous items via
  <code>
@@ -5736,7 +5897,7 @@ command-line whose beginning matches the current command-line. E.g.
  .
 </p>
 <p>
- Of course I don't want you to reach to the arrow keys, just map it instead:
+ Of course, I don't want you to reach to the arrow keys, just map it instead:
 </p>
 <p>
  <code>
@@ -5748,11 +5909,11 @@ cnoremap <c-p>  <up>
 <p>
  I depend on this behaviour several times a day.
 </p>
-<h4>
+<h2>
  Saner CTRL-L
-</h4>
+</h2>
 <p>
- By default
+ By default,
  <code>
   <c-l>
  </code>
@@ -5779,9 +5940,9 @@ diff mode:
 nnoremap <leader>l :nohlsearch<cr>:diffupdate<cr>:syntax sync fromstart<cr><c-l>
  </code>
 </p>
-<h4>
+<h2>
  Disable audible and visual bells
-</h4>
+</h2>
 <p>
  <code>
   vim
@@ -5797,9 +5958,9 @@ set t_vb=
  </a>
  .
 </p>
-<h4>
+<h2>
  Quickly move current line
-</h4>
+</h2>
 <p>
  Sometimes I need a quick way to move the current line above or below:
 </p>
@@ -5817,9 +5978,9 @@ nnoremap ]e  :<c-u>execute 'move +'. v:count1<cr>
  </code>
  moves the current line 2 lines below.
 </p>
-<h4>
+<h2>
  Quickly add empty lines
-</h4>
+</h2>
 <p>
  <code>
   vim
@@ -5834,9 +5995,9 @@ nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
  </code>
  inserts 5 blank lines above the current line.
 </p>
-<h4>
+<h2>
  Quickly edit your macros
-</h4>
+</h2>
 <p>
  This is a real gem! The mapping takes a register (or
  <code>
@@ -5886,9 +6047,9 @@ literally. See
  </code>
  .
 </p>
-<h4>
+<h2>
  Quickly jump to header or source file
-</h4>
+</h2>
 <p>
  This technique can probably be applied to many filetypes. It sets
  <em>
@@ -5935,9 +6096,9 @@ viminfo?
  </code>
  .
 </p>
-<h4>
+<h2>
  Quickly change font size in GUI
-</h4>
+</h2>
 <p>
  I think this was taken from tpope's config:
 </p>
@@ -5948,12 +6109,12 @@ command! Bigger  :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)+1'
 command! Smaller :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)-1', '')
  </code>
 </p>
-<h4>
+<h2>
  Change cursor style dependent on mode
-</h4>
+</h2>
 <p>
  I like to use a block cursor in normal mode, i-beam cursor in insert mode, and
-underline cursor in replace mode. Also when using tmux in the middle.
+underline cursor in replace mode.
 </p>
 <p>
  <code>
@@ -5976,7 +6137,12 @@ endif
 sequence
  </a>
  ) when entering/leaving
-insert mode. The underlying terminal will process and evaluate it.
+insert mode. The underlying terminal, or programs like
+ <a href="https://tmux.github.io">
+  tmux
+ </a>
+ that sit between Vim and the terminal, will
+process and evaluate it.
 </p>
 <p>
  There's one drawback though: there are many terminal emulator implementations
@@ -5987,9 +6153,9 @@ even support different cursor styles. Check the documentation.
 <p>
  The example above works with iTerm2.
 </p>
-<h4>
+<h2>
  Don't lose selection when shifting sidewards
-</h4>
+</h2>
 <p>
  If you select one or more lines, you can use
  <code>
@@ -6038,9 +6204,9 @@ xnoremap >  >gv
  </code>
  , which repeats the last change.
 </p>
-<h4>
+<h2>
  Reload a file on saving
-</h4>
+</h2>
 <p>
  Using
  <a href="#autocmds">
@@ -6057,9 +6223,9 @@ autocmd BufWritePost $MYVIMRC source $MYVIMRC
 autocmd BufWritePost ~/.Xdefaults call system('xrdb ~/.Xdefaults')
  </code>
 </p>
-<h4>
+<h2>
  Smarter cursorline
-</h4>
+</h2>
 <p>
  I love the cursorline, but I only want to use it in the current window and not
 when being in insert mode:
@@ -6067,15 +6233,13 @@ when being in insert mode:
 <p>
  <code>
   vim
-autocmd WinEnter    * set cursorline
-autocmd WinLeave    * set nocursorline
-autocmd InsertEnter * set nocursorline
-autocmd InsertLeave * set cursorline
+autocmd InsertLeave,WinEnter * set cursorline
+autocmd InsertEnter,WinLeave * set nocursorline
  </code>
 </p>
-<h4>
+<h2>
  Faster keyword completion
-</h4>
+</h2>
 <p>
  The keyword completion (
  <code>
@@ -6090,7 +6254,7 @@ the
  <code>
   'complete'
  </code>
- option. By default this also includes tags (which can be
+ option. By default, this also includes tags (which can be
 annoying) and scanning all included files (which can be very slow). If you can
 live without these things, disable them:
 </p>
@@ -6102,8 +6266,34 @@ set complete-=t   " disable searching tags
  </code>
 </p>
 <h2>
- Commands
+ Cosmetic changes to colorschemes
 </h2>
+<p>
+ Always use a dark gray statusline, no matter what colorscheme is chosen:
+</p>
+<p>
+ <code>
+  vim
+autocmd ColorScheme * highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
+ </code>
+</p>
+<p>
+ The same, but only for the "lucius" colorscheme (check
+ <code>
+  :echo
+color_name
+ </code>
+ which should be set by all valid colorschemes):
+</p>
+<p>
+ <code>
+  vim
+autocmd ColorScheme lucius highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
+ </code>
+</p>
+<h1>
+ Commands
+</h1>
 <p>
  Useful commands that are good to know. Use
  <code>
@@ -6116,9 +6306,9 @@ about them, e.g.
  </code>
  .
 </p>
-<h4>
+<h2>
  :global
-</h4>
+</h2>
 <p>
  Execute a command on all matching lines. E.g.
  <code>
@@ -6171,9 +6361,9 @@ next blank line (matched by the regular expression
 :,/^$/g/foo/d
  </code>
 </p>
-<h4>
+<h2>
  :normal and :execute
-</h4>
+</h2>
 <p>
  These commands are commonly used in Vim scripts.
 </p>
@@ -6226,9 +6416,9 @@ down "n" lines:
 :execute 'normal!' n . 'j'
  </code>
 </p>
-<h4>
+<h2>
  :redir
-</h4>
+</h2>
 <p>
  Many commands print messages and
  <code>
@@ -6258,12 +6448,12 @@ can redirect to files,
   :h :redir
  </code>
 </p>
-<h2>
+<h1>
  Debugging
-</h2>
-<h4>
+</h1>
+<h2>
  General tips
-</h4>
+</h2>
 <p>
  If you encounter a strange behaviour, try reproducing it like this:
 </p>
@@ -6312,7 +6502,7 @@ find the culprit line. Due to the nature of binary division, it won't take many
 steps.
 </p>
 <p>
- In practice it works like this: Put the
+ In practice, it works like this: Put the
  <code>
   :finish
  </code>
@@ -6327,7 +6517,7 @@ the active upper half. Move the
   that
  </em>
  half.
-Otherwise the issue is in the inactive lower half. Move the
+Otherwise, the issue is in the inactive lower half. Move the
  <code>
   :finish
  </code>
@@ -6338,9 +6528,83 @@ middle of
  </em>
  half. And so on.
 </p>
-<h4>
+<h2>
+ Verbosity
+</h2>
+<p>
+ Another useful way for observing what Vim is currently doing is increasing the
+verbosity level. Currently Vim supports 9 different levels. See
+ <code>
+  :h 'verbose'
+ </code>
+ for the full list.
+</p>
+<p>
+ <code>
+  vim
+:e /tmp/foo
+:set verbose=2
+:w
+:set verbose=0
+ </code>
+</p>
+<p>
+ This would show all the files that get sourced, e.g. the undo file or various
+plugins that act on saving.
+</p>
+<p>
+ If you only want increase verbosity for a single command, there's also
+ <code>
+  :verbose
+ </code>
+ , which simply gets put in front of any other command. It takes the
+verbosity level as count and defaults to 1:
+</p>
+<p>
+ <code>
+  vim
+:verb set verbose
+"  verbose=1
+:10verb set verbose
+"  verbose=10
+ </code>
+</p>
+<p>
+ It's very often used with its default verbosity level 1 to show where an option
+was set last:
+</p>
+<p>
+ <code>
+  vim
+:verb set ai?
+"      Last set from ~/.vim/vimrc
+ </code>
+</p>
+<p>
+ Naturally, the higher the verbosity level the more overwhelming the output. But
+fear no more, you can simply redirect the output to a file:
+</p>
+<p>
+ <code>
+  vim
+:set verbosefile=/tmp/foo | 15verbose echo "foo" | vsplit /tmp/foo
+ </code>
+</p>
+<p>
+ You can also enable verbosity at starting time, with the
+ <code>
+  -V
+ </code>
+ option. It
+defaults to verbosity level 10. E.g.
+ <code>
+  vim -V5
+ </code>
+ .
+</p>
+<h2>
  Profiling startup time
-</h4>
+</h2>
 <p>
  Vim startup feels slow? Time to crunch some numbers:
 </p>
@@ -6354,9 +6618,9 @@ middle of
 there is a big jump in time between two lines, the second line is either a very
 big file or a file with faulty VimL code that is worth investigating.
 </p>
-<h4>
+<h2>
  Profiling at runtime
-</h4>
+</h2>
 <p>
  Required
  <a href="#what-kind-of-vim-am-i-running">
@@ -6423,74 +6687,12 @@ two different sections
   FUNCTIONS SORTED ON
 SELF TIME
  </code>
- that are worth gold. On a quick glance you can see, if a certain
+ that are worth gold. At a quick glance you can see, if a certain
 function is taking too long.
 </p>
-<h4>
- Verbosity
-</h4>
-<p>
- Another useful way for observing what Vim is currently doing is increasing the
-verbosity level. Currently Vim supports 9 different levels. See
- <code>
-  :h 'verbose'
- </code>
- for the full list.
-</p>
-<p>
- <code>
-  vim
-:e /tmp/foo
-:set verbose=2
-:w
-:set verbose=0
- </code>
-</p>
-<p>
- This would show all the files that get sourced, e.g. the undo file or various
-plugins that act on saving.
-</p>
-<p>
- If you only want increase verbosity for a single command, there's also
- <code>
-  :verbose
- </code>
- , which simply gets put in front of any other command. It takes the
-verbosity level as count and defaults to 1:
-</p>
-<p>
- <code>
-  vim
-:verb set verbose
-"  verbose=1
-:10verb set verbose
-"  verbose=10
- </code>
-</p>
-<p>
- It's very often used with its default verbosity level 1 to show where an option
-was set last:
-</p>
-<p>
- <code>
-  vim
-:verb set ai?
-"      Last set from ~/.vim/vimrc
- </code>
-</p>
-<p>
- Naturally, the higher the verbosity level the more overwhelming the output. But
-fear no more, you can simply redirect the output to a file:
-</p>
-<p>
- <code>
-  vim
-:set verbosefile=/tmp/foo | 15verbose echo "foo" | vsplit /tmp/foo
- </code>
-</p>
-<h4>
+<h2>
  Debugging Vim scripts
-</h4>
+</h2>
 <p>
  If you ever used a command-line debugger before,
  <code>
@@ -6514,7 +6716,7 @@ line will be displayed.
   :h >cont
  </code>
  and below for the 6 available debugger commands and note that,
-like in gdb and similar debuggers, you can also use their short forms, that is
+like in gdb and similar debuggers, you can also use their short forms:
  <code>
   c
  </code>
@@ -6630,9 +6832,9 @@ this case.
  </a>
  option.
 </p>
-<h4>
+<h2>
  Debugging syntax files
-</h4>
+</h2>
 <p>
  Syntax files are often the cause for slowdowns due to wrong and/or complex
 regular expressions. If the
@@ -6669,12 +6871,12 @@ even match.
  </code>
  .
 </p>
-<h2>
+<h1>
  Miscellaneous
-</h2>
-<h4>
+</h1>
+<h2>
  Additional resources
-</h4>
+</h2>
 <p>
  | Resource | Description |
 |----------|-------------|
@@ -6719,9 +6921,9 @@ even match.
  </a>
  | Concise, informative and correct. A real gem. |
 </p>
-<h4>
+<h2>
  Vim distributions
-</h4>
+</h2>
 <p>
  Vim distributions are Vim + custom settings + custom plugins from certain
 authors and are therefore very opinionated.
@@ -6733,7 +6935,7 @@ all.) It all goes good until an issue appears. Now where is the problem? The
 beginner doesn't know what to do and asks for advice on the internet. After long
 back and forth they figure out that the problem was a weird mapping provided by
 the distro. But the beginner thought it was a default Vim mapping... Time was
-wasted, everyone is pissed.
+wasted, everyone got annoyed.
 </p>
 <p>
  I don't have problems with distributions per se, but please, if you don't
@@ -6769,13 +6971,13 @@ looking at some distributions:
    spf13
   </a>
   <sup>
-   &#9733 7945, pushed 9 days ago
+   &#9733 7945, pushed 134 days ago
   </sup>
  </li>
 </ul>
-<h4>
+<h2>
  Standard plugins
-</h4>
+</h2>
 <p>
  Surprising to many people, Vim comes with a handful of plugins on its own that
 all get loaded by default. Check
@@ -6893,13 +7095,13 @@ bails out. No further code (mappings, commands, logic) will be processed.
  </code>
  |
 </p>
-<h4>
+<h2>
  Map CapsLock to Control
-</h4>
+</h2>
 <p>
  CapsLock belongs to the most useless keys on your keyboard, but it's much easier
 to reach than the Control key, since it lies on your
- <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/media/homerow.png">
+ <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/contents/images/content-homerow.png">
   home
 row
  </a>
@@ -6972,9 +7174,9 @@ add Control = Control_L
  </a>
  .
 </p>
-<h4>
+<h2>
  Easter eggs
-</h4>
+</h2>
 <p>
  | Command   | Message |
 |-----------|---------|
@@ -7064,12 +7266,12 @@ add Control = Control_L
  </code>
  | Try it out yourself. ;-) Added in 7.4.1005. |
 </p>
-<h4>
+<h2>
  Standard plugins
-</h4>
-<h4>
+</h2>
+<h2>
  Why hjkl for navigation?
-</h4>
+</h2>
 <p>
  When
  <a href="https://en.wikipedia.org/wiki/Bill_Joy">
@@ -7088,7 +7290,7 @@ but used, you might already guessed it, hjkl instead.
 </p>
 <p>
  Keyboard layout:
- <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/media/adm-3a-layout.jpg">
+ <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/contents/images/content-adm-3a-layout.jpg">
   click
  </a>
 </p>
@@ -7099,12 +7301,12 @@ but used, you might already guessed it, hjkl instead.
  </code>
  is used to denote the home directory on Unix systems.
 </p>
+<h1>
+ Common problems
+</h1>
 <h2>
- Quirks
-</h2>
-<h4>
  Editing small files is slow
-</h4>
+</h2>
 <p>
  There are two things which can have a huge impact on performance:
 </p>
@@ -7197,9 +7399,9 @@ people to have slowdowns in the past. (Also see
  : You only need to do this if you experience actual performance
 drawbacks. In most cases using the things mentioned above is absolutely fine.
 </p>
-<h4>
+<h2>
  Editing huge files is slow
-</h4>
+</h2>
 <p>
  The biggest issue with big files is, that Vim reads the whole file at once. This
 is done due to how buffers are represented internally.
@@ -7238,39 +7440,9 @@ not to use swapfiles and viminfo files to avoid long delays on writing:
  Putting it in a nutshell, try to avoid using Vim when intending to write really
 huge files. :\
 </p>
-<h4>
- Newline used for NUL
-</h4>
-<p>
- NUL characters (
- <code>
-  \0
- </code>
- ) in a file, are stored as newline (
- <code>
-  \n
- </code>
- ) in memory and
-displayed in a buffer as
- <code>
-  ^@
- </code>
- .
-</p>
-<p>
- See
- <code>
-  man 7 ascii
- </code>
- and
- <code>
-  :h NL-used-for-Nul
- </code>
- for more information.
-</p>
-<h4>
+<h2>
  Bracketed paste (or why do I have to set 'paste' all the time?)
-</h4>
+</h2>
 <p>
  Bracketed paste mode allows terminal emulators to distinguish between typed text
 and pasted text.
@@ -7295,7 +7467,7 @@ up?
  etc.
 because then you're just throwing text at the terminal emulator. Vim doesn't
 know that you just pasted the text, it thinks you're an extremely fast typist.
-Accordingly it tries to indent the lines and fails.
+Accordingly, it tries to indent the lines and fails.
 </p>
 <p>
  Obviously this is not an issue, if you paste using Vim's registers, e.g.
@@ -7347,9 +7519,9 @@ plugin that does it for you:
  : Neovim tries to make all of this much more seamless and sets
 bracketed paste mode automatically if the terminal emulator supports it.
 </p>
-<h4>
+<h2>
  Delays when using escape key in terminal
-</h4>
+</h2>
 <p>
  If you live in the command-line, you probably use a so-called
  <em>
@@ -7465,18 +7637,18 @@ character.
  character and a proper escape sequence.
 </p>
 <p>
- By default Vim uses
+ By default, Vim uses
  <code>
   :set timeout timeoutlen=1000
  </code>
- , so it delays on ambiguity of
-mappings
+ , so it delays on ambiguity
+of mappings
  <em>
   and
  </em>
- key codes by 1 second. This is a sane value for mappings, but you
-can define the key code timeout on its own which is the most common workaround
-for this entire issue:
+ key codes by 1 second. This is a sane value for mappings, but
+you can define the key code timeout on its own which is the most common
+workaround for this entire issue:
 </p>
 <p>
  <code>
@@ -7510,8 +7682,97 @@ set -sg escape-time 0
  </code>
 </p>
 <h2>
- List of colorschemes
+ Function search undo
 </h2>
+<ul>
+ <li>
+  A search pattern in a command (
+  <code>
+   /
+  </code>
+  ,
+  <code>
+   :substitute
+  </code>
+  , ...) changes the "last used
+search pattern". (It's saved in the
+  <code>
+   /
+  </code>
+  register; print it with
+  <code>
+   :echo @/
+  </code>
+  ).
+ </li>
+ <li>
+  A simple text change can be redone with
+  <code>
+   .
+  </code>
+  . (It's saved in the
+  <code>
+   .
+  </code>
+  register;
+print it with
+  <code>
+   :echo @.
+  </code>
+  ).
+ </li>
+</ul>
+<p>
+ Both things are
+ <em>
+  not
+ </em>
+ the case, if you do them from a function, though! Thus you
+can't easily highlight words from a function or redo the text changes made by
+it.
+</p>
+<p>
+ Related:
+ <code>
+  :h function-search-undo
+ </code>
+</p>
+<h1>
+ Technical quirks
+</h1>
+<h2>
+ Newline used for NUL
+</h2>
+<p>
+ NUL characters (
+ <code>
+  \0
+ </code>
+ ) in a file, are stored as newline (
+ <code>
+  \n
+ </code>
+ ) in memory and
+displayed in a buffer as
+ <code>
+  ^@
+ </code>
+ .
+</p>
+<p>
+ See
+ <code>
+  man 7 ascii
+ </code>
+ and
+ <code>
+  :h NL-used-for-Nul
+ </code>
+ for more information.
+</p>
+<h1>
+ List of colorschemes
+</h1>
 <p>
  Here's a list of commonly used colorschemes:
 </p>
@@ -7521,7 +7782,7 @@ set -sg escape-time 0
    acme-colors
   </a>
   <sup>
-   &#9733 8, pushed 263 days ago
+   &#9733 8, pushed 387 days ago
   </sup>
  </li>
  <li>
@@ -7529,7 +7790,7 @@ set -sg escape-time 0
    base16
   </a>
   <sup>
-   &#9733 754, pushed 77 days ago
+   &#9733 754, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -7537,7 +7798,7 @@ set -sg escape-time 0
    gotham
   </a>
   <sup>
-   &#9733 523, pushed 13 days ago
+   &#9733 523, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -7545,7 +7806,7 @@ set -sg escape-time 0
    gruvbox
   </a>
   <sup>
-   &#9733 1573, pushed 13 days ago
+   &#9733 1573, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -7553,7 +7814,7 @@ set -sg escape-time 0
    janah
   </a>
   <sup>
-   &#9733 40, pushed 78 days ago
+   &#9733 40, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -7561,7 +7822,7 @@ set -sg escape-time 0
    jellybeans
   </a>
   <sup>
-   &#9733 908, pushed 43 days ago
+   &#9733 908, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -7569,7 +7830,7 @@ set -sg escape-time 0
    lucius
   </a>
   <sup>
-   &#9733 190, pushed 302 days ago
+   &#9733 190, pushed 426 days ago
   </sup>
  </li>
  <li>
@@ -7577,7 +7838,7 @@ set -sg escape-time 0
    molokai
   </a>
   <sup>
-   &#9733 1777, pushed 174 days ago
+   &#9733 1777, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -7585,7 +7846,7 @@ set -sg escape-time 0
    railscasts
   </a>
   <sup>
-   &#9733 206, pushed 336 days ago
+   &#9733 206, pushed 461 days ago
   </sup>
  </li>
  <li>
@@ -7593,7 +7854,7 @@ set -sg escape-time 0
    seoul256
   </a>
   <sup>
-   &#9733 484, pushed 36 days ago
+   &#9733 484, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -7606,7 +7867,7 @@ set -sg escape-time 0
   </a>
   )
   <sup>
-   &#9733 3824, pushed 11 days ago
+   &#9733 3824, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -7614,7 +7875,7 @@ set -sg escape-time 0
    tomorrow
   </a>
   <sup>
-   &#9733 205, pushed 232 days ago
+   &#9733 205, pushed 357 days ago
   </sup>
  </li>
  <li>
@@ -7622,7 +7883,7 @@ set -sg escape-time 0
    vividchalk
   </a>
   <sup>
-   &#9733 223, pushed 1522 days ago
+   &#9733 223, pushed 1647 days ago
   </sup>
  </li>
  <li>
@@ -7630,7 +7891,12 @@ set -sg escape-time 0
    yowish
   </a>
   <sup>
-   &#9733 59, pushed 7 days ago
+   &#9733 59, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jnurmine/Zenburn">
+   zenburn
+  </a>
  </li>
 </ul>

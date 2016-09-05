@@ -45,12 +45,12 @@
     </a>
    </li>
    <li>
-    <a href="#data_management">
+    <a href="#data-management">
      Data Management
     </a>
    </li>
    <li>
-    <a href="#workflow_lifecycle_and_Governance">
+    <a href="#workflow-lifecycle-and-governance">
      Workflow, Lifecycle and Governance
     </a>
    </li>
@@ -75,7 +75,7 @@
     </a>
    </li>
    <li>
-    <a href="#distributed_computing_and_programming">
+    <a href="#distributed-computing-and-programming">
      Distributed Computing and Programming
     </a>
    </li>
@@ -105,7 +105,7 @@
     </a>
    </li>
    <li>
-    <a href="#machine_learning_and_big_data_analytics">
+    <a href="#machine-learning-and-big-data-analytics">
      Machine learning and Big Data analytics
     </a>
    </li>
@@ -137,8 +137,8 @@
     </a>
    </li>
    <li>
-    <a href="#hadoop & big data events">
-     Hadoop & Big Data Events
+    <a href="#hadoop-and-big-data-events">
+     Hadoop and Big Data Events
     </a>
    </li>
   </ul>
@@ -183,7 +183,7 @@
   </a>
   - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
   <sup>
-   &#9733 701, pushed 3 days ago
+   &#9733 701, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -192,7 +192,7 @@
   </a>
   - Python module that allows you to easily write and run Hadoop programs.
   <sup>
-   &#9733 966, pushed 13 days ago
+   &#9733 966, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -201,7 +201,7 @@
   </a>
   - Python MapReduce library written in Cython.
   <sup>
-   &#9733 224, pushed 116 days ago
+   &#9733 224, pushed 240 days ago
   </sup>
  </li>
  <li>
@@ -222,7 +222,7 @@
   </a>
   - HDFS-DU is an interactive visualization of the Hadoop distributed file system.
   <sup>
-   &#9733 139, pushed 1365 days ago
+   &#9733 139, pushed 1490 days ago
   </sup>
  </li>
  <li>
@@ -231,7 +231,7 @@
   </a>
   - Hadoop log aggregator and dashboard
   <sup>
-   &#9733 171, pushed 917 days ago
+   &#9733 171, pushed 1041 days ago
   </sup>
  </li>
  <li>
@@ -245,7 +245,7 @@
   </a>
   - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
   <sup>
-   &#9733 462, pushed 6 days ago
+   &#9733 462, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -260,7 +260,7 @@
   </a>
   - Go-based toolkit for ETL and feature extraction on Hadoop
   <sup>
-   &#9733 130, pushed 531 days ago
+   &#9733 130, pushed 655 days ago
   </sup>
  </li>
  <li>
@@ -292,7 +292,7 @@
   </a>
   - Running MPICH2 on Yarn
   <sup>
-   &#9733 77, pushed 356 days ago
+   &#9733 77, pushed 481 days ago
   </sup>
  </li>
 </ul>
@@ -323,7 +323,7 @@
   </a>
   - A developer-friendly Python library to interact with Apache HBase.
   <sup>
-   &#9733 242, pushed 31 days ago
+   &#9733 242, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -332,7 +332,7 @@
   </a>
   - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
   <sup>
-   &#9733 133, pushed 281 days ago
+   &#9733 133, pushed 406 days ago
   </sup>
  </li>
  <li>
@@ -341,7 +341,7 @@
   </a>
   - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
   <sup>
-   &#9733 122, pushed 33 days ago
+   &#9733 122, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -350,7 +350,7 @@
   </a>
   - Secondary Index for HBase
   <sup>
-   &#9733 335, pushed 484 days ago
+   &#9733 335, pushed 609 days ago
   </sup>
  </li>
  <li>
@@ -384,6 +384,7 @@
   <a href="http://hive.apache.org">
    Apache Hive
   </a>
+  - The Apache Hive data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
  </li>
  <li>
   <a href="http://phoenix.apache.org">
@@ -392,10 +393,10 @@
   A SQL skin over HBase supporting secondary indices
  </li>
  <li>
-  <a href="http://pivotal.io/big-data/pivotal-hdb">
-   Pivotal HAWQ
+  <a href="http://hawq.incubator.apache.org/">
+   Apache HAWQ (incubating)
   </a>
-  - Parallel Postgres on Hadoop
+  - Apache HAWQ is a Hadoop native SQL query engine that combines the key technological advantages of MPP database with the scalability and convenience of Hadoop
  </li>
  <li>
   <a href="http://www.cascading.org/projects/lingual/">
@@ -421,8 +422,14 @@
   - Data warehouse system for Apache Hadoop
  </li>
  <li>
-  <a href="http://incubator.apache.org/">
+  <a href="https://drill.apache.org/">
    Apache Drill
+  </a>
+  - Schema-free SQL Query Engine
+ </li>
+ <li>
+  <a href="http://trafodion.apache.org/">
+   Apache Trafodion
   </a>
  </li>
 </ul>
@@ -471,13 +478,10 @@
   - A dataflow system
  </li>
  <li>
-  <a href="https://github.com/airbnb/airflow">
-   AirFlow
+  <a href="https://github.com/apache/incubator-airflow">
+   Apache AirFlow
   </a>
-  - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
-  <sup>
-   &#9733 2594, pushed 2 days ago
-  </sup>
+  - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
  </li>
  <li>
   <a href="http://luigi.readthedocs.org/en/latest/">
@@ -502,7 +506,7 @@
   </a>
   - Netflix's distributed Data Pipeline
   <sup>
-   &#9733 503, pushed 144 days ago
+   &#9733 503, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -523,7 +527,7 @@
   </a>
   - Universal data ingestion framework for Hadoop
   <sup>
-   &#9733 545, pushed 1 days ago
+   &#9733 545, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -549,7 +553,7 @@
   </a>
   - Machine learning and natural language processing with Apache Pig
   <sup>
-   &#9733 51, pushed 868 days ago
+   &#9733 51, pushed 993 days ago
   </sup>
  </li>
  <li>
@@ -558,7 +562,7 @@
   </a>
   - Open Source Big Data Security Analytics
   <sup>
-   &#9733 238, pushed 56 days ago
+   &#9733 238, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -567,7 +571,7 @@
   </a>
   - Mozilla's utility library for Hadoop, HBase, Pig, etc.
   <sup>
-   &#9733 72, pushed 764 days ago
+   &#9733 72, pushed 889 days ago
   </sup>
  </li>
  <li>
@@ -585,7 +589,7 @@
    Introducing Lipstick on A(pache) Pig
   </a>
   <sup>
-   &#9733 359, pushed 144 days ago
+   &#9733 359, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -594,7 +598,7 @@
   </a>
   - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
   <sup>
-   &#9733 419, pushed 8 days ago
+   &#9733 419, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -614,7 +618,7 @@
   </a>
   - Native go clients for Apache Hadoop YARN.
   <sup>
-   &#9733 245, pushed 320 days ago
+   &#9733 245, pushed 445 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +639,7 @@
   </a>
   - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
   <sup>
-   &#9733 44, pushed 48 days ago
+   &#9733 44, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -655,7 +659,7 @@
   </a>
   - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
   <sup>
-   &#9733 962, pushed 29 days ago
+   &#9733 962, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -668,7 +672,7 @@
    hdfs - A native go client for HDFS
   </a>
   <sup>
-   &#9733 204, pushed 22 days ago
+   &#9733 204, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -676,6 +680,9 @@
    Oozie Eclipse Plugin
   </a>
   - A graphical editor for editing Apache Oozie workflows inside Eclipse.
+ </li>
+ <li>
+  snakebite
  </li>
 </ul>
 <h2>
@@ -780,7 +787,7 @@
   </a>
   - A big data cluster management tool that creates and manages clusters of different technologies.
   <sup>
-   &#9733 19, pushed 379 days ago
+   &#9733 19, pushed 504 days ago
   </sup>
  </li>
  <li>
@@ -801,7 +808,7 @@
   </a>
   - Hadoop Ecosystem Builder
   <sup>
-   &#9733 27, pushed 223 days ago
+   &#9733 27, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -822,7 +829,7 @@
   </a>
   - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
   <sup>
-   &#9733 122, pushed 144 days ago
+   &#9733 122, pushed 268 days ago
   </sup>
  </li>
 </ul>
@@ -852,7 +859,7 @@
   </a>
   - Kibana port for Apache Solr
   <sup>
-   &#9733 310, pushed 5 days ago
+   &#9733 310, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -904,7 +911,7 @@
    HiBench
   </a>
   <sup>
-   &#9733 358, pushed 13 days ago
+   &#9733 358, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -912,7 +919,7 @@
    Big-Bench
   </a>
   <sup>
-   &#9733 30, pushed 61 days ago
+   &#9733 30, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +927,7 @@
    hive-benchmarks
   </a>
   <sup>
-   &#9733 2, pushed 695 days ago
+   &#9733 2, pushed 819 days ago
   </sup>
  </li>
  <li>
@@ -929,7 +936,7 @@
   </a>
   - Testbench for experimenting with Apache Hive at any data scale.
   <sup>
-   &#9733 32, pushed 35 days ago
+   &#9733 32, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -938,7 +945,7 @@
   </a>
   - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
   <sup>
-   &#9733 1179, pushed 2 days ago
+   &#9733 1179, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -957,7 +964,7 @@
   </a>
   - Lambda architecture on Spark, Kafka for real-time large scale machine learning
   <sup>
-   &#9733 777, pushed 9 days ago
+   &#9733 777, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -984,13 +991,19 @@
   </a>
   RHive, for launching Hive queries from R
   <sup>
-   &#9733 108, pushed 275 days ago
+   &#9733 108, pushed 399 days ago
   </sup>
  </li>
  <li>
   <a href="http://lens.apache.org/">
    Apache Lens
   </a>
+ </li>
+ <li>
+  <a href="https://singa.incubator.apache.org/">
+   Apache SINGA (incubating)
+  </a>
+  - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
  </li>
 </ul>
 <h2>
@@ -1139,7 +1152,7 @@
       </a>
       - Clojure library for interacting with Hive via Thrift
       <sup>
-       &#9733 4, pushed 1495 days ago
+       &#9733 4, pushed 1620 days ago
       </sup>
      </li>
      <li>
@@ -1157,7 +1170,7 @@
       </a>
       - Python interface to Hive and Presto
       <sup>
-       &#9733 179, pushed 22 days ago
+       &#9733 179, pushed 146 days ago
       </sup>
      </li>
      <li>
@@ -1174,7 +1187,7 @@
       </a>
       - An Open Source unit test framework for hadoop hive queries based on JUnit4
       <sup>
-       &#9733 57, pushed 6 days ago
+       &#9733 57, pushed 131 days ago
       </sup>
      </li>
      <li>
@@ -1183,7 +1196,7 @@
       </a>
       - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
       <sup>
-       &#9733 46, pushed 186 days ago
+       &#9733 46, pushed 311 days ago
       </sup>
      </li>
      <li>
@@ -1192,14 +1205,14 @@
       </a>
       - Unit test framework for hive and hive-service
       <sup>
-       &#9733 55, pushed 581 days ago
+       &#9733 55, pushed 706 days ago
       </sup>
      </li>
     </ul>
    </li>
   </ul>
   <sup>
-   &#9733 98, pushed 23 days ago
+   &#9733 98, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1215,7 +1228,7 @@
      Flume HornetQ Channel
     </a>
     <sup>
-     &#9733 0, pushed 1334 days ago
+     &#9733 0, pushed 1458 days ago
     </sup>
    </li>
    <li>
@@ -1223,7 +1236,7 @@
      Flume MessagePack Source
     </a>
     <sup>
-     &#9733 0, pushed 1086 days ago
+     &#9733 0, pushed 1211 days ago
     </sup>
    </li>
    <li>
@@ -1231,7 +1244,7 @@
      Flume RabbitMQ source and sink
     </a>
     <sup>
-     &#9733 40, pushed 61 days ago
+     &#9733 40, pushed 186 days ago
     </sup>
    </li>
    <li>
@@ -1239,7 +1252,7 @@
      Flume UDP Source
     </a>
     <sup>
-     &#9733 5, pushed 749 days ago
+     &#9733 5, pushed 873 days ago
     </sup>
    </li>
    <li>
@@ -1248,7 +1261,7 @@
     </a>
     - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
     <sup>
-     &#9733 111, pushed 20 days ago
+     &#9733 111, pushed 145 days ago
     </sup>
    </li>
    <li>
@@ -1256,7 +1269,7 @@
      Flume Custom Serializers
     </a>
     <sup>
-     &#9733 2, pushed 1135 days ago
+     &#9733 2, pushed 1260 days ago
     </sup>
    </li>
    <li>
@@ -1264,7 +1277,7 @@
      Real-time analytics in Apache Flume
     </a>
     <sup>
-     &#9733 39, pushed 91 days ago
+     &#9733 39, pushed 216 days ago
     </sup>
    </li>
    <li>
@@ -1272,12 +1285,12 @@
      .Net FlumeNG Clients
     </a>
     <sup>
-     &#9733 14, pushed 656 days ago
+     &#9733 14, pushed 780 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 34, pushed 19 days ago
+   &#9733 34, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -1407,6 +1420,11 @@
    Hadoop360
   </a>
  </li>
+ <li>
+  <a href="https://www.datadoghq.com/blog/monitor-hadoop-metrics/">
+   How to monitor Hadoop metrics
+  </a>
+ </li>
 </ul>
 <h2>
  Presentations
@@ -1495,7 +1513,7 @@
  </li>
 </ul>
 <h2>
- Hadoop & Big Data Events
+ Hadoop and Big Data Events
 </h2>
 <ul>
  <li>

@@ -365,6 +365,18 @@
  </li>
  <li>
   <em>
+   <a href="https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts">
+    Network Literacy: Essential Concepts and Core ideas
+   </a>
+  </em>
+  , by the NetSciEd team (c. 2016) - Available in several languages (
+  <a href="http://comnet.oxfordjournals.org/content/4/3/457.short">
+   paper
+  </a>
+  ).
+ </li>
+ <li>
+  <em>
    <a href="http://books.wwnorton.com/books/Nexus/">
     Nexus. Small Worlds and the Groundbreaking Theory of Networks
    </a>
@@ -612,7 +624,11 @@
     Handbook of Graph Drawing and Visualization
    </a>
   </em>
-  , edited by Roberto Tamassia (2013).
+  , edited by Roberto Tamassia (
+  <a href="https://cs.brown.edu/~rt/gdhandbook/">
+   chapter proofs
+  </a>
+  ; 2013).
  </li>
  <li>
   <em>
@@ -744,6 +760,14 @@
    </a>
   </em>
   (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
+ </li>
+ <li>
+  <em>
+   <a href="https://www.springer.com/us/book/9783319238821">
+    A User's Guide to Network Analysis in R
+   </a>
+  </em>
+  , by Douglas A. Luke (2015).
  </li>
  <li>
   <em>
@@ -1198,7 +1222,7 @@
   </a>
   - Legislative cosponsorship networks, in R format.
   <sup>
-   &#9733 4, pushed 86 days ago
+   &#9733 4, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -1300,6 +1324,18 @@
   ).
  </li>
  <li>
+  <a href="http://networkrepository.com/">
+   Network Repository
+  </a>
+  - Fully searchable database containing hundreds of real-world networks.
+ </li>
+ <li>
+  <a href="http://nexus.igraph.org/">
+   Nexus
+  </a>
+  - Repository of network datasets in GraphML and igraph formats.
+ </li>
+ <li>
   <a href="http://www.boardsandgender.com/data.php">
    Norwegian Interlocking Directorate, 2002-2011
   </a>
@@ -1318,6 +1354,16 @@
   .
  </li>
  <li>
+  <a href="http://www.sociopatterns.org/datasets/">
+   SocioPatterns Datasets
+  </a>
+  - Network data obtained through the
+  <a href="http://www.sociopatterns.org/">
+   SocioPatterns
+  </a>
+  sensing platform.
+ </li>
+ <li>
   <a href="http://snap.stanford.edu/data/index.html">
    Stanford Large Network Dataset Collection
   </a>
@@ -1334,6 +1380,12 @@
    UCI Network Data Repository
   </a>
   .
+ </li>
+ <li>
+  <a href="https://sites.google.com/site/ucinetsoftware/datasets">
+   UCINET Datasets
+  </a>
+  - Network data in UCINET format.
  </li>
 </ol>
 <h2>
@@ -1527,6 +1579,12 @@
   - Reading list from a seminar held at MIT in 2001–2.
  </li>
  <li>
+  <a href="https://dnac.ssri.duke.edu/">
+   Duke Network Analysis Center
+  </a>
+  .
+ </li>
+ <li>
   <a href="https://sites.psu.edu/desmaraisgroup/">
    Interdependence in Governance and Policy Research Group
   </a>
@@ -1667,6 +1725,12 @@
    Cx-Nets
   </a>
   - Virtual collaboration between four complex networks research groups.
+ </li>
+ <li>
+  <a href="http://datasciencegroup.pl/">
+   Data Science Group
+  </a>
+  -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
  </li>
  <li>
   <a href="http://www.netzwerk-exzellenz.uni-trier.de/">
@@ -2565,6 +2629,16 @@
   , 2011).
  </li>
  <li>
+  <a href="https://www.cairn.info/resume.php?ID_ARTICLE=COMOR_043_0015">
+   La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne
+  </a>
+  , by Alain Barrat, in French - Accessible introduction to the study of complex networks (
+  <em>
+   Communication & Organisation
+  </em>
+  , 2013).
+ </li>
+ <li>
   <a href="http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/network%20analysis,%20culture,%20and%20the%20problem%20of%20agency.pdf">
    Network Analysis, Culture, and the Problem of Agency
   </a>
@@ -2856,14 +2930,24 @@
   </a>
   - Graph theory library written in Ruby.
   <sup>
-   &#9733 40, pushed 2332 days ago
+   &#9733 40, pushed 2457 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://spark.apache.org/graphx/">
+   GraphX
+  </a>
+  -
+  <a href="https://spark.apache.org/">
+   Apache Spark
+  </a>
+  module to perform graph-related parallel computation.
  </li>
  <li>
   <a href="https://lynksoft.com/">
    Lynks
   </a>
-  - Online tool for simple network analysis and visualization.
+  - Web-based tool for simple network analysis and visualization.
  </li>
  <li>
   <a href="https://www.wolfram.com/mathematica/">
@@ -2918,6 +3002,12 @@
   - Windows program for dynamic meta-network assessment and analysis.
  </li>
  <li>
+  <a href="http://osome.iuni.iu.edu/">
+   OSoMe
+  </a>
+  - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
+ </li>
+ <li>
   <a href="http://mrvar.fdv.uni-lj.si/pajek/">
    Pajek
   </a>
@@ -2964,6 +3054,12 @@
    PNet
   </a>
   - Simulation and estimation of (one-mode and multilevel) exponential random graph models (ERGMs), written in Java for Windows.
+ </li>
+ <li>
+  <a href="https://www.polinode.com/">
+   Polinode
+  </a>
+  - Web-based platform to both analyze network data as well as collect network data via relationship-based surveys.
  </li>
  <li>
   <a href="http://www.kintip.net/content/view/55/21/">
@@ -3016,6 +3112,12 @@
    example movies
   </a>
   ), now developed as the ndtv R package.
+ </li>
+ <li>
+  <a href="http://sparkling.ml">
+   SparklingGraph
+  </a>
+  - Cross-platform tool to perform large-scale, distributed network computations with Apache Spark's GraphX module; written in Java and Scala.
  </li>
  <li>
   <a href="http://www.spato.net/">
@@ -3118,6 +3220,12 @@
   </ul>
  </li>
  <li>
+  <a href="http://vis.stanford.edu/jheer/projects/vizster/">
+   Vizster
+  </a>
+  - Cross-platform Java program to visualize online social networks.
+ </li>
+ <li>
   <a href="http://www.vosviewer.com/">
    VOSviewer
   </a>
@@ -3149,7 +3257,7 @@
   </a>
   - Basic graph theory algorithms written in Clojure.
   <sup>
-   &#9733 15, pushed 122 days ago
+   &#9733 15, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -3202,7 +3310,7 @@
   </a>
   - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
   <sup>
-   &#9733 4, pushed 6 days ago
+   &#9733 4, pushed 131 days ago
   </sup>
  </li>
 </ol>
@@ -3326,6 +3434,16 @@
   .
  </li>
  <li>
+  <a href="http://www.tobiasstark.nl/GENSI/GENSI.htm">
+   GENSI
+  </a>
+  - JavaScript graphical tool to collect ego-centered network data (
+  <a href="http://www.sciencedirect.com/science/article/pii/S0378873316300284">
+   paper
+  </a>
+  ).
+ </li>
+ <li>
   <a href="https://maurizzzio.github.io/greuler/">
    greuler
   </a>
@@ -3345,7 +3463,7 @@
   </a>
   ).
   <sup>
-   &#9733 49, pushed 6 days ago
+   &#9733 49, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3376,7 +3494,7 @@
   </a>
   ).
   <sup>
-   &#9733 1898, pushed 34 days ago
+   &#9733 1898, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -3404,7 +3522,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 13, pushed 1 days ago
+   &#9733 13, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3421,7 +3539,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 123, pushed 24 days ago
+   &#9733 123, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -3440,7 +3558,7 @@
     </a>
     .
     <sup>
-     &#9733 3, pushed 46 days ago
+     &#9733 3, pushed 171 days ago
     </sup>
    </li>
    <li>
@@ -3449,7 +3567,7 @@
     </a>
     - Graph library with a focus on performance and simplicity.
     <sup>
-     &#9733 49, pushed 1 days ago
+     &#9733 49, pushed 125 days ago
     </sup>
    </li>
    <li>
@@ -3458,7 +3576,7 @@
     </a>
     - Additional graph functions for the LightGraphs.jl package.
     <sup>
-     &#9733 2, pushed 51 days ago
+     &#9733 2, pushed 176 days ago
     </sup>
    </li>
    <li>
@@ -3467,7 +3585,7 @@
     </a>
     - Adds network measures to the Graphs.jl package.
     <sup>
-     &#9733 3, pushed 195 days ago
+     &#9733 3, pushed 320 days ago
     </sup>
    </li>
   </ul>
@@ -3565,7 +3683,7 @@
   </a>
   - Assess the likelihood of potential links in a future snapshot of a network.
   <sup>
-   &#9733 1, pushed 11 days ago
+   &#9733 1, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3588,7 +3706,7 @@
   </a>
   - Python algorithms for community detection in n-partite networks.
   <sup>
-   &#9733 2, pushed 771 days ago
+   &#9733 2, pushed 896 days ago
   </sup>
  </li>
  <li>
@@ -3691,7 +3809,7 @@
   </a>
   - Statistical model for communication networks.
   <sup>
-   &#9733 1, pushed 11 days ago
+   &#9733 1, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -3704,7 +3822,7 @@
   </a>
   ).
   <sup>
-   &#9733 3, pushed 63 days ago
+   &#9733 3, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -3717,7 +3835,7 @@
   </a>
   .
   <sup>
-   &#9733 1, pushed 214 days ago
+   &#9733 1, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -3730,7 +3848,7 @@
   </a>
   ).
   <sup>
-   &#9733 499, pushed 2 days ago
+   &#9733 499, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3771,7 +3889,7 @@
   </a>
   - Grammar of graph graphics built in the spirit of ggplot2.
   <sup>
-   &#9733 122, pushed 56 days ago
+   &#9733 122, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -3799,6 +3917,12 @@
    influenceR
   </a>
   - Compute various node centrality network measures by Burt, Borgatti and others.
+ </li>
+ <li>
+  <a href="https://cran.r-project.org/web/packages/keyplayer/">
+   keyplayer
+  </a>
+  - Implements several network centrality measures.
  </li>
  <li>
   <a href="https://cran.r-project.org/web/packages/latentnet/">
@@ -3842,7 +3966,7 @@
   </a>
   - Simulate and visualize basic epidemic diffusion in networks.
   <sup>
-   &#9733 0, pushed 369 days ago
+   &#9733 0, pushed 494 days ago
   </sup>
  </li>
  <li>
@@ -4001,7 +4125,7 @@
   </a>
   - Using vis.js library for network visualization.
   <sup>
-   &#9733 0, pushed 41 days ago
+   &#9733 0, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -4278,6 +4402,12 @@
    New Perspectives for Relational Learning
   </a>
   - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
+ </li>
+ <li>
+  <a href="http://schochastics.net/sna/periodic.html">
+   Periodic Table of Network Centrality
+  </a>
+  - Interactive periodic table of centrality indices.
  </li>
  <li>
   <a href="https://codeandculture.wordpress.com/2015/04/03/picking-sides/">
@@ -4857,7 +4987,7 @@
   </a>
   .
   <sup>
-   &#9733 6, pushed 461 days ago
+   &#9733 6, pushed 586 days ago
   </sup>
  </li>
  <li>
@@ -5077,9 +5207,17 @@
  <a href="http://www.jpfairbanks.net/">
   James Fairbanks
  </a>
- and
+ ,
  <a href="http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx">
   Danielle Varda
+ </a>
+ ,
+ <a href="https://twitter.com/andpitts">
+  Andrew Pitts
+ </a>
+ and
+ <a href="http://riomus.ml/">
+  Roman Bartusiak
  </a>
  – have waived all copyright and related or neighboring rights to this work.
 </p>
@@ -5091,6 +5229,14 @@
  ,
  <a href="http://graduateinstitute.ch/directory/_/people/flandreau">
   Marc Flandreau
+ </a>
+ ,
+ <a href="http://kateto.net/">
+  Katya Ognyanova
+ </a>
+ ,
+ <a href="http://www.stat.cmu.edu/~cshalizi/">
+  Cosma Shalizi
  </a>
  and
  <a href="https://www.stats.ox.ac.uk/~snijders/">

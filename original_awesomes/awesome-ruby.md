@@ -106,6 +106,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Apotomo](https://github.com/apotonick/apotomo) - Based on Cells, Apotomo gives you widgets and encapsulation, bubbling events, AJAX page updates, rock-solid testing and more.
 * [Cells](https://github.com/apotonick/cells) - View Components for Rails.
 * [Decent Exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
+* [dry-rb](https://github.com/dry-rb) -  dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 * [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
@@ -114,7 +115,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Trailblazer](https://github.com/apotonick/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
 * [wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
-##A/B Testing
+## A/B Testing
 
 * [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
 * [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
@@ -182,6 +183,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [JWT](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 * [Knock](https://github.com/nsarno/knock) - Seamless JWT authentication for Rails API.
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
+* [Rodauth](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 * [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
 * [Sorcery](https://github.com/NoamB/sorcery) - Magical Authentication for Rails 3 and 4.
 * [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
@@ -207,6 +209,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) - Action caching for Action Pack.
 * [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers.
 * [Garner](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+* [IdentityCache](https://github.com/Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 * [Readthis](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 * [Record Cache](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
@@ -429,6 +432,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
 * [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
+* [Hanna](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 * [Hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
 * [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
 * [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
@@ -438,6 +442,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## E-Commerce and Payments
 
 * [Active Merchant](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
+* [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 * [credit_card_validations](https://github.com/Fivell/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Koudoku](https://github.com/andrewculver/koudoku) - Robust subscription support for Ruby on Rails apps using Stripe, including out-of-the-box pricing pages, payment pages, and subscription management.
 * [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe.
@@ -492,6 +497,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks).
 * [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps.
+* [Bugsnag](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher.
 * [Exception Handler](https://github.com/richpeck/exception_handler) - Custom error pages.
 * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
@@ -506,6 +512,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [PaperClip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely.
 * [Refile](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
+* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby
 * [attache](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns: https://attache-demo.herokuapp.com.
 
 ## Form Builder
@@ -707,7 +714,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## ORM/ODM Extensions
 
-* Auditing
+* Auditing and Versioning
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
@@ -720,6 +727,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Import
   * [ActiveImporter](https://github.com/continuum/active_importer) - Define importers that load tabular data from spreadsheets or CSV files into any ActiveRecord-like ORM.
   * [ActiveRecord Import](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
+  * [bulk_insert](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
   * [data_miner](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
   * [ferry](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 * Misc
@@ -1033,9 +1041,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
-* [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper.
+* [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
+* [google-api-ads-ruby](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 * [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
@@ -1135,6 +1144,7 @@ Online tools, services and APIs to simplify development.
 
 Where to discover new Ruby libraries, projects and trends.
 
+* [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
 * [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.

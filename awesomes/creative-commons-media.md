@@ -55,6 +55,12 @@
   - The Free Music Archive offers free downloads under Creative Commons and other licenses.
  </li>
  <li>
+  <a href="http://incompetech.com/music/">
+   Incompetech
+  </a>
+  - Royalty free music from Kevin MacLeod.
+ </li>
+ <li>
   <a href="http://jamendo.com">
    Jamendo
   </a>
@@ -65,12 +71,6 @@
    Tribe of Noise
   </a>
   - Musical albums. Requires login.
- </li>
- <li>
-  <a href="http://incompetech.com/music/">
-   Incompetech
-  </a>
-  - Royalty free music from Kevin MacLeod.
  </li>
 </ul>
 <h2>
@@ -118,6 +118,12 @@
    GameIcons
   </a>
   - SVG icons for board and video games.
+ </li>
+ <li>
+  <a href="https://www.goodfreephotos.com">
+   Good Free Photos
+  </a>
+  - Thousands of free public domain photos categorized by geographic location
  </li>
  <li>
   <a href="http://imagebase.net/">
@@ -358,7 +364,7 @@
    awesome-awesomeness
   </a>
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
 </ul>

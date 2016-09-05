@@ -100,35 +100,34 @@
   <a href="http://transitwiki.org">
    TransitWiki
   </a>
-  -
+  - A community wiki for transit planners. Like this repo, but better.
  </li>
  <li>
   <a href="https://groups.google.com/forum/#!forum/transit-developers">
-   Transit Developers Mailing List
+   Transit Developers mailing list
   </a>
  </li>
  <li>
-  <a href="https://onebusaway.herokuapp.com/">
-   OneBusAway Slack
-  </a>
-  - Slack chat for the OneBusAway project.
- </li>
- <li>
-  OneBusAway Mailing Lists
+  OneBusAway
   <ul>
    <li>
     <a href="http://groups.google.com/group/onebusaway-users">
-     OneBusAway Users
+     OneBusAway User mailing list
     </a>
    </li>
    <li>
     <a href="http://groups.google.com/group/onebusaway-developers">
-     OneBusAway Developers
+     OneBusAway Developers mailing list
     </a>
    </li>
    <li>
     <a href="http://groups.google.com/group/onebusaway-api">
-     OneBusAway API
+     OneBusAway API mailing list
+    </a>
+   </li>
+   <li>
+    <a href="https://onebusaway.herokuapp.com/">
+     OneBusAway Slack chat
     </a>
    </li>
   </ul>
@@ -139,10 +138,10 @@
 </h3>
 <ul>
  <li>
-  <a href="http://www.gtfs-data-exchange.com/agencies">
-   GTFS Data Exchange
+  <a href="https://transit.land/">
+   Transitland
   </a>
-  - Links to many transit agency GTFS datasets.
+  - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
  </li>
  <li>
   <a href="https://github.com/scascketta/CapMetrics">
@@ -154,7 +153,7 @@
   </a>
   , a Go daemon.
   <sup>
-   &#9733 7, pushed 2 days ago
+   &#9733 7, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -162,12 +161,6 @@
    National Transit Database
   </a>
   - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
- </li>
- <li>
-  <a href="https://transit.land/">
-   Transitland
-  </a>
-  - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
  </li>
  <li>
   <a href="http://transitfeeds.com/">
@@ -192,6 +185,12 @@
    TransLoc OpenAPI
   </a>
   - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
+ </li>
+ <li>
+  <a href="http://www.gtfs-data-exchange.com/agencies">
+   GTFS Data Exchange
+  </a>
+  - Used to be the definitive list of GTFS links. Shutdown in 2016. But 93G of data from 2008 to 2016 is available upon request.
  </li>
 </ul>
 <h3>
@@ -240,18 +239,8 @@
    CityBikes
   </a>
   <sup>
-   &#9733 145, pushed 6 days ago
+   &#9733 145, pushed 131 days ago
   </sup>
- </li>
- <li>
-  <a href="https://github.com/joriswu/tripover/wiki">
-   tripover
-  </a>
-  - A journey planner good at broad searches. Like "from Cairns to Perth, depart any day next week". Aiming at the longer distance traveller searching for good trip options.  Used by the
-  <a href="http://timeandwheel.com/">
-   Time & Wheel
-  </a>
-  webapp.
  </li>
  <li>
   <a href="http://www.opentripplanner.org/">
@@ -297,7 +286,7 @@
   </a>
   - Code for Miami prototype of a cheap open-source solution to track transit buses.
   <sup>
-   &#9733 3, pushed 63 days ago
+   &#9733 3, pushed 187 days ago
   </sup>
  </li>
 </ul>
@@ -328,7 +317,7 @@
   </a>
   - A Google Web Toolkit-based web interface for OpenTripPlanner
   <sup>
-   &#9733 5, pushed 144 days ago
+   &#9733 5, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -337,7 +326,7 @@
   </a>
   - A Javascript-based client for OpenTripPlanner
   <sup>
-   &#9733 11, pushed 43 days ago
+   &#9733 11, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -346,7 +335,7 @@
   </a>
   - A Java-based web application for producing GTFS-realtime Service Alerts.
   <sup>
-   &#9733 1, pushed 1539 days ago
+   &#9733 1, pushed 1664 days ago
   </sup>
  </li>
  <li>
@@ -355,7 +344,7 @@
   </a>
   - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
   <sup>
-   &#9733 14, pushed 20 days ago
+   &#9733 14, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -364,7 +353,7 @@
   </a>
   - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
   <sup>
-   &#9733 217, pushed 334 days ago
+   &#9733 217, pushed 459 days ago
   </sup>
  </li>
  <li>
@@ -380,14 +369,10 @@
   - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Awesome because it combines three disparate transit systems into one UI.
  </li>
  <li>
-  <a href="http://timeandwheel.com/">
-   Time & Wheel
+  <a href="https://github.com/conveyal/transitive.js">
+   Transitive.js
   </a>
-  - Travel country-wide in the USA with train, bus, plane or ferry.  Uses the open-source
-  <a href="https://github.com/joriswu/tripover">
-   tripover routing engine
-  </a>
-  .
+  - Creates a customizable web map layer of transit routes using Leaflet or D3.
  </li>
 </ul>
 <h3>
@@ -468,7 +453,7 @@
    OpenTripPlanner
   </a>
   <sup>
-   &#9733 57, pushed 1223 days ago
+   &#9733 57, pushed 1348 days ago
   </sup>
  </li>
 </ul>
@@ -549,16 +534,36 @@
   </a>
   - Realtime map of all the buses in San Francisco.
  </li>
+ <li>
+  <a href="http://www.tyleragreen.com/maps/new_york/">
+   MTA Frequency
+  </a>
+  - Frequency visualization of subways and buses in New York City built using
+  <a href="https://transit.land/">
+   Transitland
+  </a>
+  .
+ </li>
 </ul>
 <h3>
  Resources
 </h3>
 <ul>
  <li>
-  <a href="http://www.transitwiki.org/">
-   TransitWiki
+  <a href="http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf">
+   When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems
   </a>
-  - A wiki for transit planners to find cost-effective strategies to improve transit service.
+  - Paper that does an amazing job answering the question of how do we communicate uncertainty in transit predictions? The paper explains the problem, existing solutions and designs a
+  <a href="https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots">
+   better interface for letting users know when to arrive at the bus stop
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://github.com/mjskay/when-ish-is-my-bus">
+   When(ish) is my bus? Data and code
+  </a>
+  - The data and code (R) behind Whenish is my bus? Data includes three days of historical vehicle positions and the survey results.
  </li>
  <li>
   <a href="https://kurtraschke.com/2015/01/legacy-avl-export">
@@ -592,7 +597,7 @@
   </a>
   - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
   <sup>
-   &#9733 7, pushed 228 days ago
+   &#9733 7, pushed 353 days ago
   </sup>
  </li>
  <li>
@@ -601,7 +606,7 @@
   </a>
   - Python library for converting GTFS files into a relational database.
   <sup>
-   &#9733 25, pushed 4 days ago
+   &#9733 25, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -620,7 +625,7 @@
   </a>
   )
   <sup>
-   &#9733 6, pushed 498 days ago
+   &#9733 6, pushed 622 days ago
   </sup>
  </li>
  <li>
@@ -629,7 +634,7 @@
   </a>
   - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.
   <sup>
-   &#9733 3, pushed 506 days ago
+   &#9733 3, pushed 630 days ago
   </sup>
  </li>
  <li>
@@ -638,7 +643,7 @@
   </a>
   - A GTFS parsing library for Go
   <sup>
-   &#9733 12, pushed 72 days ago
+   &#9733 12, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -647,7 +652,7 @@
   </a>
   - .Net/Mono implementation of a GTFS parser
   <sup>
-   &#9733 20, pushed 11 days ago
+   &#9733 20, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -664,7 +669,7 @@
   </a>
   , unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.
   <sup>
-   &#9733 164, pushed 17 days ago
+   &#9733 164, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -677,7 +682,7 @@
   </a>
   web application)
   <sup>
-   &#9733 48, pushed 44 days ago
+   &#9733 48, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -690,7 +695,7 @@
   </a>
   .
   <sup>
-   &#9733 38, pushed 89 days ago
+   &#9733 38, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -699,7 +704,7 @@
   </a>
   - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
   <sup>
-   &#9733 1, pushed 297 days ago
+   &#9733 1, pushed 422 days ago
   </sup>
  </li>
  <li>
@@ -728,7 +733,7 @@
   </a>
   .
   <sup>
-   &#9733 15, pushed 243 days ago
+   &#9733 15, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -747,7 +752,7 @@
   </a>
   .
   <sup>
-   &#9733 7, pushed 6 days ago
+   &#9733 7, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -756,7 +761,7 @@
   </a>
   -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
   <sup>
-   &#9733 12, pushed 32 days ago
+   &#9733 12, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -774,8 +779,14 @@
   </a>
   .
   <sup>
-   &#9733 59, pushed 97 days ago
+   &#9733 59, pushed 222 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kurtraschke/gtfs-rt-dump">
+   gtfs-rt-dump
+  </a>
+  - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
  </li>
  <li>
   <a href="https://github.com/mattwigway/gtfsrdb">
@@ -783,7 +794,7 @@
   </a>
   - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
   <sup>
-   &#9733 32, pushed 446 days ago
+   &#9733 32, pushed 570 days ago
   </sup>
  </li>
  <li>
@@ -796,7 +807,7 @@
   </a>
   )
   <sup>
-   &#9733 8, pushed 280 days ago
+   &#9733 8, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -805,7 +816,7 @@
   </a>
   - A Java-based tool that validates GTFS-realtime feeds
   <sup>
-   &#9733 5, pushed 199 days ago
+   &#9733 5, pushed 323 days ago
   </sup>
  </li>
  <li>
@@ -874,7 +885,7 @@
   </a>
   format to GTFS-realtime TripUpdates and VehiclePositons.
   <sup>
-   &#9733 0, pushed 109 days ago
+   &#9733 0, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +894,7 @@
   </a>
   - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
   <sup>
-   &#9733 0, pushed 544 days ago
+   &#9733 0, pushed 668 days ago
   </sup>
  </li>
  <li>
@@ -900,7 +911,7 @@
   </a>
   to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
   <sup>
-   &#9733 11, pushed 447 days ago
+   &#9733 11, pushed 571 days ago
   </sup>
  </li>
  <li>
@@ -916,7 +927,7 @@
   </a>
   to GTFS-realtime
   <sup>
-   &#9733 0, pushed 682 days ago
+   &#9733 0, pushed 806 days ago
   </sup>
  </li>
  <li>
@@ -932,7 +943,7 @@
   </a>
   to GTFS-realtime.
   <sup>
-   &#9733 1, pushed 857 days ago
+   &#9733 1, pushed 982 days ago
   </sup>
  </li>
  <li>
@@ -945,7 +956,7 @@
   </a>
   TransitMaster installation (database) and convert to GTFS-realtime
   <sup>
-   &#9733 1, pushed 815 days ago
+   &#9733 1, pushed 940 days ago
   </sup>
  </li>
  <li>
@@ -958,7 +969,7 @@
   </a>
   OrbCAD database and export as GTFS-realtime.
   <sup>
-   &#9733 3, pushed 1134 days ago
+   &#9733 3, pushed 1259 days ago
   </sup>
  </li>
  <li>
@@ -971,7 +982,7 @@
   </a>
   to GTFS-realtime
   <sup>
-   &#9733 2, pushed 1541 days ago
+   &#9733 2, pushed 1665 days ago
   </sup>
  </li>
  <li>
@@ -984,7 +995,7 @@
   </a>
   TransitMaster WebWatch installation to produce a GTFS-realtime feed.
   <sup>
-   &#9733 2, pushed 1066 days ago
+   &#9733 2, pushed 1191 days ago
   </sup>
  </li>
  <li>
@@ -997,7 +1008,7 @@
   </a>
   plugin for logging information about a GTFS-realtime feed.
   <sup>
-   &#9733 1, pushed 1403 days ago
+   &#9733 1, pushed 1528 days ago
   </sup>
  </li>
  <li>
@@ -1010,7 +1021,7 @@
   </a>
   plugin for monitoring a GTFS-realtime feed
   <sup>
-   &#9733 1, pushed 1401 days ago
+   &#9733 1, pushed 1526 days ago
   </sup>
  </li>
 </ul>
@@ -1038,7 +1049,7 @@
   </a>
   schemas.
   <sup>
-   &#9733 0, pushed 89 days ago
+   &#9733 0, pushed 213 days ago
   </sup>
  </li>
  <li>

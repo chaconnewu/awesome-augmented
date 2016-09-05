@@ -150,7 +150,7 @@
   </a>
   - An OpenFlow 1.3 compatible user-space software switch implementation
   <sup>
-   &#9733 135, pushed 68 days ago
+   &#9733 135, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -165,7 +165,7 @@
   </a>
   - A pure OpenFlow software switch written in Erlang
   <sup>
-   &#9733 178, pushed 251 days ago
+   &#9733 178, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -185,7 +185,7 @@
   </a>
   - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
   <sup>
-   &#9733 89, pushed 958 days ago
+   &#9733 89, pushed 1083 days ago
   </sup>
  </li>
  <li>
@@ -194,7 +194,7 @@
   </a>
   - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
   <sup>
-   &#9733 34, pushed 396 days ago
+   &#9733 34, pushed 520 days ago
   </sup>
  </li>
 </ul>
@@ -247,7 +247,7 @@
   </a>
   - An OpenFlow Controller Node Style.
   <sup>
-   &#9733 48, pushed 1408 days ago
+   &#9733 48, pushed 1533 days ago
   </sup>
  </li>
  <li>
@@ -310,7 +310,7 @@
   </a>
   - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
   <sup>
-   &#9733 13, pushed 5 days ago
+   &#9733 13, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +319,7 @@
   </a>
   - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
   <sup>
-   &#9733 14, pushed 51 days ago
+   &#9733 14, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +328,7 @@
   </a>
   - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
   <sup>
-   &#9733 2, pushed 50 days ago
+   &#9733 2, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -377,7 +377,7 @@
   </a>
   - The Frenetic Programming Language and Runtime System
   <sup>
-   &#9733 89, pushed 4 days ago
+   &#9733 89, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -397,7 +397,7 @@
   </a>
   - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
   <sup>
-   &#9733 51, pushed 4 days ago
+   &#9733 51, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -407,7 +407,7 @@
   - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
 protocol, based on Twisted.
   <sup>
-   &#9733 30, pushed 1301 days ago
+   &#9733 30, pushed 1426 days ago
   </sup>
  </li>
  <li>
@@ -416,7 +416,7 @@ protocol, based on Twisted.
   </a>
   - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
   <sup>
-   &#9733 12, pushed 1599 days ago
+   &#9733 12, pushed 1724 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +437,7 @@ protocol, based on Twisted.
   </a>
   - A serialization and protocol library for OpenFlow.
   <sup>
-   &#9733 9, pushed 292 days ago
+   &#9733 9, pushed 417 days ago
   </sup>
  </li>
 </ul>
@@ -451,7 +451,7 @@ protocol, based on Twisted.
   </a>
   - OpenFlow Testing Framework
   <sup>
-   &#9733 47, pushed 6 days ago
+   &#9733 47, pushed 130 days ago
   </sup>
  </li>
  <li>

@@ -109,7 +109,7 @@
    GitHub Repository
   </a>
   <sup>
-   &#9733 3656, pushed 9 days ago
+   &#9733 3656, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -211,7 +211,7 @@
   </a>
   - A simple lumen CORS
   <sup>
-   &#9733 26, pushed 298 days ago
+   &#9733 26, pushed 423 days ago
   </sup>
  </li>
  <li>
@@ -220,7 +220,7 @@
   </a>
   - CORS Middleware for Lumen micro-framework
   <sup>
-   &#9733 28, pushed 379 days ago
+   &#9733 28, pushed 504 days ago
   </sup>
  </li>
  <li>
@@ -229,7 +229,7 @@
   </a>
   - Test your Lumen app with phpspec
   <sup>
-   &#9733 0, pushed 83 days ago
+   &#9733 0, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -238,7 +238,7 @@
   </a>
   - Laravel Lumen service provider for Understand.io
   <sup>
-   &#9733 4, pushed 96 days ago
+   &#9733 4, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -247,7 +247,7 @@
   </a>
   - Lumen Badge Generator
   <sup>
-   &#9733 2, pushed 126 days ago
+   &#9733 2, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -256,7 +256,7 @@
   </a>
   - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
   <sup>
-   &#9733 19, pushed 8 days ago
+   &#9733 19, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -265,7 +265,7 @@
   </a>
   - JWT auth for Laravel and Lumen
   <sup>
-   &#9733 105, pushed 60 days ago
+   &#9733 105, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -274,7 +274,7 @@
   </a>
   - Facebook SDK for Laravel and Lumen
   <sup>
-   &#9733 313, pushed 21 days ago
+   &#9733 313, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -283,7 +283,7 @@
   </a>
   - A collection of generators for Lumen and Laravel 5.
   <sup>
-   &#9733 44, pushed 33 days ago
+   &#9733 44, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -292,7 +292,7 @@
   </a>
   - A RESTful API package for the Laravel and Lumen frameworks.
   <sup>
-   &#9733 3443, pushed 5 days ago
+   &#9733 3443, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -301,7 +301,7 @@
   </a>
   - An interactive shell to Lumen framework
   <sup>
-   &#9733 27, pushed 53 days ago
+   &#9733 27, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -310,7 +310,7 @@
   </a>
   - Define Lumen Application Maintenance Mode
   <sup>
-   &#9733 3, pushed 158 days ago
+   &#9733 3, pushed 283 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +319,7 @@
   </a>
   - Vendor publish command for Lumen framework.
   <sup>
-   &#9733 47, pushed 307 days ago
+   &#9733 47, pushed 432 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +328,7 @@
   </a>
   - Ports most of the make commands from Laravel to Lumen.
   <sup>
-   &#9733 5, pushed 41 days ago
+   &#9733 5, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -337,8 +337,14 @@
   </a>
   - File manager module for the Lumen PHP framework.
   <sup>
-   &#9733 27, pushed 4 days ago
+   &#9733 27, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/arubacao/http-basic-auth-guard">
+   Lumen 5.2 HTTP Basic Auth Guard
+  </a>
+  - Brings back basic authentication for Lumen 5.2.
  </li>
  <li>
   <a href="https://github.com/irazasyed/larasupport">
@@ -346,7 +352,7 @@
   </a>
   - Adds Laravel Packages Support to Lumen and Other Helpers.
   <sup>
-   &#9733 33, pushed 99 days ago
+   &#9733 33, pushed 224 days ago
   </sup>
  </li>
 </ul>
@@ -360,7 +366,7 @@
   </a>
   - A Slack Invitator made with Lumen Framework
   <sup>
-   &#9733 38, pushed 126 days ago
+   &#9733 38, pushed 251 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +375,7 @@
   </a>
   - Microservice for sending emails with Lumen
   <sup>
-   &#9733 12, pushed 229 days ago
+   &#9733 12, pushed 354 days ago
   </sup>
  </li>
  <li>
@@ -378,7 +384,7 @@
   </a>
   - API for Laracasts Feed built with Lumen.
   <sup>
-   &#9733 11, pushed 384 days ago
+   &#9733 11, pushed 508 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +393,7 @@
   </a>
   - An implementation of Solder in Laravel's Lumen Framework.
   <sup>
-   &#9733 1, pushed 256 days ago
+   &#9733 1, pushed 381 days ago
   </sup>
  </li>
 </ul>

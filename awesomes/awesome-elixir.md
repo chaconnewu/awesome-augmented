@@ -61,8 +61,18 @@
     </a>
    </li>
    <li>
+    <a href="#benchmarking">
+     Benchmarking
+    </a>
+   </li>
+   <li>
     <a href="#bittorrent">
      Bittorrent
+    </a>
+   </li>
+   <li>
+    <a href="#bson">
+     BSON
     </a>
    </li>
    <li>
@@ -73,6 +83,11 @@
    <li>
     <a href="#caching">
      Caching
+    </a>
+   </li>
+   <li>
+    <a href="#chatting">
+     Chatting
     </a>
    </li>
    <li>
@@ -116,6 +131,11 @@
     </a>
    </li>
    <li>
+    <a href="#deployment">
+     Deployment
+    </a>
+   </li>
+   <li>
     <a href="#documentation">
      Documentation
     </a>
@@ -143,6 +163,11 @@
    <li>
     <a href="#encoding-and-compression">
      Encoding and Compression
+    </a>
+   </li>
+   <li>
+    <a href="#errors-and-exception-handling">
+     Errors and Exception Handling
     </a>
    </li>
    <li>
@@ -203,6 +228,11 @@
    <li>
     <a href="#images">
      Images
+    </a>
+   </li>
+   <li>
+    <a href="#instrumenting--monitoring">
+     Instrumenting / Monitoring
     </a>
    </li>
    <li>
@@ -356,6 +386,11 @@
     </a>
    </li>
    <li>
+    <a href="#video">
+     Video
+    </a>
+   </li>
+   <li>
     <a href="#xml">
      XML
     </a>
@@ -385,6 +420,11 @@
    <li>
     <a href="#editors">
      Editors
+    </a>
+   </li>
+   <li>
+    <a href="#newsletters">
+     Newsletters
     </a>
    </li>
    <li>
@@ -430,12 +470,18 @@
 </p>
 <ul>
  <li>
+  <a href="https://github.com/dalmatinerdb/dflow">
+   dflow
+  </a>
+  - Pipelined flow processing engine.
+ </li>
+ <li>
   <a href="https://github.com/sasa1977/exactor">
    exactor
   </a>
   - Helpers for easier implementation of actors in Elixir.
   <sup>
-   &#9733 305, pushed 16 days ago
+   &#9733 305, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +490,7 @@
   </a>
   - A Port Wrapper which forwards cast and call to a linked Port.
   <sup>
-   &#9733 19, pushed 169 days ago
+   &#9733 19, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -453,7 +499,7 @@
   </a>
   - A minimal GenServer that monitors a given GenEvent handler.
   <sup>
-   &#9733 1, pushed 83 days ago
+   &#9733 1, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -462,7 +508,7 @@
   </a>
   - Create a pool based on a hash ring.
   <sup>
-   &#9733 0, pushed 314 days ago
+   &#9733 0, pushed 439 days ago
   </sup>
  </li>
  <li>
@@ -471,7 +517,7 @@
   </a>
   - A hunky Erlang worker pool factory.
   <sup>
-   &#9733 677, pushed 106 days ago
+   &#9733 677, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +526,7 @@
   </a>
   - An OTP Process Pool Application.
   <sup>
-   &#9733 199, pushed 7 days ago
+   &#9733 199, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -489,7 +535,7 @@
   </a>
   - Sojourn-time based active queue management library.
   <sup>
-   &#9733 25, pushed 79 days ago
+   &#9733 25, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -498,7 +544,7 @@
   </a>
   - Backpressure and flow control in EVM processes.
   <sup>
-   &#9733 43, pushed 118 days ago
+   &#9733 43, pushed 243 days ago
   </sup>
  </li>
 </ul>
@@ -517,7 +563,7 @@
   </a>
   - An Elixir wrapper library for Erlang's array.
   <sup>
-   &#9733 10, pushed 212 days ago
+   &#9733 10, pushed 337 days ago
   </sup>
  </li>
  <li>
@@ -526,7 +572,7 @@
   </a>
   - Aruspex is a configurable constraint solver, written purely in Elixir.
   <sup>
-   &#9733 4, pushed 86 days ago
+   &#9733 4, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -539,7 +585,7 @@
   </a>
   .
   <sup>
-   &#9733 11, pushed 204 days ago
+   &#9733 11, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -548,7 +594,7 @@
   </a>
   - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
   <sup>
-   &#9733 18, pushed 73 days ago
+   &#9733 18, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -557,7 +603,7 @@
   </a>
   - A pure Elixir implementation of Scalable Bloom Filters.
   <sup>
-   &#9733 20, pushed 25 days ago
+   &#9733 20, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -566,7 +612,7 @@
   </a>
   - Elixir library to generate combinations and permutations from Enumerable collection.
   <sup>
-   &#9733 2, pushed 31 days ago
+   &#9733 2, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -575,7 +621,7 @@
   </a>
   - Buffer a large set of counters and flush periodically.
   <sup>
-   &#9733 1, pushed 148 days ago
+   &#9733 1, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -588,7 +634,7 @@
   </a>
   .
   <sup>
-   &#9733 12, pushed 17 days ago
+   &#9733 12, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -597,8 +643,14 @@
   </a>
   - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
   <sup>
-   &#9733 10, pushed 364 days ago
+   &#9733 10, pushed 489 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://hex.pm/packages/data_morph">
+   data_morph
+  </a>
+  - Create Elixir structs from data.
  </li>
  <li>
   <a href="https://github.com/meh/elixir-datastructures">
@@ -606,7 +658,7 @@
   </a>
   - A collection of protocols, implementations and wrappers to work with data structures.
   <sup>
-   &#9733 132, pushed 816 days ago
+   &#9733 132, pushed 941 days ago
   </sup>
  </li>
  <li>
@@ -615,7 +667,7 @@
   </a>
   - Deque implementations in Elixir.
   <sup>
-   &#9733 2, pushed 422 days ago
+   &#9733 2, pushed 546 days ago
   </sup>
  </li>
  <li>
@@ -624,8 +676,18 @@
   </a>
   - A* graph pathfinding in pure Elixir.
   <sup>
-   &#9733 5, pushed 23 days ago
+   &#9733 5, pushed 148 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/asiniy/ecto_state_machine">
+   ecto
+   <em>
+    state
+   </em>
+   machine
+  </a>
+  - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
  </li>
  <li>
   <a href="https://github.com/tobz/elistrix">
@@ -633,7 +695,7 @@
   </a>
   - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
   <sup>
-   &#9733 5, pushed 361 days ago
+   &#9733 5, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -642,7 +704,7 @@
   </a>
   - Implementations of popular data structures and algorithms.
   <sup>
-   &#9733 51, pushed 45 days ago
+   &#9733 51, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -651,7 +713,7 @@
   </a>
   - An Elixir library for generating struct constructors that handle external data with ease.
   <sup>
-   &#9733 52, pushed 6 days ago
+   &#9733 52, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -660,7 +722,7 @@
   </a>
   - Simple elixir library to define a static FSM.
   <sup>
-   &#9733 3, pushed 47 days ago
+   &#9733 3, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -673,7 +735,7 @@
   </a>
   implementation in Elixir.
   <sup>
-   &#9733 1, pushed 409 days ago
+   &#9733 1, pushed 533 days ago
   </sup>
  </li>
  <li>
@@ -682,7 +744,7 @@
   </a>
   - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
   <sup>
-   &#9733 34, pushed 64 days ago
+   &#9733 34, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -691,7 +753,7 @@
   </a>
   - Thin layer on top of Cryptex.
   <sup>
-   &#9733 0, pushed 281 days ago
+   &#9733 0, pushed 405 days ago
   </sup>
  </li>
  <li>
@@ -700,7 +762,7 @@
   </a>
   - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
   <sup>
-   &#9733 1, pushed 9 days ago
+   &#9733 1, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -709,7 +771,7 @@
   </a>
   - Finite state machine as a functional data structure.
   <sup>
-   &#9733 100, pushed 118 days ago
+   &#9733 100, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +780,7 @@
   </a>
   - This application implements a so-called circuit-breaker for Erlang.
   <sup>
-   &#9733 168, pushed 4 days ago
+   &#9733 168, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -730,7 +792,7 @@
   </a>
   - A generic finite state-machine - Elixir wrapper around OTP's gen
   <sup>
-   &#9733 12, pushed 16 days ago
+   &#9733 12, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -741,7 +803,7 @@ fsm.
  </a>
  - An Elixir library for performing 2D and 3D mathematics.
  <sup>
-  &#9733 22, pushed 85 days ago
+  &#9733 22, pushed 210 days ago
  </sup>
 </li>
 <li>
@@ -754,8 +816,14 @@ fsm.
  </a>
  - A consistent hash-ring implemention for Elixir.
  <sup>
-  &#9733 12, pushed 109 days ago
+  &#9733 12, pushed 234 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/zackehh/hypex">
+  hypex
+ </a>
+ - Fast Elixir implementation of HyperLogLog.
 </li>
 <li>
  <a href="https://github.com/arianvp/elixir-isaac">
@@ -763,7 +831,7 @@ fsm.
  </a>
  - Isaac is an elixir module for ISAAC: a fast cryptographic random number generator.
  <sup>
-  &#9733 2, pushed 361 days ago
+  &#9733 2, pushed 486 days ago
  </sup>
 </li>
 <li>
@@ -772,7 +840,7 @@ fsm.
  </a>
  - Erlang 2-way Set Associative Map.
  <sup>
-  &#9733 2, pushed 132 days ago
+  &#9733 2, pushed 256 days ago
  </sup>
 </li>
 <li>
@@ -781,7 +849,7 @@ fsm.
  </a>
  - Elixir implementation of a binary Galois Linear Feedback Shift Register.
  <sup>
-  &#9733 3, pushed 218 days ago
+  &#9733 3, pushed 343 days ago
  </sup>
 </li>
 <li>
@@ -790,7 +858,7 @@ fsm.
  </a>
  - A CRDT library with δ-CRDT support.
  <sup>
-  &#9733 86, pushed 432 days ago
+  &#9733 86, pushed 557 days ago
  </sup>
 </li>
 <li>
@@ -799,7 +867,7 @@ fsm.
  </a>
  - Luhn algorithm in Elixir.
  <sup>
-  &#9733 5, pushed 52 days ago
+  &#9733 5, pushed 177 days ago
  </sup>
 </li>
 <li>
@@ -808,7 +876,7 @@ fsm.
  </a>
  - LZ4 bindings for Erlang for fast data compressing.
  <sup>
-  &#9733 35, pushed 347 days ago
+  &#9733 35, pushed 472 days ago
  </sup>
 </li>
 <li>
@@ -817,8 +885,14 @@ fsm.
  </a>
  - A memoization macro (defmemo) for elixir using a genserver backing store.
  <sup>
-  &#9733 14, pushed 92 days ago
+  &#9733 14, pushed 217 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/yosriady/merkle_tree">
+  merkle_tree
+ </a>
+ - A Merkle hash tree implementation in Elixir.
 </li>
 <li>
  <a href="https://github.com/seantanly/elixir-minmaxlist">
@@ -838,7 +912,7 @@ fsm.
  </code>
  to return a list of results instead of just one.
  <sup>
-  &#9733 3, pushed 31 days ago
+  &#9733 3, pushed 156 days ago
  </sup>
 </li>
 <li>
@@ -847,8 +921,14 @@ fsm.
  </a>
  - A library for performaing math on number 'arrays' in binaries.
  <sup>
-  &#9733 1, pushed 4 days ago
+  &#9733 1, pushed 129 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/rmies/monad">
+  monad
+ </a>
+ - Haskell inspired monads in Elixir stylish syntax.
 </li>
 <li>
  <a href="https://github.com/rob-brown/MonadEx">
@@ -856,7 +936,7 @@ fsm.
  </a>
  - Upgrade your Elixir pipelines with monads.
  <sup>
-  &#9733 136, pushed 158 days ago
+  &#9733 136, pushed 283 days ago
  </sup>
 </li>
 <li>
@@ -865,7 +945,7 @@ fsm.
  </a>
  - A pure Elixir implementation of the non-cryptographic hash Murmur3.
  <sup>
-  &#9733 7, pushed 6 days ago
+  &#9733 7, pushed 131 days ago
  </sup>
 </li>
 <li>
@@ -874,8 +954,14 @@ fsm.
  </a>
  - Elixir natural sort implementation for lists of strings.
  <sup>
-  &#9733 1, pushed 352 days ago
+  &#9733 1, pushed 477 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/gutschilla/elixir-navigation-tree">
+  navigation_tree
+ </a>
+ - A navigation tree representation with helpers to generate HTML out of it.
 </li>
 <li>
  <a href="https://github.com/beatrichartz/parallel_stream">
@@ -883,7 +969,7 @@ fsm.
  </a>
  - A parallel stream implementation for Elixir.
  <sup>
-  &#9733 17, pushed 17 days ago
+  &#9733 17, pushed 142 days ago
  </sup>
 </li>
 <li>
@@ -892,7 +978,7 @@ fsm.
  </a>
  - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
  <sup>
-  &#9733 8, pushed 31 days ago
+  &#9733 8, pushed 156 days ago
  </sup>
 </li>
 <li>
@@ -901,7 +987,7 @@ fsm.
  </a>
  - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
  <sup>
-  &#9733 55, pushed 306 days ago
+  &#9733 55, pushed 431 days ago
  </sup>
 </li>
 <li>
@@ -910,7 +996,7 @@ fsm.
  </a>
  - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
  <sup>
-  &#9733 2, pushed 33 days ago
+  &#9733 2, pushed 158 days ago
  </sup>
 </li>
 <li>
@@ -923,7 +1009,7 @@ fsm.
  </a>
  - Red-Black tree implementation in Elixir.
  <sup>
-  &#9733 11, pushed 290 days ago
+  &#9733 11, pushed 415 days ago
  </sup>
 </li>
 <li>
@@ -932,7 +1018,7 @@ fsm.
  </a>
  - An Elixir presenter package used to transform map structures.
  <sup>
-  &#9733 45, pushed 176 days ago
+  &#9733 45, pushed 301 days ago
  </sup>
 </li>
 <li>
@@ -941,7 +1027,7 @@ fsm.
  </a>
  - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
  <sup>
-  &#9733 3, pushed 242 days ago
+  &#9733 3, pushed 367 days ago
  </sup>
 </li>
 <li>
@@ -951,12 +1037,24 @@ fsm.
  - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 </li>
 <li>
+ <a href="https://github.com/UniversalAvenue/simhash-ex">
+  simhash
+ </a>
+ - Simhash implementation using Siphash and N-grams.
+</li>
+<li>
+ <a href="https://github.com/fredwu/simple_bayes">
+  simple_bayes
+ </a>
+ - A Simple Bayes / Naive Bayes implementation in Elixir.
+</li>
+<li>
  <a href="https://github.com/SenecaSystems/sorted_set">
   sorted_set
  </a>
  - Sorted Sets for Elixir.
  <sup>
-  &#9733 7, pushed 290 days ago
+  &#9733 7, pushed 415 days ago
  </sup>
 </li>
 <li>
@@ -965,7 +1063,7 @@ fsm.
  </a>
  - stream count distinct element estimation using the "space saving" algorithm.
  <sup>
-  &#9733 2, pushed 22 days ago
+  &#9733 2, pushed 147 days ago
  </sup>
 </li>
 <li>
@@ -974,7 +1072,7 @@ fsm.
  </a>
  - A playground for data structures in Elixir.
  <sup>
-  &#9733 8, pushed 237 days ago
+  &#9733 8, pushed 362 days ago
  </sup>
 </li>
 <li>
@@ -987,7 +1085,7 @@ fsm.
  </a>
  .
  <sup>
-  &#9733 2, pushed 521 days ago
+  &#9733 2, pushed 646 days ago
  </sup>
 </li>
 <li>
@@ -996,7 +1094,7 @@ fsm.
  </a>
  - An Elixir implementation of term frequency–inverse document frequency.
  <sup>
-  &#9733 9, pushed 247 days ago
+  &#9733 9, pushed 372 days ago
  </sup>
 </li>
 <li>
@@ -1005,7 +1103,7 @@ fsm.
  </a>
  - Fuzzy string-matching algorithm implementations.
  <sup>
-  &#9733 12, pushed 88 days ago
+  &#9733 12, pushed 213 days ago
  </sup>
 </li>
 <li>
@@ -1020,7 +1118,7 @@ fsm.
  </a>
  - Erlang Trie Implementation.
  <sup>
-  &#9733 78, pushed 108 days ago
+  &#9733 78, pushed 232 days ago
  </sup>
 </li>
 <li>
@@ -1029,7 +1127,7 @@ fsm.
  </a>
  - Common algebraic structures and functions for Elixir.
  <sup>
-  &#9733 16, pushed 51 days ago
+  &#9733 16, pushed 175 days ago
  </sup>
 </li>
 <li>
@@ -1038,7 +1136,7 @@ fsm.
  </a>
  - Variadic aritity tree with a zipper for Elixir.
  <sup>
-  &#9733 7, pushed 422 days ago
+  &#9733 7, pushed 546 days ago
  </sup>
 </li>
 <h2>
@@ -1068,6 +1166,11 @@ fsm.
   dragonfly_server
  </a>
  - Elixir app to serve Dragonfly images.
+*
+ <a href="https://github.com/tony612/exchat">
+  ExChat
+ </a>
+ - A Slack-like app by Elixir, Phoenix & React(redux).
 *
  <a href="https://github.com/tchoutri/Exon">
   Exon
@@ -1149,11 +1252,11 @@ fsm.
   </a>
   - Evolutive Neural Networks framework à la G.Sher written in Elixir.
   <sup>
-   &#9733 9, pushed 69 days ago
+   &#9733 9, pushed 194 days ago
   </sup>
  </li>
  <li>
-  <a href="https://gitlab.com/onnoowl/Neat-Ex.git">
+  <a href="https://gitlab.com/onnoowl/Neat-Ex">
    Neat-Ex
   </a>
   - An Elixir implementation of the NEAT algorithm.
@@ -1174,7 +1277,7 @@ fsm.
   </a>
   - Erlang PortAudio bindings.
   <sup>
-   &#9733 12, pushed 281 days ago
+   &#9733 12, pushed 405 days ago
   </sup>
  </li>
  <li>
@@ -1183,7 +1286,7 @@ fsm.
   </a>
   - A signal synthesis library.
   <sup>
-   &#9733 12, pushed 118 days ago
+   &#9733 12, pushed 242 days ago
   </sup>
  </li>
 </ul>
@@ -1192,7 +1295,7 @@ fsm.
 </h2>
 <p>
  <em>
-  Libraries for implementing authentications schemes.
+  Libraries for implementing authentication schemes.
  </em>
 </p>
 <ul>
@@ -1202,7 +1305,7 @@ fsm.
   </a>
   - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
   <sup>
-   &#9733 22, pushed 5 days ago
+   &#9733 22, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1215,7 +1318,7 @@ fsm.
   </a>
   - Apache/APR Style Password Hashing.
   <sup>
-   &#9733 2, pushed 584 days ago
+   &#9733 2, pushed 709 days ago
   </sup>
  </li>
  <li>
@@ -1224,7 +1327,7 @@ fsm.
   </a>
   - AWS Signature Version 4 Signing Library for Elixir.
   <sup>
-   &#9733 25, pushed 33 days ago
+   &#9733 25, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1233,8 +1336,14 @@ fsm.
   </a>
   - All-in-one membership/authentication system for Elixir.
   <sup>
-   &#9733 14, pushed 200 days ago
+   &#9733 14, pushed 325 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/smpallen99/coherence">
+   coherence
+  </a>
+  - Coherence is a full featured, configurable authentication system for Phoenix.
  </li>
  <li>
   <a href="https://github.com/lidashuang/github_oauth">
@@ -1242,7 +1351,7 @@ fsm.
   </a>
   - A simple github oauth library.
   <sup>
-   &#9733 4, pushed 390 days ago
+   &#9733 4, pushed 515 days ago
   </sup>
  </li>
  <li>
@@ -1251,7 +1360,7 @@ fsm.
   </a>
   - OAuth 2.0 library for server to server applications via Google Cloud APIs.
   <sup>
-   &#9733 5, pushed 4 days ago
+   &#9733 5, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1260,7 +1369,7 @@ fsm.
   </a>
   - An authentication framework for use with Elixir applications.
   <sup>
-   &#9733 697, pushed 2 days ago
+   &#9733 697, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1269,7 +1378,7 @@ fsm.
   </a>
   - Apache httpasswd file reader/writer in Elixir.
   <sup>
-   &#9733 0, pushed 396 days ago
+   &#9733 0, pushed 521 days ago
   </sup>
  </li>
  <li>
@@ -1278,7 +1387,7 @@ fsm.
   </a>
   - MojoAuth implementation in Elixir.
   <sup>
-   &#9733 2, pushed 82 days ago
+   &#9733 2, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -1287,7 +1396,7 @@ fsm.
   </a>
   - An OAuth 2.0 client library for Elixir.
   <sup>
-   &#9733 199, pushed 5 days ago
+   &#9733 199, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1296,7 +1405,7 @@ fsm.
   </a>
   - Simple OAuth2 client written for Elixir.
   <sup>
-   &#9733 3, pushed 448 days ago
+   &#9733 3, pushed 573 days ago
   </sup>
  </li>
  <li>
@@ -1305,7 +1414,7 @@ fsm.
   </a>
   - Another OAuth 2.0 client library for Elixir.
   <sup>
-   &#9733 46, pushed 51 days ago
+   &#9733 46, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -1314,8 +1423,20 @@ fsm.
   </a>
   - An OAuth 1.0 implementation for Elixir.
   <sup>
-   &#9733 17, pushed 230 days ago
+   &#9733 17, pushed 355 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/riverrun/openmaize">
+   openmaize
+  </a>
+  - Authentication library for Elixir.
+ </li>
+ <li>
+  <a href="https://github.com/mustafaturan/shield">
+   shield
+  </a>
+  - An OAuth 2.0 provider library and implementation for Phoenix Framework.
  </li>
  <li>
   <a href="https://github.com/ueberauth/ueberauth">
@@ -1323,8 +1444,30 @@ fsm.
   </a>
   - An Elixir Authentication System for Plug-based Web Applications.
   <sup>
-   &#9733 201, pushed 16 days ago
+   &#9733 201, pushed 141 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/torrick/ueberauth_active_directory">
+   ueberauth
+   <em>
+    active
+   </em>
+   directory
+  </a>
+  - Uberauth strategy for Active Directory authentication.
+ </li>
+ <li>
+  <a href="https://hex.pm/packages/ueberauth_auth0">
+   ueberauth_auth0
+  </a>
+  - An Ueberauth strategy for using Auth0 to authenticate your users.
+ </li>
+ <li>
+  <a href="https://github.com/marceldegraaf/ueberauth_cas">
+   ueberauth_cas
+  </a>
+  - Central Authentication Service strategy for Überauth.
  </li>
  <li>
   <a href="https://github.com/ueberauth/ueberauth_Facebook">
@@ -1332,7 +1475,7 @@ fsm.
   </a>
   - Facebook OAuth2 Strategy for Überauth.
   <sup>
-   &#9733 7, pushed 11 days ago
+   &#9733 7, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1341,7 +1484,7 @@ fsm.
   </a>
   - A GitHub strategy for Überauth.
   <sup>
-   &#9733 11, pushed 131 days ago
+   &#9733 11, pushed 255 days ago
   </sup>
  </li>
  <li>
@@ -1350,7 +1493,7 @@ fsm.
   </a>
   - A Google strategy for Überauth.
   <sup>
-   &#9733 13, pushed 46 days ago
+   &#9733 13, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1359,8 +1502,14 @@ fsm.
   </a>
   - A simple username/password strategy for Überauth.
   <sup>
-   &#9733 10, pushed 57 days ago
+   &#9733 10, pushed 181 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alexfilatov/ueberauth_line">
+   ueberauth_line
+  </a>
+  - LINE Strategy for Überauth.
  </li>
  <li>
   <a href="https://github.com/ueberauth/ueberauth_slack">
@@ -1368,7 +1517,7 @@ fsm.
   </a>
   - A Slack strategy for Überauth.
   <sup>
-   &#9733 1, pushed 19 days ago
+   &#9733 1, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1377,7 +1526,7 @@ fsm.
   </a>
   - Twitter Strategy for Überauth.
   <sup>
-   &#9733 10, pushed 135 days ago
+   &#9733 10, pushed 260 days ago
   </sup>
  </li>
  <li>
@@ -1390,8 +1539,18 @@ fsm.
   </a>
   Strategy for Überauth.
   <sup>
-   &#9733 2, pushed 29 days ago
+   &#9733 2, pushed 154 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/he9qi/ueberauth_weibo">
+   ueberauth_weibo
+  </a>
+  -
+  <a href="https://weibo.com">
+   Weibo
+  </a>
+  OAuth2 Strategy for Überauth.
  </li>
 </ul>
 <h2>
@@ -1404,21 +1563,18 @@ fsm.
 </p>
 <ul>
  <li>
+  <a href="https://github.com/jarednorman/canada">
+   canada
+  </a>
+  - A simple authorization library that provides a friendly interface using declarative permission rules.
+ </li>
+ <li>
   <a href="https://github.com/cpjk/canary">
    canary
   </a>
   - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
   <sup>
-   &#9733 110, pushed 48 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/elixircnx/openmaize">
-   openmaize
-  </a>
-  - Authentication and authorization library for Elixir.
-  <sup>
-   &#9733 76, pushed 22 days ago
+   &#9733 110, pushed 173 days ago
   </sup>
  </li>
 </ul>
@@ -1437,8 +1593,18 @@ fsm.
   </a>
   - Connection behaviour for connection processes. The API is superset of the GenServer API.
   <sup>
-   &#9733 71, pushed 161 days ago
+   &#9733 71, pushed 285 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/antipax/gen_state_machine">
+   gen
+   <em>
+    state
+   </em>
+   machine
+  </a>
+  - Elixir wrapper for gen_statem.
  </li>
  <li>
   <a href="https://github.com/shanewilton/stockastic">
@@ -1446,7 +1612,41 @@ fsm.
   </a>
   - Simple Elixir wrapper for the Stockfighter API.
   <sup>
-   &#9733 18, pushed 113 days ago
+   &#9733 18, pushed 237 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Benchmarking
+</h2>
+<p>
+ <em>
+  Running code to see how long it takes, which is faster and/or if improvements have been made.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/PragTob/benchee">
+   benchee
+  </a>
+  - Easy and extensible benchmarking in Elixir!
+ </li>
+ <li>
+  <a href="https://github.com/alco/benchfella">
+   benchfella
+  </a>
+  - Benchmarking tool for Elixir.
+  <sup>
+   &#9733 154, pushed 202 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/joekain/bmark">
+   bmark
+  </a>
+  - A benchmarking tool for Elixir.
+  <sup>
+   &#9733 36, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -1465,7 +1665,7 @@ fsm.
   </a>
   - An incredibly fast, correct, pure-Elixir Bencoding library.
   <sup>
-   &#9733 15, pushed 28 days ago
+   &#9733 15, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1474,7 +1674,7 @@ fsm.
   </a>
   - Dealing with bittorrent tracker requests and responses.
   <sup>
-   &#9733 6, pushed 490 days ago
+   &#9733 6, pushed 615 days ago
   </sup>
  </li>
  <li>
@@ -1483,8 +1683,24 @@ fsm.
   </a>
   - Encode and decode bittorrent peer wire protocol messages with Elixir.
   <sup>
-   &#9733 7, pushed 121 days ago
+   &#9733 7, pushed 246 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ BSON
+</h2>
+<p>
+ <em>
+  Libraries and implementations working with BSON.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/Nebo15/bsoneach">
+   BSONMap
+  </a>
+  - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
  </li>
 </ul>
 <h2>
@@ -1502,7 +1718,7 @@ fsm.
   </a>
   - Recompilation and Reloading on FileSystem changes.
   <sup>
-   &#9733 37, pushed 44 days ago
+   &#9733 37, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -1511,7 +1727,7 @@ fsm.
   </a>
   - Rotor plugin to compile CoffeeScript files.
   <sup>
-   &#9733 15, pushed 588 days ago
+   &#9733 15, pushed 713 days ago
   </sup>
  </li>
  <li>
@@ -1520,7 +1736,7 @@ fsm.
   </a>
   - Mix compiler running make.
   <sup>
-   &#9733 2, pushed 492 days ago
+   &#9733 2, pushed 617 days ago
   </sup>
  </li>
  <li>
@@ -1529,17 +1745,14 @@ fsm.
   </a>
   - Deployment for Elixir and Erlang.
   <sup>
-   &#9733 391, pushed 5 days ago
+   &#9733 391, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/camshaft/etude">
+  <a href="https://github.com/exstruct/etude">
    etude
   </a>
   - Parallel computation coordination compiler for Erlang/Elixir.
-  <sup>
-   &#9733 4, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/lycus/exmake">
@@ -1547,7 +1760,7 @@ fsm.
   </a>
   - A modern, scriptable, dependency-based build tool loosely based on Make principles.
   <sup>
-   &#9733 15, pushed 524 days ago
+   &#9733 15, pushed 648 days ago
   </sup>
  </li>
  <li>
@@ -1556,7 +1769,7 @@ fsm.
   </a>
   - Elixir escript library.
   <sup>
-   &#9733 2, pushed 373 days ago
+   &#9733 2, pushed 498 days ago
   </sup>
  </li>
  <li>
@@ -1565,7 +1778,7 @@ fsm.
   </a>
   - Small and Fast Rebar Replacement.
   <sup>
-   &#9733 89, pushed 35 days ago
+   &#9733 89, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -1574,7 +1787,7 @@ fsm.
   </a>
   - A rebar3 port compiler.
   <sup>
-   &#9733 17, pushed 109 days ago
+   &#9733 17, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -1583,7 +1796,7 @@ fsm.
   </a>
   - React template into your Elixir application for server rendering.
   <sup>
-   &#9733 193, pushed 196 days ago
+   &#9733 193, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -1596,7 +1809,7 @@ fsm.
   </a>
   - Rebar3 abnfc compiler.
   <sup>
-   &#9733 0, pushed 243 days ago
+   &#9733 0, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -1609,7 +1822,7 @@ fsm.
   </a>
   - Plugin for compiling ASN.1 modules with Rebar3.
   <sup>
-   &#9733 0, pushed 120 days ago
+   &#9733 0, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -1618,7 +1831,7 @@ fsm.
   </a>
   - Rebar3 plugin to auto compile and reload on file change.
   <sup>
-   &#9733 17, pushed 211 days ago
+   &#9733 17, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -1631,7 +1844,7 @@ fsm.
   </a>
   - Compile diameter .dia files in rebar3 projects.
   <sup>
-   &#9733 0, pushed 13 days ago
+   &#9733 0, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1640,7 +1853,7 @@ fsm.
   </a>
   - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
   <sup>
-   &#9733 8, pushed 68 days ago
+   &#9733 8, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1649,7 +1862,7 @@ fsm.
   </a>
   - A plugin to run Elixir ExUnit tests from rebar3 build tool.
   <sup>
-   &#9733 0, pushed 223 days ago
+   &#9733 0, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -1662,7 +1875,7 @@ fsm.
   </a>
   - This is a plugin for compiling Erlang IDL files using Rebar3.
   <sup>
-   &#9733 0, pushed 306 days ago
+   &#9733 0, pushed 430 days ago
   </sup>
  </li>
  <li>
@@ -1671,7 +1884,7 @@ fsm.
   </a>
   - Rebar3 live plugin.
   <sup>
-   &#9733 2, pushed 275 days ago
+   &#9733 2, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -1684,7 +1897,7 @@ fsm.
   </a>
   - Rebar3 neotoma (Parser Expression Grammar) compiler.
   <sup>
-   &#9733 0, pushed 167 days ago
+   &#9733 0, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -1693,7 +1906,7 @@ fsm.
   </a>
   - rebar3 protobuffs provider using protobuffs from Basho.
   <sup>
-   &#9733 7, pushed 5 days ago
+   &#9733 7, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1702,7 +1915,7 @@ fsm.
   </a>
   - Run a release with one simple command.
   <sup>
-   &#9733 3, pushed 294 days ago
+   &#9733 3, pushed 418 days ago
   </sup>
  </li>
  <li>
@@ -1715,7 +1928,7 @@ fsm.
   </a>
   - Rebar3 yang compiler.
   <sup>
-   &#9733 0, pushed 230 days ago
+   &#9733 0, pushed 355 days ago
   </sup>
  </li>
  <li>
@@ -1724,7 +1937,7 @@ fsm.
   </a>
   - Erlang reltool utility functionality application.
   <sup>
-   &#9733 12, pushed 18 days ago
+   &#9733 12, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1733,7 +1946,7 @@ fsm.
   </a>
   - A release assembler for Erlang.
   <sup>
-   &#9733 399, pushed 4 days ago
+   &#9733 399, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1742,7 +1955,7 @@ fsm.
   </a>
   - Automatic recompilation of Mix code on file change.
   <sup>
-   &#9733 17, pushed 80 days ago
+   &#9733 17, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -1751,7 +1964,7 @@ fsm.
   </a>
   - Super-simple build system for Elixir.
   <sup>
-   &#9733 74, pushed 556 days ago
+   &#9733 74, pushed 680 days ago
   </sup>
  </li>
  <li>
@@ -1760,7 +1973,7 @@ fsm.
   </a>
   - A sass plugin for Elixir projects.
   <sup>
-   &#9733 0, pushed 582 days ago
+   &#9733 0, pushed 707 days ago
   </sup>
  </li>
 </ul>
@@ -1779,7 +1992,7 @@ fsm.
   </a>
   - A powerful caching library for Elixir with a wide featureset.
   <sup>
-   &#9733 45, pushed 6 days ago
+   &#9733 45, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1788,7 +2001,7 @@ fsm.
   </a>
   - ConCache is an ETS based key/value storage.
   <sup>
-   &#9733 105, pushed 59 days ago
+   &#9733 105, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -1797,8 +2010,14 @@ fsm.
   </a>
   - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
   <sup>
-   &#9733 6, pushed 159 days ago
+   &#9733 6, pushed 284 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jr0senblum/jc">
+   jc
+  </a>
+  - In-memory, distrbutable cache with pub/sub, JSON-query and consistency support.
  </li>
  <li>
   <a href="https://github.com/wooga/locker">
@@ -1806,7 +2025,7 @@ fsm.
   </a>
   - Atomic distributed "check and set" for short-lived keys.
   <sup>
-   &#9733 110, pushed 141 days ago
+   &#9733 110, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -1815,7 +2034,7 @@ fsm.
   </a>
   - Simple LRU Cache, implemented with ets.
   <sup>
-   &#9733 10, pushed 152 days ago
+   &#9733 10, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -1824,7 +2043,86 @@ fsm.
   </a>
   - A straightforward, fast, and user-friendly key/value store.
   <sup>
-   &#9733 18, pushed 39 days ago
+   &#9733 18, pushed 164 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Chatting
+</h2>
+<p>
+ <em>
+  Chatting via IRC, Slack, HipChat and other systems using Elixir.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/alco/chatty">
+   chatty
+  </a>
+  - A basic IRC client that is most useful for writing a bot.
+  <sup>
+   &#9733 24, pushed 253 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/operable/cog">
+   cog
+  </a>
+  - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+ </li>
+ <li>
+  <a href="https://github.com/bitwalker/exirc">
+   ExIrc
+  </a>
+  - IRC client adapter for Elixir projects.
+  <sup>
+   &#9733 62, pushed 156 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/elvio/guri">
+   Guri
+  </a>
+  - Automate tasks using chat messages.
+  <sup>
+   &#9733 6, pushed 237 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/scrogson/hedwig">
+   hedwig
+  </a>
+  - XMPP Client/Bot Framework for Elixir.
+  <sup>
+   &#9733 7, pushed 137 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Luminarys/Kaguya">
+   kaguya
+  </a>
+  - A small, powerful, and modular IRC bot.
+  <sup>
+   &#9733 40, pushed 133 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/koudelka/slacker">
+   slacker
+  </a>
+  - A bot library for the Slack chat service.
+  <sup>
+   &#9733 44, pushed 201 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Yawolf/yocingo">
+   yocingo
+  </a>
+  - Create your own Telegram Bot.
+  <sup>
+   &#9733 14, pushed 401 days ago
   </sup>
  </li>
 </ul>
@@ -1843,7 +2141,7 @@ fsm.
   </a>
   - AWS clients for Elixir.
   <sup>
-   &#9733 61, pushed 11 days ago
+   &#9733 61, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1858,14 +2156,17 @@ fsm.
   </a>
   - An OTP application for auto-discovering services with Consul.
   <sup>
-   &#9733 146, pushed 190 days ago
+   &#9733 146, pushed 314 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/gleber/erlcloud">
+  <a href="https://github.com/erlcloud/erlcloud">
    erlcloud
   </a>
   - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
+  <sup>
+   &#9733 383, pushed 129 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/CargoSense/ex_aws">
@@ -1873,7 +2174,7 @@ fsm.
   </a>
   - AWS client, supporting Dynamo, Kinesis, Lambda, SQS, and S3.
   <sup>
-   &#9733 123, pushed 4 days ago
+   &#9733 123, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1882,7 +2183,7 @@ fsm.
   </a>
   - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
   <sup>
-   &#9733 5, pushed 244 days ago
+   &#9733 5, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -1891,7 +2192,7 @@ fsm.
   </a>
   - Jupyter's kernel for Elixir programming language.
   <sup>
-   &#9733 52, pushed 38 days ago
+   &#9733 52, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -1900,7 +2201,7 @@ fsm.
   </a>
   - Kubernetes client and integration for Elixir, written in pure Elixir.
   <sup>
-   &#9733 14, pushed 274 days ago
+   &#9733 14, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -1909,8 +2210,20 @@ fsm.
   </a>
   - Strategies for automatic node discovery in Erlang.
   <sup>
-   &#9733 21, pushed 132 days ago
+   &#9733 21, pushed 256 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sashaafm/nomad">
+   nomad
+  </a>
+  - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
+ </li>
+ <li>
+  <a href="https://github.com/mustafaturan/oceanex">
+   oceanex
+  </a>
+  - Digital Ocean API client.
  </li>
  <li>
   <a href="https://github.com/basho/sidejob">
@@ -1918,7 +2231,7 @@ fsm.
   </a>
   - Parallel worker and capacity limiting library for Erlang.
   <sup>
-   &#9733 61, pushed 216 days ago
+   &#9733 61, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -1927,7 +2240,7 @@ fsm.
   </a>
   - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
   <sup>
-   &#9733 39, pushed 121 days ago
+   &#9733 39, pushed 246 days ago
   </sup>
  </li>
 </ul>
@@ -1946,7 +2259,7 @@ fsm.
   </a>
   - An example of CircleCI integration with Elixir.
   <sup>
-   &#9733 3, pushed 293 days ago
+   &#9733 3, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -1955,7 +2268,7 @@ fsm.
   </a>
   - Coverage Reports for Elixir.
   <sup>
-   &#9733 40, pushed 2 days ago
+   &#9733 40, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1964,7 +2277,7 @@ fsm.
   </a>
   - A static code analysis tool with a focus on code consistency and teaching Elixir.
   <sup>
-   &#9733 652, pushed 6 days ago
+   &#9733 652, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1973,7 +2286,7 @@ fsm.
   </a>
   - Mix tasks to simplify use of Dialyzer in Elixir projects.
   <sup>
-   &#9733 218, pushed 79 days ago
+   &#9733 218, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -1982,7 +2295,7 @@ fsm.
   </a>
   - A code style linter for Elixir, powered by shame.
   <sup>
-   &#9733 210, pushed 2 days ago
+   &#9733 210, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1991,7 +2304,7 @@ fsm.
   </a>
   - Coverage report tool for Elixir with coveralls.io integration.
   <sup>
-   &#9733 105, pushed 4 days ago
+   &#9733 105, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2000,7 +2313,7 @@ fsm.
   </a>
   - A simple code profiler for Elixir, using eprof.
   <sup>
-   &#9733 46, pushed 125 days ago
+   &#9733 46, pushed 250 days ago
   </sup>
  </li>
 </ul>
@@ -2019,7 +2332,7 @@ fsm.
   </a>
   - Command-Line application framework for Elixir.
   <sup>
-   &#9733 60, pushed 129 days ago
+   &#9733 60, pushed 254 days ago
   </sup>
  </li>
  <li>
@@ -2028,11 +2341,11 @@ fsm.
   </a>
   - Command-line options parser for Erlang.
   <sup>
-   &#9733 171, pushed 49 days ago
+   &#9733 171, pushed 174 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/sup/meld">
+  <a href="https://github.com/Lac/meld">
    meld
   </a>
   - Create global binaries from mix tasks.
@@ -2043,7 +2356,7 @@ fsm.
   </a>
   - Command-line progress bars and spinners.
   <sup>
-   &#9733 97, pushed 92 days ago
+   &#9733 97, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -2052,7 +2365,7 @@ fsm.
   </a>
   - Generate configurable ASCII style tables for display.
   <sup>
-   &#9733 28, pushed 106 days ago
+   &#9733 28, pushed 230 days ago
   </sup>
  </li>
 </ul>
@@ -2071,7 +2384,7 @@ fsm.
   </a>
   - A simple Elixir parser for the same kind of files that Python's configparser library handles.
   <sup>
-   &#9733 3, pushed 35 days ago
+   &#9733 3, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2080,7 +2393,7 @@ fsm.
   </a>
   - Easy release configuration for Elixir apps.
   <sup>
-   &#9733 113, pushed 6 days ago
+   &#9733 113, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2089,7 +2402,7 @@ fsm.
   </a>
   - A port of dotenv to Elixir.
   <sup>
-   &#9733 88, pushed 7 days ago
+   &#9733 88, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2098,7 +2411,7 @@ fsm.
   </a>
   - Simple Elixir Configuration Management.
   <sup>
-   &#9733 24, pushed 637 days ago
+   &#9733 24, pushed 762 days ago
   </sup>
  </li>
  <li>
@@ -2107,7 +2420,7 @@ fsm.
   </a>
   - Simple Elixir project configuration.
   <sup>
-   &#9733 6, pushed 53 days ago
+   &#9733 6, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -2116,7 +2429,7 @@ fsm.
   </a>
   - Environmental variables manager for Elixir.
   <sup>
-   &#9733 5, pushed 277 days ago
+   &#9733 5, pushed 402 days ago
   </sup>
  </li>
  <li>
@@ -2125,7 +2438,7 @@ fsm.
   </a>
   - Read YAML configuration files from any point at your app.
   <sup>
-   &#9733 1, pushed 675 days ago
+   &#9733 1, pushed 799 days ago
   </sup>
  </li>
 </ul>
@@ -2139,12 +2452,22 @@ fsm.
 </p>
 <ul>
  <li>
+  <a href="https://github.com/kleinernik/elixir-aes-cmac">
+   aescmac
+  </a>
+  - AES CMAC (
+  <a href="https://tools.ietf.org/html/rfc4493">
+   RFC 4493
+  </a>
+  ) in Elixir.
+ </li>
+ <li>
   <a href="https://github.com/rubencaro/cipher">
    cipher
   </a>
   - Elixir crypto library to encrypt/decrypt arbitrary binaries.
   <sup>
-   &#9733 8, pushed 10 days ago
+   &#9733 8, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2153,17 +2476,24 @@ fsm.
   </a>
   - Cloak makes it easy to use encryption with Ecto.
   <sup>
-   &#9733 35, pushed 16 days ago
+   &#9733 35, pushed 140 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/elixircnx/comeonin">
+  <a href="https://github.com/riverrun/comeonin">
    comeonin
   </a>
-  - Password authorization (bcrypt) library for Elixir.
-  <sup>
-   &#9733 257, pushed 25 days ago
-  </sup>
+  - Password authorization (bcrypt, pbkdf2_sha512 and one-time passwords) library for Elixir.
+ </li>
+ <li>
+  <a href="https://github.com/potatosalad/erlang-crypto_rsassa_pss">
+   crypto
+   <em>
+    rsassa
+   </em>
+   pss
+  </a>
+  - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
  </li>
  <li>
   <a href="https://github.com/keichan34/elixir_tea">
@@ -2171,8 +2501,14 @@ fsm.
   </a>
   - TEA implementation in Elixir.
   <sup>
-   &#9733 1, pushed 363 days ago
+   &#9733 1, pushed 488 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/manelli/ex_bcrypt">
+   ex_bcrypt
+  </a>
+  - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
  </li>
  <li>
   <a href="https://github.com/ntrepid8/ex_crypto">
@@ -2188,7 +2524,7 @@ fsm.
   </code>
   modules. Provides sensible defaults for many crypto functions to make them easier to use.
   <sup>
-   &#9733 8, pushed 21 days ago
+   &#9733 8, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2197,7 +2533,7 @@ fsm.
   </a>
   - Use gpg from Elixir.
   <sup>
-   &#9733 3, pushed 181 days ago
+   &#9733 3, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -2206,7 +2542,7 @@ fsm.
   </a>
   - Erlang library for generating one time passwords compatible with Google Authenticator.
   <sup>
-   &#9733 16, pushed 83 days ago
+   &#9733 16, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2555,7 @@ fsm.
   </code>
   cryptography wrapper for Elixir.
   <sup>
-   &#9733 9, pushed 496 days ago
+   &#9733 9, pushed 621 days ago
   </sup>
  </li>
  <li>
@@ -2228,7 +2564,7 @@ fsm.
   </a>
   - Elixir implementation of the SipHash hash family.
   <sup>
-   &#9733 3, pushed 101 days ago
+   &#9733 3, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -2237,7 +2573,7 @@ fsm.
   </a>
   - Tiny Encryption Algorithm implementation.
   <sup>
-   &#9733 0, pushed 490 days ago
+   &#9733 0, pushed 615 days ago
   </sup>
  </li>
 </ul>
@@ -2256,7 +2592,7 @@ fsm.
   </a>
   - CSV handling library for Elixir.
   <sup>
-   &#9733 18, pushed 685 days ago
+   &#9733 18, pushed 810 days ago
   </sup>
  </li>
  <li>
@@ -2265,7 +2601,7 @@ fsm.
   </a>
   - CSV Decoding and Encoding for Elixir.
   <sup>
-   &#9733 87, pushed 2 days ago
+   &#9733 87, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2274,7 +2610,7 @@ fsm.
   </a>
   - A CSV reading/writing application for Elixir.
   <sup>
-   &#9733 16, pushed 31 days ago
+   &#9733 16, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -2283,7 +2619,7 @@ fsm.
   </a>
   - CSV for Elixir.
   <sup>
-   &#9733 23, pushed 49 days ago
+   &#9733 23, pushed 173 days ago
   </sup>
  </li>
 </ul>
@@ -2305,7 +2641,7 @@ fsm.
   </a>
   - Macros to use :timer.apply
   <sup>
-   &#9733 7, pushed 549 days ago
+   &#9733 7, pushed 674 days ago
   </sup>
  </li>
 </ul>
@@ -2316,7 +2652,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Calendar is a date and time library for Elixir.
  <sup>
-  &#9733 168, pushed 21 days ago
+  &#9733 168, pushed 146 days ago
  </sup>
 </li>
 <li>
@@ -2325,7 +2661,7 @@ after and :timer.apply_interval with a block.
  </a>
  - An Elixir date/time library.
  <sup>
-  &#9733 75, pushed 97 days ago
+  &#9733 75, pushed 222 days ago
  </sup>
 </li>
 <li>
@@ -2334,7 +2670,7 @@ after and :timer.apply_interval with a block.
  </a>
  - ICalendar parser.
  <sup>
-  &#9733 4, pushed 22 days ago
+  &#9733 4, pushed 147 days ago
  </sup>
 </li>
 <li>
@@ -2343,7 +2679,7 @@ after and :timer.apply_interval with a block.
  </a>
  - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
  <sup>
-  &#9733 7, pushed 12 days ago
+  &#9733 7, pushed 136 days ago
  </sup>
 </li>
 <li>
@@ -2352,7 +2688,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Expressive and easy to use datetime functions.
  <sup>
-  &#9733 16, pushed 30 days ago
+  &#9733 16, pushed 155 days ago
  </sup>
 </li>
 <li>
@@ -2361,7 +2697,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Simple library to work with milliseconds in Elixir.
  <sup>
-  &#9733 1, pushed 390 days ago
+  &#9733 1, pushed 514 days ago
  </sup>
 </li>
 <li>
@@ -2370,7 +2706,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Parse, validate, manipulate, and display dates in Elixir.
  <sup>
-  &#9733 20, pushed 206 days ago
+  &#9733 20, pushed 330 days ago
  </sup>
 </li>
 <li>
@@ -2379,7 +2715,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Cron-like job scheduler for Elixir applications.
  <sup>
-  &#9733 256, pushed 28 days ago
+  &#9733 256, pushed 153 days ago
  </sup>
 </li>
 <li>
@@ -2388,7 +2724,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Natural language parsing for repeating dates.
  <sup>
-  &#9733 10, pushed 116 days ago
+  &#9733 10, pushed 241 days ago
  </sup>
 </li>
 <li>
@@ -2397,7 +2733,7 @@ after and :timer.apply_interval with a block.
  </a>
  - Easy to use Date and Time modules for Elixir.
  <sup>
-  &#9733 352, pushed 6 days ago
+  &#9733 352, pushed 131 days ago
  </sup>
 </li>
 <li>
@@ -2406,7 +2742,7 @@ after and :timer.apply_interval with a block.
  </a>
  - A date/time interval library for Elixir projects, based on Timex.
  <sup>
-  &#9733 6, pushed 206 days ago
+  &#9733 6, pushed 331 days ago
  </sup>
 </li>
 <li>
@@ -2415,7 +2751,7 @@ after and :timer.apply_interval with a block.
  </a>
  - The timezone database in Elixir.
  <sup>
-  &#9733 25, pushed 21 days ago
+  &#9733 25, pushed 145 days ago
  </sup>
 </li>
 <h2>
@@ -2433,25 +2769,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Statistics and Metrics library for Elixir.
   <sup>
-   &#9733 197, pushed 42 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/alco/benchfella">
-   benchfella
-  </a>
-  - Benchmarking tool for Elixir.
-  <sup>
-   &#9733 154, pushed 77 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/joekain/bmark">
-   bmark
-  </a>
-  - A benchmarking tool for Elixir.
-  <sup>
-   &#9733 36, pushed 42 days ago
+   &#9733 197, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -2460,7 +2778,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Boot an Elixir application, step by step.
   <sup>
-   &#9733 11, pushed 505 days ago
+   &#9733 11, pushed 630 days ago
   </sup>
  </li>
  <li>
@@ -2469,7 +2787,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Distributed tracing for Elixir.
   <sup>
-   &#9733 77, pushed 149 days ago
+   &#9733 77, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -2478,7 +2796,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Flame Graph profiler for Erlang.
   <sup>
-   &#9733 199, pushed 185 days ago
+   &#9733 199, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -2487,16 +2805,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A tool to look up Elixir documentation from the command line.
   <sup>
-   &#9733 10, pushed 214 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pinterest/elixometer">
-   elixometer
-  </a>
-  - A light Elixir wrapper around exometer.
-  <sup>
-   &#9733 293, pushed 64 days ago
+   &#9733 10, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -2505,16 +2814,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Erlang performance and debugging tools.
   <sup>
-   &#9733 341, pushed 11 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/benoitc/erlang-metrics">
-   erlang-metrics
-  </a>
-  - A generic interface to different metrics systems in Erlang.
-  <sup>
-   &#9733 18, pushed 32 days ago
+   &#9733 341, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2523,16 +2823,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Ether provides functionality to hook Elixir into the Erlang debugger.
   <sup>
-   &#9733 3, pushed 358 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Feuerlabs/exometer">
-   exometer
-  </a>
-  - Basic measurement objects and probe behavior in Erlang.
-  <sup>
-   &#9733 308, pushed 85 days ago
+   &#9733 3, pushed 482 days ago
   </sup>
  </li>
  <li>
@@ -2541,7 +2832,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
   <sup>
-   &#9733 44, pushed 92 days ago
+   &#9733 44, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -2550,7 +2841,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
   <sup>
-   &#9733 251, pushed 32 days ago
+   &#9733 251, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2559,7 +2850,7 @@ after and :timer.apply_interval with a block.
   </a>
   - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
   <sup>
-   &#9733 28, pushed 72 days ago
+   &#9733 28, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -2568,8 +2859,24 @@ after and :timer.apply_interval with a block.
   </a>
   - A process visualizer for remote BEAM nodes.
   <sup>
-   &#9733 460, pushed 150 days ago
+   &#9733 460, pushed 274 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Deployment
+</h2>
+<p>
+ <em>
+  Installing and running your code automatically on other machines.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/hashrocket/gatling">
+   gatling
+  </a>
+  - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
  </li>
 </ul>
 <h2>
@@ -2587,7 +2894,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Generate Phoenix API documentation from tests.
   <sup>
-   &#9733 62, pushed 26 days ago
+   &#9733 62, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2596,7 +2903,7 @@ after and :timer.apply_interval with a block.
   </a>
   - ExDoc is a tool to generate documentation for your Elixir projects.
   <sup>
-   &#9733 219, pushed 8 days ago
+   &#9733 219, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2609,7 +2916,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Formatter for ExDoc to generate docset documentation for use in Dash.app.
   <sup>
-   &#9733 51, pushed 227 days ago
+   &#9733 51, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -2618,7 +2925,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Convert hex doc to Dash.app's docset format.
   <sup>
-   &#9733 13, pushed 159 days ago
+   &#9733 13, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -2633,8 +2940,14 @@ after and :timer.apply_interval with a block.
   </a>
   - Add swagger compliant documentation to your maru API.
   <sup>
-   &#9733 16, pushed 4 days ago
+   &#9733 16, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/xerions/phoenix_swagger">
+   phoenix_swagger
+  </a>
+  - Provides swagger integration to the Phoenix framework.
  </li>
 </ul>
 <h2>
@@ -2652,14 +2965,17 @@ after and :timer.apply_interval with a block.
   </a>
   - Fully featured GraphQL library.
   <sup>
-   &#9733 243, pushed 4 days ago
+   &#9733 243, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/joshprice/graphql-elixir">
+  <a href="https://github.com/graphql-elixir/graphql">
    graphql
   </a>
   - An Elixir implementation of Facebook's GraphQL.
+  <sup>
+   &#9733 314, pushed 127 days ago
+  </sup>
  </li>
 </ul>
 <h2>
@@ -2677,7 +2993,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A implementation of the SpiderMonkey Parser API in Elixir.
   <sup>
-   &#9733 35, pushed 59 days ago
+   &#9733 35, pushed 184 days ago
   </sup>
  </li>
 </ul>
@@ -2696,7 +3012,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev.
   <sup>
-   &#9733 187, pushed 2 days ago
+   &#9733 187, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2705,7 +3021,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A meta-notification system; Echo checks notification preferences & dispatches notifications.
   <sup>
-   &#9733 16, pushed 70 days ago
+   &#9733 16, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -2714,7 +3030,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A generic Erlang SMTP server and client that can be extended via callback modules.
   <sup>
-   &#9733 351, pushed 9 days ago
+   &#9733 351, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2723,7 +3039,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A simple Gmail REST API client for Elixir.
   <sup>
-   &#9733 11, pushed 46 days ago
+   &#9733 11, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -2732,7 +3048,7 @@ after and :timer.apply_interval with a block.
   </a>
   - An RFC2822 implementation in Elixir, built for composability.
   <sup>
-   &#9733 218, pushed 36 days ago
+   &#9733 218, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2741,7 +3057,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A simple SMTP mailer.
   <sup>
-   &#9733 40, pushed 48 days ago
+   &#9733 40, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -2750,7 +3066,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
   <sup>
-   &#9733 18, pushed 166 days ago
+   &#9733 18, pushed 291 days ago
   </sup>
  </li>
  <li>
@@ -2759,8 +3075,14 @@ after and :timer.apply_interval with a block.
   </a>
   - Mailman provides a clean way of defining mailers in your Elixir applications.
   <sup>
-   &#9733 111, pushed 3 days ago
+   &#9733 111, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://hex.pm/packages/pop3mail">
+   pop3mail
+  </a>
+  - Pop3 client to download email (including attachments) from the inbox via the commandline or Elixir API.
  </li>
  <li>
   <a href="https://github.com/swoosh/swoosh">
@@ -2768,7 +3090,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Compose, deliver and test your Emails easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and Phoenix integration with mailbox preview.
   <sup>
-   &#9733 167, pushed 5 days ago
+   &#9733 167, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2787,7 +3109,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Configure, compile and share systems, toolchains and linux firmware.
   <sup>
-   &#9733 37, pushed 17 days ago
+   &#9733 37, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -2812,7 +3134,53 @@ after and :timer.apply_interval with a block.
   </a>
   - Huffman encoding and decoding in Elixir.
   <sup>
-   &#9733 4, pushed 324 days ago
+   &#9733 4, pushed 448 days ago
+  </sup>
+ </li>
+</ul>
+<h2>
+ Errors and Exception Handling
+</h2>
+<p>
+ <em>
+  Working with errors and exceptions.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/expede/exceptional">
+   exceptional
+  </a>
+  - Helpers for happy-path programming & exception handling.
+ </li>
+ <li>
+  <a href="https://github.com/vic/happy">
+   happy
+  </a>
+  - Happy path programming, alternative to elixir
+  <code>
+   with
+  </code>
+  form.
+  <sup>
+   &#9733 9, pushed 141 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/vic/ok_jose">
+   ok_jose
+  </a>
+  - Pipe elixir functions that match
+  <code>
+   {:ok,_}
+  </code>
+  ,
+  <code>
+   {:error,_}
+  </code>
+  tuples or custom patterns.
+  <sup>
+   &#9733 17, pushed 227 days ago
   </sup>
  </li>
 </ul>
@@ -2831,7 +3199,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Small, Fast event processing and monitoring for Erlang/OTP applications.
   <sup>
-   &#9733 36, pushed 169 days ago
+   &#9733 36, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -2844,7 +3212,7 @@ after and :timer.apply_interval with a block.
   </a>
   and Reactive Extensions.
   <sup>
-   &#9733 81, pushed 129 days ago
+   &#9733 81, pushed 254 days ago
   </sup>
  </li>
 </ul>
@@ -2863,7 +3231,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A Butler plugin for showing silly photos of Nick Cage.
   <sup>
-   &#9733 1, pushed 140 days ago
+   &#9733 1, pushed 265 days ago
   </sup>
  </li>
  <li>
@@ -2872,7 +3240,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Flipping tables with butler.
   <sup>
-   &#9733 1, pushed 90 days ago
+   &#9733 1, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -2881,7 +3249,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Roll the dice, in Elixir.
   <sup>
-   &#9733 7, pushed 450 days ago
+   &#9733 7, pushed 574 days ago
   </sup>
  </li>
  <li>
@@ -2894,8 +3262,14 @@ after and :timer.apply_interval with a block.
   </a>
   is a fun, easy way to get started with the elixir programming language.
   <sup>
-   &#9733 133, pushed 5 days ago
+   &#9733 133, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/eljojo/ex_chain">
+   ex_chain
+  </a>
+  - Simple Markov Chain that generates funny tweets, built using Elixir.
  </li>
  <li>
   <a href="https://github.com/cryptobird/ex_iss">
@@ -2903,7 +3277,7 @@ after and :timer.apply_interval with a block.
   </a>
   - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
   <sup>
-   &#9733 1, pushed 88 days ago
+   &#9733 1, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -2912,7 +3286,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Help applications kill themselves.
   <sup>
-   &#9733 7, pushed 10 days ago
+   &#9733 7, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2921,7 +3295,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Application template for SPAs with Phoenix, React and Redux.
   <sup>
-   &#9733 64, pushed 41 days ago
+   &#9733 64, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -2930,7 +3304,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Watch Japan's Kanji Usage on Twitter in Realtime.
   <sup>
-   &#9733 36, pushed 76 days ago
+   &#9733 36, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2939,7 +3313,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Learn Elixir by using elixir-koans.
   <sup>
-   &#9733 188, pushed 42 days ago
+   &#9733 188, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -2948,8 +3322,20 @@ after and :timer.apply_interval with a block.
   </a>
   - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
   <sup>
-   &#9733 5, pushed 359 days ago
+   &#9733 5, pushed 484 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sergiotapia/magnetissimo">
+   magnetissimo
+  </a>
+  - Web application that indexes all popular torrent sites, and saves it to the local database.
+ </li>
+ <li>
+  <a href="https://github.com/wojtekmach/oop">
+   oop
+  </a>
+  - OOP in Elixir!
  </li>
  <li>
   <a href="https://github.com/fxg42/phoenix-flux-react">
@@ -2957,7 +3343,7 @@ after and :timer.apply_interval with a block.
   </a>
   - An experiment with Phoenix Channels, GenEvents, React and Flux.
   <sup>
-   &#9733 153, pushed 388 days ago
+   &#9733 153, pushed 513 days ago
   </sup>
  </li>
  <li>
@@ -2966,7 +3352,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
   <sup>
-   &#9733 23, pushed 571 days ago
+   &#9733 23, pushed 696 days ago
   </sup>
  </li>
  <li>
@@ -2981,20 +3367,16 @@ after and :timer.apply_interval with a block.
   </a>
   - A very simple (and barely-functioning) Ruby runner for Elixir.
   <sup>
-   &#9733 1, pushed 462 days ago
+   &#9733 1, pushed 586 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/cazrin/stranger">
    stranger
   </a>
-  - Elixir Phoenix app to chat anonymously with a randomly chosen stranger
-  <a href="hellostranger.xyz">
-   https://hellostranger.xyz
-  </a>
-  .
+  - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
   <sup>
-   &#9733 43, pushed 72 days ago
+   &#9733 43, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -3003,7 +3385,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A command line weather app built using Elixir.
   <sup>
-   &#9733 54, pushed 11 days ago
+   &#9733 54, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -3022,7 +3404,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Parse RSS and Atom feeds.
   <sup>
-   &#9733 13, pushed 257 days ago
+   &#9733 13, pushed 382 days ago
   </sup>
  </li>
  <li>
@@ -3031,7 +3413,7 @@ after and :timer.apply_interval with a block.
   </a>
   - RSS feed parser. Simple wrapper for feeder.
   <sup>
-   &#9733 20, pushed 340 days ago
+   &#9733 20, pushed 465 days ago
   </sup>
  </li>
  <li>
@@ -3040,7 +3422,7 @@ after and :timer.apply_interval with a block.
   </a>
   - RSS/Atom parser built on erlang's xmerl xml parser.
   <sup>
-   &#9733 4, pushed 162 days ago
+   &#9733 4, pushed 287 days ago
   </sup>
  </li>
 </ul>
@@ -3059,7 +3441,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Flexible file upload and attachment library for Elixir.
   <sup>
-   &#9733 213, pushed 6 days ago
+   &#9733 213, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3068,7 +3450,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Monitor Linux file system events.
   <sup>
-   &#9733 8, pushed 162 days ago
+   &#9733 8, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -3077,7 +3459,7 @@ after and :timer.apply_interval with a block.
   </a>
   - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
   <sup>
-   &#9733 18, pushed 348 days ago
+   &#9733 18, pushed 472 days ago
   </sup>
  </li>
  <li>
@@ -3086,7 +3468,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A framework for doing Hadoop style Map/Reduce operations on collections of files.
   <sup>
-   &#9733 18, pushed 186 days ago
+   &#9733 18, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -3095,7 +3477,7 @@ after and :timer.apply_interval with a block.
   </a>
   - ExGuard is a mix command to handle events on file system modifications.
   <sup>
-   &#9733 12, pushed 5 days ago
+   &#9733 12, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3104,7 +3486,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Globbing paths without walking the tree!.
   <sup>
-   &#9733 6, pushed 392 days ago
+   &#9733 6, pushed 516 days ago
   </sup>
  </li>
  <li>
@@ -3113,7 +3495,7 @@ after and :timer.apply_interval with a block.
   </a>
   - File upload handling, persistence, and processing in Elixir and Plug.
   <sup>
-   &#9733 18, pushed 5 days ago
+   &#9733 18, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3126,7 +3508,7 @@ after and :timer.apply_interval with a block.
   </strong>
   .
   <sup>
-   &#9733 15, pushed 118 days ago
+   &#9733 15, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -3135,7 +3517,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Configurable mix task to watch file changes and run the corresponding command.
   <sup>
-   &#9733 10, pushed 10 days ago
+   &#9733 10, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -3144,7 +3526,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Erlang FileSystem Listener.
   <sup>
-   &#9733 71, pushed 44 days ago
+   &#9733 71, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -3157,7 +3539,7 @@ after and :timer.apply_interval with a block.
   </strong>
   .
   <sup>
-   &#9733 1, pushed 70 days ago
+   &#9733 1, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -3166,7 +3548,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Elixir library to convert office documents to other formats using LibreOffice.
   <sup>
-   &#9733 7, pushed 21 days ago
+   &#9733 7, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -3175,8 +3557,20 @@ after and :timer.apply_interval with a block.
   </a>
   - Path library for Elixir, inspired by Python's Enhpath.
   <sup>
-   &#9733 13, pushed 151 days ago
+   &#9733 13, pushed 276 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zackehh/sentix">
+   sentix
+  </a>
+  - A cross-platform file watcher for Elixir based on fswatch.
+ </li>
+ <li>
+  <a href="https://github.com/arvidkahl/sizeable">
+   sizeable
+  </a>
+  - An Elixir library to make file sizes human-readable.
  </li>
  <li>
   <a href="https://github.com/ricn/zarex">
@@ -3184,7 +3578,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Filename sanitization for Elixir.
   <sup>
-   &#9733 7, pushed 400 days ago
+   &#9733 7, pushed 525 days ago
   </sup>
  </li>
 </ul>
@@ -3203,7 +3597,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Erlang Business Documents Generator.
   <sup>
-   &#9733 13, pushed 25 days ago
+   &#9733 13, pushed 150 days ago
   </sup>
  </li>
 </ul>
@@ -3222,7 +3616,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Plug support for Absinthe.
   <sup>
-   &#9733 9, pushed 27 days ago
+   &#9733 9, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -3231,7 +3625,7 @@ after and :timer.apply_interval with a block.
   </a>
   - User authentication for Phoenix Framework.
   <sup>
-   &#9733 353, pushed 12 days ago
+   &#9733 353, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3240,7 +3634,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Report errors in your Plug stack or whatever to Airbrake.
   <sup>
-   &#9733 4, pushed 317 days ago
+   &#9733 4, pushed 441 days ago
   </sup>
  </li>
  <li>
@@ -3249,7 +3643,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A code generation tool for the Phoenix web framework.
   <sup>
-   &#9733 59, pushed 461 days ago
+   &#9733 59, pushed 586 days ago
   </sup>
  </li>
  <li>
@@ -3258,7 +3652,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Basic Access Authentication in Plug applications.
   <sup>
-   &#9733 11, pushed 262 days ago
+   &#9733 11, pushed 387 days ago
   </sup>
  </li>
  <li>
@@ -3267,7 +3661,7 @@ after and :timer.apply_interval with a block.
   </a>
   - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
   <sup>
-   &#9733 53, pushed 5 days ago
+   &#9733 53, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3276,7 +3670,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Elixir library for dealing with CORS requests.
   <sup>
-   &#9733 80, pushed 38 days ago
+   &#9733 80, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -3285,8 +3679,22 @@ after and :timer.apply_interval with a block.
   </a>
   - CRUD utilities for Phoenix and Ecto.
   <sup>
-   &#9733 8, pushed 413 days ago
+   &#9733 8, pushed 538 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/inaka/Dayron">
+   dayron
+  </a>
+  - A repository
+  <em>
+   similar
+  </em>
+  to
+  <code>
+   Ecto.Repo
+  </code>
+  that works with REST API requests instead of a database.
  </li>
  <li>
   <a href="https://github.com/smpallen99/ex_admin">
@@ -3294,7 +3702,7 @@ after and :timer.apply_interval with a block.
   </a>
   - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
   <sup>
-   &#9733 108, pushed 2 days ago
+   &#9733 108, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3303,7 +3711,7 @@ after and :timer.apply_interval with a block.
   </a>
   - A few elixir libraries for working with django.
   <sup>
-   &#9733 1, pushed 62 days ago
+   &#9733 1, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -3312,11 +3720,11 @@ after and :timer.apply_interval with a block.
   </a>
   - Simple reCaptcha display/verify code for Elixir applications.
   <sup>
-   &#9733 3, pushed 253 days ago
+   &#9733 3, pushed 378 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aarvay/graphql_parser">
+  <a href="https://github.com/graphql-elixir/graphql_parser">
    graphql_parser
   </a>
   - An Elixir binding for
@@ -3324,12 +3732,24 @@ after and :timer.apply_interval with a block.
    libgraphqlparser
   </a>
   .
+  <sup>
+   &#9733 7, pushed 182 days ago
+  </sup>
  </li>
  <li>
-  <a href="https://github.com/slogsdon/elixir-http-router">
+  <a href="https://github.com/sugar-framework/elixir-http-router">
    http_router
   </a>
   - HTTP Router with various macros to assist in developing your application and organizing your code.
+  <sup>
+   &#9733 7, pushed 202 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/elixirdrops/kerosene">
+   kerosene
+  </a>
+  - Pagination for Ecto and Phoenix.
  </li>
  <li>
   <a href="https://github.com/sajmoon/mellon">
@@ -3337,8 +3757,14 @@ after and :timer.apply_interval with a block.
   </a>
   - An authentication module for Plug applications.
   <sup>
-   &#9733 2, pushed 26 days ago
+   &#9733 2, pushed 150 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Nebo15/multiverse">
+   multiverse
+  </a>
+  - Plug that allows to add version compatibility layers via API Request/Response Gateways.
  </li>
  <li>
   <a href="https://github.com/vic/params">
@@ -3346,7 +3772,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
   <sup>
-   &#9733 10, pushed 14 days ago
+   &#9733 10, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3355,7 +3781,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Passport provides authentication for Phoenix applications.
   <sup>
-   &#9733 91, pushed 82 days ago
+   &#9733 91, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -3364,7 +3790,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Phoenix and Ecto integration.
   <sup>
-   &#9733 69, pushed 14 days ago
+   &#9733 69, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -3373,7 +3799,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Phoenix Template Engine for Haml.
   <sup>
-   &#9733 79, pushed 25 days ago
+   &#9733 79, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -3382,7 +3808,7 @@ after and :timer.apply_interval with a block.
   </a>
   - Phoenix.HTML functions for working with HTML strings and templates.
   <sup>
-   &#9733 55, pushed 11 days ago
+   &#9733 55, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -3395,145 +3821,167 @@ after and :timer.apply_interval with a block.
   </a>
   - HTML Sanitizer integration for Phoenix.
   <sup>
-   &#9733 4, pushed 267 days ago
+   &#9733 4, pushed 392 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/jxs/phoenix_linguist">
-   phoenix_linguist
-  </a>
-  - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
-  <sup>
-   &#9733 12, pushed 155 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/phoenixframework/phoenix_live_reload">
+  <a href="https://github.com/ikeikeikeike/phoenix_html_simplified_helpers">
    phoenix
    <em>
-    live
+    html
    </em>
-   reload
-  </a>
-  - Provides live-reload functionality for Phoenix.
-  <sup>
-   &#9733 48, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/opendrops/phoenix-pubsub-postgres">
-   phoenix
+   simplified
    <em>
-    pubsub
-   </em>
-   postgres
-  </a>
-  - Postgresql PubSub adapter for Phoenix apps.
-  <sup>
-   &#9733 21, pushed 367 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pma/phoenix_pubsub_rabbitmq">
-   phoenix
-   <em>
-    pubsub
-   </em>
-   rabbitmq
-  </a>
-  - RabbitMQ adapter for Phoenix's PubSub layer.
-  <sup>
-   &#9733 17, pushed 186 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/phoenixframework/phoenix_pubsub_redis">
-   phoenix
-   <em>
-    pubsub
-   </em>
-   redis
-  </a>
-  - The Redis PubSub adapter for the Phoenix framework.
-  <sup>
-   &#9733 36, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/larshesel/phoenix_pubsub_vernemq">
-   phoenix
-   <em>
-    pubsub
-   </em>
-   vernemq
-  </a>
-  - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
-  <sup>
-   &#9733 16, pushed 309 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/slime-lang/phoenix_slime">
-   phoenix_slime
-  </a>
-  - Slim template support for Phoenix.
-  <sup>
-   &#9733 61, pushed 44 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/manukall/phoenix_token_auth">
-   phoenix
-   <em>
-    token
-   </em>
-   auth
-  </a>
-  - Token authentication solution for Phoenix. Useful for APIs or single page apps.
-  <sup>
-   &#9733 143, pushed 47 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/elixir-lang/plug">
-   plug
-  </a>
-  - A specification and conveniences for composable modules in between web applications.
-  <sup>
-   &#9733 819, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mneudert/plug_accesslog">
-   plug_accesslog
-  </a>
-  - Plug for writing access logs.
-  <sup>
-   &#9733 8, pushed 39 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bitgamma/plug_auth">
-   plug_auth
-  </a>
-  - Collection of authentication-related plugs.
-  <sup>
-   &#9733 46, pushed 46 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/c-rack/plug_cloudflare">
-   plug
-   <em>
-    cloudflare
+    helpers
    </em>
   </a>
-  - Inspired by mod
-  <sup>
-   &#9733 4, pushed 35 days ago
-  </sup>
+  - Some helpers for phoenix html (truncate, time
  </li>
 </ul>
+ago
+<em>
+ in
+</em>
+words, number
+<em>
+ with
+</em>
+delimiter).
+<li>
+ <a href="https://github.com/jxs/phoenix_linguist">
+  phoenix_linguist
+ </a>
+ - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
+ <sup>
+  &#9733 12, pushed 280 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/phoenixframework/phoenix_live_reload">
+  phoenix
+  <em>
+   live
+  </em>
+  reload
+ </a>
+ - Provides live-reload functionality for Phoenix.
+ <sup>
+  &#9733 48, pushed 129 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/opendrops/phoenix-pubsub-postgres">
+  phoenix
+  <em>
+   pubsub
+  </em>
+  postgres
+ </a>
+ - Postgresql PubSub adapter for Phoenix apps.
+ <sup>
+  &#9733 21, pushed 492 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/pma/phoenix_pubsub_rabbitmq">
+  phoenix
+  <em>
+   pubsub
+  </em>
+  rabbitmq
+ </a>
+ - RabbitMQ adapter for Phoenix's PubSub layer.
+ <sup>
+  &#9733 17, pushed 311 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/phoenixframework/phoenix_pubsub_redis">
+  phoenix
+  <em>
+   pubsub
+  </em>
+  redis
+ </a>
+ - The Redis PubSub adapter for the Phoenix framework.
+ <sup>
+  &#9733 36, pushed 128 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/larshesel/phoenix_pubsub_vernemq">
+  phoenix
+  <em>
+   pubsub
+  </em>
+  vernemq
+ </a>
+ - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
+ <sup>
+  &#9733 16, pushed 434 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/slime-lang/phoenix_slime">
+  phoenix_slime
+ </a>
+ - Slim template support for Phoenix.
+ <sup>
+  &#9733 61, pushed 169 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/manukall/phoenix_token_auth">
+  phoenix
+  <em>
+   token
+  </em>
+  auth
+ </a>
+ - Token authentication solution for Phoenix. Useful for APIs or single page apps.
+ <sup>
+  &#9733 143, pushed 172 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/elixir-lang/plug">
+  plug
+ </a>
+ - A specification and conveniences for composable modules in between web applications.
+ <sup>
+  &#9733 819, pushed 127 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/mneudert/plug_accesslog">
+  plug_accesslog
+ </a>
+ - Plug for writing access logs.
+ <sup>
+  &#9733 8, pushed 164 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/bitgamma/plug_auth">
+  plug_auth
+ </a>
+ - Collection of authentication-related plugs.
+ <sup>
+  &#9733 46, pushed 171 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/c-rack/plug_cloudflare">
+  plug
+  <em>
+   cloudflare
+  </em>
+ </a>
+ - Inspired by mod
+ <sup>
+  &#9733 4, pushed 160 days ago
+ </sup>
+</li>
 cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote_ip field.
 <li>
  <a href="https://github.com/awetzel/plug_forwarded_peer">
@@ -3545,11 +3993,17 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote_ip with the root client ip.
  <sup>
-  &#9733 4, pushed 236 days ago
+  &#9733 4, pushed 361 days ago
  </sup>
 </li>
 <li>
- <a href="https://github.com/joshprice/plug_graphql">
+ <a href="https://github.com/obmarg/plug_fprof">
+  plug_fprof
+ </a>
+ - A Plug that adds fprof tracing to requests, to allow for easy profiling.
+</li>
+<li>
+ <a href="https://github.com/graphql-elixir/plug_graphql">
   plug_graphql
  </a>
  - Phoenix Plug integration for
@@ -3557,6 +4011,9 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   GraphQL Elixir
  </a>
  .
+ <sup>
+  &#9733 70, pushed 129 days ago
+ </sup>
 </li>
 <li>
  <a href="https://github.com/whatyouhide/plug_heartbeat">
@@ -3564,7 +4021,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - A plug for responding to heartbeat requests.
  <sup>
-  &#9733 7, pushed 219 days ago
+  &#9733 7, pushed 344 days ago
  </sup>
 </li>
 <li>
@@ -3573,7 +4030,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Plug for JWT authentication.
  <sup>
-  &#9733 29, pushed 258 days ago
+  &#9733 29, pushed 382 days ago
  </sup>
 </li>
 <li>
@@ -3590,7 +4047,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Rails compatible Plug session store.
  <sup>
-  &#9733 24, pushed 479 days ago
+  &#9733 24, pushed 604 days ago
  </sup>
 </li>
 <li>
@@ -3603,7 +4060,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Plug to redirect http requests to https requests behind a reverse proxy.
  <sup>
-  &#9733 3, pushed 53 days ago
+  &#9733 3, pushed 178 days ago
  </sup>
 </li>
 <li>
@@ -3616,7 +4073,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Require and extract HTTP headers and handle missing ones.
  <sup>
-  &#9733 17, pushed 102 days ago
+  &#9733 17, pushed 227 days ago
  </sup>
 </li>
 <li>
@@ -3629,8 +4086,14 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - easy manipulation of HTTP response headers.
  <sup>
-  &#9733 4, pushed 239 days ago
+  &#9733 4, pushed 364 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/christopheradams/plug_rest">
+  plug_rest
+ </a>
+ - REST behaviour and Plug router for hypermedia web applications.
 </li>
 <li>
  <a href="https://github.com/stnly/plug_ribbon">
@@ -3638,8 +4101,14 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Injects a ribbon to your web application in the development environment.
  <sup>
-  &#9733 10, pushed 264 days ago
+  &#9733 10, pushed 389 days ago
  </sup>
+</li>
+<li>
+ <a href="https://github.com/techgaun/plug_secex">
+  plug_secex
+ </a>
+ - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 </li>
 <li>
  <a href="https://github.com/gutschilla/plug-session-memcached">
@@ -3651,7 +4120,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - A very simple memcached session store for Elixir's plug.
  <sup>
-  &#9733 7, pushed 13 days ago
+  &#9733 7, pushed 137 days ago
  </sup>
 </li>
 <li>
@@ -3660,7 +4129,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - A plug for automatically sending timing and count metrics to statsd.
  <sup>
-  &#9733 32, pushed 22 days ago
+  &#9733 32, pushed 146 days ago
  </sup>
 </li>
 <li>
@@ -3669,7 +4138,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Collection of Plug middleware for web applications.
  <sup>
-  &#9733 11, pushed 70 days ago
+  &#9733 11, pushed 195 days ago
  </sup>
 </li>
 <li>
@@ -3678,7 +4147,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Bugsnag notifier for Elixir's plug.
  <sup>
-  &#9733 22, pushed 22 days ago
+  &#9733 22, pushed 146 days ago
  </sup>
 </li>
 <li>
@@ -3687,7 +4156,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Capture bugs and send them to Raygun.
  <sup>
-  &#9733 8, pushed 5 days ago
+  &#9733 8, pushed 130 days ago
  </sup>
 </li>
 <li>
@@ -3696,7 +4165,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
  <sup>
-  &#9733 3, pushed 130 days ago
+  &#9733 3, pushed 255 days ago
  </sup>
 </li>
 <li>
@@ -3709,7 +4178,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Plug application and middleware that serves endpoint returns application's REVISION.
  <sup>
-  &#9733 1, pushed 110 days ago
+  &#9733 1, pushed 234 days ago
  </sup>
 </li>
 <li>
@@ -3718,7 +4187,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - A mix task for creating new projects based on templates fetched from a Git-repo.
  <sup>
-  &#9733 4, pushed 337 days ago
+  &#9733 4, pushed 462 days ago
  </sup>
 </li>
 <li>
@@ -3727,7 +4196,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Paginate your Ecto queries.
  <sup>
-  &#9733 190, pushed 9 days ago
+  &#9733 190, pushed 133 days ago
  </sup>
 </li>
 <li>
@@ -3736,7 +4205,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Helpers for paginating API responses with Scrivener and HTTP headers.
  <sup>
-  &#9733 9, pushed 51 days ago
+  &#9733 9, pushed 176 days ago
  </sup>
 </li>
 <li>
@@ -3745,7 +4214,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
  <sup>
-  &#9733 17, pushed 18 days ago
+  &#9733 17, pushed 143 days ago
  </sup>
 </li>
 <li>
@@ -3754,7 +4223,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
  <sup>
-  &#9733 16, pushed 43 days ago
+  &#9733 16, pushed 167 days ago
  </sup>
 </li>
 <li>
@@ -3767,7 +4236,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - An Elixir plug to support legacy APIs that use a rails-like trailing format.
  <sup>
-  &#9733 9, pushed 95 days ago
+  &#9733 9, pushed 219 days ago
  </sup>
 </li>
 <li>
@@ -3776,7 +4245,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - Web DSL for Elixir.
  <sup>
-  &#9733 25, pushed 90 days ago
+  &#9733 25, pushed 215 days ago
  </sup>
 </li>
 <li>
@@ -3785,7 +4254,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
  </a>
  - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
  <sup>
-  &#9733 2, pushed 261 days ago
+  &#9733 2, pushed 385 days ago
  </sup>
 </li>
 <h2>
@@ -3803,7 +4272,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - An Elli Elixir wrapper with some sugar sytnax goodies.
   <sup>
-   &#9733 8, pushed 327 days ago
+   &#9733 8, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -3812,7 +4281,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
   <sup>
-   &#9733 6154, pushed 1 days ago
+   &#9733 6154, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3821,7 +4290,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
   <sup>
-   &#9733 99, pushed 254 days ago
+   &#9733 99, pushed 378 days ago
   </sup>
  </li>
  <li>
@@ -3830,7 +4299,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - API Gateways in Elixir.
   <sup>
-   &#9733 100, pushed 69 days ago
+   &#9733 100, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -3843,7 +4312,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   server.
   <sup>
-   &#9733 108, pushed 71 days ago
+   &#9733 108, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -3852,7 +4321,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Micro-REST framework with typed JSON.
   <sup>
-   &#9733 27, pushed 244 days ago
+   &#9733 27, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -3861,7 +4330,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Modular web framework for Elixir.
   <sup>
-   &#9733 261, pushed 75 days ago
+   &#9733 261, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -3870,7 +4339,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - An Elixir web micro-framework.
   <sup>
-   &#9733 106, pushed 65 days ago
+   &#9733 106, pushed 190 days ago
   </sup>
  </li>
 </ul>
@@ -3889,7 +4358,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - A distributed Entity-Component-System framework, providing its own example MMORPG server.
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -3912,7 +4381,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Provide distance and heading calculations via Google distance matrix api.
   <sup>
-   &#9733 14, pushed 29 days ago
+   &#9733 14, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3921,7 +4390,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - A collection of GIS functions for Elixir.
   <sup>
-   &#9733 114, pushed 8 days ago
+   &#9733 114, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3930,8 +4399,24 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Calculate distance, bearing and more between latitude/longitude points.
   <sup>
-   &#9733 8, pushed 6 days ago
+   &#9733 8, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/polmuz/elixir-geohash">
+   geohash
+  </a>
+  - Geohash encode/decode library.
+ </li>
+ <li>
+  <a href="https://github.com/navinpeiris/geoip">
+   geoip
+  </a>
+  - Find geolocation for a given IP, hostname or
+  <code>
+   Plug.Conn
+  </code>
+  .
  </li>
  <li>
   <a href="https://github.com/mneudert/geolix">
@@ -3939,7 +4424,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - MaxMind GeoIP2 database reader/decoder.
   <sup>
-   &#9733 21, pushed 5 days ago
+   &#9733 21, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3948,8 +4433,20 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - An Elixir library for IP2Location database.
   <sup>
-   &#9733 2, pushed 30 days ago
+   &#9733 2, pushed 155 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sergey-chechaev/elixir_ipgeobase">
+   ipgeobase
+  </a>
+  - Find Russian and Ukraine city by IP address and find country for other country.
+ </li>
+ <li>
+  <a href="https://github.com/CandyGumdrop/proj">
+   proj
+  </a>
+  - Elixir coordinate conversion library using OSGeo's PROJ.4.
  </li>
  <li>
   <a href="https://github.com/pkinney/segseg_ex">
@@ -3957,7 +4454,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Segment-segment intersection classifier and calculator.
   <sup>
-   &#9733 1, pushed 32 days ago
+   &#9733 1, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -3976,8 +4473,14 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
   <sup>
-   &#9733 98, pushed 2 days ago
+   &#9733 98, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nerves-project/nerves">
+   nerves
+  </a>
+  - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
  </li>
 </ul>
 <h2>
@@ -3995,7 +4498,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Simple and fast http proxy.
   <sup>
-   &#9733 25, pushed 97 days ago
+   &#9733 25, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -4004,7 +4507,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - An HTTP/SPDY server as a library.
   <sup>
-   &#9733 60, pushed 539 days ago
+   &#9733 60, pushed 664 days ago
   </sup>
  </li>
  <li>
@@ -4013,7 +4516,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
   <sup>
-   &#9733 572, pushed 71 days ago
+   &#9733 572, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -4022,7 +4525,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - HTTP request/response recording library for Elixir, inspired by VCR.
   <sup>
-   &#9733 133, pushed 6 days ago
+   &#9733 133, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4039,7 +4542,16 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   .
   <sup>
-   &#9733 11, pushed 117 days ago
+   &#9733 11, pushed 242 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/benoitc/hackney">
+   hackney
+  </a>
+  - Simple HTTP client written in Erlang.
+  <sup>
+   &#9733 496, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4048,8 +4560,20 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - HTTP server for Elixir.
   <sup>
-   &#9733 8, pushed 450 days ago
+   &#9733 8, pushed 574 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/techgaun/http_digex">
+   http_digex
+  </a>
+  - A module to create basic digest HTTP auth header.
+ </li>
+ <li>
+  <a href="https://github.com/KazuCocoa/http_proxy">
+   http_proxy
+  </a>
+  - Multi port HTTP Proxy.
  </li>
  <li>
   <a href="https://github.com/edgurgel/httpoison">
@@ -4057,7 +4581,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Yet Another HTTP client for Elixir powered by hackney.
   <sup>
-   &#9733 477, pushed 26 days ago
+   &#9733 477, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -4066,7 +4590,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Fancy HTTP client for Elixir, based on ibrowse.
   <sup>
-   &#9733 413, pushed 18 days ago
+   &#9733 413, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -4075,7 +4599,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - HTTP client library.
   <sup>
-   &#9733 8, pushed 271 days ago
+   &#9733 8, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -4084,7 +4608,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - A lightweight HTTP/1.1 client implemented in Erlang.
   <sup>
-   &#9733 0, pushed 47 days ago
+   &#9733 0, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -4093,7 +4617,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - A memorable, mnemonic slug generator in Elixir.
   <sup>
-   &#9733 1, pushed 58 days ago
+   &#9733 1, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -4102,7 +4626,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - MochiWeb is an Erlang library for building lightweight HTTP servers.
   <sup>
-   &#9733 1367, pushed 6 days ago
+   &#9733 1367, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4111,7 +4635,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Plug adapter for the wait1 protocol.
   <sup>
-   &#9733 0, pushed 8 days ago
+   &#9733 0, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4120,7 +4644,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Scrape any website, article or RSS/Atom Feed with ease.
   <sup>
-   &#9733 61, pushed 47 days ago
+   &#9733 61, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -4133,14 +4657,23 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   (WAMP) client implementation in Elixir.
   <sup>
-   &#9733 36, pushed 41 days ago
+   &#9733 36, pushed 165 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/monterail/tesla">
+  <a href="https://github.com/teamon/tesla">
    tesla
   </a>
   - HTTP client library, with support for middleware and multiple adapters.
+  <sup>
+   &#9733 51, pushed 186 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/narrowtux/Tube">
+   Tube
+  </a>
+  - Pure Elixir WebSocket client library.
  </li>
  <li>
   <a href="https://github.com/pezra/ex-uri-template">
@@ -4148,7 +4681,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - RFC6570 compliant URI template processor for Elixir.
   <sup>
-   &#9733 11, pushed 313 days ago
+   &#9733 11, pushed 437 days ago
   </sup>
  </li>
  <li>
@@ -4157,7 +4690,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
   <sup>
-   &#9733 28, pushed 107 days ago
+   &#9733 28, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -4166,7 +4699,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
   <sup>
-   &#9733 53, pushed 97 days ago
+   &#9733 53, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -4175,7 +4708,7 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
   </a>
   - Simple struct for representing URIs.
   <sup>
-   &#9733 4, pushed 147 days ago
+   &#9733 4, pushed 271 days ago
   </sup>
  </li>
 </ul>
@@ -4212,10 +4745,29 @@ cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request he
 svg
 -  A library for drawing things with SVG.
 *
+<a href="https://github.com/smeevil/cloudex">
+ cloudex
+</a>
+- Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*
+<a href="https://github.com/tchoutri/Eikon">
+ eikon
+</a>
+- An Elixir library providing a read-only interface for image files.
+*
 <a href="https://github.com/sschneider1207/ElixirExif">
- elixir_exif
+ elixir
+ <em>
+  exif
+ </em>
 </a>
 - Parse exif tags and thumbnail data from jpeg files.
+*
+<a href="https://github.com/rNoz/ex_image_info">
+ ex
+</a>
+image_info
+- An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 *
 <a href="https://github.com/pragdave/exexif">
  exexif
@@ -4251,6 +4803,89 @@ svg
  png
 </a>
 - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
+*
+<a href="https://github.com/talklittle/thumbnex">
+ thumbnex
+</a>
+- Create thumbnails from images and video screenshots.
+<h2>
+ Instrumenting / Monitoring
+</h2>
+<p>
+ <em>
+  Libraries for collecting and exporting metrics.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/pinterest/elixometer">
+   elixometer
+  </a>
+  - A light Elixir wrapper around exometer.
+  <sup>
+   &#9733 293, pushed 189 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/benoitc/erlang-metrics">
+   erlang-metrics
+  </a>
+  - A generic interface to different metrics systems in Erlang.
+  <sup>
+   &#9733 18, pushed 157 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Feuerlabs/exometer">
+   exometer
+  </a>
+  - Basic measurement objects and probe behavior in Erlang.
+  <sup>
+   &#9733 308, pushed 209 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dalmatinerdb/folsom_ddb">
+   folsom_ddb
+  </a>
+  - DalmatinerDB backend to store folsom metrics.
+  <sup>
+   &#9733 1, pushed 171 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mneudert/instream">
+   instream
+  </a>
+  - InfluxDB driver for Elixir.
+  <sup>
+   &#9733 40, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/undeadlabs/instrumental-ex">
+   instrumental
+  </a>
+  - An Elixir client for
+  <a href="https://instrumentalapp.com/">
+   Instrumental
+  </a>
+  .
+  <sup>
+   &#9733 5, pushed 281 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/deadtrickster/prometheus.erl">
+   prometheus
+  </a>
+  -
+  <a href="https://prometheus.io">
+   Prometheus.io
+  </a>
+  monitoring system and time series database client in Erlang.
+ </li>
+</ul>
 <h2>
  JSON
 </h2>
@@ -4266,7 +4901,7 @@ svg
   </a>
   - JSON parser and generator in Elixir.
   <sup>
-   &#9733 59, pushed 83 days ago
+   &#9733 59, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -4279,7 +4914,7 @@ svg
   </code>
   .
   <sup>
-   &#9733 124, pushed 297 days ago
+   &#9733 124, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -4288,7 +4923,7 @@ svg
   </a>
   - JSONAPI.org Serialization in Elixir.
   <sup>
-   &#9733 182, pushed 6 days ago
+   &#9733 182, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -4297,7 +4932,7 @@ svg
   </a>
   - Yet another library to handle JSON in Elixir.
   <sup>
-   &#9733 61, pushed 609 days ago
+   &#9733 61, pushed 734 days ago
   </sup>
  </li>
  <li>
@@ -4306,7 +4941,7 @@ svg
   </a>
   - Encodes and decodes JSON Web Tokens.
   <sup>
-   &#9733 155, pushed 10 days ago
+   &#9733 155, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -4315,7 +4950,7 @@ svg
   </a>
   - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
   <sup>
-   &#9733 52, pushed 47 days ago
+   &#9733 52, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -4324,7 +4959,7 @@ svg
   </a>
   - Native JSON library for Elixir.
   <sup>
-   &#9733 127, pushed 93 days ago
+   &#9733 127, pushed 218 days ago
   </sup>
  </li>
  <li>
@@ -4333,7 +4968,7 @@ svg
   </a>
   - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document.
   <sup>
-   &#9733 2, pushed 272 days ago
+   &#9733 2, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -4346,7 +4981,7 @@ svg
   </a>
   - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
   <sup>
-   &#9733 57, pushed 19 days ago
+   &#9733 57, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -4359,7 +4994,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 104, pushed 2 days ago
+   &#9733 104, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4368,7 +5003,7 @@ svg
   </a>
   - An Erlang application for consuming, producing, and manipulating json.
   <sup>
-   &#9733 455, pushed 39 days ago
+   &#9733 455, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -4377,8 +5012,14 @@ svg
   </a>
   - jsx but with maps.
   <sup>
-   &#9733 33, pushed 216 days ago
+   &#9733 33, pushed 341 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jr0senblum/jwalk">
+   jwalk
+  </a>
+  - Helper module for working with Erlang representations of JSON.
  </li>
  <li>
   <a href="https://github.com/mschae/jwtex">
@@ -4390,7 +5031,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 3, pushed 365 days ago
+   &#9733 3, pushed 490 days ago
   </sup>
  </li>
  <li>
@@ -4399,7 +5040,7 @@ svg
   </a>
   - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
   <sup>
-   &#9733 537, pushed 42 days ago
+   &#9733 537, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -4408,7 +5049,7 @@ svg
   </a>
   - topojson country and state/province collections for elixir/erlang.
   <sup>
-   &#9733 3, pushed 371 days ago
+   &#9733 3, pushed 496 days ago
   </sup>
  </li>
 </ul>
@@ -4427,7 +5068,7 @@ svg
   </a>
   - A small Lisp-like language and interactive REPL, built in Elixir.
   <sup>
-   &#9733 18, pushed 50 days ago
+   &#9733 18, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -4446,7 +5087,7 @@ svg
   </a>
   - The goal is to convert a subset (or full set) of Elixir code to JavaScript.
   <sup>
-   &#9733 487, pushed 4 days ago
+   &#9733 487, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -4455,8 +5096,18 @@ svg
   </a>
   - Parser for ABNF Grammars in Elixir.
   <sup>
-   &#9733 11, pushed 112 days ago
+   &#9733 11, pushed 236 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/timberio/key-value-parser-elixir">
+   key
+   <em>
+    value
+   </em>
+   parser
+  </a>
+  - A simple key value parser. Great for log parsing.
  </li>
  <li>
   <a href="https://github.com/jamesotron/lex_luthor">
@@ -4464,7 +5115,7 @@ svg
   </a>
   - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
   <sup>
-   &#9733 7, pushed 400 days ago
+   &#9733 7, pushed 524 days ago
   </sup>
  </li>
 </ul>
@@ -4478,6 +5129,12 @@ svg
 </p>
 <ul>
  <li>
+  <a href="https://github.com/khia/exlager">
+   exlager
+  </a>
+  - Elixir binding for lager.
+ </li>
+ <li>
   <a href="https://github.com/appcues/exsentry">
    exsentry
   </a>
@@ -4487,7 +5144,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 13, pushed 31 days ago
+   &#9733 13, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -4496,7 +5153,7 @@ svg
   </a>
   - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
   <sup>
-   &#9733 3, pushed 91 days ago
+   &#9733 3, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -4509,7 +5166,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4518,7 +5175,7 @@ svg
   </a>
   - JSON Logger is a logger backend that outputs elixir logs in JSON format.
   <sup>
-   &#9733 8, pushed 25 days ago
+   &#9733 8, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -4527,7 +5184,7 @@ svg
   </a>
   - A logging framework for Erlang/OTP by basho.com.
   <sup>
-   &#9733 718, pushed 25 days ago
+   &#9733 718, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -4536,7 +5193,7 @@ svg
   </a>
   - A lager backend that forwards all log messages to Elixir's Logger.
   <sup>
-   &#9733 13, pushed 109 days ago
+   &#9733 13, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -4545,7 +5202,7 @@ svg
   </a>
   - Logfmt is a module for encoding and decoding logfmt-style log lines.
   <sup>
-   &#9733 5, pushed 44 days ago
+   &#9733 5, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -4558,7 +5215,7 @@ svg
   </a>
   - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
   <sup>
-   &#9733 7, pushed 55 days ago
+   &#9733 7, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -4567,7 +5224,7 @@ svg
   </a>
   - A logger backend for posting errors to Loggly.
   <sup>
-   &#9733 1, pushed 0 days ago
+   &#9733 1, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -4576,7 +5233,7 @@ svg
   </a>
   - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
   <sup>
-   &#9733 26, pushed 27 days ago
+   &#9733 26, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -4585,7 +5242,7 @@ svg
   </a>
   - Log custom app metrics to stdout for use by Librato and other downstream processors.
   <sup>
-   &#9733 25, pushed 28 days ago
+   &#9733 25, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -4594,7 +5251,7 @@ svg
   </a>
   - MStore is a experimental metric store build in erlang, the primary functions are open, new, get and put.
   <sup>
-   &#9733 9, pushed 7 days ago
+   &#9733 9, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4607,7 +5264,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 30, pushed 78 days ago
+   &#9733 30, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -4616,7 +5273,7 @@ svg
   </a>
   - Elixir logger to publish log messages in RabbitMQ.
   <sup>
-   &#9733 4, pushed 358 days ago
+   &#9733 4, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -4629,7 +5286,7 @@ svg
   </a>
   .
   <sup>
-   &#9733 49, pushed 11 days ago
+   &#9733 49, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -4642,7 +5299,7 @@ svg
   </a>
   - A logger backend for posting errors to Slack.
   <sup>
-   &#9733 7, pushed 56 days ago
+   &#9733 7, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -4651,7 +5308,7 @@ svg
   </a>
   - Erlang port driver for interacting with syslog via syslog(3).
   <sup>
-   &#9733 65, pushed 347 days ago
+   &#9733 65, pushed 471 days ago
   </sup>
  </li>
 </ul>
@@ -4670,7 +5327,7 @@ svg
   </a>
   - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
   <sup>
-   &#9733 9, pushed 69 days ago
+   &#9733 9, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -4679,8 +5336,14 @@ svg
   </a>
   - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
   <sup>
-   &#9733 5, pushed 355 days ago
+   &#9733 5, pushed 480 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/expede/exceptional">
+   exceptional
+  </a>
+  - Helpers for happy-path programming & exception handling.
  </li>
  <li>
   <a href="https://github.com/DevL/guardsafe">
@@ -4688,7 +5351,7 @@ svg
   </a>
   - Macros expanding into code that can be safely used in guard clauses.
   <sup>
-   &#9733 16, pushed 73 days ago
+   &#9733 16, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -4700,9 +5363,6 @@ svg
    with
   </code>
   form.
-  <sup>
-   &#9733 9, pushed 16 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/RobertDober/lab42_defkw">
@@ -4710,7 +5370,7 @@ svg
   </a>
   - Macros to create functions with syntax based keyword parameters with default values.
   <sup>
-   &#9733 2, pushed 137 days ago
+   &#9733 2, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -4719,7 +5379,7 @@ svg
   </a>
   - parse transform for accurate line numbers.
   <sup>
-   &#9733 0, pushed 359 days ago
+   &#9733 0, pushed 484 days ago
   </sup>
  </li>
  <li>
@@ -4728,7 +5388,7 @@ svg
   </a>
   - Easily define multiple function heads in Elixir.
   <sup>
-   &#9733 27, pushed 368 days ago
+   &#9733 27, pushed 493 days ago
   </sup>
  </li>
  <li>
@@ -4744,9 +5404,6 @@ svg
    {:error,_}
   </code>
   tuples or custom patterns.
-  <sup>
-   &#9733 17, pushed 102 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/mgwidmann/elixir-pattern_tap">
@@ -4754,7 +5411,7 @@ svg
   </a>
   - Macro for tapping into a pattern match while using the pipe operator.
   <sup>
-   &#9733 23, pushed 211 days ago
+   &#9733 23, pushed 336 days ago
   </sup>
  </li>
  <li>
@@ -4763,7 +5420,7 @@ svg
   </a>
   - Easily pipe values into any argument position.
   <sup>
-   &#9733 10, pushed 101 days ago
+   &#9733 10, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -4772,7 +5429,7 @@ svg
   </a>
   - Macros for more flexible composition with the Elixir Pipe operator.
   <sup>
-   &#9733 241, pushed 197 days ago
+   &#9733 241, pushed 322 days ago
   </sup>
  </li>
  <li>
@@ -4781,7 +5438,7 @@ svg
   </a>
   - rebind parse transform for Erlang.
   <sup>
-   &#9733 0, pushed 349 days ago
+   &#9733 0, pushed 473 days ago
   </sup>
  </li>
  <li>
@@ -4790,7 +5447,7 @@ svg
   </a>
   - Simple rule handler using Elixir pattern matching.
   <sup>
-   &#9733 5, pushed 406 days ago
+   &#9733 5, pushed 531 days ago
   </sup>
  </li>
 </ul>
@@ -4809,7 +5466,7 @@ svg
   </a>
   - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
   <sup>
-   &#9733 17, pushed 32 days ago
+   &#9733 17, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -4818,7 +5475,7 @@ svg
   </a>
   - Elixir NIF for discount, a Markdown parser.
   <sup>
-   &#9733 17, pushed 216 days ago
+   &#9733 17, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -4827,7 +5484,7 @@ svg
   </a>
   - Markdown parser for Elixir.
   <sup>
-   &#9733 162, pushed 2 days ago
+   &#9733 162, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -4836,7 +5493,7 @@ svg
   </a>
   - Implemented entirely as a NIF binding to the Hoedown library.
   <sup>
-   &#9733 39, pushed 293 days ago
+   &#9733 39, pushed 418 days ago
   </sup>
  </li>
  <li>
@@ -4845,7 +5502,7 @@ svg
   </a>
   - Lightweight Elixir wrapper for Pandoc. Converts Markdown, CommonMark, HTML, Latex, HTML, HTML5, opendocument, rtf, texttile, asciidoc to each other.
   <sup>
-   &#9733 20, pushed 223 days ago
+   &#9733 20, pushed 348 days ago
   </sup>
  </li>
 </ul>
@@ -4864,7 +5521,7 @@ svg
   </a>
   - Library for parsing US Addresses into their individual parts.
   <sup>
-   &#9733 2, pushed 170 days ago
+   &#9733 2, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -4873,8 +5530,14 @@ svg
   </a>
   - Awesome Print for Elixir.
   <sup>
-   &#9733 86, pushed 66 days ago
+   &#9733 86, pushed 191 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/milmazz/bupe">
+   bupe
+  </a>
+  - EPUB Generator and Parser.
  </li>
  <li>
   <a href="https://github.com/tomgco/elixir-charm">
@@ -4882,7 +5545,7 @@ svg
   </a>
   - Use ANSI terminal characters to write colors and cursor positions.
   <sup>
-   &#9733 2, pushed 552 days ago
+   &#9733 2, pushed 677 days ago
   </sup>
  </li>
  <li>
@@ -4891,7 +5554,7 @@ svg
   </a>
   - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
   <sup>
-   &#9733 16, pushed 172 days ago
+   &#9733 16, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -4900,7 +5563,7 @@ svg
   </a>
   - A library for dyeing your terminal output.
   <sup>
-   &#9733 10, pushed 218 days ago
+   &#9733 10, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -4909,8 +5572,24 @@ svg
   </a>
   - Compile and load Erlang modules from string input.
   <sup>
-   &#9733 0, pushed 568 days ago
+   &#9733 0, pushed 692 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/sobolevn/ecto_autoslug_field">
+   ecto
+   <em>
+    autoslug
+   </em>
+   field
+  </a>
+  - Automatically creates slugs for your Ecto models.
+ </li>
+ <li>
+  <a href="https://github.com/Brightergy/egaugex">
+   egaugex
+  </a>
+  - Client to fetch and parse realtime data from egauge devices.
  </li>
  <li>
   <a href="https://github.com/okeuday/erlang_term">
@@ -4918,7 +5597,7 @@ svg
   </a>
   - Provide the in-memory size of Erlang terms, ignoring where these are stored.
   <sup>
-   &#9733 8, pushed 132 days ago
+   &#9733 8, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -4931,7 +5610,7 @@ svg
   </code>
   .
   <sup>
-   &#9733 17, pushed 51 days ago
+   &#9733 17, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -4940,7 +5619,7 @@ svg
   </a>
   - Simple and flexible rate-limiting for API's or anything.
   <sup>
-   &#9733 29, pushed 49 days ago
+   &#9733 29, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -4949,7 +5628,7 @@ svg
   </a>
   - A module for working with LDAP from Elixir.
   <sup>
-   &#9733 3, pushed 111 days ago
+   &#9733 3, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -4958,7 +5637,7 @@ svg
   </a>
   - A collection of random library functions.
   <sup>
-   &#9733 6, pushed 548 days ago
+   &#9733 6, pushed 673 days ago
   </sup>
  </li>
  <li>
@@ -4967,7 +5646,7 @@ svg
   </a>
   - A small process pooling library for parallel tasks in Elixir.
   <sup>
-   &#9733 10, pushed 36 days ago
+   &#9733 10, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -4976,7 +5655,7 @@ svg
   </a>
   - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
   <sup>
-   &#9733 13, pushed 185 days ago
+   &#9733 13, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -4985,7 +5664,7 @@ svg
   </a>
   - LINQ-like match_spec generation for Elixir.
   <sup>
-   &#9733 29, pushed 116 days ago
+   &#9733 29, pushed 240 days ago
   </sup>
  </li>
  <li>
@@ -4994,7 +5673,7 @@ svg
   </a>
   - Yet another Elixir reloader.
   <sup>
-   &#9733 11, pushed 112 days ago
+   &#9733 11, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -5003,7 +5682,7 @@ svg
   </a>
   - Streaming Elixir API built upon ElasticSearch's percolation.
   <sup>
-   &#9733 19, pushed 199 days ago
+   &#9733 19, pushed 324 days ago
   </sup>
  </li>
  <li>
@@ -5012,7 +5691,7 @@ svg
   </a>
   - Elixir port of gimei library.
   <sup>
-   &#9733 5, pushed 169 days ago
+   &#9733 5, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -5021,7 +5700,7 @@ svg
   </a>
   - Simple wrapper for growl, the notification system for OSX.
   <sup>
-   &#9733 1, pushed 200 days ago
+   &#9733 1, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -5030,7 +5709,7 @@ svg
   </a>
   - Elixir module for decoding HTML entities in a string.
   <sup>
-   &#9733 11, pushed 46 days ago
+   &#9733 11, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -5039,8 +5718,18 @@ svg
   </a>
   - Elixir client for Philips Hue connected light bulbs.
   <sup>
-   &#9733 10, pushed 115 days ago
+   &#9733 10, pushed 240 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/hykw/japan_municipality_key">
+   japan
+   <em>
+    municipality
+   </em>
+   key
+  </a>
+  - Elixir Library for Japan municipality key converting.
  </li>
  <li>
   <a href="https://github.com/okeuday/keys1value">
@@ -5048,7 +5737,7 @@ svg
   </a>
   - Erlang set associative map for key lists.
   <sup>
-   &#9733 0, pushed 132 days ago
+   &#9733 0, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -5057,7 +5746,7 @@ svg
   </a>
   - An interactive dependency plotter for your Hex Package.
   <sup>
-   &#9733 6, pushed 31 days ago
+   &#9733 6, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -5066,7 +5755,7 @@ svg
   </a>
   - MixStar starred GitHub repository that depends on your project.
   <sup>
-   &#9733 13, pushed 215 days ago
+   &#9733 13, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -5075,7 +5764,7 @@ svg
   </a>
   - Reads netrc files implemented in Elixir.
   <sup>
-   &#9733 3, pushed 170 days ago
+   &#9733 3, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -5084,7 +5773,7 @@ svg
   </a>
   - An onetime key-value store for Elixir.
   <sup>
-   &#9733 3, pushed 72 days ago
+   &#9733 3, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -5093,7 +5782,7 @@ svg
   </a>
   - Better dependency injection in Elixir for cleaner code and testing.
   <sup>
-   &#9733 12, pushed 170 days ago
+   &#9733 12, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -5102,7 +5791,7 @@ svg
   </a>
   - A parser to get useful info from telephone numbers.
   <sup>
-   &#9733 3, pushed 9 days ago
+   &#9733 3, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -5111,7 +5800,7 @@ svg
   </a>
   - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
   <sup>
-   &#9733 246, pushed 120 days ago
+   &#9733 246, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -5120,7 +5809,7 @@ svg
   </a>
   - Elixir to HTML/JavaScript based presentation framework.
   <sup>
-   &#9733 5, pushed 148 days ago
+   &#9733 5, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -5129,7 +5818,7 @@ svg
   </a>
   - Rate limiter and overload protection for erlang application.
   <sup>
-   &#9733 10, pushed 374 days ago
+   &#9733 10, pushed 499 days ago
   </sup>
  </li>
  <li>
@@ -5138,7 +5827,7 @@ svg
   </a>
   - Simplified module reloader for Elixir.
   <sup>
-   &#9733 34, pushed 76 days ago
+   &#9733 34, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -5147,8 +5836,24 @@ svg
   </a>
   - Spawns processes from the file system.
   <sup>
-   &#9733 3, pushed 553 days ago
+   &#9733 3, pushed 677 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jsncmgs1/spotify_ex">
+   spotify_ex
+  </a>
+  - An Elixir wrapper for the Spotify Web API.
+ </li>
+ <li>
+  <a href="https://github.com/hassox/std_json_io">
+   std
+   <em>
+    json
+   </em>
+   io
+  </a>
+  - Application for managing and communicating with IO servers via JSON.
  </li>
  <li>
   <a href="https://github.com/semanticart/url_unroller">
@@ -5156,7 +5861,7 @@ svg
   </a>
   - Simple URL unroller (un-shortener) in Elixir.
   <sup>
-   &#9733 1, pushed 68 days ago
+   &#9733 1, pushed 193 days ago
   </sup>
  </li>
 </ul>
@@ -5170,12 +5875,18 @@ svg
 </p>
 <ul>
  <li>
+  <a href="https://github.com/urbanserj/hsnif">
+   hsnif
+  </a>
+  - Tool that allows to write Erlang NIF libraries in Haskell.
+ </li>
+ <li>
   <a href="https://github.com/rossjones/nifty">
    nifty
   </a>
   - Helper script for setting up the boilerplate required when writing a NIF.
   <sup>
-   &#9733 15, pushed 197 days ago
+   &#9733 15, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -5184,7 +5895,7 @@ svg
   </a>
   - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
   <sup>
-   &#9733 181, pushed 15 days ago
+   &#9733 181, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -5207,8 +5918,20 @@ svg
   </a>
   , a natural language processor that extracts useful statistics from text.
   <sup>
-   &#9733 18, pushed 65 days ago
+   &#9733 18, pushed 190 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/minibikini/paasaa">
+   Paasaa
+  </a>
+  - Natural language detection for Elixir.
+ </li>
+ <li>
+  <a href="https://github.com/pjhampton/woolly">
+   Woolly
+  </a>
+  - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
  </li>
 </ul>
 <h2>
@@ -5221,34 +5944,27 @@ svg
 </p>
 <ul>
  <li>
+  <a href="https://github.com/ephe-meral/asn">
+   asn
+  </a>
+  - Can be used to map from IP to AS to ASN.
+ </li>
+ <li>
   <a href="https://github.com/dbeck/chatter_ex">
    chatter
   </a>
   - Secure message broadcasting based on a mixture of UDP multicast and TCP.
   <sup>
-   &#9733 10, pushed 60 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/alco/chatty">
-   chatty
-  </a>
-  - A basic IRC client that is most useful for writing a bot.
-  <sup>
-   &#9733 24, pushed 128 days ago
+   &#9733 10, pushed 185 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/falood/eio">
    eio
   </a>
-  - Elixir server of
-  <a href="http://www.engine.io/">
-   engine.io
-  </a>
-  .
+  - Elixir server of engine.io.
   <sup>
-   &#9733 7, pushed 219 days ago
+   &#9733 7, pushed 343 days ago
   </sup>
  </li>
  <li>
@@ -5257,16 +5973,7 @@ svg
   </a>
   - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
   <sup>
-   &#9733 2398, pushed 1 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/bitwalker/exirc">
-   ExIrc
-  </a>
-  - IRC client adapter for Elixir projects.
-  <sup>
-   &#9733 62, pushed 31 days ago
+   &#9733 2398, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -5275,35 +5982,14 @@ svg
   </a>
   - PCAP parser written in Elixir.
   <sup>
-   &#9733 12, pushed 480 days ago
+   &#9733 12, pushed 604 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/elvio/guri">
-   Guri
+  <a href="https://github.com/ephe-meral/mac">
+   mac
   </a>
-  - Automate tasks using chat messages.
-  <sup>
-   &#9733 6, pushed 112 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/scrogson/hedwig">
-   hedwig
-  </a>
-  - XMPP Client/Bot Framework for Elixir.
-  <sup>
-   &#9733 7, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/Luminarys/Kaguya">
-   kaguya
-  </a>
-  - A small, powerful, and modular IRC bot.
-  <sup>
-   &#9733 40, pushed 9 days ago
-  </sup>
+  - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
  </li>
  <li>
   <a href="https://github.com/slogsdon/pool">
@@ -5311,7 +5997,7 @@ svg
   </a>
   - Socket acceptor pool for Elixir.
   <sup>
-   &#9733 7, pushed 204 days ago
+   &#9733 7, pushed 328 days ago
   </sup>
  </li>
  <li>
@@ -5320,16 +6006,7 @@ svg
   </a>
   - reagent is a socket acceptor pool for Elixir.
   <sup>
-   &#9733 76, pushed 498 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/koudelka/slacker">
-   slacker
-  </a>
-  - A bot library for the Slack chat service.
-  <sup>
-   &#9733 44, pushed 77 days ago
+   &#9733 76, pushed 623 days ago
   </sup>
  </li>
  <li>
@@ -5338,7 +6015,7 @@ svg
   </a>
   - Socket wrapping for Elixir.
   <sup>
-   &#9733 321, pushed 4 days ago
+   &#9733 321, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5347,7 +6024,7 @@ svg
   </a>
   - Simple SSH helpers for Elixir.
   <sup>
-   &#9733 30, pushed 41 days ago
+   &#9733 30, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -5356,7 +6033,7 @@ svg
   </a>
   - Various utility functions for working with the local Wifi network in Elixir.
   <sup>
-   &#9733 17, pushed 322 days ago
+   &#9733 17, pushed 447 days ago
   </sup>
  </li>
  <li>
@@ -5368,20 +6045,11 @@ svg
   </a>
   - Elixir interface to the wpa
   <sup>
-   &#9733 4, pushed 4 days ago
+   &#9733 4, pushed 128 days ago
   </sup>
  </li>
 </ul>
 supplicant.
-<li>
- <a href="https://github.com/Yawolf/yocingo">
-  yocingo
- </a>
- - Create your own Telegram Bot.
- <sup>
-  &#9733 14, pushed 277 days ago
- </sup>
-</li>
 <h2>
  Office
 </h2>
@@ -5397,16 +6065,16 @@ supplicant.
   </a>
   - An OpenXL (Excel 2000) Parser for Elixir.
   <sup>
-   &#9733 12, pushed 216 days ago
+   &#9733 12, pushed 341 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/kennellroxco/xlsxir">
    xlsxir
   </a>
-  - Excel parser for Elixir returning data in either a list or a map.
+  - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
   <sup>
-   &#9733 2, pushed 1 days ago
+   &#9733 2, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -5425,7 +6093,7 @@ supplicant.
   </a>
   - Mnesia wrapper for Elixir.
   <sup>
-   &#9733 242, pushed 5 days ago
+   &#9733 242, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5434,7 +6102,7 @@ supplicant.
   </a>
   - Arc.Ecto provides an integration with Arc and Ecto.
   <sup>
-   &#9733 54, pushed 4 days ago
+   &#9733 54, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -5443,7 +6111,7 @@ supplicant.
   </a>
   - Object Relational Mapper for Elixir.
   <sup>
-   &#9733 193, pushed 259 days ago
+   &#9733 193, pushed 384 days ago
   </sup>
  </li>
  <li>
@@ -5452,7 +6120,7 @@ supplicant.
   </a>
   - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
   <sup>
-   &#9733 36, pushed 258 days ago
+   &#9733 36, pushed 383 days ago
   </sup>
  </li>
  <li>
@@ -5461,7 +6129,7 @@ supplicant.
   </a>
   - Cayley driver for Elixir.
   <sup>
-   &#9733 7, pushed 55 days ago
+   &#9733 7, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -5474,7 +6142,7 @@ supplicant.
   </a>
   - Ecto custom type for storing encrypted password using Comeonin.
   <sup>
-   &#9733 4, pushed 17 days ago
+   &#9733 4, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -5483,7 +6151,7 @@ supplicant.
   </a>
   - A connector for CouchDB, the Erlang-based, JSON document database.
   <sup>
-   &#9733 18, pushed 14 days ago
+   &#9733 18, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -5492,7 +6160,7 @@ supplicant.
   </a>
   - Erlang client for crate.
   <sup>
-   &#9733 8, pushed 125 days ago
+   &#9733 8, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -5501,7 +6169,7 @@ supplicant.
   </a>
   - Parse database URL and return keyword list for use with Ecto.
   <sup>
-   &#9733 3, pushed 346 days ago
+   &#9733 3, pushed 471 days ago
   </sup>
  </li>
  <li>
@@ -5510,7 +6178,7 @@ supplicant.
   </a>
   - Elixir driver for the Datomic REST API.
   <sup>
-   &#9733 23, pushed 87 days ago
+   &#9733 23, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -5519,7 +6187,7 @@ supplicant.
   </a>
   - DalmatinerDB client.
   <sup>
-   &#9733 1, pushed 18 days ago
+   &#9733 1, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -5528,7 +6196,7 @@ supplicant.
   </a>
   - Disk Elixir Terms Storage, dest wrapper.
   <sup>
-   &#9733 3, pushed 521 days ago
+   &#9733 3, pushed 646 days ago
   </sup>
  </li>
  <li>
@@ -5537,7 +6205,7 @@ supplicant.
   </a>
   - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
   <sup>
-   &#9733 24, pushed 544 days ago
+   &#9733 24, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -5546,7 +6214,7 @@ supplicant.
   </a>
   - Protocols for DalmatinerDB.
   <sup>
-   &#9733 1, pushed 18 days ago
+   &#9733 1, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -5555,17 +6223,14 @@ supplicant.
   </a>
   - DalmatinerDB query engine.
   <sup>
-   &#9733 4, pushed 5 days ago
+   &#9733 4, pushed 130 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/elixir-lang/ecto">
+  <a href="https://github.com/elixir-ecto/ecto">
    ecto
   </a>
   - A database wrapper and language integrated query for Elixir.
-  <sup>
-   &#9733 1695, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/gjaldon/ecto_enum">
@@ -5573,8 +6238,14 @@ supplicant.
   </a>
   - Ecto extension to support enums in models.
   <sup>
-   &#9733 31, pushed 246 days ago
+   &#9733 31, pushed 371 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://hex.pm/packages/ecto_factory">
+   ecto_factory
+  </a>
+  - Easily generate structs based on your ecto schemas.
  </li>
  <li>
   <a href="https://github.com/DockYard/ecto_fixtures">
@@ -5582,7 +6253,7 @@ supplicant.
   </a>
   - Fixtures for Elixir apps using Ecto.
   <sup>
-   &#9733 52, pushed 10 days ago
+   &#9733 52, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -5591,7 +6262,7 @@ supplicant.
   </a>
   - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
   <sup>
-   &#9733 13, pushed 133 days ago
+   &#9733 13, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -5604,7 +6275,7 @@ supplicant.
   </a>
   - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
   <sup>
-   &#9733 3, pushed 443 days ago
+   &#9733 3, pushed 567 days ago
   </sup>
  </li>
  <li>
@@ -5613,17 +6284,20 @@ supplicant.
   </a>
   - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
   <sup>
-   &#9733 9, pushed 75 days ago
+   &#9733 9, pushed 200 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/trustatom-oss/ecto-ordered">
+  <a href="https://github.com/zovafit/ecto-ordered">
    ecto_ordered
   </a>
   - Ecto extension for ordered models.
-  <sup>
-   &#9733 5, pushed 245 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/MishaConway/ecto_shortcuts">
+   ecto_shortcuts
+  </a>
+  - Shortcuts for common operations in ecto.
  </li>
  <li>
   <a href="https://github.com/danielberkompas/ecto_validation_case">
@@ -5635,7 +6309,7 @@ supplicant.
   </a>
   - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
   <sup>
-   &#9733 2, pushed 243 days ago
+   &#9733 2, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -5644,7 +6318,7 @@ supplicant.
   </a>
   - Ecto extension to instantly support file uploads in models.
   <sup>
-   &#9733 23, pushed 86 days ago
+   &#9733 23, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -5653,7 +6327,7 @@ supplicant.
   </a>
   - A simple Elastic REST client written in Elixir.
   <sup>
-   &#9733 13, pushed 16 days ago
+   &#9733 13, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -5662,7 +6336,7 @@ supplicant.
   </a>
   - Erlang Redis client.
   <sup>
-   &#9733 437, pushed 15 days ago
+   &#9733 437, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -5671,7 +6345,7 @@ supplicant.
   </a>
   - An Erlang app for communicating with Elastic Search's rest interface.
   <sup>
-   &#9733 83, pushed 35 days ago
+   &#9733 83, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -5680,8 +6354,14 @@ supplicant.
   </a>
   - Erlang NIF for sqlite.
   <sup>
-   &#9733 32, pushed 128 days ago
+   &#9733 32, pushed 253 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zackehh/eternal">
+   eternal
+  </a>
+  - Keep your ETS tables alive forever, safely and easily.
  </li>
  <li>
   <a href="https://github.com/antipax/ets_map">
@@ -5689,7 +6369,7 @@ supplicant.
   </a>
   - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
   <sup>
-   &#9733 5, pushed 150 days ago
+   &#9733 5, pushed 275 days ago
   </sup>
  </li>
  <li>
@@ -5698,7 +6378,7 @@ supplicant.
   </a>
   - A CQRS EventStore using Postgres for persistence, written in Elixir.
   <sup>
-   &#9733 8, pushed 39 days ago
+   &#9733 8, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -5707,8 +6387,14 @@ supplicant.
   </a>
   - Elixir wrapper of Basho's Bitcask Key/Value store.
   <sup>
-   &#9733 6, pushed 416 days ago
+   &#9733 6, pushed 541 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ephe-meral/ex_sider">
+   ex_sider
+  </a>
+  - Elixir Map/List/Set interfaces for Redis datastructures (uses Redix, but that is configurable).
  </li>
  <li>
   <a href="https://github.com/skovsgaard/exleveldb">
@@ -5716,7 +6402,7 @@ supplicant.
   </a>
   - Elixir wrapper around Basho's eleveldb module for LevelDB.
   <sup>
-   &#9733 14, pushed 101 days ago
+   &#9733 14, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -5725,7 +6411,7 @@ supplicant.
   </a>
   - Elixir enumerable type definition in a simple way to be used with any database.
   <sup>
-   &#9733 6, pushed 14 days ago
+   &#9733 6, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -5734,7 +6420,7 @@ supplicant.
   </a>
   - Redis client for Elixir.
   <sup>
-   &#9733 236, pushed 7 days ago
+   &#9733 236, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -5743,8 +6429,14 @@ supplicant.
   </a>
   - An Elixir library that provides a simple DSL for seeding databases through Ecto.
   <sup>
-   &#9733 6, pushed 96 days ago
+   &#9733 6, pushed 220 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dcarneiro/exsolr">
+   exsolr
+  </a>
+  - A Solr wrapper written in Elixir.
  </li>
  <li>
   <a href="https://github.com/exponentially/extreme">
@@ -5756,7 +6448,7 @@ supplicant.
   </a>
   for persistance of events generated by aggregates (CQRS).
   <sup>
-   &#9733 21, pushed 29 days ago
+   &#9733 21, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -5765,16 +6457,7 @@ supplicant.
   </a>
   - Elixir Terms Storage, ets wrapper.
   <sup>
-   &#9733 5, pushed 468 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/dalmatinerdb/folsom_ddb">
-   folsom_ddb
-  </a>
-  - DalmatinerDB backend to store folsom metrics.
-  <sup>
-   &#9733 1, pushed 46 days ago
+   &#9733 5, pushed 592 days ago
   </sup>
  </li>
  <li>
@@ -5783,7 +6466,7 @@ supplicant.
   </a>
   - Ecto adapter for GitHub API.
   <sup>
-   &#9733 74, pushed 3 days ago
+   &#9733 74, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -5792,7 +6475,7 @@ supplicant.
   </a>
   - Hstore support for Postgrex.
   <sup>
-   &#9733 7, pushed 280 days ago
+   &#9733 7, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -5801,16 +6484,7 @@ supplicant.
   </a>
   - Composable query builder for Ecto.
   <sup>
-   &#9733 42, pushed 60 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/mneudert/instream">
-   instream
-  </a>
-  - InfluxDB driver for Elixir.
-  <sup>
-   &#9733 40, pushed 3 days ago
+   &#9733 42, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -5819,7 +6493,7 @@ supplicant.
   </a>
   - Ecto types for the postgreSQL isn extension.
   <sup>
-   &#9733 5, pushed 114 days ago
+   &#9733 5, pushed 239 days ago
   </sup>
  </li>
  <li>
@@ -5828,7 +6502,7 @@ supplicant.
   </a>
   - Glue between Kalends and Ecto for saving dates, times and datetimes.
   <sup>
-   &#9733 72, pushed 63 days ago
+   &#9733 72, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -5837,7 +6511,7 @@ supplicant.
   </a>
   - Erlang Abstract Term Database.
   <sup>
-   &#9733 102, pushed 15 days ago
+   &#9733 102, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -5846,7 +6520,7 @@ supplicant.
   </a>
   - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
   <sup>
-   &#9733 2, pushed 360 days ago
+   &#9733 2, pushed 485 days ago
   </sup>
  </li>
  <li>
@@ -5855,7 +6529,7 @@ supplicant.
   </a>
   - MariaDB/MySQL driver for Elixir.
   <sup>
-   &#9733 109, pushed 6 days ago
+   &#9733 109, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5864,7 +6538,7 @@ supplicant.
   </a>
   - A functional query tool for Elixir and PostgreSQL.
   <sup>
-   &#9733 268, pushed 20 days ago
+   &#9733 268, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -5873,7 +6547,7 @@ supplicant.
   </a>
   - MongoDB driver for Elixir.
   <sup>
-   &#9733 81, pushed 73 days ago
+   &#9733 81, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -5882,7 +6556,7 @@ supplicant.
   </a>
   - MongoDB driver for Elixir.
   <sup>
-   &#9733 46, pushed 2 days ago
+   &#9733 46, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -5891,7 +6565,7 @@ supplicant.
   </a>
   - MySQL/OTP – MySQL driver for Erlang/OTP.
   <sup>
-   &#9733 134, pushed 68 days ago
+   &#9733 134, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -5900,7 +6574,7 @@ supplicant.
   </a>
   - An Ecto-compatible wrapper around the mysql-otp library.
   <sup>
-   &#9733 2, pushed 338 days ago
+   &#9733 2, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -5909,7 +6583,7 @@ supplicant.
   </a>
   - Neo4j driver for Elixir.
   <sup>
-   &#9733 28, pushed 51 days ago
+   &#9733 28, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -5922,17 +6596,14 @@ supplicant.
   </a>
   - Minimalistic Model support for the Neo4j.Sips Elixir driver.
   <sup>
-   &#9733 1, pushed 58 days ago
+   &#9733 1, pushed 183 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/ericmj/postgrex">
+  <a href="https://github.com/elixir-ecto/postgrex">
    postgrex
   </a>
   - PostgreSQL driver for Elixir.
-  <sup>
-   &#9733 275, pushed 3 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/rodrigues/red">
@@ -5940,7 +6611,7 @@ supplicant.
   </a>
   - Persist relationships between objects in Redis, in a graph-like way.
   <sup>
-   &#9733 10, pushed 170 days ago
+   &#9733 10, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -5949,7 +6620,7 @@ supplicant.
   </a>
   - Superfast, pipelined, resilient Redis driver for Elixir.
   <sup>
-   &#9733 129, pushed 5 days ago
+   &#9733 129, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -5958,7 +6629,7 @@ supplicant.
   </a>
   - Heroku's pipelining redis client for erlang.
   <sup>
-   &#9733 13, pushed 187 days ago
+   &#9733 13, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -5967,7 +6638,7 @@ supplicant.
   </a>
   - Rethinkdb client in pure Elixir using JSON protocol.
   <sup>
-   &#9733 306, pushed 15 days ago
+   &#9733 306, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -5976,7 +6647,7 @@ supplicant.
   </a>
   - A Riak client written in Elixir.
   <sup>
-   &#9733 95, pushed 26 days ago
+   &#9733 95, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -5985,14 +6656,23 @@ supplicant.
   </a>
   - Riak adapter for Ecto.
   <sup>
-   &#9733 9, pushed 43 days ago
+   &#9733 9, pushed 168 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/archan937/sql_dust">
+  <a href="https://github.com/cabol/shards">
+   shards
+  </a>
+  - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+ </li>
+ <li>
+  <a href="https://github.com/bettyblocks/sql_dust">
    sql_dust
   </a>
   - Generate (complex) SQL queries using magical Elixir SQL dust.
+  <sup>
+   &#9733 65, pushed 157 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/jazzyb/sqlite_ecto">
@@ -6000,7 +6680,7 @@ supplicant.
   </a>
   - SQLite3 adapter for Ecto.
   <sup>
-   &#9733 33, pushed 7 days ago
+   &#9733 33, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -6009,7 +6689,7 @@ supplicant.
   </a>
   - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
   <sup>
-   &#9733 19, pushed 62 days ago
+   &#9733 19, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -6018,7 +6698,7 @@ supplicant.
   </a>
   - ssdb client for Elixir, with focus on performance.
   <sup>
-   &#9733 5, pushed 304 days ago
+   &#9733 5, pushed 429 days ago
   </sup>
  </li>
  <li>
@@ -6027,7 +6707,7 @@ supplicant.
   </a>
   - MSSQL / TDS Database driver for Elixir.
   <sup>
-   &#9733 17, pushed 14 days ago
+   &#9733 17, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -6036,7 +6716,7 @@ supplicant.
   </a>
   - MSSQL / TDS Adapter for Ecto.
   <sup>
-   &#9733 23, pushed 11 days ago
+   &#9733 23, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -6045,7 +6725,7 @@ supplicant.
   </a>
   - An adapter for using Timex DateTimes with Ecto.
   <sup>
-   &#9733 39, pushed 6 days ago
+   &#9733 39, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -6054,7 +6734,7 @@ supplicant.
   </a>
   - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
   <sup>
-   &#9733 227, pushed 11 days ago
+   &#9733 227, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -6063,7 +6743,7 @@ supplicant.
   </a>
   - An opinionated InfluxDB UDP only client.
   <sup>
-   &#9733 2, pushed 315 days ago
+   &#9733 2, pushed 440 days ago
   </sup>
  </li>
  <li>
@@ -6072,7 +6752,7 @@ supplicant.
   </a>
   - Yet another Redis client for Elixir.
   <sup>
-   &#9733 8, pushed 471 days ago
+   &#9733 8, pushed 595 days ago
   </sup>
  </li>
 </ul>
@@ -6091,7 +6771,7 @@ supplicant.
   </a>
   - Library for selective receive OTP processes.
   <sup>
-   &#9733 23, pushed 597 days ago
+   &#9733 23, pushed 721 days ago
   </sup>
  </li>
  <li>
@@ -6100,7 +6780,7 @@ supplicant.
   </a>
   - Execute and control OS processes from Erlang/OTP.
   <sup>
-   &#9733 183, pushed 1 days ago
+   &#9733 183, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6109,7 +6789,7 @@ supplicant.
   </a>
   - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
   <sup>
-   &#9733 21, pushed 17 days ago
+   &#9733 21, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -6118,7 +6798,7 @@ supplicant.
   </a>
   - Helpers for accessing OTP application configuration.
   <sup>
-   &#9733 1, pushed 609 days ago
+   &#9733 1, pushed 734 days ago
   </sup>
  </li>
 </ul>
@@ -6143,7 +6823,7 @@ supplicant.
   </a>
   - Hex.pm plugin for rebar3.
   <sup>
-   &#9733 18, pushed 13 days ago
+   &#9733 18, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -6162,7 +6842,7 @@ supplicant.
   </a>
   - Native PDF generation for Elixir.
   <sup>
-   &#9733 85, pushed 84 days ago
+   &#9733 85, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -6171,7 +6851,7 @@ supplicant.
   </a>
   - Convert PDF docs to beautiful HTML files without losing text or format.
   <sup>
-   &#9733 19, pushed 111 days ago
+   &#9733 19, pushed 236 days ago
   </sup>
  </li>
 </ul>
@@ -6190,7 +6870,7 @@ supplicant.
   </a>
   - RADIUS Protocol on Elixir.
   <sup>
-   &#9733 3, pushed 193 days ago
+   &#9733 3, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -6199,7 +6879,7 @@ supplicant.
   </a>
   - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
   <sup>
-   &#9733 6, pushed 159 days ago
+   &#9733 6, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -6208,7 +6888,7 @@ supplicant.
   </a>
   - Ruby Marshal format implemented in Elixir.
   <sup>
-   &#9733 15, pushed 147 days ago
+   &#9733 15, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -6217,7 +6897,7 @@ supplicant.
   </a>
   - Protocol Buffers in Elixir, made easy.
   <sup>
-   &#9733 115, pushed 65 days ago
+   &#9733 115, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -6226,7 +6906,7 @@ supplicant.
   </a>
   - MessagePack Implementation for Elixir.
   <sup>
-   &#9733 30, pushed 95 days ago
+   &#9733 30, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -6235,7 +6915,7 @@ supplicant.
   </a>
   - MessagePack (de)serializer implementation for Elixir.
   <sup>
-   &#9733 45, pushed 36 days ago
+   &#9733 45, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -6244,8 +6924,14 @@ supplicant.
   </a>
   - Provides idiomatic Elixir bindings for Apache Thrift.
   <sup>
-   &#9733 157, pushed 11 days ago
+   &#9733 157, pushed 136 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/savonarola/smppex">
+   SMPPEX
+  </a>
+  - SMPP 3.4 protocol and framework implementation in Elixir.
  </li>
 </ul>
 <h2>
@@ -6263,7 +6949,7 @@ supplicant.
   </a>
   - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
   <sup>
-   &#9733 11, pushed 336 days ago
+   &#9733 11, pushed 460 days ago
   </sup>
  </li>
  <li>
@@ -6272,14 +6958,23 @@ supplicant.
   </a>
   - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
   <sup>
-   &#9733 112, pushed 35 days ago
+   &#9733 112, pushed 160 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/aforward/dbus">
+  <a href="https://github.com/costaraphael/cspex">
+   cspex
+  </a>
+  - Simple, OTP compliant, Elixir implementation of CSP channels.
+ </li>
+ <li>
+  <a href="https://github.com/aforward/sadbus">
    dbus
   </a>
   - A dumb message bus for sharing data between microservices decoupled using Redis.
+  <sup>
+   &#9733 2, pushed 517 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/wistia/elixir_nsq">
@@ -6287,7 +6982,7 @@ supplicant.
   </a>
   - NSQ client library for Elixir.
   <sup>
-   &#9733 18, pushed 12 days ago
+   &#9733 18, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -6296,7 +6991,7 @@ supplicant.
   </a>
   - An Elixir client for beanstalkd.
   <sup>
-   &#9733 14, pushed 54 days ago
+   &#9733 14, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -6305,7 +7000,7 @@ supplicant.
   </a>
   - enm is an Erlang port driver that wraps the nanomsg C library.
   <sup>
-   &#9733 59, pushed 55 days ago
+   &#9733 59, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -6318,7 +7013,7 @@ supplicant.
   </a>
   , an in-memory, distributed job queue.
   <sup>
-   &#9733 12, pushed 356 days ago
+   &#9733 12, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -6327,7 +7022,7 @@ supplicant.
   </a>
   - Job processing library for Elixir - compatible with Resque/Sidekiq.
   <sup>
-   &#9733 296, pushed 24 days ago
+   &#9733 296, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -6336,7 +7031,7 @@ supplicant.
   </a>
   - RabbitMQ bindings and DSL for Elixir.
   <sup>
-   &#9733 42, pushed 400 days ago
+   &#9733 42, pushed 525 days ago
   </sup>
  </li>
  <li>
@@ -6345,7 +7040,7 @@ supplicant.
   </a>
   - A Heap-based Priority Queue Implementation in Elixir.
   <sup>
-   &#9733 4, pushed 131 days ago
+   &#9733 4, pushed 255 days ago
   </sup>
  </li>
  <li>
@@ -6354,7 +7049,7 @@ supplicant.
   </a>
   - Honeydew is a worker pool library for Elixir.
   <sup>
-   &#9733 31, pushed 29 days ago
+   &#9733 31, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -6363,79 +7058,89 @@ supplicant.
   </a>
   - An MQTT 3.1.1 client library written in Elixir.
   <sup>
-   &#9733 34, pushed 80 days ago
+   &#9733 34, pushed 205 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kafkaex/kafka_ex">
-   kafka_ex
+  <a href="https://github.com/anoskov/kafka-consumer">
+   kafka
+   <em>
+    consumer
+   </em>
   </a>
-  - Kafka client library for Elixir.
-  <sup>
-   &#9733 74, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/synrc/mqs">
-   mqs
-  </a>
-  - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
-  <sup>
-   &#9733 23, pushed 223 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/okeuday/pqueue">
-   pqueue
-  </a>
-  - Erlang Priority Queue Implementation.
-  <sup>
-   &#9733 66, pushed 132 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/falood/queuex">
-   queuex
-  </a>
-  - Priority Queue with multiple backends.
-  <sup>
-   &#9733 3, pushed 78 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://hex.pm/packages/stream_weaver">
-   stream_weaver
-  </a>
-  - Library for working with streams.
- </li>
- <li>
-  <a href="https://github.com/joakimk/toniq">
-   toniq
-  </a>
-  - Simple and reliable background job library for Elixir.
-  <sup>
-   &#9733 101, pushed 66 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/edgurgel/verk">
-   verk
-  </a>
-  - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
-  <sup>
-   &#9733 200, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/pragdave/work_queue">
-   work_queue
-  </a>
-  - Simple implementation of the hungry-consumer model in Elixir.
-  <sup>
-   &#9733 21, pushed 327 days ago
-  </sup>
+  - Consumer for Kafka using kafka
  </li>
 </ul>
+ex.
+<li>
+ <a href="https://github.com/kafkaex/kafka_ex">
+  kafka_ex
+ </a>
+ - Kafka client library for Elixir.
+ <sup>
+  &#9733 74, pushed 128 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/synrc/mqs">
+  mqs
+ </a>
+ - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
+ <sup>
+  &#9733 23, pushed 347 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/okeuday/pqueue">
+  pqueue
+ </a>
+ - Erlang Priority Queue Implementation.
+ <sup>
+  &#9733 66, pushed 256 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/falood/queuex">
+  queuex
+ </a>
+ - Priority Queue with multiple backends.
+ <sup>
+  &#9733 3, pushed 203 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://hex.pm/packages/stream_weaver">
+  stream_weaver
+ </a>
+ - Library for working with streams.
+</li>
+<li>
+ <a href="https://github.com/joakimk/toniq">
+  toniq
+ </a>
+ - Simple and reliable background job library for Elixir.
+ <sup>
+  &#9733 101, pushed 191 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/edgurgel/verk">
+  verk
+ </a>
+ - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+ <sup>
+  &#9733 200, pushed 129 days ago
+ </sup>
+</li>
+<li>
+ <a href="https://github.com/pragdave/work_queue">
+  work_queue
+ </a>
+ - Simple implementation of the hungry-consumer model in Elixir.
+ <sup>
+  &#9733 21, pushed 452 days ago
+ </sup>
+</li>
 <h2>
  Release Management
 </h2>
@@ -6451,7 +7156,7 @@ supplicant.
   </a>
   - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
   <sup>
-   &#9733 152, pushed 59 days ago
+   &#9733 152, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -6460,7 +7165,7 @@ supplicant.
   </a>
   - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
   <sup>
-   &#9733 14, pushed 20 days ago
+   &#9733 14, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -6469,8 +7174,20 @@ supplicant.
   </a>
   - Automated changelog generation from GIT logs.
   <sup>
-   &#9733 10, pushed 516 days ago
+   &#9733 10, pushed 641 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/bitwalker/distillery">
+   distillery
+  </a>
+  - A pure Elixir implementation of release packaging functionality for the Erlang VM.
+ </li>
+ <li>
+  <a href="https://github.com/glasnoster/eliver">
+   eliver
+  </a>
+  - Interactive semantic versioning for Elixir packages.
  </li>
  <li>
   <a href="https://github.com/joeyates/exdm">
@@ -6478,7 +7195,7 @@ supplicant.
   </a>
   - Deploy Elixir applications via mix tasks.
   <sup>
-   &#9733 9, pushed 104 days ago
+   &#9733 9, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -6487,7 +7204,7 @@ supplicant.
   </a>
   - Automatically generate a release for your Elixir project.
   <sup>
-   &#9733 654, pushed 6 days ago
+   &#9733 654, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -6496,7 +7213,7 @@ supplicant.
   </a>
   - Create a deb for your Elixir release with ease.
   <sup>
-   &#9733 33, pushed 29 days ago
+   &#9733 33, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -6505,7 +7222,7 @@ supplicant.
   </a>
   - Exrm plugin to dockerize your Elixir release.
   <sup>
-   &#9733 14, pushed 28 days ago
+   &#9733 14, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -6514,7 +7231,7 @@ supplicant.
   </a>
   - Publish your Elixir releases to Heroku with ease.
   <sup>
-   &#9733 35, pushed 342 days ago
+   &#9733 35, pushed 466 days ago
   </sup>
  </li>
  <li>
@@ -6523,7 +7240,7 @@ supplicant.
   </a>
   - Create a RPM for your Elixir release with ease.
   <sup>
-   &#9733 31, pushed 22 days ago
+   &#9733 31, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -6532,7 +7249,7 @@ supplicant.
   </a>
   - Heroku buildpack to deploy Elixir apps to Heroku.
   <sup>
-   &#9733 342, pushed 30 days ago
+   &#9733 342, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -6541,7 +7258,7 @@ supplicant.
   </a>
   - Erlang/Elixir Release Assembler.
   <sup>
-   &#9733 62, pushed 743 days ago
+   &#9733 62, pushed 868 days ago
   </sup>
  </li>
  <li>
@@ -6550,8 +7267,14 @@ supplicant.
   </a>
   - Fast, simple, and composable deployment library for Elixir.
   <sup>
-   &#9733 66, pushed 285 days ago
+   &#9733 66, pushed 410 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Nebo15/renew">
+   renew
+  </a>
+  - Mix task to create mix projects that builds into Docker containers.
  </li>
 </ul>
 <h2>
@@ -6569,7 +7292,7 @@ supplicant.
   </a>
   - An emulsifying Erlang SOAP library.
   <sup>
-   &#9733 35, pushed 174 days ago
+   &#9733 35, pushed 298 days ago
   </sup>
  </li>
  <li>
@@ -6578,7 +7301,7 @@ supplicant.
   </a>
   - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
   <sup>
-   &#9733 14, pushed 244 days ago
+   &#9733 14, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -6587,17 +7310,14 @@ supplicant.
   </a>
   - Elixir copy of grape for creating REST-like APIs.
   <sup>
-   &#9733 377, pushed 4 days ago
+   &#9733 377, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/mazurka/mazurka">
+  <a href="https://github.com/exstruct/mazurka">
    mazurka
   </a>
   - hypermedia api toolkit.
-  <sup>
-   &#9733 7, pushed 2 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/edgurgel/signaturex">
@@ -6605,7 +7325,7 @@ supplicant.
   </a>
   - Simple key/secret based authentication for APIs.
   <sup>
-   &#9733 10, pushed 113 days ago
+   &#9733 10, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -6614,7 +7334,7 @@ supplicant.
   </a>
   - Urna is a simple DSL around cauldron to implement REST services.
   <sup>
-   &#9733 62, pushed 360 days ago
+   &#9733 62, pushed 485 days ago
   </sup>
  </li>
 </ul>
@@ -6633,21 +7353,18 @@ supplicant.
   </a>
   - Security oriented helper functions for Elixir.
   <sup>
-   &#9733 6, pushed 192 days ago
+   &#9733 6, pushed 317 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/benoitc/ssl_verify_hostname">
+  <a href="https://github.com/deadtrickster/ssl_verify_fun.erl">
    ssl
    <em>
     verify
    </em>
-   hostname
+   fun
   </a>
-  - Erlang library for certificate hostname validation based on RFC 6125.
-  <sup>
-   &#9733 6, pushed 406 days ago
-  </sup>
+  - Collection of ssl verification functions for Erlang.
  </li>
 </ul>
 <h2>
@@ -6665,7 +7382,7 @@ supplicant.
   </a>
   - Minimalistic static content engine.
   <sup>
-   &#9733 42, pushed 765 days ago
+   &#9733 42, pushed 889 days ago
   </sup>
  </li>
  <li>
@@ -6674,7 +7391,7 @@ supplicant.
   </a>
   - Static blog and website generator.
   <sup>
-   &#9733 154, pushed 39 days ago
+   &#9733 154, pushed 164 days ago
   </sup>
  </li>
 </ul>
@@ -6693,7 +7410,7 @@ supplicant.
   </a>
   - Descriptive Statistics for Elixir.
   <sup>
-   &#9733 7, pushed 456 days ago
+   &#9733 7, pushed 581 days ago
   </sup>
  </li>
  <li>
@@ -6702,8 +7419,14 @@ supplicant.
   </a>
   - MTX supports front-end API for tracking Historgram, Meter, Counter, Gauge, Timing keys.
   <sup>
-   &#9733 11, pushed 249 days ago
+   &#9733 11, pushed 373 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/safwank/Numerix">
+   numerix
+  </a>
+  - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
  </li>
  <li>
   <a href="https://github.com/msharp/elixir-statistics">
@@ -6711,7 +7434,7 @@ supplicant.
   </a>
   - Some basic statistical functions for Elixir.
   <sup>
-   &#9733 27, pushed 14 days ago
+   &#9733 27, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -6720,7 +7443,7 @@ supplicant.
   </a>
   - Math and statistics functions for Elixir.
   <sup>
-   &#9733 7, pushed 317 days ago
+   &#9733 7, pushed 442 days ago
   </sup>
  </li>
 </ul>
@@ -6739,7 +7462,7 @@ supplicant.
   </a>
   - Binary pattern match Based Mustache template engine for Erlang/OTP.
   <sup>
-   &#9733 29, pushed 53 days ago
+   &#9733 29, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -6748,8 +7471,14 @@ supplicant.
   </a>
   - Library for writing and manipulating (HTML) markup in Elixir.
   <sup>
-   &#9733 56, pushed 159 days ago
+   &#9733 56, pushed 284 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rstacruz/expug">
+   expug
+  </a>
+  - Pug templates for Elixir.
  </li>
  <li>
   <a href="https://github.com/schultyy/Mustache.ex">
@@ -6757,7 +7486,7 @@ supplicant.
   </a>
   - Mustache templates for Elixir.
   <sup>
-   &#9733 8, pushed 387 days ago
+   &#9733 8, pushed 511 days ago
   </sup>
  </li>
  <li>
@@ -6766,7 +7495,7 @@ supplicant.
   </a>
   - Mustache for Elixir - Logic-less templates.
   <sup>
-   &#9733 9, pushed 159 days ago
+   &#9733 9, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -6775,7 +7504,7 @@ supplicant.
   </a>
   - Helper library for adding templating to web applications.
   <sup>
-   &#9733 2, pushed 254 days ago
+   &#9733 2, pushed 379 days ago
   </sup>
  </li>
 </ul>
@@ -6794,7 +7523,7 @@ supplicant.
   </a>
   - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
   <sup>
-   &#9733 189, pushed 163 days ago
+   &#9733 189, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -6803,7 +7532,7 @@ supplicant.
   </a>
   - Data generation framework for Elixir.
   <sup>
-   &#9733 118, pushed 78 days ago
+   &#9733 118, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -6812,8 +7541,14 @@ supplicant.
   </a>
   - A simple HTTP load tester in Elixir.
   <sup>
-   &#9733 44, pushed 191 days ago
+   &#9733 44, pushed 316 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pspdfkit-labs/bypass">
+   bypass
+  </a>
+  - Bypass provides a quick way to create a mock HTTP server with a custom plug.
  </li>
  <li>
   <a href="https://github.com/PSPDFKit-labs/cobertura_cover">
@@ -6825,7 +7560,7 @@ supplicant.
   </code>
   file compatible with Jenkins' Cobertura plugin.
   <sup>
-   &#9733 7, pushed 411 days ago
+   &#9733 7, pushed 536 days ago
   </sup>
  </li>
  <li>
@@ -6834,7 +7569,7 @@ supplicant.
   </a>
   - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
   <sup>
-   &#9733 0, pushed 285 days ago
+   &#9733 0, pushed 410 days ago
   </sup>
  </li>
  <li>
@@ -6843,7 +7578,7 @@ supplicant.
   </a>
   - A REST API testing framework for erlang.
   <sup>
-   &#9733 11, pushed 61 days ago
+   &#9733 11, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -6852,7 +7587,7 @@ supplicant.
   </a>
   - BDD test framework for Elixir inspired by RSpec.
   <sup>
-   &#9733 173, pushed 12 days ago
+   &#9733 173, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -6861,7 +7596,7 @@ supplicant.
   </a>
   - ESpec for Phoenix web framework.
   <sup>
-   &#9733 43, pushed 4 days ago
+   &#9733 43, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -6870,7 +7605,7 @@ supplicant.
   </a>
   - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
   <sup>
-   &#9733 266, pushed 4 days ago
+   &#9733 266, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -6879,7 +7614,7 @@ supplicant.
   </a>
   - Simple macro for parametarized testing.
   <sup>
-   &#9733 3, pushed 120 days ago
+   &#9733 3, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -6888,7 +7623,7 @@ supplicant.
   </a>
   - BDD-like syntax for ExUnit.
   <sup>
-   &#9733 58, pushed 68 days ago
+   &#9733 58, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -6901,7 +7636,7 @@ supplicant.
   </a>
   - A library for defining modular dependencies for ExUnit tests.
   <sup>
-   &#9733 5, pushed 21 days ago
+   &#9733 5, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -6914,7 +7649,7 @@ supplicant.
   </a>
   - Desktop notifications for ExUnit.
   <sup>
-   &#9733 32, pushed 28 days ago
+   &#9733 32, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -6923,7 +7658,7 @@ supplicant.
   </a>
   - Property-based testing library for Elixir (QuickCheck style).
   <sup>
-   &#9733 127, pushed 38 days ago
+   &#9733 127, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -6936,7 +7671,7 @@ supplicant.
   </a>
   - Minimal implementation of Ruby's factory_girl in Elixir.
   <sup>
-   &#9733 31, pushed 336 days ago
+   &#9733 31, pushed 461 days ago
   </sup>
  </li>
  <li>
@@ -6945,7 +7680,7 @@ supplicant.
   </a>
   - Faker is a pure Elixir library for generating fake data.
   <sup>
-   &#9733 132, pushed 17 days ago
+   &#9733 132, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -6954,7 +7689,7 @@ supplicant.
   </a>
   - FiFo Quickcheck helper, a set of helpers for running EQC.
   <sup>
-   &#9733 0, pushed 286 days ago
+   &#9733 0, pushed 410 days ago
   </sup>
  </li>
  <li>
@@ -6963,7 +7698,7 @@ supplicant.
   </a>
   - Gimei is a pure Elixir library for generating Japanese fake data.
   <sup>
-   &#9733 2, pushed 144 days ago
+   &#9733 2, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -6972,7 +7707,7 @@ supplicant.
   </a>
   - Elixir library for writing integration tests and browser automation.
   <sup>
-   &#9733 466, pushed 1 days ago
+   &#9733 466, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -6981,7 +7716,7 @@ supplicant.
   </a>
   - HTTP request stubbing and expectation Elixir library.
   <sup>
-   &#9733 12, pushed 171 days ago
+   &#9733 12, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -6990,7 +7725,7 @@ supplicant.
   </a>
   - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
   <sup>
-   &#9733 27, pushed 29 days ago
+   &#9733 27, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -6999,7 +7734,7 @@ supplicant.
   </a>
   - A simple ExUnit test runner.
   <sup>
-   &#9733 5, pushed 546 days ago
+   &#9733 5, pushed 670 days ago
   </sup>
  </li>
  <li>
@@ -7008,7 +7743,7 @@ supplicant.
   </a>
   - A mocking library for Erlang.
   <sup>
-   &#9733 451, pushed 2 days ago
+   &#9733 451, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7021,7 +7756,7 @@ supplicant.
   </a>
   - Common tasks for Erlang projects that use Mix.
   <sup>
-   &#9733 10, pushed 409 days ago
+   &#9733 10, pushed 534 days ago
   </sup>
  </li>
  <li>
@@ -7030,7 +7765,7 @@ supplicant.
   </a>
   - A Mix task to execute eunit tests.
   <sup>
-   &#9733 5, pushed 383 days ago
+   &#9733 5, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -7043,7 +7778,7 @@ supplicant.
   </a>
   - Automatically run your Elixir project's tests each time you save a file.
   <sup>
-   &#9733 138, pushed 3 days ago
+   &#9733 138, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -7052,7 +7787,7 @@ supplicant.
   </a>
   - An EUnit task for Mix based projects.
   <sup>
-   &#9733 2, pushed 356 days ago
+   &#9733 2, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -7061,7 +7796,7 @@ supplicant.
   </a>
   - Mocking library for the Elixir language.
   <sup>
-   &#9733 113, pushed 58 days ago
+   &#9733 113, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -7070,7 +7805,7 @@ supplicant.
   </a>
   - BDD framework for your Elixir projects.
   <sup>
-   &#9733 103, pushed 89 days ago
+   &#9733 103, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -7083,7 +7818,7 @@ supplicant.
   </a>
   - A simple testing DSL for Plugs.
   <sup>
-   &#9733 5, pushed 520 days ago
+   &#9733 5, pushed 645 days ago
   </sup>
  </li>
  <li>
@@ -7092,7 +7827,7 @@ supplicant.
   </a>
   - Ponos is an Erlang application that exposes a flexible load generator API.
   <sup>
-   &#9733 89, pushed 163 days ago
+   &#9733 89, pushed 288 days ago
   </sup>
  </li>
  <li>
@@ -7101,7 +7836,7 @@ supplicant.
   </a>
   - Power Assert in Elixir. Shows evaluation results each expression.
   <sup>
-   &#9733 68, pushed 33 days ago
+   &#9733 68, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -7110,7 +7845,7 @@ supplicant.
   </a>
   - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
   <sup>
-   &#9733 465, pushed 7 days ago
+   &#9733 465, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -7119,7 +7854,7 @@ supplicant.
   </a>
   - Easily mix and match functions marked with tags to setup your test context.
   <sup>
-   &#9733 0, pushed 14 days ago
+   &#9733 0, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -7128,8 +7863,18 @@ supplicant.
   </a>
   - Elixir testing libraries with nested contexts, superior readability, and ease of use.
   <sup>
-   &#9733 108, pushed 111 days ago
+   &#9733 108, pushed 236 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/facto/test_that_json">
+   test
+   <em>
+    that
+   </em>
+   json
+  </a>
+  - JSON assertions and helpers for your Elixir testing needs.
  </li>
  <li>
   <a href="https://github.com//stuart/tuco_tuco">
@@ -7143,7 +7888,7 @@ supplicant.
   </a>
   - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
   <sup>
-   &#9733 144, pushed 3 days ago
+   &#9733 144, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -7152,7 +7897,7 @@ supplicant.
   </a>
   - Story based BDD in Elixir using the gherkin syntax.
   <sup>
-   &#9733 51, pushed 10 days ago
+   &#9733 51, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -7166,12 +7911,18 @@ supplicant.
 </p>
 <ul>
  <li>
+  <a href="https://github.com/narrowtux/abacus">
+   abacus
+  </a>
+  - Evalutate math terms in Elixir.
+ </li>
+ <li>
   <a href="https://github.com/jrdnull/base58">
    base58
   </a>
   - Base58 encoding/decoding for Elixir.
   <sup>
-   &#9733 6, pushed 499 days ago
+   &#9733 6, pushed 624 days ago
   </sup>
  </li>
  <li>
@@ -7180,7 +7931,7 @@ supplicant.
   </a>
   - Base58Check encoding/decoding for Bitcoin.
   <sup>
-   &#9733 9, pushed 289 days ago
+   &#9733 9, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -7189,7 +7940,7 @@ supplicant.
   </a>
   - Base62 encoder/decoder in pure Elixir.
   <sup>
-   &#9733 8, pushed 64 days ago
+   &#9733 8, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -7198,7 +7949,7 @@ supplicant.
   </a>
   - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
   <sup>
-   &#9733 8, pushed 5 days ago
+   &#9733 8, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -7207,7 +7958,7 @@ supplicant.
   </a>
   - bencode in Elixir.
   <sup>
-   &#9733 4, pushed 357 days ago
+   &#9733 4, pushed 481 days ago
   </sup>
  </li>
  <li>
@@ -7216,7 +7967,7 @@ supplicant.
   </a>
   - Number format and Validate, to the documents brazilians (CPF/CNPJ).
   <sup>
-   &#9733 1, pushed 51 days ago
+   &#9733 1, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -7225,8 +7976,14 @@ supplicant.
   </a>
   - An Elixir HAML parser.
   <sup>
-   &#9733 125, pushed 43 days ago
+   &#9733 125, pushed 167 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Joe-noh/ccc">
+   ccc
+  </a>
+  - Character Code Converter.
  </li>
  <li>
   <a href="https://github.com/tyrchen/chinese_translation">
@@ -7234,7 +7991,7 @@ supplicant.
   </a>
   - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
   <sup>
-   &#9733 49, pushed 424 days ago
+   &#9733 49, pushed 549 days ago
   </sup>
  </li>
  <li>
@@ -7243,7 +8000,7 @@ supplicant.
   </a>
   - Classless Inter-Domain Routing (CIDR) for Elixir.
   <sup>
-   &#9733 7, pushed 34 days ago
+   &#9733 7, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -7252,7 +8009,7 @@ supplicant.
   </a>
   - Cirru Parser in Elixir.
   <sup>
-   &#9733 0, pushed 317 days ago
+   &#9733 0, pushed 442 days ago
   </sup>
  </li>
  <li>
@@ -7261,7 +8018,7 @@ supplicant.
   </a>
   - cldr is a library to use information from CLDR data.
   <sup>
-   &#9733 1, pushed 672 days ago
+   &#9733 1, pushed 797 days ago
   </sup>
  </li>
  <li>
@@ -7270,7 +8027,7 @@ supplicant.
   </a>
   - Elixir macros to decorate characters on CUI.
   <sup>
-   &#9733 2, pushed 451 days ago
+   &#9733 2, pushed 575 days ago
   </sup>
  </li>
  <li>
@@ -7279,7 +8036,7 @@ supplicant.
   </a>
   - Colors util written in Elixir.
   <sup>
-   &#9733 3, pushed 591 days ago
+   &#9733 3, pushed 715 days ago
   </sup>
  </li>
  <li>
@@ -7288,7 +8045,7 @@ supplicant.
   </a>
   - An Elixir library for converting from and to arbitrary bases.
   <sup>
-   &#9733 8, pushed 119 days ago
+   &#9733 8, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -7297,7 +8054,7 @@ supplicant.
   </a>
   - HTML tag-safe string truncation.
   <sup>
-   &#9733 9, pushed 67 days ago
+   &#9733 9, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -7306,7 +8063,7 @@ supplicant.
   </a>
   - Allow you to make custom base conversion in Elixir.
   <sup>
-   &#9733 3, pushed 93 days ago
+   &#9733 3, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -7315,7 +8072,7 @@ supplicant.
   </a>
   - Arbitrary precision decimal arithmetic for Elixir.
   <sup>
-   &#9733 75, pushed 9 days ago
+   &#9733 75, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -7324,7 +8081,7 @@ supplicant.
   </a>
   - A dice roller expression evaluator.
   <sup>
-   &#9733 4, pushed 346 days ago
+   &#9733 4, pushed 470 days ago
   </sup>
  </li>
  <li>
@@ -7337,7 +8094,7 @@ supplicant.
   </a>
   encoder/decoder for Elixir.
   <sup>
-   &#9733 5, pushed 132 days ago
+   &#9733 5, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -7346,7 +8103,7 @@ supplicant.
   </a>
   - Lorem Ipsum generator for Elixir.
   <sup>
-   &#9733 4, pushed 295 days ago
+   &#9733 4, pushed 420 days ago
   </sup>
  </li>
  <li>
@@ -7355,7 +8112,7 @@ supplicant.
   </a>
   - Elixir range utilities: constant-time random sampling and set operations.
   <sup>
-   &#9733 3, pushed 148 days ago
+   &#9733 3, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -7364,7 +8121,7 @@ supplicant.
   </a>
   - Bencode implemented in Elixir.
   <sup>
-   &#9733 8, pushed 349 days ago
+   &#9733 8, pushed 474 days ago
   </sup>
  </li>
  <li>
@@ -7377,7 +8134,7 @@ supplicant.
   </a>
   format parser for the Erlang platform.
   <sup>
-   &#9733 22, pushed 83 days ago
+   &#9733 22, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -7390,7 +8147,7 @@ supplicant.
   </a>
   - Encode data into EventSource compliant data.
   <sup>
-   &#9733 1, pushed 316 days ago
+   &#9733 1, pushed 441 days ago
   </sup>
  </li>
  <li>
@@ -7403,7 +8160,7 @@ supplicant.
   </a>
   - Brace expansion, as known from sh/bash, in Elixir.
   <sup>
-   &#9733 3, pushed 392 days ago
+   &#9733 3, pushed 517 days ago
   </sup>
  </li>
  <li>
@@ -7412,7 +8169,7 @@ supplicant.
   </a>
   - Elixir Tel URI parser compatible with RFC3966.
   <sup>
-   &#9733 0, pushed 112 days ago
+   &#9733 0, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -7421,7 +8178,7 @@ supplicant.
   </a>
   - RFC3986 URI/URL parser.
   <sup>
-   &#9733 4, pushed 112 days ago
+   &#9733 4, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -7430,7 +8187,7 @@ supplicant.
   </a>
   - Emoji encoding Swiss Army knife for Elixir/Erlang.
   <sup>
-   &#9733 31, pushed 110 days ago
+   &#9733 31, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -7439,7 +8196,7 @@ supplicant.
   </a>
   - Profanity filter library for Elixir.
   <sup>
-   &#9733 12, pushed 442 days ago
+   &#9733 12, pushed 566 days ago
   </sup>
  </li>
  <li>
@@ -7448,7 +8205,7 @@ supplicant.
   </a>
   - An Elixir library for parsing and evaluating mathematical expressions.
   <sup>
-   &#9733 4, pushed 85 days ago
+   &#9733 4, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -7457,7 +8214,7 @@ supplicant.
   </a>
   - Markov Text Generator for Elixir.
   <sup>
-   &#9733 12, pushed 43 days ago
+   &#9733 12, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -7466,7 +8223,7 @@ supplicant.
   </a>
   - Generate Heroku-like memorable random names to use in your apps or anywhere else.
   <sup>
-   &#9733 8, pushed 169 days ago
+   &#9733 8, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -7475,7 +8232,7 @@ supplicant.
   </a>
   - Hashids lets you obfuscate numerical identifiers via reversible mapping.
   <sup>
-   &#9733 55, pushed 36 days ago
+   &#9733 55, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -7484,7 +8241,7 @@ supplicant.
   </a>
   - Simple module for Hex encoding / decoding in Elixir.
   <sup>
-   &#9733 13, pushed 80 days ago
+   &#9733 13, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -7497,7 +8254,7 @@ supplicant.
   </a>
   - HTML sanitizer for Elixir.
   <sup>
-   &#9733 29, pushed 62 days ago
+   &#9733 29, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -7506,7 +8263,7 @@ supplicant.
   </a>
   - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
   <sup>
-   &#9733 5, pushed 291 days ago
+   &#9733 5, pushed 416 days ago
   </sup>
  </li>
  <li>
@@ -7515,7 +8272,7 @@ supplicant.
   </a>
   - An Inflector library for Elixir.
   <sup>
-   &#9733 60, pushed 14 days ago
+   &#9733 60, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -7524,7 +8281,7 @@ supplicant.
   </a>
   - An Elixir library for transforming the representation of data.
   <sup>
-   &#9733 8, pushed 497 days ago
+   &#9733 8, pushed 622 days ago
   </sup>
  </li>
  <li>
@@ -7533,7 +8290,7 @@ supplicant.
   </a>
   - LTSV parser implementation in Elixir.
   <sup>
-   &#9733 9, pushed 233 days ago
+   &#9733 9, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -7542,7 +8299,7 @@ supplicant.
   </a>
   - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
   <sup>
-   &#9733 9, pushed 171 days ago
+   &#9733 9, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -7551,7 +8308,7 @@ supplicant.
   </a>
   - parse mimetypes.
   <sup>
-   &#9733 1, pushed 57 days ago
+   &#9733 1, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -7560,7 +8317,7 @@ supplicant.
   </a>
   - A lightweight solution for handling and storing money.
   <sup>
-   &#9733 10, pushed 7 days ago
+   &#9733 10, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -7569,7 +8326,7 @@ supplicant.
   </a>
   - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
   <sup>
-   &#9733 15, pushed 186 days ago
+   &#9733 15, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -7578,7 +8335,7 @@ supplicant.
   </a>
   - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
   <sup>
-   &#9733 5, pushed 10 days ago
+   &#9733 5, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -7591,7 +8348,7 @@ supplicant.
   </a>
   implementation with a pleasant Elixir DSL.
   <sup>
-   &#9733 28, pushed 86 days ago
+   &#9733 28, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -7600,7 +8357,7 @@ supplicant.
   </a>
   - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
   <sup>
-   &#9733 19, pushed 17 days ago
+   &#9733 19, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -7609,7 +8366,7 @@ supplicant.
   </a>
   - A handy library for colouring strings in Elixir.
   <sup>
-   &#9733 1, pushed 372 days ago
+   &#9733 1, pushed 497 days ago
   </sup>
  </li>
  <li>
@@ -7618,7 +8375,7 @@ supplicant.
   </a>
   - Chinese Pinyin lib for Elixir.
   <sup>
-   &#9733 9, pushed 59 days ago
+   &#9733 9, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -7627,7 +8384,7 @@ supplicant.
   </a>
   - Porter Stemmer in Elixir.
   <sup>
-   &#9733 2, pushed 418 days ago
+   &#9733 2, pushed 543 days ago
   </sup>
  </li>
  <li>
@@ -7636,7 +8393,7 @@ supplicant.
   </a>
   - A binary hex dumping library in Elixir.
   <sup>
-   &#9733 4, pushed 542 days ago
+   &#9733 4, pushed 667 days ago
   </sup>
  </li>
  <li>
@@ -7645,7 +8402,7 @@ supplicant.
   </a>
   - Quick Random Number Generation.
   <sup>
-   &#9733 7, pushed 52 days ago
+   &#9733 7, pushed 176 days ago
   </sup>
  </li>
  <li>
@@ -7654,7 +8411,7 @@ supplicant.
   </a>
   - Referer parser library in Elixir. Fetching info from URLs.
   <sup>
-   &#9733 2, pushed 10 days ago
+   &#9733 2, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -7663,7 +8420,7 @@ supplicant.
   </a>
   - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
   <sup>
-   &#9733 23, pushed 97 days ago
+   &#9733 23, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -7672,7 +8429,7 @@ supplicant.
   </a>
   - Simple sentiment analysis based on the AFINN-111 wordlist.
   <sup>
-   &#9733 0, pushed 174 days ago
+   &#9733 0, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -7681,7 +8438,7 @@ supplicant.
   </a>
   - String similarity metrics for Elixir.
   <sup>
-   &#9733 29, pushed 281 days ago
+   &#9733 29, pushed 406 days ago
   </sup>
  </li>
  <li>
@@ -7690,7 +8447,7 @@ supplicant.
   </a>
   - An Elixir library for rendering slim-like templates.
   <sup>
-   &#9733 65, pushed 21 days ago
+   &#9733 65, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -7699,8 +8456,14 @@ supplicant.
   </a>
   - Slugger can generate slugs from given strings that can be used in URLs or file names.
   <sup>
-   &#9733 27, pushed 58 days ago
+   &#9733 27, pushed 183 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/fredwu/stemmer">
+   stemmer
+  </a>
+  - An English (Porter2) stemming implementation in Elixir.
  </li>
  <li>
   <a href="https://github.com/FranklinChen/tau">
@@ -7708,7 +8471,7 @@ supplicant.
   </a>
   - Provide the famous mathematical constant, tau, τ = 6.2831....
   <sup>
-   &#9733 2, pushed 165 days ago
+   &#9733 2, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -7717,7 +8480,7 @@ supplicant.
   </a>
   - A TOML parser for Elixir.
   <sup>
-   &#9733 12, pushed 448 days ago
+   &#9733 12, pushed 573 days ago
   </sup>
  </li>
  <li>
@@ -7730,8 +8493,14 @@ supplicant.
   </code>
   .
   <sup>
-   &#9733 9, pushed 10 days ago
+   &#9733 9, pushed 135 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nazipov/ua_parser2-elixir">
+   ua_parser2
+  </a>
+  - A port of ua-parser2 to Elixir. User agent parser library.
  </li>
  <li>
   <a href="https://github.com/meadsteve/unit_fun">
@@ -7739,7 +8508,7 @@ supplicant.
   </a>
   - Attempt to add units to numbers in elixir to give some added type saftey when dealing with numeric quantities.
   <sup>
-   &#9733 7, pushed 74 days ago
+   &#9733 7, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -7748,7 +8517,7 @@ supplicant.
   </a>
   - UUID generator and utilities for Elixir.
   <sup>
-   &#9733 72, pushed 99 days ago
+   &#9733 72, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -7757,7 +8526,7 @@ supplicant.
   </a>
   - Erlang Native UUID Generation.
   <sup>
-   &#9733 114, pushed 18 days ago
+   &#9733 114, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -7771,12 +8540,18 @@ supplicant.
 </p>
 <ul>
  <li>
+  <a href="https://github.com/adjust/airbax">
+   airbax
+  </a>
+  - Exception tracking from Elixir to Airbrake.
+ </li>
+ <li>
   <a href="https://github.com/romul/airbrake-elixir">
    airbrake
   </a>
   - An Elixir notifier for the Airbrake.
   <sup>
-   &#9733 5, pushed 5 days ago
+   &#9733 5, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -7785,7 +8560,7 @@ supplicant.
   </a>
   - Elixir client for the Airbrake service.
   <sup>
-   &#9733 3, pushed 47 days ago
+   &#9733 3, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -7798,7 +8573,7 @@ supplicant.
   </a>
   - Amazon Product Advertising API client for Elixir.
   <sup>
-   &#9733 9, pushed 55 days ago
+   &#9733 9, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -7807,7 +8582,7 @@ supplicant.
   </a>
   - Elixir client for the Anilist API.
   <sup>
-   &#9733 1, pushed 58 days ago
+   &#9733 1, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -7816,8 +8591,14 @@ supplicant.
   </a>
   - Apple Push Notifications Service client library for elixir.
   <sup>
-   &#9733 31, pushed 11 days ago
+   &#9733 31, pushed 135 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jamesotron/apostle-elixir">
+   apostle
+  </a>
+  - Elixir client for Apostle.io.
  </li>
  <li>
   <a href="https://github.com/trenpixster/asanaficator">
@@ -7825,7 +8606,7 @@ supplicant.
   </a>
   - Simple Elixir wrapper for the Asana API. Based on Tentacat.
   <sup>
-   &#9733 1, pushed 305 days ago
+   &#9733 1, pushed 429 days ago
   </sup>
  </li>
  <li>
@@ -7834,7 +8615,7 @@ supplicant.
   </a>
   - Assembla API client for Elixir.
   <sup>
-   &#9733 0, pushed 40 days ago
+   &#9733 0, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -7843,14 +8624,17 @@ supplicant.
   </a>
   - Balanced API Client for Elixir.
   <sup>
-   &#9733 1, pushed 511 days ago
+   &#9733 1, pushed 635 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/wtcross/elixir-bandwidth">
+  <a href="https://github.com/bandwidthcom/elixir-bandwidth">
    bandwidth
   </a>
   - An Elixir client library for the Bandwidth Application Platform.
+  <sup>
+   &#9733 1, pushed 153 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/ikeikeikeike/bing_translator">
@@ -7858,7 +8642,7 @@ supplicant.
   </a>
   - A simple Elixir interface to Bing's translation API.
   <sup>
-   &#9733 2, pushed 21 days ago
+   &#9733 2, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -7867,7 +8651,7 @@ supplicant.
   </a>
   - Elixir core library for connecting to bitpay.com.
   <sup>
-   &#9733 15, pushed 224 days ago
+   &#9733 15, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -7876,7 +8660,7 @@ supplicant.
   </a>
   - Simple implementation of the Cleverbot API in Elixir.
   <sup>
-   &#9733 1, pushed 491 days ago
+   &#9733 1, pushed 615 days ago
   </sup>
  </li>
  <li>
@@ -7885,7 +8669,7 @@ supplicant.
   </a>
   - A unofficial Coinbase API v1 Client.
   <sup>
-   &#9733 4, pushed 278 days ago
+   &#9733 4, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -7894,7 +8678,7 @@ supplicant.
   </a>
   - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
   <sup>
-   &#9733 80, pushed 91 days ago
+   &#9733 80, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -7903,8 +8687,14 @@ supplicant.
   </a>
   - A tool to display cards currently assigns on Trello.
   <sup>
-   &#9733 4, pushed 155 days ago
+   &#9733 4, pushed 280 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lukeed/elixir-digitalocean">
+   digitalocean
+  </a>
+  - Elixir wrapper for the Digital Ocean API v2.
  </li>
  <li>
   <a href="https://github.com/kevinmontuori/digoc">
@@ -7912,8 +8702,18 @@ supplicant.
   </a>
   - Digital Ocean API v2 Elixir Client.
   <sup>
-   &#9733 9, pushed 447 days ago
+   &#9733 9, pushed 572 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/peburrows/diplomat">
+   diplomat
+  </a>
+  - A
+  <a href="https://cloud.google.com/datastore/">
+   Google Cloud Datastore
+  </a>
+  client.
  </li>
  <li>
   <a href="https://github.com/hexedpackets/docker-elixir">
@@ -7921,7 +8721,7 @@ supplicant.
   </a>
   - Elixir client for the Docker Remote API.
   <sup>
-   &#9733 9, pushed 267 days ago
+   &#9733 9, pushed 391 days ago
   </sup>
  </li>
  <li>
@@ -7934,7 +8734,7 @@ supplicant.
   </a>
   .
   <sup>
-   &#9733 4, pushed 205 days ago
+   &#9733 4, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -7943,7 +8743,7 @@ supplicant.
   </a>
   - An API client for the DPD service.
   <sup>
-   &#9733 0, pushed 183 days ago
+   &#9733 0, pushed 308 days ago
   </sup>
  </li>
  <li>
@@ -7952,8 +8752,18 @@ supplicant.
   </a>
   - Dropbox Core API client for Elixir.
   <sup>
-   &#9733 14, pushed 601 days ago
+   &#9733 14, pushed 725 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/carlo-colombo/dublin-bus-api">
+   dublin
+   <em>
+    bus
+   </em>
+   api
+  </a>
+  - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
  </li>
  <li>
   <a href="https://github.com/rozap/edgarex">
@@ -7961,7 +8771,7 @@ supplicant.
   </a>
   - Elixir interface for fetching SEC filings from EDGAR.
   <sup>
-   &#9733 0, pushed 429 days ago
+   &#9733 0, pushed 554 days ago
   </sup>
  </li>
  <li>
@@ -7970,7 +8780,7 @@ supplicant.
   </a>
   - Unofficial client for the Authorize.Net merchant API.
   <sup>
-   &#9733 1, pushed 54 days ago
+   &#9733 1, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -7983,7 +8793,7 @@ supplicant.
   </a>
   - IPFS (InterPlanetary File System) API client for Elixir.
   <sup>
-   &#9733 1, pushed 167 days ago
+   &#9733 1, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -7992,7 +8802,7 @@ supplicant.
   </a>
   - Instagram API client for Elixir.
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8001,7 +8811,7 @@ supplicant.
   </a>
   - Evernote API client for Elixir.
   <sup>
-   &#9733 7, pushed 334 days ago
+   &#9733 7, pushed 459 days ago
   </sup>
  </li>
  <li>
@@ -8010,17 +8820,14 @@ supplicant.
   </a>
   - API Client for EveryoneAPI.com.
   <sup>
-   &#9733 1, pushed 441 days ago
+   &#9733 1, pushed 565 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/xtagon/ex_omegle">
-   ex_omegle
+  <a href="https://github.com/Brightergy/ex_gecko">
+   ex_gecko
   </a>
-  - A minimal Omegle chat client library for Elixir.
-  <sup>
-   &#9733 1, pushed 593 days ago
-  </sup>
+  - Elixir SDK to communicate with Geckoboard's API.
  </li>
  <li>
   <a href="https://github.com/CargoSense/ex_statsd">
@@ -8028,7 +8835,7 @@ supplicant.
   </a>
   - A statsd client implementation for Elixir.
   <sup>
-   &#9733 24, pushed 104 days ago
+   &#9733 24, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -8037,7 +8844,7 @@ supplicant.
   </a>
   - Twilio API client for Elixir.
   <sup>
-   &#9733 33, pushed 17 days ago
+   &#9733 33, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8046,7 +8853,7 @@ supplicant.
   </a>
   - Generate TwiML for your Twilio integration, right inside Elixir.
   <sup>
-   &#9733 8, pushed 17 days ago
+   &#9733 8, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8055,8 +8862,14 @@ supplicant.
   </a>
   - Elixir library for the Desk.com API.
   <sup>
-   &#9733 3, pushed 161 days ago
+   &#9733 3, pushed 286 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/oivoodoo/exfacebook">
+   exfacebook
+  </a>
+  - Facebook API, written in Elixir using similar methods like Ruby koala gem.
  </li>
  <li>
   <a href="https://github.com/jeffweiss/exgenius">
@@ -8064,7 +8877,7 @@ supplicant.
   </a>
   - Elixir library for the (undocumented) Rap Genius API.
   <sup>
-   &#9733 1, pushed 210 days ago
+   &#9733 1, pushed 335 days ago
   </sup>
  </li>
  <li>
@@ -8073,7 +8886,7 @@ supplicant.
   </a>
   - An Elixir module for generating Gravatar URLs.
   <sup>
-   &#9733 8, pushed 224 days ago
+   &#9733 8, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -8082,7 +8895,7 @@ supplicant.
   </a>
   - interact with Sendgrid's API.
   <sup>
-   &#9733 7, pushed 319 days ago
+   &#9733 7, pushed 444 days ago
   </sup>
  </li>
  <li>
@@ -8091,7 +8904,7 @@ supplicant.
   </a>
   - JIRA client library for Elixir.
   <sup>
-   &#9733 3, pushed 444 days ago
+   &#9733 3, pushed 568 days ago
   </sup>
  </li>
  <li>
@@ -8100,7 +8913,7 @@ supplicant.
   </a>
   - A Lingr client module.
   <sup>
-   &#9733 2, pushed 515 days ago
+   &#9733 2, pushed 640 days ago
   </sup>
  </li>
  <li>
@@ -8109,7 +8922,7 @@ supplicant.
   </a>
   - Elixir library for Instagram v1 API.
   <sup>
-   &#9733 6, pushed 83 days ago
+   &#9733 6, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -8118,7 +8931,7 @@ supplicant.
   </a>
   - Feature complete Stripe API wrapper.
   <sup>
-   &#9733 7, pushed 63 days ago
+   &#9733 7, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -8127,7 +8940,7 @@ supplicant.
   </a>
   - Twitter client library for Elixir.
   <sup>
-   &#9733 162, pushed 10 days ago
+   &#9733 162, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -8136,7 +8949,7 @@ supplicant.
   </a>
   - Elixir wrapper for UrbanAirship API.
   <sup>
-   &#9733 0, pushed 518 days ago
+   &#9733 0, pushed 643 days ago
   </sup>
  </li>
  <li>
@@ -8145,7 +8958,7 @@ supplicant.
   </a>
   - Facebook Graph API Wrapper written in Elixir.
   <sup>
-   &#9733 36, pushed 5 days ago
+   &#9733 36, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -8154,7 +8967,7 @@ supplicant.
   </a>
   - Feedly RSS reader client for Elixir.
   <sup>
-   &#9733 2, pushed 71 days ago
+   &#9733 2, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -8163,7 +8976,7 @@ supplicant.
   </a>
   - Minimalistic fluentd client.
   <sup>
-   &#9733 1, pushed 487 days ago
+   &#9733 1, pushed 611 days ago
   </sup>
  </li>
  <li>
@@ -8172,7 +8985,7 @@ supplicant.
   </a>
   - Elixir library for the Force.com REST API.
   <sup>
-   &#9733 11, pushed 3 days ago
+   &#9733 11, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -8181,7 +8994,7 @@ supplicant.
   </a>
   - Simple wrapper for Forecast.IO API.
   <sup>
-   &#9733 4, pushed 31 days ago
+   &#9733 4, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -8190,7 +9003,7 @@ supplicant.
   </a>
   - Google Cloud Messaging client library for elixir.
   <sup>
-   &#9733 4, pushed 204 days ago
+   &#9733 4, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -8199,8 +9012,18 @@ supplicant.
   </a>
   - Elixir library for fetching and polling Google spreadsheet data in CSV format.
   <sup>
-   &#9733 15, pushed 43 days ago
+   &#9733 15, pushed 168 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/walterbm/govtrack-elixir">
+   govtrack
+  </a>
+  - A simple Elixir wrapper for the
+  <a href="https://www.govtrack.us/developers">
+   govtrack.us
+  </a>
+  API.
  </li>
  <li>
   <a href="https://github.com/JonGretar/Hexoku">
@@ -8208,33 +9031,26 @@ supplicant.
   </a>
   - Heroku API client and Heroku Mix tasks for Elixir projects.
   <sup>
-   &#9733 4, pushed 557 days ago
+   &#9733 4, pushed 682 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/undeadlabs/instrumental-ex">
-   instrumental
+  <a href="https://github.com/jeffutter/honeywell-elixir">
+   honeywell
   </a>
-  - An Elixir client for
-  <a href="https://instrumentalapp.com/">
-   Instrumental
-  </a>
-  .
-  <sup>
-   &#9733 5, pushed 157 days ago
-  </sup>
+  - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
  </li>
  <li>
   <a href="https://github.com/peburrows/kane">
    kane
   </a>
   - A
-  <a href="https://cloud.google.com/pubsub/docs">
+  <a href="https://cloud.google.com/pubsub/overview">
    Google Cloud Pub/Sub
   </a>
   client.
   <sup>
-   &#9733 2, pushed 2 days ago
+   &#9733 2, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -8243,7 +9059,7 @@ supplicant.
   </a>
   - A Keen.io API Client.
   <sup>
-   &#9733 7, pushed 280 days ago
+   &#9733 7, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -8252,7 +9068,7 @@ supplicant.
   </a>
   - Elixir library for creating short URLs using Google's URL Shortener API.
   <sup>
-   &#9733 5, pushed 583 days ago
+   &#9733 5, pushed 707 days ago
   </sup>
  </li>
  <li>
@@ -8265,7 +9081,7 @@ supplicant.
   </a>
   ).
   <sup>
-   &#9733 5, pushed 60 days ago
+   &#9733 5, pushed 184 days ago
   </sup>
  </li>
  <li>
@@ -8274,7 +9090,7 @@ supplicant.
   </a>
   - A basic Elixir wrapper for version 3 of the MailChimp API.
   <sup>
-   &#9733 12, pushed 7 days ago
+   &#9733 12, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8283,7 +9099,7 @@ supplicant.
   </a>
   - Elixir Mailgun Client.
   <sup>
-   &#9733 104, pushed 1 days ago
+   &#9733 104, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -8292,7 +9108,7 @@ supplicant.
   </a>
   - A Mandrill wrapper for Elixir.
   <sup>
-   &#9733 42, pushed 19 days ago
+   &#9733 42, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -8301,7 +9117,7 @@ supplicant.
   </a>
   - CLI and Elixir API Client for the Marvel API.
   <sup>
-   &#9733 3, pushed 356 days ago
+   &#9733 3, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -8310,7 +9126,7 @@ supplicant.
   </a>
   - An Elixir client for the Mixpanel HTTP API.
   <sup>
-   &#9733 3, pushed 476 days ago
+   &#9733 3, pushed 601 days ago
   </sup>
  </li>
  <li>
@@ -8323,7 +9139,7 @@ supplicant.
   </a>
   - Client for interacting with the Mixpanel Data Export API.
   <sup>
-   &#9733 2, pushed 279 days ago
+   &#9733 2, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -8332,7 +9148,7 @@ supplicant.
   </a>
   - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
   <sup>
-   &#9733 0, pushed 385 days ago
+   &#9733 0, pushed 510 days ago
   </sup>
  </li>
  <li>
@@ -8341,7 +9157,7 @@ supplicant.
   </a>
   - Telegram Bot API Wrapper written in Elixir.
   <sup>
-   &#9733 31, pushed 14 days ago
+   &#9733 31, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -8350,17 +9166,14 @@ supplicant.
   </a>
   - An Elixir library for using the Nest API, allowing integration with Nest Thermostats and other Nest devices.
   <sup>
-   &#9733 2, pushed 315 days ago
+   &#9733 2, pushed 439 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/teerawat1992/omise">
+  <a href="https://github.com/teerawat1992/omise-elixir">
    omise
   </a>
   - Omise client library for Elixir.
-  <sup>
-   &#9733 2, pushed 24 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/teodor-pripoae/opbeat">
@@ -8368,7 +9181,7 @@ supplicant.
   </a>
   - Elixir client for Opbeat.
   <sup>
-   &#9733 4, pushed 148 days ago
+   &#9733 4, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -8377,7 +9190,7 @@ supplicant.
   </a>
   - A Pagerduty client for Elixir.
   <sup>
-   &#9733 4, pushed 337 days ago
+   &#9733 4, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -8386,7 +9199,7 @@ supplicant.
   </a>
   - Elixir client for the parse.com REST API.
   <sup>
-   &#9733 2, pushed 305 days ago
+   &#9733 2, pushed 430 days ago
   </sup>
  </li>
  <li>
@@ -8395,8 +9208,14 @@ supplicant.
   </a>
   - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
   <sup>
-   &#9733 1, pushed 607 days ago
+   &#9733 1, pushed 731 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jeffutter/particle-elixir">
+   particle
+  </a>
+  - An Elixir client for the Particle IoT platform's HTTP API.
  </li>
  <li>
   <a href="https://github.com/novabyte/pathway">
@@ -8408,7 +9227,7 @@ supplicant.
   </a>
   REST API.
   <sup>
-   &#9733 3, pushed 544 days ago
+   &#9733 3, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -8417,7 +9236,7 @@ supplicant.
   </a>
   - An Elixir Lib to deal with Paypal and other payment solutions.
   <sup>
-   &#9733 7, pushed 170 days ago
+   &#9733 7, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -8426,8 +9245,14 @@ supplicant.
   </a>
   - Peatio exchange project compatible API for Elixir.
   <sup>
-   &#9733 1, pushed 103 days ago
+   &#9733 1, pushed 228 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/codedge-llc/pigeon">
+   pigeon
+  </a>
+  - HTTP2-compliant wrapper for sending iOS and Android push notifications.
  </li>
  <li>
   <a href="https://github.com/essenciary/pocketex">
@@ -8439,7 +9264,7 @@ supplicant.
   </a>
   .
   <sup>
-   &#9733 4, pushed 290 days ago
+   &#9733 4, pushed 414 days ago
   </sup>
  </li>
  <li>
@@ -8448,7 +9273,7 @@ supplicant.
   </a>
   - Elixir library to access the Pusher REST API.
   <sup>
-   &#9733 9, pushed 71 days ago
+   &#9733 9, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -8457,7 +9282,7 @@ supplicant.
   </a>
   - A Qiita API v2 Interface for Elixir.
   <sup>
-   &#9733 6, pushed 497 days ago
+   &#9733 6, pushed 622 days ago
   </sup>
  </li>
  <li>
@@ -8466,8 +9291,14 @@ supplicant.
   </a>
   - Qiniu SDK for Elixir.
   <sup>
-   &#9733 16, pushed 117 days ago
+   &#9733 16, pushed 242 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/katgironpe/random_user">
+   random_user
+  </a>
+  - An Elixir client for randomuser.me API.
  </li>
  <li>
   <a href="https://github.com/Raynes/reap">
@@ -8475,7 +9306,7 @@ supplicant.
   </a>
   - Reap is a simple Elixir library for working with the refheap API.
   <sup>
-   &#9733 3, pushed 554 days ago
+   &#9733 3, pushed 678 days ago
   </sup>
  </li>
  <li>
@@ -8484,7 +9315,7 @@ supplicant.
   </a>
   - An headline and link puller for Reddit and its various subreddits.
   <sup>
-   &#9733 2, pushed 177 days ago
+   &#9733 2, pushed 302 days ago
   </sup>
  </li>
  <li>
@@ -8493,7 +9324,7 @@ supplicant.
   </a>
   - Redtube API Wrapper written in Elixir.
   <sup>
-   &#9733 4, pushed 323 days ago
+   &#9733 4, pushed 447 days ago
   </sup>
  </li>
  <li>
@@ -8502,7 +9333,7 @@ supplicant.
   </a>
   - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
   <sup>
-   &#9733 3, pushed 24 days ago
+   &#9733 3, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -8515,8 +9346,14 @@ supplicant.
   </a>
   client for Elixir.
   <sup>
-   &#9733 21, pushed 29 days ago
+   &#9733 21, pushed 153 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/lee-dohm/semver">
+   semver
+  </a>
+  - Utilities for working with semver.org-compliant version strings.
  </li>
  <li>
   <a href="https://github.com/alexgaribay/sendgrid_elixir">
@@ -8524,7 +9361,7 @@ supplicant.
   </a>
   - Send composable, transactional emails with SendGrid.
   <sup>
-   &#9733 11, pushed 32 days ago
+   &#9733 11, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -8533,7 +9370,7 @@ supplicant.
   </a>
   - An Elixir library for interacting with the Amazon SimpleDB API.
   <sup>
-   &#9733 3, pushed 139 days ago
+   &#9733 3, pushed 264 days ago
   </sup>
  </li>
  <li>
@@ -8542,7 +9379,7 @@ supplicant.
   </a>
   - Slack real time messaging client in Elixir.
   <sup>
-   &#9733 170, pushed 2 days ago
+   &#9733 170, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -8551,7 +9388,7 @@ supplicant.
   </a>
   - An Elixir library for sending email using SparkPost.
   <sup>
-   &#9733 6, pushed 18 days ago
+   &#9733 6, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8560,7 +9397,7 @@ supplicant.
   </a>
   - Expose app metrics in the StatsD protocol.
   <sup>
-   &#9733 31, pushed 108 days ago
+   &#9733 31, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -8569,7 +9406,7 @@ supplicant.
   </a>
   - An Elixir Library wrapping Stripe's API.
   <sup>
-   &#9733 17, pushed 513 days ago
+   &#9733 17, pushed 638 days ago
   </sup>
  </li>
  <li>
@@ -8582,7 +9419,7 @@ supplicant.
   </a>
   .
   <sup>
-   &#9733 80, pushed 24 days ago
+   &#9733 80, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -8591,7 +9428,7 @@ supplicant.
   </a>
   - Elixir client for Tagplay API.
   <sup>
-   &#9733 0, pushed 461 days ago
+   &#9733 0, pushed 586 days ago
   </sup>
  </li>
  <li>
@@ -8600,7 +9437,7 @@ supplicant.
   </a>
   - Elixir state machines for Twilio calls.
   <sup>
-   &#9733 9, pushed 17 days ago
+   &#9733 9, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -8609,7 +9446,7 @@ supplicant.
   </a>
   - Simple Elixir wrapper for the GitHub API.
   <sup>
-   &#9733 110, pushed 7 days ago
+   &#9733 110, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8618,8 +9455,14 @@ supplicant.
   </a>
   - An Elixir client library for the Traitify Developer's API.
   <sup>
-   &#9733 1, pushed 554 days ago
+   &#9733 1, pushed 679 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/katgironpe/ui_faces">
+   ui_faces
+  </a>
+  - UIFaces API client for Elixir applications.
  </li>
  <li>
   <a href="https://github.com/waynehoover/unsplash-elixir">
@@ -8627,7 +9470,7 @@ supplicant.
   </a>
   - An Elixir library for Unsplash.
   <sup>
-   &#9733 1, pushed 32 days ago
+   &#9733 1, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -8636,7 +9479,7 @@ supplicant.
   </a>
   - Real time conversion for currencies.
   <sup>
-   &#9733 8, pushed 32 days ago
+   &#9733 8, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -8645,7 +9488,7 @@ supplicant.
   </a>
   - Zanox API.
   <sup>
-   &#9733 0, pushed 148 days ago
+   &#9733 0, pushed 273 days ago
   </sup>
  </li>
 </ul>
@@ -8664,8 +9507,14 @@ supplicant.
   </a>
   - Library for localization Ecto validation errors with using Gettext.
   <sup>
-   &#9733 3, pushed 22 days ago
+   &#9733 3, pushed 147 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ikeikeikeike/exkanji">
+   exkanji
+  </a>
+  - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
  </li>
  <li>
   <a href="https://github.com/ikeikeikeike/exromaji">
@@ -8673,7 +9522,7 @@ supplicant.
   </a>
   - A Elixir library for translating between hiragana, katakana and romaji.
   <sup>
-   &#9733 3, pushed 52 days ago
+   &#9733 3, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -8682,7 +9531,7 @@ supplicant.
   </a>
   - Elixir Internationalization library.
   <sup>
-   &#9733 98, pushed 182 days ago
+   &#9733 98, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -8691,8 +9540,14 @@ supplicant.
   </a>
   - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
   <sup>
-   &#9733 1, pushed 383 days ago
+   &#9733 1, pushed 508 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/belaustegui/trans">
+   trans
+  </a>
+  - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
  </li>
 </ul>
 <h2>
@@ -8710,7 +9565,7 @@ supplicant.
   </a>
   - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
   <sup>
-   &#9733 7, pushed 332 days ago
+   &#9733 7, pushed 456 days ago
   </sup>
  </li>
  <li>
@@ -8719,8 +9574,26 @@ supplicant.
   </a>
   - Utility library for Elixir, designed to complement the standard library bundled with the language.
   <sup>
-   &#9733 96, pushed 7 days ago
+   &#9733 96, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/zackehh/deppie">
+   deppie
+  </a>
+  - Elixir's coolest deprecation logger.
+ </li>
+ <li>
+  <a href="https://github.com/zackehh/dot-notes-elixir">
+   dot-notes
+  </a>
+  - Simple dot/bracket notation parsing/conversion for Maps/Lists.
+ </li>
+ <li>
+  <a href="https://github.com/ferd/erlang-history">
+   erlang-history
+  </a>
+  - Hacks to add shell history to Erlang's shell.
  </li>
  <li>
   <a href="https://github.com/proger/erlsh">
@@ -8728,7 +9601,7 @@ supplicant.
   </a>
   - Family of functions and ports involving interacting with the system shell, paths and external programs.
   <sup>
-   &#9733 42, pushed 310 days ago
+   &#9733 42, pushed 434 days ago
   </sup>
  </li>
  <li>
@@ -8737,7 +9610,7 @@ supplicant.
   </a>
   - Additional standard library for Erlang.
   <sup>
-   &#9733 133, pushed 27 days ago
+   &#9733 133, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -8746,7 +9619,7 @@ supplicant.
   </a>
   - Elixir library for reading Java properties files from various sources.
   <sup>
-   &#9733 0, pushed 75 days ago
+   &#9733 0, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -8755,7 +9628,7 @@ supplicant.
   </a>
   - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
   <sup>
-   &#9733 1, pushed 242 days ago
+   &#9733 1, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -8768,7 +9641,7 @@ supplicant.
   </code>
   module.
   <sup>
-   &#9733 1, pushed 321 days ago
+   &#9733 1, pushed 446 days ago
   </sup>
  </li>
  <li>
@@ -8777,11 +9650,11 @@ supplicant.
   </a>
   - Mandrake is a functional programming library that bring something else magic in elixir.
   <sup>
-   &#9733 5, pushed 142 days ago
+   &#9733 5, pushed 266 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/atomic-fads/plasm">
+  <a href="https://github.com/facto/plasm">
    plasm
   </a>
   - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted
@@ -8789,9 +9662,6 @@ supplicant.
    before, .inserted
   </em>
   after, etc.
-  <sup>
-   &#9733 36, pushed 42 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/simonewebdesign/elixir_pubsub">
@@ -8799,7 +9669,7 @@ supplicant.
   </a>
   - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
   <sup>
-   &#9733 15, pushed 177 days ago
+   &#9733 15, pushed 302 days ago
   </sup>
  </li>
  <li>
@@ -8808,8 +9678,14 @@ supplicant.
   </a>
   - A library for common functional programming idioms: combinators, currying, and partial application.
   <sup>
-   &#9733 19, pushed 45 days ago
+   &#9733 19, pushed 170 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/safwank/ElixirRetry">
+   retry
+  </a>
+  - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
  </li>
  <li>
   <a href="https://github.com/DavsX/SipsDownloader">
@@ -8817,8 +9693,14 @@ supplicant.
   </a>
   - Elixir module for downloading the ElixirSips episodes and all other files.
   <sup>
-   &#9733 11, pushed 98 days ago
+   &#9733 11, pushed 222 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ikeikeikeike/sitemap">
+   sitemap
+  </a>
+  - Sitemap is the easiest way to generate Sitemaps in Elixir.
  </li>
 </ul>
 <h2>
@@ -8836,7 +9718,7 @@ supplicant.
   </a>
   - Awesome validations for Elixir.
   <sup>
-   &#9733 4, pushed 283 days ago
+   &#9733 4, pushed 407 days ago
   </sup>
  </li>
  <li>
@@ -8845,8 +9727,14 @@ supplicant.
   </a>
   - A IBAN account number and BIC validation library for Elixir.
   <sup>
-   &#9733 4, pushed 18 days ago
+   &#9733 4, pushed 143 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/madeinussr/exop">
+   exop
+  </a>
+  - A library that allows to encapsulate business logic and validate params with predefined contract.
  </li>
  <li>
   <a href="https://github.com/prio/shape">
@@ -8854,7 +9742,7 @@ supplicant.
   </a>
   - A data validation library for Elixir based on Prismatic Scheme.
   <sup>
-   &#9733 6, pushed 313 days ago
+   &#9733 6, pushed 438 days ago
   </sup>
  </li>
  <li>
@@ -8863,7 +9751,7 @@ supplicant.
   </a>
   - UK postcode parsing and validation library.
   <sup>
-   &#9733 4, pushed 411 days ago
+   &#9733 4, pushed 535 days ago
   </sup>
  </li>
  <li>
@@ -8872,7 +9760,7 @@ supplicant.
   </a>
   - An extensible data validation library for Elixir.
   <sup>
-   &#9733 98, pushed 8 days ago
+   &#9733 98, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -8881,7 +9769,7 @@ supplicant.
   </a>
   - A library for validating JSON responses.
   <sup>
-   &#9733 22, pushed 30 days ago
+   &#9733 22, pushed 154 days ago
   </sup>
  </li>
 </ul>
@@ -8900,8 +9788,24 @@ supplicant.
   </a>
   - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
   <sup>
-   &#9733 27, pushed 174 days ago
+   &#9733 27, pushed 298 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ Video
+</h2>
+<p>
+ <em>
+  Libraries for working with and manipulating video and multimedia.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/talklittle/ffmpex">
+   ffmpex
+  </a>
+  - FFmpeg command line wrapper.
  </li>
 </ul>
 <h2>
@@ -8919,7 +9823,7 @@ supplicant.
   </a>
   - Erlsom is an Erlang library to parse (and generate) XML documents.
   <sup>
-   &#9733 137, pushed 11 days ago
+   &#9733 137, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -8928,7 +9832,7 @@ supplicant.
   </a>
   - Elixir wrapper for xmerl.
   <sup>
-   &#9733 5, pushed 665 days ago
+   &#9733 5, pushed 790 days ago
   </sup>
  </li>
  <li>
@@ -8937,7 +9841,7 @@ supplicant.
   </a>
   - Most simple Elixir wrapper for xmerl xpath.
   <sup>
-   &#9733 8, pushed 194 days ago
+   &#9733 8, pushed 319 days ago
   </sup>
  </li>
  <li>
@@ -8946,7 +9850,7 @@ supplicant.
   </a>
   - A library for parsing HTML and querying elements within.
   <sup>
-   &#9733 24, pushed 65 days ago
+   &#9733 24, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -8955,7 +9859,7 @@ supplicant.
   </a>
   - A simple HTML parser that enables searching using CSS like selectors.
   <sup>
-   &#9733 278, pushed 58 days ago
+   &#9733 278, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -8964,7 +9868,7 @@ supplicant.
   </a>
   - XML parser for Elixir.
   <sup>
-   &#9733 14, pushed 31 days ago
+   &#9733 14, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -8973,7 +9877,7 @@ supplicant.
   </a>
   - Readability is for extracting and curating articles.
   <sup>
-   &#9733 16, pushed 2 days ago
+   &#9733 16, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -8982,7 +9886,7 @@ supplicant.
   </a>
   - Query XML simply and effectively.
   <sup>
-   &#9733 55, pushed 46 days ago
+   &#9733 55, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -8991,7 +9895,7 @@ supplicant.
   </a>
   - Elixir library for generating xml.
   <sup>
-   &#9733 29, pushed 135 days ago
+   &#9733 29, pushed 260 days ago
   </sup>
  </li>
  <li>
@@ -9000,7 +9904,7 @@ supplicant.
   </a>
   - Library for encoding and decoding XML-RPC for clients and servers.
   <sup>
-   &#9733 5, pushed 18 days ago
+   &#9733 5, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -9019,7 +9923,7 @@ supplicant.
   </a>
   - Fast YAML is an Erlang wrapper for libyaml "C" library.
   <sup>
-   &#9733 2, pushed 39 days ago
+   &#9733 2, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -9028,7 +9932,7 @@ supplicant.
   </a>
   - YAML 1.2 parser in Erlang.
   <sup>
-   &#9733 95, pushed 403 days ago
+   &#9733 95, pushed 527 days ago
   </sup>
  </li>
  <li>
@@ -9037,7 +9941,7 @@ supplicant.
   </a>
   - Yaml parser for Elixir based on native Erlang implementation.
   <sup>
-   &#9733 13, pushed 30 days ago
+   &#9733 13, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -9046,7 +9950,7 @@ supplicant.
   </a>
   - libyaml interface for Elixir.
   <sup>
-   &#9733 7, pushed 113 days ago
+   &#9733 7, pushed 238 days ago
   </sup>
  </li>
 </ul>
@@ -9076,6 +9980,12 @@ supplicant.
    Elixir in Action
   </a>
   - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
+ </li>
+ <li>
+  <a href="https://leanpub.com/erlangandelixirforimperativeprogrammers">
+   Erlang and Elixir for Imperative Programmers
+  </a>
+  - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
  </li>
  <li>
   <a href="http://www.erlang-in-anger.com/">
@@ -9108,7 +10018,7 @@ supplicant.
   - Definitive guide to build web applications with the Phoenix framework by Chris McCord, José Valim and Bruce Tate (2015).
  </li>
  <li>
-  <a href="https://www.manning.com/tanweihao/">
+  <a href="https://www.manning.com/books/the-little-elixir-and-otp-guidebook">
    The Little Elixir & OTP Guidebook
   </a>
   - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
@@ -9140,7 +10050,7 @@ supplicant.
   - The IRC Channel #elixir-lang on Freenode.
  </li>
  <li>
-  <a href="http://elixirforum.com/">
+  <a href="https://elixirforum.com/">
    Elixir Forum
   </a>
   - Community run discussion forums for all things Elixir.
@@ -9179,7 +10089,7 @@ supplicant.
   </a>
   - Elixir Tooling Integration Into Emacs.
   <sup>
-   &#9733 483, pushed 6 days ago
+   &#9733 483, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -9188,7 +10098,7 @@ supplicant.
   </a>
   - Editor/IDE independent background server to inform about Elixir mix projects.
   <sup>
-   &#9733 58, pushed 11 days ago
+   &#9733 58, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -9197,7 +10107,7 @@ supplicant.
   </a>
   - Elixir Tooling Integration Into Vim.
   <sup>
-   &#9733 85, pushed 11 days ago
+   &#9733 85, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -9218,7 +10128,7 @@ supplicant.
   </a>
   - Run an IEx session in Atom.
   <sup>
-   &#9733 6, pushed 77 days ago
+   &#9733 6, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -9227,7 +10137,7 @@ supplicant.
   </a>
   - Vim plugin to generate Elixir module and test files with one command.
   <sup>
-   &#9733 6, pushed 154 days ago
+   &#9733 6, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -9236,7 +10146,7 @@ supplicant.
   </a>
   - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
   <sup>
-   &#9733 0, pushed 394 days ago
+   &#9733 0, pushed 518 days ago
   </sup>
  </li>
  <li>
@@ -9251,7 +10161,7 @@ supplicant.
   </a>
   - Elixir syntax highlighting for Notepad++.
   <sup>
-   &#9733 3, pushed 489 days ago
+   &#9733 3, pushed 614 days ago
   </sup>
  </li>
  <li>
@@ -9260,7 +10170,7 @@ supplicant.
   </a>
   - Phoenix Snippets for Atom.
   <sup>
-   &#9733 2, pushed 87 days ago
+   &#9733 2, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -9269,7 +10179,7 @@ supplicant.
   </a>
   - Elixir syntax highlighting for TextMate.
   <sup>
-   &#9733 136, pushed 36 days ago
+   &#9733 136, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -9278,7 +10188,7 @@ supplicant.
   </a>
   - Vim configuration files for Elixir.
   <sup>
-   &#9733 473, pushed 7 days ago
+   &#9733 473, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -9287,8 +10197,46 @@ supplicant.
   </a>
   - Vim test runner based on Thoughtbots vim-rspec.
   <sup>
-   &#9733 1, pushed 211 days ago
+   &#9733 1, pushed 335 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mat-mcloughlin/vscode-elixir">
+   vscode-elixir
+  </a>
+  - Elixir Support for Visual Studio Code.
+ </li>
+</ul>
+<h2>
+ Newsletters
+</h2>
+<p>
+ <em>
+  Useful Elixir-related newsletters.
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="http://elixirdigest.net">
+   Elixir Digest
+  </a>
+  - A weekly newsletter with the latest articles on Elixir and Phoenix.
+ </li>
+ <li>
+  <a href="http://plataformatec.com.br/elixir-radar">
+   Elixir Radar
+  </a>
+  - The "official" Elixir newsletter, published weekly via email by Plataformatec.
+ </li>
+ <li>
+  <a href="https://elixirweekly.net">
+   ElixirWeekly
+  </a>
+  - The Elixir community newsletter, covering stuff you easily miss, shared on
+  <a href="http://elixirstatus.com">
+   ElixirStatus
+  </a>
+  and the web.
  </li>
 </ul>
 <h2>
@@ -9314,7 +10262,7 @@ supplicant.
   </a>
   - A curated list of awesome Erlang libraries, resources and shiny things.
   <sup>
-   &#9733 422, pushed 23 days ago
+   &#9733 422, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -9323,7 +10271,7 @@ supplicant.
   </a>
   - A collection of links for Erlang developers.
   <sup>
-   &#9733 894, pushed 204 days ago
+   &#9733 894, pushed 329 days ago
   </sup>
  </li>
 </ul>
@@ -9348,7 +10296,7 @@ supplicant.
   </a>
   - Material to introduce functional programming using the Elixir language.
   <sup>
-   &#9733 45, pushed 6 days ago
+   &#9733 45, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -9358,18 +10306,12 @@ supplicant.
   - Lessons about the Elixir programming language.
  </li>
  <li>
-  <a href="http://learningelixir.joekain.com/">
-   Learning Elixir
-  </a>
-  - Learning Elixir Website, by Joseph Kain.
- </li>
- <li>
   <a href="https://github.com/jwhiteman/a-little-elixir-goes-a-long-way">
    The Little Schemer in Elixir
   </a>
   - Exercises and algorithms from the Little Schemer book, ported to Elixir.
   <sup>
-   &#9733 272, pushed 111 days ago
+   &#9733 272, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -9378,7 +10320,7 @@ supplicant.
   </a>
   - Exercism Exercises in Elixir.
   <sup>
-   &#9733 98, pushed 2 days ago
+   &#9733 98, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -9435,7 +10377,7 @@ supplicant.
   </a>
   - A community-driven style guide for Elixir.
   <sup>
-   &#9733 1089, pushed 21 days ago
+   &#9733 1089, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -9448,7 +10390,7 @@ supplicant.
   </a>
   .
   <sup>
-   &#9733 87, pushed 62 days ago
+   &#9733 87, pushed 187 days ago
   </sup>
  </li>
 </ul>
@@ -9457,7 +10399,7 @@ supplicant.
 </h2>
 <p>
  <em>
-  Useful web and Elixir-related websites and newsletters.
+  Useful Elixir-related websites.
  </em>
 </p>
 <ul>
@@ -9467,8 +10409,14 @@ supplicant.
   </a>
   - A walk through the Elixir language in 30 exercises.
   <sup>
-   &#9733 1182, pushed 8 days ago
+   &#9733 1182, pushed 133 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://elixir.libhunt.com">
+   Awesome Elixir @LibHunt
+  </a>
+  - Your go-to Elixir Toolbox.
  </li>
  <li>
   <a href="http://beamcommunity.github.io/">
@@ -9492,7 +10440,7 @@ supplicant.
   </a>
   .
   <sup>
-   &#9733 138, pushed 67 days ago
+   &#9733 138, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -9517,7 +10465,7 @@ supplicant.
   </a>
   - The project repository.
   <sup>
-   &#9733 6865, pushed 1 days ago
+   &#9733 6865, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -9549,12 +10497,6 @@ supplicant.
   - Weekly programming problems to help you learn Elixir.
  </li>
  <li>
-  <a href="http://plataformatec.com.br/elixir-radar">
-   Elixir Radar
-  </a>
-  - The "official" Elixir newsletter, published weekly via email by Plataformatec.
- </li>
- <li>
   <a href="http://elixir-recipes.github.io/">
    Elixir Recipes
   </a>
@@ -9573,6 +10515,12 @@ supplicant.
   - Unlike traditional software design pattern efforts, which tend to emphasize the importance of code reuse, this project emphasizes patterns that feel good to humans.
  </li>
  <li>
+  <a href="https://til.hashrocket.com/elixir">
+   Hashrocket Today I Learned - Elixir
+  </a>
+  - Small posts about Elixir from the team at Hashrocket.
+ </li>
+ <li>
   <a href="http://howistart.org/posts/elixir/1">
    How I start - Elixir
   </a>
@@ -9584,19 +10532,13 @@ supplicant.
   </a>
   - A blog about a Professional Software Engineer learning Elixir.
  </li>
- <li>
-  <a href="http://elixirdigest.net">
-   Weekly Elixir Digest
-  </a>
-  - A weekly newsletter with the latest articles on Elixir and Phoenix.
- </li>
 </ul>
 <h1>
  Contributing
 </h1>
 <p>
  Please see
- <a href="https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md">
+ <a href="https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md">
   CONTRIBUTING
  </a>
  for details.

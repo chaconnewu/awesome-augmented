@@ -372,6 +372,9 @@
 </h4>
 <ul>
  <li>
+  500px https://developers.500px.com/
+ </li>
+ <li>
   8th Light http://blog.8thlight.com/
  </li>
 </ul>
@@ -381,6 +384,9 @@
 <ul>
  <li>
   AdRoll http://tech.adroll.com/blog/
+ </li>
+ <li>
+  Advanced Web Machinery https://advancedweb.hu/
  </li>
  <li>
   Adzerk http://adzerk.com/tech/
@@ -401,6 +407,9 @@
   AlphaSights http://engineering-blog.alphasights.com/
  </li>
  <li>
+  Appnexus http://techblog.appnexus.com/
+ </li>
+ <li>
   Arkency http://blog.arkency.com/
  </li>
  <li>
@@ -413,6 +422,9 @@
   Atlassian https://developer.atlassian.com/blog/
  </li>
  <li>
+  Atomic Object https://spin.atomicobject.com/
+ </li>
+ <li>
   Auth0 https://auth0.com/blog/
  </li>
  <li>
@@ -422,7 +434,7 @@
   AWS https://aws.amazon.com/blogs/aws/
  </li>
  <li>
-  Azavea http://www.azavea.com/blogs/labs/
+  Azavea https://www.azavea.com/blog/category/software-development/
  </li>
 </ul>
 <h4>
@@ -466,6 +478,12 @@
   BlaBlaCar http://blablatech.com/blog/
  </li>
  <li>
+  BlackRock http://rockthecode.io/
+ </li>
+ <li>
+  Blogfoster http://engineering.blogfoster.com/
+ </li>
+ <li>
   BloomReach http://engineering.bloomreach.com/
  </li>
  <li>
@@ -481,7 +499,10 @@
   Brandwatch http://engineering.brandwatch.com/
  </li>
  <li>
-  Buzzfeed http://www.buzzfeed.com/techblog
+  Budacode https://blog.budacode.com/
+ </li>
+ <li>
+  Buzzfeed https://www.buzzfeed.com/techblog
  </li>
 </ul>
 <h4>
@@ -513,6 +534,9 @@
   Clever http://engineering.clever.com/
  </li>
  <li>
+  CleverTap https://blog.clevertap.com/category/engineering/
+ </li>
+ <li>
   Cloudera http://blog.cloudera.com/
  </li>
  <li>
@@ -526,6 +550,9 @@
  </li>
  <li>
   Code School https://www.codeschool.com/blog/categories/development/
+ </li>
+ <li>
+  Codelitt http://www.codelitt.com/blog/
  </li>
  <li>
   Codemancers http://crypt.codemancers.com/
@@ -633,6 +660,9 @@
   Fiftythree http://making.fiftythree.com/
  </li>
  <li>
+  Findmypast http://tech.findmypast.com/
+ </li>
+ <li>
   Finn.no http://tech.finn.no/
  </li>
  <li>
@@ -686,7 +716,10 @@
   Good Eggs http://bites.goodeggs.com/
  </li>
  <li>
-  Google Online Security https://googleonlinesecurity.blogspot.com/
+  Google Online Security https://security.googleblog.com/
+ </li>
+ <li>
+  Google Research https://research.googleblog.com/
  </li>
  <li>
   GoSquared https://engineering.gosquared.com/
@@ -739,6 +772,9 @@
   Hoteltonight http://engineering.hoteltonight.com/
  </li>
  <li>
+  Housing.com https://medium.com/engineering-housing
+ </li>
+ <li>
   HubSpot http://product.hubspot.com/blog/topic/engineering
  </li>
  <li>
@@ -769,6 +805,9 @@
  </li>
  <li>
   Instagram http://engineering.instagram.com/
+ </li>
+ <li>
+  Intel https://software.intel.com/en-us/blogs/
  </li>
  <li>
   Intent HQ http://engineering.intenthq.com/
@@ -805,7 +844,10 @@
   Kickstarter https://www.kickstarter.com/backing-and-hacking
  </li>
  <li>
-  Kifi http://eng.kifi.com/
+  King https://techblog.king.com/
+ </li>
+ <li>
+  Kinvolk https://kinvolk.io/blog/
  </li>
  <li>
   Kogan.com http://devblog.kogan.com/
@@ -867,6 +909,12 @@
  </li>
  <li>
   MemSQL http://blog.memsql.com/content/engineering/
+ </li>
+ <li>
+  Microsoft https://engineering.microsoft.com/
+ </li>
+ <li>
+  Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
  </li>
  <li>
   Mixmax https://mixmax.com/blog/tag/engineering
@@ -936,6 +984,9 @@
   OpenDNS https://engineering.opendns.com/
  </li>
  <li>
+  Opendoor https://labs.opendoor.com/
+ </li>
+ <li>
   OpenTable http://tech.opentable.com/
  </li>
  <li>
@@ -952,6 +1003,9 @@
  P companies
 </h4>
 <ul>
+ <li>
+  Panorama Education http://engineering.panoramaed.com/
+ </li>
  <li>
   Paperless Post http://dev.paperlesspost.com/
  </li>
@@ -1043,6 +1097,9 @@
   Secret Escapes http://tech.secretescapes.com/
  </li>
  <li>
+  Segment https://segment.com/blog/categories/engineering/
+ </li>
+ <li>
   Semaphore CI Community https://semaphoreci.com/community
  </li>
  <li>
@@ -1065,6 +1122,9 @@
  </li>
  <li>
   Sky Betting & Gaming http://engineering.skybettingandgaming.com/
+ </li>
+ <li>
+  Slack https://slack.engineering/
  </li>
  <li>
   SlideShare https://engineering.linkedin.com/blog/topic/slideshare
@@ -1107,6 +1167,9 @@
  </li>
  <li>
   Stripe https://stripe.com/blog
+ </li>
+ <li>
+  SurveyMonkey https://surveymonkeycodes.com
  </li>
 </ul>
 <h4>
@@ -1178,16 +1241,25 @@
  <li>
   Uber http://eng.uber.com/
  </li>
+ <li>
+  Upday https://upday.github.io/
+ </li>
 </ul>
 <h4>
  V companies
 </h4>
 <ul>
  <li>
+  Vena Solutions https://engineering.vena.io/
+ </li>
+ <li>
   Venmo http://blog.venmo.com/?category=Engineering
  </li>
  <li>
   VersionEye http://blog.versioneye.com/
+ </li>
+ <li>
+  Vevo http://blog.vevo.com/
  </li>
  <li>
   Viget https://www.viget.com/articles/category/code#articles
@@ -1243,6 +1315,9 @@
   Wonga Technology http://tech.wonga.com/
  </li>
  <li>
+  WSO2 http://wso2.com/library/
+ </li>
+ <li>
   WyeWorks https://wyeworks.com/blog/
  </li>
 </ul>
@@ -1252,9 +1327,6 @@
 <ul>
  <li>
   XING https://devblog.xing.com/
- </li>
- <li>
-  Xoom http://dev-blog.xoom.com/
  </li>
 </ul>
 <h4>
@@ -1279,6 +1351,9 @@
   Zalando https://tech.zalando.com/blog/
  </li>
  <li>
+  ZeeMee https://zeemee.engineering/
+ </li>
+ <li>
   Zendesk https://developer.zendesk.com/blog
  </li>
  <li>
@@ -1286,6 +1361,12 @@
  </li>
  <li>
   Zillow https://engineering.zillow.com/
+ </li>
+ <li>
+  Zomato https://engineering.zomato.com/
+ </li>
+ <li>
+  Zoosk https://about.zoosk.com/en/engineering-blog/
  </li>
  <li>
   Zulily http://engineering.zulily.com/
@@ -1332,6 +1413,9 @@
   Alan Storm http://alanstorm.com/
  </li>
  <li>
+  Alex Rogozhnikov https://arogozhnikov.github.io/
+ </li>
+ <li>
   Alex Russell https://infrequently.org/
  </li>
  <li>
@@ -1359,7 +1443,10 @@
   Antirez http://antirez.com/latest/0
  </li>
  <li>
-  Ariya Hidayat http://ariya.ofilabs.com/
+  Ariejan de Vroom https://ariejan.net/
+ </li>
+ <li>
+  Ariya Hidayat https://ariya.io/
  </li>
  <li>
   Armin Ronacher http://lucumr.pocoo.org/
@@ -1417,7 +1504,13 @@
   Carlos Becker http://carlosbecker.com
  </li>
  <li>
+  Chen Hui Jing https://www.chenhuijing.com/blog/
+ </li>
+ <li>
   Chien Tran http://thelazylog.com/
+ </li>
+ <li>
+  Chinmaya Kr. Patanaik http://chinmayapatanaik.com
  </li>
  <li>
   Chris Hager https://www.metachris.com/blog/
@@ -1426,10 +1519,16 @@
   Chris Wellons http://nullprogram.com/
  </li>
  <li>
+  Clay McLeod http://blog.claymcleod.io/
+ </li>
+ <li>
   Cocoa Is My Girlfriend http://www.cimgf.com/
  </li>
  <li>
   Code Better http://codebetter.com/
+ </li>
+ <li>
+  Code with style! http://codewithstyle.info/
  </li>
  <li>
   Codrops http://tympanus.net/codrops/
@@ -1473,6 +1572,9 @@
   Deborah Digges http://deborah-digges.github.io/
  </li>
  <li>
+  Dennis Felsing https://hookrace.net/
+ </li>
+ <li>
   Dennis Yurichev http://yurichev.com/blog/
  </li>
  <li>
@@ -1480,6 +1582,12 @@
  </li>
  <li>
   Discover Meteor https://www.discovermeteor.com/blog
+ </li>
+ <li>
+  Dmitri Pavlutin https://rainsoft.io
+ </li>
+ <li>
+  Dot Dev (.dev) https://dotdev.co
  </li>
  <li>
   Dragan Gaic http://www.gajotres.net/
@@ -1500,9 +1608,6 @@
  </li>
  <li>
   Edgar Aroutiounian http://hyegar.com/archive/
- </li>
- <li>
-  Ejci's Blog http://ejci.net/
  </li>
  <li>
   Elegant Code http://elegantcode.com/
@@ -1534,9 +1639,6 @@
   Fabrizio Branca http://fbrnc.net/
  </li>
  <li>
-  Fatih Arslan http://arslan.io/
- </li>
- <li>
   Federico Cargnelutti http://blog.fedecarg.com/
  </li>
  <li>
@@ -1555,9 +1657,6 @@
 <ul>
  <li>
   Gleb Bahmutov https://glebbahmutov.com/blog/
- </li>
- <li>
-  Gonto http://gon.to/blog/
  </li>
  <li>
   Graham King http://www.darkcoding.net/
@@ -1592,6 +1691,9 @@
 <ul>
  <li>
   Ian Hummel https://themodernlife.github.io/
+ </li>
+ <li>
+  Ian Sommerville http://iansommerville.com/systems-software-and-technology/
  </li>
  <li>
   Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
@@ -1650,7 +1752,7 @@
   John Resig http://ejohn.org/category/blog/
  </li>
  <li>
-  Jon Black http://blog.humblecoder.com/
+  John Wittenauer http://www.johnwittenauer.net/
  </li>
  <li>
   Jon Skeet http://codeblog.jonskeet.uk/
@@ -1666,6 +1768,9 @@
  </li>
  <li>
   Josh Sherman https://joshtronic.com/
+ </li>
+ <li>
+  Juan Treminio https://jtreminio.com
  </li>
  <li>
   Justin Weiss http://www.justinweiss.com/blog/
@@ -1729,6 +1834,12 @@
  </li>
  <li>
   Matt Might http://matt.might.net/articles/
+ </li>
+ <li>
+  Matt Warren http://mattwarren.org/
+ </li>
+ <li>
+  Michael Crump http://michaelcrump.net/
  </li>
  <li>
   Michaël Gallego http://www.michaelgallego.fr/articles/
@@ -1938,9 +2049,6 @@
 </h4>
 <ul>
  <li>
-  Technotalkative http://www.technotalkative.com/
- </li>
- <li>
   That Thing In Swift https://thatthinginswift.com/
  </li>
  <li>
@@ -1951,6 +2059,9 @@
  </li>
  <li>
   Tikhon Jelvis http://jelv.is/blog/
+ </li>
+ <li>
+  T.J. Maher http://adventuresinautomation.blogspot.com/
  </li>
 </ul>
 <h4>
@@ -2016,6 +2127,9 @@
 </h4>
 <ul>
  <li>
+  Android http://android-developers.blogspot.com/
+ </li>
+ <li>
   Atom.io http://blog.atom.io/
  </li>
 </ul>
@@ -2041,6 +2155,22 @@
 <ul>
  <li>
   Laravel https://laravel-news.com/blog/
+ </li>
+</ul>
+<h4>
+ M technologies
+</h4>
+<ul>
+ <li>
+  Microsoft Edge https://blogs.windows.com/msedgedev/
+ </li>
+</ul>
+<h4>
+ N technologies
+</h4>
+<ul>
+ <li>
+  .NET https://blogs.msdn.microsoft.com/dotnet/
  </li>
 </ul>
 <h4>

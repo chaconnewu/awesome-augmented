@@ -12,6 +12,7 @@
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+  - [scheje](https://github.com/turbopape/scheje)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
@@ -65,6 +66,7 @@
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Catalysis](https://github.com/metasoarous/catalysis)
   * [yada](https://github.com/juxt/yada)
+  * [Hoplon](http://hoplon.io/)
 
 ## Dependency injection
 
@@ -104,6 +106,7 @@
   * [clj-http](https://github.com/dakrone/clj-http)
   * [http-kit](http://www.http-kit.org/)
   * [ring](https://github.com/ring-clojure/ring)
+  * [kvlt](https://github.com/nervous-systems/kvlt)
 
 ## Database
 
@@ -164,6 +167,7 @@
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
   * [compojure-api](https://github.com/metosin/compojure-api)
+  * [Friboo](https://github.com/zalando/friboo)
   * [yada](https://github.com/juxt/yada)
 
 ## Emails
@@ -198,6 +202,8 @@
   * [core.match](https://github.com/clojure/core.match)
   * [Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon)
   * [defun](https://github.com/killme2008/defun)
+  * [cats.match](https://github.com/zalando/cats.match)
+  * [Akar](https://github.com/missingfaktor/akar)
 
 ## Async processing
 

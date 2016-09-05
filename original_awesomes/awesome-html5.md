@@ -14,7 +14,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [WebVTT](#webtt)
   - [HTML Imports](#html-imports)
 - [APIs](#apis)
-  - [Push Notifications](#push-notifications)
   - [Permissions](#permissions)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
@@ -23,14 +22,19 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Media capture](#media-capture)
   - [File](#file)
   - [Frame timing](#frame-timing)
-  - [Web Manifest (Web Apps)](#web-manifest)
   - [requestIdleCallback](#requestidlecallback)
+  - [requestAnimationFrame](#requestanimationframe)
+  - [Web animations](#web-animations)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
   - [Shadow DOM](#shadow-dom)
   - [Data Binding](#data-binding)
   - [Web Components](#web-components)
+- [Progressive web apps](#progressive-web-apps)
+  - [Service Workers](#service-workers)
+  - [Offline caching](#offline-caching)
+  - [Push Notifications](#push-notifications)
 - [Client side storage](#client-side-storage)
 - [Performance](#performance)
 - [Mobile](#mobile)
@@ -38,7 +42,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web Sockets](#web-sockets)
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
-- [Service Workers](#service-workers)
 - [WebGL](#webgl)
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
@@ -52,6 +55,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Articles and standards
 
+* [THML 5.2 Editor's Draft](http://w3c.github.io/html/)
+* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
 * [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
@@ -88,12 +93,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Details
 
-* [Details element](http://html5doctor.com/the-details-and-summary-elements/)
+* [Details element](https://html5doctor.com/the-details-and-summary-elements/)
 * [Details element polyfill](https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###Time
 
-* [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
+* [Time element guide](https://www.sitepoint.com/html5-time-element-guide/)
 
 ###WebVTT
 
@@ -105,13 +110,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##APIs
 
-###Push Notifications
-
-* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
-* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
-* [Push API W3C draft](http://w3c.github.io/push-api/)
-* [Notifications API](https://notifications.spec.whatwg.org/)
-
 ###Permissions
 
 * [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
@@ -119,8 +117,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Speech Synthesis
 
 * [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
-* [Another useful intro](http://shapeshed.com/html5-speech-recognition-api/)
-* [Experimenting with the Web Speech API](http://www.sitepoint.com/experimenting-web-speech-api/)
+* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
+* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
 ###Geolocation
@@ -144,7 +142,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Media Capture
 
 * [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](http://www.sitepoint.com/using-the-media-capture-api/)
+* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
 
 ###File
 
@@ -158,21 +156,24 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 * [Draft from W3C](https://w3c.github.io/frame-timing/)
 
-###Web Manifest
-
-* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [App manifest in MDN](https://developer.mozilla.org/en/Apps/Build/Manifest)
-* [Manifest for web application from W3C](https://w3c.github.io/manifest/)
-* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
-
 ###requestIdleCallback
 
 * [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
 
+###requestAnimationFrame
+
+* [Using requestAnimationFrame (CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
+* [Great article by Paul Irish](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub)
+
+###Web animations
+
+* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
+
 ##Semantics
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
+* [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
 * [HTML5 Semantics from Smashing Magazine](https://www.smashingmagazine.com/2011/11/html5-semantics/)
 * [Lesser known semantics element from W3C & Opera](https://www.w3.org/wiki/Lesser_-_known_semantic_elements)
 
@@ -180,7 +181,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
-* [Aural UI of the Elements of HTML](http://thepaciellogroup.github.io/AT-browser-tests/)
+* [Aural UI of the Elements of HTML](https://thepaciellogroup.github.io/AT-browser-tests/ )
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [Aria in HTML](https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
@@ -189,10 +190,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Shadow DOM
 
-* [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
-* [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/?redirect_from_locale=es)
-* [Shadow DOM CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
-* [Advanced Concepts & DOM APIs](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom/)
+* [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 
 ###Data Binding
 
@@ -205,6 +204,35 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Polymer project](https://github.com/polymer)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
+##Progressive web apps
+
+* [The Business Case for Progressive Web Apps](https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/)
+
+###Service Workers
+
+* [The Service Worker Cookbook](https://serviceworke.rs/)
+* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+* [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+* [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
+* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
+* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
+
+###Offline caching
+
+* [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
+* [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
+* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
+* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+
+###Push Notifications
+
+* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
+* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+* [Push API W3C draft](http://w3c.github.io/push-api/)
+* [Notifications API](https://notifications.spec.whatwg.org/)
+
 ##Client side storage
 
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
@@ -215,6 +243,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Performance
 
+* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/docs/get_started/about-amp.html)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
@@ -225,13 +254,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Mobile
 
-* [Installable web apps](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [Installable Web Apps with the Web App Manifest in Chrome for Android
+](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI](http://docs.telerik.com/KENDO-UI/controls/hybrid/introduction)
+* [Build mobile apps with Kendo UI]http://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
@@ -259,12 +289,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 * [Getting started with Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
 
-##Service Workers
-
-* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
-
 ##WebGL
 
 * [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
@@ -280,7 +304,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Books
 
 * [Dive into HTML5](http://diveintohtml5.info/)
-* [HTML5: Up and Running](http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
+* [HTML5: Up and Running](https://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](http://www.apress.com/9781430266976)
 
@@ -288,7 +312,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 * [HTML 5 game development video series by Mozilla](https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/)
-* [Info, news and tutorials](http://www.html5gamedevelopment.com/)
+* [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
   - [Pixi.js](https://github.com/pixijs/pixi.js)
@@ -315,7 +339,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
-* [HTML5 Doctor](http://html5doctor.com/) (tutorials and articles)
+* [HTML5 Doctor](https://html5doctor.com/) (tutorials and articles)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [HTML5 Please](http://html5please.com/) (Know when HTML5 feature are ready to use)
@@ -323,7 +347,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Weekly news
 
 * [HTML5 Weekly](http://html5weekly.com/)
-* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Open Web Platform Daily Digest](https://webplatformdaily.org/)
 * [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 * [Responsive Design Newsletter](http://responsivedesignweekly.com/)
 

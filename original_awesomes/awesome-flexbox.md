@@ -97,6 +97,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [Laying Out A Flexible Future For Web Design With Flexbox](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
+* [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
@@ -115,6 +116,18 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
 * [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
 
+
+### [Sketching with CSS](http://www.sketchingwithcss.com) Flexbox Guide by [@sfioritto](https://github.com/sfioritto)
+
+#### Read Materials
+* [Access 20+ Page Guide on Flexbox](http://www.sketchingwithcss.com/flexbox-tutorial/)
+
+#### Video Materials
+* [Flex-Container Pt. 1: Position Items within a flexbox container](http://www.sketchingwithcss.com/flex-container)
+* [Flex-Container Pt. 2: Rows and Columns](http://www.sketchingwithcss.com/flex-container-2/)
+* [Grow and Shrink Flex Items](http://www.sketchingwithcss.com/grow-shrink/)
+* [Implementing the Sticky Footer and Holy Grail layout](http://www.sketchingwithcss.com/flex-layouts/)
+
 #### Slides and Notes
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
 * [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
@@ -124,9 +137,11 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Future css layout fowd](http://zomigi.com/blog/future-css-layout-fowd/)
 * [Leveling up with flexbox](http://zomigi.com/blog/leveling-up-with-flexbox/)
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
+* [CSS Layout: from Table to Flexbox](https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox)
 
 ## Tools
 *Have a little help to create their projects :D*
+* [Build with Flexbox](http://flexbox.buildwithreact.com/)
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [CSS Flexbox snippets for Atom](https://github.com/brenopolanski/css-flexbox-atom-snippets)
 * [CSS Flexbox snippets for Sublime Text 2/3](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
@@ -156,6 +171,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
+* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
@@ -177,6 +193,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
 * Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+* Sean Fioritto [@sfioritto](https://twitter.com/sfioritto)
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).

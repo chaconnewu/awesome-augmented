@@ -1,4 +1,4 @@
-# Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
 - [Awesome Erlang](#awesome-Erlang)
@@ -26,6 +26,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Caching](#caching)
     - [Third Party APIs](#third-party-apis)
     - [Networking](#networking)
+    - [Internet of Things](#internet-of-things)
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Miscellaneous](#miscellaneous)
@@ -184,6 +185,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Caching
 *Libraries for caching data.*
 
+* [cache](https://github.com/fogfish/cache) - In-memory Segmented Cache
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
@@ -199,6 +202,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
+
+## Internet of Things
+*Libraries and tools for interacting with the physical world.*
+* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*

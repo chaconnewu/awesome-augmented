@@ -70,8 +70,9 @@
     </a>
    </li>
    <li>
-    <a href="#cloud-storage">
-     Cloud Storage
+    Cloud Storage:
+    <a href="https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization">
+     see awesome-selfhosted#file-transfersynchronization
     </a>
    </li>
    <li>
@@ -145,8 +146,9 @@
     </a>
    </li>
    <li>
-    <a href="#mail-servers">
-     Mail Servers
+    Mail servers/webmail:
+    <a href="https://github.com/kickball/awesome-selfhosted#email">
+     see awesome-selfhosted#email
     </a>
    </li>
    <li>
@@ -200,9 +202,13 @@
     </a>
    </li>
    <li>
-    <a href="#security">
-     Security
+    Security:
+    <a href="https://github.com/sbilly/awesome-security">
+     see awesome-security
     </a>
+    <sup>
+     &#9733 523, pushed 174 days ago
+    </sup>
    </li>
    <li>
     <a href="#service-discovery">
@@ -215,13 +221,18 @@
     </a>
    </li>
    <li>
-    <a href="#ssh">
-     SSH
+    SSH:
+    <a href="https://github.com/moul/awesome-ssh">
+     see awesome-ssh
     </a>
+    <sup>
+     &#9733 315, pushed 171 days ago
+    </sup>
    </li>
    <li>
-    <a href="#statistics">
-     Statistics
+    Statistics:
+    <a href="https://github.com/Kickball/awesome-selfhosted#analytics">
+     see awesome-selfhosted#analytics
     </a>
    </li>
    <li>
@@ -230,8 +241,9 @@
     </a>
    </li>
    <li>
-    <a href="#ticketing-systems">
-     Ticketing systems
+    Ticketing systems:
+    <a href="https://github.com/Kickball/awesome-selfhosted#ticketing">
+     see awesome-selfhosted#ticketing
     </a>
    </li>
    <li>
@@ -255,8 +267,9 @@
     </a>
    </li>
    <li>
-    <a href="#xmpp">
-     XMPP
+    XMPP:
+    <a href="https://github.com/Kickball/awesome-selfhosted#xmpp">
+     see awesome-selfhosted#xmpp
     </a>
    </li>
    <li>
@@ -265,8 +278,13 @@
     </a>
    </li>
    <li>
-    <a href="#wiki-software">
-     Wiki Software
+    Wiki Software:
+    <a href="https://github.com/Kickball/awesome-selfhosted#wikis">
+     see awesome-selfhosted#wikis
+    </a>
+    , Sysadmin Wikis:
+    <a href="#wikis">
+     see #wikis
     </a>
    </li>
   </ul>
@@ -336,7 +354,7 @@
   - Build automation tool mainly for Java.
  </li>
  <li>
-  <a href="http://bazel.io/">
+  <a href="http://www.bazel.io/">
    Bazel
   </a>
   - Google's build system.
@@ -359,7 +377,7 @@
   </a>
   - Build automation tool similar to Make, written in and extensible in Ruby.
   <sup>
-   &#9733 591, pushed 14 days ago
+   &#9733 591, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -400,7 +418,7 @@
   </a>
   deduplicating backup program written in Python.
   <sup>
-   &#9733 1106, pushed 2 days ago
+   &#9733 1106, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -427,7 +445,7 @@
   </a>
   - Backup solution based on RSnapshot with a simple web interface
   <sup>
-   &#9733 39, pushed 3 days ago
+   &#9733 39, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -436,7 +454,7 @@
   </a>
   - File Monitor which spawns a process to synchronize the changes (rsync by default).
   <sup>
-   &#9733 1532, pushed 61 days ago
+   &#9733 1532, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -458,6 +476,12 @@
   - Filesystem Snapshotting Utility.
  </li>
  <li>
+  <a href="https://github.com/starkandwayne/shield">
+   Shield
+  </a>
+  - A pluggable architecture for backup and restore of database systems.
+ </li>
+ <li>
   <a href="http://www.snebu.com/">
    Snebu
   </a>
@@ -475,7 +499,7 @@
   </a>
   - AWS EBS backup script that supports strategies.
   <sup>
-   &#9733 29, pushed 544 days ago
+   &#9733 29, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -532,7 +556,7 @@
   </a>
   - The simple, fast, expandable Python IRC bot.
   <sup>
-   &#9733 120, pushed 3 days ago
+   &#9733 120, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -559,7 +583,7 @@
   </a>
   - A chatops automation framework in Go.
   <sup>
-   &#9733 55, pushed 81 days ago
+   &#9733 55, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -567,6 +591,12 @@
    Lita
   </a>
   - A robot companion for your company's chat room.
+ </li>
+ <li>
+  <a href="https://github.com/itsabot/abot">
+   Abot
+  </a>
+  - A digital assistant framework in Go.
  </li>
 </ul>
 <h2>
@@ -651,7 +681,7 @@
   </a>
   - Cloud software with Google App Engine compatibility.
   <sup>
-   &#9733 2146, pushed 1 days ago
+   &#9733 2146, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -679,8 +709,8 @@
   - The CC1 system provides a complete solution for Private Cloud Computing.
  </li>
  <li>
-  <a href="https://www.eucalyptus.com/">
-   Eucalyptus
+  <a href="http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html">
+   HPE Helion Eucalyptus
   </a>
   - Private cloud software with AWS compatibility.
  </li>
@@ -738,6 +768,12 @@
   - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
  </li>
  <li>
+  <a href="https://www.cloudfoundry.org/">
+   Cloud Foundry
+  </a>
+  - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
+ </li>
+ <li>
   <a href="http://getcloudify.org/">
    Cloudify
   </a>
@@ -748,6 +784,12 @@
    CloudSlang
   </a>
   - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
+ </li>
+ <li>
+  <a href="https://github.com/starkandwayne/genesis">
+   Genesis
+  </a>
+  - A template framework for multi-environment BOSH deployments.
  </li>
  <li>
   <a href="https://jujucharms.com/">
@@ -776,7 +818,7 @@
   </code>
  </li>
  <li>
-  <a href="https://puppetlabs.com/mcollective">
+  <a href="https://puppet.com/mcollective">
    MCollective
   </a>
   - Ruby framework to manage server orchestration, developed by Puppet labs.
@@ -800,57 +842,20 @@
   - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
  </li>
  <li>
+  <a href="https://github.com/geofffranks/spruce">
+   Spruce
+  </a>
+  - A tool that merges separate YAML files into one.  Works well with
+  <a href="https://github.com/starkandwayne/genesis">
+   Genesis
+  </a>
+  .
+ </li>
+ <li>
   <a href="https://stackstorm.com/">
    StackStorm
   </a>
   - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
- </li>
-</ul>
-<h2>
- Cloud Storage
-</h2>
-<ul>
- <li>
-  <a href="http://git-annex.branchable.com/assistant/">
-   git-annex assistant
-  </a>
-  - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
- </li>
- <li>
-  <a href="https://owncloud.org">
-   ownCloud
-  </a>
-  - Provides universal access to your files via the web, your computer or your mobile devices.
- </li>
- <li>
-  <a href="https://pyd.io">
-   Pydio
-  </a>
-  - Pydio (formerly AjaXplorer) is a mature solution for file sharing and synchronization.
- </li>
- <li>
-  <a href="https://www.seafile.com/en/home/">
-   Seafile
-  </a>
-  - Another Cloud Storage solution.
- </li>
- <li>
-  <a href="http://sparkleshare.org/">
-   SparkleShare
-  </a>
-  - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
- </li>
- <li>
-  <a href="http://docs.openstack.org/developer/swift/">
-   Swift
-  </a>
-  - A highly available, distributed, eventually consistent object/blob store.
- </li>
- <li>
-  <a href="https://syncthing.net/">
-   Syncthing
-  </a>
-  - System for private, encrypted and authenticated distribution of data.
  </li>
 </ul>
 <h2>
@@ -954,7 +959,7 @@
   </a>
   - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
   <sup>
-   &#9733 411, pushed 4 days ago
+   &#9733 411, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -963,7 +968,7 @@
   </a>
   - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
   <sup>
-   &#9733 140, pushed 147 days ago
+   &#9733 140, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -1007,7 +1012,7 @@
   - Infrastructure definition, configuration and management via a Clojure DSL.
  </li>
  <li>
-  <a href="https://puppetlabs.com/">
+  <a href="https://puppet.com/">
    Puppet
   </a>
   - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
@@ -1041,12 +1046,24 @@
   - Python-based toolkit for continuous integration.
  </li>
  <li>
+  <a href="https://github.com/AnalogJ/capsulecd">
+   CapsuleCD
+  </a>
+  - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
+ </li>
+ <li>
+  <a href="http://concourse.ci/">
+   concourse
+  </a>
+  - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
+ </li>
+ <li>
   <a href="https://github.com/drone/drone">
    Drone
   </a>
   - Continuous integration server built on Docker and configured using YAML files.
   <sup>
-   &#9733 6750, pushed 1 days ago
+   &#9733 6750, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1104,6 +1121,12 @@
     </a>
     - Hosting panel for Linux but with Nginx.
    </li>
+   <li>
+    <a href="http://www.virtualmin.com/">
+     Virtualmin
+    </a>
+    - Hosting panel for Linux based on webmin.
+   </li>
   </ul>
  </li>
  <li>
@@ -1121,7 +1144,7 @@
     </a>
     - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     <sup>
-     &#9733 12, pushed 104 days ago
+     &#9733 12, pushed 229 days ago
     </sup>
    </li>
    <li>
@@ -1171,16 +1194,10 @@
     - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
    </li>
    <li>
-    <a href="http://owp.softunity.com.ru/">
+    <a href="https://github.com/sibprogrammer/owp">
      OpenVZ Web Panel
     </a>
-    - Web panel to control your OpenVZ servers.
-   </li>
-   <li>
-    <a href="https://www.virtkick.com/">
-     Virtkick
-    </a>
-    - A simple orchestrator. Manage virtual machines or Docker containers easily.
+    - Web panel to control OpenVZ virtual machines.
    </li>
    <li>
     <a href="https://retspen.github.io">
@@ -1204,12 +1221,6 @@
      Cockpit
     </a>
     - New multi-server web interface for Linux servers written in C.
-   </li>
-   <li>
-    <a href="http://www.virtualmin.com/">
-     Virtualmin
-    </a>
-    - Control panel for Linux based on webmin.
    </li>
    <li>
     <a href="http://www.webmin.com/">
@@ -1259,7 +1270,7 @@
   </a>
   - Deployment automation (rake based).
   <sup>
-   &#9733 330, pushed 33 days ago
+   &#9733 330, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -1460,7 +1471,7 @@
   </a>
   - Git-backed real-time collaborative code editing.
   <sup>
-   &#9733 141, pushed 649 days ago
+   &#9733 141, pushed 773 days ago
   </sup>
  </li>
  <li>
@@ -1531,6 +1542,12 @@
   - Apache Software Foundation project written in Java.
  </li>
  <li>
+  <a href="http://freeradius.org/">
+   FreeRADIUS
+  </a>
+  - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
+ </li>
+ <li>
   <a href="http://opendj.forgerock.org/">
    OpenDJ
   </a>
@@ -1563,13 +1580,37 @@
   <a href="http://www.freeipa.org/">
    FreeIPA
   </a>
-  - Security management solution, can manage LDAP, KRB, DNS, sudo, and more
+  - Security management solution, can manage LDAP, KRB, DNS, sudo, and more.
+ </li>
+ <li>
+  <a href="https://indieauth.com/">
+   Indieauth
+  </a>
+  - Sign in with your domain name (using the rel-me-auth protocol).
+ </li>
+ <li>
+  <a href="https://www.libravatar.org/">
+   Libravatar
+  </a>
+  - Libravatar is a service which delivers your avatar (profile picture) to other websites.
  </li>
  <li>
   <a href="https://www.ldap-account-manager.org/lamcms/">
    LDAP Account Manager (LAM)
   </a>
   - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
+ </li>
+ <li>
+  <a href="http://openid.net/developers/libraries/">
+   OpenID
+  </a>
+  - A Simple Identity layer on top of OAuth 2.0.
+ </li>
+ <li>
+  <a href="http://osiam.github.io/">
+   OSIAM
+  </a>
+  - Secure identity management solution providing REST based services for authentication and authorization.
  </li>
  <li>
   <a href="https://www.samba.org/">
@@ -1652,8 +1693,24 @@
   - Distributed log collection and aggregation system.
  </li>
  <li>
+  <a href="http://goaccess.io/">
+   GoAccess
+  </a>
+  - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. (
+  <a href="https://github.com/allinurl/goaccess">
+   Source Code
+  </a>
+  )
+  <code>
+   MIT
+  </code>
+  <code>
+   C
+  </code>
+ </li>
+ <li>
   <a href="https://www.graylog.org/">
-   Graylog2
+   Graylog
   </a>
   - Pluggable Log and Event Analysis Server with Alerting options.
  </li>
@@ -1693,16 +1750,16 @@
   - Old school email client (and news reader), based on GTK+.
  </li>
  <li>
+  <a href="http://imapsync.lamiral.info/">
+   ImapSync
+  </a>
+  – Simple IMAP migration tool for copying mailboxes to other servers.
+ </li>
+ <li>
   <a href="http://www.mutt.org/">
    Mutt
   </a>
   - Small but very powerful text-based mail client.
- </li>
- <li>
-  <a href="https://www.mozilla.org/de/thunderbird/">
-   Thunderbird
-  </a>
-  - Free email application that's easy to set up and customize.
  </li>
  <li>
   <a href="https://nylas.com/N1">
@@ -1710,13 +1767,19 @@
   </a>
   - Extensible mail client.
  </li>
+ <li>
+  <a href="http://sylpheed.sraoss.jp/en/">
+   Sylpheed
+  </a>
+  – Still developed predecessor to Claws Mail, lightweight mail client.
+ </li>
+ <li>
+  <a href="https://www.mozilla.org/de/thunderbird/">
+   Thunderbird
+  </a>
+  - Free email application that's easy to set up and customize.
+ </li>
 </ul>
-<h2>
- Mail servers/webmail
-</h2>
-<p>
- See https://github.com/kickball/awesome-selfhosted#email
-</p>
 <h2>
  Monitoring
 </h2>
@@ -1746,8 +1809,26 @@
   </a>
   - Distributed, scaleable and flexible monitoring system.
   <sup>
-   &#9733 506, pushed 5 days ago
+   &#9733 506, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://bloonix.org">
+   Bloonix
+  </a>
+  - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance.
+  <code>
+   GPLv3
+  </code>
+  <code>
+   Perl
+  </code>
+ </li>
+ <li>
+  <a href="http://bolo.niftylogic.com/">
+   bolo
+  </a>
+  - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
  </li>
  <li>
   <a href="http://bosun.org/">
@@ -1797,7 +1878,7 @@
    Go
   </code>
   <sup>
-   &#9733 3861, pushed 2 days ago
+   &#9733 3861, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1812,7 +1893,7 @@
   </a>
   - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   <sup>
-   &#9733 6905, pushed 4 days ago
+   &#9733 6905, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1820,6 +1901,12 @@
    Flapjack
   </a>
   - Monitoring notification routing & event processing system.
+ </li>
+ <li>
+  <a href="https://healthchecks.io/">
+   Healthchecks
+  </a>
+  - Monitoring for cron jobs, background services and scheduled tasks.
  </li>
  <li>
   <a href="https://www.icinga.org/">
@@ -1870,7 +1957,7 @@
   </a>
   - Real-time anomalies detection for periodic time series, metrics monitor.
   <sup>
-   &#9733 271, pushed 98 days ago
+   &#9733 271, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -1898,7 +1985,7 @@
   - A linux system information web dashboard using psut
 ils and flask.
   <sup>
-   &#9733 1724, pushed 153 days ago
+   &#9733 1724, pushed 278 days ago
   </sup>
  </li>
  <li>
@@ -1931,7 +2018,7 @@ ils and flask.
   </a>
   - Display and monitor your servers statistics in a beatiful way.
   <sup>
-   &#9733 87, pushed 119 days ago
+   &#9733 87, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -1940,7 +2027,7 @@ ils and flask.
   </a>
   - Server Status website script, displays uptime (days), free RAM, free HDD
   <sup>
-   &#9733 215, pushed 61 days ago
+   &#9733 215, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -2013,6 +2100,12 @@ ils and flask.
     - High precision system performance metrics collecting tool.
    </li>
    <li>
+    <a href="https://github.com/zalando/PGObserver">
+     PGObserver
+    </a>
+    - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
+   </li>
+   <li>
     <a href="https://github.com/etsy/statsd/">
      Statsd
     </a>
@@ -2026,7 +2119,7 @@ ils and flask.
    </li>
   </ul>
   <sup>
-   &#9733 1258, pushed 20 days ago
+   &#9733 1258, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -2070,7 +2163,7 @@ ils and flask.
     </a>
     - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
     <sup>
-     &#9733 3054, pushed 7 days ago
+     &#9733 3054, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -2098,7 +2191,7 @@ ils and flask.
     </a>
     - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
     <sup>
-     &#9733 814, pushed 4 days ago
+     &#9733 814, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -2156,7 +2249,7 @@ ils and flask.
   </a>
   - A modern take on network device configuration monitoring with web interface and GIT storage.
   <sup>
-   &#9733 275, pushed 4 days ago
+   &#9733 275, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2177,7 +2270,7 @@ ils and flask.
   </a>
   - Robust network automation toolkit written in Python.
   <sup>
-   &#9733 308, pushed 5 days ago
+   &#9733 308, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2208,7 +2301,7 @@ ils and flask.
   </a>
   - Libre Mailer is a modest and simple web based email marketing application.
   <sup>
-   &#9733 6, pushed 611 days ago
+   &#9733 6, pushed 736 days ago
   </sup>
  </li>
  <li>
@@ -2217,7 +2310,7 @@ ils and flask.
   </a>
   - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
   <sup>
-   &#9733 273, pushed 22 days ago
+   &#9733 273, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -2305,7 +2398,7 @@ ils and flask.
    </li>
   </ul>
   <sup>
-   &#9733 2814, pushed 216 days ago
+   &#9733 2814, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -2331,7 +2424,7 @@ ils and flask.
    </li>
   </ul>
   <sup>
-   &#9733 5683, pushed 4 days ago
+   &#9733 5683, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -2348,7 +2441,7 @@ ils and flask.
   </a>
   - Versatile multi format package creator.
   <sup>
-   &#9733 6468, pushed 5 days ago
+   &#9733 6468, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2357,7 +2450,7 @@ ils and flask.
   </a>
   - Full stack, cross distro packaging software (Ruby).
   <sup>
-   &#9733 727, pushed 6 days ago
+   &#9733 727, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2372,7 +2465,7 @@ ils and flask.
   </a>
   - Builds RPMs for git-based projects.
   <sup>
-   &#9733 177, pushed 10 days ago
+   &#9733 177, pushed 135 days ago
   </sup>
  </li>
 </ul>
@@ -2520,121 +2613,6 @@ ils and flask.
  </li>
 </ul>
 <h2>
- Security
-</h2>
-<p>
- <em>
-  Security tools.
- </em>
-</p>
-<ul>
- <li>
-  <a href="https://github.com/StackExchange/blackbox">
-   Blackbox
-  </a>
-  - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
-  <sup>
-   &#9733 2529, pushed 8 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.bro.org/">
-   Bro
-  </a>
-  - Bro is a powerful framework for network analysis and security monitoring.
- </li>
- <li>
-  <a href="http://denyhosts.sourceforge.net/">
-   Denyhosts
-  </a>
-  - Thwart SSH dictionary based attacks and brute force attacks.
- </li>
- <li>
-  <a href="http://www.fail2ban.org/wiki/index.php/Main_Page">
-   Fail2Ban
-  </a>
-  - Scans log files and takes action on IPs that show malicious behavior.
- </li>
- <li>
-  <a href="https://github.com/certsocietegenerale/FIR">
-   FIR
-  </a>
-  - Fast Incident Response, a cybersecurity incident management platform.
-  <sup>
-   &#9733 530, pushed 13 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.cipherdyne.org/fwknop/">
-   fwknop
-  </a>
-  - Protects ports via Single Packet Authorization in your firewall.
- </li>
- <li>
-  <a href="http://glastopf.org/">
-   Glastopf
-  </a>
-  - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
- </li>
- <li>
-  <a href="https://github.com/desaster/kippo">
-   Kippo
-  </a>
-  - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
-  <sup>
-   &#9733 628, pushed 195 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://www.rfxn.com/projects/linux-malware-detect/">
-   Linux Malware Detect
-  </a>
-  - A malware scanner for Linux designed around the threats faced in shared hosted environments.
- </li>
- <li>
-  <a href="https://nmap.org">
-   Nmap
-  </a>
-  - Nmap is a free and open source utility for network discovery and security auditing.
- </li>
- <li>
-  <a href="http://www.ossec.net/">
-   OSSEC
-  </a>
-  - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
- </li>
- <li>
-  <a href="https://osquery.io/">
-   OSQuery
-  </a>
-  - Query your servers status and info using a SQL like interface.
- </li>
- <li>
-  <a href="https://www.pfsense.org/">
-   pfSense
-  </a>
-  - Firewall and Router FreeBSD distribution.
- </li>
- <li>
-  <a href="https://www.snort.org/">
-   Snort
-  </a>
-  - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
- </li>
- <li>
-  <a href="https://spamassassin.apache.org/">
-   SpamAssassin
-  </a>
-  - A powerful and popular email spam filter employing a variety of detection technique.
- </li>
- <li>
-  <a href="http://www.sshguard.net/">
-   SSHGuard
-  </a>
-  - A software to protect services in addition to SSH, written in C
- </li>
-</ul>
-<h2>
  Service Discovery
 </h2>
 <ul>
@@ -2650,7 +2628,7 @@ ils and flask.
   </a>
   - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
   <sup>
-   &#9733 2663, pushed 49 days ago
+   &#9733 2663, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -2659,7 +2637,7 @@ ils and flask.
   </a>
   - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
   <sup>
-   &#9733 9440, pushed 2 days ago
+   &#9733 9440, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2698,96 +2676,6 @@ ils and flask.
  </li>
 </ul>
 <h2>
- SSH
-</h2>
-<p>
- <em>
-  SSH tools.
- </em>
-</p>
-<ul>
- <li>
-  <a href="https://pypi.python.org/pypi/advanced-ssh-config/">
-   Advanced SSH config
-  </a>
-  - Enhances ssh_config file capabilities, completely transparent.
- </li>
- <li>
-  <a href="http://www.harding.motd.ca/autossh/">
-   autossh
-  </a>
-  - Automatically respawn ssh session after network interruption.
- </li>
- <li>
-  <a href="http://sourceforge.net/projects/clusterssh/">
-   Cluster SSH
-  </a>
-  - Controls a number of xterm windows via a single graphical console.
- </li>
- <li>
-  <a href="https://www.netfort.gr.jp/~dancer/software/dsh.html.en">
-   DSH
-  </a>
-  - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
- </li>
- <li>
-  <a href="https://mosh.mit.edu/">
-   Mosh
-  </a>
-  - The mobile shell.
- </li>
- <li>
-  <a href="http://code.google.com/p/parallel-ssh/">
-   parallel-ssh
-  </a>
-  - Provides parallel versions of OpenSSH and related tools.
- </li>
- <li>
-  <a href="https://github.com/cloudtools/ssh-cert-authority">
-   ssh-cert-authority
-  </a>
-  - A democratic SSH certificate authority.
-  <sup>
-   &#9733 123, pushed 4 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/cloudtools/ssh-ca/">
-   ssh-ca
-  </a>
-  - Allows giving ssh access to servers without putting a users key on the server, as well as expiring access.
- </li>
- <li>
-  <a href="http://code.google.com/p/sshpt/">
-   SSH Power Tool
-  </a>
-  - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
- </li>
- <li>
-  <a href="https://github.com/Russell91/sshrc">
-   sshrc
-  </a>
-  - sources ~/.sshrc on your local computer after logging in remotely.
-  <sup>
-   &#9733 3240, pushed 2 days ago
-  </sup>
- </li>
- <li>
-  <a href="http://stormssh.readthedocs.org">
-   stormssh
-  </a>
-  - A command line tool to manage SSH connections.
- </li>
-</ul>
-<h2>
- Statistics
-</h2>
-<p>
- <em>
-  Analytics software. See https://github.com/Kickball/awesome-selfhosted#analytics
- </em>
-</p>
-<h2>
  Status Pages
 </h2>
 <ul>
@@ -2817,14 +2705,6 @@ ils and flask.
  </li>
 </ul>
 <h2>
- Ticketing systems
-</h2>
-<p>
- <em>
-  Web-based ticketing system. See https://github.com/Kickball/awesome-selfhosted#ticketing
- </em>
-</p>
-<h2>
  Troubleshooting
 </h2>
 <p>
@@ -2851,7 +2731,7 @@ ils and flask.
   </a>
   - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
   <sup>
-   &#9733 2243, pushed 13 days ago
+   &#9733 2243, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2953,6 +2833,12 @@ ils and flask.
   - Builds open-source infrastructure management software and implements cloud systems.
  </li>
  <li>
+  <a href="https://www.ottoproject.io/">
+   Otto
+  </a>
+  - Development and deployment system designed as the successor to Vagrant.
+ </li>
+ <li>
   <a href="http://www.ovirt.org/">
    oVirt
   </a>
@@ -2994,6 +2880,12 @@ ils and flask.
   </a>
   - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
  </li>
+ <li>
+  <a href="http://xenserver.org/">
+   XenServer
+  </a>
+  - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
+ </li>
 </ul>
 <h2>
  VPN
@@ -3004,6 +2896,12 @@ ils and flask.
  </em>
 </p>
 <ul>
+ <li>
+  <a href="http://www.infradead.org/ocserv/">
+   ocserv
+  </a>
+  - Cisco AnyConnect-compatible VPN server
+ </li>
  <li>
   <a href="https://community.openvpn.net">
    OpenVPN
@@ -3028,7 +2926,7 @@ ils and flask.
   </a>
   - Poor man's VPN.
   <sup>
-   &#9733 6763, pushed 11 days ago
+   &#9733 6763, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -3045,14 +2943,6 @@ ils and flask.
  </li>
 </ul>
 <h2>
- XMPP
-</h2>
-<p>
- <em>
-  See https://github.com/Kickball/awesome-selfhosted#xmpp
- </em>
-</p>
-<h2>
  Web
 </h2>
 <p>
@@ -3068,10 +2958,22 @@ ils and flask.
   - Most popular web server.
  </li>
  <li>
+  <a href="https://caddyserver.com/">
+   Caddy
+  </a>
+  - Lightweight, general-purpose web server supporting HTTP/2, automatic TLS and easy configuration. Written in Go.
+ </li>
+ <li>
   <a href="http://cherokee-project.com/">
    Cherokee
   </a>
   - Lightweight, high-performance web server/reverse proxy.
+ </li>
+ <li>
+  <a href="https://www.hiawatha-webserver.org/">
+   Hiawatha
+  </a>
+  - Prioritises security, simplicity and performance.
  </li>
  <li>
   <a href="http://www.lighttpd.net/">
@@ -3111,12 +3013,6 @@ ils and flask.
   - HTTP based web application accelerator focusing on optimizing caching and compression.
  </li>
 </ul>
-<h2>
- Wiki Software
-</h2>
-<p>
- See https://github.com/Kickball/awesome-selfhosted#wikis
-</p>
 <h1>
  Resources
 </h1>
@@ -3156,6 +3052,12 @@ ils and flask.
 </p>
 <ul>
  <li>
+  <a href="https://www.gitbook.com/book/starkandwayne/codex/details">
+   Codex
+  </a>
+  - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
+ </li>
+ <li>
   <a href="http://linuxcommand.org/tlcl.php">
    The Linux Command Line
   </a>
@@ -3180,10 +3082,7 @@ ils and flask.
   - Is a methodology designed to jumpstart implementation of controls and process improvement.
  </li>
  <li>
-  <a href="http://www.admin.com/">
-   UNIX and Linux System Administration Handbook
-  </a>
-  - Approaches system administration from a practical perspective.
+  UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
  </li>
 </ul>
 <h2>

@@ -55,7 +55,7 @@
   </a>
   - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
   <sup>
-   &#9733 4, pushed 686 days ago
+   &#9733 4, pushed 810 days ago
   </sup>
  </li>
  <li>
@@ -80,7 +80,7 @@
   </a>
   . A hosted version is available, and the code is AGPL.
   <sup>
-   &#9733 12, pushed 7 days ago
+   &#9733 12, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -89,7 +89,7 @@
   </a>
   - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
   <sup>
-   &#9733 206, pushed 336 days ago
+   &#9733 206, pushed 461 days ago
   </sup>
  </li>
  <li>
@@ -108,7 +108,7 @@
   </a>
   - web app where people around the world can place a free missed call to sign a petition
   <sup>
-   &#9733 6, pushed 804 days ago
+   &#9733 6, pushed 929 days ago
   </sup>
  </li>
  <li>
@@ -117,7 +117,7 @@
   </a>
   - roll your own crowdfunding site
   <sup>
-   &#9733 2960, pushed 82 days ago
+   &#9733 2960, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -126,7 +126,7 @@
   </a>
   - opensource or SaaS online donations powered by Stripe.
   <sup>
-   &#9733 5, pushed 119 days ago
+   &#9733 5, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -141,7 +141,7 @@
   </a>
   - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
   <sup>
-   &#9733 5, pushed 124 days ago
+   &#9733 5, pushed 249 days ago
   </sup>
  </li>
 </ul>
@@ -191,6 +191,17 @@
  </li>
 </ul>
 <h2>
+ Operating Systems:
+</h2>
+<ul>
+ <li>
+  <a href="https://tails.boum.org/">
+   Tails
+  </a>
+  - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
+ </li>
+</ul>
+<h2>
  Projects to keep an eye on (ie projects in development)
 </h2>
 <p>
@@ -203,7 +214,7 @@
   </a>
   - a mobile app to help protesters communicate with each other in realtime during marches
   <sup>
-   &#9733 10, pushed 325 days ago
+   &#9733 10, pushed 449 days ago
   </sup>
  </li>
  <li>
@@ -222,7 +233,7 @@
   </a>
   - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
   <sup>
-   &#9733 5, pushed 520 days ago
+   &#9733 5, pushed 644 days ago
   </sup>
  </li>
 </ul>

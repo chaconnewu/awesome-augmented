@@ -7,6 +7,9 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
+ <a href="https://github.com/assertible/deployments">
+  <img alt="Assertible" src="https://assertible.com/tests/f0fd52e1-ba5e-4b5d-be9d-c2e31dadbb2a/status?api_token=138d9afe7ffa6f508e"/>
+ </a>
 </h1>
 <p>
  A curated list of
@@ -230,7 +233,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 14, pushed 279 days ago
+   &#9733 14, pushed 404 days ago
   </sup>
  </li>
 </ul>
@@ -248,7 +251,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 10, pushed 193 days ago
+   &#9733 10, pushed 318 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +274,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 11, pushed 451 days ago
+   &#9733 11, pushed 575 days ago
   </sup>
  </li>
 </ul>
@@ -289,7 +292,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 68, pushed 47 days ago
+   &#9733 68, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -302,7 +305,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 16, pushed 337 days ago
+   &#9733 16, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -315,7 +318,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 103, pushed 9 days ago
+   &#9733 103, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +331,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 95, pushed 203 days ago
+   &#9733 95, pushed 328 days ago
   </sup>
  </li>
  <li>
@@ -341,7 +344,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 6, pushed 244 days ago
+   &#9733 6, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -354,7 +357,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 35, pushed 44 days ago
+   &#9733 35, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -363,7 +366,7 @@ sellers who aren't evil for physical resources.
   </a>
   - Bindings for SQLite. Public domain.
   <sup>
-   &#9733 25, pushed 1820 days ago
+   &#9733 25, pushed 1945 days ago
   </sup>
  </li>
  <li>
@@ -382,7 +385,7 @@ sellers who aren't evil for physical resources.
   </a>
   - General caching facility. No license specified.
   <sup>
-   &#9733 0, pushed 780 days ago
+   &#9733 0, pushed 905 days ago
   </sup>
  </li>
  <li>
@@ -405,7 +408,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 140, pushed 25 days ago
+   &#9733 140, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -418,7 +421,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 33, pushed 41 days ago
+   &#9733 33, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -431,7 +434,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 21, pushed 7 days ago
+   &#9733 21, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -454,7 +457,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 55, pushed 33 days ago
+   &#9733 55, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -475,7 +478,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 120, pushed 4 days ago
+   &#9733 120, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -488,7 +491,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 69, pushed 4 days ago
+   &#9733 69, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -532,7 +535,7 @@ sellers who aren't evil for physical resources.
   </a>
   - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
   <sup>
-   &#9733 21, pushed 35 days ago
+   &#9733 21, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -567,7 +570,7 @@ sellers who aren't evil for physical resources.
    Boost 1.0
   </a>
   <sup>
-   &#9733 34, pushed 8 days ago
+   &#9733 34, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -599,7 +602,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 144, pushed 4 days ago
+   &#9733 144, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -612,7 +615,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 77, pushed 23 days ago
+   &#9733 77, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -635,7 +638,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 143, pushed 4 days ago
+   &#9733 143, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -648,7 +651,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 10, pushed 1167 days ago
+   &#9733 10, pushed 1292 days ago
   </sup>
  </li>
  <li>
@@ -661,7 +664,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 38, pushed 143 days ago
+   &#9733 38, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -674,7 +677,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 21, pushed 545 days ago
+   &#9733 21, pushed 670 days ago
   </sup>
  </li>
  <li>
@@ -687,7 +690,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 55, pushed 41 days ago
+   &#9733 55, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -735,7 +738,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 39, pushed 21 days ago
+   &#9733 39, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -748,7 +751,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 26, pushed 63 days ago
+   &#9733 26, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -761,7 +764,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 55, pushed 42 days ago
+   &#9733 55, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -894,7 +897,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 32, pushed 26 days ago
+   &#9733 32, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -907,7 +910,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 38, pushed 133 days ago
+   &#9733 38, pushed 258 days ago
   </sup>
  </li>
 </ul>
@@ -951,7 +954,7 @@ sellers who aren't evil for physical resources.
   </a>
   - The project guides the learner progressively through many Common Lisp language features.
   <sup>
-   &#9733 1447, pushed 48 days ago
+   &#9733 1447, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -1108,7 +1111,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 72, pushed 73 days ago
+   &#9733 72, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -1131,7 +1134,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 55, pushed 19 days ago
+   &#9733 55, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -1149,7 +1152,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 75, pushed 30 days ago
+   &#9733 75, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1177,7 +1180,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 55, pushed 25 days ago
+   &#9733 55, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1190,7 +1193,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 7, pushed 343 days ago
+   &#9733 7, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -1203,7 +1206,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 357, pushed 47 days ago
+   &#9733 357, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1216,7 +1219,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 30, pushed 91 days ago
+   &#9733 30, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -1229,7 +1232,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 60, pushed 282 days ago
+   &#9733 60, pushed 407 days ago
   </sup>
  </li>
  <li>
@@ -1252,7 +1255,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 34, pushed 237 days ago
+   &#9733 34, pushed 361 days ago
   </sup>
  </li>
  <li>
@@ -1295,7 +1298,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 30, pushed 40 days ago
+   &#9733 30, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1308,7 +1311,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 512, pushed 15 days ago
+   &#9733 512, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1321,7 +1324,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 17, pushed 30 days ago
+   &#9733 17, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1334,7 +1337,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 20, pushed 41 days ago
+   &#9733 20, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1347,7 +1350,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 45, pushed 1514 days ago
+   &#9733 45, pushed 1638 days ago
   </sup>
  </li>
  <li>
@@ -1360,7 +1363,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 41, pushed 5 days ago
+   &#9733 41, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1383,7 +1386,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 10, pushed 343 days ago
+   &#9733 10, pushed 467 days ago
   </sup>
  </li>
  <li>
@@ -1396,7 +1399,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 14, pushed 338 days ago
+   &#9733 14, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -1409,7 +1412,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 28, pushed 566 days ago
+   &#9733 28, pushed 691 days ago
   </sup>
  </li>
  <li>
@@ -1422,7 +1425,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 13, pushed 347 days ago
+   &#9733 13, pushed 471 days ago
   </sup>
  </li>
  <li>
@@ -1435,7 +1438,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 6, pushed 556 days ago
+   &#9733 6, pushed 681 days ago
   </sup>
  </li>
  <li>
@@ -1458,7 +1461,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 17, pushed 103 days ago
+   &#9733 17, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -1471,7 +1474,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 101, pushed 76 days ago
+   &#9733 101, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -1484,7 +1487,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 1, pushed 516 days ago
+   &#9733 1, pushed 640 days ago
   </sup>
  </li>
  <li>
@@ -1497,7 +1500,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 13, pushed 390 days ago
+   &#9733 13, pushed 515 days ago
   </sup>
  </li>
  <li>
@@ -1510,7 +1513,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 3, pushed 178 days ago
+   &#9733 3, pushed 303 days ago
   </sup>
  </li>
  <li>
@@ -1519,7 +1522,7 @@ sellers who aren't evil for physical resources.
   </a>
   - A library for making simple websites quickly. Not available on Quicklisp. No license specified.
   <sup>
-   &#9733 25, pushed 491 days ago
+   &#9733 25, pushed 616 days ago
   </sup>
  </li>
  <li>
@@ -1532,7 +1535,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 30, pushed 25 days ago
+   &#9733 30, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1554,7 +1557,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 116, pushed 237 days ago
+   &#9733 116, pushed 362 days ago
   </sup>
  </li>
 </ul>
@@ -1572,7 +1575,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 45, pushed 328 days ago
+   &#9733 45, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -1605,7 +1608,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 37, pushed 379 days ago
+   &#9733 37, pushed 504 days ago
   </sup>
  </li>
  <li>
@@ -1647,7 +1650,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 85, pushed 330 days ago
+   &#9733 85, pushed 455 days ago
   </sup>
  </li>
  <li>
@@ -1660,7 +1663,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 128, pushed 22 days ago
+   &#9733 128, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1673,7 +1676,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 12, pushed 850 days ago
+   &#9733 12, pushed 975 days ago
   </sup>
  </li>
  <li>
@@ -1686,7 +1689,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 97, pushed 65 days ago
+   &#9733 97, pushed 190 days ago
   </sup>
  </li>
  <li>
@@ -1699,7 +1702,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 30, pushed 170 days ago
+   &#9733 30, pushed 294 days ago
   </sup>
  </li>
 </ul>
@@ -1734,7 +1737,7 @@ sellers who aren't evil for physical resources.
   </a>
   - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
   <sup>
-   &#9733 592, pushed 14 days ago
+   &#9733 592, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -1748,7 +1751,7 @@ sellers who aren't evil for physical resources.
   </a>
   - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
   <sup>
-   &#9733 174, pushed 23 days ago
+   &#9733 174, pushed 147 days ago
   </sup>
  </li>
 </ul>
@@ -1773,7 +1776,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 2, pushed 296 days ago
+   &#9733 2, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -1801,7 +1804,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 66, pushed 11 days ago
+   &#9733 66, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1814,7 +1817,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 15, pushed 1152 days ago
+   &#9733 15, pushed 1277 days ago
   </sup>
  </li>
  <li>
@@ -1827,7 +1830,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 18, pushed 189 days ago
+   &#9733 18, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -1846,7 +1849,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 87, pushed 94 days ago
+   &#9733 87, pushed 218 days ago
   </sup>
  </li>
 </ul>
@@ -1879,7 +1882,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 39, pushed 120 days ago
+   &#9733 39, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -1892,7 +1895,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 9, pushed 79 days ago
+   &#9733 9, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -1921,7 +1924,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 76, pushed 332 days ago
+   &#9733 76, pushed 457 days ago
   </sup>
  </li>
  <li>
@@ -1934,7 +1937,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 39, pushed 343 days ago
+   &#9733 39, pushed 468 days ago
   </sup>
  </li>
  <li>
@@ -1947,7 +1950,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 84, pushed 34 days ago
+   &#9733 84, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1986,7 +1989,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 13, pushed 251 days ago
+   &#9733 13, pushed 375 days ago
   </sup>
  </li>
  <li>
@@ -1999,7 +2002,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 66, pushed 35 days ago
+   &#9733 66, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2012,7 +2015,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 25, pushed 76 days ago
+   &#9733 25, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2025,7 +2028,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 549, pushed 120 days ago
+   &#9733 549, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -2048,7 +2051,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 20, pushed 506 days ago
+   &#9733 20, pushed 630 days ago
   </sup>
  </li>
  <li>
@@ -2061,7 +2064,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 65, pushed 28 days ago
+   &#9733 65, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2074,7 +2077,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 72, pushed 46 days ago
+   &#9733 72, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -2117,7 +2120,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 86, pushed 59 days ago
+   &#9733 86, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -2146,7 +2149,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 57, pushed 407 days ago
+   &#9733 57, pushed 532 days ago
   </sup>
  </li>
  <li>
@@ -2155,7 +2158,7 @@ sellers who aren't evil for physical resources.
   </a>
   - A loosely-coupled collection of audio libraries. No license specified.
   <sup>
-   &#9733 19, pushed 152 days ago
+   &#9733 19, pushed 277 days ago
   </sup>
  </li>
  <li>
@@ -2168,7 +2171,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 8, pushed 180 days ago
+   &#9733 8, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -2201,7 +2204,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 135, pushed 47 days ago
+   &#9733 135, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -2224,7 +2227,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 32, pushed 26 days ago
+   &#9733 32, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -2237,7 +2240,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 20, pushed 278 days ago
+   &#9733 20, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -2250,7 +2253,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 18, pushed 752 days ago
+   &#9733 18, pushed 876 days ago
   </sup>
  </li>
  <li>
@@ -2263,7 +2266,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 2, pushed 157 days ago
+   &#9733 2, pushed 282 days ago
   </sup>
  </li>
  <li>
@@ -2296,7 +2299,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 2, pushed 446 days ago
+   &#9733 2, pushed 571 days ago
   </sup>
  </li>
  <li>
@@ -2325,7 +2328,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 6, pushed 181 days ago
+   &#9733 6, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -2334,7 +2337,7 @@ sellers who aren't evil for physical resources.
   </a>
   - A portable finalizer, weak hash-table and weak pointer API. Public domain.
   <sup>
-   &#9733 18, pushed 500 days ago
+   &#9733 18, pushed 624 days ago
   </sup>
  </li>
  <li>
@@ -2347,7 +2350,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 21, pushed 1507 days ago
+   &#9733 21, pushed 1632 days ago
   </sup>
  </li>
  <li>
@@ -2366,7 +2369,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 3, pushed 89 days ago
+   &#9733 3, pushed 214 days ago
   </sup>
  </li>
 </ul>
@@ -2394,7 +2397,7 @@ sellers who aren't evil for physical resources.
   </a>
   .
   <sup>
-   &#9733 19, pushed 47 days ago
+   &#9733 19, pushed 171 days ago
   </sup>
  </li>
  <li>

@@ -11,6 +11,22 @@
  </a>
  ). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
 </p>
+<p>
+ <strong>
+  Publication
+ </strong>
+</p>
+<p>
+ A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the
+ <code>
+  papers
+ </code>
+ folder. Download the raw paper here:
+ <a href="https://raw.githubusercontent.com/RichardLitt/endangered-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf">
+  Open Source Code Serving Endangered Languages
+ </a>
+ .
+</p>
 <h2>
  Contribute
 </h2>
@@ -424,7 +440,7 @@
   Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
  </li>
  <li>
-  <a href="http://www.Webonary.org">
+  <a href="http://www.webonary.org/">
    Webonary
   </a>
   Site which hosts digital dictionaries for single languages.
@@ -436,7 +452,7 @@
   </a>
   Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
   <sup>
-   &#9733 0, pushed 152 days ago
+   &#9733 0, pushed 276 days ago
   </sup>
  </li>
 </ul>
@@ -475,7 +491,7 @@
   </a>
   This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
   <sup>
-   &#9733 0, pushed 431 days ago
+   &#9733 0, pushed 556 days ago
   </sup>
  </li>
  <li>
@@ -506,7 +522,7 @@
   </a>
   AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/)
   <sup>
-   &#9733 0, pushed 50 days ago
+   &#9733 0, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -532,7 +548,7 @@
   </em>
   )
   <sup>
-   &#9733 0, pushed 1356 days ago
+   &#9733 0, pushed 1481 days ago
   </sup>
  </li>
  <li>
@@ -541,7 +557,7 @@
   </a>
   Index and processing scripts related to the Art Of Reading illustration collection
   <sup>
-   &#9733 0, pushed 250 days ago
+   &#9733 0, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -551,7 +567,7 @@
   </a>
   A Multinomial Bayesian Classification for Language Identification
   <sup>
-   &#9733 2, pushed 420 days ago
+   &#9733 2, pushed 545 days ago
   </sup>
  </li>
  <li>
@@ -560,7 +576,7 @@
   </a>
   A collection of tools for reading/processing the multilingual Bible corpus.
   <sup>
-   &#9733 2, pushed 138 days ago
+   &#9733 2, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -570,7 +586,7 @@
   </a>
   Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
   <sup>
-   &#9733 11, pushed 4 days ago
+   &#9733 11, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -580,7 +596,7 @@
   </a>
   Neural networks in JavaScript
   <sup>
-   &#9733 0, pushed 786 days ago
+   &#9733 0, pushed 910 days ago
   </sup>
  </li>
  <li>
@@ -589,7 +605,7 @@
   </a>
   This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
   <sup>
-   &#9733 1, pushed 177 days ago
+   &#9733 1, pushed 302 days ago
   </sup>
  </li>
  <li>
@@ -599,7 +615,7 @@
   </a>
   C++ implementation of the Brown word clustering algorithm.
   <sup>
-   &#9733 174, pushed 38 days ago
+   &#9733 174, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -615,7 +631,7 @@
   </a>
   Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
   <sup>
-   &#9733 120, pushed 7 days ago
+   &#9733 120, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -631,7 +647,7 @@
   </a>
   Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
   <sup>
-   &#9733 32, pushed 4 days ago
+   &#9733 32, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -647,7 +663,7 @@
   </a>
   Chinese minorities website languages detection and websites collection
   <sup>
-   &#9733 1, pushed 660 days ago
+   &#9733 1, pushed 784 days ago
   </sup>
  </li>
  <li>
@@ -657,7 +673,7 @@
   </a>
   Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
   <sup>
-   &#9733 2, pushed 113 days ago
+   &#9733 2, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -667,7 +683,7 @@
   </a>
   Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
   <sup>
-   &#9733 9, pushed 2 days ago
+   &#9733 9, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -677,7 +693,7 @@
   </a>
   Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. (Original project is on SourceForge: http://champollion.sourceforge.net)
   <sup>
-   &#9733 0, pushed 50 days ago
+   &#9733 0, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -697,7 +713,7 @@
   </em>
   )
   <sup>
-   &#9733 0, pushed 539 days ago
+   &#9733 0, pushed 664 days ago
   </sup>
  </li>
  <li>
@@ -707,7 +723,7 @@
   </a>
   A data repository framework to share and publish research data.
   <sup>
-   &#9733 96, pushed 4 days ago
+   &#9733 96, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -717,7 +733,7 @@
   </a>
   A single-page application that interacts with multiple linguistic fieldwork web service databases.
   <sup>
-   &#9733 3, pushed 13 days ago
+   &#9733 3, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -727,7 +743,7 @@
   </a>
   Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
   <sup>
-   &#9733 0, pushed 723 days ago
+   &#9733 0, pushed 848 days ago
   </sup>
  </li>
  <li>
@@ -737,7 +753,7 @@
   </a>
   Database and tools for exploring linguistic templates
   <sup>
-   &#9733 1, pushed 123 days ago
+   &#9733 1, pushed 247 days ago
   </sup>
  </li>
  <li>
@@ -747,7 +763,7 @@
   </a>
   dictionary database for language translation
   <sup>
-   &#9733 26, pushed 571 days ago
+   &#9733 26, pushed 696 days ago
   </sup>
  </li>
  <li>
@@ -757,7 +773,7 @@
   </a>
   Python-based tool to convert and merge multilayer annotated linguistic data
   <sup>
-   &#9733 11, pushed 3 days ago
+   &#9733 11, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -770,7 +786,7 @@
    More
   </a>
   <sup>
-   &#9733 5, pushed 246 days ago
+   &#9733 5, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -786,7 +802,7 @@
   </a>
   Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   <sup>
-   &#9733 4, pushed 1605 days ago
+   &#9733 4, pushed 1729 days ago
   </sup>
  </li>
  <li>
@@ -802,7 +818,7 @@
   </a>
   ETHNOER Online Presentation and Annotation System
   <sup>
-   &#9733 5, pushed 288 days ago
+   &#9733 5, pushed 412 days ago
   </sup>
  </li>
  <li>
@@ -812,7 +828,7 @@
   </a>
   Simple, fast unsupervised word aligner.
   <sup>
-   &#9733 37, pushed 114 days ago
+   &#9733 37, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -822,7 +838,7 @@
   </a>
   FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
   <sup>
-   &#9733 13, pushed 1 days ago
+   &#9733 13, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -831,7 +847,7 @@
   </a>
   FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
   <sup>
-   &#9733 7, pushed 9 days ago
+   &#9733 7, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -840,7 +856,7 @@
   </a>
   Make inline stroke paths from an outline font
   <sup>
-   &#9733 1, pushed 225 days ago
+   &#9733 1, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -850,7 +866,7 @@
   </a>
   Natural language detection http://wooorm.com/franc/
   <sup>
-   &#9733 1265, pushed 33 days ago
+   &#9733 1265, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -859,7 +875,7 @@
   </a>
   Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
   <sup>
-   &#9733 2, pushed 138 days ago
+   &#9733 2, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -868,7 +884,7 @@
   </a>
   Localizations for FieldWorks
   <sup>
-   &#9733 0, pushed 5 days ago
+   &#9733 0, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -877,7 +893,7 @@
   </a>
   Additional tools for FieldWorks development
   <sup>
-   &#9733 0, pushed 6 days ago
+   &#9733 0, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -890,12 +906,12 @@
    the wiki
   </a>
   . If you're interested in setting up a keyboard in new language, see
-  <a href="https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard">
+  <a href="https://developer.mozilla.org/en-US/docs/Mozilla/B2G_OS/Developing_Gaia/Customizing_the_keyboard">
    this
   </a>
   .
   <sup>
-   &#9733 2041, pushed 4 days ago
+   &#9733 2041, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -904,7 +920,7 @@
   </a>
   GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
   <sup>
-   &#9733 17, pushed 395 days ago
+   &#9733 17, pushed 520 days ago
   </sup>
  </li>
  <li>
@@ -917,7 +933,7 @@
   </a>
   provides comprehensive reference information for the world's languages.
   <sup>
-   &#9733 8, pushed 62 days ago
+   &#9733 8, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -927,7 +943,7 @@
   </a>
   The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
   <sup>
-   &#9733 16, pushed 645 days ago
+   &#9733 16, pushed 770 days ago
   </sup>
  </li>
  <li>
@@ -937,7 +953,7 @@
   </a>
   Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   <sup>
-   &#9733 0, pushed 7 days ago
+   &#9733 0, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -946,7 +962,7 @@
   </a>
   An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
   <sup>
-   &#9733 1, pushed 132 days ago
+   &#9733 1, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -955,7 +971,7 @@
   </a>
   HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
   <sup>
-   &#9733 1, pushed 54 days ago
+   &#9733 1, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -965,7 +981,7 @@
   </a>
   Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
   <sup>
-   &#9733 59, pushed 1 days ago
+   &#9733 59, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -974,7 +990,7 @@
   </a>
   C# wrapper for ICU4C
   <sup>
-   &#9733 9, pushed 370 days ago
+   &#9733 9, pushed 495 days ago
   </sup>
  </li>
  <li>
@@ -983,7 +999,7 @@
   </a>
   Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
   <sup>
-   &#9733 2, pushed 3 days ago
+   &#9733 2, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -993,7 +1009,7 @@
   </a>
   A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.
   <sup>
-   &#9733 10, pushed 256 days ago
+   &#9733 10, pushed 381 days ago
   </sup>
  </li>
  <li>
@@ -1002,7 +1018,7 @@
   </a>
   IPA Helps
   <sup>
-   &#9733 0, pushed 355 days ago
+   &#9733 0, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -1012,7 +1028,7 @@
   </a>
   Geodata from Indigenous Tweets
   <sup>
-   &#9733 0, pushed 105 days ago
+   &#9733 0, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +1038,7 @@
   </a>
   jQuery based input methods library
   <sup>
-   &#9733 99, pushed 8 days ago
+   &#9733 99, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1032,7 +1048,7 @@
   </a>
   Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
   <sup>
-   &#9733 2, pushed 255 days ago
+   &#9733 2, pushed 380 days ago
   </sup>
  </li>
  <li>
@@ -1042,7 +1058,7 @@
   </a>
   L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
   <sup>
-   &#9733 774, pushed 4 days ago
+   &#9733 774, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1072,7 +1088,7 @@
   </a>
   Application files for the Smithsonian endangered languages story map.
   <sup>
-   &#9733 2, pushed 1055 days ago
+   &#9733 2, pushed 1180 days ago
   </sup>
  </li>
  <li>
@@ -1082,7 +1098,7 @@
   </a>
   Material relating to the LEGO Unified Concepticon
   <sup>
-   &#9733 0, pushed 1021 days ago
+   &#9733 0, pushed 1146 days ago
   </sup>
  </li>
  <li>
@@ -1092,7 +1108,7 @@
   </a>
   pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
   <sup>
-   &#9733 6, pushed 679 days ago
+   &#9733 6, pushed 804 days ago
   </sup>
  </li>
  <li>
@@ -1101,7 +1117,7 @@
   </a>
   Send/Receive for languageforge.org
   <sup>
-   &#9733 0, pushed 4 days ago
+   &#9733 0, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1110,7 +1126,7 @@
   </a>
   Palaso Library: A set of .Net libraries useful for developers of Language Software.
   <sup>
-   &#9733 3, pushed 4 days ago
+   &#9733 3, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1126,7 +1142,7 @@
   </a>
   LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
   <sup>
-   &#9733 23, pushed 6 days ago
+   &#9733 23, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1149,7 +1165,7 @@
   </a>
   For work concerning low resource languages.
   <sup>
-   &#9733 1, pushed 1061 days ago
+   &#9733 1, pushed 1186 days ago
   </sup>
  </li>
  <li>
@@ -1159,7 +1175,7 @@
   </a>
   Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
   <sup>
-   &#9733 1, pushed 3 days ago
+   &#9733 1, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1169,7 +1185,7 @@
   </a>
   Scripts for generating hunspell spellchecking extensions
   <sup>
-   &#9733 1, pushed 80 days ago
+   &#9733 1, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1179,7 +1195,7 @@
   </a>
   MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
   <sup>
-   &#9733 377, pushed 6 days ago
+   &#9733 377, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1188,7 +1204,7 @@
   </a>
   Maximum Entropy Modeling Toolkit for Python and C++ http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html
   <sup>
-   &#9733 178, pushed 246 days ago
+   &#9733 178, pushed 370 days ago
   </sup>
  </li>
  <li>
@@ -1197,7 +1213,7 @@
   </a>
   A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
   <sup>
-   &#9733 27, pushed 25 days ago
+   &#9733 27, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1213,7 +1229,7 @@
   </a>
   Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
   <sup>
-   &#9733 36, pushed 175 days ago
+   &#9733 36, pushed 300 days ago
   </sup>
  </li>
  <li>
@@ -1222,7 +1238,7 @@
   </a>
   Moses, the machine translation system
   <sup>
-   &#9733 413, pushed 1 days ago
+   &#9733 413, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1232,7 +1248,7 @@
   </a>
   Creates a pseudo-locale to evaluate string prioritization for l10n
   <sup>
-   &#9733 0, pushed 893 days ago
+   &#9733 0, pushed 1017 days ago
   </sup>
  </li>
  <li>
@@ -1245,7 +1261,7 @@
   </em>
   general natural language facilities for node
   <sup>
-   &#9733 4656, pushed 4 days ago
+   &#9733 4656, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1263,7 +1279,7 @@
   </em>
   Natural Language Tool Kit. NLTK Source http://www.nltk.org/
   <sup>
-   &#9733 3340, pushed 7 days ago
+   &#9733 3340, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1273,18 +1289,15 @@
   </a>
   node.js client for PanLex
   <sup>
-   &#9733 2, pushed 560 days ago
+   &#9733 2, pushed 684 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/fpetran/norma">
+  <a href="https://github.com/comphist/norma">
    norma
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/fpetran/norma.svg"/>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/comphist/norma.svg"/>
   </a>
   A tool for automatic spelling normalization
-  <sup>
-   &#9733 7, pushed 354 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/moses-smt/nplm">
@@ -1292,7 +1305,7 @@
   </a>
   Fork of http://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
   <sup>
-   &#9733 5, pushed 243 days ago
+   &#9733 5, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -1302,7 +1315,7 @@
   </a>
   CouchDB-powered wiki thing
   <sup>
-   &#9733 0, pushed 1096 days ago
+   &#9733 0, pushed 1221 days ago
   </sup>
  </li>
  <li>
@@ -1311,7 +1324,7 @@
   </a>
   Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
   <sup>
-   &#9733 1, pushed 549 days ago
+   &#9733 1, pushed 673 days ago
   </sup>
  </li>
  <li>
@@ -1321,7 +1334,7 @@
   </a>
   Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
   <sup>
-   &#9733 1, pushed 491 days ago
+   &#9733 1, pushed 615 days ago
   </sup>
  </li>
  <li>
@@ -1336,7 +1349,7 @@
   </a>
   Ansible playbook for a (linux) developer machine
   <sup>
-   &#9733 2, pushed 80 days ago
+   &#9733 2, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1346,7 +1359,7 @@
   </a>
   This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org
   <sup>
-   &#9733 3, pushed 8 days ago
+   &#9733 3, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1355,7 +1368,7 @@
   </a>
   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
   <sup>
-   &#9733 0, pushed 850 days ago
+   &#9733 0, pushed 974 days ago
   </sup>
  </li>
  <li>
@@ -1364,7 +1377,7 @@
   </a>
   Preparing language data for publication
   <sup>
-   &#9733 2, pushed 4 days ago
+   &#9733 2, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1374,7 +1387,7 @@
   </a>
   Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
   <sup>
-   &#9733 5, pushed 8 days ago
+   &#9733 5, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1383,7 +1396,7 @@
   </a>
   Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
   <sup>
-   &#9733 0, pushed 22 days ago
+   &#9733 0, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1393,7 +1406,7 @@
   </a>
   Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
   <sup>
-   &#9733 10, pushed 952 days ago
+   &#9733 10, pushed 1077 days ago
   </sup>
  </li>
  <li>
@@ -1401,9 +1414,9 @@
    poio-api
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cidles/poio-api.svg"/>
   </a>
-  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api/
+  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://www.poio.eu/
   <sup>
-   &#9733 10, pushed 298 days ago
+   &#9733 10, pushed 423 days ago
   </sup>
  </li>
  <li>
@@ -1413,7 +1426,7 @@
   </a>
   Documentation of the Poio project.http://www.poio.eu
   <sup>
-   &#9733 1, pushed 837 days ago
+   &#9733 1, pushed 962 days ago
   </sup>
  </li>
  <li>
@@ -1423,7 +1436,7 @@
   </a>
   Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
   <sup>
-   &#9733 7, pushed 671 days ago
+   &#9733 7, pushed 796 days ago
   </sup>
  </li>
  <li>
@@ -1432,7 +1445,7 @@
   </a>
   The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
   <sup>
-   &#9733 0, pushed 187 days ago
+   &#9733 0, pushed 312 days ago
   </sup>
  </li>
  <li>
@@ -1442,7 +1455,7 @@
   </a>
   PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
   <sup>
-   &#9733 12, pushed 1337 days ago
+   &#9733 12, pushed 1462 days ago
   </sup>
  </li>
  <li>
@@ -1452,7 +1465,7 @@
   </a>
   Python libraries for DELPH-IN (Friendly Fork)
   <sup>
-   &#9733 7, pushed 13 days ago
+   &#9733 7, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1462,7 +1475,7 @@
   </a>
   The Rosetta Project's Pangloss system
   <sup>
-   &#9733 0, pushed 418 days ago
+   &#9733 0, pushed 542 days ago
   </sup>
  </li>
  <li>
@@ -1471,7 +1484,7 @@
   </a>
   SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
   <sup>
-   &#9733 2, pushed 34 days ago
+   &#9733 2, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1481,7 +1494,7 @@
   </a>
   A graph-based model to store and manipulate linguistic data.
   <sup>
-   &#9733 5, pushed 1 days ago
+   &#9733 5, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1491,7 +1504,7 @@
   </a>
   Translate Facebook into unsupported languages
   <sup>
-   &#9733 12, pushed 419 days ago
+   &#9733 12, pushed 544 days ago
   </sup>
  </li>
  <li>
@@ -1501,7 +1514,7 @@
   </a>
   Building and Using A Seed Corpus for the Human Language Project
   <sup>
-   &#9733 1, pushed 92 days ago
+   &#9733 1, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -1511,7 +1524,7 @@
   </a>
   Translate Skype into unsupported languages
   <sup>
-   &#9733 2, pushed 153 days ago
+   &#9733 2, pushed 278 days ago
   </sup>
  </li>
  <li>
@@ -1520,7 +1533,7 @@
   </a>
   Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
   <sup>
-   &#9733 0, pushed 385 days ago
+   &#9733 0, pushed 510 days ago
   </sup>
  </li>
  <li>
@@ -1535,7 +1548,7 @@
   </a>
   Standard Format Library
   <sup>
-   &#9733 0, pushed 383 days ago
+   &#9733 0, pushed 508 days ago
   </sup>
  </li>
  <li>
@@ -1545,7 +1558,7 @@
   </a>
   Stanford CoreNLP: A Java suite of core NLP tools. http://stanfordnlp.github.io/CoreNLP/
   <sup>
-   &#9733 1759, pushed 2 days ago
+   &#9733 1759, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1555,7 +1568,7 @@
   </a>
   Python wrapper for Stanford CoreNLP tools
   <sup>
-   &#9733 338, pushed 289 days ago
+   &#9733 338, pushed 413 days ago
   </sup>
  </li>
  <li>
@@ -1565,7 +1578,7 @@
   </a>
   Stanford NLP group's shared Python tools.
   <sup>
-   &#9733 16, pushed 12 days ago
+   &#9733 16, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1575,7 +1588,7 @@
   </a>
   This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
   <sup>
-   &#9733 1, pushed 692 days ago
+   &#9733 1, pushed 817 days ago
   </sup>
  </li>
  <li>
@@ -1585,7 +1598,7 @@
   </a>
   Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
   <sup>
-   &#9733 1, pushed 649 days ago
+   &#9733 1, pushed 774 days ago
   </sup>
  </li>
  <li>
@@ -1595,7 +1608,7 @@
   </a>
   Translate English words into hundreds of languages!
   <sup>
-   &#9733 4, pushed 19 days ago
+   &#9733 4, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1605,7 +1618,7 @@
   </a>
   TexNLP: Texas Natural Language Processing tools
   <sup>
-   &#9733 11, pushed 1571 days ago
+   &#9733 11, pushed 1696 days ago
   </sup>
  </li>
  <li>
@@ -1621,7 +1634,7 @@
   </a>
   Tone Classification Software
   <sup>
-   &#9733 2, pushed 590 days ago
+   &#9733 2, pushed 715 days ago
   </sup>
  </li>
  <li>
@@ -1631,7 +1644,7 @@
   </a>
   Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
   <sup>
-   &#9733 0, pushed 481 days ago
+   &#9733 0, pushed 605 days ago
   </sup>
  </li>
  <li>
@@ -1641,7 +1654,7 @@
   </a>
   A collection of scripts and recipes for linguistics
   <sup>
-   &#9733 9, pushed 247 days ago
+   &#9733 9, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -1651,7 +1664,7 @@
   </a>
   A transliteration engine written in JavaScript
   <sup>
-   &#9733 1, pushed 745 days ago
+   &#9733 1, pushed 869 days ago
   </sup>
  </li>
  <li>
@@ -1664,7 +1677,7 @@
   </a>
   is a multilingual lexical database on plants and animals.
   <sup>
-   &#9733 0, pushed 137 days ago
+   &#9733 0, pushed 262 days ago
   </sup>
  </li>
  <li>
@@ -1674,7 +1687,7 @@
   </a>
   An app to make it easier to use your native language on Twitter
   <sup>
-   &#9733 3, pushed 1123 days ago
+   &#9733 3, pushed 1247 days ago
   </sup>
  </li>
  <li>
@@ -1690,7 +1703,7 @@
   </a>
   Universal Dependencies online documentation http://universaldependencies.org/docs/
   <sup>
-   &#9733 45, pushed 2 days ago
+   &#9733 45, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1700,7 +1713,7 @@
   </a>
   Various utilities for processing the data.
   <sup>
-   &#9733 17, pushed 2 days ago
+   &#9733 17, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1716,7 +1729,7 @@
   </a>
   Navigable waveform built on Web Audio and Canvas http://wavesurfer-js.org/ (Also has an ELAN plugin)
   <sup>
-   &#9733 1708, pushed 3 days ago
+   &#9733 1708, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1725,7 +1738,7 @@
   </a>
   platform for Scripture-related web apps
   <sup>
-   &#9733 6, pushed 45 days ago
+   &#9733 6, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -1741,7 +1754,7 @@
   </a>
   An experiment in the detection and segmentation of word boundaries
   <sup>
-   &#9733 0, pushed 482 days ago
+   &#9733 0, pushed 606 days ago
   </sup>
  </li>
  <li>
@@ -1751,7 +1764,7 @@
   </a>
   WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
   <sup>
-   &#9733 0, pushed 593 days ago
+   &#9733 0, pushed 718 days ago
   </sup>
  </li>
  <li>
@@ -1761,7 +1774,7 @@
   </a>
   Word Sense Induction (WSI) for Under-resourced Languages (URLang)
   <sup>
-   &#9733 0, pushed 434 days ago
+   &#9733 0, pushed 559 days ago
   </sup>
  </li>
  <li>
@@ -1771,7 +1784,7 @@
   </a>
   XDXF dictionary format and "makedict" dictionary converting software (official repository)
   <sup>
-   &#9733 83, pushed 96 days ago
+   &#9733 83, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -1779,6 +1792,25 @@
    XTrans
   </a>
   Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
+ </li>
+</ul>
+<h1>
+ Format Specifications
+</h1>
+<ul>
+ <li>
+  <a href="https://github.com/digitallinguistics/dlx-spec">
+   dlx-spec
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/digitallinguistics/dlx-spec.svg"/>
+  </a>
+  The official specification for the DLx linguistic data format. https://digitallinguistics.github.io/dlx-spec/
+ </li>
+ <li>
+  <a href="https://github.com/proycon/folia/">
+   FoLiA
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/proycon/folio.svg"/>
+  </a>
+  FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/
  </li>
 </ul>
 <h1>
@@ -1792,7 +1824,7 @@
   </a>
   An i18n middleware for the Express.js framework.
   <sup>
-   &#9733 68, pushed 785 days ago
+   &#9733 68, pushed 910 days ago
   </sup>
  </li>
  <li>
@@ -1827,7 +1859,7 @@
   </a>
   Generate prompts PDF for CMU ARCTIC dataset
   <sup>
-   &#9733 0, pushed 24 days ago
+   &#9733 0, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1837,7 +1869,7 @@
   </a>
   a simple nodejs server which accepts upload of audio and runs it through praat
   <sup>
-   &#9733 2, pushed 260 days ago
+   &#9733 2, pushed 385 days ago
   </sup>
  </li>
  <li>
@@ -1847,7 +1879,7 @@
   </a>
   Automatic prosodic annotation tool written in Java.
   <sup>
-   &#9733 15, pushed 455 days ago
+   &#9733 15, pushed 579 days ago
   </sup>
  </li>
  <li>
@@ -1861,7 +1893,7 @@
   </em>
   of a dormant project)
   <sup>
-   &#9733 0, pushed 937 days ago
+   &#9733 0, pushed 1062 days ago
   </sup>
  </li>
  <li>
@@ -1871,7 +1903,7 @@
   </a>
   ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
   <sup>
-   &#9733 52, pushed 1131 days ago
+   &#9733 52, pushed 1256 days ago
   </sup>
  </li>
  <li>
@@ -1881,7 +1913,7 @@
   </a>
   Tutorial of Estonian speech recognition using PocketSphinx
   <sup>
-   &#9733 0, pushed 1359 days ago
+   &#9733 0, pushed 1484 days ago
   </sup>
  </li>
  <li>
@@ -1891,7 +1923,7 @@
   </a>
   HTML5 Audio Read-Along
   <sup>
-   &#9733 93, pushed 1458 days ago
+   &#9733 93, pushed 1583 days ago
   </sup>
  </li>
  <li>
@@ -1901,7 +1933,7 @@
   </a>
   International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
   <sup>
-   &#9733 43, pushed 43 days ago
+   &#9733 43, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -1910,7 +1942,7 @@
   </a>
   An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
   <sup>
-   &#9733 1, pushed 279 days ago
+   &#9733 1, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -1919,7 +1951,7 @@
   </a>
   This is now the official location of the Kaldi project.
   <sup>
-   &#9733 602, pushed 2 days ago
+   &#9733 602, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1933,7 +1965,7 @@
   </em>
   of a student project)
   <sup>
-   &#9733 0, pushed 679 days ago
+   &#9733 0, pushed 804 days ago
   </sup>
  </li>
  <li>
@@ -1941,7 +1973,7 @@
    node-pocketsphinx
   </a>
   <sup>
-   &#9733 86, pushed 63 days ago
+   &#9733 86, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -1951,7 +1983,7 @@
   </a>
   GNU Octave-compatible version of VoiceSauce
   <sup>
-   &#9733 2, pushed 220 days ago
+   &#9733 2, pushed 345 days ago
   </sup>
  </li>
  <li>
@@ -1961,7 +1993,7 @@
   </a>
   PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
   <sup>
-   &#9733 496, pushed 5 days ago
+   &#9733 496, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1970,7 +2002,7 @@
   </a>
   Simple demo for iOS
   <sup>
-   &#9733 24, pushed 340 days ago
+   &#9733 24, pushed 464 days ago
   </sup>
  </li>
  <li>
@@ -1979,7 +2011,7 @@
   </a>
   Python module installed with setup.py
   <sup>
-   &#9733 73, pushed 81 days ago
+   &#9733 73, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1988,7 +2020,7 @@
   </a>
   Ruby speech recognition with Pocketsphinx
   <sup>
-   &#9733 8, pushed 355 days ago
+   &#9733 8, pushed 480 days ago
   </sup>
  </li>
  <li>
@@ -1997,7 +2029,7 @@
   </a>
   Demo to run pocketsphinx on WP8 platform
   <sup>
-   &#9733 14, pushed 60 days ago
+   &#9733 14, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -2007,7 +2039,7 @@
   </a>
   Speech recognition in JavaScript
   <sup>
-   &#9733 607, pushed 29 days ago
+   &#9733 607, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -2021,7 +2053,7 @@
   </em>
   of a dormant project)
   <sup>
-   &#9733 0, pushed 1239 days ago
+   &#9733 0, pushed 1363 days ago
   </sup>
  </li>
  <li>
@@ -2031,7 +2063,7 @@
   </a>
   Mietta's Scripts
   <sup>
-   &#9733 3, pushed 447 days ago
+   &#9733 3, pushed 572 days ago
   </sup>
  </li>
  <li>
@@ -2041,7 +2073,7 @@
   </a>
   A small library which can parse TextGrid into json and json into TextGrid
   <sup>
-   &#9733 1, pushed 112 days ago
+   &#9733 1, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -2051,7 +2083,7 @@
   </a>
   different kinds of HMMs to use for incorporating prosody into basic parsing
   <sup>
-   &#9733 2, pushed 1456 days ago
+   &#9733 2, pushed 1581 days ago
   </sup>
  </li>
  <li>
@@ -2061,7 +2093,7 @@
   </a>
   Python interface for forced audio alignment using HTK and SoX
   <sup>
-   &#9733 61, pushed 71 days ago
+   &#9733 61, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -2070,7 +2102,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg"/>
   </a>
   <sup>
-   &#9733 6, pushed 370 days ago
+   &#9733 6, pushed 495 days ago
   </sup>
  </li>
  <li>
@@ -2080,7 +2112,7 @@
   </a>
   Record MP3 files directly from the browser using JS and HTML
   <sup>
-   &#9733 1, pushed 266 days ago
+   &#9733 1, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -2089,7 +2121,7 @@
   </a>
   Pure Java speech recognition library
   <sup>
-   &#9733 449, pushed 17 days ago
+   &#9733 449, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -2097,7 +2129,7 @@
    sphinxbase
   </a>
   <sup>
-   &#9733 133, pushed 28 days ago
+   &#9733 133, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2105,7 +2137,7 @@
    sphinxtrain
   </a>
   <sup>
-   &#9733 48, pushed 22 days ago
+   &#9733 48, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2114,7 +2146,7 @@
   </a>
   Swift wrapper around Pocketsphinx
   <sup>
-   &#9733 4, pushed 99 days ago
+   &#9733 4, pushed 223 days ago
   </sup>
  </li>
 </ul>
@@ -2129,7 +2161,7 @@
   </a>
   Cross Linguistic Linked Data python library
   <sup>
-   &#9733 10, pushed 102 days ago
+   &#9733 10, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -2139,7 +2171,7 @@
   </a>
   LaTeX web components
   <sup>
-   &#9733 588, pushed 607 days ago
+   &#9733 588, pushed 731 days ago
   </sup>
  </li>
  <li>
@@ -2153,7 +2185,7 @@
   </em>
   of a student project)
   <sup>
-   &#9733 0, pushed 1054 days ago
+   &#9733 0, pushed 1179 days ago
   </sup>
  </li>
  <li>
@@ -2167,7 +2199,7 @@
   </em>
   of a student project)
   <sup>
-   &#9733 0, pushed 677 days ago
+   &#9733 0, pushed 802 days ago
   </sup>
  </li>
 </ul>
@@ -2182,7 +2214,7 @@
   </a>
   A framework for creating linguistic experiments
   <sup>
-   &#9733 26, pushed 149 days ago
+   &#9733 26, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -2196,7 +2228,7 @@
   </em>
   of a dormant project)
   <sup>
-   &#9733 0, pushed 1454 days ago
+   &#9733 0, pushed 1578 days ago
   </sup>
  </li>
  <li>
@@ -2206,7 +2238,7 @@
   </a>
   Graphical experiment builder for the social sciences
   <sup>
-   &#9733 71, pushed 2 days ago
+   &#9733 71, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2216,7 +2248,7 @@
   </a>
   Open Source Experimentation Libraries - Online and Offline for Android and HTML5
   <sup>
-   &#9733 0, pushed 567 days ago
+   &#9733 0, pushed 691 days ago
   </sup>
  </li>
  <li>
@@ -2226,7 +2258,7 @@
   </a>
   Runs MegProsody using PsychoPy.
   <sup>
-   &#9733 0, pushed 1216 days ago
+   &#9733 0, pushed 1341 days ago
   </sup>
  </li>
  <li>
@@ -2236,7 +2268,7 @@
   </a>
   A HTML5/Javascript library for running behavioural experiments online.
   <sup>
-   &#9733 4, pushed 533 days ago
+   &#9733 4, pushed 658 days ago
   </sup>
  </li>
 </ul>
@@ -2251,7 +2283,7 @@
   </a>
   Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
   <sup>
-   &#9733 1512, pushed 3 days ago
+   &#9733 1512, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2260,7 +2292,7 @@
   </a>
   An Anki addon for copying decks of flashcards, with or without also copying their note types.
   <sup>
-   &#9733 1, pushed 88 days ago
+   &#9733 1, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -2269,7 +2301,7 @@
   </a>
   An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]
   <sup>
-   &#9733 2, pushed 88 days ago
+   &#9733 2, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -2278,7 +2310,7 @@
   </a>
   An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
   <sup>
-   &#9733 1, pushed 88 days ago
+   &#9733 1, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -2287,7 +2319,7 @@
   </a>
   Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
   <sup>
-   &#9733 2, pushed 677 days ago
+   &#9733 2, pushed 801 days ago
   </sup>
  </li>
 </ul>
@@ -2302,7 +2334,7 @@
   </a>
   A conversation bot using Markov chains
   <sup>
-   &#9733 0, pushed 1689 days ago
+   &#9733 0, pushed 1814 days ago
   </sup>
  </li>
  <li>
@@ -2312,7 +2344,7 @@
   </a>
   Takes in a text file and generates random sentences that sound like they could have been in the file
   <sup>
-   &#9733 1, pushed 147 days ago
+   &#9733 1, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -2322,7 +2354,7 @@
   </a>
   OpenCCG library for parsing and realization with CCG. Includes mini-grammars for Inuit, Nezperce, Basque and others.
   <sup>
-   &#9733 82, pushed 43 days ago
+   &#9733 82, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -2332,7 +2364,7 @@
   </a>
   SimpleNLG is a simple Java API designed to facilitate the generation of Natural Language. It was originally developed at the University of Aberdeen's Department of Computing Science. English at this moment but there exist forks in French and German.
   <sup>
-   &#9733 158, pushed 23 days ago
+   &#9733 158, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2373,7 +2405,7 @@
   </a>
   Android software for recording and translation
   <sup>
-   &#9733 16, pushed 90 days ago
+   &#9733 16, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -2383,7 +2415,7 @@
   </a>
   Speech recognition training app for low resource languages which interfaces with FieldDB corpora
   <sup>
-   &#9733 0, pushed 246 days ago
+   &#9733 0, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -2393,7 +2425,7 @@
   </a>
   An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
   <sup>
-   &#9733 1, pushed 233 days ago
+   &#9733 1, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -2403,7 +2435,7 @@
   </a>
   A general purpose video recording tool
   <sup>
-   &#9733 3, pushed 911 days ago
+   &#9733 3, pushed 1036 days ago
   </sup>
  </li>
  <li>
@@ -2413,7 +2445,7 @@
   </a>
   Lets heritage speakers create self designed language lessons. https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
   <sup>
-   &#9733 0, pushed 246 days ago
+   &#9733 0, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -2423,7 +2455,7 @@
   </a>
   Android App to run perception experiments
   <sup>
-   &#9733 0, pushed 945 days ago
+   &#9733 0, pushed 1069 days ago
   </sup>
  </li>
  <li>
@@ -2433,7 +2465,7 @@
   </a>
   Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
   <sup>
-   &#9733 0, pushed 911 days ago
+   &#9733 0, pushed 1036 days ago
   </sup>
  </li>
  <li>
@@ -2443,7 +2475,7 @@
   </a>
   A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/
   <sup>
-   &#9733 4, pushed 617 days ago
+   &#9733 4, pushed 741 days ago
   </sup>
  </li>
  <li>
@@ -2451,7 +2483,7 @@
    pocketsphinx-android-demo
   </a>
   <sup>
-   &#9733 115, pushed 5 days ago
+   &#9733 115, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2460,7 +2492,7 @@
   </a>
   pocketsphinx build for Android
   <sup>
-   &#9733 72, pushed 98 days ago
+   &#9733 72, pushed 223 days ago
   </sup>
  </li>
  <li>
@@ -2469,7 +2501,7 @@
   </a>
   This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
   <sup>
-   &#9733 0, pushed 441 days ago
+   &#9733 0, pushed 565 days ago
   </sup>
  </li>
 </ul>
@@ -2484,7 +2516,7 @@
   </a>
   Chrome extension to help learn languages as you browse.
   <sup>
-   &#9733 11, pushed 195 days ago
+   &#9733 11, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -2497,7 +2529,7 @@
    use
   </a>
   <sup>
-   &#9733 3, pushed 428 days ago
+   &#9733 3, pushed 553 days ago
   </sup>
  </li>
 </ul>
@@ -2525,7 +2557,7 @@
    use
   </a>
   <sup>
-   &#9733 55, pushed 63 days ago
+   &#9733 55, pushed 188 days ago
   </sup>
  </li>
 </ul>
@@ -2540,7 +2572,7 @@
   </a>
   Sikuli tests for AndroidLanguageLearningClientForFieldDB
   <sup>
-   &#9733 0, pushed 581 days ago
+   &#9733 0, pushed 705 days ago
   </sup>
  </li>
  <li>
@@ -2548,12 +2580,9 @@
    AuthenticationWebService
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/AuthenticationWebService.svg"/>
   </a>
-  A node.js web service which mananges users and corpora creation and authentication
-  <a href="https://api.lingsync.org/">
-   use
-  </a>
+  A node.js web service which mananges users and corpora creation and authentication.
   <sup>
-   &#9733 0, pushed 153 days ago
+   &#9733 0, pushed 278 days ago
   </sup>
  </li>
  <li>
@@ -2563,7 +2592,7 @@
   </a>
   A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
   <sup>
-   &#9733 0, pushed 273 days ago
+   &#9733 0, pushed 398 days ago
   </sup>
  </li>
  <li>
@@ -2573,7 +2602,7 @@
   </a>
   A bower repository which hosts fielddb core components, bower install fielddb --save
   <sup>
-   &#9733 0, pushed 273 days ago
+   &#9733 0, pushed 398 days ago
   </sup>
  </li>
  <li>
@@ -2586,7 +2615,7 @@
    use
   </a>
   <sup>
-   &#9733 1, pushed 471 days ago
+   &#9733 1, pushed 595 days ago
   </sup>
  </li>
  <li>
@@ -2599,7 +2628,7 @@
    use
   </a>
   <sup>
-   &#9733 0, pushed 429 days ago
+   &#9733 0, pushed 554 days ago
   </sup>
  </li>
  <li>
@@ -2609,7 +2638,7 @@
   </a>
   A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
   <sup>
-   &#9733 0, pushed 286 days ago
+   &#9733 0, pushed 411 days ago
   </sup>
  </li>
  <li>
@@ -2619,7 +2648,7 @@
   </a>
   A lexicon browser/editor web widget for FieldDB databases
   <sup>
-   &#9733 0, pushed 258 days ago
+   &#9733 0, pushed 383 days ago
   </sup>
  </li>
  <li>
@@ -2632,7 +2661,7 @@
    use
   </a>
   <sup>
-   &#9733 0, pushed 143 days ago
+   &#9733 0, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -2645,7 +2674,7 @@
    use
   </a>
   <sup>
-   &#9733 0, pushed 603 days ago
+   &#9733 0, pushed 728 days ago
   </sup>
  </li>
  <li>
@@ -2655,7 +2684,7 @@
   </a>
   A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora
   <sup>
-   &#9733 0, pushed 394 days ago
+   &#9733 0, pushed 519 days ago
   </sup>
  </li>
  <li>
@@ -2665,7 +2694,7 @@
   </a>
   A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project.
   <sup>
-   &#9733 1, pushed 1441 days ago
+   &#9733 1, pushed 1565 days ago
   </sup>
  </li>
 </ul>
@@ -2680,7 +2709,7 @@
   </a>
   Fast Unsupervised Sentence Aligner described in "Improved unsupervised sentence alignment for symmetrical and asymmetrical parallel corpora", COLING 2010.
   <sup>
-   &#9733 0, pushed 146 days ago
+   &#9733 0, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -2694,7 +2723,7 @@
   </em>
   .
   <sup>
-   &#9733 0, pushed 1036 days ago
+   &#9733 0, pushed 1161 days ago
   </sup>
  </li>
  <li>
@@ -2722,7 +2751,7 @@
   </em>
   . In Proceedings of ACL 2013.
   <sup>
-   &#9733 9, pushed 69 days ago
+   &#9733 9, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -2732,7 +2761,7 @@
   </a>
   Linguistic family tree based on orthographic distance
   <sup>
-   &#9733 6, pushed 444 days ago
+   &#9733 6, pushed 568 days ago
   </sup>
  </li>
  <li>
@@ -2749,7 +2778,7 @@
    nlp
   </a>
   <sup>
-   &#9733 1, pushed 69 days ago
+   &#9733 1, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -2759,7 +2788,7 @@
   </a>
   For visualizations of WALS and other typological databases
   <sup>
-   &#9733 0, pushed 1511 days ago
+   &#9733 0, pushed 1635 days ago
   </sup>
  </li>
  <li>
@@ -2769,7 +2798,7 @@
   </a>
   Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
   <sup>
-   &#9733 0, pushed 477 days ago
+   &#9733 0, pushed 601 days ago
   </sup>
  </li>
 </ul>
@@ -2789,7 +2818,7 @@
   </a>
   über-simple node.js-Proxy to enable CORS request for couchdb
   <sup>
-   &#9733 0, pushed 188 days ago
+   &#9733 0, pushed 313 days ago
   </sup>
  </li>
  <li>
@@ -2799,7 +2828,7 @@
   </a>
   Small corpora from diverse language typologies, useful for testing scripts
   <sup>
-   &#9733 3, pushed 246 days ago
+   &#9733 3, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -2808,7 +2837,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/startR.svg"/>
   </a>
   <sup>
-   &#9733 0, pushed 1262 days ago
+   &#9733 0, pushed 1387 days ago
   </sup>
  </li>
  <li>
@@ -2818,7 +2847,7 @@
   </a>
   Demo examples for linguistics in Lucene and Solr
   <sup>
-   &#9733 0, pushed 1098 days ago
+   &#9733 0, pushed 1223 days ago
   </sup>
  </li>
  <li>
@@ -2828,7 +2857,7 @@
   </a>
   Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
   <sup>
-   &#9733 0, pushed 1064 days ago
+   &#9733 0, pushed 1189 days ago
   </sup>
  </li>
 </ul>
@@ -2843,7 +2872,7 @@
   </a>
   ‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
   <sup>
-   &#9733 287, pushed 154 days ago
+   &#9733 287, pushed 278 days ago
   </sup>
  </li>
 </ul>
@@ -2861,7 +2890,7 @@
   </a>
   A multilingual parallel corpus created from translations of the Bible.
   <sup>
-   &#9733 3, pushed 138 days ago
+   &#9733 3, pushed 263 days ago
   </sup>
  </li>
  <li>
@@ -2871,7 +2900,7 @@
   </a>
   The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
   <sup>
-   &#9733 3, pushed 419 days ago
+   &#9733 3, pushed 544 days ago
   </sup>
  </li>
 </ul>
@@ -2921,7 +2950,7 @@
   </a>
   Natural Language Toolkit
   <sup>
-   &#9733 3340, pushed 7 days ago
+   &#9733 3340, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2984,6 +3013,23 @@
  Language Specific Projects
 </h1>
 <h3>
+ Albanian
+</h3>
+<p>
+ <em>
+  sqi :: shqip
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/substack/out-of-copyright-albanian-authors">
+   out-of-copyright-albanian-authors
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg"/>
+  </a>
+  authors scraped from the albanian language wikipedia who are out of copyright
+ </li>
+</ul>
+<h3>
  Amharic
 </h3>
 <p>
@@ -3000,7 +3046,7 @@
   -
 morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
 </ul>
@@ -3020,7 +3066,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
   <sup>
-   &#9733 2, pushed 761 days ago
+   &#9733 2, pushed 886 days ago
   </sup>
  </li>
  <li>
@@ -3030,7 +3076,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Django project to allow for documentation (input and displaty) of linguistic forms in dialects or closely related languages.
   <sup>
-   &#9733 0, pushed 59 days ago
+   &#9733 0, pushed 184 days ago
   </sup>
  </li>
 </ul>
@@ -3056,7 +3102,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more. (Original project is on SourceForge: https://sourceforge.net/projects/bengaliwriter/)
   <sup>
-   &#9733 0, pushed 50 days ago
+   &#9733 0, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -3072,7 +3118,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A collection of tools and resources for using bangla on computers (Original project is on SourceForge: https://sourceforge.net/projects/lekho/)
   <sup>
-   &#9733 0, pushed 50 days ago
+   &#9733 0, pushed 175 days ago
   </sup>
  </li>
 </ul>
@@ -3092,7 +3138,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   NLP resources for Chichewa
   <sup>
-   &#9733 2, pushed 217 days ago
+   &#9733 2, pushed 341 days ago
   </sup>
  </li>
 </ul>
@@ -3111,7 +3157,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Tutorial of Estonian speech recognition using PocketSphinx
   <sup>
-   &#9733 7, pushed 1359 days ago
+   &#9733 7, pushed 1484 days ago
   </sup>
  </li>
  <li>
@@ -3120,7 +3166,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
   <sup>
-   &#9733 56, pushed 396 days ago
+   &#9733 56, pushed 520 days ago
   </sup>
  </li>
  <li>
@@ -3129,7 +3175,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
   <sup>
-   &#9733 34, pushed 2 days ago
+   &#9733 34, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -3148,7 +3194,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A curated list of awesome libraries and packages specific/related to Georgia (country).
   <sup>
-   &#9733 40, pushed 89 days ago
+   &#9733 40, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -3157,7 +3203,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
   <sup>
-   &#9733 0, pushed 698 days ago
+   &#9733 0, pushed 823 days ago
   </sup>
  </li>
  <li>
@@ -3166,7 +3212,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   this Mysql database contains around 200 000 unique Georgian words http://geowords.ga/
   <sup>
-   &#9733 14, pushed 32 days ago
+   &#9733 14, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -3179,7 +3225,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
   <sup>
-   &#9733 2, pushed 618 days ago
+   &#9733 2, pushed 743 days ago
   </sup>
  </li>
  <li>
@@ -3188,7 +3234,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
   <sup>
-   &#9733 1, pushed 745 days ago
+   &#9733 1, pushed 869 days ago
   </sup>
  </li>
  <li>
@@ -3197,7 +3243,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
   <sup>
-   &#9733 1, pushed 870 days ago
+   &#9733 1, pushed 994 days ago
   </sup>
  </li>
  <li>
@@ -3206,7 +3252,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   საქართველოს უზენაესი სასამართლო სარკე
   <sup>
-   &#9733 0, pushed 714 days ago
+   &#9733 0, pushed 839 days ago
   </sup>
  </li>
  <li>
@@ -3215,7 +3261,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   სამართლოს საკონსტიტუციო სასამართდო სარკე
   <sup>
-   &#9733 0, pushed 721 days ago
+   &#9733 0, pushed 846 days ago
   </sup>
  </li>
  <li>
@@ -3224,7 +3270,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
   <sup>
-   &#9733 0, pushed 740 days ago
+   &#9733 0, pushed 865 days ago
   </sup>
  </li>
  <li>
@@ -3233,8 +3279,132 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
   <sup>
-   &#9733 0, pushed 650 days ago
+   &#9733 0, pushed 774 days ago
   </sup>
+ </li>
+</ul>
+<h4>
+ Fonts
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/Stichoza/font-larisome">
+   Stichoza/font-larisome
+  </a>
+  - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+ </li>
+ <li>
+  <a href="https://github.com/Lotuashvili/BPGNateli">
+   Lotuashvili/BPGNateli
+  </a>
+  - Bower package for BPG Nateli font (CSS).
+ </li>
+ <li>
+  <a href="https://github.com/thecotne/georgian-webfonts">
+   thecotne/georgian-webfonts
+  </a>
+  - Package for georgian fonts (CSS).
+ </li>
+</ul>
+<h4>
+ Internationalization and Localization (i18n/l10n)
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/Stichoza/money-num-to-string">
+   Stichoza/money-num-to-string
+  </a>
+  - Convert a number/money to localized string (PHP, JavaScript).
+ </li>
+ <li>
+  <a href="https://github.com/natchkebiailia/NumberToWord">
+   natchkebiailia/NumberToWord
+  </a>
+  - Convert numbers to localized strings (JavaScript).
+ </li>
+ <li>
+  <a href="https://github.com/d0ragon/number-to-words-ka">
+   d0ragon/number-to-words-ka
+  </a>
+  - Convert numbers to localized strings (PHP).
+ </li>
+ <li>
+  <a href="https://github.com/dimakura/ka">
+   dimakura/ka
+  </a>
+  - Common functionality for georgian projects (Ruby).
+ </li>
+ <li>
+  <a href="https://github.com/dimakura/ka.js">
+   dimakura/ka.js
+  </a>
+  - Georgian language support for node and browser (JavaScript).
+ </li>
+ <li>
+  <a href="https://github.com/akalongman/kautilities">
+   akalongman/kautilities
+  </a>
+  - Convert Georgian letters to Latin and vice-versa (PHP).
+ </li>
+ <li>
+  <p>
+   <a href="https://github.com/Landish/Laravel-KA">
+    Landish/Laravel-Ka
+   </a>
+   -
+   <a href="https://laravel.com/">
+    Laravel
+   </a>
+   Georgian Language Pack.
+  </p>
+ </li>
+ <li>
+  <p>
+   <strong>
+    Other localized packages
+   </strong>
+  </p>
+  <ul>
+   <li>
+    <a href="https://github.com/Landish/RedactorJS-GE">
+     Landish/RedactorJS-GE
+    </a>
+    - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+   </li>
+   <li>
+    <a href="https://github.com/wenzhixin/bootstrap-table">
+     wenzhixin/bootstrap-table
+    </a>
+    - Bootstrap table with extra features. l10n by
+    <a href="https://github.com/Lotuashvili">
+     @Lotuashvili
+    </a>
+    and
+    <a href="https://github.com/Stichoza">
+     @Stichoza
+    </a>
+    .
+   </li>
+   <li>
+    <a href="https://github.com/moment/moment">
+     moment/moment
+    </a>
+    - A lightweight date library (JavaScript). l10n by
+    <a href="https://github.com/irakli-janiashvili">
+     @irakli-janiashvili
+    </a>
+    .
+    <sup>
+     &#9733 25823, pushed 126 days ago
+    </sup>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="https://github.com/ioseb/geokbd">
+   ioseb/geokbd
+  </a>
+  - Georgian keyboard library (JavaScript).
  </li>
 </ul>
 <h3>
@@ -3257,7 +3427,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   .
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
 </ul>
@@ -3277,7 +3447,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Repository for Hausa NLP tools
   <sup>
-   &#9733 2, pushed 252 days ago
+   &#9733 2, pushed 377 days ago
   </sup>
  </li>
 </ul>
@@ -3297,7 +3467,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   An open source morphological analyzer for Hindi
   <sup>
-   &#9733 0, pushed 1099 days ago
+   &#9733 0, pushed 1223 days ago
   </sup>
  </li>
 </ul>
@@ -3317,7 +3487,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
   <sup>
-   &#9733 1, pushed 1276 days ago
+   &#9733 1, pushed 1401 days ago
   </sup>
  </li>
 </ul>
@@ -3336,7 +3506,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Scripts for alignment of laboratory speech production data
   <sup>
-   &#9733 2, pushed 1422 days ago
+   &#9733 2, pushed 1547 days ago
   </sup>
  </li>
  <li>
@@ -3345,7 +3515,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
   <sup>
-   &#9733 2, pushed 276 days ago
+   &#9733 2, pushed 400 days ago
   </sup>
  </li>
 </ul>
@@ -3365,7 +3535,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Source for the now-defunct aimsigh.com Irish search engine
   <sup>
-   &#9733 1, pushed 1700 days ago
+   &#9733 1, pushed 1825 days ago
   </sup>
  </li>
  <li>
@@ -3375,18 +3545,15 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Code for standardizing Irish language text
   <sup>
-   &#9733 3, pushed 3 days ago
+   &#9733 3, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/kscanne/fleiscin">
+  <a href="https://github.com/hyphenation/fleiscin">
    fleiscin
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/kscanne/fleiscin.svg"/>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/hyphenation/fleiscin.svg"/>
   </a>
   Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
-  <sup>
-   &#9733 1, pushed 7 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/kscanne/gaelspell">
@@ -3395,7 +3562,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Sources for an Irish language spell checker
   <sup>
-   &#9733 0, pushed 7 days ago
+   &#9733 0, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3411,7 +3578,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   OCR for old Irish fonts
   <sup>
-   &#9733 0, pushed 372 days ago
+   &#9733 0, pushed 497 days ago
   </sup>
  </li>
 </ul>
@@ -3431,7 +3598,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Ango Sakaguchi's essays, with some code
   <sup>
-   &#9733 1, pushed 1504 days ago
+   &#9733 1, pushed 1628 days ago
   </sup>
  </li>
  <li>
@@ -3441,7 +3608,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
   <sup>
-   &#9733 277, pushed 17 days ago
+   &#9733 277, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -3451,7 +3618,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Kuromoji server and demo that shows Japanese morphological analyzer capabilities
   <sup>
-   &#9733 14, pushed 1079 days ago
+   &#9733 14, pushed 1204 days ago
   </sup>
  </li>
 </ul>
@@ -3471,7 +3638,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Kinyarwanda morphological analyzer
   <sup>
-   &#9733 2, pushed 981 days ago
+   &#9733 2, pushed 1105 days ago
   </sup>
  </li>
  <li>
@@ -3497,7 +3664,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   Korean morphological analyzer
   <sup>
-   &#9733 38, pushed 64 days ago
+   &#9733 38, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -3507,7 +3674,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A curated list of awesome Korean open source projects
   <sup>
-   &#9733 48, pushed 74 days ago
+   &#9733 48, pushed 199 days ago
   </sup>
  </li>
 </ul>
@@ -3528,6 +3695,22 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
  </li>
 </ul>
 <h3>
+ Lushootseed
+</h3>
+<p>
+ <em>
+  lut :: Lushootseed
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/LowResourceLanguages/lushootseed">
+   Lushootseed
+  </a>
+  Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
+ </li>
+</ul>
+<h3>
  Malay
 </h3>
 <ul>
@@ -3538,7 +3721,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   morphological analysis of Malay words
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
 </ul>
@@ -3568,10 +3751,11 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
 </p>
 <ul>
  <li>
-  <a href="https://github.com/FieldDB/migmaqLessons">
-   migmaqLessons
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/migmaqLessons.svg"/>
+  <a href="https://github.com/FieldDB/migmaq-lessons">
+   migmaq-lessons
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/FieldDB/migmaq-lessons.svg"/>
   </a>
+  Repository for website building Mi'gmaq language lessons.
  </li>
 </ul>
 <h3>
@@ -3585,7 +3769,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
   <sup>
-   &#9733 0, pushed 607 days ago
+   &#9733 0, pushed 731 days ago
   </sup>
  </li>
 </ul>
@@ -3604,7 +3788,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   An iPhone app with audio and images for learning the Ojibway language.
   <sup>
-   &#9733 0, pushed 276 days ago
+   &#9733 0, pushed 400 days ago
   </sup>
  </li>
  <li>
@@ -3613,7 +3797,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   An iPhone app with audio and images for learning Ojibway language and culture.
   <sup>
-   &#9733 0, pushed 276 days ago
+   &#9733 0, pushed 400 days ago
   </sup>
  </li>
  <li>
@@ -3623,7 +3807,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   </a>
   A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.
   <sup>
-   &#9733 0, pushed 287 days ago
+   &#9733 0, pushed 412 days ago
   </sup>
  </li>
 </ul>
@@ -3644,7 +3828,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
   morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
 </ul>
@@ -3664,7 +3848,7 @@ and tigrinya verbs
   </a>
   - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
   <sup>
-   &#9733 2, pushed 382 days ago
+   &#9733 2, pushed 507 days ago
   </sup>
  </li>
  <li>
@@ -3753,7 +3937,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
   </a>
   Files for building Scottish Gaelic spell checkers
   <sup>
-   &#9733 2, pushed 587 days ago
+   &#9733 2, pushed 712 days ago
   </sup>
  </li>
 </ul>
@@ -3773,7 +3957,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
   </a>
   A project to help people learn Secwepemctsín.
   <sup>
-   &#9733 2, pushed 2014 days ago
+   &#9733 2, pushed 2139 days ago
   </sup>
  </li>
 </ul>
@@ -3797,7 +3981,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
   </a>
   repository.
   <sup>
-   &#9733 1, pushed 1257 days ago
+   &#9733 1, pushed 1381 days ago
   </sup>
  </li>
  <li>

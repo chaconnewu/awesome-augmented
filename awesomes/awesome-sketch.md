@@ -152,6 +152,11 @@
 </h2>
 <ul>
  <li>
+  <a href="https://readymag.com/u91593485/guidetosketch/">
+   A Guide to Sketch
+  </a>
+ </li>
+ <li>
   <a href="http://sketchshortcuts.com/">
    Sketch Shortcuts
   </a>
@@ -296,7 +301,7 @@
    Content Generator
   </a>
   <sup>
-   &#9733 3201, pushed 35 days ago
+   &#9733 3201, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +309,7 @@
    RenameIt
   </a>
   <sup>
-   &#9733 396, pushed 297 days ago
+   &#9733 396, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -312,7 +317,7 @@
    Sketch Measure
   </a>
   <sup>
-   &#9733 3006, pushed 17 days ago
+   &#9733 3006, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -325,7 +330,7 @@
    Dynamic Button
   </a>
   <sup>
-   &#9733 944, pushed 9 days ago
+   &#9733 944, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +338,7 @@
    Page Switch
   </a>
   <sup>
-   &#9733 52, pushed 662 days ago
+   &#9733 52, pushed 787 days ago
   </sup>
  </li>
  <li>
@@ -341,7 +346,7 @@
    Sketch Flex Layout
   </a>
   <sup>
-   &#9733 1492, pushed 46 days ago
+   &#9733 1492, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -365,8 +370,13 @@
    User Flow
   </a>
   <sup>
-   &#9733 171, pushed 98 days ago
+   &#9733 171, pushed 223 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://sketchrunner.com">
+   Sketch Runner
+  </a>
  </li>
 </ul>
 <h5>
@@ -383,7 +393,7 @@
    Sketch Plugin Directory
   </a>
   <sup>
-   &#9733 1915, pushed 4 days ago
+   &#9733 1915, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -428,7 +438,7 @@
   </a>
   as symbols for fast web design.
   <sup>
-   &#9733 17, pushed 214 days ago
+   &#9733 17, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -437,7 +447,7 @@
   </a>
   , a collection of many iOS templates.
   <sup>
-   &#9733 832, pushed 808 days ago
+   &#9733 832, pushed 932 days ago
   </sup>
  </li>
  <li>
@@ -446,7 +456,7 @@
   </a>
   , created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
   <sup>
-   &#9733 1073, pushed 505 days ago
+   &#9733 1073, pushed 630 days ago
   </sup>
  </li>
 </ul>

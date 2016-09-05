@@ -1,4 +1,3 @@
-
 ![Open Source Society University (OSSU)](http://i.imgur.com/GjEbgIJ.png)
 
 <h3 align="center">Open Source Society University</h3>
@@ -8,6 +7,9 @@
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+  </a>
+  <a href="https://github.com/open-source-society/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
 
@@ -22,13 +24,14 @@
 - [How to collaborate](#how-to-collaborate)
 - [Community](#community)
 - [Next Goals](#next-goals)
+- [Team](#team)
 - [References](#references)
 
 ## About
 
 This is a **solid path** for those of you who want to complete a **Computer Science** course on your own time, **for free**, with courses from the **best universities** in the World.
 
-In our curriculum, we gave preference to MOOC (Massive Open Online Course) style courses because those courses were created with our style of learning in mind.
+In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
 ## Becoming an OSS student
 
@@ -46,9 +49,9 @@ In the "My Progress" tab, you are able to edit the status of the courses that yo
 
 Here are two interesting links that can make **all** the difference in your journey.
 
-The first one is a motivational video that shows a guy that went through the "MIT Challenge", that consists in learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
+The first one is a motivational video that shows a guy that went through the "MIT Challenge", which consists of learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
 
-- [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
 The second link is a MOOC that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. These are **fundamental abilities** to succeed in our journey.
 
@@ -96,8 +99,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week
-[From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 12 weeks | 10-20 hours/week
 
 ### Math (Mathematical Thinking)
 
@@ -157,7 +159,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week
+[Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)| 9 weeks | 6 hours/week
 
 ### Software Engineering
 
@@ -187,7 +189,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
+[Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| - | 4–12 hours/week
 
 ### Databases
 
@@ -205,7 +207,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 10 weeks | 7-10 hours/week
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
 
 ### Cryptography
 
@@ -224,13 +226,13 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week
+[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week
 
 ### Parallel Computing
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)| 11 weeks | 8-10 hours/week
+[Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)| 20 weeks | -
 
 ### UX Design
 
@@ -260,13 +262,13 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)| 12 weeks | -
 
 ### Big Data
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| 3 weeks | 5-6 hours/week
+[Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)| 3 weeks | 5-6 hours/week
 
 ### Data Mining
 
@@ -327,6 +329,11 @@ After finish a course, you should think about a **real world problem** that you 
 
 The projects of all students will be listed in [this](https://github.com/open-source-society/help/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
 
+Put the OSSU-CS badge in the README of your repository! [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)
+
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)`
+- HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
+
 **You can create this project alone or with other students!**
 
 #### Project Suggestions
@@ -386,7 +393,7 @@ The **only things** that you need to know are how to use **Git** and **GitHub**.
 
 ## Change Log
 
-**Curriculum Version**: `2.0.1`
+**Curriculum Version**: `5.0.0`
 
 To show **respect** to all of our students, we will keep a [CHANGELOG](CHANGELOG.md) file that contains all the alterations that our curriculum may suffer.
 
@@ -394,7 +401,7 @@ Now we have a **stable** version of the curriculum, which won't change anymore, 
 
 Our students can **trust** in this curriculum because it has been **carefully planned** and covers **all** the **core topics** that a conventional Computer Science course covers.
 
-We also include modern topics, making this course one of the **best options** for those who want to become a Computer Scientist and/or a Software Engineer.
+We also include modern topics, making this course one of the **best options** for those who want to become a Computer Scientist and/or a Software Engineer/Developer.
 
 ## How to collaborate
 
@@ -425,6 +432,12 @@ Add **Open Source Society University** to your [Facebook](https://www.facebook.c
 ## Next Goals
 
 - [Add our University page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
+
+## Team
+
+* **Curriculum Founder**: [Eric Douglas](https://github.com/ericdouglas)
+* **Curriculum Maintainer**: [Eric Douglas](https://github.com/ericdouglas)
+* **Contributors**: [contributors](https://github.com/open-source-society/computer-science/graphs/contributors)
 
 ## References
 

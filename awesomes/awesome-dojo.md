@@ -99,6 +99,12 @@
   - API reference for Dojo Toolkit
  </li>
  <li>
+  <a href="http://dojotoolkit.org/community/roadmap/">
+   Roadma
+  </a>
+  Dojo Roadmap (Dojo2)
+ </li>
+ <li>
   <a href="http://dojotoolkit.org/blog">
    Blog
   </a>
@@ -119,7 +125,7 @@
    http://dojotoolkit.org/reference-guide/
   </a>
   <sup>
-   &#9733 89, pushed 18 days ago
+   &#9733 89, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -127,6 +133,18 @@
    Tutorials
   </a>
   - authorized and updated tutorials for Dojo Toolkit
+ </li>
+ <li>
+  <a href="https://github.com/dojo/meta">
+   Dojo Meta
+  </a>
+  - Dojo 2 contribution and coding guidelines
+ </li>
+ <li>
+  <a href="https://github.com/dojo/dojo-website">
+   Dojo Website
+  </a>
+  - Website for Dojo Toolkit 1.x to 2.x transition
  </li>
 </ul>
 <p>
@@ -150,7 +168,7 @@
   </a>
   - A tutorial using Dojo Toolkit 1.9
   <sup>
-   &#9733 22, pushed 533 days ago
+   &#9733 22, pushed 658 days ago
   </sup>
  </li>
  <li>
@@ -159,7 +177,7 @@
   </a>
   - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
   <sup>
-   &#9733 34, pushed 781 days ago
+   &#9733 34, pushed 906 days ago
   </sup>
  </li>
  <li>
@@ -184,7 +202,7 @@
   </a>
   - Bootstrap theme for Dojo
   <sup>
-   &#9733 145, pushed 559 days ago
+   &#9733 145, pushed 684 days ago
   </sup>
  </li>
  <li>
@@ -193,7 +211,7 @@
   </a>
   - A starting boilerplate for developing with Dojo Toolkit
   <sup>
-   &#9733 389, pushed 215 days ago
+   &#9733 389, pushed 339 days ago
   </sup>
  </li>
  <li>
@@ -202,7 +220,7 @@
   </a>
   - An implementation of the Twitter Bootstrap framework using Dojo
   <sup>
-   &#9733 175, pushed 372 days ago
+   &#9733 175, pushed 497 days ago
   </sup>
  </li>
  <li>
@@ -211,7 +229,7 @@
   </a>
   - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
   <sup>
-   &#9733 15, pushed 492 days ago
+   &#9733 15, pushed 616 days ago
   </sup>
  </li>
  <li>
@@ -220,7 +238,7 @@
   </a>
   - A quickstart "template" for using Dojo Toolkit on NodeJS
   <sup>
-   &#9733 17, pushed 499 days ago
+   &#9733 17, pushed 624 days ago
   </sup>
  </li>
 </ul>
@@ -239,7 +257,7 @@
   </a>
   - AngularJS directives for dojo widgets
   <sup>
-   &#9733 39, pushed 746 days ago
+   &#9733 39, pushed 871 days ago
   </sup>
  </li>
  <li>
@@ -248,7 +266,7 @@
   </a>
   - HTML Custom Element / Widget infrastructure
   <sup>
-   &#9733 76, pushed 15 days ago
+   &#9733 76, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -257,7 +275,7 @@
   </a>
   - Multichannel (desktop/mobile) UI Custom Elements Library
   <sup>
-   &#9733 71, pushed 15 days ago
+   &#9733 71, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -272,7 +290,7 @@
   </a>
   - package with Dojo/Store implementation
   <sup>
-   &#9733 39, pushed 437 days ago
+   &#9733 39, pushed 561 days ago
   </sup>
  </li>
  <li>
@@ -281,7 +299,7 @@
   </a>
   - A yeoman generator for Dojo projects
   <sup>
-   &#9733 41, pushed 620 days ago
+   &#9733 41, pushed 745 days ago
   </sup>
  </li>
  <li>
@@ -307,8 +325,14 @@
   </a>
   - Build Dojo inside a Grunt task
   <sup>
-   &#9733 35, pushed 82 days ago
+   &#9733 35, pushed 207 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dojo/grunt-dojo2">
+   grunt-dojo2
+  </a>
+  - Build Dojo2 inside a Grunt task
  </li>
  <li>
   <a href="https://github.com/garcimouche/karma-dojo">
@@ -320,7 +344,7 @@
   </a>
   plugin. Adapter for Dojo Toolkit.
   <sup>
-   &#9733 1, pushed 889 days ago
+   &#9733 1, pushed 1014 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +353,7 @@
   </a>
   - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
   <sup>
-   &#9733 129, pushed 32 days ago
+   &#9733 129, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -338,8 +362,76 @@
   </a>
   - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
   <sup>
-   &#9733 242, pushed 4 days ago
+   &#9733 242, pushed 129 days ago
   </sup>
+ </li>
+</ul>
+<h4>
+ Dojo 2
+</h4>
+<ul>
+ <li>
+  <a href="https://github.com/dojo/core">
+   Dojo core
+  </a>
+  - Dojo 2 package containing TypeScript and JavaScript core utilities
+ </li>
+ <li>
+  <a href="https://github.com/dojo/dom">
+   DOM Utilities
+  </a>
+  - Dojo2 DOM Utilities
+ </li>
+ <li>
+  <a href="https://github.com/dojo/cli">
+   Dojo Command Line Tooling
+  </a>
+  - Command Line Tooling for Dojo2 Applications
+ </li>
+ <li>
+  loader
+ </li>
+ <li>
+  <a href="https://github.com/dojo/routing">
+   Dojo routing
+  </a>
+  - Dojo2 Routing
+ </li>
+ <li>
+  <a href="https://github.com/dojo/compose">
+   Dojo compose
+  </a>
+  - Dojo2 Composition Library
+ </li>
+ <li>
+  <a href="https://github.com/dojo/widgets">
+   Dojo widgets
+  </a>
+  - A core UI component library for Dojo 2
+ </li>
+ <li>
+  <a href="https://github.com/dojo/has">
+   Dojo has
+  </a>
+  - A feature detection library
+ </li>
+ <li>
+  <a href="https://github.com/dojo/shim">
+   Dojo shim
+  </a>
+  - Modules that provide modular fills of ES6+ functionality
+ </li>
+ <li>
+  <a href="https://github.com/dojo/parser">
+   Dojo parse
+  </a>
+  - A package for declaratively instantiating widgets.
+ </li>
+ <li>
+  <a href="https://github.com/dojo/app">
+   Dojo2 App
+  </a>
+  - An application framework for Dojo 2 (example)
  </li>
 </ul>
 <p>
@@ -369,7 +461,7 @@
   </a>
   - Maven packaging of the Dojo Toolkit
   <sup>
-   &#9733 2, pushed 15 days ago
+   &#9733 2, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +479,7 @@
     </a>
     - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
     <sup>
-     &#9733 3, pushed 1440 days ago
+     &#9733 3, pushed 1565 days ago
     </sup>
    </li>
    <li>
@@ -396,7 +488,7 @@
     </a>
     - Reactive Extensions bindings for the Dojo Toolkit
     <sup>
-     &#9733 6, pushed 617 days ago
+     &#9733 6, pushed 741 days ago
     </sup>
    </li>
   </ul>
@@ -460,7 +552,7 @@
     </a>
     - Server side dojo on NodeJS
     <sup>
-     &#9733 12, pushed 1159 days ago
+     &#9733 12, pushed 1284 days ago
     </sup>
    </li>
    <li>
@@ -471,7 +563,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 7, pushed 393 days ago
+   &#9733 7, pushed 518 days ago
   </sup>
  </li>
  <li>
@@ -495,12 +587,12 @@
     </a>
     - integrating Dojo Toolkit with Zend Framework through DojoModule
     <sup>
-     &#9733 10, pushed 1282 days ago
+     &#9733 10, pushed 1406 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 4, pushed 973 days ago
+   &#9733 4, pushed 1097 days ago
   </sup>
  </li>
 </ul>
@@ -553,7 +645,7 @@
   </a>
   - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
   <sup>
-   &#9733 43, pushed 52 days ago
+   &#9733 43, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -562,7 +654,7 @@
   </a>
   - node.js Dojo API viewer
   <sup>
-   &#9733 10, pushed 406 days ago
+   &#9733 10, pushed 530 days ago
   </sup>
  </li>
  <li>
@@ -571,7 +663,7 @@
   </a>
   - A JavaScript library for launching WebDriver service tunnels
   <sup>
-   &#9733 33, pushed 11 days ago
+   &#9733 33, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -580,7 +672,7 @@
   </a>
   - Dojo demo
   <sup>
-   &#9733 58, pushed 1756 days ago
+   &#9733 58, pushed 1881 days ago
   </sup>
  </li>
  <li>
@@ -589,7 +681,7 @@
   </a>
   - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
   <sup>
-   &#9733 46, pushed 800 days ago
+   &#9733 46, pushed 925 days ago
   </sup>
  </li>
  <li>
@@ -598,7 +690,7 @@
   </a>
   - Dojox Application Framework for mobile, tablets, and desktops
   <sup>
-   &#9733 30, pushed 505 days ago
+   &#9733 30, pushed 630 days ago
   </sup>
  </li>
  <li>
@@ -607,7 +699,7 @@
   </a>
   - Library for parsing dojo JavaScript files and extracting inline documentation
   <sup>
-   &#9733 12, pushed 472 days ago
+   &#9733 12, pushed 596 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +708,7 @@
   </a>
   - Simple reST/wiki system built with Python and Dojo Toolkit
   <sup>
-   &#9733 26, pushed 698 days ago
+   &#9733 26, pushed 822 days ago
   </sup>
  </li>
  <li>
@@ -631,8 +723,14 @@
   </a>
   - Helping you select an MV* framework - todo app examples
   <sup>
-   &#9733 16847, pushed 6 days ago
+   &#9733 16847, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dojo/examples">
+   Dojo2 Example
+  </a>
+  - Dojo 2 Examples
  </li>
 </ul>
 <p>
@@ -650,7 +748,7 @@
   </a>
   - A straight conversion of Dijit's Claro theme from LESS to Stylus.
   <sup>
-   &#9733 31, pushed 349 days ago
+   &#9733 31, pushed 473 days ago
   </sup>
  </li>
  <li>
@@ -691,7 +789,7 @@
   </a>
   - A typescript script which creates typescript compatible declarations from a dojo api.json file.
   <sup>
-   &#9733 9, pushed 1297 days ago
+   &#9733 9, pushed 1421 days ago
   </sup>
  </li>
  <li>
@@ -700,8 +798,14 @@
   </a>
   - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
   <sup>
-   &#9733 15, pushed 64 days ago
+   &#9733 15, pushed 189 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dojo/typings">
+   Dojo Typings
+  </a>
+  - A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)
  </li>
 </ul>
 <p>
@@ -801,7 +905,7 @@
   </a>
   - awesome JavaScript list
   <sup>
-   &#9733 5882, pushed 4 days ago
+   &#9733 5882, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -810,7 +914,7 @@
   </a>
   - awesome JavaScript books
   <sup>
-   &#9733 60, pushed 406 days ago
+   &#9733 60, pushed 530 days ago
   </sup>
  </li>
  <li>
@@ -828,7 +932,7 @@
     </a>
     - awesome list
     <sup>
-     &#9733 537, pushed 118 days ago
+     &#9733 537, pushed 243 days ago
     </sup>
    </li>
    <li>
@@ -843,7 +947,7 @@
     </a>
     - awesome lists
     <sup>
-     &#9733 3765, pushed 2 days ago
+     &#9733 3765, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -852,7 +956,7 @@
     </a>
     - awesome lists
     <sup>
-     &#9733 63, pushed 189 days ago
+     &#9733 63, pushed 314 days ago
     </sup>
    </li>
    <li>
@@ -861,12 +965,12 @@
     </a>
     - awesome lists
     <sup>
-     &#9733 68, pushed 177 days ago
+     &#9733 68, pushed 301 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
 </ul>

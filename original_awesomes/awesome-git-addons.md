@@ -38,12 +38,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Recursive Blame](#recursive-blame)
 - [Git Fire](#git-fire)
 - [Git Town](#git-town)
-- [Git Fu](#git-fu)
 - [Git blame-someone-else](#git-blame-someone-else)
 - [Diff So Fancy](#diff-so-fancy)
 - [Git Stats](#git-stats)
 - [Git Secret](#git-secret)
 - [apply-pr](#apply-pr)
+- [git-fixup](#git-fixup)
+- [git-recent](#git-recent)
+- [git-fiddle](#git-fiddle)
 
 
 ## [git-extras](https://github.com/tj/git-extras)
@@ -1265,11 +1267,6 @@ Leave building!
 TBD
 
 
-## [git-fu](https://github.com/divoxx/git-fu)
-
-TBD
-
-
 ## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
 
 ```
@@ -1348,6 +1345,56 @@ done. all 1 files are revealed.
 ## [apply-pr](https://github.com/petkaantonov/apply-pr)
 
 TBD
+
+
+## [git-fixup](https://github.com/keis/git-fixup)
+
+```
+$ git diff --cached -U0
+diff --git a/README.md b/README.md
+index 0c700d1..7a57cef 100644
+--- a/README.md
++++ b/README.md
+@@ -1330 +1330 @@ $ git secret hide
+-done. all 1 files are hidden.
++done. all 3 files are hidden.
+$ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
+24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F] add screenshot of git-stats <maochenyan@gmail.com>
+6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
+```
+
+
+## [git-recent](https://github.com/paulirish/git-recent)
+
+```
+$ git recent
+```
+
+![git-recent screenshot](https://cloud.githubusercontent.com/assets/39191/17446638/039d4cee-5aff-11e6-9e11-4294f0020513.png)
+
+
+## [git-fiddle](https://github.com/felixSchl/git-fiddle)
+
+```
+$ git fiddle -h
+git-fiddle
+
+Edit commit meta information during an *interactive* rebase.
+
+`git-fiddle(1)' is a lightweight wrapper around `git-rebase(1)' that
+annotates each commit with it's *author* date, the author name, as well
+as the commit message. Changes to any of these will then be applied
+using an 'exec' script during the git-rebase sequence.
+
+Usage:
+  $SCRIPT [--[no-]-fiddle-messages] [args...]
+
+Options:
+  --[no-]fiddle-messages Do not edit commit messages. Useful for quick edits
+                         to author or date. This value can also be set using
+                         `git config fiddle.messages`.
+  [args...]              These arguments are passed verbatim to git-rebase.
+```
 
 
 ## License

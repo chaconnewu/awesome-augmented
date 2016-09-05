@@ -1,8 +1,11 @@
-# Awesome CSS  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/sotayamashita/awesome-css.svg)](https://travis-ci.org/sotayamashita/awesome-css)
+[awesome-link]:  https://github.com/sindresorhus/awesome
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
+[travis-badge]:  https://api.travis-ci.org/sotayamashita/awesome-css.svg
 
 
-
-> A curated list of CSS lists
+# Awesome CSS  [![awesome][awesome-badge]][awesome-link]
+> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
 
 * [Awesome CSS](#awesome-css)
   * [Preprocessors](#preprocessors)
@@ -14,6 +17,8 @@
   * [Style Guide](#style-guide)
   * [Naming conventions & Methodologies](#naming-conventions--methodologies)
   * [CSS in JS](#css-in-js)
+  * [CSS Polyfills](#css-polyfills)
+  * [Miscellaneous](#miscellaneous)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
@@ -26,16 +31,13 @@
 
 *Build CSS faster*
 
-* [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
-* [LESS](http://lesscss.org/) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
-* [Myth](https://github.com/segmentio/myth) - Pure CSS without having to worry about slow browser support.
-* [PCSS](https://github.com/senko/pcss) - Pure Python CSS Preprocessor.
+* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
-* [Sass](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language.
+* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
-* [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
 
-Here is also [CSS preprocessors curated list](https://github.com/showcases/css-preprocessors) by Github.
+_[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
+
 
 ## Frameworks
 
@@ -44,7 +46,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
+* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
@@ -69,7 +71,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
-- [sanitize.css](https://10up.github.io/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
+- [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline
 
 ## CSS Development at Large-Scale Websites
@@ -92,7 +94,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
-* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google.
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) by Google.
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
 
 ## Style Guide
@@ -137,6 +139,18 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [css-loader](https://github.com/webpack/css-loader)
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+
+# CSS Polyfills
+
+* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
+* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
+* [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+
+# Miscellaneous
+
+* [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 
 # References
 
@@ -265,9 +279,8 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 # Contributing
 
-Contributions are very welcome!
+Fork, add your amazing nugget and send a PR.
 
-Please have a look at [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 # License
 

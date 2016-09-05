@@ -29,6 +29,15 @@ permalink: /
   - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
  </li>
  <li>
+  <a href="http://findingada.com/">
+   Ada Lovelace Day
+  </a>
+  <a href="https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112">
+   iTunes
+  </a>
+  - Achievements of women in science, technology, engineering and maths (STEM).
+ </li>
+ <li>
   <a href="https://www.youtube.com/user/AmazonWebServices/about">
    AWS re:Invent 2015
   </a>
@@ -125,6 +134,12 @@ permalink: /
   - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
  </li>
  <li>
+  <a href="http://developeronfire.com/">
+   Developer On Fire
+  </a>
+  - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
+ </li>
+ <li>
   <a href="https://developertea.com">
    Developer Tea
   </a>
@@ -197,6 +212,12 @@ permalink: /
   - The show for proficient Git users.
  </li>
  <li>
+  <a href="https://www.gcppodcast.com/">
+   Google Cloud Platform Podcast
+  </a>
+  - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
+ </li>
+ <li>
   <a href="http://www.dancarlin.com/hardcore-history-series/">
    HardcoreHistory
   </a>
@@ -207,6 +228,12 @@ permalink: /
    Harry Potter and the methods of rationality
   </a>
   - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
+ </li>
+ <li>
+  <a href="https://javascriptair.com/">
+   JavaScript Air
+  </a>
+  - The live broadcast podcast all about JavaScript.
  </li>
  <li>
   <a href="http://podcast.laravel-news.com/">
@@ -231,6 +258,12 @@ permalink: /
    Listen and Learn about AWS
   </a>
   - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
+ </li>
+ <li>
+  <a href="https://makers.crew.co/">
+   Makers
+  </a>
+  - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
  </li>
  <li>
   <a href="http://mindthecloud.com">
@@ -276,10 +309,11 @@ permalink: /
  </li>
  <li>
   <a href="http://podcastinit.com/">
-   Podcast.
-   <strong>
+   Podcast._
+   <em>
     init
-   </strong>
+   </em>
+   _
   </a>
   - A podcast about Python and the people who make it great.
  </li>
@@ -386,6 +420,12 @@ permalink: /
   - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
  </li>
  <li>
+  <a href="http://podcast.sysca.st/">
+   Syscast Podcast
+  </a>
+  - Talking Linux, open source, web development and system administration (DevOps).
+ </li>
+ <li>
   <a href="http://ttlpodcast.com/">
    TTL Podcast
   </a>
@@ -418,6 +458,12 @@ permalink: /
    TechStuff
   </a>
   - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
+ </li>
+ <li>
+  <a href="http://pythontesting.net/test-podcast/">
+   Test and Code Podcast
+  </a>
+  - A podcast about Software Development, Software Testing, and Python.
  </li>
  <li>
   <a href="http://testinginthepub.co.uk/testinginthepub/">
@@ -492,10 +538,22 @@ permalink: /
   - The best articles from around the web, curated and read to you.
  </li>
  <li>
+  <a href="https://pathtoperf.com/">
+   The Path to Performance
+  </a>
+  - A podcast for everyone dedicated to making websites faster.
+ </li>
+ <li>
   <a href="http://5by5.tv/webahead">
    The Web Ahead
   </a>
   - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
+ </li>
+ <li>
+  <a href="http://thewebplatform.libsyn.com/">
+   The Web Platform Podcast
+  </a>
+  - A weekly show that dives deep into all things web from the developers building the platform today.
  </li>
  <li>
   <a href="http://thisdeveloperslife.com/">
@@ -520,6 +578,12 @@ permalink: /
    Three Devs and a Maybe
   </a>
   - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
+ </li>
+ <li>
+  <a href="http://toolsday.io/">
+   Toolsday Podcast
+  </a>
+  - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
  </li>
  <li>
   <a href="https://voicesoftheelephpant.com">
@@ -575,6 +639,12 @@ permalink: /
   - Podcast sobre Linux e Software Livre.
  </li>
  <li>
+  <a href="http://foocast.io/">
+   FooCast
+  </a>
+  - Podcast sucinto que fala sobre desenvolvimento em geral.
+ </li>
+ <li>
   <a href="http://gdgcasts.com">
    GDGCasts
   </a>
@@ -593,6 +663,18 @@ permalink: /
   - Podcast about technology and Open Source/Free software
  </li>
  <li>
+  <a href="http://hipsters.tech">
+   Hipsters ponto Tech
+  </a>
+  - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
+ </li>
+ <li>
+  <a href="https://blog.lambda3.com.br/category/podcast/">
+   Lambda3 Podcast
+  </a>
+  - Podcast da Lambda3
+ </li>
+ <li>
   <a href="http://jovemnerd.com.br/categoria/nerdcast/">
    NerdCast
   </a>
@@ -603,6 +685,12 @@ permalink: /
    OpenCast
   </a>
   - Podcast que aborda tecologias Open Source, de uma maneira geral.
+ </li>
+ <li>
+  <a href="http://www.opendevpodcast.com.br">
+   OpenDevPodcast
+  </a>
+  - Um bate papo descontraído sobre a área de tecnologia da informação
  </li>
  <li>
   <a href="http://phpdojeitocerto.tumblr.com/">
@@ -617,10 +705,22 @@ permalink: /
   - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
  </li>
  <li>
+  <a href="http://www.podebug.com/">
+   PODebug
+  </a>
+  - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
+ </li>
+ <li>
   <a href="http://tecnologicamentearretado.com.br">
    Tecnologicamente Arretado
   </a>
   - Agilidade, arquitetura, linguagens e ativismo.
+ </li>
+ <li>
+  <a href="https://soundcloud.com/zenorocha">
+   Zeno Overflow
+  </a>
+  - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
  </li>
  <li>
   <a href="http://zofe.com.br">
@@ -809,6 +909,12 @@ permalink: /
   </a>
   - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
  </li>
+ <li>
+  <a href="http://www.comptoirsecu.fr">
+   Le comptoir sécu
+  </a>
+  — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
+ </li>
 </ul>
 <h2>
  In German
@@ -819,6 +925,12 @@ permalink: /
    GeekWeek
   </a>
   - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
+ </li>
+ <li>
+  <a href="http://requestforcomments.de/">
+   Request for Comments
+  </a>
+  - Der RFC Podcast
  </li>
  <li>
   <a href="http://workingdraft.de/">
@@ -849,23 +961,51 @@ permalink: /
   - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
  </li>
  <li>
-  <p>
-   <a href="http://just4fun.io/">
-    Just4Fun
-   </a>
-   - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
+  <a href="http://just4fun.io/">
+   Just4Fun
+  </a>
+  - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
 *
-  </p>
-  <h3>
-   Tooling
-  </h3>
  </li>
+</ul>
+<h2>
+ In Turkish
+</h2>
+<ul>
  <li>
-  <p>
-   <a href="http://www.shiftyjelly.com/pocketcasts">
-    Pocket Casts
-   </a>
-  </p>
+  <a href="http://devpod.org">
+   devPod
+  </a>
+  - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by
+  <a href="https://github.com/vigo">
+   Uğur Özyılmazel(Vigo)
+  </a>
+  and
+  <a href="https://github.com/ustun">
+   Üstün Özgür
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ In Finnish
+</h2>
+<ul>
+ <li>
+  <a href="http://frontendfriday.fi/">
+   Frontend Friday
+  </a>
+  – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
+ </li>
+</ul>
+<h3>
+ Tooling
+</h3>
+<ul>
+ <li>
+  <a href="http://www.shiftyjelly.com/pocketcasts">
+   Pocket Casts
+  </a>
  </li>
  <li>
   <a href="https://overcast.fm">
@@ -885,7 +1025,7 @@ permalink: /
   </a>
   - (Android and Open Source)
   <sup>
-   &#9733 39, pushed 27 days ago
+   &#9733 39, pushed 151 days ago
   </sup>
  </li>
  <li>

@@ -18,7 +18,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
-* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A)**Stanford University**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
 
 
 ### Books ###
@@ -32,6 +33,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275)
 
 
 ### Software and Libraries ###
@@ -71,6 +73,15 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 [**Webots**](https://www.cyberbotics.com/overview)
 Webots is a development environment used to model, program and simulate mobile robots.
 
+[**Drake**](http://drake.mit.edu/)
+A planning, control and analysis toolbox for nonlinear dynamical systems.
+
+[**Neurorobotics Platform (NRP)**](http://131.159.60.234/fileadmin/platform/)
+An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+
+[**The Player Project**](http://playerstage.sourceforge.net/)
+Free Software tools for robot and sensor applications 
+
 
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
@@ -78,6 +89,8 @@ Webots is a development environment used to model, program and simulate mobile r
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 * [IEEE Xplore: Robotics & Automation](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+* [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
 
 
 ### Competitions ###
@@ -88,7 +101,8 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [RoboCup](http://www.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
-
+* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
@@ -98,6 +112,9 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+* [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
+* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
+* [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 
 
 ### Misc ###
@@ -119,3 +136,5 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)

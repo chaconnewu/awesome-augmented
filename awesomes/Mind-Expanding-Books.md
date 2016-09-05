@@ -3,6 +3,13 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
+ <img alt="Awesome" src="https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master"/>
+ <a href="http://makeapullrequest.com">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
+ </a>
+ <a href="https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+  <img alt="Join the chat at https://gitter.im/hackerkid/bots" src="https://badges.gitter.im/hackerkid/bots.svg"/>
+ </a>
 </h1>
 <blockquote>
  <p>
@@ -748,16 +755,24 @@
   </a>
   by Rolf Potts
  </li>
-</ul>
-<h3>
- Autobiographies and Biographies
-</h3>
-<ul>
  <li>
-  <a href="https://www.goodreads.com/book/show/22543496-elon-musk">
-   Elon Musk: Inventing the Future
-  </a>
-  by Ashlee Vance
+  <p>
+   <a href="https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull">
+    Jonathan Livingston Seagull
+   </a>
+   by Richard Bach
+  </p>
+  <h3>
+   Autobiographies and Biographies
+  </h3>
+ </li>
+ <li>
+  <p>
+   <a href="https://www.goodreads.com/book/show/22543496-elon-musk">
+    Elon Musk: Inventing the Future
+   </a>
+   by Ashlee Vance
+  </p>
  </li>
  <li>
   <a href="http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth">
@@ -1599,6 +1614,12 @@
    8 Weeks to Optimum Health
   </a>
   by Andrew Weil
+ </li>
+ <li>
+  <a href="http://www.goodreads.com/book/show/7305111-convict-conditioning">
+   Convict Conditioning
+  </a>
+  by Paul Wade
  </li>
 </ul>
 <h3>

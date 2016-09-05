@@ -17,7 +17,7 @@
   </a>
   : Extract coordinates from GeoJSON
   <sup>
-   &#9733 4, pushed 743 days ago
+   &#9733 4, pushed 868 days ago
   </sup>
  </li>
  <li>
@@ -32,8 +32,14 @@
   </a>
   : flatten multi geometries into normal geometries
   <sup>
-   &#9733 11, pushed 85 days ago
+   &#9733 11, pushed 210 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/haoliangyu/geojson-multiply">
+   geojson-multiply
+  </a>
+  :  merge normal geojson features into one multi geometry type feature
  </li>
  <li>
   <a href="https://github.com/maxogden/geojson-js-utils">
@@ -41,7 +47,7 @@
   </a>
   : JavaScript helper functions for manipulating GeoJSON
   <sup>
-   &#9733 259, pushed 4 days ago
+   &#9733 259, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -50,7 +56,7 @@
   </a>
   : Merge multiple GeoJSON files into one FeatureCollection.
   <sup>
-   &#9733 33, pushed 97 days ago
+   &#9733 33, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -59,7 +65,7 @@
   </a>
   : normalize any geojson object into a geojson featurecollection
   <sup>
-   &#9733 8, pushed 84 days ago
+   &#9733 8, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -74,7 +80,7 @@
   </a>
   : generate random geojson points, lines, and polygons
   <sup>
-   &#9733 26, pushed 280 days ago
+   &#9733 26, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -83,7 +89,7 @@
   </a>
   : enforce ring winding order
   <sup>
-   &#9733 8, pushed 671 days ago
+   &#9733 8, pushed 796 days ago
   </sup>
  </li>
  <li>
@@ -92,7 +98,7 @@
   </a>
   : get a plain-english summary of what's in a geojson file
   <sup>
-   &#9733 24, pushed 53 days ago
+   &#9733 24, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -101,7 +107,7 @@
   </a>
   : group geojson points into containing polygons
   <sup>
-   &#9733 25, pushed 799 days ago
+   &#9733 25, pushed 924 days ago
   </sup>
  </li>
  <li>
@@ -110,7 +116,7 @@
   </a>
   : join geojson against json, dbf, and csv files
   <sup>
-   &#9733 25, pushed 337 days ago
+   &#9733 25, pushed 461 days ago
   </sup>
  </li>
  <li>
@@ -119,7 +125,7 @@
   </a>
   : apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
   <sup>
-   &#9733 51, pushed 74 days ago
+   &#9733 51, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -128,7 +134,7 @@
   </a>
   : collection of functions for spatial operations and analysis
   <sup>
-   &#9733 1952, pushed 5 days ago
+   &#9733 1952, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -137,7 +143,7 @@
   </a>
   : run sql queries against geojson with javascript
   <sup>
-   &#9733 9, pushed 34 days ago
+   &#9733 9, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -175,7 +181,7 @@
   </a>
   : electron app enables viewing GeoJSON locally and hack on it with turf; works offline
   <sup>
-   &#9733 16, pushed 6 days ago
+   &#9733 16, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -189,7 +195,7 @@
   </a>
   : find errors in your geojson files
   <sup>
-   &#9733 87, pushed 8 days ago
+   &#9733 87, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -203,7 +209,7 @@
   </a>
   : send geojson features to geojson.io from your command line
   <sup>
-   &#9733 68, pushed 53 days ago
+   &#9733 68, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -212,7 +218,7 @@
   </a>
   : chrome extension for editing github files in geojson.io
   <sup>
-   &#9733 1, pushed 825 days ago
+   &#9733 1, pushed 949 days ago
   </sup>
  </li>
  <li>
@@ -244,7 +250,7 @@
   </a>
   : convert CSV to geojson
   <sup>
-   &#9733 120, pushed 50 days ago
+   &#9733 120, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -253,7 +259,7 @@
   </a>
   : Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
   <sup>
-   &#9733 16, pushed 18 days ago
+   &#9733 16, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -262,7 +268,7 @@
   </a>
   : Slice GeoJSON into vector tiles on the fly in the browser
   <sup>
-   &#9733 381, pushed 57 days ago
+   &#9733 381, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +277,7 @@
   </a>
   : convert geojson to csv and tsv
   <sup>
-   &#9733 0, pushed 670 days ago
+   &#9733 0, pushed 795 days ago
   </sup>
  </li>
  <li>
@@ -280,7 +286,7 @@
   </a>
   : generate a static rtree (using terraformer) from a set of geojson features
   <sup>
-   &#9733 4, pushed 754 days ago
+   &#9733 4, pushed 878 days ago
   </sup>
  </li>
  <li>
@@ -295,7 +301,7 @@
     </a>
     : nice python interface on top of ogr
     <sup>
-     &#9733 253, pushed 15 days ago
+     &#9733 253, pushed 140 days ago
     </sup>
    </li>
   </ul>
@@ -306,7 +312,7 @@
   </a>
   : converts OpenStreetMap data to GeoJSON faster than anything else
   <sup>
-   &#9733 29, pushed 20 days ago
+   &#9733 29, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -315,7 +321,7 @@
   </a>
   : convert shapefile zip archives to streaming GeoJSON
   <sup>
-   &#9733 79, pushed 6 days ago
+   &#9733 79, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -324,7 +330,7 @@
   </a>
   : convert gpx & kml to geojson
   <sup>
-   &#9733 488, pushed 45 days ago
+   &#9733 488, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +339,7 @@
   </a>
   : convert geojson to KML
   <sup>
-   &#9733 48, pushed 96 days ago
+   &#9733 48, pushed 221 days ago
   </sup>
  </li>
  <li>
@@ -342,7 +348,7 @@
   </a>
   : convert GeoJSON to & from TopoJSON, join data from CSV
   <sup>
-   &#9733 2282, pushed 3 days ago
+   &#9733 2282, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -351,7 +357,7 @@
   </a>
   : Extract GeoJSON from Mapbox vector tiles
   <sup>
-   &#9733 24, pushed 97 days ago
+   &#9733 24, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -360,7 +366,7 @@
   </a>
   : convert wkt to geojson
   <sup>
-   &#9733 86, pushed 84 days ago
+   &#9733 86, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +375,7 @@
   </a>
   : convert OpenStreetMap data to GeoJSON
   <sup>
-   &#9733 159, pushed 50 days ago
+   &#9733 159, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -378,7 +384,7 @@
   </a>
   converts proprietary Esri formats to GeoJSON
   <sup>
-   &#9733 188, pushed 134 days ago
+   &#9733 188, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +393,7 @@
   </a>
   : convert GTFS transit data to GeoJSON
   <sup>
-   &#9733 11, pushed 190 days ago
+   &#9733 11, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -396,7 +402,7 @@
   </a>
   : convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
   <sup>
-   &#9733 2, pushed 5 days ago
+   &#9733 2, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -422,7 +428,7 @@
   </a>
   : customizable simplified versions of natural earth data
   <sup>
-   &#9733 313, pushed 245 days ago
+   &#9733 313, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -435,7 +441,7 @@
   </a>
   airports & airplane routes
   <sup>
-   &#9733 11, pushed 234 days ago
+   &#9733 11, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -444,7 +450,7 @@
   </a>
   : geojson & topojson for United States features
   <sup>
-   &#9733 412, pushed 350 days ago
+   &#9733 412, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -459,7 +465,7 @@
   </a>
   : outlines of every airport
   <sup>
-   &#9733 11, pushed 1054 days ago
+   &#9733 11, pushed 1178 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +486,7 @@
   </a>
   : The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
   <sup>
-   &#9733 13, pushed 192 days ago
+   &#9733 13, pushed 316 days ago
   </sup>
  </li>
  <li>
@@ -489,7 +495,7 @@
   </a>
   : export runs & rides from Strava to GeoJSON
   <sup>
-   &#9733 3, pushed 823 days ago
+   &#9733 3, pushed 948 days ago
   </sup>
  </li>
  <li>
@@ -505,7 +511,7 @@
    on the web
   </a>
   <sup>
-   &#9733 13, pushed 201 days ago
+   &#9733 13, pushed 326 days ago
   </sup>
  </li>
 </ul>
@@ -519,7 +525,7 @@
   </a>
   : serialize geojson to/from python datatypes
   <sup>
-   &#9733 199, pushed 9 days ago
+   &#9733 199, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -528,7 +534,7 @@
   </a>
   : serialize geojson to/from ruby RGeo datatypes
   <sup>
-   &#9733 92, pushed 28 days ago
+   &#9733 92, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -537,8 +543,25 @@
   </a>
   : serialize geojson to/from rust datatypes
   <sup>
-   &#9733 28, pushed 15 days ago
+   &#9733 28, pushed 139 days ago
   </sup>
+ </li>
+</ul>
+<h3>
+ resources
+</h3>
+<ul>
+ <li>
+  <a href="http://geojson.org/">
+   GeoJSON.org
+  </a>
+  : the specification, defining all the rules for GeoJSON structures
+ </li>
+ <li>
+  <a href="http://www.macwright.org/2015/03/23/geojson-second-bite.html">
+   More than you ever wanted to know about GeoJSON
+  </a>
+  : a review of the concepts behind the specification in a more narrative format.
  </li>
 </ul>
 <h2>

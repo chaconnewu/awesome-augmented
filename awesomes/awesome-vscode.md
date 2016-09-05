@@ -168,6 +168,12 @@
      Yo
     </a>
    </li>
+   <li>
+    [Git History] (#githistory)
+   </li>
+   <li>
+    [Path IntelliSense] (#path-intellisense)
+   </li>
   </ul>
  </li>
  <li>
@@ -218,7 +224,7 @@
   </a>
   on GitHub
   <sup>
-   &#9733 13794, pushed 2 days ago
+   &#9733 13794, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -300,11 +306,6 @@
   </a>
  </li>
  <li>
-  <a href="https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx">
-   JS is JSX
-  </a>
- </li>
- <li>
   <a href="https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason">
    Mason
   </a>
@@ -360,36 +361,6 @@
   </a>
  </li>
 </ul>
-<h4>
- React JSX
-</h4>
-<p>
- Please note that to make JSX working correctly in .js files, you'll need
- <a href="https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx">
-  JS is JSX
- </a>
- extension mentioned above, and one of the linters with JSX support (
- <em>
-  eslint
- </em>
- recommended) from Lint and IntelliSense section below.
-</p>
-<h3>
- Salsa Preview
-</h3>
-<p>
- Alternatively, instead of JS to JSX + ESLint, for javascript, since the January release, you can use
- <em>
-  <a href="https://github.com/Microsoft/TypeScript/issues/4789">
-   Salsa Preview
-  </a>
- </em>
- .
- <a href="https://github.com/Microsoft/vscode-docs/blob/master/release-notes/latest.md#enabling-salsa">
-  Follow the official documentation
- </a>
- in order to enable it.
-</p>
 <h2>
  Lint and IntelliSense
 </h2>
@@ -412,6 +383,20 @@
  C++
 </h3>
 <ul>
+ <li>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">
+   C/C++
+  </a>
+  - Preview C/C++ extension by
+  <a href="https://microsoft.com">
+   Microsoft
+  </a>
+  , read
+  <a href="https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/">
+   official blog post
+  </a>
+  for the details
+ </li>
  <li>
   <a href="https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global">
    gnu-global-tags
@@ -737,6 +722,23 @@
  <img alt="" src="https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif"/>
 </p>
 <h3>
+ <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">
+  Vim Mode
+ </a>
+</h3>
+<blockquote>
+ <p>
+  Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their
+  <a href="https://vscodevim-slackin.azurewebsites.net/">
+   Slack channel
+  </a>
+  for feature requests on your favorite Vim features
+ </p>
+</blockquote>
+<p>
+ <img alt="" src="https://github.com/VSCodeVim/Vim/raw/master/images/screen.png"/>
+</p>
+<h3>
  <a href="https://marketplace.visualstudio.com/items?itemName=samverschueren.yo">
   Yo
  </a>
@@ -751,6 +753,32 @@
 </blockquote>
 <p>
  <img alt="" src="https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif"/>
+</p>
+<h3>
+ <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">
+  Git History
+ </a>
+</h3>
+<blockquote>
+ <p>
+  View git log, file or line History
+ </p>
+</blockquote>
+<p>
+ <img alt="" src="https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif"/>
+</p>
+<h3>
+ <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">
+  Path Intellisense
+ </a>
+</h3>
+<blockquote>
+ <p>
+  Visual Studio Code plugin that autocompletes filenames
+ </p>
+</blockquote>
+<p>
+ <img alt="" src="https://i.giphy.com/iaHeUiDeTUZuo.gif"/>
 </p>
 <h2>
  Resources for extension developers
@@ -783,7 +811,7 @@
   </code>
   method.
   <sup>
-   &#9733 0, pushed 158 days ago
+   &#9733 0, pushed 283 days ago
   </sup>
  </li>
 </ul>

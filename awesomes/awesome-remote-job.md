@@ -479,6 +479,11 @@
    The Remote Jobseeker’s Handbook
   </a>
  </li>
+ <li>
+  <a href="http://blog.arkency.com/async-remote/">
+   Async Remote
+  </a>
+ </li>
 </ol>
 <h2>
  Job boards
@@ -583,6 +588,12 @@
    remote
   </em>
   "
+ </li>
+ <li>
+  <a href="https://remotebase.io/">
+   RemoteBase
+  </a>
+  - a searchable collection of remote companies and hiring info
  </li>
  <li>
   <a href="https://remotecoder.io/">
@@ -784,7 +795,7 @@
   </a>
   - Everything you need to kick ass on your coding interview
   <sup>
-   &#9733 2985, pushed 70 days ago
+   &#9733 2985, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -992,6 +1003,12 @@
   - Provides continuous integration tools and services.
  </li>
  <li>
+  <a href="https://clevertech.biz/">
+   Clevertech
+  </a>
+  - We build incredible, game changing technology.
+ </li>
+ <li>
   <a href="http://close.io/">
    Close.io
   </a>
@@ -1034,6 +1051,12 @@
   - Consulting based on Apache Cassandra.
  </li>
  <li>
+  <a href="https://www.deeson.co.uk/careers">
+   Deeson
+  </a>
+  - UK-based w/European team. Digital agency specialising in Drupal, Symfony and Laravel
+ </li>
+ <li>
   <a href="https://www.digitalocean.com/company/careers/">
    DigitalOcean
   </a>
@@ -1068,6 +1091,12 @@
    Eyeo
   </a>
   - Maker of AdBlock Plus. Main office in Cologne, Germany.
+ </li>
+ <li>
+  <a href="http://findify.io/careers/">
+   Findify
+  </a>
+  - E-commerce search powered by machine learning and big data. Team distributed across Europe.
  </li>
  <li>
   <a href="http://fire-engine-red.com/about/#careers">
@@ -1135,6 +1164,12 @@
   – Web & Mobile Analytics, 2 of our 8 teammates are remote.
  </li>
  <li>
+  <a href="https://www.helpscout.net/careers">
+   Help Scout
+  </a>
+  - A help desk for teams that insist on a delightful customer experience.
+ </li>
+ <li>
   <a href="http://helabs.com/us/">
    HE:labs
   </a>
@@ -1162,6 +1197,12 @@
    Inpsyde GmbH
   </a>
   - WordPress Agency in Germany
+ </li>
+ <li>
+  <a href="https://www.invisionapp.com/company#jobs">
+   InVision
+  </a>
+  - prototyping, collaboration & workflow platform
  </li>
  <li>
   <a href="https://www.khanacademy.org/careers">
@@ -1302,7 +1343,7 @@
   - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
  </li>
  <li>
-  <a href="https://blog.rebelmouse.com/jobs/">
+  <a href="https://blog.rebelmouse.com/careers/">
    RebelMouse
   </a>
   - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
@@ -1352,11 +1393,6 @@
  <li>
   <a href="http://www.soostone.com/careers">
    Soostone
-  </a>
- </li>
- <li>
-  <a href="https://angel.co/sqwiggle/jobs">
-   Sqwiggle
   </a>
  </li>
  <li>
@@ -1515,7 +1551,7 @@
   </a>
   )
   <sup>
-   &#9733 8, pushed 544 days ago
+   &#9733 8, pushed 668 days ago
   </sup>
  </li>
  <li>
@@ -1561,6 +1597,12 @@
  Communication
 </h4>
 <ul>
+ <li>
+  <a href="http://zoom.us">
+   Zoom
+  </a>
+  high-quality group video and sharing screen, run on linux, record session and support telephone calls.
+ </li>
  <li>
   <a href="https://appear.in/">
    Appear.in
@@ -1638,12 +1680,6 @@
    Slack
   </a>
   chat system with loads of integration options
- </li>
- <li>
-  <a href="https://www.sqwiggle.com/">
-   Sqwiggle
-  </a>
-  Online Collaboration Software for Remote and Virtual Teams
  </li>
  <li>
   <a href="https://talky.io/">

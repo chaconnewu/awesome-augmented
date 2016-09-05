@@ -106,11 +106,6 @@
     </a>
    </li>
    <li>
-    <a href="#references">
-     References
-    </a>
-   </li>
-   <li>
     <a href="#related-formats">
      Related formats
     </a>
@@ -133,6 +128,11 @@
    <li>
     <a href="#transformations">
      Transformations
+    </a>
+   </li>
+   <li>
+    <a href="#tutorials">
+     Tutorials
     </a>
    </li>
    <li>
@@ -230,7 +230,7 @@
   </a>
   - Protocol JSON, super efficient binary serialization format.
   <sup>
-   &#9733 173, pushed 665 days ago
+   &#9733 173, pushed 790 days ago
   </sup>
  </li>
 </ul>
@@ -358,7 +358,7 @@
   </a>
   - Like awk, but for JSON.
   <sup>
-   &#9733 1073, pushed 52 days ago
+   &#9733 1073, pushed 177 days ago
   </sup>
  </li>
 </ul>
@@ -367,7 +367,7 @@
 </h2>
 <ul>
  <li>
-  <a href="https://www.mongodb.org/">
+  <a href="https://www.mongodb.com/">
    MongoDB
   </a>
   - an open-source document database, and the leading NoSQL database.
@@ -390,7 +390,7 @@
   </a>
   - Flat file database built on lodash API. (Javascript)
   <sup>
-   &#9733 3046, pushed 7 days ago
+   &#9733 3046, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -405,7 +405,7 @@
   </a>
   - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
   <sup>
-   &#9733 30, pushed 279 days ago
+   &#9733 30, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -414,7 +414,7 @@
   </a>
   - Get a full fake REST API with zero coding in less than 30 seconds.
   <sup>
-   &#9733 11821, pushed 7 days ago
+   &#9733 11821, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -423,7 +423,7 @@
   </a>
   - A lightweight JSON storage service with synchronisation and sharing abilities.
   <sup>
-   &#9733 2734, pushed 1 days ago
+   &#9733 2734, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -437,7 +437,7 @@
   </a>
   - World countries.
   <sup>
-   &#9733 2417, pushed 7 days ago
+   &#9733 2417, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -486,7 +486,7 @@
   </a>
   - Reads data from standard input, anonymizes, then writes to standard output.
   <sup>
-   &#9733 7, pushed 317 days ago
+   &#9733 7, pushed 441 days ago
   </sup>
  </li>
  <li>
@@ -495,7 +495,7 @@
   </a>
   - Server for dynamic, fake JSON. (node.js)
   <sup>
-   &#9733 523, pushed 16 days ago
+   &#9733 523, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -515,7 +515,7 @@
   </a>
   - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
   <sup>
-   &#9733 375, pushed 63 days ago
+   &#9733 375, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -524,7 +524,7 @@
   </a>
   - JSON Patch and diff based on rfc6902. (Javascript)
   <sup>
-   &#9733 222, pushed 106 days ago
+   &#9733 222, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -533,7 +533,7 @@
   </a>
   - implementation of JSON-patch (IETF RFC 6902) (PHP)
   <sup>
-   &#9733 50, pushed 411 days ago
+   &#9733 50, pushed 536 days ago
   </sup>
  </li>
  <li>
@@ -542,7 +542,7 @@
   </a>
   - A micro library for diffing and patching using a compact diff format. (Javascript)
   <sup>
-   &#9733 150, pushed 451 days ago
+   &#9733 150, pushed 576 days ago
   </sup>
  </li>
  <li>
@@ -551,7 +551,7 @@
   </a>
   - Diff & patch for JavaScript objects. (Javascript)
   <sup>
-   &#9733 1447, pushed 7 days ago
+   &#9733 1447, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -607,7 +607,7 @@
   - a extension that aims to make it easier for humans to write and maintain by hand.
  </li>
  <li>
-  <a href="http://jsonresume.org/">
+  <a href="https://jsonresume.org/">
    JSON Resume
   </a>
   - The open source initiative to create standard for resumes.
@@ -648,7 +648,7 @@
   </a>
   - Simple lightweight format for data dissemination.
   <sup>
-   &#9733 8, pushed 534 days ago
+   &#9733 8, pushed 659 days ago
   </sup>
  </li>
  <li>
@@ -680,7 +680,7 @@
   </a>
   - component for you web apps/pages. (jQuery)
   <sup>
-   &#9733 377, pushed 813 days ago
+   &#9733 377, pushed 938 days ago
   </sup>
  </li>
  <li>
@@ -707,7 +707,7 @@
   </a>
   - Angular directive for collapsible JSON in HTML. (AngularJS)
   <sup>
-   &#9733 217, pushed 5 days ago
+   &#9733 217, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -825,6 +825,16 @@
 </p>
 <p>
  <strong>
+  Perl
+ </strong>
+ *
+ <a href="https://github.com/daoswald/JSON-Tiny">
+  JSON::Tiny
+ </a>
+ - Perl module for encoding and decoding JSON in a minimalistic way.
+</p>
+<p>
+ <strong>
   PL/SQL
  </strong>
  *
@@ -872,6 +882,11 @@
   oj
  </a>
  - A fast JSON parser and Object marshaller as a Ruby gem.
+*
+ <a href="https://github.com/intridea/multi_json">
+  MultiJSON
+ </a>
+ - A generic swappable back-end for JSON handling.
 </p>
 <p>
  <strong>
@@ -897,6 +912,11 @@
   circle
  </a>
  - Yet another JSON library for Scala.
+*
+ <a href="https://github.com/zalando/scala-jsonapi">
+  scala-jsonapi
+ </a>
+ - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 </p>
 <p>
  <strong>
@@ -918,7 +938,7 @@
   </a>
   - Parser and validator with a CLI. (Javascript)
   <sup>
-   &#9733 853, pushed 128 days ago
+   &#9733 853, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -927,7 +947,7 @@
   </a>
   - PHP linter. (PHP)
   <sup>
-   &#9733 190, pushed 12 days ago
+   &#9733 190, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1089,7 +1109,7 @@
   </a>
   - A REST API allowing to get JSONP from any API.
   <sup>
-   &#9733 8, pushed 119 days ago
+   &#9733 8, pushed 244 days ago
   </sup>
  </li>
 </ul>
@@ -1109,7 +1129,7 @@
   </a>
   - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
   <sup>
-   &#9733 80, pushed 398 days ago
+   &#9733 80, pushed 522 days ago
   </sup>
  </li>
  <li>
@@ -1118,7 +1138,7 @@
   </a>
   (uson) - a shorthand for JSON.
   <sup>
-   &#9733 50, pushed 104 days ago
+   &#9733 50, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1135,7 +1155,7 @@
  </li>
 </ul>
 <h2>
- References
+ Tutorials
 </h2>
 <ul>
  <li>
@@ -1184,7 +1204,7 @@
   </a>
   - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
   <sup>
-   &#9733 910, pushed 110 days ago
+   &#9733 910, pushed 235 days ago
   </sup>
  </li>
  <li>
@@ -1193,7 +1213,7 @@
   </a>
   - Markdown syntax compatible with describing JSON and JSON Schema.
   <sup>
-   &#9733 382, pushed 14 days ago
+   &#9733 382, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1219,7 +1239,7 @@
   </a>
   - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
   <sup>
-   &#9733 3342, pushed 22 days ago
+   &#9733 3342, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1245,7 +1265,7 @@
   </a>
   - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
   <sup>
-   &#9733 196, pushed 68 days ago
+   &#9733 196, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1254,7 +1274,7 @@
   </a>
   - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
   <sup>
-   &#9733 107, pushed 4 days ago
+   &#9733 107, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1291,7 +1311,7 @@
   </a>
   - Transform (reformat) structures from one to another. (Javascript)
   <sup>
-   &#9733 121, pushed 43 days ago
+   &#9733 121, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -1300,7 +1320,7 @@
   </a>
   - The ultimate object transformer. (Javascript)
   <sup>
-   &#9733 174, pushed 134 days ago
+   &#9733 174, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -1309,7 +1329,7 @@
   </a>
   - Converts OSM data to GeoJSON. (Javascript)
   <sup>
-   &#9733 159, pushed 50 days ago
+   &#9733 159, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1318,7 +1338,7 @@
   </a>
   - XML to JSON and vice versa javascript conversion functions. (Javascript)
   <sup>
-   &#9733 165, pushed 15 days ago
+   &#9733 165, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1327,14 +1347,17 @@
   </a>
   - JSON compressor and decompressor. (Javascript)
   <sup>
-   &#9733 300, pushed 190 days ago
+   &#9733 300, pushed 315 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/netresearch/jsonmapper">
+  <a href="https://github.com/cweiske/jsonmapper">
    JsonMapper
   </a>
   - Map nested structures onto PHP classes (PHP)
+  <sup>
+   &#9733 399, pushed 143 days ago
+  </sup>
  </li>
  <li>
   <a href="https://github.com/HugoGiraudel/SassyJSON">
@@ -1342,7 +1365,7 @@
   </a>
   - Sass-powered API. (Sass)
   <sup>
-   &#9733 165, pushed 80 days ago
+   &#9733 165, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1357,7 +1380,7 @@
   </a>
   - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
   <sup>
-   &#9733 43, pushed 458 days ago
+   &#9733 43, pushed 583 days ago
   </sup>
  </li>
  <li>
@@ -1366,7 +1389,7 @@
   </a>
   - Extract, rename and transform JSON based on a template. (node.js)
   <sup>
-   &#9733 9, pushed 115 days ago
+   &#9733 9, pushed 240 days ago
   </sup>
  </li>
  <li>
@@ -1375,7 +1398,7 @@
   </a>
   - String.replace for JavaScript objects. (Javascript)
   <sup>
-   &#9733 19, pushed 675 days ago
+   &#9733 19, pushed 800 days ago
   </sup>
  </li>
  <li>
@@ -1390,8 +1413,14 @@
   </a>
   - allow transformation using a JSON-based transformation language. (node.js)
   <sup>
-   &#9733 2, pushed 401 days ago
+   &#9733 2, pushed 525 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ColinEberhardt/json-transforms">
+   json-transforms
+  </a>
+  - A recursive, pattern-matching, approach to transforming JSON structures.
  </li>
 </ul>
 <h2>
@@ -1410,7 +1439,7 @@
   </a>
   - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
   <sup>
-   &#9733 417, pushed 249 days ago
+   &#9733 417, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -1449,8 +1478,14 @@
   </a>
   - A library for filtering based on a json SQL-like language.
   <sup>
-   &#9733 105, pushed 60 days ago
+   &#9733 105, pushed 185 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/slurmulon/json-rel">
+   json-rel
+  </a>
+  - Transparent references in JSON.
  </li>
 </ul>
 <h2>
@@ -1463,7 +1498,7 @@
   </a>
   - JSON Schema Based Editor. (jQuery)
   <sup>
-   &#9733 2654, pushed 15 days ago
+   &#9733 2654, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1472,7 +1507,7 @@
   </a>
   - Generate forms. (AngularJS)
   <sup>
-   &#9733 1381, pushed 6 days ago
+   &#9733 1381, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1481,7 +1516,7 @@
   </a>
   - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
   <sup>
-   &#9733 21, pushed 28 days ago
+   &#9733 21, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1490,7 +1525,7 @@
   </a>
   - Angular directive for making forms out of JSON Schema. (AngularJS)
   <sup>
-   &#9733 10, pushed 28 days ago
+   &#9733 10, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -1510,7 +1545,7 @@
   </a>
   - Tools and doc generation for HTTP APIs.
   <sup>
-   &#9733 1453, pushed 15 days ago
+   &#9733 1453, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1519,7 +1554,7 @@
   </a>
   - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
   <sup>
-   &#9733 213, pushed 246 days ago
+   &#9733 213, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -1528,7 +1563,7 @@
   </a>
   - Documentation for your types.
   <sup>
-   &#9733 233, pushed 53 days ago
+   &#9733 233, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -1543,7 +1578,7 @@
   </a>
   - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
   <sup>
-   &#9733 1739, pushed 2 days ago
+   &#9733 1739, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1552,7 +1587,7 @@
   </a>
   - Build tool for generating HTML documentation.
   <sup>
-   &#9733 130, pushed 358 days ago
+   &#9733 130, pushed 483 days ago
   </sup>
  </li>
  <li>
@@ -1561,7 +1596,7 @@
   </a>
   - Fake your schemas.
   <sup>
-   &#9733 280, pushed 4 days ago
+   &#9733 280, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1570,7 +1605,7 @@
   </a>
   - Gets you a JSON Schema from PostgreSQL or SQLite3.
   <sup>
-   &#9733 44, pushed 377 days ago
+   &#9733 44, pushed 501 days ago
   </sup>
  </li>
  <li>
@@ -1602,7 +1637,7 @@
   </a>
   - Community-Driven Standards For Popular Types Of Data.
   <sup>
-   &#9733 127, pushed 287 days ago
+   &#9733 127, pushed 411 days ago
   </sup>
  </li>
 </ul>

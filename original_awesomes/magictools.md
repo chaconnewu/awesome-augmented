@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/ellisonleao/magictools.svg?branch=master)](https://travis-ci.org/ellisonleao/magictools)
 
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people. 
+A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
 - [Graphics](#graphics)
     - [Assets/Placeholders](#assetsplaceholders)
@@ -33,7 +33,6 @@ A list of game development resources to make **magic** happen. Created by awesom
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
-- [Other Awesome Lists](#other-awesome-lists)
 
 
 Graphics
@@ -91,7 +90,6 @@ Graphics
 #### Character Generators
 
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Famistu Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html) - A tool to make the famous chibi chars and use in your game.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/)
 
 #### Tile/Level Editors
@@ -120,7 +118,7 @@ Graphics
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor for OSX
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 
 
 #### Modeling
@@ -205,6 +203,7 @@ Code
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
+* [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
@@ -229,6 +228,7 @@ Code
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+* [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [Godot](http://www.godotengine.org/) - Open source game engine with rich API.
@@ -239,7 +239,7 @@ Code
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-with AWS and Twitch – with full source. 
+with AWS and Twitch – with full source.
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
@@ -311,7 +311,7 @@ Must see
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
-* [HTML5 Game Devs Forum](www.html5gamedevs.com/)
+* [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
 * [HobbyGameDev](http://www.hobbygamedev.com/)
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [IndieDB](http://www.indiedb.com/)
@@ -387,14 +387,14 @@ Ads
 ---
 *We still need to make some money, right?*
 
-* [AdMob by Google] - Google's Ads and monetization service for mobile.
+* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 * [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
 * [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
 * [Vungle](https://vungle.com/) - Video Ads service.
- 
+
 Learn
 -----
 *Online courses, tutorials, screencasts*

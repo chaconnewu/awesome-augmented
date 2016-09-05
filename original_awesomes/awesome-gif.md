@@ -43,7 +43,9 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 
 
 ## Utilities 
-- [Gifify](https://github.com/jclem/gifify) - *convert screen recording into GIF*
+- [Gifgen](https://github.com/lukechilds/gifgen) - *Simple high quality GIF encoding*
+- [Gifify](https://github.com/vvo/gifify) - *Convert any video file to an optimized animated GIF*
+- [Gifify (not the same)](https://github.com/jclem/gifify) - *convert screen recording into GIF*
 - [Gifsicle](https://github.com/pornel/giflossy) - *lossy gif compressor*
 - [Gifs](https://github.com/jglovier/gifs) - *storage place for gifs* - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - *create animated GIFs from media by Yahoo* - [demo](http://yahoo.github.io/gifshot/)
@@ -77,7 +79,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
 
 ### C\# 
- 
+- [dot-screencap](https://github.com/Speisaa/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
 
@@ -108,6 +110,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
 - [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - *Facial-emotion detectors*
+- [node-youtube](https://github.com/javascipt/node-youtube) - *Youtube to snapshots and GIFs.*
 
 
 ### PHP

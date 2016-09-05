@@ -39,11 +39,11 @@
 </h2>
 <ul>
  <li>
-  <a href="http://www.sitepoint.com/newsletter/">
+  <a href="https://www.sitepoint.com/newsletter/">
    SitePoint
   </a>
   .
-  <a href="http://www.sitepoint.com/newsletter-archive/">
+  <a href="https://www.sitepoint.com/newsletter-archive/">
    Archive
   </a>
   .
@@ -171,7 +171,7 @@
   . The free, weekly newsletter of the best React.js news and articles.
  </li>
  <li>
-  <a href="http://brentvatne.ca/react-native-newsletter/">
+  <a href="http://reactnative.cc/">
    React Native Newsletter
   </a>
   . Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
@@ -246,7 +246,7 @@
   <a href="https://css-tricks.com">
    CSS-Tricks
   </a>
-  signup is at the bottom of the page right under the
+  . signup is at the bottom of the page right under the
   <strong>
    Get the newsletter
   </strong>
@@ -257,6 +257,16 @@
    CSS Layout News
   </a>
   . A weekly collection of tutorials, news and information on all things CSS Layout.
+ </li>
+ <li>
+  <a href="http://sassnews.com/">
+   Sass News
+  </a>
+  . Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness.
+  <a href="http://sassnews.com/sassnews">
+   Archive
+  </a>
+  .
  </li>
 </ul>
 <h3>
@@ -312,7 +322,7 @@
   . It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
  </li>
  <li>
-  <a href="http://uimovement.com">
+  <a href="https://uimovement.com">
    UI Movement
   </a>
   . Only the best UI design inspiration, right in your inbox.
@@ -374,6 +384,16 @@
    Web Animation Weekly
   </a>
   . A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
+ </li>
+ <li>
+  <a href="https://designsystems.curated.co/">
+   Design Systems News
+  </a>
+  . Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide.
+  <a href="https://designsystems.curated.co/issues">
+   Archive
+  </a>
+  .
  </li>
 </ul>
 <h3>
@@ -456,6 +476,12 @@
    npm Weekly
   </a>
  </li>
+ <li>
+  <a href="https://nodejs.libhunt.com/newsletter">
+   Awesome Node.js Newsletter
+  </a>
+  . A weekly overview of the most popular Node.js news, articles and packages.
+ </li>
 </ul>
 <h3>
  Swift
@@ -479,6 +505,12 @@
   </a>
   . A weekly newsletter for Swift developers with links to the best Swift code, projects and playgrounds.
  </li>
+ <li>
+  <a href="https://swiftweekly.github.io">
+   Swift Weekly Brief
+  </a>
+  . A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
+ </li>
 </ul>
 <h3>
  Go
@@ -491,10 +523,10 @@
   . A weekly newsletter about the Go programming language.
  </li>
  <li>
-  <a href="https://paper.li/b0rder/1307943412">
-   Golang Daily
+  <a href="https://go.libhunt.com/newsletter">
+   Awesome Go Newsletter
   </a>
-  . Golang news, videos and technology posts compiled by community.
+  . A weekly overview of the most popular Go news, articles and libraries.
  </li>
 </ul>
 <h3>
@@ -582,6 +614,12 @@
   </a>
   . A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
  </li>
+ <li>
+  <a href="https://python.libhunt.com/newsletter">
+   Awesome Python Newsletter
+  </a>
+  . A weekly overview of the most popular Python news, articles and packages.
+ </li>
 </ul>
 <h3>
  Groovy
@@ -615,27 +653,47 @@
   </a>
   . A weekly email with blog posts, latest libraries, talks, events and job opportunities.
  </li>
+ <li>
+  <a href="http://dataelixir.com/">
+   Data Elixir
+  </a>
+  . A weekly newsletter of the best data science news and resources from around the web.
+  <a href="http://dataelixir.com/issues">
+   Archive
+  </a>
+  .
+ </li>
 </ul>
 <h3>
  Clojure
 </h3>
 <ul>
  <li>
-  <a href="http://www.clojuregazette.com/archive.html">
+  <a href="https://clojuregazette.com/">
    Clojure Gazette
   </a>
   . A free, weekly email to inspire Clojure programmers.
+  <a href="https://clojuregazette.com/archives/">
+   Archive
+  </a>
+  .
+ </li>
+ <li>
+  <a href="https://therepl.net/">
+   The REPL
+  </a>
+  . A weekly newsletter about Clojure and ClojureScript.
  </li>
 </ul>
 <h3>
- Crystal
+ Elm
 </h3>
 <ul>
  <li>
-  <a href="http://www.crystalweekly.com/">
-   Crystal Weekly
+  <a href="http://www.elmweekly.nl/">
+   Elm Weekly
   </a>
-  . A weekly newsletter about Crystal programming language that aims to bring the best resources, blog posts, community events and anything Crystal to your inbox.
+  . The wonderful world of the Elm programming language, in your inbox.
  </li>
 </ul>
 <h2>
@@ -756,7 +814,7 @@ every Sunday in the form of the DevOps newsletter.
   </a>
  </li>
  <li>
-  <a href="https://kubeweekly.com">
+  <a href="http://kube.news/">
    KubeWeekly
   </a>
   . Interesting weekly news about Kubernetes in the form of a newsletter.
@@ -813,13 +871,6 @@ every Sunday in the form of the DevOps newsletter.
   . A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
  </li>
  <li>
-  ~~
-  <a href="devweekly.androidauthority.com">
-   Android Authority Dev Weekly
-  </a>
-  . Android Authority Dev Weekly is a weekly curated publication full of interesting, relevant links for Android developers.~~
- </li>
- <li>
   <a href="http://androidweekly.net/">
    Android Weekly
   </a>
@@ -830,12 +881,6 @@ every Sunday in the form of the DevOps newsletter.
  Big Data
 </h2>
 <ul>
- <li>
-  <a href="http://www.bigdataweekly.com/">
-   Big Data Weekly
-  </a>
-  . Big Data technology news and links delivered to your inbox, weekly.
- </li>
  <li>
   <a href="http://www.datascienceweekly.org/">
    Data Science Weekly Newsletter
@@ -860,7 +905,7 @@ every Sunday in the form of the DevOps newsletter.
   . Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
  </li>
  <li>
-  <a href="http://radar.oreilly.com/four-short-links">
+  <a href="https://www.oreilly.com/feed/four-short-links">
    Four Short Links
   </a>
   . 4 short links about (mostly research oriented) technology every weekday.
@@ -873,14 +918,32 @@ every Sunday in the form of the DevOps newsletter.
  </li>
 </ul>
 <h2>
- Etc.
+ Awesome news
 </h2>
 <ul>
  <li>
-  A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more.
-  <a href="http://www.thisweekindomains.com/">
-   This Week in Domains
+  <a href="http://www.hackernewsletter.com/">
+   HackerNewsLetter
   </a>
+  . A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+ </li>
+ <li>
+  <a href="https://www.reddit.com/newsletter">
+   Reddit's Official Newsletter
+  </a>
+  . Best of reddit's content curated, packaged, and delivered to your inbox once a week.
+ </li>
+ <li>
+  <a href="https://changelog.com/weekly/">
+   The ChangeLog Weekly
+  </a>
+  . A weekly newsletter, covering everything that hits open source radar.
+ </li>
+ <li>
+  <a href="http://www.gitlogs.com/">
+   GitHub News
+  </a>
+  . Discover top trending repos at GitHub, detected by a peak detection algorithm.
  </li>
  <li>
   Inspiration in your inbox by
@@ -897,34 +960,69 @@ every Sunday in the form of the DevOps newsletter.
   .
  </li>
  <li>
+  <a href="https://www.startupdigest.com/reading-lists">
+   Startup Digest
+  </a>
+  . Curated reading materials from around the world, customized by your interests.
+ </li>
+ <li>
+  A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more.
+  <a href="http://www.thisweekindomains.com/">
+   This Week in Domains
+  </a>
+ </li>
+ <li>
+  <a href="https://remoteworking.curated.co/">
+   Remotive Tips
+  </a>
+  . A hand picked round-up of the best productivity & remote work links twice a month.
+  <a href="https://remoteworking.curated.co/issues">
+   Archive
+  </a>
+  .
+ </li>
+ <li>
+  <a href="http://mymorningroutine.com/">
+   My Morning Routine
+  </a>
+  . My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
+ </li>
+ <li>
+  <a href="http://wpmail.me/">
+   wpMail.me
+  </a>
+  . A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles.
+  <a href="http://wpmail.me/newsletters/">
+   Archive
+  </a>
+  .
+ </li>
+ <li>
+  <a href="http://www.thnkclrly.com/newsletter/">
+   Handwritten newsletter
+  </a>
+  . The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration.
+  <a href="http://www.thnkclrly.com/category/thinking-clearly/">
+   Archive
+  </a>
+  .
+ </li>
+</ul>
+<h2>
+ Etc.
+</h2>
+<ul>
+ <li>
   <a href="http://bitcoinweekly.com/">
    Bitcoin Weekly
   </a>
   . A weekly round-up of Bitcoin and cryptocurrency news and articles.
  </li>
  <li>
-  <a href="http://www.hackernewsletter.com/">
-   HackerNewsLetter
-  </a>
-  . A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
- </li>
- <li>
-  <a href="https://changelog.com/weekly/">
-   The ChangeLog Weekly
-  </a>
-  . A weekly newsletter, covering everything that hits open source radar.
- </li>
- <li>
   <a href="http://www.founderweekly.com/">
    Founder Weekly
   </a>
   . A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
- </li>
- <li>
-  <a href="https://www.reddit.com/newsletter">
-   Reddit's Official Newsletter
-  </a>
-  . Best of reddit's content curated, packaged, and delivered to your inbox once a week.
  </li>
  <li>
   <a href="https://webrtcweekly.com/">
@@ -957,12 +1055,6 @@ every Sunday in the form of the DevOps newsletter.
   . A free weekly email, for busy people who care about people, culture and leadership.
  </li>
  <li>
-  <a href="https://www.startupdigest.com/reading-lists">
-   Startup Digest
-  </a>
-  . Curated reading materials from around the world, customized by your interests.
- </li>
- <li>
   <a href="http://hackingrevenue.com/">
    Hacking Revenue
   </a>
@@ -981,12 +1073,6 @@ every Sunday in the form of the DevOps newsletter.
   . Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
  </li>
  <li>
-  <a href="http://www.gitlogs.com/">
-   GitHub News
-  </a>
-  . Discover top trending repos at GitHub, detected by a peak detection algorithm.
- </li>
- <li>
   <a href="https://tinyletter.com/codecartoons">
    Code Cartoons
   </a>
@@ -997,7 +1083,7 @@ every Sunday in the form of the DevOps newsletter.
  License
 </h1>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

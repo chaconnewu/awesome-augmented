@@ -15,6 +15,7 @@
   - [Books](#books)
   - [Development Testing and Validators](#development-testing-and-validators)
   - [Wordpress Plugins](#wordpress-plugins)
+  - [Webcomponents](#webcomponents)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
@@ -34,6 +35,7 @@
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
 * [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
@@ -41,12 +43,17 @@
 
 ## Articles and Videos
 
+* [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
+* [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
+* [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
-* [How I Audit a Website for Accessibility](http://staging.substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181)
+* [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf)
+* [Links vs Buttons in modern web applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
@@ -63,40 +70,54 @@
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
+* [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 * [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
+* [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [pa11y](http://www.pa11y.org/)
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
-* [Screen Reader Simulator](https://addons.mozilla.org/en-US/firefox/addon/screen-reader-simulator/?src=search) - A Firefox add-on that allows you to simulate an on-screen displazyed screen reader. Step through your web page and read what a blind user would hear if they were using Firefox for Android with TalkBack, or a Firefox OS device with the screen reader turned on.
 * [WAVE](http://wave.webaim.org/)
 
 ## Wordpress Plugins
 
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 
+## Webcomponents
+
+* [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+
 ## Other Resources
+
 * [AIIY.js](http://allyjs.io/)
 * [A11yProject](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
+* [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
+* [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
+* [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 
 ## Presentations
+
+* [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
+* [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
 * [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
 * [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
 * [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
+* [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
+* [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
 
 ## People to Follow in Web Accessibility
 

@@ -90,6 +90,11 @@
      Lua
     </a>
    </li>
+   <li>
+    <a href="#lib-elm">
+     Elm
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -100,6 +105,11 @@
  <li>
   <a href="#services">
    Services
+  </a>
+ </li>
+ <li>
+  <a href="#databases">
+   Databases
   </a>
  </li>
  <li>
@@ -197,7 +207,7 @@
   </a>
   - A reference implementation of GraphQL for JavaScript.
   <sup>
-   &#9733 3499, pushed 5 days ago
+   &#9733 3499, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -206,7 +216,7 @@
   </a>
   - GraphQL Express Middleware.
   <sup>
-   &#9733 748, pushed 2 days ago
+   &#9733 748, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -215,7 +225,7 @@
   </a>
   - GraphQL Koa Middleware.
   <sup>
-   &#9733 153, pushed 3 days ago
+   &#9733 153, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -224,7 +234,7 @@
   </a>
   - Create a GraphQL HTTP server with Hapi.
   <sup>
-   &#9733 46, pushed 75 days ago
+   &#9733 46, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -233,7 +243,7 @@
   </a>
   - GraphQL mode and helpers for CodeMirror.
   <sup>
-   &#9733 19, pushed 25 days ago
+   &#9733 19, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -242,7 +252,7 @@
   </a>
   - Create GraphQL schemas with a fluent/chainable interface.
   <sup>
-   &#9733 76, pushed 224 days ago
+   &#9733 76, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -251,7 +261,7 @@
   </a>
   - Sequelize helpers for GraphQL.
   <sup>
-   &#9733 222, pushed 4 days ago
+   &#9733 222, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -260,7 +270,7 @@
   </a>
   - Node.js GraphQL ORM.
   <sup>
-   &#9733 665, pushed 3 days ago
+   &#9733 665, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -269,7 +279,7 @@
   </a>
   - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
   <sup>
-   &#9733 195, pushed 3 days ago
+   &#9733 195, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -278,7 +288,7 @@
   </a>
   - Babel plugin that compile GraphQL tagged template strings.
   <sup>
-   &#9733 34, pushed 182 days ago
+   &#9733 34, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -287,7 +297,7 @@
   </a>
   - React bindings for Redux with Relay in mind.
   <sup>
-   &#9733 439, pushed 7 days ago
+   &#9733 439, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -296,7 +306,7 @@
   </a>
   - Some help defining GraphQL schema around BookshelfJS models.
   <sup>
-   &#9733 85, pushed 38 days ago
+   &#9733 85, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -305,7 +315,7 @@
   </a>
   - Faster and simpler technique for creating and querying GraphQL schemas.
   <sup>
-   &#9733 167, pushed 14 days ago
+   &#9733 167, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -314,7 +324,7 @@
   </a>
   - A library to communicate with Graphql through Redux
   <sup>
-   &#9733 52, pushed 55 days ago
+   &#9733 52, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -323,7 +333,7 @@
   </a>
   - Simple JavaScript client for GraphQL, which you can use anywhere.
   <sup>
-   &#9733 384, pushed 16 days ago
+   &#9733 384, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -338,7 +348,7 @@
   </a>
   - A GraphQL manager and loader.
   <sup>
-   &#9733 10, pushed 77 days ago
+   &#9733 10, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -347,7 +357,7 @@
   </a>
   - A GraysQL extension to load a GraphQL schema from an ORM.
   <sup>
-   &#9733 2, pushed 91 days ago
+   &#9733 2, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -356,7 +366,7 @@
   </a>
   - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
   <sup>
-   &#9733 0, pushed 65 days ago
+   &#9733 0, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -365,7 +375,7 @@
   </a>
   - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
   <sup>
-   &#9733 246, pushed 5 days ago
+   &#9733 246, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -374,8 +384,26 @@
   </a>
   - Tool library for building and maintaining GraphQL-JS servers.
   <sup>
-   &#9733 110, pushed 5 days ago
+   &#9733 110, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/stubailo/graphql-anywhere">
+   graphql-anywhere
+  </a>
+  - Run a GraphQL query anywhere, against any data, with no schema.
+ </li>
+ <li>
+  <a href="https://github.com/apollostack/graphql-tag">
+   graphql-tag
+  </a>
+  - A JavaScript template literal tag that parses GraphQL queries.
+ </li>
+ <li>
+  <a href="https://github.com/julienvincent/modelizr">
+   modelizr
+  </a>
+  - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
  </li>
 </ul>
 <h5>
@@ -388,7 +416,7 @@
   </a>
   - Relay is a JavaScript framework for building data-driven React applications.
   <sup>
-   &#9733 6271, pushed 2 days ago
+   &#9733 6271, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -397,7 +425,7 @@
   </a>
   - A library to help construct a graphql-js server supporting react-relay.
   <sup>
-   &#9733 460, pushed 8 days ago
+   &#9733 460, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -406,8 +434,14 @@
   </a>
   - Serverside library that connects sequelize and graphql-relay-js together.
   <sup>
-   &#9733 41, pushed 99 days ago
+   &#9733 41, pushed 224 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/graphcool/babel-plugin-react-relay">
+   babel-plugin-react-relay
+  </a>
+  - Babel Plugin for Relay with support for JSON & graphql-js schemas and URL endpoints.
  </li>
  <li>
   <a href="https://www.npmjs.com/package/babel-relay-plugin">
@@ -421,7 +455,7 @@
   </a>
   - Relay integration for React Router.
   <sup>
-   &#9733 356, pushed 2 days ago
+   &#9733 356, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -430,7 +464,7 @@
   </a>
   - Use Relay without a GraphQL server.
   <sup>
-   &#9733 91, pushed 22 days ago
+   &#9733 91, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -439,7 +473,7 @@
   </a>
   - Use Relay to fetch and store data outside of a React component.
   <sup>
-   &#9733 107, pushed 148 days ago
+   &#9733 107, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -460,6 +494,12 @@
   </a>
   - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
  </li>
+ <li>
+  <a href="https://github.com/nodkz/react-relay-network-layer">
+   react-relay-network-layer
+  </a>
+  - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
+ </li>
 </ul>
 <p>
  <a name="lib-rb">
@@ -475,7 +515,7 @@
   </a>
   - Ruby implementation of Facebook's GraphQL.
   <sup>
-   &#9733 682, pushed 4 days ago
+   &#9733 682, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -484,7 +524,7 @@
   </a>
   - Relay helpers for GraphQL & Ruby.
   <sup>
-   &#9733 77, pushed 4 days ago
+   &#9733 77, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -493,7 +533,7 @@
   </a>
   - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
   <sup>
-   &#9733 21, pushed 4 days ago
+   &#9733 21, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -511,7 +551,7 @@
   </a>
   - A PHP port of GraphQL reference implementation.
   <sup>
-   &#9733 222, pushed 2 days ago
+   &#9733 222, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -520,7 +560,7 @@
   </a>
   - Relay helpers for GraphQL & PHP.
   <sup>
-   &#9733 10, pushed 64 days ago
+   &#9733 10, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -529,7 +569,7 @@
   </a>
   - Facebook GraphQL for Laravel 5.
   <sup>
-   &#9733 135, pushed 5 days ago
+   &#9733 135, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -538,7 +578,7 @@
   </a>
   - A Laravel library to help construct a server supporting react-relay.
   <sup>
-   &#9733 18, pushed 6 days ago
+   &#9733 18, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +587,7 @@
   </a>
   - This library allows to build a GraphQL schema based on your model.
   <sup>
-   &#9733 9, pushed 50 days ago
+   &#9733 9, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -556,7 +596,7 @@
   </a>
   - GraphQL Bundle for Symfony 2.
   <sup>
-   &#9733 9, pushed 80 days ago
+   &#9733 9, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -565,8 +605,26 @@
   </a>
   - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
   <sup>
-   &#9733 17, pushed 6 days ago
+   &#9733 17, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Youshido/GraphQL">
+   GraphQL
+  </a>
+  – Well documented PHP implementation with no dependencies.
+ </li>
+ <li>
+  <a href="https://github.com/Youshido/GraphQLBundle">
+   GraphQL Symfony Bundle
+  </a>
+  – GraphQL Bundle for the Symfony 3 (supports 2.6+).
+ </li>
+ <li>
+  <a href="https://github.com/tim-field/graphql-wp">
+   graphql-wp
+  </a>
+  -. a WordPress plugin that exposes a GraphQL endpoint at /graphql
  </li>
 </ul>
 <p>
@@ -583,7 +641,7 @@
   </a>
   - GraphQL parser for Python.
   <sup>
-   &#9733 32, pushed 315 days ago
+   &#9733 32, pushed 440 days ago
   </sup>
  </li>
  <li>
@@ -592,7 +650,7 @@
   </a>
   - GraphQL implementation for Python.
   <sup>
-   &#9733 54, pushed 2 days ago
+   &#9733 54, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -601,7 +659,7 @@
   </a>
   - A library to help construct a graphql-py server supporting react-relay.
   <sup>
-   &#9733 61, pushed 196 days ago
+   &#9733 61, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -610,7 +668,7 @@
   </a>
   - A python wrapper around libgraphqlparser.
   <sup>
-   &#9733 3, pushed 247 days ago
+   &#9733 3, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -619,8 +677,14 @@
   </a>
   - A package for creating GraphQL schemas/types in a Pythonic easy way.
   <sup>
-   &#9733 656, pushed 2 days ago
+   &#9733 656, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/graphql-python/graphene-gae">
+   graphene-gae
+  </a>
+  - Adds GraphQL support to Google AppEngine (GAE).
  </li>
  <li>
   <a href="https://github.com/graphql-python/django-graphiql">
@@ -628,7 +692,7 @@
   </a>
   - Integrate GraphiQL easily into your Django project.
   <sup>
-   &#9733 22, pushed 80 days ago
+   &#9733 22, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -637,7 +701,7 @@
   </a>
   - Adds GraphQL support to your Flask application.
   <sup>
-   &#9733 28, pushed 85 days ago
+   &#9733 28, pushed 210 days ago
   </sup>
  </li>
 </ul>
@@ -650,13 +714,22 @@
 </h3>
 <ul>
  <li>
-  <a href="https://github.com/andimarek/graphql-java">
+  <a href="https://github.com/graphql-java/graphql-java">
    graphql-java
   </a>
   - GraphQL Java implementation.
-  <sup>
-   &#9733 400, pushed 3 days ago
-  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/graphql-java/graphql-java-type-generator">
+   gaphql-java-type-generator
+  </a>
+  - Auto-generates types for use with GraphQL Java
+ </li>
+ <li>
+  <a href="https://github.com/graphql-java/graphql-java-annotations">
+   graphql-java-annotations
+  </a>
+  - Provides annotations-based syntax for schema definition with GraphQL Java
  </li>
  <li>
   <a href="https://github.com/oembedler/spring-graphql-common">
@@ -664,7 +737,7 @@
   </a>
   - Spring Framework GraphQL Library.
   <sup>
-   &#9733 9, pushed 4 days ago
+   &#9733 9, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -673,12 +746,12 @@
   </a>
   - GraphQL and GraphiQL Spring Framework Boot Starters.
   <sup>
-   &#9733 4, pushed 4 days ago
+   &#9733 4, pushed 129 days ago
   </sup>
  </li>
 </ul>
 <p>
- <a name="#lib-c">
+ <a name="lib-c">
  </a>
 </p>
 <h3>
@@ -691,7 +764,7 @@
   </a>
   - A GraphQL query parser in C++ with C and C++ APIs.
   <sup>
-   &#9733 262, pushed 4 days ago
+   &#9733 262, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -709,7 +782,7 @@
   </a>
   - An implementation of GraphQL for Go follows graphql-js
   <sup>
-   &#9733 403, pushed 14 days ago
+   &#9733 403, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +791,7 @@
   </a>
   - A Go/Golang library to help construct a server supporting react-relay.
   <sup>
-   &#9733 63, pushed 55 days ago
+   &#9733 63, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -727,7 +800,7 @@
   </a>
   - GraphQL parser and server for Go.
   <sup>
-   &#9733 35, pushed 181 days ago
+   &#9733 35, pushed 306 days ago
   </sup>
  </li>
  <li>
@@ -736,7 +809,7 @@
   </a>
   - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
   <sup>
-   &#9733 23, pushed 199 days ago
+   &#9733 23, pushed 324 days ago
   </sup>
  </li>
  <li>
@@ -745,7 +818,7 @@
   </a>
   - GraphQL parser and server for Go that leverages libgraphqlparser
   <sup>
-   &#9733 8, pushed 180 days ago
+   &#9733 8, pushed 305 days ago
   </sup>
  </li>
 </ul>
@@ -763,7 +836,7 @@
   </a>
   - Scala GraphQL client and server library.
   <sup>
-   &#9733 315, pushed 2 days ago
+   &#9733 315, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -772,7 +845,7 @@
   </a>
   - Sangria Relay Support.
   <sup>
-   &#9733 30, pushed 2 days ago
+   &#9733 30, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -781,7 +854,7 @@
   </a>
   - An attempt to get GraphQL going with Scala.
   <sup>
-   &#9733 5, pushed 259 days ago
+   &#9733 5, pushed 384 days ago
   </sup>
  </li>
 </ul>
@@ -799,7 +872,7 @@
   </a>
   - GraphQL for .NET.
   <sup>
-   &#9733 214, pushed 7 days ago
+   &#9733 214, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -808,7 +881,7 @@
   </a>
   - GraphQL to IQueryable for .NET
   <sup>
-   &#9733 33, pushed 2 days ago
+   &#9733 33, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -826,7 +899,7 @@
   </a>
   - Fully Featured Elixir GraphQL Library.
   <sup>
-   &#9733 243, pushed 4 days ago
+   &#9733 243, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -835,7 +908,7 @@
   </a>
   - GraphQL Elixir.
   <sup>
-   &#9733 314, pushed 2 days ago
+   &#9733 314, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -844,7 +917,7 @@
   </a>
   - Plug integration for GraphQL Elixir.
   <sup>
-   &#9733 70, pushed 5 days ago
+   &#9733 70, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -853,7 +926,7 @@
   </a>
   - Relay helpers for GraphQL Elixir.
   <sup>
-   &#9733 11, pushed 14 days ago
+   &#9733 11, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -865,7 +938,7 @@
    libgraphqlparser
   </a>
   <sup>
-   &#9733 7, pushed 57 days ago
+   &#9733 7, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -874,7 +947,7 @@
   </a>
   - Elixir GraphQL parser.
   <sup>
-   &#9733 89, pushed 296 days ago
+   &#9733 89, pushed 421 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +956,7 @@
   </a>
   - GraphQL parser and resolver for Elixir.
   <sup>
-   &#9733 27, pushed 144 days ago
+   &#9733 27, pushed 269 days ago
   </sup>
  </li>
 </ul>
@@ -901,7 +974,7 @@
   </a>
   - GraphQL AST and parser for Haskell.
   <sup>
-   &#9733 47, pushed 47 days ago
+   &#9733 47, pushed 172 days ago
   </sup>
  </li>
 </ul>
@@ -919,17 +992,14 @@
   </a>
   - GraphQL for Postgres.
   <sup>
-   &#9733 858, pushed 292 days ago
+   &#9733 858, pushed 417 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/vaffel/sql-to-graphql">
+  <a href="https://github.com/rexxars/sql-to-graphql">
    sql-to-graphql
   </a>
   - Generate a GraphQL API based on your SQL database structure.
-  <sup>
-   &#9733 142, pushed 132 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/calebmer/postgraphql">
@@ -937,7 +1007,7 @@
   </a>
   - A GraphQL schema created by reflection over a PostgreSQL schema.
   <sup>
-   &#9733 1425, pushed 1 days ago
+   &#9733 1425, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -955,8 +1025,23 @@
   </a>
   - GraphQL for Lua.
   <sup>
-   &#9733 10, pushed 3 days ago
+   &#9733 10, pushed 128 days ago
   </sup>
+ </li>
+</ul>
+<p>
+ <a name="lib-elm">
+ </a>
+</p>
+<h3>
+ Elm Libraries
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/jahewson/elm-graphql">
+   elm-graphql
+  </a>
+  - GraphQL for Elm.
  </li>
 </ul>
 <p>
@@ -973,7 +1058,7 @@
   </a>
   - An in-browser IDE for exploring GraphQL.
   <sup>
-   &#9733 1295, pushed 4 days ago
+   &#9733 1295, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -982,7 +1067,7 @@
   </a>
   - A light, Electron-based wrapper around GraphiQL.
   <sup>
-   &#9733 186, pushed 76 days ago
+   &#9733 186, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -991,7 +1076,7 @@
   </a>
   - GraphQLviz marries GraphQL (schemas) with Graphviz.
   <sup>
-   &#9733 30, pushed 70 days ago
+   &#9733 30, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -1000,7 +1085,7 @@
   </a>
   - GraphQL API visualizer in Node.js
   <sup>
-   &#9733 87, pushed 18 days ago
+   &#9733 87, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1032,7 +1117,7 @@
   </a>
   - DOM Traversing and Scraping using GraphQL.
   <sup>
-   &#9733 719, pushed 59 days ago
+   &#9733 719, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -1041,7 +1126,7 @@
   </a>
   - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
   <sup>
-   &#9733 2, pushed 65 days ago
+   &#9733 2, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1056,7 +1141,7 @@
   </a>
   - A chrome dev-tools extension for debugging GraphQL network requests.
   <sup>
-   &#9733 28, pushed 46 days ago
+   &#9733 28, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1065,8 +1150,23 @@
   </a>
   - An ESLint plugin that checks your GraphQL strings against a schema.
   <sup>
-   &#9733 41, pushed 5 days ago
+   &#9733 41, pushed 130 days ago
   </sup>
+ </li>
+</ul>
+<p>
+ <a name="databases">
+ </a>
+</p>
+<h2>
+ Databases
+</h2>
+<ul>
+ <li>
+  <a href="https://dgraph.io/">
+   Dgraph
+  </a>
+  - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
  </li>
 </ul>
 <p>
@@ -1082,6 +1182,18 @@
    Reindex
   </a>
   - Instant GraphQL Backend for Your React Apps.
+ </li>
+ <li>
+  <a href="https://graph.cool/">
+   Graphcool
+  </a>
+  - Hosted GraphQL Backend for your React/Relay Apps.
+ </li>
+ <li>
+  <a href="https://scaphold.io/">
+   Scaphold
+  </a>
+  - GraphQL as a service.
  </li>
 </ul>
 <p>
@@ -1105,7 +1217,7 @@
   </a>
   - Barebones starting point for a Relay application.
   <sup>
-   &#9733 667, pushed 1 days ago
+   &#9733 667, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1114,7 +1226,7 @@
   </a>
   - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)
   <sup>
-   &#9733 8040, pushed 3 days ago
+   &#9733 8040, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1127,7 +1239,7 @@
   </a>
   .
   <sup>
-   &#9733 164, pushed 40 days ago
+   &#9733 164, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1136,7 +1248,7 @@
   </a>
   - GraphQL server with Mongoose (MongoDB) and Node.js.
   <sup>
-   &#9733 507, pushed 4 days ago
+   &#9733 507, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1145,7 +1257,7 @@
   </a>
   - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2
   <sup>
-   &#9733 55, pushed 217 days ago
+   &#9733 55, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -1154,7 +1266,7 @@
   </a>
   - Amazon AWS GraphQL API Server.
   <sup>
-   &#9733 45, pushed 162 days ago
+   &#9733 45, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -1163,7 +1275,7 @@
   </a>
   - Example Relay TodoMVC application using graffiti-mongoose.
   <sup>
-   &#9733 32, pushed 144 days ago
+   &#9733 32, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -1177,7 +1289,7 @@
   </a>
   Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
   <sup>
-   &#9733 12, pushed 0 days ago
+   &#9733 12, pushed 124 days ago
   </sup>
  </li>
  <li>
@@ -1191,7 +1303,7 @@
   </a>
   - React, Relay, GraphQL project skeleton
   <sup>
-   &#9733 94, pushed 71 days ago
+   &#9733 94, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1200,7 +1312,7 @@
   </a>
   - A very simple starter for React Relay using Browserify.
   <sup>
-   &#9733 86, pushed 27 days ago
+   &#9733 86, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1209,7 +1321,7 @@
   </a>
   - an chat example showing Relay with routing and pagination.
   <sup>
-   &#9733 71, pushed 142 days ago
+   &#9733 71, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -1218,7 +1330,7 @@
   </a>
   - Relay TodoMVC with routing.
   <sup>
-   &#9733 73, pushed 13 days ago
+   &#9733 73, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1227,7 +1339,7 @@
   </a>
   - GraphQL server with Sqlite and Express
   <sup>
-   &#9733 23, pushed 221 days ago
+   &#9733 23, pushed 346 days ago
   </sup>
  </li>
  <li>
@@ -1239,7 +1351,7 @@
    koa-graphql
   </a>
   <sup>
-   &#9733 24, pushed 4 days ago
+   &#9733 24, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1248,7 +1360,7 @@
   </a>
   - Relay Starter Kit integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
   <sup>
-   &#9733 333, pushed 2 days ago
+   &#9733 333, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1257,7 +1369,7 @@
   </a>
   - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
   <sup>
-   &#9733 269, pushed 41 days ago
+   &#9733 269, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -1266,7 +1378,7 @@
   </a>
   - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
   <sup>
-   &#9733 9, pushed 61 days ago
+   &#9733 9, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -1275,7 +1387,7 @@
   </a>
   - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
   <sup>
-   &#9733 5, pushed 47 days ago
+   &#9733 5, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -1284,7 +1396,7 @@
   </a>
   - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
   <sup>
-   &#9733 3, pushed 116 days ago
+   &#9733 3, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -1300,6 +1412,12 @@
   - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
  </li>
  <li>
+  <a href="https://github.com/nnance/f8app-apollo">
+   f8-apollo
+  </a>
+  - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
+ </li>
+ <li>
   <a href="https://github.com/fbsamples/f8app">
    f8app
   </a>
@@ -1308,8 +1426,20 @@
    http://makeitopen.com
   </a>
   <sup>
-   &#9733 5055, pushed 3 days ago
+   &#9733 5055, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/reindexio/reindex-examples">
+   Reindex Examples
+  </a>
+  - Example projects for Reindex with using React Native and React.js for web.
+ </li>
+ <li>
+  <a href="https://julienvincent.github.io/modelizr/">
+   Modelizr Documentation
+  </a>
+  - Documentation and Usage Examples for modelizr
  </li>
 </ul>
 <p>
@@ -1326,7 +1456,7 @@
   </a>
   - Use graphql-ruby to expose a Rails app.
   <sup>
-   &#9733 80, pushed 4 days ago
+   &#9733 80, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1335,8 +1465,14 @@
   </a>
   - Barebones starter kit for Relay application with Rails GraphQL server.
   <sup>
-   &#9733 19, pushed 187 days ago
+   &#9733 19, pushed 311 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gauravtiwari/relay-rails-blog">
+   relay-rails-blog
+  </a>
+  - A graphql, relay and standard rails application powered demo weblog.
  </li>
 </ul>
 <p>
@@ -1353,7 +1489,7 @@
   </a>
   - Barebones starting point for a Relay application with Golang GraphQL server.
   <sup>
-   &#9733 30, pushed 63 days ago
+   &#9733 30, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -1362,7 +1498,7 @@
   </a>
   - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
   <sup>
-   &#9733 25, pushed 180 days ago
+   &#9733 25, pushed 305 days ago
   </sup>
  </li>
  <li>
@@ -1371,7 +1507,7 @@
   </a>
   - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
   <sup>
-   &#9733 15, pushed 167 days ago
+   &#9733 15, pushed 291 days ago
   </sup>
  </li>
 </ul>
@@ -1392,7 +1528,7 @@
    sangria
   </a>
   <sup>
-   &#9733 40, pushed 2 days ago
+   &#9733 40, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1401,7 +1537,7 @@
   </a>
   - An example of GraphQL server written with Play and sangria.
   <sup>
-   &#9733 19, pushed 2 days ago
+   &#9733 19, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1427,7 +1563,7 @@
   </a>
   .
   <sup>
-   &#9733 64, pushed 3 days ago
+   &#9733 64, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -1445,7 +1581,7 @@
   </a>
   - Example usage of Absinthe GraphQL
   <sup>
-   &#9733 6, pushed 42 days ago
+   &#9733 6, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -1462,7 +1598,7 @@
   </a>
   .
   <sup>
-   &#9733 38, pushed 37 days ago
+   &#9733 38, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -1544,6 +1680,26 @@
    GraphQL server tutorial for Node.js with SQL, MongoDB and REST
   </a>
  </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=ENqDNIp1Nd8">
+   JavaScript Air Episode 023: Transitioning from REST to GraphQL
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=ViXL0YQnioU">
+   GraphQL Future at react-europe 2016
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=etax3aEe2dA">
+   GraphQL at Facebook at react-europe 2016
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=z5rz3saDPJ8">
+   Building native mobile apps with GraphQL at react-europe 2016
+  </a>
+ </li>
 </ul>
 <p>
  <a name="blogs">
@@ -1573,12 +1729,17 @@
 </h2>
 <ul>
  <li>
+  <a href="http://gajus.com/blog/9/using-dataloader-to-batch-requests">
+   Using DataLoader to batch GraphQL requests
+  </a>
+ </li>
+ <li>
   <a href="https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html">
    Introducing Relay and GraphQL
   </a>
  </li>
  <li>
-  <a href="http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html">
+  <a href="https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html">
    GraphQL Introduction
   </a>
  </li>
@@ -1595,6 +1756,11 @@
  <li>
   <a href="https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/">
    GraphQL Overview - Getting Started with GraphQL and Node.js
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@guidsen/introduction-to-graphql-1d8011b80159">
+   4 Reasons you should try out GraphQL
   </a>
  </li>
  <li>
@@ -1682,7 +1848,7 @@
   </a>
   - An attempt to learn GraphQL.
   <sup>
-   &#9733 267, pushed 44 days ago
+   &#9733 267, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -1696,7 +1862,7 @@
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

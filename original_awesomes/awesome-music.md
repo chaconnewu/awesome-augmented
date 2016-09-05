@@ -22,6 +22,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Editing
 
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+* [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
+* [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 
 ## Audio Libraries
 
@@ -30,6 +32,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 * [Librosa](http://bmcfee.github.io/librosa/) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 * [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
+* [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
 * [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - a lightweight DSP library written in C.
@@ -62,6 +65,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [Abjad](http://projectabjad.org/) - a Python API for Formalized Score Control, based on Lilypond.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
+* [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
@@ -74,10 +78,12 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 * [Lyp](https://github.com/noteflakes/lyp) - the lilypond package manager - install packages and manage multiple versions of lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+* [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
+* [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
@@ -97,8 +103,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
+* [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
+* [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.

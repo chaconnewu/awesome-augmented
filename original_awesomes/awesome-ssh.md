@@ -78,7 +78,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * [tmux](https://tmux.github.io): Terminal multiplexer.
 * [clusterssh](https://github.com/duncs/clusterssh) - Cluster Admin Via SSH
-* [tmux-cssh](https://github.com/dennishafemann/tmux-cssh): TMUX with a "ClusterSSH"-like behaviour.
+* [tmux-cssh](https://github.com/dennishafemann/tmux-cssh): TMUX with a "ClusterSSH"-like behavior.
 * [tm](https://github.com/Ganneff/tm): tmux manager / helper
 * [i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
 * [ClusterSSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
@@ -89,6 +89,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [github-auth](https://github.com/chrishunt/github-auth) - SSH key management for GitHub users.
 * [cipherhub](https://github.com/substack/cipherhub) - Encrypt messages based on SSH public keys with easy import from GitHub
 * [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) - Guide to setup Slack notifications (can be modified for other services).
+* [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - A way to make sure your sshd port changes every 30 seconds
 
 ### SSH agent
 
@@ -135,6 +136,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - built-in SSH client and server library.
   * [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
   * [go-sshkit](https://github.com/shazow/go-sshkit) - Toolkit for building SSH servers and clients in Go.
+  * [Socker](https://github.com/cosiner/socker) - a library for Go to simplify the use of SSH
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - pure java, BSD licensed, SSH2 client library.
 * Javascript/Node.js
@@ -150,6 +152,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * [How to use SSH to Connect to a Remote Server](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)
 * [Best practices](https://blog.0xbadc0de.be/archives/300)
+* [Granting Temporary Access to Your Servers (Using Signed SSH Keys)](http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/)
 
 ### Security
 

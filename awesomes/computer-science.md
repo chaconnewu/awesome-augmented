@@ -12,6 +12,10 @@
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </img>
  </a>
+ <a href="https://github.com/open-source-society/computer-science">
+  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </img>
+ </a>
 </p>
 <h2>
  Contents
@@ -63,6 +67,11 @@
   </a>
  </li>
  <li>
+  <a href="#team">
+   Team
+  </a>
+ </li>
+ <li>
   <a href="#references">
    References
   </a>
@@ -91,7 +100,7 @@
  in the World.
 </p>
 <p>
- In our curriculum, we gave preference to MOOC (Massive Open Online Course) style courses because those courses were created with our style of learning in mind.
+ In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 </p>
 <h2>
  Becoming an OSS student
@@ -130,7 +139,7 @@
  the difference in your journey.
 </p>
 <p>
- The first one is a motivational video that shows a guy that went through the "MIT Challenge", that consists in learning the entire
+ The first one is a motivational video that shows a guy that went through the "MIT Challenge", which consists of learning the entire
  <strong>
   4-year
  </strong>
@@ -142,7 +151,7 @@
 </p>
 <ul>
  <li>
-  <a href="http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/">
+  <a href="https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/">
    MIT Challenge
   </a>
  </li>
@@ -333,14 +342,10 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!">
-  Introduction to Computer Science and Programming Using Python
+ <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!">
+  Introduction to Computer Science - CS50
  </a>
- | 9 weeks | 15 hours/week
- <a href="https://www.coursera.org/learn/build-a-computer">
-  From Nand to Tetris (Part 1)
- </a>
- | 6 weeks | 5-10 hours/week
+ | 12 weeks | 10-20 hours/week
 </p>
 <h3>
  Math (Mathematical Thinking)
@@ -460,10 +465,10 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/automata">
-  Automata
+ <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">
+  Intro to Theoretical Computer Science
  </a>
- | 6 weeks | 8-10 hours/week
+ | 9 weeks | 6 hours/week
 </p>
 <h3>
  Software Engineering
@@ -515,7 +520,7 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/comnetworks">
+ <a href="https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about">
   Computer Networks
  </a>
  | - | 4–12 hours/week
@@ -548,10 +553,10 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/matrix">
-  Coding the Matrix: Linear Algebra through Computer Science Applications
+ <a href="https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!">
+  Linear Algebra - Foundations to Frontiers
  </a>
- | 10 weeks | 7-10 hours/week
+ | 15 weeks | 8 hours/week
 </p>
 <h3>
  Cryptography
@@ -585,7 +590,7 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/compilers">
+ <a href="https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about">
   Compilers
  </a>
  | 9 weeks | 6-8 hours/week
@@ -596,10 +601,10 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/hetero">
-  Heterogeneous Parallel Programming
+ <a href="http://15418.courses.cs.cmu.edu/spring2016/home">
+  Parallel Computer Architecture and Programming
  </a>
- | 11 weeks | 8-10 hours/week
+ | 20 weeks | -
 </p>
 <h3>
  UX Design
@@ -651,10 +656,10 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/course/nlangp">
-  Natural Language Processing
+ <a href="https://www.coursera.org/learn/natural-language-processing">
+  Introduction to Natural Language Processing
  </a>
- | 10 weeks | 8-10 hours/week
+ | 12 weeks | -
 </p>
 <h3>
  Big Data
@@ -662,7 +667,7 @@
 <p>
  Courses | Duration | Effort
 :-- | :--: | :--:
- <a href="https://www.coursera.org/learn/intro-to-big-data">
+ <a href="https://www.coursera.org/learn/big-data-introduction">
   Introduction to Big Data
  </a>
  | 3 weeks | 5-6 hours/week
@@ -866,6 +871,26 @@
  file. Submit your project's information in that file after you conclude it.
 </p>
 <p>
+ Put the OSSU-CS badge in the README of your repository!
+ <a href="https://github.com/open-source-society/computer-science">
+  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"/>
+ </a>
+</p>
+<ul>
+ <li>
+  Markdown:
+  <code>
+   [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)
+  </code>
+ </li>
+ <li>
+  HTML:
+  <code>
+   <a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+  </code>
+ </li>
+</ul>
+<p>
  <strong>
   You can create this project alone or with other students!
  </strong>
@@ -880,7 +905,7 @@
   </a>
   : A list of practical projects that anyone can solve in any programming language.
   <sup>
-   &#9733 10475, pushed 41 days ago
+   &#9733 10475, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -889,7 +914,7 @@
   </a>
   : A curated list of applications specifications and implementations to practice new technologies, improve your portfolio and sharpen your skills.
   <sup>
-   &#9733 124, pushed 201 days ago
+   &#9733 124, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -908,7 +933,7 @@
   </a>
   .
   <sup>
-   &#9733 18, pushed 178 days ago
+   &#9733 18, pushed 303 days ago
   </sup>
  </li>
 </ul>
@@ -1104,7 +1129,7 @@
  </strong>
  :
  <code>
-  2.0.1
+  5.0.0
  </code>
 </p>
 <p>
@@ -1149,7 +1174,7 @@
  <strong>
   best options
  </strong>
- for those who want to become a Computer Scientist and/or a Software Engineer.
+ for those who want to become a Computer Scientist and/or a Software Engineer/Developer.
 </p>
 <h2>
  How to collaborate
@@ -1261,6 +1286,38 @@
    OSS University
   </strong>
   in our Linkedin profile.
+ </li>
+</ul>
+<h2>
+ Team
+</h2>
+<ul>
+ <li>
+  <strong>
+   Curriculum Founder
+  </strong>
+  :
+  <a href="https://github.com/ericdouglas">
+   Eric Douglas
+  </a>
+ </li>
+ <li>
+  <strong>
+   Curriculum Maintainer
+  </strong>
+  :
+  <a href="https://github.com/ericdouglas">
+   Eric Douglas
+  </a>
+ </li>
+ <li>
+  <strong>
+   Contributors
+  </strong>
+  :
+  <a href="https://github.com/open-source-society/computer-science/graphs/contributors">
+   contributors
+  </a>
  </li>
 </ul>
 <h2>

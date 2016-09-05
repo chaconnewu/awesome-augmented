@@ -5,7 +5,7 @@
  </a>
 </h1>
 <p>
- <a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">
+ <a href="/free-programming-books.md">
   View the English list
  </a>
 </p>
@@ -267,6 +267,12 @@
  <li>
   English:
   <a href="/free-podcasts-screencasts-en.md">
+   github
+  </a>
+ </li>
+ <li>
+  Portuguese (Brazil):
+  <a href="/free-podcasts-screencasts-pt_BR.md">
    github
   </a>
  </li>

@@ -22,7 +22,7 @@
   </a>
   .
   <sup>
-   &#9733 2308, pushed 13 days ago
+   &#9733 2308, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -33,7 +33,7 @@
    cjwirth/awesome-ios-ui
   </a>
   <sup>
-   &#9733 7875, pushed 5 days ago
+   &#9733 7875, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -829,7 +829,19 @@
                                              Apache License V2
                                             </a>
                                             |
-                                            <img src="/art/TriangleLabelView.jpg" width="49%"/>
+                                            <img src="/art/TriangleLabelView.jpg" width="49%">
+                                             <a href="https://github.com/google/flexbox-layout">
+                                              FlexboxLayout
+                                             </a>
+                                             |
+                                             <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                                              Apache License V2
+                                             </a>
+                                             |
+                                             <img src="/art/FlexboxLayout.gif" width="49%">
+                                              <img src="/art/FlexboxLayout2.gif" width="49%"/>
+                                             </img>
+                                            </img>
                                            </img>
                                           </img>
                                          </img>
@@ -1393,6 +1405,33 @@
                </a>
                |
                <img src="/art/SwipeSelector.gif" width="49%"/>
+               <a href="https://github.com/DevLight-Mobile-Agency/NavigationTabStrip">
+                NavigationTabStrip
+               </a>
+               |
+               <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                Apache License V2
+               </a>
+               &
+               <a href="http://opensource.org/licenses/MIT">
+                MIT
+               </a>
+               |
+               <img src="/art/NavigationTabStrip.gif" width="49%"/>
+               <a href="https://github.com/DevLight-Mobile-Agency/NavigationTabBar">
+                NavigationTabBar
+               </a>
+               |
+               <a href="https://www.apache.org/licenses/LICENSE-2.0">
+                Apache License V2
+               </a>
+               &
+               <a href="http://opensource.org/licenses/MIT">
+                MIT
+               </a>
+               |
+               <img src="/art/NavigationTabBar.gif" width="49%"/>
+               <img src="/art/NavigationTabBar2.gif" width="49%"/>
               </img>
              </img>
             </img>
@@ -2561,7 +2600,17 @@
            Apache License V2
           </a>
           |
-          <img src="/art/Trianglify.png" width="49%"/>
+          <img src="/art/Trianglify.png" width="49%">
+           <a href="https://github.com/ChadCSong/ShineButton">
+            ShineButton
+           </a>
+           |
+           <a href="http://opensource.org/licenses/MIT">
+            MIT
+           </a>
+           |
+           <img src="/art/ShineButton.gif" width="100%"/>
+          </img>
          </img>
         </img>
        </img>

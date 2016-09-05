@@ -42,7 +42,7 @@
      Discover Flask - Full Stack Web Development with Flask
     </a>
     <sup>
-     &#9733 2197, pushed 152 days ago
+     &#9733 2197, pushed 277 days ago
     </sup>
    </li>
    <li>
@@ -50,7 +50,7 @@
      Flaskr - Intro to Flask, Test Driven Development, and jQuery
     </a>
     <sup>
-     &#9733 681, pushed 89 days ago
+     &#9733 681, pushed 213 days ago
     </sup>
    </li>
    <li>
@@ -59,8 +59,13 @@
     </a>
    </li>
    <li>
-    <a href="http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/">
+    <a href="https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/">
      Flask-SQLAlchemy Tutorials and Examples
+    </a>
+   </li>
+   <li>
+    <a href="https://realpython.com/blog/python/flask-by-example-part-1-project-setup/">
+     Flask by Example
     </a>
    </li>
   </ul>
@@ -190,7 +195,7 @@
     </a>
     - guitar tab
     <sup>
-     &#9733 18, pushed 389 days ago
+     &#9733 18, pushed 514 days ago
     </sup>
    </li>
    <li>
@@ -199,7 +204,7 @@
     </a>
     - ~~python-china.org~~
     <sup>
-     &#9733 909, pushed 497 days ago
+     &#9733 909, pushed 622 days ago
     </sup>
    </li>
    <li>
@@ -211,7 +216,7 @@
      Python-China
     </a>
     <sup>
-     &#9733 79, pushed 15 days ago
+     &#9733 79, pushed 139 days ago
     </sup>
    </li>
    <li>
@@ -219,7 +224,7 @@
      motiky
     </a>
     <sup>
-     &#9733 28, pushed 1042 days ago
+     &#9733 28, pushed 1167 days ago
     </sup>
    </li>
    <li>
@@ -228,7 +233,7 @@
     </a>
     - a list service called missing
     <sup>
-     &#9733 7, pushed 1193 days ago
+     &#9733 7, pushed 1318 days ago
     </sup>
    </li>
    <li>
@@ -236,7 +241,7 @@
      thenewsmeme.com
     </a>
     <sup>
-     &#9733 68, pushed 1992 days ago
+     &#9733 68, pushed 2116 days ago
     </sup>
    </li>
    <li>
@@ -245,7 +250,7 @@
     </a>
     - Example Flask application illustrating common practices
     <sup>
-     &#9733 967, pushed 48 days ago
+     &#9733 967, pushed 173 days ago
     </sup>
    </li>
    <li>
@@ -254,7 +259,7 @@
     </a>
     - flask team blog
     <sup>
-     &#9733 410, pushed 1499 days ago
+     &#9733 410, pushed 1623 days ago
     </sup>
    </li>
    <li>
@@ -262,7 +267,7 @@
      thepast.me
     </a>
     <sup>
-     &#9733 703, pushed 295 days ago
+     &#9733 703, pushed 419 days ago
     </sup>
    </li>
    <li>
@@ -271,7 +276,7 @@
     </a>
     - another redis monitor by using flask, angular, socket.io
     <sup>
-     &#9733 300, pushed 73 days ago
+     &#9733 300, pushed 198 days ago
     </sup>
    </li>
    <li>
@@ -280,7 +285,7 @@
     </a>
     - a simple blog system based on flask
     <sup>
-     &#9733 87, pushed 360 days ago
+     &#9733 87, pushed 484 days ago
     </sup>
    </li>
    <li>
@@ -289,17 +294,14 @@
     </a>
     - a clean blog system based on flask and mongoengine
     <sup>
-     &#9733 51, pushed 8 days ago
+     &#9733 51, pushed 133 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/rochacbruno/quokka">
+    <a href="https://github.com/quokkaproject/quokka">
      Quokka CMS
     </a>
     - CMS made with Flask and MongoDB
-    <sup>
-     &#9733 1259, pushed 7 days ago
-    </sup>
    </li>
    <li>
     <a href="https://github.com/lzyy/chat">
@@ -307,7 +309,7 @@
     </a>
     - a live chat built with python (flask + gevent + apscheduler) + redis
     <sup>
-     &#9733 245, pushed 1646 days ago
+     &#9733 245, pushed 1771 days ago
     </sup>
    </li>
    <li>
@@ -316,7 +318,7 @@
     </a>
     - Flask and Angular.js Chat Application using Socket.io
     <sup>
-     &#9733 130, pushed 242 days ago
+     &#9733 130, pushed 367 days ago
     </sup>
    </li>
    <li>
@@ -325,7 +327,7 @@
     </a>
     - Freezes a Flask application into a set of static files
     <sup>
-     &#9733 343, pushed 139 days ago
+     &#9733 343, pushed 263 days ago
     </sup>
    </li>
    <li>
@@ -334,79 +336,152 @@
     </a>
     - A small timeseries transformation API built on Flask and Pandas
     <sup>
-     &#9733 55, pushed 875 days ago
+     &#9733 55, pushed 1000 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/skylines-project/skylines">
+     Skylines
+    </a>
+    - Live tracking, flight database and competition framework
+   </li>
+   <li>
+    <a href="https://github.com/airbnb/airflow">
+     airflow
+    </a>
+    - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+    <sup>
+     &#9733 2594, pushed 127 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/google/timesketch">
+     timesketch
+    </a>
+    - Collaborative forensics timeline analysis
+    <sup>
+     &#9733 320, pushed 168 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/dropbox/changes">
+     changes
+    </a>
+    - A dashboard for your code. A build system.
+   </li>
+   <li>
+    <a href="https://github.com/Netflix/security_monkey.git">
+     security
+     <em>
+      monkey
+     </em>
+    </a>
+    - monitors policy changes and alerts on insecure configurations in an AWS account.
+   </li>
+   <li>
+    <a href="https://github.com/freedomofpress/securedrop">
+     securedrop
+    </a>
+    - an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+   </li>
+   <li>
+    <a href="https://github.com/nylas/sync-engine">
+     sync
+    </a>
+    <sup>
+     &#9733 2897, pushed 129 days ago
     </sup>
    </li>
   </ul>
- </li>
- <li>
-  App template/bootstrap/boilerplate
-  <ul>
-   <li>
-    <a href="https://github.com/imwilsonxu/fbone">
-     fbone
-    </a>
-   </li>
-   <li>
-    <a href="https://github.com/notedit/flask-base">
-     flask-base
-    </a>
-    <sup>
-     &#9733 95, pushed 1155 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/sloria/cookiecutter-flask">
-     cookiecutter-flask
-    </a>
-    <sup>
-     &#9733 865, pushed 2 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/tony/cookiecutter-flask-pythonic">
-     cookiecutter-flask-pythonic
-    </a>
-    <sup>
-     &#9733 0, pushed 358 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/JackStouffer/Flask-Foundation">
-     Flask-Foundation
-    </a>
-    <sup>
-     &#9733 840, pushed 71 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/italomaia/flask-empty">
-     Flask-Empty
-    </a>
-    <sup>
-     &#9733 201, pushed 24 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/alexandre/flask-rest-template">
-     flask-rest-template
-    </a>
-    <sup>
-     &#9733 18, pushed 189 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://gae-init.appspot.com">
-     gae-init
-    </a>
-    - Flask boilerplate running on Google App Engine
-   </li>
-  </ul>
-  <sup>
-   &#9733 1157, pushed 2 days ago
-  </sup>
  </li>
 </ul>
+engine
+- IMAP/SMTP sync system with modern APIs
+<li>
+ <a href="https://github.com/AamAadmiParty/cleansweep">
+  cleansweep
+ </a>
+ - Volunteer & Campaign Management System
+</li>
+<li>
+ <a href="https://github.com/indico/indico">
+  indico
+ </a>
+ - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
+</li>
+<li>
+ App template/bootstrap/boilerplate
+ <ul>
+  <li>
+   <a href="https://github.com/imwilsonxu/fbone">
+    fbone
+   </a>
+  </li>
+  <li>
+   <a href="https://github.com/notedit/flask-base">
+    flask-base
+   </a>
+   <sup>
+    &#9733 95, pushed 1280 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://github.com/sloria/cookiecutter-flask">
+    cookiecutter-flask
+   </a>
+   <sup>
+    &#9733 865, pushed 127 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://github.com/tony/cookiecutter-flask-pythonic">
+    cookiecutter-flask-pythonic
+   </a>
+   <sup>
+    &#9733 0, pushed 483 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://github.com/JackStouffer/Flask-Foundation">
+    Flask-Foundation
+   </a>
+   <sup>
+    &#9733 840, pushed 195 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://github.com/italomaia/flask-empty">
+    Flask-Empty
+   </a>
+   <sup>
+    &#9733 201, pushed 148 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://github.com/alexandre/flask-rest-template">
+    flask-rest-template
+   </a>
+   <sup>
+    &#9733 18, pushed 314 days ago
+   </sup>
+  </li>
+  <li>
+   <a href="https://gae-init.appspot.com">
+    gae-init
+   </a>
+   - Flask boilerplate running on Google App Engine
+  </li>
+  <li>
+   <a href="https://github.com/kkinder/GAEStarterKit">
+    GAE Starter Kit
+   </a>
+   - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
+  </li>
+ </ul>
+ <sup>
+  &#9733 1157, pushed 126 days ago
+ </sup>
+</li>
 <h2>
  Plugins
 </h2>
@@ -415,10 +490,19 @@
   Framework
   <ul>
    <li>
+    <a href="https://github.com/zalando/connexion">
+     Connexion
+    </a>
+    - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+   </li>
+   <li>
     <a href="https://github.com/semirook/flask-kit">
      Flask Kit
     </a>
     - Flexible microkit for Flask microframework
+    <sup>
+     &#9733 184, pushed 384 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/coleifer/flask-peewee">
@@ -426,7 +510,7 @@
     </a>
     - flask integration for peewee, including admin, authentication, rest api and more
     <sup>
-     &#9733 493, pushed 164 days ago
+     &#9733 493, pushed 288 days ago
     </sup>
    </li>
    <li>
@@ -435,7 +519,7 @@
     </a>
     - Restful API framework wrapped around MongoEngine
     <sup>
-     &#9733 358, pushed 2 days ago
+     &#9733 358, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -444,7 +528,7 @@
     </a>
     - REST API framework powered by Flask, MongoDB and good intentions
     <sup>
-     &#9733 3188, pushed 2 days ago
+     &#9733 3188, pushed 127 days ago
     </sup>
    </li>
    <li>
@@ -453,7 +537,7 @@
     </a>
     - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
     <sup>
-     &#9733 626, pushed 2 days ago
+     &#9733 626, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -462,7 +546,7 @@
     </a>
     - Simple framework for creating REST APIs
     <sup>
-     &#9733 1954, pushed 7 days ago
+     &#9733 1954, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -471,7 +555,7 @@
     </a>
     - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful.
     <sup>
-     &#9733 157, pushed 4 days ago
+     &#9733 157, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -480,7 +564,7 @@
     </a>
     - RESTful API framework for Flask and SQLAlchemy
     <sup>
-     &#9733 331, pushed 21 days ago
+     &#9733 331, pushed 146 days ago
     </sup>
    </li>
    <li>
@@ -489,13 +573,28 @@
     </a>
     - A Flask-based Framework for the Next Decade
     <sup>
-     &#9733 149, pushed 4 days ago
+     &#9733 149, pushed 128 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/rochacbruno/flasgger">
+     Flasgger
+    </a>
+    - Create API documentation for Flask views using Swagger 2.0 specs
+    <sup>
+     &#9733 75, pushed 150 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/rantav/flask-restful-swagger">
+     flask-restful-swagger
+    </a>
+    - A wrapper for flask-restful which enables swagger support
+    <sup>
+     &#9733 257, pushed 154 days ago
     </sup>
    </li>
   </ul>
-  <sup>
-   &#9733 184, pushed 259 days ago
-  </sup>
  </li>
  <li>
   Admin
@@ -512,12 +611,12 @@
     </a>
     - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
     <sup>
-     &#9733 446, pushed 7 days ago
+     &#9733 446, pushed 132 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1673, pushed 2 days ago
+   &#9733 1673, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -535,7 +634,7 @@
     </a>
     - Flask user session management
     <sup>
-     &#9733 972, pushed 33 days ago
+     &#9733 972, pushed 158 days ago
     </sup>
    </li>
    <li>
@@ -544,7 +643,7 @@
     </a>
     - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
     <sup>
-     &#9733 671, pushed 7 days ago
+     &#9733 671, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -553,7 +652,7 @@
     </a>
     - Google Federated Logins for Flask
     <sup>
-     &#9733 56, pushed 89 days ago
+     &#9733 56, pushed 214 days ago
     </sup>
    </li>
    <li>
@@ -562,7 +661,7 @@
     </a>
     - Flask-OpenID adds openid support to flask applications
     <sup>
-     &#9733 149, pushed 232 days ago
+     &#9733 149, pushed 357 days ago
     </sup>
    </li>
    <li>
@@ -571,7 +670,7 @@
     </a>
     - OAuth Provider Integration for Flask-Security
     <sup>
-     &#9733 154, pushed 64 days ago
+     &#9733 154, pushed 189 days ago
     </sup>
    </li>
    <li>
@@ -580,14 +679,17 @@
     </a>
     - OAuthlib implementation for Flask
     <sup>
-     &#9733 690, pushed 2 days ago
+     &#9733 690, pushed 126 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/cenkalti/github-flask">
+    <a href="https://github.com/cenk/github-flask">
      GitHub-Flask
     </a>
     - Flask extension for authenticating users with GitHub and making requests to the API
+    <sup>
+     &#9733 133, pushed 131 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/omab/python-social-auth">
@@ -595,7 +697,7 @@
     </a>
     - Social auth made simple
     <sup>
-     &#9733 2237, pushed 4 days ago
+     &#9733 2237, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -604,7 +706,7 @@
     </a>
     - OAuth OOP way
     <sup>
-     &#9733 36, pushed 13 days ago
+     &#9733 36, pushed 138 days ago
     </sup>
    </li>
    <li>
@@ -613,7 +715,7 @@
     </a>
     - OAuth Support for Flask
     <sup>
-     &#9733 402, pushed 67 days ago
+     &#9733 402, pushed 192 days ago
     </sup>
    </li>
    <li>
@@ -622,7 +724,7 @@
     </a>
     - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
     <sup>
-     &#9733 187, pushed 12 days ago
+     &#9733 187, pushed 137 days ago
     </sup>
    </li>
    <li>
@@ -631,12 +733,12 @@
     </a>
     - Customizable user account management for Flask
     <sup>
-     &#9733 367, pushed 13 days ago
+     &#9733 367, pushed 138 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 679, pushed 8 days ago
+   &#9733 679, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -654,7 +756,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 5, pushed 30 days ago
+   &#9733 5, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -672,7 +774,7 @@
     </a>
     - PyMongo support for Flask applications
     <sup>
-     &#9733 239, pushed 99 days ago
+     &#9733 239, pushed 224 days ago
     </sup>
    </li>
    <li>
@@ -681,7 +783,7 @@
     </a>
     - Flask support for MongoDB using MongoAlchemy
     <sup>
-     &#9733 108, pushed 329 days ago
+     &#9733 108, pushed 453 days ago
     </sup>
    </li>
    <li>
@@ -690,7 +792,7 @@
     </a>
     - Flask-MongoKit simplifies the use of MongoKit (a powerful MongoDB ORM for Python) within Flask applications
     <sup>
-     &#9733 59, pushed 756 days ago
+     &#9733 59, pushed 881 days ago
     </sup>
    </li>
    <li>
@@ -699,7 +801,7 @@
     </a>
     - Adds SQLAlchemy support to Flask
     <sup>
-     &#9733 1227, pushed 2 days ago
+     &#9733 1227, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -708,7 +810,7 @@
     </a>
     - Redis support for Flask. Not much else to say.
     <sup>
-     &#9733 84, pushed 141 days ago
+     &#9733 84, pushed 266 days ago
     </sup>
    </li>
    <li>
@@ -717,7 +819,7 @@
     </a>
     - Simple as dead support of Redis database for Flask apps
     <sup>
-     &#9733 44, pushed 305 days ago
+     &#9733 44, pushed 430 days ago
     </sup>
    </li>
    <li>
@@ -726,7 +828,7 @@
     </a>
     - Flask extension that provides integration with CouchDBKit
     <sup>
-     &#9733 19, pushed 1484 days ago
+     &#9733 19, pushed 1608 days ago
     </sup>
    </li>
    <li>
@@ -735,7 +837,7 @@
     </a>
     - Flask extension for OrientDB Graph&Document Database
     <sup>
-     &#9733 7, pushed 362 days ago
+     &#9733 7, pushed 486 days ago
     </sup>
    </li>
    <li>
@@ -744,7 +846,7 @@
     </a>
     - Z39.50 integration for Flask applications.
     <sup>
-     &#9733 0, pushed 92 days ago
+     &#9733 0, pushed 217 days ago
     </sup>
    </li>
    <li>
@@ -757,12 +859,12 @@
     </a>
     support to Flask applications.
     <sup>
-     &#9733 16, pushed 48 days ago
+     &#9733 16, pushed 172 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 337, pushed 5 days ago
+   &#9733 337, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -780,12 +882,12 @@
     </a>
     - A Flask Extension to provide Alembic integration with Flask
     <sup>
-     &#9733 50, pushed 1184 days ago
+     &#9733 50, pushed 1309 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 439, pushed 26 days ago
+   &#9733 439, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -799,7 +901,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 94, pushed 23 days ago
+   &#9733 94, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -817,7 +919,7 @@
     </a>
     - Automatic Flask cache configuration on Heroku
     <sup>
-     &#9733 31, pushed 317 days ago
+     &#9733 31, pushed 442 days ago
     </sup>
    </li>
    <li>
@@ -828,7 +930,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 41, pushed 112 days ago
+   &#9733 41, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -846,7 +948,7 @@
     </a>
     - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
     <sup>
-     &#9733 74, pushed 45 days ago
+     &#9733 74, pushed 170 days ago
     </sup>
    </li>
    <li>
@@ -855,7 +957,7 @@
     </a>
     - A serialization/deserialization/validation library for strings, mappings and lists
     <sup>
-     &#9733 239, pushed 10 days ago
+     &#9733 239, pushed 135 days ago
     </sup>
    </li>
    <li>
@@ -864,12 +966,12 @@
     </a>
     - Data validator for SQLAlchemy using ORM events
     <sup>
-     &#9733 3, pushed 40 days ago
+     &#9733 3, pushed 165 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 438, pushed 2 days ago
+   &#9733 438, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -894,7 +996,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 192, pushed 1 days ago
+   &#9733 192, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -912,12 +1014,12 @@
     </a>
     - Full-text searching for Flask-SQLAlchemy (Postgres only)
     <sup>
-     &#9733 67, pushed 19 days ago
+     &#9733 67, pushed 144 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 5, pushed 141 days ago
+   &#9733 5, pushed 266 days ago
   </sup>
  </li>
  <li>
@@ -931,7 +1033,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 114, pushed 2 days ago
+   &#9733 114, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -951,7 +1053,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 108, pushed 249 days ago
+   &#9733 108, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -969,7 +1071,7 @@
     </a>
     - not a flask plugin now but you can integrate easily
     <sup>
-     &#9733 464, pushed 182 days ago
+     &#9733 464, pushed 307 days ago
     </sup>
    </li>
    <li>
@@ -978,7 +1080,7 @@
     </a>
     - PayPal integration example with Flask
     <sup>
-     &#9733 34, pushed 1219 days ago
+     &#9733 34, pushed 1344 days ago
     </sup>
    </li>
    <li>
@@ -987,7 +1089,7 @@
     </a>
     - A Flask wrapper for WePay's Python API
     <sup>
-     &#9733 5, pushed 1641 days ago
+     &#9733 5, pushed 1766 days ago
     </sup>
    </li>
   </ul>
@@ -1000,14 +1102,14 @@
      Raven
     </a>
     - Raven is a Python client for
-    <a href="https://www.getsentry.com/">
+    <a href="https://www.getsentry.com/welcome/">
      Sentry
     </a>
     .
    </li>
   </ul>
   <sup>
-   &#9733 942, pushed 4 days ago
+   &#9733 942, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1025,7 +1127,7 @@
     </a>
     - A Flask extention that provide user navigation tracking
     <sup>
-     &#9733 15, pushed 1612 days ago
+     &#9733 15, pushed 1737 days ago
     </sup>
    </li>
    <li>
@@ -1034,7 +1136,7 @@
     </a>
     - StatHat extension for Flask
     <sup>
-     &#9733 8, pushed 642 days ago
+     &#9733 8, pushed 767 days ago
     </sup>
    </li>
    <li>
@@ -1043,7 +1145,7 @@
     </a>
     - Metrics for Python
     <sup>
-     &#9733 853, pushed 34 days ago
+     &#9733 853, pushed 158 days ago
     </sup>
    </li>
    <li>
@@ -1052,7 +1154,7 @@
     </a>
     - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
     <sup>
-     &#9733 26, pushed 231 days ago
+     &#9733 26, pushed 356 days ago
     </sup>
    </li>
    <li>
@@ -1061,12 +1163,12 @@
     </a>
     - Analytics snippets generator extension for the Flask framework.
     <sup>
-     &#9733 28, pushed 3 days ago
+     &#9733 28, pushed 127 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 22, pushed 261 days ago
+   &#9733 22, pushed 386 days ago
   </sup>
  </li>
  <li>
@@ -1084,7 +1186,7 @@
     </a>
     - Dropbox Python SDK support for Flask applications
     <sup>
-     &#9733 50, pushed 1049 days ago
+     &#9733 50, pushed 1174 days ago
     </sup>
    </li>
    <li>
@@ -1093,7 +1195,7 @@
     </a>
     - Heroku environment variable configurations for Flask
     <sup>
-     &#9733 191, pushed 40 days ago
+     &#9733 191, pushed 165 days ago
     </sup>
    </li>
    <li>
@@ -1102,14 +1204,17 @@
     </a>
     - Small and simple gravatar usage in Flask
     <sup>
-     &#9733 53, pushed 407 days ago
+     &#9733 53, pushed 531 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/SimonSapin/Flask-WeasyPrint">
+    <a href="https://github.com/Kozea/Flask-WeasyPrint">
      Flask-WeasyPrint
     </a>
     - Make PDF in your Flask app with WeasyPrint
+    <sup>
+     &#9733 52, pushed 224 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/whtsky/Flask-WeRoBot">
@@ -1117,7 +1222,7 @@
     </a>
     - Adds WeRoBot support to Flask
     <sup>
-     &#9733 21, pushed 50 days ago
+     &#9733 21, pushed 175 days ago
     </sup>
    </li>
    <li>
@@ -1126,7 +1231,7 @@
     </a>
     - Pusher integration for Flask
     <sup>
-     &#9733 2, pushed 360 days ago
+     &#9733 2, pushed 484 days ago
     </sup>
    </li>
    <li>
@@ -1135,12 +1240,12 @@
     </a>
     - Pusher support for your Flask application
     <sup>
-     &#9733 6, pushed 268 days ago
+     &#9733 6, pushed 393 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 147, pushed 78 days ago
+   &#9733 147, pushed 203 days ago
   </sup>
  </li>
  <li>
@@ -1158,7 +1263,7 @@
     </a>
     - Genshi templating for Flask
     <sup>
-     &#9733 14, pushed 1650 days ago
+     &#9733 14, pushed 1775 days ago
     </sup>
    </li>
    <li>
@@ -1167,7 +1272,7 @@
     </a>
     - Provides support for Mako Templates in Flask
     <sup>
-     &#9733 25, pushed 78 days ago
+     &#9733 25, pushed 203 days ago
     </sup>
    </li>
    <li>
@@ -1176,7 +1281,7 @@
     </a>
     - Markdown jinja2 extension for Flask
     <sup>
-     &#9733 81, pushed 304 days ago
+     &#9733 81, pushed 429 days ago
     </sup>
    </li>
    <li>
@@ -1185,7 +1290,7 @@
     </a>
     - An extension for the Flask microframework that adds Sijax support
     <sup>
-     &#9733 74, pushed 460 days ago
+     &#9733 74, pushed 585 days ago
     </sup>
    </li>
    <li>
@@ -1194,7 +1299,7 @@
     </a>
     - simple self-documenting APIs with flask
     <sup>
-     &#9733 134, pushed 92 days ago
+     &#9733 134, pushed 216 days ago
     </sup>
    </li>
    <li>
@@ -1203,7 +1308,7 @@
     </a>
     - Flask webassets integration
     <sup>
-     &#9733 262, pushed 141 days ago
+     &#9733 262, pushed 265 days ago
     </sup>
    </li>
    <li>
@@ -1212,7 +1317,7 @@
     </a>
     - Better asset management for Flask
     <sup>
-     &#9733 20, pushed 705 days ago
+     &#9733 20, pushed 830 days ago
     </sup>
    </li>
    <li>
@@ -1221,7 +1326,7 @@
     </a>
     Flask + marshmallow for beautiful APIs
     <sup>
-     &#9733 140, pushed 3 days ago
+     &#9733 140, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -1230,7 +1335,7 @@
     </a>
     - A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets
     <sup>
-     &#9733 36, pushed 4 days ago
+     &#9733 36, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -1243,7 +1348,7 @@
     </a>
     - flask's util in javascript. such as url_for etc
     <sup>
-     &#9733 24, pushed 403 days ago
+     &#9733 24, pushed 528 days ago
     </sup>
    </li>
    <li>
@@ -1252,7 +1357,7 @@
     </a>
     - Seamlessly serve your static assets of your Flask app from Amazon S3
     <sup>
-     &#9733 86, pushed 5 days ago
+     &#9733 86, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -1261,7 +1366,7 @@
     </a>
     - Force SSL on your Flask app
     <sup>
-     &#9733 305, pushed 78 days ago
+     &#9733 305, pushed 203 days ago
     </sup>
    </li>
    <li>
@@ -1270,7 +1375,7 @@
     </a>
     - Gzip flask responses
     <sup>
-     &#9733 44, pushed 83 days ago
+     &#9733 44, pushed 208 days ago
     </sup>
    </li>
    <li>
@@ -1279,7 +1384,7 @@
     </a>
     - Flask html minifier
     <sup>
-     &#9733 5, pushed 34 days ago
+     &#9733 5, pushed 159 days ago
     </sup>
    </li>
    <li>
@@ -1288,12 +1393,12 @@
     </a>
     - Flask extension that provides integration with Azure Storage
     <sup>
-     &#9733 0, pushed 45 days ago
+     &#9733 0, pushed 170 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 25, pushed 966 days ago
+   &#9733 25, pushed 1090 days ago
   </sup>
  </li>
  <li>
@@ -1311,7 +1416,7 @@
     </a>
     - Unittest extensions for Flask
     <sup>
-     &#9733 222, pushed 74 days ago
+     &#9733 222, pushed 199 days ago
     </sup>
    </li>
    <li>
@@ -1324,7 +1429,7 @@
     </a>
     - Line Profiler Panel for Flask Debug Toolbar
     <sup>
-     &#9733 38, pushed 927 days ago
+     &#9733 38, pushed 1052 days ago
     </sup>
    </li>
    <li>
@@ -1333,14 +1438,17 @@
     </a>
     - A port of the django debug toolbar to flask
     <sup>
-     &#9733 455, pushed 244 days ago
+     &#9733 455, pushed 369 days ago
     </sup>
    </li>
    <li>
-    <a href="https://github.com/cenkalti/flask-debug-toolbar-mongo">
+    <a href="https://github.com/cenk/flask-debug-toolbar-mongo">
      flask-debug-toolbar-mongo
     </a>
     - MongoDB panel for the Flask Debug Toolbar
+    <sup>
+     &#9733 2, pushed 451 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/vitalk/pytest-flask">
@@ -1348,7 +1456,7 @@
     </a>
     - A set of pytest fixtures to test Flask applications
     <sup>
-     &#9733 53, pushed 39 days ago
+     &#9733 53, pushed 164 days ago
     </sup>
    </li>
    <li>
@@ -1357,30 +1465,12 @@
     </a>
     - Generate a Postman collection from your Flask application
     <sup>
-     &#9733 36, pushed 13 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/rochacbruno/flasgger">
-     Flasgger
-    </a>
-    - Create API documentation for Flask views using Swagger 2.0 specs
-    <sup>
-     &#9733 75, pushed 25 days ago
-    </sup>
-   </li>
-   <li>
-    <a href="https://github.com/rantav/flask-restful-swagger">
-     flask-restful-swagger
-    </a>
-    - A wrapper for flask-restful which enables swagger support
-    <sup>
-     &#9733 257, pushed 29 days ago
+     &#9733 36, pushed 138 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 194, pushed 15 days ago
+   &#9733 194, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1398,7 +1488,7 @@
     </a>
     - A/B testing for your Flask application
     <sup>
-     &#9733 73, pushed 285 days ago
+     &#9733 73, pushed 410 days ago
     </sup>
    </li>
    <li>
@@ -1407,7 +1497,7 @@
     </a>
     - A basic JSON-RPC implementation for your Flask-powered sites
     <sup>
-     &#9733 73, pushed 103 days ago
+     &#9733 73, pushed 228 days ago
     </sup>
    </li>
    <li>
@@ -1416,7 +1506,7 @@
     </a>
     - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
     <sup>
-     &#9733 135, pushed 211 days ago
+     &#9733 135, pushed 335 days ago
     </sup>
    </li>
    <li>
@@ -1425,7 +1515,7 @@
     </a>
     - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
     <sup>
-     &#9733 535, pushed 17 days ago
+     &#9733 535, pushed 142 days ago
     </sup>
    </li>
    <li>
@@ -1434,7 +1524,7 @@
     </a>
     - Mixer is application to generate instances of Django or SQLAlchemy models
     <sup>
-     &#9733 299, pushed 15 days ago
+     &#9733 299, pushed 139 days ago
     </sup>
    </li>
    <li>
@@ -1443,7 +1533,7 @@
     </a>
     - Predefined help libraries for Flask
     <sup>
-     &#9733 0, pushed 19 days ago
+     &#9733 0, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -1452,7 +1542,7 @@
     </a>
     - Python module for RESTful HTTP Content Negotiation
     <sup>
-     &#9733 159, pushed 70 days ago
+     &#9733 159, pushed 195 days ago
     </sup>
    </li>
    <li>
@@ -1461,7 +1551,7 @@
     </a>
     - Class based views for Flask
     <sup>
-     &#9733 406, pushed 73 days ago
+     &#9733 406, pushed 198 days ago
     </sup>
    </li>
    <li>
@@ -1470,7 +1560,7 @@
     </a>
     - Identity management for Flask applications
     <sup>
-     &#9733 263, pushed 315 days ago
+     &#9733 263, pushed 440 days ago
     </sup>
    </li>
    <li>
@@ -1479,7 +1569,7 @@
     </a>
     - Short URL generator for Flask
     <sup>
-     &#9733 17, pushed 76 days ago
+     &#9733 17, pushed 200 days ago
     </sup>
    </li>
    <li>
@@ -1488,7 +1578,7 @@
     </a>
     - A Flask extension that enables or disables features based on configuration
     <sup>
-     &#9733 71, pushed 89 days ago
+     &#9733 71, pushed 214 days ago
     </sup>
    </li>
    <li>
@@ -1497,7 +1587,7 @@
     </a>
     - UUID url converter for Flask routes
     <sup>
-     &#9733 19, pushed 958 days ago
+     &#9733 19, pushed 1083 days ago
     </sup>
    </li>
    <li>
@@ -1506,7 +1596,7 @@
     </a>
     - Regex Converter for Flask URL Routes
     <sup>
-     &#9733 33, pushed 1031 days ago
+     &#9733 33, pushed 1155 days ago
     </sup>
    </li>
    <li>
@@ -1515,7 +1605,7 @@
     </a>
     - Socket.IO integration for Flask applications
     <sup>
-     &#9733 968, pushed 53 days ago
+     &#9733 968, pushed 178 days ago
     </sup>
    </li>
    <li>
@@ -1524,7 +1614,7 @@
     </a>
     - Formatting of dates and times in Flask templates using moment.js
     <sup>
-     &#9733 82, pushed 71 days ago
+     &#9733 82, pushed 196 days ago
     </sup>
    </li>
    <li>
@@ -1533,7 +1623,7 @@
     </a>
     - Pagination support for Flask
     <sup>
-     &#9733 79, pushed 143 days ago
+     &#9733 79, pushed 268 days ago
     </sup>
    </li>
    <li>
@@ -1542,7 +1632,7 @@
     </a>
     - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
     <sup>
-     &#9733 168, pushed 2 days ago
+     &#9733 168, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -1551,12 +1641,12 @@
     </a>
     - A living Styleguide for your Flask application
     <sup>
-     &#9733 24, pushed 41 days ago
+     &#9733 24, pushed 166 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 400, pushed 20 days ago
+   &#9733 400, pushed 144 days ago
   </sup>
  </li>
 </ul>

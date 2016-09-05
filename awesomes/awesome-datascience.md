@@ -83,6 +83,11 @@
    Other Awesome Lists
   </a>
  </li>
+ <li>
+  <a href="#comics">
+   Comics
+  </a>
+ </li>
 </ul>
 <h2>
  Motivation
@@ -303,11 +308,11 @@
    A list of colleges and universities offering degrees in data science.
   </a>
   <sup>
-   &#9733 36, pushed 5 days ago
+   &#9733 36, pushed 129 days ago
   </sup>
  </li>
  <li>
-  <a href="datascience.berkeley.edu">
+  <a href="https://datascience.berkeley.edu/">
    Data Science Degree @ Berkeley
   </a>
  </li>
@@ -327,8 +332,18 @@
   </a>
  </li>
  <li>
+  <a href="https://cisonline.bu.edu/">
+   MS in Computer Information Systems @ Boston University
+  </a>
+ </li>
+ <li>
   <a href="http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/">
    MS in Business Analytics @ ASU Online
+  </a>
+ </li>
+ <li>
+  <a href="https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/">
+   Data Science Engineer @ BTH
   </a>
  </li>
 </ul>
@@ -416,7 +431,7 @@
    Data Science Specialization
   </a>
   <sup>
-   &#9733 2088, pushed 2 days ago
+   &#9733 2088, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -638,6 +653,11 @@
   </a>
  </li>
  <li>
+  <a href="https://data1850.nz/">
+   New Zealand Institute of Economic Research – Data1850
+  </a>
+ </li>
+ <li>
   <a href="http://www.nyu.edu/projects/politicsdatalab/data_classic_sources.html">
    Dept. of Politics @ New York University
   </a>
@@ -647,7 +667,7 @@
    Open Data Sources
   </a>
   <sup>
-   &#9733 136, pushed 121 days ago
+   &#9733 136, pushed 245 days ago
   </sup>
  </li>
  <li>
@@ -699,11 +719,6 @@
  <li>
   <a href="http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know">
    IBM Blog abour open data
-  </a>
- </li>
- <li>
-  <a href="https://www.google.com/publicdata">
-   Google Public Data
   </a>
  </li>
  <li>
@@ -1162,6 +1177,12 @@ We are more than 3,190 data scientists and data geeks in our community.
   </a>
   - A blog with resources for data science learners
  </li>
+ <li>
+  <a href="http://www.dataschool.io/">
+   Data School
+  </a>
+  - Data science tutorials for beginners!
+ </li>
 </ul>
 <h2>
  Facebook Accounts
@@ -1270,6 +1291,11 @@ We are more than 3,190 data scientists and data geeks in our community.
  <li>
   <a href="https://www.facebook.com/groups/veribilimiistanbul/">
    Veri Bilimi Istanbul
+  </a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/theDataScienceBlog/">
+   The Data Science Blog
   </a>
  </li>
 </ul>
@@ -1464,6 +1490,15 @@ We are more than 3,190 data scientists and data geeks in our community.
    Kevin Davenport
   </a>
   - Organizer of http://sddatascience.com
+ </li>
+ <li>
+  <a href="https://twitter.com/justmarkham">
+   Kevin Markham
+  </a>
+  - Data science instructor, and founder of
+  <a href="http://www.dataschool.io/">
+   Data School
+  </a>
  </li>
  <li>
   <a href="https://twitter.com/krees">
@@ -1850,7 +1885,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    Nervana's python based Deep Learning Framework
   </a>
   <sup>
-   &#9733 1808, pushed 4 days ago
+   &#9733 1808, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1865,7 +1900,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   </a>
   - Intel® Deep Learning Framework
   <sup>
-   &#9733 296, pushed 92 days ago
+   &#9733 296, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -1905,7 +1940,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   </a>
   – a Julia-language backend combined with the Jupyter interactive environment.
   <sup>
-   &#9733 862, pushed 8 days ago
+   &#9733 862, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -2167,7 +2202,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    How to Share Data with a Statistician
   </a>
   <sup>
-   &#9733 3062, pushed 24 days ago
+   &#9733 3062, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -2192,6 +2227,16 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  </li>
 </ul>
 <h2>
+ Comics
+</h2>
+<ul>
+ <li>
+  <a href="Digital Data">
+   <img src="http://imgs.xkcd.com/comics/digital_data.png"/>
+  </a>
+ </li>
+</ul>
+<h2>
  Other Awesome Lists
 </h2>
 <ul>
@@ -2202,7 +2247,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   </a>
   list.
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2211,7 +2256,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   </a>
   A curated list of awesome Machine Learning frameworks, libraries and software.
   <sup>
-   &#9733 12665, pushed 4 days ago
+   &#9733 12665, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2219,7 +2264,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    lists
   </a>
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2227,7 +2272,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-dataviz
   </a>
   <sup>
-   &#9733 431, pushed 11 days ago
+   &#9733 431, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2235,7 +2280,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-python
   </a>
   <sup>
-   &#9733 20412, pushed 3 days ago
+   &#9733 20412, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2243,7 +2288,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    Data Science IPython Notebooks.
   </a>
   <sup>
-   &#9733 5541, pushed 4 days ago
+   &#9733 5541, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2251,7 +2296,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
    awesome-r
   </a>
   <sup>
-   &#9733 1317, pushed 5 days ago
+   &#9733 1317, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2260,7 +2305,12 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
   </a>
   . – An awesome list of high-quality open datasets in public domains
   <sup>
-   &#9733 13887, pushed 6 days ago
+   &#9733 13887, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md">
+   awesome-Machine Learning & Deep Learning Tutorials
+  </a>
  </li>
 </ul>

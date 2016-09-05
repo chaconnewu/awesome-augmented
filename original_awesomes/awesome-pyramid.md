@@ -84,6 +84,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Stargate](https://github.com/boothead/stargate) - Stargate is a package for
   adding WebSockets support to pyramid applications using the excellent
   eventlet library for long running connections.
+* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent).
 
 ## Authentication
 
@@ -278,6 +279,7 @@ provide new storage backends.*
   pyramid-mongoengine package based on flask-mongoengine
 * [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
+* [pyramid-excel](https://github.com/pyexcel/pyramid-excel) - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 
 ## Task Queue
 
@@ -300,6 +302,7 @@ provide new storage backends.*
   templating system bindings for the Pyramid web framework.
 * [Tonnikala](https://github.com/ztane/Tonnikala) - Python templating engine
   with Pyramid integration
+* [Kajiki](https://github.com/nandoflorestan/kajiki) - provides fast well-formed XML templates, with [Pyramid integration](https://github.com/nandoflorestan/kajiki/blob/master/kajiki/integration/pyramid.py)
 
 ## Testing
 
@@ -430,6 +433,8 @@ Where to discover new Pyramid apps and projects.
 
 ## Conferences
 
+* [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
+
 ## Videos
 
 * [Web Applications with Python and the Pyramid
@@ -453,10 +458,8 @@ Where to discover new Pyramid apps and projects.
 
 ## Who uses it?
 
-* [Companies and organizations that use
-  Pyramid](https://github.com/Pylons/pyramid/wiki/Companies-and-organizations-that-use-Pyramid)
-* [Projects that use
-  Pyramid](https://github.com/Pylons/pyramid/wiki/Projects-that-use-Pyramid)
+* [Projects, Websites, Companies and Organizations that use
+  Pyramid](https://trypyramid.com/community-powered-by-pyramid.html) - add your project to the list
 
 # Contributing
 
@@ -465,7 +468,7 @@ resources.
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, @uralbash has waived all copyright and related
 or neighboring rights to this work.

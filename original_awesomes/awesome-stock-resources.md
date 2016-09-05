@@ -1,4 +1,4 @@
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources)
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](/img/splash.jpg)
 
@@ -38,9 +38,9 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
-* [Alana](http://alana.io/) - Free “use how you want” stock photos.
+* [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
 * [Barn Images](http://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
-* [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
+* [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
 * [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
@@ -50,30 +50,39 @@ All the resources below have specifically specified that their content is [:copy
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
+* [Freely Photos](http://freelyphotos.com/) - Totally free high quality Christian stock photography. 
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+* [LibreShot] (http://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
-* [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [Minimography](http://minimography.com/) - Royalty-Free Minimalist Photos.
+* [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
+* [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
+* [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
+* [Snappy Goat](http://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
-* [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
+* [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
+* [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
+* [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
@@ -83,16 +92,20 @@ All the resources below have specifically specified that their content is [:copy
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
-* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf) Free monthly photos for all your creative needs.
-* [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
+* [Compfight.com](http://www.compfight.com) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/download/2ifplcw682487nz/) Free monthly photos for all your creative needs.
+* [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
+* [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
-* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/terms) Free photo archive by creatives, for creatives.
+* [morgueFile](http://morguefile.com/) - [:copyright:](http://morguefile.com/terms) Free photo archive by creatives, for creatives.
+* [Photober](http://www.photober.com/) - [:copyright:](http://www.photober.com/terms/) Free of charge photo downloading site for personal or commercial use.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
+* [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
@@ -102,10 +115,10 @@ These following photography resources are those who have declared their own usag
 
 A collection of links to public domain photography resources.
 
-* [Good Free Photos](http://www.goodfreephotos.com) - [:copyright:](http://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](http://www.goodfreephotos.com/pages/about-me).
+* [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
-* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](http://www.nypl.org/research/collections/digital-collections/public-domain)
+* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 * [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
@@ -117,6 +130,7 @@ The photographs on the following resources require Attribution unless otherwise 
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
+* [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](http://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
 * [Raumrot](http://raumrot.com/) - ([:copyright:](http://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
 * [Superfamous](http://images.superfamous.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](http://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
@@ -145,10 +159,13 @@ A collection of illustration resources which contain a mixture of historical arc
 
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
-* [Facebook Design Resource](https://facebook.github.io/design/) - [:copyright:](https://facebook.github.io/design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
+* [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
+* [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Logo Dust](http://logodust.com/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
 * [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
+* [Sketch Repo](https://sketchrepo.com/) - [:copyright](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
+* [Vecteezy](https://vecteezy.com) - [:copyright:](http://vecteezy.com/terms/) Discover & download free vector art from a community of Illustrators.
 
 ## Videos
 
@@ -159,6 +176,9 @@ A selection of websites offering high quality video stock.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
+* [Pond5](https://www.pond5.com/free) - Download thousands of historic media files (videos, audio, images and 3d models) for your creative projects.
+completely free.
+* [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ## Patterns
@@ -176,9 +196,8 @@ A mixture of free and open source font resources.
 
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
-* [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
-* [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
+* [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
@@ -191,10 +210,10 @@ A mixture of free and open source font resources.
 
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
-* [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/OFL) 147 8-bit retro style webfont icons for web and mobile
+* [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 147 8-bit retro style webfont icons for web and mobile
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](http://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
-* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
@@ -237,10 +256,9 @@ A selection of websites offering color schemes.
 * [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
-* [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
-* [Material Design Colors](http://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
+* [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
@@ -250,7 +268,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
-* [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
+* [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
 ## HTML Templates
@@ -258,21 +276,24 @@ A liberal mixture of content aggregated from other free resources and made avail
 Various different websites offering free HTML templates and themes.
 
 * [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
-* [HTML5 Up](http://html5up.net/) - [:copyright:](http://html5up.net/license) HTML5 UP makes spiffy HTML5 site templates.
-* [Templated](http://templated.co/) - [:copyright:](http://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+* [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
+* [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+* [Themezy](https://themezy.com) - [:copyright:](https://themezy.com/terms) Free WordPress themes and website templates.
 
 ## Sounds & Music
 
 Free resources for stock sound and music to be used on creative projects
 
 * [Bensound](http://www.bensound.com) - [:copyright:](http://www.bensound.com/licensing) Royalty free music by Bensound.
+* [ccMixter] (http://ccmixter.org/) - [:copyright:] (http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
-* [Opsound](http://www.sectionz.com/cc.asp) - [:copyright:](http://creativecommons.org/) Free music from a community of musicians.
+* [Our Music Box](http://ourmusicbox.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) free royalty free music by Jay Man.
+* [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 
 ## Paid Resources
@@ -291,7 +312,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-* [Share on Twitter](https://twitter.com/home?status=https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%0AAwesome+Stock+Resources)
+* [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 * [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
@@ -299,9 +320,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
 
-[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n)
+[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ## License
 

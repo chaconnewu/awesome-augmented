@@ -37,9 +37,11 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
-* [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) by the famous Martin Fowler
+* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+* [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - Clear explanation on what HATEOAS is, and why you should use it.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
+* [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 
 ## Standards
 
@@ -78,6 +80,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* [httparty](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
+* [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 
 ### Go Clients
 
@@ -110,6 +114,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 * [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 * [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
+* [Fusio](https://github.com/apioo/fusio) - Open source API management platform.
 
 #### Symfony2
 
@@ -122,6 +127,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
 * [API Platform](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
 ### Python
 
@@ -134,10 +140,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
+* [Flask-Potion](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ### Ruby
 
 * [Grape](http://intridea.github.io/grape/) - Opinionated micro-framework for creating REST-like APIs in Ruby.
+* [Rails](http://edgeguides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
 
 ### Go
 
@@ -186,12 +194,14 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
+* [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 
-## Documentation 
+## Documentation
 
 * [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
 * [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
+* [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## SaaS tools
 

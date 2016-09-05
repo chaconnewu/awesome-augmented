@@ -135,7 +135,7 @@
    Nginx HTTP server boilerplate configs
   </a>
   <sup>
-   &#9733 4520, pushed 40 days ago
+   &#9733 4520, pushed 165 days ago
   </sup>
  </li>
  <li>
@@ -313,7 +313,7 @@
    JSONP Proxy - Get JSONP from APIs not supporting it natively
   </a>
   <sup>
-   &#9733 8, pushed 119 days ago
+   &#9733 8, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -336,7 +336,7 @@
    Capture and delay unwanted requests
   </a>
   <sup>
-   &#9733 8, pushed 478 days ago
+   &#9733 8, pushed 603 days ago
   </sup>
  </li>
  <li>
@@ -436,7 +436,7 @@
    LSSO - Lua + Nginx SSO System with an OAuth Backend
   </a>
   <sup>
-   &#9733 9, pushed 16 days ago
+   &#9733 9, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -521,7 +521,7 @@
    </a>
   </p>
   <sup>
-   &#9733 1503, pushed 2 days ago
+   &#9733 1503, pushed 127 days ago
   </sup>
  </li>
  <li>

@@ -26,10 +26,14 @@ Inspired by the `awesome-*` trend on GitHub.
 ## DojoToolkit.org resources and documentation
 
 * [API](http://dojotoolkit.org/api) - API reference for Dojo Toolkit
+* [Roadma](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
 * [Blog](http://dojotoolkit.org/blog) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
+* [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines
+* [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition
+
 
 [Back to top](#awesome-dojo-)
 
@@ -67,9 +71,25 @@ Inspired by the `awesome-*` trend on GitHub.
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
+* [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
+
+#### Dojo 2
+* [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities
+* [DOM Utilities](https://github.com/dojo/dom) - Dojo2 DOM Utilities
+* [Dojo Command Line Tooling](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
+* loader
+* [Dojo routing](https://github.com/dojo/routing) - Dojo2 Routing
+* [Dojo compose](https://github.com/dojo/compose) - Dojo2 Composition Library
+* [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2
+* [Dojo has](https://github.com/dojo/has) - A feature detection library
+* [Dojo shim](https://github.com/dojo/shim) - Modules that provide modular fills of ES6+ functionality
+* [Dojo parse](https://github.com/dojo/parser) - A package for declaratively instantiating widgets.
+* [Dojo2 App](https://github.com/dojo/app) - An application framework for Dojo 2 (example)
+
+
 
 [Back to top](#awesome-dojo-)
 
@@ -124,6 +144,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
+* [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples
 
 [Back to top](#awesome-dojo-)
 
@@ -142,6 +163,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Definitive TypeScript Guide](http://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
+* [Dojo Typings](https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)
 
 [Back to top](#awesome-dojo-)
 

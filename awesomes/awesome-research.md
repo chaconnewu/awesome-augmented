@@ -650,12 +650,179 @@
 <h3>
  Data
 </h3>
+<p>
+ Nature hosts a list of recommended data repositories
+ <a href="http://www.nature.com/sdata/policies/repositories">
+  here
+ </a>
+ .
+</p>
+<h4>
+ General and Interdisciplinary
+</h4>
 <ul>
+ <li>
+  <a href="http://datadryad.org/">
+   DRYAD
+  </a>
+  (
+  <code>
+   Storage
+  </code>
+  ,
+  <code>
+   Lookup
+  </code>
+  ): The Dryad Digital Repository stores curated data.
+ </li>
  <li>
   <a href="https://figshare.com/">
    Figshare
   </a>
-  : Data sharing and storage.
+  (
+  <code>
+   Storage
+  </code>
+  ,
+  <code>
+   Lookup
+  </code>
+  ): Data sharing and storage
+ </li>
+ <li>
+  <a href="http://data.gov">
+   Data.gov
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Data by US Federal Government
+ </li>
+</ul>
+<h4>
+ Life Science
+</h4>
+<ul>
+ <li>
+  <a href="http://www.ncbi.nlm.nih.gov/genbank/">
+   GenBank
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Genetic sequence database
+ </li>
+ <li>
+  <a href="https://www.ncei.noaa.gov/">
+   National Centers for Environmental Information
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Weather, climate, coasts, oceans, and geophysics etc
+ </li>
+ <li>
+  <a href="http://www.geoportal.org/web/guest/geo_home_stp">
+   GEOSS Portal
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Earth science data
+ </li>
+</ul>
+<h4>
+ Physical Sciences
+</h4>
+<ul>
+ <li>
+  <a href="http://www.usvao.org/">
+   US Virtual Astronomical Observatory
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  )
+ </li>
+ <li>
+  <a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html">
+   MAST: Barbara A. Mikulski Archive for Space Telescopes
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  )
+ </li>
+ <li>
+  <a href="http://archive.stsci.edu/">
+   Mikulski Archive for Space Telescopes
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  )
+ </li>
+</ul>
+<h4>
+ Arts and Humanities
+</h4>
+<ul>
+ <li>
+  <a href="http://archaeologydataservice.ac.uk/">
+   Archaeology Data Service
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Certified repository
+ </li>
+</ul>
+<h4>
+ Engineering
+</h4>
+<ul>
+ <li>
+  <a href="http://en.openei.org/wiki/Main_Page">
+   Open Energy Information (OpenEI)
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  ): Wiki of collections of energy information
+ </li>
+</ul>
+<h4>
+ Social Sciences
+</h4>
+<ul>
+ <li>
+  <a href="https://www.icpsr.umich.edu/icpsrweb/landing.jsp">
+   Inter-university Consortium for Political and Social Research (ICPSR)
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  )
+ </li>
+ <li>
+  <a href="http://library.harvard.edu/gdc">
+   Institute for Quantitative Social Science (IQSS)
+  </a>
+  (
+  <code>
+   Lookup
+  </code>
+  )
  </li>
 </ul>
 <h3>
@@ -722,7 +889,7 @@
   </a>
   : Good for writing ebooks.
   <sup>
-   &#9733 1262, pushed 253 days ago
+   &#9733 1262, pushed 378 days ago
   </sup>
  </li>
  <li>
@@ -757,7 +924,7 @@
     </a>
     : Clean and simple
     <sup>
-     &#9733 218, pushed 8 days ago
+     &#9733 218, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -772,7 +939,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 1440, pushed 39 days ago
+   &#9733 1440, pushed 164 days ago
   </sup>
  </li>
 </ul>
@@ -787,7 +954,7 @@
    Theoretical Physics
   </a>
   <sup>
-   &#9733 71, pushed 55 days ago
+   &#9733 71, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +962,7 @@
    Statistical Physics
   </a>
   <sup>
-   &#9733 0, pushed 55 days ago
+   &#9733 0, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +970,7 @@
    Neutrino Physics
   </a>
   <sup>
-   &#9733 4, pushed 13 days ago
+   &#9733 4, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -907,7 +1074,7 @@
   </code>
   ): Open, Simple, non-profit; write with markdown and live preview.
   <sup>
-   &#9733 19315, pushed 1 days ago
+   &#9733 19315, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -920,7 +1087,7 @@
   </code>
   ): Lightweight cms, open source, no database.
   <sup>
-   &#9733 2296, pushed 4 days ago
+   &#9733 2296, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -933,7 +1100,7 @@
   </code>
   ): Open source, simple, and elegant blog system; write in Markdown.
   <sup>
-   &#9733 1570, pushed 176 days ago
+   &#9733 1570, pushed 300 days ago
   </sup>
  </li>
 </ul>
@@ -1025,7 +1192,7 @@
      Pelican Svbtle Theme
     </a>
     <sup>
-     &#9733 128, pushed 59 days ago
+     &#9733 128, pushed 183 days ago
     </sup>
    </li>
   </ul>
@@ -1310,7 +1477,7 @@
   </code>
   ): ReText one of the best, even on Linux. It also supports reStructuredText input.
   <sup>
-   &#9733 232, pushed 6 days ago
+   &#9733 232, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1385,7 +1552,7 @@
   </a>
   : A free, open source version of sharelatex
   <sup>
-   &#9733 775, pushed 49 days ago
+   &#9733 775, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -1394,8 +1561,44 @@
   </a>
   : ShareLaTeX open sourced their codes. This is a great move I would say.
   <sup>
-   &#9733 3496, pushed 13 days ago
+   &#9733 3496, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.texstudio.org">
+   TeXStudio
+  </a>
+  - Cross-platform LaTeX editor that stems from TeXMaker.
+ </li>
+ <li>
+  <a href="http://www.winedt.com">
+   WinEdt
+  </a>
+  - The LaTeX editor many people swear by.
+ </li>
+ <li>
+  <a href="http://www.texniccenter.org">
+   TeXnicCenter
+  </a>
+  - A quite old but free and decent editor for LaTeX.
+ </li>
+ <li>
+  <a href="https://www.lyx.org">
+   LyX
+  </a>
+  - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.
+ </li>
+ <li>
+  <a href="http://pages.uoregon.edu/koch/texshop/">
+   TeXshop
+  </a>
+  - No-nonsense editor for LaTeX documents which is included in MacTeX.
+ </li>
+ <li>
+  <a href="https://www.tug.org/texworks/">
+   TeXWorks
+  </a>
+  - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
  </li>
 </ul>
 <h3>
@@ -1410,7 +1613,7 @@
    Scientific Python Lectures
   </a>
   <sup>
-   &#9733 1241, pushed 14 days ago
+   &#9733 1241, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1456,7 +1659,7 @@
   </a>
   : Chinese Interface
   <sup>
-   &#9733 1508, pushed 266 days ago
+   &#9733 1508, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -1518,7 +1721,7 @@
    jsmind
   </a>
   <sup>
-   &#9733 131, pushed 7 days ago
+   &#9733 131, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1531,7 +1734,7 @@
    mindmaps
   </a>
   <sup>
-   &#9733 862, pushed 140 days ago
+   &#9733 862, pushed 264 days ago
   </sup>
  </li>
 </ul>
@@ -1675,7 +1878,7 @@
    Strut
   </a>
   <sup>
-   &#9733 1255, pushed 119 days ago
+   &#9733 1255, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -1683,7 +1886,7 @@
    Impressionist
   </a>
   <sup>
-   &#9733 589, pushed 1053 days ago
+   &#9733 589, pushed 1178 days ago
   </sup>
  </li>
  <li>
@@ -1691,7 +1894,7 @@
    hovercraft
   </a>
   <sup>
-   &#9733 676, pushed 16 days ago
+   &#9733 676, pushed 141 days ago
   </sup>
  </li>
 </ul>
@@ -1733,7 +1936,7 @@
    Reveal.js
   </a>
   <sup>
-   &#9733 27784, pushed 2 days ago
+   &#9733 27784, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1741,7 +1944,7 @@
    Beckpoke.js
   </a>
   <sup>
-   &#9733 3861, pushed 217 days ago
+   &#9733 3861, pushed 342 days ago
   </sup>
  </li>
  <li>
@@ -1749,7 +1952,7 @@
    CSSS
   </a>
   <sup>
-   &#9733 1371, pushed 64 days ago
+   &#9733 1371, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -1757,7 +1960,7 @@
    Scrolldeck
   </a>
   <sup>
-   &#9733 683, pushed 132 days ago
+   &#9733 683, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -1765,7 +1968,7 @@
    Deck.js
   </a>
   <sup>
-   &#9733 4877, pushed 14 days ago
+   &#9733 4877, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1773,7 +1976,7 @@
    Shower
   </a>
   <sup>
-   &#9733 3049, pushed 12 days ago
+   &#9733 3049, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1786,7 +1989,7 @@
    Flowtime.js
   </a>
   <sup>
-   &#9733 1055, pushed 24 days ago
+   &#9733 1055, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1794,7 +1997,7 @@
    Slides
   </a>
   <sup>
-   &#9733 353, pushed 1035 days ago
+   &#9733 353, pushed 1160 days ago
   </sup>
  </li>
 </ul>
@@ -1854,7 +2057,7 @@
    ext-sozi
   </a>
   <sup>
-   &#9733 25, pushed 1123 days ago
+   &#9733 25, pushed 1248 days ago
   </sup>
  </li>
 </ul>
@@ -1953,7 +2156,7 @@
     </a>
     is an open source one but not that well done.
     <sup>
-     &#9733 183, pushed 778 days ago
+     &#9733 183, pushed 903 days ago
     </sup>
    </li>
    <li>
@@ -1962,7 +2165,7 @@
     </a>
     is a multiuser version of notebook using Django/Pinax.
     <sup>
-     &#9733 6, pushed 908 days ago
+     &#9733 6, pushed 1033 days ago
     </sup>
    </li>
   </ul>
@@ -2441,7 +2644,7 @@
   </strong>
   )
   <sup>
-   &#9733 12, pushed 778 days ago
+   &#9733 12, pushed 903 days ago
   </sup>
  </li>
 </ul>
@@ -2529,7 +2732,7 @@
    matplotlib
   </a>
   <sup>
-   &#9733 468, pushed 199 days ago
+   &#9733 468, pushed 323 days ago
   </sup>
  </li>
  <li>
@@ -2606,7 +2809,7 @@
   </code>
   ): "A vector drawing editor for LaTeX."
   <sup>
-   &#9733 85, pushed 2 days ago
+   &#9733 85, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2709,7 +2912,7 @@
    plot in terminal
   </a>
   <sup>
-   &#9733 395, pushed 87 days ago
+   &#9733 395, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -2724,7 +2927,7 @@
   </a>
   : plot in terminal.
   <sup>
-   &#9733 395, pushed 87 days ago
+   &#9733 395, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -2733,7 +2936,7 @@
   </a>
   : correct the command by typing in fuck.
   <sup>
-   &#9733 179, pushed 294 days ago
+   &#9733 179, pushed 418 days ago
   </sup>
  </li>
 </ul>

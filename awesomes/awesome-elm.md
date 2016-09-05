@@ -1,5 +1,5 @@
 <h1>
- <img src="http://elm-lang.org/logo.svg" width="26">
+ <img src="http://elm-lang.org/assets/logo.svg" width="26">
   Awesome Elm
  </img>
 </h1>
@@ -144,6 +144,12 @@
   - Web site built with elm with list of projects and apps built with Elm.
  </li>
  <li>
+  <a href="https://github.com/stefankreitmayer/elm-joust">
+   Elm Joust
+  </a>
+  — a two-player fighting game written in Elm.
+ </li>
+ <li>
   <a href="http://people.cs.umass.edu/~jcollard/elmtris/">
    Tetris
   </a>
@@ -155,7 +161,7 @@
   </a>
   - A "tunnel" game written in Elm!
   <sup>
-   &#9733 79, pushed 319 days ago
+   &#9733 79, pushed 444 days ago
   </sup>
  </li>
  <li>
@@ -164,7 +170,7 @@
   </a>
   - Configurable sliding puzzle game written in Elm.
   <sup>
-   &#9733 43, pushed 170 days ago
+   &#9733 43, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -173,8 +179,14 @@
   </a>
   - Proper implementation of the TodoMVC app.
   <sup>
-   &#9733 391, pushed 4 days ago
+   &#9733 391, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/andrewsuzuki/elm-todo-rest-api">
+   TodoMVC with JSON API
+  </a>
+  - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
  </li>
  <li>
   <a href="https://github.com/ThomasWeiser/todomvc-elmfire">
@@ -186,7 +198,7 @@
   </a>
   and Firebase as backend.
   <sup>
-   &#9733 26, pushed 86 days ago
+   &#9733 26, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -197,7 +209,7 @@
    </elm-ement\&gt;<>
   </a>
   <sup>
-   &#9733 13, pushed 271 days ago
+   &#9733 13, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -205,6 +217,12 @@
    Elm Playground
   </a>
   - Tiny Elm projects implemented for the sake of learning by example.
+ </li>
+ <li>
+  <a href="https://github.com/nirgn975/Elmctron">
+   TodoMVC in Electron
+  </a>
+  -  Documented and tested implementation of the Elm TodoMVC app in Electron.
  </li>
 </ul>
 <p>
@@ -230,12 +248,6 @@
   — General information and in-depth guide with examples.
  </li>
  <li>
-  <a href="http://elm-by-example.org/toc.html">
-   Elm by example
-  </a>
-  - Elm tutorial via set of practice chapters.
- </li>
- <li>
   <a href="http://debug.elm-lang.org/">
    Elm’s Time Traveling Debugger
   </a>
@@ -247,7 +259,7 @@
   </a>
   - How to create modular Elm code that scales nicely with your app.
   <sup>
-   &#9733 2313, pushed 24 days ago
+   &#9733 2313, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -256,7 +268,7 @@
   </a>
   - Make an app, start it up.
   <sup>
-   &#9733 401, pushed 25 days ago
+   &#9733 401, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -301,7 +313,7 @@
   </a>
   - Syntax and features overview.
   <sup>
-   &#9733 196, pushed 42 days ago
+   &#9733 196, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -330,6 +342,24 @@
    Elm Topic on DailyDrip
   </a>
   - Daily continuing education on Elm, videos and text, with new content every day.
+ </li>
+ <li>
+  <a href="http://exercism.io/languages/elm">
+   Exercism Elm Track
+  </a>
+  - Collection of Elm exercises.
+ </li>
+ <li>
+  <a href="https://elmseeds.thaterikperson.com/">
+   Elm Seeds
+  </a>
+  - Short screencasts to teach you the Elm programming language from Erik Person.
+ </li>
+ <li>
+  <a href="http://courses.knowthen.com/courses/elm-for-beginners">
+   Elm For Begginers - Video Course
+  </a>
+  - Build your first Elm Web App.
  </li>
 </ul>
 <p>
@@ -387,7 +417,7 @@
   </a>
   - A collection of notes for web developers looking into moving to Elm.
   <sup>
-   &#9733 43, pushed 100 days ago
+   &#9733 43, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -473,6 +503,24 @@
   </a>
   - A talk that gives a broad, high-level introduction to Elm.
  </li>
+ <li>
+  <a href="https://egghead.io/technologies/elm">
+   Egghead.io: Elm videos
+  </a>
+  - Egghead's Elm video training, many of which are free.
+ </li>
+ <li>
+  <a href="https://www.dailydrip.com/topics/elm">
+   jadams's training videos
+  </a>
+  - A neato series of bite-sized Elm training videos, many of which are free.
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=g48K6ABfRzA">
+   Elm Basics
+  </a>
+  - Walk through all the syntax and basic ideas in Elm as a general programming language.
+ </li>
 </ul>
 <p>
  <strong>
@@ -490,6 +538,12 @@
  </em>
 </p>
 <ul>
+ <li>
+  <a href="https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11">
+   Elixir Fountain Evan Czaplicki 2016-07-11
+  </a>
+  - Elm with Evan Czaplicki.
+ </li>
  <li>
   <a href="https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/">
    Functional Geekery 33
@@ -561,7 +615,7 @@
   </a>
   - Elm Core Libraries.
   <sup>
-   &#9733 406, pushed 1 days ago
+   &#9733 406, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -576,7 +630,7 @@
   </a>
   - A unit testing framework for Elm.
   <sup>
-   &#9733 133, pushed 57 days ago
+   &#9733 133, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -585,7 +639,7 @@
   </a>
   - Easy routing in Elm.
   <sup>
-   &#9733 65, pushed 161 days ago
+   &#9733 65, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -594,7 +648,7 @@
   </a>
   - Make HTTP requests in Elm.
   <sup>
-   &#9733 53, pushed 37 days ago
+   &#9733 53, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -603,7 +657,7 @@
   </a>
   - Build and handle JSON requests more naturally than with low-level elm-http.
   <sup>
-   &#9733 30, pushed 2 days ago
+   &#9733 30, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -612,7 +666,7 @@
   </a>
   - Elm library to read and write to the console in Node.
   <sup>
-   &#9733 33, pushed 43 days ago
+   &#9733 33, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -621,7 +675,7 @@
   </a>
   - Lazy Evaluation in Elm.
   <sup>
-   &#9733 17, pushed 57 days ago
+   &#9733 17, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -630,7 +684,7 @@
   </a>
   - UI Library in Elm.
   <sup>
-   &#9733 159, pushed 3 days ago
+   &#9733 159, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -643,7 +697,7 @@
   </a>
   .
   <sup>
-   &#9733 68, pushed 2 days ago
+   &#9733 68, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -656,7 +710,7 @@
   </a>
   .
   <sup>
-   &#9733 75, pushed 2 days ago
+   &#9733 75, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -682,7 +736,7 @@
   </a>
   - Compiler for the Elm programming language.
   <sup>
-   &#9733 2677, pushed 4 days ago
+   &#9733 2677, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -691,7 +745,7 @@
   </a>
   - A build tool for Elm projects.
   <sup>
-   &#9733 63, pushed 13 days ago
+   &#9733 63, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -700,8 +754,14 @@
   </a>
   - Interactive development tool that makes it easy to develop and debug Elm programs.
   <sup>
-   &#9733 196, pushed 13 days ago
+   &#9733 196, pushed 137 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tomekwi/elm-live">
+   elm-live
+  </a>
+  - A flexible dev server for Elm. Live reload included!
  </li>
  <li>
   <a href="https://github.com/elm-lang/elm-repl">
@@ -709,7 +769,7 @@
   </a>
   - A REPL for Elm.
   <sup>
-   &#9733 93, pushed 15 days ago
+   &#9733 93, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +778,7 @@
   </a>
   - CLI to share Elm libraries.
   <sup>
-   &#9733 91, pushed 2 days ago
+   &#9733 91, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -727,8 +787,14 @@
   </a>
   - Interactive setup for new Elm projects.
   <sup>
-   &#9733 8, pushed 75 days ago
+   &#9733 8, pushed 200 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/simonewebdesign/elm-new">
+   elm-new
+  </a>
+  - Generate initial project scaffolding based on a template.
  </li>
  <li>
   <a href="https://github.com/avh4/elm-format">
@@ -740,7 +806,7 @@
   </a>
   .
   <sup>
-   &#9733 193, pushed 7 days ago
+   &#9733 193, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -749,7 +815,7 @@
   </a>
   - Grunt plugin that compiles Elm files to JavaScript.
   <sup>
-   &#9733 13, pushed 73 days ago
+   &#9733 13, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -758,7 +824,7 @@
   </a>
   - Webpack loader for the Elm programming language.
   <sup>
-   &#9733 126, pushed 4 days ago
+   &#9733 126, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -767,8 +833,14 @@
   </a>
   - A project enabling server-side use of Elm.
   <sup>
-   &#9733 86, pushed 70 days ago
+   &#9733 86, pushed 195 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ElmCast/elm-oracle">
+   elm-oracle
+  </a>
+  - Query for information about values in elm source files. Used by most editor plugins.
  </li>
 </ul>
 <p>
@@ -799,7 +871,7 @@
   </a>
   - Elm snippets for Atom.
   <sup>
-   &#9733 6, pushed 35 days ago
+   &#9733 6, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -809,12 +881,18 @@
   - Syntax highlighting and autocompletion for the Atom editor.
  </li>
  <li>
+  <a href="https://atom.io/packages/elmjutsu">
+   elmjutsu
+  </a>
+  - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
+ </li>
+ <li>
   <a href="https://github.com/jcollard/elm-mode">
    emacs-elm-mode
   </a>
   - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
   <sup>
-   &#9733 114, pushed 7 days ago
+   &#9733 114, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -823,7 +901,7 @@
   </a>
   - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
   <sup>
-   &#9733 41, pushed 37 days ago
+   &#9733 41, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -838,7 +916,7 @@
   </a>
   - Elm mode for vim.
   <sup>
-   &#9733 110, pushed 27 days ago
+   &#9733 110, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -899,7 +977,7 @@
   </a>
   - A simple Webpack setup for writing Elm apps.
   <sup>
-   &#9733 142, pushed 57 days ago
+   &#9733 142, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -908,7 +986,7 @@
   </a>
   - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
   <sup>
-   &#9733 13, pushed 7 days ago
+   &#9733 13, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -935,6 +1013,12 @@
   - Write and compile elm code online!
  </li>
  <li>
+  <a href="https://github.com/zalando/elm-street-404">
+   404 Elm Street
+  </a>
+  - A fun WebGL game built with Elm.
+ </li>
+ <li>
   <a href="http://debug.elm-lang.org/try">
    Debug Elm
   </a>
@@ -946,7 +1030,7 @@
   </a>
   - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
   <sup>
-   &#9733 12, pushed 132 days ago
+   &#9733 12, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -1038,7 +1122,11 @@
  <a href="https://twitter.com/rtfeldman" target="_blank">
   <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100"/>
  </a>
- --- | --- | ---
+ |
+ <a href="https://twitter.com/eeue56" target="_blank">
+  <img src="https://cloud.githubusercontent.com/assets/1094080/13444265/1aceba3a-dfba-11e5-867b-52bde5a1a81c.png" width="100"/>
+ </a>
+ --- | --- | --- | ---
  <a href="https://twitter.com/elmlang">
   Official Elm
  </a>
@@ -1049,6 +1137,10 @@
  |
  <a href="https://twitter.com/rtfeldman">
   Richard Feldman
+ </a>
+ |
+ <a href="https://twitter.com/eeue56">
+  Noah Hall
  </a>
 </p>
 <p>
@@ -1081,7 +1173,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1095,7 +1187,7 @@
    </strong>
   </a>
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
 </ul>

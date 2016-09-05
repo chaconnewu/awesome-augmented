@@ -31,7 +31,7 @@
  </p>
 </blockquote>
 <p>
- It's now a github project because it's considerably easier for other people to edit, fix and expand on Docker using Github. Just click
+ It's now a GitHub project because it's considerably easier for other people to edit, fix and expand on Docker using GitHub. Just click
  <a href="https://github.com/veggiemonk/awesome-docker/edit/master/README.md">
   README.md
  </a>
@@ -115,7 +115,7 @@ If this list is not complete, you can
 </h1>
 <ul>
  <li>
-  <a href="https://docs.docker.com/mac/">
+  <a href="https://docs.docker.com/docker-for-mac/">
    10-minute Interactive Tutorial
   </a>
  </li>
@@ -187,7 +187,7 @@ If this list is not complete, you can
    MUST SEE
   </strong>
   <sup>
-   &#9733 5953, pushed 6 days ago
+   &#9733 5953, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -243,7 +243,7 @@ about docker! (Tips: checkout her
    @dwyl
   </a>
   <sup>
-   &#9733 29, pushed 259 days ago
+   &#9733 29, pushed 383 days ago
   </sup>
  </li>
  <li>
@@ -254,6 +254,12 @@ about docker! (Tips: checkout her
   <strong>
    MUST SEE
   </strong>
+ </li>
+ <li>
+  <a href="https://howtowhale.com/">
+   How to Whale
+  </a>
+  Learn Docker in your web browser, no setup or installation required.
  </li>
 </ul>
 <h1>
@@ -477,6 +483,11 @@ about docker! (Tips: checkout her
      Service Discovery
     </a>
    </li>
+   <li>
+    <a href="#metadata">
+     Metadata
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -500,6 +511,11 @@ about docker! (Tips: checkout her
     </a>
    </li>
   </ul>
+ </li>
+ <li>
+  <a href="#interactive-learning-environments">
+   Interactive Learning Environments
+  </a>
  </li>
  <li>
   <a href="#interesting-twitter-accounts">
@@ -538,6 +554,15 @@ about docker! (Tips: checkout her
   <strong>
    MUST SEE
   </strong>
+ </li>
+ <li>
+  <a href="https://github.com/dimonomid/docker-quick-ref">
+   Docker Printable Refcard
+  </a>
+  by
+  <a href="https://github.com/dimonomid">
+   @dimonomid
+  </a>
  </li>
  <li>
   <a href="https://labs.ctl.io/category/docker/">
@@ -713,7 +738,7 @@ about docker! (Tips: checkout her
   </a>
   .
   <sup>
-   &#9733 85, pushed 46 days ago
+   &#9733 85, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -722,7 +747,7 @@ about docker! (Tips: checkout her
 </h2>
 <ul>
  <li>
-  <a href="https://serversforhackers.com/getting-started-with-docker/">
+  <a href="https://serversforhackers.com/getting-started-with-docker">
    Getting Started with Docker
   </a>
   by
@@ -730,7 +755,7 @@ about docker! (Tips: checkout her
    @fideloper
   </a>
   --
-  <a href="https://serversforhackers.com/editions/">
+  <a href="https://serversforhackers.com/editions">
    Servers For Hackers
   </a>
   is valuable resource. At some point, every programmer finds themselves needing to know their way around a server.
@@ -808,7 +833,7 @@ about docker! (Tips: checkout her
   (written 28 APR 2015)
  </li>
  <li>
-  <a href="http://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/">
+  <a href="https://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/">
    Automating Docker Logging: ElasticSearch, Logstash, Kibana, and Logspout
   </a>
   (written 27 APR 2015)
@@ -818,12 +843,6 @@ about docker! (Tips: checkout her
    Docker Host Volume Synchronization
   </a>
   (written 1 JUN 2015)
- </li>
- <li>
-  <a href="http://devbandit.com/2015/05/29/vagrant-and-docker.html">
-   Multi-Service Local Development Environment with Vagrant and Docker
-  </a>
-  (written 29 MAY 2015)
  </li>
  <li>
   <a href="https://developer.rackspace.com/blog/dev-to-deploy-with-docker-machine-and-compose/">
@@ -900,7 +919,7 @@ about docker! (Tips: checkout her
   (4-part series)
  </li>
  <li>
-  <a href="http://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/">
+  <a href="https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/">
    Using Ansible with Docker Machine to Bootstrap Host Nodes
   </a>
   by
@@ -919,6 +938,31 @@ about docker! (Tips: checkout her
    The Shortlist of Docker Hosting
   </a>
   There are so many specialized and optimized Docker hosting services available, it’s high time for a review to see what’s on offer (by Chris Ward).
+ </li>
+</ul>
+<h2>
+ Portuguese Articles
+</h2>
+<ul>
+ <li>
+  <a href="https://woliveiras.com.br/posts/uma-rapida-introducao-ao-docker-e-instalacao-no-ubuntu/">
+   Uma rápida introdução ao Docker e instalação no Ubuntu
+  </a>
+ </li>
+ <li>
+  <a href="https://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/">
+   O que é uma imagem e o que é um container Docker?
+  </a>
+ </li>
+ <li>
+  <a href="https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/">
+   Criando uma imagem Docker personalizada
+  </a>
+ </li>
+ <li>
+  <a href="https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/">
+   Comandos mais utilizados no Docker
+  </a>
  </li>
 </ul>
 <h2>
@@ -966,7 +1010,7 @@ about docker! (Tips: checkout her
 </h2>
 <ul>
  <li>
-  <a href="http://blog.bigstep.com/big-data-performance/use-docker-full-metal-cloud/">
+  <a href="http://blog.bigstep.com/use-docker-full-metal-cloud/">
    How to use Docker on Full Metal
   </a>
  </li>
@@ -1147,6 +1191,24 @@ about docker! (Tips: checkout her
   </a>
   - Red Hat's Project Atomic created a Container Best Practices guide which applies to everything and is updated regurlary.
  </li>
+ <li>
+  <a href="https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i">
+   Production Meteor and Node Using Docker, Part I
+  </a>
+  by
+  <a href="https://github.com/projectricochet">
+   @projectricochet
+  </a>
+ </li>
+ <li>
+  <a href="https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/">
+   Resource Management in Docker
+  </a>
+  by
+  <a href="https://twitter.com/marekgoldmann">
+   @marekgoldmann
+  </a>
+ </li>
 </ul>
 <h2>
  Newsletter
@@ -1163,7 +1225,7 @@ about docker! (Tips: checkout her
   </a>
  </li>
  <li>
-  <a href="https://dashboard.tutum.co/accounts/login/">
+  <a href="https://dashboard.tutum.co/">
    Tutum
   </a>
  </li>
@@ -1188,8 +1250,26 @@ about docker! (Tips: checkout her
 </h2>
 <ul>
  <li>
-  <a href="http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html">
+  <a href="https://ariya.io/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome">
    Docker and Phoenix: How to Make Your Continuous Integration More Awesome
+  </a>
+ </li>
+ <li>
+  <a href="http://theremotelab.com/blog/jenkins2.0-screencast-series/">
+   Jenkins 2.0 - Screencast Series
+  </a>
+  by
+  <a href="https://twitter.com/bhalothiaa">
+   Virendra Bhalothia
+  </a>
+ </li>
+ <li>
+  <a href="https://blog.mikesir87.io/2016/04/pushing-to-ecr-using-jenkins-pipeline-plugin/">
+   Pushing to ECR Using Jenkins Pipeline Plugin
+  </a>
+  by
+  <a href="https://github.com/mikesir87">
+   @mikesir87
   </a>
  </li>
 </ul>
@@ -1245,19 +1325,16 @@ about docker! (Tips: checkout her
   </a>
  </li>
  <li>
-  <a href="https://imagelayers.io/">
+  <a href="https://imagelayers.iron.io/">
    ImageLayers
   </a>
   Visualize Docker images and the layers that compose them.
  </li>
  <li>
-  <a href="https://github.com/cloudimmunity/docker-slim">
+  <a href="https://github.com/docker-slim/docker-slim">
    DockerSlim
   </a>
   shrinks fat Docker images creating the smallest possible images.
-  <sup>
-   &#9733 499, pushed 16 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/djosephsen/skinnywhale">
@@ -1265,7 +1342,7 @@ about docker! (Tips: checkout her
   </a>
   Skinnywhale helps you make smaller (as in megabytes) Docker containers.
   <sup>
-   &#9733 145, pushed 189 days ago
+   &#9733 145, pushed 314 days ago
   </sup>
  </li>
 </ul>
@@ -1316,11 +1393,11 @@ about docker! (Tips: checkout her
    Docker Secure Deployment Guidelines
   </a>
   <sup>
-   &#9733 309, pushed 453 days ago
+   &#9733 309, pushed 578 days ago
   </sup>
  </li>
  <li>
-  <a href="http://linux-audit.com/tag/docker/">
+  <a href="https://linux-audit.com/tag/docker/">
    Security Best Practices for Building Docker Images
   </a>
  </li>
@@ -1462,13 +1539,13 @@ about docker! (Tips: checkout her
     </a>
    </li>
    <li>
-    <a href="https://goldmann.pl/presentations/2014-vjbug-docker/">
-     Slides
+    <a href="https://github.com/goldmann/goldmann.pl/tree/master/.presentations/2014-vjbug-docker/demos">
+     Code source
     </a>
    </li>
    <li>
-    <a href="https://github.com/goldmann/goldmann.pl/tree/master/.presentations/2014-vjbug-docker/demos">
-     Code source
+    <a href="https://goldmann.pl/presentations/2014-vjbug-docker/ ">
+     JBoss and Docker Presentation
     </a>
    </li>
   </ul>
@@ -1477,6 +1554,9 @@ about docker! (Tips: checkout her
 <h1>
  Books
 </h1>
+<h2>
+ In English
+</h2>
 <ul>
  <li>
   <a href="https://dockerbook.com/">
@@ -1536,7 +1616,7 @@ about docker! (Tips: checkout her
   </a>
  </li>
  <li>
-  <a href="http://newrelic.com/docker-book">
+  <a href="https://newrelic.com/docker-book">
    Docker Up & Running
   </a>
   by
@@ -1569,36 +1649,6 @@ about docker! (Tips: checkout her
   ) (Publisher: O'Reilly)
  </li>
  <li>
-  <a href="http://www.bee42.com/dockerbook/">
-   Docker: Container-Infrastruktur für Microservices
-  </a>
-  (German) by Peter Roßbach (
-  <a href="https://twitter.com/PRossbach">
-   @PRossbach
-  </a>
-  )
- </li>
- <li>
-  <a href="https://www.casadocodigo.com.br/products/livro-docker">
-   Containers com Docker do desenvolvimento à produção
-  </a>
-  (Portuguese) by Daniel Romero (
-  <a href="https://twitter.com/infoslack">
-   @infoslack
-  </a>
-  )
- </li>
- <li>
-  <a href="https://www.amazon.cn/图书/dp/B014ETH1IG">
-   Docker Container and Container Cloud
-  </a>
-  (Chinese) by
-  <a href="https://twitter.com/resouer">
-   Harry Zhang
-  </a>
-  & Jianbo Sun & Zhejiang University SEL Laboratory
- </li>
- <li>
   <a href="https://www.openshift.com/promotions/kubernetes.html">
    Kubernetes
   </a>
@@ -1614,6 +1664,138 @@ about docker! (Tips: checkout her
   </a>
   by Joe Johnston (Author), John Fiedler (Author), Milos Gajdos (Author), Antoni Batchelli (Author), Justin Cormack (Author)
  </li>
+ <li>
+  <a href="https://www.packtpub.com/virtualization-and-cloud/mastering-docker">
+   Mastering Docker
+  </a>
+  by Scott Gallagher (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/virtualization-and-cloud/learning-docker">
+   Learning Docker
+  </a>
+  by Pethuru Raj, Jeeva S. Chelladhurai and Vinod Singh (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/virtualization-and-cloud/troubleshooting-docker">
+   Troubleshooting Docker
+  </a>
+  by John Wooten, Navid Shaikh (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/virtualization-and-cloud/orchestrating-docker">
+   Orchestrating Docker
+  </a>
+  by Shrikrishna Holla (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/networking-and-servers/extending-docker">
+   Extending Docker
+  </a>
+  by Russ McKendrick (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/virtualization-and-cloud/securing-docker">
+   Securing Docker
+  </a>
+  by Scott Gallagher (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/networking-and-servers/learning-docker-networking">
+   Learning Docker Networking
+  </a>
+  by Rajdeep Dua, Vaibhav Kohli and Santosh Kumar Konduri (Publisher: Packt)
+ </li>
+ <li>
+  <a href="https://www.packtpub.com/networking-and-servers/docker-high-performance">
+   Docker High Performance
+  </a>
+  by Allan Espinosa (Publisher: Packt)
+ </li>
+ <li>
+  <a href="http://shop.oreilly.com/product/0636920043874.do">
+   Kubernetes Up and Running: Dive into the Future of Infrastructure
+  </a>
+  by Kelsey Hightower (
+  <a href="https://twitter.com/kelseyhightower">
+   @kelseyhightower
+  </a>
+  ) (Publisher: O'Reilly)
+ </li>
+</ul>
+<h2>
+ Chinese
+</h2>
+<ul>
+ <li>
+  <a href="https://www.amazon.cn/图书/dp/B012ROMRUM">
+   The Source Code Analysis of Docker
+  </a>
+  (Chinese) by
+  <a href="https://github.com/allencloud">
+   Allen Sun
+  </a>
+ </li>
+ <li>
+  <a href="https://www.amazon.cn/图书/dp/B014ETH1IG">
+   Docker Container and Container Cloud
+  </a>
+  (Chinese) by
+  <a href="https://twitter.com/resouer">
+   Harry Zhang
+  </a>
+  & Jianbo Sun & Zhejiang University SEL Laboratory
+ </li>
+</ul>
+<h2>
+ German
+</h2>
+<ul>
+ <li>
+  <a href="http://www.bee42.com/dockerbook/">
+   Docker: Container-Infrastruktur für Microservices
+  </a>
+  by Peter Roßbach (
+  <a href="https://twitter.com/PRossbach">
+   @PRossbach
+  </a>
+  )
+ </li>
+</ul>
+<h2>
+ Portuguese
+</h2>
+<ul>
+ <li>
+  <a href="https://www.casadocodigo.com.br/products/livro-docker">
+   Containers com Docker do desenvolvimento à produção
+  </a>
+  by Daniel Romero (
+  <a href="https://twitter.com/infoslack">
+   @infoslack
+  </a>
+  )
+ </li>
+ <li>
+  <a href="http://aprendendodocker.com.br/">
+   Aprendendo Docker: Do básico à orquestração de contêineres
+  </a>
+  by Wellington F. Silva (
+  <a href="https://twitter.com/_wsilva">
+   @_wsilva
+  </a>
+  ) (Publisher: Editora Novatec)
+ </li>
+ <li>
+  <a href="https://leanpub.com/dockerparadesenvolvedores">
+   Docker para Desenvolvedores
+  </a>
+  by Rafael Gomes (
+  <a href="https://twitter.com/gomex">
+   @kelseyhightower
+  </a>
+  ) (Publisher: Leanpub) - 55% finished
+ </li>
 </ul>
 <h1>
  Tools
@@ -1624,7 +1806,7 @@ about docker! (Tips: checkout her
    Docker
   </a>
   <sup>
-   &#9733 30916, pushed 1 days ago
+   &#9733 30916, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1644,7 +1826,7 @@ about docker! (Tips: checkout her
   </a>
   (Machine management for a container-centric world)
   <sup>
-   &#9733 3204, pushed 3 days ago
+   &#9733 3204, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1653,7 +1835,7 @@ about docker! (Tips: checkout her
   </a>
   (The Docker toolset to pack, ship, store, and deliver content)
   <sup>
-   &#9733 2017, pushed 4 days ago
+   &#9733 2017, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1662,7 +1844,7 @@ about docker! (Tips: checkout her
   </a>
   (Swarm: a Docker-native clustering system)
   <sup>
-   &#9733 3658, pushed 2 days ago
+   &#9733 3658, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1679,7 +1861,7 @@ about docker! (Tips: checkout her
    @TomasTomecek
   </a>
   <sup>
-   &#9733 312, pushed 2 days ago
+   &#9733 312, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1691,7 +1873,7 @@ about docker! (Tips: checkout her
    @j-bennet
   </a>
   <sup>
-   &#9733 377, pushed 75 days ago
+   &#9733 377, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -1703,7 +1885,7 @@ about docker! (Tips: checkout her
    @yadutaf
   </a>
   <sup>
-   &#9733 129, pushed 24 days ago
+   &#9733 129, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -1715,7 +1897,7 @@ about docker! (Tips: checkout her
    @moncho
   </a>
   <sup>
-   &#9733 93, pushed 3 days ago
+   &#9733 93, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1727,8 +1909,17 @@ about docker! (Tips: checkout her
    @docker
   </a>
   <sup>
-   &#9733 3640, pushed 7 days ago
+   &#9733 3640, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/crosbymichael/dockersql">
+   dockersql
+  </a>
+  - A command line interface to query Docker using SQL by
+  <a href="https://github.com/crosbymichael">
+   @crosbymichael
+  </a>
  </li>
 </ul>
 <h2>
@@ -1744,7 +1935,7 @@ about docker! (Tips: checkout her
    @Alexis-benoist
   </a>
   <sup>
-   &#9733 12, pushed 17 days ago
+   &#9733 12, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1756,7 +1947,7 @@ about docker! (Tips: checkout her
    @tianon
   </a>
   <sup>
-   &#9733 717, pushed 14 days ago
+   &#9733 717, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1768,7 +1959,7 @@ about docker! (Tips: checkout her
    @garywiz
   </a>
   <sup>
-   &#9733 43, pushed 56 days ago
+   &#9733 43, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -1780,7 +1971,7 @@ about docker! (Tips: checkout her
    @jpetazzo
   </a>
   <sup>
-   &#9733 1407, pushed 15 days ago
+   &#9733 1407, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1792,8 +1983,14 @@ about docker! (Tips: checkout her
    @jpetazzo
   </a>
   <sup>
-   &#9733 169, pushed 47 days ago
+   &#9733 169, pushed 171 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/magicmark/composerize">
+   Composerize
+  </a>
+  Conververt docker run commands into docker-compose files
  </li>
  <li>
   <a href="https://github.com/jwilder/docker-gen">
@@ -1804,7 +2001,7 @@ about docker! (Tips: checkout her
    @jwilder
   </a>
   <sup>
-   &#9733 1359, pushed 4 days ago
+   &#9733 1359, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1816,7 +2013,7 @@ about docker! (Tips: checkout her
    @jwilder
   </a>
   <sup>
-   &#9733 461, pushed 5 days ago
+   &#9733 461, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1828,7 +2025,7 @@ about docker! (Tips: checkout her
    @progrium
   </a>
   <sup>
-   &#9733 3, pushed 259 days ago
+   &#9733 3, pushed 384 days ago
   </sup>
  </li>
  <li>
@@ -1840,7 +2037,7 @@ about docker! (Tips: checkout her
    @swipely
   </a>
   <sup>
-   &#9733 175, pushed 4 days ago
+   &#9733 175, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1852,7 +2049,7 @@ about docker! (Tips: checkout her
    @cpuguy83
   </a>
   <sup>
-   &#9733 360, pushed 265 days ago
+   &#9733 360, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -1864,7 +2061,7 @@ about docker! (Tips: checkout her
    @redhataccess
   </a>
   <sup>
-   &#9733 100, pushed 16 days ago
+   &#9733 100, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1876,7 +2073,7 @@ about docker! (Tips: checkout her
    @clusterhq
   </a>
   <sup>
-   &#9733 301, pushed 109 days ago
+   &#9733 301, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -1888,7 +2085,7 @@ about docker! (Tips: checkout her
    @tailhook
   </a>
   <sup>
-   &#9733 785, pushed 2 days ago
+   &#9733 785, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1900,7 +2097,7 @@ about docker! (Tips: checkout her
    @apocas
   </a>
   <sup>
-   &#9733 758, pushed 8 days ago
+   &#9733 758, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1913,6 +2110,15 @@ about docker! (Tips: checkout her
   </a>
  </li>
  <li>
+  <a href="https://github.com/Microsoft/Docker.DotNet">
+   Docker.DotNet
+  </a>
+  (C#/.NET HTTP client for the Docker remote API) by
+  <a href="https://github.com/ahmetalpbalkan/">
+   @ahmetalpbalkan
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/lsqio/container-factory">
    container-factory
   </a>
@@ -1921,7 +2127,7 @@ about docker! (Tips: checkout her
    @lsqio
   </a>
   <sup>
-   &#9733 51, pushed 363 days ago
+   &#9733 51, pushed 488 days ago
   </sup>
  </li>
  <li>
@@ -1942,7 +2148,7 @@ about docker! (Tips: checkout her
    @ashmckenzie
   </a>
   <sup>
-   &#9733 158, pushed 26 days ago
+   &#9733 158, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -1954,7 +2160,7 @@ about docker! (Tips: checkout her
    @michaelsauter
   </a>
   <sup>
-   &#9733 647, pushed 3 days ago
+   &#9733 647, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1966,7 +2172,7 @@ about docker! (Tips: checkout her
    @rancher
   </a>
   <sup>
-   &#9733 106, pushed 219 days ago
+   &#9733 106, pushed 343 days ago
   </sup>
  </li>
  <li>
@@ -1978,7 +2184,7 @@ about docker! (Tips: checkout her
    p8952
   </a>
   <sup>
-   &#9733 3260, pushed 251 days ago
+   &#9733 3260, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -1990,7 +2196,7 @@ about docker! (Tips: checkout her
    @icy
   </a>
   <sup>
-   &#9733 21, pushed 251 days ago
+   &#9733 21, pushed 376 days ago
   </sup>
  </li>
  <li>
@@ -2002,7 +2208,7 @@ about docker! (Tips: checkout her
    @spotify
   </a>
   <sup>
-   &#9733 1320, pushed 18 days ago
+   &#9733 1320, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -2014,7 +2220,7 @@ about docker! (Tips: checkout her
    @wercker
   </a>
   <sup>
-   &#9733 64, pushed 82 days ago
+   &#9733 64, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -2026,7 +2232,7 @@ about docker! (Tips: checkout her
    @bsideup
   </a>
   <sup>
-   &#9733 66, pushed 27 days ago
+   &#9733 66, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2038,7 +2244,7 @@ about docker! (Tips: checkout her
    @jlhawn
   </a>
   <sup>
-   &#9733 214, pushed 5 days ago
+   &#9733 214, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2050,7 +2256,7 @@ about docker! (Tips: checkout her
    @tarnfeld
   </a>
   <sup>
-   &#9733 118, pushed 99 days ago
+   &#9733 118, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -2062,7 +2268,7 @@ about docker! (Tips: checkout her
    @gesellix
   </a>
   <sup>
-   &#9733 42, pushed 19 days ago
+   &#9733 42, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2074,7 +2280,7 @@ about docker! (Tips: checkout her
    @gesellix
   </a>
   <sup>
-   &#9733 20, pushed 2 days ago
+   &#9733 20, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2092,7 +2298,7 @@ about docker! (Tips: checkout her
    @fgrehm
   </a>
   <sup>
-   &#9733 179, pushed 54 days ago
+   &#9733 179, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -2126,7 +2332,7 @@ about docker! (Tips: checkout her
    @benzaita
   </a>
   <sup>
-   &#9733 11, pushed 174 days ago
+   &#9733 11, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -2138,7 +2344,7 @@ about docker! (Tips: checkout her
    @brikis98
   </a>
   <sup>
-   &#9733 1027, pushed 23 days ago
+   &#9733 1027, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2151,7 +2357,7 @@ about docker! (Tips: checkout her
   </a>
   .
   <sup>
-   &#9733 182, pushed 7 days ago
+   &#9733 182, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2160,7 +2366,7 @@ about docker! (Tips: checkout her
   </a>
   - Command line interface for running code with Docker Exec images. https://docker-exec.github.io/ written in Go.
   <sup>
-   &#9733 239, pushed 9 days ago
+   &#9733 239, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2172,7 +2378,7 @@ about docker! (Tips: checkout her
    @polonskiy
   </a>
   <sup>
-   &#9733 62, pushed 103 days ago
+   &#9733 62, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -2184,7 +2390,7 @@ about docker! (Tips: checkout her
    @instacart
   </a>
   <sup>
-   &#9733 93, pushed 14 days ago
+   &#9733 93, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2197,7 +2403,7 @@ about docker! (Tips: checkout her
   </a>
   .
   <sup>
-   &#9733 4, pushed 58 days ago
+   &#9733 4, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -2206,7 +2412,7 @@ about docker! (Tips: checkout her
   </a>
   - Utility for running containerized development environments
   <sup>
-   &#9733 391, pushed 128 days ago
+   &#9733 391, pushed 253 days ago
   </sup>
  </li>
  <li>
@@ -2218,7 +2424,7 @@ about docker! (Tips: checkout her
    @sindresorhus
   </a>
   <sup>
-   &#9733 14, pushed 124 days ago
+   &#9733 14, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -2239,7 +2445,7 @@ about docker! (Tips: checkout her
    @getcarina
   </a>
   <sup>
-   &#9733 112, pushed 18 days ago
+   &#9733 112, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2251,7 +2457,7 @@ about docker! (Tips: checkout her
    @mayflower
   </a>
   <sup>
-   &#9733 39, pushed 19 days ago
+   &#9733 39, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -2263,7 +2469,7 @@ about docker! (Tips: checkout her
    @cloud66
   </a>
   <sup>
-   &#9733 116, pushed 13 days ago
+   &#9733 116, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2281,7 +2487,7 @@ about docker! (Tips: checkout her
    @zzrotdesign
   </a>
   <sup>
-   &#9733 202, pushed 4 days ago
+   &#9733 202, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2293,7 +2499,7 @@ about docker! (Tips: checkout her
    @adrianmo
   </a>
   <sup>
-   &#9733 9, pushed 7 days ago
+   &#9733 9, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2302,7 +2508,7 @@ about docker! (Tips: checkout her
   </a>
   - PowerShell Module for Docker
   <sup>
-   &#9733 73, pushed 1 days ago
+   &#9733 73, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2314,7 +2520,7 @@ about docker! (Tips: checkout her
    @francescou
   </a>
   <sup>
-   &#9733 6, pushed 112 days ago
+   &#9733 6, pushed 237 days ago
   </sup>
  </li>
  <li>
@@ -2326,8 +2532,70 @@ about docker! (Tips: checkout her
    @gdiepen
   </a>
   <sup>
-   &#9733 1, pushed 2 days ago
+   &#9733 1, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mudler/docker-companion">
+   docker-companion
+  </a>
+  - A command line tool written in Golang to squash and unpack docker images by
+  <a href="https://github.com/mudler/">
+   @mudler
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/Tapad/sbt-docker-compose">
+   sbt-docker-compose
+  </a>
+  - Integrates Docker Compose functionality into sbt by
+  <a href="https://github.com/kurtkopchik/">
+   @kurtkopchik
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/jeromepin/whale-linter">
+   Whale-linter
+  </a>
+  - A simple and small Dockerfile linter written in Python3+ without dependencies.
+ </li>
+ <li>
+  <a href="https://github.com/CtripCloud/docker-make">
+   docker-make
+  </a>
+  - build,tag,and push a bunch of related docker images via a single command.
+ </li>
+ <li>
+  <a href="https://github.com/tjamet/caduc">
+   caduc
+  </a>
+  - A docker garbage collector cleaning stuff you did not use recently
+ </li>
+ <li>
+  <a href="https://github.com/OctoLinker/browser-extension">
+   OctoLinker
+  </a>
+  - A browser extension for GitHub that makes the image name in a
+  <code>
+   Dockerfile
+  </code>
+  clickable and redirect you to the related Docker Hub page.
+ </li>
+ <li>
+  <a href="https://github.com/bcicen/docker-replay">
+   docker-replay
+  </a>
+  Generate
+  <code>
+   docker run
+  </code>
+  command and options from running containers
+ </li>
+ <li>
+  <a href="https://github.com/vutran/dext-docker-registry-plugin">
+   dext-docker-registry-plugin
+  </a>
+  - Search the Docker Registry with the Dext smart launcher.
  </li>
 </ul>
 <h2>
@@ -2340,8 +2608,14 @@ about docker! (Tips: checkout her
   </a>
   - Not specific to docker but relevant.
   <sup>
-   &#9733 167, pushed 4 days ago
+   &#9733 167, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://buddy.works">
+   Buddy
+  </a>
+  - The best of Git, build & deployment tools combined into one powerful tool that supercharged our development
  </li>
  <li>
   <a href="https://github.com/harbur/captain">
@@ -2352,7 +2626,7 @@ about docker! (Tips: checkout her
    @harbur
   </a>
   <sup>
-   &#9733 294, pushed 76 days ago
+   &#9733 294, pushed 201 days ago
   </sup>
  </li>
  <li>
@@ -2368,7 +2642,7 @@ about docker! (Tips: checkout her
   - Accelerate your transition to Docker containers
  </li>
  <li>
-  <a href="http://pages.codeship.com/docker">
+  <a href="https://pages.codeship.com/docker">
    CodeShip
   </a>
   - Work with your established Docker workflows while automating your testing and deployment tasks with our hosted platform dedicated to speed and security.
@@ -2388,7 +2662,7 @@ about docker! (Tips: checkout her
    @dockunit
   </a>
   <sup>
-   &#9733 35, pushed 165 days ago
+   &#9733 35, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -2397,7 +2671,7 @@ about docker! (Tips: checkout her
   </a>
   - Continuous integration server built on Docker and configured using YAML files.
   <sup>
-   &#9733 6750, pushed 1 days ago
+   &#9733 6750, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2412,7 +2686,7 @@ about docker! (Tips: checkout her
   </a>
   Go Server and Agent in docker containers to provision.
   <sup>
-   &#9733 57, pushed 5 days ago
+   &#9733 57, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2420,6 +2694,12 @@ about docker! (Tips: checkout her
    IBM DevOps Services
   </a>
   - Continuous delivery using a pipeline deployment onto IBM Containers on Bluemix.
+ </li>
+ <li>
+  <a href="https://github.com/chef/inspec">
+   InSpec
+  </a>
+  - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
  </li>
  <li>
   <a href="https://app.shippable.com/">
@@ -2436,7 +2716,7 @@ about docker! (Tips: checkout her
    @CenturyLinkLabs
   </a>
   <sup>
-   &#9733 327, pushed 49 days ago
+   &#9733 327, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -2445,8 +2725,14 @@ about docker! (Tips: checkout her
   </a>
   - Continuous deployment of a microservices application
   <sup>
-   &#9733 84, pushed 62 days ago
+   &#9733 84, pushed 187 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/gaia-adm/pumba">
+   Pumba
+  </a>
+  - Chaos testing tool for Docker. Can be deployed on Kubernets and CoreOS clusters.
  </li>
 </ul>
 <h2>
@@ -2462,7 +2748,7 @@ about docker! (Tips: checkout her
    @ehazlett
   </a>
   <sup>
-   &#9733 75, pushed 26 days ago
+   &#9733 75, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -2474,7 +2760,7 @@ about docker! (Tips: checkout her
    @gonodr
   </a>
   <sup>
-   &#9733 48, pushed 3 days ago
+   &#9733 48, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2483,14 +2769,8 @@ about docker! (Tips: checkout her
   </a>
   - Do docker actions and Deploy gluster containers!
   <sup>
-   &#9733 98, pushed 546 days ago
+   &#9733 98, pushed 671 days ago
   </sup>
- </li>
- <li>
-  <a href="https://lastbackend.com/">
-   Last.Backend
-  </a>
-  - Last.Backend platform is designed for automatization of all routine work with the server and deployment of applications in one click using the visual interface.
  </li>
  <li>
   <a href="https://github.com/grammarly/rocker-compose">
@@ -2498,7 +2778,7 @@ about docker! (Tips: checkout her
   </a>
   - Docker composition tool with idempotency features for deploying apps composed of multiple containers.
   <sup>
-   &#9733 296, pushed 10 days ago
+   &#9733 296, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2510,7 +2790,7 @@ about docker! (Tips: checkout her
    @CenturyLinkLabs
   </a>
   <sup>
-   &#9733 133, pushed 259 days ago
+   &#9733 133, pushed 384 days ago
   </sup>
  </li>
 </ul>
@@ -2530,13 +2810,15 @@ about docker! (Tips: checkout her
  </a>
  (part of CoreOS) - Secure hosting for private Docker repositories
 *
- <a href="https://reesd.com/">
-  Reesd
+ <a href="http://docs.gitlab.com/ce/container_registry/README.html">
+  GitLab Container Registry
  </a>
- -  Private Docker repositories and redundant storage service by
- <a href="https://github.com/noteed">
-  @noteed
+ - Repositories focused on using it images in GitLab CI
+*
+ <a href="https://treescale.com/">
+  TreeScale
  </a>
+ - Build and Distriubute container based applicaitons.
 </p>
 <h2>
  Hosting for containers
@@ -2553,12 +2835,6 @@ about docker! (Tips: checkout her
    ContainerShip Cloud
   </a>
   - Multi-Cloud Container Hosting Automation Platform.
- </li>
- <li>
-  <a href="https://www.tutum.co/">
-   Docker Tutum
-  </a>
-  (part of Docker Inc) - Simple hosting for your Docker containers. -> now Docker Cloud
  </li>
  <li>
   <a href="https://cloud.docker.com/">
@@ -2624,8 +2900,17 @@ about docker! (Tips: checkout her
    @jwilder
   </a>
   <sup>
-   &#9733 2504, pushed 2 days ago
+   &#9733 2504, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion">
+   Let's Encrypt Nginx-proxy Companion
+  </a>
+  - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By
+  <a href="https://github.com/JrCs">
+   @JrCs
+  </a>
  </li>
  <li>
   <a href="https://github.com/zchee/h2o-proxy">
@@ -2640,7 +2925,7 @@ about docker! (Tips: checkout her
    @zchee
   </a>
   <sup>
-   &#9733 24, pushed 118 days ago
+   &#9733 24, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -2652,7 +2937,7 @@ about docker! (Tips: checkout her
    @silarsis
   </a>
   <sup>
-   &#9733 70, pushed 2 days ago
+   &#9733 70, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2664,7 +2949,7 @@ about docker! (Tips: checkout her
    @mattallty
   </a>
   <sup>
-   &#9733 116, pushed 133 days ago
+   &#9733 116, pushed 258 days ago
   </sup>
  </li>
  <li>
@@ -2676,70 +2961,112 @@ about docker! (Tips: checkout her
    @EmileVauge
   </a>
  </li>
+ <li>
+  <a href="https://github.com/eBay/fabio">
+   fabio
+  </a>
+  - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By
+  <a href="https://github.com/eBay">
+   @eBay
+  </a>
+  <sup>
+   &#9733 1874, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tpbowden/swarm-ingress-router">
+   Swarm Ingress Router
+  </a>
+  - Route DNS names to Swarm services based on labels.
+ </li>
 </ul>
 <h2>
  Web Interface
 </h2>
 <ul>
  <li>
-  <a href="https://github.com/atc-/docker-registry-ui">
-   Docker Registry Web
+  <a href="https://github.com/klausmeyer/docker-registry-browser">
+   Docker Registry Browser
   </a>
-  (A web UI for easy private/local Docker Registry integration) by
+  - Web Interface for the Docker Registry HTTP API v2 by
+  <a href="https://github.com/klausmeyer">
+   @klausmeyer
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/atc-/docker-registry-ui">
+   Docker Registry UI
+  </a>
+  - A web UI for easy private/local Docker Registry integration by
   <a href="https://github.com/atc-">
    @atc-
   </a>
   <sup>
-   &#9733 548, pushed 24 days ago
+   &#9733 548, pushed 149 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/kevana/ui-for-docker">
    DockerUI
   </a>
-  (DockerUI is a web interface to interact with the Remote API.) by
+  - DockerUI is a web interface to interact with the Remote API by
   <a href="https://github.com/crosbymichael">
    @crosbymichael
   </a>
   <sup>
-   &#9733 3780, pushed 4 days ago
+   &#9733 3780, pushed 128 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/SUSE/Portus">
    Portus
   </a>
-  (Authorization service and frontend for Docker registry (v2)) by
+  - Authorization service and frontend for Docker registry (v2) by
   <a href="https://github.com/SUSE">
    @SUSE
   </a>
   <sup>
-   &#9733 756, pushed 3 days ago
+   &#9733 756, pushed 128 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/mkuchin/docker-registry-web">
+   docker-registry-web
+  </a>
+  - Web UI, authentication service and event recorder for private docker registry v2 by
+  <a href="https://github.com/mkuchin">
+   @mkuchin
+  </a>
  </li>
  <li>
   <a href="https://github.com/Electrofenster/dockerding-on-rails">
    dockering-on-rails
   </a>
-  Simple Web-Interface for Docker with a lot of features by
+  - Simple Web-Interface for Docker with a lot of features by
   <a href="https://github.com/Electrofenster/">
    @Electrofenster
   </a>
   <sup>
-   &#9733 5, pushed 142 days ago
+   &#9733 5, pushed 266 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ozlerhakan/rapid">
    Rapid Dashboard
   </a>
-  (A simple query dashboard to use Docker Remote API) by
+  - A simple query dashboard to use Docker Remote API by
   <a href="https://github.com/ozlerhakan/">
    @ozlerhakan
   </a>
   <sup>
-   &#9733 5, pushed 73 days ago
+   &#9733 5, pushed 198 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/manomarks/docker-swarm-visualizer">
+   docker-swarm-visualizer
+  </a>
+  - Visualizes Docker services on a Docker Swarm (for running demos).
  </li>
 </ul>
 <h2>
@@ -2750,7 +3077,7 @@ about docker! (Tips: checkout her
   <a href="http://ianmiell.github.io/shutit/">
    Shutit
   </a>
-  (a tool for building and maintaining complex Docker deployments) by
+  - Tool for building and maintaining complex Docker deployments by
   <a href="https://github.com/ianmiell">
    @ianmiell
   </a>
@@ -2759,58 +3086,58 @@ about docker! (Tips: checkout her
   <a href="https://github.com/mattes/fugu">
    FuGu
   </a>
-  (a docker run wrapper without orchestration) by
+  - Docker run wrapper without orchestration by
   <a href="https://github.com/mattes">
    @mattes
   </a>
   <sup>
-   &#9733 129, pushed 267 days ago
+   &#9733 129, pushed 392 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/boot2docker/boot2docker">
    Boot2Docker
   </a>
-  (docker for OSX and Windows) -- http://boot2docker.io/
+  - Docker for OSX and Windows -- http://boot2docker.io/
   <sup>
-   &#9733 6051, pushed 6 days ago
+   &#9733 6051, pushed 131 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/shyiko/docker-vm">
    docker-vm
   </a>
-  (A simple and transparent alternative to boot2docker (backed by Vagrant)) by
+  - Simple and transparent alternative to boot2docker (backed by Vagrant) by
   <a href="https://github.com/shyiko">
    @shyiko
   </a>
   <sup>
-   &#9733 30, pushed 281 days ago
+   &#9733 30, pushed 405 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awvessel/vessel">
    Vessel
   </a>
-  (Vessel automates the setup & use of dockerized development environments) by
+  - Automates the setup & use of dockerized development environments by
   <a href="https://github.com/awvessel">
    @awvessel
   </a>
   <sup>
-   &#9733 212, pushed 291 days ago
+   &#9733 212, pushed 415 days ago
   </sup>
  </li>
  <li>
   <a href="http://subuser.org">
    subuser
   </a>
-  (subuser makes it easy to securely and portably run graphical desktop applications in Docker)
+  - Makes it easy to securely and portably run graphical desktop applications in Docker
  </li>
  <li>
   <a href="http://www.octohost.io/">
    OctoHost
   </a>
-  (Simple web focused Docker based mini-PaaS server. git push to deploy your websites as needed) by
+  - Simple web focused Docker based mini-PaaS server. git push to deploy your websites as needed) by
   <a href="https://github.com/octohost">
    @octohost
   </a>
@@ -2819,12 +3146,12 @@ about docker! (Tips: checkout her
   <a href="https://github.com/dokku/dokku">
    Dokku
   </a>
-  (Docker powered mini-Heroku in around 100 lines of Bash) by
+  - Docker powered mini-Heroku in around 100 lines of Bash by
   <a href="https://github.com/progrium">
    @progrium
   </a>
   <sup>
-   &#9733 11549, pushed 4 days ago
+   &#9733 11549, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2836,7 +3163,7 @@ about docker! (Tips: checkout her
   <a href="https://www.vagrantup.com/docs/docker/basics.html">
    Vagrant - Docker provider
   </a>
-  a good starting point is
+  - Good starting point is
   <a href="https://github.com/bubenkoff/vagrant-docker-example">
    vagrant-docker-example
   </a>
@@ -2849,19 +3176,19 @@ about docker! (Tips: checkout her
   <a href="https://github.com/CenturyLinkLabs/dray">
    Dray
   </a>
-  An engine for managing the execution of container-based workflows. http://Dray.it by
+  - An engine for managing the execution of container-based workflows. http://Dray.it by
   <a href="https://github.com/CenturyLinkLabs">
    @CenturyLinkLabs
   </a>
   <sup>
-   &#9733 249, pushed 101 days ago
+   &#9733 249, pushed 226 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/ashmckenzie/percheron">
    percheron
   </a>
-  (Organise your Docker containers with muscle and intelligence) by
+  - Organise your Docker containers with muscle and intelligence by
   <a href="https://github.com/ashmckenzie">
    @ashmckenzie
   </a>
@@ -2870,44 +3197,58 @@ about docker! (Tips: checkout her
   <a href="http://dusty.gc.com/">
    Dusty
   </a>
-  Managed Docker development environments on OS X
+  - Managed Docker development environments on OS X
  </li>
  <li>
   <a href="https://github.com/cortexmedia/Beluga">
    Beluga
   </a>
-  Beluga a CLI to deploy docker containers on a single server or low amount of servers. By
+  - CLI to deploy docker containers on a single server or low amount of servers. By
   <a href="https://github.com/cortexmedia">
    @cortextmedia
   </a>
   <sup>
-   &#9733 164, pushed 216 days ago
+   &#9733 164, pushed 341 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/docker/libcompose">
    libcompose
   </a>
-  A Go library for Docker Compose.
+  - Go library for Docker Compose.
   <sup>
-   &#9733 299, pushed 2 days ago
+   &#9733 299, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/nlf/dlite">
    DLite
   </a>
-  Simplest way to use Docker on OSX, no VM needed.
-  <strong>
-   WIP
-  </strong>
-  By
+  - Simplest way to use Docker on OSX, no VM needed. By
   <a href="https://github.com/nlf">
    @nlf
   </a>
   <sup>
-   &#9733 2148, pushed 5 days ago
+   &#9733 2148, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.azk.io/">
+   Azk
+  </a>
+  - Orchestrate development enviornments on your local machine by
+  <a href="https://github.com/azukiapp">
+   @azukiapp
+  </a>
+ </li>
+ <li>
+  <a href="https://ramitsurana.github.io/turbo/">
+   Turbo
+  </a>
+  - Simple and Powerful utility for docker. By
+  <a href="https://github.com/ramitsurana">
+   @ramitsurana
+  </a>
  </li>
 </ul>
 <h2>
@@ -2923,7 +3264,7 @@ about docker! (Tips: checkout her
    @blockbridge
   </a>
   <sup>
-   &#9733 24, pushed 5 days ago
+   &#9733 24, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2935,7 +3276,7 @@ about docker! (Tips: checkout her
    @rancher
   </a>
   <sup>
-   &#9733 335, pushed 6 days ago
+   &#9733 335, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2947,7 +3288,7 @@ about docker! (Tips: checkout her
    @ahmetalpbalkan
   </a>
   <sup>
-   &#9733 2, pushed 53 days ago
+   &#9733 2, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -2959,7 +3300,7 @@ about docker! (Tips: checkout her
    @leighmcculloch
   </a>
   <sup>
-   &#9733 87, pushed 31 days ago
+   &#9733 87, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -2971,7 +3312,7 @@ about docker! (Tips: checkout her
    @gondor
   </a>
   <sup>
-   &#9733 142, pushed 4 days ago
+   &#9733 142, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2980,7 +3321,7 @@ about docker! (Tips: checkout her
   </a>
   Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
   <sup>
-   &#9733 417, pushed 53 days ago
+   &#9733 417, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -2989,7 +3330,7 @@ about docker! (Tips: checkout her
   </a>
   Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks.
   <sup>
-   &#9733 251, pushed 2 days ago
+   &#9733 251, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3002,7 +3343,7 @@ about docker! (Tips: checkout her
   </code>
   ) so that files will always persist and so you can mount to different directories in different containers.
   <sup>
-   &#9733 33, pushed 36 days ago
+   &#9733 33, pushed 161 days ago
   </sup>
  </li>
 </ul>
@@ -3015,7 +3356,7 @@ about docker! (Tips: checkout her
    Official Images from Docker Hub
   </a>
   <sup>
-   &#9733 1250, pushed 2 days ago
+   &#9733 1250, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3027,7 +3368,7 @@ about docker! (Tips: checkout her
    @phusion
   </a>
   <sup>
-   &#9733 4140, pushed 2 days ago
+   &#9733 4140, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3047,7 +3388,7 @@ about docker! (Tips: checkout her
    @jpetazzo
   </a>
   <sup>
-   &#9733 84, pushed 371 days ago
+   &#9733 84, pushed 496 days ago
   </sup>
  </li>
  <li>
@@ -3073,7 +3414,7 @@ about docker! (Tips: checkout her
    @phusion
   </a>
   <sup>
-   &#9733 1921, pushed 71 days ago
+   &#9733 1921, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -3089,7 +3430,7 @@ about docker! (Tips: checkout her
    @gliderlabs
   </a>
   <sup>
-   &#9733 2994, pushed 8 days ago
+   &#9733 2994, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3101,7 +3442,7 @@ about docker! (Tips: checkout her
    @kiyoto
   </a>
   <sup>
-   &#9733 22, pushed 518 days ago
+   &#9733 22, pushed 642 days ago
   </sup>
  </li>
  <li>
@@ -3110,7 +3451,7 @@ about docker! (Tips: checkout her
   </a>
   (A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.)
   <sup>
-   &#9733 19, pushed 113 days ago
+   &#9733 19, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -3119,7 +3460,7 @@ about docker! (Tips: checkout her
   </a>
   (Build and run Docker containers leveraging NVIDIA GPUs.)
   <sup>
-   &#9733 540, pushed 14 days ago
+   &#9733 540, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -3136,7 +3477,7 @@ about docker! (Tips: checkout her
    @crosbymichael
   </a>
   <sup>
-   &#9733 241, pushed 601 days ago
+   &#9733 241, pushed 725 days ago
   </sup>
  </li>
  <li>
@@ -3154,7 +3495,7 @@ about docker! (Tips: checkout her
    @komljen
   </a>
   <sup>
-   &#9733 340, pushed 281 days ago
+   &#9733 340, pushed 406 days ago
   </sup>
  </li>
  <li>
@@ -3166,7 +3507,7 @@ about docker! (Tips: checkout her
    @kstaken
   </a>
   <sup>
-   &#9733 356, pushed 155 days ago
+   &#9733 356, pushed 280 days ago
   </sup>
  </li>
  <li>
@@ -3183,7 +3524,7 @@ about docker! (Tips: checkout her
   for a fully containerized
 desktop!
   <sup>
-   &#9733 2026, pushed 2 days ago
+   &#9733 2026, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -3197,7 +3538,7 @@ desktop!
   </a>
   (The Docker toolset to pack, ship, store, and deliver content)
   <sup>
-   &#9733 2017, pushed 4 days ago
+   &#9733 2017, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3209,7 +3550,7 @@ desktop!
    @noteed
   </a>
   <sup>
-   &#9733 6, pushed 165 days ago
+   &#9733 6, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -3238,7 +3579,7 @@ desktop!
    @Google
   </a>
   <sup>
-   &#9733 3861, pushed 2 days ago
+   &#9733 3861, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3253,7 +3594,7 @@ desktop!
   </a>
   (packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.)
   <sup>
-   &#9733 171, pushed 317 days ago
+   &#9733 171, pushed 442 days ago
   </sup>
  </li>
  <li>
@@ -3265,7 +3606,7 @@ desktop!
    @icecrime
   </a>
   <sup>
-   &#9733 661, pushed 281 days ago
+   &#9733 661, pushed 406 days ago
   </sup>
  </li>
  <li>
@@ -3286,7 +3627,7 @@ desktop!
    @vegasbrianc
   </a>
   <sup>
-   &#9733 133, pushed 6 days ago
+   &#9733 133, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3296,7 +3637,7 @@ desktop!
   Analyzes containers resources, captures logs, remote web SSH terminal and powerful DevOps alerts.
  </li>
  <li>
-  <a href="http://newrelic.com/docker">
+  <a href="https://newrelic.com/docker">
    New Relic
   </a>
   New Relics Docker Monitoring tool
@@ -3308,7 +3649,7 @@ desktop!
   (Open-source service monitoring system and time series database)
  </li>
  <li>
-  <a href="http://www.dynatrace.com/en/ruxit/technologies/cloud-and-microservices/docker-monitoring/">
+  <a href="https://www.dynatrace.com/technologies/cloud-and-microservices/docker-monitoring/">
    Ruxit
   </a>
   Monitor containerized applications without installing agents or modifying your Run commands
@@ -3322,7 +3663,7 @@ desktop!
    @tobegit3hub
   </a>
   <sup>
-   &#9733 1298, pushed 35 days ago
+   &#9733 1298, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -3343,7 +3684,7 @@ desktop!
   </a>
   : Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.
   <sup>
-   &#9733 244, pushed 19 days ago
+   &#9733 244, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -3355,7 +3696,7 @@ desktop!
    @sematext
   </a>
   <sup>
-   &#9733 12, pushed 12 days ago
+   &#9733 12, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3364,13 +3705,28 @@ desktop!
   </a>
   - Monitor containers automatically using zabbix LLD feature.
   <sup>
-   &#9733 17, pushed 162 days ago
+   &#9733 17, pushed 287 days ago
   </sup>
  </li>
  <li>
   <a href="http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/">
    Collecting docker logs and stats with Splunk
   </a>
+ </li>
+ <li>
+  <a href="https://grafana.net/dashboards/179">
+   Grafana Docker Dashboard Template
+  </a>
+  - A template for your Docker, Grafana and Prometheus stack
+  <a href="https://github.com/vegasbrianc">
+   @vegasbrianc
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/eon01/DoMonit">
+   DoMonit
+  </a>
+  - A simple Docker Monitoring wrapper For Docker API
  </li>
 </ul>
 <h2>
@@ -3393,7 +3749,7 @@ desktop!
   </a>
   ) http://ahmetalpbalkan.github.io/wagl/
   <sup>
-   &#9733 260, pushed 5 days ago
+   &#9733 260, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3402,8 +3758,14 @@ desktop!
   </a>
   (The Docker network) -- Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
   <sup>
-   &#9733 4182, pushed 4 days ago
+   &#9733 4182, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/coreos/flannel/">
+   Flannel
+  </a>
+  - Flannel is a virtual network that gives a subnet to each host for use with container runtimes.
  </li>
 </ul>
 <h2>
@@ -3419,7 +3781,7 @@ desktop!
    @kiyoto
   </a>
   <sup>
-   &#9733 22, pushed 518 days ago
+   &#9733 22, pushed 642 days ago
   </sup>
  </li>
  <li>
@@ -3431,7 +3793,7 @@ desktop!
    @gocardless
   </a>
   <sup>
-   &#9733 110, pushed 209 days ago
+   &#9733 110, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -3443,7 +3805,7 @@ desktop!
    @gliderlabs
   </a>
   <sup>
-   &#9733 1794, pushed 6 days ago
+   &#9733 1794, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3459,7 +3821,7 @@ desktop!
    @sematext
   </a>
   <sup>
-   &#9733 12, pushed 12 days ago
+   &#9733 12, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -3476,7 +3838,7 @@ desktop!
    @newrelic
   </a>
   <sup>
-   &#9733 1592, pushed 8 days ago
+   &#9733 1592, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3500,7 +3862,7 @@ desktop!
    @brooklyncentral
   </a>
   <sup>
-   &#9733 395, pushed 4 days ago
+   &#9733 395, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3515,7 +3877,7 @@ desktop!
   </a>
   - Git and Docker deployment tool. A middle ground between simple Docker composition tools and full blown cluster orchestration. Declarative configuration and short commands for managing (syncing, building, running) of infrastructures of more than a few services. Able to deploy whole preconfigured server or system of services with a single line (without having to scroll the line).
   <sup>
-   &#9733 18, pushed 64 days ago
+   &#9733 18, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -3527,7 +3889,7 @@ desktop!
    @netvarun
   </a>
   <sup>
-   &#9733 538, pushed 351 days ago
+   &#9733 538, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -3539,7 +3901,7 @@ desktop!
    longshoreman
   </a>
   <sup>
-   &#9733 416, pushed 487 days ago
+   &#9733 416, pushed 612 days ago
   </sup>
  </li>
 </ul>
@@ -3548,12 +3910,18 @@ desktop!
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/ooyala/atlantis">
+   Atlantis
+  </a>
+  - Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go
+ </li>
+ <li>
   <a href="https://github.com/deis/deis">
    Deis
   </a>
   (Your PaaS, your rules) -- http://deis.io/
   <sup>
-   &#9733 5516, pushed 2 days ago
+   &#9733 5516, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3566,12 +3934,18 @@ desktop!
   </a>
  </li>
  <li>
+  <a href="https://github.com/remind101/empire">
+   Empire
+  </a>
+  : A PaaS built on top of Amazon EC2 Container Service (ECS)
+ </li>
+ <li>
   <a href="https://github.com/flynn/flynn">
    Flynn
   </a>
   (A next generation open source platform as a service) -- https://flynn.io/
   <sup>
-   &#9733 4444, pushed 2 days ago
+   &#9733 4444, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3593,8 +3967,26 @@ desktop!
   </a>
   (Tsuru is an extensible and open source Platform as a Service software) -- https://tsuru.io/
   <sup>
-   &#9733 1864, pushed 1 days ago
+   &#9733 1864, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/convox/rack">
+   Convox Rack
+  </a>
+  : Convox Rack is open source PaaS built on top of expert infrastructure automation and devops best practices.
+ </li>
+ <li>
+  <a href="https://github.com/rancher">
+   Rancher
+  </a>
+  : Rancher is an open source project that provides a complete platform for operating Docker in production
+ </li>
+ <li>
+  <a href="https://github.com/pbertera/dcw">
+   Dcw
+  </a>
+  : Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.
  </li>
 </ul>
 <h2>
@@ -3610,7 +4002,7 @@ desktop!
    @prologic
   </a>
   <sup>
-   &#9733 30, pushed 122 days ago
+   &#9733 30, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -3626,7 +4018,7 @@ desktop!
    @schvin
   </a>
   <sup>
-   &#9733 17, pushed 401 days ago
+   &#9733 17, pushed 526 days ago
   </sup>
  </li>
  <li>
@@ -3639,7 +4031,7 @@ desktop!
   </a>
   .
   <sup>
-   &#9733 14, pushed 10 days ago
+   &#9733 14, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -3648,7 +4040,7 @@ desktop!
   </a>
   (Citadel is a toolkit for scheduling containers on a Docker cluster) (unmaintained)
   <sup>
-   &#9733 430, pushed 249 days ago
+   &#9733 430, pushed 373 days ago
   </sup>
  </li>
  <li>
@@ -3663,7 +4055,7 @@ desktop!
   </a>
   (A simple container management platform) -- [containership]
   <sup>
-   &#9733 112, pushed 9 days ago
+   &#9733 112, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3693,7 +4085,7 @@ desktop!
    @ClusterHQ
   </a>
   <sup>
-   &#9733 2285, pushed 1 days ago
+   &#9733 2285, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -3702,7 +4094,7 @@ desktop!
   </a>
   (Gaudi allows to share multi-component applications, based on Docker,  Go, and YAM) ~~ project discontinued.
   <sup>
-   &#9733 598, pushed 543 days ago
+   &#9733 598, pushed 668 days ago
   </sup>
  </li>
  <li>
@@ -3711,7 +4103,7 @@ desktop!
   </a>
   (Application Containers for Masses) -- https://www.kontena.io/
   <sup>
-   &#9733 657, pushed 1 days ago
+   &#9733 657, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3736,7 +4128,7 @@ desktop!
    @tascanini
   </a>
   <sup>
-   &#9733 607, pushed 987 days ago
+   &#9733 607, pushed 1111 days ago
   </sup>
  </li>
  <li>
@@ -3763,7 +4155,7 @@ desktop!
   </a>
   (Portable AWS-style infrastructure service for Docker) -- http://rancher.com/
   <sup>
-   &#9733 3327, pushed 3 days ago
+   &#9733 3327, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3772,7 +4164,7 @@ desktop!
   </a>
   (A Distributed init System providing low-level orchestration ) -- [coreos.com]
   <sup>
-   &#9733 2173, pushed 4 days ago
+   &#9733 2173, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3784,7 +4176,7 @@ desktop!
    @hashicorp
   </a>
   <sup>
-   &#9733 3510, pushed 1 days ago
+   &#9733 3510, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3793,7 +4185,7 @@ desktop!
   </a>
   (Composable Docker Management) -- http://shipyard-project.com/
   <sup>
-   &#9733 4644, pushed 5 days ago
+   &#9733 4644, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -3805,7 +4197,7 @@ desktop!
    @m4ce
   </a>
   <sup>
-   &#9733 1, pushed 29 days ago
+   &#9733 1, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -3814,7 +4206,7 @@ desktop!
   </a>
   open source management platform for Kubernetes.
   <sup>
-   &#9733 79, pushed 4 days ago
+   &#9733 79, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3826,7 +4218,7 @@ desktop!
    @ciscocloud
   </a>
   <sup>
-   &#9733 2237, pushed 4 days ago
+   &#9733 2237, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -3843,7 +4235,7 @@ desktop!
    @docker
   </a>
   <sup>
-   &#9733 1313, pushed 3 days ago
+   &#9733 1313, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3855,11 +4247,11 @@ desktop!
    @docker
   </a>
   <sup>
-   &#9733 617, pushed 4 days ago
+   &#9733 617, pushed 128 days ago
   </sup>
  </li>
  <li>
-  <a href="https://www.twistlock.com/">
+  <a href="https://twistlock.com/">
    Twistlock
   </a>
   Twistlock Security Suite detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
@@ -3873,7 +4265,7 @@ desktop!
    @coreos
   </a>
   <sup>
-   &#9733 1105, pushed 5 days ago
+   &#9733 1105, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -3890,7 +4282,7 @@ desktop!
    @progrium
   </a>
   <sup>
-   &#9733 875, pushed 42 days ago
+   &#9733 875, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -3902,7 +4294,7 @@ desktop!
    @coreOS
   </a>
   <sup>
-   &#9733 9440, pushed 2 days ago
+   &#9733 9440, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3918,7 +4310,7 @@ desktop!
    @cpuguy83
   </a>
   <sup>
-   &#9733 181, pushed 469 days ago
+   &#9733 181, pushed 594 days ago
   </sup>
  </li>
  <li>
@@ -3930,7 +4322,7 @@ desktop!
    @factorish
   </a>
   <sup>
-   &#9733 42, pushed 373 days ago
+   &#9733 42, pushed 498 days ago
   </sup>
  </li>
  <li>
@@ -3938,6 +4330,17 @@ desktop!
    wagl
   </a>
   : Service discovery for docker swarm using DNS
+ </li>
+</ul>
+<h2>
+ Metadata
+</h2>
+<ul>
+ <li>
+  <a href="https://microbadger.com">
+   MicroBadger
+  </a>
+  - add metadata to Docker images using labels.
  </li>
 </ul>
 <h1>
@@ -3965,6 +4368,15 @@ desktop!
   by
   <a href="https://twitter.com/johanjanssen42">
    @johanjanssen42
+  </a>
+ </li>
+ <li>
+  <a href="https://www.slideshare.net/ramitsurana/docker-for-the-new-era">
+   Docker for the new era
+  </a>
+  by
+  <a href="https://github.com/ramitsurana">
+   @ramitsurana
   </a>
  </li>
 </ul>
@@ -4062,6 +4474,24 @@ desktop!
   (36:05)
  </li>
  <li>
+  <a href="https://www.youtube.com/watch?v=ZVaRK10HBjo">
+   Introduction to Docker and containers
+  </a>
+  (3:09:00) by
+  <a href="https://github.com/jpetazzo">
+   @jpetazzo
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=GpHMTR7P2Ms">
+   Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic
+  </a>
+  (3:11:06) by
+  <a href="https://github.com/jpetazzo">
+   @jpetazzo
+  </a>
+ </li>
+ <li>
   <a href="https://www.youtube.com/watch?v=CAewZCBT4PI">
    Docker: How to Use Your Own Private Registry
   </a>
@@ -4125,6 +4555,23 @@ desktop!
   </a>
   (15:49)
  </li>
+ <li>
+  <a href="https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615">
+   Scalable Microservices with Kubernetes
+  </a>
+  Free Udacity course
+ </li>
+</ul>
+<h1>
+ Interactive Learning Environments
+</h1>
+<ul>
+ <li>
+  <a href="https://www.katacoda.com/">
+   Katacoda
+  </a>
+  : Learn Docker using Interactive Browser-Based Labs
+ </li>
 </ul>
 <h1>
  Interesting Twitter Accounts
@@ -4170,6 +4617,16 @@ desktop!
    The New Stack
   </a>
  </li>
+ <li>
+  <a href="https://twitter.com/dockernews">
+   Docker News
+  </a>
+ </li>
+ <li>
+  <a href="https://twitter.com/EltonStoneman/lists/docker-captains">
+   Docker Captains Twitter List
+  </a>
+ </li>
 </ul>
 <h2>
  People
@@ -4212,9 +4669,15 @@ desktop!
   Design-minded software architect
  </li>
  <li>
-  <a href="https://twitter.com/frazelledazzell">
+  <a href="https://twitter.com/jessfraz">
    Jessie Frazelle
   </a>
-  Work @docker and uses full containerized desktop, lots of fun.
+  Ex-@docker maintainer and uses full containerized desktop, lots of fun.
+ </li>
+ <li>
+  <a href="https://www.docker.com/community/docker-captains">
+   Docker Captains
+  </a>
+  - Docker experts and community leaders
  </li>
 </ul>

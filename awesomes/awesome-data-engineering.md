@@ -75,6 +75,15 @@
     The world's most popular open source database.
     <ul>
      <li>
+      <a href="https://github.com/pingcap/tidb">
+       TiDB
+      </a>
+      TiDB is a distributed NewSQL database compatible with MySQL protocol
+      <sup>
+       &#9733 3878, pushed 128 days ago
+      </sup>
+     </li>
+     <li>
       <a href="https://www.percona.com/software/mysql-database/percona-xtrabackup">
        Percona XtraBackup
       </a>
@@ -86,7 +95,7 @@
       </a>
       Pinterest MySQL Management Tools
       <sup>
-       &#9733 616, pushed 77 days ago
+       &#9733 616, pushed 201 days ago
       </sup>
      </li>
     </ul>
@@ -144,7 +153,7 @@
     </a>
     HyperDex is a scalable, searchable key-value store
     <sup>
-     &#9733 1064, pushed 19 days ago
+     &#9733 1064, pushed 144 days ago
     </sup>
    </li>
    <li>
@@ -165,7 +174,7 @@
     </a>
     A key-value store for microcontroller and IoT applications
     <sup>
-     &#9733 409, pushed 104 days ago
+     &#9733 409, pushed 228 days ago
     </sup>
    </li>
   </ul>
@@ -191,7 +200,7 @@
       </a>
       A script to easily create and destroy an Apache Cassandra cluster on localhost
       <sup>
-       &#9733 672, pushed 7 days ago
+       &#9733 672, pushed 132 days ago
       </sup>
      </li>
      <li>
@@ -200,7 +209,7 @@
       </a>
       NoSQL data store using the seastar framework, compatible with Apache Cassandra http://www.scylladb.com/
       <sup>
-       &#9733 1896, pushed 1 days ago
+       &#9733 1896, pushed 126 days ago
       </sup>
      </li>
     </ul>
@@ -249,7 +258,7 @@
       </a>
       Distributed Transactional In-Memory Database (based on MongoDB)
       <sup>
-       &#9733 488, pushed 135 days ago
+       &#9733 488, pushed 260 days ago
       </sup>
      </li>
     </ul>
@@ -307,7 +316,7 @@
     </a>
     A distributed, fault-tolerant graph database by Twitter.
     <sup>
-     &#9733 2814, pushed 216 days ago
+     &#9733 2814, pushed 341 days ago
     </sup>
    </li>
   </ul>
@@ -333,7 +342,7 @@
     </a>
     A large-scale graph database
     <sup>
-     &#9733 1163, pushed 2 days ago
+     &#9733 1163, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -353,7 +362,7 @@
     </a>
     A scalable, distributed Time Series Database.
     <sup>
-     &#9733 1963, pushed 1 days ago
+     &#9733 1963, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -362,7 +371,7 @@
     </a>
     Fast scalable time series database.
     <sup>
-     &#9733 814, pushed 4 days ago
+     &#9733 814, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -371,12 +380,12 @@
     </a>
     A scalable time series database based on Cassandra and Elasticsearch, by Spotify
     <sup>
-     &#9733 371, pushed 8 days ago
+     &#9733 371, pushed 133 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 7943, pushed 2 days ago
+   &#9733 7943, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -394,7 +403,7 @@
     </a>
     The Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.
     <sup>
-     &#9733 1417, pushed 1 days ago
+     &#9733 1417, pushed 125 days ago
     </sup>
    </li>
    <li>
@@ -403,7 +412,7 @@
     </a>
     An open-source graph database. Google.
     <sup>
-     &#9733 7409, pushed 8 days ago
+     &#9733 7409, pushed 133 days ago
     </sup>
    </li>
    <li>
@@ -412,7 +421,7 @@
     </a>
     SnappyData: OLTP + OLAP Database built on Apache Spark
     <sup>
-     &#9733 264, pushed 2 days ago
+     &#9733 264, pushed 127 days ago
     </sup>
    </li>
   </ul>
@@ -434,7 +443,7 @@
     </a>
     LinkedIn's Kafka to HDFS pipeline.
     <sup>
-     &#9733 642, pushed 147 days ago
+     &#9733 642, pushed 271 days ago
     </sup>
    </li>
    <li>
@@ -443,7 +452,7 @@
     </a>
     Change data capture from PostgreSQL into Kafka
     <sup>
-     &#9733 658, pushed 4 days ago
+     &#9733 658, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -452,7 +461,7 @@
     </a>
     Simplified command-line administration for Kafka brokers
     <sup>
-     &#9733 114, pushed 12 days ago
+     &#9733 114, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -461,7 +470,7 @@
     </a>
     Generic command line non-JVM Apache Kafka producer and consumer
     <sup>
-     &#9733 356, pushed 15 days ago
+     &#9733 356, pushed 140 days ago
     </sup>
    </li>
    <li>
@@ -470,7 +479,7 @@
     </a>
     A PostgreSQL extension to produce messages to Apache Kafka
     <sup>
-     &#9733 46, pushed 397 days ago
+     &#9733 46, pushed 521 days ago
     </sup>
    </li>
    <li>
@@ -479,7 +488,7 @@
     </a>
     The Apache Kafka C/C++ library
     <sup>
-     &#9733 508, pushed 4 days ago
+     &#9733 508, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -488,7 +497,7 @@
     </a>
     Kafka in Docker
     <sup>
-     &#9733 377, pushed 13 days ago
+     &#9733 377, pushed 138 days ago
     </sup>
    </li>
    <li>
@@ -497,7 +506,7 @@
     </a>
     A tool for managing Apache Kafka
     <sup>
-     &#9733 2165, pushed 8 days ago
+     &#9733 2165, pushed 132 days ago
     </sup>
    </li>
    <li>
@@ -506,7 +515,7 @@
     </a>
     Node.js client for Apache Kafka 0.8
     <sup>
-     &#9733 452, pushed 3 days ago
+     &#9733 452, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -515,7 +524,7 @@
     </a>
     Pinterest's Kafka to S3 distributed consumer
     <sup>
-     &#9733 615, pushed 1 days ago
+     &#9733 615, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -524,7 +533,7 @@
     </a>
     Kafka-winston logger for nodejs from uber
     <sup>
-     &#9733 11, pushed 25 days ago
+     &#9733 11, pushed 150 days ago
     </sup>
    </li>
   </ul>
@@ -559,7 +568,7 @@
   </a>
   Data Acquisition and Processing Made Easy
   <sup>
-   &#9733 3045, pushed 4 days ago
+   &#9733 3045, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -568,7 +577,7 @@
   </a>
   Universal data ingestion framework for Hadoop from Linkedin
   <sup>
-   &#9733 545, pushed 1 days ago
+   &#9733 545, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -587,7 +596,7 @@
     </a>
     A pure python HDFS client
     <sup>
-     &#9733 430, pushed 25 days ago
+     &#9733 430, pushed 150 days ago
     </sup>
    </li>
   </ul>
@@ -603,7 +612,7 @@
     </a>
     Utils for streaming large files (S3, HDFS, gzip, bz2)
     <sup>
-     &#9733 386, pushed 8 days ago
+     &#9733 386, pushed 133 days ago
     </sup>
    </li>
   </ul>
@@ -632,7 +641,7 @@
   </a>
   SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
   <sup>
-   &#9733 14, pushed 299 days ago
+   &#9733 14, pushed 424 days ago
   </sup>
  </li>
  <li>
@@ -653,7 +662,7 @@
   </a>
   Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
   <sup>
-   &#9733 2415, pushed 5 days ago
+   &#9733 2415, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -685,7 +694,7 @@
     </a>
     A fast compressor/decompressor. Used with Parquet
     <sup>
-     &#9733 1121, pushed 28 days ago
+     &#9733 1121, pushed 153 days ago
     </sup>
    </li>
    <li>
@@ -715,7 +724,7 @@ multi-processor, multi-core machines
   </a>
   Protocol Buffers - Google's data interchange format
   <sup>
-   &#9733 8709, pushed 2 days ago
+   &#9733 8709, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -730,7 +739,7 @@ multi-processor, multi-core machines
   </a>
   Kryo is a fast and efficient object graph serialization framework for Java
   <sup>
-   &#9733 1847, pushed 9 days ago
+   &#9733 1847, pushed 134 days ago
   </sup>
  </li>
 </ul>
@@ -779,7 +788,7 @@ multi-processor, multi-core machines
   </a>
   The Streaming SQL Database https://www.pipelinedb.com
   <sup>
-   &#9733 864, pushed 5 days ago
+   &#9733 864, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -810,7 +819,7 @@ multi-processor, multi-core machines
     </a>
     Connecting Apache Spark with different data stores
     <sup>
-     &#9733 174, pushed 292 days ago
+     &#9733 174, pushed 417 days ago
     </sup>
    </li>
    <li>
@@ -912,7 +921,7 @@ multi-processor, multi-core machines
       </a>
       Scalable machine learning library for Hive/Hadoop.
       <sup>
-       &#9733 391, pushed 2 days ago
+       &#9733 391, pushed 126 days ago
       </sup>
      </li>
      <li>
@@ -921,7 +930,7 @@ multi-processor, multi-core machines
       </a>
       Python interface to Hive and Presto.
       <sup>
-       &#9733 179, pushed 22 days ago
+       &#9733 179, pushed 146 days ago
       </sup>
      </li>
     </ul>
@@ -983,7 +992,7 @@ multi-processor, multi-core machines
   </a>
   Python helpers for building dashboards using Flask and React
   <sup>
-   &#9733 1426, pushed 43 days ago
+   &#9733 1426, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -992,7 +1001,7 @@ multi-processor, multi-core machines
   </a>
   Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
   <sup>
-   &#9733 149, pushed 13 days ago
+   &#9733 149, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -1016,12 +1025,12 @@ multi-processor, multi-core machines
     </a>
     w/Luige
     <sup>
-     &#9733 35, pushed 25 days ago
+     &#9733 35, pushed 150 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 4510, pushed 1 days ago
+   &#9733 4510, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1036,7 +1045,7 @@ multi-processor, multi-core machines
   </a>
   Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
   <sup>
-   &#9733 2594, pushed 2 days ago
+   &#9733 2594, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1062,7 +1071,7 @@ multi-processor, multi-core machines
   </a>
   A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
   <sup>
-   &#9733 227, pushed 134 days ago
+   &#9733 227, pushed 259 days ago
   </sup>
  </li>
  <li>
@@ -1071,7 +1080,7 @@ multi-processor, multi-core machines
   </a>
   JDBC importer for Elasticsearch
   <sup>
-   &#9733 1360, pushed 23 days ago
+   &#9733 1360, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -1080,7 +1089,7 @@ multi-processor, multi-core machines
   </a>
   Postgres Extension that allows creating an index backed by Elasticsearch
   <sup>
-   &#9733 716, pushed 2 days ago
+   &#9733 716, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1094,7 +1103,7 @@ multi-processor, multi-core machines
   </a>
   Package golang service into minimal docker containers
   <sup>
-   &#9733 584, pushed 78 days ago
+   &#9733 584, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -1103,7 +1112,7 @@ multi-processor, multi-core machines
   </a>
   Easily manage Docker containers & their data
   <sup>
-   &#9733 2285, pushed 1 days ago
+   &#9733 2285, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1124,7 +1133,7 @@ multi-processor, multi-core machines
   </a>
   Weaving Docker containers into applications http://www.weave.works/
   <sup>
-   &#9733 4182, pushed 4 days ago
+   &#9733 4182, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1133,7 +1142,7 @@ multi-processor, multi-core machines
   </a>
   A lightweight tool for easy deployment and rollback of dockerized applications
   <sup>
-   &#9733 133, pushed 259 days ago
+   &#9733 133, pushed 384 days ago
   </sup>
  </li>
  <li>
@@ -1142,7 +1151,7 @@ multi-processor, multi-core machines
   </a>
   Analyzes resource usage and performance characteristics of running containers
   <sup>
-   &#9733 3861, pushed 2 days ago
+   &#9733 3861, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1151,7 +1160,7 @@ multi-processor, multi-core machines
   </a>
   Docker microservice for saving/restoring volume data to S3
   <sup>
-   &#9733 8, pushed 391 days ago
+   &#9733 8, pushed 516 days ago
   </sup>
  </li>
  <li>
@@ -1160,7 +1169,7 @@ multi-processor, multi-core machines
   </a>
   Docker image to backup/restore your Docker container volumes to AWS S3
   <sup>
-   &#9733 111, pushed 40 days ago
+   &#9733 111, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1169,7 +1178,7 @@ multi-processor, multi-core machines
   </a>
   Docker composition tool with idempotency features for deploying apps composed of multiple containers.
   <sup>
-   &#9733 296, pushed 10 days ago
+   &#9733 296, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1178,7 +1187,7 @@ multi-processor, multi-core machines
   </a>
   Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads
   <sup>
-   &#9733 1537, pushed 1 days ago
+   &#9733 1537, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1219,7 +1228,7 @@ multi-processor, multi-core machines
   </a>
   Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
   <sup>
-   &#9733 125, pushed 5 days ago
+   &#9733 125, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1265,7 +1274,7 @@ multi-processor, multi-core machines
   </a>
   An open-source service monitoring system and time series database
   <sup>
-   &#9733 4515, pushed 2 days ago
+   &#9733 4515, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1274,7 +1283,7 @@ multi-processor, multi-core machines
   </a>
   Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
   <sup>
-   &#9733 38, pushed 5 days ago
+   &#9733 38, pushed 130 days ago
   </sup>
  </li>
 </ul>

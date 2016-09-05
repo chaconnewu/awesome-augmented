@@ -33,7 +33,7 @@
    Eddystone Protocol Specification & Tools
   </a>
   <sup>
-   &#9733 1872, pushed 2 days ago
+   &#9733 1872, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -62,12 +62,37 @@
   </a>
  </li>
  <li>
+  <a href="* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)">
+   Eddystone GATT Configuration Service & Google Nearby API and Proximity API
+  </a>
+  (by Nordic Semiconductor)
+ </li>
+ <li>
+  <a href="https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/">
+   Web Bluetooth Eddystone Configurator
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/google/eddystone/tree/master/branding">
    Eddystone Branding Guidelines
   </a>
   &
   <a href="https://github.com/google/eddystone/tree/master/branding/assets">
    Logos
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample">
+   Chrome App to advertise Eddystone packets
+  </a>
+  - uses
+  <a href="https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising">
+   Eddystone Advertising Library
+  </a>
+ </li>
+ <li>
+  <a href="https://play.google.com/store/apps/details?id=com.uriio">
+   Beacon Toy - Android App to advertise as Eddystone
   </a>
  </li>
 </ul>
@@ -109,6 +134,16 @@
   &
   <a href="https://github.com/google/physical-web/tree/master/documentation/images/logo">
    Logos
+  </a>
+ </li>
+ <li>
+  <a href="https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A">
+   Physical Web Getting Started Guide for Developers
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/google/physical-web/blob/master/implementation-status.md">
+   Physical Web Implementation Status
   </a>
  </li>
 </ul>
@@ -344,11 +379,17 @@
 </h1>
 <ul>
  <li>
+  <a href="https://www.wayfindr.net">
+   Empowering vision impaired people to navigate the world independently
+  </a>
+  (an open standard)
+ </li>
+ <li>
   <a href="https://github.com/tmwagency/Glasstimote">
    Google Glass & Beacons
   </a>
   <sup>
-   &#9733 4, pushed 588 days ago
+   &#9733 4, pushed 713 days ago
   </sup>
  </li>
  <li>
@@ -363,7 +404,7 @@
   </a>
   An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
   <sup>
-   &#9733 1663, pushed 214 days ago
+   &#9733 1663, pushed 338 days ago
   </sup>
  </li>
  <li>
@@ -372,7 +413,7 @@
   </a>
   Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
   <sup>
-   &#9733 156, pushed 9 days ago
+   &#9733 156, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -406,7 +447,7 @@
   </a>
   - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
   <sup>
-   &#9733 9, pushed 6 days ago
+   &#9733 9, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -414,7 +455,7 @@
  iOS
 </h1>
 <h2>
- Beacon Scanner
+ Beacon Scanner Apps
 </h2>
 <ul>
  <li>
@@ -433,6 +474,11 @@
 </h2>
 <ul>
  <li>
+  <a href="https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample">
+   iOS Eddystone Scanner Sample Application
+  </a>
+ </li>
+ <li>
   <a href="http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8">
    Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8
   </a>
@@ -448,13 +494,27 @@
   </a>
   A nice iBeacon demo app in Swift.
   <sup>
-   &#9733 992, pushed 32 days ago
+   &#9733 992, pushed 157 days ago
   </sup>
  </li>
  <li>
   <a href="https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/">
    PubNub.com - Two-Way iBeacon Communication with Swift Programming Language
   </a>
+ </li>
+ <li>
+  <a href="https://github.com/Polidea/RxBluetoothKit">
+   iOS & OSX Bluetooth library for RxSwift
+  </a>
+  <sup>
+   &#9733 192, pushed 131 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/izotx/JMCBeaconManager">
+   JMCiBeaconManager
+  </a>
+  - An iBeacon Manager class that is responsible for detecting beacons nearby.
  </li>
 </ul>
 <h2>
@@ -471,7 +531,7 @@
    Replicates detecting and broadcasting iBeacons in the background
   </a>
   <sup>
-   &#9733 330, pushed 143 days ago
+   &#9733 330, pushed 268 days ago
   </sup>
  </li>
 </ul>
@@ -529,7 +589,7 @@
   </a>
   Use a custom beacon parser for iBeacon device compatibility.
   <sup>
-   &#9733 1101, pushed 1 days ago
+   &#9733 1101, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -538,7 +598,7 @@
   </a>
   The simple library for locating iBeacons in background
   <sup>
-   &#9733 132, pushed 249 days ago
+   &#9733 132, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -561,7 +621,7 @@
    BLE SDK for Android
   </a>
   <sup>
-   &#9733 118, pushed 63 days ago
+   &#9733 118, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -569,7 +629,7 @@
    Bluetooth LE Library for Android
   </a>
   <sup>
-   &#9733 411, pushed 73 days ago
+   &#9733 411, pushed 197 days ago
   </sup>
  </li>
 </ul>
@@ -583,7 +643,7 @@
   </a>
   Android app that scans for BLE Beacons/iBeacons and logs the results to a file
   <sup>
-   &#9733 22, pushed 160 days ago
+   &#9733 22, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -600,6 +660,17 @@
   <a href="https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app">
    Beacon Keeper
   </a>
+ </li>
+</ul>
+<h2>
+ Beacon Advertiser Apps
+</h2>
+<ul>
+ <li>
+  <a href="https://play.google.com/store/apps/details?id=net.alea.beaconsimulator">
+   Beacon Simulator
+  </a>
+  - iBeacon, Eddystone, AltBeacon
  </li>
 </ul>
 <h2>
@@ -621,7 +692,7 @@
    Cordova iBeacon Plugin
   </a>
   <sup>
-   &#9733 492, pushed 10 days ago
+   &#9733 492, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -634,7 +705,7 @@
    iBeacon advertising and scanning in a Titanium module
   </a>
   <sup>
-   &#9733 140, pushed 143 days ago
+   &#9733 140, pushed 268 days ago
   </sup>
  </li>
 </ul>
@@ -647,7 +718,7 @@
    iBeacon Scanning Utility App for OSX
   </a>
   <sup>
-   &#9733 308, pushed 71 days ago
+   &#9733 308, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -655,7 +726,7 @@
    iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID
   </a>
   <sup>
-   &#9733 126, pushed 531 days ago
+   &#9733 126, pushed 656 days ago
   </sup>
  </li>
  <li>
@@ -664,7 +735,7 @@
   </a>
   - Mavericks as an iBeacon
   <sup>
-   &#9733 851, pushed 499 days ago
+   &#9733 851, pushed 624 days ago
   </sup>
  </li>
  <li>
@@ -673,7 +744,7 @@
   </a>
   - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
   <sup>
-   &#9733 11, pushed 8 days ago
+   &#9733 11, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -682,8 +753,18 @@
   </a>
   - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
   <sup>
-   &#9733 21, pushed 22 days ago
+   &#9733 21, pushed 147 days ago
   </sup>
+ </li>
+</ul>
+<h1>
+ Linux
+</h1>
+<ul>
+ <li>
+  <a href="https://github.com/nirmankarta/PyBeacon">
+   Python script for scanning and advertising urls over Eddystone-URL
+  </a>
  </li>
 </ul>
 <h1>
@@ -691,11 +772,16 @@
 </h1>
 <ul>
  <li>
+  <a href="http://flows.nodered.org/node/node-red-node-physical-web">
+   Node-RED nodes to interact with the Physical Web
+  </a>
+ </li>
+ <li>
   <a href="https://github.com/sandeepmistry/noble">
    A node.js BLE (Bluetooth low energy) central module
   </a>
   <sup>
-   &#9733 983, pushed 9 days ago
+   &#9733 983, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -703,7 +789,7 @@
    A node.js module for implementing BLE (Bluetooth low energy) peripherals
   </a>
   <sup>
-   &#9733 650, pushed 2 days ago
+   &#9733 650, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -773,7 +859,7 @@
    Web Bluetooth Demos
   </a>
   <sup>
-   &#9733 66, pushed 1 days ago
+   &#9733 66, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -790,6 +876,13 @@
   <a href="https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit">
    Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit
   </a>
+  <ul>
+   <li>
+    <a href="https://github.com/NordicSemiconductor/nrf5-sdk-for-eddystone">
+     Eddystone GATT Configuration Service for nRF5 devices
+    </a>
+   </li>
+  </ul>
  </li>
  <li>
   <a href="http://www.ti.com/ble">

@@ -36,7 +36,7 @@
 </h4>
 <ul>
  <li>
-  <a href="http://www.fontsquirrel.com/">
+  <a href="https://www.fontsquirrel.com/">
    Font Squirrel
   </a>
   A curated collection of free fonts from a variety of foundries
@@ -62,7 +62,7 @@
     </a>
     )
     <sup>
-     &#9733 6685, pushed 17 days ago
+     &#9733 6685, pushed 142 days ago
     </sup>
    </li>
    <li>
@@ -70,7 +70,7 @@
      Downloader for Google Fonts
     </a>
     <sup>
-     &#9733 952, pushed 355 days ago
+     &#9733 952, pushed 480 days ago
     </sup>
    </li>
    <li>
@@ -79,7 +79,7 @@
     </a>
     default font on Android/ ChromeOS, and the recommended for Material Design
     <sup>
-     &#9733 2267, pushed 27 days ago
+     &#9733 2267, pushed 151 days ago
     </sup>
    </li>
    <li>
@@ -88,7 +88,7 @@
     </a>
     Internationalized font for all languages, with rich support for CJK and emoji.
     <sup>
-     &#9733 314, pushed 15 days ago
+     &#9733 314, pushed 140 days ago
     </sup>
    </li>
   </ul>
@@ -135,7 +135,7 @@
   </a>
   Keep your wireframes free of distracting Lorem Ipsum
   <sup>
-   &#9733 4168, pushed 228 days ago
+   &#9733 4168, pushed 352 days ago
   </sup>
  </li>
  <li>
@@ -143,7 +143,7 @@
    WorkSans
   </a>
   <sup>
-   &#9733 590, pushed 22 days ago
+   &#9733 590, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -151,7 +151,7 @@
    SansBullshitSans
   </a>
   <sup>
-   &#9733 171, pushed 354 days ago
+   &#9733 171, pushed 478 days ago
   </sup>
  </li>
 </ul>
@@ -165,7 +165,7 @@
   </a>
   147 8-bit retro style webfont icons form web and mobile
   <sup>
-   &#9733 6, pushed 169 days ago
+   &#9733 6, pushed 294 days ago
   </sup>
  </li>
  <li>
@@ -180,7 +180,7 @@
   </a>
   icon fonts generator
   <sup>
-   &#9733 2900, pushed 35 days ago
+   &#9733 2900, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -195,7 +195,7 @@
   </a>
   Font Mfizz - Vector Icons for Technology and Software Geeks
   <sup>
-   &#9733 239, pushed 17 days ago
+   &#9733 239, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -204,7 +204,7 @@
   </a>
   Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
   <sup>
-   &#9733 1837, pushed 16 days ago
+   &#9733 1837, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -245,7 +245,7 @@
   </a>
   icon set in raster, vector and font formats
   <sup>
-   &#9733 2429, pushed 246 days ago
+   &#9733 2429, pushed 371 days ago
   </sup>
  </li>
  <li>
@@ -266,7 +266,7 @@
   </a>
   font for use with Google Maps API and Google Places API using SVG markers and icon labels
   <sup>
-   &#9733 580, pushed 54 days ago
+   &#9733 580, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -275,7 +275,7 @@
   </a>
   official icon set from Google
   <sup>
-   &#9733 23504, pushed 21 days ago
+   &#9733 23504, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -290,7 +290,7 @@
   </a>
   Iconic Windows 10 font and CSS toolkit
   <sup>
-   &#9733 33, pushed 225 days ago
+   &#9733 33, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -317,7 +317,7 @@
   </a>
   A set of icons for displaying a visual ("analog") representation of time stamps
   <sup>
-   &#9733 280, pushed 81 days ago
+   &#9733 280, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -326,8 +326,14 @@
   </a>
   Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
   <sup>
-   &#9733 917, pushed 794 days ago
+   &#9733 917, pushed 919 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://leungwensen.github.io/svg-icon/">
+   svg-icon
+  </a>
+  An ultimate SVG icons collection done right
  </li>
  <li>
   <a href="http://typicons.com">
@@ -346,7 +352,7 @@
    WebHostingHub Glyphs
   </a>
   <sup>
-   &#9733 239, pushed 1009 days ago
+   &#9733 239, pushed 1134 days ago
   </sup>
  </li>
  <li>
@@ -361,12 +367,12 @@
     </a>
     Entirely vector-based social buttons
     <sup>
-     &#9733 1537, pushed 33 days ago
+     &#9733 1537, pushed 158 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 208, pushed 1638 days ago
+   &#9733 208, pushed 1762 days ago
   </sup>
  </li>
 </ul>
@@ -385,7 +391,7 @@
   </a>
   gallery of monospaced fonts for developers
   <sup>
-   &#9733 3139, pushed 28 days ago
+   &#9733 3139, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -393,7 +399,7 @@
    Fantasque Sans Mono
   </a>
   <sup>
-   &#9733 2528, pushed 30 days ago
+   &#9733 2528, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -401,7 +407,7 @@
    Hack
   </a>
   <sup>
-   &#9733 7840, pushed 2 days ago
+   &#9733 7840, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -421,16 +427,13 @@
   </a>
   Customized version of Apple's Menlo font
   <sup>
-   &#9733 1468, pushed 242 days ago
+   &#9733 1468, pushed 367 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/larsenwork/monoid">
-   Monoid
+  <a href="http://madmalik.github.io/mononoki/">
+   Mononoki
   </a>
-  <sup>
-   &#9733 3290, pushed 90 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/ryanoasis/nerd-fonts">
@@ -438,7 +441,7 @@
   </a>
   Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
   <sup>
-   &#9733 2536, pushed 15 days ago
+   &#9733 2536, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +459,7 @@
      Source Sans Pro
     </a>
     <sup>
-     &#9733 1566, pushed 152 days ago
+     &#9733 1566, pushed 277 days ago
     </sup>
    </li>
    <li>
@@ -464,7 +467,7 @@
      Source Serif Pro
     </a>
     <sup>
-     &#9733 936, pushed 152 days ago
+     &#9733 936, pushed 277 days ago
     </sup>
    </li>
   </ul>
@@ -480,7 +483,7 @@
   </a>
   Monospaced font with programming ligatures
   <sup>
-   &#9733 4871, pushed 13 days ago
+   &#9733 4871, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -488,7 +491,15 @@
    Hasklig
   </a>
   <sup>
-   &#9733 1233, pushed 47 days ago
+   &#9733 1233, pushed 172 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/larsenwork/monoid">
+   Monoid
+  </a>
+  <sup>
+   &#9733 3290, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -496,6 +507,11 @@
    PragmataPro
   </a>
   proprietary font with special ligatures for Haskell, Agda, APL etc.
+ </li>
+ <li>
+  <a href="https://github.com/kika/fixedsys">
+   Fixedsys Excelsior
+  </a>
  </li>
 </ul>
 <h2>
@@ -513,7 +529,7 @@
   </a>
   font minifier
   <sup>
-   &#9733 1511, pushed 4 days ago
+   &#9733 1511, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -521,7 +537,7 @@
    Lettering.js
   </a>
   <sup>
-   &#9733 4436, pushed 14 days ago
+   &#9733 4436, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -530,17 +546,29 @@
   </a>
   save fonts in localStorage
   <sup>
-   &#9733 810, pushed 74 days ago
+   &#9733 810, pushed 199 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nodebox/opentype.js">
+   opentype.js
+  </a>
+  parser and writer for TrueType and OpenType fonts
  </li>
  <li>
   <a href="https://github.com/davidmerfield/typeset">
    Typeset.js
   </a>
-  - HTML pre-processor for web typography.
+  - HTML pre-processor for web typography
   <sup>
-   &#9733 2104, pushed 29 days ago
+   &#9733 2104, pushed 154 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/photopea/Typr.js">
+   Typr.js
+  </a>
+  parser and utility for working with fonts (TTF, OTF)
  </li>
 </ul>
 <h4>
@@ -552,7 +580,7 @@
    Font Face Observer
   </a>
   <sup>
-   &#9733 1088, pushed 25 days ago
+   &#9733 1088, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -560,8 +588,28 @@
    Web Font Loader
   </a>
   <sup>
-   &#9733 4460, pushed 20 days ago
+   &#9733 4460, pushed 145 days ago
   </sup>
+ </li>
+</ul>
+<h2>
+ GitHub Showcases
+</h2>
+<ul>
+ <li>
+  <a href="https://github.com/showcases/fonts">
+   Fonts
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/showcases/icon-fonts">
+   Icon Fonts
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/showcases/design-essentials">
+   Design Essentials
+  </a>
  </li>
 </ul>
 <h2>
@@ -573,11 +621,11 @@
    Command line font-manager
   </a>
   <sup>
-   &#9733 11, pushed 961 days ago
+   &#9733 11, pushed 1085 days ago
   </sup>
  </li>
  <li>
-  <a href="http://www.fontsquirrel.com/tools/webfont-generator">
+  <a href="https://www.fontsquirrel.com/tools/webfont-generator">
    Font Squirrel Webfont Generator
   </a>
   Upload OTF or TTF fonts, receive webfonts
@@ -588,7 +636,7 @@
   </a>
   extracts metadata from otf/ttf font files
   <sup>
-   &#9733 26, pushed 1487 days ago
+   &#9733 26, pushed 1611 days ago
   </sup>
  </li>
  <li>
@@ -597,7 +645,7 @@
   </a>
   cross-platform font editor
   <sup>
-   &#9733 992, pushed 3 days ago
+   &#9733 992, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -606,7 +654,7 @@
   </a>
   - patched fonts for Powerline users
   <sup>
-   &#9733 5063, pushed 17 days ago
+   &#9733 5063, pushed 142 days ago
   </sup>
  </li>
 </ul>
@@ -614,7 +662,7 @@
  License
 </h2>
 <p>
- <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://licensebuttons.net/p/zero/1.0/88x31.png"/>
  </a>
 </p>

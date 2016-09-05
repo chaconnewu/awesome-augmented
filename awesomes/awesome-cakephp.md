@@ -330,7 +330,7 @@
    <a href="https://github.com/jippi/cakephp-newrelic/tree/cake3">
     NewRelic plugin
    </a>
-   - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc. It does not depends on New Relic agent.
+   - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc. It does not depend on New Relic agent.
   </p>
  </li>
  <li>
@@ -341,7 +341,7 @@
    - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
   </p>
   <sup>
-   &#9733 3, pushed 75 days ago
+   &#9733 3, pushed 199 days ago
   </sup>
  </li>
 </ul>
@@ -360,7 +360,7 @@
   </a>
   - A complete asset manager for CakePHP.
   <sup>
-   &#9733 350, pushed 73 days ago
+   &#9733 350, pushed 197 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +369,7 @@
   </a>
   - Less parser plugin for CakePHP.
   <sup>
-   &#9733 13, pushed 5 days ago
+   &#9733 13, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -378,7 +378,7 @@
   </a>
   - Compress HTML output.
   <sup>
-   &#9733 7, pushed 140 days ago
+   &#9733 7, pushed 264 days ago
   </sup>
  </li>
 </ul>
@@ -397,7 +397,7 @@
   </a>
   - Flexible and rock solid audit log tracking.
   <sup>
-   &#9733 29, pushed 19 days ago
+   &#9733 29, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -406,7 +406,7 @@
   </a>
   - Plugin to allow passing currently logged in user to model layer.
   <sup>
-   &#9733 37, pushed 25 days ago
+   &#9733 37, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -415,7 +415,7 @@
   </a>
   - A plugin that facilitates versioned database entities.
   <sup>
-   &#9733 26, pushed 14 days ago
+   &#9733 26, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -438,7 +438,7 @@
   </a>
   social sign on library with CakePHP.
   <sup>
-   &#9733 50, pushed 70 days ago
+   &#9733 50, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -447,16 +447,7 @@
   </a>
   - A plugin for authenticating using JSON Web Tokens.
   <sup>
-   &#9733 58, pushed 7 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/FriendsOfCake/Authenticate">
-   FriendsOfCake/Authenticate plugin
-  </a>
-  - Authentication classes for AuthComponent.
-  <sup>
-   &#9733 82, pushed 133 days ago
+   &#9733 58, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -465,7 +456,7 @@
   </a>
   - A simple Cake 3 plugin to automatically authenticate users with Cookies.
   <sup>
-   &#9733 10, pushed 47 days ago
+   &#9733 10, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -474,7 +465,7 @@
   </a>
   - A CakePHP plugin for hierarchical, role based, simple authorization.
   <sup>
-   &#9733 2, pushed 116 days ago
+   &#9733 2, pushed 241 days ago
   </sup>
  </li>
  <li>
@@ -489,7 +480,7 @@
   </a>
   .
   <sup>
-   &#9733 4, pushed 67 days ago
+   &#9733 4, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -498,7 +489,7 @@
   </a>
   - Easily build SaaS enabled web applications.
   <sup>
-   &#9733 19, pushed 6 days ago
+   &#9733 19, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -507,7 +498,7 @@
   </a>
   - Role based (single/multi) authentication as very light-weight approach.
   <sup>
-   &#9733 31, pushed 7 days ago
+   &#9733 31, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -520,7 +511,7 @@
   </a>
   for a DRY approach on password hashing.
   <sup>
-   &#9733 251, pushed 8 days ago
+   &#9733 251, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -533,7 +524,7 @@
   </a>
   library.
   <sup>
-   &#9733 8, pushed 6 days ago
+   &#9733 8, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -542,7 +533,7 @@
   </a>
   -  Allow groups of users or single users to view a specific page.
   <sup>
-   &#9733 6, pushed 292 days ago
+   &#9733 6, pushed 416 days ago
   </sup>
  </li>
  <li>
@@ -551,7 +542,7 @@
   </a>
   - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more.
   <sup>
-   &#9733 328, pushed 4 days ago
+   &#9733 328, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -570,7 +561,7 @@
   </a>
   - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
   <sup>
-   &#9733 9, pushed 14 days ago
+   &#9733 9, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -597,7 +588,7 @@
   </a>
   A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
   <sup>
-   &#9733 3, pushed 63 days ago
+   &#9733 3, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -606,7 +597,7 @@
   </a>
   - The de-facto standard for debugging.
   <sup>
-   &#9733 854, pushed 18 days ago
+   &#9733 854, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -619,7 +610,7 @@
   </a>
   .
   <sup>
-   &#9733 16, pushed 403 days ago
+   &#9733 16, pushed 528 days ago
   </sup>
  </li>
  <li>
@@ -628,7 +619,7 @@
   </a>
   - A lightweight setup plugin containing debugging and maintenance tools.
   <sup>
-   &#9733 21, pushed 9 days ago
+   &#9733 21, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -647,7 +638,7 @@
   </a>
   Allows dependency injection based on Pimple library.
   <sup>
-   &#9733 4, pushed 69 days ago
+   &#9733 4, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -656,7 +647,7 @@
   </a>
   - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
   <sup>
-   &#9733 24, pushed 106 days ago
+   &#9733 24, pushed 230 days ago
   </sup>
  </li>
 </ul>
@@ -683,7 +674,7 @@
   </a>
   - Email queue plugin with a preview and sender shell.
   <sup>
-   &#9733 22, pushed 6 days ago
+   &#9733 22, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -692,8 +683,14 @@
   </a>
   - Email helper, layout and more.
   <sup>
-   &#9733 11, pushed 295 days ago
+   &#9733 11, pushed 419 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/narendravaghela/cakephp-mailgun">
+   Mailgun plugin
+  </a>
+  - Email transport plugin for sending email via Mailgun.
  </li>
  <li>
   <a href="https://github.com/syntaxera/cakephp-sparkpost-plugin">
@@ -701,7 +698,7 @@
   </a>
   - Email transport plugin for sending email via the SparkPost API.
   <sup>
-   &#9733 8, pushed 7 days ago
+   &#9733 8, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -720,7 +717,7 @@
   </a>
   - Plugin to handle enviroments.
   <sup>
-   &#9733 44, pushed 102 days ago
+   &#9733 44, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -729,7 +726,7 @@
   </a>
   - Database based configuration.
   <sup>
-   &#9733 11, pushed 84 days ago
+   &#9733 11, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -738,7 +735,7 @@
   </a>
   - A plugin to manage your settings via your database.
   <sup>
-   &#9733 15, pushed 88 days ago
+   &#9733 15, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -763,7 +760,7 @@
   </a>
   - Abstract file storage and upload plugin.
   <sup>
-   &#9733 145, pushed 35 days ago
+   &#9733 145, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -772,7 +769,7 @@
   </a>
   - Abstract filesystem access using Flysystem.
   <sup>
-   &#9733 22, pushed 259 days ago
+   &#9733 22, pushed 384 days ago
   </sup>
  </li>
  <li>
@@ -781,7 +778,7 @@
   </a>
   - Image behavior that works much like Cake's built in TranslateBehavior.
   <sup>
-   &#9733 13, pushed 83 days ago
+   &#9733 13, pushed 208 days ago
   </sup>
  </li>
  <li>
@@ -794,7 +791,7 @@
   </a>
   to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
   <sup>
-   &#9733 458, pushed 6 days ago
+   &#9733 458, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +800,7 @@
   </a>
   - A customisable upload plugin with thumbnail generation.
   <sup>
-   &#9733 71, pushed 22 days ago
+   &#9733 71, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -812,7 +809,7 @@
   </a>
   - A little plugin to upload file.
   <sup>
-   &#9733 23, pushed 63 days ago
+   &#9733 23, pushed 188 days ago
   </sup>
  </li>
 </ul>
@@ -831,7 +828,7 @@
   </a>
   - Extra dispatcher filters (maintenance, robots, ip, etc).
   <sup>
-   &#9733 8, pushed 64 days ago
+   &#9733 8, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -840,7 +837,7 @@
   </a>
   - Extra validation providers (Respect, IsoCodes, etc.) and rules.
   <sup>
-   &#9733 5, pushed 13 days ago
+   &#9733 5, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -849,7 +846,7 @@
   </a>
   - Purifier Plugin that features a trait, behavior and helper to allow you to get sanitization and filtering where you need it. You can configure multiple sets of filter rules as well.
   <sup>
-   &#9733 32, pushed 69 days ago
+   &#9733 32, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -858,7 +855,7 @@
   </a>
   - Purifier Plugin Behavior that cleanses data before it is marshaled into the entity and/or before saving.
   <sup>
-   &#9733 6, pushed 77 days ago
+   &#9733 6, pushed 202 days ago
   </sup>
  </li>
 </ul>
@@ -885,7 +882,7 @@
   </a>
   .
   <sup>
-   &#9733 21, pushed 5 days ago
+   &#9733 21, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -904,7 +901,7 @@
   </a>
   - A plugin with I18n related tools.
   <sup>
-   &#9733 18, pushed 121 days ago
+   &#9733 18, pushed 246 days ago
   </sup>
  </li>
  <li>
@@ -913,7 +910,7 @@
   </a>
   - Localized validation and ready-to-use translation PO files.
   <sup>
-   &#9733 183, pushed 6 days ago
+   &#9733 183, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -922,7 +919,7 @@
   </a>
   - A plugin with shadow table based replacement for core's Translate behavior.
   <sup>
-   &#9733 32, pushed 27 days ago
+   &#9733 32, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -931,7 +928,7 @@
   </a>
   - Managing i18n PO files and translations via Transifex API.
   <sup>
-   &#9733 13, pushed 350 days ago
+   &#9733 13, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -940,7 +937,7 @@
   </a>
   - Extract pot files, translate string (manually, google, community), export translations to pot files.
   <sup>
-   &#9733 2, pushed 30 days ago
+   &#9733 2, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -963,7 +960,7 @@
   </a>
   image manipulation library.
   <sup>
-   &#9733 10, pushed 10 days ago
+   &#9733 10, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -976,7 +973,7 @@
   </a>
   .
   <sup>
-   &#9733 110, pushed 96 days ago
+   &#9733 110, pushed 220 days ago
   </sup>
  </li>
 </ul>
@@ -995,7 +992,7 @@
   </a>
   - A powerful I18n library - used in CakePHP3.x core.
   <sup>
-   &#9733 47, pushed 60 days ago
+   &#9733 47, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -1004,16 +1001,7 @@
   </a>
   - Deploy CakePHP applications using Capistrano.
   <sup>
-   &#9733 116, pushed 68 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/briannesbitt/Carbon">
-   Carbon
-  </a>
-  - A simple DateTime API extension - used in CakePHP3.x core (deprecated soon).
-  <sup>
-   &#9733 4251, pushed 1 days ago
+   &#9733 116, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +1010,7 @@
   </a>
   - A simple standalone DateTime API extension (successor of Carbon).
   <sup>
-   &#9733 132, pushed 13 days ago
+   &#9733 132, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1031,7 +1019,7 @@
   </a>
   - A multi framework Composer library installer.
   <sup>
-   &#9733 541, pushed 9 days ago
+   &#9733 541, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1050,7 +1038,7 @@
   </a>
   - A Graphviz library.
   <sup>
-   &#9733 30, pushed 200 days ago
+   &#9733 30, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -1065,7 +1053,7 @@
   </a>
   - PHP task runner and deployment package.
   <sup>
-   &#9733 2005, pushed 10 days ago
+   &#9733 2005, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -1080,7 +1068,7 @@
   </a>
   - Configure routes with simple YAML files.
   <sup>
-   &#9733 4, pushed 116 days ago
+   &#9733 4, pushed 241 days ago
   </sup>
  </li>
 </ul>
@@ -1103,7 +1091,7 @@
   </a>
   Markdown parsing.
   <sup>
-   &#9733 4, pushed 301 days ago
+   &#9733 4, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -1112,7 +1100,7 @@
   </a>
   - Allows to use PHP or JS based syntax highlighting.
   <sup>
-   &#9733 1, pushed 79 days ago
+   &#9733 1, pushed 203 days ago
   </sup>
  </li>
 </ul>
@@ -1131,7 +1119,7 @@
   </a>
   - A 3.x test app to display the execution order of files, methods and callbacks.
   <sup>
-   &#9733 9, pushed 317 days ago
+   &#9733 9, pushed 442 days ago
   </sup>
  </li>
  <li>
@@ -1140,7 +1128,7 @@
   </a>
   - (DB) Migration plugin.
   <sup>
-   &#9733 70, pushed 2 days ago
+   &#9733 70, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1149,7 +1137,7 @@
   </a>
   - Official upgrade app for 2.x=>3.x.
   <sup>
-   &#9733 60, pushed 64 days ago
+   &#9733 60, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1174,7 +1162,7 @@
   </a>
   - A plugin to ease handling AJAX requests.
   <sup>
-   &#9733 13, pushed 73 days ago
+   &#9733 13, pushed 198 days ago
   </sup>
  </li>
  <li>
@@ -1183,7 +1171,7 @@
   </a>
   - A non-stable user management plugin with a built-in admin area.
   <sup>
-   &#9733 18, pushed 77 days ago
+   &#9733 18, pushed 202 days ago
   </sup>
  </li>
  <li>
@@ -1192,7 +1180,7 @@
   </a>
   - A plugin to convert currency into another one.
   <sup>
-   &#9733 4, pushed 60 days ago
+   &#9733 4, pushed 185 days ago
   </sup>
  </li>
  <li>
@@ -1201,7 +1189,7 @@
   </a>
   - Build beautiful dashboards for your cakes.
   <sup>
-   &#9733 10, pushed 455 days ago
+   &#9733 10, pushed 579 days ago
   </sup>
  </li>
  <li>
@@ -1210,7 +1198,7 @@
   </a>
   - Allows to use hashids to not expose the database ids to the user.
   <sup>
-   &#9733 13, pushed 5 days ago
+   &#9733 13, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1225,7 +1213,7 @@
   </a>
   - A plugin containing useful shims and improvements as basis for your application.
   <sup>
-   &#9733 23, pushed 22 days ago
+   &#9733 23, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -1234,7 +1222,7 @@
   </a>
   - Containing lots of useful libs, helpers, behaviors, components, shells and more.
   <sup>
-   &#9733 251, pushed 8 days ago
+   &#9733 251, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1243,7 +1231,7 @@
   </a>
   - Easy travis setup for CakePHP plugins.
   <sup>
-   &#9733 32, pushed 80 days ago
+   &#9733 32, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1252,7 +1240,7 @@
   </a>
   - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
   <sup>
-   &#9733 37, pushed 21 days ago
+   &#9733 37, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1261,7 +1249,7 @@
   </a>
   - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
   <sup>
-   &#9733 18, pushed 117 days ago
+   &#9733 18, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -1270,7 +1258,7 @@
   </a>
   - Maintenance Mode plugin. Easily extensible and customizable.
   <sup>
-   &#9733 4, pushed 63 days ago
+   &#9733 4, pushed 188 days ago
   </sup>
  </li>
  <li>
@@ -1299,7 +1287,7 @@
   </a>
   .
   <sup>
-   &#9733 10, pushed 264 days ago
+   &#9733 10, pushed 389 days ago
   </sup>
  </li>
 </ul>
@@ -1326,7 +1314,7 @@
   </a>
   - A plugin that makes creating and reading notifications easy.
   <sup>
-   &#9733 14, pushed 40 days ago
+   &#9733 14, pushed 165 days ago
   </sup>
  </li>
 </ul>
@@ -1345,7 +1333,7 @@
   </a>
   - Behavior for maintaining ordered list of records.
   <sup>
-   &#9733 14, pushed 88 days ago
+   &#9733 14, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -1354,7 +1342,7 @@
   </a>
   - Behavior for duplicating entities including related data.
   <sup>
-   &#9733 1, pushed 103 days ago
+   &#9733 1, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1363,7 +1351,7 @@
   </a>
   - An association lazy loader for entities.
   <sup>
-   &#9733 14, pushed 48 days ago
+   &#9733 14, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -1376,7 +1364,7 @@
   </a>
   .
   <sup>
-   &#9733 3, pushed 104 days ago
+   &#9733 3, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1385,7 +1373,7 @@
   </a>
   - Allows setting default order for your tables.
   <sup>
-   &#9733 6, pushed 88 days ago
+   &#9733 6, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -1394,7 +1382,7 @@
   </a>
   - Soft-delete behavior for CakePHP.
   <sup>
-   &#9733 16, pushed 3 days ago
+   &#9733 16, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1403,7 +1391,7 @@
   </a>
   - Behavior for persisting selected fields of related models.
   <sup>
-   &#9733 4, pushed 103 days ago
+   &#9733 4, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1412,7 +1400,7 @@
   </a>
   - Exclusive locks for rows in your tables.
   <sup>
-   &#9733 17, pushed 81 days ago
+   &#9733 17, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -1421,7 +1409,7 @@
   </a>
   - An ORM like interface for webservices.
   <sup>
-   &#9733 28, pushed 30 days ago
+   &#9733 28, pushed 155 days ago
   </sup>
  </li>
 </ul>
@@ -1440,7 +1428,7 @@
   </a>
   - A plugin around PDF generation.
   <sup>
-   &#9733 241, pushed 2 days ago
+   &#9733 241, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -1459,7 +1447,7 @@
   </a>
   - A plugin for Resque, a library for creating background jobs.
   <sup>
-   &#9733 152, pushed 242 days ago
+   &#9733 152, pushed 367 days ago
   </sup>
  </li>
  <li>
@@ -1468,7 +1456,7 @@
   </a>
   - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
   <sup>
-   &#9733 3, pushed 5 days ago
+   &#9733 3, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1477,7 +1465,7 @@
   </a>
   - A plugin for offloading CakePHP tasks to a Gearman Job Server.
   <sup>
-   &#9733 5, pushed 38 days ago
+   &#9733 5, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -1486,7 +1474,7 @@
   </a>
   - A minimal dependency-free CakePHP only plugin around Queue.
   <sup>
-   &#9733 116, pushed 2 days ago
+   &#9733 116, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1500,12 +1488,33 @@
 </p>
 <ul>
  <li>
+  <a href="https://github.com/alt3/cakephp-swagger">
+   Alt3/Swagger plugin
+  </a>
+  - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
+  <sup>
+   &#9733 9, pushed 210 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alt3/cakephp-validation-exposer">
+   Alt3/ValidationExposer plugin
+  </a>
+  - Easily expose your application's validation rules.
+ </li>
+ <li>
+  <a href="https://github.com/bcrowe/cakephp-api-pagination">
+   ApiPagination plugin
+  </a>
+  - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
+ </li>
+ <li>
   <a href="https://github.com/snelg/cakephp-cors">
    Cors plugin
   </a>
   - A lightweight plugin for adding CORS headers to specified endpoints.
   <sup>
-   &#9733 19, pushed 62 days ago
+   &#9733 19, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -1518,7 +1527,7 @@
   </a>
   for your API output.
   <sup>
-   &#9733 11, pushed 64 days ago
+   &#9733 11, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -1531,16 +1540,7 @@
   </a>
   format.
   <sup>
-   &#9733 4, pushed 73 days ago
-  </sup>
- </li>
- <li>
-  <a href="https://github.com/alt3/cakephp-swagger">
-   Swagger plugin
-  </a>
-  - Swagger plugin for documenting your CakePHP 3.x APIs.
-  <sup>
-   &#9733 9, pushed 85 days ago
+   &#9733 4, pushed 198 days ago
   </sup>
  </li>
 </ul>
@@ -1559,7 +1559,7 @@
   </a>
   - Alternative ORM using Elastic Search as its backend.
   <sup>
-   &#9733 49, pushed 1 days ago
+   &#9733 49, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1568,7 +1568,7 @@
   </a>
   - For tagging and finding tagged records.
   <sup>
-   &#9733 12, pushed 95 days ago
+   &#9733 12, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -1577,7 +1577,7 @@
   </a>
   - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
   <sup>
-   &#9733 15, pushed 33 days ago
+   &#9733 15, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1586,7 +1586,7 @@
   </a>
   - Search provides a searching/filter module for CakePHP applications.
   <sup>
-   &#9733 30, pushed 5 days ago
+   &#9733 30, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1595,7 +1595,7 @@
   </a>
   - Search plugin built on PRG pattern.
   <sup>
-   &#9733 347, pushed 38 days ago
+   &#9733 347, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -1604,7 +1604,7 @@
   </a>
   - Basic behaviour implementation for querying SphinxSearch indexes.
   <sup>
-   &#9733 1, pushed 20 days ago
+   &#9733 1, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -1623,7 +1623,7 @@
   </a>
   - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
   <sup>
-   &#9733 5, pushed 104 days ago
+   &#9733 5, pushed 229 days ago
   </sup>
  </li>
  <li>
@@ -1632,7 +1632,7 @@
   </a>
   - Primary key obfuscation using HashIds, Optimus, Tiny and/or custom obfuscation strategies.
   <sup>
-   &#9733 18, pushed 15 days ago
+   &#9733 18, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1641,7 +1641,7 @@
   </a>
   - A plugin for rate limiting (API) requests.
   <sup>
-   &#9733 14, pushed 179 days ago
+   &#9733 14, pushed 303 days ago
   </sup>
  </li>
 </ul>
@@ -1660,7 +1660,7 @@
   </a>
   - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
   <sup>
-   &#9733 17, pushed 13 days ago
+   &#9733 17, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1669,7 +1669,7 @@
   </a>
   - Auto-creates and manages your SEO tags.
   <sup>
-   &#9733 3, pushed 14 days ago
+   &#9733 3, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1678,7 +1678,7 @@
   </a>
   - A simple Cake3 plugin to slug fields and find records by slug.
   <sup>
-   &#9733 4, pushed 103 days ago
+   &#9733 4, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1687,7 +1687,7 @@
   </a>
   - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
   <sup>
-   &#9733 251, pushed 8 days ago
+   &#9733 251, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -1706,7 +1706,7 @@
   </a>
   - An empty CakePHP project for use with composer.
   <sup>
-   &#9733 129, pushed 3 days ago
+   &#9733 129, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1715,7 +1715,7 @@
   </a>
   - CakePHP material ui admin template project for use with composer.
   <sup>
-   &#9733 3, pushed 71 days ago
+   &#9733 3, pushed 196 days ago
   </sup>
  </li>
  <li>
@@ -1724,7 +1724,7 @@
   </a>
   - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
   <sup>
-   &#9733 220, pushed 2 days ago
+   &#9733 220, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1733,7 +1733,7 @@
   </a>
   - A skeleton example to create a Cake3 plugin.
   <sup>
-   &#9733 8, pushed 134 days ago
+   &#9733 8, pushed 259 days ago
   </sup>
  </li>
 </ul>
@@ -1752,7 +1752,7 @@
   </a>
   - Allows users to rate records.
   <sup>
-   &#9733 2, pushed 115 days ago
+   &#9733 2, pushed 239 days ago
   </sup>
  </li>
  <li>
@@ -1761,7 +1761,7 @@
   </a>
   - Link generator for sharing content on social networks.
   <sup>
-   &#9733 12, pushed 76 days ago
+   &#9733 12, pushed 201 days ago
   </sup>
  </li>
 </ul>
@@ -1780,7 +1780,7 @@
   </a>
   - An address helper that outputs a marked up address.
   <sup>
-   &#9733 0, pushed 145 days ago
+   &#9733 0, pushed 270 days ago
   </sup>
  </li>
  <li>
@@ -1789,7 +1789,7 @@
   </a>
   - A Bootstrap 3 plugin with support for LESS.
   <sup>
-   &#9733 27, pushed 7 days ago
+   &#9733 27, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1798,11 +1798,11 @@
   </a>
   - Bootstrap 3 integration.
   <sup>
-   &#9733 155, pushed 27 days ago
+   &#9733 155, pushed 152 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/dakota/CakeExcel/tree/3.0">
+  <a href="https://github.com/dakota/CakeExcel">
    CakeExcel plugin
   </a>
   - An Excel view to generate XLSX files.
@@ -1813,7 +1813,7 @@
   </a>
   - Front-End framework FormHelper extensions.
   <sup>
-   &#9733 4, pushed 223 days ago
+   &#9733 4, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -1826,7 +1826,7 @@
   </a>
   (markdown) support to models and views.
   <sup>
-   &#9733 4, pushed 301 days ago
+   &#9733 4, pushed 425 days ago
   </sup>
  </li>
  <li>
@@ -1835,7 +1835,7 @@
   </a>
   - A view class to easily generate CSV.
   <sup>
-   &#9733 107, pushed 20 days ago
+   &#9733 107, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1844,7 +1844,7 @@
   </a>
   - Containing an RssView class to easily generate (complex) RSS feeds.
   <sup>
-   &#9733 4, pushed 68 days ago
+   &#9733 4, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1853,7 +1853,7 @@
   </a>
   - Jade template engine plugin.
   <sup>
-   &#9733 2, pushed 90 days ago
+   &#9733 2, pushed 215 days ago
   </sup>
  </li>
  <li>
@@ -1862,7 +1862,7 @@
   </a>
   - A plugin to use the Liquid templating language for views.
   <sup>
-   &#9733 3, pushed 95 days ago
+   &#9733 3, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -1871,7 +1871,7 @@
   </a>
   - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
   <sup>
-   &#9733 4, pushed 66 days ago
+   &#9733 4, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -1880,7 +1880,7 @@
   </a>
   - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
   <sup>
-   &#9733 12, pushed 27 days ago
+   &#9733 12, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1889,7 +1889,7 @@
   </a>
   - A plugin to use the Twig Templating Language for views.
   <sup>
-   &#9733 37, pushed 26 days ago
+   &#9733 37, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -1898,7 +1898,7 @@
   </a>
   - Helper for embedding YouTube, Vimeo and Dailymotion videos.
   <sup>
-   &#9733 2, pushed 12 days ago
+   &#9733 2, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -1921,7 +1921,7 @@
   </a>
   .
   <sup>
-   &#9733 29, pushed 17 days ago
+   &#9733 29, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1930,7 +1930,7 @@
   </a>
   - The official CakePHP CS rules.
   <sup>
-   &#9733 163, pushed 33 days ago
+   &#9733 163, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -1939,7 +1939,7 @@
   </a>
   - Auto-find code issues/smells and auto-fix CS errors.
   <sup>
-   &#9733 15, pushed 186 days ago
+   &#9733 15, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -1948,7 +1948,7 @@
   </a>
   - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
   <sup>
-   &#9733 0, pushed 591 days ago
+   &#9733 0, pushed 716 days ago
   </sup>
  </li>
  <li>
@@ -1961,8 +1961,14 @@
   </a>
   support for CakePHP fixtures.
   <sup>
-   &#9733 14, pushed 257 days ago
+   &#9733 14, pushed 382 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/FriendsOfCake/fixturize">
+   FriendsOfCake/fixturize
+  </a>
+  - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
  </li>
  <li>
   <a href="https://github.com/gourmet/muffin">
@@ -1974,7 +1980,7 @@
   </a>
   support for CakePHP fixture records.
   <sup>
-   &#9733 1, pushed 394 days ago
+   &#9733 1, pushed 519 days ago
   </sup>
  </li>
 </ul>
@@ -1993,7 +1999,7 @@
   </a>
   - The Movie Database (TMDB) API integration.
   <sup>
-   &#9733 0, pushed 118 days ago
+   &#9733 0, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -2006,7 +2012,7 @@
   </a>
   ORM.
   <sup>
-   &#9733 5, pushed 66 days ago
+   &#9733 5, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -2015,7 +2021,7 @@
   </a>
   - Brings the Ratchet websocket package to CakePHP.
   <sup>
-   &#9733 28, pushed 22 days ago
+   &#9733 28, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2024,7 +2030,7 @@
   </a>
   - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
   <sup>
-   &#9733 1, pushed 93 days ago
+   &#9733 1, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -2037,7 +2043,7 @@
   </a>
   ORM.
   <sup>
-   &#9733 14, pushed 18 days ago
+   &#9733 14, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -2064,7 +2070,7 @@
   </a>
   - A Vagrant development environment powered by the CakePHP 3.x Console.
   <sup>
-   &#9733 95, pushed 5 days ago
+   &#9733 95, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2074,12 +2080,18 @@
   - The .gitignore file proposals.
  </li>
  <li>
+  <a href="https://github.com/cpierce/cakephp-vagrant-setup">
+   CakePHP Vagrant Setup
+  </a>
+  - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+ </li>
+ <li>
   <a href="https://github.com/junichi11/cakephp3-netbeans">
    NetBeans plugin
   </a>
   -  This plugin provides support for CakePHP in NetBeans 8.1+.
   <sup>
-   &#9733 26, pushed 120 days ago
+   &#9733 26, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -2088,7 +2100,7 @@
   </a>
   -  CakePHP auto-completion support for console commands in PhpStorm IDE.
   <sup>
-   &#9733 1, pushed 22 days ago
+   &#9733 1, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2123,7 +2135,7 @@
   </a>
   - Open source blog software.
   <sup>
-   &#9733 4, pushed 119 days ago
+   &#9733 4, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -2132,7 +2144,7 @@
   </a>
   - Open source content management system.
   <sup>
-   &#9733 139, pushed 33 days ago
+   &#9733 139, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -2151,7 +2163,7 @@
   </a>
   A bookmarking application built with the CRUD plugin.
   <sup>
-   &#9733 10, pushed 361 days ago
+   &#9733 10, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -2172,7 +2184,7 @@
   </a>
   Advanced query building examples.
   <sup>
-   &#9733 34, pushed 619 days ago
+   &#9733 34, pushed 744 days ago
   </sup>
  </li>
  <li>
@@ -2181,7 +2193,7 @@
   </a>
   - A resource to help people starting with CakePHP.
   <sup>
-   &#9733 33, pushed 340 days ago
+   &#9733 33, pushed 464 days ago
   </sup>
  </li>
 </ul>
@@ -2354,12 +2366,6 @@
    CakePHP Cookbook(!)
   </a>
   - The official CakePHP documentation.
- </li>
- <li>
-  <a href="http://podcast.cakephp.org/">
-   CakePHP Podcast
-  </a>
-  - The official CakePHP podcasts.
  </li>
  <li>
   <a href="http://www.scoop.it/t/cakephp-reporter">

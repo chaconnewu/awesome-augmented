@@ -58,7 +58,7 @@
   </a>
   fork TypeScript on Github! Or... just read the code
   <sup>
-   &#9733 11210, pushed 2 days ago
+   &#9733 11210, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -84,6 +84,13 @@
    Boris Yankov
   </a>
  </li>
+ <li>
+  :octocat:
+  <a href="https://github.com/typings/typings">
+   Typings
+  </a>
+  , the TypeScript definition manager
+ </li>
 </ul>
 <h3>
  IDE
@@ -96,37 +103,25 @@
 </h5>
 <ul>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://www.visualstudio.com/products/visual-studio-community-vs">
    Visual Studio Community Edition 2015
   </a>
   - free (conditionally) IDE with integrated TypeScript support
+  <ul>
+   <li>
+    <a href="https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7">
+     VS Addon - TypescriptSyntaxPaste
+    </a>
+    - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
+   </li>
+  </ul>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
-  <a href="http://blogs.msdn.com/b/typescript/">
-   Download TypeScript addons for Visual Studio 2013
-  </a>
- </li>
- <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/Microsoft/nodejstools">
    NodeJS Tools for Visual Studio
   </a>
   <sup>
-   &#9733 1191, pushed 3 days ago
+   &#9733 1191, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -135,89 +130,59 @@
 </h5>
 <ul>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://www.visualstudio.com/en-us/products/code-vs.aspx">
    Visual Studio Code
   </a>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
+  <a href="https://www.jetbrains.com/phpstorm/download/">
+   PhpStorm
+  </a>
+ </li>
+ <li>
   <a href="http://jbaron.github.io/cats/">
    CATS
   </a>
   is an IDE for TypeScript and Web developers by @jbaron
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/Microsoft/TypeScript-Sublime-Plugin">
    TypeScript Sublime Plugin
   </a>
   by @Microsoft
   <sup>
-   &#9733 570, pushed 17 days ago
+   &#9733 570, pushed 141 days ago
   </sup>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/TypeStrong/atom-typescript">
    Atom TypeScript
   </a>
   by @TypeStrong
   <sup>
-   &#9733 548, pushed 10 days ago
+   &#9733 548, pushed 134 days ago
   </sup>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/ananthakumaran/tide">
    TypeScript Interactive Development Environment for Emacs
   </a>
   by @ananthakumaran
   <sup>
-   &#9733 85, pushed 4 days ago
+   &#9733 85, pushed 129 days ago
   </sup>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://typecsdev.com/">
    TypeScript IDE for Eclipse
   </a>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/leafgarland/typescript-vim">
    TypeScript Syntax for VIM
   </a>
   <sup>
-   &#9733 285, pushed 3 days ago
+   &#9733 285, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -230,7 +195,7 @@
    review article
   </a>
   <sup>
-   &#9733 24, pushed 39 days ago
+   &#9733 24, pushed 164 days ago
   </sup>
  </li>
 </ul>
@@ -242,11 +207,6 @@
 </h5>
 <ul>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://github.com/hi104/typescript-playground-on-ace">
    TypeScript playground-on-ace
   </a>
@@ -255,58 +215,33 @@
    updated to TypeScript 1.5
   </a>
   <sup>
-   &#9733 71, pushed 1244 days ago
+   &#9733 71, pushed 1369 days ago
   </sup>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://www.typescriptlang.org/Playground/">
    TypeScript official Playground
   </a>
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://jsbin.com/?js">
    JS Bin
   </a>
   (Select TypeScript)
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://codepen.io/">
    Codepen
   </a>
   (Select TypeScript)
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://niutech.github.io/typescript-interpret/">
    TypeScript Interpret - Terminal Emulator
   </a>
   by @niutech
  </li>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="http://drake7707.github.io/Typescript-Editor/">
    TypeScript Editor
   </a>
@@ -318,13 +253,13 @@
 </h5>
 <ul>
  <li>
-  :arrow
-  <em>
-   double
-  </em>
-  down:
   <a href="https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf">
    TypeScript Editey
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/OctoLinker/browser-extension">
+   OctoLinker
   </a>
  </li>
 </ul>
@@ -354,7 +289,7 @@
   </a>
   Generates TypeScript interfaces from .jsx files
   <sup>
-   &#9733 23, pushed 332 days ago
+   &#9733 23, pushed 457 days ago
   </sup>
  </li>
  <li>
@@ -384,7 +319,7 @@
    - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.
   </a>
   <sup>
-   &#9733 24, pushed 2 days ago
+   &#9733 24, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -466,7 +401,7 @@
   </a>
   - TypeScript linter by @palantir
   <sup>
-   &#9733 706, pushed 3 days ago
+   &#9733 706, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -484,8 +419,13 @@
   </a>
   - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
   <sup>
-   &#9733 6584, pushed 4 days ago
+   &#9733 6584, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://microsoft.github.io/monaco-editor/index.html">
+   Monaco Editor
+  </a>
  </li>
 </ul>
 <h3>
@@ -499,7 +439,7 @@
   </a>
   - Angular is a development platform for building mobile and desktop web applications
   <sup>
-   &#9733 11195, pushed 2 days ago
+   &#9733 11195, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -513,7 +453,7 @@
   </code>
   (see also: http://plottablejs.org)
   <sup>
-   &#9733 983, pushed 4 days ago
+   &#9733 983, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -528,8 +468,14 @@
   </a>
   - Multiplatform IDE.
   <sup>
-   &#9733 13794, pushed 2 days ago
+   &#9733 13794, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  :octocat:
+  <a href="https://github.com/alm-tools/alm">
+   alm - A next generation IDE just for TypeScript written in TypeScript + React
+  </a>
  </li>
 </ul>
 <h1>
@@ -579,6 +525,26 @@
    Using TypeScript for Large AngularJS Applications
   </a>
   (Pluralsight)
+ </li>
+</ul>
+<h3>
+ Badges
+</h3>
+<ul>
+ <li>
+  <a href="https://github.com/ellerbrock/typescript-badges/">
+   TypeScript Badges
+  </a>
+  <br/>
+  <a href="https://github.com/ellerbrock/typescript-badges/">
+   <img alt="TypeScript" src="https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png"/>
+  </a>
+  <a href="https://github.com/ellerbrock/typescript-badges/">
+   <img alt="TypeScript" src="https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png"/>
+  </a>
+  <a href="https://github.com/ellerbrock/typescript-badges/">
+   <img alt="TypeScript" src="https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png"/>
+  </a>
  </li>
 </ul>
 <h3>

@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Awesome%20butterfly.png" align="center" width="1200">
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Screen%20Shot%202016-07-27%20at%203.34.27%20PM.png" align="center" width="1200">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -69,6 +69,10 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 
+### Salesforce Custom Search Engines
+* [findsf] (http://findsf.info): Google Custom Search of Salesforce related sites
+* [Search The Force.com] (http://searchtheforce.com): Google custom search of Salesforce related sites with OpenSearch support
+
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
@@ -118,6 +122,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/>
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
+* [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
 ### Developer Utilities
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
@@ -139,9 +144,13 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
+
+* [AdminBooster](https://www.adminbooster.com)- A command line tool designed for admins and developers to interact with Salesforce using the Windows console.
+
 ### Git Ignore for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
-* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
 ### Open Source Projects Repositories from Salesforce
 
@@ -164,7 +173,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps
 * [Formulon](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
-
+* [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) - Windows based toolkit to run native Javascript to access Salesforce data.
 
 
 ## UX Libraries for Salesforce
@@ -173,7 +182,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 * [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
-* [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
+* [React Components for Saleforce Lighting Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
@@ -264,9 +273,17 @@ Create mobile apps with device feature-driven workflow using your standard or cu
  * [Salesforce PartnerForce](https://twitter.com/partnerforce)
 
 ### Learning Salesforce Platform
+
+## Online Resources
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
+* [Pluralsight Courses](https://www.pluralsight.com/search?q=salesforce&categories=course) - A rapidly growing collection of courses covering Apex, Lightning, Integration and more. Authored by Salesforce MVPs and Certified Advanced Developers like Dan Appleman, David Liu, Don Robins, Sara Morgan and others.
 * [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+### Books
+ * [Force.com Enterprise Architecture](https://www.amazon.com/Force-com-Enterprise-Architecture-Andrew-Fawcett/dp/1782172998) - Learn enterprise application development on the Force.com platform, by Andrew Fawcett.
+ * [Advanced Apex Programming](http://advancedapex.com) - Learn advanced Apex programming fundamentals and design patterns, by Dan Appleman.
+
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)

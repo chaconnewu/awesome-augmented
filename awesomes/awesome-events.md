@@ -204,6 +204,9 @@
   )
   <ul>
    <li>
+    2016 @ Intertubes, May/7   (FREE)
+   </li>
+   <li>
     2015 @ Intertubes; May/2   (FREE)
    </li>
   </ul>
@@ -252,7 +255,7 @@
   </em>
   <ul>
    <li>
-    @ Sofia, Bulgaria   - #14
+    2016 @ Sofia, Bulgaria; Sept/23+24  (€65)  - #14
    </li>
    <li>
     2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
@@ -1427,6 +1430,44 @@ bln
    </li>
   </ul>
  </li>
+ <li>
+  @ Valencia
+  <ul>
+   <li>
+    <strong>
+     Valencia.rb
+    </strong>
+    (web:
+    <a href="http://valenciarb.org">
+     valenciarb.org
+    </a>
+    , github:
+    <a href="https://github.com/valenciarb">
+     valenciarb
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Ciudad Real
+  <ul>
+   <li>
+    <strong>
+     CiudadReal.rb
+    </strong>
+    (web:
+    <a href="http://ciudadrealrb.org">
+     ciudadrealrb.org
+    </a>
+    , github:
+    <a href="https://github.com/ciudadrealrb">
+     ciudadrealrb
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
 </ul>
 <h4>
  Portugal (pt)
@@ -1446,6 +1487,9 @@ bln
   </a>
   )
   <ul>
+   <li>
+    2016 @ Braga; Oct/27+28  (€200)
+   </li>
    <li>
     2015 @ Braga; Sept/14+15  (€250/200/150, Student €80)
    </li>
@@ -1473,6 +1517,9 @@ bln
   </a>
   )
   <ul>
+   <li>
+    2016 @ Florence; Nov/25+26
+   </li>
    <li>
     2015 @ Turin; Nov/13  (€52)
    </li>
@@ -2162,6 +2209,9 @@ bln
   </p>
   <ul>
    <li>
+    2017 @ Phoenix, Arizona; April/25-27
+   </li>
+   <li>
     2016 @ Kansas City, Missouri; May/4-6
    </li>
    <li>
@@ -2229,6 +2279,25 @@ bln
  Mid Atlantic
 </h5>
 <ul>
+ <li>
+  <strong>
+   OpenCommerce Conference
+  </strong>
+  (web:
+  <a href="http://opencommerceconf.org/">
+   opencommerceconf.org
+  </a>
+  , t:
+  <a href="https://twitter.com/opencommerce_">
+   opencommerce_
+  </a>
+  )
+  <ul>
+   <li>
+    2016 @ New York, New York; June/28+29
+   </li>
+  </ul>
+ </li>
  <li>
   <strong>
    Gotham Ruby Conference - GORUCO
@@ -2309,6 +2378,21 @@ bln
     (meetup:
     <a href="http://meetup.com/nycruby">
      nycruby
+    </a>
+    )
+   </li>
+  </ul>
+ </li>
+ <li>
+  @ Philadelphia, Pennsylvania
+  <ul>
+   <li>
+    <strong>
+     Philly.rb
+    </strong>
+    (meetup:
+    <a href="http://www.phillyrb.org">
+     Philly.rb
     </a>
     )
    </li>
@@ -3687,6 +3771,9 @@ bln
   </a>
   )
   <ul>
+   <li>
+    2016 @ Chengdu; Sept/23+24
+   </li>
    <li>
     2015 @ Shenzhen; Oct/10+11
    </li>

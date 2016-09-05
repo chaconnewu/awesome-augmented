@@ -333,4 +333,9 @@
   </a>
   - Michael Foord shares his experience publishing with Apress.
  </li>
+ <li>
+  <a href="http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/">
+   Tips for Writing a Programming Book
+  </a>
+ </li>
 </ul>

@@ -286,7 +286,7 @@
   </a>
   - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
   <sup>
-   &#9733 1604, pushed 1 days ago
+   &#9733 1604, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -295,7 +295,7 @@
   </a>
   - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
   <sup>
-   &#9733 232, pushed 2 days ago
+   &#9733 232, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -657,7 +657,7 @@
   </a>
   - a library for efficient, concurrent, concise data access.
   <sup>
-   &#9733 2212, pushed 47 days ago
+   &#9733 2212, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -1211,7 +1211,7 @@
   </a>
   - Haskell HTTP package. Supports client-side web programming in Haskell.
   <sup>
-   &#9733 98, pushed 83 days ago
+   &#9733 98, pushed 207 days ago
   </sup>
  </li>
  <li>
@@ -1220,7 +1220,7 @@
   </a>
   - a lightweight oauth2 haskell binding.
   <sup>
-   &#9733 44, pushed 76 days ago
+   &#9733 44, pushed 201 days ago
   </sup>
  </li>
 </ul>
@@ -1255,7 +1255,7 @@
   </a>
   - client library for AMQP servers (currently only RabbitMQ).
   <sup>
-   &#9733 71, pushed 79 days ago
+   &#9733 71, pushed 204 days ago
   </sup>
  </li>
  <li>
@@ -1352,7 +1352,7 @@
   </a>
   - A Dependently Typed Functional Programming Language
   <sup>
-   &#9733 1198, pushed 2 days ago
+   &#9733 1198, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1549,7 +1549,7 @@
   </a>
   .
   <sup>
-   &#9733 289, pushed 31 days ago
+   &#9733 289, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -1568,7 +1568,7 @@
   </a>
   .
   <sup>
-   &#9733 272, pushed 12 days ago
+   &#9733 272, pushed 136 days ago
   </sup>
  </li>
 </ul>
@@ -1686,7 +1686,7 @@
   </a>
   - Haskell Learning (also for non-English speakers).
   <sup>
-   &#9733 3690, pushed 62 days ago
+   &#9733 3690, pushed 186 days ago
   </sup>
  </li>
  <li>

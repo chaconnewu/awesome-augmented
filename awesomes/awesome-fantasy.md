@@ -224,6 +224,47 @@
  </p>
 </blockquote>
 <h4>
+ <a href="https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion">
+  The Deed of Paksenarrion
+ </a>
+ <em>
+  by
+  <a href="https://en.wikipedia.org/wiki/Elizabeth_Moon">
+   Elizabeth Moon
+  </a>
+ </em>
+ [4.3]
+</h4>
+<p>
+ This omnibus edition of 3 books describes the origin and deeds of a female Paladin named Paksenarrion. The Deed of Paksenarrion contemplates justice, true courage and the forces of good and evil in a way that is refreshing. I don't think I ever really understood the fantasy class of Paladin until reading this either, Elizabeth Moon's depiction will now forever be my etched on my brain as what a Paladin is.
+</p>
+<p>
+ It has all the usual trappings of high fantasy including dwarves and elves, but what really stands out is the balance of gender and the role of women. Throughout the books women are respected as equals and Paksenarrion develops a courageous, head-strong and loyal character that is engrossing and convincing. -
+ <a href="https://github.com/samueljseay">
+  @samueljseay
+ </a>
+</p>
+<p>
+ Books:
+  *
+ <a href="https://www.goodreads.com/book/show/96278.Sheepfarmer_s_Daughter">
+  Sheepfarmer's Daughter
+ </a>
+ *
+ <a href="https://www.goodreads.com/book/show/887858.Divided_Allegiance">
+  Divided Allegiance
+ </a>
+ *
+ <a href="https://www.goodreads.com/book/show/17316.Oath_of_Gold">
+  Oath of Gold
+ </a>
+</p>
+<blockquote>
+ <p>
+  Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
+ </p>
+</blockquote>
+<h4>
  <a href="https://www.goodreads.com/series/45935-dune-chronicles">
   Dune
  </a>

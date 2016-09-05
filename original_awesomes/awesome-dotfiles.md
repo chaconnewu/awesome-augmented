@@ -16,7 +16,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 * [Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config](https://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config)
 * [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449) - [Part 2](http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
 * [Using Git and GitHub to manage your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
-* [conf.d like directories for zsh/bash dotfiles](http://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
+* [conf.d like directories for zsh/bash dotfiles](https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/)
 
 ### Shell startup
 
@@ -38,7 +38,7 @@ A curated list of dotfiles resources. Inspired by the [awesome](https://github.c
 ### Using Ansible
 
 * [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.nl/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
-* [Manage a development machine with Ansible](http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible/)
+* [Manage a development machine with Ansible](http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible)
 
 ## Dotfiles repos
 
@@ -89,8 +89,6 @@ Tip: search for a filename on GitHub, e.g. [site:github.com .gitconfig](https://
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([post](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-* [remote-dotfiles](https://www.npmjs.com/package/remote-dotfiles) - Describe your dotfiles configuration, tuned for and deploy to all your servers.
-* [Super User Spark](https://github.com/NorfairKing/super-user-spark) - Tool that allows you to manage your beautiful and precious system configuration accross multiple systems and failures ([post](http://cs-syd.eu/posts/2015-09-27-super-user-spark-getting-started)).
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
 

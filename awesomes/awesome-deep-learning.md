@@ -142,7 +142,7 @@
   </a>
   by Andrej Karpathy : numpy-based RNN/LSTM implementation
   <sup>
-   &#9733 3529, pushed 166 days ago
+   &#9733 3529, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -261,9 +261,27 @@
  </li>
  <li>
   <a href="https://www.udacity.com/course/deep-learning--ud730">
-   Deep Learning - Google
+   Deep Learning - Udacity/Google
   </a>
   by Vincent Vanhoucke and Arpan Chakraborty (2016)
+ </li>
+ <li>
+  <a href="https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE">
+   Deep Learning - UWaterloo
+  </a>
+  by Prof. Ali Ghodsi at University of Waterloo (2015)
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r">
+   Statistical Machine Learning - CMU
+  </a>
+  by Prof. Larry Wasserman
+ </li>
+ <li>
+  <a href="https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm">
+   Deep Learning Course
+  </a>
+  by Yann LeCun (2016)
  </li>
 </ol>
 <h3>
@@ -366,10 +384,24 @@
   </a>
   by Steve Jurvetson (and panel) at VLAB in Stanford.
  </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=FoO8qDB8gUU">
+   Introduction to Artificial Neural Networks and Deep Learning
+  </a>
+  by Leo Isikdogan at Motorola Mobility HQ
+ </li>
 </ol>
 <h3>
  Papers
 </h3>
+<p>
+ <em>
+  You can also find the most cited deep learning papers from
+  <a href="https://github.com/terryum/awesome-deep-learning-papers">
+   here
+  </a>
+ </em>
+</p>
 <ol>
  <li>
   <a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">
@@ -546,6 +578,16 @@ Recognition
    Mastering the Game of Go with Deep Neural Networks and Tree Search
   </a>
  </li>
+ <li>
+  <a href="https://arxiv.org/abs/1502.03167">
+   Batch Normalization
+  </a>
+ </li>
+ <li>
+  <a href="https://arxiv.org/pdf/1512.03385v1.pdf">
+   Residual Learning
+  </a>
+ </li>
 </ol>
 <h3>
  Tutorials
@@ -601,7 +643,7 @@ Recognition
    The Best Machine Learning Tutorials On The Web
   </a>
   <sup>
-   &#9733 258, pushed 1833 days ago
+   &#9733 258, pushed 1957 days ago
   </sup>
  </li>
  <li>
@@ -614,7 +656,7 @@ Recognition
    TensorFlow tutorials
   </a>
   <sup>
-   &#9733 1774, pushed 9 days ago
+   &#9733 1774, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -622,7 +664,7 @@ Recognition
    More TensorFlow tutorials
   </a>
   <sup>
-   &#9733 2043, pushed 10 days ago
+   &#9733 2043, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -630,7 +672,7 @@ Recognition
    TensorFlow Python Notebooks
   </a>
   <sup>
-   &#9733 2014, pushed 19 days ago
+   &#9733 2014, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -638,7 +680,7 @@ Recognition
    Keras and Lasagne Deep Learning Tutorials
   </a>
   <sup>
-   &#9733 43, pushed 17 days ago
+   &#9733 43, pushed 142 days ago
   </sup>
  </li>
 </ol>
@@ -657,7 +699,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://www.stanford.edu/~acoates/">
+  <a href="http://cs.stanford.edu/~acoates/">
    Adam Coates
   </a>
  </li>
@@ -752,7 +794,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://homepages.inf.ed.ac.uk/s0792415/">
+  <a href="http://serre-lab.clps.brown.edu/person/david-reichert/">
    David Reichert
   </a>
  </li>
@@ -892,7 +934,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://www.seas.upenn.edu/~blancoj/labsite.html">
+  <a href="https://sites.google.com/site/blancousna/">
    Justin A. Blanco
   </a>
  </li>
@@ -917,7 +959,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://www.lri.fr/~arnold/">
+  <a href="http://ludovicarnold.altervista.org/home/">
    Ludovic Arnold
   </a>
  </li>
@@ -977,7 +1019,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://research.google.com/pubs/PatrickNguyen.html">
+  <a href="https://sites.google.com/site/drpngx/">
    Patrick Nguyen
   </a>
  </li>
@@ -1017,7 +1059,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://http://cs.nyu.edu/~fergus">
+  <a href="http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php">
    Rob Fergus
   </a>
  </li>
@@ -1082,7 +1124,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://www.fit.vutbr.cz/~imikolov/">
+  <a href="https://research.facebook.com/tomas-mikolov">
    Tomáš Mikolov
   </a>
  </li>
@@ -1117,7 +1159,7 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="http://www.kecl.ntt.co.jp/icl/signal/member/yotaro/">
+  <a href="http://yota.ro/">
    Yotaro Kubo
   </a>
  </li>
@@ -1272,7 +1314,6 @@ Recognition
   <a href="http://www.cs.toronto.edu/~kriz/cifar.html">
    CIFAR-10 and CIFAR-100
   </a>
-  4.
  </li>
  <li>
   <a href="http://www.image-net.org/">
@@ -1813,7 +1854,7 @@ Recognition
   - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff)
  </li>
  <li>
-  <a href="http://vis-www.cs.umass.edu/vislib/directory.html">
+  <a href="http://vis-www.cs.umass.edu/~vislib/">
    UMass Vision Image Archive
   </a>
   - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
@@ -1903,6 +1944,16 @@ Recognition
    Center for Computational Vision and Control
   </a>
  </li>
+ <li>
+  <a href="https://github.com/deepmind/rc-data">
+   DeepMind QA Corpus
+  </a>
+  - Textual QA corpus from CNN and DailyMail. More than 300K documents in total.
+  <a href="http://arxiv.org/abs/1506.03340">
+   Paper
+  </a>
+  for reference.
+ </li>
 </ol>
 <h3>
  Frameworks
@@ -1933,7 +1984,7 @@ Recognition
    convetjs
   </a>
   <sup>
-   &#9733 4672, pushed 51 days ago
+   &#9733 4672, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1956,7 +2007,7 @@ Recognition
    Brain
   </a>
   <sup>
-   &#9733 6952, pushed 186 days ago
+   &#9733 6952, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -1964,7 +2015,7 @@ Recognition
    DeepLearnToolbox
   </a>
   <sup>
-   &#9733 1877, pushed 154 days ago
+   &#9733 1877, pushed 279 days ago
   </sup>
  </li>
  <li>
@@ -1972,7 +2023,7 @@ Recognition
    Deepnet
   </a>
   <sup>
-   &#9733 627, pushed 664 days ago
+   &#9733 627, pushed 789 days ago
   </sup>
  </li>
  <li>
@@ -1980,7 +2031,7 @@ Recognition
    Deeppy
   </a>
   <sup>
-   &#9733 875, pushed 27 days ago
+   &#9733 875, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1988,7 +2039,7 @@ Recognition
    JavaNN
   </a>
   <sup>
-   &#9733 839, pushed 243 days ago
+   &#9733 839, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -1996,7 +2047,7 @@ Recognition
    hebel
   </a>
   <sup>
-   &#9733 1137, pushed 264 days ago
+   &#9733 1137, pushed 389 days ago
   </sup>
  </li>
  <li>
@@ -2004,7 +2055,7 @@ Recognition
    Mocha.jl
   </a>
   <sup>
-   &#9733 675, pushed 20 days ago
+   &#9733 675, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -2012,7 +2063,7 @@ Recognition
    OpenDL
   </a>
   <sup>
-   &#9733 199, pushed 244 days ago
+   &#9733 199, pushed 369 days ago
   </sup>
  </li>
  <li>
@@ -2026,8 +2077,8 @@ Recognition
   </a>
  </li>
  <li>
-  <a href="https://github.com/denizyuret/KUnet.jl">
-   KUnet.jl
+  <a href="https://github.com/denizyuret/Knet.jl">
+   Knet.jl
   </a>
  </li>
  <li>
@@ -2035,7 +2086,7 @@ Recognition
    Nvidia DIGITS - a web app based on Caffe
   </a>
   <sup>
-   &#9733 1076, pushed 1 days ago
+   &#9733 1076, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2043,7 +2094,7 @@ Recognition
    Neon - Python based Deep Learning Framework
   </a>
   <sup>
-   &#9733 1808, pushed 4 days ago
+   &#9733 1808, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2071,7 +2122,7 @@ Recognition
    char-rnn
   </a>
   <sup>
-   &#9733 3119, pushed 3 days ago
+   &#9733 3119, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2079,7 +2130,7 @@ Recognition
    MatConvNet: CNNs for MATLAB
   </a>
   <sup>
-   &#9733 397, pushed 2 days ago
+   &#9733 397, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2087,7 +2138,7 @@ Recognition
    Minerva - a fast and flexible tool for deep learning on multi-GPU
   </a>
   <sup>
-   &#9733 537, pushed 49 days ago
+   &#9733 537, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -2095,7 +2146,7 @@ Recognition
    Brainstorm - Fast, flexible and fun neural networks.
   </a>
   <sup>
-   &#9733 1090, pushed 10 days ago
+   &#9733 1090, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -2103,7 +2154,7 @@ Recognition
    Tensorflow - Open source software library for numerical computation using data flow graphs
   </a>
   <sup>
-   &#9733 22733, pushed 1 days ago
+   &#9733 22733, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -2111,7 +2162,7 @@ Recognition
    DMTK - Microsoft Distributed Machine Learning Tookit
   </a>
   <sup>
-   &#9733 1564, pushed 19 days ago
+   &#9733 1564, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -2129,7 +2180,7 @@ Recognition
    Veles - Samsung Distributed machine learning platform
   </a>
   <sup>
-   &#9733 732, pushed 69 days ago
+   &#9733 732, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -2137,12 +2188,37 @@ Recognition
    Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework
   </a>
   <sup>
-   &#9733 231, pushed 7 days ago
+   &#9733 231, pushed 131 days ago
   </sup>
  </li>
  <li>
   <a href="http://singa.incubator.apache.org/">
    Apache SINGA - A General Distributed Deep Learning Platform
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/amznlabs/amazon-dsstne">
+   DSSTNE - Amazon's library for building Deep Learning models
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/tensorflow/models/tree/master/syntaxnet">
+   SyntaxNet - Google's syntactic parser - A TensorFlow dependency library
+  </a>
+ </li>
+ <li>
+  <a href="http://mlpack.org/">
+   mlpack - A scalable Machine Learning library
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/torchnet/torchnet">
+   Torchnet - Torch based Deep Learning Library
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/baidu/paddle">
+   Paddle - PArallel Distributed Deep LEarning by Baidu
   </a>
  </li>
 </ol>
@@ -2180,7 +2256,7 @@ Recognition
    TorontoDeepLEarning convnet
   </a>
   <sup>
-   &#9733 432, pushed 85 days ago
+   &#9733 432, pushed 210 days ago
   </sup>
  </li>
  <li>
@@ -2188,7 +2264,7 @@ Recognition
    gfx.js
   </a>
   <sup>
-   &#9733 95, pushed 175 days ago
+   &#9733 95, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -2226,7 +2302,7 @@ Recognition
    A chess AI that learns to play chess using deep learning.
   </a>
   <sup>
-   &#9733 333, pushed 36 days ago
+   &#9733 333, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -2234,7 +2310,7 @@ Recognition
    Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind
   </a>
   <sup>
-   &#9733 486, pushed 449 days ago
+   &#9733 486, pushed 574 days ago
   </sup>
  </li>
  <li>
@@ -2242,7 +2318,7 @@ Recognition
    Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps
   </a>
   <sup>
-   &#9733 184, pushed 57 days ago
+   &#9733 184, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -2250,7 +2326,7 @@ Recognition
    The original code from the DeepMind article + tweaks
   </a>
   <sup>
-   &#9733 746, pushed 147 days ago
+   &#9733 746, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -2258,7 +2334,7 @@ Recognition
    Google deepdream - Neural Network art
   </a>
   <sup>
-   &#9733 8673, pushed 206 days ago
+   &#9733 8673, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -2271,7 +2347,7 @@ Recognition
    A recurrent neural network designed to generate classical music.
   </a>
   <sup>
-   &#9733 805, pushed 3 days ago
+   &#9733 805, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2279,7 +2355,7 @@ Recognition
    Memory Networks Implementations - Facebook
   </a>
   <sup>
-   &#9733 598, pushed 114 days ago
+   &#9733 598, pushed 238 days ago
   </sup>
  </li>
  <li>
@@ -2287,7 +2363,7 @@ Recognition
    Face recognition with Google's FaceNet deep neural network.
   </a>
   <sup>
-   &#9733 4352, pushed 6 days ago
+   &#9733 4352, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2295,7 +2371,7 @@ Recognition
    Basic digit recognition neural network
   </a>
   <sup>
-   &#9733 39, pushed 1193 days ago
+   &#9733 39, pushed 1318 days ago
   </sup>
  </li>
  <li>
@@ -2308,7 +2384,7 @@ Recognition
    Proof of concept for loading Caffe models in TensorFlow
   </a>
   <sup>
-   &#9733 284, pushed 1 days ago
+   &#9733 284, pushed 126 days ago
   </sup>
  </li>
  <li>

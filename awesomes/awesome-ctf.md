@@ -12,7 +12,7 @@
  <a href="https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security">
   Capture The Flag
  </a>
- (CTF) frameworks, libraries, resources and softwares.
+ (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 </p>
 <h3>
  Contributing
@@ -54,6 +54,16 @@
    <li>
     <a href="#forensics">
      Forensics
+    </a>
+   </li>
+   <li>
+    <a href="#platforms">
+     Platforms
+    </a>
+   </li>
+   <li>
+    <a href="#steganography">
+     Steganography
     </a>
    </li>
    <li>
@@ -178,6 +188,51 @@
  </li>
 </ul>
 <h2>
+ Platforms
+</h2>
+<p>
+ <em>
+  Projects that can be used to host a CTF
+ </em>
+</p>
+<ul>
+ <li>
+  <a href="https://github.com/isislab/CTFd">
+   CTFd
+  </a>
+  - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
+ </li>
+ <li>
+  <a href="https://github.com/facebook/fbctf">
+   fbctf
+  </a>
+  - Platform to host Capture the Flag competitions from Facebook
+ </li>
+ <li>
+  <a href="https://github.com/Nakiami/mellivora">
+   Mellivora
+  </a>
+  - A CTF engine written in PHP
+ </li>
+ <li>
+  <a href="https://github.com/legitbs/scorebot">
+   Scorebot
+  </a>
+  - Platform for CTFs by Legitbs (Defcon)
+ </li>
+</ul>
+<h2>
+ Steganography
+</h2>
+<p>
+ <em>
+  Tools used to create stego challenges
+ </em>
+</p>
+<p>
+ Check solve section for steganography.
+</p>
+<h2>
  Web
 </h2>
 <p>
@@ -225,7 +280,7 @@
   </a>
   - Framework to perform MITM (Man in the Middle) attacks.
   <sup>
-   &#9733 1366, pushed 6 days ago
+   &#9733 1366, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -234,7 +289,7 @@
   </a>
   - Attack various protocols on layer 2
   <sup>
-   &#9733 80, pushed 481 days ago
+   &#9733 80, pushed 606 days ago
   </sup>
  </li>
 </ul>
@@ -259,7 +314,7 @@
   </a>
   - Generate private key with knowledge of p and q
   <sup>
-   &#9733 89, pushed 89 days ago
+   &#9733 89, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -268,7 +323,7 @@
   </a>
   - A tool to analyze multi-byte xor cipher
   <sup>
-   &#9733 314, pushed 566 days ago
+   &#9733 314, pushed 691 days ago
   </sup>
  </li>
 </ul>
@@ -287,7 +342,7 @@
   </a>
   - Community enhanced version of John the Ripper
   <sup>
-   &#9733 599, pushed 1 days ago
+   &#9733 599, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -319,6 +374,12 @@
   - CTF framework and exploit development library
  </li>
  <li>
+  <a href="https://github.com/OpenSecurityResearch/dllinjector">
+   DLLInjector
+  </a>
+  - Inject dlls in processes
+ </li>
+ <li>
   <a href="http://www.metasploit.com/">
    Metasploit
   </a>
@@ -330,7 +391,7 @@
   </a>
   - CTF Framework for writing exploits
   <sup>
-   &#9733 1340, pushed 3 days ago
+   &#9733 1340, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -339,7 +400,7 @@
   </a>
   - QEMU Interactive Runtime Analyser
   <sup>
-   &#9733 1039, pushed 2 days ago
+   &#9733 1039, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -348,7 +409,7 @@
   </a>
   - Framework for ROP exploitation
   <sup>
-   &#9733 669, pushed 3 days ago
+   &#9733 669, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -412,7 +473,7 @@
   </a>
   - Dump windows credentials
   <sup>
-   &#9733 16, pushed 394 days ago
+   &#9733 16, pushed 518 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +482,7 @@
   </a>
   - Rips web accessible (distributed) version control systems
   <sup>
-   &#9733 250, pushed 161 days ago
+   &#9733 250, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -435,6 +496,12 @@
    extundelete
   </a>
   - Used for recovering lost data from mountable images
+ </li>
+ <li>
+  <a href="https://github.com/rabbitstack/fibratus">
+   Fibratus
+  </a>
+  - Tool for exploration and tracing of the Windows kernel
  </li>
  <li>
   <a href="http://foremost.sourceforge.net/">
@@ -485,7 +552,7 @@
   </a>
   - Investigate NT_USER.dat files
   <sup>
-   &#9733 28, pushed 29 days ago
+   &#9733 28, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -500,7 +567,7 @@
   </a>
   - To investigate memory dumps
   <sup>
-   &#9733 950, pushed 4 days ago
+   &#9733 950, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -547,7 +614,16 @@
   </a>
   - Reverse engineer Android applications
   <sup>
-   &#9733 905, pushed 42 days ago
+   &#9733 905, pushed 167 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/angr/angr">
+   angr
+  </a>
+  - platform-agnostic binary analysis framework
+  <sup>
+   &#9733 598, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -556,7 +632,7 @@
   </a>
   - Yet another Android decompiler
   <sup>
-   &#9733 435, pushed 92 days ago
+   &#9733 435, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -564,6 +640,15 @@
    ApkTool
   </a>
   - Android Decompiler
+ </li>
+ <li>
+  <a href="https://github.com/programa-stic/barf-project">
+   Barf
+  </a>
+  - Binary Analysis and Reverse engineering Framework
+  <sup>
+   &#9733 656, pushed 138 days ago
+  </sup>
  </li>
  <li>
   <a href="http://www.gnu.org/software/binutils/binutils.html">
@@ -577,7 +662,7 @@
   </a>
   - Analyze, reverse engineer, and extract firmware images.
   <sup>
-   &#9733 1600, pushed 3 days ago
+   &#9733 1600, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -586,7 +671,7 @@
   </a>
   - Decompile x86 binaries to C
   <sup>
-   &#9733 64, pushed 2 days ago
+   &#9733 64, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -594,6 +679,12 @@
    GDB
   </a>
   - The GNU project debugger
+ </li>
+ <li>
+  <a href="http://www.hopperapp.com/">
+   Hopper
+  </a>
+  - Reverse engineering tool (disassembler) for OSX and Linux
  </li>
  <li>
   <a href="https://www.hex-rays.com/products/ida/">
@@ -607,7 +698,7 @@
   </a>
   - Decompile Android files
   <sup>
-   &#9733 2419, pushed 2 days ago
+   &#9733 2419, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +707,7 @@
   </a>
   - Java decompiler and disassembler
   <sup>
-   &#9733 527, pushed 4 days ago
+   &#9733 527, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -625,7 +716,7 @@
   </a>
   - A portable reversing framework
   <sup>
-   &#9733 2602, pushed 2 days ago
+   &#9733 2602, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -634,7 +725,7 @@
   </a>
   - Decompile Python 2.7 binaries (.pyc)
   <sup>
-   &#9733 245, pushed 224 days ago
+   &#9733 245, pushed 349 days ago
   </sup>
  </li>
  <li>
@@ -649,7 +740,7 @@
   </a>
   - a theorem prover from Microsoft Research
   <sup>
-   &#9733 1523, pushed 2 days ago
+   &#9733 1523, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -724,6 +815,18 @@
 </p>
 <ul>
  <li>
+  <a href="http://www.imagemagick.org/script/convert.php">
+   Convert
+  </a>
+  - Convert images b/w formats and apply filters
+ </li>
+ <li>
+  <a href="http://www.imagemagick.org/script/index.php">
+   ImageMagick
+  </a>
+  - Tool for manipulating images
+ </li>
+ <li>
   <a href="http://www.stillhq.com/pngtools/">
    pngtools
   </a>
@@ -742,7 +845,7 @@
   </a>
   - Used to deblur and fix defocused images
   <sup>
-   &#9733 1293, pushed 1069 days ago
+   &#9733 1293, pushed 1194 days ago
   </sup>
  </li>
  <li>
@@ -779,7 +882,7 @@
   </a>
   - Automatic SQL injection and database takeover tooli
   <sup>
-   &#9733 5899, pushed 4 days ago
+   &#9733 5899, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -788,7 +891,7 @@
   </a>
   -  Web Application Attack and Audit Framework.
   <sup>
-   &#9733 947, pushed 3 days ago
+   &#9733 947, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -821,7 +924,7 @@
   </a>
   - Collection of setup scripts to install various security research tools.
   <sup>
-   &#9733 727, pushed 28 days ago
+   &#9733 727, pushed 153 days ago
   </sup>
  </li>
 </ul>
@@ -858,7 +961,7 @@
   </a>
   - A small course for beginners in CTFs (in Russian)
   <sup>
-   &#9733 49, pushed 6 days ago
+   &#9733 49, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -890,16 +993,34 @@
   - Variety of VMs to learn variety of computer security issues.
  </li>
  <li>
+  <a href="http://gracker.org">
+   Gracker
+  </a>
+  - Binary challenges having a slow learning curve, and write-ups for each level.
+ </li>
+ <li>
   <a href="https://www.hackthissite.org/">
    Hack This Site
   </a>
   - Training ground for hackers.
  </li>
  <li>
+  <a href="http://io.netgarage.org/">
+   IO
+  </a>
+  - Wargame for binary challenges.
+ </li>
+ <li>
   <a href="http://overthewire.org/wargames/">
    Over The Wire
   </a>
   - Wargame maintained by OvertheWire Community
+ </li>
+ <li>
+  <a href="https://pwnable.kr/">
+   Pwnable.kr
+  </a>
+  - Pwn Game
  </li>
  <li>
   <a href="https://ringzer0team.com/">
@@ -918,6 +1039,12 @@
    VulnHub
   </a>
   - VM-based for practical in digital security, computer application & network administration.
+ </li>
+ <li>
+  <a href="http://webhacking.kr">
+   WebHacking
+  </a>
+  - Hacking challenges for web.
  </li>
  <li>
   <a href="https://www.wechall.net/">
@@ -969,6 +1096,12 @@
   </a>
   - CTF Wiki by Isis lab
  </li>
+ <li>
+  <a href="http://wiki.opentoallctf.com/">
+   OpenToAll
+  </a>
+  - Open To All Knowledge Base
+ </li>
 </ul>
 <h2>
  Writeups Collections
@@ -997,7 +1130,7 @@
   </a>
   - A collection of CTF write-ups all using pwntools
   <sup>
-   &#9733 84, pushed 7 days ago
+   &#9733 84, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1012,7 +1145,7 @@
   </a>
   - CTF write-ups repo maintained by SmokeLeetEveryday team.
   <sup>
-   &#9733 81, pushed 16 days ago
+   &#9733 81, pushed 140 days ago
   </sup>
  </li>
 </ul>
@@ -1020,5 +1153,5 @@
  LICENSE
 </h3>
 <p>
- MIT :)
+ CC0 :)
 </p>

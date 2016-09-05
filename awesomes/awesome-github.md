@@ -105,11 +105,11 @@
   </a>
   -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
   <sup>
-   &#9733 1271, pushed 13 days ago
+   &#9733 1271, pushed 137 days ago
   </sup>
  </li>
  <li>
-  <a href="">
+  <a href="https://github.com/muan/bingo-board">
    Bingo Board
   </a>
   -- Play bingo :boom: by sending pull requests!
@@ -206,7 +206,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   </a>
   — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
   <sup>
-   &#9733 43, pushed 92 days ago
+   &#9733 43, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -226,7 +226,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   </a>
   - Use this list to test your GitHub knowledge.
   <sup>
-   &#9733 18492, pushed 27 days ago
+   &#9733 18492, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -289,10 +289,10 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   - Quickly create, edit, and fork D3.js examples
  </li>
  <li>
-  <a href="https://github.com/cez-aug/github-project-boilerplate">
-   Github Project Boilerplate
+  <a href="https://github.com/cezaraugusto/github-template-guidelines">
+   GitHub Template Guidelines
   </a>
-  - Collection of template files for authoring a GitHub project.
+  - Guidelines for creating template files for a GitHub project..
  </li>
 </ul>
 <h2>
@@ -317,7 +317,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Well, the link kinda' says it all.
   <sup>
-   &#9733 450, pushed 3 days ago
+   &#9733 450, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -376,7 +376,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A tool for facilitating the redlining of documents with the GitHub uninitiated.
   <sup>
-   &#9733 19, pushed 345 days ago
+   &#9733 19, pushed 470 days ago
   </sup>
  </li>
  <li>
@@ -385,7 +385,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Enables client-side applications to dance OAuth with GitHub.
   <sup>
-   &#9733 416, pushed 194 days ago
+   &#9733 416, pushed 319 days ago
   </sup>
  </li>
  <li>
@@ -394,7 +394,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Microservice to enable GitHub login for multiple server-less applications.
   <sup>
-   &#9733 38, pushed 231 days ago
+   &#9733 38, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -403,7 +403,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
   <sup>
-   &#9733 8391, pushed 12 days ago
+   &#9733 8391, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -412,7 +412,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A command line for GitHub, allowing access to all APIs.
   <sup>
-   &#9733 17, pushed 4 days ago
+   &#9733 17, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +421,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Github made pretty, within the command line.
   <sup>
-   &#9733 151, pushed 119 days ago
+   &#9733 151, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -430,7 +430,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A sophisticated dark theme for GitHub.
   <sup>
-   &#9733 792, pushed 4 days ago
+   &#9733 792, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -439,7 +439,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A Python script that allows you to import issues and pull requests from one GitHub repository to another
   <sup>
-   &#9733 202, pushed 612 days ago
+   &#9733 202, pushed 737 days ago
   </sup>
  </li>
  <li>
@@ -448,7 +448,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
   <sup>
-   &#9733 67, pushed 37 days ago
+   &#9733 67, pushed 162 days ago
   </sup>
  </li>
  <li>
@@ -457,7 +457,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
   <sup>
-   &#9733 27, pushed 160 days ago
+   &#9733 27, pushed 285 days ago
   </sup>
  </li>
  <li>
@@ -472,7 +472,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - A web application to build your Blog on GitHub
   <sup>
-   &#9733 2262, pushed 8 days ago
+   &#9733 2262, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -498,7 +498,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Mozfest 2015 Program on GitHub.
   <sup>
-   &#9733 33, pushed 229 days ago
+   &#9733 33, pushed 354 days ago
   </sup>
  </li>
  <li>
@@ -507,7 +507,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - Path to a free self-taught education in Computer Science.
   <sup>
-   &#9733 13722, pushed 9 days ago
+   &#9733 13722, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +516,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - An employee handbook built for inclusion.
   <sup>
-   &#9733 2286, pushed 32 days ago
+   &#9733 2286, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -525,7 +525,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - The complete United States Code.
   <sup>
-   &#9733 591, pushed 412 days ago
+   &#9733 591, pushed 537 days ago
   </sup>
  </li>
  <li>
@@ -534,7 +534,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
   </a>
   - French Civil Code on GitHub.
   <sup>
-   &#9733 2492, pushed 270 days ago
+   &#9733 2492, pushed 395 days ago
   </sup>
  </li>
  <li>

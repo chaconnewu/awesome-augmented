@@ -250,7 +250,7 @@
   </a>
   , cc-nc) - the introductory book on cryptography
   <sup>
-   &#9733 1239, pushed 12 days ago
+   &#9733 1239, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -263,7 +263,7 @@
   </a>
   , cc-nc-sa) - This is the source code for the book "The little book about OS development"
   <sup>
-   &#9733 666, pushed 19 days ago
+   &#9733 666, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -304,7 +304,7 @@
   </a>
   , cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
   <sup>
-   &#9733 365, pushed 13 days ago
+   &#9733 365, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +344,7 @@
   </a>
   cc-sa) - free, modifiable textbook on operating systems principles
   <sup>
-   &#9733 63, pushed 100 days ago
+   &#9733 63, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -364,7 +364,7 @@
   </a>
   , cc-sa) - The purpose of this book is to teach new programmers and scientists about the basics of High Performance Computing
   <sup>
-   &#9733 24, pushed 1205 days ago
+   &#9733 24, pushed 1329 days ago
   </sup>
  </li>
  <li>
@@ -405,7 +405,7 @@
   </a>
   , cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
   <sup>
-   &#9733 388, pushed 6 days ago
+   &#9733 388, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -418,7 +418,7 @@
   </a>
   , cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
   <sup>
-   &#9733 26, pushed 816 days ago
+   &#9733 26, pushed 941 days ago
   </sup>
  </li>
  <li>
@@ -443,7 +443,7 @@
   </a>
   (BSD) - Open Content for self-directed learning in data science
   <sup>
-   &#9733 1128, pushed 305 days ago
+   &#9733 1128, pushed 429 days ago
   </sup>
  </li>
  <li>
@@ -456,7 +456,7 @@
   </a>
   , cc-sa) - Probability and Statistics for Programmers
   <sup>
-   &#9733 381, pushed 21 days ago
+   &#9733 381, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -483,7 +483,7 @@
   </a>
   , MIT) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view
   <sup>
-   &#9733 9693, pushed 6 days ago
+   &#9733 9693, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -503,7 +503,7 @@
   </a>
   , cc) - This is some of the material that covers the advanced Jupyter/IPython SciPy tutorial that is/was/will be given in July 2015
   <sup>
-   &#9733 13, pushed 112 days ago
+   &#9733 13, pushed 237 days ago
   </sup>
  </li>
 </ul>
@@ -525,7 +525,7 @@
   </a>
   , cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
   <sup>
-   &#9733 939, pushed 22 days ago
+   &#9733 939, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -538,7 +538,7 @@
   </a>
   , MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
   <sup>
-   &#9733 818, pushed 4 days ago
+   &#9733 818, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -554,7 +554,7 @@
   </a>
   (Public Domain) - A collection of useful .htaccess snippets, all in one place.
   <sup>
-   &#9733 9219, pushed 27 days ago
+   &#9733 9219, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -567,7 +567,7 @@
   </a>
   , MIT) - Documentation for Travis
   <sup>
-   &#9733 69, pushed 1 days ago
+   &#9733 69, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -596,7 +596,7 @@
   </a>
   (cc-sa) - Master the command line, in one page
   <sup>
-   &#9733 26355, pushed 14 days ago
+   &#9733 26355, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -618,7 +618,7 @@
   </a>
   , BSD) - Homotopy Type Theory is an interpretation of Martin-Löf’s intensional type theory into abstract homotopy theory.
   <sup>
-   &#9733 354, pushed 14 days ago
+   &#9733 354, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -631,7 +631,7 @@
   </a>
   , cc-nc-sa) - A book and examples on collision detection
   <sup>
-   &#9733 17, pushed 347 days ago
+   &#9733 17, pushed 472 days ago
   </sup>
  </li>
 </ul>
@@ -653,7 +653,7 @@
   </a>
   , cc-nc-sa)
   <sup>
-   &#9733 480, pushed 6 days ago
+   &#9733 480, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -666,7 +666,7 @@
   </a>
   , cc-nc-sa)
   <sup>
-   &#9733 480, pushed 6 days ago
+   &#9733 480, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -679,7 +679,7 @@
   </a>
   , cc-nc-sa)
   <sup>
-   &#9733 480, pushed 6 days ago
+   &#9733 480, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -724,7 +724,7 @@
   </a>
   (cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
   <sup>
-   &#9733 7422, pushed 2 days ago
+   &#9733 7422, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -733,7 +733,7 @@
   </a>
   (cc) - Guides for getting things done, programming well, and programming in style.
   <sup>
-   &#9733 5352, pushed 4 days ago
+   &#9733 5352, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -746,7 +746,7 @@
   </a>
   , Public Domain) - This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev.
   <sup>
-   &#9733 3409, pushed 120 days ago
+   &#9733 3409, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -759,7 +759,7 @@
   </a>
   , cc-nc-nd) - Topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM.
   <sup>
-   &#9733 3348, pushed 3 days ago
+   &#9733 3348, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -772,7 +772,7 @@
   </a>
   , Public Domain) - Build Podcast is a show about technology tools for design and development all in the fun spirit of hacking, creating and building stuff!
   <sup>
-   &#9733 263, pushed 7 days ago
+   &#9733 263, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -792,7 +792,7 @@
   </a>
   , cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
   <sup>
-   &#9733 31, pushed 445 days ago
+   &#9733 31, pushed 570 days ago
   </sup>
  </li>
  <li>
@@ -805,7 +805,7 @@
   </a>
   , cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
   <sup>
-   &#9733 87, pushed 6 days ago
+   &#9733 87, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -818,7 +818,7 @@
   </a>
   , cc-nc-nd) - Paul Ford’s “What Is Code?”
   <sup>
-   &#9733 2622, pushed 84 days ago
+   &#9733 2622, pushed 208 days ago
   </sup>
  </li>
 </ul>
@@ -840,7 +840,7 @@
   </a>
   , cc-nc-nd) - The Definitive Guide to Elasticsearch
   <sup>
-   &#9733 1262, pushed 4 days ago
+   &#9733 1262, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -858,7 +858,7 @@
   </a>
   (cc) - HTTP API design guide extracted from work on the Heroku Platform API
   <sup>
-   &#9733 11388, pushed 6 days ago
+   &#9733 11388, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -871,7 +871,7 @@
   </a>
   , cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
   <sup>
-   &#9733 707, pushed 292 days ago
+   &#9733 707, pushed 417 days ago
   </sup>
  </li>
  <li>
@@ -894,7 +894,7 @@
   </a>
   , MIT) - Standards for flexible, durable, and sustainable HTML and CSS
   <sup>
-   &#9733 5550, pushed 99 days ago
+   &#9733 5550, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -903,7 +903,7 @@
   </a>
   (cc0) - For writing maintainable and scalable HTML documents
   <sup>
-   &#9733 376, pushed 30 days ago
+   &#9733 376, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -916,7 +916,7 @@
   </a>
   , cc-sa) - A place to discuss and evolve Web Component best-practices
   <sup>
-   &#9733 702, pushed 4 days ago
+   &#9733 702, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -929,7 +929,7 @@
   </a>
   , cc-sa, MIT) - The definitive front-end performance guide
   <sup>
-   &#9733 1761, pushed 3 days ago
+   &#9733 1761, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -942,7 +942,7 @@
   </a>
   , MIT) - MIT Design and development standards to align and guide your project.
   <sup>
-   &#9733 4980, pushed 117 days ago
+   &#9733 4980, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -969,7 +969,7 @@
   </a>
   , cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
   <sup>
-   &#9733 526, pushed 32 days ago
+   &#9733 526, pushed 157 days ago
   </sup>
  </li>
 </ul>
@@ -1001,7 +1001,7 @@
   </a>
   , cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation
   <sup>
-   &#9733 5, pushed 374 days ago
+   &#9733 5, pushed 499 days ago
   </sup>
  </li>
  <li>
@@ -1014,7 +1014,7 @@
   </a>
   , cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
   <sup>
-   &#9733 3053, pushed 28 days ago
+   &#9733 3053, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -1030,7 +1030,7 @@
   </a>
   (cc-nc-nd) - A book to help software developers write better prose
   <sup>
-   &#9733 109, pushed 79 days ago
+   &#9733 109, pushed 204 days ago
   </sup>
  </li>
 </ul>
@@ -1058,7 +1058,7 @@
   </a>
   , Apache 2.0) - The tutorial provides a quick intro to D3.js, a Javascript library for creating data visualizations in the browser.
   <sup>
-   &#9733 408, pushed 51 days ago
+   &#9733 408, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1071,7 +1071,7 @@
   </a>
   , cc-nc, LGPL) - This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing
   <sup>
-   &#9733 609, pushed 8 days ago
+   &#9733 609, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1080,7 +1080,7 @@
   </a>
   (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
   <sup>
-   &#9733 867, pushed 4 days ago
+   &#9733 867, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1113,7 +1113,7 @@
   </a>
   , cc-nc) - A short, friendly guide to basic principles of thematic mapping.
   <sup>
-   &#9733 19, pushed 316 days ago
+   &#9733 19, pushed 440 days ago
   </sup>
  </li>
 </ul>
@@ -1138,7 +1138,7 @@
   </a>
   (cc) - Do's and Don'ts for Android development, by Futurice developers
   <sup>
-   &#9733 9721, pushed 29 days ago
+   &#9733 9721, pushed 154 days ago
   </sup>
  </li>
 </ul>
@@ -1156,7 +1156,7 @@
   </a>
   (cc) - Good ideas for iOS development, by Futurice developers.
   <sup>
-   &#9733 4220, pushed 5 days ago
+   &#9733 4220, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1165,7 +1165,7 @@
   </a>
   (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
   <sup>
-   &#9733 1068, pushed 209 days ago
+   &#9733 1068, pushed 334 days ago
   </sup>
  </li>
 </ul>
@@ -1183,7 +1183,7 @@
   </a>
   (MIT) - Сocktails for programmers. Коктейли для программистов.
   <sup>
-   &#9733 2147, pushed 510 days ago
+   &#9733 2147, pushed 635 days ago
   </sup>
  </li>
  <li>
@@ -1206,7 +1206,7 @@
   </a>
   cc-nc-sa) - Learning and Using ØMQ
   <sup>
-   &#9733 1732, pushed 3 days ago
+   &#9733 1732, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1215,7 +1215,7 @@
   </a>
   (cc) - Best practices and coding conventions for the NPR Visuals team.
   <sup>
-   &#9733 228, pushed 529 days ago
+   &#9733 228, pushed 654 days ago
   </sup>
  </li>
  <li>
@@ -1228,7 +1228,7 @@
   </a>
   , MIT) - This guide dictates how we, as a company, engineer websites
   <sup>
-   &#9733 345, pushed 25 days ago
+   &#9733 345, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1237,7 +1237,7 @@
   </a>
   (MIT) - Documenatation for Peco(Simplistic interactive filtering tool)
   <sup>
-   &#9733 2950, pushed 6 days ago
+   &#9733 2950, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1250,7 +1250,7 @@
   </a>
   , cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
   <sup>
-   &#9733 3515, pushed 2 days ago
+   &#9733 3515, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1263,7 +1263,7 @@
   </a>
   , BSD) - Interactive diagrams of Rx Observables
   <sup>
-   &#9733 1052, pushed 34 days ago
+   &#9733 1052, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -1284,7 +1284,7 @@
   </a>
   (cc-sa) - My favorite C programming practices
   <sup>
-   &#9733 256, pushed 790 days ago
+   &#9733 256, pushed 915 days ago
   </sup>
  </li>
 </ul>
@@ -1306,7 +1306,7 @@
   </a>
   , cc) - CoffeeScript recipes for the community by the community.
   <sup>
-   &#9733 535, pushed 84 days ago
+   &#9733 535, pushed 208 days ago
   </sup>
  </li>
 </ul>
@@ -1334,7 +1334,7 @@
   </a>
   (cc) - Principles of writing consistent
   <sup>
-   &#9733 4578, pushed 275 days ago
+   &#9733 4578, pushed 399 days ago
   </sup>
  </li>
  <li>
@@ -1378,7 +1378,7 @@
   </a>
   , cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
   <sup>
-   &#9733 367, pushed 4 days ago
+   &#9733 367, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1397,7 +1397,7 @@
   </a>
   (cc) - A community-driven Ruby on Rails 4 style guide
   <sup>
-   &#9733 4449, pushed 21 days ago
+   &#9733 4449, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1406,7 +1406,7 @@
   </a>
   (cc) - A community-driven Ruby coding style guide
   <sup>
-   &#9733 10250, pushed 3 days ago
+   &#9733 10250, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1429,7 +1429,7 @@
   </a>
   , cc-nc-sa) - Ruby hacking guide english translation
   <sup>
-   &#9733 80, pushed 2557 days ago
+   &#9733 80, pushed 2682 days ago
   </sup>
  </li>
  <li>
@@ -1445,7 +1445,7 @@
   </a>
   (cc-nc-sa) - Ruby Best Practices, by Gregory Brown
   <sup>
-   &#9733 271, pushed 306 days ago
+   &#9733 271, pushed 431 days ago
   </sup>
  </li>
  <li>
@@ -1458,7 +1458,7 @@
   </a>
   , cc-nc-sa) - A set of Koans to teach the Ruby language
   <sup>
-   &#9733 2535, pushed 57 days ago
+   &#9733 2535, pushed 181 days ago
   </sup>
  </li>
  <li>
@@ -1471,7 +1471,7 @@
   </a>
   , cc) - Documentation for Middleman
   <sup>
-   &#9733 218, pushed 10 days ago
+   &#9733 218, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -1503,7 +1503,7 @@
   </a>
   , Eclipse Public License) - community-powered documentation and examples repository for the Clojure programming language
   <sup>
-   &#9733 395, pushed 112 days ago
+   &#9733 395, pushed 236 days ago
   </sup>
  </li>
  <li>
@@ -1516,7 +1516,7 @@
   </a>
   , cc) - community-driven documentation site for the Clojure programming language
   <sup>
-   &#9733 252, pushed 24 days ago
+   &#9733 252, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -1538,7 +1538,7 @@
   </a>
   , Apache 2.0) - Official Elixir tutorial
   <sup>
-   &#9733 112, pushed 3 days ago
+   &#9733 112, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1547,7 +1547,7 @@
   </a>
   (MIT) - A walk through the Elixir language in 30 exercises
   <sup>
-   &#9733 1182, pushed 8 days ago
+   &#9733 1182, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1556,7 +1556,7 @@
   </a>
   (cc) - A community driven style guide for Elixir
   <sup>
-   &#9733 1089, pushed 21 days ago
+   &#9733 1089, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -1597,7 +1597,7 @@
   </a>
   , cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
   <sup>
-   &#9733 39, pushed 38 days ago
+   &#9733 39, pushed 162 days ago
   </sup>
  </li>
 </ul>
@@ -1615,7 +1615,7 @@
   </a>
   (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
   <sup>
-   &#9733 1556, pushed 14 days ago
+   &#9733 1556, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1624,7 +1624,7 @@
   </a>
   (cc-sa) - A golang ebook intro how to build a web with golang
   <sup>
-   &#9733 10320, pushed 3 days ago
+   &#9733 10320, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1649,7 +1649,7 @@
   </a>
   (cc0) - This is a recommended path for learning Haskell based on experience helping others
   <sup>
-   &#9733 3690, pushed 62 days ago
+   &#9733 3690, pushed 186 days ago
   </sup>
  </li>
  <li>
@@ -1662,7 +1662,7 @@
   </a>
   , cc) - Haskell by Example is a port of Go by Example to Haskell
   <sup>
-   &#9733 62, pushed 311 days ago
+   &#9733 62, pushed 436 days ago
   </sup>
  </li>
 </ul>
@@ -1691,7 +1691,7 @@
   </a>
   , MIT) - A collection of documentation about the most quirky parts of the JavaScript language
   <sup>
-   &#9733 2371, pushed 41 days ago
+   &#9733 2371, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1700,7 +1700,7 @@
   </a>
   (MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
   <sup>
-   &#9733 14482, pushed 18 days ago
+   &#9733 14482, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -1715,7 +1715,7 @@
   </a>
   (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
   <sup>
-   &#9733 17991, pushed 5 days ago
+   &#9733 17991, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1728,7 +1728,7 @@
   </a>
   , cc-nc-sa) - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
   <sup>
-   &#9733 5510, pushed 16 days ago
+   &#9733 5510, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1737,7 +1737,7 @@
   </a>
   (cc) - Principles of Writing Consistent, Idiomatic JavaScript
   <sup>
-   &#9733 10923, pushed 11 days ago
+   &#9733 10923, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1746,7 +1746,7 @@
   </a>
   (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
   <sup>
-   &#9733 799, pushed 89 days ago
+   &#9733 799, pushed 213 days ago
   </sup>
  </li>
  <li>
@@ -1755,7 +1755,7 @@
   </a>
   (MIT) - A mostly reasonable approach to JavaScript
   <sup>
-   &#9733 34437, pushed 2 days ago
+   &#9733 34437, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1768,7 +1768,7 @@
   </a>
   , MIT) - A collection of documentation about the most quirky parts of the JavaScript language
   <sup>
-   &#9733 2371, pushed 41 days ago
+   &#9733 2371, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1777,7 +1777,7 @@
   </a>
   (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
   <sup>
-   &#9733 2967, pushed 41 days ago
+   &#9733 2967, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1790,7 +1790,7 @@
   </a>
   , MIT) - This is a list of best practices for writing robust Node.js code. It is inspired by other guilds such as Felix Geisendörfer's Node Style Guide and what is popular within the community
   <sup>
-   &#9733 330, pushed 307 days ago
+   &#9733 330, pushed 432 days ago
   </sup>
  </li>
  <li>
@@ -1799,7 +1799,7 @@
   </a>
   (MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
   <sup>
-   &#9733 2285, pushed 165 days ago
+   &#9733 2285, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -1812,7 +1812,7 @@
   </a>
   , cc-nc-sa) - The Node Beginner Book is a comprehensive introduction to Node.js and some of the more advanced JavaScript topics like functional programming
   <sup>
-   &#9733 2903, pushed 48 days ago
+   &#9733 2903, pushed 173 days ago
   </sup>
  </li>
  <li>
@@ -1821,7 +1821,7 @@
   </a>
   (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
   <sup>
-   &#9733 3089, pushed 2 days ago
+   &#9733 3089, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1837,7 +1837,7 @@
   </a>
   (cc-sa) - a short introduction to node.js
   <sup>
-   &#9733 4910, pushed 15 days ago
+   &#9733 4910, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -1846,7 +1846,7 @@
   </a>
   (cc) - how to write node programs with streams
   <sup>
-   &#9733 8106, pushed 7 days ago
+   &#9733 8106, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1859,7 +1859,7 @@
   </a>
   , cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
   <sup>
-   &#9733 30063, pushed 6 days ago
+   &#9733 30063, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1923,7 +1923,7 @@
   </a>
   (BSD) - A hands-on, test driven guide to implementing a simple programming language
   <sup>
-   &#9733 477, pushed 80 days ago
+   &#9733 477, pushed 205 days ago
   </sup>
  </li>
  <li>
@@ -1936,7 +1936,7 @@
   </a>
   , cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
   <sup>
-   &#9733 1002, pushed 80 days ago
+   &#9733 1002, pushed 205 days ago
   </sup>
  </li>
 </ul>
@@ -1954,7 +1954,7 @@
   </a>
   (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times
   <sup>
-   &#9733 4007, pushed 57 days ago
+   &#9733 4007, pushed 182 days ago
   </sup>
  </li>
 </ul>
@@ -1988,7 +1988,7 @@
   </a>
   , by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
   <sup>
-   &#9733 4733, pushed 8 days ago
+   &#9733 4733, pushed 132 days ago
   </sup>
  </li>
 </ul>
@@ -2010,7 +2010,7 @@
   </a>
   , Open Publication License)
   <sup>
-   &#9733 105, pushed 64 days ago
+   &#9733 105, pushed 189 days ago
   </sup>
  </li>
  <li>
@@ -2023,7 +2023,7 @@
   </a>
   , cc-nc-sa) -  Python best practices guidebook, written for Humans.
   <sup>
-   &#9733 8654, pushed 2 days ago
+   &#9733 8654, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2053,7 +2053,7 @@
   </a>
   , Public Domain) - Explore Flask is a book about best practices and patterns for developing web applications with Flask
   <sup>
-   &#9733 1020, pushed 14 days ago
+   &#9733 1020, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -2066,7 +2066,7 @@
   </a>
   ,  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
   <sup>
-   &#9733 1468, pushed 3 days ago
+   &#9733 1468, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2079,7 +2079,7 @@
   </a>
   , cc-sa) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience
   <sup>
-   &#9733 329, pushed 15 days ago
+   &#9733 329, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2099,7 +2099,7 @@
   </a>
   , cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
   <sup>
-   &#9733 776, pushed 106 days ago
+   &#9733 776, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -2145,7 +2145,7 @@
   </a>
   , MIT) - Rust by Example is a collection of examples that illustrate various Rust concepts and the standard libraries
   <sup>
-   &#9733 2069, pushed 2 days ago
+   &#9733 2069, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2158,7 +2158,7 @@
   </a>
   , AGPL) - Rust for Rubyists was the first community tutorial for Rust
   <sup>
-   &#9733 342, pushed 416 days ago
+   &#9733 342, pushed 541 days ago
   </sup>
  </li>
  <li>
@@ -2187,7 +2187,7 @@
   </a>
   , cc-nc-sa & apache 2.0) - These are notes for an introductory R workshop I am teaching for Python Programmers
   <sup>
-   &#9733 65, pushed 750 days ago
+   &#9733 65, pushed 874 days ago
   </sup>
  </li>
  <li>
@@ -2228,7 +2228,7 @@
   </a>
   (cc) - A collection of best practices, friendly to people that want to contribute
   <sup>
-   &#9733 2056, pushed 109 days ago
+   &#9733 2056, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -2241,7 +2241,7 @@
   </a>
   , cc-by) - Twitter's Effective Scala Guide
   <sup>
-   &#9733 1516, pushed 30 days ago
+   &#9733 1516, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -2254,7 +2254,7 @@
   </a>
   , Apache 2.0) - Lessons in the Fundamentals of Scala
   <sup>
-   &#9733 2482, pushed 5 days ago
+   &#9733 2482, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2316,7 +2316,7 @@
   </a>
   (MIT) - Nginx HTTP server boilerplate configs
   <sup>
-   &#9733 4520, pushed 40 days ago
+   &#9733 4520, pushed 165 days ago
   </sup>
  </li>
 </ul>
@@ -2352,7 +2352,7 @@
   </a>
   , GNU) - Simple website to share the love for Emacs
   <sup>
-   &#9733 49, pushed 91 days ago
+   &#9733 49, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -2365,7 +2365,7 @@
   </a>
   , custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
   <sup>
-   &#9733 906, pushed 128 days ago
+   &#9733 906, pushed 253 days ago
   </sup>
  </li>
  <li>
@@ -2374,7 +2374,7 @@
   </a>
   (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
   <sup>
-   &#9733 312, pushed 233 days ago
+   &#9733 312, pushed 358 days ago
   </sup>
  </li>
  <li>
@@ -2403,7 +2403,7 @@
   </a>
   , cc-nc-sa) - An open source book on Git by Scott Chacon and Ben Straub
   <sup>
-   &#9733 5327, pushed 13 days ago
+   &#9733 5327, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2412,7 +2412,7 @@
   </a>
   (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
   <sup>
-   &#9733 3204, pushed 55 days ago
+   &#9733 3204, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -2421,7 +2421,7 @@
   </a>
   (MIT) - A list of cool features of Git and GitHub
   <sup>
-   &#9733 18492, pushed 27 days ago
+   &#9733 18492, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -2434,7 +2434,7 @@
   </a>
   , GPL) - A guide to using Git
   <sup>
-   &#9733 970, pushed 98 days ago
+   &#9733 970, pushed 222 days ago
   </sup>
  </li>
  <li>
@@ -2447,7 +2447,7 @@
   </a>
   , BSD) - A workshopper for learning Git and GitHub.
   <sup>
-   &#9733 1271, pushed 13 days ago
+   &#9733 1271, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -2488,7 +2488,7 @@
   </a>
   , cc) - Documentation for riak
   <sup>
-   &#9733 118, pushed 5 days ago
+   &#9733 118, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2521,7 +2521,7 @@
   </a>
   , GPL) - Documentation for phpMyAdmin
   <sup>
-   &#9733 8, pushed 4 days ago
+   &#9733 8, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2583,7 +2583,7 @@
   </a>
   (cc-nc)
   <sup>
-   &#9733 40, pushed 1183 days ago
+   &#9733 40, pushed 1308 days ago
   </sup>
  </li>
  <li>
@@ -2618,7 +2618,7 @@
   </a>
   (cc-sa) - A golang ebook intro how to build a web with golang
   <sup>
-   &#9733 10320, pushed 3 days ago
+   &#9733 10320, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2631,7 +2631,7 @@
   </a>
   , MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
   <sup>
-   &#9733 985, pushed 41 days ago
+   &#9733 985, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -2640,7 +2640,7 @@
   </a>
   (MIT) - A Detailed Cplusplus Concurrency Tutorial
   <sup>
-   &#9733 1025, pushed 18 days ago
+   &#9733 1025, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2649,7 +2649,7 @@
   </a>
   (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
   <sup>
-   &#9733 731, pushed 137 days ago
+   &#9733 731, pushed 261 days ago
   </sup>
  </li>
  <li>
@@ -2662,7 +2662,7 @@
   </a>
   , cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
   <sup>
-   &#9733 3391, pushed 2 days ago
+   &#9733 3391, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2680,7 +2680,7 @@
   </a>
   , Apache 2.0) - Training course repository for android app development
   <sup>
-   &#9733 1028, pushed 6 days ago
+   &#9733 1028, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2689,7 +2689,7 @@
   </a>
   (cc-nc-sa) - はてな研修用教科書
   <sup>
-   &#9733 1400, pushed 41 days ago
+   &#9733 1400, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -2707,7 +2707,7 @@
   </a>
   - Pointers to useful, well-written, and otherwise beautiful documentation
   <sup>
-   &#9733 2794, pushed 33 days ago
+   &#9733 2794, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -2716,7 +2716,7 @@
   </a>
   - Papers from the computer science community to read and discuss
   <sup>
-   &#9733 16161, pushed 12 days ago
+   &#9733 16161, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2725,7 +2725,7 @@
   </a>
   - A curated list of amazingly awesome awesomeness
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2734,7 +2734,7 @@
   </a>
   - A curated list of awesome lists
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2743,7 +2743,7 @@
   </a>
   - A list of papers essential to understanding databases and building new data systems
   <sup>
-   &#9733 4071, pushed 38 days ago
+   &#9733 4071, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -2752,7 +2752,7 @@
   </a>
   - Useful functions, tutorials, and other Python-related things
   <sup>
-   &#9733 1519, pushed 23 days ago
+   &#9733 1519, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -2761,7 +2761,7 @@
   </a>
   - Design and development guides
   <sup>
-   &#9733 1097, pushed 37 days ago
+   &#9733 1097, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -2770,7 +2770,7 @@
   </a>
   - Freely available programming books
   <sup>
-   &#9733 54405, pushed 3 days ago
+   &#9733 54405, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2813,7 +2813,7 @@
   </a>
   - PythonBooks is a showcase of the best free ebooks about Python
   <sup>
-   &#9733 1162, pushed 120 days ago
+   &#9733 1162, pushed 245 days ago
   </sup>
  </li>
  <li>

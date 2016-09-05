@@ -31,7 +31,7 @@
  ; you rock!
 </p>
 <p>
- <a href="http://chat.phalcontip.com">
+ <a href="https://slack.phalconphp.com">
   Join us on Slack
  </a>
  to chat with other awesome-phalcon maintainers!
@@ -258,7 +258,7 @@
   </a>
   - Plugin based on Vokuro ACL idea
   <sup>
-   &#9733 150, pushed 96 days ago
+   &#9733 150, pushed 221 days ago
   </sup>
  </li>
 </ul>
@@ -277,7 +277,7 @@
   </a>
   - Sample modular application for the Phalcon PHP Framework
   <sup>
-   &#9733 84, pushed 226 days ago
+   &#9733 84, pushed 350 days ago
   </sup>
  </li>
  <li>
@@ -286,7 +286,7 @@
   </a>
   - The base application in Phalcon PHP Framework
   <sup>
-   &#9733 68, pushed 7 days ago
+   &#9733 68, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -295,7 +295,7 @@
   </a>
   - Sample application for the Phalcon PHP Framework
   <sup>
-   &#9733 242, pushed 51 days ago
+   &#9733 242, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -310,7 +310,7 @@
   </a>
   - Examples of Phalcon MVC file structures
   <sup>
-   &#9733 413, pushed 179 days ago
+   &#9733 413, pushed 304 days ago
   </sup>
  </li>
  <li>
@@ -319,7 +319,7 @@
   </a>
   - Phalcon SOLID Bootstrap for Rapid Application Development
   <sup>
-   &#9733 5, pushed 829 days ago
+   &#9733 5, pushed 954 days ago
   </sup>
  </li>
  <li>
@@ -328,7 +328,7 @@
   </a>
   - A starter app with Phalcon PHP Framework and Angular
   <sup>
-   &#9733 17, pushed 1055 days ago
+   &#9733 17, pushed 1180 days ago
   </sup>
  </li>
  <li>
@@ -337,7 +337,7 @@
   </a>
   - Template for building large-scale Phalcon Applications
   <sup>
-   &#9733 65, pushed 75 days ago
+   &#9733 65, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -346,7 +346,7 @@
   </a>
   - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
   <sup>
-   &#9733 3, pushed 965 days ago
+   &#9733 3, pushed 1090 days ago
   </sup>
  </li>
  <li>
@@ -355,7 +355,7 @@
   </a>
   - Phalcon HMVC Skeleton with Mustache
   <sup>
-   &#9733 7, pushed 125 days ago
+   &#9733 7, pushed 249 days ago
   </sup>
  </li>
  <li>
@@ -364,7 +364,7 @@
   </a>
   - Fast development web apps with CRUD code generator
   <sup>
-   &#9733 6, pushed 171 days ago
+   &#9733 6, pushed 296 days ago
   </sup>
  </li>
  <li>
@@ -373,7 +373,7 @@
   </a>
   - Application template for building beauty applications on Phalcon PHP Framework
   <sup>
-   &#9733 118, pushed 102 days ago
+   &#9733 118, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -382,7 +382,7 @@
   </a>
   - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
   <sup>
-   &#9733 15, pushed 628 days ago
+   &#9733 15, pushed 752 days ago
   </sup>
  </li>
  <li>
@@ -391,7 +391,7 @@
   </a>
   - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
   <sup>
-   &#9733 8, pushed 201 days ago
+   &#9733 8, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -400,7 +400,7 @@
   </a>
   - Phalcon PHP Framework + Grunt + Composer + Bower
   <sup>
-   &#9733 13, pushed 591 days ago
+   &#9733 13, pushed 715 days ago
   </sup>
  </li>
  <li>
@@ -409,7 +409,7 @@
   </a>
   - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
   <sup>
-   &#9733 39, pushed 5 days ago
+   &#9733 39, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -418,7 +418,7 @@
   </a>
   - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
   <sup>
-   &#9733 228, pushed 101 days ago
+   &#9733 228, pushed 226 days ago
   </sup>
  </li>
  <li>
@@ -427,8 +427,14 @@
   </a>
   - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
   <sup>
-   &#9733 44, pushed 5 days ago
+   &#9733 44, pushed 129 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/kcloze/phalconMvc">
+   phalconMvc
+  </a>
+  - a simple Phalcon skeleton with sub controller,cli,mvc +service
  </li>
 </ul>
 <h2>
@@ -446,7 +452,7 @@
   </a>
   - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
   <sup>
-   &#9733 3, pushed 69 days ago
+   &#9733 3, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -458,7 +464,7 @@
    thephpleague/oauth2-server
   </a>
   <sup>
-   &#9733 61, pushed 96 days ago
+   &#9733 61, pushed 221 days ago
   </sup>
  </li>
 </ul>
@@ -477,7 +483,7 @@
   </a>
   - Blog project with multi-lingual support
   <sup>
-   &#9733 25, pushed 330 days ago
+   &#9733 25, pushed 454 days ago
   </sup>
  </li>
  <li>
@@ -489,7 +495,7 @@
    Giada Loop Machine
   </a>
   <sup>
-   &#9733 6, pushed 58 days ago
+   &#9733 6, pushed 183 days ago
   </sup>
  </li>
  <li>
@@ -498,7 +504,7 @@
   </a>
   - A blog using the Phalcon PHP Framework
   <sup>
-   &#9733 17, pushed 614 days ago
+   &#9733 17, pushed 739 days ago
   </sup>
  </li>
  <li>
@@ -507,7 +513,7 @@
   </a>
   - PhalconEye CMS
   <sup>
-   &#9733 423, pushed 383 days ago
+   &#9733 423, pushed 508 days ago
   </sup>
  </li>
  <li>
@@ -516,7 +522,7 @@
   </a>
   - A simple blog engine for those who want to start learning Phalcon
   <sup>
-   &#9733 6, pushed 9 days ago
+   &#9733 6, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -525,7 +531,7 @@
   </a>
   - CMS built on Phalcon PHP Framework
   <sup>
-   &#9733 8, pushed 587 days ago
+   &#9733 8, pushed 712 days ago
   </sup>
  </li>
  <li>
@@ -540,7 +546,7 @@
   </a>
   - CMS based on Phalcon PHP Framework with modular structure
   <sup>
-   &#9733 210, pushed 4 days ago
+   &#9733 210, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -559,7 +565,7 @@
   </a>
   - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
   <sup>
-   &#9733 5, pushed 278 days ago
+   &#9733 5, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -568,7 +574,7 @@
   </a>
   - Cron component for Phalcon
   <sup>
-   &#9733 32, pushed 69 days ago
+   &#9733 32, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -577,7 +583,7 @@
   </a>
   - Cron manager library based on Phalcon PHP Framework
   <sup>
-   &#9733 10, pushed 439 days ago
+   &#9733 10, pushed 564 days ago
   </sup>
  </li>
  <li>
@@ -586,7 +592,7 @@
   </a>
   - Command Line Application built using Phalcon PHP Framework
   <sup>
-   &#9733 40, pushed 339 days ago
+   &#9733 40, pushed 464 days ago
   </sup>
  </li>
 </ul>
@@ -605,7 +611,7 @@
   </a>
   - Statistics dashboard with Mongo/Phalcon
   <sup>
-   &#9733 25, pushed 329 days ago
+   &#9733 25, pushed 453 days ago
   </sup>
  </li>
 </ul>
@@ -624,7 +630,7 @@
   </a>
   - Frontend Debugger for Phalcon Applications
   <sup>
-   &#9733 91, pushed 235 days ago
+   &#9733 91, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -633,7 +639,7 @@
   </a>
   - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
   <sup>
-   &#9733 14, pushed 199 days ago
+   &#9733 14, pushed 324 days ago
   </sup>
  </li>
  <li>
@@ -646,7 +652,7 @@
   </a>
   with Phalcon PHP Framework
   <sup>
-   &#9733 75, pushed 94 days ago
+   &#9733 75, pushed 219 days ago
   </sup>
  </li>
  <li>
@@ -654,12 +660,12 @@
    Phalcon Whoops
   </a>
   - Integrating
-  <a href="http://filp.github.io/whoops/">
+  <a href="https://filp.github.io/whoops/">
    Whoops
   </a>
   with Phalcon
   <sup>
-   &#9733 3, pushed 105 days ago
+   &#9733 3, pushed 230 days ago
   </sup>
  </li>
  <li>
@@ -668,7 +674,7 @@
   </a>
   - PHP Profiler & Developer Toolbar (built for Phalcon)
   <sup>
-   &#9733 345, pushed 165 days ago
+   &#9733 345, pushed 290 days ago
   </sup>
  </li>
 </ul>
@@ -687,7 +693,7 @@
   </a>
   - Components for automatic registration services in Dependency Injection
   <sup>
-   &#9733 14, pushed 446 days ago
+   &#9733 14, pushed 571 days ago
   </sup>
  </li>
  <li>
@@ -696,7 +702,7 @@
   </a>
   - Service loader for Phalcon PHP Framework
   <sup>
-   &#9733 19, pushed 314 days ago
+   &#9733 19, pushed 439 days ago
   </sup>
  </li>
  <li>
@@ -705,7 +711,7 @@
   </a>
   - Nette Dependency Injection/Container for Phalcon
   <sup>
-   &#9733 2, pushed 219 days ago
+   &#9733 2, pushed 344 days ago
   </sup>
  </li>
 </ul>
@@ -724,7 +730,7 @@
   </a>
   - A Phalcon based wiki software with simplicity in mind
   <sup>
-   &#9733 8, pushed 74 days ago
+   &#9733 8, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -733,7 +739,7 @@
   </a>
   - Create, translate and control changes in documentation for Phalcon & others projects
   <sup>
-   &#9733 3, pushed 300 days ago
+   &#9733 3, pushed 424 days ago
   </sup>
  </li>
 </ul>
@@ -752,7 +758,7 @@
   </a>
   -  A Simple Event Propagation with Phalcon PHP Framework
   <sup>
-   &#9733 8, pushed 586 days ago
+   &#9733 8, pushed 711 days ago
   </sup>
  </li>
 </ul>
@@ -771,7 +777,7 @@
   </a>
   - Utility to show exceptions/errors/warnings/notices using a nicely visualization.
   <sup>
-   &#9733 54, pushed 507 days ago
+   &#9733 54, pushed 632 days ago
   </sup>
  </li>
 </ul>
@@ -794,7 +800,7 @@
   </code>
   and redirect
   <sup>
-   &#9733 2, pushed 777 days ago
+   &#9733 2, pushed 902 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +809,7 @@
   </a>
   - Form decorators to Phalcon PHP Framework
   <sup>
-   &#9733 5, pushed 635 days ago
+   &#9733 5, pushed 760 days ago
   </sup>
  </li>
  <li>
@@ -812,7 +818,7 @@
   </a>
   - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
   <sup>
-   &#9733 2, pushed 339 days ago
+   &#9733 2, pushed 463 days ago
   </sup>
  </li>
  <li>
@@ -821,7 +827,7 @@
   </a>
   - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
   <sup>
-   &#9733 4, pushed 358 days ago
+   &#9733 4, pushed 483 days ago
   </sup>
  </li>
 </ul>
@@ -840,7 +846,7 @@
   </a>
   - Phalcon Translate Service. Simple way to translate your custom part of templates
   <sup>
-   &#9733 5, pushed 286 days ago
+   &#9733 5, pushed 411 days ago
   </sup>
  </li>
  <li>
@@ -852,7 +858,7 @@
    Poedit
   </a>
   <sup>
-   &#9733 1, pushed 172 days ago
+   &#9733 1, pushed 297 days ago
   </sup>
  </li>
 </ul>
@@ -875,7 +881,7 @@
   </a>
   log management service
   <sup>
-   &#9733 5, pushed 178 days ago
+   &#9733 5, pushed 303 days ago
   </sup>
  </li>
 </ul>
@@ -894,7 +900,7 @@
   </a>
   - Phalcon Mailer Service
   <sup>
-   &#9733 36, pushed 14 days ago
+   &#9733 36, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -903,7 +909,7 @@
   </a>
   - Mailer component wrapper over SwiftMailer for Phalcon Framework
   <sup>
-   &#9733 19, pushed 62 days ago
+   &#9733 19, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -918,7 +924,7 @@
   </a>
   - Sending Confirmation Emails with Phalcon PHP Framework and Swift
   <sup>
-   &#9733 7, pushed 321 days ago
+   &#9733 7, pushed 446 days ago
   </sup>
  </li>
 </ul>
@@ -937,7 +943,7 @@
   </a>
   - A media manager project in PHP and Phalcon PHP Framework
   <sup>
-   &#9733 6, pushed 248 days ago
+   &#9733 6, pushed 373 days ago
   </sup>
  </li>
  <li>
@@ -946,7 +952,7 @@
   </a>
   - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
   <sup>
-   &#9733 46, pushed 228 days ago
+   &#9733 46, pushed 353 days ago
   </sup>
  </li>
 </ul>
@@ -965,8 +971,14 @@
   </a>
   - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
   <sup>
-   &#9733 14, pushed 38 days ago
+   &#9733 14, pushed 163 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://quasipickle.github.io/feedback/">
+   Feedback
+  </a>
+  - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
  </li>
  <li>
   <a href="https://github.com/phalcon/incubator">
@@ -974,8 +986,14 @@
   </a>
   - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
   <sup>
-   &#9733 474, pushed 13 days ago
+   &#9733 474, pushed 138 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/techpivot/phalcon-enterprise">
+   Phalcon Enterprise
+  </a>
+  - Provides extended enterprise functionality for the Phalcon PHP framework
  </li>
  <li>
   <a href="https://github.com/Codeception/phalcon-demo">
@@ -983,7 +1001,7 @@
   </a>
   - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
   <sup>
-   &#9733 4, pushed 106 days ago
+   &#9733 4, pushed 231 days ago
   </sup>
  </li>
  <li>
@@ -992,7 +1010,7 @@
   </a>
   - Minimalist wrapper with which you can easily integrate reCAPTCHA
   <sup>
-   &#9733 33, pushed 1089 days ago
+   &#9733 33, pushed 1214 days ago
   </sup>
  </li>
  <li>
@@ -1001,7 +1019,7 @@
   </a>
   - Widgets for Phalcon apps
   <sup>
-   &#9733 1, pushed 349 days ago
+   &#9733 1, pushed 474 days ago
   </sup>
  </li>
  <li>
@@ -1010,7 +1028,7 @@
   </a>
   - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
   <sup>
-   &#9733 2, pushed 170 days ago
+   &#9733 2, pushed 295 days ago
   </sup>
  </li>
  <li>
@@ -1019,7 +1037,7 @@
   </a>
   - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
   <sup>
-   &#9733 3, pushed 349 days ago
+   &#9733 3, pushed 474 days ago
   </sup>
  </li>
  <li>
@@ -1028,7 +1046,7 @@
   </a>
   - Library for expansion the base functional of Phalcon PHP Framework
   <sup>
-   &#9733 19, pushed 314 days ago
+   &#9733 19, pushed 439 days ago
   </sup>
  </li>
 </ul>
@@ -1047,7 +1065,7 @@
   </a>
   - Phalcon 2 integration for Zend Expressive
   <sup>
-   &#9733 1, pushed 127 days ago
+   &#9733 1, pushed 252 days ago
   </sup>
  </li>
 </ul>
@@ -1066,7 +1084,7 @@
   </a>
   - Automatically get models based on dispatcher parameters within the Phalcon framework
   <sup>
-   &#9733 1, pushed 46 days ago
+   &#9733 1, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -1075,7 +1093,7 @@
   </a>
   - A Phalcon PHP Framework MSSQL PDO db adapter
   <sup>
-   &#9733 13, pushed 299 days ago
+   &#9733 13, pushed 424 days ago
   </sup>
  </li>
  <li>
@@ -1084,7 +1102,7 @@
   </a>
   - Database seeder component for Phalcon
   <sup>
-   &#9733 8, pushed 69 days ago
+   &#9733 8, pushed 194 days ago
   </sup>
  </li>
 </ul>
@@ -1103,7 +1121,7 @@
   </a>
   - An example development of the REST application by Phalcon PHP Framework
   <sup>
-   &#9733 13, pushed 63 days ago
+   &#9733 13, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -1112,7 +1130,7 @@
   </a>
   - Phalcon REST Library
   <sup>
-   &#9733 42, pushed 11 days ago
+   &#9733 42, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -1121,7 +1139,7 @@
   </a>
   - Base project for creating powerful webservice based on Phalcon PHP Framework
   <sup>
-   &#9733 46, pushed 278 days ago
+   &#9733 46, pushed 403 days ago
   </sup>
  </li>
  <li>
@@ -1130,7 +1148,7 @@
   </a>
   - Full Phalcon REST API example with is own OAuth2 server
   <sup>
-   &#9733 21, pushed 652 days ago
+   &#9733 21, pushed 776 days ago
   </sup>
  </li>
  <li>
@@ -1139,7 +1157,7 @@
   </a>
   - Phalcon REST Boilerplate
   <sup>
-   &#9733 45, pushed 19 days ago
+   &#9733 45, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1148,7 +1166,7 @@
   </a>
   - A Base project for APIs using the Phalcon PHP Framework
   <sup>
-   &#9733 175, pushed 93 days ago
+   &#9733 175, pushed 217 days ago
   </sup>
  </li>
  <li>
@@ -1157,7 +1175,7 @@
   </a>
   - REST API library for Phalcon
   <sup>
-   &#9733 25, pushed 173 days ago
+   &#9733 25, pushed 298 days ago
   </sup>
  </li>
  <li>
@@ -1166,7 +1184,7 @@
   </a>
   - PHP HMAC Restful API that uses Phalcon Micro Application
   <sup>
-   &#9733 135, pushed 13 days ago
+   &#9733 135, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1175,7 +1193,7 @@
   </a>
   - Phalcon PHP Framework REST API Package
   <sup>
-   &#9733 22, pushed 41 days ago
+   &#9733 22, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -1184,7 +1202,7 @@
   </a>
   - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
   <sup>
-   &#9733 4, pushed 868 days ago
+   &#9733 4, pushed 993 days ago
   </sup>
  </li>
 </ul>
@@ -1198,13 +1216,10 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/softdream/Phalcon-autorouter">
+  <a href="https://github.com/kamilhurajt/Phalcon-autorouter">
    Phalcon-autorouter
   </a>
   - Simple way to auto load modules without complicate definition of routes
-  <sup>
-   &#9733 25, pushed 4 days ago
-  </sup>
  </li>
 </ul>
 <h2>
@@ -1222,7 +1237,7 @@
   </a>
   - Yeoman generator for Phalcon Multi-Module Applications
   <sup>
-   &#9733 33, pushed 832 days ago
+   &#9733 33, pushed 956 days ago
   </sup>
  </li>
  <li>
@@ -1231,7 +1246,7 @@
   </a>
   - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
   <sup>
-   &#9733 17, pushed 446 days ago
+   &#9733 17, pushed 571 days ago
   </sup>
  </li>
 </ul>
@@ -1250,7 +1265,7 @@
   </a>
   - Elasticsearch indexer component for Phalcon
   <sup>
-   &#9733 5, pushed 69 days ago
+   &#9733 5, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -1259,7 +1274,7 @@
   </a>
   - Phalcon adapter for DataTables
   <sup>
-   &#9733 30, pushed 75 days ago
+   &#9733 30, pushed 200 days ago
   </sup>
  </li>
  <li>
@@ -1268,7 +1283,7 @@
   </a>
   - Phalcon + Elastic
   <sup>
-   &#9733 19, pushed 433 days ago
+   &#9733 19, pushed 558 days ago
   </sup>
  </li>
  <li>
@@ -1277,7 +1292,7 @@
   </a>
   - Database searcher for Phalcon PHP Framework
   <sup>
-   &#9733 22, pushed 448 days ago
+   &#9733 22, pushed 573 days ago
   </sup>
  </li>
 </ul>
@@ -1296,7 +1311,7 @@
   </a>
   - Complete cart system for Phalcon PHP Framework
   <sup>
-   &#9733 13, pushed 337 days ago
+   &#9733 13, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -1305,8 +1320,14 @@
   </a>
   - Shopping Cart on Phalcon PHP Framework
   <sup>
-   &#9733 10, pushed 232 days ago
+   &#9733 10, pushed 357 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/duythien/cashier">
+   Cashier
+  </a>
+  - Phalcon cashier
  </li>
 </ul>
 <h2>
@@ -1324,7 +1345,7 @@
   </a>
   - Phalcon SMS Factory
   <sup>
-   &#9733 22, pushed 313 days ago
+   &#9733 22, pushed 437 days ago
   </sup>
  </li>
 </ul>
@@ -1343,7 +1364,7 @@
   </a>
   - Sample classic chat development using Phalcon PHP Framework
   <sup>
-   &#9733 6, pushed 665 days ago
+   &#9733 6, pushed 790 days ago
   </sup>
  </li>
  <li>
@@ -1352,7 +1373,7 @@
   </a>
   - The source for code Phalcon Tip website
   <sup>
-   &#9733 14, pushed 155 days ago
+   &#9733 14, pushed 280 days ago
   </sup>
  </li>
  <li>
@@ -1367,7 +1388,7 @@
   </a>
   - The source for official Phalcon Forum
   <sup>
-   &#9733 240, pushed 38 days ago
+   &#9733 240, pushed 163 days ago
   </sup>
  </li>
 </ul>
@@ -1386,7 +1407,7 @@
   </a>
   - Jade Template Engine for Phalcon PHP Framework
   <sup>
-   &#9733 5, pushed 146 days ago
+   &#9733 5, pushed 271 days ago
   </sup>
  </li>
  <li>
@@ -1395,7 +1416,7 @@
   </a>
   - Adapter to use XSLT as templating engine for Phalcon PHP Framework
   <sup>
-   &#9733 1, pushed 46 days ago
+   &#9733 1, pushed 170 days ago
   </sup>
  </li>
 </ul>
@@ -1414,7 +1435,7 @@
   </a>
   - Extra validators for Phalcon PHP Framework
   <sup>
-   &#9733 2, pushed 893 days ago
+   &#9733 2, pushed 1018 days ago
   </sup>
  </li>
  <li>
@@ -1423,7 +1444,7 @@
   </a>
   - Validate request input against swagger config in Phalcon PHP Framework
   <sup>
-   &#9733 1, pushed 102 days ago
+   &#9733 1, pushed 227 days ago
   </sup>
  </li>
  <li>
@@ -1432,7 +1453,7 @@
   </a>
   - Easy PHP validation with the Phalcon support
   <sup>
-   &#9733 14, pushed 35 days ago
+   &#9733 14, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -1441,7 +1462,7 @@
   </a>
   - Additional form and data validators extending the inbuilt Phalcon validate interface
   <sup>
-   &#9733 1, pushed 46 days ago
+   &#9733 1, pushed 170 days ago
   </sup>
  </li>
 </ul>
@@ -1460,7 +1481,7 @@
   </a>
   - Password manager for selfuse
   <sup>
-   &#9733 6, pushed 697 days ago
+   &#9733 6, pushed 822 days ago
   </sup>
  </li>
  <li>
@@ -1469,7 +1490,7 @@
   </a>
   - Simple Fast Url-Shortener application
   <sup>
-   &#9733 25, pushed 742 days ago
+   &#9733 25, pushed 867 days ago
   </sup>
  </li>
 </ul>
@@ -1483,8 +1504,14 @@
   </a>
   - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
   <sup>
-   &#9733 0, pushed 422 days ago
+   &#9733 0, pushed 547 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/phalcongelist/packagecloud">
+   packagecloud
+  </a>
+  - Phalcon distribution hosted on PackageCloud
  </li>
  <li>
   <a href="https://github.com/ovr/perfect-php-vagrant">
@@ -1492,8 +1519,20 @@
   </a>
   - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
   <sup>
-   &#9733 50, pushed 214 days ago
+   &#9733 50, pushed 339 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ch3k1/phalcon-ansible">
+   phalcon-ansible
+  </a>
+  - Install Phalcon using Vagrant and Ansible playbook
+ </li>
+ <li>
+  <a href="https://github.com/techpivot/phalcon-ci-installer">
+   phalcon-ci-installer
+  </a>
+  - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
  </li>
  <li>
   <a href="https://github.com/sergeyklay/phalcon-compose">
@@ -1501,7 +1540,7 @@
   </a>
   - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
   <sup>
-   &#9733 5, pushed 42 days ago
+   &#9733 5, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -1510,7 +1549,7 @@
   </a>
   - Docker Phalcon 2 development environment
   <sup>
-   &#9733 3, pushed 56 days ago
+   &#9733 3, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -1519,7 +1558,7 @@
   </a>
   - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
   <sup>
-   &#9733 113, pushed 38 days ago
+   &#9733 113, pushed 163 days ago
   </sup>
  </li>
 </ul>
@@ -1606,7 +1645,7 @@
    Phalconist
   </a>
   <sup>
-   &#9733 21, pushed 262 days ago
+   &#9733 21, pushed 387 days ago
   </sup>
  </li>
 </ul>
@@ -1622,8 +1661,9 @@
   <a href="https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2">
    Blog Tutorial
   </a>
+  )
   <sup>
-   &#9733 22, pushed 351 days ago
+   &#9733 22, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -1645,13 +1685,13 @@
   - Articles, tutorials, tips, documentation and much more
  </li>
  <li>
-  <a href="http://www.sitepoint.com/?s=phalcon">
+  <a href="https://www.sitepoint.com/?s=phalcon">
    Sitepoint
   </a>
   - Articles, tutorials and so more
  </li>
  <li>
-  <a href="http://stackoverflow.com/questions/tagged/phalcon">
+  <a href="https://stackoverflow.com/questions/tagged/phalcon">
    StackOverflow
   </a>
   - StackOverflow Tagged Questions

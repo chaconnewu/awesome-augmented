@@ -237,7 +237,7 @@
   </a>
   : A RESTful API for submitting payments and monitoring accounts on the Ripple Network
   <sup>
-   &#9733 66, pushed 166 days ago
+   &#9733 66, pushed 290 days ago
   </sup>
  </li>
  <li>
@@ -276,7 +276,7 @@
   </a>
   : Go packages to interact with the Ripple protocol
   <sup>
-   &#9733 22, pushed 21 days ago
+   &#9733 22, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -296,7 +296,7 @@
   </a>
   : Desktop client
   <sup>
-   &#9733 25, pushed 5 days ago
+   &#9733 25, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -305,7 +305,7 @@
   </a>
   : iOS client
   <sup>
-   &#9733 30, pushed 693 days ago
+   &#9733 30, pushed 818 days ago
   </sup>
  </li>
  <li>
@@ -320,7 +320,7 @@
   </a>
   : Ripple graph
   <sup>
-   &#9733 22, pushed 573 days ago
+   &#9733 22, pushed 697 days ago
   </sup>
  </li>
  <li>
@@ -352,7 +352,7 @@
   </a>
   : Server for storing persistent data for Ripple clients
   <sup>
-   &#9733 32, pushed 32 days ago
+   &#9733 32, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -361,7 +361,7 @@
   </a>
   : Ripple peer-assisted key derivation server
   <sup>
-   &#9733 6, pushed 333 days ago
+   &#9733 6, pushed 457 days ago
   </sup>
  </li>
  <li>
@@ -370,7 +370,7 @@
   </a>
   : SQL database as a canonical source of historical data in Ripple
   <sup>
-   &#9733 22, pushed 4 days ago
+   &#9733 22, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -378,7 +378,7 @@
    ripple-data-api
   </a>
   <sup>
-   &#9733 40, pushed 161 days ago
+   &#9733 40, pushed 286 days ago
   </sup>
  </li>
  <li>
@@ -392,7 +392,7 @@
   </a>
   : Simple PHP federation endpoint with a static JSON dataset
   <sup>
-   &#9733 9, pushed 907 days ago
+   &#9733 9, pushed 1031 days ago
   </sup>
  </li>
  <li>
@@ -401,7 +401,7 @@
   </a>
   : Python module for a simple federation endpoint.
   <sup>
-   &#9733 2, pushed 679 days ago
+   &#9733 2, pushed 803 days ago
   </sup>
  </li>
  <li>
@@ -420,7 +420,7 @@
   </a>
   : An embeddable widget for paying with Ripple.
   <sup>
-   &#9733 6, pushed 823 days ago
+   &#9733 6, pushed 947 days ago
   </sup>
  </li>
  <li>
@@ -434,7 +434,7 @@
   </a>
   : Tool for executing transactions on the Ripple network
   <sup>
-   &#9733 10, pushed 366 days ago
+   &#9733 10, pushed 491 days ago
   </sup>
  </li>
 </ul>
@@ -481,7 +481,7 @@
    jRippleAPI
   </a>
   <sup>
-   &#9733 16, pushed 443 days ago
+   &#9733 16, pushed 567 days ago
   </sup>
  </li>
  <li>
@@ -546,7 +546,7 @@
   </a>
   : A simple multithreaded vanity generator for the ripple p2p network.
   <sup>
-   &#9733 17, pushed 1119 days ago
+   &#9733 17, pushed 1243 days ago
   </sup>
  </li>
  <li>

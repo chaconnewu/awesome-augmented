@@ -1,4 +1,4 @@
-# <img src="http://elm-lang.org/logo.svg" width="26"> Awesome Elm
+# <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
 
 
 > A community driven list of useful Elm tutorials, libraries and software.
@@ -34,13 +34,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Official list](http://elm-lang.org/examples) - Examples from _basic_ to _big-project_ in official website.
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
+* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
 * [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
+* [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -50,7 +53,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
-* [Elm by example](http://elm-by-example.org/toc.html) - Elm tutorial via set of practice chapters.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
@@ -65,6 +67,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 * [Elm Topic on DailyDrip](http://dailydrip.com/topics/elm) - Daily continuing education on Elm, videos and text, with new content every day.
+* [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
+* [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
+* [Elm For Begginers - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -99,6 +104,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
 * [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
 * [Richard Feldman: Introduction to Elm](https://www.youtube.com/watch?v=3_M2G9U51GA) - A talk that gives a broad, high-level introduction to Elm.
+* [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
+* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neato series of bite-sized Elm training videos, many of which are free.
+* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -106,6 +114,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
+* [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - Elm with Evan Czaplicki.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
 * [The Changelog 191](https://changelog.com/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
@@ -143,13 +152,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language.
 * [elm-make](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
 * [elm-reactor](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
+* [elm-live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
+* [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 * [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
+* [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -161,6 +173,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
 * [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
 * [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
+* [elmjutsu](https://atom.io/packages/elmjutsu) - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
 * [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
@@ -192,6 +205,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Everything that you need to see.*
 
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
+* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
 * [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals.
@@ -216,9 +230,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
 
-<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a>
---- | --- | ---
-[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman)
+<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/eeue56" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1094080/13444265/1aceba3a-dfba-11e5-867b-52bde5a1a81c.png" width="100" /></a>
+--- | --- | --- | ---
+[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Noah Hall](https://twitter.com/eeue56)
 
 **[:arrow_up: back to top](#table-of-contents)**
 

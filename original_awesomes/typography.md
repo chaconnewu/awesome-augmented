@@ -11,7 +11,7 @@ A curated collection of awesome web typography articles.
 - [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803)
 - [Choosing web fonts: 15 expert tips](http://www.creativebloq.com/web-design/choose-web-fonts-1233034)
 - [The Good, The Bad And The Great Examples Of Web Typography](https://www.smashingmagazine.com/2014/12/the-good-the-bad-and-the-great-examples-of-web-typography/)
-- [W3C Typography on the Web](http://www.w3.org/wiki/Typography_on_the_Web)
+- [W3C Typography on the Web](https://www.w3.org/wiki/Typography_on_the_Web)
 - [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/)
 - [Font Smoothing](https://davidwalsh.name/font-smoothing)
 - [Font Smoothing Explained](http://szafranek.net/works/articles/font-smoothing-explained/)
@@ -25,6 +25,10 @@ A curated collection of awesome web typography articles.
 - [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
 - [Variable Fonts for Responsive Design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design)
 - [Typeface Mechanics](https://frerejones.com/blog/typeface-mechanics-001/)
+- [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+- [Viewport Based Typography](http://zellwk.com/blog/viewport-based-typography/)
+- [Animated Typographic Cheat Sheet](https://www.supremo.tv/typeterms/)
+- [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 
 ## Web Fonts & Web Performance
 - [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
@@ -35,6 +39,7 @@ A curated collection of awesome web typography articles.
 - [Better @font-face with Font Load Events](https://dev.opera.com/articles/better-font-face/)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html)
 - [Using Web Fonts the Best Way (in 2015)](https://helloanselm.com/2015/using-webfonts-in-2015/)
+- [Web Font Loading Patterns](http://bramstein.com/writing/web-font-loading-patterns.html)
 
 ## Tools
 - [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype)
@@ -47,13 +52,16 @@ A curated collection of awesome web typography articles.
 - [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 - [brick.im](https://github.com/alfredxing/brick)
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
+- [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
 
 ## Books
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
 - [Thinking with Type](http://www.thinkingwithtype.com/)
-- [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063/276-3263060-1517824?ie=UTF8&*Version*=1&*entries*=0)
+- [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - [The Elements of Typographic Style - Online Version](http://webtypography.net/)
 - [Practical Typography](http://practicaltypography.com/)
+- [Combining Typefaces: Free guide to great typography](http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/)
+- [The Typography Handbook](http://typographyhandbook.com/)
 
 ## Font Combinations
 - [Type Genius](http://www.typegenius.com/)
@@ -65,12 +73,13 @@ A curated collection of awesome web typography articles.
 - [Designmodo - Great Font Combinations](http://designmodo.com/great-font-combinations/)
 - [Sessions with Typography](http://www.sessions-with-typography.com)
 - [Google Web Font inspiration in HTML & CSS](http://tobiasahlin.com/typesource/)
+- [Google Font Pairing Tool](http://www.ourownthing.co.uk/fontpairing/)
 
 ## Featured
-- This [site](http://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
+- This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
 ![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)
 
 ## License
 
-[![CC0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)

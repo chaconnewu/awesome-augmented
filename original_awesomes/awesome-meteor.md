@@ -29,6 +29,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Internationalization](#internationalization)
     - [Scaffolding](#scaffolding)
     - [Tooling](#tooling)
+- [Boilerplate](#boilerplate)
 - [Resources](#resources)
     - [Books](#books)
     - [Courses](#courses)
@@ -49,7 +50,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Official Meteor tutorial](https://www.meteor.com/try)
 * [Discover Meteor Book](https://www.discovermeteor.com/)
-* [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
+* [Official Guide](http://guide.meteor.com/)
+* [Why Meteor](https://wiki.dandascalescu.com/essays/why_meteor) to begin with, and [Meteor vs. the MEAN stack](https://wiki.dandascalescu.com/essays/meteor_js_vs_the_mean_stack)
 
 ## Collections
 
@@ -97,7 +99,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
-* [Amazon auto scaling and Meteor](http://allandequeiroz.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
+* [Amazon auto scaling and Meteor](https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
 
 ## Routers
 
@@ -199,6 +201,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [ESLint-plugin-Meteor](https://github.com/dferber90/eslint-plugin-meteor/) - ESLint plugin for Meteor
 
+## Boilerplate
+
+* [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
+
 ## Open source apps
 * [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
 * [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
@@ -216,6 +222,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
 * [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
+* [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
 
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
 * [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend
@@ -237,6 +244,7 @@ Where to discover new Meteor things.
 
 * [Meteor Explained](https://gumroad.com/l/meteor-explained)
 * [Meteor Tips](http://meteortips.com/)
+* [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 
 ## Courses
 
@@ -257,32 +265,37 @@ Where to discover new Meteor things.
 
 ## Blogs
 
-* [Blog about Optimistic UIi With Meteor Latency Compensation](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+* [Official Meteor blog](http://info.meteor.com/blog)
 * [Meteor Hacks Blog](https://meteorhacks.com/)
 * [Meteor Create](http://meteorcreate.com/) - Discover the Best Meteor Tutorials
 * [The Meteor podcast](http://podcast.crater.io)
 * [Meteor club podcast](https://podcast.meteorjs.club/)
+* [Blog about Optimistic UIs With Meteor Latency Compensation](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
 
 ## Websites
 
-* [Official Meteor](https://www.meteor.com/) - Official website
-* [Official Documentation](http://docs.meteor.com/#/full/)
+* [Official website](https://www.meteor.com/)
+* [Official Documentation](http://docs.meteor.com/)
 * [Official Guide](http://guide.meteor.com/) 
-* [Meteor Manual](http://manual.meteor.com/)
-* [Meteor forums](https://forums.meteor.com/)
-* [Atmosphere](https://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
-* [Bullet Proof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production
-* [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
-* [Meteorpedia](http://www.meteorpedia.com)
+* [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
+* [BulletProof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production, by Arunoda Susiripala
+* [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 * [DiscoverMeteor Encyclopedia](https://www.discovermeteor.com/encyclopedia)
 * [Roadmap](https://trello.com/b/hjBDflxp/meteor-roadmap)
 * [Meetups](http://meteor.meetup.com/)
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
 * [Reddit](https://www.reddit.com/r/meteor)
-* [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw)
-* [Made With Meteor](http://madewith.meteor.com/)
+* [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
 * [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
-* [The Meteor Chef](https://themeteorchef.com)
+* [The Meteor Chef](https://themeteorchef.com) 
+
+### Q&A
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
+* [Meteor forums](https://forums.meteor.com/)
+* [Gitter IM channel](https://gitter.im/meteor/meteor)
+* [The Meteor Chef Slack channel](https://themeteorchef.slack.com)
+* IRC - #meteor on freenode
+
 
 ## Weekly
 
@@ -296,10 +309,8 @@ Where to discover new Meteor things.
 * [Official Meteor](https://twitter.com/meteorjs)
 
 ## Job Boards
-* [We Work Meteor](https://www.weworkmeteor.com/)
 
-## Slack Channels
-* [The Meteor Chef](https://themeteorchef.slack.com)
+* [We Work Meteor](https://www.weworkmeteor.com/)
 
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 

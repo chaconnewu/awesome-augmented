@@ -23,7 +23,7 @@
    Github repository
   </a>
   <sup>
-   &#9733 6835, pushed 2 days ago
+   &#9733 6835, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -52,7 +52,7 @@
    Marionette Inspector
   </a>
   <sup>
-   &#9733 153, pushed 32 days ago
+   &#9733 153, pushed 157 days ago
   </sup>
  </li>
  <li>
@@ -60,7 +60,7 @@
    Yeoman generator for Marionette.js
   </a>
   <sup>
-   &#9733 342, pushed 271 days ago
+   &#9733 342, pushed 396 days ago
   </sup>
  </li>
  <li>
@@ -68,7 +68,7 @@
    Marionette CLI
   </a>
   <sup>
-   &#9733 16, pushed 41 days ago
+   &#9733 16, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -82,80 +82,66 @@
 </h2>
 <ul>
  <li>
-  A Thorough Introduction To Backbone.Marionette by Joseph Zimmerman -
-  <a href="http://www.smashingmagazine.com/2013/02/11/introduction-backbone-marionette/">
-   Part 1
-  </a>
-  ,
-  <a href="http://www.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/">
-   Part 2
-  </a>
-  and
-  <a href="http://www.smashingmagazine.com/2014/06/05/thorough-introduction-backbone-marionette-part-3/">
-   Part 3
+  <a href="https://www.smashingmagazine.com/2013/02/introduction-backbone-marionette/">
+   A Thorough Introduction To Backbone.Marionette Part 1: Application
   </a>
  </li>
  <li>
-  A simple Backbone.Marionette tutorial by David Sulc -
-  <a href="http://davidsulc.com/blog/2012/04/15/a-simple-backbone-marionette-tutorial/">
-   Part 1
-  </a>
-  and
-  <a href="http://davidsulc.com/blog/2012/04/22/a-simple-backbone-marionette-tutorial-part-2/">
-   Part 2
+  <a href="https://www.smashingmagazine.com/2013/04/thorough-introduction-backbone-marionette-part-2-modules/">
+   A Thorough Introduction To Backbone.Marionette Part 2: Modules
   </a>
  </li>
  <li>
-  Tutorial: a full Backbone.Marionette application by David Sulc -
+  <a href="https://www.smashingmagazine.com/2014/06/thorough-introduction-backbone-marionette-part-3/">
+   A Thorough Introduction To Backbone.Marionette Part 3: Views
+  </a>
+ </li>
+ <li>
   <a href="http://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/">
-   Part 1
+   A Simple Backbone.Marionette tutorial: Application. Simple List
   </a>
-  and
-  <a href="http://davidsulc.com/blog/2012/05/13/tutorial-a-full-backbone-marionette-application-part-2/">
-   Part 2
+ </li>
+ <li>
+  <a href="http://davidsulc.com/blog/2012/04/22/a-simple-backbone-marionette-tutorial-part-2/">
+   A Simple Backbone.Marionette tutorial: Application with Interactions
   </a>
  </li>
  <li>
   <a href="http://www.artandlogic.com/blog/2013/03/a-visual-guide-to-marionette-js-views/">
-   A Visual Guide to Marionette.js Views
+   A Visual Guide To Marionette.js Views
   </a>
   by Matt Bajoras
  </li>
  <li>
   <a href="http://www.artandlogic.com/blog/2013/06/representing-marionette-js-views-with-state/">
-   Representing Marionette.js Views with State
+   Representing Marionette.js Views With State
   </a>
   by Matt Bajoras
  </li>
  <li>
-  Marionette Explained by Ben McCormick
-  <ul>
-   <li>
-    <a href="http://benmccormick.org/2014/12/02/the-case-for-marionette-js/">
-     The Case For Marionette.js
-    </a>
-   </li>
-   <li>
-    <a href="http://benmccormick.org/2014/12/10/marionette-explained-connecting-your-data-to-your-views/">
-     Connecting Data to Your Views
-    </a>
-   </li>
-   <li>
-    <a href="http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/">
-     Building Complex Layouts With Marionette.js
-    </a>
-   </li>
-   <li>
-    <a href="http://benmccormick.org/2015/01/05/marionette-view-life-cycles/">
-     The Life of a Marionette View
-    </a>
-   </li>
-   <li>
-    <a href="http://benmccormick.org/2015/01/26/backbone-radio/">
-     Building Modular Web Apps With Backbone.Radio
-    </a>
-   </li>
-  </ul>
+  <a href="http://benmccormick.org/2014/12/02/the-case-for-marionette-js/">
+   The Case for Marionette.js
+  </a>
+ </li>
+ <li>
+  <a href="http://benmccormick.org/2014/12/10/marionette-explained-connecting-your-data-to-your-views/">
+   Connecting Data to Your Views
+  </a>
+ </li>
+ <li>
+  <a href="http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/">
+   Building Complex Layouts with Marionette.js
+  </a>
+ </li>
+ <li>
+  <a href="http://benmccormick.org/2015/01/05/marionette-view-life-cycles/">
+   The Life of a Marionette View
+  </a>
+ </li>
+ <li>
+  <a href="http://benmccormick.org/2015/01/26/backbone-radio/">
+   Building Modular Web Apps with Backbone.Radio
+  </a>
  </li>
  <li>
   <a href="http://habrahabr.ru/post/207730/">
@@ -164,13 +150,13 @@
   - by Mahnunchik
  </li>
  <li>
-  Marionette.js Behaviors by Al Scott and Jeanette Head -
-  <a href="http://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/">
-   Part 1
+  <a href="https://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/">
+   Marionette.js Behaviors, Part 1: The Basics
   </a>
-  and
-  <a href="http://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/">
-   Part 2
+ </li>
+ <li>
+  <a href="https://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/">
+   Marionette.js Behaviors, Part 2: Testing Behaviors
   </a>
  </li>
  <li>
@@ -181,7 +167,7 @@
  </li>
  <li>
   <a href="http://cloudandcode.tumblr.com/post/98671637921/design-rules-in-a-backbone-marionette-app">
-   Design rules in a Backbone-Marionette App
+   Design Rules in a Backbone-Marionette App
   </a>
  </li>
  <li>
@@ -209,19 +195,18 @@
  </li>
  <li>
   <a href="http://blog.mojotech.com/dry-up-your-views-in-backbone-marionette/">
-   DRY up your Views in Backbone Marionette
+   DRY up Your Views in Backbone Marionette
   </a>
   by Sam Saccone
  </li>
  <li>
-  Strengthening Our Backbone With Marionette by Stephen Kao -
   <a href="http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931">
-   Part 1
+   Strengthening Our Backbone with Marionette (Part I)
   </a>
  </li>
  <li>
   <a href="http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/">
-   Tutorial: Nested views using Backbone Marionette’s CompositeView
+   Tutorial: Nested Views Using Backbone Marionette's CompositeView
   </a>
   bu David Sulc
  </li>
@@ -233,19 +218,19 @@
  </li>
  <li>
   <a href="http://lostechies.com/derickbailey/2012/03/22/managing-layouts-and-nested-views-with-backbone-marionette/">
-   Managing Layouts And Nested Views With Backbone.Marionette
+   Managing Layouts and Nested Views with Backbone.Marionette
   </a>
   by Derick Bailey
  </li>
  <li>
   <a href="http://lostechies.com/derickbailey/2012/04/03/revisiting-the-backbone-event-aggregator-lessons-learned/">
-   Revisiting The Backbone Event Aggregator: Lessons Learned
+   Revisiting the Backbone Event Aggregator: Lessons Learned
   </a>
   by Derick Bailey
  </li>
  <li>
   <a href="http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6/">
-   Why Should I Use Backbone.Marionette Instead Of … ?
+   Why Should I Use Backbone.Marionette Instead of … ?
   </a>
   by Derick Bailey
  </li>
@@ -257,21 +242,26 @@
  </li>
  <li>
   <a href="http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/">
-   Building A Marionette App with Flux Architecture
+   Building a Marionette App with Flux Architecture
   </a>
   by Kurtis Kemple
  </li>
  <li>
   <a href="http://benmccormick.org/2015/05/25/marionette-service-service-objects-for-marionette/">
-   marionette-service: Service Objects for Marionette
+   Marionette-Service: Service Objects for Marionette
   </a>
   by Ben McCormick
  </li>
  <li>
   <a href="https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/">
-   Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette
+   Refactoring a JavaScript Application to Use Microservices: What We Learned with Backbone and Marionette
   </a>
   by Pasha Craydon
+ </li>
+ <li>
+  <a href="https://docs.google.com/presentation/d/1jy9SXyr6ZjbY7lOSKN8QraH96-vR7mnAo0ePvzDb8uc/pub?start=false&loop=false&delayms=3000&slide=id.p">
+   SEO-Enabling Your Marionette App
+  </a>
  </li>
 </ul>
 <h2>
@@ -316,7 +306,12 @@
  </li>
  <li>
   <a href="https://www.gitbook.com/book/marionette/marionette-guides/details">
-   Marionette guides
+   Marionette Guides
+  </a>
+ </li>
+ <li>
+  <a href="https://shop.smashingmagazine.com/products/better-backbone-applications-with-marionettejs">
+   Better Backbone Applications with MarionetteJS
   </a>
  </li>
 </ul>
@@ -338,13 +333,13 @@
  </li>
  <li>
   <a href="https://www.youtube.com/watch?v=qWr7x9wk6_c">
-   The tools and patterns for building large-scale Backbone applications
+   The Tools and Patterns for Building Large-Scale Backbone Applications
   </a>
   by Brian Mann
  </li>
  <li>
   <a href="https://www.youtube.com/watch?v=KT31H3Ayliw">
-   Episode 03 of BackboneRails screencast
+   Episode 03 of BackboneRails Screencast
   </a>
   by Brian Mann
  </li>
@@ -356,7 +351,7 @@
  </li>
  <li>
   <a href="https://www.youtube.com/watch?v=fZJMF4SOKm4">
-   Backbone's rarely enough: An introduction to Backbone Marionette
+   Backbone's Rarely Enough: An Introduction to Backbone Marionette
   </a>
   by Len Smith
  </li>
@@ -381,6 +376,51 @@
   </a>
   by James Smith
  </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=7yZKsgKxziw">
+   Building Beautiful Apps with Marionette
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=CTr-tTwRH3o">
+   Nesting Your Views in Marionette
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=6wvAswHkarE">
+   Marionette Behaviors
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=2b1G3TdlQEU">
+   Backbone.Wreqr
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=jbGm3mJXh_s">
+   Jason Laster - Backbone Under the Magnifying Glass Tools for Exploring and Debugging Your Apps
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=7bGWuyuLK_4">
+   Browserify + Marionette = Better Apps
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=75d0odmbu38">
+   Using DevTools for Marionette Debugging
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=F32QhaHFn1k">
+   Routing Made Better
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=FCUS6RrhRtI">
+   View and Application State
+  </a>
+ </li>
 </ul>
 <h2>
  Examples and boilerplates
@@ -391,33 +431,25 @@
    Marionette Require Boilerplate
   </a>
   <sup>
-   &#9733 249, pushed 151 days ago
+   &#9733 249, pushed 275 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/dmytroyarmak/marionette-contact-manager">
    Marionette Contact Manager
   </a>
-  - Continuation of development
-  <a href="https://github.com/dmytroyarmak/backbone-contact-manager">
-   Backbone Contact Manager
-  </a>
-  but using Marionette.js
+  - Continuation of development "Backbone Contact Manager" but using Marionette.js
   <sup>
-   &#9733 21, pushed 818 days ago
+   &#9733 21, pushed 943 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate">
    Marionette, Require, and Gulp.js Boilerplate
   </a>
-  - A Lightweight boilerplate originally project based off
-  <a href="https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate">
-   Marionette Require Boilerplate
-  </a>
-  , with Gulp.js integration instead of Grunt.js
+  - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
   <sup>
-   &#9733 15, pushed 349 days ago
+   &#9733 15, pushed 473 days ago
   </sup>
  </li>
  <li>
@@ -426,31 +458,31 @@
   </a>
   - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
   <sup>
-   &#9733 59, pushed 667 days ago
+   &#9733 59, pushed 792 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/davidsulc/marionette-gentle-introduction">
-   Marionette gentle introduction
+   Marionette Gentle Introduction
   </a>
   <sup>
-   &#9733 354, pushed 294 days ago
+   &#9733 354, pushed 419 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/thejameskyle/marionette-wires">
-   Marionette wires
+   Marionette Wires
   </a>
   <sup>
-   &#9733 315, pushed 158 days ago
+   &#9733 315, pushed 282 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/MarionetteLabs/marionette-cookbook">
-   Marionette cookbook
+   Marionette Cookbook
   </a>
   <sup>
-   &#9733 100, pushed 362 days ago
+   &#9733 100, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -458,8 +490,40 @@
    MarionetteJS + Brunch + Babel/ES6
   </a>
   <sup>
-   &#9733 2, pushed 24 days ago
+   &#9733 2, pushed 149 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/jmeas/gistbook">
+   A Place to Write About Technical Subjects on the Web
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/samccone/edit.sx-frontend">
+   The Front End App for edit.sx
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/MeoMix/StreamusChromeExtension">
+   Streamus
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/marionettejs/marionette-integrations">
+   Marionette-Integrations
+  </a>
+  - example marionette apps using several different asset management tools
+ </li>
+ <li>
+  <a href="https://github.com/abiee/es6-marionette">
+   ES6 Marionette Project
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette">
+   Todo List
+  </a>
+  - TodoMVC example
  </li>
 </ul>
 <h2>
@@ -468,18 +532,18 @@
 <ul>
  <li>
   <a href="https://github.com/Squareknot/marionette.state">
-   Marionette state
+   Marionette State
   </a>
   <sup>
-   &#9733 97, pushed 99 days ago
+   &#9733 97, pushed 224 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/tiagorg/marionette-vdom">
-   Marionette virtual dom
+   Marionette Virtual Dom
   </a>
   <sup>
-   &#9733 118, pushed 423 days ago
+   &#9733 118, pushed 547 days ago
   </sup>
  </li>
  <li>
@@ -487,7 +551,24 @@
    Marionette Form View
   </a>
   <sup>
-   &#9733 80, pushed 267 days ago
+   &#9733 80, pushed 391 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Betterment/backbone.blazer">
+   A Better Router for Backbone and Marionette Applications
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/RoundingWellOS/marionette.toolkit">
+   Marionette.Toolkit
+  </a>
+  - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
+ </li>
+ <li>
+  <a href="https://github.com/BedeGaming/orchestra">
+   Orchestra
+  </a>
+  - Client-side app orchestration framework
  </li>
 </ul>

@@ -202,6 +202,16 @@
  An extendable open source continuous integration server
  <br/>
  *
+ <a href="https://www.solanolabs.com">
+  Solano CI
+ </a>
+ Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
+*
+ <a href="https://concourse.ci">
+  Concourse
+ </a>
+ Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
+*
  <a href="https://jazz.net/downloads/rational-build-forge/">
   BuildForge
  </a>
@@ -209,9 +219,9 @@
  <br/>
  *
  <a href="http://electric-cloud.com/products/electricflow/">
-  ElectricCommander
+  ElectricFlow
  </a>
- ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines
+ ElectricFlow/ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines
  <br/>
  *
  <a href="http://www.jetbrains.com/teamcity/index.html">
@@ -298,6 +308,18 @@
   SimpleCI
  </a>
  Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
+ <br/>
+ *
+ <a href="http://zutubi.com">
+  pulse
+ </a>
+ no free version.
+ <br/>
+ *
+ <a href="http://rundeck.org">
+  rundesk
+ </a>
+ Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.
 </p>
 <h2>
  Online Build System
@@ -377,12 +399,6 @@
  Continuous Integration and Delivery made simple
  <br/>
  *
- <a href="https://www.solanolabs.com">
-  solanolabs
- </a>
- Hosted continuous integration and deployment
- <br/>
- *
  <a href="https://githost.io">
   githost
  </a>
@@ -428,6 +444,12 @@
   IBM DevOps Services
  </a>
  - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.
+ <br/>
+ *
+ <a href="https://deploybot.com">
+  deploybot
+ </a>
+ - Instantly build and ship code anywhere in one consistent process for your entire team.
 </p>
 <h2>
  Infrastructure
@@ -505,7 +527,7 @@
   </a>
   Easing the building of vagrant boxes
   <sup>
-   &#9733 3909, pushed 4 days ago
+   &#9733 3909, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -628,6 +650,12 @@
   Codebrag
  </a>
  Codebrag is a simple code review tool that makes the process work for your team.
+ <br/>
+ *
+ <a href="https://www.jetbrains.com/upsource/">
+  Upsource
+ </a>
+ Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
 </p>
 <h2>
  Build
@@ -694,6 +722,12 @@
   ElectricacCelerator
  </a>
  Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity
+ <br/>
+ *
+ <a href="http://www.scala-sbt.org/index.html">
+  SBT
+ </a>
+ sbt is an open source build tool for Scala and Java projects.
 </p>
 <h2>
  Static Check
@@ -754,6 +788,12 @@
   dynamic tools wiki
  </a>
  wiki page
+ <br/>
+ *
+ <a href="http://valgrind.org">
+  valgrind
+ </a>
+ automatically detect many memory management and threading bugs, and profile your programs in detail
 </p>
 <h2>
  Performance Analysis
@@ -819,6 +859,11 @@
   Monkey Test It
  </a>
  Free automated website tester with CURLable API
+*
+ <a href="https://assertible.com">
+  Assertible
+ </a>
+ Continuous post deployment testing for GitHub
 </p>
 <h2>
  Package
@@ -1153,18 +1198,17 @@
  <a href="https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md">
   ci tools compare2
  </a>
+ <br/>
+ *
+ <a href="https://github.com/veggiemonk/awesome-docker">
+  awesome-docker
+ </a>
 </p>
 <h2>
  Contact
 </h2>
 <p>
- To add new items about continuous integration and continuous delivery:
+ Welcome To add new items about continuous integration and continuous delivery.
  <br/>
- 1) pull;
- <br/>
- 2) add issue;
- <br/>
- 3) send me by email itech001@126.com;
- <br/>
- 4) qq group 172758282;
+ my email is: itech001@126.com.
 </p>

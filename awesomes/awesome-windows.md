@@ -343,7 +343,7 @@
   </a>
   - A command-line installer for Windows.
   <sup>
-   &#9733 1351, pushed 5 days ago
+   &#9733 1351, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -369,7 +369,7 @@
   </a>
   - Console emulator package.
   <sup>
-   &#9733 7075, pushed 20 days ago
+   &#9733 7075, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -378,7 +378,7 @@
   </a>
   - Customizable terminal with tabs, splits, quake-style and more.
   <sup>
-   &#9733 2217, pushed 5 days ago
+   &#9733 2217, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -387,7 +387,7 @@
   </a>
   - Modified version of Console 2 for a better experience and a better visual rendering
   <sup>
-   &#9733 1556, pushed 2 days ago
+   &#9733 1556, pushed 126 days ago
   </sup>
  </li>
 </ul>

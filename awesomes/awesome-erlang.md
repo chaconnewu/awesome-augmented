@@ -3,6 +3,9 @@
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
  </a>
+ <a href="https://github.com/drobakowski/awesome-erlang">
+  <img alt="Analytics" src="https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer"/>
+ </a>
 </h1>
 <p>
  A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by
@@ -138,6 +141,11 @@
     </a>
    </li>
    <li>
+    <a href="#internet-of-things">
+     Internet of Things
+    </a>
+   </li>
+   <li>
     <a href="#algorithms-and-datastructures">
      Algorithms and Datastructures
     </a>
@@ -228,7 +236,7 @@
   </a>
   - A release assembler for Erlang.
   <sup>
-   &#9733 399, pushed 4 days ago
+   &#9733 399, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -247,7 +255,7 @@
   </a>
   - Cache environment variables as Erlang app variables.
   <sup>
-   &#9733 18, pushed 8 days ago
+   &#9733 18, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -266,7 +274,7 @@
   </a>
   - Erlang Style Reviewer.
   <sup>
-   &#9733 180, pushed 26 days ago
+   &#9733 180, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -289,7 +297,7 @@
   </a>
   .
   <sup>
-   &#9733 227, pushed 371 days ago
+   &#9733 227, pushed 496 days ago
   </sup>
  </li>
  <li>
@@ -298,7 +306,7 @@
   </a>
   - A server framework inspired by Rails and written in Erlang.
   <sup>
-   &#9733 1561, pushed 44 days ago
+   &#9733 1561, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -307,7 +315,7 @@
   </a>
   - A simple HTTP server.
   <sup>
-   &#9733 3131, pushed 3 days ago
+   &#9733 3131, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -320,7 +328,7 @@
   </a>
   .
   <sup>
-   &#9733 62, pushed 1006 days ago
+   &#9733 62, pushed 1131 days ago
   </sup>
  </li>
  <li>
@@ -329,7 +337,7 @@
   </a>
   - An Erlang library for building lightweight HTTP servers.
   <sup>
-   &#9733 1367, pushed 6 days ago
+   &#9733 1367, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -338,7 +346,7 @@
   </a>
   - WebSocket Application Server.
   <sup>
-   &#9733 928, pushed 20 days ago
+   &#9733 928, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -347,7 +355,7 @@
   </a>
   - High speed, real-time web framework and content management system.
   <sup>
-   &#9733 436, pushed 2 days ago
+   &#9733 436, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -366,7 +374,7 @@
   </a>
   - An admin interface for Chicago Boss.
   <sup>
-   &#9733 74, pushed 69 days ago
+   &#9733 74, pushed 194 days ago
   </sup>
  </li>
  <li>
@@ -379,7 +387,7 @@
   </a>
   - A template for implementing a Websocket controller for ChicagoBoss.
   <sup>
-   &#9733 7, pushed 1195 days ago
+   &#9733 7, pushed 1320 days ago
   </sup>
  </li>
  <li>
@@ -388,7 +396,7 @@
   </a>
   - A session management library for the Giallo web framework.
   <sup>
-   &#9733 10, pushed 839 days ago
+   &#9733 10, pushed 964 days ago
   </sup>
  </li>
 </ul>
@@ -407,7 +415,7 @@
   </a>
   - Simple, reliable, efficient streaming for Cowboy.
   <sup>
-   &#9733 256, pushed 81 days ago
+   &#9733 256, pushed 206 days ago
   </sup>
  </li>
  <li>
@@ -416,7 +424,7 @@
   </a>
   - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
   <sup>
-   &#9733 246, pushed 119 days ago
+   &#9733 246, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -425,7 +433,7 @@
   </a>
   - Simple HTTP client in Erlang.
   <sup>
-   &#9733 496, pushed 11 days ago
+   &#9733 496, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -434,7 +442,7 @@
   </a>
   - Erlang HTTP client.
   <sup>
-   &#9733 410, pushed 13 days ago
+   &#9733 410, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -443,7 +451,7 @@
   </a>
   - A lightweight HTTP/1.1 client implemented in Erlang.
   <sup>
-   &#9733 109, pushed 49 days ago
+   &#9733 109, pushed 174 days ago
   </sup>
  </li>
  <li>
@@ -452,7 +460,7 @@
   </a>
   - For the times you need more than just a gun.
   <sup>
-   &#9733 80, pushed 18 days ago
+   &#9733 80, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -471,7 +479,7 @@
   </a>
   - A QuickCheck-inspired property-based testing tool for Erlang.
   <sup>
-   &#9733 465, pushed 7 days ago
+   &#9733 465, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -480,7 +488,7 @@
   </a>
   - Dynamic tracing tests and utilities for Erlang/OTP
   <sup>
-   &#9733 15, pushed 642 days ago
+   &#9733 15, pushed 767 days ago
   </sup>
  </li>
 </ul>
@@ -499,7 +507,7 @@
   </a>
   - A logging framework for Erlang/OTP.
   <sup>
-   &#9733 718, pushed 25 days ago
+   &#9733 718, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -512,7 +520,7 @@
   </a>
   - AMQP RabbitMQ Lager backend.
   <sup>
-   &#9733 31, pushed 1481 days ago
+   &#9733 31, pushed 1605 days ago
   </sup>
  </li>
  <li>
@@ -521,7 +529,7 @@
   </a>
   - HipChat backend for lager.
   <sup>
-   &#9733 4, pushed 53 days ago
+   &#9733 4, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -530,7 +538,7 @@
   </a>
   - Loggly backend for lager.
   <sup>
-   &#9733 15, pushed 235 days ago
+   &#9733 15, pushed 360 days ago
   </sup>
  </li>
  <li>
@@ -539,7 +547,7 @@
   </a>
   - SMTP backend for lager.
   <sup>
-   &#9733 11, pushed 1272 days ago
+   &#9733 11, pushed 1396 days ago
   </sup>
  </li>
  <li>
@@ -548,7 +556,7 @@
   </a>
   - Heroku log router.
   <sup>
-   &#9733 682, pushed 42 days ago
+   &#9733 682, pushed 167 days ago
   </sup>
  </li>
 </ul>
@@ -567,7 +575,7 @@
   </a>
   - A top-like Erlang node monitoring tool.
   <sup>
-   &#9733 218, pushed 1181 days ago
+   &#9733 218, pushed 1306 days ago
   </sup>
  </li>
  <li>
@@ -576,7 +584,7 @@
   </a>
   - A loose collection of Erlang Performance related tools.
   <sup>
-   &#9733 341, pushed 11 days ago
+   &#9733 341, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -585,7 +593,7 @@
   </a>
   - An Erlang instrumentation package.
   <sup>
-   &#9733 308, pushed 85 days ago
+   &#9733 308, pushed 209 days ago
   </sup>
  </li>
  <li>
@@ -598,7 +606,7 @@
   </a>
   .
   <sup>
-   &#9733 499, pushed 189 days ago
+   &#9733 499, pushed 314 days ago
   </sup>
  </li>
  <li>
@@ -607,7 +615,7 @@
   </a>
   - A statsd Erlang client.
   <sup>
-   &#9733 61, pushed 21 days ago
+   &#9733 61, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -616,7 +624,7 @@
   </a>
   - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
   <sup>
-   &#9733 102, pushed 29 days ago
+   &#9733 102, pushed 154 days ago
   </sup>
  </li>
 </ul>
@@ -635,7 +643,7 @@
   </a>
   - Concuerror is a systematic testing tool for concurrent Erlang programs.
   <sup>
-   &#9733 64, pushed 3 days ago
+   &#9733 64, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -644,7 +652,7 @@
   </a>
   - A Flame Graph profiler for Erlang.
   <sup>
-   &#9733 199, pushed 185 days ago
+   &#9733 199, pushed 310 days ago
   </sup>
  </li>
 </ul>
@@ -663,7 +671,7 @@
   </a>
   - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
   <sup>
-   &#9733 873, pushed 20 days ago
+   &#9733 873, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -695,7 +703,7 @@
   </a>
   - An Erlang implementation of the R*-tree spacial data structure.
   <sup>
-   &#9733 29, pushed 502 days ago
+   &#9733 29, pushed 627 days ago
   </sup>
  </li>
  <li>
@@ -704,7 +712,7 @@
   </a>
   - A spatial extension for Couchbase and Apache CouchDB.
   <sup>
-   &#9733 444, pushed 26 days ago
+   &#9733 444, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -713,7 +721,7 @@
   </a>
   - An Erlang network service for manipulating geographic data.
   <sup>
-   &#9733 9, pushed 1153 days ago
+   &#9733 9, pushed 1277 days ago
   </sup>
  </li>
 </ul>
@@ -732,7 +740,7 @@
   </a>
   - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
   <sup>
-   &#9733 52, pushed 573 days ago
+   &#9733 52, pushed 698 days ago
   </sup>
  </li>
 </ul>
@@ -751,7 +759,7 @@
   </a>
   - A hunky Erlang worker pool factory.
   <sup>
-   &#9733 677, pushed 106 days ago
+   &#9733 677, pushed 231 days ago
   </sup>
  </li>
 </ul>
@@ -770,7 +778,7 @@
   </a>
   - Erlang library for conversion from one local time to another.
   <sup>
-   &#9733 36, pushed 7 days ago
+   &#9733 36, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -779,7 +787,7 @@
   </a>
   - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.
   <sup>
-   &#9733 143, pushed 13 days ago
+   &#9733 143, pushed 137 days ago
   </sup>
  </li>
 </ul>
@@ -798,7 +806,7 @@
   </a>
   - A sharded, caching, pooling, evented ORM for Erlang.
   <sup>
-   &#9733 214, pushed 19 days ago
+   &#9733 214, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -807,7 +815,7 @@
   </a>
   - MySQL/OTP – MySQL driver for Erlang/OTP.
   <sup>
-   &#9733 134, pushed 68 days ago
+   &#9733 134, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -816,7 +824,7 @@
   </a>
   – PostgreSQL migrations for Erlang.
   <sup>
-   &#9733 8, pushed 356 days ago
+   &#9733 8, pushed 480 days ago
   </sup>
  </li>
 </ul>
@@ -835,7 +843,7 @@
   </a>
   - Distributed Fault Tolerant Queue library.
   <sup>
-   &#9733 14, pushed 445 days ago
+   &#9733 14, pushed 569 days ago
   </sup>
  </li>
  <li>
@@ -844,7 +852,7 @@
   </a>
   - Tiny simple blocking queue in erlang.
   <sup>
-   &#9733 3, pushed 482 days ago
+   &#9733 3, pushed 606 days ago
   </sup>
  </li>
  <li>
@@ -853,7 +861,7 @@
   </a>
   - Erlang Priority Queues.
   <sup>
-   &#9733 66, pushed 132 days ago
+   &#9733 66, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -862,7 +870,7 @@
   </a>
   - A diminutive, in-memory message queue for Erlang.
   <sup>
-   &#9733 90, pushed 255 days ago
+   &#9733 90, pushed 380 days ago
   </sup>
  </li>
 </ul>
@@ -881,7 +889,7 @@
   </a>
   - Erlang Oauth2 implementation.
   <sup>
-   &#9733 157, pushed 13 days ago
+   &#9733 157, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -900,7 +908,7 @@
   </a>
   - Erlang with SQL or not.
   <sup>
-   &#9733 30, pushed 117 days ago
+   &#9733 30, pushed 242 days ago
   </sup>
  </li>
  <li>
@@ -909,7 +917,7 @@
   </a>
   - JSON NIFs for Erlang.
   <sup>
-   &#9733 512, pushed 27 days ago
+   &#9733 512, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -918,7 +926,7 @@
   </a>
   - JSON encoder/decoder with the ability to map to records.
   <sup>
-   &#9733 13, pushed 629 days ago
+   &#9733 13, pushed 754 days ago
   </sup>
  </li>
  <li>
@@ -927,7 +935,7 @@
   </a>
   - An erlang application for consuming, producing and manipulating json.
   <sup>
-   &#9733 455, pushed 39 days ago
+   &#9733 455, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -936,7 +944,7 @@
   </a>
   - Enhanced query string parser for Erlang.
   <sup>
-   &#9733 9, pushed 386 days ago
+   &#9733 9, pushed 511 days ago
   </sup>
  </li>
 </ul>
@@ -955,7 +963,7 @@
   </a>
   - Leptus is an Erlang REST framework that runs on top of cowboy.
   <sup>
-   &#9733 233, pushed 68 days ago
+   &#9733 233, pushed 193 days ago
   </sup>
  </li>
 </ul>
@@ -967,6 +975,14 @@
   Libraries for caching data.
  </em>
 </p>
+<ul>
+ <li>
+  <a href="https://github.com/fogfish/cache">
+   cache
+  </a>
+  - In-memory Segmented Cache
+ </li>
+</ul>
 <h2>
  Third Party APIs
 </h2>
@@ -982,7 +998,7 @@
   </a>
   - An Erlang REST client
   <sup>
-   &#9733 50, pushed 57 days ago
+   &#9733 50, pushed 182 days ago
   </sup>
  </li>
  <li>
@@ -991,7 +1007,7 @@
   </a>
   - An Erlang oAuth 2 client (uses restc)
   <sup>
-   &#9733 46, pushed 55 days ago
+   &#9733 46, pushed 180 days ago
   </sup>
  </li>
 </ul>
@@ -1013,7 +1029,7 @@
   </a>
   - barrel
   <sup>
-   &#9733 77, pushed 280 days ago
+   &#9733 77, pushed 405 days ago
   </sup>
  </li>
 </ul>
@@ -1024,7 +1040,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
  </a>
  - A scalable RPC library for Erlang-VM based languages.
  <sup>
-  &#9733 66, pushed 20 days ago
+  &#9733 66, pushed 145 days ago
  </sup>
 </li>
 <li>
@@ -1037,7 +1053,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
  </a>
  - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.
  <sup>
-  &#9733 5, pushed 392 days ago
+  &#9733 5, pushed 517 days ago
  </sup>
 </li>
 <li>
@@ -1046,7 +1062,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
  </a>
  - Language agnostic gossip middleware and message bus written in Erlang.
  <sup>
-  &#9733 29, pushed 330 days ago
+  &#9733 29, pushed 455 days ago
  </sup>
 </li>
 <li>
@@ -1055,7 +1071,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
  </a>
  - Erlang library to map your internal port to an external using UNP IGD.
  <sup>
-  &#9733 32, pushed 69 days ago
+  &#9733 32, pushed 194 days ago
  </sup>
 </li>
 <li>
@@ -1064,9 +1080,22 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
  </a>
  - Socket acceptor pool for TCP protocols.
  <sup>
-  &#9733 563, pushed 11 days ago
+  &#9733 563, pushed 136 days ago
  </sup>
 </li>
+<h2>
+ Internet of Things
+</h2>
+<p>
+ <em>
+  Libraries and tools for interacting with the physical world.
+ </em>
+ *
+ <a href="https://github.com/noam-io/lemma_erlang">
+  lemma_erlang
+ </a>
+ - A lemma for IDEO's Noam internet-of-things prototyping platform.
+</p>
 <h2>
  Algorithms and Datastructures
 </h2>
@@ -1082,7 +1111,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
   </a>
   - A set of syntax extensions like currying and monads for Erlang.
   <sup>
-   &#9733 1, pushed 617 days ago
+   &#9733 1, pushed 742 days ago
   </sup>
  </li>
  <li>
@@ -1091,7 +1120,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
   </a>
   - Erlang state "monad" with merge/conflict-resolution capabilities.
   <sup>
-   &#9733 226, pushed 455 days ago
+   &#9733 226, pushed 580 days ago
   </sup>
  </li>
  <li>
@@ -1100,7 +1129,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
   </a>
   - Erlang library of state based CRDTs.
   <sup>
-   &#9733 167, pushed 4 days ago
+   &#9733 167, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -1127,7 +1156,7 @@ tcp is a generic TCP acceptor pool with low latency in Erlang.
   </a>
   - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
   <sup>
-   &#9733 172, pushed 208 days ago
+   &#9733 172, pushed 332 days ago
   </sup>
  </li>
 </ul>

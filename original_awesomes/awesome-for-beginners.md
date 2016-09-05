@@ -46,6 +46,11 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 - [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [Webpack](https://github.com/webpack/webpack/labels/easy) _(label: easy)_ <br> A bundler for javascript and friends.
+- [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
+- [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
+- [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
+- [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
+- [Ghost](https://github.com/TryGhost/Ghost/labels/beginner) _(label: beginner)_ <br> Just a blogging platform
 
 ## PHP
 
@@ -66,6 +71,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
+- [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 
 ## Rust
 
@@ -73,6 +79,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Rust-Clippy](https://github.com/Manishearth/rust-clippy/labels/E-easy) _(label: E-easy)_  <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/easy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
+
+## Scala
+
+- [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
 
 ## Want to create something new?
 

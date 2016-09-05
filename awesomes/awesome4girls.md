@@ -280,6 +280,28 @@ We organize free Python and Django workshops, create open sourced online tutoria
  </li>
  <li>
   <p>
+   <a href="http://bytegirl.com.br/">
+    Byte Girl
+   </a>
+   <em>
+    Loc:
+   </em>
+   <img alt="Brazil" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="30">
+    |
+    <em>
+     Lang: PT-BR only
+    </em>
+   </img>
+  </p>
+  <p>
+   <strong>
+    Description:
+   </strong>
+   Byte Girl is a non-profit and open event organized by volunteers focused on female public who likes tech. It has the goal of developing the women empowerment.
+  </p>
+ </li>
+ <li>
+  <p>
    <a href="http://www.callbackwomen.com/">
     CallbackWomen
    </a>

@@ -154,7 +154,7 @@
   </a>
   - Library to build Web User Interfaces in Dart inspired by React.
   <sup>
-   &#9733 49, pushed 244 days ago
+   &#9733 49, pushed 368 days ago
   </sup>
  </li>
  <li>
@@ -174,7 +174,7 @@
   </a>
   - Redstone is a server-side, metadata driven micro-framework for Dart.
   <sup>
-   &#9733 232, pushed 23 days ago
+   &#9733 232, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -183,7 +183,7 @@
   </a>
   - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
   <sup>
-   &#9733 362, pushed 343 days ago
+   &#9733 362, pushed 468 days ago
   </sup>
  </li>
  <li>
@@ -192,7 +192,7 @@
   </a>
   - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
   <sup>
-   &#9733 98, pushed 593 days ago
+   &#9733 98, pushed 718 days ago
   </sup>
  </li>
  <li>
@@ -215,7 +215,7 @@
   </a>
   - A real time web framework, embracing websockets, making communication even better
   <sup>
-   &#9733 75, pushed 18 days ago
+   &#9733 75, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -224,7 +224,7 @@
   </a>
   - Framework with built-in server runtime environment and middleware system
   <sup>
-   &#9733 19, pushed 151 days ago
+   &#9733 19, pushed 276 days ago
   </sup>
  </li>
  <li>
@@ -233,7 +233,7 @@
   </a>
   - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
   <sup>
-   &#9733 122, pushed 35 days ago
+   &#9733 122, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -253,7 +253,7 @@
   </a>
   - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
   <sup>
-   &#9733 38, pushed 375 days ago
+   &#9733 38, pushed 500 days ago
   </sup>
  </li>
  <li>
@@ -262,7 +262,7 @@
   </a>
   - A port of the pixi.js rendering engine.
   <sup>
-   &#9733 19, pushed 522 days ago
+   &#9733 19, pushed 647 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +271,7 @@
   </a>
   - A game engine centered around HTML5 Canvas and a scene graph.
   <sup>
-   &#9733 13, pushed 321 days ago
+   &#9733 13, pushed 446 days ago
   </sup>
  </li>
 </ul>
@@ -285,7 +285,7 @@
   </a>
   - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
   <sup>
-   &#9733 17, pushed 19 days ago
+   &#9733 17, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -294,7 +294,7 @@
   </a>
   - An implementation of the Esoteric Software Spine runtime.
   <sup>
-   &#9733 5, pushed 522 days ago
+   &#9733 5, pushed 647 days ago
   </sup>
  </li>
 </ul>
@@ -308,7 +308,7 @@
   </a>
   - A simple implementation of Mustache.
   <sup>
-   &#9733 32, pushed 369 days ago
+   &#9733 32, pushed 494 days ago
   </sup>
  </li>
  <li>
@@ -317,7 +317,7 @@
   </a>
   - Port of the excellent Jade view engine.
   <sup>
-   &#9733 32, pushed 724 days ago
+   &#9733 32, pushed 849 days ago
   </sup>
  </li>
 </ul>
@@ -331,7 +331,7 @@
   </a>
   - MySQL connector.
   <sup>
-   &#9733 82, pushed 109 days ago
+   &#9733 82, pushed 233 days ago
   </sup>
  </li>
  <li>
@@ -340,7 +340,7 @@
   </a>
   - PostgreSQL database driver
   <sup>
-   &#9733 65, pushed 100 days ago
+   &#9733 65, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -377,7 +377,7 @@
   </a>
   - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
   <sup>
-   &#9733 872, pushed 2 days ago
+   &#9733 872, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -386,7 +386,7 @@
   </a>
   - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
   <sup>
-   &#9733 123, pushed 7 days ago
+   &#9733 123, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -395,7 +395,7 @@
   </a>
   - Route is a client routing library for Dart that helps make building single-page web apps.
   <sup>
-   &#9733 30, pushed 19 days ago
+   &#9733 30, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -421,7 +421,7 @@
   </a>
   - Dependency Injection framework by Angular
   <sup>
-   &#9733 56, pushed 4 days ago
+   &#9733 56, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -441,7 +441,7 @@
   </a>
   - Parse markdown into HTML on both the client and server.
   <sup>
-   &#9733 41, pushed 15 days ago
+   &#9733 41, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -450,7 +450,7 @@
   </a>
   - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
   <sup>
-   &#9733 73, pushed 5 days ago
+   &#9733 73, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -488,7 +488,7 @@
   </a>
   - String validation and sanitization for Dart.
   <sup>
-   &#9733 18, pushed 519 days ago
+   &#9733 18, pushed 644 days ago
   </sup>
  </li>
 </ul>
@@ -502,7 +502,7 @@
   </a>
   - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
   <sup>
-   &#9733 45, pushed 41 days ago
+   &#9733 45, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -516,7 +516,7 @@
   </a>
   - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
   <sup>
-   &#9733 55, pushed 202 days ago
+   &#9733 55, pushed 326 days ago
   </sup>
  </li>
 </ul>
@@ -541,7 +541,7 @@
   </a>
   - A port of the Jasmine library.
   <sup>
-   &#9733 38, pushed 27 days ago
+   &#9733 38, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -573,7 +573,7 @@
   </a>
   - compiles Javascript code to Dart
   <sup>
-   &#9733 15, pushed 595 days ago
+   &#9733 15, pushed 719 days ago
   </sup>
  </li>
  <li>
@@ -582,7 +582,7 @@
   </a>
   - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
   <sup>
-   &#9733 123, pushed 1 days ago
+   &#9733 123, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -603,8 +603,14 @@
   </a>
   - A gulp plugin for compiling Dart code to JavaScript using dart2js.
   <sup>
-   &#9733 3, pushed 82 days ago
+   &#9733 3, pushed 206 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/dart-lang/dev_compiler">
+   dev_compiler
+  </a>
+  - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
  </li>
 </ul>
 <h2>
@@ -640,7 +646,7 @@
   </a>
   - Sublime Text 3 Dart Package
   <sup>
-   &#9733 190, pushed 96 days ago
+   &#9733 190, pushed 220 days ago
   </sup>
  </li>
  <li>
@@ -649,7 +655,7 @@
   </a>
   - An Emacs mode for the Dart language
   <sup>
-   &#9733 46, pushed 36 days ago
+   &#9733 46, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -658,7 +664,7 @@
   </a>
   - Syntax highlighting for Dart in Vim
   <sup>
-   &#9733 136, pushed 138 days ago
+   &#9733 136, pushed 263 days ago
   </sup>
  </li>
  <li>

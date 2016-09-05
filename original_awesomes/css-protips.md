@@ -28,7 +28,7 @@ A collection of tips to help take your CSS skills pro.
 1. [Use the "Lobotomized Owl" Selector](#use-the-lobotomized-owl-selector)
 1. [Use `max-height` for Pure CSS Sliders](#use-max-height-for-pure-css-sliders)
 1. [Inherit `box-sizing`](#inherit-box-sizing)
-1. [Equal Width Table Cells](#equal-width-table-cells)
+1. [Equal-Width Table Cells](#equal-width-table-cells)
 1. [Get Rid of Margin Hacks With Flexbox](#get-rid-of-margin-hacks-with-flexbox)
 1. [Use Attribute Selectors with Empty Links](#use-attribute-selectors-with-empty-links)
 1. [Style "Default" Links](#style-default-links)
@@ -38,6 +38,7 @@ A collection of tips to help take your CSS skills pro.
 1. [Use `rem` for Global Sizing; Use `em` for Local Sizing](#use-rem-for-global-sizing-use-em-for-local-sizing)
 1. [Hide Autoplay Videos That Aren't Muted](#hide-autoplay-videos-that-arent-muted)
 1. [Use `:root` for Flexible Type](#use-root-for-flexible-type)
+1. [Set `font-size` on Form Elements for a Better Mobile Experience](#set-font-size-on-form-elements-for-a-better-mobile-experience)
 
 
 ### Use `:not()` to Apply/Unapply Borders on Navigation
@@ -70,6 +71,8 @@ Instead of putting on the border...
 
 Sure, you can use `.nav li + li` or even `.nav li:first-child ~ li`, but with `:not()` the intent is very clear and the CSS selector defines the border the way a human would describe it.
 
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/LkymvO)
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -79,11 +82,13 @@ You don't need to add `line-height` to each `<p>`, `<h*>`, _et al_. separately. 
 
 ```css
 body {
-  line-height: 1;
+  line-height: 1.5;
 }
 ```
 
 This way textual elements can inherit from `body` easily.
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/VjbdYd)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -99,8 +104,8 @@ html, body {
 }
 
 body {
-  -webkit-align-items: center;  
-  -ms-flex-align: center;  
+  -webkit-align-items: center;
+  -ms-flex-align: center;
   align-items: center;
   display: -webkit-flex;
   display: flex;
@@ -110,6 +115,8 @@ body {
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
 **Note:** Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -133,7 +140,7 @@ Use the `:not()` pseudo-class so no comma is added to the last item.
 
 ### Select Items Using Negative `nth-child`
 
-Use negative `nth-child` in CSS to select items 1 through n. 
+Use negative `nth-child` in CSS to select items 1 through n.
 
 ```css
 li {
@@ -156,6 +163,8 @@ li:not(:nth-child(-n+3)) {
 ```
 
 Well that was pretty easy.
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/WxjKZp)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -197,6 +206,8 @@ In this example, all elements in the flow of the document that follow other elem
 
 For more on the "lobotomized owl" selector, read [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) on *A List Apart*.
 
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/grRvWq)
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -217,7 +228,7 @@ Implement CSS-only sliders using `max-height` with overflow hidden:
 }
 ```
 
-The element expands to the `max-height` value on hover and the slider displays as a result of the overflow. 
+The element expands to the `max-height` value on hover and the slider displays as a result of the overflow.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -241,7 +252,7 @@ This makes it easier to change `box-sizing` in plugins or other components that 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Equal Width Table Cells
+### Equal-Width Table Cells
 
 Tables can be a pain to work with so try using `table-layout: fixed` to keep cells at equal width:
 
@@ -252,6 +263,8 @@ Tables can be a pain to work with so try using `table-layout: fixed` to keep cel
 ```
 
 Pain-free table layouts.
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/jALALm)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -278,7 +291,7 @@ Now column gutters always appear evenly-spaced.
 
 ### Use Attribute Selectors with Empty Links
 
-Display links when the `<a>` element has no text value but the `href` attribute has a link: 
+Display links when the `<a>` element has no text value but the `href` attribute has a link:
 
 ```css
 a[href^="http"]:empty::before {
@@ -287,6 +300,8 @@ a[href^="http"]:empty::before {
 ```
 
 That's pretty convenient.
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -334,7 +349,7 @@ To create a box with an intrinsic ratio, all you need to do is apply top or bott
 }
 
 .container div {
-  border: 2px dashed #ddd;	
+  border: 2px dashed #ddd;
   height: 100%;
   left: 0;
   position: absolute;
@@ -345,6 +360,8 @@ To create a box with an intrinsic ratio, all you need to do is apply top or bott
 
 Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).
 
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/jALZvE)
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -353,7 +370,7 @@ Using 20% for padding makes the height of the box equal to 20% of its width. No 
 Make broken images more aesthetically-pleasing with a little bit of CSS:
 
 ```css
-img {  
+img {
   display: block;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -368,13 +385,13 @@ img {
 Now add pseudo-elements rules to display a user message and URL reference of the broken image:
 
 ```css
-img:before {  
+img:before {
   content: "We're sorry, the image below is broken :(";
   display: block;
   margin-bottom: 10px;
 }
 
-img:after {  
+img:after {
   content: "(url: " attr(src) ")";
   display: block;
   font-size: 12px;
@@ -391,7 +408,7 @@ Learn more about styling for this pattern in [Ire Aderinokun](https://github.com
 After setting the base font size at the root (`html { font-size: 16px; }`), set the font size for textual elements to `em`:
 
 ```css
-h2 { 
+h2 {
   font-size: 2em;
 }
 
@@ -446,9 +463,29 @@ Now you can utilize the `root em` unit based on the value calculated by `:root`:
 
 ```css
 body {
-  font: 1em/1.6rem sans-serif;
+  font: 1em/1.6 sans-serif;
 }
 ```
+
+[**Demo**](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Set `font-size` on Form Elements for a Better Mobile Experience
+
+To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+
+```css
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+  font-size: 16px;
+}
+```
+
+:dancer:
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -462,5 +499,8 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 * [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
-* [русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)

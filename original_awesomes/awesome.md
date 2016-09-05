@@ -1,422 +1,281 @@
-<h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
-	<br>
-	<br>
-</h1>
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
-> A curated list of awesome lists
+[![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
-- [What is an awesome list?](awesome.md)
-- [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)<br><sup>Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...</sup>
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
+> An awesome & curated list of best applications and tools for Windows. 
 
-[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
+> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
+> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
 
--
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
-Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
-
-## Table of Contents
-
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-end Development](#front-end-development)
-- [Back-end Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
+- [Applications](#applications)
+  - [Audio](#audio)
+  - [Chat Clients](#chat-clients)
+  - [Compression](#compression)
+  - [Data Recovery](#data-recovery)
+  - [Developer Tools](#developer-tools)
+  - [Documents](#documents)
+  - [E-Book Utilities](#e-book-utilities)
+  - [Email](#email)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Online Storage](#online-storage)
+  - [Productivity](#productivity)
+  - [Terminal](#terminal)
+  - [Text Editors](#text-editors)
+  - [Utilities](#utilities)
+  - [Video](#video)
+- [Setup](#setup)
+    - [Windows 10](#windows-10-setup)
+    - [Windows 8.1 setup](#windows-81-setup)
 - [Security](#security)
-- [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
+- [Discussion Forums](#discussion-forums)
+    - [Windows](#windows)
+    - [IRC channels](#irc-channels)
+    - [Reddit](#reddit)
+- [Contribute](#contribute)
 
 
-## Platforms
+## Applications
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [iOS](https://github.com/vsouza/awesome-ios)
-- [Android](https://github.com/JStumpp/awesome-android)
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron)
-- [Cordova](https://github.com/busterc/awesome-cordova)
-- [React Native](https://github.com/jondot/awesome-react-native)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [OS X](https://github.com/iCHAIT/awesome-osx)
-	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
-	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
-- [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
-- [JVM](https://github.com/deephacks/awesome-jvm)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [Windows](https://github.com/RiseLedger/awesome-windows)
-- [IPFS](https://github.com/ipfs/awesome-ipfs)
-- [Fuse](https://github.com/vinkla/awesome-fuse)
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
+### Audio
 
+- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
+- [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
+- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
+- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
+- [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
+- [Kodi](https://kodi.tv/) - Free and Open Source home theatre software.
 
-## Programming Languages
+### Chat Clients
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
-	- [Standard Style](https://github.com/feross/awesome-standard)
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
-	- [Tips](https://github.com/loverajoel/jstips)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages
-	- [npm](https://github.com/sindresorhus/awesome-npm)
-	- [AVA](https://github.com/sindresorhus/awesome-ava) - Test runner
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
-- [Swift](https://github.com/matteocrippa/awesome-swift)
-	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
-	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
-- [Python](https://github.com/vinta/awesome-python)
-- [Rust](https://github.com/kud1ing/awesome-rust)
-- [Haskell](https://github.com/krispo/awesome-haskell)
-- [PureScript](https://github.com/passy/awesome-purescript)
-- [Go](https://github.com/avelino/awesome-go)
-- [Scala](https://github.com/lauris/awesome-scala)
-- [Ruby](https://github.com/markets/awesome-ruby)
-	- [Events](https://github.com/planetruby/awesome-events)
-- [Clojure](https://github.com/razum2um/awesome-clojure)
-- [ClojureScript](https://github.com/emrehan/awesome-clojurescript)
-- [Elixir](https://github.com/h4cc/awesome-elixir)
-- [Elm](https://github.com/isRuslan/awesome-elm)
-- [Erlang](https://github.com/drobakowski/awesome-erlang)
-- [Julia](https://github.com/svaksha/Julia.jl)
-- [Lua](https://github.com/LewisJEllis/awesome-lua)
-- [C](https://github.com/aleksandar-todorovic/awesome-c)
-- [C/C++](https://github.com/fffaraz/awesome-cpp)
-- [R](https://github.com/qinwf/awesome-R)
-- [D](https://github.com/zhaopuming/awesome-d)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
-- [Perl](https://github.com/hachiojipm/awesome-perl)
-- [Groovy](https://github.com/kdabir/awesome-groovy)
-- [Dart](https://github.com/yissachar/awesome-dart)
-- [Java](https://github.com/akullpp/awesome-java)
-	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
-- [Kotlin](https://github.com/JavaBy/awesome-kotlin)
-- [OCaml](https://github.com/rizo/awesome-ocaml)
-- [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran)
-- [.NET](https://github.com/quozd/awesome-dotnet)
-- [PHP](https://github.com/ziadoz/awesome-php)
-- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-- [Assembler](https://github.com/mat0thew/awesome-asm)
-- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-- [Crystal](https://github.com/veelenga/awesome-crystal)
-- [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
+- [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client. ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. ![Freeware][Freeware Icon]
 
+### Compression
 
-## Front-end Development
+- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. ![Freeware][Freeware Icon]
+- [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. ![Freeware][Freeware Icon]
+- [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][Freeware Icon]
+- [WinRAR](http://www.rarlab.com/) -  A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
-- [Web Tools](https://github.com/lvwzhen/tools)
-- [CSS](https://github.com/sotayamashita/awesome-css)
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips)
-- [React](https://github.com/enaqx/awesome-react)
-	- [Relay](https://github.com/expede/awesome-relay)
-- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
-- [Polymer](https://github.com/Granze/awesome-polymer)
-- [Angular 2](https://github.com/AngularClass/awesome-angular2)
-- [Angular](https://github.com/gianarb/awesome-angularjs)
-- [Backbone](https://github.com/sadcitizen/awesome-backbone)
-- [HTML5](https://github.com/diegocard/awesome-html5)
-- [SVG](https://github.com/willianjusten/awesome-svg)
-- [Canvas](https://github.com/raphamorim/awesome-canvas)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout)
-- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
-- [Inspiration](https://github.com/NoahBuscher/Inspire)
-- [Ember](https://github.com/nmec/awesome-ember)
-- [Android UI](https://github.com/wasabeef/awesome-android-ui)
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
-- [Meteor](https://github.com/Urigo/awesome-meteor)
-- [BEM](https://github.com/sturobson/BEM-resources)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
-- [Web Typography](https://github.com/deanhume/typography)
-- [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
-- [Material Design](https://github.com/sachin1092/awesome-material)
-- [D3](https://github.com/wbkd/awesome-d3)
-- [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/peterkokot/awesome-jquery)
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
-- [Web Audio](https://github.com/notthetup/awesome-webaudio)
-- [Offline-First](https://github.com/pazguille/offline-first)
-- [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality
-- [Cycle.js](https://github.com/vic/awesome-cyclejs)
-- [Text Editing](https://github.com/dok/awesome-text-editing)
-- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
-- [Vue.js](https://github.com/vuejs/awesome-vue)
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
-- [Aurelia](https://github.com/behzad888/awesome-aurelia)
-- [Charting](https://github.com/zingchart/awesome-charting)
-- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
-- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+### Data Recovery
+
+- [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
+- [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - Has filtering tools to help sort the large amount of data the software can recover.
+- [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
+- [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+
+### Developer Tools
+
+- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
+- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
+- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
+- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
+- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
+- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
+- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
+- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
+- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
+- [Wamp](http://www.wampserver.com/en/) - Web development environment.
+
+### Documents
+
+- [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
+- [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
+- [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
+- [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. ![Freeware][Freeware Icon]
+
+### E-Book Utilities
+
+- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved) ![Freeware][Freeware Icon]
+- [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion. ![Freeware][Freeware Icon]
+
+### Email
+
+- [MailBird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. ![Freeware][Freeware Icon]
+- [Nylas N1](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
+
+### Games
+
+- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
+- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
+- [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials. 
+- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
+- [Steam](http://store.steampowered.com/) -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
+- [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
+
+### Graphics
+
+- [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
+- [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
+- [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][Freeware Icon]
+- [Inkscape](https://inkscape.org/en/) - Free vector-based graphic design software.
+- [Krita](https://krita.org/) - Free drawing software with a bunch of cool features.
+
+### Text Editors
+
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
+- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing.
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. ![Freeware][Freeware Icon]
+- [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
+
+### Online Storage
+
+- [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+- [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
+- [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
+- [Mozy](https://mozy.com/product/download)
+- [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 
 
-## Back-end Development
+### Productivity
 
-- [Django](https://github.com/rosarior/awesome-django)
-- [Flask](https://github.com/humiaozuzu/awesome-flask)
-- [Docker](https://github.com/veggiemonk/awesome-docker)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Pyramid](https://github.com/uralbash/awesome-pyramid)
-- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
-- [Symfony](https://github.com/sitepoint/awesome-symfony)
-	- [Education](https://github.com/Symfonisti/awesome-symfony-education)
-- [Laravel](https://github.com/chiraggude/awesome-laravel)
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
-- [Rails](https://github.com/ekremkaraca/awesome-rails)
-	- [Gems](https://github.com/hothero/awesome-rails-gem)
-- [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
-- [nginx](https://github.com/fcambus/nginx-resources)
-- [Dropwizard](https://github.com/stve/awesome-dropwizard)
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen)
+- [Chocolatey](https://chocolatey.org/) - A package manager for Windows. 
+- [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
+- [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
+- [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
+- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
+- [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
+- [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - An effective launcher for windows. ![Freeware][Freeware Icon]
 
+### Terminal
 
-## Computer Science
-
-- [University Courses](https://github.com/prakhar1989/awesome-courses)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Cryptography](https://github.com/MaciejCzyzewski/retter)
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Open Source Society University](https://github.com/open-source-society/computer-science)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
-- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
+- [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin.
+- [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+- [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+- [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
+- [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
+- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+- [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
 
 
-## Big Data
+### Utilities
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
-- [Streaming](https://github.com/manuzhang/awesome-streaming)
-
-
-## Theory
-
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Algorithm Visualizations](https://github.com/enjalot/algovis)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
-- [Math](https://github.com/rossant/awesome-math)
-
-
-## Books
-
-- [Free Programming Books](https://github.com/vhf/free-programming-books)
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-- [Go Books](https://github.com/dariubs/GoBooks)
-- [R Books](https://github.com/RomanTsegelskyi/rbooks)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
+- [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
+- [Ccleaner](https://www.piriform.com/ccleaner/download) - System cleaning utility which is more easy to understand and use for beginners.
+- [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
+- [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
+- [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+- [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
+- [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
+- [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
+- [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
+- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
+- [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
+- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
+- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+- [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+- [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
+- [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 
 
-## Editors
+### Video
 
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](https://github.com/mhinz/vim-galore)
-- [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Atom](https://github.com/mehcode/awesome-atom)
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
+- [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
+- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
 
+## Setup
 
-## Gaming
+### Windows 10 Setup
 
-- [Game Development](https://github.com/ellisonleao/magictools)
-- [Game Talks](https://github.com/hzoo/awesome-gametalks)
-- [Godot](https://github.com/Calinou/awesome-godot) - Game engine
-- [Open Source Games](https://github.com/leereilly/games)
-- [Unity](https://github.com/RyanNielson/awesome-unity) - Game engine
-- [Chess](https://github.com/hkirat/awesome-chess)
-- [LÖVE](https://github.com/JanWerder/awesome-love2d) - Game engine
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console
+* http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
+* http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 
+### Windows 8.1 Setup
 
-## Development Environment
-
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - OS X
-- [Dev Env](https://github.com/jondot/awesome-devenv)
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [Shell](https://github.com/alebcay/awesome-shell)
-- [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
-- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [GitHub](https://github.com/phillipadsmith/awesome-github)
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
-- [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
-- [SSH](https://github.com/moul/awesome-ssh)
-- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-
-
-## Entertainment
-
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
-
-
-## Databases
-
-- [Database](https://github.com/numetriclabz/awesome-db)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
-- [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM
-- [MongoDB](https://github.com/ramnes/awesome-mongodb)
-
-
-## Media
-
-- [Creative Commons Media](https://github.com/shime/creative-commons-media)
-- [Fonts](https://github.com/brabadu/awesome-fonts)
-- [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/ibaaj/awesome-gif)
-- [Music](https://github.com/ciconia/awesome-music)
-- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
-- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
-
-
-## Learn
-
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - Interactive tutorials
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)
-- [Speaking](https://github.com/matteofigus/awesome-speaking)
-- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
-- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-- [Computer History](https://github.com/watson/awesome-computer-history)
-
+* http://windows.microsoft.com/en-IN/windows-8/clean-install
 
 ## Security
 
-- [Application Security](https://github.com/paragonie/awesome-appsec)
-- [Security](https://github.com/sbilly/awesome-security)
-- [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Honeypots](https://github.com/paralax/awesome-honeypots)
-- [Incident Response](https://github.com/meirwah/awesome-incident-response)
-
-
-## Content Management System
-
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
-- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
+- [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
+- [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
+- [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses.
+- [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
+- [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't.
+- [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
+- [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
+- [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe.
+- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json)
-- [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
-- [Slack](https://github.com/matiassingers/awesome-slack)
-	- [Communities](https://github.com/filipelinhares/awesome-slack)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [GeoJSON](https://github.com/tmcw/awesome-geojson)
-- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-- [Radio](https://github.com/kyleterry/awesome-radio)
-- [Awesome](https://github.com/sindresorhus/awesome)
-- [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [Open Companies](https://github.com/opencompany/awesome-open-company)
-- [REST](https://github.com/marmelab/awesome-rest)
-- [Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
-- [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
-- [Services Engineering](https://github.com/mmcgrana/services-engineering)
-- [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
-- [Answers](https://github.com/jugoncalves/awesome-answers) - Stack Overflow, Quora, etc
-- [Sketch](https://github.com/diessica/awesome-sketch) - OS X design app
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
-- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Readme](https://github.com/matiassingers/awesome-readme)
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
-- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Design and Development Guides](https://github.com/NARKOZ/guides)
-- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
-- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
-- [Gulp](https://github.com/alferov/awesome-gulp)
-- [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything
-	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
-- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [OpenGL](https://github.com/eug/awesome-opengl)
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
-- [GraphQL](https://github.com/chentsulin/awesome-graphql)
-- [Transit](https://github.com/luqmaan/awesome-transit)
-- [Research Tools](https://github.com/emptymalei/awesome-research)
-- [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
-- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
-- [Social Media Share Links](https://github.com/vinkla/share-links)
-- [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
-- [Microservices](https://github.com/mfornos/awesome-microservices)
-- [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
-- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network
-- [Katas](https://github.com/gmontalvoriv/awesome-katas)
-- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-- [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol
-- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
-- [For Girls](https://github.com/cristianoliveira/awesome4girls)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices
-- [Vulkan](https://github.com/vinjn/awesome-vulkan)
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis)
-- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
+* [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
+* [list of Shortcut keys](http://imgur.com/a/TIXvm)
+
+## Discussion Forums
+
+#### Windows
+
+* [Windows Support Communities](http://answers.microsoft.com/en-us/windows)
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/windows)
+
+
+#### IRC channels
+
+* [#Windows](https://webchat.freenode.net/?channels=windows)
+* [#microsoft](https://webchat.freenode.net/?channels=microsoft)
+
+
+#### Reddit
+
+* [/r/windows](https://www.reddit.com/r/windows/)
+* [/r/windowsapps](https://www.reddit.com/r/windowsapps)
+* [/r/microsoft](https://www.reddit.com/r/Microsoft)
+* [/r/sysadmin](https://www.reddit.com/r/sysadmin)
+* [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
+
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+
+**[⬆ back to top](#applications)**
 
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+

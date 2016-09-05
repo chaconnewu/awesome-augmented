@@ -96,9 +96,16 @@
  Contributions are welcome!
 </p>
 <p>
- Check out the
+ Review the
  <a href="https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md">
   Contributing Guidelines
+ </a>
+ .
+</p>
+<p>
+ Also check out the
+ <a href="https://github.com/donnemartin/awesome-aws/issues/34">
+  Watch List
  </a>
  .
 </p>
@@ -630,10 +637,10 @@
 <ul>
  <li>
   <a href="https://github.com/aws/aws-sdk-android">
-   Repo :fire:
+   Repo :fire::fire:
   </a>
   <sup>
-   &#9733 189, pushed 14 days ago
+   &#9733 189, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -641,7 +648,7 @@
    Repo with Samples :fire::fire:
   </a>
   <sup>
-   &#9733 215, pushed 7 days ago
+   &#9733 215, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -686,10 +693,10 @@
 <ul>
  <li>
   <a href="https://github.com/mcohen01/amazonica">
-   Repo :fire::fire:
+   Repo :fire::fire::fire:
   </a>
   <sup>
-   &#9733 486, pushed 1 days ago
+   &#9733 486, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -718,7 +725,7 @@
    Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2470, pushed 1 days ago
+   &#9733 2470, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -746,7 +753,7 @@
    goamz/goamz :fire::fire:
   </a>
   <sup>
-   &#9733 273, pushed 19 days ago
+   &#9733 273, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -759,7 +766,7 @@
    Repo :fire::fire::fire:
   </a>
   <sup>
-   &#9733 529, pushed 1 days ago
+   &#9733 529, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -767,7 +774,7 @@
    Repo with Samples :fire::fire:
   </a>
   <sup>
-   &#9733 332, pushed 4 days ago
+   &#9733 332, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +802,7 @@
    Repo for Arduino
   </a>
   <sup>
-   &#9733 59, pushed 357 days ago
+   &#9733 59, pushed 482 days ago
   </sup>
  </li>
  <li>
@@ -803,7 +810,7 @@
    Repo for C :fire:
   </a>
   <sup>
-   &#9733 126, pushed 11 days ago
+   &#9733 126, pushed 135 days ago
   </sup>
  </li>
  <li>
@@ -811,7 +818,7 @@
    Repo for JavaScript :fire::fire:
   </a>
   <sup>
-   &#9733 215, pushed 14 days ago
+   &#9733 215, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -839,7 +846,7 @@
    Repo :fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 1380, pushed 5 days ago
+   &#9733 1380, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -847,7 +854,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 71, pushed 67 days ago
+   &#9733 71, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -875,7 +882,7 @@
    Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2240, pushed 3 days ago
+   &#9733 2240, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -883,7 +890,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 68, pushed 649 days ago
+   &#9733 68, pushed 773 days ago
   </sup>
  </li>
  <li>
@@ -911,7 +918,7 @@
    chilts/awssum :fire::fire:
   </a>
   <sup>
-   &#9733 478, pushed 692 days ago
+   &#9733 478, pushed 817 days ago
   </sup>
  </li>
  <li>
@@ -919,7 +926,7 @@
    livelycode/aws-lib :fire::fire::fire:
   </a>
   <sup>
-   &#9733 646, pushed 509 days ago
+   &#9733 646, pushed 633 days ago
   </sup>
  </li>
  <li>
@@ -927,7 +934,7 @@
    SaltwaterC/aws2js :fire::fire:
   </a>
   <sup>
-   &#9733 243, pushed 319 days ago
+   &#9733 243, pushed 444 days ago
   </sup>
  </li>
 </ul>
@@ -940,7 +947,7 @@
    Repo :fire:
   </a>
   <sup>
-   &#9733 148, pushed 5 days ago
+   &#9733 148, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -958,7 +965,7 @@
    aristidb/aws :fire:
   </a>
   <sup>
-   &#9733 154, pushed 3 days ago
+   &#9733 154, pushed 128 days ago
   </sup>
  </li>
 </ul>
@@ -976,7 +983,7 @@
    Repo
   </a>
   <sup>
-   &#9733 60, pushed 4 days ago
+   &#9733 60, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1011,10 +1018,10 @@
 <ul>
  <li>
   <a href="https://github.com/aws/aws-sdk-php">
-   Repo :fire::fire::fire::fire:
+   Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 1981, pushed 4 days ago
+   &#9733 1981, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1022,7 +1029,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 44, pushed 125 days ago
+   &#9733 44, pushed 250 days ago
   </sup>
  </li>
  <li>
@@ -1050,7 +1057,7 @@
    aws-sdk-php-laravel :fire::fire::fire:
   </a>
   <sup>
-   &#9733 651, pushed 17 days ago
+   &#9733 651, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -1058,7 +1065,7 @@
    aws-sdk-php-silex
   </a>
   <sup>
-   &#9733 67, pushed 20 days ago
+   &#9733 67, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -1066,7 +1073,7 @@
    aws-sdk-php-zf2
   </a>
   <sup>
-   &#9733 83, pushed 6 days ago
+   &#9733 83, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -1079,7 +1086,7 @@
    Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 5447, pushed 4 days ago
+   &#9733 5447, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -1087,7 +1094,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 39, pushed 124 days ago
+   &#9733 39, pushed 248 days ago
   </sup>
  </li>
  <li>
@@ -1112,10 +1119,10 @@
 <ul>
  <li>
   <a href="https://github.com/boto/boto3">
-   boto3 :fire::fire::fire:
+   boto3 :fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 1013, pushed 4 days ago
+   &#9733 1013, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1123,7 +1130,7 @@
    botocore :fire::fire:
   </a>
   <sup>
-   &#9733 249, pushed 1 days ago
+   &#9733 249, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -1133,10 +1140,10 @@
 <ul>
  <li>
   <a href="https://github.com/aws/aws-sdk-ruby">
-   Repo :fire::fire::fire::fire:
+   Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2007, pushed 1 days ago
+   &#9733 2007, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1144,7 +1151,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 20, pushed 368 days ago
+   &#9733 20, pushed 492 days ago
   </sup>
  </li>
  <li>
@@ -1169,10 +1176,10 @@
 <ul>
  <li>
   <a href="https://github.com/aws/aws-sdk-rails">
-   aws-sdk-rails
+   aws-sdk-rails :fire:
   </a>
   <sup>
-   &#9733 102, pushed 15 days ago
+   &#9733 102, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -1180,7 +1187,7 @@
    appoxy/aws :fire::fire:
   </a>
   <sup>
-   &#9733 235, pushed 145 days ago
+   &#9733 235, pushed 269 days ago
   </sup>
  </li>
  <li>
@@ -1188,7 +1195,7 @@
    rightscale/right_aws :fire::fire:
   </a>
   <sup>
-   &#9733 462, pushed 484 days ago
+   &#9733 462, pushed 609 days ago
   </sup>
  </li>
 </ul>
@@ -1201,7 +1208,7 @@
    Repo
   </a>
   <sup>
-   &#9733 25, pushed 34 days ago
+   &#9733 25, pushed 159 days ago
   </sup>
  </li>
 </ul>
@@ -1219,7 +1226,7 @@
    seratch/AWScala :fire::fire:
   </a>
   <sup>
-   &#9733 355, pushed 52 days ago
+   &#9733 355, pushed 177 days ago
   </sup>
  </li>
 </ul>
@@ -1237,7 +1244,7 @@
    Repo
   </a>
   <sup>
-   &#9733 71, pushed 71 days ago
+   &#9733 71, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -1245,7 +1252,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 30, pushed 25 days ago
+   &#9733 30, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -1268,7 +1275,7 @@
    Repo
   </a>
   <sup>
-   &#9733 41, pushed 280 days ago
+   &#9733 41, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -1291,7 +1298,7 @@
    Repo :fire::fire:
   </a>
   <sup>
-   &#9733 412, pushed 5 days ago
+   &#9733 412, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1299,7 +1306,7 @@
    Repo with Samples
   </a>
   <sup>
-   &#9733 8, pushed 925 days ago
+   &#9733 8, pushed 1050 days ago
   </sup>
  </li>
  <li>
@@ -1322,7 +1329,7 @@
    Samples
   </a>
   <sup>
-   &#9733 26, pushed 28 days ago
+   &#9733 26, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -1353,7 +1360,7 @@
    Repo :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 3799, pushed 4 days ago
+   &#9733 3799, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1381,7 +1388,7 @@
    awslabs/aws-shell :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2093, pushed 27 days ago
+   &#9733 2093, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1389,7 +1396,7 @@
    donnemartin/saws :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2792, pushed 2 days ago
+   &#9733 2792, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1506,7 +1513,7 @@
   </a>
   - Cognito credentials through Lambda.
   <sup>
-   &#9733 112, pushed 12 days ago
+   &#9733 112, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -1515,7 +1522,7 @@
   </a>
   - SDK for Java.
   <sup>
-   &#9733 9, pushed 54 days ago
+   &#9733 9, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -1524,7 +1531,7 @@
   </a>
   - Tools to work with Swagger.
   <sup>
-   &#9733 350, pushed 27 days ago
+   &#9733 350, pushed 152 days ago
   </sup>
  </li>
 </ul>
@@ -1551,7 +1558,7 @@
   </a>
   - Bindings to the native AppStream API.
   <sup>
-   &#9733 1, pushed 349 days ago
+   &#9733 1, pushed 474 days ago
   </sup>
  </li>
  <li>
@@ -1560,7 +1567,7 @@
   </a>
   - Session management, cognito integration, and web UI.
   <sup>
-   &#9733 2, pushed 273 days ago
+   &#9733 2, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -1569,7 +1576,7 @@
   </a>
   - SDK for Java.
   <sup>
-   &#9733 17, pushed 406 days ago
+   &#9733 17, pushed 531 days ago
   </sup>
  </li>
 </ul>
@@ -1596,7 +1603,7 @@
   </a>
   - ECS CLI using the same Docker Compose file format and familiar Compose commands.
   <sup>
-   &#9733 238, pushed 22 days ago
+   &#9733 238, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -1605,7 +1612,7 @@
   </a>
   - Universal Command Line Interface.
   <sup>
-   &#9733 3799, pushed 4 days ago
+   &#9733 3799, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1613,7 +1620,7 @@
    aws-shell :fire::fire::fire::fire::fire:
   </a>
   <sup>
-   &#9733 2093, pushed 27 days ago
+   &#9733 2093, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1622,7 +1629,7 @@
   </a>
   - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
   <sup>
-   &#9733 21, pushed 22 days ago
+   &#9733 21, pushed 146 days ago
   </sup>
  </li>
 </ul>
@@ -1636,7 +1643,7 @@
   </a>
   - Operations by EC2 and ELB cli should be simpler.
   <sup>
-   &#9733 814, pushed 2 days ago
+   &#9733 814, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1651,7 +1658,7 @@
   </a>
   - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
   <sup>
-   &#9733 333, pushed 18 days ago
+   &#9733 333, pushed 143 days ago
   </sup>
  </li>
 </ul>
@@ -1668,7 +1675,7 @@
   </a>
   - Custom resource examples.
   <sup>
-   &#9733 35, pushed 894 days ago
+   &#9733 35, pushed 1019 days ago
   </sup>
  </li>
  <li>
@@ -1677,7 +1684,7 @@
   </a>
   - Custom resource framework.
   <sup>
-   &#9733 45, pushed 231 days ago
+   &#9733 45, pushed 356 days ago
   </sup>
  </li>
  <li>
@@ -1686,7 +1693,7 @@
   </a>
   - Sample Cookbook.
   <sup>
-   &#9733 7, pushed 14 days ago
+   &#9733 7, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1695,7 +1702,7 @@
   </a>
   - Framework that deploys and maintains HPC clusters.
   <sup>
-   &#9733 146, pushed 14 days ago
+   &#9733 146, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -1709,7 +1716,7 @@
   </a>
   - Ruby DSL for creating templates.
   <sup>
-   &#9733 124, pushed 29 days ago
+   &#9733 124, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -1718,7 +1725,7 @@
   </a>
   - SublimeText plugin.
   <sup>
-   &#9733 54, pushed 101 days ago
+   &#9733 54, pushed 225 days ago
   </sup>
  </li>
  <li>
@@ -1727,7 +1734,7 @@
   </a>
   - Python library to create descriptions.
   <sup>
-   &#9733 1146, pushed 1 days ago
+   &#9733 1146, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1736,8 +1743,14 @@
   </a>
   - Manages stacks.
   <sup>
-   &#9733 182, pushed 62 days ago
+   &#9733 182, pushed 187 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/envato/stack_master">
+   envato/stack_master
+  </a>
+  - A CLI tool to manage CloudFormation stacks.
  </li>
 </ul>
 <h3>
@@ -1753,7 +1766,7 @@
   </a>
   - An ActiveRecord-style ORM query interface.
   <sup>
-   &#9733 31, pushed 159 days ago
+   &#9733 31, pushed 284 days ago
   </sup>
  </li>
 </ul>
@@ -1780,7 +1793,7 @@
   </a>
   - Easily consume and process log files.
   <sup>
-   &#9733 23, pushed 109 days ago
+   &#9733 23, pushed 234 days ago
   </sup>
  </li>
 </ul>
@@ -1794,7 +1807,7 @@
   </a>
   - Slick dashboard.
   <sup>
-   &#9733 310, pushed 35 days ago
+   &#9733 310, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -1811,7 +1824,7 @@
   </a>
   - Kinesis stream reader.
   <sup>
-   &#9733 151, pushed 103 days ago
+   &#9733 151, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -1820,7 +1833,7 @@
   </a>
   - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
   <sup>
-   &#9733 33, pushed 361 days ago
+   &#9733 33, pushed 486 days ago
   </sup>
  </li>
  <li>
@@ -1829,7 +1842,7 @@
   </a>
   - A logstash plugin that sends logs to CloudWatch.
   <sup>
-   &#9733 15, pushed 62 days ago
+   &#9733 15, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -1838,7 +1851,7 @@
   </a>
   - OpsWorks sample cookbook.
   <sup>
-   &#9733 7, pushed 176 days ago
+   &#9733 7, pushed 300 days ago
   </sup>
  </li>
 </ul>
@@ -1848,11 +1861,11 @@
 <ul>
  <li>
   <a href="https://github.com/jorgebastida/awslogs">
-   jorgebastida/awslogs :fire::fire:
+   jorgebastida/awslogs :fire::fire::fire:
   </a>
   - Simple CLI for querying groups, streams and events.
   <sup>
-   &#9733 359, pushed 13 days ago
+   &#9733 359, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1865,7 +1878,7 @@
   </a>
   - New Relic plugin.
   <sup>
-   &#9733 128, pushed 62 days ago
+   &#9733 128, pushed 186 days ago
   </sup>
  </li>
 </ul>
@@ -1882,7 +1895,7 @@
   </a>
   - Sample agent.
   <sup>
-   &#9733 75, pushed 6 days ago
+   &#9733 75, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1891,7 +1904,7 @@
   </a>
   - Jenkins plugin.
   <sup>
-   &#9733 88, pushed 7 days ago
+   &#9733 88, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -1900,7 +1913,7 @@
   </a>
   - Samples and template scenarios.
   <sup>
-   &#9733 216, pushed 19 days ago
+   &#9733 216, pushed 144 days ago
   </sup>
  </li>
 </ul>
@@ -1927,7 +1940,7 @@
   </a>
   - Develop your own job worker when creating a custom action.
   <sup>
-   &#9733 8, pushed 169 days ago
+   &#9733 8, pushed 293 days ago
   </sup>
  </li>
  <li>
@@ -1936,7 +1949,7 @@
   </a>
   - Four-stage pipeline for Linux.
   <sup>
-   &#9733 5, pushed 186 days ago
+   &#9733 5, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -1945,7 +1958,7 @@
   </a>
   - Jenkins plugin.
   <sup>
-   &#9733 20, pushed 39 days ago
+   &#9733 20, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -1954,7 +1967,7 @@
   </a>
   - Simple pipeline for Linux.
   <sup>
-   &#9733 1, pushed 286 days ago
+   &#9733 1, pushed 411 days ago
   </sup>
  </li>
  <li>
@@ -1963,7 +1976,7 @@
   </a>
   - Four-stage pipeline for Windows.
   <sup>
-   &#9733 2, pushed 186 days ago
+   &#9733 2, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -1972,7 +1985,7 @@
   </a>
   - Simple pipeline for Windows.
   <sup>
-   &#9733 2, pushed 286 days ago
+   &#9733 2, pushed 410 days ago
   </sup>
  </li>
 </ul>
@@ -1999,7 +2012,7 @@
   </a>
   - Sync SDK for Android.
   <sup>
-   &#9733 30, pushed 67 days ago
+   &#9733 30, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -2008,7 +2021,7 @@
   </a>
   - Authentication sample.
   <sup>
-   &#9733 25, pushed 224 days ago
+   &#9733 25, pushed 348 days ago
   </sup>
  </li>
  <li>
@@ -2017,7 +2030,7 @@
   </a>
   - Sync SDK for .NET.
   <sup>
-   &#9733 2, pushed 71 days ago
+   &#9733 2, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -2026,7 +2039,7 @@
   </a>
   - Sync SDK for iOS.
   <sup>
-   &#9733 27, pushed 48 days ago
+   &#9733 27, pushed 172 days ago
   </sup>
  </li>
  <li>
@@ -2035,7 +2048,7 @@
   </a>
   - Sync SDK for JavaScript.
   <sup>
-   &#9733 73, pushed 53 days ago
+   &#9733 73, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -2044,7 +2057,7 @@
   </a>
   - Consuming Streams sample.
   <sup>
-   &#9733 4, pushed 426 days ago
+   &#9733 4, pushed 551 days ago
   </sup>
  </li>
  <li>
@@ -2053,7 +2066,7 @@
   </a>
   - Sample App for Node.js.
   <sup>
-   &#9733 28, pushed 566 days ago
+   &#9733 28, pushed 691 days ago
   </sup>
  </li>
 </ul>
@@ -2080,7 +2093,7 @@
   </a>
   - Sample pipelines.
   <sup>
-   &#9733 42, pushed 5 days ago
+   &#9733 42, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -2107,7 +2120,7 @@
   </a>
   - Appium TestNG Android tests.
   <sup>
-   &#9733 13, pushed 71 days ago
+   &#9733 13, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -2116,7 +2129,7 @@
   </a>
   - Calabash Android tests.
   <sup>
-   &#9733 4, pushed 250 days ago
+   &#9733 4, pushed 374 days ago
   </sup>
  </li>
  <li>
@@ -2125,7 +2138,7 @@
   </a>
   - Gradle plugin.
   <sup>
-   &#9733 12, pushed 120 days ago
+   &#9733 12, pushed 244 days ago
   </sup>
  </li>
  <li>
@@ -2134,7 +2147,7 @@
   </a>
   - Jenkins plugin.
   <sup>
-   &#9733 28, pushed 18 days ago
+   &#9733 28, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -2143,7 +2156,7 @@
   </a>
   - Sample Android app.
   <sup>
-   &#9733 40, pushed 158 days ago
+   &#9733 40, pushed 283 days ago
   </sup>
  </li>
 </ul>
@@ -2170,7 +2183,7 @@
   </a>
   - A session state provider for ASP.NET apps.
   <sup>
-   &#9733 9, pushed 46 days ago
+   &#9733 9, pushed 171 days ago
   </sup>
  </li>
  <li>
@@ -2179,7 +2192,7 @@
   </a>
   - A trace listener for System.Diagnostics that can be used to log events.
   <sup>
-   &#9733 3, pushed 202 days ago
+   &#9733 3, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -2188,7 +2201,7 @@
   </a>
   - Encryption Client for Java.
   <sup>
-   &#9733 41, pushed 18 days ago
+   &#9733 41, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -2197,7 +2210,7 @@
   </a>
   - Samples using the Java SDK.
   <sup>
-   &#9733 19, pushed 290 days ago
+   &#9733 19, pushed 415 days ago
   </sup>
  </li>
  <li>
@@ -2206,7 +2219,7 @@
   </a>
   - Stores and indexes NASA JPL Mars images.
   <sup>
-   &#9733 34, pushed 554 days ago
+   &#9733 34, pushed 679 days ago
   </sup>
  </li>
  <li>
@@ -2215,7 +2228,7 @@
   </a>
   - Session store for Apache Tomcat.
   <sup>
-   &#9733 64, pushed 33 days ago
+   &#9733 64, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -2224,7 +2237,7 @@
   </a>
   - Handles sessions for Ruby web apps.
   <sup>
-   &#9733 34, pushed 55 days ago
+   &#9733 34, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -2233,7 +2246,7 @@
   </a>
   - Cross-region replication.
   <sup>
-   &#9733 79, pushed 2 days ago
+   &#9733 79, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2242,7 +2255,7 @@
   </a>
   - Library to create and query geospatial data.
   <sup>
-   &#9733 145, pushed 43 days ago
+   &#9733 145, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -2251,7 +2264,7 @@
   </a>
   - Import and export examples.
   <sup>
-   &#9733 17, pushed 132 days ago
+   &#9733 17, pushed 256 days ago
   </sup>
  </li>
  <li>
@@ -2260,7 +2273,7 @@
   </a>
   - Finds violations on an online GSI's hash key and range key.
   <sup>
-   &#9733 0, pushed 462 days ago
+   &#9733 0, pushed 586 days ago
   </sup>
  </li>
  <li>
@@ -2269,7 +2282,7 @@
   </a>
   - Kinesis interface to consume and process data from a DynamoDB stream.
   <sup>
-   &#9733 13, pushed 209 days ago
+   &#9733 13, pushed 334 days ago
   </sup>
  </li>
  <li>
@@ -2278,16 +2291,16 @@
   </a>
   - Lightweight python app.
   <sup>
-   &#9733 18, pushed 97 days ago
+   &#9733 18, pushed 221 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/dynamodb-titan-storage-backend">
-   dynamodb-titan-storage-backend :fire:
+   dynamodb-titan-storage-backend :fire::fire:
   </a>
   - Storage Backend for Titan.
   <sup>
-   &#9733 181, pushed 15 days ago
+   &#9733 181, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -2296,7 +2309,7 @@
   </a>
   - Performs atomic writes and isolated reads across multiple items and tables.
   <sup>
-   &#9733 134, pushed 63 days ago
+   &#9733 134, pushed 187 days ago
   </sup>
  </li>
  <li>
@@ -2305,7 +2318,7 @@
   </a>
   - Logstash input plugin.
   <sup>
-   &#9733 30, pushed 26 days ago
+   &#9733 30, pushed 150 days ago
   </sup>
  </li>
 </ul>
@@ -2314,12 +2327,18 @@
 </p>
 <ul>
  <li>
+  <a href="https://github.com/channl/dynamodb-lambda-autoscale">
+   channl/dynamodb-lambda-autoscale :fire:
+  </a>
+  - Autoscale DynamoDB provisioned capacity using Lambda.
+ </li>
+ <li>
   <a href="https://github.com/lyft/confidant">
    lyft/confidant :fire::fire::fire:
   </a>
   - Stores secrets, encrypted at rest.
   <sup>
-   &#9733 883, pushed 4 days ago
+   &#9733 883, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2328,7 +2347,7 @@
   </a>
   - Provides auto-scaling.
   <sup>
-   &#9733 342, pushed 35 days ago
+   &#9733 342, pushed 160 days ago
   </sup>
  </li>
 </ul>
@@ -2345,7 +2364,7 @@
   </a>
   - GlassFish docker files.
   <sup>
-   &#9733 9, pushed 149 days ago
+   &#9733 9, pushed 274 days ago
   </sup>
  </li>
  <li>
@@ -2354,7 +2373,7 @@
   </a>
   - Python docker files.
   <sup>
-   &#9733 33, pushed 545 days ago
+   &#9733 33, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -2363,7 +2382,7 @@
   </a>
   - Simple PHP app.
   <sup>
-   &#9733 58, pushed 623 days ago
+   &#9733 58, pushed 748 days ago
   </sup>
  </li>
  <li>
@@ -2372,7 +2391,7 @@
   </a>
   - Simple Node.js and Tomcat apps using Docker images.
   <sup>
-   &#9733 16, pushed 406 days ago
+   &#9733 16, pushed 531 days ago
   </sup>
  </li>
  <li>
@@ -2381,7 +2400,7 @@
   </a>
   - Simple PHP app using the PHP-FPM and Nginx Docker images.
   <sup>
-   &#9733 36, pushed 407 days ago
+   &#9733 36, pushed 532 days ago
   </sup>
  </li>
  <li>
@@ -2390,7 +2409,7 @@
   </a>
   - Simple PHP, Tomcat, and Nginx applications using Docker images.
   <sup>
-   &#9733 10, pushed 407 days ago
+   &#9733 10, pushed 532 days ago
   </sup>
  </li>
  <li>
@@ -2399,7 +2418,7 @@
   </a>
   - Sample express app.
   <sup>
-   &#9733 17, pushed 279 days ago
+   &#9733 17, pushed 404 days ago
   </sup>
  </li>
  <li>
@@ -2408,7 +2427,7 @@
   </a>
   - Express framework and Bootstrap Node.js sample app.
   <sup>
-   &#9733 50, pushed 350 days ago
+   &#9733 50, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -2417,7 +2436,7 @@
   </a>
   - Sample app referenced in the Developer Guide.
   <sup>
-   &#9733 4, pushed 1016 days ago
+   &#9733 4, pushed 1141 days ago
   </sup>
  </li>
  <li>
@@ -2426,7 +2445,7 @@
   </a>
   - Python app that illustrates worker roles.
   <sup>
-   &#9733 21, pushed 119 days ago
+   &#9733 21, pushed 243 days ago
   </sup>
  </li>
  <li>
@@ -2435,7 +2454,7 @@
   </a>
   - Python signup form app with Flask and Bootstrap.
   <sup>
-   &#9733 150, pushed 545 days ago
+   &#9733 150, pushed 669 days ago
   </sup>
  </li>
  <li>
@@ -2444,7 +2463,7 @@
   </a>
   - Simple Python and Flask app.
   <sup>
-   &#9733 5, pushed 280 days ago
+   &#9733 5, pushed 405 days ago
   </sup>
  </li>
  <li>
@@ -2453,7 +2472,7 @@
   </a>
   - Sample login app with Web Identity Federation.
   <sup>
-   &#9733 6, pushed 692 days ago
+   &#9733 6, pushed 816 days ago
   </sup>
  </li>
 </ul>
@@ -2467,7 +2486,7 @@
   </a>
   - Gem with rake configuration and deployment for rails apps.
   <sup>
-   &#9733 147, pushed 13 days ago
+   &#9733 147, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2476,7 +2495,7 @@
   </a>
   - Blue-green deployment automation.
   <sup>
-   &#9733 209, pushed 46 days ago
+   &#9733 209, pushed 171 days ago
   </sup>
  </li>
 </ul>
@@ -2503,7 +2522,7 @@
   </a>
   - DNS server that lets you look up instances by name.
   <sup>
-   &#9733 519, pushed 287 days ago
+   &#9733 519, pushed 412 days ago
   </sup>
  </li>
  <li>
@@ -2512,7 +2531,7 @@
   </a>
   - Automates EBS snapshots and rotation.
   <sup>
-   &#9733 153, pushed 151 days ago
+   &#9733 153, pushed 275 days ago
   </sup>
  </li>
  <li>
@@ -2521,7 +2540,7 @@
   </a>
   - SSH config manager.
   <sup>
-   &#9733 158, pushed 4 days ago
+   &#9733 158, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2530,7 +2549,7 @@
   </a>
   - A web-based SSH console to manage multiple instances simultaneously.
   <sup>
-   &#9733 325, pushed 9 days ago
+   &#9733 325, pushed 134 days ago
   </sup>
  </li>
  <li>
@@ -2539,7 +2558,7 @@
   </a>
   - CLI-driven console with capistrano integration.
   <sup>
-   &#9733 169, pushed 70 days ago
+   &#9733 169, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -2556,7 +2575,7 @@
   </a>
   - Agent that runs on and starts containers.
   <sup>
-   &#9733 553, pushed 3 days ago
+   &#9733 553, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2565,7 +2584,7 @@
   </a>
   - Persists Data from containers.
   <sup>
-   &#9733 8, pushed 195 days ago
+   &#9733 8, pushed 320 days ago
   </sup>
  </li>
  <li>
@@ -2574,7 +2593,7 @@
   </a>
   - RPM developed to support the Amazon ECS Container Agent.
   <sup>
-   &#9733 36, pushed 7 days ago
+   &#9733 36, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -2589,7 +2608,7 @@
   </a>
   - Simple PHP app.
   <sup>
-   &#9733 20, pushed 148 days ago
+   &#9733 20, pushed 273 days ago
   </sup>
  </li>
  <li>
@@ -2598,7 +2617,7 @@
   </a>
   - Integrates Apache Mesos.
   <sup>
-   &#9733 131, pushed 452 days ago
+   &#9733 131, pushed 577 days ago
   </sup>
  </li>
  <li>
@@ -2607,16 +2626,16 @@
   </a>
   - Simple ambassador container for inter-task communication.
   <sup>
-   &#9733 10, pushed 222 days ago
+   &#9733 10, pushed 347 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-ecs-worker-pattern">
-   lambda-ecs-worker-pattern
+   lambda-ecs-worker-pattern :fire:
   </a>
   - Extends Lambda using SQS and ECS.
   <sup>
-   &#9733 78, pushed 99 days ago
+   &#9733 78, pushed 224 days ago
   </sup>
  </li>
  <li>
@@ -2625,7 +2644,7 @@
   </a>
   - Python sample app.
   <sup>
-   &#9733 27, pushed 86 days ago
+   &#9733 27, pushed 211 days ago
   </sup>
  </li>
  <li>
@@ -2634,7 +2653,7 @@
   </a>
   - Assets from the blog Service Discovery via Consul with Amazon ECS.
   <sup>
-   &#9733 52, pushed 82 days ago
+   &#9733 52, pushed 206 days ago
   </sup>
  </li>
 </ul>
@@ -2685,16 +2704,16 @@
   </a>
   - Sample bootstrap actions.
   <sup>
-   &#9733 342, pushed 32 days ago
+   &#9733 342, pushed 157 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/emr-sample-apps">
    emr-sample-apps
   </a>
-  - Sampe apps.
+  - Sample apps.
   <sup>
-   &#9733 38, pushed 238 days ago
+   &#9733 38, pushed 362 days ago
   </sup>
  </li>
 </ul>
@@ -2703,9 +2722,13 @@
 </p>
 <ul>
  <li>
-  <a href="https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md">
-   Contribute
+  <a href="https://github.com/Yelp/mrjob">
+   Yelp/mrjob :fire::fire::fire::fire:
   </a>
+  - Run MapReduce jobs on Hadoop or EMR.
+  <sup>
+   &#9733 1786, pushed 127 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -2717,11 +2740,11 @@
 <ul>
  <li>
   <a href="https://github.com/awslabs/logstash-output-amazon_es">
-   logstash-output-amazon_es
+   logstash-output-amazon_es :fire:
   </a>
   - Logstash output plugin to sign and export events.
   <sup>
-   &#9733 82, pushed 28 days ago
+   &#9733 82, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -2730,7 +2753,7 @@
   </a>
   - OpsWorks Elasticsearch sample cookbook.
   <sup>
-   &#9733 28, pushed 658 days ago
+   &#9733 28, pushed 783 days ago
   </sup>
  </li>
 </ul>
@@ -2744,7 +2767,7 @@
   </a>
   - Plugin for Elasticsearch.
   <sup>
-   &#9733 548, pushed 5 days ago
+   &#9733 548, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -2761,7 +2784,7 @@
   </a>
   - Libmemcached library support.
   <sup>
-   &#9733 4, pushed 42 days ago
+   &#9733 4, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -2770,7 +2793,7 @@
   </a>
   - Client for Java.
   <sup>
-   &#9733 38, pushed 109 days ago
+   &#9733 38, pushed 234 days ago
   </sup>
  </li>
  <li>
@@ -2779,7 +2802,7 @@
   </a>
   - Enhanced PHP library connecting to ElastiCache.
   <sup>
-   &#9733 17, pushed 9 days ago
+   &#9733 17, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2788,7 +2811,7 @@
   </a>
   - Config object for Enyim's MemcachedClient to enable auto discovery.
   <sup>
-   &#9733 7, pushed 67 days ago
+   &#9733 7, pushed 191 days ago
   </sup>
  </li>
 </ul>
@@ -2815,7 +2838,7 @@
   </a>
   - Perl Multithreaded Multipart sync to Glacier.
   <sup>
-   &#9733 400, pushed 489 days ago
+   &#9733 400, pushed 614 days ago
   </sup>
  </li>
 </ul>
@@ -2828,11 +2851,11 @@
 <ul>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-aggregators">
-   amazon-kinesis-aggregators
+   amazon-kinesis-aggregators :fire:
   </a>
   - Provides a simple way to create real time aggregations.
   <sup>
-   &#9733 94, pushed 182 days ago
+   &#9733 94, pushed 307 days ago
   </sup>
  </li>
  <li>
@@ -2841,7 +2864,7 @@
   </a>
   - Client Library for .NET.
   <sup>
-   &#9733 12, pushed 302 days ago
+   &#9733 12, pushed 427 days ago
   </sup>
  </li>
  <li>
@@ -2850,7 +2873,7 @@
   </a>
   - Client Library for Node.js.
   <sup>
-   &#9733 74, pushed 19 days ago
+   &#9733 74, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -2859,7 +2882,7 @@
   </a>
   - Client Library for Python.
   <sup>
-   &#9733 111, pushed 25 days ago
+   &#9733 111, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -2868,16 +2891,16 @@
   </a>
   - Client Library for Ruby.
   <sup>
-   &#9733 77, pushed 62 days ago
+   &#9733 77, pushed 187 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-client">
-   amazon-kinesis-client :fire:
+   amazon-kinesis-client :fire::fire:
   </a>
   Client library for Amazon Kinesis.
   <sup>
-   &#9733 187, pushed 21 days ago
+   &#9733 187, pushed 146 days ago
   </sup>
  </li>
  <li>
@@ -2886,7 +2909,7 @@
   </a>
   - Libary to integrate with other AWS and non-AWS services.
   <sup>
-   &#9733 209, pushed 103 days ago
+   &#9733 209, pushed 228 days ago
   </sup>
  </li>
  <li>
@@ -2895,7 +2918,7 @@
   </a>
   - Sample data visualization app.
   <sup>
-   &#9733 87, pushed 529 days ago
+   &#9733 87, pushed 653 days ago
   </sup>
  </li>
  <li>
@@ -2904,7 +2927,7 @@
   </a>
   - Learning Kinesis Development.
   <sup>
-   &#9733 16, pushed 132 days ago
+   &#9733 16, pushed 257 days ago
   </sup>
  </li>
  <li>
@@ -2913,25 +2936,25 @@
   </a>
   - Producer Library.
   <sup>
-   &#9733 59, pushed 67 days ago
+   &#9733 59, pushed 192 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/amazon-kinesis-scaling-utils">
-   amazon-kinesis-scaling-utils
+   amazon-kinesis-scaling-utils :fire:
   </a>
   - Provides the ability to scale streams.
   <sup>
-   &#9733 93, pushed 5 days ago
+   &#9733 93, pushed 130 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-fluent-plugin-kinesis">
-   aws-fluent-plugin-kinesis
+   aws-fluent-plugin-kinesis :fire:
   </a>
   - Fluent Plugin.
   <sup>
-   &#9733 92, pushed 35 days ago
+   &#9733 92, pushed 159 days ago
   </sup>
  </li>
  <li>
@@ -2946,7 +2969,7 @@
   </a>
   - Log4J Appender.
   <sup>
-   &#9733 31, pushed 205 days ago
+   &#9733 31, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -2955,7 +2978,7 @@
   </a>
   - Simple multi-threaded Python Poster and Worker.
   <sup>
-   &#9733 38, pushed 347 days ago
+   &#9733 38, pushed 472 days ago
   </sup>
  </li>
  <li>
@@ -2964,7 +2987,7 @@
   </a>
   - Spout for Storm.
   <sup>
-   &#9733 84, pushed 12 days ago
+   &#9733 84, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -2973,7 +2996,7 @@
   </a>
   - Simple MQTT bridge in Python.
   <sup>
-   &#9733 25, pushed 454 days ago
+   &#9733 25, pushed 579 days ago
   </sup>
  </li>
 </ul>
@@ -2996,11 +3019,11 @@
 <ul>
  <li>
   <a href="https://github.com/awslabs/amazon-elasticsearch-lambda-samples">
-   amazon-elasticsearch-lambda-samples
+   amazon-elasticsearch-lambda-samples :fire:
   </a>
   - Data ingestion for Elasticsearch from S3 and Kinesis.
   <sup>
-   &#9733 65, pushed 26 days ago
+   &#9733 65, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -3009,17 +3032,23 @@
   </a>
   - Official mirror for interface definitions and helper classes.
   <sup>
-   &#9733 41, pushed 11 days ago
+   &#9733 41, pushed 136 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-lambda-redshift-loader">
-   aws-lambda-redshift-loader :fire:
+   aws-lambda-redshift-loader :fire::fire:
   </a>
   - Redshift loader.
   <sup>
-   &#9733 190, pushed 6 days ago
+   &#9733 190, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/awslabs/chalice">
+   chalice :fire::fire::fire::fire:
+  </a>
+  - Python Serverless Microframework.
  </li>
  <li>
   <a href="https://github.com/awslabs/create-thumbnails-lambda">
@@ -3027,12 +3056,12 @@
   </a>
   - Uses the grunt-aws-lambda plugin to help you develop and test.
   <sup>
-   &#9733 10, pushed 293 days ago
+   &#9733 10, pushed 418 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-ecs-worker-pattern">
-   lambda-ecs-worker-pattern
+   lambda-ecs-worker-pattern :fire:
   </a>
   - Extends Lambda using SQS and ECS.
  </li>
@@ -3042,34 +3071,34 @@
   </a>
   - Reference Architecture for Real-time File Processing.
   <sup>
-   &#9733 53, pushed 33 days ago
+   &#9733 53, pushed 158 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-iotbackend">
-   lambda-refarch-iotbackend
+   lambda-refarch-iotbackend :fire:
   </a>
   - Reference Architecture for creating an IoT Backend.
   <sup>
-   &#9733 68, pushed 33 days ago
+   &#9733 68, pushed 158 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-mobilebackend">
-   lambda-refarch-mobilebackend :fire:
+   lambda-refarch-mobilebackend :fire::fire:
   </a>
   - Reference Architecture for creating a Mobile Backend.
   <sup>
-   &#9733 123, pushed 33 days ago
+   &#9733 123, pushed 158 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/lambda-refarch-webapp">
-   lambda-refarch-webapp
+   lambda-refarch-webapp :fire::fire:
   </a>
   - Reference Architecture for creating a Web Application.
   <sup>
-   &#9733 120, pushed 33 days ago
+   &#9733 120, pushed 158 days ago
   </sup>
  </li>
 </ul>
@@ -3083,7 +3112,7 @@
   </a>
   - Minimal AWS Lambda function manager with Go support.
   <sup>
-   &#9733 2443, pushed 3 days ago
+   &#9733 2443, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3092,26 +3121,50 @@
   </a>
   - A chat application without servers.
   <sup>
-   &#9733 245, pushed 35 days ago
+   &#9733 245, pushed 160 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/danilop/LambdAuth">
-   danilop/LambdAuth :fire::fire:
+   danilop/LambdAuth :fire::fire::fire:
   </a>
   - Sample authentication service.
   <sup>
-   &#9733 513, pushed 39 days ago
+   &#9733 513, pushed 164 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/garnaat/kappa">
-   garnaat/kappa :fire::fire:
+   garnaat/kappa :fire::fire::fire:
   </a>
   - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
   <sup>
-   &#9733 437, pushed 33 days ago
+   &#9733 437, pushed 158 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/goadapp/goad">
+   goadapp/goad :fire::fire::fire:
+  </a>
+  - Lambda powered, highly distributed, load testing tool.
+ </li>
+ <li>
+  <a href="https://github.com/jimpick/lambda-comments">
+   jimpick/lambda-comments :fire::fire:
+  </a>
+  - Blog commenting system built with Lambda.
+ </li>
+ <li>
+  <a href="https://github.com/jorgebastida/gordon">
+   jorgebastida/gordon :fire::fire::fire::fire:
+  </a>
+  - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
+ </li>
+ <li>
+  <a href="https://github.com/lambci/lambci">
+   lambci/lambci :fire::fire::fire::fire:
+  </a>
+  - A continuous integration system built on Lambda.
  </li>
  <li>
   <a href="https://github.com/mentum/lambdaws">
@@ -3119,16 +3172,16 @@
   </a>
   - Deploy, run and get results in a breeze.
   <sup>
-   &#9733 1185, pushed 111 days ago
+   &#9733 1185, pushed 236 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Miserlou/Zappa">
-   Miserlou/Zappa :fire::fire::fire:
+   Miserlou/Zappa :fire::fire::fire::fire:
   </a>
   - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
   <sup>
-   &#9733 586, pushed 3 days ago
+   &#9733 586, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3137,16 +3190,16 @@
   </a>
   The Serverless Application Framework (formerly JAWS).
   <sup>
-   &#9733 8016, pushed 2 days ago
+   &#9733 8016, pushed 126 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Tim-B/grunt-aws-lambda">
-   Tim-B/grunt-aws-lambda :fire:
+   Tim-B/grunt-aws-lambda :fire::fire:
   </a>
   - Grunt plugin.
   <sup>
-   &#9733 199, pushed 23 days ago
+   &#9733 199, pushed 148 days ago
   </sup>
  </li>
 </ul>
@@ -3163,7 +3216,7 @@
   </a>
   - Sample apps.
   <sup>
-   &#9733 356, pushed 42 days ago
+   &#9733 356, pushed 166 days ago
   </sup>
  </li>
 </ul>
@@ -3190,7 +3243,7 @@
   </a>
   - JavaScript SDK.
   <sup>
-   &#9733 33, pushed 71 days ago
+   &#9733 33, pushed 195 days ago
   </sup>
  </li>
 </ul>
@@ -3217,7 +3270,7 @@
   </a>
   - Attribute customization example.
   <sup>
-   &#9733 2, pushed 777 days ago
+   &#9733 2, pushed 902 days ago
   </sup>
  </li>
  <li>
@@ -3226,7 +3279,7 @@
   </a>
   - Capistrano with instances.
   <sup>
-   &#9733 7, pushed 127 days ago
+   &#9733 7, pushed 252 days ago
   </sup>
  </li>
  <li>
@@ -3241,7 +3294,7 @@
   </a>
   - Chef Cookbooks.
   <sup>
-   &#9733 860, pushed 8 days ago
+   &#9733 860, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -3250,7 +3303,7 @@
   </a>
   - Simple PHP photo share app.
   <sup>
-   &#9733 12, pushed 841 days ago
+   &#9733 12, pushed 965 days ago
   </sup>
  </li>
  <li>
@@ -3259,7 +3312,7 @@
   </a>
   - Simple PHP app.
   <sup>
-   &#9733 19, pushed 841 days ago
+   &#9733 19, pushed 965 days ago
   </sup>
  </li>
  <li>
@@ -3268,7 +3321,7 @@
   </a>
   - A sample Rails app.
   <sup>
-   &#9733 9, pushed 308 days ago
+   &#9733 9, pushed 433 days ago
   </sup>
  </li>
  <li>
@@ -3283,7 +3336,7 @@
   </a>
   - Cookbooks used with the sample apps.
   <sup>
-   &#9733 77, pushed 42 days ago
+   &#9733 77, pushed 167 days ago
   </sup>
  </li>
  <li>
@@ -3292,7 +3345,7 @@
   </a>
   - Cookbook used to demonstrate simple recipes.
   <sup>
-   &#9733 8, pushed 515 days ago
+   &#9733 8, pushed 639 days ago
   </sup>
  </li>
  <li>
@@ -3301,7 +3354,7 @@
   </a>
   - A sample Node.JS app.
   <sup>
-   &#9733 2, pushed 90 days ago
+   &#9733 2, pushed 214 days ago
   </sup>
  </li>
  <li>
@@ -3310,7 +3363,7 @@
   </a>
   - Cookbooks for Windows.
   <sup>
-   &#9733 2, pushed 229 days ago
+   &#9733 2, pushed 354 days ago
   </sup>
  </li>
  <li>
@@ -3319,7 +3372,7 @@
   </a>
   - Custom cookbooks associated with the todo-sample-app.
   <sup>
-   &#9733 4, pushed 393 days ago
+   &#9733 4, pushed 518 days ago
   </sup>
  </li>
 </ul>
@@ -3342,7 +3395,7 @@
 <ul>
  <li>
   <a href="https://github.com/awslabs/aws-lambda-redshift-loader">
-   aws-lambda-redshift-loader :fire:
+   aws-lambda-redshift-loader :fire::fire:
   </a>
   - Lambda database loader.
  </li>
@@ -3352,7 +3405,7 @@
   </a>
   - Applies optimal Column Encoding to existing Tables.
   <sup>
-   &#9733 301, pushed 5 days ago
+   &#9733 301, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -3362,7 +3415,7 @@
 <ul>
  <li>
   <a href="https://github.com/getredash/redash/">
-   getredash/redash :fire::fire::fire::fire:
+   getredash/redash :fire::fire::fire::fire::fire:
   </a>
   - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
  </li>
@@ -3372,7 +3425,7 @@
   </a>
   -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
   <sup>
-   &#9733 62, pushed 190 days ago
+   &#9733 62, pushed 315 days ago
   </sup>
  </li>
 </ul>
@@ -3389,7 +3442,7 @@
   </a>
   - Manages service-level fault isolation.
   <sup>
-   &#9733 104, pushed 901 days ago
+   &#9733 104, pushed 1025 days ago
   </sup>
  </li>
 </ul>
@@ -3403,16 +3456,16 @@
   </a>
   - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
   <sup>
-   &#9733 649, pushed 2 days ago
+   &#9733 649, pushed 127 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/winebarrel/roadworker">
-   winebarrel/roadworker :fire:
+   winebarrel/roadworker :fire::fire:
   </a>
   - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
   <sup>
-   &#9733 188, pushed 14 days ago
+   &#9733 188, pushed 139 days ago
   </sup>
  </li>
 </ul>
@@ -3433,7 +3486,7 @@
   </a>
   - Implements proxying of authenticated requests.
   <sup>
-   &#9733 154, pushed 2 days ago
+   &#9733 154, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3442,7 +3495,7 @@
   </a>
   - S3 command line tool, faster than S3cmd for large files.
   <sup>
-   &#9733 388, pushed 25 days ago
+   &#9733 388, pushed 150 days ago
   </sup>
  </li>
  <li>
@@ -3451,8 +3504,14 @@
   </a>
   - Upload files in meteor.
   <sup>
-   &#9733 419, pushed 49 days ago
+   &#9733 419, pushed 174 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/danilop/yas3fs">
+   danilop/yas3fs :fire::fire:
+  </a>
+  - Yet Another S3-backed File System, inspired by s3fs.
  </li>
  <li>
   <a href="https://github.com/grippy/node-s3">
@@ -3460,8 +3519,14 @@
   </a>
   - Node.js app to manage buckets.
   <sup>
-   &#9733 96, pushed 1631 days ago
+   &#9733 96, pushed 1755 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/littlstar/s3renity">
+   littlstar/s3renity
+  </a>
+  - Batch functions with concurrency control (each, map, reduce, filter, join)
  </li>
  <li>
   <a href="https://github.com/marcel/aws-s3">
@@ -3469,7 +3534,7 @@
   </a>
   - Ruby implementation of Amazon's S3 REST API.
   <sup>
-   &#9733 783, pushed 71 days ago
+   &#9733 783, pushed 195 days ago
   </sup>
  </li>
  <li>
@@ -3478,7 +3543,7 @@
   </a>
   - Flask extension.
   <sup>
-   &#9733 124, pushed 54 days ago
+   &#9733 124, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -3487,7 +3552,7 @@
   </a>
   - Grunt plugin.
   <sup>
-   &#9733 263, pushed 28 days ago
+   &#9733 263, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -3496,7 +3561,16 @@
   </a>
   -  Minio Client for filesystem and cloud storage.
   <sup>
-   &#9733 224, pushed 5 days ago
+   &#9733 224, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/minio/minio">
+   minio/minio :fire::fire::fire::fire::fire:
+  </a>
+  - Object storage server compatible with S3.
+  <sup>
+   &#9733 1147, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3505,7 +3579,7 @@
   </a>
   - Parallel upload/download to S3 via Python.
   <sup>
-   &#9733 121, pushed 160 days ago
+   &#9733 121, pushed 284 days ago
   </sup>
  </li>
  <li>
@@ -3514,7 +3588,7 @@
   </a>
   - Gulp plugin.
   <sup>
-   &#9733 259, pushed 1 days ago
+   &#9733 259, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3523,8 +3597,14 @@
   </a>
   - Fast, concurrent, streaming access, includes a CLI.
   <sup>
-   &#9733 666, pushed 6 days ago
+   &#9733 666, pushed 131 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/s3fs-fuse/s3fs-fuse">
+   s3fs-fuse/s3fs-fuse :fire::fire::fire::fire:
+  </a>
+  - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
  </li>
  <li>
   <a href="https://github.com/s3tools/s3cmd">
@@ -3532,7 +3612,7 @@
   </a>
   - CLI for managing S3 and CloudFront.
   <sup>
-   &#9733 1840, pushed 7 days ago
+   &#9733 1840, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3541,16 +3621,16 @@
   </a>
   - Deploy your git repo to a bucket.
   <sup>
-   &#9733 153, pushed 41 days ago
+   &#9733 153, pushed 166 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/sorentwo/carrierwave-aws">
-   sorentwo/carrierwave-aws :fire:
+   sorentwo/carrierwave-aws :fire::fire:
   </a>
   - Adapter for CarrierWave.
   <sup>
-   &#9733 186, pushed 165 days ago
+   &#9733 186, pushed 289 days ago
   </sup>
  </li>
  <li>
@@ -3559,7 +3639,7 @@
   </a>
   -  Maven Wagon for S3.
   <sup>
-   &#9733 121, pushed 53 days ago
+   &#9733 121, pushed 178 days ago
   </sup>
  </li>
  <li>
@@ -3568,7 +3648,7 @@
   </a>
   - Mounts buckets for use on a local file system.
   <sup>
-   &#9733 121, pushed 1116 days ago
+   &#9733 121, pushed 1240 days ago
   </sup>
  </li>
  <li>
@@ -3577,8 +3657,18 @@
   </a>
   - CLI that supports parallel uploads.
   <sup>
-   &#9733 152, pushed 29 days ago
+   &#9733 152, pushed 153 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/waynehoover/s3_direct_upload">
+   waynehoover/s3
+   <em>
+    direct
+   </em>
+   upload :fire::fire::fire:
+  </a>
+  - Direct Upload to Amazon S3 With CORS
  </li>
  <li>
   <a href="https://github.com/weavejester/clj-aws-s3">
@@ -3586,7 +3676,7 @@
   </a>
   - Client library for Clojure.
   <sup>
-   &#9733 179, pushed 13 days ago
+   &#9733 179, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -3603,7 +3693,7 @@
   </a>
   - Provides an easy ruby DSL & interface.
   <sup>
-   &#9733 479, pushed 534 days ago
+   &#9733 479, pushed 659 days ago
   </sup>
  </li>
 </ul>
@@ -3620,7 +3710,7 @@
   </a>
   - Creates background jobs and multistep workflows.
   <sup>
-   &#9733 122, pushed 69 days ago
+   &#9733 122, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -3629,7 +3719,7 @@
   </a>
   - AWS Flow Framework for Ruby samples.
   <sup>
-   &#9733 49, pushed 13 days ago
+   &#9733 49, pushed 137 days ago
   </sup>
  </li>
  <li>
@@ -3638,7 +3728,7 @@
   </a>
   - Hello World sample.
   <sup>
-   &#9733 4, pushed 609 days ago
+   &#9733 4, pushed 733 days ago
   </sup>
  </li>
 </ul>
@@ -3665,7 +3755,7 @@
   </a>
   - Node.js library.
   <sup>
-   &#9733 135, pushed 85 days ago
+   &#9733 135, pushed 210 days ago
   </sup>
  </li>
 </ul>
@@ -3682,7 +3772,7 @@
   </a>
   - Message validation for PHP.
   <sup>
-   &#9733 15, pushed 165 days ago
+   &#9733 15, pushed 289 days ago
   </sup>
  </li>
 </ul>
@@ -3709,7 +3799,7 @@
   </a>
   - Holds the Java Message Service to communicate with SQS.
   <sup>
-   &#9733 36, pushed 89 days ago
+   &#9733 36, pushed 214 days ago
   </sup>
  </li>
 </ul>
@@ -3723,7 +3813,7 @@
   </a>
   - A super efficient SQS thread based message processor for Ruby.
   <sup>
-   &#9733 682, pushed 6 days ago
+   &#9733 682, pushed 131 days ago
   </sup>
  </li>
 </ul>
@@ -3740,7 +3830,7 @@
   </a>
   - Big data/data science notebooks.
   <sup>
-   &#9733 5541, pushed 4 days ago
+   &#9733 5541, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3749,7 +3839,7 @@
   </a>
   - Spin up your Mesos Cluster with Vagrant.
   <sup>
-   &#9733 396, pushed 20 days ago
+   &#9733 396, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3758,7 +3848,7 @@
   </a>
   -  Define, run, and deploy big data apps using Docker.
   <sup>
-   &#9733 247, pushed 339 days ago
+   &#9733 247, pushed 464 days ago
   </sup>
  </li>
  <li>
@@ -3767,7 +3857,7 @@
   </a>
   - One click deploy for Storm clusters.
   <sup>
-   &#9733 494, pushed 287 days ago
+   &#9733 494, pushed 412 days ago
   </sup>
  </li>
 </ul>
@@ -3784,7 +3874,7 @@
   </a>
   - Development repository for aws Chef cookbook.
   <sup>
-   &#9733 243, pushed 3 days ago
+   &#9733 243, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3793,7 +3883,7 @@
   </a>
   - Tools for managing resources including EC2, EBS, RDS and Route53.
   <sup>
-   &#9733 800, pushed 6 days ago
+   &#9733 800, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3802,7 +3892,7 @@
   </a>
   - RSpec tests your resources.
   <sup>
-   &#9733 256, pushed 21 days ago
+   &#9733 256, pushed 145 days ago
   </sup>
  </li>
  <li>
@@ -3811,7 +3901,7 @@
   </a>
   - Use Vagrant to manage your EC2 and VPC instances.
   <sup>
-   &#9733 2063, pushed 22 days ago
+   &#9733 2063, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -3820,7 +3910,7 @@
   </a>
   - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
   <sup>
-   &#9733 244, pushed 5 days ago
+   &#9733 244, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -3837,7 +3927,7 @@
   </a>
   - SHA256 Agent Compatibility Ccanner.
   <sup>
-   &#9733 2, pushed 197 days ago
+   &#9733 2, pushed 321 days ago
   </sup>
  </li>
  <li>
@@ -3846,7 +3936,7 @@
   </a>
   - Token Vending Machine for Anonymous Registration.
   <sup>
-   &#9733 29, pushed 1358 days ago
+   &#9733 29, pushed 1483 days ago
   </sup>
  </li>
  <li>
@@ -3855,7 +3945,7 @@
   </a>
   - Token Vending Machine for Identity Registration.
   <sup>
-   &#9733 34, pushed 1358 days ago
+   &#9733 34, pushed 1483 days ago
   </sup>
  </li>
  <li>
@@ -3864,7 +3954,7 @@
   </a>
   - An implementation of the TLS/SSL protocols.
   <sup>
-   &#9733 2275, pushed 13 days ago
+   &#9733 2275, pushed 138 days ago
   </sup>
  </li>
 </ul>
@@ -3878,8 +3968,14 @@
   </a>
   - Easy, painless credentials on developer laptops.
   <sup>
-   &#9733 368, pushed 15 days ago
+   &#9733 368, pushed 140 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/alex/letsencrypt-aws">
+   alex/letsencrypt-aws :fire::fire::fire:
+  </a>
+  - Automatically provision and update certificates.
  </li>
  <li>
   <a href="https://github.com/cloudsploit/scans">
@@ -3887,7 +3983,7 @@
   </a>
   - Detects security risks.
   <sup>
-   &#9733 161, pushed 5 days ago
+   &#9733 161, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -3896,8 +3992,14 @@
   </a>
   - Security auditing tool.
   <sup>
-   &#9733 237, pushed 59 days ago
+   &#9733 237, pushed 184 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Netflix/bless">
+   Netflix/bless :fire::fire::fire:
+  </a>
+  - SSH Certificate Authority that runs as a Lambda function.
  </li>
  <li>
   <a href="https://github.com/Netflix/security_monkey">
@@ -3905,7 +4007,7 @@
   </a>
   - Monitors policy changes and alerts on insecure configurations.
   <sup>
-   &#9733 736, pushed 2 days ago
+   &#9733 736, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3914,7 +4016,7 @@
   </a>
   - Start a private VPN server in the cloud.
   <sup>
-   &#9733 118, pushed 75 days ago
+   &#9733 118, pushed 199 days ago
   </sup>
  </li>
 </ul>
@@ -3936,16 +4038,16 @@
   </a>
   - Jitter and backoff Simulator for AWS architecture blog.
   <sup>
-   &#9733 36, pushed 433 days ago
+   &#9733 36, pushed 557 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/aws-big-data-blog">
-   aws-big-data-blog :fire:
+   aws-big-data-blog :fire::fire:
   </a>
   - Samples from the AWS Big Data Blog.
   <sup>
-   &#9733 165, pushed 14 days ago
+   &#9733 165, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -3954,7 +4056,7 @@
   </a>
   - PHP apps from the AWS Blogs.
   <sup>
-   &#9733 2, pushed 46 days ago
+   &#9733 2, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -3963,7 +4065,7 @@
   </a>
   - Samples from the AWS Mobile SDK blog.
   <sup>
-   &#9733 2, pushed 353 days ago
+   &#9733 2, pushed 477 days ago
   </sup>
  </li>
  <li>
@@ -3972,7 +4074,7 @@
   </a>
   - Android Snake Game from a self-paced lab.
   <sup>
-   &#9733 8, pushed 453 days ago
+   &#9733 8, pushed 578 days ago
   </sup>
  </li>
  <li>
@@ -3981,7 +4083,7 @@
   </a>
   - Official repository for AWS Quick Start.
   <sup>
-   &#9733 73, pushed 4 days ago
+   &#9733 73, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -3990,7 +4092,7 @@
   </a>
   - Best practices using AWS Spot Instances.
   <sup>
-   &#9733 60, pushed 266 days ago
+   &#9733 60, pushed 390 days ago
   </sup>
  </li>
  <li>
@@ -3999,7 +4101,7 @@
   </a>
   - Demos from the Technical Trainers community.
   <sup>
-   &#9733 39, pushed 15 days ago
+   &#9733 39, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4008,7 +4110,7 @@
   </a>
   - Meme generation app from re:Invent 2012.
   <sup>
-   &#9733 32, pushed 895 days ago
+   &#9733 32, pushed 1019 days ago
   </sup>
  </li>
  <li>
@@ -4017,7 +4119,7 @@
   </a>
   - Seahorse demo from RailsConf 2013.
   <sup>
-   &#9733 164, pushed 1085 days ago
+   &#9733 164, pushed 1209 days ago
   </sup>
  </li>
  <li>
@@ -4026,7 +4128,7 @@
   </a>
   - Demo blogging app from re:Invent 2013.
   <sup>
-   &#9733 24, pushed 900 days ago
+   &#9733 24, pushed 1025 days ago
   </sup>
  </li>
  <li>
@@ -4035,7 +4137,7 @@
   </a>
   - Mobile photo share app from re:Invent 2014.
   <sup>
-   &#9733 18, pushed 18 days ago
+   &#9733 18, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -4044,7 +4146,7 @@
   </a>
   - Scalable site management sample from re:Invent 2014.
   <sup>
-   &#9733 48, pushed 14 days ago
+   &#9733 48, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -4053,7 +4155,7 @@
   </a>
   - Large Scale Metrics Analysis from re:Invent 2015.
   <sup>
-   &#9733 4, pushed 148 days ago
+   &#9733 4, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -4062,7 +4164,7 @@
   </a>
   - Security analytics sample from 2015 re:Invent 2015.
   <sup>
-   &#9733 12, pushed 207 days ago
+   &#9733 12, pushed 332 days ago
   </sup>
  </li>
  <li>
@@ -4071,7 +4173,7 @@
   </a>
   - Simple "Todo" app from RailsConf 2015.
   <sup>
-   &#9733 11, pushed 190 days ago
+   &#9733 11, pushed 315 days ago
   </sup>
  </li>
  <li>
@@ -4080,7 +4182,7 @@
   </a>
   - Simple "Todo" app from RailsConf 2014.
   <sup>
-   &#9733 17, pushed 518 days ago
+   &#9733 17, pushed 642 days ago
   </sup>
  </li>
 </ul>
@@ -4094,7 +4196,7 @@
   </a>
   -  EC2 setup files for Startup Engineering MOOC.
   <sup>
-   &#9733 285, pushed 51 days ago
+   &#9733 285, pushed 176 days ago
   </sup>
  </li>
 </ul>
@@ -4111,7 +4213,7 @@
   </a>
   - Media manager.
   <sup>
-   &#9733 39, pushed 337 days ago
+   &#9733 39, pushed 462 days ago
   </sup>
  </li>
  <li>
@@ -4120,7 +4222,7 @@
   </a>
   - Java client for the Hypertext Application Language.
   <sup>
-   &#9733 7, pushed 299 days ago
+   &#9733 7, pushed 424 days ago
   </sup>
  </li>
  <li>
@@ -4129,7 +4231,7 @@
   </a>
   - Tools for validating the AWS service JSON model files.
   <sup>
-   &#9733 4, pushed 350 days ago
+   &#9733 4, pushed 475 days ago
   </sup>
  </li>
  <li>
@@ -4138,16 +4240,16 @@
   </a>
   - Sample cross-platform video transcoder app.
   <sup>
-   &#9733 7, pushed 343 days ago
+   &#9733 7, pushed 468 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/awslabs/simplebeerservice">
-   simplebeerservice
+   simplebeerservice :fire:
   </a>
   - Cloud-connected kegerator that streams live sensor data to AWS.
   <sup>
-   &#9733 89, pushed 39 days ago
+   &#9733 89, pushed 163 days ago
   </sup>
  </li>
 </ul>
@@ -4161,7 +4263,7 @@
   </a>
   - Node.js/ImageMagick-based image thumbnailing service.
   <sup>
-   &#9733 418, pushed 54 days ago
+   &#9733 418, pushed 179 days ago
   </sup>
  </li>
  <li>
@@ -4170,8 +4272,14 @@
   </a>
   - Highly available, horizontally scalable queuing and notification service.
   <sup>
-   &#9733 211, pushed 116 days ago
+   &#9733 211, pushed 240 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/convox/rack">
+   convox/rack :fire::fire::fire::fire:
+  </a>
+  - Open-source PaaS on AWS.
  </li>
  <li>
   <a href="https://github.com/donnemartin/dev-setup">
@@ -4179,25 +4287,31 @@
   </a>
   - Mac setup of various developer tools and AWS services.
   <sup>
-   &#9733 1886, pushed 14 days ago
+   &#9733 1886, pushed 139 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/dtan4/terraforming">
-   dtan4/terraforming :fire::fire:
+   dtan4/terraforming :fire::fire::fire:
   </a>
   - Export existing resources to Terraform style (tf, tfstate).
   <sup>
-   &#9733 493, pushed 1 days ago
+   &#9733 493, pushed 126 days ago
   </sup>
  </li>
  <li>
+  <a href="https://github.com/segmentio/stack">
+   segmentio/stack :fire::fire::fire:
+  </a>
+  - A set of Terraform modules for configuring production infrastructure.
+ </li>
+ <li>
   <a href="https://github.com/j2labs/microarmy">
-   j2labs/microarmy :fire:
+   j2labs/microarmy
   </a>
   - Deploy micro instances to launch a coordinated siege.
   <sup>
-   &#9733 153, pushed 1512 days ago
+   &#9733 153, pushed 1636 days ago
   </sup>
  </li>
  <li>
@@ -4206,7 +4320,7 @@
   </a>
   - Grunt interface into the Node.JS SDK.
   <sup>
-   &#9733 165, pushed 27 days ago
+   &#9733 165, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -4215,7 +4329,7 @@
   </a>
   - Documentation on building a HTTPS stack with HAProxy.
   <sup>
-   &#9733 178, pushed 168 days ago
+   &#9733 178, pushed 292 days ago
   </sup>
  </li>
  <li>
@@ -4224,7 +4338,7 @@
   </a>
   - Easy-to-use pub/sub in Ruby.
   <sup>
-   &#9733 282, pushed 333 days ago
+   &#9733 282, pushed 457 days ago
   </sup>
  </li>
  <li>
@@ -4233,25 +4347,25 @@
   </a>
   - A featherweight PaaS on top of EC2 for deploying node apps.
   <sup>
-   &#9733 767, pushed 41 days ago
+   &#9733 767, pushed 165 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/aminator">
-   Netflix/aminator :fire::fire:
+   Netflix/aminator :fire::fire::fire:
   </a>
   - A tool for creating EBS AMIs.
   <sup>
-   &#9733 488, pushed 36 days ago
+   &#9733 488, pushed 161 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/archaius">
-   Netflix/archaius :fire::fire::fire:
+   Netflix/archaius :fire::fire::fire::fire:
   </a>
   - Library for configuration management API.
   <sup>
-   &#9733 892, pushed 6 days ago
+   &#9733 892, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -4260,7 +4374,7 @@
   </a>
   - Web interface for application deployments and cloud management.
   <sup>
-   &#9733 2092, pushed 8 days ago
+   &#9733 2092, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -4269,16 +4383,16 @@
   </a>
   - Tools for using auto scaling and documentation best practices.
   <sup>
-   &#9733 351, pushed 144 days ago
+   &#9733 351, pushed 268 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/eureka">
-   Netflix/eureka :fire::fire::fire::fire:
+   Netflix/eureka :fire::fire::fire::fire::fire:
   </a>
   - Service registry for resilient mid-tier load balancing and failover.
   <sup>
-   &#9733 1868, pushed 5 days ago
+   &#9733 1868, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -4287,7 +4401,7 @@
   </a>
   - A distributed in-memory data store.
   <sup>
-   &#9733 279, pushed 1 days ago
+   &#9733 279, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -4296,7 +4410,7 @@
   </a>
   - Extensible Scheduler for Mesos Frameworks.
   <sup>
-   &#9733 291, pushed 18 days ago
+   &#9733 291, pushed 142 days ago
   </sup>
  </li>
  <li>
@@ -4305,7 +4419,7 @@
   </a>
   - Usage and cost monitoring tool.
   <sup>
-   &#9733 1780, pushed 55 days ago
+   &#9733 1780, pushed 180 days ago
   </sup>
  </li>
  <li>
@@ -4314,7 +4428,7 @@
   </a>
   - Remote procedure call library with built in software load balancers.
   <sup>
-   &#9733 790, pushed 15 days ago
+   &#9733 790, pushed 140 days ago
   </sup>
  </li>
  <li>
@@ -4323,16 +4437,16 @@
   </a>
   - Tools to keep your cloud operating in top form.
   <sup>
-   &#9733 3979, pushed 34 days ago
+   &#9733 3979, pushed 159 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/Netflix/zuul">
-   Netflix/zuul :fire::fire::fire:
+   Netflix/zuul :fire::fire::fire::fire:
   </a>
   - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
   <sup>
-   &#9733 964, pushed 27 days ago
+   &#9733 964, pushed 151 days ago
   </sup>
  </li>
  <li>
@@ -4341,7 +4455,7 @@
   </a>
   - Open-source LaunchRock alternative. Build beautiful splash pages.
   <sup>
-   &#9733 430, pushed 32 days ago
+   &#9733 430, pushed 156 days ago
   </sup>
  </li>
  <li>
@@ -4350,17 +4464,23 @@
   </a>
   - Puppet module for managing resources to build out infrastructure.
   <sup>
-   &#9733 130, pushed 21 days ago
+   &#9733 130, pushed 146 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/mhart/react-server-routing-example">
-   react-server-routing-example :fire:
+   mhart/react-server-routing-example :fire::fire:
   </a>
   - Sample universal client/server routing and data in React.
   <sup>
-   &#9733 189, pushed 24 days ago
+   &#9733 189, pushed 149 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Spinnaker/spinnaker">
+   Spinnaker/spinnaker :fire::fire::fire::fire::fire:
+  </a>
+  - Successor to asgard supporting pipelines and more.
  </li>
  <li>
   <a href="https://github.com/spulec/moto">
@@ -4368,7 +4488,7 @@
   </a>
   - Allows your python tests to easily mock out the boto library.
   <sup>
-   &#9733 681, pushed 2 days ago
+   &#9733 681, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -4969,7 +5089,7 @@
    A Curated List of Engineering Blogs
   </a>
   <sup>
-   &#9733 7780, pushed 1 days ago
+   &#9733 7780, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -5426,7 +5546,7 @@
  <br/>
 </p>
 <p align="center">
- <img src="http://i.imgur.com/lWBVgEl.png">
+ <img src="http://i.imgur.com/cEyF2BL.png">
  </img>
 </p>
 <p>
@@ -5994,38 +6114,13 @@
 <p>
  Feel free to contact me to discuss any issues, questions, or comments.
 </p>
-<ul>
- <li>
-  Email:
-  <a href="mailto:donne.martin@gmail.com">
-   donne.martin@gmail.com
-  </a>
- </li>
- <li>
-  Twitter:
-  <a href="https://twitter.com/donne_martin">
-   donne_martin
-  </a>
- </li>
- <li>
-  GitHub:
-  <a href="https://github.com/donnemartin">
-   donnemartin
-  </a>
- </li>
- <li>
-  LinkedIn:
-  <a href="https://www.linkedin.com/in/donnemartin">
-   donnemartin
-  </a>
- </li>
- <li>
-  Website:
-  <a href="http://donnemartin.com">
-   donnemartin.com
-  </a>
- </li>
-</ul>
+<p>
+ My contact info can be found on my
+ <a href="https://github.com/donnemartin">
+  GitHub page
+ </a>
+ .
+</p>
 <h2>
  License
 </h2>

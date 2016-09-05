@@ -48,23 +48,6 @@
   </a>
  </li>
  <li>
-  <a href="#themes">
-   Themes
-  </a>
-  <ul>
-   <li>
-    <a href="#jekyll-themes">
-     Jekyll Themes
-    </a>
-   </li>
-  </ul>
- </li>
- <li>
-  <a href="#static-site-generators">
-   Static Site Generators
-  </a>
- </li>
- <li>
   <a href="#embeddable-content">
    Embeddable Content
   </a>
@@ -180,6 +163,11 @@
    Analytics
   </a>
  </li>
+ <li>
+  <a href="#showcases">
+   Showcases
+  </a>
+ </li>
 </ul>
 <hr/>
 <h2>
@@ -201,7 +189,7 @@
   </a>
   - A beautifully simple content authoring environment for static websites.
   <sup>
-   &#9733 3206, pushed 4 days ago
+   &#9733 3206, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -210,7 +198,7 @@
   </a>
   - A web interface for editing documents on GitHub.
   <sup>
-   &#9733 20, pushed 201 days ago
+   &#9733 20, pushed 326 days ago
   </sup>
  </li>
  <li>
@@ -219,7 +207,7 @@
   </a>
   - A github-pages compatible editor for Jekyll blogs.
   <sup>
-   &#9733 27, pushed 850 days ago
+   &#9733 27, pushed 975 days ago
   </sup>
  </li>
  <li>
@@ -228,7 +216,7 @@
   </a>
   - Html page that allows you to post new articles to your Github hosted site.
   <sup>
-   &#9733 87, pushed 87 days ago
+   &#9733 87, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -271,7 +259,7 @@
   </a>
   - A git client for iPhone and iPad.
   <sup>
-   &#9733 7528, pushed 1 days ago
+   &#9733 7528, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -279,6 +267,12 @@
    Working Copy
   </a>
   - A powerful git client for iOS.
+ </li>
+ <li>
+  <a href="http://omz-software.com/editorial/">
+   Editorial
+  </a>
+  - Plaintext/Markdown editor, programmable workflows, templates, can post to GitHub Pages and other platforms.
  </li>
 </ul>
 <h3>
@@ -326,7 +320,7 @@
   </a>
   - The missing static site theme package manager.
   <sup>
-   &#9733 29, pushed 247 days ago
+   &#9733 29, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -335,7 +329,7 @@
   </a>
   - Generate your Jekyll blog files and sends them through FTP.
   <sup>
-   &#9733 350, pushed 23 days ago
+   &#9733 350, pushed 148 days ago
   </sup>
  </li>
  <li>
@@ -344,7 +338,7 @@
   </a>
   - A shell script to help manage a Jekyll blog site.
   <sup>
-   &#9733 10, pushed 174 days ago
+   &#9733 10, pushed 299 days ago
   </sup>
  </li>
  <li>
@@ -353,7 +347,7 @@
   </a>
   - Static site quick starter script wizard.
   <sup>
-   &#9733 8, pushed 247 days ago
+   &#9733 8, pushed 372 days ago
   </sup>
  </li>
  <li>
@@ -362,45 +356,8 @@
   </a>
   - A set of configurable tasks for Jekyll projects.
   <sup>
-   &#9733 5, pushed 77 days ago
+   &#9733 5, pushed 201 days ago
   </sup>
- </li>
-</ul>
-<h2>
- Themes
-</h2>
-<h3>
- Jekyll Themes
-</h3>
-<ul>
- <li>
-  <a href="http://jekyllthemes.org/">
-   JekyllThemes.org
-  </a>
-  - Website showcasing Jekyll themes.
- </li>
- <li>
-  <a href="https://github.com/jekyll/jekyll/wiki/Themes">
-   Jekyll Wiki Themes
-  </a>
-  - List of themes on the Jekyll wiki.
- </li>
- <li>
-  <a href="http://jekyllthemes.io/">
-   JekyllThemes.io
-  </a>
-  - Premium and Free Jekyll Themes.
- </li>
-</ul>
-<h2>
- Static Site Generators
-</h2>
-<ul>
- <li>
-  <a href="http://www.staticgen.com/">
-   StaticGen
-  </a>
-  - Website showing static site generators and a lot of info about them.
  </li>
 </ul>
 <h2>
@@ -443,7 +400,7 @@
   </a>
   - Allows you to display the books in your Google Books Library.
   <sup>
-   &#9733 1, pushed 376 days ago
+   &#9733 1, pushed 500 days ago
   </sup>
  </li>
  <li>
@@ -605,6 +562,12 @@
   </a>
   - Embeddable front-end code examples.
  </li>
+ <li>
+  <a href="https://highlightjs.org/">
+   highlight.js
+  </a>
+  - Syntax highlighting for the web.
+ </li>
 </ul>
 <h2>
  Community
@@ -680,6 +643,12 @@
    Simple Form
   </a>
   - Simple forms with optional file attachments, email notifications, and online submission viewing.
+ </li>
+ <li>
+  <a href="https://github.com/stevensona/briskforms">
+   Brisk Forms
+  </a>
+  - Free form submission service emails you responses while keeping your email address private and is open source.
  </li>
 </ul>
 <h4>
@@ -972,6 +941,18 @@
   </a>
   - Static website hosting with online editor (using prose).
  </li>
+ <li>
+  <a href="https://pages.gitlab.io/">
+   GitLab Pages
+  </a>
+  - Free static hosting from GitLab.
+ </li>
+ <li>
+  <a href="https://www.aerobatic.com">
+   Aerobatic
+  </a>
+  - Free hosting with SSL, CDN, Automatic Builds, and CORS proxy
+ </li>
 </ul>
 <h3>
  Hosting Tools
@@ -983,7 +964,7 @@
   </a>
   - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
   <sup>
-   &#9733 1241, pushed 8 days ago
+   &#9733 1241, pushed 133 days ago
   </sup>
  </li>
 </ul>
@@ -1009,6 +990,12 @@
   </a>
   - Include a few lines of code for a full online shop.
  </li>
+ <li>
+  <a href="https://gumroad.com/">
+   Gumroad
+  </a>
+  - An all-in-one solution to sell your work.
+ </li>
 </ul>
 <h2>
  Search
@@ -1026,6 +1013,12 @@
   </a>
   - Search your site with a custom Google Search.
  </li>
+ <li>
+  <a href="https://www.algolia.com/">
+   Algolia
+  </a>
+  - Hosted Search API that delivers instant and relevant results from the first keystroke.
+ </li>
 </ul>
 <h2>
  Analytics
@@ -1038,6 +1031,18 @@
   - Free website analytics.
  </li>
 </ul>
+<h2>
+ Showcases
+</h2>
+<ul>
+ <li>
+  <a href="https://staticshowdown.com">
+   Static Showdown
+  </a>
+  - Worldwide 48-hour virtual hackathon for progressive web apps.
+ </li>
+</ul>
+<hr/>
 <h2>
  License
 </h2>

@@ -74,11 +74,6 @@
   </a>
   <ul>
    <li>
-    <a href="#push-notifications">
-     Push Notifications
-    </a>
-   </li>
-   <li>
     <a href="#permissions">
      Permissions
     </a>
@@ -119,13 +114,18 @@
     </a>
    </li>
    <li>
-    <a href="#web-manifest">
-     Web Manifest (Web Apps)
+    <a href="#requestidlecallback">
+     requestIdleCallback
     </a>
    </li>
    <li>
-    <a href="#requestidlecallback">
-     requestIdleCallback
+    <a href="#requestanimationframe">
+     requestAnimationFrame
+    </a>
+   </li>
+   <li>
+    <a href="#web-animations">
+     Web animations
     </a>
    </li>
   </ul>
@@ -158,6 +158,28 @@
    <li>
     <a href="#web-components">
      Web Components
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <a href="#progressive-web-apps">
+   Progressive web apps
+  </a>
+  <ul>
+   <li>
+    <a href="#service-workers">
+     Service Workers
+    </a>
+   </li>
+   <li>
+    <a href="#offline-caching">
+     Offline caching
+    </a>
+   </li>
+   <li>
+    <a href="#push-notifications">
+     Push Notifications
     </a>
    </li>
   </ul>
@@ -197,11 +219,6 @@
  <li>
   <a href="#web-workers">
    Web Workers
-  </a>
- </li>
- <li>
-  <a href="#service-workers">
-   Service Workers
   </a>
  </li>
  <li>
@@ -261,6 +278,16 @@
  Articles and standards
 </h2>
 <ul>
+ <li>
+  <a href="http://w3c.github.io/html/">
+   THML 5.2 Editor's Draft
+  </a>
+ </li>
+ <li>
+  <a href="https://extensiblewebmanifesto.org/">
+   The extensible web manifesto
+  </a>
+ </li>
  <li>
   <a href="http://www.w3.org/TR/html5-diff/">
    Differences bewtween HTML5 and HTML4 from W3C
@@ -385,7 +412,7 @@
 </h3>
 <ul>
  <li>
-  <a href="http://html5doctor.com/the-details-and-summary-elements/">
+  <a href="https://html5doctor.com/the-details-and-summary-elements/">
    Details element
   </a>
  </li>
@@ -400,7 +427,7 @@
 </h3>
 <ul>
  <li>
-  <a href="http://www.sitepoint.com/html5-time-element-guide/">
+  <a href="https://www.sitepoint.com/html5-time-element-guide/">
    Time element guide
   </a>
  </li>
@@ -429,31 +456,6 @@
  APIs
 </h2>
 <h3>
- Push Notifications
-</h3>
-<ul>
- <li>
-  <a href="http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128">
-   Push Notifications On The Web - Google Chrome
-  </a>
- </li>
- <li>
-  <a href="http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web">
-   Push Notifications on the Open Web
-  </a>
- </li>
- <li>
-  <a href="http://w3c.github.io/push-api/">
-   Push API W3C draft
-  </a>
- </li>
- <li>
-  <a href="https://notifications.spec.whatwg.org/">
-   Notifications API
-  </a>
- </li>
-</ul>
-<h3>
  Permissions
 </h3>
 <ul>
@@ -473,12 +475,12 @@
   </a>
  </li>
  <li>
-  <a href="http://shapeshed.com/html5-speech-recognition-api/">
+  <a href="https://shapeshed.com/html5-speech-recognition-api/">
    Another useful intro
   </a>
  </li>
  <li>
-  <a href="http://www.sitepoint.com/experimenting-web-speech-api/">
+  <a href="https://www.sitepoint.com/experimenting-web-speech-api/">
    Experimenting with the Web Speech API
   </a>
  </li>
@@ -558,7 +560,7 @@
   </a>
  </li>
  <li>
-  <a href="http://www.sitepoint.com/using-the-media-capture-api/">
+  <a href="https://www.sitepoint.com/using-the-media-capture-api/">
    Using the media capture API
   </a>
  </li>
@@ -604,37 +606,42 @@
  </li>
 </ul>
 <h3>
- Web Manifest
-</h3>
-<ul>
- <li>
-  <a href="http://www.html5rocks.com/en/tutorials/appcache/beginner/">
-   A Beginner's Guide to Using the Application Cache
-  </a>
- </li>
- <li>
-  <a href="https://developer.mozilla.org/en/Apps/Build/Manifest">
-   App manifest in MDN
-  </a>
- </li>
- <li>
-  <a href="https://w3c.github.io/manifest/">
-   Manifest for web application from W3C
-  </a>
- </li>
- <li>
-  <a href="http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android">
-   WebApp Manifest in Chrome for Android
-  </a>
- </li>
-</ul>
-<h3>
  requestIdleCallback
 </h3>
 <ul>
  <li>
   <a href="https://developers.google.com/web/updates/2015/08/using-requestidlecallback">
    On Google developers
+  </a>
+ </li>
+</ul>
+<h3>
+ requestAnimationFrame
+</h3>
+<ul>
+ <li>
+  <a href="https://css-tricks.com/using-requestanimationframe/">
+   Using requestAnimationFrame (CSS Tricks)
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub">
+   Great article by Paul Irish
+  </a>
+ </li>
+</ul>
+<h3>
+ Web animations
+</h3>
+<ul>
+ <li>
+  <a href="http://danielcwilson.com/blog/2015/07/animations-intro/">
+   Intro to web animations
+  </a>
+ </li>
+ <li>
+  <a href="http://danielcwilson.com/blog/2016/08/why-waapi/">
+   When to Use the Web Animations API
   </a>
  </li>
 </ul>
@@ -648,7 +655,7 @@
   </a>
  </li>
  <li>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines">
    Sections and Outlines of an HTML5 from MDN Document
   </a>
  </li>
@@ -678,7 +685,7 @@
   </a>
  </li>
  <li>
-  <a href="http://thepaciellogroup.github.io/AT-browser-tests/">
+  <a href="https://thepaciellogroup.github.io/AT-browser-tests/ ">
    Aural UI of the Elements of HTML
   </a>
  </li>
@@ -706,23 +713,13 @@
 </h3>
 <ul>
  <li>
-  <a href="http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966">
-   Intro to Shadow DOM
+  <a href="https://developers.google.com/web/fundamentals/primers/shadowdom/">
+   Shadow DOM v1: self-contained web components
   </a>
  </li>
  <li>
-  <a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/?redirect_from_locale=es">
-   Shadow DOM 101
-  </a>
- </li>
- <li>
-  <a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/">
-   Shadow DOM CSS and Styling
-  </a>
- </li>
- <li>
-  <a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/">
-   Advanced Concepts & DOM APIs
+  <a href="http://hayato.io/2016/shadowdomv1/">
+   What's New in Shadow DOM v1 (by examples)
   </a>
  </li>
 </ul>
@@ -762,6 +759,111 @@
  </li>
 </ul>
 <h2>
+ Progressive web apps
+</h2>
+<ul>
+ <li>
+  <a href="https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/">
+   The Business Case for Progressive Web Apps
+  </a>
+ </li>
+</ul>
+<h3>
+ Service Workers
+</h3>
+<ul>
+ <li>
+  <a href="https://serviceworke.rs/">
+   The Service Worker Cookbook
+  </a>
+ </li>
+ <li>
+  <a href="https://www.smashingmagazine.com/2016/02/making-a-service-worker/">
+   Making a Service Worker: a case study (Smashing Magazine)
+  </a>
+ </li>
+ <li>
+  <a href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/">
+   Great article on Service Workers
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/w3c/ServiceWorker/blob/master/explainer.md">
+   Service workers explained
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=IIRj8DftkqE">
+   Service Worker Libraries, Totally Tooling Tips
+  </a>
+ </li>
+ <li>
+  <a href="http://www.w3.org/TR/service-workers/">
+   Service Workers from W3
+  </a>
+ </li>
+ <li>
+  <a href="https://ponyfoo.com/articles/serviceworker-revolution">
+   ServiceWorker: Revolution of the Web Platform
+  </a>
+ </li>
+</ul>
+<h3>
+ Offline caching
+</h3>
+<ul>
+ <li>
+  <a href="https://www.youtube.com/watch?v=qDJAz3IIq18">
+   Instant-loading Offline-first (Progressive Web App Summit 2016)
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz">
+   Offline Storage for Progressive Web Apps (article by Addy Osmani)
+  </a>
+ </li>
+ <li>
+  <a href="http://www.html5rocks.com/en/tutorials/appcache/beginner/">
+   A Beginner's Guide to Using the Application Cache
+  </a>
+ </li>
+ <li>
+  <a href="https://w3c.github.io/manifest/">
+   Manifest for web application from W3C (working draft)
+  </a>
+ </li>
+ <li>
+  <a href="http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android">
+   WebApp Manifest in Chrome for Android
+  </a>
+ </li>
+</ul>
+<h3>
+ Push Notifications
+</h3>
+<ul>
+ <li>
+  <a href="http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128">
+   Push Notifications On The Web - Google Chrome
+  </a>
+ </li>
+ <li>
+  <a href="http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web">
+   Push Notifications on the Open Web
+  </a>
+ </li>
+ <li>
+  <a href="http://w3c.github.io/push-api/">
+   Push API W3C draft
+  </a>
+ </li>
+ <li>
+  <a href="https://notifications.spec.whatwg.org/">
+   Notifications API
+  </a>
+ </li>
+</ul>
+<h2>
  Client side storage
 </h2>
 <ul>
@@ -795,6 +897,11 @@
  Performance
 </h2>
 <ul>
+ <li>
+  <a href="https://www.ampproject.org/docs/get_started/about-amp.html">
+   Accelerated Mobile Pages (AMP)
+  </a>
+ </li>
  <li>
   <a href="https://developers.google.com/speed/docs/insights/rules">
    Google developers best practices
@@ -836,8 +943,8 @@
 </h2>
 <ul>
  <li>
-  <a href="http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android">
-   Installable web apps
+  <a href="https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android">
+   Installable Web Apps with the Web App Manifest in Chrome for Android
   </a>
  </li>
  <li>
@@ -866,9 +973,7 @@
   </a>
  </li>
  <li>
-  <a href="http://docs.telerik.com/KENDO-UI/controls/hybrid/introduction">
-   Build mobile apps with Kendo UI
-  </a>
+  [Build mobile apps with Kendo UI]http://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
  </li>
  <li>
   <a href="http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585">
@@ -965,26 +1070,6 @@
  </li>
 </ul>
 <h2>
- Service Workers
-</h2>
-<ul>
- <li>
-  <a href="https://www.smashingmagazine.com/2016/02/making-a-service-worker/">
-   Making a Service Worker: a case study (Smashing Magazine)
-  </a>
- </li>
- <li>
-  <a href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/">
-   Great article on Service Workers
-  </a>
- </li>
- <li>
-  <a href="http://www.w3.org/TR/service-workers/">
-   Service Workers from W3
-  </a>
- </li>
-</ul>
-<h2>
  WebGL
 </h2>
 <ul>
@@ -1034,7 +1119,7 @@
   </a>
  </li>
  <li>
-  <a href="http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027">
+  <a href="https://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027">
    HTML5: Up and Running
   </a>
  </li>
@@ -1064,7 +1149,7 @@
   </a>
  </li>
  <li>
-  <a href="http://www.html5gamedevelopment.com/">
+  <a href="http://html5gamedevelopment.com/">
    Info, news and tutorials
   </a>
  </li>
@@ -1086,7 +1171,7 @@
      phaser
     </a>
     <sup>
-     &#9733 12077, pushed 4 days ago
+     &#9733 12077, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -1094,7 +1179,7 @@
      MelonJS
     </a>
     <sup>
-     &#9733 1593, pushed 3 days ago
+     &#9733 1593, pushed 128 days ago
     </sup>
    </li>
    <li>
@@ -1102,7 +1187,7 @@
      kiwi.js
     </a>
     <sup>
-     &#9733 788, pushed 7 days ago
+     &#9733 788, pushed 131 days ago
     </sup>
    </li>
    <li>
@@ -1110,7 +1195,7 @@
      Crafty
     </a>
     <sup>
-     &#9733 2065, pushed 1 days ago
+     &#9733 2065, pushed 125 days ago
     </sup>
    </li>
    <li>
@@ -1118,7 +1203,7 @@
      PhysicsJS
     </a>
     <sup>
-     &#9733 2681, pushed 11 days ago
+     &#9733 2681, pushed 136 days ago
     </sup>
    </li>
    <li>
@@ -1126,7 +1211,7 @@
      Stage.js
     </a>
     <sup>
-     &#9733 946, pushed 51 days ago
+     &#9733 946, pushed 176 days ago
     </sup>
    </li>
    <li>
@@ -1134,12 +1219,12 @@
      cocos2d
     </a>
     <sup>
-     &#9733 1956, pushed 1 days ago
+     &#9733 1956, pushed 126 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 10286, pushed 2 days ago
+   &#9733 10286, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1200,7 +1285,7 @@
   (a showcase of sites using HTML5 markup and API's)
  </li>
  <li>
-  <a href="http://html5doctor.com/">
+  <a href="https://html5doctor.com/">
    HTML5 Doctor
   </a>
   (tutorials and articles)
@@ -1232,7 +1317,7 @@
   </a>
  </li>
  <li>
-  <a href="http://webplatformdaily.org/">
+  <a href="https://webplatformdaily.org/">
    Open Web Platform Daily Digest
   </a>
  </li>
@@ -1301,7 +1386,7 @@
    awesome-awesomeness
   </a>
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -1309,7 +1394,7 @@
    lists
   </a>
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
 </ul>

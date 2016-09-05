@@ -248,7 +248,7 @@
    Official GitHub Repo
   </a>
   <sup>
-   &#9733 11195, pushed 2 days ago
+   &#9733 11195, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -342,7 +342,7 @@
    Angular 2 Universal Repository (GitHub)
   </a>
   <sup>
-   &#9733 675, pushed 4 days ago
+   &#9733 675, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -368,7 +368,7 @@
    Angular2 Dart cheatsheet
   </a>
   <sup>
-   &#9733 7, pushed 241 days ago
+   &#9733 7, pushed 366 days ago
   </sup>
  </li>
 </ul>
@@ -584,7 +584,7 @@
    nativescript-angular
   </a>
   <sup>
-   &#9733 211, pushed 5 days ago
+   &#9733 211, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -592,7 +592,7 @@
    react-native-renderer
   </a>
   <sup>
-   &#9733 258, pushed 4 days ago
+   &#9733 258, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -610,7 +610,7 @@
    ng2-bootstrap: Native Angular2 bootstrap components
   </a>
   <sup>
-   &#9733 685, pushed 2 days ago
+   &#9733 685, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -637,7 +637,7 @@
      swirlycheetah/generator-angular2
     </a>
     <sup>
-     &#9733 217, pushed 36 days ago
+     &#9733 217, pushed 161 days ago
     </sup>
    </li>
   </ul>
@@ -655,7 +655,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 1, pushed 95 days ago
+   &#9733 1, pushed 220 days ago
   </sup>
  </li>
 </ul>
@@ -686,7 +686,7 @@
    Universal Angular 2 Repository (GitHub)
   </a>
   <sup>
-   &#9733 675, pushed 4 days ago
+   &#9733 675, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -732,7 +732,7 @@
   </a>
   Official Github Repo for TypeScript
   <sup>
-   &#9733 11210, pushed 2 days ago
+   &#9733 11210, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -785,7 +785,7 @@
   </a>
   Angular 2.0 sample components
   <sup>
-   &#9733 520, pushed 2 days ago
+   &#9733 520, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -851,7 +851,7 @@
   </a>
   A minimal quick start project.
   <sup>
-   &#9733 3, pushed 134 days ago
+   &#9733 3, pushed 258 days ago
   </sup>
  </li>
 </ul>
@@ -871,7 +871,7 @@
   </a>
   Examples of Pipes in Angular 2 for Dart.
   <sup>
-   &#9733 3, pushed 200 days ago
+   &#9733 3, pushed 325 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +880,7 @@
   </a>
   A HackerNews application made with Angular 2 for Dart
   <sup>
-   &#9733 10, pushed 129 days ago
+   &#9733 10, pushed 253 days ago
   </sup>
  </li>
  <li>
@@ -889,7 +889,7 @@
   </a>
   A basic example of Angular 2 router.
   <sup>
-   &#9733 0, pushed 134 days ago
+   &#9733 0, pushed 258 days ago
   </sup>
  </li>
 </ul>
@@ -923,7 +923,7 @@
   </a>
   Official Github Repo for Babel
   <sup>
-   &#9733 15314, pushed 2 days ago
+   &#9733 15314, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -940,7 +940,7 @@
   </a>
   A skeleton Angular 2 app built with babel.
   <sup>
-   &#9733 212, pushed 4 days ago
+   &#9733 212, pushed 129 days ago
   </sup>
  </li>
 </ul>
@@ -978,7 +978,7 @@
    angular2haxe
   </a>
   <sup>
-   &#9733 21, pushed 79 days ago
+   &#9733 21, pushed 204 days ago
   </sup>
  </li>
 </ul>
@@ -999,7 +999,7 @@
    play-angular2
   </a>
   <sup>
-   &#9733 7, pushed 274 days ago
+   &#9733 7, pushed 398 days ago
   </sup>
  </li>
 </ul>
@@ -1015,7 +1015,7 @@
    Repository (GitHub)
   </a>
   <sup>
-   &#9733 442, pushed 106 days ago
+   &#9733 442, pushed 230 days ago
   </sup>
  </li>
 </ul>
@@ -1047,7 +1047,7 @@
    sample-Angular2
   </a>
   <sup>
-   &#9733 48, pushed 140 days ago
+   &#9733 48, pushed 265 days ago
   </sup>
  </li>
 </ul>

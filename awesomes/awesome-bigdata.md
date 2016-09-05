@@ -245,7 +245,7 @@
   </a>
   - High Throughput Real-time Stream Processing Framework.
   <sup>
-   &#9733 221, pushed 214 days ago
+   &#9733 221, pushed 338 days ago
   </sup>
  </li>
 </ul>
@@ -259,7 +259,7 @@
   </a>
   - distributed data processing and storage system originally developed at AddThis.
   <sup>
-   &#9733 333, pushed 4 days ago
+   &#9733 333, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -267,6 +267,12 @@
    AMPLab SIMR
   </a>
   - run Spark on Hadoop MapReduce v1.
+ </li>
+ <li>
+  <a href="https://apex.apache.org/">
+   Apache APEX
+  </a>
+  - a unified, enterprise platform for big data stream and batch processing.
  </li>
  <li>
   <a href="http://incubator.apache.org/projects/beam.html">
@@ -291,6 +297,12 @@
    Apache Flink
   </a>
   - high-performance runtime, and automatic program optimization.
+ </li>
+ <li>
+  <a href="http://gearpump.apache.org/">
+   Apache Gearpump
+  </a>
+  - real-time big data streaming engine based on Akka.
  </li>
  <li>
   <a href="http://gora.apache.org/">
@@ -388,7 +400,7 @@
   </a>
   - MapReduce library for Clojure.
   <sup>
-   &#9733 249, pushed 41 days ago
+   &#9733 249, pushed 166 days ago
   </sup>
  </li>
  <li>
@@ -397,7 +409,7 @@
   </a>
   - alternative MapReduce paradigm.
   <sup>
-   &#9733 60, pushed 327 days ago
+   &#9733 60, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -466,7 +478,7 @@
   </a>
   - map-reduce for Clojure which compiles to Apache Pig.
   <sup>
-   &#9733 419, pushed 8 days ago
+   &#9733 419, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -517,8 +529,14 @@
   </a>
   - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
   <sup>
-   &#9733 17, pushed 2 days ago
+   &#9733 17, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/twitter/heron">
+   Twitter Heron
+  </a>
+  - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter replacing Storm.
  </li>
  <li>
   <a href="https://github.com/twitter/scalding">
@@ -526,7 +544,7 @@
   </a>
   - Scala library for Map Reduce jobs, built on Cascading.
   <sup>
-   &#9733 2496, pushed 5 days ago
+   &#9733 2496, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -535,7 +553,7 @@
   </a>
   - Streaming MapReduce with Scalding and Storm, by Twitter.
   <sup>
-   &#9733 1706, pushed 88 days ago
+   &#9733 1706, pushed 212 days ago
   </sup>
  </li>
  <li>
@@ -549,6 +567,12 @@
  Distributed Filesystem
 </h2>
 <ul>
+ <li>
+  <a href="https://github.com/linkedin/ambry">
+   Ambry
+  </a>
+  - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
+ </li>
  <li>
   <a href="http://hadoop.apache.org/">
    Apache HDFS
@@ -627,7 +651,7 @@
   </a>
   - simple and highly scalable distributed file system.
   <sup>
-   &#9733 2415, pushed 5 days ago
+   &#9733 2415, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -794,7 +818,7 @@
   </a>
   - Transactions for HBase.
   <sup>
-   &#9733 125, pushed 8 days ago
+   &#9733 125, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -821,6 +845,21 @@
   - distributed key/value store, implementation of Dynamo paper.
  </li>
  <li>
+  <a href="https://github.com/boltdb/bolt">
+   Bolt
+  </a>
+  - an embedded key-value database for Go.
+  <sup>
+   &#9733 4094, pushed 134 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/tidwall/buntdb">
+   BuntDB
+  </a>
+  - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+ </li>
+ <li>
   <a href="http://inaka.github.io/edis/">
    Edis
   </a>
@@ -832,7 +871,7 @@
   </a>
   - Distributed database specialized in exporting data from Hadoop.
   <sup>
-   &#9733 491, pushed 676 days ago
+   &#9733 491, pushed 801 days ago
   </sup>
  </li>
  <li>
@@ -847,7 +886,16 @@
   </a>
   - suitable for sensor data stored in a timeseries.
   <sup>
-   &#9733 256, pushed 62 days ago
+   &#9733 256, pushed 187 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/rescrv/HyperDex">
+   HyperDex
+  </a>
+  - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
+  <sup>
+   &#9733 1064, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -880,7 +928,7 @@
   </a>
   - a decentralized datastore.
   <sup>
-   &#9733 2467, pushed 4 days ago
+   &#9733 2467, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -889,7 +937,7 @@
   </a>
   - library to work with asynchronous key value stores, by Twitter.
   <sup>
-   &#9733 369, pushed 14 days ago
+   &#9733 369, pushed 139 days ago
   </sup>
  </li>
  <li>
@@ -898,7 +946,7 @@
   </a>
   - an efficient NoSQL database and a Lua application server.
   <sup>
-   &#9733 939, pushed 2 days ago
+   &#9733 939, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -907,7 +955,7 @@
   </a>
   - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
   <sup>
-   &#9733 600, pushed 2 days ago
+   &#9733 600, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -916,7 +964,7 @@
   </a>
   - key-value store that's replicated and sharded and provides atomic multirow writes.
   <sup>
-   &#9733 157, pushed 185 days ago
+   &#9733 157, pushed 310 days ago
   </sup>
  </li>
 </ul>
@@ -948,7 +996,7 @@
   </a>
   - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
   <sup>
-   &#9733 1137, pushed 2 days ago
+   &#9733 1137, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -963,7 +1011,7 @@
   </a>
   - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
   <sup>
-   &#9733 1163, pushed 2 days ago
+   &#9733 1163, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -972,7 +1020,7 @@
   </a>
   - open-source graph database.
   <sup>
-   &#9733 7409, pushed 8 days ago
+   &#9733 7409, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -999,7 +1047,7 @@
   </a>
   - graph traversal Language.
   <sup>
-   &#9733 1493, pushed 91 days ago
+   &#9733 1493, pushed 216 days ago
   </sup>
  </li>
  <li>
@@ -1008,7 +1056,7 @@
   </a>
   - RDF-centric Map/Reduce framework.
   <sup>
-   &#9733 130, pushed 504 days ago
+   &#9733 130, pushed 629 days ago
   </sup>
  </li>
  <li>
@@ -1041,7 +1089,7 @@
   </a>
   - framework for large scale graph processing.
   <sup>
-   &#9733 363, pushed 1570 days ago
+   &#9733 363, pushed 1695 days ago
   </sup>
  </li>
  <li>
@@ -1056,7 +1104,7 @@
   </a>
   - distributed graph database.
   <sup>
-   &#9733 2814, pushed 216 days ago
+   &#9733 2814, pushed 341 days ago
   </sup>
  </li>
 </ul>
@@ -1091,6 +1139,18 @@
    C-Store
   </a>
   - column oriented DBMS.
+ </li>
+ <li>
+  <a href="https://clickhouse.yandex/">
+   ClickHouse
+  </a>
+  - an open-source column-oriented database management system that allows generating analytical data reports in real time.
+ </li>
+ <li>
+  <a href="http://eventql.io/">
+   EventQL
+  </a>
+  - a distributed, column-oriented database built for large-scale event collection and analytics.
  </li>
  <li>
   <a href="https://www.monetdb.org/">
@@ -1163,7 +1223,7 @@
   </a>
   - Scalable, Geo-Replicated, Transactional Datastore.
   <sup>
-   &#9733 6802, pushed 2 days ago
+   &#9733 6802, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1202,7 +1262,7 @@
   </a>
   - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
   <sup>
-   &#9733 122, pushed 33 days ago
+   &#9733 122, pushed 158 days ago
   </sup>
  </li>
  <li>
@@ -1277,7 +1337,7 @@
   </a>
   - TiDB is a distributed SQL database. Inspired by the design of Google F1.
   <sup>
-   &#9733 3878, pushed 4 days ago
+   &#9733 3878, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1292,16 +1352,22 @@
 </h2>
 <ul>
  <li>
-  <a href="http://square.github.io/cube/">
-   Cube
-  </a>
-  - uses MongoDB to store time series data.
- </li>
- <li>
   <a href="http://axibase.com/products/axibase-time-series-database/">
    Axibase Time Series Database
   </a>
   - distributed time series database on top of HBase. Includes built-in Rule Engine, data forecasting and visualization.
+ </li>
+ <li>
+  <a href="http://chronix.io/">
+   Chronix
+  </a>
+  - a time series storage built to store time series highly compressed and for fast access times.
+ </li>
+ <li>
+  <a href="http://square.github.io/cube/">
+   Cube
+  </a>
+  - uses MongoDB to store time series data.
  </li>
  <li>
   <a href="https://spotify.github.io/heroic/#!/index">
@@ -1316,10 +1382,19 @@
   - distributed time series database.
  </li>
  <li>
-  <a href="https://code.google.com/p/kairosdb/">
+  <a href="https://github.com/kairosdb/kairosdb">
    Kairosdb
   </a>
   - similar to OpenTSDB but allows for Cassandra.
+  <sup>
+   &#9733 814, pushed 128 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://opennms.github.io/newts/">
+   Newts
+  </a>
+  - a time series database based on Apache Cassandra.
  </li>
  <li>
   <a href="http://opentsdb.net">
@@ -1331,13 +1406,13 @@
   <a href="http://prometheus.io">
    Prometheus
   </a>
-  - a time series database and service monitoring system
+  - a time series database and service monitoring system.
  </li>
  <li>
-  <a href="https://opennms.github.io/newts/">
-   Newts
+  <a href="http://traildb.io/">
+   TrailDB
   </a>
-  - a time series database based on Apache Cassandra
+  - an efficient tool for storing and querying series of events.
  </li>
 </ul>
 <h2>
@@ -1369,8 +1444,8 @@
   - SQL-like data warehouse system for Hadoop.
  </li>
  <li>
-  <a href="https://wiki.apache.org/incubator/OptiqProposal">
-   Apache Optiq
+  <a href="http://calcite.apache.org/">
+   Apache Calcite
   </a>
   - framework that allows efficient translation of queries involving heterogeneous and federated data.
  </li>
@@ -1505,7 +1580,7 @@
   </a>
   - streamed log data aggregator.
   <sup>
-   &#9733 3236, pushed 707 days ago
+   &#9733 3236, pushed 831 days ago
   </sup>
  </li>
  <li>
@@ -1526,7 +1601,7 @@
   </a>
   - open source stream processing software system.
   <sup>
-   &#9733 3045, pushed 4 days ago
+   &#9733 3045, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1535,7 +1610,7 @@
   </a>
   - framework for connecting disparate data sources with Hadoop.
   <sup>
-   &#9733 76, pushed 1118 days ago
+   &#9733 76, pushed 1243 days ago
   </sup>
  </li>
  <li>
@@ -1556,7 +1631,7 @@
   </a>
   - utility package for compressing sorted integer arrays.
   <sup>
-   &#9733 19, pushed 788 days ago
+   &#9733 19, pushed 912 days ago
   </sup>
  </li>
  <li>
@@ -1565,7 +1640,7 @@
   </a>
   - log aggregator and dashboard.
   <sup>
-   &#9733 171, pushed 917 days ago
+   &#9733 171, pushed 1041 days ago
   </sup>
  </li>
  <li>
@@ -1580,7 +1655,7 @@
   </a>
   - log agregattor like Storm and Samza based on Chukwa.
   <sup>
-   &#9733 503, pushed 144 days ago
+   &#9733 503, pushed 268 days ago
   </sup>
  </li>
  <li>
@@ -1589,7 +1664,7 @@
   </a>
   - is a service implementing Kafka log persistance.
   <sup>
-   &#9733 615, pushed 1 days ago
+   &#9733 615, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1598,7 +1673,7 @@
   </a>
   - linkedin's universal data ingestion framework.
   <sup>
-   &#9733 545, pushed 1 days ago
+   &#9733 545, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1607,7 +1682,7 @@
   </a>
   - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
   <sup>
-   &#9733 689, pushed 1 days ago
+   &#9733 689, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1616,7 +1691,7 @@
   </a>
   - continuous big data ingest infrastructure with a simple to use IDE.
   <sup>
-   &#9733 98, pushed 1 days ago
+   &#9733 98, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -1690,7 +1765,7 @@
   </a>
   - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
   <sup>
-   &#9733 4510, pushed 1 days ago
+   &#9733 4510, pushed 125 days ago
   </sup>
  </li>
  <li>
@@ -1699,7 +1774,7 @@
   </a>
   - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
   <sup>
-   &#9733 366, pushed 28 days ago
+   &#9733 366, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1708,7 +1783,7 @@
   </a>
   - libraries for working with LZOP-compressed data.
   <sup>
-   &#9733 962, pushed 29 days ago
+   &#9733 962, pushed 153 days ago
   </sup>
  </li>
  <li>
@@ -1758,7 +1833,7 @@
   </a>
   - Scala DSL for agile scheduling of Hadoop jobs.
   <sup>
-   &#9733 36, pushed 4 days ago
+   &#9733 36, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1767,7 +1842,7 @@
   </a>
   - scheduling platform.
   <sup>
-   &#9733 197, pushed 907 days ago
+   &#9733 197, pushed 1031 days ago
   </sup>
  </li>
  <li>
@@ -1776,7 +1851,7 @@
   </a>
   -  a platform to programmatically author, schedule and monitor workflows.
   <sup>
-   &#9733 2594, pushed 2 days ago
+   &#9733 2594, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1796,7 +1871,7 @@
   </a>
   - Neural networks in JavaScript.
   <sup>
-   &#9733 6952, pushed 186 days ago
+   &#9733 6952, pushed 311 days ago
   </sup>
  </li>
  <li>
@@ -1805,7 +1880,7 @@
   </a>
   - real-time large-scale machine learning.
   <sup>
-   &#9733 1303, pushed 45 days ago
+   &#9733 1303, pushed 170 days ago
   </sup>
  </li>
  <li>
@@ -1820,7 +1895,7 @@
   </a>
   - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
   <sup>
-   &#9733 4672, pushed 51 days ago
+   &#9733 4672, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -1829,7 +1904,7 @@
   </a>
   - Flexible and Extensible Machine Learning in Ruby.
   <sup>
-   &#9733 322, pushed 2438 days ago
+   &#9733 322, pushed 2562 days ago
   </sup>
  </li>
  <li>
@@ -1850,7 +1925,7 @@
   </a>
   - scalable Machine Learning in Scalding.
   <sup>
-   &#9733 307, pushed 1 days ago
+   &#9733 307, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1883,8 +1958,14 @@
   </a>
   - Fast multilayer perceptron neural network library for iOS and Mac OS X.
   <sup>
-   &#9733 807, pushed 225 days ago
+   &#9733 807, pushed 350 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://moa.cms.waikato.ac.nz">
+   MOA
+  </a>
+  - MOA performs big data stream mining in real time, and large scale machine learning.
  </li>
  <li>
   <a href="http://www.monkeylearn.com/">
@@ -1898,7 +1979,7 @@
   </a>
   - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
   <sup>
-   &#9733 4079, pushed 5 days ago
+   &#9733 4079, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1919,7 +2000,7 @@
   </a>
   - scikit-learn: machine learning in Python.
   <sup>
-   &#9733 11149, pushed 2 days ago
+   &#9733 11149, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1946,7 +2027,22 @@
   </a>
   - CPU and GPU-accelerated Machine Learning Library.
   <sup>
-   &#9733 569, pushed 2 days ago
+   &#9733 569, pushed 126 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/amplab/velox-modelserver">
+   Velox
+  </a>
+  - System for serving machine learning predictions.
+ </li>
+ <li>
+  <a href="https://github.com/tensorflow/tensorflow">
+   TensorFlow
+  </a>
+  - Open source software library from Google for machine learning using data flow graphs.
+  <sup>
+   &#9733 22733, pushed 125 days ago
   </sup>
  </li>
 </ul>
@@ -1972,7 +2068,7 @@
   </a>
   - a Hadoop benchmark suite.
   <sup>
-   &#9733 358, pushed 13 days ago
+   &#9733 358, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1992,6 +2088,12 @@
  Security
 </h2>
 <ul>
+ <li>
+  <a href="https://eagle.incubator.apache.org/">
+   Apache Eagle
+  </a>
+  - real time monitoring solution
+ </li>
  <li>
   <a href="http://knox.apache.org/">
    Apache Knox Gateway
@@ -2039,7 +2141,7 @@
   </a>
   - is a YARN application to deploy existing distributed applications on YARN.
   <sup>
-   &#9733 40, pushed 4 days ago
+   &#9733 40, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2102,7 +2204,7 @@
   </a>
   - Mesos framework for long-running services.
   <sup>
-   &#9733 2458, pushed 1 days ago
+   &#9733 2458, pushed 126 days ago
   </sup>
  </li>
 </ul>
@@ -2116,7 +2218,7 @@
   </a>
   - Next-generation web analytics processing with Scala, Spark, and Parquet.
   <sup>
-   &#9733 297, pushed 402 days ago
+   &#9733 297, pushed 527 days ago
   </sup>
  </li>
  <li>
@@ -2124,6 +2226,12 @@
    Apache Kiji
   </a>
   - framework to collect and analyze data in real-time, based on HBase.
+ </li>
+ <li>
+  <a href="https://metron.incubator.apache.org/">
+   Apache Metron
+  </a>
+  - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
  </li>
  <li>
   <a href="http://nutch.apache.org/">
@@ -2149,7 +2257,7 @@
   </a>
   - Time series monitoring and alerting platform.
   <sup>
-   &#9733 144, pushed 7 days ago
+   &#9733 144, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2171,12 +2279,21 @@
   - Eclipse-based reporting system.
  </li>
  <li>
+  <a href="https://github.com/Yelp/elastalert">
+   ElastAert
+  </a>
+  - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
+  <sup>
+   &#9733 1777, pushed 129 days ago
+  </sup>
+ </li>
+ <li>
   <a href="https://github.com/Codecademy/EventHub">
    Eventhub
   </a>
   - open source event analytics platform.
   <sup>
-   &#9733 1133, pushed 625 days ago
+   &#9733 1133, pushed 749 days ago
   </sup>
  </li>
  <li>
@@ -2185,7 +2302,7 @@
   </a>
   - asynchronous message broker built on top of Kafka.
   <sup>
-   &#9733 175, pushed 3 days ago
+   &#9733 175, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -2213,6 +2330,12 @@
   - data-processing library of an RDBMS to analyze data.
  </li>
  <li>
+  <a href="https://github.com/influxdata/kapacitor">
+   Kapacitor
+  </a>
+  - an open source framework for processing, monitoring, and alerting on time series data.
+ </li>
+ <li>
   <a href="http://kylin.apache.org/">
    Kylin
   </a>
@@ -2224,7 +2347,7 @@
   </a>
   - R on Pivotal HD / HAWQ and PostgreSQL.
   <sup>
-   &#9733 89, pushed 272 days ago
+   &#9733 89, pushed 397 days ago
   </sup>
  </li>
  <li>
@@ -2245,7 +2368,7 @@
   </a>
   - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
   <sup>
-   &#9733 264, pushed 2 days ago
+   &#9733 264, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2254,7 +2377,7 @@
   </a>
   - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
   <sup>
-   &#9733 2650, pushed 2 days ago
+   &#9733 2650, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2364,7 +2487,7 @@
   </a>
   - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
   <sup>
-   &#9733 498, pushed 902 days ago
+   &#9733 498, pushed 1027 days ago
   </sup>
  </li>
  <li>
@@ -2379,7 +2502,7 @@
   </a>
   - is a realtime search/indexing system written in Java.
   <sup>
-   &#9733 330, pushed 805 days ago
+   &#9733 330, pushed 930 days ago
   </sup>
  </li>
  <li>
@@ -2435,7 +2558,7 @@
   </a>
   - High Performance Proxy for MySQL.
   <sup>
-   &#9733 7, pushed 128 days ago
+   &#9733 7, pushed 253 days ago
   </sup>
  </li>
  <li>
@@ -2514,7 +2637,7 @@
   </a>
   - A fast, light-weight proxy for memcached and redis.
   <sup>
-   &#9733 5286, pushed 36 days ago
+   &#9733 5286, pushed 160 days ago
   </sup>
  </li>
  <li>
@@ -2523,7 +2646,7 @@
   </a>
   - key/value cache for flash storage.
   <sup>
-   &#9733 1090, pushed 205 days ago
+   &#9733 1090, pushed 329 days ago
   </sup>
  </li>
  <li>
@@ -2532,7 +2655,7 @@
   </a>
   - fork of Memcache.
   <sup>
-   &#9733 735, pushed 245 days ago
+   &#9733 735, pushed 369 days ago
   </sup>
  </li>
 </ul>
@@ -2558,7 +2681,7 @@
   </a>
   - Erlang LSM BTree Storage.
   <sup>
-   &#9733 234, pushed 39 days ago
+   &#9733 234, pushed 163 days ago
   </sup>
  </li>
  <li>
@@ -2567,7 +2690,7 @@
   </a>
   - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
   <sup>
-   &#9733 5683, pushed 4 days ago
+   &#9733 5683, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2606,6 +2729,12 @@
   - self-service business intelligence tool in the cloud.
  </li>
  <li>
+  <a href="http://www.gooddata.com/">
+   GoodData
+  </a>
+  - platform for data products and embedded analytics.
+ </li>
+ <li>
   <a href="https://www.jaspersoft.com/">
    Jaspersoft
   </a>
@@ -2640,6 +2769,12 @@
    Qlik
   </a>
   - business intelligence and analytics platform.
+ </li>
+ <li>
+  <a href="http://redash.io/">
+   Redash
+  </a>
+  - Open source business intelligence platform, supporting multiple data sources and planned queries.
  </li>
  <li>
   <a href="http://www.meteorite.bi/">
@@ -2682,8 +2817,14 @@
   </a>
   - Web UI for PrestoDB.
   <sup>
-   &#9733 1638, pushed 1 days ago
+   &#9733 1638, pushed 125 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://www.anychart.com">
+   AnyChart
+  </a>
+  - fast, simple and flexible JavaScript (HTML5) charting library featuring pure JS API.
  </li>
  <li>
   <a href="https://github.com/samizdatco/arbor">
@@ -2691,7 +2832,7 @@
   </a>
   - graph visualization library using web workers and jQuery.
   <sup>
-   &#9733 2218, pushed 66 days ago
+   &#9733 2218, pushed 191 days ago
   </sup>
  </li>
  <li>
@@ -2700,8 +2841,14 @@
   </a>
   - visualize logs and time-stamped data stored in Solr. Port of Kibana.
   <sup>
-   &#9733 310, pushed 5 days ago
+   &#9733 310, pushed 130 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/ufukomer/bloomery">
+   Bloomery
+  </a>
+  - Web UI for Impala.
  </li>
  <li>
   <a href="http://bokeh.pydata.org/en/latest/">
@@ -2721,7 +2868,7 @@
   </a>
   - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
   <sup>
-   &#9733 1127, pushed 4 days ago
+   &#9733 1127, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2742,7 +2889,7 @@
   </a>
   - another open source HTML5 Charts visualization.
   <sup>
-   &#9733 8008, pushed 4 days ago
+   &#9733 8008, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -2757,7 +2904,7 @@
   </a>
   - JavaScript library for time series visualization.
   <sup>
-   &#9733 4275, pushed 53 days ago
+   &#9733 4275, pushed 177 days ago
   </sup>
  </li>
  <li>
@@ -2784,7 +2931,7 @@
   </a>
   - Compose complex, data-driven visualizations from reusable charts and components.
   <sup>
-   &#9733 703, pushed 12 days ago
+   &#9733 703, pushed 136 days ago
   </sup>
  </li>
  <li>
@@ -2799,7 +2946,7 @@
   </a>
   - Baidus enterprise charts.
   <sup>
-   &#9733 11526, pushed 2 days ago
+   &#9733 11526, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2808,7 +2955,7 @@
   </a>
   - dynamic HTML5 visualization.
   <sup>
-   &#9733 1501, pushed 1084 days ago
+   &#9733 1501, pushed 1209 days ago
   </sup>
  </li>
  <li>
@@ -2823,7 +2970,7 @@
   </a>
   - pen source real-time dashboard builder for IOT and other web mashups.
   <sup>
-   &#9733 3054, pushed 7 days ago
+   &#9733 3054, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2832,7 +2979,7 @@
   </a>
   - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
   <sup>
-   &#9733 1434, pushed 29 days ago
+   &#9733 1434, pushed 154 days ago
   </sup>
  </li>
  <li>
@@ -2877,7 +3024,7 @@
   </a>
   - plotting with Python.
   <sup>
-   &#9733 3567, pushed 2 days ago
+   &#9733 3567, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -2898,7 +3045,7 @@
   </a>
   - Progressive SVG bar, line and pie charts.
   <sup>
-   &#9733 3487, pushed 328 days ago
+   &#9733 3487, pushed 452 days ago
   </sup>
  </li>
  <li>
@@ -2913,7 +3060,7 @@
   </a>
   The open source javascript graphing library that powers plotly.
   <sup>
-   &#9733 4590, pushed 2 days ago
+   &#9733 4590, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -2922,7 +3069,7 @@
   </a>
   - simple but powerful library for building data applications in pure Javascript and HTML.
   <sup>
-   &#9733 1825, pushed 24 days ago
+   &#9733 1825, pushed 149 days ago
   </sup>
  </li>
  <li>
@@ -2931,8 +3078,14 @@
   </a>
   - open-source platform to query and visualize data.
   <sup>
-   &#9733 1629, pushed 2 days ago
+   &#9733 1629, pushed 126 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://recharts.org/">
+   ReCharts
+  </a>
+  - A composable charting library built on React components
  </li>
  <li>
   <a href="http://shiny.rstudio.com/">
@@ -2946,7 +3099,7 @@
   </a>
   - JavaScript library dedicated to graph drawing.
   <sup>
-   &#9733 6131, pushed 5 days ago
+   &#9733 6131, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -2955,7 +3108,7 @@
   </a>
   - a visualization grammar.
   <sup>
-   &#9733 12, pushed 173 days ago
+   &#9733 12, pushed 297 days ago
   </sup>
  </li>
  <li>
@@ -2964,7 +3117,7 @@
   </a>
   - a notebook-style collaborative data analysis.
   <sup>
-   &#9733 437, pushed 6 days ago
+   &#9733 437, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -3507,7 +3660,7 @@ for Data Analytics at Twitter.
   </a>
   .
   <sup>
-   &#9733 16107, pushed 7 days ago
+   &#9733 16107, pushed 132 days ago
   </sup>
  </li>
  <li>
@@ -3517,7 +3670,7 @@ for Data Analytics at Twitter.
   </a>
   .
   <sup>
-   &#9733 34522, pushed 2 days ago
+   &#9733 34522, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -3527,7 +3680,7 @@ for Data Analytics at Twitter.
   </a>
   .
   <sup>
-   &#9733 3765, pushed 2 days ago
+   &#9733 3765, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -3537,7 +3690,7 @@ for Data Analytics at Twitter.
   </a>
   .
   <sup>
-   &#9733 608, pushed 216 days ago
+   &#9733 608, pushed 341 days ago
   </sup>
  </li>
  <li>
@@ -3547,7 +3700,7 @@ for Data Analytics at Twitter.
   </a>
   .
   <sup>
-   &#9733 334, pushed 14 days ago
+   &#9733 334, pushed 139 days ago
   </sup>
  </li>
 </ul>

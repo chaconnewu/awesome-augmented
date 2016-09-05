@@ -57,6 +57,7 @@
 		- [Logging](#logging)
 		- [Configuration](#configuration)
 		- [BlogEngine](#blog-engine)
+		- [Testing](#testing)
 		
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -78,7 +79,7 @@
 *The people that made D the language it is.*
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively evangelizing D in the organization.
+* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
 
 ## Events
@@ -97,6 +98,7 @@
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
+* [libmir](https://github.com/libmir) - D's numeric library development team
 
 ## Books
 *D related books.* You can find another list of books on the [Books](http://wiki.dlang.org/Books) D wiki page.
@@ -123,6 +125,7 @@
 ## Blogs
 *D related blogs.*
 
+* [This week in D](http://arsdnet.net/this-week-in-d) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language. 
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
 * [D Idioms](http://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
 
@@ -133,6 +136,7 @@
 * [Hidden treasures in the D standard library](http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
 * [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 * [D is for Data Science](http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html) - A great post about how D is suitable for data science, particularly, replacing the role of python scripts for fast prototyping.
+* [D Functional Garden](https://garden.dlang.io/)
 
 ## Package Management
 
@@ -159,6 +163,13 @@
 
 * [dub](https://github.com/D-Programming-Language/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
+* [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
+* [reggae](https://github.com/atilaneves/reggae) - meta build system in D
+* [Makefile](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+* [cmake-d](https://github.com/dcarp/cmake-d) - CMake D Projects
+* [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
+* [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
+* [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/Vild/PowerNex) kernel
 
 ## IDE
 
@@ -189,8 +200,12 @@
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
+
 ## Containers
 * [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
+- [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+- [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+- [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## Web Frameworks
 
@@ -216,8 +231,14 @@
 * [fast.json](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
+* [std.data.join](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
+* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes.
 
+### XML
 
+* [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+* [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+* [dom.d] - an xml/html DOM based on what Javascript provides in browsers
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
@@ -251,6 +272,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui)
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -306,13 +328,15 @@
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
+* [dlib.image](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ## Scientific
 *Scientific programming*
 
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
-* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library. Include the ndslice package that is comming into std.
+* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library for Science and Machine Learning. Development version of the [std.experimental.ndslice](http://dlang.org/phobos/std_experimental_ndslice.html) module and work-in-progress hub for future numerical additions to Phobos.
 
 ## Text Processing
 
@@ -321,7 +345,7 @@
 ## Logging
 *Print with care.*
 
-- [logger](https://github.com/burner/logger) - Phobos logger proposal.
+- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility
 - [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](http://linuxcommand.org/man_pages/logrotate8.html) support.
 
 ## Configuration
@@ -329,12 +353,17 @@
 
 - [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 - [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
+- [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## Blog Engine
 *Hosting blogs yourself*
 
 - [mood](https://github.com/Dicebot/mood) - simple vibe.d based blog engine
 
+## Testing
+
+- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.

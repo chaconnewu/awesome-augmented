@@ -264,7 +264,7 @@
   </a>
   – A generic graph library for OCaml.
   <sup>
-   &#9733 62, pushed 8 days ago
+   &#9733 62, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -273,7 +273,7 @@
   </a>
   – A large collection of data structures and algorithms for OCaml.
   <sup>
-   &#9733 7, pushed 239 days ago
+   &#9733 7, pushed 364 days ago
   </sup>
  </li>
  <li>
@@ -286,7 +286,7 @@
   </a>
   .
   <sup>
-   &#9733 11, pushed 5 days ago
+   &#9733 11, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -300,7 +300,7 @@
   </a>
   – A community-maintained foundation library for your OCaml projects.
   <sup>
-   &#9733 240, pushed 6 days ago
+   &#9733 240, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -309,7 +309,7 @@
   </a>
   – Declarative definition of command line interfaces for OCaml.
   <sup>
-   &#9733 34, pushed 7 days ago
+   &#9733 34, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -318,7 +318,7 @@
   </a>
   – Jane Street Capital's standard library overlay.
   <sup>
-   &#9733 367, pushed 5 days ago
+   &#9733 367, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -333,7 +333,7 @@
   </a>
   – Library for binding to C libraries using pure OCaml.
   <sup>
-   &#9733 122, pushed 4 days ago
+   &#9733 122, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -342,7 +342,7 @@
   </a>
   – Pretty-printing library for OCaml.
   <sup>
-   &#9733 11, pushed 148 days ago
+   &#9733 11, pushed 272 days ago
   </sup>
  </li>
  <li>
@@ -351,7 +351,7 @@
   </a>
   – Light library to deal with RPCs in OCaml.
   <sup>
-   &#9733 25, pushed 285 days ago
+   &#9733 25, pushed 410 days ago
   </sup>
  </li>
  <li>
@@ -360,8 +360,14 @@
   </a>
   – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
   <sup>
-   &#9733 89, pushed 7 days ago
+   &#9733 89, pushed 132 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/pqwy/notty">
+   Notty
+  </a>
+  - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
  </li>
 </ul>
 <h2>
@@ -463,7 +469,7 @@
   </a>
   – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
   <sup>
-   &#9733 1653, pushed 36 days ago
+   &#9733 1653, pushed 161 days ago
   </sup>
  </li>
  <li>
@@ -472,7 +478,7 @@
   </a>
   - infer is a static analyzer for Java, C and Objective-C
   <sup>
-   &#9733 5107, pushed 4 days ago
+   &#9733 5107, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -481,8 +487,26 @@
   </a>
   - flow is a static type checker for JavaScript
   <sup>
-   &#9733 7083, pushed 3 days ago
+   &#9733 7083, pushed 127 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/cryptosense/ocamllint">
+   Ocamllint
+  </a>
+  - Ocamllint detects common errors in OCaml code
+ </li>
+ <li>
+  <a href="https://github.com/npm-ml/BetterErrors">
+   BetterErrors
+  </a>
+  - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
+ </li>
+ <li>
+  <a href="https://github.com/Microsoft/SLAyer">
+   SLAyer
+  </a>
+  - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
  </li>
 </ul>
 <h2>
@@ -552,7 +576,7 @@
     </a>
     – A Lisp on LLVM written in OCaml.
     <sup>
-     &#9733 552, pushed 399 days ago
+     &#9733 552, pushed 523 days ago
     </sup>
    </li>
    <li>
@@ -574,6 +598,12 @@
      Alternative website
     </a>
     .
+   </li>
+   <li>
+    <a href="https://github.com/TrustInSoft/tis-interpreter">
+     tis-interpreter
+    </a>
+    - An interpreter for finding subtle bugs in programs written in standard C
    </li>
    <li>
     <a href="http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88">
@@ -607,9 +637,15 @@
     </a>
     – lex and yacc implementation for OCaml.
    </li>
+   <li>
+    <a href="https://github.com/inhabitedtype/angstrom">
+     Angstrom
+    </a>
+    - Parser combinators built for speed and memory efficiency
+   </li>
   </ul>
   <sup>
-   &#9733 40, pushed 23 days ago
+   &#9733 40, pushed 147 days ago
   </sup>
  </li>
  <li>
@@ -699,7 +735,7 @@
     </a>
     – Redis bindings for OCaml.
     <sup>
-     &#9733 16, pushed 1 days ago
+     &#9733 16, pushed 126 days ago
     </sup>
    </li>
    <li>
@@ -714,7 +750,7 @@
     </a>
     – Implementation of MySQL Protocol with the Bitstring library.
     <sup>
-     &#9733 5, pushed 80 days ago
+     &#9733 5, pushed 204 days ago
     </sup>
    </li>
   </ul>
@@ -742,12 +778,12 @@
     </a>
     - It is a WIP database server written in OCaml.
     <sup>
-     &#9733 8, pushed 408 days ago
+     &#9733 8, pushed 533 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 544, pushed 3 days ago
+   &#9733 544, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -769,7 +805,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 22, pushed 74 days ago
+   &#9733 22, pushed 199 days ago
   </sup>
  </li>
  <li>
@@ -802,7 +838,7 @@
   </a>
   – An OCaml kernel for the IPython notebook.
   <sup>
-   &#9733 95, pushed 18 days ago
+   &#9733 95, pushed 143 days ago
   </sup>
  </li>
  <li>
@@ -811,7 +847,7 @@
   </a>
   – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
   <sup>
-   &#9733 245, pushed 8 days ago
+   &#9733 245, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -832,7 +868,7 @@
   </a>
   – A command-line tool to manage Github Issues.
   <sup>
-   &#9733 12, pushed 727 days ago
+   &#9733 12, pushed 852 days ago
   </sup>
  </li>
  <li>
@@ -841,7 +877,7 @@
   </a>
   – Yeoman generator to scaffold OCaml modules.
   <sup>
-   &#9733 13, pushed 43 days ago
+   &#9733 13, pushed 168 days ago
   </sup>
  </li>
  <li>
@@ -863,7 +899,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 11, pushed 883 days ago
+   &#9733 11, pushed 1008 days ago
   </sup>
  </li>
  <li>
@@ -884,7 +920,7 @@
     </a>
     - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
     <sup>
-     &#9733 107, pushed 25 days ago
+     &#9733 107, pushed 150 days ago
     </sup>
    </li>
    <li>
@@ -893,7 +929,7 @@
     </a>
     — Better OCaml mode for Sublime Text.
     <sup>
-     &#9733 7, pushed 247 days ago
+     &#9733 7, pushed 371 days ago
     </sup>
    </li>
    <li>
@@ -926,7 +962,7 @@
    </li>
   </ul>
   <sup>
-   &#9733 395, pushed 4 days ago
+   &#9733 395, pushed 129 days ago
   </sup>
  </li>
  <li>
@@ -942,6 +978,9 @@
      Bisect_ppx
     </a>
     a more recent fork of the previous tool.
+    <sup>
+     &#9733 1, pushed 17 days ago
+    </sup>
    </li>
   </ul>
  </li>
@@ -1064,7 +1103,7 @@
   </a>
   – OCaml library for reading, writing and modifying PDF files.
   <sup>
-   &#9733 44, pushed 30 days ago
+   &#9733 44, pushed 155 days ago
   </sup>
  </li>
  <li>
@@ -1078,7 +1117,7 @@
   </a>
   – A neat interface for Slack in OCaml.
   <sup>
-   &#9733 25, pushed 2 days ago
+   &#9733 25, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1109,7 +1148,7 @@
     </a>
     — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
     <sup>
-     &#9733 11, pushed 261 days ago
+     &#9733 11, pushed 385 days ago
     </sup>
    </li>
    <li>
@@ -1118,7 +1157,7 @@
     </a>
     – Declarative 2D vector graphics for OCaml.
     <sup>
-     &#9733 35, pushed 263 days ago
+     &#9733 35, pushed 388 days ago
     </sup>
    </li>
   </ul>
@@ -1165,7 +1204,7 @@
     </a>
     – Qt5 bindings for OCaml.
     <sup>
-     &#9733 53, pushed 15 days ago
+     &#9733 53, pushed 140 days ago
     </sup>
    </li>
    <li>
@@ -1198,7 +1237,7 @@
   </a>
   – OCaml pattern-matching extended with regexps
   <sup>
-   &#9733 16, pushed 67 days ago
+   &#9733 16, pushed 192 days ago
   </sup>
  </li>
  <li>
@@ -1234,7 +1273,7 @@
   </a>
   .
   <sup>
-   &#9733 5, pushed 472 days ago
+   &#9733 5, pushed 596 days ago
   </sup>
  </li>
  <li>
@@ -1258,7 +1297,7 @@
   </a>
   – A dumb OCaml logger.
   <sup>
-   &#9733 17, pushed 202 days ago
+   &#9733 17, pushed 327 days ago
   </sup>
  </li>
  <li>
@@ -1267,8 +1306,14 @@
   </a>
   – A variant of Bolt OCaml logging tool.
   <sup>
-   &#9733 2, pushed 1057 days ago
+   &#9733 2, pushed 1182 days ago
   </sup>
+ </li>
+ <li>
+  <a href="http://erratique.ch/software/logs">
+   Logs
+  </a>
+  - Logs provides a logging infrastructure for OCaml.
  </li>
 </ul>
 <h2>
@@ -1332,7 +1377,7 @@
     </code>
     .
     <sup>
-     &#9733 6, pushed 551 days ago
+     &#9733 6, pushed 675 days ago
     </sup>
    </li>
    <li>
@@ -1340,12 +1385,12 @@
      ppx
     </a>
     <sup>
-     &#9733 23, pushed 487 days ago
+     &#9733 23, pushed 612 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 12, pushed 137 days ago
+   &#9733 12, pushed 262 days ago
   </sup>
  </li>
 </ul>
@@ -1361,7 +1406,7 @@ monad
  </a>
  – A Yojson codec generator for OCaml.
  <sup>
-  &#9733 27, pushed 1 days ago
+  &#9733 27, pushed 126 days ago
  </sup>
 </li>
 <li>
@@ -1413,6 +1458,20 @@ monad
    </li>
   </ul>
  </li>
+ <li>
+  <strong>
+   Bindings
+  </strong>
+  :
+  <ul>
+   <li>
+    <a href="https://github.com/dannywillems/ocaml-cordova-plugin-list">
+     Cordova plugins
+    </a>
+    – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+   </li>
+  </ul>
+ </li>
 </ul>
 <h2>
  Networking
@@ -1436,12 +1495,12 @@ monad
     </a>
     – OCaml bindings to libcurl.
     <sup>
-     &#9733 17, pushed 3 days ago
+     &#9733 17, pushed 128 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 156, pushed 2 days ago
+   &#9733 156, pushed 126 days ago
   </sup>
  </li>
  <li>
@@ -1462,7 +1521,7 @@ monad
     </a>
     – Async wrapper around ocaml-zmq.
     <sup>
-     &#9733 9, pushed 26 days ago
+     &#9733 9, pushed 151 days ago
     </sup>
    </li>
    <li>
@@ -1471,12 +1530,12 @@ monad
     </a>
     – Lwt-friendly interface to ZeroMQ for OCaml.
     <sup>
-     &#9733 11, pushed 97 days ago
+     &#9733 11, pushed 221 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 29, pushed 27 days ago
+   &#9733 29, pushed 152 days ago
   </sup>
  </li>
  <li>
@@ -1485,7 +1544,7 @@ monad
   </a>
   – A pure OCaml implementation of the DNS protocol.
   <sup>
-   &#9733 32, pushed 16 days ago
+   &#9733 32, pushed 141 days ago
   </sup>
  </li>
  <li>
@@ -1494,7 +1553,7 @@ monad
   </a>
   – nanomsg bindings for OCaml.
   <sup>
-   &#9733 25, pushed 14 days ago
+   &#9733 25, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1503,8 +1562,18 @@ monad
   </a>
   – Fluentd logger for OCaml.
   <sup>
-   &#9733 3, pushed 612 days ago
+   &#9733 3, pushed 737 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/haesbaert/charrua-unix">
+   charrua-unix
+  </a>
+  - charrua-unix is a Unix DHCP daemon based on
+  <a href="https://github.com/haesbaert/charrua-core">
+   charrua-core
+  </a>
+  .
  </li>
 </ul>
 <h2>
@@ -1572,7 +1641,7 @@ monad
     </a>
     – Release OPAM packages easily.
     <sup>
-     &#9733 7, pushed 505 days ago
+     &#9733 7, pushed 630 days ago
     </sup>
    </li>
   </ul>
@@ -1597,7 +1666,7 @@ monad
     </a>
     — Tool to convert OASIS metadata to OPAM package descriptions.
     <sup>
-     &#9733 18, pushed 47 days ago
+     &#9733 18, pushed 171 days ago
     </sup>
    </li>
    <li>
@@ -1606,7 +1675,7 @@ monad
     </a>
     – Simple package build system for ocaml.
     <sup>
-     &#9733 37, pushed 30 days ago
+     &#9733 37, pushed 155 days ago
     </sup>
    </li>
    <li>
@@ -1615,7 +1684,7 @@ monad
     </a>
     – Monadic build system from Jane Street.
     <sup>
-     &#9733 30, pushed 5 days ago
+     &#9733 30, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -1630,7 +1699,7 @@ monad
     </a>
     — Easy to use Makefile for small to medium-sized OCaml-projects.
     <sup>
-     &#9733 26, pushed 18 days ago
+     &#9733 26, pushed 143 days ago
     </sup>
    </li>
    <li>
@@ -1639,8 +1708,14 @@ monad
     </a>
     — OPAM-aware packaging system using ocamlbuild.
     <sup>
-     &#9733 34, pushed 7 days ago
+     &#9733 34, pushed 131 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/aantron/namespaces">
+     Namespaces
+    </a>
+    - ocamlbuild plugin that converts your directory tree into nested modules.
    </li>
   </ul>
  </li>
@@ -1676,7 +1751,7 @@ monad
     </a>
     — A simple library for forking child processes to perform work on multiple cores.
     <sup>
-     &#9733 17, pushed 1102 days ago
+     &#9733 17, pushed 1226 days ago
     </sup>
    </li>
    <li>
@@ -1691,7 +1766,7 @@ monad
     </a>
     — A library for spawning processes on a cluster of machines, and passing typed messages between them.
     <sup>
-     &#9733 21, pushed 5 days ago
+     &#9733 21, pushed 130 days ago
     </sup>
    </li>
    <li>
@@ -1710,7 +1785,7 @@ monad
     </a>
     – Process pool implementation for OCaml.
     <sup>
-     &#9733 24, pushed 979 days ago
+     &#9733 24, pushed 1103 days ago
     </sup>
    </li>
   </ul>
@@ -1760,7 +1835,7 @@ monad
   </a>
   .
   <sup>
-   &#9733 60, pushed 5 days ago
+   &#9733 60, pushed 130 days ago
   </sup>
  </li>
  <li>
@@ -1769,7 +1844,7 @@ monad
   </a>
   – OCaml library for building bioinformatics pipelines.
   <sup>
-   &#9733 4, pushed 185 days ago
+   &#9733 4, pushed 310 days ago
   </sup>
  </li>
  <li>
@@ -1784,7 +1859,7 @@ monad
   </a>
   – Numerical library for OCaml.
   <sup>
-   &#9733 7, pushed 760 days ago
+   &#9733 7, pushed 885 days ago
   </sup>
  </li>
  <li>
@@ -1793,7 +1868,7 @@ monad
   </a>
   - OCaml library for general numerical work.
   <sup>
-   &#9733 71, pushed 19 days ago
+   &#9733 71, pushed 144 days ago
   </sup>
  </li>
  <li>
@@ -1806,7 +1881,7 @@ monad
   </code>
   special funcitons library.
   <sup>
-   &#9733 8, pushed 99 days ago
+   &#9733 8, pushed 223 days ago
   </sup>
  </li>
 </ul>
@@ -1820,7 +1895,7 @@ monad
   </a>
   – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
   <sup>
-   &#9733 61, pushed 39 days ago
+   &#9733 61, pushed 164 days ago
   </sup>
  </li>
  <li>
@@ -1829,7 +1904,7 @@ monad
   </a>
   – bindings to the PCRE library (perl-compatible regular expressions)
   <sup>
-   &#9733 11, pushed 68 days ago
+   &#9733 11, pushed 193 days ago
   </sup>
  </li>
  <li>
@@ -1838,8 +1913,14 @@ monad
   </a>
   – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
   <sup>
-   &#9733 16, pushed 262 days ago
+   &#9733 16, pushed 386 days ago
   </sup>
+ </li>
+ <li>
+  <a href="https://github.com/Drup/tyre">
+   Tyre
+  </a>
+  - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
  </li>
 </ul>
 <h2>
@@ -1852,7 +1933,7 @@ monad
   </a>
   – TLS in pure OCaml.
   <sup>
-   &#9733 147, pushed 2 days ago
+   &#9733 147, pushed 127 days ago
   </sup>
  </li>
 </ul>
@@ -1877,7 +1958,7 @@ monad
   </a>
   — Bencode (.torrent file format) reader/writer.
   <sup>
-   &#9733 5, pushed 533 days ago
+   &#9733 5, pushed 658 days ago
   </sup>
  </li>
  <li>
@@ -1886,7 +1967,7 @@ monad
   </a>
   – Extensible binary data format, like JSON but faster.
   <sup>
-   &#9733 16, pushed 13 days ago
+   &#9733 16, pushed 138 days ago
   </sup>
  </li>
  <li>
@@ -1913,7 +1994,7 @@ monad
   </a>
   – A S-expression parser and printer
   <sup>
-   &#9733 41, pushed 5 days ago
+   &#9733 41, pushed 130 days ago
   </sup>
  </li>
 </ul>
@@ -1927,7 +2008,7 @@ monad
   </a>
   – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
   <sup>
-   &#9733 657, pushed 2 days ago
+   &#9733 657, pushed 127 days ago
   </sup>
  </li>
  <li>
@@ -1936,7 +2017,7 @@ monad
   </a>
   – Read and write FAT format filesystems from OCaml.
   <sup>
-   &#9733 8, pushed 390 days ago
+   &#9733 8, pushed 515 days ago
   </sup>
  </li>
  <li>
@@ -1945,7 +2026,7 @@ monad
   </a>
   – Pure OCaml low-level git bindings.
   <sup>
-   &#9733 39, pushed 3 days ago
+   &#9733 39, pushed 128 days ago
   </sup>
  </li>
  <li>
@@ -1954,7 +2035,7 @@ monad
   </a>
   – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
   <sup>
-   &#9733 19, pushed 26 days ago
+   &#9733 19, pushed 151 days ago
   </sup>
  </li>
 </ul>
@@ -1968,7 +2049,7 @@ monad
   </a>
   – A lightweight and colourful test framework.
   <sup>
-   &#9733 0, pushed 8 days ago
+   &#9733 0, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -1983,7 +2064,7 @@ monad
   </a>
   — QCheck is a property testing library inspired from Haskell's QuickCheck
   <sup>
-   &#9733 27, pushed 44 days ago
+   &#9733 27, pushed 169 days ago
   </sup>
  </li>
  <li>
@@ -1996,7 +2077,7 @@ monad
   </a>
   )  — supports inline pragma's to generate tests.
   <sup>
-   &#9733 22, pushed 8 days ago
+   &#9733 22, pushed 133 days ago
   </sup>
  </li>
  <li>
@@ -2021,7 +2102,7 @@ monad
   </a>
   .
   <sup>
-   &#9733 6, pushed 430 days ago
+   &#9733 6, pushed 555 days ago
   </sup>
  </li>
 </ul>
@@ -2061,12 +2142,12 @@ monad
     </a>
     – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
     <sup>
-     &#9733 50, pushed 41 days ago
+     &#9733 50, pushed 166 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 162, pushed 6 days ago
+   &#9733 162, pushed 131 days ago
   </sup>
  </li>
  <li>
@@ -2136,7 +2217,7 @@ modules
     </a>
     - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
     <sup>
-     &#9733 653, pushed 4 days ago
+     &#9733 653, pushed 129 days ago
     </sup>
    </li>
    <li>
@@ -2145,7 +2226,7 @@ modules
     </a>
     – RFC3986 URI parsing library.
     <sup>
-     &#9733 31, pushed 33 days ago
+     &#9733 31, pushed 158 days ago
     </sup>
    </li>
    <li>
@@ -2154,7 +2235,7 @@ modules
     </a>
     – An OCaml bindings generator for JavaScript libraries.
     <sup>
-     &#9733 25, pushed 647 days ago
+     &#9733 25, pushed 772 days ago
     </sup>
    </li>
    <li>
@@ -2163,7 +2244,7 @@ modules
     </a>
     – RSS and Atom feed parsing
     <sup>
-     &#9733 17, pushed 28 days ago
+     &#9733 17, pushed 153 days ago
     </sup>
    </li>
    <li>
@@ -2172,7 +2253,7 @@ modules
     </a>
     – mustache.js logic-less templates in OCaml.
     <sup>
-     &#9733 21, pushed 16 days ago
+     &#9733 21, pushed 141 days ago
     </sup>
    </li>
    <li>
@@ -2185,7 +2266,7 @@ modules
     </em>
     ocaml.
     <sup>
-     &#9733 8, pushed 951 days ago
+     &#9733 8, pushed 1075 days ago
     </sup>
    </li>
    <li>
@@ -2194,7 +2275,7 @@ modules
     </a>
     – OCaml template engine almost compatible with jinja2.
     <sup>
-     &#9733 42, pushed 88 days ago
+     &#9733 42, pushed 212 days ago
     </sup>
    </li>
    <li>
@@ -2203,7 +2284,7 @@ modules
     </a>
     – Path-based dispatching for client- and server-side applications.
     <sup>
-     &#9733 14, pushed 167 days ago
+     &#9733 14, pushed 292 days ago
     </sup>
    </li>
    <li>
@@ -2212,7 +2293,7 @@ modules
     </a>
     - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     <sup>
-     &#9733 70, pushed 19 days ago
+     &#9733 70, pushed 143 days ago
     </sup>
    </li>
    <li>
@@ -2221,12 +2302,12 @@ modules
     </a>
     - Error-recovering streaming HTML5 and XML parsers, serializers.
     <sup>
-     &#9733 45, pushed 12 days ago
+     &#9733 45, pushed 136 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 52, pushed 51 days ago
+   &#9733 52, pushed 175 days ago
   </sup>
  </li>
  <li>
@@ -2245,7 +2326,7 @@ modules
    </li>
   </ul>
   <sup>
-   &#9733 32, pushed 366 days ago
+   &#9733 32, pushed 490 days ago
   </sup>
  </li>
 </ul>
