@@ -538,6 +538,12 @@
   </a>
   - premiere YouTube statistics tracking.
  </li>
+  <li>
+  <a href="https://www.noxinfluencer.com/">
+   NoxInfluencer
+  </a>
+  - Best Analyze YouTube Video Tool.
+ </li>
  <li>
   <a href="https://klout.com/">
    SocialBench
