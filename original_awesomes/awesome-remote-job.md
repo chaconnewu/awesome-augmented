@@ -324,6 +324,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Asana](https://asana.com/) - Project management good for distributed teams
   - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
   - [Trello](https://trello.com/) - lean project boards
+  - [Taskade](https://taskade.com/) - Realtime organization and collaboration tool for getting things done
 
 #### Others
   - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
